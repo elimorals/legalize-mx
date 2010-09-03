@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-08-31"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -501,21 +501,19 @@ Para dar curso a la acción popular, basta el señalamiento de los hechos que co
 
 ###### Artículo 1.
 
-43.- Las dependencias y organismos auxiliares estatales y municipales integrarán las tecnologías de información, en la prestación de los servicios gubernamentales a su cargo, observando las disposiciones que se señalen en el reglamento de este título.
+43.- Las dependencias y organismos auxiliares estatales, así como las dependencias y organismos municipales, integrarán las tecnologías de información, en la prestación de los servicios gubernamentales a su cargo, observando las disposiciones que se señalen en la Ley para el Uso de Medios Electrónicos del Estado de México.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-###### Artículo 1.
-
-44.- En la prestación de los servicios gubernamentales por vía electrónica, se tomarán las medidas necesarias para garantizar la seguridad y confidencialidad de la información, en su caso.
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 1.
 
-45.- Para aquellos servicios gubernamentales que se otorguen por vía electrónica, en los que exista necesidad de identificar electrónicamente tanto al usuario como a la dependencia u organismo prestador del servicio, se establecerá un sistema de certificación del medio de identificación electrónica, que permita comprobar fehacientemente su utilización.
+44.- En la prestación de los servicios gubernamentales por vía electrónica, se tomarán las medidas necesarias para garantizar la autenticación, autenticidad, confidencialidad, seguridad e integridad de la información, de acuerdo con la ley a que se refiere el párrafo anterior.
 
-La Secretaría de Administración tendrá a su cargo el sistema de certificación de los medios de identificación que se utilicen.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+45.- Para aquellos servicios gubernamentales que se otorguen por vía electrónica, en los que exista necesidad de identificar electrónicamente tanto al usuario como a la dependencia u organismo prestador del servicio, se atenderá lo dispuesto por la Ley para el Uso de Medios Electrónicos del Estado de México.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
 
@@ -603,7 +601,7 @@ Los ingresos del Consejo Estatal de Población, así como los productos e instru
 
 ## TITULO DECIMO PRIMERO. De los servicios gubernamentales por vía electrónica
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ## TITULO DECIMO SEGUNDO. Del Consejo Estatal de Población
 
@@ -1899,7 +1897,13 @@ XI. Fomentar el desarrollo de una cultura de ciencia y tecnología entre los sec
 
 XII. Asesorar y prestar servicios de apoyo en materia de ciencia y tecnología a las personas físicas y morales que lo soliciten;
 
-XIII. Las demás que se establezcan en otros ordenamientos.
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XIII. Impulsar un Sistema Estatal para el uso de Internet inalámbrico fomentando la instalación de sitios de libre acceso gratuito en todas las comunidades académicas, científicas y de los sectores públicos, productivos y sociales.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XIV. Las demás que se establezcan en otros ordenamientos.
 
 ###### Artículo 3.
 
@@ -3173,9 +3177,9 @@ III. Abasto, comercio y servicios;
 
 IV. Mixto.
 
-#### SECCION PRIMERA. De la subasta pública
+#### SECCIÓN SEXTA. DE LA SUBASTA INVERSA ELECTRÓNICA
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 5.
 
@@ -3255,9 +3259,9 @@ Cuando se lleve a cabo un conjunto urbano con el propósito de cumplir un fideic
 
 El comprador de lotes en bloque será solidariamente responsable con el titular de la autorización del conjunto urbano, respecto de las obligaciones establecidas en la autorización correspondiente.
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION PRIMERA. De la subasta pública
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -3775,7 +3779,7 @@ IV. Las unidades internas;
 
 V. Los grupos voluntarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 6.
 
@@ -3795,13 +3799,17 @@ VI. Promover la creación de fondos para las acciones de protección civil;
 
 VII. Solicitar el apoyo del Gobierno Federal para el auxilio y recuperación en los casos de emergencia o desastre cuando la capacidad operativa y financiera del Estado sea superada;
 
-VIII. Aplicar los recursos estatales y federales a las acciones de prevención, auxilio y recuperación;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. Aplicar los recursos estatales y federales a las acciones de prevención, auxilio y de recuperación;
 
 IX. Informar al sistema nacional de protección civil de la ocurrencia de riesgos y desastres en el territorio del Estado para la concertación y coordinación de acciones;
 
 X. Apoyar la creación, desarrollo y consolidación de los consejos municipales de protección civil, grupos voluntarios y grupos de ayuda mutua;
 
-XI. Promover la creación, actualización y desarrollo de los atlas municipales de riesgos;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos;
 
 XII. Proponer la adquisición de equipo especializado de transporte, comunicación, prevención y atención de desastres con cargo a los fondos disponibles;
 
@@ -3817,11 +3825,35 @@ XVII. Establecer, operar o enlazarse con redes de detección, monitoreo, pronós
 
 XVIII. Desarrollar, actualizar y difundir el Atlas de Riesgos del Estado de México;
 
-XIX. Expedir y vigilar la aplicación de las normas técnicas estatales y demás disposiciones en materia de protección civil;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XIX. Expedir, actualizar y vigilar la aplicación de normas técnicas estatales y demás disposiciones en materia de protección civil.
+
+Las normas técnicas se deberán expedir de conformidad con las disposiciones aplicables de las leyes federales, estatales y municipales correspondientes, así como con los convenios internacionales.
+
+Su actualización deberá ser cada cinco años.
+
+Su aplicación y vigilancia, corresponderá a las autoridades estatales y municipales, de acuerdo a su competencia;
 
 XX. Recibir, evaluar y aprobar los programas de las unidades internas de protección civil;
 
-XXI. Impulsar y difundir la cultura de protección civil en el Estado. Para tal efecto, la Secretaría General de Gobierno difundirá entre las autoridades estatales y municipales, y la población en general los resultados de los trabajos que se realicen, así como la información que tienda a la generación, desarrollo y consolidación de una cultura en la materia;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XXI. El Sistema Estatal promoverá la cultura de la autoprotección, que convoque y sume el interés de la población en general, así como su participación individual y colectiva.
+
+Es menester el impulsar la cultura de la autoprotección, para lo cual las dependencias del sector público, con la participación del sector social, privado y académico, promoverán:
+
+a) El desarrollo y ejecución de acciones en el ámbito Estatal y Municipal, que permita se brinden los conocimientos básicos de la cultura de la autoprotección.
+
+b) La ejecución de simulacros en lugares de concentración masiva de personas.
+
+c) La formulación y promoción de campañas masivas de difusión, que contengan temas en materia de Protección Civil.
+
+d) Actividades de concertación con los diversos medios de difusión masiva, para la realización de campañas de divulgación sobre temas de protección civil y cultura de la autoprotección.
+
+e) La integración de acervos de información técnica y científica sobre fenómenos perturbadores, que afecten o puedan afectar a la población, que permita la instrumentación de acciones a seguir durante, la inminente presencia de un agente perturbador.
+
+f) El fortalecimiento y desarrollo de programas educativos y de difusión en materia de protección civil, dirigidos a la población en general, que permita conocer las acciones a seguir, durante el eminente embate o presencia de un agente perturbador, en las fases sustantivas de protección civil: prevención, auxilio y recuperación.
 
 XXII. Las demás que le confieren este Libro y las demás disposiciones legales aplicables.
 
@@ -3833,7 +3865,9 @@ XXII. Las demás que le confieren este Libro y las demás disposiciones legales 
 
 9.- El Consejo Estatal de Protección Civil tendrá las atribuciones siguientes:
 
-I. Participar en la elaboración y evaluación del Programa Estatal de Protección Civil, y coadyuvar en su aplicación, procurando su amplia difusión en la entidad;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+I. Participar en la elaboración y evaluación del Programa Estatal de Protección Civil, y coadyuvar en su aplicación, para mejorar la cultura de la prevención en la materia y su amplia difusión en la entidad;
 
 II. Fomentar la participación de los sectores de la sociedad en la formulación y ejecución de los programas de protección civil;
 
@@ -3879,9 +3913,11 @@ IV. Los grupos voluntarios.
 
 Los sistemas municipales deberán vincularse y coordinarse con el sistema estatal de protección civil.
 
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 6.
 
-12.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil. Asimismo, tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
+12.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil, fundamentalmente enfocadas a prevenir en la materia, sin descuidar aquellas referidas al auxilio y recuperación. Asimismo tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
 
 ### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
 
@@ -3927,9 +3963,11 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 16.- Los poderes Legislativo y Judicial, las dependencias, organismos auxiliares y fideicomisos públicos estatales y municipales, así como las personas de los sectores social y privado en los casos previstos en la reglamentación de este Libro, deberán establecer y operar unidades internas de protección civil, con el objeto de procurar la seguridad tanto de las personas que estén en sus instalaciones como de sus bienes, a través de acciones de prevención, auxilio y recuperación en caso de riesgo o desastre.
 
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 6.
 
-17.- Las unidades internas deberán elaborar programas de protección civil que presentarán para su registro ante la Secretaría General de Gobierno.
+17.- Las unidades internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría General de Gobierno.
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -5929,7 +5967,7 @@ IV. Exportación.
 
 ### CAPITULO TERCERO. De la sistematización
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -5967,7 +6005,7 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 ### CAPITULO QUINTO. De los catálogos
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -6111,7 +6149,7 @@ II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que 
 
 ### CAPITULO NOVENO. De los contratos
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -6253,7 +6291,7 @@ La Agencia de Seguridad Estatal verificará la existencia de barreras arquitect�
 
 ### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -7259,6 +7297,26 @@ II. Entidades, a los organismos auxiliares y fideicomisos públicos, de carácte
 
 III. Propuesta solvente, a la proposición presentada por una persona en un procedimiento de licitación o de invitación restringida, que cumpla con las bases del concurso, garantice el cumplimiento del contrato y considere costos de mercado.
 
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Firma Electrónica, a la firma electrónica avanzada en los términos de la Ley para el Uso de Medios Electrónicos.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+V. Ley de Medios Electrónicos, a la Ley para el Uso de Medios Electrónicos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Ofertas subsecuentes de descuentos, a la presentación dinámica de descuentos que realizan los postores para mejorar el precio ofertado inicialmente;
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Subasta inversa electrónica, a la modalidad con base en la cual la Administración Pública Estatal y Municipal, pueden desahogar los procedimientos para la adquisición de bienes y contratación de servicios a que se refiere el presente Libro, por conducto del Sistema Electrónico de Información, Trámites y Servicios, a efecto de adjudicarlos a los postores que presenten la oferta económica más favorable, mediante la presentación de ofertas subsecuentes de descuentos;
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. SEITS. Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley de Medios Electrónicos.
+
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 13.
@@ -7301,19 +7359,23 @@ De conformidad con lo dispuesto en el segundo párrafo del artículo 7 de la Ley
 
 4.- Las dependencias, entidades estatales y tribunales administrativos llevarán a cabo los procedimientos de adquisición de bienes y servicios que requieran, conforme con sus respectivos programas de adquisiciones.
 
-La Secretaría de Administración llevará a cabo los procedimientos de adquisición de bienes o servicios conjuntados en operaciones consolidadas.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-En el ámbito de la administración pública central del Estado, corresponde a la Secretaría de Administración el trámite de los procedimientos de contratos, relativos a arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles.
+La Secretaría de Finanzas llevará a cabo los procedimientos de adquisición de bienes o servicios conjuntados en operaciones consolidadas.
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+En el ámbito de la Administración Pública Estatal, corresponde a la Secretaría de Finanzas el trámite de los procedimientos de contratos, relativos a arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles.
 
 Las entidades, tribunales administrativos y ayuntamientos, en el ámbito de su respectiva competencia, tendrán a su cargo el trámite de los procedimientos y la contratación de arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-5.- Las secretarías de Administración y de la Contraloría, así como los ayuntamientos, podrán contratar asesoría técnica para la realización de investigaciones de mercado, verificación de precios, realización de pruebas de calidad y en general para el mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
+5.- Las secretarías de Finanzas y de la Contraloría, así como los ayuntamientos, podrán contratar asesoría técnica para la realización de investigaciones de mercado, verificación de precios, realización de pruebas de calidad y en general para el mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
 
-Las secretarías de Administración y de la Contraloría intercambiarán la información sobre los resultados de los trabajos derivados de los contratos de asesoría técnica.
+Las secretarías de Finanzas y de la Contraloría intercambiarán la información sobre los resultados de los trabajos derivados de los contratos de asesoría técnica.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7337,7 +7399,9 @@ Los actos a que se refiere el artículo 13.1 de este Libro que realicen los ayun
 
 8.- Corresponde al Ejecutivo del Estado, a través de la Secretaría de Administración, la interpretación para efectos administrativos del presente Libro, y a la Secretaría de la Contraloría la vigilancia de su aplicación para su debida observancia.
 
-La Secretaría de Administración establecerá las políticas y expedirá las normas técnicas y administrativas en las materias que regula el presente Libro.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría de Finanzas establecerá las políticas y expedirá las normas técnicas y administrativas en las materias que regula el presente Libro.
 
 Las políticas y normas administrativas a que se refiere el párrafo anterior, serán aplicables a los actos, contratos y convenios regulados por este Libro que realicen los ayuntamientos con cargo a recursos estatales, total o parcialmente.
 
@@ -7375,19 +7439,21 @@ II. Los recursos financieros y materiales y los servicios con los que se cuente;
 
 III. Los plazos estimados en los que se requerirán los bienes, arrendamientos y servicios;
 
-IV. Las políticas y normas administrativas que establezca la Secretaría de Administración y los ayuntamientos, en su caso, para optimizar las adquisiciones, arrendamientos y servicios;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Las políticas y normas administrativas que establezca la Secretaría de Finanzas y los ayuntamientos, en su caso, para optimizar las adquisiciones, arrendamientos y servicios;
 
 V. Las demás previsiones que sean necesarias para la adecuada planeación, operación y ejecución de los programas y acciones correspondientes.
 
 Las dependencias, entidades estatales y tribunales administrativos formularán sus programas de adquisiciones, arrendamientos y servicios, simultáneamente con sus programas anuales y proyectos de presupuestos de egresos.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-12.- La Secretaría de Administración tendrá a su cargo la elaboración y ejecución del programa anual de operaciones consolidadas.
+12.- La Secretaría de Finanzas tendrá a su cargo la elaboración y ejecución del programa anual de operaciones consolidadas.
 
-Las dependencias deberán presentar a la Secretaría de Administración sus requerimientos de adquisiciones y servicios sujetos a operaciones consolidadas, conforme con sus programas de adquisiciones, arrendamientos y servicios, dentro de un plazo de 10 días hábiles siguientes al en que se aprueben los presupuestos de egresos de sus unidades administrativas.
+Las dependencias deberán presentar a la Secretaría de Finanzas sus requerimientos de adquisiciones y servicios sujetos a operaciones consolidadas, conforme con sus programas de adquisiciones, arrendamientos y servicios, dentro de un plazo de 10 días hábiles siguientes al en que se aprueben los presupuestos de egresos de sus unidades administrativas.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7431,17 +7497,25 @@ En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los 
 
 ###### Artículo 13.
 
-17.- La Secretaría de Administración establecerá los instrumentos que permitan llevar a cabo la sistematización de los procedimientos de adquisiciones, arrendamientos y servicios, que se realicen con cargo a recursos estatales, total o parcialmente. Los ayuntamientos establecerán estos instrumentos cuando se trate de actos, contratos o convenios que se celebren con cargo a recursos municipales.
+17.- Los procedimientos de adquisiciones, arrendamientos y servicios, que se realicen con cargo a recursos estatales, total o parcialmente, deberán desahogarse por conducto del SEITS, salvo en los casos en que así lo determine el comité de adquisiciones. Lo mismo aplicará a los ayuntamientos cuando se trate de actos, contratos o convenios que se celebren con cargo a recursos municipales.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+El Reglamento del presente Libro, establecerá las modalidades bajo las cuales se desahogarán dichos procedimientos, atendiendo a la normatividad aplicable a cada uno de ellos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-18.- La sistematización de los procedimientos de adquisiciones, arrendamientos y servicios tendrá por objeto:
+18.- El uso SEITS en el desahogo de los procedimientos de adquisiciones, arrendamientos y servicios tendrá por objeto:
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 I. Disminuir los gastos que realicen los órganos públicos, así como los particulares participantes;
 
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 II. Controlar el gasto público;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 III. Lograr mayor eficiencia y transparencia.
 
@@ -7455,7 +7529,9 @@ III. Lograr mayor eficiencia y transparencia.
 
 19.- Operación consolidada es aquella que conjunta en un sólo procedimiento, por su uso generalizado o volumen, la adquisición de bienes o servicios, con el objeto de obtener las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
-Corresponde a la Secretaría de Administración llevar a cabo las operaciones consolidadas, respecto de las adquisiciones de bienes o servicios que requieran las dependencias.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Corresponde a la Secretaría de Finanzas llevar a cabo las operaciones consolidadas, respecto de las adquisiciones de bienes o servicios que requieran las dependencias.
 
 Los ayuntamientos en el ámbito de su respectiva competencia, llevarán a cabo las operaciones establecidas en este capítulo.
 
@@ -7469,15 +7545,21 @@ La reglamentación de este Libro establecerá los bienes y servicios sujetos a o
 
 ###### Artículo 13.
 
-20.- La Secretaría de Administración y los ayuntamientos establecerán y operarán el catálogo de bienes y servicios, de acuerdo con la reglamentación respectiva.
+20.- La Secretaría de Finanzas y los ayuntamientos establecerán y operarán el catalogo de bienes y servicios, de acuerdo con la reglamentación respectiva.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+Establecerán y operarán también el catálogo de bienes y servicios específicos que sean susceptibles de ser adquiridos o contratados bajo la modalidad de subasta inversa, los cuales deberán describirse genéricamente y determinarse sus especificaciones técnicas y comerciales, y en su caso, sus equivalentes. Dicho catálogo deberá publicarse en el SEITS y en el portal de Internet de la propia Secretaría y, en su caso, el de los ayuntamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-21.- A fin de conocer la capacidad administrativa, financiera, legal y técnica de las fuentes de suministro, la Secretaría de Administración y los ayuntamientos integrarán un catálogo de proveedores y prestadores de servicios.
+21.- A fin de conocer la capacidad administrativa, financiera, legal y técnica de las fuentes de suministro, la Secretaría de Finanzas y los ayuntamientos integrarán un catálogo de proveedores y prestadores de servicios.
 
-Las personas que deseen inscribirse en este catálogo, deberán cumplir con los requisitos que establezca la reglamentación respectiva.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Las personas que deseen inscribirse en el catálogo, deberán cumplir con los requisitos que establezca la reglamentación respectiva. En todo caso, deberán esta inscritos en el Registro Único de Personas Acreditadas del Estado de México, en los términos de la Ley de Medios Electrónicos, los proveedores y prestadores de servicios que deseen participar en los procedimientos que deban desahogarse por conducto del SEITS.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 La falta de inscripción en dicho catálogo no limitará la libre concurrencia de los interesados a los procedimientos adquisitivos regulados por este Libro.
 
@@ -7493,7 +7575,9 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 En cada dependencia, entidad, tribunal administrativo y ayuntamiento, se constituirá un comité de adquisiciones y servicios.
 
-La Secretaría de Administración se auxiliará de un comité central en los procedimientos relativos a las operaciones consolidadas, así como de un comité de arrendamientos, adquisiciones de inmuebles y enajenaciones.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría de Finanzas se auxiliará de un comité central en los procedimientos relativos a las operaciones consolidadas, así como de un comité de arrendamientos, adquisiciones de inmuebles y enajenaciones.
 
 Los ayuntamientos establecerán comités de arrendamientos, adquisiciones de inmuebles y enajenaciones.
 
@@ -7505,7 +7589,9 @@ Los ayuntamientos establecerán comités de arrendamientos, adquisiciones de inm
 
 I. Dictaminar, sobre la procedencia de los casos de excepción al procedimiento de licitación pública;
 
-II. Tramitar los procedimientos de licitación, invitación restringida y adjudicación directa, hasta dejarlos en estado de dictar el fallo correspondiente;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+II. Tramitar los procedimientos de licitación, invitación restringida y adjudicación directa, hasta dejarlos en estado de dictar el fallo correspondiente, incluidos los que tengan que desahogarse bajo la modalidad de subasta inversa;
 
 III. Emitir los dictámenes de adjudicación;
 
@@ -7587,11 +7673,11 @@ I. Previa investigación de mercado que realice la convocante, no exista el bien
 
 II. Resulte obligatorio por los tratados internacionales en que México sea parte o por convenios celebrados por el Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-32.- La Secretaría de Administración, las dependencias, entidades, tribunales administrativos y ayuntamientos, en términos de este Libro, serán los responsables de llevar a cabo el procedimiento de licitación pública.
+32.- La Secretaría de Finanzas, las dependencias, entidades, tribunales administrativos y ayuntamientos, en términos de este Libro, serán los responsables de llevar a cabo el procedimiento de licitación pública.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7623,7 +7709,13 @@ XI. La garantía que deberá otorgarse para asegurar la seriedad de la propuesta
 
 XII. Los demás requisitos generales que deberán cumplir los interesados, según las características y magnitud de los bienes y servicios.
 
-La Secretaría de la Contraloría hará pública la información referente a los procedimientos de adquisición, a través de los medios de difusión electrónica que establezca.
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+En la convocatoria deberá especificarse si en la licitación aplicará la modalidad de subasta inversa.
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría de la Contraloría hará pública la información referente a los procedimientos de adquisición, a través del SEITS y de su propio portal de Internet.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7679,6 +7771,14 @@ VIII. La convocante emitirá el fallo y lo dará a conocer a los licitantes pres
 
 IX. La falta de firma de algún licitante no invalidará su contenido y efectos.
 
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando el procedimiento de licitación se realice por conducto del SEITS, las propuestas técnicas y económicas se presentarán en los formatos electrónicos a que se refieran las bases respectivas, y en él se observarán las mismas condiciones a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Si es el caso que el procedimiento de licitación deba desahogarse bajo la modalidad de subasta inversa, una vez que se haya realizado la evaluación técnica se procederá a informar a los postores el momento en que dará inicio la etapa de ofertas subsecuentes de descuentos.
+
 El reglamento de este Libro establecerá los criterios para la evaluación de las propuestas y el procedimiento para el acto de presentación, apertura y evaluación de propuestas, dictamen y fallo.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
@@ -7687,15 +7787,19 @@ El reglamento de este Libro establecerá los criterios para la evaluación de la
 
 37.- En los casos en que las propuestas económicas estén por arriba del precio de mercado, la convocante lo hará de conocimiento de los participantes a fin de que reduzcan los precios de sus propuestas, hasta que se presente alguna propuesta que esté dentro de mercado, en caso contrario se procederá a declarar desierta la licitación.
 
-La convocante procederá a adjudicar el contrato al licitante que presente la propuesta, que estando dentro del precio de mercado, sea la más baja.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La convocante procederá a adjudicar el contrato al licitante que presente la propuesta, que estando dentro del precio de mercado, sea la más baja, debiendo dar preferencia, en igualdad de condiciones, a las presentadas por micro, pequeñas y medianas empresas. Si fuera el caso de que éstas hubieren presentado una misma oferta económica, se asignará a la que, a juicio del comité de adquisiciones, represente mayores ventajas para el convocante en cuanto a precio, fechas de entrega de bienes y/o prestación de servicios, así como otros criterios de valoración objetiva.
 
 Lo establecido en este artículo será aplicable en el procedimiento de invitación restringida.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-38.- La Secretaría de Administración, las dependencias, entidades, tribunales administrativos y ayuntamientos procederán a declarar desierta la licitación, en los procedimientos que tramiten, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases de licitación.
+38.- La Secretaría de Finanzas, las dependencias, entidades, tribunales administrativos y ayuntamientos procederán a declarar desierta la licitación, en los procedimientos que tramiten, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases de licitación.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 Podrá declararse desierta una licitación parcialmente, cuando no se hubiese recibido propuesta alguna o las presentadas no reúnan los requisitos, respecto de una o varias partidas o conceptos.
 
@@ -7728,6 +7832,10 @@ I. Se hubiere declarado desierto un procedimiento de licitación; o
 II. El importe de la operación no exceda de los montos establecidos por el Presupuesto de Egresos del Gobierno del Estado de México del ejercicio correspondiente.
 
 Las dependencias, entidades, tribunales administrativos y ayuntamientos se abstendrán de fraccionar el importe de las operaciones, con el propósito de quedar comprendidos en este supuesto de excepción. La Secretaría de la Contraloría y los órganos de control interno, en el ámbito de su competencia, vigilarán el cumplimiento de esta disposición.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+En la invitación deberá especificarse si en el proceso de asignación aplicará la modalidad de subasta inversa.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7793,7 +7901,31 @@ Las dependencias, entidades, tribunales administrativos y ayuntamientos, con el 
 
 47.- Las disposiciones relativas a los procedimientos de adquisición establecidas en este capítulo serán aplicables a los arrendamientos de bienes muebles e inmuebles, con arreglo a la reglamentación de este Libro.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 13.
+
+47-BIS.- La subasta inversa electrónica es una modalidad bajo la cual pueden desahogarse los procedimientos de adquisición de bienes y contratación de servicios en los casos previstos por el presente Libro, en condiciones más favorables para el Estado.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 13.
+
+47-TER.- La modalidad de subasta inversa electrónica sólo será aplicable para los procedimientos de adquisición de aquellos bienes y servicios que se encuentren inscritos en el catálogo de bienes y servicios específicos a que se refiere el segundo párrafo del artículo 13.20.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 13.
+
+47-QUÁTER.- La subasta dará inicio en la fecha y hora señaladas en la convocatoria y se realizará en presencia de un representante del comité de adquisiciones y servicios. Una vez iniciada, los postores inscritos podrán enviar sus ofertas de descuentos, con base en el procedimiento que determine el Reglamento y de acuerdo a las diferencias mínimas que señale la convocatoria respectiva.
+
+Mediante la presentación de estas ofertas subsecuentes de descuentos, se realizará la adjudicación al postor que presente la oferta más ventajosa. Los postores no podrán modificar las especificaciones originalmente contenidas en su propuesta técnica.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO SEXTO. Administración del Proyecto
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -7837,17 +7969,15 @@ XIII. Las demás que señalen otras disposiciones legales.
 
 50.- En el procedimiento de subasta pública de bienes muebles e inmuebles, deberán establecerse los mismos requisitos y condiciones para todos los participantes.
 
-Toda persona que satisfaga los requisitos de la convocatoria y de las bases de la subasta pública, tendrá derecho a presentar posturas. La Secretaría de Administración, entidades, tribunales administrativos y ayuntamientos proporcionarán a los interesados igual acceso a la información relacionada con la subasta.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+Toda persona que satisfaga los requisitos de la convocatoria y de las bases de la subasta pública, tendrá derecho a presentar posturas. La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos proporcionarán a los interesados igual acceso a la información relacionada con la subasta.
 
-### CAPITULO SEXTO. Administración del Proyecto
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-51.- La Secretaría de Administración, entidades, tribunales administrativos y ayuntamientos, tendrán a su cargo el trámite de los procedimientos de subasta pública.
+51.- La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos, tendrán a su cargo el trámite de los procedimientos de subasta pública.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7913,11 +8043,15 @@ IX. El acta presentación, apertura y evaluación de posturas, dictamen y fallo 
 
 X. La falta de firma de algún postor no invalidará el contenido y efectos del acta.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando la subasta se realice por conducto del SEITS, se observarán los procedimientos previstos por el Código Financiero y su Reglamento.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-56.- La Secretaría de Administración, entidades, tribunales administrativos y ayuntamientos, procederán a declarar desierta la subasta pública, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases.
+56.- La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos, procederán a declarar desierta la subasta pública, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7929,17 +8063,21 @@ Las convocantes deberán comunicar la cancelación a los interesados mediante es
 
 En estos casos, la cancelación no implicará ninguna responsabilidad de carácter económico para las convocantes.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-58.- La Secretaría de Administración, entidades, tribunales administrativos y ayuntamientos podrán enajenar bienes mediante adjudicación directa en términos de la reglamentación de este Libro, cuando se hubiere declarado desierto un procedimiento de subasta pública.
+58.- La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos podrán enajenar bienes mediante adjudicación directa en términos de la reglamentación de este Libro, cuando se hubiere declarado desierto un procedimiento de subasta pública.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO PRIMERO. Características Generales
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 13.
 
-59.- La adjudicación de los contratos derivados de los procedimientos de adquisiciones de bienes o servicios, obligará a la convocante y al licitante ganador a suscribir el contrato respectivo dentro de los diez días hábiles siguientes al de la notificación del fallo.
+59.- La adjudicación de los contratos derivados de los procedimientos de adquisiciones de bienes o servicios, obligará a la convocante y al licitante ganador a suscribir el contrato respectivo dentro de los diez días hábiles siguientes al de la notificación del fallo. Los contratos podrán suscribirse mediante el uso de la firma electrónica, en apego a las disposiciones de la Ley de Medios Electrónicos y su Reglamento.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -7961,15 +8099,13 @@ El contratista estará obligado a responder de los defectos y vicios ocultos de 
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Características Generales
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 13.
 
 62.- En los contratos se estipularán las diversas consecuencias de la cancelación, terminación anticipada o rescisión por causas imputables a la contratista.
 
-Los contratos contendrán los elementos que establezca la reglamentación de este Libro y se elaborarán conforme con los modelos que establezca la Secretaría de Administración o los ayuntamientos, en su caso.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Los contratos contendrán los elementos que establezca la reglamentación de este Libro y se elaborarán conforme con los modelos que establezca la Secretaría de Finanzas o los ayuntamientos, en su caso.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8051,6 +8187,10 @@ Es aplicable a las enajenaciones lo dispuesto en las fracciones I, III, IV, V, V
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 13.
 
 69.- Los proveedores que celebren los contratos de adquisiciones y servicios a que se refiere este Libro, deberán garantizar a favor de la contratante:
@@ -8089,7 +8229,7 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8115,6 +8255,10 @@ V. El proveedor suministrará los bienes y servicios en las cantidades y fechas 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 13.
 
 74.- Las dependencias y entidades estatales, así como los tribunales administrativos, proporcionarán a:
@@ -8127,13 +8271,13 @@ III. La Secretaria de la Contraloría y a los órganos de control interno, la in
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 13.
 
 75.- Las dependencias, entidades, tribunales administrativos y ayuntamientos conservarán, en sus archivos en forma ordenada la documentación comprobatoria de los actos, procedimientos y contratos materia de este Libro, cuando menos por el lapso de cinco años, contado a partir de la fecha de su celebración.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La información a que se refiere el párrafo anterior, en su caso, podrá conservarse en los términos previstos por la Ley de Medios Electrónicos.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8145,23 +8289,29 @@ Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a 
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 13.
 
 77.- Las convocantes y contratantes podrán verificar, en cualquier tiempo, que los actos, procedimientos y contratos se hayan celebrado conforme a las disposiciones de este Libro; ordenar visitas de inspección a los establecimientos de los licitantes, proveedores y prestadores de servicios, y requerir los datos e informes que estime necesarios.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO SEGUNDO. Disposiciones Generales
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 13.
 
-78.- Los particulares que infrinjan las disposiciones contenidas en éste Libro, serán sancionadas (sic) por la Secretaría de Administración, dependencias, entidades, ayuntamientos y tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de treinta a tres mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción.
+78.- Los particulares que infrinjan las disposiciones contenidas en éste Libro, serán sancionados por la Secretaría de Finanzas, dependencias, entidades, ayuntamientos y tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de treinta a tres mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO TERCERO. Del procedimiento de licitación pública
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8170,6 +8320,10 @@ Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
 La inconformidad administrativa se presentará ante la Contraloría, por escrito o por vía electrónica, dentro de los diez días hábiles siguientes a la fecha en que se de a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación, o en su defecto al en que le haya sido notificado el fallo de adjudicación.
 
 Tratándose de procedimientos de licitación o invitación restringida que realicen las autoridades municipales, la inconformidad administrativa se presentará por escrito ante el ayuntamiento correspondiente.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Si la inconformidad se tramita por conducto del SEITS, se estará a lo dispuesto por la Ley de Medios Electrónicos y su Reglamento.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8197,10 +8351,6 @@ El inconforme deberá adjuntar a su escrito el documento que acredite su persona
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 13.
 
 81.- La inconformidad administrativa suspenderá la contratación o en su caso la adquisición de bienes o la prestación de servicios, cuando:
@@ -8212,10 +8362,6 @@ II. Lo solicite la convocante, por considerar que de no suspender la contrataci�
 En todo caso, la suspensión se otorgará cuando no se siga perjuicio al interés social o se contravengan disposiciones de orden público.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-### CAPITULO TERCERO. Del procedimiento de licitación pública
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8707,7 +8853,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 ###### Artículo 14.
 
-30.- Las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán solicitar al IGECEM términos de referencia y autorización para la realización o contratación de estudios o investigaciones materia de este Libro, a efecto de mantener la homogeneidad, congruencia, veracidad y comparabilidad de la información.
+30.- Las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán solicitar al IGECEM términos de referencia y autorización para la realización o contratación de estudios o investigaciones materia de este Libro, a efecto de mantener la homogeneidad, congruencia, veracidad y compatibilidad de la información.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -10810,3 +10956,39 @@ SEXTO.- El acceso directo a la educación media superior y/o superior, estableci
 SÉPTIMO.- Lo previsto en los artículos 9 fracción IV párrafo segundo y 31 fracción XII, se realizará con estricto apego al principio constitucional de autonomía universitaria, y conforme a las disposiciones legales y reglamentarias aplicables de la Universidad Autónoma del Estado de México.
 
 OCTAVO.- Se derogan las disposiciones de igualo menor rango que se opongan a la presente Ley.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 134, POR EL QUE SE REFORMAN LOS ARTICULOS 13.4 EN SUS PARRAFOS SEGUNDO Y TERCERO, 13.5, 13.8 EN SU PARRAFO SEGUNDO, 13.11 EN SU FRACCION IV, 13.12, 13.17, 13.18 EN SU PARRAFO PRIMERO, 13.19 EN SU PARRAFO SEGUNDO, 13.20, 13.21 EN SUS PARRAFOS PRIMERO Y SEGUNDO, 13.22 EN SU PARRAFO TERCERO, 13.23 EN SU FRACCION II, 13.32, 13.33 EN SU ULTIMO PARRAFO, 13.37 EN SU PARRAFO SEGUNDO, 13.38 EN SU PARRAFO PRIMERO, 13.50 EN SU PARRAFO SEGUNDO, 13.51, 13.56, 13.58, 13.59, 13.62 EN SU PARRAFO SEGUNDO Y 13.78 EN SU PRIMER PARRAFO; Y SE ADICIONAN LAS FRACCIONES IV, V, VI, VII Y VIII AL ARTICULO 13.2; UN PARRAFO SEGUNDO AL ARTICULO 13.33; LOS PARRAFOS SEGUNDO Y TERCERO RECORRIENDOSE EL ACTUAL SEGUNDO PARA SER CUARTO AL ARTICULO 13.36; UN PARRAFO TERCERO AL ARTICULO 13.41; UNA SECCION SEXTA "DE LA SUBASTA INVERSA ELECTRONICA" AL CAPITULO SEPTIMO Y LOS ARTICULOS 13.47 BIS, 13.47 TER Y 13.47 QUATER, UN PARRAFO SEGUNDO AL ARTICULO 13.55; UN PARRAFO SEGUNDO AL ARTICULO 13.75; UN PARRAFO CUARTO AL ARTICULO 13.79; TODOS DEL LIBRO DECIMO TERCERO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrara en vigor una vez que se encuentren en servicio el SEITS y el Registro Único de Personas Acreditadas del Estado de México, en los términos del artículo Segundo Transitorio del Decreto por el que se expide la Ley para el Uso de Medios Electrónicos del Estado de México, debiendo observarse, en lo aplicable, lo dispuesto por el artículo Tercero Transitorio del propio Decreto.
+
+TERCERO.- Hasta en tanto se actualice lo dispuesto por el artículo anterior, continuarán aplicándose las disposiciones vigentes del Código Financiero.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 140, ARTICULO TERCERO POR EL QUE SE REFORMA LA FRACCION XIII Y SE ADICIONA LA FRACCION XIV AL ARTICULO 3.46 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Para el cumplimiento del presente Decreto, se implementarán de manera gradual las partidas presupuestarias, así como los programas y proyectos, a partir del ejercicio fiscal 2011.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 141, POR EL QUE SE REFORMAN LOS ARTICULOS 1.43, 1.44 Y 1.45 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 143, POR EL QUE SE REFORMAN LOS ARTICULOS 6.7 EN SU PRIMER PARRAFO Y SUS FRACCIONES VIII, XI, XIX Y XXI, 6.9 EN SU FRACCION I, 6.12 Y 6.17 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
