@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-creacion-de-municipios-en-el-estado-de-mexico-6075"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-22"
-last_updated: "2002-07-29"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY PARA LA CREACION DE MUNICIPIOS EN EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JULIO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE LA LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTICULO 61 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, PUBLICADA EN LA G.G. DE 3 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Ley publicada en la Gaceta del Gobierno el 22 de enero de 1996.
 
@@ -176,3 +178,11 @@ Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se abroga la Ley para la Creación de Municipios en el Estado de México. Publicada en el Periódico Oficial "Gaceta del Gobierno", el 22 de Enero de 1996.
