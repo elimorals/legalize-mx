@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2009-06-09"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2009.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE POR LOS ARTICULOS PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2010, POR LO QUE SE SUGIERE CONSULTARLOS AL FINAL DEL ORDENAMIENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -117,15 +119,19 @@ Las órdenes deberán ser notificadas de inmediato al generador de violencia y s
 
 En caso de que el inculpado quebrante las órdenes dictadas, se le sancionará en los términos de los artículos 255 y 256 del Código Penal para el Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 4o.
 
-La Policía Judicial del Estado actuará bajo la autoridad y el mando inmediato del Ministerio Público, de conformidad con lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 81 de la Constitución Política del Estado de Guanajuato.
+La Policía Ministerial del Estado actuará bajo la autoridad y el mando inmediato del Ministerio Público, de conformidad con lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 11 de la Constitución Política del Estado de Guanajuato.
 
-Dentro del período de averiguación previa, la Policía Judicial del Estado está obligada a:
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-I.- Recibir las denuncias sobre hechos que puedan constituir delitos graves del orden común, solo cuando, debido a las circunstancias del caso aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que la Policía Judicial del Estado informará de inmediato a cerca (sic) de las mismas. Las diversas policías, cuando actúen en auxilio del Ministerio Público, inmediatamente darán aviso a éste, dejando de actuar cuando él lo determine;
+Dentro del período de averiguación previa, la Policía Ministerial del Estado de Guanajuato está obligada a:
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Recibir las denuncias sobre hechos que puedan constituir delitos graves conforme al Código Penal para el Estado de Guanajuato u otra Ley que deban aplicar los tribunales del Estado, sólo cuando, debido a las circunstancias del caso, aquéllas no puedan ser formuladas directamente ante el Ministerio Público, al que la Policía Ministerial del Estado informará de inmediato acerca de las mismas. Las diversas policías, cuando actúen en auxilio del Ministerio Público, inmediatamente darán aviso a éste, dejando de actuar cuando él lo determine;
 
 II.- Practicar de acuerdo con las instrucciones que le gire el Ministerio Público, las diligencias que sean necesarias y exclusivamente para los fines de la averiguación previa;
 
@@ -133,7 +139,9 @@ III.- Llevar a cabo las citaciones, notificaciones y presentaciones que el Minis
 
 IV.- Realizar todo lo demás que señalen las leyes.
 
-En el ejercicio de la función investigadora a que se refiere este artículo, queda estrictamente prohibido a la Policía Judicial del Estado recibir declaraciones del inculpado o privar de la libertad a persona alguna, fuera de los casos de flagrancia o sin que medien instrucciones escritas del Ministerio Público o del juzgador.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+En el ejercicio de la función investigadora a que se refiere este artículo, queda estrictamente prohibido a la Policía Ministerial del Estado recibir declaraciones del inculpado o privar de la libertad a persona alguna, fuera de los casos de flagrancia o sin que medien instrucciones escritas del Ministerio Público o del juzgador.
 
 ###### Art. 5o.
 
@@ -229,11 +237,11 @@ Formalidades.
 
 Las actuaciones podrán practicarse a toda hora y aún en días inhábiles, sin necesidad de previa habilitación, y en cada una de ellas se expresará la hora, día, mes y año en que se practiquen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 14.
 
-El Juez, el Ministerio Público y la Policía Judicial o Preventiva estarán acompañados, en todas las diligencias que practiquen, de sus secretarios, si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquéllas pase.
+El juez, el Ministerio Público y la Policía Ministerial del Estado o Preventiva estarán acompañados, en todas las diligencias que practiquen, de sus secretarios, si los tuvieren, o de dos testigos de asistencia, que darán fe de todo lo que en aquéllas pase.
 
 En las diligencias podrán emplearse, según el caso y a juicio del funcionario que las practique, la taquigrafía, el dictáfono y cualquier otro medio que tenga por objeto reproducir imágenes o sonidos, y el medio empleado se hará constar en el acta respectiva.
 
@@ -1543,7 +1551,9 @@ La violación de esta disposición hará penalmente responsable al Ministerio P�
 
 En casos urgentes el Ministerio Público podrá, bajo su responsabilidad, ordenar por escrito la detención de personas, fundando y expresando los indicios previos que acrediten:
 
-I.- Que el indiciado haya intervenido en cualquier forma en la comisión de alguno de los delitos señalados como graves en este artículo;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Que el indiciado haya intervenido en cualquier forma en la comisión de alguno de los delitos señalados como graves en el Código Penal para el Estado de Guanajuato o en otra ley que deban aplicar los tribunales del Estado;
 
 II.- Que exista riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia; y
 
@@ -1561,9 +1571,9 @@ La violación de esta disposición hará penalmente responsable al Ministerio P�
 
 Bis.- En los casos de delito flagrante y en los urgentes ningún indiciado podrá ser detenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-Se entiende por delincuencia organizada cuando tres o más personas se organizan bajo las reglas de jerarquía para cometer de modo violento o reiterado o con fines predominantemente lucrativos, cualquiera de los delitos considerados como graves por el Artículo 11 del Código Penal.
+Se entiende por delincuencia organizada cuando tres o más personas se organizan de hecho para cometer de forma reiterada o permanente cualquiera de los delitos considerados como graves en el Código Penal para el Estado de Guanajuato o en otra ley que deban aplicar los tribunales del Estado.
 
 Si la integración de la averiguación previa requiriera mayor tiempo del señalado, el detenido será puesto en inmediata libertad, sin perjuicio de que el Ministerio Público en su oportunidad solicite orden de aprehensión.
 
@@ -1575,21 +1585,21 @@ Cuando estén reunidos los requisitos del artículo 16 constitucional, el tribun
 
 La orden de aprehensión o, en su caso, de comparecencia, se librará por el delito que aparezca comprobado, aún cuando cambie la apreciación legal del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-La resolución respectiva contendrá una relación sucinta de los hechos que la motiven, sus fundamentos legales y se entregará inmediatamente al Ministerio Público, para que éste ordene a la policía judicial su ejecución.
+La resolución respectiva contendrá una relación sucinta de los hechos que la motiven, sus fundamentos legales y se entregará inmediatamente al Ministerio Público, para que éste ordene a la Policía Ministerial del Estado su ejecución.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 185.
 
-Cuando se trate de la aprehensión de alguna persona cuyo paradero se ignore, el Tribunal que dicte la orden la comunicará al Agente del Ministerio Público adscrito para que éste la entregue a la Policía Judicial del Estado, a fin de que sea cumplimentada.
+Cuando se trate de la aprehensión, el tribunal que dicte la orden la comunicará al Agente del Ministerio Público adscrito para que éste la entregue a la Policía Ministerial del Estado, a fin de que sea cumplimentada.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 186.
 
-Siempre que se cumplimente una aprehensión en virtud de orden judicial, la policía judicial que la haya ejecutado deberá de inmediato poner al aprehendido a disposición material del Tribunal respectivo, informado a éste acerca de la hora, día y lugar en que se efectuó la detención y rendirá informe de ello al Ministerio Público.
+Siempre que se cumplimente una aprehensión en virtud de orden judicial, la Policía Ministerial del Estado que la haya ejecutado deberá de inmediato poner al aprehendido a disposición material del Tribunal respectivo, informando a éste acerca de la hora, día y lugar en que se efectuó la detención y rendirá informe de ello al Ministerio Público.
 
 ###### Art. 187.
 
@@ -2079,9 +2089,9 @@ II.- Que sea hecha ante el Ministerio Público o el Tribunal de la causa y en pr
 
 III.- Que no existan datos que, a juicio del Tribunal la hagan inverosímil.
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-No podrá consignarse a ninguna persona si existe como única prueba la confesión. La policía judicial podrá rendir informes pero no obtener confesiones; si lo hace estas carecen de todo valor probatorio.
+No podrá consignarse a ninguna persona si existe como única prueba la confesión. La Policía Ministerial del Estado podrá rendir informes pero no obtener confesiones, si lo hace, éstas carecen de valor probatorio.
 
 ###### Art. 276.
 
@@ -2845,9 +2855,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 II.- Que caucione el cumplimiento de las obligaciones a su cargo, que la Ley establece en razón del proceso; y
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-III.- Que no se trate de algunos de los delitos señalados como graves por el Artículo 11 del Código Penal.
+III.- Que no se trate de alguno de los delitos señalados como graves en el Código Penal para el Estado de Guanajuato o en otra ley que deban aplicar los tribunales del Estado.
 
 La garantía a que se refiere la fracción I y la caución a que se refiere la fracción II, podrán consistir en depósito en efectivo, fianza, prenda o hipoteca formalmente constituída.
 
@@ -4114,3 +4124,55 @@ El presente Decreto entrará en vigencia el cuarto día siguiente al de su publi
 P.O. 9 DE JUNIO DE 2009.
 
 Artículo Único. El presente decreto entrará en vigor a los ciento veinte días siguientes al de su publicación en el periódico oficial del Gobierno del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 4o., PARRAFOS PRIMERO, SEGUNDO Y TERCERO, ASI COMO LA FRACCION I; 14 PRIMER PARRAFO; 183 FRACCION I; 183-BIS SEGUNDO PARRAFO; 184 TERCER PARRAFO; 185; 186; 275 ULTIMO PARRAFO; Y 387 FRACCION III, DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Primero. Este Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del año 2012 deberán haber realizado las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 80, POR EL CUAL SE EXPIDE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO.
+
+Inicio de vigencia progresiva
+
+Artículo Primero. La presente ley iniciará su vigencia previa su publicación en el Periódico Oficial del Gobierno del Estado, en la forma y fecha dispuestas en los párrafos y artículos transitorios siguientes.
+
+La incorporación del sistema procesal penal acusatorio en el Estado de Guanajuato será regional, y en consecuencia la vigencia y aplicación de esta ley será progresiva, conforme a las siguientes fechas:
+
+I. El 1 de septiembre del año 2011 en la Región comprendida por los municipios de: Atarjea, Comonfort, Doctor Mora, Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato, Ocampo, San Diego de la Unión, San Felipe, San José Iturbide, San Miguel de Allende, San Luis de la Paz, Santa Catarina, Tierra Blanca, Victoria y Xichú;
+
+II. El 1 de enero del año 2013 en la Región comprendida por los municipios de: Abasolo, Cuerámaro, Huanímaro, Irapuato, Jaral del Progreso, Pénjamo, Pueblo Nuevo, Romita, Salamanca, Silao y Valle de Santiago;
+
+III. El 1 de enero del año 2014 en la Región comprendida por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Coroneo, Cortazar, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Villagrán y Yuriria; y
+
+IV. El 1 de enero del año 2015 en la Región comprendida por los municipios de: León, Manuel Doblado, Purísima del Rincón y San Francisco del Rincón.
+
+Aplicación
+
+Artículo Segundo. Las disposiciones de esta ley se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y circunscripciones territoriales en que de manera progresiva entrará en vigor el sistema, de acuerdo a lo dispuesto en el Artículo Primero Transitorio del presente Decreto.
+
+Abrogación del Código vigente y ultractividad
+
+Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato, contenido en el Decreto Legislativo número 180, expedido por la Cuadragésima Segunda Legislatura, publicado en el Periódico Oficial del Gobierno del Estado de fecha 2 de abril de 1959, seguirá rigiendo, en lo conducente, en los procedimientos iniciados con anterioridad a la vigencia de la presente ley.
+
+De igual forma seguirá rigiendo tratándose de hechos cometidos con anterioridad a la vigencia de la presente ley, siempre que el Código de Procedimientos Penales para el Estado de Guanajuato represente mayores beneficios para el inculpado que los contenidos en la presente ley.
+
+Derogación de preceptos incompatibles
+
+Artículo Cuarto. Quedan derogados, en los términos señalados en los presentes artículos transitorios, los preceptos de la legislación de la Entidad que se opongan a las disposiciones de este ordenamiento.
+
+Prohibición de acumulación de procesos
+
+Artículo Quinto. No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido a la presente ley y otro al Código abrogado.
+
+Retroactividad
+
+Artículo Sexto. Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse dentro del curso del procedimiento regido por el Código abrogado, las disposiciones de la presente ley que se refieran a: a) Indemnización al sentenciado injustamente condenado; b) Aplicación de los criterios de oportunidad en el ejercicio de la acción penal; c) Imposición de medidas cautelares personales; d) Acuerdos reparatorios y suspensión condicional del proceso; e) Procedimiento abreviado; y f) Procedimiento especial para inimputables y por incapacidad sobrevenida.
+
+Término para emitir las leyes complementarias
+
+Artículo Séptimo. El Poder Legislativo realizará las acciones conducentes, para efecto de que a la entrada en vigencia en la Región que comprende los municipios descritos en la fracción I del Artículo Primero Transitorio del presente Decreto, se cuente con las leyes que permitan la instrumentación del nuevo sistema procesal penal acusatorio.
