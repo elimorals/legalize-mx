@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-acceso-a-la-informacion-gubernamental-del-estado-de-2622
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2008-12-30"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL EN EL ESTADO DE QUERETARO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -507,11 +507,13 @@ IX. Aplicar las medidas disciplinarias a los integrantes del organismo, imponer 
 
 X. Las demás facultades y obligaciones que establezcan las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 33.
 
-La Comisión Estatal de Acceso a la Información Gubernamental, presentará, por escrito, durante el mes de febrero de cada año, un informe detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades, a la Legislatura del Estado. De igual manera, en el mismo mes, informará a la ciudadanía sobre sus actividades.
+La Comisión Estatal de Acceso a la Información Gubernamental, a través de su Comisionado Ejecutivo, durante la última semana del mes de febrero de cada año, rendirá en forma escrita y por comparecencia personal, ante la Comisión de Derechos Humanos y Acceso a la Información Pública de la Legislatura del Estado, en una sesión que para el efecto se le convoque, un informe detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades.
+
+De igual manera, en esa misma semana, informará a la ciudadanía sobre sus actividades.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -660,6 +662,12 @@ Artículo Cuarto. Para los efectos del párrafo quinto del artículo 30 de la pr
 Artículo Quinto. Se faculta al Comisionado Ejecutivo a realizar las transferencias necesarias al presupuesto de la Comisión Estatal de Información Gubernamental para cumplir con lo dispuesto en la presente Ley.
 
 Artículo Sexto. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
 
 ###### ARTÍCULO TERCERO.
 
