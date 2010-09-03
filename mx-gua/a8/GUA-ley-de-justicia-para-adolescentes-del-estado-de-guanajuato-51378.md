@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-para-adolescentes-del-estado-de-guanajuato-5137
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2008-09-02"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de agosto de 2006.
 
@@ -59,11 +59,13 @@ IV. Regular el procedimiento para determinar la responsabilidad del adolescente;
 
 V. Determinar y regular las medidas aplicables al adolescente que sea declarado autor o partícipe de una conducta tipificada como delito en las leyes del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 2.
 
-Son sujetos de esta Ley las personas que al cometer una conducta tipificada como delito por las leyes del Estado tengan entre doce años cumplidos y menos de dieciocho años de edad.
+Son sujetos de esta Ley las personas que al cometer una conducta tipificada como delito por las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, tengan entre doce años cumplidos y menos de dieciocho años de edad.
 
-Quienes al realizar una conducta prevista como delito en las leyes del Estado sean menores de doce años, sólo serán sujetos a rehabilitación y asistencia social conforme a las disposiciones legales aplicables y tendrán la protección que en su favor establecen las disposiciones jurídicas específicas.
+Quienes al realizar una conducta prevista como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, sean menores de doce años, sólo serán sujetos a rehabilitación y asistencia social conforme a las disposiciones legales aplicables y tendrán la protección que en su favor establecen las disposiciones jurídicas específicas.
 
 ###### Artículo 3.
 
@@ -291,7 +293,9 @@ Para el cumplimiento de sus funciones la Defensoría de Oficio Especializada se 
 
 Corresponde exclusivamente al Juez para Adolescentes, en primera instancia:
 
-I. Declarar en la forma y términos que esta Ley establece, cuando la conducta atribuida esté o no tipificada como delito en las leyes del Estado;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMRE DE 2010)</small>
+
+I. Declarar en la forma y términos que esta Ley establece, cuando la conducta atribuida esté o no tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado;
 
 II. Declarar si el adolescente fue o no autor o participe de la conducta atribuida, tipificada como delito;
 
@@ -389,9 +393,11 @@ Cada Centro de Internación contará con un Consejo Técnico Interdisciplinario,
 
 ### CAPÍTULO I. Derechos del Adolescente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 24.
 
-El adolescente sujeto a esta ley gozará de los mismos derechos y garantías reconocidos a los mayores de dieciocho años a quienes se les atribuya o declare ser autores o partícipes de una conducta tipificada como delito en las leyes del Estado, además de los que les correspondan por su condición especial derivada de su edad, y particularmente de los siguientes:
+El adolescente sujeto a esta Ley gozará de los mismos derechos y garantías reconocidos a los mayores de dieciocho años a quienes se les atribuya o declare ser autores o partícipes de una conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, además de los que les correspondan por su condición especial derivada de su edad, y particularmente de los siguientes:
 
 I. A ser tratado con el respeto debido a la dignidad inherente al ser humano; quedando prohibido, en consecuencia, cualquier violación a sus derechos humanos, como el maltrato, la incomunicación, la coacción sicológica o cualquier otra acción u omisión que atente contra su dignidad o su integridad personal física o mental;
 
@@ -465,17 +471,23 @@ XXXIV. A que el servicio de salud y la seguridad que se les proporcione dentro d
 
 ### CAPÍTULO II. Derechos de la Víctima o el Ofendido
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 25.
 
-La víctima o el ofendido por una conducta tipificada como delito en las leyes del Estado atribuida a un adolescente, tendrán los siguientes derechos:
+La víctima o el ofendido por una conducta tipificada como delito en las leyes del Estado o en otras leyes que deben aplicar los tribunales del Estado, atribuida a un adolescente, tendrán los siguientes derechos:
 
 I. A que el Ministerio Público Especializado les comunique el inicio del procedimiento, el ejercicio de la acción y el sentido de la sentencia;
 
 II. A recibir asesoría jurídica gratuita por parte del Ministerio Público Especializado, respecto de sus denuncias o querellas y, en su caso, ser auxiliados por intérpretes y/o traductores cuando no hable o no entienda el idioma castellano. En caso de ser sordo o mudo, declarará por medio de intérprete; si sabe leer y escribir, podrá declarar por escrito;
 
-III. A que se les proporcionen todas las facilidades y apoyos para identificar al adolescente probable autor o partícipe en la conducta tipificada como delito en las leyes del Estado;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-IV. A que el Ministerio Público Especializado les reciba los medios de prueba para acreditar la conducta tipificada como delito en las leyes del Estado y la probable autoría o participación del adolescente;
+III. A que se les proporcionen todas las facilidades y apoyos para identificar al adolescente probable autor o partícipe en la conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+IV. A que el Ministerio Público Especializado les reciba los medios de prueba para acreditar la conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado y la probable autoría o participación del adolescente;
 
 V. A que se les permita consultar el expediente por sí, por su abogado o persona de confianza que estén debidamente acreditados, para informarse sobre el desarrollo del procedimiento;
 
@@ -505,9 +517,11 @@ XV. Los demás que se establezcan en esta Ley y en otras disposiciones legales a
 
 ### CAPÍTULO I. Reglas Generales
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 26.
 
-El procedimiento para adolescentes tiene por objeto la demostración de la existencia de una conducta tipificada como delito en las leyes del Estado que sea atribuida a un adolescente, así como la comprobación de su autoría o participación y, en su caso, determinar la aplicación de las medidas que correspondan conforme a esta Ley.
+El procedimiento para adolescentes tiene por objeto la demostración de la existencia de una conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, que sea atribuida a un adolescente, así como la comprobación de su autoría o participación y, en su caso, determinar la aplicación de las medidas que correspondan conforme a esta ley.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
@@ -555,9 +569,9 @@ XIX. Encubrimiento por receptación calificado, previsto en el artículo 275-a.
 
 Serán aplicables en lo conducente y en cuanto no contravengan esta Ley, para determinar los ámbitos espacial y temporal de aplicación, las disposiciones que al respecto contienen el Código Penal y el Código de Procedimientos Penales.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-Tratándose de conductas consideradas como graves en el artículo 26 A de esta Ley, así como de sus conductas conexas, cometidas por adolescentes mayores de catorce años será competente el Juez para Adolescentes donde se ubique territorialmente el Centro de Internación más cercano; si es que hubiere varios, al lugar donde hayan resultado cometidas las primeras.
+Tratándose de conductas consideradas como graves en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado, así como de sus conductas conexas, cometidas por adolescentes mayores de catorce años será competente el Juez para Adolescentes donde se ubique territorialmente el Centro de Internación más cercano; si es que hubiere varios, al lugar donde hayan resultado cometidas las primeras.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
@@ -571,29 +585,37 @@ El dictamen deberá realizarse y remitirse al Ministerio Público Especializado 
 
 La prueba respecto de la condición de adolescente podrá obtenerse en cualquier fase del procedimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 29.
 
-Si en el transcurso del proceso se advierte que quien es sometido a él tenía dieciocho años o más al realizar la conducta tipificada como delito por las leyes del Estado, el Juez que conozca del asunto así lo señalará en acuerdo que notificará a las partes, concediéndoles el término de tres días para que expresen lo que a sus intereses convenga. La institución ministerial, en su caso, ejercitará la acción que corresponda. Transcurrido ese lapso el juez, si procediere, declinará la competencia y remitirá lo actuado al juez que sea el competente, poniendo a su disposición al detenido, si lo hubiere. El juez que reciba, iniciará el proceso ordinario sujetándose a las normas que lo rigen. Si no se hubiera ejercitado acción penal, suspenderá el procedimiento y ordenará la inmediata libertad del detenido.
+Si en el transcurso del proceso se advierte que quien es sometido a él tenía dieciocho años o más al realizar la conducta tipificada como delito por las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, el juez que conozca del asunto así lo señalará en acuerdo que notificará a las partes, concediéndoles el término de tres días para que expresen lo que a sus intereses convenga. La institución ministerial, en su caso, ejercitará la acción que corresponda. Transcurrido ese lapso el juez, si procediere, declinará la competencia y remitirá lo actuado al juez que sea el competente, poniendo a su disposición al detenido, si lo hubiere. El juez que reciba, iniciará el proceso ordinario sujetándose a las normas que lo rigen. Si no se hubiera ejercitado acción penal, suspenderá el procedimiento y ordenará la inmediata libertad del detenido.
 
 Si la mayoría de edad se acreditare ya dictada la medida, subsistirá la resolución ejecutoria.
 
 El juez para adolescentes que reciba un asunto que decline la justicia penal ordinaria, sujetándose a las disposiciones contenidas en el artículo 11 del Código de Procedimientos Penales, resolverá lo conducente y, en su caso, iniciará el procedimiento especializado.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 30.
 
-Si dictada una medida de internamiento a un adolescente se comprobare que al momento de la comisión o participación en una conducta tipificada como delito en las leyes del Estado, hubiera tenido menos de catorce años y más de doce años cumplidos, el Juez para Adolescentes resolverá de oficio o a petición de parte, en aclaración de sentencia, sobre la modificación o adecuación de la medida.
+Si dictada una medida de internamiento a un adolescente se comprobare que al momento de la comisión o participación en una conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, hubiera tenido menos de catorce años y más de doce años cumplidos, el Juez para Adolescentes resolverá de oficio o a petición de parte, en aclaración de sentencia, sobre la modificación o adecuación de la medida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 31.
 
-Si en el transcurso de la investigación o del proceso se comprobare que la persona a quien se le atribuye la autoría o participación en una conducta tipificada como delito en las leyes del Estado, fuere menor de doce años, el Ministerio Público Especializado o el Juez para Adolescentes cesarán todo procedimiento, poniéndolo a disposición del Sistema Estatal para el Desarrollo Integral de la Familia, de conformidad con esta Ley y con la Ley sobre el Sistema Estatal de Asistencia Social, con el fin de que se le brinde la rehabilitación y asistencia social necesarias, con el único objetivo de ofrecerle protección integral al menor de esa edad, bajo el principio del interés superior de éste.
+Si en el transcurso de la investigación o del proceso se comprobare que la persona a quien se le atribuye la autoría o participación en una conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, fuere menor de doce años, el Ministerio Público Especializado o el Juez para Adolescentes cesarán todo procedimiento, poniéndolo a disposición del Sistema Estatal para el Desarrollo Integral de la Familia, de conformidad con esta Ley y con la Ley sobre el Sistema Estatal de Asistencia Social, con el fin de que se le brinde la rehabilitación y asistencia social necesarias, con el único objetivo de ofrecerle protección integral al menor de esa edad, bajo el principio del interés superior de éste.
 
 Las instituciones de asistencia social de los sectores público, social y privado, se constituyen en este aspecto como auxiliares del Sistema Estatal para el Desarrollo Integral de la Familia.
 
 La rehabilitación y asistencia social en ningún caso podrán implicar la restricción de la libertad ambulatoria del menor de doce años.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 32.
 
-Si en la conducta tipificada como delito en las leyes del Estado intervienen adolescentes y adultos, las causas se separarán y las autoridades especializadas para adolescentes conocerán de acuerdo a su competencia.
+Si en la conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, intervienen adolescentes y adultos, las causas se separarán y las autoridades especializadas para adolescentes conocerán de acuerdo a su competencia.
 
 ###### Artículo 33.
 
@@ -603,9 +625,15 @@ Forman parte de la presente Ley y por tanto serán aplicables en cuanto no se op
 
 Igualmente el Código de Procedimientos Penales tratándose de formalidades, intérpretes, despacho de los asuntos, correcciones disciplinarias y medios de apremio, requisitorias y exhortos, cateos, términos, citaciones, audiencias de derecho, resoluciones judiciales, notificaciones, iniciación del procedimiento, reglas especiales para la práctica de diligencias y levantamiento de actas, reglas generales de la instrucción, comprobación del cuerpo del delito y la probable responsabilidad, huellas del delito y aseguramiento de los instrumentos y objetos del mismo, atención médica a los lesionados, aseguramiento de personas, prueba, conclusiones, sobreseimiento, aclaración de sentencia, sentencias irrevocables, apelación, procedimiento relativo a los inimputables, ejecución e incidentes.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+También será aplicables en lo conducente las prevenciones que se contengan en otras leyes que deban aplicar los tribunales del Estado.
+
 Tratándose de requisitorias y exhortos, serán autoridades auxiliares las que residan en el lugar en que deban practicarse las diligencias si no hubiere especializadas en materia de adolescentes.
 
-Para los efectos de esta Ley, las atribuciones que legalmente se confieren al Ministerio Público se entienden otorgadas al Ministerio Público Especializado, y las señaladas a la Policía Ministerial, a la Policía Especializada.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Para los efectos de esta ley, las atribuciones que legalmente se confieren al Ministerio Público se entienden otorgadas al Ministerio Público Especializado, y las señaladas a la Policía Ministerial, a la Policía Especializada.
 
 ###### Artículo 34.
 
@@ -653,7 +681,7 @@ Los padres, tutores o quienes ejerzan la patria potestad o la custodia del adole
 
 El Ministerio Público Especializado o el Juez para Adolescentes podrán otorgar la libertad provisional bajo caución al adolescente inmediatamente que lo solicite por sí o por su defensor o representante, en los términos de los artículos 18 y 20 Apartado A fracción I de la Constitución Política de los Estados Unidos Mexicanos y de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
 Para los efectos de la libertad provisional bajo caución se considerarán conductas sobre las que no procede este beneficio, en virtud de su gravedad, las siguientes previstas en el Código Penal:
 
@@ -690,6 +718,10 @@ XIII. Terrorismo previsto por el artículo 245;
 XIV. Tortura previsto por el artículo 264; y
 
 XV. Evasión de detenidos, inculpados o condenados previsto por el artículo 269 segundo párrafo.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+También se consideran conductas calificadas graves, para los efectos de la libertad provisional baja caución, las previstas como tales en otras leyes que deban aplicar los tribunales del Estado.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
@@ -771,9 +803,11 @@ Cuando se incumplan las obligaciones aceptadas en el acuerdo conciliatorio, el M
 
 #### Sección Segunda. Conciliación ante el Centro Estatal de Justicia Alternativa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 50.
 
-En los casos en que el Juez para Adolescentes pronuncie auto de sujeción a proceso o de formal internamiento preventivo y siempre que no se trate de los supuestos previstos por el artículo 41 de esta Ley, y haya víctima u ofendido identificado, remitirá una copia del expediente al Centro Estatal de Justicia Alternativa para que los mediadores y conciliadores apliquen los medios alternativos de solución de conflictos a que se refiere la Ley de Justicia Alternativa del Estado de Guanajuato.
+En los casos en que el Juez para Adolescentes pronuncie auto de sujeción a proceso o de formal internamiento preventivo y siempre que no se trate de los supuestos previstos por el artículo 41 de esta Ley o en otras leyes que deban aplicar los tribunales del Estado, y haya víctima u ofendido identificado, remitirá una copia del expediente al Centro Estatal de Justicia Alternativa para que los mediadores y conciliadores apliquen los medios alternativos de solución de conflictos a que se refiere la Ley de Justicia Alternativa del Estado de Guanajuato.
 
 En tal supuesto, el Juez para Adolescentes informará a la víctima u ofendido, a su representante legal, ya los padres, tutores, o quienes ejerzan la patria potestad o la custodia del adolescente, para que si lo desean acudan dentro de los siguientes cinco días al Centro Estatal de Justicia Alternativa a participar en las sesiones de mediación y conciliación. Sin perjuicio del derecho de las partes a conciliar en cualquier etapa del proceso.
 
@@ -823,7 +857,9 @@ En caso de ser necesario el Ministerio Público Especializado podrá auxiliarse 
 
 A la Policía Especializada, actuando bajo el mando del Ministerio Público Especializado, le corresponde:
 
-I. Practicar, de acuerdo a las instrucciones que le gire el Ministerio Público Especializado, las diligencias que sean necesarias para los fines de la investigación de las conductas tipificadas como delitos en las leyes del Estado atribuidas a los adolescentes;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+I. Practicar, de acuerdo a las instrucciones que le gire el Ministerio Público Especializado, las diligencias que sean necesarias para los fines de la investigación de las conductas tipificadas como delitos en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, atribuidas a los adolescentes;
 
 II. Llevar a cabo las citaciones, notificaciones, presentaciones, comparecencias y detenciones que le ordene el Ministerio Público Especializado; y
 
@@ -831,21 +867,25 @@ III. Realizar todos los actos que le señale esta Ley y demás disposiciones leg
 
 La Policía Especializada no podrá recibir declaraciones del adolescente. No podrá detenerlo, salvo en los casos de flagrancia o en el supuesto de que haya recibido instrucciones escritas del Ministerio Público Especializado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 60.
 
-La investigación de las conductas tipificadas como delito en las leyes del Estado atribuidas a adolescentes, se iniciará por el Ministerio Público Especializado de oficio o querella, según proceda conforme a la ley que tipifique la conducta.
+La investigación de las conductas tipificadas como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, atribuidas a adolescentes, se iniciará por el Ministerio Público Especializado de oficio o querella, según proceda conforme a la ley que tipifique la conducta.
 
 En caso necesario la investigación la iniciará el Ministerio Público ordinario y a la brevedad la enviará al Ministerio Público Especializado.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 61.
 
-Toda persona o autoridad que tuviere conocimiento de una conducta tipificada como delito en las leyes del Estado, que se impute a un adolescente y que se persiga de oficio, deberá hacerla del conocimiento de la autoridad inmediata, la que lo comunicará al Ministerio Público.
+Toda persona o autoridad que tuviere conocimiento de una conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, que se impute a un adolescente y que se persiga de oficio, deberá hacerlo del conocimiento de la autoridad inmediata, la cual se lo comunicará al Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 62.
 
-Queda prohibido detener a cualquier adolescente sin orden librada por autoridad judicial competente, excepto cuando se trate de flagrancia o bien de casos urgentes de conducta señalada como grave en el artículo 26 A de esta Ley, conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en cuyo caso deberá ser puesto a disposición de la autoridad competente dentro del plazo a que se refiere el artículo 69 de esta Ley.
+Queda prohibido detener a cualquier adolescente sin orden librada por autoridad judicial competente, excepto cuando se trate de flagrancia o bien de casos urgentes de conducta señalada como grave en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado, conforme a lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en cuyo caso deberá ser puesto a disposición de la autoridad competente dentro del plazo a que se refiere el artículo 69 de esta Ley.
 
 Sólo el Ministerio Público Especializado con sujeción a dicho precepto acordará de inmediato si el adolescente quedará en calidad de detenido, sin perjuicio de las facultades que en su momento correspondan al Juez para Adolescentes. El adolescente detenido en contravención a lo previsto en este artículo será puesto inmediatamente en libertad, haciendo penalmente responsable al Ministerio Público.
 
@@ -907,9 +947,9 @@ En los casos de conducta típica flagrante, que deberán reunir las mismas condi
 
 Se considera que hay conducta típica flagrante cuando el adolescente es detenido en el momento de estarla cometiendo, o si, inmediatamente después de ejecutada la conducta típica, aquél es perseguido materialmente; o alguien lo señala como responsable y se encuentra en su poder el objeto de la conducta, el instrumento con que aparezca cometida, o huellas o indicios que hagan presumir fundadamente su autoría o participación en su realización.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-En esos casos el Ministerio Público Especializado iniciará su investigación y bajo su responsabilidad, según procediere, decretará motivada y fundadamente la retención del adolescente si la conducta está señalada como grave en el artículo 26 A de esta Ley y es perseguible de oficio conforme al Código Penal, o bien ordenará su libertad.
+En esos casos el Ministerio Público Especializado iniciará su investigación y bajo su responsabilidad, según procediere, decretará motivada y fundadamente la retención del adolescente si la conducta está señalada como grave en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado, perseguible de oficio o bien, ordenará su libertad.
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público que decrete indebidamente la retención y el adolescente será puesto en inmediata libertad.
 
@@ -917,9 +957,9 @@ La violación de esta disposición hará penalmente responsable al Ministerio P�
 
 En casos urgentes el Ministerio Público Especializado podrá, bajo su responsabilidad, ordenar por escrito la detención del adolescente, fundando y expresando los indicios previos que acrediten:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-l. Que el adolescente haya intervenido en cualquier forma en la comisión de alguna conducta señalada como grave en el artículo 26 A de esta Ley;
+l. Que el adolescente haya intervenido en cualquier forma en la comisión de alguna conducta señalada como grave en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado;
 
 II. Que exista riesgo fundado de que el adolescente pueda sustraerse a la acción de la justicia; y
 
@@ -927,13 +967,13 @@ III. Que por razón de la hora, lugar o circunstancia, no pueda ocurrir ante aut
 
 La violación de esta disposición, hará penalmente responsable al Ministerio Público que decrete indebidamente la detención y el adolescente será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 69.
 
-En los casos de flagrancia o urgencia, ningún adolescente podrá ser detenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos en que tres o más personas se organicen bajo las reglas de jerarquía para cometer de modo violento o reiterado o con fines predominantemente lucrativos, cualquier conducta señalada como grave en el artículo 26 A de esta Ley.
+En los casos de flagrancia o urgencia, ningún adolescente podrá ser detenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse en los casos en que tres o más personas se organicen de hecho para cometer de forma reiterada o permanente cualquier conducta señalada como grave en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado.
 
-Si la integración de la investigación requiere mayor tiempo del señalado, el adolescente será puesto en inmediata libertad con las reservas de ley, sin perjuicio de que el Ministerio Público Especializado en su oportunidad solicite orden de detención al Juez para Adolescentes, cuando se trate de una conducta señalada como grave en el artículo 26 A de esta Ley.
+Si la integración de la investigación requiere mayor tiempo del señalado, el adolescente será puesto en inmediata libertad con las reservas de ley, sin perjuicio de que el Ministerio Público Especializado en su oportunidad solicite orden de detención al Juez para Adolescentes, cuando se trate de una conducta señalada como grave en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado.
 
 ###### Artículo 70.
 
@@ -987,13 +1027,17 @@ Al notificarle al adolescente esta resolución, se le hará saber que tiene dere
 
 Cuando estén reunidos los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, el Juez para Adolescentes librará orden de detención contra el adolescente, a pedimento del Ministerio Público Especializado.
 
-Tratándose de conductas tipificadas como delitos por las leyes del Estado que no ameriten como medida el internamiento, también a solicitud del Ministerio Público Especializado y con los mismos requisitos exigidos para la orden de detención, se librará orden de comparecencia para el único efecto de que el adolescente rinda su primera declaración judicial.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Tratándose de conductas tipificadas como delitos por las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, que no ameriten como medida el internamiento, también a solicitud del Ministerio Público Especializado y con los mismos requisitos exigidos para la orden de detención, se librará orden de comparecencia para el único efecto de que el adolescente rinda su primera declaración judicial.
 
 ###### Artículo 76.
 
 Para decretar la orden de detención o la de comparencia (sic), deberá estar acreditado:
 
-I. Una conducta tipificada como delito en las leyes del Estado; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+I. Una conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado; y
 
 II. La probable autoría o participación del adolescente.
 
@@ -1037,7 +1081,9 @@ La resolución que determine provisionalmente la situación jurídica del adoles
 
 l. Lugar, fecha y hora en que se emita;
 
-II. Los elementos que, en su caso, integren la conducta tipificada como delito en las leyes del Estado;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
+
+II. Los elementos que, en su caso, integren la conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado;
 
 III. Los elementos que, en su caso, determinen o no la probable autoría o participación del adolescente en la comisión de la conducta típica;
 
@@ -1057,15 +1103,17 @@ X. Cuando proceda, el pronunciamiento sobre el inicio de la fase de mediación y
 
 XI. El nombre y la firma del Juez para Adolescentes que la emita y del Secretario que dará fe.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 80.
 
-Cuando se trate de conductas consideradas como graves en el artículo 26 A de esta Ley, se dictará auto de formal internamiento preventivo sólo cuando su probable autor o partícipe sea un adolescente mayor de catorce años de edad.
+Cuando se trate de conductas consideradas como graves en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado, se dictará auto de formal internamiento preventivo sólo cuando su probable autor o partícipe sea un adolescente mayor de catorce años de edad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 81.
 
-En los casos de conductas consideradas como delitos no graves en el Código Penal, o que siéndolo se realicen por un adolescente que tenga entre doce y catorce años de edad, se pronunciará sólo auto de sujeción a proceso y se dictarán una o algunas de las siguientes medidas cautelares, según resulte pertinente:
+En los casos de conductas consideradas como delitos no graves en el Código Penal para el Estado de Guanajuato o en otras leyes que deban aplicar los tribunales del Estado, o que siéndolo se realicen por un adolescente que tenga entre doce y catorce años de edad, se pronunciará sólo auto de sujeción a proceso y se dictarán una o algunas de las siguientes medidas cautelares, según resulte pertinente:
 
 l. Prohibición de acercarse a la víctima o a otras personas, de concurrir a determinados lugares, o de tener contacto con personas determinadas; y
 
@@ -1141,7 +1189,9 @@ IV. Las consideraciones, motivos y fundamentos legales en los que se sustenten l
 
 V. Los puntos resolutivos, en los cuales se precisarán las decisiones asumidas en las consideraciones. Cuando se declare que no quedó comprobada la conducta típica o la plena autoría o participación del adolescente sujeto a formal internamiento preventivo, se ordenará que sea entregado a sus padres, tutores o quienes ejerzan la patria potestad o la custodia, y a falta de éstos, a la institución que legalmente pueda acogerlo;
 
-VI. La orden de restitución de la cosa obtenida por la conducta tipificada como delito en las leyes del Estado, así como el decomiso o destrucción de objetos o instrumentos, en los casos en que proceda de acuerdo al Código Penal; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VI. La orden de restitución de la cosa obtenida por la conducta tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado, así como el decomiso o destrucción de objetos o instrumentos, en los casos en que proceda de acuerdo al Código Penal para el Estado de Guanajuato o en otras leyes que deban aplicar los tribunales del Estado; y
 
 VII. El nombre y la firma del Juez para Adolescentes que la emita y la del secretario que dé fe.
 
@@ -1373,11 +1423,11 @@ La medida de internamiento consiste en hacer permanecer al adolescente en el Cen
 
 El tratamiento será integral, porque incidirá en todos los aspectos que conforman el desarrollo biosicosocial del adolescente; secuencial, porque llevará una evolución ordenada en función de sus potencialidades; interdisciplinario, por la participación de técnicos de diversas disciplinas en los programas de tratamiento; y dirigido al adolescente con el apoyo de su familia, porque el tratamiento se adecuará a las características propias de cada adolescente y de su familia.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 114.
 
-El internamiento sólo podrá aplicarse a los adolescentes mayores de catorce años y menores de dieciocho años por aquellas conductas señaladas como graves en el artículo 26 A de esta Ley.
+El internamiento sólo podrá aplicarse a los adolescentes mayores de catorce años y menores de dieciocho años por aquellas conductas señaladas como graves en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado.
 
 Cuando se trate de adolescentes mayores de catorce y menores de dieciséis años el internamiento no podrá ser menor de un año ni exceder de cuatro años; cuando se trate de adolescentes entre dieciséis años y menores de dieciocho, éste no podrá ser menor de dos años ni exceder de siete años.
 
@@ -1399,9 +1449,9 @@ El internamiento se cumplirá en lugar diferente al destinado para la compurgaci
 
 La medida de internamiento impuesta al adolescente podrá suspenderse en la misma sentencia por el Juez que la decrete, a su prudente arbitrio y oficiosamente, siempre que concurran las siguientes circunstancias:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-I. Que sea la primera vez que se hace responsable por una conducta señalada como grave en el artículo 26 A de esta Ley;
+I. Que sea la primera vez que se hace responsable por una conducta señalada como grave en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado;
 
 II. Que haya observado buena conducta durante el procedimiento; y
 
@@ -1603,9 +1653,11 @@ El perdón de la víctima u ofendido extingue la acción nacida con motivo de la
 
 La amnistía extingue la acción y las medidas impuestas.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 143.
 
-La facultad de las autoridades para conocer de las conductas tipificadas como delitos en las leyes del Estado, se extingue por la prescripción. Para que opere bastará el simple transcurso del tiempo que se establece en esta Ley, y se hará valer de oficio o a petición de parte en cualquier momento del procedimiento.
+La facultad de las autoridades para conocer de las conductas tipificadas como delitos en las leyes del Estado, se extingue por la prescripción. Para que opere bastará el simple transcurso del tiempo que se establece en esta ley o en otras leyes que deban aplicar los tribunales del Estado, y se hará valer de oficio o a petición de parte en cualquier momento del procedimiento.
 
 ###### Artículo 144.
 
@@ -1631,25 +1683,25 @@ Si el adolescente se sustrae de la acción de la autoridad, se iniciará de nuev
 
 La acción del Estado prescribirá:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-I. A los siete años cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea de quince años o más;
+I. A los siete años cuando se trate de conductas tipificadas como delitos en las leyes penales del Estado o en otras leyes que deban aplicar los tribunales del Estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea de quince años o más;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-II. A los seis años cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea de diez años y menos de quince años;
+II. A los seis años cuando se trate de conductas tipificadas como delitos en las leyes penales del Estado o en otras leyes que deban aplicar los tribunales del Estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea de diez años y menos de quince años;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-III. A los cuatro años cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea menor de diez años;
+III. A los cuatro años cuando se trate de conductas tipificadas como delitos en las leyes penales del Estado o en otras leyes que deban aplicar los tribunales del Estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea menor de diez años;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-IV. A los dos años cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea de dos años o superior a éste; y
+IV. A los dos años cuando se trate de conductas tipificadas como delitos en las leyes penales del Estado o en otras leyes que deban aplicar los tribunales del Estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea de dos años o superior a éste; y
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-V. Al año cuando se trate de conductas tipificadas como delitos en las leyes penales del estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea menor de dos años, o tengan asignada una sanción no privativa de libertad o cuando sea alternativa.
+V. Al año cuando se trate de conductas tipificadas como delitos en las leyes penales del Estado o en otras leyes que deban aplicar los tribunales del Estado, sancionados con pena privativa de libertad cuyo término medio aritmético sea menor de dos años, o tengan asignada una sanción no privativa de libertad o cuando sea alternativa.
 
 ###### Artículo 148.
 
@@ -1755,8 +1807,18 @@ EL SECRETARIO DE GOBIERNO
 
 SAMUEL ALCOCER FLORES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE SEPTIEMBRE DE 2008.
 
 Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero. Este Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del año 2012 deberán haber realizado las acciones necesarias a fin de dar el debido cumplimiento a las atribuciones contenidas en el presente Decreto.
+
+Artículo Tercero. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+Artículo Cuarto. A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
