@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2010-08-19"
+last_updated: "2010-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -63,7 +63,9 @@ El incumplimiento de las disposiciones previstas en este Código dará lugar a l
 
 El procedimiento y proceso administrativo que regula este Código se regirán por los principios de legalidad, sencillez, celeridad, oficiosidad, eficacia, publicidad, gratuidad y buena fe; en consecuencia:
 
-I. Se ajustarán estrictamente a las disposiciones de este Código;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+I. Se ajustarán estrictamente a las disposiciones de este Código y, en lo conducente, a las previsiones que establece la Ley para el Uso de Medios Electrónicos del Estado de México;
 
 II. Sus trámites serán sencillos, evitando formulismos innecesarios;
 
@@ -1573,7 +1575,7 @@ Las salas regionales tendrán la jurisdicción y la residencia que señale el re
 
 Son atribuciones de los magistrados de las salas regionales:
 
-I. Tramitar y resolver los juicios contencioso administrativos de la competencia de la sala;
+I. Tramitar y resolver los juicios contencioso (sic) administrativos de la competencia de la sala;
 
 II. Conocer del cumplimiento de las resoluciones, en los juicios en que hayan intervenido;
 
@@ -2342,3 +2344,9 @@ G.G. 19 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
