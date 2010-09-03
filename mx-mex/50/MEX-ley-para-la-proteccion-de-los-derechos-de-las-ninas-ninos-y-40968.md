@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-409
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-10"
-last_updated: "2010-04-05"
+last_updated: "2010-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 10 de septiembre de 2004.
 
@@ -253,9 +253,17 @@ d) A recibir educación de calidad, conforme lo señala el artículo 3° de la C
 
 e) A participar en el desarrollo de la comunidad, en la vida familiar, social, escolar, científica, cultural, deportiva y recreativa, sin más limitaciones que aquellas que establezcan las leyes y dicte el respeto a los derechos de terceros;
 
-f) A expresar su opinión libremente, conocer sus derechos y a ser escuchados en el ámbito familiar y comunitario, así como todo procedimiento administrativo o judicial que afecte sus esferas, personal, familiar y social; y
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-g) A solicitar ante la Comisión de Derechos Humanos del Estado, el documento que lo acredite como promotor de sus derechos.
+f) A expresar su opinión libremente, conocer sus derechos y a ser escuchados en el ámbito familiar y comunitario, así como todo procedimiento administrativo o judicial que afecte sus esferas, personal, familiar y social;
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+g) A solicitar ante la Comisión de Derechos Humanos del Estado, el documento que lo acredite como promotor de sus derechos; y
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+h) A acceder al conocimiento y a la tecnología para su educación, información, diversión, esparcimiento y comunicación.
 
 V. La Asistencia Social:
 
@@ -778,3 +786,11 @@ G.G. 5 DE ABRIL DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Para el cumplimiento del presente Decreto, se implementarán de manera gradual las partidas presupuestarias, así como los programas y proyectos, a partir del ejercicio fiscal 2011.
