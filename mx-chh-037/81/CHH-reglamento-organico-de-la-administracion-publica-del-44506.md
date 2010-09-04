@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2009-03-28"
+last_updated: "2010-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -231,21 +231,19 @@ XV. Vigilar el cumplimiento de las disposiciones aplicables en materia de regula
 
 XVI. Las demás que le señalen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
-Para el mejor desempeño de sus atribuciones, el Secretario se auxiliará de las siguientes Direcciones de Area:
+Para el mejor desempeño de sus atribuciones, el Secretario se auxiliará de las siguientes Direcciones de Área:
 
-Dirección Jurídica.
+Dirección Jurídica;
 
-Dirección de Gobierno.
+Dirección de Gobierno;
 
-Dirección del Centro de Readaptación Social para Adultos.
+Dirección de Comercio;
 
-Dirección de Comercio.
-
-Dirección de Oficialía Jurídica y Barandilla.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JUNIO DE 2008)</small>
+Dirección de Oficialía Jurídica y Barandilla, y
 
 Dirección de Desarrollo Rural y Forestal Sustentable.
 
@@ -775,7 +773,9 @@ I. Planear y mantener en condiciones eficientes de operación los servicios púb
 
 II. Establecer y coordinar programas, con participación de la comunidad, para la prestación de los servicios públicos;
 
-III. Vigilar el cumplimiento de los reglamentos y disposiciones legales, relativas a la prestación de los servicios públicos de alumbrado, panteones, parques, jardines, áreas recreativas, recolección de basura, bacheo, rastro y otros de su competencia;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+III. Vigilar el cumplimiento de los reglamentos y disposiciones legales, relativas a la prestación de los servicios públicos de alumbrado, panteones, parques, jardines, áreas recreativas, recolección de basura, rastro y otros de su competencia;
 
 IV. Intervenir en el proceso de concesión de servicios públicos municipales;
 
@@ -801,49 +801,73 @@ XIV. Organizar el despacho de la Dirección General con un Director Administrati
 
 XV. Las demás que le señalen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 47.
 
-Para el cumplimiento de los fines de esta Dirección General de Servicios Públicos y satisfacer las necesidades principales del Municipio, está se divide en las siguientes Direcciones de Area:
+Para el desempeño de sus funciones la Dirección General de Servicios Públicos, contará con las siguientes Direcciones de Área:
 
-Dirección Técnica.
+Dirección Técnica;
 
-Dirección de Limpia.
+Dirección de Limpia;
 
-Dirección de Parques y Jardines.
+Dirección de Parques y Jardines;
 
-Dirección de Alumbrado Público.
+Dirección de Alumbrado Público;
 
-Dirección de Sistemas de Control de Tráfico Dirección de Mantenimiento de Vías Públicas Municipales, y Dirección de Industrialización Agropecuaria.
+Dirección de Sistemas de Control de Tráfico;
+
+Dirección de Mantenimiento de Vías Públicas Municipales;
+
+Dirección de Industrialización Agropecuaria, y
+
+Dirección Administrativa.
 
 ###### Artículo 48.
 
 El Director Técnico tendrá a su cargo el estudio y elaboración de programas para optimizar los recursos de la Dirección General de Servicios Públicos. Realizará la inspección y vigilancia del cumplimiento del Reglamento de Aseo y Regeneración Urbana, e impondrá las sanciones correspondientes por violaciones al mismo.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+Promoverá y fomentará programas para que los propietarios de lotes baldíos en la zona urbana mantengan los mismos limpios y bardeados.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 49.
 
-El Director de Limpia tendrá a su cargo la recolección de basura en toda la ciudad y su traslado y disposición final en el relleno sanitario, de acuerdo a lo dispuesto en el Reglamento de Aseo y Regeneración Urbana.
+El Director de Limpia tendrá a su cargo la recolección de basura en toda la ciudad y su traslado y disposición final en el relleno sanitario, de conformidad a la normatividad aplicable. En caso de que el servicio de recolección de basura se concesione, quedará a cargo de la recolección de basura en los edificios públicos municipales, y será responsable de supervisar y verificar que la empresa concesionaria cumpla con el traslado y disposición final de los residuos sólidos en estricto apego a los procedimientos establecidos en el contrato de concesión y de igual forma vigilará que ésta, cumpla con la normatividad vigente en la materia.
 
 ###### Artículo 50.
 
 El Director de Alumbrado Público tendrá a su cargo la instalación y mantenimiento del alumbrado en las vías públicas, parques, y en el exterior del equipamiento y las instalaciones municipales.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 51.
 
-El Director de Sistemas de Control de Tráfico tendrá a su cargo la instalación, operación y mantenimiento de los sistemas y equipos de control de tráfico, la señalización restrictiva, preventiva e informativa de acuerdo a los manuales vigentes que emite la Secretaría de Comunicaciones y Transportes y los reglamentos municipales aplicables.
+El Director de Sistemas de Control de Tráfico tendrá a su cargo la instalación, operación y mantenimiento de los sistemas y equipos de control de tráfico, la señalización restrictiva, preventiva e informativa de acuerdo a los manuales vigentes que emite la Secretaría de Comunicaciones y Transportes y los reglamentos municipales aplicables. Así como delimitar, pintar y dar mantenimiento a la señalización horizontal.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 52.
 
-El Director de Mantenimiento de Vías Públicas Municipales tendrá a su cargo la inspección, vigilancia y mantenimiento de la funcionalidad de las calles, banquetas, pavimentos, el retiro de vehículos abandonados y otros objetos que obstruyan el adecuado funcionamiento y limpieza de las vías públicas municipales.
+El Director de Mantenimiento de Vías Públicas Municipales tendrá a su cargo la inspección, vigilancia, mantenimiento y limpieza de las calles, banquetas y camellones, así como también retirará los vehículos abandonados y otros objetos que obstruyan el adecuado funcionamiento y limpieza de las vías públicas.
 
-Promoverá además que los propietarios de lotes baldíos en la zona urbana mantengan los mismos limpios y bardeados.
+Supervisará la operación de los panteones públicos y privados en apego a los lineamientos establecidos, así como ejecutará el mantenimiento y limpieza de los panteones municipales.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 53.
 
-El Director de Parques y Jardines tendrá a su cargo la creación, mantenimiento, y embellecimiento de parques, jardines, monumentos y demás ornato público, la operación de los panteones municipales y la vigilancia del funcionamiento de los concesionados.
+El Director de Parques y Jardines tendrá a su cargo la creación, mantenimiento, y embellecimiento de parques, jardines, monumentos, fuentes y demás ornatos públicos; así como la supervisión de la operación de las plantas tratadoras municipales.
 
 ###### Artículo 54.
 
 El Director de Industrialización Agropecuaria tendrá a su cargo la vigilancia e inspección de la matanza de animales destinados al consumo de la población y otros que con fines comerciales sean procesados por los introductores, de acuerdo a la normatividad aplicable al efecto.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 54 bis.- El Director Administrativo, tendrá a su cargo el seguimiento de los proyectos estratégicos y recursos que sean aprobados por el cabildo, así como la fiscalización de los almacenes, las altas y bajas del personal, y el seguimiento a cada uno de los resguardos patrimoniales de los empleados.
 
 OFICIALIA MAYOR
 
@@ -879,17 +903,21 @@ XIII. Autorizar, previo acuerdo del Presidente y con base en el presupuesto, la 
 
 XIV. Las demás que le señalen las leyes, reglamentos y manuales de organización.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 56.
 
 Para el cumplimiento de sus fines, la Oficialía Mayor se dividirá en las siguientes Direcciones de Área:
 
-I. Dirección de Recursos Humanos
+Dirección de Recursos Humanos;
 
-II. Dirección de Patrimonio
+Dirección de Patrimonio;
 
-III. Dirección de Recursos Materiales
+Dirección de Recursos Materiales;
 
-IV. Dirección de Servicios Médicos; y (sic)
+Dirección de Servicios Médicos, y
+
+Dirección de Mantenimiento Mecánico.
 
 ###### Artículo 57.
 
@@ -908,6 +936,10 @@ El Director de Recursos Materiales tendrá a su cargo la adquisición de todos l
 ###### Artículo 60.
 
 El Director de Servicios Médicos tendrá a su cargo la prestación del servicio médico para los empleados municipales.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 60 bis.- El Director de Mantenimiento Mecánico, tendrá a su cargo el buen funcionamiento y reparación de los vehículos propiedad del Municipio, llevará a cabo el reporte parcial y final de las reparaciones de los mismos, dando seguimiento al procedimiento que corresponda para lograr una mayor eficiencia en el mantenimiento vehicular, así mismo supervisará, autorizará y controlará, la asignación de talleres externos y el manejo de refacciones automotrices.
 
 CONTRALORIA
 
@@ -1608,3 +1640,7 @@ ACUERDO 005 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 5, 39, 40, 41, 42, 43, 44 Y 
 P.O. 28 DE MARZO DE 2009.
 
 ÚNICO.- La presente modificación, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2010.
+
+ÚNICO.- La presente reforma al Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
