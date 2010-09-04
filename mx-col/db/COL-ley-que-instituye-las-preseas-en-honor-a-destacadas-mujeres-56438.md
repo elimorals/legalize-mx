@@ -4,7 +4,7 @@ identifier: "COL-ley-que-instituye-las-preseas-en-honor-a-destacadas-mujeres-564
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-21"
-last_updated: "2007-07-21"
+last_updated: "2010-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2010
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 21 de julio de 2007.
 
@@ -53,9 +53,11 @@ Es de aprobarse y se aprueba la Ley que Instituye las Preseas en Honor a Destaca
 
 LEY QUE INSTITUYE LAS PRESEAS EN HONOR A DESTACADAS MUJERES EN EL ESTADO DE COLIMA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 1°.
 
-El Congreso del Estado Libre y Soberano de Colima, instituye las Preseas: "Rafaela Suárez, Susana Ortiz Silva, Juana Urzúa, Celsa Virgen Pérez, Martha Dueñas González, Concepción Barbosa de Anguiano y Griselda Álvarez Ponce de León", en reconocimiento a su trayectoria y mérito ejemplar como mujeres destacadas en el ámbito político, social y cultural colimense:
+EI Congreso del Estado, en reconocimiento a su trayectoria y merito ejemplar como mujeres destacadas en el ámbito político, social y cultural colimense, instituye las Preseas:
 
 I. La Presea "Rafaela Suárez", será otorgada (sic) aquellas mujeres colimenses, que tengan una trayectoria destacada en la investigación histórica o en cualquiera de las Disciplinas Artísticas como pintura, teatro, danza, etc.;
 
@@ -75,9 +77,11 @@ VII. La presea "Griselda Álvarez Ponce de León", se otorgará a mujeres colime
 
 La Presea tendrá el escudo del Estado, el logotipo del Congreso, el número de la Legislatura que la otorga, la inscripción del nombre de la presea que corresponda y el nombre de la persona condecorada.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 3°.
 
-La designación de las preseas que se mencionan en el Artículo anterior, se llevará a cabo previa convocatoria que el Congreso del Estado publique anualmente a más tardar el 15 de febrero de cada año, a través de las Comisiones de Educación, Cultura y Deporte y Derechos Humanos, Atención al Migrante y Promoción de la Equidad y Género, con el objeto de que el Instituto Colimense de la Mujer, los Ayuntamientos de la Entidad, los sectores sociales, organizaciones civiles, empresariales y no gubernamentales, a partir de la publicación de la convocatoria y teniendo como fecha límite el día primero de marzo de cada año, puedan hacer las propuestas de mujeres que consideren sean merecedoras de las mismas.
+La designación de las preseas que se mencionan en el artículo 1° de esta Ley, se llevará a cabo previa convocatoria que el Congreso del Estado publique anualmente, a más tardar el primero de febrero de cada año, a través de las Comisiones de Educación y Cultura, y de Promoción de la Equidad y Genero, con el objeto de que el Instituto Colimense de la Mujer, los Ayuntamientos de la Entidad, los sectores sociales, organizaciones civiles, empresariales y no gubernamentales, a partir de la publicación de la convocatoria y teniendo como fecha limite el día veinte de febrero de cada año, puedan hacer las propuestas de mujeres que consideren sean merecedoras de las mismas.
 
 ###### ARTÍCULO 4°.
 
@@ -91,9 +95,15 @@ III. Descripción de los actos y actividades que fundamenten los méritos de la 
 
 IV. Toda aquella documentación que se considere necesaria para comprobar los actos o actividades a que se hace mención en la fracción anterior.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 5°.
 
-Una vez vencido el plazo de la entrega de las propuestas, las Comisiones de Educación, Cultura y Deporte y de Derechos Humanos, Atención al Migrante y Promoción de la Equidad y Género del Congreso del Estado, analizarán las propuestas hechas y elegirán a las personas que consideren merecedoras a recibirlas, elaborándose un dictamen que será sometido a la aprobación del Pleno de la Cámara y de ser aprobado por mayoría simple, se emitirá el Acuerdo respectivo, el que deberá darse a conocer tanto a las personas merecedoras como a los proponentes, invitando a las primeras a recibirlas en la fecha que al efecto convoque el H. Congreso del Estado.
+Una vez vencido el plazo de la entrega de las propuestas, las Comisiones de Educación y Cultura, y de Promoción de la Equidad y Genero del Congreso del Estado, nombraran conjuntamente a las personas especializadas en la materia encargadas de analizar las propuestas hechas, las cuales en un término de cinco diez hábiles deberán elegir a las mujeres que consideren merecedoras a recibir las preseas.
+
+Concluido este plazo, el grupo calificador entregará a las Comisiones la lista de las mujeres acreedoras a las preseas y éstas elaborarán un dictamen que será sometido a la aprobación del pleno del Congreso.
+
+De ser aprobado por mayoría simple el dictamen, se emitirá el acuerdo respectivo, mismo que deberá darse a conocer tanto a las mujeres merecedoras como a los proponentes, invitando a las primeras a recibirlas en la fecha que al efecto convoque el Congreso del Estado.
 
 ###### ARTÍCULO 6°.
 
@@ -107,9 +117,11 @@ La entrega de las preseas las hará el Ejecutivo del Estado conjuntamente con el
 
 Las Preseas a que se refiere el presente Decreto, se otorgarán únicamente cuando a juicio del Congreso haya personas que sean acreedoras a esas distinciones, pues en caso contrario se declararán desiertas.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 9°.
 
-Las mujeres galardonadas no podrán volver a recibir dicho reconocimiento en ninguna de las áreas del mismo, sin embargo, aquéllas que hayan sido propuestas lo podrán volver a ser cuantas veces lo deseen las instituciones postulantes.
+Las mujeres que se hayan distinguido con una presea, no podrán volver a recibir dicho reconocimiento en ninguna de las aéreas ya establecidas en esta Ley, sin embargo, aquellas que hayan sido propuestas y no fuesen seleccionadas como merecedoras de alguna presea, podrán volver a ser propuestas por las instituciones postulantes.
 
 TRANSITORIO (SIC):
 
@@ -128,3 +140,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 17 días del mes de julio del año dos mil siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica.- EL SECRETARIO DE EDUCACIÓN, PROFR. CARLOS CRUZ MENDOZA; Rúbrica.- EL SECRETARIO DE CULTURA, LIC. RUBÉN PÉREZ ANGUIANO; Rúbrica.
+
+P.O. 4 DE SEPTIEMBRE DE 2010.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+UNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
