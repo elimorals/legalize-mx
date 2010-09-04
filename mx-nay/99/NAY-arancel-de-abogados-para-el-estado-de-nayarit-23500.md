@@ -4,7 +4,7 @@ identifier: "NAY-arancel-de-abogados-para-el-estado-de-nayarit-23500"
 country: "mx"
 rank: "otro"
 publication_date: "1978-01-21"
-last_updated: "1978-01-21"
+last_updated: "2010-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 ARANCEL DE ABOGADOS PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ARANCELARIA DE LOS ABOGADOS PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 4 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Periódico Oficial del Estado de Nayarit el Sábado 21 de Enero de 1978.
 
@@ -150,3 +152,11 @@ Rogelio Flores Curiel.- Rub.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Dr. J. Jesús Osuna Gómez. Rub.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero.- La presente ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Se abroga el Arancel de los Abogados para el Estado de Nayarit, publicado mediante decreto número 5991en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 21 de enero de 1978.
