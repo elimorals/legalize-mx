@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-general-de-gobierno-17569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-12"
-last_updated: "2009-05-28"
+last_updated: "2010-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2000.
 
@@ -73,9 +73,13 @@ Al frente de la Secretaría habrá un titular, a quien corresponde la representa
 
 Para la mejor organización del quehacer institucional el Secretario podrá delegar sus atribuciones en servidores públicos subalternos, salvo aquellas que en los términos de este Reglamento u otro ordenamiento jurídico, deban ser ejercidos directamente por él.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 4.
 
 Al Secretario le corresponderá el ejercicio de las atribuciones que expresamente le confieren la Constitución Política del Estado, la Ley Orgánica del Poder Ejecutivo y las demás disposiciones legales.
+
+El Secretario certificará los documentos que obren en el archivo de la Secretaría y podrá delegar dicha atribución mediante acuerdo que será publicado en el Periódico Oficial “El Estado de Jalisco”.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2007)</small>
 
@@ -179,9 +183,25 @@ VIII. Prestar asesoría técnica topográfica y cartográfica a las distintas de
 
 IX. Elaborar e interpretar cartográficamente los documentos respectivos, a fin de apoyar a la solución de conflictos interparcelarios o de linderos, entre ejidatarios y/o comuneros, ejidos y comunidades y entre estos pequeños propietarios;
 
-X. Brindar el servicio de consulta, asesoría y copias de los expedientes que resguarda el Archivo Histórico Agrario; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-XI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+X. Brindar el servicio de consulta, asesoría y copias de los expedientes que resguarda el Archivo Histórico Agrario;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Contestar, en representación del Gobierno del Estado y en conjunto con la Dirección General Jurídica de la Secretaría, las demandas de los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Designar autorizados en los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XIII. Asistir y desahogar las audiencias que establece la Ley Agraria y sus reglamentos; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XIV. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
 
 ### CAPÍTULO V. De la Subsecretaría de Asuntos Jurídicos
 
@@ -197,11 +217,17 @@ III. Dirección General de Archivos;
 
 IV. Dirección General del Registro Civil;
 
-V. Dirección General del Registro Público de la Propiedad y de Comercio;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-VI. Dirección de Profesiones del Estado; y
+V. Dirección de Profesiones del Estado;
 
-VII. Dirección del Archivo de Instrumentos Públicos.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Dirección del Archivo de Instrumentos Públicos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Dirección de Certificaciones.
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
 
@@ -243,9 +269,17 @@ XIII. Supervisar la promulgación de decretos;
 
 XIV. Remitir para su publicación en el Periódico Oficial "El Estado de Jalisco", los decretos, acuerdos y demás disposiciones que lo requieran;
 
-XV. Supervisar la actualización legislativa y reglamentaria del Poder Ejecutivo a nivel federal y estatal, a través de la revisión diaria del Diario Oficial de la Federación y el Periódico Oficial del Estado y comunicarlo a las dependencias y entidades involucradas; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-XVI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el Secretario o el superior jerárquico.
+XV. Supervisar la actualización legislativa y reglamentaria del Poder Ejecutivo a nivel federal y estatal, a través de la revisión diaria del Diario Oficial de la Federación y el Periódico Oficial del Estado y comunicarlo a las dependencias y entidades involucradas;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XVI. Ejercer, en caso de ausencia del titular de la Dirección de Certificaciones, las atribuciones encomendadas al mismo que establece el artículo 19 Bis del presente Reglamento; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el Secretario o el superior jerárquico.
 
 ###### Artículo 14.
 
@@ -257,9 +291,9 @@ II. Elaborar acuerdos administrativos emitidos por la Secretaría o por el titul
 
 III. Efectuar los acuerdos de expropiación de bienes inmuebles;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Dar contestación a las demandas y atender los juicios planteados en contra y por las dependencias y entidades del Poder Ejecutivo, en sus diversas materias;
+IV. Atender los juicios planteados en contra del titular del Poder Ejecutivo del Estado, así como de la Secretaría, en sus diversas materias;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2005)</small>
 
@@ -269,13 +303,17 @@ V. Fungir como Unidad de Transparencia de la Secretaria, tramitar y resolver los
 
 VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-VII. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, en ausencia del Subsecretario de Asuntos Jurídicos, para efectos de lo establecido en el artículo 12 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; y
+VII. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, en ausencia del Subsecretario de Asuntos Jurídicos, para efectos de lo establecido en el artículo 12 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-VIII. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+VIII. Contestar, en representación del Gobierno del Estado y en conjunto con la Dirección General de Asuntos Agrarios de la Secretaría, las demandas de los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el Secretario o el superior jerárquico.
 
 ###### Artículo 15.
 
@@ -361,15 +399,29 @@ X. Las demás que le confiera la Ley para el ejercicio de Profesiones del Estado
 
 La Dirección del Archivo de Instrumentos Públicos, tendrá las siguientes facultades:
 
-I. Revisar los libros de protocolo y registro de certificaciones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-II. Recibir los avisos que los notarios deben dar en el ejercicio de sus funciones;
+I. Revisar los libros de protocolo y registro de certificaciones de los notarios públicos del Estado de Jalisco y levantar las actas correspondientes, de conformidad con la Ley del Notariado del Estado de Jalisco. En caso de existir irregularidades remitirá el acta correspondiente al titular del Poder Ejecutivo por conducto del Secretario;
 
-III Levantar las actas respectivas en los casos de depósito de sellos y autorizar mediante el acuerdo correspondiente la expedición de nuevos por pérdida o destrucción de los anteriores, remitiendo al Consejo de Notarios los que deban ser destruidos, en los casos señalados por la Ley del Notariado del Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Concluir los trámites legales pendientes, dar los avisos y hacer las cancelaciones que procedan en los instrumentos públicos;
+II. Recibir los avisos y duplicados que los notarios públicos de Jalisco, deben dar en el ejercicio de sus funciones respecto de los instrumentos y certificaciones autorizados por ellos y, en caso de ser extemporáneos, levantará el acta respectiva la cual será enviada al Secretario para que determine lo que proceda;
 
-V. Autorizar y expedir los testimonios y copias certificadas que soliciten los interesados, de libros de protocolo y registro de certificaciones que se encuentren en custodia del archivo;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+III. Levantar las actas respectivas en los casos de depósito, pérdida, deterioro o destrucción de sellos y autorizar mediante el acuerdo correspondiente la expedición de nuevos por pérdida, deterioro o destrucción de los mismos.
+
+Asimismo, procederá a la destrucción de sellos en los casos señalados por la Ley del Notariado del Estado de Jalisco.
+
+Ambas acciones deberá notificarlas al Secretario con los documentos correspondientes para que se anexen al expediente del notario público respectivo;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Concluir los trámites legales pendientes respecto de aquellos instrumentos públicos autorizados con la firma y sello del notario público que no se encuentre en funciones por fallecimiento, licencia, renuncia, sanción o por cualquier otro supuesto así determinado por la Ley del Notariado del Estado de Jalisco; así como sentar las notas de los avisos dados en los términos del ordenamiento citado;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+V. Autorizar y expedir los testimonios y copias certificadas que soliciten los interesados legitimados respecto de aquellos instrumentos públicos autorizados con sello y firma del notario públicos y asentados en los libros de protocolo y registro de certificaciones que se encuentren en custodia o depósito de esta Dirección, en los términos que así lo prevé la Ley del Notariado del Estado de Jalisco;
 
 VI. Actualizar un libro de registro con los datos necesarios para los efectos legales notariales;
 
@@ -377,9 +429,69 @@ VII. Organizar el archivo de los libros de protocolo y registro de certificacion
 
 VIII. Organizar e integrar en forma adecuada y sistemática los duplicados de los instrumentos públicos de los protocolos notariales;
 
-IX. Coordinar las acciones de archivar y clasificar en forma sistemática y ordenada, los avisos que los notarios presenten; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-X. Las demás que le confieran las disposiciones legales aplicables, así como el superior jerárquico.
+IX. Coordinar las acciones para archivar y clasificar en forma sistemática y ordenada los avisos y sus respectivos duplicados que los notarios presenten;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+X. Autorizar y entregar los folios y registro de certificaciones a los notarios públicos del Estado de Jalisco, mediante el acta de apertura por duplicado que para tal efecto se levante;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Dar los avisos y hacer las cancelaciones que procedan en los instrumentos públicos en custodia o depósito de esta Dirección;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Rendir los informes a las autoridades judiciales y administrativas, a los notarios públicos y a particulares respecto de las búsquedas testamentarias, en aquellos casos en que la Ley del Notariado del Estado de Jalisco así lo permita;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XIII. Contestar las demandas entabladas en contra de los notarios públicos del Estado de Jalisco cuyos protocolos se encuentren en custodia o depósito de esta Dirección;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XIV. Efectuar las notas marginales relativas a revocaciones de poderes y testamentos solicitadas por los notarios públicos del Estado de Jalisco, en los protocolos que se encuentren en custodia o depósito en la Dirección;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XV. Llevar a cabo las cancelaciones de instrumentos públicos ordenados por autoridades judiciales, en las escrituras públicas en custodia o depósito de esta Dirección;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XVI. Delegar las facultades establecidas en el presente artículo, así como las establecidas en la Ley del Notariado del Estado de Jalisco, a favor del personal adscrito a la Dirección;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Recoger los libros de protocolo, registro de certificaciones, sellos y folios en caso de fallecimiento, sanción, renuncia o licencia de los notarios públicos del Estado de Jalisco, así como en los demás supuestos en que así lo determine la Ley del Notariado del Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII. Las demás que le confieran las disposiciones legales aplicables, así como el superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 19 Bis.
+
+La Dirección de Certificaciones tendrá las siguientes facultades:
+
+I. Llevar el registro y actualización de firmas de los Titulares de las Secretarías y Dependencias del Ejecutivo Estatal; así como de los Subsecretarios y Oficial Mayor de esta Secretaría; Directores Generales; Rector General, Rectores Regionales, Secretario y Oficial Mayor de la Universidad de Guadalajara; Presidentes, Directores o encargados de los organismos públicos descentralizados; Presidente Secretario de Acuerdos del Supremo Tribunal de Justicia; Presidentes, Secretarios y Síndicos de los gobiernos municipales existentes en la entidad; y demás servidores públicos a quienes esté encomendada la fe pública, para su certificación o legalización;
+
+II. Efectuar la apostilla de los documentos públicos que de acuerdo al Convenio de la Haya deban expedirse;
+
+III. Certificar los documentos que obran en la Secretaría, tales como convenios, contratos, acuerdos, addendums (sic), anexos, nombramientos, tomas de protesta, circulares, oficios y demás documentos que hayan sido elaborados por la dependencia y/o que obren en los archivos de la misma;
+
+IV. Certificar los documentos que le sean solicitados por las demás dependencias y entidades estatales, previa validación del titular de la dependencia o entidad solicitante;
+
+V. Legalizar documentos para países que no sean miembros del Convenio de la Haya;
+
+VI. Certificar los documentos de escuelas públicas e inserción del holograma;
+
+VII. Legalizar o apostillar las cartas rogatorias en los términos de las disposiciones legales aplicables;
+
+VIII. Legalizar o apostillar las extradiciones en los términos de las disposiciones legales aplicables; y
+
+IX. Las demás que le confiera el superior jerárquico.
 
 ### CAPÍTULO VI. De la Subsecretaría de Participación Social
 
@@ -605,6 +717,12 @@ Durante las ausencias temporales del titular de la Secretaría, el despacho y la
 
 En las ausencias temporales de los Subsecretarios, Oficial Mayor, Directores Generales, y demás servidores públicos serán suplidos para el despacho de los asuntos de su competencia en el orden que se señala en este Reglamento por el inferior jerárquico inmediato adscrito en el área de su responsabilidad o bien por designación del propio Secretario, Subsecretario, Oficial Mayor o Director General.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 34.
+
+El Secretario, los Subsecretarios, los Directores Generales y los Directores de área podrán delegar en su personal subalterno, mediante acuerdo que deberá ser publicado en el Periódico Oficial “El Estado de Jalisco”, cualquiera de sus facultades, salvo aquellas que las leyes y el presente Reglamento dispongan que deban ser directamente ejercidas por ellos.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -654,3 +772,9 @@ P.O. 27 DE NOVIEMBRE DE 2008.
 P.O. 28 DE MAYO DE 2009.
 
 ÚNICO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Acuerdo.
