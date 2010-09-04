@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-universidad-tecnologica-de-la-28905"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-15"
-last_updated: "2003-02-15"
+last_updated: "2010-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de febrero de 2003.
 
@@ -135,11 +135,21 @@ I.- El Consejo Directivo;
 
 II.- El Rector;
 
-III.- Los Directores de Carrera;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
-IV.- El Director de Administración y Finanzas, y
+III.- El Secretario de Vinculación;
 
-V.- El Director de Vinculación.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- El Secretario Académico;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Los Directores de División;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Los Directores del Centro.
 
 ###### ARTÍCULO 11°.
 
@@ -237,57 +247,183 @@ En las ausencias definitivas será sustituido por quien designe el Gobernador de
 
 El Rector de la Universidad será designado por el Gobernador del Estado, a partir de una terna propuesta por el Consejo Directivo, durará en su cargo cuatro años, el cual podrá ser removido por causa justificada que discrecionalmente apreciará el Consejo Directivo.
 
-### CAPITULO IV. DE LOS DIRECTORES DE CARRERA
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPITULO IV. DEL SECRETARIO ACADÉMICO Y DIRECTORES DE DIVISIÓN
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 17° bis.- El Secretario Académico tendrá las siguientes funciones, facultades y atribuciones:
+
+Establecer políticas, lineamientos y acciones que permitan el cumplimiento de las labores sustantivas de la Universidad referidas a la academia, así como también planear los servicios escolares que se proporcionan a la comunidad estudiantil.
+
+I. Ampliar los materiales para el autoestudio como monografías, guías de estudio, guías de libros, entre otros, tanto en papel, como en electrónico.
+
+II. Coordinar el apoyo de las Divisiones de Carrera en las actividades de promoción y difusión para la captación de alumnos.
+
+III. Coordinar el desarrollo del Programa Operativo Anual del área académica.
+
+IV. Desarrollar y controlar el programa de actualización para el docente.
+
+V. Implementar acciones de mejora con la colaboración de los Directores de División de Carreras, para contribuir al fortalecimiento de los indicadores de cada uno de los programas educativos.
+
+VI. Impulsar el uso de material bibliohemorográfico y software especializado en el proceso de enseñanza-aprendizaje.
+
+VII. Impulsar la formación y consolidación de cuerpos académicos que contribuyan a la generación de conocimientos a través de la participación de los profesores de tiempo completo.
+
+VIII. Participar en la adquisición de tecnología de punta que permita el cumplimiento del saber hacer contemplado en los planes de estudios.
+
+IX. Participar en la creación de nuevos programas educativos.
+
+X. Promover el desarrollo del personal académico diseñando e implementando programas integrales de capacitación.
+
+XI. Supervisar el cumplimiento de los planes y programas de estudio en los programas educativos de la Institución.
+
+XII. Supervisar el desarrollo de actividades deportivas y culturales que promuevan la formación integral de los estudiantes.
+
+XIII. Verificar la adecuada provisión de recursos para el cumplimiento de los planes y programas de estudios de los programas educativos de la Institución.
+
+XIV. Asumir la responsabilidad de bienes muebles e inmuebles asignada a su área de conformidad con la normatividad establecida, preservando en óptimas condiciones el mobiliario y equipo.
+
+XV. Atender y resolver los problemas de trabajo del personal a su cargo.
+
+XVI. Ejecutar el presupuesto autorizado conforme las normas, lineamientos y procedimientos establecidos.
+
+XVII. Elaborar la relación de necesidades de recursos humanos, financieros, materiales y servicios requeridos para el logro de los objetivos y metas del Programa Operativo Anual del área a su cargo y someterla a la consideración del jefe inmediato superior.
+
+XVIII. Implantar los mecanismos de planeación, organización, dirección, control y evaluación que faciliten el funcionamiento del área a su cargo.
+
+XIX. Participar en el levantamiento de inventario de mobiliario y equipo asignado al área a su cargo, proporcionando la información solicitada por la unidad administrativa.
+
+XX. Participar en el proceso de auto evaluación institucional proporcionando la información que se requiera de su área.
+
+XXI. Participar en la elaboración de la estadística básica de la Universidad Tecnológica, así como en el sistema de información.
+
+XXII. Participar en las acciones de evaluación programática de presupuesto del área a su cargo.
+
+XXIII. Participar en la elaboración del Programa Operativo Anual y el anteproyecto de presupuesto de su área con base en la normatividad y lineamientos establecidos para tal efecto.
+
+XXIV. Asistir a reuniones informativas y de seguimiento coordinadas por Rectoría, cuando sea requerido.
+
+XXV. Elaborar el informe mensual de actividades del área.
+
+XXVI. Presentar en el lapso convenido toda aquella información orientada a la toma de decisiones que requieran instancias superiores.
+
+XXVII. Verificar el cumplimiento de las funciones del personal a cargo.
+
+XXVIII. Entregar reportes y seguimiento de los indicadores que aplique por la naturaleza de su área.
+
+XXIX. Apoyar a las diversas áreas de la Universidad en aquellas actividades relacionadas con el desempeño de su puesto.
+
+XXX. Evaluar el desempeño del personal a su cargo.
+
+XXXI. Participar en la promoción de la UT de la Costa.
+
+XXXII. Acudir a eventos oficiales y reuniones a los que expresamente sean encomendados por el Rector.
+
+XXXIII. Cumplir con la normatividad federal, estatal y/o institucional dentro de su ámbito de competencia.
+
+XXXIV. Actualizar permanentemente los manuales y procedimientos administrativos y registros de información correspondientes a las funciones que desarrolla.
+
+XXXV. Evaluar el comportamiento de los indicadores en los que interviene, implementación (sic) medidas preventivas y correctivas cuando así corresponda.
+
+XXXVI. Participar en las revisiones del Sistema de Gestión de la Calidad.
+
+XXXVII. Llevar a cabo el análisis de los datos para facilitar la mejora continua de los procesos a su cargo.
+
+XXXVIII. Asegurar que el proceso de comunicación con el personal a su cargo se realice de manera eficaz y eficiente.
+
+XXXIX. Las demás que indiquen las disposiciones legales correspondientes y aquellas que le confiera expresamente su jefe superior inmediato.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 18°.
 
-Los Directores de Carrera tendrán las siguientes facultades y atribuciones:
+Los Directores de División tendrán las siguientes funciones, facultades y atribuciones:
 
-En lo general, coordinar, dirigir y evaluar el desarrollo de las actividades académicas, de docencia, investigación y vinculación, relacionadas con la carrera, de acuerdo con los planes de estudio para cumplir con el objetivo de la institución.
+Coordinar, dirigir y evaluar el desarrollo de las actividades académicas, de docencia y vinculación, relacionadas con las carreras a su cargo, de acuerdo con los planes de estudio, para contribuir al cumplimiento de los objetivos de la Institución y de sus programas educativos.
 
-Específicas:
+I. Asistir, cuando sea comisionado, a reuniones de trabajo en el Comité Nacional de Directores de Carrera con el fin de mantener actualizado el modelo académico de la UT de la Costa.
 
-I.- Coordinar la elaboración del programa operativo anual y el anteproyecto de presupuesto de la Dirección, en base a la normatividad y lineamientos establecidos en la Universidad para tal efecto;
+II. Participar en los trabajos relacionados a la apertura de nuevos programas educativos.
 
-II.- Coordinar y dirigir el desarrollo de proyectos dependientes de la Dirección de carrera;
+III. Coordinar la elaboración de la distribución de la carga académica y tutorías de los docentes dependientes de la división, así como organizar los grupos de alumnos.
 
-III.- Promover y controlar el establecimiento de programas de formación y actualización docente;
+IV. Coordinar la participación de los docentes a su cargo en la promoción de la UT de la Costa.
 
-IV.- Proponer, adecuar y promover un sistema de tutorías entre el personal a su cargo;
+V. Participar en la detección e implementación de programas de formación y actualización profesional, técnica, docente y tutorial.
 
-V.- Gestionar las necesidades específicas de vinculación, de capacitación, de recursos de la carrera;
+VI. Dirigir y supervisar las actividades académicas, de docencia y vinculación de la división.
 
-VI.- Reunirse al menos 1 vez cada dos meses con los docentes para conocer la situación de la carrera y definir estrategias;
+VII. Coadyuvar en la ejecución del presupuesto acreditado a la división apegándose a las normas y lineamientos previamente establecidos para tal fin.
 
-VII.- Promover una vinculación con las familias de los alumnos, reuniéndose una vez por cuatrimestre;
+VIII. Emitir y enviar un informe quincenal de horas de docentes por asignatura al área de recursos humanos para su pago.
 
-VIII.- Atender y resolver los problemas de trabajo del personal a su cargo;
+IX. Formular nuevos proyectos para mejorar el funcionamiento de la división a su cargo; así como someter dichos proyectos a consideración del Rector para su aprobación.
 
-IX.- Impartir una asignatura del área de su competencia, cuando le sea solicitado por el Rector;
+X. Organizar reuniones con profesores de tiempo completo y profesores de asignatura, cuando se considere necesario.
 
-X.- Formular proyectos para el mejor funcionamiento de la carrera a su cargo, y someterlos a la consideración del Rector, para su aprobación;
+XI. Participar en la elaboración de expedientes para accesar a recursos extraordinarios en pro de la división de carrera y la Universidad.
 
-XI.- Coordinar la evaluación de los alumnos y catedráticos;
+XII. Participar en la gestión de espacios con el sector productivo, público y privado, para la realización de estadías, escuelas prácticas, estancias, servicio social, entre otras.
 
-XII.- Mantener actualizado el modelo académico de la Universidad, asistiendo a las reuniones de Directores de Carrera, por invitación del Coordinador de la Carrera y a petición del Rector;
+XIII. Promover reuniones con las familias de los alumnos una vez por cuatrimestre para fomentar la vinculación, así como atender sus necesidades.
 
-XIII.- Proponer normas que regulen el proceso educativo; de la Dirección de carrera a su cargo;
+XIV. Proponer normas que regulen el proceso educativo de la división a su cargo.
 
-XIV.- Ejecutar el presupuesto autorizado de la Dirección conforme a las normas, lineamientos y procedimientos establecidos;
+XV. Supervisar y apoyar el sistema de tutorías a cargo de la división.
 
-XV.- Participar en el proceso de auto evaluación institucional;
+XVI. Asumir la responsabilidad de bienes muebles e inmuebles asignada a su área de conformidad con la normatividad establecida, preservando en óptimas condiciones el mobiliario y equipo.
 
-XVI.- Participar en la elaboración de la estadística básica de la Universidad, así como en el sistema de información;
+XVII. Atender y resolver los problemas de trabajo del personal a su cargo.
 
-XVII.- Asumir la responsabilidad de los bienes muebles e inmuebles asignados a su cargo de conformidad con los procedimientos establecidos;
+XVIII. Ejecutar el presupuesto autorizado conforme las normas, lineamientos y procedimientos establecidos.
 
-XVIII.- Elaborar informe mensual con fecha de corte el día último de cada mes de las actividades desempeñadas en su Dirección;
+XIX. Elaborar la relación de necesidades de recursos humanos, financieros, materiales y servicios requeridos para el logro de los objetivos y metas del Programa Operativo Anual del área a su cargo y someterla a la consideración del jefe inmediato superior.
 
-XIX.- Proporcionar en los términos y plazos establecidos la Información y documentación que les sea requerida por instancias superiores;
+XX. Implantar los mecanismos de planeación, organización, dirección, control y evaluación que faciliten el funcionamiento del área a su cargo.
 
-XX.- Elaborar la relación de necesidades de recursos humanos, coordinando los exámenes de oposición para profesores de tiempo completo y de asignatura, financieros, materiales y servicios requeridos para el logro de los objetivos y metas del programa operativo anual del área a su cargo y someterla a la consideración del Rector, y
+XXI. Participar en el levantamiento de inventario de mobiliario y equipo asignado al área a su cargo, proporcionando la información solicitada por la unidad administrativa.
 
-XXI.- Las demás funciones que les asigne el Rector.
+XXII. Participar en el proceso de auto evaluación institucional proporcionando la información que se requiera de su área.
+
+XXIII. Participar en la elaboración de la estadística básica de la Universidad Tecnológica, así como en el sistema de información.
+
+XXIV. Participar en las acciones de evaluación programática de presupuesto del área a su cargo.
+
+XXV. Participar en la elaboración del Programa Operativo Anual y el anteproyecto de presupuesto de su área con base en la normatividad y lineamientos establecidos para tal efecto.
+
+XXVI. Asistir a reuniones informativas y de seguimiento coordinadas por Rectoría, cuando sea requerido.
+
+XXVII. Elaborar el informe mensual de actividades del área.
+
+XXVIII. Presentar en el lapso convenido toda aquella información orientada a la toma de decisiones que requieran instancias superiores.
+
+XXIX. Verificar el cumplimiento de las funciones del personal a cargo.
+
+XXX. Entregar reportes y seguimiento de los indicadores que aplique por la naturaleza de su área.
+
+XXXI. Apoyar a las diversas áreas de la Universidad en aquellas actividades relacionadas con el desempeño de su puesto.
+
+XXXII. Evaluar el desempeño del personal a su cargo.
+
+XXXIII. Participar en la promoción de la UT de la Costa.
+
+XXXIV. Acudir a eventos oficiales y reuniones a los que expresamente sean encomendados por el Rector.
+
+XXXV. Cumplir con la normatividad federal, estatal y/o institucional dentro de su ámbito de competencia.
+
+XXXVI. Actualizar permanentemente los manuales y procedimientos administrativos y registros de información correspondientes a las funciones que desarrolla.
+
+XXXVII. Evaluar el comportamiento de los indicadores en los que interviene, implementación (sic) medidas preventivas y correctivas cuando así corresponda.
+
+XXXVIII. Participar en las revisiones del Sistema de Gestión de la Calidad.
+
+XXXIX. Llevar a cabo el análisis de los datos para facilitar la mejora continua de los procesos a su cargo.
+
+XL. Asegurar que el proceso de comunicación con el personal a su cargo se realice de manera eficaz y eficiente.
+
+XLI. Las demás que indiquen las disposiciones legales correspondientes y aquellas que le confiera expresamente su jefe superior inmediato.
 
 ### CAPÍTULO V. DE LOS DIRECTORES DE CENTRO
 
@@ -321,57 +457,59 @@ XII.- Realizar proyectos y estudios que tiendan al mejoramiento y desarrollo de 
 
 XIII.- Las demás funciones que le asigne el Rector.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 20°.
 
-El Director de Vinculación, tendrá las siguientes facultades y atribuciones:
+El Secretario de Vinculación, tendrá las siguientes facultades y atribuciones:
 
-I.- Promover, establecer y mantener la vinculación tanto técnica como académica de la Universidad con los sectores productivos de bienes y servicios que se desarrollen en la misma, así como organismos públicos relacionados con dichos sectores;
+I. Promover, establecer y mantener la vinculación tanto técnica como académica de la Universidad con los sectores productivos de bienes y servicios que se desarrollen en la misma, así como organismos públicos relacionados con dichos sectores.
 
-II.- Coordinar la elaboración del programa operativo anual y el anteproyecto de presupuesto de esta Dirección con base a la normatividad y lineamientos establecidos y presentarlos a la Coordinación General de Universidades para su aprobación;
+II. Coordinar la elaboración del programa operativo anual y el anteproyecto de presupuesto de esta Dirección con base en la normatividad y lineamientos establecidos y presentarlos a la Coordinación General de Universidades para su aprobación.
 
-III.- Establecer y mantener relaciones y coordinación con las áreas académicas y con organismos públicos y privados de la región que coadyuven al cumplimiento de los proyectos de vinculación y de relaciones industriales;
+III. Establecer y mantener relaciones y coordinaciones con las áreas académicas y con organismos públicos y privados de la región que coadyuven al cumplimiento de los proyectos de vinculación y de relaciones industriales;
 
-IV.- Promover el establecimiento de convenios y contratos relacionados con la vinculación de conformidad con las normas establecidas;
+IV. Promover el establecimiento de convenios y contratos relacionados con la vinculación de conformidad con las normas establecidas;
 
-V.- Coordinar la realización de estudios de mercado ocupacional que contribuyan a la promoción profesional de egresados;
+V. Coordinar la realización de estudios de mercado ocupacional que contribuya a la promoción profesional de egresados;
 
-VI.- Coordinar el seguimiento de egresados de la Universidad, de acuerdo a los lineamientos de la Coordinación General de Universidades Tecnológicas;
+VI. Coordinar el seguimiento de egresados de la Universidad, de acuerdo a los lineamientos de la Coordinación General de Universidades Tecnológicas;
 
-VII.- Controlar la realización de visitas, prácticas, servicios estancias y estadías de los alumnos de la Universidad en el sector productivo e Institucional;
+VII. Controlar la realización de visitas, prácticas, servicios estancias y estadías de los alumnos de la Universidad en el sector productivo e institucional.
 
-VIII.- Coordinar con los organismos públicos y privados de la región, los servicios externos, de educación continua y desarrollo de proyectos tecnológicos que requiera el sector productivo;
+VIII. Coordinar con los organismos públicos y privados de la región, los servicios externos, de educación continua y desarrollo de proyectos tecnológicos que requiera el sector productivo;
 
-IX.- Auxiliar en la realización de visitas de estudiantes de la Universidad Tecnológica a las empresas;
+IX. Auxiliar en la realización de visitas de estudiantes de la Universidad Tecnológica a las empresas;
 
-X.- Concertar citas con industriales y comerciantes para establecer acuerdos de apoyo recíproco;
+X. Concertar citas con industriales y comerciantes para establecer acuerdos de apoyo recíproco;
 
-XI.- Observar las disposiciones que para el desempeño del puesto se suscitan;
+XI. Observar las disposiciones que para el desempeño del puesto se suscitan;
 
-XII.- Apoyar a las diversas áreas de la Universidad en aquellas actividades relacionadas con el desempeño de su puesto;
+XII. Apoyar a las diversas áreas de la Universidad en aquellas actividades relacionadas con el desempeño de su puesto;
 
-XIII.- Ejercer el presupuesto autorizado para su área conforme a las normas, lineamientos y procedimientos establecidos;
+XIII. Ejercer el presupuesto autorizado para su área conforme a las normas, lineamientos y procedimientos establecidos;
 
-XIV.- Proporcionar en los términos y plazos establecidos, la información y documentación que le sea requerida por instancias superiores;
+XIV. Proporcionar en los términos y plazos establecidos, la información y documentación que le sea requerida por instancias superiores;
 
-XV.- Controlar el registro de los alumnos que realizan sus prácticas y estadías, así como los reportes que se presenten al respecto;
+XV. Controlar el registro de los alumnos que realizan sus prácticas y estadías, así como los reportes que se presenten al respecto;
 
-XVI.- Coordinar los programas de colocación de prestadores de servicio social;
+XVI. Coordinar los programas de colocación de prestadores de servicio social;
 
-XVII.- Elaborar la relación de necesidades de recursos humanos, financieros, materiales y servicios requeridos para el logro de los objetivos y metas del programa operativo anual del área a su cargo y someterla a la consideración del Rector;
+XVII. Elaborar la relación de necesidades de recursos humanos, financieros, materiales y servicios requeridos para el ogro (sic) de los objetivos y metas del programa operativo anual del área a su cargo y someterla a la consideración del Rector;
 
-XVIII.- Evaluar las actividades del personal de su Dirección;
+XVIII. Evaluar las actividades del personal de su Dirección.
 
-XIX.- Elaborar informe mensual con fecha de corte los días últimos de cada mes de los resultados alcanzados por la Universidad en desarrollo de los proyectos de vinculación con el sector productivo;
+XIX. Elaborar informe mensual con fecha de corte los días últimos de cada mes de los resultados alcanzados por la Universidad en desarrollo de los proyectos de vinculación con el sector productivo;
 
-XX.- Establecer y mantener actualizados los sistemas de información de los proyectos de vinculación con el sector productivo;
+XX. Establecer y mantener actualizados los sistemas de información de los proyectos de vinculación con el sector productivo;
 
-XXI.- Proponer al Rector los programas de trabajo relacionados con la Dirección a su cargo;
+XXI. Proponer al Rector los programas de trabajo relacionados con la Dirección a su cargo;
 
-XXII.- Realizar los proyectos y estudios de mejoramiento y desarrollo de la Universidad;
+XXII. Realizar los proyectos y estudios de mejoramiento y desarrollo de la Universidad;
 
-XXIII.- Realizar todas aquellas actividades afines a las que anteceden; y
+XXIII. Realizar todas aquellas actividades a fines (sic) a las que anteceden; y
 
-XXIV.- Las demás funciones que le asigne el Rector.
+XXIV. Las demás funciones que le asigne el Rector
 
 ## TÍTULO TERCERO. DE LOS FUNCIONARIOS AUXILIARES
 
@@ -780,3 +918,11 @@ C.P. Antonio Flores Crespo
 C. Flavio Amaya Madera
 
 Dr. José Ángel Martínez Imurriaga
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los aspectos no previstos en este Reglamento serán objeto de análisis y resolución por parte del Consejo Directivo.
