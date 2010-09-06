@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2009-06-15"
+last_updated: "2010-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "AGU"
 
 CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -72,7 +72,7 @@ V.- Valladolid; y
 
 VI.- Paseo de "Las Arboledas", que contará con la siguiente jurisdicción: Al Norte, con Río Chicalote; Al Oriente, con la Carretera Federal Número 45 Norte, y bordeando todo el límite del Municipio; Al Sur, con límite del Municipio; y Al Oriente, con Calle Prolongación Zaragoza y su proyecto de continuación, hasta cerrar el polígono en la intersección con el Río Chicalote.
 
-Las localidades pertenecientes al municipio de Jesús María, son las siguientes: "Agua Amarilla"; "El Alto o La Concepción"; "Las Amarillas"; "Los Arenales"; "Los Arquitos"; "Arroyo Hondo" o "La Salve"; "Bajío de las Liebres"; "El Aurero"; "Los Gavilanes"; "Avícola El Llano"; "La Barranca"; "Boca del Coyote"; "La Boquilla"; "Las Bóvedas"; "Brownsville"; "Buena Vista"; "El Canutillo"; "Canteritas"; "Cañada del Rodeo"; "La Cañada"; "El Capricho"; "Cavas de Fontenac"; "Cavas de Montoro"; "El Cenizo"; "El Centro"; "Cieneguitas"; "Las Claras"; "Club Hípico San Marcos"; "Colonia Nueva"; "Colonia La Providencia"; "Margaritas"; "El Colorín"; "El Conejo" o "Puerta El Llano”; “El Cordero”; “Corral Colorado”; “Corral de Barrancos”; “El Cortijo”; “Crucero Gracias Dios"; "Las Cruces"; "Los Cuartos"; "El Chacho" o "Las Cruces"; "La Chaveña"; "El Chavenal"; "Chichihuas"; "El Chichimeco"; "Ejido El Aurero"; "La Esperanza" o "La Máquina"; "La Florida"; "La Forestal"; "Los Gavilanes"; "El Gemelo"; "General Ignacio Zaragoza" o "Venadero"; "Gracias a Dios"; "Granja Albamex"; "Granja Aparicio"; "Granja Las Bugambilias"; "Granja Camino Real"; "Granja Chispiritos"; "Granja Elizondo"; "Granja Estelita"; "Granja El Refugio"; "Granja El Refugio de los Arquitos"; "Granja El Sol"; "Granja Imelda"; "Granja Lizzy."; "Granja Ma. Eugenia"; "Miravalle"; "Granja Pikita"; "Granja Santa Elena"; "Granja Troncales"; "La Granjita"; "Hípico Valladolid"; "Hípico Villa Asunción"; "Las Isabeles"; "La Isla" o "San Francisco"; "Las Jaulas"; "Jesús Gómez Portugal" o "Margaritas"; "Jesús María"; "El Jilotito"; "La Ladrillera"; "Loma Bonita"; "La Loma de Maravillas"; "La Loma de Valladolid"; "La Loma"; "Lomas de Vergeles"; "La Lomita de Paso Blanco" o "Las Canoas"; "El Llano"; "El Llano" o "San Isidro"; "El Maguey"; "La Malobra"; "Maravillas"; "Mesa de las Carretas" o "Un Nuevo Amanecer"; "La Mesa del Contadero" o "El Contadero"; "Milpillas de Arriba"; "La Miniatura"; "Los Muñoz"; "Paso Blanco"; "Las Palomas"; "El Perjuicio"; "Rancho Piedrafita"; "Piedras Negras"; "La Pileta"; "Las Polleras"; "Los Ponce"; "El Potrero"; "La Posta"; "Pocitos"; "Potrero del Espejo" ("San Isidro"); "Presa Abelardo Rodríguez"; "Presa de Huijolotes"; "La Presita"; "La Primavera"; "La Providencia" o "La Loma"; "Puente de Villalpando" o "El Puente"; "La Puerta del Chaveña"; "Puerta del Llano" o "San Isidro"; "La Puerta del Sol"; "Quinta La Chiquis"; "Quinta Sofía" o "La Matutina"; "La Quinta"; "Quinta Sonia Leticia"; "Los Ramírez"; "Rancho Casa Blanca"; "Rancho El Castillo"; "Rancho El Feo"; "Rancho El Lucero": "Rancho La Laguna"; "Rancho La Primavera"; “Rancho Los Campos"; "Rancho Los Martínez" o "Rancho Maria Antonieta"; "Rancho Maria Teresa"; "Rancho Seco"; "Rancho Yaya"; "El Rastro"; "El Refugio"; "El Retiro"; "Rila"; "La Rinconada"; "El Rinconcito Lejano"; "El Rosario"; "San Antonio de los Horcones"; "San Cristóbal"; "San Guillermo" o "Rancho Viejo"; "San Isidro"; "San Lorenzo"; "San Isidro de Los Muñoz" o "San Isidro"; "San Jacobo"; "San Juan de Dios"; "San Miguel de Díaz"; "San Nicolás" o "Las Huertas"; "Santa Elena"; "Santa Fe"; "Los Sauces"; "Sector Dos Los Cuartos"; "Sector Nueve Santa Elena"; "Sector Seis La Providencia"; "Sector Diez Las Liebres"; "Sector Siete San Isidro"; "Sector Uno Las Ladrilleras"; "Sector Uno Benigno Chávez"; "Sector Venustiano Carranza"; "La Soledad"; "Tapias Viejas"; "Tepetates"; "La Tomatina"; "Las Tranquitas"; "Unión de Ladrilleros"; "Valladolid"; "El Varal"; "Los Vázquez"; "Venaderito"; "La Ventana"; "Villas de Guadalupe"; "Fraccionamiento Villas de Monteclaro"; "Viñedos Coral"; "Viñedos Don Trini" o "Jaltipa"; "Viñedos Eva" o "Fraccionamiento Paso Blanco"; "Viñedos Frutilandia"; ''Viñedos Rios" o "Granja Chispiritos"; "Don Trini"; ''Viñedos Ríos" o "Viñedos Silvia"; "Vista Hermosa"; "Viznaga"; "El Zapote"; "Sector Tres Benito Juárez"; "La Soledad"; "El Tepetate"; "El Varal"; "Los Vázquez"; "La Ventana"; "Rancho El Vergel"; "Viñedos Elizondo"; "Potrero de Las Escobas"; "El Chaveño"; "EI Chacho" (de Ags. ó Jesús María); "La Escondida"; "Santa Elena" (aparece como localidad sin nombre): "Sartenejo"; "Viñedos Ríos" o "Viñedos El Panal"; "El Llano" ("San Isidro"); "La Soledad"; "Milpillas de Abajo"; "La Soledad" (por donde está "Gracias a Dios"); "La Soledad" (Poniente de "Margaritas"); "La Soledad" (Carretera 45); "Potrero del Espejo" ("San Isidro"); "La Loma"; "San Isidro" y "El Llano" ("San Isidro").
+Las localidades pertenecientes al municipio de Jesús María, son las siguientes: "Agua Amarilla"; "El Alto o La Concepción"; "Las Amarillas"; "Los Arenales"; "Los Arquitos"; "Arroyo Hondo" o "La Salve"; "Bajío de las Liebres"; "El Aurero"; "Los Gavilanes"; "Avícola El Llano"; "La Barranca"; "Boca del Coyote"; "La Boquilla"; "Las Bóvedas"; "Brownsville"; "Buena Vista"; "El Canutillo"; "Canteritas"; "Cañada del Rodeo"; "La Cañada"; "El Capricho"; "Cavas de Fontenac"; "Cavas de Montoro"; "El Cenizo"; "El Centro"; "Cieneguitas"; "Las Claras"; "Club Hípico San Marcos"; "Colonia Nueva"; "Colonia La Providencia"; "Margaritas"; "El Colorín"; "El Conejo" o "Puerta El Llano”; “El Cordero”; “Corral Colorado”; “Corral de Barrancos”; “El Cortijo”; “Crucero Gracias Dios"; "Las Cruces"; "Los Cuartos"; "El Chacho" o "Las Cruces"; "La Chaveña"; "El Chavenal"; "Chichihuas"; "El Chichimeco"; "Ejido El Aurero"; "La Esperanza" o "La Máquina"; "La Florida"; "La Forestal"; "Los Gavilanes"; "El Gemelo"; "General Ignacio Zaragoza" o "Venadero"; "Gracias a Dios"; "Granja Albamex"; "Granja Aparicio"; "Granja Las Bugambilias"; "Granja Camino Real"; "Granja Chispiritos"; "Granja Elizondo"; "Granja Estelita"; "Granja El Refugio"; "Granja El Refugio de los Arquitos"; "Granja El Sol"; "Granja Imelda"; "Granja Lizzy."; "Granja Ma. Eugenia"; "Miravalle"; "Granja Pikita"; "Granja Santa Elena"; "Granja Troncales"; "La Granjita"; "Hípico Valladolid"; "Hípico Villa Asunción"; "Las Isabeles"; "La Isla" o "San Francisco"; "Las Jaulas"; "Jesús Gómez Portugal" o "Margaritas"; "Jesús María"; "El Jilotito"; "La Ladrillera"; "Loma Bonita"; "La Loma de Maravillas"; "La Loma de Valladolid"; "La Loma"; "Lomas de Vergeles"; "La Lomita de Paso Blanco" o "Las Canoas"; "El Llano"; "El Llano" o "San Isidro"; "El Maguey"; "La Malobra"; "Maravillas"; "Mesa de las Carretas" o "Un Nuevo Amanecer"; "La Mesa del Contadero" o "El Contadero"; "Milpillas de Arriba"; "La Miniatura"; "Los Muñoz"; "Paso Blanco"; "Las Palomas"; "El Perjuicio"; "Rancho Piedrafita"; "Piedras Negras"; "La Pileta"; "Las Polleras"; "Los Ponce"; "El Potrero"; "La Posta"; "Pocitos"; "Potrero del Espejo" ("San Isidro"); "Presa Abelardo Rodríguez"; "Presa de Huijolotes"; "La Presita"; "La Primavera"; "La Providencia" o "La Loma"; "Puente de Villalpando" o "El Puente"; "La Puerta del Chaveña"; "Puerta del Llano" o "San Isidro"; "La Puerta del Sol"; "Quinta La Chiquis"; "Quinta Sofía" o "La Matutina"; "La Quinta"; "Quinta Sonia Leticia"; "Los Ramírez"; "Rancho Casa Blanca"; "Rancho El Castillo"; "Rancho El Feo"; "Rancho El Lucero": "Rancho La Laguna"; "Rancho La Primavera"; “Rancho Los Campos"; "Rancho Los Martínez" o "Rancho Maria Antonieta"; "Rancho Maria Teresa"; "Rancho Seco"; "Rancho Yaya"; "El Rastro"; "El Refugio"; "El Retiro"; "Rila"; "La Rinconada"; "El Rinconcito Lejano"; "El Rosario"; "San Antonio de los Horcones"; "San Cristóbal"; "San Guillermo" o "Rancho Viejo"; "San Isidro"; "San Lorenzo"; "San Isidro de Los Muñoz" o "San Isidro"; "San Jacobo"; "San Juan de Dios"; "San Miguel de Díaz"; "San Nicolás" o "Las Huertas"; "Santa Elena"; "Santa Fe"; "Los Sauces"; "Sector Dos Los Cuartos"; "Sector Nueve Santa Elena"; "Sector Seis La Providencia"; "Sector Diez Las Liebres"; "Sector Siete San Isidro"; "Sector Uno Las Ladrilleras"; "Sector Uno Benigno Chávez"; "Sector Venustiano Carranza"; "La Soledad"; "Tapias Viejas"; "Tepetates"; "La Tomatina"; "Las Tranquitas"; "Unión de Ladrilleros"; "Valladolid"; "El Varal"; "Los Vázquez"; "Venaderito"; "La Ventana"; "Villas de Guadalupe"; "Fraccionamiento Villas de Monteclaro"; "Viñedos Coral"; "Viñedos Don Trini" o "Jaltipa"; "Viñedos Eva" o "Fraccionamiento Paso Blanco"; "Viñedos Frutilandia"; ''Viñedos Rios" o "Granja Chispiritos"; "Don Trini"; ''Viñedos Ríos" o "Viñedos Silvia"; "Vista Hermosa"; "Viznaga"; "El Zapote"; "Sector Tres Benito Juárez"; "La Soledad"; "El Tepetate"; "El Varal"; "Los Vázquez"; "La Ventana"; "Rancho El Vergel"; "Viñedos Elizondo"; "Potrero de Las Escobas"; "El Chaveño"; "El Chacho" (de Ags. ó Jesús María); "La Escondida"; "Santa Elena" (aparece como localidad sin nombre): "Sartenejo"; "Viñedos Ríos" o "Viñedos El Panal"; "El Llano" ("San Isidro"); "La Soledad"; "Milpillas de Abajo"; "La Soledad" (por donde está "Gracias a Dios"); "La Soledad" (Poniente de "Margaritas"); "La Soledad" (Carretera 45); "Potrero del Espejo" ("San Isidro"); "La Loma"; "San Isidro" y "El Llano" ("San Isidro").
 
 ### CAPITULO SEGUNDO. Nombre y Escudo
 
@@ -150,6 +150,32 @@ XVIII. Propiciar la institucionalización del servicio administrativo y civil de
 
 XIX. Las demás que se desprendan de las mismas.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+ARTÍCULO 9 BIS.- Toda mujer que se encuentre en el municipio de Jesús María, tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos.
+
+Estos derechos comprenden entre otros:
+
+I. El derecho a que se respete la vida;
+
+II. El derecho a que se respete su integridad física, psíquica y moral;
+
+III. El derecho a la libertad y la seguridad personales;
+
+IV. El derecho a no ser sometida a torturas;
+
+V. El derecho a igualdad de protección ante y de la ley;
+
+VI. El derecho a que se respete la dignidad inherente a su persona y que se proteja a su familia;
+
+VII. El derecho a un recurso sencillo y rápido ante los tribunales competentes, que la ampare contra actos que violen sus derechos;
+
+VIII. El derecho a libertad de asociación;
+
+IX. El derecho a la libertad de profesar la religión y las creencias propias dentro de la ley; y
+
+X. El derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
+
 ### CAPITULO CUARTO. De la Población
 
 ###### ARTICULO 10.
@@ -186,7 +212,9 @@ II.- Obligaciones:
 
 A) Inscribirse en el catastro de la municipalidad, manifestando la propiedad que el mismo tenga, la industria, profesión o trabajo del cual subsista, así como también inscribirse en el Registro Nacional de Ciudadanos en los términos que determinen las leyes aplicables a la materia;
 
-B) Hacer que sus hijos o pupilos concurran a las escuelas públicas o particulares para obtener la educación básica;
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+B) Hacer que sus hijas e hijos o pupilos concurran a las escuelas públicas o particulares para obtener en igualad de condiciones y oportunidades la educación básica;
 
 C) Desempeñar los cargos declarados obligatorios por la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen;
 
@@ -305,6 +333,84 @@ III. Comité del Programa de Ciudades Hermanas.
 ###### ARTICULO 21 Bis.
 
 Las autoridades del Gobierno Municipal a fin de hacer cumplir sus determinaciones podrán aplicar supletoriamente las disposiciones legales contenidas en el Código Civil, Código de Procedimientos Civiles, así como en la Ley del Procedimiento Administrativo, todos ellos del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 21 Ter.
+
+Son obligaciones del Ayuntamiento en materia de Igualdad de Género las siguientes:
+
+I.- Instrumentar y articular en concordancia con la política nacional y estatal, la política municipal orientada a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
+
+II.- Promover en concordancia con las entidades federativas, y la federación cursos de capacitación y modificaciones conductuales a las personas que atienden a víctimas de violencia contra las mujeres;
+
+III.- Apoyar la creación de programas de reeducación integral para los generadores de violencia contra las mujeres en los términos explícitos y de conformidad con los lineamientos que establece la Ley de acceso de las Mujeres a una vida libre de violencia para el Estado de Aguascalientes y su Reglamento;
+
+IV.- Promover programas educativos sobre la igualdad entre los géneros para eliminar la violencia contra la mujer;
+
+V.- Apoyar la creación de centros de atención para prevenir y erradicar la violencia contra las mujeres y de refugios seguros para las víctimas de violencia familiar y sexual;
+
+VI.- Participar y coadyuvar en los ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+VII.- Impartir cursos y talleres de prevención y protección contra la violencia de género en los cuerpos policiacos;
+
+VIII.- Evaluar anualmente la actividad de los cuerpos policiacos y servidores públicos encargados de la atención a la violencia de género;
+
+IX.- Elaborar una guía de asistencia inmediata que seguirían los elementos de seguridad pública cuando se presenten casos de violencia familiar;
+
+X.- Designar a los integrantes del sistema municipal de prevención, atención, sanción y erradicación de la violencia, y vigilar su correcta instalación y funcionamiento;
+
+XI.- Aprobar el programa municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñara con base en la perspectiva de género;
+
+XII.- Construir el mecanismo municipal de adelanto e favor de las mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo y;
+
+XIII.- La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 21 Quater.
+
+El Ayuntamiento implementará el programa municipal para la prevención, atención, sanción y erradicación, de la violencia el cual deberá contener:
+
+I. Los objetivos generales y específicos;
+
+II. Las estrategias a seguir;
+
+III. Las líneas de acción;
+
+IV. Los recursos asignados;
+
+V. Las metas cuantitativas y cualitativas;
+
+VI. Los responsables de su ejecución;
+
+VII. Los mecanismos de evaluación; y
+
+VII. El subprograma de capacitación.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 21 Quinquies.
+
+Son principios rectores del programa municipal:
+
+I. La no discriminación;
+
+II. La autodeterminación y libertad de las mujeres;
+
+III. La igualdad sustantiva entre mujeres y Hombres;
+
+IV. El respeto a la dignidad de las mujeres;
+
+V. El pluralismo social y la multiculturalidad de las mujeres; y
+
+VI. La perspectiva de género que permita incorporar a la mujer como sujeto social.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 21 Sexies.
+
+El Programa Municipal incluirá los ejes de acción: de prevención, atención y sanción, considerando los niveles de intervención que cada eje contempla, en términos de lo dispuesto por la Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes y su Reglamento.
 
 ### CAPITULO SEGUNDO. De las Funciones de los Miembros del Ayuntamiento
 
@@ -738,7 +844,11 @@ El Ayuntamiento de Jesús María, para el eficaz desempeño de sus funciones y e
 
 14. Acción Social y Deportes;
 
-15. Relojes y Panteones; y
+15. Relojes y Panteones; y (sic)
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+16. De Equidad y Género; y
 
 Todas aquellas que el Ayuntamiento considere necesarias con base en la demanda de la ciudadanía.
 
@@ -938,9 +1048,7 @@ a).- Departamento de Planeación;
 
 b).- Departamento de Usos de Suelo y Control Urbano;
 
-c).- Departamento de Fraccionamientos y Licencias
-
-de Construcción; y
+c).- Departamento de Fraccionamientos y Licencias de Construcción; y
 
 d).- Departamento de Ecología y Medio Ambiente.
 
@@ -1134,9 +1242,11 @@ APARTADO QUINTO
 
 DE LA DIRECCION DE FINANZAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 103.
 
-La Dirección de Finanzas es la dependencia encargada de recaudar, distribuir, administrar y controlar las finanzas públicas municipales, contando con las facultades y obligaciones que le imponen la Ley Orgánica Municipal del Estado de Aguascalientes, la legislación fiscal federal, estatal y otras leyes y disposiciones de carácter municipal, entre las que se encuentran las siguientes atribuciones:
+La Dirección de Finanzas es la dependencia encargada de recaudar, distribuir, administrar y controlar las finanzas públicas municipales, contando con las facultades y obligaciones que le imponen la Ley Municipal del Estado de Aguascalientes, la legislación fiscal federal, estatal y otras leyes y disposiciones de carácter municipal, entre las que se encuentran las siguientes atribuciones:
 
 I. Proponer al Ayuntamiento cuantas medidas sean conducentes al buen orden y mejora de los cobros municipales, haciendo las observaciones que estime convenientes;
 
@@ -1170,7 +1280,9 @@ XV. Formar por triplicado, el último día de cada mes, un corte de caja del mov
 
 XVI. Hacer junto con el Síndico las gestiones oportunas en los asuntos en que tenga interés el erario municipal;
 
-XVII. Formar cada año, en los tiempos que señale la Ley Orgánica Municipal, el proyecto de Ley de ingresos y egresos correspondientes al año siguiente, remitiéndolo al Ayuntamiento para su estudio;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Formar cada año, en los tiempos que señale la Ley Municipal, el proyecto de Ley de ingresos y egresos correspondientes al año siguiente, remitiéndolo al Ayuntamiento para su estudio. Esta actividad se realizará con honestidad, claridad y transparencia, además de observar el criterio de austeridad, disciplina, racionalidad y equidad de género al elaborar el proyecto de Ley de ingresos y de egresos.
 
 XVIII. Cuidar que el despacho de la oficina se haga en los días y horas fijados por las disposiciones administrativas o por el Ayuntamiento;
 
@@ -1338,7 +1450,7 @@ Es obligación del titular responsable de cada área, brindar la asistencia soli
 
 APARTADO SEGUNDO
 
-TRASLADOS, REASIGNACIONES, TRANSFERENCIASY BAJAS DE BIENES MUEBLES
+TRASLADOS, REASIGNACIONES, TRANSFERENCIAS Y BAJAS DE BIENES MUEBLES
 
 ###### ARTICULO 116.
 
@@ -1380,7 +1492,7 @@ VII. Período de ausencia del bien.
 
 VIII. Nombre y firma de autorización por parte del director del área.
 
-IX. Adscripción a donde va el bien.
+IX. Adscripción a dónde va el bien.
 
 ###### ARTICULO 122.
 
@@ -1412,7 +1524,7 @@ Los criterios de reasignación de bienes muebles por parte de Control Patrimonia
 
 ###### ARTICULO 125.
 
-Es responsabilidad de todo resguardante y/o usuario de un bien mueble, notificar al director y éste a su vez a Control Patrimonial cuando un bien se encuentre fuera de servicio y a su juicio, éste deba ser dado de baja, queda estrictamente prohibido que las áreas enajenen los bienes de deshecho, independientemente de la naturaleza y el estado de los mismos. Control Patrimonial procederá a recogerlos y hacer acopio de éstos, con el fin de enajenarlos.
+Es responsabilidad de todo resguardante y/o usuario de un bien mueble, notificar al director y éste a su vez a Control Patrimonial cuando un bien se encuentre fuera de servicio y a su juicio, éste deba ser dado de baja, queda estrictamente prohibido que las áreas enajenen los bienes de desecho, independientemente de la naturaleza y el estado de los mismos. Control Patrimonial procederá a recogerlos y hacer acopio de éstos, con el fin de enajenarlos.
 
 APARTADO TERCERO
 
@@ -1550,7 +1662,7 @@ Para el cumplimiento de sus fines la Contraloría Municipal contará con las sig
 
 I.- Subdirección de Asuntos Jurídicos.
 
-II.- Subdirección de Auditoria Financiera y Administrativa.
+II.- Subdirección de Auditoría Financiera y Administrativa.
 
 III.- Subdirección de Control de Obra Pública, Supervisión y Evaluación.
 
@@ -1704,19 +1816,19 @@ III.- Clase de giro, nombre o denominación del mismo;
 
 IV.- Autorización sanitaria y autorización de uso de suelo, a nombre del solicitante, expedidas por las autoridades competentes; y
 
-V.- El titulo de propiedad del inmueble donde pretende ubicarse el giro, o copia del contrato que corresponda, con el que se acredite el derecho de uso y goce de aquel, por el solicitante.
+V.- El título de propiedad del inmueble donde pretende ubicarse el giro, o copia del contrato que corresponda, con el que se acredite el derecho de uso y goce de aquel, por el solicitante.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 156.
 
-Recibida la solicitud de licencia, con los anexos necesarios y cumpliendo con la totalidad de los requisitos a que se refiere el articulo anterior, la autoridad municipal ordenará, que en un plazo no mayor de cinco días hábiles, se realicen visitas por el personal autorizado de las áreas de seguridad y protección civil, para verificar que efectivamente el establecimiento o local propuestos, reúne las condiciones físicas manifestadas en la solicitud respectiva. Realizado lo anterior y sin que exista impedimento alguno para su funcionamiento, se canalizará la solicitud al Cabildo del Ayuntamiento, en un plazo no mayor de 10 días hábiles, para que se decida sobre su autorización final. Aprobada que sea, se expedirá la licencia, previo el pago de los derechos correspondientes, a nombre del solicitante, la cual tendrá una vigencia por el año fiscal que corresponde, haciendo los ajustes de cobro necesarios, en relación con la fecha de expedición.
+Recibida la solicitud de licencia, con los anexos necesarios y cumpliendo con la totalidad de los requisitos a que se refiere el artículo anterior, la autoridad municipal ordenará, que en un plazo no mayor de cinco días hábiles, se realicen visitas por el personal autorizado de las áreas de seguridad y protección civil, para verificar que efectivamente el establecimiento o local propuestos, reúne las condiciones físicas manifestadas en la solicitud respectiva. Realizado lo anterior y sin que exista impedimento alguno para su funcionamiento, se canalizará la solicitud al Cabildo del Ayuntamiento, en un plazo no mayor de 10 días hábiles, para que se decida sobre su autorización final. Aprobada que sea, se expedirá la licencia, previo el pago de los derechos correspondientes, a nombre del solicitante, la cual tendrá una vigencia por el año fiscal que corresponde, haciendo los ajustes de cobro necesarios, en relación con la fecha de expedición.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 157.
 
-En el caso de que la solicitud no se acompañe con todos los documentos descritos, ni se satisfagan los requisitos a que se refiere el artículo 155 de este ordenamiento; o que de la visita a que se refiere el articulo anterior, resulte que no se cumplieron las condiciones manifestadas en la solicitud, la autoridad municipal concederá un plazo de cinco días naturales para que los interesados subsanen tales omisiones. En caso de no hacerlo, se tendrá como no presentada la solicitud, lo que no impide su posterior trámite.
+En el caso de que la solicitud no se acompañe con todos los documentos descritos, ni se satisfagan los requisitos a que se refiere el artículo 155 de este ordenamiento; o que de la visita a que se refiere el artículo anterior, resulte que no se cumplieron las condiciones manifestadas en la solicitud, la autoridad municipal concederá un plazo de cinco días naturales para que los interesados subsanen tales omisiones. En caso de no hacerlo, se tendrá como no presentada la solicitud, lo que no impide su posterior trámite.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
 
@@ -1794,7 +1906,7 @@ a).- Realizar la venta de las bebidas alcohólicas, fuera del local o establecim
 
 b).- Permitir la entrada a los locales o establecimientos autorizados, a personas en evidente estado de ebriedad;
 
-c).- Realizar la venta y permitir el consumo de bebidas alcohólicas a personas que se encuentren en evidente estado de ebriedad, o a personas menores de 18 anos de edad;
+c).- Realizar la venta y permitir el consumo de bebidas alcohólicas a personas que se encuentren en evidente estado de ebriedad, o a personas menores de 18 años de edad;
 
 d).- Permitir la realización de juegos prohibidos, o que se crucen apuestas, en los establecimientos a su cargo;
 
@@ -2060,9 +2172,13 @@ APARTADO PRIMERO
 
 DE LA ADMINISTRACION DEL RASTRO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 202.
 
-(DEROGADO, P.O. 15 DE JUNIO DE 2009)
+La administración del rastro municipal será representada por una (sic) administrador de sexo indistinto, que será designado por la Dirección de Servicios Públicos Municipales, el cual ejercerá y cumplirá con las siguientes facultades:
+
+De la a) a la f).-……….. (sic)
 
 APARTADO SEGUNDO
 
@@ -3230,7 +3346,7 @@ La temporalidad a que se refiere el artículo anterior, será de 5 años para fo
 
 ###### ARTICULO 385.
 
-La temporalidad referida en el articulo anterior, confiere el derecho de uso sobre la fosa o gaveta. Transcurrido tal término, se podrá solicitar la exhumación de los restos o refrendarse el uso, previo el pago de derechos correspondientes.
+La temporalidad referida en el artículo anterior, confiere el derecho de uso sobre la fosa o gaveta. Transcurrido tal término, se podrá solicitar la exhumación de los restos o refrendarse el uso, previo el pago de derechos correspondientes.
 
 ###### ARTICULO 386.
 
@@ -3270,7 +3386,7 @@ Son obligaciones de los usuarios las siguientes:
 
 I.- Cumplir con las disposiciones establecidas en este Código Municipal, así como las emitidas por la Administración Municipal, relacionadas con el servicio;
 
-II.- Pagar en forma anual las cuotas de mantenimiento de áreas comunes que se fijen en la Ley de Ingresos del Municipio de Jesús Maria, Aguascalientes;
+II.- Pagar en forma anual las cuotas de mantenimiento de áreas comunes que se fijen en la Ley de Ingresos del Municipio de Jesús María, Aguascalientes;
 
 III.- Abstenerse de colocar epitafios en fosas y gavetas, que sean contrarios a la moral o las buenas costumbres;
 
@@ -3572,7 +3688,9 @@ I.- Vigilar la ejecución de todos los Servicios de Policía;
 
 II.- Dictar las medidas necesarias para conservar la paz pública, evitar la comisión de los delitos, proteger los derechos de la ciudadanía y velar dentro del ámbito de sus funciones por el respeto de las garantías individuales que la Constitución General de la República otorga;
 
-III.- Vigilar que exista una constante aplicación y renovación de las nuevas técnicas de educación policíaca tanto individual como de conjunto;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Vigilar que exista una constante aplicación y renovación de las nuevas técnicas de educación policíaca tanto individual como de conjunto y realizar esta actividad con un criterio de equidad de género;
 
 IV.- Estimular a los elementos de la policía que se distingan en el cumplimiento de sus deberes, o se esfuercen por la superación de sus conocimientos;
 
@@ -3586,17 +3704,23 @@ VIII.- Fomentar en todo el personal a sus órdenes los más altos sentimientos d
 
 IX.- Oír con atención las quejas que sus inferiores le expongan, así como dictar las disposiciones necesarias de acuerdo a sus facultades;
 
-X.- Evitar las discusiones o pláticas de carácter político o religioso en el interior del edificio sede de la corporación;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Evitar las discusiones o pláticas de carácter político, religioso y las tendientes a proferir afirmaciones que violenten los derechos fundamentales de las mujeres o mediante estas se ejerza violencia en contra de ellas tanto en el interior del edificio sede de la corporación como en las radio patrullas y/o en cualquier lugar donde desempeñen sus funciones como miembros activos de la corporación;
 
 XI.- Graduar las sanciones y correctivos disciplinarios que en un principio impongan sus inferiores en los términos del presente Código. En caso de comprobarse su falta de justificación, dictará las medidas correspondientes para su modificación o revocación. Al calificar, cuidará que la sanción o correctivo disciplinario impuesto sea proporcional a la falta, a los antecedentes del infractor y a las circunstancias que lo motivaron;
 
-XII.- Vigilar que en la corporación a su mando se observe una disciplina razonada y que los jefes no abusen de su autoridad; que ninguna falta quede sin sanción y ningún acto meritorio sin reconocimiento.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+XII.- Vigilar que en la corporación a su mando se observe una disciplina razonada y que los jefes no abusen de su autoridad; que ninguna falta quede sin sanción y ningún acto meritorio sin reconocimiento. Queda estrictamente prohibido a los elementos en general y a los mandos de la policía municipal fomentar en la corporación practicas que se basen en la premisa de la inferioridad o superioridad de cualquiera de fas géneros o en los papeles estereotipados para la mujer y el hombre que justificasen o aumenten la violencia contra las mujeres.
 
 XIII.- Evitar que entre el personal a sus órdenes y para con otras corporaciones existan riñas o discordias;
 
 XIV.- Dar ejemplo de corrección, puntualidad, justicia y buen trato a sus inferiores, inspirándoles respeto y confianza;
 
-XV.- Implementar cursos de capacitación.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+XV.- Implementar cursos de capacitación. Es obligatorio incluir en estos cursos de capacitación los relativos a una formación con una perspectiva de género de todas y todos los elementos de la corporación.
 
 XVI.- Programar las vacaciones de sus subalternos, de manera que cuente con los suficientes elementos de seguridad para salvaguardar la tranquilidad del municipio.
 
@@ -3682,15 +3806,19 @@ El personal de servicios administrativos se integra por elementos policiales que
 
 El reclutamiento del personal operativo se sujetará a los trámites y requisitos que establezca en cada caso la convocatoria correspondiente, que deberá comprender lo señalado en el artículo 452 de este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 452.
 
-Para ser miembro de la policía municipal el interesado deberá presentar ante la propia Dirección de Seguridad Pública Municipal, la siguiente documentación:
+Para ser integrante de la policía municipal el interesado deberá presentar ante la propia Dirección de Seguridad Pública Municipal, la siguiente documentación:
 
 I.- Solicitud de inscripción, cuya forma le será entregada en la Dirección de Seguridad Pública Municipal;
 
 II.- Copia certificada del acta de nacimiento;
 
-III.- Cartilla de identidad del Servicio Militar Nacional;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Cartilla de identidad del Servicio Militar Nacional; (solo los hombres)
 
 IV.- Certificado de no antecedentes penales expedido por la Procuraduría General de Justicia del Estado;
 
@@ -3708,11 +3836,11 @@ X.- Presentar oficios de bajas de otras corporaciones;
 
 XI.- Presentar examen antidoping reciente;
 
-XII.- Presentar una constancia de no embarazo (en caso de mujeres);
+XII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2010)
 
-XIII.- Presentar un examen de V.I.H.; y
+XIII.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2010)
 
-XIV.- Presentar el examen de V.D.R.L.
+XIV.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2010)
 
 ###### ARTICULO 453.
 
@@ -3726,9 +3854,11 @@ Los aspirantes a miembro de la Policía Municipal que hayan pertenecido a alguna
 
 Los egresados de escuelas o academias especializadas en formación e instrucción de policías, y en su defecto los que hayan causado (sic) y aprobado los cursos especiales que para ese efecto se instauren, serán preferentes para formar parte de la Policía Municipal.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 456.
 
-Es obligación del personal de la policía municipal, asistir a los cursos, conferencias o seminarios de capacitación o de actualización que se les impartan, en los sitios que en forma exprofesa (sic) determine el Presidente Municipal, a propuesta del Director de Seguridad Pública y el Consejo Estatal de Seguridad Pública.
+Es obligación del personal de la policía municipal, asistir a los cursos, conferencias o seminarios de capacitación o de actualización que se les impartan, en los sitios que en forma exprofeso determine el Presidente Municipal, a propuesta del Director de Seguridad Pública y el Consejo Estatal de Seguridad Pública. Quedan expresamente obligados todas y todos los integrantes de la policía a participar en cursos de formación con perspectiva de género cuando menos una vez al año.
 
 APARTADO PRIMERO
 
@@ -3793,6 +3923,26 @@ XVIII.- Mantenerse en constante preparación física, técnica y cultural;
 XIX.- Hacer del conocimiento de sus superiores, la información que se obtenga sobre maleantes y delincuentes; y
 
 XX.- Los demás que establezcan las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 461 Bis.
+
+Son obligaciones, en general, de los Cuerpos de Seguridad Pública del Municipio de Jesús María en materia de Género:
+
+I. Atender de manera inmediata todos los casos de violencia contra las mujeres que sean recibidos a través de reportes por cualquier medio o por parte de cualquier persona aún cuando no se tratase de la afectada directa, en los números de emergencia o directamente en las oficinas de la Dirección de Seguridad Publica del Municipio de Jesús María o de la Presidencia Municipal;
+
+II. Proporcionar a las víctimas de violencia familiar y de género, la asesoría necesaria para conocer su situación jurídica y derechos;
+
+III. Promover la cultura de respeto a los derechos fundamentales de las mujeres;
+
+IV. Capacitar al personal de las distintas instancias policiales para atender los casos de violencia contra las mujeres;
+
+V. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia contra las mujeres;
+
+VI. Implementar cursos y talleres de prevención y protección contra la violencia de género; y
+
+VII. Proporcionar a las víctimas de violencia el apoyo necesario para conocer su situación jurídica y sus derechos.
 
 ###### ARTICULO 462.
 
@@ -3866,7 +4016,9 @@ II.- La antigüedad en el grado que ostente;
 
 III.- La aptitud profesional;
 
-IV.- La buena conducta en el servicio y fuera de él;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- La buena conducta en el servicio y fuera de él. Se incluye obligatoriamente la conducta de respeto hacia la mujer y/o sus familias incluyendo la propia;
 
 V.- La aprobación de los concursos de selección que se efectúen; y
 
@@ -4570,7 +4722,9 @@ I.- Aprobar los planes y programas de vialidad;
 
 II.- Promover la participación de los distintos sectores sociales de la población en la búsqueda de soluciones a la problemática de la vialidad municipal, mediante la integración de consejos consultivos;
 
-III.- Propugnar por la profesionalización de los integrantes de la Dirección de Tránsito Municipal, a través de la Academia interna; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Propugnar por la profesionalización de los integrantes de la Dirección de Tránsito Municipal, a través de la Academia interna; la cual deberá incluir una capacitación con perspectiva de género a fin de que las y los elementos de la Dirección de Transito adquieran valores nuevos y se sensibilicen respecto a los derechos fundamentales de las mujeres; y
 
 IV.- Ejercer las demás facultades que le confieren este ordenamiento y demás disposiciones jurídicas aplicables.
 
@@ -4942,9 +5096,9 @@ El Comandante en turno llevará un estricto control sobre las asistencias y reta
 
 El escalafón de los elementos de tránsito municipal se regirá por el orden de grados establecidos por el presente Libro, siendo éste en orden jerárquico descendiente:
 
-l.- Comandantes;
+I.- Comandantes;
 
-ll.- Segundos comandantes;
+II.- Segundos comandantes;
 
 III.- Oficiales; y
 
@@ -5256,7 +5410,7 @@ III.- Los vehículos no podrán estacionarse en lugares en donde exista el seña
 
 IV.- El conductor que estacione su vehículo en zona en pendiente, deberá aplicar el freno de estacionamiento y dirigir las ruedas delanteras hacia la guarnición o banqueta, procurando que la posición de éstas impidan el movimiento del vehículo, en vehículos que excedan 3.5 toneladas de peso, se deberán colocar cuñas apropiadas para el piso en las ruedas traseras; y
 
-V.- En los estacionamientos en batería, el vehículo será colocado en diagonal a la guarnición o alineado hasta los topes que tengan esa posición. Queda prohibido hacerlo sino existe esa señalización. Cuando un vehículo esté estacionado debidamente en la vía pública, sólo por situación de emergencia, la autoridad vial podrá retirarlo, estando obligada a notificar al propietario y reintegrarlo a la mayor brevedad al lugar de donde fue desplazado, según sea el caso.
+V.- En los estacionamientos en batería, el vehículo será colocado en diagonal a la guarnición o alineado hasta los topes que tengan esa posición. Queda prohibido hacerlo si no existe esa señalización. Cuando un vehículo esté estacionado debidamente en la vía pública, sólo por situación de emergencia, la autoridad vial podrá retirarlo, estando obligada a notificar al propietario y reintegrarlo a la mayor brevedad al lugar de donde fue desplazado, según sea el caso.
 
 ###### ARTICULO 609.
 
@@ -5320,7 +5474,7 @@ De la Simbología de Tránsito
 
 ###### ARTICULO 613.
 
-Las obras de ingeniería de tránsito en su diseñó y construcción, colocación, mantenimiento y ubicación en general, relacionadas con la señalización, dispositivos y otros implementos para el control del tránsito vehicular y peatonal, estarán sujetas a las disposiciones que en la materia establece el manual técnico de la Secretaría de Comunicaciones y Transportes.
+Las obras de ingeniería de tránsito en su diseño y construcción, colocación, mantenimiento y ubicación en general, relacionadas con la señalización, dispositivos y otros implementos para el control del tránsito vehicular y peatonal, estarán sujetas a las disposiciones que en la materia establece el manual técnico de la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 614.
 
@@ -5346,9 +5500,9 @@ III.- Preventiva: Cuando el agente de tránsito se encuentre en posición de lig
 
 IV.- Alto General: Cuando el agente de tránsito levante el brazo en posición vertical, los conductores y peatones deberán detener su marcha de inmediato. El agente de tránsito a sus posiciones y señales acompañara con toques de silbato como se anota a continuación:
 
-A)Alto: Un toque corto.
+A) Alto: Un toque corto.
 
-B)Siga- Dos toques cortos.
+B) Siga: Dos toques cortos.
 
 C) Alto General: Un toque largo.
 
@@ -5374,7 +5528,7 @@ Por su peso los vehículos se considerarán pesados y ligeros.
 
 De acuerdo a su uso, los vehículos se clasifican en:
 
-l.- Particulares;
+I.- Particulares;
 
 II.- Mercantiles;
 
@@ -5382,7 +5536,7 @@ III.- Públicos;
 
 IV.- De emergencia; y
 
-V. Oficiales.
+V.- Oficiales.
 
 ###### ARTICULO 622.
 
@@ -5604,9 +5758,9 @@ La Dirección de Tránsito Municipal podrá restringir y hasta impedir la circul
 
 La circulación de vehículos de transporte público de carga y mercantiles, queda prohibida cuando la carga:
 
-l.- Sobresalga de la parte delantera del vehículo o por las laterales sin protección;
+I.- Sobresalga de la parte delantera del vehículo o por las laterales sin protección;
 
-ll.- Esté expuesta en la parte posterior por más de metro y medio sin protección;
+II.- Esté expuesta en la parte posterior por más de metro y medio sin protección;
 
 III.- Represente un peligro a conductores y peatones y que esté siendo arrastrada sobre la vía pública;
 
@@ -5770,7 +5924,7 @@ Los agentes deberán impedir la circulación de un vehículo y ponerlo a disposi
 
 I.- Cuando el conductor que cometa una infracción a las disposiciones en materia de tránsito, muestre síntomas claros y ostensibles de encontrarse en estado de ebriedad, o de estar bajo el influjo de estupefacientes; psicotrópicos u otras sustancias tóxicas y cuando el conductor al circular vaya ingiriendo bebidas alcohólicas. Para efectos de este apartado se considera que una persona se encuentre en estado de ebriedad, cuando tenga 0.80% o más de contenido alcohólico en la sangre.
 
-Se considera que una persona se encuentra bajo el influjo de estupefacientes, psicotrópicos, u otras sustancias tóxicas, cuando así se determine legalmente. Determinando este estado por el médico legista, el juez calificador o la autoridad que en forma análoga realice esas funciones impondrá las sanciones que procedan sin perjuicio de las que competen aplicar a otras autoridades.
+Se considera que una persona se encuentra bajo el influjo de estupefacientes, psicotrópicos, u otras sustancias tóxicas, cuando así se determine legalmente. Determinando este estado por el médico legista, el juez calificador o la autoridad que en forma análoga realice esas funciones impondrá (sic) las sanciones que procedan sin perjuicio de las que competen aplicar a otras autoridades.
 
 II.- Cuando el conductor no exhiba la licencia o permiso de conducir; y
 
@@ -5905,6 +6059,44 @@ Los integrantes de los comités de participación ciudadana se elegirán democr�
 ###### ARTICULO 680.
 
 La elección de los miembros de los comités de participación ciudadana se sujetará a lo establecido por el presente Código.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 680 Bis.
+
+Para el desarrollo social integral de la mujer en El Municipio de Jesús María se instituye el organismo público descentralizado de la administración municipal denominada La Instancia Municipal de las Mujeres del Municipio de Jesús María, al cual se otorga personalidad jurídica para todos los efectos legales.
+
+Disposiciones Generales:
+
+I.- La Instancia Municipal de las Mujeres del Municipio de Jesús María tendrá su domicilio legal en la Ciudad de Jesús María, Aguascalientes;
+
+II.- El patrimonio de la Instancia Municipal de las Mujeres del Municipio de Jesús María es propio y se integra por el presupuesto y los bienes muebles e inmuebles que le transmita en propiedad el Municipio de Jesús María, recursos y apoyos que obtenga de instituciones públicas Estatales y/o Federales y/o privadas, así como por todos los bienes y derechos que adquiera por cualquier otro título y por las obligaciones que adquiera o le deriven de las disposiciones legales aplicables;
+
+III.- El Municipio de Jesús María, por conducto de la Presidencia Municipal, suministrará a La Instancia Municipal de las Mujeres del Municipio de Jesús María los bienes, recursos e insumos necesarios para su funcionamiento administrativo, en la medida en que los recursos propios del mismo no resulten suficientes para tal efecto, por lo que en el Presupuesto de Egresos del Municipio de Jesús María se contemplará la partida que apruebe el Ayuntamiento para su asignación al instituto;
+
+IV.- Para el cumplimiento de su objeto y ejercicio de sus atribuciones La Instancia Municipal de las Mujeres del Municipio de Jesús María estará dotada de autonomía técnica y de gestión, por lo que sus proyectos y programas, actos y actividades serán decididos y ejecutados en los términos establecidos por sus órganos de dirección en los términos de este Código;
+
+V.- La Instancia Municipal de las Mujeres del Municipio de Jesús María tiene como objeto el establecimiento y ejecución de proyectos y programas tendientes al desarrollo social de las mujeres, con el fin de propiciar la educación, formación y realización integral de las mujeres, con dignidad y equidad, en el conjunto de sus potencialidades como persona;
+
+VI.- Los proyectos y programas de La Instancia Municipal de las Mujeres del Municipio de Jesús María se formularán con base a lo previsto en materia de desarrollo social en el Plan de Gobierno Municipal;
+
+VII.- En los proyectos y programas de La Instancia Municipal de las Mujeres del Municipio de Jesús María se contemplará de manera prioritaria las actividades y acciones tendientes a evitar, prevenir y corregir la discriminación, desigualdad y maltrato a las mujeres, así como para promover la educación en el ejercicio y respeto de sus derechos, su dignidad y sus valores y para la promoción de su mejoramiento cultural, social y económico, incluyéndose la realización de estudios, análisis, investigaciones y diagnóstico sobre la problemática que afecta a las mujeres en el municipio de Jesús María;
+
+VIII.- La Instancia Municipal de las Mujeres del Municipio de Jesús María podrá coordinarse con entidades o instituciones públicas o privadas, mediante los convenios de concertación conducentes al cumplimiento de su objeto y ejercicio de sus atribuciones;
+
+IX.- En el ámbito de lo Municipal de Jesús María, La Instancia Municipal de las Mujeres del Municipio de Jesús María actuará de manera coordinada con las dependencias de la administración pública municipal;
+
+X.- La ejecución de los proyectos y programas para la realización de los actos y actividades propias del objeto y atribuciones de La Instancia Municipal de las Mujeres del Municipio de Jesús María estará a cargo de una Directora, quien contará con personal de apoyo, auxilio y colaboración necesario para el optimo desempeño de esta Dirección y que para tal efecto determine el H. Ayuntamiento de Jesús María en su presupuesto de egresos a partir del año 2011;
+
+XI.- La Directora de La Instancia Municipal de las Mujeres del Municipio de Jesús María será designada y removida por el Presidente Municipal y designará y remo verá al demás personal de La Instancia Municipal de las Mujeres del Municipio de Jesús María, a propuesta de la Directora, estableciendo el organigrama, facultades y obligaciones de cada uno de los cargos respectivos, determinando las funciones que sean de confianza, mediante acuerdo que se publicará en el Periódico Oficial del Estado;
+
+XII.- Para ser Directora de La Instancia Municipal de las Mujeres del Municipio de Jesús María se requiere ser mujer, preferentemente originaria del Municipio de Jesús María y/o habitante del Municipio de Jesús María con residencia efectiva y consecutiva mínima de cinco años anteriores al momento de la designación y haberse distinguido o participado reiteradamente en actos o actividades a favor de los derechos fundamentales y dignificación de las mujeres;
+
+XIII.- La Directora tendrá las facultades, dentro del marco de los proyectos y programas, de coordinarse, conducir, dirigir e instruir las actividades de La Instancia Municipal de las Mujeres del Municipio de Jesús María, y ejercerá las facultades legales de representación de la misma frente a terceros particulares y frente a toda clase de autoridades Estatales y Federales, materias y procedimientos, incluyendo los actos que requieran cláusula especial conforme a la ley;
+
+XIV.- La distribución de la partida asignada en el presupuesto municipal a favor de La Instancia Municipal de las Mujeres del Municipio de Jesús María será determinada dentro de los primeros quince días de enero de cada año, a propuesta de la Directora; y
+
+XV.- Con el fin de conocer, analizar y evaluar la actividad de La Instancia Municipal de las Mujeres del Municipio de Jesús María, la Directora General rendirá un informe trimestral al H. Ayuntamiento y a el Presidente Municipal, de manera integral sobre la operación y funcionamiento de La Instancia Municipal, y se mandata a quien ocupe la Presidencia Municipal del Municipio de Jesús María incluirá lo relativo al instituto en el correspondiente informe anual de gobierno.
 
 ## TITULO SEGUNDO. PROTECCION AMBIENTAL
 
@@ -6144,7 +6336,7 @@ DENUNCIA POPULAR
 
 ###### ARTICULO 701.
 
-La denuncia popular es el acto en virtud del cual una persona física o moral hace del conocimiento de la autoridad municipal, la verificación o comisión de posibles ilícitos relativos a las fuentes de contaminación y desequilibrio ecológico, que pudieran repercutir en daños ecológicos a la población señalando en su caso a el o los presuntos responsables para la aplicación de las sanciones previstas en el presente ordenamiento y demás leyes relacionadas con la materia.
+La denuncia popular es el acto en virtud del cual una persona física o moral hace del conocimiento de la autoridad municipal, la verificación o comisión de posibles ilícitos relativos a las fuentes de contaminación y desequilibrio ecológico, que pudieran repercutir en daños ecológicos a la población señalando en su caso a él o los presuntos responsables para la aplicación de las sanciones previstas en el presente ordenamiento y demás leyes relacionadas con la materia.
 
 ###### ARTICULO 702.
 
@@ -7154,7 +7346,7 @@ La autoridad deberá ordenar una vigilancia constante de los anuncios para verif
 
 Objeto del presente libro.
 
-El presente libro señala las reglas a las que deberán sujetarse las obras de construcción ya sean públicas o privadas, que se ejecuten en la vía pública o en terrenos de propiedad particular, las reglas para el uso de predios, construcciones o edificios, los procedimientos para la obtención de licencia y permisos para construir y para ocupar la vía publica.
+El presente libro señala las reglas a las que deberán sujetarse las obras de construcción ya sean públicas o privadas, que se ejecuten en la vía pública o en terrenos de propiedad particular, las reglas para el uso de predios, construcciones o edificios, los procedimientos para la obtención de licencia y permisos para construir y para ocupar la vía pública.
 
 ###### ARTICULO 809.
 
@@ -7400,7 +7592,7 @@ Zonas de protección.
 
 La Dirección de Planeación determinará las zonas de protección a lo largo de los servicios subterráneos tales como viaductos, pasos a desnivel, e instalaciones similares, dentro de cuyos límites solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la Dirección, la que señalará las obras de protección que sea necesario realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados.
 
-La reparación de los daños que se ocasionen en estas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización5
+La reparación de los daños que se ocasionen en estas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
 
 ## TITULO TERCERO. DE LOS PERITOS Y DE LAS LICENCIAS DE CONSTRUCCION
 
@@ -8522,7 +8714,7 @@ CON ALTURA HASTA DIMENSION MINIMA
 
 12.00 MTS. 2.50 MTS.
 
-En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la quinta parte de la altura del total del paramento vertical que lo limite. Si esta altura es variable se tomará el promedio.
+En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la quinta parte de a altura del total del paramento vertical que lo limite. Si esta altura es variable se tomará el promedio.
 
 III. Se permitirán las siguientes tolerancias en las dimensiones mínimas de los patios señalados en este artículo en los casos que a continuación se detallan:
 
@@ -8776,7 +8968,7 @@ Para las edificaciones especificadas en el artículo anterior las salidas de eme
 
 Características de las puertas de salida.
 
-Las puertas de las salidas o de las salidas de emergencia de los edificios mencionados en el articulo anterior, deberán satisfacer los siguientes requisitos:
+Las puertas de las salidas o de las salidas de emergencia de los edificios mencionados en el artículo anterior, deberán satisfacer los siguientes requisitos:
 
 I. Siempre serán abatibles hacia el exterior sin que sus hojas obstruyan pasillos o escaleras;
 
@@ -10070,7 +10262,7 @@ I. Equipo de recirculación, filtración y purificación de agua;
 
 II. Boquillas de inyección para distribuir el agua tratada y de succión para aparato limpiador de fondos;
 
-III. Rejillas de succión distribuidas en la parte onda de la alberca, en número y dimensión necesarios ara que la velocidad de salida del agua sea la adecuada para evitar accidentes a los nadadores;
+III. Rejillas de succión distribuidas en la parte onda de la alberca, en número y dimensión necesarios para que la velocidad de salida del agua sea la adecuada para evitar accidentes a los nadadores;
 
 IV. Andadores a las orillas de la alberca, con anchura mínima de un metro cincuenta centímetros, con superficie áspera o de material antiderrapante, construidos de tal manera que se eviten los encharcamientos;
 
@@ -10118,7 +10310,7 @@ Baños de vapor.
 
 En los locales destinados para baños de vapor, estarán separados los departamentos para hombres y para mujeres.
 
-La superficie mínima para baños individuales será de dos metros cuadrados, deberán contar con un espacio exterior e inmediato con una regadera provista de agua caliente y fría. La superficie se calculará a razón de uno punto tres metros cuadrados por usuario, con un mínimo de catorce metros cuadrados, y estarán dotados por lo menos, de dos regaderas de agua caliente y fría y una de presión, ubicadas en locales contiguos; la altura mínima será de dos metros setenta centímetros.
+La superficie mínima para baños individuales será de dos metros cuadrados, deberán contar con un espacio exterior e inmediato con una regadera provista de agua caliente y fría. La superficie se calculará a razón de uno punto tres metros cuadrados por usuario, con un mínimo de catorce metros cuadrados, y estarán dotados por lo menos, de dos regaderas de agua caliente y fría y una de presión (sic), ubicadas en locales contiguos; la altura mínima será de dos metros setenta centímetros.
 
 La instalación de sistemas especiales de vapor o de aire caliente, requerirá autorización de la Dirección, para lo cual deberá presentarse un diagrama detallado con sus especificaciones y características de operación.
 
@@ -10596,7 +10788,7 @@ Se considerará falla dúctil cuando la capacidad de carga del elemento o estruc
 
 Se considerará falla frágil cuando la capacidad de carga del elemento o estructura en cuestión se reduce bruscamente al alcanzarse el estado límite.
 
-Las normas técnicas complementarias establecen los estados límite de falla correspondientes a cada material y a cada tipo de estructura.
+Las normas técnicas complementarias establecen los estados límite de falla correspondientes (sic) a cada material y a cada tipo de estructura.
 
 ###### ARTICULO 1023.
 
@@ -11922,7 +12114,7 @@ restantes.
 
 morteros Tipo I. - cemento-arena 1:3
 
-ARTICULO 1121 (SIC) .- De las normas técnicas complementarias para diseño y construcción de cimentaciones.
+ARTICULO 1121 (SIC).- De las normas técnicas complementarias para diseño y construcción de cimentaciones.
 
 Se considerará que nada más se encuentran en el Estado de Aguascalientes terrenos del tipo I y del tipo II.
 
@@ -12194,7 +12386,7 @@ En los planos de cimentación se deberán indicar si se requiere el registro de 
 
 Trazos y tolerancias.
 
-Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del titulo de propiedad en su caso.
+Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
 
 Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los planos arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección. El perito responsable de obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
 
@@ -12504,7 +12696,7 @@ En columnas tres centímetros, en trabes dos centímetros, en losas uno punto ci
 
 En elementos estructurales colocados contra el suelo, el recubrimiento libre mínimo, además de cumplir con los requisitos anteriores será de cinco centímetros, si no se usa plantilla y de tres centímetros, si se usa plantilla.
 
-En elementos prefabricados que no vayan a quedar expuestos a la intemperie, el recubrimiento libre de refuerzo sin presforzar no será mayor que uno punto cinco centímetros, ni que el diámetro de la barra mas gruesa del paquete, en su caso; en losas y cascarones prefabricados puede ser no menor que un centímetro ni que el diámetro de la barra.
+En elementos prefabricados que no vayan a quedar expuestos a la intemperie, el recubrimiento libre de refuerzo sin presforzar no será mayor que uno punto cinco centímetros, ni que el diámetro de la barra más gruesa del paquete, en su caso; en losas y cascarones prefabricados puede ser no menor que un centímetro ni que el diámetro de la barra.
 
 Los recubrimientos antes señalados se incrementan en miembros expuestos a agentes agresivos ciertas sustancias o vapores industriales, terreno particularmente corrosivo, etc., salvo que se usen protecciones especiales para el acero.
 
@@ -12656,7 +12848,7 @@ Las partes exteriores de los edificios que sean visibles desde la vía pública 
 
 Apariencia exterior de las construcciones.
 
-Las fachadas y los paramentos de cada construcción que sean visibles desde la vía publica deberán tener acabados apropiados cuyas características de forma, color y textura sean armónicas entre sí y conserven o mejoren el paisaje urbano de las vías públicas en que se encuentren ubicadas.
+Las fachadas y los paramentos de cada construcción que sean visibles desde la vía pública deberán tener acabados apropiados cuyas características de forma, color y textura sean armónicas entre sí y conserven o mejoren el paisaje urbano de las vías públicas en que se encuentren ubicadas.
 
 Las fachadas de colindancias de las edificaciones de tres niveles o más deberán tener aplanados impermeables de mortero.
 
@@ -12814,7 +13006,7 @@ Para efectos de este capítulo, se entenderá por:
 
 I. Nomenclatura. - los nombres o denominaciones asignadas por el Municipio a vialidades, parques, jardines, plazas, sitios y monumentos históricos;
 
-II. Numero oficial: es la identificación a través de dígitos y letras, asignados de forma progresiva a las construcciones dentro de un predio, cuyo frente tenga acceso a la vía publica;
+II. Numero oficial: es la identificación a través de dígitos y letras, asignados de forma progresiva a las construcciones dentro de un predio, cuyo frente tenga acceso a la vía pública;
 
 III. Directorio de vialidades: es el inventario de la nomenclatura asignada a las vialidades, parques, jardines, plazas y monumentos históricos, y todos los lugares públicos factibles de darles denominación relacionado a un anexo gráfico; y
 
@@ -13372,7 +13564,7 @@ II. Solicitud de licencia de construcción y bitácora de obra, debidamente requ
 
 ###### ARTICULO 1253.
 
-De la autorización para obras en la vía publica.
+De la autorización para obras en la vía pública.
 
 Para obras de cepas para alojar instalaciones se requiere presentar:
 
@@ -14339,3 +14531,13 @@ P.O. 15 DE JUNIO DE 2009.
 ...
 
 CUARTO.- Las reformas al Código Municipal y el Reglamento para el Rastro del Municipio de Jesús María, Ags., entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE SEPTIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones reglamentarias municipales en lo que se opongan al presente acuerdo.
