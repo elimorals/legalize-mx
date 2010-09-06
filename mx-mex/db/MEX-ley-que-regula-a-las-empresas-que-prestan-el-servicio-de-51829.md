@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-a-las-empresas-que-prestan-el-servicio-de-51829"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-04"
-last_updated: "2006-09-04"
+last_updated: "2010-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY QUE REGULA A LAS EMPRESAS QUE PRESTAN EL SERVICIO DE SEGURIDAD PRIVADA EN EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MEXICO, PUBLICADA EN LA G.G. DE 6 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el lunes 4 de septiembre de 2006.
 
@@ -788,3 +790,33 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.g. 6 DE septiembre DE 2010.
+
+PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se abroga la Ley que Regula a las Empresas que Prestan el Servicio de Seguridad Privada en el Estado de México, publicada en la "Gaceta de Gobierno" del Estado de México en fecha 04 de septiembre del 2006.
+
+CUARTO.- El Consejo de Seguridad Privada del Estado se instalará dentro de los treinta días hábiles siguientes a la entrada en vigor de esta Ley.
+
+QUINTO.- El prestador de servicios, que no cuente con la autorización o no haya presentado la solicitud correspondiente dispondrá de un término de sesenta días naturales, contados a partir de la entrada en vigor de esta Ley, para regularizar su situación, fenecido este término se considerara empresa irregular y se procederá administrativamente en su contra y en su caso se dará vista al Ministerio publico para que en alcance a su competencia realice las acciones que conforme a derecho proceda.
+
+SEXTO.- Las solicitudes de revalidación que se presenten a partir de la vigencia de la presente Ley se sujetarán a dicho ordenamiento legal.
+
+SEPTIMO.- Los procedimientos administrativos que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+OCTAVO.- El Titular del Ejecutivo expedirá el Reglamento de la presente Ley, dentro de un plazo no mayor de ciento ochenta días hábiles posteriores a la entrada en vigor de la misma, el cual regulará, aclarara o ampliara lo normado por esta Ley.
+
+NOVENO.- La evaluación y exámenes de control de confianza que se aplicarán a los elementos, se llevarán a cabo por el Centro de acuerdo a su capacidad operativa, a los requisitos y criterios que se determinen, a partir de los tres meses a la entrada en vigor de la presente Ley.
+
+DECIMO.- El Instituto iniciará las acciones de capacitación de los elementos a partir de tres meses siguientes a la entrada en vigor de la presente Ley, de acuerdo a su capacidad operativa, a los requisitos y criterios que se determinen, a partir de los tres meses a la entrada en vigor de la presente Ley.
+
+DECIMO PRIMERO.- Los prestadores de servicio contarán con un término de un año para llevar a cabo la aplicación de la evaluación de exámenes y capacitación de sus elementos.
+
+DECIMO SEGUNDO.- El Titular del Ejecutivo del Estado, solicitará ante la Legislatura que se autorice el presupuesto económico para la ejecución de la presente Ley y su Reglamento.
+
+DECIMO TERCERO.- Queda sin efectos las disposiciones legales de igual o menor grado que se opongan al contenido de la presente Ley.
