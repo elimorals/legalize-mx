@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-09-03"
+last_updated: "2010-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,35 +21,71 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-LEY ORGÁNICA DE LA ARMADA DE MÉXICO
+CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2010.
 
-Ley publicada en el Diario Oficial de la Federación, el jueves 14 de octubre de 2021.
+Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETO NUMERO 41
 
-DECRETO
+LA H. "LIV" LEGISLATURA DEL ESTADO DE MEXICO
 
-"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
+DECRETA:
 
-SE EXPIDE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO
-
-Artículo Único. Se expide la Ley Orgánica de la Armada de México
-
-LEY ORGÁNICA DE LA ARMADA DE MÉXICO
+CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
 # LIBRO PRIMERO. Parte general
 
-## TÍTULO PRIMERO. DE LA MISIÓN Y ATRIBUCIONES DE LA ARMADA DE MÉXICO
+## TITULO PRIMERO. Del objeto
 
 ###### Artículo 1.
 
-La Armada de México es una institución militar nacional, de carácter permanente, cuya misión es emplear el poder naval de la Federación para la defensa exterior, proteger la soberanía de la Nación, mantener el estado de derecho en las zonas marinas mexicanas y coadyuvar en la seguridad interior del país, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado Mexicano sea parte.
+1.- Las disposiciones de este Código son de orden público e interés general, y tienen por objeto regular las materias que se señalan a continuación, a fin de promover el desarrollo social y económico en el Estado de México:
+
+I. Salud;
+
+II. Educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud y mérito civil;
+
+III. (DEROGADA, G.G. 3 DE MAYO DE 2006)
+
+IV. Ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población;
+
+V. Protección civil;
+
+VI. Infraestructura vial y transporte;
+
+VII. Tránsito y estacionamientos;
+
+VIII. Fomento y desarrollo agropecuario, acuícola y forestal;
+
+IX. Fomento económico;
+
+X. Protección e integración al desarrollo de las personas con capacidades diferentes;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+
+XI. Obra pública;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+
+XII. Adquisiciones, enajenaciones, arrendamientos y servicios;
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+
+XIII. Información e investigación geográfica, estadística y catastral; y (sic)
+
+> <small>(ADICIONADA, G.G. 5 DE ENERO DE 2006)</small>
+
+XIV. Periódico Oficial del Gobierno del Estado de México;
+
+> <small>(ADICIONADA, G.G. 21 DE AGOSTO DE 2006)</small>
+
+XV. Los procesos de contratación y los contratos que celebre el Estado, sus dependencias y organismos auxiliares y, en su caso, los municipios y sus organismos.
 
 ###### Artículo 1.
 
@@ -63,7 +99,7 @@ Tratándose de la planeación de las materias que regula este Código, se estar�
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
-## TÍTULO SEGUNDO. DE LA INTEGRACIÓN, NIVELES DE MANDO Y ORGANIZACIÓN
+## TITULO SEGUNDO. De las autoridades estatales y municipales
 
 ###### Artículo 1.
 
@@ -103,9 +139,9 @@ XII. Las demás que establezcan este Código y otras disposiciones aplicables.
 
 6.- Al ejercer las atribuciones previstas en este Código, las autoridades estatales y municipales deberán aplicar los principios de legalidad, igualdad, imparcialidad, buena fe, veracidad, honradez, respeto, audiencia, publicidad, economía, información, transparencia, jerarquía, desconcentración, descentralización, desregulación, previsión, coordinación, cooperación, eficacia y eficiencia, y abstenerse de comportamientos que impliquen vías de hecho contrarias a las finalidades de las materias reguladas en este ordenamiento.
 
-## TÍTULO TERCERO. DEL PERSONAL NAVAL
+## TITULO TERCERO. Del acto administrativo
 
-### CAPÍTULO I. DE LA MISIÓN
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 1.
 
@@ -147,7 +183,7 @@ XIII. Resolver expresamente todos los puntos propuestos por los interesados o pr
 
 9.- El acto administrativo deberá ser preciso en cuanto a las circunstancias de tiempo y lugar, de modo que se especifiquen el ámbito territorial de su aplicación y validez, así como el periodo de su duración. Si no se consignan expresamente estas circunstancias, se entenderá que el acto tiene aplicación y validez en todo el territorio del Estado o del municipio de que se trate, según sea emitido por una autoridad estatal o municipal, y que su duración es indefinida.
 
-### CAPÍTULO II. DE LAS ATRIBUCIONES
+### CAPITULO SEGUNDO. De la validez y eficacia de los actos administrativos
 
 ###### Artículo 1.
 
@@ -155,7 +191,7 @@ XIII. Resolver expresamente todos los puntos propuestos por los interesados o pr
 
 Se considera que ha operado la afirmativa ficta cuando la autoridad competente haya expedido la certificación respectiva, o no haya dado respuesta a la solicitud de certificación en el plazo a que se refiere el segundo párrafo del artículo 135 del Código de Procedimientos Administrativos del Estado de México, o cuando así lo haya declarado el Tribunal Contencioso Administrativo. Tratándose de la negativa ficta, ésta operará cuando el interesado la haga valer al promover el medio de impugnación correspondiente.
 
-### CAPÍTULO I. DE LA INTEGRACIÓN
+### CAPITULO TERCERO. De la invalidez de los actos administrativos
 
 ###### Artículo 1.
 
@@ -183,7 +219,7 @@ La convalidación del acto producirá efectos retroactivos y el acto se consider
 
 14.- En el caso de la fracción II del artículo 1.11, la resolución que declare la invalidez del acto, ordenará la reposición del procedimiento a partir de la etapa en que se incurrió en el vicio correspondiente.
 
-### CAPÍTULO II. DE LOS NIVELES DE MANDO
+### CAPITULO CUARTO. De la extinción de los actos administrativos
 
 ###### Artículo 1.
 
@@ -213,57 +249,41 @@ IX. Las demás que se establezcan en las disposiciones aplicables.
 
 La tramitación de esta declaratoria de extinción de los efectos del acto administrativo no otorga derechos al particular, no constituirá recurso alguno y tampoco suspenderá la ejecución del acto.
 
+> <small>(DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
 ## TITULO CUARTO. De la mejora regulatoria
 
-### CAPÍTULO III. DE LA ORGANIZACIÓN
+> <small>(DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 1.
 
-17.- Las administraciones públicas estatal y municipales llevarán a cabo un proceso continuo de mejora regulatoria que contribuya al desarrollo social y económico del Estado.
+17.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-18.- Para efectos de este Título, se entiende por:
-
-I. Disposiciones de carácter general: las leyes, reglamentos, decretos, normas técnicas, bandos, circulares y demás disposiciones que impongan obligaciones a los particulares, en las materias a las que se refiere el presente Código;
-
-II. Trámite: cualquier solicitud, aviso o informe que se presente ante una unidad administrativa u organismo auxiliar estatal o municipal.
+18.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-19.- La autoridad no podrá expedir disposiciones de carácter interno que prevean obligaciones o cargas adicionales a las que señale el presente Código y su reglamentación en relación con las promociones o actividades de los particulares.
+19.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-20.- En las administraciones públicas estatal y municipales habrá un grupo interinstitucional de mejora regulatoria que, en el ámbito de su respectiva competencia, promoverá:
-
-I. La transparencia en la elaboración y aplicación de las regulaciones;
-
-II. Que las regulaciones generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
+20.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-21.- El grupo estatal de mejora regulatoria tendrá las atribuciones siguientes:
-
-I. Formular propuestas de mejora a las regulaciones estatales;
-
-II. Aprobar, modificar o rechazar los proyectos de disposiciones de carácter general que elaboren las dependencias y organismos auxiliares de la administración pública estatal;
-
-III. Operar el Registro Estatal de Trámites;
-
-IV. Brindar asesoría técnica en materia de mejora regulatoria a las dependencias y organismos auxiliares de la administración pública estatal, así como a los municipios que lo soliciten.
+21.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-22.- Los grupos municipales de mejora regulatoria tendrán las atribuciones siguientes:
+22.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
-I. Formular propuestas de mejora a las regulaciones del municipio correspondiente;
+> <small>(DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
-II. Dictaminar los proyectos de disposiciones de carácter general que se pretendan expedir en el municipio respectivo;
-
-III. Aprobar, modificar o rechazar la información a inscribirse en el Registro Municipal de Trámites correspondiente.
-
-### CAPÍTULO I. DEL INGRESO
+### CAPITULO SEGUNDO. Del manifiesto de impacto regulatorio
 
 ###### Artículo 56.
 
@@ -329,23 +349,15 @@ El personal naval desempeñará los Mandos, cargos y comisiones acordes a su Cue
 
 ###### Artículo 1.
 
-23.- Los proyectos de disposiciones de carácter general que se formulen en el seno de la administración pública estatal o municipal deberán enviarse al grupo interinstitucional de mejora regulatoria que corresponda, junto con un manifiesto de impacto regulatorio.
+23.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-24.- El manifesto (sic) de impacto regulatorio deberá reflejar que con la expedición, en su caso, del proyecto de disposición de carácter general a que se refiera, se generarán beneficios superiores a sus costos y el máximo beneficio para la sociedad. El manifiesto deberá contener, cuando menos, lo siguiente:
+24.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
-I. El propósito del proyecto propuesto;
+> <small>(DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
-II. El fundamento jurídico del proyecto propuesto y los antecedentes regulatorios existentes;
-
-III. Las alternativas consideradas y la solución propuesta;
-
-IV. Los costos y beneficios esperados;
-
-V. La identificación y descripción de trámites que el proyecto pretende eliminar, crear o mantener.
-
-### CAPÍTULO II. DE LA CLASIFICACIÓN
+### CAPITULO TERCERO. De los registros estatal y municipales de trámites
 
 ###### Artículo 62.
 
@@ -363,43 +375,19 @@ III. Desempeñar los Mandos, cargos y comisiones que se requieran para el cumpli
 
 ###### Artículo 1.
 
-25.- En el Registro Estatal de Trámites, que será público, se inscribirá la siguiente información en relación con los trámites que aplican las dependencias y organismos auxiliares de la administración pública estatal:
-
-I. Nombre y objeto del trámite;
-
-II. Fundamentación jurídica;
-
-III. Supuesto en que es aplicable el trámite;
-
-IV. Forma en que debe presentarse el trámite y en su caso, el formato publicado en la Gaceta del Gobierno;
-
-V. Datos y documentos específicos que debe contener o se deben adjuntar al trámite. En el caso de los trámites regulados en este Código, sólo se inscribirán los datos y documentos previstos en el mismo, su reglamentación y el Código de Procedimientos Administrativos del Estado de México;
-
-VI. Plazo que tiene la unidad administrativa u organismo auxiliar para resolver el trámite y si aplica la afirmativa ficta;
-
-VII. Monto de los derechos o aprovechamientos aplicables en su caso, o la forma de determinar dicho monto;
-
-VIII. Vigencia de las concesiones, permisos, licencias, autorizaciones, registros, constancias, cédulas y demás resoluciones que se emitan;
-
-IX. Unidades administrativas ante las que se puede presentar el trámite, así como las que deben resolverlo;
-
-X. Horarios de atención al público;
-
-XI. Números de teléfono, fax y correo electrónico, así como el domicilio y demás datos relativos a cualquier otro medio que permita el envío de consultas, documentos y quejas;
-
-XII. La demás información que se prevea en la reglamentación de este Código.
+25.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-26.- Los grupos municipales de mejora regulatoria deberán llevar un Registro Municipal de Trámites, con las características previstas en el artículo anterior.
+26.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-27.- No se podrán aplicar trámites adicionales a los inscritos en el Registro Estatal o Municipal de Trámites, ni aplicarlos en forma distinta a como se establezcan en el mismo.
+27.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-28.- Las unidades administrativas que apliquen trámites deberán tener a disposición del público la información que al respecto esté inscrita en el Registro Estatal o Municipal de Trámites.
+28.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ## TITULO QUINTO. Del Sistema de Apertura Rápida de Empresas y de la atención a la actividad empresarial
 
@@ -527,9 +515,21 @@ V. Contendrán las demás estipulaciones que las partes consideren necesarias pa
 
 Para facilitar el acceso a la información, las autoridades implementarán un sistema electrónico para recibir y contestar solicitudes de acceso y recursos de revisión conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de México.
 
-## TITULO DECIMO. De la acción popular
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-### CAPÍTULO III. DE LOS CUERPOS Y SERVICIOS
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+## TÍTULO DÉCIMO. DEL TESTIGO SOCIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 64.
 
@@ -583,87 +583,87 @@ El personal naval está constituido por las mujeres y los hombres que pertenecen
 
 ###### Artículo 1.
 
-42.- Toda persona tiene derecho a presentar denuncia ante las autoridades, de hechos, actos u omisiones que constituyan infracciones a las disposiciones del presente Código y su reglamentación.
+42.- El Testigo Social es un mecanismo de participación ciudadana, por medio del cual se involucra a la sociedad civil en los procedimientos de contratación pública relevantes; procedimientos en los que por su complejidad, impacto o monto de recursos requieren una atención especial, para minimizar riesgos de opacidad y corrupción.
 
-Para dar curso a la acción popular, basta el señalamiento de los hechos que constituyan la causa de la denuncia. Si las autoridades no dan trámite a las denuncias en un plazo de treinta días naturales se configura en favor del denunciante una resolución negativa ficta.
+En los casos en los que participe un Testigo Social se informará sobre su participación y el objetivo de ésta desde las bases de licitación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-###### Artículo 1.
-
-43.- Las dependencias y organismos auxiliares estatales y municipales integrarán las tecnologías de información, en la prestación de los servicios gubernamentales a su cargo, observando las disposiciones que se señalen en el reglamento de este título.
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 1.
 
-44.- En la prestación de los servicios gubernamentales por vía electrónica, se tomarán las medidas necesarias para garantizar la seguridad y confidencialidad de la información, en su caso.
+43.- Testigo Social es aquella persona física o moral que como representante de la sociedad civil participa en las contrataciones que llevan a cabo:
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+I. Las Secretarías y Unidades Administrativas del Poder Ejecutivo del Estado;
 
-###### Artículo 1.
+II. La Procuraduría General de Justicia del Estado de México;
 
-45.- Para aquellos servicios gubernamentales que se otorguen por vía electrónica, en los que exista necesidad de identificar electrónicamente tanto al usuario como a la dependencia u organismo prestador del servicio, se establecerá un sistema de certificación del medio de identificación electrónica, que permita comprobar fehacientemente su utilización.
+III. Los Ayuntamientos;
 
-La Secretaría de Administración tendrá a su cargo el sistema de certificación de los medios de identificación que se utilicen.
+IV. Los Organismos Auxiliares del Estado y municipios; y
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2004)</small>
+V. Los Tribunales Administrativos.
 
-###### Artículo 1.
+Los poderes Legislativo y Judicial, así como los Organismos Autónomos, aplicarán los procedimientos previstos para la participación del Testigo Social, en todo lo que no se oponga a los ordenamientos legales que los regulan.
 
-46.- El Consejo Estatal de Población es un organismo público desconcentrado, que tiene por objeto asegurar la aplicación de la política nacional de población, en los programas de desarrollo económico y social que formulen los órganos de la administración pública estatal y municipal y vincular los objetivos de éstos con los de los programas nacional y estatal de población, en el marco de los sistemas nacional y estatal de planeación democrática; cuya política incide en el volumen, dinámica, estructura por edades y sexo y distribución de la población en el territorio del país, a fin de contribuir al mejoramiento de las condiciones de vida de sus habitantes y al logro de la participación justa y equitativa de hombres y mujeres en los beneficios del desarrollo sostenido y sustentable.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
-
-###### Artículo 1.
-
-47.- El Consejo Estatal de Población para el cumplimiento de su objeto tendrá las atribuciones siguientes:
-
-I. Establecer los instrumentos y promover las acciones necesarias para asegurar la adecuada aplicación de las políticas de población nacional y estatal, en los programas de desarrollo económico y social que formulen los órganos de la administración pública estatal y municipal;
-
-II. Establecer mecanismos que permitan vincular los programas y acciones de gobierno estatal y municipal, con los objetivos de los programas nacional y estatal de población;
-
-III. Proponer estrategias y acciones en materia de población a los órganos de la administración pública estatal y municipal, proporcionándoles los escenarios sociodemográficos para la elaboración, ejecución y evaluación de sus programas de gobierno;
-
-IV. Aprobar el Programa Estatal de Población;
-
-V. Coordinar sus acciones con el Consejo Nacional de Población, así como con los consejos de las entidades federativas y de los municipios del Estado;
-
-VI. Promover la creación de los consejos municipales de población;
-
-VII. Celebrar convenios de coordinación en materia de población con organismos de los sectores público, social y privado;
-
-VIII. Expedir su reglamento interior;
-
-IX. Llevar el manejo de datos e indicadores de migración en el Estado;
-
-X. Auxiliar en la aplicación de la política nacional de población, en el marco de los instrumentos de coordinación y concertación establecidos por la legislación federal en la materia.
-
-XI. Proporcionar semestralmente a la Legislatura a través de la Comisión correspondiente los insumos demográficos generados por la Secretaría Técnica;
-
-XII. Las demás que sean necesarias para el cumplimiento de su objeto.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 1.
 
-48.- La dirección y administración del Consejo Estatal de Población estará a cargo de la Asamblea General y la Secretaría Técnica.
+44.- El Testigo Social tiene derecho a voz en los procedimientos de contratación pública en los que participe y deberá emitir su testimonio al término de su participación.
 
-El Consejo Estatal de Población contará con una Asamblea General que se integrará por un presidente que será el Secretario General de Gobierno, un vicepresidente, un Secretario Técnico, con dieciocho vocales que serán los titulares de las dependencias del Poder Ejecutivo, el Procurador General de Justicia; los directores generales del Sistema para el Desarrollo Integral de la Familia del Estado de México, del Instituto de Información e Investigación Geográfica, Estadística y Catastral y del Instituto de Seguridad Social del Estado de México y Municipios.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-El presidente y los vocales podrán ser suplidos por su inmediato inferior, en términos de sus respectivos reglamentos interiores.
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
-La Asamblea General, por conducto de su presidente, podrá invitar a participar a los representantes del Poder Legislativo y de los gobiernos federal y municipales, así como de los sectores social y privado, para la coordinación y colaboración de las actividades que realice el Consejo Estatal de Población.
+###### Artículo 1.
 
-La Asamblea General y la Secretaría Técnica tendrán las atribuciones que se establezcan en el Reglamento respectivo; asimismo, la Asamblea General estará facultada para crear una comisión de gobierno, así como las comisiones y grupos de trabajo necesarios para el cumplimiento de sus funciones.
+45.- El testimonio que emita el Testigo Social versará sobre el desarrollo de las etapas del procedimiento de contratación correspondiente y en caso de irregularidades deberá de notificar de inmediato a la Secretaría de la Contraloría.
 
-El titular de la Secretaría Técnica será designado por el Gobernador del Estado, a propuesta del Presidente de la Asamblea General.
+En los casos de los Ayuntamientos, sus organismos auxiliares, y los Tribunales Administrativos; dicha notificación deberá realizarse ante los Órganos de Control correspondientes.
 
-La organización y funcionamiento del Consejo Estatal de Población se regirá por el reglamento interno que expida la Asamblea General.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO IV. DEL DESEMPEÑO Y FUNCIONES DEL PERSONAL
+###### Artículo 1.
+
+46.- Las unidades administrativas mencionadas en el artículo 1.43 podrán solicitar la participación de los Testigos Sociales en los procedimientos de contratación que estimen convenientes de acuerdo con los criterios y disposiciones establecidos en el presente título.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+47.- La Secretaría de la Contraloría deberá llevar un control de los resultados de cada intervención de los Testigos Sociales.
+
+La dependencia contratante deberá proporcionar la información necesaria mediante la entrega de un informe circunstanciado dentro de los diez días hábiles posteriores a la conclusión del procedimiento respectivo.
+
+El Testigo deberá presentar copia de su testimonio a la Secretaría de la Contraloría y a la Unidad Contratante.
+
+En los casos de los Ayuntamientos, sus organismos auxiliares, y los Tribunales Administrativos; dicho control de resultados será llevado por sus respectivos Órganos de Control.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+48.- La aplicación, supervisión e interpretación de este Título corresponde a la Secretaría de Finanzas y a la de Contraloría en sus respectivos ámbitos de competencia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO SEGUNDO. DEL REGISTRO Y REQUISITOS PARA SER TESTIGO SOCIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 71.
 
@@ -813,23 +813,75 @@ V. Con licencia, a excepción de la ilimitada.
 
 ###### Artículo 1.
 
-49.- El Consejo Estatal de Población para el cumplimiento de su objeto contará con:
+49.- Para ser testigo social se requiere del registro correspondiente otorgado conjuntamente por la Universidad Autónoma del Estado de México y el Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, con base en el dictamen emitido por el Comité de Registro de Testigos Sociales que se integrará para tal fin, y que se regulará a través de los lineamientos que al efecto expidan estas instituciones.
 
-I. Los bienes con los que actualmente cuenta;
+La Universidad Autónoma del Estado de México y el Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, mantendrán una lista actualizada de los Testigos Sociales registrados y la harán pública en sus respectivos portales de internet.
 
-II. Las aportaciones que los gobiernos federal, estatal y municipales le otorguen;
+De la misma manera se publicará y actualizará una lista de los Testigos Sociales que hayan perdido su registro.
 
-III. Los derechos que tengan sobre los bienes muebles o inmuebles que se le transfieran;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-IV. Las aportaciones, donaciones, legados y otros bienes que adquiera por cualquier título legal para el cumplimiento de su objeto;
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
-V. Los ingresos que obtenga por la realización de sus actividades, en cumplimiento de su objeto;
+###### Artículo 1.
 
-VI. Los rendimientos, recuperaciones y demás ingresos que obtenga por la inversión de sus recursos.
+50.- Para registrarse como Testigo Social, deberá presentarse solicitud por medio de escrito libre ante el Comité de Registro de Testigos Sociales, al que se deberá adjuntar en original o copia certificada:
 
-Los ingresos del Consejo Estatal de Población, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a la ejecución de los programas aprobados por la Asamblea General.
+I. Credencial de Elector en caso de persona física, si se trata de Organización no gubernamental, documento con el que acredite su constitución formal y que su fin no es preponderantemente económico;
 
-### CAPÍTULO V. DE LA EDUCACIÓN NAVAL Y DESARROLLO PROFESIONAL
+II. No haber sido sentenciado por delito intencional que acredite pena corporal;
+
+III. Ficha curricular en la que se muestre la experiencia laboral o docente, así como las constancias que lo acrediten;
+
+IV. Escrito en el que manifieste bajo protesta de decir verdad:
+
+a) Que no es servidor público municipal, estatal, federal o extranjero y que no se ha tenido esa calidad durante el último año;
+
+b) Que, en caso de haber sido servidor público con anterioridad, no se encuentra inhabilitado, y
+
+c) Que se abstendrá de participar en contrataciones en las que pudiera existir conflicto de intereses por su vinculación familiar, laboral o académica con alguno de los servidores públicos que participen en el proceso.
+
+V. Constancia de haber asistido a los cursos de capacitación que determine el Comité de Registro de Testigos Sociales sobre la normatividad aplicable.
+
+Este requisito podrá excusarse si la experiencia del Testigo es demostrable.
+
+VI. En su caso, el pago de los derechos correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+51.- La vigencia del registro será de un año contado a partir de la expedición de la constancia respectiva. El término se podrá ir ampliando año con año por periodos de hasta cuatro años, lo que dependerá del desempeño del Testigo en los procedimientos en que participe.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+52.- El Comité de Registro de Testigos Sociales expedirá la constancia correspondiente o notificará la negativa y los motivos de la negativa al solicitante, dentro de los quince días siguientes a la presentación de la solicitud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+53.- El Comité de Registro de Testigos Sociales establecerá las cuotas que las unidades administrativas contratantes deberán pagar a los Testigos Sociales por su participación en las contrataciones.
+
+Las cuotas y sus actualizaciones, se publicarán en el portal de internet de la Universidad Autónoma del Estado de México y del Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y en el Periódico Oficial "Gaceta del Gobierno".
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO TERCERO. OBLIGACIONES DEL TESTIGO SOCIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 83.
 
@@ -967,87 +1019,371 @@ El Alto Mando podrá llamar a la primera o segunda reserva, en su totalidad, en 
 
 El personal del activo pasará a situación de retiro de acuerdo con lo establecido en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
-### CAPÍTULO VI. DE LOS GRADOS DEL PERSONAL NAVAL Y ESCALAFÓN
+###### Artículo 1.
 
-### CAPÍTULO VII. SITUACIÓN DEL PERSONAL
+54.- En todos los casos en que participe el Testigo Social, lo hará de manera objetiva, independiente, imparcial, honesta y ética.
 
-### CAPITULO SEXTO. Del Sistema de Información y del Registro Estatales de Salud
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
-## TITULO DECIMO PRIMERO. De los servicios gubernamentales por vía electrónica
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+###### Artículo 1.
 
-## TITULO DECIMO SEGUNDO. Del Consejo Estatal de Población
+55.- Deberá emitir su testimonio al final de su participación en el procedimiento para el que fue contratado; mismo que deberá entregar tanto a la dependencia contratante como a la Secretaría de la Contraloría y al Comité de Registro de Testigos Sociales para los efectos que procedan; el testimonio deberá ser publicado en la página de internet de la dependencia contratante dentro de los 5 días siguientes a su presentación.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2004)</small>
+En los casos de participación en procedimientos de contratación en dependencias y organismos auxiliares del Poder Ejecutivo, el testimonio se presenta ante la unidad administrativa correspondiente; en el caso de los Ayuntamientos, sus organismos auxiliares y los Tribunales Administrativos, se presentará ante sus respectivos Órganos de Control.
+
+Este documento es independiente y no libera a los servidores públicos de ninguna responsabilidad por posibles actos que se hayan realizado en contravención de la normatividad aplicable durante los procedimientos de contratación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+56.- Los Testigos Sociales, en las conclusiones de su testimonio, deberán proponer a la dependencia contratante y a la Secretaría de la Contraloría las medidas que considere oportunas para fortalecer la transparencia y la imparcialidad en los procedimientos de contratación pública.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+57.- El contenido mínimo del testimonio será:
+
+I. Lugar y fecha de emisión del Testimonio;
+
+II. Datos generales del proceso de contratación;
+
+III. Datos generales del Testigo Social que emite el Testimonio, copia de la constancia de registro respectivo;
+
+IV. Antecedentes de la contratación;
+
+V. Definiciones relevantes en el texto del Testimonio que se emita;
+
+VI. La referencia de los procesos de la contratación en que haya participado el Testigo Social, Unidad Contratante, servidores públicos y demás participantes;
+
+VII. Conclusiones, en las que se incluirán las recomendaciones y propuestas para el fortalecimiento de la transparencia, imparcialidad, eficiencia y eficacia en los procedimientos de contratación; y
+
+VIII. Nombre y firma del Testigo Social.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+58.- En todo momento la responsabilidad del desarrollo de las contrataciones, revisión de la documentación sustento de los casos que se sometan a los Comités, emisión de los dictámenes, así como formalización de los contratos y su ejecución, será responsabilidad de los servidores públicos facultados para ello por las entidades correspondientes, el Testigo Social únicamente es responsable de informar a las Unidades Contratantes y a la Secretaría de la Contraloría o a sus Órganos de Control, según corresponda, sobre las presuntas irregularidades y dar seguimiento a las mismas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+59.- El Testigo Social deberá presenciar las contrataciones desde su inicio hasta su conclusión, aún cuando observe irregularidades o violaciones a los principios de transparencia, imparcialidad, honradez y legalidad.
+
+En estos casos, el Testigo Social deberá informar de inmediato y por escrito, al Órgano de Control respectivo, detallando las presuntas irregularidades, a efecto de que se determine lo conducente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+60.- La participación del Testigo Social no será limitante para la intervención y revisiones que, en el ámbito de su competencia, realice el Órgano de Control de la Unidad Contratante o la Secretaría de la Contraloría.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO CUARTO. DE LOS CONTRATOS DE PARTICIPACIÓN DEL TESTIGO SOCIAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+61.- La contratación del Testigo Social que realice la Unidad Contratante se sujetará a las disposiciones del Libro Décimo Tercero de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+62.- El contenido mínimo de los contratos que se celebren con los Testigos Sociales previo a la prestación de sus servicios será:
+
+I. Datos del procedimiento, procedimientos, sesión o sesiones del comité en los que participará, con un número estimado en horas de trabajo.
+
+II. El monto que, de acuerdo con las cuotas establecidas por el Comité de Registro de Testigos Sociales corresponda por el total de horas que destinará, así como los requisitos que deberá cubrir para su pago.
+
+III. La descripción completa de las obligaciones y compromisos que asume por su participación.
+
+IV. Las responsabilidades y las sanciones en caso de incumplimiento.
+
+V. En su caso, establecer la información confidencial en términos de la normatividad correspondiente.
+
+VI. Tiempos y requisitos específicos para la emisión de su testimonio.
+
+VII. Las demás que sean necesarias en cada caso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+63.- Las cuotas que con motivo de la participación de un Testigo Social se deban de cubrir, estarán a cargo de la dependencia contratante y deberán ser presupuestadas en el monto total del procedimiento de contratación en el que este participará.
+
+Los Testigos Sociales deberán entregar a la dependencia contratante la documentación legal y fiscal correspondiente previamente al pago.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+64.- El Testigo Social participará, de acuerdo con el contrato de participación correspondiente, en la formulación y revisión previa de las bases, convocatoria o invitación, así como en las juntas de aclaraciones, visitas a los sitios de instalación o edificación, actos de presentación y apertura de proposiciones, evaluaciones de las propuestas técnicas y económicas, emisión de los fallos correspondientes y formalización del contrato respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO QUINTO. DE LA PARTICIPACIÓN DEL TESTIGO SOCIAL EN LAS CONTRATACIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+65.- El Testigo Social dará testimonio del procedimiento de adjudicación correspondiente, como representante imparcial de la sociedad civil, y tendrá derecho a voz en los actos que participe.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+66.- El Testigo Social podrá participar en los procedimientos de adjudicación contenidos en el presente Código, relativos a:
+
+I. La concesión de infraestructura vial, regulada en el Libro Séptimo;
+
+II. La obra pública y servicios relacionados con la misma, establecida en el Libro Décimo Segundo;
+
+III. Los bienes y servicios, el arrendamiento y la enajenación, comprendidos en el Libro Décimo Tercero; y
+
+IV. Los proyectos para la prestación de servicios, contemplados en el Libro Décimo Sexto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+67.- Para contar con un Testigo Social las contrataciones deberán reunir alguna de las siguientes características:
+
+I. Que corresponda a obras o acciones de alto impacto social;
+
+II. Que el monto de la contratación sea representativo;
+
+III. Que incentive significativamente el desarrollo económico y social;
+
+IV. Que incida en una estrategia de crecimiento municipal, regional o estatal; o
+
+V. Que exista un alto requerimiento para hacer más transparente el proceso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+68.- El Testigo Social podrá proponer los aspectos que mejoren el trato igualitario, la calidad y precio, así como las acciones que promuevan la eficiencia, eficacia y transparencia de las contrataciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+69.- Tratándose de sesiones ordinarias del Comité, se proporcionará al Testigo Social, cuando menos con dos días hábiles de anticipación a la fecha prevista para su celebración, la documentación relativa a las contrataciones que serán sometidas al mismo. En las extraordinarias, cuando menos con un día hábil previo a la sesión correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPITULO SEXTO. DE LAS INFRACCIONES Y SANCIONES DE LOS TESTIGOS SOCIALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+70.- Los Servidores Públicos que intervengan en los procedimientos de contratación en los que participe un Testigo Social deberán notificar a la Secretaría de la Contraloría o a sus Órganos de Control, según corresponda, y a la Unidad Contratante las irregularidades en las que este incurra.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+71.- Si de la revisión que se efectúe se determina que el Testigo Social incumplió alguna de sus responsabilidades; se condujo con parcialidad; de manera subjetiva; hizo mal manejo o utilizó para su beneficio la información a la que tuvo acceso con motivo de su participación en las contrataciones o en las sesiones de los Comités; intentó influir sobre la adjudicación correspondiente; obstaculizó el desarrollo normal del procedimiento respectivo; se condujo sin respeto con alguno o con todos los participantes; mostró preferencia por algún licitante o cualquier conducta similar, se hará acreedor a la cancelación definitiva de su registro como Testigo Social, independientemente de las sanciones que procedan conforme a la legislación vigente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+72.- Si las violaciones son cometidas por un Testigo Social que forma parte de una Organización no Gubernamental, su registro no se cancela, se le deberá notificar la imposibilidad de volver a nombrar al infractor como testigo, en caso de volverlo a nombrar su registro se cancelará.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 1.
+
+73.- Si en el término de un año son sancionados dos Testigos nombrados por una Organización no Gubernamental, esta perderá su registro.
+
+(REUBICADO [N. DE E. ANTES TITULO DECIMO], G.G. 6 DE SEPTIEMBRE DE 2010)
+
+## TITULO DECIMO PRIMERO. De la acción popular
+
+(REUBICADO [N. DE E. ANTES ARTICULO 1.42], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+
+###### Artículo 1.
+
+74 .- Toda persona tiene derecho a presentar denuncia ante las autoridades, de hechos, actos u omisiones que constituyan infracciones a las disposiciones del presente Código y su reglamentación.
+
+Para dar curso a la acción popular, basta el señalamiento de los hechos que constituyan la causa de la denuncia. Si las autoridades no dan trámite a las denuncias en un plazo de treinta días naturales se configura en favor del denunciante una resolución negativa ficta.
+
+(REUBICADO [N. DE E. ANTES TITULO DECIMO PRIMERO], G.G. 6 DE SEPTIEMBRE DE 2010)
+
+## TITULO DECIMO SEGUNDO. De los servicios gubernamentales por vía electrónica
+
+(REUBICADO [N. DE E. ANTES ARTICULO 1.43], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+
+###### Artículo 1.
+
+75.- Las dependencias y organismos auxiliares estatales, así como las dependencias y organismos municipales, integrarán las tecnologías de información, en la prestación de los servicios gubernamentales a su cargo, observando las disposiciones que se señalen en la Ley para el Uso de Medios Electrónicos del Estado de México.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 1.44], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+
+###### Artículo 1.
+
+76.- En la prestación de los servicios gubernamentales por vía electrónica, se tomarán las medidas necesarias para garantizar la autenticación, autenticidad, confidencialidad, seguridad e integridad de la información, de acuerdo con la ley a que se refiere el párrafo anterior.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 1.45], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+
+###### Artículo 1.
+
+77.- Para aquellos servicios gubernamentales que se otorguen por vía electrónica, en los que exista necesidad de identificar electrónicamente tanto al usuario como a la dependencia u organismo prestador del servicio, se atenderá lo dispuesto por la Ley para el Uso de Medios Electrónicos del Estado de México.
+
+(REUBICADO [N. DE E. ANTES TITULO DECIMO SEGUNDO], G.G. 6 DE SEPTIEMBRE DE 2010)
+
+## TITULO DECIMO TERCERO. Del Consejo Estatal de Población
+
+(REUBICADO [N. DE E. ANTES ARTICULO 1.46], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+
+###### Artículo 1.
+
+78.- El Consejo Estatal de Población es un organismo público desconcentrado, que tiene por objeto asegurar la aplicación de la política nacional de población, en los programas de desarrollo económico y social que formulen los órganos de la administración pública estatal y municipal y vincular los objetivos de éstos con los de los programas nacional y estatal de población, en el marco de los sistemas nacional y estatal de planeación democrática; cuya política incide en el volumen, dinámica, estructura por edades y sexo y distribución de la población en el territorio del país, a fin de contribuir al mejoramiento de las condiciones de vida de sus habitantes y al logro de la participación justa y equitativa de hombres y mujeres en los beneficios del desarrollo sostenido y sustentable.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 1.47], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+
+###### Artículo 1.
+
+79.- El Consejo Estatal de Población para el cumplimiento de su objeto tendrá las atribuciones siguientes:
+
+I. Establecer los instrumentos y promover las acciones necesarias para asegurar la adecuada aplicación de las políticas de población nacional y estatal, en los programas de desarrollo económico y social que formulen los órganos de la administración pública estatal y municipal;
+
+II. Establecer mecanismos que permitan vincular los programas y acciones de gobierno estatal y municipal, con los objetivos de los programas nacional y estatal de población;
+
+III. Proponer estrategias y acciones en materia de población a los órganos de la administración pública estatal y municipal, proporcionándoles los escenarios sociodemográficos para la elaboración, ejecución y evaluación de sus programas de gobierno;
+
+IV. Aprobar el Programa Estatal de Población;
+
+V. Coordinar sus acciones con el Consejo Nacional de Población, así como con los consejos de las entidades federativas y de los municipios del Estado;
+
+VI. Promover la creación de los consejos municipales de población;
+
+VII. Celebrar convenios de coordinación en materia de población con organismos de los sectores público, social y privado;
+
+VIII. Expedir su reglamento interior;
+
+IX. Llevar el manejo de datos e indicadores de migración en el Estado;
+
+X. Auxiliar en la aplicación de la política nacional de población, en el marco de los instrumentos de coordinación y concertación establecidos por la legislación federal en la materia.
+
+XI. Proporcionar semestralmente a la Legislatura a través de la Comisión correspondiente los insumos demográficos generados por la Secretaría Técnica;
+
+XII. Las demás que sean necesarias para el cumplimiento de su objeto.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 1.48], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+
+###### Artículo 1.
+
+80.- La dirección y administración del Consejo Estatal de Población estará a cargo de la Asamblea General y la Secretaría Técnica.
+
+El Consejo Estatal de Población contará con una Asamblea General que se integrará por un presidente que será el Secretario General de Gobierno, un vicepresidente, un Secretario Técnico, con dieciocho vocales que serán los titulares de las dependencias del Poder Ejecutivo, el Procurador General de Justicia; los directores generales del Sistema para el Desarrollo Integral de la Familia del Estado de México, del Instituto de Información e Investigación Geográfica, Estadística y Catastral y del Instituto de Seguridad Social del Estado de México y Municipios.
+
+El presidente y los vocales podrán ser suplidos por su inmediato inferior, en términos de sus respectivos reglamentos interiores.
+
+La Asamblea General, por conducto de su presidente, podrá invitar a participar a los representantes del Poder Legislativo y de los gobiernos federal y municipales, así como de los sectores social y privado, para la coordinación y colaboración de las actividades que realice el Consejo Estatal de Población.
+
+La Asamblea General y la Secretaría Técnica tendrán las atribuciones que se establezcan en el Reglamento respectivo; asimismo, la Asamblea General estará facultada para crear una comisión de gobierno, así como las comisiones y grupos de trabajo necesarios para el cumplimiento de sus funciones.
+
+El titular de la Secretaría Técnica será designado por el Gobernador del Estado, a propuesta del Presidente de la Asamblea General.
+
+La organización y funcionamiento del Consejo Estatal de Población se regirá por el reglamento interno que expida la Asamblea General.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 1.49], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+
+###### Artículo 1.
+
+81.- El Consejo Estatal de Población para el cumplimiento de su objeto contará con:
+
+I. Los bienes con los que actualmente cuenta;
+
+II. Las aportaciones que los gobiernos federal, estatal y municipales le otorguen;
+
+III. Los derechos que tengan sobre los bienes muebles o inmuebles que se le transfieran;
+
+IV. Las aportaciones, donaciones, legados y otros bienes que adquiera por cualquier título legal para el cumplimiento de su objeto;
+
+V. Los ingresos que obtenga por la realización de sus actividades, en cumplimiento de su objeto;
+
+VI. Los rendimientos, recuperaciones y demás ingresos que obtenga por la inversión de sus recursos.
+
+Los ingresos del Consejo Estatal de Población, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a la ejecución de los programas aprobados por la Asamblea General.
 
 ## TITULO PRIMERO. Disposiciones generales
 
-## TITULO SEGUNDO. De los Institutos Especializados en Materia de Salud del Estado de México
-
 # LIBRO SEGUNDO. De la salud
 
-## TITULO TERCERO. De la salubridad general
+## TITULO SEGUNDO. De los Institutos Especializados en Materia de Salud del Estado de México
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 2.
 
-Son atribuciones de la Armada de México, las siguientes:
-
-I. Organizar, adiestrar, alistar y equipar al personal naval, las unidades y establecimientos navales que la constituyen para el cumplimiento de su misión y ejercicio de sus atribuciones;
-
-II. Cooperar en el mantenimiento del orden constitucional del Estado Mexicano, con estricto respeto y protección de los derechos humanos;
-
-III. Realizar acciones para salvaguardar la soberanía y la integridad del territorio nacional en el mar territorial, zona marítimo-terrestre, islas, cayos, arrecifes, zócalos y plataforma continental; así como en aguas interiores, lacustres y ríos en sus partes navegables, incluyendo los espacios aéreos correspondientes, así como vigilar los derechos de soberanía en la zona económica exclusiva;
-
-IV. Conducir el control naval del tráfico marítimo y protegerlo en las zonas marinas mexicanas y donde el Mando Supremo lo ordene, así como regular, establecer y vigilar las áreas restringidas a la navegación, incluidos los espacios aéreos correspondientes, en coordinación con otras autoridades en su ámbito de competencia, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado Mexicano sea parte;
-
-V. Ejercer funciones de guardia costera para:
-
-a) Mantener el estado de derecho en las zonas marinas mexicanas, costas y recintos portuarios, además de la seguridad y protección marítima, a través de acciones de vigilancia, verificación, visita, inspección y otras acciones previstas en las disposiciones jurídicas aplicables, en coordinación con otras autoridades, en el ámbito de sus respectivas competencias.
-
-Cuando en ejercicio de estas funciones, se presente la posible comisión de un hecho que la ley señale como delito, se pondrá a disposición ante la autoridad competente a las personas, objetos, instrumentos y productos relacionados al mismo;
-
-b) Apoyar a la Secretaría de Marina en sus funciones de Autoridad Marítima Nacional, en materia de seguridad y protección marítima y portuaria;
-
-c) Prevenir la contaminación del medio ambiente marino, así como realizar su vigilancia y protección en el área de responsabilidad, actuando por sí o en colaboración con otras dependencias e instituciones nacionales o extranjeras, sin perjuicio de las atribuciones que correspondan a las dependencias y entidades de la Administración Pública Federal;
-
-VI. Apoyar a la Secretaría de Marina como Autoridad Marítima Nacional, en las acciones para el control de tráfico marítimo en las vías generales de comunicación por agua;
-
-VII. Salvaguardar la vida humana en el mar, mediante operaciones de búsqueda y rescate en las zonas marinas mexicanas, aguas internacionales y en las que el Mando Supremo lo ordene;
-
-VIII. Proteger instalaciones estratégicas del país y donde el Mando Supremo lo ordene, por sí misma o en coordinación con otras autoridades, en los ámbitos de sus respectivas competencias;
-
-IX. Auxiliar a la población en los casos y zonas de desastre o emergencia, aplicando los planes institucionales de acuerdo al Sistema Nacional de Protección Civil, en coordinación con otras autoridades en su ámbito de competencia;
-
-X. Proteger los recursos marítimos, fluviales y lacustres nacionales, así como participar en toda actividad relacionada con el desarrollo marítimo nacional en coordinación con otras autoridades, en el ámbito de sus respectivas competencias;
-
-XI. Garantizar el cumplimiento del orden jurídico nacional en las zonas marinas mexicanas por sí o coadyuvando con las autoridades competentes en el combate al terrorismo, contrabando, piratería en el mar, robo de embarcaciones, artes de pesca o productos de ésta, tráfico ilegal de personas, armas, estupefacientes y psicotrópicos, y cualquier otro ilícito, en los términos de la legislación aplicable, en estricto respeto y protección a los derechos humanos;
-
-XII. Realizar actividades de investigación científica, oceanográfica, meteorológica y biológica de los recursos marinos, así como de desarrollo tecnológico, actuando por sí o en colaboración con otras instituciones nacionales o extranjeras, o en coordinación con dependencias y entidades de la Administración Pública Federal;
-
-XIII. Fomentar y participar con las autoridades civiles en actividades socioculturales y cívicas en aspectos relacionados con el medio marítimo;
-
-XIV. Coordinar los trabajos hidrográficos de las costas, mares, islas, puertos y vías navegables; publicar la cartografía náutica y la información necesaria para la seguridad de la navegación, y organizar el archivo de cartas náuticas y las estadísticas relativas;
-
-XV. Fomentar la educación naval en coordinación con la Universidad Naval, como parte del Sistema Educativo Naval;
-
-XVI. Participar en los órganos del Fuero de Guerra, y
-
-XVII. Las demás que le señalen las disposiciones aplicables y le encomiende el Mando Supremo.
+1.- Este Libro tiene por objeto regular los servicios públicos de salud que presta el Estado, y el ejercicio del control sanitario en materia de salubridad local.
 
 ###### Artículo 2.
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar y proteger el derecho a la salud de la población.
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Salud
+### CAPITULO SEGUNDO. De las autoridades
 
 ###### Artículo 2.
 
 3.- Son autoridades en materia de salud la Secretaría de Salud, el Instituto de Salud del Estado de México y los municipios, en su caso.
 
-### CAPITULO TERCERO. Del Centro Estatal de Trasplantes
+### CAPITULO TERCERO. De la Secretaría de Salud
 
 ###### Artículo 2.
 
@@ -1057,7 +1393,7 @@ Asimismo, en materia de salubridad general compete a la Secretaría de Salud, ej
 
 El ejercicio de las atribuciones anteriores corresponde también al Instituto de Salud. Cuando en la Ley General de Salud haga referencia a atribuciones competencia de la Federación a favor de autoridades sanitarias, las ejercerá el Instituto.
 
-### CAPITULO CUARTO. De la Comisión de Conciliación y Arbitraje Médico del Estado de México
+### CAPITULO CUARTO. Del Instituto de Salud del Estado de México
 
 ###### Artículo 2.
 
@@ -1111,7 +1447,7 @@ VIII. En general, todos los bienes, derechos y obligaciones que entrañen utilid
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo interno.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO QUINTO. Del Consejo de Salud del Estado de México
 
 ###### Artículo 2.
 
@@ -1153,7 +1489,7 @@ XI. Promover la investigación en materia de salud en el Estado;
 
 XII. Las demás que sean necesarias para el cumplimiento de su objeto.
 
-### CAPITULO SEGUNDO. De las autorizaciones sanitarias
+### CAPITULO SEXTO. Del Sistema de Información y del Registro Estatales de Salud
 
 ###### Artículo 2.
 
@@ -1167,7 +1503,7 @@ Las dependencias y organismos de la administración pública estatal y municipal
 
 El registro será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
 
-## TITULO CUARTO. De la salubridad local
+## TITULO TERCERO. De la salubridad general
 
 ###### Artículo 2.
 
@@ -1259,9 +1595,9 @@ V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y
 
 Los ingresos de los Institutos, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por sus consejos internos.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De la salubridad local
 
-### CAPITULO TERCERO. De la vigilancia
+### CAPITULO PRIMERO. Disposiciones generales
 
 ## Transitorios
 
@@ -1335,9 +1671,7 @@ XVII. Los demás que se establezcan en la Ley General de Salud y otras disposici
 
 Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud participarán en el sistema estatal de salud como instancias éticas del ejercicio de las profesiones y promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades de salud.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 15 DE AGOSTO DE 2008)</small>
+### CAPITULO SEGUNDO. Del Sistema Estatal de Salud
 
 ###### Artículo 2.
 
@@ -1443,7 +1777,7 @@ XVI. Proponer a la Secretaría de Salud acuerdos de colaboración interinstituci
 
 XVII. Las demás que se determinen en los acuerdos de coordinación respectivos.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO TERCERO. Del Centro Estatal de Trasplantes
 
 ###### Artículo 2.
 
@@ -1493,7 +1827,7 @@ XIII. Las demás que determinen otras disposiciones legales.
 
 La Comisión se excusará del conocimiento de las inconformidades que se establezcan en la reglamentación respectiva.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO CUARTO. De la Comisión de Conciliación y Arbitraje Médico del Estado de México
 
 ###### Artículo 2.
 
@@ -1569,9 +1903,9 @@ XIII. Las demás que determine este Libro.
 
 Para efectos de este Título se entiende por control sanitario el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones.
 
-### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
+### CAPITULO PRIMERO. Disposiciones generales
 
-#### SECCIÓN I. UNIDADES OPERATIVAS
+#### SECCION PRIMERA. De la recolección de muestras
 
 ###### Artículo 20.
 
@@ -1621,7 +1955,7 @@ Estarán adscritas a las Regiones Navales y al Cuartel General del Alto Mando y 
 
 33.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
 
-#### SECCIÓN II. INSTALACIONES
+#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
 ###### Artículo 26.
 
@@ -1707,7 +2041,7 @@ En caso de animales muertos abandonados el Instituto de Salud del Estado de Méx
 
 Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-#### SECCIÓN III. MATERIAL
+#### SECCION TERCERA. De las sanciones
 
 ###### Artículo 31.
 
@@ -1797,7 +2131,7 @@ Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
 
 45.- Los panteones y crematorios requieren de licencia sanitaria, que deben exhibir en un lugar visible. Cuando los crematorios cambien de ubicación, requerirán nueva licencia.
 
-#### SECCIÓN IV. ÓRGANOS ASESORES DEL ALTO MANDO
+#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
 
 ###### Artículo 37.
 
@@ -1993,11 +2327,11 @@ Sólo procederá esta sanción si previamente se dictó, en tres ocasiones, cual
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO TERCERO. Del financiamiento de la educación
+### CAPITULO SEGUNDO. De las autorizaciones sanitarias
 
-### CAPITULO CUARTO. De los profesionistas al servicio de la educación del Estado
+### CAPITULO TERCERO. De la vigilancia
 
-#### SECCIÓN V. ÓRGANOS DE DISCIPLINA Y JUNTA NAVAL
+#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
 
 ###### Artículo 41.
 
@@ -2163,13 +2497,15 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 #### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
-## TITULO SEGUNDO. De la educación
+## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO QUINTO. De la participación social en la educación
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-### CAPITULO SEXTO. De las recompensas y estímulos
+> <small>(REFORMADO, G.G. 15 DE AGOSTO DE 2008)</small>
 
-### CAPITULO SEPTIMO. De los particulares que imparten educación
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+### CAPITULO PRIMERO. Disposiciones generales
 
 #### SECCION PRIMERA. Disposiciones generales
 
@@ -2185,13 +2521,13 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 # LIBRO TERCERO. De la educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud, instalaciones educativas y mérito civil
 
-## TITULO TERCERO. Del ejercicio profesional
+## TITULO SEGUNDO. De la educación
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
 
 ###### Artículo 3.
 
-La Armada de México ejerce sus atribuciones por sí o conjuntamente con el Ejército y Fuerza Aérea Mexicanos, o en coadyuvancia con las dependencias del Ejecutivo Federal cuando así lo ordene el Mando Supremo, y podrá coordinarse con otros órganos de gobierno que así lo requieran, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella derivan y los tratados internacionales de los que el Estado Mexicano es parte.
+1.- Este Libro tiene por objeto regular la educación que imparten el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, el ejercicio profesional y el mérito civil; así como promover e impulsar la investigación científica y tecnológica, la cultura, la educación ambiental, el deporte y la atención a la juventud.
 
 ###### Artículo 3.
 
@@ -2225,7 +2561,7 @@ V. Las instituciones públicas y privadas dedicadas a la investigación científ
 
 VI. Los profesionistas y sus asociaciones o colegios.
 
-### CAPITULO SEGUNDO. De los profesionistas
+### CAPITULO TERCERO. Del financiamiento de la educación
 
 ###### Artículo 3.
 
@@ -2239,9 +2575,9 @@ La Secretaría de Educación verificará a través de auditorías, revisiones e 
 
 Las atribuciones en las materias de ejercicio profesional y mérito civil corresponden a la Secretaría de Educación, Cultura y Bienestar Social, y las relativas a investigación científica y tecnológica al Consejo Mexiquense de Ciencia y Tecnología.
 
-## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
+## TITULO TERCERO. Del ejercicio profesional
 
-### CAPITULO TERCERO. De las asociaciones de profesionistas
+### CAPITULO CUARTO. De los profesionistas al servicio de la educación del Estado
 
 ###### Artículo 3.
 
@@ -2339,7 +2675,7 @@ VIII. Promover y apoyar los programas y acciones de capacitación y difusión di
 
 IX. Implementar, en coordinación con las autoridades federales y estatales, programas de educación ambiental en las comunidades de los municipios, buscando se vinculen con proyectos prácticos, que fomenten la conciencia ambiental de sus habitantes.
 
-### CAPITULO CUARTO. Del Registro Estatal de Educación
+### CAPITULO QUINTO. De la participación social en la educación
 
 ###### Artículo 3.
 
@@ -2371,7 +2707,7 @@ La integración, organización y funcionamiento del Consejo Técnico de Educaci�
 
 12.- Las instituciones educativas establecidas por el Estado y los municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, otorgarán a las autoridades educativas todas las facilidades y colaboración para la evaluación a que se refiere el artículo anterior. Para ello, proporcionarán oportunamente toda la información que se les requiera, tomarán las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos educativos, y facilitarán que las autoridades educativas realicen exámenes y estudios para fines estadísticos y de diagnóstico, y recaben directamente en las escuelas la información necesaria.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEXTO. De las recompensas y estímulos
 
 ###### Artículo 3.
 
@@ -2391,7 +2727,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 16.- Las inversiones que en materia educativa realicen el Estado, los municipios, los organismos descentralizados y los particulares son de interés social.
 
-### CAPITULO SEGUNDO. De la Presea "Estado de México"
+### CAPITULO SEPTIMO. De los particulares que imparten educación
 
 ###### Artículo 3.
 
@@ -2405,9 +2741,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 19.- Los servidores públicos docentes tendrán derecho a un salario profesional que les permita acceder a un nivel de vida decoroso para su familia.
 
-### CAPITULO TERCERO. De la Inhumación en la Rotonda de las Personas Ilustres del Estado de México
-
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 3.
 
@@ -2421,9 +2755,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 22.- La Secretaría de Educación, Cultura y Bienestar Social promoverá la participación de la sociedad a través de los consejos de participación social estatal, municipales y escolares, como órganos de consulta, orientación y apoyo, de conformidad con lo previsto en la Ley General de Educación.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+### CAPITULO SEGUNDO. De los profesionistas
 
 ###### Artículo 3.
 
@@ -2435,9 +2767,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 Para su otorgamiento la Secretaría de Educación, Cultura y Bienestar Social contará con un Consejo Técnico, cuya integración y funcionamiento se regirá por la reglamentación correspondiente.
 
-### CAPITULO SEGUNDO. De las Definiciones
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+### CAPITULO TERCERO. De las asociaciones de profesionistas
 
 ###### Artículo 3.
 
@@ -2451,11 +2781,9 @@ La autorización o el reconocimiento se otorgarán cuando se satisfagan los requ
 
 En los demás casos podrán obtener el reconocimiento de validez oficial de estudios.
 
-## TITULO QUINTO. Del Instituto Mexiquense de Cultura
+## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
 
-### CAPITULO TERCERO. De las Autoridades y sus Atribuciones
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+### CAPITULO CUARTO. Del Registro Estatal de Educación
 
 ###### Artículo 3.
 
@@ -2487,9 +2815,7 @@ VII. Publicar anualmente en la Gaceta del Gobierno una relación de las asociaci
 
 30.- El Gobernador del Estado, previo dictamen de la Secretaría de Educación, Cultura y Bienestar Social y oyendo la opinión de las instituciones de educación media superior y superior, de las asociaciones de profesionistas, y del Consejo Técnico de Educación, expedirá los reglamentos correspondientes a los distintos campos de acción profesional.
 
-### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Turismo Sustentable
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 3.
 
@@ -2527,9 +2853,7 @@ III. Cuando exista orden judicial escrita, salvo las excepciones que contemplen 
 
 37.- En caso de perturbación grave de la paz pública, siniestro, desastre o cualquier otro evento que ponga a la sociedad en peligro o conflicto, los profesionistas y sus asociaciones o colegios deberán prestar su servicio en apoyo a los afectados.
 
-### CAPITULO UNICO. De las Zonas de Interes Turístico
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+### CAPITULO SEGUNDO. De la Presea "Estado de México"
 
 ###### Artículo 3.
 
@@ -2585,9 +2909,9 @@ XIII. Cumplir con lo establecido en el presente Título y la reglamentación que
 
 43.- Los colegios de profesionistas serán ajenos a toda actividad de carácter político partidista y religioso.
 
-### CAPITULO PRIMERO. De la Promoción Turística
+### CAPITULO TERCERO. De la Inhumación en la Rotonda de las Personas Ilustres del Estado de México
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -2615,7 +2939,7 @@ El Registro Estatal de Educación será público, no tendrá efectos constitutiv
 
 45.- Las autoridades judiciales deberán comunicar oportunamente a la Secretaría de Educación, Cultura y Bienestar Social las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional cuando éstas hubiesen causado ejecutoria, con el objeto de que, en su caso, se cancele el registro correspondiente.
 
-## TITULO SEXTO. Del Instituto Mexiquense de Cultura Física y Deporte
+## TITULO QUINTO. Del Instituto Mexiquense de Cultura
 
 ###### Artículo 3.
 
@@ -2647,7 +2971,13 @@ XI. Fomentar el desarrollo de una cultura de ciencia y tecnología entre los sec
 
 XII. Asesorar y prestar servicios de apoyo en materia de ciencia y tecnología a las personas físicas y morales que lo soliciten;
 
-XIII. Las demás que se establezcan en otros ordenamientos.
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XIII. Impulsar un Sistema Estatal para el uso de Internet inalámbrico fomentando la instalación de sitios de libre acceso gratuito en todas las comunidades académicas, científicas y de los sectores públicos, productivos y sociales.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XIV. Las demás que se establezcan en otros ordenamientos.
 
 ###### Artículo 3.
 
@@ -2679,7 +3009,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos 
 
 Los ingresos del Consejo, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
 
-## TITULO SEPTIMO. Del Instituto Mexiquense de la Juventud
+## TITULO SEXTO. Del Instituto Mexiquense de Cultura Física y Deporte
 
 ###### Artículo 3.
 
@@ -2745,7 +3075,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos 
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-## TITULO OCTAVO. Del Comité de Instalaciones Educativas
+## TITULO SEPTIMO. Del Instituto Mexiquense de la Juventud
 
 ###### Artículo 3.
 
@@ -2797,7 +3127,7 @@ V. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y dem
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-## TITULO NOVENO. Del mérito civil
+## TITULO OCTAVO. Del Comité de Instalaciones Educativas
 
 ###### Artículo 3.
 
@@ -2811,7 +3141,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 57.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE LA JUVENTUD DEL ESTADO DE MEXICO, G.G. 31 DE AGOSTO DE 2010)
 
-## TITULO DECIMO. De las infracciones y sanciones
+## TITULO NOVENO. Del mérito civil
 
 ###### Artículo 3.
 
@@ -2863,11 +3193,9 @@ V. Los bienes o recursos que reciba por cualquier título legal.
 
 Los ingresos del Comité, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO DECIMO. De las infracciones y sanciones
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-### CAPITULO SEGUNDO. De las Actividades de la Promoción Turística
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -2923,7 +3251,7 @@ III. La inhumación en la Rotonda de las Personas Ilustres del Estado de México
 
 63.- La Presea "Estado de México" también podrá concederse post-mortem a quienes, teniendo merecimientos para ello, hayan fallecido en el año inmediato anterior al de la premiación.
 
-### CAPITULO TERCERO. Del Fomento al Turismo
+### CAPITULO SEGUNDO. De las Definiciones
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -2949,7 +3277,7 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
-### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
+### CAPITULO TERCERO. De las Autoridades y sus Atribuciones
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -2975,7 +3303,7 @@ VI. Realizar o favorecer de cualquier forma actividades políticas de tipo parti
 
 VII. Incumplir cualesquiera de los preceptos de este Libro, así como, las demás disposiciones expedidas con fundamento en él.
 
-## TITULO SEGUNDO. Planeación del Turismo Sustentable
+## TITULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3021,25 +3349,21 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-## TITULO TERCERO. Promoción y Fomento del Turismo Sustentable
+## TITULO SEGUNDO. Planeación del Turismo Sustentable
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO SEGUNDO. Del Registro Estatal de Prestadores de Servicios Turísticos
+### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Turismo Sustentable
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
-La Armada de México está integrada por:
+1.- El presente Libro tiene como objeto fijar las bases para planear, programar, ordenar, clasificar, normar, promover, fomentar y regular la actividad turística sustentable en el Estado.
 
-I. Recursos humanos, conformados por el personal naval que presta sus servicios en la Armada de México, así como los asignados o comisionados en la Secretaría de Marina y en otras Dependencias, que están sujetos a las leyes, reglamentos y demás disposiciones de orden naval y militar, las cuales serán aplicables en igualdad de oportunidades entre mujeres y hombres;
+Para efectos de ese Libro, se entiende por turismo sustentable el desarrollo de la actividad turística mediante un proceso de cambio cualitativo basado en un equilibrio entre el aprovechamiento y la preservación del patrimonio natural y cultural, su viabilidad económica y la equidad social para las comunidades con dicha vocación.
 
-II. Recursos materiales, constituidos por las unidades de superficie, aeronavales, de infantería de marina y otras unidades operativas, así como los bienes muebles e inmuebles requeridos por la Armada de México;
-
-III. Recursos financieros, aquellos asignados en el Presupuesto de Egresos de la Federación a la Secretaría de Marina, y
-
-IV. Recursos animales, constituidos por elementos de distintas especies animales, adiestradas para realizar tareas específicas en apoyo al cumplimiento de la misión y atribuciones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -3061,7 +3385,7 @@ VII. Promover una cultura turística entre los mexicanos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. De las Normas de Turismo
+### CAPITULO UNICO. De las Zonas de Interes Turístico
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3087,7 +3411,7 @@ VIII. Servicios Turísticos.- Bienes y servicios que se otorgan a las personas q
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
+### CAPITULO PRIMERO. De la Promoción Turística
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3153,7 +3477,7 @@ IX. Las demás que este Libro y otros ordenamientos legales señalen.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. De la Inspección de la Actividad Turística
+### CAPITULO SEGUNDO. De las Actividades de la Promoción Turística
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3165,11 +3489,11 @@ En todos los casos, la selección de las zonas de Interés Turístico deberá co
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-## TITULO CUARTO. Clasificación, Ordenamiento y Registro de los Servicios Turísticos
+## TITULO TERCERO. Promoción y Fomento del Turismo Sustentable
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO SEGUNDO. Del Régimen Sancionador
+### CAPITULO TERCERO. Del Fomento al Turismo
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3195,11 +3519,13 @@ V. Las demás que reglamentariamente sean establecidas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-## TITULO QUINTO. Normatividad y Certificación de la Actividad Turística
+## TITULO CUARTO. Clasificación, Ordenamiento y Registro de los Servicios Turísticos
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -3231,7 +3557,9 @@ VIII. Instalación de oficinas de información turística y señalización de lo
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO SEGUNDO. De las autoridades
+### CAPITULO SEGUNDO. Del Registro Estatal de Prestadores de Servicios Turísticos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -3257,7 +3585,9 @@ IV. Servir de referente para el control y monitoreo de tarifas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO TERCERO. De la Comisión Estatal de Desarrollo Urbano y Vivienda
+### CAPITULO PRIMERO. De las Normas de Turismo
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -3277,7 +3607,9 @@ La Secretaría podrá participar también en los comités consultivos nacionales
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Desarrollo Urbano
+### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -3319,17 +3651,21 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 19.- Las sanciones se impondrán con fundamento en lo establecido con el Código de Procedimientos Administrativos del Estado de México y del Código de Procedimientos Administrativos del Estado de México y del Código Financiero del Estado de México.
 
-## TITULO SEXTO. Inspección y Régimen Sancionador
+## TITULO QUINTO. Normatividad y Certificación de la Actividad Turística
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO PRIMERO. De la Inspección de la Actividad Turística
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
 20.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO SEGUNDO. De la clasificación del territorio
+### CAPITULO SEGUNDO. Del Régimen Sancionador
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -3337,15 +3673,17 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO SEXTO. Inspección y Régimen Sancionador
 
-### CAPITULO TERCERO. De la zonificación y de la conservación, mejoramiento y crecimiento de los centros de población
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 4.
 
 22.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades
 
 ###### Artículo 4.
 
@@ -3353,9 +3691,9 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 > <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO SEGUNDO. De las conurbaciones y zonas metropolitanas
+## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De los conjuntos urbanos
+### CAPITULO TERCERO. De la Comisión Estatal de Desarrollo Urbano y Vivienda
 
 ###### Artículo 4.
 
@@ -3369,7 +3707,7 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 26.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO TERCERO. De las subdivisiones, fusiones y sus relotificaciones
+### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Desarrollo Urbano
 
 ###### Artículo 4.
 
@@ -3383,65 +3721,13 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 # LIBRO QUINTO. Del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población
 
-## TITULO TERCERO. Del sistema estatal de planes de desarrollo urbano y de las regulaciones a la propiedad en los centros de población
+## TITULO SEGUNDO. De las conurbaciones y zonas metropolitanas
 
-### CAPITULO CUARTO. De la lotificación para condominios
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 5.
 
-La Armada de México, para el cumplimiento de su misión, ejercicio de sus atribuciones y desarrollo de sus operaciones navales, tendrá los siguientes niveles de Mando:
-
-I. Mando Supremo, ejercido por el Presidente de los Estados Unidos Mexicanos;
-
-II. Alto Mando, que lo ejerce el Secretario de Marina;
-
-III. Mandos Superiores en Jefe, los que desempeñan los titulares de:
-
-a) Fuerzas Navales;
-
-b) Regiones Navales, y
-
-c) Cuartel General del Alto Mando;
-
-IV. Mandos Superiores, los que desempeñan los titulares de:
-
-a) Zonas Navales, y
-
-b) Otros que nombre el Alto Mando, y
-
-V. Mandos Subordinados, los que ostentan los titulares de:
-
-a) Sectores Navales;
-
-b) Bases Aeronavales;
-
-c) Brigadas de Infantería de Marina;
-
-d) Brigadas Anfibias de Infantería de Marina;
-
-e) Unidades de Operaciones Especiales;
-
-f) Flotillas Navales;
-
-g) Escuadrones Aeronavales;
-
-h) Batallones de Infantería de Marina;
-
-i) Escuadrillas Navales;
-
-j) Unidades de Superficie;
-
-k) Unidades Aeronavales;
-
-l) Compañías de Infantería de Marina;
-
-m) Unidades Navales de Protección Portuaria;
-
-n) Estaciones Navales de Búsqueda, Rescate y Vigilancia Marítima, y
-
-o) Otros que designe el Alto Mando.
-
-Sin distinción de género los miembros de la Armada de México podrán acceder a todos los niveles de Mando.
+1.- Este Libro tiene por objeto fijar las bases para planear, ordenar, regular, controlar, vigilar y fomentar el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población en la entidad.
 
 ###### Artículo 5.
 
@@ -3517,7 +3803,7 @@ IV. Proponer ante la Legislatura del Estado la fundación de nuevos centros de p
 
 V. Las demás que le confieran las disposiciones legales.
 
-### CAPITULO QUINTO. De la licencia de uso del suelo y de la cédula informativa de zonificación
+### CAPITULO SEGUNDO. De la clasificación del territorio
 
 ###### Artículo 5.
 
@@ -3645,7 +3931,7 @@ IX. Expedir su reglamento interno para regular su integración, organización y 
 
 X. Las demás que sean necesarias para el cumplimiento de su objeto.
 
-### CAPITULO SEXTO. De la licencia de construcción
+### CAPITULO TERCERO. De la zonificación y de la conservación, mejoramiento y crecimiento de los centros de población
 
 ###### Artículo 5.
 
@@ -3671,7 +3957,7 @@ VII. Expedir su reglamento interno para regular su integración, organización y
 
 VIII. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
-### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 5.
 
@@ -3701,9 +3987,9 @@ III. La integración, organización y funcionamiento del órgano respectivo de c
 
 IV. Las demás acciones que convengan el Estado y los municipios correspondientes.
 
-## TITULO CUARTO. De las autorizaciones y licencia estatal y municipales
+## TITULO TERCERO. Del sistema estatal de planes de desarrollo urbano y de las regulaciones a la propiedad en los centros de población
 
-### CAPITULO PRIMERO. De las medidas de seguridad
+### CAPITULO SEGUNDO. De los conjuntos urbanos
 
 ###### Artículo 5.
 
@@ -3739,7 +4025,7 @@ IV. Los planes de centros de población;
 
 V. Los planes parciales.
 
-### CAPITULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO TERCERO. De las subdivisiones, fusiones y sus relotificaciones
 
 ###### Artículo 5.
 
@@ -3759,7 +4045,7 @@ IV. Adoptarán la estructura, contenido, terminología y demás elementos que es
 
 25.- Los planes de desarrollo urbano de competencia municipal y sus programas, deberán sujetarse a las políticas y estrategias del Plan Estatal de Desarrollo Urbano y cuando corresponda, a las del respectivo plan regional de desarrollo urbano. Los que se realicen en contravención a esta disposición, serán nulos y no producirán efecto jurídico alguno.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO CUARTO. De la lotificación para condominios
 
 #### SECCION CUARTA. De la invitación restringida
 
@@ -3801,9 +4087,7 @@ V. Los planes, una vez aprobados, deberán publicarse conjuntamente con el acuer
 
 VI. Los planes serán inscritos, con todos sus documentos integrantes, en el Registro Público de la Propiedad y en el Registro Estatal de Desarrollo Urbano, dentro de los quince días siguientes al de su publicación.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO QUINTO. De la licencia de uso del suelo y de la cédula informativa de zonificación
 
 ###### Artículo 5.
 
@@ -3841,9 +4125,9 @@ II. De consolidación, aplicables a centros de población que sólo requieren de
 
 III. De control, que buscan disminuir o desalentar el ritmo de crecimiento de centros de población en los que la concentración provoca problemas crecientemente agudos de congestión e ineficiencia económica y social, o bien, cuando tales centros de población muestran síntomas de saturación por carecer de suelo apto para su expansión y tener, entre otras, limitaciones en las disponibilidades de agua e infraestructura vial, lo que obliga a restringir su desarrollo preferentemente al interior de la estructura urbana existente, rehabilitando y reconstruyendo sus áreas deterioradas, insalubres o deficientemente aprovechadas.
 
-## TITULO QUINTO. Del Registro Estatal de Desarrollo Urbano
+## TITULO CUARTO. De las autorizaciones y licencia estatal y municipales
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEXTO. De la licencia de construcción
 
 #### SECCION SEGUNDA. De la licitación pública
 
@@ -3977,9 +4261,9 @@ III. Abasto, comercio y servicios;
 
 IV. Mixto.
 
-#### SECCION PRIMERA. De la subasta pública
+#### SECCIÓN SEXTA. DE LA SUBASTA INVERSA ELECTRÓNICA
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 5.
 
@@ -4059,9 +4343,9 @@ Cuando se lleve a cabo un conjunto urbano con el propósito de cumplir un fideic
 
 El comprador de lotes en bloque será solidariamente responsable con el titular de la autorización del conjunto urbano, respecto de las obligaciones establecidas en la autorización correspondiente.
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION PRIMERA. De la subasta pública
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -4159,7 +4443,7 @@ En la escritura pública de constitución del respectivo condominio, se insertar
 
 No estarán afectos a la obligación precedente los condominios que se proyecte realizar en los lotes provenientes de conjuntos urbanos o subdivisiones autorizadas, en las que se hayan ya establecido tales obligaciones.
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
+### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
 
 #### SECCION CUARTA. De la invitación restringida
 
@@ -4241,7 +4525,7 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 La cédula informativa de zonificación no constituirá autorización para ejecución de obra alguna, ni requisito para la obtención de autorizaciones o licencias.
 
-### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
+### CAPITULO PRIMERO. De las medidas de seguridad
 
 ###### Artículo 5.
 
@@ -4269,7 +4553,7 @@ X. Las construcciones de equipamiento turístico y gasolineras, serán las únic
 
 XI. Las dedicadas a servicios de radiotelecomunicación o similares y anuncios publicitarios que requieran elementos estructurales, se ajustarán a las disposiciones reglamentarias.
 
-### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
+### CAPITULO SEGUNDO. De las infracciones y sanciones
 
 ###### Artículo 5.
 
@@ -4299,9 +4583,9 @@ XI. Los diferentes tipos de señales deben ser fijados en muros o lugares no aba
 
 XII. Las vías públicas contarán con placas en las que se consigne el nombre y la orientación de la misma, así como con guías en las banquetas para identificar el límite de la guarnición.
 
-## TITULO SEXTO. De las medidas de seguridad y sanciones
+## TITULO QUINTO. Del Registro Estatal de Desarrollo Urbano
 
-### CAPITULO QUINTO. De los grupos voluntarios
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 5.
 
@@ -4431,9 +4715,11 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 67.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y sus planos respectivos llevarán la firma del perito responsable de la obra, acompañándose asimismo la constancia de su inscripción en el Registro Estatal de Desarrollo Urbano.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO SEXTO. De las medidas de seguridad y sanciones
 
-### CAPITULO SEXTO. De las unidades internas
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 5.
 
@@ -4489,8 +4775,6 @@ VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin 
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
-
 ###### Artículo 5.
 
 70.- A la solicitud de autorización de explotación de bancos de materiales para la construcción, se acompañará:
@@ -4527,25 +4811,13 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 # LIBRO SEXTO. De la protección civil
 
-## TITULO SEGUNDO. De los sistemas de protección civil
+## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
 ###### Artículo 6.
 
-Son facultades del Mando Supremo las siguientes:
-
-I. Disponer de la totalidad de los recursos que constituyen a la Armada de México en los términos del artículo 89, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos;
-
-II. Nombrar al Alto Mando;
-
-III. Nombrar a los Mandos Superiores en Jefe;
-
-IV. Permitir la salida del país de las unidades orgánicas operativas de la Armada de México, conforme al artículo 76, fracción III, de la Constitución Política de los Estados Unidos Mexicanos, y
-
-V. Las demás establecidas en esta Ley y disposiciones aplicables.
+1.- Este Libro tiene por objeto regular las acciones de protección civil en el Estado de México.
 
 ###### Artículo 6.
 
@@ -4555,25 +4827,21 @@ V. Las demás establecidas en esta Ley y disposiciones aplicables.
 
 3.- Son aplicables a este Libro los conceptos, principios y lineamientos establecidos en la Ley General de Protección Civil.
 
-### CAPITULO TERCERO. De las infracciones y sanciones
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
 
 ###### Artículo 6.
 
 4.- Son autoridades en materia de protección civil, la Secretaría General de Gobierno, que ejercerá sus atribuciones a través de la Agencia de Seguridad Estatal, la Dirección General de Protección Civil y los Ayuntamientos con las atribuciones que les otorga este Libro.
 
-## TITULO TERCERO. Del Instituto de Protección Civil del Estado de México
+## TITULO SEGUNDO. De los sistemas de protección civil
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
 
 ###### Artículo 6.
 
 5.- Los sistemas de protección civil se constituyen por el conjunto de órganos, instrumentos, métodos y procedimientos que establecen las dependencias, organismos y entidades del sector público estatal o municipal, según corresponda, con la participación de los sectores social y privado, para la ejecución coordinada de acciones de protección civil.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO QUINTO. De los grupos voluntarios
 
 ###### Artículo 6.
 
@@ -4589,7 +4857,7 @@ IV. Las unidades internas;
 
 V. Los grupos voluntarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 6.
 
@@ -4609,13 +4877,17 @@ VI. Promover la creación de fondos para las acciones de protección civil;
 
 VII. Solicitar el apoyo del Gobierno Federal para el auxilio y recuperación en los casos de emergencia o desastre cuando la capacidad operativa y financiera del Estado sea superada;
 
-VIII. Aplicar los recursos estatales y federales a las acciones de prevención, auxilio y recuperación;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. Aplicar los recursos estatales y federales a las acciones de prevención, auxilio y de recuperación;
 
 IX. Informar al sistema nacional de protección civil de la ocurrencia de riesgos y desastres en el territorio del Estado para la concertación y coordinación de acciones;
 
 X. Apoyar la creación, desarrollo y consolidación de los consejos municipales de protección civil, grupos voluntarios y grupos de ayuda mutua;
 
-XI. Promover la creación, actualización y desarrollo de los atlas municipales de riesgos;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos;
 
 XII. Proponer la adquisición de equipo especializado de transporte, comunicación, prevención y atención de desastres con cargo a los fondos disponibles;
 
@@ -4631,11 +4903,35 @@ XVII. Establecer, operar o enlazarse con redes de detección, monitoreo, pronós
 
 XVIII. Desarrollar, actualizar y difundir el Atlas de Riesgos del Estado de México;
 
-XIX. Expedir y vigilar la aplicación de las normas técnicas estatales y demás disposiciones en materia de protección civil;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XIX. Expedir, actualizar y vigilar la aplicación de normas técnicas estatales y demás disposiciones en materia de protección civil.
+
+Las normas técnicas se deberán expedir de conformidad con las disposiciones aplicables de las leyes federales, estatales y municipales correspondientes, así como con los convenios internacionales.
+
+Su actualización deberá ser cada cinco años.
+
+Su aplicación y vigilancia, corresponderá a las autoridades estatales y municipales, de acuerdo a su competencia;
 
 XX. Recibir, evaluar y aprobar los programas de las unidades internas de protección civil;
 
-XXI. Impulsar y difundir la cultura de protección civil en el Estado. Para tal efecto, la Secretaría General de Gobierno difundirá entre las autoridades estatales y municipales, y la población en general los resultados de los trabajos que se realicen, así como la información que tienda a la generación, desarrollo y consolidación de una cultura en la materia;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XXI. El Sistema Estatal promoverá la cultura de la autoprotección, que convoque y sume el interés de la población en general, así como su participación individual y colectiva.
+
+Es menester el impulsar la cultura de la autoprotección, para lo cual las dependencias del sector público, con la participación del sector social, privado y académico, promoverán:
+
+a) El desarrollo y ejecución de acciones en el ámbito Estatal y Municipal, que permita se brinden los conocimientos básicos de la cultura de la autoprotección.
+
+b) La ejecución de simulacros en lugares de concentración masiva de personas.
+
+c) La formulación y promoción de campañas masivas de difusión, que contengan temas en materia de Protección Civil.
+
+d) Actividades de concertación con los diversos medios de difusión masiva, para la realización de campañas de divulgación sobre temas de protección civil y cultura de la autoprotección.
+
+e) La integración de acervos de información técnica y científica sobre fenómenos perturbadores, que afecten o puedan afectar a la población, que permita la instrumentación de acciones a seguir durante, la inminente presencia de un agente perturbador.
+
+f) El fortalecimiento y desarrollo de programas educativos y de difusión en materia de protección civil, dirigidos a la población en general, que permita conocer las acciones a seguir, durante el eminente embate o presencia de un agente perturbador, en las fases sustantivas de protección civil: prevención, auxilio y recuperación.
 
 XXII. Las demás que le confieren este Libro y las demás disposiciones legales aplicables.
 
@@ -4647,7 +4943,9 @@ XXII. Las demás que le confieren este Libro y las demás disposiciones legales 
 
 9.- El Consejo Estatal de Protección Civil tendrá las atribuciones siguientes:
 
-I. Participar en la elaboración y evaluación del Programa Estatal de Protección Civil, y coadyuvar en su aplicación, procurando su amplia difusión en la entidad;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+I. Participar en la elaboración y evaluación del Programa Estatal de Protección Civil, y coadyuvar en su aplicación, para mejorar la cultura de la prevención en la materia y su amplia difusión en la entidad;
 
 II. Fomentar la participación de los sectores de la sociedad en la formulación y ejecución de los programas de protección civil;
 
@@ -4669,7 +4967,7 @@ X. Las demás que se prevean en la reglamentación de este Libro.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEXTO. De las unidades internas
 
 ###### Artículo 6.
 
@@ -4693,11 +4991,15 @@ IV. Los grupos voluntarios.
 
 Los sistemas municipales deberán vincularse y coordinarse con el sistema estatal de protección civil.
 
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 6.
 
-12.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil. Asimismo, tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
+12.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil, fundamentalmente enfocadas a prevenir en la materia, sin descuidar aquellas referidas al auxilio y recuperación. Asimismo tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
 
-### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -4735,19 +5037,23 @@ X. Coadyuvar en la difusión de programas de protección civil;
 
 XI. Promover y difundir la cultura de protección civil en el Estado.
 
-### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+### CAPITULO SEGUNDO. De las medidas de seguridad
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
 16.- Los poderes Legislativo y Judicial, las dependencias, organismos auxiliares y fideicomisos públicos estatales y municipales, así como las personas de los sectores social y privado en los casos previstos en la reglamentación de este Libro, deberán establecer y operar unidades internas de protección civil, con el objeto de procurar la seguridad tanto de las personas que estén en sus instalaciones como de sus bienes, a través de acciones de prevención, auxilio y recuperación en caso de riesgo o desastre.
 
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 6.
 
-17.- Las unidades internas deberán elaborar programas de protección civil que presentarán para su registro ante la Secretaría General de Gobierno.
+17.- Las unidades internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría General de Gobierno.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -4763,9 +5069,9 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 20.- (DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
-### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 6.
 
@@ -4787,7 +5093,7 @@ Una vez concluidas las construcciones derivadas del uso de suelo a que se refier
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO PRIMERO. De las concesiones y permisos
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 6.
 
@@ -4827,7 +5133,7 @@ Las dependencias y organismos de la administración pública estatal y municipal
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-## TITULO CUARTO. De los simulacros y señalizaciones
+## TITULO TERCERO. Del Instituto de Protección Civil del Estado de México
 
 ###### Artículo 6.
 
@@ -4843,9 +5149,7 @@ El Registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 32.- En caso de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría General de Gobierno, a través de la Agencia de Seguridad Estatal, la Dirección General de Protección Civil; y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Comisionado deberá informar al Secretario General de Gobierno las medidas de seguridad que fueron aplicadas.
 
-## TITULO QUINTO. De las autorizaciones, registros y dictámenes
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+## TITULO CUARTO. De los simulacros y señalizaciones
 
 ###### Artículo 6.
 
@@ -4863,7 +5167,9 @@ V. El aseguramiento y destrucción de objetos, productos o sustancias;
 
 VI. El aislamiento de áreas afectadas.
 
-## TITULO SEXTO. De las declaratorias de emergencia y desastre
+## TITULO QUINTO. De las autorizaciones, registros y dictámenes
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -4913,51 +5219,33 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
+## TITULO SEXTO. De las declaratorias de emergencia y desastre
+
 ## TITULO SEPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ## TITULO OCTAVO. De la vigilancia
 
-## TITULO PRIMERO. Disposiciones generales
+### CAPITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
+### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
-
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
 # LIBRO SEPTIMO. De las Comunicaciones y Transportes
 
-## TITULO SEGUNDO. De la infraestructura vial
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2008)</small>
+
 ###### Artículo 7.
 
-El Alto Mando es responsable ante el Mando Supremo del desempeño de las facultades siguientes:
+1.- Este libro tiene por objeto regular las comunicaciones de jurisdicción local y el transporte.
 
-I. Proponer, elaborar y conducir la política y estrategia naval;
-
-II. Operar y administrar el poder naval de la Federación;
-
-III. Participar en la formulación de la política y los planes de seguridad nacional;
-
-IV. Establecer, mediante Acuerdo publicado en el Diario Oficial de la Federación, lo siguiente:
-
-a) La creación, organización y despliegue marítimo, aéreo y territorial de las Regiones, Fuerzas, Zonas y Sectores Navales, que se requieran para el cumplimiento de las atribuciones de la Armada de México, y
-
-b) Las áreas de control naval de tráfico marítimo;
-
-V. Crear los establecimientos y unidades operativas necesarias para incrementar la eficiencia en la ejecución de las tareas de la Armada de México, con sujeción al presupuesto asignado;
-
-VI. Proponer al Mando Supremo la designación de los Mandos Superiores en Jefe y designar al Jefe del Estado Mayor General de la Armada, a los Mandos Superiores y Mandos Subordinados;
-
-VII. Presidir el Consejo del Almirantazgo, y
-
-VIII. Las demás que establecen las leyes, reglamentos, así como las que le encomiende el Mando Supremo.
+Las comunicaciones de jurisdicción local comprenden la infraestructura vial primaria y los sistemas de transporte masivo o de alta capacidad, incluyendo las estaciones de transferencia modal.
 
 ###### Artículo 7.
 
@@ -4975,7 +5263,9 @@ II. Que se cuente con transporte seguro, eficiente y de calidad.
 
 3.- Se considera de utilidad pública e interés general, la construcción, conservación, operación, explotación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local, así como la prestación del servicio público de transporte.
 
-### CAPITULO SEGUNDO. De los vehículos
+### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 7.
 
@@ -5001,9 +5291,9 @@ VI. El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Es
 
 VII. Los municipios, que tendrán a su cargo las facultades relativas a la infraestructura vial local.
 
-## TITULO TERCERO. Del transporte
+## TITULO SEGUNDO. De la infraestructura vial
 
-### CAPITULO TERCERO. De los conductores
+### CAPITULO PRIMERO. De las concesiones y permisos
 
 ###### Artículo 7.
 
@@ -5019,9 +5309,9 @@ La infraestructura vial podrá ser libre de peaje, y de cuota.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 7.
 
@@ -5129,9 +5419,7 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 7.
 
@@ -5159,9 +5447,9 @@ III. Cubrir los daños que ocasionen a la infraestructura vial.
 
 17.- Los municipios tendrán las atribuciones a que se refiere este Título y el Título Cuarto, respecto de la infraestructura de su competencia.
 
-## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
+## TITULO TERCERO. Del transporte
 
-### CAPITULO TERCERO. De las organizaciones de productores
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 7.
 
@@ -5383,7 +5671,7 @@ Para estos efectos, los concesionarios y permisionarios que cuenten con los elem
 
 b). Para estos efectos, los propietarios o poseedores de vehículos automotores que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la revisión, en términos de las disposiciones secundarias correspondientes.
 
-### CAPITULO PRIMERO. De la producción y transformación
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
@@ -5417,7 +5705,7 @@ Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las conc
 
 32.- Tratándose de concesiones para el servicio público de transporte de alta capacidad o masivo, la vigencia y su prórroga se determinarán considerando el monto de la inversión, el tiempo para su recuperación y la obligación del concesionario para renovar, conservar y mantener en buen estado de funcionamiento las vías, instalaciones, equipo y flota vehicular con que se preste el servicio, apegándose a la normatividad de protección al ambiente.
 
-### CAPITULO SEGUNDO. De la comercialización
+### CAPITULO SEGUNDO. De los vehículos
 
 ###### Artículo 7.
 
@@ -5447,7 +5735,7 @@ IV. La instalación y explotación de anuncios publicitarios en los diversos tip
 
 Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, establecerán las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
 
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+### CAPITULO TERCERO. De los conductores
 
 ###### Artículo 7.
 
@@ -5463,7 +5751,7 @@ Queda prohibido el otorgamiento de concesión, permiso o autorización a vehícu
 
 37.- Las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, podrán autorizar y modificar en todo tiempo rutas, tarifas, itinerarios, horarios, frecuencias, así como ordenar el cambio de bases, paraderos y terminales, y señalar la forma de identificación de los vehículos, siempre en atención a la satisfactoria prestación del servicio y a las necesidades públicas.
 
-## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
+## TITULO CUARTO. Disposiciones comunes en materia de infraestructura vial y transporte
 
 ###### Artículo 7.
 
@@ -5545,9 +5833,11 @@ Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinera
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
 
-### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 7.
 
@@ -5559,7 +5849,9 @@ II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra l
 
 III. En general, pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales aplicables o sus reglamentos.
 
-### CAPITULO QUINTO. De los apoyos y estímulos
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 7.
 
@@ -5569,7 +5861,7 @@ La hipoteca podrá constituirse por un lapso que en ningún caso comprenderá la
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. De las organizaciones de productores
 
 ###### Artículo 7.
 
@@ -5841,45 +6133,33 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 60.- Cuando se incurra dos o más veces en infracciones que sean sancionadas con multa, en un periodo de seis meses, contado a partir de la primera, se considerará reincidencia, aplicándose el doble del monto inicial de la multa, sin perjuicio de que le sea aplicable la revocación de la concesión o permiso.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. De la producción y transformación
 
-### CAPITULO TERCERO. De los consejos consultivos económicos
+### CAPITULO SEGUNDO. De la comercialización
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
-## TITULO SEGUNDO. Del tránsito
+## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
+### CAPITULO QUINTO. De los apoyos y estímulos
 
 # LIBRO OCTAVO. Del tránsito y estacionamientos de servicio al público
 
-## TITULO TERCERO. De los estacionamientos de servicio al público
+## TITULO SEGUNDO. Del tránsito
 
-### CAPITULO CUARTO. Del turismo
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 8.
 
-Los Mandos se clasifican en:
-
-I. Titulares, los designados con este carácter por el Mando Supremo o Alto Mando y quienes lo ejerzan serán de la milicia permanente;
-
-II. Interinos, los designados con este carácter por el mando correspondiente, en tanto se nombra al titular y quienes lo ejerzan serán de la milicia permanente;
-
-III. Accidentales, los que se ejercen por ausencia temporal del titular o interino que le impida desempeñarlo, en caso de enfermedad, licencias, vacaciones, comisiones fuera de la plaza u otros motivos, y
-
-IV. Incidentales, los desempeñados en los casos imprevistos por ausencia momentánea del titular, interino o accidental, así como el que ejerce el Comandante más antiguo en reunión de fuerzas, unidades o personal naval, cuando no exista un Mando previamente designado.
+1.- Este Libro tiene por objeto regular el tránsito de vehículos, personas y objetos que se realiza en la infraestructura vial primaria y local, así como el establecimiento de estacionamientos de servicio al público.
 
 ###### Artículo 8.
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 8.
 
@@ -5889,11 +6169,9 @@ IV. Incidentales, los desempeñados en los casos imprevistos por ausencia moment
 
 Corresponde a la Secretaría General de Gobierno por conducto de la Agencia de Seguridad Estatal, ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TITULO TERCERO. De los estacionamientos de servicio al público
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO TERCERO. De los consejos consultivos económicos
 
 ###### Artículo 8.
 
@@ -5939,7 +6217,7 @@ II. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en rel
 
 III. Ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos.
 
-### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 8.
 
@@ -6049,7 +6327,11 @@ k) Efectuar carreras o arrancones en la vía pública;
 
 l) Obstruir los accesos y espacios destinados a las personas con capacidades diferentes.
 
-### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
+### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 8.
 
@@ -6069,9 +6351,9 @@ II. En materia de estacionamientos, la multa se calculará multiplicando el núm
 
 > <small>(DEROGADO ULTIMO PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De las infracciones y sanciones
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
 ###### Artículo 8.
 
@@ -6085,7 +6367,7 @@ III. Detener la marcha de cualquier vehículo cuando el conductor esté cometien
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-### CAPITULO SEGUNDO. De la atención médica
+### CAPITULO CUARTO. Del turismo
 
 ###### Artículo 8.
 
@@ -6125,39 +6407,27 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
+## TITULO PRIMERO. Disposiciones generales
 
 # LIBRO NOVENO. Del fomento y desarrollo agropecuario y acuícola
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario y Acuícola
+## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
 
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
-
-### CAPITULO TERCERO. De la educación regular y especial
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 9.
 
-En caso de ausencia temporal, el orden y sucesión de Mando, se sujetará a lo siguiente:
+1.- Este Libro tiene por objeto regular el fomento y desarrollo de las actividades agropecuarias y acuícolas.
 
-I. El Alto Mando será suplido por el Subsecretario y, en ausencia de éste, por el Oficial Mayor o por el Almirante que designe el Alto Mando;
-
-II. Los Mandos Superiores en Jefe serán suplidos:
-
-a) En las Fuerzas Navales y Cuartel General del Alto Mando, por el Jefe del Estado Mayor, y
-
-b) En las Regiones Navales por el Comandante de Zona más antiguo de su jurisdicción;
-
-III. Los Mandos Superiores serán suplidos por su Jefe de Estado Mayor y en ausencia de éste por quien designe el Mando Superior en Jefe, y
-
-IV. Los Mandos Subordinados serán suplidos por los Jefes de Grupo de Comando, Segundos Comandantes o sus equivalentes. En ausencia de éstos, por quien designe el Mando Superior correspondiente.
-
-En los casos a que se refieren las fracciones II a la IV de este artículo, las ausencias de quien deba suplir a los titulares serán cubiertas por el personal naval con el perfil adecuado al Mando que se va a ejercer.
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 9.
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias y acuícolas para contribuir al desarrollo rural del Estado.
 
-### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 9.
 
@@ -6167,7 +6437,7 @@ En los casos a que se refieren las fracciones II a la IV de este artículo, las 
 
 4.- Los municipios podrán participar en las acciones reguladas en este Libro.
 
-### CAPITULO QUINTO. Del tránsito y transporte
+### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
 ###### Artículo 9.
 
@@ -6177,9 +6447,11 @@ Se entiende por productor rural la persona física que directa o indirectamente 
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario y Acuícola
 
-### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+
+### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
 
 ###### Artículo 9.
 
@@ -6217,7 +6489,7 @@ III. Que los programas para la tecnificación del riego que realicen los diferen
 
 IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
 
-### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### Artículo 9.
 
@@ -6237,7 +6509,7 @@ VI. La formación y capacitación de árbitros, así como la constitución de un
 
 VII. La integración de cadenas productivas, y mecanismos que permitan la obtención de financiamientos con tasas preferenciales, en materia de comercialización.
 
-### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
+### CAPITULO SEGUNDO. De la atención médica
 
 ###### Artículo 9.
 
@@ -6317,7 +6589,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
+### CAPITULO TERCERO. De la educación regular y especial
 
 ###### Artículo 9.
 
@@ -6331,9 +6603,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
 
 ###### Artículo 9.
 
@@ -6359,17 +6629,15 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De las infracciones y sanciones
 
 ###### Artículo 9.
 
 18.- La Secretaría de Desarrollo Agropecuario organizará y coordinará el sistema estatal de información de desarrollo agropecuario y acuícola, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades a que se refiere este Libro, así como para proveer de información oportuna a quienes participan en dichas actividades y al público en general.
 
-## TITULO SEGUNDO. Del fomento empresarial
+## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO QUINTO. Del tránsito y transporte
 
 ###### Artículo 9.
 
@@ -6389,31 +6657,25 @@ I. En caso de la fracción I, el beneficiario deberá devolver los apoyos y est�
 
 II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los apoyos y estímulos recibidos o su equivalente y no podrá ser sujeto de nuevos apoyos o estímulos por un plazo de dos años, contado a partir de la devolución correspondiente.
 
-### CAPITULO TERCERO. De los procedimientos de adjudicación
-
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
 # LIBRO DECIMO. Del fomento económico
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
+## TITULO SEGUNDO. Del fomento empresarial
 
-### CAPITULO CUARTO. De la contratación
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
 ###### Artículo 10.
 
-Las Fuerzas Navales están integradas por el personal naval, unidades de superficie, aeronavales y de Infantería de Marina, organizados para el cumplimiento de la misión y atribuciones asignadas a la Armada de México conforme a las disposiciones jurídicas aplicables.
+1.- Este Libro tiene por objeto regular el fomento de las actividades económicas.
 
-Los Comandantes serán de la categoría de Almirante y estarán subordinados directamente al Alto Mando.
+Para efectos de este Libro, se entiende por actividad económica toda aquella que tenga por objeto extraer, producir, transformar, industrializar o comercializar recursos, bienes o servicios; y, por empresa, toda persona física o moral que directa o indirectamente se dedique a una actividad económica.
 
 ###### Artículo 10.
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la entidad un incremento sostenido de las actividades económicas.
 
-### CAPITULO QUINTO. De la ejecución
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
 
 ###### Artículo 10.
 
@@ -6427,9 +6689,7 @@ Los Comandantes serán de la categoría de Almirante y estarán subordinados dir
 
 5.- Los municipios realizarán acciones de fomento económico que sean congruentes con las previstas en este Libro a cargo de la Secretaría de Desarrollo Económico y el Plan de Desarrollo Estatal.
 
-### CAPITULO SEXTO. De la administración directa
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
 
 ###### Artículo 10.
 
@@ -6469,9 +6729,9 @@ VII. Que actúen de manera coordinada con el Consejo Consultivo Económico Estat
 
 Para la creación de los consejos consultivos regionales se estará a la regionalización establecida por el Plan de Desarrollo del Estado de México.
 
-## TITULO CUARTO. Del otorgamiento de apoyos
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
-### CAPITULO SEPTIMO. De la información, verificación y control
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6533,7 +6793,7 @@ XX. La constitución del Fondo Estatal para la Capacitación de la Micro, Peque�
 
 12.- La Secretaría de Desarrollo Económico expedirá normas técnicas en materia de funcionalidad y operatividad de centrales y módulos de abasto, mercados de venta al detalle, rastros, plazas y explanadas comerciales, tianguis y otras construcciones relacionadas con el comercio.
 
-### CAPITULO OCTAVO. De los medios de defensa
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6597,9 +6857,9 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO PRIMERO. Parte general
+### CAPITULO TERCERO. De los procedimientos de adjudicación
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 10.
 
@@ -6651,9 +6911,9 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+### CAPITULO CUARTO. De la contratación
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 10.
 
@@ -6693,7 +6953,7 @@ VII. La información estadística de la zona vinculada al turismo.
 
 Para efectos de este artículo, se entiende por zona de interés turístico aquella parte del territorio del Estado que cuenta con equipamiento, instalaciones, infraestructura, atractivos y que recibe turistas, así como la que presenta características idóneas para realizar actividades turísticas.
 
-## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
+## TITULO CUARTO. Del otorgamiento de apoyos
 
 ###### Artículo 10.
 
@@ -6723,7 +6983,7 @@ I. Lo solicite el interesado;
 
 II. Por fallecimiento, en caso de persona física, o fusión, liquidación o extinción, tratándose de persona moral.
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
 
 ###### Artículo 10.
 
@@ -6761,7 +7021,7 @@ IV. Participación en los programas de identificación y promoción, nacionales 
 
 V. Promover y facilitar la adquisición de terrenos, en aquellas zonas en las que se pretenda desarrollar las actividades económicas.
 
-## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
+## TITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 10.
 
@@ -6777,15 +7037,17 @@ IV. Exportación.
 
 # LIBRO DECIMO PRIMERO. De la protección e integración al desarrollo de las personas con capacidades diferentes
 
-## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
+## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO QUINTO. De la ejecución
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
-Las fuerzas de tarea como unidades orgánicas operativas se constituyen en forma temporal, con los medios necesarios para cumplir una misión específica; el Mando de éstas será designado por el Alto Mando, Mando Superior en Jefe o Mando Superior, en el ámbito de competencia, según corresponda.
+1.- Este Libro tiene por objeto regular los servicios y las acciones a cargo del Estado en favor de las personas con capacidades diferentes.
+
+Para los efectos de este Libro, las personas con capacidades diferentes son aquellas que sufren una pérdida, alteración o disminución de un órgano o función física, sensorial o intelectual, que limita las actividades de la vida diaria e impide su desarrollo individual y social; y capacidad diferente es la limitación de una persona para realizar por sí misma actividades necesarias para su desempeño físico, mental, social, ocupacional y económico como consecuencia de una pérdida, alteración o disminución de un órgano o función física, sensorial o intelectual.
 
 ###### Artículo 11.
 
@@ -6795,9 +7057,9 @@ Las fuerzas de tarea como unidades orgánicas operativas se constituyen en forma
 
 3.- Los servicios que presten las instituciones para la rehabilitación de personas con capacidades diferentes, aún cuando se denominen, ostenten o constituyan bajo otra modalidad, se sujetarán a las disposiciones previstas en la Ley General de Salud y este Libro.
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO SEXTO. De la administración directa
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6815,9 +7077,9 @@ Las fuerzas de tarea como unidades orgánicas operativas se constituyen en forma
 
 7.- Las disposiciones de este Libro se aplicarán sin perjuicio de lo previsto en las Leyes Generales de Salud y de Educación, los Libros Segundo, Tercero, Quinto y Séptimo, así como la legislación en materia de asistencia social y privada.
 
-### CAPITULO QUINTO. De los catálogos
+### CAPITULO SEPTIMO. De la información, verificación y control
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6849,9 +7111,9 @@ XII. Promover los derechos de las personas con capacidades diferentes, así como
 
 XIII. Proporcionar orientación y asistencia jurídica en juicios de interdicción y en acciones legales, con particular atención de las personas con discapacidad mental.
 
-### CAPITULO SEXTO. De la integración y funciones de los Comités
+### CAPITULO OCTAVO. De los medios de defensa
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6875,11 +7137,11 @@ III. Promover la integración educativa, laboral, recreativa, cultural y deporti
 
 Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivos consejos municipales.
 
-## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
+## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
 
-### CAPITULO SEPTIMO. De los procedimientos de adquisición
+### CAPITULO PRIMERO. Parte general
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6911,7 +7173,7 @@ De acuerdo con el resultado del diagnóstico que hayan emitido la o las comision
 
 La calificación realizada por las comisiones de valoración responderá a criterios técnicos unificados y tendrá validez ante cualquier dependencia, organismo público o privado del Estado.
 
-### CAPITULO OCTAVO. De las enajenaciones
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6959,9 +7221,9 @@ I. Procurar la extensión cuantitativa y cualitativa de los servicios de atenci�
 
 II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de la población con capacidades diferentes.
 
-### CAPITULO NOVENO. De los contratos
+### CAPITULO TERCERO. De la sistematización
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -6999,7 +7261,7 @@ IV. Lograr la incorporación de la persona con capacidades diferentes a la vida 
 
 25.- Los hijos de trabajadores con capacidades diferentes gozarán de servicio gratuito de guardería, para ello, las instituciones educativas y sanitarias estatales promoverán la prestación del servicio hasta satisfacer la demanda.
 
-### CAPITULO DECIMO. De las garantías
+### CAPITULO CUARTO. De las operaciones consolidadas
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7037,9 +7299,9 @@ I. Establecer programas de promoción del empleo de las personas con capacidades
 
 II. Gestionar el apoyo de los sectores público e industrial para colocar a las personas con capacidades diferentes en puestos vacantes, así como para que las autoridades competentes otorguen a los solicitantes con capacidades diferentes permisos y licencias de funcionamiento comercial en la infraestructura vial y en locales de mercados públicos.
 
-### CAPITULO DECIMO PRIMERO. De los contratos abiertos
+### CAPITULO QUINTO. De los catálogos
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -7077,7 +7339,7 @@ II. Podrán ser utilizados por cualquier usuario, en tanto no sean requeridos po
 
 Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanismos que faciliten el acceso a personas con capacidades diferentes y equipo de apoyo.
 
-### CAPITULO DECIMO SEGUNDO. De la información y verificación
+### CAPITULO SEXTO. De la integración y funciones de los Comités
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7101,9 +7363,9 @@ Las barreras arquitectónicas que en la infraestructura vial deben ser eliminada
 
 La Agencia de Seguridad Estatal verificará la existencia de barreras arquitectónicas en la infraestructura vial primaria y propondrá ante las autoridades competentes su eliminación o readecuación, conforme a lo dispuesto en el párrafo anterior.
 
-### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
+### CAPITULO SEPTIMO. De los procedimientos de adquisición
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7111,7 +7373,7 @@ La Agencia de Seguridad Estatal verificará la existencia de barreras arquitect�
 
 El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bienestar Social, y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con capacidades diferentes.
 
-### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
+### CAPITULO OCTAVO. De las enajenaciones
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7129,15 +7391,15 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 38.- Además de las medidas específicas previstas en este Libro, el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México otorgará, previo estudio, servicios y prestaciones económicas a las personas con capacidades diferentes que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a contingencias resultantes de sus limitaciones físicas. La prestación económica cesará al momento de superarse la contingencia que le dio lugar.
 
-### CAPITULO PRIMERO. De las disposiciones generales
+### CAPITULO NOVENO. De los contratos
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
 39.- El Sistema para el Desarrollo Integral de la Familia del Estado de México coordinará un programa estatal para informar, capacitar y adiestrar a las familias y a los terceros, para aumentar su capacidad de estimular y atender el desarrollo de las personas con capacidades diferentes, así como propiciar un entorno familiar adecuado a sus necesidades de rehabilitación con las instituciones del sector salud.
 
-## TITULO QUINTO. De las sanciones
+## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
 
 ###### Artículo 11.
 
@@ -7147,15 +7409,13 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 41.- Las autoridades sanitarias del Estado y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría para las personas con capacidades diferentes respecto al uso de los servicios que requieran, así como de las prestaciones a su alcance y las condiciones de acceso a las mismas.
 
-## TITULO PRIMERO. De la información e investigación geográfica, estadística y catastral
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+## TITULO QUINTO. De las sanciones
 
 ###### Artículo 11.
 
 42.- Gobierno del Estado, a través de las Secretarías de Salud y de Educación, Cultura y Bienestar Social, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con capacidades diferentes, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos.
 
-## TITULO SEGUNDO. Del Instituto
+## TITULO PRIMERO. De la información e investigación geográfica, estadística y catastral
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -7183,17 +7443,31 @@ En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
+### CAPITULO DECIMO. De las garantías
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
-Las Regiones Navales son áreas geoestratégicas, determinadas por el Mando Supremo, que agrupan a Zonas y Sectores Navales, unidades operativas, establecimientos y personal naval.
+1.- Este Libro tiene por objeto regular los actos relativos a la planeación, programación, presupuestación, adjudicación, contratación, ejecución y control de la obra pública, así como los servicios relacionados con la misma que, por sí o por conducto de terceros, realicen:
 
-Tienen a su cargo la propuesta, preparación y conducción de las operaciones navales para el cumplimiento de la misión y atribuciones asignadas a la Armada de México en su área jurisdiccional.
+I. Las secretarías y unidades administrativas del Poder Ejecutivo del Estado;
 
-Los Comandantes serán de la categoría de Almirante y estarán subordinados directamente al Alto Mando.
+II. La Procuraduría General de Justicia;
+
+III. Los ayuntamientos de los municipios del Estado;
+
+IV. Los organismos auxiliares y fideicomisos públicos del Estado y municipios;
+
+V. Los tribunales administrativos.
+
+Serán aplicables las disposiciones conducentes de este Libro, a los particulares que tengan el carácter de licitantes o contratistas.
+
+Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán los procedimientos previstos en este Libro en todo lo que no se oponga a los ordenamientos legales que los regulan.
+
+No se regirán por las disposiciones de este Libro, la obra pública o servicios relacionados con la misma, derivados de convenios celebrados entre dependencias, entidades, instituciones públicas y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando intervenga un particular con el carácter de licitante o contratista.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -7335,9 +7609,9 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Del servicio
+### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -7465,9 +7739,9 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. De la coordinación
+### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -7663,9 +7937,9 @@ Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plaz
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Del IGECEM
+### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -7807,9 +8081,9 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -7931,9 +8205,9 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO PRIMERO. De las disposiciones generales
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 12.
 
@@ -7953,9 +8227,9 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO II. De la dirección del periódico oficial
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 12.
 
@@ -7987,9 +8261,9 @@ Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos munici
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO III. Del funcionamiento del periódico oficial
+### CAPITULO TERCERO. Del servicio
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 12.
 
@@ -8045,29 +8319,45 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO IV. Del procedimiento de publicación y circulación
+### CAPITULO CUARTO. De la coordinación
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO V. De la fe de erratas
+### CAPITULO PRIMERO. Del IGECEM
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 # LIBRO DECIMO TERCERO. De las adquisiciones, enajenaciones, arrendamientos y servicios
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO VI. De las responsabilidades de los servidores públicos
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
-El Cuartel General del Alto Mando se integra con el personal naval, unidades operativas y establecimientos navales en el ámbito territorial que determine el Alto Mando.
+1.- Este Libro tiene por objeto regular los actos relativos a la planeación, programación, presupuestación, ejecución y control de la adquisición, enajenación y arrendamiento de bienes, y la contratación de servicios de cualquier naturaleza, que realicen:
 
-Tiene a su cargo la propuesta, preparación y conducción de las operaciones navales para el cumplimiento de la misión y atribuciones que tiene asignadas, proporcionando seguridad y apoyo logístico a las unidades y establecimientos en su ámbito territorial de competencia.
+I. Las secretarías y las unidades administrativas del Poder Ejecutivo del Estado;
 
-El Comandante del Cuartel General del Alto Mando será de la categoría de Almirante y estará subordinado directamente al Alto Mando.
+II. La Procuraduría General de Justicia;
+
+III. Los ayuntamientos de los municipios del Estado;
+
+IV. Los organismos auxiliares y fideicomisos públicos, de carácter estatal o municipal;
+
+V. Los tribunales administrativos.
+
+También serán aplicables las disposiciones de este Libro a los particulares que participen en los procedimientos, operaciones o contratos regulados en este Libro.
+
+Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán las disposiciones de este Libro en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios órganos de control.
+
+No será aplicable lo dispuesto por este Libro en los actos objeto del mismo derivados de convenios celebrados entre dependencias, entidades y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando sea parte un particular en los procedimientos o contratos respectivos.
+
+Tampoco serán aplicables las disposiciones de este Libro en los actos que realicen los fideicomisos públicos en los que el Gobierno del Estado no sea fideicomitente único.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 13.
 
@@ -8078,6 +8368,26 @@ I. Dependencia, a las secretarías y unidades administrativas del Poder Ejecutiv
 II. Entidades, a los organismos auxiliares y fideicomisos públicos, de carácter estatal o municipal;
 
 III. Propuesta solvente, a la proposición presentada por una persona en un procedimiento de licitación o de invitación restringida, que cumpla con las bases del concurso, garantice el cumplimiento del contrato y considere costos de mercado.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Firma Electrónica, a la firma electrónica avanzada en los términos de la Ley para el Uso de Medios Electrónicos.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+V. Ley de Medios Electrónicos, a la Ley para el Uso de Medios Electrónicos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Ofertas subsecuentes de descuentos, a la presentación dinámica de descuentos que realizan los postores para mejorar el precio ofertado inicialmente;
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Subasta inversa electrónica, a la modalidad con base en la cual la Administración Pública Estatal y Municipal, pueden desahogar los procedimientos para la adquisición de bienes y contratación de servicios a que se refiere el presente Libro, por conducto del Sistema Electrónico de Información, Trámites y Servicios, a efecto de adjudicarlos a los postores que presenten la oferta económica más favorable, mediante la presentación de ofertas subsecuentes de descuentos;
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. SEITS. Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley de Medios Electrónicos.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8121,19 +8431,23 @@ De conformidad con lo dispuesto en el segundo párrafo del artículo 7 de la Ley
 
 4.- Las dependencias, entidades estatales y tribunales administrativos llevarán a cabo los procedimientos de adquisición de bienes y servicios que requieran, conforme con sus respectivos programas de adquisiciones.
 
-La Secretaría de Administración llevará a cabo los procedimientos de adquisición de bienes o servicios conjuntados en operaciones consolidadas.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-En el ámbito de la administración pública central del Estado, corresponde a la Secretaría de Administración el trámite de los procedimientos de contratos, relativos a arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles.
+La Secretaría de Finanzas llevará a cabo los procedimientos de adquisición de bienes o servicios conjuntados en operaciones consolidadas.
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+En el ámbito de la Administración Pública Estatal, corresponde a la Secretaría de Finanzas el trámite de los procedimientos de contratos, relativos a arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles.
 
 Las entidades, tribunales administrativos y ayuntamientos, en el ámbito de su respectiva competencia, tendrán a su cargo el trámite de los procedimientos y la contratación de arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-5.- Las secretarías de Administración y de la Contraloría, así como los ayuntamientos, podrán contratar asesoría técnica para la realización de investigaciones de mercado, verificación de precios, realización de pruebas de calidad y en general para el mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
+5.- Las secretarías de Finanzas y de la Contraloría, así como los ayuntamientos, podrán contratar asesoría técnica para la realización de investigaciones de mercado, verificación de precios, realización de pruebas de calidad y en general para el mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
 
-Las secretarías de Administración y de la Contraloría intercambiarán la información sobre los resultados de los trabajos derivados de los contratos de asesoría técnica.
+Las secretarías de Finanzas y de la Contraloría intercambiarán la información sobre los resultados de los trabajos derivados de los contratos de asesoría técnica.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8157,15 +8471,17 @@ Los actos a que se refiere el artículo 13.1 de este Libro que realicen los ayun
 
 8.- Corresponde al Ejecutivo del Estado, a través de la Secretaría de Administración, la interpretación para efectos administrativos del presente Libro, y a la Secretaría de la Contraloría la vigilancia de su aplicación para su debida observancia.
 
-La Secretaría de Administración establecerá las políticas y expedirá las normas técnicas y administrativas en las materias que regula el presente Libro.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría de Finanzas establecerá las políticas y expedirá las normas técnicas y administrativas en las materias que regula el presente Libro.
 
 Las políticas y normas administrativas a que se refiere el párrafo anterior, serán aplicables a los actos, contratos y convenios regulados por este Libro que realicen los ayuntamientos con cargo a recursos estatales, total o parcialmente.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO I. Disposiciones generales
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8195,19 +8511,21 @@ II. Los recursos financieros y materiales y los servicios con los que se cuente;
 
 III. Los plazos estimados en los que se requerirán los bienes, arrendamientos y servicios;
 
-IV. Las políticas y normas administrativas que establezca la Secretaría de Administración y los ayuntamientos, en su caso, para optimizar las adquisiciones, arrendamientos y servicios;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Las políticas y normas administrativas que establezca la Secretaría de Finanzas y los ayuntamientos, en su caso, para optimizar las adquisiciones, arrendamientos y servicios;
 
 V. Las demás previsiones que sean necesarias para la adecuada planeación, operación y ejecución de los programas y acciones correspondientes.
 
 Las dependencias, entidades estatales y tribunales administrativos formularán sus programas de adquisiciones, arrendamientos y servicios, simultáneamente con sus programas anuales y proyectos de presupuestos de egresos.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-12.- La Secretaría de Administración tendrá a su cargo la elaboración y ejecución del programa anual de operaciones consolidadas.
+12.- La Secretaría de Finanzas tendrá a su cargo la elaboración y ejecución del programa anual de operaciones consolidadas.
 
-Las dependencias deberán presentar a la Secretaría de Administración sus requerimientos de adquisiciones y servicios sujetos a operaciones consolidadas, conforme con sus programas de adquisiciones, arrendamientos y servicios, dentro de un plazo de 10 días hábiles siguientes al en que se aprueben los presupuestos de egresos de sus unidades administrativas.
+Las dependencias deberán presentar a la Secretaría de Finanzas sus requerimientos de adquisiciones y servicios sujetos a operaciones consolidadas, conforme con sus programas de adquisiciones, arrendamientos y servicios, dentro de un plazo de 10 días hábiles siguientes al en que se aprueben los presupuestos de egresos de sus unidades administrativas.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8245,37 +8563,47 @@ En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
+### CAPITULO II. De la dirección del periódico oficial
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-###### Artículo 13.
-
-17.- La Secretaría de Administración establecerá los instrumentos que permitan llevar a cabo la sistematización de los procedimientos de adquisiciones, arrendamientos y servicios, que se realicen con cargo a recursos estatales, total o parcialmente. Los ayuntamientos establecerán estos instrumentos cuando se trate de actos, contratos o convenios que se celebren con cargo a recursos municipales.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
-18.- La sistematización de los procedimientos de adquisiciones, arrendamientos y servicios tendrá por objeto:
+17.- Los procedimientos de adquisiciones, arrendamientos y servicios, que se realicen con cargo a recursos estatales, total o parcialmente, deberán desahogarse por conducto del SEITS, salvo en los casos en que así lo determine el comité de adquisiciones. Lo mismo aplicará a los ayuntamientos cuando se trate de actos, contratos o convenios que se celebren con cargo a recursos municipales.
+
+El Reglamento del presente Libro, establecerá las modalidades bajo las cuales se desahogarán dichos procedimientos, atendiendo a la normatividad aplicable a cada uno de ellos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 13.
+
+18.- El uso SEITS en el desahogo de los procedimientos de adquisiciones, arrendamientos y servicios tendrá por objeto:
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 I. Disminuir los gastos que realicen los órganos públicos, así como los particulares participantes;
 
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 II. Controlar el gasto público;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 III. Lograr mayor eficiencia y transparencia.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+### CAPITULO III. Del funcionamiento del periódico oficial
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
 19.- Operación consolidada es aquella que conjunta en un sólo procedimiento, por su uso generalizado o volumen, la adquisición de bienes o servicios, con el objeto de obtener las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
-Corresponde a la Secretaría de Administración llevar a cabo las operaciones consolidadas, respecto de las adquisiciones de bienes o servicios que requieran las dependencias.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Corresponde a la Secretaría de Finanzas llevar a cabo las operaciones consolidadas, respecto de las adquisiciones de bienes o servicios que requieran las dependencias.
 
 Los ayuntamientos en el ámbito de su respectiva competencia, llevarán a cabo las operaciones establecidas en este capítulo.
 
@@ -8283,29 +8611,35 @@ La reglamentación de este Libro establecerá los bienes y servicios sujetos a o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Autorización del Proyecto
+### CAPITULO IV. Del procedimiento de publicación y circulación
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
-20.- La Secretaría de Administración y los ayuntamientos establecerán y operarán el catálogo de bienes y servicios, de acuerdo con la reglamentación respectiva.
+20.- La Secretaría de Finanzas y los ayuntamientos establecerán y operarán el catalogo de bienes y servicios, de acuerdo con la reglamentación respectiva.
+
+Establecerán y operarán también el catálogo de bienes y servicios específicos que sean susceptibles de ser adquiridos o contratados bajo la modalidad de subasta inversa, los cuales deberán describirse genéricamente y determinarse sus especificaciones técnicas y comerciales, y en su caso, sus equivalentes. Dicho catálogo deberá publicarse en el SEITS y en el portal de Internet de la propia Secretaría y, en su caso, el de los ayuntamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 13.
+
+21.- A fin de conocer la capacidad administrativa, financiera, legal y técnica de las fuentes de suministro, la Secretaría de Finanzas y los ayuntamientos integrarán un catálogo de proveedores y prestadores de servicios.
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Las personas que deseen inscribirse en el catálogo, deberán cumplir con los requisitos que establezca la reglamentación respectiva. En todo caso, deberán esta inscritos en el Registro Único de Personas Acreditadas del Estado de México, en los términos de la Ley de Medios Electrónicos, los proveedores y prestadores de servicios que deseen participar en los procedimientos que deban desahogarse por conducto del SEITS.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-21.- A fin de conocer la capacidad administrativa, financiera, legal y técnica de las fuentes de suministro, la Secretaría de Administración y los ayuntamientos integrarán un catálogo de proveedores y prestadores de servicios.
-
-Las personas que deseen inscribirse en este catálogo, deberán cumplir con los requisitos que establezca la reglamentación respectiva.
 
 La falta de inscripción en dicho catálogo no limitará la libre concurrencia de los interesados a los procedimientos adquisitivos regulados por este Libro.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. Análisis Costo-Beneficio
+### CAPITULO V. De la fe de erratas
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8313,7 +8647,9 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 En cada dependencia, entidad, tribunal administrativo y ayuntamiento, se constituirá un comité de adquisiciones y servicios.
 
-La Secretaría de Administración se auxiliará de un comité central en los procedimientos relativos a las operaciones consolidadas, así como de un comité de arrendamientos, adquisiciones de inmuebles y enajenaciones.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría de Finanzas se auxiliará de un comité central en los procedimientos relativos a las operaciones consolidadas, así como de un comité de arrendamientos, adquisiciones de inmuebles y enajenaciones.
 
 Los ayuntamientos establecerán comités de arrendamientos, adquisiciones de inmuebles y enajenaciones.
 
@@ -8325,7 +8661,9 @@ Los ayuntamientos establecerán comités de arrendamientos, adquisiciones de inm
 
 I. Dictaminar, sobre la procedencia de los casos de excepción al procedimiento de licitación pública;
 
-II. Tramitar los procedimientos de licitación, invitación restringida y adjudicación directa, hasta dejarlos en estado de dictar el fallo correspondiente;
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+II. Tramitar los procedimientos de licitación, invitación restringida y adjudicación directa, hasta dejarlos en estado de dictar el fallo correspondiente, incluidos los que tengan que desahogarse bajo la modalidad de subasta inversa;
 
 III. Emitir los dictámenes de adjudicación;
 
@@ -8361,9 +8699,9 @@ V. Las demás que establezca la reglamentación de este Libro.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+### CAPITULO VI. De las responsabilidades de los servidores públicos
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8407,11 +8745,11 @@ I. Previa investigación de mercado que realice la convocante, no exista el bien
 
 II. Resulte obligatorio por los tratados internacionales en que México sea parte o por convenios celebrados por el Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-32.- La Secretaría de Administración, las dependencias, entidades, tribunales administrativos y ayuntamientos, en términos de este Libro, serán los responsables de llevar a cabo el procedimiento de licitación pública.
+32.- La Secretaría de Finanzas, las dependencias, entidades, tribunales administrativos y ayuntamientos, en términos de este Libro, serán los responsables de llevar a cabo el procedimiento de licitación pública.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8443,7 +8781,13 @@ XI. La garantía que deberá otorgarse para asegurar la seriedad de la propuesta
 
 XII. Los demás requisitos generales que deberán cumplir los interesados, según las características y magnitud de los bienes y servicios.
 
-La Secretaría de la Contraloría hará pública la información referente a los procedimientos de adquisición, a través de los medios de difusión electrónica que establezca.
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+En la convocatoria deberá especificarse si en la licitación aplicará la modalidad de subasta inversa.
+
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría de la Contraloría hará pública la información referente a los procedimientos de adquisición, a través del SEITS y de su propio portal de Internet.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8499,6 +8843,14 @@ VIII. La convocante emitirá el fallo y lo dará a conocer a los licitantes pres
 
 IX. La falta de firma de algún licitante no invalidará su contenido y efectos.
 
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando el procedimiento de licitación se realice por conducto del SEITS, las propuestas técnicas y económicas se presentarán en los formatos electrónicos a que se refieran las bases respectivas, y en él se observarán las mismas condiciones a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Si es el caso que el procedimiento de licitación deba desahogarse bajo la modalidad de subasta inversa, una vez que se haya realizado la evaluación técnica se procederá a informar a los postores el momento en que dará inicio la etapa de ofertas subsecuentes de descuentos.
+
 El reglamento de este Libro establecerá los criterios para la evaluación de las propuestas y el procedimiento para el acto de presentación, apertura y evaluación de propuestas, dictamen y fallo.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
@@ -8507,15 +8859,19 @@ El reglamento de este Libro establecerá los criterios para la evaluación de la
 
 37.- En los casos en que las propuestas económicas estén por arriba del precio de mercado, la convocante lo hará de conocimiento de los participantes a fin de que reduzcan los precios de sus propuestas, hasta que se presente alguna propuesta que esté dentro de mercado, en caso contrario se procederá a declarar desierta la licitación.
 
-La convocante procederá a adjudicar el contrato al licitante que presente la propuesta, que estando dentro del precio de mercado, sea la más baja.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La convocante procederá a adjudicar el contrato al licitante que presente la propuesta, que estando dentro del precio de mercado, sea la más baja, debiendo dar preferencia, en igualdad de condiciones, a las presentadas por micro, pequeñas y medianas empresas. Si fuera el caso de que éstas hubieren presentado una misma oferta económica, se asignará a la que, a juicio del comité de adquisiciones, represente mayores ventajas para el convocante en cuanto a precio, fechas de entrega de bienes y/o prestación de servicios, así como otros criterios de valoración objetiva.
 
 Lo establecido en este artículo será aplicable en el procedimiento de invitación restringida.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-38.- La Secretaría de Administración, las dependencias, entidades, tribunales administrativos y ayuntamientos procederán a declarar desierta la licitación, en los procedimientos que tramiten, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases de licitación.
+38.- La Secretaría de Finanzas, las dependencias, entidades, tribunales administrativos y ayuntamientos procederán a declarar desierta la licitación, en los procedimientos que tramiten, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases de licitación.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 Podrá declararse desierta una licitación parcialmente, cuando no se hubiese recibido propuesta alguna o las presentadas no reúnan los requisitos, respecto de una o varias partidas o conceptos.
 
@@ -8548,6 +8904,10 @@ I. Se hubiere declarado desierto un procedimiento de licitación; o
 II. El importe de la operación no exceda de los montos establecidos por el Presupuesto de Egresos del Gobierno del Estado de México del ejercicio correspondiente.
 
 Las dependencias, entidades, tribunales administrativos y ayuntamientos se abstendrán de fraccionar el importe de las operaciones, con el propósito de quedar comprendidos en este supuesto de excepción. La Secretaría de la Contraloría y los órganos de control interno, en el ámbito de su competencia, vigilarán el cumplimiento de esta disposición.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+En la invitación deberá especificarse si en el proceso de asignación aplicará la modalidad de subasta inversa.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8613,7 +8973,31 @@ Las dependencias, entidades, tribunales administrativos y ayuntamientos, con el 
 
 47.- Las disposiciones relativas a los procedimientos de adquisición establecidas en este capítulo serán aplicables a los arrendamientos de bienes muebles e inmuebles, con arreglo a la reglamentación de este Libro.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 13.
+
+47-BIS.- La subasta inversa electrónica es una modalidad bajo la cual pueden desahogarse los procedimientos de adquisición de bienes y contratación de servicios en los casos previstos por el presente Libro, en condiciones más favorables para el Estado.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 13.
+
+47-TER.- La modalidad de subasta inversa electrónica sólo será aplicable para los procedimientos de adquisición de aquellos bienes y servicios que se encuentren inscritos en el catálogo de bienes y servicios específicos a que se refiere el segundo párrafo del artículo 13.20.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 13.
+
+47-QUÁTER.- La subasta dará inicio en la fecha y hora señaladas en la convocatoria y se realizará en presencia de un representante del comité de adquisiciones y servicios. Una vez iniciada, los postores inscritos podrán enviar sus ofertas de descuentos, con base en el procedimiento que determine el Reglamento y de acuerdo a las diferencias mínimas que señale la convocatoria respectiva.
+
+Mediante la presentación de estas ofertas subsecuentes de descuentos, se realizará la adjudicación al postor que presente la oferta más ventajosa. Los postores no podrán modificar las especificaciones originalmente contenidas en su propuesta técnica.
+
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8657,17 +9041,15 @@ XIII. Las demás que señalen otras disposiciones legales.
 
 50.- En el procedimiento de subasta pública de bienes muebles e inmuebles, deberán establecerse los mismos requisitos y condiciones para todos los participantes.
 
-Toda persona que satisfaga los requisitos de la convocatoria y de las bases de la subasta pública, tendrá derecho a presentar posturas. La Secretaría de Administración, entidades, tribunales administrativos y ayuntamientos proporcionarán a los interesados igual acceso a la información relacionada con la subasta.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+Toda persona que satisfaga los requisitos de la convocatoria y de las bases de la subasta pública, tendrá derecho a presentar posturas. La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos proporcionarán a los interesados igual acceso a la información relacionada con la subasta.
 
-### CAPITULO SEXTO. Administración del Proyecto
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-51.- La Secretaría de Administración, entidades, tribunales administrativos y ayuntamientos, tendrán a su cargo el trámite de los procedimientos de subasta pública.
+51.- La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos, tendrán a su cargo el trámite de los procedimientos de subasta pública.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8733,11 +9115,15 @@ IX. El acta presentación, apertura y evaluación de posturas, dictamen y fallo 
 
 X. La falta de firma de algún postor no invalidará el contenido y efectos del acta.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando la subasta se realice por conducto del SEITS, se observarán los procedimientos previstos por el Código Financiero y su Reglamento.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-56.- La Secretaría de Administración, entidades, tribunales administrativos y ayuntamientos, procederán a declarar desierta la subasta pública, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases.
+56.- La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos, procederán a declarar desierta la subasta pública, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8749,17 +9135,21 @@ Las convocantes deberán comunicar la cancelación a los interesados mediante es
 
 En estos casos, la cancelación no implicará ninguna responsabilidad de carácter económico para las convocantes.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-58.- La Secretaría de Administración, entidades, tribunales administrativos y ayuntamientos podrán enajenar bienes mediante adjudicación directa en términos de la reglamentación de este Libro, cuando se hubiere declarado desierto un procedimiento de subasta pública.
+58.- La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos podrán enajenar bienes mediante adjudicación directa en términos de la reglamentación de este Libro, cuando se hubiere declarado desierto un procedimiento de subasta pública.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 13.
 
-59.- La adjudicación de los contratos derivados de los procedimientos de adquisiciones de bienes o servicios, obligará a la convocante y al licitante ganador a suscribir el contrato respectivo dentro de los diez días hábiles siguientes al de la notificación del fallo.
+59.- La adjudicación de los contratos derivados de los procedimientos de adquisiciones de bienes o servicios, obligará a la convocante y al licitante ganador a suscribir el contrato respectivo dentro de los diez días hábiles siguientes al de la notificación del fallo. Los contratos podrán suscribirse mediante el uso de la firma electrónica, en apego a las disposiciones de la Ley de Medios Electrónicos y su Reglamento.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -8781,15 +9171,13 @@ El contratista estará obligado a responder de los defectos y vicios ocultos de 
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Características Generales
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 13.
 
 62.- En los contratos se estipularán las diversas consecuencias de la cancelación, terminación anticipada o rescisión por causas imputables a la contratista.
 
-Los contratos contendrán los elementos que establezca la reglamentación de este Libro y se elaborarán conforme con los modelos que establezca la Secretaría de Administración o los ayuntamientos, en su caso.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Los contratos contendrán los elementos que establezca la reglamentación de este Libro y se elaborarán conforme con los modelos que establezca la Secretaría de Finanzas o los ayuntamientos, en su caso.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8871,6 +9259,10 @@ Es aplicable a las enajenaciones lo dispuesto en las fracciones I, III, IV, V, V
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 13.
 
 69.- Los proveedores que celebren los contratos de adquisiciones y servicios a que se refiere este Libro, deberán garantizar a favor de la contratante:
@@ -8909,7 +9301,7 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO TERCERO. Autorización del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -8935,6 +9327,10 @@ V. El proveedor suministrará los bienes y servicios en las cantidades y fechas 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO CUARTO. Análisis Costo-Beneficio
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 13.
 
 74.- Las dependencias y entidades estatales, así como los tribunales administrativos, proporcionarán a:
@@ -8947,13 +9343,13 @@ III. La Secretaria de la Contraloría y a los órganos de control interno, la in
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 13.
 
 75.- Las dependencias, entidades, tribunales administrativos y ayuntamientos conservarán, en sus archivos en forma ordenada la documentación comprobatoria de los actos, procedimientos y contratos materia de este Libro, cuando menos por el lapso de cinco años, contado a partir de la fecha de su celebración.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+La información a que se refiere el párrafo anterior, en su caso, podrá conservarse en los términos previstos por la Ley de Medios Electrónicos.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8965,23 +9361,29 @@ Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a 
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 13.
 
 77.- Las convocantes y contratantes podrán verificar, en cualquier tiempo, que los actos, procedimientos y contratos se hayan celebrado conforme a las disposiciones de este Libro; ordenar visitas de inspección a los establecimientos de los licitantes, proveedores y prestadores de servicios, y requerir los datos e informes que estime necesarios.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
+### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+
 ###### Artículo 13.
 
-78.- Los particulares que infrinjan las disposiciones contenidas en éste Libro, serán sancionadas (sic) por la Secretaría de Administración, dependencias, entidades, ayuntamientos y tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de treinta a tres mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción.
+78.- Los particulares que infrinjan las disposiciones contenidas en éste Libro, serán sancionados por la Secretaría de Finanzas, dependencias, entidades, ayuntamientos y tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de treinta a tres mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO SEXTO. Administración del Proyecto
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8990,6 +9392,10 @@ Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
 La inconformidad administrativa se presentará ante la Contraloría, por escrito o por vía electrónica, dentro de los diez días hábiles siguientes a la fecha en que se de a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación, o en su defecto al en que le haya sido notificado el fallo de adjudicación.
 
 Tratándose de procedimientos de licitación o invitación restringida que realicen las autoridades municipales, la inconformidad administrativa se presentará por escrito ante el ayuntamiento correspondiente.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Si la inconformidad se tramita por conducto del SEITS, se estará a lo dispuesto por la Ley de Medios Electrónicos y su Reglamento.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -9017,10 +9423,6 @@ El inconforme deberá adjuntar a su escrito el documento que acredite su persona
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 13.
 
 81.- La inconformidad administrativa suspenderá la contratación o en su caso la adquisición de bienes o la prestación de servicios, cuando:
@@ -9032,10 +9434,6 @@ II. Lo solicite la convocante, por considerar que de no suspender la contrataci�
 En todo caso, la suspensión se otorgará cuando no se siga perjuicio al interés social o se contravengan disposiciones de orden público.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-### CAPITULO TERCERO. Del procedimiento de licitación pública
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -9059,21 +9457,19 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS CAPITULOS, Y ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-## TITULO TERCERO. De las infracciones y sanciones de las infracciones y sanciones
+## TITULO SEGUNDO. Del Instituto
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO PRIMERO. Características Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 14.
 
-Las Zonas Navales son las áreas geográfico-marítimas determinadas por el Mando Supremo, que agrupan a Sectores Navales, unidades operativas, y establecimientos que se determinen.
+1.- Este Libro tiene por objeto, establecer las bases para la captación, generación, integración, organización y divulgación de la información e investigación geográfica, estadística y catastral en el Estado de México y establecer la estructura orgánica necesaria para el efecto.
 
-Tienen a su cargo la propuesta, preparación, conducción y apoyo logístico de las operaciones navales en su área de responsabilidad.
-
-Los Comandantes serán de la categoría de Almirante, y estarán subordinados directamente al Comandante de la Región Naval correspondiente.
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
@@ -9305,7 +9701,7 @@ V. Las personas cuya colaboración se requiera.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9551,7 +9947,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9585,7 +9981,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9623,11 +10019,11 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS CAPITULOS, Y ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO TERCERO. De las infracciones y sanciones de las infracciones y sanciones
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. Disposiciones Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9817,11 +10213,11 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS CAPITULOS, Y ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-## TITULO SEGUNDO. De los Proyectos
+## TITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO TERCERO. Del procedimiento de licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9895,17 +10291,15 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
+### CAPITULO CUARTO. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 15.
 
-Los Sectores Navales son las subdivisiones geográfico-marítimas determinadas por el Alto Mando, que tienen bajo su mando unidades operativas y establecimientos que se determinen.
+1.- El presente Libro, tiene por objeto regular la organización, funcionamiento y publicaciones del Periódico Oficial del Gobierno del Estado de México.
 
-Tienen a su cargo la propuesta, preparación y conducción de las operaciones navales dentro de su jurisdicción. Asimismo, brindan apoyo logístico a las unidades adscritas, incorporadas y destacadas bajo su mando.
-
-Los Comandantes serán de la categoría de Almirante y estarán subordinados al Mando de la Región o Zona Naval que corresponda.
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 15.
 
@@ -9963,7 +10357,7 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+### CAPITULO PRIMERO. Generalidades
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10029,7 +10423,7 @@ VII. Las actas, documentos o avisos de particulares que conforme a la ley, deban
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10073,7 +10467,7 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO TERCERO. Del procedimiento de licitación pública
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10121,7 +10515,7 @@ II.- Por errores en el texto de los documentos originales que contengan la mater
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10141,7 +10535,7 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 > <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10149,7 +10543,7 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TÍTULO TERCERO. Del modelo de Contrato
+## TITULO SEGUNDO. De los Proyectos
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10159,7 +10553,25 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 ###### Artículo 16.
 
-Las unidades operativas son aquellas con capacidades marítimas, aéreas y terrestres, que contarán con el personal naval necesario de los Cuerpos y Servicios, mediante las cuales se materializan las atribuciones de la Armada de México.
+1.- Este Libro tiene por objeto regular los actos relativos a la planeación, programación, presupuestación, autorización, adjudicación, contratación, ejecución y control de los proyectos que se lleven a cabo, en los términos de este Libro, bajo la modalidad de proyectos para prestación de servicios, así como los contratos que con ese carácter celebren, mancomunadamente o en lo individual:
+
+I. Las dependencias y organismos auxiliares de la administración pública;
+
+II. La Procuraduría General de Justicia; y
+
+III. Los ayuntamientos de los municipios del Estado, organismos auxiliares y fideicomisos públicos de los municipios, cuando los pagos a realizarse sean con cargo total o parcial a fondos estatales, conforme a los convenios que celebren con el Estado, en términos del reglamento de este Libro.
+
+También serán aplicables las disposiciones de este Libro a los particulares que participen en los procedimientos, actos o contratos regulados en este Libro.
+
+Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán las disposiciones de este Libro, en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios órganos de control.
+
+No será aplicable lo dispuesto por este Libro en los actos objeto del mismo derivados de convenios celebrados entre dependencias, entidades y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando sea parte un particular en los procedimientos o contratos respectivos.
+
+Tampoco serán aplicables las disposiciones de este Libro a contratos del sector público celebrados al amparo de cualquier otra ley o Libro de este Código que regule contrataciones gubernamentales.
+
+La Legislatura, a través de las Comisiones relacionadas con el contrato de prestación de servicios respectivo, hará el seguimiento permanente para verificar el cumplimiento de lo establecido en el Capítulo Sexto del Título Segundo, del presente Libro.
+
+> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 16.
 
@@ -10225,7 +10637,7 @@ Las disposiciones administrativas que se emitan de conformidad a la facultad pre
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO CUARTO. De los procedimientos de adjudicación
+## TÍTULO TERCERO. Del modelo de Contrato
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10445,7 +10857,7 @@ VIII. Desarrollar, administrar, supervisar, evaluar y rendir los informes necesa
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO QUINTO. De la adjudicación, celebración y aplicación de los contratos
+## TITULO CUARTO. De los procedimientos de adjudicación
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10575,7 +10987,7 @@ Cualquier modificación que pudiere surgir como resultado de las juntas de aclar
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEXTO. De la información
+## TITULO QUINTO. De la adjudicación, celebración y aplicación de los contratos
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10841,7 +11253,7 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEPTIMO. De las infracciones y sanciones
+## TITULO SEXTO. De la información
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10907,7 +11319,7 @@ En caso de incumplimiento de la Unidad Contratante y siempre que ésta dependa d
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO OCTAVO. De la Instancia de Inconformidad
+## TITULO SEPTIMO. De las infracciones y sanciones
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10933,7 +11345,7 @@ Los órganos de control interno y el Órgano Superior de Fiscalización del Esta
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEXTO. De la información
+## TITULO OCTAVO. De la Instancia de Inconformidad
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11257,12 +11669,6 @@ TERCERO.- El Consejo Estatal de Población, en la materia de su competencia, exp
 
 CUARTO.- En tanto se expida la reglamentación a que refiere el artículo anterior, se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias al presente decreto.
 
-G.G. 27 DE JULIO DE 2005.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
-
 G.G. 22 DE AGOSTO DE 2005.
 
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
@@ -11284,6 +11690,12 @@ SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 TERCERO.- El Gobernador del Estado, dictará las medidas correspondientes para la liquidación del Instituto de Genética Humana, en los términos establecidos por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
 
 CUARTO.- La Legislatura del Estado de México, a través de la Comisión de Salud, Asistencia y Bienestar Social, dará seguimiento al proceso de liquidación del Instituto de Genética Humana, informando al Pleno en un plazo de 15 días hábiles contados a partir de que entre en vigor el presente decreto, sobre la forma y características presentadas desde el inicio y hasta la conclusión del mismo.
+
+G.G. 27 DE JULIO DE 2005.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 G.G. 30 DE DICIEMBRE DE 2005.
 
@@ -11632,3 +12044,87 @@ SEXTO.- El acceso directo a la educación media superior y/o superior, estableci
 SÉPTIMO.- Lo previsto en los artículos 9 fracción IV párrafo segundo y 31 fracción XII, se realizará con estricto apego al principio constitucional de autonomía universitaria, y conforme a las disposiciones legales y reglamentarias aplicables de la Universidad Autónoma del Estado de México.
 
 OCTAVO.- Se derogan las disposiciones de igualo menor rango que se opongan a la presente Ley.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 134, POR EL QUE SE REFORMAN LOS ARTICULOS 13.4 EN SUS PARRAFOS SEGUNDO Y TERCERO, 13.5, 13.8 EN SU PARRAFO SEGUNDO, 13.11 EN SU FRACCION IV, 13.12, 13.17, 13.18 EN SU PARRAFO PRIMERO, 13.19 EN SU PARRAFO SEGUNDO, 13.20, 13.21 EN SUS PARRAFOS PRIMERO Y SEGUNDO, 13.22 EN SU PARRAFO TERCERO, 13.23 EN SU FRACCION II, 13.32, 13.33 EN SU ULTIMO PARRAFO, 13.37 EN SU PARRAFO SEGUNDO, 13.38 EN SU PARRAFO PRIMERO, 13.50 EN SU PARRAFO SEGUNDO, 13.51, 13.56, 13.58, 13.59, 13.62 EN SU PARRAFO SEGUNDO Y 13.78 EN SU PRIMER PARRAFO; Y SE ADICIONAN LAS FRACCIONES IV, V, VI, VII Y VIII AL ARTICULO 13.2; UN PARRAFO SEGUNDO AL ARTICULO 13.33; LOS PARRAFOS SEGUNDO Y TERCERO RECORRIENDOSE EL ACTUAL SEGUNDO PARA SER CUARTO AL ARTICULO 13.36; UN PARRAFO TERCERO AL ARTICULO 13.41; UNA SECCION SEXTA "DE LA SUBASTA INVERSA ELECTRONICA" AL CAPITULO SEPTIMO Y LOS ARTICULOS 13.47 BIS, 13.47 TER Y 13.47 QUATER, UN PARRAFO SEGUNDO AL ARTICULO 13.55; UN PARRAFO SEGUNDO AL ARTICULO 13.75; UN PARRAFO CUARTO AL ARTICULO 13.79; TODOS DEL LIBRO DECIMO TERCERO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrara en vigor una vez que se encuentren en servicio el SEITS y el Registro Único de Personas Acreditadas del Estado de México, en los términos del artículo Segundo Transitorio del Decreto por el que se expide la Ley para el Uso de Medios Electrónicos del Estado de México, debiendo observarse, en lo aplicable, lo dispuesto por el artículo Tercero Transitorio del propio Decreto.
+
+TERCERO.- Hasta en tanto se actualice lo dispuesto por el artículo anterior, continuarán aplicándose las disposiciones vigentes del Código Financiero.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 140, ARTICULO TERCERO POR EL QUE SE REFORMA LA FRACCION XIII Y SE ADICIONA LA FRACCION XIV AL ARTICULO 3.46 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Para el cumplimiento del presente Decreto, se implementarán de manera gradual las partidas presupuestarias, así como los programas y proyectos, a partir del ejercicio fiscal 2011.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 141, POR EL QUE SE REFORMAN LOS ARTICULOS 1.43, 1.44 Y 1.45 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 143, POR EL QUE SE REFORMAN LOS ARTICULOS 6.7 EN SU PRIMER PARRAFO Y SUS FRACCIONES VIII, XI, XIX Y XXI, 6.9 EN SU FRACCION I, 6.12 Y 6.17 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 6 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 147, POR EL QUE SE ADICIONA UN TITULO DECIMO AL LIBRO PRIMERO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO, RECORRIENDOSE LOS ACTUALES DECIMO, DECIMO PRIMERO Y DECIMO SEGUNDO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto, entrará en vigor a los sesenta días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Titular del Poder Ejecutivo en un plazo de 90 días a partir de su publicación en el Periódico Oficial "Gaceta del Gobierno" emitirá los Reglamentos correspondientes para el cumplimiento de este Decreto.
+
+CUARTO.- El Comité de Registro de Testigos Sociales establecerá y publicará las cuotas a que se refiere el artículo 1.53 del presente decreto en un plazo de 60 días contados a partir de la publicación del presente en el Periódico Oficial "Gaceta del Gobierno".
+
+QUINTO.- Las contrataciones en las que estén participando Testigos Sociales de los sujetos obligados por este Decreto, continuarán y concluirán conforme a las disposiciones legales con las que se iniciaron.
+
+SEXTO.- El Comité de Registro de Testigos Sociales entrará en funciones para otorgar registros a la entrada en vigor del presente Decreto.
+
+Las autoridades de la Universidad Autónoma del Estado de México y el Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, se organizarán para tal fin.
+
+SÉPTIMO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por este Decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 148, POR EL QUE SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, TRANSITORIO DECIMO SEGUNDO, SE DEROGA EL TITULO CUARTO DEL LIBRO PRIMERO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. El Consejo Estatal de Mejora Regulatoria y la Comisión Estatal de Mejora Regulatoria se integrarán e instalarán en un término de sesenta días naturales contados a partir de la entrada en vigor de esta Ley;
+
+CUARTO. Las Dependencias deberán informar a la Comisión Estatal, en un lapso no mayor de noventa días naturales a la instalación formal de ésta, del nombramiento de sus Enlaces de Mejora Regulatoria.
+
+QUINTO. El Registro Estatal de Trámites y Servicios deberá estar integrado en un término de noventa días naturales a partir de la entrada en vigor de esta Ley, y las disposiciones aplicables entrarán en vigor una vez que la Comisión publique en el Periódico Oficial "Gaceta de Gobierno" del Estado de México, el acuerdo de que el Registro se encuentra operando y sustituirá al Registro Estatal de Trámites Empresariales.
+
+SEXTO. El Ejecutivo Estatal expedirá los reglamentos relacionados con la Ley, en un término de noventa días naturales. Hasta en tanto se emitan dichos reglamentos, seguirán aplicándose las disposiciones reglamentarias vigentes, en todo aquello que no la contravengan.
+
+SÉPTIMO. Las dependencias estatales elaborarán y enviarán a la Comisión Estatal su respectivo Programa Anual de Mejora Regulatoria en un término de sesenta días naturales posteriores a la instalación formal de la Comisión Estatal;
+
+OCTAVO. Los municipios expedirán su propio reglamento en la materia en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor de la Ley, el cual será publicado en la Gaceta Municipal del Municipio respectivo. Concluido este plazo, las Comisiones Municipales de Mejora Regulatoria deberán integrarse e instalarse en un plazo no mayor a sesenta días naturales.
+
+NOVENO. Las dependencias municipales elaborarán y enviarán a la Comisión Municipal su respectivo Programa de Mejora Regulatoria, en un término de sesenta días naturales posteriores a su instalación formal.
+
+DÉCIMO. Los municipios establecerán sus Registros Municipales de Trámites y Servicios en un término máximo de un año.
+
+DÉCIMO PRIMERO. Todos los asuntos pendientes de resolución en materia de Mejora Regulatoria, pasarán a la Comisión Estatal una vez que ésta se haya instalado.
+
+DÉCIMO SEGUNDO. Se deroga el Título Cuarto del Libro Primero del Código Administrativo del Estado de México.
