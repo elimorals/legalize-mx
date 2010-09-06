@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ingresos-y-presupuesto-de-egresos-del-estado-de-71667"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-28"
-last_updated: "2010-05-14"
+last_updated: "2010-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2010
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 28 de diciembre de 2009.
 
@@ -35,11 +35,11 @@ LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO
 
 ## TITULO PRIMERO. DE LOS INGRESOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 1.
 
-En el ejercicio fiscal del año 2010, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $30,074,361,176.00 (Treinta mil setenta y cuatro millones trescientos sesenta y un mil ciento setenta y seis pesos 00/100 M.N.), y que son:
+En el ejercicio fiscal del año 2010, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $30,199,361,176.00 (Treinta mil ciento noventa y nueve millones trescientos sesenta y un mil ciento setenta y seis pesos 00/100 M.N.), y que son:
 
 A.- Los derivados de la aplicación de la
 
@@ -89,7 +89,7 @@ j) Por servicios y recaudación a terceros 92,164,894
 
 k) Inspección y vigilancia de obra pública directa 10,556,640
 
-I) Por el otorgamiento de licencias, permisos
+l) Por el otorgamiento de licencias, permisos
 
 autorizaciones para el funcionamiento de
 
@@ -321,15 +321,15 @@ a) Educación Pública 2,745,635,530
 
 b) Seguridad Pública 257,643,000
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO CON LA FRACCIÓN QUE LO INTEGRA, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
-D.- Ingresos Derivados de Endeudamiento 125,000,000
+D.- Ingresos Derivados de Endeudamiento 250,000,000
 
-I.- Empréstitos 125,000,000
+I.- Empréstitos 250,000,000
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
-T O T A L 30,074,361,176
+T O T A L 30,199,361,176
 
 El Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas informará al H. Congreso del Estado respecto de los ingresos reales que se obtengan en los términos y modalidades que establece la fracción VI del artículo 65 de la Constitución Política del Estado, al remitir, antes de la apertura del primero y segundo periodo ordinario de sesiones, la cuenta pública correspondiente.
 
@@ -443,11 +443,11 @@ La Secretaría estará facultada para interpretar las disposiciones del presente
 
 ### CAPITULO SEGUNDO. DE LAS EROGACIONES
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 16.
 
-El gasto neto total previsto en el presente presupuesto, importa la cantidad de $30,074,361,176.00 (Treinta mil setenta y cuatro millones trescientos sesenta y un mil ciento setenta y seis pesos 00/100 M.N.) y corresponde al total de ingresos previstos para 2010 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
+El gasto neto total previsto en el presente presupuesto, importa la cantidad de $30,199,361,176.00 (Treinta mil ciento noventa y nueve millones trescientos sesenta y un mil ciento setenta y seis pesos 00/100 M.N.) y corresponde al total de ingresos previstos para 2010 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
 
 ###### ARTÍCULO 17.
 
@@ -469,13 +469,13 @@ Atendiendo la clasificación del Presupuesto por Objeto del Gasto a nivel global
 
 Las erogaciones previstas por los Poderes, se señalan en el Anexo 5, de esta Ley.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 22.
 
-De acuerdo a la fracción VI del artículo 36 de la Ley, los recursos de Inversión Pública Directa proyectados para el ejercicio fiscal 2010, ascienden a $5,359,896,791.00 (Cinco mil trescientos cincuenta y nueve millones ochocientos noventa y seis mil setecientos noventa y un pesos 00/100 M.N.) y se asignan conforme al Anexo 6, de esta Ley.
+De acuerdo a la fracción VI del artículo 36 de la Ley, los recursos de Inversión Pública Directa proyectados para el ejercicio fiscal 2010, ascienden a $5,484,896,791.00 (Cinco mil cuatrocientos ochenta y cuatro millones ochocientos noventa y seis mil setecientos noventa y un pesos 00/100 M.N.) y se asignan conforme al Anexo 6, de esta Ley.
 
-Los ingresos derivados de endeudamiento a que se refiere el artículo 1, aparatado D, fracción I de esta Ley, y que forman parte de la cantidad señalada en el párrafo anterior, serán destinados al pago de indemnizaciones por los terrenos en donde se asientan las obras y el embalse de la Presa Picachos y otros compromisos de índole social contraídos con las comunidades afectadas, derivado de la participación correspondiente al Gobierno del Estado, en la realización de la Presa Picachos.
+Los ingresos derivados de endeudamiento a que se refiere el artículo 1, aparatado D, fracción I de esta Ley, y que forman parte de la cantidad señalada en el párrafo anterior, serán destinados al pago de indemnizaciones por los terrenos donde se asientan las obras y el embalse de la Presa Picachos y otros compromisos de índole social contraídos con las comunidades afectadas, derivado de la participación correspondiente al Gobierno del Estado, en la realización de la Presa Picachos, así como para concluir con todos los compromisos contraídos.
 
 ###### ARTÍCULO 23.
 
@@ -849,14 +849,20 @@ El Secretario de Administración y Finanzas
 
 Lic. Quirino Ordaz Coppel.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
-
 ANEXOS
 
-> <small>N. DE E. VEASE MODIFICACION A LOS ANEXOS EN EL P.O. DE 14 DE MAYO DE 2010, PAGINAS DE LA 5 A LA 13.</small>
+> <small>[N. DE E. VÉASE MODIFICACIÓN A LOS ANEXOS EN EL P.O. DE 14 DE MAYO DE 2010, PÁGINAS DE LA 5 A LA 13; P.O. 6 DE SEPTIEMBRE DE 2010; PÁGINAS DE LA 5 A LA 9.]</small>
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 14 DE MAYO DE 2010.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 6 DE SEPTIEMBRE DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 712 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2010; Y SE AUTORIZA AL GOBIERNO DEL ESTADO POR CONDUCTO DEL EJECUTIVO ESTATAL, PARA QUE GESTIONE Y CONTRATE CON LA INSTITUCIÓN FINANCIERA QUE MEJORES CONDICIONES DE MERCADO OFREZCA, UN CRÉDITO VÍA EMPRÉSTITO POR LA CANTIDAD DE $125´000,000.00”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo. Cuando el Gobierno Federal realice la aportación de los recursos establecidos en los diversos convenios celebrados para la realización de las obras de la Presa Picachos, estos serán aplicados por el Gobierno del Estado para la liquidación del crédito que se autoriza mediante el presente Decreto.
