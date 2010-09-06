@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2008-11-20"
+last_updated: "2010-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -89,7 +89,11 @@ IX. Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar
 
 X. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XI. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Sistema Estatal: El Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
 XII. CEMYBS: Consejo Estatal de la Mujer y Bienestar Social;
 
@@ -323,7 +327,7 @@ III. La satisfacción: Son las medidas que buscan una reparación orientada a re
 
 Entre las medidas a adoptar se encuentran:
 
-a) El diseño e instrumentación de políticas publicas integrales que eviten la comisión de delitos contra las mujeres; y
+a) El diseño e instrumentación de políticas públicas integrales que eviten la comisión de delitos contra las mujeres; y
 
 b) La verificación de los hechos y la publicidad de la verdad.
 
@@ -399,43 +403,45 @@ Las Políticas de Gobierno que los Órganos de la Administración Pública del E
 
 Los Gobiernos Estatal y Municipales se coordinarán para la Integración y funcionamiento del Sistema Estatal, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres y las niñas. El Sistema Estatal estará en coordinación con el Sistema Nacional y deberá crear los mecanismos para recabar, de manera homogénea, la información sobre la violencia contra las mujeres, e integrarla al Banco Estatal de Datos e Información sobre casos de violencia de género, así como a los Diagnósticos Estatal y Nacional sobre todas las formas de violencia contra las mujeres y las niñas en todos los ámbitos. Todas las medidas que lleven a cabo los Gobiernos Estatal y Municipales deberán realizarse sin discriminación alguna. Por ello, considerarán el Idioma, la edad, la condición social y económica, la condición étnica, la preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas de gobierno en la materia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 35.
 
-El Sistema Estatal se conformará por las y los titulares de:
+El Sistema Estatal se conformará por las y los representantes de:
 
-l. La Secretaría General de Gobierno, quien lo presidirá;
+I. La Secretaría General de Gobierno, que fungirá como Presidente;
 
-II. La Secretaría de Finanzas;
+II. El CEMyBS, que se hará cargo de la Secretaría Ejecutiva del Sistema;
 
-III. La Secretaría Salud;
+III. Todas las dependencias de la administración pública estatal;
 
-IV. La Secretaría del Trabajo;
+IV. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-V. La Secretaría de Educación;
+V. El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
 
-VI. La Secretaría de Desarrollo Social;
+VI. La Agencia de Seguridad Estatal;
 
-VII. La Secretaría de Turismo;
+VII. El Instituto Mexiquense de la Juventud;
 
-VIII. La Secretaría del Medio Ambiente;
+VIII. El Instituto Mexiquense contra las Adicciones;
 
-IX. El Sistema Estatal para el Desarrollo Integral de la Familia;
+IX. El Instituto Mexiquense del Emprendedor;
 
-X. El Consejo Estatal de la Mujer y Bienestar Social, cuya titular se hará cargo de la Secretaría Ejecutiva del Sistema;
+X. El Poder Judicial;
 
-XI. La Procuraduría General de Justicia del Estado de México;
+XI. La Comisión Legislativa de Equidad y Género de la Legislatura;
 
-XII. La Agencia de Seguridad Estatal;
+XII. Los organismos autónomos;
 
-XIII. El Poder Judicial;
+XIII. La Universidad Autónoma del Estado de México;
 
-XIV. La Comisión Estatal de Derechos Humanos;
+XIV. Dos mujeres representantes de organizaciones civiles especializadas en los Derechos Humanos de las Mujeres; y
 
-XV. Los Organismos y dependencias instituidos en el ámbito Municipal para la protección de los derechos de las mujeres;
+XV. Dos mujeres representantes de instituciones de investigación especializadas en equidad de género.
 
-XVI. Cuatro mujeres representantes de organizaciones civiles especializadas en los Derechos Humanos de las Mujeres; y
-
-XVII. Dos mujeres representantes de Instituciones de Investigación especializadas en equidad de género.
+Las instituciones que gocen de autonomía por mandato constitucional, participarán en estricto apego a las disposiciones legales que las rijan.
 
 ###### Artículo 36.
 
@@ -449,7 +455,7 @@ III. La reeducación de las personas que la ejercen en los términos previstos e
 
 IV. El suministro, el intercambio y la sistematización de todo tipo de información en la materia;
 
-V. Las acciones conjuntas para la protección de las mujeres victimas de violencia de género de conformidad con las disposiciones legales e instrumentos en la materia; y
+V. Las acciones conjuntas para la protección de las mujeres víctimas de violencia de género de conformidad con las disposiciones legales e instrumentos en la materia; y
 
 VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
@@ -699,7 +705,7 @@ III. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres 
 
 IV. Garantizar el derecho de las niñas y mujeres a la educación: a la alfabetización y al acceso, permanencia y conclusión de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
 
-V. Desarrollar investigaciones multidisciplinarias encaminadas a crear modelos de detección de la violencia contra tas niñas y las mujeres en los centros educativos;
+V. Desarrollar investigaciones multidisciplinarias encaminadas a crear modelos de detección de la violencia contra las niñas y las mujeres en los centros educativos;
 
 VI. Formar, especializar y actualizar de manera constante al personal docente en Derechos Humanos;
 
@@ -781,7 +787,7 @@ V. Dictar las medidas para que las mujeres víctimas rindan su declaración en e
 
 VI. Otorgar a las víctimas copia del expediente iniciado por motivo de la violencia;
 
-VII. Solicitar la tutela, guarda y custodia de la víctima, a favor de cualquier persona que tenga con ella parentesco por consanguinidad, por afinidad o civil, de manera preferente al derecho que la persona agresora tenga, cuando la víctima sea niña y/o mujer con discapacidad y/o que no cuenten con las condiciones necesarias para valerse por si mismas y ejercer sus derechos;
+VII. Solicitar la tutela, guarda y custodia de la víctima, a favor de cualquier persona que tenga con ella parentesco por consanguinidad, por afinidad o civil, de manera preferente al derecho que la persona agresora tenga, cuando la víctima sea niña y/o mujer con discapacidad y/o que no cuenten con las condiciones necesarias para valerse por sí mismas y ejercer sus derechos;
 
 VIII. Adecuar o crear modelos de atención que favorezcan el empoderamiento de la víctima y reparen el daño causado por la violencia, acorde con los lineamientos señalados en la Ley;
 
@@ -1133,7 +1139,7 @@ En un marco de coordinación el Titular del Ejecutivo Estatal y la Legislatura d
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los treinta y un días del mes de julio del año dos mil ocho.- Presidente.- Dip. Carlos Alberto Cadena Ortíz de Montellano.- Secretarios.- Dip. Guillermina Casique Vences.- Dip. Carla Bianca Grieger Escudero.- Dip. Oscar Guillermo Ceballos González.- RúbrIcas.
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los treinta y un días del mes de julio del año dos mil ocho.- Presidente.- Dip. Carlos Alberto Cadena Ortíz de Montellano.- Secretarios.- Dip. Guillermina Casique Vences.- Dip. Carla Bianca Grieger Escudero.- Dip. Oscar Guillermo Ceballos González.- Rúbricas.
 
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
@@ -1150,3 +1156,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 6 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y los Sistemas Municipales, referidos en esta Ley, se integrarán dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+CUARTO.- El Programa Integral a que se refiere la presente Ley, deberá expedirse dentro de los noventa días hábiles posteriores a la instalación del Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+QUINTO.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven de la presente Ley, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y organismos auxiliares de los Poderes Ejecutivo, Legislativo y Judicial, municipios, órganos autónomos y la Universidad Autónoma del Estado de México.
+
+> <small>(F. DE E., G.G. 12 DE NOVIEMBRE DE 2010)</small>
+
+SEXTO.- El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres seguirá funcionando de conformidad con las disposiciones anteriores al presente Decreto, en tanto se da cumplimiento al artículo Tercero Transitorio de este Decreto.
