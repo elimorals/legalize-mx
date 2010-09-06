@@ -1,0 +1,590 @@
+---
+title: "LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MEXICO"
+identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
+country: "mx"
+rank: "ley"
+publication_date: "2010-09-06"
+last_updated: "2010-09-06"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mex"
+scjn_id: "76530"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "43 SECCION TERCERA"
+reform_count: "14"
+scjn_last_update: "2026-03-27"
+issue_date: "2010-09-06"
+state: "MEX"
+---
+# LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MEXICO
+
+LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MEXICO
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
+
+PODER EJECUTIVO DEL ESTADO
+
+ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NÚMERO 145
+
+LA H. "LVII" LEGISLATURA DEL ESTADO DE MÉXICO
+
+DECRETA:
+
+###### ARTÍCULO PRIMERO.
+
+Se expide la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México, para quedar como sigue:
+
+LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+Esta Ley es de orden público, interés social y de observancia general en el Estado de México, tiene por objeto regular, proteger y garantizar la igualdad de trato y oportunidades entre mujeres y hombres, mediante la eliminación de la discriminación, sea cual fuere su circunstancia o condición, en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres, con el propósito de alcanzar una sociedad más democrática, justa, equitativa y solidaria.
+
+###### Artículo 2.
+
+La aplicación de esta Ley corresponde a las autoridades estatales y municipales, de conformidad con sus respectivas competencias debiendo tomar las medidas presupuestales y administrativas para garantizar la igualdad de trato y oportunidades entre mujeres y hombres.
+
+###### Artículo 3.
+
+La rectoría y operación de la política en materia de igualdad en el Estado, estará a cargo del Ejecutivo Estatal, quien la ejercerá a través del Consejo Estatal de la Mujer y Bienestar Social, en términos de las disposiciones de esta Ley y sin perjuicio de las competencias que tengan atribuidas otras dependencias.
+
+###### Artículo 4.
+
+Los principios rectores de esta Ley son:
+
+I. La igualdad de trato y oportunidades entre mujeres y hombres;
+
+II. La equidad de género;
+
+III. El respeto a la dignidad humana;
+
+IV. La no discriminación;
+
+V. El empoderamiento de la mujer;
+
+VI. La transversalidad; y
+
+VII. Los establecidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales ratificados por el Estado Mexicano, la legislación federal, la Constitución Política del Estado Libre y Soberano de México.
+
+###### Artículo 5.
+
+En lo no previsto en esta Ley se aplicarán en forma supletoria las disposiciones contenidas en:
+
+I. La Ley General para la Igualdad entre Mujeres y Hombres;
+
+II. La Ley para Prevenir, Combatir y Eliminar Actos de Discriminación en el Estado de México;
+
+III. La Ley de la Comisión de Derechos Humanos del Estado de México;
+
+IV. La Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México;
+
+V. Ley para la Prevención y Erradicación de la Violencia Familiar del Estado de México; y
+
+VI. Los demás ordenamientos aplicables en la materia.
+
+###### Artículo 6.
+
+Para los efectos de esta Ley se entenderá por:
+
+I. Acciones Afirmativas: Al conjunto de medidas especiales de carácter temporal, correctivo, compensatorio y de promoción, encaminadas a acelerar la igualdad de trato y oportunidades entre mujeres y hombres;
+
+II. CEMyBS: Al Consejo Estatal de la Mujer y Bienestar Social;
+
+III. Conciliación entre vida familiar y laboral: A la implementación de esquemas y mecanismos que permitan a trabajadores y patrones, convenir horarios y espacios laborales de tal forma que se incrementen las probabilidades de compatibilidad entre las exigencias laborales y las familiares;
+
+IV. Discriminación: A cualquier forma de preferencia, distinción, exclusión, repudio, desprecio, incomprensión, rechazo o restricción que, basada en el origen étnico o nacional, sexo, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, predilecciones de cualquier índole, estado civil o alguna otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato de las personas, tales como:
+
+Discriminación directa por razón de sexo: Es la originada por disposiciones, criterios o prácticas que pone a personas de un sexo en desventaja particular con respecto a personas del otro. Se exceptúan de esta las disposiciones, criterios o prácticas que se justifiquen objetivamente con una finalidad legítima, como en el caso de las acciones afirmativas.
+
+Discriminación indirecta por razón de sexo: Es aquella en la que se establecen condiciones formalmente neutras respecto al sexo pero que resultan desfavorables para algunos de los sujetos de esta Ley; y además carecen de una causa suficiente, objetiva, razonable y justificada.
+
+Discriminación por embarazo o maternidad: modalidad de la discriminación por razón de sexo, que se constituye como un trato desfavorable a las mujeres relacionado con el embarazo como hecho biológico o la maternidad como hecho cultural, que trae como consecuencia un trato desigual que limita su acceso al pleno goce y ejercicio de sus derechos fundamentales;
+
+V. Ejecutivo Estatal: Al Titular del Poder Ejecutivo del Estado de México;
+
+VI. Empoderamiento: Al proceso por medio del cual, las personas, transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión, a un estado de conciencia, autodeterminación y autonomía;
+
+VII. Equidad de Género: Al reconocimiento de condiciones y aspiraciones diferenciadas para lograr el ejercicio de iguales derechos y oportunidades para mujeres y hombres; asimismo, a la implementación de mecanismos de justicia distributiva, tales como las acciones afirmativas que aseguran el acceso y disfrute igualitario a bienes, recursos y decisiones;
+
+VIII. Estereotipo: A las características y funciones que se asignan a cada sexo en base a roles e identidades socialmente asignados por prejuicios a las mujeres y hombres;
+
+IX. Gobierno Estatal: Al Gobierno del Estado de México, que se integra con los poderes Ejecutivo, Legislativo y Judicial;
+
+X. Igualdad de trato y oportunidades entre mujeres y hombres: A la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo;
+
+XI. Lenguaje no sexista: Aquél que evita estereotipos, usos y expresiones que refuercen actitudes de desigualdad entre mujeres y hombres;
+
+XII. Ley: A la Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México;
+
+XIII. Perspectiva de Género: A la visión científica, analítica y política sobre las mujeres y los hombres, en que se propone la eliminación de las causas de opresión de género como la desigualdad, injusticia y jerarquización de las personas basada en el género; promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres, contribuye a construir una sociedad en la cual, las mujeres y los hombres tengan el mismo valor, igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+XIV. Programa Integral: Al Programa Integral para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XV. Responsabilidad Compartida: A la distribución equilibrada en el seno del hogar de las tareas domésticas, el cuidado de personas dependientes, los espacios de educación y trabajo, permitiendo a sus miembros el libre y pleno desarrollo de opciones e intereses;
+
+XVI. Sistema Estatal: Al Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XVII. Sistema Municipal: Al Sistema Municipal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XVIII Transversalidad: Al proceso que permite garantizar la incorporación de la perspectiva de género, con el objetivo de valorar las implicaciones que tiene para las mujeres y hombres, cualquier acción que se programe, tratándose de legislación, políticas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas; y
+
+XIX. Organismos autónomos: A los órganos u organismos previstos con ese carácter, por la Constitución Política del Estado Libre y Soberano de México.
+
+### CAPÍTULO SEGUNDO. DE LA POLÍTICA ESTATAL EN MATERIA DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
+
+###### Artículo 7.
+
+Serán objetivos de la Política Estatal en materia de igualdad de trato y oportunidades entre mujeres y hombres, que desarrollen las autoridades estatales y municipales, los siguientes:
+
+I. Aplicar el principio de igualdad de trato y oportunidades en la interpretación y aplicación de las normas jurídicas, así como en las políticas públicas;
+
+II. Fomentar la igualdad de trato y oportunidades entre mujeres y hombres en los ámbitos público y privado;
+
+III. Garantizar que en la planeación presupuestal se incorpore la perspectiva de género, se apoye la transversalidad y se prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad de trato y oportunidades entre mujeres y hombres;
+
+IV. Impulsar el uso de un lenguaje no sexista en los ámbitos público y privado;
+
+V. Implementar acciones de prevención y atención de prácticas que fomenten la desigualdad entre mujeres y hombres;
+
+VI. Implementar acciones afirmativas en el ámbito público y privado para garantizar la igualdad de trato y oportunidades entre mujeres y hombres;
+
+VII. Promover la eliminación de estereotipos establecidos en función del sexo;
+
+VIII. Diseñar e introducir los indicadores y mecanismos necesarios que permitan el conocimiento de los roles, situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres para la generación de políticas públicas en materia de igualdad de trato y oportunidades;
+
+IX. Promover la igualdad de género y la flexibilidad para el desarrollo de todas las actividades de las personas que dividen su tiempo entre la educación, el empleo remunerado y las responsabilidades familiares; y
+
+X. Los demás que sean necesarios para el cumplimiento de su objeto.
+
+###### Artículo 8.
+
+Son instrumentos de la Política Estatal en materia de igualdad entre mujeres y hombres, los siguientes:
+
+I. El Sistema Estatal;
+
+II. Los Sistemas Municipales;
+
+III. El Programa Integral; y
+
+IV. El Modelo de Equidad de Género del Estado.
+
+### CAPÍTULO TERCERO
+
+SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+###### Artículo 9.
+
+El Sistema Estatal es el órgano de planeación, seguimiento, evaluación y monitoreo de las acciones afirmativas y políticas públicas en materia de igualdad de trato y oportunidades entre mujeres y hombres.
+
+###### Artículo 10.
+
+El Sistema Estatal tendrá las siguientes atribuciones:
+
+I. Vigilar el cumplimiento de esta Ley;
+
+II. Velar por la igualdad de trato y oportunidad entre mujeres y hombres, en los ámbitos público, social y privado;
+
+III. Fomentar la igualdad de trato y oportunidades entre mujeres y hombres para contribuir al abatimiento de todo tipo de discriminación;
+
+IV. Contribuir al empoderamiento de las mujeres;
+
+V. Promover el desarrollo de acciones y programas que fomenten la igualdad de trato y oportunidades entre mujeres y hombres;
+
+VI. Proponer acciones afirmativas para garantizar un estado de igualdad de trato y oportunidades entre mujeres y hombres;
+
+VII. Coadyuvar a la modificación de estereotipos que discriminen y fomenten la violencia de género;
+
+VIII. Realizar el seguimiento y evaluación de la aplicación en el Estado y sus municipios, de la Ley, en armonización con los instrumentos internacionales en la materia;
+
+IX. Impulsar la capacitación en materia de igualdad de trato y oportunidades entre mujeres y hombres, a las autoridades encargadas de la procuración y administración de justicia;
+
+X. Establecer mecanismos para la cooperación y los intercambios de información sobre los derechos humanos y de igualdad entre hombres y mujeres, con organizaciones e instituciones nacionales o internacionales;
+
+XI. Impulsar las reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la desigualdad de trato y oportunidades entre mujeres y hombres, en los ámbitos público y privado;
+
+XII. Promover la aplicación de los instrumentos internacionales, leyes federales y estatales, vinculadas con la igualdad de trato y oportunidades entre mujeres y hombres;
+
+XIII. Recibir información sobre medidas y actividades que ponga en marcha la administración pública estatal y municipal, en materia de igualdad de trato y oportunidades entre mujeres y hombres;
+
+XIV. Evaluar el impacto en la sociedad, de las políticas y acciones en materia de igualdad de trato y oportunidades entre mujeres y hombres;
+
+XV. Proponer la realización de estudios, informes técnicos y diagnósticos sobre la igualdad de trato y oportunidades entre mujeres y hombres en la Entidad;
+
+XVI. Expedir las disposiciones reglamentarias relativas a su funcionamiento;
+
+XVII. Difundir información sobre los diversos aspectos relacionados con la igualdad de trato y oportunidades entre mujeres y hombres;
+
+XVIII. Proponer los lineamientos generales en materia de igualdad al Ejecutivo, para la elaboración del Plan Estatal de Desarrollo; y
+
+XIX. Las demás que sean necesarias para el cumplimiento de su objeto.
+
+###### Artículo 11.
+
+El Sistema Estatal se integrará por los representantes de las instancias siguientes:
+
+I. La Secretaría General de Gobierno, que fungirá como Presidente;
+
+II. El CEMyBS, que se hará cargo de la Secretaría Ejecutiva del Sistema;
+
+III. Todas las dependencias de la administración pública estatal;
+
+IV. El Sistema Estatal para el Desarrollo Integral de la Familia;
+
+V. El Consejo Estatal para el Desarrollo Integral de los Pueblos Indígenas del Estado de México;
+
+VI. La Agencia de Seguridad Estatal;
+
+VII. El Instituto Mexiquense de la Juventud;
+
+VIII. El Instituto Mexiquense contra las Adicciones;
+
+IX. El Instituto Mexiquense del Emprendedor;
+
+X. El Poder Judicial;
+
+XI. La Comisión Legislativa de Equidad y Género de la Legislatura;
+
+XII. Los organismos autónomos;
+
+XIII. La Universidad Autónoma del Estado de México;
+
+XIV. Dos mujeres representantes de organizaciones civiles especializadas en los Derechos Humanos de las Mujeres; y
+
+XV. Dos mujeres representantes de instituciones de investigación especializadas en equidad de género.
+
+Las instituciones que gocen de autonomía por mandato constitucional, participarán en estricto apego a las disposiciones legales que las rijan.
+
+###### Artículo 12.
+
+El Sistema Estatal sesionará de manera ordinaria por lo menos una vez cada cuatro meses.
+
+El Sistema Estatal podrá sesionar de manera extraordinaria cuando sea necesario, a petición de cualquiera de los integrantes del mismo, previa aprobación del Presidente y convocatoria que emita la Secretaría Ejecutiva.
+
+###### Artículo 13.
+
+Las convocatorias a las sesiones ordinarias se notificarán a los integrantes del Sistema Estatal cuando menos con cinco días hábiles de anticipación a la fecha programada, mediante convocatoria por escrito que deberá de especificar la sede, fecha y hora de la Sesión, debiendo acompañarse el Orden del Día y, en su caso, la documentación correspondiente.
+
+En los mismos términos se notificarán las convocatorias para las sesiones extraordinarias, con al menos cuarenta y ocho horas de anticipación a su celebración.
+
+###### Artículo 14.
+
+Por cada miembro propietario, se nombrará un suplente quien suplirá al propietario en caso de ausencia. Los integrantes del Sistema Estatal contarán con voz y voto en los asuntos que se sometan a la consideración del mismo, a excepción de la Secretaría Ejecutiva que sólo contará con voz.
+
+###### Artículo 15.
+
+El Sistema Estatal podrá sesionar cuando asista el cincuenta por ciento más uno de sus integrantes y se cuente con la presencia del Presidente o quien lo supla y la Secretaría Ejecutiva.
+
+Los acuerdos del Sistema Estatal serán tomados por unanimidad o mayoría de votos de sus integrantes. En caso de empate el Presidente tendrá voto de calidad.
+
+###### Artículo 16.
+
+En caso que las sesiones ordinarias o extraordinarias no se lleven a cabo el día y hora señalados por falta de quórum, se tendrá por emitida la segunda convocatoria para su desahogo, a los treinta minutos posteriores a la hora programada en la primera convocatoria.
+
+###### Artículo 17.
+
+En cada sesión del Sistema Estatal, la Secretaría Ejecutiva levantará un acta, que será firmada por los integrantes asistentes, en la cual se hará constar el lugar, fecha, inicio y clausura de la sesión, nombre de los asistentes, así como una narración ordenada y sucinta de la reunión y de los acuerdos tomados.
+
+###### Artículo 18.
+
+De conformidad con la presente Ley, cada Ayuntamiento de la Entidad deberá constituir su respectivo Sistema Municipal; dichos sistemas se integrarán con el número de miembros de acuerdo a las circunstancias de cada Municipio, debiendo participar el Presidente Municipal.
+
+Los acuerdos tomados en sesiones ordinarias o extraordinarias de los Sistemas Municipales, se harán del conocimiento de la Secretaría Ejecutiva del Sistema Estatal para su registro y seguimiento.
+
+###### Artículo 19.
+
+Los Sistemas Municipales deberán coordinarse con el Sistema Estatal, con la finalidad de definir las bases para el seguimiento y evaluación del Programa Integral.
+
+### CAPÍTULO CUARTO. DEL PROGRAMA INTEGRAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+
+###### Artículo 20.
+
+El Programa Integral, es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar los integrantes del Sistema Estatal, en el corto, mediano y largo plazo, tomando en cuenta las necesidades y particularidades específicas de la desigualdad en los ámbitos público y privado, así como en las zonas rurales y urbanas con el propósito de erradicarla.
+
+###### Artículo 21.
+
+El Programa Integral deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal, a través del CEMyBS, señalando los objetivos y estrategias para alcanzar la igualdad de trato y oportunidades entre mujeres y hombres, en términos de lo previsto por esta Ley, por lo que deberá:
+
+I. Establecer las líneas de acción prioritarias y metas para lograr la igualdad de trato y oportunidades entre mujeres y hombres; y
+
+II. Promover la inclusión del principio de transversalidad en los programas sectoriales, regionales, municipales y en su caso, especiales.
+
+###### Artículo 22.
+
+El Sistema Estatal revisará y evaluará el Programa Integral y de ser necesario, formulará las modificaciones respectivas.
+
+###### Artículo 23.
+
+El Presidente del Sistema Estatal deberá rendir un informe anual ante los miembros del mismo, que contendrá el estado que guarda la ejecución del Programa Integral, así como las demás acciones relativas al cumplimiento de lo establecido en la Ley.
+
+###### Artículo 24.
+
+Para efectos de dar cumplimiento al artículo anterior, los integrantes del Sistema Estatal coadyuvarán en la realización de dicho informe.
+
+### CAPÍTULO QUINTO. DE LAS AUTORIDADES ESTATALES
+
+###### Artículo 25.
+
+Son atribuciones del Ejecutivo Estatal, las siguientes:
+
+I. Formular, conducir, implementar y evaluar la Política Estatal en materia de Igualdad de trato y oportunidades entre mujeres y hombres;
+
+II. Implementar programas, proyectos, acciones e instrumentos que garanticen la adopción de acciones afirmativas en materia de Igualdad de trato y oportunidades entre mujeres y hombres;
+
+III. Incorporar en el Presupuesto de Egresos del Estado, la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad de trato y oportunidades entre mujeres y hombres;
+
+IV. Promover la participación de la sociedad en la planeación, diseño, aplicación y evaluación de los programas y acciones de la Política Estatal en materia de Igualdad de trato y oportunidades entre mujeres y hombres; y
+
+V. Las demás necesarias para el cumplimiento del objeto de la Ley y las que le confieran otras disposiciones.
+
+###### Artículo 26.
+
+Son atribuciones del CEMyBS, las siguientes:
+
+I. Coordinar, instrumentar y fomentar las acciones afirmativas que posibiliten la no discriminación, la Igualdad de trato y oportunidades entre mujeres y hombres y la transversalidad de la perspectiva de género en los ámbitos público, social y privado;
+
+II. Promover, coordinar y realizar la revisión de programas y servicios en materia de Igualdad de trato y oportunidades entre mujeres y hombres;
+
+III. Fomentar instrumentos de colaboración entre autoridades estatales, autoridades municipales, organizaciones no gubernamentales y empresas privadas, para la implementación efectiva de la Igualdad de trato y oportunidades entre mujeres y hombres que consagra esta Ley;
+
+IV. Coordinar la elaboración y aplicación del Programa Integral;
+
+V. Impulsar la participación de la sociedad civil en la promoción de la igualdad de trato y oportunidades entre mujeres y hombres;
+
+VI. Integrar y mantener actualizado un sistema de información para conocer la situación que guarda la igualdad de trato y oportunidades entre hombres y mujeres en la Entidad, y el efecto de las políticas públicas aplicadas en esta materia;
+
+VII. Difundir el contenido de la Ley, así como traducirla en las lenguas indígenas habladas en el Estado, con la participación de las instancias competentes;
+
+VIII. Elaborar y presentar ante el Sistema Estatal, en cada sesión ordinaria, un informe de las actividades realizadas relacionadas con el Programa Integral; y
+
+IX. Las demás que sean necesarias para cumplir el objeto de esta Ley y las que le confieran otros ordenamientos jurídicos.
+
+### CAPÍTULO SEXTO. DEL PODER LEGISLATIVO
+
+###### Artículo 27.
+
+En materia de Igualdad de trato y oportunidades entre mujeres y hombres, el Poder Legislativo deberá:
+
+I. Expedir las disposiciones legales necesarias para promover los principios, políticas y objetivos que establece esta Ley;
+
+II. Propiciar reformas a las disposiciones legales cuyas disposiciones constituyan discriminación, así como para abatir usos y prácticas discriminatorias, buscando que los sectores públicos, social y privado actúen de conformidad con los principios de la Ley;
+
+III. Institucionalizar la perspectiva de género para favorecer las prácticas igualitarias; y
+
+IV. Las demás que sean necesarias para cumplir el objeto de esta Ley y las que le confieran otros ordenamientos jurídicos.
+
+### CAPÍTULO SÉPTIMO. DEL PODER JUDICIAL
+
+###### Artículo 28.
+
+El Poder Judicial aplicará los principios y lineamientos que contempla la Ley y procurará:
+
+I. Que sus resoluciones se apeguen al contenido de los instrumentos internacionales suscritos y ratificados por el Estado Mexicano, en materia de igualdad de trato y oportunidades entre mujeres y hombres; y
+
+II. Que se institucionalice al interior del Poder Judicial la perspectiva de género para favorecer las prácticas igualitarias.
+
+### CAPÍTULO OCTAVO. DE AYUNTAMIENTOS
+
+###### Artículo 29.
+
+Corresponde a los Ayuntamientos, el ejercicio de las atribuciones siguientes:
+
+I. Diseñar, implementar y evaluar políticas municipales en materia de Igualdad de trato y oportunidades entre mujeres y hombres, en concordancia con la Política Estatal y Nacional;
+
+II. Coadyuvar con el Ejecutivo Estatal, en la consolidación de los programas en materia de Igualdad de trato y oportunidades entre mujeres y hombres;
+
+III. Elaborar el Presupuesto de Egresos de los Ayuntamientos con enfoque de género, incorporando la asignación de recursos para el cumplimiento en el ámbito de su competencia, de las políticas de Igualdad de trato y oportunidades entre mujeres y hombres;
+
+IV. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo que promuevan la Igualdad de trato y oportunidades entre mujeres y hombres;
+
+V. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad de trato y oportunidades entre mujeres y hombres, tanto en las áreas urbanas como en las rurales; y
+
+VI. Las demás que sean necesarias para cumplir el objeto de esta Ley y las que le confieran otros ordenamientos jurídicos.
+
+### CAPÍTULO NOVENO. DE LA IGUALDAD EN LOS DIVERSOS ÁMBITOS
+
+###### Artículo 30.
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán garantizar la igualdad de trato y oportunidades entre mujeres y hombres en la vida económica y laboral, vigilando que las personas físicas y jurídicas colectivas, generadoras de empleo den cumplimiento a la Ley, para lo cual adoptarán medidas dirigidas a erradicar cualquier tipo de discriminación laboral entre mujeres y hombres, desarrollando las siguientes acciones:
+
+I. Impulsar liderazgos igualitarios;
+
+II. Promover políticas públicas de empleo que tengan como objetivo prioritario aumentar la participación de las mujeres en el mercado laboral y avanzar en la igualdad de trato y oportunidades entre mujeres y hombres, para ello, se deberán implementar acciones afirmativas para mejorar las oportunidades a las mujeres, así como su permanencia, potenciando su nivel formativo y su adaptación a los requerimientos del mercado de trabajo;
+
+III. Promover el uso de un lenguaje no sexista en anuncios de vacantes u ofertas de trabajo, libres de cualquier tipo de expresión discriminatoria;
+
+IV. Fomentar la integración de políticas públicas con perspectiva de género en materia económica;
+
+V. Implementar acciones afirmativas para reducir los factores que relegan la incorporación de las personas al ámbito laboral, en razón de su sexo a fin de erradicarlos;
+
+VI. Fomentar el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos y generar los mecanismos necesarios para su capacitación;
+
+VII. Garantizar que en su Programa Operativo Anual se especifique una partida presupuestaria para el debido cumplimiento de la Ley;
+
+VIII. Crear mecanismos de coordinación con la iniciativa privada, a efecto de fomentar la igualdad de trato y oportunidades entre hombres y mujeres que laboran en ese sector;
+
+IX. Evitar la segregación de las personas por razón de su sexo, del mercado de trabajo y eliminar las diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres, incluido el doméstico;
+
+X. Realizar campañas que fomenten la contratación de mujeres para hacer efectiva la igualdad de trato y oportunidades entre mujeres y hombres en los ámbitos público, social y privado;
+
+XI. Implementar en coordinación con las autoridades competentes medidas destinadas a abatir cualquier tipo de discriminación, violencia, hostigamiento o acoso por razón de sexo;
+
+XII. Promover investigaciones con perspectiva de género en materia de salud y de seguridad en el trabajo;
+
+XIII. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en sus procesos de selección, contratación y ascensos;
+
+XIV. Proponer en el ámbito de su competencia, el otorgamiento de estímulos de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas que incorporen medidas innovadoras para propiciar la igualdad de trato y oportunidades en sus organizaciones y que proporcionen servicios que faciliten la conciliación de la vida familiar y laboral del personal a su cargo;
+
+XV. Garantizar medidas de apoyo para lograr la inserción laboral de personas en situación de exclusión social, que sufran violencia de género, que tengan alguna enfermedad grave, incurable y mortal, cuenten con alguna discapacidad, hayan ejercido la prostitución, sean inmigrantes, indígenas, adultos mayores, que hayan sido condenadas por la comisión de un delito o en general, aquellas que han sido objeto de discriminación;
+
+XVI. Promover que al interior de los ámbitos público y privado, se apliquen instrumentos de medición de diversos tópicos en materia de igualdad, para conocer el grado de satisfacción de los empleados en su respectivo espacio laboral; y
+
+XVII. Mejorar los sistemas estatales de inspección del trabajo, en lo que se refiere a las normas de igualdad de retribución.
+
+###### Artículo 31.
+
+La autoridades estatales y municipales propondrán los mecanismos de operación adecuados para la participación equitativa entre mujeres y hombres en la vida política estatal, desarrollando las acciones siguientes:
+
+I. Vigilar el cumplimiento de las leyes que tengan por objeto la participación de las mujeres en la vida política estatal;
+
+II. Promover la participación justa y equitativa de mujeres y hombres en el Gobierno Estatal y Municipal para que ocupen cargos de nivel directivo, en razón de sus capacidades, actitudes y aptitudes;
+
+III. Desarrollar y actualizar estadísticas desagregadas por sexo, que informen sobre la ocupación de puestos decisorios o cargos directivos en el sector público de hombres y mujeres, con la finalidad de impulsar la igualdad de oportunidades;
+
+IV. Fomentar la elaboración de programas de formación y capacitación para apoyar el surgimiento y consolidación de las organizaciones de mujeres y promover su participación activa en organizaciones sociales, políticas, empresariales y estudiantiles;
+
+V. Promover la colaboración de mujeres en las instancias de participación estatal y municipal incluyéndolas en la búsqueda de soluciones a los problemas e intereses del Estado de México;
+
+VI. Impulsar campañas de difusión, estrategias, programas, proyectos, actividades de sensibilización y capacitación que fortalezcan una democracia donde la participación política igualitaria entre mujeres y hombres sea el fundamento del desarrollo sostenible y de la paz social; y
+
+VII. Promover que al interior de las dependencias se modifiquen sus lineamientos para facilitar el ascenso de las mujeres a puestos de liderazgo y toma de decisiones.
+
+###### Artículo 32.
+
+Para lograr la igualdad entre mujeres y hombres en el acceso a los derechos sociales y el pleno disfrute de ellos, las autoridades estatales y municipales desarrollarán las acciones siguientes:
+
+I. Difundir en la sociedad el conocimiento de sus derechos sociales y los mecanismos para su exigibilidad;
+
+II. Realizar investigaciones multidisciplinarias con perspectiva de género sobre la igualdad de trato y oportunidades de mujeres y hombres, en el acceso y disfrute de los derechos sociales;
+
+III. Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres al disfrute de los derechos sociales;
+
+IV. Diseñar políticas y programas de desarrollo social y de reducción de la pobreza con perspectiva de género, para lograr la igualdad de trato y oportunidades;
+
+V. Fomentar la corresponsabilidad social igualitaria, de mujeres y hombres; y
+
+VI. Promover investigaciones con perspectiva de género en materia de salud.
+
+###### Artículo 33.
+
+Con el fin de promover y procurar la igualdad de trato y oportunidades de mujeres y hombres en el ámbito civil, las autoridades estatales y municipales desarrollarán las siguientes acciones:
+
+I. Proponer reformas a la legislación civil la igualdad de trato y oportunidades entre mujeres y hombres;
+
+II. Difundir los derechos de las mujeres;
+
+III. Erradicar las distintas modalidades de violencia de género;
+
+IV. Promover la participación ciudadana y generar interlocución entre los ciudadanos respecto a la legislación sobre la igualdad para las mujeres y los hombres;
+
+V. Generar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares; y
+
+VI. Promover la utilización de un lenguaje con perspectiva de igualdad entre géneros.
+
+###### Artículo 34.
+
+Para lograr la igualdad de trato y oportunidades entre mujeres y hombres en el ámbito educativo, las autoridades estatales y municipales deberán:
+
+I. Integrar el principio de igualdad de trato y oportunidades en los programas y políticas educativas, eliminando los estereotipos que produzcan desigualdad;
+
+II. Desarrollar proyectos y programas dirigidos a fomentar el conocimiento, difusión y respeto del principio de igualdad que esta Ley tutela;
+
+III. Impartir cursos de formación docente, para educar en el principio de igualdad de trato y oportunidades entre mujeres y hombres regulado por esta Ley;
+
+IV. Establecer medidas y materiales educativos destinados al reconocimiento y ejercicio de la igualdad de trato y oportunidades entre mujeres y hombres en los espacios educativos;
+
+V. Garantizar una educación y capacitación para el trabajo sustentadas en el principio de igualdad de trato y oportunidades entre mujeres y hombres que establece esta Ley;
+
+VI. Incentivar la investigación en todo lo concerniente a la igualdad entre mujeres y hombres;
+
+VII. Garantizar en el ámbito de su competencia, el derecho a la educación igualitaria, plural y libre de estereotipos de género;
+
+VIII. Promover la eliminación y el rechazo de los comportamientos, contenidos sexistas y estereotipos que impliquen discriminación entre mujeres y hombres, con especial consideración en los libros de texto y materiales educativos;
+
+IX. Promover el concepto de responsabilidad compartida dentro de la vida escolar;
+
+X. Fomentar la incorporación a la educación de las personas que en razón de su sexo están relegadas; y
+
+XI. Establecer medidas educativas destinadas al reconocimiento y enseñanzas del papel de las mujeres en la historia.
+
+### CAPÍTULO DÉCIMO. EL MODELO DE EQUIDAD Y GÉNERO
+
+### CAPITULO DÉCIMO PRIMERO. DE LA VIGILANCIA
+
+###### Artículo 35.
+
+Será el CEMyBS quien propondrá el modelo que contenga los mecanismos de ejecución para impulsar la certificación, para lo que deberá:
+
+I. Definir los lineamientos de gestión con perspectiva de género; y
+
+II. Establecer las bases para el asesoramiento, adecuación y capacitación por parte de las instancias externas a la administración pública que en su caso validen los conocimientos con perspectiva de género.
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LAS RESPONSABILIDADES
+
+###### Artículo 36.
+
+En el ámbito de su respectiva competencia, la Comisión de Derechos Humanos del Estado de México es la encargada de realizar la vigilancia, seguimiento, evaluación y monitoreo de la política estatal en materia de igualdad de trato y oportunidades entre mujeres y hombres.
+
+###### Artículo 37.
+
+La Comisión de Derechos Humanos del Estado de México, podrá recibir quejas, formular recomendaciones y presentar informes especiales en la materia objeto de esta Ley.
+
+###### Artículo 38.
+
+La violación de las disposiciones de esta Ley que realicen los servidores públicos estatales y municipales, será sancionada en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; lo anterior, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado de México.
+
+T R A N S I T O R I O S
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres y los Sistemas Municipales, referidos en esta Ley, se integrarán dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+CUARTO.- El Programa Integral a que se refiere la presente Ley, deberá expedirse dentro de los noventa días hábiles posteriores a la instalación del Sistema Estatal para la Igualdad de Trato y Oportunidades entre Mujeres y Hombres y para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+QUINTO.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven de la presente Ley, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y organismos auxiliares de los Poderes Ejecutivo, Legislativo y Judicial, municipios, órganos autónomos y la Universidad Autónoma del Estado de México.
+
+> <small>(F. DE E., G.G. 12 DE NOVIEMBRE DE 2010)</small>
+
+SEXTO.- El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres seguirá funcionando de conformidad con las disposiciones anteriores al presente Decreto, en tanto se da cumplimiento al artículo Tercero Transitorio de este Decreto.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintiséis días del mes de agosto del año dos mil diez.- Presidente.- Dip. Félix Adrián Fuentes Villalobos.- Secretarios.- Dip. Francisco Javier Veladiz Meza.- Dip. Eynar de los Cobos Carmona.- Dip. Horacio Enrique Jiménez López.- Rúbricas.
+
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 6 de septiembre de 2010.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+
+LIC. ENRIQUE PEÑA NIETO
+
+(RUBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. LUIS ENRIQUE MIRANDA NAVA
+
+(RUBRICA).
