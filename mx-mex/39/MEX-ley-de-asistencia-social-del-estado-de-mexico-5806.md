@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-5806"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "2010-09-03"
+last_updated: "2010-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS, PUBLICADA EN LA G.G. DE 7 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADA.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADA.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 31 de diciembre de 1986.
 
@@ -694,3 +696,15 @@ G.G. 3 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se abroga la Ley de Asistencia Social del Estado de México publicada el 31 de diciembre de 1986.
+
+CUARTO.- El Titular del Poder Ejecutivo Estatal y los Ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+QUINTO.- La Junta de Gobierno expedirá su Reglamento, en un plazo de noventa días a partir de su entrada en vigor.
