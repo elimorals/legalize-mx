@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-09-06"
+last_updated: "2010-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -467,11 +467,13 @@ III. Un presidente, dos síndicos y nueve regidores, electos por planilla según
 
 IV. Un presidente, dos síndicos y once regidores, electos por planilla según el principio de mayoría relativa y un síndico y hasta ocho regidores designados por el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de un millón de habitantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE AGOSTO DEL 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 17.
 
-El día 1 de agosto de cada año, el ayuntamiento se constituirá solemnemente en cabildo público, a efecto de que el presidente municipal informe por escrito acerca del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
+Dentro de los primeros tres días hábiles del mes de diciembre de cada año, el ayuntamiento se constituirá solemnemente en cabildo público, a efecto de que el presidente municipal informe por escrito acerca del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
 
 Dicho informe se publicará en la Gaceta Municipal.
 
@@ -963,9 +965,17 @@ XV. Informar por escrito al ayuntamiento, el 1 de agosto de cada año, en sesió
 
 XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar, a los infractores las sanciones correspondientes o remitirlos, en su caso, a las autoridades correspondientes;
 
-XVII. Promover el patriotismo, la conciencia cívica, las identidades nacional, estatal y municipal y el aprecio a los más altos valores de la República, el Estado y el Municipio, con la celebración de eventos, ceremonias y en general todas las actividades colectivas que contribuyan a estos propósitos, en especial el puntual cumplimiento del calendario cívico oficial;
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-XVIII. Las demás que le confieran esta Ley y otros ordenamientos.
+XVII. Promover el desarrollo institucional del Ayuntamiento, entendido como el conjunto de acciones sistemáticas que hagan más eficiente la administración pública municipal mediante la capacitación y profesionalización de los servidores públicos municipales, la elaboración de planes y programas de mejora administrativa, el uso de tecnologías de información y comunicación en las áreas de la gestión, implantación de indicadores del desempeño o de eficiencia en el gasto público, entre otros de la misma naturaleza. Los resultados de las acciones implementadas deberán formar parte del informe anual al que se refiere la fracción XV del presente artículo;
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII. Promover el patriotismo, la conciencia cívica, las identidades nacional, estatal y municipal y el aprecio a los más altos valores de la República, el Estado, y el Municipio, con la celebración de eventos, ceremonias y en general todas las actividades colectivas que contribuyan a estos propósitos, en especial el puntual cumplimiento del calendario cívico oficial;
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+XIX. Las demás que le confieran esta Ley y otros ordenamientos.
 
 ###### Artículo 49.
 
@@ -2870,3 +2880,21 @@ G.G. 6 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Estas reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 153, POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 17 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el primero de enero del año 2012.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 154, POR EL QUE SE REFORMAN LAS FRACCIONES XVII Y XVIII Y SE ADICIONA LA FRACCION XIX DEL ARTICULO 48 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
