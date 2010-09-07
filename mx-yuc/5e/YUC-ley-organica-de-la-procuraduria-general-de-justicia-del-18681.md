@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-procuraduria-general-de-justicia-del-18681"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-30"
-last_updated: "2007-03-30"
+last_updated: "2010-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo del 2000.
 
@@ -189,9 +189,17 @@ d) Las Agencias Adscritas del Ministerio Público;
 
 e) Las Agencias del Ministerio Público para la Atención de los Delitos contra la Mujer, el Menor, Personas en Edad Senescente y Grupos Vulnerables;
 
-f) (DEROGADO, D.O. 1 DE OCTUBRE DE 2006)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-g) La Dirección del Servicio Médico Forense.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+f) La Dirección del Servicio Médico Forense, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+g) La Agencia del Ministerio Público para la atención de delitos contra la salud en su modalidad de narcomenudeo.
 
 III. La Subprocuraduría para la Prevención de los Delitos, de la que dependen:
 
@@ -317,9 +325,33 @@ IV. La autorización del registro correspondiente a las empresas que presten ser
 
 V. La promoción en general de las medidas que convengan para lograr que la administración de justicia sea pronta y expedita;
 
-VI. El desempeño de las funciones de Consejería Jurídica del Ejecutivo del Estado, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII. Las demás que expresamente le confieran con tal carácter esta Ley, su reglamento y otros ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+VI. El desempeño de las funciones de Consejería Jurídica del Ejecutivo del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Proponer al titular del Ministerio Público de la Federación, que se sirva autorizar a los agentes de la policía judicial que habrán de emplear técnicas de investigación como encubiertos, en atención al artículo 180 bis del Código Federal de Procedimientos Penales.
+
+En el ejercicio de esa facultad, el Procurador tomará en cuenta a servidores públicos que cumplan con los siguientes requisitos:
+
+a) Pertenezcan a alguna de las comandancias de investigación;
+
+b) Cuenten con certificación de control de confianza, y
+
+c) Hayan cumplido con el requisito de capacitación en técnicas encubiertas de investigación.
+
+Una vez que se obtenga la autorización, el Procurador emitirá un acuerdo en el que se señalen los lineamientos, términos, limitaciones, modalidades y condiciones a los que debe sujetarse el agente o agentes de la policía que deberán ejecutar la orden, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. Las demás que expresamente le confieran con tal carácter esta ley, su reglamento y otros ordenamientos legales aplicables.
 
 ###### ARTÍCULO 27.
 
@@ -612,6 +644,34 @@ III. La formulación de planes para el desarrollo de actividades docentes con la
 IV. La formulación de planes de investigación científica, y su implementación, previa autorización del Procurador General de Justicia para llevarlos a cabo, y
 
 V. Las demás que le señalen esta Ley, su reglamento y otros ordenamientos legales aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE, DE 2010)</small>
+
+###### ARTÍCULO 43 Bis.
+
+Son atribuciones de la Agencia del Ministerio Público para la atención de delitos contra la salud en su modalidad de narcomenudeo las siguientes:
+
+I.- La recepción de las denuncias por la comisión de hechos presuntamente delictuosos, que se encuentren comprendidos en los artículos de la Ley General de Salud;
+
+II.- Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas, a efecto de que éste cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación en términos de la fracción IV, inciso b) del artículo 474 de la Ley General de Salud;
+
+III.- La práctica de las diligencias necesarias para la debida integración de la averiguación previa, tendiente a comprobar el cuerpo del delito y la probable responsabilidad de los inculpados, respecto de los delitos contra la salud en su modalidad de narcomenudeo. En caso de no surtirse, a su juicio, la competencia local, deberá remitir todo lo actuado al Ministerio Público de la Federación, dentro de los tres días de haber concluido tales diligencias. Si hubiese detenidos, la remisión a la representación social federal, se hará sin demora;
+
+IV.- Emitir informes a la autoridad sanitaria correspondiente, tan pronto identifique que una persona relacionada con la averiguación es farmacodependiente;
+
+V.- Emitir informes a la autoridad administrativa competente, cuando detecte que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleare para cometer delitos contra la salud o que permitiere su realización por terceros, a fin de que aquélla, en ejercicio de sus atribuciones, proceda a su clausura;
+
+VI.- Pronunciarse respecto de la reserva de la identidad de los testigos, cuando estime que existe riesgo de que sufran algún daño. Para tales efectos, en el expediente de averiguación previa se manejará una clave numérica, que será solamente comunicada en una plica cerrada al Procurador General de Justicia del Estado, misma que se remitirá, en su caso al Ministerio Público de la Federación cuando se decline la competencia a su favor o cuando éste solicite la remisión de la indagatoria, o al juez competente cuando se determine ejercitar la acción penal;
+
+VII.- La remisión a la Dirección de Averiguaciones Previas, de las diligencias que practiquen para que continúe el procedimiento correspondiente;
+
+VIII.- La formulación debidamente fundada de los dictámenes para el ejercicio o no ejercicio de la acción penal;
+
+IX.- La instrucción a la Policía Judicial y a la Dirección de Identificación y Servicios Periciales para la investigación de los delitos y, en su caso, solicitar el auxilio de la policía preventiva y de otras corporaciones que dependan del Ejecutivo o de los municipios, para el cumplimiento de sus funciones, y
+
+X.- Las demás que le confiera esta ley, su reglamento y otros ordenamientos legales aplicables.
 
 ###### ARTÍCULO 44.
 
@@ -986,3 +1046,17 @@ D.O. 30 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+P.O. 7 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los 15 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del año 2012 deberán haber realizado las acciones necesarias a fin de dar el debido cumplimiento a las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
