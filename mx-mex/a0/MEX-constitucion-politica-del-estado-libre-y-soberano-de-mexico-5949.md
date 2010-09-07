@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2010-09-06"
+last_updated: "2010-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -341,7 +341,7 @@ La ley protegerá y promoverá el desarrollo de sus culturas, lenguas, usos, cos
 
 Las autoridades promoverán el bienestar de estos grupos mediante las acciones necesarias, convocando incluso a la sociedad, en especial en las materias de salud, educación, vivienda y empleo, así como en todas aquellas que con respeto a las expresiones y manifestaciones de su cultura, faciliten e impulsen la participación de quienes los integran en todos los ámbitos del desarrollo del Estado y en igualdad de condiciones y oportunidades que los demás habitantes.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 18.
 
@@ -1209,7 +1209,9 @@ II. Cuidar el cumplimiento de la presente Constitución y de las leyes, reglamen
 
 III. Promulgar y publicar las leyes, decretos o acuerdos que expida la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
-IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura;
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura.
 
 V. Presentar ante la Legislatura del Estado iniciativas de ley o decreto;
 
@@ -1325,9 +1327,13 @@ XLIII. Representar al Poder Ejecutivo en las controversias constitucionales prev
 
 XLIV. Representar al Estado ante cualquier autoridad judicial del ámbito Federal o del fuero común, así como ante autoridades administrativas Federales o Locales en los procedimientos legales en que sea parte, sin perjuicio de las facultades que otorga esta Constitución a los otros poderes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 6 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-XLV. Las demás que la Constitución General de la República, la presente Constitución, las leyes federales o las del Estado y sus respectivos reglamentos le atribuyen.
+XLV. Asumir la representación política y jurídica del Estado en los conflictos sobre límites territoriales que prevé el artículo 46 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+XLVI. Las demás que la Constitución General de la República, la presente Constitución, las Leyes Federales o las del Estado y sus respectivos reglamentos le atribuyen.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1667,7 +1673,7 @@ Para efectos de la administración de justicia, el Estado de México se dividir�
 
 La administración, vigilancia y disciplina del Poder Judicial, estarán a cargo del Consejo de la Judicatura del Estado de México, conforme a las bases que señala esta Constitución y las leyes respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 107.
 
@@ -1924,6 +1930,58 @@ En los casos de participaciones federales, las autoridades del Estado convendrá
 ### CAPITULO CUARTO. De las Atribuciones de los Presidentes Municipales
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+
+###### Artículo 128.
+
+Son atribuciones de los presidentes municipales:
+
+I. Presidir las sesiones de sus ayuntamientos;
+
+II. Ejecutar las decisiones de los ayuntamientos e informar de su cumplimiento;
+
+III. Cumplir y hacer cumplir dentro del municipio, las leyes federales y del Estado y todas las disposiciones que expidan los mismos ayuntamientos;
+
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
+
+IV. Ser el responsable de la comunicación de los ayuntamientos que presiden, con los demás ayuntamientos y con los Poderes del Estado;
+
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
+
+V. Asumir la representación jurídica del Municipio, conforme a la ley respectiva;
+
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
+
+VI. Rendir al ayuntamiento dentro de los primeros tres días hábiles del mes de diciembre de cada año un informe acerca del estado que guarda el gobierno y la administración pública municipales;
+
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
+
+VII. Someter a la consideración del Ayuntamiento los nombramientos de los titulares de las dependencias y entidades de la administración pública municipal;
+
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
+
+VIII. Nombrar y remover libremente a los servidores públicos del municipio cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes que de ella emanan;
+
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
+
+IX. Presentar al Ayuntamiento la propuesta de presupuesto de egresos para su respectiva discusión y dictamen;
+
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
+
+X. Asumir el mando de la policía preventiva municipal;
+
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
+
+XI. Realizar acciones tendientes al desarrollo institucional del Ayuntamiento e informar sobre el particular en los términos que la Ley señale;
+
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
+
+XII. Expedir los acuerdos necesarios para el cumplimiento de las determinaciones del ayuntamiento;
+
+> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2010)</small>
+
+XIII. Las demás que le señale la presente Constitución, la Ley Orgánica respectiva y otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 128.
 
@@ -3352,5 +3410,13 @@ DECRETO NUMERO 152, POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 5 DE L
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
