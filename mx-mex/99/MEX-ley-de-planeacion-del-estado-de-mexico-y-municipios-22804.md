@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2007-12-26"
+last_updated: "2010-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -69,7 +69,7 @@ El desarrollo del Estado y Municipios se sustenta en el proceso de planeación d
 
 ###### Artículo 4.
 
-La planeación democrática para el desarrollo se sustenta en los principios de simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, asÍ como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso y destino de los recursos.
+La planeación democrática para el desarrollo se sustenta en los principios de simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso y destino de los recursos.
 
 > <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -81,11 +81,11 @@ La planeación democrática tiene por objeto el desarrollo del Estado de México
 
 La planeación democrática para el desarrollo, como proceso permanente, debe ser el medio para lograr el progreso económico y social del Estado de México y municipios, dirigido principalmente a la atención de las necesidades básicas que se traduzcan en el mejoramiento de la calidad de vida de la población, mediante la participación de los diferentes órdenes de gobierno, habitantes, grupos y organizaciones sociales y privados.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 7.
 
-El proceso de planeación democrática para el desarrollo de los habitantes del Estado de México y municipios, comprenderá la formulación de planes y sus programas, los cuales deberán contener un diagnóstico prospectiva, objetivos, metas, estrategias, prioridades y líneas de acción; la asignación de recursos, de responsabilidades, de tiempos de ejecución, de control, seguimiento de acciones y evaluación de resultados.
+El proceso de planeación democrática para el desarrollo de los habitantes del Estado de México y municipios, comprenderá la formulación de planes y sus programas, los cuales deberán contener un diagnóstico, prospectiva, objetivos, metas, estrategias, prioridades y líneas de acción; la asignación de recursos, de responsabilidades, de tiempos de ejecución, de control, seguimiento de acciones y evaluación de resultados, así como la determinación, seguimiento y evaluación de indicadores para el desarrollo social y humano.
 
 ###### Artículo 8.
 
@@ -147,7 +147,7 @@ Programa especial. Instrumento que contiene las prioridades para el desarrollo y
 
 Programa regional. Instrumento que incluye los proyectos y acciones de ámbito regional considerados prioritarios o estratégicos, en función de las objetivos y metas fijados en los planes de desarrollo.
 
-Programa sectorial. Instrumento de los planes de desarrollo que comprende proyectos y acciones relativos a un sector de la economía y/o de la sociedad, coordinado por una o mas dependencias. Se integran bajo la responsabilidad de las dependencias coordinadoras de los sectores, atendiendo a las estrategias del desarrollo del Estado de México y municipios.
+Programa sectorial. Instrumento de los planes de desarrollo que comprende proyectos y acciones relativos a un sector de la economía y/o de la sociedad, coordinado por una o más dependencias. Se integran bajo la responsabilidad de las dependencias coordinadoras de los sectores, atendiendo a las estrategias del desarrollo del Estado de México y municipios.
 
 Región. Porción del territorio estatal que integran varios municipios y que se identifican por semejanzas geográficas, socioeconómicas o político-administrativas.
 
@@ -443,13 +443,17 @@ La Secretaría y los ayuntamientos, en el ámbito de su competencia, establecer�
 
 Para la elaboración e integración de los informes de evaluación habrán de considerarse entre otros elementos, los indicadores del Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral, aplicados al proceso de planeación democrática para el desarrollo, de conformidad con lo dispuesto por el ordenamiento de la materia y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 37.
 
-En cumplimiento de los objetivos y metas establecidos en los planes de desarrollo estatal y municipales, los titulares de las dependencias, entidades públicas, organismos, unidades administrativas y demás servidores públicos serán responsables de que los programas se ejecuten con oportunidad, eficiencia y eficacia, y enviarán a la Secretaría cuando ésta así lo solicite, los informes del avance programático-presupuestal para su revisión, seguimiento y evaluación, y en el caso de los municipios, a quien los ayuntamientos designen.
+En cumplimiento de los objetivos y metas establecidos en los planes de desarrollo estatal y municipales, los titulares de las dependencias, entidades públicas, organismos, unidades administrativas y demás servidores públicos serán responsables de que los programas se ejecuten con oportunidad, eficiencia y eficacia, atendiendo el mejoramiento de los indicadores para el desarrollo social y humano y enviarán a la Secretaría cuando ésta así lo solicite, los informes del avance programático-presupuestal para su revisión, seguimiento y evaluación, y en el caso de los municipios, a quien los ayuntamientos designen.
+
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 38.
 
-Las dependencias, organismos, entidades públicas, unidades administrativas y servidores públicos, deberán realizar la evaluación a fin de asegurar el cumplimiento de los objetivos y metas y, en su caso, emitirán dictamen de reconducción y actualización cuando sea necesaria la modificación o adecuación de la estrategia a la que se refiere el artículo 26 de esta Ley, dictamen que habrán de hacer del conocimiento inmediato de la Secretaría o del ayuntamiento en el ámbito de su competencia, para que a su vez, se reformule el contenido de la estrategia de desarrollo.
+Las dependencias, organismos, entidades públicas, unidades administrativas y servidores públicos, deberán realizar la evaluación a fin de asegurar el cumplimiento de los objetivos y metas, así como la mejora de los indicadores de desarrollo social y humano y, en su caso, emitirán dictamen de reconducción y actualización cuando sea necesaria la modificación o adecuación de la estrategia a la que se refiere el artículo 26 de esta Ley, dictamen que habrán de hacer del conocimiento inmediato de la Secretaría o del ayuntamiento en el ámbito de su competencia, para que a su vez, se reformule el contenido de la estrategia de desarrollo.
 
 ### CAPITULO QUINTO. DE LA COORDINACION Y PARTICIPACION
 
@@ -575,7 +579,7 @@ La Asamblea celebrará sesiones por lo menos cada dos meses en Pleno o en Comisi
 
 Para que sesione válidamente la Asamblea General en Pleno, se requerirá la presencia de cuando menos el Presidente, el Coordinador General, el Secretario Técnico o sus suplentes y cualquier número de los titulares o suplentes de los mencionados en las fracciones V, VI, VII, VIII, IX, X, XI y XII del artículo 46 de la presente Ley.
 
-Para que sesione válidamente la Asamblea General a través de la Comisión Permanente, se requerirá de la presencia cuando menos del titular, suplente o representante del Presidente, del Coordinador General, del Secretario Técnico, así como cualquier número de titulares suplentes o representantes de los mencionados en las fracciones IV, V, VI, VII, VIII, IX, X y XI del articulo 46 de la presente Ley.
+Para que sesione válidamente la Asamblea General a través de la Comisión Permanente, se requerirá de la presencia cuando menos del titular, suplente o representante del Presidente, del Coordinador General, del Secretario Técnico, así como cualquier número de titulares suplentes o representantes de los mencionados en las fracciones IV, V, VI, VII, VIII, IX, X y XI del artículo 46 de la presente Ley.
 
 Los acuerdos tomados en el pleno de la Asamblea General del Comité de Planeación para el Desarrollo del Estado de México, o de su Comisión Permanente deberán hacerse del conocimiento de los titulares de las dependencias, organismos, entidades públicas y unidades administrativas involucrados para que procedan a su cumplimiento.
 
@@ -736,3 +740,13 @@ OCTAVO.- El Órgano Superior de Fiscalización, de conformidad con lo dispuesto 
 NOVENO.- Las Secretarías de la Contraloría, de Finanzas y de Transporte, proveerán lo necesario para el cumplimiento de los artículos Segundo y Cuarto del presente Decreto.
 
 DÉCIMO.- Los asuntos y procedimientos que se hayan iniciado antes de la entrada en vigor del presente Decreto en las unidades administrativas de la Secretaría de Transporte, se tramitarán y resolverán, según corresponda, por las unidades administrativas que, en su caso, las sustituyan conforme a la estructura orgánica autorizada y a este Decreto.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado emitirá las disposiciones reglamentarias para el funcionamiento del Sistema Estatal en un plazo no mayor de seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
