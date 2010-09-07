@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2010-08-18"
+last_updated: "2010-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1199,6 +1199,10 @@ IV. Acreditar fehacientemente la calidad de ciudadano, cuando quien la presente 
 
 Ninguna iniciativa podrá discutirse sin que primero pase a las comisiones correspondientes, a excepción de aquéllas cuyo trámite se hubiese dispensado.
 
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+En el caso de lo dispuesto por el artículo 61 fracciones XXX en su segundo y tercer párrafos y XXXI segundo y tercer párrafos de la Constitución Política del Estado Libre y Soberano de México, el Presidente de la Legislatura deberá someter a votación del Pleno, a más tardar el primer día del mes de febrero del ejercicio fiscal de que se trate, la iniciativa o iniciativas cuya aprobación haya quedado pendiente.
+
 ###### Artículo 83.
 
 Tratándose de asuntos calificados como urgentes o de obvia resolución, la Legislatura o la Diputación Permanente podrá acordar la dispensa de trámites, excepto el de votación.
@@ -1758,3 +1762,11 @@ G.G. 18 DE AGOSTO DE 2010.
 PRIMERO.- Publiques el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
