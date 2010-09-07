@@ -1,0 +1,698 @@
+---
+title: "LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS"
+identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-y-municipios-76535"
+country: "mx"
+rank: "ley"
+publication_date: "2010-09-07"
+last_updated: "2010-09-07"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76535&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mex"
+scjn_id: "76535"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "44 SECCION TERCERA"
+reform_count: "8"
+scjn_last_update: "2025-10-31"
+issue_date: "2010-09-07"
+state: "MEX"
+---
+# LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
+
+LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el martes 7 de septiembre de 2010.
+
+ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NÚMERO 156
+
+LA H. "LVII" LEGISLATURA DEL ESTADO DE MÉXICO
+
+DECRETA:
+
+LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
+
+## TÍTULO PRIMERO. DE LA ASISTENCIA SOCIAL
+
+### CAPÍTULO PRIMERO. Disposiciones Generales
+
+###### Artículo 1.
+
+La presente Ley es de orden público e interés social y tiene como finalidad establecer las bases, objetivos y procedimientos del Sistema Estatal de Asistencia Social, que promueva los programas, acciones y prestación de los servicios de asistencia social que establecen los ordenamientos de la materia; así como coordinar el acceso a los mismos, garantizando la concurrencia de esta entidad federativa, de los municipios que la componen y de los sectores social y privado.
+
+###### Artículo 2.
+
+El Estado y los municipios desarrollarán programas, ejecutarán acciones y proporcionarán servicios asistenciales encaminados a la protección y desarrollo integral de la familia, proveyendo a los miembros del grupo familiar, de los elementos que requieren en las diversas etapas de su desarrollo, apoyándolos en su formación y subsistencia, así como a aquellos grupos vulnerables con carencias familiares esenciales no superables en forma autónoma.
+
+###### Artículo 3.
+
+En el diseño, establecimiento e implementación de los programas, acciones y servicios a que se refiere el artículo anterior, se entenderá por asistencia social al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, por las circunstancias de vulnerabilidad en que se encuentra, así como la protección física, mental y social, en tanto logra su restablecimiento, para incorporarse a una vida plena y productiva.
+
+###### Artículo 4.
+
+La aplicación de esta Ley se rige bajo los principios de equidad, dignificación, respeto, probidad, corresponsabilidad, integración, accesibilidad, solidaridad y subsidiariedad.
+
+###### Artículo 5.
+
+Para los efectos de esta Ley se entiende por:
+
+I. Adolescente: Todo ser humano mayor de doce años cumplidos y menor de dieciocho años de edad;
+
+II. Adulto Mayor: Hombres y mujeres a partir de los 60 años de edad;
+
+III. Beneficiario: Persona en condición de vulnerabilidad que son atendidas a través de los programas, acciones y servicios de asistencia social;
+
+IV. DIFEM: Al Sistema para el Desarrollo Integral de la Familia del Estado de México;
+
+V. Familia: Al conjunto de personas organizadas en roles fijos de padre, madre, hermanos, con vínculos consanguíneos o no, orientadas hacia el desarrollo integral de sus miembros y el bien común de la sociedad;
+
+VI. Grupo Familiar: Al conjunto de personas vinculadas por relaciones de: intimidad, mutua consideración y apoyo, parentesco, filiación o convivencia fraterna, o bien, tengan alguna relación conyugal o de concubinato;
+
+VII. Ley: A la Ley de Asistencia Social del Estado de México y sus Municipios;
+
+VIII. Niña o niño: A todo ser humano menor de doce años de edad;
+
+IX. Persona con Discapacidad: Toda persona que presenta una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social;
+
+X. Sistema Estatal: Al Sistema Estatal de Asistencia Social; y
+
+XI. SMDIF: A los Sistemas Municipales para el Desarrollo Integral de la Familia en el territorio del Estado de México.
+
+### CAPÍTULO SEGUNDO. De los Sujetos de la Ley
+
+###### Artículo 6.
+
+Quedan sujetos a esta Ley y a las disposiciones jurídicas que de la misma emanen:
+
+I. El DIFEM;
+
+II. Las dependencias y organismos auxiliares estatales y municipales, con funciones u objeto relacionados con la asistencia social;
+
+III. Los SMDIF;
+
+IV. Las personas físicas o jurídicas colectivas que realicen actividades, acciones o presten servicios de asistencia social en el territorio del Estado; y
+
+V. Los beneficiarios de los programas, acciones y servicios de asistencia social, que serán preferentemente, los individuos y familias que por sus condiciones físicas, mentales, jurídicas o socioeconómicas, requieran de servicios especializados para su protección y el restablecimiento de las circunstancias de vulnerabilidad que le impiden su pleno desarrollo.
+
+###### Artículo 7.
+
+Se consideran beneficiarios de los programas, acciones y servicios de asistencia social, preferentemente:
+
+I. Todas las niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por:
+
+a) Desnutrición;
+
+b) Deficiencias en su desarrollo físico o mental, o cuando éste sea afectado por condiciones familiares adversas;
+
+c) Maltrato o abuso;
+
+d) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos;
+
+e) Ser víctimas de cualquier tipo de explotación;
+
+f) Vivir en la calle;
+
+g) Ser víctimas de la trata de personas, la pornografía y el comercio sexual;
+
+h) Trabajar en condiciones que afecten su desarrollo e integridad física y mental;
+
+i) Infractores y víctimas del delito;
+
+j) Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
+
+k) Ser migrantes y repatriados no acompañados; y
+
+I) Ser víctimas de conflictos armados y de persecución étnica o religiosa.
+
+II. Las mujeres:
+
+a) En estado de gestación o lactancia y las madres adolescentes;
+
+b) En situación de violencia, en cualquiera de sus modalidades; y
+
+c) En situación de explotación, incluyendo la sexual o trata de personas.
+
+III. Indígenas en situación de vulnerabilidad;
+
+IV. Adultos mayores en estado de vulnerabilidad;
+
+V. Las personas con discapacidad;
+
+VI. Dependientes de personas privadas de su libertad, enfermos terminales o que padezcan algún tipo de adicción;
+
+VII. Víctimas de la comisión de delitos;
+
+VIII. Indigentes;
+
+IX. Alcohólicos y fármaco dependientes;
+
+X. Coadyuvar en asistencia social a las personas afectadas por desastres naturales; y
+
+XI. Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
+
+### CAPÍTULO TERCERO. De los Programas, Acciones y Servicios de Asistencia Social
+
+###### Artículo 8.
+
+La implementación de programas, acciones y prestación de servicios de asistencia social se realizará por las dependencias y organismos auxiliares estatales y municipales, en la esfera de sus respectivas competencias y atribuciones; por el DIFEM y por los SMDIF, a través de mecanismos de concurrencia y coordinación.
+
+Las personas físicas y jurídicas colectivas que tengan entre sus objetivos la realización de acciones y prestación de servicios de asistencia social podrán vincularse al Sistema Estatal, mediante mecanismos de colaboración o concertación, en términos de las disposiciones de esta Ley.
+
+Los servicios que se presten en esta materia, deberán cumplir con lo estipulado en las Normas Oficiales Mexicanas y Normas Técnicas que resulten aplicables.
+
+###### Artículo 9.
+
+Los programas, acciones y servicios de asistencia social que se diseñen, implementen y ejecuten en los términos de esta Ley, se vincularán en lo conducente, al Sistema Estatal de Salud y al Sistema Estatal de Desarrollo Social, de conformidad con las disposiciones aplicables.
+
+###### Artículo 10.
+
+Para los efectos de esta Ley se entenderán como servicios en materia de asistencia social:
+
+I. La atención a personas que por sus carencias socioeconómicas o discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+II. La atención en establecimientos especializados a niñas, niños, adolescentes y adultos mayores en estado de abandono o vulnerabilidad;
+
+III. El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+
+IV. La prestación de servicios de asistencia jurídica y de orientación social, especialmente a niñas, niños y adolescentes, mujeres, adultos mayores, discapacitados y en general, a personas en estado de vulnerabilidad;
+
+V. La orientación nutricional y la alimentación complementaria a todos los beneficiarios de esta Ley;
+
+VI. El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de las niñas, niños y adolescentes, a la satisfacción de sus necesidades y a la salud física y mental, atendiendo al interés superior de éstos;
+
+VII. Coadyuvar en la prevención, protección y atención a niñas, niños y adolescentes migrantes y que sufran de explotación sexual, comercial infantil en cualquiera de sus variantes y modalidades;
+
+VIII. La promoción y colaboración en acciones de prevención y atención para erradicar la violencia familiar;
+
+IX. La promoción y difusión de acciones para la protección de los derechos del adulto mayor, procurando su apoyo y evolución, para favorecer su reinserción al núcleo familiar y social;
+
+X. La prevención de la discapacidad y su tratamiento rehabilitatorio no hospitalario en centros especializados, favoreciendo su incorporación a una vida plena y productiva;
+
+XI. La realización de investigaciones y estudios sobre las causas y efectos de los problemas prioritarios de asistencia social;
+
+XII. La promoción de la integración, desarrollo y mejoramiento de la familia con carencias mediante su participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
+
+XIII. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
+
+XIV. La prestación de servicios funerarios; y
+
+XV. Las que se deriven de otros ordenamientos legales que incidan en la asistencia social.
+
+## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
+
+### CAPÍTULO ÚNICO. De su Naturaleza, Objetivos y Atribuciones
+
+###### Artículo 11.
+
+El Sistema Estatal se vincula al Sistema Estatal de Salud y se integra por las dependencias y organismos auxiliares de la administración pública, estatal y municipal, los sectores social y privado con funciones u objeto de asistencia social.
+
+###### Artículo 12.
+
+El Sistema Estatal es un mecanismo permanente de concurrencia, colaboración, coordinación y concertación entre las dependencias y organismos auxiliares de la administración pública estatal y municipal, las dependencias y entidades federales y los sectores social y privado con funciones de asistencia social, y tiene los siguientes objetivos:
+
+I. Formular, dirigir e implementar las estrategias, programas y acciones, que en su conjunto constituyen la política de asistencia social, encaminados al desarrollo integral de los miembros del grupo familiar;
+
+II. Promover y regular el diseño, establecimiento y ejecución de programas, acciones y servicios de asistencia social que se establecen en esta Ley y otros ordenamientos de la materia;
+
+III. Garantizar la concurrencia y coordinación de los gobiernos federal, estatal y municipal, así como de los sectores social y privado para facilitar el acceso de los beneficiarios de esta Ley a los programas, acciones y servicios de asistencia social;
+
+IV. Promover la celebración de convenios de colaboración, concertación y coordinación de acciones entre los gobiernos federal, estatal y municipal, con los sectores social y privado, y organismos nacionales e internacionales, tendientes al cumplimiento de esta Ley;
+
+V. Garantizar la extensión cuantitativa y cualitativa de los programas, acciones y servicios de asistencia social, preferentemente en las zonas de atención prioritaria o inmediata, con menos desarrollo o con mayor población en condiciones de vulnerabilidad;
+
+VI. Definir criterios de distribución, escalonamiento, regionalización y ampliación de coberturas de los programas, acciones y servicios de asistencia social, considerando las zonas de atención prioritaria o inmediata;
+
+VII. Promover y fomentar entre sus integrantes la eficaz y transparente aplicación de los recursos que se destinen a la asistencia social;
+
+VIII. Propiciar y promover las investigaciones y estudios científicos y de campo que favorezcan el desarrollo integral de la familia;
+
+IX. Establecer y llevar a cabo programas interinstitucionales que aseguren la atención integral de los beneficiarios de esta Ley; y
+
+X. Las demás inherentes a la asistencia social.
+
+###### Artículo 13.
+
+El Ejecutivo del Estado, a través del DIFEM, coordinará el Sistema Estatal, quien tendrá las funciones y atribuciones siguientes:
+
+I. Coordinar, promover y regular los programas, acciones y servicios de asistencia social que presten las dependencias y organismos auxiliares de la administración pública estatal y municipal así como los SMDIF;
+
+II. Promover y fomentar la investigación científica y tecnológica que permita desarrollar y mejorar los servicios de asistencia social;
+
+III. Coordinar un sistema de información estatal en materia de asistencia social;
+
+IV. Concertar acciones con los sectores social y privado para promover y ejecutar la prestación de los servicios de asistencia social, bajo los principios de solidaridad y subsidiariedad;
+
+V. Brindar asesoría en materia de asistencia social a las Instituciones que presten estos servicios;
+
+VI. Difundir ampliamente entre la población, información sobre acciones de prevención y atención, académicas, de opinión y consulta relacionada con la asistencia social;
+
+VII. Coadyuvar con el Sistema Estatal de Salud en la supervisión de las instituciones sociales y privadas que realicen actividades de asistencia social, para la debida observancia de la normatividad aplicable, principalmente en la operación de centros asistenciales para niñas, niños, adolescentes, adultos mayores, discapacitados, refugios para mujeres e indigentes, entre otras; y
+
+VIII. Las demás que le otorguen las disposiciones legales en la materia.
+
+## TÍTULO TERCERO. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO
+
+### CAPÍTULO I. De su Naturaleza Jurídica y Atribuciones
+
+###### Artículo 14.
+
+El DIFEM es un organismo público descentralizado, con personalidad jurídica y patrimonio propios.
+
+No quedará sectorizado, en virtud de la amplitud de sus objetivos, que se encuentran vinculados a varios sectores; por lo que su dependencia será directa del Titular del Ejecutivo del Estado y sujeto en lo conducente a la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+###### Artículo 15.
+
+El DIFEM contará con las unidades administrativas mínimas requeridas para el cumplimiento de los objetivos de esta Ley, y sus funciones y atribuciones quedarán contenidas en las disposiciones reglamentarias que al efecto se expidan.
+
+###### Artículo 16.
+
+La protección de la infancia y la acción encaminada a la asistencia e integración de la familia, la asume el Estado por conducto del DIFEM, y los municipios a través de los SMDIF, en la esfera de su competencia.
+
+###### Artículo 17.
+
+Quedará a cargo del DIFEM la rectoría, normatividad y control de los programas, acciones y servicios de asistencia social que presten los SMDIF, que deberán cumplir los objetivos del Sistema Estatal, respetando la autonomía municipal.
+
+El DIFEM brindará el apoyo, asesoría, colaboración técnica y administrativa que requieran los SMDIF, para el logro de sus objetivos.
+
+###### Artículo 18.
+
+El DIFEM tendrá respecto de la asistencia social, las siguientes atribuciones:
+
+I. Establecer, promover, ejecutar y difundir los programas, acciones y servicios de asistencia social, que contribuyan al desarrollo integral de la familia y del grupo familiar;
+
+II. Implementar acciones y servicios de protección a la mujer y a las niñas, niños y adolescentes que trabajan;
+
+III. Promover y fomentar entre los integrantes del Sistema Estatal, el establecimiento y operación de centros de asistencia social en beneficio de niñas, niños y adolescentes en estado de abandono o situación extraordinaria, de adultos mayores, mujeres víctimas de maltrato y personas con discapacidad e indigentes;
+
+IV. Ejercer la tutela de los menores que corresponda al Estado, en términos de esta Ley y de la legislación civil, coadyuvando con otras autoridades en acciones de protección de la integridad física, jurídica y psicoemocional;
+
+V. Establecer y operar instancias especializadas de apoyo técnico y supervisión, encaminadas a la protección y defensa de los derechos de las niñas, niños y adolescentes, que por sus circunstancias se encuentren en estado de vulnerabilidad, a través de servicios de asistencia jurídica y orientación social, además de las que le atribuyan otros ordenamientos legales;
+
+VI. Realizar los estudios en materia de psicología, trabajo social, jurídico y médico que permitan acreditar la idoneidad del adoptante o adoptantes para expedición del certificado de idoneidad, así como dar seguimiento al proceso de integración de las niñas, niños y adolescentes adoptados para verificar su adaptación al núcleo familiar;
+
+VII. Coadyuvar con el Ministerio Público aportando los elementos a su alcance en la protección de la infancia y de incapaces que carezcan de familiares y en los procedimientos judiciales civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+
+VIII. Establecer, desarrollar, coordinar y ejecutar programas y acciones en materia de alimentación y nutrición familiar, que permita a los beneficiarios de esta Ley superar la vulnerabilidad en la que se encuentran;
+
+IX. Planear, organizar y coordinar la realización de estudios, diagnósticos e investigaciones para el desarrollo de acciones que mejoren el nivel nutricional de las niñas y niños en edad escolar a nivel preescolar y básica que contribuyan al combate de la desnutrición y obesidad infantil en la Entidad;
+
+X. Establecer, organizar, coordinar y ejecutar programas, acciones y servicios de prevención de la discapacidad, y tratamiento rehabilitatorio no hospitalario de la discapacidad, así como favorecer la integración social de personas con discapacidad;
+
+Xl. Realizar acciones de apoyo y formación educativa para la integración social y de capacitación para el trabajo a los beneficiarios de esta Ley, en coordinación con las dependencias y organismos de la administración pública estatal;
+
+XII. Establecer, organizar, coordinar y ejecutar programas, acciones y servicios que favorezcan el respeto a los derechos del adulto mayor en estado de vulnerabilidad que fomenten su autoestima, procurando su apoyo, evolución y reinserción al núcleo familiar y social;
+
+XIII. Establecer, organizar, coordinar, fomentar y ejecutar programas y acciones de prevención y atención de las adicciones, brindando atención primaria a la salud de los miembros del grupo familiar, que propicien una cultura de salud mental, vinculado en lo conducente con las atribuciones del Sistema Estatal de Salud;
+
+XIV. Promover de forma permanente programas y acciones que protejan el desarrollo de la familia, fomenten la paternidad responsable, así como la planificación e integración familiar que propicien la preservación de los derechos de la niñez a la satisfacción de sus necesidades, a la salud física y mental, así como diseñar platicas previas a la celebración del matrimonio, con el fin de erradicar la violencia familiar y conciliar de vida laboral y familiar;
+
+XV. Promover la difusión de los programas, acciones y servicios del DIFEM y de los SMDIF, a través de los medios de comunicación, con el objeto de fomentar la cultura de la asistencia social;
+
+XVI. Instrumentar y administrar un Sistema Estatal de Información de Asistencia Social, para la generación de estadísticas en la materia;
+
+XVII. Promover y fomentar la realización de estudios e investigaciones sobre el desarrollo integral de la familia, sus miembros y en general, sobre los beneficiarios de esta Ley, tendientes a la atención de las problemáticas que limiten el restablecimiento de las condiciones de vulnerabilidad, mediante la creación de las instancias especializadas, de acuerdo a la disponibilidad presupuestal;
+
+XVIII. Promover y fomentar la capacitación, profesionalización y especialización de los servidores públicos en la prestación de servicios de asistencia social;
+
+XIX. Coadyuvar en el auxilio de damnificados en casos de desastres naturales, en coordinación con las dependencias y organismos auxiliares de la administración pública estatal, federal y municipal, en los términos de las disposiciones jurídicas aplicables;
+
+XX. Promover e impulsar el uso adecuado de los recursos destinados a los programas, acciones y servicios de asistencia social, en cumplimiento a los objetivos de esta Ley;
+
+XXI. Supervisar la adecuada operación de los programas de asistencia social por parte de los SMDIF, con la finalidad de que se apeguen a los objetivos del Sistema Estatal; y
+
+XXII. Las demás que le confieran los ordenamientos legales.
+
+###### Artículo 19.
+
+Para el cumplimiento de sus objetivos, el DIFEM podrá ser auxiliado por las dependencias y organismos auxiliares de la administración pública estatal, así como por instituciones u organismos del sector social o privado, pudiendo celebrar convenios cuando lo estime conveniente, los que se integrarán al Sistema Estatal y se regirán por las disposiciones de esta Ley.
+
+### CAPÍTULO II. De sus Órganos de Gobierno
+
+###### Artículo 20.
+
+Los Órganos de Gobierno del DIFEM serán:
+
+I. La Junta de Gobierno;
+
+II. La Presidencia; y
+
+III. La Dirección General.
+
+### CAPÍTULO III. De la Junta de Gobierno
+
+###### Artículo 21.
+
+El órgano superior del DIFEM será la Junta de Gobierno, la cual estará integrada de la forma siguiente:
+
+I. Un Presidente, que será el Gobernador del Estado o la persona que él designe;
+
+II. Un Vicepresidente, nombrado por el Ejecutivo del Estado;
+
+III. El Secretario que será el Director General del DIFEM;
+
+IV. Cinco Vocales, que serán los Titulares de las Secretarías de: Finanzas, Educación, Salud, Desarrollo Social y el de la Procuraduría General de Justicia; y
+
+V. El Comisario, que será designado por el Gobernador del Estado.
+
+Los cargos de los integrantes de la Junta de Gobierno serán honoríficos.
+
+###### Artículo 22.
+
+La Junta de Gobierno tendrá las siguientes facultades:
+
+I. Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas;
+
+II. Conocer y aprobar los convenios que el DIFEM celebre;
+
+III. Aprobar y expedir el Reglamento Interior del DIFEM y los manuales de organización, de procedimientos y de servicios al público;
+
+IV. Dictar normas y lineamientos generales para el funcionamiento del DIFEM y establecer criterios que orienten sus actividades;
+
+V. Formular y aprobar los planes y programas de trabajo del DIFEM;
+
+VI. Autorizar la contratación de créditos;
+
+VII. Aprobar la aceptación de herencias, legados y/o donaciones y demás liberalidades que se hagan al DIFEM, cuando éstos sean condicionados o litigiosos;
+
+VIII. Aprobar el plan de inversiones y modificaciones al patrimonio del DIFEM, así como los presupuestos, informes de actividades y estados financieros anuales;
+
+IX. Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
+
+X. Cumplir y hacer cumplir la presente Ley y otras aplicables al DIFEM;
+
+Xl. Revisar y emitir recomendaciones sobre los programas de trabajo de los SMDIF, para el efecto de que se ajusten a los Programas Nacionales y Estatales y en general, a la política estatal de asistencia social; así como el de las actividades destinadas a proveerlos de recursos económicos;
+
+XII. Designar a los integrantes del Patronato;
+
+XIII. Designar y remover a propuesta del Presidente a los Directores;
+
+XIV. Fomentar y apoyar a las asociaciones o sociedades civiles y a todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias; y
+
+XV. Las que le confiera la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, su Reglamento y demás ordenamientos legales.
+
+###### Artículo 23.
+
+Con excepción del Presidente y del Vicepresidente, por cada uno de los integrantes de la Junta de Gobierno, designarán un suplente que cubrirá las ausencias temporales de los titulares.
+
+Las ausencias del Presidente serán cubiertas por el Vicepresidente.
+
+###### Artículo 24.
+
+La Junta de Gobierno sesionará una vez cada dos meses, pudiendo celebrar sesiones extraordinarias cada vez que el Presidente lo estime conveniente o a petición de una tercera parte o más del total de sus miembros.
+
+###### Artículo 25.
+
+Los miembros de la Junta de Gobierno participarán en las sesiones con voz y voto, a excepción del Secretario y el Comisario, quienes tendrán voz pero no voto.
+
+En caso de empate, el Presidente de la Junta tendrá voto de calidad.
+
+### CAPÍTULO IV. De la Presidencia y sus Atribuciones
+
+###### Artículo 26.
+
+La Presidencia del DIFEM estará a cargo de un titular nombrado por el Ejecutivo del Estado, quien tendrá las siguientes atribuciones:
+
+I. Representar al DIFEM ante las autoridades de la federación, de los estados y de los municipios, con el poder más amplio que en derecho proceda, incluyendo facultades generales para actos de dominio, así como aquellas que requieran cláusula especial conforme a las leyes;
+
+II. Ejecutar todos los objetivos, funciones y labores sociales del DIFEM;
+
+III. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
+
+IV. Dictar las medidas y acuerdos necesarios para la debida protección de la infancia, para la integración de la familia y para cumplir con los objetivos propios del DIFEM;
+
+V. Asumir la Presidencia del Patronato;
+
+VI. Proponer a la Junta de Gobierno el Reglamento Interior del DIFEM, así como las modificaciones que estime necesarias;
+
+VII. Coordinar los programas de acción de las unidades administrativas y dependencias del DIFEM, de acuerdo con la presente Ley;
+
+VIII. Delegar las facultades que le otorga esta Ley, en las personas que para tal efecto elija, indicándoles el tiempo y alcances de tales facultades;
+
+IX. Proponer a la Junta de Gobierno las personas que puedan ocupar los puestos de Directores, nombrar y remover libremente a los servidores públicos del DIFEM;
+
+X. Solicitar asesoría de cualquier naturaleza a las personas o instituciones que estime conveniente;
+
+XI. Otorgar a personas físicas o jurídicas colectivas o instituciones, poder general o especial, para representar al DIFEM;
+
+XII. Intervenir en representación del DIFEM, como parte en los juicios en que éste sea reconocido como heredero, legatorio (sic) o en los que no haya heredero nombrados o reconocidos; así como en los que el DIFEM sea parte y tenga interés;
+
+XIII. Presentar a la Junta de Gobierno las propuestas, proyectos e informes que requiera para su eficaz desempeño;
+
+XIV. Conducir las relaciones laborales de acuerdo con las disposiciones legales aplicables;
+
+XV. Proponer convenios de coordinación con dependencias y entidades públicas; así como los convenios que se consideren necesarios para el cumplimiento de los objetivos del DIFEM;
+
+XVI. Proponer los planes y programas de trabajo que llevará a cabo el DIFEM;
+
+XVII. Proponer la contratación de créditos;
+
+XVIII. Informar a la Junta de Gobierno sobre la existencia de herencias, legados o donaciones que se otorguen al DIFEM;
+
+XIX. Presentar a la Junta de Gobierno el plan de inversiones o modificaciones que se hagan a éste, sobre el patrimonio del DIFEM;
+
+XX. Proponer a los miembros que integren el Patronato;
+
+XXI. Presentar a conocimiento y aprobación de la Junta de Gobierno, el informe de actividades y estados financieros anuales del DIFEM; y
+
+XXII. Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
+
+### CAPÍTULO V. Del Director General y sus Atribuciones
+
+###### Artículo 27.
+
+La Dirección General estará a cargo de un titular que será nombrado por el Titular del Ejecutivo del Estado, quien tendrá las atribuciones siguientes:
+
+I. Ser miembro integrante del Patronato y presidir las sesiones de éste, en ausencia del Presidente;
+
+II. Participar como Secretario de la Junta de Gobierno, con las atribuciones que le confiera la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento;
+
+III. Ejecutar los acuerdos y disposiciones dictadas por el Presidente de la Junta de Gobierno;
+
+IV. Informar periódicamente al Presidente del DIFEM sobre las actividades desarrolladas en cada una de las dependencias y sistemas municipales y tomar acuerdo para la obtención de mejores resultados;
+
+V. Revisar los programas de trabajo de cada una de las unidades administrativas del DIFEM y de los SMDIF, para la integración del programa general del mismo;
+
+VI. Dictar los acuerdos colectivos o individuales con los directores de las unidades administrativas y los SMDIF, para el mejor funcionamiento del DIFEM;
+
+VII. Suscribir mancomunadamente con el Director de Finanzas, Planeación y Administración los documentos de crédito a cargo del DIFEM, así como las órdenes de pago directo o bancario que acuerde el Presidente del DIFEM;
+
+VIII. Expedir los nombramientos que determine el Presidente del DIFEM;
+
+IX. Planear, dirigir y controlar el funcionamiento del DIFEM, con sujeción a las instrucciones de la Junta de Gobierno y de la Presidencia; y
+
+X. Velar dentro de sus atribuciones por el cumplimiento de esta Ley y de los reglamentos que de la misma se deriven.
+
+### CAPÍTULO VI. Atribuciones del Comisario
+
+###### Artículo 28.
+
+El Comisario contará con las atribuciones siguientes:
+
+I. Vigilar que la administración de los recursos y el funcionamiento del DIFEM, se hagan de acuerdo con esta Ley y los planes y presupuestos aprobados, así como de las demás leyes aplicables;
+
+II. Practicar la auditoría de los estados financieros y las de carácter administrativo que se requieran;
+
+III. Recomendar a la Junta de Gobierno y a la Presidencia, las medidas que sean convenientes para el mejoramiento de la organización y funcionamiento del DIFEM; y
+
+IV. Las demás que sean necesarias para el ejercicio de las anteriores y las que le señala la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento.
+
+### CAPÍTULO VII. Del Patronato
+
+###### Artículo 29.
+
+El Patronato es el cuerpo colegiado que tendrá como objetivo coadyuvar en la conservación y acrecentamiento del patrimonio del DIFEM; además será órgano de consulta y opinión.
+
+###### Artículo 30.
+
+El Patronato se integrará con representantes de los sectores público, social y privado, que serán designados por la Junta de Gobierno a propuesta del Presidente del DIFEM y cuyos miembros no percibirán retribución, emolumento o compensación alguna, quedando determinado el número de sus integrantes, en el Reglamento Interior del DIFEM.
+
+###### Artículo 31.
+
+Los integrantes del Patronato, excepto el Presidente, durarán en su cargo dos años, pudiendo ser sustituidos cuando exista motivo para ello.
+
+###### Artículo 32.
+
+El Patronato contará con las facultades siguientes:
+
+I. Rendir opinión y emitir recomendaciones sobre los planes de labores, presupuestos, informes y estados financieros anuales del DIFEM;
+
+II. Apoyar las actividades del DIFEM y formular sugerencias, tendientes al mejor desempeño;
+
+III. Contribuir a la obtención de recursos que permitan el incremento del patrimonio del DIFEM y al cumplimiento cabal de su objeto;
+
+IV. Participar en los programas de construcción de nuevas instalaciones y ampliación de las actuales, cuando así se le requiera por la Junta de Gobierno; y
+
+V. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+
+###### Artículo 33.
+
+El patronato celebrará cuando menos tres sesiones ordinarias al año y las extraordinarias que se requieran.
+
+###### Artículo 34.
+
+La organización y funcionamiento del patronato será regulada por el Reglamento Interior del DIFEM.
+
+### CAPÍTULO VIII
+
+Del Patrimonio del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+###### Artículo 35.
+
+El patrimonio del DIFEM se integrará con:
+
+I. El presupuesto de gasto corriente que se le destine;
+
+II. Los bienes muebles e inmuebles que sean de su dominio;
+
+III. Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades de los gobiernos federal y estatal le otorguen;
+
+IV. Las aportaciones, donaciones y demás liberalidades que reciban de personas físicas o jurídicas colectivas e Instituciones de Asistencia Privada, nacionales o extranjeras;
+
+V. Los rendimientos, recuperaciones, derechos y demás ingresos que les generen sus inversiones y operaciones;
+
+VI. Las concesiones, permisos, licencias y autorizaciones que para la generación de recursos se le otorguen conforme a la Ley;
+
+VII. Los fideicomisos que los particulares y dependencias públicas constituyan en favor del DIFEM, como opción viable para dar continuidad a los programas asistenciales a través del tiempo; y
+
+VIII. Los demás bienes que obtengan por cualquier título.
+
+###### Artículo 36.
+
+El patrimonio del DIFEM, para los efectos de esta Ley, se clasifica en patrimonio de servicio y productivo:
+
+I. El patrimonio de servicio: es el conjunto de bienes muebles e inmuebles, destinados específicamente a cumplir con el logro de sus objetivos; y
+
+II. El patrimonio productivo: es el conjunto de bienes inmuebles, muebles, derechos, acciones, títulos civiles o mercantiles y cualesquiera otros actos que hagan posible el sostenimiento del sistema, para contribuir a la autosuficiencia.
+
+###### Artículo 37.
+
+El presupuesto de ingreso e inversiones del DIFEM para su operación en cada ejercicio, se integrará con los recursos siguientes:
+
+I. Con el producto de su patrimonio rentable y las inversiones productivas;
+
+II. Con los donativos que aporten las personas físicas o jurídicas colectivas;
+
+III. Con el producto de festivales, colectas y otros medios de allegarse fondos;
+
+IV. Con los derechos y cuotas de recuperación que se obtengan a cambio de sus diversos servicios;
+
+V. Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que el Gobierno del Estado y demás Entidades o dependencias le otorguen o destinen;
+
+VI. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y
+
+VII. Con el producto de la enajenación, cesión o gravamen sobre sus bienes inmuebles, previa desafectación de su destino y con la autorización de la Legislatura del Estado.
+
+###### Artículo 38.
+
+El monto de la aportación o subsidio del Gobierno del Estado para el sostenimiento de los servicios y programas del DIFEM, será de acuerdo con las necesidades del mismo, en los términos de la Ley en materia y se cubrirán en exhibiciones determinadas por un calendario especial.
+
+## TÍTULO CUARTO. DE LOS SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+###### Artículo 39.
+
+Los SMDIF son Organismos Públicos Descentralizados, con personalidad jurídica y patrimonio propios, que tienen por objeto la promoción de las actividades y acciones relacionadas con la asistencia social y la prestación de servicios asistenciales, los cuales establecerán su domicilio social en la Cabecera Municipal correspondiente.
+
+###### Artículo 40.
+
+Los SMDIF tendrán respecto del Sistema Estatal, las funciones y atribuciones que les otorga esta Ley, así como el Decreto de su creación; así mismo, y con base en la concurrencia y colaboración con la entidad federativa del Estado de México, y con el Sistema Nacional para el Desarrollo integral de la Familia, garantizarán la continuidad de las acciones y operación de los programas de asistencia social, para lo cual deberán observar lo siguiente:
+
+I. La ejecución de los programas de asistencia social, en el marco normativo emitido por el Sistema Nacional para el Desarrollo Integral de la Familia y el DIFEM, de acuerdo con los objetivos y prioridades de los Planes Estatal y Municipal de Desarrollo, de conformidad con la competencia y las atribuciones que cada organismo tenga;
+
+II. Brindar de manera permanente, la información requerida para la alimentación del Sistema Estatal de Información de Asistencia Social;
+
+III. Establecer y operar establecimientos asistenciales en el ámbito de su competencia territorial, o mediante acuerdos de colaboración y de concertación de acciones con otros SMDIF colindantes, bajo las normas oficiales mexicanas o normas técnicas, que emitan las autoridades correspondientes;
+
+IV. Administrar los establecimientos asistenciales que descentralicen en su favor los gobiernos federal y estatal, en los términos de las leyes aplicables y de los convenios que al efecto se celebren; y
+
+V. Contribuir al logro de los objetivos señalados en esta Ley.
+
+###### Artículo 41.
+
+Los SMDIF en materia de asistencia social, tendrán las siguientes atribuciones:
+
+I. La promoción y ejecución de programas, acciones y servicios para la integración, desarrollo y mejoramiento de la familia y del grupo familiar, mediante su participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
+
+II. Difundir y ejecutar acciones para la protección de los derechos del adulto mayor, procurando su apoyo y evolución, para favorecer su reinserción al núcleo familiar y social;
+
+III. Implementar y difundir acciones para prevenir la discapacidad y gestionar en coordinación con el DIFEM, su tratamiento rehabilitatorio no hospitalario en centros especializados, favoreciendo su incorporación a una vida plena y productiva;
+
+IV. Instrumentar la prestación de los servicios funerarios en las instalaciones y expendios, en coordinación con el DIFEM;
+
+V. Difundir y ejecutar acciones que favorezcan la paternidad responsable, que propicien la preservación de los derechos de las niñas, niños y adolescentes, a la satisfacción de sus necesidades y a la salud física y mental, atendiendo al interés superior de ellos;
+
+VI. Realizar acciones que tiendan a la prevención, protección y atención a niñas niños y adolescentes migrantes y que sufran de explotación sexual, comercial infantil en cualquiera de sus variantes y modalidades;
+
+VII. Establecer y operar instancias y centros especializados que realicen acciones de prevención, atención y rehabilitación para erradicar la violencia familiar;
+
+VIII. Establecer y operar, con base en la disponibilidad presupuestal, centros especializados para la protección y albergue de los beneficiarios de la Ley, pudiendo celebrar convenios con autoridades municipales colindantes o regionales, con el Estado y con la Federación;
+
+IX. Establecer los mecanismos necesarios para el control y flujo de información, en la optimización de la captación, administración, distribución y transparencia de los recursos que integran su patrimonio;
+
+X. Establecer con autorización de la Junta de Gobierno, cuotas de recuperación en los servicios asistenciales que preste los SMDIF, previo estudio socio económico que se le practique, debiendo tomar en consideración la vulnerabilidad de los beneficiarios de esta Ley, pudiendo determinar la exención del pago;
+
+XI. Apoyar en el ejercicio de la tutela de los incapaces, que corresponda al Estado, en razón del domicilio del pupilo, la protección de niñas, niños y adolescentes e incapaces que carezcan de familiares así como asistirlos en los procedimientos judiciales civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+
+XII. Coadyuvar con el Ministerio Público, aportando los elementos a su alcance en la protección de niñas, niños y adolescentes e incapaces que carezcan de familiares y en los procedimientos judiciales civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+
+XIII. Apoyar en auxilio de la autoridad judicial, a los particulares, cuando lo soliciten en los procedimientos judiciales relacionados con los juicios de divorcio, guarda y custodia, alimentos, patria potestad, estado de interdicción, tutela, curatela, realizando los estudios socioeconómicos y psicológicos que sean solicitados por la autoridad judicial y por las partes interesadas, con la limitante de la disponibilidad de la especialidad en que se requiera;
+
+XIV. Ejecutar programas y acciones de prevención y atención, de los miembros del grupo familiar, mediante equipos interdisciplinarios: médicos del primer nivel de atención, psicológica y psiquiátrica, así como prevención de las adicciones, a los beneficiarios de esta Ley, que propicien una cultura de salud mental;
+
+XV. Ejecutar en coordinación con el DIFEM, programas y acciones que protejan el desarrollo de la familia, fomenten la paternidad responsable y la integración familiar que propicien la preservación de los derechos de la niñez a la satisfacción de sus necesidades, a la salud física y mental, así como diseñar platicas previas a la celebración del matrimonio con el fin de erradicar la violencia familiar y conciliar la vida laboral y familiar;
+
+XVI. Celebrar convenios de colaboración y de apoyo con otros SMDIF, para la gestión y desarrollo de diligencias para la resolución de los asuntos de su competencia; y
+
+XVII. Las demás que propicien el desarrollo integral de la familia, en términos de esta Ley.
+
+###### Artículo 42.
+
+Con el objeto de asegurar la transparencia y continuidad de la operación de los programas, previo al término de la gestión administrativa, las Presidentas de los SMDIF deberán depositar con el Presidente Municipal, la información relativa a:
+
+I. El patrimonio de servicio y productivo del SMDIF, que establece esta Ley, incluyendo el libro de inventario y expedientes administrativos soporte del mismo;
+
+II. Los expedientes formados en el ejercicio de la tutela de los menores, así como la información necesaria para su ubicación; y
+
+III. El seguimiento de los servicios asistenciales otorgados a los beneficiarios, cuando éstos puedan implicar perjuicio a su integridad física, emocional o condición jurídica.
+
+La entrega y recepción de esta información se realizará por lo menos con 30 días hábiles de anticipación a la conclusión de la gestión administrativa, mediante el levantamiento de acta circunstanciada, a la que deberá comparecer el representante del órgano de control municipal y del Órgano Superior de Fiscalización, debiendo notificarse de su instrumentación al DIFEM.
+
+T R A N S I T O R I O S
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se abroga la Ley de Asistencia Social del Estado de México publicada el 31 de diciembre de 1986.
+
+CUARTO.- El Titular del Poder Ejecutivo Estatal y los Ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+QUINTO.- La Junta de Gobierno expedirá su Reglamento, en un plazo de noventa días a partir de su entrada en vigor.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintiséis días del mes de agosto de dos mil diez.- Presidente.- Dip. Félix Adrián Fuentes Villalobos.- Secretarios.- Dip. Francisco Javier Veladiz Meza.- Dip. Eynar de los Cobos Carmona.- Dip. Horacio Enrique Jiménez López.- Rúbricas.
+
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 7 de septiembre de 2010.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+
+LIC. ENRIQUE PEÑA NIETO
+
+(RUBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. LUIS ENRIQUE MIRANDA NAVA
+
+(RUBRICA).
