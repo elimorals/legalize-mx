@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2010-09-03"
+last_updated: "2010-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -513,8 +513,6 @@ F). Cuando se señale domicilio inexistente o falso.
 
 Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimosexto día siguiente a aquél en que se hubiera fijado el documento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
-
 > <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 22 Bis.
@@ -570,8 +568,6 @@ El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o
 ###### Artículo 25.
 
 La determinación de los créditos fiscales corresponde a los contribuyentes, salvo disposición expresa en contrario. En caso de que la autoridad fiscal deba realizar esta determinación, los contribuyentes, proporcionarán la información necesaria dentro de los quince días siguientes contados a partir de que surta efecto la notificación del requerimiento de la autoridad.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1477,7 +1473,7 @@ D). Cédula de Identificación Fiscal o Constancia de Inscripción al Registro F
 
 E). Comprobante del domicilio que señale dentro del territorio del Estado con fecha de expedición no mayor a dos meses.
 
-F). Constancia emitida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública en la que acredite su calidad de miembro activo en alguna de dichas agrupaciones cuando menos en los últimos tres años previos a la presentación de la solicitud de autorización para formular dictamen.
+F) Constancia emitida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública en la que acredite su calidad de miembro activo en alguna de dichas agrupaciones cuando menos en los últimos tres años previos a la presentación de la solicitud de autorización para formular dictamen.
 
 G). Constancia de cumplimiento de la norma de educación profesional continua o de actualización académica relativa al año previo al de la solicitud de autorización para formular dictamen, expedida por colegios profesionales o asociaciones de contadores públicos reconocidos y autorizados por la Secretaría de Educación Pública.
 
@@ -11245,7 +11241,7 @@ Cuando los municipios, los organismos descentralizados, las empresas de particip
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 273.
 
@@ -11387,7 +11383,7 @@ Cuando un crédito esté totalmente amortizado se deberá dar de baja en el Regi
 
 ###### Artículo 285.
 
-El presupuesto de Egresos del Estado es el instrumento jurídico, de política económica y de política de gasto, que aprueba la Legislatura conforme a la iniciativa que presenta el Gobernador, en el cual se establece el ejercicio, control y evaluación del gasto público de las Dependencias, Entidades Públicas y Organismos Autónomos a través de los programas derivados del Plan de Desarrollo del Estado de México, durante el ejercicio fiscal correspondiente.
+El Presupuesto de Egresos del Estado es el instrumento jurídico, de política económica y de política de gasto, que aprueba la Legislatura conforme a la iniciativa que presenta el Gobernador, en el cual se establece el ejercicio, control y evaluación del gasto público de las Dependencias, Entidades Públicas y Organismos Autónomos a través de los programas derivados del Plan de Desarrollo del Estado de México, durante el ejercicio fiscal correspondiente, así como de aquellos de naturaleza multianual propuestos por la Secretaría.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -11443,6 +11439,10 @@ Las dependencias, entidades públicas y unidades administrativas formularán su 
 
 Las dependencias, entidades públicas, organismos autónomos y municipios que reciban recursos por programas de apoyos federales establecidos en un acuerdo o convenio, para la ejecución de dichos programas, deberán prever en el capítulo de gasto correspondiente el ejercicio de los mismos, informando de ello para la integración de la cuenta pública.
 
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría realizará las acciones tendientes a procurar que las asignaciones presupuestales multianuales que se propongan en el proyecto de presupuesto de egresos correspondientes a programas en materia de obra pública, respeten las políticas de austeridad y no sean menores a las del ejercicio fiscal anterior.
+
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
@@ -11464,6 +11464,10 @@ La asignación de remuneraciones se fijará con base en los criterios y elemento
 ###### Artículo 289 Bis.
 
 La Legislatura al aprobar el Presupuesto de Egresos no podrá dejar de señalar las asignaciones presupuestales necesarias para cubrir los financiamientos a cargo del Estado y/o sus organismos descentralizados de acuerdo a los contratos y documentos que instrumenten los financiamientos correspondientes. En caso de que por cualquier circunstancia se omita prever las asignaciones presupuestales se entenderán señalados los montos establecidos para el ejercicio inmediato anterior.
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+La Legislatura verificara que en el Presupuesto de Egresos, de que se trate, se asignen los montos requeridos para programas y proyectos comprendidos bajo la modalidad de presupuestos multianuales que se hubieran aprobado en ejercicios fiscales anteriores.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -11525,11 +11529,11 @@ a). 8000 Participaciones, Aportaciones Federales y Estatales a municipios;
 
 b). 9000 Deuda Pública.
 
-> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 292 Bis.
 
-El Presupuesto de Egresos deberá contemplar anualmente en el capítulo de deuda pública las asignaciones destinadas a cubrir totalmente el pago de los pasivos derivados de erogaciones devengadas y pendientes de liquidar al cierre del ejercicio fiscal anterior.
+El Presupuesto de Egresos deberá contemplar anualmente en el capítulo de deuda pública las asignaciones destinadas a cubrir totalmente el pago de los pasivos derivados de erogaciones devengadas y pendientes de liquidar al cierre del ejercicio fiscal anterior, así como aquellas asignaciones correspondientes a programas y proyectos propuestos por la Secretaría y cuyo presupuesto multianual hubiese sido aprobado por la Legislatura.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -11565,13 +11569,17 @@ En el caso de los municipios, la comunicación de techos presupuestarios y del M
 
 Las dependencias y entidades públicas formularán su anteproyecto de Presupuesto de Egresos de acuerdo con el manual para la formulación del anteproyecto de presupuesto, con base en los techos presupuestarios comunicados y sus programas anuales.
 
-> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 297.
 
-En casos especiales y previa justificación la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, podrán autorizar que se celebren contratos de obra pública o de adquisiciones de bienes o contratación de servicios para programas que rebasen el año presupuestal, quedando sujeto su ejercicio y pago a la disponibilidad presupuestal de los años correspondientes. Para los años presupuestales subsecuentes, los compromisos de pago adquiridos en ejercicios anteriores, conforme a lo previsto en este artículo, por las dependencias y entidades gozarán de preferencia respecto de nuevos compromisos que las mismas adquieran. Las dependencias y entidades deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados se realicen con sujeción a la preferencia establecida en este artículo.
+En casos especiales y previa justificación, la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, podrán autorizar que se celebren contratos de obra pública o de adquisiciones de bienes o contratación de servicios para programas que rebasen el año presupuestal, quedando sujeto su ejercicio y pago a la disponibilidad presupuestal de los años correspondientes. Justifique que su celebración representa ventajas económicas o que sus términos o condiciones, son más favorables; que el plazo de la contratación y que el mismo no afectará negativamente la competencia económica en el sector de que se trate; identifiquen el gasto corriente o de inversión correspondiente; y desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente como para los subsecuentes. Asimismo podrán autorizarse programas y proyectos de gran visión, debiendo incluir en el proyecto de Presupuesto de Egresos, el Presupuesto Multianual correspondiente. Para los años presupuestales subsecuentes, los compromisos de pago adquiridos en ejercicios anteriores, conforme a lo previsto en este artículo, por las dependencias y entidades gozarán de preferencia respecto de nuevos compromisos que las mismas adquieran. Las dependencias y entidades deberán cuidar bajo su responsabilidad que los pagos que se efectúen con cargo a sus presupuestos aprobados se realicen con sujeción a la preferencia establecida en este artículo.
 
-Cuando la Legislatura del Estado apruebe una asignación presupuestal para el cumplimiento de obligaciones contraídas, en los términos del Libro Décimo Sexto del Código Administrativo del Estado de México, las asignaciones presupuestales para ejercicios posteriores deberán ser aprobadas y no podrán ser disminuidas de tal forma que afecte el cumplimiento de los compromisos adquiridos por el Estado bajo dicho esquema.
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando la Legislatura del Estado apruebe una asignación presupuestal para el cumplimiento de obligaciones contraídas, en los términos del Libro Décimo Sexto del Código Administrativo del Estado de México, o para programas y proyectos multianuales, las asignaciones presupuestales para ejercicios posteriores deberán ser aprobadas y no podrán ser disminuidas de tal forma que afecte el cumplimiento de los compromisos adquiridos por el Estado bajo dicho esquema.
+
+> <small>(REFORMADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
 Tratándose de obra pública cuando existan obras o acciones cuya ejecución abarque varios ejercicios presupuestales, las dependencias, entidades públicas y unidades administrativas ejecutoras deberán presentar a la Secretaría o la Tesorería en el ámbito de sus respectivas competencias, el programa de ejecución de la obra en el que se establezca claramente el plazo para su ejecución, dicho documento deberá formar parte del expediente técnico.
 
@@ -11631,11 +11639,11 @@ El Gobernador presentará a la Legislatura a mas tardar el veintiuno de noviembr
 
 En el caso de los municipios, el Presidente Municipal lo presentará al Ayuntamiento a más tardar el quince de noviembre.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 303.
 
-Las dependencias y entidades públicas al formular su anteproyecto de presupuesto de egresos deberán considerar prioritariamente las erogaciones que se realizarán con base en los programas de mediano y largo plazo que impliquen compromisos por contratos de obra pública.
+Las dependencias y entidades públicas al formular su anteproyecto de presupuesto de egresos, deberán considerar prioritariamente las erogaciones que se realizarán con base en los programas de mediano y largo plazo, que impliquen compromisos por contratos de obra pública, así como las que deriven de programas y proyectos multianuales cuyos presupuestos hubiesen sido aprobados por la Legislatura en ejercicios fiscales anteriores.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -13165,6 +13173,8 @@ II. En el caso de embargo precautorio, cuando los créditos se hagan exigibles y
 
 III. Cuando el embargado no proponga comprador dentro del plazo a que se refiere la fracción I del artículo 429 de este Código.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 408.
@@ -14154,6 +14164,16 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- El presente Decreto, entrará en vigor una vez que se encuentren en servicio el SEITS y el Registro Único de Personas Acreditadas del Estado de México, en términos del artículo Segundo Transitorio del Decreto por el que se expide la Ley para el Uso de Medio Electrónicos del Estado de México.
 
 TERCERO.- Hasta en tanto se actualice lo dispuesto por el artículo anterior, continuarán aplicándose las disposiciones vigentes en el Código Financiero del Estado de México y Municipios.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente a aquel en que entre en vigor la reforma constitucional.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+CUARTO.- Los informes a que se refiere el Artículo 327- E del Código Financiero del Estado de México y Municipios contarán con un apartado especial que contenga la información correspondiente a los proyectos de inversión que cuenten con erogaciones plurianuales en términos del Artículo 285 del propio ordenamiento.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
