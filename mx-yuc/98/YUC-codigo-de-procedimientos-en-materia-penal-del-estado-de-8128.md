@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-en-materia-penal-del-estado-de-8128"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-15"
-last_updated: "2008-07-23"
+last_updated: "2010-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 15 de diciembre de 1994.
 
@@ -61,6 +61,12 @@ II.- Declarar la responsabilidad o la inocencia de las personas acusadas ante el
 
 III.- Aplicar las sanciones que señalan las leyes.
 
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 1 Bis.
+
+Las autoridades encargadas de la investigación de los delitos, la policía ministerial, las autoridades encargadas de ejecutar las sanciones así como los jueces y tribunales del Estado, en el ámbito de sus respectivas competencias, conocerán y resolverán los delitos y ejecutarán las sanciones y medidas a que se refiere el artículo 474 y demás disposiciones aplicables del Capítulo VII del Título décimo octavo de la Ley General de Salud, aplicando en lo conducente este Código.
+
 ###### ARTICULO 2.
 
 Corresponde exclusivamente al Ministerio Público, el ejercicio de la función persecutoria de los delitos, la cual tiene por objeto:
@@ -70,6 +76,12 @@ I.- La actividad investigadora de los delitos, y
 > <small>(REFORMADA, D.O. 30 DE MARZO DE 2000)</small>
 
 II.- El ejercicio o no de la acción penal.
+
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 2 Bis.
+
+Corresponde a la Procuraduría General de Justicia del Estado prestar apoyo y protección a jueces, peritos, testigos, víctimas y demás personas, en su intervención en cualquier procedimiento relativo a delitos contra la salud, en su modalidad de narcomenudeo, que sean competencia del fuero común, en términos de la legislación correspondiente.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 30 DE MARZO DE 2000)</small>
 
@@ -103,9 +115,17 @@ VI.- Conceder o revocar, cuando proceda, la libertad provisional del indiciado.
 
 VII.- Promover la conciliación de las partes, en los delitos sancionables con pena no privativa de libertad o alternativa.
 
-VIII.- Solicitar las órdenes de cateo que procedan, cumpliendo con los requisitos que señalan el artículo 98 de este Código, y
+> <small>(REFORMADA, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
 
-IX.- Realizar las diligencias que señalan las leyes.
+VIII.- Solicitar las órdenes de cateo que procedan, cumpliendo con los requisitos que señalan el artículo 98 de este Código;
+
+> <small>(REFORMADA, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+IX.- Practicar las diligencias de averiguación previa que correspondan y remitir a la autoridad administrativa competente, cuando tenga conocimiento de que un propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza, lo empleare para realizar conductas ilícitas relativas al narcomenudeo o que permitiera su realización por terceros, a fin de que proceda a su clausura, y
+
+> <small>(ADICIONADA, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Realizar las diligencias que señalan las leyes.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 30 DE MARZO DE 2000)</small>
 
@@ -138,6 +158,10 @@ IX.- Pedir la aplicación de la sanción correspondiente al caso concreto de que
 > <small>(REFORMADA, D.O. 30 DE MARZO DE 2000)</small>
 
 X.- Ordenar la libertad del indiciado cuando la conducta o los hechos no sean constitutivos de delito conforme a la descripción típica contenida en la ley penal o no tuviere participación en el delito que se persigue o bien concurra en su favor alguna de las causas de exclusión del delito consignadas en el Código Penal del Estado o alguna de las excusas absolutorias o causas de extinción de la responsabilidad penal; en estos casos, el Ministerio Público no ejercitará la acción penal; si surgieran durante el proceso, el propio representante social promoverá el sobreseimiento y la absoluta libertad del inculpado.
+
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+Tampoco ejercitará la acción penal, en caso de surtirse los supuestos contenidos en los artículos 477 y 478 de la Ley General de Salud, relativos al delito contra la salud en su modalidad de narcomenudeo.
 
 ### CAPITULO III. DE LA COMPETENCIA
 
@@ -326,6 +350,12 @@ Los Secretarios cotejarán las copias o testimonios de constancias que se mandar
 Todos los gastos que se originen en las diligencias de Averiguación Previa, en las acordadas por los Tribunales a solicitud del Ministerio Público, y en las decretadas de oficio por Tribunales, serán cubiertos por el erario estatal.
 
 Los gastos de las diligencias solicitadas por el inculpado o la defensa serán cubiertos por quienes las promuevan. En el caso de que estén imposibilitados para ello y de que el Ministerio Público estime que son indispensables para el esclarecimiento de los hechos, podrá éste hacer suya la petición de esas diligencias, y entonces quedarán también a cargo del erario estatal.
+
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 33 Bis.
+
+El Ministerio Público o la autoridad judicial del conocimiento, tan pronto identifiquen que una persona relacionada con un procedimiento es farmacodependiente, deberá informar de inmediato, y en su caso, dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda.
 
 ### CAPITULO VII. INTERPRETES
 
@@ -841,6 +871,14 @@ VI.- Las presunciones.
 
 La confrontación y los careos son medios complementarios de las pruebas de confesión y de testigos.
 
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 115 Bis.
+
+Cuando surta la competencia local, conforme a la Ley General de Salud, tratándose de los delitos en contra de la salud en su modalidad de narcomenudeo y se utilice la técnica de investigación a la que alude el segundo párrafo de la fracción VI del artículo 21 del Código Penal del Estado, se preservará en todo momento la identidad de los agentes de la policía que hayan sido autorizados para actuar encubiertos en la indagatoria.
+
+En caso de que se requiera la intervención personal de dichos servidores públicos en diligencias de desahogo de pruebas, se podrá emplear cualquier procedimiento que garantice la reserva de su identidad, sin menoscabar el derecho fundamental a la defensa y al debido proceso.
+
 ### CAPITULO II. CONFESION
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
@@ -1110,6 +1148,10 @@ Antes de emitir su testimonio, los testigos deberán siempre rendir la protesta 
 > <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
 
 El Juez o Tribunal deberá cerciorarse de la veracidad de las respuestas del testigo con relación a su nombre, edad y domicilio, para lo cual deberá exigirle la respectiva acreditación, mediante la exhibición de su credencial para votar con fotografía o de un documento fidedigno, del cual se tomará debida nota en el expediente. Lo mismo hará el Ministerio Público con relación a los testigos que ante él declaren en averiguación previa.
+
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+No obstante lo anterior, durante las averiguaciones previas substanciadas con motivo de delitos contra la salud en su modalidad de narcomenudeo, cuando se presuma fundadamente que está en riesgo la integridad de las personas que rindan testimonio, se deberá, a juicio del Ministerio Público, mantenerse bajo reserva su identidad.
 
 ###### ARTICULO 165.
 
@@ -1943,6 +1985,20 @@ En todos los delitos en que se requieran conocimientos especiales para comprobar
 
 Para la comprobación del cuerpo del delito y de la probable o plena responsabilidad del inculpado, el Ministerio Público, los Jueces y Tribunales gozarán de la más amplia facultad para emplear los medios de investigación que estimen conducentes, según su criterio, aunque no sean de los que define y detalla la ley, siempre que esos medios no estén prohibidos por ésta.
 
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 286 Bis.
+
+Tratándose de delitos en contra de la salud en su modalidad de narcomenudeo, en los que se haya implementado alguna técnica de investigación, conforme al segundo párrafo de la fracción VI del artículo 21 del Código Penal del Estado, a fin de garantizar el debido proceso y la preservación de la reserva de la identidad del agente que participó en la investigación, se tomarán las siguientes medidas:
+
+I.- Se asignará al agente encubierto una clave numérica, que sólo será del conocimiento del Procurador General de Justicia del Estado y del Secretario de Seguridad Pública Estatal y del propio agente.
+
+II.- En las actuaciones de averiguación previa, en el ejercicio de la acción penal y durante el proceso penal, el Ministerio Público y la autoridad judicial competente citarán la clave numérica en lugar de los datos de identidad del agente encubierto.
+
+III.- En todo caso, el Ministerio Público exhibirá ante la autoridad judicial competente el acuerdo por el cual el titular del Ministerio Público o quien haya hecho la designación, autorizó al elemento policial para la técnica de investigación encubierta, documento en el que deberán constar los lineamientos, términos, limitaciones, modalidades y condiciones del encargo.
+
+De no cumplirse con estos requisitos, el material recabado por el agente encubierto no tendrá ningún valor probatorio en el proceso. Lo mismo sucederá si dicho agente se excede en el ejercicio de dicha técnica de investigación.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 287.
@@ -1964,6 +2020,10 @@ En la misma forma procederán los Agentes del Ministerio Público Adscritos a lo
 ###### ARTICULO 289.
 
 Cuando en vista de los datos obtenidos en la Averiguación, el Director de Averiguaciones Previas del Estado o, en su caso, el Agente del Ministerio Público adscrito a los Tribunales foráneos del Estado, a quienes la Ley Orgánica de la Procuraduría General de Justicia del Estado o su Reglamento, faculten para hacerlo, estimen que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delictuosos o por los que se hubiera presentado querella, lo resolverán así, haciendo saber esta determinación a los interesados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+En caso de que se decida no ejercitar la acción penal, en el supuesto contenido en el artículo 478 de la Ley General de Salud, la autoridad ministerial informará al consumidor la ubicación de las instituciones o centros para el tratamiento médico o de orientación para la prevención de la farmacodependencia. Asimismo, se comunicará el no ejercicio de la acción penal a la autoridad sanitaria, para los fines legales conducentes.
 
 El denunciante, el querellante, el ofendido o la víctima podrán ocurrir al Procurador General de Justicia dentro del término de 5 días contados desde el siguiente a aquél en que les hubiere hecho saber la determinación, solicitando la revisión de ésta.
 
@@ -3380,3 +3440,17 @@ D.O. 23 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a los 30 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 7 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los 15 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del año 2012 deberán haber realizado las acciones necesarias a fin de dar el debido cumplimiento a las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
