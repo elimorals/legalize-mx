@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2009-09-21"
+last_updated: "2010-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -56,6 +56,10 @@ a). Que el inculpado no haya sido juzgado definitivamente por los mismos hechos 
 b). Que la infracción sea considerada delictuosa en el lugar de su comisión y en el Estado, y
 
 III. Delitos permanentes o continuados comenzados a cometer fuera del Estado y que se sigan cometiendo en éste.
+
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+Son aplicables en lo conducente, las disposiciones de este Código, por los delitos en contra de la salud en su modalidad de narcomenudeo a que se refiere el artículo 474 y demás disposiciones aplicables al Capítulo VII del Título Décimo Octavo de la Ley General de Salud.
 
 ###### ARTÍCULO 2.
 
@@ -224,6 +228,10 @@ Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de cau
 V. Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente activo del delito, lesionando otro bien de menor o igual jerarquía que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente activo del delito no tuviere el deber jurídico de afrontarlo;
 
 VI. La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho y que este último no se realice con el sólo propósito de perjudicar a otro;
+
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+Se entenderá como cumplimiento de un deber, cuando los agentes policíacos del Estado, previamente autorizados por el Titular del Ministerio Público, ejecuten una orden de infiltración como técnica para la investigación de los delitos contemplados en la Ley General de Salud en su modalidad de narcomenudeo. En la orden de infiltración, se especificarán los lineamientos, términos, modalidades, limitaciones y condiciones a que se encontrarán sujetos dichos agentes.
 
 VII. Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el agente hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico, siempre y cuando lo haya previsto o le fuera previsible.
 
@@ -553,11 +561,17 @@ Cuando los objetos, instrumentos o bienes decomisados pertenezcan a persona dist
 
 Si los instrumentos o cosas decomisadas de que habla la primera parte del artículo anterior de este Código, sólo sirven para delinquir o son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código de Procedimientos Penales. El juez, cuando lo estime conveniente, podrá dictar las medidas pertinentes para dejar constancia de los mismos en los autos de la causa y, en su caso, determinar su conservación para fines de docencia o investigación. Respecto de los instrumentos del delito o cosas que sean objeto o producto de él, la autoridad correspondiente determinará su destino según su utilidad, para beneficio del Estado.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 62.
 
-Las autoridades correspondientes procederán al inmediato aseguramiento de los bienes que pueden ser materia del decomiso durante la averiguación o en el proceso, ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona, con objeto de que no se alteren, destruyan o desaparezcan.
+Las autoridades correspondientes procederán al inmediato aseguramiento de los bienes que pueden ser materia del decomiso durante la averiguación previa o en el proceso, ya sea recogiéndolos, poniéndolos en secuestro judicial o simplemente al cuidado y bajo la responsabilidad de alguna persona previamente autorizada, con objeto de que no se alteren, destruyan o desaparezcan.
 
-Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
+Se actuará en los términos previstos en el párrafo anterior, cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
+
+Cuando se trate de aseguramiento de estupefacientes o psicotrópicos, el Ministerio Público o el juez, solicitará a la autoridad competente, la elaboración de un dictamen pericial en el que se señale los caracteres organolépticos o químicos de la sustancia asegurada. Este dictamen, cuando hubiere detenido, será rendido dentro de un plazo de setenta y dos horas.
+
+Para los efectos, del destino y destrucción de los narcóticos que se incauten, se estará a lo dispuesto en el artículo 480 de la Ley General de Salud.
 
 ###### ARTÍCULO 63.
 
@@ -841,9 +855,13 @@ I. Los jueces o tribunales, en su caso, al dictarse sentencia de condena o en la
 
 a). Que la sanción privativa de libertad sea menor de tres años;
 
-b) Que el sentenciado no sea reincidente por delito doloso y, además, que haya evidenciado buena conducta positiva antes y después del hecho punible, y
+b). Que el sentenciado no sea reincidente por delito doloso y, además, que haya evidenciado buena conducta positiva antes y después del hecho punible, y
 
 c). Que por sus antecedentes personales o modo honesto de vivir y de sufragar sus necesidades y las de las personas que dependan de él económicamente, así como por la naturaleza, modalidades y móviles del delito, se presuma que el sentenciado no volverá a delinquir;
+
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+No se considerará como antecedente que perjudique al sentenciado para obtener este beneficio, el relativo a la farmacodependencia, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente, para su rehabilitación, bajo vigilancia de la autoridad ejecutora, en atención al artículo 192 Quáter de la Ley General de Salud.
 
 II. Para gozar de este beneficio el sentenciado deberá:
 
@@ -855,9 +873,17 @@ c). Acreditar en el plazo que se le fije, profesión, arte, oficio u ocupación 
 
 d). Abstenerse del abuso de bebidas alcohólicas y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo por prescripción médica;
 
-e). Abstenerse de causar molestias al ofendido, a sus familiares y allegados, y a cualesquiera personas relacionadas con el delito o proceso, y
+> <small>(REFORMADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
 
-f). Reparar el daño causado.
+e). Abstenerse de causar molestias al ofendido, a sus familiares; y allegados, y a cualesquiera personas relacionadas con el delito o proceso;
+
+> <small>(REFORMADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+f). Reparar el daño causado, y
+
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+g). En caso de ser farmacodependiente, haberse sometido al tratamiento de rehabilitación correspondiente, bajo la vigilancia de la autoridad ejecutora competente.
 
 ###### ARTÍCULO 101.
 
@@ -3589,4 +3615,18 @@ D.O. 21 DE SEPTIEMBRE DE 2009
 
 ###### ARTÍCULO ÚNICO.
 
-Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 7 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los 15 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del año 2012 deberán haber realizado las acciones necesarias a fin de dar el debido cumplimiento a las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
