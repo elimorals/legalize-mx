@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ejecucion-de-sanciones-del-estado-de-yucatan-18690"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-30"
-last_updated: "2007-03-30"
+last_updated: "2010-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EJECUCION DE SANCIONES DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -745,9 +745,17 @@ II. Tratamiento médico-quirúrgico;
 
 III. Estudios psicológico y psiquiátrico;
 
-IV. Higiene, y
+> <small>(REFORMADA, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
 
-V. Medicina preventiva.
+IV. Higiene;
+
+> <small>(REFORMADA, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+V. Medicina preventiva, y
+
+> <small>(ADICIONADA, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Rehabilitación por farmacodependencia, conforme al segundo párrafo del artículo 481 de la Ley General de Salud.
 
 ###### ARTÍCULO 98.
 
@@ -1242,3 +1250,17 @@ D.O. 30 DE MARZO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 7 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los 15 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del año 2012 deberán haber realizado las acciones necesarias a fin de dar el debido cumplimiento a las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
