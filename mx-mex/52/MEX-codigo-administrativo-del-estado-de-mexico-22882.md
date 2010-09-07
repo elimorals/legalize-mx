@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-09-06"
+last_updated: "2010-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -389,21 +389,17 @@ III. Desempeñar los Mandos, cargos y comisiones que se requieran para el cumpli
 
 28.- (DEROGADO POR ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, G.G. 6 DE SEPTIEMBRE DE 2010)
 
-## TITULO QUINTO. Del Sistema de Apertura Rápida de Empresas y de la atención a la actividad empresarial
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+## TITULO QUINTO. Del Sistema de Apertura Rápida de Empresas y de la Atención a la Actividad Empresarial
 
 ###### Artículo 1.
 
-29.- El Sistema de Apertura Rápida de Empresas es el conjunto de disposiciones e instrumentos de apoyo empresarial, cuyo objetivo es facilitar la regularización, instalación, apertura, operación y ampliación de empresas en la entidad.
-
-La operación del Sistema estará a cargo de la Secretaría de Desarrollo Económico, la que servirá de enlace entre las empresas y las dependencias y organismos auxiliares de la administración pública estatal, federal y municipal, para la asesoría y gestión de trámites de instalación, apertura, operación y ampliación de empresas. Para tal efecto, la Secretaría de Desarrollo Económico se apoyará en la Comisión Estatal de Atención Empresarial.
+29.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
-30.- La Comisión Estatal de Atención Empresarial es un órgano de coordinación interinstitucional integrado por un presidente, que será el Secretario de Desarrollo Económico, y un vocal por cada dependencia y organismo auxiliar de la administración pública estatal que intervengan en la instalación, apertura, operación y ampliación de empresas en la entidad, y contará con la participación de los municipios respectivos cuando se traten asuntos de su ámbito territorial de competencia. Dicha Comisión tendrá las facultades siguientes:
-
-I. Resolver de manera colegiada los trámites de competencia estatal que soliciten las empresas, a través de la Secretaría de Desarrollo Económico;
-
-II. Coordinar acciones con las autoridades federales y municipales que intervengan en la valoración, dictamen y autorización de trámites y servicios públicos para la instalación, apertura, operación y ampliación de empresas.
+30.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ## TITULO SEXTO. De las normas técnicas
 
@@ -1287,7 +1283,7 @@ Para dar curso a la acción popular, basta el señalamiento de los hechos que co
 
 ## TITULO DECIMO TERCERO. Del Consejo Estatal de Población
 
-(REUBICADO [N. DE E. ANTES ARTICULO 1.46], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+(REUBICADO [N. DE E. ANTES ARTICULO 1.46], G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
@@ -6173,6 +6169,8 @@ Corresponde a la Secretaría General de Gobierno por conducto de la Agencia de S
 
 ### CAPITULO TERCERO. De los consejos consultivos económicos
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 8.
 
 4.- Cualquier persona tiene derecho a transitar en la infraestructura vial con las limitaciones establecidas en este Libro y su reglamentación.
@@ -6328,10 +6326,6 @@ k) Efectuar carreras o arrancones en la vía pública;
 l) Obstruir los accesos y espacios destinados a las personas con capacidades diferentes.
 
 ### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 8.
 
@@ -6637,6 +6631,8 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 ## TITULO PRIMERO. Disposiciones generales
 
+> <small>(DEROGADO CON LOS ARTICULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
 ### CAPITULO QUINTO. Del tránsito y transporte
 
 ###### Artículo 9.
@@ -6657,77 +6653,67 @@ I. En caso de la fracción I, el beneficiario deberá devolver los apoyos y est�
 
 II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los apoyos y estímulos recibidos o su equivalente y no podrá ser sujeto de nuevos apoyos o estímulos por un plazo de dos años, contado a partir de la devolución correspondiente.
 
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
 ### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
 # LIBRO DECIMO. Del fomento económico
 
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
 ## TITULO SEGUNDO. Del fomento empresarial
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
 ###### Artículo 10.
 
-1.- Este Libro tiene por objeto regular el fomento de las actividades económicas.
-
-Para efectos de este Libro, se entiende por actividad económica toda aquella que tenga por objeto extraer, producir, transformar, industrializar o comercializar recursos, bienes o servicios; y, por empresa, toda persona física o moral que directa o indirectamente se dedique a una actividad económica.
+1.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-2.- Las disposiciones de este Libro tienen como finalidad lograr en la entidad un incremento sostenido de las actividades económicas.
+2.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
 
 ###### Artículo 10.
 
-3.- Corresponde a la Secretaría de Desarrollo Económico el fomento de las actividades económicas en los términos de este Libro, en coordinación con las demás dependencias y organismos auxiliares de la administración pública estatal, federal y municipal.
+3.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-4.- Las dependencias y organismos auxiliares estatales y municipales, en el ámbito de sus atribuciones, coadyuvarán al fomento de las actividades económicas en la entidad.
+4.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-5.- Los municipios realizarán acciones de fomento económico que sean congruentes con las previstas en este Libro a cargo de la Secretaría de Desarrollo Económico y el Plan de Desarrollo Estatal.
+5.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
 
 ###### Artículo 10.
 
-6.- El Consejo Consultivo Económico Estatal es un órgano técnico de asesoría del Ejecutivo del Estado, para la promoción de las actividades económicas y el impulso del desarrollo integral de la entidad.
+6.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-7.- El Consejo propondrá acciones y programas para la satisfacción de los siguientes objetivos:
-
-I. Promover la inversión para que esta contribuye a la creación de empleos, a ampliar y modernizar la capacidad productiva e incrementar la oferta de bienes y servicios, particularmente los destinados a la exportación o a la sustitución de importaciones;
-
-II. Estimular la calidad y productividad de las empresas, con el propósito de elevar la competitividad del aparato productivo.
+7.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-8.- El Consejo se integrará por un Presidente, que será designado por el Gobernador del Estado, un Vicepresidente, que será el Secretario de Desarrollo Económico; un Secretario Técnico; y Consejeros representantes de los sectores público, social y privado, los que serán nombrados por el Presidente del Consejo y ejercerán sus funciones de manera honorífica.
+8.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
-El Consejo contara con los comités, comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto y operará en los términos del reglamento interno que al efecto se expida.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 10.
 
-9.- La Secretaría de Desarrollo Económico conjuntamente con el Consejo Consultivo Económico Estatal promoverá la creación de consejos consultivos económicos regionales y municipales, bajo los siguientes lineamientos:
+9.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
-I. Que tengan por objeto promover las actividades económicas y el impulso del desarrollo de una determinada región o municipio;
-
-II. Que los consejos consultivos económicos regionales se integren por un presidente designado por los presidentes municipales y cuando menos dos representantes por cada uno de los sectores privado y social, a invitación del presidente del consejo respectivo;
-
-III. Que los consejos consultivos económicos municipales se integren por un presidente, que será el presidente municipal correspondiente, y cuando menos dos representantes por cada uno de los sectores privado y social, a invitación del presidente del consejo respectivo;
-
-IV. Que los integrantes de los consejos ejerzan sus funciones de manera honorífica;
-
-V. Que cuenten con un vicepresidente y un secretario técnico, nombrado por su presidente, así como con los comités, comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto;
-
-VI. Que operen en los términos del reglamento interno que al efecto expidan;
-
-VII. Que actúen de manera coordinada con el Consejo Consultivo Económico Estatal.
-
-Para la creación de los consejos consultivos regionales se estará a la regionalización establecida por el Plan de Desarrollo del Estado de México.
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
@@ -6737,61 +6723,17 @@ Para la creación de los consejos consultivos regionales se estará a la regiona
 
 ###### Artículo 10.
 
-10.- La Secretaría de Desarrollo Económico impulsará el establecimiento de micro, pequeñas, medianas y grandes empresas, y el incremento de sus niveles de calidad, productividad y competitividad, para lo que promoverá:
-
-I. Instrumentos de apoyo empresarial con objeto de facilitar y agilizar los trámites, ante las dependencias y organismos auxiliares de la administración pública estatal, federal y municipal, para la instalación, apertura, operación y ampliación de empresas;
-
-II. La formación y capacitación empresarial, con el objeto de identificar y resolver problemas relacionados con la organización, producción y mercado de las empresas;
-
-III. La formación y capacitación para y en el trabajo, atendiendo las necesidades del aparato productivo;
-
-IV. La modernización de los procesos productivos de las empresas;
-
-V. La adquisición de procesos y tecnologías que contribuyan a la protección al ambiente y al óptimo aprovechamiento de los recursos naturales, especialmente los energéticos y el agua, así como una cultura para el uso racional de dichos recursos;
-
-VI. La asociación de micro y pequeñas empresas, y su vinculación con las medianas y grandes para elevar la integración y eficiencia de las cadenas productivas;
-
-VII. El establecimiento de parques y corredores industriales, así como de zonas comerciales;
-
-VIII. A las empresas y productos estatales en los ámbitos regional, nacional e internacional, a través de:
-
-a) La organización de misiones comerciales, la celebración de encuentros empresariales y la participación en ferias y exposiciones regionales, nacionales e internacionales;
-
-b) La colaboración del Estado con entidades públicas de los demás estados de la Federación y del extranjero en materia de intercambio comercial y cooperación para el desarrollo.
-
-IX. La proveeduría como un medio para fortalecer las cadenas productivas y sustituir las importaciones;
-
-X. Servicios de consultoría, asesoría e información para la ubicación de mercados y oportunidades específicas de exportación y de coinversión, así como en materia de comercio exterior, tratados comerciales y cooperación para el desarrollo;
-
-XI. La vinculación del sector productivo con centros de investigación científica y tecnológica, colegios y asociaciones de profesionistas e instituciones de educación media superior y superior;
-
-XII. Mecanismos que permitan la obtención de financiamiento con tasas preferenciales para las micro y pequeñas empresas;
-
-XIII. La creación de consorcios, asociaciones y uniones de crédito;
-
-XIV. La gestión para la adquisición de terrenos y naves industriales, en caso de medianas y grandes empresas;
-
-XV. La integración de medianas y grandes empresas a los programas de conservación de empleo, protección de la planta productiva y sustitución de importaciones;
-
-XVI. La inversión extranjera directa en la entidad, para lo cual difundirá en el extranjero las ventajas comparativas del Estado frente a otras entidades federativas e identificará, informará, asesorará y apoyará a inversionistas extranjeros;
-
-XVII. El rescate, preservación, fortalecimiento y fomento de la actividad artesanal y las artes populares, a través del Instituto de Investigación y Fomento de las Artesanías del Estado de México;
-
-XVIII. El desarrollo minero, a través del Instituto de Fomento Minero y Estudios Geológicos del Estado de México;
-
-XIX. El desarrollo turístico;
-
-> <small>(ADICIONADA, G.G. 30 DE DICIEMBRE DE 2005)</small>
-
-XX. La constitución del Fondo Estatal para la Capacitación de la Micro, Pequeña y Mediana Empresa.
+10.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-11.- El Gobierno del Estado podrá otorgar apoyos y estímulos a las empresas que operen de manera acorde a las acciones que impulse la Secretaría de Desarrollo Económico, conforme a lo dispuesto en este Libro y que cuenten con el certificado de empresa mexiquense.
+11.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-12.- La Secretaría de Desarrollo Económico expedirá normas técnicas en materia de funcionalidad y operatividad de centrales y módulos de abasto, mercados de venta al detalle, rastros, plazas y explanadas comerciales, tianguis y otras construcciones relacionadas con el comercio.
+12.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
@@ -6799,63 +6741,17 @@ XX. La constitución del Fondo Estatal para la Capacitación de la Micro, Peque�
 
 ###### Artículo 10.
 
-13.- El Instituto de Investigación y Fomento a las Artesanías del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto el rescate, preservación, fortalecimiento y fomento de la actividad artesanal y las artes populares; así como la comercialización de los productos de éstas en la entidad.
-
-El Instituto, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
-
-I. Desarrollar investigaciones para el rescate, preservación y mejora de las técnicas y diseños artesanales, respetando los valores culturales de cada región;
-
-II. Convenir con instituciones educativas y los sectores público, social y privado, en materia de investigación, capacitación, organización, comercialización y financiamiento de la actividad artesanal;
-
-III. Promover el abasto de materias primas e insumos en mejores condiciones para los artesanos;
-
-IV. Fomentar la organización de los artesanos;
-
-V. Brindar capacitación y asesoría a los artesanos;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-VI. Promover y comercializar, por cuenta propia y de terceros, los productos artesanales elaborados en la entidad, en los mercados regionales, nacional e internacional;
-
-VII. Gestionar financiamientos con tasas preferenciales para la actividad artesanal;
-
-VIII. Coadyuvar con las autoridades federales, estatales y municipales en la protección, rehabilitación y racionalización de las fuentes de recursos naturales que se utilizan en la producción de artesanías;
-
-IX. Desarrollar y ejecutar programas de desconcentración administrativa, que le permita prestar sus servicios con inmediatez a los artesanos;
-
-X. Determinar la regionalización del territorio del Estado para fines de desarrollo artesanal.
+13.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-14.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
-
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con cuatro vocales, que son los representantes de las secretarías de Finanzas y Planeación, del Trabajo y de la Previsión Social, de Educación, Cultura y Bienestar Social, y de Administración.
-
-Son invitados permanentes del Consejo, un representante de los artesanos por cada región de desarrollo artesanal.
-
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo directivo.
-
-La organización y funcionamiento del Instituto se rige por el reglamento interno que expida el consejo directivo.
+14.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-15.- El patrimonio del Instituto se integra con:
+15.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
-I. Los bienes con los que actualmente cuenta;
-
-II. Los ingresos que obtenga en el ejercicio de sus atribuciones;
-
-III. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal;
-
-IV. Los legados, asignaciones, donaciones y demás bienes otorgados en su favor;
-
-V. Los bienes que adquiera por cualquier título legal para el cumplimento de su objeto;
-
-VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y demás ingresos que adquiera por cualquier título legal o que provengan de sus actividades.
-
-Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO TERCERO. De los procedimientos de adjudicación
 
@@ -6863,53 +6759,17 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ###### Artículo 10.
 
-16.- El Instituto de Fomento Minero y Estudios Geológicos del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto impulsar el desarrollo minero en la entidad y realizar estudios geológicos aplicados a la actividad minera y a la geología ambiental.
-
-El Instituto, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
-
-I. Fomentar el aprovechamiento sustentable de los recursos minerales;
-
-II. Realizar investigaciones geológicas aplicadas a la exploración, aprovechamiento óptimo de los recursos minerales y a la interpretación de los eventos geológicos que les dieron origen;
-
-III. Practicar estudios de exploración detallados que permitan conocer el potencial y la calidad de yacimientos minerales, seleccionados por la viabilidad de su comercialización;
-
-IV. Coadyuvar en la formulación de normas técnicas relativas a la exploración y explotación de minerales de competencia estatal;
-
-V. Apoyar a las dependencias y organismos auxiliares de la administración pública estatal y municipal con estudios geológicos aplicados a las materias de su competencia;
-
-VI. Coadyuvar con la autoridad federal para mantener actualizado el padrón de concesionarios mineros;
-
-VII. Participar con la Secretaría de Ecología y los municipios, en su caso, en la elaboración y desarrollo de programas de mitigación de impacto ambiental provocado por la actividad minera, disposición de residuos sólidos municipales, contaminación de mantos acuíferos y otros en los que se involucre el entorno geológico.
+16.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-17.- La dirección y administración del Instituto está a cargo de un consejo directivo y un director general.
-
-El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con seis vocales, que son los representantes de las secretarías de Finanzas y Planeación, de Administración, de Desarrollo Urbano y Obras Públicas, y de Ecología; el Vocal Ejecutivo de la Comisión del Agua del Estado de México y el Director General de Protección Civil.
-
-Son invitados permanentes del Consejo, los delegados en el Estado de la Secretaría de Economía del Gobierno Federal y de la Procuraduría Federal de Protección al Ambiente.
-
-El director general será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo directivo.
-
-La organización y funcionamiento del Instituto se rige por el reglamento interno que expida el consejo directivo.
+17.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-18.- El patrimonio del Instituto se integra con:
+18.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
-I. Los bienes con los que actualmente cuenta;
-
-II. Los ingresos que obtenga en el ejercicio de sus atribuciones;
-
-III. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal;
-
-IV. Los legados, asignaciones, donaciones y demás bienes otorgados en su favor;
-
-V. Los bienes que adquiera por cualquier título legal para el cumplimento de su objeto;
-
-VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y demás ingresos que adquiera por cualquier título legal o que provengan de sus actividades.
-
-Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO CUARTO. De la contratación
 
@@ -6917,123 +6777,51 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 ###### Artículo 10.
 
-19.- Con objeto de fomentar el desarrollo turístico en la entidad, la Secretaría de Desarrollo Económico impulsará:
-
-I. El interés, responsabilidad, respeto y la conservación del patrimonio turístico, especialmente de zonas arqueológicas, poblaciones y demás lugares susceptibles de desarrollo turístico, cuidando el entorno ecológico;
-
-II. El espíritu de servicio, hospitalidad y seguridad para el turista;
-
-III. La expedición, por parte del Gobernador del Estado, de decretos de zonas de interés turístico;
-
-IV. La difusión de los atractivos turísticos;
-
-V. El turismo social y la inversión para la creación de infraestructura para ese efecto;
-
-VI. El establecimiento de oficinas promotoras de turismo;
-
-VII. La capacitación, formación y actualización del personal relacionado con la actividad turística.
+19.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-20.- Los decretos de zonas de interés turístico se publicarán en la Gaceta del Gobierno y deberán contener:
+20.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
-I. La delimitación de su extensión territorial;
-
-II. En su caso, la restricción existente del uso del suelo;
-
-III. Las características y condiciones para la práctica del turismo;
-
-IV. La descripción del equipamiento, instalaciones, infraestructura, recursos naturales y atractivos turísticos;
-
-V. La conformidad de la autoridad municipal correspondiente;
-
-VI. El programa de fomento al turismo de la zona respectiva;
-
-VII. La información estadística de la zona vinculada al turismo.
-
-Para efectos de este artículo, se entiende por zona de interés turístico aquella parte del territorio del Estado que cuenta con equipamiento, instalaciones, infraestructura, atractivos y que recibe turistas, así como la que presenta características idóneas para realizar actividades turísticas.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ## TITULO CUARTO. Del otorgamiento de apoyos
 
 ###### Artículo 10.
 
-21.- La Secretaría de Desarrollo Económico organizará y coordinará el sistema estatal de información de desarrollo económico, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades económicas a que se refiere este Libro, así como para proveer de información oportuna a los agentes económicos que participan en dichas actividades.
-
-Las dependencias y organismos de la administración pública estatal y municipal, así como las empresas que cuenten con el certificado de empresa mexiquense deberán proporcionar a la Secretaría de Desarrollo Económico los informes que les solicite.
+21.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-22.- La Secretaría de Desarrollo Económico establecerá el Registro Estatal de Desarrollo Económico, en el que inscribirá de manera sistematizada la información que obtenga a través del sistema a que se refiere el artículo anterior.
-
-El registro será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
+22.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-23.- Las empresas establecidas en la entidad podrán solicitar a la Secretaría de Desarrollo Económico su inscripción en el Registro Estatal de Desarrollo Económico, por lo que deberán proporcionar la información relativa a sus características, en términos de la reglamentación correspondiente. La información solamente podrá ser utilizada para fines del sistema y registro. La Secretaría de Desarrollo Económico al realizar la inscripción de la empresa en el registro, expedirá el certificado de empresa mexiquense.
-
-La inscripción en el registro y la expedición del certificado serán gratuitos.
-
-La empresa deberá dar aviso a la Secretaría de Desarrollo Económico de las modificaciones a la información previamente proporcionada.
+23.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-24.- La inscripción a que se refiere el artículo anterior y el certificado de empresa mexiquense se cancelarán cuando:
+24.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
-I. Lo solicite el interesado;
-
-II. Por fallecimiento, en caso de persona física, o fusión, liquidación o extinción, tratándose de persona moral.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
 
 ###### Artículo 10.
 
-25.- Las empresas que tengan el certificado de inscripción en el Registro Estatal de Desarrollo Económico, gozarán de los beneficios que se deriven del presente Libro, en los casos en que cumplan con alguno de los requisitos siguientes:
-
-I. Generen nuevos empleos; o utilicen procesos productivos intensivos en mano de obra;
-
-II. Hagan nuevas inversiones productivas;
-
-III. Realicen directamente actividades de capacitación, investigación o adquisición de nuevas tecnologías;
-
-IV. Mejoren sus procesos productivos, reduciendo sus niveles de contaminación ambiental;
-
-V. Instalen procesos de producción con bajo consumo de agua o utilicen aguas recicladas;
-
-VI. Hagan uso óptimo de los energéticos;
-
-VII. Modernicen la infraestructura hidroagrícola para elevar los niveles de productividad;
-
-VIII. Participen activamente en los programas de fomento agropecuario;
-
-IX. Diversifiquen sus cultivos, de acuerdo a la vocación productiva de cada región, fomentando el establecimiento de agroindustrias.
+25.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 10.
 
-26.- Las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal y los municipios podrán otorgar a las empresas inscritas en el Registro Estatal de Desarrollo Económico, algunos de los apoyos siguientes:
+26.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
-I. Participación preferentemente en los programas de fomento económico que lleven a cabo las dependencias de la administración pública estatal, los municipios, y sus organismos auxiliares;
-
-II. Los beneficios que señalen los ordenamientos fiscales estatales, conforme a las disposiciones legales respectivas;
-
-III. Preferencia, en igualdad de condiciones, en la adquisición de bienes, así como en la contratación de servicios, arrendamientos y obras públicas. En su caso, las convocatorias y bases de licitación podrán establecer porcentajes diferenciales en precio en favor de las empresas mexiquenses, el cual nunca podrá ser superior al 5%;
-
-IV. Participación en los programas de identificación y promoción, nacionales e internacionales de sus productos, bienes y servicios;
-
-V. Promover y facilitar la adquisición de terrenos, en aquellas zonas en las que se pretenda desarrollar las actividades económicas.
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 10.
 
-27.- La Secretaría de Desarrollo Económico organizará anualmente el Premio Estatal a la Excelencia Empresarial Mexiquense, que se otorgará conforme a las bases que establezca el comité organizador, que se constituya en términos de la reglamentación correspondiente, a las empresas con certificado de empresa mexiquense que atiendan la convocatoria correspondiente y hayan obtenido logros sobresalientes en alguna de las modalidades siguientes:
-
-I. Desarrollo tecnológico;
-
-II. Desarrollo social;
-
-III. Protección y mejoramiento del ambiente;
-
-IV. Exportación.
+27.- (DEROGADO, G.G. 7 DE SEPTIEMBRE DE 2010)
 
 # LIBRO DECIMO PRIMERO. De la protección e integración al desarrollo de las personas con capacidades diferentes
 
@@ -12128,3 +11916,23 @@ DÉCIMO. Los municipios establecerán sus Registros Municipales de Trámites y S
 DÉCIMO PRIMERO. Todos los asuntos pendientes de resolución en materia de Mejora Regulatoria, pasarán a la Comisión Estatal una vez que ésta se haya instalado.
 
 DÉCIMO SEGUNDO. Se deroga el Título Cuarto del Libro Primero del Código Administrativo del Estado de México.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese la presente Ley en Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- La Ley de Fomento Económico del Estado de México y las derogaciones al Código Administrativo del Estado de México, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Consejo deberá quedar instalado, a más tardar, dentro de los sesenta días siguientes a la entrada en vigor de la Ley.
+
+CUARTO.- El Consejo emitirá su Reglamento Interior dentro de los 30 días siguientes a su instalación.
+
+QUINTO.- Instalado el Consejo, deberá convocar a su primera reunión dentro de los treinta días hábiles siguientes, y en ella se realizará un diagnóstico preliminar de la situación del Estado en los rubros a que se refiere la fracción III del artículo 13 de la Ley.
+
+SEXTO.- Realizada la primera reunión del Consejo, en los términos del artículo anterior, las reuniones siguientes se sujetarán a lo dispuesto por el artículo 14 de esta Ley.
+
+SÉPTIMO.- El Sistema Único de Gestión Empresarial seguirá funcionando en los términos del Acuerdo de su creación, hasta en tanto se emita el Reglamento de la presente Ley. Los plazos a que se refiere el artículo 59 fracción III, serán obligatorios seis meses después a la entrada en vigor del presente decreto.
+
+OCTAVO.- El Ejecutivo Estatal publicará el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios, dentro de los sesenta días naturales siguientes a la entrada en vigor de la presente Ley.
+
+NOVENO.- En tanto se expida el nuevo Reglamento, se aplicarán las disposiciones reglamentarias vigentes en lo que no se oponga a los (sic) establecido en el presente Decreto.
