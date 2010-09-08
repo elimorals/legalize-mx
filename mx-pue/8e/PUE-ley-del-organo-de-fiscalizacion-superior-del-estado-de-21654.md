@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-organo-de-fiscalizacion-superior-del-estado-de-21654"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2001-06-22"
+last_updated: "2010-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS PARA EL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 8 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 22 de junio de 2001.
 
@@ -836,3 +838,29 @@ NOVENO.- Los asuntos que se encuentren en trámite o en proceso en la Contadurí
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de mayo de dos mil uno.- Diputado Presidente.- JUAN PABLO JIMÉNEZ CONCHA.- Rúbrica.- Diputado Vicepresidente.- HORACIO GASPAR LIMA.- Rúbrica.- Diputado Secretario.- GERARDO ARTURO RIVERA GARCÍA.- Rúbrica.- Diputado Secretario.- JULIO CÉSAR BOUCHOT GARRIDO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de mayo del año dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2010.
+
+Primero.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor, al día siguiente de su publicación.
+
+Segundo.- Se abroga la Ley del Órgano de Fiscalización Superior del Estado de Puebla, publicada en el Periódico Oficial del Estado de Puebla el día veintidós de junio de dos mil uno, sin perjuicio de que los asuntos que se encuentren en trámite o en proceso en el Órgano Fiscalizador al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos del ordenamiento legal que se abroga.
+
+Tercero.- El Reglamento Interior del Órgano de Fiscalización Superior del Estado de Puebla, publicado en el Periódico Oficial del Estado de Puebla con fecha diecisiete de diciembre de dos mil uno, estará vigente en todo lo que no se oponga a la Ley materia del presente Decreto y hasta en tanto se emita el ordenamiento que lo sustituya.
+
+El Titular del Órgano Fiscalizador emitirá en el plazo de 180 días naturales siguientes a la entrada en vigor de la presente Ley, el Reglamento Interior del propio Órgano Fiscalizador.
+
+Sin perjuicio de lo anterior, los asuntos que se encuentren en trámite o en proceso en el Órgano Fiscalizador al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos del citado Reglamento.
+
+Cuarto.- Para el contenido de la Cuenta Pública, y la presentación periódica de los estados de origen y aplicación de recursos y de los informes de avance de gestión financiera, los Sujetos de Revisión Obligados observarán lo dispuesto en los ordenamientos que se abrogan mediante el presente Decreto, mientras transcurren los plazos y términos previstos en los Artículos Transitorios del Decreto por el que se expide la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación de fecha 31 de diciembre de 2008.
+
+Quinto.- Se derogan todas las disposiciones que contravengan o se opongan a la Ley materia del presente Decreto.
+
+Sexto.- Las referencias que se hagan en otras leyes y disposiciones reglamentarias y administrativas, a la Ley del Órgano de Fiscalización Superior del Estado de Puebla, se entenderán por realizadas a la Ley materia del presente Decreto.
+
+Séptimo.- Los Procedimientos Administrativos de Ejecución para hacer efectivas las multas y sanciones económicas impuestas por el Órgano Fiscalizador que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán sustanciándose y serán concluidos por las autoridades competentes, que estén llevando a cabo los mismos.
+
+Octavo.- Los convenios y contratos que hubiere celebrado el Órgano Fiscalizador con anterioridad a la entrada en vigor de la presente Ley, conservarán su valor y eficacia legal hasta su conclusión.
+
+Noveno.- Todos los bienes muebles e inmuebles, archivos, expedientes, papeles de trabajo, documentos, recursos presupuestales y humanos con que cuente el Órgano Fiscalizador a la entrada en vigor del presente Decreto, continuarán formando parte de su estructura orgánica y patrimonio, en los términos que establezca esta Ley y el Reglamento Interior de dicho Órgano.
