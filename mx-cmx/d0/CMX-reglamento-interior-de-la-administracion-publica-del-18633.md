@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-09-01"
+last_updated: "2010-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -8976,7 +8976,7 @@ Artículo 119 Novenus.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)
 
 Artículo 119 Novenus A.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)
 
-Artículo 119 Nonies (sic) B.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010) (F. DE E., G.O. 1 DE DICIEMBRE DE 2010)
+Artículo 119 Nonies (sic) B.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)(F.DE E., G.O. 1 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -11996,7 +11996,7 @@ XXII. Elaborar y mantener actualizado el padrón de los giros mercantiles que fu
 
 XXIII. Autorizar, en el ámbito de su competencia, el funcionamiento del servicio de acomodadores de vehículos en los giros mercantiles a que se refiere la fracción anterior;
 
-XXIV. Coordinar las actividades de la Ventanilla Única Delegacional;
+XXIV. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2010)
 
 XXV. Solicitar a la Dependencia competente la designación y revocación de apoderados legales que representen al Órgano Político Administrativo ante las instancias judiciales y administrativas, en el ámbito de su competencia;
 
@@ -12264,7 +12264,9 @@ X. Elaborar y proponer al jefe Delegacional el establecimiento de lineamientos p
 
 XI. PLANEAR Y CONTROLAR LOS RECURSOS HUMANOS, MATERIALES Y FINANCIEROS ASIGNADOS A LA JEFATURA DELEGACIONAL;
 
-XII. COORDINAR LAS OFICINAS DE CENTRO DE ATENCIÓN CIUDADANA Y ACCESO A LA INFORMACIÓN PÚBLICA;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Coordinar el Centro de Servicios y Atención Ciudadana, la Ventanilla Única Delegacional y la Oficina de Acceso a la Información Pública;
 
 XIII. Establecer los mecanismos de evaluación y seguimientos de los programas que lleve acabo (sic) el Órgano Político Administrativo;
 
@@ -14143,3 +14145,9 @@ G.O. 1 DE SEPTIEMBRE DE 2010.
 PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. - El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 8 DE SEPTIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo. El Órgano Político-Administrativo en Miguel Hidalgo deberá actualizar su Manual Administrativo en los términos y condiciones que establezca la Contraloría General.
