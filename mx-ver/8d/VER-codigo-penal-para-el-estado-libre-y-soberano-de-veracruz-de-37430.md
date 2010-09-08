@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2010-08-27"
+last_updated: "2010-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3097,6 +3097,10 @@ A quien ante la autoridad impute falsamente a una persona un hecho calificado co
 
 No se procederá contra el probable responsable sino una vez pronunciada sentencia absolutoria o acto de sobreseimiento que causen ejecutoria o hubiere reconocimiento de inocencia del inculpado.
 
+### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 339.
 
 A quien ponga en libertad o favorezca la evasión de una persona que se encuentre legalmente privada de su libertad se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta días de salario.
@@ -3401,6 +3405,12 @@ Se impondrán de tres a quince años de prisión y multa de hasta cuatrocientos 
 
 Si el sujeto activo es un servidor público, las penas señaladas en el párrafo anterior se incrementarán hasta en una mitad y se impondrá la inhabilitación para el desempeño de empleo, cargo o comisión públicos, hasta por el término de quince años.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 372.
+
+A quien, por cualquier medio, dolosamente reporte emergencias falsas que movilicen a personal de instituciones públicas o privadas que presten servicios de emergencia, protección civil o seguridad pública, se le impondrán de seis meses a dos años de prisión y multa de diez a cien días de salario.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente ordenamiento entrará en vigor el día primero de enero de 2004, previa publicación en la Gaceta Oficial del estado.
@@ -3654,3 +3664,9 @@ G.O. 27 DE AGOSTO DE 2010.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE SEPTIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
