@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-al-ambiente-del-estado-de-yucatan-14229"
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-23"
-last_updated: "1999-04-23"
+last_updated: "2010-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE PROTECCION AL AMBIENTE DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION AL MEDIO AMBIENTE DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 8 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial el Viernes 23 de Abril de 1999.
 
@@ -1168,3 +1170,31 @@ ABOG. RENÁN CLEOMINIO ZOREDA NOVELO
 EL SECRETARIO DE ECOLOGIA
 
 ING. LUIS ARMANDO RUIZ SOSA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+d.O. 8 DE septiembre DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto número 195 que contiene la Ley de Protección al Ambiente del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán de fecha 23 de abril de 1999, y se derogan las demás disposiciones legales de igual o menor rango que se opongan a esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expide el Reglamento derivado de la presente Ley, quedan vigentes las disposiciones del Reglamento de la Ley de Protección al Ambiente del Estado de Yucatán, en todo lo que no contravenga lo dispuesto en esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor de 180 días hábiles, contados a partir de la entrada en vigor de esta Ley, el Poder Ejecutivo del Estado expedirá el Reglamento referido en la propia Ley.
+
+###### ARTÍCULO QUINTO.
+
+Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley que no se hubieren iniciado bajo su vigencia, se tramitarán y resolverán conforme a las disposiciones del ordenamiento que se abroga.
+
+###### ARTÍCULO SEXTO.
+
+Los municipios deberán expedir y, en su caso, adecuar sus reglamentos, bandos y demás disposiciones jurídicas, de acuerdo con las competencias que les corresponda en la presente Ley.
