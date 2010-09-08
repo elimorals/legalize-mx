@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2010-09-03"
+last_updated: "2010-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -363,9 +363,11 @@ VI.- Así lo acuerde la Asamblea.
 
 La Legislatura cursará invitación al Presidente de los Estados Unidos Mexicanos, a las sesiones solemnes en las que el Gobernador del Estado rinda protesta o presente el informe sobre el estado que guarde la administración pública.
 
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 46.
 
-En sesión de la Legislatura, que deberá celebrarse en un plazo no menor de diez ni mayor de quince días posteriores a la de recepción del informe presentado por el Gobernador del Estado, la Asamblea analizará el contenido del mismo.
+En Sesión de la Legislatura, que deberá celebrarse en cualquier día de los comprendidos del 14 al 22 de septiembre del año que corresponda, a la recepción del informe presentado por el Gobernador del Estado, la Asamblea analizará el contenido del mismo.
 
 ###### Artículo 47.
 
@@ -1796,3 +1798,9 @@ G.G. 3 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este decreto entrará en vigor al momento de ser aprobado por el Pleno de la Legislatura.
+
+G.G. 8 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
