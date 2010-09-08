@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2009-06-22"
+last_updated: "2010-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO PENAL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -416,6 +416,10 @@ La reparación del daño material será fijada por el juzgador según el daño q
 La reparación del daño moral será fijada por el prudente arbitrio del juzgador, tomando en consideración las características del delito, las posibilidades económicas del obligado, la lesión moral sufrida por la víctima y las circunstancias personales de ésta, que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de mil días de salario del obligado; a falta de prueba, se considerará el importe del salario general vigente en el Estado.
 
 En lo conducente, el juzgador tomará en cuenta las disposiciones de la Ley Federal del Trabajo y del Código Civil del Estado, en su caso.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+La reparación del daño por el delito de robo de vehículo cuando este último no se recupere o no haya sido cubierto el valor del mismo por otro medio, la fijará el juez en la cantidad resultante de reducir el precio señalado en la factura o documento legal que acredita la propiedad del vehículo, la cantidad que como depreciación por el tiempo transcurrido hasta el momento de la comisión del delito, sea determinado mediante dictamen pericial.
 
 ###### ARTICULO 45.
 
@@ -1799,19 +1803,23 @@ VII.- En caminos o carreteras de jurisdicción estatal.
 
 El agravamiento de las penas contenido en los dos artículos anteriores, también se aplicará tratándose de robo indeterminado y robo en grado de tentativa.
 
-> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 207.
 
-Al que se apodere de un vehículo automotor ajeno, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley se le impondrá de dos a quince años de prisión y de trescientos cincuenta a quinientos cincuenta días multa.
+Al que se apodere de un vehículo automotor ajeno, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley se le impondrá de cinco a quince años de prisión y de trescientos cincuenta a quinientos cincuenta días multa.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 La pena prevista en el párrafo anterior se aumentará en una mitad, al servidor público que participe en el apoderamiento de un vehículo automotor ajeno y que tenga a su cargo funciones de prevención, persecución, sanción del delito o ejecución de las penas y además se le aplicará la destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos por un tiempo igual al de la pena de prisión impuesta.
 
-Cuando el apoderamiento del vehículo automotor se realice en cualquiera de las circunstancias previstas en el artículo 205 de este Código, a la pena prevista en el párrafo anterior se aumentará de dos a diez años de prisión.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2007)</small>
+Cuando el apoderamiento del vehículo automotor se realice en cualquiera de las circunstancias prevista (sic) en el artículo 205 de este Código, a la pena prevista en el artículo 207 párrafo primero se aumentará de cinco a diez años de prisión.
 
-ARTICULO 207 BIS.- Se sancionará con pena de dos a quince años de prisión y de trescientos cincuenta a quinientos días multa al que a sabiendas y con independencia de las penas que le corresponda por la comisión de otros delitos:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+ARTICULO 207 BIS.- Se sancionará con pena de cinco a quince años de prisión y de trescientos cincuenta a quinientos días multa al que a sabiendas y con independencia de las penas que le corresponda por la comisión de otros delitos:
 
 > <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -2081,15 +2089,17 @@ El monto de la reparación del daño, será al menos igual a la desproporción d
 
 Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél, a sabiendas de esta circunstancia, o al que ayude a otro para los mismos fines, se le aplicará prisión de dos a seis años y de sesenta a ciento ochenta días multa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 234.
 
-Al que hubiese adquirido u ocultado el producto del delito sin conocimiento de su ilegítima procedencia, por no poner el cuidado necesario para asegurarse de que la persona de quien lo recibió tenía derecho para disponer de aquél, se le aplicará hasta la mitad de las penas señaladas en el artículo anterior.
+Al que hubiese adquirido, ocultado o recibido el producto del delito sin conocimiento de su ilegítima procedencia, por no poner el cuidado necesario para asegurarse de que la persona de quien lo recibió tenía derecho para disponer de aquel, se le aplicará hasta la mitad de las penas señaladas en el artículo anterior.
 
 Se presume que no se tomaron las precauciones indispensables, cuando por la edad o condiciones económicas del que ofrece la cosa o por la naturaleza o valor de ésta, o por el precio en que se ofrece se infiera que no es propiedad del mismo.
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
-Se aplicará prisión de dos a seis años y de sesenta a ciento ochenta días multa, en el caso de que el producto del delito que se hubiese adquirido u ocultado sean bienes, frutos, productos, materiales, equipo, maquinaria, implementos, aditamentos o cualquier cosa relacionada, destinada, utilizada o propia de la actividad agrícola, se presumirá que no se tomaron las precauciones indispensables, cuando no se obtenga por quien los adquiere u oculta, la documentación o cualquier otro medio legal apto que acredite la propiedad o derecho para disponer de ellos por aquél de quien se adquieren.
+Se aplicará prisión de dos a seis años y de sesenta a ciento ochenta días multa, en el caso de que el producto del delito que se hubiese adquirido, ocultado o recibido sean bienes, frutos, productos, materiales, equipo, maquinaria, implementos, aditamentos o cualquier cosa relacionada, destinada, utilizada o propia de la actividad agrícola, se presumirá que no se tomaron las precauciones indispensables, cuando no se obtenga por quien los adquiere u oculta, la documentación o cualquier otro medio legal apto que acredite la propiedad o derecho para disponer de ellos por aquel de quien se adquieren.
 
 ###### ARTICULO 235.
 
@@ -3365,7 +3375,7 @@ XII.- Sustraiga de las urnas o introduzca en ellas ilícitamente una o más bole
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
-XIII.- Sustraiga, destruya o altere ¡lícitamente, o bien falsifique o haga uso indebido de documentos o materiales electorales;
+XIII.- Sustraiga, destruya o altere ilícitamente, o bien falsifique o haga uso indebido de documentos o materiales electorales;
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2007)</small>
 
@@ -3660,3 +3670,9 @@ P.O. 22 DE JUNIO DE 2009.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
