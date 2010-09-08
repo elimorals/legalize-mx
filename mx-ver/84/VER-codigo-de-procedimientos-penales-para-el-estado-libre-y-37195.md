@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2007-11-30"
+last_updated: "2010-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1893,19 +1893,25 @@ b) Exista confesión ante la autoridad judicial o ratificación ante ésta de la
 
 III. En el caso de concurso de delitos, se tomará en cuenta para los efectos de la fracción anterior, el supuesto de mayor penalidad.
 
-> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 280.
 
-Si el auto de formal prisión se dicta a dos o más personas, únicamente se abrirá el juicio oral sumario si todos los procesados estuvieren de acuerdo en que así sea, de conformidad con lo dispuesto en el artículo anterior.
+El juicio oral sumario se celebrará ante un juez que no haya conocido del caso previamente y se regirá por los principios de oralidad, publicidad, contradicción, concentración, continuidad e inmediación.
 
-> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 281.
 
-El acuerdo de apertura del juicio oral sumario se revocará, para seguir el procedimiento ordinario, cuando así lo soliciten dentro de los tres días siguientes a la notificación del auto relativo, el inculpado o su defensor; en este último supuesto, será necesaria la ratificación del inculpado, la que deberá efectuarse en un término similar de tres días.
+El acuerdo de apertura del juicio oral sumario sólo podrá revocarse en los supuestos previstos en la fracción II del artículo 279 de este Código, para seguir el procedimiento ordinario, cuando así lo soliciten dentro de los tres días siguientes a la notificación del auto relativo, el inculpado o el defensor; en este último supuesto, será necesaria la ratificación del inculpado, la que deberá efectuarse en un término similar de tres días.
 
-De revocarse el acuerdo, se abrirá el procedimiento ordinario en los términos previstos en el capítulo II de este Título.
+Si el auto de formal prisión se dicta a dos o más personas, únicamente se revocará el juicio oral sumario si todos los procesados estuvieren de acuerdo en que así sea.
+
+De revocarse el acuerdo, se abrirá el procedimiento ordinario en los términos previstos en el Capítulo II de este Título.
 
 > <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
@@ -3158,3 +3164,11 @@ Segundo. Se derogan todas las disposiciones de observancia general que se oponga
 G.O. 30 DE NOVIEMBRE DE 2007.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 8 DE SEPTIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor a los noventa días naturales de su publicación en la Gaceta Oficial del estado.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se le opongan.
+
+Tercero. El Consejo de la Judicatura del Poder Judicial del Estado deberá adecuar, en un plazo no mayor a treinta días del inicio de la vigencia de este Decreto, el Reglamento de Juicios Orales Sumarios.
