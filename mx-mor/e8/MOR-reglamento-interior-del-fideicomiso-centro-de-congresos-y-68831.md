@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-fideicomiso-centro-de-congresos-y-68831
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-10"
-last_updated: "2009-06-10"
+last_updated: "2010-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL FIDEICOMISO CENTRO DE CONGRESOS Y CONVENCIONES WORLD TRADE CENTER MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 10 de junio de 2009.
 
@@ -47,9 +47,11 @@ El presente ordenamiento tiene por objeto regular la organización y funcionamie
 
 Las disposiciones del presente ordenamiento, son de observancia obligatoria para el Comité Técnico, el Director General, Directores y demás personal que labore en el Fideicomiso Centro de Congresos y Convenciones World Trade Center Morelos.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 3.
 
-La interpretación de las disposiciones de este Reglamento se harán conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos y la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos.
+La interpretación de las disposiciones de este Reglamento se hará conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y la Ley de los Organismo (sic) Auxiliares de la Administración Pública del Estado Libre y Soberano de Morelos.
 
 ###### Artículo 4.
 
@@ -65,9 +67,11 @@ IV. Ley: La ley de los Organismos Auxiliares de la Administración Pública del 
 
 V. Reglamento: El presente Reglamento Interior del Centro de Congresos y Convenciones World Trade Center Morelos.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 5.
 
-El Fideicomiso CCCWTC Morelos, se sujetará a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, la Ley, en lo aplicable, y demás ordenamientos legales. Conducirá sus actividades en forma programada, con base en lo señalado en el Plan Estatal de Desarrollo, los programas regionales, institucionales y especiales a su cargo.
+El Fideicomiso CCCWTC Morelos, se sujetará a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, la Ley en lo aplicable, y demás ordenamientos legales. Conducirá sus actividades en forma programada, con base en lo señalado en el Plan Estatal de Desarrollo, los programas regionales, institucionales y especiales a su cargo.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y ORGANIZACIÓN DEL FIDEICOMISO CCCWTC MORELOS
 
@@ -99,11 +103,23 @@ III. La persona titular de la Secretaría de Finanzas y Planeación, quien actua
 
 IV. La persona titular de la Secretaría de Turismo, quien actuará como Vocal; y
 
-V. La persona titular de la Oficialía Mayor del Gobierno del Estado, quien actuará como Vocal.
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
-Todos los miembros titulares del Comité contaran con voz y voto, y sus cargos serán honoríficos.
+V. La persona titular de la Secretaría de Gestión e Innovación Gubernamental, actuará como Vocal;
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+Asimismo participarán en el Comité Técnico las personas titulares de la Dirección General del Organismo y de la Comisaría Pública. Todos los participantes en el Comité Técnico lo harán con carácter honorifico.
 
 En las sesiones o reuniones no se admitirá la presencia o intervención de servidores públicos o particulares ajenos al Comité Técnico solo será admisible lo anterior cuando alguno de los miembros proponga y sustente la necesidad de la intervención de éstos en un asunto en específico, lo cuál deberá de someterse a la previa sanción de los integrantes del Comité Técnico. En estos casos los invitados contarán con voz pero no tendrán derecho a voto.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+Los Representantes del Poder Ejecutivo que formen parte del Comité Técnico, serán considerados ex oficio esto es, en atención a su cargo, por lo que una vez concluido su ejercicio público, la posición dentro del Comité Técnico, será ocupada por la persona que lo sustituya en sus funciones públicas.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+Los integrantes del Comité Técnico o, en su caso, el suplente que deberán designar para el caso de no poder asistir personalmente, contarán con voz y voto; en tanto que el Director General y el Comisario Público o sus representantes sólo tendrán derecho a voz.
 
 ###### Artículo 9.
 
@@ -305,7 +321,9 @@ IV. Registrar, radicar y dar seguimiento por conducto de la Secretaría de Desar
 
 V. Establecer los mecanismos de comunicación y coordinación con las unidades administrativas de el Fideicomiso CCCWTC Morelos a fin de apoyarlas en el cumplimiento de las resoluciones judiciales, extrajudiciales o de carácter administrativo;
 
-VI. Elaborar los convenios y contratos que suscriba el titular de la Dirección General del Fideicomiso CCCWTC Morelos;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Elaborar y validar los convenios y contratos que suscriba el titular de la Dirección General del Fideicomiso CCCWTC Morelos;
 
 VII. Registrar los instrumentos normativos que emita el Director General, así como las unidades administrativas del Fideicomiso CCCWTC Morelos; los nombramientos que expidan los titulares de las mismas, así como las autorizaciones que para ejercer atribuciones expidan el Secretario y los titulares de las unidades administrativas, conforme a este Reglamento y las disposiciones jurídicas aplicables;
 
@@ -349,6 +367,18 @@ El órgano de vigilancia del Fideicomiso CCCWTC Morelos estará integrado por un
 
 El Comisario Público sujetará sus actuaciones y contará con las atribuciones que señale la Ley y las que para tal efecto se establezcan en el Reglamento Interior de la Secretaría de la Contraloría del Gobierno del Estado.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO OCTAVO. DEL SUBCOMITÉ DE ADQUISICIONES
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 23.
+
+El Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Fideicomiso Centro de Congresos y Convenciones World Trade Center Morelos, tendrá por objeto ser un órgano de supervisión de la aplicación de los recursos públicos destinados a adquisiciones, enajenaciones, arrendamientos y servicios y demás operaciones que se requieran, en las materias competencia del fideicomiso, para el aprovechamiento racional y adecuado de éstos, ajustándose a los programas y disposiciones correspondientes, así como a los criterios y lineamientos que dicte el Comité para el control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos.
+
+Para el establecimiento, integración, determinación de la operación y funciones del Subcomité, así como sus límites de responsabilidad, se atenderá lo que señale, en su caso, el Comité a que se refiere el párrafo anterior, de acuerdo con lo dispuesto por las disposiciones jurídicas aplicables.
+
 ## TRANSITORIO
 
 Artículo Único.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
@@ -368,3 +398,11 @@ SECRETARIO DE DESARROLLO ECONÓMICO
 DR. RAFAEL TAMAYO FLORES.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto por el que se reforman diversas disposiciones del Reglamento Interior del Fideicomiso Centro de Congresos y Convenciones World Trade Center Morelos en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
