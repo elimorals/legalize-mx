@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2010-02-04"
+last_updated: "2010-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -279,6 +279,12 @@ Las sentencias que pongan fin a los procedimientos orales deberán ser explicada
 
 El Estado y los municipios, en ejercicio de la función de seguridad pública en sus respectivos ámbitos de competencia, deberán establecer programas de prevención del delito, investigación y persecución del mismo para hacerla efectiva, así como la sanción de las infracciones administrativas; igualmente reservarán las libertades, el orden y la paz públicos; para tal efecto, podrán celebrar los convenios de coordinación necesarios, en los términos que establezca la ley. La actuación de las instituciones policiales se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+La ley garantizará la participación social en la planeación y ejecución de los programas de prevención de los delitos, así como en la evaluación de las Instituciones de seguridad pública y del ministerio público.
+
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 10.
@@ -293,19 +299,19 @@ Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualq
 
 La propiedad es un derecho que debe desempeñar una función social y en el Estado de Durango:
 
-I.- Es contraria al interés público la tenencia de terrenos rústicos en superficies superiores a los límites que las leyes señalen a la pequeña propiedad;
+I. Es contraria al interés público la tenencia de terrenos rústicos en superficies superiores a los límites que las leyes señalen a la pequeña propiedad.
 
-II.- Se declara de utilidad pública e interés social el aprovechamiento de terrenos urbanos ociosos o desocupados, para beneficio de la colectividad;
+II. Se declara de utilidad pública e interés social el aprovechamiento de terrenos urbanos ociosos o desocupados, para beneficio de la colectividad.
 
-III.- Las leyes propiciarán el fraccionamiento, la urbanización, la regeneración urbana, el mejoramiento y la adquisición por parte del Estado de los inmuebles necesarios para resolver los problemas habitacionales de los grupos mayoritarios de la población y en particular de los de más bajo nivel económico, así como para cualesquier otro fin de utilidad pública o de beneficio colectivo, señalando los casos en que proceda la expropiación correspondiente;
+III. Las leyes propiciarán el fraccionamiento, la urbanización, la regeneración urbana, el mejoramiento y la adquisición por parte del Estado de los inmuebles necesarios para resolver los problemas habitacionales de los grupos mayoritarios de la población y en particular de los de más bajo nivel económico, así como para cualesquier otro fin de utilidad pública o de beneficio colectivo, señalando los casos en que proceda la expropiación correspondiente.
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-IV.- La expropiación de bienes pertenecientes a particulares, sólo podrá decretarse por causa de utilidad pública y mediante indemnización, de conformidad con el procedimiento que señale la ley de la materia; para fijar el monto tratándose de bienes inmuebles se atenderá al valor fiscal con que aparezcan registrados en la (sic) oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones sobre esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de inmuebles cuyo valor no esté fijado en las oficinas recaudadoras o catastrales;
+IV. La expropiación de bienes pertenecientes a particulares, sólo podrá decretarse por causa de utilidad pública y mediante indemnización, de conformidad con el procedimiento que señale la ley de la materia; para fijar el monto tratándose de bienes inmuebles se atenderá al valor fiscal con que aparezcan registrados en la (sic) oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones sobre esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de inmuebles cuyo valor no esté fijado en las oficinas recaudadoras o catastrales.
 
-V.- El patrimonio del Estado se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones decretadas por el Congreso; de los bienes vacantes que estan dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las donaciones, legados, herencias o reintegros que se hagan o se dejen en beneficio del Estado; de los derechos, productos y aprovechamientos; así como de los subsidios y de las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir; y
+V. El patrimonio del Estado se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones decretadas por el Congreso; de los bienes vacantes que estan dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las donaciones, legados, herencias o reintegros que se hagan o se dejen en beneficio del Estado; de los derechos, productos y aprovechamientos; así como de los subsidios y de las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir; y
 
-VI.- Los bienes afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles. Los bienes del Estado, desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados, previa autorización del Congreso, mediante los requisitos que señala ésta Constitución y la Ley de Bienes del Estado que expedirá el Congreso.
+VI. Los bienes afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles. Los bienes del Estado, desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados, previa autorización del Congreso, mediante los requisitos que señala ésta Constitución y la Ley de Bienes del Estado que expedirá el Congreso.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
@@ -331,19 +337,29 @@ La operación del sistema estará a cargo de instituciones, tribunales y autorid
 
 Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes, se observará la garantía del debido proceso legal así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 13.
 
-Es obligación del poder público promover el desarrollo integral del Estado, mediante el fomento del crecimiento económico, una más justa distribución de la riqueza y el ingreso de la población estatal, evitando concentraciones o acaparamientos, que impidan la distribución adecuada de bienes y servicios a la población.
+Los poderes, los organismos autónomos y los municipios promoverán el desarrollo integral del Estado, mediante el fomento del crecimiento económico, una más justa distribución de la riqueza y el ingreso de la población estatal, evitando concentraciones o acaparamientos, que impidan la distribución adecuada de bienes y servicios a la población, y deberán planear el desarrollo del Estado y los Municipios a través de un sistema de planeación democrática.
 
-En el desarrollo económico estatal concurrirán los sectores públicos, social y privado; corresponde al Gobierno del Estado procurar la armonía entre ellos, para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-El Ejecutivo Estatal, de acuerdo con la ley, organizará un sistema estatal de planeación democrática, el cual recogerá las aspiraciones y demandas de la sociedad, incorporándolas en un Plan Estatal de Desarrollo, al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal.
+En el desarrollo económico estatal concurrirán los sectores público, social y privado; corresponde al Gobierno del Estado procurar la armonía entre ellos, para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+Los poderes, los organismos autónomos y los municipios, de acuerdo con la ley, organizarán un sistema de planeación democrática, los cuales recogerán las aspiraciones y demandas de la sociedad, incorporándolas en un Plan de Desarrollo respectivamente, al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal y Municipal.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 El Ejecutivo del Estado y los ayuntamientos establecerán los mecanismos y adoptarán las medidas necesarias para planear el desarrollo estatal y municipal, en los términos que señale la ley de la materia.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
 El Estado podrá convenir con la federación, en los términos de ley, la asunción, por parte de éste, del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 El Estado está facultado para celebrar esos convenios con sus municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones, a que se refiere el párrafo anterior.
 
@@ -353,11 +369,11 @@ El Estado está facultado para celebrar esos convenios con sus municipios, a efe
 
 Son Duranguenses:
 
-I.- Las personas nacidas en el Estado de Durango;
+I. Las personas nacidas en el Estado de Durango.
 
-II.- Los mexicanos que tengan una residencia mínima de cinco años en el Estado y un modo honesto de vivir; y
+II. Los mexicanos que tengan una residencia mínima de cinco años en el Estado y un modo honesto de vivir; y
 
-III.- Los mexicanos nacidos fuera del territorio del Estado, hijos de padre o madre duranguense.
+III. Los mexicanos nacidos fuera del territorio del Estado, hijos de padre o madre duranguense.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -377,23 +393,23 @@ Son derechos y obligaciones de los duranguenses los que para todo mexicano consi
 
 Son prerrogativas del ciudadano duranguense:
 
-I.- Votar en las elecciones;
+I. Votar en las elecciones.
 
-II.- Poder ser votado para cargos de elección popular, y nombrado para empleos o comisiones, teniendo los requisitos que establezca la Ley;
+II. Poder ser votado para cargos de elección popular, y nombrado para empleos o comisiones, teniendo los requisitos que establezca la Ley.
 
-III.- Tomar las armas en el Ejército o Guardia Nacional para asegurar y defender el territorio, el honor, los derechos o intereses del Estado y de la Nación;
+III. Tomar las armas en el Ejército o Guardia Nacional para asegurar y defender el territorio, el honor, los derechos o intereses del Estado y de la Nación.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
 
-IV.- Asociarse individual, libre y pacíficamente para tratar los asuntos políticos del Estado;
+IV. Asociarse individual, libre y pacíficamente para tratar los asuntos políticos del Estado.
 
-V.- Ejercer en toda clase de negocios el derecho de petición; y (sic)
+V. Ejercer en toda clase de negocios el derecho de petición; y (sic)
 
-VI.- Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadanos duranguenses en igualdad de circunstancias para toda clase de concesiones, y para todos los empleos, comisiones o cargos públicos;
+VI. Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadanos duranguenses en igualdad de circunstancias para toda clase de concesiones, y para todos los empleos, comisiones o cargos públicos.
 
 > <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2006)</small>
 
-VII.- Iniciar leyes ante el Congreso del Estado y participar en los procesos de referéndum y plebiscito en los términos de esta Constitución y las leyes de la materia.
+VII. Iniciar leyes ante el Congreso del Estado y participar en los procesos de referéndum y plebiscito en los términos de esta Constitución y las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -409,17 +425,17 @@ VII.- Iniciar leyes ante el Congreso del Estado y participar en los procesos de 
 
 Son obligaciones del ciudadano duranguense;
 
-I.- Inscribirse en los padrones de causantes del Estado y de la municipalidad, así como también inscribirse en los padrones electorales, en los términos que determinen las leyes;
+I. Inscribirse en los padrones de causantes del Estado y de la municipalidad, así como también inscribirse en los padrones electorales, en los términos que determinen las leyes.
 
-II.- Alistarse en la Guardia Nacional;
+II. Alistarse en la Guardia Nacional.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
 
-III.- Votar en las elecciones populares en los términos que señale la ley;
+III. Votar en las elecciones populares en los términos que señale la ley.
 
-IV.- Desempeñar los cargos de elección popular de la Federación o del Estado, que en ningún caso serán gratuitos, ni renunciables; y
+IV. Desempeñar los cargos de elección popular de la Federación o del Estado, que en ningún caso serán gratuitos, ni renunciables; y
 
-V.- Desempeñar los cargos concejiles del Municipio donde resida, las funciones electorales y las de jurado.
+V. Desempeñar los cargos concejiles del Municipio donde resida, las funciones electorales y las de jurado.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -439,11 +455,11 @@ Pierde la calidad de duranguense quien deje de tener la nacionalidad mexicana co
 
 La calidad de ciudadano duranguense se pierde:
 
-I.- Por sentencia condenatoria que imponga esa pena;
+I. Por sentencia condenatoria que imponga esa pena.
 
-II.- Por solicitar la ciudadanía de otro Estado de la República; y
+II. Por solicitar la ciudadanía de otro Estado de la República; y
 
-III.- Por cualesquiera de las causas de pérdida de la ciudadanía mexicana establecidas en la Constitución General de la República.
+III. Por cualesquiera de las causas de pérdida de la ciudadanía mexicana establecidas en la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -451,15 +467,15 @@ III.- Por cualesquiera de las causas de pérdida de la ciudadanía mexicana esta
 
 Los derechos del ciudadano duranguense se suspenden:
 
-I.- Por no dar debido cumplimiento a las obligaciones que impone el Artículo 18 de esta Constitución, salvo causa justificada. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señale la Ley;
+I. Por no dar debido cumplimiento a las obligaciones que impone el Artículo 18 de esta Constitución, salvo causa justificada. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señale la Ley.
 
-II.- Por permitir que derechos de propiedad ajenos se registren u ostenten como de su pertenencia. Esta suspensión durará mientras subsista la causa y cinco años más, sin perjuicio de otras penas que establezca la Ley;
+II. Por permitir que derechos de propiedad ajenos se registren u ostenten como de su pertenencia. Esta suspensión durará mientras subsista la causa y cinco años más, sin perjuicio de otras penas que establezca la Ley.
 
-III.- Por estado de interdicción judicialmente declarado; y
+III. Por estado de interdicción judicialmente declarado; y
 
-IV.- En los casos y términos previstos en la Constitución General de la República.
+IV. En los casos y términos previstos en la Constitución General de la República.
 
-Los derechos de (sic) ciudadano se recobrarán al cesar la causa que dió motivo a la suspensión, excepto lo dispuesto en las Fracciones I y II.
+Los derechos de (sic) ciudadano se recobrarán al cesar la causa que dio motivo a la suspensión, excepto lo dispuesto en las Fracciones I y II.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -619,25 +635,27 @@ Para ser Diputado Propietario y Suplente se requiere:
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2006)</small>
 
-I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos, o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del Estado, tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección.
+I. Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos, o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del Estado, tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección.
 
-Los duranguenses que tengan la calidad de migrantes, no requerirán de la residencia efectiva dentro del territorio del Estado prevista en esta fracción: La ley de la materia establecerá los requisitos para ser considerado duranguense migrante;
-
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
-
-II.- Saber leer y escribir;
+Los duranguenses que tengan la calidad de migrantes, no requerirán de la residencia efectiva dentro del territorio del Estado prevista en esta fracción: La ley de la materia establecerá los requisitos para ser considerado duranguense migrante.
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
-III.- Tener para el día de la elección una edad mínima de veintiún años cumplidos;
+II. Saber leer y escribir.
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
-IV.- No haber sido condenado a más de un año de prisión, excepto el caso de delito de culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
+III. Tener para el día de la elección una edad mínima de veintiún años cumplidos.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
-V.- No ser Secretario o Subsecretario de Despacho en el Poder Ejecutivo del Estado, Procurador o Subprocurador General de Justicia del Estado; Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la Federación, militar en servicio activo, Magistrado del Tribunal Superior de Justicia o del Tribunal Estatal Electoral, ni miembro del Consejo de la Judicatura del Estado, salvo que se hubieran separado de su cargo noventa días antes de la elección.
+IV. No haber sido condenado a más de un año de prisión, excepto el caso de delito de culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+V. No ser Secretario o Subsecretario de Despacho en el Poder Ejecutivo del Estado; Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la Federación, militar en servicio activo, Magistrado del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y al Tribunal para Menores Infractores del Poder Judicial del Estado, ni miembro del Consejo de la Judicatura del Estado, salvo que se hubieran separado de su cargo noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -773,7 +791,11 @@ El 15 de marzo de cada año, el Gobernador del Estado enviará al Congreso, un i
 
 Recibido el informe por escrito y en medio magnético, se turnará a las comisiones legislativas que corresponda; y a más tardar, el día 15 de abril, se efectuará la glosa del mismo en los términos que disponga la Ley Orgánica del Congreso del Estado.
 
-Los Secretarios del Despacho del Ejecutivo, el Procurador General de Justicia y los titulares de las entidades de la administración pública estatal que sean citados por el Congreso con motivo de la glosa del informe, comparecerán ante el Pleno o las Comisiones Legislativas, según sea el caso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+Los Secretarios del Despacho del Ejecutivo, y los titulares de las entidades de la administración pública estatal que sean citados por el Congreso con motivo de la glosa del informe, comparecerán ante el Pleno o las Comisiones Legislativas, según sea el caso.
 
 En el año que corresponda a la renovación ordinaria del Titular del Poder Ejecutivo, el Gobernador del Estado que concluya su periodo, enviará al Congreso, el día 1° de septiembre, una evaluación general de los resultados obtenidos en el ejercicio constitucional, con base en las metas del Plan Estatal de Desarrollo.
 
@@ -799,29 +821,29 @@ El derecho de iniciar Leyes y Decretos compete:
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-I.- A los Diputados al Congreso del Estado;
+I. A los Diputados al Congreso del Estado.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-II.- Al Gobernador del Estado;
+II. Al Gobernador del Estado.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
 
-III.- Al Tribunal Superior de Justicia; y (sic)
+III. Al Tribunal Superior de Justicia; y (sic)
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-IV.- A los Ayuntamientos en lo relativo a la Administración Municipal;
+IV. A los Ayuntamientos en lo relativo a la Administración Municipal.
 
 > <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2006)</small>
 
-V.- A los ciudadanos duranguenses, en los términos de la ley respectiva.
+V. A los ciudadanos duranguenses, en los términos de la ley respectiva.
 
 > <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2006)</small>
 
 No podrán ser objeto de iniciativa popular las siguientes materias:
 
-a) Tributaria o fiscal, así como de egresos del Estado;
+a) Tributaria o fiscal, así como de egresos del Estado.
 
 b) Régimen interno de los poderes del Estado; y
 
@@ -883,19 +905,19 @@ El Congreso del Estado tiene facultades para legislar en todo aquello que no est
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
 
-I.- Resolver sobre los convenios que el Ejecutivo celebre con los Estados vecinos sobre cuestiones de límites; para que surtan efectos tales convenios se requiere la aprobación del Congreso de la Unión;
+I. Resolver sobre los convenios que el Ejecutivo celebre con los Estados vecinos sobre cuestiones de límites; para que surtan efectos tales convenios se requiere la aprobación del Congreso de la Unión.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-II.- Legislar en lo relativo a la administración interior del Estado;
+II. Legislar en lo relativo a la administración interior del Estado.
 
-(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2005) (F. DE E. 19 DE ENERO DE 2006)
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
-III.- Aprobar y modificar el presupuesto de egresos del Estado y decretar contribuciones suficientes para cubrirlo, tomando en consideración las participaciones y subsidios federales y estatales, en su caso.
+III. Aprobar y modificar el presupuesto de egresos del Estado y decretar contribuciones suficientes para cubrirlo, tomando en consideración las participaciones, aportaciones y subsidios federales y estatales, en su caso. Así mismo podrá autorizar en dicho presupuesto las erogaciones plurianuales que correspondan.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2005)</small>
 
-En el presupuesto de egresos, el Congreso deberá aprobar las partidas necesarias para solventar obligaciones que constituyan deuda pública del Estado y las demás entidades paraestatales que cuenten con la garantía del Estado, cuando dichas obligaciones hayan sido incurridas en ejercicios fiscales anteriores y comprendan dos o mas ejercicios fiscales, conforme a lo autorizado por las leyes y decretos correspondientes, así como las que se deriven de los Proyectos de Inversión y Prestación de Servicios aprobados por el Congreso conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Durango y las demás leyes aplicables;
+En el presupuesto de egresos, el Congreso deberá aprobar las partidas necesarias para solventar obligaciones que constituyan deuda pública del Estado y las demás entidades paraestatales que cuenten con la garantía del Estado, cuando dichas obligaciones hayan sido incurridas en ejercicios fiscales anteriores y comprendan dos o más ejercicios fiscales, conforme a lo autorizado por las leyes y decretos correspondientes, así como las que se deriven de los Proyectos de Inversión y Prestación de Servicios aprobados por el Congreso conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Durango y las demás leyes aplicables;
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2005)</small>
 
@@ -903,131 +925,133 @@ Si el Congreso, dejare de aprobar para un ejercicio fiscal, la Ley de Ingresos d
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-IV.- Decretar las contribuciones y otros ingresos suficientes para atender las necesidades de los Municipios, tomando en consideración las participaciones y subsidios federales y estatales, y en todo caso incluyendo las contribuciones y percepciones a que se refiere el Artículo 111 de esta Constitución;
+IV. Decretar las contribuciones y otros ingresos suficientes para atender las necesidades de los Municipios, tomando en consideración las participaciones y subsidios federales y estatales, y en todo caso incluyendo las contribuciones y percepciones a que se refiere el Artículo 111 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2005)</small>
 
-V.- Autorizar al Ejecutivo y a los Ayuntamientos a contratar deuda pública y a afectar como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes;
+V. Autorizar al Ejecutivo y a los Ayuntamientos a contratar deuda pública y a afectar como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes.
 
 > <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-VI.- Expedir leyes de nueva creación y abrogar, derogar, adicionar y reformar las leyes y decretos vigentes, así como participar en las reformas a esta Constitución observando las formalidades previstas para el efecto;
+VI. Expedir leyes de nueva creación y abrogar, derogar, adicionar y reformar las leyes y decretos vigentes, así como participar en las reformas a esta Constitución observando las formalidades previstas para el efecto.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-VII.- Otorgar premios o distinciones a las personas que hayan prestado servicios de importancia a la Nación o al Estado;
+VII. Otorgar premios o distinciones a las personas que hayan prestado servicios de importancia a la Nación o al Estado.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-VIII.- Cambiar provisionalmente la residencia de los Poderes del Estado;
+VIII. Cambiar provisionalmente la residencia de los Poderes del Estado.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-IX.- Nombrar Gobernador Provisional, Interino o Substituto;
+IX. Nombrar Gobernador Provisional, Interino o Substituto.
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-X.- Expedir la ley que regule su estructura y funcionamiento internos. Esta ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo del Estado, para tener vigencia; así mismo, expedir la ley que regule la organización y funcionamiento de la Entidad de Auditoría Superior del Estado, y las demás que normen la gestión, control y evaluación de los poderes del Estado y de los entes públicos estatales;
+X. Expedir la ley que regule su estructura y funcionamiento internos. Esta ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo del Estado, para tener vigencia; así mismo, expedir la ley que regule la organización y funcionamiento de la Entidad de Auditoría Superior del Estado, y las demás que normen la gestión, control y evaluación de los poderes del Estado y de los entes públicos estatales.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-XI.- Expedir Leyes sobre el fraccionamiento de las propiedades rústicas y urbanas;
+XI. Expedir Leyes sobre el fraccionamiento de las propiedades rústicas y urbanas.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-XII.- Crear nuevos municipios en las circunstancias y condiciones que señala la Ley del Municipio Libre;
+XII. Crear nuevos municipios en las circunstancias y condiciones que señala la Ley del Municipio Libre.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-XIII.- Suprimir aquellos municipios que dejen de tener la población suficiente y los recursos económicos indispensables para la satisfacción de los servicios municipales;
+XIII. Suprimir aquellos municipios que dejen de tener la población suficiente y los recursos económicos indispensables para la satisfacción de los servicios municipales.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-XIV.- Establecer la nomenclatura y categoría política de los pueblos, villas y ciudades del Estado y legislar en todo lo concerniente a sus fundos legales, a su planificación y a su urbanización;
+XIV. Establecer la nomenclatura y categoría política de los pueblos, villas y ciudades del Estado y legislar en todo lo concerniente a sus fundos legales, a su planificación y a su urbanización.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-XV.- Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen del Estado, conforme a la Constitución General de la República;
+XV. Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen del Estado, conforme a la Constitución General de la República.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-XVI.- Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos;
+XVI. Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Intervenir en los términos de esta Constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado, del Tribunal de lo Contencioso Administrativo del Estado de Durango, del Fiscal General, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública y de los Consejeros Electorales; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+XVIII. Convocar a elecciones para Gobernador, Diputados y Munícipes.
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+
+XIX. Legislar en materia municipal, teniendo presente en todos los casos, el fortalecimiento del municipio libre como base de la organización política y administrativa del Estado.
+
+Las leyes que se expidan en el ramo municipal, podrán determinar las zonas en que se divida el Estado, para la aplicación de disposiciones y normas acordes con las condiciones socio-económicas de cada municipio, incluyendo las tasas y tarifas de carácter tributario, con el objeto de que el cumplimiento de las leyes sea eficaz y democrático.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+XX. Resolver los conflictos que sobre límites se susciten entre los municipios.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
+
+XXI. Expedir el bando solemne para dar a conocer en todo el Estado la declaración de Gobernador que realice el Consejo Estatal del Instituto Estatal Electoral y de Participación Ciudadana.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XXII. Tomar la protesta de ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores, a los magistrados del Tribunal de lo Contencioso Administrativo del Estado de Durango, al Fiscal General, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, de los Consejeros Electorales y del Titular de la Entidad de Auditoría Superior del Estado
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
+
+XXIII. Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
 
-XVII.- Intervenir en los términos de esta Constitución, en las designaciones de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado, del Tribunal de lo Contencioso Administrativo del Estado de Durango, del Procurador General de Justicia, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública y de los Consejeros Electorales; así mismo, resolver sobre las renuncias o licencias que presenten, en los términos de la legislación vigente;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-XVIII.- Convocar a elecciones para Gobernador, Diputados y Munícipes;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
-
-XIX.- Legislar en materia municipal, teniendo presente en todos los casos, el fortalecimiento del municipio libre como base de la organización política y administrativa del Estado.
-
-Las leyes que se expidan en el ramo municipal, podrán determinar las zonas en que se divida el Estado, para la aplicación de disposiciones y normas acordes con las condiciones socio-económicas de cada municipio, incluyendo las tasas y tarifas de carácter tributario, con el objeto de que el cumplimiento de las leyes sea eficaz y democrático;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-XX.- Resolver los conflictos que sobre límites se susciten entre los municipios;
+XXIV. Recibir los avisos de ausencia del Gobernador y conceder, en los términos de esta Constitución y de la Ley, las autorizaciones, o en su caso, licencias al Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado y a los miembros del Consejo de la Judicatura del Estado.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XXI.- Expedir el bando solemne para dar a conocer en todo el Estado la declaración de Gobernador que realice el Consejo Estatal del Instituto Estatal Electoral y de Participación Ciudadana;
+XXV. Revisar, discutir y aprobar, en su caso, con vista del informe que rinda la Entidad de Auditoría Superior del Estado, la cuenta pública que anualmente le presentarán, en forma separada, el Ejecutivo, los organismos autónomos y los ayuntamientos del Estado, sobre sus respectivos ejercicios presupuestales, comprendiéndose en el examen, no sólo la conformidad de las erogaciones con las partidas de los correspondientes presupuestos de egresos, sino también la exactitud y la justificación de tales erogaciones.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+XXVI. Decretar amnistías; conceder indultos en los casos que señala la Legislación Penal.
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+XXVII. Autorizar al Ejecutivo y a los Ayuntamientos para la enajenación de bienes inmuebles propiedad del Estado o Municipales respectivamente. En el caso de venta esta deberá efectuarse en pública subasta y al mejor postor, teniendo como base su valor real y con expresa prohibición de que se finque a favor de un funcionario público federal, estatal o municipal, de sus parientes consanguíneos en línea recta sin limitación de grado o transversal hasta el cuarto grado, o de sus parientes por afinidad, o consanguíneos de estos hasta el tercer grado.
+
+XXVIII. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2000)
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XXII.- Tomar la protesta de ley al Gobernador del Estado, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores, del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos, de los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, de los Consejeros Electorales y del Titular de la Entidad de Auditoría Superior del Estado;
+XXVIII BIS. Designar a los Magistrados del Tribunal Electoral del Poder Judicial del Estado de acuerdo con lo establecido por esta Constitución y la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-XXIII.- Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
-
-XXIV.- Recibir los avisos de ausencia del Gobernador y conceder, en los términos de esta Constitución y de la Ley, las autorizaciones, o en su caso, licencias al Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado y a los miembros del Consejo de la Judicatura del Estado;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
-
-XXV.- Revisar, discutir y aprobar, en su caso, con vista del informe que rinda la Entidad de Auditoría Superior del Estado, la cuenta pública que anualmente le presentarán, en forma separada, el Ejecutivo, los organismos autónomos y los ayuntamientos del Estado, sobre sus respectivos ejercicios presupuestales, comprendiéndose en el examen, no sólo la conformidad de las erogaciones con las partidas de los correspondientes presupuestos de egresos, sino también la exactitud y la justificación de tales erogaciones;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-XXVI.- Decretar amnistías; conceder indultos en los casos que señala la Legislación Penal;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-XXVII.- Autorizar al Ejecutivo y a los Ayuntamientos para la enajenación de bienes inmuebles propiedad del Estado o Municipales respectivamente. En el caso de venta esta deberá efectuarse en pública subasta y al mejor postor, teniendo como base su valor real y con expresa prohibición de que se finque a favor de un funcionario público federal, estatal o municipal, de sus parientes consanguíneos en línea recta sin Iimitación de grado o transversal hasta el cuarto grado, o de sus parientes por afinidad, o consanguineos de estos hasta el tercer grado;
-
-XXVIII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2000)
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
-
-XXVIII BIS.- Designar a los Magistrados del Tribunal Electoral del Poder Judicial del Estado de acuerdo con lo establecido por esta Constitución y la Ley Orgánica del Poder Judicial;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
-
-XXIX.- Llevar un registro del patrimonio de los servidores públicos a que se refiere el Artículo 122 de esta Constitución, e investigar en el caso de que exista presunción de enriquecimiento ilícito de alguno de los servidores mencionados en dicho Artículo, procediendo en tal caso, conforme a lo establecido en las leyes correspondientes;
+XXIX. Llevar un registro del patrimonio de los servidores públicos a que se refiere el Artículo 122 de esta Constitución, e investigar en el caso de que exista presunción de enriquecimiento ilícito de alguno de los servidores mencionados en dicho Artículo, procediendo en tal caso, conforme a lo establecido en las leyes correspondientes.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
-XXX.- Expedir Leyes tendientes a normar las medidas de protección, y a corrección de conductas en su caso, de los menores, con el fin de propiciar su correcta incorporación al desarrollo de la sociedad;
+XXX. Expedir Leyes tendientes a normar las medidas de protección, y a corrección de conductas en su caso, de los menores, con el fin de propiciar su correcta incorporación al desarrollo de la sociedad.
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-XXXI.- Coordinar y evaluar por medio de la comisión respectiva, el desempeño de las funciones de la Entidad de Auditoría Superior del Estado, sin perjuicio de su autonomía técnica y de gestión;
+XXXI. Coordinar y evaluar por medio de la comisión respectiva, el desempeño de las funciones de la Entidad de Auditoría Superior del Estado, sin perjuicio de su autonomía técnica y de gestión.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
-XXXII.- Designar al titular de la Entidad de Auditoría Superior del Estado, en los términos que establezca esta Constitución y la ley;
+XXXII. Designar al titular de la Entidad de Auditoría Superior del Estado, en los términos que establezca esta Constitución y la ley.
 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-XXXIII.- Conocer de los actos, procedimientos y resolver, por acuerdo de las dos terceras partes de sus integrantes, sobre la suspensión definitiva de ayuntamientos y declarar, en consecuencia, que estos han desaparecido, así como suspender o revocar el mandato a alguno de sus miembros; en ambos casos, siempre y cuando los miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan, observándose lo siguiente:
+XXXIII. Conocer de los actos, procedimientos y resolver, por acuerdo de las dos terceras partes de sus integrantes, sobre la suspensión definitiva de ayuntamientos y declarar, en consecuencia, que estos han desaparecido, así como suspender o revocar el mandato a alguno de sus miembros; en ambos casos, siempre y cuando los miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan, observándose lo siguiente:
 
 a).- Procederá la suspensión de Ayuntamientos, en forma definitiva, con la consecuente declaración de desaparición, cuando se hayan presentado circunstancias, de hecho, como la desintegración del cuerpo edilicio, por renuncia o falta de la mayoría de sus miembros; cuando la mayoría de los integrantes de cabildo no asistan a tres sesiones consecutivas, sin causa justificada; cuando la mayoría o la totalidad de los integrantes del Ayuntamiento se encuentren en el caso en que proceda su suspensión en lo particular por la Comisión de delito doloso; o cuando el Ayuntamiento, como tal, haya violado reiteradamente, las Leyes del Estado y/o federales.
 
@@ -1041,31 +1065,33 @@ b).- Procederá la suspensión temporal de uno de los miembros del Ayuntamiento,
 
 c).- Procederá la suspensión definitiva de alguno de los miembros del Ayuntamiento, cuando el munícipe de que se trate se encuentre en cualquiera de los casos siguientes: Cuando se le haya dictado sentencia condenatoria y que ésta haya causado ejecutoria; y cuando deje de asistir consecutivamente a tres sesiones de cabildo, sin causa justificada, la suspensión definitiva del munícipe dará lugar a la revocación del mandato respectivo.
 
-Si alguno de los miembros dejare de desempeñar su cargo, será substituído por su suplente, o se procederá según lo dispone la Ley.
+Si alguno de los miembros dejare de desempeñar su cargo, será substituido por su suplente, o se procederá según lo dispone la Ley.
 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-XXXIV.- Resolver sobre las controversias que se susciten entre los Municipios; y entre éstos y el Ejecutivo del Estado.
+XXXIV. Resolver sobre las controversias que se susciten entre los Municipios; y entre éstos y el Ejecutivo del Estado.
 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
 
-XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, leyes que rijan las relaciones de trabajo entre el Estado y sus trabajadores y entre los Municipios y quienes laboran a su servicio;
+XXXV. Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, leyes que rijan las relaciones de trabajo entre el Estado y sus trabajadores y entre los Municipios y quienes laboran a su servicio.
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos;
+XXXVI. Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-XXXVII.- El Congreso del Estado, por sí o a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Procurador General de Justicia y a los titulares de las entidades de la administración pública estatal, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos, debiendo enviarle citatorio con la anticipación razonable y haciéndole saber el motivo exacto de su comparecencia;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XXXVII. El Congreso del Estado, por sí o a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, y a los titulares de las entidades de la administración pública estatal y al Fiscal General, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos, debiendo enviarle citatorio con la anticipación razonable y haciéndole saber el motivo exacto de su comparecencia.
 
 > <small>(ADICIONADA, P.O. 17 DE JULIO DE 1994)</small>
 
-XXXVIII.- Expedir leyes para la conservación, educación e instrucción de los grupos étnicos del Estado;
+XXXVIII. Expedir leyes para la conservación, educación e instrucción de los grupos étnicos del Estado.
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-XXXIX.- Las demás que le confiera expresamente esta Constitución.
+XXXIX. Las demás que le confiera expresamente esta Constitución.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1087,27 +1113,27 @@ La Comisión Permanente dará cuenta al Pleno de las labores desarrolladas duran
 
 Son atribuciones de la Comisión Permanente:
 
-I.- Llevar la correspondencia;
+I. Llevar la correspondencia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
 
-II.- Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango, en los términos prescritos por esta Constitución;
+II. Tomar la protesta de ley al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado, al Titular de la Entidad de Auditoría Superior del Estado y a los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango, en los términos prescritos por esta Constitución.
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2010)</small>
 
-III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que soliciten los Diputados, el Gobernador y los Magistrados del Tribunal Superior de Justicia, Magistrados Electorales y miembros del Consejo de la Judicatura;
+III. Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que soliciten los Diputados, el Gobernador y los Magistrados del Tribunal Superior de Justicia, Magistrados Electorales y miembros del Consejo de la Judicatura.
 
-IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
+IV. Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso.
 
-V.- Presidir los períodos extraordinarios de sesiones del Congreso; y
+V. Presidir los períodos extraordinarios de sesiones del Congreso; y
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-VI.- Recibir las iniciativas de ley y turnarlas para su estudio y dictamen, a las comisiones legislativas que corresponda; y
+VI. Recibir las iniciativas de ley y turnarlas para su estudio y dictamen, a las comisiones legislativas que corresponda; y
 
-VII.- Las demás que le confiere esta Constitución.
+VII. Las demás que le confiere esta Constitución.
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1131,9 +1157,13 @@ La Entidad de Auditoría Superior del Estado tendrá a su cargo, además de lo e
 
 I. Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los organismos autónomos y de los municipios, incluyendo los recursos de origen federal, en su caso, a través de los informes que se rendirán en los términos que disponga la ley, así como evaluar el desempeño de la gestión de los sujetos de fiscalización y el cumplimiento de los objetivos y metas de los programas respectivos.
 
-Sin perjuicio de los informes a que se refiere el anterior párrafo, en las situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan, a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, podrá dar lugar al fincamiento de las responsabilidades que corresponda;
+Sin perjuicio de los informes a que se refiere el anterior párrafo, en las situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan, a la revisión de los conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, podrá dar lugar al fincamiento de las responsabilidades que corresponda.
 
 II. Entregar los informes del resultado de la revisión de las cuentas públicas, al Congreso del Estado, en los términos que establezca la ley; dentro de los citados informes se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, mismos que tendrán carácter público.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+Los sujetos de fiscalización deberán entregar a la Auditoria Superior del Estado, los informes preliminares de avance de la gestión financiera y el desempeño gubernamental con la periodicidad y en los términos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1201,37 +1231,37 @@ Para ser Gobernador del Estado se requiere:
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
 
-I.- Tener la ciudadanía Duranguense por nacimiento o siendo ciudadano mexicano por nacimiento, tener una residencia efectiva en el Estado, no menor de doce años anteriores al día de la elección;
+I. Tener la ciudadanía Duranguense por nacimiento o siendo ciudadano mexicano por nacimiento, tener una residencia efectiva en el Estado, no menor de doce años anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-II.- Estar en pleno ejercicio de sus derechos ciudadanos;
+II. Estar en pleno ejercicio de sus derechos ciudadanos.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-III.- Tener treinta años cumplidos para el día de la elección;
+III. Tener treinta años cumplidos para el día de la elección.
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1993)</small>
 
-IV.- Los duranguenses por nacimiento deberán tener por lo menos dos años de residencia efectiva dentro del territorio del Estado, inmediatamente anteriores al día de la elección;
+IV. Los duranguenses por nacimiento deberán tener por lo menos dos años de residencia efectiva dentro del territorio del Estado, inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-V.- No pertenecer al estado eclesiástico, ni ser ministro de culto alguno;
+V. No pertenecer al estado eclesiástico, ni ser ministro de culto alguno.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-VI.- Saber leer y escribir;
+VI. Saber leer y escribir.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
-VII.- No ser Secretario o Subsecretario del Despacho en el Poder Ejecutivo del Estado, Procurador o Subprocurador de Justicia en el Estado, Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Electoral del Poder Judicial del Estado, del Tribunal para Menores Infractores del Poder Judicial del Estado o miembro del Consejo de la Judicatura del propio Poder Judicial, Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la Federación, ni militar en servicio activo, salvo que se hubieran separado de su cargo noventa días antes de la elección; y
+VII. No ser Secretario o Subsecretario del Despacho en el Poder Ejecutivo del Estado, Magistrado del Tribunal Superior de Justicia del Estado, del Tribunal Estatal Electoral o miembro del Consejo de la Judicatura del propio Poder Judicial, Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la federación, ni militar en servicio activo, salvo que se hubieran separado de su cargo noventa días antes de la elección.
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-VIII.- No haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
+VIII. No haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -1383,99 +1413,99 @@ Las autorizaciones para las ausencias temporales y de las licencias del Gobernad
 
 Son facultades y obligaciones del Gobernador:
 
-I.- Publicar en su caso, cumplir y hacer cumplir las Leyes Federales que no menoscaben la soberanía del Estado;
+I. Publicar en su caso, cumplir y hacer cumplir las Leyes Federales que no menoscaben la soberanía del Estado.
 
-II.- Promulgar, publicar y ejecutar las leyes y decretos que expida el Congreso del Estado, reglamentando su observancia en la esfera administrativa;
+II. Promulgar, publicar y ejecutar las leyes y decretos que expida el Congreso del Estado, reglamentando su observancia en la esfera administrativa.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
-III.- Coordinar, en base a los principios de la Ciencia de la Administración Pública, en forma permanente y continua los recursos humanos, materiales, técnicos y financieros del Estado, con el fin de lograr la mayor eficiencia y eficacia en la producción de bienes y servicios inherentes al beneficio económico, social y cultural del pueblo y cuidar del orden, tranquilidad y seguridad sociales;
+III. Coordinar, en base a los principios de la Ciencia de la Administración Pública, en forma permanente y continua los recursos humanos, materiales, técnicos y financieros del Estado, con el fin de lograr la mayor eficiencia y eficacia en la producción de bienes y servicios inherentes al beneficio económico, social y cultural del pueblo y cuidar del orden, tranquilidad y seguridad sociales.
 
-IV.- Iniciar ante el Congreso leyes y decretos;
+IV. Iniciar ante el Congreso leyes y decretos.
 
-V.- Nombrar y remover libremente a los funcionarios y empleados de confianza las dependencias del Poder Ejecutivo; Concederles licencias con o sin goce de sueldo y aceptarles renuncias;
+V. Nombrar y remover libremente a los funcionarios y empleados de confianza las dependencias del Poder Ejecutivo; Concederles licencias con o sin goce de sueldo y aceptarles renuncias.
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-VI.- Nombrar a los servidores públicos del Poder Ejecutivo y removerlos cuando haya causa que lo justifique; así como plantear al Congreso del Estado los casos de los servidores públicos que ameriten la iniciación de un juicio político por faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho; independientemente de las facultades concedidas por la Ley respectiva en caso de responsabilidad administrativa y civil.
+VI. Nombrar a los servidores públicos del Poder Ejecutivo y removerlos cuando haya causa que lo justifique; así como plantear al Congreso del Estado los casos de los servidores públicos que ameriten la iniciación de un juicio político por faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho; independientemente de las facultades concedidas por la Ley respectiva en caso de responsabilidad administrativa y civil.
 
-VII.- Excitar a los Tribunales a la más pronta y cumplida administración de justicia;
+VII. Excitar a los Tribunales a la más pronta y cumplida administración de justicia.
 
-VIII.- Visitar periódicamente los Municipios del Estado;
+VIII. Visitar periódicamente los Municipios del Estado.
 
-IX.- Hacer observaciones a las leyes y decretos que expidiere el Congreso del Estado, en los términos que señala el Artículo 52;
+IX. Hacer observaciones a las leyes y decretos que expidiere el Congreso del Estado, en los términos que señala el Artículo 52.
 
-X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio expédito de sus funciones;
+X. Facilitar al Poder Judicial los auxilios que requiera para el ejercicio expédito de sus funciones.
 
-XI.- Solicitar a la comisión permanente que convoque al Congreso a períodos extraordinarios de sesiones cuando lo considere necesario;
+XI. Solicitar a la comisión permanente que convoque al Congreso a períodos extraordinarios de sesiones cuando lo considere necesario.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
-XII.- Enviar al Congreso del Estado un informe por escrito y en medio magnético sobre el estado que guarda la administración pública estatal, de conformidad con las prevenciones establecidas en la presente Constitución y la ley respectiva;
+XII. Enviar al Congreso del Estado un informe por escrito y en medio magnético sobre el estado que guarda la administración pública estatal, de conformidad con las prevenciones establecidas en la presente Constitución y la ley respectiva.
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-XIII.- Disponer lo necesario para la seguridad de las personas, bienes y derechos de los individuos y, al efecto, mantener la paz, tranquilidad y orden público en todo el Estado;
+XIII. Disponer lo necesario para la seguridad de las personas, bienes y derechos de los individuos y, al efecto, mantener la paz, tranquilidad y orden público en todo el Estado.
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2005)</small>
 
-XIV.- Presentar al Congreso del Estado, dentro del primer periodo ordinario de sesiones a más tardar el día 30 de Noviembre de cada año, los proyectos de Ley de Ingresos y de Ley de Egresos para el ejercicio fiscal siguiente y en el segundo periodo ordinario de sesiones deberá presentar la Cuenta Pública de gastos erogados por el Estado durante el año anterior;
+XIV. Presentar al Congreso del Estado, dentro del primer periodo ordinario de sesiones a más tardar el día 30 de Noviembre de cada año, los proyectos de Ley de Ingresos y de Ley de Egresos para el ejercicio fiscal siguiente y en el segundo periodo ordinario de sesiones deberá presentar la Cuenta Pública de gastos erogados por el Estado durante el año anterior.
 
-XV.- Hacer transferencias de las partidas del Presupuesto de Egresos, dando aviso oportuno al Congreso;
+XV. Hacer transferencias de las partidas del Presupuesto de Egresos, dando aviso oportuno al Congreso.
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
-XVI.- Proponer a los Magistrados del Tribunal Superior de Justicia, debiendo hacerlo preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, sometiendo tal propuesta a la aprobación del Congreso;
+XVI. Proponer a los Magistrados del Tribunal Superior de Justicia, debiendo hacerlo preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, sometiendo tal propuesta a la aprobación del Congreso.
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2005)</small>
 
-XVII.- Contratar deuda pública y ejercer las facultades en esta materia de conformidad con la Ley de Deuda Pública del Estado y las demás disposiciones aplicables;
+XVII. Contratar deuda pública y ejercer las facultades en esta materia de conformidad con la Ley de Deuda Pública del Estado y las demás disposiciones aplicables.
 
-XVIII.- Concertar convenios sobre límites con los Estados vecinos, sometiéndolos a la aprobación del Congreso;
+XVIII. Concertar convenios sobre límites con los Estados vecinos, sometiéndolos a la aprobación del Congreso.
 
-XIX.- Resolver los conflictos que se susciten entre los Ayuntamientos y que no sean de los que corresponda conocer al Congreso;
+XIX. Resolver los conflictos que se susciten entre los Ayuntamientos y que no sean de los que corresponda conocer al Congreso.
 
-XX.- Intervenir conciliatoriamente en las controvercias (sic) que surjan entre los miembros de un Ayuntamiento, cuando así lo soliciten;
+XX. Intervenir conciliatoriamente en las controvercias (sic) que surjan entre los miembros de un Ayuntamiento, cuando así lo soliciten.
 
-XXI.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2000)
+XXI. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2000)
 
-XXII.- Declarar la utilidad pública y decretar la expropiación de conformidad a lo dispuesto por el Artículo 27 de la Constitución General de la República y a lo establecido en el Artículo 11 de la presente Constitución y demás leyes relativas;
+XXII. Declarar la utilidad pública y decretar la expropiación de conformidad a lo dispuesto por el Artículo 27 de la Constitución General de la República y a lo establecido en el Artículo 11 de la presente Constitución y demás leyes relativas.
 
-XXIII.- Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente delegar esa representación y celebrar convenios de coordinación con las autoridades hacendarias federales;
+XXIII. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente delegar esa representación y celebrar convenios de coordinación con las autoridades hacendarias federales.
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 1994)</small>
 
-XXIV.- Fomentar la educación popular, las actividades deportivas y el mejoramiento moral y material de la colectividad, sustentando siempre los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
+XXIV. Fomentar la educación popular, las actividades deportivas y el mejoramiento moral y material de la colectividad, sustentando siempre los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
 > <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-XXV.- Establecer en forma concurrente con el Poder Judicial, las medidas correspondientes para la organización del sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad;
+XXV. Establecer en forma concurrente con el Poder Judicial, las medidas correspondientes para la organización del sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad.
 
-XXVI.- Cuidar de que las elecciones se efectuen en el tiempo señalado por las leyes relativas; y (sic)
+XXVI. Cuidar de que las elecciones se efectuen en el tiempo señalado por las leyes relativas; y (sic)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE JULIO DE 1979)</small>
 
-XXVII.- Promover el desarrollo económico del Estado en forma integral y equilibrada, conforme a los principios de justicia social;
+XXVII. Promover el desarrollo económico del Estado en forma integral y equilibrada, conforme a los principios de justicia social.
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
 
-XXVIII.- Crear por Decreto, Organismos Descentralizados, empresas de participación estatal, fideicomisos, comités, direcciones y departamentos dependientes del Titular del Poder Ejecutivo;
+XXVIII. Crear por Decreto, Organismos Descentralizados, empresas de participación estatal, fideicomisos, comités, direcciones y departamentos dependientes del Titular del Poder Ejecutivo.
 
 > <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
 
-XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción;
+XXIX. Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1993)</small>
 
-XXX.- Celebrar convenios con la Federación o Municipios con respecto a la administración y recaudación de las contribuciones. También podrá celebrar convenios con la Federación, o sus Municipios respectivos, para que se asuman por unos u otros la ejecución y operación de obras; así como otorgar, revocar o modificar concesiones a los particulares que conforme a la legislación vigente competa al Ejecutivo para que asuman la ejecución y operación de obras, y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario. Las leyes reglamentarias de la materia normaran las modalidades del procedimiento;
+XXX. Celebrar convenios con la Federación o Municipios con respecto a la administración y recaudación de las contribuciones. También podrá celebrar convenios con la Federación, o sus Municipios respectivos, para que se asuman por unos u otros la ejecución y operación de obras; así como otorgar, revocar o modificar concesiones a los particulares que conforme a la legislación vigente competa al Ejecutivo para que asuman la ejecución y operación de obras, y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario. Las leyes reglamentarias de la materia normaran las modalidades del procedimiento.
 
 > <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-XXXI.- Instrumentar sistemas complementarios de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes; y
+XXXI. Instrumentar sistemas complementarios de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes; y
 
 > <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
-XXXII.-·Las demás que expresamente le confiere esta Constitución y las leyes reglamentarias respectivas.
+XXXII. Las demás que expresamente le confiere esta Constitución y las leyes reglamentarias respectivas.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 1993)</small>
 
@@ -1499,25 +1529,25 @@ Para ser Secretario General de Gobierno y Sub-Secretario, se requiere:
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de su designación. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de su designación;
+I. Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de su designación. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de su designación.
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-II.- Ser mayor de 28 años de edad;
+II. Ser mayor de 28 años de edad.
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
 
-III.- Poseer Título Profesional en grado de licenciatura;
+III. Poseer Título Profesional en grado de licenciatura.
 
-IV.- (DEROGADA, P.O. 30 DE AGOSTO DE 1987)
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-V.- No haber sido Gobernador del Estado por elección popular ordinaria o extraordinaria; y
+IV. (DEROGADA, P.O. 30 DE AGOSTO DE 1987)
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-VI.- Ser de reconocida probidad y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, excepto los delitos por culpa, pero tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo.
+V. No haber sido Gobernador del Estado por elección popular ordinaria o extraordinaria; y
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+VI. Ser de reconocida probidad y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, excepto los delitos por culpa, pero tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1525,15 +1555,15 @@ VI.- Ser de reconocida probidad y no haber sido condenado por delito que amerite
 
 Son facultades y obligaciones del Secretario General de Gobierno:
 
-I.- Refrendar los reglamentos, decretos, iniciativas, acuerdos de observancia general, nombramientos, convenios con el Gobierno Federal y con los Gobiernos Estatales y otros documentos que a juicio del Gobernador deberá refrendar;
+I. Refrendar los reglamentos, decretos, iniciativas, acuerdos de observancia general, nombramientos, convenios con el Gobierno Federal y con los Gobiernos Estatales y otros documentos que a juicio del Gobernador deberá refrendar.
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
-II.- Encargarse del despacho del Poder Ejecutivo durante las faltas temporales del Gobernador que no excedan de tres meses; y
+II. Encargarse del despacho del Poder Ejecutivo durante las faltas temporales del Gobernador que no excedan de tres meses; y
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
-III.- Desempeñar las comisiones y cargos que las leyes expresamente le confieran.
+III. Desempeñar las comisiones y cargos que las leyes expresamente le confieran.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
 
@@ -1551,17 +1581,17 @@ SECCION E.- DE LA HACIENDA DEL ESTADO
 
 La hacienda del Estado la constituyen:
 
-I.- Los bienes que sean propiedad del Estado;
+I. Los bienes que sean propiedad del Estado.
 
-II.- El producto de las contribuciones decretadas por el Congreso;
+II. El producto de las contribuciones decretadas por el Congreso.
 
-III.- Los bienes vacantes en el Estado;
+III. Los bienes vacantes en el Estado.
 
-IV.- Los bienes mostrencos;
+IV. Los bienes mostrencos.
 
-V.- Las donaciones, legados, herencias o reintegros que se hagan o que se dejen en beneficio del Estado; y
+V. Las donaciones, legados, herencias o reintegros que se hagan o que se dejen en beneficio del Estado; y
 
-VI.- Los créditos que tenga a su favor, los derechos, los productos y los aprovechamientos, así como los subsidios y las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir el Erario.
+VI. Los créditos que tenga a su favor, los derechos, los productos y los aprovechamientos, así como los subsidios y las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir el Erario.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1593,9 +1623,13 @@ Todos los servidores públicos que manejen fondos del erario, deberán otorgar a
 
 En el Estado de Durango no habrá monopolios ni estancos de ninguna clase, ni exención de impuestos, ni prohibiciones a titulo de protección a la industria.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-SECCION F.- DEL MINISTERIO PUBLICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+SECCIÓN F.
+
+DEL MINISTERIO PÚBLICO Y LA FISCALÍA GENERAL DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -1623,43 +1657,45 @@ VI. Rendir a los poderes del Estado los informes que le pidan sobre asuntos rela
 
 VII. Las demás que le señalan las leyes, tanto federales como del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 83.
 
-El ejercicio de las funciones del Ministerio Público se deposita en un Procurador General de Justicia, y en los Subprocuradores y agentes que determine la ley.
+El ejercicio de las funciones del Ministerio Público se deposita en un organismo, denominado Fiscalía General del Estado, con personalidad jurídica y patrimonio propio, dotado de autonomía técnica de gestión y presupuestaria cuyo titular es el Fiscal General.
 
-El Procurador General de Justicia, será designado por el Titular del Poder Ejecutivo, sujeto a la ratificación del Congreso del Estado. La ratificación se hará por el voto de la mayoría de los Diputados presentes, en la sesión que corresponda. Si el Congreso del Estado no se encontrase reunido, la Comisión Permanente convocará de inmediato a un periodo extraordinario de sesiones.
+El Fiscal General será designado por las dos terceras partes del Congreso del Estado a propuesta del Titular del Poder Ejecutivo.
 
-En caso de que, transcurrido el plazo de cinco días, el Congreso del Estado rechace a la persona propuesta para ocupar el cargo, se abstenga de resolver, o no se alcance la votación señalada en el párrafo anterior, el Ejecutivo del Estado, en un plazo de diez días, presentará otra propuesta y la aprobación se efectuará en los términos señalados en el segundo párrafo del presente artículo.
+Si el Congreso del Estado no se encontrase reunido, la Comisión Permanente convocará de inmediato a un período extraordinario de sesiones. El Congreso deberá resolver sobre la procedencia o improcedencia, de su nombramiento en el término de cinco días; en caso de que se abstenga de resolver o se declare la improcedencia del nombramiento, el Titular del Ejecutivo en el plazo de quince días realizará una segunda y hasta una tercera propuesta.
 
-Si presentada la segunda propuesta, el Congreso del Estado la rechazara, dentro de los plazos señalados, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación del Procurador General de Justicia.
+En caso de que la tercera propuesta sea rechazada por el Congreso; corresponderá al Titular del Ejecutivo hacer el nombramiento del Fiscal General, con exclusión de los no aprobados por el Congreso.
 
-El titular del Poder Ejecutivo nombrará a los subprocuradores y los removerá libremente al igual que al Procurador General de Justicia.
+El Fiscal General durará en su encargo cuatro años, podrá ser reelecto por un periodo Igual y sólo podrá ser removido por el Congreso por causa de responsabilidad.
 
-(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1987) (F. DE E., P.O. 12 DE DICIEMBRE DE 2002)
+En caso de ausencia del Fiscal General por más de dos meses, el Ejecutivo enviará al Congreso la propuesta respectiva.
+
+Los Vicefiscales y demás servidores públicos de la Fiscalía General serán nombrados y removidos libremente por el Fiscal General, con la salvedad que se establezca en la ley respecto de quienes conforman el servicio profesional de carrera.
+
+El Consejo Consultivo del Ministerio Público será presidido por el Fiscal General y estará conformado por los Vicefiscales, un representante del Poder Ejecutivo, uno del Poder Judicial y uno del organismo ciudadano estatal en materia de seguridad pública que establezca la ley, y tendrá como función proponer políticas públicas y de evaluación en materia de procuración de justicia para hacer más eficiente la labor de la Fiscalía, promover la colaboración con los demás cuerpos de seguridad pública del Estado, así como con los de la Federación y los municipios, además de velar por la autonomía de la Institución. En ningún caso podrá opinar sobre la Investigación o persecución de delitos en particular.
+
+El fiscal General deberá comparecer ante el Pleno del Congreso del Estado a rendir un informe anual de su gestión, el día quince de abril, y a más tardar, la segunda quincena de abril, para efectuar la glosa del mismo en los términos que disponga la Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 84.
 
-Para ser Procurador o Sub-Procurador se requiere:
+Para ser Fiscal General o Vicefiscal se requiere:
 
-(REFORMADA, P.O. 30 DE AGOSTO DE 1987) (F. DE E., P.O. 12 DE DICIEMBRE DE 2002)
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
-I.- Ser ciudadano duranguense por nacimiento en pleno ejercicio de sus derechos; o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de su designación. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado; inmediatamente anterior al día de su designación;
+II. Ser mayor de 30 años de edad.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+III. Poseer el día de su nombramiento una antigüedad mínima de cinco años como licenciado en Derecho o carrera afín en las ciencias jurídicas contados a partir de la expedición del título profesional y contar con cédula profesional; y
 
-II.- Ser mayor de 28 años de edad;
-
-III.- (DEROGADA, P.O. 30 DE AGOSTO DE 1987) (F. DE E., P.O. 12 DE DICIEMBRE DE 2002)
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-IV.- Poseer, el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Licenciado en Derecho; y
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-V.- No haber sido condenado a más de un año de prisión excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
+IV. No haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1667,11 +1703,13 @@ V.- No haber sido condenado a más de un año de prisión excepto el caso de del
 
 Para ser Agente del Ministerio Público se deben satisfacer los requisitos que al efecto establece la ley reglamentaria respectiva.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 86.
 
-El Sub-Procurador de Justicia suplirá al Procurador en sus faltas temporales.
+Los Vicefiscales suplirán al Fiscal General en los términos que establezca la Ley.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -1781,9 +1819,13 @@ II. Tener cuando menos treinta y cinco años cumplidos, al día de la propuesta 
 
 III. Poseer para ese día y con antigüedad mínima de diez años, título profesional de Licenciado en Derecho, expedido por institución legalmente facultada para ello y registrado ante las autoridades correspondientes.
 
-lV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad, de más de un año de prisión, pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama, en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena; y
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad, de más de un año de prisión, pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama, en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-V. No haber sido senador, diputado federal, diputado local, presidente municipal, síndico o regidor de algún Ayuntamiento, gobernador de la entidad, secretario o subsecretario de alguna de las ramas de la administración pública estatal, procurador de justicia en el Estado o Subprocurador, durante el año previo al de su designación.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+V. No haber sido senador, diputado federal, diputado local, presidente municipal, síndico o regidor de algún Ayuntamiento, gobernador de la entidad, secretario o subsecretario de alguna de las ramas de la administración pública estatal, Fiscal General y Vicefiscales, durante el año previo al de su designación.
 
 Estos nombramientos, deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales, en el ejercicio de la actividad jurídica.
 
@@ -1835,7 +1877,7 @@ IX. Designar, remover y adscribir a los Secretarios y Actuarios de las Salas oye
 
 X. Expedir su reglamento interior;
 
-Xl. Resolver los conflictos que surjan entre los ayuntamientos y los Poderes del Estado; con excepción de las controversias constitucionales previstas en la fracción I, inciso i) del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
+XI. Resolver los conflictos que surjan entre los ayuntamientos y los Poderes del Estado; con excepción de las controversias constitucionales previstas en la fracción I, inciso i) del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -2033,21 +2075,21 @@ Para ser electos Presidentes, Síndicos o Regidores de un ayuntamiento, se requi
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 1996)</small>
 
-I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos y nativo del municipio, o ciudadano duranguense con residencia efectiva dentro del territorio del municipio que no sea menor de seis años inmediatamente anteriores al día de la elección;
+I. Ser ciudadano duranguense, en pleno ejercicio de sus derechos y nativo del municipio, o ciudadano duranguense con residencia efectiva dentro del territorio del municipio que no sea menor de seis años inmediatamente anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
-II.- Ser mayor de 21 años de edad;
+II. Ser mayor de 21 años de edad.
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
 
-III.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo independientemente de la pena impuesta; y
+III. Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo independientemente de la pena impuesta; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
-IV.- No ser Secretario o subsecretario del Despacho del Poder Ejecutivo del Estado, Procurador o Subprocurador General de Justicia del Estado, Diputado en ejercicio ante el Congreso del Estado, Magistrado del Tribunal Superior de Justicia del Estado, del Tribunal Electoral del Poder Judicial del Estado o del Tribunal para Menores Infractores del Poder Judicial del Estado, miembro del Consejo de la Judicatura del Poder Judicial, funcionario municipal, servidor público de mando superior de la Federación, ni militar en servicio activo, salvo que se hubieran separado de su cargo noventa días antes de la elección.
+IV. No ser Secretario o subsecretario del Despacho del Poder Ejecutivo del Estado, Diputado en ejercicio ante el Congreso del Estado, Magistrado del Tribunal Superior de Justicia del Estado, del Tribunal Electoral del Poder Judicial del Estado o del Tribunal para Menores Infractores del Poder Judicial del Estado, miembro del Consejo de la Judicatura del Poder Judicial, funcionario municipal, servidor público de mando superior de la Federación, ni militar en servicio activo, salvo que se hubieran separado de su cargo noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -2117,33 +2159,33 @@ La policía preventiva municipal estará al mando del Presidente Municipal en lo
 
 El Ejecutivo Federal tendrá el mando de la fuerza pública, en el lugar donde resida transitoriamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 111.
 
-La hacienda pública municipal se forma de impuestos, derechos, productos, aprovechamientos, participaciones, fondos de aportaciones, financiamientos, los rendimientos de los bienes que le pertenezcan, y en general, por las contribuciones y otros ingresos que la Legislatura del Estado establezca a su favor. En consecuencia, los recursos que integran la hacienda pública municipal, serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la Ley. En todo caso:
+La hacienda pública municipal se forma de impuestos, derechos, productos, aprovechamientos, participaciones, fondos de aportaciones, financiamientos, los rendimientos de los bienes que le pertenezcan, y en general, por las contribuciones y otros ingresos que la Legislatura del Estado establezca a su favor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
-a).- Percibirán las contribuciones que determinen las leyes de la materia, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tenga por base el cambio de valor de los inmuebles.
+Los recursos que integran la hacienda pública municipal, serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la Ley. En todo caso:
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
-Los Ayuntamientos podrán celebrar convenios con el Estado, para que éste se haga cargo de alguna de las funciones relacionadas con la administración de esas contribuciones.
+I. Percibirán las contribuciones que determinen las leyes de la materia, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tenga por base el cambio de valor de los inmuebles.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+Los Ayuntamientos podrán celebrar convenios con el Estado, para que éste se haga cargo de alguna, de las funciones relacionadas con la administración de esas contribuciones;
 
-b).- Las participaciones federales, que serán cubiertas por la federación a los municipios, por conducto del Gobierno del Estado, con apego a las bases, montos y plazos que anualmente se determinen en la legislación correspondiente.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
-La dependencia que tenga a su cargo el manejo de los fondos públicos estatales, está obligada a publicar en los periódicos de mayor circulación en la localidad, los informes mensuales detallados de las participaciones que en ese lapso correspondan a cada municipios (sic) de la entidad;
+II. Las participaciones, aportaciones y subsidios federales, que sean transferidos por la federación, por conducto del Gobierno del Estado a los municipios, con apego a las bases, montos y plazos que anualmente se determinen en la legislación correspondiente.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
+El ejercicio de los recursos federales, se sujetará a lo que dispongan los ordenamientos aplicables.
 
-c).- Los ingresos derivados de la prestación de servicios públicos a cargo del Ayuntamiento, así como los productos y aprovechamientos que le correspondan.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+III. Los ingresos derivados de la prestación de servicios públicos a cargo del Ayuntamiento, así como los productos y aprovechamientos que le correspondan.
 
-La Legislatura del Estado, tendrá facultades para establecer las contribuciones a que se refieren los incisos a) y c). Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, a favor de persona o institución alguna.
+La Legislatura del Estado, tendrá facultades para establecer las contribuciones a que se refieren las fracciones I y III. Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, a favor de persona o institución alguna.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -2156,6 +2198,10 @@ Los ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
 La Legislatura del Estado, aprobará las leyes de ingresos de los municipios y revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en los ingresos determinados en su ley.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+Los poderes y los organismos autónomos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, de acuerdo a las disposiciones legales aplicables. Tratándose de los municipios estos deberán incluir dichos tabuladores en sus presupuestos de egresos.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -2197,13 +2243,13 @@ El Gobernador del Estado, durante el tiempo de su encargo, solo podrá ser acusa
 
 Las normas conducentes a sancionar a quienes, teniendo el carácter de servidores públicos y que incurran en responsabilidad, se fijarán conforme a las siguientes prevenciones:
 
-I.- Se impondrá, mediante juicio político, las sanciones previstas en el Artículo 118 de este Capítulo, a los servidores públicos señalados en dicho precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+I. Se impondrá, mediante juicio político, las sanciones previstas en el Artículo 118 de este Capítulo, a los servidores públicos señalados en dicho precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 No procede el Juicio Político por la mera expresión de ideas.
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal; y
+II. La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal; y
 
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el cumplimiento de sus empleos, cargos o comisiones.
+III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el cumplimiento de sus empleos, cargos o comisiones.
 
 Los procedimientos para la aplicación de las sanciones mencionadas en la fracción III de este Artículo, se desarrollarán autónomamente.- No podrán imponerse por la misma conducta sanciones de igual naturaleza en diversos procedimientos.
 
@@ -2213,11 +2259,13 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 A cualquier ciudadano, bajo su más estricta responsabilidad y aportando elementos de prueba, se le concede acción popular para denunciar por escrito ante el Congreso del Estado, las conductas ilícitas a que se refiere el presente artículo. Si los elementos en que funde su denuncia fueren falsos, el servidor público denunciado podrá acudir ante las autoridades judiciales, en los términos de la legislación penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 118.
 
-Podrán ser sujetos de juicio político los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado y los Jueces del Tribunal para Menores Infractores, los Consejeros del Consejo de la Judicatura Estatal, los Jueces de los Juzgados a que se refiere el artículo 90 de esta Constitución, los Secretarios y Subsecretarios de Despacho, los Jefes o Directores de Departamentos Gubernamentales; el Procurador y Subprocuradores de Justicia; los Presidentes Municipales, el Tesorero, el Secretario, Síndico y Regidores de los Ayuntamientos; así como los Directores o sus equivalentes de las entidades de la (sic) administraciones públicas estatal y municipales, Presidente, Secretario Técnico y Consejeros Electorales del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos y los Comisionados de la Comisión Estatal para el Acceso a la Información Pública.
+Podrán ser sujetos de juicio político los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Electoral del Poder Judicial del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado y los Jueces del Tribunal para Menores Infractores del Poder Judicial del Estado, los Consejeros del Consejo de la Judicatura Estatal, los Jueces de los Juzgados a que se refiere el artículo 90 de esta Constitución, los Secretarios y Subsecretarios de Despacho, los Jefes o Directores de Departamentos Gubernamentales; el Fiscal General o los Vicefiscales; los Presidentes Municipales, el Tesorero, el Secretario, Síndico y Regidores de los Ayuntamientos; así como los Directores o sus equivalentes de las entidades de la administraciones públicas estatal y municipales, Presidente, Secretario Técnico y Consejeros Electorales del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos y los Comisionados de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
 
@@ -2235,11 +2283,13 @@ El Tribunal Superior de Justicia, como Jurado de Sentencia, conocerá de la acus
 
 El procedimiento de juicio político, sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 119.
 
-Para proceder penalmente contra los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado y los Jueces del Tribunal para Menores Infractores, los Consejeros del Consejo de la Judicatura Estatal, los Jueces de Primera Instancia, los Secretarios de Despacho, el Procurador General de Justicia y los Presidentes Municipales, el Congreso declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Electoral del Poder Judicial del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado y los Jueces del Tribunal para Menores Infractores del Poder Judicial del Estado, los Consejeros del Consejo de la Judicatura Estatal, los Jueces de Primera Instancia, los Secretarios de Despacho, el Fiscal General y los Presidentes Municipales, el Congreso declarará por mayoría absoluta de los integrantes de la Legislatura si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -2293,11 +2343,13 @@ Las leyes garantizarán el estricto cumplimiento de lo previsto en los dos párr
 
 Todo funcionario público, antes de tomar posesión de su cargo, protestará guardar la Constitución General de la República y la del Estado, según la fórmula siguiente: "PROTESTAIS GUARDAR Y HACER GUARDAR LA CONSTITUCION GENERAL DE LA REPUBLICA, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE.... QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NAClON Y DEL ESTADO?". Después de haber contestado el interpelado: "'SI PROTESTO", el que interroga dirá: "SI ASI NO LO HICIEREIS, QUE LA NACION Y EL ESTADO OS LO DEMANDEN".
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 122.
 
-El Gobernador Constitucional del Estado, los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y del Tribunal Estatal Electoral, el Presidente y Secretario del Instituto Estatal Electoral, el Presidente de la Comisión de Derechos Humanos, los Consejeros del Consejo de la Judicatura Estatal, los Jueces, los Secretarios de Despacho, los Recaudadores de Rentas, y el Procurador General de Justicia, los Presidentes, Regidores, Síndicos, Tesoreros y Secretarios de los Ayuntamientos, así como todos los demás servidores públicos que determine la Ley de Responsabilidades respectiva, deberán presentar ante la Entidad de Auditoría Superior, bajo protesta de decir verdad, una declaración pública anual de su estado patrimonial, la que deberá contener: una relación escrita de sus bienes inmuebles, valores, depósitos en numerario, acciones de sociedad, bonos o títulos financieros, vehículos y en general, los bienes que integran su patrimonio.
+El Gobernador Constitucional del Estado, los Diputados del Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado de Durango y del Tribunal para Menores Infractores del Poder Judicial del Estado, el Presidente y Secretario del Instituto Electoral y de Participación Ciudadana del Estado de Durango, el Presidente de la Comisión de Derechos Humanos, los Comisionados y el Secretario Ejecutivo de la Comisión Estatal para la Transparencia y el Acceso a la Información Pública, los Consejeros del Consejo de la Judicatura Estatal, los Jueces, los Secretarios de Despacho, los Recaudadores de Rentas, el Fiscal General y los Vicefiscales, los Presidentes, Regidores, Síndicos, Tesoreros y Secretarios de los Ayuntamientos, así como todos los demás servidores públicos que determine la Ley de Responsabilidades respectiva, deberán presentar ante la Entidad de Auditoría Superior, bajo protesta de decir verdad, una declaración pública anual de su estado patrimonial, la que deberá contener: una relación escrita de sus bienes inmuebles, valores, depósitos en numerario, acciones de sociedad, bonos o títulos financieros, vehículos y en general, los bienes que integran su patrimonio.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
 
@@ -2311,15 +2363,13 @@ El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores P
 
 La Constitución General de la República, ésta Constitución y las leyes que de ellas emanen son las leyes supremas del Estado Libre y Soberano de Durango.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 125.
 
-Los Diputados, el Gobernador, los Secretarios del Despacho, el Procurador General de Justicia, los Subprocuradores, los Agentes del Ministerio Público, los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado, los miembros del Consejo de la Judicatura del Estado, los Jueces de Primera Instancia, los Jueces Menores, los Presidentes y los Síndicos Municipales, durante el periodo de sus respectivos encargos, no podrán desempeñar otro cargo, función o empleo por el que se disfrute sueldo o remuneración, ni ejercer profesión alguna. Se exceptúa de esta prohibición, los cargos o comisiones de oficio y de índole docente.
-
-El Gobernador, los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado, así como los miembros del Consejo de la Judicatura del Estado, podrán desempeñar otra comisión o empleo de la Federación, del Estado o de los Municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso o de la Comisión Permanente, pero entonces cesarán de sus funciones mientras dure la nueva ocupación.
+Los Diputados, el Gobernador, los Secretarios del Despacho, el Fiscal General, los Vicefiscales los Agentes del Ministerio Público, los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Poder Judicial del Estado y del Tribunal para Menores Infractores del Poder Judicial del Estado, los miembros del Consejo de la Judicatura del Estado, los Jueces de Primera Instancia, los Jueces Menores, los Presidentes y los Síndicos Municipales, durante el periodo de sus respectivos encargos, no podrán desempeñar otro cargo, función o empleo por el que se disfrute sueldo o remuneración, ni ejercer profesión alguna. Se exceptúa de esta prohibición, los cargos o comisiones de oficio y de índole docente.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -2327,17 +2377,29 @@ El Gobernador, los Magistrados del Tribunal Superior de Justicia, del Tribunal E
 
 Solo se considerará que han desaparecido los Poderes en el Estado de Durango, cuando falten físicamente los titulares de los mismos. En éste caso, el Secretario General de Gobierno, se hará cargo del Poder Ejecutivo y convocará a elecciones que deberán efectuarse en un plazo máximo de seis meses.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 127.
 
-Los recursos económicos de que disponga el Gobierno del Estado, se administrarán con eficiencia, eficacia y honradez, para cumplir los objetivos y programas a que estén destinados.
+Los recursos económicos de que dispongan los poderes, los organismos autónomos y los municipios, se administrarán con eficiencia, eficacia, transparencia y honradez, para cumplir los objetivos y programas a que estén destinados.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1989)</small>
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación que haya de celebrarse para la ejecución de obras públicas, serán adjudicados o se llevarán a cabo a través de licitaciones públicas mediante convocatoria pública, para que, de manera libre, se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precios, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1989)</small>
+
 Cuando las licitaciones a que se refiere el párrafo anterior, no sean idóneas para garantizar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficiencia, eficacia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
-La administración de Recursos Económicos Estatales, se sujetará a las bases de este artículo.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+La administración de recursos económicos, se sujetará a las bases de este artículo.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+
+Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas de acuerdo a las leyes respectivas con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del primer párrafo del presente artículo.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1989)</small>
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Quinto de esta Constitución.
 
@@ -3128,3 +3190,33 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 548, POR EL QUE SE REFORMAN LOS PARRAFOS PRIMERO Y TERCERO DEL ARTICULO 13; LA FRACCION III DEL ARTICULO 55; SE ADICIONA UN PARRAFO A LA FRACCION II DEL ARTICULO 58 Y SE RECORREN LOS PARRAFOS SUBSIGUIENTES; SE ADICIONA EL ARTICULO 111; SE ADICIONA UN TERCER PARRAFO AL ARTICULO 125; SE REFORMA EL PRIMER Y CUARTO PARRAFOS DEL ARTICULO 127 Y SE LE ADICIONA UN QUINTO PARRAFO, RECORRIENDOSE EN SU NUMERO EL ANTERIOR PARA SER SEXTO, PARA QUEDAR COMO SIGUE TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente.
+
+P.O. 9 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 554, SE ADICIONA UN ULTIMO PARRAFO AL ARTICULO 9; Y SE REFORMAN LOS ARTICULOS: 32, FRACCION V; 48 ULTIMO PARRAFO; 55, FRACCIONES XVII, XXII Y XXXVII; 60, FRACCION VII; 83; 84; 86; 93, FRACCION V; 108·FRACCION IV; 118 PRIMER PARRAFO; 119 PRIMER PARRAFO; 122 Y 125, PARA QUEDAR COMO SIGUE, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+PRIMERO. El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Una vez publicada entrará en vigor el día 15 de octubre de 2010, bajo las siguientes prevenciones:
+
+a) El Fiscal General deberá ser nombrado el día 15 de octubre de 2010;
+
+b) El Fiscal General deberá nombrar a mas tardar el día 16 de octubre de 2010 a los Vicefiscales, hasta en tanto no ocurra dicho nombramiento, los Subprocuradores ejercerán las atribuciones de éstos;
+
+c) Para el cumplimiento de las obligaciones que se derivan del presente decreto, el titular del Poder Ejecutivo efectuará las reasignaciones y transferencias presupuestales en la Ley de Egresos del Estado Libre y Soberano de Durango, para el ejercicio fiscal de 2010, hasta en tanto no se autorice el presupuesto para el ejercicio fiscal 2011;
+
+d) Los agentes del Ministerio Público de la Procuraduría General de Justicia del Estado quedarán a partir de la entrada en vigor del presente decreto y de la Ley Orgánica de la Fiscalía General del Estado adscritos a la fiscalía general y sus actos como autoridad como parte en los procesos penales seguirán siendo válidos para todos los efectos legales. No requerirán un nuevo nombramiento los agentes del ministerio público que lo hayan obtenido por servidores públicos de la Procuraduría General de Justicia del Estado. La entrada de las reformas mencionadas en el presente artículo no afectará de ninguna forma la tramitación de las averiguaciones previas, investigaciones o procesos penales iniciados antes de su vigencia y los agentes del ministerio público seguirán obligados a dar continuidad a los mismos; y
+
+e) En la readscripción de los empleados y trabajadores de la Procuraduría General de Justicia del Estado, a la Fiscalía General del Estado se respetarán sus derechos adquiridos.
+
+TERCERO. Toda mención que se haga en ordenamientos legales respecto a la Procuraduría General de Justicia del Estado, se entenderá hecha a la Fiscalía General del Estado.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan el presente decreto.
