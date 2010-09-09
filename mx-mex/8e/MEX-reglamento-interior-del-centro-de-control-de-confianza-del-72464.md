@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-centro-de-control-de-confianza-del-7246
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-08"
-last_updated: "2009-12-08"
+last_updated: "2010-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Sección Tercera de la Gaceta Oficial del Estado de México, el martes 8 de diciembre de 2009.
 
@@ -49,9 +49,13 @@ I. Decreto, al Decreto Número 224 de la "LVI" Legislatura del Estado de México
 
 II. Centro u Organismo, al Centro de Control de Confianza del Estado de México.
 
-III Consejo Directivo, al Consejo Directivo del Centro de Control de Confianza del Estado de México.
+III. Consejo Directivo, al Consejo Directivo del Centro de Control de Confianza del Estado de México.
 
 IV. Director General, al Director General del Centro de Control de Confianza del Estado de México.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+V. Instituciones de Seguridad Pública, a las instituciones policiales, de procuración de justicia y del sistema penitenciario, así como cualquier dependencia encargada de la seguridad pública, tanto en el ámbito estatal como municipal.
 
 ###### Artículo 3.
 
@@ -105,11 +109,17 @@ I. Planear, programar, dirigir, controlar y evaluar el funcionamiento del Centro
 
 II. Establecer y coordinar el funcionamiento del sistema de registro y control de confianza del Centro.
 
-III. Proporcionar a las autoridades competentes la información contenida en los expedientes de los integrantes de las instituciones de seguridad pública estatal y municipal, procuración de justicia, así como de los centros preventivos y de readaptación social y que se requieran en procesos administrativos y judiciales, con las reservas previstas en las disposiciones legales.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Informar de los resultados de las evaluaciones que se practiquen al personal en activo y de nuevo ingreso, a las autoridades de las instituciones de seguridad pública estatal y municipal, procuración de justicia, así como de los centros preventivos y de readaptación social del Estado.
+III. Proporcionar a las autoridades competentes la información contenida en los expedientes de los aspirantes e integrantes de las Instituciones de Seguridad Pública y que se requieran en procesos administrativos y judiciales, con las reservas previstas en las disposiciones legales.
 
-V. Proponer a las instituciones de seguridad pública estatal y municipal, de procuración de justicia y de prevención y readaptación social, el perfil de grado de sus elementos.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Informar a las autoridades de las Instituciones de Seguridad Pública sobre los resultados de las evaluaciones que se practiquen para el ingreso, reingreso, promoción y permanencia de su personal, así como rendir el informe correspondiente al Consejo Directivo.
+
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+V. Proponer a las Instituciones de Seguridad Pública el perfil de grado de sus elementos.
 
 VI. Promover, ante las instancias competentes, la certificación de los procesos de evaluación que aplique el Centro, así como de las instituciones privadas que participen en dichos procesos.
 
@@ -139,7 +149,35 @@ XVIII. Realizar el seguimiento a los recursos de inconformidad y demás procedim
 
 XIX. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-XX. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Consejo Directivo.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XX. Emitir los certificados correspondientes a los aspirantes y servidores públicos de las Instituciones de Seguridad Pública que acrediten los requisitos de ingreso o permanencia que establezca el ordenamiento legal aplicable y las evaluaciones a que se refiere el Decreto, en un plazo no mayor a sesenta días contados a partir de la conclusión del proceso de evaluación.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XXI. Cancelar el certificado de un servidor público integrante de una Institución de Seguridad Pública, cuando:
+
+a) Sea separado de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia, que establezca la normatividad aplicable;
+
+b) Al ser removido de su encargo;
+
+c) Por no obtener la revalidación de su Certificado;
+
+d) Cuando de la investigación de validez de los documentos entregados por el evaluado y gestionada ante las autoridades correspondientes, se tenga alguna inconsistencia relacionadas con la autenticidad de los mismos; y
+
+e) Por las demás causas que establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XXII. Coordinar el desarrollo y aplicación de los procedimientos de evaluación de los aspirantes e integrantes de las Instituciones de Seguridad Pública en coadyuvancia con éstas.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XXIII. Instruir para el registro y control de la información, una vez que haya causado estado la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de los integrantes de las Instituciones de Seguridad Pública.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XXIV. Las demás que le confieren otros ordenamientos legales y aquellas que le encomiende el Consejo Directivo.
 
 ###### Artículo 12.
 
@@ -203,7 +241,21 @@ XII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquel
 
 XIII. Proponer y coordinar la ejecución de acciones de modernización administrativa, mejora regulatoria y gestión de la calidad en los trámites y servicios que presta la unidad administrativa a su cargo.
 
-XIV. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XIV. Integrar los comités o grupos internos de trabajo que autorice el Consejo Directivo y cumplir las tareas encomendadas en el ámbito de su competencia.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XV. Cumplir; en el ámbito de su competencia, con los acuerdos y lineamientos que emitan las instancias federales, estatales y municipales en materia de seguridad pública de conformidad con lo dispuesto por el Director General.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XVI. Integrar y proporcionar al Director General, la información de su competencia derivada de los procesos de evaluación, en términos de las disposiciones legales en la materia.
+
+> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Director General.
 
 ### CAPÍTULO IV. DE LAS UNIDADES ADMINISTRATIVAS DEL CENTRO
 
@@ -211,7 +263,9 @@ XIV. Las demás que les confieren otras disposiciones legales y aquellas que les
 
 Corresponden a la Dirección de Psicología las atribuciones siguientes:
 
-I. Programar, coordinar y aplicar exámenes psicológicos al personal activo y de nuevo ingreso de las instituciones de seguridad pública estatal y municipal, procuración de justicia, así como de los centros preventivos y de readaptación social del Estado, en términos de los procedimientos certificados y de la normatividad aplicable.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+I. Programar, coordinar y aplicar exámenes psicológicos al personal activo y de nuevo ingreso de las Instituciones de Seguridad Pública, en términos de los procedimientos certificados y de la normatividad aplicable.
 
 II. Establecer las condiciones físicas adecuadas de las instalaciones y equipos para la aplicación de los exámenes psicológicos.
 
@@ -219,7 +273,9 @@ III. Informar al Director General acerca de los resultados obtenidos en las eval
 
 IV. Promover la ética, imparcialidad, calidad y profesionalismo de los servidores públicos responsables de aplicar los exámenes psicológicos.
 
-V. Identificar y proponer al Director General el perfil psicológico de las personas que desean ingresar o presten sus servicios en las instituciones de seguridad pública estatal y municipal, procuración de justicia, así como en los centros preventivos y de readaptación social del Estado.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+V. Identificar y proponer al Director General el perfil psicológico de las personas que desean ingresar o presten sus servicios en las Instituciones de Seguridad Pública.
 
 VI. Proponer al Director General normas, políticas, lineamientos e instrumentos que permitan eficientar las evaluaciones psicológicas a su cargo.
 
@@ -233,7 +289,9 @@ IX. Las demás que le confieren otras disposiciones legales y aquellas que le en
 
 Corresponden a la Dirección de Poligrafía las atribuciones siguientes:
 
-I. Programar, coordinar y aplicar pruebas poligráficas al personal activo y de nuevo ingreso de las instituciones de seguridad pública estatal y municipal, procuración de justicia, así como de los centros preventivos y de readaptación social del Estado, en términos de los procedimientos certificados y de la normatividad aplicable.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+I. Programar, coordinar y aplicar pruebas poligráficas al personal activo y de nuevo ingreso de las Instituciones de Seguridad Pública, en términos de los procedimientos certificados y de la normatividad aplicable.
 
 II. Establecer las condiciones físicas adecuadas de las instalaciones y equipos para la aplicación de la evaluación poligráfica.
 
@@ -255,9 +313,13 @@ IX. Las demás que le confieren otras disposiciones legales y aquellas que le en
 
 Corresponden a la Dirección de Análisis Socioeconómico las atribuciones siguientes:
 
-I Programar, coordinar y realizar evaluaciones del entorno socioeconómico al personal activo y de nuevo ingreso de las instituciones de seguridad pública estatal y municipal, procuración de justicia, así como de los centros preventivos y de readaptación social del Estado, en términos de los procedimientos certificados y de la normatividad aplicable.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
 
-II. Informar al Director General acerca de los resultados obtenidos en las evaluaciones realizadas del entorno socioeconómico del personal activo y de nuevo ingreso de las instituciones de seguridad pública estatal y municipal, procuración de justicia, así como de los centros preventivos y de readaptación social del Estado.
+I. Programar, coordinar y realizar evaluaciones del entorno socioeconómico al personal activo y de nuevo ingreso de las Instituciones de Seguridad Pública, en términos de los procedimientos certificados y de la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+II. Informar al Director General acerca de los resultados obtenidos en las evaluaciones realizadas del entorno socioeconómico del personal activo y de nuevo ingreso de las Instituciones de Seguridad Pública.
 
 III. Verificar, previa realización de las evaluaciones del entorno socioeconómico, que el personal sujeto a evaluación no cuente con antecedentes penales.
 
@@ -277,7 +339,9 @@ IX. Las demás que le confieren otras disposiciones legales y aquellas que le en
 
 Corresponden a la Dirección Médica y Toxicológica las atribuciones siguientes:
 
-I. Programar y coordinar la realización de evaluaciones médicas y toxicológicas al personal activo y de nuevo ingreso de las instituciones de seguridad pública estatal y municipal, procuración de justicia, así como de los centros preventivos y de readaptación social del Estado, en términos de los procedimientos certificados y de la normatividad aplicable.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+I. Programar y coordinar la realización de evaluaciones médicas y toxicológicas al personal activo y de nuevo ingreso de las Instituciones de Seguridad Pública, en términos de los procedimientos certificados y de la normatividad aplicable.
 
 II. Realizar directamente o, a través de la contratación de terceros que cumplan con las normas establecidas, evaluaciones médicas y toxicológicas, que permitan detectar el consumo de sustancias prohibidas por parte del personal sujeto a estas evaluaciones.
 
@@ -285,7 +349,9 @@ III. Verificar que las instituciones privadas que participen en los procesos de 
 
 IV. Establecer las condiciones físicas adecuadas para la aplicación de los exámenes médicos y toxicológicos que realice directamente.
 
-V. Identificar y proponer al Director General, los perfiles médicos y toxicológicos del personal que desea ingresar o prestar sus servicios en las instituciones de seguridad pública estatal y municipal, procuración de justicia, así como de los centros preventivos y de readaptación social del Estado.
+> <small>(REFORMADA, G.G. 9 DE SEPTIEMBRE DE 2010)</small>
+
+V. Identificar y proponer al Director General los perfiles médicos y toxicológicos del personal que desea ingresar en las Instituciones de Seguridad Pública.
 
 VI. Informar al Director General acerca de los resultados obtenidos en las evaluaciones médicas y toxicológicas que lleve a cabo.
 
@@ -450,3 +516,13 @@ LIC. CARLOS FLORES GONZÁLEZ
 DIRECTOR GENERAL DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
