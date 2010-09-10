@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-la-victima-o-el-ofendido-del-338
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-22"
-last_updated: "2006-10-27"
+last_updated: "2010-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ATENCION Y PROTECCION A LA VICTIMA O EL OFENDIDO DEL DELITO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 22 de agosto de 2003.
 
@@ -35,9 +35,13 @@ LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO DEL DELITO PARA EL ES
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público y tienen por objeto establecer los derechos, así como las medidas de atención y protección a la víctima o el ofendido por algún delito, conforme a lo establecido por el Artículo 20, apartado B de la Constitución Política de los Estados Unidos Mexicanos.
+Las disposiciones de esta Ley son de orden público y tienen por objeto establecer los derechos, así como las medidas de atención y protección a la víctima o el ofendido por algún delito, conforme a lo establecido por el artículo 20 apartado C de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -111,7 +115,11 @@ La víctima o el ofendido sin perjuicio de lo dispuesto por otros ordenamientos 
 
 I.- Ser informado directa, oportuna y adecuadamente de los derechos que en su favor establece la presente Ley y demás ordenamientos aplicables en la materia;
 
-II.- Recibir asesoría jurídica gratuita desde el inicio de la averiguación previa para la defensa de sus intereses;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Recibir asesoría jurídica gratuita desde el inicio de la averiguación previa o investigación para la defensa de sus intereses;
 
 III.- Recibir desde la comisión del delito, atención médica, psicológica o psiquiátrica de urgencia;
 
@@ -125,15 +133,27 @@ VII.- A que la autoridad investigadora o jurisdiccional dicte las providencias l
 
 VIII.- Coadyuvar con el Ministerio Público en el proceso penal en los términos previstos por el Código de Procedimientos Penales;
 
-IX.- Ser informado por la autoridad investigadora, de las actuaciones y del estado que guarde la averiguación previa o el proceso penal correspondiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X.- Estar presente en el desahogo de los actos y diligencias en que intervenga el inculpado o su defensor;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+IX.- Ser informado por la autoridad investigadora, de las actuaciones y del estado que guarde la averiguación previa, investigación o el proceso penal correspondiente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Estar presente en el desahogo de los actos y diligencias en que intervenga el imputado o su defensor;
 
 XI.- Cuando no hable el idioma castellano o se trate de analfabeta, mudo, sordo o ciego, invariablemente cuente con un traductor o intérprete en todas las actuaciones procesales;
 
 XII.- Solicitar justificadamente a la Dirección el reemplazo del asesor jurídico asignado; y,
 
-XIII.- Los demás que le otorguen las leyes en esta materia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XIII.- Las demás que le otorga la Constitución Política de los Estados Unidos Mexicanos, y las leyes en esta materia.
 
 ### CAPÍTULO CUARTO. DE LAS MEDIDAS DE ATENCION Y PROTECCIÓN A LA VÍCTIMA O EL OFENDIDO
 
@@ -201,9 +221,13 @@ El sistema para el Desarrollo Integral de la Familia sin perjuicio de las facult
 
 ### CAPÍTULO SEXTO. DEL PROCEDIMIENTO PARA EL OTORGAMIENTO DE BENEFICIOS A LA VÍCTIMA O EL OFENDIDO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO, DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 18.
 
-El Agente del Ministerio Público en toda averiguación previa, deberá otorgarle las medidas de atención y protección que requiera la víctima o el ofendido, debiendo dejar constancia en el expediente y remitir dicha actuación a la Dirección para su conocimiento y efectos correspondientes.
+El Agente del Ministerio Público en toda averiguación previa o investigación, deberá otorgarle las medidas de atención y protección que requiera la víctima o el ofendido, debiendo dejar constancia en el expediente y remitir dicha actuación a la Dirección para su conocimiento y efectos correspondientes.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -286,3 +310,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 27 DE OCTUBRE DE 2006.
 
 ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado en la Ciudad de Mexicali, y en forma sucesiva en los demás Municipios, del Estado de Baja California, conforme al siguiente orden:
+
+I.- Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
+
+II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
