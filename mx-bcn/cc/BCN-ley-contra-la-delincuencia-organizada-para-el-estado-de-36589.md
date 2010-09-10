@@ -4,7 +4,7 @@ identifier: "BCN-ley-contra-la-delincuencia-organizada-para-el-estado-de-36589"
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-02"
-last_updated: "2007-05-11"
+last_updated: "2010-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2004.
 
@@ -103,7 +103,7 @@ XI. Abigeato, previsto por los artículos 209 y 212 del Código Penal;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
 
-XII. Pornografía de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo, establecido en el artículo 262 del Código Penal.
+XII. Pornografía de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo, establecido en el artículo 262 del Código Penal;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
 
@@ -111,11 +111,15 @@ XIII. Turismo Sexual con personas menores de dieciocho años de edad o personas 
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
 
-XIV. Trata de personas y trata de personas menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo; tipificado en los artículos 265 y 268 del Código Penal.
+XIV. Trata de personas y trata de personas menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o persona (sic) que no tienen capacidad de resistirlo; tipificado en los artículos 265 y 268 del Código Penal;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2007)</small>
 
-XV. Corrupción de personas menores de edad o personas que no tengan la capacidad de comprender el significado del hecho, previsto en el artículo 261 del Código Penal.
+XV. Corrupción de personas menores de edad o personas que no tengan la capacidad de comprender el significado del hecho, previsto en el artículo 261 del Código Penal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XVI. Extorsión, previsto en los artículos 224 del Código Penal.
 
 ###### ARTÍCULO 5.
 
@@ -129,7 +133,9 @@ II. A quien no tenga las funciones anteriores, se le impondrá de cinco a diez a
 
 Las penas a que se refiere el artículo anterior se aumentarán hasta una mitad más, de la que se haya impuesto en los casos siguientes:
 
-I. Cuando se trate de servidor público. Además, se le impondrá a dicho servidor público la destitución, así como la inhabilitación definitiva para desempeñar cualquier empleo, cargo o comisión públicos, o
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+l. Cuando se trate de servidor público o haya tenido esa calidad dentro de un plazo de tres años anteriores a la comisión del delito. Además, se le impondrá a dicho servidor público la destitución, así como la inhabilitación definitiva para desempeñar cualquier empleo, cargo o comisión públicos, o
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -340,3 +346,7 @@ P.O. 11 DE MAYO DE 2007.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
