@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-seguridad-privada-para-el-estado-de-baja-57368"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-19"
-last_updated: "2008-12-12"
+last_updated: "2010-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DE SEGURIDAD PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE SEGURIDAD PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1538,3 +1540,13 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría contará con seis meses siguientes contados a partir del día en que entre en vigor el presente Decreto, para los efectos de integrar el padrón de personas físicas o morales a que se refieren los artículos 59 BIS Y 59 TER del Reglamento.
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE REGLAMENTO ENTRARA EN VIGOR EL DIA DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE ABROGA EL REGLAMENTO DE SEGURIDAD PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO, EN FECHA 19 DE OCTUBRE DE 2007.
