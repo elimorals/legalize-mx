@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2010-05-28"
+last_updated: "2010-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1849,7 +1849,7 @@ Persecución oficiosa.- El delito de abuso sexual previsto en el artículo cient
 
 ### CAPITULO V. EXTORSION
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 182.
 
@@ -2361,11 +2361,19 @@ Requisitos de procedibilidad.- Los delitos a que se refiere el presente capítul
 
 ###### Artículo 224.
 
-Tipo y punibilidad.- Al que para obtener un lucro obligue a otro, a realizar u omitir un acto en perjuicio de su patrimonio o el de un tercero, se le impondrá prisión de dos a ocho años y hasta cuatrocientos días multa.
+Tipo y punibilidad.- Al que para obtener un lucro obligue a otro, a realizar u omitir un acto en perjuicio de su patrimonio o el de un tercero, se le impondrá prisión de seis a diez años y hasta cuatrocientos días multa.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-Cuando se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica, se impondrá pena de cuatro a ocho años de prisión y hasta quinientos días multa.
+Artículo 224 BIS.- Agravación de la pena.- La pena señalada en el artículo que antecede se agravará hasta en una mitad más y hasta quinientos días de multa, cuando se actualice alguna o algunas de las siguientes circunstancias:
+
+l. Se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica o digital;
+
+II. El autor del delito se ostente por cualquier medio como Miembro de la Delincuencia Organizada, en los términos de la ley de la materia;
+
+III. El autor del delito obtenga o manifieste su pretensión de continuar obteniendo, en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
+
+IV. La víctima del delito sea persona menor de dieciocho años de edad, o de persona que no tienen capacidad para comprender el significado del hecho, o de persona que no tiene capacidad para resistirlo, o persona mayor de sesenta años de edad.
 
 ### CAPITULO VI. INCESTO
 
@@ -2535,9 +2543,9 @@ Exención o disminución de pena o de arrepentimiento post-factum.- En los casos
 
 Artículo 234 BIS.- Agravación de la punibilidad.- Las penas señaladas en los artículos 208 BIS y 208 TER se incrementarán hasta en una tercera parte, cuando el autor haya sido integrante de alguna institución de seguridad pública o corporación policíaca.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-Las penas señaladas en los artículos 224 y 232, se incrementarán hasta en una tercera parte, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión. Además de la agravación a que se refiere este párrafo, se le impondrá la destitución e inhabilitación desde uno hasta cinco años para desempeñar cualquier empleo, cargo o comisión públicos.
+Las penas señaladas en los artículos 224 y 232, se incrementarán hasta en una mitad más respecto del primero de ellos, y hasta en una tercera parte tratándose del segundo, cuando el autor sea o haya sido servidor público, hasta un año después de haber concluido el empleo, cargo o comisión, y se hayan utilizado los medios o circunstancias proporcionados por estos.
 
 #### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
 
@@ -4622,3 +4630,7 @@ P.O. 31 DE DICIEMBRE DE 2009.
 P.O. 28 DE MAYO DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
