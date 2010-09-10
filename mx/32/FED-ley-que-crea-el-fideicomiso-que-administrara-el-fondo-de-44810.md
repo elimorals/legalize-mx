@@ -4,7 +4,7 @@ identifier: "FED-ley-que-crea-el-fideicomiso-que-administrara-el-fondo-de-44810"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-25"
-last_updated: "2008-09-01"
+last_updated: "2010-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44810&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-05-24"
 
 LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARA EL FONDO DE APOYO SOCIAL PARA EX TRABAJADORES MIGRATORIOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 25 de mayo de 2005.
 
@@ -47,7 +47,9 @@ El Fideicomiso tendrá por finalidad otorgar un apoyo social en los términos es
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Beneficiarios: los Ex Trabajadores Migratorios Mexicanos o, en su caso, sus cónyuges o hijos o hijas que sobrevivan y que cumplan con los requisitos a que se refiere el artículo 6o. de la presente Ley;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
+
+I. Beneficiarios: Los Ex trabajadores Migratorios Mexicanos o, en su caso, sus cónyuges, o concubinas que acrediten su calidad mediante resolución judicial, o hijos o hijas, o legítimos herederos que sobrevivan y que cumplan con los requisitos a que se refiere el artículo 6o. de la presente Ley;
 
 II. Comisión: la Comisión Especial para dar Seguimiento a los Fondos de los Trabajadores Mexicanos Braceros de la Cámara de Diputados del Congreso de la Unión;
 
@@ -69,11 +71,11 @@ IX. (DEROGADA, D.O.F. 1 DE SEPTIEMBRE DE 2008)
 
 X. Segob: la Secretaría de Gobernación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 3o.
 
-El Fideicomiso contará con un Comité Técnico que estará integrado por un representante de cada una de las siguientes dependencias del Poder Ejecutivo Federal: la Secretaría de Hacienda y Crédito Público, la Secretaría de Gobernación, la Secretaría de Desarrollo Social, la Secretaría de Relaciones Exteriores y la Secretaría de la Función Pública. Por cada representante propietario habrá un suplente, quien deberá suplirlo en sus ausencias.
+El Fideicomiso contará con un Comité Técnico que estará integrado por un representante de cada una de las siguientes dependencias del Poder Ejecutivo Federal: la Secretaría de Hacienda y Crédito Público, la Secretaría de Gobernación, la Secretaría de Desarrollo Social, la Secretaría de Relaciones Exteriores y la Secretaría de la Función Pública; y como invitado permanente, a un representante del Poder Legislativo. Por cada representante propietario habrá un suplente, quien deberá suplirlo en sus ausencias.
 
 El Fideicomiso no tendrá estructura orgánica propia, por lo que no queda comprendido en los supuestos de los artículos 47 de la Ley Orgánica de la Administración Pública Federal y 40 de la Ley Federal de las Entidades Paraestatales.
 
@@ -101,15 +103,25 @@ El Comité Técnico tendrá, de manera enunciativa más no limitativa, las sigui
 
 I. Establecer las reglas de operación por las cuáles se regirá el cumplimiento del fin del Fideicomiso;
 
-II. Elaborar y publicar las bases y procedimientos a través de los cuales se autoricen las aportaciones a otorgar, así como los procedimientos para establecer las cantidades proporcionales que se determinen por el Comité Técnico, mismas que se podrán entregar a los Beneficiarios y la forma para documentar dichas entregas;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
+
+II. Elaborar y publicar las bases y procedimientos a través de los cuales se autorice otorgar el apoyo social por una sola vez, por la cantidad base de 38 mil pesos en una sola exhibición;
 
 III. Otorgar los apoyos, con base en las reglas de operación que al efecto se emitan debiendo observar en todo caso el siguiente orden de prelación:
 
-a) Se deberá dar preferencia a los trabajadores de mayor edad respecto a los de menor edad.
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
 
-b) Los Trabajadores Migratorios del periodo 1942-1946, y
+a) Los extrabajadores que acrediten su estado de enfermedad terminal mediante un certificado médico emitido por una institución de salud pública.
 
-c) Los Trabajadores Migratorios hasta el periodo 1964.
+b) Se deberá dar preferencia a los trabajadores de mayor edad respecto a los de menor edad.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
+
+c) Los Trabajadores Migratorios del período 1942-1946, y
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
+
+d) Los Trabajadores Migratorios hasta el período 1964.
 
 IV. Decidir las reglas y determinar los procedimientos para los actos de administración que se realicen sobre los recursos a que se refiere el artículo 4o. de esta Ley;
 
@@ -137,9 +149,11 @@ XIII. Ejercer y destinar con cargo al patrimonio del Fideicomiso, recursos econ�
 
 XIV. Promover ante las autoridades competentes, las denuncias o querellas por posibles irregularidades que adviertan en la documentación que presenten los probables beneficiarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 6o.
 
-Serán Beneficiarios de los apoyos a que se refiere este ordenamiento los Ex Trabajadores Migratorios Mexicanos o sus cónyuges o hijos o hijas que sobrevivan y que cumplan con los siguientes requisitos y condiciones:
+Serán beneficiarios de los apoyos a que se refiere este ordenamiento los Ex Trabajadores Migratorios Mexicanos o sus cónyuges o concubinas, o hijos o hijas, o en caso de no existir los anteriores, sus legítimos herederos declarados en sentencia emitida por autoridad judicial competente, que cumplan con los siguientes requisitos y condiciones:
 
 I. (DEROGADA, D.O.F. 1 DE SEPTIEMBRE DE 2008)
 
@@ -156,6 +170,10 @@ c) Tarjeta de identificación Consular ("mica café").
 > <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2008)</small>
 
 d) Social Security, derivado del contrato de trabajo del Programa Bracero, durante los años 1942-1964, apostillado.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
+
+e) Mención Honorífica, expedida por el Departamento del Trabajo de los Estados Unidos de América, que forzosamente vincule al ex trabajador migratorio mexicano con el Programa Bracero 1942-1964, debidamente apostillado.
 
 IV. Tratándose de un beneficiario distinto del Ex Trabajador Migratorio Mexicano, la documentación probatoria deberá ser:
 
@@ -180,6 +198,24 @@ c) Acta de defunción del Ex Trabajador Migratorio Mexicano y de su cónyuge.
 d) Acta de nacimiento.
 
 e) Resolución judicial en que conste el nombramiento de albacea, o carta de común acuerdo entre hermanos, especificando el beneficiario.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
+
+3. Para la concubina:
+
+a) Los documentos mencionados en los incisos b) a e) del numeral 2 de esta fracción.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2010)</small>
+
+4. Para los legítimos herederos:
+
+a) Los documentos mencionados en la fracción III de este artículo.
+
+b) Identificación oficial.
+
+c) Acta de Defunción del ex trabajador migratorio mexicano.
+
+d) Resolución judicial en que conste la calidad de legítimo heredero.
 
 ###### Artículo 7o.
 
@@ -242,3 +278,23 @@ OCTAVO. Los recursos presupuestarios destinados para el Fideicomiso que administ
 NOVENO. Las aportaciones que a título gratuito, realicen al patrimonio del Fideicomiso las Entidades Federativas que así lo convengan con el propio Fideicomiso podrán beneficiar, preferentemente, a los Ex Trabajadores Migratorios de la respectiva Entidad Federativa, sujetándose al orden de prelación señalado en la fracción III del artículo 5o. de la Ley que crea el Fideicomiso que Administrará el Fondo de Apoyo Social para Ex Trabajadores Migratorios Mexicanos.
 
 DÉCIMO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+D.O.F. 10 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
+
+Artículo Tercero.- Los beneficiarios que ya hayan recibido un pago parcial de $4,000 (Cuatro mil pesos 00/100 M.N.) se les deberá cubrir la cantidad restante de $34,000 (Treinta y cuatro mil pesos 00/100 M.N.), de acuerdo a la convocatoria que el Comité Técnico publique en el Diario Oficial de la Federación.
+
+Artículo Cuarto.- El Poder Legislativo, en un plazo no mayor a sesenta días, contados a partir de la publicación del presente decreto en el Diario Oficial de la Federación, designará mediante sus normas internas a su representante.
+
+Artículo Quinto.- La Secretaría de Hacienda y Crédito Público, realizará las previsiones necesarias, a fin de que a los beneficiarios se les otorgue el apoyo social establecido en la fracción II del artículo 5 de la Ley, en un plazo no mayor de 180 días contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Artículo Sexto.- La entrega del apoyo social establecido en la fracción II del artículo 5 de la Ley para el ejercicio fiscal de 2010, estará sujeta al monto de los recursos que tenga asignados este Programa en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2010. En caso de que dicho monto no sea suficiente para efectuar la entrega, se podrán utilizar los remanentes de los ingresos excedentes netos, una vez que se hayan realizado las asignaciones que dispone el artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones jurídicas aplicables.
+
+Artículo Séptimo.- La entrega del apoyo social establecido en la fracción II del artículo 5 de la Ley para el ejercicio fiscal de 2011, estará sujeta al monto de los recursos que la H. Cámara de Diputados apruebe para dicho ejercicio fiscal.
+
+Artículo Octavo.- La H. Cámara de Diputados elaborará un informe de impacto presupuestario a través del Centro de Estudios de las Finanzas Públicas, a fin de que éste sea analizado y valorado para la asignación del apoyo social en el Presupuesto de Egresos de la Federación para el ejercicio fiscal de 2011.
+
+Artículo Noveno.- Con la finalidad de no vulnerar el derecho de los beneficiarios publicados en los listados del Diario Oficial de la Federación, para el caso de los supuestos establecidos en el artículo 5o., fracciones II y III, se llevará a cabo un procedimiento especial que determine el Comité Técnico.
