@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-71415"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-18"
-last_updated: "2009-12-18"
+last_updated: "2010-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Trigésima Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 18 de diciembre de 2009.
 
@@ -555,7 +555,9 @@ El Suplente del Notario Titular, desempeñará sus funciones temporalmente y sol
 
 El Suplente ejercerá las mismas funciones que el Notario Titular al que suple.
 
-La suma de todos los periodos que el Notario Suplente sustituya al Titular no excederá de ciento veinte días naturales por cada año.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+La suma de todos los periodos que el Notario Suplente sustituya al Titular, no excederá de ciento veinte días naturales por cada año, salvo que el Titular ejerza cargo público o de elección popular.
 
 Sin embargo, la suplencia podrá exceder del término fijado en el párrafo anterior y en los casos de enfermedad. Si por la causa indicada la ausencia de aquél sobrepasare de un año, el Suplente adquirirá el carácter de Notario Auxiliar a solicitud del Titular, si éste ya tiene una antigüedad de cinco años.
 
@@ -1125,7 +1127,9 @@ En las ausencias mayores de quince días, o en cualquier caso en que la ausencia
 
 III.- Si por cualquier circunstancia el Notario Titular no tiene quien lo supla en su ausencia, ésta no podrá exceder de treinta días sin licencia de la Secretaría de Gobernación, en cuyo caso se depositará el protocolo corriente en el Archivo de Notarías. Lo anterior, sin perjuicio de la obligación que tiene de celebrar el convenio de suplencia, nombrar Suplente, o dar aviso de la falta de éste; y
 
-IV.- Si el Notario fuere designado o electo para el desempeño de un cargo público o de representación popular, tiene derecho a licencia para separarse del despacho de la Notaría, por todo el tiempo que dure el ejercicio del nuevo cargo, en cuyo caso deberá depositar su protocolo en el Archivo de Notarías.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Asimismo, si el Notario fuere designado o electo para el desempeño de un cargo público o de representación popular y no tuviere quien lo supla en su ausencia, tiene derecho a licencia para separarse del despacho de la Notaría, por todo el tiempo que dure el desempeño del nuevo cargo, en cuyo caso deberá depositar su protocolo en el Archivo de Notarías.
 
 Una vez terminado éste, dentro de los treinta días siguientes reanudará el ejercicio de su función y para el efecto le será restituido el protocolo de la Notaría a su cargo.
 
@@ -1155,9 +1159,11 @@ Si el impedimento fuere permanente o excediere de tres años consecutivos, le se
 
 El Juez que instruya un proceso de carácter penal en contra de cualquier Notario, dará inmediato aviso al Secretario de Gobernación y al Consejo de Notarios, cuando deba tener lugar la suspensión a que se refiere este Capítulo.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 142.
 
-Con excepción de los casos previstos en la fracción IV del artículo 138 y III y IV del artículo 159 de esta Ley, en los demás casos de separación del Notario Titular por licencia, quedará encargado de la Notaría el Notario Auxiliar, Asociado o Suplente, en su caso.
+Con excepción de los casos previstos en las fracciones III y IV del artículo 159 de esta Ley, en los demás casos de separación del Notario Titular por licencia, quedará encargado de la Notaría el Notario Auxiliar, Asociado o Suplente, en su caso.
 
 ### CAPÍTULO TERCERO. DE LA TERMINACIÓN DEL CARGO
 
@@ -1606,3 +1612,11 @@ SEXTO.- Lo dispuesto en el artículo 198 de esta Ley por lo que respecta a la pr
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil nueve.- Diputado Presidente.- EUGENIO EDGARDO GONZÁLEZ ESCAMILLA.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA GARCÍA HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputada Secretaria.- CAROLINA O'FARRILL TAPIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de diciembre de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2010
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
