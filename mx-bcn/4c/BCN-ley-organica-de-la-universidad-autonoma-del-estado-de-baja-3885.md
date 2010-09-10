@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-universidad-autonoma-del-estado-de-baja-3885
 country: "mx"
 rank: "ley_organica"
 publication_date: "1957-02-28"
-last_updated: "1983-06-30"
+last_updated: "2010-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Ley Orgánica publicada en el Alcance al Periódico Oficial de Baja California, el 28 de febrero de 1957.
 
@@ -313,15 +313,15 @@ El Rector deberá ser mexicano por nacimiento y, además, deberá satisfacer ple
 
 El Rector vigilará el exacto cumplimiento de las disposiciones expedidas por la Junta de Gobierno y el Consejo Universitario; y puede vetar los acuerdos de esta última autoridad que no sean de carácter técnico, en cuyo caso la resolución definitiva será de la competencia de la Junta de Gobierno, según lo dispuesto en la fracción IV del artículo 22.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1966)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
-El Patronato Universitario se integrará por cuatro miembros. Serán electos por mayoría de votos de los miembros de la Junta de Gobierno, de entre los Ciudadanos de cada uno de los Municipios de la Entidad, de ternas que proponga el Gobernador del Estado. Durarán en el desempeño de su cargo seis años, podrán ser reelectos y no percibirán por este concepto retribución, ni recompensa económica.
+El Patronato Universitario estará constituido por un representante de cada municipio del Estado de Baja California. Serán electos por mayoría de votos de los miembros de la Junta de Gobierno, de entre los ciudadanos de cada uno de los municipios de la localidad, de ternas que proponga el Gobernador del Estado. Durarán en el desempeño de su cargo seis años, podrán ser reelectos y no percibirán por este concepto retribución ni recompensa económica.
 
-Para formar parte del Patronato Universitario se requieren los requisitos que establecen las Fracciones I y II del Artículo 21, tener experiencia en asuntos financieros o de administración y gozar de estimación como personas prudentes.
+Para formar parte del Patronato Universitario se requieren los requisitos que establecen las fracciones I y II del artículo 21, tener experiencia en asuntos financieros o de administración y gozar de estimación como personas prudentes.
 
-Los miembros del Patronato elegirán entre si, a un Presidente, un Secretario y dos Vocales.
+Los miembros del Patronato elegirán entre sí a un Presidente, un Secretario y los vocales correspondientes.
 
 ###### Artículo 27.
 
@@ -592,3 +592,17 @@ DECRETO No. 186
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Junta de Gobierno de la Universidad Autónoma de Baja California deberá nombrar al ciudadano que represente al Municipio de Playas de Rosarito dentro del Patronato Universitario como miembro de éste, quien fungirá en el cargo hasta el tiempo que se concluya el periodo de funciones para el que fueron nombrados sus actuales miembros.
+
+Para la elección del ciudadano que representará al Municipio de Playas de Rosarito en los términos del párrafo anterior, por esta ocasión, se seguirá el siguiente procedimiento:
+
+a) Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Ejecutivo del Estado remitirá ante la Junta de Gobierno de la Universidad Autónoma de Baja California, la propuesta de terna de candidatos ciudadanos que representará al Municipio de Playas de Rosarito en el Patronato Universitario.
+
+b) Una vez recibida la terna que se menciona en el párrafo anterior, la Junta de Gobierno contará con un plazo de 30 días naturales para la selección y aprobación del nombramiento del ciudadano que fungirá como nuevo miembro del Patronato Universitario.
+
+c) El ciudadano seleccionado por la Junta de Gobierno, se integrará en un plazo de cinco días hábiles al Patronato Universitario para iniciar sus funciones, formalizando su integración como miembro del mismo y su representación al Municipio de Playas de Rosarito.
