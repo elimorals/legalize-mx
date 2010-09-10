@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2009-08-14"
+last_updated: "2010-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCION DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -141,7 +141,9 @@ I.- La instalación de sistemas y lugares para la disposición final de residuos
 
 II.- La restauración y regeneración del suelo contaminado o dañado, de manera que recupere sus atributos físicos naturales; y
 
-III.- La instrumentación de los mecanismos necesarios para la preservación y control de la contaminación en la atmósfera, agua y suelo dentro del Estado.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+III.- La instrumentación de los mecanismos necesarios para la prevención y control de la contaminación en la atmósfera, agua y suelo dentro del Estado.
 
 ###### ARTÍCULO 3.
 
@@ -179,9 +181,9 @@ VIII.- COMISIÓN ESTATAL DEL AGUA.- La Comisión Estatal de Agua y Saneamiento d
 
 IX.- CONSERVACIÓN.- La acción de preservar la biodiversidad y los elementos ambientales con el propósito de permitir y asegurar la continuidad de los procesos evolutivos;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-X.- CONTAMINACIÓN.- La presencia en el ambiente de uno o más elementos físicos, químicos, biológicos o de cualquier combinación de ellos, que causen desequilibrio ecológico;
+X.- CONTAMINACIÓN.- La presencia en el medio ambiente de uno o más elementos físicos, químicos, biológicos o de cualquier combinación de ellos, que causen desequilibrio ecológico;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -319,6 +321,14 @@ XLIII.- PROTECCIÓN CIVIL.- El Sistema Estatal de Protección Civil;
 
 XLIV.- RECICLAJE.- Método de tratamiento que consisten en la transformación de los residuos con fines productivos;
 
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XLIV Bis.- REGISTRO ESTATAL.- El Registro Estatal de Emisiones y Transferencia de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua y suelo, materiales y residuos de su competencia, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por la Secretaría;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XLIV Ter.- REGISTRO MUNICIPAL.- El Registro Municipal de Emisiones y Transferencia de Contaminantes que se integra con la información de los establecimientos sujetos a reporte sobre sus emisiones y transferencia de contaminantes al aire, agua y suelo, materiales y residuos de su competencia, así como de aquellas sustancias que determinen las autoridades competentes, el cual será operado y administrado por el Municipio;
+
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 XLV.- REGIÓN ECOLÓGICA.- Es la unidad del territorio del Estado que comparte características ecológicas comunes;
@@ -339,9 +349,9 @@ XLVIII.- REUSO.- Es la acción de aprovechar un residuo sin un proceso previo de
 
 XLIX.- RIESGO AMBIENTAL.- Es la contingencia en el proceso de los fenómenos naturales o artificiales que pueden ser alterados por las condiciones que constituyan un peligro para el medio ambiente;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-L.- SECRETARÍA.- Secretaría de Desarrollo Urbano, Ecología y Obras Públicas del Estado de Puebla;
+L.- SECRETARÍA.- Secretaría del Medio Ambiente y Recursos Naturales;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -457,11 +467,23 @@ IX.- Prevenir y controlar contingencias ambientales y emergencias ecológicas en
 
 X.- Autorizar y operar los sistemas de tratamiento de sus aguas residuales sanitarias municipales;
 
-XI.- Autorizar y operar los servicios públicos de limpia, recolección, traslado, tratamiento (sic) peligrosos;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XI.- Prestar por sí o a través de terceros, los servicios públicos de limpia, recolección, traslado, transferencia y disposición final de residuos sólidos urbanos;
 
 XII.- Concertar con los Gobiernos Federal y Estatal, así como con los sectores social y privado, la realización de acciones en las materias de su competencia, para el cumplimiento del objeto de esta Ley;
 
-XIII.- Atender, en coordinación con el Gobierno del Estado, los asuntos que afecten negativamente el equilibrio ecológico de dos o más Municipios y que generen efectos ambientales dentro de su territorio;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XIII.- Atender, en coordinación con el Gobierno del Estado, los asuntos que afecten el equilibrio ecológico de dos o más Municipios y que generen efectos ambientales dentro de su territorio;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XIII Bis.- Integrar un Registro Municipal de Emisiones y Transferencias de Contaminantes al aire, agua y suelo, materiales y residuos de su competencia, así como aquellas sustancias que determine la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XIII Ter.- Presentar de forma anual ante la Secretaría, los datos e informes relativos a su Registro Municipal de Emisiones y Transferencia de Contaminantes, previo acuerdo que formalicen las partes y de conformidad a lo establecido en la presente Ley, y demás normativas y lineamientos aplicables;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -487,7 +509,9 @@ El Consejo Estatal de Ecología se integrará por:
 
 I.- Un Presidente, que será el titular del Poder Ejecutivo del Estado;
 
-II.- Un Secretario Técnico, que será el titular de la Secretaría de Desarrollo Urbano, Ecología y Obras Públicas;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Un Secretario Técnico, que será el Titular de la Secretaría del Medio Ambiente y Recursos Naturales;
 
 III.- Un Secretario Ejecutivo, que deberá ser un Ciudadano destacado en el área ambiental que no sea funcionario público, mismo que será nombrado por la Asamblea del Consejo;
 
@@ -495,7 +519,9 @@ IV.- El titular o representante debidamente acreditado de las Secretarías de: G
 
 V.- El Diputado Presidente de la Comisión de Desarrollo Urbano y Medio Ambiente o representante debidamente acreditado del Honorable Congreso del Estado;
 
-VI.- El titular o representante debidamente acreditado de las Delegaciones de: la Secretaría del Medio Ambiente y Recursos Naturales, la Secretaría de Agricultura y Ganadería, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional del Agua, la Comisión Nacional Forestal y el Comandante de la XXV Zona Militar o representante debidamente acreditado;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Los Titulares de las Delegaciones de: la Secretaría del Medio Ambiente y Recursos Naturales, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Procuraduría Federal de Protección al Ambiente, la Comisión Nacional del Agua, la Comisión Nacional Forestal y el Comandante del la XXV Zona Militar, o sus representantes debidamente acreditados;
 
 VII.- El titular o representante debidamente acreditado de los Organismos y Movimientos Ecologistas legalmente constituidos y que desarrollen sus actividades en el Estado; y
 
@@ -521,9 +547,13 @@ III.- Establecer las prioridades en el ordenamiento ecológico del Municipio;
 
 IV.- Promover la elaboración o actualización de los Reglamentos de Ecología y Protección al Ambiente Natural y el Desarrollo Sustentable del Municipio;
 
-V.- Proponer el Programa Municipal de Medio Natural y el Desarrollo Sustentable; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-VI.- Impulsar programas de educación ambiental en la comunidad, así como las demás que determine su Reglamento.
+V.- Proponer el Programa Municipal de Protección al Ambiente Natural y el Desarrollo Sustentable; y
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Impulsar programas de educación ambiental en la comunidad, así como las demás que la misma determine.
 
 ###### ARTÍCULO 11.
 
@@ -807,6 +837,8 @@ VII.- El uso de materiales de construcción apropiados al medio ambiente y a las
 
 #### SECCIÓN SEXTA. DEL PROCEDIMIENTO DE EVALUACIÓN DEL IMPACTO Y RIESGO AMBIENTAL
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 31.
 
 El Gobierno Estatal, en el ámbito de su competencia, diseñará, desarrollará y aplicará instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, mediante los cuales se buscará:
@@ -867,11 +899,13 @@ La Secretaría estimulará a los particulares a incorporar en su actividad produ
 
 ###### ARTÍCULO 37.
 
-Las personas físicas o jurídicas que pretendan realizar obras públicas o privadas, o su ampliación, así como actividades relacionadas con el público en general, deberán sujetarse al procedimiento de evaluación del impacto ambiental a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente y contar, previamente a su ejecución u operación, con la autorización de la Secretaría.
+Las personas físicas o jurídicas que pretendan realizar obras públicas o privadas, o su ampliación, así como actividades que modifiquen el ambiente, deberán sujetarse al procedimiento de evaluación del impacto ambiental, a fin de evitar o reducir al mínimo sus efectos negativos sobre el medio ambiente y contar, previamente a su ejecución u operación, con la autorización de la Secretaría.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 38.
 
-La Secretaría evaluará el impacto y, en su caso, el riesgo ambiental de las obras y actividades no comprendidas en el artículo 28 de la Ley General, particularmente de las siguientes:
+La Secretaría evaluará el impacto ambiental y, en su caso, el riesgo ambiental de las obras y actividades que no sean competencia de la federación, particularmente las siguientes:
 
 I.- Obra pública estatal y municipal;
 
@@ -933,15 +967,19 @@ III.- Las obras o actividades de que se trate estén expresamente previstas en a
 
 IV.- Se trate de instalaciones ubicadas en parques industriales debidamente autorizados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 42.
 
-Mediante la evaluación y análisis del informe previo, la Autoridad competente, determinará, en un plazo no mayor de treinta días hábiles, si se requiere la presentación de la manifestación de impacto y riesgo ambiental y las condiciones a que deban sujetarse.
+Mediante la evaluación y análisis del informe preventivo de impacto ambiental, la autoridad competente, determinará, en un plazo no mayor de treinta días hábiles, si se requiere la presentación de la manifestación de impacto ambiental y, en su caso, el estudio de riesgo ambiental y las condiciones a que deban sujetarse.
 
 De ser procedente la realización de una manifestación de impacto ambiental para la autorización del proyecto correspondiente, los interesados deberán exhibir ésta en los términos y condiciones a que se refiere la presente sección, para lo cual la Autoridad indicará los términos y modalidad en que deba ser presentada, de conformidad con el Reglamento aplicable.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 43.
 
-Para la evaluación del impacto ambiental de las obras y servicios a que se refiere esta Ley, los interesados presentarán a la Secretaría un informe preventivo ambiental o una manifestación de impacto ambiental, según corresponda. Tratándose de actividades riesgosas se presentará además un estudio de riesgo.
+Para la evaluación del impacto ambiental de las obras o actividades a que se refiere esta Ley, los interesados presentarán a la Secretaría, un informe preventivo ambiental o una manifestación de impacto ambiental, según corresponda. Tratándose de actividades riesgosas se presentará además un estudio de riesgo.
 
 ###### ARTÍCULO 44.
 
@@ -967,15 +1005,17 @@ IV.- Las Normas Oficiales Mexicanas; y
 
 V.- Las especies de flora y fauna endémicas, amenazadas o en peligro de extinción.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 46.
 
-Las personas físicas o jurídicas, que presten sus servicios profesionales de estudios de impacto y riesgo ambientales, serán, junto con los promoventes, responsables solidarios ante la Secretaría de los informes preventivos, las manifestaciones de impacto ambiental y estudios de riesgo que elaboren; para ello, manifestarán, bajo protesta de decir verdad, que en dichos informes, manifestaciones y estudios se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
+Las personas físicas o jurídicas, que presten sus servicios profesionales de estudios de impacto ambiental y riesgo ambiental, deberán estar inscritos en el Registro de Prestadores de Servicios, y serán, junto con los promoventes, responsables solidarios ante la Secretaría de los informes preventivos de impacto ambiental, las manifestaciones de impacto ambiental y estudio de riesgo ambiental que elaboren; para ello, manifestarán, bajo protesta de decir verdad, que en dichos informes, manifestaciones y estudios, se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación más efectivas.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 47.
 
-Las personas afectadas directamente o los representantes de una organización social que acrediten su interés ante la Secretaría, tendrán derecho a formular por escrito, dentro del expediente del procedimiento administrativo correspondiente, observaciones y propuestas respecto de las obras, actividades o aprovechamientos sujetos a evaluación de impacto ambiental. Para tal efecto, el promovente del proyecto deberá exhibir por duplicado, ante la Autoridad competente, todo informe previo o manifestación de impacto ambiental; proyecto que será publicado en términos de la presente Ley y su Reglamento.
-
-El Reglamento establecerá los medios a través de los cuales se hará efectivo el derecho a que se refiere el párrafo anterior.
+Las personas afectadas directamente respecto de las obras o actividades sujetas a evaluación de impacto ambiental, tendrán derecho a formular por escrito, observaciones y propuestas, las cuales serán consideradas de forma oportuna por la Secretaría.
 
 ###### ARTÍCULO 48.
 
@@ -1507,9 +1547,63 @@ Las fuentes fijas y móviles, directas e indirectas de contaminantes de cualquie
 
 La medición de las emisiones contaminantes se realizará conforme los procedimientos de muestreo y cuantificación establecidos en las Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
-### CAPÍTULO II. DE LA PROTECCIÓN A LA ATMÓSFERA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO III. DE LA PROTECCIÓN DEL AGUA
+### CAPÍTULO I BIS. DEL REGISTRO ESTATAL DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 111 Bis.
+
+El Estado y los Municipios dentro de sus respectivos ámbitos de competencia, deberán integrar un Registro de Emisiones y Transferencia de Contaminantes al aire, agua y suelo, materiales y residuos de su competencia, así como aquellas sustancias que determine la autoridad correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 111 Ter.
+
+Los responsables de establecimientos industriales, comerciales y de servicios, de competencia estatal o municipal, están obligados a proporcionar los datos y documentos necesarios para integrar los Registros Estatal o Municipal, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 111 Quater.
+
+El Registro Estatal, tendrá como objetivo integrar un Sistema de Información de las Fuentes de Contaminación Ambiental en el Estado, el cual se conformará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro, mismo que servirá para motivar e instrumentar las políticas públicas adecuadas en la prevención y protección del medio ambiente y los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 111 Quinquies.
+
+La Secretaría colaborará con los Municipios que así lo soliciten, para integrar su Registro Municipal, previa celebración del convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 111 Sexies.
+
+Los Municipios, presentarán de forma anual ante la Secretaría, los datos e informes relativos a su Registro Municipal, previo acuerdo que formalicen las partes y de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 111 Septies.
+
+La Secretaría recabará e integrará la información de los Registros Municipales de Emisiones y Transferencia de Contaminantes al Registro Estatal, la que pasará a formar parte del Subsistema Estatal de Información Ambiental.
+
+La información contenida en el Subsistema Estatal de Información Ambiental, será presentada por la Secretaría a la Dependencia o Entidad de la Administración Pública Federal que corresponda, previa formalización del convenio respectivo, a fin de que se incorpore al Registro Nacional de Emisiones y Transferencia de Contaminantes y al Sistema Nacional de Información Ambiental y Recursos Naturales.
+
+La información que conforme el Registro Estatal será pública, de conformidad con los términos de esta Ley, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 111 Octies.
+
+Las Dependencias y Entidades de la Administración Pública Estatal, que realicen actividades que incidan en la regulación de contaminantes del aire, agua y suelo, materiales o residuos, deberán presentar de forma anual ante la Secretaría, los informes, datos y registros de cada una de las industrias que emitan contaminación en las áreas de su competencia.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 111 Nonies.
+
+La Secretaría podrá celebrar convenios de colaboración, coordinación o concertación con Dependencias o Entidades de la Administración Pública Federal, cuyas actividades incidan en la regulación de contaminantes al aire, agua y suelo, materiales o residuos de su competencia, a efecto de compartir la información contenida en el Registro Estatal, homologar la integración de sus bases de datos y todo lo relativo a la operación del Registro.
+
+### CAPÍTULO II. DE LA PROTECCIÓN A LA ATMÓSFERA
 
 #### SECCIÓN SEGUNDA. DE LAS FUENTES FIJAS DE CONTAMINACIÓN ATMOSFÉRICA
 
@@ -1643,7 +1737,7 @@ IV.- Integrar y mantener actualizado un informe de los datos obtenidos por los C
 
 V.- Promover el mejoramiento y modernización de los sistemas del servicio público de transporte en el Estado.
 
-### CAPÍTULO IV. DE LA PROTECCIÓN DEL SUELO
+### CAPÍTULO III. DE LA PROTECCIÓN DEL AGUA
 
 ###### ARTÍCULO 126.
 
@@ -1693,7 +1787,7 @@ Los sistemas de tratamiento de las aguas residuales de origen urbano que diseñe
 
 La Secretaría, la Comisión Estatal de Agua y Saneamiento, los gobiernos municipales y los Organismos o Sistemas Operadores, en los casos de aguas de su competencia, se coordinarán con la Federación, a efecto de realizar un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de alteraciones, contaminantes, desechos orgánicos o azolves, y aplicar las medidas que procedan o, en su caso, promover su ejecución.
 
-### CAPÍTULO V. DE LA PROTECCIÓN CONTRA EL RUIDO, VIBRACIONES, OLORES, ENERGÍA TÉRMICA Y LUMÍNICA
+### CAPÍTULO IV. DE LA PROTECCIÓN DEL SUELO
 
 ###### ARTÍCULO 132.
 
@@ -1769,7 +1863,7 @@ II.- En la formulación, ejecución y seguimiento de dichos programas, la Secret
 
 III.- Dependiendo de las dimensiones del área afectada y su grado de contaminación o desertificación, podrá declararla como área natural protegida mediante el procedimiento señalado en la Ley y su Reglamento.
 
-### CAPÍTULO VI. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN VISUAL
+### CAPÍTULO V. DE LA PROTECCIÓN CONTRA EL RUIDO, VIBRACIONES, OLORES, ENERGÍA TÉRMICA Y LUMÍNICA
 
 ###### ARTÍCULO 142.
 
@@ -1777,7 +1871,7 @@ Quedan prohibidas las emisiones de ruido, vibraciones, olores, energía térmica
 
 Los Ayuntamientos deben incorporar en sus Reglamentos correspondientes, la prevención y control de la contaminación de las emisiones de ruido, vibraciones, olores, energía térmica y lumínica.
 
-### CAPÍTULO VII. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN GENERADA POR EL APROVECHAMIENTO DE MINERALES O SUSTANCIAS
+### CAPÍTULO VI. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN VISUAL
 
 ###### ARTÍCULO 143.
 
@@ -1785,7 +1879,7 @@ Los Ayuntamientos deben incorporar en sus Reglamentos correspondientes, la preve
 
 Para los efectos del artículo anterior la Secretaría y los Ayuntamientos se atendrá (sic) a lo establecido en el artículo 20 de esta Ley.
 
-### CAPÍTULO VIII. DE LAS ACTIVIDADES CONSIDERADAS RIESGOSAS
+### CAPÍTULO VII. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN GENERADA POR EL APROVECHAMIENTO DE MINERALES O SUSTANCIAS
 
 ###### ARTÍCULO 144.
 
@@ -1803,7 +1897,7 @@ II.- Controlar los residuos y evitar su propagación fuera de los terrenos en lo
 
 III.- Restaurar los sitios o suelos degradados o contaminados en los términos del artículo 134 de este título.
 
-### CAPÍTULO IX. DE LAS CONTINGENCIAS AMBIENTALES
+### CAPÍTULO VIII. DE LAS ACTIVIDADES CONSIDERADAS RIESGOSAS
 
 ###### ARTÍCULO 146.
 
@@ -1845,7 +1939,7 @@ VI.- Los métodos de prevención y control de la contaminación ambiental; y
 
 VII.- La infraestructura para la dotación de servicios básicos.
 
-### CAPÍTULO X. DE LOS PRESTADORES DE SERVICIOS
+### CAPÍTULO IX. DE LAS CONTINGENCIAS AMBIENTALES
 
 ###### ARTÍCULO 150.
 
@@ -1885,7 +1979,7 @@ c) Engomado, por día o período determinado.
 
 III.- Las demás que establezca el Programa de Contingencia o la declaratoria.
 
-### CAPÍTULO I. DE LA PARTICIPACIÓN SOCIAL
+### CAPÍTULO X. DE LOS PRESTADORES DE SERVICIOS
 
 ###### ARTÍCULO 154.
 
@@ -1897,7 +1991,7 @@ La responsabilidad administrativa o penal, por el contenido del documento corres
 
 ## TÍTULO SEXTO. DE LA PARTICIPACIÓN SOCIAL E INFORMACIÓN AMBIENTAL
 
-### CAPÍTULO II. DEL DERECHO A LA INFORMACIÓN AMBIENTAL
+### CAPÍTULO I. DE LA PARTICIPACIÓN SOCIAL
 
 ###### ARTÍCULO 156.
 
@@ -1919,7 +2013,7 @@ V.- Realizará acciones conjuntas con las comunidades para la preservación y me
 
 VI.- Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y jurídicas, interesadas, en la preservación y restauración de los ecosistemas y la protección al ambiente.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DEL DERECHO A LA INFORMACIÓN AMBIENTAL
 
 ###### ARTÍCULO 158.
 
@@ -1969,7 +2063,7 @@ Quien reciba información ambiental de la Secretaría, en los términos del pres
 
 ## TÍTULO SÉPTIMO. DE LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPÍTULO II. DEL PROCESO DE INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 166.
 
@@ -1977,7 +2071,7 @@ Las disposiciones expresadas en este título regulan la actuación de las Autori
 
 Tratándose de asuntos de competencia municipal los Ayuntamientos aplicarán lo dispuesto en el presente título, los Reglamentos que expidan en materia de protección del ambiente y los bandos de policía y gobierno.
 
-### CAPÍTULO III. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO II. DEL PROCESO DE INSPECCIÓN Y VIGILANCIA
 
 ###### ARTÍCULO 167.
 
@@ -2041,9 +2135,9 @@ Transcurrido el término a que se refiere el artículo anterior, desahogadas las
 
 La Secretaría verificará el cumplimiento de las medidas ordenadas en términos del requerimiento o resolución respectiva y en caso de subsistir la o las infracciones podrá imponer las sanciones que procedan conforme la Ley, independientemente de denunciar la desobediencia de un mandato legítimo de Autoridad ante las instancias competentes.
 
-### CAPÍTULO IV. DE LOS MEDIOS DE PRUEBA
+### CAPÍTULO III. DE LAS MEDIDAS DE SEGURIDAD
 
-### CAPÍTULO V. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO IV. DE LOS MEDIOS DE PRUEBA
 
 ###### ARTÍCULO 176.
 
@@ -2061,13 +2155,13 @@ La Autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cua
 
 Cuando la Autoridad ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, una vez iniciado el procedimiento administrativo correspondiente, y cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPÍTULO VI. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+### CAPÍTULO V. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 178.
 
 En los procedimientos administrativos previstos en la Ley, son admisibles toda clase de pruebas, con excepción de la confesional, la declaración de partes y las que sean contrarias a derecho, a la moral y a las buenas costumbres.
 
-### CAPÍTULO VII. DE LA DENUNCIA POPULAR
+### CAPÍTULO VI. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
 
 ###### ARTÍCULO 179.
 
@@ -2077,9 +2171,11 @@ I.- Multa de veinte a veinte mil días de salario mínimo general vigente en el 
 
 II.- Clausura temporal o definitiva, parcial o total;
 
-III.- Arresto Administrativo, hasta por 36 horas;
+III.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2010)
 
-IV.- Revocación de autorizaciones, concesiones, permisos o licencias;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Revocación de concesiones, cancelación de autorizaciones, permisos o licencias;
 
 V.- El retiro de la circulación tratándose de fuentes móviles y traslado a los depósitos de vehículos; y
 
@@ -2091,7 +2187,9 @@ En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces al 
 
 Se considera que existe reincidencia cuando, se incurre en la misma infracción en el periodo de un mismo año.
 
-Las multas que se impongan, se constituirán en crédito fiscal a favor del erario estatal, y se harán efectivas por la Secretaría de Finanzas y Desarrollo Social mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+Las multas que se impongan, se constituirán en crédito fiscal a favor del erario estatal, y se harán efectivas por la Secretaría de Finanzas y Administración, mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
 
 ###### ARTÍCULO 180.
 
@@ -2121,17 +2219,17 @@ En caso que el infractor realice las medidas correctivas o de urgente aplicació
 
 La Secretaría, por sí o a solicitud del infractor, podrá otorgar a éste, la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor y la Autoridad justifique plenamente su decisión.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 184.
 
-Independientemente de lo mencionado en el artículo 179, procederá la clausura definitiva cuando el infractor:
-
-I.- No cuente con la autorización, concesión, permiso o licencia de la Secretaría necesaria para el funcionamiento de sus instalaciones o actividades; y
-
-II.- Esté en alguno de los supuestos del artículo 193 de la presente Ley.
+Independientemente de lo mencionado en el artículo 179, procederá la clausura definitiva cuando el infractor no cuente con la autorización, concesión, permiso o licencia de la Secretaría para el funcionamiento de sus instalaciones o actividades.
 
 ###### ARTÍCULO 185.
 
 La Secretaría promoverá ante las Autoridades Federales, Estatales o Municipales competentes, con base en los estudios técnicos que realice, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos y turísticos, o cualquier actividad que afecte o pueda afectar el ambiente, los recursos naturales o causar desequilibrio ecológico o pérdida de la biodiversidad.
+
+### CAPÍTULO VII. DE LA DENUNCIA POPULAR
 
 ###### ARTÍCULO 186.
 
@@ -2332,6 +2430,12 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
