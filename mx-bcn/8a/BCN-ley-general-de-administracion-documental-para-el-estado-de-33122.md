@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-administracion-documental-para-el-estado-de-3312
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-07-11"
-last_updated: "2003-07-11"
+last_updated: "2010-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE ADMINISTRACION DOCUMENTAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 11 de julio de 2003.
 
@@ -37,9 +37,11 @@ LEY GENERAL DE ADMINISTRACION DOCUMENTAL PARA EL ESTADO DE BAJA CALIFORNIA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es de interés general y de orden público y tiene por objeto establecer las bases para la administración de los documentos de interés público de las siguientes instituciones públicas y privadas:
+La presente Ley es de interés general y de orden público y tiene como objeto establecer las bases para la coordinación, organización y funcionamiento de los archivos de documentos históricos y de interés público de las siguientes instituciones públicas y privadas:
 
 I.- Poder Ejecutivo del Estado;
 
@@ -49,11 +51,11 @@ III.- Poder Judicial del Estado;
 
 IV.- Organismos Autónomos o Descentralizados Estatales;
 
-V.- Empresas de Participación Estatal;
+V.- Empresas de Participacion Estatal;
 
 VI.- Fideicomisos Estatales; y
 
-VII.- Personas físicas o morales, así como Ayuntamientos que se adhieran al Sistema Estatal de Documentación.
+VII.- Personas fisicas o morales, asi como Ayuntamientos que se adhieran al Sistema Estatal de Documentación.
 
 A los Organismos con autonomía constitucional les aplicarán las disposiciones de esta Ley en lo que no se contraponga a los ordenamientos que los rigen.
 
@@ -61,11 +63,15 @@ A los Organismos con autonomía constitucional les aplicarán las disposiciones 
 
 Son sujetos obligados a cumplir con las disposiciones de esta ley, los servidores públicos y empleados de las instituciones públicas que se mencionan en el artículo 1º. de esta Ley, así como las personas físicas y morales y Ayuntamientos que se adhieran al Sistema Estatal de Documentación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 3.
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de esta ley, se entiende por:
 
 I.- Instituciones públicas: a las mencionadas en las fracciones de la I a la VI del artículo 1º. de esta Ley, así como los Ayuntamientos que se adhieran.
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 II.- Documento de interés público:
 
@@ -73,19 +79,83 @@ a) Toda representación material o constancia que genere un servidor público o 
 
 b) Toda representación material generada por la actividad de las personas físicas o morales que de constancia de un hecho o acto, que por su contenido e información sea de interés común.
 
-III.- Administración documental: Todos los actos que intervengan en el manejo administrativo general, que tiene como objetivo la creación, adquisición, recepción, control, consulta, distribución, reproducción, organización, mantenimiento, custodia, resguardo, restauración, transferencia, valoración y disposición final de documentos de interés público a lo largo de su ciclo vital, así como aquellas que se encarguen de las actividades encaminadas a regular, coordinar y dinamizar su uso y divulgación;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-IV.- Unidad documental: Los archivos de trámite, generales, de concentración e históricos de las entidades públicas, así como cualquier otro acervo que tenga por objeto la administración documental;
+III.- Sistema: Sistema Estatal de Documentación;
 
-V.- Sistema: El Sistema Estatal de Documentación;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-VI.- Comisión de Valoración: Organo responsable de determinar el valor y disposición final de la documentación de interés público.
+IV.- Comisión de Valoración: Órgano responsable de determinar el valor y conservación de documentos históricos, así como la disposición final de documentos de interés público;
 
-VII.- Valoración: Proceso de revisión, evaluación y selección, por el que se determina la utilidad de los documentos para su uso posterior con cualquier propósito, así como el período durante el que se mantendrá ese valor;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-VIII.- Disposición final de la documentación: Resolución de la Comisión de Valoración, por la cual se define si los documentos inactivos son mantenidos en los archivos generales, de concentración; son transferidos a los archivos históricos, o se dan de baja en forma definitiva para su eliminación, y
+V.- Archivística: Disciplina que trata de los aspectos teóricos y prácticos de los archivos y su función;
 
-IX.- Catálogo de vigencia y disposición documental: Instrumento metodológico que establece el destino final de los documentos, así como los plazos y modalidades para su conservación.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Archivo General: Conjunto orgánico de documentos, sea cual fuere su forma o soporte material, generados, circulados, conservados, usados o seleccionados por los sujetos obligados en el ejercicio de sus funciones o actividades y que se organizan en las siguientes áreas de:
+
+a) Archivo de trámite: Se conforma por los documentos de uso cotidiano y necesario durante un año, para el ejercicio de las atribuciones de una unidad administrativa o cuyo trámite ha terminado, pero sigue siendo consultado con frecuencia;
+
+b) Archivo de concentración: Se conforma por los documentos cuya consulta es esporádica por parte de las unidades administrativas de los sujetos obligados y que permanecen en él hasta que prescribe su valor administrativo, legal, fiscal o contable, o concluye el término para conservarlos de manera precautoria, y
+
+c) Archivo histórico: Se conforma por los documentos seleccionados que contienen evidencia y testimonio de las acciones trascendentes de los sujetos obligados, por lo que deben conservarse permanentemente.
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Administración documental: Todos los actos que intervengan en el manejo administrativo general, que tiene como objetivo la creación , adquisición, recepción, control, consulta, distribución, reproducción, organización, mantenimiento, custodia, resguardo, divulgación, distribución, transferencia, valoración y en su caso disposición final de documentos de interés público así como de los documentos históricos;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+VIII.- Documentos de Archivo: Toda información registrada en cualquier tipo de soporte, generada, recibida y conservada por los sujetos obligados en el desempeño de sus actividades y, que contiene un hecho o acto administrativo, jurídico, fiscal, contable o de relevancia cultural, testimonial o científica. Dichos documentos atendiendo a su selección serán:
+
+a) Documentos activos: Los necesarios para el ejercicio de las atribuciones de las unidades administrativas y de uso frecuente;
+
+b) Documentos semi activos: Los de uso esporádico que deben mantenerse en los archivos de concentración por disposición de Ley o bien porque contienen valor administrativo, legal, fiscal o contable, así como los que el sujeto obligado determine conservar de manera precautoria por un plazo determinado;
+
+c) Documentos inactivos: Los que se conservarán de manera definitiva en el archivo histórico del Estado de Baja California, en función del valor informativo contenido, y
+
+d) Documentos históricos: Los que contienen valores informativos, que contengan evidencias y testimoniales de las acciones de los sujetos obligados y de sus relaciones con la sociedad, por lo que deben conservarse permanentemente como fuente histórica.
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+IX.- Unidad Documental: El espacio físico en donde se encuentran y/o procesan los documentos a que se refiere la fracción VII;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Patrimonio Documental: El conjunto de documentos que dan cuenta de la evolución histórica del Estado o cuyo valor testimonial o informativo los reviste de interés público; el cual se integra por los documentos que generen, conserven y posean los sujetos obligados en el ejercicio de sus funciones. Es intransferible, inalienable, inembargable e imprescriptible;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XI.- Catálogo de Disposición Documental: Registro general y sistemático que establece con base en el cuadro general de clasificación archivística, los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de la información en reservada, confidencial o pública y el destino final de la misma;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XII.- Cuadro general de clasificación archivística: Instrumento técnico que describe la estructura de un archivo atendiendo a la organización, atribuciones y actividades de cada sujeto obligado;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XIII.- Valoración: Proceso de revisión, evaluación y selección, por el que se determina la utilidad de los documentos para su uso posterior con cualquier propósito, así como el período durante el que se mantendrá ese valor. En el caso de los documentos históricos, se deberá establecer el proceso de conservación que requieren;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XIV.- Conservación: Procesos técnicos que permiten detener las alteraciones materiales del documento;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XV.- Destino: Dar de baja documentos o transferencia de éstos al área de archivo histórico, en razón de la selección cuyo plazo de conservación ha concluido;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XVI.- Documentos electrónicos: Aquéllos cuyo tratamiento es automatizado y requiere de una herramienta específica para leerse o recuperarse;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XVII.- Disposición final de la documentación: Resolución de la Comisión de Valoración, para la cual se define si los documentos inactivos son mantenidos en los archivos, si son transferidos o se dan de baja definitiva para su eliminación, y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII.- Fondo documental: Conjunto de documentos producidos orgánicamente por una Unidad Administrativa, con cuyo nombre se identifica.
 
 ###### ARTICULO 4.
 
@@ -95,39 +165,103 @@ Los servidores públicos y empleados de las Instituciones Públicas, así como d
 
 Cuando un servidor público deje de desempeñar su empleo, cargo o comisión, deberá de hacer entrega a quien corresponda de toda la documentación que obre en su poder conforme a lo establecido en la presente Ley y sus reglamentos correspondientes, así como en la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos para el Estado.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+Los documentos de archivo en poder de sujetos obligados, cuyas unidades administrativas hayan sido modificadas o extinguidas, deberán ser administrados y preservados por aquellas que asuman sus funciones.
+
 ## TITULO SEGUNDO
 
 ### CAPITULO I. DE LA ADMINISTRACION DOCUMENTAL
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 6.
 
-Todo documento que los servidores públicos o empleados de las Instituciones Públicas mencionadas en esta Ley, generen o reciban en el desempeño de su empleo, cargo o comisión, deberá registrarse en el archivo de trámite con que cuenten, para inventariarse e integrarse en las Unidades Documentales correspondientes, a efecto de garantizar el control, la propiedad y la utilidad pública del documento.
+Para la debida aplicación de esta Ley, se deberán atender los siguientes principios:
+
+a) Conservación: Consiste en realizar acciones directas e indirectas encaminadas a que un documento mantenga sus propiedades tangibles e intangibles;
+
+b) Reserva y Confidencialidad: Consiste en asegurar que la información documental contenida en las áreas de archivo de trámite y de concentración, clasificada en los términos de esta ley sea protegida de manera integral;
+
+c) Continuidad: Consiste en establecer la secuencia de todas las operaciones administrativas y técnicas que se relacionen con la administración de documentos;
+
+d) Orden Original: Consiste en mantener los documentos de cada fondo documental en el orden que les fue dado de origen, y;
+
+e) Procedencia: Consiste en respetar el orden de los fondos documentales. Los documentos de archivo procedentes de un sujeto obligado deberán mantenerse agrupados sin mezclarse con otros, respetando sus organizaciones y atribuciones.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 7.
 
-Los documentos de interés público generados por los servidores públicos o empleados de las Instituciones Públicas mencionadas en esta Ley, en el desempeño de su empleo, cargo o comisión formarán parte del patrimonio documental de las Instituciones Públicas, y bajo ningún concepto ni circunstancia se considerarán propiedad de quien lo produjo.
+Todo documento que los servidores públicos o empleados de las instituciones Públicas mencionadas en esta Ley, generen o reciban en el desempeño de su empleo, cargo o comisión, deberá registrarse en el archivo de trámite con que cuenten, para inventariarse e integrarse en las Unidades Documentales correspondientes, a efecto de garantizar el control, la propiedad y la utilidad pública del documento.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 8.
 
-Será responsabilidad de los Titulares de las Unidades Documentales de las Instituciones Públicas correspondientes, mantener organizados los documentos para su fácil localización y consulta, haciendo uso de sistemas, métodos y técnicas estandarizadas para la sistematización de la información, así como el uso factible de las nuevas tecnologías aplicables.
+Los documentos de interés público generados por los servidores públicos o empleados de las Instituciones Públicas mencionadas en esta Ley, en el desempeño de su empleo, cargo o comisión formarán parte del patrimonio documental de las Instituciones Públicas, y bajo ningún concepto ni circunstancia se considerarán propiedad de quien lo produjo.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 9.
 
-Los documentos de interés público podrán ser consultados, en su caso, por quien lo solicite, en las Unidades Documentales, en los términos de la Ley de la materia y su reglamento.
+Será responsabilidad de los Titulares de las Unidades Documentales de las Instituciones Públicas correspondientes y el personal adscrito a las mismas:
+
+I. Conservar en buen estado y debida custodia los documentos que se encuentren bajo su resguardo, evitando aquellos actos que propicien su daño o destrucción;
+
+II. Mantener organizados los documentos para su fácil localización y consulta, haciendo uso de sistemas y métodos y técnicas estandarizadas para la sistematización de la información;
+
+III. Implementar los mecanismos de control para la recepción, registro, distribución y despacho de la correspondencia;
+
+IV. Expedir y actualizar los manuales de organización y de procedimientos en materia archivística;
+
+V. Planificar y coordinar las actividades de las áreas de archivo en materia de administración de documentos;
+
+VI. Establecer la metodología archivística en la administración de documentos;
+
+VII. Proporcionar al personal la capacitación para la conservación, organización, difusión y destino de los documentos de archivo;
+
+VIII. Desarrollar programas de difusión para hacer extensivo a la sociedad el conocimiento y aprovechamiento de los acervos públicos;
+
+IX. Promover y gestionar el enriquecimiento del patrimonio documental;
+
+X. Promover que los documentos de interés público en posesión de particulares ingresen al patrimonio documental;
+
+XI. Proponer a la autoridad la celebración de convenios y acuerdos con instituciones públicas y privadas, nacionales e internacionales, para la capacitación del personal en materia de administración de documentos e intercambio de conocimientos técnicos y operativos archivísticos;
+
+XII. Editar y publicar trabajos sobre la materia archivística, así como aquéllos de investigación para fomentar la cultura en el Estado;
+
+XIII. Proponer a la autoridad correspondiente su proyecto de Reglamento, y
+
+XIV. Las demás que establezca la Ley o se determinen en su reglamento interno.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
-Los titulares de las Unidades Documentales y el personal adscrito a las mismas, serán responsables de la conservación, buen estado y custodia de los documentos que se encuentren bajo su resguardo, evitando aquellos actos que propicien su daño y destrucción.
+Sin perjuicio de lo establecido en la Ley de Acceso a la Información Pública, el servicio de consulta de documentos que obren en los archivos, se realizará de la siguiente manera:
 
-Las personas físicas y morales de la sociedad civil, que posean documentos de interés público, procurarán conservarlos bajo condiciones idóneas para evitar su deterioro.
+I. Ante las áreas de archivo de trámite y de concentración, a cualquier persona o a su representante legal que acredite tener interés legítimo y directo, conforme a la normativa que así se lo reconozca;
+
+II. Ante el área de archivo histórico, a cualquier persona que así lo requiera, y
+
+III. Las diferentes áreas de archivo deberán aplicar las reglas o medidas de seguridad que garanticen el absoluto control y recuperación de los documentos, conforme a su reglamento interno.
+
+Aquellos documentos que por su deterioro físico se encuentren en riesgo de conservación, no estarán disponibles para su consulta, salvo causa justificada, para que puedan ser restaurados y cuenten con una copia de seguridad, salvo en el caso de documentos que al reproducirse se altere su estado físico o implique un riesgo para su conservación.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 11.
 
-La valoración y disposición final de documentos se llevará a cabo en los términos del Título Cuarto Capítulo II de la presente Ley.
+Cuando los documentos de interés público estén en manos de particulares, las unidades documentales deberán hacer las gestiones necesarias para que éstos ingresen al patrimonio documental del Estado, ya sea de manera onerosa o gratuita, debiendo en este último caso, otorgarle al particular reproducción fiel de los mismos cuando su naturaleza lo permita.
+
+Las Unidades Documentales en su caso, gozarán del derecho del tanto en la adquisición de documentos, expedientes o acervos de interés público para el Estado.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 12.
 
-La difusión de los documentos de interés público se llevará a cabo en los términos que establezca el Reglamento de esta Ley.
+La valoración y disposición final de documentos se llevará a cabo en los términos del Título Cuarto Capítulo II de la presente Ley.
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DE DOCUMENTACION
 
@@ -195,13 +329,17 @@ III.-. El Titular del archivo histórico; y
 
 IV.- El Titular de la Oficialía de partes de cada uno de los Ayuntamientos que se adhieran al Sistema.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 19.
 
-El Oficial Mayor del Poder Ejecutivo, será nombrado Presidente del Consejo.
+El Oficial Mayor del Poder Ejecutivo, será nombrado Presidente del Consejo, y a propuesta de éste, el Consejo nombrará un Secretario Técnico.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 20.
 
-A propuesta del Presidente, el Consejo nombrará un Secretario Técnico.
+Cada uno de los integrantes del Consejo nombrará un representante, siendo éste el responsable de su Unidad Documental; cada cargo dentro del Consejo será honorífico y su permanencia dependerá del ejercicio de su encargo público.
 
 ###### ARTICULO 21.
 
@@ -223,17 +361,37 @@ V.- Definir políticas para la integración de un equipo de planificación y pre
 
 VI.- Coordinar acciones con el Sistema Nacional de Archivos y otros organismos análogos en los aspectos administrativo, cultural e histórico;
 
-VII.- Las demás que se consideren necesarias conforme a los lineamientos establecidos en esta Ley, y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-VIII.- Desarrollar campañas permanentes de difusión para fomentar el conocimiento y respeto al acervo documental del Estado.
+VII.- Promover la profesionalización de los responsables de los archivos de las dependencias integradas al Sistema;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+VIII.- Desarrollar campañas permanentes de difusión para fomentar el conocimiento y respeto al acervo documental del Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+IX.- Coadyuvar, a través de sus áreas de competencia con cada unidad documental en las entidades públicas estatales, que se mencionan en el artículo uno de esta Ley, o de las personas físicas;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+X.- La creación de una comisión de valoración, que se integrará como lo establezca el reglamento respectivo, y que tendrá por objeto emitir opinión respecto del valor y disposición final de la documentación, conforme a la misma normatividad que emita el sistema, y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XI.- Las demás que se consideren necesarias conforme a los lineamientos establecidos por la Ley.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 23.
 
-El cargo de integrante del Consejo Estatal de Archivos será honorífico y su permanencia dependerá del ejercicio de su encargo público.
+El Sistema contará con el presupuesto que anualmente se le autorice en el Presupuesto de Egresos del Estado, con cargo a las partidas presupuestales de los poderes del Estado, y las aportaciones que podrá otorgar cada Ayuntamiento y las demás que obtenga por cualquier otro título.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 24.
 
-El Sistema contará con el presupuesto que anualmente se le autorice en el Presupuesto de Egresos del Estado, con cargo a las partidas presupuestales de los poderes del Estado, y las aportaciones que podrá otorgar cada Ayuntamiento y las demás que obtenga por cualquier otro título.
+Los integrantes del Consejo Estatal de Archivos deberán reunirse cada 90 días. La organización, funcionamiento y demás acciones necesarias para el cumplimiento de sus objetivos, se establecerán en el Reglamento respectivo.
 
 ## TITULO CUARTO
 
@@ -285,7 +443,7 @@ Los Ayuntamientos que se adhieran al Sistema Estatal de Documentación, estarán
 
 I.- Los lineamientos sobre la administración de documentos establecidos en el Capítulo II de esta Ley:
 
-II.- La comisión y los procedimientos para la valoración y disposición final de la documentación a que se refiere el Capítulo IV de esta Ley, y
+II.- La comision y los procedimientos para la valoración y disposición final de la documentación a que se refiere el Capítulo IV de esta Ley, y
 
 III.- Las sanciones e infracciones mencionadas en el Título Sexto de esta Ley.
 
@@ -372,3 +530,11 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial de Baja California.
+
+SEGUNDO.- Las autoridades que formen parte del Sistema Estatal de Documentación deberán elaborar su reglamentación interna en un plazo no mayor a los 180 días naturales a partir de la entrada en vigor de las reformas de mérito.
