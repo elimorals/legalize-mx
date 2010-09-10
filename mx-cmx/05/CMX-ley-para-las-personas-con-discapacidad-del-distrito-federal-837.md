@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-las-personas-con-discapacidad-del-distrito-federal-837
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2010-07-29"
+last_updated: "2010-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=837&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en el Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -573,3 +573,37 @@ G.O. 29 DE JULIO DE 2010.
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a los 30 días siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para las Personas con Discapacidad del Distrito Federal, y se derogan las disposiciones que se opongan a la presente Ley, a partir del inicio de la vigencia de ésta.
+
+###### ARTÍCULO TERCERO.
+
+Los requisitos señalados en las fracciones I, II y III del artículo 43 de esta Ley, serán exigibles a las nuevas solicitudes de apoyo económico, dejando a salvo los derechos de las personas que ya han obtenido dicho beneficio por algún programa social del Gobierno del Distrito Federal. En todo caso estos beneficiarios serán incorporados al nuevo padrón de beneficiarios del apoyo económico.
+
+###### ARTÍCULO CUARTO.
+
+El Jefe de Gobierno del Distrito Federal, tendrá un plazo de 30 días contados a partir de la fecha de entrada en vigor del Capítulo Décimo Primero de la presente Ley, para nombrar al Director General del Instituto para la Integración al Desarrollo de las Personas con Discapacidad.
+
+###### ARTÍCULO QUINTO.
+
+El Gobierno del Distrito Federal, a través de la Secretaría de Finanzas, conjuntamente con la Asamblea Legislativa del Distrito Federal, a través de las Comisiones de Presupuesto y Cuenta Pública y de Atención a Grupos Vulnerables, determinarán la fecha de la entrada en vigor de los Artículos 41 y correlativos, así como del Capítulo Décimo Primero de la Ley, mismo que dependerá del mejoramiento de las finanzas públicas del Distrito Federal.
+
+###### ARTÍCULO SEXTO.
+
+La Procuraduría General de Justicia del Distrito Federal deberá dar cumplimiento a la presente Ley, en un plazo no mayor a 120 días, contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Transporte y Vialidad deberá dar cumplimiento a lo establecido en la presente Ley, en un plazo no mayor a 120 días contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+El Jefe de Gobierno del Distrito Federal publicará el Reglamento de la presente Ley a más tardar 60 días después de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
