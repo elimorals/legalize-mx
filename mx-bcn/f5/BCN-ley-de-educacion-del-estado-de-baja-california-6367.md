@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2010-07-23"
+last_updated: "2010-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -241,7 +241,7 @@ X.- Revalidar y otorgar equivalencias de estudios en todos los niveles educativo
 
 XI.- Promover la ampliación de los servicios educativos, fomentando la creación de instituciones que ofrezcan nuevas opciones para el educando.
 
-XII.- Expedir certificados y otorgar diplomas, títulos o grados académicos a favor de las personas que hayan concluído el tipo básico, medio superior o cursado estudios de tipo superior, de conformidad con los requisitos establecidos en los planes de estudios correspondientes, pudiendo delegar esta función en sus organismos descentralizados conforme su normatividad, en los municipios o a los particulares con autorización o reconocimiento de validez oficial de estudios.
+XII.- Expedir certificados y otorgar diplomas, títulos o grados académicos a favor de las personas que hayan concluido el tipo básico, medio superior o cursado estudios de tipo superior, de conformidad con los requisitos establecidos en los planes de estudios correspondientes, pudiendo delegar esta función en sus organismos descentralizados conforme su normatividad, en los municipios o a los particulares con autorización o reconocimiento de validez oficial de estudios.
 
 XIII.- Otorgar, negar o revocar autorización a los particulares que impartan enseñanza primaria, secundaria, normal y las demás para la formación de docentes de educación básica, así como otorgar, negar o retirar el reconocimiento de validez oficial de estudios distintos a los anteriores, de acuerdo a la opinión técnica que se emita para tal efecto.
 
@@ -542,6 +542,10 @@ La educación media comercial difundirá los elementos básicos que eleven el ni
 ###### ARTICULO 40.
 
 El bachillerato tiene por objeto proporcionar al educando la formación necesaria para ingresar a una institución de educación superior y en su caso, también prepararlo con conocimientos técnicos especializados de acuerdo a las ramas productivas del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+ARTICULO 40 BIS.- En la medida de las posibilidades presupuéstales, la Secretaría promoverá la implementación de un modelo de Certificado Internacional de Preparación Curricular y su sistema, por medios electrónicos o por escrito, siendo éste de carácter complementario a los planes y programas de estudio de las instituciones de educación media superior, públicas y particulares, del Estado de Baja California, como una herramienta de acreditación internacional de conocimientos y habilidades competitivas, emprendedoras y humanistas, en las cuales se privilegiarán: los exámenes diagnóstico, el plan de estudio individualizado y el examen certificador, para la continuación de estudios superiores y el acceso al mercado laboral. La Secretaría emitirá las disposiciones legales y administrativas necesarias para la implementación y operación del Certificado Internacional de Preparación Curricular y vigilará constantemente que dicho modelo se ajuste a las demandas académicas y laborales nacionales e internacionales, proporcionadas por instituciones u organismos con reconocimiento y experiencia en la materia, en México y otros países, con los cuales podrá establecer convenios de colaboración.
 
 ###### ARTICULO 41.
 
@@ -1180,3 +1184,13 @@ P.O. 28 DE MAYO DE 2010.
 P.O. 23 DE JULIO DE 2010.
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días siguientes a la fecha de entrada en vigor de la presente reforma, la Secretaría de Educación y Bienestar Social emitirá las disposiciones legales y administrativas necesarias para la implementación y operación del Certificado internacional de Preparación Curricular.
