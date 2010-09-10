@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2000-03-31"
+last_updated: "2010-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -185,9 +185,17 @@ XX.- Fortalecer la conciencia tanto en el individuo como en la sociedad, de que 
 
 XXI.- Generar canales permanentes de participación en los que se involucre a la sociedad en la educación, en el proceso de elaboración de leyes, reglamentos, planes, programas y contenidos;
 
-XXII.- Fomentar dentro del proceso enseñanza-aprendizaje el desarrollo del pensamiento crítico, creativo, así como actitudes de iniciativa y autoformación; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-XXIII.- Fomentar la equidad entre los géneros.
+XXII.- Fomentar dentro del proceso enseñanza-aprendizaje el desarrollo del pensamiento crítico, creativo, así como actitudes de iniciativa y autoformación;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XXIII.- Fomentar la equidad entre los géneros; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XXIV.- Promover entre los educandos el consumo de alimentos con alto valor nutricional, así como, el desarrollo de hábitos que favorezcan su salud y mejoren su calidad de vida.
 
 ###### ARTÍCULO 9.
 
@@ -309,9 +317,23 @@ XXVI.- Promover la participación social en la educación, de conformidad con la
 
 XXVII.- Preservar el patrimonio cultural, así como fomentar y difundir las actividades científicas, artísticas, culturales y físico-deportivas en todas sus manifestaciones;
 
-XXVIII.- Organizar congresos para estudiar los problemas educativos o científicos; impulsar el intercambio de estudiantes, profesores, hombres y mujeres de ciencia de otras entidades o países y promover, en general, cuanto sea necesario para el desarrollo y progreso de la cultura y de la educación en el Estado; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-XXIX.- Las demás que establezcan la Ley General de Educación, esta Ley y otras disposiciones aplicables que garanticen la educación pública.
+XXVIII.- Organizar congresos para estudiar los problemas educativos o científicos; impulsar el intercambio de estudiantes, profesores, hombres y mujeres de ciencia de otras entidades o países y promover, en general, cuanto sea necesario para el desarrollo y progreso de la cultura y de la educación en el Estado;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XXIX.- Implementar, en coordinación con la Secretaría de Salud, programas que fomenten en los educandos el consumo de los alimentos que tengan alto valor nutricional, así como llevar a cabo acciones de revisión en las tiendas y cooperativas escolares, a fin de vigilar el cumplimiento de las disposiciones nutricionales;
+
+Asimismo, establecer lineamientos generales para promover la venta de este tipo de alimentos en las tiendas de consumo escolar, cooperativas escolares y lugares donde se expendan o consuman alimentos dentro de las Instituciones Oficiales y Particulares de todos los niveles educativos;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XXX.- Supervisar que las Instituciones Educativas Oficiales y Particulares, instrumenten acciones tendientes a fomentar hábitos para una vida saludable, así como para prevenir y diagnosticar de manera oportuna la obesidad infantil y juvenil; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+XXXI.- Las demás que establezcan la Ley General de Educación, esta Ley y otras disposiciones aplicables que garanticen la educación pública.
 
 ###### ARTÍCULO 15.
 
@@ -991,9 +1013,17 @@ IV.- Coadyuvar con los educadores en el tratamiento de los problemas de conducta
 
 V.- Colaborar con las instituciones en las que estén inscritos sus hijos, hijas o pupilos, en las actividades que éstas realicen;
 
-VI.- Cumplir con los reglamentos y acuerdos generales de las instituciones educativas, y vigilar que sus hijos, hijas o pupilos las observen; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-VII.- Participar en forma voluntaria con las aportaciones en numerario, bienes y servicios que acuerde la Asamblea General de Padres de Familia, de la institución educativa de que se trate.
+VI.- Cumplir con los reglamentos y acuerdos generales de las instituciones educativas, y vigilar que sus hijos, hijas o pupilos las observen;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Participar en forma voluntaria con las aportaciones en numerario, bienes y servicios que acuerde la Asamblea General de Padres de Familia, de la institución educativa de que se trate; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+VIII.- Fomentar en sus hijos, hijas o pupilos menores, el consumo de alimentos con alto valor nutricional.
 
 ### CAPÍTULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
@@ -1007,9 +1037,17 @@ II.- Colaborar para una mejor integración de la comunidad escolar, así como en
 
 III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que las Asociaciones deseen hacer al establecimiento escolar;
 
-IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
-V.- Informar a las autoridades escolares y educativas sobre cualquier irregularidad de que sean objeto los educandos.
+IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Informar a las autoridades escolares y educativas sobre cualquier irregularidad de que sean objeto los educandos; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Coadyuvar con la Secretaría en la difusión de programas que fomenten el consumo de alimentos con alto valor nutricional.
 
 ###### ARTÍCULO 101.
 
@@ -1023,9 +1061,11 @@ La organización y el funcionamiento de las Asociaciones de Padres de Familia le
 
 La Autoridad Educativa Estatal promoverá e impulsará la participación social en la educación para el logro de los fines y propósitos educativos, a través de la instalación de un Consejo Estatal, así como de Consejos Escolares y Municipales.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 103.
 
-La Autoridad Educativa Estatal promoverá la participación de la sociedad en actividades que tengan por objeto lograr educación de calidad para la vida y equidad en las oportunidades educativas, a través de los Consejos de Participación Social en la Educación.
+La Autoridad Educativa Estatal promoverá la participación de la sociedad en actividades que tengan por objeto lograr educación de calidad para la vida y equidad en las oportunidades educativas, así como en la difusión de programas que fomenten en los educandos el consumo de los alimentos que tengan alto valor nutricional, a través de los Consejos de Participación Social en la Educación.
 
 ###### ARTÍCULO 104.
 
@@ -1218,3 +1258,11 @@ QUINTO.- Las autoridades competentes se obligan a respetar íntegramente los der
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los nueve días del mes de marzo de dos mil.- Diputado Presidente.- GREGORIO TOXTLE TEPALE.- Rúbrica.- Diputada Secretaria.- MARÍA ANGÉLICA CACHO BAENA.- Rúbrica.- Diputado Secretario.- CÉSAR AUGUSTO REYES CABRERA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diez días del mes de marzo del año dos mil.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El titular de la Secretaría de Educación Pública, en el ámbito de sus atribuciones, emitirá los acuerdos y circulares necesarios, tendientes a la aplicación de lo dispuesto en el presente Decreto, así como realizará los trámites y gestiones para el cumplimiento del mismo.
