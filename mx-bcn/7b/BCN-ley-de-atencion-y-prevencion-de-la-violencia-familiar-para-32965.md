@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2007-10-19"
+last_updated: "2010-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -303,7 +303,11 @@ XI. Las demás que le señalen ésta u otras leyes.
 
 Corresponde a la Procuraduría General de Justicia, para el debido cumplimiento de esta Ley:
 
-I. Proporcionar a la víctima de la violencia familiar, la protección y auxilio derivado del Artículo 20, Apartado B de la Constitución Política de los Estados Unidos Mexicanos, pudiendo gestionar ante otras autoridades aquella que no este en posibilidades de proporcionar;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+
+I. Proporcionar a la víctima de la violencia familiar, la protección y auxilio derivado del artículo 20 apartado C de la Constitución Política de los Estados Unidos Mexicanos, pudiendo gestionar ante otras autoridades aquella que no esté en posibilidades de proporcionar;
 
 II. Brindar asistencia a la víctima de violencia familiar, cuando así lo solicite a través de la unidad administrativa competente, y (sic)
 
@@ -498,3 +502,11 @@ P.O. 19 DE OCTUBRE DE 2007.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 10 DE SEPTIEMBRE DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado en la Ciudad de Mexicali, y en forma sucesiva en los demás Municipios, del Estado de Baja California, conforme al siguiente orden:
+
+l.- Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
+
+II.- Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
