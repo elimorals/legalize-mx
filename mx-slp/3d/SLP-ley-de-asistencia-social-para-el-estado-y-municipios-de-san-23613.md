@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2010-07-22"
+last_updated: "2010-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -341,7 +341,9 @@ f) Operar establecimientos de asistencia social en beneficio de menores, mujeres
 
 g) Autorizar los procedimientos de adopción de los menores que se encuentren albergados en instituciones públicas y privadas, fungiendo como autoridad central en materia de adopciones internacionales en los términos de la Convención sobre la Protección de Menores y la Cooperación en materia de adopción internacional de La Haya, así como del Código Civil del Estado.
 
-h) Ejecutar acciones de prevención y rehabilitación de personas con capacidades diferentes en centros no hospitalarios.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+h) Ejecutar acciones de prevención y rehabilitación de personas con discapacidad en centros no hospitalarios.
 
 i) Acreditar la discapacidad de las personas que así lo soliciten, para hacer uso de los beneficios especiales que se les otorgan.
 
@@ -359,7 +361,9 @@ o) Avalar el objeto y actividades de las instituciones de asistencia privada leg
 
 p) Orientar el destino de los recursos que en materia de asistencia social le aporten las dependencias y entidades del Gobierno Federal y Estatal.
 
-q) Elaborar el Censo Nominal de Personas con Capacidades Diferentes del Estado, con la información generada en cada uno de los municipios.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+q) Elaborar el Censo Nominal de personas con discapacidad en el Estado, con la información generada por cada uno de los municipios.
 
 r) Proponer a los Servicios de Salud de San Luis Potosí en su carácter de administrador del Patrimonio de la Beneficencia Pública en el Estado, programas de asistencia social para su financiamiento, en los términos que para tal efecto se convenga.
 
@@ -367,13 +371,17 @@ s) Impartir cursos de inducción y capacitación al personal de los DIF municipa
 
 t) Los demás similares que sirvan al cumplimiento de los objetivos del DIF Estatal, y
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
 III. De difusión:
 
 a) Divulgar la información sobre el acceso al financiamiento internacional, nacional y estatal para los programas de asistencia social, así como lo relacionado con cada uno de sus servicios.
 
 b) Fomentar la creación, desarrollo y fortalecimiento de las instituciones de asistencia privada, así como dar a conocer a la sociedad los servicios que éstas prestan, con el propósito de promover su desarrollo y fortalecimiento.
 
-c) Promover ante las dependencias y entidades de la administración pública del Estado y municipios la adaptación del espacio urbano, para que satisfaga los requerimientos legales según la Norma Oficial Mexicana respectiva, para el libre tránsito y autonomía de las personas con capacidades diferentes.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+c) Promover ante las dependencias y entidades de la administración pública del Estado y municipios, la adaptación del espacio urbano para que satisfaga los requerimientos legales según la Norma Oficial Mexicana respectiva, para el libre tránsito y autonomía de las personas con discapacidad.
 
 d) Publicar los datos estadísticos que arroje el Sistema Unico de Información en Materia de Asistencia Social, para coadyuvar a la elaboración de programas preventivos.
 
@@ -743,9 +751,11 @@ XXIV. Solicitar al Agente del Ministerio Público su intervención ante el Juez 
 
 XXV. Difundir por los medios más eficaces el conocimiento de la presente Ley, de las convenciones internacionales y las demás disposiciones normativas en materia familiar, a efecto de lograr el conocimiento de las mismas y promover su observancia.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 36.
 
-Los directores de los hospitales públicos o privados y médicos particulares, maestros o cualquiera otra persona u organismo que tengan conocimiento de hechos que encuadren dentro del maltrato al menor, a la mujer, a los adultos mayores o personas con capacidades diferentes, tendrán obligación de comunicarlo inmediatamente al Ministerio Público, así como a la PRODEM o en su caso a los DIF municipales para la atención que le corresponde a cada institución en el ámbito de su (sic) respectivas competencias.
+Los directores de los hospitales públicos o privados, y médicos particulares, maestros o cualquiera otra persona u organismo, que tengan conocimiento de hechos que encuadren dentro del maltrato al menor, a la mujer, a los adultos mayores o personas con discapacidad, tendrán obligación de comunicarlo inmediatamente al Ministerio Público, así como a la PRODEM o, en su caso, a los DIF municipales, para la atención que le corresponde a cada institución en el ámbito de su (sic) respectivas competencias.
 
 ###### ARTICULO 37.
 
@@ -865,7 +875,9 @@ VIII. Fortalecer las estructuras municipales encargadas de la asistencia social 
 
 IX. Identificar necesidades asistenciales, así como desarrollar la gestión de servicios;
 
-X. Establecer de acuerdo a su disponibilidad presupuestal, centros de asistencia social temporal para menores en estado de abandono, víctimas de violencia familiar, personas con capacidades diferentes y adultos mayores, o aquellos que brinden protección y atención a grupos vulnerables de su municipio;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+X. Establecer de acuerdo a su disponibilidad presupuestal, centros de asistencia social temporal para menores en estado de abandono, víctimas de violencia familiar, personas con discapacidad y adultos mayores, o aquellos que brinden protección y atención a grupos vulnerables de su municipio;
 
 XI. Diseñar y aplicar programas integrales que permitan atender necesidades concretas en materia de asistencia social;
 
@@ -913,9 +925,13 @@ III. Asistir a las personas, familias y grupos en condiciones de vulnerabilidad,
 
 IV. Fomentar la incorporación de las personas con discapacidad a la vida social, económica y cultural;
 
-V. Prestar asesoría jurídica, psicológica y social en materia familiar, a la población en estado de abandono y desventaja social, preferentemente a los menores, mujeres, personas con capacidades diferentes y adultos mayores;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
 
-VI. Investigar y en su caso dictaminar sobre la existencia de cualquier tipo de maltrato a menores, mujeres, personas con capacidades diferentes y adultos mayores, haciéndolo del conocimiento del Ministerio Público;
+V. Prestar asesoría jurídica, psicológica y social en materia familiar, a la población en estado de abandono y desventaja social, preferentemente a los menores, mujeres, personas con discapacidad y adultos mayores;
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Investigar y, en su caso, dictaminar sobre la existencia de cualquier tipo de maltrato a menores, mujeres, personas con discapacidad y adultos mayores, haciéndolo del conocimiento del Ministerio Público;
 
 VII. Constituir y operar el Consejo Municipal de Adopciones y gestionar los procedimientos correspondientes, atendiendo a lo dispuesto en la legislación aplicable y actuando siempre en beneficio del interés superior del menor;
 
@@ -937,7 +953,9 @@ XV. Dar atención y en su caso canalizar a instituciones especializadas a vícti
 
 XVI. Operar establecimientos de asistencia y albergue temporal para los menores con o sin discapacidad, mujeres y adultos mayores en estado de vulnerabilidad;
 
-XVII. Elaborar el Censo Nominal de Personas con Capacidades Diferentes del Municipio, que permita orientar y evaluar las políticas asistenciales, remitiendo a la brevedad posible al DIF Estatal la información recabada, y
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Elaborar el Censo Nominal de Personas con Discapacidad del Municipio, que permita orientar y evaluar las políticas asistenciales, remitiendo a la brevedad posible al DIF Estatal la información recabada, y
 
 XVIII. Las demás que le asignen el ayuntamiento, el reglamento interior y las disposiciones legales aplicables.
 
@@ -997,7 +1015,9 @@ I. Contar para el cumplimiento de sus fines con recursos públicos destinados a 
 
 II. Recibir el apoyo, colaboración técnica y administrativa que las autoridades les otorguen;
 
-III. Tener acceso al Sistema Unico de Información en Materia de Asistencia Social, así como al Censo Nominal de Personas con Capacidades Diferentes del Estado;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+III. Tener acceso al Sistema Unico de Información en Materia de Asistencia Social, así como al Censo Nominal de Personas con Discapacidad del Estado;
 
 IV. Recibir donativos de personas físicas y morales nacionales o extranjeras, y
 
@@ -1314,3 +1334,9 @@ PRIMERO. Este Decreto entrará en vigor a los noventa días, a partir de la fech
 SEGUNDO. Los sistemas municipales para el Desarrollo Integral de la Familia, tendrán noventa días a partir de la publicación del presente Decreto, para implementar sus contralorías internas.
 
 TERCERO. Se derogan todas las disposiciones que contravengan este Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
