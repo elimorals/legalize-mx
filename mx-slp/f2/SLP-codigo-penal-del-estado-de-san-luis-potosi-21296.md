@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2010-06-04"
+last_updated: "2010-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -307,7 +307,9 @@ La reparación del daño debe exigirse, de oficio, por el Ministerio Público, p
 
 Quien se considere con derecho a la reparación del daño y no hubiere obtenido la misma ante el juez penal, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
 
-Tratándose de daños o perjuicios ocasionados por el Estado, a través de sus funcionarios o servidores públicos, exclusivamente en el ejercicio de la función que tengan encomendada, para su reparación o resarcimiento, el ofendido o la persona legitimada deberán estar a lo dispuesto en el artículo 76 Bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+Tratándose de daños o perjuicios ocasionados por el Estado, a través de sus funcionarios o servidores públicos, exclusivamente en el ejercicio de la función que tengan encomendada, para su reparación o resarcimiento, el ofendido o la persona legitimada deberán estar a lo dispuesto en el Título Cuarto de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 28.
 
@@ -1881,6 +1883,8 @@ Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autorida
 
 ### CAPITULO I. ROBO
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 190.
 
 Comete el delito de ultrajes a la moral pública o a las buenas costumbres, quien en un sitio público y por cualquier medio ejecuta o hace ejecutar por otro, exhibiciones obscenas.
@@ -1931,7 +1935,7 @@ En estos casos se impondrá una pena de uno a cuatro años de prisión y sanció
 
 ###### ARTICULO 194.
 
-Comete el delito de robo quien se apodera de una cosa ajena, mueble, sin derecho y sin consentimiento de la persona que pueda disponer de ella conforme a la ley.
+Comete el delito de robo quien se apodera de una cosa ajena mueble o inmueble por destino, sin derecho y sin el consentimiento de la persona que pueda disponer de ella conforme la ley.
 
 ###### ARTICULO 195.
 
@@ -2649,7 +2653,9 @@ Comete el delito de encubrimiento quien:
 
 I. Sin haber participado en un hecho considerado como delictuoso, alberga, oculta o proporciona ayuda al inculpado de un delito con el propósito de que se sustraiga a la acción de la justicia, o
 
-II. Sin haber participado en un hecho delictuoso, altera, destruye o sustrae las huellas o los instrumentos del delito u oculta los objetos o los efectos del mismo para impedir su descubrimiento.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+II. Destruya, modifique, cambie, obstruya, altere, mueva o manipule la morfología de los indicios, vestigios, huellas, objetos, instrumentos o cadáveres que se encuentren en el lugar que acontecieron los hechos del delito o se realizó el hallazgo, para impedir su descubrimiento.
 
 Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días de salario mínimo.
 
@@ -3500,6 +3506,30 @@ C. Los incrementos a las retribuciones nominales o adicionales sólo podrán rea
 OCTAVO. Todas las disposiciones legales que aludan a los emolumentos, salarios, sueldos, percepciones o cualquier expresión similar alusiva a la remuneración de los servidores públicos, deberán entenderse en los términos de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 P.O. 4 DE JUNIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O 11 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 338, POR EL QUE SE REFORMA LA FRACCION II DEL ARTICULO 257 DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 339, POR EL QUE SE REFORMA EL ARTICULO 194 DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 340, POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 27 DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
