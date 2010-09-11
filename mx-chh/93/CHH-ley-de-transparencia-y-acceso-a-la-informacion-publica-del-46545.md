@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4654
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-15"
-last_updated: "2008-07-05"
+last_updated: "2010-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 15 de octubre de 2005.
 
@@ -931,7 +931,9 @@ I.- Amonestación verbal.
 
 II.- Extrañamiento por escrito.
 
-III.- Extrañamiento por escrito y multa de 100 a 1500 veces el salario mínimo general vigente en la Capital del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Extrañamiento por escrito y multa de 150 a 1500 veces el salario mínimo general vigente en la Capital del Estado de Chihuahua.
 
 IV.- Separación temporal del cargo público hasta por seis meses.
 
@@ -939,11 +941,21 @@ V.- Separación definitiva del cargo público.
 
 VI.- Inhabilitación para el ejercicio de un cargo público, hasta por seis años.
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- En caso de que el Sujeto Obligado sea persona física o moral de derecho privado constituida conforme a la ley correspondiente, además de la sanción que le corresponda, dejará de recibir recursos públicos o ejercer la función pública por un lapso de seis a doce meses.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+Transcurrido el plazo señalado en el párrafo anterior, si el Sujeto Obligado no ha satisfecho la disposición del Consejo General que originó la sanción, no podrá percibir recursos públicos o ejercer la función pública hasta que acredite el cumplimiento de la resolución del Consejo.
+
 El Consejo General, para imponer la sanción correspondiente, valorará la gravedad de la infracción, tomando en cuenta si el infractor obró con dolo o negligencia, las circunstancias en que se produjeron los hechos irregulares y las consecuencias derivadas de la acción u omisión del infractor.
 
 La reiteración en la comisión de las irregularidades, será agravante para la aplicación de las sanciones.
 
-La sanción prevista en la fracción VI se hará del conocimiento de los entes públicos, para los efectos legales conducentes.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+Las sanciones previstas en las fracciones VI y VII se harán del conocimiento de los entes públicos, para los efectos legales conducentes.
 
 ###### Artículo 58.
 
@@ -997,7 +1009,7 @@ VII.- Del Gobierno Municipal, los integrantes del Ayuntamiento.
 
 ###### Artículo 62.
 
-La solicitud de aclaración se podrá presentar ante la Unidad de Información del Sujeto Obligado, cuando venza el término para la entrega de la información, ésta será negada, la o el solicitante estime que la información entregada no es clara, oportuna, veraz, con perspectiva de género y suficiente, o esté inconforme con el costo, formato o modalidad de la entrega. (sic)
+La solicitud de aclaración se podrá presentar ante la Unidad de Información del Sujeto Obligado, cuando venza el término para la entrega de la información, ésta será negada, la o el solicitante estime que la información entregada no es clara, oportuna, veraz, con perspectiva de género y suficiente, o esté inconforme con el costo, formato o modalidad de la entrega.
 
 ###### Artículo 63.
 
@@ -1017,9 +1029,13 @@ IV.- El nombre del Sujeto Obligado que omitió o emitió la resolución que moti
 
 V.- Los argumentos que sustentan la solicitud.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 65.
 
-Cuando la solicitud de aclaración no cumpla los requisitos del artículo anterior o se reciba fuera de término, se desechará de plano.
+Si la solicitud de aclaración no contiene todos los datos requeridos, el Sujeto Obligado prevendrá al solicitante por escrito, en un plazo no mayor a cinco días hábiles, para que en un término igual y en la misma forma, la complemente o la aclare.
+
+En caso de no cumplir con dicha prevención, se desechará de plano.
 
 ###### Artículo 66.
 
@@ -1069,6 +1085,26 @@ En el caso de la fracción V del artículo anterior, el recurso se interpondrá 
 
 El Instituto, bajo su más estricta responsabilidad, deberá emitir la resolución debidamente fundada y motivada, en un término no mayor de treinta días hábiles, contados a partir de la interposición del recurso, ya sea confirmando, modificando o revocando dicha resolución.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+El incumplimiento de este precepto se considerará como una falta grave.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría Ejecutiva emitirá el acuerdo de recepción del recurso de revisión el mismo día en que se interpuso; en caso de que la recepción ocurra después de las quince horas, se tendrá por recibido con fecha del día hábil siguiente.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+Una vez recibido el recurso de revisión, la persona titular de la Secretaría Ejecutiva asignará por riguroso turno el expediente al Consejero que corresponda.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+El Secretario Ejecutivo hará del conocimiento del Consejero ponente el desarrollo de la tramitación del recurso de revisión en todas sus etapas, a efecto de que, en su caso, el ponente someta a consideración del Consejo General los acuerdos necesarios para garantizar el derecho de acceso a la información pública y el de protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+El acuerdo de admisión del recurso de revisión deberá hacerse dentro de los tres días hábiles siguientes al en que se hubiere recibido el recurso de revisión.
+
 ###### Artículo 73.
 
 En el caso de que el recurso se interponga ante la Unidad de Información, ésta turnará al Instituto el expediente relativo con todas sus constancias, en un plazo que no excederá de seis días hábiles, acompañando el informe con justificación, ofrecimiento de pruebas y alegatos si así lo desea, continuándose con el procedimiento que señala la Ley.
@@ -1105,7 +1141,9 @@ I.- Nombre del recurrente y, en su caso, el de su representante legal o mandatar
 
 II.- Señalar domicilio para oír y recibir notificaciones en la ciudad donde resida el Instituto.
 
-En el caso de que el recurso haya sido interpuesto por vía electrónica, señalará el domicilio para oír y recibir notificaciones por este mismo medio.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+En el caso de que el recurso haya sido interpuesto por vía electrónica, señalará el domicilio electrónico para oír y recibir notificaciones.
 
 En caso de no haber señalado domicilio para las notificaciones, aun las de carácter personal, se harán por medio de estrados.
 
@@ -1124,6 +1162,10 @@ VIII.- Ofrecer y aportar las pruebas que tengan relación directa con el acto o 
 ###### Artículo 78.
 
 Cuando el recurso se presente ante el Instituto, se estará a lo siguiente: Admitido el recurso, el Instituto formará un expediente y ordenará emplazar a la autoridad señalada como responsable, para que dentro del término de seis días hábiles, contados a partir del día siguiente de dicha notificación, produzca su contestación y aporte, en su caso, la justificación de su informe, las pruebas y los alegatos si así lo desea.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+Durante el procedimiento deberá aplicarse la suplencia de la deficiencia de la queja a favor del recurrente.
 
 ###### Artículo 79.
 
@@ -1248,6 +1290,12 @@ LIC. FERNANDO RODRÍGUEZ MORENO
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 5 DE JULIO DE 2008.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
