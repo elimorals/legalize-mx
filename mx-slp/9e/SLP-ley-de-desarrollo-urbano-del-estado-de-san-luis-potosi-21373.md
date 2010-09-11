@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2009-12-05"
+last_updated: "2010-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -163,7 +163,9 @@ XII. DESARROLLO URBANO: el conjunto armónico de acciones que se realicen para o
 
 XIII. DICTAMEN DE IMPACTO URBANO: es el documento mediante el cual, el Ayuntamiento, niega o condiciona con base en estudios elaborados al respecto por peritos en la materia, la realización de aquellas acciones urbanas que por su magnitud y sus efectos lo ameriten;
 
-XIV. EQUIPAMIENTO URBANO: los edificios y espacios acondicionados de utilización pública, general o restringida en los que se proporcionan a la población servicios de bienestar social. Considerando su cobertura se clasifica en regional, urbano y local;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
+XIV. EQUIPAMIENTO URBANO: el conjunto de edificaciones y espacios, predominantemente de uso público, en los que se realizan actividades complementarias a las de habitación y trabajo; y en las que se proporcionan a la población servicios de bienestar social y de apoyo a las actividades económicas. En función a las actividades o servicios específicos a que corresponden se clasifican en: equipamiento para la salud; educación; comercialización y abasto; cultura, recreación y deporte; administración, seguridad y servicios públicos;
 
 XV. (DEROGADA, P.O. 9 DE JULIO DE 2002)
 
@@ -3844,3 +3846,9 @@ P.O. 5 DE DICIEMBRE DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan a este Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones y ordenamientos legales y administrativas que se opongan al presente Decreto.
