@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-los-derechos-de-ninas-ninos-y-adolescentes-del-33373"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2003-08-14"
+last_updated: "2010-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -143,9 +143,11 @@ El Gobierno del Estado velará por el derecho fundamental de las niñas, niños 
 
 ### CAPITULO III. Del Derecho a la no Discriminación
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 13.
 
-Niñas, niños y adolescentes no podrán ser objeto de discriminación, por lo que la observancia de sus derechos se hará sin distinción alguna, independientemente de raza, color, sexo, idioma, religión, opinión, origen, posición económica, capacidades diferentes o cualquier otra condición de ellos, de sus padres, tutores o familiares.
+Niñas, niños y adolescentes no podrán ser objeto de discriminación, por lo que la observancia de sus derechos se hará sin distinción alguna, independientemente de raza, color, sexo, idioma, religión, opinión, origen, posición económica, discapacidad o cualquier otra condición de ellos, de sus padres, tutores o familiares.
 
 ###### ARTICULO 14.
 
@@ -678,3 +680,11 @@ El Secretario General de Gobierno
 LIC. MARCO ANTONIO ARANDA MARTINEZ
 
 (Rúbrica)
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+P.O. 11 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
