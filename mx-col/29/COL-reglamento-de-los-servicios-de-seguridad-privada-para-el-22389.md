@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-los-servicios-de-seguridad-privada-para-el-22389"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-27"
-last_updated: "2001-12-15"
+last_updated: "2010-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de octubre de 2001.
 
@@ -664,3 +666,9 @@ Dado en la Residencia del Poder Ejecutivo, en Palacio de Gobierno, a los 26 día
 P.O. 15 DE DICIEMBRE DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+SEGUNDO.- Se abroga el Reglamento de los Servicios de Seguridad Privada para el Estado de Colima, expedido el 27 de octubre del 2001 y publicado en el Periódico Oficial número 44, de fecha 27 del mismo mes y año, así como las disposiciones legales y reglamentarias que se opongan al presente Reglamento.
