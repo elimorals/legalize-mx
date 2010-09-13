@@ -4,7 +4,7 @@ identifier: "HID-ley-de-justicia-para-adolescentes-del-estado-de-hidalgo-51917"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-25"
-last_updated: "2010-08-09"
+last_updated: "2010-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 13 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO UNA VEZ QUE ENTRE EN VIGENCIA EL NUEVO CODIGO PROCESAL PENAL PARA EL ESTADO DE HIDALGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 25 de septiembre de 2006.
 
@@ -61,7 +63,7 @@ LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE HIDALGO
 
 ###### Artículo 1.
 
-Esta Leyes de orden público e interés general Tiene como objeto la creación del Sistema Integral de Justicia para Adolescentes, el cual se integra con los órganos, instancias, procedimientos, principios, derechos y garantías previstos y derivados de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, las Leyes Federales aplicables, la Constitución Política del Estado de Hidalgo, la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes en el Estado de Hidalgo y la presente Ley.
+Esta Ley es de orden público e interés general. Tiene como objeto la creación del Sistema Integral de Justicia para Adolescentes, el cual se integra con los órganos, instancias, procedimientos, principios, derechos y garantías previstos y derivados de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, las Leyes Federales aplicables, la Constitución Política del Estado de Hidalgo, la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes en el Estado de Hidalgo y la presente Ley.
 
 ###### Artículo 2.
 
@@ -2060,3 +2062,13 @@ P.O. 9 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
 
 SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 13 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente de la entrada en vigencia del nuevo Código Procesal Penal para el Estado de Hidalgo, que se emita de conformidad con las Reformas Constitucionales del 2008.
+
+SEGUNDO.- Una vez que entre en vigor la presente Ley, quedará abrogada la Ley de Justicia para Adolescentes del Estado de Hidalgo, publicada en el Periódico Oficial del Estado, el lunes 25 de septiembre de 2006.
+
+TERCERO.- Al entrar en vigor la presente Ley, quedarán derogadas todas las disposiciones legales que se le opongan.
+
+CUARTO.- Los procedimientos iniciados con la Ley anterior, continuarán su trámite con la misma.
