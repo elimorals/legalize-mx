@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estructura-y-operacion-del-fideicomiso-68696"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-01"
-last_updated: "2009-06-01"
+last_updated: "2010-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE ESTRUCTURA Y OPERACION DEL FIDEICOMISO COMPLEJO TRES CENTURIAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de junio de 2009.
 
@@ -195,6 +195,10 @@ El Director General del Fideicomiso, será designado por el propio Comité Técn
 
 El Director del Fideicomiso rendirá informe al comité técnico, cuando este lo solicite, con respecto a las facultades mencionadas anteriormente.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2010)</small>
+
+El Director General del Fideicomiso Complejo Tres Centurias, tendrá facultades para certificar las copias necesarias de los documentos que se emitan en atención a las funciones propias del Fideicomiso y en ausencia de éste, la Dirección Administrativa podrá certificar las mismas.
+
 ###### ARTÍCULO 14.
 
 Las responsabilidades del Director General serán las siguientes:
@@ -290,3 +294,11 @@ MIEMBROS DEL COMITÉ TECNICO
 9.- Comisario Suplente: C. P. ALEJANDRO SÁNCHEZ PEREZ, Auditor de la Contraloría General del Estado.
 
 Aprobado por el Comité Técnico del Fideicomiso Complejo Tres Centurias, en la ciudad de Aguascalientes, Aguascalientes a los once días del mes de Febrero del dos mil nueve.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. Las presentes reformas, entrarán en vigor el día trece de mayo (sic) del dos mil diez.
+
+SEGUNDO. Las peticiones que se hayan solicitado con anterioridad al inicio de la vigencia de las presentes reformas se resolverán conforme a la normatividad vigente.
