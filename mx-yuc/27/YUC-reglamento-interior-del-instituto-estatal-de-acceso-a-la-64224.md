@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-instituto-estatal-de-acceso-a-la-64224"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-24"
-last_updated: "2010-08-31"
+last_updated: "2010-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE SEPTIEMBRE DE 2010 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE YUCATAN
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE AGOSTO DE 2010.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 13 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 24 de octubre de 2008.
 
@@ -1433,17 +1433,15 @@ II. Se contarán por días hábiles, entendiéndose por estos los días a que se
 
 #### SECCIÓN PRIMERA. PROCEDIMIENTO PARA VIGILAR EL CUMPLIMIENTO DE LAS RESOLUCIONES DE LOS RECURSOS DE INCONFORMIDAD Y DE REVISIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE SEPTIEMBRE DE 2010 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O. 17 DE ABRIL DE 2009)</small>
 
 ###### Artículo 135.
 
 Para la aplicación de los medios de apremio y sanciones previstos en el artículo 56 de la Ley, n relación con el incumplimiento de las resoluciones de los recursos de inconformidad y de revisión o de cualquier otra resolución emitida por el Pleno del Consejo General, esté tiene que sujetarse al procedimiento siguiente:
 
-> <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2010)</small>
+> <small>(F. DE E., D.O. 13 DE SEPTIEMBRE DE 2010)</small>
 
-I. El inicio del presente procedimiento se llevará a cabo a través de la vista que el Secretario Ejecutivo le dé al Consejo o bien del recurso de revisión. Recibida la vista en cuestión, o de oficio por el Consejo, de manera inmediata se radicará, registrándolo bajo el número de expediente que le corresponda, en libro de gobierno y creando el expediente respectivo.
+I. El inicio del presente procedimiento se llevará a cabo a través de la vista que el Secretario Ejecutivo le dé al Consejo, en el caso del recurso de inconformidad, o de oficio, en el caso de cualquier otra resolución del Consejo o bien del recurso de revisión. Recibida la vista en cuestión, o de oficio por el Consejo, de manera inmediata se radicará, registrándolo bajo el número de expediente que le corresponda, en el libro de gobierno y creando el expediente respectivo;
 
 > <small>(REFORMADA, D.O. 31 DE AGOSTO DE 2010)</small>
 
