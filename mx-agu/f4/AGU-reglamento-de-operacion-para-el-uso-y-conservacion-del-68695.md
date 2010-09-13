@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-operacion-para-el-uso-y-conservacion-del-68695"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-01"
-last_updated: "2009-06-01"
+last_updated: "2010-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE OPERACION PARA EL USO Y CONSERVACION DEL FIDEICOMISO COMPLEJO TRES CENTURIAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de junio de 2009.
 
@@ -365,11 +365,11 @@ Toda persona que pretenda hacer uso de alguna de las instalaciones del Fideicomi
 
 La reservación de fechas para eventos, serán realizadas sujetas a los términos siguientes:
 
-A) Para el caso de congresos y exposiciones, las fechas podrán ser reservadas con más de un año de anticipación a la realización del evento.
+A) (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
-B) Para el caso especial de Graduaciones, las fechas podrán ser reservadas con máximo un año de anticipación a la realización del evento.
+B) (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
-C) Para el caso de otro tipo de eventos diversos a los enunciados en los incisos A) y B), las fechas podrán ser apartadas con un máximo de seis meses de anticipación a la realización del evento.
+C) (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
 La reservación de las fechas será exclusivamente mediante la firma del contrato correspondiente, con las firmas autorizadas.
 
@@ -399,15 +399,15 @@ Toda persona que contrate espacios, para realizar eventos, dentro del complejo t
 
 7.-Cédula CURP
 
-8.- Factura Cancelada
+8.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
 9.- Comprobante de domicilio
 
-10.- Declaración anual del lSR correspondiente al ano inmediato anterior
+10.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
-11.- Registro patronal ante el IMSS
+11.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
-12.- Registro de al menos 2 colaboradores de la empresa ante el IMSS
+12.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
 13.- Carta compromiso para el manejo de materiales, alimentos, montaje y desmontaje de eventos (en la misma se deberán especificar con claridad los compromisos del proveedor en los puntos anteriores y que deberán ser un requisito a cubrir por cada uno).
 
@@ -415,23 +415,15 @@ Toda persona que contrate espacios, para realizar eventos, dentro del complejo t
 
 Para la realización de eventos en el Complejo Tres Centurias, el interesado deberá cumplir sin excepción con:
 
-I.- Los elementos de seguridad, bomberos, protección civil, y servicio médico, que estime necesarios de acuerdo al tipo de evento que se realice;
+I.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
-II.- Una unidad médica durante la realización del evento la cual deberá presentarse cuando menos una hora antes de iniciar el evento correspondiente;
+II.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
-III.- Suscribir carta responsiva de responder de los daños y perjuicios que ocasione por la realización de dicho evento;
+III.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
 IV.- Las autorizaciones municipales correspondientes a la venta de bebidas alcohólicas y/o de espectáculos, se entregarán a la Administración cuando menos con tres días de anticipación a la celebración del evento;
 
-V.- La entrega de un plan de logística del evento, el cual será entregado a la Administración en el término que ésta considere conveniente de acuerdo a la magnitud de cada evento y éste será establecido en el contrato correspondiente; en el cual se deberá de contemplar entre otras:
-
-a) la distribución de stands para determinar las áreas sujetas a renta, espacios mínimos para pasillo, rutas de evacuación y salidas de emergencia que deberán considerarse en el plano definitivo que será autorizado por el Fideicomiso, el cual deberá de cumplir entre otros con los siguientes lineamientos, referentes a espacios y usos:
-
-1.- El ancho de los pasillos en ningún caso podrá ser menor de 2.40 metros y deberán mantenerse libres de obstáculos, de mercancías de Expositores y / o de instalaciones adicionales. En los casos en que por el tipo de modulación o montajes especiales no proceda esta disposición, el fideicomiso se reserva el derecho de autorizar o determinar lo conveniente, por razones de seguridad.
-
-2.- Proporcionar ubicación e instalación de área de registro.
-
-3.- La instalación de elementos promociónales y decorativos así como la exhibición y registro exterior en tales áreas, queda sujeta a autorización por escrito de la Dirección General.
+V.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2010)
 
 VI.- Proporcionar a la Administración, cuando así se requiera, el programa de montaje y desmontaje de los mismos, dichos términos serán establecidos por la Administración en el contrato respectivo, de acuerdo al tipo de evento;
 
@@ -473,7 +465,9 @@ Las contraprestaciones que se cobrarán por la celebración de eventos en el Com
 
 Con el fin de garantizar las fechas reservadas, en los diferentes espacios del Fideicomiso Complejo Tres Centurias, se deberá tener cubierto el depósito correspondiente de acuerdo a las siguientes condiciones.
 
-1.- Anticipo mínimo obligatorio del 50% por evento.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2010)</small>
+
+I (SIC).- Anticipo mínimo obligatorio del 30% (treinta por ciento) del valor total por evento; y
 
 2.- Liquidación total 15 días antes del evento. (Una sola exhibición).
 
@@ -900,3 +894,11 @@ MIEMBROS DEL COMITÉ TECNICO
 9.- Comisario Suplente: C. P. ALEJANDRO SÁNCHEZ PEREZ, Auditor de la Contraloría General del Estado.
 
 Aprobado por el Comité Técnico del Fideicomiso Complejo Tres Centurias, en la ciudad de Aguascalientes, Aguascalientes a los once días del mes de Febrero del dos mil nueve.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Las presentes reformas, entrarán en vigor el día trece de mayo (sic) del dos mil diez.
+
+SEGUNDO.- Las peticiones que se hayan solicitado con anterioridad al inicio de la vigencia de las presentes reformas se resolverán conforme a la normatividad vigente.
