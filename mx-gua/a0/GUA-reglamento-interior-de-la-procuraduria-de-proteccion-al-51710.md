@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-procuraduria-de-proteccion-al-51710"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-08"
-last_updated: "2009-08-14"
+last_updated: "2010-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA PROCURADURIA DE PROTECCION AL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de septiembre de 2006.
 
@@ -265,53 +265,35 @@ X.- Otorgar y revocar los poderes generales o especiales, que considere pertinen
 
 ### CAPÍTULO CUARTO. DE LA ESTRUCTURA ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 20.
 
-Para el estudio planeación y despacho de los asuntos de su competencia, la Procuraduría contará con la siguiente estructura administrativa:
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Procuraduría contará con la siguiente estructura administrativa:
 
-I.- Procurador;
+I.- Procurador:
 
-II.- Dirección de Auditoría y Autorregulación Ambiental:
+a) Coordinación Administrativa;
 
-a) Coordinación de Auditoría Ambiental; y
+b) Coordinación de Comunicación Social;
 
-b) Coordinación de Autorregulación Ambiental;
+c) Coordinación de Conservación y Contingencias; y
+
+d) Coordinación de Planeación;
+
+II.- Dirección de Gestión Ambiental:
+
+a) Coordinación de Auditoría y Autorregulación Ambiental;
+
+b) Coordinación de Visitas; y
+
+c) Coordinación de Dictamen;
 
 III.- Dirección Jurídica:
 
-a) Coordinación de lo Contencioso y Denuncia Popular;
+a) Coordinación de Asesoría Jurídica y Denuncia Ambiental; y
 
-b) Coordinación de Observancia y Cumplimiento Normativo; y
-
-c) Coordinación de Procedimientos Jurídico-Administrativos;
-
-IV.- Dirección de Administración y Finanzas:
-
-a) Coordinación de Contabilidad y Presupuesto; y
-
-b) Coordinación de Recursos Humanos y Materiales;
-
-V.- Dirección de Verificación Normativa:
-
-a) Coordinación de los Sectores Primarios y Procesos Extractivos;
-
-b) Coordinación de Sectores Servicios y Comercio;
-
-c) Coordinación del Sector Industria; y
-
-d) Coordinación del Sector Áreas Naturales Protegidas;
-
-VI.- Dirección de Difusión, Educación y Comunicación Ambiental:
-
-a) Coordinación de Vinculación y Educación Ambiental; y
-
-VII.- Dirección de Planeación y Política Ambiental:
-
-a) Coordinación de Planeación y Mejora Continua.
-
-La Procuraduría podrá contar con las unidades administrativas que requieran las necesidades del servicio y que permita su presupuesto.
+b) Coordinación de Procedimientos Jurídicos.
 
 ### CAPÍTULO QUINTO. DE LAS FACULTADES GENERALES DE LOS DIRECTORES
 
@@ -341,59 +323,129 @@ X.- Representar al Procurador en las reuniones, actos o comisiones que le sean a
 
 XI.- Las demás que les confiera el Procurador.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPÍTULO SEXTO. DE LA DIRECCIÓN DE AUDITORÍA Y AUTORREGULACIÓN AMBIENTAL
+### CAPÍTULO SEXTO. DE LA DIRECCIÓN DE GESTIÓN AMBIENTAL
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 22.
 
-La Dirección de Auditoría y Autorregulación Ambiental deberá planear, dirigir y supervisar, el trabajo de las siguientes coordinaciones:
+La Dirección de Gestión Ambiental deberá planear, apoyar, dirigir y supervisar, el trabajo de las siguientes coordinaciones:
 
-I.- Coordinación de Auditoría Ambiental; y
+I.- Coordinación de Auditoría y Autorregulación Ambiental;
 
-II.- Coordinación de Autorregulación Ambiental.
+II.- Coordinación de Visitas; y
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+III.- Coordinación de Dictamen.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
-La Dirección de Auditoría y Autorregulación Ambiental tendrá las siguientes facultades:
+La Dirección de Gestión Ambiental, tendrá las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 I.- Promover y difundir en la (sic) empresas, instituciones u organismos la adopción de los esquemas de autocumplimiento ambiental;
 
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
 II.- Aprobar, con base en el resultado de los esquemas de autocumplimiento ambiental, las medidas preventivas, acciones, proyectos, obras y programas que deberán realizar las empresas, instituciones u organismos, así como los plazos para su cumplimiento;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 III.- Establecer los términos y condiciones que deberán ejecutar las empresas, instituciones u organismos, en los esquemas de autocumplimiento;
 
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
 IV.- Desarrollar programas de capacitación en los esquemas de autocumplimiento ambiental;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 V.- Dirigir y organizar la promoción de los objetivos de los esquemas de autocumplimiento ambiental mediante capacitaciones, reuniones y congresos;
 
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
 VI.- Instrumentar un sistema de reconocimientos y estímulos que permitan identificar a las empresas, instituciones u organismos que cumplan oportunamente con los compromisos establecidos en los convenios;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 VII.- Promover la conformación de agrupaciones del sector empresarial para que se incorporen y cumplan con los esquemas de autocumplimiento;
 
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
 VIII.- Aprobar y señalar las empresas, instituciones u organismos postulantes para obtener el certificado correspondiente, derivado del cumplimiento de los convenios bajo el esquema de autocumplimiento ambiental;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 IX.- Coordinar los eventos para la entrega de los certificados correspondientes;
 
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
 X.- Establecer la metodología necesaria para la celebración y seguimiento de los convenios de autocumplimiento ambiental;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 XI.- Diseñar y elaborar los términos a que se sujetarán las empresas u organismos que se sometan a la auditoría ambiental, así como los mecanismos de refrendo de la certificación de auditoría; y
 
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+
 XII.- Integrar el Padrón de Prestadores de Servicios Ambientales en materia de auditoría ambiental y otorgar el registro para aquéllos que cumplan con los requisitos establecidos para tal fin.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XIII.- Formular la política general de inspección y vigilancia para el cumplimiento de la normativa ambiental en las materias de su competencia;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XIV.- Supervisar las visitas de inspección y vigilancia de oficio o con motivo de una denuncia popular que realice la Coordinación de Visitas, en los siguientes sectores:
+
+a) Impacto ambiental y riesgo;
+
+b) Manejo integral de residuos de competencia estatal;
+
+c) Prevención y control de la contaminación del agua y suelo; y
+
+d) Prevención y control de la contaminación por ruido, olores, vibraciones;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XV.- Revisar y aprobar los dictámenes técnicos derivados de la Coordinación de Dictamen, así como las medidas preventivas y correctivas que deberán adoptarse para disminuir y evitar la contaminación ambiental, con motivo de las visitas de inspección y vigilancia realizadas;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XVI.- Proponer y elaborar un control administrativo de la documentación que ingrese a la Procuraduría de Protección al Ambiente del Estado en materia de impacto ambiental y riesgo, así como dar el seguimiento correspondiente;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XVII.- Programar y efectuar las inspecciones derivadas de denuncias en materia de impacto ambiental y riesgo;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII.- Aportar los elementos técnicos a la Dirección Jurídica, para la elaboración de las resoluciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XIX.- Establecer los mecanismos para regularizar las actividades de los establecimientos con motivo de la inobservancia a la normativa ambiental;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XX.- Dar seguimiento a las gestiones realizadas por la Coordinación de Auditoría y Autorregulación Ambiental para la firma de convenios con las empresas sobre los esquemas de autocumplimiento, así como para verificar los procesos a que se sometan de manera voluntaria; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XXI.- Participar, conjuntamente con la Coordinación de Comunicación Social, en la difusión de sus actividades.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 24.
 
-La Coordinación de Auditoría Ambiental tendrá las siguientes facultades:
+La Coordinación de Auditoría y Autorregulación Ambiental tendrá las siguientes facultades:
 
 I.- Diseñar y ejecutar acciones para la promoción y concertación de la realización de auditorías ambientales voluntarias con las empresas de competencia estatal;
 
-II.- Proponer y desarrollar actividades coordinadas con las áreas de la Dirección de Verificación Normativa, para la promoción de auditorías ambientales voluntarias en empresas, instituciones u organismos para incorporarlas a dicho proceso;
+II.- Proponer y desarrollar actividades conjuntas con la Coordinación de Visitas, para la promoción de auditorías ambientales voluntarias en empresas, instituciones u organismos para incorporarlas a dicho proceso;
 
 III.- Proponer y establecer las acciones para revisar y evaluar los planes e informes del proceso de auditoría ambiental para su posterior aprobación;
 
@@ -403,177 +455,165 @@ V.- Establecer, operar y actualizar sistemas de seguimiento para los procedimien
 
 VI.- Diseñar, coordinar y ejecutar las acciones para dar seguimiento al cumplimiento de los convenios de concertación de acciones de auditoría ambiental celebrados con las empresas o establecimientos;
 
-VII.- Someter a consideración de la Dirección de Auditoría y Autorregulación Ambiental, las empresas, instituciones u organismos postulantes para certificarse en materia de auditoría ambiental;
+VII.- Someter a consideración de la Dirección de Gestión Ambiental, las empresas, instituciones u organismos postulantes para certificarse en materia de auditoría ambiental;
 
-VIII.- Proponer el retiro del certificado de auditoría ambiental cuando no se cumpla con sus condicionantes de uso; y
+VIII.- Proponer el retiro del certificado de auditoría ambiental cuando no se cumpla con sus condicionantes de uso;
 
-IX.- Las demás que le confiera el Director de Auditoría y Autorregulación Ambiental.
+IX.- Diseñar, coordinar y ejecutar las acciones para la promoción y concertación de convenios de autorregulación con las empresas, instituciones u organismos;
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+X.- Proponer al Director de Gestión Ambiental el establecimiento de convenios y estrategias con las autoridades de los tres ámbitos de gobierno para fortalecer y facilitar el cumplimiento de la normatividad ambiental;
+
+XI.- Elaborar la metodología y criterios requeridos para establecer las medidas de prevención necesarias en el proceso de autorregulación ambiental;
+
+XII.- Desarrollar las guías de autorregulación que permitan a las empresas, instituciones u organismos, dar cumplimiento a la normatividad ambiental;
+
+XIII.- Diseñar, coordinar y ejecutar las estrategias para dar seguimiento al cumplimiento de los convenios de concertación de acciones de autorregulación ambiental celebrados con las empresas o establecimientos;
+
+XIV.- Coordinarse con la Dirección Jurídica, para el seguimiento de los compromisos adquiridos en los convenios suscritos con la Procuraduría;
+
+XV.- Diseñar conjuntamente con la Dirección Jurídica, los convenios de autorregulación;
+
+XVI.- Poner a consideración del Director de Gestión Ambiental el certificado que ampare el cumplimiento de la autorregulación; y
+
+XVII.- Las demás que le confiera el Director de Gestión Ambiental.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 25.
 
-La Coordinación de Autorregulación Ambiental tendrá las siguientes facultades:
+La Coordinación de Visitas tendrá las siguientes facultades:
 
-I.- Diseñar, coordinar y ejecutar las acciones para la promoción y concertación de convenios de autorregulación con las empresas, instituciones u organismos;
+I.- Diseñar y coordinar las acciones para dar cumplimiento a las órdenes de inspección y de vigilancia, con motivo de las resoluciones, autorizaciones, permisos, licencias o de cualquier normativa ambiental;
 
-II.- Proponer al Director de Auditoría y Autorregulación Ambiental el establecimiento de convenios y estrategias con las autoridades de los tres ámbitos de gobierno para fortalecer y facilitar el cumplimiento de la normatividad ambiental;
+II.- Ejecutar las órdenes de inspección y vigilancia que procedan de oficio o las derivadas de la atención a la denuncia popular que tengan por objeto constatar el cumplimiento de condicionantes derivadas de autorizaciones o resoluciones emitidas;
 
-III.- Elaborar la metodología y criterios requeridos para establecer las medidas de prevención necesarias en el proceso de autorregulación ambiental;
+III.- Ejecutar las medidas de seguridad que procedan, cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación con repercusiones dañinas para los ecosistemas, derivado de actividades de los distintos sectores;
 
-IV.- Desarrollar las guías de autorregulación que permitan a las empresas, instituciones u organismos dar cumplimiento de la normatividad ambiental;
+IV.- Elaborar acciones, en coordinación con las autoridades federales, estatales y municipales, para promover el cumplimiento de la normatividad ambiental por parte de los diferentes sectores;
 
-V.- Diseñar, coordinar y ejecutar las estrategias para dar seguimiento al cumplimiento de los convenios de concertación de acciones de autorregulación ambiental celebrados con las empresas o establecimientos;
+V.- Formular los sistemas de registro sobre el avance, seguimiento y cumplimiento a la normatividad ambiental, derivados de los mecanismos implementados para la regularización de los diferentes sectores; y
 
-VI.- Coordinarse con las direcciones de Verificación Normativa y Jurídica, para el seguimiento de los compromisos adquiridos en los convenios suscritos con la Procuraduría;
+VI.- Las demás que le confiera el Director de Gestión Ambiental.
 
-VII.- Diseñar conjuntamente con la Dirección Jurídica los convenios de autorregulación;
-
-VIII.- Poner a consideración del Director de Auditoría y Autorregulación Ambiental el certificado que ampare el cumplimiento de la autorregulación; y
-
-IX.- Las demás que le confiera el Director de Auditoría y Autorregulación Ambiental.
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
-La Dirección Jurídica deberá planear, apoyar, dirigir y supervisar, el trabajo de las siguientes coordinaciones:
+La Coordinación de Dictamen tendrá las siguientes facultades:
 
-I.- (DEROGADA, P.O. 14 DE AGOSTO DE 2009).
+I.- Elaborar dictámenes e informes técnicos conforme a la normativa ambiental, aplicando los criterios técnicos para la determinación de las sanciones por infracciones a la misma;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+II.- Indicar las medidas de control, restauración y compensación para subsanar los daños y las irregularidades detectadas en establecimientos y actividades de los distintos sectores, derivados de las visitas de inspección y vigilancia;
 
-II.- Coordinación de lo Contencioso y Denuncia Popular;
+III.- Emitir las medidas de seguridad que procedan, cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación con repercusiones dañinas para los ecosistemas, derivado de actividades de los distintos sectores;
 
-III.- Coordinación de Observancia y Cumplimiento Normativo; y
+IV.- Diseñar y elaborar los controles administrativos derivados de visitas de inspección y vigilancia;
 
-IV.- Coordinación de Procedimientos Jurídico-Administrativos.
+V.- Formular los sistemas de registro sobre el avance, seguimiento y cumplimiento a la normatividad ambiental, derivados de los mecanismos implementados para la regularización de los diferentes sectores; y
+
+VI.- Las demás que le confiera el Director de Gestión Ambiental.
 
 ### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN JURÍDICA
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 27.
+
+La Dirección Jurídica deberá planear, dirigir y supervisar, el trabajo de las siguientes coordinaciones:
+
+I.- Coordinación de Asesoría Jurídica y Denuncia Ambiental; y
+
+II.- Coordinación de Procedimientos Jurídicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 28.
 
 La Dirección Jurídica tendrá las siguientes facultades:
 
-I.- Representar jurídicamente a la Procuraduría en los asuntos que se tramiten ante los tribunales del fuero común y federal y diversas autoridades;
+I.- Representar jurídicamente a la Procuraduría en los asuntos que se tramiten ante los tribunales del fuero común y federal o diversas autoridades;
 
 II.- Coordinarse con el Instituto de Ecología del Estado para coadyuvar en la elaboración de proyectos para la creación y modificación de la normativa ambiental en el Estado;
 
-III.- Establecer un tabulador para determinar la imposición de sanciones administrativas que refiere la normativa ambiental, por violaciones a la misma;
+III.- Establecer un tabulador que sirva de referencia para determinar la imposición de sanciones administrativas que refiere la normativa ambiental, por violaciones a la misma;
 
 IV.- Supervisar y revisar el desarrollo de los procedimientos jurídico-administrativos con motivo de la aplicación de la normativa ambiental en el Estado;
 
-V.- Revisar y someter a la consideración del Procurador para sus (sic) suscripción los instrumentos jurídicos y proyectos de resolución, que se susciten con motivo de las funciones de la Procuraduría;
+V.- Revisar y someter a la consideración del Procurador para su suscripción, los instrumentos jurídicos y proyectos de resolución, que se susciten con motivo de las funciones de la Procuraduría;
 
 VI.- Atender y desahogar las etapas procesales de los procedimientos y procesos jurisdiccionales en que la Procuraduría sea parte;
 
 VII.- Atender y dar trámite a las denuncias populares que conozca la Procuraduría;
 
-VIII.- Suscribir en ausencia del Procurador los informes que dicho funcionario deba rendir ante las autoridades judiciales;
+VIII.- Suscribir en ausencia del Procurador los informes que dicho funcionario deba rendir ante las autoridades competentes;
 
-IX.- Presentar, previo acuerdo con el Procurador, denuncias y querellas ante el Ministerio Público por hechos u omisiones en que se presuma la comisión de delitos, que afecten al ambiente o el interés jurídico de la Procuraduría, así como desistirse y otorgar perdón, cuando así proceda; y
+IX.- Presentar o ratificar, previo acuerdo con el Procurador, denuncias y querellas ante el Ministerio Público por hechos u omisiones en que se presuma la comisión de delitos, que afecten al ambiente o el interés jurídico de la Procuraduría, así como desistirse y el otorgar perdón, cuando así proceda; y
 
 X.- Fijar y difundir los criterios generales para interpretar y aplicar las disposiciones jurídicas que normen el funcionamiento y actuaciones de la Procuraduría.
 
-###### Artículo 28.
-
-(DEROGADO, P.O. 14 DE AGOSTO DE 2009)
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 29.
 
-La Coordinación de lo Contencioso y Denuncia Popular, tendrá las siguientes facultades:
+La Coordinación de Asesoría Jurídica y Denuncia Ambiental tendrá las siguientes facultades:
 
-I.- Formular los proyectos de demandas, denuncias, querellas, contestaciones, recursos y todas las promociones que sean necesarias hasta que concluyan los procesos;
+I.- Dar trámite a las denuncias populares presentadas ante la Procuraduría, así como las que hayan sido canalizadas por otra autoridad;
 
-II.- Informar al Director General sobre el estado procesal que guardan los asuntos que le son encomendados;
+II.- Notificar al denunciante el trámite y estado que guarda su denuncia;
 
-III.- Elaborar los proyectos de resolución sobre el recurso previsto en la Ley Ambiental;
+III.- Elaborar los proyectos de convenios y contratos que suscriba el Procurador, necesarios para el desarrollo de sus atribuciones;
 
-IV.- Elaborar los proyectos de informes que le sean requeridos a la Procuraduría por cualquier autoridad;
+IV.- Capacitar a los municipios en coordinación con la Dirección de Gestión Ambiental, en relación a los procesos de municipalización;
 
-V.- Representar a la Procuraduría en las diligencias donde el Procurador o el Director Jurídico, lo hayan autorizado;
+V.- Elaborar actas, minutas y demás documentos de control interno necesarios, para la debida constancia de las acciones de la Procuraduría;
 
-VI.- Formular los proyectos de recomendaciones en materia ambiental que suscriba el Procurador; y
+VI.- Proporcionar asesoría y apoyo en las visitas de inspección y vigilancia que se practiquen con motivo de una denuncia popular;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+VII.- Proponer y coadyuvar con las diferentes autoridades estatales en la elaboración de proyectos para la creación y modificación de la normativa ambiental en el Estado;
 
-VII.- Elaborar los proyectos de respuesta a las solicitudes de acceso a la información pública;
+VIII.- Dar seguimiento al cumplimiento de los convenios y contratos formalizados por la Procuraduría; y
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+IX.- Las demás que le confiera el Director Jurídico.
 
-VIII.- Asesorar a las unidades administrativas de la Procuraduría en la interpretación y aplicación de las disposiciones jurídicas aplicables;
-
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-IX.- Dar trámite a las denuncias populares presentadas ante la Procuraduría, así como las que le hayan sido canalizadas por otra autoridad;
-
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-X.- Notificar al denunciante el trámite y estado que guarda su denuncia; y
-
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-XI.- Las demás que le confiera el Director Jurídico.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 30.
 
-La Coordinación de Observancia y Cumplimiento Normativo tendrá las siguientes facultades:
+La Coordinación de Procedimientos Jurídicos tendrá las siguientes facultades:
 
-I.- Elaborar los proyectos de convenios y contratos que suscriba el Procurador, necesarios para el desarrollo de sus atribuciones;
+I.- Formular los proyectos de demandas, denuncias, querellas, contestaciones, recursos y todas las promociones que sean necesarias hasta que concluyan los procesos, en los que la Procuraduría sea parte;
 
-II.- Capacitar a los municipios en coordinación con la Dirección de Verificación Normativa, en relación a los procesos de municipalización;
+II.- Representar a la Procuraduría en las diligencias donde el Procurador o el Director Jurídico lo hayan designado;
 
-III.- Elaborar actas, minutas y demás documentos de control interno necesarios, para la debida constancia de las acciones de la Procuraduría;
+III.- Informar al Director Jurídico sobre el estado procesal que guardan los asuntos que le son encomendados;
 
-IV.- Proponer y coadyuvar con las diferentes autoridades estatales en la elaboración de proyectos para la creación y modificación de la normativa ambiental en el Estado;
+IV.- Formular los proyectos de recomendaciones en materia ambiental que suscriba el Procurador;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+V.- Elaborar los proyectos de respuesta a las solicitudes de acceso a la información pública;
 
-V.- Dar seguimiento al cumplimiento de los convenios y contratos formalizados por la Procuraduría; y
+VI.- Asesorar a las unidades administrativas de la Procuraduría en la interpretación y aplicación de las disposiciones jurídicas aplicables;
 
-VI.- Las demás que le confiera el Director Jurídico.
+VII.- Sustanciar en el ámbito de su competencia los procedimientos jurídico-administrativos previstos en la normativa ambiental;
 
-### CAPÍTULO OCTAVO. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
+VIII.- Elaborar los proyectos de resolución de los procedimientos con motivo de la aplicación de la Ley Ambiental;
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+IX.- Proporcionar asesoría y apoyo en las visitas de inspección y vigilancia que se practiquen de oficio;
+
+X.- Integrar los expedientes de los procedimientos jurídico-administrativos y proponer la conclusión de los mismos; y
+
+XI.- Las demás que le confiera el Director Jurídico.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO OCTAVO. DE LAS COORDINACIONES ADSCRITAS AL PROCURADOR
+
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 31.
 
-La Coordinación de Procedimientos Jurídico-Administrativos tendrá las siguientes facultades:
+La Coordinación Administrativa tendrá las siguientes facultades:
 
-I.- Sustanciar en el ámbito de su competencia los procedimientos jurídico-administrativos previstos en la normativa ambiental, con excepción del de denuncia popular;
-
-II.- Elaborar los proyectos de resolución de los procedimientos jurídico-administrativos con motivo de la aplicación de la Ley Ambiental, con excepción del de denuncia popular;
-
-III.- Proporcionar asesoría y apoyo en las visitas de inspección y vigilancia que se practiquen de oficio;
-
-IV.- Integrar los expedientes de los procedimientos jurídico-administrativos e informar a la Dirección Jurídica sobre el estado que guardan los mismos; y
-
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-V.- Proponer al Director Jurídico la conclusión de los expedientes; y
-
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-VI.- Las demás que le confiera el Director Jurídico.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2009)</small>
-
-###### Artículo 32.
-
-La Dirección de Administración y Finanzas deberá planear, dirigir y supervisar el trabajo de las siguientes coordinaciones:
-
-I.- Coordinación de Contabilidad y Presupuesto; y
-
-II.- Coordinación de Recursos Humanos y Materiales.
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-###### Artículo 33.
-
-La Dirección de Administración y Finanzas tendrá las siguientes facultades:
-
-I.- Administrar los recursos financieros, materiales y humanos con que cuenta la Procuraduría;
+I.- Administrar los recursos financieros, materiales y humanos con que cuente la Procuraduría;
 
 II.- Realizar la integración del anteproyecto de presupuesto de egresos de la Procuraduría;
 
@@ -581,173 +621,43 @@ III.- Vigilar que el manejo y aplicación de los recursos se realice conforme a 
 
 IV.- Integrar los informes financieros mensuales y anuales conforme a las disposiciones legales establecidas;
 
-V.- Aplicar los lineamientos, normas y disposiciones relacionadas con la adquisición de bienes muebles e inmuebles y servicios, conservación, uso, destino, baja de bienes muebles e inmuebles;
+V.- Aplicar los lineamientos, normas y disposiciones relacionadas con los trámites para la adquisición de bienes muebles e inmuebles y servicios, así como la conservación, uso, destino y baja de los mismos;
 
-VI.- Supervisar la actualización del inventario de muebles e inmuebles propiedad de la Procuraduría;
+VI.- Elaborar y mantener actualizado el inventario de muebles e inmuebles propiedad de la Procuraduría, a efecto de llevar un registro y control de los mismos, vigilando su adecuado uso y conservación;
 
-VII.- Vigilar el cumplimiento de las disposiciones legales que regulan las relaciones laborales de la Procuraduría;
+VII.- Vigilar el cumplimiento de las disposiciones legales que regulen las relaciones laborales de la Procuraduría;
 
 VIII.- Participar en los procesos de entrega-recepción que se realicen al interior de la Procuraduría;
 
-IX.- Participar y dar seguimiento a las auditorias internas y externas que se practiquen a la Procuraduría; y
+IX.- Participar y dar seguimiento a las auditorías internas y externas que se practiquen a la Procuraduría;
 
-X.- Dirigir el programa anual de capacitación y desarrollo del personal.
+X.- Atender y coordinar las actividades financieras y presupuestales que permitan efectuar la planeación y dar cumplimiento a las metas y compromisos adquiridos por la Procuraduría de conformidad con el Plan Estatal de Desarrollo y el Plan de Gobierno;
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+XI.- Realizar adecuaciones y traspasos presupuestales, conforme a los lineamientos emitidos por la Secretaría de Finanzas y Administración;
 
-###### Artículo 34.
+XII.- Efectuar los registros contables y elaborar los estados financieros de la Procuraduría;
 
-La Coordinación de Contabilidad y Presupuesto tendrá las siguientes facultades:
+XIII.- Programar y elaborar los pagos a proveedores y acreedores de la Procuraduría;
 
-I.- Atender y coordinar las actividades financieras y presupuestales que permitan efectuar la planeación y dar cumplimiento a las metas y compromisos adquiridos por la Procuraduría de conformidad con el Plan Estatal de Desarrollo y el Plan de Gobierno;
+XIV.- Administrar y controlar el fondo revolvente de la Procuraduría;
 
-II.- Apoyar a la Dirección de Administración y Finanzas en la integración del anteproyecto del presupuesto de egresos de la Procuraduría;
+XV.- Formular planes y programas de recursos humanos, reclutamiento, selección y capacitación del personal de la Procuraduría;
 
-III.- Realizar adecuaciones y traspasos presupuestales, conforme a los lineamientos emitidos por la Secretaría de Finanzas y Administración;
+XVI.- Elaborar, capturar y realizar el pago de nómina del personal de base y eventual de la Procuraduría;
 
-IV.- Efectuar los registros contables y elaborar los estados financieros de la Procuraduría;
+XVII.- Vigilar la correcta aplicación de la normativa en controles internos establecidos en la Procuraduría, en materia de recursos humanos;
 
-V.- Programar y elaborar los pagos a proveedores y acreedores de la Procuraduría;
+XVIII.- Promover y coordinar la capacitación de las áreas de la Procuraduría con el propósito de elevar su efectividad operativa, en materia de reingeniería, calidad y desarrollo del personal;
 
-VI.- Administrar y controlar el fondo revolvente de la Procuraduría; y
+XIX.- Tramitar los permisos económicos, licencias y demás prestaciones del personal de la Procuraduría; y
 
-VII.- Las demás que le confiera el Director de Administración y Finanzas.
+XX.- Las demás que le confiera el Procurador.
 
-###### Artículo 35.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-La Coordinación de Recursos Humanos y Materiales tendrá las siguientes facultades:
+###### Artículo 32.
 
-I.- Formular planes y programas de recursos humanos, reclutamiento, selección y capacitación del personal de la Procuraduría;
-
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-II.- Elaborar, capturar y realizar el pago de nómina del personal de base y eventual de la Procuraduría;
-
-III.- Vigilar la correcta aplicación de la normatividad en controles internos establecidos en la Procuraduría, en materia de recursos humanos;
-
-IV.- Promover y coordinar la capacitación de las áreas de la Procuraduría con el propósito de elevar su efectividad operativa, en materia de reingeniería, calidad y desarrollo del personal;
-
-V.- Tramitar los permisos económicos, licencias y demás prestaciones del personal de la Procuraduría;
-
-VI.- Elaborar y mantener actualizado el Inventario de los bienes muebles de la Procuraduría, a efecto de llevar un registro y control de los mismos, vigilando su adecuado uso y conservación;
-
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-VII.- Realizar el trámite de las adquisiciones de bienes muebles e inmuebles que requiera la Procuraduría;
-
-VIII.- Operar y prestar los servicios de mantenimiento, conservación, reparación y acondicionamiento de los bienes muebles e inmuebles al servicio de la Procuraduría, así como promover todo tipo de mejoras; y
-
-IX.- Las demás que le confiera el Director de Planeación Administrativa.
-
-###### Artículo 36.
-
-(DEROGADO, P.O. 14 DE AGOSTO DE 2009)
-
-### CAPÍTULO NOVENO. DE LA DIRECCIÓN DE VERIFICACIÓN NORMATIVA
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-###### Artículo 37.
-
-La Dirección de Verificación Normativa deberá planear, dirigir y supervisar, el trabajo de las siguientes coordinaciones:
-
-I.- Coordinación de los Sectores Primarios y de Procesos Extractivos;
-
-II.- Coordinación de los Sectores Servicios y Comercio;
-
-III.- Coordinación del Sector Industria; y
-
-IV.- Coordinación del Sector Áreas Naturales Protegidas.
-
-###### Artículo 38.
-
-La Dirección de Verificación Normativa tendrá las siguientes facultades:
-
-I.- Formular la política general de inspección y vigilancia para el cumplimiento de la normatividad ambiental en las materias de su competencia;
-
-II.- Supervisar el cumplimiento de la aplicación de las medidas de prevención, control, mitigación y restauración señaladas en las resoluciones, autorizaciones, permisos y licencias derivadas de la legislación ambiental;
-
-III.- Supervisar las visitas de inspección y vigilancia de oficio o con motivo de una denuncia popular de las unidades administrativas a su cargo, en las siguientes materias:
-
-a) Impacto ambiental y riesgo;
-
-b) Prevención y control de la contaminación de la atmósfera;
-
-c) Manejo integral de residuos de competencia estatal;
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-d) Prevención y control de la contaminación del agua y suelo;
-
-e) En áreas naturales protegidas de competencia estatal; y
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-f) Prevención y control de la contaminación por ruido, olores, vibraciones, energía térmica y lumínica.
-
-IV.- Revisar y aprobar los dictámenes técnicos derivados de las coordinaciones a su cargo, así como las medidas preventivas y correctivas que deberán adoptarse para disminuir y evitar la contaminación ambiental, con motivo de las visitas de inspección y vigilancia realizadas; y
-
-V.- Aportar los elementos técnicos a la Dirección Jurídica, para la elaboración de las resoluciones correspondientes;
-
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-VI.- Establecer los mecanismos para regularizar las actividades de los establecimientos con motivo de su inobservancia a la normativa ambiental;
-
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-VII.- Coordinarse con la Dirección de Auditoría y Autorregulación Ambiental para el seguimiento de los convenios que se firmen con las empresas sobre los esquemas de autocumplimiento, así como para verificar los procesos a que se sometan de manera voluntaria; y
-
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
-
-VIII.- Participar, conjuntamente con la Dirección de Difusión, Educación y Comunicación Ambiental, en la difusión de sus actividades.
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-###### Artículo 39.
-
-Las coordinaciones adscritas a la Dirección de Verificación Normativa, en el ámbito de su respectivo sector, tendrán las siguientes facultades:
-
-I.- Diseñar y coordinar las acciones para dar cumplimiento a las órdenes de inspección y vigilancia, con motivo de las resoluciones, autorizaciones, permisos, licencias o cualquier normatividad;
-
-II.- Ejecutar las órdenes de inspección y vigilancia que procedan de oficio o derivadas de la atención a la denuncia popular;
-
-III.- Elaborar dictámenes e informes técnicos conforme a la normativa ambiental, aplicando los criterios técnicos para la determinación de las sanciones por infracciones a la misma, así como las medidas de control, restauración y compensación para subsanar las irregularidades detectadas en establecimientos y actividades de los distintos sectores, derivados de las visitas de inspección y vigilancia;
-
-IV.- Proponer y ejecutar las medidas de seguridad que procedan, cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación con repercusiones peligrosas para los ecosistemas, derivado de actividades de los distintos sectores;
-
-V.- Diseñar y elaborar los controles administrativos derivados de visitas de inspección y vigilancia;
-
-VI.- Elaborar acciones, en coordinación con las autoridades federales, estatales y municipales, para promover el cumplimiento de la normatividad ambiental por parte de los diferentes sectores;
-
-VII.- Formular los sistemas de registro sobre el avance, seguimiento y cumplimiento a la normatividad ambiental, derivados de los mecanismos implementados para la regularización de los diferentes sectores; y
-
-VIII.- Las demás que le confiera el Director de Verificación Normativa.
-
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-###### Artículo 40.
-
-Además de las facultades señaladas en el artículo anterior, la Coordinación del Sector de Áreas Naturales Protegidas tendrá las siguientes:
-
-I.- Dar seguimiento a los Programas de Manejo de las Áreas Naturales Protegidas en el Estado; y
-
-II.- Proponer, coordinar y ejecutar los mecanismos de gestión para la protección, fomento, mejoramiento y vigilancia de las Áreas Naturales Protegidas, así como coordinarse con las demás instancias responsables.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2009)</small>
-
-### CAPÍTULO DÉCIMO. DE LA DIRECCIÓN DE DIFUSIÓN, EDUCACIÓN Y COMUNICACIÓN AMBIENTAL
-
-> <small>(REFORMADO Y REUBICADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-###### Artículo 41.
-
-La Dirección de Difusión, Educación y Comunicación Ambiental deberá planear, dirigir y supervisar el trabajo de la Coordinación de Vinculación y Educación Ambiental.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-###### Artículo 42.
-
-La Dirección de Difusión, Educación y Comunicación Ambiental tendrá las siguientes facultades:
+La Coordinación de Comunicación Social tendrá las siguientes facultades:
 
 I.- Difundir los programas, acciones y logros de la Procuraduría, haciendo uso de los diversos medios de comunicación;
 
@@ -755,9 +665,11 @@ II.- Diseñar productos de publicidad visual y electrónica, de acuerdo a los re
 
 III.- Desarrollar y poner en marcha campañas publicitarias y estratégicas de comunicación para la difusión de programas, eventos o foros de la Procuraduría;
 
-IV.- Participar y dar asesoría en giras, foros y eventos que sean organizados por la Procuraduría;
+IV.- Promover y, en su caso, realizar foros, ferias tecnológicas, capacitaciones y todo tipo de eventos, con el objeto de vincular a sectores y organismos de los tres ámbitos de gobierno, de carácter nacional o internacional, para intercambiar conocimientos en materia ambiental;
 
-V.- Coordinarse con el Instituto de Ecología del Estado para fomentar en la población la cultura sobre la preservación, conservación y aprovechamiento sustentable de los recursos con que cuenta el Estado, para:
+V.- Participar y dar asesoría en giras, foros y eventos que sean organizados por la Procuraduría;
+
+VI.- Coordinarse con el Instituto de Ecología del Estado para fomentar en la población la cultura sobre la preservación, conservación y aprovechamiento sustentable de los recursos con que cuenta el Estado, para:
 
 a) Promover la educación ambiental y la cultura ecológica en los programas de estudio de los diferentes niveles y sistemas de educación;
 
@@ -765,93 +677,131 @@ b) Propiciar el acercamiento con los sectores social y privado, así como con or
 
 c) Promover la capacitación y adiestramiento en materia de protección al ambiente, preservación y restauración del equilibrio ecológico en el Estado;
 
-VI.- Asesorar a las unidades administrativas de la Procuraduría en cuanto a la atención y presentación de información ante los representantes de los medios de comunicación; y
+VII.- Promover en todos los sectores de la sociedad la adopción de nuevas culturas ambientales, a través de la educación ambiental no formal;
 
-VII.- Elaborar análisis sobre temas relacionados con la protección al ambiente, así como la síntesis informativa de los diversos medios de comunicación con que cuente la Procuraduría.
+VIII.- Asesorar a las unidades administrativas de la Procuraduría en cuanto a la atención y presentación de información ante los representantes de los medios de comunicación;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 14 DE AGOSTO DE 2009)</small>
+IX.- Elaborar análisis sobre temas relacionados con la protección al ambiente, así como la síntesis informativa de los diversos medios de comunicación social;
+
+X.- Proporcionar asesoría e información a los municipios, a fin de fortalecer su gestión en materia de protección al ambiente;
+
+XI.- Promover la participación de los municipios en los proyectos especiales que diseñe la Procuraduría en materia de protección al ambiente; y
+
+XII.- Las demás que le confiera el Procurador.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 33.
+
+La Coordinación de Conservación y Contingencias tendrá las siguientes facultades:
+
+I.- Diseñar, coordinar y ejecutar las estrategias para dar cumplimiento a la legislación, ordenamientos, resoluciones, reglamentos, normas y programas ambientales en materia de impacto ambiental y riesgo, emitidos por la autoridad competente;
+
+II.- Coordinar las acciones relativas a conservación y contingencias que se presenten;
+
+III.- Dar seguimiento a los lineamientos de las Declaratorias y Programas de Manejo de las Áreas Naturales Protegidas en el Estado;
+
+IV.- Proponer, coordinar y ejecutar los mecanismos de gestión para la protección, fomento, mejoramiento y vigilancia de las Áreas Naturales Protegidas, así como coordinarse con las demás instancias responsables; y
+
+V.- Las demás que le confiera el Procurador.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 34.
+
+La Coordinación de Planeación tendrá las siguientes facultades:
+
+I.- Formular e integrar las propuestas de políticas ambientales de la Procuraduría, con la participación de las otras unidades administrativas;
+
+II.- Diseñar, proponer, coordinar y evaluar el procedimiento para la formulación y ejecución de los instrumentos de planeación estratégica y operativa de la Procuraduría, así como dar seguimiento a las metas institucionales para el cumplimiento de objetivos y metas del Plan Estatal de Desarrollo, Plan de Gobierno y el Programa Sectorial correspondiente;
+
+III.- Diseñar y ejecutar los procedimientos para desarrollar el proceso de planeación, mejora continua y mejora regulatoria que realizan todas las unidades administrativas de la Procuraduría;
+
+IV.- Formular y supervisar la implementación, desarrollo y gestión de los programas de desarrollo administrativo y procesos de la Procuraduría;
+
+V.- Administrar, programar y coordinar la actualización permanente del Sistema de Información Geográfica y Cartográfica interno;
+
+VI.- Integrar y actualizar los mapas digitales sobre los impactos a bienes y servicios ambientales en el Estado, a efecto de identificar los beneficios o deterioros propiciados al entorno;
+
+VII.- Dirigir, programar y evaluar los servicios y el soporte informático y de telecomunicaciones, así como brindar capacitación en el uso de instrumentos y herramientas informáticas al interior de la Procuraduría;
+
+VIII.- Diseñar y proponer los mecanismos para implementar aquellos proyectos innovadores referentes a la protección ambiental;
+
+IX.- Integrar el material informático que deba enviarse a los integrantes del Consejo Directivo de la Procuraduría para la celebración de las sesiones;
+
+X.- Participar en grupos de trabajo externos relacionados con la planeación y ejecución de programas y proyectos de protección al ambiente conforme a las facultades de la Procuraduría;
+
+XI.- Supervisar el cumplimiento de los objetivos, metas, acciones y estrategias competencia de la Procuraduría, acordes con los diversos instrumentos de planeación del orden federal y estatal;
+
+XII.- Integrar, con la participación de las unidades administrativas de la Procuraduría, los datos a incorporar en los informes que deban rendirse;
+
+XIII.- Desarrollar y actualizar el sistema de indicadores ambientales de la Procuraduría, así como elaborar semestralmente un informe de los mismos;
+
+XIV.- Asesorar a las unidades administrativas de la Procuraduría en la elaboración y seguimiento de los indicadores del desempeño general;
+
+XV.- Desarrollar y utilizar herramientas metodológicas que permitan procesar información de diferente naturaleza para analizar el impacto de la política ambiental y de recursos naturales;
+
+XVI.- Analizar en el ámbito de competencia de la Procuraduría el impacto de la política estatal ambiental y de recursos naturales y, en su caso, emitir recomendaciones y propuestas de instrumentos que permitan mejorarla; y
+
+XVII.- Las demás que le confiera el Procurador.
+
+###### Artículo 35.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 36.
+
+(DEROGADO, P.O. 14 DE AGOSTO DE 2009) (REPUBLICADO, P.O. 14 DE SEPTIEMBRE DE 2010)
+
+### CAPÍTULO NOVENO. DE LA DIRECCIÓN DE VERIFICACIÓN NORMATIVA
+
+###### Artículo 37.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 38.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 39.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 40.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2009)</small>
+
+### CAPÍTULO DÉCIMO. DE LA DIRECCIÓN DE DIFUSIÓN, EDUCACIÓN Y COMUNICACIÓN AMBIENTAL
+
+###### Artículo 41.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 42.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 43.
 
-La Coordinación de Vinculación y Educación Ambiental tendrá las siguientes facultades:
-
-I.- Apoyar a la Dirección de Difusión, Educación y Comunicación Ambiental a instrumentar todas las acciones relacionadas con la educación y cultura ecológica;
-
-II.- Planear, organizar y evaluar el desarrollo de los programas y proyectos de educación en materia de protección al ambiente y desarrollo sustentable que implante la Procuraduría;
-
-III.- Promover y, en su caso, realizar foros, ferias tecnológicas, capacitaciones y todo tipo de eventos, con el objeto de vincular a sectores y organismos de los tres ámbitos de gobierno, de carácter nacional o internacional, para intercambiar conocimientos en materia ambiental;
-
-IV.- Promover proyectos y acciones dirigidos a la formación de una concientización pública, así como a fomentar la participación ciudadana en el desarrollo sustentable desde el ámbito de su competencia;
-
-V.- Proporcionar asesoría e información a los municipios, a fin de fortalecer su gestión en materia de protección al ambiente;
-
-VI.- Promover la participación de los municipios en los proyectos especiales que diseñe la Procuraduría en materia de protección al ambiente;
-
-VII.- Promover en todos los sectores de la sociedad la adopción de nuevas culturas ambientales, a través de la educación ambiental no formal; y
-
-VIII.- Las demás que le confiera el Director de Difusión, Educación y Comunicación Ambiental.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LA DIRECCIÓN DE PLANEACIÓN Y POLÍTICA AMBIENTAL
 
-> <small>(REFORMADO Y REUBICADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
 ###### Artículo 44.
 
-La Dirección de Planeación y Política Ambiental deberá planear, dirigir y supervisar el trabajo de la Coordinación de Planeación y Mejora Continua.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 14 DE AGOSTO DE 2009)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 45.
 
-La Dirección de Planeación y Política Ambiental tendrá las siguientes facultades:
-
-I.- Formular e integrar las propuestas de políticas ambientales de la Procuraduría, con la participación de las otras unidades administrativas;
-
-II.- Diseñar, proponer, coordinar y evaluar el procedimiento para la formulación y ejecución de los instrumentos de planeación estratégica y operativa de la Procuraduría, así como dar seguimiento a las metas institucionales para el cumplimiento de objetivos y metas del Plan de Gobierno y Programa Sectorial correspondiente;
-
-III.- Diseñar y ejecutar los procedimientos para desarrollar el proceso de planeación, mejora continua y mejora regulatoria que realizan todas las áreas de la Procuraduría;
-
-IV.- Supervisar la implementación, desarrollo y gestión de los programas de desarrollo administrativo y procesos del Gobierno del Estado;
-
-V.- Elaborar, actualizar y dar seguimiento al Programa de Justicia Ambiental y Defensa de los Recursos Naturales de la Procuraduría, así como de todas las actividades relacionadas con el mismo;
-
-VI.- Administrar, programar y coordinar la actualización permanente del Sistema de Información Geográfica y Cartográfico interno;
-
-VII.- Integrar y actualizar los mapas digitales sobre los impactos a bienes y servicios ambientales en el Estado, a efecto de identificar los beneficios o deterioros propiciados al entorno;
-
-VIII.- Dirigir, programar y evaluar los servicios y el soporte informático y de telecomunicaciones, así como brindar capacitación en el uso de instrumentos y herramientas informáticas al interior de la Procuraduría;
-
-IX.- Diseñar y proponer los mecanismos para implementar aquellos proyectos innovadores referentes a la protección ambiental;
-
-X.- Integrar el material informático que deba enviarse a los integrantes del Consejo Directivo de la Procuraduría para la celebración de sesiones; y
-
-XI.- Participar en grupos de trabajo externos relacionados con la planeación y ejecución de programas y proyectos de protección ambiental dentro de las facultades de la Procuraduría.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 14 DE AGOSTO DE 2009)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 46.
 
-La Coordinación de Planeación y Mejora Continua tendrá las siguientes facultades:
-
-I.- Formular y proponer las políticas y lineamientos internos de carácter técnico y administrativo, así como sistemas y procedimientos para desarrollar el proceso de planeación, mejora continua y mejora regulatoria institucional;
-
-II.- Apoyar al Director de Planeación y Política Ambiental en la ejecución de acciones y estrategias vinculadas a los programas de desarrollo administrativo y procesos del Gobierno del Estado;
-
-III.- Supervisar el cumplimiento de los objetivos, metas, acciones y estrategias competencia de la Procuraduría, acordes con los diversos instrumentos de planeación del orden federal y estatal;
-
-IV.- Integrar, con la participación de las unidades administrativas de la Procuraduría, los datos a incorporar en los informes que deban rendirse;
-
-V.- Desarrollar y actualizar el sistema de indicadores ambientales de la Procuraduría, así como elaborar semestralmente un informe de los mismos;
-
-VI.- Asesorar a las unidades administrativas de la Procuraduría en la elaboración y seguimiento de los indicadores del desempeño general;
-
-VII.- Analizar en el ámbito de competencia de la Procuraduría el impacto de la política estatal ambiental y de recursos naturales y, en su caso, emitir recomendaciones y propuestas de instrumentos que permitan mejorarla;
-
-VIII.- Desarrollar y utilizar herramientas metodológicas que permitan procesar información de diferente naturaleza para analizar el impacto de la política ambiental y de recursos naturales; y
-
-IX.- Las demás que le confiera el Director de Planeación y Política Ambiental.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -946,5 +896,9 @@ BERNARDO LÓPEZ ROSAS
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 14 DE AGOSTO DE 2009.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2010.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
