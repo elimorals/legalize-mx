@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2007-01-26"
+last_updated: "2010-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -67,7 +67,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I.- Secretaría: la Secretaría de Obras Públicas y Transporte;
 
-II.- Dirección General: La Dirección General de Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Subsecretaría: La Subsecretaría de Comunicaciones y Transporte;
 
 III.- Concesión: Acto administrativo a través del cual la Administración Pública del Estado confiere a un particular facultad para la explotación de un servicio público o de un bien propiedad del Estado;
 
@@ -87,21 +89,25 @@ I.- El Gobernador del Estado;
 
 II. El Secretario de Obras Públicas y Transporte;
 
-III.- El Director General de Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+III.- El Subsecretario de Comunicaciones y Transporte;
 
 IV.- Los Ayuntamientos, dentro del ámbito de su jurisdicción y competencia; y
 
 V.- Las demás que con este carácter prevean las disposiciones aplicables en esa materia.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 7.
 
-Son auxiliares de las autoridades a que se refiere el artículo anterior, los peritos, inspectores y delegados regionales de la Dirección General, así como las corporaciones e instituciones que con ese carácter determinen otras disposiciones legales o designe el Gobernador del Estado.
+Son auxiliares de las autoridades a que se refiere el artículo anterior, los peritos, inspectores y delegados regionales de la Subsecretaría, así como las corporaciones e instituciones que con ese carácter determinen otras disposiciones aplicables o designe el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 8.
 
-La interpretación de las disposiciones previstas en esta Ley corresponderá a la Secretaría de Gobierno. Corresponderá a la Secretaría, previa opinión de aquélla, la interpretación técnica de las disposiciones de la presente Ley, así como la vigilancia de su estricta observancia. Para tal efecto, emitirá, en el ámbito de su competencia, la normatividad técnica relacionada con el tránsito en las vías públicas, el servicio de transporte y los servicios conexos a él.
+Corresponderá a la Secretaría, la interpretación de esta ley y la vigilancia de su debida observancia. Para tal efecto emitirá, en el ámbito de su competencia, la normatividad técnica relacionada con el tránsito en las vías públicas, el servicio de transporte y los servicios conexos a él.
 
 ###### ARTICULO 9.
 
@@ -117,13 +123,17 @@ IV.- Estudiar, aprobar y, en su caso, modificar, previos los estudios técnicos 
 
 V.- Celebrar, con observancia en las disposiciones legales aplicables, convenios y contratos que fueren necesarios para el cumplimiento del objeto de la presente Ley, con autoridades federales, estatales y municipales, personas físicas o morales, públicas o privadas;
 
-VI.- Analizar y opinar, en el ámbito de su competencia, sobre la solicitud de las concesiones y permisos para la prestación de los servicios públicos de transporte a que se refiere esta Ley y, en su caso, otorgarlas, renovarlas, suspenderlas, o cancelarlas una vez satisfechos los requisitos previstos en la presente Ley, su Reglamento y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-VII.- Expedir, a través de las oficinas recaudadoras de rentas de la Secretaría de Finanzas, en el ámbito de su competencia, las láminas de identificación y los documentos relacionados con la circulación de vehículos en las vías públicas del Estado;
+VI.- Analizar las solicitudes de concesiones y permisos para la prestación de los servicios públicos de transporte en todas las modalidades a que se refiere esta Ley y, en su caso, otorgarlas, renovarlas, suspenderlas o cancelarlas dentro del ámbito de su competencia y de conformidad con lo previsto en esta Ley, su Reglamento y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-VIII.- Proponer al Ejecutivo del Estado, a través del Secretario de Gobierno, la celebración de convenios de coordinación en la materia con los Gobiernos Federal, de otras entidades Federativas y de los Ayuntamientos;
+VII.- Expedir, en coordinación con las oficinas recaudadoras de rentas de la Secretaría de Finanzas del Gobierno del Estado, en el ámbito de su competencia, las láminas de identificación del servicio público y los documentos relacionados con la circulación de vehículos en las vías públicas del Estado;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+VIII.- Proponer al Ejecutivo del Estado, la celebración de convenios de coordinación en la materia con los gobiernos Federal, de otras entidades federativas y de los Ayuntamientos;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -131,7 +141,9 @@ IX.- Inspeccionar periódicamente el adecuado funcionamiento de los medios de tr
 
 X.- Planear y coordinar el tránsito y vialidad en las vías públicas del Estado, ejecutando acciones tendientes a su mejoramiento;
 
-XI.- Implementar programas de educación vial que garanticen la seguridad de las personas y de su patrimonio en las vías públicas de jurisdicción estatal;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XI.- Implementar programas de capacitación con concesionarios y permisionarios que garanticen la profesionalización del transporte público y la seguridad de las personas en las vías públicas de jurisdicción estatal;
 
 XII.- Promover y, en su caso, organizar e impartir capacitación profesional y técnica, así como fomentar la investigación científica y el desarrollo tecnológico de la vialidad y el transporte; y
 
@@ -149,17 +161,19 @@ Los Gobiernos Municipales, en sus respectivos ámbitos de competencia, emitirán
 
 Así mismo, los Ayuntamientos de la entidad podrán, previo acuerdo de sus órganos de gobierno, celebrar convenios de coordinación o de asociación entre ellos o con los ayuntamientos de dos o más estados, para el mejor ejercicio de las funciones que les correspondan en la materia. En este último caso, tratándose de convenios de asociación los municipios del estado deberán contar con la aprobación del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 12.
 
-Los peritos, según sea su especialidad, asesorarán a la Dirección General en la determinación de las causas de hechos de tránsito y vialidad y, en su caso, auxiliarán a las autoridades judiciales cuando éstas así lo soliciten.
+La Subsecretaría podrá solicitar asesoría a empresas y personas físicas especializadas en materia de transporte público con la finalidad de mejorar, modernizar y profesionalizar la prestación de este servicio.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 13.
 
-Los Delegados Regionales de la Dirección General, supervisarán el exacto cumplimiento de las disposiciones de esta Ley y su Reglamento en la región que corresponda y, en su caso, podrán proponer a la Dirección General las medidas que estimen necesarias para la adecuada planeación de los servicios de tránsito y transporte en dicha región.
+Los Delegados Regionales de la Subsecretaría, supervisarán el exacto cumplimiento de las disposiciones de esta Ley y su Reglamento en la región que corresponda y, en su caso, propondrán a la Subsecretaría las medidas que estimen necesarias para la adecuada planeación de los servicios de transporte en dicha región.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
-
-La Dirección General al elaborar programas regionales de transporte público de pasajeros deberá contar siempre con la participación de las autoridades municipales competentes que correspondan.
+La Subsecretaría, al elaborar programas regionales de transporte público, deberá contar siempre con la participación de las autoridades municipales competentes que correspondan.
 
 ### CAPITULO TERCERO. DE LAS LICENCIAS PERMISOS PROVISIONALES, PLACAS Y REGISTRO DE VEHICULOS
 
@@ -175,9 +189,11 @@ Las licencias a que se refiere el artículo anterior se expedirán para las clas
 
 Las licencias de conducir tendrán una vigencia de dos años y, en su caso, podrán ser renovadas a solicitud del interesado, previa la observancia de los requisitos previstos por esta Ley, su Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 17.
 
-Para obtener licencia de conducir, los interesados deberán ser mayores de dieciocho años, haber acreditado los cursos de manejo impartidos por las autoridades de tránsito correspondientes, comprobar su buen estado de salud y satisfacer los demás requisitos que determine esta Ley, su Reglamento y otras disposiciones aplicables.
+Para obtener licencia de conducir, los interesados deberán ser mayores de dieciocho años, haber acreditado los exámenes teórico y práctico de manejo aplicado por la Subsecretaría, así como comprobar su buen estado de salud y satisfacer los demás requisitos que determine esta Ley, su Reglamento y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
@@ -191,9 +207,9 @@ Si el interesado consiente en donar sus órganos, deberá firmar constancia al r
 
 Cuando muera una persona y haya la posibilidad de que el implante de sus órganos sea útil médicamente, será suficiente la constancia que aparezca en la licencia del conductor para que se proceda al implante, siempre y cuando se cumpla con las condiciones de este artículo y con las demás que establezcan las leyes.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-El interesado podrá revocar en cualquier momento la donación de sus órganos y para ello será suficiente que aquél lo comunique por escrito a las autoridades de tránsito o de salud. Recibida la comunicación, de inmediato se dará de baja al interesado del banco de donadores de órganos y no producirá ningún efecto la leyenda que aparezca en la licencia de conducir.
+El interesado podrá revocar en cualquier momento la donación de sus órganos y para ello será suficiente que aquél lo comunique por escrito a la Secretaría y autoridades de salud. Recibida la comunicación, de inmediato se dará de baja al interesado del banco de donadores de órganos y se reimprimirá su licencia sin costo a fin de que se elimine la leyenda de donador de órganos que aparece en la misma.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
@@ -209,7 +225,9 @@ Los demás requisitos y especificaciones relativas a la expedición y cancelaci�
 
 Las personas menores de dieciocho años y mayores de dieciséis podrán obtener licencia para conducir motocicletas y vehículos del servicio particular. Para tal efecto, deberán satisfacer los requisitos que señale esta Ley, su Reglamento y demás disposiciones aplicables, así como acreditar que cuentan con el consentimiento de quienes ejerzan sobre ellos la patria potestad.
 
-Las personas que ejerzan la patria potestad sobre los menores a que se refiere el párrafo anterior, deberán suscribir de manera conjunta con el mismo la solicitud respectiva, así como presentar la póliza que ampare la contratación de un seguro de daños contra terceros y se constituirán en solidarios de la responsabilidad en que incurra el menor, requisitos sin los cuales no se expedirá la licencia de conducir correspondiente.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+Las personas que ejerzan la patria potestad sobre los menores a que se refiere el párrafo anterior, deberán suscribir de manera conjunta con el mismo la solicitud respectiva, así como presentar la póliza que ampare la contratación de un seguro de daños contra terceros y se constituirán en solidarios de la responsabilidad en que incurra el menor, debiendo presentar para tal efecto una carta responsiva suscrita ante notario público, requisitos sin los cuales no se expedirá la licencia de conducir correspondiente.
 
 Esta clase de licencias tendrán una vigencia de un año, sin perjuicio de ser suspendida o cancelada si el menor incurre en alguna de las infracciones que señala la presente Ley, su Reglamento y demás disposiciones aplicables.
 
@@ -219,9 +237,25 @@ Las licencias de conducir se expedirán, previa la satisfacción de los requisit
 
 I.- Motociclista: se otorgará a personas que pretendan conducir cualquier tipo de motocicleta;
 
-II.- Automovilista: se otorgará a personas que pretendan manejar cualquier tipo de vehículo del servicio particular; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-III.- Chofer: se expedirá a personas que pretendan conducir vehículos del servicio público de transporte de pasajeros y de carga.
+II.- Automovilista particular: se expedirá a personas que pretendan manejar automóviles del servicio particular;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Menor de edad: se expedirá a las personas menores de dieciocho años y mayores de dieciséis que pretendan conducir automóviles de servicio particular o motocicleta menor a 125 centímetros cúbicos;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Chofer particular: Se expedirá a personas que pretendan conducir camionetas o camiones destinados al servicio particular;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Chofer del servicio público: Se expedirá a personas que pretendan conducir vehículos de transporte público de pasajeros y de carga, y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Chofer de carga especializada: Se expedirá a personas que pretendan conducir vehículos que transporten material peligroso conforme lo señala la fracción X del artículo 40 de esta ley, dentro de los límites del municipio o carretera estatal.
 
 ###### ARTICULO 20.
 
@@ -323,9 +357,13 @@ Cuando los vehículos no reúnan las condiciones de funcionamiento adecuadas par
 
 El Gobierno del Estado, por conducto de la Secretaría, y los Gobiernos Municipales podrán convenir, en los términos de las disposiciones aplicables, que el establecimiento y la operación de los centros de verificación de emisiones contaminantes provenientes de vehículos automotores, en dichas municipalidades, esté a cargo de la propia Secretaría.
 
-El titular del Ejecutivo Estatal, a través de la Secretaría podrá concesionar a particulares, personas físicas o morales que cuenten con la capacidad técnica, administrativa y financiera, el establecimiento y operación de los centros de verificación en aquellos municipios en que, previa la suscripción de los convenios o acuerdos que correspondan, así se estime conveniente.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-La operación de los centros a que se refiere el presente artículo, deberá sujetarse a las disposiciones y normas técnicas ecológicas que para tal efecto emita el Instituto Coahuilense de Ecología, así como a las demás que prevean otras disposiciones aplicables.
+El titular del Ejecutivo Estatal, a través de la Secretaría, podrá concesionar mediante el procedimiento de licitación correspondiente, a particulares, personas físicas o morales que cuenten con la capacidad técnica, administrativa y financiera, el establecimiento y operación de los centros de verificación en aquellos municipios en que se estime conveniente. Lo anterior, previa suscripción de los convenios o acuerdos que correspondan y de conformidad con lo previsto en el Código Municipal para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+La operación de los centros de verificación a que se refiere el presente artículo, deberá sujetarse a las disposiciones y normas técnicas que para tal efecto emita la Secretaría de Medio Ambiente del Estado de Coahuila, así como a las demás previstas por otras disposiciones aplicables.
 
 ###### ARTICULO 37.
 
@@ -345,6 +383,8 @@ Los vehículos que rebasen los límites máximos permisibles establecidos en las
 
 ### CAPITULO SEXTO. DE LAS CONCESIONES Y PERMISOS
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 40.
 
 Para los efectos de esta Ley se entenderá por:
@@ -363,7 +403,9 @@ V.- Servicio público de transporte de materiales para la construcción, aquel q
 
 VI.- Servicio de turismo, el que se presta a personas que viajan a lugares de interés turístico, arqueológico, histórico o de recreo ubicados en la entidad, estando sujeto a tarifa y pudiendo o no contar con itinerario y horario determinados;
 
-VII.- Servicio de transporte especializado escolar o para trabajadores, el que se presta a quienes viajan de sus domicilios a sus centros de estudio o trabajo y viceversa, o cuando su destino de transportación se relacione con fines educativos o laborales. Este transporte se prestará en vehículos cerrados y podrá estar o no sujeto a itinerario, tarifa y horario determinado. En ningún caso los permisos otorgados para la prestación de este servicio podrán utilizarse para cubrir rutas o itinerarios distintos a los que expresamente les fueron autorizados, lo anterior será causa de la suspensión o cancelación del permiso.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Servicio de transporte especializado escolar, para trabajadores o para personas con capacidades diferentes, el que se presta a quienes viajan desde sus domicilios a sus centros de estudio, trabajo y hospitales o cuando su destino de transportación se relacione con fines educativos, laborales o de atención médica. Este transporte se prestará en vehículos cerrados con equipo adicional que a juicio de la Secretaría se requiera para la prestación de este servicio y podrá estar o no sujeto a itinerario, tarifa y horario determinado. En ningún caso los permisos otorgados para la prestación de este servicio podrán utilizarse para cubrir rutas o itinerarios distintos a los que expresamente les fueron autorizados, lo anterior será causa de la suspensión o cancelación del permiso;
 
 VIII.- Servicio público de automóviles de alquiler, el destinado a la transportación de personas, sin itinerario fijo con horario determinado o no y con tarifa por viaje;
 
@@ -375,6 +417,10 @@ Quedan incluidos en este servicio el transporte de materiales a granel, explosiv
 
 XI.- Servicio de transporte mixto, el que se presta para transportar personas o pequeña carga en el mismo vehículo, el cual debe acondicionarse con compartimiento para los pasajeros, para el equipaje y la carga; este servicio deberá tener itinerario y horario determinado, pero tarifa únicamente para el transporte de pasajeros.
 
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XII.- Servicio de transporte de agua, el que comprende el transporte y distribución de agua en vehículos cisterna, tanque o pipa, sujeto a las tarifas y modalidades determinadas por las disposiciones de esta ley y demás aplicables en la materia.
+
 ###### ARTICULO 41.
 
 Los comerciantes, agricultores y ganaderos que por el ejercicio de alguna actividad considerada de interés social deban transportar sus productos a las zonas de distribución y consumo, podrán hacer uso, con sus propios vehículos, de las vías públicas mediante permiso expedido por la Secretaría.
@@ -385,9 +431,11 @@ Los permisos a los que se refiere este artículo facultarán a sus titulares par
 
 No se requerirá permiso cuando la capacidad de carga del vehículo sea menor de tres toneladas.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 42.
 
-Las empresas dedicadas exclusivamente a la extracción, transformación, procesamiento, elaboración y, en su caso, consumo de productos para la construcción, que para el desarrollo de sus actividades hagan uso de sus propios vehículos para transportar esos productos, deberán solicitar a la Secretaría el otorgamiento del permiso que corresponda. Será revocado el permiso si se demuestra que el permisionario ejecuta servicios distintos a los autorizados.
+Las empresas dedicadas exclusivamente a la extracción, transformación, procesamiento, elaboración y, en su caso, el transporte de insumos para la elaboración de productos para la construcción, podrán hacer uso de sus propios vehículos para transportar estos materiales a sus plantas de producción. Para tal efecto deberán solicitar a la Secretaría el otorgamiento del permiso correspondiente. Este permiso será revocado si se demuestra que el permisionario ejecuta servicios distintos a los autorizados.
 
 ###### ARTICULO 43.
 
@@ -396,6 +444,10 @@ En los permisos especiales a que se refieren los artículos 41 y 42 de este orde
 ###### ARTICULO 44.
 
 Para que las personas físicas o morales presten el servicio público de transporte, con excepción del servicio público urbano de pasajeros y de carga que necesitan concesión de los Ayuntamientos, requerirán concesión que será otorgada por el titular del Ejecutivo Estatal por conducto de la Secretaría, en los términos previstos por este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+En el caso del análisis y otorgamiento de concesiones que, en su caso correspondan a los Ayuntamientos, éstos deberán solicitar de manera previa al procedimiento de licitación que corresponda, la opinión de la Subsecretaría.
 
 ###### ARTICULO 45.
 
@@ -409,7 +461,9 @@ El transporte público intermunicipal de pasajeros o mixto y el urbano colectivo
 
 Los concesionarios del transporte urbano e intermunicipal de carga y de pasajeros podrán celebrar entre sí o con terceros los convenios de enlace, fusión, combinación de equipos y demás que resulten necesarios o procedentes para la adecuada prestación de los servicios.
 
-Dichos convenios, para su validez, deberán ser sometidos, previa su celebración, a la aprobación de la Dirección General o a los Ayuntamientos, en su caso.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+Dichos convenios, para su validez, deberán ser sometidos, previa su celebración, a la aprobación de la Subsecretaría o a los Ayuntamientos, en su caso.
 
 ###### ARTICULO 48.
 
@@ -419,19 +473,23 @@ En el supuesto a que se refiere el artículo que antecede, así como para los ef
 
 ###### ARTICULO 49.
 
-Se requerirá concesión para la prestación del servicio de transporte colectivo urbano e intermunicipal de pasajeros, así como para los de automóviles de alquiler, servicio mixto, transporte de carga ligera y transporte de materiales para la construcción.
+Se requerirá concesión para la prestación del servicio de transporte colectivo urbano e intermunicipal de pasajeros, así como para los de automóviles de alquiler, servicio mixto, transporte de carga ligera, transporte de materiales para la construcción y transporte de agua.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 50.
 
-Se requerirá permiso para el servicio de turismo, el transporte especializado escolar o para trabajadores, el servicio de grúas para el arrastre o transporte de vehículos, el servicio de carga especializada y para el transporte de los productos a que se refieren los artículos 41 y 42 de esta Ley.
+Se requerirá permiso para el servicio de turismo, el transporte especializado escolar o para trabajadores o transporte especializado para personas con capacidades diferentes, el servicio de grúas para el arrastre o transporte de vehículos, el servicio de carga especializada y para el transporte de los productos a que se refieren los artículos 41 y 42 de esta Ley.
 
 ###### ARTICULO 51.
 
 Por cada concesión o permiso sólo se autorizará la explotación de un vehículo. La autoridad competente expedirá una tarjeta de identificación que contendrá los datos de la concesión, así como del vehículo y deberá portarse en lugar visible.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 52.
 
-Es facultad de los Ayuntamientos otorgar concesiones para los servicios de transporte público urbano de pasajeros, carga y materiales de construcción, cuando dichos servicios se presten exclusivamente dentro de los límites de su Municipio.
+Es facultad de los Ayuntamientos otorgar concesiones para los servicios de transporte público urbano de pasajeros, carga y materiales de construcción, cuando dichos servicios se presten exclusivamente dentro de los límites de su municipio. Previo a la celebración de la licitación para el otorgamiento de las concesiones, los Ayuntamientos solicitarán la opinión de la Subsecretaría.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -445,19 +503,19 @@ Toda concesión o permiso deberá inscribirse, conforme a las disposiciones cond
 
 El Gobierno del Estado, a través de la Secretaría, y los Ayuntamientos, expedirán y convendrán los instrumentos que conforme a derecho procedan para el establecimiento de unidades administrativas para la recepción, trámite y, en su caso, otorgamientos de las concesiones y permisos a que se refiere este Capítulo, procurando que exista una de ellas en cada municipio o, en defecto, propicien el menor desplazamiento a los interesados.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 54.
 
-Las concesiones para los servicios públicos previstos en esta Ley sólo podrán otorgarse a mexicanos, personas físicas o morales constituidas legalmente.
+Las concesiones para los servicios públicos previstos en esta Ley sólo podrán otorgarse a mexicanos, personas físicas o morales constituidas conforme a las leyes del país, previa asignación en el título de concesión de un folio consecutivo por modalidad a fin de llevar un control del servicio público de transporte existente en la entidad.
 
-El otorgamiento de las concesiones se llevará a cabo mediante concurso, conforme a lo dispuesto por esta Ley, su Reglamento y demás disposiciones aplicables en la materia.
+El otorgamiento de las concesiones se llevará a cabo mediante concurso, conforme a lo dispuesto en el Código Municipal para el Estado de Coahuila de Zaragoza en relación a la concesión de servicios públicos, en esta ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 55.
 
-A ninguna persona se otorgarán más de cinco concesiones para explotar el servicio público de transporte urbano e intermunicipal.
-
-Las personas morales sólo tendrán las concesiones que reúnan sus socios conforme a este precepto, de manera tal que ninguno de los socios podrá ser titular y aportar a la sociedad más del número de concesiones autorizadas.
-
-En ningún caso el socio que represente el límite establecido en el presente ordenamiento, podrá ser titular en lo individual de alguna concesión.
+Las concesiones y permisos para explotar el servicio público de transporte urbano, intermunicipal, de pasajeros, transporte de agua, de carga ligera, de transporte de materiales para la construcción de turismo, de transporte especializado, escolar, para trabajadores y para personas con capacidades diferentes, de automóviles de alquiler, de grúas o remolques para el arrastre o transporte de vehículos, de carga especializada y de transporte mixto se otorgarán a personas físicas y morales de acuerdo a su capacidad técnica, administrativa y financiera.
 
 ###### ARTICULO 56.
 
@@ -493,9 +551,11 @@ Las personas físicas deberán acompañar a la solicitud copias del acta de naci
 
 La Secretaría y, en su caso, los Ayuntamientos, en la esfera de su competencia, revisarán y verificarán, tratándose de la solicitud presentada por personas morales, que el objeto de la sociedad mercantil sea acorde con la concesión que se solicita y que las estipulaciones en el instrumento de su constitución no contraríen las disposiciones de la presente Ley, su Reglamento y demás aplicables. En caso de que se percaten de alguna contravención rechazarán la solicitud fundamentando y motivando la negativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 60.
 
-Si el titular del Ejecutivo, por conducto de la Secretaría, o en su caso los Ayuntamientos, estimaren procedente otorgar nuevas concesiones, convocarán a un concurso entre los solicitantes que tengan registrados o que se inscriban dentro del plazo que al efecto se señale. El otorgamiento se llevará a cabo conforme a las siguientes bases:
+Si el titular del Ejecutivo, por conducto de la Secretaría, estimare procedente otorgar nuevas concesiones, convocarán a un concurso entre los solicitantes que tengan registrados o que se inscriban dentro del plazo que al efecto se señale. En el caso que sean los Ayuntamientos quienes estimen procedente el otorgamiento de nuevas concesiones, se sujetarán a lo establecido por el primer párrafo del artículo 52 de esta ley. El otorgamiento se llevará a cabo conforme a las siguientes bases:
 
 I.- Se otorgarán a quienes garanticen tener capacidad técnica para mejorar la prestación del servicio y se preferirá, en igualdad de circunstancias, a los ciudadanos originarios del Estado de Coahuila o las sociedades constituidas por éstos;
 
@@ -513,7 +573,9 @@ I.- La convocatoria deberá publicarse en el Periódico Oficial del Gobierno del
 
 II.- La convocatoria deberá contener:
 
-a).- Datos del servicio a concesionarse;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+a).- Descripción del servicio a concesionarse;
 
 b).- Características técnicas para la prestación del servicio;
 
@@ -523,15 +585,23 @@ d).- Plazo de presentación de las propuestas;
 
 e).- Fecha, hora y lugar de celebración del acto de apertura de proposiciones; y
 
-f).- Las demás especificaciones que determinen las autoridades competentes.
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+f).- Cantidad de concesiones a otorgarse, y
+
+g).- Las demás especificaciones que determinen las autoridades competentes.
 
 III.- Las propuestas deberán acompañarse de la solicitud y demás documentos a que se refiere el artículo 58 de esta ley.
 
 Las propuestas deberán, además, señalar la calidad del equipo que ofrezcan destinar al servicio y, en su caso, la instalación de servicios y accesorios tales como: terminales, bodegas, estaciones intermedias, talleres u otras circunstancias similares relativas a la calidad en la prestación del servicio;
 
-IV.- La Secretaría y los Ayuntamientos, en los ámbitos de su competencia, oyendo la opinión del Consejo y, en su caso, de los Consejos Consultivos Municipales, emitirán conforme a la documentación presentada por los interesados, el fallo correspondiente; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-V.- Transcurrida una semana después de la celebración del concurso, se publicará el fallo en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación del lugar de que se trate.
+IV.- La Secretaría y los Ayuntamientos, en los ámbitos de su competencia, oyendo la opinión del Consejo Estatal de Transporte y, en su caso, de los Consejos Consultivos Municipales de Transporte, emitirán conforme a la documentación presentada por los interesados, el fallo correspondiente, y
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Transcurrida una semana de la celebración del concurso, se publicará el fallo en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación del lugar de que se trate o, en su defecto, de la capital del Estado.
 
 ###### ARTICULO 62.
 
@@ -561,15 +631,21 @@ IX.- Contraprestaciones que deban cubrir; y
 
 X.- Las demás que determine esta Ley, su Reglamento y otras disposiciones legales.
 
-Las unidades de transporte que se utilicen para el servicio público de pasajeros y de automóviles de alquiler serán de modelo no anterior a doce años a aquel en que se solicite la concesión. Deberán, además, ser de fabricación nacional o internados legalmente en el país.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+Las unidades de transporte que se utilicen para el servicio público de pasajeros y de automóviles de alquiler, serán de modelo que se determine en la licitación. Deberán además ser de fabricación nacional o internados legalmente en el país.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 64.
 
-Las concesiones del servicio de transporte urbano e intermunicipal se otorgarán por el término de quince años, prorrogables cada quince años, siempre que el concesionario demuestre haber cumplido con todas las obligaciones que esta Ley y su Reglamento le señalen y acredite que continúa satisfaciendo los requisitos y condiciones que éstos ordenamientos establecen para seguir prestando el servicio.
+Las concesiones del servicio público de transporte se otorgarán por el término de treinta años, prorrogables cada treinta años, siempre que el concesionario demuestre haber cumplido con todas las obligaciones que esta Ley y su Reglamento le señalen y acredite que satisface los requisitos y condiciones que estos ordenamientos establecen para seguir con la prestación del servicio.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 65.
 
-Otorgada la concesión se señalará al concesionario un término de sesenta días para que otorgue una caución que garantice los daños y perjuicios que pueda ocasionar en la prestación del servicio, así como las condiciones fijadas en la concesión para la prestación del mismo en cuanto a continuidad, regularidad, permanencia, seguridad, comodidad e higiene del medio de transporte que utiliza.
+Otorgada la concesión se señalará al concesionario un término de sesenta días para que otorgue una caución que garantice los daños y perjuicios que pueda ocasionar en la prestación del servicio a pasajeros y a terceros, así como las condiciones fijadas en la concesión para la prestación del mismo en cuanto a continuidad, regularidad, permanencia, seguridad, comodidad, antigüedad e higiene del medio de las unidades de transporte que utiliza.
 
 Dicha garantía podrá consistir en:
 
@@ -579,13 +655,17 @@ II.- Mediante fianza de compañía autorizada.
 
 El monto de la caución será fijado por las autoridades competentes de conformidad con lo dispuesto por el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 66.
 
-Los concesionarios del transporte público de pasajeros estarán obligados, dentro del plazo a que se refiere el artículo anterior, a contratar seguros de viajero.
+Los concesionarios del transporte público de pasajeros deberán, dentro del plazo a que se refiere el artículo anterior, contratar seguros de viajero con compañía autorizadas (sic) legalmente para tal fin y/o pertenecer a un fondo de contingencia o fideicomiso constituido por concesionarios o permisionarios, conforme a lo establecido por esta ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 67.
 
-Los permisos a que se refiere el artículo 50 de esta Ley serán otorgados por la Secretaría, oyendo la opinión de los Ayuntamientos, sin sujetarse a concurso y tendrán una vigencia de un año, excepto los permisos para el transporte especializado escolar y para trabajadores que tendrán vigencia de cinco años.
+Los permisos a que se refiere el artículo 50 de esta Ley serán otorgados por la Secretaría sin sujetarse a concurso y tendrán una vigencia de un año, excepto los permisos para transporte especializado de personal, escolar y personas con capacidades diferentes que tendrán vigencia de cinco años.
 
 Para el otorgamiento de los permisos, se exigirán los mismos requisitos que prevé esta ley para obtener la concesión.
 
@@ -595,21 +675,33 @@ En caso de fallecimiento o de incapacidad física o mental del concesionario, ac
 
 Si no hubiere herederos o legatarios, la concesión pasará a la sociedad de que el concesionario forme parte, y si no existiere esa posibilidad, la concesión de referencia se declarará vacante.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 69.
 
-Los derechos obtenidos a través de la concesión no podrán ser cedidos a excepción de lo establecido en el artículo 68.
+Los derechos obtenidos a través de la concesión o permiso sólo podrán cederse a terceros previa solicitud y autorización por escrito de la Subsecretaría.
+
+El adjudicatario de una concesión o permiso no podrá explotarlos si no cumple con los requisitos que para tal efecto establecen en esta Ley, su Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 70.
 
-La Secretaría y los Ayuntamientos, en el ámbito de su competencia, podrán autorizar el gravamen de las concesiones del servicio público de pasajeros y de los bienes afectos a la misma cuando se garanticen créditos destinados a la mejora del servicio. Igualmente podrán autorizar el gravamen de los permisos del servicio especializado escolar.
+La Secretaría, podrá autorizar el gravamen de las concesiones del servicio público de pasajeros y de los bienes afectos a las mismas cuando se garanticen créditos destinados a la mejora del servicio. Igualmente podrán autorizar el gravamen de los permisos del servicio especializado escolar, de personal y de personas con capacidades diferentes. Los Ayuntamientos podrán autorizar, previa solicitud y aprobación por escrito de la Subsecretaría, el gravamen de las concesiones del servicio público de pasajeros y de los bienes afectos a las mismas cuando se garanticen créditos destinados a la mejora del servicio.
 
 Tratándose del arrendamiento financiero, las partes que intervengan en él convendrán en afectar y someter los bienes arrendados al régimen especial de las concesiones.
 
-Las concesiones del servicio público de pasajeros y los permisos del servicio especializado escolar y demás bienes afectos a la prestación del servicio, no podrán ser objeto de intervención, salvo que el adeudo provenga de la adquisición de tales bienes.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+Las concesiones del servicio público de pasajeros y los permisos del servicio especializado escolar, de personal y de personas con capacidades diferentes y demás bienes afectos a la prestación del servicio, no podrán ser objeto de intervención, salvo que el adeudo provenga de la adquisición de tales bienes.
 
 El adjudicatario de una concesión no podrá explotarla si no cumple con los requisitos establecidos en esta Ley, su Reglamento y demás disposiciones aplicables y obtiene la autorización previa de las autoridades competentes.
 
 Las concesiones y los permisos a que se refieren los párrafos que anteceden, no podrán transmitirse o gravarse por separado de los bienes afectos a ella, ni éstos podrán otorgarse en forma independiente como garantía.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+El gravamen de concesiones y permisos autorizado de conformidad con la presente Ley, deberá inscribirse en el Registro, previo pago de los derechos correspondientes.
 
 ###### ARTICULO 71.
 
@@ -627,9 +719,11 @@ Para hacer uso de las concesiones y permisos, el concesionario o permisionario d
 
 El titular del Ejecutivo Estatal, por conducto de la Secretaría, y los Ayuntamientos en el ámbito de su competencia, podrán, en cualquier tiempo, previa opinión del Consejo y, en su caso, del Consejo Municipal de Transporte correspondiente, introducir en los servicios de transportación y sus elementos conexos las modalidades que dicte el interés público, fijando o modificando, para tal efecto, las rutas, el número y capacidad de los vehículos, tarifas, horarios, sitios, terminales y tipo de vehículos; asimismo, podrán determinar la adopción de medidas que aseguren a los usuarios la adecuada prestación de los servicios.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 74.
 
-Ninguna concesión o permiso se otorgará si con ello se establece una competencia desleal en detrimento de los concesionarios o permisionarios o se causa perjuicio al interés público.
+Ninguna concesión o permiso se otorgará si con ello se establece una competencia desleal en detrimento de los concesionarios o permisionarios ya existentes o se cause perjuicio al interés público.
 
 ###### ARTICULO 75.
 
@@ -669,7 +763,9 @@ Operará la cancelación cuando:
 
 I.- Resulten falsos los datos o documentos proporcionados por el interesado, y que con base en ellos se hubiere expedido la concesión o permiso;
 
-II.- El que la obtenga no preste el servicio directamente, transmita de cualquier forma su uso o deje de prestar el servicio, sin causa justificada, por más de noventa días, incluidos en este término los días necesarios para el mantenimiento del vehículo;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+II.- El que la obtenga no preste el servicio directamente, transmita de cualquier forma su uso sin previa autorización de la Subsecretaría o deje de prestar el servicio sin causa justificada por más de noventa días, incluidos en este término los días necesarios para el mantenimiento del vehículo;
 
 III.- El vehículo que se utilice no cumpla con las condiciones que el servicio requiera.
 
@@ -685,7 +781,7 @@ VII.- El titular de la concesión o permiso, o sus operadores, con motivo de la 
 
 VIII.- Se grave o transmita la concesión o permiso a que se refiere el artículo 69 de esta Ley, sin autorización de la autoridad competente;
 
-IX.- El titular de la concesión que, por sí o por interpósita persona, lo sea de más de cinco concesiones sin la autorización de la autoridad competente;
+IX.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2010)
 
 X.- Se incurra en actos delictivos utilizando los bienes afectos al servicio;
 
@@ -707,19 +803,27 @@ La cancelación de una concesión o permiso se sujetará al procedimiento siguie
 
 La autoridad competente citará al concesionario o permisionario a una audiencia. La notificación deberá realizarse personalmente en el último domicilio que se haya comunicado al Registro, si no se encontrare al titular de la concesión o permiso se le dejará citatorio para hora fija dentro de las veinticuatro horas siguientes. En caso de no encontrarse nuevamente, se entenderá la diligencia con la persona que se encontrare en el domicilio, asentando en el acta dicha circunstancia que no afectará la validez de la notificación.
 
-En dicho acto se le hará saber la causa de la comparecencia, el lugar, fecha y hora de las (sic) misma y se le entregará copia de la notificación.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-La audiencia se efectuará dentro de los quince días hábiles siguientes contados a partir de la notificación, a fin de que el concesionario o permisionario ofrezca pruebas y alegue lo que a su derecho convenga.
+En dicho acto se le hará saber la causa de la comparecencia, el lugar, fecha y hora de la misma y se le entregará copia de la notificación.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+La audiencia se efectuará dentro de los quince días hábiles siguientes contados a partir del día siguiente de la notificación, a fin de que el concesionario o permisionario ofrezca pruebas y alegue lo que a su derecho convenga.
 
 En la audiencia se admitirá toda clase de pruebas relacionadas con la causa que motiva la cancelación; su recepción y práctica, así como la formulación de alegatos serán verbales y deberán asentarse en el acta correspondiente.
 
-En el acta se harán constar el día, la hora y los nombres de las personas que intervinieron en la audiencia, las pruebas ofrecidas por el concesionario, los alegatos. La autoridad competente en la misma audiencia dictará la resolución que corresponda.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+En el acta se harán constar el día, la hora y los nombres de las personas que intervinieron en la audiencia, las pruebas ofrecidas por el concesionario o permisionario, así como los alegatos expresados.
 
 El acta será firmada por los que en ella intervinieron, sin que en ningún caso pueda omitirse la firma de la autoridad que corresponda.
 
 Cuando el concesionario o permisionario no comparezca a la audiencia, se hará constar dicha circunstancia en el acta, sin que ello impida se dicte la resolución correspondiente.
 
-Contra la resolución contenida en el acta de referencia no procederá recurso alguno.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+La autoridad competente, dentro de los cinco días hábiles siguientes a la fecha en que se celebró la audiencia, dictará la resolución que corresponda, debiendo notificar por escrito dicha resolución al concesionario o permisionario contra quien se instauró el procedimiento de cancelación.
 
 ### CAPITULO NOVENO. DEL REGISTRO PUBLICO DE TRANSPORTE
 
@@ -731,21 +835,29 @@ I.- Cumplir con las estipulaciones que para la ejecución de los servicios de tr
 
 II.- Coadyuvar con las autoridades competentes en el mantenimiento y conservación de las vías públicas por las que transiten;
 
-III.- Capacitar al personal con que cuenten;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Capacitar a sus operadores, mediante cursos de profesionalización del servicio público de transporte;
 
 IV.- Responder ante la autoridad Estatal o Municipal competente, de las faltas o infracciones en que incurran por sí mismos o por conducto de las personas de quienes se sirvan como operadores;
 
 V.- Contar con las medidas de seguridad que determinen las autoridades correspondientes;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-VI.- Adquirir los seguros que amparen a la persona de el o los pasajeros y equipaje; carga; a la propia unidad; y la reparación de los daños que se pudieran ocasionar a terceros en su persona o bienes.
+VI.- Adquirir seguros que amparen a los pasajeros y su equipaje, la carga, la propia unidad, así como la reparación de los daños que se pudieran ocasionar a terceros en su persona o bienes, con compañías aseguradoras legalmente autorizadas para tal fin y/o pertenecer a un fondo de contingencia o fideicomiso constituido por concesionarios y permisionarios, conforme a lo establecido por esta Ley, su reglamento y demás disposiciones aplicables.
 
-El seguro que contrate el concesionario o permisionario, tratándose de pasajeros y terceros con relación a su integridad personal, en caso de muerte cubrirá por lo menos, el pago de los gastos hospitalarios y de atención médica, de los gastos funerarios y una indemnización en efectivo por el monto que establezca la Ley Federal del Trabajo, multiplicada por cuatro. Si se causa cualquier clase de incapacidad, el seguro deberá cubrir, por lo menos, el pago de atención médica, el de los gastos hospitalarios y una indemnización en efectivo con base en la clasificación de incapacidades que establece la Ley federal del Trabajo, cuyo monto se multiplicará por cuatro.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+El seguro que contrate el concesionario o permisionario, así como el fondo de contingencia o fideicomiso por ellos constituidos para tal efecto, tratándose de pasajeros y terceros en caso de muerte cubrirá por lo menos el pago de los gastos hospitalarios y de atención médica, de los gastos funerarios y una indemnización en efectivo por el monto que establezca la Ley Federal del Trabajo multiplicada por cuatro. Si se causa cualquier clase de incapacidad, el seguro deberá cubrir por lo menos, el pago de atención médica, de los gastos hospitalarios y una indemnización en efectivo con base en la clasificación de incapacidades que establece la Ley Federal del Trabajo, cuyo monto se multiplicará por cuatro.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 Para el derecho y la prelación en el pago de las indemnizaciones por muerte establecidas en el párrafo anterior, se estará a lo dispuesto en el Código Civil del Estado y en el artículo 501 de la ley Federal del Trabajo, respectivamente.
 
-En todo contrato de seguro, se especificará la o las unidades automotrices aseguradas, según los números de concesión, placas y el número económico con los que se identifica a la unidad. Sin que se acredite lo anterior, será improcedente el registro de la unidad en el Registro Público del Transporte en el Estado y, en su caso, en sus equivalentes en los municipios;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+En todo contrato de seguro y/o fondo de contingencia o fideicomiso, se especificará la o las unidades automotrices aseguradas, según los números de concesión, placas y el número económico con los que se identifica a la unidad. Sin que se acredite lo anterior, será improcedente la inscripción de la unidad en el Registro y, en su caso, en sus equivalentes en los municipios.
 
 VII.- Mantener los vehículos en el estado de higiene, mecánico y eléctrico óptimo para la prestación del servicio;
 
@@ -769,9 +881,11 @@ XV.- Las demás que les señale esta Ley, su Reglamento y otras disposiciones ap
 
 En caso de que los concesionarios o permisionarios no cumplan con las obligaciones a su cargo, se harán acreedores a las sanciones señaladas en la presente Ley, su Reglamento y demás disposiciones aplicables, sin perjuicio de la responsabilidad penal o civil en que pudieren incurrir.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 84.
 
-Los conductores de los vehículos del transporte público de pasajeros estarán obligados a someterse, cuando así lo determine la Dirección General y los Ayuntamientos, en la esfera de su competencia, a los exámenes psicofísicos que se estimen necesarios, a efecto de evaluar su estado de salud y determinar si se encuentran o no en aptitud para realizar con la adecuada eficiencia y seguridad las funciones inherentes a sus actividades.
+Los conductores de los vehículos del transporte público de pasajeros estarán obligados a someterse, cuando así lo determine la Subsecretaría y los Ayuntamientos, en la esfera de su competencia, a los exámenes médicos que se estimen necesarios, a efecto de evaluar su estado de salud y determinar si se encuentran o no en aptitud para realizar con la adecuada eficiencia y seguridad las funciones inherentes a sus actividades.
 
 Las condiciones y requisitos para la práctica de dichos exámenes médicos se determinarán conforme a las disposiciones aplicables.
 
@@ -807,7 +921,9 @@ El Titular del Registro tendrá las siguientes obligaciones:
 
 I.- Revisar que los interesados que presenten los documentos para su inscripción, previo al registro correspondiente, hayan cubierto en las recaudaciones de rentas de la Secretaría de Finanzas los derechos de control vehicular;
 
-II.- Hacer las inscripciones correspondientes dentro de los quince días hábiles siguientes a la presentación de la solicitud, salvo que el exceso de trabajo lo impida o los documentos fueren devueltos por carecer de los requisitos que establece la presente Ley y su Reglamento, en este último caso se asentará la razón en que se funde la negativa;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Hacer las inscripciones correspondientes dentro de los quince días hábiles siguientes a la presentación de la solicitud, salvo en los casos de devolución de documentos que carezcan de los requisitos establecidos por la presente Ley y su Reglamento, caso en el que se asentará la razón en que se funde la negativa;
 
 III.- Resolver las dudas que los interesados le formulen;
 
@@ -837,9 +953,11 @@ Los concesionarios y permisionarios deberán registrar los títulos de concesion
 
 Los conductores deberán inscribirse en el Registro, mediante la presentación de la documentación que corresponda.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 90.
 
-Los concesionarios, permisionarios y conductores presentarán la forma que para tal efecto expida el Registro, acompañada de los documentos que en cada caso les sean requeridos.
+Los concesionarios, permisionarios y conductores presentarán los documentos que en cado caso le sean requeridos para la inscripción en el Registro.
 
 ###### ARTICULO 91.
 
@@ -869,9 +987,11 @@ La Secretaría y los Ayuntamientos, en el ámbito de su competencia, procurarán
 
 Las tarifas constituirán la base para el cobro de los servicios prestados al público por los concesionarios y permisionarios de los diferentes servicios de autotransporte público a que se refiere esta Ley.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 96.
 
-La Secretaría y los Ayuntamientos, considerando la opinión del Consejo y, en su caso, de los Consejos Municipales de Transporte, durante los dos primeros meses de cada año, estudiarán y, en su caso, aprobarán los proyectos de horarios que le sean presentados por los concesionarios y permisionarios.
+La Secretaría y los Ayuntamientos, considerando la opinión del Consejo Estatal de Transporte y, en su caso, de los Consejos Municipales de Transporte, durante los dos primeros meses de cada año, estudiarán y, en su caso, aprobarán los proyectos de horarios y tarifas que le sean presentados por los concesionarios y permisionarios.
 
 ###### ARTICULO 97.
 
@@ -903,17 +1023,23 @@ II.- La devolución de cualquier cantidad del precio cobrado cuando aquélla tie
 
 III.- La expedición de boletos que autoricen la prestación gratuita del servicio, así como los de cortesía, excepto aquellos que se determinen por acuerdo de las autoridades competentes y los prestadores del servicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 101.
 
-Los niños menores de cinco años no pagarán tarifa alguna y los estudiantes de cualquier grado, las personas con discapacidad y senectos, gozarán de tarifas especiales, para tal fin, en su caso, deberán justificar su calidad mediante la exhibición de los documentos correspondientes.
+Los niños menores de cinco años no pagarán tarifa alguna y los estudiantes de cualquier grado, las personas con capacidades diferentes y los adultos mayores, gozarán de tarifas especiales previa justificación de su calidad mediante la exhibición de los documentos correspondientes.
 
 Fuera de los supuestos a que se refiere esta Ley, las tarifas se aplicarán uniformemente a todas las personas que hagan uso de los vehículos destinados al servicio público del transporte de pasajeros.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 102.
 
-Podrán viajar en cada vehículo destinado al servicio público de transporte sin costo alguno, previa identificación, hasta dos personas de las que desempeñan los siguientes empleos:
+En horarios de servicio, podrán viajar en cada vehículo destinado al servicio público de transporte sin costo alguno, previa identificación, hasta dos personas de las que desempeñan los siguientes empleos:
 
-I.- Inspectores;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Inspectores de transporte público;
 
 II.- Agentes de Tránsito;
 
@@ -927,27 +1053,33 @@ V.- Carteros.
 
 El titular del Ejecutivo Estatal, a través de la Secretaría y los municipios, en la esfera de su competencia, podrán en cualquier tiempo, modificar las rutas, itinerarios, tarifas y horarios por razón del interés público.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-Los programas de transporte público de pasajeros o, en su caso, las modificaciones que a ellos realice la Secretaría, por conducto de la Dirección General, con relación a lo previsto en el párrafo que antecede, así como de conformidad a lo señalado en los artículos 73 y 117 de esta Ley, se formularán y aplicarán invariablemente con la intervención de los Ayuntamientos de los municipios que correspondan. Dicha intervención se realizará en los términos que señalen los convenios que para tal efecto celebren.
+Los programas de transporte público de pasajeros o, en su caso, las modificaciones que a ellos realice la Secretaría, por conducto de la Subsecretaría, con relación a lo previsto en el párrafo que antecede, así como de conformidad a lo señalado en los artículos 73 y 117 de esta Ley, se formularán y aplicarán invariablemente con la intervención de los Ayuntamientos de los municipios que correspondan. Dicha intervención se realizará en los términos que señalen los convenios que para tal efecto celebren.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 De igual forma, en los programas de transporte público de pasajeros y, en su caso, las modificaciones que elaboren las autoridades federales y que incidan sobre el territorio de los municipios de la entidad, los Ayuntamientos respectivos intervendrán en su formulación en los términos que establezcan las leyes federales de la materia, en cumplimiento de las disposiciones previstas en la Constitución Política de los Estados Unidos Mexicanos y demás aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 104.
 
-Los concesionarios o permisionarios del servicio público de transporte están obligados a asegurar a los pasajeros en su vida e integridad física, así como la carga que transporten, mediante pólizas contratadas con compañías aseguradoras legalmente autorizadas para tal fin.
+Los concesionarios o permisionarios del servicio público de transporte están obligados a asegurar a los pasajeros en su vida e integridad física, así como la carga que transporten, mediante pólizas contratadas con compañías aseguradoras legalmente autorizadas para tal fin y/o fondos de contingencia o fideicomisos constituidos por concesionarios y permisionarios, conforme a lo establecido por esta Ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 105.
 
-Ningún vehículo del servicio público de transporte de pasajeros o del de carga ligera, podrá circular sin que acredite contar con el seguro a que se refiere el artículo anterior.
+Ningún vehículo del servicio público de transporte de pasajeros o de carga ligera, podrá circular sin que acredite contar con el seguro y/o fondo de contingencia o fideicomiso a que se refiere el artículo anterior.
 
 ###### ARTICULO 106.
 
 El titular del Ejecutivo Estatal, a través de la Secretaría y los Ayuntamientos, en el ámbito de su competencia, podrán dictar las medidas que juzguen necesarias para asegurar la eficacia y cumplimiento de las disposiciones relativas a las normas de seguridad que deban implementarse para la presentación del servicio público de transporte.
 
-### CAPITULO DECIMO SEGUNDO. DEL CONSEJO CONSULTIVO DE TRANSPORTE
+### CAPITULO DECIMO SEGUNDO. DEL CONSEJO ESTATAL DE TRANSPORTE
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 107.
 
@@ -983,11 +1115,13 @@ IX.- Las demás que para el ejercicio de sus atribuciones les confiera la presen
 
 Los concesionarios, permisionarios, así como los operadores de los vehículos afectos al servicio público, deberán permitir a los inspectores, el acceso a las instalaciones, terminales y vehículos, asimismo deberán proporcionar los informes, documentos y demás datos necesarios para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 110.
 
-Los inspectores deberán exhibir la credencial que los acredite como tales para desempeñar su función.
+Los inspectores deberán identificarse con el documento vigente que los acredite como tales para desempeñar su función.
 
-Estarán facultados para solicitar la revisión mecánica o de verificación de emisiones contaminantes, a los propietarios o poseedores de los vehículos que por su apariencia externa así lo requieran, fundando y motivando, conforme a derecho, dicho acto.
+Estarán facultados para revisar o, en su caso, requerir a los propietarios o poseedores de los vehículos, el engomado vigente que acredita el cumplimiento de la revisión mecánica o de verificación de emisiones contaminantes.
 
 ###### ARTICULO 111.
 
@@ -1011,15 +1145,19 @@ Los inspectores que, en el ejercicio de sus atribuciones, reciban gratificacione
 
 Las autoridades a que se refiere esta Ley no podrán solicitar el otorgamiento de concesiones o permisos durante el término de su cargo, ni durante el año siguiente a la separación del mismo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ### CAPITULO DECIMO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 115.
 
-Se crea el Consejo Consultivo Estatal de Transporte como órgano de carácter interinstitucional de consulta, auxiliar del titular del Poder Ejecutivo, que tiene por objeto diagnosticar, estudiar y analizar la problemática en materia de tránsito y transporte, así como emitir las recomendaciones que para su mejoramiento estime procedentes.
+Se crea el Consejo Estatal de Transporte como órgano de carácter interinstitucional de consulta, auxiliar del titular del Poder Ejecutivo, que tiene por objeto diagnosticar, estudiar y analizar la problemática en materia de tránsito y transporte, así como emitir las recomendaciones que, para su mejoramiento, estime procedentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 116.
 
-El Consejo Consultivo de Transporte se integrará por:
+El Consejo Estatal de Transporte se integrará por:
 
 I.- Un Presidente, que será designado por el Gobernador del Estado;
 
@@ -1039,9 +1177,11 @@ Cada uno de los miembros contará con un suplente designado por él mismo.
 
 Los cargos de los miembros del Consejo serán honoríficos, por lo que no percibirán remuneración alguna.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 117.
 
-El Consejo Consultivo de Transporte tendrá las siguientes atribuciones:
+El Consejo Estatal de Transporte tendrá las siguientes atribuciones:
 
 I.- Asesorar y emitir su opinión al Ejecutivo del Estado en materia de transporte;
 
@@ -1135,7 +1275,7 @@ III.- Vocales, que no serán menos de 10 y más de 25, que estarán representada
 
 ### CAPITULO DECIMO CUARTO. DE LOS RECURSOS
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 124.
 
@@ -1147,9 +1287,15 @@ Las sanciones podrán consistir en:
 
 I.- Amonestación;
 
-II.- Multa de 30 hasta 200 veces el salario mínimo diario vigente en el Estado, según la gravedad de la infracción;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-III.- Multa adicional hasta por la cantidad de 2 salarios mínimos vigentes en el Estado por cada día que persista la infracción;
+II.- Multa de hasta 300 veces el salario mínimo diario vigente en el Estado, según la gravedad de la infracción;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Multa adicional hasta por la cantidad de 300 salarios mínimos vigentes en el Estado por cada día que persista la infracción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 IV.- Suspensión de la prestación del servicio, sin perjuicio de la aplicación de la sanción pecuniaria que corresponda;
 
@@ -1173,9 +1319,15 @@ IV.- Dañar, destruir u obstruir las vías públicas o medios de transporte;
 
 V.- Aplicar itinerarios, horarios y tarifas cuando no hubieren sido aprobadas previamente por la autoridad competente;
 
-VI.- Llevar a cabo bloques, paros y, en general, cualquier acto que obstruya o altere el tránsito en las vías públicas o, en su caso, impida la prestación del servicio público de transporte; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
-VII.- Las demás previstas en la presente Ley, su Reglamento y otras disposiciones aplicables.
+VI.- Llevar a cabo bloques, paros y, en general, cualquier acto que obstruya o altere el tránsito en las vías públicas o, en su caso, impida la prestación del servicio público de transporte;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Las agresiones físicas y verbales y cualquier otro acto que atente con la integridad de los usuarios y de las autoridades del transporte público, y
+
+VIII.- Las demás previstas en la presente Ley, su Reglamento y otras disposiciones aplicables.
 
 ###### ARTICULO 127.
 
@@ -1185,11 +1337,13 @@ El infractor, en el supuesto a que se refiere la fracción I del artículo que a
 
 En los casos a que se refieren las fracciones II y III del artículo 126 de esta Ley, se aplicará multa de entre 150 y 300 veces el salario mínimo diario vigente en la entidad y se impedirá que se continúe prestando el servicio.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 129.
 
-Los supuestos previstos en las fracciones IV, V y VI del artículo 126 de esta Ley, se sancionarán con multas de hasta 300 veces el salario mínimo diario vigente en el Estado, independiente de las sanciones que correspondan conforme a la legislación penal.
+Los supuestos previstos en las fracciones IV, V, VI y VII del artículo 126 de esta Ley, se sancionarán con multas de hasta 300 veces el salario mínimo diario vigente en el Estado, independiente de las sanciones que correspondan conforme a la legislación penal.
 
-En el caso de la fracción V además de la multa a que se refiere el párrafo anterior, se procederá a la cancelación definitiva de la concesión o permiso correspondiente.
+En el caso de la fracción V y VI además de la multa a que se refiere el párrafo anterior, se procederá a la cancelación definitiva de la concesión o permiso correspondiente.
 
 ###### ARTICULO 130.
 
@@ -1229,39 +1383,19 @@ Las autoridades competentes harán uso de las medidas legales necesarias, incluy
 
 ###### ARTICULO 135.
 
-Contra los actos y resoluciones que dicte la Secretaría, excepto aquellos que impliquen la cancelación de alguna concesión o permiso, procederá el recurso de revisión, el cual se interpondrá por escrito ante el titular del Ejecutivo Estatal en un plazo de quince días hábiles, contados a partir del día siguiente a aquél en el que se hubiese notificado la resolución o acto impugnado.
-
-En el escrito deberán expresarse los agravios que, en concepto del recurrente, le causen perjuicio.
-
-El recurso deberá resolverse en un plazo que no excederá de veinte días.
-
-Aquellos recursos que se promuevan contra los actos y resoluciones que dicten los ayuntamientos, se interpondrán y substanciarán ante la autoridad competente en los términos de las disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+Contra los actos y resoluciones que dicte la Secretaría, excepto aquellos que impliquen la cancelación de alguna concesión o permiso, procederá el recurso de revisión, el cual se interpondrá de conformidad con lo dispuesto por la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza.
 
 ###### ARTICULO 136.
 
-El recurso que se interponga en los términos del artículo que antecede, deberá acompañarse, en su caso, de las pruebas que el recurrente estime convenientes.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
 ###### ARTICULO 137.
 
-Promovido el recurso ante el titular del Ejecutivo este suspenderá la aplicación de las sanciones pecuniarias siempre que el infractor otorgue caución suficiente para garantizar el interés fiscal.
-
-Tratándose de los recursos interpuestos contra actos o resoluciones dictadas por las autoridades municipales, procederá, así mismo, la suspensión en los términos del párrafo anterior.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
 ###### ARTICULO 138.
 
-Procederá, además, la suspensión cuando:
-
-I.- Lo solicite el recurrente en el recurso;
-
-II.- No se siga perjuicio al interés social; y
-
-III.- Fueren de difícil reparación los daños y perjuicios que se causen al recurrente con la ejecución del acto o resolución combatida.
-
-La suspensión concedida únicamente producirá el efecto de que las cosas se mantengan en el estado en que se encuentren al concederla y hasta en tanto se resuelve el recurso promovido.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2010)
 
 ###### ARTICULO 139.
 
@@ -1388,3 +1522,13 @@ P.O. 26 DE ENERO DE 2007.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En un plazo no mayor de ciento ochenta días hábiles, deberán expedirse las adecuaciones correspondientes a las disposiciones reglamentarias de esta Ley.
+
+TERCERO.- Para los efectos del artículo 19, las licencias de manejo expedidas con anterioridad a la vigencia del presente decreto, serán válidas por el tiempo que fueron otorgadas.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
