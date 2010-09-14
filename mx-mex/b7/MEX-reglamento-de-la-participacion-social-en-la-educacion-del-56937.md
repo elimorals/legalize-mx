@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-participacion-social-en-la-educacion-del-56937
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-03"
-last_updated: "2007-09-03"
+last_updated: "2010-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA PARTICIPACION SOCIAL EN LA EDUCACION DEL SUBSISTEMA EDUCATIVO FEDERALIZADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 3 de septiembre de 2007.
 
@@ -117,9 +117,13 @@ VI. Proponer a las autoridades escolares medidas de seguridad escolar y particip
 
 VII. Coadyuvar con las autoridades competentes en las acciones que éstas realicen para mejorar la seguridad y la salud de los educandos, la detección, prevención y tratamiento de los problemas de aprendizaje y el mejoramiento del ambiente;
 
-VIII. Hacer del conocimiento de las autoridades educativas escolares de cualquier irregularidad que incida sobre los educandos; y
+VIII. Hacer del conocimiento de las autoridades educativas escolares de cualquier irregularidad que incida sobre los educandos; y (sic)
 
-IX. Proporcionar a las autoridades educativas escolares información relativa a las actividades que realicen.
+IX. Proporcionar a las autoridades educativas escolares información relativa a las actividades que realicen;
+
+> <small>(ADICIONADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+X. Elegir en asamblea general de la asociación de padres de familia, a los representantes de esta asociación, para integrar el Consejo Escolar y los comités a que se refiere la fracción IV del artículo 70 del presente Reglamento.
 
 ###### Artículo 9.
 
@@ -257,9 +261,13 @@ II. Ejercer el voto en las reuniones de la asamblea general;
 
 III. Ser electos para formar parte de la Mesa Directiva, en los términos de este reglamento y demás disposiciones aplicables;
 
-IV. Proponer a la Mesa Directiva programas de beneficio para la comunidad escolar; y
+IV. Proponer a la Mesa Directiva programas de beneficio para la comunidad escolar; y (sic)
 
-V. Los demás que les otorgue este reglamento y los estatutos.
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+V. Informar al Comité del Establecimiento de Consumo Escolar, las irregularidades que se cometan en cuanto a la calidad, valor nutricional e higiene de los alimentos y bebidas que se expendan en dicho establecimiento, así como sobre los demás productos y servicios que ofrezca;
+
+VI. Los demás que les otorgue este reglamento y los estatutos.
 
 ###### Artículo 26.
 
@@ -295,13 +303,11 @@ La Mesa Directiva es el órgano ejecutor de la asociación escolar, la cual se r
 
 En la reunión de la asamblea general que se celebre para elegir a la mesa directiva, se designará una mesa de debates provisional integrada por un presidente, un secretario y tres escrutadores de entre quienes concurran; declarándose electos quienes obtengan cuando menos, el cincuenta por ciento más uno de votos de los asociados presentes. La mesa de debates provisional concluye sus funciones al término de dicha reunión y de la elaboración del acta respectiva.
 
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 29.
 
-La autoridad educativa escolar y la Mesa Directiva saliente, cuando ésta exista, convocarán dentro de los primeros quince días hábiles siguientes al inicio de cada ciclo escolar a los padres de familia para que, reunidos en asamblea general constituida cuando menos por el cincuenta por ciento más uno de sus integrantes, elijan a la Mesa Directiva para el ciclo escolar que inicia, así como a los integrantes del comité responsable del programa de seguridad escolar, elaborándose el acta respectiva.
-
-En dicha asamblea, la Mesa Directiva saliente informará y entregará el estado financiero de su gestión.
-
-La autoridad educativa escolar entregará a la Mesa Directiva entrante su plan de trabajo para el ciclo escolar que se inicia, en base al cual se podrá formular la propuesta para la obtención de recursos.
+La autoridad educativa escolar y la mesa directiva saliente, cuando ésta exista, convocarán dentro de los primeros quince días hábiles siguientes al inicio de cada ciclo escolar, a los padres de familia para que, reunidos en asamblea general constituida cuando menos por el cincuenta por ciento más uno de sus integrantes, elijan a la mesa directiva y a los representantes de los padres de familia que integrarán el Consejo Escolar y los comités a que se refiere la fracción IV del artículo 70 de este Reglamento.
 
 ###### Artículo 30.
 
@@ -549,17 +555,21 @@ IV. A invitación del presidente del Consejo Escolar:
 
 a) Un ex-alumno, que muestre interés por el desarrollo y progreso de la escuela;
 
-b) Un padre de familia de la comunidad educativa;
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+b) Tres padres de familia electos en asamblea general de la asociación respectiva;
 
 c) Un representante de la comunidad donde se encuentra establecida la institución educativa, que se haya destacado por su interés en asuntos educativos; y
 
 V. Un Secretario, designado por el presidente del Consejo Escolar.
 
+> <small>(REFORMADO, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 52.
 
-El Consejo Escolar deberá constituirse dentro de los 30 primeros días de cada ciclo escolar y sus integrantes electos, designados e invitados, desempeñarán funciones por un ciclo escolar. Para tal efecto, el Director de la escuela será el responsable de integrarlo e instalarlo, levantando el acta respectiva.
+El consejo escolar deberá constituirse durante la tercera semana del mes de septiembre de cada ciclo escolar, y sus integrantes podrán desempeñar sus funciones por dos ciclos escolares, con excepción del director escolar. El director de la escuela será el responsable de integrar e instalar el consejo, levantando el acta respectiva.
 
-En el caso de las escuelas de organización incompleta o de nueva creación, el Consejo Escolar se constituirá con el mínimo de integrantes que permitan las condiciones del servicio educativo, el cual en ningún caso será menor de cuatro.
+El cargo de consejero escolar será honorífico. En caso de que algún integrante se separe de su cargo antes de que concluya el periodo, será sustituido en los mismos términos en que fue designado.
 
 #### SECCIÓN SEGUNDA. DE SUS FUNCIONES
 
@@ -573,7 +583,9 @@ El Consejo Escolar tendrá las funciones siguientes:
 
 I. Conocer el calendario escolar, metas educativas y avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
 
-II. Enterarse de los resultados de las evaluaciones que realicen las autoridades educativas escolares;
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+II. Tomar nota de los resultados de las evaluaciones realizadas por las autoridades educativas y, en su caso, coadyuvar con el personal directivo y docente para establecer metas y acciones complementarias que permitan obtener mejores resultados en la evaluación del ciclo escolar en curso;
 
 III. Propiciar la colaboración de maestros y padres de familia;
 
@@ -581,7 +593,9 @@ IV. Proponer estímulos y reconocimientos de carácter social a alumnos, maestro
 
 V. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos;
 
-VI. Participar, apoyar y difundir las acciones necesarias en materia de seguridad escolar;
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Propiciar, coordinar y difundir las acciones necesarias para la protección civil, emergencia escolar y seguridad en la escuela;
 
 VII. Alentar el interés familiar y comunitario por el mejor desempeño del educando;
 
@@ -589,13 +603,39 @@ VIII. Opinar en asuntos de orden pedagógico;
 
 IX. Contribuir a reducir las condiciones sociales adversas que influyan en la educación;
 
-X. Convocar para trabajos específicos de mejoramiento de las instalaciones escolares;
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+X. Coadyuvar en los trabajos específicos de mejoramiento de la infraestructura física educativa;
 
 XI. Proponer las medidas que garanticen la continuidad del servicio educativo y el cumplimiento del calendario escolar;
 
-XII. Instalar el comité responsable del programa de seguridad escolar, a propuesta del Presidente de la Mesa Directiva de la Asociación de Padres de Familia, en términos del presente Reglamento; y
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
 
-XIII. Las demás que establezcan otras disposiciones legales.
+XII. Dar a conocer a la comunidad educativa el monto de los recursos que, en su caso, sean otorgados a la escuela a través de programas federales, estatales o municipales y de aquellos que se obtengan de otras fuentes;
+
+> <small>(REFORMADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XIII. Invitar a la asociación de padres de familia para que informe a la comunidad educativa el monto y destino de los recursos que hubiera obtenido;
+
+> <small>(ADICIONADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XIV. Promover en la escuela los programas de lectura, el uso y mejora de la biblioteca escolar y crear círculos de lectura;
+
+> <small>(ADICIONADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XV. Impulsar la activación física y promover el consumo de alimentos saludables;
+
+> <small>(ADICIONADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XVI. Generar la cultura de la no violencia y el cuidado al medio ambiente;
+
+> <small>(ADICIONADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Promover eventos deportivos y actividades recreativas, artísticas o culturales; y
+
+> <small>(ADICIONADA, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII. Las demás que establezcan otras disposiciones legales.
 
 ###### Artículo 55.
 
@@ -731,6 +771,10 @@ Las decisiones se tomarán por mayoría de votos, en caso de empate, el presiden
 
 La renovación de los integrantes de los consejos escolares de participación social se efectuará al inicio de cada ciclo escolar.
 
+#### SECCIÓN QUINTA. DE LAS SESIONES DE LOS CONSEJOS ESCOLARES
+
+> <small>(ADICIONADO, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 68.
 
 El presidente del consejo, nombrará a los sustitutos de los vocales, cuando sin razón alguna acumulen más de tres faltas o manifiesten su deseo de no seguir participando.
@@ -738,6 +782,84 @@ El presidente del consejo, nombrará a los sustitutos de los vocales, cuando sin
 ###### Artículo 69.
 
 Los consejos se abstendrán de intervenir en asuntos laborales de los establecimientos educativos y en cuestiones políticas y religiosas.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 70.
+
+Los consejos escolares sesionarán, al menos, una vez al mes para tratar los asuntos de su competencia. En los periodos que a continuación se indican, realizarán las actividades siguientes:
+
+A. En la primera semana de octubre:
+
+I. Convocar a la comunidad educativa para conocer las gestiones que haya realizado la escuela para la incorporación a programas federales, estatales o municipales;
+
+II. Solicitar al personal directivo y docentes la relación de trabajos específicos que se requieran para el mejoramiento de las instalaciones escolares;
+
+III. Promover el conocimiento del monto y destino de los recursos provenientes de cualquier fuente distinta a los programas federales, estatales o municipales y sean recabados por el Consejo Escolar; y
+
+IV. Acordar la integración de los comités en temas que tengan por objeto incorporar a la escuela en los programas de:
+
+a) Lectura y biblioteca escolar;
+
+b) Mejoramiento de la infraestructura física educativa;
+
+c) Protección civil y seguridad de la escuela;
+
+d) Impulso a la activación física;
+
+e) Actividades recreativas, artísticas o culturales;
+
+f) Cultura de la no violencia;
+
+g) Establecimiento de consumo escolar;
+
+h) Cuidado al medio ambiente y limpieza del entorno escolar; y
+
+i) Los demás que el Consejo Escolar estime conveniente.
+
+Los comités a que se refiere este artículo se integrarán hasta con cinco miembros, entre los cuales podrán ser docentes y administrativos de la escuela, siempre y cuando la mitad más uno de los miembros sean padres de familia o tutores. Los integrantes de los comités elegirán a su presidente, con excepción del comité del establecimiento de consumo escolar que podrá ser presidido por el director o responsable del plantel educativo, el cual contará con siete miembros.
+
+En las escuelas unitarias o de organización incompleta, se integrarán únicamente los comités que el director considere necesarios para el desarrollo educativo.
+
+Los comités sesionarán con la frecuencia que ellos mismos determinen.
+
+B. En la segunda semana de noviembre:
+
+I. Invitar a directivos, docentes y personal de apoyo de la escuela para tomar nota de los resultados de las evaluaciones realizadas por las autoridades educativas y, en su caso, coadyuvar con el personal directivo y docente para que establezca metas y acciones complementarias que permitan obtener mejores resultados en la evaluación de (sic) ciclo escolar en curso.
+
+C. En la cuarta semana de noviembre:
+
+I. Informar a la comunidad educativa las gestiones que haya realizado la escuela para su incorporación a programas federales, estatales o municipales, la integración de los comités y la toma de nota de los resultados de las evaluaciones;
+
+II. Promover acciones complementarias para lograr las metas comprometidas; y
+
+III. Presentar los proyectos anuales de trabajo del consejo y de los comités.
+
+D. En la tercera semana de febrero:
+
+I. Conocer el monto y destino de los recursos asignados a la escuela a través de programas federales, estatales o municipales; y
+
+II. Promover la realización de actividades deportivas, recreativas, artísticas y culturales que fomenten la convivencia de la comunidad educativa.
+
+E. En la primera semana de junio:
+
+I. Cuantificar el monto y destino de los recursos obtenidos durante su gestión y elaborar el informe de transparencia;
+
+II. Invitar a la asociación de padres de familia para que informe a la comunidad educativa el monto y destino de los recursos que hubiera obtenido; y
+
+III. Elaborar el informe de las acciones desarrolladas por el consejo escolar y los comités durante el ciclo escolar.
+
+F. En la tercera semana de junio:
+
+I. Convocar a la comunidad educativa para presentar los informes correspondientes a la obtención de recursos y acciones realizadas.
+
+Los informes serán públicos, se realizarán en la escuela y se pondrán a disposición de las autoridades educativas, estatales o municipales, procurando, en la medida de lo posible, inscribirlos en el Registro Público de los Consejos Escolares de Participación Social en la Educación.
+
+> <small>(ADICIONADO, G.G. 14 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 71.
+
+Los consejos escolares podrán sesionar en forma extraordinaria, cuando así lo determinen.
 
 T R A N S I T O R I O S
 
@@ -764,3 +886,13 @@ LIC. ROGELIO TINOCO GARCÍA
 DIRECTOR GENERAL Y SECRETARIO DEL H. CONSEJO DIRECTIVO DE SEIEM
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 14 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
