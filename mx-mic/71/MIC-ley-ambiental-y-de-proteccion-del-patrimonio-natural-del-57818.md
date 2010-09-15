@@ -4,7 +4,7 @@ identifier: "MIC-ley-ambiental-y-de-proteccion-del-patrimonio-natural-del-57818"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-20"
-last_updated: "2007-12-20"
+last_updated: "2010-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY AMBIENTAL Y DE PROTECCION DEL PATRIMONIO NATURAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el jueves 20 de diciembre de 2007.
 
@@ -1465,123 +1465,77 @@ Se entiende por contaminación visual aquellas alteraciones causadas al paisaje 
 
 En la construcción de obras o instalaciones que generen contaminación visual así como en su operación y funcionamiento, se deberán realizar acciones preventivas y correctivas para evitar los efectos nocivos de dicha contaminación, conforme a lo dispuesto en la normativa aplicable.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+
 ### Capítulo V. Del Control y Manejo de los Residuos Sólidos Urbanos y de Manejo Especial
 
 ###### Artículo 127.
 
-Las personas físicas o morales que generen residuos sólidos urbanos y de manejo especial tienen la propiedad y la responsabilidad de su manejo desde su origen hasta que son entregados al servicio de limpia o a empresas autorizadas y registradas ante las autoridades competentes para brindar los servicios de limpia, recolección, acopio, transporte, reciclado, tratamiento o disposición final, en cuyo caso la responsabilidad de su manejo ambientalmente adecuado y de acuerdo con las disposiciones de esta Ley y otros ordenamientos aplicables, se transferirá a éstos, según corresponda.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 128.
 
-Las autoridades municipales podrán concesionar los servicios de recolección, acopio, transporte, reciclado, tratamiento o disposición final, de conformidad con lo establecido en la Ley Orgánica Municipal del Estado, esta Ley y demás ordenamientos aplicables. En cualquiera de los casos, el manejo que se haga de los residuos sólidos urbanos o de manejo especial deberá utilizar las mejores técnicas disponibles, ser económicamente viable y ambientalmente efectivo.
-
-Todo otorgamiento de concesión deberá estipular clara y específicamente las condiciones y términos del servicio contratado, garantizando un manejo integral y ambientalmente sustentable de los residuos sólidos y de los sitios de operación, en todas las fases del ciclo de vida de los servicios y al cierre de las operaciones de los mismos.
-
-Para el otorgamiento de las concesiones, las autoridades municipales deberán hacer públicos los términos de la concesión, así como el análisis de costo - beneficio, costo - efectividad o de otro tipo utilizados en la determinación de la concesión, los cuales deberán privilegiar los aspectos y criterios ambientales por encima de los económicos.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 129.
 
-Las autoridades municipales y en su caso los concesionarios, deberán establecer un sistema de pago diferenciado en todas las etapas del manejo integral de los residuos sólidos urbanos, bajo el principio de que quien más residuos genere y quien menos separe los mismos deberá pagar más, asumiendo los costos que esto genera.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 130.
 
-La Secretaría y los ayuntamientos, en el marco de sus respectivas competencias, instrumentarán sistemas de separación de los residuos de manejo especial y sólidos urbanos.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 131.
 
-Los generadores de residuos sólidos urbanos y de manejo especial, están obligados a entregarlos en forma separada, al sistema de recolección municipal en cualquiera de sus modalidades.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 132.
 
-Los grandes generadores de residuos sólidos urbanos, de acuerdo con la Ley General de Residuos y los generadores de residuos de manejo especial están obligados a:
-
-I. Registrarse ante las autoridades estatales y municipales competentes;
-
-II. Establecer planes de manejo para los residuos que generen en grandes volúmenes y someterlos a la aprobación de las autoridades competentes;
-
-III. Llevar una bitácora en la que registren el volumen y tipo de residuos generados anualmente y la forma de manejo a la que fueron sometidos. Las bitácoras anuales deberán conservarse durante dos años y tenerlas disponibles para entregarlas a la Secretaría y a los ayuntamientos, cuando éstos realicen encuestas o las requieran para elaborar los inventarios de residuos; y,
-
-IV. Ocuparse del acopio, almacenamiento, recolección, transporte, reciclaje, tratamiento o disposición final de sus residuos generados en grandes volúmenes o de manejo especial, de conformidad con las disposiciones de esta Ley y otros ordenamientos que resulten aplicables o entregarlos a los servicios de limpia o a proveedores de estos servicios que estén registrados ante las autoridades competentes, cubriendo los costos que su manejo represente.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 133.
 
-Se consideran como residuos de manejo especial los establecidos por el artículo 19 de la Ley General de Residuos, así como aquellos que determine la Secretaría de Medio Ambiente y Recursos Naturales, de común acuerdo con el Gobierno del Estado y los ayuntamientos.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 134.
 
-La Secretaría, en coordinación con las autoridades municipales competentes, promoverá el establecimiento de planes de manejo para facilitar el reciclaje mediante la devolución y acopio de residuos de manejo especial y de grandes generadores a fin de que sean enviados a instalaciones en las cuales se sometan a procesos que permitan su aprovechamiento o disposición segura.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 135.
 
-Los Planes de Manejo deberán ser evaluados por la Secretaría, emitiendo una notificación al interesado en un periodo no mayor a treinta días a partir de su presentación. Para ello, los planes de manejo propuestos deberán contar como mínimo con la siguiente información:
-
-I. Los productos desechados o los residuos de manejo especial objeto de los planes;
-
-II. El territorio que abarcará dicho plan;
-
-III. Los procedimientos propuestos para el manejo ambientalmente adecuado, de conformidad con las disposiciones de esta Ley y otros ordenamientos que resulten aplicables;
-
-IV. Los medios económicos, materiales y humanos necesarios para llevar a cabo dichos procedimientos;
-
-V. Los responsables y las partes que intervengan en la formulación e instrumentación de los planes;
-
-VI. El cronograma de actividades; y,
-
-VII. Las estrategias y medios a través de los cuales se comunicará a los consumidores de productos que al desecharse se someten a los planes de manejo, las acciones que éstos deben realizar para participar activamente en la instrumentación de los planes.
-
-En ningún caso los planes de manejo podrán plantear formas de manejo contrarias a esta Ley o a la Ley General de Residuos.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 136.
 
-Los residuos sólidos urbanos se clasificarán en al menos tres categorías: Sanitarios, Orgánicos y Separados.
-
-En el Estado será obligatorio depositar de manera separada desde el sitio de generación, los residuos sólidos urbanos por lo menos en tres componentes que se reconocerán como sistema SOS:
-
-l. Sanitarios: Aquellos residuos relacionados con el cuidado y el aseo de las personas y de los animales, así como del barrido doméstico, y en general, todos aquellos residuos que no sean susceptibles de separación o valorización y que requieran ser confinados en un relleno sanitario;
-
-II. Orgánicos: Aquellos generados en la preparación, consumo, almacenamiento y comercialización de alimentos de origen animal y vegetal; en la poda y el derribo de arbolado o de la jardinería, así como los esquilmos agrícolas, y en general todos aquellos susceptibles de un tratamiento orgánico para la producción de compostas o algún otro aprovechamiento amigable con el medio ambiente;
-
-III. Separados: Aquellos relacionados con la naturaleza de los materiales que los constituyen y que pueden ser susceptibles de valorización, tales como envases, empaques, embalajes, piezas de madera, papel, vidrio, metal y plástico, entre otros; y,
-
-IV. Otros que se establezcan en la presente Ley o en los ordenamientos jurídicos estatales y municipales derivados de ésta.
-
-La clasificación establecida en este artículo debe considerarse como la mínima indispensable. Las autoridades estatales y municipales podrán disponer mecanismos distintos para la separación y manejo de residuos, siempre y cuando los mismos impliquen una mayor separación y una sub-clasificación en más categorías, un manejo ambientalmente más adecuado y una mejor posibilidad de valorización.
-
-Para señalizar, uniformar y facilitar en la población la adopción de una cultura de manejo adecuado de los residuos de acuerdo con la política estatal, los mismos se identificarán en todo el Estado con los mismos colores los cuales serán determinados por la Secretaría.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 137.
 
-Los ayuntamientos deberán operar un sistema de recolección y transporte de residuos sólidos que los mantenga separados conforme a lo previsto en esta Ley.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 138.
 
-Los ayuntamientos son responsables de realizar una gestión integral de los residuos sólidos urbanos con el propósito de lograr su valorización, o en su caso disponerlos adecuadamente con base en lo siguiente:
-
-I. Los Sanitarios deberán confinarse en un relleno sanitario que cumpla en su ubicación, construcción y operación, con las Normas Oficiales Mexicanas vigentes;
-
-II. Los Orgánicos deberán aprovecharse para la producción de compostas, o cualquier otro tratamiento ambientalmente adecuado; y,
-
-III. Los Separados deberán ser sometidos a un proceso de segregación, acopio, almacenaje y preparación para su valorización y aprovechamiento a través del reciclaje, reutilización, transformación o comercialización.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 139.
 
-Para realizar todas las acciones a que se refiere esta Ley, los ayuntamientos deberán crear y operar centros municipales para el tratamiento integral de los residuos sólidos.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 140.
 
-Los centros municipales deberán disponer de áreas para un adecuado tratamiento a los residuos sólidos urbanos sanitarios, orgánicos y separados conforme a lo previsto en esta Ley, pudiéndose compartir entre dos o más municipios, en tal caso, serán centros intermunicipales para el tratamiento integral de los residuos sólidos.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 141.
 
-Los ayuntamientos podrán utilizar tecnologías ambientalmente adecuadas que utilicen residuos sólidos como materia prima, para producir energía alternativa o bienes de consumo.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 142.
 
-La Secretaría y los ayuntamientos promoverán esquemas de participación social para fortalecer la cultura ambiental en materia de manejo de residuos sólidos conforme a lo previsto en esta Ley.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 143.
 
-Para todo lo no previsto en esta Ley con relación a la regulación de la generación y el manejo integral de los residuos sólidos urbanos y de manejo especial, se aplicará lo señalado en la Ley General de Residuos y las demás disposiciones aplicables.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO, P.O. 15 DE SEPTIEMBRE DE 2010)
 
 ### Capítulo VI. De los Sitios Contaminados
 
@@ -2196,3 +2150,27 @@ PRESIDENTE.- DIP. GUSTAVO ARIAS GARDUÑO.- PRIMER SECRETARIO.- DIP. MARTÍN SAMA
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 27 veintisiete días de mes de Noviembre del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley y se deroga el Capítulo V, artículos del 127 al 143 de la Ley Ambiental y de Protección del Patrimonio Natural del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de la presente Ley, deberá ser expedido por el Ejecutivo del Estado en un plazo no mayor a ciento ochenta días naturales contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+Las autoridades de tránsito emitirán, en un plazo no mayor a ciento veinte días naturales, a partir de la publicación de la presente Ley, las disposiciones administrativas necesarias para regular el transporte de residuos.
+
+###### ARTÍCULO QUINTO.
+
+Los Ayuntamientos deberán expedir o en su caso, adecuar sus reglamentos, bandos y demás disposiciones jurídicas al contenido de esta Ley, en un plazo no mayor a ciento ochenta días naturales, posteriores a la entrada en vigor de ésta. Al efecto, la Secretaría promoverá y apoyará los trabajos necesarios.
