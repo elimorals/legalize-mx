@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2010-07-28"
+last_updated: "2010-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -143,7 +143,9 @@ Queda estrictamente prohibido detener a las personas para fines de investigació
 
 Las autoridades administrativas permitirán a todo detenido se comunique con persona de su confianza, para proveer a su defensa.
 
-En toda averiguación previa si el indiciado estuviere detenido tendrá derecho a nombrar defensor y aportar las pruebas que estimare pertinentes, las que se desahogarán si su naturaleza y las circunstancias del caso lo permiten.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+
+En toda investigación si el indiciado estuviere detenido tendrá derecho a nombrar defensor y aportar las pruebas que estimare pertinentes, las que se desahogarán si su naturaleza y las circunstancias del caso lo permiten.
 
 El indiciado no podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del juez, o ante éstos sin la asistencia de su defensor, carecerá de todo valor probatorio. Si el indiciado fuere indígena, durante el proceso se le proveerá de un traductor que hable su lengua.
 
@@ -363,7 +365,9 @@ II.- Por incapacidad legal o ebriedad consuetudinaria declaradas en forma.
 
 III.- Por falta de cumplimiento, sin causa justificada, de los deberes de ciudadano.
 
-IV.- Por estar procesado criminalmente, desde el auto de formal prisión, o declaración de haber lugar a formación de causa contra los individuos aforados hasta que se dicte sentencia absolutoria ejecutorida (sic) o se extinga la condena. En este caso, la suspensión no se reputa propiamente una pena, y se efectúa de modo legal, sin necesidad de declaración de la autoridad.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Por estar procesado criminalmente, desde el auto de vinculación a proceso, o declaración de haber lugar a formación de causa contra los individuos aforados hasta que se dicte sentencia absolutoria ejecutoriada o se extinga la condena.
 
 V.- Por servir oficialmente al gobierno de otro Estado sin licencia del Congreso. Esta suspensión durará por el tiempo del empleo o comisión, o mientras no se obtenga la licencia expresada.
 
@@ -997,9 +1001,9 @@ XV.- Constituido en Colegio Electoral:
 
 A.- Elegir Gobernador interino, provisional o sustituto en los casos que establezca esta Constitución.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; reelegirlos, en su caso, previa evaluación practicada antes del cumplimiento del plazo establecido para el ejercicio de sus cargos; así como designar al Procurador General de Justicia, de la terna que para tal efecto envíe el Gobernador.
+B.- Nombrar los magistrados que deban integrar el Supremo Tribunal de Justicia y el Tribunal de lo Contencioso Administrativo; así como aprobar el nombramiento del Fiscal General del Estado que para tal efecto envíe el Gobernador.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1025,9 +1029,9 @@ En los casos de nulidad de elecciones y en los demás a que se refieren este inc
 
 Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga el Código Municipal.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-XVI.- Recibir la protesta legal del gobernador, de los diputados; de los magistrados del Supremo Tribunal de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo; del consejero presidente y de los consejeros electorales del Instituto Estatal Electoral; así como de los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+XVI.- Recibir la protesta legal del gobernador, de los diputados; de los magistrados del Supremo Tribunal de Justicia, del Fiscal General del Estado, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo; del consejero presidente y de los consejeros electorales del Instituto Estatal Electoral; así como de los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1109,7 +1113,7 @@ XXXVII.- Dictar leyes para el desarrollo integral de los pueblos indígenas, pre
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
-XXXVIII.- Organizar el sistema penal sobre la base del trabajo, la capacitación para el mismo, la educación y las medidas preliberacionales como medios para lograr la readaptación social de los reos sentenciados.
+XXXVIII.- Organizar el sistema penitenciario sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte, y las medidas preliberacionales como medios para lograr la reinserción social de los reos sentenciados.
 
 XXXIX.- Dictar leyes encaminadas a combatir el alcoholismo.
 
@@ -1195,11 +1199,11 @@ E.- Presentar al Congreso, a más tardar en la tercera sesión posterior inmedia
 
 Para que los diputados puedan cumplir con las prevenciones contenidas en este artículo, todos los funcionarios del Estado y de los municipios les proporcionarán cuantos datos les pidieren.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 66.
 
-Los Diputados podrán formular preguntas al Secretario General de Gobierno, al Procurador General de Justicia o a cualquiera de los Secretarios y Coordinadores, conforme a las bases siguientes:
+Los diputados podrán formular preguntas al Secretario General de Gobierno, al Fiscal General del Estado o a cualesquiera de los Secretarios y Coordinadores, conforme a las bases siguientes:
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -1435,9 +1439,9 @@ III.- No ser ministro de algún culto religioso o haberse retirado del mismo en 
 
 IV.- No haber sido nombrado Gobernador Interino, Provisional o Substituto, en los términos que establece el artículo 90 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-V.- No ser Secretario General de Gobierno, Procurador General de Justicia, Secretario, Coordinador, ni Magistrado del Supremo Tribunal de Justicia;
+V.- No ser Secretario General de Gobierno, Fiscal General del Estado, Secretario, Coordinador, ni Magistrado del Supremo Tribunal de Justicia;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1589,15 +1593,13 @@ XX.- Proponer al Congreso los candidatos a magistrados del Tribunal de lo Conten
 
 XXI.- Pedir informes al Congreso y al Supremo Tribunal de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-XXII.- Nombrar y remover libremente al Secretario General de Gobierno, Secretarios, Coordinadores y Directores y recibirles la protesta de ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.
+XXII.- Nombrar y remover libremente al Secretario General de Gobierno, Secretarios, Coordinadores y Directores, y recibirles la protesta de ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.
 
-En acatamiento al decreto que expida el Congreso, el Gobernador extenderá el nombramiento al Procurador General de Justicia y procederá a tomarle la protesta de ley. El Procurador General de Justicia designará a los Subprocuradores, en los términos que se establezca en su ley orgánica y el Gobernador les extenderá su nombramiento y tomará su protesta de ley.
+Nombrar al Fiscal General del Estado y someterlo a la aprobación del Congreso del Estado, El Fiscal General designará a los Fiscales Especializados, en los términos que se establezca en su ley orgánica y el Gobernador les extenderá su nombramiento y tomará su protesta de ley.
 
-El Gobernador removerá libremente del cargo al Procurador General de Justicia y a los Subprocuradores.
-
-Asimismo, nombrar y remover libremente a los demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes.
+El Gobernador removerá libremente del cargo al Fiscal General del Estado y a los Fiscales Especializados.
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -1647,13 +1649,13 @@ XXXVII.- Delegar en las Autoridades Municipales, en los casos en que lo consider
 
 XXXVIII.- Sujetándose a lo que establezcan las leyes respectivas, celebrar con la Federación convenios de carácter general para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal y solicitar a éste la inclusión de reos de nacionalidad extranjera sentenciados por delitos del orden común del Estado, en los tratados internacionales que se celebren para el efecto de que puedan ser trasladados al país de su origen o residencia.
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-XXXIX.- Enviar al Congreso la terna para ocupar el puesto de Procurador General de Justicia, dentro de los quince días hábiles a que quede vacante el puesto. Si transcurridos quince días hábiles a la recepción de la terna éste no ha sido nombrado, o ninguna de las personas propuestas obtuviera la votación requerida, será designado libremente por el Gobernador.
+XXXIX.- Enviar al Congreso el nombramiento del Fiscal General del Estado para la aprobación correspondiente; y (sic)
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-XL.- Designar libre y directamente a quien deba encargarse del despacho del procurador por el tiempo que dure el procedimiento que se establece en esta Constitución para nombrar al Procurador General de Justicia.
+XL.- Designar libre y directamente a quien deba encargarse del despacho del Fiscal General por el tiempo que dure el procedimiento que se establece en esta Constitución para nombrar al Fiscal General del Estado.
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1671,11 +1673,11 @@ La Administración Pública será centralizada y paraestatal conforme a la Ley O
 
 Las leyes determinarán las relaciones entre las Entidades Paraestatales y el Ejecutivo del Estado, o entre estas y las dependencias centralizadas en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 95.
 
-Para ser Secretario General de Gobierno, Procurador General de Justicia, Secretario o Coordinador, se requiere:
+Para ser Secretario General de Gobierno, Secretario o Coordinador, se requiere:
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1697,9 +1699,9 @@ IV.- Ser mayor de 25 años.
 
 V.- No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-En los casos del Secretario General de Gobierno y del Procurador General de Justicia, se requiere ser mayor de treinta años y este último tener título de Licenciado en Derecho debidamente registrado y 5 años cuando menos de ejercicio profesional.
+En el caso del Secretario General de Gobierno, se requiere ser mayor de treinta años.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1707,29 +1709,29 @@ En los casos del Secretario General de Gobierno y del Procurador General de Just
 
 Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario General de Gobierno en su caso, y los titulares de dichos Poderes.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-El Secretario General de Gobierno, el Procurador General de Justicia, los Secretarios y los Coordinadores, a más tardar en la tercera sesión del segundo período ordinario de sesiones, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
+El Secretario General de Gobierno, el Fiscal General del Estado, los Secretarios y los Coordinadores, una vez iniciado el segundo período ordinario de sesiones, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Asimismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-El Procurador General de Justicia concurrirá al Congreso a través de la Junta de Coordinación Parlamentaria, cuando menos una vez al año, para analizar el estado que guarda su gestión.
+El Fiscal General del Estado concurrirá al Congreso a través de la Junta de Coordinación Parlamentaria, cuando menos una vez al año, para analizar el estado que guarda su gestión.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2010)</small>
 
 El incumplimiento de esta obligación será causa de responsabilidad en los términos de la Ley en la materia.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 97.
 
-Todas las leyes o decretos del Congreso, salvo los casos previstos en el Artículo 74, deberán ser firmados por el Gobernador y el Secretario General de Gobierno, requisito sin el cual no serán obligatorios; los Reglamentos, Acuerdos, Ordenes, Circulares y demás disposiciones del Gobernador, serán firmados por el Secretario General de Gobierno y por el Secretario o Coordinador a que el asunto corresponda o por el Procurador General de Justicia, en su caso.
+Todas las leyes o decretos del Congreso, salvo los casos previstos en el artículo 74, deberán ser firmados por el Gobernador y el Secretario General de Gobierno, requisito sin el cual no serán obligatorios; los reglamentos, acuerdos, órdenes y circulares y demás disposiciones del Gobernador, serán firmados por el Secretario General de Gobierno y por el Secretario o Coordinador a que el asunto corresponda o por el Fiscal General del Estado, en su caso.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 98.
 
-Las ausencias temporales del Secretario General de Gobierno, cuando no excedan de 60 días, serán suplidas por el Procurador General de Justicia.
+Las ausencias temporales del Secretario General de Gobierno, cuando no excedan de 60 días, serán suplidas por el Fiscal General del Estado.
 
 ## TITULO IX.
 
@@ -1901,7 +1903,7 @@ XII.- Formular el Proyecto de Presupuesto de Egresos del Poder Judicial, así co
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
-XIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y el legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación.
+XIII.- Dirimir los conflictos que surjan entre el Poder Ejecutivo y el Legislativo del Estado, siempre que no sean de la competencia de la Cámara de Senadores del Congreso de la Unión o de la Suprema Corte de Justicia de la Nación.
 
 > <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2015,17 +2017,25 @@ V.- Dictar órdenes, en ejercicio de sus funciones a la Policía que esté bajo 
 
 Siempre que el Ministerio Público intervenga en cualesquiera juicios o diligencias, lo hará como parte, debiendo sujetarse a las leyes de procedimientos.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 121.
 
-El Ministerio Público estará a cargo de un Procurador General de Justicia, como jefe de la Institución, y de los agentes que determine la ley.
+El Ministerio Público estará a cargo de un Fiscal General del Estado, como Jefe de la Institución, y de los Agentes que determine la ley.
 
-El Procurador General de Justicia será designado por el Congreso, mediante el voto de las dos terceras partes de la totalidad de los diputados integrantes, en escrutinio secreto. Los integrantes de la terna que para tal efecto envíe el Gobernador, comparecerán previamente ante la Junta de Coordinación Parlamentaria.
+El Fiscal General del Estado será nombrado por el Gobernador y aprobado por el Congreso, mediante el voto de las dos terceras partes de la totalidad de los diputados integrantes, en escrutinio secreto, previa comparecencia ante la Junta de Coordinación Parlamentaria.
 
-Si ninguna de las personas propuestas obtiene las dos terceras partes de los votos, se realizará una segunda votación, únicamente respecto de los dos que hayan alcanzado mayor número de votos, designándose a quien obtenga las dos terceras partes de los votos de los diputados integrantes, en escrutinio secreto.
+Si en la votación no se obtienen las dos terceras partes de los votos, el nombramiento será devuelto al Gobernador con las observaciones correspondientes, a efecto de que envíe una nueva propuesta dentro de los siguientes quince días hábiles.
 
-Si en la segunda votación, ninguno obtuviera las dos terceras partes de los votos, o bien, transcurren quince días hábiles a la recepción de la terna y no ha sido nombrado el Procurador General de Justicia, éste será designado libremente por el Gobernador, pudiendo nombrar a uno distinto a los que integraron la terna enviada al Congreso.
+Para ser Fiscal General del Estado, se requiere:
+
+I. Ser ciudadano mexicano por nacimiento;
+
+II. Ser mayor de treinta años;
+
+III. Tener título de Licenciado en Derecho debidamente registrado y cinco años cuando menos de ejercicio profesional; y
+
+IV. No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.
 
 ###### Art. 122.
 
@@ -2037,11 +2047,11 @@ Si en la segunda votación, ninguno obtuviera las dos terceras partes de los vot
 
 Las ausencias temporales de los agentes del ministerio público serán cubiertas en los términos que señale la ley orgánica.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 124.
 
-Los Agentes del Ministerio Público protestarán ante el Procurador General de Justicia cuando, al recibir su nombramiento, se encuentren en la capital; y en los demás casos, ante el Subprocurador de la Zona en que se hallen establecidos el Juzgado o los Juzgados de Primera Instancia del Distrito Judicial conde (sic) vayan a ejercer sus funciones.
+Los Fiscales Especializados, los Agentes del Ministerio Público y todo el personal de la Fiscalía General del Estado protestarán ante el Fiscal General del Estado.
 
 ## TITULO XI.
 
@@ -2789,9 +2799,9 @@ Tienen fuero:
 
 I.- Del Poder Legislativo, los Diputados al Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-II.- Del Poder Ejecutivo, el Gobernador del Estado, el Secretario General de Gobierno y el Procurador General de Justicia.
+II.- Del Poder Ejecutivo, el Gobernador del Estado, el Secretario General de Gobierno y el Fiscal General del Estado;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3640,3 +3650,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Las adecuaciones a la legislación secundaria deberán realizarse dentro de los noventa días siguientes al día en que surta vigencia el presente Decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política Estatal, y por lo que hace al Artículo Único del presente Decreto, que contiene la reforma constitucional, envíese copia de la iniciativa y de los debates del Congreso a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local.
