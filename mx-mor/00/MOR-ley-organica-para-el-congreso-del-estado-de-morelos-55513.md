@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2010-05-12"
+last_updated: "2010-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -367,6 +367,8 @@ A los diputados que se les haya otorgado licencia, deberán informar por escrito
 
 ### CAPÍTULO I. DE LA MESA DIRECTIVA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 27.
 
 Los grupos parlamentarios son las formas de organización que adoptarán los diputados para realizar tareas específicas, coadyuvar al mejor desarrollo del proceso legislativo, expresar las corrientes políticas y de opinión presentes en el Congreso del Estado, así como para facilitar la participación de los diputados en las tareas legislativas, mismos que deberán estar formados cuando menos por dos diputados.
@@ -405,9 +407,11 @@ Los recursos económicos de que dispondrán los grupos parlamentarios, serán de
 
 ###### Artículo 32.
 
-la Mesa Directiva será la responsable de coordinar los trabajos legislativos del pleno, así como de las comisiones y comités del Congreso del Estado.
+La Mesa Directiva será la responsable de coordinar los trabajos legislativos del pleno, así como de las comisiones y comités del Congreso del Estado. Los integrantes de la Mesa Directiva durarán en sus funciones un año y podrán ser reelectos.
 
-El Presidente de la Mesa Directiva, conduce las sesiones del Congreso del Estado y asegura el debido desarrollo de los debates, discusiones y votaciones del pleno; garantiza que en los trabajos legislativos se aplique lo dispuesto en la Constitución y en la presente ley.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+
+El Presidente de la Mesa Directiva, conduce las sesiones del Congreso del Estado y asegura el debido desarrollo de los debates, discusiones y votaciones del pleno; garantiza que en los trabajos legislativos se aplique lo dispuesto en la Constitución y en la presente Ley. En caso de falta de nombramiento de mesa directiva en turno continuará en funciones hasta el día 5 del siguiente mes, o hasta que se nombre la nueva mesa directiva.
 
 La Mesa Directiva observará en su actuación los principios de imparcialidad y objetividad.
 
@@ -631,11 +635,11 @@ I. Los Diputados Coordinadores de cada uno de los grupos parlamentarios;
 
 II. Los Diputados cuyo partido político no integren grupo parlamentario y estén constituidos como fracción parlamentaria, en los términos preceptuados por esta Ley; y
 
-III. Será Presidente de la Junta Política y de Gobierno, por la duración de la legislatura el coordinador del grupo parlamentario que por sí mismo, cuente con la mayoría absoluta de diputados del Congreso del Estado.
+III. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2010)
 
-> <small>(F. DE E., P.O. 16 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
-En caso de que ningún grupo parlamentario se encuentre en el supuesto de la fracción III de este artículo, la responsabilidad de presidir la Junta Política y de Gobierno tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los coordinadores de los grupos parlamentarios en orden decreciente al número de legisladores que los integren, siempre y cuando cuenten cuando menos con cinco diputados de la legislatura.
+La responsabilidad de presidir la Junta Política y de Gobierno tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los coordinadores de los grupos parlamentarios en orden decreciente al número de legisladores que los integren, siempre y cuando cuenten cuando menos con tres diputados de la legislatura.
 
 En caso de ausencia temporal o definitiva del Presidente de la Junta Política y de Gobierno, el grupo parlamentario al que pertenezca, informará oportunamente tanto al Presidente del Congreso, como a la propia Junta Política y de Gobierno el nombre del diputado que lo sustituirá.
 
@@ -2072,3 +2076,25 @@ En un plazo de 90 días hábiles la Comisión de Reglamentos y Prácticas Parlam
 ###### ARTÍCULO OCTAVO.
 
 Remítase para su divulgación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 15 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor el día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Comisión de Reglamentos y Prácticas Parlamentarias, para que en los siguientes 30 días naturales presente al Pleno del Congreso las reformas al Reglamento del Congreso con las adecuaciones del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en la Gaceta Legislativa del Congreso y remítase para su divulgación en el Periódico Oficial "Tierra y Libertad" órgano de" difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO QUINTO.
+
+Lo dispuesto en el artículo 32 párrafo segundo, iniciará su vigencia el día primero de agosto del año 2011.
