@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2010-06-16"
+last_updated: "2010-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -93,7 +93,9 @@ X. Organismos Autónomos: Los señalados en el capítulo quinto de la Constituci
 
 XI. Unidades Presupuestales: los Poderes Legislativo y Judicial, los Organismos Autónomos, las dependencias y entidades del Poder Ejecutivo, que tengan asignación financiera en el presupuesto del Estado para el ejercicio de sus funciones.
 
-XII. Unidades Administrativas: las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos financieros, humanos y materiales asignados a las unidades presupuestales para la realización de sus atribuciones.
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Unidades Administrativas: las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos financieros, humanos y materiales asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Sceretario Técnico.
 
 ###### Artículo 3.
 
@@ -1861,11 +1863,9 @@ En aquellos casos, en que por circunstancias especiales el Ejecutivo del Estado 
 
 Por servicios prestados por la Secretaría de Gobierno, a través de las dependencias que se mencionan a continuación, se causarán y pagarán los derechos siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2009)</small>
-
-A. Por servicios del Registro Público de la Propiedad y de Comercio:
+A. Por servicios del Registro Público de la Propiedad:
 
 (NOTA: EL 4 DE ENERO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 10/2010, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL APARTADO A FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2107,7 +2107,9 @@ XXVI. Por la expedición de copias certificadas del folio mercantil, por hoja se
 
 XXVII. Por la inscripción, cancelación o anotación de cualquier otro acto no comprendido en las fracciones anteriores, relativos a folios mercantiles: 5 salarios mínimos.
 
-XXVIII. Se exceptúan del pago de los derechos del Registro Público de la Propiedad y de Comercio a que se refiere este artículo:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+XXVIII. Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
 
 a) Las certificaciones o copias certificadas que se expidan a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados para obtener su libertad, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos.
 
@@ -2147,7 +2149,9 @@ q) Las Oficinas del Registro Público de la Propiedad del Estado inscribirán lo
 
 La aplicación de las excepciones en el pago de los derechos del Registro Público de la Propiedad a que se refieren los incisos c), d), g), i), j), k), l), m), n), y ñ) de esta fracción no requerirán la emisión del dictamen confirmatorio de la Secretaría que se señala en el artículo 32 de este Código.
 
-La Dirección General de Registro Público de la Propiedad y del Comercio deberá informar mensualmente a la Secretaría sobre el número y principales características de todas las operaciones registrales que hayan actualizado alguna de las excepciones de pago referidas en el párrafo precedente.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+La Dirección General de Registro Público de la Propiedad y de Inspección y Archivo General de Notarías deberá informar mensualmente a la Secretaría sobre el número y principales características de todas las operaciones registrales que hayan actualizado alguna de las excepciones de pago referidas en el párrafo precedente.
 
 B. Por servicios de la Inspección y Archivo General de Notarías:
 
@@ -2249,9 +2253,11 @@ m) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
 n) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 141.
 
-Por servicios prestados por la Secretaría de Gobierno en materia de Gobernación, se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Gobierno en materia de Gobernación, se causarán y pagarán los derechos siguientes:
 
 > <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
@@ -2267,9 +2273,9 @@ c) Firmas de funcionarios de Gobierno del Estado. 5 salarios mínimos
 
 II. Por registro o diligenciación de exhortos. 7 salarios mínimos
 
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-III. Por actos realizados por el departamento central del Registro Civil del Estado, como son:
+III. Por actos realizados por la Dirección General del Regitro Civil, como son:
 
 a) Expedición de copia certificada de acta del estado civil de las personas. 1.5 salarios mínimos
 
@@ -2280,6 +2286,22 @@ c) Por la búsqueda hasta de cuatro años. 1 salario mínimo
 d) Cotejo de sello y firma. 2 salarios mínimos
 
 e) Cotejo de contenido. 1 salario mínimo
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+f) Expedición urgente de copia
+
+certificada del acta del estado civil
+
+de las personas. 3 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+g) Expedición automatizada de copia
+
+certificada de acta del estado civil de
+
+las personas. 2.5 salarios mínimos
 
 IV. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2001)
 
@@ -2543,7 +2565,9 @@ a) Se exceptúan del pago de derechos por la expedición de la cédula catastral
 
 1. La Federación, el Estado y los Municipios, respecto de los bienes del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean parte de su patrimonio.
 
-2. A los poseedores de predios en las colonias populares, reservas territoriales y fundos legales, destinados a usos habitacionales y en proceso de regularización por parte de la Secretaría de Desarrollo Regional y del Instituto Veracruzano de Fomento al Desarrollo Regional, y
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+2. A los poseedores de predios en las colonias populares, reservas territoriales y fundos legales estatales, destinados a usos habitacionales y en proceso de regularización por parte de cualquiera de las dependencias y entidades del Gobierno del Estado facultadas para ello, y
 
 3. A los adquirentes de vivienda de interés social y popular construida en el Estado, cuando la adquisición sea financiada con créditos otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Fovissste), el Fideicomiso Fondo Nacional de Habitaciones Populares (Fonhapo), el Fondo de Operación y Financiamiento Bancario a la Vivienda (Fovi), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejercito, Fuerza Aérea y Armada S.N.C. (BANJERCITO), y el Instituto de Pensiones del Estado (IPE).
 
@@ -2823,6 +2847,32 @@ EE2 Remolques de trailers $ 9.00
 
 II. (DEROGADA, G.O. 12 DE ABRIL DE 2002)
 
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+F. Por servicios prestados por la Dirección General del Patrimonio del Estado:
+
+I. Por trabajo técnico. Por lote. 3 salarios mínimos
+
+II. Por replanteo de linderos. Por lote. 3 salarios mínimos
+
+III. Por el levantamiento de Poligonal envolvente
+
+a propietarios. Por hectárea. 18 salarios mínimos
+
+IV. Por subdivisión de lotes. 2 salarios mínimos
+
+V. Por la certificación de cada hoja
+
+de copias de planos. 2 salarios mínimos
+
+VI. Por inspección técnica. Por lote. 2 salarios mínimos
+
+VII. Por la reproducción de planos. 4 salarios mínimos
+
+VIII. Por la realización de estudios
+
+socioeconómicos a solicitante de lote. 0.16 salarios mínimos
+
 ### CAPÍTULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN
 
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2010)</small>
@@ -2841,7 +2891,7 @@ II. Abonados. Telefónicos en línea comunal de magneto, mensualmente. 1 salario
 
 (REFORMADA SU DENOMINACION, P.O. 26 DE ENERO DE 2010
 
-### CAPÍTULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO REGIONAL
+### CAPÍTULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE
 
 ###### Artículo 145.
 
@@ -3041,31 +3091,13 @@ No se cobrarán los derechos a que se refiere esta fracción cuando se dé cualq
 
 2. Por autorización para el ejercicio profesional, por registro de título profesional y por expedición de cédula profesional a los maestros con título específico para enseñanza en cualquiera de sus grados.
 
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
 ### CAPÍTULO SÉPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL PODER JUDICIAL DEL ESTADO
 
 ###### Artículo 146.
 
-Por los servicios prestados por la Secretaría de Desarrollo Regional a través de la Dirección General de Patrimonio del Estado, se causarán y pagarán los siguientes derechos:
-
-I. Trabajo Técnico. Por Lote. 3 salarios mínimos.
-
-II. Replanteo de linderos. Por Lote. 3 salarios mínimos.
-
-III. Elaboración de avalúos de lote. 3 salarios mínimos.
-
-IV. Levantamiento de Poligonal envolventes a propietarios. Por hectárea. 18 salarios mínimos.
-
-V. Subdivisión de lotes. 2 salarios mínimos.
-
-VI. Certificación de Copias de documentos. Por hoja. 0.25 salario mínimo.
-
-VII. Certificación de Copias de Planos. 2 salarios mínimos.
-
-VIII. Inspección técnica. Por lote. 2 salarios mínimos.
-
-IX. Reproducción de Planos. 4 salarios mínimos.
-
-X. Estudios socioeconómicos a solicitante de lote. 0.16 salario mínimo.
+(DEROGADO, G.O. 17 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 147.
 
@@ -3325,19 +3357,31 @@ Servicios 10 12 14
 
 III. Por concepto de recepción, evaluación y autorización del proyecto de sistema de tratamiento de aguas residuales, independientemente del uso o rango: 60 salarios mínimos.
 
-IV. Verificación vehicular de emisión de contaminación atmosférica:
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
+IV. En materia de verificación vehicular obligatoria, en los términos establecidos en la Ley 62 Estatal de Protección Ambiental y en el Programa Estatal de Verificación Vehicular Obligatoria y sus modificaciones:
 
-a) Por verificación de vehículos con motor a gasolina, gas licuado de petróleo o gas natural incluyendo motocicletas: 3 salarios mínimos
+A. Por pago de servicios de verificación vehicular estática en centro de verificación autorizado con expedición de certificado holográfico:
 
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
+a) Verificación de vehículos con motor a gasolina, gas licuado de petróleo o gas natural; o expedición de constancia técnica de verificación (rechazo). 3 salarios mínimos
 
-b) Por verificación a vehículos con motor a diesel: 4 salarios mínimos
+b) Por verificación a vehículos con motor a diesel; o expedición de constancia técnica de verificación (rechazo). 4 salarios mínimos
 
-> <small>(ADICIONADO, G.O. 8 DE AGOSTO DE 2003)</small>
+B. Por pago de servicios de verificación vehicular dinámica en el verificentro autorizado:
 
-c) Por verificación extemporánea en ambos casos: 8 salarios mínimos
+a) Verificación con expedición de holograma tipo “0”. 5 salarios mínimos
+
+b) Verificación con expedición de holograma tipo “00”. 10 salarios mínimos
+
+c) Expedición de constancia de verificación vehicular por extravío de certificado. 1 salario mínimo
+
+C. Por el otorgamiento de concesión para prestar los servicios de verificación vehicular:
+
+a) Centro de verificación estática para todo tipo de vehículo automotor. 1,240 salarios mínimos
+
+b) Verificentro homologado con verificación dinámica. 1,300 salarios mínimos
+
+c) Línea adicional para el control de verificación estática o dinámica, en el mismo sitio donde se otorgó la concesión. 750 salarios mínimos
 
 V. Verificación industrial de emisiones de contaminación atmosférica. Por concepto de recepción, evaluación y otorgamiento de licencia ambiental de funcionamiento: 60 salarios mínimos
 
@@ -3349,9 +3393,11 @@ Por concesión para operar centro verificador para todo tipo de vehículo automo
 
 1,240 salarios mínimos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 148.
 
-Por los servicios prestados por la Secretaría de Desarrollo Regional en materia de Ordenamiento y Control Urbano y Regional, se causarán y cobrarán los siguientes derechos:
+Por los servicios prestados por la Secretaría de Desarrollo Social y Medio Ambiente en materia de Ordenamiento y Control Urbano y Regional, se causarán y pagarán los siguientes derechos:
 
 I. Certificación de documentos. Por hoja: 0.25 salario mínimo
 
@@ -3521,9 +3567,9 @@ I. Por copias certificadas de escrituras de protocolo por cada hoja o fracción.
 
 II. Por los certificados y copias certificadas distintas a las señaladas en los capítulos anteriores a este Título, por cada hoja o fracción. 0.25 salarios mínimos
 
-III. Por la expedición de certificados de sanidad animal otorgados por la Secretaría de Desarrollo Agropecuario y Pesquero.
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-Por cada animal 7 salarios mínimos
+III. Por la expedición de certificados de sanidad animal otorgados por la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca, por cada animal. 7 salarios mínimos
 
 IV. Por la expedición de copias certificadas de diligencias de averiguaciones previas levantada por el Ministerio Público, por cada hoja o fracción 0.25 salario mínimo
 
@@ -3667,15 +3713,19 @@ Quedan comprendidos dentro de esta clasificación los ingresos que obtenga el Es
 
 I. Venta de bienes muebles e inmuebles propiedad del estado destinados a un fin de interés público;
 
-> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-II. Venta de engomados de verificación vehicular, a razón de:
+II. Venta de certificado holográfico para centro de verificación vehicular o verificentro:
 
-a) 1.5 salarios mínimos para vehículos a gasolina, gas licuado de petróleo o gas natural, incluyendo motocicletas;
+a) Certificado holográfico para verificación estática de vehículos con motor a gasolina, gas licuado de petróleo o gas natural. 1.5 salarios mínimos
 
-b) 2 salarios mínimos para vehículos a diesel; y
+b) Certificado holográfico para verificación a vehículos con motor a diesel. 2 salarios mínimos
 
-c) 6 salarios mínimos para extemporáneos en ambos casos.
+c) Certificado holográfico para verificación dinámica con expedición de holograma tipo “0”. 2 salarios mínimos
+
+d) Certificado holográfico para verificación dinámica con expedición de holograma tipo “00”. 4 salarios mínimos
+
+El 60% del ingreso que perciba el Estado proveniente de estos aprovechamientos que se deriven de la verificación vehicular obligatoria, se destinarán a la implementación de obras y acciones en materia de calidad del aire, áreas naturales protegidas, manejo integral de residuos y ordenamiento ecológico.
 
 III. Reintegros e indemnizaciones;
 
@@ -5165,9 +5215,11 @@ Corresponde a la unidad administrativa de cada dependencia elaborar el programa 
 
 La unidad administrativa determinará la pertinencia de consolidar los requerimientos de adquisiciones y contratación de servicios.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 215.
 
-La adquisición de bienes inmuebles para integrarlos al patrimonio estatal, debe estar considerada en el programa operativo anual de la Secretaría de Desarrollo Regional.
+La adquisición de bienes inmuebles para integrarlos al patrimonio estatal debe estar considerada en el programa operativo anual de la Secretaría, a través de la Dirección General del Patrimonio del Estado.
 
 La Secretaría determinará, en atención al presupuesto autorizado, la disponibilidad presupuestal y el calendario de ministraciones para el pago del precio de los inmuebles a adquirir o de las indemnizaciones que deriven de procedimientos expropiatorios.
 
@@ -5185,15 +5237,21 @@ El precio a cubrir por la adquisición de un inmueble no podrá ser mayor del qu
 
 5. Establecimiento de industrias que deriven en una derrama económica para la región.
 
-6. En los demás asuntos que la Secretaría de Desarrollo Regional estime y considere necesaria la erogación de un importe superior al avalúo, por virtud de la trascendencia económica y social que derive de su operación.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-En todos los casos anteriores, la Secretaría de Desarrollo Regional acreditará el pago superior al avalúo físico del inmueble, considerando las condiciones de su uso o destino, así como las actividades que en éstos se desarrollarán por sus ocupantes.
+6. En los demás asuntos que la Dirección General del Patrimonio del Estado estime y considere necesaria la erogación de un importe superior al avalúo, por virtud de la trascendencia económica y social que derive de su operación.
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+En todos los casos anteriores, la Secretaría, a través de la Dirección General del Patrimonio del Estado, acreditará el pago superior al avalúo físico del inmueble, considerando las condiciones de su uso o destino, así como las actividades que en éstos se desarrollarán por sus ocupantes.
 
 ###### Artículo 217.
 
 Tratándose de procedimientos expropiatorios, servirá de base para el pago de la indemnización el valor catastral del bien, de conformidad con la legislación de la materia.
 
-Excepcionalmente, la Secretaría de Desarrollo Regional erogará una cantidad superior al avalúo catastral de los bienes, en los siguientes casos:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+Excepcionalmente, la Secretaría, a través de la Dirección General del Patrimonio del Estado erogará una cantidad superior al avalúo catastral de los bienes, en los siguientes casos:
 
 I. Tratándose de procedimientos expropiatorios en los que se haya convenido con los afectados el importe de la indemnización, con el propósito de que el Estado tome posesión inmediata del inmueble
 
@@ -5201,13 +5259,19 @@ II. Cuando se haya interpuesto un recurso o medio de defensa legal que genere el
 
 III. Tratándose de procedimientos expropiatorios en los cuales se convenga con los afectados el pago de una indemnización sustentada en un avalúo no catastral del inmueble.
 
-Para todos los casos referidos en este artículo, la Secretaría de Desarrollo Regional acreditará que procede efectuar un pago superior al avalúo catastral, basado en un dictamen emitido por institución de crédito, perito calificado o por la Comisión de Avalúos de Bienes Nacionales.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+Para todos los casos referidos en este artículo, la Dirección General del Patrimonio del Estado acreditará que procede efectuar un pago superior al avalúo catastral, basado en un dictamen emitido por institución de crédito, perito calificado o por el Instituto de Administración y Avalúos de Bienes Nacionales.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 218.
 
-Efectuada la adquisición del inmueble, la Contraloría deberá registrarlo en el inventario de bienes inmuebles estatales.
+Efectuada la adquisición del inmueble, la Secretaría deberá registrarlo en el inventario de bienes inmuebles estatales.
 
-La Secretaría de Desarrollo Regional integrará el expediente de la adquisición, el cual deberá contener los antecedentes de propiedad, croquis de localización, libertad de gravamen, avalúo emitido por la Secretaría; en el caso del inmuebles (sic) de propiedad ejidal, avalúo emitido por la Comisión de Avalúos de Bienes Nacionales y por la escritura pública que formalice la enajenación a favor del Gobierno del Estado.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+La Secretaría integrará el expediente de la adquisición, el cual deberá contener los antecedentes de propiedad, croquis de localización, libertad de gravamen, avalúo emitido por la Secretaría; en el caso de inmuebles de propiedad ejidal, avalúo emitido por el Instituto de Administración y Avalúos de Bienes Nacionales y por la escritura pública que formalice la enajenación a favor del Gobierno del Estado.
 
 En lo relativo a los procedimientos expropiatorios además de la información referida en el párrafo anterior, se incluirá el Decreto Expropiatorio en donde se indique la causa de utilidad pública.
 
@@ -6283,7 +6347,7 @@ DECRETO QUE REFORMA LA FRACION VI DEL ARTICULO 1358 DEL CODIGO MUNICIPAL DE AGUA
 
 ### CAPÍTULO SEGUNDO. DE LOS PAGOS Y MINISTRACIONES
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 360.
 
@@ -6354,6 +6418,10 @@ IV. La contratación de seguros y fianzas, conforme a las solicitudes que le pre
 V. La constitución de garantías a cargo del Gobierno del Estado, y
 
 VI. La ejecución de garantías y fianzas a favor del Gobierno del Estado.
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+VII. La realización de inversiones financieras a fin de obtener un rendimiento de los recursos disponibles.
 
 ###### Artículo 229.
 
@@ -6541,7 +6609,7 @@ Procedimiento
 
 ###### Artículo 233.
 
-La Tesorería de la Secretaría, atendiendo a las disponibilidades de recursos financieros con las que se cuente, efectuará los pagos de las obligaciones principales y accesorias a cargo del Gobierno del Estado, incluyendo las que tramiten las unidades presupuestales.
+La Tesorería de la Secretaría, atendiendo a las disponibilidades de recursos financieros con las que se cuente, efectuará los pagos de las obligaciones principales y accesorias a cargo del Gobierno del Estado, incluyendo las que tramiten las unidades presupuestales, en términos de lo establecido en el artículo 267.
 
 ###### Artículo 234.
 
@@ -7033,7 +7101,9 @@ El registro presupuestal de las erogaciones en las unidades presupuestales se ef
 
 I. Asignación Presupuestal, que identifica el presupuesto de la unidad presupuestal, aprobado por el Congreso, y en su caso, modificada con autorización de la Secretaría.
 
-II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación; y
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación y se registre con carácter de devengado; y
 
 III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
 
@@ -7105,13 +7175,19 @@ Las dependencias y entidades, a través de sus unidades administrativas, enviar�
 
 I. Balance General o Estado de Situación Financiera.
 
-II. Estado de Ingresos y Egresos; los ingresos estarán referidos a las ministraciones presupuestales.
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+II. Estado de Ingresos y Egresos; los ingresos estarán referidos a las ministraciones presupuestales y los que obtengan con motivo del ejercicio de sus funciones;
 
 III. Balanza de Comprobación.
 
 IV. Estado de Avance Presupuestal.
 
 V. Conciliaciones Bancarias.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+La información financiera que los fideicomisos públicos envíen será la que generen las instituciones que tengan a su cargo la encomienda fiduciaria, misma que se integrará por el informe de ingresos y gastos del periodo correspondiente.
 
 ###### Artículo 278.
 
@@ -7791,11 +7867,13 @@ Los municipios y sus entidades estarán sujetos a las disposiciones de la Ley de
 
 La deuda pública de los municipios y sus entidades será aquella que derive de operaciones de endeudamiento que, para cumplir con los objetivos encomendados, celebren estos o sus propias entidades, pudiendo el Gobierno del Estado concurrir como deudor solidario o aval. En este caso, la deuda pública municipal estará regulada por las disposiciones de este Código y demás aplicables.
 
-> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 316.
 
-Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código asuma el Estado, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales la ejecución de obras que directa o indirectamente produzcan un incremento en los ingresos públicos del Estado.
+Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Estado, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales las erogaciones realizadas con estos recursos destinadas a la ejecución de obras, contratación de servicios, adquisición de bienes y los asignados para rehabilitación de bienes que generen un aumento en la capacidad o vida útil de los mismos, siempre que con la operación de dichos activos se genere, directa o indirectamente, un incremento en los ingresos públicos del Estado.
+
+Asimismo, los recursos derivados de operaciones de financiamiento podrán destinarse a cubrir un déficit en la Hacienda del Estado, generado por situaciones de la economía nacional o estatal, o suscitadas por algún acontecimiento futuro e incierto que altere la planeación financiera original del Estado, previo cumplimiento de los requisitos establecidos en este Código.
 
 ###### Artículo 317.
 
@@ -8644,3 +8722,9 @@ G.O. 16 DE JUNIO DE 2010.
 PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes a su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Todos aquellos casos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán rigiéndose por las disposiciones entonces vigentes y se resolverán conforme a ellas.
