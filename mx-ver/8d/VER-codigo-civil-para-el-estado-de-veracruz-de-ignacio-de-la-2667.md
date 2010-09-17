@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2010-08-10"
+last_updated: "2010-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1407,9 +1407,11 @@ ARTICULO 238
 
 En la adopción simple el adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen los padres y los hijos. Tratándose de adopción plena se estará a lo dispuesto en los artículos 232, 234, 235 y 236 de este Código.
 
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
 ARTICULO 239
 
-Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentario, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica del alimentario, y para proporcionarle algún oficio, arte o profesión lícitos y adecuados a sus circunstancias personales.
 
 ARTICULO 240
 
@@ -16152,3 +16154,9 @@ G.O. 10 DE AGOSTO DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2010.
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
