@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2009-10-30"
+last_updated: "2010-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -361,6 +361,10 @@ II. Acordar con el Presidente lo relativo a las sesiones y apoyarlo en las tarea
 
 III. Dar cuenta en las sesiones de los asuntos a tratar, tomar la votación de sus integrantes cuando sea procedente, formular el acta relativa y comunicar las decisiones que se acuerden;
 
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+III Bis. En el caso del Secretario General de Acuerdos, turnar a las Salas correspondientes los asuntos de su competencia, conforme al sistema aleatorio determinado en esta ley;
+
 IV. Realizar la identificación e integración de los expedientes;
 
 V. Dar cuenta de las promociones presentadas por las partes el mismo día de su presentación;
@@ -605,9 +609,11 @@ XXIV. Conocer de los demás asuntos que expresamente establezcan la Constitució
 
 ### CAPÍTULO III. De su Presidente
 
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 39.
 
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala. El Presidente será elegido por el Pleno cada tres años, en la primera semana de diciembre, pudiendo ser reelegido por una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación del Magistrado Presidente interino la hará el Pleno.
+El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala. El Presidente será elegido por el Pleno cada tres años, en la primera semana de diciembre, pudiendo ser reelegido por una sola vez; al concluir la gestión enunciada retornará a su adscripción de origen, y en sus faltas temporales no mayores de treinta días será sustituido por el Magistrado que él designe, pero si excediere de ese término, la designación del Magistrado Presidente interino la hará el Pleno.
 
 ###### Artículo 40.
 
@@ -623,13 +629,13 @@ III. Designar como su representante para asuntos concretos a otro Magistrado o s
 
 IV. Celebrar, por acuerdo del Pleno, convenios y contratos en la esfera de su competencia;
 
-> <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-V. Presentar ante el Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el Tribunal y el Consejo que preside, de sus organismos y el de los juzgados. Este informe se entregará al Congreso del Estado;
+V. Presentar ante el Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, en la tercera semana de noviembre de cada año, un informe por escrito de las actividades realizadas por el Tribunal que preside, de sus organismos y el de los juzgados. Este informe se entregará al Congreso del Estado;
 
 VI. Dar cuenta al Pleno de las demandas instauradas en contra de los servidores públicos a que se refiere el artículo 77 de la Constitución Política local;
 
-VII. Turnar a las Salas correspondientes los asuntos de su competencia, conforme al sistema aleatorio determinado en esta ley;
+VII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2010)
 
 VIII. Acordar en materia penal, la prórroga de jurisdicción, conjuntamente con los Presidentes de las Salas Penales;
 
@@ -753,7 +759,11 @@ IX. (DEROGADA, G.O. 27 DE AGOSTO DE 2004)
 
 X. Informar al Presidente del Tribunal Superior de Justicia, para su publicación, de las resoluciones y precedentes obligatorios dictados por la Sala correspondiente;
 
-XI. Rendir al Presidente del Tribunal Superior de Justicia, dentro de los primeros quince días del mes de noviembre de cada año, el informe anual de las actividades de la Sala para su inclusión en el informe que aquél rinda al Pleno de dicho Tribunal;
+Presentar ante el Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura, en la tercera semana de noviembre de cada año, un informe por escrito de las actividades realizadas por el Tribunal que preside, de sus organismos y el de los juzgados. Este informe se entregará al Congreso del Estado;
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Rendir al Presidente del Tribunal Superior de Justicia, dentro de la primera semana del mes de noviembre de cada año, el informe anual de las actividades de la Sala para su inclusión en el informe que aquél rinda al Pleno de dicho Tribunal;
 
 XII. Proponer, previo acuerdo de la Sala de que se trate y en su respectivo ámbito de competencia, reformas al reglamento del Tribunal Superior de Justicia;
 
@@ -939,7 +949,7 @@ III. Designar, por riguroso turno, al Magistrado ponente en los asuntos que cono
 
 IV. Dictar los acuerdos de trámite para la sustanciación de los asuntos que sean competencia del Tribunal;
 
-V Presentar al Tribunal para su aprobación, las actas en que se hagan constar sus deliberaciones y acuerdos;
+V. Presentar al Tribunal para su aprobación, las actas en que se hagan constar sus deliberaciones y acuerdos;
 
 VI. Informar al Presidente del Tribunal Superior de Justicia, para su publicación, de las resoluciones y precedentes obligatorios dictados por el Tribunal Electoral;
 
@@ -947,7 +957,11 @@ VII. Proponer al Consejo de la Judicatura, el nombramiento del Secretario de Acu
 
 VIII. Proponer reformas al Reglamento del Tribunal;
 
-IX. Presentar ante los Magistrados que integran el Tribunal Electoral, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará también al Congreso del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Presentar ante los Magistrados que integran el Tribunal Electoral, en la tercera semana de noviembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará también al Congreso del Estado;
 
 X. Conocer y someter a la consideración del Tribunal, las excusas o impedimentos de sus Magistrados;
 
@@ -1007,6 +1021,12 @@ VIII. Dar cuenta al Consejo de la Judicatura de las irregularidades de que tenga
 
 IX. Las demás que deriven de las disposiciones legales estatales.
 
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 50 Ter.
+
+Los acuerdos del Pleno se tomarán por mayoría de votos de los integrantes presentes, quienes sólo podrán abstenerse de votar en los casos en que tengan impedimentos legales. Cuando exista empate, el Presidente tendrá voto de calidad.
+
 (REUBICADA [N. DE E. ANTES SECCION SEGUNDA], G.O. 30 DE OCTUBRE DE 2009)
 
 #### SECCIÓN TERCERA. Del Presidente del Tribunal
@@ -1043,23 +1063,27 @@ VIII. Proponer al Consejo de la Judicatura el nombramiento del Secretario de Acu
 
 IX. Ejercer su presupuesto bajo los criterios de legalidad, transparencia, honradez y austeridad;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-X. Presentar ante el Consejo de la Judicatura y los Magistrados que integran las Salas Superior y Regionales del Tribunal de lo Contencioso Administrativo, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará al Congreso del Estado;
+X. Presentar ante el Consejo de la Judicatura y el Pleno del Tribunal de lo Contencioso Administrativo, en la tercera semana de noviembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará al Congreso del Estado;
 
 XI. Conocer y someter a la consideración de la Sala Superior, las excusas o impedimentos de los Magistrados del Tribunal; y (sic)
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-XII. Elaborar y someter a la consideración de la Sala Superior, a más tardar el día quince de octubre de cada año, su anteproyecto anual de presupuesto;
+XII. Elaborar y someter a la consideración del Pleno del Tribunal de lo Contencioso Administrativo, a más tardar el día quince de octubre de cada año, su anteproyecto anual de presupuesto;
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-XIII. Conocer de los avisos que los Magistrados del Tribunal de lo Contencioso Administrativo le den respecto a sus ausencias no mayores de cinco días; y
+XIII. Resolver sobre las solicitudes de licencia no mayores de los diez días naturales que le formulen los Magistrados del Tribunal, así como conocer de los avisos que éstos le den, respecto a sus ausencias no mayores de cinco días;
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-XIV. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
+XIV. Atender las observaciones y recomendaciones que le formule el Órgano de Fiscalización Superior, respecto del ejercicio de su presupuesto, en los términos que establezca la Ley; y
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+XV. Las demás que expresamente establezcan la Constitución local y las leyes del Estado.
 
 (REUBICADA [N. DE E. ANTES SECCION TERCERA], G.O. 30 DE OCTUBRE DE 2009)
 
@@ -1093,9 +1117,7 @@ XI. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
 XII. (DEROGADA, G.O. 30 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
-
-XIII. Atender las observaciones y recomendaciones que le formule el Órgano de Fiscalización Superior, respecto del ejercicio de su presupuesto, en los términos que establezca la Ley; y
+XIII. (DEROGADA, G.O. 17 DE SEPTIEMBRE DE 2010)
 
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1119,7 +1141,7 @@ II. Sala Regional. Zona Centro, con residencia en Xalapa, Veracruz, con jurisdic
 
 > <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
 
-lII. Sala Regional. Zona Sur, con residencia en Coatzacoalcos, Veracruz, con jurisdicción en los Distritos Judiciales de: Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos.
+III. Sala Regional. Zona Sur, con residencia en Coatzacoalcos, Veracruz, con jurisdicción en los Distritos Judiciales de: Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos.
 
 ###### Artículo 55.
 
@@ -1243,9 +1265,9 @@ VII. Proponer al Consejo de la Judicatura, el nombramiento del Secretario de Acu
 
 VIII. Proponer reformas al Reglamento de su Tribunal;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-IX. Presentar ante el Consejo de la Judicatura y los Magistrados que integran el Tribunal de Conciliación y Arbitraje, en la primera semana de diciembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará al Congreso del Estado;
+IX. Presentar ante el Consejo de la Judicatura y los Magistrados que integran el Tribunal de Conciliación y Arbitraje, en la tercera semana de noviembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará al Congreso del Estado;
 
 X. Conocer y someter a la consideración del Tribunal, las excusas o impedimentos de sus Magistrados;
 
@@ -1253,9 +1275,9 @@ X. Conocer y someter a la consideración del Tribunal, las excusas o impedimento
 
 XI. Elaborar y someter a la consideración de los Magistrados que integran el Tribunal, a más tardar el día quince de octubre de cada año, el anteproyecto anual de presupuesto;
 
-> <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-XII. Conocer de los avisos que los Magistrados del Tribunal de Conciliación y Arbitraje le den respecto a sus ausencias no mayores de cinco días; y
+XII. Conocer de los avisos que los Magistrados del Tribunal de Conciliación y Arbitraje le den respecto a sus ausencias no mayores de cinco días, así como resolver sobre las licencias no mayores de diez días naturales que éstos le soliciten; y
 
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1385,7 +1407,7 @@ VI. Rendir con toda exactitud los informes que el Consejo de la Judicatura le so
 
 VII. Remitir al Consejo de la Judicatura la noticia mensual de las labores judiciales y enviarle copia de las resoluciones que pongan fin a los procesos penales, civiles y mercantiles en jurisdicción concurrente, así como informar de los asuntos que se radiquen y de los que se encuentren pendientes de resolver;
 
-VIll. Dar cuenta al Consejo de la Judicatura de las deficiencias o irregularidades que observen en la actuación de los Agentes del Ministerio Público, Defensores de Oficio y demás auxiliares de la Administración de Justicia;
+VIII. Dar cuenta al Consejo de la Judicatura de las deficiencias o irregularidades que observen en la actuación de los Agentes del Ministerio Público, Defensores de Oficio y demás auxiliares de la Administración de Justicia;
 
 IX. Llevar la hoja de servicios de los Secretarios y empleados a sus órdenes;
 
@@ -1793,9 +1815,11 @@ IV. Un representante del Congreso.
 
 El Consejero propuesto por el Gobernador y el representante del Congreso, deberán satisfacer los mismos requisitos que se exigen para ser Magistrado y haberse distinguido por su capacidad y honestidad en el ejercicio de las actividades jurídicas.
 
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 101.
 
-Los Consejeros, a excepción del Presidente, durarán en su cargo cinco años, y no podrán ser designados para otro período.
+Los Consejeros, a excepción del Presidente, durarán en su cargo cinco años y no podrán ser designados para otro periodo. Los consejeros provenientes de los Tribunales, al concluir su cargo, retornarán a su adscripción de origen.
 
 ###### Artículo 102.
 
@@ -1877,7 +1901,7 @@ XVI. Organizar simposiums, conferencias y demás eventos que resulten de interé
 
 XVII. Practicar visitas a los juzgados y a la Comisión Jurisdiccional de Menores Infractores, así como realizar investigaciones sobre casos concretos;
 
-> <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 XVIII. Conocer y resolver, con excepción de los Magistrados, sobre los casos de renuncia, licencia no mayor a diez días naturales, ausencia temporal, suplencia y faltas definitivas de los servidores públicos del Poder Judicial, en los términos que señale esta ley. El Consejo de la Judicatura podrá delegar esta facultad a los titulares de los órganos jurisdiccionales;
 
@@ -2299,7 +2323,7 @@ V. No despachen oportunamente los oficios o lleven al cabo las diligencias que s
 
 VI. Retarden indebida o maliciosamente, las certificaciones, emplazamientos, embargos o diligencias de cualquier clase que les fueren encomendadas;
 
-VII. Lleven al cabo diligencias fuera del lugar señalado en autos;
+VII. Lleven al (sic) cabo diligencias fuera del lugar señalado en autos;
 
 VIII. Den preferencia a alguno o algunos de los litigantes con perjuicio de otros;
 
@@ -2734,5 +2758,11 @@ Noveno. Se derogan todas las disposiciones que se opongan a este Decreto.
 G.O. 30 DE OCTUBRE DE 2009.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado, con excepción de lo dispuesto en la fracción IX del artículo 48 Decies, que iniciará su vigencia el primero de enero de dos mil once.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
