@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2010-06-24"
+last_updated: "2010-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -5049,7 +5049,9 @@ Se oirá precisamente al Ministerio Público:
 
 I.- Cuando la solicitud promovida afecte los intereses públicos;
 
-II.- Cuando se refiera a la persona o bienes de menores o incapacitados;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Cuando se refiera a la persona o bienes de menores o discapacitados;
 
 III.- Cuando tenga relación con los derechos o bienes de un ausente;
 
@@ -5073,9 +5075,13 @@ Las resoluciones dictadas en jurisdicción voluntaria, son apelables en ambos ef
 
 ARTICULO 700
 
-Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-La declaración de estado de minoridad o de demencia, puede pedirse:
+Ninguna tutela puede conferirse sin que previamente se declare el estado de minoridad o de discapacidad de la persona que va a quedar sujeta a ella.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+La declaración de estado de minoridad o de discapacidad intelectual puede pedirse:
 
 I.- Por el mismo menor;
 
@@ -5093,29 +5099,33 @@ ARTICULO 701
 
 Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará inmediatamente a una audiencia dentro del tercero día, a la que concurrirán el menor, si fuere posible, y el Ministerio Público. En ella, con o sin la asistencia de éste, y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
 
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
 ARTICULO 702
 
-La declaración de incapacidad por causa de demencia que no resulte declarada en sentencia firme, se acreditará en incidente que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez, reservando a las partes el derecho que pueda asistirles en el juicio correspondiente.
+La declaración de discapacidad intelectual que no resulte declarada en sentencia firme se acreditará en incidente que se seguirá entre el peticionario y un tutor interino que para tal objeto designe el juez, reservando a las partes el derecho que pueda asistirles en el juicio correspondiente.
 
-> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
-
-El nombramiento de tutor interino deberá recaer por su orden en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, cónyuge, hijos, madre, abuelos y hermanos del incapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias.
-
-En el caso de no haber ninguna de las personas indicadas, o no siendo aptas para la tutela, el juez con todo escrúpulo debe nombrar como tutor interino a persona de reconocida honorabilidad, prefiriendo a la que sea pariente o amiga del incapacitado o de sus padres y que no tenga ninguna relación de amistad o comunidad de intereses o dependencia con el solicitante de la declaración.
+El nombramiento de tutor interino deberá recaer, por su orden, en las personas siguientes, si tuvieren la aptitud necesaria para desempeñarlo: padre, cónyuge, hijos, madre, abuelos y hermanos del discapacitado. Si hubiere varios hijos o hermanos serán preferidos los mayores de edad. En el caso de abuelos, frente a la existencia de maternos o paternos, el Juez resolverá atendiendo a las circunstancias.
 
 ARTICULO 703
 
 En el incidente a que se refiere el artículo anterior, se observarán las siguientes reglas:
 
-I.- La tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-II.- El estado de demencia puede probarse por testigos o documentos, pero en todo caso se requiere la certificación de tres médicos por lo menos, preferentemente alienistas. El tutor puede nombrar un médico para que tome parte en la audiencia y se oiga su dictamen;
+I.- La tutela interina debe limitarse a los actos de mera protección a la persona y conservación de los bienes del discapacitado. Si ocurriere urgente necesidad de otros actos, el tutor interino podrá obrar prudentemente previa autorización judicial;
 
-III.- Si el auto de primera instancia fuere declaratorio de estado, proveerá el juez, aunque fuere apelado o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo guarda del presunto incapacitado, y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidado de la persona;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 31 DE MARZO DE 1988)</small>
+II.- El estado de discapacidad intelectual puede probarse por testigos o documentos, pero en todo caso se requiere la certificación de tres médicos por lo menos, preferentemente especialistas en la materia. El tutor puede nombrar un médico para que tome parte en la audiencia y se oiga su dictamen;
 
-IV.- El que promueva dolosamente el incidente de interdicción, incurrirá en las penas que la Ley impone por falsedad y calumnia; y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa hasta por el equivalente a ciento ochenta días del salario mínimo general vigente en la Capital del Estado, durante el mes de enero del año de que se trate, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Si el auto de primera instancia fuere declaratorio de estado de minoridad o discapacidad, proveerá el juez, aunque fuere apelado o antes si hubiere necesidad urgente, a la patria potestad o tutela de las personas que estuvieren bajo guarda del presunto discapacitado, y a nombrar curador que vigile los actos del tutor interino en la administración de los bienes y cuidado de la persona;
+
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- El que promueva dolosamente el incidente de interdicción, incurrirá en las penas que la Ley impone por falsedad y, sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una cantidad equivalente a ciento ochenta días del salario mínimo general vigente en la Capital del Estado en el momento de su aplicación, que se destinará íntegramente el supuesto discapacitado; y
 
 V.- Luego que cause ejecutoria la sentencia de interdicción, se proveerá a discernir el cargo al tutor propietario en los términos de ley.
 
@@ -5178,6 +5188,8 @@ V.- Si se objetaren de falsas algunas partidas se substanciará el incidente por
 ARTICULO 711
 
 Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa lata en el tutor, se iniciará desde luego a petición de parte o del Ministerio Público, el juicio de separación, que se seguirá en forma contenciosa, y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso entretanto, el tutor propietario, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales.
+
+> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 699
 
@@ -5281,11 +5293,13 @@ H
 
 Los cónyuges mayores de edad podrán otorgar voluntariamente ante notario público convenios de modificación a las capitulaciones matrimoniales, a fin de acordar que sólo determinados bienes entrarán en el régimen de sociedad conyugal. El notario dará aviso por escrito de estos convenios al Registro Civil, a fin de que haya la anotación marginal correspondiente al acta de matrimonio; si el convenio implica transferencia de derechos de propiedad sobre inmuebles, el notario lo inscribirá en el Registro Público de la Propiedad para que surta efectos contra terceros.
 
-### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+### CAPITULO III. De la Enajenación de Bienes de Menores o Discapacitados y Transacción Acerca de sus Derechos
 
 ARTICULO 712
 
-Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o incapacitados y que correspondan a las clases siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
+Será necesaria licencia judicial para la venta de los bienes que pertenezcan exclusivamente a menores o discapacitados y que correspondan a las clases siguientes:
 
 I.- Bienes raíces;
 
@@ -5331,13 +5345,17 @@ Para la venta de los bienes inmuebles o de los muebles preciosos del hijo, reque
 
 Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
 
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+
 ARTICULO 718
 
-Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor autorización judicial, que sólo se otorgará con la conformidad del curador y del consejo de tutelas.
+Para recibir dinero prestado en nombre del menor o discapacitado, necesita el tutor autorización judicial, que sólo se otorgará con la conformidad del curador y del consejo de tutelas.
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ARTICULO 719
 
-Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
+Lo dispuesto en los artículos que preceden, se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o discapacitados intelectuales.
 
 ### CAPITULO IV. Adopción
 
@@ -6066,6 +6084,12 @@ G.O. 24 DE JUNIO DE 2010.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+G.O. 17 DE SEPTIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
 
