@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2009-12-31"
+last_updated: "2010-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -49,7 +49,7 @@ Lineamientos Generales.
 
 La presente ley es de orden público e interés social; sus disposiciones son de observancia general para todas las personas que se encuentren en el Estado de Jalisco. Tiene por objeto establecer la forma de Integración, atribuciones, organización y competencia de la Comisión de Derechos Humanos, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 2º.
 
@@ -69,7 +69,7 @@ IV. Los derechos de los grupos vulnerables.
 
 Se entiende por grupo vulnerable el conjunto de personas cuyas condiciones físicas, psíquicas, históricas, económicas, sociales o culturales, son tomadas como motivos discriminatorios que hacen probable la existencia de ataques reiterados a sus derechos humanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 3º.
 
@@ -467,7 +467,7 @@ VIII. Las demás que establezca el reglamento interior.
 
 El Secretario Técnico del Consejo Ciudadano, contará con los recursos profesionales, materiales y financieros necesarios para el desempeño de sus funciones.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo IV
 
@@ -497,27 +497,37 @@ III. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
 
 El Presidente de la Comisión deberá comparecer ante el Congreso del Estado, cuando el Pleno de la Legislatura lo requiera, a fin de presentar los Informes que se le soliciten respecto de los asuntos más relevantes de sus funciones.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
-
 ###### Artículo 25.
 
 El Presidente de la Comisión deberá reunir los siguientes requisitos:
 
-IV (sic). Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-V. Ser originario del Estado o haber residido en él durante los últimos cinco años;
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-VI. No haber desempeñado cargo dentro de la administración pública federal, estatal o municipal durante los dos últimos años anteriores al día de la designación;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-VII. Tener cuando menos treinta y cinco años de edad al día de su nombramiento;
+II. Ser originario del estado de Jalisco o haber residido en él durante los últimos cinco años;
 
-VIII. No haber sido sentenciado por delito intencional, ni haber resultado responsable por violaciones a los derechos humanos en alguna de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-IX. Tener título preferentemente de abogado o licenciado en derecho, o en su caso de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el Estado de Jalisco;
+III. No haber desempeñado cargo dentro de la administración pública federal, estatal o municipal durante los dos últimos años anteriores al día de la designación;
 
-X. Gozar de buena reputación entre la ciudadanía por su reconocida probidad, honestidad y capacidad; y
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-XI. No haber sido sentenciado por delito intencional.
+IV. Tener cuando menos treinta y cinco años de edad al día de su nombramiento;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+
+V. No haber sido condenado por delito doloso, ni haber resultado responsable por violaciones a los derechos humanos en alguna de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Tener título preferentemente de abogado o licenciado en derecho o, en su caso, de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el estado de Jalisco, y
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Gozar de buena reputación entre la ciudadanía por su reconocida probidad, honestidad y capacidad.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
@@ -689,7 +699,7 @@ Los visitadores generales así como los visitadores adjuntos "A" y "B" deberán 
 
 Para ser nombrado visitador, deberá previamente acreditar de manera suficiente, experiencia y conocimiento en los temas de derechos humanos, en los términos que establezca el reglamento interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 35.
 
@@ -741,7 +751,7 @@ Los visitadores adjuntos auxiliarán en sus funciones a los visitadores generale
 
 El Primer Visitador General sustituirá al Presidente en sus ausencias, conforme lo establece esta ley y su reglamento interior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo VIII
 
@@ -769,11 +779,11 @@ VII. Analizar las quejas que se presenten por cualquier medio, y en caso de ser 
 
 VIII. Turnar las quejas o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas, a los organismos públicos de derechos humanos competentes;
 
-IX. Turnar a la dirección de Contraloría las quejas contra los servidores públicos de la Comisión; y
+IX. Turnar a dirección de Contraloría las quejas contra los servidores públicos de la Comisión; y
 
 X. Las demás que le otorguen la presente Ley, su reglamento interior y los demás ordenamientos aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo IX
 
@@ -827,7 +837,7 @@ VIII. Dar mantenimiento a los bienes de la Comisión; y
 
 IX. Las demás que le otorguen la presente ley, su reglamento interior y los demás ordenamientos aplicables.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo XI
 
@@ -849,7 +859,7 @@ IV. Vigilar el cumplimiento de las normas de control, fiscalización y evaluaci�
 
 V. Las demás que le otorguen la presente ley, su reglamento interior y los demás ordenamientos aplicables.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo XII
 
@@ -935,7 +945,7 @@ Sin perjuicio de analizar cada caso particular y recomendar sanciones individual
 
 Cuando se presenten distintas quejas por supuestas violaciones a los derechos humanos de los grupos vulnerables radicados dentro del Estado, que evidencien patrones definidos de transgresión de sus derechos, la Comisión concentrará los expedientes y emitirá la resolución correspondiente. Independientemente de ello, cualquiera que sea la etapa del procedimiento, podrá expedir un pronunciamiento al respecto.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo II
 
@@ -995,13 +1005,13 @@ Son medidas restitutorias aquellas tendientes a devolver una situación al estad
 
 Si en la presentación de la queja, investigación y tramitación existe presunción de la comisión de un delito, la institución deberá presentar la denuncia penal correspondiente ante el agente del Ministerio Público. De igual forma procederá en el caso de presunciones sobre infracciones y faltas que den origen a responsabilidades administrativas para efecto de que inicie el procedimiento correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo III
 
 Del trámite de la queja.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 56.
 
@@ -1045,7 +1055,7 @@ Si de la presentación de la queja no se deducen los elementos mínimos que perm
 
 Una vez admitida la queja, la Comisión deberá hacerla del conocimiento de las autoridades o servidores públicos señalados como presuntos responsables, utilizando en caso de urgencia, cualquier medio de comunicación, solicitándoles un informe específico sobre los actos u omisiones que se les atribuyen. Para tal efecto, se les remitirá copia de la queja y del acuerdo admisorio, omitiendo los datos del domicilio del particular, de su trabajo, número telefónico o cualquier dato que permita localizarlo.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo IV
 
@@ -1065,7 +1075,7 @@ A la falta del informe que deben rendir las autoridades, así como el retraso in
 
 Las autoridades o servidores públicos a los que se les solicite información o documentación que sea considerada de carácter reservado, lo comunicarán a la Comisión y expresarán las razones para considerarla de esa naturaleza. En ese supuesto, los visitadores generales tendrán la facultad de hacer la calificación definitiva sobre la reserva y solicitar que se les proporcione la información o documentación que se manejará en la más estricta confidencialidad.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo V
 
@@ -1081,7 +1091,7 @@ En la realización de las investigaciones, se observarán los principios legales
 
 En todos los casos que se requiera, la Comisión levantará acta circunstanciada de sus actuaciones.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo VI
 
@@ -1105,7 +1115,7 @@ Se admitirán pruebas de toda índole y naturaleza, siempre y cuando no vayan en
 
 El Visitador General, valorará las pruebas en su conjunto, de conformidad con los principios de lógica, experiencia y legalidad, a fin de que pueda producir convicción sobre los hechos materia de la queja.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo VII
 
@@ -1221,13 +1231,13 @@ El Presidente deberá hacer públicas, en su totalidad o en extracto, las recome
 
 De los Recursos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo Único
 
 De los recursos de queja e impugnación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 80.
 
@@ -1243,7 +1253,7 @@ El recurso de exhibición de persona no prejuzga sobre la responsabilidad penal 
 
 Los visitadores generales o adjuntos, el Director de Quejas, Orientación y Seguimiento y los secretarios de guardia, podrán solicitar a las autoridades administrativas señaladas en el artículo que antecede, le exhiba o presente físicamente a la persona que mantenga privada de su libertad, en cuyo caso, la presunta autoridad responsable deberá justificar la detención de quien se trate y garantizar la preservación de su vida e integridad corporal, así como su salud física y mental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 82.
 
@@ -1255,7 +1265,7 @@ La Comisión resolverá de inmediato la procedencia o improcedencia del citado r
 
 En caso de que la Comisión resuelva procedente la solicitud del recurso de exhibición de persona, se trasladará al sitio en donde la denuncia afirme que se encuentra detenida ilegalmente una persona, a fin de dar cumplimiento a su resolución. Al efecto, se hará acompañar del solicitante o de quien conozca al detenido y de un médico, para que, en su caso, pueda certificar la identidad del presentado, así como el estado físico en que se encuentra o bien, de que no se encontraba dicha persona en el lugar descrito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 83.
 
@@ -1297,7 +1307,7 @@ De las responsabilidades y sanciones.
 
 Los servidores públicos serán responsables penal y administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas ante la Comisión, de conformidad con lo establecido en las disposiciones constitucionales y demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 88.
 
@@ -1365,7 +1375,7 @@ El Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE JUNIO DE 1999.
 
@@ -1412,3 +1422,7 @@ P.O. 25 DE NOVIEMBRE DE 2006.
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE SEPTIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
