@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2009-12-31"
+last_updated: "2010-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,97 +21,273 @@ state: "JAL"
 ---
 # LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
+LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2010.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
-Al margen un sello que dice: "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Ejecutivo.- Secretaría General".
+Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
-EL CIUDADANO AMERICO VILLARREAL GUERRA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente
 
-Que el Honorable Congreso del Estado, se ha servido expedir el siguiente Decreto:
+DECRETO
 
-"Al margen un sello que dice: Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+Número 17113. El Congreso del Estado Decreta:
 
-LA QUINCUAGESIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, en uso de las facultades que le concede el Artículo 58 fracción I, de la Constitución Política local, tiene a bien expedir el siguiente
+LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-DECRETO No. 88
+Primero (sic)
 
-POR MEDIO DEL CUAL SE EXPIDE LA
+Lineamientos Generales.
 
-LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
+### Capítulo Único
 
-### CAPITULO I
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 1o.
+###### Artículo 1º.
 
-La presente Ley contiene las normas que regulan el reconocimiento público que el Estado otorga a las personas físicas o morales cuya conducta, acciones u obras las hagan acreedoras a los premios, estímulos y recompensas que la misma establece.
+La presente ley es de orden público e interés social; sus disposiciones son de observancia general para todas las personas que se encuentren en el Estado de Jalisco. Tiene por objeto establecer la forma de Integración, atribuciones, organización y competencia de la Comisión de Derechos Humanos, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-###### ARTICULO 2o.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-Sólo las personas que reúnan los requisitos establecidos en esta Ley, podrán obtener los reconocimientos públicos previstos en la misma.
+###### Artículo 2º.
 
-###### ARTICULO 3o.
+Para los efectos de la presente ley, se consideran derechos humanos:
 
-Podrán recibir los premios que esta Ley establece, aquellas personas cuya conducta o trayectoria ejemplar, actos u obras valiosas, trasciendan en beneficio de la Humanidad, la Patria o el Estado.
+I. Las garantías individuales y sociales enunciadas en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Jalisco, así como de las leyes secundarias y reglamentos que de ellas emanen;
+
+II. Los contenidos en la Declaración Universal de los Derechos Humanos; y
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+III. Los contenidos en los tratados, convenios y acuerdos internacionales de los que en esta materia México forme parte; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+IV. Los derechos de los grupos vulnerables.
+
+Se entiende por grupo vulnerable el conjunto de personas cuyas condiciones físicas, psíquicas, históricas, económicas, sociales o culturales, son tomadas como motivos discriminatorios que hacen probable la existencia de ataques reiterados a sus derechos humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 3º.
+
+La Comisión Estatal de Derechos Humanos es un organismo público, dotado de plena autonomía, con personalidad jurídica y patrimonio propio, de carácter permanente, de participación ciudadana y de servicio gratuito.
+
+La Comisión Estatal de Derechos Humanos tiene como finalidad esencial la defensa, protección, estudio y divulgación de los derechos humanos.
+
+En lo sucesivo, cuando en el presente ordenamiento se mencione a la Comisión, deberá entenderse que se trata de la Comisión Estatal de los Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+Para el cumplimiento de sus atribuciones, ejercerá de manera libre el presupuesto que le asigne el Congreso del Estado, para lo cual se procurará que sea superior al ejercicio anterior.
 
 ## Título Segundo. De la Comisión
 
-### CAPITULO II. OTORGAMIENTO
+### Capítulo I
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+De la Competencia y atribuciones de la Comisión.
 
-###### ARTICULO 4o.
+###### Artículo 4º.
 
-Los estímulos se instituyen para los servidores públicos del Estado, por el desempeño sobresaliente de las actividades o funciones que tengan asignadas, así como por cualquier acto excepcional que redunde en beneficio del servicio al que estén adscritos. Estos estímulos podrán acompañarse de recompensas en numerario o en especie, conforme a lo previsto por esta Ley.
+La Comisión tendrá competencia para conocer de oficio o a petición de parte respecto de las quejas que le presenten los particulares en relación con:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 5o.
+I. Presuntas violaciones de los derechos humanos por parte de los servidores públicos, autoridades estatales o municipales en la realización de actos u omisiones de naturaleza administrativa.
 
-Los premios se otorgarán por el Gobierno del Estado; a través de los consejos de premiación; los estímulos y recompensas por los titulares de las Dependencias y Entidades de la Administración Pública Estatal.
+II. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
 
-###### ARTICULO 6o.
+III. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
 
-(DEROGADO, P.O. 25 DE JUNIO DE 1994)
+IV. Presuntas violaciones de derechos humanos, que deriven del ejercicio de las facultades discrecionales que no tengan el carácter de jurisdiccionales; y
 
-###### ARTICULO 7o.
+V. Actos u omisiones causados por la negligencia, desvío o abuso de poder por parte de los servidores públicos, que presumiblemente provoquen una violación a los derechos humanos.
 
-Corresponde la aplicación de esta Ley a:
+Tratándose del Poder Judicial del Estado, la Comisión sólo tendrá facultades para conocer de actos u omisiones que tengan el carácter de trámite administrativo.
 
-I.- El Gobierno del Estado;
+###### Artículo 5º.
 
-II.- Los titulares de las Dependencias y Entidades de la Administración Pública Estatal;
+(DEROGADO, P.O. 13 DE FEBRERO DE 2001)
 
-III.- Los Consejos de Premiación; y
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-IV.- Los Jurados.
+###### Artículo 6º.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+Por ningún motivo, la Comisión será competente tratándose de asuntos electorales, laborales, o jurisdiccionales, ni tendrá facultades para otorgar asesoría sobre la interpretación de leyes a autoridades o particulares.
 
-###### ARTICULO 8o.
+Tratándose de quejas que involucren a servidores públicos de la federación o de otras entidades federativas, la Comisión enviará copia de la misma a la Comisión Nacional o a su homóloga estatal según corresponda para su conocimiento.
 
-Los Consejos de Premiación tendrán carácter permanente y serán competentes para integrar los expedientes que se formen para el otorgamiento de los premios.
+La comisión Estatal podrá solicitar la coadyuvancia de la Comisión Nacional tratándose de asuntos de salud pública, educación, sistema penitenciario, áreas de confinamiento, personas ausentes o desaparecidas, aquellas en las que se desconozca a la autoridad responsable, así como el seguimiento de las recomendaciones de la Comisión Nacional, dirigidas a las autoridades del Estado en los términos de las leyes de la materia.
 
-###### ARTICULO 9o.
+###### Artículo 7º.
 
-Los Consejos se integrarán en la forma que señala esta Ley en el capítulo correspondiente a cada premio y tendrán un secretario designado por sus componentes a propuesta del Presidente. Cada integrante del Consejo registrará en la secretaría del mismo, el nombre de quien deba suplirlo en sus ausencias.
+Son atribuciones de la Comisión:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-### CAPITULO III. PREMIOS Y PRESEAS
+I. Investigar, estudiar, analizar y determinar la existencia de violación a los derechos humanos por actos u omisiones de los servidores públicos, autoridades estatales o municipales.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 10.
+II. Admitir o desechar en su caso, las quejas que le presente cualquier persona respecto de presuntas violaciones a los derechos humanos causadas por actos u omisiones de servidores públicos, autoridades estatales o municipales, o bien iniciarlas de oficio;
 
-Los Consejos de Premiación, designaran un Jurado, con el número de personas que consideren necesario para cada premio, dando preferencia a los anteriormente galardonados. Cada Jurado nombrará su Presidente y su Secretario.
+III. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
 
-### CAPITULO IV. PROCEDIMIENTO
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+IV. Formular propuestas de conciliación buscando la amigable composición entre el agraviado y las autoridades o servidores públicos presuntamente responsables de la violación de los derechos humanos, de manera que se solucione inmediatamente el conflicto planteado y se restituya en el goce de sus derechos a la persona agraviada, siempre que la naturaleza del caso lo permita;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+V. Proponer las políticas estatales en materia de derechos humanos a través de pronunciamientos, así como diseñar y establecer los mecanismos de coordinación entre la Comisión, las dependencias de gobierno y la sociedad civil que aseguren su adecuada observancia y ejecución;
+
+VI. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VII. Elaborar y ejecutar los programas de atención y seguimiento de las quejas que se le presenten, así como de los acuerdos, conciliaciones, orientaciones, peticiones o recomendaciones de la Comisión;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VIII. Promover la divulgación de la cultura de los derechos humanos en todos los niveles de gobierno y entre la población, por medio entre otros, de programas de capacitación en la profesionalización del servicio público, en el sistema educativo, a través de los medios de comunicación masiva y de la publicación de los textos que elabore;
+
+IX. Prestar apoyo y asesoría técnica en materia de divulgación de los derechos humanos, cuando le sea solicitado por organismos públicos y privados, o por cualquier particular;
+
+X. Formular y presentar propuestas ante las autoridades competentes respecto de cambios y modificaciones al sistema jurídico estatal o municipal o de práctica administrativa, que redunden en una mejor protección y defensa de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XI. Promover la participación de los distintos sectores públicos, sociales y privados, en la formulación y ejecución de los programas destinados a la divulgación y respeto de los derechos humanos, así como en la prevención de las posibles violaciones de los mismos;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XII. Constituir la instancia de coordinación, seguimiento y concertación entre el sector público y la sociedad civil, en materia de derechos humanos;
+
+XIII. Ser el órgano de vinculación con la Comisión Nacional de Derechos Humanos, procurando la adecuada coordinación entre ambos organismos, en las materias que les son concurrentes;
+
+XIV. Celebrar convenios y acuerdos, así como realizar reuniones de trabajo y establecer relaciones técnicas y operativas con organismos federales y locales, públicos y privados, en materia de derechos humanos;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1999)</small>
+
+XV. Promover la coordinación entre el organismo estatal de derechos humanos y los ayuntamientos, procurando la creación de oficinas que incrementen su presencia en el interior del Estado; fomentar además, la participación de éstos a través de sus comisiones ediiicias (sic) correspondientes, en la divulgación y respeto de los derechos humanos;
+
+XVI. Verificar el irrestricto respeto a los derechos humanos de las personas privadas de su libertad, en los establecimientos destinados a la detención preventiva, custodia o readaptación social que se ubiquen en la entidad;
+
+XVII. Requerir la auscultación médica de reos y detenidos cuando se presuman malos tratos o torturas, comunicando a las autoridades competentes los resultados de las mismas;
+
+XVIII. Solicitar la intervención de la dependencia estatal o municipal correspondiente, en materia de seguridad pública, prevención del delito, readaptación social o protección civil, cuando se tenga conocimiento de que a algún interno que se encuentre recluido en algún centro de detención o prisión, le han sido violados los derechos humanos, con la finalidad de que cesen dichas violaciones;
+
+XIX. Substanciar y resolver el recurso de exhibición de personas;
+
+XX. Interponer la denuncia correspondiente ante el Ministerio Público cuando, a raíz de una investigación practicada, se presuma la comisión de un delito;
+
+XXI. Investigar la veracidad de los actos u omisiones que presumiblemente conlleven la violación a los derechos humanos, para lo cual, la Comisión podrá solicitar la información que juzgue conveniente; practicar visitas e inspecciones en dependencias públicas; citar a las personas involucradas, peritos y testigos; así como efectuar todos los actos legales que se requieran para el mejor esclarecimiento de los hechos;
+
+XXII. Expedir y modificar su reglamento interior;
+
+XXIII. Realizar visitas periódicas a:
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+a) Los pueblos, albergues o zonas de concentración indígena, con la finalidad de verificar el irrestricto respeto a los derechos humanos y sociales que les reconoce la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, las leyes y reglamentos que de ambas emanan, así como los instrumentos internacionales que México haya ratificado sobre derechos de los pueblos indígenas;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+b) Los orfanatos, asilos, hospicios, instituciones y organismos que trabajen con la niñez, para verificar la observancia y respeto de los derechos de los niños contenidos en las leyes federales, locales y los instrumentos internacionales sobre los Derechos de la Infancia que hayan sido ratificados por México o de los que formen parte, así como los derechos de la educación y la salud que establece la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+c) Las instituciones de tratamiento y apoyo a enfermos mentales, discapacitados y ancianos, centros de salud y demás establecimientos de asistencia social, en los que intervenga cualquier autoridad estatal o municipal, para cerciorarse del absoluto respecto (sic) a los derechos humanos de las personas que son atendidas en esas instituciones;
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2006)</small>
+
+d) Los recintos de detención, oficinas del Ministerio Público, reclusorios y sedes judiciales, para verificar que las autoridades exhiban, los derechos que se establecen en la Constitución Política de los Estados Unidos Mexicanos y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte, para los detenidos y procesados.
+
+XXIV. Formular programas y proponer acciones, en coordinación con las dependencias competentes, para impulsar el cumplimiento de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos y, en su caso, promover el levantamiento de las reservas que el Ejecutivo federal haya establecido sobre los mismos. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que deberá ser divulgada de manera amplia entre la población; y (sic)
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXV. Formular recomendaciones públicas, autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas, demostrada la existencia de violaciones a los derechos humanos, cuando no se hubiere logrado conciliación, haya sido parcial o no se haya cumplido ésta, seguido que sea el procedimiento hasta su culminación;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXVI. Hacer del conocimiento público las recomendaciones que emita y los informes especiales a que se refiere la presente ley;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXVII. Solicitar a la autoridad correspondiente la amonestación o el inicio de procedimiento administrativo en los casos en que un servidor público oculte o retrase injustificadamente la información que se le solicite con motivo del trámite de las quejas y en lo que obstruya el trabajo de la Comisión;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXVIII. Fomentar la investigación científica en el área de los derechos humanos; y
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+XXIX. Las demás que se establezcan en la presente ley, su reglamento interior y las disposiciones legales aplicables.
+
+###### Artículo 8º.
+
+La Comisión no tendrá más restricciones a sus atribuciones, facultades y competencias, que las que de manera expresa señale la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las demás disposiciones en la materia.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 9º.
+
+La Comisión contará con unidades desconcentradas para recibir quejas, atender y dar seguimiento a los asuntos de su competencia en los lugares que considere pertinente, de conformidad a lo que establezca su reglamento interior.
+
+### Capítulo II
+
+De la Integración de la Comisión.
+
+###### Artículo 10.
+
+La Comisión se integra por:
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+I. El Consejo Ciudadano y su Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+II. El Presidente;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+III. El Secretario Ejecutivo;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+IV. Los visitadores generales;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+V. Los visitadores adjuntos;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VI. El Director de Orientación, Quejas y Seguimiento;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VII. El Director de Comunicación Social;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+VIII. El Director Administrativo; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2001)</small>
+
+IX. El Contralor Interno.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo III
+
+Del Consejo Ciudadano.
+
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
 #### Sección Primera
 
@@ -119,9 +295,15 @@ De su integración.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-Para ser integrante de un Jurado se requiere ser persona de reconocida solvencia moral y tener la calificación técnica o científica necesaria, cuando la naturaleza del premio así lo requiera.
+El Consejo Ciudadano es un órgano de participación civil integrado por el Presidente y ocho consejeros ciudadanos propietarios e igual número de suplentes. Los consejeros ciudadanos, durarán cinco años en su cargo, el cual tendrá carácter honorífico.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2005)</small>
+
+El Consejo ciudadano de la Comisión deberá integrarse en forma diversificada de manera que se logre la mayor representatividad social, y se procurará que se conforme con el mismo número de varones y mujeres.
+
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
 #### Sección Segunda
 
@@ -129,45 +311,37 @@ De la designación de los consejeros ciudadanos.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 12.
+###### Artículo 12.
 
-Las sesiones de los Consejos y Jurados serán válidas cuando se realicen con la mayoría de sus integrantes, y sus decisiones cuando se determinen por mayoría. En caso de empate, el voto del Presidente será de calidad.
+Los consejeros ciudadanos deberán satisfacer los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-###### ARTICULO 13.
+II. Ser originario del Estado o haber residido en la entidad durante los últimos cinco años;
 
-Son atribuciones de los Consejos de Premiación:
+III. No desempeñar simultáneamente, ni haberse desempeñado durante los últimos tres años, dentro de la administración pública federal, estatal o municipal, partido u organización política, con excepción de los cargos o empleos de docencia e investigación;
 
-I.- Elaborar y publicar las convocatorias;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
-II.- Recibir y registrar candidaturas;
+IV. Tener cuando menos veinticinco años de edad el día de su nombramiento;
 
-III.- Designar y dar a conocer publicamente (sic) los integrantes del Jurado;
+V. Gozar de buena reputación y no haber sido sentenciado por delito intencional; y
 
-IV.- Llevar el libro de honor;
+VI. No haber resultado responsable por violaciones a los derechos humanos en algunas de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos.
 
-V.- Establecer condiciones y términos para el otorgamiento de los premios;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-VI.- Someter a consideración del Gobernador del Estado, los dictámenes del Jurado;
+###### Artículo 13.
 
-VII.- Dotar al Presidente del Jurado de los elementos necesarios para el cumplimiento de sus fines; y
+La designación de los consejeros ciudadanos se realizará de conformidad con el procedimiento establecido para la designación del Presidente de la Comisión.
 
-VIII.- Las demás necesarias para otorgar los premios que correspondan de acuerdo con esta Ley.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 14.
 
-###### ARTICULO 14.
+Cada dos años y medio deberán ser substituidos cuatro consejeros ciudadanos que tengan mayor antigüedad, con sus respectivos suplentes.
 
-Son atribuciones de los Jurados:
-
-I.- Sujetarse dentro del período de sesiones los lineamientos que dicte el Consejo;
-
-II.- Dictaminar sobre los expedientes de candidaturas que le turne el Consejo, formulando las propuestas que a su juicio deban someterse al Gobernador del Estado;
-
-III.- Compilar los dictámenes que formule; y
-
-IV.- Autentificar con la firma de sus integrantes los dictámenes que emita y turnarlos al Consejo.
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
 #### Sección Tercera
 
@@ -175,9 +349,29 @@ Facultades y funciones del Consejo Ciudadano.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 15.
+###### Artículo 15.
 
-Los Jurados podrán proponer el otorgamiento póstumo de los premios que instituye esta Ley.
+El Consejo Ciudadano tendrá las siguientes facultades:
+
+I. Establecer los criterios generales de actuación de la Comisión;
+
+II. Aprobar el reglamento interior de la Comisión y sus reformas, así como ejercer las funciones de órgano normativo interno;
+
+III. Opinar sobre los proyectos de los informes del Presidente, así como de los asuntos que le sean sometidos a su consideración por el mismo;
+
+IV. Proponer al Ejecutivo del Estado, el proyecto de Presupuesto de Egresos de la Comisión;
+
+En caso de que el Consejo General no proponga parcial o totalmente el proyecto de Presupuesto de Egresos de la Comisión, será el Congreso del Estado, el que determine el presupuesto definitivo;
+
+V. Nombrar al Secretario Técnico del Consejo Ciudadano;
+
+VI. Proponer al Presidente, todas aquellas acciones y medidas que sirvan para una mejor observancia y tutela de los derechos humanos en el Estado;
+
+VII. Aprobar los criterios generales que en materia de derechos humanos habrá de seguir la Comisión ante los organismos gubernamentales estatales y municipales, así como con los organismos sociales y la población; y
+
+VIII. Las demás que le confiere la presente ley, su reglamento interior y los ordenamientos aplicables.
+
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
 #### Sección Cuarta
 
@@ -185,9 +379,21 @@ De las sesiones del Consejo Ciudadano.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 16.
+###### Artículo 16.
 
-Los integrantes de los Jurados estarán obligados a guardar reserva sobre los asuntos de que conozcan en el ejercicio de sus funciones.
+El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos.
+
+Las sesiones ordinarias se verificarán cuando menos una vez al mes.
+
+Las sesiones extraordinarias serán convocadas por el Presidente o a solicitud de por lo menos tres consejeros ciudadanos propietarios cuando consideren que hay razones para ello.
+
+Los suplentes podrán asistir a las sesiones del Consejo únicamente con voz, pero sin derecho a voto, salvo que se encuentren en funciones de titulares.
+
+Las ausencias temporales de los consejeros ciudadanos propietarios, serán cubiertas por los suplentes en forma rotativa en el orden de la lista nominal en la que éstos aparezcan.
+
+En casos de ausencia definitiva de un consejero propietario, el resto del Consejo Ciudadano elegirá, entre los consejeros suplentes, mediante voto secreto y directo, a quien deberá ocupar el cargo.
+
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
 #### Sección Quinta
 
@@ -195,73 +401,39 @@ De las facultades y obligaciones de los consejeros ciudadanos.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 17.
+###### Artículo 17.
 
-Los Jurados no podrán revocar sus resoluciones.
+Los consejeros ciudadanos tendrán las siguientes facultades:
 
-###### ARTICULO 18.
+I. Participar con voz y voto en las sesiones del Consejo en los términos que establece la presente Ley. En caso de no poder asistir a la sesión del Consejo Ciudadano, deberán dar aviso con anticipación al Secretario Técnico del Consejo Ciudadano de la Comisión a efecto de que el consejero suplente que corresponda, asista en su lugar;
 
-Se establecen los siguientes premios que tendrán carácter estatal y se denominarán:
+II. Integrar los comités permanentes o temporales que el Consejo determine; y
 
-I.- Premio Estatal General Pedro José Méndez;
+III. Tener acceso a la información de los proyectos y programas relacionados con las áreas de investigación y de procedimientos, así como a las de promoción y difusión cultural de los derechos humanos.
 
-II.- Premio Estatal Profesor Lauro Aguirre;
+Los consejeros suplentes asistirán a las sesiones del Consejo Ciudadano y tendrán derecho a voz pero no a voto y a lo dispuesto por las fracciones II y III de este artículo.
 
-III.- Premio Estatal de Cultura;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-IV.- Premio Estatal al Deporte;
+###### Artículo 18.
 
-V.- Premio Estatal de Periodismo y de Información;
+Los consejeros ciudadanos, previo acuerdo del Consejo, podrán solicitar información a los servidores públicos o autoridades de organismos estatales o municipales, sobre asuntos de derechos humanos en la entidad.
 
-VI.- Premio Estatal a la Productividad y Calidad del Trabajo;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-VII.- Premio Estatal de la Juventud;
+###### Artículo 19.
 
-VIII.- Premio Estatal de Solidaridad Social;
+Los consejeros ciudadanos no podrán arrogarse la representación del Consejo Ciudadano, ni difundir por sí los asuntos que sean del conocimiento de sus órganos o proporcionar información sobre las investigaciones de las denuncias que se realizan y que aún no concluyan, ni expresar su opinión públicamente respecto de su fundamento y pertinencia.
 
-IX.- Premio Estatal de Antigüedad en el Servicio Público;
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
+###### Artículo 20.
 
-X.- Premio Estatal Maestro Rafael Ramírez;
+Los consejeros ciudadanos sólo podrán ser privados de su cargo por causa prevista en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2010)</small>
+Los consejeros ciudadanos que por alguna causa no hayan terminado el período de su nombramiento, serán sustituidos por los consejeros ciudadanos suplentes, quienes deberán rendir protesta de ley ante el Consejo Ciudadano, y éste a su vez, dará el aviso correspondiente al Congreso del Estado.
 
-XI.- Premio Estatal de Ecología y Protección al Ambiente;
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2011)</small>
-
-XII.- Premio Estatal al Mérito ciudadano General José Bernardo Maximiliano Gutiérrez de Lara;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-XIII.- Premio Estatal al Mérito ciudadano General Alberto Carrera Torres;
-
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-XIV.- Premio Estatal al Mérito a la Enfermería Doctor Rodolfo Torre Cantú; y
-
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
-
-XV.- Premio Estatal de la Innovación, la Ciencia y la Tecnología.
-
-###### ARTICULO 19.
-
-Las preseas serán:
-
-I.- Collar;
-
-II.- Medalla; y
-
-III.- Placa.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
-
-###### ARTICULO 20.
-
-Los Consejos de Premiación podrán establecer clases y características de cada premio.
-
-El otorgamiento de las preseas, cuando así lo acuerden los Consejos de Premiarión (sic), podrá acompañarse de entregas en numerario o en especie, cuya cuantía y naturaleza determinará el Gobernador del Estado.
+(REUBICADA, P.O. 13 DE FEBRERO DE 2001)
 
 #### Sección Sexta
 
@@ -269,101 +441,235 @@ Del Secretario Técnico del Consejo Ciudadano.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 21.
+###### Artículo 21.
 
-Las preseas sólo podrán usarse por sus titulares en solemnidades y actos públicos en que sea pertinente ostentarlas. La roseta se usará fuera de los actos solemnes, para representar a la presea correspondiente.
+El Secretario Técnico del Consejo es el servidor público encargado de auxiliar a los consejeros ciudadanos y al Presidente en el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+Deberá contar con título a nivel licenciatura legalmente expedido, tener como mínimo treinta años de edad y reunir los demás requisitos que establezca el Consejo Ciudadano; dependerá únicamente de los consejeros, quedando sujeto a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y al reglamento interno de la Comisión.
 
-### CAPITULO V. PREMIO ESTATAL GENERAL PEDRO J. MENDEZ
+La designación del Secretario Técnico será realizada por el Consejo Ciudadano de una terna propuesta por el Presidente de la Comisión, durará en su cargo cinco años, podrá ser ratificado cuantas veces se crea conveniente y tendrá las siguientes atribuciones:
 
-###### ARTICULO 22.
+I. Levantar las actas de sesiones del Consejo Ciudadano;
 
-Con la presea se entregará la roseta y un diploma en el que se expresarán las razones por las que se confiere, así como una síntesis del Acuerdo del Jurado. El diploma contendrá las firmas del Gobernador del Estado y de los Presidentes del Consejo de Premiación y del Jurado respectivos.
+II. Proporcionar los informes que le soliciten los consejeros ciudadanos;
 
-###### ARTICULO 23.
+III. Dar el seguimiento a los acuerdos, declaraciones y decisiones que emita el Consejo Ciudadano;
 
-Las características de las preseas se determinarán por el Titular del Ejecutivo Estatal.
+IV. Realizar los estudios que le pida el Consejo Ciudadano;
 
-###### ARTICULO 24.
+V. Trabajar en coordinación con el Presidente apoyándolo en todo lo que sea necesario para el buen funcionamiento del Consejo Ciudadano y de la Comisión;
 
-La propuesta de candidatos a los premios que esta Ley establece podrá realilarse (sic) por persona física o moral, previa convocatoria que publique el Consejo de Premiación correspondiente.
+VI. Participar en la elaboración de los informes anuales así como los especiales que sean necesarios;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+VII. Participar en la elaboración y presentación del proyecto de Presupuesto de Egresos; y
 
-###### ARTICULO 25.
+VIII. Las demás que establezca el reglamento interior.
 
-Toda propuesta expresará los merecimientos del candidato y se hará acompañar de los documentos y/o algunos otros medios probatorios que la justifiquen. No podrán ser propuestas las personas galardonadas con anterioridad en el mismo premio.
+El Secretario Técnico del Consejo Ciudadano, contará con los recursos profesionales, materiales y financieros necesarios para el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 26.
+### Capítulo IV
 
-Las propuestas serán recepcionadas por el Consejo de Premiación respectivo y el Secretario integrará los expedientes.
+Del Presidente de la Comisión.
 
-###### ARTICULO 27.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-Los Secretarios de los Consejos y Jurados llevarán sus correspondientes libros de actas; en éstas, se hará constar lugar, fecha, hora de apertura y clausura de cada sesión y nombre de los asistentes, así como una narración clara, ordenada y sucinta del desarrollo del acto, de lo tratado, de las diversas resoluciones propuestas, de los acuerdos tomados y del resultado de las votaciones en su caso.
+###### Artículo 22.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+El Presidente es la primera autoridad de la Comisión. Será designado para promover y garantizar los derechos humanos de cualquier persona que se encuentre en el Estado; durará en su cargo cinco años y exclusivamente podrá ser designado para un segundo período, respetando el procedimiento realizado para la designación inicial.
 
-###### ARTICULO 28.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-El libro de honor contendrá un registro de los nombres de las personas a quienes se otorguen los premios, del Titular del Ejecutivo, especificándose el tipo de presea correspondiente, la fecha y lugar de entrega.
+###### Artículo 23.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+Para la designación del Presidente de la Comisión, se seguirá el siguiente procedimiento:
 
-### CAPITULO VI. PREMIO ESTATAL PROFESOR LAURO AGUIRRE
+I. El Congreso del Estado expedirá una convocatoria pública dirigida a los organismos sociales, colegios de profesionistas, universidades, y a la sociedad en general, con la finalidad de allegarse propuestas de candidatos; y
 
-###### ARTICULO 29.
+II. De los candidatos propuestos por la sociedad, el Congreso del Estado nombrará al ciudadano que fungirá como Presidente de la Comisión, con la aprobación de las dos terceras partes de los diputados presentes;
 
-Los miembros del Jurado se reunirán en sesión privada en el recinto previamente señalado por el Consejo. Su voto será secreto, directo y su fallo inapelable.
+III. (DEROGADA, P.O. 13 DE FEBRERO DE 2001)
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 30.
+###### Artículo 24.
 
-Los premios a que se refiere esta Ley, en ningún caso podrán concederse más de una vez al año.
+El Presidente de la Comisión deberá comparecer ante el Congreso del Estado, cuando el Pleno de la Legislatura lo requiera, a fin de presentar los Informes que se le soliciten respecto de los asuntos más relevantes de sus funciones.
 
-En todos los casos se requerirá la expedición previa de la convocatoria, misma que deberá ser aprobada por el Gobernador del Estado.
+###### Artículo 25.
 
-Los acuerdos del Gobernador del Estado para el otorgamiento de premios, se publicarán en el Periódico Oficial del Estado.
+El Presidente de la Comisión deberá reunir los siguientes requisitos:
 
-###### ARTICULO 31.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-El Premio Estatal General Pedro J. Méndez, constituye el más alto reconocimiento que otorga el Estado de Tamaulipas.
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO VII. PREMIO ESTATAL DE CULTURA
+II. Ser originario del estado de Jalisco o haber residido en él durante los últimos cinco años;
 
-###### ARTICULO 32.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-El Premio Estatal General Pedro J. Méndez, se otorgará de acuerdo a lo siguiente:
+III. No haber desempeñado cargo dentro de la administración pública federal, estatal o municipal durante los dos últimos años anteriores al día de la designación;
 
-I.- Collar.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-a).- Por actos heroicos; y
+IV. Tener cuando menos treinta y cinco años de edad al día de su nombramiento;
 
-b).- Por servicios prestados a la Humanidad, a la Patria o al Estado.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-II.- Medalla.
+V. No haber sido condenado por delito doloso, ni haber resultado responsable por violaciones a los derechos humanos en alguna de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos;
 
-a).- Por méritos cívicos eminentes;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-b).- Por conducta destacadamente ejemplar.
+VI. Tener título preferentemente de abogado o licenciado en derecho o, en su caso, de carrera afín con conocimientos suficientes en materia de derechos humanos y del sistema jurídico normativo vigente en el estado de Jalisco, y
 
-III.- Placa.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2010)</small>
 
-a).- Por méritos cívicos distinguidos; y
+VII. Gozar de buena reputación entre la ciudadanía por su reconocida probidad, honestidad y capacidad.
 
-b).- Por conducta ejemplar.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+###### Artículo 26.
 
-###### ARTICULO 33.
+El Presidente de la Comisión no podrá en ningún momento de su gestión desempeñarse como ministro de algún culto religioso, desempeñar cargo de dirigencia estatal o municipal dentro de algún partido político ni realizar actos de proselitismo.
 
-Este premio se tramitará en la Secretaría General de Gobierno, cuyo titular será el Presidente del Consejo de Premiación; estará integrado además, por el Titular de la Secretaría de Educación, por un Representante del H. Congreso y del Supremo Tribunal de Justicia del Estado.
+Asimismo, no podrá ejercer su profesión en forma privada, excepto en causa propia o en la docencia, ni desempeñar cargos, empleos o comisiones dentro de la administración pública federal, estatal o municipal durante su encargo.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 27.
+
+El Presidente de la Comisión no estará subordinado con motivo de sus funciones, a institución o autoridad alguna y desempeñará su cargo con plena autonomía.
+
+Sólo podrá ser privado de su cargo por causa justificada prevista en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+
+En caso de falta temporal, el Presidente será substituido por el Primer Visitador General, en los términos que para tal efecto prevea el Reglamento Interior. Cuando la ausencia fuere definitiva, lo suplirá dicho Visitador, en tanto se designa al nuevo titular en un plazo no mayor de treinta días y conforme al presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 28.
+
+Son facultades y atribuciones del Presidente de la Comisión:
+
+I. Ejercer la representación legal de la Comisión y promover la divulgación de la cultura de respeto de los derechos humanos ante los distintos niveles de gobierno;
+
+II. Presidir el Consejo Ciudadano;
+
+III. Aprobar y emitir recomendaciones públicas, autónomas, no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración los visitadores, con motivo de las investigaciones que practiquen;
+
+IV. Dirigir, planear y coordinar los trabajos de la Comisión, distribuyendo y delegando funciones a los visitadores en los términos que para tal efecto establezca el Reglamento Interior;
+
+V. Formular los criterios generales a los que se sujetarán las actividades administrativas de la Comisión, así como nombrar, dirigir y coordinar al personal técnico y administrativo del organismo que establezca el presupuesto de egresos;
+
+VI. Enviar al Congreso del Estado, durante el mes de febrero, un informe anual de las actividades realizadas por la Comisión, mismo que deberá contener, las sugerencias que considere pertinentes y que redunden en beneficio y promoción de la cultura de los derechos humanos;
+
+VII. Presentar un informe mensual ante el Consejo Ciudadano de la Comisión, conforme a los lineamientos que se establezcan en el reglamento interior;
+
+VIII. Solicitar al Congreso del Estado por conducto de la Comisión Legislativa de Derechos Humanos la revisión de la legislación cuando a su juicio algún ordenamiento legal contravenga disposiciones relativas a derechos humanos;
+
+IX. Remitir al Congreso del Estado, al final de cada ejercicio presupuestal, un informe que contenga los estados financieros y demás datos que muestren el registro de las operaciones efectuadas en el libre ejercicio del presupuesto de egresos de la Comisión; debiendo poner a su disposición la documentación que compruebe y justifique dichos movimientos financieros, proporcionando al órgano técnico de inspección y vigilancia del Congreso del Estado, la información que le solicite en el ejercicio de sus funciones;
+
+X. Enviar a cualquier poder del Estado, dependencia u organismo descentralizado de la administración pública estatal o municipal, si así lo considera conveniente, un informe anual especial sobre el comportamiento de sus instituciones en cuanto al respeto a los derechos humanos, haciendo las observaciones y recomendaciones que incidan en la observancia de los derechos humanos;
+
+XI. Celebrar convenios de colaboración con autoridades y organismos públicos y privados interesados en la defensa de los derechos humanos, así como con las instituciones académicas, asociaciones culturales y medios de comunicación masivos para el mejor cumplimiento de sus fines;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+
+XII. Elaborar con la aprobación del Consejo Ciudadano, el proyecto del Presupuesto de Egresos de la Comisión y el informe respectivo sobre su ejercicio, para que sean presentados al Ejecutivo del Estado, a más tardar el primer día hábil del mes de noviembre. El proyecto de presupuesto debe cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación, y contener la plantilla de personal en la que se especifiquen todos los empleos públicos, con inclusión del Presidente, así como las remuneraciones que les sean asignadas a los mismos, las cuales deben ser acordes a lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, sin que bajo ninguna circunstancia, puedan incorporarse ingresos extraordinarios o por el fin del encargo, adicionales a la remuneración;
+
+XIII. Dictar las disposiciones que estime convenientes y establecer la creación de las áreas que le auxilien en su trabajo y hagan eficiente la función de la Comisión;
+
+XIV. Nombrar y remover libremente al Secretario Ejecutivo, visitadores y demás personal, con excepción del Secretario Técnico del Consejo, en los términos de la Ley de los Servidores Públicos del Estado (sic) Jalisco y sus Municipios, y demás disposiciones legales aplicables;
+
+XV. Otorgar licencias y permisos al personal de la Comisión en los términos del reglamento interior;
+
+XVI. Distribuir y delegar funciones a los visitadores y demás personal;
+
+XVII. Instaurar a través de la Contraloría de la Comisión, el procedimiento administrativo interno, cuando alguno de sus servidores públicos de la Institución incurra en alguna falta, e imponer las sanciones que procedan, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
+
+XVIII. Proponer al Consejo Ciudadano el proyecto de reglamento interior, los manuales de organización de la Comisión, de procedimientos y de servicios al público, que deberán actualizarse cada vez que así se considere necesario para el buen desempeño de la institución;
+
+XIX. Informar a la sociedad sobre el estado, avances o retrocesos que en materia de derechos humanos observen las autoridades;
+
+XX. Prevenir la violación a los derechos humanos o la continuación de la misma mediante la emisión de pronunciamientos y recomendaciones; y
+
+XXI. Las demás que le otorguen la presente ley, su reglamento y demás ordenamientos aplicables.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo V
+
+De los informes del Presidente.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 29.
+
+El Presidente rendirá un informe anual a la sociedad y los titulares de los tres poderes del Estado, sobre las actividades que haya realizado. Dicho informe se difundirá en la forma más amplia posible para conocimiento de la sociedad a través de las publicaciones de la Comisión y de los medios de comunicación masiva.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 30.
+
+El informe anual de actividades deberá contener un diagnóstico general de la situación de los derechos humanos en el Estado y las causas estructurales de su violación; una descripción del número y características de las quejas interpuestas, los resultados de su labor de conciliación; las investigaciones realizadas, las recomendaciones, peticiones y los acuerdos de no violación a los derechos humanos que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
+
+El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos competentes, tanto estatales como municipales, para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados, con la consecuente eficacia en la prestación de los servicios públicos.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 31.
+
+Cuando persistan actitudes u omisiones que impliquen evasivas o entorpecimiento en las investigaciones que realice la Comisión, por parte de las autoridades o servidores públicos estatales o municipales que deban intervenir o colaborar con los visitadores, no obstante los requerimientos que se les hubiesen formulado, se deberá rendir un informe especial al respecto.
+
+### Capítulo VI
+
+Del Secretario Ejecutivo de la Comisión.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 32.
+
+El Secretario Ejecutivo de la Comisión es el servidor público encargado del enlace entre la Comisión y los organismos y asociaciones civiles y gubernamentales; estará encargado de difundir la cultura, trabajo y propuestas emprendidos por la institución ante la sociedad y ante los diversos poderes del Estado y tendrá las demás funciones que se señalen en la presente ley o le sean encomendadas por el Presidente de la Comisión.
+
+Para desempeñar el cargo de Secretario Ejecutivo, se deberán reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Tener título legalmente registrado de abogado o licenciado en derecho con pleno conocimiento en materia de derechos humanos;
+
+III. Acreditar por lo menos tres años de práctica profesional;
+
+IV. Tener treinta años de edad el día de la designación; y
+
+V. Gozar de buena reputación y no haber sido sentenciado por delito intencional.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 33.
+
+Son atribuciones y obligaciones del Secretario Ejecutivo:
+
+I. Proponer al Consejo Ciudadano y al Presidente, los criterios generales que en materia de derechos humanos habrá de seguir la Comisión ante la población, los organismos civiles, autoridades estatales o municipales y las universidades;
+
+II. Promover y fortalecer las relaciones de la Comisión con los ciudadanos, organismos públicos, sociales o privados, en materia de derechos humanos;
+
+III. Formular los anteproyectos de propuestas y consideraciones a las leyes y reglamentos que la Comisión haya de entregar a los órganos competentes y estudios que los sustenten;
+
+IV. Elaborar los informes anuales y mensuales, así como de los especiales que envíe la Comisión a las dependencias de gobierno y los que se rindan al Consejo Ciudadano;
+
+V. Promover y mantener la biblioteca y el acervo documental de la Comisión; y (sic)
+
+VI. Coordinar y ejecutar los programas y acciones que le sean encomendados por el Presidente;
+
+VII. Programar, planear, organizar, coordinar y ejecutar cursos de capacitación que tengan por objeto la promoción y difusión de la cultura de los derechos humanos;
+
+VIII. Apoyar al Presidente y a los visitadores generales cuando del trámite de las quejas se desprenda la necesidad de emitir un pronunciamiento; y
+
+IX. Las demás que le sean conferidas por la presente ley, el Reglamento Interior y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 33 Bis.
 
@@ -379,91 +685,237 @@ IV. Realizar actividades para divulgar la cultura de los derechos humanos; y
 
 V. Las demás que establezca el reglamento interior.
 
-### CAPITULO VIII. PREMIO ESTATAL AL DEPORTE
+### Capítulo VII
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+De los Visitadores.
 
-###### ARTICULO 34.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-El Consejo podrá proponer al Gobernador del Estado que las preseas se acompañen de entrega en numerario o en especie.
+###### Artículo 34.
 
-###### ARTICULO 35.
+Los visitadores generales así como los visitadores adjuntos "A" y "B" deberán reunir los mismos requisitos que se establecen para desempeñar el cargo de Secretario Ejecutivo, con excepción de la edad que será para los generales de 35 años, para los adjuntos "A" de 28 años, para los adjuntos "B" de veinticinco años y además les será obligatorio a éstos últimos acreditar un año de práctica profesional.
 
-El Premio Estatal General Pedro J. Méndez, no estará sujeto a límite de beneficiarios. Podrá promoverse por cualquier persona física o moral; pero merecerán preferente atención las promociones de los Ayuntamientos, Universidades, Instituciones Educativas y Asociaciones de Servicio Social.
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2005)</small>
 
-###### ARTICULO 36.
+Para ser nombrado visitador, deberá previamente acreditar de manera suficiente, experiencia y conocimiento en los temas de derechos humanos, en los términos que establezca el reglamento interior.
 
-El Premio Estatal Profesor Lauro Aguirre, constituye el más alto reconocimiento que el Estado otorga a los maestros tamaulipecos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 35.
 
-###### ARTICULO 37.
+Son facultades y obligaciones de los visitadores generales:
 
-Merecerán este premio, quienes por sus antecedentes se hayan distinguido en la investigación educativa, en el ejercicio sobresaliente de la docencia o por su trayectoria ejemplar en beneficio de la Educación.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+I. Admitir o rechazar, de manera fundada y motivada, las quejas presentadas ante la Comisión que le hubieran sido turnadas por el Director de Quejas, Orientación y Seguimiento;
 
-### CAPITULO IX. PREMIO ESTATAL DE PERIODISMO Y DE INFORMACION
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 38.
+II. Informar al Presidente de las quejas que sean recibidas en su visitaduría o iniciadas de oficio y del trámite de las mismas;
 
-La tramitación de este premio se hará ante la Secretaría de Educación, cuyo titular presidirá el Consejo de Premiación. Éste se integrará además con el Rector de la Universidad Autónoma de Tamaulipas, el titular del Instituto Tamaulipeco para la Cultura y las Artes, con un representante de la Sección 30 del Sindicato Nacional de Trabajadores de la Educación y el Presidente de la Comisión de Educación del H. Congreso del Estado.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-### CAPITULO X. PREMIO ESTATAL AL TRABAJO
+III. En coordinación con el Director de Quejas, Orientación y Seguimiento, iniciar de oficio la investigación de las denuncias de presuntas violaciones a los derechos humanos que sean de interés social o las de dominio público;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 39.
+IV. Realizar las actividades necesarias para lograr, por medio de la conciliación o de la petición, el cese inmediato de las violaciones de los derechos humanos;
 
-El premio consistirá en medalla. El Consejo podrá proponer al Gobernador del Estado, que la presea se acompañe de entrega en numerario o en especie.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-### CAPITULO XI. PREMIO ESTATAL DE LA JUVENTUD
+V. Practicar las investigaciones y estudios necesarios para formular los proyectos de resolución, acuerdos o peticiones, los que se someterán a consideración del Presidente para su análisis y, en su caso, aprobación;
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 40.
+VI. Cuando se requiera realizar acciones de investigación para poder estar en aptitud de emitir resoluciones, tendrán las siguientes facultades:
 
-Sólo personas físicas, individualmente consideradas, podrán ser beneficiarias del Premio Profesor Lauro Aguirre, el que podrá declararse vacante cuando no se hayan registrado candidaturas o habiéndolas, sus merecimientos no sean suficientes para el otorgamiento.
+a) Solicitar a cualquier dependencia, autoridad o servidor público estatal o municipal la presentación de informes o documentos que ayuden al esclarecimiento de los hechos en investigación;
 
-### CAPITULO XII. PREMIO ESTATAL A LA SOLIDARIDAD SOCIAL
+b) Practicar las visitas e inspecciones a las dependencias públicas, para el esclarecimiento de los hechos que se investigan, ya sea directamente o por medio del personal técnico o profesional bajo su dirección, en los términos de la presente ley y su reglamento interior;
 
-###### ARTICULO 41.
+c) Sugerir que a través de los procedimientos administrativos o penales, se analice la posible responsabilidad de las autoridades o servidores públicos que obstaculicen la investigación; y,
 
-El Premio Estatal de Cultura representa el más elevado reconocimiento que el Estado de Tamaulipas otorga a quienes se distingan en las áreas de la ciencia y el arte.
+d) Efectuar las demás acciones que conforme a derecho juzguen convenientes para el mejor conocimiento de los asuntos;
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+VII. Conforme lo establezca el reglamento interior, realizar visitas periódicas a los establecimientos destinados a la detención preventiva, custodia y readaptación social, estatales y municipales para constatar que no se cometan violaciones a los derechos humanos, entregando un informe al Presidente dentro de los tres días siguientes a cada visita. Para tal efecto, las autoridades o servidores públicos que desempeñen un empleo, cargo o comisión en la administración pública del Estado, en los órganos de procuración y de impartición de justicia, deberán prestar todas las facilidades que se requieran para el cumplimiento de la visita;
 
-### CAPITULO XIII. PREMIO ESTATAL DE ANTIGÜEDAD EN EL SERVICIO PUBLICO
+VIII. Solicitar en cualquier momento a las autoridades competentes, se tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones de que tengan conocimiento; y
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+IX. Las demás que le señale la presente ley, el reglamento interior y demás disposiciones aplicables.
 
-###### ARTICULO 42.
+###### Artículo 36.
 
-El Premio Estatal de Cultura se tramitará ante el Instituto Tamaulipeco para la Cultura y las Artes, cuyo titular presidirá el Consejo de Premiación. Éste se integrará además con el titular de la Secretaría de Educación, el Rector de la Universidad Autónoma de Tamaulipas y el Presidente de la Comisión de Cultura del H. Congreso del Estado.
+Los visitadores adjuntos auxiliarán en sus funciones a los visitadores generales, en los términos del reglamento interior.
 
-### CAPITULO XIV. PREMIO ESTATAL MAESTRO RAFAEL RAMIREZ
+###### Artículo 37.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+El Primer Visitador General sustituirá al Presidente en sus ausencias, conforme lo establece esta ley y su reglamento interior.
 
-###### ARTICULO 43.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2001)</small>
 
-Al Premio corresponde una medalla. El Consejo podrá proponer al Gobernador del Estado que la presea se acompañe de entrega en numerario o en especie.
+### Capítulo VIII
 
-###### ARTICULO 44.
+De la Dirección de Quejas, Orientación y Seguimiento.
 
-El premio podrá declararse vacante cuando no haya sido registrado candidato o cuando los propuestos no reúnan los requisitos para su otorgamiento.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-### CAPITULO XV. PREMIO ESTATAL DE ECOLOGIA Y PROTECCION AL AMBIENTE
+###### Artículo 38.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 25 DE JUNIO DE 1994)</small>
+El Director de Quejas, Orientación y Seguimiento tendrá las siguientes facultades:
 
-###### ARTICULO 45.
+I. Recibir y registrar las quejas por presuntas violaciones a los derechos humanos que se denuncien, acusar recibo de su recepción y turnarlas a los visitadores generales;
 
-Podrán ser beneficiarios del premio, sólo personas físicas, individualmente consideradas.
+II. Cuando se trate de asuntos urgentes o graves, inmediatamente lo hará del conocimiento del Visitador General o, en su caso, del Presidente de la Comisión;
 
-###### ARTICULO 46.
+III. Coordinar, analizar y resolver las dificultades y peticiones que se presenten con motivo del cumplimiento de las recomendaciones, acuerdos o peticiones y dar cuenta al Presidente de los casos que hagan necesaria su intervención directa con los titulares de las dependencias a las que se les hayan formulado recomendaciones;
 
-El Consejo integrará un Jurado para este premio, dando preferencia a los que hayan sido galardonados con anterioridad.
+IV. Informar a los quejosos los datos sobre los avances de los expedientes de quejas o cumplimiento de recomendaciones, realizando tal función en coordinación con los visitadores;
+
+V. Coordinar su trabajo de evaluación del cumplimiento de las recomendaciones con los visitadores generales o adjuntos que hubiesen preparado los proyectos respectivos.
+
+VI. Coordinar el trabajo de las áreas de guardia y médico psicológica de la Comisión;
+
+VII. Analizar las quejas que se presenten por cualquier medio, y en caso de ser procedentes aceptarlas como posibles violaciones a los derechos humanos. En caso contrario, dar orientación a los quejosos para que acudan ante la instancia correspondiente;
+
+VIII. Turnar las quejas o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas, a los organismos públicos de derechos humanos competentes;
+
+IX. Turnar a dirección de Contraloría las quejas contra los servidores públicos de la Comisión; y
+
+X. Las demás que le otorguen la presente Ley, su reglamento interior y los demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo IX
+
+De la Dirección de Comunicación Social.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 39.
+
+Son facultades del Director de Comunicación Social:
+
+I. Definir e integrar las distintas publicaciones que realice la Comisión, con la aprobación del Presidente;
+
+II. Ser el medio de difusión de la Comisión, para promover y divulgar la cultura de los derechos humanos en el Estado de Jalisco;
+
+III. Informar a la sociedad los objetivos y programas de trabajo del organismo mediante la puesta en práctica de diversas estrategias, planes de comunicación y campañas de difusión, así como dar a conocer a la opinión pública las recomendaciones, pronunciamientos emitidos, conciliaciones y acuerdos de no violación, que sean pertinentes y el Presidente los apruebe;
+
+IV. Gestionar la concesión de tiempos oficiales en el Sistema Jalisciense de Radio y Televisión;
+
+V. Producir material de propaganda para la difusión de los derechos humanos, así como la gaceta del organismo; y
+
+VI. Las demás que le otorguen la presente ley, su reglamento interior y demás ordenamientos aplicables.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### CAPITULO X
+
+Del Director Administrativo.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 40.
+
+Son facultades del Director Administrativo:
+
+I. Supervisar la correcta aplicación de los recursos financieros de la Comisión, ejerciendo un estricto control presupuestal;
+
+II. Establecer y controlar el sistema de informática de la Comisión;
+
+III. Elaborar el anteproyecto de presupuesto anual de la Comisión, en coordinación con las distintas áreas de la Comisión;
+
+IV. Presentar a la Presidencia periódicamente y en forma oportuna, los informes de carácter financiero de la institución;
+
+V. Encargarse de los recursos humanos de la institución;
+
+VI. Proporcionar los insumos para la adecuada operación de las distintas áreas de la Comisión;
+
+VII. Controlar la adquisición de los bienes autorizados en el presupuesto de egresos de la Comisión;
+
+VIII. Dar mantenimiento a los bienes de la Comisión; y
+
+IX. Las demás que le otorguen la presente ley, su reglamento interior y los demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo XI
+
+Del Contralor Interno.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 41.
+
+Son facultades del Contralor Interno:
+
+I. Dar trámite a las quejas relativas al desempeño de los servidores públicos de la Comisión, practicar las investigaciones necesarias y, cuando exista responsabilidad, instaurar los procedimientos administrativos, aplicando en su caso, las sanciones conducentes;
+
+II. Realizar auditorías periódicas, visitas de inspección y reuniones de evaluación en todas las áreas del organismo, verificando el cumplimiento de los criterios generales y de los procedimientos;
+
+III. Vigilar que las erogaciones del organismo se ajusten a los presupuestos autorizados;
+
+IV. Vigilar el cumplimiento de las normas de control, fiscalización y evaluación por parte de los servidores públicos de la Institución; y
+
+V. Las demás que le otorguen la presente ley, su reglamento interior y los demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo XII
+
+Disposiciones comunes.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 42.
+
+El Presidente, los consejeros ciudadanos, los secretarios Técnico y Ejecutivo, los visitadores generales y adjuntos, así como el Director de Quejas, Orientación y Seguimiento, no podrán ser detenidos, ni sujetos de responsabilidad civil, penal o administrativa por las opiniones o recomendaciones que formulen o por los actos que realicen conforme a derecho y en ejercicio de las funciones propias de sus cargos.
+
+Las funciones del Presidente, de los secretarios Ejecutivo y Técnico, de los visitadores generales y adjuntos, así como de los directores, serán incompatibles con cualquier otro cargo, empleo o comisión en organismos públicos, militancia en partidos u organizaciones políticas. Tampoco podrán ejercer en forma privada su profesión, ni otras actividades remuneradas, si éstas tienen relación con las funciones y competencia de la Comisión. Podrán desempeñar cualquier empleo relacionado con la docencia, la investigación científica o tecnológica que no les impidan el correcto desempeño de su cargo.
+
+El resto de los servidores públicos que laboren en la Comisión, no podrán trabajar en actividades que sean incompatibles con las tareas de la misma, por lo que el reglamento interior especificará en qué otros el personal, está impedido para ejercer otras actividades en los términos de este artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo XIII
+
+De la fe pública.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 43.
+
+El Presidente, el Secretario Ejecutivo, el Secretario Técnico, el Director de Orientación, Quejas y Seguimiento, así como los visitadores generales y visitadores adjuntos, tendrán fe pública en sus actuaciones para autentificar documentos, declaraciones y hechos en relación con sus funciones.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 44.
+
+Para los efectos de esta ley, se entenderá por fe pública, la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos servidores públicos, sin perjuicio del valor probatorio que se les atribuya, en los términos de este ordenamiento y otras leyes aplicables.
+
+Las declaraciones y hechos a que se refiere el párrafo anterior, se harán constar en el acta circunstanciada que al efecto levantará el servidor público correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+### Capítulo XIV
+
+Del personal auxiliar de la Comisión.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 45.
+
+Son auxiliares del organismo el personal profesional, técnico y administrativo. El Secretario Ejecutivo, los directores, visitadores generales, y visitadores adjuntos, podrán ser designados libremente por el Presidente y removidos de conformidad con lo establecido por las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 46.
+
+El reglamento interior determinará las áreas y unidades administrativas y técnicas, así como las funciones y facultades que deberá ejercer el personal de cada una de las áreas, de acuerdo con las necesidades institucionales, y conforme se autorice en su Presupuesto de Egresos.
+
+El personal de confianza se determinará por las funciones que establece la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la presente ley, su reglamento interior y los demás ordenamientos aplicables.
+
+(REUBICADO, P.O. 13 DE FEBRERO DE 2001)
 
 ## Título Tercero
 
@@ -471,255 +923,175 @@ Del Procedimiento.
 
 (REUBICADO, P.O. 13 DE FEBRERO DE 2001)
 
-### CAPITULO XVI. PREMIO ESTATAL AL MERITO CIUDADANO GENERAL JOSE BERNARDO MAXIMILIANO GUTIERREZ DE LARA Y PREMIO ESTATAL AL MERITO CIUDADANO GENERAL ALBERTO CARRERA TORRES
+### Capítulo I
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2010)</small>
+Generalidades.
 
-ARTICULO 89 BIS.- El Premio Estatal al mérito ciudadano General José Bernardo Maximiliano Gutiérrez de Lara y el Premio Estatal al mérito ciudadano General Alberto Carrera Torres, se conferirán de manera indistinta a aquél individuo que se distinga entre la población por su labor de fortalecimiento de las libertades, los derechos humanos y la democracia.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+###### Artículo 47.
 
-El premio se tramitará ante la Secretaría General de Gobierno, cuyo titular presidirá el Consejo de Premiación, el cual se integrará, además, por el Presidente de la Comisión de Derechos Humanos del Estado y los titulares de la Secretaría de Desarrollo Económico, de Bienestar Social, de Educación y el Presidente de la Comisión de Derechos Humanos del H. Congreso del Estado.
+El procedimiento que se siga ante la Comisión deberá ser breve, sencillo y gratuito; sólo estará sujeto a las mínimas formalidades que se requieran en la investigación de los hechos buscando siempre la conciliación. Se tramitará además, de acuerdo con los principios de inmediatez, concentración y rapidez, procurando el contacto directo con quejosos y autoridades, para evitar la dilación de las comunicaciones escritas.
 
-El premio consistirá en una medalla y podrá promoverlo cualquier persona.
+El principio de concentración abarcará no solo la acumulación del trámite de los expedientes de queja, sino también, a través de su resolución, violaciones reiteradas por parte de los servidores públicos de las diversas instituciones de gobierno que hacen probable la existencia de violaciones a los derechos humanos.
 
-Si fallece el titular del premio, la familia de éste será quien reciba la medalla otorgada.
+El principio de concentración se aplicará también cuando los patrones definidos de transgresión se deriven de la actuación de servidores públicos que pertenezcan a una misma dependencia.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE ABRIL DE 2011)</small>
+Sin perjuicio de analizar cada caso particular y recomendar sanciones individuales, la Comisión revisará los patrones de violación a los derechos humanos imputables a autoridades y servidores públicos cuando acumule quejas bajo este principio.
 
-###### ARTICULO 47.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-El Premio Estatal al Deporte se concederá por:
+###### Artículo 48.
 
-I.- La actuación destacada en alguna rama del deporte; y
+Cuando se presenten distintas quejas por supuestas violaciones a los derechos humanos de los grupos vulnerables radicados dentro del Estado, que evidencien patrones definidos de transgresión de sus derechos, la Comisión concentrará los expedientes y emitirá la resolución correspondiente. Independientemente de ello, cualquiera que sea la etapa del procedimiento, podrá expedir un pronunciamiento al respecto.
 
-II.- El desarrollo y promoción de la práctica del deporte.
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 48.
+### Capítulo II
 
-(DEROGADO, P.O. 25 DE JUNIO DE 1994)
+De la presentación de las quejas.
 
-### CAPITULO XVII. PREMIO ESTATAL AL MERITO A LA ENFERMERIA DOCTOR RODOLFO TORRE CANTU
+###### Artículo 49.
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2011)</small>
+El personal de la Comisión deberá dar trato confidencial a la información o documentación de los particulares y funcionarios, relativa a los asuntos de su competencia.
 
-ARTICULO 89 TER.- El Premio Estatal al Mérito a la Enfermería Doctor Rodolfo Torre Cantú, se conferirá de manera indistinta a aquella persona que se distinga en el desempeño de la profesión de la enfermería en Tamaulipas.
+###### Artículo 50.
 
-El premio se tramitará ante la Secretaría de Salud, cuyo titular presidirá el Consejo de Premiación, el cual se integrará, además, por el Director de la Escuela Superior de Enfermería de la Universidad Autónoma de Tamaulipas, y por un representante del Colegio de Enfermeras del Estado de Tamaulipas, A.C.
+Estará legitimada para presentar quejas a la Comisión, toda persona que tenga conocimiento de violaciones a los derechos humanos o que presumiblemente haya sido objeto de éstas.
 
-El Presidente del Consejo de Premiación invitará a la Delegación Estatal del Instituto Mexicano del Seguro Social, en sus regímenes IMSS ordinario e IMSS Solidaridad, a la Delegación Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a la Dirección del Hospital Naval Regional en el Estado y a la Dirección del Hospital General de Petróleos Mexicanos en el Estado, para que, de no tener inconveniente, nombren sendos representantes de enfermería ante el citado Consejo.
+###### Artículo 51.
 
-El premio consistirá en una medalla de plata, diploma y el numerario que determine el titular del Poder Ejecutivo, y podrá promoverlo cualquier persona.
+La queja no requiere de ningún requisito de formalidad, podrá presentarse por escrito o verbalmente ante la propia Comisión.
 
-El premio deberá entregarse anualmente, preferentemente el día 12 de mayo por conmemorarse en esa fecha el Día Internacional de la Enfermería.
+En casos urgentes, podrá enviarse por cualquier medio de comunicación y deberá ratificarse dentro de los cinco días siguientes a su presentación.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE ABRIL DE 2020)</small>
+En todos los casos operará, invariablemente, la suplencia en la deficiencia de la queja, para lo cual, la Comisión orientará y apoyará a los quejosos sobre el contenido de la misma y tratándose de personas que no entiendan el idioma español, les proporcionará gratuitamente un traductor o intérprete. Se pondrán a disposición de los quejosos formularios que faciliten el trámite.
 
-###### ARTICULO 49.
+###### Artículo 52.
 
-El premio se otorgará a personas físicas, individualmente o en grupo, pero tratándose del reconocimiento a los promotores del depotre (sic) podrá otorgarse también a personas morales.
+Cuando las quejas provengan de personas que se encuentren en un centro de detención o reclusorios, deberán ser transmitidas a la Comisión sin demora alguna por los encargados de dichos centros, pudiendo hacerlo también directamente a través de los visitadores.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+Para los efectos de la presente ley, todos los días y horas deberán considerarse hábiles. Habrá personal de guardia para recibir y atender quejas, las veinticuatro horas del día.
 
-###### ARTICULO 50.
+###### Artículo 53.
 
-La tramitación de este premio se hará ante el Consejo Estatal del Deporte de Tamaulipas, que integrará el Consejo de Premiación el cual será presidido por el titular del Instituto del Deporte de Tamaulipas.
+La queja sólo podrá presentarse dentro del plazo de un año, contado a partir de la fecha en que se hubiere concluido la ejecución de los hechos que se estimen violatorios de los derechos humanos, o de que el quejoso hubiese tenido conocimiento de los mismos.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2020)</small>
+En casos excepcionales, tratándose de infracciones graves a los derechos humanos, la Comisión podrá ampliar dicho plazo mediante resolución razonada.
 
-###### ARTICULO 51.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-El premio consistirá en una medalla. Si el premio se otorga a un grupo de deportistas, cada uno de sus integrantes recibirá una presea. La fecha para la entrega del premio será el diecinueve de noviembre.
+No contará plazo alguno cuando se trate de hechos que puedan ser considerados violaciones graves a la integridad personal, ya sea física o moral.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 54.
 
-###### ARTICULO 52.
+Las quejas que se presenten ante la Comisión, así como los acuerdos, peticiones y recomendaciones que ésta dicte, no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, ni suspenderán o interrumpirán sus plazos preclusivos, de prescripción o caducidad. Esta circunstancia deberá hacerse del conocimiento de los quejosos en el acuerdo de admisión de la instancia.
 
-Las candidaturas se propondrán al Consejo de Premiación en el período comprendido del primero de septiembre al quince de octubre de cada año. El Consejo integrará los expedientes que procedan dentro de los diez días siguientes y a continuación los someterá al análisis del Jurado, quien a su vez, a más tardar el diez de noviembre, entregará su dictamen al Consejo.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 55.
 
-###### ARTICULO 53.
+Los visitadores generales y adjuntos, así como el Director de Quejas, Orientación y Seguimiento deberán solicitar a las autoridades competentes, en forma inmediata cuando lo estimen necesario, que se tomen todas las medidas precautorias y cautelares necesarias para evitar la consumación irreparable de las violaciones a los derechos humanos reclamados o la producción de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron.
 
-Habrá un solo Jurado para las dos áreas del premio, que de preferencia se integrará con las personas que hayan sido galardonadas con antrioridad (sic).
+Dichas medidas pueden ser de conservación o restitutorias, según lo requiera la naturaleza del asunto.
 
-###### ARTICULO 54.
+Son medidas de conservación las que pretenden que se mantenga una situación jurídica y que ésta no cambie con la intervención de la autoridad.
 
-Podrá otorgarse un Premio Estatal de Periodismo impreso y de información por otros medios, en las siguientes áreas:
+Son medidas restitutorias aquellas tendientes a devolver una situación al estado en que se encontraban antes de la intervención de la autoridad.
 
-I.- Noticias;
-
-II.- Fotografías o Filmes;
-
-III.- Reportajes, crónicas o entrevistas;
-
-IV.- Artículos de fondo o comentarios;
-
-V.- Caricaturas, portadas o cartones; y
-
-VI.- Publicaciones o programas de divulgación cultural.
-
-###### ARTICULO 55.
-
-Sólo serán beneficiarias de este premio las personas físicas, individualmente o en grupo.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 55 Bis.
 
 Si en la presentación de la queja, investigación y tramitación existe presunción de la comisión de un delito, la institución deberá presentar la denuncia penal correspondiente ante el agente del Ministerio Público. De igual forma procederá en el caso de presunciones sobre infracciones y faltas que den origen a responsabilidades administrativas para efecto de que inicie el procedimiento correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-### CAPITULO XVIII. PREMIO ESTATAL DE LA INNOVACIÓN, LA CIENCIA Y LA TECNOLOGÍA
+### Capítulo III
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
+Del trámite de la queja.
 
-ARTICULO 89 QUÁTER.- El Premio Estatal de la Innovación, la Ciencia y la Tecnología se conferirá a la o a las personas físicas o morales que estén domiciliadas dentro del Estado que, por sus productos, diseños, procesos, servicios, métodos u organizaciones, contribuyan en el avance de la innovación, la ciencia y la tecnología de Tamaulipas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE OCTUBRE DE 2020)</small>
+###### Artículo 56.
 
-Este Premio se otorgará hasta en tres categorías:
+El quejoso, o en su caso la Comisión, integrará la queja con los siguientes datos:
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2001)</small>
 
-I. Innovación;
+I. El nombre, edad, sexo, nacionalidad, ocupación o profesión, domicilio, número telefónico en su caso, y firma de la persona que la promueva. En el caso de no saber firmar, estampará su huella digital y otra persona lo hará a su ruego;
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+II. De ser posible, una breve relación de los hechos motivo de la queja, especificando circunstancias de tiempo, modo y lugar;
 
-II. Ciencia; y
+III. El nombre y cargo del servidor o servidores públicos que intervinieron o, en caso de no conocerlos, los datos mínimos que lleven a su identificación, así como el nombre de la dependencia o institución a la que se encuentren adscritos. En el supuesto de que los quejosos o denunciantes no puedan identificar a las autoridades o servidores públicos cuyos actos u omisiones consideren haber afectado sus derechos fundamentales, la instancia será admitida, si procede, bajo la condición de que se logre dicha identificación en la investigación posterior de los hechos; y
 
-> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
+IV. Las pruebas que estén a su disposición, tendientes a comprobar las imputaciones vertidas en contra de los servidores públicos.
 
-III. Tecnología.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2023)</small>
+Cuando la queja sea presentada por una persona distinta al directamente agraviado, se deberá indicar cuando menos el nombre y demás datos que se tengan, de este último, los que se complementarán una vez que se lleve a cabo la ratificación de la inconformidad.
 
-La tramitación de este Premio se hará ante el Consejo Tamaulipeco de Ciencia y Tecnología, cuyo titular presidirá el Consejo de Premiación, el cual se integrará, además, por las o los titulares de las Secretarías de Bienestar Social, de Desarrollo Económico, de Educación, de la Rectoría de la Universidad Autónoma de Tamaulipas, así como por quien ostente la Presidencia de la Comisión de Innovación, Ciencia y Tecnología del Congreso del Estado.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+###### Artículo 57.
 
-Cualquier persona podrá presentar candidaturas de acuerdo con los lineamientos de la Convocatoria.
+Cuando se considere que la queja es inadmisible por ser manifiestamente improcedente, el Director de Quejas, Orientación y Seguimiento deberá rechazarla mediante acuerdo fundado y motivado, dentro de un plazo máximo de cinco días hábiles, lo cual se notificará al quejoso. No se admitirán en ningún caso y bajo ninguna circunstancia, quejas anónimas.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(F. DE E., P.O. 8 DE ABRIL DE 2003)</small>
 
-El Premio consistirá en una medalla. El Consejo podrá proponer al Gobernador del Estado que la presea se acompañe de entrega en numerario o en especie.
+Las quejas presentadas en la Comisión cuyo conocimiento competa a otra Comisión Estatal o a la Comisión Nacional, por razón del territorio, materia o servidores públicos involucrados, serán enviadas mediante oficio al organismo que corresponda, dentro de un plazo máximo de diez días, a partir del cual se notificará de ello a los quejosos.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+###### Artículo 58.
 
-Este Premio deberá otorgarse anualmente y de preferencia durante el mes de abril, en el marco de la conmemoración del Día Mundial de la Ciencia y Tecnología, del Día Mundial de la Creatividad y la Innovación o del Día Mundial de la Propiedad Intelectual.
+La Comisión registrará las quejas que se presenten y extenderá acuse de recibo de las mismas.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2020)</small>
+###### Artículo 59.
 
-La denominación del Premio se sujetará a las categorías comprendidas en la Convocatoria para el año respectivo.
+Si de la presentación de la queja no se deducen los elementos mínimos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que haga las aclaraciones pertinentes. Si después de este requerimiento, el quejoso no contesta en un término de cinco días, se enviará al archivo por falta de interés. No obstante, en cualquier momento, teniéndose los datos necesarios, se continuará con el trámite respectivo.
 
-(REUBICADO [N. DE E. ANTES CAPITULO XVII], P.O. 6 DE ABRIL DE 2011)
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 56.
+###### Artículo 60.
 
-Merecerán este premio, quienes se distingan, según lo exige la naturaleza de cada área, en el uso correcto de los medios de comunicación y la estética de la expresión; por la veracidad y objetividad de las informaciones, de los artículos y de los programas culturales, así como el interés que susciten y el efecto socialmente benéfico que produzcan. Esta última cualidad será la consideración básica para premiar publicaciones o programas destinados a la niñez y a la juventud. El otorgamiento de estos premios no estará condicionado por la amplitud de la cobertura del órgano de difusión.
+Una vez admitida la queja, la Comisión deberá hacerla del conocimiento de las autoridades o servidores públicos señalados como presuntos responsables, utilizando en caso de urgencia, cualquier medio de comunicación, solicitándoles un informe específico sobre los actos u omisiones que se les atribuyen. Para tal efecto, se les remitirá copia de la queja y del acuerdo admisorio, omitiendo los datos del domicilio del particular, de su trabajo, número telefónico o cualquier dato que permita localizarlo.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 57.
+### Capítulo IV
 
-El Premio Estatal de Periodismo y de Información se tramitará ante la Secretaría General de Gobierno, cuyo titular será quien presida el Consejo de Premiación. Éste se integrará además, con el titular de la Coordinación General de Comunicación Social y con el titular de la Secretaría de Bienestar Social.
+De los informes de las autoridades o servidores públicos.
 
-###### ARTICULO 58.
+###### Artículo 61.
 
-El premio consistirá en una medalla. El Consejo podrá proponer al Gobernador del Estado que la presea se acompañe de entrega en numerario o en especie.
+El informe de las autoridades o servidores públicos deberá rendirse dentro de un plazo de quince días naturales, contados a partir de la fecha en que se reciba el requerimiento y, en el cual, se consignarán los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones, así como los elementos de información que se consideren necesarios para la documentación del asunto.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+En el caso de privación ilegal de la libertad o peligro inminente de la integridad corporal, el informe deberá rendirse en un plazo que no deberá exceder de doce horas, el cual se podrá realizar en forma verbal de inmediato y, posteriormente, por escrito, sin que exceda del término de veinticuatro horas.
 
-###### ARTICULO 59.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-El Consejo de Premiación convocará oportunamente a la presentación de las propuestas de candidatos, e integrará el Jurado respectivo.
+A la falta del informe que deben rendir las autoridades, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva en que incurran, se tendrán por ciertos los hechos motivo de la queja, en el momento de la resolución, salvo que exista prueba en contrario recabada durante el procedimiento.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 62.
 
-###### ARTICULO 60.
+Las autoridades o servidores públicos a los que se les solicite información o documentación que sea considerada de carácter reservado, lo comunicarán a la Comisión y expresarán las razones para considerarla de esa naturaleza. En ese supuesto, los visitadores generales tendrán la facultad de hacer la calificación definitiva sobre la reserva y solicitar que se les proporcione la información o documentación que se manejará en la más estricta confidencialidad.
 
-Habrá un Jurado para todas las áreas en que se conceda este premio. Los premios se otorgarán por el Gobernador del Estado, el siete de junio.
-
-### CAPITULO XVIII (SIC). ESTIMULOS Y RECOMPENSAS
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
-
-###### ARTICULO 90.
-
-Los Estímulos y Recompensas se entregarán a los servidores públicos del Estado de Tamaulipas, que observen un desempeño sobresaliente en la realización de las funciones y tareas que tengan encomendadas, logrando con ello un incremento en la productividad y calidad de las mismas, o llevando a cabo alguno o varios actos que signifiquen mejoramiento evidente del servicio.
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
-
-###### ARTICULO 91.
-
-Para el otorgamiento de los estímulos, los superiores jerárquicos evaluaran trimestralmente el desempeño en el trabajo de los servidores públicos adscritos a su área administrativa, conforme al procedimiento autorizado por el Titular del Ejecutivo Estatal.
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2018)</small>
-
-###### ARTICULO 92.
-
-Los estímulos consistirán en un incentivo económico denominado “Bono de Productividad y Calidad”, cuya equivalencia variará de 3 a 9 días de salario que perciba el servidor público, salvo que otras leyes, reglamentos, disposiciones legales o administrativas previamente publicadas, señalen expresamente la posibilidad de determinar un monto diverso, de acuerdo a la valorización que se otorgue al desempeño en el servicio.
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
-
-###### ARTICULO 93.
-
-Los Bonos de Productividad y Calidad, se entregarán a los servidores públicos acreedores a los mismos, en la segunda quincena del mes siguiente al trimestre evaluado.
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
-
-###### ARTICULO 94.
-
-Para el otorgamiento de las recompensas los superiores jerárquicos analizaran si el mejoramiento, resultado de actos de algún servidor público lo hace acreedor a una recompensa y propondrán en su caso, al o los candidatos correspondientes ante el Jurado de Premiación.
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
-
-###### ARTICULO 95.
-
-El Jurado de Premiación será presidido por el titular de la Secretaría Anticorrupción y Buen Gobierno, y se integrará por los titulares de las Dependencias y Entidades de la Administración Pública Estatal y con un representante del H. Congreso y del Supremo Tribunal de Justicia del Estado, quien determinará las propuestas a recibir recompensa, que deberán someterse al acuerdo del Gobernador o Gobernadora del Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
-
-###### ARTICULO 96.
-
-Las recompensas a que se refiere el artículo anterior consistirán en:
-
-I.- Becas en instituciones o planteles del país o del extanjero (sic) para los servidores públicos galardonados o para sus familiares consanguíneos; o
-
-II.- Entregas en efectivo, que equivaldrán al importe de 60 a 180 días del sueldo que perciba el servidor público.
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
-
-###### ARTICULO 97.
-
-Si fallece el servidor público a cuyo favor se esté tramitando una recompensa que se declare procedente, la entrega se hará de acuerdo al ordenamiento jurídico aplicable.
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
-
-###### ARTICULO 98.
-
-Los premios y las entregas adicionales en numerario o en especie, así como las recompensas, estarán exentos de cualquier impuesto o deducción.
-
-###### ARTICULO 61.
-
-El premio se declarará desierto en las áreas donde no se registren candidatos o cuando los propuestos no reúnan los requisitos suficientes a juicio del Jurado.
-
-###### ARTICULO 62.
-
-El Premio Estatal a la Productividad y Calidad del Trabajo se conferirá a las personas físicas o morales que diseñen y/o instrumenten estrategias o proyectos, con la finalidad de promover una nueva cultura de eficiencia, calidad y exportación, cuyos resultados se traduzcan en elevar la competitividad en las empresas y lograr mejores niveles de vida para los trabajadores.
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo V
 
 De la investigación.
 
-###### ARTICULO 63.
+###### Artículo 63.
 
-El premio se tramitará ante la Secretaría del Trabajo, cuyo titular presidirá el Consejo de Premiación. Éste se integrará con los titulares de la Secretaría General de Gobierno, de Administración, de Desarrollo Económico y de Desarrollo Rural, además, con el Presidente de la Comisión de Trabajo y Seguridad Social del H. Congreso del Estado.
+Admitida la queja y requerido el informe que señala el capítulo anterior, la Comisión iniciará de inmediato la investigación para el esclarecimiento de los hechos.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+Para tal fin, practicará visitas e inspecciones a las dependencias por medio de su personal técnico, el cual solicitará o recibirá las pruebas de la autoridad o del servidor público presunto infractor, así como del quejoso y practicará todas aquellas actuaciones que estime pertinentes.
+
+En la realización de las investigaciones, se observarán los principios legales a que se deberán sujetar las autoridades y servidores públicos, dándose prioridad a los que señala la presente ley.
+
+En todos los casos que se requiera, la Comisión levantará acta circunstanciada de sus actuaciones.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo VI
 
@@ -727,21 +1099,23 @@ De las pruebas.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 64.
+###### Artículo 64.
 
-El premio podrá promoverse en cualquier tiempo y por cualquier persona física o moral, pero merecerán preferente atención las promociones de las Organizaciones Obreras, Campesinas y Patronales, así como las de los Ayuntamientos, Instituciones Educativas y Asociaciones de Servicio Social.
+La Comisión deberá recabar los elementos probatorios necesarios para resolver el expediente de queja.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 65.
+###### Artículo 65.
 
-Corresponde al premio una placa. El Consejo de Premiación podrá proponer al Gobernador del Estado que el premio se acompañe de entrega en numerario o en especie, y éste se otorgará el día 1o. de mayo.
+Una vez recibido el informe, se abrirá el período probatorio cuya duración será determinada por la Comisión de acuerdo al caso, tomándose en cuenta la gravedad y dificultad para allegarse las pruebas.
 
-###### ARTICULO 66.
+Se admitirán pruebas de toda índole y naturaleza, siempre y cuando no vayan en contra de la moral o del derecho, y se deberán recabar de oficio aquellas que puedan ayudar a la aclaración de los hechos materia de la queja.
 
-Serán merecedores de este premio, los jóvenes menores de 29 años, cuya conducta o dedicación al estudio o al trabajo se considere ejemplo para la sociedad.
+###### Artículo 66.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+El Visitador General, valorará las pruebas en su conjunto, de conformidad con los principios de lógica, experiencia y legalidad, a fin de que pueda producir convicción sobre los hechos materia de la queja.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo VII
 
@@ -749,17 +1123,31 @@ De la conciliación.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 67.
+###### Artículo 67.
 
-Este premio se tramitará ante la Secretaría de Bienestar Social, cuyo titular presidirá el Consejo de Premiación y quedará integrado por los titulares de la Secretaría de Educación, del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, del Instituto de la Juventud de Tamaulipas y del Rector de la Universidad Autónoma de Tamaulipas.
+La conciliación es el procedimiento por el cual la Comisión en cualquier momento, escuchando las posturas del agraviado y de la autoridad o servidor público presunto responsable, gestiona un acuerdo entre ellos para terminar con el conflicto planteado, siempre que no se trate de violaciones graves a los derechos humanos o que afecten intereses de terceros.
 
-###### ARTICULO 68.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-El Premio Estatal de la Juventud podrá promoverse por cualquier persona física o moral, pero merecerán preferente atención las promociones de los Ayuntamientos, Universidades, Instituciones Educativas y Asociaciones de Servicio Social.
+###### Artículo 68.
 
-###### ARTICULO 69.
+Se consideran violaciones graves a los derechos humanos los actos u omisiones que impliquen ataques al derecho a la vida o a la integridad física o psíquica de las personas, a la libertad, así como las conductas que se consideren especialmente graves por el número de afectados o sus posibles consecuencias.
 
-El premio consistirá en una medalla y se acompañará con entrega en numerario o en especie cuando así lo acuerde el Gobernador del Estado; podrá declararse vacante cuando no se registre candidato o cuando los propuestos no reúnan los merecimientos suficientes.
+Cualquiera que sea la etapa del procedimiento, la Comisión podrá realizar acciones de conciliación con la autoridad o servidor público, con el fin de lograr una solución inmediata a la violación haciendo de su conocimiento en que consiste el procedimiento de conciliación a través de la dirección de Quejas, Orientación y Seguimiento o de las visitadurías.
+
+Asimismo, lo mantendrá informado del avance del trámite hasta su total conclusión.
+
+La autoridad o servidor público que participe en una conciliación dispondrá de quince días naturales a partir de la recepción de la propuesta de la Comisión, para responderla por escrito mediante informe y enviar las pruebas que considere pertinentes.
+
+Si la autoridad o servidor público acepta la conciliación, se concluirá el expediente siempre que acredite, dentro del término de diez días naturales a partir de la recepción de su informe, haber dado cumplimiento a la misma. Dicho plazo podrá ser ampliado cuando así lo requiera la naturaleza del asunto.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+###### Artículo 69.
+
+Si la autoridad no cumple en los términos pactados, no acepta la propuesta, o si la Comisión las desaprueba, continuará con el trámite de la queja dentro de las setenta y dos horas hábiles siguientes, contadas a partir de que tenga conocimiento de ello, asentando razón de lo ocurrido.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo VIII
 
@@ -767,117 +1155,131 @@ De los acuerdos, peticiones y recomendaciones.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 70.
+###### Artículo 70.
 
-Son acreedores a este premio, quienes desinteresadamente y por propia voluntad, con sacrificio económico o de su tiempo, hayan realizado o estén realizando actos de manifiesta solidaridad humana, que contribuyan al bienestar social y propicien el desarrollo de la comunidad; ya sea cooperando al alivio de necesidades en casos de catástrofe o de siniestro; ya sea prestando ayuda o asistencia a sectores socialmente marginados.
+El Presidente, el Director de Quejas, Orientación y Seguimiento y los visitadores generales y adjuntos podrán dictar acuerdos de trámite y peticiones en el curso de las investigaciones que realicen con motivo de las mismas.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+Las peticiones deberán ser atendidas por las autoridades y servidores públicos a los que se solicite aportar información o documentos y su incumplimiento dará lugar a que el Presidente o el Visitador General requiera a la autoridad correspondiente la aplicación de las sanciones respectivas, de acuerdo con lo establecido en la presente ley.
 
-###### ARTICULO 71.
+Cuando se compruebe que no existieron los actos u omisiones imputados al servidor público o autoridad, se dictará acuerdo de no violación de los derechos humanos.
 
-Este premio se tramitará ante la Secretaría de Bienestar Social, cuyo titular presidirá el Consejo de Premiación, que se integrará además con los titulares de la Secretaría General de Gobierno, de Salud y del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
+###### Artículo 71.
 
-###### ARTICULO 72.
+La petición procede:
 
-El premio podrá promoverse por cualquier persona física o moral, pero merecerán preferente atención las promociones de las organizaciones obreras, campesinas y patronales, así como las de los Ayuntamientos, Instituciones Educativas y Asociaciones Públicas o Privadas de Asistencia o de Servicio Social.
+I. Cuando se solicitan informes sobre presuntas violaciones o sobre presuntos incumplimientos en las obligaciones de los servidores públicos;
 
-###### ARTICULO 73.
+II. Cuando se soliciten documentos o cualquier otro tipo de pruebas;
 
-El premio consistirá en placa y podrá acompañarse de una entrega en numerario o en especie cuando así lo acuerde el Gobernador del Estado. Se declarará vacante cuando no se registre candidato o cuando los propuesto no reúnan los requisitos suficientes.
+III. Cuando se pida el cumplimiento a una recomendación o el cumplimiento de los términos de una conciliación;
 
-###### ARTICULO 74.
+IV. Cuando se solicite la comparecencia de un funcionario;
 
-El Premio Estatal de Antigüedad en el Servicio Público, se otorgará a los servidores públicos de las Dependencias y Entidades sujetos al régimen de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, en atención a sus años de servicio.
+V. Cuando se solicite el cese de las violaciones en los centros de readaptación o de detención;
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+VI. Cuando se solicite al superior jerárquico de un servidor público, se aplique una medida disciplinaria por no cumplir con las peticiones de la Comisión u obstaculiza las investigaciones que ésta emprenda; y
 
-###### ARTICULO 75.
+VII. Las demás que señale el reglamento interior.
 
-Este premio se tramitará de oficio en cada una de las Dependencias y Entidades del Poder Público Estatal, por conducto de los Consejos de Premiación que en ellas se establezcan, los cuales se integrarán con el titular como Presidente, el representante de la Secretaría de Administración, quien actuará como Secretario, y con un representante del Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado de Tamaulipas. Estos Consejos fungirán como Jurados.
+###### Artículo 72.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+La recomendación no tendrá carácter vinculatorio o imperativo para la autoridad o servidor público a los cuales se dirija, ni tampoco podrá anular, modificar o dejar sin efecto las resoluciones o actos contra los que se haya presentado la queja.
 
-###### ARTICULO 76.
+Una vez recibida por la autoridad o servidor público de que se trate, deberá informar, dentro de los diez días siguientes a su notificación, si acepta dicha recomendación. En su caso, deberá acreditar dentro de los quince días siguientes, que ha cumplido con la misma. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo requiera.
 
-El premio consistirá en medalla y podrá acompañarse de entrega en numerario o en especie cuando así lo acuerde el Gobernador del Estado; se otorgará en ocho grados:
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-I.- Primer grado, por 55 años de servicio;
+###### Artículo 73.
 
-II.- Segundo grado, por 50;
+Una vez agotadas las etapas de integración del expediente de queja, el visitador general deberá elaborar un proyecto de resolución, en el cual se analizarán los hechos, argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas, a fin de determinar si las autoridades o servidores, han violado o no los derechos humanos de los afectados.
 
-III.- Tercer grado, por 45;
+El proyecto de recomendación o, en su caso, el acuerdo de no violación a los derechos humanos, contendrá un capítulo relativo a los antecedentes y hechos; una sección de evidencias, la motivación y fundamentación; y la conclusión que consistirá en las proposiciones concretas que deberán señalar las medidas que procedan para la efectiva restitución de los derechos fundamentales de los afectados, y, en su caso, la reparación de los daños y perjuicios que se hubiesen ocasionado.
 
-IV.- Cuarto grado, por 40;
+Los proyectos antes referidos serán sometidos al Presidente para su consideración, quien estará facultado para hacer las modificaciones y observaciones que estime convenientes y emitirá la resolución final.
 
-V.- Quinto grado, por 35;
+###### Artículo 74.
 
-VI.- Sexto grado, por 30;
+El acuerdo de no violación a los derechos humanos tiene como finalidad, deslindar la responsabilidad de aquel servidor público señalado como presunto violador de los derechos humanos en la queja respectiva.
 
-VII.- Séptimo grado, por 25; y
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-VIII.- Octavo grado, por 20.
+###### Artículo 75.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+Las recomendaciones y los acuerdos de no violación a los derechos humanos se referirán a casos concretos; la Comisión no podrá aplicarlos a otros por analogía o por mayoría de razón. Sin embargo, los criterios éticos contenidos en una recomendación deberán ser tomados en cuenta por las autoridades en actuaciones de la misma naturaleza.
 
-###### ARTICULO 77.
+###### Artículo 76.
 
-Los servidores públicos que se consideren con derecho a este premio, podrán hacerlo valer por sí mismos o por conducto de su representante sindical ante el Consejo.
+La Comisión deberá notificar, fehaciente e inmediatamente a los quejosos, los resultados de la investigación, el contenido, la aceptación y la ejecución de la recomendación emitida, o en su caso, el acuerdo de no violación de los derechos humanos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 77.
 
-###### ARTICULO 78.
+Corresponde a la Comisión comprobar o cerciorarse que se haya cumplido con la recomendación, para lo cual, podrá realizar toda clase de diligencias, pudiendo actuar por moción propia o a petición de parte.
 
-El Premio Estatal Maestro Rafael Ramírez en el Estado de Tamaulipas, se otorgará a los maestros que cumplan 30 años de Servicio dentro del Sistema Federal o Estatal.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+###### Artículo 78.
 
-###### ARTICULO 79.
+La Comisión no estará obligada a entregar ninguna de las pruebas o copias certificadas de sus actuaciones a la autoridad o servidor público a los cuales dirigió alguna recomendación o a algún particular. Si dichas pruebas le son solicitadas, el Visitador General o el Director que conozca del caso, discrecionalmente determinará si son de entregarse a (sic) no.
 
-La tramitación de este premio se hará ante la Secretaría de Educación, cuyo titular presidirá el Consejo de Premiación. Este se integrará además con el Secretario de Administración, quién actuará como Secretario, y con un representante de la Sección 30 del Sindicato Nacional de Trabajadores de la Educación, quienes verificarán la documentación comprobatoria y dictaminarán lo procedente.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 79.
+
+El Presidente deberá hacer públicas, en su totalidad o en extracto, las recomendaciones y los acuerdos de no violación a los derechos humanos. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados, de conformidad con las circunstancias del caso concreto.
 
 ## Título Cuarto
 
 De los Recursos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 2001)</small>
 
 ### Capítulo Único
 
 De los recursos de queja e impugnación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 80.
+###### Artículo 80.
 
-El premio consistirá en medalla de plata, diploma y numerario que determine el Ejecutivo, el cual no podrá ser menor a la cantidad otorgada el año inmediato anterior.
+En caso de desaparición o detención ilegal, cualquier persona o el propio quejoso, cuando lo pueda hacer, podrá interponer ante la Comisión el recurso extraordinario de exhibición de persona, en cuyo caso, los visitadores generales o adjuntos, el Director de Quejas, Orientación y Seguimiento y el personal de guardia, tendrán facultades para inspeccionar o buscar en las oficinas, separos, centros de detención, de prisión o cualquier otro lugar en donde se presuma que se encuentra ilegalmente detenido el afectado.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+Las autoridades estatales y municipales de dependencias administrativas, de procuración de justicia, de seguridad pública y de vialidad o cualquier otro servidor público que hubiese ordenado una detención presumiblemente ilegal, deberán dar las facilidades correspondientes para que la Comisión pueda garantizar el cese a dichas violaciones.
 
-###### ARTICULO 81.
+El recurso de exhibición de persona no prejuzga sobre la responsabilidad penal ni administrativa del detenido.
 
-La medalla de plata del Premio Maestro Rafael Ramírez conservará las características señaladas en el Acuerdo del Ejecutivo Federal que la instituyó originalmente el 28 de noviembre de 1973.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 81.
 
-###### ARTICULO 82.
+Los visitadores generales o adjuntos, el Director de Quejas, Orientación y Seguimiento y los secretarios de guardia, podrán solicitar a las autoridades administrativas señaladas en el artículo que antecede, le exhiba o presente físicamente a la persona que mantenga privada de su libertad, en cuyo caso, la presunta autoridad responsable deberá justificar la detención de quien se trate y garantizar la preservación de su vida e integridad corporal, así como su salud física y mental.
 
-Los maestros que se consideren con derecho a este premio, podrán hacerlo valer por sí o por conducto de su representante sindical ante el Consejo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 82.
 
-###### ARTICULO 83.
+El recurso de exhibición de persona se podrá hacer valer ante la Comisión en cualquier momento e incluso de manera verbal cuando esté en riesgo la vida, la integridad corporal, la salud física y mental de una persona.
 
-El Consejo recibirá a partir del 2 de enero, hasta el 15 de marzo de cada año, las solicitudes correspondientes. El premio será entregado por el Gobernador del Estado, en acto solemne el día 15 de mayo del mismo año.
+La Comisión resolverá de inmediato la procedencia o improcedencia del citado recurso. Su resolución será inatacable.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 84.
+En caso de que la Comisión resuelva procedente la solicitud del recurso de exhibición de persona, se trasladará al sitio en donde la denuncia afirme que se encuentra detenida ilegalmente una persona, a fin de dar cumplimiento a su resolución. Al efecto, se hará acompañar del solicitante o de quien conozca al detenido y de un médico, para que, en su caso, pueda certificar la identidad del presentado, así como el estado físico en que se encuentra o bien, de que no se encontraba dicha persona en el lugar descrito.
 
-Los maestros beneficiados con este premio, quedarán impedidos para recibir el Premio Estatal de Antigüedad en el Servicio Público, previsto en esta Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE JUNIO DE 1994)</small>
+###### Artículo 83.
+
+Si la autoridad responsable exhibiera a la persona agraviada, los visitadores generales o el Director de Quejas, Orientación y Seguimiento, así como el personal de guardia podrán disponer la no incomunicación y la imposibilidad de cambiarla de lugar sin autorización. Asimismo, si no estuviere a disposición del Ministerio Público, o de la autoridad administrativa competente, podrá solicitar que se ponga de inmediato a disposición ésta y si ya estuviere, podrá disponer que ésta resuelva sobre la detención de la persona en los plazos y términos constitucionales, lo anterior en cuanto no interviniere la autoridad federal por medio del juicio de amparo y cuando se trate de casos de extrema urgencia.
+
+En su caso, podrá solicitar a la autoridad señalada como responsable, un informe por escrito con relación al recurso promovido, el cual deberá rendirse en un plazo no mayor de cuarenta y ocho horas a partir de que se le haya notificado a dicha autoridad.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+El desacato a las resoluciones que emitan los visitadores, el Director de Quejas, Orientación y Seguimiento y los secretarios de guardia con relación a este recurso, así como los informes falsos o incompletos que rindan las autoridades señaladas como responsables, se sancionará conforme las leyes en la materia.
+
+###### Artículo 84.
+
+Proceden los recursos de queja e impugnación, en los casos y términos establecidos en la Ley de la Comisión Nacional de Derechos Humanos.
 
 ## Título Quinto
 
@@ -889,31 +1291,29 @@ De las obligaciones y colaboración de las autoridades y servidores públicos co
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-###### ARTICULO 85.
+###### Artículo 85.
 
-El Premio Estatal de Ecología y Protección al Ambiente se conferirá a la o a las personas físicas o morales que conciban nuevos métodos y técnicas, implanten o promuevan estrategias o proyectos encaminados a corregir o salvaguardar el equilibrio ecológico y ambiental, cuyos efectos redundan en mejorar la calidad de vida de la población, así como en el establecimiento de una cultura ecológica.
+Todas las autoridades, dependencias y entidades de los poderes estatales y gobiernos municipales deberán proporcionar veraz y oportunamente, la información y documentación que solicite la Comisión. El incumplimiento de esta obligación faculta a ésta para solicitar a los superiores jerárquicos o a la Contraloría del Estado, fincar la responsabilidad a que hubiere lugar, de conformidad con las disposiciones contenidas en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+###### Artículo 86.
 
-###### ARTICULO 86.
-
-La tramitación de este premio se hará ante la Secretaría de Desarrollo Urbano y Medio Ambiente, cuyo titular presidirá el Consejo de Premiación, que se integra además con los titulares de la Secretaría de Desarrollo Rural, de Salud, de Obras Públicas, de la Comisión Estatal de Áreas Naturales Protegidas, de la Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre y el Presidente de la Comisión de Desarrollo Sustentable del H. Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
+Todas las autoridades y servidores públicos estatales y municipales, incluso aquéllas que no hubieren intervenido en los actos u omisiones materia de la investigación, pero que por razón de sus funciones o actividades puedan proporcionar información, deberán cumplir con los requerimientos que les dirija la Comisión en tal sentido.
 
 ### Capítulo II
 
 De las responsabilidades y sanciones.
 
-###### ARTICULO 87.
+###### Artículo 87.
 
-El premio podrá promoverse por persona física o moral en los términos de la Convocatoria respectiva, pero tendrán preferente atención las promociones de las Organizaciones Obreras, Campesinas, Patronales y de Profesionales así como las de los Ayuntamientos, Instituciones Educativas, de Investigación y Asociaciones de Servicio Social.
+Los servidores públicos serán responsables penal y administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas ante la Comisión, de conformidad con lo establecido en las disposiciones constitucionales y demás ordenamientos legales aplicables.
 
-###### ARTICULO 88.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2001)</small>
 
-(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2011)
+###### Artículo 88.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
+La Comisión podrá solicitar a las autoridades competentes la imposición de las sanciones administrativas correspondientes a través de los medios y procedimientos legales, por las infracciones en que incurran servidores públicos, bien sea por los actos u omisiones materia de las quejas o por los actos u omisiones que entorpezcan las investigaciones que realice dicha Comisión.
+
+Además de las denuncias sobre los delitos y faltas administrativas en que puedan incurrir los servidores públicos en el curso de las investigaciones seguidas por la Comisión, se podrá solicitar la amonestación pública o privada, según el caso, al titular de la dependencia de que se trate.
 
 ## Título Sexto
 
@@ -923,13 +1323,109 @@ Del Patrimonio.
 
 Del patrimonio de la Comisión.
 
-###### ARTICULO 89.
+###### Artículo 89.
 
-El Premio consistirá en placa y podrá acompañarse de una entrega en numerario o en especie, cuando así lo acuerde el Gobierno del Estado.
+El patrimonio de la Comisión se integrará por:
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE FEBRERO DE 2010)</small>
+I. Los bienes muebles o inmuebles que le sean destinados o adquiera para el cumplimiento de sus fines;
+
+II. Los recursos que por otros medios legales pueda obtener; y
+
+III. Los recursos que le asigne el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2001)</small>
+
+En el caso de la fracción II de este artículo, la Comisión deberá informar de dichas percepciones al Congreso del Estado, las cuales podrá aceptar siempre y cuando no comprometan de manera alguna su autonomía y su actuación.
 
 ## TRANSITORIOS
+
+Artículo Primero. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero. El Consejo General tendrá un plazo de tres meses para la modificación de su reglamento interior, que comenzará a correr a partir del día en que entre en vigor el presente decreto.
+
+Artículo Cuarto. Para efectos de los artículos 46 y 47 de esta ley, los trabajadores podrán ser recontratados por la Comisión., (sic) más deberá quedar garantizada la antigüedad y demás derechos laborales adquiridos, en los términos de la Ley de Servidores Públicos del Estado y sus Municipios.
+
+Salón de Sesiones del Congreso del Estado
+
+Guadalajara, Jalisco, 23 de diciembre de 1997.
+
+Diputado Presidente
+
+Raúl Eduardo Vargas de la Torre
+
+Diputado Secretario
+
+Fco. Javier Mora Hinojosa
+
+Diputado Secretario
+
+Leonel Sandoval Figueroa
+
+En mérito de lo anterior, mando se imprima, publique, divulgue, y se le dé el debido cumplimiento.
+
+Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, a los doce días del mes de enero de mil novecientos noventa y ocho.
+
+El Gobernador Constitucional del Estado
+
+Ing. Alberto Cárdenas Jiménez
+
+El Secretario General de Gobierno
+
+Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE JUNIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE FEBRERO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- En tanto no se lleve a cabo la reforma constitucional para el nombramiento del Presidente de la Comisión Estatal de Derechos Humanos y de los consejeros ciudadanos, se aplicará el procedimiento anterior, debiendo entrar en vigor el procedimiento contenido en el presente decreto al día siguiente de su iniciación de la vigencia de la reforma constitucional.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2005)</small>
+
+El nombramiento de los Consejeros Ciudadanos en funciones designados con anterioridad a la publicación de este decreto, se entenderá ampliado por el mismo término de cinco años.
+
+TERCERO.- Se derogan las disposiciones legales y administrativas que se opongan al presente decreto.
+
+P.O. 26 DE AGOSTO DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 14 DE ABRIL DE 2005.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Una vez publicado el presente decreto, notifíquese a los integrantes del Consejo Ciudadano de la Comisión Estatal de Derechos Humanos para su debido cumplimiento.
+
+P.O. 22 DE NOVIEMBRE DE 2005.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE AGOSTO DE 2006.
+
+PRIMERO. El presente decreto entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las autoridades del Ministerio Público, Reclusorios y Sedes Judiciales, deberán exhibir en los recintos de detención los derechos que establece la Constitución Política de los Estados Unidos Mexicanos y en los tratados, acuerdos y convenciones internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte para los detenidos o procesados, dentro del plazo de la publicación del presente decreto y su entrada en vigor.
+
+P.O. 25 DE NOVIEMBRE DE 2006.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 18 DE SEPTIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 ###### ARTICULO PRIMERO.
 
@@ -938,30 +1434,6 @@ La presente Ley entrará en vigor 30 días después al de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se abroga el Decreto Número 7, de fecha 19 de enero de 1986, expedido por la Cuadragésima Sexta Legislatura del Estado mediante el cual se instituyó la Medalla "Pedro J. Méndez"
-
-###### ARTICULO TERCERO.
-
-Se derogan todas las demás disposiciones que se opongan a la presente Ley.
-
-Dado en el Salón de Sesiones del Honorable Congreso del Estado, a los 9 días del mes de diciembre de 1987.- Diputado Presidente, LUIS QUINTERO GUZMAN.- Rúbrica.- Diputado Secretario, RAUL MANDUJANO FLORES.- Rúbrica.- Diputado Secretario Suplente, GREGORIO LUNA MARTINEZ.- Rúbrica.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los quince días del mes de diciembre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 25 DE JUNIO DE 1994
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan a la presente Ley.
-
-P.O. 23 DE FEBRERO DE 2010.
 
 ###### ARTICULO UNICO.
 
@@ -979,31 +1451,11 @@ P.O. 6 DE ABRIL DE 2011.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-383 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
 
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
-
-P.O. 31 DE JULIO DE 2018.
-
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 22 DE NOVIEMBRE DE 2011.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Los procedimientos para otorgar algún premio, estímulo o recompensa, que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
-
-P.O. 13 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-444 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 64, DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS, Y 74 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
 
@@ -1027,56 +1479,6 @@ P.O. 30 DE OCTUBRE DE 2018.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 8 DE JULIO DE 2020.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
 P.O. 14 DE ABRIL DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-122 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 81 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA EL ARTÍCULO 51 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 15 DE OCTUBRE DE 2020.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-147 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 89 QUÁTER, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, QUINTO Y SEXTO; Y SE ADICIONA UN PÁRRAFO SÉPTIMO A DICHO NUMERAL DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE AGOSTO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-620 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 89 QUÁTER, PÁRRAFO TERCERO DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 12 DE FEBRERO DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
-
-###### ARTÍCULO TERCERO.
-
-En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
-
-P.O. 13 DE ABRIL DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-1045 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 76 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
