@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-protege-los-derechos-de-los-no-fumadores-en-el-12598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-06"
-last_updated: "2005-08-19"
+last_updated: "2010-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY QUE PROTEGE LOS DERECHOS DE LOS NO FUMADORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 411, POR EL CUAL SE APRUEBA EL DECRETO QUE ABROGA LA LEY QUE PROTEGE LOS DERECHOS DE LOS NO FUMADORES EN EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 20 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 6 de octubre de 1995.
 
@@ -398,3 +400,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 19 DE AGOSTO DE 2005.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE SEPTIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, Órgano del Gobierno Constitucional del Estado de Baja California.
