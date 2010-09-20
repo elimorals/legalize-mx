@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-22748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-11-08"
-last_updated: "2010-07-19"
+last_updated: "2010-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,21 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
-
-Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
-
-FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
-
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
-
-El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
-
-"NUMERO 213
-
-La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
-
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
@@ -249,9 +235,11 @@ La representación de la Secretaría General de Gobierno y el trámite y resoluc
 
 El Subsecretario de Gobierno, suplirá en sus ausencias temporales o accidentales al Secretario General de Gobierno, y tendrá las atribuciones, funciones y obligaciones que el Secretario o los Reglamentos le asignen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 24.
 
-Al Secretario General de Gobierno corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, el despacho de los siguientes asuntos:
+A la Secretaría General de Gobierno corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado y demás leyes relativas, el despacho de los siguientes asuntos:
 
 I. Conducir las relaciones del Poder Ejecutivo con los otros Poderes del Estado y con las autoridades municipales;
 
@@ -317,7 +305,9 @@ XXVIII. Organizar y vigilar el ejercicio de la fe pública en los casos en que s
 
 XXIX. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado; ordenar y practicar visitas de inspección a los Notarios Públicos; otorgar asesorías a los mismos; así como atender y resolver las quejas que contra ellos se presenten;
 
-XXX. Llevar el libro de registro de Notarios Públicos; auxiliarlos en la profesionalización de la actividad notarial cuando así lo soliciten, y organizar el Archivo Notarial del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+XXX. Llevar el libro de registro de Notarios Públicos; auxiliarlos en la profesionalización de la actividad notarial cuando así lo soliciten, organizar el Archivo Notarial del Estado y ejercer las atribuciones que le correspondan como autoridad certificadora en términos de la Ley de la materia;
 
 XXXI. Llevar el registro de firmas de los servidores y fedatarios públicos así como legalizar las firmas de los mismos;
 
@@ -643,7 +633,9 @@ XXX. Emitir o autorizar, según el caso, los catálogos de cuentas para la conta
 
 XXXI. Realizar la evaluación anual del ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes correspondientes;
 
-XXXII. Administrar el catastro de los bienes inmuebles ubicados en el territorio del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+XXXII. Administrar el catastro de los bienes inmuebles ubicados en el territorio del Estado; participando con la Secretaría General de Gobierno, en la realización de lineamientos que permitan normar, coordinar, implementar, desarrollar y unificar la base de datos de manera electrónica entre la Dirección de Catastro y el Registro Público de la Propiedad y del Comercio;
 
 XXXIII. Representar al Poder Ejecutivo en materia fiscal y catastral, e intervenir cuando se afecte a la Hacienda Pública, ante los Tribunales, así como ante autoridades administrativas y fiscales, federales, estatales y municipales en su caso, y coadyuvar con las dependencias y entidades del Poder Ejecutivo, en las mismas materias;
 
@@ -1279,7 +1271,7 @@ c) Dirección de Prevención al Narcotráfico;
 
 d) Dirección General de Prevención del Delito y Política Criminal;
 
-e) Dirección General de Seguridad Publica y Vialidad;
+e) Dirección General de Seguridad Pública y Vialidad;
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1569,6 +1561,24 @@ Lic. Abelardo Reyes Sahagún.
 
 P.O. 15 DE DICIEMBRE DE 2003.
 
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 8 de noviembre de 2001.
+
+FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
+
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+
+El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+
+"NUMERO 213
+
+La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo, decreta:
+
+LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
+
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -1635,12 +1645,6 @@ UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publica
 
 P.O. 11 DE SEPTIEMBRE DE 2006.
 
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE DICIEMBRE DE 2008.
-
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
@@ -1654,3 +1658,15 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 20 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2008.
