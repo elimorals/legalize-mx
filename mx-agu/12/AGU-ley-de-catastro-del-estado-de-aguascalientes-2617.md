@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-catastro-del-estado-de-aguascalientes-2617"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-27"
-last_updated: "2005-08-08"
+last_updated: "2010-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Suplemento al Número 52, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 27 de diciembre de 1981.
 
@@ -37,13 +37,19 @@ LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 1o.
 
-Catastro es el inventario de los bienes inmuebles ubicados en el territorio del Estado.
+El catastro, para efectos de ésta ley, es el Sistema de Información Territorial relativo a los bienes inmuebles, cuyo propósito principal, es obtener un censo analítico y descriptivo de las características físicas, cualitativas, fiscales y administrativas de los inmuebles ubicados en el territorio del Estado, que le permita un uso multifinalitario del mismo.
+
+Dicho sistema está integrado por los datos, planos, mapas, documentos y en general el conjunto de registros que identifican y describen las condiciones físicas, socioeconómicas, ambientales y urbanísticas del territorio, organizados e integrados en una base informática o a través de medios electrónicos que permitan su uso, actualización y consulta.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 2o.
 
-El registro y valuación catastral se declaran de utilidad pública para fines fiscales, jurídicos, estadísticos, socio-económicos, urbanísticos e históricos.
+El registro y valuación catastral se declaran de utilidad pública, para fines fiscales, estadísticos, socioeconómicos, urbanísticos, históricos y para la formulación y práctica de planes estatales y municipales de desarrollo.
 
 ###### ARTICULO 3o.
 
@@ -147,27 +153,43 @@ I.- El Gobernador del Estado.
 
 II.- El Secretario de Finanzas.
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
-III.- El Subsecretario de Finanzas.
+III.- El Subsecretario de Ingresos de la Secretaría de Finanzas.
 
-IV.- El Director de Catastro e Impuesto a la Propiedad Raíz.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- El Director de Catastro.
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Los Ayuntamientos de los Municipios del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 8o.
 
-Son funciones de la Dirección de Catastro e Impuesto a la Propiedad Raíz:
+Son funciones de la Dirección de Catastro:
 
-I.- Coordinar y aprobar los trabajos catastrales.
+I. Planificar, coordinar, administrar y evaluar las actividades y programas en materia catastral;
 
-II.- Integrar los registros catastrales previstos en la presente Ley.
+II. Formular y homologar las normas técnicas y administrativas aplicables a la identificación, registro, valuación, revaluación y delimitación de los bienes inmuebles ubicados en el Estado;
 
-III.- Registrar oportunamente los cambios que se operen en la propiedad, que alteren los datos entendidos en los registros catastrales.
+III. Integrar los registros e información catastral del Estado;
 
-IV.- Realizar cada dos años, cuando menos, los estudios necesarios para la fijación o actualización de valores unitarios de la tierra y construcción, para que con base en ellos, la Junta Catastral del Estado elabore las tablas generales de valores correspondientes.
+IV. Elaborar y mantener actualizada la cartografía del Estado;
 
-V.- Proponer las reformas necesarias a la legislación catastral tendientes a mejorar el Catastro.
+V. Realizar en forma permanente la investigación técnica y tecnológica de métodos, sistemas, procedimientos de valuación, registro y demás aspectos relacionados con la propiedad inmobiliaria y con la modernización del catastro y su operación;
 
-VI.- Las demás que señale esta Ley.
+VI. Efectuar, en coordinación con las dependencias de los Ejecutivos federal, estatal y municipal, los estudios para apoyar la determinación de los límites del territorio del Estado y de los Municipios;
+
+VII. Apoyar, asesorar y coordinar a los Municipios en la realización de los trabajos catastrales que les correspondan;
+
+VIII. Realizar cada dos años, cuando menos, los estudios necesarios para la fijación de valores unitarios del terreno y construcción, así como los coeficientes de demérito e incremento, precisiones y rangos, para que con base en ellos, la Junta Catastral del Estado elabore las tablas generales de valores correspondientes;
+
+IX. Establecer coordinación con las dependencias e instituciones municipales, estatales y federales que desarrollen actividades relacionadas con el acopio y difusión de información catastral y territorial; y
+
+X. Las demás que determine esta Ley y otras disposiciones legales aplicables.
 
 ###### ARTICULO 9o.
 
@@ -269,9 +291,11 @@ Las operaciones catastrales estarán a cargo de la Secretaría de Planeación y 
 
 En los padrones del Catastro quedará registrada la cuenta y la clave catastral de cada predio, que en los rústicos se integrará cuando menos con los correspondientes números del Municipio, zona y predio; en las zonas urbanas comprenderá, además, el número de manzana.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 17.
 
-Las operaciones catastrales tienen como finalidad efectuar la descripción y mensura de la propiedad raíz, inscribirla en los padrones respectivos, valuarla y servir de apoyo a su planificación.
+Las operaciones catastrales tienen por finalidad efectuar la identificación, descripción, delimitación, localización y mensura de los bienes inmuebles; inscribirlos en los registros catastrales respectivos y valuarlos, a fin de servir de apoyo para planificar y regular su utilización.
 
 ###### ARTICULO 18.
 
@@ -287,29 +311,41 @@ La Dirección de Catastro e Impuesto a la Propiedad Raíz, sólo expedirá copia
 
 Las resoluciones, datos, y demás documentos catastrales, cualesquiera que sean, sólo producirán efectos fiscales y estadísticos.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+La inscripción de un predio en el padrón catastral no genera ningún derecho de propiedad o posesión del mismo a favor de la persona a cuyo nombre aparezca inscrito.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 21.
 
-La valuación tiene por objeto asignar un valor determinado por procedimientos técnicos, a los predios ubicados dentro del territorio del Estado, de acuerdo con los preceptos de esta Ley.
+La valuación catastral es el procedimiento técnico por medio del cual se determina el valor catastral de los bienes inmuebles, aplicando por separado a las superficies del terreno y de la construcción, los valores unitarios de las Tablas de Valores, y servirán de base para los fines estadísticos, administrativos y fiscales, de conformidad con las disposiciones sobre la materia.
 
 ###### ARTICULO 22.
 
 La valuación de los predios se fundará en los siguientes elementos:
 
-I.- En el valor de la tierra.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+I. En el valor del terreno.
 
 II.- En el valor de las construcciones.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 23.
 
-Para la valuación de la tierra, se tomará como base el valor unitario de calle o de zona en los predios urbanos, y el valor unitario de zona en los rústicos. Dichos valores se aplicarán de acuerdo con las normas que para tal efecto fije el reglamento o instructivo de valuación, de conformidad con el Artículo 4o. de esta Ley.
+Para la valuación del terreno, se tomará como base el valor unitario de calle o de zona en los predios urbanos, y el valor unitario de zona en los rústicos. Dichos valores se aplicarán de acuerdo con las normas que para tal efecto fije el reglamento o instructivo de valuación, de conformidad con el Artículo 4º de esta Ley.
 
 ###### ARTICULO 24.
 
 Para la determinación de valores unitarios de calle o de zona, en lo urbano, se tomarán en cuenta la importancia e influencia de los siguientes elementos: servicios municipales existentes, vías de comunicación, vecindad con zonas comerciales o centros de abasto, en los casos que sea posible, el valor comercial derivado de operaciones de compra-venta
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 25.
 
-Los valores unitarios de tierra para predios rústicos, se fijarán tomando en cuenta el tipo o clase de tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población, condiciones hidrológicas, humedad relativa y cualquier otra característica que pueda influir en los mismos. En el caso de zonas rústicas destinadas a la explotación de recursos minerales, o explotaciones mineras y metalúrgicas, la determinación de los valores unitarios se hará tomando en consideración las especificaciones y limitaciones que para el efecto prevengan las leyes federales sobre la materia.
+Los valores unitarios del terreno para predios rústicos, se fijarán tomando en cuenta el tipo o clase de tierra, calidad, ubicación, cercanía a vías de comunicación y centros de población, condiciones hidrológicas, humedad relativa y cualquier otra característica que pueda influir en los mismos. En el caso de zonas rústicas destinadas a la explotación de recursos minerales o explotaciones mineras y metalúrgicas, la determinación de los valores unitarios se hará tomando en consideración las especificaciones y limitaciones que para el efecto prevengan las leyes federales sobre la materia.
 
 En el caso de zonas rústicas en que predominen los predios boscosos, no deberán tomarse en cuenta criterios derivados de la explotación forestal sino las normas técnicas de catastración y valuación, sin prescindir de lo dispuesto en el párrafo anterior.
 
@@ -333,9 +369,11 @@ Para la valuación de cada predio, con construcciones o sin ellas, o únicamente
 
 Cuando transcurridos dos años sin que hayan sido aprobadas nuevas tablas generales de valores tanto del terreno como de la construcción se tomará en cuenta el de los valores que rijan en el mercado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 29.
 
-Los predios a los que ya se hubiera asignado un valor catastral, podrán ser revaluados en los siguientes casos:
+La revaluación catastral es el procedimiento mediante el cual los predios a los que se hubiera asignado un valor catastral, podrán ser revaluados en los siguientes casos:
 
 I.- Cuando la vigencia del avalúo tenga una antigüedad mayor de dos años para predios urbanos, y mayor de cuatro para predios rústicos.
 
@@ -355,7 +393,9 @@ VIII.- Cuando no se tengan los elementos de catastración técnica necesarios y 
 
 IX.- Cuando tenga plusvalía el inmueble, con motivo de las obras públicas o privadas que incrementen notablemente el valor de la zona.
 
-X.- Siempre que por algún motivo el valor registrado de cualquier predio sea notoriamente inferior al que rija en el mercado, la Dirección de Catastro e Impuesto a la Propiedad Raíz deberá practicarle nuevo avalúo tomando en cuenta esta circunstancia.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Siempre que por algún motivo el valor registrado de cualquier predio sea notoriamente inferior al que rija en el mercado, la Dirección de Catastro deberá practicarle nuevo avalúo tomando en cuenta esta circunstancia.
 
 ###### ARTICULO 30.
 
@@ -395,9 +435,11 @@ En tales casos, cada local se empadronará con número de cuenta y clave catastr
 
 En los casos de predios no empadronados en la Dirección de Catastro e Impuesto a la Propiedad Raíz por causa imputable al propietario poseedor, sujeto del impuesto, deberán practicarse las operaciones catastrales correspondientes de acuerdo con el estado que guardan dichos predios en la fecha de su descubrimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 38.
 
-El Ejecutivo del Estado tiene facultad para ordenar la modificación de valores unitarios para la tierra, para la construcción o para ambas, cuando en una zona catastral, o en una parte de la misma, se llevan a cabo obras de urbanización o mejoras en las ya existentes, o el valor comercial sufra un incremento que lo justifique.
+El Ejecutivo del Estado tiene facultad para ordenar la modificación de valores unitarios para el terreno, para la construcción o para ambas, cuando en una zona catastral, o en una parte de la misma, se lleven a cabo obras de urbanización o mejoras en las ya existentes o el valor comercial sufra un incremento que lo justifique.
 
 Las modificaciones deberán ajustarse al procedimiento establecido por esta Ley, para la determinación de valores unitarios.
 
@@ -445,11 +487,13 @@ Cuando un predio se fraccione sin la autorización correspondiente, la Direcció
 
 ### CAPITULO QUINTO. De las Manifestaciones, Avisos y Notificaciones
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 45.
 
-Todo propietario o poseedor de bienes inmuebles ubicados en el Estado, tiene la obligación de manifestarlos a la Dirección de Catastro e Impuesto a la Propiedad Raíz en las formas aprobadas, así como cualquier excedencia de los predios ya registrados.
+Los propietarios o poseedores de bienes inmuebles ubicados en el Estado, tienen la obligación de manifestarlos a la Dirección de Catastro, en las formas aprobadas o por medios electrónicos. Así mismo, cuando exista cualquier excedencia de los terrenos ya registrados y se cuente con el documento que acredite la propiedad del mismo.
 
-Para el efecto deberán ratificar o rectificar previamente sus medidas y colindancias ante dicha Dirección.
+Las Direcciones de Catastro, así como la del Registro Público de la Propiedad y del Comercio, deberán coordinar sus acciones y trabajo a efecto de que exista plena coincidencia en la información existente en sus bases de datos sobre los bienes inmuebles en el Estado.
 
 ###### ARTICULO 46.
 
@@ -459,21 +503,21 @@ No se exime de la obligación indicada en el artículo anterior a los propietari
 
 Las autoridades judiciales están obligadas a dar aviso de todas las resoluciones que causen ejecutoria, en las que se traslade o adquiera el dominio de un bien inmueble, a la Dirección de Catastro e Impuesto a la Propiedad Raíz, dentro de los 15 días siguientes a la fecha en que se cause.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
-
 ###### ARTICULO 48.
 
-Al celebrarse cualquier acto o contrato translativo de dominio de algún bien inmueble en el Estado, deberá ser manifestado por el adquiriente a las Secretarías de Finanzas y de Planeación y Desarrollo Regional, en las formas aprobadas.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 49.
 
-Los notarios y corredores públicos, y en general todos aquellos que tienen fe pública, están obligados a manifestar a las Secretarías de Finanzas y de Desarrollo Social, en las formas aprobadas, la celebración de todo tipo de operaciones translativas de dominio, que con su intervención se realicen sobre bienes inmuebles ubicados en el Estado, anexando los documentos que se señalan en las formas mencionadas.
+Los fedatarios públicos, están obligados a manifestar a la Dirección de Catastro, en las formas aprobadas o por medios electrónicos, la celebración de todo tipo de operaciones traslativas de dominio, que con su intervención se realicen sobre bienes inmuebles ubicados en el Estado.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 50.
 
-Toda construcción, ampliación, modificación o demolición de construcción existente, deberá ser manifestada por su propietario o poseedor a la Dirección de Catastro e Impuesto a la Propiedad Raíz, en las formas aprobadas dentro de los 30 días siguientes al de la demolición o de la terminación u ocupación de la construcción.
+Los propietarios o poseedores de bienes inmuebles están obligados a manifestar a la Dirección de Catastro, cualquier modificación que se haga a los elementos que se caractericen al bien inmueble, tales como construcciones, ampliaciones, remodelaciones, fusión, subdivisión, relotificación, demolición de construcción existente o cualquiera otra prevista por ésta ley, en las formas aprobadas o por medios electrónicos dentro de los 30 días contados a partir de la fecha de modificación.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
 
@@ -558,3 +602,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 20 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
