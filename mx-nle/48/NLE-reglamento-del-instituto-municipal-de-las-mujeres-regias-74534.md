@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-las-mujeres-regias-74534"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-01"
-last_updated: "2010-03-01"
+last_updated: "2010-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES REGIAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de marzo de 2010.
 
@@ -57,7 +57,7 @@ Perspectiva de género.- Al concepto que refiere a la metodología y los instrum
 
 Transversalidad.- Al criterio aplicado en el diseño y ejecución de políticas y programas con perspectiva de género en las distintas dependencias y entidades de gobierno, en el caso municipal; y para la ejecución de programas y acciones con perspectiva de género en forma coordinada o conjunta.
 
-Plan Municipal de las Mujeres.- Al conjunto de programas y acciones con definición de objetivos y metas específicos que se contienen en el Plan Municipal de Desarrollo y demás que apruebe el Consejo Directivo, y que constituyen el documento que oriente la conducción de la tarea pública, social, política, económica, laboral, cultural, educativa, profesional , académica y de investigación que impulse el Instituto; además de ser el documento regulador de los programas de corto, mediano y largo plazo y de las acciones y programas de trabajo anuales del mismo.
+Plan Municipal de las Mujeres.- Al conjunto de programas y acciones con definición de objetivos y metas específicos que se contienen en el Plan Municipal de Desarrollo y demás que apruebe el Consejo Directivo, y que constituyen el documento que oriente la conducción de la tarea pública, social, política, económica, laboral, cultural, educativa, profesional, académica y de investigación que impulse el Instituto; además de ser el documento regulador de los programas de corto, mediano y largo plazo y de las acciones y programas de trabajo anuales del mismo.
 
 ###### ARTÍCULO 4.
 
@@ -303,7 +303,9 @@ IV. Proponer al Consejo Directivo programas de financiamiento del Instituto.
 
 V. Representar legalmente al Instituto con el carácter de mandatario general para actos de administración y para pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial en los términos del artículo 2448 del Código Civil y con poder cambiario para suscribir, endosar y negociar títulos de crédito; dichos poderes podrán ser trasmitidos, sustituidos o revocados en forma general o especial en servidor público del Instituto o del Gobierno Municipal mediante la protocolización respectiva. Tendrá poder general para actos de dominio; éste lo ejercerá solo para la adquisición de bienes muebles o inmuebles para el Instituto, pero tratándose de enajenación o gravamen de bienes muebles o inmuebles, previo acuerdo del Consejo Directivo, ejercerá la representación legal del Instituto sujetándose a las restricciones y acatando las disposiciones de la Ley Orgánica de la Administración Pública Municipal y las demás leyes.
 
-VI. Nombrar y remover al personal del Instituto y fijarle la remuneración correspondiente, así como suscribir los contratos individuales de trabajo en representación del mismo.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Nombrar y remover al personal del Instituto, fijarle la remuneración y prestaciones, así como suscribir los contratos individuales de trabajo en representación del mismo.
 
 VII. Celebrar, en representación del Instituto, los convenios y contratos con personas físicas o morales, sean públicas o privadas, así como suscribir documentos que manifiesten el parecer del Instituto siempre que sean inherentes al cumplimiento de los objetivos del mismo.
 
@@ -490,3 +492,13 @@ PRESIDENTE MUNICIPAL
 C. JUAN CARLOS RUIZ GARCÍA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2010.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES REGIAS".]
+
+Artículo Primero. La presente reforma al REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES REGIAS, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se deroga cualquier disposición que contravenga lo dispuesto en la presente reforma.
