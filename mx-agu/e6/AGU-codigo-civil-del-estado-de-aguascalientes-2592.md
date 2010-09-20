@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2010-08-23"
+last_updated: "2010-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -13687,6 +13687,14 @@ V.- Por el vencimiento del plazo y por la conclusión del negocio para el que fu
 
 VI.- En los casos previstos por los artículos 694, 695 y 696.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Ningún poder otorgado tendrá una duración mayor a cinco años; sin embargo, el otorgante podrá revocarlo antes de que se cumpla ese tiempo, observando lo dispuesto por el Artículo 2468.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando durante la vigencia del poder o mandato se hubiere iniciado un negocio cuya duración trascienda el término legal de su vigencia, se entenderán prorrogadas las facultades, hasta la conclusión del asunto o negocio, quedando comprendida la de intentar Juicio de Amparo.
+
 ###### Artículo 2468.
 
 El mandante puede revocar el mandato cuando y como le parezca; menos en aquellos casos en que su otorgamiento se hubiere estipulado como una condición en un contrato bilateral, o como un medio para cumplir una obligación contraída.
@@ -15821,29 +15829,45 @@ DEL REGISTRO PUBLICO.
 
 DE LAS OFICINAS DEL REGISTRO.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 2873.
 
-El Ejecutivo del Estado designará las poblaciones en donde deba establecerse la oficina denominada "Registro Público".
+El Registro Público de la Propiedad y del Comercio es una Dependencia del Poder Ejecutivo del Estado, que tiene por objeto proporcionar el servicio de dar publicidad a los actos jurídicos debidamente inscritos en el mismo y que precisen conforme a la Ley de ese requisito para surtir efectos contra terceros. El funcionamiento del Registro Público de la Propiedad y del Comercio se regirá por lo dispuesto en el presente Título y por las disposiciones del Reglamento relativo. Habrá oficinas del Registro Público en la Capital del Estado y en los lugares que determine el Gobernador Constitucional del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2874.
 
-El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deben inscribirse los títulos que se registren.
+El Reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban registrarse los títulos susceptibles de inscripción. El Registro Público funcionará conforme al sistema y métodos que determine su Reglamento. Podrán hacerse las inscripciones y anotaciones, por medio del sistema de folio real electrónico o libros.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 2874 BIS.- Se entiende como forma precodificada al documento electrónico base del sistema de folio que contiene los datos esenciales sobre un acto o negocio registrable o un asiento registral, necesarios para su calificación y, en su caso, inscripción electrónica. Cuando el proceso registral se realice mediante sistemas informáticos y en el caso de información digitalizada y comunicación remota, los asientos que autorice el registrador a través de la firma electrónica, así como las certificaciones, constancias e impresiones, que por este medio se emitan, producirán los mismos efectos que las leyes otorgan a los documentos públicos y tendrán valor probatorio pleno. Los asientos y actos registrales que contengan la base de datos de los sistemas mencionados, tendrán el mismo valor probatorio que las leyes otorgan a los documentos públicos.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2875.
 
-El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+Se entiende por publicidad Registral a la consistente en los actos y documentos inscritos en el Registro que se hacen del conocimiento para que surtan efectos contra terceros, por lo que toda persona interesada puede consultar y solicitar se le muestren los asientos del Registro, así como obtener las constancias relacionadas con éstos. El Registro será público, los encargados de éste tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones que consten en los folios o libros del Registro, y de los documentos relacionados con las inscripciones que están archivados. La consulta de los folios o libros se podrá llevar a cabo por medio de los sistemas electrónicos o digitales y las constancias que de los mismos sean solicitadas se expedirán por escrito, previo pago de derechos que se causen conforme a las leyes fiscales correspondientes. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro, así como certificaciones de no existir asientos de ninguna especie o de especie determinada sobre bienes señalados o a cargo de ciertas personas.
 
 ### CAPITULO II.
 
 DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 2876.
 
-Se inscribirán en el Registro:
+La inscripción es la materialización del asiento hecho en el registro donde consta el acto jurídico que se crea, produce, modifica o extingue una relación jurídicamente determinada, el cual debe hacerse constar en el folio electrónico o libros, de manera que éste surta efectos contra terceros. Se inscribirán en el Registro:
 
-I.- Los títulos por los cuales se adquiere, trasmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
-II.- La constitución del patrimonio de familia;
+I. Los títulos por los cuales se adquiere, transmite, modifica, grave o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles; así como aquellos por los cuales se constituya fideicomiso en el que el patrimonio fideicomitido sea sobre inmuebles;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+II. La constitución y extinción del patrimonio de familia;
 
 (REFORMADA, P.O. 27 DE OCTUBRE DE 2008) (F. DE E., P.O. 1 DE DICIEMBRE DE 2008)
 
@@ -15861,11 +15885,13 @@ VIII.- Las fundaciones de beneficencia privada;
 
 IX.- Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I;
 
-X.- Los testamentos por efecto de los cuales se trasmite la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador;
+X. (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
-XI.- En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
+XI. En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo; bajo el sistema de folio real, dicha anotación se efectuará en el folio correspondiente, en donde el autor de la sucesión aparezca como el titular del dominio.
+
+En el caso previsto en la Fracción anterior, se tomará razón del acta de defunción del autor de la herencia;
 
 XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
 
@@ -15884,6 +15910,10 @@ Los jueces en los casos en que sus resoluciones deban registrarse, darán los av
 ###### Artículo 2877.
 
 Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+La inscripción de los títulos y documentos en el Registro Público tiene efectos meramente declarativos, salvo aquellos casos que la ley determine expresamente otra cosa.
 
 ###### Artículo 2878.
 
@@ -15911,6 +15941,14 @@ No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o 
 
 En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 2881 BIS.- El principio de legitimación consiste en otorgar certeza y seguridad jurídica sobre los derechos inscritos, los cuales gozan de una presunción de veracidad, que se mantiene hasta en tanto no se demuestre la discordancia entre el registro y la realidad. El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento o folio real respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 2881 TER.- El principio de consentimiento es la declaración de la voluntad del titular registral o interesado, por la que autoriza al registrador a practicar las inscripciones para que se transmita el dominio o se constituya un derecho real que lo transfiere y del que lo adquiere, o por lo menos del primero. Para cancelar dichas inscripciones por consentimiento de las partes, se estará a lo dispuesto por el Artículo 2907.
+
 ###### Artículo 2882.
 
 No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
@@ -15919,9 +15957,15 @@ No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, a
 
 DEL MODO DE HACER EL REGISTRO Y DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCION.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 2883.
 
-La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
+El principio de rogación o petición de parte consiste en inscribir o anotar los actos o documentos registrales a solicitud del interesado o por mandato de autoridad judicial o administrativa competente. La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir o por el notario que haya autorizado la escritura o acta de que se trate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 2883 BIS.- El principio de tracto sucesivo es la organización de los asientos registrales, de manera que expresen con toda exactitud la sucesión ininterrumpida de los derechos que recaen sobre un mismo inmueble, determinando la correlación o concatenamiento entre los distintos titulares registrales del mismo. Para inscribir o anotar títulos por los que se declaren, transmitan, graven, modifiquen o extingan el dominio y demás derechos reales sobre inmuebles, deberá constar previamente inscrito el derecho de la persona que otorgó aquel o en cuyo nombre se otorguen esos actos. En virtud de lo anterior, no se inscribirá ni anotará ningún derecho en el que aparezca como titular una persona distinta de la que figure en la inscripción precedente. Para el caso del folio real se observará igualmente la presente disposición.
 
 ###### Artículo 2884.
 
@@ -15931,27 +15975,37 @@ I.- Los testimonios de escritura pública u otros documentos auténticos;
 
 II.- Las sentencias y providencias judiciales certificadas legalmente;
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el registrador, la autoridad municipal o el juez del lugar se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+III. Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el registrador, la autoridad municipal en ejercicio legítimo de sus funciones, el juez competente o el Notario Público se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
 
 ###### Artículo 2885.
 
 El interesado presentará el título que va a ser registrado.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 2886.
 
-El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse; llenas las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 2888. En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
+El principio de legalidad o de calificación registral, consiste en que solo se inscribirán los actos o documentos que reúnan los requisitos exigidos por la ley para su calificación e inscripción. La calificación registral es el acto por el cual el registrador analiza el contenido del documento inscribible, dictaminando si reúne o no los requisitos legales para su inscripción.
+
+El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el Artículo 2888. En caso contrario, devolverá el título sin registrar, fundando y motivando las causas por las que se niega el registro, siendo necesaria en este caso la resolución del juez de primera instancia para que se haga el registro.
 
 ###### Artículo 2887.
 
 En el caso a que se refiere la parte final del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
 
-Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, oficiosamente o a petición de parte interesada se cancelará la inscripción preventiva.
 
 ###### Artículo 2888.
 
 Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
 
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, o la referencia al registro anterior en donde consten esos datos;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción a los cuales afecte el derecho que deba inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior en donde consten dichos datos;
 
 II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituya, trasmita, modifique o extinga;
 
@@ -15959,21 +16013,37 @@ III.- El valor de los bienes o derechos a que se refieren las fracciones anterio
 
 IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantido, y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
 
-V.- Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón o denominación;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Los nombres, apellidos, edad, estado civil, nacionalidad, lugar de origen, profesión o actividad y domicilio de las personas que por sí mismas o por medio de representante hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre social que lleven;
 
 VI.- La naturaleza del acto o contrato;
 
 VII.- La fecha del título y el funcionario que lo haya autorizado;
 
-VIII.- El día y la hora de la presentación del título en el Registro.
+VIII.- El día y la hora de la presentación del título en el Registro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+IX. En el sistema de folio real las inscripciones se harán en los términos establecidos por el Reglamento del Registro Público.
 
 ###### Artículo 2889.
 
 El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior será responsable de los daños y perjuicios que cause a los interesados, y sufrirá una suspensión de empleo por tres meses.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 2890.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+El principio de fe pública registral, consiste en tener como verdad jurídica el contenido de los asientos del registro, salvo prueba en contrario. Por este principio se reputa siempre exacto en beneficio del adquirente que contrató, confiando en el contenido de sus asientos y, en consecuencia, se le protege con carácter absoluto en su adquisición. El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el Artículo 2891 del presente ordenamiento.
+
+Los asientos del Registro Público en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución judicial contraria.
+
+La inscripción definitiva de un derecho que haya sido anotado previamente, surtirá sus efectos desde la fecha en que esta anotación los produjo.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Artículo 2890 BIS.- El principio de la prioridad o prelación, consiste en que la preferencia entre derechos reales sobre un mismo inmueble o finca se determina por el orden de la presentación en el Registro y no por la fecha del título o documento que contiene el acto jurídico a registrar. La preferencia entre dos o más inscripciones o anotaciones relativas al mismo inmueble, se establecerá por la prioridad de su inscripción en el Registro Público, cualquiera que sea la fecha de su constitución. La prelación entre los diversos documentos ingresados al Registro Público, se establecerá por el día y hora, así como por el número de presentación que les sea asignado, salvo lo dispuesto en el Artículo siguiente.
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
 
@@ -15987,33 +16057,55 @@ Derivado de la solicitud referida, se deberá expedir a costa del solicitante el
 
 Si mientras tanto se presentare al Registrador otros avisos que afecten la propiedad, se tomará nota de ellos, con indicación del día y la hora en que hayan sido presentados, para que si dentro de los cincuenta días naturales posteriores al primer aviso del Notario no hubiere el segundo aviso a que se refiere el párrafo siguiente, indicando que quedó formalizada la operación, dichos avisos surtan sus efectos, por el orden de su presentación.
 
-Una vez firmada una escritura que produzca cualesquiera de las consecuencias mencionadas en el párrafo primero, el Notario ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo primero, la fecha de la escritura y la de su firma. El Registrador con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá carácter definitivo en cuanto a la formalización del acto y una vigencia por un término de noventa días naturales a partir de la fecha de su presentación para que la inscripción del testimonio o documento correspondiente, en su caso, surta los efectos que más adelante se señalan.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Una vez firmada una escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo primero, el Notario ante quien se otorgó dará al Registro, dentro de las cuarenta y ocho horas siguientes una (sic) segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo segundo de este Artículo, la fecha de la escritura y la de su firma, el instrumento y volumen, de lo que se tomará razón. El Registrador, con el aviso citado y sin cobro de derecho alguno, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá carácter definitivo en cuanto a la formalización del acto para que la inscripción del testimonio o documento correspondiente, en su caso, surta los efectos que más adelante se señalan. Una vez dado el segundo aviso preventivo el Registrador en los subsecuentes certificados que expida dejará constancia del mismo.
 
 En los casos en que el segundo aviso preventivo mencionado en el párrafo que precede se dé dentro del término de cincuenta días a que se contrae el párrafo primero, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diere después de ese plazo, solamente surtirá efectos desde la fecha y hora de su presentación.
 
-Si el testimonio respectivo se presentare al Registro dentro de cualquiera de los términos a que se contraen los párrafos primero y segundo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiere sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Si el testimonio respectivo se presenta al Registro dentro del término a que se contrae el párrafo segundo de este Artículo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiere sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presenta después, su registro sólo surtirá efectos desde la fecha de su presentación.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2892.
 
-Los encargados del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
+Los servidores públicos del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar, cuando:
 
-I.- Si rehusan sin motivo legal o retardan sin causa justificada, la inscripción de los documentos que les sean presentados;
+I. Rehúsen, sin motivo legal, admitir el título, o sin motivo legal o causa justificada no realicen los asientos en la forma prevista por esta ley y su Reglamento, con estricto cumplimiento de sistema u orden de entrada de los documentos;
 
-II.- Si rehusan expedir con prontitud los certificados que se les pidan;
+II. Practiquen algún asiento indebidamente o rehúsen practicarlo sin motivo fundado;
 
-III.- Si cometen omisiones al extender las certificaciones mencionadas, salvo si el error proviene de insuficiencia o inexactitud de las declaraciones, que no les sean imputables.
+III. Retarden, sin causa justificada, el registro o la práctica del asiento a que dé lugar el derecho inscribible;
+
+IV. Cometan errores u omisiones de naturaleza inexcusable en los asientos que realicen o en los certificados que expidan;
+
+V. No expidan los certificados dentro del término que al efecto señale el Reglamento;
+
+VI. Cancelen una inscripción o anotación sin el título correspondiente y sin cumplirse los requisitos legales;
+
+VII. Generen deliberadamente error, inexactitud, omisión o retardo en los certificados.
 
 ###### Artículo 2893.
 
-En los casos de las fracciones I y II del artículo que precede, los interesados harán constar inmediatamente su protesta ante el registrador por medio de un escrito, cuya copia deberá devolver al interesado con la razón de su presentación.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2894.
 
 Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 2895.
 
-El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+El Reglamento del Registro Público establecerá además:
+
+I. La estructura orgánica operativa y funcional necesaria y apropiada para el cumplimiento de sus funciones; desarrollando el régimen de las funciones y responsabilidades de los encargados y registradores, así como los datos y demás requisitos que deben llenar las inscripciones o el folio real;
+
+II. Las medidas de adecuación necesarias para la guarda y conservación de la documentación registral y de los asientos y constancias, estableciendo las medidas conducentes para garantizar la conservación de los libros y de la base de datos, esta última a través del programa informático respectivo, asegurando con ellas que no existirá indebida manipulación o alteración de cualquier tipo; y
+
+III. Los requisitos para el ingreso y permanencia en el Registro de los Servidores Públicos, así como la operación de programas, sistemas y procedimientos para la profesionalización de los mismos, a efecto de procurar la contratación de candidatos idóneos, la eficiencia y eficacia en la prestación de sus servicios.
 
 ### CAPITULO IV.
 
@@ -16134,6 +16226,16 @@ Las cancelaciones se harán en la forma que fije el reglamento; pero deberán co
 ###### Artículo 2913.
 
 Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando la inscripción se convierta en definitiva.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO VII. IMPUGNACIÓN DE ACTOS DE LA DIRECCIÓN GENERAL DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 2914.
+
+El recurso de revisión procederá contra los actos o determinaciones del Registro Público que nieguen o suspendan la inscripción o asiento de algún documento, aviso o cancelación, el que por tratarse de un acto administrativo le corresponde su tramitación conforme a la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
 ## TRANSITORIOS
 
@@ -16488,3 +16590,9 @@ P.O. 23 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
