@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-instituto-de-la-juventud-regia-de-56520
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-01"
-last_updated: "2008-07-21"
+last_updated: "2010-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO ORGANICO DEL INSTITUTO DE LA JUVENTUD REGIA DE LA CIUDAD DE MONTERREY, NUEVO LEON
 
-REGLAMENTO ORGANICO DEL INSTITUTO DE LA JUVENTUD REGIA DE LA CIUDAD DE MONTERREY, NUEVO LEON
+REGLAMENTO ORGÁNICO DEL INSTITUTO DE LA JUVENTUD REGIA DE LA CIUDAD DE MONTERREY, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN ELPERIODICO OFICIAL: 21 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de agosto de 2007.
 
@@ -205,9 +205,9 @@ VI.- Analizar y en su caso aprobar los proyectos de inversión que le sean prese
 
 VII.- Aprobar, modificar o hacer las observaciones oportunas a los estados financieros y al informe anual de actividades del Instituto, el cual será entregado por el Director;
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
-VIII.- Estudiar para su aprobación la estructura organizacional del Instituto de acuerdo a la expedición de manuales, ya sean operativos o de recursos humanos en donde se garantice la equidad de género, salarios equitativos y la participación de jóvenes en el ámbito gubernamental;
+VIII.- Estudiar para su aprobación la estructura organizacional del Instituto de acuerdo a la expedición de manuales, ya sean operativos o de recursos humanos en donde se garantice la equidad de género, salarios y prestaciones equitativas, la participación de jóvenes en el ámbito gubernamental;
 
 IX.- Otorgar y revocar toda clase de poderes generales o especiales para actos de dominio, administración, de ámbito laboral, pleitos y cobranzas con todas las facultades necesarias, incluyendo la representación en cualquier materia, inclusive para promover o desistirse de acciones legales, así como para actos de poder cambiario a fin de suscribir, endosar y negociar títulos de crédito, pudiendo éstos recaer en alguno o algunos miembros de la Junta o de la persona o personas que la misma estime conveniente;
 
@@ -471,8 +471,16 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. MARCO HERIBERTO OROZCO RUIZ VELAZCO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE JULIO DE 2008.
 
 Artículo Único.- Las Reformas por Modificación al Reglamento Orgánico del Instituto de la Juventud Regia de la Ciudad de Monterrey, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 20 DE SEPTIEMBRE DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “REFORMA AL REGLAMENTO ORGÁNICO DEL INSTITUTO DE LA JUVENTUD REGIA DE LA CIUDAD DE MONTERREY”.]
+
+Artículo Primero. La presente reforma al REGLAMENTO ORGÁNICO DEL INSTITUTO DE LA JUVENTUD REGIA DE LA CIUDAD DE MONTERREY, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se deroga cualquier disposición que contravenga lo dispuesto en la presente reforma.
