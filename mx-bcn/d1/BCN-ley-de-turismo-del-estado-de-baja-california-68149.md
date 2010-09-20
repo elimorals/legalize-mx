@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2009-04-03"
+last_updated: "2010-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -31,7 +31,7 @@ JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO
 
 LA H. XIX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 27, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL, EXPIDE EL SIGUIENTE:
 
-DECRETO N °222
+DECRETO N° 222
 
 ÚNICO.- SE APRUEBA la iniciativa de Ley de Turismo del Estado de Baja California, para quedar de la siguiente forma:
 
@@ -53,7 +53,9 @@ II.- La planeación de las actividades turísticas;
 
 III.- La promoción, fomento, inversión y desarrollo del turismo sustentable y competitivo;
 
-IV.- La promoción del Turismo Alternativo así como el Turismo Estatal con sus modalidades o segmentos como el Turismo Social, el Turismo Cinematográfico, el Turismo de Salud y el Turismo de Negocios y de Convenciones, estableciendo las prácticas turísticas que propicien el conocimiento, la preservación, la protección y el fortalecimiento del patrimonio natural, histórico y cultural en cada región de nuestro Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- La promoción del Turismo Alternativo así como el Turismo Estatal con sus modalidades o segmentos como el Turismo Social, el Turismo de Salud y el Turismo de Negocios y de Convenciones, estableciendo las prácticas turísticas que propicien el conocimiento, la preservación, la protección y el fortalecimiento del patrimonio natural, histórico y cultural en cada región de nuestro Estado;
 
 V.- La capacitación a las personas dedicadas a la prestación de los servicios turísticos;
 
@@ -79,7 +81,9 @@ III.- Centros de Desarrollo Turístico Integralmente Planeados (CIP).- Aquellos 
 
 IV.- Consejo Consultivo de Turismo.- El Consejo Consultivo de Turismo del Estado de Baja California.
 
-V.- Desarrolladores.- Las personas que cuentan con la infraestructura para construir en el Estado con fines de fomento al turismo y la industria cinematográfica.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Desarrolladores.- Las personas que cuentan con la infraestructura para construir en el Estado con fines de fomento al turismo;
 
 VI.- Ejecutivo Estatal: Poder Ejecutivo del Gobierno del Estado Libre y Soberano de Baja California.
 
@@ -89,9 +93,11 @@ VIII.- Facilitación.- Es el apoyo en las diversas gestiones a favor de los pres
 
 IX.- Guía Turístico Acreditado.- Especialista reconocido por la Secretaría de Turismo en su respectiva categoría de turismo quien participa en el programa permanente de preparación y actualización conforme a su especialidad y acorde a la reglamentación aplicable.
 
-X.- Industria Fílmica.- Conjunto de personas y organizaciones públicas y privadas involucradas en alguna parte o en todo el proceso de realización de producciones de cine, televisión y video con el objeto de realizar productos audiovisuales, artísticos y/o comerciales, que fomentan la inversión nacional e internacional en distintos niveles, generan derrama económica, empleo y productos susceptibles de generar valor publicitario para el Estado.
+X.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
-XI.- Inversionistas.- Las personas que aporten fondos propios tendientes al desarrollo de la actividad turística y cinematográfica del Estado.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+XI.- Inversionistas.- Las personas que aporten fondos propios tendientes al desarrollo de la actividad turística;
 
 XII.- Ley.- La presente Ley de Turismo del Estado de Baja California.
 
@@ -103,11 +109,13 @@ XV.- Patrimonio Turístico.- El conjunto de bienes, servicios y eventos de cará
 
 XVI.- Prestador de Servicios Turísticos.- La persona física o moral que permanente o eventualmente proporcione, sirva de intermediario o contrate con el turista la prestación de bienes y servicios establecidos en el artículo 61 de la presente ley.
 
-XVII.- Producción.- El proceso de realización de cualquier producto audiovisual o parte de él cualquiera que sea el formato que se utilice en cine, video o televisión.
+XVII.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 XVIII.- Promoción Turística.- La publicidad y difusión, por cualquier medio, de la información general o especializada del patrimonio turístico del Estado.
 
-XIX.- Promotores.- Las personas que gestionen y se encarguen de atraer la atención de empresarios y desarrolladores en aras de intervenir en el Estado con fines de fomento al turismo y la industria cinematográfica.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+XIX.- Promotores.- Las personas que gestionen y se encarguen de atraer la atención de empresarios y desarrolladores en aras de invertir en el Estado con fines de fomento al turismo;
 
 XX.- Reglamento.- Reglamento de la Ley de Turismo del Estado de Baja California.
 
@@ -159,7 +167,7 @@ XVI.- Otorgar las acreditaciones a los Guías Turísticos en el Estado, conforme
 
 XVII.- Determinar la actividad turística que requiera la prestación de servicios de Guías Turísticos;
 
-XVIII.- Promover, fomentar, contribuir e impulsar el desarrollo del Turismo Cinematográfico tanto nacional como internacional en Baja California, así como la producción cinematográfica, videográfica, televisiva y audiovisual propia del Estado que contribuya a generar una industria fílmica estatal que fomente la generación de empleos, ocupación hotelera, derrama económica y valor publicitario de acuerdo a las leyes y reglamentos aplicables que correspondan; además de propiciar y proponer la creación de instalaciones, incentivos, fondos y estímulos administrativos, económicos y fiscales para el fomento de la inversión en el desarrollo de estas actividades en coordinación con las autoridades de la Administración Pública Municipal, Federal y Estatal que por sus facultades corresponda, así como fomentar e impulsar la constante capacitación, acreditación y certificación de los prestadores de servicios en esta materia en coordinación con organismos especializados, además de propiciar la difusión de los proyectos cinematográficos realizados en la entidad a través de medios especializados y festivales que contribuyan a generar un mayor valor publicitario para el Estado. Todo lo anterior de forma sustentable garantizando la permanencia y continuidad de estas actividades y funciones en el tiempo a través de la Comisión de Filmaciones del Estado; y
+XVIII.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 XIX.- Las demás que se determinen en leyes y reglamentos.
 
@@ -183,7 +191,7 @@ VII.- El Estado fomentará que los bienes y servicios turísticos sean aquellos 
 
 VIII.- La actividad e infraestructura turística respetará la integridad de los ecosistemas y la calidad de vida de las comunidades locales, y
 
-IX.- Se buscará incentivar y favorecer a las compañías productoras nacionales y extranjeras de cine, video y televisión que realicen proyectos en el Estado para que incorporen como parte del personal de la producción a recursos humanos originarios o radicados en Baja California buscando con esto que la mayor parte del personal de la producción provenga del Estado.
+IX.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 ###### ARTÍCULO 6.
 
@@ -237,9 +245,9 @@ XII.- La continuidad en los programas y acciones tendientes a fomentar la afluen
 
 XIII.- La consolidación, estabilidad y crecimiento del empleo;
 
-XIV.- El apoyo a prestadores de servicios especializados para la industria fílmica para atraer y desarrollar Turismo Cinematográfico, además del impulso a productores y realizadores de Baja California para la realización de proyectos fílmicos que contribuyan al desarrollo de una industria fílmica estatal;
+XIV.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
-XV.- La capacitación y acreditación a los guías turísticos en su especialidad, así como la capacitación, acreditación y certificación de los prestadores de servicios para la industria fílmica especializados en Turismo Cinematográfico;
+XV.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 XVI.- La promoción de los estímulos y de los incentivos administrativos, fiscales, laborales y económicos para fomentar la inversión;
 
@@ -311,7 +319,9 @@ VIII.- Realizar campañas a nivel nacional e internacional para estimular la afl
 
 IX.- Impulsar los servicios de transporte turístico en sus diferentes modalidades;
 
-X.- En su caso, impulsar y promover aquellos segmentos del turismo conocidos como de Negocios y de Convenciones; de Proveedores de Servicios Médicos, Clínicos, Establecimientos de Salud y Medicina Alternativa, así como el de Provisión de Servicios y productos para el mercado de la cinematografía;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+X.- En su caso, impulsar y promover aquellos segmentos del turismo conocidos como de Negocios y de Convenciones; de Proveedores de Servicios Médicos, Clínicos, Establecimientos de Salud y Medicina Alternativa;
 
 XI.- Promover ante las autoridades competentes la oportuna y eficaz atención al turista en servicios de transportación, seguridad pública, salud, procuración de justicia y demás servicios que éste requiera dentro de la entidad; y
 
@@ -381,7 +391,7 @@ VI.- Apoyar, de manera subsidiaria, a la Secretaría, para el cumplimiento de lo
 
 VII.- Apoyar a los prestadores de servicios turísticos en el desarrollo de nuevos productos;
 
-VIII.- Apoyar en la producción y comercialización de productos audiovisuales de cine, televisión o video que tengan como consecuencia la difusión de los atractivos naturales, históricos, turísticos y culturales del Estado y que contribuyan a proyectar la buena imagen de Baja California nacional e internacionalmente; y
+VIII.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 IX.- Coadyuvar con la Secretaría en lo que esta dependencia determine.
 
@@ -427,7 +437,7 @@ I.- Remodelación, ampliación, equipamiento, rehabilitación y desarrollo de la
 
 II.- Adquisición de equipos que contribuyan al ahorro de energía eléctrica y agua, así como para el tratamiento de aguas de desecho o disposición final de residuos de cualquier tipo;
 
-III.- Promoción, por parte de los prestadores de servicios turísticos y especializados para la industria fílmica, de programas o actividades turísticas o cinematográficas dentro del Estado;
+III.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 IV.- Mantenimiento de accesos, paradores, sitios de interés histórico de los alrededores del establecimiento en donde se presten los servicios turísticos;
 
@@ -547,11 +557,13 @@ En todo lo no dispuesto en el presente Capítulo serán aplicables las disposici
 
 ### CAPÍTULO VII. TURISMO ESTATAL
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 #### SECCIÓN PRIMERA. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
 
 ###### ARTÍCULO 45.
 
-Para los efectos de esta Ley, se entiende por Turismo Estatal a la categoría de turismo que requiere de bienes y servicios turísticos especializados para la realización de actos culturales, negocios, convenciones, cinematográficos o de salud.
+Para los efectos de esta Ley, se entiende por Turismo Estatal a la categoría de turismo que requiere de bienes y servicios turísticos especializados para la realización de actos culturales, negocios, convenciones o de salud.
 
 ###### ARTÍCULO 46.
 
@@ -563,35 +575,11 @@ II.- El Turismo Cultural, integrado por toda aquella gama de personas, nacionale
 
 III.- El Turismo de Salud, conformado por la demanda de bienes y servicios o la oferta de productos médicos, farmacéuticos, hospitalarios, de relajamiento físico por medio de spas y similares; y
 
-IV.- El Turismo Cinematográfico, conformado por aquellos particulares o empresas que se desplazan por el Estado y que requieren bienes y servicios especializados para el mercado de la industria cinematográfica, videográfica, televisiva o audiovisual, nacional o extranjera.
+IV.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 ###### ARTÍCULO 47.
 
-Para lograr el impulso y promoción de los bienes y servicios destinados al mercado de la industria cinematográfica enunciados en la fracción IV del Artículo 46 de esta Ley, la Secretaría, además de las funciones que tiene asignadas en su Reglamento Interno relativas a esta materia, realizará las siguientes acciones:
-
-I.- Proponer, ejecutar y promocionar el programa de fomento a las producciones fílmicas dentro del Estado;
-
-II.- Colaborar con las producciones fílmicas que se realicen en el Estado;
-
-III.- Celebrar con los productores fílmicos, nacionales y extranjeros, los convenios necesarios para el fomento de su actividad dentro del Estado;
-
-IV.- Celebrar los convenios necesarios para el auspicio y la colaboración en esta materia;
-
-V.- Elaborar un catálogo especial de los prestadores de servicios de la industria cinematográfica en el Estado;
-
-VI.- La Secretaría pugnará por la profesionalización de la cinematografía, proponiendo todos aquellos instrumentos normativos necesarios para el mejor desarrollo de esta actividad en el Estado; y
-
-VII.- Fomentar la creación de empresas y organismos sociales, dedicados a proveer a las producciones fílmicas dentro del Estado.
-
-Asimismo, la Secretaría a través del Ejecutivo del Estado propondrá al Ejecutivo Federal, las medidas y mecanismos prácticos para facilitar el ingreso al país de los medios de transporte, incluidos camiones y vehículos de cualquier tipo, ropas, enseres, equipos y demás bienes necesarios para la realización de su trabajo, gestionando la facilitación a los productores fílmicos para la internación temporal a la entidad de los siguientes bienes estratégicos:
-
-a) Los vehículos o naves en sus diferentes modalidades, motorizados o no, necesarios para la producción fílmica de que se trate;
-
-b ) Las cintas vírgenes de material fotosensible, en cantidad proporcional a las necesidades de la producción que realicen, así como su salida del territorio nacional, sin que se exija su exposición a la luz, antes de su revelado en el lugar de origen del productor;
-
-c) Los equipos electrónicos o eléctricos requeridos para filmar, grabar audio y video e iluminar, sin que importe el tipo, valor u origen del fabricante, ni el punto de internación a la entidad; y
-
-d) La utilería necesaria, incluyendo uniformes de cualquier tipo, armas o vehículos de distinta apariencia, para ser utilizados en las producciones fílmicas.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 ###### ARTÍCULO 48.
 
@@ -705,7 +693,7 @@ i) Empresas de transporte turístico;
 
 j) Empresas operadoras de parques temáticos, ecocentros, centros recreativos y de entretenimiento, zoológicos, acuarios, balnearios, museos, proveedores de equipos y enseres de viaje o camping, casas de arte, arte popular y similares que, por su concepto, ubicación y vocación se incluyan dentro de la oferta de la actividad y el patrimonio turístico;
 
-k) Las empresas que de manera principal o complementaria ofrezcan servicios que apoyen la producción de cine, video o televisión; y
+k) (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 l) Las empresas que tengan ese carácter dentro de las Zonas de Desarrollo Turístico Prioritario y Corredores Turísticos; y
 
@@ -721,7 +709,7 @@ d) Los promotores y agentes de ventas de edificios de condominios, quintas o fra
 
 e) Los promotores de eventos deportivos, recreativos, culturales y de cualquier actividad destinada al turismo;
 
-f) Cualquier persona que por su vocación preste servicios especializados para la producción de cine, video o televisión, así como los promotores, organizadores y realizadores de muestras y festivales de cine; y
+f) (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2010)
 
 g) Las físicas o morales que practiquen una actividad de carácter turístico, a criterio de la Secretaría.
 
@@ -1156,3 +1144,11 @@ JOSÉ GUADALUPE OSUNA MILLÁN.
 SECRETARIO GENERAL DE GOBIERNO.
 
 JOSÉ FRANCISCO BLAKE MORA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite correspondientes al turismo cinematográfico, al momento de la entrada en vigor de las presentes reformas, serán resueltos conforme a las disposiciones jurídicas aplicables en el momento en que se iniciaron.
