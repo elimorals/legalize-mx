@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-de-la-comision-estatal-de-arbitraje-20255"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-15"
-last_updated: "2009-06-22"
+last_updated: "2010-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 15 de enero de 2001.
 
@@ -83,13 +83,23 @@ I. Dirección de Area Médica
 
 II. Dirección de Area Jurídica
 
-III. Sub-Dirección de Arca (sic) Médica
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Sub-Dirección de Coordinación Administrativa
+III. Una Jefatura Administrativa;
 
-V. Sub-Dirección de Comunicación Social y Relaciones Públicas
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Una Jefatura de Comunicación Social y Relaciones Públicas;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+V. Una Jefatura de Orientación y Quejas; y
 
 VI. Las demás que el Consejo determine en base al presupuesto autorizado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+Por lo que respecta a la Jefatura de Orientación y Quejas, dependerá de la Dirección Médica.
 
 ### CAPITULO TERCERO. Del Consejo de la Comisión
 
@@ -137,9 +147,11 @@ VII. Aprobar las propuestas de modificación a la estructura orgánica de la Com
 
 VIII. Las demás que le confieran otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 13.
 
-Para el adecuado desarrollo de las sesiones del Consejo, el Sub-Comisionado de la Comisión, fungirá como Secretario Técnico.
+Para el adecuado desarrollo de las sesiones del Consejo, el Sub-Comisionado Jurídico de la Comisión, fungirá como Secretario Técnico.
 
 ###### ARTICULO 14.
 
@@ -293,9 +305,11 @@ XXII. Citar al o los especialistas que se consideren necesarios para esclarecer 
 
 XXIII. Las demás que le señale el Comisionado, necesarias para el mejor cumplimiento de sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 22.
 
-Corresponde a la Sub-Dirección de Coordinación Administrativa el despacho de los siguientes asuntos:
+Corresponde a la Jefatura Administrativa el despacho de los siguientes asuntos:
 
 I. Proponer las políticas, normas, sistemas y procedimientos para la programación, presupuestación y administración integral de los recursos humanos materiales y financieros de que disponga la Comisión, a efecto de que el Consejo acuerde lo conducente;
 
@@ -329,9 +343,11 @@ XIV. Las demás que le señale el Comisionado, necesarias para, el mejor cumplim
 
 ### CAPITULO SEXTO. De las Facultades Genéricas del Sub-Comisionado Jurídico y Secretario de la Comisión y del Sub-Comisionado Médico
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 23.
 
-Corresponde al Sub-Comisionado y Secretario de la Comisión el ejercicio de las siguientes facultades:
+Corresponde al Sub-Comisionado Jurídico y Secretario de la Comisión el ejercicio de las siguientes facultades:
 
 l. Auxiliar al Comisionado, dentro del ámbito de su competencia, en el ejercicio de sus atribuciones;
 
@@ -469,9 +485,11 @@ XII. Ejercer las funciones inherentes a la Secretaría Técnica del Consejo, en 
 
 XIII. Las demás que le señale el Comisionado, necesarias para el mejor cumplimiento de sus funciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 26.
 
-Corresponde a la Sub-Dirección de Comunicación Social y Relaciones Públicas el despacho de los siguientes asuntos:
+Corresponde a la Jefatura de Comunicación Social y Relaciones Públicas el despacho de los siguientes asuntos:
 
 l. Auxiliar al Comisionado en la conducción de las políticas de comunicación social y divulgación de la Comisión y sus relaciones con los medios de información;
 
@@ -498,6 +516,26 @@ XI. Integrar y mantener actualizada la información sobre los proyectos y accion
 XII. Establecer mecanismos de cooperación con organismos públicos, sociales y privados, tanto nacionales como internacionales, para fortalecer y consolidar la información y documentación de la Comisión;
 
 XIII. Las demás que le señale el Comisionado, necesarias para el mejor cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+ARTICULO 26 A.- Corresponde a la Jefatura de Orientación y Quejas el despacho de los siguientes asuntos:
+
+I. Auxiliar a sus superiores dentro de la esfera de competencia de la jefatura a su cargo, en el ejercicio de sus atribuciones;
+
+II. Dar orientación al usuario de manera personal y vía telefónica;
+
+III. Gestionar con el Prestador de Servicios de Salud la atención para el paciente, dentro de las competencias de la COESAMED y darle seguimiento al asunto;
+
+IV. Registrar la información en el sistema electrónico, respecto a la orientación y gestión inmediata;
+
+V. Integrar los expedientes correspondientes relacionados con la orientación y la gestión inmediata;
+
+VI. Elaborar los oficios derivados de la orientación y gestión inmediata;
+
+VII. Aplicar la encuesta de satisfacción a los usuarios de los servicios de la COESAMED; y
+
+VIII. Las demás que le confieran otras disposiciones aplicables.
 
 ARTlCULO 27.- Corresponde a la Dirección de Area Jurídica el despacho de los siguientes asuntos:
 
@@ -531,6 +569,20 @@ XIV. Recibir y analizar los expedientes de los asuntos remitidos por la Direcci�
 
 XV. Las demás que le señale el Comisionado, necesarias para el mejor cumplimiento de sus funciones.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO OCTAVO. De las Suplencias de los Servidores Públicos
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+ARTICULO 27 (SIC).- El Comisionado será suplido en sus ausencias temporales o accidentales por el Sub-Comisionado Jurídico.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 28.
+
+Los Sub-Comisionados, Directores de Área y Jefaturas, serán suplidos en sus ausencias temporales o accidentales por el servidor público de jerarquía inmediata inferior que designe el Comisionado.
+
 TRANSITORIO:
 
 UNICO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -542,3 +594,7 @@ Dado en la sede del Consejo Directivo de la Comisión Estatal de Arbitraje Médi
 P.O. 22 DE JUNIO DE 2009.
 
 UNICO. - Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2010.
+
+UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
