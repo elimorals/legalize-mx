@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "2007-07-30"
+last_updated: "2010-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -111,13 +111,17 @@ Queda prohibido a los notarios recibir y conservar en depósito sumas de dinero 
 
 Las prohibiciones previstas con anterioridad, también se aplicarán al asociado o suplente cuando tenga interés o intervenga el cónyuge o los familiares del notario asociado o suplido que actúe en el protocolo del primero.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 8o.
 
-Los notarios ejercerán sus funciones dentro de los límites del Estado, y como funcionarios públicos que son, no podrán comprometerse con alguna otra persona en asociaciones o sociedades en que se vinculen sus actividades notariales.
+Los notarios ejercerán sus funciones dentro de los límites del Estado y no podrán comprometerse con alguna otra persona en asociaciones o sociedades en que se vinculen sus actividades notariales salvo el caso previsto por el Artículo 84 de esta Ley.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 9o.
 
-Los notarios no serán remunerados por el Erario, sino que tendrán derecho a cobrar a los interesados, en cada caso, los honorarios que devenguen conforme al arancel.
+Los honorarios y gastos devengados en la prestación de los servicios de la fe notarial serán cubiertos por los solicitantes del servicio, de conformidad con el arancel que para tal efecto expida el Ejecutivo Estatal, y no percibirán sueldo o remuneración alguna con cargo al erario del Estado.
 
 ###### ARTICULO 10.
 
@@ -467,11 +471,11 @@ El notario no podrá autorizar acto alguno, sino haciéndolo constar en el proto
 
 La obligación que tiene el notario de redactar las cláusulas de los testamentos públicos abiertos, no implica el deber de escribirlas el notario, por sí mismo.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 54.
 
-Siempre que se otorgue un testamento público abierto o cerrado, los notarios darán dentro de los dos días hábiles siguientes aviso al Registro Público de la Propiedad y del Comercio del Estado, mediante documento que deberá reunir los requisitos siguientes:
+Siempre que se otorgue un testamento público abierto o cerrado, los notarios darán dentro de los dos días hábiles siguientes aviso al Registro Público de la Propiedad y del Comercio del Estado, mediante documento o medio electrónico que deberá reunir los requisitos siguientes:
 
 a) Generales del otorgante;
 
@@ -487,7 +491,9 @@ f) Si se establecieron disposiciones de contenido irrevocable; y
 
 g) Si el testamento fuere cerrado, además el lugar o persona en cuyo poder se deposite.
 
-El Registro Público del Estado llevará un control especialmente destinado a asentar las inscripciones relativas, con los datos que se mencionan y, a su vez, los remitirá al Registro Nacional de Avisos de Testamento de conformidad a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+El Registro Público del Estado llevará un control especialmente destinado a asentar las inscripciones relativas, con los datos que se mencionan a través de una base de datos electrónica y, a su vez, los remitirá al Registro Nacional de Avisos de Testamento de conformidad con las disposiciones legales aplicables.
 
 Los jueces y notarios ante quienes se tramite una sucesión recabarán del Registro Público del Estado, desde luego, la noticia de si hay anotación en dicho control, referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trata, informando además de la existencia de disposiciones otorgadas con carácter de irrevocables.
 
@@ -1067,6 +1073,94 @@ IV.- Con los expedientes, manuscritos, libros y demás documentos entregados a s
 
 El Archivo General de Notarías es público respecto de los documentos que lo integran, y de ellos expedirá copias certificadas a las personas que así lo soliciten, de conformidad por el Artículo 68, exceptuando aquellos documentos sobre los que la Ley imponga limitación o prohibición. En relación con los documentos, sólo podrán mostrarse y expedir copias certificadas a las personas que acrediten tener interés jurídico en el acto o hecho de que se trate, a los notarios o a la autoridad judicial.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPITULO DECIMO. De los Medios Electrónicos
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 139.
+
+El notario, para el mejor desarrollo de sus funciones, podrá auxiliarse de los medios electrónicos mediante un mensaje de datos que contenga la firma electrónica certificada, en los términos y condiciones que se establezcan en las leyes y reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 140.
+
+Los datos de creación de firma electrónica de aquellos notarios que opten por la utilización de los medios electrónicos, deberán ser tramitados por los mismos ante la Secretaría General de Gobierno de conformidad con la ley aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 141.
+
+Los notarios que cuenten con el certificado de firma electrónica vigente y lleven sus registros en sistema electrónico, podrán emitir los comprobantes de las actuaciones que realicen mediante dichos sistemas.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 142.
+
+Cuando el notario remita un mensaje de datos, recibirá por parte del destinatario, el acuse de recibo electrónico, el cual identificará a la dependencia que recibió aquél y se presumirá, salvo prueba en contrario, que el mensaje de datos fue recibido en la hora y fecha que se consignen en el acuse de recibo mencionado en términos de la ley aplicable.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 143.
+
+La Secretaría General de Gobierno como autoridad certificadora tendrá además de las obligaciones consignadas en la ley aplicable, el proporcionar los siguientes servicios con relación a la certificación de firmas electrónicas para el ejercicio de la función notarial:
+
+I. Verificar la identidad del notario y su vinculación con los medios de identificación electrónica;
+
+II. Llevar los registros de los elementos de identificación y de vinculación con los medios de identificación electrónicos del notario y de aquella información con la que haya verificado el cumplimiento de fiabilidad de las firmas electrónicas; y
+
+III. Informar, antes de la emisión de un certificado al notario que solicite sus servicios, de las condiciones precisas para la utilización del certificado y de sus limitaciones de uso.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 144.
+
+La Secretaría General de Gobierno, proporcionará la información sobre los certificados emitidos a notarios, que permitan a terceros conocer:
+
+I. Que el certificado fue emitido por dicha autoridad certificadora;
+
+II. Si se cuenta con un documento suscrito por el notario nombrado en el certificado en el que se haga constar que dicho firmante tenía bajo su control el dispositivo y los datos de creación de la firma electrónica en el momento en que se expidió el certificado y que su uso queda bajo su exclusiva responsabilidad;
+
+III. Si los datos de creación de la firma eran válidos en la fecha en que se expidió el certificado;
+
+IV. El método utilizado para identificar al notario firmante;
+
+V. Cualquier limitación en cuanto al ámbito o el alcance de la responsabilidad del Poder Ejecutivo; y
+
+VI. Proporcionar los servicios de acceso al registro de certificados, en términos de los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 145.
+
+Los certificados que emita la Secretaría General de Gobierno, como autoridad certificadora del Poder Ejecutivo en términos de la ley aplicable para el ejercicio de la función notarial, para ser considerados válidos deberán contener además de los datos que consigna la ley de la materia, los datos siguientes:
+
+I. El nombre del notario titular del certificado y su clave del registro federal de contribuyentes; y
+
+II. La clave pública del notario titular del certificado.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 146.
+
+La integridad y autoría de un mensaje de datos con firma electrónica será verificable mediante el método de remisión al documento original con la clave pública del autor.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTICULO 147.
+
+El notario titular de un certificado tendrá las siguientes obligaciones, además de las consignadas en la ley aplicable:
+
+I. Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada de los datos de creación de la firma;
+
+II. Conducirse con diligencia razonable para cerciorarse que todas las actuaciones que haya hecho con relación al certificado, con su vigencia, o que hayan sido consignados en el mismo, son exactas, cuando se emplee el certificado con relación a una firma electrónica;
+
+III. Asimismo y con el propósito de dar seguridad a la información almacenada a través de los medios electrónicos y que se produzca con motivo de la actividad notarial, el notario bajo su responsabilidad, deberá prever la existencia de los respaldos que sean necesarios; y
+
+IV. El notario titular del certificado será responsable de las consecuencias jurídicas que deriven por no cumplir con las obligaciones previstas en el presente Artículo.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -1156,6 +1250,12 @@ Una vez implementado el sistema de Protocolo Abierto dentro del plazo establecid
 El Protocolo a cargo de los notarios que opten por el sistema de Protocolo Cerrado en los términos del artículo anterior, se regirá conforme a la normatividad aplicable antes de las presentes reformas, por lo que para efectos administrativos y operativos, dicha normatividad continuará vigente hasta el día treinta y uno de diciembre del año dos mil siete.
 
 P.O. 30 DE JULIO DE 2007.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
