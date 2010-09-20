@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-beneficencia-privada-24303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1916-01-12"
-last_updated: "1916-01-12"
+last_updated: "2010-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY ORGANICA DE BENEFICENCIA PRIVADA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 20 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial el Miércoles 12 de Enero de 1916.
 
@@ -420,3 +422,27 @@ Dado en el Palacio del Poder Ejecutivo a los veinte y cuatro días del mes de di
 El Gobernador y Comandante Militar del Estado, S. ALVARADO.
 
 El Secretario General Interino, R. AGUIRRE COLORADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 20 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el primer día hábil del mes de enero del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de Beneficencia Privada expedida el 24 de diciembre de 1915.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, deberá realizar las acciones necesarias para que inicie sus funciones la Junta, en un plazo no mayor de 90 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+El Órgano de Gobierno de la Junta, deberá expedir su Estatuto Orgánico en un plazo no mayor de 30 días naturales a partir de su instalación.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos, materiales y financieros asignados a otros organismos de la administración pública del Estado, que realicen funciones relacionadas con el objeto de esta Ley, pasarán a formar parte de la estructura y patrimonio de la Junta que se crea en este ordenamiento.
