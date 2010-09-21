@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2010-09-07"
+last_updated: "2010-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -239,15 +239,17 @@ Los partidos políticos son entidades de interés público que tienen como fin p
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen ésta Constitución y la ley respectiva.
 
-En los procesos electorales los partidos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos.
+> <small>(REFORMADO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
+
+En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos o en coalición con otros partidos.
 
 La coalición deberá formalizarse mediante convenio, que se presentará para su registro ante el Consejo General del Instituto Electoral del Estado de México, a más tardar quince días antes de que se inicie el registro de candidatos de la elección de que se trate y éste resolverá la procedencia del registro de coalición dentro de los siete días siguientes a su presentación.
 
-La solicitud de registro de candidaturas comunes deberá presentarse ante el Consejo General, previo acuerdo estatutario que emitan los partidos políticos, a más tardar tres días antes de la fecha en la que ese órgano sesione con el objeto de otorgar el registro a los candidatos de la elección de que se trate.
+> <small>(DEROGADO PARRAFO QUINTO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
 
 Ningún ciudadano podrá ser registrado como candidato a distintos cargos de elección popular en el mismo proceso electoral. Los partidos políticos podrán registrar simultáneamente, en un proceso comicial hasta cuatro fórmulas de candidatos a Diputados por mayoría relativa y por representación proporcional.
 
-Quien haya participado en un proceso interno de selección de un partido político como aspirante o precandidato, no podrá ser registrado como candidato por otro partido político o coalición en el proceso electoral correspondiente. Esta restricción no aplicará para los candidatos postulados por una coalición o en candidatura común de las que forme parte el partido político que organizó el referido proceso interno.
+> <small>(DEROGADO PARRAFO SEPTIMO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
 
 Para conservar el registro como partido político y para tener derecho a participar en la asignación de Diputados de representación proporcional, los partidos políticos deberán haber obtenido al menos el 1.5% de la votación válida emitida en la elección para Diputados de mayoría a la Legislatura del Estado.
 
@@ -261,7 +263,9 @@ Ninguna otra persona, física o moral, sea a título propio o por cuenta de terc
 
 La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para el desarrollo de las precampañas y las campañas electorales de los partidos políticos.
 
-La duración máxima de las campañas será de noventa días para la elección de Gobernador y de sesenta días cuando se elijan Diputados locales o Ayuntamientos; la ley establecerá con precisión la duración de las mismas. Asimismo, las precampañas no podrán exceder las dos terceras partes del tiempo previsto para las respectivas campañas electorales.
+> <small>(REFORMADO, G.G. 21 DE SEPTIEMBRE DE 2010)</small>
+
+La duración máxima de las campañas será de cuarenta y cinco días para la elección de Gobernador y de treinta y cinco días cuando se elijan Diputados locales o Ayuntamientos; la ley establecerá con precisión la duración de las mismas. Asimismo, las precampañas no podrán exceder del término de diez días.
 
 La violación a estas disposiciones por los partidos o cualquier otra persona física o moral, será sancionada conforme a la ley.
 
@@ -527,7 +531,7 @@ El Poder Público del Estado de México se divide para su ejercicio en Legislati
 
 Los poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 36.
 
@@ -1673,7 +1677,7 @@ Para efectos de la administración de justicia, el Estado de México se dividir�
 
 La administración, vigilancia y disciplina del Poder Judicial, estarán a cargo del Consejo de la Judicatura del Estado de México, conforme a las bases que señala esta Constitución y las leyes respectivas.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 107.
 
@@ -1930,58 +1934,6 @@ En los casos de participaciones federales, las autoridades del Estado convendrá
 ### CAPITULO CUARTO. De las Atribuciones de los Presidentes Municipales
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
-
-###### Artículo 128.
-
-Son atribuciones de los presidentes municipales:
-
-I. Presidir las sesiones de sus ayuntamientos;
-
-II. Ejecutar las decisiones de los ayuntamientos e informar de su cumplimiento;
-
-III. Cumplir y hacer cumplir dentro del municipio, las leyes federales y del Estado y todas las disposiciones que expidan los mismos ayuntamientos;
-
-> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
-
-IV. Ser el responsable de la comunicación de los ayuntamientos que presiden, con los demás ayuntamientos y con los Poderes del Estado;
-
-> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
-
-V. Asumir la representación jurídica del Municipio, conforme a la ley respectiva;
-
-> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
-
-VI. Rendir al ayuntamiento dentro de los primeros tres días hábiles del mes de diciembre de cada año un informe acerca del estado que guarda el gobierno y la administración pública municipales;
-
-> <small>(REFORMADA, G.G. 16 DE MAYO DE 2001)</small>
-
-VII. Someter a la consideración del Ayuntamiento los nombramientos de los titulares de las dependencias y entidades de la administración pública municipal;
-
-> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
-
-VIII. Nombrar y remover libremente a los servidores públicos del municipio cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes que de ella emanan;
-
-> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
-
-IX. Presentar al Ayuntamiento la propuesta de presupuesto de egresos para su respectiva discusión y dictamen;
-
-> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
-
-X. Asumir el mando de la policía preventiva municipal;
-
-> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
-
-XI. Realizar acciones tendientes al desarrollo institucional del Ayuntamiento e informar sobre el particular en los términos que la Ley señale;
-
-> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2010)</small>
-
-XII. Expedir los acuerdos necesarios para el cumplimiento de las determinaciones del ayuntamiento;
-
-> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2010)</small>
-
-XIII. Las demás que le señale la presente Constitución, la Ley Orgánica respectiva y otros ordenamientos legales.
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 128.
 
@@ -3420,3 +3372,23 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 21 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 164, POR EL QUE SE REFORMA EL PARRAFO DECIMO CUARTO DEL ARTICULO 12 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 21 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 165, POR EL QUE SE REFORMA EL PARRAFO TERCERO Y SE DEROGAN LOS PARRAFOS QUINTO Y SEPTIMO DEL ARTICULO 12 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
