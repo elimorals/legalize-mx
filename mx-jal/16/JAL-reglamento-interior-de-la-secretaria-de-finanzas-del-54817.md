@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-finanzas-del-54817"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-06"
-last_updated: "2010-03-04"
+last_updated: "2010-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN LE PERIODICO OFICIAL: 4 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LE PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 6 de marzo de 2007.
 
@@ -1841,11 +1841,11 @@ III. Las dirigidas recíprocamente entre las Unidades Administrativas, Direccion
 
 ### CAPÍTULO IX. De la Suplencia y Delegación de Facultades del Secretario
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 57.
 
-Durante las ausencias temporales del titular de la Secretaría, el despacho y la resolución de los asuntos correspondientes al mismo quedarán a cargo del Director General de Egresos y, en ausencia de éste, por el Director General de Ingresos.
+Durante las ausencias temporales del titular de la Secretaría, el despacho y la resolución de los asuntos correspondientes al mismo quedarán a cargo del Director General de Programación y Presupuesto y, en ausencia de éste, por el Director General de Ingresos.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2010)</small>
 
@@ -1908,3 +1908,7 @@ A CONTINUACION SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL ACUERDO DE REFORMA
 P.O. 4 DE MARZO DE 2010.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE SEPTIEMBRE DE 2010.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
