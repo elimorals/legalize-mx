@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-47968"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2005-12-10"
+last_updated: "2010-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 10 de diciembre de 2005.
 
@@ -47,27 +47,35 @@ LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE NAYARIT
 
 Las disposiciones de esta Ley son de orden público, de interés social y de observancia obligatoria en la entidad, sin perjuicio de la aplicación, en su caso; de las leyes generales expedidas por el Congreso de la Unión en la materia.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 2.
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, la discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 3.
 
-El objeto de esta Ley (sic) establecer medidas para garantizar y hacer efectivo el derecho a la igualdad de oportunidades de las personas, por lo que se habrá de prevenir y erradicar todas las formas de discriminación que se ejerzan contra cualquier persona en los términos de la Constitución Política Federal, la del Estado Libre y Soberano de Nayarit y los Tratados en que el Estado Mexicano es parte.
+El objeto de esta Ley es establecer medidas para garantizar y hacer efectivo el derecho a la igualdad de oportunidades de las personas, por lo que se habrá de prevenir y erradicar todas las formas de discriminación que se ejerzan contra cualquier persona en los términos de la Constitución General de la República, la del Estado Libre y Soberano de Nayarit y los Tratados en que el Estado Mexicano es parte.
 
-A estos efectos, se entiende por igualdad de oportunidades la ausencia de discriminación, directa o indirecta, motivada por origen étnico o nacional, el género, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+A estos efectos, se entiende por igualdad de oportunidades la ausencia de discriminación, directa o indirecta, motivada por las causas previstas en el artículo 2 del presente ordenamiento.
 
 ###### Artículo 4.
 
 Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los poderes públicos estatales deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas así como su efectiva participación en la vida política, económica, cultural y social del Estado y promoverán la participación de las autoridades de los demás órdenes de Gobierno y de los particulares en la eliminación de dichos obstáculos.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 5.
 
-Cada una de las autoridades y de los órganos públicos estatales adoptará las medidas que estén a su alcance, tanto por separado como coordinadamente, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en el Presupuesto de Egresos del Estado, para que toda persona goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Política del Estado libre y Soberano de Nayarit y en los Tratados Internacionales de los que México sea parte y la Constitución Política de los Estado Unidos Mexicanos.
+Cada una de las autoridades y de los órganos públicos estatales, de manera coordinada y en lo individual adoptará las medidas que estén a su alcance, de conformidad con la disponibilidad de recursos que se haya determinado para tal fin en el Presupuesto de Egresos del Estado, para que toda persona goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución General de la República, en la particular del Estado, así como en los Tratados de los que México sea parte.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 6.
 
-Para los efectos de esta Ley se entiende por discriminación, toda distinción, exclusión o restricción que, basada en el origen étnico, nacional o regional, el género, la edad, las capacidades diferentes, la condición social o económica, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, las ideologías o creencias, o cualquier otra, que tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
+Para los efectos de esta Ley se entiende por discriminación, toda distinción, exclusión o restricción que, basada en las causas previstas en el artículo 2 del presente ordenamiento, que tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales de las personas, y la igualdad real de oportunidades de los individuos.
 
 ###### Artículo 7.
 
@@ -85,9 +93,11 @@ V. Las distinciones, exclusiones, restricciones o preferencias que se hagan entr
 
 VI. En general, todas las que no tengan el propósito de anular o menoscabar los derechos, y libertades o la igualdad de oportunidades de las personas ni de atentar contra la dignidad humana.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 8.
 
-La interpretación del contenido de esta Ley, así como la actuación de las autoridades estatales y municipales será congruente con la Constitución Política de los Estados Unidos Mexicanos, con la Constitución Política del Estado de Nayarit y tomará en cuenta los instrumentos internacionales suscritos y ratificados por el Estado mexicano.
+La interpretación del contenido de esta Ley, así como la actuación de las autoridades estatales y municipales será congruente con las disposiciones contenidas en la Constitución General de la Republica, en la particular del Estado y en los instrumentos internacionales suscritos y ratificados por el Estado Mexicano.
 
 ###### Artículo 9.
 
@@ -153,7 +163,9 @@ XVIII. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e
 
 XIX. Impedir la libre elección de cónyuge o pareja;
 
-XX. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere el Artículo 6 de esta Ley a través de mensajes e imágenes en los medios de comunicación;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+XX. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere el Artículo 2 de esta Ley a través de mensajes e imágenes en los medios de comunicación;
 
 XXI. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, conciencia o religión, o de prácticas o costumbres religiosas, siempre que estas no atenten contra el orden público.
 
@@ -263,13 +275,17 @@ II. Garantizar su incorporación, permanencia y participación en las actividade
 
 III. Propiciar el otorgamiento, en los niveles de educación obligatoria, de las ayudas técnicas necesarias para cada discapacidad;
 
-IV. Establecer mecanismos que promuevan su incorporación en la administración pública y como candidatos a cargos de elección popular, así como los que aseguren su participación en la construcción de políticas públicas;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Establecer mecanismos que promuevan su incorporación en la administración pública, así como los que aseguren su participación en la construcción de políticas públicas;
 
 V. Crear programas permanentes de capacitación para el empleo y fomento a la integración laboral;
 
 VI. Apoyar fiscalmente las actividades de quienes los capaciten;
 
-VII. Otorgar un trato fiscal favorable por parte del Gobierno de Nayarit a las empresas que tengan entre su personal a personas con discapacidad;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Otorgar un trato fiscal favorable, a las empresas que tengan entre su personal a personas con discapacidad;
 
 VIII. Crear espacios de recreación adecuados;
 
@@ -315,9 +331,11 @@ I. Establecer las medidas necesarias a efecto de que las personas sujetas a proc
 
 II. El Ejecutivo del Estado, a través de la Dirección General de Prevención y Readaptación Social deberá garantizar la cercanía de los internos con sus familiares, para una mejor readaptación.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 20.
 
-Los órganos públicos y las autoridades estatales y municipales adoptarán las medidas que tiendan a favorecer la igualdad real de oportunidades y a prevenir y erradicar las formas de discriminación de las personas a que se refiere el Artículo 6 de esta Ley.
+Los órganos públicos y las autoridades estatales y municipales adoptarán las medidas que tiendan a favorecer la igualdad real de oportunidades y a prevenir y erradicar las formas de discriminación de las personas a que se refiere el artículo 2 de esta Ley.
 
 ### CAPÍTULO I. DE LA DENOMINACIÓN
 
@@ -488,3 +506,9 @@ Dado en la Sala de Sesiones "Lic. Benito Juárez" del H. Congreso del Estado, en
 Dip. Presidente, José Lucas Vallarta Chan.- Rúbrica.- Dip. Secretario, Blanca Yessenia Jiménez Cedano.- Rúbrica.- Dip. Secretario, Angélica Cristina del Real Chávez.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los siete días del mes de diciembre del año dos mil cinco.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pineda Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2010.
+
+Artículo único.- El presente decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
