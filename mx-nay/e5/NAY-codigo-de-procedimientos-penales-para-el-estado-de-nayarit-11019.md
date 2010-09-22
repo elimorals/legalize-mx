@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-penales-para-el-estado-de-nayarit-1101
 country: "mx"
 rank: "codigo"
 publication_date: "1969-11-29"
-last_updated: "2010-03-20"
+last_updated: "2010-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1969.
 
@@ -95,9 +95,27 @@ IX. Conceder o revocar cuando proceda, la libertad provisional del indiciado.
 
 X. En caso procedente promover la conciliación de las partes.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-ARTICULO 2 bis.- En todo proceso penal la víctima o el ofendido por algún delito tendrá derecho a recibir asesoría jurídica, a que se le preste atención médica de urgencia cuando lo requiera, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, además de las garantías previstas por el artículo 20 apartado B de la Constitución Política de los Estados Unidos Mexicanos y los demás derechos que señalan nuestras leyes.
+ARTICULO 2 bis.- En toda averiguación o proceso penal, la víctima o el ofendido por algún delito, tendrá el inmediato derecho, a que se le informe de los derechos que la Constitución Política de los Estados Unidos Mexicanos, le concede, particularmente:
+
+I. A su solicitud, conocer del estado que guarda en su caso la averiguación previa o el proceso, igualmente a que se le otorgue asesoría jurídica gratuita;
+
+II. Por la vía de coadyuvancia con el Ministerio Público; tanto en la investigación como en el proceso, a presentar y que se le reciban los datos o elementos de prueba con los que cuente, y a consecuencia de ellos a que se desahoguen las diligencias correspondientes.
+
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa, la que será recurrible;
+
+III. Interponer en el juicio los recursos otorgados por la ley y que considere pertinentes a efecto de salvaguardar sus intereses.
+
+IV. Desde la comisión del delito, se le otorgue de forma inmediata atención médica y psicológica;
+
+V. Independientemente de la obligación del Ministerio Público en los casos de procedencia, de solicitar la reparación del daño, la víctima u ofendido podrán solicitarla directamente. En toda condena el juzgador no podrá absolver al sentenciado de dicha reparación.
+
+VI. Cuando sean menores de edad; se trate de delitos de violación, secuestro o delincuencia organizada; y aquellos que a juicio del juzgador sea necesario para su protección, los datos de identidad y otros personales, serán confidenciales, salvaguardando en todo caso los derechos de la defensa;
+
+Las víctimas, ofendidos, testigos y en general toda persona que intervengan en la investigación y en el proceso, contaran con la protección del Ministerio Público, correspondiendo la vigilancia del cumplimiento de esta obligación al Juez de la causa; y
+
+VII. Para la protección y restitución de sus derechos, tendrá derecho a solicitar las medidas cautelares y providencias necesarias, independientemente de que en forma oficiosa lo haga el Ministerio Público.
 
 ###### ARTICULO 3o.
 
@@ -3588,3 +3606,7 @@ Artículo único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 20 DE MARZO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 22 DE SEPTIEMBRE DE 2010.
+
+Artículo Único.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
