@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-seguridad-publica-16185
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-20"
-last_updated: "2008-02-15"
+last_updated: "2010-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de marzo de 2000.
 
@@ -61,9 +61,9 @@ VIII. Seguridad Privada: Empresas o particulares que presten servicios privados 
 
 IX. Licencia Colectiva: Autorización para la portación de armas de fuego que otorga la Secretaría de la Defensa Nacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-###### Artículo 3º.
+###### Artículo 3°.
 
 Para el estudio, planeación, atención y despacho de los asuntos de su competencia, la Secretaría de Seguridad Pública contará con los servidores públicos y unidades administrativas siguientes:
 
@@ -71,13 +71,17 @@ Secretario de Seguridad Pública
 
 Subsecretario de Seguridad Pública y de Prevención y Readaptación Social
 
-Subsecretario de Estudios, Proyectos y Desarrollo
+Subsecretario de Estudios. Proyectos y Desarrollo
 
-Secretario Particular
+Secretario Técnico
 
 Unidad del Sistema Estatal de Comunicaciones
 
 Unidad de Asuntos Internos
+
+Dirección de Servicios de Apoyo
+
+Departamento de Asuntos Jurídicos
 
 Dirección de la Policía Estatal Preventiva
 
@@ -93,11 +97,11 @@ Dirección de Protección Civil
 
 EL Secretario contará con los órganos técnicos y administrativos necesarios para el cumplimiento de sus facultades, únicamente limitado por los recursos económicos y presupuestales con que cuenta la Secretaría.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 4°.
 
-El Instituto Estatal de Ciencias Penales y Seguridad Pública y el Órgano de Ejecución de Medidas para Adolescentes, denominado Instituto para la Atención Integral del Menor del Estado de Sinaloa, como órganos administrativos desconcentrados, estarán jerárquicamente subordinados a la Secretaría, se regirán por los ordenamientos jurídicos de creación, por las disposiciones aplicables de este reglamento y los que en su caso, determine el Gobernador Constitucional del Estado o el Secretario de Seguridad Pública y sus titulares tendrán las competencias y facultades que les señalen los instrumentos jurídicos citados.
+El órgano de Ejecución de Medidas para Adolescentes, denominado Instituto para la Atención Integral del Menor del Estado de Sinaloa, como órgano administrativo desconcentrado, estará jerárquicamente subordinado a la Secretaría, se regirá por los ordenamientos jurídicos de creación, por las disposiciones aplicables de este reglamento y los que en su caso, determine el Gobernador Constitucional del Estado o el Secretario de Seguridad Pública y su titular tendrá la competencia y facultades que les señalen los instrumentos jurídicos citados.
 
 ###### Artículo 5º.
 
@@ -149,7 +153,7 @@ XII. Promover la participación social en los planes y acciones de Seguridad Pú
 
 XIII. Diseñar y coordinar planes y estrategias para atender en forma eficaz y oportuna las situaciones de emergencia que alteren el orden público;
 
-XIV. Establecer con la Secretaria de Educación Pública y Cultura del Gobierno del Estado, así como, con otras instituciones educativas afines, el sistema de acreditamiento, validación y certificación de los estudios que se realicen en la institución responsable de la formación y profesionalización de los recursos humanos destinados a la seguridad pública;
+XIV. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
 
@@ -197,29 +201,31 @@ XVI. Suscribir convenios, contratos y acuerdos de coordinación con los Gobierno
 
 XVII. Las demás que con carácter no delegables le otorgue el Gobernador del Estado y las que con el mismo carácter le confieran otras disposiciones legales y reglamentarias.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-###### Artículo 9°.
+###### Artículo 9º.
 
 Al despacho del Secretario estarán adscritas las siguientes unidades administrativas:
 
-Secretaría Particular
+Secretaría Técnica
 
 Unidad del Sistema Estatal de Comunicaciones
 
 Unidad de Asuntos Internos
 
-###### Artículo 9º.
+Dirección de Servicios de Apoyo
 
-Al despacho del Secretario estará adscrita la siguiente unidad administrativa:
+Departamento de Asuntos Jurídicos
 
-Secretaría Particular
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-#### SECCIÓN I. DE LA SECRETARÍA PARTICULAR
+#### SECCIÓN I. DE LA SECRETARÍA TÉCNICA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 10.
 
-Corresponde a la Secretaría Particular del Secretario de Seguridad Pública el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría Técnica del Secretario de Seguridad Pública el ejercicio de las siguientes atribuciones:
 
 I. Prestar al Secretario el auxilio personal que requiera para el desempeño de sus funciones;
 
@@ -317,11 +323,117 @@ VIII. Comunicar al quejoso, en su caso, los resultados de su denuncia; y,
 
 IX. Las demás que le confieran las leyes, decretos, reglamentos y acuerdos o que expresamente le encomiende el Gobernador del Estado o el Secretario de Seguridad Pública.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE LA POLICÍA ESTATAL PREVENTIVA
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2005)</small>
+#### SECCIÓN IV. DE LA DIRECCIÓN DE SERVICIOS DE APOYO
 
-#### SECCIÓN I BIS
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 10 Bis 3.
+
+Corresponde al Titular de la Dirección de Servicios de Apoyo el ejercicio de las siguientes atribuciones:
+
+I. Someter a la consideración del Secretario el anteproyecto de Presupuesto anual y los demás programas que se le encomienden;
+
+II. Controlar y vigilar el presupuesto descentralizado asignado a la Secretaría;
+
+lll. Autorizar la documentación necesaria para el ejercicio del presupuesto asignado y presentar al Secretario lo que corresponda a las erogaciones que deberán ser autorizadas por él, conforme a la legislación aplicable y al presente Reglamento;
+
+IV. Mantener una base de datos actualizada en materia de recursos humanos, financieros y materiales;
+
+V. Coordinar y apoyar la ejecución de los programas de capacitación técnico-administrativos para el personal de la Secretaría;
+
+VI. Tramitar la expedición de los nombramientos de los servidores públicos de la Secretaría y resolver sobre los movimientos del personal y los casos de terminación de los efectos del nombramiento, previo acuerdo con el Secretario;
+
+VII. Someter a la consideración del Secretario propuestas de cambios a la organización interna de la Secretaría y las medidas técnicas y administrativas que mejoren su funcionamiento, emitiendo los dictámenes administrativos correspondientes;
+
+VIII. Utilizar lineamientos y criterios técnicos en materia de organización, funcionamiento, modernización y simplificación administrativa de la Secretaría;
+
+IX. Evaluar la ejecución y el cumplimiento de las metas comprometidas en el programa de presupuesto anual de la Secretaría;
+
+X. Autorizar, en el ámbito de su competencia, las solicitudes de modificación presupuestal que presenten las unidades administrativas de la Secretaría, así como llevar su registro y control;
+
+XI. Llevar la contabilidad general de la Secretaría conforme a lo establecido en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, así como a las normas que expidan las autoridades competentes, además de elaborar los reportes financieros que correspondan;
+
+XII. Tramitar ante la Secretaría competente, de acuerdo a las normas y procedimientos aplicables, el pago de las remuneraciones al personal de la Secretaría, determinar la emisión o suspensión de cheques y la aplicación de descuentos y retenciones autorizados conforme a la Ley y, en su caso, la recuperación de las cantidades correspondientes a salarios no devengados, así como aplicar las medidas disciplinarias y sanciones administrativas contempladas en la normatividad aplicable;
+
+XIII. Integrar, controlar y mantener actualizados los expedientes personales y administrativos de los servidores públicos de la Secretaría;
+
+XIV. Establecer, promover y coordinar programas internos de bienestar social, salud y acciones de protección al ingreso económico de los trabajadores, a través del otorgamiento de servicios y el fomento de la participación de ellos y sus familias en actividades culturales, deportivas y recreativas;
+
+XV. Coadyuvar con las demás unidades administrativas de la Secretaría, en las diligencias e investigaciones relativas al incumplimiento de obligaciones laborales en que pudiera incurrir el personal, e instrumentar las medidas correctivas de carácter administrativo a que se haga acreedor;
+
+XVI. Participar en la formulación, instrumentación y evaluación de los programas en materia de recursos humanos;
+
+XVII. Proponer al Secretario los lineamientos para regular la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de todos los bienes muebles e inmuebles al servicio de las unidades administrativas de la Secretaría, así como mantener regularizada la posesion de estos últimos;
+
+XVIII. Tramitar ante la Secretaría de Administración y Finanzas la contratación y supervisión de la construcción, reparación, mantenimiento y rehabilitación de los inmuebles al servicio de las unidades administrativas de la Secretaría, en los términos de la legislación respectiva;
+
+XIX. Intervenir en la aplicación de las normas y supervisión de los sistemas de control de inventarios de bienes y dictaminar la afectación, baja y destino final de inventarios de bienes;
+
+XX. Llevar a cabo los movimientos administrativos de altas y bajas del servicio del personal policial;
+
+XXI. Verificar la tramitación y entrega oportuna de los documentos necesarios por parte de los beneficiarios designados por los integrantes de la Policía Estatal Preventiva, para que éstos obtengan las indemnizaciones, pensiones, prestaciones y demás remuneraciones que las leyes establecen;
+
+XXII. Dirigir, controlar y evaluar los servicios generales de apoyo, de recursos materiales y servicios generales; y,
+
+XXIII. Las demás que señalen los ordenamientos jurídicos aplicables y el Secretario, así como las que por su naturaleza correspondan al área.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 10 Bis 4.
+
+Al titular de la Dirección de Servicios de Apoyo se le denominará Director de Servicios de Apoyo, quien para el despacho de los asuntos de su competencia, se auxiliará de las siguientes áreas administrativas:
+
+Departamento de Recursos Humanos
+
+Departamento de Recursos Financieros
+
+Departamento de Recursos Materiales y Servicios Generales
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+#### SECCIÓN V. DEL DEPARTAMENTO DE ASUNTOS JURÍDICOS
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 10 Bis 5.
+
+Corresponde al Titular del Departamento de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
+
+I. Estudiar los negocios sobre los que deban emitir su opinión al Secretario y Subsecretarios, formulando los dictámenes respectivos;
+
+II. Acordar con el Secretario y los Subsecretarios asuntos de su competencia;
+
+III. Integrar y rendir los informes que establecen la normatividad interna de la Secretaría y aquellos que se (sic) le sean solicitados por el Secretario y Subsecretarios;
+
+IV. Coordinar los trabajos y proyectos de naturaleza jurídica que le encomienden las demás unidades administrativas de la Secretaría;
+
+V. Informar permanentemente al Secretario y Subsecretarios de los asuntos que se presten y de las actividades realizadas;
+
+VI. Intervenir en los asuntos de carácter legal que le competen a la Secretaría;
+
+VII. Representar a la Secretaría en los procedimientos y trámites judiciales, ministeriales y administrativos, y en aquellos que le encomienden el Secretario o Subsecretarios;
+
+VIII. Elaborar los proyectos de iniciativas de leyes, decretos, reglamentos y acuerdos que deba emitir el titular de la Secretaría o proponer al Gobernador Constitucional del Estado;
+
+IX. Revisar toda clase de convenios, contratos y acuerdos en los que participe la Secretaría de Seguridad Pública;
+
+X. Formular a nombre de la Dependencia, las denuncias que legalmente procedan;
+
+XI. Sistematizar los criterios de interpretación y aplicación de las disposiciones legales que norman el funcionamiento de la Secretaría;
+
+XII. Otorgar asesoría jurídica a los elementos policiales de la Secretaría, cuando al actuar con apego a las disposiciones legales con motivo del recto cumplimiento de sus servicios, incurren en hechos que pudieran ser constitutivos de injusto penal;
+
+XIII. Formular los informes previos y justificados y toda clase de escritos que deban presentarse en materia de amparo, interpuesto en contra de servidores públicos de la Secretaría;
+
+XIV. Formular y someter a consideración del Secretario, propuestas de leyes y reglamentos o reformas y adiciones a las ya existentes en materia de seguridad pública;
+
+XV. Estudiar y proponer al Secretario las actualizaciones de la normatividad en materia de seguridad pública;
+
+XVI. Dar trámite a todos los asuntos de carácter legal en que se involucre a la Secretaría de Seguridad Pública;
+
+XVII. Las demás que señalen las leyes y reglamentos, o le confiera el Secretario o Subsecretarios.
 
 ### CAPÍTULO III. DE LAS FACULTADES GENÉRICAS DE LOS SUBSECRETARIOS
 
@@ -449,7 +561,9 @@ Dirección de Prevención y Readaptación Social
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2005)</small>
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE SERVICIOS DE PROTECCIÓN
+#### SECCIÓN I. DE LA DIRECCIÓN DE LA POLICÍA ESTATAL PREVENTIVA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 17.
 
@@ -523,21 +637,23 @@ XIX. Realizar traslados o movimientos de personas privadas de su libertad dentro
 
 XX. Las demás que determinen otras disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 18.
 
-Para el despacho de los asuntos de su competencia, la Dirección de la Policía Estatal Preventiva se auxiliará de las siguientes áreas administrativas:
+Para el despacho de los asuntos de su competencia, la Dirección de la Policía Estatal Preventiva se auxiliara de las siguientes áreas administrativas:
 
-Departamento Operativo Zona Norte
+Coordinador Operativo de Zona Norte
 
-Departamento Operativo Zona Centro
+Coordinador Operativo de Zona Centro
 
-Departamento Operativo Zona Sur
+Coordinador Operativo de Zona Sur
+
+Unidad de Custodios Penitenciarios
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 15 DE FEBRERO DE 2008)</small>
 
-#### SECCIÓN III
+#### SECCIÓN I BIS
 
 ###### Artículo 18 Bis.
 
@@ -547,9 +663,7 @@ Departamento Operativo Zona Sur
 
 (DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PREVENCIÓN Y READAPTACIÓN SOCIAL
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2005)</small>
+#### SECCIÓN II. DE LA DIRECCIÓN DE SERVICIOS DE PROTECCIÓN
 
 ###### Artículo 19.
 
@@ -589,9 +703,7 @@ Departamento Administrativo
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 15 DE FEBRERO DE 2008)</small>
 
-#### SECCIÓN V. DE LOS ÓRGANOS Y ENTIDADES COORDINADAS
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+#### SECCIÓN III
 
 ###### Artículo 21.
 
@@ -603,7 +715,9 @@ Departamento Administrativo
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 12 DE AGOSTO DE 2005)</small>
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PROGRAMAS PREVENTIVOS
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PREVENCIÓN Y READAPTACIÓN SOCIAL
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 22 Bis.
 
@@ -651,7 +765,9 @@ Departamento de Supervisión y Seguimiento de Programas Institucionales
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 12 DE AGOSTO DE 2005)</small>
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE COORDINACIÓN CON ORGANISMOS FEDERALES, ESTATALES Y MUNICIPALES
+#### SECCIÓN V. DE LOS ÓRGANOS Y ENTIDADES COORDINADAS
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 22 Bis 2.
 
@@ -669,7 +785,7 @@ II. Diseñar y aplicar mecanismos de coordinación entre las instituciones públ
 
 III. Proponer al Secretario en el ámbito de competencia de la Secretaría, la celebración de convenios en materia de seguridad;
 
-IV. Integrar y someter a consideración del Secretario, propuestas de leyes y reglamentos o reformas y adiciones a las ya existentes en materia de seguridad pública;
+IV. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 V. Elaborar informes periódicos sobre el estado que guarda la seguridad pública en la entidad;
 
@@ -697,9 +813,9 @@ XIII. Instrumentar y someter a consideración del Secretario los programas de pr
 
 XIV. Las demás que le confieran las leyes, decretos, reglamentos, convenios, acuerdos, circulares o que expresamente le encomiende el Gobernador del Estado o el Secretario.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-###### Articulo 24.
+###### Artículo 24.
 
 A la Subsecretaría de Estudios, Proyectos y Desarrollo, estarán adscritas las siguientes unidades y áreas administrativas:
 
@@ -709,9 +825,9 @@ Dirección de Coordinación con Organismos Federales, Estatales y Municipales
 
 Dirección de Protección Civil
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
+Departamento de Estadísticas y Parámetros de Opinión
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2008)</small>
+#### SECCIÓN I. DE LA DIRECCIÓN DE PROGRAMAS PREVENTIVOS
 
 ###### Artículo 25.
 
@@ -739,9 +855,9 @@ X. Elaborar recursos didácticos para promover la cultura de seguridad pública;
 
 XI. Apoyar las acciones preventivas de los municipios, dando prioridad a los de mayor incidencia delictiva;
 
-XII. Estudiar y actualizar la normatividad en materia de seguridad pública;
+XII. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2010)
 
-XIII. Proponer la normatividad para el establecimiento del servicio policial de carrera;
+XIII. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 XIV. Elaborar y poner a consideración de la superioridad, los acuerdos y convenios que se celebren en materia de prevención;
 
@@ -749,9 +865,11 @@ XV. Levantar las actas de las reuniones sobre prevención del delito, que sean c
 
 XVI. Llevar un registro y dar seguimiento a los acuerdos que se toman en materia de prevención en los que participe personal de la Secretaria de Seguridad Pública;
 
-XVII. Dar trámite a todos los asuntos de carácter legal en que se involucre a la Secretaria de Seguridad Pública; y,
+XVII. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 XVIII. Las demás que le confieran las leyes, decretos, reglamentos, convenios, circulares, acuerdos o que expresamente le encomienden el Gobernador del Estado, el Secretario o el Subsecretario del ramo.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -763,7 +881,7 @@ Departamento de Política Criminal
 
 Departamento de Promoción y Difusión
 
-Departamento de Normatividad
+#### SECCIÓN II. DE LA DIRECCIÓN DE COORDINACIÓN CON ORGANISMOS FEDERALES, ESTATALES Y MUNICIPALES
 
 ###### Artículo 27.
 
@@ -798,6 +916,10 @@ Para el despacho de los asuntos de su competencia, la Dirección de Coordinació
 Departamento del Registro Estatal de Servicios Policiales
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 15 DE FEBRERO DE 2008)</small>
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 28 Bis 1.
 
@@ -896,3 +1018,7 @@ Artículo Único. El presente Decreto entrará en vigor el día siguiente de su 
 P.O. 15 DE FEBRERO DE 2008.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE SEPTIEMBRE DE 2010.
+
+Artículo Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
