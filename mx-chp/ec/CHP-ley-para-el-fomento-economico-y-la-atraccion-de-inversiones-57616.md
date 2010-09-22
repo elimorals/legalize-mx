@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-el-fomento-economico-y-la-atraccion-de-inversiones-576
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2007-11-07"
+last_updated: "2010-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY PARA EL FOMENTO ECONOMICO Y LA ATRACCION DE INVERSIONES EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 3 de octubre de 2007.
 
@@ -43,37 +43,41 @@ Ley para el Fomento Económico y la Atracción de Inversiones en el Estado de Ch
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público e interés social, y de observancia general en todo el Estado de Chiapas, y tiene por objeto promover, fomentar, atraer y estimular todo tipo de inversiones a través del otorgamiento de apoyos, incentivos y estímulos, que generen más y mejores empleos.
+La presente Ley es de orden público e interés social, y de observancia general en todo el Estado de Chiapas, y tiene por objeto promover, fomentar, atraer y estimular todo tipo de inversiones a través del otorgamiento de apoyos, incentivos y estímulos, que generen más y mejores empleos dignos y productivos para combatir la pobreza, promover la igualdad de género, así mismo evaluar el desarrollo social y verificar si se cumplen con los Objetivos de Desarrollo del Milenio del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
 
 El Ejecutivo del Estado emitirá el reglamento de esta Ley, con base en los principios contenidos en la misma.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2°.
 
-La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por conducto de las Secretarías de Turismo y Proyectos Estratégicos, y de la Secretaría de Economía, así como a los Ayuntamientos dentro del ámbito de sus respectivas competencias, en coordinación con el sector privado.
+La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por conducto de las Secretarías de Turismo y de Economía, así como a los Ayuntamientos dentro del ámbito de sus respectivas competencias, en coordinación con el sector privado.
 
-Para efectos de lo previsto en el párrafo anterior, la Secretaría de Turismo y Proyectos Estratégicos; así como la Secretaría de Economía se coordinarán con las demás Dependencias del Estado y Entidades Paraestatales, cuyas atribuciones incidan en el cumplimiento del objeto de esta Ley.
+Para efectos de lo previsto en el párrafo anterior, la Secretaría de Turismo; así como la Secretaría de Economía se coordinarán con las demás Dependencias del Estado y Entidades Paraestatales, cuyas atribuciones incidan en el cumplimiento del objeto de esta Ley.
 
-La Secretaría de Turismo y Proyectos Estratégicos; así como la Secretaría de Economía en el ámbito de su competencia, se encuentran facultadas para interpretar esta Ley y su Reglamento, así como para emitir las disposiciones de carácter general que resulten necesarias para su adecuado cumplimiento, mismas que deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+La Secretaría de Turismo, así como la Secretaría de Economía, en el ámbito de su competencia, se encuentran facultadas para interpretar esta Ley y su Reglamento, así como para emitir las disposiciones de carácter general que resulten necesarias para su adecuado cumplimiento, mismas que deberán publicarse en el Periódico Oficial.
 
 ###### Artículo 3°.
 
 Para los efectos de lo establecido en esta Ley, se entenderá por:
 
-I.- Ejecutivo del Estado: El Gobernador Constitucional del Estado de Chiapas;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+I.- Ejecutivo del Estado: Al Gobernador del Estado de Chiapas.
 
-II.- SETPE: La Secretaría de Turismo y Proyectos Estratégicos;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+II.- SET: A la Secretaría de Turismo.
 
-III.- SE: La Secretaría de Economía;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+III.- SE: A la Secretaría de Economía.
 
 IV.- Ley: La Ley para el Fomento Económico y la Atracción de Inversiones en el Estado de Chiapas;
 
@@ -101,11 +105,23 @@ I. Establecer:
 
 a) Estrategias y programas específicos para el fomento y desarrollo económico equilibrado, la atracción de inversiones, el desarrollo empresarial y un Chiapas competitivo;
 
-b) Las bases que aseguren la congruencia de las políticas estatales de fomento económico y desarrollo con los instrumentos vigentes a nivel federal y municipal en la materia, así como con las tendencias internacionales;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+b) Las bases que aseguren la congruencia de las políticas estatales de fomento económico y desarrollo con los instrumentos vigentes a nivel federal y municipal en la materia, así como con las tendencias internacionales y los Objetivos de Desarrollo del Milenio del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas.
 
 c) Los instrumentos que aseguren la congruencia de las políticas de fomento económico y atracción de inversiones, con las políticas hacendarias y financieras del Estado; y,
 
-d) Las demás acciones que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+d) Promover el establecimiento de indicadores que permitan evaluar las políticas públicas en materia de desarrollo social apegándose a los Objetivos de Desarrollo del Milenio del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+e) Elaborar, promover proyectos o programas que se encuentren relacionados con estas políticas públicas para el cumplimiento de metas y objetivos, conforme a los Objetivos de Desarrollo del Milenio del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+f) Las demás acciones que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
 
 I. Propiciar:
 
@@ -123,7 +139,9 @@ e) Un marco jurídico que aliente y consolide la inversión;
 
 f) La incorporación al mercado laboral de personas adultas mayores y personas con capacidades diferentes, así como el reconocimiento de aquellas empresas que participen en los programas que para tal efecto se establezcan;
 
-g) El desarrollo de infraestructura, servicios y demás condiciones necesarias, que faciliten la creación, expansión y modernización de la planta productiva:
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+g) El desarrollo de infraestructura, servicios y demás condiciones necesarias, que faciliten la creación, expansión y modernización de la planta productiva, alentando su instalación en los Municipios con menor índice de desarrollo humano, para generar una alternativa de progreso y dar cumplimiento con los Objetivos de Desarrollo del Milenio del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas.
 
 h) Las actividades productivas que generen mayor valor agregado en los productos y servicios de las empresas;
 
@@ -145,6 +163,10 @@ o) La preservación y restauración del equilibrio ecológico, así como la prev
 
 p) Las demás acciones que sean necesarias para el cumplimiento del objeto y fines propuestos en la Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+q) Impulsar el desarrollo de empresas sociales en localidades con menor índice de desarrollo humano por parte de sus habitantes, para generar una alternativa de progreso y dar cumplimiento con los Objetivos de Desarrollo del Milenio del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas.
+
 ###### Artículo 5°.
 
 El Ejecutivo del Estado por conducto de la Secretaría y los Ayuntamientos, acordarán las bases de coordinación para la realización de acciones conjuntas en materia de fomento económico y atracción de inversiones, mismas que deberán estar alineadas a lo establecido en la presente Ley y tomarán en cuenta las opiniones que a este respecto emita el Consejo.
@@ -161,13 +183,15 @@ El Consejo estará integrado de manera permanente por:
 
 I.- El Ejecutivo del Estado, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-II.- El Secretario de Turismo y Proyectos Estratégicos, quien fungirá como Secretario Ejecutivo;
+II. El Secretario de Turismo, quien fungirá como Secretario Ejecutivo.
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+Fungirán como vocales:
 
-III.- El Secretario de Economía;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+III. El Secretario de Economía.
 
 IV.- El Secretario de Planeación y Desarrollo Sustentable;
 
@@ -197,9 +221,9 @@ Son funciones del Consejo:
 
 I. Proponer tomando en cuenta los parámetros señalados en el Reglamento los sectores prioritarios y estratégicos, así como las regiones en las cuales se debe impulsar la actividad económica del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-II. Proponer a la SETPE y a la SE, así como a las instancias correspondientes, los incentivos y beneficios que deban otorgarse a las distintas actividades productivas, así como sus montos, plazos, términos y condiciones;
+II. Proponer a la SET y a la SE, así como a las instancias correspondientes, los incentivos y beneficios que deban otorgarse a las distintas actividades productivas, así como sus montos, plazos, términos y condiciones;
 
 III. Analizar las solicitudes que para la obtención de incentivos presenten los particulares, y opinar sobre el otorgamiento o rechazo de los mismos;
 
@@ -251,7 +275,9 @@ f) La realización de inversiones para solucionar problemas relacionados con la 
 
 g) Requerimientos de Infraestructura y consumos de servicios públicos.
 
-h) Empleo de adultos mayores y personas con capacidades diferentes.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+h) Empleo de adultos mayores, mujeres, jóvenes y personas con capacidades diferentes.
 
 i) Prioridades estatales.
 
@@ -262,6 +288,10 @@ k) Desarrollo tecnológico.
 l) Fortalecimiento e integración de cadenas productivas nacionales y regionales.
 
 m) La sustitución de importaciones mediante el consumo de insumos, componentes, servicios o productos de origen nacional y local.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+n) Preferencia a empresas generadoras de empleo que se instalen en Municipios y localidades con menor índice de desarrollo humano.
 
 ###### Artículo 16.
 
@@ -311,11 +341,11 @@ Dichos convenios se tomarán de común acuerdo con el Consejo Estatal de Notario
 
 El Ejecutivo Estatal expedirá los ordenamientos jurídicos que considere pertinentes para otorgar los incentivos que puedan atraer las inversiones que requiera el Estado para su desarrollo económico, tomando como base las propuestas hechas por el Consejo Consultivo de acuerdo a las facultades que le han sido conferidas en esta materia en el artículo 10, de la presente Ley.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
-La SETPE asignará una ventanilla a través de los diversos CEDE-e, para la atención, recepción e información de incentivos y beneficios, así como para informar su situación ante el Consejo y la resolución que éste adopte.
+La SET asignará una ventanilla a través de los diversos Centros Chiapas Emprende para la atención, recepción e información de incentivos y beneficios, así como para informar su situación ante el Consejo y la resolución que éste adopte.
 
 ### Capítulo IV. Registro Empresarial
 
@@ -323,93 +353,53 @@ La SETPE asignará una ventanilla a través de los diversos CEDE-e, para la aten
 
 En el Registro Empresarial del Estado quedarán inscritas las empresas que pretendan acceder a los estímulos y beneficios que se establecen en la presente Ley, por lo que la inscripción será estrictamente voluntaria en los términos que fije el Reglamento.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-El Registro Empresarial del Estado quedará a cargo de la SETPE.
+El Registro Empresarial del Estado quedará a cargo de la SE.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 21.
 
-Las empresas inscritas en el Registro quedan obligadas a citar la clave de registro que les corresponda, en todos los trámites que realicen ante la SETPE.
+Las empresas inscritas en el Registro quedan obligadas a citar la clave de registro que les corresponda, en todos los trámites que realicen ante la SET.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 22.
 
-La SETPE, en el ámbito de su competencia, entregará a la empresa, el certificado de registro correspondiente.
+La SE, en el ámbito de su competencia, entregará a la empresa, el certificado de registro correspondiente.
 
 La inscripción, modificación, refrendo o cancelación del Registro Empresarial Chiapaneco serán gratuitos.
 
 ### Capítulo V. Sistema de Información Económica
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
 ###### Artículo 23.
 
-La SETPE tendrá a su cargo el Sistema de Información Económico Estratégica del Estado de Chiapas, el cual presentará en forma oportuna los datos agregados disponibles para que los agentes económicos del Estado efectúen la planeación de sus actividades, realicen las acciones que determinen y evalúen los resultados obtenidos.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
-El Sistema de Información, tendrá las siguientes facultades:
-
-I. Diseñar y realizar los programas necesarios para la recolección, validación, captura, procesamiento, presentación y análisis, de la información económica del Estado, que tenga que ver con el fomento económico y la atracción de inversiones; para ello:
-
-a) Tendrá funciones normativas y técnicas en la generación de la información que se derive del desempeño de la administración pública del Estado; y,
-
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
-b) Observará la normatividad vigente a nivel nacional en materia de información económica para generar información estratégica sobre el Estado.
-
-II. Promover la participación de los sectores público, privado y social para determinar la información que se recolectará y presentará a los agentes económicos del Estado;
-
-III. Elaborar las normas técnicas y procedimientos a los que deberá sujetarse la recolección, validación, captura, procesamiento, presentación y análisis de la información económica;
-
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
-IV. Elaborar directorios y censos empresariales y otros relacionados con las actividades económicas y estratégicas;
-
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
-V. Realizar estudios de diagnóstico e investigación para el desarrollo de corredores económicos;
-
-VI. Promover la realización de estudios e investigaciones económicas del territorio estatal;
-
-VII. Establecer vínculos con otros sistemas o centros de información del país;
-
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
-VIII. Organizar y participar en cursos, conferencias y otros actos de difusión y capacitación en materia de información económico-estratégica, a efecto de mejorar el Sistema; y,
-
-IX. Divulgar la información económica disponible a través de medios electrónicos, impresos o magnéticos, haciéndose mención de la fuente de información para darle el crédito a quien la presenta, o proporciona.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
-La SE tendrá a su cargo un sistema de información económica que se encargará de recabar información destinada al sector público y privado para la toma de decisiones en materia de atracción de inversiones, comercio y mejora regulatoria.
-
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 24.
 
-Las dependencias y entidades de la administración pública estatal vinculadas con la actividad económica, turística, de servicios e infraestructura, tendrán la obligación de facilitar los datos, reportes e informes que sean generados por las mismas y que estén relacionadas con el fomento económico y la atracción de inversiones; así como los que le sean requeridos por los Sistema de Información, SE y SETPE a fin de que la información del Estado pueda integrarse en forma oportuna fidedigna y completa, privilegiando siempre el acceso a la información pública y la transparencia, en términos de la legislación vigente en la materia.
+Las Dependencias y Entidades de la Administración Pública Estatal vinculadas con la actividad económica, turística, de servicios e infraestructura, tendrán la obligación de facilitar los datos, reportes e informes que sean generados por las mismas y que estén relacionadas con el fomento económico y la atracción de inversiones; así como los que le sean requeridos por los Sistemas de Información, SE y SET a fin de que la información del Estado pueda integrarse en forma oportuna, fidedigna y completa, privilegiando siempre el acceso a la información pública y la transparencia, en términos de la legislación vigente en la materia.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 25.
 
-La SETPE y la SE podrán celebrar convenios de coordinación y colaboración con entes públicos, dependencias y entidades del Gobierno Federal, de otras entidades federativas y de los municipios, así como con instituciones académicas y con los sectores privado y social, para promover su participación en la generación y difusión de la información económica de Chiapas.
+La SET y la SE podrán celebrar convenios de coordinación y colaboración con entes públicos, dependencias y entidades del Gobierno Federal, de otras entidades federativas y de los municipios, así como con instituciones académicas y con los sectores privado y social, para promover su participación en la generación y difusión de la información económica de Chiapas.
 
 ### Capítulo VI. Del Fondo
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
-El Gobierno del Estado a través de un fideicomiso, operado por la SETPE, dará atención de manera integral a la micro, pequeña, mediana y grande empresa de Chiapas, con capital, apoyos directos, créditos, capacitación y consultoría, de manera accesible, oportuna y competitiva.
+El Gobierno del Estado a través de un fideicomiso, operado por la Secretaría de Hacienda, dará atención de manera integral a la micro, pequeña, mediana y grande empresa de Chiapas, con capital, apoyos directos, créditos, capacitación y consultoría, de manera accesible, oportuna y competitiva.
 
 ###### Artículo 27.
 
-Para la obtención de créditos a la micro y pequeña empresa el Fideicomiso deberá resolver y en su caso autorizar los mismos, en un plazo no mayor a 8 días.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 28.
 
@@ -421,25 +411,21 @@ El Fideicomiso contará con un Director General a cargo de la operación del fon
 
 ### Capítulo VII. Modelo de Negocios
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
 ###### Artículo 30.
 
-El modelo de negocios será un programa dirigido y operado por la SETPE como medio para el fomento y la promoción de actividades industriales, comerciales y de servicios en apoyo a las micros (sic), pequeñas y medianas empresas.
-
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 31.
 
-La SETPE tendrá la titularidad de los derechos sobre todos aquellos manuales y marcas que sirvan como fundamento para el desarrollo del modelo de negocios y podrá celebrar con las micro, pequeñas y medianas empresas, contratos o convenios para el uso y aplicación de manuales y marcas propiedad de la SETPE; el reglamento señalará las bases para la celebración de los mismos.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 ### Capítulo VIII. De los Promotores Económicos
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 32.
 
-Para la atracción de inversiones estratégicas en el Estado, se le otorgará al promotor un porcentaje cuyo monto será determinado por el reglamento el cual equivaldrá a una parte del valor económico del estímulo otorgado por el Estado a los inversionistas, dicho porcentaje será otorgado a través de la SETPE.
+Para la atracción de inversiones estratégicas en el Estado, se le otorgará al promotor un porcentaje cuyo monto será determinado por el reglamento el cual equivaldrá a una parte del valor económico del estímulo otorgado por el Estado a los inversionistas, dicho porcentaje será otorgado a través de la SET.
 
 ###### Artículo 33.
 
@@ -447,57 +433,35 @@ El Reglamento definirá aquellas inversiones consideradas como estratégicas y e
 
 ### Capítulo IX. De la Mejora Regulatoria
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
 ###### Artículo 34.
 
-El Ejecutivo del Estado deberá elaborar, a través de la SE el Programa de Mejora Regulatoria, que tendrá por objeto promover el crecimiento económico, la competitividad empresarial, el bienestar de los consumidores y mejorar la eficacia de los gobiernos estatal y municipales, mediante la revisión y adecuación de sus marcos normativos para la simplificación de trámites, reducción de requisitos y tiempos de respuesta relacionados con el establecimiento, ampliación y operación de industrias, comercios y empresas de servicios, a fin de propiciar que el sector productivo alcance los niveles de competitividad exigidos por los mercados nacionales e internacionales.
-
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 35.
 
-Corresponderá a la SE la coordinación y vigilancia del Programa de Mejora Regulatoria. Para tal efecto y en los términos que disponga el propio Programa, establecerá los mecanismos necesarios para que las dependencias y entidades estatales y municipales lleven a cabo la simplificación administrativa y mejora regulatoria para lograr la homologación de trámites, requisitos y plazos, y así como de todos aquellos mecanismos necesarios para que el estado y sus municipios se constituyan en lugares competitivos que cuenten con óptimas condiciones para el establecimiento de industrias, comercios y empresas de servicios.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 36.
 
-El plazo para la apertura de una empresa en el Estado de Chiapas no podrá exceder los 30 días naturales, a partir de que se entreguen todos los documentos debidamente requisitados en los CEDE-e, estos trámites incluyen la obtención de todos los permisos y licencias necesarios y el cumplimiento de todas las inscripciones, verificaciones y notificaciones requeridas ante todas las autoridades pertinentes, tanto estatales como municipales, para que la empresa pueda iniciar sus operaciones.
+El plazo para la apertura de una empresa en el Estado de Chiapas no podrá exceder los 30 días naturales, a partir de que se entreguen todos los documentos debidamente requisitados en los Centros Chiapas Emprende, estos trámites incluyen la obtención de todos los permisos y licencias necesarios y el cumplimiento de todas las inscripciones, verificaciones y notificaciones requeridas ante todas las autoridades pertinentes, tanto estatales como municipales, para que la empresa pueda iniciar sus operaciones.
 
-Para tal efecto la SE celebrará convenios con las diversas dependencias, entidades de la administración pública estatal; así como con los ayuntamientos para que los trámites respectivos sean iniciados en las ventanillas únicas de los CEDE-e que se ubiquen en las distintas regiones del Estado.
+Para tal efecto la SE celebrará convenios con las diversas Dependencias, Entidades de la administración pública estatal; así como con los Ayuntamientos para que los trámites respectivos sean iniciados en las ventanillas únicas de los Centros Chiapas Emprende que se ubiquen en las distintas regiones del Estado.
 
 ###### Artículo 37.
 
 Los titulares de las Dependencias y de las Entidades de la Administración Pública Estatal y Municipal podrán, mediante acuerdos generales suscritos por el Ejecutivo del Estado mismos que serán publicados en el Periódico Oficial del Estado e inscritos en el Registro Empresarial, establecer plazos de respuesta menores, dentro de los máximos previstos en leyes o reglamentos y no exigir la presentación de datos y documentos contemplados en las disposiciones mencionadas, cuando puedan obtener por otra vía la información correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
-
 ###### Artículo 38.
 
-Corresponde a la SE llevar a cabo las medidas y políticas necesarias para la Desregulación Económica y Simplificación Administrativa, a través de las siguientes acciones:
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2010)
 
-I.- Coordinar la desregulación económica;
-
-II.- Fijar calendario para la entrega de información por parte de las dependencias;
-
-III.- Revisar y, en su caso aprobar los requisitos y trámites que las dependencias, entidades estatales y municipales exigen para la apertura de empresas, en los términos de las disposiciones administrativas y legales respectivas; dicha actividad se llevará a cabo a través de los diversos CEDE-e con los que cuente la Secretaría.
-
-IV.- Formular propuestas de nuevas reformas jurídicas ante las dependencias estatales y municipales en esta materia;
-
-V.- Promover la celebración de acuerdos entre los Gobiernos Federal, Estatal y Municipales, para desregular la actividad económica en sus respectivos ámbitos de competencia;
-
-VI.- Promover la concertación de acciones en los sectores social y privado, con el objeto de identificar aquellas medidas que permitan mejorar el marco regulatorio;
-
-VII.- Promover el desarrollo de medidas y sistemas para facilitar la apertura de empresas;
-
-VIII.- Proponer medidas para brindar mayor transparencia y eficiencia a las labores de inspección y verificación de las actividades productivas que realicen las autoridades estatales y municipales.
-
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 39.
 
-La SETPE, en apoyo a las empresas, establecerá Centros de Desarrollo Empresarial y Empleo, CEDE-e, como instancia de gestión de trámites administrativos; así como de servicios que provea la misma.
+La SE, en apoyo a las empresas, establecerá Centros de Desarrollo Empresarial; Centros Chiapas Emprende, como instancia de gestión de trámites administrativos; así como de servicios que provea la misma.
 
 ### Capítulo X. Del Fomento a la Competitividad y el Desarrollo Económico en el Ámbito Municipal
 
@@ -517,13 +481,13 @@ V. Las demás disposiciones que consideren necesarias para lograr el cumplimient
 
 ### Capítulo XI. De las Visitas de Verificación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 41.
 
-Tratándose de los incentivos fiscales otorgados a los inversionistas o empresarios, la Secretaría de Finanzas podrá realizar a éstos visitas de inspección o verificación, en los términos previstos en las disposiciones legales y reglamentarias fiscales. En el caso de incentivos no fiscales otorgados a los inversionistas o empresarios, la SETPE y la SE en el ámbito de su competencia podrán realizar a éstos visitas de inspección o verificación en los términos de esta ley.
+Tratándose de los incentivos fiscales otorgados a los inversionistas o empresarios, la Secretaría de Hacienda podrá realizar a éstos visitas de inspección o verificación, en los términos previstos en las disposiciones legales y reglamentarias fiscales. En el caso de incentivos no fiscales otorgados a los inversionistas o empresarios, la SE y la SET en el ámbito de su competencia podrán realizar a éstos visitas de inspección o verificación en los términos de esta ley.
 
-Los ayuntamientos, en el ámbito de su competencia, podrán realizar visitas de verificación a los inversionistas o empresarios a los que les hubieren otorgado alguno de los incentivos a que se refiere esta ley.
+Los Ayuntamientos, en el ámbito de su competencia, podrán realizar visitas de verificación a los inversionistas o empresarios a los que les hubieren otorgado alguno de los incentivos a que se refiere esta ley.
 
 Las visitas de inspección o verificación que realicen las autoridades antes mencionadas, tendrán por objeto comprobar la permanencia de las condiciones y los requisitos legales, así como el cumplimiento de compromisos que se consideraron para el otorgamiento de los incentivos.
 
@@ -595,11 +559,11 @@ Los empleados y funcionarios que no cumplan con eficacia y diligencia las obliga
 
 ### Capítulo XIII. De los Recursos
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 52.
 
-Contra las resoluciones administrativas que dicten la SETPE y la SE, en aplicación de esta Ley y demás disposiciones derivadas de ella, procede el recurso de revocación, el cual será optativo conforme a la Ley de Justicia Administrativa del Estado de Chiapas, y se presentará por escrito ante la propia autoridad responsable, dentro del término de 15 días hábiles siguientes a la fecha de notificación de la resolución.
+Contra las resoluciones administrativas que dicten la SET y la SE, en aplicación de esta Ley y demás disposiciones derivadas de ella, procede el recurso de revocación, el cual será optativo conforme a la Ley de Procedimientos Administrativos del Estado de Chiapas y se presentará por escrito ante la propia autoridad responsable, dentro del término de 15 días hábiles siguientes a la fecha de notificación de la resolución.
 
 ###### Artículo 53.
 
@@ -644,3 +608,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- La SETPE, dentro de un término no mayor a sesenta días hábiles, contados a partir de la publicación del presente Decreto, deberá someter a consideración del Ejecutivo del Estado, el proyecto de reglamento de la Ley para el Fomento Económico y la Atracción de Inversiones en el Estado de Chiapas, para su aprobación, expedición y publicación correspondientes.
+
+P.O. 22 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan al presente Decreto.
