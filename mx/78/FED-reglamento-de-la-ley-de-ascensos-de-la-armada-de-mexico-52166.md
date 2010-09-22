@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ascensos-de-la-armada-de-mexico-52166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-09"
-last_updated: "2006-11-09"
+last_updated: "2010-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52166&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-31"
 
 REGLAMENTO DE LA LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -41,71 +41,65 @@ El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Le
 
 ###### Artículo 2.
 
-Los ascensos se otorgarán a:
-
-I. Almirantes, Capitanes y Oficiales, cuando lo autorice el Mando Supremo y el Alto Mando, según corresponda, y
-
-II. Clases y Marinería cuando lo autorice el Alto Mando.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 3.
 
-Los Mandos facultados para ascender al personal naval en los términos que establece la Ley de Ascensos de la Armada de México son:
-
-I. Mando Supremo;
-
-II. Alto Mando, y
-
-III. Mandos Superiores en Jefe y Mandos Superiores, previo acuerdo del Alto Mando.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 4.
 
-Los órganos asesores establecidos en el artículo 14 de la Ley de Ascensos de la Armada de México que auxiliarán al Alto Mando en la planeación y ejecución de la Promoción General a que se refiere este Reglamento, son:
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-I. Consejo del Almirantazgo;
-
-II. Estado Mayor General de la Armada, y
-
-III. Comisión Coordinadora para Ascensos.
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 5.
 
 Para efectos de lo establecido en el presente Reglamento, se entenderá como:
 
-I. Comisión Coordinadora: Comisión Coordinadora para Ascensos;
+I. Alto Mando: Secretario de Marina;
 
-II. Comisión Local: Comisión que con carácter temporal, se integra en las jurisdicciones de los Mandos Navales, para proporcionar apoyo a la Comisión Coordinadora durante la promoción;
+II. Comisión Coordinadora: Comisión Coordinadora para Ascensos;
 
-III. Concurso de Selección: Actividad que comprende el desarrollo y aplicación de exámenes para la selección, calificación y propuesta de ascenso del personal convocado;
+III. Comisión Local: Comisión que con carácter temporal, se integra en las jurisdicciones de los Mandos Navales, para proporcionar apoyo a la Comisión Coordinadora durante la promoción;
 
-IV. Direcciones Generales: Direcciones responsables de la administración de los recursos a nivel central de la Secretaría de Marina-Armada de México, de conformidad con los manuales correspondientes;
+IV. Concurso de Selección: Actividad que comprende el desarrollo y aplicación de exámenes para la selección, calificación y propuesta de ascenso del personal convocado;
 
-V. Directiva de Promoción: Documento emitido por el Alto Mando que tiene por objeto establecer los principales lineamientos para el desarrollo de la Promoción General;
+V. Direcciones Generales: Direcciones responsables de la administración de los recursos a nivel central de la Secretaría de Marina-Armada de México, de conformidad con los manuales correspondientes;
 
-VI. Escalafón: El registro que ordena por Cuerpo y Servicio al personal naval, según su jerarquía y antigüedad durante su permanencia en el servicio activo, de conformidad con lo dispuesto en la Ley Orgánica de la Armada de México;
+VI. Directiva de Promoción: Documento emitido por el Alto Mando que tiene por objeto establecer los principales lineamientos para el desarrollo de la Promoción General;
 
-VII. Estado Mayor: Estado Mayor General de la Armada;
+VII. Escalafón: El registro que ordena por Cuerpo y Servicio al personal naval, según su grado y antigüedad durante su permanencia en el servicio activo, de conformidad con lo dispuesto en la Ley Orgánica de la Armada de México;
 
-VIII. Institución: La Armada de México;
+VIII. Estado Mayor: Estado Mayor General de la Armada;
 
-IX. Ley: Ley de Ascensos de la Armada de México;
+IX. Institución: La Armada de México;
 
-X. Participante: El personal naval que es convocado a la Promoción General;
+X. Ley: Ley de Ascensos de la Armada de México;
 
-XI. Personal de Apoyo: Personal naval de las diferentes jerarquías de los cuerpos y servicios de la Armada de México, que asiste a las Comisiones Coordinadora y Locales;
+XI. Mando Supremo: Presidente de los Estados Unidos Mexicanos;
 
-XII. Presidente: Presidente de la Comisión Coordinadora para Ascensos;
+XII. Manual de Normas y Procedimientos: Manual de Normas y Procedimientos de la Comisión Coordinadora para Ascensos, expedido por el Alto Mando;
 
-XIII. Presidentes de Comisiones Locales: Mandos de la Región Naval Central, Zonas, Sectores y Subsectores Navales que se designen por el Alto Mando en la Directiva de Promoción;
+XIII. Oficialía Mayor: La Oficialía Mayor de la Secretaría de Marina;
 
-XIV. Promoción General: Procedimiento que la Institución establece cada año o cuando se ordene, para llevar a cabo el proceso para calificar, seleccionar, proponer y reunir elementos de juicio relativos al personal convocado para ascenso, según corresponda;
+XIV. Participante: El personal naval que es convocado a la Promoción General;
 
-XV. Renuncia: Es el acto por el cual el personal convocado a Promoción General manifiesta por escrito a su mando respectivo la decisión de no participar en la misma, y
+XV. Personal de Apoyo: Personal naval de los diferentes cuerpos y servicios de la Armada de México, que asiste a las Comisiones Coordinadora y Locales;
 
-XVI. Secretaría: La Secretaría de Marina.
+XVI. Presidente: Presidente de la Comisión Coordinadora para Ascensos;
+
+XVII. Presidentes de Comisiones Locales: Mandos de Regiones, Cuartel General del Alto Mando, Zonas y Sectores Navales, Agregados Navales y otros que por necesidades del servicio designe la Comisión Coordinadora;
+
+XVIII. Promoción General: Procedimiento que la Institución establece cada año o cuando se ordene, para llevar a cabo el proceso para calificar, seleccionar, proponer y reunir elementos de juicio relativos al personal convocado para ascenso, según corresponda;
+
+XIX. Renuncia: Es el acto por el cual el personal convocado a Promoción General manifiesta por escrito a su mando respectivo la decisión de no participar en la misma, y
+
+XX. Secretaría: La Secretaría de Marina.
 
 ###### Artículo 6.
 
-Ascenso es el acto mediante el cual el Mando promueve al militar en servicio activo al grado superior en el orden jerárquico, conforme a la Ley Orgánica de la Armada de México.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 7.
 
@@ -115,37 +109,43 @@ No se conferirá ascenso alguno sin vacante que lo motive, salvo en los casos pr
 
 La Promoción General, para su planeación y desarrollo, se realizará por:
 
-I. Órganos Asesores;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
-II. Comisión Coordinadora;
+I. Los órganos asesores a los que se refiere el artículo 14 de la Ley de Ascensos de la Armada de México;
 
-III. Comisiones Locales. En la Región Naval Central, así como en las Zonas, Sectores y Subsectores Navales que se determinen en apoyo, y
+II. (DEROGADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)
+
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+III. Comisiones Locales en las Regiones Navales, Cuartel General del Alto Mando, Zonas y Sectores Navales, Agregadurías Navales, y otros que se determinen en apoyo, y
 
 IV. Direcciones Generales de apoyo necesarias.
 
-Los órganos y unidades administrativas a que se refieren las fracciones anteriores contarán con los recursos necesarios para la correcta instrumentación de la Promoción General.
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+Los órganos, comisiones locales y unidades administrativas a que se refieren las fracciones anteriores, contarán con los recursos necesarios para la correcta instrumentación de la Promoción General.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 9.
 
-La Promoción General, para efectos de ejecución y en los términos de los artículos 2, 3 y 4 de la Ley, se subdividirá y denominará de la forma siguiente:
+La Promoción General, para efectos de ejecución y en los términos de los artículos 2, 3 y 4 de la Ley, se subdividirá en promoción para ascenso por facultad del Mando Supremo y promoción para ascenso por facultad del Alto Mando.
 
-I. Promoción para ascenso por facultad del Mando Supremo;
-
-II. Promoción para ascenso por facultad del Alto Mando, y
-
-III. Promoción para ascenso por Mandos Superiores en Jefe y Mandos Superiores, previo acuerdo del Alto Mando.
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 10.
 
-La promoción para ascenso por facultad del Mando Supremo será aplicada al personal convocado en las jerarquías de Capitanes de Fragata a Vicealmirantes.
+La promoción para ascenso por facultad del Mando Supremo será aplicada al personal convocado en los grados de Capitán de Fragata a Vicealmirante.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
-La promoción para ascenso por facultad del Alto Mando será aplicada al personal convocado en las jerarquías de Marinero a Capitán de Corbeta.
+La promoción para ascenso por facultad del Alto Mando será aplicada al personal convocado en los grados de Marinero a Capitán de Corbeta.
 
 ###### Artículo 12.
 
-La promoción a que se refiere la fracción III, del artículo 9 de este Reglamento, será aplicada al personal que propongan los Mandos Superiores en Jefe o Mandos Superiores, previo acuerdo del Alto Mando, y deberá ajustarse al procedimiento que se establece en el Título Cuarto, Capítulo II, del presente ordenamiento.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 13.
 
@@ -157,13 +157,19 @@ II. Selección de personal;
 
 III. Comunicación del listado del personal convocado;
 
-IV. Aplicación y evaluación de exámenes, así como valoración objetiva y apreciativa en los términos del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Recopilación, análisis e integración de la información que será presentada al Mando Supremo del personal convocado por facultad de éste. Asimismo la aplicación de los exámenes que contempla el concurso de selección para el personal convocado por facultad del Alto Mando, en los términos legales, reglamentarios y demás disposiciones aplicables;
 
 V. Orden de prelación o lista, según corresponda;
 
-VI. Comunicación de resultados, y
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
-VII. Otorgamiento y comunicación de ascensos.
+VI. Comunicación de resultados de los exámenes, y
+
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Comunicación de ascensos.
 
 ###### Artículo 14.
 
@@ -173,21 +179,21 @@ Para la ejecución descentralizada de la promoción para ascensos por facultad d
 
 El Alto Mando emitirá la Directiva de la Promoción y ordenará la formulación de documentos, publicaciones, manuales y lineamientos necesarios para su correcta ejecución.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
-En la Promoción General se ponderarán con mayor valor los conceptos de mérito, aptitud y competencia profesional, en los términos que establece el presente Reglamento.
+La Promoción General deberá atender los conceptos que se establecen en los artículos 18 y 34 de la Ley, en los términos que se prevén en dicha Ley, lo dispuesto por el presente Reglamento y demás disposiciones aplicables.
 
 ## TÍTULO SEGUNDO. ORGANIZACIÓN
 
-### CAPÍTULO ÚNICO. Del Consejo del Almirantazgo, Comisión Coordinadora y Comisiones Locales
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO ÚNICO. De la Comisión Coordinadora y las Comisiones Locales
 
 ###### Artículo 17.
 
-El Consejo del Almirantazgo se integrará a convocatoria del Alto Mando para realizar la valoración apreciativa en la promoción para ascenso por facultad del Mando Supremo, en las siguientes modalidades:
-
-I. Reducido, para personal de Vicealmirantes convocados para ascender a Almirantes, y
-
-II. Ampliado, para personal de Capitanes de Fragata a Contralmirantes convocados para ascenso.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 18.
 
@@ -207,23 +213,35 @@ Las Comisiones Locales, se integrarán con:
 
 I. Presidente: Mando Naval correspondiente;
 
-II. Vocales: Los que se consideren necesarios; cuando menos el Jefe de Estado Mayor o Jefes de Grupo de Comando, así como los Jefes de Sección y Subsección de Estado Mayor y los Capitanes u Oficiales Núcleo que se requieran;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+II. Vocales: El Jefe de Estado Mayor o Jefe de Grupo de Comando, así como los Jefes de Sección y Subsección de Estado Mayor y los Capitanes u Oficiales Núcleo que se requieran;
 
 III. Secretario Técnico: El que designe el Presidente, y
 
 IV. Personal de Apoyo: El que las Comisiones consideren necesario.
 
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+En las Agregadurías Navales, el Presidente será el Agregado Naval acreditado en cada país.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 20.
 
-Los Capitanes y Oficiales convocados a la promoción no deberán designarse para fungir como vocales o secretarios técnicos en la Comisión Coordinadora o en las Comisiones Locales.
+Los Capitanes y Oficiales convocados a la promoción para ascensos por facultad del Alto Mando, no deberán designarse para fungir como vocales, secretarios técnicos o personal de apoyo en la Comisión Coordinadora o en las Comisiones Locales.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 21.
 
-Los integrantes de la Comisión Coordinadora y de las Comisiones Locales desempeñarán las funciones establecidas en el presente ordenamiento, sin perjuicio de sus comisiones y cargos.
+Los integrantes de la Comisión Coordinadora y de las Comisiones Locales desempeñarán las funciones establecidas en el presente ordenamiento y las que de éste se deriven, sin perjuicio de sus comisiones y cargos.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 22.
 
-La Comisión Coordinadora y las Comisiones Locales, para su organización y funcionamiento, se sujetarán al manual de organización, funciones y procedimientos que para tal efecto se autorice.
+La Comisión Coordinadora y las Comisiones Locales, para su organización y funcionamiento, se sujetarán al Manual de Normas y Procedimientos.
 
 ## TÍTULO TERCERO. ATRIBUCIONES Y OBLIGACIONES
 
@@ -239,27 +257,33 @@ I. Emitir la Directiva de Promoción correspondiente;
 
 II. Someter a acuerdo del Mando Supremo las vacantes existentes, así como al personal que será convocado;
 
-III. Presidir el Consejo del Almirantazgo, para la valoración apreciativa del personal en la promoción para ascenso por facultad del Mando Supremo;
+III. (DEROGADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 IV. Acordar con el Mando Supremo los ascensos, y
 
 V. Por conducto de la Oficialía Mayor, comunicar los ascensos conferidos al personal naval.
 
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 #### SECCIÓN SEGUNDA. Del Consejo del Almirantazgo
 
 ###### Artículo 24.
 
-Son atribuciones del Consejo del Almirantazgo asesorar al Alto Mando durante la evaluación del personal convocado en la Promoción General, así como realizar la valoración apreciativa en los términos de la Ley y el presente Reglamento.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 25.
 
-Es atribución del Consejo del Almirantazgo, en su modalidad de Reducido, conocer y resolver las inconformidades que presenten los recurrentes en contra de la resolución que emita la Junta Naval.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-#### SECCIÓN TERCERA. Del Jefe de Estado Mayor
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+#### SECCIÓN TERCERA. Del Estado Mayor
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
-Son atribuciones del Jefe de Estado Mayor:
+Son atribuciones del Estado Mayor:
 
 I. Dirigir y supervisar el proceso de la Promoción General;
 
@@ -267,9 +291,13 @@ II. Determinar, en coordinación con la Oficialía Mayor, las vacantes orgánica
 
 III. Integrar, en coordinación con la Oficialía Mayor, los listados del personal convocado;
 
-IV. Auxiliar al Alto Mando, al Consejo del Almirantazgo y a la Comisión Coordinadora, en la integración de expedientes y elementos de juicio relativos al personal convocado;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
-V. Formular la valoración objetiva de la trayectoria profesional del personal convocado a la promoción para ascenso por facultad del Mando Supremo;
+IV. Auxiliar al Alto Mando y a la Comisión Coordinadora, en la integración de expedientes y elementos de juicio relativos al personal convocado;
+
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+V. Integrar la información del personal convocado a la promoción para ascenso por facultad del Mando Supremo, en base a los conceptos establecidos en el artículo 18 de la Ley;
 
 VI. Consolidar los resultados de la Promoción General;
 
@@ -285,7 +313,9 @@ La Comisión Coordinadora seleccionará y calificará al personal convocado desd
 
 I. Formular y someter a aprobación del Alto Mando la planeación del concurso de selección y desarrollo del mismo, conforme a las disposiciones aplicables;
 
-II. Determinar y coordinar los recursos necesarios;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+II. Determinar y coordinar los recursos humanos y materiales necesarios;
 
 III. Coordinar la integración, control y custodia de la información relativa al concurso de selección;
 
@@ -305,7 +335,9 @@ Son atribuciones de las Comisiones Locales, en el ámbito de sus respectivas com
 
 I. Coordinar, conducir y supervisar el desarrollo de la promoción, conforme a las disposiciones aplicables;
 
-II. Determinar y coordinar los recursos necesarios;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+II. Determinar y coordinar los recursos humanos y materiales necesarios;
 
 III. Coordinar la integración, control y custodia de la información relativa al concurso de selección;
 
@@ -323,7 +355,9 @@ I. Conducirse con apego a la Ética Naval;
 
 II. Enterarse y mantenerse informado de los requisitos, programas y evaluaciones a que quedará sujeto durante la promoción, y
 
-III. Informar oportunamente por los conductos regulares de las causales de origen médico, físico, disciplinario o jurídico-administrativo, de las que tenga conocimiento y no hayan sido registradas oficialmente, que le impidan participar en la promoción conforme a lo establecido en la Ley y el presente Reglamento.
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+III. Informar oportunamente por los conductos regulares a la Comisión Local de las causales de origen médico, físico, disciplinario o jurídico-administrativo, de las que tenga conocimiento y no hayan sido registradas oficialmente, que le impidan participar en la promoción conforme a lo establecido en la Ley y el presente Reglamento.
 
 ## TÍTULO CUARTO. RÉGIMEN DE LOS ASCENSOS EN TIEMPO DE PAZ
 
@@ -357,209 +391,143 @@ I. La relación del personal convocado;
 
 II. El número de vacantes a cubrir;
 
-III. El programa de evaluación médica y de idioma;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Las directivas para la valoración objetiva de los participantes;
+III. El programa de evaluación médica y de idioma, y
 
-V. Las directivas y programa de valoración apreciativa por el Consejo del Almirantazgo, y
+IV. (DEROGADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)
+
+V. (DEROGADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 VI. Los demás aspectos que se ordenen.
 
-#### SECCIÓN SEGUNDA. De la Valoración Objetiva
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+#### SECCIÓN SEGUNDA. De la Integración de la Información
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 33.
 
-La valoración objetiva de la trayectoria profesional tiene por objeto calificar a los participantes, atendiendo a los conceptos establecidos en la Ley y su formulación será responsabilidad del Estado Mayor.
+La información del personal convocado para ascenso estará integrada atendiendo a los conceptos establecidos en la Ley y tiene por objeto dotar al Mando Supremo de los elementos de juicio que le permitan determinar que personal será ascendido al grado inmediato. Su formulación será responsabilidad del Estado Mayor.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 34.
 
-La valoración objetiva que formule el Estado Mayor tendrá como sustento la información del participante en los registros oficiales, desde su egreso de las escuelas de formación de la Institución o de otras escuelas de estudios superiores del país, así como la que se formule o se genere con motivo de su participación en la promoción.
+El análisis e integración de la información que formule el Estado Mayor tendrá como sustento la documentación con que se cuente en los registros oficiales correspondientes al grado que actualmente ostente el participante.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 35.
 
-El Estado Mayor, con antelación suficiente, hará del conocimiento del participante la información con que cuenta en sus registros y que se empleará para llevar a cabo la valoración objetiva.
+El Estado Mayor, con antelación suficiente, hará del conocimiento del participante la información con que cuenta en sus registros y que se empleará para llevar a cabo el análisis e integración de la misma.
 
 ###### Artículo 36.
 
 El participante contará con 30 días naturales a partir de la fecha en que se le comunique la información citada en el artículo anterior, para manifestar por escrito sus observaciones, debiendo adjuntar la documentación comprobatoria. Vencido dicho plazo sin que haya formulado sus observaciones, se considerará como aceptada la información que le haya sido comunicada.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 37.
 
-La valoración objetiva comprenderá los conceptos siguientes:
+La información obtenida por el Estado Mayor para ser presentada al Mando Supremo comprenderá el tiempo en el grado del participante y estará integrada de la manera siguiente:
 
-I. Actuación profesional:
+I. Grado y nombre de convocado, fotografía y estado de salud de acuerdo al examen médico;
 
-a) Recompensas y Reconocimientos por actos meritorios;
+II. Mérito.- Estará compuesto por los tiempos en unidades operativas, administrativas, mando, dirección u otros cargos;
 
-b) Historial disciplinario;
+III. Aptitud y Competencia Profesional.- Será obtenida del total de las Hoja (sic) de Actuación, sin considerar el concepto de disciplina, cursos realizados en el grado actual y puntuación del idioma inglés, y
 
-c) Hojas de Actuación, y
-
-d) Opinión del Superior o Comandante.
-
-II. Trayectoria académica:
-
-a) Promedio de escuela de formación de la Institución o de otras escuelas de estudios superiores del país;
-
-b) Lugar ocupado al egresar de la escuela de formación;
-
-c) Cursos de postgrado;
-
-d) Demérito por ser convocado a cursos y no aprobar el examen de selección correspondiente, o haber causado baja por renuncia, insuficiencia académica o motivos disciplinarios, y
-
-e) Nivel de idioma inglés o alguna otra lengua extranjera, conforme a lo que establezca la Directiva de Promoción.
-
-III. Evaluación de potencial.
-
-IV. Tiempos de servicio:
-
-a) En el Servicio Activo en la Armada de México;
-
-b) En el grado;
-
-c) En unidades operativas;
-
-d) De operatividad, y
-
-e) Con mando.
+IV. Conducta.- Se obtendrá de la información contenida en las Hojas de actuación y en los registros oficiales correspondientes.
 
 ###### Artículo 38.
 
-La calificación de la actuación profesional se obtendrá por la suma algebraica de las calificaciones parciales de los rubros siguientes:
-
-I. Recompensas y reconocimientos por actos meritorios;
-
-(VEASE ARCHIVO ANEXO)
-
-Para efectos del presente Reglamento, se acreditará el reconocimiento mediante el documento en que conste el acto meritorio objeto del mismo.
-
-II. Para la calificación del historial disciplinario, se considerará que a todos los participantes en este rubro se le asignan 100 puntos, restando los puntos de demérito por cada día de arresto, amonestación o comparecencia ante organismo disciplinario con resultado de culpabilidad, o por haber estado sujeto a proceso penal con sentencia condenatoria, que obren en los registros oficiales del participante y conforme a las tablas siguientes:
-
-(VEASE ARCHIVO ANEXO)
-
-III. La puntuación por Hojas de Actuación quedará determinada por el promedio de la calificación final de las mismas en toda la trayectoria en el servicio naval. El Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos, y
-
-IV. La opinión del Superior o Comandante será formulada por el mando o autoridad naval al que se encuentra subordinado el participante, quien deberá conocer el desempeño de éste por lo menos durante tres meses. En caso de que el participante tenga menos de tres meses en su adscripción, se tomará en consideración la opinión del Superior o Comandante de la adscripción anterior.
-
-La opinión será recabada por conducto del Estado Mayor y se integrará por los rubros de:
-
-a) Desempeño del cargo;
-
-b) Cualidades;
-
-c) Limitaciones;
-
-d) Actitud hacia la Institución, y
-
-e) Opinión particular del Superior o Comandante.
-
-La calificación de los rubros se efectuará conforme la tabla siguiente:
-
-(VEASE ARCHIVO ANEXO)
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 39.
 
-La evaluación de trayectoria académica se obtendrá por la suma algebraica de los rubros y puntuación establecidos en la tabla siguiente:
-
-(VEASE ARCHIVO ANEXO)
-
-I. La calificación de inglés u otra lengua extranjera que se tenga registrada en el Estado Mayor para efectos de promoción, tendrá una vigencia de dos años; el personal que no cuente con registro o tenga calificación no vigente, estará obligado a presentar examen en el lugar y fecha que designe el Estado Mayor, y
-
-II. El participante que cuente con calificación vigente y desee presentar nuevo examen de inglés u otra lengua extranjera, podrá solicitar por los conductos regulares dentro de 30 días naturales posteriores a la fecha en que se le comunique la información con la cual se llevará a cabo la valoración. Transcurrido este período sin solicitar examen, se entenderá su aceptación tácita de la calificación registrada.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 40.
 
-La evaluación de potencial tiene por objeto determinar si las características de personalidad y aptitudes que el participante posee, aplica y puede desarrollar en beneficio de la Institución y de su persona, cubren el perfil de la nueva jerarquía.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 41.
 
-La aplicación de la evaluación de potencial será responsabilidad del Estado Mayor quien establecerá los procedimientos para tal efecto.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 42.
 
-La evaluación del tiempo de servicio comprende los rubros señalados en el artículo 37 de este Reglamento, computados en años, contabilizados a la fecha en que determine y comunique el Estado Mayor dentro del periodo que dure la promoción, conforme a la tabla siguiente:
-
-(VEASE ARCHIVO ANEXO)
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 43.
 
-La calificación final de la valoración objetiva quedará representada por la suma algebraica de los valores de cada uno de los conceptos, multiplicado cada uno de ellos por el factor de ponderación según la tabla siguiente:
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-(VEASE ARCHIVO ANEXO)
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 43 Bis.
+
+Al término de la obtención de la información, el Estado Mayor:
+
+I. Integrará los resultados en la lista correspondiente, y
+
+II. Informará al Alto Mando de los mismos, incorporando la lista, expedientes y demás documentación comprobatoria del personal.
+
+> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 43 Ter.
+
+El Alto Mando someterá a consideración del Mando Supremo los expedientes y elementos de juicio derivados de la información analizada, así como la lista del personal convocado.
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 #### SECCIÓN TERCERA. De la Valoración Apreciativa y Lista
 
 ###### Artículo 44.
 
-La valoración apreciativa del Consejo del Almirantazgo, tiene por objeto calificar al personal participante en la aptitud para el desempeño de las obligaciones que la nueva jerarquía le impondrá.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 45.
 
-La valoración apreciativa de aptitud por el Consejo del Almirantazgo consiste en:
-
-I. Calificación numérica, y
-
-II. Calificación conceptual.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 46.
 
-Para la calificación numérica del participante, el Consejo del Almirantazgo llevará a cabo el procedimiento siguiente:
-
-I. Reunión del Consejo del Almirantazgo;
-
-II. Incorporación al recinto del participante a evaluar y su presentación ante el Consejo;
-
-III. Exposición por el Estado Mayor al Consejo de la información relativa a la valoración objetiva del participante;
-
-IV. Intervención del participante para exponer lo que a sus intereses convenga, en relación a lo informado por el Estado Mayor;
-
-V. Exposición ejecutiva y personalizada formulada por el participante, en relación a sus vivencias, logros profesionales y otros aspectos requeridos;
-
-VI. Entrevista al participante por los integrantes del Consejo;
-
-VII. Desincorporación del participante del recinto de valoración;
-
-VIII. Calificación numérica de la aptitud del participante por cada Almirante integrante del Consejo, según formato establecido por el Estado Mayor, y
-
-IX. Conclusión por parte del Consejo del Almirantazgo de la calificación numérica de los participantes.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 47.
 
-El Consejo del Almirantazgo determinará la calificación conceptual, la cual quedará definida mediante el voto de cada uno de los integrantes del citado Consejo a favor o no del participante.
-
-Para que al participante se le considere favorecido, deberá contar cuando menos con las dos terceras partes de los votos emitidos.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 48.
 
-La calificación numérica de cada uno de los participantes formulada por el Consejo del Almirantazgo, será sumada con la calificación de la valoración objetiva que formulará el Estado Mayor.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 49.
 
-El Estado Mayor integrará la lista de los participantes, la cual tendrá como sustento los elementos de juicio obtenidos conforme a lo establecido en los artículos 47 y 48 del presente ordenamiento.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 #### SECCIÓN CUARTA. De la Comunicación de Resultados
 
 ###### Artículo 50.
 
-Al término de las valoraciones apreciativa y objetiva, el Estado Mayor:
-
-I. Integrará los resultados de las valoraciones en la lista correspondiente;
-
-II. Informará al Alto Mando los resultados, incorporando la lista, expedientes y demás documentación comprobatoria del personal, y
-
-III. Comunicará en forma personalizada a los participantes los resultados obtenidos en su jerarquía, Cuerpo o Servicio.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 51.
 
-El Almirante o Capitán que habiendo participado en tres promociones consecutivas en la misma jerarquía, resultase no favorecido en la calificación conceptual, no será nuevamente convocado para promociones posteriores, sin perjuicio de lo que disponga el Mando Supremo.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 52.
 
-El participante que como resultado de la calificación conceptual resultase favorecido para desempeñarse en la jerarquía inmediata, pero que por su posición en la lista no alcanzase vacante, continuará siendo convocado las veces que sea necesario.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 53.
 
-El Alto Mando someterá a consideración del Mando Supremo los expedientes y elementos de juicio derivados de las valoraciones objetiva y apreciativa, así como la lista correspondiente.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ### CAPÍTULO II. De los Ascensos por Facultad del Alto Mando
 
@@ -573,19 +541,25 @@ Corresponde al Estado Mayor, en coordinación con la Oficialía Mayor, determina
 
 El Estado Mayor, en coordinación con la Oficialía Mayor, seleccionará al personal de Marineros a Capitán de Corbeta que será convocado, haciéndolo del conocimiento de la Comisión Coordinadora, previa aprobación del Alto Mando.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 56.
 
-La selección del personal a ser convocado de las jerarquías de Marinero a Capitán de Corbeta, deberá considerar lo siguiente:
+La selección del personal a ser convocado de los grados de Marinero a Capitán de Corbeta, deberá considerar lo siguiente:
 
 I. Las vacantes autorizadas a cubrir;
 
-II. Que el personal convocado cuente con la antigüedad mínima en el grado correspondiente señalada por la Ley, a la fecha de publicación de la convocatoria;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+II. Que el personal convocado cuente con la antigüedad mínima en el grado correspondiente señalada por la Ley, a la fecha en la que se otorgue el ascenso;
 
 III. Situación escalafonaria;
 
 IV. Que cumpla con lo dispuesto en el artículo 17 de la Ley, y
 
-V. Que no se encuentre en situación de grado tope, conforme al artículo 20 de la Ley.
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+V. Que no se encuentre en situación de grado tope.
 
 ###### Artículo 57.
 
@@ -599,45 +573,39 @@ III. Programa de evaluaciones, y
 
 IV. Otros que se ordenen.
 
-#### SECCIÓN SEGUNDA. De los Exámenes del Concurso de Selección
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+#### SECCIÓN SEGUNDA. Del Concurso de Selección
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 58.
 
-El concurso de selección comprenderá:
-
-I. Examen médico;
-
-II. Pruebas de capacidad física;
-
-III. Examen académico;
-
-IV. Examen práctico para Clases y Marinería;
-
-V. Examen de inglés u otro idioma para personal de oficiales y capitanes Núcleo;
-
-VI. Formulación de trabajo de investigación tipo tesis para personal de Tenientes de Navío Núcleo, y
-
-VII. Evaluación de potencial para el personal Núcleo, conforme a los términos establecidos en los artículos 40 y 41 del presente Reglamento.
+El concurso de selección comprenderá los exámenes que establece el artículo 35 de la Ley.
 
 ###### Artículo 59.
 
 El rango de las calificaciones de los exámenes y sus mínimas aprobatorias se regirán de la forma siguiente:
 
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 EXAMEN RANGO MÍNIMA
 
 CALIFICACIÓN APROBATORIA
 
-I. Médico. 50 - 100 50
+I. MÉDICO 50 - 100 50
 
-II. Capacidad física. 0 - 100 No aplica
+II. CAPACIDAD FÍSICA 0 - 100 60
 
-III. Académico. 0 - 100 60
+III. ACADÉMICO 0 - 100 60
 
-IV. Práctico. 0 - 100 60
+IV. PRÁCTICO 0 - 100 60
 
-V. Lengua extranjera. 0 - 100 No aplica
+V. LENGUA
 
-VI. Tesis. 0 - 100 60
+EXTRANJERA 0 - 100 No aplica
+
+VI. TESIS 0 - 100 60
 
 ###### Artículo 60.
 
@@ -665,15 +633,17 @@ III. Apto, en tercera categoría 50 puntos.
 
 ###### Artículo 64.
 
-El participante que como resultado del examen médico quedase clasificado en la Tercera Categoría o Lista de Padecimientos conforme al artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, se le podrá autorizar presentar el examen de capacidad física, previa valoración y autorización médica.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 65.
 
 El examen médico anual tendrá validez para efectos de promoción, siempre y cuando el estado de salud del personal convocado no haya variado. Quienes no lo hubiesen presentado, deberán hacerlo antes del examen de capacidad física.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 66.
 
-El examen médico será practicado a los participantes en el establecimiento médico naval que se designe. Para el personal participante menor de 45 años constará de las pruebas y procedimientos siguientes:
+El examen médico será practicado a los participantes en el establecimiento médico naval que se designe. Para todo el personal participante constará de las pruebas y procedimientos siguientes:
 
 I. Formulación de historia clínica;
 
@@ -681,21 +651,13 @@ II. Prueba somatométrica;
 
 III. Evaluación de la capacidad para desarrollar esfuerzos físicos, y
 
-IV. Otros que se consideren necesarios.
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Revisión de los resultados clínicos y paraclínicos del último examen médico anual y en caso necesario repetir los que el médico a su juicio, considere necesarios actualizar.
 
 ###### Artículo 67.
 
-Además de las pruebas y procedimientos señalados en el artículo que antecede, el personal mayor de 45 años deberá ser canalizado a los servicios de medicina interna y cardiología, previa realización de los exámenes siguientes:
-
-I. Examen hemocitológico completo;
-
-II. Química sanguínea de cuatro elementos (glucosa, urea, creatinina y ácido úrico);
-
-III. Teleradiografía de tórax;
-
-IV. Electrocardiograma, y
-
-V. Otros que se consideren necesarios.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 68.
 
@@ -713,9 +675,11 @@ Es responsabilidad del Director del establecimiento médico supervisar la correc
 
 Las Comisiones Locales serán responsables de que los resultados de la aplicación de los exámenes médicos sean enviados oportunamente a la Comisión Coordinadora.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 72.
 
-Los procedimientos específicos de la aplicación de los exámenes médicos, registro, control y trámite de la documentación correspondiente, serán establecidos en el manual de procedimientos que la Comisión Coordinadora elabore para tal fin.
+Los procedimientos específicos de la aplicación de los exámenes médicos, registro, control y trámite de la documentación correspondiente, serán establecidos en el Manual de Normas y Procedimientos y en la Directiva para la Promoción General.
 
 #### SECCIÓN CUARTA. Del Examen de Capacidad Física
 
@@ -725,13 +689,17 @@ El examen de capacidad física tiene por objeto comprobar que el personal partic
 
 ###### Artículo 74.
 
-Los deberes navales, las capacidades y habilidades físicas que ordinariamente desarrolla el personal participante acorde con su jerarquía, Cuerpo y Servicio, así como las misiones que desarrolla su unidad o establecimiento, serán determinantes para el diseño de las pruebas físicas que se apliquen.
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 75.
 
-La Comisión Coordinadora establecerá las pruebas físicas necesarias que se aplicarán al personal convocado, considerando:
+Los deberes navales, las capacidades y habilidades físicas que ordinariamente desarrolla el personal participante acorde con su grado, serán determinantes para que la Comisión Coordinadora diseñe las pruebas físicas que se aplicarán al personal convocado, considerando:
 
-I. Jerarquía;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+I. Grado;
 
 II. Cuerpo o Servicio (Núcleo o Escala);
 
@@ -771,9 +739,11 @@ IX. Flotabilidad y natación con equipo y armamento, o sin éstos;
 
 X. Capacidad respiratoria;
 
-XI. Agudeza de la visión, oído, tacto, olfato y gusto;
+XI. (DEROGADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-XII. Capacidad de reacción, habilidades y destrezas manuales, agilidad mental, y
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Capacidad de reacción, habilidades, destrezas manuales, y
 
 XIII. Otras que se consideren necesarias o específicas para el Cuerpo o Servicio del participante.
 
@@ -807,9 +777,11 @@ Si previo o durante el examen de capacidad física, se detecta en el participant
 
 Cuando por razones fisiológicas, el personal femenino solicite otra fecha para presentar el examen de capacidad física, se le autorizará dentro del calendario de aplicación de citado examen, siempre y cuando sea antes de que se lleve a cabo el examen académico.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 84.
 
-Cuando algún participante no se presente o llegue tarde sin causa justificada, se le excluirá de la promoción.
+Cuando algún participante no se presente sin causa justificada, se le excluirá de la promoción.
 
 #### SECCIÓN QUINTA. Del Examen Académico
 
@@ -817,9 +789,11 @@ Cuando algún participante no se presente o llegue tarde sin causa justificada, 
 
 El examen académico tiene por objeto determinar el nivel de conocimientos del personal participante para desempeñarse en el grado inmediato superior.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 86.
 
-Las Comisiones Locales tendrán la responsabilidad de aplicar el examen académico al personal participante, así como determinar las áreas a evaluar, conforme al calendario y método que para tal fin establezca la Comisión Coordinadora.
+Las Comisiones Locales tendrán la responsabilidad de aplicar el examen académico al personal participante, conforme al calendario y método que para tal fin establezcan el Manual de Normas y Procedimientos y la Directiva de la Promoción.
 
 ###### Artículo 87.
 
@@ -831,7 +805,7 @@ II. Conocimientos Marineros 20 puntos, y
 
 III. Conocimientos Específicos 60 puntos.
 
-Para el caso del personal Núcleo se incluirá “Política Naval” al área de Legislación Naval.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 88.
 
@@ -857,9 +831,11 @@ El examen que deberá aplicarse al personal de Clases y Marinería sólo corresp
 
 La calificación del examen práctico se graduará en la escala de 0 a 100 puntos, siendo 60 puntos la calificación mínima aprobatoria para continuar participando en la promoción.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 93.
 
-La Comisión Local designará los comités de evaluación que sean necesarios, los que serán responsables de la aplicación del examen conforme a los lineamientos que para tal fin emita la Comisión Coordinadora.
+La Comisión Local designará los comités de evaluación que sean necesarios, los que serán responsables de la aplicación del examen de conformidad con lo establecido en el Manual de Normas y Procedimientos.
 
 ###### Artículo 94.
 
@@ -885,23 +861,25 @@ Los mandos navales correspondientes coordinarán y proporcionarán los apoyos e 
 
 La Comisión Local, en coordinación con el mando correspondiente, tomarán las medidas de seguridad que sean necesarias, a fin de garantizar la integridad del personal, instalaciones, material y equipo durante el desarrollo del examen de conocimientos prácticos.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 100.
 
-La Comisión Coordinadora deberá establecer en forma detallada los conocimientos prácticos, métodos y procedimientos de evaluación en el manual de procedimientos y demás lineamientos que se formulen para tal fin.
+La Comisión Coordinadora deberá establecer en el Manual de Normas y Procedimientos, y demás lineamientos que se formulen para tal fin, las instrucciones para la aplicación del examen de conocimientos prácticos, y los métodos y procedimientos de evaluación.
 
 #### SECCIÓN SÉPTIMA. Del Examen de Lengua Extranjera
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 101.
 
-El examen de lengua extranjera tiene por objeto conocer y calificar el nivel de conocimientos en otro idioma del personal de Oficiales y Capitanes Núcleo del Cuerpo General y Servicios.
+El examen de lengua extranjera tiene por objeto, el determinar el nivel de conocimientos de otro idioma, del personal de Oficiales y Capitanes del Núcleo de los Cuerpos y Servicios.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 102.
 
-La calificación del examen de lengua extranjera se graduará en la escala de 0 a 100 puntos; el resultado en el mismo no será motivo de exclusión, debiéndose llevar a cabo de la forma siguiente:
-
-I. La lengua extranjera a evaluar será el idioma inglés u otro idioma cuando así lo autorice el Estado Mayor, y
-
-II. El establecimiento educativo, lugar, procedimiento y programa de evaluación será conforme a las instrucciones que para tal fin emita el Estado Mayor.
+La calificación del examen de lengua extranjera se graduará en la escala de 0 a 100 puntos y será evaluada conforme a las directivas que emita el Estado Mayor.
 
 #### SECCIÓN OCTAVA. De la Formulación de Trabajo de Investigación Tipo Tesis
 
@@ -933,13 +911,17 @@ De no realizar manifestación alguna dentro del plazo señalado, se entenderá q
 
 #### SECCIÓN PRIMERA. De los Primeros Maestres a Capitanes de Corbeta
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ### CAPÍTULO III. Del Orden de Prelación
 
 #### SECCIÓN SEGUNDA. Del Personal de Clases y Marinería
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 107.
 
-El orden de prelación en cada jerarquía, Núcleo y Escala de Primeros Maestres a Capitán de Corbeta, quedará determinado atendiendo a la calificación final obtenida en los conceptos establecidos en la Ley.
+El orden de prelación en cada grado, núcleo y escala de Primeros Maestres a Capitán de Corbeta, quedará determinado atendiendo a la calificación final obtenida en los conceptos establecidos en la Ley.
 
 ###### Artículo 108.
 
@@ -955,51 +937,175 @@ II. Expediente de Cuerpo;
 
 III. Sistemas Informáticos Institucionales, y
 
-IV. Otros elementos vinculados con su trayectoria en el servicio naval.
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Otros elementos vinculados con el servicio naval, correspondientes al grado que ostenta.
 
 En el caso de las Hojas de Actuación, el Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 110.
 
-La calificación del concepto Mérito se obtendrá por el promedio de la suma algebraica de los rubros y puntuación establecidos en las tablas siguientes:
+La calificación del concepto Mérito se obtendrá de los rubros que integran la trayectoria naval y las recompensas y reconocimientos, en base a los valores que se citan a continuación:
 
-(VEASE ARCHIVO ANEXO)
+Trayectoria naval (95%) Tiempo en el Grado (50%)
+
+Numero de promoción a la
+
+que es convocado (50%)
+
+Recompensas y
+
+Reconocimientos (5%) Los recibidos y que se
+
+encuentren registrados en
+
+las Hojas de Actuación del
+
+grado actual (100%)
+
+TIEMPO EN EL GRADO:
+
+RANGO EN AÑOS PORCENTAJE
+
+3 46
+
+3.1 - 5.9 48
+
+6 o más 50
+
+NÚMERO DE PARTICIPACIÓN EN LA PROMOCIÓN A LA QUE ES CONVOCADO:
+
+NÚMERO DE PARTICIPACIÓN PORCENTAJE
+
+1 50
+
+2 48
+
+3 o más 46
+
+No será afectado negativamente en el porcentaje cuando el elemento cumpla con los requisitos establecidos y obtenga el promedio de calificación mínimo aprobatorio y no alcance alguna de las vacantes disponibles para su grado, cuerpo o servicio.
+
+La puntuación promedio de cada rubro, se determinará promediando la puntuación conceptuada en las Hojas de Actuación correspondientes al periodo que se evalúa. El Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos.
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 111.
 
-La calificación del concepto Aptitud, se obtendrá mediante la suma algebraica de los rubros Aptitudes Personales y Profesionales y Conocimientos y Experiencia, para la jerarquía inmediata superior, de acuerdo con la tabla siguiente:
+La calificación de los conceptos Aptitud y Competencia Profesional se obtendrá de la manera siguiente:
 
-(VEASE ARCHIVO ANEXO)
+Aptitud y Competencia
+
+Profesional (100%) Corresponderá al promedio
+
+de las Hojas de Actuación
+
+del participante en el grado,
+
+sin considerar la parte
+
+correspondiente a disciplina.
+
+(90%)
+
+Formación académica (10%):
+
+Cursos o Estudios de
+
+Postgrados ordenados por la
+
+Institución.
+
+CURSOS O ESTUDIOS DE POSTGRADO ORDENADOS POR EL MANDO EN EL GRADO ACTUAL
+
+CURSOS O ESTUDIOS PORCENTAJE
+
+Quien haya aprobado
+
+satisfactoriamente los estudios o
+
+cursos que correspondan a su
+
+cuerpo o servicio. 100
+
+Quien no haya sido convocado o
+
+designado para los mismos.
+
+Quienes hayan sido designados
+
+para efectuar cursos y no los
+
+concluyan en forma satisfactoria. -2
+
+Por cada caso
+
+La puntuación promedio de cada rubro, se determinará promediando la puntuación conceptuada en las Hojas de Actuación correspondientes al periodo que se evalúa. El Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos.
 
 ###### Artículo 112.
 
-La calificación del concepto Competencia Profesional, se obtendrá por el promedio de la suma algebraica de la calificación total de cada Hoja de Actuación del participante en la jerarquía actual, conforme a la tabla siguiente:
+(DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-(VEASEA ARCHIVO ANEXO)
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 113.
 
-La calificación del concepto Conducta, se obtendrá por la suma algebraica de la calificación de los rubros Conducta Militar y Civil, conforme a las tablas siguientes:
+La calificación del concepto Conducta se obtendrá de la manera siguiente:
 
-(VEASE ARCHIVO ANEXO)
+Conducta Corresponderá al promedio de las Hojas de
+
+Actuación del participante en el grado,
+
+considerando únicamente la parte
+
+correspondiente a disciplina.(Conducta
+
+Militar y Civil)
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 114.
 
-La calificación de los exámenes de promoción, quedará representada por la suma de los resultados de cada uno de los exámenes multiplicado por el factor correspondiente de acuerdo a la tabla siguiente:
+La calificación de los exámenes de promoción se obtendrá de la suma de los porcentajes de los conceptos siguientes:
 
-(VEASE ARCHIVO ANEXO)
+EXÁMENES DE CAPITANES TENIENTES DE
+
+PROMOCIÓN (70%) Y OFICIALES NAVÍO NÚCLEO
+
+A. Médico 15 % 15 %
+
+B. Capacidad física 15 % 15 %
+
+C. Académico 68 % 48%
+
+D. Tesis No aplica 20 %
+
+E. Lengua Extranjera 2% 2%
+
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 115.
 
-La calificación final, quedará representada por la suma algebraica de cada uno de los conceptos, multiplicados por el factor de ponderación de acuerdo con la tabla siguiente:
+La calificación final, quedará representada por la suma de los porcentajes de cada uno de los conceptos, de acuerdo con la tabla siguiente:
 
-(VEASE ARCHIVO ANEXO)
+CONCEPTOS QUE DEFINEN
+
+ORDEN DE PRELACIÓN PORCENTAJE
+
+Mérito 15
+
+Aptitud y Competencia Profesional 10
+
+Conducta 5
+
+Exámenes promoción 70
 
 #### SECCIÓN TERCERA. De la Comunicación de Resultados
 
 ###### Artículo 116.
 
-El orden de prelación en cada jerarquía, cuerpo y servicios de Marineros a Segundos Maestres, quedará determinado atendiendo a la calificación final obtenida de los exámenes a que se refiere el artículo 118 del presente Reglamento.
+El orden de prelación en cada grado, cuerpo y servicios de Marineros a Segundos Maestres, quedará determinado atendiendo a la calificación final obtenida de los exámenes a que se refiere el artículo 118 del presente Reglamento.
 
 ###### Artículo 117.
 
@@ -1017,11 +1123,23 @@ III. Académico, y
 
 IV. Práctico.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 119.
 
-La calificación final quedará representada por la suma algebraica de cada uno de los exámenes, multiplicados por el factor de ponderación según la tabla siguiente:
+La calificación final quedará representada por la suma aritmética de cada uno de los exámenes, según la tabla siguiente:
 
-(VEASE ARCHIVO ANEXO)
+EVALUACIONES QUE DEFINEN
+
+EL ORDEN DE PRELACIÓN PORCENTAJE
+
+A. Médico 10
+
+B. Capacidad física 10
+
+C. Académico 50
+
+D. Examen práctico 30
 
 ###### Artículo 120.
 
@@ -1031,7 +1149,9 @@ I. Integrar los resultados de las valoraciones;
 
 II. Informar al Alto Mando los resultados, incorporando el orden de prelación, y
 
-III. Comunicar a los convocados los resultados obtenidos.
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+III. Comunicar a los convocados los resultados de sus exámenes.
 
 ###### Artículo 121.
 
@@ -1045,9 +1165,11 @@ Al término del proceso de promoción el Alto Mando, por conducto de la Oficial�
 
 Los ascensos en tiempo de guerra se otorgarán conforme a los términos establecidos en la Ley.
 
+> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 123.
 
-Los actos de reconocido valor o de extraordinarios méritos del personal naval, en el desarrollo de operaciones de guerra que los harán merecedores de ascensos, serán los establecidos en la Ley de Recompensas de la Armada de México en los supuestos dados para la Condecoración al Valor Heroico en sus modalidades de Primera, Segunda y Tercera Clase.
+Los actos de reconocido valor o de extraordinarios méritos del personal naval, en el desarrollo de operaciones de guerra que los hagan merecedores de ascensos, serán los establecidos en la Ley de Recompensas de la Armada de México en los supuestos dados para la Condecoración al Valor Heroico en sus modalidades de Primera, Segunda y Tercera Clase.
 
 ###### Artículo 124.
 
@@ -1087,7 +1209,9 @@ Todo miembro de la Armada de México que tenga conocimiento de hechos que signif
 
 Se entenderá como situación de exclusión en el concurso de selección al personal que:
 
-I. No fue convocado, habiéndose considerado en la convocatoria a personal con menor antigüedad dentro de su mismo escalafón y jerarquía, o
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+I. No fue convocado, habiéndose considerado en la convocatoria a personal con menor antigüedad dentro de su mismo escalafón y grado, o
 
 II. Durante el concurso de selección, sea separado del mismo por dejar de cumplir cualquiera de los requisitos que establece la Ley y el presente Reglamento.
 
@@ -1103,9 +1227,11 @@ II. Quedar incluido en alguno de los supuestos establecidos en el artículo 51 d
 
 III. Que como consecuencia de un cambio de salud conforme al certificado médico correspondiente, quede clasificado en la primera o segunda categorías previstas por la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
-IV. Obtener promedio inferior a 60 puntos en el examen académico;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
-V. No presentar el trabajo de investigación tipo tesis que se le haya asignado u obtener calificación menor a 60 puntos en el mismo;
+IV. No obtener la calificación mínima aprobatoria en los exámenes que establece el artículo 59 de este Reglamento;
+
+V. (DEROGADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
 VI. Por renuncia voluntaria del convocado, manifestada por escrito;
 
@@ -1115,13 +1241,17 @@ VIII. Presentarse a los exámenes bajo los efectos de alcohol, drogas o psicotr�
 
 IX. Conducirse con falsedad o hacer uso de medios fraudulentos;
 
-X. Estar sujeto a averiguación previa, o haber comparecido ante organismo disciplinario resultando culpable, habiéndosele determinado alguna de las sanciones comprendidas en las fracciones III, IV, V y VI del artículo 50 de la Ley de Disciplina para el Personal de la Armada de México;
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+X. Estar sujeto a proceso o haber comparecido ante un órgano de disciplina resultando culpable, habiéndosele determinado alguna de las sanciones comprendidas en las fracciones III, IV, V y VI del artículo 50 de la Ley de Disciplina para el Personal de la Armada de México;
 
 XI. Habérsele conferido ascenso por adecuación de grado durante el proceso de promoción;
 
 XII. El que esté por comparecer o haya comparecido ante organismo disciplinario y al término del proceso de promoción no se haya determinado su situación jurídica, y
 
-XIII. Se le conceptúe conducta regular o mala como resultado de un cambio de su conducta.
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+XIII. Se le conceptúe conducta regular o mala durante el periodo que dure el proceso de promoción.
 
 ###### Artículo 133.
 
@@ -1135,17 +1265,23 @@ Las exclusiones deberán estar debidamente fundadas y motivadas y serán comunic
 
 Se entenderá como postergación del participante, cuando:
 
-I. La promoción se efectúa sin que el participante haya obtenido resolución de la Junta Naval, por haber interpuesto recurso de inconformidad ante el citado organismo, en virtud de su exclusión durante el concurso de selección, o
+> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+I. Está pendiente de resolverse por la Junta Naval la inconformidad que presentó por exclusión durante el concurso de selección o la impugnación que presentó ante el Consejo del Almirantazgo contra la resolución que emitió la Junta Naval y, en ambos supuestos se inicie el siguiente proceso de promoción, y
 
 II. Habiendo aprobado el concurso de selección no haya sido ascendido y, de acuerdo con los resultados obtenidos le haya correspondido uno de los ascensos conferidos.
 
-En ambos supuestos, el personal que considere afectados sus derechos por postergación podrá interponer el recurso de inconformidad ante la Junta Naval.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. Del Recurso de Inconformidad
 
 ###### Artículo 136.
 
 Cuando el personal considere que se hayan afectado sus derechos por exclusión o postergación, podrá interponer recurso de inconformidad ante la Junta Naval.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando el recurso de inconformidad verse sobre la fracción I del artículo anterior, el participante deberá interponer su escrito ante la Junta Naval que conoce de su recurso de exclusión para que ésta realice la acumulación de ambos recursos. En el caso de que esté pendiente de resolución la impugnación que se presentó ante el Consejo del Almirantazgo, la Junta Naval remitirá el escrito de inconformidad a dicho Consejo a fin de que éste haga la acumulación respectiva.
 
 ###### Artículo 137.
 
@@ -1186,3 +1322,11 @@ SEGUNDO.- Las sanciones de "pase a depósito" conforme a la Ley de Disciplina de
 TERCERO.- Se derogan todas las disposiciones administrativas que contravengan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de octubre de dos mil seis.- Vicente Fox Quesada, Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
