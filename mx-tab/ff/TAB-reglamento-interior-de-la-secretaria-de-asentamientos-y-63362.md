@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-asentamientos-y-63362"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-10"
-last_updated: "2008-09-10"
+last_updated: "2010-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE ASENTAMIENTOS Y OBRAS PÚBLICAS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 10 de septiembre de 2008.
 
@@ -107,7 +107,7 @@ Para el despacho de los asuntos de su competencia la Secretaría contará con la
 
 1.1. Secretaría Particular
 
-1.2. Unidad de Asesores
+1.2. (DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 1.3. Secretaría Técnica
 
@@ -161,7 +161,21 @@ Para el despacho de los asuntos de su competencia la Secretaría contará con la
 
 6.3. Junta Estatal de Caminos
 
-6.4. Servicios de Agua Potable y Alcantarillado del Estado de Tabasco
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+6.4. Comisión Estatal de Agua y Saneamiento de Tabasco
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+7. Organismos Descentralizados
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+7.1. Instituto Tabasqueño de Infraestructura Física Educativa
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+7.2. Instituto de Vivienda de Tabasco
 
 ## TÍTULO TERCERO. DE LAS ATRIBUCIONES DEL SECRETARIO
 
@@ -199,7 +213,9 @@ X. Apoyar a los ayuntamientos, cuando así lo soliciten, a planear, construir, r
 
 XI. Vigilar el cumplimiento y aplicación de las normas técnicas aplicables al uso del suelo para obras públicas y apoyar a los municipios que lo requieran en el establecimiento y supervisión de la zonificación urbana de sus centros de población;
 
-XII. Establecer, de común acuerdo con la Secretaría de Planeación, el Sistema Estatal de Información Geográfica para la automatización y simplificación de trámites en materia de vivienda, uso de suelos, fusión, subdivisión de predios y otros trámites relacionados con la administración urbana que fuere de su competencia. Además, en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco, promover con las autoridades federales competentes y la Secretaría de Recursos Naturales y Protección Ambiental, las acciones necesarias para que ese sistema de información incluya lo relativo al impacto ambiental;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Establecer, de común acuerdo con la Secretaría de Planeación y Desarrollo Social, el Sistema Estatal de Información Geográfica para la automatización y simplificación de trámites en materia de vivienda, uso de suelos, fusión, subdivisión de predios y otros trámites relacionados con la administración urbana que fuere de su competencia. Además, en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco, promover con las autoridades federales competentes y la Secretaría de Recursos Naturales y Protección Ambiental, las acciones necesarias para que ese sistema de información incluya lo relativo al impacto ambiental;
 
 XIII. Dictar las normas generales y ejecutar las obras de reparación, adaptación, restauración y demolición que le sean asignadas, de inmuebles propiedad del Gobierno, así como impulsar y promover los trabajos de conservación de las obras públicas y supervisar los proyectos de los mismos;
 
@@ -221,11 +237,15 @@ XXI. Convocar, en los términos de la Ley en la materia, a la celebración de co
 
 XXII. Aplicar las sanciones previstas en las disposiciones legales en las materias de su competencia; así como promover y dar seguimiento a la aplicación de aquéllas que corresponda a otras autoridades;
 
-XXIII. Propiciar que los órganos desconcentrados o descentralizados sectorizados a esta Dependencia, atiendan los criterios y orientaciones conducentes a la participación del Sector en la integración del Padrón Único de Beneficiarios que administra y opera la Secretaría de Planeación;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+XXIII. Propiciar que los órganos desconcentrados o descentralizados sectorizados a esta Dependencia, atiendan los criterios y orientaciones conducentes a la participación del Sector en la integración del Padrón Único de Beneficiarios que administra y opera la Secretaría de Planeación y Desarrollo Social;
 
 XXIV. Colaborar con las autoridades federales competentes en la planeación, proyección y ejecución de las obras de infraestructura que se desarrollen o resulten en beneficio del Estado;
 
-XXV. Administrar y coordinar los sistemas de programación, información y evaluación en el sector de su responsabilidad o aquellos que se realicen con otras dependencias, conduciendo sus actividades en forma programada, en congruencia con sus atribuciones y con base en las políticas, prioridades y restricciones que establezca en términos de la legislación estatal el Gobernador, para el logro de los objetivos y metas de los planes y programas de desarrollo. Lo anterior conforme a las autorizaciones que en su momento otorguen, individualmente o de común acuerdo, las Secretarías de Administración y Finanzas, de Planeación y de Contraloría en lo que corresponde a sus funciones como dependencias globalizadoras;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+XXV. Administrar y coordinar los sistemas de programación, información y evaluación en el sector de su responsabilidad o aquellos que se realicen con otras dependencias, conduciendo sus actividades en forma programada, en congruencia con sus atribuciones y con base en las políticas, prioridades y restricciones que establezca en términos de la legislación el Gobernador, para el logro de los objetivos y metas de los planes y programas de desarrollo. Lo anterior conforme a las autorizaciones que en su momento otorguen, individualmente o de común acuerdo, las Secretarías de Administración y Finanzas, Planeación y Desarrollo Social, y Contraloría en lo que corresponde a sus funciones como dependencias globalizadoras;
 
 XXVI. Instrumentar sus respectivos manuales de organización y de procedimientos administrativos, así como remitirlos a las autoridades correspondientes para su aprobación y expedición. También dictar las medidas, acuerdos, lineamientos, circulares y órdenes necesarios para el mejoramiento de las unidades administrativas a su cargo;
 
@@ -305,23 +325,7 @@ XV. Las demás que le asigne el Secretario.
 
 ###### ARTÍCULO 14.
 
-A la Unidad de Asesores corresponde el ejercicio de las siguientes atribuciones:
-
-I. Contribuir al proceso de toma de decisiones del Secretario a través del estudio e identificación de los problemas específicos de las unidades administrativas órganos desconcentrados adscritos y organismos descentralizados sectorizados;
-
-II. Analizar y opinar en torno a aquellos asuntos que por instrucciones del Secretario les sean turnados;
-
-III. Coordinar las acciones de las unidades administrativas, en cuanto al apoyo al Secretario en sus presentaciones públicas;
-
-IV. Diseñar, implementar y mantener para el Secretario, un sistema de información ágil y oportuna, sobre el desarrollo y avances de los programas a cargo de la Secretaría;
-
-V. Proponer al Secretario mecanismos técnicos que permitan elevar los niveles de eficiencia en la administración y aplicación de los recursos de la Secretaría;
-
-VI. Apoyar a las unidades administrativas en la elaboración de trabajos especiales;
-
-VII. Informar periódicamente al Secretario sobre las funciones realizadas; y
-
-VIII. Las demás que el Secretario le asigne.
+(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 ### CAPÍTULO III. DE LA SECRETARÍA TÉCNICA
 
@@ -383,7 +387,9 @@ I. Instrumentar los lineamientos y políticas de planeación, programación y ev
 
 II. Coordinar y articular las acciones y estrategias del Sector a su cargo, relativas a las etapas que integran el Sistema Integral de Gestión Pública;
 
-III. Instrumentar los procedimientos de coordinación entre el Sector y las Secretarías de Planeación y de Administración y Finanzas del Estado de Tabasco en el ámbito de sus atribuciones;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+III. Instrumentar los procedimientos de coordinación entre el Sector y las Secretarías de Planeación y Desarrollo Social, y de Administración y Finanzas en el ámbito de sus atribuciones;
 
 IV. Elaborar y someter conjuntamente con la Dirección de Administración de Recursos a la consideración del Secretario, el anteproyecto de Programa Operativo Anual, sobre la base de las propuestas presentadas por los titulares de las unidades administrativas que integran la Secretaría;
 
@@ -455,7 +461,9 @@ XVIII. Proponer conjuntamente con las unidades administrativas de la Secretaría
 
 XIX. Desahogar de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, los procedimientos y aplicar las sanciones, a los servidores públicos de la Secretaría, llevando un registro de ello;
 
-XX. Realizar los procedimientos para determinar la aplicación de las sanciones previstas en la Ley de Vías de Comunicaciones y Transportes, la Ley de los Trabajadores al Servicio del Estado, Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco, la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado y su Reglamento, y proponer al Secretario las resoluciones respectivas;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+XX. Realizar los procedimientos para determinar la aplicación de las sanciones previstas en la Ley de Vías de Comunicación y Transportes, la Ley de los Trabajadores al Servicio del Estado; la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco; las leyes federal y estatal de Obras Públicas y Servicios Relacionados con las mismas y sus respectivos Reglamentos; y proponer al Secretario las resoluciones respectivas;
 
 XXI. Ser parte de la Comisión de Estudios Jurídicos de la Administración Pública Estatal a fin de impulsar los estudios e investigaciones en la materia, así como su desarrollo jurídico;
 
@@ -807,7 +815,9 @@ VII. Coadyuvar con las instancias públicas y privadas ejecutoras de vivienda y 
 
 VIII. Coordinar el Sistema Estatal de Información Geográfica como instrumento fundamental para la planeación estratégica y participativa del desarrollo urbano y ordenamiento territorial;
 
-IX. Establecer, de común acuerdo con la Secretaría de Planeación, el Sistema Estatal de Información Geográfica para la automatización y simplificación de trámites en materia de vivienda, usos de suelos, fusión, subdivisión de predios y otros trámites relacionados con la administración urbana que fuere de su competencia. Además, en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco, promover con las autoridades federales competentes y la Secretaría de Recursos Naturales y Protección Ambiental, las acciones necesarias para que ese sistema de información incluya lo relativo al impacto ambiental;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Establecer, de común acuerdo con la Secretaría de Planeación y Desarrollo Social, el Sistema Estatal de información Geográfica para la automatización y simplificación de trámites en materia de vivienda, uso de suelos, fusión, subdivisión de predios y otros trámites relacionados con la administración urbana que fuere de su competencia. Además, en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco, promover con las autoridades federales competentes y la Secretaría de Recursos Naturales y Protección Ambiental, las acciones necesarias para que ese sistema de información incluya lo relativo al impacto ambiental;
 
 X. Estudiar y proponer las normas básicas para la construcción de edificaciones, de vías públicas y la conservación del patrimonio inmobiliario, histórico y cultural en el Estado;
 
@@ -825,11 +835,15 @@ XVI. Establecer y vigilar el cumplimiento de los programas de adquisición de re
 
 XVII. Determinar las provisiones, usos, reservas y destinos de áreas y predios propiedad del Estado, en los términos de la legislación y normatividad aplicables;
 
-XVIII. Colaborar con la Secretaría de Comunicaciones y Transportes en la planeación de la infraestructura que tenga que ver con la construcción y conservación de las carreteras, caminos vecinales y demás vías de comunicación competencia de la entidad;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
 
-XIX. Colaborar con las autoridades federales competentes en la planeación de obras de infraestructura que se desarrollen o resulten en beneficio del Estado; y
+XVIII. Colaborar con la Secretaría de Comunicaciones y Transportes en la planeación de la infraestructura que tenga que ver con la construcción y conservación de las carreteras, caminos vecinales y demás vías de comunicación competencia de la entidad; y
 
-XX. Colaborar con las autoridades federales competentes en la planeación de obras de infraestructura que se desarrollen o resulten en beneficio del Estado.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+XIX. Colaborar con las autoridades federales competentes en la Planeación de obras de infraestructura que se desarrollen o resulten en beneficio del Estado.
+
+XX. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2010)
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL
 
@@ -1031,7 +1045,9 @@ XII. Participar en los cursos de capacitación que le sean establecidos por el S
 
 Las relaciones de trabajo entre la Secretaría y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado.
 
-Se consideran categorías de confianza las de subsecretario, director general, directores de área, subdirectores, jefes de departamento, jefes de área, asesores y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de la Secretaría.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+Se consideran categorías de confianza las de subsecretario, director general, directores de área, jefes de departamento, jefes de área y en general, las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de la Secretaría.
 
 ### CAPÍTULO II. DE LA SUPLENCIA
 
@@ -1080,3 +1096,11 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO
 ING. HÉCTOR MANUEL LÓPEZ PERALTA
 
 SECRETARIO DE ASENTAMIENTOS Y OBRAS PÚBLICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
