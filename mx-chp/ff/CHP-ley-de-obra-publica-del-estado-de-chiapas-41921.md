@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-obra-publica-del-estado-de-chiapas-41921"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-05"
-last_updated: "2009-12-30"
+last_updated: "2010-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE OBRA PUBLICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 5 de noviembre de 2004.
 
@@ -219,11 +219,15 @@ EN LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LAS OBRAS PUBLICAS, LA SECRE
 
 I.- LO DISPUESTO EN LA LEY GENERAL DE ASENTAMIENTOS HUMANOS Y LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIAPAS, SEGUN CORRESPONDA;
 
-II.- LOS OBJETIVOS Y PRIORIDADES DEL PLAN ESTATAL DE DESARROLLO, LOS PLANES MUNICIPALES DE DESARROLLO, LOS PROGRAMAS SECTORIALES, INSTITUCIONALES, REGIONALES, ESPECIALES Y MUNICIPALES SEGUN CORRESPONDAN, ASI COMO A LAS PREVISIONES ESTABLECIDAS EN LOS PROGRAMAS ANUALES OPERATIVOS, Y
+II.- LOS OBJETIVOS Y PRIORIDADES DEL PLAN ESTATAL DE DESARROLLO, LOS PLANES MUNICIPALES DE DESARROLLO, LOS PROGRAMAS SECTORIALES, INSTITUCIONALES, REGIONALES, ESPECIALES Y MUNICIPALES SEGUN CORRESPONDAN, ASI COMO A LAS PREVISIONES ESTABLECIDAS EN LOS PROGRAMAS ANUALES OPERATIVOS, Y (SIC)
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
 
 III.- LOS OBJETIVOS, METAS Y PREVISION DE RECURSOS ESTABLECIDOS EN LOS PRESUPUESTOS DE EGRESOS QUE LA SECRETARIA Y LOS MUNICIPIOS TENGAN AUTORIZADOS, CONFORME A LAS NORMAS FISCALES QUE LOS RIGEN.
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- EVALUAR Y VERIFICAR SI SE CUMPLEN CON LOS OBJETIVOS DE DESARROLLO DEL MILENIO DEL PROGRAMA DE NACIONES UNIDAS PARA EL DESARROLLO DE LA ORGANIZACION DE LAS NACIONES UNIDAS.
 
 ###### ARTICULO 15.
 
@@ -241,7 +245,9 @@ II.- LOS OBJETIVOS Y METAS A CORTO, MEDIANO Y LARGO PLAZO;
 
 III.- LAS ACCIONES PREVIAS, DURANTE Y POSTERIORES A SU EJECUCION, INCLUYENDO LAS OBRAS PRINCIPALES, LAS DE INFRAESTRUCTURA, LAS COMPLEMENTARIAS Y ACCESORIAS, ASI COMO LAS ACCIONES PARA PONER AQUELLAS EN SERVICIO, EN ESTRICTO APEGO A LO DISPUESTO EN EL ARTICULO 10 DE ESTA LEY;
 
-IV.- LAS CARACTERISTICAS AMBIENTALES, CLIMATICAS Y GEOGRAFICAS DE LA REGION DONDE DEBA REALIZARSE LA OBRA PUBLICA;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- LAS CARACTERISTICAS AMBIENTALES, CLIMATICAS, GEOGRAFICAS Y SOCIOECONOMICAS DE LA REGION DONDE DEBA REALIZARSE LA OBRA PUBLICA, ASI MISMO DEBERA CUMPLIR CON LOS OBJETIVOS DE DESARROLLO DEL MILENIO DEL PROGRAMA DE NACIONES UNIDAS PARA EL DESARROLLO DE LA ORGANIZACION DE LAS NACIONES UNIDAS;
 
 V.- LA COORDINACION QUE SEA NECESARIA PARA RESOLVER POSIBLES INTERFERENCIAS Y EVITAR DUPLICIDAD DE TRABAJOS O INTERRUPCION DE LOS SERVICIOS PUBLICOS;
 
@@ -2169,7 +2175,7 @@ Artículo Primero.- El presente Decreto entrara en vigor al día siguiente de su
 
 Artículo Segundo.- Todos aquellos procesos licitatorios iniciados que se encuentren en proceso a la fecha en entrada en vigor del presente decreto, se continuara de la misma forma hasta su total conclusión.
 
-Artículo Tercero.- Para los efectos de esta ley y sus disposiciones relacionadas, en la creación y constitución del organismo encargado de la infraestructura física educativa, deberá preverse la posibilidad de que la contratación de obra publica que realice, pueda llevarse a cabo por si o de forma coordinada con las dependencias publicas que a la fecha realizan tales acciones.
+Artículo Tercero.- Para los efectos de esta ley y sus disposiciones relacionadas, en la creación y constitución del organismo encargado de la infraestructura física educativa, deberá preverse la posibilidad de que la contratación de obra pública que realice, pueda llevarse a cabo por si o de forma coordinada con las dependencias públicas que a la fecha realizan tales acciones.
 
 Artículo Cuarto.- Las reformas al reglamento de la ley, que se deriven con motivo de la presente reforma, deberán de realizarse en un término que no exceda de noventa días naturales posteriores a la entrada en vigencia del presente decreto.
 
@@ -2222,3 +2228,9 @@ Artículo Cuarto.- Los procesos y procedimientos iniciados con la Secretaría de
 Artículo Quinto.- Para efectos de la función de verificación de Obra del Ejecutivo, a que se refiere el presente ordenamiento, la Secretaría de la Función Pública, contará con un Órgano Administrativo que se integrará conforme a las necesidades de ésta.
 
 Artículo Sexto.- La Secretaría de Hacienda en el ámbito de su competencia, realizará las acciones necesarias para el cumplimiento de lo dispuesto en el presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan al presente Decreto.
