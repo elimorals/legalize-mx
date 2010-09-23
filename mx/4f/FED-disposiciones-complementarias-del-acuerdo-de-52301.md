@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-de-52301"
 country: "mx"
 rank: "otro"
 publication_date: "2001-02-13"
-last_updated: "2009-02-17"
+last_updated: "2010-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52301&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,62 +19,50 @@ issue_date: "2001-02-06"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO DE COMPLEMENTACION ECONOMICA NO. 51 (REPUBLICA DE CUBA, 2000)
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA DE CUBA, DE LA REPUBLICA DE PANAMA Y DE LA REPUBLICA DEL PERU
+DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, EL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, ASI COMO LOS DIVERSOS QUE ESTABLECEN EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE, LA TASA O PREFERENCIA ARANCELARIA APLICABLE, RESPECTO DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO ACUERDOS COMERCIALES
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de febrero de 2009.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de septiembre de 2010.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-GERARDO RUIZ MATEOS, Secretario de Economía, con fundamento en los artículos 34, fracciones I y XXXI de la Ley Orgánica de la Administración Pública Federal; 5o. fracción V, 6o., 13, 23 y 24 segundo párrafo de la Ley de Comercio Exterior; 14, 16, 26, 31 y 32 del Reglamento de la Ley de Comercio Exterior; 5 fracción XVI del Reglamento Interior de la Secretaría de Economía, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 4o., fracción I, 12 y 13 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que nuestro país es parte del Tratado de Montevideo 1980, que instituye la Asociación Latinoamericana de Integración (ALADI), dentro de la cual se ha negociado con los distintos estados miembros y con países de América Central y del Caribe, preferencias arancelarias sujetas a cupo;
+Que para permitir que la industria nacional se abastezca de insumos necesarios para la producción de bienes en condiciones competitivas, es propicio eliminar el arancel aplicable a la importación de ciertos productos tales como la harina de algarroba, para la industria alimentaria; el mancozeb, para la industria agrícola; y el caucho butadieno, para la industria de manufacturas de hule;
 
-Que el 20 de agosto de 1985 se publicó el Acuerdo que regula la distribución de los cupos de importación negociados en el seno de la ALADI, al amparo del Tratado de Montevideo 1980, para administrar los cupos establecidos para Argentina, Cuba, Chile, Brasil, Guatemala, Honduras, El Salvador, Nicaragua, Uruguay, Panamá y Perú;
+Que a fin de brindar mayor claridad en la redacción de ciertas fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y evitar discrepancias en la interpretación por parte de los operadores del comercio exterior, resulta conveniente modificar la descripción de algunas fracciones arancelarias como es el caso de aquellas que comprenden desinfectantes de nariz y garganta, aditivos para aceites lubricantes y cuerdas de tripa;
 
-Que el 16 de mayo de 2008 se publicó en el Diario Oficial de la Federación el Decreto para la aplicación del Acuerdo de Alcance Parcial No. 14, suscrito al amparo del Artículo 25 del Tratado de Montevideo 1980, entre los Estados Unidos Mexicanos y la República de Panamá, el cual establece diversas preferencias arancelarias otorgadas por México a dicho país;
+Que con el objeto de dar mayor certeza a las importaciones o exportaciones del aceite diesel y sus mezclas, y facilitar el monitoreo de las operaciones de comercio exterior que de los mismos se deriven, sin entorpecer las de otros productos petrolíferos, es imprescindible individualizar en una sola fracción arancelaria los bienes citados;
 
-Que las preferencias pactadas al amparo del Artículo 25 del Tratado de Montevideo 1980, son extensivas a los países miembros de la ALADI de menor desarrollo económico relativo, como es el caso de las Repúblicas del Ecuador y del Paraguay, y
+Que la comercialización a nivel mundial de especialidades de café en pequeños envases individuales para elaborar café expresso, latte o capuchino, principalmente, ha tenido un importante incremento en los últimos años, generando en México un mercado potencial favorable para la inversión y, por ende, la creación de empleos, y tomando en cuenta además, que la importación de estas especialidades no daña a la producción nacional, sino que la complementa, se considera conveniente establecer un arancel-cupo para estos productos y así crear las condiciones para detonar el mercado de especialidades de café;
 
-Que la medida a que se refiere el presente instrumento, cuenta con la opinión favorable de la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente:
+Que a efecto de actualizar la lista de fracciones arancelarias para la región fronteriza y la franja fronteriza norte del país, es necesario reformar el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2008 y sus modificaciones posteriores;
 
-ACUERDO QUE MODIFICA EL DIVERSO POR EL QUE SE DAN A CONOCER LOS CUPOS PARA IMPORTAR PRODUCTOS ORIGINARIOS Y PROVENIENTES DE LA REPUBLICA DE CUBA, DE LA REPUBLICA DE PANAMA Y DE LA REPUBLICA DEL PERU
+Que las modificaciones arancelarias antes señaladas, hacen necesario actualizar los decretos por los que se establecen las preferencias arancelarias de los Acuerdos de Complementación Económica y Regionales de Apertura de Mercados y de Preferencia Arancelaria Regional, y
 
-###### ARTICULO UNICO.
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas arancelarias a que se refiere el presente Decreto fueron opinadas favorablemente por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
-Se reforma el artículo 3 del Acuerdo por el que se dan a conocer los cupos para importar productos originarios y provenientes de la República de Cuba, de la República de Panamá y de la República del Perú, publicado en el Diario Oficial de la Federación el 23 de julio de 2007, para quedar como sigue:
+DECRETO
 
-“ARTICULO 3.- Los cupos para importar productos originarios y provenientes de la República de Panamá, extensivos a las Repúblicas del Ecuador y del Paraguay, con la preferencia arancelaria establecida en el artículo primero del Decreto para la aplicación del Acuerdo de Alcance Parcial No. 14, suscrito al amparo del Artículo 25 del Tratado de Montevideo 1980, entre los Estados Unidos Mexicanos y la República de Panamá, publicado en el Diario Oficial de la Federación el 16 mayo de 2008, en el periodo del 24 de abril de un año al 23 de abril del año siguiente, son los que se enlistan a continuación:
+….
 
-I.-
+V. Tratados y Acuerdos Comerciales.
 
-Descripción del producto
+…
 
-negociado/clasificación
+###### ARTÍCULO 11.
 
-en fracción arancelaria TIGIE: Cupo por periodo y país:
+Se modifica la Tabla del Artículo Primero del Decreto para la aplicación del Acuerdo de Complementación Económica No. 51, suscrito entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Cuba, publicado en el Diario Oficial de la Federación el 21 de julio de 2008, en la fracción arancelaria de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indica, para quedar como sigue:
 
-. . . . . .
+"TABLA DE LAS PREFERENCIAS ARANCELARIAS OTORGADAS POR LOS ESTADOS UNIDOS MEXICANOS A LA REPÚBLICA DE CUBA, PARA LA IMPORTACIÓN AL MERCADO INTERNO
 
-II.-
+(VEASE ARCHIVO ANEXO)
 
-Descripción del producto
+## TRANSITORIOS
 
-negociado/clasificación
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-en fracción arancelaria TIGIE: Cupo por periodo y país:
+SEGUNDO.- La vigencia del artículo 2 del presente Decreto concluirá el 31 de diciembre de 2014.
 
-. . . . . .”
-
-###### ARTICULO 11.
-
-La solicitud de asignación de los cupos a que se refiere el punto 3 del artículo 6 del presente Acuerdo, deberá presentarse en el formato SE-06-016, “Solicitud de autorización para certificados de cupos de importación para la Franja Fronteriza Norte y Región Fronteriza” directamente en la Representación Federal que corresponda a cada una de éstas, quienes se encargarán de expedir el certificado de cupo respectivo, dentro de los cinco días hábiles siguientes a la presentación de la solicitud.
-
-La hoja de requisitos específicos se establece como anexo II a este Acuerdo.
-
-## TRANSITORIO
-
-UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-México, D.F., a 5 de febrero de 2009.- El Secretario de Economía, Gerardo Ruiz Mateos.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de septiembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.
