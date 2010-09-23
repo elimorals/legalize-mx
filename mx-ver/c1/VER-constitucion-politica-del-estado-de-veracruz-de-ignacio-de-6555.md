@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2009-06-24"
+last_updated: "2010-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -277,7 +277,7 @@ El Poder Público del Estado es popular, representativo y democrático, y para s
 
 No podrán reunirse dos o más de estos Poderes en una sola persona, asamblea o corporación, ni depositarse el Legislativo en un solo individuo, salvo lo previsto en las fracciones XXXIII del artículo 33 y III del artículo 65 de esta Constitución.
 
-La ley regulará los procedimientos participativos de referendo o plebiscito. En el ámbito estatal, los procedimiento de plebiscito y referendo tendrán como base el proceso legislativo y en el ámbito Municipal el procedimiento tendrá como base el procedimiento edilicio del Cabildo.
+La ley regulará los procedimientos participativos de referendo o plebiscito. En el ámbito estatal, los procedimientos de plebiscito y referendo tendrán como base el proceso legislativo y en el ámbito Municipal el procedimiento tendrá como base el procedimiento edilicio del Cabildo.
 
 Los miembros del Congreso y el Gobernador del Estado tienen derecho de iniciativa en los procedimientos participativos de referendo y plebiscito.
 
@@ -571,7 +571,9 @@ a) El número de ediles, con base en el Censo General de Población de cada diez
 
 b) Los procedimientos de elección de los agentes y subagentes municipales; y
 
-c) La calificación de las causas graves o justificadas para que los ediles renuncien a sus cargos o se separen de ellos, cuando las faltas temporales no excedan de sesenta días en el lapso de un año. En cualquiera de estos casos, se procederá de inmediato a llamar a los suplentes respectivos.
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2010)</small>
+
+c) La calificación de las causas graves o justificadas para que los ediles renuncien a sus cargos o se separen de ellos, cuando las faltas temporales excedan de sesenta días. En cualquiera de estos casos, se procederá de inmediato a llamar a los suplentes respectivos.
 
 XVI. Autorizar, en su caso, a los ayuntamientos:
 
@@ -639,7 +641,7 @@ XXVII. Fijar anualmente los gastos públicos y decretar las contribuciones con q
 
 XXVIII. Señalar y publicar, al aprobar el presupuesto de egresos, la retribución que corresponda a los empleos públicos establecidos por la ley. En caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo.
 
-Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de los organismos autónomos de Estado, debiendo éstos rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
+Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de los organismos autónomos de Estado, debiendo estos rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
 
 Si al 31 de diciembre no se ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho período se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos y al gasto corriente de los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como para los organismos autónomos de Estado, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, en tanto se aprueba el nuevo;
 
@@ -1371,7 +1373,7 @@ II. Si la ausencia excediere de diez días, pero no de treinta, el Gobernador de
 
 III. Si la ausencia es mayor de treinta días naturales, el Gobernador deberá obtener la licencia correspondiente del Congreso o, en los recesos de éste, de la Diputación Permanente, quienes designarán, según el caso, un Gobernador Interino para que funcione durante el tiempo que dure dicha ausencia;
 
-IV. Si la falta, de temporal se convirtiere en absoluta, se procederá como lo dispone el articulo 47; y
+IV. Si la falta, de temporal se convirtiere en absoluta, se procederá como lo dispone el artículo 47; y
 
 V. Nunca se concederá al Ejecutivo licencia con el carácter de indefinida, ni tampoco por un tiempo mayor de noventa días naturales.
 
@@ -1675,7 +1677,7 @@ La omisión legislativa surtirá sus efectos a partir de su publicación en la G
 
 ### CAPÍTULO V. DE LOS ORGANISMOS AUTÓNOMOS DEL ESTADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JUNIO DE 2009)</small>
 
 ###### Artículo 66.
 
@@ -11057,7 +11059,7 @@ ARTICULO 2,061.- El pago de los subrogados en diversas porciones del mismo créd
 
 7o. (DEROGADO, G.O. 28 DE DICIEMBRE DE 1920)
 
-Dada en la H. Ciudad de Córdoba, a veinticuatro de agosto de mil novecientos diez y siete.- C. Méndez Alcalde, Diputado por el 14o Distrito Electoral, Presidente.- Desiderio R. Pavón, Diputado por el 1er. Distrito Electoral.- Isaac Velázquez, Diputado por el 3er. Distrito Electoral.- Efrén A. Bauza, Diputado por el 5o Distrito Electoral.- Celerino Murrieta, Diputado por el 6o Distrito Electoral.- Gustavo Bello, Diputado por el 7o Distrito Electoral. D. Victoria, Diputado por el 8o Distrito Electoral.- Elías Pérez, Diputado por el 9o Distrito Electoral.- Miguel B. Fernández, Diputado por el 10o Distrito Electoral.- M. Limón Uriarte, Diputado por el 11o Distrito Electoral.- S. L. Herrera, Diputado por el 12o Distrito Electoral.- Pánfilo Méndez, Diputado por el 13o Distrito Electoral.- M. Loyo, Diputado por el 15o Distrito Electoral.- Rodolfo Cancela Nogueira, Diputado por el 16o Distrito Electoral.- Gaspar Méndez, Diputado por el 17o Distrito Electoral.- Luis G. Carrión, Diputado el 18o Distrito Electoral.- A. Ortíz Ríos, Diputado por el 19o Distrito Electoral.- A. Nava, Diputado por el 4o Distrito Electoral, Secretario.
+Dada en la H. Ciudad de Córdoba, a veinticuatro de agosto de mil novecientos diez y siete.- C. Méndez Alcalde, Diputado por el 14o Distrito Electoral, Presidente.- Desiderio R. Pavón, Diputado por el 1er. Distrito Electoral.- Isaac Velázquez, Diputado por el 3er. Distrito Electoral.- Efrén A. Bauza, Diputado por el 5o Distrito Electoral.- Celerino Murrieta, Diputado por el 6o Distrito Electoral.- Gustavo Bello, Diputado por el 7o Distrito Electoral. D. Victoria, Diputado por el 8o Distrito Electoral.- Elías Pérez, Diputado por el 9o Distrito Electoral.- Miguel B. Fernández, Diputado por el 10o Distrito Electoral.- M. Limón Uriarte, Diputado por el 11o Distrito Electoral.- S. L. Herrera, Diputado por el 12o Distrito Electoral.- Pánfilo Méndez, Diputado por el 13o Distrito Electoral.- M. Loyo, Diputado por el 15o Distrito Electoral.- Rodolfo Cancela Nogueira, Diputado por el 16o Distrito Electoral.- Gaspar Méndez, Diputado por el 17o Distrito Electoral.- Luis G. Carrión, Diputado el 18o Distrito Electoral.- A. Ortiz Ríos, Diputado por el 19o Distrito Electoral.- A. Nava, Diputado por el 4o Distrito Electoral, Secretario.
 
 Por tanto, mando se imprima, publique por Bando solemne en todo el Estado y circule para general conocimiento.
 
@@ -11854,6 +11856,12 @@ DECRETO No. 556, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 26, 33 Y 67 DE
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 23 DE SEPTIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
