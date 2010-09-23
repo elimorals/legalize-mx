@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-09-07"
+last_updated: "2010-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -579,7 +579,7 @@ I. Expedir y reformar el Bando Municipal, así como los reglamentos, circulares 
 
 > <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
-I Bis. Aprobar programas y acciones que promuevan un proceso constante de mejora regulatoria, con base en las propuestas que sean sometidas a su consideración, de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Muncipios, y el reglamento municipal correspondiente;
+I Bis. Aprobar programas y acciones que promuevan un proceso constante de mejora regulatoria, con base en las propuestas que sean sometidas a su consideración, de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Municipios, y el reglamento municipal correspondiente;
 
 II. Celebrar convenios, cuando así fuese necesario, con las autoridades estatales competentes; en relación con la prestación de los servicios públicos a que se refiere el artículo 115, fracción III de la Constitución General, así como en lo referente a la administración de contribuciones fiscales;
 
@@ -711,9 +711,23 @@ XLII. Convocar al procedimiento de designación de los Defensores Municipales de
 
 XLIII. Conocer y, en su caso, acordar lo conducente acerca de las licencias temporales o definitivas, así como los permisos para viajar al extranjero en misión oficial, que soliciten sus integrantes;
 
-> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XLIV. Las demás que señalen las leyes y otras disposiciones legales.
+> <small>(REFORMADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+XLIV. Llevar un registro actualizado sobre establecimientos comerciales que se encuentren dentro del municipio, especificando la licencia con el giro comercial e impacto que generen, así como las demás características que el Cabildo determine;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+XLV. Colaborar con las autoridades estatales y federales en el ámbito de su competencia para establecer medidas regulatorias a giros comerciales de impacto regional y crear un registro específico que se regirá de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+XLVI. Las demás que señalen las leyes y otras disposiciones legales.
 
 ###### Artículo 32.
 
@@ -2898,3 +2912,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 23 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor treinta días después de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México, a fin de que los ayuntamientos realicen las adecuaciones necesarias para dar cabal cumplimiento a esta reforma.
