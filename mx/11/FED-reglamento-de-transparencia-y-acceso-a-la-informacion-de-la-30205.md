@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-de-la-302
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-29"
-last_updated: "2007-06-28"
+last_updated: "2010-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30205&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-08"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 29 de abril de 2003.
 
@@ -75,7 +75,9 @@ Organo Interno de Control.- Organo Interno de Control de la Comisión.
 
 Unidad de Enlace.- La Secretaría Técnica de la Presidencia de la Comisión.
 
-Titular de la Primera Visitaduría.- La instancia a que se refiere el artículo 61 fracción VII de la Ley.
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+Organo Revisor: La instancia a que se refiere el artículo 61, fracción VII de la Ley.
 
 ###### Artículo 3.
 
@@ -125,9 +127,11 @@ En cumplimiento del artículo 62 de la ley, la Unidad de Enlace remitirá al Ins
 
 ### Capítulo Unico. Clasificación de la Información
 
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 9.
 
-De conformidad con el artículo 4 de la Ley de la Comisión Nacional de los Derechos Humanos y de acuerdo a lo establecido en la fracción I del artículo 14 de la ley, se considera información reservada la información o documentación que obre en los expedientes de queja, de orientación, de remisión, de seguimiento de recomendación y de impugnación que se tramiten en la Comisión.
+De conformidad con el artículo 6o., segundo párrafo, fracción I de la Constitución Política de los Estados Unidos Mexicanos toda la información en posesión de la Comisión es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este Reglamento se deberá favorecer el principio de máxima publicidad de la información.
 
 ###### Artículo 10.
 
@@ -223,9 +227,43 @@ IV. La copia de la resolución que se impugna y, en su caso, de la notificación
 
 V. Los demás elementos que considere procedentes someter a juicio del Titular de la Primera Visitaduría.
 
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 22.
 
-Las resolución del Titular de la Primera Visitaduría deberá dictarse en un término máximo de 45 días hábiles, contados a partir del día en que recibió el recurso de revisión y podrá:
+La Comisión contará con un Organo Revisor especializado que gozará de plena autonomía de gestión y de decisión, el cual estará integrado por:
+
+I. El Primer Visitador General;
+
+II. El Secretario Técnico del Consejo Consultivo y
+
+III. El Director General del Centro Nacional de Derechos Humanos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 23.
+
+El Organo Revisor tendrá las siguientes facultades:
+
+I. Coordinar el cumplimiento de las disposiciones legales en materia de transparencia y del presente Reglamento por parte de los servidores públicos de la Comisión;
+
+II. Conocer y resolver los recursos de revisión que interpongan los solicitantes;
+
+III. Notificar la resolución, a través de la Unidad de Enlace, al recurrente, al Comité de Información y al Area Responsable de que se trate;
+
+IV. Dar vista al Organo Interno de Control, de las posibles irregularidades en que incurran los servidores públicos de la Comisión en la materia;
+
+V. Sugerir al Comité acciones para la promoción del derecho a la información y para la mejora de los procedimientos de acceso a la información y de datos personales;
+
+VI. Emitir criterios de interpretación de la normatividad de transparencia en el ámbito de la Comisión, y
+
+VII. Las demás que se desprendan de la Ley y del presente Reglamento.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 22], D.O.F. 23 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 24.
+
+La resolución del Organo Revisor deberá dictarse en un término máximo de 45 días hábiles, contados a partir del día en que recibió el recurso de revisión y podrá:
 
 I. Desechar el recurso por improcedente o bien, sobreseerlo;
 
@@ -239,19 +277,23 @@ V. Ordenar al Area Responsable que entregue los datos personales solicitados o l
 
 Las resoluciones deberán ser formuladas por escrito, en ellas se establecerán los plazos para su cumplimiento y los procedimientos para asegurar la ejecución.
 
-Cuando el Titular de la Primera Visitaduría determine durante la sustanciación del recurso que algún servidor público pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento del Organo Interno de Control, para que inicie, en su caso, el procedimiento de responsabilidad que corresponda.
+Cuando el Organo Revisor determine durante la sustanciación del recurso que algún servidor público pudo haber incurrido en responsabilidad, deberá hacerlo del conocimiento del Organo Interno de Control, para que inicie, en su caso, el procedimiento de responsabilidad que corresponda.
 
-###### Artículo 23.
+(REUBICADO [N. DE E. ANTES ARTICULO 23], D.O.F. 23 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 25.
 
 El recurso de revisión será desechado por improcedente cuando:
 
 I. Sea presentado una vez transcurrido el plazo señalado en el artículo 19 del presente Reglamento;
 
-II. El Titular de la Primera Visitaduría haya conocido anteriormente del recurso respectivo y resuelto en definitiva, y
+II. El Organo Revisor haya conocido anteriormente del recurso respectivo y resuelto en definitiva, y
 
 III. Se esté tramitando algún recurso o medio de defensa interpuesto por el recurrente ante los tribunales del Poder Judicial de la Federación.
 
-###### Artículo 24.
+(REUBICADO [N. DE E. ANTES ARTICULO 24], D.O.F. 23 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 26.
 
 El recurso de revisión será sobreseído cuando:
 
@@ -263,13 +305,17 @@ III. Admitido el recurso aparezca alguna causal de improcedencia en los término
 
 IV. El Comité o el Area Responsable que dictó el acto o resolución impugnada lo modifique o revoque, de tal manera que el recurso quede sin efecto o materia.
 
-###### Artículo 25.
+(REUBICADO [N. DE E. ANTES ARTICULO 25], D.O.F. 23 DE SEPTIEMBRE DE 2010)
 
-Las resoluciones que expida el Titular de la Primera Visitaduría, en la materia, serán definitivas.
+###### Artículo 27.
 
-###### Artículo 26.
+Las resoluciones que expida el Organo Revisor, en la materia, serán definitivas.
 
-Transcurrido un año de que el Titular de la Primera Visitaduría expidió la resolución que confirmó la decisión del Comité, el recurrente podrá solicitar ante el Titular de la Primera Visitaduría que reconsidere la resolución. Dicha reconsideración deberá referirse a la misma solicitud y resolverse en un plazo máximo de 45 días hábiles.
+(REUBICADO [N. DE E. ANTES ARTICULO 26], D.O.F. 23 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 28.
+
+Transcurrido un año de que el Organo Revisor expidió la resolución que confirmó la decisión del Comité, el recurrente podrá solicitar ante el Organo Revisor que reconsidere la resolución. Dicha reconsideración deberá referirse a la misma solicitud y resolverse en un plazo máximo de 45 días hábiles.
 
 ## TRANSITORIOS
 
@@ -292,3 +338,17 @@ PRIMERO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión 
 SEGUNDO. El presente Acuerdo entrará en vigor el día 1 de agosto de 2007.
 
 TERCERO. La parte conducente al Manual de Organización General de la Comisión Nacional, que refleje las modificaciones realizadas al Reglamento Interno, será expedida dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicada en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional de los Derechos Humanos.
+
+TERCERO. Se derogan las disposiciones reglamentarias y demás acuerdos que se opongan al presente Reglamento.
+
+CUARTO. Las disposiciones del presente Reglamento deberán reflejarse en el Manual de Organización General de la Comisión dentro de los seis meses siguientes a su entrada en vigor.
+
+QUINTO. Las referencias a que alude el contenido del Reglamento de Transparencia y Acceso a la Información de la Comisión Nacional de los Derechos Humanos bajo la denominación del titular de la Primera Visitaduría General, se entenderá como Organo Revisor.
+
+SEXTO. El Organo Revisor entrará en funciones a partir de la publicación del presente Reglamento en el Diario Oficial de la Federación, por lo que los Recursos de Revisión presentados con anterioridad se substanciarán por el titular de la Primera Visitaduría General, hasta su total resolución, en tanto que los recursos de reconsideración serán substanciados por el Organo Revisor.
