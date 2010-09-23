@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2010-03-06"
+last_updated: "2010-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACION EN EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -149,11 +149,21 @@ a) Promover un entorno que permita el libre acceso, desplazamiento y de recreaci
 
 b) Procurar su incorporación, permanencia y participación en las actividades educativas regulares en todos los niveles otorgándoles las ayudas técnicas necesarias para cada discapacidad;
 
-c) Crear programas permanentes de capacitación para el empleo y fomento a la integración laboral; promover que todos los espacios en inmuebles públicos tengan las adecuaciones físicas y de señalización para su acceso, libre desplazamiento y uso; y
+> <small>(REFORMADO, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+c) Promover que todos los espacios en inmuebles públicos tengan las adecuaciones físicas y de señalización para su acceso, libre de desplazamiento y uso;
 
 d) Promover que en las unidades del Sistema Estatal de Salud y de Seguridad Social se les proporcione el tratamiento y medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida.
 
 e) Recomienda a las instituciones bancarias otorguen facilidades para que las personas con discapacidad puedan gozar de los servicios que éstas otorguen, por conducto propio o sus padres o tutores.
+
+> <small>(ADICIONADO, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+f) Diseñar, ejecutar y evaluar un programa estatal y municipal de trabajo cuyo objeto principal sea la integración laboral;
+
+> <small>(ADICIONADO, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+g) Instrumentar convenios con los sectores empresariales, instituciones de gobierno, organismos sociales, sindicatos y empleadores, que propicien su acceso a un trabajo.
 
 V. Para garantizar la igualdad de oportunidades para la población indígena:
 
@@ -170,6 +180,10 @@ e) Procurar que para los casos en que se les impute la comisión de un delito, r
 f) Garantizar que en todos los juicios y procedimientos en que sean parte, se tomen en cuenta sus costumbres y especificidades culturales, respetando los preceptos de la Constitución Federal y Local; y
 
 g) Garantizar en cualquier proceso legal, el derecho a ser asistidos, por defensores de oficio con apoyo de intérpretes que tengan conocimiento de su lengua.
+
+> <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Adoptar políticas educativas y económicas adecuadas que promuevan el crecimiento general de empleo de los jóvenes egresados de las instituciones educativas.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO EN MATERIA DE PREVENCIÓN Y ELIMINACIÓN DE TODAS LAS FORMAS DE DISCRIMINACIÓN
 
@@ -374,3 +388,9 @@ El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotep
 QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 23 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
