@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-regional-no-7-57699"
 country: "mx"
 rank: "otro"
 publication_date: "1990-08-14"
-last_updated: "2007-12-27"
+last_updated: "2010-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57699&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,52 +19,50 @@ issue_date: "1990-08-09"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL ACUERDO REGIONAL NO. 7 (MULTILATERAL, 1988)
 
-DECRETO PARA LA APLICACION DEL ACUERDO REGIONAL NO. 7, DE COOPERACION E INTERCAMBIO DE BIENES EN LAS AREAS CULTURAL, EDUCACIONAL Y CIENTIFICA
+DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION, EL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCION SECTORIAL, ASI COMO LOS DIVERSOS QUE ESTABLECEN EL IMPUESTO GENERAL DE IMPORTACION PARA LA REGION FRONTERIZA Y LA FRANJA FRONTERIZA NORTE, LA TASA O PREFERENCIA ARANCELARIA APLICABLE, RESPECTO DEL IMPUESTO GENERAL DE IMPORTACION PARA LAS MERCANCIAS ORIGINARIAS DE ALGUNOS PAISES CON LOS QUE MEXICO HA CELEBRADO ACUERDOS COMERCIALES
 
-Decreto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 27 de diciembre de 2007.
+Decreto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de septiembre de 2010.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 2o. y 14 de la Ley de Comercio Exterior; 31 y 34 de la Ley Orgánica de la Administración Pública Federal, y
+FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 131 de la propia Constitución; 31 y 34 de la Ley Orgánica de la Administración Pública Federal; 4o., fracción I, 12 y 13 de la Ley de Comercio Exterior, y
 
 CONSIDERANDO
 
-Que el 28 de diciembre de 1980 fue aprobado por el Senado de la República el Tratado de Montevideo 1980, cuyo Decreto de promulgación se publicó en el Diario Oficial de la Federación el 31 de marzo de 1981, con objeto de proseguir el proceso de integración latinoamericano y establecer a largo plazo, en forma gradual y progresiva, un mercado común, para lo cual se instituyó la Asociación Latinoamericana de Integración (ALADI);
+Que para permitir que la industria nacional se abastezca de insumos necesarios para la producción de bienes en condiciones competitivas, es propicio eliminar el arancel aplicable a la importación de ciertos productos tales como la harina de algarroba, para la industria alimentaria; el mancozeb, para la industria agrícola; y el caucho butadieno, para la industria de manufacturas de hule;
 
-Que en el marco del Tratado de Montevideo 1980, los Gobiernos de los Estados Unidos Mexicanos, de la República Argentina, de la República Federativa del Brasil, de la República de Colombia, de la República del Perú, de la República Oriental del Uruguay y de la República de Venezuela, suscribieron el Acuerdo de Alcance Parcial de Cooperación e Intercambio de Bienes en las Areas Cultural, Educacional y Científica (Acuerdo), el 27 de octubre de 1988;
+Que a fin de brindar mayor claridad en la redacción de ciertas fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y evitar discrepancias en la interpretación por parte de los operadores del comercio exterior, resulta conveniente modificar la descripción de algunas fracciones arancelarias como es el caso de aquellas que comprenden desinfectantes de nariz y garganta, aditivos para aceites lubricantes y cuerdas de tripa;
 
-Que mediante Protocolos del 31 de agosto, 10 de septiembre, 5 y 22 de noviembre de 1990, así como del 27 de abril de 1992, suscritos por las Repúblicas del Paraguay, de Cuba, del Ecuador, de Chile y de Bolivia, respectivamente, las mismas se adhirieron al Acuerdo, por lo que en virtud de dichas adhesiones la totalidad de los países miembros de la ALADI son signatarios del Acuerdo;
+Que con el objeto de dar mayor certeza a las importaciones o exportaciones del aceite diesel y sus mezclas, y facilitar el monitoreo de las operaciones de comercio exterior que de los mismos se deriven, sin entorpecer las de otros productos petrolíferos, es imprescindible individualizar en una sola fracción arancelaria los bienes citados;
 
-Que debido a la participación en el Acuerdo de todos los países de la ALADI, el 5 de marzo de 1997 se suscribió el Primer Protocolo Adicional a dicho Acuerdo, en el cual se establece registrarlo como Acuerdo Regional de la ALADI, de conformidad con lo dispuesto en el Artículo 6 del Tratado de Montevideo 1980;
+Que la comercialización a nivel mundial de especialidades de café en pequeños envases individuales para elaborar café expresso, latte o capuchino, principalmente, ha tenido un importante incremento en los últimos años, generando en México un mercado potencial favorable para la inversión y, por ende, la creación de empleos, y tomando en cuenta además, que la importación de estas especialidades no daña a la producción nacional, sino que la complementa, se considera conveniente establecer un arancel-cupo para estos productos y así crear las condiciones para detonar el mercado de especialidades de café;
 
-Que de conformidad con el único transitorio del mencionado Primer Protocolo Adicional, se formuló la consolidación concordada del Acuerdo, por lo que se registró como Acuerdo Regional No. 7 de Cooperación e Intercambio de Bienes en las Areas Cultural, Educacional y Científica;
+Que a efecto de actualizar la lista de fracciones arancelarias para la región fronteriza y la franja fronteriza norte del país, es necesario reformar el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2008 y sus modificaciones posteriores;
 
-Que el 30 de marzo de 2000 se publicó en el Diario Oficial de la Federación el Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo Regional número 7 de Cooperación e Intercambio de Bienes en las Areas Cultural, Educacional y Científica;
+Que las modificaciones arancelarias antes señaladas, hacen necesario actualizar los decretos por los que se establecen las preferencias arancelarias de los Acuerdos de Complementación Económica y Regionales de Apertura de Mercados y de Preferencia Arancelaria Regional, y
 
-Que el 24 de junio de 2004 la Organización Mundial de Aduanas adoptó cambios al Sistema Armonizado de Designación y Codificación de Mercancías que incluyen, entre otros, modificaciones a las notas legales, la eliminación de varias subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o reestructuración de otras para identificar productos nuevos en el comercio mundial;
-
-Que el 18 de junio de 2007 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación con objeto de adoptar dichas modificaciones, y
-
-Que para aplicar las exenciones arancelarias que otorgan los Estados Unidos Mexicanos a los países de la ALADI en el Acuerdo Regional No. 7 de Cooperación e Intercambio de Bienes en las Areas Cultural, Educacional y Científica, en función de las modificaciones mencionadas al Sistema Armonizado de Designación y Codificación de Mercancías, y darlas a conocer a los operadores y autoridades aduaneras, he tenido a bien expedir el siguiente
+Que conforme a lo dispuesto en la Ley de Comercio Exterior, las medidas arancelarias a que se refiere el presente Decreto fueron opinadas favorablemente por la Comisión de Comercio Exterior, he tenido a bien expedir el siguiente
 
 DECRETO
 
-###### ARTÍCULO PRIMERO.
+….
 
-Para la aplicación de la exención del pago de impuestos a la importación que establece la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, a las mercancías previstas en el Acuerdo Regional No. 7, de Cooperación e Intercambio de Bienes en las Areas Cultural, Educacional y Científica, cuando sean originarias y procedentes de las Repúblicas Argentina, de Bolivia, Federativa del Brasil, de Colombia, de Cuba, de Chile, del Ecuador, del Paraguay, del Perú, Oriental del Uruguay y Bolivariana de Venezuela, se estará a la siguiente:
+V. Tratados y Acuerdos Comerciales.
+
+…
+
+###### ARTÍCULO 8.
+
+Se modifica la Tabla del Artículo Primero del Decreto para la aplicación del Acuerdo Regional No. 7, de Cooperación e Intercambio de Bienes en las Áreas Cultural, Educacional y Científica, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2007, en las fracciones arancelarias de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación que a continuación se indican, para quedar como sigue:
+
+"Tabla de las mercancías que conforme al Acuerdo Regional No. 7, de Cooperación e Intercambio de Bienes en las Áreas Cultural, Educacional y Científica, están exentas del pago de aranceles de importación que establece la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación
 
 (VEASE ARCHIVO ANEXO)
 
-###### ARTÍCULO SEGUNDO.
-
-Se da a conocer que las Repúblicas Argentina, de Bolivia, Federativa del Brasil, de Colombia, de Cuba, de Chile, del Ecuador, del Paraguay, del Perú, Oriental del Uruguay y Bolivariana de Venezuela, también eximen del pago de impuestos a la importación a las mercancías contenidas en la Tabla del artículo anterior, cuando son originarias y procedentes de los Estados Unidos Mexicanos.
-
 ## TRANSITORIOS
 
-PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Las preferencias arancelarias establecidas en el presente Decreto serán aplicables a las mercancías que hayan sido introducidas al territorio nacional a partir del primero de julio de 2007.
+SEGUNDO.- La vigencia del artículo 2 del presente Decreto concluirá el 31 de diciembre de 2014.
 
-TERCERO.- Se abroga el Decreto que establece las bases conforme a las cuales se aplicará el Acuerdo Regional número 7, de Cooperación e Intercambio de Bienes en las Areas Cultural, Educacional y Científica, publicado en el Diario Oficial de la Federación el 30 de marzo de 2000, y se deroga cualquier otra disposición que se oponga al presente Decreto.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veinte de diciembre de dos mil siete.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.- El Secretario de Economía, Eduardo Sojo Garza Aldape.- Rúbrica.
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de septiembre de dos mil diez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ernesto Javier Cordero Arroyo.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.
