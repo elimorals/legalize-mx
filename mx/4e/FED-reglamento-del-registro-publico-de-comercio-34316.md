@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-registro-publico-de-comercio-34316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-24"
-last_updated: "2003-10-24"
+last_updated: "2010-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34316&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-22"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE COMERCIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 24 de octubre de 2003.
 
@@ -33,19 +33,33 @@ REGLAMENTO DEL REGISTRO PÚBLICO DE COMERCIO
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 1o.
 
 El presente ordenamiento establece las normas reglamentarias a que se sujetará la prestación del servicio del Registro Público de Comercio.
 
 Para efecto de este Reglamento se entiende por:
 
-I. Secretaría: La Secretaría de Economía;
+I. Acreedor: La persona en cuyo favor se otorga una Garantía Mobiliaria;
 
-II. Registro: El Registro Público de Comercio;
+II. Garantía Mobiliaria: Es el efecto de un acto jurídico mercantil por medio del cual se constituye, modifica, transmite o cancela una garantía o un privilegio especial o un derecho de retención en favor del Acreedor, sobre un bien o conjunto de bienes muebles, para garantizar el cumplimiento de una obligación;
 
-III. SIGER: El Sistema Integral de Gestión Registral, y
+III. Ley: La Ley General de Títulos y Operaciones de Crédito;
 
-IV. Ley: La Ley General de Títulos y Operaciones de Crédito.
+IV. Otorgante: La persona que otorga una Garantía Mobiliaria;
+
+V. Registro: El Registro Público de Comercio;
+
+VI. RUG: El Registro Único de Garantías Mobiliarias, como una sección del Registro;
+
+VII. Secretaría: La Secretaría de Economía;
+
+VIII. SIGER: El Sistema Integral de Gestión Registral, y
+
+IX. Sistema: El programa informático establecido por la Secretaría para operar el RUG, y que incluye la página electrónica de la red mundial denominada Internet, a través de la cual el público podrá tener acceso al mismo, así como la base de datos nacional a que hace referencia el artículo 32 Bis 3 del Código de Comercio.
 
 ###### ARTÍCULO 2o.
 
@@ -101,19 +115,43 @@ Efectuada la recepción de la forma precodificada respectiva el Registro a trav�
 
 Para efecto de lo dispuesto por la fracción II inciso b) del artículo 21 bis del Código de Comercio, la fase de análisis comprende la revisión de la forma precodificada de un acto mercantil inscribible en el Registro, verificación de la existencia o inexistencia de antecedentes registrales y, en su caso, su captura y preinscripción de dicha información a la base de datos ubicada en la entidad federativa. Esta fase está a cargo del analista cuando se presenta físicamente la forma precodificada acompañada del medio magnético que la contiene, o por el notario o corredor público, en el caso de que haya sido enviada por medios electrónicos a través del SIGER.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 10.
 
-Para efecto de lo dispuesto por la fracción II inciso c) del artículo 21 bis del Código de Comercio, en la fase de calificación, el responsable de oficina o el registrador recibirá a través del SIGER el acto a procesar, identificándolo por el número de control, la fecha y la hora, y revisará los datos capturados en la fase de análisis, de ser correctos y procedente la inscripción del acto, de acuerdo con las disposiciones legales y reglamentarias vigentes, el responsable de oficina autorizará mediante la generación de la firma electrónica su inscripción en la base de datos, con lo cual se creará en forma definitiva el folio mercantil electrónico correspondiente o se agregará a éste el acto de que se trate. Los subsecuentes actos registrables relativos a un comerciante o sociedad se inscribirán en el folio electrónico generado.
+Para efecto de lo dispuesto por el inciso c) de la fracción II del artículo 21 bis del Código de Comercio, en la fase de calificación, el responsable de oficina o el registrador recibirá a través del SIGER el acto a procesar, identificándolo por el número de control, la fecha y la hora, o sello digital de tiempo, y revisará los datos capturados en la forma precodificada, de ser correctos y procedente la inscripción del acto, de acuerdo con las disposiciones legales y reglamentarias vigentes, el responsable de oficina autorizará mediante la generación de la firma electrónica su inscripción en la base de datos, con lo cual se creará en forma definitiva el folio mercantil electrónico correspondiente o se agregará a éste el acto de que se trate. Los subsecuentes actos registrables relativos a un comerciante o sociedad se inscribirán en el folio electrónico generado.
 
-Tratándose de la presentación física, el responsable de oficina o el registrador calificará el acto que se haya presentado para su inscripción dentro de un plazo de diez días hábiles, contados a partir de la recepción de la forma precodificada en la oficina registral. El plazo será de un máximo de dos días hábiles a partir de la recepción de la forma precodificada cuando haya sido enviada a través del SIGER por un notario o corredor público.
+Tratándose de la presentación física, el responsable de oficina o el registrador calificará el acto que se haya presentado para su inscripción dentro de un plazo de diez días hábiles, contados a partir de la recepción de la forma precodificada en la oficina registral.
 
-En caso de que persistan los defectos u omisiones de los mencionados en el artículo 31 del Código de Comercio, previa fundamentación y motivación, procederá el responsable de oficina o el registrador, en su caso, a la suspensión o denegación en términos del artículo 18 de este Reglamento.
+En caso de que persistan los defectos u omisiones previstos en el artículo 31 del Código de Comercio, previa fundamentación y motivación, procederá el responsable de oficina o el registrador, en su caso, a la suspensión o denegación en términos del artículo 18 de este Reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 10 Bis.
+
+Para los efectos dispuestos en la fracción III del artículo 21 bis del Código de Comercio, el registro inmediato de actos, deberá cumplir con los siguientes requisitos:
+
+I. El trámite debe ser enviado a través del SIGER por un notario o corredor público autorizado para utilizar medios electrónicos en los términos de los artículos 30 bis y 30 bis-1 del Código de Comercio;
+
+II. Además de lo previsto en el artículo 6o., fracción I de este Reglamento, se deberá acreditar a través del SIGER el pago de los derechos realizados en línea por concepto de inscripción del acto, conforme a los montos previamente establecidos por la entidad federativa correspondiente;
+
+III. La forma precodificada enviada en términos de este artículo se inscribirá de inmediato al momento de su recepción y no será susceptible de calificación; y
+
+IV. El notario o corredor público que haya realizado dicho trámite, podrá descargar a través del SIGER la boleta de inscripción correspondiente, la cual contendrá un sello digital de tiempo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 11.
 
-La firma electrónica que se utilizará en el procesamiento de los actos registrales conforme a lo previsto en los artículos 21 bis fracción II inciso c) y 30 bis del Código de Comercio, será Avanzada o Fiable; por tanto el uso de los medios de identificación electrónica que certifique la Secretaría, acreditará que los datos de creación de la firma, corresponden exclusivamente al Firmante y que estaban, en el momento de la firma, bajo el control exclusivo de él. La persona autorizada para firmar electrónicamente será el responsable único y final de mantener la confidencialidad de las claves de acceso y contraseñas autorizadas por la Secretaría, por tanto la información registral así firmada le será atribuible.
+La firma electrónica que se utilizará en el procesamiento de los actos registrales conforme a lo previsto en los artículos 21 bis, fracción II, inciso c) y 30 bis del Código de Comercio, será Avanzada o Fiable y los certificados digitales para generarla deberán ser emitidos o reconocidos por la Secretaría en los términos de las disposiciones aplicables. La persona autorizada para firmar electrónicamente será el responsable único y final de mantener la confidencialidad de las claves de acceso y contraseñas autorizadas o reconocidas por la Secretaría, por tanto la información registral así firmada le será atribuible.
 
-La certificación de los medios de identificación para firmar electrónicamente la información del Registro lo hará la Secretaría, conforme a los lineamientos que al efecto emita mediante publicación en el Diario Oficial de la Federación
+La certificación o reconocimiento de los medios de identificación para firmar electrónicamente la información del Registro lo hará la Secretaría, conforme a los lineamientos que al efecto emita mediante publicación en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO 12.
 
@@ -181,9 +219,13 @@ Para tal efecto, la Secretaría impulsará la vinculación por medios electróni
 
 ### Capítulo III. De las consultas y certificaciones
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 21.
 
-Los actos mercantiles inscritos en las bases de datos de las entidades federativas del Registro son de carácter público, y cualquier persona podrá consultarlas, previo el pago, en su caso, de los derechos correspondientes.
+Los actos mercantiles inscritos en las bases de datos del Registro son de carácter público, cualquier persona podrá consultarlos y solicitar certificaciones respecto de los asientos contenidos en ellas conforme a lo previsto en los lineamientos que al efecto expida la Secretaría, previo el pago, en su caso, de los derechos correspondientes.
 
 ###### ARTÍCULO 22.
 
@@ -203,15 +245,23 @@ Para efecto de lo anterior, se deberá identificar plenamente al usuario que sol
 
 Dichas consultas podrán efectuarse directamente en las oficinas del Registro o a través del SIGER.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 23.
 
-Para efecto de lo dispuesto en el segundo párrafo del artículo 30 del Código de Comercio, las solicitudes de certificaciones podrán hacerse directamente en las oficinas del Registro o vía remota por medios electrónicos a través del SIGER, tratándose de notarios o corredores públicos autorizados para tal efecto.
+Para efecto de lo dispuesto en el último párrafo del artículo 30 del Código de Comercio, la solicitud de certificación podrá hacerse directamente en las oficinas del Registro o vía remota por medios electrónicos a través del SIGER.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 24.
 
-Para efecto de lo dispuesto por la fracción IV del artículo 20 bis del Código de Comercio, los responsables de las oficinas expedirán las certificaciones de las inscripciones que respecto de un folio electrónico de una sociedad o comerciante obren en la base de datos de la entidad federativa respectiva o de las imágenes del testimonio, póliza, acta o extracto correspondiente.
+Para efecto de lo dispuesto por la fracción IV del artículo 20 bis del Código de Comercio, los responsables de las oficinas expedirán las certificaciones de las inscripciones que respecto de un folio electrónico de una sociedad o comerciante obren en la base de datos de la entidad federativa respectiva o de los archivos electrónicos de los documentos que obren en los archivos de la institución y de los cuales se haya derivado la inscripción correspondiente.
 
-Las certificaciones pueden ser literales o concretarse a determinados contenidos de las inscripciones de actos existentes en cualquier folio electrónico del Registro.
+Las certificaciones pueden ser literales o concretarse a determinados contenidos de las inscripciones de los actos jurídicos inscritos en cualquier folio electrónico.
 
 ###### ARTÍCULO 25.
 
@@ -251,47 +301,259 @@ Para efecto de lo dispuesto por el artículo 20 del Código de Comercio, en los 
 
 Sólo en caso de que exista discrepancia, el Registrador Mercantil emitirá la certificación correspondiente.
 
-### Capítulo V. De la inscripción de Garantías Mobiliarias
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+### Capítulo V. Del Registro Único de Garantías Mobiliarias
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 30.
 
-Para efecto de lo dispuesto en los artículos 366, 368, 376 y 378 de la Ley, la inscripción en el Registro de los actos en los que se haga constar la constitución, modificación, extinción, cesión y las resoluciones judiciales sobre cancelaciones de la prenda sin transmisión de posesión, se efectuará conforme a lo previsto en el presente Capítulo.
+El registro de los actos en los que se haga constar la constitución, modificación, transmisión o cancelación de Garantías Mobiliarias, se efectuará en el RUG conforme a lo previsto en el Código de Comercio y estará sujeto a lo previsto en los capítulos I, salvo lo relativo a las formas precodificadas, el presente capítulo y VII de este Reglamento.
+
+La Secretaría permitirá que el Sistema esté disponible al público todos los días del año.
+
+Para efectos del presente capítulo, el Asiento es la inscripción de una Garantía Mobiliaria, su modificación, transmisión, renovación, rectificación, cancelación, así como los avisos preventivos y las anotaciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 30 Bis.
+
+Corresponde a la Secretaría administrar y operar el RUG, mismo que será automatizado y se llevará por medios digitales a través del Sistema, por medio del cual se realizarán todos los Asientos relativos a las Garantías Mobiliarias, siempre que se cumpla con los requisitos previstos en el Código de Comercio y en este Reglamento.
+
+La información generada, enviada, recibida o archivada en el RUG a través de medios electrónicos, ópticos o cualquier otra tecnología, será considerada mensaje de datos en los términos del Código de Comercio, para todos los efectos jurídicos a que haya lugar.
+
+La Secretaría no tendrá obligación de calificar ni revisar los Asientos que se realicen en el RUG para determinar si son válidos, si es procedente su registro o si fueron autorizados por las partes involucradas o mencionadas en los mismos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 30 Bis 1.
+
+Los Asientos se llevarán a cabo en el folio electrónico del Otorgante. Para efectos del artículo 21, fracción XX del Código de Comercio, se entiende que el folio electrónico antes referido es el que reside en la base de datos nacional del RUG prevista en el artículo 32 Bis 3 del Código de Comercio. En caso de que el Otorgante sea una persona física que no se encuentre matriculada en el Registro, el Sistema la matriculará de oficio para efectos del RUG en la base de datos nacional del RUG.
+
+Los Asientos quedarán realizados en el momento en el que sean firmados electrónicamente por quien los realiza, cuya fecha y hora quedará establecida en el sello digital de tiempo contenido en la boleta que emita el Sistema.
+
+Toda consulta y solicitud de certificación de una Garantía Mobiliaria inscrita en el RUG deberá llevarse a cabo exclusivamente conforme al artículo 34 de este Reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 30 Bis 2.
+
+La Secretaría emitirá los lineamientos que establecerán, entre otros, los mecanismos de seguridad para salvaguardar la integridad de la información y los medios de identificación que utilicen las personas autorizadas para llevar a cabo Asientos, así como los demás elementos necesarios para la adecuada operación del RUG.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 31.
 
-La forma precodificada respectiva, deberá estar firmada electrónicamente y contener al menos, la siguiente información:
+Las garantías mobiliarias inscritas en términos del presente Reglamento, surtirán efectos frente a terceros de conformidad con las leyes respectivas.
 
-I. El nombre y domicilio del deudor garante y del acreedor garantizado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. La descripción de la obligación garantizada y el importe de la garantía;
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
-III. La identificación específica de los bienes pignorados, salvo el caso del artículo 354 de la Ley, y
+###### ARTÍCULO 31 Bis.
 
-IV. La fecha de vencimiento de la garantía.
+En caso de Garantías Mobiliarias que sean susceptibles de inscripción en un registro especial, el sistema de dicho registro especial replicará el asiento automáticamente en el RUG. Dicha réplica hará las veces de toma de razón conforme al artículo 22 del Código de Comercio.
+
+La Secretaría emitirá lineamientos que establezcan la forma en que operará la réplica referida en el párrafo anterior, las reglas de operación de dicha réplica y los aspectos de seguridad informática para la transmisión y uso de la información. Las etapas y los plazos para la implementación de la réplica, así como cualquier otro aspecto relacionado con la misma, se establecerán mediante convenios de colaboración a ser celebrados entre la Secretaría y las dependencias y entidades de la Administración Pública Federal responsables de los registros especiales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 32.
 
-La presentación de la forma precodificada firmada electrónicamente se hará, por el deudor o acreedor garantizado a través del SIGER o, en su caso, por el notario o corredor público ante el cual se haya otorgado el acto o ratificado las firmas, a las oficinas del Registro de la entidad federativa correspondiente, de acuerdo al lugar en el que se encuentre ubicado el domicilio del deudor prendario, en términos de lo dispuesto en los artículos 365 y 376 de la Ley.
+Para efectos del RUG, los criterios de clasificación de las Garantías Mobiliarias y de los bienes muebles afectos a las mismas serán los siguientes:
+
+A. Las Garantías Mobiliarias se clasifican en:
+
+I. Prenda sin transmisión de posesión;
+
+II. La derivada de un crédito refaccionario o de habilitación o avío;
+
+III. La derivada de una hipoteca industrial;
+
+IV. La constituida sobre una aeronave o embarcación;
+
+V. La derivada de un arrendamiento financiero;
+
+VI. Cláusula de reserva de dominio en una compraventa mercantil de bienes muebles que sean susceptibles de identificarse de manera indubitable, y
+
+VII. La derivada de un fideicomiso de garantía, derechos de retención, y otros privilegios especiales conforme al Código de Comercio o las demás leyes mercantiles.
+
+B. Los bienes muebles que pueden ser objeto de una Garantía Mobiliaria se clasifican de la siguiente manera:
+
+I. Maquinaria y equipo;
+
+II. Vehículos de motor;
+
+III. Ganado;
+
+IV. Productos agrícolas;
+
+V. Bienes de consumo;
+
+VI. Inventario;
+
+VII. Acciones y obligaciones, bonos, contratos de opción y futuros;
+
+VIII. Derechos, incluyendo derechos de cobro, y
+
+IX. Otros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 33.
 
-En la inscripción de actos relativos a la prenda sin transmisión de posesión, se estará a lo siguiente:
+Para que proceda un Asiento en el RUG deberá cumplimentarse toda la información que sea identificada como obligatoria en las pantallas del Sistema, misma que será, para todos los efectos a que haya lugar, la contenida en las formas precodificadas. Para los efectos de este artículo, la Secretaría deberá publicar en el Diario Oficial de la Federación los formatos correspondientes a la información que se solicite en las pantallas del Sistema.
 
-I. En caso de que el deudor sea persona física se tendrá que verificar en primer lugar si se encuentra registrado y cuenta con un folio mercantil electrónico, en caso contrario antes de iniciar con el procedimiento de inscripción, se matriculará de oficio;
+Siempre que deban ser inscritos instrumentos jurídicos, se entenderá que los mismos quedan inscritos en el RUG mediante el llenado de la información sobre los mismos que requieren las pantallas del Sistema y la generación del Asiento correspondiente.
 
-II. Se deberá realizar el pago en línea de los derechos respectivos, para que posteriormente se proceda a la recepción del documento correspondiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-III. Se continuará con el análisis que no determinará la validez legal del acto a inscribir, sino que se limitará a revisar si la forma presentada contiene los datos requeridos para la inscripción y si el pago realizado es el correcto, y
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Se llevará a cabo la calificación del documento, con la que se autorizará en definitiva la inscripción en la base de datos mediante la firma electrónica del responsable de oficina del Registro y finalmente se emitirá la boleta correspondiente.
+###### ARTÍCULO 33 Bis.
+
+Las operaciones que se pueden realizar en el RUG son las siguientes:
+
+I. Consulta y solicitud de certificación de Asientos;
+
+II. Inscripción de Garantías Mobiliarias y aviso preventivo.
+
+Se entiende por inscripción, el Asiento inicial de una Garantía Mobiliaria en el RUG; se entiende por aviso preventivo el Asiento que sirve para dar prelación a la Garantía Mobiliaria que sea otorgada sobre determinados bienes muebles tal y como se prevé en el artículo 33 Bis 3 de este Reglamento.
+
+Se encuentran facultados para llevar a cabo estas operaciones en el RUG las siguientes personas:
+
+a. Acreedores, entidades financieras en su calidad de Acreedores y personas autorizadas por éstos en el Sistema, respecto de las Garantías Mobiliarias que sean otorgadas en su favor;
+
+b. Fedatarios públicos, respecto de las Garantías Mobiliarias que sean otorgadas en favor de los Acreedores y entidades financieras en su calidad de Acreedores, cuando éstos se las soliciten, o por orden de una instancia de autoridad competente;
+
+c. Jueces y servidores públicos, y
+
+d. Las personas autorizadas por la Secretaría, respecto de las garantías que sean otorgadas en favor de los Acreedores y entidades financieras en su calidad de Acreedores, cuando éstos se las soliciten, o por orden de una instancia de autoridad competente;
+
+III. Modificación, transmisión, rectificación por error y cancelación de Garantías Mobiliarias, así como renovación de inscripción.
+
+Se entiende por modificación, el Asiento de un acto mercantil que agregue, elimine o modifique el o los bienes muebles objeto de la Garantía Mobiliaria inscrita en el RUG y/o la o las obligaciones garantizadas y/o el o los deudores.
+
+Se entiende por transmisión, el Asiento de un acto mercantil que agregue, elimine o modifique al Otorgante y/o al o los Acreedores. Si la transmisión es respecto del Otorgante, se asentará una cancelación por transmisión en el folio del Otorgante original y una inscripción por transmisión en el folio del nuevo Otorgante.
+
+Se entiende por rectificación por error el Asiento mediante el cual se corrige un error de concepto o material.
+
+Se encuentran facultados para llevar a cabo estas operaciones en el RUG las personas referidas en la fracción anterior.
+
+Cuando el acto o contrato por virtud del cual se crea una Garantía Mobiliaria prevea incrementos, reducciones o sustituciones de los bienes muebles objeto de la misma o del monto garantizado, no será necesario realizar modificaciones, siempre y cuando dicha circunstancia haya quedado asentada al momento de su inscripción en el RUG, y
+
+IV. Anotaciones. Se entiende por anotación, el Asiento relativo a resoluciones judiciales o administrativas, así como cualquier acto que por su naturaleza constituya, modifique, transmita o cancele una Garantía Mobiliaria, ordenado por una instancia de autoridad.
+
+Se encuentran facultados para llevar a cabo estas operaciones en el RUG las siguientes personas:
+
+a. Jueces y servidores públicos;
+
+b. Fedatarios públicos, y
+
+c. Personas autorizadas por la Secretaría.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 33 Bis 1.
+
+Todo Asiento deberá firmarse electrónicamente en los términos que requiera el Sistema por quien lo realiza, quien será responsable de la existencia y veracidad de la información. Tratándose de instituciones financieras o personas morales que sean acreedores prendarios, fideicomisarios o fiduciarios, éstos serán responsables, independientemente del empleado o funcionario que realiza la inscripción.
+
+La Secretaría expedirá los certificados digitales para que los jueces, servidores públicos y fedatarios públicos puedan de manera directa en el Sistema firmar electrónicamente los Asientos en el RUG conforme a lo previsto en el segundo párrafo del artículo 30 Bis del Código de Comercio.
+
+Asimismo, la Secretaría reconocerá los certificados digitales generados por otras autoridades certificadoras en favor de Acreedores, entidades financieras en su calidad de Acreedores y personas autorizadas por éstos en el Sistema, siempre y cuando, a su juicio, presenten un grado de confiabilidad y cumplan con las medidas de seguridad suficientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 33 Bis 2.
+
+En la inscripción deberá identificarse en el Sistema la siguiente información:
+
+I. El Otorgante y, en su caso, el o los deudores;
+
+II. El Acreedor;
+
+III. El tipo de Garantía Mobiliaria;
+
+IV. El o los bienes muebles objeto de la Garantía Mobiliaria;
+
+V. La o las obligaciones garantizadas;
+
+VI. La vigencia de la inscripción, y
+
+VII. La demás que se establezca en las formas precodificadas previstas en el artículo 33 de este Reglamento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 33 Bis 3.
+
+Los usuarios facultados para realizar inscripciones podrán presentar avisos preventivos a través del Sistema con motivo de las Garantías Mobiliarias que se prevean otorgar.
+
+A partir de que sea presentado un aviso preventivo, ningún Asiento que conste en el mismo folio del Otorgante le será oponible al Acreedor que haya realizado la inscripción dentro del plazo de quince días naturales improrrogables, siempre y cuando dicha inscripción se realice respecto de los mismos bienes muebles descritos indubitablemente en el aviso preventivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 34.
 
-En caso de que se realice una modificación a la inscripción original se tendrá que hacer mediante la forma precodificada correspondiente y conforme al procedimiento señalado en el artículo anterior. La inscripción se modificará en los términos que previamente hayan acordado las partes.
+Toda persona podrá realizar consultas y solicitar la emisión de certificaciones de Asientos que consten en el RUG. La certificación será emitida con firma electrónica y sello digital de tiempo y contendrá, al igual que las boletas que emita el Sistema, una cadena única de datos que podrá ser ingresada al mismo para verificar su autenticidad.
+
+En toda consulta y certificación el RUG proporcionará la siguiente información:
+
+I. Nombre, denominación o razón social del Acreedor, según sea el caso;
+
+II. Nombre, denominación o razón social del Otorgante, según sea el caso;
+
+III. Nombre, denominación o razón social del deudor, en aquellos casos en que este último sea distinto del Otorgante;
+
+IV. Folio del Otorgante;
+
+V. Tipo de Garantía Mobiliaria;
+
+VI. Descripción de los bienes muebles objeto de la Garantía Mobiliaria;
+
+VII. Fecha y hora de la inscripción de la Garantía Mobiliaria y de la certificación;
+
+VIII. Número de la Garantía Mobiliaria, que le haya asignado el Sistema, y
+
+IX. Los Asientos de Garantías Mobiliarias vigentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 35.
 
-La cancelación de la inscripción de una garantía mobiliaria se realizará mediante la presentación de la forma precodificada correspondiente firmada electrónicamente, por el acreedor o en su caso por el fedatario público vía electrónica, o bien por el deudor previa acreditación del pago de la obligación garantizada. Así como en su caso, mediante orden de autoridad judicial o administrativa.
+Las Garantías Mobiliarias inscritas en favor de un Acreedor deberán ser canceladas por éste cuando las obligaciones garantizadas por la Garantía Mobiliaria hayan sido cumplidas a su satisfacción.
+
+Si la cancelación es parcial, por liberarse de la Garantía Mobiliaria uno o varios bienes muebles objeto de ella, deberá darse el tratamiento de modificación en los términos del artículo 33 Bis, fracción III de este Reglamento, sin perjuicio de lo previsto por el último párrafo de la fracción III del mismo artículo.
+
+El Sistema cancelará de manera automática las inscripciones de Garantías Mobiliarias cuya vigencia haya caducado sin haberse solicitado su renovación.
+
+La persona que aparezca como Otorgante en el RUG, tendrá derecho a solicitar al Acreedor la modificación, transmisión, rectificación o cancelación de la misma, según sea el caso, cuando el Acreedor incumpla con lo establecido en el primer párrafo del presente artículo o cuando la información registral de la Garantía Mobiliaria no coincida con los actos jurídicos vigentes que le dieron lugar a los Asientos, sin perjuicio de cualquier otro derecho que ésta tuviera. Los Acreedores deberán proporcionar a través del Sistema sus domicilios, teléfonos y correos electrónicos a efecto de que puedan ser contactados.
 
 ### Capítulo VI. De los responsables de oficinas, registradores, analistas y el Padrón
 
@@ -368,3 +630,31 @@ OCTAVO.- Para efecto de lo dispuesto en el artículo 18 del Código de Comercio,
 En los supuestos de aquellas oficinas que se ubiquen en entidades federativas que comuniquen a la Secretaría su decisión de no continuar con la prestación del servicio del Registro Público de Comercio o que no estén en condiciones de operar dicho servicio conforme a lo indicado en el párrafo anterior, será responsabilidad de la Secretaría asegurar la prestación del servicio conforme a lo dispuesto por el Capítulo referido en el párrafo anterior.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 23 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor a los diez días hábiles posteriores a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Secretaría de Economía contará con un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto para emitir los lineamientos que prevé el Reglamento del Registro Público de Comercio.
+
+TERCERO. En los términos del artículo 32 Bis 1, tercer párrafo, y del artículo 22, segundo párrafo del Código de Comercio, así como del Segundo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones del Código de Comercio publicado en el Diario Oficial de la Federación el 27 de agosto de 2009, a partir de la entrada en vigor del presente Decreto, las garantías mobiliarias únicamente estarán sujetas a inscripción en el Registro Único de Garantías Mobiliarias conforme a la Sección Única del Título Segundo, Libro Primero del Código de Comercio, y no conforme al Capítulo Segundo del Título Segundo, Libro Primero del referido Código. Lo anterior, sin perjuicio de la inscripción de gravámenes en registros especiales, conforme a las leyes aplicables.
+
+La Secretaría de Economía deberá publicar en el Diario Oficial de la Federación la información que se solicite en las pantallas del sistema del Registro Único de Garantías Mobiliarias referida en el artículo 33 del Reglamento del Registro Público de Comercio antes del inicio de sus operaciones.
+
+Asimismo, la Secretaría de Economía deberá publicar en el Diario Oficial de la Federación la modificación correspondiente al Acuerdo que establece las formas para llevar a cabo las inscripciones en el Registro Público de Comercio que fueron publicadas en el mismo medio informativo el 18 de noviembre de 2000.
+
+CUARTO. La inscripción de garantías mobiliarias que haya sido realizada con anterioridad a la fecha de inicio de operaciones del Registro Único de Garantías Mobiliarias se regirá, para todos los efectos jurídicos a que haya lugar, por las disposiciones aplicables a la misma al momento en que fue llevada a cabo, por lo que su modificación, transmisión, rectificación, cancelación, consulta y certificación deberán continuar realizándose en los términos de dichas disposiciones.
+
+Sin perjuicio de lo anterior, las garantías mobiliarias otorgadas con anterioridad a la fecha de inicio de operaciones del Registro Único de Garantías Mobiliarias que no hayan sido inscritas a la entrada en vigor del presente Decreto o cuya inscripción haya sido cancelada, podrán inscribirse en el Registro Único de Garantías Mobiliarias.
+
+QUINTO. La implementación de la toma de razón referida en el artículo 31 Bis del Reglamento del Registro Público de Comercio iniciará a partir de que se materialicen las réplicas de un registro especial al Registro Único de Garantías Mobiliarias en los términos del artículo antes señalado.
+
+Las réplicas al Registro Único de Garantías Mobiliarias que provengan de registros especiales, deberán iniciar a más tardar dentro de los dos años siguientes a la entrada en vigor del presente Decreto.
+
+La Secretaría de Economía y las dependencias y entidades de la Administración Pública Federal responsables de la operación de registros especiales deberán celebrar los convenios referidos en el artículo 31 Bis del Reglamento del Registro Público de Comercio dentro un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto.
+
+En tanto no inicien las réplicas, no será necesaria la inscripción en el Registro Único de Garantías Mobiliarias de una garantía mobiliaria inscrita en un registro especial en los términos de las leyes aplicables.
+
+SEXTO. La Secretaría de Economía realizará las acciones necesarias para que la implementación del presente Decreto se realice con cargo a su presupuesto modificado autorizado para el ejercicio fiscal correspondiente, por lo que no requerirá recursos adicionales para dicho propósito.
