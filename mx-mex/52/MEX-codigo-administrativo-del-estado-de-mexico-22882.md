@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-09-07"
+last_updated: "2010-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1253,7 +1253,7 @@ V. Que exista un alto requerimiento para hacer más transparente el proceso.
 
 ###### Artículo 1.
 
-74 .- Toda persona tiene derecho a presentar denuncia ante las autoridades, de hechos, actos u omisiones que constituyan infracciones a las disposiciones del presente Código y su reglamentación.
+74.- Toda persona tiene derecho a presentar denuncia ante las autoridades, de hechos, actos u omisiones que constituyan infracciones a las disposiciones del presente Código y su reglamentación.
 
 Para dar curso a la acción popular, basta el señalamiento de los hechos que constituyan la causa de la denuncia. Si las autoridades no dan trámite a las denuncias en un plazo de treinta días naturales se configura en favor del denunciante una resolución negativa ficta.
 
@@ -1283,7 +1283,7 @@ Para dar curso a la acción popular, basta el señalamiento de los hechos que co
 
 ## TITULO DECIMO TERCERO. Del Consejo Estatal de Población
 
-(REUBICADO [N. DE E. ANTES ARTICULO 1.46], G.G. 6 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES ARTICULO 1.46], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
 
 ###### Artículo 1.
 
@@ -1293,7 +1293,7 @@ Para dar curso a la acción popular, basta el señalamiento de los hechos que co
 
 ###### Artículo 1.
 
-79.- El Consejo Estatal de Población para el cumplimiento de su objeto tendrá las atribuciones siguientes:
+78.- El Consejo Estatal de Población para el cumplimiento de su objeto tendrá las atribuciones siguientes:
 
 I. Establecer los instrumentos y promover las acciones necesarias para asegurar la adecuada aplicación de las políticas de población nacional y estatal, en los programas de desarrollo económico y social que formulen los órganos de la administración pública estatal y municipal;
 
@@ -4175,7 +4175,21 @@ c) Para las colonias o barrios y los nuevos desarrollos urbanos de los centros d
 
 d) Se deberán observar las disposiciones que en materia de prestación de servicios a personas con capacidades distintas prevé este Código.
 
-V. En cuanto a la localización de industrias:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+V. En cuanto a la ubicación de comercios dedicados a la venta de productos con contenido erótico, así como restaurantes-bares, bares, discotecas y centros de espectáculos en los que se vendan bebidas alcohólicas, ya sea en envases abiertos o para consumo por copeo, deberán:
+
+a) Ubicarse exclusivamente en las zonas con el uso de suelo comercial aprobados por los Cabildos. En ningún caso, se podrán ubicar en un radio menor de 200 metros de alguna estancia infantil, centro escolar o centro de salud.
+
+b) Contar con las medidas de seguridad necesarias y cumplir con la normatividad vigente.
+
+c) No podrán colindar con casa habitación.
+
+d) Ser inscritos en los registros municipales sobre establecimientos comerciales, detallando la licencia con el giro específico e impacto que produce su actividad, así como las demás características que el Ayuntamiento determine.
+
+VI. En cuanto a la localización de industrias:
 
 a) Los parques o zonas industriales deben ubicarse separadamente de las áreas de vivienda;
 
@@ -4183,7 +4197,7 @@ b) Las de alto riesgo deberán situarse fuera de las áreas urbanas de los centr
 
 c) Las que se permitan establecer dentro o próximas a zonas habitacionales, serán señaladas en la reglamentación de este Libro, de acuerdo con las normas oficiales mexicanas y normas técnicas estatales ambientales aplicables y considerando la opinión de la Secretaría de Desarrollo Económico en cuanto a giros industriales y dimensión de las mismas.
 
-VI. Por lo que se refiere a la protección del entorno ambiental:
+VII. Por lo que se refiere a la protección del entorno ambiental:
 
 a) Se protegerán y en su caso aprovecharán los recursos con que cuentan los cerros, bosques, cuerpos de agua superficiales, mantos de aguas subterráneas y zonas de recarga acuífera, que sirvan para mantener o mejorar la calidad del ambiente;
 
@@ -4193,7 +4207,7 @@ c) La forestación de los espacios abiertos públicos o privados, se llevará a 
 
 d) Se contemplarán las áreas aptas para el funcionamiento de los sistemas de abastecimiento, tratamiento y disposición final de residuos sólidos, al igual que las que fueren necesarias para los materiales y residuos peligrosos.
 
-VII. En relación a la conservación del patrimonio histórico, artístico y cultural:
+VIII. En relación a la conservación del patrimonio histórico, artístico y cultural:
 
 a) Se identificarán los sitios y los edificios que signifiquen para la comunidad un testimonio valioso de su historia y su cultura;
 
@@ -5680,6 +5694,10 @@ En caso de concurrencia de dos o más personas físicas o morales para obtener c
 ###### Artículo 7.
 
 29.- Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, mediante disposiciones de carácter general, fijarán los requisitos que se deben satisfacer para el otorgamiento de las concesiones a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+El Ejecutivo del Estado, deberá crear convocatorias específicas de concesión, para la prestación de servicio de Transporte de Pasajeros de uso Exclusivo para Mujeres, el cual operará en rutas, bases, paraderos y terminales más transitados, durante horas de mayor afluencia.
 
 ###### Artículo 7.
 
@@ -7857,7 +7875,7 @@ I. Sin responsabilidad para la contratante, cuando el contratista incumpla con a
 
 II. Sin responsabilidad para el contratista, cuando la contratante incumpla con las obligaciones contractuales a su cargo.
 
-En el caso de la fracción I de este artículo, la contratante esta facultada para rescindir el contrato en forma administrativa, otorgando garantía de previa audiencia al contratista en términos del Código de Procedimientos Administrativos del Estado de México.
+En el caso de la fracción I de este artículo, la contratante está facultada para rescindir el contrato en forma administrativa, otorgando garantía de previa audiencia al contratista en términos del Código de Procedimientos Administrativos del Estado de México.
 
 En el supuesto de la fracción II, el contratista afectado podrá demandar la rescisión del contrato ante el Tribunal de lo Contencioso Administrativo.
 
@@ -8417,7 +8435,7 @@ Establecerán y operarán también el catálogo de bienes y servicios específic
 
 > <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
-Las personas que deseen inscribirse en el catálogo, deberán cumplir con los requisitos que establezca la reglamentación respectiva. En todo caso, deberán esta inscritos en el Registro Único de Personas Acreditadas del Estado de México, en los términos de la Ley de Medios Electrónicos, los proveedores y prestadores de servicios que deseen participar en los procedimientos que deban desahogarse por conducto del SEITS.
+Las personas que deseen inscribirse en el catálogo, deberán cumplir con los requisitos que establezca la reglamentación respectiva. En todo caso, deberán estar inscritos en el Registro Único de Personas Acreditadas del Estado de México, en los términos de la Ley de Medios Electrónicos, los proveedores y prestadores de servicios que deseen participar en los procedimientos que deban desahogarse por conducto del SEITS.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -11936,3 +11954,27 @@ SÉPTIMO.- El Sistema Único de Gestión Empresarial seguirá funcionando en los
 OCTAVO.- El Ejecutivo Estatal publicará el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios, dentro de los sesenta días naturales siguientes a la entrada en vigor de la presente Ley.
 
 NOVENO.- En tanto se expida el nuevo Reglamento, se aplicarán las disposiciones reglamentarias vigentes en lo que no se oponga a los (sic) establecido en el presente Decreto.
+
+G.G. 23 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 169, POR EL QUE SE ADICIONA UNA FRACCION V AL ARTÍCULO 5.34 DEL CAPITULO TERCERO DEL TITULO TERCERO DEL LIBRO QUINTO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO, RECORRIENDOSE EN SU ORDEN LAS SUBSECUENTES.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor treinta días después de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México, a fin de que los ayuntamientos realicen las adecuaciones necesarias para dar cabal cumplimiento a esta reforma.
+
+G.G. 23 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 170, POR EL QUE SE ADICIONA EL PARRAFO SEGUNDO AL ARTICULO 7.29 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
