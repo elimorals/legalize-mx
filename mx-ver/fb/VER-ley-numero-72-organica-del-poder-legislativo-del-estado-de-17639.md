@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2008-12-05"
+last_updated: "2010-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -297,7 +297,9 @@ a) El número de ediles, con base en el Censo General de Población de cada diez
 
 b) Los procedimientos de elección de los agentes y subagentes municipales; y
 
-c) La calificación de las causas graves o justificadas para que los ediles renuncien a sus cargos o se separen de ellos, cuando las faltas temporales no excedan de sesenta días en el lapso de un año. En cualquiera de estos casos, se procederá de inmediato a llamar a los suplentes respectivos.
+> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 2010)</small>
+
+c) La calificación de las causas graves o justificadas para que los ediles renuncien a sus cargos o se separen de ellos, cuando las faltas temporales excedan de sesenta días. En cualquiera de estos casos, se procederá de inmediato a llamar a los suplentes respectivos.
 
 XVI. Autorizar, en su caso, a los ayuntamientos:
 
@@ -1296,6 +1298,12 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 G.O. 5 DE DICIEMBRE DE 2008.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE SEPTIEMBRE DE 2010.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
