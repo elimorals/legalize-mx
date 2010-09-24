@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-para-adolescentes-del-estado-de-baja-52215"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2009-03-06"
+last_updated: "2010-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDARA SIN VIGENCIA PROGRESIVAMENTE POR EL ARTICULO PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 2006.
 
@@ -61,7 +63,7 @@ IV.- Proteger y salvaguardar los derechos fundamentales de los adolescentes que 
 
 ###### Artículo 3.
 
-Son sujetos de la presente Ley:
+Son sujetos de la presente Ley;
 
 I.- Las personas de entre doce años cumplidos y menos de dieciocho años de edad, denominados adolescentes, a quienes se les atribuya o compruebe la realización de una conducta tipificada como delito por las leyes estatales;
 
@@ -99,7 +101,7 @@ XI.- Subsecretaría.- A la Subsecretaría del Sistema Estatal Penitenciario, de 
 
 ###### Artículo 5.
 
-En caso de no existir certeza en la edad de las personas a las que se refiere la fracción primera del artículo tercero, se podrá comprobar la misma a través del acta de nacimiento expedida por el Registro Civil correspondiente; si a través de ella no se pudiera acreditar la edad del adolescente o no existiera dicha documental, esté se acreditará por medio de dictamen médico rendido por los peritos que para el efecto designe la autoridad correspondiente.
+En caso de no existir certeza en la edad de las personas a las que se refiere la fracción primera del artículo tercero, se podrá comprobar la misma a través del acta de nacimiento expedida por el Registro Civil correspondiente; si a través de ella no se pudiera acreditar la edad del adolescente o no existiera dicha documental, ésta se acreditará por medio de dictamen médico rendido por los peritos que para el efecto designe la autoridad correspondiente.
 
 Cuando exista duda de si se trata de una persona mayor o menor de dieciocho años de edad se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá niña o niño. Cuando exista duda de si se trata de una persona mayor o menor de catorce años, se presumirá que es menor de catorce años de edad.
 
@@ -307,27 +309,27 @@ XXVI.- Los demás previstos en esta Ley y en otros ordenamientos aplicables.
 
 Además de los previstos en la Constitución y demás legislación aplicable, las víctimas u ofendidos tienen los siguientes derechos:
 
-I. Ser informados sobre sus derechos cuando realicen la denuncia o en su primera intervención en el proceso;
+I.- Ser informados sobre sus derechos cuando realicen la denuncia o en su primera intervención en el proceso;
 
-II. Intervenir en el proceso conforme se establece en esta Ley;
+II.- Intervenir en el proceso conforme se establece en esta Ley;
 
-III. Que el Ministerio Público para Adolescentes les reciba todos los datos o elementos de prueba con los que cuenten, o bien a constituirse en parte coadyuvante, para lo cual deberán nombrar a un licenciado en derecho para que les represente;
+III.- Que el Ministerio Público para Adolescentes les reciba todos los datos o elementos de prueba con los que cuenten, o bien a constituirse en parte coadyuvante, para lo cual deberán nombrar a un licenciado en derecho para que les represente;
 
-IV. Ser informados de las resoluciones que finalicen o suspendan el proceso, siempre que lo hayan solicitado y tengan domicilio conocido;
+IV.- Ser informados de las resoluciones que finalicen o suspendan el proceso, siempre que lo hayan solicitado y tengan domicilio conocido;
 
-V. Ser escuchados antes de cada decisión que implique la extinción o suspensión de la acción de remisión, siempre que lo soliciten;
+V.- Ser escuchados antes de cada decisión que implique la extinción o suspensión de la acción de remisión, siempre que lo soliciten;
 
-VI. Si están presentes en la audiencia de juicio, a tomar la palabra después de los informes finales y antes de concederle la palabra final al adolescente;
+VI.- Si están presentes en la audiencia de juicio, a tomar la palabra después de los informes finales y antes de concederle la palabra final al adolescente;
 
-VII. Si por su edad, condición física o psíquica, se les dificulta gravemente comparecer ante cualquier autoridad del proceso, a ser interrogados o a participar en el acto para el cual fueron citados, en el lugar de su residencia, a cuyo fin deberán requerir la dispensa, por sí o por un tercero, con anticipación;
+VII.- Si por su edad, condición física o psíquica, se les dificulta gravemente comparecer ante cualquier autoridad del proceso, a ser interrogados o a participar en el acto para el cual fueron citados, en el lugar de su residencia, a cuyo fin deberán requerir la dispensa, por sí o por un tercero, con anticipación;
 
-VIII. Recibir asesoría jurídica, protección especial de su integridad física o psíquica, con inclusión de su familia inmediata, cuando reciban amenazas o corran peligro en razón del papel que cumplen en el proceso;
+VIII.- Recibir asesoría jurídica, protección especial de su integridad física o psíquica, con inclusión de su familia inmediata, cuando reciban amenazas o corran peligro en razón del papel que cumplen en el proceso;
 
-IX. Interponer la demanda en contra de terceros civilmente obligados, a la reparación del daño;
+IX.- Interponer la demanda en contra de terceros civilmente obligados, a la reparación del daño;
 
-X. Solicitar la reapertura de la investigación cuando se haya decretado el archivo temporal, y
+X.- Solicitar la reapertura de la investigación cuando se haya decretado el archivo temporal, y
 
-XI. Apelar el sobreseimiento.
+XI.- Apelar el sobreseimiento.
 
 Las víctimas u ofendidos por la comisión de las conductas tipificadas como delitos por las leyes estatales por parte de adolescentes gozarán en lo conducente, de los derechos, así como de las medidas de atención y protección que establece la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California.
 
@@ -931,7 +933,7 @@ Nunca se podrán incorporar como medio de prueba, o dar lectura, a las actas o d
 
 ###### Artículo 86.
 
-Terminada la recepción de las pruebas, el Juez para Adolescentes concederá sucesivamente la palabra al representante del Ministerio Público para Adolescentes y luego al defensor, para que, en ese orden emitan sus alegatos conclusivos.
+Terminada la recepción de las pruebas, el Juez para Adolescentes concederá sucesivamente la palabra al representante del Ministerio Público para Adolescentes y luego al defensor, para que, en ese orden, emitan sus alegatos conclusivos.
 
 En caso de manifiesto abuso de la palabra, el Juez para Adolescentes llamará la atención a la parte y si ésta persiste, podrá limitar racionalmente el tiempo del alegato, según la naturaleza y complejidad de los hechos en examen, las pruebas recibidas y las cuestiones a resolver.
 
@@ -1315,11 +1317,11 @@ El Programa Personalizado de Ejecución que se derive de la individualización d
 
 El supervisor designado por el Centro de Ejecución de Medidas, dará seguimiento a la actividad del adolescente mientras dure la medida y tendrá las siguientes obligaciones:
 
-I. Supervisar la asistencia y aprovechamiento del adolescente a los programas de actividades previstas en la individualización de la medida, y proporcionar la orientación requerida;
+I.- Supervisar la asistencia y aprovechamiento del adolescente a los programas de actividades previstas en la individualización de la medida, y proporcionar la orientación requerida;
 
-II. Promover socialmente al adolescente y su familia proporcionándoles orientación, y
+II.- Promover socialmente al adolescente y su familia proporcionándoles orientación, y
 
-III. Presentar los informes que le requieran el Centro de Ejecución y el Juez para Adolescentes.
+III.- Presentar los informes que le requieran el Centro de Ejecución y el Juez para Adolescentes.
 
 #### SECCIÓN IV. DEL TRABAJO A FAVOR DE LA COMUNIDAD
 
@@ -1359,7 +1361,7 @@ La inasistencia injustificada del adolescente por más de tres ocasiones en el l
 
 En los convenios de colaboración celebrados entre la Subsecretaría y las instituciones u organizaciones sociales y privadas, deberán estar plenamente garantizados los derechos del adolescente.
 
-#### SECCIÓN V. DE LA LIMITACIÓN O PROHIBICIÓN DE RESIDENCIA
+#### SECCIÓN V. DE LA LIMITACION O PROHIBICION DE RESIDENCIA
 
 ###### Artículo 127.
 
@@ -1583,7 +1585,7 @@ II.- Homicidio por culpa, previsto en el artículo 75 tercera parte del primer p
 
 III.- Lesiones contra menores e incapaces, previsto por el artículo 143 Bis párrafo segundo del Código Penal;
 
-IV.- Secuestro, previsto por los artículos 164 y 165 de Código Penal;
+IV.- Secuestro, previsto por los artículos 164 y 165 de (sic) Código Penal;
 
 V.- Secuestro equiparado, en las modalidades de secuestro exprés y auto secuestro, previstas en el artículo 164-BIS fracciones I y II del Código Penal;
 
@@ -1961,17 +1963,17 @@ El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otor
 
 ###### Artículo 202.
 
-En el procedimiento para adolescentes y en la ejecución de las medidas, sólo se admitirán los siguientes recursos, según corresponda:
+En el procedimiento para adolescentes y en la ejecución de las medidas, sólo se admitirán los siguientes recursos, según corresponda;
 
-I. Revocación;
+I.- Revocación;
 
-II. Apelación;
+II.- Apelación;
 
 III.- Revisión
 
-IV. Queja y
+IV.- Queja y
 
-V. Reclamación.
+V.- Reclamación.
 
 ###### Artículo 203.
 
@@ -2181,7 +2183,7 @@ Si la autoridad ejecutora no envía los informes solicitados dentro de un plazo 
 
 La interposición del recurso de reclamación suspenderá la aplicación de la resolución impugnada, hasta que el mismo se resuelva en definitiva.
 
-T R A N S I T O R I O S :
+TRANSITORIOS:
 
 PRIMERO.- La presente Ley entrará en vigor a partir del primero de marzo del año dos mil siete.
 
@@ -2199,7 +2201,7 @@ SEXTO.- Las instituciones encargadas de la formación de los agentes de las poli
 
 SÉPTIMO.- El Consejo de la Judicatura a partir de la publicación de la presente Ley, deberá lanzar convocatoria para la designación del Magistrado Especializado para Adolescentes, Jueces Especializados para Adolescentes, Secretarios de Acuerdos y Actuarios, en los términos de las disposiciones legales aplicables.
 
-OCTAVO.- Se abroga la Ley de Depósitos Constituidos en Materia de Procedimientos sobre Menores Infractores del Estado de Baja California, publicada en el Periódico Oficial Número 14, de fecha 20 de Mayo de 1981, Tomo LXXXVIII, a partir de la entrada en vigor de la Ley de Justicia para Adolescente del Estado de Baja California.
+OCTAVO.- Se abroga la Ley de Depósitos Constituidos en Materia de Procedimientos sobre Menores Infractores del Estado de Baja California, publicada en el Periódico Oficial Número 14, de fecha 20 de Mayo de 1981, Tomo LXXXVIII, a partir de la entrada en vigor de la Ley de Justicia para Adolescente (sic) del Estado de Baja California.
 
 NOVENO.- Las personas que hayan efectuado depósitos en efectivo, en los procedimientos sobre menores infractores, que hubieren dejado de tener el carácter de caución por haber desaparecido la causa que dio origen a su otorgamiento, y que habiendo sido puestos a disposición de los interesados, no los hubieren retirado en el plazo de seis meses, contarán con un término de noventa días a partir de la abrogación de la Ley de Depósitos Constituidos en Materia de Procedimientos sobre Menores Infractores del Estado de Baja California para solicitar su devolución en los términos de la Ley abrogada.
 
@@ -2234,3 +2236,33 @@ BERNARDO H. MARTINEZ AGUIRRE
 P.O. 6 DE MARZO DE 2009.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero.- Vigencia.- La presente Ley entrará en vigor a las cero horas del día primero de octubre del año dos mil once en el partido judicial de Mexicali y en forma sucesiva, en los demás partidos judiciales del Estado, conforme al siguiente orden:
+
+I. Ensenada, a partir de las cero horas del día tres de mayo del año dos mil doce.
+
+II. Tijuana, Tecate y Playas de Rosarito, a partir de las cero horas del día tres de mayo del año dos mil trece.
+
+Artículo Segundo.- Adecuación reglamentaria.- Dentro del plazo previsto para la entrada en vigor de la presente Ley, el Ejecutivo del Estado, por conducto de las instituciones y autoridades estatales correspondientes, deberá expedir los reglamentos necesarios para la adecuada instrumentación de las normas contenidas en la presente Ley.
+
+Artículo Tercero.- Aplicación de la Ley de Justicia para Adolescentes del Estado de Baja California 2006.- La Ley de Justicia para Adolescentes del Estado de Baja California, publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006, se seguirá aplicando:
+
+I.- En los Municipios del Estado en los que no haya entrado en vigor la presente Ley, conforme a los momentos que se señalan en el artículo primero transitorio.
+
+II.- En los Municipios del Estado, en los que habiendo entrado en vigor la presente Ley, se trate de hechos delictivos y procedimientos penales, cometidos o iniciados con anterioridad a ese momento.
+
+III.- Siempre que no se opongan a lo previsto por esta Ley, las disposiciones relativas a la organización, funcionamiento y atribuciones de la Subsecretaría y los Centros de Ejecución de Medidas y de Diagnóstico, con excepción de lo relativo a la solicitud, elaboración y remisión del diagnostico integral de personalidad a cargo del Centro de Diagnóstico.
+
+Será aplicables las normas que se refiere esta fracción solo hasta en tanto no entren en vigor las disposiciones relativas a la organización de la autoridades penitenciarias, en la legislación que corresponda, de conformidad con lo previsto en el Artículo 28 de esta Ley.
+
+La Ley de Justicia para Adolescentes del Estado de Baja California, publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006, podrá seguir siendo reformada o adicionada hasta en tanto se siga actualizando alguno de los supuestos contenidos en las fracciones anteriores.
+
+Artículo Cuarto.- Inaplicabilidad de normas incompatibles.- Con las excepciones previstas en este apartado, serán inaplicables las normas jurídicas contenidas en la legislación del Estado que se opongan a las disposiciones normativas contenidas en esta Ley.
+
+Artículo Quinto.- Inaplicabilidad de la legislación en materia de Delincuencia Organizada.- No será aplicable a los sujetos de la presente Ley, la Ley Contra la Delincuencia Organizada para el Estado de Baja California, hasta en tanto el Congreso de la Unión, en ejercicio de la facultad que le confiere el Artículo 73, fracción XXI, de la Constitución Federal, de conformidad con el artículo sexto transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos, publicada el 18 de Junio de 2008 en el Diario Oficial de la Federación, disponga las reglas aplicables.
+
+Artículo Sexto.- Delitos Permanentes y Continuados.- Los procedimientos de justicia para adolescentes relativos a hechos tipificados como delito de carácter permanente o continuado que iniciaron bajo la vigencia de la Ley de Justicia para Adolescentes del Estado de Baja California, publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006, y que continúen desarrollándose bajo la vigencia de la presente Ley, serán tramitados conforme el primero de los ordenamientos citados en este artículo.
+
+Artículo Séptimo.- Prohibición de Acumulación de Procesos.- No procederá la acumulación de procesos sobre hechos tipificados como delictuosos por las leyes estatales, cuando alguno de ellos esté sometido a la presente Ley y otro a la Ley de Justicia para Adolescentes publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006.
