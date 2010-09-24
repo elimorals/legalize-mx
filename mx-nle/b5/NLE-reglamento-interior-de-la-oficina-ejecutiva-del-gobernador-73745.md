@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-oficina-ejecutiva-del-gobernador-7374
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2010-02-26"
+last_updated: "2010-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73745&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA OFICINA EJECUTIVA DEL GOBERNADOR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 de Septiembre de 2010.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -93,9 +93,17 @@ a. Coordinación Administrativa.
 
 IV. Coordinación Técnica de Gabinete, Planeación, Evaluación e Innovación Gubernamental;
 
-V. Coordinación de Relaciones Públicas Institucionales, y
+V. Coordinación de Relaciones Públicas Institucionales, y (sic)
 
 VI. Unidad de Asuntos Internacionales.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+Así mismo contará con el siguiente órgano desconcentrado:
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Unidad de Mejora Regulatoria Estatal.
 
 ###### Artículo 6º.
 
@@ -161,9 +169,11 @@ En todo lo no expresamente estipulado en este Reglamento Interior se estará a l
 
 ### CAPÍTULO III. DE LAS FUNCIONES GENERALES DE LAS UNIDADES DE APOYO Y DIRECCIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
-El Jefe de la Oficina y los titulares de las unidades de apoyo establecidos en el artículo 5º del presente ordenamiento, tendrán entre otras, las siguientes responsabilidades comunes:
+El Jefe de la Oficina y los titulares de las unidades de apoyo, de las direcciones y del órgano desconcentrado establecidos en el artículo 5° del presente ordenamiento, tendrán entre otras, las siguientes responsabilidades comunes:
 
 I. Optimizar los recursos que les fueran asignados conforme a los programas que elaboren para su funcionamiento o para el cumplimiento de sus objetivos;
 
@@ -303,19 +313,33 @@ Atribuciones de la Coordinación Administrativa de la Oficina de Representación
 
 La Oficina de Representación del Gobierno del Estado en el Distrito Federal contará con un Coordinador Administrativo para el ejercicio de las siguientes atribuciones:
 
-I. Acordar con el Titular de la de Representación del Gobierno del Estado en el Distrito Federal políticas, bases y lineamientos para el ejercicio presupuestal y administrativo de la Secretaría Particular, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-II. Coordinar y ejecutar las actividades administrativas de la Secretaría Particular en materia de recursos humanos, financieros y materiales;
+I. Acordar con el Titular de la Representación del Gobierno del Estado en el Distrito Federal políticas, bases y lineamientos para el ejercicio presupuestal y administrativo de conformidad con la normatividad aplicable;
 
-III. Elaborar el anteproyecto de presupuesto de egresos para el gasto corriente de la Secretaría Particular y someterlo a consideración del Titular para su autorización;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Llevar el control presupuestal del ejercicio de los recursos humanos, financieros y materiales a la Secretaría Particular, de acuerdo a los lineamientos emitidos por la Secretaría de Finanzas y Tesorería General del Estado;
+II. Coordinar y ejecutar las actividades administrativas de la Representación del Gobierno del Estado en el Distrito Federal en materia de recursos humanos, financieros y materiales;
 
-V. Solicitar, dar seguimiento y supervisar las gestiones relacionadas con el mantenimiento de las instalaciones, mobiliario y equipo de oficina, equipo de comunicación, cómputo y vehículos oficiales, asignados a la Secretaría Particular;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-VI. Solicitar, dar seguimiento y supervisar la calidad del suministro de bienes y servicios generales, con el propósito de obtenerlos oportunamente y que cumplan con las características y especificaciones solicitadas por la Secretaría Particular, y
+III. Elaborar el anteproyecto de presupuesto de egresos para el gasto corriente de la Representación del Gobierno del Estado en el Distrito Federal y someterlo a consideración del Titular para su autorización;
 
-VII. Las demás que le confiera el Titular de la Secretaría Particular y las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Llevar el control presupuestal del ejercicio de los recursos humanos, financieros y materiales a la Representación del Gobierno del Estado en el Distrito Federal, de acuerdo a los lineamientos emitidos por la Secretaría de Finanzas y Tesorería General del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+V. Solicitar, dar seguimiento y supervisar las gestiones relacionadas con el mantenimiento de las instalaciones, mobiliario y equipo de oficina, equipo de comunicación, cómputo y vehículos oficiales, asignados a la Representación del Gobierno del Estado en el Distrito Federal;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Solicitar, dar seguimiento y supervisar la calidad del suministro de bienes y servicios generales, con el propósito de obtenerlos oportunamente y que cumplan con las características y especificaciones solicitadas por la Representación del Gobierno del Estado en el Distrito Federal, y
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Las demás que le confiera el Titular del Ejecutivo del Estado, el Jefe de la Oficina y las disposiciones jurídicas aplicables.
 
 #### Sección Cuarta. De las atribuciones de la Coordinación Técnica de Gabinete, Planeación, Evaluación e Innovación Gubernamental
 
@@ -387,9 +411,13 @@ El Titular de la Unidad de Asuntos Internacionales tendrá las siguientes facult
 
 I. Planear, desarrollar, coordinar y dirigir, en conjunto con las dependencias y entidades de la Administración Pública Estatal involucradas, las agendas de trabajo del Ejecutivo Estatal en sus giras internacionales, con el fin de consolidar beneficios de desarrollo para el Estado;
 
-II. Promover el acercamiento con organismos internacionales, naciones y regiones del mundo con voluntad de coadyuvar esfuerzos para el desarrollo del Estado;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-III. Promover el acercamiento con organismos internacionales, universidades, empresas y organismos no gubernamentales para el intercambio estudiantil, realización de simposiums, convenciones y encuentros empresariales, así como otras acciones con el objeto de posicionar al Estado en el ámbito internacional;
+II. Promover el acercamiento con naciones y regiones del mundo con voluntad de coadyuvar esfuerzos para el desarrollo del Estado generando estrategias de vinculación internacional de beneficio mutuo a corto y mediano plazos;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+III. Promover el acercamiento con organismos internacionales, gubernamentales y no gubernamentales, y con universidades para apoyar el desarrollo de proyectos públicos, el intercambio estudiantil, la realización de simposia, convenciones y encuentros empresariales, así como otras acciones con el objeto de posicionar al Estado en el ámbito internacional;
 
 IV. Proponer las políticas, programas y asuntos en materia internacional al titular de la Oficina Ejecutiva;
 
@@ -397,15 +425,55 @@ V. Promover la participación comunitaria en la definición y ejecución de las 
 
 VI. Coadyuvar con las representaciones del Gobierno del Estado en el extranjero, en su labor de asistencia y asesoramiento;
 
-VII. Emitir los dictámenes, opiniones e informes en el ámbito de su competencia, y (sic)
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-VIII. Realizar todos los asuntos y tramites de carácter administrativo a través de la propia Dirección Administrativa de la Oficina Ejecutiva del Gobernador;
+VII. Establecer mecanismos de coordinación con las dependencias de la Administración Pública Estatal para mantener un registro de las actividades de carácter internacional del Gobierno de Nuevo León;
 
-IX. Las demás que le confieran el Titular del Ejecutivo del Estado, el Jefe de la Oficina y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. Emitir los dictámenes, opiniones e informes en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Fungir como enlace con las distintas áreas de la Secretaría de Relaciones Exteriores del Gobierno Federal;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+X. Coadyuvar con las dependencias estatales en la gestión de fondos internacionales, asesoría técnica y cooperación tecnológica para áreas sustantivas del desarrollo estatal;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Realizar todos los asuntos y tramites de carácter administrativo a través de la propia Dirección Administrativa de la Oficina Ejecutiva del Gobernador, y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Las demás que le confieran el Titular del Ejecutivo del Estado, el Jefe de la Oficina y otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO IV. DEL ÓRGANO DESCONCENTRADO DENOMINADO UNIDAD DE MEJORA
+
+REGULATORIA
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 26.
+
+La Oficina Ejecutiva contará con un órgano desconcentrado denominado Unidad de Mejora Regulatoria Estatal, dotado de autonomía técnica y de gestión, con el objeto de implementar la política gubernamental en materia de mejora regulatoria.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 27.
+
+Al frente de la Unidad de Mejora Regulatoria Estatal estará un Jefe de la Unidad de Mejora Regulatoria Estatal con las atribuciones que le confieren los artículos 23, 24, 26 y demás relativos de la Ley para la Mejora Regulatoria en el Estado de Nuevo León.
+
+## TITULO TERCERO
 
 ### CAPÍTULO I. DE LA SUPLENCIA DE FUNCIONARIOS
 
-###### Artículo 26.
+(REUBICADO [N. DE E. ANTES ARTICULO 26], P.O. 24 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 28.
 
 El Jefe de la Oficina solo podrá ausentarse, previa autorización del Titular del Ejecutivo del Estado.
 
@@ -413,11 +481,11 @@ Las ausencias temporales del Jefe de la Oficina serán suplidas por el servidor 
 
 En el caso de que el cargo de Jefe de la Oficina quede vacante por cualquier motivo, el Gobernador podrá designar a un encargado del despacho hasta en tanto se otorgue el nombramiento correspondiente al nuevo titular de la dependencia.
 
-###### Artículo 27.
+(REUBICADO [N. DE E. ANTES ARTICULO 27], P.O. 24 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 29.
 
 Las ausencias temporales de los demás titulares de las unidades administrativas señaladas en este Reglamento Interior, serán suplidas por el servidor público que designe el Jefe de la Oficina.
-
-## TITULO TERCERO
 
 ## TRANSITORIOS
 
@@ -442,3 +510,9 @@ ALFREDO GERARDO GARZA DE LA GARZA
 EL C. JEFE DE LA OFICINA EJECUTIVA DEL GOBERNADOR
 
 CARLOS ALMADA LÓPEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
