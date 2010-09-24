@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2010-09-10"
+last_updated: "2010-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -126,6 +126,10 @@ Toda la educación que el Estado imparta será gratuita, por lo que queda prohib
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MAYO DE 2008)</small>
 
 Para garantizar la gratuidad en la educación preescolar, primaria y secundaria el Ejecutivo del Estado destinará en el presupuesto de egresos para el ejercicio fiscal correspondiente, los recursos suficientes para el mantenimiento y cuidado de las escuelas de nivel básico del sistema educativo del estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+El Ejecutivo Estatal aprobara un programa que contribuya al cumplimiento de lo dispuesto en este artículo.
 
 ###### ARTICULO 8.
 
@@ -521,6 +525,10 @@ IV.- Propiciar un marco de equidad, y calidad educativa que permita a los alumno
 
 En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, sexual, afectiva, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar será compatible con su edad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+Se establecerá por cada tres zonas escolares de nivel primaria en el Estado, un departamento de Psicología para la rápida y oportuna atención de los educandos, principalmente aquellos que sean canalizados y detectados por las autoridades escolares y que se evidencie maltrato físico, psicoemocional o presenten conductas violentas, sean o hayan sido víctimas de cualquier tipo de abuso que colocara en riesgo su desarrollo integral.
+
 ###### ARTICULO 36.
 
 El tipo medio superior, tiene carácter formativo y terminal en su caso y comprende el nivel del bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalencias.
@@ -645,43 +653,69 @@ El Proyecto Educativo del Estado que se formule, deberá sujetarse a los princip
 
 I.- Diagnóstico de la educación en el Estado.
 
-II.- Instrumentos de planeación y control.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Instrumentos de planeación y control y seguimiento.
 
 III.- Instrumentos de evaluación permanente.
 
 IV.- Proyectos estratégicos.
 
-V.- Líneas de acción, y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-VI.- Participación directa de los diversos sectores sociales involucrados en la educación.
+V.- Líneas de acción.
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Participación directa de los diversos sectores sociales involucrados en la educación, y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Mecanismos de reorientación y/o reconducción, como resultado de la evaluación.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 53.
 
-El Proyecto Educativo del Estado deberá sujetarse a los principios establecidos en el Artículo Tercero Constitucional y estará encaminado a elevar la calidad de la educación que se imparta, así como promover la cultura y el bienestar personal, familiar y social en la comunidad, para lo cual tomará como base la Ley General de Educación y la presente Ley.
+El Proyecto Educativo del Estado deberá sujetarse a los principios establecidos en el Artículo Tercero Constitucional y estará encaminado a elevar la calidad de la educación que se imparta, así como promover la cultura y el bienestar personal, familiar y social en la comunidad, para lo cual tomará como base la Ley General de Educación, la presente Ley, y contener los elementos necesarios para el diseño del programa sectorial de educación.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 54.
 
-El Titular del Poder Ejecutivo expedirá el Programa Estatal de Educación con base en la propuesta que le presente la Secretaría de Educación y Bienestar Social.
+El Titular del Poder Ejecutivo expedirá el Programa Sectorial de Educación del periodo correspondiente con base en la propuesta que le presente la Secretaría de Educación y Bienestar Social y habiendo escuchado esta a los sectores involucrados a que hace referencia el artículo 59 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 55.
 
-El Programa Estatal de Educación se formulará en congruencia con el Plan Estatal de Desarrollo y contendrá los elementos a que se refiere la Ley de Planeación del estado de Baja California y se sujetará a los principios establecidos en el Artículo Tercero Constitucional.
+El Programa Sectorial de Educación se formulará en congruencia con el Plan Estatal de Desarrollo, contendrá los elementos a que se refiere la Ley de Planeación del Estado de Baja California, se publicará dentro del año siguiente a partir de la publicación del Plan Estatal de Desarrollo, atento a lo dispuesto por la Ley antes mencionada y se sujetará a los principios establecidos en el Artículo Tercero Constitucional.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 56.
 
-Las autoridades educativas estatales y municipales evaluarán en forma sistemática y permanente el sistema educativo estatal de manera coordinada y concurrente con las autoridades educativas federales.
+Las autoridades educativas estatales y municipales evaluarán en forma sistemática y permanente el sistema educativo estatal de manera coordinada y concurrente con las autoridades educativas federales, conforme a lo dispuesto por la fracción XI del artículo 12 de la Ley General de Educación, para la adopción de las medidas pertinentes.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 57.
 
-La Secretaría de Educación y Bienestar Social dará a conocer a los trabajadores de la educación, sus organismos sindicales, alumnos, padres de familia y a la sociedad en general, sobre los resultados de la evaluación y acerca de las acciones decididas para el mejoramiento de los servicios educativos.
+La Secretaría de Educación y Bienestar Social dará a conocer al término de cada ciclo escolar, mediante una publicación en medios masivos de comunicación y electrónicos, a los trabajadores de la educación, sus organismos sindicales, alumnos, padres de familia y a la sociedad en general, sobre los resultados de la evaluación de conformidad a lo regulado por la Ley de Planeación del Estado, concluyendo la misma acerca de las acciones decididas para el mejoramiento de los servicios educativos.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 58.
 
-Se declara de interés público la evaluación del Sistema Educativo Estatal; los organismos e instituciones educativas pertenecientes al Sistema, tienen la obligación de contribuir a la evaluación y el derecho de conocer los resultados de la misma.
+Se declara de interés público la evaluación del Sistema Educativo
+
+Estatal; los organismos e instituciones educativas pertenecientes al Sistema, tienen la obligación de contribuir a la evaluación y el derecho de conocer los resultados de la misma, debiendo aportar estos en el ejercicio de análisis a la evaluación correspondiente dentro del sistema de consulta, las observaciones pertinentes para la integración de la propuesta institucional que se remitirá a la Secretaría de Educación Pública, de conformidad con las disposiciones mencionadas en esta Ley y la Ley General de Educación.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 59.
 
-En la planeación y evaluación del desarrollo educativo del Estado, las autoridades educativas estatales y municipales organizarán un sistema de consulta y concertación con los sectores sociales, destacando a los involucrados en los aspectos educativos y sus organismos sindicales.
+En la planeación y evaluación del desarrollo educativo del Estado, las autoridades educativas estatales y municipales organizarán un sistema de consulta y concertación con los sectores sociales, destacando a los involucrados en los aspectos educativos y sus organismos sindicales, reuniendo y analizando las aportaciones y sugerencias para la integración de la propuesta estatal.
 
 ### CAPITULO V. DE LA PARTICIPACION SOCIAL
 
@@ -1194,3 +1228,9 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días siguientes a la fecha de entrada en vigor de la presente reforma, la Secretaría de Educación y Bienestar Social emitirá las disposiciones legales y administrativas necesarias para la implementación y operación del Certificado internacional de Preparación Curricular.
+
+P.O. 24 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entraran en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el cabal cumplimiento a la reforma al Artículo 35 de esta Ley, la misma estará sujeta a la planeación y disponibilidad presupuestaria.
