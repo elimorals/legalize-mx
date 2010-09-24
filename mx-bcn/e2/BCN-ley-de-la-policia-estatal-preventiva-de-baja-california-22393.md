@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-policia-estatal-preventiva-de-baja-california-22393"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-31"
-last_updated: "2001-10-31"
+last_updated: "2010-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE LA POLICIA ESTATAL PREVENTIVA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE LA POLICIA ESTATAL PREVENTIVA DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en Número Especial, del Periódico Oficial del Estado de Baja California, el 31 de octubre de 2001.
 
@@ -202,3 +204,17 @@ LIC. ALEJANDRO GONZALEZ ALCOCER
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- La presente Ley abroga a la Ley de la Policía Estatal Preventiva, publicada en el Periódico Oficial del Estado No. 47, de fecha treinta y uno del mes de Octubre del año dos mil uno, salvo lo establecido en el artículo tercero transitorio.
+
+SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en el artículo transitorio siguiente.
+
+TERCERO.- La estructura jerárquica y administrativa de la Policía Estatal Preventiva de Baja California, seguirá funcionando en la forma y términos previstos en la Ley de la Policía Estatal Preventiva publicada en el Periódico Oficial del Estado No. 47, de fecha treinta y uno del mes de Octubre del año dos mil uno y el Reglamento Interno de la Policía Estatal Preventiva, publicado en el Periódico Oficial del Estado No. 19, de fecha ocho de Mayo del año dos mil seis; hasta en tanto, las categorías y jerarquías de la Policía Estatal Preventiva de Baja California, previstas en esta Ley, sean homologadas al servicio de carrera policial, en los términos del artículo cuarto transitorio de la Ley de Seguridad Pública del Estado de Baja California.
+
+CUARTO.- Las disposiciones reglamentarias derivadas de la presente Ley, se expedirán a más tardar dentro de ciento ochenta días siguientes a la entrada en vigor del presente ordenamiento legal.
+
+QUINTO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
