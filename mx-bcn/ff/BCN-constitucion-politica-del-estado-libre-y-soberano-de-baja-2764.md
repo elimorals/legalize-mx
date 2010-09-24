@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2010-08-27"
+last_updated: "2010-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -181,15 +181,29 @@ Toda persona tiene el derecho a la práctica del deporte, a la cultura física y
 
 Toda persona sin necesidad de acreditar interés alguno, tiene derecho a acceder a la información que la ley atribuye el carácter de pública, a sus datos personales, o a la rectificación de éstos. La Ley de la materia deberá observar, entre otros, los principios de protección a los datos personales, máxima publicidad y gratuidad; asimismo, deberá establecer los mecanismos de acceso a la información pública, de protección de los datos personales, así como los procedimientos de revisión, y señalar aquella que tenga el carácter de reservada o confidencial.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-Los procedimientos señalados en el párrafo anterior se sustanciaran ante órganos u organismos especializados, imparciales y con autonomía operativa, de gestión y de decisión, en los términos que señale la normatividad aplicable.
+Corresponde al Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, como un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, especializado, imparcial y con autonomía operativa, de gestión y de decisión, garantizar el acceso a la información pública y la protección de datos personales, fomentar la cultura de transparencia, y resolver los procedimientos de revisión, respecto de los Poderes del Estado, Municipios y organismos constitucionales autónomos, y demás entes públicos, en los términos que señale la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+Dicho organismo se integrará por tres Consejeros Propietarios que integrarán el Pleno y un Suplente que cubrirá las ausencias de aquellos, en los términos previstos en la normatividad aplicable. Los Consejeros durarán en su encargo cuatro años, y durante el mismo no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia; y serán designados de conformidad con las siguientes bases:
+
+I.- El Gobernador del Estado, previa convocatoria pública en los términos de ley, remitirá al Congreso del Estado, la relación de los candidatos seleccionados.
+
+II.- El Pleno del Congreso del Estado, por mayoría calificada y conforme al procedimiento de ley, elegirá a las personas que desempeñarán el cargo de Consejero Propietario y el de Suplente.
+
+III.- En caso de que no se aprueben los aspirantes propuestos, se hará del conocimiento del Gobernador del Estado, para efecto de que remita una nueva lista de aspirantes. Si se rechaza de nueva cuenta la propuesta, serán designados los aspirantes que ocupen los primeros cuatro lugares en el listado correspondiente, en estricto orden de prelación, siendo el último el suplente.
+
+IV.- El Poder Legislativo tendrá un plazo de diez días naturales para resolver, vencido el cual, sin que se haya emitido resolución alguna, se entenderán como electos los aspirantes propuestos en los primeros lugares en el listado respectivo y conforme al orden de prelación, y se expedirán los nombramientos correspondientes, en un plazo de tres días naturales.
+
+V.- Una vez realizado lo anterior, el Gobernador del Estado ordenará la publicación del resultado en el Periódico Oficial del Estado y uno en los diarios de mayor circulación.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 Las leyes señalarán aquellos casos en que los juicios serán predominantemente orales, así como su procedimiento.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 Las personas tendrán derecho a acceder a los medios alternativos de justicia para resolver sus controversias, en la forma y términos establecidos por las leyes respectivas.
 
@@ -1169,9 +1183,9 @@ La Ley establecerá sistemas permanentes de evaluación del desempeño de los Ma
 
 Seis meses antes de que concluya el período de los Magistrados del Tribunal Superior de Justicia, el Congreso del Estado, por el voto de las dos terceras partes de sus integrantes, procederá a realizar los nuevos nombramientos entre los aspirantes que integren la lista que le presente el Presidente del Tribunal Superior de Justicia del Estado de Baja California, la cual deberá contener únicamente a los profesionistas que hayan resultado aprobados en el examen que practique el Consejo de la Judicatura conforme al reglamento respectivo.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-El Tribunal de Justicia Electoral se integrará con tres magistrados Numerarios y hasta dos Supernumerarios, que desempeñarán su cargo por tres años, eligiéndose de entre ellos al Presidente, en sesión de Pleno. Los Magistrados de Justicia Electoral en ningún caso podrán ser ratificados.
+El Tribunal de Justicia Electoral se integrará por tres Magistrados Numerarios y hasta dos Supernumerarios nombrados por mayoría calificada del Congreso del Estado que desempeñarán su cargo por tres años, eligiéndose de entre ellos al Presidente, en sesión de Pleno. Los Magistrados del Tribunal de Justicia Electoral podrán ser ratificados, y si lo fueren, solo podrán ser privados de su cargo al cumplir nueve años en el mismo contados a partir del momento de su nombramiento o actualizarse alguno de los supuestos que se señalan en los incisos a), c) y d) de este artículo. Para el proceso de ratificación de los Magistrados del Tribunal de Justicia Electoral, la Comisión de Administración actuará de conformidad a lo que establecen los párrafos antepenúltimo y penúltimo de este artículo, pero además tendrá la obligación de rendir informes semestrales al Congreso del Estado para que este se encuentre en condiciones de realizar una evaluación objetiva durante este proceso de la actuación de los Magistrados del citado Tribunal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -1351,13 +1365,15 @@ XI.- Ejercer las demás atribuciones que les señale esta Constitución y las Le
 
 Las funciones de la vigilancia, administración, supervisión y disciplina del Poder Judicial del Estado, excluyendo las facultades jurisdiccionales de Magistrados y Jueces, estará a cargo del Consejo de la Judicatura en los términos que establezcan las leyes conforme a las bases que señale esta Constitución.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCION.</small>
 
-La vigilancia, administración, disciplina y carrera judicial del Tribunal de Justicia Electoral estará a cargo del Pleno del mismo Tribunal, auxiliado en los términos que la Ley establezca por la Comisión de Administración, órgano que se integra por los Magistrados del Tribunal de Justicia Electoral, presidido por el Presidente del mismo, y dos miembros del Consejo de la Judicatura, a estos últimos que se les denominará Comisionados.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+La vigilancia, administración, disciplina y carrera judicial del Tribunal de Justicia Electoral corresponderá a la Comisión de Administración que se integrará por el Presidente del Tribunal de Justicia Electoral, quien la presidirá; por un Magistrado designado por el Pleno del Tribunal Superior de Justicia del Estado y un Consejero de la Judicatura designado por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado. La Comisión de Administración ejercerá las atribuciones que señala esta Constitución y las que establezca la Ley.
 
-Esta Comisión tiene el carácter de permanente y sesionará válidamente con la presencia de sus integrantes, adoptando sus decisiones por mayoría de los miembros. En caso de empate el Presidente tiene voto de calidad.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+Los nombramientos de secretarios de estudio y cuenta y actuarios del Tribunal de Justicia Electoral los realizará su Pleno y recaerán dentro de las personas que formen parte de la lista que elaboré la Comisión de Administración y que estará integrada por quienes hayan aprobado los exámenes psicométricos, de oposición y de méritos que esta practique. La suspensión y remoción de los secretarios de estudio y cuenta y actuarios corresponderá realizarla al Tribunal de Justicia Electoral.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -2163,17 +2179,17 @@ El Presidente del Congreso o de la Comisión Permanente preguntará:
 
 "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Poder Judicial que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso o de su Comisión Permanente: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
-Los integrantes del Consejo de la Judicatura, rendirán Protesta de Ley ante el Congreso del Estado o su Comisión Permanente, en la siguiente forma:
+Los integrantes del Consejo de la Judicatura rendirán protesta de Ley ante el Presidente del Tribunal Superior de Justicia del Estado, en la siguiente forma:
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+
+"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Consejero de la Judicatura del Poder Judicial del Estado que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá al Presidente del Tribunal Superior de Justicia del Estado: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
 
 Los nombramientos conferidos a los Consejeros de la Judicatura del Estado de Baja California, rendirán Protesta de Ley ante el Congreso del Estado, en la siguiente forma:
-
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1995)</small>
-
-"¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Consejero de la Judicatura del Estado de Baja California que se os ha conferido?", el interrogado contestará: "Sí protesto". Acto continuo, dirá quien tenga la facultad de protestarlo: si no lo hiciereis que la Nación y el Estado os lo demanden".
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -3184,3 +3200,39 @@ Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 Cuarto.- Las designaciones de los Consejeros señalados en las fracciones II, III, IV y V del artículo 64 de estas reformas deberán realizarse en alguna (s) fecha (s) que se encuentre (n) ubicada (s) entre la entrada en vigor de este Decreto y el día treinta de noviembre de 2010, surtiendo las designaciones sus efectos jurídicos el día 1 de diciembre de 2010.
 
 La persona o personas que al momento de la publicación de este Decreto detenten el carácter de Consejero o Consejeros de la Judicatura y su mandato exceda el día 30 de noviembre de 2010, cesará en esta función ese día, salvo que se trate de un Magistrado del Tribunal Superior de Justicia que sea designado Consejero de la Judicatura en los términos del artículo 64 fracción II de estas reformas para el periodo del Consejo que inicia el día primero de diciembre de 2010.
+
+P.O. 24 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 429, POR EL QUE SE REFORMAN LOS ARTICULOS 58, 64 Y 109 DE LA CONSTITUCION POLITICA DE BAJA CALIFORNIA.
+
+PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Una vez cumplimentado el transitorio anterior, computados los votos de los Ayuntamientos en sentido aprobatorio, las presentes reformas se declararán parte de esta Constitución.
+
+TERCERO.- Las reformas que se contienen en el párrafo quinto del artículo 58 entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que las reformas establecidas en el párrafo segundo del artículo 64 entrarán en vigor el día primero de diciembre de 2010.
+
+CUARTO.- Las designaciones del Magistrado y Consejero de la Judicatura que integrarán la Comisión de Administración deberán realizarse previamente a la entrada en vigor de las reformas contenidas en el párrafo segundo del artículo 64 y surtirán sus efectos jurídicos al momento que estas entren en vigor.
+
+A partir del día primero de diciembre de 2010 las atribuciones o facultades que en materia de vigilancia, administración, disciplina y carrera judicial que actualmente se confieren en la Ley Orgánica del Poder Judicial del Estado de Baja California al Tribunal de Justicia Electoral corresponderá ejercerlas a la Comisión de Administración.
+
+QUINTO.- En tanto se integra la lista señalada en el párrafo tercero del artículo 64 de estas reformas, se seguirán realizando los nombramientos de secretarios de estudio y cuenta y actuarios del Tribunal de Justicia Electoral del Poder Judicial del Estado conforme a lo que establece la fracción III del artículo 249 de la Ley Orgánica del Poder Judicial del Estado de Baja California.
+
+SEXTO.- En caso de ser ratificados los Magistrados del Tribunal de Justicia Electoral en funciones, durarán en el cargo otros 4 años contados a partir del momento en que fueran ratificados por el Congreso del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 430, POR EL QUE SE REFORMAN LOS PARRAFOS SEPTIMO, OCTAVO Y NOVENO, Y SE ADICIONA UN PARRAFO DECIMO, DEL ARTICULO 7 DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Aprobada que sea esta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, deberá iniciar sus labores, el 01 de junio del 2011, por lo que deberá realizarse la asignación de recursos presupuestales para el ejercicio fiscal del año 2011.
+
+QUINTO.- El Gobernador del Estado dentro de un plazo de seis meses antes del inicio de labores del Instituto, emitirá la convocatoria de selección de los Consejeros Propietarios, y del Consejero Suplente.
+
+SEXTO.- Los recursos de inconformidad que se encuentren en trámite y aquellos que se presenten en forma previa al inicio de labores del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California, continuarán su substanciación ante los Sujetos Obligados, en los términos de la Ley de Acceso a la Información Pública para el Estado de Baja California.
+
+SÉPTIMO.- Los sujetos obligados al cumplimiento de las disposiciones de transparencia y acceso a la información pública, tendrán un plazo de 30 días, contados a partir de la entrada en vigor de la presente reforma, para adecuar su normatividad.
