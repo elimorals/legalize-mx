@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-agencia-de-seguridad-estatal-48738"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-02-01"
-last_updated: "2009-06-01"
+last_updated: "2010-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA AGENCIA DE SEGURIDAD ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AGENCIA DE SEGURIDAD ESTATAL, PUBLICADO EN LA G.G. DE 24 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 1 de febrero de 2006.
 
@@ -594,3 +596,19 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor el I de junio de 2009.
 
 TERCERO.- Las secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Acuerdo.
+
+G.G. 24 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Agencia de Seguridad Estatal, publicado en el Periódico Oficial "Gaceta del Gobierno" el I de febrero de 2006.
+
+CUARTO.- Con la entrada en vigor del presente Reglamento, cuando en otros ordenamientos legales y administrativos, papelería y demás documentos se haga referencia a la Dirección General de Administración de Seguridad Penitenciaria, se entenderá a la Dirección General de Prevención y Readaptación Social.
+
+QUINTO.- A partir de la entrada en vigor del presente Reglamento, los programas, proyectos, trámites y procedimientos en materia de administración de seguridad penitenciaria, serán atendidos por la Dirección General de Prevención y Readaptación Social, en términos de las disposiciones establecidas en este ordenamiento jurídico.
+
+SEXTO.- Las Secretarías General de Gobierno y de Finanzas determinarán el uso y destino de los recursos humanos, materiales y financieros con los que venía operando la Dirección General de Administración de Seguridad Penitenciaria.
+
+SÉPTIMO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a lo dispuesto en el presente Reglamento.
