@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2010-03-10"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -201,9 +201,13 @@ El funcionamiento y requisitos de integración del Sistema se normará por lo di
 
 #### SECCIÓN PRIMERA. DEL INSTITUTO CHIHUAHUENSE DEL DEPORTE Y CULTURA FÍSICA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
-La actuación del Poder Ejecutivo Estatal en el ámbito de la cultura física y del deporte, corresponde y será ejercida directamente por un organismo público descentralizado de la administración pública, que será el conductor de la política estatal en estas materias y que se denominará, Instituto Chihuahuense del Deporte y Cultura Física, el cual tendrá personalidad jurídica y patrimonio propios, con domicilio en la capital del Estado, pudiendo establecer delegaciones en las regiones o municipios que se requieran.
+La actuación del Poder Ejecutivo Estatal, en el ámbito de la cultura física y del deporte, corresponde y será ejercida directamente por un organismo público descentralizado de la administración pública, que será el conductor de la política estatal en estas materias y que se denominará Instituto Chihuahuense del Deporte y Cultura Física, sectorizado a la Secretaría de Educación, Cultura y Deporte, el cual tendrá personalidad jurídica y patrimonio propios, con domicilio en la capital del Estado, pudiendo establecer delegaciones en las regiones o municipios que se requieran.
 
 ###### Artículo 17.
 
@@ -229,33 +233,61 @@ La administración del Instituto estará a cargo de un órgano de gobierno denom
 
 La Junta Directiva a que se refiere el artículo anterior, estará integrada por los titulares de cada una de las siguientes dependencias de la administración centralizada:
 
-a) Un Presidente, que será el Secretario de Fomento Social;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+a) Un Presidente, que será el Secretario de Educación, Cultura y Deporte;
 
 b) Un Secretario Técnico, que será el Director del Instituto Chihuahuense del Deporte y Cultura Física, quien participará con voz pero sin voto;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-c) El Secretario de Finanzas y Administración;
-
-d) El Secretario de Desarrollo Municipal;
-
-e) El Secretario de Desarrollo Urbano y Ecología;
+c) Secretario de Hacienda;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-f) (DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-g) El Secretario de Seguridad Pública;
+d) Secretario de Desarrollo Urbano y Ecología;
 
-h) El Secretario de Comunicaciones y Obras Públicas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-i) El Secretario de Planeación y Evaluación;
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-j) El Secretario de Desarrollo Comercial y Turístico; y
+e) Secretario de Comunicaciones y Obras Públicas;
 
-k) El Secretario de Educación y Cultura;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+f) Secretario de Economía;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+g) Secretario de Fomento Social; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+h) Secretario de Salud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+i) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+j) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+k) (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 El Presidente de la Junta Directiva podrá invitar a participar con voz pero sin voto a personalidades distinguidas de los sectores social y privado que por su relación, nexos, vinculación y aportaciones con la práctica de la cultura física y deporte e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
 
@@ -1226,3 +1258,91 @@ P.O. 10 DE MARZO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Una vez que el presente Decreto se publique en el Periódico Oficial del Estado, el mismo entrará en vigor el día 4 de octubre de 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento al presente Decreto, se faculta al Ejecutivo del Estado para organizar la estructura administrativa de las dependencias y unidades orgánicas que se crean, incluida la Consejería Jurídica, así como de las unidades administrativas que se reasignan por virtud del mismo, y realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación de las mismas conforme al Presupuesto de Egresos para el 2010, incluso para realizar las erogaciones necesarias conforme a la estructura presupuestaria autorizada para el 2010. El Presupuesto de Egresos para el 2011 deberá expresar la estructura presupuestaria y orgánica de las dependencias y unidades orgánicas que se crean mediante este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Hacienda los bienes muebles, archivos y, en general, documentos que tenían destinados a su servicio, manejo y resguardo la Secretaría de Finanzas y Administración y la Secretaría de Planeación y Evaluación.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Finanzas y Administración y la Secretaría de Planeación y Evaluación, serán continuados por y ante la Secretaría de Hacienda, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Finanzas y Administración y la Secretaría de Planeación y Evaluación en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Secretaría de Hacienda a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, a la Secretaría de Finanzas o a la Secretaría de Finanzas y Administración, se entenderá citada a la Secretaría de Hacienda; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en cualquier otro instrumento jurídico que fuere, se haga referencia a la Coordinación de Planeación y Evaluación o a la Secretaría de Planeación y Evaluación, se entenderá citada a la Secretaría de Hacienda.
+
+###### ARTÍCULO OCTAVO.
+
+Se transfieren a la Secretaría de Economía los bienes muebles archivos y documentos que tenían destinados a su servicio, manejo y resguardo la Secretaría de Desarrollo Industrial y la Secretaría de Desarrollo Comercial y Turístico.
+
+###### ARTÍCULO NOVENO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Desarrollo Industrial o la Secretaría de Desarrollo Comercial y Turístico, serán continuados por y ante la Secretaría de Economía, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Desarrollo Industrial o la Secretaría de Desarrollo Comercial y Turístico en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Economía a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Desarrollo Industrial o a la Secretaría de Desarrollo Comercial y Turístico, se entenderá citada a la Secretaría de Economía.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Se transfieren a la Secretaría de Desarrollo Urbano y Ecología, los bienes muebles, activos, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la extinta Secretaría de Desarrollo Municipal respecto a la función catastral.
+
+ARTÍCULO DECIMOTERCERO.- Se transfieren a la Secretaría del Trabajo y Previsión Social los bienes muebles, activos, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la Dirección de Trabajo y Previsión Social, dependiente de la Secretaría General de Gobierno hasta antes de la expedición del presente Decreto.
+
+ARTÍCULO DECIMOCUARTO.- El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Dirección de Trabajo y Previsión Social, serán continuados por y ante la Secretaría del Trabajo y Previsión Social.
+
+ARTÍCULO DECIMOQUINTO.- Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Dirección de Trabajo y Previsión Social en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría del Trabajo y Previsión Social a partir de la entrada en vigor de este Decreto.
+
+ARTÍCULO DECIMOSEXTO.- Cuando en cualquier otro instrumento jurídico se haga referencia a la Dirección de Trabajo y Previsión Social, se entenderá citada a la Secretaría del Trabajo y Previsión Social.
+
+ARTÍCULO DECIMOSÉPTIMO.- Se transfieren a la Secretaría General de Gobierno los archivos y documentos que tenían destinados a su servicio, manejo y resguardo la Secretaría de Desarrollo Municipal respecto de las unidades administrativas que se le transfieran conforme al presente Decreto.
+
+ARTÍCULO DECIMOCTAVO.- El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Desarrollo Municipal, serán continuados ante la Secretaría General de Gobierno o ante la Secretaría de Desarrollo Urbano y Ecología, considerando las funciones y unidades administrativas que a cada una se le transfieren de la extinta Secretaría de Desarrollo Municipal conforme a este Decreto.
+
+ARTÍCULO DECIMONOVENO.- Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Desarrollo Municipal en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Secretaría General de Gobierno o por la Secretaría de Desarrollo Urbano y Ecología, considerando las funciones que a cada una se le transfieren de la extinta Secretaría de Desarrollo Municipal conforme a este Decreto.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Coordinación de Fortalecimiento Municipal o a la Secretaría de Desarrollo Municipal, se entenderá citada a la Secretaría General de Gobierno o a la Secretaría de Desarrollo Urbano y Ecología, considerando las funciones que a cada una se le transfieren de la extinta Secretaría de Desarrollo Municipal conforme a este Decreto.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Las disposiciones reglamentarias establecerán las bases de coordinación entre los diferentes órganos del Poder Ejecutivo para la prestación de los servicios jurídicos, en los términos del artículo 18 de esta Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+Cuando en la Ley de Cultura Física y Deporte del Estado de Chihuahua se haga referencia a la Secretaría de Fomento Social o al Secretario de Fomento Social, se entenderá citada la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte.
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+El Ejecutivo del Estado expedirá el Reglamento Interior de las dependencias y unidades orgánicas que se crean por virtud del presente Decreto, así como las adecuaciones necesarias a los Reglamentos Interiores de las dependencias que modifican sus atribuciones a partir de la expedición de este Decreto.
+
+###### ARTÍCULO VIGÉSIMO CUARTO.
+
+El Ejecutivo del Estado, en coordinación con la Legislatura Estatal, incorporarán las bases legales y suficiencia presupuestaria necesaria dentro de la legislación correspondiente, respecto del Consejo de Desarrollo Económico del Estado de Chihuahua, con el objeto de garantizar su eficiencia y eficacia, lo cual deberá ejecutarse en el término de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO VIGÉSIMO QUINTO.
+
+Se transfieren a la Secretaría de la Contraloría los archivos magnéticos conteniendo documentación, manuales de procedimientos, manuales de organización, código fuente de los programas que conforman los sistemas desarrollados por la Coordinación de Desarrollo Administrativo y Modernización que dependía de la Secretaría de Finanzas y Administración, así como los archivos de configuración de equipo de comunicaciones, telefonía, de servidores de aplicaciones y de base de datos y documentos en general que tenía asignados a su servicio, manejo y resguardo dicha unidad administrativa.
