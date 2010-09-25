@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-11674"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-19"
-last_updated: "2010-07-14"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 19 de junio de 1996.
 
@@ -57,35 +57,35 @@ Las disposiciones de esta Ley, son de orden público e interés social; asimismo
 
 La presente Ley establece las bases del Sistema Estatal de Protección Civil como órgano consultivo, decisorio y operativo del Sistema Nacional de Protección Civil.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 3.
 
 Son autoridades en materia de Protección Civil:
 
-I.- El Consejo;
+l. El Gobernador del Estado;
 
-II.- El Gobernador del Estado;
+II. El Fiscal General del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+III. El Consejo;
 
-III.- El Secretario de Seguridad Pública.
+IV. El Coordinador Estatal de Protección Civil;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2005)</small>
+V. Los Fiscales Especializados en Seguridad Pública y Prevención del Delito;
 
-III Bis.- El Director de Vialidad y Protección Civil;
+VI. Los Coordinadores de Protección Civil; y
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+VI (SIC). Los Ayuntamientos de los Municipios de la Entidad.
 
-IV.- El Titular de la Coordinación de Protección Civil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Los Sistemas Distritales y Municipales; y
-
-VI.- Los Ayuntamientos de los Municipios de la Entidad.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-La prevención en situación normal, así como en situaciones de alto riesgo y el auxilio a la población en caso de siniestros o desastre son responsabilidades de los municipios como primera instancia, alertando a la población y se coordinará con el Estado para atender a la Entidad Federativa, de acuerdo a su ámbito de competencia, con la participación voluntaria de las organizaciones de la sociedad civil en los términos de esta Ley y de los reglamentos que de ella se deriven.
+La prevención en situación normal, así como en situaciones de alto riesgo y el auxilio a la población en caso de siniestros o desastre son responsabilidades de los municipios como primera instancia, alertando a la población. Para tal efecto, se coordinará con el Estado, con la participación voluntaria de las organizaciones de la sociedad civil, en los términos de esta Ley y de los reglamentos que de ella se deriven.
 
 ###### Artículo 5.
 
@@ -185,11 +185,13 @@ XXVII.- Sistemas contra incendios: Lo constituyen los equipos instalados en los 
 
 ### CAPITULO PRIMERO. DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 6.
 
-El Sistema Estatal de Protección Civil, parte integrante del Sistema Nacional, será organizado por el Ejecutivo del Estado por conducto de la Secretaría de la Seguridad Pública y tiene como fin prevenir, proteger y salvaguardar a las personas, los bienes públicos, privados y el entorno ante la posibilidad de un siniestro o desastre, producido por causa de origen natural o humano.
+El Sistema Estatal de Protección Civil, parte integrante del Sistema Nacional, será organizado por el Ejecutivo del Estado por conducto de la Fiscalía General del Estado, y tiene como fin prevenir, proteger y salvaguardar a las personas, los bienes públicos, privados y el entorno ante la posibilidad de un siniestro o desastre, producido por causa de origen natural o humano.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2003)</small>
 
@@ -215,11 +217,13 @@ VI.- Promover la eficiente coordinación de esfuerzos y acciones entre los Gobie
 
 VII.- Solicitar, cuando lo estime necesario, el apoyo de los Gobierno (sic) Federal, Estatales de otras Entidades de la República y municipales de la Entidad respecto de situaciones que originen catástrofes, desastres o calamidades públicas que pongan en graves (sic) riesgo la población del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 8.
 
-Corresponde a la Secretaría de Seguridad Pública.
+Corresponde a la Fiscalía General del Estado.
 
 I.- Actuar como Secretario Ejecutivo del Consejo Estatal de Protección Civil;
 
@@ -251,9 +255,11 @@ III.- Formular y ejecutar, el Programa Municipal de Protección Civil;
 
 IV.- Formular y ejecutar en coordinación con los Ayuntamientos y la Secretaría General de Gobierno, los Programas Distritales de Protección Civil;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V.- Vigilar, inspeccionar y, en su caso, dar aviso oportuno a la Secretaría General de Gobierno de las posibles violaciones a esta Ley y demás disposiciones de la materia;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Vigilar, inspeccionar y, en su caso, dar aviso oportuno a la Fiscalía General del Estado de las posibles violaciones a esta Ley y demás disposiciones de la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2003)</small>
 
@@ -273,9 +279,15 @@ El Sistema Estatal de Protección Civil estará integrado por los siguientes ór
 
 I.- El Consejo Estatal de Protección Civil;
 
-II.- La Unidad Estatal de Protección Civil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- (DEROGADA, P.O. 7 DE MAYO DE 2003)
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Las Coordinaciones de Protección Civil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+III.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
 
@@ -309,19 +321,31 @@ El Consejo Estatal estará integrado por:
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- El Secretario de Seguridad Pública, quien fungirá como Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-III.- Los Directores Generales de Gobierno del Estado así como el Procurador General de Justicia en el Estado;
+II.- El Fiscal General del Estado, quien fungirá como Secretario Ejecutivo;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- El Coordinador de Protección Civil, quien fungirá como "Secretario Técnico";
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Los titulares de las Dependencias del Poder Ejecutivo del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- El Coordinador Estatal de Protección Civil, quien fungirá como "Secretario Técnico";
 
 V.- El Coordinador de Comunicación Social;
 
-VI.- Seis representantes del Congreso del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Seis Diputados del Congreso del Estado;
 
 VII.- El Presidente o Presidentes Municipales, de la localidad en que se lleve a cabo la consulta u ocurrencia de una calamidad.
 
@@ -353,11 +377,19 @@ IV.- Fungir como órgano consultivo, de planeación, de coordinación de accione
 
 V.- Aprobar el Programa Estatal de Protección Civil y los Programas Especiales que de él se deriven y evaluar su cumplimiento por lo menos anualmente;
 
-VI.- La supervisión, seguimiento y evaluación del funcionamiento de la Unidad Estatal de Protección Civil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- La supervisión, seguimiento y evaluación del funcionamiento de la Coordinación Estatal de Protección Civil;
 
 VII.- Promover la investigación científica de los problemas actuales y potenciales, en materia de protección civil, a través de las instituciones de educación superior, y en cada caso proporcionar sus medidas de protección;
 
-VIII.- Formular el diagnóstico de evaluación inicial de las situaciones de emergencia, con base en el análisis que presente la Unidad Estatal de Protección Civil, decidir las acciones a tomar y determinar los recursos necesarios para la respuesta;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VIII.- Formular el diagnóstico de evaluación inicial de las situaciones de emergencia, con base en el análisis que presente la Coordinación Estatal de Protección Civil, decidir las acciones a tomar y determinar los recursos necesarios para la respuesta;
 
 IX.- Constituirse en sesión permanente ante la ocurrencia de un desastre. Asimismo, establecerá la estructura jerárquica y funcional de las autoridades y organismos que intervienen durante la emergencia;
 
@@ -393,17 +425,21 @@ El cargo de Consejero es de carácter honorario y tratándose de servidores púb
 
 ### CAPITULO TERCERO. DE LA UNIDAD ESTATAL DE PROTECCION CIVIL
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 18.
 
-La Secretaría de Seguridad Pública contará con una Coordinación de Protección Civil, la cual auxiliará a la elaboración e implantación de programas de la materia, y tendrá a su cargo la dirección, supervisión y control de los mismos, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social y privado, con los grupos voluntarios y la población en general.
+La Fiscalía General del Estado, contará con una Coordinación Estatal de Protección Civil, la cual auxiliará a la elaboración e implantación de programas de la materia, y tendrá a su cargo la dirección, supervisión y control de los mismos, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social y privado, con los grupos voluntarios y la población en general.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
-La Coordinación de Protección Civil, estará integrada por:
+La Coordinación Estatal de Protección Civil, estará integrada por:
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
@@ -423,11 +459,13 @@ IV.- Un Jefe de la Oficina Administrativa; y
 
 V.- El personal que se le asigne para su adecuado funcionamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 20.
 
-Compete a la Coordinación de Protección Civil:
+Compete a la Coordinación Estatal de Protección Civil:
 
 I.- Por conducto de su Titular, desempeñar el cargo de Secretario Técnico del Consejo Estatal de Protección Civil y dar seguimiento a los acuerdos que tome el propio Consejo;
 
@@ -443,21 +481,31 @@ V.- Aplicar el Plan de Emergencia o los Programas establecidos por el Consejo Es
 
 VI.- Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de emergencia;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VII.- De acuerdo con los lineamientos trazados por la Secretaría de Seguridad Pública, auxiliar a la elaboración, instrumentación, operación y coordinación del Programa Estatal de Protección Civil.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- De acuerdo con los lineamientos trazados por la Fiscalía General del Estado, auxiliar a la elaboración, instrumentación, operación y coordinación del Programa Estatal de Protección Civil;
 
 VIII.- Elaborar los Programas Especiales e internos de Protección Civil;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Por conducto del C-4, recibirá todas las llamadas de emergencia del público, procesando la información con exactitud y transmitiéndola a las dependencias correspondientes inmediatamente; así como la Unidad Municipal y Estatal de Protección Civil después de la solicitud de servicio;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-X.- Establecer y mantener la coordinación con las Unidades Distritales, Municipales, y con autoridades de los tres niveles de Gobierno, instituciones y organismos involucrados en tareas de protección civil;
+IX.- Recibir, por conducto del C-4, todas las llamadas de emergencia del público, procesando la información con exactitud y transmitiéndola a las dependencias correspondientes inmediatamente; así como las Unidades Municipales de Protección Civil y la propia Coordinación Estatal, después de la solicitud de servicio;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI.- Promover ante el Ejecutivo Estatal, por conducto del Secretario de Seguridad Pública, la elaboración de los reglamentos respectivos, a fin de llevar a cabo la debida operación y ejecución de la presente Ley;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Establecer y mantener la coordinación con las Unidades Distritales, Municipales y con autoridades de los tres órdenes de Gobierno, instituciones y organismos involucrados en tareas de Protección Civil;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XI.- Promover ante el Ejecutivo Estatal, por conducto del Fiscal General del Estado, la elaboración de los reglamentos respectivos, a fin de llevar a cabo la debida operación y ejecución de la presente Ley;
 
 XII.- Instrumentar el sistema de seguimiento y autoevaluación del Programa Estatal de Protección Civil e informar al Consejo Estatal sobre su funcionamiento y avance;
 
@@ -489,49 +537,69 @@ XXII.- Fomentar la creación de una cultura de Protección Civil a través de la
 
 XXIII.- Las demás que le señalen el Consejo Estatal de Protección Civil u otras disposiciones legales aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 21.
 
-Los servidores públicos de la Unidad Estatal de Protección Civil, con independencia del jefe de la Unidad, quien tiene funciones de dirección, supervisión y control se clasifican en personal de carácter operativo; de coordinación y capacitación; y administrativo.
+Los servidores públicos de la Coordinación Estatal de Protección Civil, con independencia del jefe de la Unidad, quien tiene funciones de dirección, supervisión y control se clasifican en personal de carácter operativo; de coordinación y capacitación; y administrativo.
 
 ### CAPITULO CUARTO. DE LA ORGANIZACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 22.
 
-El trámite y resolución de los asuntos de la competencia de la Coordinadora corresponden a su Titular, quien tendrá las siguientes atribuciones:
+El trámite y resolución de los asuntos de la competencia de la Coordinación Estatal de Protección Civil corresponden a su Titular, quien tendrá las siguientes atribuciones:
 
 I.- Desempeñar el cargo de Secretario Técnico del Consejo Estatal de Protección Civil y dar seguimiento a los acuerdos que tome el propio Consejo;
 
-II.- Dirigir, supervisar y controlar todas las acciones que se realicen en la Unidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-III. Coordinar, previo acuerdo del Secretario de Seguridad Pública, las acciones de la Coordinación con las dependencias y organismos federales, estatales y municipales;
+II.- Dirigir, supervisar y controlar todas las acciones que se realicen en la Coordinación;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Coordinar, previo acuerdo del Fiscal General del Estado, las acciones de la Coordinación con las dependencias y organismos federales, estatales y municipales;
 
 IV.- Incorporar métodos, procedimientos, nueva tecnología y directrices en lo referente a comunicaciones para atención a emergencias;
 
-V.- Formular manuales y disposiciones técnicas de procedimiento que requieran la adecuada operación de la Unidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Formular manuales y disposiciones técnicas de procedimiento que requieran la adecuada operación de la Coordinación;
 
 VI.- Aprobar la rotación de actividades que deba tener el personal en conjunción y a sugerencia de los Subjefes;
 
 VII.- Promover la realización de cursos de capacitación y actualización para el personal de las diferentes áreas de la Unidad y demás organismos y personas relacionados con las actividades de ésta;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Informar, y en su caso asesorar, al Gobernador del Estado y al Secretario de Seguridad Pública en todos los aspectos técnicos de Protección Civil;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VIII.- Informar, y en su caso asesorar, al Gobernador del Estado y al Fiscal General del Estado en todos los aspectos técnicos de Protección Civil;
 
 IX.- Representar a la dependencia en los convenios con personas y organismos e instituciones públicas, privadas y sociales en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-X.- Expedir, previo acuerdo del Secretario General de Gobierno, los nombramientos de los servidores públicos de la Unidad; remover, cesar o suspender a los empleados, conforme a las disposiciones legales aplicables;
+X.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 XI.- Elaborar y tramitar el proyecto de presupuesto anual de la Unidad con apoyo de la Subjefatura Administrativa;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XII. Proponer al Secretario de Seguridad Pública los proyectos de leyes, reglamentos y manuales de organización, aplicables a las comunicaciones de emergencia y protección ciudadana, así como las modificaciones y enmiendas que estime pertinentes;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XII.- Proponer al Fiscal General del Estado los proyectos de leyes, reglamentos y manuales de organización, aplicables a las comunicaciones de emergencia y protección ciudadana, así como las modificaciones y enmiendas que estime pertinentes;
 
 XIII.- Autorizar y supervisar los programas internos de protección civil en los inmuebles o establecimientos que por su propia naturaleza o por el uso al que se han destinado reciban una afluencia masiva de personas;
 
@@ -553,39 +621,45 @@ XVIII.- Las demás que le sean conferidas por otras disposiciones legales.
 
 ### CAPITULO QUINTO. DE LA PARTICIPACION PRIVADA Y SOCIAL
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
-Esta Ley reconoce como grupos voluntarios a las Instituciones y Asociaciones Federales, Estatales y Municipales; que cumpliendo con lo que dispone el artículo 5, fracción XXVI; obtengan su registro ante la instancia de la Unidad Municipal de Protección Civil y la Unidad Estatal de Protección Civil.
+Esta Ley reconoce como grupos voluntarios a las Instituciones y Asociaciones Federales, Estatales y Municipales; que cumpliendo con lo que dispone el artículo 5, fracción XXVI; obtengan su registro ante la instancia de la Unidad Municipal de Protección Civil y la Coordinación Estatal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2010)</small>
 
 Los miembros de grupos a que se refiere el párrafo anterior, fuera del supuesto del primer párrafo de la fracción XXXVI del artículo 64 de la Constitución Política del Estado de Chihuahua, podrán gozar de los beneficios que establece el segundo párrafo de dicha fracción, cuando el H. Congreso del Estado estime que existen los suficientes méritos para ello.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 24.
 
-Los grupos voluntarios, para su adecuado funcionamiento, deberán contar con un nivel básico de capacitación de sus miembros en materia de urgencias médicas de primer contacto; los cursos que al respecto se realicen, deberán de estar avalados por instituciones de salud reconocidas oficialmente y evaluados periódicamente por la Unidad de Protección Civil.
+Los grupos voluntarios, para su adecuado funcionamiento, deberán contar con un nivel básico de capacitación de sus miembros en materia de urgencias médicas de primer contacto; los cursos que al respecto se realicen, deberán de estar avalados por instituciones de salud reconocidas oficialmente y evaluados periódicamente por la Coordinación Estatal de Protección Civil.
 
-La preparación específica de cada grupo voluntario deberá complementarse con una ejecución de ejercicios y simulacros coordinados por la Unidad Estatal de Protección Civil.
+La preparación específica de cada grupo voluntario deberá complementarse con una ejecución de ejercicios y simulacros coordinados por la Coordinación Estatal de Protección Civil.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 25.
 
 Es obligatorio para los grupos voluntarios:
 
-I.- Coordinar con la Unidad Estatal de Protección Civil la participación en las actividades de prevención y auxilio a la población ante fenómenos destructivos de origen natural o humano;
+l. Registrarse y obtener en su caso, la autorización correspondiente ante la Coordinación Estatal de Protección Civil y la Unidad Municipal de Protección Civil, quienes llevarán un registro de grupos voluntarios que deberá estar actualizado;
 
-II.- Realizar actividades de monitoreo, pronóstico y aviso a la Unidad Estatal de Protección Civil de la presencia de cualquier situación de probable riesgo o inminente peligro para la población, así como la ocurrencia de cualquier calamidad;
+II. Colaborar con la Coordinación Estatal de Protección Civil, mediante la participación en las actividades de prevención y auxilio a la población ante fenómenos destructivos de origen natural o humano;
 
-III.- Participar en todas aquellas actividades que estén en capacidad de desarrollar, dentro de los Subprogramas de Prevención y Auxilio establecidos por el Programa Estatal de Protección Civil;
+III. Realizar actividades de monitoreo, pronóstico y aviso a la Coordinación Estatal de Protección Civil de la presencia de cualquier calamidad;
 
-IV.- Registrarse como grupo voluntario y obtener, en su caso, la autorización correspondiente ante la Unidad Estatal de Protección Civil, independientemente del cumplimiento que otras disposiciones legales les requieran;
+IV. Participar en todas aquellas actividades que estén en capacidad de desarrollar, dentro de los Subprogramas de Prevención y Auxilio establecidos por el Programa Estatal de Protección Civil; y
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2003)</small>
-
-V.- Colaborar con la difusión ante la Población de los Programas y Planes de Protección Civil.
-
-Para los efectos de este artículo, la Unidad Municipal de Protección Civil, llevará un registro de grupos de voluntarios que deberá ser actualizado anualmente.
+V. Colaborar con la difusión ante la población de los Programas y Planes de Protección Civil.
 
 ###### Artículo 26.
 
@@ -641,9 +715,13 @@ VI.- Los mecanismos para su control y evaluación.
 
 En el caso de que se identifiquen riesgos específicos que puedan afectar de manera grave a la población de una determinada localidad o región se podrán elaborar Programas Especiales de Protección Civil.
 
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 32.
 
-La Unidad de Protección Civil Estatal deberá elaborar los Programas Internos de las dependencias y entidades del sector público estatal.
+La Coordinación Estatal de Protección Civil deberá elaborar los Programas Internos de las dependencias y entidades del sector público estatal.
 
 ###### Artículo 33.
 
@@ -651,9 +729,11 @@ En los inmuebles o establecimientos que por su propia naturaleza o por el uso al
 
 De igual forma, los organizadores de espectáculos de concentración masiva de personas, deberán solicitar de la Unidad una autorización a efecto de verificar las medidas de seguridad con que se cuenta.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Para iniciar y realizar toda construcción con las características a que se refiere el presente Artículo, se requiere la autorización expresa de la Unidad Estatal o Municipal de Protección Civil, según corresponda, quien tendrá la obligación de verificar que en el proyecto ejecutivo de construcción, se contemple la instalación de sistemas contra incendios, así como también realizar la posterior verificación de su instalación y adecuado funcionamiento.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Para iniciar y realizar toda construcción con las características a que se refiere el presente Artículo, se requiere la autorización expresa de la Coordinación Estatal o Unidad Municipal de Protección Civil, según corresponda, quien tendrá la obligación de verificar que en el proyecto ejecutivo de construcción, se contemple la instalación de sistemas contra incendios, así como también realizar la posterior verificación de su instalación y adecuado funcionamiento.
 
 ###### Artículo 34.
 
@@ -683,9 +763,11 @@ IV.- Un mapa con la localización exacta de los materiales peligrosos que maneje
 
 V.- Un listado de los materiales químicos que contenga: descripción, cantidad, datos generales de la empresa que lo surte; uso, disposición, ruta y forma de transporte; así como toda la documentación e información que les sea requerida por la unidad; y
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- Capacitar y certificar a su personal de acuerdo a los lineamientos generales de la Unidad Estatal de Protección Civil:
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Capacitar y certificar a su personal de acuerdo a los lineamientos generales de la Coordinación Estatal de Protección Civil.
 
 a) Para su supervisión de materiales peligrosos que sean utilizados en las Empresas; deberán presentar fichas técnicas en español;
 
@@ -697,17 +779,21 @@ d) La actualización del Programa para la prevención de accidentes a nivel inte
 
 e) Los demás que determinen la presente Ley, las autoridades competentes y otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 37.
 
-Para la construcción de inmuebles destinados para uso público deberán solicitar a la Unidad Estatal de Protección Civil, en coordinación con la Unidad Municipal de Protección Civil, la supervisión del riesgo en el inmueble.
+Para la construcción de inmuebles destinados para uso público deberán solicitar a la Coordinación Estatal de Protección Civil, en coordinación con la Unidad Municipal de Protección Civil, la supervisión del riesgo en el inmueble.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 38.
 
-El Sistema Educativo Estatal instrumentará, en todas las escuelas del Estado, el Programa de Seguridad y Emergencia Escolar que coordinará la Secretaría de Educación y Cultura, auxiliándose para tal efecto de la Unidad Estatal de Protección Civil.
+El Sistema Educativo Estatal instrumentará, en todas las escuelas del Estado, el Programa de Seguridad y Emergencia Escolar que coordinará la Secretaría de Educación y Cultura, auxiliándose para tal efecto de la Coordinación Estatal de Protección Civil.
 
 ###### Artículo 39.
 
@@ -779,9 +865,13 @@ El Sistema Municipal de Protección Civil tendrá como responsabilidad dar el al
 
 Las autoridades, que en los términos de esta Ley y su Reglamento resulten competentes, podrán realizar por conducto del personal debidamente autorizado, visitas de inspección para verificar que se cumplan adecuadamente las condiciones necesarias en materia de protección civil.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 50.
 
-Indistintamente, la Unidad Estatal y la Municipal, ejercerán las funciones de vigilancia e inspección que corresponden y aplicarán las sanciones que este ordenamiento establece, sin perjuicio de las facultades que confieran a otras dependencias, los ordenamientos federales y locales aplicables en la materia.
+Indistintamente, la autoridad Estatal y la Municipal, ejercerán las funciones de vigilancia e inspección que corresponden y aplicarán las sanciones que este ordenamiento establece, sin perjuicio de las facultades que confieran a otras dependencias, los ordenamientos federales y locales aplicables en la materia.
 
 ###### Artículo 51.
 
@@ -789,19 +879,35 @@ Las inspecciones se sujetarán al siguiente procedimiento:
 
 I.- El inspector deberá contar con orden por escrito que contendrá la fecha, ubicación del establecimiento, local o evento por inspeccionar; así como su nombre, razón social o denominación, objeto y aspectos de la visita, el fundamento legal y la motivación de la misma el nombre y la firma de la autoridad que expida la orden y el nombre del inspector;
 
-II.- El inspector deberá identificarse ante la persona que ampara la orden de inspección, y en su defecto, ante su representante, el administrador del establecimiento, o encargado en su caso, con la credencial vigente que para tal efecto expida la Unidad Estatal o Municipal, y entregar copia legible de aquélla;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- El inspector deberá identificarse ante la persona que ampara la orden de inspección, y en su defecto, ante su representante, el administrador del establecimiento, o encargado en su caso, con la credencial vigente que para tal efecto expida la autoridad Estatal o Municipal, y entregar copia legible de aquélla;
 
 III.- Los inspectores efectuarán la visita dentro de las 72 horas siguientes a la expedición de la orden;
 
 IV.- Al inicio de la visita, el inspector deberá requerir al interesado, para que designe dos personas que funjan como testigos en el desarrollo de la diligencia, apercibiéndosele que en caso de no hacerlo, éstos serán nombrados por el propio inspector;
 
-V.- De toda visita se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas en la que se expresará lugar, fecha y nombre de la persona con quien se entienda la diligencia, así como las incidencias y el resultado de la misma. El acta deberá ser firmada por el inspector, por la persona con quien se entendió la diligencia, y por los testigos de asistencia propuestos por ésta o nombrados por el inspector, en su caso. Si alguna de las personas señaladas se niegan a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia invalide el documento. El acta tendrá valor probatorio pleno, salvo prueba en contrario. Si fue firmada sin protesta por el interesado o los testigos propuestos por éste, no admitirá prueba en contrario;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- El inspector comunicará al visitado las violaciones que encuentre de cualquier obligación a su cargo, y lo hará constar en el acta, asentando además que el responsable del inmueble, obra, servicio, espectáculo o establecimiento, cuenta con cinco días hábiles para presentar por escrito ante la Unidad o la autoridad municipal según corresponda, sus observaciones, ofrecer las pruebas y alegatos que a su derecho convengan;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-VII.- Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y las copias restantes, se entregarán a la Unidad o autoridad municipal que corresponda; y
+V.- De toda visita se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas en la que se expresará lugar, fecha y nombre de la persona con quien se entienda la diligencia, así como las incidencias y el resultado de la misma. El acta deberá ser firmada por el inspector, por la persona con quien se entendió la diligencia, y por los testigos de asistencia propuestos por ésta o nombrados por el inspector, en su caso. Si alguna de las personas señaladas se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia invalide el documento. El acta tendrá valor probatorio pleno, salvo prueba en contrario. Si fue firmada sin protesta por el interesado o los testigos propuestos por éste, no admitirá prueba en contrario;
 
-VIII.- Podrán ordenarse inspecciones generales por establecimientos, giros, zonas, poblaciones o municipios;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- El inspector comunicará al visitado las violaciones que encuentre de cualquier obligación a su cargo, y lo hará constar en el acta, asentando además que el responsable del inmueble, obra, servicio, espectáculo o establecimiento, cuenta con cinco días hábiles para presentar por escrito ante la autoridad municipal según corresponda, sus observaciones, ofrecer las pruebas y alegatos que a su derecho convengan;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y las copias restantes, se entregarán a la autoridad municipal que corresponda; y
+
+VIII.- Podrán ordenarse inspecciones generales por establecimientos, giros, zonas, poblaciones o municipios.
 
 ###### Artículo 52.
 
@@ -1052,3 +1158,41 @@ P.O. 14 DE JULIO DE 2010.
 PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de ha de (sic) haber sido aprobada la reforma a la Constitución Política local. Realizado que sea, publíquese el Decreto en el Periódico Oficial del Estado, para que su Artículo Primero entre en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Las reformas a la Ley de Protección Civil del Estado de Chihuahua, contenidas en el Artículo Segundo del presente Decreto, surtirán vigencia un día después de la entrada en vigor de la reforma constitucional antes citada.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
