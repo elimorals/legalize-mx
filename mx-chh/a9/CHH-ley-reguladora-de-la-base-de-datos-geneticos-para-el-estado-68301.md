@@ -4,7 +4,7 @@ identifier: "CHH-ley-reguladora-de-la-base-de-datos-geneticos-para-el-estado-683
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2009-11-28"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY REGULADORA DE LA BASE DE DATOS GENETICOS PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -55,19 +55,31 @@ Creación del Sistema Estatal de Registros de ADN.
 
 La presente Ley regula un Sistema Estatal de Registros de ADN, constituido sobre la base de huellas genéticas determinadas con ocasión de una investigación penal, así como para los procedimientos de determinación de parentesco biológico, identificación de cadáveres, restos óseos, óbitos, fetos o de averiguación de personas desaparecidas.
 
-La obtención de la huella genética se realizará por profesionales y técnicos que se desempeñen en los Laboratorios de Genética Forense pertenecientes a la Dirección de Servicios Periciales y Ciencias Forenses de la Procuraduría General de Justicia del Estado de Chihuahua.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La obtención de la huella genética se realizará por profesionales y técnicos que se desempeñen en los Laboratorios de Genética Forense pertenecientes a la Dirección de Servicios Periciales y Ciencias Forenses de la Fiscalía General del Estado de Chihuahua.
 
 ###### Artículo 2o.
 
 Dependencia orgánica.
 
-La administración y custodia del Sistema estará a cargo de la Procuraduría General de Justicia del Estado, a través de la Dirección General de Servicios Periciales y Ciencias Forenses, correspondiéndole el ingreso y la gestión de la información.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La administración y custodia del Sistema estará a cargo de la Fiscalía General del Estado, a través de la Dirección de Servicios Periciales y Ciencias Forenses, correspondiéndole el ingreso y la gestión de la información.
 
 ###### Artículo 3o.
 
 Principios.
 
-El Sistema tendrá carácter reservado. La información en él contenida sólo podrá ser indirectamente consultada por el Ministerio Público y los tribunales del ámbito Penal y de lo Familiar, a través de informes emitidos por los peritos a cargo. Los Agentes de la Agencia Estatal de Investigación podrán tener acceso a la información de forma indirecta, previa autorización del Ministerio Público, y los defensores públicos y privados, previa autorización del Tribunal respectivo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El Sistema tendrá carácter reservado. La información en él contenida sólo podrá ser indirectamente consultada por el Ministerio Público y los tribunales del ámbito Penal y de lo Familiar, a través de informes emitidos por los peritos a cargo. La Policía Estatal Única, de acuerdo a la normatividad que para tal efecto expida la Fiscalía General del Estado podrá tener acceso a la información de forma indirecta, previa autorización del Ministerio Público, y los defensores públicos y privados, previa autorización del Tribunal respectivo.
 
 Bajo ningún supuesto, el Sistema podrá constituir base o fuente de discriminación, estigmatización, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
 
@@ -89,7 +101,11 @@ II. Alfanumérico: Perteneciente a un conjunto de caracteres que incluyen letras
 
 III. Evidencia: Es un objeto, sustancia o elemento de interés que permite la identificación de los factores que intervienen en un fenómeno criminal.
 
-IV. Huella genética: El registro alfanumérico personal elaborado exclusivamente sobre la base de información genética que sea polimórfica en la población, carezca de asociación directa en la expresión de genes y aporte sólo información identificatoria, a través de los marcadores genéticos establecidos y validados en el laboratorio de Servicios Periciales y Ciencias Forenses.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Huella genética: El registro alfanumérico personal elaborado exclusivamente sobre la base de información genética que sea polimórfica en la población, carezca de asociación directa en la expresión de genes y aporte sólo información identificatoria, a través de los marcadores genéticos establecidos y validados en el laboratorio de Genética de la Dirección de Servicios Periciales y Ciencias Forenses.
 
 V. Marcadores genéticos: Segmentos de ADN con una ubicación física identificable en un cromosoma y cuya herencia se puede rastrear.
 
@@ -127,7 +143,11 @@ Registro de Víctimas.
 
 En el Registro de Víctimas se contendrán las huellas genéticas de las víctimas de un delito, determinadas en el curso de un procedimiento penal.
 
-En todo caso, no se incorporará al Registro la huella genética de la víctima que expresamente se opusiere a ello. Para tal efecto, quien tome la muestra biológica consignará el hecho de corresponder a una víctima.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En todo caso, no se incorporará al Registro la huella genética de la víctima que expresamente se opusiere a ello. Para tal efecto, quien tome la muestra biológica consignará el hecho de corresponder a una víctima. La Dirección de Servicios Periciales y Ciencias Forenses se abstendrá de incorporarla en el Registro hasta recibir tal instrucción del Ministerio Público, el que previamente consultará a la víctima, informándola acerca de su derecho.
 
 La Dirección General de Servicios Periciales y Ciencias Forenses se abstendrá de incorporarla en el Registro hasta recibir tal instrucción del Ministerio Público, el que previamente consultará a la víctima, informándola acerca de su derecho.
 
@@ -175,15 +195,25 @@ Toda persona que intervenga en la toma de muestras, obtención de evidencias y d
 
 Remisión de informe y material biológico.
 
-Al determinarse la huella genética por parte de la Dirección General de Servicios Periciales y Ciencias Forenses, ésta rendirá el informe que dé cuenta de la pericia y metodología y lo remitirá a la autoridad correspondiente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Cuando un peritaje recaiga sobre objetos que se consuman al ser analizados para la obtención de huella genética, la Dirección General de Servicios Periciales y Ciencias Forenses notificará lo conducente al Ministerio Público, a efecto de que éste proceda en los términos del artículo 270 del Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Al determinarse la huella genética por parte de la Dirección de Servicios Periciales y Ciencias Forenses, ésta rendirá el informe que dé cuenta de la pericia y metodología y lo remitirá a la autoridad correspondiente.
+
+Cuando un peritaje recaiga sobre objetos que se consuman al ser analizados para la obtención de huella genética, la Dirección de Servicios Periciales y Ciencias Forenses notificará lo conducente al Ministerio Público, a efecto de que éste proceda en los términos del artículo 270 del Código de Procedimientos Penales.
 
 ###### Artículo 17.
 
 Pericia de cotejo y remisión de informe.
 
-La Dirección General de Servicios Periciales y Ciencias Forenses procederá a practicar el peritaje de cotejo de la huella genética en cuestión, contrastándola con las demás huellas contenidas en uno o más Registros del Sistema de la Base de Datos, según le hubiere sido específicamente requerido en una investigación o dentro de un procedimiento penal o de lo familiar. Practicado el cotejo, el perito asignado del Área de Genética Forense adscrito a Servicios Periciales y Ciencias Forenses, enviará el informe que dé cuenta de la pericia y de sus resultados a la autoridad que lo solicitare.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La Dirección de Servicios Periciales y Ciencias Forenses procederá a practicar el peritaje de cotejo de la huella genética en cuestión, contrastándola con las demás huellas contenidas en uno o más Registros del Sistema de la Base de Datos, según le hubiere sido específicamente requerido en una investigación o dentro de un procedimiento penal o de lo familiar.
+
+Practicado el cotejo, el perito asignado del Área de Genética Forense adscrito a la Dirección de Servicios Periciales y Ciencias Forenses, enviará el informe que dé cuenta de la pericia y de sus resultados a la autoridad que lo solicitare.
 
 ###### Artículo 18.
 
@@ -191,7 +221,11 @@ Conservación y destrucción del material biológico.
 
 Inmediatamente después de emitido el informe de que trata el artículo precedente o de recibidas las tomas a que se refiere el artículo 14, la Dirección de Servicios Periciales y Ciencias Forenses deberá proceder a la conservación del material biológico que hubiere sido objeto de un examen de ADN.
 
-La conservación de las muestras biológicas se hará por parte de la Dirección General de Servicios Periciales y Ciencias Forenses, de acuerdo con el siguiente esquema:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La conservación de las muestras biológicas se hará por parte de la Dirección de Servicios Periciales y Ciencias Forenses, de acuerdo con el siguiente esquema:
 
 I. Muestras biológicas de referencia, por dos años.
 
@@ -201,7 +235,11 @@ III. Evidencias, por cinco años.
 
 IV. ADN obtenido de las evidencias, por dos años.
 
-Transcurrido el tiempo límite por el que deba conservarse alguno de los elementos señalados en las fracciones anteriores, la Dirección General de Servicios Periciales y Ciencias Forenses notificará al Ministerio Público dicha particularidad, a efecto de que éste determine si hay motivos para prolongar la conservación de dichas muestras. En caso negativo, el Ministerio Público notificará, con la debida anticipación, a los sujetos procesales de tal destrucción, para que manifiesten lo que a su derecho convenga.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Transcurrido el tiempo límite por el que deba conservarse alguno de los elementos señalados en las fracciones anteriores, la Dirección de Servicios Periciales y Ciencias Forenses notificará al Ministerio Público dicha particularidad, a efecto de que éste determine si hay motivos para prolongar la conservación de dichas muestras. En caso negativo, el Ministerio Público notificará, con la debida anticipación, a los sujetos procesales de tal destrucción, para que manifiesten lo que a su derecho convenga.
 
 De la destrucción o conservación de las muestras biológicas, se dejará constancia escrita por el perito encargado. Dicha constancia deberá contener los datos que permitan identificar las muestras de que se trate, así como las razones que, en el caso concreto, hubieren justificado la medida de conservación o destrucción.
 
@@ -310,3 +348,41 @@ LIC. JOSE REYES BAEZA TERRAZAS. Gobernador Constitucional del Estado. Rúbrica. 
 P.O. 28 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
