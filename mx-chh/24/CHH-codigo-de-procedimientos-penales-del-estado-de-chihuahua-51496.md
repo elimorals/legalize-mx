@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-del-estado-de-chihuahua-51496"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-08-09"
-last_updated: "2010-08-14"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 276/08 II P.O. SE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL NUEVO SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. 30 DE JULIO DE 2008, LA CUAL ENTRARÁ EN VIGOR A PARTIR DE LAS CERO HORAS: 1.- EN EL DISTRITO JUDICIAL MORELOS, DEL 1o. DE ENERO DE 2007; 2.- EN EL DISTRITO JUDICIAL BRAVOS, DEL 1o. DE ENERO DE 2008; 3.- EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO, DEL 1o. DE JULIO DE 2008.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado Chihuahua, el miércoles 9 de agosto de 2006.
 
@@ -437,9 +437,11 @@ Resolución firme.
 
 Las resoluciones judiciales quedarán firmes y serán ejecutables, sin necesidad de declaración alguna, en cuanto no sean oportunamente recurridas.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En su caso, el juez de garantía deberá remitir copia autorizada de la sentencia firme al titular de la Dirección de Ejecución de Penas y Medidas de Seguridad y al Juez de Ejecución para su debido cumplimiento; y a la Procuraduría General de Justicia en el Estado, para su conocimiento.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En su caso, el juez de garantía deberá remitir copia autorizada de la sentencia firme al titular de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales y al Juez de Ejecución para su debido cumplimiento; y a la Fiscalía General del Estado, para su conocimiento.
 
 ###### Artículo 42.
 
@@ -669,7 +671,11 @@ Todos los gastos que se originen con motivo de los actos de investigación, de l
 
 Los gastos de las diligencias solicitadas por el imputado o la defensa serán cubiertos por quienes las promuevan, salvo que el Juez estime que aquél esté imposibilitado para ello, caso en que serán sufragados por el Estado.
 
-Cuando el Juez considere que el imputado no cuenta con medios suficientes para solventar el pago de peritos y que la no realización de la diligencia pudiere importar una notoria afectación en sus posibilidades de defensa, podrá, a petición de parte, ordenar a la Procuraduría de Justicia del Estado o cualquier institución o universidad pública, nombre perito para que practique el peritaje.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando el Juez considere que el imputado no cuenta con medios suficientes para solventar el pago de peritos y que la no realización de la diligencia pudiere importar una notoria afectación en sus posibilidades de defensa, podrá, a petición de parte, ordenar a la Fiscalía General del Estado o cualquier institución o universidad pública, nombre perito para que practique el peritaje.
 
 ###### Artículo 67.
 
@@ -843,7 +849,11 @@ III. El imputado haya sufrido, a consecuencia del hecho, daño físico o psicol�
 
 IV. La pena o medida de seguridad que pueda imponerse por el hecho de cuya persecución se prescinde, carezca de importancia en consideración a la pena o medida de seguridad ya impuesta, o a la que se debe esperar por los restantes hechos, o la que se le impuso o se le impondría en un proceso tramitado en otro fuero.
 
-El agente del Ministerio Público deberá aplicar los criterios de oportunidad y otras facultades discrecionales sobre la base de razones objetivas y sin discriminación, valorando las pautas descritas en cada caso individual, según los criterios generales que al efecto se hayan dispuesto por la Procuraduría General de Justicia del Estado. En los casos en que se verifique un daño, éste deberá ser previamente reparado en forma razonable.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El agente del Ministerio Público deberá aplicar los criterios de oportunidad y otras facultades discrecionales sobre la base de razones objetivas y sin discriminación, valorando las pautas descritas en cada caso individual, según los criterios generales que al efecto se hayan dispuesto por la Fiscalía General del Estado. En los casos en que se verifique un daño, este deberá ser previamente reparado en forma razonable.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DEL 2009)</small>
 
@@ -859,7 +869,11 @@ Los criterios de oportunidad podrán ejercerse hasta antes de dictado el auto de
 
 Decisiones y control.
 
-La decisión del agente del Ministerio Público que aplique un criterio de oportunidad deberá estar fundada y motivada, y será comunicada al Procurador General de Justicia, o a quien éste designe, a fin de que se revise que la misma se ajusta a las políticas generales del servicio y a las normas dictadas al respecto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La decisión del agente del Ministerio Público que aplique un criterio de oportunidad deberá estar fundada y motivada, y será comunicada al Fiscal General del Estado, o a quien éste designe, a fin de que se revise que la misma se ajusta a las políticas generales del servicio y a las normas dictadas al respecto.
 
 En caso de ser autorizada la decisión de ejercer un criterio de oportunidad, la misma será impugnable por la víctima u ofendido, o por el denunciante, en su caso, ante el Juez de Garantía, dentro de los tres días posteriores a la notificación. Presentada la impugnación, el Juez convocará a los intervinientes a una audiencia para resolver.
 
@@ -1125,7 +1139,11 @@ Cooperación interestatal.
 
 Cuando las actividades delictivas se realicen, en todo o en parte, fuera del territorio estatal, o se les atribuyan a personas ligadas a una organización de carácter nacional, regional o internacional, el Ministerio Público se coordinará en el marco de los sistemas nacional y estatal de seguridad pública, para formar equipos conjuntos de recopilación de información y, en su caso, de investigación con las autoridades competentes.
 
-Los acuerdos de investigación conjunta deberán ser aprobados y supervisados por el Procurador General de Justicia del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Los acuerdos de investigación conjunta deberán ser aprobados y supervisados por el Fiscal General del Estado.
 
 ###### Artículo 112.
 
@@ -1133,7 +1151,11 @@ Excusa y recusación.
 
 En la medida en que les sean aplicables, los agentes del Ministerio Público deberán excusarse y podrán ser recusados por los mismos motivos establecidos respecto de los jueces, salvo por el hecho de haber intervenido como agentes del Ministerio Público en otro procedimiento seguido en contra del imputado.
 
-La excusa o la recusación serán resueltas por el Procurador General de Justicia del Estado o el servidor público en quien él delegue esta facultad, previa realización de la investigación que se estime conveniente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La excusa o la recusación serán resueltas por el Fiscal General del Estado o el servidor público en quien él delegue esta facultad, previa realización de la investigación que se estime conveniente.
 
 #### SECCIÓN 2. POLICÍA
 
@@ -1141,33 +1163,55 @@ La excusa o la recusación serán resueltas por el Procurador General de Justici
 
 Función de los cuerpos de seguridad pública.
 
-REFORMADO, P.O.18 DE FEBRERO DE 2009)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Los integrantes de los cuerpos de seguridad pública, distintos a la policía ministerial, recabarán la información necesaria de los hechos delictuosos de que tengan noticia, dando inmediato aviso al Ministerio Público; impedirán que los hechos se lleven a consecuencias ulteriores; detendrán en flagrancia a quien realice un hecho que pueda constituir un delito y asentarán en el registro de detenciones el aseguramiento de personas; identificarán y aprehenderán, por mandamiento judicial o ministerial, a los imputados.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-En los casos de violencia familiar y delitos contra la libertad y seguridad sexuales deberán aplicar los protocolos o disposiciones especiales que emita la Secretaría de Seguridad Pública para el adecuado resguardo de los derechos de las víctimas.
+Los integrantes de los cuerpos de seguridad pública, distintos a la policía de investigación, recabarán la información necesaria de los hechos delictuosos de que tengan noticia, dando inmediato aviso al Ministerio Público; impedirán que los hechos se lleven a consecuencias ulteriores; detendrán en flagrancia a quien realice un hecho que pueda constituir un delito y asentarán en el registro de detenciones el aseguramiento de personas; identificarán y aprehenderán, por mandamiento judicial o ministerial, a los imputados.
 
-Cuando los cuerpos de seguridad pública mencionados sean los primeros en conocer de un hecho delictuoso, deberán ejercer las facultades previstas en el Artículo 114, fracciones I, III, IV, V, VII y VIII de este Código, hasta que el Ministerio Público o la policía ministerial intervengan. Interviniendo éstos, les informarán de lo actuado y les entregarán los instrumentos, objetos y evidencias materiales que hayan asegurado, de todo lo actuado deberán elaborar un parte informativo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En los casos de violencia familiar y delitos contra la libertad y seguridad sexuales deberán aplicar los protocolos o disposiciones especiales que emita la Fiscalía General del Estado para el adecuado resguardo de los derechos de las víctimas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando los cuerpos de seguridad pública mencionados sean los primeros en conocer de un hecho delictuoso, deberán ejercer las facultades previstas en el Artículo 114, fracciones I, III, IV, V, VII y VIII de este Código, hasta que el Ministerio Público o la policía de investigación intervengan. Interviniendo éstos, les informarán de lo actuado y les entregarán los instrumentos, objetos y evidencias materiales que hayan asegurado, de todo lo actuado deberán elaborar un parte informativo.
 
 Así mismo, actuarán como auxiliares del Ministerio Público o de la autoridad judicial, y por instrucciones expresas reunirán los antecedentes que aquél les solicite.
 
 Los elementos policiales a que se refiere el presente Artículo no podrán informar a los medios de comunicación social, ni a persona alguna, acerca de la identidad de detenidos, imputados, víctimas u ofendidos, testigos, ni de otras personas que se encontraren o pudieren resultar vinculadas a la investigación de un hecho punible, en protección de sus derechos y de la función investigadora.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA LA DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 114.
 
-Facultades y obligaciones de la policía ministerial.
+Facultades y obligaciones de la policía de investigación.
 
-La policía ministerial tendrá las siguientes facultades y obligaciones:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La policía de investigación tendrá las siguientes facultades y obligaciones:
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
 I. Recibir noticias de los hechos presuntamente constitutivos del delito y recopilar información sobre los mismos, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. En estos casos, la policía deberá informar al Ministerio Público inmediatamente;
 
 II. Confirmar la información que reciba, cuando ésta provenga de una fuente no identificada, y hacerla constar en un registro destinado a tales fines, en el que se asentarán el día, la hora, el medio y los datos del servidor público interviniente;
 
-III. Prestar el auxilio que requieran las víctimas u ofendidos y proteger a los testigos; en los casos de violencia familiar y delitos contra la libertad y seguridad sexuales deberán aplicar los protocolos o disposiciones especiales que emita la Procuraduría General de Justicia del Estado, para el adecuado resguardo de los derechos de las víctimas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IV. Cuidar que los rastros e instrumentos del delito sean conservados. Para este efecto, impedirá el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a su clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará que se alteren o borren de cualquier forma los rastros o vestigios del hecho o se remuevan los instrumentos usados para lIevarlo a cabo, mientras no interviniere personal experto;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III. Prestar el auxilio que requieran las víctimas u ofendidos y proteger a los testigos; en los casos de violencia familiar y delitos contra la libertad y seguridad sexuales deberán aplicar los protocolos o disposiciones especiales que emita la Fiscalía General del Estado, para el adecuado resguardo de los derechos de las víctimas;
+
+IV. Cuidar que los rastros e instrumentos del delito sean conservados. Para este efecto, impedirá el acceso a toda persona ajena a las diligencias de recopilación de información y procederá a su clausura, si se trata de local cerrado, o a su aislamiento, si se trata de lugar abierto. Evitará que se alteren o borren de cualquier forma los rastros o vestigios del hecho o se remuevan los instrumentos usados para llevarlo a cabo, mientras no interviniere personal experto;
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
 
@@ -1177,11 +1221,13 @@ VI. Practicar las diligencias orientadas a la individualización física de los 
 
 VII. Recabar los datos que sirvan para la identificación del imputado;
 
-VlIl. Reunir toda la información de urgencia que pueda ser útil al agente del Ministerio Público; y
+VIII. Reunir toda la información de urgencia que pueda ser útil al agente del Ministerio Público; y
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-IX. Realizar detenciones en los casos que autoriza la Constitución Federal. En estos casos, los agentes de la policía ministerial estarán facultados para realizar inspecciones personales sobre el detenido y recoger los objetos que tenga en su poder. Levantará un inventario de las mismas, que será firmado por él, si así lo considera conveniente, y las pondrá a disposición del agente del Ministerio Público.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Realizar detenciones en los casos que autoriza la Constitución Federal. En estos casos, los agentes de la policía de investigación estarán facultados para realizar inspecciones personales sobre el detenido y recoger los objetos que tenga en su poder. Levantará un inventario de las mismas, que será firmado por él, si así lo considera conveniente, y las pondrá a disposición del agente del Ministerio Público.
 
 Los agentes policíacos no realizarán, de propia autoridad, manipulación alguna, ni practicarán peritajes, sobre tales bienes.
 
@@ -1209,11 +1255,15 @@ Los policías respetarán las formalidades previstas para la investigación y su
 
 Los policías actuarán conforme a los principios de actuación de los Cuerpos de Seguridad Pública que contemple la ley Sobre el Sistema Estatal de Seguridad Pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 118.
 
 Poder disciplinario.
 
-Los integrantes de los cuerpos de seguridad pública que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio de sus funciones de investigación o lo cumplan negligentemente, serán sancionados según su ley orgánica. Cuando actúen bajo instrucciones del Ministerio Público y no sea la policía que dependa de él, el Procurador General de Justicia del Estado y los jueces, en su caso, podrán solicitar a la autoridad competente la aplicación de las sanciones ahí previstas, cuando las autoridades policiales no cumplan con su potestad disciplinaria.
+Los integrantes de los cuerpos de seguridad pública que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio de sus funciones de investigación o lo cumplan negligentemente, serán sancionados según su ley orgánica. Cuando actúen bajo instrucciones del Ministerio Público y no sea la policía que dependa de él, el Fiscal General del Estado y los jueces, en su caso, podrán solicitar a la autoridad competente la aplicación de las sanciones ahí previstas, cuando las autoridades policiales no cumplan con su potestad disciplinaria.
 
 ### CAPÍTULO II. LA VÍCTIMA U OFENDIDO
 
@@ -1265,9 +1315,11 @@ Derechos de la víctima u ofendido.
 
 Además de los previstos en la Constitución General de la República, los Tratados Internacionales ratificados por el Estado Mexicano y otras leyes secundarias que de aquellas emanen, la víctima u ofendido tendrá los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. Intervenir en el proceso y en la etapa de ejecución de la sentencia condenatoria conforme a las atribuciones que le confiere el Código Procesal Penal y la propia Ley de Ejecución de Penas y Medidas de Seguridad;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I. Intervenir en el proceso y en la etapa de ejecución de la sentencia condenatoria conforme las atribuciones que le confiere el Código Procesal Penal y la propia Ley de Ejecución de Penas y Medidas Judiciales;
 
 II. A tener acceso a los registros y a obtener copia de los mismos, salvo las excepciones previstas por la ley;
 
@@ -1281,9 +1333,11 @@ IV. Ser informado de las resoluciones que finalicen o suspendan el procedimiento
 
 V. Ser citado e intervenir en las audiencias convocadas para resolver sobre la extinción o suspensión de la acción penal o sobreseimiento del procedimiento, si tiene domicilio en el lugar;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VI. Si está presente en el debate de juicio oral, a tomar la palabra después de los alegatos de clausura y antes de concederle la palabra final al imputado. Así mismo, si compareció a la audiencia de ejecución de sentencia a que se refiere el artículo 12, fracción X de la Ley de Ejecución de Penas y Medidas de Seguridad, deberá concedérsele el uso de la palabra para que manifieste lo que a su interés corresponda, antes de declarar cerrado el debate respectivo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Si está presente en el debate de juicio oral, a tomar la palabra después de los alegatos de clausura y antes de concederle la palabra final al imputado. Así mismo, si compareció a la audiencia de ejecución de sentencia a que se refiere el artículo 12, fracción X de la Ley de Ejecución de Penas y Medidas Judiciales, deberá concedérsele el uso de la palabra para que manifieste lo que a su interés corresponda, antes de declarar cerrado el debate respectivo;
 
 VII. Si por su edad, condición física o psicológica, se le dificulta su comparecencia ante cualquier autoridad del proceso penal, a ser interrogada o a participar en el acto para el cual fue citado en el lugar en donde se encuentre;
 
@@ -1295,17 +1349,21 @@ X. Apelar del sobreseimiento;
 
 XI. No ser objeto de información por los medios de comunicación o presentado ante la comunidad sin su consentimiento; y (sic)
 
-> <small>(REFORMADA, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
 XII. Solicitar de manera directa, la reparación del daño en los casos que sea procedente;
 
-> <small>(ADICIONADA, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
 XIII. Las demás que establezcan las leyes.
 
 La víctima u ofendido será informado sobre sus derechos, en su primera intervención en el procedimiento.
 
-En los casos de delitos sexuales y de violencia familiar, la víctima contará con asistencia integral por parte de las Unidades Especializadas de la Procuraduría General de Justicia del Estado, quienes intervendrán con la debida diligencia, aplicando los protocolos emitidos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En los casos de delitos sexuales y de violencia familiar, la víctima contará con asistencia integral por parte de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito de la Fiscalía General del Estado, quienes intervendrán con la debida diligencia, aplicando los protocolos emitidos.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -1331,7 +1389,7 @@ Derechos del imputado.
 
 Además de los previstos en la Constitución General de la República, los Tratados Internacionales ratificados por el Estado Mexicano y otras leyes secundarias que de aquéllas emanen, el imputado tendrá los siguientes derechos:
 
-> <small>(REFORMADA, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
 I. Conocer desde el inicio, la causa o el motivo de su privación de libertad y el servidor público que la ordenó;
 
@@ -1339,7 +1397,7 @@ II. Conocer su derecho a no declarar, y de ser advertido de que todo lo que en s
 
 III. Tener una comunicación inmediata y efectiva con la persona, asociación, agrupación o entidad a la que desee comunicar su captura;
 
-> <small>(REFORMADA, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
 IV. Ser asistido, desde el momento de su detención o comparecencia y a partir de la realización de cualquier diligencia ante el Ministerio Público o autoridad judicial, por el defensor que designe él, sus parientes o la agrupación a la que se comunicó su captura y, en defecto de ésta, por un defensor público, así como a reunirse con su defensor en estricta confidencialidad;
 
@@ -1347,7 +1405,7 @@ V. Ser asistido gratuitamente por un traductor o intérprete, si no comprende o 
 
 VI. Ser presentado al Ministerio Público o al Juez de Garantía, inmediatamente después de ser detenido, para ser informado y enterarse de los hechos que se le imputan;
 
-> <small>(REFORMADA, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
 VII. Tomar la decisión de declarar; en caso positivo, lo hará con asistencia de su defensor; a entrevistarse previamente con él, y a que el mismo se encuentre presente en otras diligencias en las cuales se requiera su presencia;
 
@@ -1451,7 +1509,7 @@ Si el imputado ha sido aprehendido, se le deberá recibir la declaración inmedi
 
 El imputado tendrá derecho a no declarar o a declarar cuantas veces quiera, siempre que su declaración sea pertinente y no constituya una medida dilatoria del proceso.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 En todos los casos, la declaración del imputado sólo tendrá validez si es prestada voluntariamente ante el Ministerio Público o un Juez y asistido por su defensor. La confesión rendida sin la asistencia de defensor carecerá de todo valor probatorio.
 
@@ -1509,7 +1567,7 @@ El imputado tendrá el derecho de elegir un defensor de su preferencia para que 
 
 La intervención del defensor no menoscabará el derecho del imputado a formular solicitudes y observaciones por sí mismo.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 140.
 
@@ -1703,17 +1761,17 @@ El imputado contra quien se hubiere emitido la orden de aprehensión, podrá ocu
 
 Detención por orden judicial.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 Cuando exista denuncia o querella, de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el imputado lo cometió o participó en su comisión, y la comparecencia del mismo pudiera verse demorada o dificultada, el Juez, a solicitud del Ministerio Público, podrá ordenar la aprehensión del imputado para ser conducido a su presencia, sin previa citación, a fin de formularle la imputación.
 
 También se decretará la aprehensión de imputado cuya presencia en una audiencia judicial fuere condición de ésta y que, legalmente citado, no compareciere sin causa justificada, siempre y cuando se reúnan los requisitos previstos en el párrafo anterior, salvo el último de los ahí mencionados.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 Los agentes policiales que ejecuten una orden judicial de aprehensión informarán al imputado las razones de su detención y lo conducirán sin dilación alguna ante el Juez de Garantía, quien convocará de inmediato a la audiencia de formulación de imputación.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 162.
 
@@ -1721,7 +1779,7 @@ Solicitud de aprehensión del imputado.
 
 El representante del Ministerio Público, al solicitar el libramiento de orden de aprehensión del imputado, por cualquier medio que garantice su autenticidad, expondrá ante la autoridad judicial las razones que sustenten su pretensión, en términos del primer párrafo del artículo 161 de este Código.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 163.
 
@@ -1917,7 +1975,7 @@ I. Destruirá, modificará, ocultará o falsificará elementos de prueba; o
 
 II. Si es razonable entender que tratará de influir en lo que declararán algunos de los órganos de prueba.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 173.
 
@@ -2147,7 +2205,7 @@ Definición.
 
 Se entiende por acuerdo reparatorio el pacto entre la víctima u ofendido y el imputado que lleva como resultado la solución del conflicto a través de cualquier mecanismo idóneo que tiene el efecto de concluir el procedimiento.
 
-> <small>(ADICIONADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 El pacto no podrá generar obligaciones para personas que no hayan otorgado su consentimiento en el acuerdo y versará sobre bienes respecto de los que tengan disposición legal los intervinientes.
 
@@ -2185,13 +2243,13 @@ El juzgador no aprobará los acuerdos reparatorios cuando tenga fundados motivos
 
 Efectos.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 El Juez aprobará los acuerdos, los cuales se registrarán de un modo fidedigno. Las partes informarán en caso de notorio incumplimiento al Juez.
 
 El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y la prescripción de la acción penal.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 Si el imputado incumple sin justa causa las obligaciones pactadas durante el término que fijen las partes o, en caso de no establecerlo, dentro de seis meses contado a partir del día siguiente de la ratificación del acuerdo, el proceso continuará como si no se hubiera arribado a acuerdo alguno.
 
@@ -2313,7 +2371,11 @@ Finalidad.
 
 La etapa de investigación tiene por objeto el esclarecimiento de los hechos materia de la denuncia o querella, y determinar si hay fundamento para abrir un juicio penal contra una o varias personas, mediante la obtención de la información y la recolección de los elementos que permitan fundar, en su caso, la acusación y garantizar el derecho a la defensa del imputado.
 
-Estará a cargo del Ministerio Público, quien actuará con el auxilio de la policía y cuerpos de seguridad pública del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Estará a cargo del Ministerio Público, quien actuará con el auxilio de la policía y cuerpos de seguridad pública en el Estado.
 
 #### SECCIÓN 2. FORMAS DE INICIO DEL PROCEDIMIENTO
 
@@ -2425,7 +2487,7 @@ Cuando el Ministerio Público tenga conocimiento de la existencia de un hecho qu
 
 En los casos en los que exista la posibilidad de aplicar una solución alterna, el Ministerio Público deberá canalizar el asunto al Centro de Justicia Alternativa.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 El denunciante, querellante, o el imputado, podrán acudir en queja ante Juez de Garantía por inactividad injustificada del Ministerio Público durante la investigación, o cuando éste omita tomar una determinación respecto de la misma, a pesar de que cuenta con los antecedentes necesarios para ello.
 
@@ -2435,7 +2497,11 @@ Archivo temporal.
 
 En tanto no se formule la imputación, el Ministerio Público podrá archivar temporalmente aquellas investigaciones en las que no aparecieren elementos que permitieren desarrollar actividades conducentes al esclarecimiento de los hechos.
 
-En los delitos contra la libertad y seguridad sexuales y de violencia familiar, se deberá verificar la aplicación de los protocolos y disposiciones especializadas emitidos por la Procuraduría General de Justicia del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En los delitos contra la libertad y seguridad sexuales y de violencia familiar, se deberá verificar la aplicación de los protocolos y disposiciones especializadas emitidos por la Fiscalía General del Estado.
 
 > <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
 
@@ -2449,13 +2515,15 @@ Facultad para abstenerse de investigar.
 
 En tanto no se produzca la intervención del Juez en el procedimiento, el Ministerio Público podrá abstenerse de toda investigación, cuando fuere evidente que los hechos relatados en la denuncia o querella no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer, de forma indubitable, que se encuentra extinguida la acción penal contra el imputado.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 226.
 
 No ejercicio de la acción penal.
 
-Cuando antes de formulada la imputación, el Ministerio Público cuente con los antecedentes suficientes que le permitan concluir que en el caso concreto se actualiza alguno de los supuestos previstos en el artículo 288 de este Código decretará, previa autorización fundada y motivada del Titular de la Procuraduría General de Justicia en el Estado o del servidor público a quien delegue esta facultad, el no ejercicio de la acción penal.
+Cuando antes de formulada la imputación, el Ministerio Público cuente con los antecedentes suficientes que le permitan concluir que en el caso concreto se actualiza alguno de los supuestos previstos en el artículo 288 de este Código decretará, previa autorización fundada y motivada del Fiscal General del Estado o del servidor público a quien delegue esta facultad, el no ejercicio de la acción penal.
 
 ###### Artículo 227.
 
@@ -2483,11 +2551,15 @@ A partir de que tengan conocimiento de la existencia de un hecho que revista car
 
 El Ministerio Público, al iniciar la investigación, dará aviso a la Secretaría de Salud del Estado cuando un farmacodependiente se encuentre imputado de cometer un delito, a fin de que dicha autoridad intervenga en los términos de las disposiciones aplicables, sin perjuicio de lo previsto en el artículo 145 de la Ley de Ejecución de Penas y Medidas de Seguridad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 229.
 
 Obligación de suministrar información.
 
-Toda persona o servidor público está obligado a proporcionar oportunamente la información que requiera el Ministerio Público en el ejercicio de sus funciones de investigación de un hecho delictuoso concreto, los que no podrán excusarse de suministrarla, salvo en los casos expresamente previstos en la ley. En caso de ser citada para ser entrevistada por el Ministerio Público o la policía ministerial, tiene obligación de comparecer.
+Toda persona o servidor público está obligado a proporcionar oportunamente la información que requiera el Ministerio Público en el ejercicio de sus funciones de investigación de un hecho delictuoso concreto, los que no podrán excusarse de suministrarla, salvo en los casos expresamente previstos en la ley. En caso de ser citada para ser entrevistada por el Ministerio Público o la policía de investigación, tiene obligación de comparecer.
 
 ###### Artículo 230.
 
@@ -2561,7 +2633,7 @@ Sí podrán ser invocadas como elementos para fundar cualquier resolución previ
 
 #### SECCIÓN 5. MEDIOS DE INVESTIGACIÓN
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 237.
 
@@ -2599,7 +2671,7 @@ III. El motivo del cateo, debiéndose indicar o expresar los indicios de los que
 
 Formalidades para el cateo.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 Una constancia de la autorización del cateo se mostrará a quien habite, posea o custodie el lugar donde se efectúe o, cuando esté ausente, a su encargado y, a falta de éste, a cualquier persona mayor de edad que se halle en el lugar. Cuando no se encuentre a alguien, ello se hará constar en el acta y se hará uso de la fuerza pública para ingresar. Al terminar, se cuidará que los lugares queden cerrados y, de no ser ello posible, inmediatamente se asegurará que otras personas no ingresen en el lugar, hasta lograrlo.
 
@@ -2607,7 +2679,7 @@ Practicada la inspección, en el acta se consignará el resultado, con expresió
 
 La diligencia se practicará procurando afectar lo menos posible la privacidad de las personas.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 En el acta circunstanciada, deberá constar el nombre y la firma del agente del Ministerio Público, de los demás concurrentes, así como de dos testigos propuestos por el ocupante del lugar cateado o, en su ausencia o negativa, por la autoridad que practique la diligencia; el acta no podrá sustituirse por otra forma de registro.
 
@@ -3007,7 +3079,7 @@ Si con posterioridad a la formulación de la imputación el Ministerio Público 
 
 #### SECCIÓN 9. VINCULACIÓN DEL IMPUTADO A PROCESO
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 280.
 
@@ -3037,11 +3109,11 @@ El auto de no vinculación del imputado a proceso no impide que el Ministerio P�
 
 Plazos para resolver sobre la vinculación a proceso.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 El Juez de Garantía, cuestionará al imputado respecto a si renuncia al plazo de setenta y dos horas para que se resuelva sobre su vinculación a proceso, o si solicita la duplicación de dicho plazo.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 En caso de que el imputado renuncie al plazo de setenta y dos horas, el Ministerio Público deberá solicitar y motivar la vinculación del imputado a proceso, exponiendo en la misma audiencia los antecedentes de la investigación con los que considera se acreditan que se ha cometido un hecho que la ley señale como delito y la probabilidad de que el imputado lo cometió o participó en su comisión. El Juez resolverá lo conducente después de escuchar al imputado.
 
@@ -3069,9 +3141,11 @@ Plazo judicial para el cierre de la investigación.
 
 El Juez competente, de oficio o a solicitud de parte, al resolver sobre la vinculación del imputado a proceso, fijará un plazo para el cierre de la investigación, tomando en cuenta la naturaleza de los hechos atribuidos y la complejidad de la misma, sin que pueda ser mayor a dos meses, en caso de que el delito merezca pena máxima que no exceda de dos años de prisión, o de seis meses, si la pena excediere de ese tiempo.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Sin perjuicio del plazo fijado, de conformidad con el párrafo anterior, cuando el Ministerio Público cuente con los elementos suficientes que le permitan sustentar su acusación, de acuerdo con los lineamientos que al efecto expida la Procuraduría, cerrará la investigación y presentará su acusación ante el Juez de Garantía. Para ello, el Ministerio Público dará vista al imputado o a su defensor, por si desean hacer uso de su derecho de solicitar un mayor plazo para la defensa.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Sin perjuicio del plazo fijado, de conformidad con el párrafo anterior, cuando el Ministerio Público cuente con los elementos suficientes que le permitan sustentar su acusación, de acuerdo con los lineamientos que al efecto expida la Fiscalía General del Estado, cerrará la investigación y presentará su acusación ante el Juez de Garantía. Para ello, el Ministerio Público dará vista al imputado o a su defensor, por si desean hacer uso de su derecho de solicitar un mayor plazo para la defensa.
 
 #### SECCIÓN 10. CONCLUSIÓN DE LA ETAPA DE INVESTIGACIÓN
 
@@ -3241,7 +3315,7 @@ I. Se haya rendido en presencia de su defensor;
 
 II. Haya sido video grabada;
 
-> <small>(REFORMADA, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2009)</small>
 
 III. Se haya rendido en forma libre, voluntaria e informada, y que se informó previamente al imputado su derecho a no declarar;
 
@@ -3465,7 +3539,11 @@ El debate se realizará con la presencia ininterrumpida de los miembros del Trib
 
 Si después de su declaración rehúsa permanecer en la audiencia, será custodiado en una sala próxima y representado para todos los efectos por su defensor. Cuando sea necesario para el desarrollo de la audiencia, se le hará comparecer para la realización de actos particulares en los cuales su presencia resulte imprescindible. Si el defensor no comparece al debate o se aleja de la audiencia, se considerará abandonada la defensa y se procederá a su reemplazo inmediato por un defensor público, hasta en tanto el imputado designe un defensor de su elección, conforme las reglas respectivas de este Código.
 
-Si el Ministerio Público no comparece al debate o se aleja de la audiencia sin causa justificada, se procederá a su reemplazo inmediato, según los mecanismos que determine la Procuraduría General de Justicia del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Si el Ministerio Público no comparece al debate o se aleja de la audiencia sin causa justificada, se procederá a su reemplazo inmediato, según los mecanismos que determine la Fiscalía General del Estado.
 
 El Ministerio Público sustituto o el defensor, podrán solicitar al Tribunal que aplace el inicio de la audiencia por un plazo razonable para la adecuada preparación de su intervención en juicio. El Tribunal resolverá considerando la complejidad del caso, las circunstancias del abandono del Ministerio Público y las posibilidades de aplazamiento.
 
@@ -3681,7 +3759,11 @@ Tratándose de testigos que fueren servidores públicos, la dependencia en la qu
 
 Comparecencia obligatoria de testigos.
 
-Si el testigo, debidamente citado, no compareciere sin justa causa a la audiencia de debate de juicio oral, el Juez en el acto acordará su comparecencia ordenando a la policía municipal, estatal o ministerial su localización e inmediata presentación a la sede de la audiencia, sin que sea necesario enviar nueva cita o agotar previamente algún otro medio de apremio. La renuencia a comparecer a la audiencia motivará la imposición de arresto hasta por treinta y seis horas, al cabo de las cuales, si persiste su negativa, se le dará vista al Ministerio Público.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Si el testigo, debidamente citado, no compareciere sin justa causa a la audiencia de debate de juicio oral, el Juez en el acto acordará su comparecencia ordenando a la policía municipal, estatal o de investigación su localización e inmediata presentación a la sede de la audiencia, sin que sea necesario enviar nueva cita o agotar previamente algún otro medio de apremio. La renuencia a comparecer a la audiencia motivará la imposición de arresto hasta por treinta y seis horas, al cabo de las cuales, si persiste su negativa, se le dará vista al Ministerio Público.
 
 Las autoridades están obligadas a auxiliar oportuna y diligentemente al Juez para garantizar la comparecencia obligatoria de los testigos. El Juez podrá emplear contra las autoridades los medios de apremio que establece este Código en caso de incumplimiento o retardo a sus determinaciones.
 
@@ -3703,7 +3785,11 @@ No estarán obligados a concurrir al llamamiento judicial de que tratan los Art�
 
 I. El Presidente de la República; los Secretarios de Estado de la Federación; los Ministros de la Suprema Corte de Justicia de la Nación; el Procurador General de la República;
 
-II. El Gobernador del Estado; el Secretario General de Gobierno: el Procurador General de Justicia del Estado; los diputados al Congreso del Estado; los magistrados del Supremo Tribunal de Justicia y del Tribunal Estatal Electoral; el Consejero Presidente del Instituto Estatal Electoral; el Consejero Presidente del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública; el Presidente de la Comisión Estatal de Derechos Humanos y, los presidentes municipales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II. El Gobernador del Estado; el Secretario General de Gobierno; el Fiscal General del Estado; los diputados al Congreso del Estado; los magistrados del Supremo Tribunal de Justicia y del Tribunal Estatal Electoral; el Consejero Presidente del Instituto Estatal Electoral; el Consejero Presidente del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública; el Presidente de la Comisión Estatal de Derechos Humanos y, los presidentes municipales;
 
 III. Los extranjeros que gozaren en el país de inmunidad diplomática, de conformidad con los tratados vigentes sobre la materia; y
 
@@ -3725,7 +3811,7 @@ Las personas que no puedan concurrir al Tribunal, por estar físicamente impedid
 
 Estos procedimientos especiales deberán llevarse a cabo sin afectar el derecho a la confrontación y a la defensa.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 342.
 
@@ -3821,7 +3907,7 @@ Otros elementos de prueba.
 
 Además de los previstos en este Código, podrán utilizarse otros medios probatorios distintos, siempre que no supriman las garantías y facultades de las personas, ni afecten el sistema institucional. La forma de su incorporación al proceso se adecuará al medio de prueba más análogo a los previstos en este Código.
 
-> <small>(ADICIONADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 Artículo 352 bis.- Comunicaciones Privadas.
 
@@ -4067,7 +4153,7 @@ Redacción de la sentencia.
 
 La sentencia será siempre redactada por uno de los miembros del Tribunal Colegiado, designado por éste, en tanto la disidencia será redactada por su autor. La sentencia señalará el nombre de su redactor y el del que lo sea de la disidencia.
 
-> <small>(REFORMADO, P.O.18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 377.
 
@@ -4077,7 +4163,7 @@ Al pronunciarse sobre la absolución, el Tribunal podrá diferir la redacción d
 
 En caso de que la fecha y hora fijada para la audiencia de lectura de sentencia absolutoria no asista a la sala de audiencia persona alguna se dispensará la lectura de la misma.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA LA DENOMINACION, P.O. 13 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 378.
 
@@ -4091,9 +4177,11 @@ La sentencia condenatoria dispondrá también el decomiso de los instrumentos o 
 
 Cuando la prueba producida no permita establecer con certeza el monto de los daños y perjuicios, o de las indemnizaciones correspondientes, el Tribunal podrá condenar genéricamente a reparar los daños y los perjuicios y ordenar que se liquiden en ejecución de sentencia por vía incidental, siempre que éstos se hayan demostrado, así como su deber de repararlos.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-El Tribunal de Juicio Oral deberá remitir copia autorizada de la sentencia firme al titular de la Dirección de Ejecución de Penas y Medidas de Seguridad y al Juez de Ejecución, que por turno le corresponda, para su debido cumplimiento; y a la Procuraduría General de Justicia en el Estado, para su conocimiento.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El Tribunal de Juicio Oral deberá remitir copia autorizada de la sentencia firme al titular de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales y al Juez de Ejecución, que por turno le corresponda, para su debido cumplimiento; y a la Fiscalía General del Estado, para su conocimiento.
 
 ###### Artículo 379.
 
@@ -5023,7 +5111,7 @@ T R A N S I T O R I O
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O.18 DE FEBRERO DE 2009.
+P.O. 18 DE FEBRERO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5068,3 +5156,41 @@ Los procedimientos penales que se estén substanciando a la entrada en vigor del
 ###### ARTÍCULO CUARTO.
 
 A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
