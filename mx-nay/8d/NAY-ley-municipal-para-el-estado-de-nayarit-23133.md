@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2010-05-22"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -127,7 +127,7 @@ Para su organización administrativa y territorial, los municipios se dividirán
 
 I.- Cabeceras municipales;
 
-II.- Delegaciones municipales, para ciudades y poblaciones mas importantes; y
+II.- Delegaciones municipales, para ciudades y poblaciones más importantes; y
 
 III.- Juzgados auxiliares, para rancherías y pequeñas comunidades.
 
@@ -253,11 +253,11 @@ El Congreso del Estado establecerá los límites de los municipios de la entidad
 
 ###### ARTICULO 26.
 
-Los municipios deberán someter a la aprobación del Congreso del Estado los convenios que en su caso pretendan celebrar para arreglar las diferencias de sus respectivos limites territoriales.
+Los municipios deberán someter a la aprobación del Congreso del Estado los convenios que en su caso pretendan celebrar para arreglar las diferencias de sus respectivos límites territoriales.
 
 ###### ARTICULO 27.
 
-Los convenios aprobados por el Congreso del Estado, en los que se fijen los límites de los municipios y las resoluciones dictadas en los casos de diferencia, serán publicados en el Periódico Oficial, Organo del Gobierno del Estado.
+Los convenios aprobados por el Congreso del Estado, en los que se fijen los límites de los municipios y las resoluciones dictadas en los casos de diferencia, serán publicados en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### ARTICULO 28.
 
@@ -409,7 +409,7 @@ En la entrega-recepción, el Congreso del Estado, designará un representante pa
 
 ###### ARTICULO 45.
 
-El documento a que se refiere el articulo anterior deberá contener, por lo menos:
+El documento a que se refiere el artículo anterior deberá contener, por lo menos:
 
 I.- Los libros de actas de las sesiones del Ayuntamiento saliente y la información sobre el lugar donde se encuentran los libros de las administraciones municipales anteriores;
 
@@ -859,11 +859,11 @@ VI.- Utilizar su autoridad o influencia oficial para hacer que los votos en las 
 
 VII.- Ausentarse del municipio sin cumplir las formalidades señaladas en la presente ley;
 
-VIII.- Utilizar a los empleados adscritos al Ayuntamiento o a los integrantes de los cuerpos de seguridad publica para fines particulares;
+VIII.- Utilizar a los empleados adscritos al Ayuntamiento o a los integrantes de los cuerpos de seguridad pública para fines particulares;
 
 IX.- Residir, durante su gestión, fuera de la cabecera municipal;
 
-X.- Desempeñar o conducirse en agravio a la investidura popular del cargo o asumir conductas que afecten la moral y el orden publico; y
+X.- Desempeñar o conducirse en agravio a la investidura popular del cargo o asumir conductas que afecten la moral y el orden público; y
 
 XI.- Dejar de observar el estricto cumplimiento de las bases, procedimientos, reglas, requisitos y demás elementos que establezcan las leyes y el propio Ayuntamiento para acreditar la economía, eficiencia, imparcialidad y honradez que en las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y en la contratación de obras públicas, aseguren las mejores condiciones para el municipio.
 
@@ -893,7 +893,7 @@ III.- Intervenir en el registro, vigilancia y gestión de los asuntos que corres
 
 IV.- Solicitar y obtener del tesorero municipal, por conducto de la comisión correspondiente, la información relativa a la hacienda pública municipal, al ejercicio del presupuesto, al patrimonio municipal y demás documentación de la gestión municipal, necesaria para el cumplimiento de sus funciones;
 
-V.- Vigilar el ramo de la administración municipal que le sea encomendado por el Ayuntamiento, y solicitar informes a los diversos titulares de la administración municipal. Para el cumplimiento de lo anterior los titulares de la administración están obligados a proporcionar todos los datos e informes que se les pidieren en un termino no mayor de quince días;
+V.- Vigilar el ramo de la administración municipal que le sea encomendado por el Ayuntamiento, y solicitar informes a los diversos titulares de la administración municipal. Para el cumplimiento de lo anterior los titulares de la administración están obligados a proporcionar todos los datos e informes que se les pidieren en un término no mayor de quince días;
 
 VI.- Denunciar en las sesiones del Ayuntamiento las irregularidades en que incurran los miembros del mismo o los servidores públicos municipales en su caso, pudiendo hacerlo del conocimiento del Congreso si no es atendida su denuncia o inconformidad;
 
@@ -947,7 +947,7 @@ VI.- Asistir a las visitas de inspección que se hagan a la Tesorería Municipal
 
 VII.- Asistir como observador a los remates públicos en los que tenga interés el municipio, para que se adjudiquen al mejor postor y se guarden los términos y disposiciones prevenidos por las leyes respectivas;
 
-VIII.- Requerir a los servidores y empleados municipales a que cumplan con la declaración y manifestación de sus bienes patrimoniales conforme a la ley, y coordinarse con las entidades publicas del estado para el control y seguimiento de esta obligación; y
+VIII.- Requerir a los servidores y empleados municipales a que cumplan con la declaración y manifestación de sus bienes patrimoniales conforme a la ley, y coordinarse con las entidades públicas del estado para el control y seguimiento de esta obligación; y
 
 IX.- Las demás que le conceda la Constitución Federal, la particular del estado y las leyes y reglamentos competentes.
 
@@ -971,7 +971,7 @@ V.- Formular y actualizar el inventario general de los bienes muebles e inmueble
 
 VI.- Regularizar y custodiar la propiedad de los bienes municipales;
 
-VII.- Inscribir los bienes municipales en el Registro Publico de la Propiedad;
+VII.- Inscribir los bienes municipales en el Registro Público de la Propiedad;
 
 VIII.- Intervenir en los procedimientos de expropiación que solicite el Ayuntamiento;
 
@@ -1181,7 +1181,7 @@ III.- Estar físicamente impedido o padecer enfermedad que no permita el cumplim
 
 IV.- No residir en el municipio de que se trate.
 
-> <small>(ADICIONADO, P.O.15 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ARTICULO 90 B.- Las inasistencias de los miembros del Ayuntamiento a las sesiones o al cumplimiento de sus funciones serán justificadas en los siguientes supuestos:
 
@@ -1201,7 +1201,7 @@ Los miembros del Ayuntamiento que no asistan a las sesiones o que incumplan sus 
 
 #### SECCIÓN CUARTA. De las reglas aplicables a la suplencia de los integrantes del Ayuntamientos (sic)
 
-> <small>(ADICIONADO, P.O.15 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ARTICULO 90 C.- Sólo habrá lugar a la celebración de elecciones extraordinarias en los términos de la Ley Electoral del Estado, cuando la falta absoluta de alguno o algunos de los miembros del Ayuntamiento ocurra dentro de los primeros dieciocho meses del periodo constitucional, y la vacante no pueda ser cubierta por el suplente respectivo.
 
@@ -1219,11 +1219,11 @@ I.- Se llamará al suplente y si éste no asumiera el encargo o estuviera impedi
 
 II.- Si no fuera procedente realizar elecciones extraordinarias, el Ayuntamiento por mayoría simple de votos propondrá al Congreso o a la Diputación Permanente para su designación, al Regidor que fungirá como Presidente o Síndico Sustituto por el tiempo que restare.
 
-> <small>(ADICIONADO, P.O.15 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ARTICULO 90 E.- En el caso de faltas absolutas de algún Regidor, se llamará a su suplente o al que siga en la lista, y si por cualquier causa el suplente no asumiera el cargo, ni fuera procedente convocar a elecciones, se declarará la vacante.
 
-> <small>(ADICIONADO, P.O.15 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ARTICULO 90 F.- En todos los casos el suplente, o el designado, rendirá la protesta de ley ante la autoridad que otorgó la licencia o conoció de la falta absoluta, a menos que la situación política o social no fueran las propicias o el Ayuntamiento se negara a hacerlo, la rendirá ante el Congreso del Estado o en su caso, ante la Diputación Permanente.
 
@@ -1383,7 +1383,7 @@ V.- Procurar la conciliación entre los quejosos y las autoridades en los casos 
 
 VI.- Orientar a los particulares en la defensa de sus derechos cuando la queja o denuncia presentada ante ella no sea de su competencia;
 
-VII.- Tramitar las inconformidades que mediante los recursos de queja o impugnación promuevan en su contra los quejosos o denunciantes ante la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, previstos por el articulo 105 fracción X del presente ordenamiento legal;
+VII.- Tramitar las inconformidades que mediante los recursos de queja o impugnación promuevan en su contra los quejosos o denunciantes ante la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, previstos por el artículo 105 fracción X del presente ordenamiento legal;
 
 VIII.- Presentar anualmente un informe al Ayuntamiento sobre el ejercicio de sus atribuciones, mismo que hará público por los medios adecuados;
 
@@ -1453,7 +1453,7 @@ Dos o más municipios vecinos podrán convenir en la designación de un cronista
 
 ### CAPÍTULO I. De la integración de la administración municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 108.
 
@@ -2597,6 +2597,18 @@ Por razones de interés público, los jueces están obligados a comunicar, al Ay
 
 Para el desempeño de sus funciones, el Ayuntamiento aprobará las disposiciones administrativas relativas a las adquisiciones, enajenaciones, arrendamientos y contratación de servicios relacionados con bienes muebles e inmuebles del municipio.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Las dependencias y entidades municipales, en el proceso de planeación que realicen de sus adquisiciones, arrendamientos y servicios, deberán:
+
+I. Sujetarse a los objetivos, estrategias y líneas de acción contenidas en el Plan Municipal de Desarrollo y a los programas que se deriven del mismo y que, en su caso, les corresponda ejecutar;
+
+II. Ajustarse a los objetivos y metas de sus correspondientes programas y presupuestos;
+
+III. Dar preferencia a la adquisición de bienes y servicios que impacten en menor grado al medio ambiente, bajo el principio de un consumo sustentable, y
+
+IV. Respetar las demás disposiciones legales que emita el Ayuntamiento.
+
 ###### ARTICULO 194.
 
 Para los efectos del artículo anterior, se establecerá un comité de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, el cual se integrará de conformidad a las disposiciones que emita el Ayuntamiento; en todo caso se garantizará la participación de al menos un Regidor por cada uno de los partidos políticos representados en el Ayuntamiento.
@@ -3492,3 +3504,7 @@ P.O. 22 DE MAYO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+Artículo Único.- El presente decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
