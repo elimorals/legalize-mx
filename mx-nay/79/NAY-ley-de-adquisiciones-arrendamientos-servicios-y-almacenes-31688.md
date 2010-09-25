@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-adquisiciones-arrendamientos-servicios-y-almacenes-31688
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-04"
-last_updated: "2003-12-13"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ALMACENES DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:13 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial de Estado de Nayarit, el miércoles 4 de Junio de 2003.
 
@@ -101,7 +101,7 @@ VII.- La contratación de arrendamiento financiero de bienes muebles.
 
 VIII.- La prestación de servicios profesionales, así como la contratación de consultorías, asesorías, estudios e investigaciones, excepto la contratación de servicios personales bajo el régimen de honorarios.
 
-Artículos 4°.- La interpretación de esta ley para efectos administrativos, y el establecimiento de disposiciones administrativas que sean necesarias para su adecuado cumplimiento corresponde a :
+Artículos 4°.- La interpretación de esta ley para efectos administrativos, y el establecimiento de disposiciones administrativas que sean necesarias para su adecuado cumplimiento corresponde a:
 
 I.- La Comisión de Gobierno, en el Poder Legislativo.
 
@@ -177,7 +177,13 @@ II.- Los planes de desarrollo municipal.
 
 III.- Los objetivos, metas y previsiones de recursos establecidos en los presupuestos de egresos de los entes públicos.
 
-IV.- Los objetivos, estrategias y líneas de acción establecidas por cada ente público.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Los objetivos, estrategias y líneas de acción establecidas por cada ente público, y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Los principios de consumo sustentable, dando preferencia a la adquisición de bienes y servicios que impacten en menor grado al medio ambiente.
 
 Para la planeación de las adquisiciones y arrendamientos de bienes muebles, así como la contratación de servicios de cualquier naturaleza, el área administrativa y la financiera establecerán las normas que deban observarse.
 
@@ -990,3 +996,7 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 P.O. 13 DE DICIEMBRE DE 2003.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+Artículo único.- El presente decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
