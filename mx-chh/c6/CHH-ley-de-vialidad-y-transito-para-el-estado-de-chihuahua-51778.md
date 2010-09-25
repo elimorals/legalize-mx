@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2010-08-25"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -67,9 +67,17 @@ II. Vehículos: Todo aquel objeto capaz de desplazarse por las vías públicas c
 
 III. Peatón: Toda persona que transite por las vías públicas utilizando sus propios medios de locomoción naturales o auxiliares por aparatos o dispositivos para discapacitados.
 
-IV. La Secretaría: la Secretaría de Seguridad Pública.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. La Dirección: La Dirección de Vialidad y Protección Civil.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV. La Fiscalía: La Fiscalía General del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V. La Dirección: La Dirección de Vialidad.
 
 VI. El Municipio: Cualquiera de los sesenta y siete municipios del Estado de Chihuahua que presten el servicio público de Tránsito.
 
@@ -89,9 +97,13 @@ Cuando a juicio del ayuntamiento para prestar el servicio de tránsito por razon
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES DE TRÁNSITO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 6.
 
-El Gobernador del Estado, por conducto del Secretario de Seguridad Pública, vigilará el cumplimiento de las leyes, reglamentos y disposiciones del tránsito de vehículos y peatones en el uso de las vías públicas, garantizando la seguridad de las mismas, de conformidad con las facultades que le confiere expresamente esta Ley y las demás normas jurídicas aplicables.
+El Gobernador del Estado, por conducto de la Fiscalía, vigilará el cumplimiento de las leyes, reglamentos y disposiciones del tránsito de vehículos y peatones en el uso de las vías públicas, garantizando la seguridad de las mismas, de conformidad con las facultades que le confiere expresamente esta Ley y las demás normas jurídicas aplicables.
 
 ###### Artículo 7.
 
@@ -107,15 +119,27 @@ Son autoridades de vialidad y/o tránsito, para los efectos de la presente Ley y
 
 I. El Gobernador del Estado; dentro del ámbito de su competencia, en los términos del convenio de coordinación que celebre con los ayuntamientos;
 
-II. El Secretario de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. El Director de Vialidad y Protección Civil;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II. El Fiscal General del Estado;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III. El Director de la Policía Estatal Única;
 
 IV. Los Presidentes Municipales;
 
 V. Los Delegados de vialidad y/o tránsito y la corporación de tránsito que alude el artículo 15; y
 
-VI. Los oficiales calificadores y demás servidores públicos dependientes de la. Dirección de Vialidad y Protección. Civil o de los ayuntamientos a quienes esta Ley y sus reglamentos o los convenios respectivos les otorguen facultades.
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR, LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY, PERIODICO OFICIAL.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Los oficiales calificadores y demás servidores públicos dependientes de la Dirección de Vialidad o de los ayuntamientos a quienes esta Ley y sus reglamentos o los convenios respectivos les otorguen facultades.
 
 ###### Artículo 10.
 
@@ -143,25 +167,45 @@ I. Dictar las medidas necesarias para el cumplimiento efectivo de la presente Le
 
 II. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y otras normas de carácter general, convenios y acuerdos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 12.
 
-El Secretario de Seguridad Pública se encuentra investido de las siguientes atribuciones dentro de su ámbito de competencia:
+El Fiscal General del Estado se encuentra investido de las siguientes atribuciones dentro de su ámbito de competencia:
 
 I. Ejecutar las medidas dictadas por el Gobernador del Estado en todo lo que se refiere al tránsito de vehículos y de personas, de conformidad a la presente Ley y sus reglamentos;
 
 II. Planear, aprobar, coordinar y evaluar las políticas y programas en materia de tránsito, dentro de las disposiciones legales y previo acuerdo con el Gobernador del Estado;
 
-III. Autorizar el uso de vehículos de paso preferencial o de emergencia cuando éstos cumplen funciones de Seguridad o de Asistencia Social de conformidad a lo que establezca el Reglamento de la Secretaría.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. Disponer de los recursos humanos, económicos y materiales que estén a su alcance, necesarios para el correcto funcionamiento administrativo y operativo de la Dirección de Vialidad y Protección Civil, considerando lo anterior en la elaboración del anteproyecto de presupuesto de Egresos correspondiente;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III. Autorizar el uso de vehículos de paso preferencial o de emergencia cuando éstos cumplen funciones de Seguridad o de Asistencia Social de conformidad a lo que establezca el Reglamento de la Fiscalía;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Disponer de los recursos humanos, económicos y materiales que estén a su alcance, necesarios para el correcto funcionamiento administrativo y operativo de la Dirección de Vialidad, considerando lo anterior en la elaboración del anteproyecto de presupuesto de Egresos correspondiente;
 
 V. Proponer al titular del Poder Ejecutivo del Estado la modificación, reformas o adiciones que requiera la presente Ley o sus reglamentos;
 
-VI. Proponer al Gobernador del Estado a la persona que habrá de fungir como Director de Vialidad y Protección Civil;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Proponer al Gobernador del Estado a la persona que habrá de fungir como Director de Vialidad;
 
 VII. Promover, en coordinación con los municipios, la instalación de oficinas y módulos de orientación y recepción de quejas, a efecto de facilitar a la ciudadanía la presentación de sugerencias, quejas y denuncias, a fin de propiciar el mejoramiento de las funciones;
 
-VIII. Coadyuvar por conducto de la Dirección de Vialidad y Protección Civil en la elaboración de los planes y programas que establezca cada municipio en materia de vialidad, previa solicitud del mismo y, en su caso, sugerir las recomendaciones pertinentes para la adecuada prestación de la función pública de tránsito;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. Coadyuvar por conducto de la Dirección de Vialidad en la elaboración de los planes y programas que establezca cada municipio en materia de vialidad, previa solicitud del mismo y, en su caso, sugerir las recomendaciones pertinentes para la adecuada prestación de la función pública de tránsito;
 
 IX. Resolver las controversias administrativas que se susciten sobre la interpretación o cumplimiento de esta Ley;
 
@@ -175,7 +219,11 @@ XI. Celebrar convenios de colaboración con las instituciones autorizadas por la
 
 XII. Las demás que establezcan los ordenamientos legales correspondientes.
 
-Estas facultades podrá ejercerlas directamente o delegarlas parcial o totalmente a la Dirección de Vialidad y Protección Civil.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Estas facultades podrá ejercerlas directamente o delegarlas parcial o totalmente a la Dirección de Vialidad.
 
 ###### Artículo 13.
 
@@ -219,9 +267,13 @@ XVI. Las demás que expresamente le confiera esta Ley y sus reglamentos.
 
 Estas facultades podrán ejercerlas directamente o delegarlas parcial o totalmente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 14.
 
-Las facultades del Director de Vialidad y Protección Civil en materia de tránsito, serán las que se señalan en el artículo que antecede, dentro del ámbito de su competencia.
+Las facultades del Director de Vialidad en materia de tránsito, serán las que se señalan en el artículo que antecede, dentro del ámbito de su competencia.
 
 ###### Artículo 15.
 
@@ -331,9 +383,13 @@ Son atribuciones de la tesorería municipal, del ayuntamiento que corresponda:
 
 I. Recaudar las contribuciones de orden local que se establezcan en la presente Ley, en sus reglamentos o en cualquier otra norma general aplicable que deban ser cubiertas en relación con el tránsito de vehículos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 23.
 
-Podrá conformarse en cada municipio un consejo consultivo de tránsito y/o vialidad, integrado por representantes de los sectores empresarial, comercial, industrial, educativo, social y sindical a convocatoria del Presidente Municipal o del Director de Vialidad y Protección Civil, según corresponda a su ámbito de competencia, a través de las personas que los mismos designen.
+Podrá conformarse en cada municipio un consejo consultivo de tránsito y/o vialidad, integrado por representantes de los sectores empresarial, comercial, industrial, educativo, social y sindical a convocatoria del Presidente Municipal o del Director de Vialidad, según corresponda a su ámbito de competencia, a través de las personas que los mismos designen.
 
 ###### Artículo 24.
 
@@ -351,9 +407,13 @@ III. No haber sido condenado por delito que amerite pena corporal;
 
 IV. No ser funcionario o empleado público, salvo las representaciones sindicales de maestros y trabajadores al servicio del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 26.
 
-El Consejo Consultivo de Vialidad y/o Tránsito sesionará en forma ordinaria una vez al mes y extraordinariamente cuando lo cite el presidente municipal o el Director de Vialidad y Protección Civil, el del propio consejo o la tercera parte de sus miembros. Habrá quórum con más de la mitad de sus miembros y los acuerdos se tomarán por mayoría de los presentes.
+El Consejo Consultivo de Vialidad y/o Tránsito sesionará en forma ordinaria una vez al mes y extraordinariamente cuando lo cite el presidente municipal o el Director de Vialidad, el del propio consejo o la tercera parte de sus miembros. Habrá quórum con más de la mitad de sus miembros y los acuerdos se tomarán por mayoría de los presentes.
 
 El secretario levantará el acta que corresponda a cada sesión.
 
@@ -451,7 +511,7 @@ I. Contar con el permiso de importación o internación temporal otorgado por la
 
 Sin perjuicio de lo dispuesto en las demás disposiciones contenidas en esta Ley y en sus reglamentos, los vehículos que transiten por las vías públicas por lo menos deberán poseer en correcto funcionamiento los siguientes sistemas, dispositivos, equipo y accesorios de seguridad:
 
-l. Dos faros frontales que proyecten luz blanca, o uno tratándose de motocicletas;
+I. Dos faros frontales que proyecten luz blanca, o uno tratándose de motocicletas;
 
 II.- Dos luces traseras cubiertas con micas de color rojo, o una tratándose de motocicletas, para efecto de ser visualizadas durante la noche;
 
@@ -463,7 +523,7 @@ V. Cinturones de seguridad para el conductor y los pasajeros;
 
 VI. Claxon;
 
-Vll. En el caso de transportar niños menores de tres años, deberá contar con silla especial en el asiento posterior; y,
+VII. En el caso de transportar niños menores de tres años, deberá contar con silla especial en el asiento posterior; y,
 
 VIII. Los demás que ordenen la presente Ley y sus reglamentos.
 
@@ -503,13 +563,15 @@ Tratándose de vehículos de barrido mecanizado de limpieza, deberá efectuar su
 
 ### CAPÍTULO TERCERO. DE LAS PLACAS DE LOS VEHICULOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE AGOSTO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 42.
 
-Ningún vehículo podrá desplazarse por las vías públicas sin llevar colocadas las placas correspondientes al tipo de uso o servicio que se le otorgue o, en su caso, permiso provisional otorgado por la Secretaría, en tanto concluyan los trámites necesarios para su obtención, con las excepciones que marca esta Ley.
+Ningún vehículo podrá desplazarse por las vías públicas sin llevar colocadas las placas correspondientes al tipo de uso o servicio que se le otorgue o, en su caso, permiso provisional otorgado por la Fiscalía, en tanto concluyan los trámites necesarios para su obtención.
 
-Los ayuntamientos podrán celebrar convenios con la Secretaría, para la expedición de permisos provisionales, debiendo remitir a la misma una relación mensual de las autorizaciones que hayan otorgado.
+Los ayuntamientos podrán celebrar convenios con la Fiscalía, para la expedición de permisos provisionales, debiendo remitir a la misma una relación mensual de las autorizaciones que hayan otorgado.
 
 ###### Artículo 43.
 
@@ -631,6 +693,10 @@ Los conductores de vehículos de paso preferencial o emergencia quedarán exento
 
 ### CAPÍTULO TERCERO. DE LA SUSPENSIÓN Y CANCELACIÓN DE LICENCIAS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 52.
 
 Para conducir un vehículo el interesado deberá obtener la licencia otorgada por la autoridad competente para tal efecto.
@@ -697,7 +763,7 @@ Las licencias tendrán una vigencia de tres y seis años a solicitud del interes
 
 ###### Artículo 55.
 
-A las personas mayores de dieciseis años y menores de dieciocho se les podrá expedir licencia de conducir únicamente de las del servicio particular en las categorías de motociclista y de automovilista, previo consentimiento por escrito, otorgado por las personas que ejerzan la patria potestad o, en su caso, por el tutor del menor, quienes asumirán la responsabilidad civil, además del cumplimiento de los requisitos que para tal efecto se establecen por la ley y el reglamento. Esta licencia tendrá vigencia de un año.
+A las personas mayores de dieciséis años y menores de dieciocho se les podrá expedir licencia de conducir únicamente de las del servicio particular en las categorías de motociclista y de automovilista, previo consentimiento por escrito, otorgado por las personas que ejerzan la patria potestad o, en su caso, por el tutor del menor, quienes asumirán la responsabilidad civil, además del cumplimiento de los requisitos que para tal efecto se establecen por la ley y el reglamento. Esta licencia tendrá vigencia de un año.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2008)</small>
 
@@ -723,7 +789,7 @@ Las personas que tengan licencia para conducir expedida por autoridades de otras
 
 ###### Artículo 57.
 
-La Dirección de Vialidad y Protección Civil está facultada para suspender o cancelar las licencias de conducir, mediante el procedimiento y por las causas que se señalen en esta Ley.
+La Dirección de Vialidad está facultada para suspender o cancelar las licencias de conducir, mediante el procedimiento y por las causas que se señalen en esta Ley.
 
 ###### Artículo 58.
 
@@ -851,7 +917,7 @@ Está prohibida la reparación de vehículos en las vías públicas, salvo situa
 
 Los conductores que por causa ajena a su voluntad detengan sus vehículos en la superficie de rodamiento de una carretera local, o alguna vía de circulación continua, procurarán ocupar el mínimo de superficie y dejarán una distancia de visibilidad suficiente en ambos sentidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.14 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 74.
 
@@ -859,11 +925,11 @@ Está prohibido entorpecer la circulación de tropas, manifestaciones públicas,
 
 En todo caso las tropas, manifestaciones públicas, desfiles y cortejos funerarios deberán contar con la previa autorización de la delegación de tránsito y/o vialidad que corresponda.
 
-> <small>(ADICIONADO, P.O.14 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2009)</small>
 
 Los conductores no deberán seguir a los vehículos de emergencia ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de dichos vehículos.
 
-> <small>(ADICIONADO, P.O.14 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2009)</small>
 
 Los conductores de vehículos, sin excepción, al escuchar el sonido de la sirena, o ver las luces destellantes de los vehículos de paso preferencial, deberán tomar el carril derecho, en la medida que las circunstancias lo permitan, y realizar con precaución las maniobras necesarias para agilizar el paso de los vehículos de emergencia.
 
@@ -1159,7 +1225,7 @@ V. La información de si se retuvo algún documento, y en su caso indicar cuál.
 
 ###### Artículo 100.
 
-En caso de la infracción, el oficial de transito que tomó el conocimiento de ella, solicitará y, en su caso, retendrá alguno de los documentos, en el orden siguiente:
+En caso de la infracción, el oficial de tránsito que tomó el conocimiento de ella, solicitará y, en su caso, retendrá alguno de los documentos, en el orden siguiente:
 
 a) La licencia de conducir;
 
@@ -1205,6 +1271,10 @@ Invariablemente, el oficial de vialidad y/o tránsito que realice el acto de mol
 
 ### CAPÍTULO TERCERO. DE LOS RECURSOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 102.
 
 Las resoluciones o sanciones que dicten las autoridades en la aplicación de esta Ley o sus reglamentos, deberán ser notificadas en forma personal al infractor aplicándose, en su caso, de manera supletoria, las disposiciones contenidas en el Código de Procedimientos Civiles para el Estado.
@@ -1225,7 +1295,7 @@ IV. Para fijar la duración de los términos, los meses se regularán por el nú
 
 ###### Artículo 104.
 
-Contra las resoluciones de las autoridades señaladas en las fracciones III, V y VI del artículo 9 de la presente Ley, procederá el recurso de revisión, el cual deberá interponerse dentro del término de cinco días hábiles en la Dirección de Servicios de Asesoría Jurídica de la Secretaría de Seguridad Pública Estatal, quien substanciará el procedimiento correspondiente, debiendo remitirlo para resolución al Secretario de Seguridad Pública.
+Contra las resoluciones de las autoridades señaladas en las fracciones III, V y VI del artículo 9 de la presente Ley, procederá el recurso de revisión, el cual deberá interponerse dentro del término de cinco días hábiles en la Dirección de Servicios de Asesoría Jurídica de la Fiscalía, quien substanciará el procedimiento correspondiente, debiendo remitirlo para resolución al Fiscal General del Estado.
 
 ###### Artículo 105.
 
@@ -1245,7 +1315,11 @@ La suspensión podrá ser solicitada en cualquier tiempo ante la autoridad ejecu
 
 La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de cinco días para el otorgamiento de la garantía. Constituida ésta se suspenderá de plano la ejecución, hasta que se resuelva en definitiva el recurso.
 
-Contra las resoluciones del Secretario que resulten de un recurso, no cabrá otro posterior.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Contra las resoluciones del Fiscal General del Estado que resulten de un recurso, no cabrá otro posterior.
 
 ###### Artículo 106.
 
@@ -1253,13 +1327,25 @@ La tramitación del recurso se sujetará al procedimiento siguiente:
 
 I. Se interpondrá por sí o por representante legalmente investido y por escrito expresando: El nombre del recurrente, domicilio para ser notificado en la ciudad de Chihuahua; señalamiento del acto impugnado; los agravios que el mismo le cause y el ofrecimiento de las pruebas que pretenda reunir.
 
-II. Interpuesto el recurso, la Secretaría recabará de oficio los informes y constancias necesarias para determinar la existencia del acto impugnado, las razones que lo justifiquen y la fecha de su notificación; en vista de lo anterior, acordará si es de admitirse o desecharse el recurso.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. El Secretario proveerá la recepción y desahogo de las pruebas ofrecidas, dentro del término de quince días hábiles, desechando aquellas en las que se considere que el interesado tuvo oportunidad razonable de rendirlas ante la autoridad que emitió la resolución, así como la confesional de la propia autoridad emisora del acto.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II. Interpuesto el recurso, la Fiscalía recabará de oficio los informes y constancias necesarias para determinar la existencia del acto impugnado, las razones que lo justifiquen y la fecha de su notificación; en vista de lo anterior, acordará si es de admitirse o desecharse el recurso.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III. El Fiscal General del Estado proveerá la recepción y desahogo de las pruebas ofrecidas, dentro del término de quince días hábiles, desechando aquellas en las que se considere que el interesado tuvo oportunidad razonable de rendirlas ante la autoridad que emitió la resolución, así como la confesional de la propia autoridad emisora del acto.
 
 IV. Desahogadas las pruebas, se abrirá un período de alegatos por tres días.
 
-V. Formulados lo alegatos o transcurrido el término que para el efecto se concedió, el Secretario dictará su resolución.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V. Formulados los alegatos o transcurrido el término que para el efecto se concedió, el Fiscal General del Estado dictará su resolución.
 
 ###### Artículo 107.
 
@@ -1377,7 +1463,7 @@ El presente Decreto entrará en vigor a los seis meses de su publicación en el 
 
 La Dirección de Vialidad y Protección Civil tendrá un término de 60 días a partir de la publicación del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley de Vialidad y Tránsito para el Estado de Chihuahua.
 
-P.O.14 DE NOVIEMBRE DE 2009.
+P.O. 14 DE NOVIEMBRE DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -1408,3 +1494,41 @@ P.O. 25 DE AGOSTO DE 2010.
 DECRETO NUMERO 1025/10 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 55 DE LA LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la Ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
