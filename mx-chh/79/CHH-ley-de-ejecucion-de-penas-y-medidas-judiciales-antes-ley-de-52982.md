@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2010-08-14"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES -ANTES LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA-
 
-LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA
+LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -45,19 +45,23 @@ DECRETA
 
 Se expide la Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Chihuahua, para quedar redactada de la siguiente manera:
 
-LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE CHIHUAHUA
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO. NATURALEZA Y OBJETO DE LA LEY
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 1.
 
 Disposiciones de la ley.
 
-Las disposiciones contenidas en esta Ley son de orden público y de interés social y su aplicación corresponde, en el ámbito de sus respectivas competencias, a los Poderes Judicial, Ejecutivo del Estado y autoridades municipales.
+Las disposiciones contenidas en esta Ley son de orden público y de interés social y su aplicación corresponde, en el ámbito de sus respectivas competencias, a los Poderes Judicial y Ejecutivo del Estado y a las autoridades municipales.
 
 ###### Artículo 2.
 
@@ -67,7 +71,11 @@ Este ordenamiento tiene por objeto:
 
 I.- Establecer las bases para la coordinación entre autoridades judiciales, administrativas y entidades de derecho privado, en materia de ejecución y vigilancia de las medidas cautelares decretadas y aquellas condiciones por cumplir que deriven de la celebración de la SUSPENSIÓN del proceso a prueba en los procedimientos penales;
 
-II.- Establecer las bases para la coordinación entre autoridades judiciales, administrativas y entidades de derecho privado, en materia de ejecución y vigilancia de las penas y medidas de seguridad impuestas mediante sentencia que haya causado ejecutoria;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Establecer las bases para la coordinación entre autoridades judiciales, administrativas y entidades de derecho privado, en materia de ejecución y vigilancia de las penas y medidas de seguridad impuestas por la autoridad judicial;
 
 III.- La determinación de los medios de prevención y de reinserción social que, en lo conducente, resulten aplicables a la persona sujeta a las penas de prisión previstas en el Código Penal del Estado y otras leyes;
 
@@ -91,17 +99,29 @@ Glosario.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I.- Ley.- La Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Chihuahua.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Ley.- La Ley de Ejecución de Penas y Medidas Judiciales.
 
 II.- Código Penal.- El Código Penal del Estado de Chihuahua del 2006.
 
 III.- Código de Procedimientos.- El Código de Procedimientos Penales del Estado de Chihuahua del 2006.
 
-IV.- Dirección.- La Dirección de Ejecución de Penas y Medidas de Seguridad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Fiscalía.- La Fiscalía Especializada de Ejecución de Penas y Medidas Judiciales.
 
 V.- Sistema.- El Sistema Estatal Penitenciario.
 
-VI.- Establecimientos penitenciarios.- Los Centros de Reinserción Social dependientes de la Secretaría de Seguridad Pública del Estado de Chihuahua, por conducto de la Dirección.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VI.- Establecimientos penitenciarios.- Los Centros de Reinserción Social dependientes de la Fiscalía General del Estado de Chihuahua, por conducto de la Fiscalía.
 
 VII.- Medidas judiciales.- Las medidas cautelares; las condiciones por cumplir durante la suspensión del proceso a prueba, y las medidas de seguridad, todas ellas impuestas por la autoridad judicial.
 
@@ -113,7 +133,11 @@ IX.- Estudios de personalidad.- Los estudios practicados por el Consejo Técnico
 
 Derechos.
 
-El imputado, acusado o condenado podrá ejercer, durante la ejecución de las medidas judiciales o penas impuestas, los derechos y las facultades que las leyes penales, penitenciarias y los reglamentos le otorgan, y planteará personalmente, por medio de su defensor o de cualquier persona en quien él delegue, ante el tribunal que corresponda, las observaciones que, con fundamento en aquellas reglas, estime convenientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El imputado, acusado o condenado podrá ejercer, durante la ejecución de las medidas judiciales o penas impuestas, los derechos y las facultades que las leyes penales, penitenciarias y los reglamentos le otorgan, y planteará personalmente, por medio de su defensor o de cualquier persona en quien él delegue, ante el tribunal que corresponda, las observaciones que estime convenientes.
 
 Los derechos y beneficios que esta Ley prevé para el sentenciado le serán informados al interesado por la autoridad penitenciaria desde el momento en que se empiece a ejecutar la sentencia.
 
@@ -211,27 +235,49 @@ Audiencia ante el Juez de Ejecución de Penas.
 
 La autoridad ejecutora para llevar a cabo la audiencia a que se refiere la fracción X del artículo 12, se sujetará a los principios que rigen la audiencia de debate de juicio oral y a las siguientes reglas:
 
-Notificará previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del Agente del Ministerio Público, el o los funcionarios de la Dirección de Ejecución de Penas y Medidas de Seguridad que sean designados para tal efecto, el o la sentenciada y su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo y quede constancia de ello.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Notificará previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del Agente del Ministerio Público, el o los funcionarios de la Fiscalía que sean designados para tal efecto, el o la sentenciada y su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo y quede constancia de ello.
 
 Si se requiere producción de prueba con el fin de sustentar la revisión, sustitución, modificación, revocación o cese de la pena o medida de seguridad impuesta, la parte oferente deberá anunciarla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y esté en aptitud de ofrecer prueba de su parte.
 
 La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de debate de juicio oral.
 
-La autoridad ejecutora tendrá las facultades de dirección de debate y de disciplina en la audiencia, previstas en los artículos 328 y 329, ambos del Código Adjetivo Penal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-La resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 371 del Código Procesal Penal.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-El Juez de Ejecución Penal valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de debate de juicio oral.
+La autoridad ejecutora tendrá las facultades de dirección de debate y de disciplina en la audiencia, previstas en los artículos 328 y 329, ambos del Código de Procedimientos.
 
-De la resolución pronunciada en la audiencia a que se refieren los incisos anteriores, deberá entregarse copia certificada a la Dirección de Ejecución Penal y a la Procuraduría General de Justicia del Estado, para su conocimiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La (sic) resoluciones deberán emitirse inmediatamente después de concluido el debate. Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 371 del Código de Procedimientos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El Juez de Ejecución de Penas valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de debate de juicio oral.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+De la resolución pronunciada en la audiencia a que se refieren los incisos anteriores, deberá entregarse copia certificada a la Fiscalía para su conocimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12 Ter.
 
 Apertura de la audiencia.
 
-El día y hora fijados para la celebración de la audiencia, la autoridad ejecutora se constituirá en la sala de audiencias con la asistencia de los intervinientes. Verificará las condiciones para que se rinda en su caso la prueba ofrecida. La declarará iniciada y a continuación identificará a los intervinientes; dará una breve explicación de los motivos de la audiencia y una lectura resumida del auto en el que acordó la celebración de la audiencia. Acto seguido, procederá a dar el uso de la palabra a los intervinientes de la siguiente manera: En primer lugar al oferente de la petición o solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado; luego al Agente del Ministerio Público, al funcionario de la Dirección de Ejecución de Penas y Medidas de Seguridad y si está presente en la audiencia, a la víctima u ofendido. Al arbitrio del Juez de Ejecución Penal quedará la concesión del derecho de réplica y dúplica, cuando el debate así lo requiera. A continuación, declarará cerrado el debate y dictará la resolución procedente.
+El día y hora fijados para la celebración de la audiencia, la autoridad ejecutora se constituirá en la sala de audiencias con la asistencia de los intervinientes. Verificará las condiciones para que se rinda en su caso la prueba ofrecida. La declarará iniciada y a continuación identificará a los intervinientes; dará una breve explicación de los motivos de la audiencia y una lectura resumida del auto en el que acordó la celebración de la audiencia. Acto seguido, procederá a dar el uso de la palabra a los intervinientes de la siguiente manera: En primer lugar al oferente de la petición o solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado; luego al Agente del Ministerio Público, y si está presente en la audiencia, a la víctima u ofendido. Al arbitrio del Juez de Ejecución de Penas quedará la concesión del derecho de réplica y dúplica, cuando el debate así lo requiera. A continuación, declarará cerrado el debate y dictará la resolución procedente.
 
 ###### Artículo 13.
 
@@ -261,13 +307,25 @@ Los magistrados que integran salas penales son competentes, en materia de ejecuc
 
 Las resoluciones que deriven de este medio de impugnación, que tengan como consecuencia la anulación de sentencia por absolución del condenado o la disminución de la pena impuesta, serán comunicadas por la propia Sala a la autoridad administrativa correspondiente para su ejecución inmediata. Dicha resolución también se comunicará al Juez de Ejecución de Penas, al defensor del condenado y al Ministerio Público.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPÍTULO IV. DE LA FISCALÍA DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO EN SU RUBRO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 16.
 
-Facultades de la Dirección.
+Facultades de la Fiscalía.
 
-La Dirección, dependiente de la Secretaria de Seguridad Pública, será el órgano del Poder Ejecutivo al que corresponderá:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La Fiscalía, dependiente de la Fiscalía General del Estado, será el órgano del Poder Ejecutivo al que corresponderá:
 
 I.- En materia de medidas judiciales dictadas durante el proceso.
 
@@ -283,7 +341,11 @@ b) Vigilar y coordinar la ejecución de las penas y medidas de seguridad dispues
 
 III.- Dentro del sistema.
 
-a) Dirigir y ordenar la prevención social de la delincuencia en el Estado, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+a) Dirigir y ordenar la prevención social de los delincuentes en el Estado, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
 b) Organizar, supervisar y administrar los establecimientos penitenciarios en el Estado; expedir la normatividad y demás lineamientos de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento;
 
@@ -315,7 +377,11 @@ II.- Durante la fase de cumplimiento de sentencia firme, de las penas de:
 
 a) Sanción pecuniaria.
 
-b) Intervención a la administración de personas morales privadas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+b) Intervención en la administración de personas morales privadas.
 
 ###### Artículo 18.
 
@@ -339,7 +405,11 @@ e) Abstención de viajar al extranjero.
 
 Cuerpos de seguridad pública en el Estado.
 
-Corresponde a la Secretaría de Seguridad Pública, por conducto de las Direcciones de Operación Preventiva o de Vialidad y Protección Civil, así como a los demás cuerpos de seguridad pública en el Estado, el auxilio en la ejecución:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Corresponde a la Fiscalía General del Estado, por conducto de la Policía Estatal Única, así como a los demás cuerpos de seguridad pública en el Estado, el auxilio en la ejecución:
 
 I.- Durante el procedimiento, de las medidas cautelares o condiciones de:
 
@@ -439,11 +509,15 @@ Corresponde a la Secretaría de Educación y Cultura, durante el procedimiento, 
 
 ### CAPÍTULO VI. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 22.
 
 Coordinación interinstitucional.
 
-En el cumplimiento de las penas o medidas judiciales dictadas durante el procedimiento o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el Juez de Garantía, el Tribunal de Juicio Oral, o el Juez de Ejecución de Penas, en su caso, remitirán sus proveídos a la Dirección, quien de conformidad a la naturaleza de aquellas, las ejecutará por conducto de la Subdirección de Prevención Social, o bien, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o instituciones privadas, por conducto de la Subdirección de Medidas Judiciales, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
+En el cumplimiento de las penas o medidas judiciales dictadas por la autoridad competente, remitirá sus proveídos a la Fiscalía, quien las ejecutará por conducto de sus órganos respectivos, dando cuenta oportuna a la autoridad judicial sobre su cumplimiento.
 
 ## TÍTULO TERCERO. EJECUCIÓN DE MEDIDAS JUDICIALES DURANTE EL PROCEDIMIENTO PENAL
 
@@ -489,7 +563,7 @@ El valor de los bienes deberá corresponder, cuando menos, a dos tantos más del
 
 Regla general para la garantía económica.
 
-Al formalizarse la garantía económica se hará saber a quien funja como garante que queda sujeto al procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado y que no operan en su favor los beneficios de orden, división y excusión. También se le informará del contenido de los artículos 178 y 180 del Código de Procedimientos Penales.
+Al formalizarse la garantía económica se hará saber a quién funja como garante que queda sujeto al procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado y que no operan en su favor los beneficios de orden, división y excusión. También se le informará del contenido de los artículos 178 y 180 del Código de Procedimientos Penales.
 
 #### SECCIÓN SEGUNDA. PROHIBICIÓN DE SALIR DEL PAIS, DE LA LOCALIDAD EN LA CUAL RESIDE O DEL ÁMBITO TERRITORIAL
 
@@ -501,15 +575,19 @@ Cuando se determine la medida cautelar de prohibición de salir del país, se re
 
 El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 30.
 
 Prohibición de salir de la localidad o del ámbito territorial.
 
-Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído a la Secretaría de Seguridad Pública y prevendrá al imputado para que se presente ante dicha autoridad, con la periodicidad que el propio juez establezca al fijar la medida.
+Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído a la Fiscalía y prevendrá al imputado para que se presente ante dicha autoridad, con la periodicidad que el propio juez establezca al fijar la medida.
 
-Durante la ejecución de esta medida, el imputado deberá comunicar a la Secretaría su cambio de domicilio y cualquier otra circunstancia que permita su localización.
+Durante la ejecución de esta medida, el imputado deberá comunicar a la Fiscalía su cambio de domicilio y cualquier otra circunstancia que permita su localización.
 
-En caso de incumplimiento, la Secretaría dará aviso oportuno para los efectos procesales a que haya lugar.
+En caso de incumplimiento, la Fiscalía dará aviso oportuno para los efectos procesales a que haya lugar.
 
 #### SECCIÓN TERCERA. OBLIGACIÓN DE SOMETERSE AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA
 
@@ -533,13 +611,25 @@ La presentación a que se refiere el párrafo anterior se hará sin perjuicio de
 
 Presentación ante otra autoridad.
 
-Si corresponde aplicar la medida cautelar de presentación periódica ante otra autoridad, el sometido a la medida acudirá ante la Dirección, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Si corresponde aplicar la medida cautelar de presentación periódica ante otra autoridad, el sometido a la medida acudirá ante la Fiscalía, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
 
 La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
 
-Al dictarse la medida, el juez dará aviso inmediato a la mencionada Dirección, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde la Dirección no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-En cualquier caso, la Dirección informará oportunamente al Juez de Garantía sobre el cumplimiento de la medida.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Al dictarse la medida, el juez dará aviso inmediato a la mencionada Fiscalía, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde la Fiscalía no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En cualquier caso, la Fiscalía informará oportunamente al Juez de Garantía sobre el cumplimiento de la medida.
 
 #### SECCIÓN QUINTA. LOCALIZADORES ELECTRÓNICOS
 
@@ -547,7 +637,11 @@ En cualquier caso, la Dirección informará oportunamente al Juez de Garantía s
 
 Sistema de monitoreo electrónico.
 
-Al dictarse la medida cautelar de fijación de localizadores electrónicos al imputado, la resolución del Juez de Garantía se comunicará directamente a la Dirección, a efecto de que dicha autoridad la ejecute.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Al dictarse la medida cautelar de fijación de localizadores electrónicos al imputado, la resolución del Juez de Garantía se comunicará directamente a la Fiscalía, a efecto de que dicha autoridad la ejecute.
 
 La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia.
 
@@ -559,9 +653,11 @@ La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre 
 
 Arraigo sin vigilancia con modalidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-Cuando se decrete el arraigo sin vigilancia, se le impondrán las modalidades que se estimen convenientes; el imputado informará a los Tribunales el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona. Previo a su resolución, los Tribunales pedirán el auxilio de la Secretaría de Seguridad Pública o de otros cuerpos de seguridad pública en el Estado o del municipio de que se trate, a efecto de verificar la existencia del lugar y la viabilidad para su arraigo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando se decrete el arraigo sin vigilancia, se le impondrán las modalidades que se estimen convenientes; el imputado informará a los Tribunales el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona. Previo a su resolución, los Tribunales pedirán el auxilio de la Fiscalía o de otros cuerpos de seguridad pública en el Estado o del municipio de que se trate, a efecto de verificar la existencia del lugar y la viabilidad para su arraigo.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -575,7 +671,11 @@ Arraigo con modalidades.
 
 Si se decreta la medida cautelar de arraigo con modalidades, además de cumplir con lo dispuesto en el artículo anterior, el Juez de Garantía determinará en su resolución las modalidades que acompañen al cumplimiento de dicha medida, las cuales no podrán desvirtuar la naturaleza de la misma.
 
-Si la modalidad se trata de vigilancia de la autoridad, se comunicará el proveído a la Secretaría de Seguridad Pública, o a otros cuerpos de seguridad pública en el Estado, en su caso, en donde se determine la vigilancia permanente o intermitente del imputado en el domicilio señalado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Si la modalidad se trata de vigilancia de la autoridad, se comunicará el proveído a la Fiscalía, o a otros cuerpos de seguridad pública en el Estado, en su caso, en donde se determine la vigilancia permanente o intermitente del imputado en el domicilio señalado.
 
 #### SECCIÓN SÉPTIMA. PROHIBICIÓN DE ACUDIR A DETERMINADAS REUNIONES O DE VISITAR CIERTOS LUGARES
 
@@ -583,7 +683,11 @@ Si la modalidad se trata de vigilancia de la autoridad, se comunicará el prove�
 
 Ejecución de la medida.
 
-Al determinarse la prohibición de acudir a determinadas reuniones o de visitar ciertos lugares, se comunicará la resolución a la Secretaría de Seguridad Pública o a otros cuerpos de seguridad pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, en la que indicará específicamente las restricciones impuestas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Al determinarse la prohibición de acudir a determinadas reuniones o de visitar ciertos lugares, se comunicará la resolución a la Fiscalía o a otros cuerpos de seguridad pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, en la que indicará específicamente las restricciones impuestas.
 
 La autoridad ejecutora informará sobre el cumplimiento de la medida con la periodicidad determinada por la autoridad judicial.
 
@@ -597,11 +701,15 @@ Al imponerse la medida de prohibición de convivencia o comunicación con person
 
 #### SECCIÓN NOVENA. SEPARACIÓN DEL DOMICILIO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 39.
 
 Ejecución de la medida.
 
-Si se decreta la medida cautelar de separación del domicilio del imputado, se comunicará el proveído a la Secretaría de Seguridad Pública o a otros cuerpos de seguridad publica en el Estado, para su efectivo cumplimiento, en los términos del artículo 179 del Código de Procedimientos.
+Si se decreta la medida cautelar de separación del domicilio del imputado, se comunicará el proveído a la Fiscalía o a otros cuerpos de seguridad publica en el Estado, para su efectivo cumplimiento, en los términos del artículo 179 del Código de Procedimientos.
 
 #### SECCIÓN DÉCIMA. SUSPENSIÓN DE DERECHOS
 
@@ -625,25 +733,37 @@ En todos los casos, se remitirá junto con el proveído los datos necesarios par
 
 #### SECCIÓN DÉCIMA PRIMERA. INTERNAMIENTO
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 41.
 
-Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Garantía podrá decretar el internamiento del imputado en centro de salud, centro de atención a adictos u hospitales psiquiátricos, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Fomento Social, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo.
+Ejecución de la medida
+
+Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Garantía podrá decretar el internamiento del imputado en centro de salud, centro de atención a adictos u hospitales psiquiátricos, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo.
 
 #### SECCIÓN DÉCIMA SEGUNDA. PRISIÓN PREVENTIVA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 42.
 
 Establecimiento penitenciario.
 
-La ejecución de la medida cautelar de prisión preventiva será cumplida en el establecimiento penitenciario que designe el Ejecutivo del Estado, por conducto de la Dirección.
+La ejecución de la medida cautelar de prisión preventiva será cumplida en el establecimiento penitenciario que designe el Ejecutivo del Estado, por conducto de la Fiscalía.
 
 ###### Artículo 43.
 
 Cumplimiento de la medida.
 
-El Juez de Garantía remitirá su resolución a la Dirección, la que formará el expediente respectivo para el debido y exacto cumplimiento de la medida.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El Juez de Garantía remitirá su resolución a la Fiscalía, la que formará el expediente respectivo, para el debido y exacto cumplimiento de la medida.
 
 El sitio destinado para cumplir la prisión preventiva será distinto a aquél en el que se ejecute la pena de prisión, del que deberá estar completamente separado. Las mujeres quedarán recluidas en lugares diferentes al de los hombres.
 
@@ -691,9 +811,17 @@ I.- Residir en un lugar determinado.- Se sujetará a las disposiciones de ejecuc
 
 II.- Frecuentar o dejar de frecuentar determinados lugares o personas.- Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares y de convivir o comunicarse con personas determinadas.
 
-III.- Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas.- Quedará sujeta a la revisión por parte de la Secretaría de Fomento Social, la que por conducto de las instituciones correspondientes, verificará periódicamente el cumplimiento de la condición, mediante la práctica de exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-IV.- Participar en programas especiales para la prevención y tratamiento de adicciones.- Quedará sujeta a la revisión por parte de la Secretaría de Fomento Social, quien incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas.- Quedará sujeta a la revisión por parte de la Secretaría de Salud, la que por conducto de las instituciones correspondientes, verificará periódicamente el cumplimiento de la condición, mediante la práctica de exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Participar en programas especiales para la prevención y tratamiento de adicciones.- Quedará sujeta a la revisión por parte de la Secretaría de Salud, quien incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento.
 
 V.- Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez.- Quedará sujeta a la revisión por parte de la Secretaría de Educación y Cultura, quien dará seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso.
 
@@ -715,11 +843,15 @@ XIII.- Cumplir con los deberes de deudor alimentario.- En su cumplimiento, queda
 
 ### CAPÍTULO IV. DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES y SUSPENSIÓN DEL PROCESO A PRUEBA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 50.
 
 Irregularidades o incumplimiento de las medidas.
 
-Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución ejecutora observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato al Juez de Garantía, por conducto de la Dirección, para los efectos procesales conducentes.
+Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución ejecutora observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato al Juez de Garantía, por conducto de la Fiscalía, para los efectos procesales conducentes.
 
 ###### Artículo 51.
 
@@ -727,11 +859,15 @@ Sustitución, modificación o cancelación de las medidas cautelares o condicion
 
 El Juez de Garantía informará a la persona o institución ejecutora sus determinaciones sobre la sustitución, modificación o cancelación de la medida cautelar, así como de la revocatoria o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 52.
 
 Ente coordinador.
 
-La comunicación entre el Juez de Garantía y las autoridades señaladas como auxiliares, salvo disposición en contrario, se llevará a cabo por conducto de la Dirección, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocatoria o cesación provisional de las segundas.
+La comunicación entre el Juez de Garantía y las autoridades señaladas como auxiliares, salvo disposición en contrario, se llevará a cabo por conducto de la Fiscalía, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocatoria o cesación provisional de las segundas.
 
 ## TÍTULO CUARTO. EJECUCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -741,29 +877,45 @@ La comunicación entre el Juez de Garantía y las autoridades señaladas como au
 
 Ejecución de las penas y medidas de seguridad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
 Para la ejecución de las penas y medidas de seguridad, el Juez de Garantía o el Tribunal de Juicio Oral que dictó la sentencia, o el Tribunal de Alzada, según corresponda, deberá:
 
 I.- Tratándose de penas privativas de la libertad.-
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
 
 a) Si el imputado fuera sentenciado a prisión, ordenará inmediatamente su internamiento en el establecimiento penitenciario que corresponda, y lo pondrá a disposición jurídica del Juez de Ejecución de Penas, remitiéndole el registro donde conste su resolución, a efecto de integrar la carpeta respectiva, dando inicio al procedimiento de ejecución penal, para el debido y exacto cumplimiento de la sanción impuesta.
 
-b) Si el condenado estuviere en libertad, ordenar inmediatamente su aprehensión y, una vez efectuada, proceder de conformidad con el inciso anterior. En este case, se pondrá al condenado a disposición material de la Dirección, a efecto de que las penas se compurguen en los centros de reinserción social a cargo de dicha autoridad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-II.- Tratándose de penas alternativas a la privativa de la libertad, remitir copia de la misma a la Dirección, a efecto de que ésta se coordine, en los términos de la presente Ley, con la institución encargada de su ejecución.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+b) Si el condenado estuviere en libertad, ordenar inmediatamente su aprehensión y, una vez efectuada, proceder de conformidad con el inciso anterior. En este caso, se pondrá al condenado a disposición material de la Fiscalía, a efecto de que las penas se compurguen en los centros de reinserción social a cargo de dicha autoridad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Tratándose de penas alternativas a la privativa de la libertad, remitir copia de la misma a la Fiscalía, a efecto de que ésta se coordine, en los términos de la presente Ley, con la institución encargada de su ejecución.
 
 ### CAPÍTULO II. PENAS PRIVATIVAS DE LIBERTAD
 
 #### SECCIÓN PRIMERA. PENA DE PRISIÓN
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 54.
 
 Centro de Reinserción Social.
 
-La pena privativa de la libertad será compurgada en los centros de reinserción social que designe el Ejecutivo del Estado por conducto de la Dirección.
+La pena privativa de la libertad será compurgada en los centros de reinserción social que designe el Ejecutivo del Estado por conducto de la Fiscalía.
 
 ###### Artículo 55.
 
@@ -777,11 +929,15 @@ Personal femenino.
 
 En los establecimientos o secciones penitenciarios destinados a las mujeres, la vigilancia estará a cargo, necesariamente, de personal femenino.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 57.
 
 Instalaciones adecuadas.
 
-Todos los centros de reinserción social en el Estado adoptarán las medidas necesarias a efecto de que sus establecimientos cuenten con las instalaciones adecuadas para los internos de uno y otro sexo. La Dirección vigilará que se cumpla con esta disposición.
+Todos los centros de reinserción social en el Estado adoptarán las medidas necesarias a efecto de que sus establecimientos cuenten con las instalaciones adecuadas para los internos de uno y otro sexo. La Fiscalía vigilará que se cumpla con esta disposición.
 
 ###### Artículo 58.
 
@@ -825,15 +981,27 @@ El internamiento de fin de semana quedará sujeto a las siguientes reglas:
 
 I.- Tendrá lugar desde las veinte horas del día viernes hasta las veinte horas del día domingo.
 
-II.- Su cumplimiento se verificará en el centro de reinserción social que designe la Dirección, separadamente a los internos que compurgan la pena de prisión sin modalidades.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-III.- Si el sentenciado incurre en una ausencia no justificada, la Dirección lo comunicará al Juez de Ejecución de Penas, a efecto de que revoque el internamiento de fin de semana.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Su cumplimiento se verificará en el centro de reinserción social que designe la Fiscalía, separadamente a los internos que compurgan la pena de prisión sin modalidades.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Si el sentenciado incurre en una ausencia no justificada, la Fiscalía lo comunicará al Juez de Ejecución de Penas, a efecto de que revoque el internamiento de fin de semana.
 
 IV.- Si durante su aplicación se incoa contra el sentenciado un nuevo proceso por la comisión de diverso delito y se impone la medida cautelar de prisión preventiva, la modalidad se revocará.
 
 V.- Durante el tiempo que permanezca en semilibertad, el sentenciado deberá dedicarse al desarrollo de una actividad lícita; a realizar estudios no concluidos o a recibir el tratamiento de salud especificado.
 
-En casos de tratamientos de salud, el Juez de Ejecución de Penas, por conducto de la Dirección, ordenará a la institución correspondiente que aplique el tratamiento requerido, en su caso, y en general, que informe con la periodicidad indicada sobre sus avances.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En casos de tratamientos de salud, el Juez de Ejecución de Penas, por conducto de la Fiscalía, ordenará a la institución correspondiente que aplique el tratamiento requerido, en su caso, y en general, que informe con la periodicidad indicada sobre sus avances.
 
 ###### Artículo 62.
 
@@ -873,7 +1041,7 @@ Previos los estudios especializados, el Juez de Ejecución de Penas podrá orden
 
 ### CAPÍTULO III. DE LA LIBERTAD ANTICIPADA
 
-#### SECCIÓN PRIMERA. DEL TRATAMIENTO PRELlBERACIONAL
+#### SECCIÓN PRIMERA. DEL TRATAMIENTO PRELIBERACIONAL
 
 ###### Artículo 66.
 
@@ -979,17 +1147,25 @@ XIII.- Ataques a la Paz Pública.
 
 XIV.- Extorsión.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 71.
 
 Solicitud.
 
-El sentenciado que crea tener derecho a la libertad preparatoria, elevará su solicitud al Juez de Ejecución de Penas, por conducto de la Dirección, dando inicio el procedimiento respectivo.
+El sentenciado que crea tener derecho a la libertad preparatoria, elevará su solicitud al Juez de Ejecución de Penas, por conducto de la Fiscalía, dando inicio el procedimiento respectivo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 72.
 
 Resolución.
 
-La resolución que conceda la libertad preparatoria tomará en consideración todos los informes y conclusiones que sean recabados. Contendrá las observaciones y antecedentes relacionados con la conducta del sentenciado durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social. Dentro de las obligaciones del liberado, se contendrá la de informar el lugar de residencia y de trabajo, así como la de presentarse cada treinta días ante la Dirección o las autoridades municipales del lugar de residencia.
+La resolución que conceda la libertad preparatoria tomará en consideración todos los informes y conclusiones que sean recabados. Contendrá las observaciones y antecedentes relacionados con la conducta del sentenciado durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social. Dentro de las obligaciones del liberado, se contendrá la de informar el lugar de residencia y de trabajo, así como la de presentarse cada treinta días ante la Fiscalía o las autoridades municipales del lugar de residencia.
 
 ###### Artículo 73.
 
@@ -1013,17 +1189,25 @@ V.- Deja de presentarse injustificadamente por una ocasión.
 
 El sentenciado cuya libertad preparatoria haya sido revocada, cumplirá el resto de la pena impuesta. Los hechos que originen los nuevos procesos a que se refiere este artículo, interrumpen los plazos para extinguir la sanción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 74.
 
 Diversos procesos.
 
-Para dar cumplimiento a lo dispuesto en las fracciones I y II del artículo anterior, la autoridad judicial que conozca o haya conocido del proceso, deberá comunicar su resolución al Juez de Ejecución de Penas, con copia a la Dirección.
+Para dar cumplimiento a lo dispuesto en las fracciones I y II del artículo anterior, la autoridad judicial que conozca o haya conocido del proceso, deberá comunicar su resolución al Juez de Ejecución de Penas, con copia a la Fiscalía.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 75.
 
 Vigilancia.
 
-Los individuos que disfruten de la libertad preparatoria estarán sujetos a la vigilancia de la Dirección, por el tiempo que les falte para extinguir su sanción.
+Los individuos que disfruten de la libertad preparatoria estarán sujetos a la vigilancia de la Fiscalía, por el tiempo que les falte para extinguir su sanción.
 
 #### SECCIÓN TERCERA. DE LA REMISIÓN PARCIAL DE LA PENA
 
@@ -1039,7 +1223,11 @@ II.- Que participe regularmente en las actividades educativas, deportivas o de o
 
 III.- Que con base en los estudios de personalidad que practique el Consejo, pueda determinarse la viabilidad de su reinserción social. Este será el factor determinante para la concesión o negativa de la remisión parcial de la pena
 
-Los requisitos señalados en las fracciones I y II se acreditarán con los informes que rinda la Dirección.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Los requisitos señalados en las fracciones I y II se acreditarán con los informes que rinda la Fiscalía.
 
 Con estos elementos el Juez de Ejecución de Penas dictaminará sobre la procedencia del beneficio.
 
@@ -1067,29 +1255,49 @@ El cómputo de los términos para el otorgamiento del beneficio de remisión par
 
 Procedimiento.
 
-El procedimiento para la concesión de beneficios se iniciará de oficio o a petición de parte. En ambos casos, la Dirección estará obligada a remitir la solicitud al Juez de Ejecución de Penas. Si el procedimiento inicia a petición de parte, la remisión se hará dentro de los tres días hábiles siguientes a la solicitud.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-Admitida la solicitud, el Juez de Ejecución de Penas solicitará a la Dirección, que por conducto del Consejo, se remitan los estudios de personalidad del sentenciado dentro de los sesenta días siguientes a la admisión.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El procedimiento para la concesión de beneficios se iniciará de oficio o a petición de parte. En ambos casos, la Fiscalía estará obligada a remitir la solicitud al Juez de Ejecución de Penas. Si el procedimiento inicia a petición de parte, la remisión se hará dentro de los tres días hábiles siguientes a la solicitud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Admitida la solicitud, el Juez de Ejecución de Penas solicitará a la Fiscalía, que por conducto del Consejo, se remitan los estudios de personalidad del sentenciado dentro de los sesenta días siguientes a la admisión.
 
 Recibidos los estudios, el Juez de Ejecución de Penas emitirá resolución en un plazo que no excederá de cinco días, concediendo o negando el beneficio.
 
-La resolución a que se refiere el artículo anterior será notificada el día de su emisión a la Dirección, para que la cumpla en sus términos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La resolución a que se refiere el artículo anterior será notificada el día de su emisión a la Fiscalía, para que la cumpla en sus términos.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2010)</small>
 
 Realizado lo anterior en cuanto al trámite, se estará a lo dispuesto por el artículo 12 Bis del presente ordenamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 81.
 
 Improcedencia.
 
-Las peticiones que conforme a lo dispuesto por esta Ley sean notoriamente improcedentes serán resueltas de inmediato y notificadas al interesado y a la Dirección.
+Las peticiones que conforme a lo dispuesto por esta Ley sean notoriamente improcedentes serán resueltas de inmediato y notificadas al interesado y a la Fiscalía.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 82.
 
 Localizadores electrónicos.
 
-Para ejercer una mayor vigilancia, la Dirección está facultada para implementar un sistema de monitoreo electrónico a distancia sobre los sentenciados que gocen de algún beneficio de libertad anticipada a que se refiere el presente Capítulo, o de la condena condicional; asimismo, para requerir el auxilio de los cuerpos de seguridad pública en el Estado en el cumplimiento de esta obligación, en los términos de la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia.
+Para ejercer una mayor vigilancia, la Fiscalía está facultada para implementar un sistema de monitoreo electrónico a distancia sobre los sentenciados que gocen de algún beneficio de libertad anticipada a que se refiere el presente Capítulo, o de la condena condicional; asimismo, para requerir el auxilio de los cuerpos de seguridad pública en el Estado en el cumplimiento de esta obligación, en los términos de la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia.
 
 ### CAPÍTULO IV. DE LA LIBERTAD DEFINITIVA
 
@@ -1109,11 +1317,15 @@ Asistencia pospenitenciaria.
 
 La libertad definitiva que se otorgue conforme a este título, será comunicada de inmediato al patronato de asistencia a liberados, para los fines de asistencia pospenitenciaria a que se refiere la presente Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 85.
 
 Constancia de salida.
 
-Al quedar en libertad definitiva una persona, el Juez de Ejecución de Penas le entregará una constancia de la legalidad de su salida, de la conducta observada durante su reclusión y de su aptitud para el trabajo, en relación con la información proporcionada por la Dirección.
+Al quedar en libertad definitiva una persona, el Juez de Ejecución de Penas le entregará una constancia de la legalidad de su salida, de la conducta observada durante su reclusión y de su aptitud para el trabajo, en relación con la información proporcionada por la Fiscalía.
 
 #### SECCIÓN SEGUNDA. INDULTO
 
@@ -1133,11 +1345,15 @@ Es requisito ineludible para realizar la solicitud de indulto, la demostración 
 
 No procederá el indulto en el delito de violación y en los imprescriptibles.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 88.
 
 Solicitud.
 
-El interesado ocurrirá con su petición de indulto ante el Titular del Ejecutivo Estatal, por conducto de la Dirección, solicitando que se expidan las constancias respectivas. Previa la investigación que realice el Consejo para la verificación de la procedencia del indulto, el Gobernador del Estado emitirá su resolución fundada y motivada.
+El interesado ocurrirá con su petición de indulto ante el Titular del Ejecutivo Estatal, por conducto de la Fiscalía, solicitando que se expidan las constancias respectivas. Previa la investigación que realice el Consejo para la verificación de la procedencia del indulto, el Gobernador del Estado emitirá su resolución fundada y motivada.
 
 ###### Artículo 89.
 
@@ -1153,13 +1369,15 @@ Procedencia.
 
 La libertad definitiva o disminución de la pena procederá como consecuencia de la resolución que las determine en el recurso de revisión, en los términos del Título Décimo, Capítulo V del Código de Procedimientos Penales.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 91.
 
 Libertad por revisión de sentencia.
 
-Cuando por revisión de sentencia se resuelva la absolución del condenado, la Sala Colegiada en materia penal que haya conocido del recurso remitirá la constancia de su resolución a la Dirección y al Juez de Ejecución de Penas para que sin demora la ejecuten; así mismo, a la Procuraduría General de Justicia del Estado, para su conocimiento.
+Cuando por revisión de sentencia se resuelva la absolución del condenado, la Sala Colegiada en materia penal que haya conocido del recurso remitirá la constancia de su resolución a la Fiscalía y al Juez de Ejecución de Penas para que sin demora la ejecuten; así mismo, a la Fiscalía General del Estado, para su conocimiento.
 
 ###### Artículo 92.
 
@@ -1187,11 +1405,15 @@ Inhabilitación mayor a la pena privativa de libertad.
 
 Si la pena impuesta hubiere sido la inhabilitación o suspensión de derechos, por un periodo mayor al impuesto para la pena privativa de libertad, no procederá la rehabilitación por libertad definitiva hasta que la diversa sanción quede cumplida.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 96.
 
 Comunicación de la rehabilitación.
 
-La rehabilitación de los derechos será ordenada por el Juez de Ejecución de Penas y dicha resolución la comunicará la Dirección a las autoridades correspondientes.
+La rehabilitación de los derechos será ordenada por el Juez de Ejecución de Penas y dicha resolución la comunicará la Fiscalía a las autoridades correspondientes.
 
 ### CAPÍTULO V. CONDENA CONDICIONAL
 
@@ -1315,7 +1537,7 @@ Al haberse indicado la forma de dar cumplimiento al pago de la reparación del d
 
 I.- Si no se pagó la reparación del daño en los términos fijados en la sentencia, el Juez de Ejecución de Penas dará inicio al procedimiento administrativo de ejecución en los términos del Código Fiscal del Estado.
 
-II.-Si se encontrara garantizada la reparación del daño, el Juez de Ejecución de Penas notificará al fiador, en caso de que exista, que la garantía otorgada será destinada al pago de la reparación del daño; lo mismo sucederá con las otras formas de garantía.
+II.- Si se encontrara garantizada la reparación del daño, el Juez de Ejecución de Penas notificará al fiador, en caso de que exista, que la garantía otorgada será destinada al pago de la reparación del daño; lo mismo sucederá con las otras formas de garantía.
 
 III.- Dentro de los tres días siguientes a la notificación, se enviarán los documentos relativos a la ejecución de la garantía a la Dirección Jurídica de la Secretaría de Finanzas para que, en un plazo de tres días, mediante resolución fundada y motivada, haga efectiva esa garantía a favor del ofendido o de su representante.
 
@@ -1369,7 +1591,11 @@ Si el interesado no se presenta dentro de los treinta días naturales siguientes
 
 En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convengan, con la excepción prevista en el párrafo siguiente, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al Fondo de Auxilio para Víctimas u Ofendidos del Delito.
 
-Los bienes perecederos de consumo y durables podrán ser donados a instituciones de asistencia pública en el Estado, en los términos y condiciones que se establezcan mediante acuerdo que emita el Procurador General de Justicia del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Los bienes perecederos de consumo y durables podrán ser donados a instituciones de asistencia pública en el Estado, en los términos y condiciones que se establezcan mediante acuerdo que emita el Fiscal General del Estado.
 
 #### SECCIÓN TERCERA. INHABILITACIÓN, DESTITUCIÓN O SUSPENSIÓN DE CARGOS O EMPLEOS PÚBLICOS
 
@@ -1381,19 +1607,27 @@ La ejecución de la pena de inhabilitación, destitución o suspensión de cargo
 
 #### SECCIÓN CUARTA. TRABAJO A FAVOR DE LA COMUNIDAD
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 115.
 
 Instituciones.
 
-El trabajo a favor de la comunidad será facilitado por el Poder Ejecutivo; se prestará en instituciones públicas en general, así como en las de carácter educativo o de asistencia social, públicas o privadas, sobre la base de los convenios que celebre la Dirección con dichas instituciones.
+El trabajo a favor de la comunidad será facilitado por el Poder Ejecutivo; se prestará en instituciones públicas en general, así como en las de carácter educativo o de asistencia social, públicas o privadas, sobre la base de los convenios que celebre la Fiscalía con dichas instituciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 116.
 
 Ejecución de la pena.
 
-La ejecución de esta pena se desarrollará bajo el control y vigilancia de la Dirección. Esta dependencia pedirá, conforme al convenio celebrado con la entidad pública o privada, los informes necesarios donde se detalle la prestación del trabajo en beneficio de la comunidad que realice el sentenciado y enviará la comunicación respectiva al Juez de Ejecución de Penas.
+La ejecución de esta pena se desarrollará bajo el control y vigilancia de la Fiscalía. Esta dependencia pedirá, conforme al convenio celebrado con la entidad pública o privada, los informes necesarios donde se detalle la prestación del trabajo en beneficio de la comunidad que realice el sentenciado y enviará la comunicación respectiva al Juez de Ejecución de Penas.
 
-Una vez cumplida la pena de trabajo a favor de la comunidad, la institución comunicará dicha situación a la Dirección, quien a su vez, remitirá la constancia respectiva al Juez de Ejecución de Penas.
+Una vez cumplida la pena de trabajo a favor de la comunidad, la institución comunicará dicha situación a la Fiscalía, quien a su vez, remitirá la constancia respectiva al Juez de Ejecución de Penas.
 
 ###### Artículo 117.
 
@@ -1473,7 +1707,9 @@ Estos derechos quedan a salvo, aun cuando la autoridad judicial no tome las medi
 
 ### CAPÍTULO I. DE LA PREVENCIÓN
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 #### SECCIÓN PRIMERA. VIGILANCIA DE LA AUTORIDAD
 
@@ -1481,7 +1717,11 @@ Estos derechos quedan a salvo, aun cuando la autoridad judicial no tome las medi
 
 Ejecución de la pena.
 
-La vigilancia de la autoridad consiste en la supervisión y orientación de la conducta del sentenciado, ejercidas por la Dirección de Ejecución de Penas y Medidas de Seguridad, con el apoyo, en su caso, de las autoridades auxiliares, con la finalidad exclusiva de coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La vigilancia de la autoridad consiste en la supervisión y orientación de la conducta del sentenciado, ejercidas por la Fiscalía, con el apoyo, en su caso, de las autoridades auxiliares, con la finalidad exclusiva de coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad.
 
 La autoridad judicial deberá disponer esta supervisión cuando en la sentencia imponga una sanción que restrinja la libertad o derechos, sustituya la privación de libertad por otra sanción o conceda la condena condicional y en los demás casos en los que la ley disponga. Su duración no deberá exceder de la correspondiente a la pena o medida de seguridad impuesta.
 
@@ -1511,7 +1751,11 @@ Ejecución de la medida.
 
 El juez de ejecución ordenará el internamiento del sentenciado en centro de salud u hospital siquiátrico señalado en el fallo, de acuerdo a lo siguiente:
 
-La Dirección remitirá la resolución a la Secretaría de Fomento Social, a cuyo cargo quedará la ejecución y vigilancia de la medida, en los centros u hospitales públicos o privados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La Fiscalía remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución y vigilancia de la medida, en los centros u hospitales públicos o privados.
 
 Durante la ejecución de la medida, se informará periódicamente al Juez de Ejecución de Penas.
 
@@ -1523,7 +1767,7 @@ Durante la ejecución de la medida, se informará periódicamente al Juez de Eje
 
 Bases del proceso de reinserción.
 
-La Dirección organizará los establecimientos penitenciarios e instituciones del Sistema, vigilando que el proceso de reinserción de los internos esté basado en el trabajo, la capacitación para el mismo, la educación, la salud y el deporte.
+La Fiscalía organizará los establecimientos penitenciarios e instituciones del Sistema, vigilando que el proceso de reinserción de los internos esté basado en el trabajo, la capacitación para el mismo, la educación, la salud y el deporte.
 
 ###### Artículo 128.
 
@@ -1577,7 +1821,11 @@ Trabajo no obligatorio.
 
 No será obligatorio el trabajo para:
 
-I.- Quienes presenten alguna incapacidad, por el tiempo que subsista, siempre y cuando lo acrediten ante la Dirección.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Quienes presenten alguna incapacidad, por el tiempo que subsista, siempre y cuando lo acrediten ante la Fiscalía.
 
 II.- Las mujeres, durante cuarenta y cinco días antes y después del parto.
 
@@ -1633,11 +1881,15 @@ La educación que se imparta en los establecimientos penitenciarios del Sistema 
 
 En los establecimientos penitenciarios se promoverá la instrucción para las mujeres que carezcan de estudios, así como para aquellas que se hubieren encontrado realizando sus estudios antes de su reclusión o que tengan estudios inconclusos, así como propiciar la educación sexual y reproductiva a través de programas de información destinados a ello.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 139.
 
 Documentación oficial.
 
-La documentación de cualquier tipo que expidan los centros escolares de los establecimientos penitenciarios, no contendrá referencia o alusión alguna a estos últimos. Para tal efecto, las autoridades educativas expedirán los documentos en los términos que se convengan con la Dirección.
+La documentación de cualquier tipo que expidan los centros escolares de los establecimientos penitenciarios, no contendrá referencia o alusión alguna a estos últimos. Para tal efecto, las autoridades educativas expedirán los documentos en los términos que se convengan con la Fiscalía.
 
 ###### Artículo 140.
 
@@ -1711,11 +1963,15 @@ Los establecimientos penitenciarios estarán a cargo de un Director y tendrán e
 
 Para los fines de vigilancia y administración, los directivos se ajustarán a la aplicación del Reglamento respectivo y cumplirán las normas de ejecución penal que establece esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 148.
 
 Centros de Reinserción Social.
 
-Los establecimientos penitenciarios se denominan Centros de Reinserción Social, dependen de la Dirección, y para su funcionamiento dispondrán, en la medida que lo permita su presupuesto, de las siguientes secciones: Vigilancia, médica, sicológica, de seguridad y custodia; pedagógica, trabajo social y administrativa.
+Los establecimientos penitenciarios se denominan Centros de Reinserción Social, dependen de la Fiscalía, y para su funcionamiento dispondrán, en la medida que lo permita su presupuesto, de las siguientes secciones: Vigilancia, médica, sicológica, de seguridad y custodia; pedagógica, trabajo social y administrativa.
 
 ###### Artículo 149.
 
@@ -1777,13 +2033,25 @@ Para el traslado de procesados será necesaria la autorización expresa de la au
 
 Traslado de sentenciados.
 
-La facultad de trasladar a los internos sentenciados ejecutoriadamente a otros establecimientos penitenciarios corresponde a la Dirección, con las modalidades siguientes:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La facultad de trasladar a los internos sentenciados ejecutoriadamente a otros establecimientos penitenciarios corresponde a la Fiscalía, con las modalidades siguientes:
 
 I.- Si el traslado del sentenciado es voluntario, se tomarán en cuenta los motivos que el interno invoque, así como las condiciones generales del establecimiento al que se pretenda trasladar.
 
-II.- Si el traslado del sentenciado es necesario o urgente, la Dirección lo ejecutará, aún sin el consentimiento del interno, debiendo mediar una razón concreta o grave que lo justifique.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-En ambos casos, la Dirección dará aviso inmediato al Juez de Ejecución de Penas para los efectos a que haya lugar.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Si el traslado del sentenciado es necesario o urgente, la Fiscalía lo ejecutará, aún sin el consentimiento del interno, debiendo mediar una razón concreta o grave que lo justifique.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En ambos casos, la Fiscalía dará aviso inmediato al Juez de Ejecución de Penas para los efectos a que haya lugar.
 
 ### CAPÍTULO V. DE LA DISCIPLINA EN El INTERIOR DE LOS ESTABLECIMIENTOS PENITENCIARIOS
 
@@ -1891,6 +2159,10 @@ Ningún interno será sancionado sin ser previamente informado de la infracción
 
 ### CAPÍTULO ÚNICO. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL A LIBERADOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 168.
 
 Comunicación de los internos.
@@ -1923,13 +2195,17 @@ Los establecimientos penitenciarios dispondrán de áreas especialmente adecuada
 
 Asistencia y atención a liberados y externados.
 
-Para la asistencia y atención a liberados y externados, la Dirección se coordinará con instituciones, públicas o privadas, que presten estos servicios, las que procurarán fortalecer la reinserción social, auxiliándolos para canalizarlos y ubicarlos en fuentes de trabajo donde puedan desarrollar sus aptitudes y orientando su tiempo libre a determinadas actividades de esparcimiento familiar, social, deportivo, entre otros.
+Para la asistencia y atención a liberados y externados, la Fiscalía se coordinará con instituciones, públicas o privadas, que presten estos servicios, las que procurarán fortalecer la reinserción social, auxiliándolos para canalizarlos y ubicarlos en fuentes de trabajo donde puedan desarrollar sus aptitudes y orientando su tiempo libre a determinadas actividades de esparcimiento familiar, social, deportivo, entre otros.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 172.
 
 Patronato de Ayuda para la Reinserción Social.
 
-El Patronato de Ayuda para la Reinserción Social, dependiente de la Dirección, tiene por objeto prestar asistencia jurídica, moral, económica, medica, social y laboral, a las personas que gocen de cualesquiera de los beneficios previstos en esta ley, o que hayan sido puestas en libertad definitiva.
+El Patronato de Ayuda para la Reinserción Social, dependiente de la Fiscalía, tiene por objeto prestar asistencia jurídica, moral, económica, medica, social y laboral, a las personas que gocen de cualesquiera de los beneficios previstos en esta Ley, o que hayan sido puestas en libertad definitiva.
 
 ## TÍTULO OCTAVO. EXTINCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -2070,3 +2346,41 @@ Los procedimientos penales que se estén substanciando a la entrada en vigor del
 ###### ARTÍCULO CUARTO.
 
 A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la Ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
