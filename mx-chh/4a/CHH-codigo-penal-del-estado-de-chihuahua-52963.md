@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2010-06-26"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -445,9 +445,11 @@ Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, 
 
 Tratándose del delito de homicidio doloso en perjuicio de mujeres o menores de edad o del delito de secuestro, deberá imponerse pena por cada delito cometido, aún y cuando con ello se exceda el máximo de la pena de prisión.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de penas y medidas de seguridad, en cualquier grado de participación, deberá imponérseles la pena que corresponda para cada uno de ellos, pudiendo aumentarse a la suma total de la pena impuesta, de una a dos terceras partes de aquélla, aun cuando con ello se exceda el máximo de la pena de prisión.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de penas y medidas judiciales, en cualquier grado de participación, deberá imponérseles la pena que corresponda para cada uno de ellos, pudiendo aumentarse a la suma total de la pena impuesta, de una a dos terceras partes de aquélla, aun cuando con ello se exceda el máximo de la pena de prisión.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2010)</small>
 
@@ -1049,11 +1051,15 @@ Naturaleza y requisitos
 
 La condena condicional es una facultad por la cual la autoridad judicial, al emitir sentencia, podrá suspender la ejecución de la pena de prisión. Tiene por objeto fundamental permitir al sentenciado incorporarse a la sociedad, cumpliendo así la sanción que se le impuso, siendo procedente cuando se cumpla la totalidad de las siguientes exigencias:
 
-I. La prisión por compurgar no exceda de tres años, ni se trate de alguno de los delitos por los que resulta improcedente la concesión de libertad preparatoria, en los términos de la Ley de Ejecución de Penas y Medidas de Seguridad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Il. El beneficiado no haya cometido delito doloso en los tres años anteriores a los hechos por los cuales se le juzga.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-IIl. El sentenciado haya observado buena conducta durante la tramitación del proceso. Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes de la autoridad penitenciaria.
+I. La prisión por compurgar no exceda de tres años, ni se trate de alguno de los delitos por los que resulta improcedente la concesión de libertad preparatoria, en los términos de la Ley de Ejecución de Penas y Medidas Judiciales.
+
+II. El beneficiado no haya cometido delito doloso en los tres años anteriores a los hechos por los cuales se le juzga.
+
+III. El sentenciado haya observado buena conducta durante la tramitación del proceso. Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes de la autoridad penitenciaria.
 
 ###### Artículo 87.
 
@@ -1195,7 +1201,7 @@ Tratándose de delitos que se investigan de oficio, excepto el de Violencia Fami
 
 I. Que el término medio aritmético de la pena básica privativa de libertad del delito de que se trate, no exceda de cuatro años y, en todo caso, cuando no merezca prisión.
 
-Il. Que se haya pagado la reparación del daño o la víctima u ofendido, o su representante con facultades suficientes, expresamente se hayan dado por satisfechos del mismo.
+II. Que se haya pagado la reparación del daño o la víctima u ofendido, o su representante con facultades suficientes, expresamente se hayan dado por satisfechos del mismo.
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
@@ -1503,13 +1509,17 @@ Si la capacidad del autor sólo se encuentra considerablemente disminuida, se le
 
 La riña es la contienda de obra entre dos o más personas con el propósito de causarse daño.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2010)</small>
-
 ###### Artículo 136.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña o en perjuicio de servidores públicos que se encarguen de la administración o procuración de justicia. Asimismo, en los supuestos de la fracción IX del presente artículo:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña o en perjuicio de servidores públicos que se encarguen de la administración o procuración de justicia, o de periodistas; así mismo, en los supuestos de la fracción X del presente artículo:
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
 I. Existe premeditación: Cuando se ejecuta la conducta después de haber reflexionado sobre el delito que se va a cometer;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
 II. Existe ventaja:
 
@@ -1521,19 +1531,37 @@ c) Cuando el agente se vale de algún medio que debilita la defensa de la vícti
 
 d) Cuando la víctima se halla inerme o caída y el agente armado o de pie. La ventaja no se tomará en consideración si el que se halla armado o de pie fuere el agredido y además hubiere corrido peligro su vida por no aprovechar esa circunstancia.
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
 III. Existe traición: Cuando el agente realiza el hecho quebrantando la confianza o seguridad que expresamente le había prometido a la víctima, o las mismas que en forma tácita debía ésta esperar de aquél por las relaciones de confianza real y actual que existen entre ambos;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
 IV. Existe alevosía: Cuando el agente realiza el hecho sorprendiendo intencionalmente a alguien de improviso, o empleando acechanza u otro medio que no le dé lugar a defenderse ni evitar el mal que se le quiera hacer;
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
 V. Existe retribución: Cuando el agente lo cometa por pago o prestación prometida o dada;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
 VI. Por el medio empleado: Se causen por inundación, incendio, explosivos, o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud;
 
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
 VII. Existe saña: Cuando se aumenta deliberadamente el dolor de la víctima;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
 
 VIII. Cuando dolosamente se cometa en perjuicio de agentes policiales, así como de servidores públicos que se encarguen de la administración o procuración de justicia, si se encuentran en el ejercicio de sus funciones y con motivo de las mismas, siempre que se estén cumpliendo con arreglo a la ley;
 
-IX. Cuando en el momento de la privación de la vida, o posterior a ello, se realice la decapitación, mutilación, quemaduras, descuartizamiento o se utilicen mensajes intimidatorios dirigidos a la población, que atenten contra la dignidad humana por la exhibición de la causa de muerte.
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Cuando dolosamente se cometan en perjuicio de periodistas o de empleados o titulares de medios de comunicación, con motivo y en ejercicio de su actividad periodística;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2010)</small>
+
+X. Cuando en el momento de la privación de la vida, o posterior a ello, se realice la decapitación, mutilación, quemaduras, descuartizamiento o se utilicen mensajes intimidatorios dirigidos a la población, que atenten contra la dignidad humana por la exhibición de la causa de muerte.
 
 En los supuestos de esta fracción, las penas se aumentarán en la mitad de la pena establecida como máxima.
 
@@ -1907,7 +1935,7 @@ Además de las sanciones establecidas en los artículos anteriores, al sentencia
 
 I. Vigilancia de la autoridad.
 
-Il. Prohibición de ir a una circunscripción territorial determinada o residir en ella.
+II. Prohibición de ir a una circunscripción territorial determinada o residir en ella.
 
 Lo anterior se podrá imponer en el resto de los delitos previstos en el presente Título.
 
@@ -2111,7 +2139,7 @@ b) Si el delito es cometido en contra de una persona mayor de sesenta años de e
 
 c) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho;
 
-d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad, afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
 
 ### CAPÍTULO II. ROBO DE GANADO
 
@@ -2209,7 +2237,7 @@ I. Cuando el valor de lo robado no exceda de quinientas veces el salario, se imp
 
 II. Cuando exceda de quinientas veces el salario, pero no de mil, la sanción será de dos a cuatro años de prisión y multa de cien a doscientas veces el salario.
 
-lII. Cuando exceda de mil veces el salario, la sanción será de cuatro a diez años de prisión y multa de doscientas a quinientas veces el salario.
+III. Cuando exceda de mil veces el salario, la sanción será de cuatro a diez años de prisión y multa de doscientas a quinientas veces el salario.
 
 Para estimar la cuantía del robo se atenderá al valor comercial de la cosa robada, al momento del apoderamiento, pero si por alguna circunstancia no fuera estimable en dinero o si por su naturaleza no fuera posible fijar su valor, se aplicarán de seis meses a cinco años de prisión y multa de treinta a ochenta veces el salario.
 
@@ -2323,9 +2351,9 @@ El robo de ganado vacuno, caballar o mular se sancionará conforme a las siguien
 
 I. Si fuera una sola cabeza, se aplicará prisión de dos a cinco años y multa de treinta a sesenta veces el salario.
 
-Il. Si excediera de una pero no de diez cabezas, se aplicará prisión de cuatro a nueve años y multa de treinta a cien veces el salario.
+II. Si excediera de una pero no de diez cabezas, se aplicará prisión de cuatro a nueve años y multa de treinta a cien veces el salario.
 
-lIl. Cuando el número de cabezas fuera mayor de diez, se aplicará prisión de seis a quince años y multa de cincuenta a ciento cincuenta veces el salario.
+III. Cuando el número de cabezas fuera mayor de diez, se aplicará prisión de seis a quince años y multa de cincuenta a ciento cincuenta veces el salario.
 
 ###### Artículo 217.
 
@@ -2341,9 +2369,9 @@ Las mismas penas a que se refieren los artículos anteriores, se aplicarán a qu
 
 I. Herrar, modificar o destruir los fierros, marcas o señales, que sirvan para identificar la propiedad de semovientes, sin el consentimiento de quien deba otorgarlo.
 
-Il. Transportar dolosamente ganado robado.
+II. Transportar dolosamente ganado robado.
 
-Ill. Expedir certificados falsos para obtener guías simulando ventas o hacer uso de dichos certificados.
+III. Expedir certificados falsos para obtener guías simulando ventas o hacer uso de dichos certificados.
 
 ###### Artículo 219.
 
@@ -2493,9 +2521,9 @@ Se aplicarán de seis meses a cinco años de prisión y multa de cincuenta a qui
 
 I. Se posesione materialmente de un inmueble ajeno o haga uso de éste o de un derecho real que no le pertenece.
 
-Il. Se posesione materialmente de un inmueble de su propiedad, en los casos en que no pueda disponer o usar de éste, por hallarse en poder de otra persona por una causa legítima o ejerza actos de dominio que lesionen derechos del ocupante.
+II. Se posesione materialmente de un inmueble de su propiedad, en los casos en que no pueda disponer o usar de éste, por hallarse en poder de otra persona por una causa legítima o ejerza actos de dominio que lesionen derechos del ocupante.
 
-lIl. Distrajera o desviara en perjuicio de alguien el curso de aguas para usarlas en su provecho o en el de otro.
+III. Distrajera o desviara en perjuicio de alguien el curso de aguas para usarlas en su provecho o en el de otro.
 
 ###### Artículo 233.
 
@@ -2557,9 +2585,9 @@ Se aplicará prisión de cuatro a quince años y multa de doscientas a quinienta
 
 I. Los desmantele o comercialice conjunta o separadamente sus partes.
 
-Il. Los adquiera, detente, posea o custodie, aunque se encuentren en lugares diferentes.
+II. Los adquiera, detente, posea o custodie, aunque se encuentren en lugares diferentes.
 
-Ill. Los enajene, comercialice o trafique de cualquier forma.
+III. Los enajene, comercialice o trafique de cualquier forma.
 
 IV. Altere o modifique la documentación auténtica que acredite su propiedad o su tenencia oficial.
 
@@ -3211,7 +3239,7 @@ I. Abandone una defensa o un negocio, sin motivo justificado y en perjuicio de q
 
 II. Asista o ayude a dos o más contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o acepte el patrocinio de alguno y admita después el de la parte contraria en un mismo negocio;
 
-III. Como defensor de un imputado, se concrete a aceptar el cargo y a solicitar la libertad caucional a que se refiere la fracción I del apartado a) del artículo 20 Constitucional, o las actuaciones equivalentes, sin promover mas pruebas ni diligencias tendientes a la defensa adecuada del imputado;
+III. Como defensor de un imputado, se concrete a aceptar el cargo y a solicitar la libertad caucional a que se refiere la fracción I del apartado a) del artículo 20 Constitucional, o las actuaciones equivalentes, sin promover más pruebas ni diligencias tendientes a la defensa adecuada del imputado;
 
 IV. Como defensor de un imputado, no ofrezca ni desahogue pruebas fundamentales para la defensa dentro de los plazos previstos por la ley, teniendo la posibilidad de hacerlo.
 
@@ -3399,9 +3427,9 @@ IV. Obstaculice o interfiera el desarrollo normal de las votaciones, del escruti
 
 V. Recoja sin causa prevista por la ley de la materia, credenciales de elector de los ciudadanos;
 
-Vl. Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+VI. Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
 
-Vll. Viole de cualquier manera el secreto del voto;
+VII. Viole de cualquier manera el secreto del voto;
 
 VIII. Vote o pretenda votar con una credencial de la que no sea titular;
 
@@ -3409,9 +3437,9 @@ IX. El día de la elección organice la reunión y traslado de votantes con el o
 
 X. Ilícitamente introduzca o sustraiga de las urnas una o más boletas electorales, destruya o altere boletas o documentos electorales;
 
-Xl. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
+XI. Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
 
-Xll. lmpida en forma violenta la instalación de la casilla.
+XII. Impida en forma violenta la instalación de la casilla.
 
 ###### Artículo 337.
 
@@ -3425,15 +3453,15 @@ I. Altere en cualquier forma, sustituya o haga un uso indebido de documentos rel
 
 II. Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
 
-lII. Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+III. Obstruya el desarrollo normal de la votación sin mediar causa justificada;
 
 IV. Altere los resultados electorales, sustraiga o destruya boletas o documentos electorales;
 
 V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
 
-Vl. En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o por un partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentran formados;
+VI. En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o por un partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentran formados;
 
-Vll. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
+VII. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
 
 VIII. Al que expulse de la casilla sin causa justificada al representante de un partido político o coarte los derechos que la Ley Electoral le concede;
 
@@ -3441,7 +3469,7 @@ IX. Conociendo la existencia de condiciones o actividades que atenten contra la 
 
 X. Permita o tolere a sabiendas que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
 
-Xl. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+XI. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
 ###### Artículo 339.
 
@@ -3465,9 +3493,9 @@ Se impondrán de doscientos a cuatrocientos días de multa y prisión de uno a n
 
 I. Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
 
-Il. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido o candidato; o
+II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido o candidato; o
 
-lIl. Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo como vehículos, inmuebles y equipos, al apoyo a un partido político y de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que estos presten servicio a un partido político o candidato. En la comisión de este delito no habrá beneficio de la libertad provisional.
+III. Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo como vehículos, inmuebles y equipos, al apoyo a un partido político y de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que estos presten servicio a un partido político o candidato. En la comisión de este delito no habrá beneficio de la libertad provisional.
 
 ###### Artículo 341.
 
@@ -3479,7 +3507,7 @@ Se impondrá de sesenta a doscientos días de multa y prisión de tres a siete a
 
 ###### Artículo 343.
 
-Se impondrá prisión de dos a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas, aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción lIl del artículo 340 de este Código. En la comisión de este delito no habrá el beneficio de la libertad provisional.
+Se impondrá prisión de dos a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas, aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 340 de este Código. En la comisión de este delito no habrá el beneficio de la libertad provisional.
 
 ###### Artículo 344.
 
@@ -3678,3 +3706,49 @@ DECRETO No. 1084/2010 II P.O., POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 32 D
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+DECRETO NUMERO 1167/2010, POR EL QUE SE REFORMA EL ARTICULO 136, EN SU PRIMER PARRAFO, Y SE ADICIONA UNA FRACCION IX, PASANDO EL CONTENIDO DE LA EXISTENTE A UNA FRACCION X, DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+DECRETO NUMERO 1142/2010, SE REFORMAN LOS ARTICULOS 32, QUINTO PARRAFO, Y 86 EN SU FRACCION I; AMBOS DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la Ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
