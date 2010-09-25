@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2010-08-25"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -519,11 +519,11 @@ Si al pronunciarse la sentencia definitiva hubiere de declararse la nulidad de a
 
 92.- Las frases "dar vista" y "correr traslado" sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
 
-93.- Si se perdieren o destruyeren total o parcialmente los autos, será repuesto el expediente a costa del responsable, quien quedará obligado a pagar los daños y perjuicios que se ocasionaren por la pérdida o destrucción, haciéndose además la consignación del caso al Procurador General de Justicia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-La reposición del expediente se substanciará de oficio en forma incidental; y el secretario, sin necesidad de orden judicial previa, hará constar desde luego la existencia anterior y falta posterior de los autos. Los tribunales quedan facultados para investigar de oficio la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios que no sean contrarios a la honestidad o estén expresamente prohibidos por la ley.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en cualquiera resolución de que exista constancia cierta, siempre que en este caso no exista prueba de que se hubiese objetado oportunamente la exactitud de la inserción o cita que de ellas se haga.
+93.- Si se perdieren o destruyeren total o parcialmente los autos, será repuesto el expediente a costa del responsable, quien quedará obligado a pagar los daños y perjuicios que se ocasionaren por la pérdida o destrucción, haciéndose además la consignación del caso al Fiscal General del Estado.
 
 ### CAPITULO III. De las resoluciones judiciales
 
@@ -565,7 +565,11 @@ Las resoluciones judiciales firmes dictadas en negocios sobre alimentos, ejercic
 
 ### CAPITULO IV. De las correcciones disciplinarias y medios de apremio
 
-105.- Los magistrados y jueces tienen el deber de mantener el orden de los debates judiciales y de exigir que las partes, sus representantes y abogados, les guarden y se guarden entre sí el respeto y consideración correspondientes, lo mismo que a las autoridades cuyos actos sean materia de la instancia o petición, o aquellas que por cualquier otro motivo fueren aludidas en los escritos y alegatos; y corregirán las faltas que se cometieren imponiéndole al responsable una corrección disciplinaria. También podrán hacer uso de la fuerza pública. Si las faltas llegaren a ser delictuosas, se consignará el caso al Procurador General de Justicia, remitiéndose a este funcionario testimonio de las constancias conducentes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+105. Los magistrados y jueces tienen el deber de mantener el orden de los debates judiciales y de exigir que las partes, sus representantes y abogados, les guarden y se guarden entre sí el respeto y consideración correspondientes, lo mismo que a las autoridades cuyos actos sean materia de la instancia o petición, o aquellas que por cualquier otro motivo fueren aludidas en los escritos y alegatos; y corregirán las faltas que se cometieren imponiéndole al responsable una corrección disciplinaria. También podrán hacer uso de la fuerza pública. Si las faltas llegaren a ser delictuosas, se consignará el caso al Fiscal General del Estado, remitiéndose a este funcionario testimonio de las constancias conducentes.
 
 También podrán los tribunales imponer, por resolución escrita, correcciones disciplinarias a los secretarios, notificadores y demás empleados dependientes de aquéllos, por las faltas que cometen en el desempeño de sus funciones o labores respectivas.
 
@@ -627,7 +631,7 @@ b).- Tres días para todos los demás casos.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2001)</small>
 
-116.- Las notificaciones, citaciones y emplazamientos se efectuarán, lo mas tarde dentro de los dos días siguientes al en que se pronuncien las resoluciones que las prevengan, a no ser que éstas o la ley dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo una multa de hasta cincuenta salarios mínimos.
+116.- Las notificaciones, citaciones y emplazamientos se efectuarán, lo más tarde dentro de los dos días siguientes al en que se pronuncien las resoluciones que las prevengan, a no ser que éstas o la ley dispusieren otra cosa. Se impondrá de plano a los infractores de este artículo una multa de hasta cincuenta salarios mínimos.
 
 117.- Todas las resoluciones se notificarán a las partes; a los extraños al litigio, sólo en el caso en que la resolución así lo exprese, determinándose en ella precisamente la materia u objeto de la diligencia y los nombres de las personas con quienes deba practicarse.
 
@@ -1713,7 +1717,13 @@ El juez podrá ordenar la recepción de la declaración de testigos hostiles has
 
 345.- A las personas de más de sesenta años y a los enfermos podrá el juez, según las circunstancias, recibirles su declaración en sus casas y en presencia de las partes si éstas hubieren concurrido.
 
-346.- Al Gobernador, Secretario General de Gobierno, Oficial Mayor, Tesorero General, Directores Generales, Jefes de Departamento, Diputados, Magistrados, Procurador General de Justicia, Presidentes Municipales y Jueces del Estado; a los Diputados y Senadores del Congreso de la Unión; a los Jueces de Distrito residentes en el Estado; al Jefe de la Oficina Federal de Hacienda, y a los Generales con mando de tropa, se les pedirá por oficio su declaración y en la misma forma la rendirán. En el oficio que se les libre, se insertarán las cuestiones que deben contestar. Cuando hubieren de ser examinados miembros del cuerpo diplomático mexicano o del consular, que se encuentren en el extranjero ejerciendo sus funciones, se dirigirá despacho por conducto del Supremo Tribunal de Justicia, del Ejecutivo del Estado y de la Secretaría de Relaciones, al Ministro Diplomático o Cónsul respectivo, para que, si se trata de ellos mismos, informen bajo protesta, y si no, examinen en la propia forma al que deba declarar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+346. Al Gobernador, Secretario General de Gobierno, Oficial Mayor, Tesorero General, Directores Generales, Jefes de Departamento, Diputados, Magistrados, Fiscal General del Estado, Presidentes Municipales y Jueces del Estado; a los Diputados y Senadores del Congreso de la Unión; a los Jueces de Distrito residentes en el Estado; al Jefe de la Oficina Federal de Hacienda, y a los Generales con mando de tropa, se les pedirá por oficio su declaración y en la misma forma la rendirán.
+
+En el oficio que se les libre, se insertarán las cuestiones que deben contestar. Cuando hubieren de ser examinados miembros del cuerpo diplomático mexicano o del consular, que se encuentren en el extranjero ejerciendo sus funciones, se dirigirá despacho por conducto del Supremo Tribunal de Justicia, del Ejecutivo del Estado y de la Secretaría de Relaciones, al Ministro Diplomático o Cónsul respectivo, para que, si se trata de ellos mismos, informen bajo protesta, y si no, examinen en la propia forma al que deba declarar.
 
 347.- Salvo los casos previstos en el artículo anterior y en el siguiente, para el examen de los testigos no se presentarán interrogatorios escritos. Las preguntas serán formuladas verbal y directamente por las partes, tendrán relación directa con los puntos controvertidos y no serán contrarias a la ley ni a la honestidad. Deberán estar concebidas en términos claros y precisos, procurando que en una sola no se comprenda más de un hecho. El juez debe cuidar de que se cumplan estas condiciones impidiendo que se hagan preguntas que las contraríen, y desechará bajo su responsabilidad, las que no se ajusten a esas reglas.
 
@@ -1963,7 +1973,7 @@ El Oficial del Registro Civil, previa identificación de los consortes levantar�
 
 El divorcio decretado por esta vía no surtirá efecto legal alguno si se acredita que no se cumplió con los requisitos dispuestos por el inciso a), del artículo 255 del Código Civil del Estado de Chihuahua, y será nulo del pleno derecho, haciéndose acreedores los cónyuges a las sanciones que establezca la ley en la materia.
 
-413.- En el juicio de divorcio contencioso, presentada y admitida la demanda, el juez correrá traslado de ella a la contraparte emplazándola para que la conteste dentro del termino de tres días, bajo el apercibimiento de presumir confesados los hechos de la demanda que se deje de contestar.
+413.- En el juicio de divorcio contencioso, presentada y admitida la demanda, el juez correrá traslado de ella a la contraparte emplazándola para que la conteste dentro del término de tres días, bajo el apercibimiento de presumir confesados los hechos de la demanda que se deje de contestar.
 
 414.- Al admitirse la demanda de divorcio, se adoptarán por el juez provisionalmente a petición de parte y sólo mientras dure el juicio, las medidas que el juez estime necesarias para la protección de los cónyuges y de los hijos.
 
@@ -2279,7 +2289,7 @@ III.- Las acciones de nulidad de matrimonio;
 
 IV.- Los concernientes al estado civil de las personas, con la excepción contenida en el artículo 316 del Código Civil;
 
-V.- Los demás en que la ley lo prohiba expresamente.
+V.- Los demás en que la ley lo prohíba expresamente.
 
 495.- El compromiso produce las excepciones de incompetencia y litispendencia si durante su vigencia se promueve el negocio en un Tribunal ordinario.
 
@@ -2749,7 +2759,7 @@ El auto que apruebe o repruebe la cuenta es apelable en el efecto devolutivo, re
 
 612.- Aprobada la cuenta general de albaceazgo, dentro de los quince días siguientes presentará el albacea el proyecto de partición de los bienes, en los términos que dispone el Código Civil, sujetándose además a lo dispuesto en esta sección.
 
-613.- Cuando el albacea no vaya a proceder a hacer por si mismo la partición, lo manifestará así al Tribunal dentro de los tres días siguientes a la aprobación de la cuenta general de administración, a fin de que se nombre un contador o un abogado con título legal registrado, que se encargue de la partición.
+613.- Cuando el albacea no vaya a proceder a hacer por sí mismo la partición, lo manifestará así al Tribunal dentro de los tres días siguientes a la aprobación de la cuenta general de administración, a fin de que se nombre un contador o un abogado con título legal registrado, que se encargue de la partición.
 
 El juez, recibida la manifestación del albacea, citará a los interesados a una junta con el objeto indicado, para dentro de los tres días siguientes, a fin de que la elección la hagan en su presencia. Si no hubiere mayoría, el juez nombrará el partidor eligiéndole entre los propuestos, y en defecto de éstos, al que considere prudente.
 
@@ -2947,7 +2957,7 @@ Cuando el juez estime que el punto a debate está suficientemente discutido orde
 
 Con los créditos aprobados, en definitiva o provisionalmente, se formará una lista en el orden que les corresponde según su graduación y preferencia, dividiéndola en las secciones o capítulos respectivos y expresándose en ella los nombres de los acreedores y el importe de cada crédito, lista que aprobará el juez con arreglo a lo dispuesto en la parte final del primer apartado de este artículo. Esta aprobación, por lo que va a la graduación de créditos que en ella se establezca, sólo es modificable por medio del recurso de apelación, que se admitirá en el efecto devolutivo; por lo que respecta al reconocimiento de créditos que implica, sólo es atacable en la forma y términos previstos en los dos artículos siguientes.
 
-649.- Si uno o más créditos admitidos por la mayoría, fuesen objetados por el deudor o por alguno de los acreedores, se tendrá por reconocido provisionalmente, debiendo substanciarse la oposición por cuerda separada en forma incidental, ante el mismo juzgado que conoce del concurso sin que obste la cuantía del crédito objetado. Si dentro de los ocho días siguientes a la aprobación provisional del crédito o créditos cuestionados, no se promoviere el incidente por el objetante, a solicitud del acreedor interesado y sin más tramite que la certificación de la secretaría del juzgado acerca de la no promoción del incidente puesta en los autos principales, por ministerio de ley adquirirá la declaración provisional carácter de definitiva.
+649.- Si uno o más créditos admitidos por la mayoría, fuesen objetados por el deudor o por alguno de los acreedores, se tendrá por reconocido provisionalmente, debiendo substanciarse la oposición por cuerda separada en forma incidental, ante el mismo juzgado que conoce del concurso sin que obste la cuantía del crédito objetado. Si dentro de los ocho días siguientes a la aprobación provisional del crédito o créditos cuestionados, no se promoviere el incidente por el objetante, a solicitud del acreedor interesado y sin más trámite que la certificación de la secretaría del juzgado acerca de la no promoción del incidente puesta en los autos principales, por ministerio de ley adquirirá la declaración provisional carácter de definitiva.
 
 Si los objetantes fueren acreedores, ellos deberán seguir el incidente a que se refiere este artículo, a su costa; sin perjuicio de ser indemnizados hasta la concurrencia de la suma en que su gestión hubiere enriquecido a la masa del concurso. El deudor, en todo caso, será responsable personalmente de las costas de los incidentes que inicie.
 
@@ -4966,3 +4976,41 @@ DECRETO No. 1130/2010, POR EL QUE SE REFORMA EL ARTICULO 394 DEL CODIGO DE PROCE
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
