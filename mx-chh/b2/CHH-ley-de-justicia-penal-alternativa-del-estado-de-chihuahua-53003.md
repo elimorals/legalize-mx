@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-justicia-penal-alternativa-del-estado-de-chihuahua-53003
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2006-12-09"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE JUSTICIA PENAL ALTERNATIVA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -49,9 +49,13 @@ LEY DE JUSTICIA PENAL ALTERNATIVA DEL ESTADO DE CHIHUAHUA
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley tiene como finalidad regular los medios alternas de resolución de conflictos en materia penal, tales como la mediación, negociación, conciliación, entre otras, cuando esos conflictos hayan lesionado bienes jurídicos sobre los cuales puedan las personas disponer libremente, sin afectar el orden público.
+La presente Ley tiene como finalidad regular el procedimiento preprocesal que se sigue en los Centros de Justicia Alternativa donde se aplican los medios alternos de resolución de conflictos en materia penal, así como instituir la cumplimentación de los acuerdos reparatorios establecidos en el Título VII, Capítulo l, del Código de Procedimientos Penales.
 
 ###### ARTÍCULO 2.
 
@@ -59,113 +63,239 @@ Para los efectos de la presente ley, se entenderá por:
 
 I.- Ley.- La Ley de Justicia Penal Alternativa del Estado de Chihuahua;
 
-II.- Centro.- El Centro de Justicia Alternativa dependiente del Ministerio Público del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Medios Alternos.- El empleo de Técnicas de Mediación, Negociación, Conciliación y Juntas de Facilitación, para la solución de las controversias, adoptando el principio de Justicia Restaurativa;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-IV.- Principio de Justicia Restaurativa.- Todo proceso en el que la victima u ofendido y el imputado o condenado, participan conjuntamente, de forma activa en la resolución de las cuestiones derivadas del delito, en busca de un resultado restaurativo.
+II.- Centros.- Los Centros de Justicia Alternativa;
 
-V.- Resultado Restaurativo.- El acuerdo encaminado a atender las necesidades y responsabilidades individuales y colectivas de las partes y a lograr la integración de la víctima u ofendido y del infractor en la comunidad en busca de la reparación, la restitución y el servicio a la comunidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Medios Alternos.- El empleo de Técnicas de Mediación, Conciliación, Juntas de Facilitación, Justicia Restaurativa y demás formas de negociación, para la solución de las controversias;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Principio de Justicia Restaurativa.- La determinación de establecer un proceso en el que la víctima u ofendido y el imputado o condenado, participan conjuntamente, de forma activa, en la resolución de las cuestiones derivadas del delito, restaurando el balance entre ellos y la comunidad, con el fin de no desatender la necesidad de reparación de la víctima, la rectificación de la conducta delictiva y la prevención de su repetición;
+
+V.- Resultado Restaurativo.- El acuerdo encaminado a atender las necesidades y responsabilidades individuales y colectivas de las partes y a lograr la integración de la víctima u ofendido y del infractor en la comunidad en busca de la reparación, la restitución y el servicio a la comunidad;
 
 VI.- Mediación.- Técnica que facilita la comunicación entre las partes en conflicto, con el propósito de que lleguen por sí mismos, a una solución que ponga fin a la controversia;
 
-VII.- Negociación.- Proceso de comunicación y toma de decisiones entre las partes, en el cual se les asiste para elaborar el acuerdo que dé solución al conflicto o impulse un acuerdo satisfactorio entre las partes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VIII.- Conciliación.- Proceso en el que se presentan alternativas de solución a las partes en conflicto para llegar a un acuerdo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-IX.- Juntas de Facilitación.- Proceso desarrollado entre las partes, con la participación de los afectados indirecta o mediata por un conflicto, para resolverlo de manera colectiva, mediante un acuerdo.
+VII.- Conciliación.- Proceso en el que se presentan alternativas de solución a las partes en conflicto para llegar a un acuerdo;
 
-X.- Director.- Director del Centro de Justicia Alternativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI.- Personal Especializado.- Los facilitadores con habilidades y destrezas en técnicas de mediación, negociación, conciliación, entre otros, que lleven a cabo los medios alternos.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-XII.- Auxiliar.- Aquella persona con habilidades específicas que apoyen el desarrollo de los medios alternos, y autorizada conforme a esta Ley para intervenir en los medios alternos.
+VIII.- Juntas de Facilitación.- Proceso desarrollado entre las partes, con la participación indirecta o mediata de los afectados por un conflicto, para resolverlo de manera colectiva mediante un acuerdo;
 
-XIII.- Agente del Ministerio Público.- Funcionario con facultades para autorizar los actos procesales realizados con motivo de la aplicación de la justicia restaurativa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XIV.- Partes.- Las personas físicas o morales con interés legitimo que se sometan a las técnicas de los medios alternos; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-XV.- Unidad.- Unidad de Atención Temprana y Unidad de Investigación.
+IX.- Director.- Director de Justicia Alternativa;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Personal Especializado.- Los facilitadores con habilidades y destrezas en técnicas de mediación, negociación, conciliación, entre otros, que lleven a cabo los medios alternos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XI.- Auxiliar.- Aquella persona con habilidades específicas que apoyen el desarrollo de los medios alternos, y autorizada conforme a esta Ley para intervenir en los medios alternos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XII.- Agente del Ministerio público.- Funcionario con facultades para autorizar los actos procesales realizados con motivo de la aplicación de la justicia restaurativa;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XIII.- Partes.- Las personas físicas o morales con interés legítimo que se sometan a las técnicas de los medios alternos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XIV. (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+XV. (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 3.
 
-En materia penal, los medios alternos de resolución de conflictos estarán a cargo del Centro de Justicia Alternativa, dependiente del Ministerio Público del Estado, a través del personal especializado adscrito a dicho Centro, el cual se dividirá en Zonas.
+Los medios alternos de resolución de conflictos regulados por esta ley se aplicarán en los Centros de Justicia Alternativa, dependientes de las Fiscalías de Investigación y Persecución del Delito y por el personal interdisciplinario adscrito a dichos Centros.
 
-Los medios alternos de resolución de conflictos penales podrán aplicarse por el Centro de Justicia Alternativa, dependiente de la Procuraduría General de Justicia del Estado, a través del personal adscrito a dicho Centro, el cual se dividirá en zonas o bien, directamente por el Ministerio Público en cualquier etapa del procedimiento penal.
-
-Dichos medios alternos de resolución de conflictos sólo podrán recaer respecto de conductas y en los términos y condiciones que se establecen en el Código de Procedimientos Penales.
+Dichos medios alternos de resolución de conflictos sólo podrán recaer respecto de conductas y en los términos y condiciones que se establecen en el Código Penal, en el Código de Procedimientos Penales y en esta Ley.
 
 ### CAPÍTULO SEGUNDO. ORGANIZACIÓN Y FUNCIONAMIENTO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 4.
 
-El Centro estará a cargo de un Director, quien será designado por el Procurador General de Justicia.
+El Director de Justicia Alternativa, será designado por el Fiscal General.
 
-El Director se auxiliará, para el ejercicio de sus funciones, en los Titulares de Zona, Personal Especializado, Agentes de Ministerio Público y Auxiliares.
+Cada Centro estará a cargo de un Subdirector y se auxiliará, para el ejercicio de sus funciones del Personal Especializado, Agentes de Ministerio Público y Auxiliares.
+
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 5.
 
-Para ser Director se requiere:
+Para ser Director y Subdirector se requiere:
 
 I.- Poseer grado de Licenciatura o equivalente, con cédula profesional con registro federal y estatal;
 
 II.- Ser mayor de veinticinco años de edad;
 
-III.-Acreditar capacitación relacionada con la función sustantiva del Centro;
+III.- Acreditar capacitación relacionada con la función sustantiva del Centro;
 
 IV.- No haber sido sentenciado ejecutoriadamente como responsable por delito doloso; y
 
 V.- Los demás requisitos que establezca esta Ley, su reglamento y demás disposiciones que resulten aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
-El Director tendrá las siguientes facultades:
+A) El Director tendrá las siguientes facultades:
 
-I.- Representar, dirigir y vigilar el Centro, conforme a las disposiciones de esta Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Proponer a quien ostente la titularidad de la Procuraduría el personal especializado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Dirigir, vigilar y coordinar las actividades de los Centros;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Implementar los programas de capacitación y actualización para el personal del Centro;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III. - Proponer a los superiores jerárquicos la celebración de convenios de coordinación y colaboración interinstitucional;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Proponer al superior jerárquico el reglamento de esta Ley, así como las reformas que resulten conducentes en la materia; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Las demás que disponga esta Ley, su reglamento y aquellas disposiciones relacionadas con la operación y funcionamiento del Centro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VI.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+VIII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+IX.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+X. (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+B) Los subdirectores tendrán las siguientes facultades:
+
+I.- Representar, dirigir y vigilar los Centros, conforme a las disposiciones de esta Ley;
+
+II.- Proponer al Director el personal especializado;
 
 III.- Coordinar las actividades del personal del Centro;
 
-IV.- Implementar los programas de capacitación y actualización para el personal del Centro, en coordinación con el Centro de Estudios Penales y Forenses;
+IV.- Calificar la procedencia de las causas de excusa o recusación planteadas, ya sea antes del inicio del procedimiento o durante el mismo y, de proceder, designar al personal sustituto;
 
-V.- Calificar la procedencia de las causas de excusa o recusación planteadas, ya sea antes del inicio del procedimiento o durante el mismo y, de proceder, designar al personal sustituto;
+V.- Fungir como especialista cuando las necesidades del servicio lo requieran;
 
-VI.- Fungir como especialista cuando las necesidades del servicio lo requieran;
+VI.- Autorizar, bajo su responsabilidad, a los auxiliares que intervengan en un procedimiento alterno; y
 
-VII.- Proponer a los superiores jerárquicos la celebración de convenios de coordinación y colaboración interinstitucional;
+VII.- Las demás que disponga esta Ley, su reglamento y aquellas disposiciones relacionadas con la operación y funcionamiento del Centro.
 
-VIII.- Autorizar, bajo su responsabilidad, a los auxiliares que intervengan en un procedimiento alterno;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IX.- Proponer al superior jerárquico el reglamento de esta Ley, así como las reformas que resulten conducentes en la materia; y
-
-X.- Las demás que disponga esta Ley, su reglamento y aquellas disposiciones relacionadas con la operación y funcionamiento del Centro.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 7.
 
-El Centro se dividirá, por razón de territorio, en unidades de zona y los auxiliares que se requieran de acuerdo a las necesidades, las cuales estarán a cargo de los Titulares de Zona.
+Podrá haber un Centro de Justicia Alternativa en cada uno de los Distritos Judiciales del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 8.
 
-Para ser Titular de Zona se deberá cumplir con los mismos requisitos que se exigen para el Director.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 9.
 
-Los Titulares de zona tendrán las mismas facultades asignadas al Director, dentro de su respectiva circunscripción territorial.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 10.
 
-Para el cumplimiento de las funciones de las Unidades de Zona, éstas se dividirán en secciones, en razón de las técnicas de resolución de conflictos y de la clasificación especializada que se requiera, en los términos que establezca el reglamento y a la disponibilidad presupuestal.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 ###### ARTÍCULO 11.
 
 Son obligaciones del personal especializado:
 
-I.- Realizar su función en los términos del artículo 15 de esta Ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Realizar su función en los términos de esta Ley;
 
 II.- Vigilar que, en los trámites de los medios alternos en los que intervengan, no se afecten derechos de terceros, intereses de menores, de personas que no tengan la capacidad de comprender el significado del hecho o cuestiones de orden público;
 
-III.- Participar en los cursos de capacitación que implemente el Centro;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Participar en los cursos de capacitación que se implementen;
 
 IV.- Explicar el alcance de las propuestas de solución, precisándoles los derechos y obligaciones que de ellas se deriven;
 
@@ -177,61 +307,91 @@ VI.- Las demás que les fije esta ley, su reglamento y demás disposiciones apli
 
 Las cuestiones relativas a las excusas y recusaciones se atenderán en los términos y condiciones dispuestas en el reglamento de la presente Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 13.
 
-El personal del Centro de Justicia Alternativa estará sujeto a la responsabilidad administrativa y, en su caso, a los procedimientos disciplinarios establecidos en la Ley Orgánica del Ministerio Público del Estado de Chihuahua y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+El personal del Centro de Justicia Alternativa estará sujeto a la responsabilidad administrativa y, en su caso, a los procedimientos disciplinarios establecidos en la Ley Orgánica de la Fiscalía General del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 14.
 
-Corresponde al Centro:
+Corresponde a los Centros:
 
-l. Recibir a los usuarios canalizados por la Unidad de Atención Temprana;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.-Informar al usuario sobre los medios alternos como una alternativa a la Justicia Punitiva;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Atender a los usuarios canalizados por el Agente del Ministerio Público que reciba la denuncia o querella;
+
+II.- Informar al usuario sobre los medios alternos como una alternativa a la Justicia Punitiva;
 
 III.- Proponer convenios de coordinación con otras instituciones públicas o privadas, con el objeto de promover los medios alternos a que se refiere esta ley;
 
 IV.- Aplicar los criterios de oportunidad, que sean procedentes, al inicio del procedimiento penal;
 
-V.- Diseñar los mecanismos que le otorguen eficacia a los acuerdos reparatorios autorizados en el Código de Procedimientos Penales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V.- Proponer los mecanismos que le otorguen eficacia a los acuerdos reparatorios autorizados en el Código de Procedimientos Penales;
 
 VI.- Establecer un registro criminológico de los casos penales sometidos a los medios alternos;
 
-VII.- Elaborar la estadística de los acuerdos celebrados;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Elaborar la estadística de los acuerdos celebrados, en los términos y procedimientos que disponga el Centro Estatal de Estadística Criminal de la Fiscalía General;
 
 VIII.- Difundir y divulgar los servicios que proporciona la justicia penal alternativa; y
 
 IX.- Las demás que establezca esta Ley, su reglamento y demás disposiciones aplicables.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
-Los medios alternos se proporcionarán en forma profesional, imparcial, confidencial, equilibrada, gratuita y con perspectiva de género.
+Los medios alternos se proporcionarán en base a los principios de profesionalismo, imparcialidad, confidencialidad, gratuidad y con perspectiva de género.
 
 Para acceder a estos medios es necesario contar con la voluntad de las partes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El personal que viole los principios establecidos por este artículo se hará acreedor a las sanciones contenidas en la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ### CAPÍTULO TERCERO. DE LA UNIDAD DE ATENCIÓN TEMPRANA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 16.
 
-La Unidad de Atención Temprana será la encargada de canalizar de manera inmediata las denuncias o querellas que se presenten.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-Será facultad de la misma remitir los asuntos que se le presenten al área que corresponda, conforme lo siguiente:
-
-I.- Al Centro de Justicia Alternativa, cuando se trate de delitos imprudenciales en los que proceda el perdón de la víctima u ofendido, delitos de contenido patrimonial que se hayan cometido sin violencia sobre las personas, delitos que admitan presumiblemente la sustitución de sanciones o condena condicional, delitos cuya pena media aritmética no exceda de cinco años de prisión y carezcan de trascendencia social.
-
-II.- A las Unidades de Investigación, en los delitos que no estén contemplados en la fracción anterior.
-
-III.- A las instancias públicas o privadas cuando se trate de hechos que por carecer de elementos constitutivos de delito no puedan considerarse como tales o que de los mismos se desprenda que es competencia de otra instancia.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 17.
 
-El usuario será atendido en primera instancia por el personal de la Unidad, ante quien expondrá en forma breve, los hechos de la denuncia o querella y recibirá la orientación explicativa de les servicios que ofrece el Centro y la Unidad de Investigación Criminal.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 18.
 
-En la Unidad de Atención Temprana, se les comunicará a los usuarios, si en términos de lo dispuesto por este ordenamiento, los hechos planteados son susceptibles de ser atendidos a través de los Medios Alternos.
-
-La información que proporcionen los usuarios al personal de la Unidad de Atención Temprana, deberá capturarse en medios electrónicos.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 ### CAPÍTULO CUARTO. DE LOS MEDIOS ALTERNOS ANTE EL CENTRO DE JUSTICIA PENAL ALTERNATIVA
 
@@ -255,17 +415,25 @@ VII.- Legalidad. Sólo serán objeto de éstos, los conflictos derivados de los 
 
 VIII.- Honestidad. En la aplicación se valorarán las capacidades y limitaciones del personal, para conducirlos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 20.
 
-Los interesados podrán promover la aplicación de los medios alternos por escrito, ante la Unidad de Atención Temprana.
+Los interesados podrán promover la aplicación de los medios alternos por escrito, ante el Agente del Ministerio Público que reciba la denuncia o querella.
 
 ###### ARTÍCULO 21.
 
 Remitida la solicitud al Centro, el personal especializado examinará el caso y determinará el medio alterno aplicable al mismo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 22.
 
-El procedimiento ante el Centro iniciará con la comparecencia inicial documentada a través de medios electrónicos. Esta contendrá: una descripción breve de los datos esenciales del hecho planteado y los nombres y domicilios de los involucrados en el caso penal.
+El procedimiento ante el Centro iniciará con la comparecencia en el módulo de la unidad al delito correspondiente, documentada a través de medios electrónicos. Esta contendrá: una descripción de los datos del hecho planteado, los nombres y domicilios de los involucrados en el caso penal.
 
 ###### ARTICULO 23.
 
@@ -273,11 +441,15 @@ El facilitador encargado del caso procederá de inmediato a elaborar la invitaci
 
 La primera sesión se programará dentro de un plazo que no excederá de tres días hábiles.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 24.
 
-Si quien haya sido invitado a citado manifiesta su negativa para participar en el medio alterno, se canalizará de inmediato el caso a la unidad de investigación criminal que corresponda.
+En el caso de que quien haya sido invitado o citado manifiesta su negativa para participar en el medio alterno, se canalizará de inmediato el caso a la unidad de investigación criminal que corresponda.
 
-Después de cerrado el caso por la causa señalada en el párrafo anterior, si persiste el interés de ambas partes, se reabrirá y se señalará día y hora de la sesión, la cual sólo se llevará a cabo por única vez.
+En el supuesto de que persista el interés de ambas partes, se señalará día y hora de la sesión, la cual sólo se llevará a cabo por única vez.
 
 ###### ARTÍCULO 25.
 
@@ -293,9 +465,13 @@ Para la resolución de los hechos planteados se podrán agotar uno o varios medi
 
 Los medios alternos que procure el Agente del Ministerio. Público, en cualquier etapa del procedimiento penal, se podrán tramitar con el apoyo del personal especializado del Centro.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 28.
 
-Cuando el Ministerio Público aplique medios alternos de solución de conflictos, no se sujetará a formalidades especiales, salvo lo dispuesto en el artículo siguiente.
+Cuando en la etapa preprocesal el Ministerio Público aplique medios alternos de solución de conflictos, no se sujetará a formalidades especiales, salvo en el medio alterno de Justicia Restaurativa.
 
 ###### ARTÍCULO 29.
 
@@ -323,7 +499,11 @@ VII.- La firma del personal que haya intervenido en el trámite y el sello de la
 
 VIII.- El señalamiento expreso de los efectos del incumplimiento.
 
-En la conciliación y la negociación las partes deberán garantizar el cumplimiento del acuerdo a juicio del personal especializado y Agentes del Ministerio Público, mediante cualquiera de las formas establecidas por la legislación civil.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En la conciliación las partes deberán garantizar el cumplimiento del acuerdo a juicio del personal especializado y Agentes del Ministerio Público, mediante cualesquiera de las formas establecidas por la legislación civil.
 
 Se entregará un ejemplar del acuerdo a cada una de las partes intervinientes, conservándose uno en los archivos que corresponda.
 
@@ -343,9 +523,13 @@ V.- Por la negativa de las partes para la suscripción del acuerdo en los térmi
 
 VI.- Por resolución del Director o del titular de Zona, cuando de la conducta de las partes se desprenda que no hay voluntad para llegar a un arreglo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 32.
 
-Si las partes no lIegaren a un acuerdo, el asunto se canalizará ante la unidad de investigación correspondiente.
+En la etapa preprocesal, en el supuesto de que las partes no lIegaren a un convenio, el asunto se canalizará ante la unidad de investigación correspondiente.
 
 ### CAPÍTULO SÉPTIMO. DE LAS PARTES EN LOS MEDIOS ALTERNOS
 
@@ -363,7 +547,11 @@ I.- Solicitar los medios alternos en los términos de esta Ley, su reglamento y 
 
 II.- Ser atendidos por el personal especializado designado para intervenir en el trámite solicitado;
 
-III.- Solicitar al Director, o en su caso, al Titular de la Zona, la sustitución del personal especializado cuando exista causa justificada para ello, o bien, recusarlo;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Solicitar al Director, o en su caso, al Subdirector, la sustitución del personal especializado cuando exista causa justificada para ello, o bien, recusarlo;
 
 IV.- De ser procedente, solicitar la intervención de auxiliares; y
 
@@ -381,17 +569,31 @@ III.- Las demás que establezca esta Ley, su reglamento y demás disposiciones a
 
 ### CAPÍTULO OCTAVO. DE LOS CONVENIOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 36.
 
-La Procuraduría General de Justicia del Estado, podrá celebrar convenios con las minorías étnicas, para incorporarlos como auxiliares en el Centro de Justicia Alternativa; a efecto de que participen en forma activa en la resolución de conflictos relacionados con sus grupos, en busca de un resultado restaurativo.
+La Fiscalía General podrá solicitar a los representantes de las minorías étnicas, a efecto de que participen en forma activa en la resolución de conflictos relacionados con sus grupos, en busca de un resultado restaurativo, incorporándolos como auxiliares en los Centros de Justicia Alternativa.
+
+El convenio o acuerdo elaborado traerá aparejada ejecución para su exigibilidad, la que se llevará a cabo a través de los Jueces de Ejecución de Penas, previa certificación del Subdirector del Centro. Enviada a dichos Jueces, estos remitirán el convenio a la Fiscalía Especializada de Ejecución de Penas y Medidas Judiciales con el fin de que se ejecute.
+
+En el supuesto de incumplimiento del convenio, quedarán a salvo los derechos del afectado para que los haga valer en la vía y forma correspondiente, y el Ministerio Público deberá continuar con la etapa de investigación.
+
+No tendrán derecho a celebrar acuerdos reparatorios ni a los medios alternos de solución de conflictos las personas que estén sujetos a investigación, a proceso penal o tengan antecedentes de incumplimiento a convenios anteriores.
 
 ###### ARTÍCULO 37.
 
 El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y el término para la prescripción de la acción penal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 38.
 
-El cumplimiento del acuerdo extinguirá la acción penal.
+El cumplimiento del convenio o acuerdo, tanto en la etapa preprocesal como en el procedimiento penal, en tratándose de los acuerdos reparatorios, extinguirá la acción penal. La Fiscalía Especializada de Ejecución de Penas y Medidas Judiciales comprobará, a través del mecanismo que se establezca para ello en el reglamento respectivo, dicho cumplimiento, y tal dependencia hará del conocimiento del Juez de Ejecución de Penas.
 
 ## TRANSITORIOS
 
@@ -428,3 +630,43 @@ LIC. JOSÉ REYES BAEZA TERRAZAS.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRÍGUEZ MORENO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
