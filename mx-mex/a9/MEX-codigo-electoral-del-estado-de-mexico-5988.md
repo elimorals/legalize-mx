@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-5988"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-03-02"
-last_updated: "2009-04-02"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ELECTORAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el sábado 2 de marzo de 1996.
 
@@ -373,9 +373,9 @@ II. Haber obtenido, al menos, el 1.5% de la votación válida emitida en el Esta
 
 Para efectos de la elección de diputados por el principio de representación proporcional, se constituirá una circunscripción plurinominal que comprenderá los cuarenta y cinco distritos de mayoría relativa en que se divide el territorio del Estado.
 
-> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-Cada partido político en lo individual, independientemente de participar coaligado o postulando candidaturas comunes, deberá registrar una lista con ocho fórmulas de candidatos, con sus propietarios y suplentes a diputados por el principio de representación proporcional. En la lista podrán incluir para su registro en un mismo proceso electoral, hasta cuatro fórmulas de las postuladas para diputados por el principio de mayoría relativa.
+Cada partido político en lo individual, independientemente de participar coaligado, deberá registrar una lista con ocho fórmulas de candidatos, con sus propietarios y suplentes a diputados por el principio de representación proporcional. En la lista podrán incluir para su registro en un mismo proceso electoral, hasta cuatro fórmulas de las postuladas para diputados por el principio de mayoría relativa.
 
 > <small>(ADICIONADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -383,9 +383,7 @@ Para la asignación de diputados de representación proporcional, se seguirá el
 
 La asignación de diputados según el principio de representación proporcional se realizará por el Consejo General del Instituto, siguiendo el procedimiento establecido en este Código.
 
-### CAPITULO CUARTO. De la Representación Proporcional para
-
-la Integración de los Ayuntamientos
+### CAPITULO CUARTO. De la Representación Proporcional para la Integración de los Ayuntamientos
 
 ###### Artículo 23.
 
@@ -1065,9 +1063,15 @@ La forma de asignar y distribuir la cantidad resultante será la siguiente:
 
 2. El restante 85% se distribuirá en forma proporcional directa de la votación válida efectiva de cada partido político, en la última elección de diputados locales por el principio de mayoría relativa.
 
-b) El financiamiento para la obtención del voto en campañas electorales, será el equivalente al doble del monto de financiamiento que corresponda a cada partido político por actividades ordinarias, durante el año del proceso;
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-El financiamiento público para la obtención del voto durante los procesos electorales, será entregado en parcialidades de la siguiente manera: 40% en la fecha del otorgamiento del registro de los candidatos que correspondan y dos exhibiciones del 30%, que se entregarán a más tardar los días vigésimo y cuadragésimo posteriores al día del inicio de las campañas electorales, respectivamente.
+b)El financiamiento para la obtención del voto en campañas electorales, será el equivalente al ciento ochenta por ciento del monto del financiamiento que corresponda a cada partido político por actividades ordinarias, durante el año del proceso, el cual deberá aplicarse precisamente al desarrollo de las actividades directamente relacionadas con la obtención del voto en el proceso electoral de que se trate.
+
+El Consejo General, a través del Órgano Técnico de Fiscalización, vigilará que los partidos destinen dicho financiamiento exclusivamente a las actividades señaladas en el párrafo inmediato anterior. Las cantidades no ejercidas conforme a lo señalado, deberán reintegrarse a la Secretaría de Finanzas del Gobierno del Estado.
+
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El financiamiento público para la obtención del voto durante los procesos electorales, será entregado en parcialidades de la siguiente manera: 40% en la fecha del otorgamiento del registro de los candidatos que correspondan y dos exhibiciones del 30%, que se entregarán un día después de transcurridos el primero y el segundo tercios de las campañas electorales, respectivamente.
 
 c) Adicionalmente se otorgará a los partidos políticos, financiamiento para la organización de sus procesos internos de selección de candidatos, equivalente al 5% del monto total que resulte por concepto de financiamiento para la obtención del voto. Esta cantidad será asignada y distribuida en la proporción establecida en los numerales 1 y 2 del inciso a) de esta fracción.
 
@@ -1075,7 +1079,9 @@ El financiamiento para la organización de procesos internos de selección de ca
 
 III. Adicionalmente a lo establecido en las fracciones anteriores, los partidos políticos que hubieren obtenido su registro con fecha posterior a la última elección y los que lo hubieren obtenido antes de la elección pero no hubiesen participado con motivo de las restricciones establecidas en el artículo 37 de este Código, tendrán derecho a que se les otorgue financiamiento público conforme a lo siguiente:
 
-Se le otorgará a cada partido político el 2% del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como en el año de la elección, para gastos de obtención del voto una cantidad adicional equivalente al doble del financiamiento que le corresponda para el sostenimiento de actividades ordinarias;
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Se le otorgará a cada partido político el 2% del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo, así como en el año de la elección, para gastos de obtención del voto una cantidad adicional equivalente al ciento ochenta por ciento del monto del financiamiento que le corresponda para el sostenimiento de actividades ordinarias;
 
 IV. Si en las elecciones locales de Gobernador, diputados de mayoría o ayuntamientos, un partido político no alcanza el 1.5% de la votación válida emitida en el Estado, no disfrutará del financiamiento público;
 
@@ -1241,7 +1247,9 @@ a) Ser ciudadano mexicano por nacimiento;
 
 b) Estar en pleno ejercicio de sus derechos políticos;
 
-c) Tener al menos veinticinco años cumplidos;
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE 2010)</small>
+
+c) Tener al menos treinta años cumplidos;
 
 d) Haber residido en el Estado durante los tres años previos a la designación;
 
@@ -1255,9 +1263,13 @@ h) No ser consejero electoral del Consejo General del Instituto, salvo que se ha
 
 i) Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-j) Contar al momento de su designación con experiencia profesional en materia electoral de al menos tres años y preferentemente conocimiento en el control, manejo o fiscalización de recursos;
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-k) Contar al día de su designación, con antigüedad mínima de tres años, con título profesional, de nivel licenciatura, expedido por autoridad o institución legalmente facultada para ello; y
+j) Contar al momento de su designación con experiencia profesional en materia contable, de auditoría o fiscalización en el ámbito político-electoral, debiendo comprobar en estos rubros una antigüedad de al menos tres años;
+
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+k) Contar al día de su designación con título profesional en áreas contable-administrativas de nivel licenciatura, con una antigüedad mínima de tres años, expedido por autoridad o institución legalmente facultada para ello; y
 
 I) No pertenecer o haber pertenecido en los tres años anteriores a su designación a despachos de consultaría o auditoria que hubieren prestado sus servicios a algún partido político.
 
@@ -1281,7 +1293,11 @@ f) Requerir a las personas físicas o morales, públicas o privadas, por conduct
 
 g) Llevar a cabo las auditorías ordinarias y extraordinarias que se requieran de acuerdo a la normativa vigente, a los partidos políticos, cuando así lo requiera el Consejo General;
 
-h) Presentar al Consejo General los informes de resultados y proyectos de dictamen sobre las auditorías y verificaciones practicadas a los partidos políticos y a las organizaciones que pretendan convertirse como tales. Los informes contendrán, al menos el resultado y conclusiones, los errores e irregularidades detectadas, las aclaraciones o rectificaciones y las recomendaciones contables, además de la propuesta de sanciones, que en su caso procedan, conforme a la normatividad aplicable;
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+h) Presentar al Consejo General los informes de resultados y proyectos de dictamen sobre las auditorías y verificaciones practicadas a los partidos políticos y a las organizaciones que pretendan convertirse como tales. Los informes contendrán, al menos, el resultado y conclusiones, los errores e irregularidades detectadas, las aclaraciones o rectificaciones y las recomendaciones contables, conforme a la normatividad aplicable.
+
+Analizados y, en su caso, aprobados los informes y dictámenes por parte del Consejo General, la Secretaría del Consejo General, elaborará el proyecto de dictamen correspondiente a las sanciones que hubieren sido objeto de resolución por parte del primero, para los efectos de lo previsto por las fracciones XXXV y XXXV Bis del artículo 95 del presente Código;
 
 i) Proporcionar a los partidos políticos orientación, asesoría y capacitación necesaria para el cumplimiento de las obligaciones en materia de fiscalización consignadas en este Código;
 
@@ -1353,15 +1369,15 @@ El Consejo General realizará monitoreos cuantitativos y cualitativos y el segui
 
 El Instituto gestionará ante los medios de comunicación social con cobertura en el territorio estatal, la transmisión de programas en formatos de debate, entrevista, difusión de plataformas electorales, entre otros, en apoyo al fortalecimiento a la cultura político democrática.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEXTO. De las Coaliciones, Candidaturas Comunes y Fusiones
+### CAPITULO SEXTO. De las Coaliciones y Fusiones
 
-> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 67.
 
-En los procesos electorales los partidos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos. Una vez otorgado por la autoridad electoral el registro correspondiente de los candidatos, no podrá modificarse la modalidad de postulación.
+En los procesos electorales los partidos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos o en coalición con otros partidos. Una vez otorgado por la autoridad electoral el registro correspondiente de los candidatos, no podrá modificarse la modalidad de postulación.
 
 ###### Artículo 68.
 
@@ -1477,31 +1493,9 @@ La coalición deberá formalizarse mediante convenio, que se presentará para su
 
 Una vez registrado el convenio de coalición se dispondrá su publicación en la Gaceta del Gobierno.
 
-> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
-
 ###### Artículo 76.
 
-Por candidatura común se entiende la postulación de un mismo candidato, una misma planilla o fórmula de candidatos, en una demarcación electoral, por dos o más partidos políticos, designados previo acuerdo estatutario que emitan los partidos políticos respectivos. En ningún caso, podrán los partidos registrar bajo esta modalidad candidatos postulados por una coalición.
-
-La candidatura común deberá sujetarse a las siguientes reglas:
-
-I. La solicitud de registro de la candidatura común deberá presentarse ante el Consejo General a más tardar tres días antes de la fecha en la que dicho órgano sesione con el objeto de resolver sobre el registro de candidatos de la elección de que se trate;
-
-II. Deberá existir consentimiento escrito por parte de los ciudadanos postulados. En su caso, la postulación de candidatos a diputados o miembros de los ayuntamientos que se promuevan bajo esta modalidad, deberán incluir fórmulas o planillas idénticas y completas;
-
-III. Los partidos políticos que postulen candidaturas comunes, conservarán cada uno de sus derechos, obligaciones y prerrogativas que les otorga este Código;
-
-IV. El total de gastos de las campañas de candidatos postulados en candidatura común, no podrá rebasar el tope de gastos de campaña que fije el Consejo General, en términos del artículo 160 de este Código; y
-
-V. El cómputo de la votación obtenida por el candidato, planilla o fórmula común, se sujetará al siguiente procedimiento:
-
-a) Si la boleta apareciera marcada en más de uno de sus respectivos emblemas, se asignará el voto al candidato, fórmula o planilla común, en el apartado correspondiente del acta de escrutinio y cómputo, pero no se computará a favor de partido alguno.
-
-b) Los demás votos se computarán a favor de cada uno de los partidos políticos y se sumarán a favor del candidato, fórmula o planilla común; y
-
-c) Los votos obtenidos por cada partido político les serán computados para determinar el porcentaje de la votación total correspondiente, para los efectos legales a que haya lugar.
-
-Para los efectos de la asignación de diputados y miembros de los ayuntamientos por el principio de representación proporcional, se estará a lo dispuesto por este Código.
+(DEROGADO, G.G. 25 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 77.
 
@@ -1623,7 +1617,7 @@ II. Un representante, con derecho a voz y sin voto, de cada uno de los partidos 
 
 III. El Secretario Ejecutivo General del Instituto Electoral del Estado de México, quien será electo por la Legislatura del Estado, a propuesta del Consejo General aprobada por al menos cinco de sus integrantes. Durará en su encargo cuatro años pudiendo ser reelecto por un periodo más.
 
-En los casos de ausencia que exceda de treinta días, el Secretario Ejecutivo General del Instituto, será sustituido por el servidor electoral que determine el Consejo General de entre los integrantes de la Junta General. Cuando la ausencia exceda de ese término, el Consejo General lo hará del conocimiento de la Legislatura, para los .efectos legales conducentes.
+En los casos de ausencia que exceda de treinta días, el Secretario Ejecutivo General del Instituto, será sustituido por el servidor electoral que determine el Consejo General de entre los integrantes de la Junta General. Cuando la ausencia exceda de ese término, el Consejo General lo hará del conocimiento de la Legislatura, para los efectos legales conducentes.
 
 Los órganos directivos estatales de los partidos políticos podrán sustituir en todo tiempo a su representante, dando aviso por escrito al Presidente del Consejo General.
 
@@ -1833,7 +1827,13 @@ XXXIV. Recibir y, en su caso, aprobar las solicitudes de acreditación de los ci
 
 El Instituto autorizará la participación como observadores del proceso electoral a visitantes extranjeros que acrediten su estancia legal en el país y el cumplimiento de los lineamientos que al efecto determine el Consejo General;
 
-XXXV. Aplicar las sanciones que le competan de acuerdo con este Código, a los partidos políticos, coaliciones, dirigentes o candidatos, y a quienes infrinjan las disposiciones de este Código;
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXXV. Conocer y resolver sobre las sanciones que le corresponda aplicar a los partidos políticos, coaliciones, dirigentes, candidatos o precandidatos, y a quienes infrinjan las disposiciones de este Código, así como determinar e individualizar cada una de ellas, debiendo considerar las circunstancias de modo, tiempo y lugar para la ejecución de la infracción, la gravedad de la falta y el beneficio obtenido;
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXXV Bis. Aplicar, en los términos de la fracción anterior, las sanciones respectivas;
 
 XXXVI. Conocer y resolver los medios de impugnación previstos en este Código contra los actos y las resoluciones de los órganos distritales y municipales del Instituto;
 
@@ -1912,6 +1912,10 @@ XII. Las demás que le confieran este Código y las disposiciones relativas.
 Corresponde al Secretario del Consejo General:
 
 I. Auxiliar al propio Consejo y a su Presidente en el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I Bis. Elaborar el proyecto de dictamen de sanciones que tengan su origen en la resolución recaída a los informes y proyectos de dictamen a que se refiere la fracción II, inciso h), del artículo 62 del presente Código, para los efectos legales correspondientes;
 
 II. Preparar el orden del día de las sesiones del Consejo, declarar la existencia del quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la aprobación del propio Consejo;
 
@@ -1997,9 +2001,7 @@ XII. Elaborar los dictámenes con proyecto de resolución en los procedimientos 
 
 XIII. Las demás que le confiera este Código, el Consejo General o su Presidente.
 
-### CAPITULO QUINTO. Del Director General y
-
-del Secretario General del Instituto
+### CAPITULO QUINTO. Del Director General y del Secretario General del Instituto
 
 > <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2263,7 +2265,9 @@ III. Apoyar al Secretario Ejecutivo General en la prestación de servicios de as
 
 IV. Auxiliar a la Secretaría Ejecutiva General en el trámite, substanciación y seguimiento de los medios de impugnación electorales y las quejas administrativas;
 
-V. Cerciorarse, previo a la sesión correspondiente del Consejo General, que las solicitudes de sustitución de candidatos presentadas por los partidos o coaliciones, no impliquen un cambio en la modalidad de postulación registrada, ni discrepancia o diferencia en las fórmulas o planillas registradas por dos o más partidos en candidaturas comunes;
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V. Cerciorarse, previo a la sesión correspondiente del Consejo General, que las solicitudes de sustitución de candidatos presentadas por los partidos o coaliciones, no impliquen un cambio en la modalidad de postulación registrada;
 
 VI. Elaborar o en su caso, revisar los proyectos de manuales de organización, reglamentos, lineamientos y demás ordenamientos internos, necesarios para el buen funcionamiento del Instituto;
 
@@ -2951,9 +2955,7 @@ Los Consejos Distritales y Municipales, dentro de las 24 horas siguientes a su i
 
 Las autoridades estatales y municipales están obligadas a proporcionar a los órganos electorales, a solicitud de los presidentes respectivos, los informes, las certificaciones y el auxilio de las instituciones de seguridad pública para el cumplimiento de sus funciones y resoluciones.
 
-## TITULO CUARTO. De la Remoción de Consejeros
-
-y Presidentes de Consejos
+## TITULO CUARTO. De la Remoción de Consejeros y Presidentes de Consejos
 
 > <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -3033,9 +3035,7 @@ La etapa de resultados y declaraciones de validez de la elección de Gobernador,
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MARZO DE 2005)</small>
 
-### CAPITULO PRIMERO. De las precampañas en los procesos
-
-internos de selección de candidatos
+### CAPITULO PRIMERO. De las precampañas en los procesos internos de selección de candidatos
 
 > <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -3045,7 +3045,9 @@ Precandidato es el ciudadano que en el proceso de selección interna de un parti
 
 Precampañas son los actos realizados por los partidos políticos, dirigentes, aspirantes a candidatos, militantes, afiliados o simpatizantes, en los tiempos establecidos y regulados en el presente Código y sus Estatutos, dentro de sus procesos internos de selección de candidatos a los distintos cargos de elección popular.
 
-La publicación de la convocatoria por parte de los partidos políticos para el desarrollo de sus procesos de selección interna de candidatos y otros actos preparatorios que no impliquen actos de precampaña, se podrán realizar desde el mes anterior al del inicio de los procesos electorales.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La publicación de la convocatoria por parte de los partidos políticos para el desarrollo de sus procesos de selección interna de candidatos y otros actos preparatorios que no impliquen actos de precampaña, se podrán realizar desde los dos meses anteriores al del inicio de la etapa de precampañas a que se refiere el artículo 144 F del presente Código.
 
 > <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -3079,9 +3081,9 @@ Quienes incurran en actos anticipados de campaña o incumplan con las disposicio
 
 Independientemente de las sanciones señaladas en el párrafo anterior, el Instituto queda facultado para ordenar la suspensión inmediata de los actos anticipados de campaña.
 
-> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-Artículo 144 F.- En el caso de la elección de Gobernador, las precampañas sólo podrán iniciarse a partir del dos de febrero y deberán concluir a más tardar el quince de marzo del año de la elección. Las precampañas en las elecciones de diputados y miembros de ayuntamientos sólo podrán iniciarse a partir del dos de marzo y deberán concluir a más tardar el treinta y uno de marzo del año de la elección. Dentro de los plazos antes referidos, los partidos políticos podrán determinar libremente la duración de sus precampañas en sus procesos internos de selección de candidatos.
+Artículo 144 F.- La duración máxima de las precampañas para las elecciones de Gobernador, diputados y miembros de ayuntamientos será de diez días y deberán realizarse dentro del cuadragésimo quinto y el vigésimo quinto día anterior al del inicio del plazo para el registro de las candidaturas ante el órgano electoral respectivo. Dentro de los plazos antes referidos, los partidos políticos podrán determinar libremente la duración de sus precampañas en los procesos internos de selección de candidatos.
 
 > <small>(ADICIONADO, P.O. 11 DE MARZO DE 2005)</small>
 
@@ -3159,25 +3161,23 @@ Del registro se expedirá constancia.
 
 Los plazos y órganos competentes para la recepción de la solicitud de registro de candidaturas son los siguientes:
 
-> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-l. Para candidatos a Gobernador, del seis al quince de abril del año de la elección, ante el Consejo General;
+l. Para candidatos a Gobernador, el plazo dará inicio el décimo cuarto día anterior a aquél en que tenga lugar la sesión a que se refiere el párrafo cuarto del artículo 149 y concluirá el cuarto día anterior a aquél en que dicha sesión tenga lugar, ante el Consejo General;
 
-> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-II. Para diputados por el principio de mayoría relativa, del veinte de abril al dos de mayo del año de la elección, ante los Consejos Distritales respectivos;
+II. Para diputados por el principio de mayoría relativa, el plazo dará inicio el décimo cuarto día anterior a aquél en que tenga lugar la sesión a que se refiere el párrafo quinto del artículo 149 y concluirá el cuarto día anterior a aquél en que dicha sesión tenga lugar, ante los consejos distritales respectivos;
 
-> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-III. Para miembros de los ayuntamientos, del veinte al veintiocho de abril del año de la elección, ante los consejos municipales respectivos;
+III. Para miembros de los ayuntamientos, el plazo dará inicio el duodécimo día anterior a aquél en que tenga lugar la sesión a que se refiere el párrafo sexto del artículo 149 y concluirá el cuarto día anterior a aquél en que dicha sesión tenga lugar, ante los consejos municipales respectivos;
 
-> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Para diputados por el principio de representación proporcional, del veinte de abril al dos de mayo del año de la elección, ante el Consejo General; y
+IV. Para diputados por el principio de representación proporcional, el plazo dará inicio el décimo cuarto día anterior a aquél en que tenga lugar la sesión a que se refiere el párrafo cuarto del artículo 149 y concluirá el cuarto día anterior a aquél en que dicha sesión tenga lugar, ante el Consejo General; y
 
-> <small>(ADICIONADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
-
-V. Tratándose de candidaturas comunes, todas las solicitudes de registro deberán presentarse ante el Consejo General, a más tardar, el día dieciseis de abril del año de la elección de Gobernador, y en su caso el cuatro de mayo en las elecciones de diputados y ayuntamientos.
+V. (DEROGADA, G.G. 25 DE SEPTIEMBRE DE 2010) (REPUBLICADA, G.G. 25 DE SEPTIEMBRE DE 2010)
 
 El Instituto difundirá ampliamente la apertura del registro de las candidaturas y los plazos a que se refiere este artículo.
 
@@ -3211,11 +3211,17 @@ Si de la verificación realizada se advierte que hubo omisión de uno o varios r
 
 Cualquier solicitud o documentación presentada fuera de los plazos previstos, será desechada de plano y no se registrará la candidatura o las candidaturas.
 
-El Consejo General celebrará sesión para registrar las candidaturas para Gobernador el dieciocho de abril del año de la elección; para el caso del registro de candidatos a diputados por el principio de representación proporcional, el seis de mayo del año de la elección.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-Los consejos distritales celebrarán sesión para registrar las candidaturas para diputados por el principio de mayoría relativa el seis de mayo del año de la elección.
+El Consejo General celebrará sesión para registrar las candidaturas para Gobernador el cuadragésimo noveno día anterior al de la jornada electoral. Para el caso del registro de candidatos a diputados por el principio de representación proporcional, la sesión del Consejo General tendrá lugar el trigésimo noveno día anterior al de la jornada electoral.
 
-Los consejos municipales celebrarán sesión para registrar las planillas para miembros de los ayuntamientos el seis de mayo del año de la elección.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Los consejos distritales celebrarán sesión para registrar las candidaturas para diputados por el principio de mayoría relativa el trigésimo noveno día anterior al de la jornada electoral.
+
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Los consejos municipales celebrarán sesión para registrar las planillas para miembros de los ayuntamientos el trigésimo noveno día anterior al de la jornada electoral.
 
 Los consejos distritales y municipales comunicarán de inmediato al Consejo General el acuerdo relativo al registro de candidaturas, fórmulas o planillas que hayan realizado durante la sesión a que se refiere el presente artículo.
 
@@ -3233,9 +3239,9 @@ La sustitución de candidatos deberán solicitarla por escrito los partidos pol�
 
 I. Dentro del plazo establecido para el registro de candidatos, podrán sustituirse libremente;
 
-> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia. Si un partido, obtuvo el registro de sus candidatos postulándolos por sí mismo, en coalición o en candidatura común con otros partidos, en ningún caso la sustitución podrá provocar un cambio en la modalidad de participación. Para la corrección o sustitución, en su caso, de las boletas electorales, se estará a lo dispuesto en este Código; y
+II. Vencido el plazo a que se refiere la fracción anterior, exclusivamente podrán sustituirlos por causas de fallecimiento, inhabilitación, incapacidad o renuncia. Si un partido, obtuvo el registro de sus candidatos postulándolos por sí mismo o en coalición con otros partidos, en ningún caso la sustitución podrá provocar un cambio en la modalidad de participación. Para la corrección o sustitución, en su caso, de las boletas electorales, se estará a lo dispuesto en este Código; y
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -3335,17 +3341,23 @@ Una vez integrado el expediente de queja o investigación correspondiente, en el
 
 En la colocación de propaganda electoral, los partidos y candidatos observarán las siguientes reglas:
 
-I. Podrá colgarse en bastidores, mamparas y en elementos del equipamiento urbano, siempre que no se dañe, se impida la visibilidad de conductores de vehículos o la circulación de peatones;
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I. No podrá colgarse, colocarse, fijarse, adherirse o pintarse en elementos del equipamiento urbano ni obstaculizar en forma alguna la visibilidad de conductores de vehículos, la circulación de peatones o los señalamientos de tránsito;
 
 II. Podrá colocarse en inmuebles de propiedad privada, siempre que medie permiso escrito del propietario;
 
 III. Podrá fijarse en lugares de uso común que determinen los Consejos Municipales o Distritales, previo acuerdo con las autoridades correspondientes y conforme a las bases que los propios Consejos establezcan;
 
-IV. No podrá adherirse o pintarse en elementos del equipamiento urbano, carretero o ferroviario ni en accidentes geográficos, cualquiera que sea su régimen jurídico;
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+IV. No podrá colgarse, colocarse, fijarse, proyectarse, adherirse o pintarse en elementos del equipamiento carretero o ferroviario ni en accidentes geográficos, cualquiera que sea su régimen jurídico. Espacios los cuales deberán omitir los ayuntamientos en el catalogo de lugares de uso común;
 
-V. No podrá colocarse, colgarse, fijarse, en monumentos, construcciones de valor histórico o cultural, plazas públicas principales, edificios escolares, árboles o reservas ecológicas, ni en oficinas, edificios o locales ocupados por los poderes públicos, ni en edificios de organismos descentralizados del gobierno federal, estatal o municipal o en vehículos oficiales. Tampoco podrá distribuirse en ningún tipo de oficina gubernamental de cualquier nivel en los tres órdenes de gobierno;
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V. No podrá colocarse, colgarse, fijarse, proyectarse, adherirse o pintarse en monumentos, construcciones de valor histórico o cultural, plazas públicas principales, edificios escolares, árboles o reservas ecológicas, ni en oficinas, edificios o locales ocupados por los poderes públicos, ni en edificios de organismos descentralizados del gobierno federal, estatal o municipal o en vehículos oficiales. Tampoco podrá distribuirse en ningún tipo de oficina gubernamental de cualquier nivel en los tres órdenes de gobierno. Espacios los cuales deberán omitir los ayuntamientos en el catalogo de lugares de uso común.
+
+La autoridad electoral deberá asegurar las condiciones de equidad en la colocación de la propaganda política;
 
 VI. No podrán emplearse sustancias tóxicas ni materiales que produzcan un riesgo directo para la salud de las personas o que contaminen el medio ambiente.
 
@@ -3431,7 +3443,9 @@ III. Gastos de propaganda en prensa y de producción de mensajes para difundirse
 
 El Instituto realizará monitoreos de medios de comunicación electrónicos e impresos, públicos y privados, durante el período de precampaña y campaña electoral, o antes si así lo solicita un partido político. Los monitoreos tendrán como fin garantizar la equidad en la difusión de los actos proselitistas de los partidos, coaliciones y candidatos. El monitoreo de medios servirá para apoyar la fiscalización de los partidos políticos y para prevenir que se rebasen los topes de campaña. El Instituto podrá auxiliarse de empresas externas para realizar dicho monitoreo.
 
-El Instituto realizará monitoreos de la propaganda de los partidos políticos colocada en bardas, anuncios espectaculares, postes, unidades de servicio público, y todo tipo de equipamiento utilizado para difundir mensajes.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El Instituto realizará monitoreos de la propaganda de los partidos políticos colocada en todo tipo de espacio o equipamiento utilizado para difundir mensajes.
 
 El resultado de los monitoreos se harán públicos en los términos que determine el Consejo General.
 
@@ -3481,7 +3495,9 @@ El procedimiento para la integración de las Mesas Directivas de Casilla será e
 
 Dentro de los treinta días siguientes al del inicio del proceso electoral, el Consejo General sorteará un mes del calendario que, junto con los que le sigan en su orden, serán tomados como base para la insaculación de los ciudadanos que integrarán las mesas directivas de casilla.
 
-Durante el mes de febrero del año de la elección, el Consejo General procederá a insacular, de las listas nominales de electores, a un 10% de ciudadanos por cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, el Consejo General podrá apoyarse en la información de los listados nominales de los centros de cómputo del Instituto Federal Electoral, o en su caso, del Instituto Electoral del Estado. El Consejo General verificará que los ciudadanos que resultaron sorteados cumplan con los requisitos que exige el presente Código, no pudiendo ser ciudadanos nacidos en el mismo mes con respecto a la insaculación del proceso electoral inmediato anterior.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Durante el mes de febrero del año de la elección, el Consejo General procederá a insacular, de las listas nominales de electores, a un 20% de ciudadanos por cada sección electoral, sin que en ningún caso el número de ciudadanos insaculados sea menor a cincuenta; para ello, el Consejo General podrá apoyarse en la información de los listados nominales de los centros de cómputo del Instituto Federal Electoral, o en su caso, del Instituto Electoral del Estado. El Consejo General verificará que los ciudadanos que resultaron sorteados cumplan con los requisitos que exige el presente Código.
 
 Las Juntas Distritales en coordinación con las Juntas Municipales, en su caso, impartirán un curso de capacitación a los ciudadanos sorteados que cumplan con los requisitos que les exige el presente Código, dicho curso a impartir contendrá los temas y la información que el Consejo General apruebe, junto con el programa de capacitación y los materiales didácticos a utilizar, con el propósito de tener el número suficiente de ciudadanos que estén en condiciones de integrar a las Mesas Directivas de Casilla.
 
@@ -3495,7 +3511,9 @@ III. Cuando se tengan los nombres de los siete ciudadanos (cuatro propietarios y
 
 IV. Con la lista organizada de mayor a menor escolaridad, se designarán los cargos a desempeñar empezando por los cuatro propietarios y, posteriormente, los tres suplentes generales.
 
-Si aplicadas las medidas señaladas en las fracciones anteriores no fuesen suficientes los ciudadanos para cubrir todos los cargos, el Consejo procederá a obtener de la lista nominal, un número al menos del doble de los que hagan falta, éstos de la misma letra inicial del apellido sorteada por los Consejos Distritales y del o de los mes(es) subsecuente(s) al utilizado en la primera insaculación; para que sean convocados, capacitados, evaluados y designados como funcionarios de las mesas directivas de casilla. El Consejo General acordará los criterios para la aplicación de este último procedimiento.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Si aplicadas las medidas señaladas en las fracciones anteriores no fuesen suficientes los ciudadanos para cubrir todos los cargos, el Consejo procederá a obtener de la lista nominal, un número al menos del doble de los que hagan falta, éstos de la misma letra inicial del apellido sorteada por los Consejos Distritales y del o de los mes(es) subsecuente(s) al utilizado en la primera insaculación; para que sean convocados, capacitados, evaluados y designados como funcionarios de las mesas directivas de casilla; si desarrollado el procedimiento anterior, no se hubiesen cubierto todos los cargos, convocará a los ciudadanos que participaron como funcionarios de mesas directivas de casilla en la elección local inmediata anterior. El Consejo General acordará los criterios para la aplicación de estos últimos procedimientos.
 
 Los Consejos Municipales notificarán personalmente a los integrantes de casilla su nombramiento y los citarán a rendir la protesta correspondiente.
 
@@ -4123,9 +4141,9 @@ IV. El segundo escrutador contará las boletas extraídas de la urna;
 
 V. Los dos escrutadores, bajo la supervisión del Presidente, clasificarán las boletas para determinar:
 
-> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-a) El número de votos emitidos a favor de cada uno de los partidos políticos o coaliciones y en su caso de cada uno de los candidatos, fórmulas o planillas comunes; y
+a) El número de votos emitidos a favor de cada uno de los partidos políticos o coaliciones; y
 
 > <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -4139,9 +4157,9 @@ Para determinar la validez o nulidad de los votos se observarán las reglas sigu
 
 I. Se contará un voto válido por la marca que haga el elector en un sólo círculo o en el cuadro en el que se contenga el emblema de un partido político o coalición;
 
-> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-II. Se contará como nulo cualquier voto emitido en forma distinta a la señalada excepto el caso de que aparecieran boletas marcadas en dos o más emblemas de partidos que postularon a un candidato, fórmula o planilla común; y
+II. Se contará como nulo cualquier voto emitido en forma distinta a la señalada; y
 
 III. Los votos emitidos a favor de candidatos no registrados se asentarán en el acta por separado.
 
@@ -4155,9 +4173,7 @@ Se levantará un acta de escrutinio y cómputo para cada elección. Cada acta co
 
 I. El número de votos emitidos a favor de cada partido político;
 
-> <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
-
-II. En su caso, el número de votos emitidos a favor de cada uno de los candidatos, fórmulas o planillas comunes;
+II. (DEROGADA, G.G. 25 DE SEPTIEMBRE DE 2010);
 
 > <small>(REFORMADA, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
 
@@ -4217,9 +4233,7 @@ Por fuera del paquete firmado a que se refiere el artículo anterior, se adherir
 
 Cumplidas las acciones a que se refiere el artículo anterior, los Presidentes de las Mesas Directivas de Casilla, fijarán avisos en lugar visible del exterior de las mismas con los resultados de la elección o, en su caso, de cada una de las elecciones, los que serán firmados por el Presidente y los representantes que así deseen hacerlo.
 
-### CAPITULO CUARTO. De la Clausura de la Casilla
-
-y de la Remisión del Expediente
+### CAPITULO CUARTO. De la Clausura de la Casilla y de la Remisión del Expediente
 
 ###### Artículo 239.
 
@@ -4301,9 +4315,7 @@ El día de la elección los notarios públicos en ejercicio mantendrán abiertas
 
 Para estos efectos, el Colegio de Notarios del Estado publicará, cinco días antes del día de la elección, los nombres de sus miembros y los domicilios de sus oficinas.
 
-## TITULO CUARTO. De los Actos Posteriores a la Elección
-
-y de los Resultados Electorales
+## TITULO CUARTO. De los Actos Posteriores a la Elección y de los Resultados Electorales
 
 ### CAPITULO PRIMERO. Disposiciones Preliminares
 
@@ -4471,9 +4483,7 @@ III. Remitir al Consejo General del Instituto, el expediente de los cómputos di
 
 IV. Remitir al Consejo General el expediente del cómputo distrital de la elección de Gobernador, integrados conforme a lo dispuesto por el artículo 256, fracción IV de este Código.
 
-### CAPITULO SEGUNDO. Del Cómputo y de la Asignación de Diputados
-
-de Representación Proporcional
+### CAPITULO SEGUNDO. Del Cómputo y de la Asignación de Diputados de Representación Proporcional
 
 ###### Artículo 259.
 
@@ -4539,9 +4549,9 @@ Serán asignados a cada partido político, los diputados de representación prop
 
 I. Determinar la votación válida efectiva de la elección;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
-II. Establecer el porcentaje de la votación válida efectiva que le corresponda a cada partido político, de acuerdo al número total de votos que haya obtenido, independientemente de haber postulado candidaturas comunes, o haber integrado alguna coalición.
+II. Establecer el porcentaje de la votación válida efectiva que le corresponda a cada partido político, de acuerdo al número total de votos que haya obtenido, independientemente de haber integrado alguna coalición.
 
 Para el caso de los partidos políticos que hayan integrado coaliciones, se considerará como votación válida efectiva, la suma de votos obtenidos en los distritos en que haya participado como partido político en lo individual, más los votos obtenidos en los distritos en que se hubiera participado como partido coaligado, atendiendo a los porcentajes que establezcan los convenios de coalición;
 
@@ -4567,13 +4577,15 @@ Se entenderá por fracción restante mayor, el remanente más alto entre los res
 
 (DEROGADO, P.O. 24 DE AGOSTO DE 2001)
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 267.
 
-La asignación de diputados de representación proporcional, que corresponda a cada partido político conforme al artículo anterior, se hará alternando el orden de los candidatos que aparezcan en la lista presentada por los partidos políticos y el orden de los candidatos que no habiendo obtenido la mayoría relativa, hayan alcanzado el porcentaje más alto de votación minoritaria de su partido por distrito. En el supuesto de candidaturas comunes, la asignación corresponderá al partido político que le otorgue el mayor porcentaje de votos a la candidatura.
+La asignación de diputados de representación proporcional, que corresponda a cada partido político conforme al artículo anterior, se hará alternando el orden de los candidatos que aparezcan en la lista presentada por los partidos políticos y el orden de los candidatos que no habiendo obtenido la mayoría relativa, hayan alcanzado el porcentaje más alto de votación minoritaria de su partido por distrito.
 
-Tratándose de partidos políticos que se hayan coaligado para la elección de diputados, se integrará una lista por partido político que incluya a los candidatos postulados en lo individual, en coalición de acuerdo a los convenios respectivos, y en candidatura común, que no habiendo obtenido la mayoría relativa logren el porcentaje más alto de votación minoritaria por distrito, ordenada en forma decreciente de acuerdo a los porcentajes de votación obtenidos. Acto seguido, se procederá a la asignación en términos del párrafo anterior.
+> <small>(REFORMADO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Tratándose de partidos políticos que se hayan coaligado para la elección de diputados, se integrará una lista por partido político que incluya a los candidatos postulados en lo individual, y en coalición de acuerdo a los convenios respectivos, que no habiendo obtenido la mayoría relativa logren el porcentaje más alto de votación minoritaria por distrito, ordenada en forma decreciente de acuerdo a los porcentajes de votación obtenidos. Acto seguido, se procederá a la asignación en términos del párrafo anterior.
 
 En todo caso la asignación se iniciará con la lista registrada en términos del artículo 22 de este Código.
 
@@ -4681,9 +4693,7 @@ VI. Remitir al Consejo General el expediente de cómputo municipal, copia certif
 
 VII. Enviar copia certificada del expediente al Secretario Ejecutivo General del Instituto. Cuando se interponga el juicio de inconformidad también se le enviará copia del mismo.
 
-### CAPITULO CUARTO. De la Asignación de Miembros de Ayuntamiento
-
-de Representación Proporcional
+### CAPITULO CUARTO. De la Asignación de Miembros de Ayuntamiento de Representación Proporcional
 
 ###### Artículo 274.
 
@@ -4747,11 +4757,11 @@ En ningún caso y por ningún motivo los candidatos a Presidentes Municipales po
 
 ### CAPITULO QUINTO. De la Calificación de la Elección de Gobernador
 
-> <small>(REFORMADO, G.G. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 280.
 
-El cómputo final de la elección de Gobernador es la suma que realiza el Consejo General de los resultados anotados en las respectivas actas de cómputo distrital, a fin de determinar la votación obtenida en la elección por cada partido político, coalición o candidatura común.
+El cómputo final de la elección de Gobernador es la suma que realiza el Consejo General de los resultados anotados en las respectivas actas de cómputo distrital, a fin de determinar la votación obtenida en la elección por cada partido político o coalición.
 
 El Consejo General a más tardar el dieciséis de agosto del año electoral, se reunirá para realizar el cómputo final de la elección de Gobernador.
 
@@ -6324,3 +6334,61 @@ G.G. 2 DE ABRIL DE 2009.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 171, POR EL QUE SE REFORMAN LOS PARRAFOS TERCERO Y SEXTO DEL ARTICULO 166 DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 172, POR EL QUE SE REFORMAN LOS INCISOS C), J) Y K) DE LA FRACCION I, Y EL INCISO H) DE LA FRACCION II DEL ARTICULO 62; SE REFORMA LA FRACCION XXXV Y SE ADICIONA LA FRACCION XXXV BIS AL ARTICULO 95; SE ADICIONA LA FRACCION I BIS AL ARTICULO 97 DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 173, POR EL QUE SE REFORMAN LOS ARTICULOS 22 EN SU SEGUNDO PARRAFO; LA DENOMINACION DEL CAPITULO SEXTO DEL TITULO SEGUNDO DEL LIBRO SEGUNDO; 67; 105 EN SU FRACCION V; 151 EN SU FRACCION II; 230 FRACCION V EN SU INCISO A); 231 EN SU FRACCION II; 265 FRACCION II EN SU PRIMER PARRAFO; 267 EN SUS PARRAFOS PRIMERO Y SEGUNDO; 280 EN SU PRIMER PARRAFO. SE DEROGAN EL ARTICULO 76; LA FRACCION V DEL ARTICULO 147 Y LA FRACCION II DEL ARTICULO 233, DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 174, POR EL QUE SE REFORMAN LOS ARTICULOS 58 FRACCION II, INCISO B) EN SU SEGUNDO PARRAFO; 144 A EN SU CUARTO PARRAFO; 144 F; 147 EN SUS FRACCIONES I, II, III Y IV Y 149 EN SUS PARRAFOS CUARTO, QUINTO Y SEXTO. SE DEROGA LA FRACCION V DEL ARTICULO 147 DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 175, POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES II INCISO B) Y III DEL ARTICULO 58 DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 176, POR EL QUE SE REFORMAN LOS ARTICULOS 158 EN SUS FRACCIONES I, IV Y V Y 162 EN SU PARRAFO SEGUNDO DEL CODIGO ELECTORAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
