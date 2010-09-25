@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2009-12-05"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -75,7 +75,11 @@ En el ejercicio de las atribuciones y para el despacho de los negocios del orden
 
 I.- Las Secretarías;
 
-II.- La Procuraduría General de Justicia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- La Fiscalía General del Estado; y
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -101,11 +105,13 @@ IV.- Fideicomisos.
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 5o.
 
-El Gobernador del Estado podrá convocar a reuniones de Secretarios, Procurador General de Justicia, Coordinadores y demás funcionarios competentes, cuando se trate de definir o evaluar la política del Gobierno Estatal. Estas reuniones serán presididas por el titular del Poder Ejecutivo.
+El Gobernador del Estado podrá convocar a reuniones de Secretarios, Fiscal General del Estado, Coordinadores y demás funcionarios competentes, cuando se trate de definir o evaluar la política del Gobierno Estatal. Estas reuniones serán presididas por el titular del Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -159,17 +165,41 @@ Las dependencias formularán respecto de los asuntos de su competencia, los proy
 
 Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado deberán, para su validez y observancia constitucionales, ir firmados por el Secretario General de Gobierno y el titular de la dependencia a la que el asunto corresponda.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 12.
 
-Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Directores, Jefes de Departamento, y demás servidores públicos que establezca el reglamento interior respectivo y autorice el presupuesto de egresos. Los titulares y demás funcionarios que establezca el reglamento interior de cada dependencia tendrán fe pública respecto a los actos que realicen en el ámbito de su competencia y respecto a la certificación o constancia de los documentos y archivos que obren en su poder con motivo de sus atribuciones.
+Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Subsecretarios, Directores Generales, Directores, Jefes de Departamento, y demás servidores públicos que establezca el reglamento interior respectivo y autorice el presupuesto de egresos. Los titulares y demás funcionarios que establezca el Reglamento Interior de cada dependencia, tendrán fe pública respecto a los actos que realicen en el ámbito de su competencia y respecto a la certificación o constancia de los documentos y archivos que obren en su poder con motivo de sus atribuciones.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 13.
 
-Al frente de la Procuraduría General de Justicia habrá un Procurador, quien se auxiliará en el ejercicio de sus funciones por un Subprocurador General, un Subprocurador de Derechos Humanos y Atención a Víctimas del Delito, subprocuradores de Zona y los órganos que determine su Ley Orgánica.
+Al frente de la Fiscalía General del Estado, habrá un Fiscal General, quien se auxiliará en el ejercicio de sus funciones por las siguientes Fiscalías Especializadas: De Seguridad Pública y Prevención del Delito; De Investigación y Persecución del Delito; De Atención a Víctimas y Ofendidos del Delito; De Control, Análisis y Evaluación; y, de Ejecución de Penas y Medidas Judiciales; así como los demás órganos que determine su Ley Orgánica.
+
+El Fiscal General del Estado será nombrado por el Gobernador y sometido a la aprobación del Congreso del Estado, conforme al siguiente procedimiento:
+
+I. El Gobernador del Estado nombrará al Fiscal General del Estado, quien deberá reunir los requisitos que establece el artículo 121 de la Constitución Política del Estado, para lo cual, deberá acompañar a su propuesta la documentación que compruebe dichos requisitos;
+
+II. El Fiscal General del Estado nombrado por el Gobernador, deberá comparecer ante la Junta de Coordinación Parlamentaria del Congreso del Estado;
+
+III. La aprobación se hará, mediante el voto de las dos terceras partes de la totalidad de los diputados integrantes, en escrutinio secreto;
+
+IV. Si no se obtienen las dos terceras partes de los votos, se regresará el nombramiento al Gobernador con las observaciones correspondientes, a efecto de que envíe una nueva propuesta dentro de los siguientes quince días hábiles; y
+
+V. Una vez que el Congreso apruebe el nombramiento del Fiscal General del Estado, le tomará la protesta de ley. El Gobernador tiene la facultad de removerlo libremente.
+
+VI. (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+El procedimiento descrito en las fracciones anteriores, se realizará cada vez que se amerite el nombramiento de un nuevo Fiscal General del Estado.
+
+Durante el tiempo que dure el procedimiento de nombramiento del Fiscal General del Estado, el Gobernador del Estado designará libre y directamente a quien deba encargarse del despacho de la Fiscalía General.
+
+El Fiscal General es el Abogado del Estado, en los términos que determine la ley.
 
 ###### ARTICULO 14.
 
@@ -189,11 +219,13 @@ En el reglamento interior de cada una de las dependencias, que será expedido po
 
 El titular de cada dependencia expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus Unidades administrativas, así como los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interior, deberán mantenerse actualizados.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 18.
 
-Las dependencias establecerán, cuando se justifique plenamente, sus correspondientes servicios de apoyo en materia jurídica, administrativa, de planeación, programación, organización, informática, estadística y archivos y los demás que sean necesarios en los términos que fije el Ejecutivo.
+Las dependencias establecerán, cuando se justifique plenamente, sus correspondientes servicios de apoyo en materia administrativa, de planeación, programación, organización, informática, estadística y archivos y los demás que sean necesarios en los términos que fije el Ejecutivo.
 
 ###### ARTICULO 19.
 
@@ -217,7 +249,7 @@ Los Titulares de las dependencias a que se refiere el artículo octavo de esta l
 
 ###### ARTICULO 22.
 
-En casos extraordinarios o cuando exista duda de la competencia de alguna dependencia para conocer de un asunto específico, el Gobernador del Estado resolverá por conducto de la Secretaría General de Gobierno a cual de ellas corresponde el despacho del mismo.
+En casos extraordinarios o cuando exista duda de la competencia de alguna dependencia para conocer de un asunto específico, el Gobernador del Estado resolverá por conducto de la Secretaría General de Gobierno a cuál de ellas corresponde el despacho del mismo.
 
 ###### ARTICULO 23.
 
@@ -233,19 +265,37 @@ Para el estudio, planeación y despacho de los asuntos del orden administrativo,
 
 I.- Secretaría General de Gobierno;
 
-II.- Secretaría de Finanzas y Administración;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-III.- Secretaría de Planeación y Evaluación;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Secretaría de Hacienda;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Secretaría de Economía;
 
 IV.- Secretaría de Fomento Social;
 
 V.- Secretaría de Salud;
 
-VI.- Secretaría de Desarrollo Industrial;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-VII.- Secretaría de Desarrollo Comercial y Turístico;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-VIII.- Secretaría de Educación y Cultura;
+VI.- Secretaría de Educación, Cultura y Deporte;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Secretaría del Trabajo y Previsión Social;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+VIII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 IX.- Secretaría de Comunicaciones y Obras Públicas;
 
@@ -253,15 +303,25 @@ X.- Secretaría de Desarrollo Urbano y Ecología;
 
 XI.- Secretaría de Desarrollo Rural;
 
-XII.- Secretaría de Desarrollo Municipal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+XII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 XIII.- Secretaría de la Contraloría;
 
-XIV.- Procuraduría General de Justicia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-XV.- Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-XVI.- Coordinación de Comunicación Social.
+XIV.- Fiscalía General del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+XV.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+XVI.- (DEROGADA [N. DE. E., REPUBLICADA], P.O. 25 DE SEPTIEMBRE DE 2010)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -319,9 +379,11 @@ XVI.- Ejercer las funciones que la ley determina en materia de cultos, iglesias,
 
 XVII.- En los términos de la Ley respectiva, expedir las licencias definitivas a los negocios donde se expendan, distribuyan o consuman bebidas alcohólicas, y vigilar la correcta aplicación de las disposiciones en esta materia;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, del Trabajo y Previsión Social, Registral Civil, y Transporte, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores y de acuerdo con los ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, Registral Civil, y Transporte, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores y de acuerdo con los ordenamientos legales aplicables;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -331,145 +393,165 @@ XIX. Ejercer y garantizar la seguridad de las carreteras dependientes del Estado
 
 XX. Aprobar las tarifas de transporte público y tramitar las solicitudes para el otorgamiento de concesiones o permisos de servicio público de transporte de personas, de carga o mixto, en las carreteras y demás vías de comunicación de competencia estatal; y
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-XIX.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+XXI. Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Municipales electos y sus suplentes, a fin de que una vez que reciban la constancia que los acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
+
+Así mismo, dada la diversa naturaleza de la gestión de regidores y síndicos municipales, elaborar e impartir cursos de capacitación para éstos con los mismos requisitos y consecuencias que los citados en el párrafo anterior;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXII. Brindar capacitación permanente a los miembros de los ayuntamientos y de la administración pública municipal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXIII. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes al fortalecimiento del desarrollo municipal y fomentar la participación ciudadana; participar en comités, consejos y demás órganos de coordinación de la Administración Pública vinculados con la promoción del desarrollo municipal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXIV. Intervenir, en auxilio y coordinación con las autoridades federales, en los términos de las leyes vigentes, en materia demográfica, migración, de cultos religiosos, loterías, rifas, sorteos y juegos, clubes de caza, tiro y pesca, así como portación de armas, uso de explosivos, detonantes y pirotecnia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXV. Fomentar y apoyar la realización de programas de colaboración intermunicipales, para coadyuvar e incidir en la prevención o solución de problemas comunes a más de un municipio o que faciliten la convivencia de sus habitantes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXVI. Participar en los planes, programas y acciones de población en los términos que establezcan las leyes, así como coordinar y vigilar el funcionamiento del Consejo Estatal de Población.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 26.
 
-A la Secretaría de Finanzas y Administración, le corresponde al despacho de los siguientes asuntos:
+A la Secretaría de Hacienda corresponde el despacho de los siguientes asuntos:
 
-I.- Atender todo lo concerniente a la administración financiera y fiscal y, en general, ejercer las atribuciones que le confiere la Constitución Política del Estado de Chihuahua, el Código Fiscal del Estado de Chihuahua, la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua; la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios y demás ordenamientos legales;
+I. Atender todo lo concerniente a la administración financiera y fiscal y, en general, ejercer las atribuciones que le confiere la Constitución Política del Estado de Chihuahua; el Código Fiscal del Estado de Chihuahua; la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua; la Ley de Deuda Pública del Estado de Chihuahua y sus Municipios; la Ley de Planeación del Estado de Chihuahua y demás ordenamientos legales;
 
-II.- Definir, diseñar e instrumentar el sistema financiero integral para llevar la recaudación, el ejercicio del gasto, el control presupuestal y la contabilidad gubernamental, desde el origen de las operaciones hasta su registro definitivo, expidiendo las normas y lineamientos para su operación;
+II. Definir, diseñar e instrumentar el sistema financiero integral para llevar la recaudación, el ejercicio del gasto, el control presupuestal, la evaluación y la contabilidad gubernamental, desde el origen de las operaciones hasta su registro definitivo, expidiendo las normas y lineamientos para su aplicación;
 
-III. Ejercer las funciones de ingresos; control presupuestal; planeación, operación y control financiero; contabilidad gubernamental; recursos humanos, materiales, suministros y servicios generales; subsidios y transferencias, con los procesos, los sistemas y las estructuras necesarias para ello; así como optimizar la organización y funcionamiento de sus unidades orgánicas;
+III. Ejercer las funciones de ingresos; control presupuestal; planeación, operación y control financiero; contabilidad gubernamental, evaluación; recursos humanos, materiales, suministros y servicios generales; subsidios y transferencias, con los procesos, los sistemas y las estructuras necesarias para ello; así como optimizar la organización y funcionamiento de sus unidades orgánicas;
 
-IV. Determinar y aplicar las normas, lineamientos, técnicas, procedimientos y sistemas a seguir para la instrumentación y operación del Sistema Integral para la Planeación, la Programación y la Presupuestación del Gasto Público Estatal;
+IV. Impulsar y operar el modelo de Gestión para Resultados en la administración pública estatal, de conformidad con las leyes y ordenamientos legales aplicables;
 
-V. Elaborar y presentar al Ejecutivo el proyecto anual de Ley de Ingresos y del Presupuesto de Egresos del Estado; participando en la elaboración de este último la Secretaría de Planeación y Evaluación;
+V. Representar al Estado, salvo disposición expresa del Gobernador, en procedimientos, juicios y controversias fiscales, laborales y administrativas, así como en todos los relacionados con las materias de su competencia;
 
-VI. Integrar la estructura programática y presupuestal del Presupuesto de Egresos, considerando, en su caso, las propuestas que al efecto le sean presentadas por la Secretaría de Planeación y Evaluación y por las demás dependencias, de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables;
+VI. Intervenir, en representación del Estado, en los diversos órganos, reuniones y actividades de coordinación fiscal y colaboración administrativa en la materia de su competencia;
 
-VII. Vigilar y controlar la aplicación programática y presupuestal en el ejercicio del Presupuesto de Egresos, así como emitir las normas y procedimientos para el pago, ejercicio, control, seguimiento y evaluación del Presupuesto de Egresos en materia de recursos humanos; recursos materiales y suministros; servicios generales, subsidios y transferencias, coordinándose con la Secretaría de Planeación y Evaluación para la emisión, por parte de esta última, de las solicitudes de pago en lo relativo al gasto de inversión;
+VII. Elaborar y presentar al Ejecutivo el proyecto anual de Ley de Ingresos y del Presupuesto de Egresos del Estado;
 
-VIII. Autorizar las erogaciones adicionales a las contempladas en el Presupuesto de Egresos, derivadas de ingresos excedentes a los estimados en la Ley de Ingresos y efectuar ampliaciones o transferencias entre partidas del Presupuesto de Egresos, cuando no se requiera autorización del Congreso del Estado, de conformidad con lo dispuesto en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado;
+VIII. Autorizar los procedimientos necesarios para la captación, manejo, registro y control de los recursos provenientes de la aplicación de la Ley de Ingresos y de aquellos otros que tenga derecho a percibir el Gobierno del Estado, así como elaborar y ejecutar programas tendientes a incrementar los ingresos del Estado;
 
-IX. Someter al Titular del Ejecutivo, la propuesta de ajustes al Presupuesto de Egresos ante la disminución de ingresos estimados en la Ley de Ingresos, con la opinión previa de la Comisión Estatal de Gasto-Financiamiento;
+IX. Recaudar los recursos establecidos en la Ley de Ingresos, ejerciendo, en su caso, la facultad económico-coactiva y, en general, ejercer las facultades que al Ejecutivo o al órgano encargado de las finanzas públicas del Estado, le otorgan las leyes, reglamentos y demás disposiciones legales, incluyendo las derivadas de normas federales aplicables por la celebración de convenios y acuerdos con el Gobierno Federal o con los Municipios;
 
-X. Notificar a los Poderes, Órganos Autónomos y Entidades del Ejecutivo, los montos presupuestales autorizados a ejercer;
+X. Celebrar, de conformidad con las disposiciones legales aplicables, los convenios fiscales y financieros del Gobierno del Estado con el Gobierno Federal, los Municipios o con sus sectores paraestatal y paramunicipal, así como organismos públicos autónomos y con personas físicas o morales, ejerciendo las atribuciones y cumpliendo con las obligaciones derivadas de los mismos;
 
-XI. Supervisar y evaluar la aplicación del Presupuesto de las dependencias y entidades de la administración pública estatal, así como requerir la información sobre la comprobación de la aplicación de los recursos ejercidos;
+XI. Operar y actualizar el registro y control de los padrones de contribuyentes, así como vigilar y requerir el cumplimiento de sus obligaciones;
 
-XII. Solicitar la presentación de los informes a los Poderes, Órganos Autónomos y a las dependencias y entidades de la administración pública estatal, respecto de los recursos no comprometidos, y, en su caso, solicitar su devolución;
+XII. Establecer medidas de control respecto de los ingresos de las entidades paraestatales, así como de los recursos aportados por el Estado por lo que se refiere a los patronatos, asociaciones y particulares en los términos de los ordenamientos legales aplicables;
 
-XIII. Realizar los pagos conforme al Presupuesto de Egresos, los lineamientos para el ejercicio del gasto y los calendarios financieros;
+XIII. Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado, así como en las relativas a los impuestos federales coordinados y realizar una labor permanente de difusión, orientación y asistencia fiscal al contribuyente;
 
-En materia de gastos de inversión realizar los pagos cuando así corresponda, de acuerdo a las solicitudes de pago que realice la Secretaría de Planeación y Evaluación;
+XIV. Custodiar y concentrar los fondos y valores del Gobierno del Estado;
 
-XIV. Emitir las órdenes de compra de las dependencias y controlar las que, en su caso, se descentralicen a las mismas;
+XV. Constituirse en beneficiaria de las garantías que se otorguen a favor del Gobierno del Estado;
 
-XV. Autorizar los procedimientos necesarios para la captación, manejo, registro y control de los recursos provenientes de la aplicación de la Ley de Ingresos y de aquellos otros que tenga derecho a percibir el Gobierno del Estado, así como elaborar y ejecutar programas tendientes a incrementar los ingresos del Estado;
+XVI. Integrar la estructura programática y presupuestal del Presupuesto de Egresos, de conformidad con lo dispuesto por esta Ley, y demás disposiciones aplicables;
 
-XVI. Recaudar los recursos establecidos en la Ley de Ingresos, ejerciendo en su caso la facultad económico-coactiva y, en general, ejercer las facultades que al Ejecutivo o al órgano encargado de las finanzas públicas del Estado, le otorgan las leyes, reglamentos y demás disposiciones legales, incluyendo las derivadas de normas federales aplicables por la celebración de convenios y acuerdos con el Gobierno Federal o con los Municipios;
+XVII. Vigilar y controlar la aplicación programática y presupuestal en el ejercicio del Presupuesto de Egresos, así como emitir las normas y procedimientos para el pago, ejercicio, control, seguimiento y evaluación del mismo;
 
-XVII. Celebrar, de conformidad con las disposiciones legales aplicables los convenios fiscales y financieros del Gobierno del Estado, con el Gobierno Federal, los Municipios o con sus sectores paraestatal y paramunicipal, así como organismos públicos autónomos y con personas físicas o morales, ejerciendo las atribuciones y cumpliendo con las obligaciones derivadas de los mismos;
+XVIII. Autorizar las erogaciones adicionales a las contempladas en el Presupuesto de Egresos, derivadas de ingresos excedentes a los estimados en la Ley de Ingresos y efectuar ampliaciones o transferencias entre partidas del Presupuesto de Egresos cuando no se requiera autorización del Congreso del Estado, de conformidad con las disposiciones legales aplicables;
 
-XVIII. Operar y actualizar el registro y control de los padrones de contribuyentes, así como vigilar y requerir el cumplimiento de sus obligaciones;
+XIX. Someter al Ejecutivo las propuestas de ajustes al Presupuesto de Egresos ante la disminución de ingresos estimados en la Ley de Ingresos, con la opinión previa de la Comisión Estatal de Gasto-Financiamiento;
 
-XIX. Establecer medidas de control respecto de los ingresos de las entidades paraestatales, así como de los recursos aportados por el Estado por lo que se refiere a los patronatos, asociaciones y particulares, en los términos de los ordenamientos legales aplicables;
+XX. Notificar a los Poderes Legislativo y Judicial y Órganos Autónomos, así como a las dependencias y entidades de la administración pública estatal, los techos presupuestales autorizados;
 
-XX. Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado, así como la de los impuestos federales coordinados, y realizar una labor permanente de difusión, orientación y asistencia fiscal al contribuyente;
+XXI. Supervisar y evaluar la aplicación del presupuesto de las dependencias y entidades de la administración pública estatal, así como requerir la información sobre la comprobación de la aplicación de los recursos ejercidos;
 
-XXI. Custodiar y concentrar los fondos y valores del Gobierno del Estado;
+XXII. Solicitar a los Poderes, Órganos Autónomos y a las dependencias y entidades de la administración pública estatal, la presentación de los informes correspondientes a los recursos no comprometidos y, en su caso, solicitar su devolución;
 
-XXII. Constituirse en beneficiaria de las garantías que se otorguen a favor del Gobierno del Estado;
+XXIII. Realizar los pagos conforme al Presupuesto de Egresos, los lineamientos para el ejercicio del gasto y los calendarios financieros;
 
-XXIII. Celebrar los convenios y contratos relacionados con los servicios bancarios, financieros y fiduciarios que debe suscribir el Ejecutivo, conforme a las disposiciones aplicables;
+XXIV. Emitir las órdenes de compra de las dependencias y controlar las que, en su caso, se descentralicen a las mismas;
 
-XXIV. Negociar la deuda pública del Estado, así como llevar el registro y control del endeudamiento público, de conformidad con la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios;
+XXV. Celebrar los convenios y contratos relacionados con los servicios bancarios, financieros y fiduciarios que deba suscribir el Ejecutivo, conforme a las disposiciones aplicables;
 
-XXV. Representar al Estado, salvo disposición expresa del Gobernador, en procedimientos, juicios y controversias fiscales, laborales y administrativas, así como en todos los relacionados con las materias de su competencia, y participar en los actos, contratos y convenios en que se obligue económicamente al Estado;
+XXVI. Negociar la deuda pública del Estado, así como llevar el registro y control del endeudamiento público, de conformidad con la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios;
 
-XXVI. Intervenir, en representación del Estado, en los diversos órganos, reuniones y actividades de coordinación fiscal y colaboración administrativa en la materia de su competencia;
+XXVII. Ejercer las atribuciones que le confieren las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos humanos, la adquisición y arrendamiento de bienes y la contratación de servicios, así como cuidar su cumplimiento; de igual forma, vigilar que las dependencias y entidades paraestatales las ejerzan conforme a las disposiciones legales aplicables;
 
-XXVII. Llevar la Contabilidad Gubernamental;
+XXVIII. Establecer medidas de control respecto a la administración de los recursos humanos, adquisición y arrendamiento de bienes y contratación de servicios por parte de las entidades paraestatales;
 
-XXVIII. Solicitar a las entidades paraestatales del Poder Ejecutivo, la información financiera y presupuestal requerida por las comisiones legislativas;
+XXIX. Vigilar el cumplimiento de las disposiciones legales relativas al uso y destino de los bienes muebles e inmuebles asignados a las dependencias del Gobierno del Estado y demás bienes no destinados a un fin específico, así como respecto a la enajenación de los muebles e inmuebles propiedad del Estado, excepto las reservas territoriales,
 
-XXIX. Formular y someter a la consideración del Ejecutivo la Cuenta Pública del Estado, trimestral y anual, para su presentación al H. Congreso del Estado, así como el movimiento de ingresos y egresos para su publicación mensual;
+XXX. Administrar, conservar y mantener el patrimonio del Gobierno del Estado, así como celebrar los convenios, contratos y acuerdos requeridos para dicho propósito; asegurar y conservar la documentación correspondiente y llevar el registro del patrimonio inmobiliario del Estado;
 
-XXX. Ejercer las atribuciones que le confieren las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos humanos, la adquisición y arrendamiento de bienes y la contratación de servicios, así como cuidar su cumplimiento; de igual forma, vigilar que las dependencias y entidades paraestatales las ejerzan conforme a las disposiciones legales aplicables;
+XXXI. Intervenir, en los términos de las leyes de la materia, en la celebración de contratos de compraventa, comodato, donaciones y demás relativos al patrimonio mobiliario e inmobiliario del Gobierno del Estado, excepto las reservas territoriales, así como en los convenios y contratos de prestación de servicios y de arrendamiento de bienes muebles e inmuebles y, en general, intervenir en cualquier acto, convenio o contrato en que se obligue económicamente al Estado;
 
-XXXI. Establecer medidas de control respecto a las materias de administración, de recursos humanos, adquisición y arrendamiento de bienes y contratación de servicios por parte de las entidades paraestatales;
+XXXII. Llevar y mantener actualizado el registro de proveedores de bienes y servicios de la administración pública estatal;
 
-XXXII. Vigilar el cumplimiento de las disposiciones legales relativas al uso y destino de los bienes muebles e inmuebles asignados a las dependencias del Gobierno del Estado y demás bienes no destinados a un fin específico, así como respecto a la enajenación de los muebles e inmuebles propiedad del Estado, excepto las reservas territoriales;
+XXXIII. Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y sus servidores públicos;
 
-XXXIII. Administrar, conservar y mantener el patrimonio del Gobierno del Estado, así como celebrar los convenios, contratos y acuerdos requeridos para dicho propósito; asegurar y conservar la documentación correspondiente y llevar el registro del patrimonio inmobiliario del Estado;
-
-XXXIV. Intervenir, en los términos de las leyes de la materia, en la celebración de contratos de compraventa, comodato, donaciones y demás relativos al patrimonio mobiliario e inmobiliario del Gobierno del Estado, excepto las reservas territoriales, así como en los convenios y contratos de prestación de servicios y de arrendamiento de bienes muebles e inmuebles;
-
-XXXV. Llevar y mantener actualizado el registro de proveedores de bienes y servicios de la administración pública estatal;
-
-XXXVI. Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y sus servidores públicos;
-
-XXXVII. Reclutar y seleccionar al personal en apoyo de las dependencias del Poder Ejecutivo, tramitando dentro del límite de los recursos presupuestales, todo lo relativo a sus nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas; capacitar al personal y llevar los registros del mismo, controlar su asistencia y vacaciones; así como otorgar becas y promover actividades socioculturales y deportivas para los servidores públicos;
+XXXIV. Reclutar y seleccionar al personal en apoyo de las dependencias del Poder Ejecutivo, tramitando dentro del límite de los recursos presupuestales, todo lo relativo a sus nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas; capacitar al personal y llevar los registros del mismo, controlar su asistencia y vacaciones, así como otorgar becas y promover actividades socioculturales y deportivas para los servidores públicos.
 
 Del mismo modo, expedir los nombramientos de los servidores públicos designados por el Gobernador, cuando éste no lo haga directamente;
 
-XXXVIII. Establecer y mantener actualizadas las categorías de puestos, el escalafón y el tabulador de los trabajadores al servicio del Estado y los relativos al personal al servicio de la educación a cargo del Estado, así como programar los estímulos y recompensas; de igual manera, establecer las categorías de puestos y tabuladores equivalentes en las entidades de la administración pública paraestatal;
+XXXV. Establecer y mantener actualizadas las categorías de puestos, el escalafón y el tabulador de los trabajadores al servicio del Estado y los relativos al personal al servicio de la educación a cargo del Estado, así como programar los estímulos y recompensas; de igual manera, establecer las categorías de puestos y tabuladores equivalentes en las entidades de la administración pública paraestatal;
 
-XXXIX. Revisar las solicitudes de incremento salarial y de prestaciones de los servidores públicos del Gobierno del Estado, atendiendo en su caso, las negociaciones con las organizaciones sindicales y suscribir los acuerdos que impliquen responsabilidades económicas a cargo del Estado;
+XXXVI. Revisar las solicitudes de incremento salarial y de prestaciones de los servidores públicos del Gobierno del Estado, atendiendo en su caso las negociaciones con las organizaciones sindicales y suscribir los acuerdos que impliquen responsabilidades económicas a cargo del Estado;
 
-XL. Formular y difundir la normatividad para la elaboración de manuales de organización, de procedimientos y de servicios, así como de reglamentos interiores y demás instrumentos administrativos que formalizan la estructura y el funcionamiento de las dependencias y entidades del Poder Ejecutivo;
+XXXVII. Llevar la Contabilidad Gubernamental, así como promover y aplicar los cambios que se requieran de acuerdo con las disposiciones legales aplicables;
 
-XLI. Normar, planear y diseñar conjuntamente con las dependencias y entidades de la administración pública estatal, las adecuaciones que deban hacerse en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para lograr su desarrollo y modernización, evaluando el desempeño de los resultados;
+XXXVIII. Solicitar a las entidades de la administración pública paraestatal, la información financiera y presupuestal requerida por las comisiones legislativas;
 
-XLII. Planear, desarrollar y mantener la infraestructura de tecnología de información y comunicación a nivel competitivo, así como una plataforma de desarrollo de sistemas, basada en un modelo integral de datos que permita optimizar las funciones del Ejecutivo;
+XXXIX. Formular y someter a la consideración del Ejecutivo la Cuenta Pública del Estado, trimestral y anual, para su presentación al Congreso del Estado, así como el movimiento de ingresos y egresos para su publicación mensual;
 
-XLIII. Desarrollar y administrar el equipo central de computación, las redes estatales de datos, telefonía y los demás servicios informáticos, con excepción de aquellos sistemas y equipos estratégicos bajo la responsabilidad de otras dependencias; y
+XL. Organizar y operar un sistema permanente de evaluación y seguimiento de los resultados de la asignación y aplicación de los recursos públicos destinados a los programas y proyectos del Presupuesto de Egresos, de conformidad con las leyes federales y estatales, así como de los acuerdos y convenios celebrados con la Federación y los Municipios;
 
-XLIV. Las demás que le atribuyan expresamente las leyes, los reglamentos y las demás disposiciones normativas.
+XLI. Formular y someter a la consideración del Ejecutivo los lineamientos para la aplicación, seguimiento y control de la Gestión para Resultados en la administración pública estatal, de conformidad con las leyes y ordenamientos estatales;
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+XLII. Determinar las directrices, estándares y procedimientos necesarios para la integración de información socioeconómica y financiera, en coordinación con las dependencias e instituciones federales, estatales y municipales correspondientes, con el objetivo de conformar índices estadísticos para la elaboración del Anuario Estadístico;
 
-ARTICULO 26 BIS.- A la Secretaría de Planeación y Evaluación corresponde el despacho de los siguientes asuntos:
+XLIII. Integrar, para la aprobación del Ejecutivo, en los términos del artículo 7 de la presente Ley, el Plan Estatal de Desarrollo, los programas de mediano plazo y los programas operativos anuales, que como anteproyecto hayan elaborado las Dependencias y Entidades de la Administración Pública Estatal, con la participación del Comité de Planeación para el Desarrollo del Estado de Chihuahua;
 
-I.- Integrar, para la aprobación del Ejecutivo, en los términos del artículo 7 de este ordenamiento, el Plan Estatal de Desarrollo, los programas de mediano plazo y los programas operativos anuales, que como anteproyecto hayan elaborado las dependencias y entidades de la administración pública estatal, con la participación del Comité de Planeación para el Desarrollo del Estado de Chihuahua;
+XLIV. Analizar y presentar al Ejecutivo, para su aprobación, los programas de inversión que deban quedar comprendidos en el marco de los convenios y acuerdos de coordinación con el Gobierno Federal y los Municipios;
 
-II.- Analizar y presentar al Ejecutivo para su aprobación, los programas de inversión que deban quedar comprendidos en el marco de los convenios y acuerdos de coordinación con el gobierno federal y los municipios;
+XLV. Establecer la congruencia del Plan Estatal de Desarrollo y de los programas que de él se deriven, con los planes y programas del Gobierno Federal y verificar la congruencia de los Planes Municipales de Desarrollo con el Plan Estatal;
 
-III.- Establecer la coordinación del Plan Estatal de Desarrollo y de los programas que de él se deriven, con los planes y programas del gobierno federal y de los municipios de la Entidad;
+XLVI. Proponer al Ejecutivo la celebración de convenios de coordinación con los Municipios, para la realización de obras y la prestación de servicios públicos;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+XLVII. Apoyar a los Municipios en la implementación del modelo de Gestión para Resultados en sus diferentes etapas de planeación, programación, control y evaluación, así como en los procedimientos operativos para optimizar la prestación de los servicios públicos municipales;
 
-IV.- En materia de programas de inversión, participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado, emitir la afectación presupuestal y solicitar a la Secretaría de Finanzas y Administración los pagos correspondientes;
+XLVIII. Promover la participación de los sectores social y privado en la formulación de los planes y programas del Gobierno del Estado, así como en la evaluación de los mismos;
 
-V.- Aperturar las cuentas bancarias necesarias para operar los diferentes programas de inversión concertados con la Federación y los municipios, así como llevar el control presupuestal y financiero de los mismos;
+XLIX. Establecer la normatividad, la coordinación y los mecanismos a que deberán sujetarse las Dependencias y Entidades de la Administración Pública Estatal, para la instrumentación de sus sistemas internos de planeación y programación; así mismo, establecer las medidas de control respecto a los programas de inversión de las entidades paraestatales;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+L. Determinar y aplicar las normas, lineamientos, técnicas, procedimientos y sistemas a seguir para la instrumentación y operación del Sistema Integral para la Planeación, la Programación y la Presupuestación del Gasto Público Estatal; y
 
-VI.- Participar con la Secretaría de Finanzas y Administración en la elaboración del Presupuesto de Egresos, para su presentación al Ejecutivo;
+LI. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-VII.- Proponer a la Secretaría de Finanzas y Administración la estructura programática y presupuestal del presupuesto de egresos, de conformidad con lo dispuesto por esta Ley, por la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua, y por la Ley de Planeación para el Estado de Chihuahua;
-
-VIII.- Promover la participación de los sectores social y privado en la formulación de los planes y programas, así como en la evaluación de los mismos;
-
-IX.- Organizar y operar un sistema permanente de evaluación y seguimiento de la ejecución de las metas fijadas en los programas anuales y de inversión, acorde con los objetivos y necesidades de la administración pública estatal en su conjunto, así como con los que se deriven de los acuerdos y convenios de coordinación con la federación y los municipios;
-
-X.- Establecer la normatividad, la coordinación y los mecanismos a que deberán sujetarse las dependencias y entidades de la administración pública estatal, para la instrumentación de sus sistemas internos de planeación, programación y evaluación; así mismo, las medidas de control respecto a los programas de inversión de las entidades paraestatales;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
-
-XI.- Establecer la adecuada coordinación con la Secretaría de Finanzas y de Administración para la integración de los programas operativos anuales en el proyecto de Presupuesto de Egresos del Estado;
-
-XII.- Ejercer las funciones de planeación, programación y evaluación, con los procesos, los sistemas y las estructuras necesarios para ello; así como optimizar la organización y funcionamiento de sus unidades orgánicas; y
-
-XIII.- Los demás que le atribuyan expresamente las leyes, los reglamentos y las demás disposiciones normativas.
+ARTICULO 26 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -495,7 +577,11 @@ VII.- Coordinar el diseño, instrumentación, evaluación y seguimiento de los p
 
 VIII.- Promover y fomentar acciones para fortalecer el desarrollo de la familia;
 
-IX.- Organizar, coordinar y fomentar la enseñanza y la práctica de los deportes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IX.- Operar la Ventanilla Única de Atención a Gestoría y Apoyos, en los términos que establezca el reglamento que para tal efecto se expida;
 
 X.- Participar en la atención a la población en casos de desastres de origen natural o antropogénico, que pongan en riesgo a los habitantes en general;
 
@@ -561,71 +647,73 @@ XXII.- Administrar el patrimonio de la Beneficencia Pública en materia de salud
 
 XXIII.- Las demás que le fijen expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 28.
 
-A la Secretaría de Desarrollo Industrial corresponde al (sic) despacho de los siguientes asuntos:
+A la Secretaría de Economía corresponde el despacho de los siguientes asuntos:
 
-I.- Promover, fomentar e impulsar las actividades industriales, forestales y mineras en la entidad;
+I. Promover, fomentar e impulsar las actividades industriales, forestales, mineras, comerciales y turísticas en la Entidad;
 
-II.- Asesorar y orientar a los inversionistas para la creación de empresas industriales, forestales y mineras, a fin de promover fuentes de empleo;
+II. Formular y promover el establecimiento de medidas para fomentar la innovación y competitividad en los procesos productivos;
 
-III.- Establecer un sistema de información industrial, forestal y minero, así como los mecanismos necesarios para su difusión;
+III. Promover el crecimiento económico de los municipios y las regiones de la Entidad, sobre bases de desarrollo equilibrado y sustentable, considerando sus ventajas competitivas;
 
-IV.- Elaborar y mantener actualizado el inventario de infraestructura industrial, forestal y minero;
+IV. Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
 
-V.- Proporcionar asistencia técnica a la pequeña y mediana industria, en coordinación con los gobiernos federal y municipales, así como los sectores privado social;
+V. Asesorar y orientar a los inversionistas extranjeros y nacionales para la creación de empresas industriales, forestales, mineras, comerciales y turísticas y demás sectores productivos, a fin de promover fuentes de empleo;
 
-VI.- Participar en los planes y programas que en materia financiera, fiscal, administrativa y social se requieran para lograr el fortalecimiento de los sectores minero, forestal e industrial;
+VI. Establecer un sistema de información integral de los principales sectores productivos del Estado, incluyendo las actividades industrial, comercial, turística, minera, forestal, agroindustrial, frutícola, pecuaria y de todas las que por su importancia se consideren estratégicas para el desarrollo económico, así como los mecanismos necesarios para su difusión;
 
-VII.- Promover y apoyar el desarrollo de empresas industrializadoras de productos agrícolas y frutícolas, preferentemente en las zonas rurales de la entidad, con el fin de impulsar la creación de empleos y contribuir al arraigo de la población;
+VII. Elaborar y mantener actualizado el inventario de infraestructura industrial, turístico, forestal y minero;
 
-VIII.- Apoyar los trámites relativos a la creación, establecimiento, regularización y funcionamiento de las microindustrias en el Estado;
+VIII. Proporcionar asistencia técnica a la pequeña y mediana industria, en coordinación con los gobiernos federal y municipales, así como con los sectores privado y social;
 
-IX.- Fomentar el desarrollo de la industria maquiladora y el de sus proveedores;
+IX. Participar en los planes y programas que en materia financiera, fiscal, administrativa y social se requieran para lograr el fortalecimiento de los sectores industrial, comercial, turístico, minero, agroindustrial, forestal y pecuario y demás sectores productivos;
 
-X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en materia de industria, desarrollo forestal y minería, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+X. Promover y apoyar el desarrollo de empresas industrializadoras de productos agrícolas, pecuarios y frutícolas, preferentemente en las zonas rurales de la Entidad, con el fin de impulsar la creación de empleos y contribuir al arraigo de la población;
 
-XI.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+XI. Apoyar los trámites relativos a la creación, establecimiento, regularización y funcionamiento de las microindustrias en el Estado;
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+XII. Fomentar el desarrollo de la industria maquiladora y el de sus proveedores;
 
-ARTICULO 28 BIS.- A la Secretaría de Desarrollo Comercial y Turístico corresponde al (sic) despacho de los siguientes asuntos:
+XIII. Promover la participación de los empresarios en la creación de centros de abasto;
 
-I.- Fomentar la organización, regulación y modernización de los sectores comercial y turístico en el Estado, a través de apoyos técnicos y la gestión de créditos;
+XIV. Proponer acciones y alternativas de solución a la problemática que enfrenta el comercio organizado, conjuntamente con las autoridades federales y municipales y el sector comercio;
 
-II.- Promover la participación de los empresarios en la creación de centros de abasto;
+XV. Diseñar estrategias e instrumentos de promoción para que el turismo del Estado tenga difusión a nivel nacional e internacional;
 
-III.- Proponer acciones y alternativas de solución, conjuntamente con las autoridades municipales y federales y los comerciantes, de la problemática que enfrenta el comercio organizado;
+XVI. Coordinar la participación de los sectores público, social y privado en las acciones orientadas a la identificación, creación, conservación, mejoramiento y uso adecuado de los recursos naturales, históricos y culturales de interés turístico en el Estado;
 
-IV.- Diseñar estrategias e instrumentos de promoción para que el comercio del Estado tenga difusión a nivel nacional e internacional;
+XVII. Coordinar las gestiones encaminadas a dotar a las localidades turísticas de infraestructura de comunicaciones y apoyar los servicios públicos y de equipamiento urbano necesarios;
 
-V.- Coordinar la participación de los sectores público, social y privado en las acciones orientadas a la identificación, creación, conservación, mejoramiento y uso adecuado de los recursos naturales, históricos y culturales de interés turístico en el Estado;
+XVIII. Instrumentar el sistema de información turística estatal, para promover nacional e internacionalmente los destinos turísticos locales;
 
-VI.- Coordinar las gestiones encaminadas a dotar a las localidades turísticas de infraestructura de comunicaciones y apoyar los servicios públicos y de equipamiento urbano necesarios;
+XIX. Otorgar la asistencia técnica que en materia turística requieran los prestadores de estos servicios;
 
-VII.- Instrumentar el sistema de información turística estatal para promover nacional e internacionalmente los destinos turísticos locales;
+XX. Diseñar proyectos turísticos que involucren directamente a los pobladores en las actividades de inversión para el desarrollo de las regiones;
 
-VIII.- Otorgar la asistencia técnica que en materia turística requieran los prestadores de estos servicios;
+XXI. Fomentar el turismo ecológico promoviendo para tal efecto el cuidado y la preservación del ambiente natural;
 
-IX.- Diseñar proyectos turísticos que involucren directamente a los pobladores en las actividades de inversión para el desarrollo de las regiones;
+XXII. Ejercer las atribuciones derivadas de los convenios que en materia de desarrollo económico celebre el Gobierno del Estado con el Gobierno Federal o con los municipios de la Entidad, así como con instituciones y personas morales públicas y privadas;
 
-X.- Fomentar el turismo ecológico promoviendo para tal efecto el cuidado y la preservación del ambiente natural;
+XXIII. Dirigir y vigilar el cumplimiento de la Ley de Desarrollo y Fomento Económico para el Estado de Chihuahua, así como de las demás leyes y disposiciones en materia de industria, comercio, turismo y demás actividades productivas; y
 
-XI.- Ejercer las atribuciones derivadas de los convenios que en materia turística celebre el gobierno del Estado con el gobierno federal o con los municipios de la entidad;
+XXIV. Los demás que le fijen expresamente las leyes y sus reglamentos.
 
-XII.- Promover la inversión nacional y extranjera en el desarrollo turístico del Estado;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-XIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en materia de comercio y turismo, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+ARTICULO 28 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-XIV.- Los demás que le fijen expresamente las leyes y sus reglamentos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 29.
 
-A la Secretaría de Educación y Cultura corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Educación, Cultura y Deporte corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
@@ -651,21 +739,27 @@ V.- Coordinar con las universidades e instituciones de educación superior lo re
 
 VI.- Impulsar actividades de difusión y fomento a la cultura;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-VII.- Otorgar a instituciones y particulares becas y subsidios educativos y culturales, conforme a los montos y límites previstos en el Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+VII.- Otorgar a instituciones y particulares becas, subsidios educativos, culturales y deportivos, conforme a los montos autorizados en el Presupuesto de Egresos;
 
-VIII.- Coordinar y evaluar el funcionamiento de los organismos y entidades estatales dedicados a actividades culturales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VIII.- Coordinar y evaluar el funcionamiento de los organismos y entidades estatales dedicados a actividades deportivas y culturales;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 IX.- Ejercer las atribuciones establecidas en la Ley Estatal de Profesiones;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones educativas y de fomento cultural, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Dirigir y vigilar el cumplimiento de las leyes y reglamentos en relación a las funciones educativas y de fomento cultural y deportivo, así como vigilar la organización y el funcionamiento de las unidades administrativas e instituciones que ejerzan las atribuciones anteriores;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
 
@@ -687,13 +781,23 @@ XIV.- Fomentar y apoyar las actividades relacionadas con la ciencia y tecnologí
 
 XV.- Ser autoridad en materia de infraestructura física educativa, en los términos previstos por las leyes y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-XVI.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este artículo, y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1994)</small>
+XVI.- Organizar, coordinar y fomentar la enseñanza y práctica de los deportes;
 
-XVII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XVII.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este artículo, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -701,7 +805,11 @@ XVII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 A la Secretaría de Comunicaciones y Obras Públicas corresponde el despacho de los siguientes asuntos:
 
-I.- Dirigir, coordinar y controlar la ejecución de los programas de obras públicas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Dirigir, coordinar, controlar y ejecutar de manera exclusiva todos los programas de obra pública, a excepción de los casos expresamente previstos en las leyes o por disposición del Titular del Ejecutivo. El mantenimiento menor de los bienes inmuebles corresponde realizarlo a las dependencias a cuyo cargo se encuentren asignados;
 
 II.- Proyectar, diseñar y presupuestar toda clase de obras materiales;
 
@@ -769,9 +877,23 @@ XII.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos con relac
 
 XIII.- Instrumentar, ejecutar y evaluar los programas, servicios y acciones relativos a la conservación y aprovechamiento sustentable de la vida silvestre, en el Estado, de conformidad con la normatividad aplicable.
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-XIV.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XIV.- En apoyo al fortalecimiento técnico, financiero y fiscal de los municipios, observar el cumplimiento de las leyes y sus reglamentos con relación a las funciones del catastro, así como vigilar la organización y el funcionamiento de la unidad administrativa que ejerza estas atribuciones;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XV.- Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica y, en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -815,55 +937,59 @@ VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relac
 
 IX.- Los demás que le fijen expresamente las leyes y sus reglamentos.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 33.
 
-A la Secretaría de Desarrollo Municipal corresponde el despacho de los siguientes asuntos:
+A la Secretaría del Trabajo y Previsión Social corresponde el despacho de los siguientes asuntos:
 
-I.- Elaborar los planes y programas tendientes a apoyar el desarrollo de los Municipios, mediante el mejor aprovechamiento de sus recursos;
+I. Coordinar y conducir la política laboral en el Estado, mediante la promoción y desarrollo de programas y acciones de fortalecimiento a la cultura laboral que impulsen la productividad y la competitividad, así como el mejoramiento de las condiciones de trabajo y el fomento y la promoción del empleo;
 
-II.- Proponer al Ejecutivo las acciones y mecanismos de coordinación entre el Estado y los Municipios para fortalecer el Desarrollo Económico y Social de éstos;
+II. Vigilar, mediante visitas, inspecciones y demás acciones inherentes y conexas, que los centros de trabajo cumplan con las disposiciones de la Ley Federal del Trabajo, sus reglamentos y demás disposiciones legales en materia laboral; hacer las recomendaciones que así lo ameriten, así como calificar e imponer sanciones administrativas en los términos de las disposiciones legales aplicables;
 
-III.- Proponer al Ejecutivo la celebración de convenios de coordinación con los Municipios, para la realización de obras y la prestación de Servicios Públicos;
+III. Diseñar, promover e implementar programas de capacitación, calidad, seguridad e higiene laboral, mediante diplomados, cursos, seminarios y eventos en general, que contribuyan al desarrollo de los trabajadores y de las empresas;
 
-IV.- Gestionar el apoyo a los Ayuntamientos en las acciones tendientes al logro de su desarrollo administrativo, para fortalecer sus sistemas de planeación, programación, control y evaluación, así como los procedimientos operativos para optimizar la prestación de los servicios públicos municipales;
+IV. Dar seguimiento y, en su caso, realizar las acciones derivadas de los convenios y programas coordinados con la Federación y con otras Entidades Federativas en materia laboral;
 
-V.- Promover el desarrollo equilibrado de los municipios conurbados, impulsando la organización regional, de acuerdo con la vocación económica de cada zona; y (sic)
+V. Intervenir conciliatoriamente en conflictos obrero-patronales;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2003)</small>
+VI. Participar en la integración y funcionamiento del Consejo Consultivo Estatal de Capacitación y Adiestramiento, así como en la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
 
-VI.- En apoyo al fortalecimiento técnico, financiero y fiscal de los municipios, observar el cumplimiento de las leyes y sus reglamentos con relación a las funciones del catastro, así como vigilar la organización y el funcionamiento de la Dirección que ejerza estas atribuciones;
+VII. Participar en la integración y funcionamiento de la Coordinación Estatal para la Mejora Laboral, en los términos del acuerdo o acuerdos respectivos;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2003)</small>
+VIII. Coordinar y supervisar el funcionamiento de las Juntas Locales de Conciliación y Arbitraje, las cuales actuarán con la autonomía que la Ley Federal del Trabajo les concede;
 
-VII.- Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica, y en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro, y (sic)
+IX. Coordinar y supervisar el funcionamiento de la Procuraduría de la Defensa del Trabajo y, a través de la misma, representar y asesorar a los trabajadores y a los sindicatos ante cualquier autoridad, resolver sus consultas jurídicas y representarlos en los conflictos que se relacionen con las disposiciones legales en materia laboral, de conformidad con lo dispuesto en la Ley Federal del Trabajo y el Reglamento Interior de esta Secretaría; así como coordinar y supervisar el funcionamiento de la Inspectoría del Trabajo;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2005)</small>
+X. Vigilar que las empresas proporcionen a los trabajadores la capacitación y el adiestramiento que permitan su desarrollo profesional y personal;
 
-VIII.- Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Municipales electos y sus suplentes, a fin de que una vez que reciban la constancia que los acredite como tales y antes de la toma de posesión de su encargo, cuenten con conocimientos y habilidades necesarios para cumplir con sus funciones, bajo criterios de eficiencia y legalidad.
+XI. Reconocer y registrar, por conducto de los órganos competentes, las asociaciones obreras, patronales y profesionales;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+XII. Armonizar las políticas, programas y acciones del Estado con la Federación, Municipios y Entidades Federativas, así como con instituciones públicas y privadas y Tribunales Administrativos en el Estado, en materia laboral;
 
-Así mismo dada la diversa naturaleza de la gestión de regidores y síndicos municipales, elaborar e impartir cursos de capacitación para éstos con los mismos requisitos y consecuencias que los citados en el párrafo anterior;
+XIII. Coordinar y vigilar el funcionamiento del Sistema Estatal de Empleo de conformidad con las disposiciones legales aplicables y los convenios celebrados con la Federación, así como proporcionar a la Secretaría del Trabajo y Previsión Social del Ejecutivo Federal, los informes correspondientes;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+XIV. Promover y difundir el Servicio Estatal de Empleo, para un mejor cumplimiento de sus objetivos;
 
-IX.- Proporcionar asesoría y asistencia técnica a los municipios que así lo soliciten;
+XV. Impulsar e implementar programas de apoyo a proyectos productivos colectivos, así como proporcionar asesoría a negocios individuales y familiares en apoyo al autoempleo;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+XVI. Impulsar esquemas de trabajo para la creación de micro negocios en mercados de trabajo suburbanos y rurales, así como programas que atiendan la problemática del empleo e incentiven el autoempleo;
 
-X.- Brindar capacitación permanente a los miembros de los ayuntamientos y de la administración pública municipal, que así lo demande;
+XVII. Diseñar, promover e impartir cursos de capacitación para desempleados, con el objeto de integrarlos a la planta productiva, en coordinación con las autoridades laborales de la Federación;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+XVIII. Crear modelos innovadores de calidad y asesorar a las empresas para aumentar la competitividad, la productividad y los empleos;
 
-XI.- Proporcionar asistencia técnica en materias administrativas de planeación y de hacienda, en las áreas en que éstas sean competencia de los municipios, cuando así lo soliciten;
+XIX. Coordinar y evaluar el desarrollo y actualización del sistema integral de estadísticas del trabajo, de acuerdo con las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2005)</small>
+XX. Evaluar permanentemente las tendencias y evolución del mercado de trabajo en el Estado;
 
-XII.- Colaborar con los gobiernos municipales en la elaboración de proyectos de desarrollo municipal, cuando lo soliciten;
+XXI. Proponer y aplicar el desarrollo de sistemas de procesamiento electrónico de datos que coadyuven en la divulgación de información y a la toma de decisiones en materia laboral;
 
-XIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+XXII. Coordinar, supervisar y evaluar las actividades y resultados de las entidades sectorizadas a la Secretaría; y
+
+XXIII. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -911,95 +1037,137 @@ XVI.- Representar, salvo disposición expresa del Gobernador, ante toda clase de
 
 XVII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de auditoría interna, así como vigilar el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
 
-XVIII.- Los demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII.- Formular y difundir la normatividad para la elaboración de manuales de organización, de procedimientos y de servicios, así como de reglamentos interiores y demás instrumentos administrativos que formalizan la estructura y el funcionamiento de las dependencias y entidades de la administración pública estatal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XIX. Normar, planear, diseñar y evaluar, conjuntamente con las dependencias y entidades de la administración pública estatal, las adecuaciones que deban hacerse en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para lograr su desarrollo y modernización, evaluando el desempeño de los resultados;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XX. Planear, desarrollar y mantener la infraestructura de tecnología de información y comunicación a nivel competitivo, así como una plataforma de desarrollo de sistemas basada en un modelo integral de datos que permita optimizar las funciones del Ejecutivo;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXI. Desarrollar los sistemas informáticos, con excepción de aquellos sistemas y equipos estratégicos bajo la responsabilidad de otras dependencias;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXII. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 35.
 
-La Procuraduría General de Justicia es la Dependencia del Poder Ejecutivo del Estado en la que se integran la Institución del Ministerio Público local y sus órganos auxiliares directos, para el despacho de los asuntos que a aquella y a su titular, en su caso, atribuyen la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, el presente ordenamiento y las demás disposiciones legales y reglamentarias aplicables.
+La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo del Estado encargada de las áreas de Seguridad Pública y Prevención del Delito; Investigación y Persecución del Delito; Atención a Víctimas y Ofendidos del Delito; y, Ejecución de Penas y Medidas Judiciales, con las siguientes atribuciones:
 
-La Institución del Ministerio Público local, presidida por el Procurador General de Justicia y éste personalmente, tendrán entre otras, las siguientes atribuciones:
+A.- En materia de Seguridad Pública y Prevención del Delito:
 
-I.- Vigilar la observancia de los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
+I. Desarrollar las políticas de seguridad pública que establezca el titular del Poder Ejecutivo, y proponer la política criminal en el ámbito estatal, que comprende las normas, instrumentos y acciones para prevenir, de manera eficaz, la comisión de delitos e infracciones;
 
-II.- La persecución, ante los tribunales, de todos los delitos del orden local; y por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten los elementos del tipo penal y la responsabilidad de los inculpados; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita y pedir la aplicación de las penas impuestas por los tribunales, exigiendo de quien corresponda, el cumplimiento de las sentencias recaídas;
+II. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la prevención de delitos e infracciones;
 
-III.- Intervenir en los juicios y diligencias que se relacionen con ausentes, menores, incapacitados o establecimientos de beneficencia pública, a los que representará siempre que no tuvieren quien los patrocine, velando por sus intereses;
+III. Implementar acciones tendientes a prevenir el comportamiento criminal;
 
-IV.- Rendir a los Poderes del Estado, los informes que le pidiesen sobre asuntos relativos a su ramo;
+IV. Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Programa Estatal de Seguridad Pública;
 
-V.- Dictar las medidas adecuadas para combatir y erradicar la violencia contra la mujer y los niños, desarrollando para tal efecto mecanismos institucionales; y
+V. Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad, prevención del delito y reinserción social de delincuentes entre las Direcciones de Seguridad Pública Municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias;
 
-VI.- Otorgar la protección que la ley prevé a los derechos de las víctimas, estableciendo y reforzando mecanismos jurídicos y administrativos que permitan obtener la reparación del daño.
+VI. Representar al titular del Poder Ejecutivo en el Consejo Estatal de Seguridad Pública y en el Sistema Nacional de Seguridad Pública;
 
-El Procurador intervendrá por sí o por conducto de los Agentes del Ministerio Público, en el ejercicio de las atribuciones a que se refiere este artículo, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el Ejecutivo local o el propio Procurador. El Reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la Dependencia.
+VII. Proponer, en el seno del Consejo Estatal de Seguridad Pública, los medios indispensables para la prevención de la criminalidad y la comisión de delitos e infracciones;
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+VIII. Suministrar, intercambiar y sistematizar la información sobre seguridad pública, prevención, investigación y persecución del delito, imputados, procesados, sentenciados y reos a través del Centro Estatal de Estadística Criminal, con las demás autoridades estatales y municipales;
 
-ARTICULO 35 BIS.- A la Secretaría de Seguridad Pública corresponde el despacho de los siguientes asuntos:
+IX. Fomentar a nivel estatal la participación ciudadana, en la formulación y desarrollo de programas de prevención;
 
-I.- Desarrollar las políticas de seguridad pública que establezca el titular el (sic) Poder Ejecutivo, y proponer la política criminal en el ámbito Estatal, que comprende las normas, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos e infracciones;
+X. Elaborar y difundir los estudios e investigaciones criminológicos;
 
-II.- Realizar las investigaciones de orden científico para determinar las causas y factores de los diversos tipos de criminalidad;
+XI. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, estatales y municipales; y
 
-III.- Implementar acciones tendientes a prevenir ciertas formas de comportamiento criminal;
+XII. Dirigir y vigilar el cumplimiento de las leyes y reglamentos, con relación a las funciones de Protección Civil, y organizar el funcionamiento de las direcciones que ejerzan dichas atribuciones.
 
-IV.- Fungir como nivel superior jerárquico inmediato de las unidades administrativas de los cuerpos de seguridad pública estatales;
+B.- En materia de Investigación y Persecución del Delito, la Institución del Ministerio Público local y sus órganos auxiliares directos, se integran en la Fiscalía General del Estado para el despacho de los asuntos que le atribuyen la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la presente Ley y las demás disposiciones legales y reglamentarias aplicables.
 
-V.- Formular al Ejecutivo Estatal las propuestas necesarias para la elaboración del Programa Estatal de Seguridad Pública;
+La Institución del Ministerio Público local, presidida por el Fiscal General del Estado, y éste personalmente, tienen las siguientes atribuciones:
 
-VI.- Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de la política pública en materia de seguridad, prevención del delito y readaptación social de delincuentes entre las Direcciones de Seguridad Pública Municipal y/o comandancias de policía, en el ámbito de sus respectivas competencias;
+I. Vigilar la observancia de los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
 
-VII.- Representar al titular del Poder Ejecutivo en el Consejo Estatal de Seguridad Pública y en el Sistema Nacional de Seguridad Pública;
+II. La investigación y la persecución, ante los tribunales, de todos los delitos del orden local; y por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los imputados; buscar y presentar las pruebas que acrediten los elementos del tipo penal y la responsabilidad de los imputados;
 
-VIII.- Proponer en el seno del Consejo Estatal de Seguridad Pública, los medios indispensables para la prevención de la criminalidad y la comisión de delitos e infracciones;
+III. Hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita y pedir la aplicación de las penas impuestas por los tribunales;
 
-IX. Suministrar, intercambiar y sistematizar la información sobre seguridad pública con la Procuraduría General de Justicia y demás autoridades estatales y municipales, en la materia;
+IV. Intervenir en los juicios y diligencias que se relacionen con ausentes, menores, incapacitados o establecimientos de beneficencia pública, a los que representará siempre que no tuvieren quien los patrocine, velando por sus intereses;
 
-X.- Fomentar a nivel estatal la participación ciudadana, en la formulación y desarrollo de programas de prevención;
+V. Rendir a los Poderes del Estado, los informes que le pidiesen sobre los asuntos relativos a su ramo;
 
-XI.- Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar técnica y científicamente la información para la prevención de delitos e infracciones;
+VI. Dictar las medidas adecuadas para combatir y erradicar la violencia contra la mujer y los niños, desarrollando para tal efecto mecanismos institucionales;
 
-XII.- Elaborar y difundir los estudios e investigaciones criminólogicas;
+VII. Otorgar la protección que la ley prevé a los derechos de las víctimas, estableciendo y reforzando mecanismos jurídicos y administrativos que permitan obtener la reparación del daño;
 
-XIII.- A través de programas específicos, otorgar atención a las víctimas del delito y celebrar acuerdos de colaboración con otras instituciones del sector público, privado y social;
+VIII. Ejercer el mando sobre la Policía Estatal Única en los términos de su Ley Orgánica y de las demás disposiciones aplicables;
 
-XIV.- Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, Estatales y Municipales;
+IX. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes Infractores;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2006)</small>
+X. Organizar, dirigir y supervisar la Escuela Estatal de Policía, el Centro Estatal de Control de Confianza, los Centros de Control, Comando, Comunicaciones y Cómputo, la Dirección de Servicios Periciales y Ciencias Forenses, el Centro de Justicia Alternativa y las demás Unidades Técnicas y Administrativas que establezcan las leyes y sus reglamentos; y
 
-XV.- Diseñar la política penitenciaria en los delitos del orden local; ejecutar, vigilar y coordinar la ejecución de las penas medidas de seguridad, medidas cautelares y condiciones de la suspensión del proceso a prueba, en los términos de la legislación de la materia; así como organizar y dirigir los programas a liberados, sentenciados o procesados;
+XI. Aplicar los mecanismos legales para el Ingreso, Promoción, Permanencia, Responsabilidades y Estímulos de los servidores de la Fiscalía General del Estado.
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+El Fiscal General intervendrá por sí o por conducto de las Fiscalías Especializadas, o de los Agentes del Ministerio Público, en el ejercicio de las atribuciones a que se refiere este artículo, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el Ejecutivo local o el propio Fiscal General.
 
-XVI.- Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los centros especializados de Internamiento para adolescentes y demás instituciones similares;
+El Reglamento prevendrá la distribución de los asuntos entre las Unidades Técnicas y Administrativas de la Dependencia.
 
-XVII.- Participar, conforme a los convenios respectivos, en el traslado de los internos de los Centros de Reclusión en el Estado;
+C.- En materia de Atención a Víctimas y Ofendidos del Delito:
 
-XVIII.- Diseñar la política criminal para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial;
+I. A través de programas específicos, otorgar atención a las víctimas del delito y celebrar acuerdos de colaboración con otras instituciones del sector público, privado y social;
 
-XIX.- Dirigir y vigilar el cumplimiento de las leyes y reglamentos con relación a las funciones de tránsito y protección civil, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones correspondientes y de acuerdo con los ordenamientos legales aplicables;
+II. Proporcionar orientación y asesoría jurídica a las víctimas u ofendidos por delitos, y vigilar que se garantice o se cubra la reparación del daño, de conformidad con las disposiciones legales aplicables;
 
-XX.- Ejercer la vigilancia del tránsito y coordinar y normar las funciones de las delegaciones de tránsito en el Estado;
+III. Canalizar a las víctimas u ofendidos por delitos, a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención; y
 
-XXI.- Generar la infraestructura necesaria para la profesionalización de los cuerpos de seguridad pública;
+IV. Las demás que le confieran la presente Ley y otros ordenamientos legales.
 
-XXII.- Las demás que le atribuyan expresamente las leyes o reglamentos.
+D.- En materia de Ejecución de Penas y Medidas Judiciales:
+
+I. Diseñar la política penitenciaria en los delitos del orden local; desarrollar el procedimiento de ejecución de sanciones penales, así como organizar y dirigir los programas a liberados, sentenciados o procesados; de igual forma, diseñar, coordinar, supervisar, organizar y administrar los programas de atención integral y los de seguimiento requeridos para la ejecución de medidas de adolescentes infractores, en los términos de la legislación de la materia;
+
+II. Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los centros especializados de internamiento para adolescentes y demás instituciones similares;
+
+III. Participar, conforme a los convenios respectivos, en el traslado de los internos de los Centros de Reclusión en el Estado;
+
+IV. Diseñar la política criminal para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial; y
+
+V. Las demás que le atribuyan expresamente las leyes o reglamentos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+ARTICULO 35 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 36.
 
-La Coordinación de Comunicación Social tendrá las siguientes atribuciones:
+Además de las dependencias a que se refiere el artículo 24 de esta Ley, el Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con la Coordinación de Comunicación Social, la Coordinación de Relaciones Públicas y la Consejería Jurídica.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+Para el cumplimiento de sus funciones, y salvo disposición en contrario de la ley, el titular de la Consejería Jurídica tendrá las facultades de representación legal del Titular (sic) Poder Ejecutivo más amplias y necesarias para el desahogo de todo tipo de litigios, ante cualquier autoridad federal, estatal o municipal, así como para las acciones y controversias constitucionales en las que el Estado sea parte. Estas facultades podrán ser delegadas.
 
-I.- Diseñar, difundir y supervisar toda la información noticiosa generada por las dependencias y entidades del Ejecutivo, así como los programas y acciones de interés comunitario;
-
-II.- Diseñar y mantener un proceso dinámico de consulta de opinión ciudadana para medir el impacto real de la información noticiosa difundida, la efectividad de los medios utilizados, conocer la actitud de los gobernados ante acciones realizadas o por realizarse y la imagen de las instituciones, sus dirigentes, acciones y programas;
-
-III.- Captar y compilar la información noticiosa publicada, que se relacione con las actividades del Poder Ejecutivo, para mantener enterados oportunamente a los funcionarios;
-
-IV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+Así mismo será la encargada de todos los aspectos propios de su naturaleza relacionados con la asesoría jurídica al Gobernador, y los demás asuntos que le encomiende directamente.
 
 ARTICULO 36 BIS.- (DEROGADO, P.O. 19 DE ENERO DE 2005)
 
@@ -1592,3 +1760,133 @@ OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados
 NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
 
 DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 1142/2010 XII P.E., POR EL QUE SE REFORMAN LOS ARTICULOS 2, FRACCION II; 5; 13, PARRAFOS PRIMERO, SEGUNDO Y SUS FRACCIONES I, II, III, IV Y V; TERCERO, CUARTO Y QUINTO PARRAFOS; 24, FRACCIONES XIV Y XV, Y 35; SE DEROGAN LOS ARTICULOS 13 EN SU FRACCION VI; 24, FRACCION XVI, Y 35 BIS; DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la Ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 1143/2010 XII P.E., POR EL QUE SE ADICIONAN LAS FRACCIONES XXII A LA XXVII AL ARTICULO 25; LA FRACCION XVIII AL ARTICULO 29; LAS FRACCIONES XV Y XVI AL ARTICULO 31; LAS FRACCIONES XIX A LA XXII AL ARTICULO 34. SE REFORMAN LOS ARTICULOS 5; 12; 18; LAS FRACCIONES II, III, VI, VII Y XIV DEL ARTICULO 24; LAS FRACCIONES XVIII Y XXI DEL ARTICULO 25; 26; LA FRACCION IX DEL ARTICULO 27, 28; 29, FRACCIONES VII, VIII, X, XVI Y XVII; 30, FRACCION I; 31, FRACCION XIV; 33; LA FRACCION XVIII DEL ARTICULO 34; Y 36. SE DEROGAN LAS FRACCIONES VIII, XII, XV Y XVI DEL ARTICULO 24; LOS ARTICULOS 26 BIS Y 28 BIS, DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+Una vez que el presente Decreto se publique en el Periódico Oficial del Estado, el mismo entrará en vigor el día 4 de octubre de 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento al presente Decreto, se faculta al Ejecutivo del Estado para organizar la estructura administrativa de las dependencias y unidades orgánicas que se crean, incluida la Consejería Jurídica, así como de las unidades administrativas que se reasignan por virtud del mismo, y realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación de las mismas conforme al Presupuesto de Egresos para el 2010, incluso para realizar las erogaciones necesarias conforme a la estructura presupuestaria autorizada para el 2010. El Presupuesto de Egresos para el 2011 deberá expresar la estructura presupuestaria y orgánica de las dependencias y unidades orgánicas que se crean mediante este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Hacienda los bienes muebles, archivos y, en general, documentos que tenían destinados a su servicio, manejo y resguardo la Secretaría de Finanzas y Administración y la Secretaría de Planeación y Evaluación.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Finanzas y Administración y la Secretaría de Planeación y Evaluación, serán continuados por y ante la Secretaría de Hacienda, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Finanzas y Administración y la Secretaría de Planeación y Evaluación en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Secretaría de Hacienda a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, a la Secretaría de Finanzas o a la Secretaría de Finanzas y Administración, se entenderá citada a la Secretaría de Hacienda; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en cualquier otro instrumento jurídico que fuere, se haga referencia a la Coordinación de Planeación y Evaluación o a la Secretaría de Planeación y Evaluación, se entenderá citada a la Secretaría de Hacienda.
+
+###### ARTÍCULO OCTAVO.
+
+Se transfieren a la Secretaría de Economía los bienes muebles archivos y documentos que tenían destinados a su servicio, manejo y resguardo la Secretaría de Desarrollo Industrial y la Secretaría de Desarrollo Comercial y Turístico.
+
+###### ARTÍCULO NOVENO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Desarrollo Industrial o la Secretaría de Desarrollo Comercial y Turístico, serán continuados por y ante la Secretaría de Economía, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Desarrollo Industrial o la Secretaría de Desarrollo Comercial y Turístico en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Economía a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Desarrollo Industrial o a la Secretaría de Desarrollo Comercial y Turístico, se entenderá citada a la Secretaría de Economía.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Se transfieren a la Secretaría de Desarrollo Urbano y Ecología, los bienes muebles, activos, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la extinta Secretaría de Desarrollo Municipal respecto a la función catastral.
+
+ARTÍCULO DECIMOTERCERO.- Se transfieren a la Secretaría del Trabajo y Previsión Social los bienes muebles, activos, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la Dirección de Trabajo y Previsión Social, dependiente de la Secretaría General de Gobierno hasta antes de la expedición del presente Decreto.
+
+ARTÍCULO DECIMOCUARTO.- El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Dirección de Trabajo y Previsión Social, serán continuados por y ante la Secretaría del Trabajo y Previsión Social.
+
+ARTÍCULO DECIMOQUINTO.- Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Dirección de Trabajo y Previsión Social en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría del Trabajo y Previsión Social a partir de la entrada en vigor de este Decreto.
+
+ARTÍCULO DECIMOSEXTO.- Cuando en cualquier otro instrumento jurídico se haga referencia a la Dirección de Trabajo y Previsión Social, se entenderá citada a la Secretaría del Trabajo y Previsión Social.
+
+ARTÍCULO DECIMOSÉPTIMO.- Se transfieren a la Secretaría General de Gobierno los archivos y documentos que tenían destinados a su servicio, manejo y resguardo la Secretaría de Desarrollo Municipal respecto de las unidades administrativas que se le transfieran conforme al presente Decreto.
+
+ARTÍCULO DECIMOCTAVO.- El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Desarrollo Municipal, serán continuados ante la Secretaría General de Gobierno o ante la Secretaría de Desarrollo Urbano y Ecología, considerando las funciones y unidades administrativas que a cada una se le transfieren de la extinta Secretaría de Desarrollo Municipal conforme a este Decreto.
+
+ARTÍCULO DECIMONOVENO.- Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Desarrollo Municipal en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Secretaría General de Gobierno o por la Secretaría de Desarrollo Urbano y Ecología, considerando las funciones que a cada una se le transfieren de la extinta Secretaría de Desarrollo Municipal conforme a este Decreto.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Coordinación de Fortalecimiento Municipal o a la Secretaría de Desarrollo Municipal, se entenderá citada a la Secretaría General de Gobierno o a la Secretaría de Desarrollo Urbano y Ecología, considerando las funciones que a cada una se le transfieren de la extinta Secretaría de Desarrollo Municipal conforme a este Decreto.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Las disposiciones reglamentarias establecerán las bases de coordinación entre los diferentes órganos del Poder Ejecutivo para la prestación de los servicios jurídicos, en los términos del artículo 18 de esta Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+Cuando en la Ley de Cultura Física y Deporte del Estado de Chihuahua se haga referencia a la Secretaría de Fomento Social o al Secretario de Fomento Social, se entenderá citada la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte.
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+El Ejecutivo del Estado expedirá el Reglamento Interior de las dependencias y unidades orgánicas que se crean por virtud del presente Decreto, así como las adecuaciones necesarias a los Reglamentos Interiores de las dependencias que modifican sus atribuciones a partir de la expedición de este Decreto.
+
+###### ARTÍCULO VIGÉSIMO CUARTO.
+
+El Ejecutivo del Estado, en coordinación con la Legislatura Estatal, incorporarán las bases legales y suficiencia presupuestaria necesaria dentro de la legislación correspondiente, respecto del Consejo de Desarrollo Económico del Estado de Chihuahua, con el objeto de garantizar su eficiencia y eficacia, lo cual deberá ejecutarse en el término de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO VIGÉSIMO QUINTO.
+
+Se transfieren a la Secretaría de la Contraloría los archivos magnéticos conteniendo documentación, manuales de procedimientos, manuales de organización, código fuente de los programas que conforman los sistemas desarrollados por la Coordinación de Desarrollo Administrativo y Modernización que dependía de la Secretaría de Finanzas y Administración, así como los archivos de configuración de equipo de comunicaciones, telefonía, de servidores de aplicaciones y de base de datos y documentos en general que tenía asignados a su servicio, manejo y resguardo dicha unidad administrativa.
