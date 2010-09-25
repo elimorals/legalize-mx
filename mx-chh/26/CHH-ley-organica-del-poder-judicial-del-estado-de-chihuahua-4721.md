@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2010-04-07"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -499,11 +499,19 @@ XV. Las demás dependencias necesarias para la buena marcha de la Administració
 
 Integran el Pleno del Supremo Tribunal: el Presidente y los magistrados que estén al frente de las salas, ya fueren centrales o regionales.
 
-El Procurador General de Justicia del Estado podrá asistir a las sesiones plenarias y tendrá voz, pero no voto.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El Fiscal General del Estado podrá asistir a las sesiones plenarias y tendrá voz, pero no voto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 44.
 
-Los Acuerdos Plenos se celebrarán cuando lo disponga el Reglamento de esta Ley o lo determine el Presidente, quien estará obligado a convocarlo siempre que lo soliciten por escrito un Magistrado o el Procurador General de Justicia, expresando el objeto de la sesión, el que deberá ser de la competencia del Pleno.
+Los Acuerdos Plenos se celebrarán cuando lo disponga el Reglamento de esta Ley o lo determine el Presidente, quien estará obligado a convocarlo siempre que lo soliciten por escrito un Magistrado o el Fiscal General del Estado, expresando el objeto de la sesión, el que deberá ser de la competencia del Pleno.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -593,9 +601,11 @@ XXII. Revocar, modificar o confirmar las providencias provisionales que hubiere 
 
 XXIII. Revocar o modificar a petición de alguno de los magistrados, los acuerdos adoptados en sesiones anteriores.
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXIV. Si mediare alguna razón concreta y grave que lo justifique, autorizar el cambio de radicación de los procesos penales y de los instaurados a adolescentes infractores, cuando lo solicite el Procurador General de Justicia del Estado, el imputado, el adolescente o su representante.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XXIV. Autorizar el cambio de radicación de los procesos penales, cuando lo solicite el imputado o el Fiscal General del Estado, si mediare alguna razón concreta y grave que lo justifique.
 
 XXV. Resolver las contradicciones de criterios jurisdiccionales que se manifestaren entre las salas del Tribunal.
 
@@ -1357,19 +1367,51 @@ X.- Rendir, en los primeros cinco días del mes de enero, un informe anual al Pr
 
 XI.- Las demás que prescriban las leyes.
 
-### CAPITULO XI. DE LA DEFENSORIA DE OFICIO
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+### CAPITULO XI. DE LA COORDINACIÓN PARA LA INSTRUMENTACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 101.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+La Coordinación para la Instrumentación del Nuevo Sistema de Justicia Penal, es el órgano interno encargado de coadyuvar con el Pleno, con el Presidente, así como con el Centro Estatal para la Instrumentación del Nuevo Sistema de Justicia Penal, en la ejecución, dentro del ámbito competencial del Poder Judicial, de los programas y acciones que faciliten la correcta y eficiente aplicación de dicho Sistema en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 102.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+Su titularidad se deposita en un Coordinador que será nombrado y removido por el Pleno, a propuesta de su Presidente. En el desempeño de sus funciones dependerá directamente de este último.
+
+El Coordinador gozará de los beneficios a que se refiere el artículo 25, segundo párrafo, de la presente Ley, en cuanto a percepciones, beneficios laborales y jubilación. Para el correcto ejercicio de sus atribuciones, contará con el personal necesario a su cargo, de acuerdo con las posibilidades presupuestales.
+
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 103.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+Son atribuciones de la Coordinación, las siguientes:
+
+I. Formar parte, junto con los magistrados vocales, de la Coordinación Estatal de Evaluación y Seguimiento del Centro Estatal para la Instrumentación del Nuevo Sistema de Justicia Penal;
+
+II. Participar en la ejecución de los programas, proyectos y acciones aprobados por la Coordinación Estatal de Evaluación y Seguimiento del Centro Estatal para la Instrumentación del Nuevo Sistema de Justicia Penal, en las tareas que involucren al Poder Judicial del Estado;
+
+III. Proponer y, en su caso, ejecutar, toda clase de ideas, proyectos, reformas legales o acciones que coadyuven a la mejor instrumentación del Nuevo Sistema de Justicia Penal, tanto al Pleno del Supremo Tribunal de Justicia, a su Presidente, como a la Coordinación Estatal de Evaluación y Seguimiento;
+
+IV. Colaborar con el Secretario Ejecutivo y demás órganos del Centro Estatal para la Instrumentación del Nuevo Sistema de Justicia Penal, en el cumplimiento de sus atribuciones;
+
+V. Coordinarse con el Centro de Formación y Actualización Judicial en el ejercicio de sus atribuciones, en aquellos casos en los que la capacitación, formación, actualización o profesionalización involucre al Nuevo Sistema de Justicia Penal;
+
+VI. Representar al Poder Judicial dentro y fuera del Estado, por instrucciones del Presidente, en todos los eventos relativos al Nuevo Sistema de Justicia Penal, y
+
+VII. Las demás que el Pleno o su Presidente le confieran.
 
 ###### ARTICULO 104.
 
@@ -3346,3 +3388,41 @@ PRIMERO.- El presente Artículo Segundo entrará en vigor al día siguiente de s
 SEGUNDO.- El Pleno del Supremo Tribunal de Justicia del Estado, con fundamento en lo dispuesto por el artículo 50 de la Ley Orgánica del Poder Judicial, realizará el nombramiento y adscripción de los jueces especializados que integrarán el o los Tribunales de Extinción de Dominio, previo a la entrada en vigor de la Ley de Extinción de Dominio. El Supremo Tribunal de Justicia podrá adscribir a jueces civiles de primera instancia en dichos Tribunales, hasta que se capaciten y nombren a los especializados.
 
 La organización y funcionamiento de los Tribunales de Extinción de Dominio, así como para las Salas Colegiadas que conozcan de la materia en alzada, se regirá por los acuerdos generales que al efecto dicte el Supremo Tribunal de Justicia.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
