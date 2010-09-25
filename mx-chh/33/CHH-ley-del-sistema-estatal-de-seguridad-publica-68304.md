@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-68304"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2010-08-14"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -65,9 +65,13 @@ La presente Ley es aplicable a los integrantes de las Instituciones Policiales d
 
 El Estado garantizará la seguridad pública, a través del diseño transversal de políticas de prevención y su implementación efectiva, que permita identificar los factores de riesgo que originan la delincuencia para erradicarlos así como participar en la creación de mecanismos para la reinserción social de los transgresores.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 3o.
 
-La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de la Fiscalía General del Estado, de las Instituciones Policiales, del Ministerio Público, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
 
 La función de Seguridad Pública observará y regulará necesariamente:
 
@@ -75,7 +79,11 @@ I.- La coordinación entre el Estado y los municipios con la Federación, para h
 
 II.- Las instancias, instrumentos, políticas públicas, servicios y acciones, tendientes a cumplir los objetivos y fines de la seguridad pública;
 
-III.- El Servicio Profesional de Carrera Ministerial, Pericial y Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los integrantes de las instituciones;
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- El Servicio Profesional de Carrera Policial y Pericial, los esquemas de profesionalización, la certificación y el régimen disciplinario de los integrantes de las instituciones;
 
 IV.- La sistematización de los instrumentos de información sobre seguridad pública, que comprende datos de criminalística, así como del personal de las Instituciones de Seguridad Pública, a través de un Sistema de Información Estatal como herramienta tecnológica que permita el fácil y rápido acceso a la información que se genere;
 
@@ -109,7 +117,11 @@ La coordinación de las instituciones estatales y municipales derivada de esta L
 
 En las operaciones policiales conjuntas para el combate a la criminalidad, se cumplirán, sin excepción, los requisitos previstos en los ordenamientos constitucionales y legales aplicables.
 
-En aquellas operaciones policiales conjuntas para el combate a la criminalidad, deberá establecerse en los acuerdos respectivos la autoridad a cuyo mando quedan a cargo, con excepción de los casos de fuerza mayor o alteración grave del orden público, en los que quedará a cargo de la policía estatal que determine el Ejecutivo del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En aquellas operaciones policiales conjuntas para el combate a la criminalidad, deberá establecerse en los acuerdos respectivos la autoridad a cuyo mando quedan a cargo, con excepción de los casos de fuerza mayor o alteración grave del orden público, en los que quedará a cargo de la Policía Estatal.
 
 ###### ARTÍCULO 8o.
 
@@ -177,25 +189,41 @@ IX.- Las relacionadas con las anteriores, que sean necesarias para incrementar l
 
 Las Instituciones de Seguridad Pública, son los cuerpos de policía y las dependencias y órganos encargados de la seguridad pública en el Estado y los municipios, en los términos del artículo 3º. de la presente Ley, que serán las facultadas para ejecutar las acciones que deriven de la coordinación para el cumplimiento del Sistema Estatal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 12.
 
-Los programas en materia de desarrollo policial serán elaborados por la Secretaría de Seguridad Pública Estatal y los municipios, mismos que contendrán los principios para la homologación del desarrollo policial en el Estado y los municipios, en el ámbito de sus respectivas competencias, de conformidad con la presente Ley.
+Los programas en materia de desarrollo policial serán elaborados por la Fiscalía General del Estado y los municipios, mismos que contendrán los principios para la homologación del desarrollo policial en el Estado y los municipios, en el ámbito de sus respectivas competencias, de conformidad con la presente Ley.
 
 ### CAPÍTULO IV. DE LOS FONDOS DE APOYO ESTATAL PARA LA SEGURIDAD PÚBLICA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 13.
 
-Para el adecuado funcionamiento del Sistema Estatal, se establecerán fondos de apoyo estatal para la seguridad pública, con la aportación que corresponda a la hacienda pública estatal; así mismo, se establecerán reglas para la distribución y la colaboración administrativa entre las diversas instancias, así como para constituir los organismos en materia de coordinación fiscal y dar las bases de su organización y funcionamiento.
+Para el adecuado funcionamiento del Sistema Estatal, se podrán establecer fondos de apoyo estatal para la seguridad pública, con la aportación que corresponda a la hacienda pública estatal; así mismo, se establecerán reglas para la distribución y la colaboración administrativa entre las diversas instancias, así como para constituir los organismos en materia de coordinación fiscal y dar las bases de su organización y funcionamiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 14.
 
-Los fondos de apoyo a los municipios, Secretaría de Seguridad Pública y Procuraduría General de Justicia, con independencia de los fondos de seguridad pública nacionales, se constituirán con cargo a recursos estatales, mismos que serán determinados anualmente en el Presupuesto de Egresos del Estado.
+Los fondos de apoyo a los municipios y a la Fiscalía General del Estado, con independencia de los fondos de seguridad pública nacionales, se podrán constituir con cargo a recursos estatales, mismos que serán determinados anualmente en el Presupuesto de Egresos del Estado.
 
 En el Presupuesto de Egresos del Estado de cada ejercicio fiscal, se hará la distribución de los recursos estatales que integren estos fondos, entre los distintos rubros de gasto del Sistema Estatal de Seguridad Pública, aprobados por el Congreso del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
-El Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, entregará a los municipios los fondos, con base en los criterios que establezca el Congreso del Estado, a propuesta de la Secretaría de Seguridad Pública, utilizando para la distribución de los recursos, factores que incorporen:
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, entregará a los municipios los fondos, con base en los criterios que establezca el Congreso del Estado, a propuesta de la Fiscalía General del Estado, utilizando para la distribución de los recursos, factores que incorporen:
 
 I.- El número de habitantes de los municipios;
 
@@ -209,7 +237,11 @@ V.- los recursos destinados a apoyar las acciones que en materia de la seguridad
 
 VI.- En su caso, el avance en la aplicación de la Política Estatal de Seguridad Pública en materia de desarrollo policial, equipamiento, modernización tecnológica e infraestructura.
 
-La información relacionada con las fórmulas y variables propuestas para el cálculo de la distribución y asignación de recursos, deberá ser comunicada con quince días de anticipación a la fecha límite de presentación del proyecto de presupuesto de egresos del Estado, por parte de la Secretaría de Seguridad Pública a los municipios, a fin de que éstos estén en oportunidad de hacer sus observaciones al Congreso del Estado, antes de la aprobación del Presupuesto de Egresos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La información relacionada con las fórmulas y variables propuestas para el cálculo de la distribución y asignación de recursos, deberá ser comunicada con quince días de anticipación a la fecha límite de presentación del proyecto de presupuesto de egresos del Estado, por parte de la Fiscalía General del Estado a los municipios, a fin de que éstos estén en oportunidad de hacer sus observaciones al Congreso del Estado, antes de la aprobación del Presupuesto de Egresos.
 
 La información relacionada con las fórmulas y variables utilizadas en el cálculo para la distribución y el resultado de su aplicación que corresponderá a la asignación por cada municipio, deberá publicarse en el Periódico Oficial del Estado, a más tardar dentro de los treinta días naturales siguientes a la publicación del Presupuesto de Egresos del Estado, del ejercicio fiscal de que se trate.
 
@@ -221,37 +253,65 @@ Estos fondos se entregarán mensualmente por la Secretaría de Finanzas y Admini
 
 Los municipios reportarán trimestralmente a la Secretaría, el ejercicio de los recursos de los fondos estatales y el avance en el cumplimiento de las metas, así como las modificaciones realizadas a los convenios de colaboración y sus anexos técnicos en la materia o el acuerdo correspondiente, así como la justificación sobre las adecuaciones a las asignaciones previamente establecidas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 17.
 
-Las aportaciones estatales que reciban la Secretaría de Seguridad Pública, la Procuraduría General de Justicia y los municipios, se destinarán exclusivamente a los siguientes rubros:
+Las aportaciones estatales que reciban la Fiscalía General del Estado y los municipios, se destinarán exclusivamente a los siguientes rubros:
 
-I.- Reclutamiento, formación, selección, evaluación y depuración de los recursos humanos vinculados con tareas de seguridad pública y procuración de justicia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-II.- Otorgamiento de estímulos económicos para los agentes del Ministerio Público, peritos, policías investigadores, policías preventivos, así como de custodia de los centros de reinserción social y de adolescentes infractores;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Reclutamiento, formación, selección, evaluación y depuración de los recursos humanos vinculados con tareas de seguridad pública, investigación y persecución de los delitos;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Otorgamiento de estímulos económicos para los Fiscales, agentes del Ministerio Público, peritos, policías investigadores, policías preventivos, así como de custodia de los centros de reinserción social y de adolescentes infractores;
 
 III.- Equipamiento de las policías investigadoras, peritos, ministerios públicos y policías preventivos, así como de custodia de los centros de reinserción social y de adolescentes infractores;
 
-IV.- Establecimiento y operación de la Red Estatal de Telecomunicaciones e Informática para la Seguridad Pública, Procuración de Justicia y el Servicio Telefónico de Emergencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Establecimiento y operación de la Red Estatal de Telecomunicaciones e Informática para la Seguridad Pública, Investigación y Persecución de los Delitos y el Servicio Telefónico de Emergencia;
 
 V.- Construcción, mejoramiento o ampliación de las instalaciones para la procuración e impartición de justicia, de los centros de reinserción social y de adolescentes infractores, así como de las instalaciones de los cuerpos de seguridad pública y sus centros de capacitación, y
 
 VI.- Seguimiento y evaluación de los programas señalados.
 
-###### ARTICULO 18.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Los recursos para el otorgamiento de estímulos económicos para los agentes del Ministerio Público y peritos de la Procuraduría General de Justicia del Estado, policías investigadores, policías preventivos y de custodia, tendrán el carácter de no regularizables en los Presupuestos de Egresos del Estado y los municipios de los ejercicios subsecuentes las responsabilidades laborales que deriven de tales recursos estarán a cargo de cada instancia, en los términos de la presente Ley.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-Dichos recursos deberán aplicarse conforme a los programas derivados de la Política Estatal de Seguridad Pública, acordados con la Procuraduría General de Justicia, la Secretaría de Seguridad Pública Estatal y los municipios, conforme a la Ley.
+###### ARTÍCULO 18.
+
+Los recursos para el otorgamiento de estímulos económicos para los agentes del Ministerio Público y peritos de la Fiscalía General del Estado, policías investigadores, policías preventivos y de custodia, tendrán el carácter de no regularizables en los Presupuestos de Egresos del Estado y los municipios de los ejercicios subsecuentes. Las responsabilidades laborales que deriven de tales recursos estarán a cargo de cada instancia, en los términos de la presente Ley.
+
+Dichos recursos deberán aplicarse conforme a los programas derivados de la Política Estatal de Seguridad Pública, acordados por la Fiscalía General del Estado y los municipios, conforme a la Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 19.
 
-Serán materia de anexos específicos entre el Estado y los municipios, los programas de la Red Estatal de Telecomunicaciones e Informática para la Seguridad Pública, Procuración de Justicia y el Servicio Telefónico de Emergencia del Sistema Estatal de Información.
+Serán materia de anexos específicos entre el Estado y los municipios, los programas de la Red Estatal de Telecomunicaciones e Informática para la Seguridad Pública, Investigación y Persecución de los Delitos y el Servicio Telefónico de Emergencia del Sistema Estatal de Información.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 20.
 
-El control en el manejo de los recursos estatales a que se refiere este Capítulo, quedará a cargo de la dependencia que los ejerce; así mismo, la evaluación y fiscalización de dichos recursos quedará a cargo de la Secretaría de Seguridad Pública, la Secretaría de la Contraloría del Estado, la Secretaría de Finanzas y Administración, y la Auditoría Superior del Estado, en sus respectivos ámbitos de competencia.
+El control en el manejo de los recursos estatales a que se refiere este Capítulo, quedará a cargo de la dependencia que los ejerce; así mismo, la evaluación y fiscalización de dichos recursos quedará a cargo de la Fiscalía General del Estado, la Secretaría de la Contraloría del Estado, la Secretaría de Finanzas y Administración, y la Auditoría Superior del Estado, en sus respectivos ámbitos de competencia.
 
-La Procuraduría General de Justicia y los municipios, estos por conducto de la Secretaría de Seguridad Pública Estatal, proporcionarán al Ejecutivo la información financiera, operativa y estadística que les sea requerida.
+La Fiscalía General del Estado y los municipios proporcionarán al Ejecutivo la información financiera, operativa y estadística que les sea requerida.
 
 ### CAPÍTULO V. DE LAS INSTALACIONES ESTRATÉGICAS
 
@@ -259,15 +319,23 @@ La Procuraduría General de Justicia y los municipios, estos por conducto de la 
 
 Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Política de los Estados Unidos Mexicanos y la Ley de Seguridad Nacional, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 22.
 
-La Secretaría de Seguridad Pública Estatal y los municipios serán los encargados de llevar a cabo la protección, supervisión y desarrollo de las acciones necesarias para la vigilancia de dichas instalaciones y para garantizar su integridad, seguridad y operación, de acuerdo con sus posibilidades.
+La Fiscalía General del Estado y los municipios serán los encargados de llevar a cabo la protección, supervisión y desarrollo de las acciones necesarias para la vigilancia de dichas instalaciones y para garantizar su integridad, seguridad y operación, de acuerdo con sus posibilidades.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 23.
 
-El resguardo de las instalaciones estratégicas queda a cargo de la Secretaría de Seguridad Pública Estatal, que se coordinará con las instituciones municipales correspondientes por razón del territorio en el ejercicio de esta función, las cuales garantizarán la seguridad perimetral y el apoyo operativo en caso necesario.
+El resguardo de las instalaciones estratégicas queda a cargo de la Fiscalía General del Estado, que se coordinará con las instituciones municipales correspondientes por razón del territorio en el ejercicio de esta función, las cuales garantizarán la seguridad perimetral y el apoyo operativo en caso necesario.
 
-Para tal efecto, la Secretaría de Seguridad Pública Estatal emitirá, mediante acuerdos generales de observancia obligatoria, la normatividad aplicable en materia de instalaciones estratégicas.
+Para tal efecto, la Fiscalía General del Estado emitirá, mediante acuerdos generales de observancia obligatoria, la normatividad aplicable en materia de instalaciones estratégicas.
 
 ## TÍTULO SEGUNDO. DE LAS INSTANCIAS DE COORDINACIÓN EN El SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -281,31 +349,55 @@ El Consejo Estatal de Seguridad Pública será la máxima instancia de deliberac
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- El Secretario de Seguridad Pública Estatal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Los presidentes municipales;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-IV.- El Procurador General de Justicia;
+II. El Fiscal General del Estado;
 
-V.- Un representante de las Instituciones de Seguridad Pública de la Federación, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-VI.- El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III. Cuatro presidentes municipales;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV. Un representante de las Instituciones de Seguridad Pública de la Federación, sólo con derecho a voz;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+V. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública quien fungirá como Secretario del Consejo, sólo con derecho a voz, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Seis representantes de la sociedad civil.
 
 Así mismo, se invitarán a las reuniones del Consejo Estatal, a dos representantes del Poder Legislativo.
 
 El Consejo podrá invitar, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública. Dicha participación será con carácter honorífico.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 25.
 
-El Consejo Estatal de Seguridad Pública Ampliado se integrará con las autoridades señaladas en el artículo anterior y los sesenta y siete presidentes municipales, funcionando como ente consultivo del Consejo Estatal; además, invitarán en cada sesión, al menos, a dos representantes de la sociedad civil, o de la comunidad, de conformidad con los temas a tratar; su participación será de carácter honorífico.
+El Consejo Estatal de Seguridad Pública establecerá las regiones en el Estado para que se instalen los Consejos Regionales de Seguridad Pública, que se integrarán como lo determine el Consejo Estatal.
 
-El Consejo Estatal de Seguridad Pública Ampliado designará, en cada reunión semestral, a tres presidentes municipales representantes ante el Consejo Estatal de Seguridad Pública. Lo anterior, sin perjuicio de la asistencia de cualquier otro presidente municipal a tales reuniones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Así mismo, al Consejo Estatal Ampliado asistirán dos representantes del Poder Legislativo.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 26.
 
-El Consejo Estatal designará, a propuesta de su Presidente, al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, quien podrá ser removido libremente.
+El Gobernador del Estado tendrá la facultad de nombrar y remover libremente al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
 
 ###### ARTÍCULO 27.
 
@@ -329,9 +421,13 @@ VIII.- Opinar sobre la aplicación de los fondos en materia de seguridad públic
 
 IX.- Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 28.
 
-El Consejo Estatal de Seguridad Pública se reunirá, por lo menos, cada mes, a convocatoria del Secretario Ejecutivo, quien integrará la agenda de los asuntos a tratar. En tanto, el Consejo Ampliado lo hará cada seis meses.
+El Consejo Estatal de Seguridad Pública se reunirá, por lo menos, cada mes, a convocatoria del Secretario Ejecutivo, quien integrará la agenda de los asuntos a tratar.
 
 Corresponderá al Secretario Ejecutivo, la facultad de promover en todo tiempo la efectiva coordinación y funcionamiento del Consejo Estatal de Seguridad Pública.
 
@@ -343,7 +439,11 @@ El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública, quien será e
 
 I.- Ser ciudadano mexicano por nacimiento, no tener o adquirir otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
-II.- Tener más de 35 años de edad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II.- Tener más de 30 años de edad;
 
 III.- Contar con título de grado de Licenciatura debidamente registrado, y
 
@@ -353,13 +453,21 @@ IV.- Ser de reconocida capacidad y probidad y contar con, por lo menos, cinco a�
 
 Son funciones del Secretario Ejecutivo del Sistema Estatal:
 
-I.- Elaborar, previa opinión del Presidente del Consejo Estatal, la propuesta de contenido de Política Estatal de Seguridad Pública y someterla a la aprobación del Consejo Estatal. A más tardar el día 15 de diciembre de cada año, el Ejecutivo del Estado remitirá al Congreso el documento que contenga la Política de Seguridad Ciudadana, para su aprobación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Elaborar, previa opinión del Presidente del Consejo Estatal, la propuesta de contenido de Política Estatal de Seguridad Pública y someterla a la aprobación del Consejo Estatal.
 
 II.- Levantar y certificar los acuerdos que se tomen en el Consejo Estatal, llevar el archivo de éstos y de los instrumentos jurídicos que deriven;
 
 III.- Ejecutar y dar seguimiento a acuerdos y resoluciones del Consejo Estatal y de su Presidente;
 
-IV.- Proponer, para su aprobación, al Consejo Estatal la política de seguridad ciudadana, lineamientos y acciones para el buen desempeño de las Instituciones de Seguridad Pública del Estado, instrumentos que deberán ser sometidos previamente a la opinión del Presidente del Consejo Estatal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Proponer, para su aprobación, al Consejo Estatal la política de seguridad pública, lineamientos y acciones para el buen desempeño de las Instituciones de Seguridad Pública del Estado, instrumentos que deberán ser sometidos previamente a la opinión del Presidente del Consejo Estatal;
 
 V.- Sugerir mejoras para administrar y sistematizar los instrumentos de información del Sistema, así como recabar todos los datos que se requieran;
 
@@ -371,7 +479,11 @@ VIII.- Promover, por conducto de las Instituciones de Seguridad Pública, la rea
 
 IX.- Tomar las medidas necesarias para hacer efectiva la coordinación y preservación de la seguridad pública;
 
-X.- Someter, para la aprobación del Consejo Estatal, los programas de formación y capacitación para instituciones de procuración de justicia y policiales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+X.- Someter, para la aprobación del Consejo Estatal, los programas de formación y capacitación para instituciones de seguridad pública, prevención, investigación y persecución del delito, y reinserción social de los delincuentes:
 
 XI.- Realizar estudios especializados sobre las materias de seguridad pública, y
 
@@ -391,9 +503,13 @@ Son órganos e instancias auxiliares del Sistema Estatal, los consejos consultiv
 
 Los consejos consultivos se crearán por acuerdo del Ejecutivo del Estado, con la participación de las administraciones municipales, y su integración, atribuciones y funciones serán las que determine el instrumento de su creación, el cual deberá contemplar la participación plural de las organizaciones citadas y publicarse en el Periódico Oficial del Estado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 34.
 
-Los consejos consultivos y los regionales, en coordinación con las organizaciones civiles, podrán formar los comités necesarios para las diferentes áreas de la materia y, en particular, para el estudio especializado de las incidencias delictivas; en ellos podrán participar las autoridades en seguridad pública y procuración de justicia.
+Los consejos consultivos y los regionales, en coordinación con las organizaciones civiles, podrán formar los comités necesarios para las diferentes áreas de la materia y, en particular, para el estudio especializado de las incidencias delictivas; en ellos podrán participar las autoridades en seguridad pública, investigación y persecución del delito.
 
 Con la misma finalidad, se invitará a expertos, instituciones académicas, de investigación y agrupaciones del sector social y privado relacionadas con la materia.
 
@@ -415,11 +531,13 @@ Las instancias regionales podrán proponer, a los consejos consultivos, acuerdos
 
 #### SECCIÓN PRIMERA. DE SU INTEGRACIÓN
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 38.
 
-La Comisión Estatal para la Seguridad Pública estará integrada por los titulares de las dependencias o, en su caso, los órganos encargados de la seguridad pública en el Estado y los municipios; el Titular de la Procuraduría General de Justicia del Estado y un representante de las instancias de seguridad pública de la Federación; será presidida por el Secretario de Seguridad Pública Estatal, y se auxiliará de un Secretario Técnico, el que será nombrado y removido por el Presidente de la misma.
-
-Los titulares de las dependencias u órganos encargados de la seguridad pública en los municipios, participarán en la Comisión Estatal.
+La Comisión Estatal para la Seguridad Pública estará integrada por la Fiscalía General del Estado, los órganos encargados de la seguridad pública de los municipios y un representante de las instancias de seguridad pública de la Federación; será presidida por el Fiscal General del Estado, y se auxiliará de un Secretario Técnico, el que será nombrado y removido por el Presidente de la misma.
 
 ###### ARTÍCULO 39.
 
@@ -443,7 +561,11 @@ V.- Establecer las medidas de vinculación operativa entre el Sistema Estatal co
 
 VI.- Emitir las bases y reglas para la realización de operativos conjuntos entre corporaciones policiales estatales, municipales y federales;
 
-VII.- Proponer programas de cooperación internacional sobre seguridad pública, en coordinación con las entidades y dependencias competentes;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Proponer programas de cooperación internacional sobre seguridad pública, investigación y persecución del delito, en coordinación con las entidades y dependencias competentes;
 
 VIII.- Proponer programas de cooperación internacional sobre seguridad pública y procuración de justicia, en coordinación con las entidades y dependencias competentes, y
 
@@ -455,7 +577,11 @@ IX.- Las demás que sean necesarias para cumplir y ejecutar la Política Estatal
 
 La concurrencia de facultades entre el Estado y los municipios quedará distribuida conforme a lo siguiente:
 
-A).- Corresponde al Ejecutivo, por conducto del Presidente de la Comisión Estatal:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+A) Corresponde al Titular del Ejecutivo del Estado, por conducto del Presidente de la Comisión Estatal:
 
 I.- Proponer las acciones tendientes a asegurar la coordinación entre el Estado y los municipios con la Federación;
 
@@ -551,11 +677,19 @@ El Desarrollo Policial se integra con las instancias, instrumentos, políticas, 
 
 Los integrantes serán removidos de su cargo, si no cumplen con los requisitos que las leyes vigentes señalen para permanecer en dichas instituciones, así como en el caso de que incurran en faltas que ameriten el cese, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, sólo procederá la indemnización que no exceda del término de tres meses y los proporcionales adquiridos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 45.
 
-Para el mejor cumplimiento de los objetivos de las instituciones, estas deberán contar, acorde a su presupuesto, cuando menos con las siguientes unidades operativas:
+Para el mejor cumplimiento de los objetivos de las instituciones encargadas de la seguridad pública, éstas deberán contar, acorde a su presupuesto, cuando menos con las siguientes unidades operativas:
 
-I.- Investigación, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis y evaluación de información;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Investigación Preventiva, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis y evaluación de información;
 
 II.- Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción; así mismo, de garantizar, mantener y restablecer el orden y la paz públicos, y
 
@@ -651,11 +785,13 @@ II.- Cuando la causa que la motivó, se modifique o deje de existir.
 
 #### SECCIÓN PRIMERA. DEL CENTRO ESTATAL DE CONTROL DE CONFIANZA
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 53.
 
-El Centro Estatal de Control de Confianza, es el órgano de la Secretaría de Seguridad Pública Estatal, encargado de dirigir, coordinar, operar y calificar los procesos de admisión y evaluación de los integrantes, así como comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos, para garantizar el buen ejercicio de sus funciones, auxiliándose de los Laboratorios de Criminalística y Ciencias Forenses de la Procuraduría General de Justicia del Estado.
+El Centro Estatal de Control de Confianza, es el órgano de la Fiscalía General del Estado, encargado de dirigir, coordinar, operar y calificar los procesos de evaluación de los integrantes, así como comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos, para garantizar la calidad de sus servicios, auxiliándose de la Dirección de Servicios Periciales y Ciencias Forenses de la Fiscalía General del Estado.
 
 ###### ARTÍCULO 54.
 
@@ -667,9 +803,13 @@ Dichos servidores públicos deberán cumplir con los requisitos que establezca e
 
 El Centro Estatal de Control de Confianza, aplicará evaluaciones tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los mismos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 56.
 
-En su operación, el Centro Estatal de Control de Confianza, considerará las políticas, procedimientos, lineamientos y criterios que emita la Secretaría de Seguridad Pública Estatal.
+En su operación, el Centro Estatal de Control de Confianza, considerará las políticas, procedimientos, lineamientos y criterios que emita la Fiscalía General del Estado.
 
 ###### ARTÍCULO 57.
 
@@ -691,7 +831,11 @@ VII.- Expedir y actualizar el Certificado Único Policial;
 
 VIII.- Proponer los perfiles de grado de los integrantes;
 
-IX.- Proponer al Secretario de Seguridad Pública Estatal, las bases de funcionamiento del sistema de evaluación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IX.- Proponer al Fiscal General del Estado, las bases de funcionamiento del sistema de evaluación;
 
 X.- Establecer las políticas de evaluación de los integrantes y aspirantes, de conformidad con las disposiciones aplicables y el principio de confidencialidad;
 
@@ -719,21 +863,33 @@ El Centro Estatal de Control de Confianza, propondrá los criterios para la sele
 
 #### SECCIÓN SEGUNDA. DE LA ESCUELA ESTATAL DE POLICIA Y LAS ACADEMIAS DE FORMACIÓN, CAPACITACIÓN Y PROFESIONALIZACIÓN POLICIAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 59.
 
-La Escuela Estatal de Policía y las Academias de Formación, Capacitación y Profesionalización Policial, son los órganos responsables de aplicar el Programa Rector que contendrá los aspectos de formación, capacitación, actualización y profesionalización de los aspirantes e integrantes de las Instituciones Policiales en el Estado y los municipios, así como el cumplimiento de los perfiles genéricos.
+La Escuela Estatal de Policía es el órgano responsable de aplicar el Programa Rector que contendrá los aspectos de formación, capacitación, actualización y profesionalización de los aspirantes e integrantes de las Instituciones Policiales en el Estado y los municipios, así como el cumplimiento de los perfiles genéricos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 60.
 
-La Escuela Estatal de Policía se integrará por un Director General nombrado por el Gobernador del Estado; un Secretario, nombrado por el Titular de la Secretaría de Seguridad Pública Estatal; los Coordinadores de las Academias, así como por las unidades y departamentos que se establezcan en su Reglamento.
+La Escuela Estatal de Policía depende de la Fiscalía General del Estado y tendrá un Director, así como las unidades y departamentos que se establezcan en su Reglamento.
 
 ###### ARTÍCULO 61.
 
 El Programa Rector es el instrumento en el que se establecen los programas y contenidos mínimos de formación para cada uno de los niveles jerárquicos, unidades operativas y divisiones de las Instituciones Policiales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 62.
 
-En materia de planes y programas de estudios, la Secretaría de Seguridad Pública Estatal, tiene las siguientes atribuciones:
+En materia de planes y programas de estudios, la Fiscalía General del Estado, tiene las siguientes atribuciones:
 
 I.- Proponer los contenidos básicos de los programas para la formación, capacitación y profesionalización de los mandos de las Instituciones Policiales;
 
@@ -749,15 +905,23 @@ VI.- Proponer los programas de investigación académica en materia policial, y
 
 VII.- Las demás que le establezcan otras disposiciones legales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 63.
 
-La Escuela Estatal de Policía funcionará a través de las Academias de Formación, Capacitación y Profesionalización Policial, y tendrá las siguientes facultades:
+La Escuela Estatal de Policía tendrá las siguientes facultades:
 
 I.- Revalidar equivalencias de estudios de la Profesionalización en el ámbito de su competencia;
 
 II.- Aplicar los procedimientos homologados del Desarrollo Policial que establezca la Secretaría de Seguridad Pública Estatal;
 
-III.- Garantizar la equivalencia de los contenidos mínimos del Plan Educativo y programas establecidos por la Secretaría de Seguridad Pública Estatal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY, PERIODICO OFICIAL.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Garantizar la equivalencia de los contenidos mínimos del Plan Educativo y programas establecidos por la Fiscalía General del Estado;
 
 IV.- Proponer las etapas, niveles de escolaridad y grados académicos de la Profesionalización;
 
@@ -791,33 +955,13 @@ XVII.- Las demás que le establezcan las disposiciones legales y reglamentarias 
 
 Los Planes de Estudio de la Escuela Estatal de Policía, se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje, que estarán comprendidos en el Programa Rector de Profesionalización Estatal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 65.
 
-Las Academias de Formación o Capacitación Policial, según corresponda, tendrán las siguientes atribuciones:
-
-I.- Aplicar los procedimientos homologados del desarrollo policial;
-
-II.- Garantizar la equivalencia de los contenidos mínimos de planes y programas de Profesionalización;
-
-III.- Proponer las etapas, niveles de escolaridad y grados académicos de la Profesionalización;
-
-IV.- Proponer y aplicar los contenidos de los planes y programas para la formación de los integrantes de las Instituciones Policiales;
-
-V.- Promover y prestar servicios educativos a sus respectivas instituciones;
-
-VI.- Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
-
-VII.- Realizar los estudios para detectar las necesidades de capacitación de los integrantes de las Instituciones Policiales y proponer los cursos correspondientes a las Comisiones;
-
-VIII.- Diseñar los programas de investigación académica en materia de desarrollo policial;
-
-IX.- Aplicar las estrategias para la profesionalización de los aspirantes e integrantes de las Instituciones Policiales;
-
-X.- Capacitar, en materia de investigación científica y técnica, a los integrantes de las Instituciones Policiales;
-
-XI.- Supervisar que los aspirantes e integrantes de las Instituciones Policiales se sujeten a los manuales de las Academias, y
-
-XII.- Las demás que le establezcan las disposiciones legales aplicables.
+Las Academias Municipales se ajustarán al Programa Rector de Capacitación Policial.
 
 #### SECCIÓN TERCERA. DE LAS COMISIONES
 
@@ -825,27 +969,33 @@ XII.- Las demás que le establezcan las disposiciones legales aplicables.
 
 El Estado y los municipios establecerán instancias colegiadas en las que participe un representante de los elementos policiales de las instituciones correspondientes y otro de la sociedad civil organizada. Las Comisiones serán las encargadas de conocer y resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos del Servicio de Carrera Policial y el Régimen Disciplinario.
 
-Para tal fin, la Secretaría de Seguridad Pública Estatal, la Procuraduría General de Justicia del Estado y los municipios, constituirán sus respectivas Comisiones del Servicio de Carrera Policial y de Honor y Justicia, las que llevarán y mantendrán actualizado un registro de datos de los integrantes de sus instituciones.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-Dichos datos y la actualización de los mismos, como su cambio de adscripción, de domicilio particular, sanciones y separación del cargo o término del mismo por cualquier causa, se incorporarán al Sistema Estatal de Información y al Sistema Nacional de Información.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Para tal fin, la Fiscalía General del Estado y los municipios, constituirán sus respectivas Comisiones del Servicio de Carrera Policial y de Honor y Justicia, las que llevarán y mantendrán actualizado un registro de datos de los integrantes de sus instituciones. Dichos datos y la actualización de los mismos, como su cambio de adscripción, de domicilio particular, sanciones y separación del cargo o término del mismo por cualquier causa, se incorporarán al Sistema Estatal de Información y al Sistema Nacional de Información.
 
 ###### ARTÍCULO 67.
 
 Las Comisiones realizarán y someterán, a las autoridades que corresponda, los estudios técnicos pertinentes para la revisión, actualización y fijación de sus tabuladores salariales y las zonas en que éstos deberán regir.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 68.
 
 Las Comisiones se integrarán, en su caso, de la siguiente manera:
 
-I.- Por un Presidente, que lo será el Titular de la Corporación de Investigación Preventiva, Operaciones y Logística de la Secretaría de Seguridad Pública Estatal; el Titular de la Agencia Estatal de Investigación de la Procuraduría General de Justicia del Estado, o los titulares de las secretarías o direcciones de seguridad pública de cada municipio, respectivamente;
+I. Por un Presidente, que lo será el Director de la Policía Estatal Única o los titulares de las secretarías o direcciones de seguridad pública de cada municipio, respectivamente;
 
-II.- Por un Secretario de Acuerdos, designado por el Presidente de la Comisión, y
+II. Por un Secretario de Acuerdos, designado por el Presidente de la Comisión;
 
-III.- Un representante de los elementos policiales de la Corporación de Investigación Preventiva, Operaciones y Logística de la Secretaría de Seguridad Pública Estatal; de la Agencia Estatal de Investigación de la Procuraduría General de Justicia del Estado, o los titulares de las secretarías o direcciones de seguridad pública de cada municipio, respectivamente.
+III. Un representante de los elementos policiales de la Policía Estatal Única, o de los elementos de las secretarías o direcciones de seguridad pública de cada municipio, respectivamente;
 
-El representante de los elementos policiales ante las respectivas Comisiones del Servicio de Carrera Policial y de Honor y Justicia, en cada una de las dependencias a que se refiere este artículo, lo será el elemento de mayor antigüedad en las mismas.
+IV. El representante de los elementos policiales ante las respectivas Comisiones del Servicio de Carrera Policial y de Honor y Justicia, en cada una de las instancias a que se refiere este artículo , lo será el elemento de mayor antigüedad en las mismas, y
 
-IV.- Un representante de la sociedad civil organizada, que será designado, según corresponda, por el Gobernador del Estado, o el presidente municipal de la circunscripción.
+V. Un representante de la sociedad civil organizada, que será designado, según corresponda, por el Gobernador del Estado, o el presidente municipal de la circunscripción.
 
 Las Comisiones en cada dependencia, funcionarán como Comisiones del Servicio de Carrera Policial, y como Comisiones de Honor y Justicia para efectos de la aplicación del Régimen Disciplinario a que se refiere esta Ley.
 
@@ -865,7 +1015,11 @@ V.- Proveer la observancia del régimen disciplinario establecido a los integran
 
 VI.- Conocer y resolver respecto del incumplimiento de los requisitos de permanencia y de las infracciones al régimen disciplinario cometidas por los integrantes de las Instituciones Policiales;
 
-VII.- Registrar en el Sistema Estatal de Información y en el Sistema Nacional de Información, los datos del personal sancionado, proporcionando los mismos a la Secretaría de Seguridad Pública Estatal, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VII.- Registrar en el Sistema Estatal de Información y en el Sistema Nacional de Información, los datos del personal sancionado, proporcionando los mismos a la Fiscalía General del Estado, y
 
 VIII.- Las demás que señalen las disposiciones aplicables.
 
@@ -877,53 +1031,87 @@ VIII.- Las demás que señalen las disposiciones aplicables.
 
 El Gobernador del Estado, conforme lo señala el artículo 93 de la Constitución Política del Estado de Chihuahua, es el Jefe Supremo de las fuerzas de Seguridad Pública del Estado.
 
-El Secretario de Seguridad Pública Estatal y el Procurador General de Justicia del Estado, ejercerán el alto mando de las Instituciones Policiales a su cargo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El Fiscal General del Estado ejercerá el alto mando de la Policía Estatal Única.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 71.
 
-Las Instituciones Policiales del Estado y los municipios, de acuerdo a sus posibilidades presupuestales, se organizarán jerárquicamente, en los términos siguientes:
+La Policía del Estado y las de los municipios, de acuerdo a sus posibilidades presupuestales, se organizarán jerárquicamente, en los términos siguientes:
 
-A).- Las Policías Preventivas, con las siguientes categorías:
+A) La Policía Estatal Única, con las siguientes categorías:
 
-I.- Director;
+I. Director General:
 
-II.- Coordinadores;
+II. Director de la División Preventiva, con el siguiente personal:
 
-III.- Inspectores;
+a) Coordinadores de Zona:
 
-IV.- Oficiales;
+b) Coordinadores Regionales:
 
-V.- Suboficiales, y
+c) Inspectores;
 
-VI.- Agentes.
+d) Oficiales;
 
-B).- Las Policías de Investigación, con las siguientes categorías:
+e) Suboficiales, y
 
-I.- Coordinador General, que lo será el Subprocurador General de Justicia del Estado;
+f) Agentes.
 
-II.- Coordinadores Regionales;
+III. Director de la División de Investigación, con el siguiente personal:
 
-III.- Coordinadores Especiales;
+a) Coordinadores de Zona;
 
-IV.- Agentes Investigadores, y
+b) Coordinadores de Distrito;
 
-V.- Agentes.
+c) Agentes Investigadores, y
 
-C).- Las Corporaciones de Vialidad y Protección Civil, con las siguientes categorías:
+d) Agentes.
 
-I.- Director;
+IV. Director de la División de Reacción, con el siguiente personal:
 
-II.- Delegados;
+a) Inspectores;
 
-III.- Comandantes, y
+b) Oficiales, y
 
-IV.- Oficiales.
+c) Agentes.
+
+V. Director de la División de Vialidad y Tránsito, con el siguiente personal:
+
+a) Delegados;
+
+b) Comandantes, y
+
+c) Oficiales.
+
+B) Las Policías Municipales, con las siguientes categorías:
+
+I. Director o su equivalente:
+
+II. Subdirectores;
+
+III. Coordinadores;
+
+IV. Inspectores;
+
+V. Oficiales, y
+
+VI. Agentes.
 
 #### SECCIÓN SEGUNDA. DEL MANDO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 72.
 
-Las instituciones tienen a su cargo la seguridad pública del Estado, en sus respectivos ámbitos de competencia; en caso de operaciones coordinadas en que intervengan el Estado y los municipios, deberá establecerse en los acuerdos respectivos la autoridad a cuyo mando quedan a cargo, con excepción de los casos de fuerza mayor o alteración grave del orden público, en los que quedará a cargo de la policía estatal que determine el Ejecutivo del Estado.
+Las instituciones tienen a su cargo la seguridad pública del Estado, en sus respectivos ámbitos de competencia; en caso de operaciones coordinadas en que intervengan el Estado y los municipios, deberá establecerse en los acuerdos respectivos la autoridad a cuyo mando quedan a cargo, con excepción de los casos de fuerza mayor o alteración grave del orden público, en los que quedará a cargo de la Policía Estatal Única.
 
 ###### ARTÍCULO 73.
 
@@ -933,7 +1121,11 @@ Se entenderá por mando, a la autoridad ejercida por un superior jerárquico en 
 
 La implementación del perfil del mando por la competencia, los procedimientos homologados y la equivalencia de los contenidos mínimos de planes y programas de estudio, constituirán la base fundamental para la acción estatal unificada y coordinada de los integrantes del Desarrollo Policial del Estado y municipios.
 
-Los perfiles de mando de los integrantes, se determinarán con base en los lineamientos que al efecto se emitan por la Secretaría de Seguridad Pública Estatal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Los perfiles de mando de los integrantes, se determinarán con base en los lineamientos que al efecto se emitan por la Fiscalía General del Estado.
 
 ###### ARTÍCULO 75.
 
@@ -959,29 +1151,43 @@ En caso de ausencia temporal, impedimento, excusa u otros similares del mando ti
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 77.
 
-El Sistema de Información Estatal, del Sistema Estatal de Seguridad Pública, es un sistema de interconexiones de voz, datos y video, que proporciona a las Instituciones de Seguridad Pública, la información precisa y constante en materia de seguridad pública y comunitaria, que generen inteligencia apta para el ejercicio de las atribuciones que tienen encomendadas las Instituciones Policiales.
+El Sistema de Información Estatal, del Sistema Estatal de Seguridad Pública, es un sistema de interconexiones de voz, datos y video, que proporciona la información precisa y constante en materia de seguridad pública y que genera inteligencia apta para el ejercicio de las atribuciones que tienen encomendadas las Instituciones de Seguridad y Justicia.
 
 ###### ARTÍCULO 78.
 
 El Estado y los municipios suministrarán, intercambiarán, sistematizarán y actualizarán, en forma periódica, veraz y oportuna en el Sistema de Información Estatal, la información sobre seguridad pública, mediante los instrumentos tecnológicos modernos que permitan el fácil y rápido acceso a los usuarios a que se refiere esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 79.
 
-Los integrantes de las Instituciones Policiales del Estado y los municipios están obligados a consultar, en los términos de las disposiciones normativas aplicables, la información sobre seguridad pública en el Sistema de Información Estatal la información proveniente del Sistema de Información Estatal y del Sistema Nacional de Información, se considerará documental pública ante las autoridades, siempre que esté debidamente certificada por la Secretaría de Seguridad Pública Estatal.
+Los integrantes de la Policial Estatal Única y de las Policías Municipales están obligados a consultar, en los términos de las disposiciones normativas aplicables, la información sobre seguridad pública en el Sistema de Información Estatal.
 
-Todo integrante de las Instituciones Policiales tiene la obligación de ejecutar cualquier orden de aprehensión de que tenga conocimiento a partir de la consulta que realice en el Sistema Único de Información Estatal, previa verificación por cualquier medio con la autoridad correspondiente.
+La información proveniente del Sistema de Información Estatal y del Sistema Nacional de Información, se considerará documental pública ante las autoridades, siempre que esté debidamente certificada por la Fiscalía General del Estado.
+
+Todo integrante de las Instituciones Policiales tiene la obligación de ejecutar cualquier orden de aprehensión de que tenga conocimiento a partir de la consulta que realice en el Sistema Único de Información Estatal, cumpliendo con los requisitos legales correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 80.
 
-A fin de consolidar la operación y funcionamiento de la Red Estatal de Telecomunicaciones, el Servicio de Llamadas de Emergencia 066 y el Servicio de Denuncia Anónima 089, para alinear sus servicios, el Estado y los municipios realizarán los trabajos y las migraciones de los servicios de telecomunicaciones de su Red, de acuerdo a los lineamientos que la Secretaría de Seguridad Pública Estatal defina, mediante el desarrollo e instrumentación de protocolos, metodologías, sistemas y productos tecnológicos que operen en forma homologada.
+El Estado y los municipios realizarán los trabajos y las migraciones de los servicios de telecomunicaciones de su Red, de acuerdo a los lineamientos que la Fiscalía General del Estado defina, mediante el desarrollo e instrumentación de protocolos, metodologías, sistemas y productos tecnológicos que operen en forma homologada.
 
-La Secretaría de Seguridad Pública Estatal vigilará la permanencia y actualización de los equipos y sistemas que se instalen en los sitios de telecomunicaciones, de los nodos de interconexión para el servicio del Sistema de Información Estatal y del Sistema Nacional de Información.
+La Fiscalía General del Estado vigilará la permanencia y actualización de los equipos y sistemas que se instalen en los sitios de telecomunicaciones, de los nodos de interconexión para el servicio del Sistema de Información Estatal y del Sistema Nacional de Información.
 
-La Secretaría de Seguridad Pública Estatal, la Procuraduría General de Justicia del Estado y los municipios, en el ámbito de sus respectivas competencias, desarrollarán su interconexión al Sistema de Información Estatal y al Sistema Nacional de Información, en los términos que indiquen las disposiciones que expida la Secretaría de Seguridad Pública Estatal.
+La Fiscalía General del Estado y los municipios, en el ámbito de sus respectivas competencias, desarrollarán su interconexión al Sistema de Información Estatal y al Sistema Nacional de Información, en los términos que indiquen las disposiciones que expida la Fiscalía General.
 
-La Secretaría de Seguridad Pública Estatal establecerá los productos tecnológicos y protocolos de comunicación homogéneos que permitan que el Estado opere eficientemente con la Red Nacional de Telecomunicaciones, procesos ágiles y expeditos que permitan acceder a toda la información almacenada en las bases de datos que albergan el Sistema Nacional de Seguridad Pública.
+La Fiscalía General del Estado establecerá los productos tecnológicos y protocolos de comunicación homogéneos que permitan que el Estado opere eficientemente con la Red Nacional de Telecomunicaciones, procesos ágiles y expeditos que permitan acceder a toda la información almacenada en las bases de datos que albergan el Sistema Nacional de Seguridad Pública.
 
 ###### ARTÍCULO 81.
 
@@ -1053,17 +1259,23 @@ VIII.- Mapa para la ubicación del evento.
 
 #### SECCIÓN PRIMERA. DEL SISTEMA DE INFORMACIÓN ESTATAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 82.
 
-La Secretaría de Seguridad Pública Estatal, será la responsable de integrar y actualizar una base estatal de datos, con la información que generen la Procuraduría, los cuerpos policiales del Estado y los municipios, así como la que se reciba de la Federación y los demás Estados, que coadyuve a salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la reinserción social del delincuente y del adolescente infractor, misma que formará parte integral del Sistema de Información Estatal y del Sistema Nacional de Información.
+La Fiscalía General del Estado, a través del Centro Estatal de Estadística Criminal, será la responsable de integrar y actualizar una base estatal de datos, con la información que generen la Policía Estatal Única y las Policías Municipales, así como la que se reciba de la Federación y los demás Estados, misma que formará parte del Sistema de Información Estatal y del Sistema Nacional de Información.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 83.
 
-Se integrará una base estatal de datos sobre personas con antecedentes policíacos, o bien, imputadas de delitos, procesadas o sentenciadas, de consulta obligatoria en las actividades de seguridad pública, donde se incluyan las características criminales, en su caso, medios de identificación, recursos y modos de operación.
+Se integrará la base estatal de datos sobre personas con antecedentes policiacos, imputadas de delitos, procesadas o sentenciadas, la cual incluirá características criminales, medios de identificación, recursos y modos de operación. Esta base estatal de datos será de consulta obligatoria en las actividades de prevención, investigación y persecución del delito.
 
-Esta base estatal de datos se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración y administración de justicia, readaptación social y, en general, todas las instituciones que deban contribuir a la seguridad pública y comunitaria, relativa a las investigaciones penales, órdenes de detención y aprehensión, sentencias o ejecución de penas.
-
-Esta información servirá para lograr los propósitos y fines de la seguridad pública y comunitaria y para instruir la mejor detección, persecución y sanción de los delitos.
+Esta base estatal de datos se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, investigación y persecución del delito y de administración de justicia, reinserción social y, en general, todas las instituciones que deban contribuir a la seguridad pública.
 
 ###### ARTÍCULO 84.
 
@@ -1095,13 +1307,21 @@ II.- Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el
 
 III.- Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
 
-Cuando a los integrantes de las Instituciones de Seguridad Pública se les dicte cualquier auto de vinculación a proceso, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, se notificará e ingresará inmediatamente al Registro, permitiendo clasificar a quienes reporten algún proceso judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Cuando a los integrantes de las Instituciones Policiales del Estado y los municipios se les dicte cualquier auto de vinculación a proceso, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, se notificará e ingresará inmediatamente al Registro, permitiendo clasificar a quienes reporten algún proceso judicial.
 
 Las órdenes de detención o aprehensión se notificarán cuando no pongan en riesgo la investigación o el proceso.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 89.
 
-Las autoridades competentes del Estado y los municipios inscribirán y mantendrán actualizados en el Registro, los datos relativos a todos los integrantes de las Instituciones de Seguridad Pública en investigación penal, en los términos de esta Ley y su reglamento. Se consideran miembros de las Instituciones de Seguridad Pública en investigación penal, a quienes tengan un nombramiento o condición jurídica equivalente, otorgado por autoridad competente.
+Las autoridades competentes del Estado y los municipios inscribirán y mantendrán actualizados en el Registro, los datos relativos a todos los integrantes de las Instituciones de Seguridad Pública, en los términos de esta Ley y su reglamento. Se consideran miembros de las Instituciones de Seguridad Pública, a quienes tengan un nombramiento o condición jurídica equivalente, otorgado por autoridad competente.
 
 La infracción a esta disposición se sancionará en términos de la presente Ley.
 
@@ -1139,9 +1359,13 @@ En el caso de que los integrantes aseguren armas y/o municiones, lo comunicarán
 
 El incumplimiento de las disposiciones contenidas en los artículos 113 y 116 de esta Ley, dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTÍCULO 96 BIS.- El Registro Estatal de Armamento y Equipo contará con un apartado en el que se inscribirán aquellas personas físicas o morales que cuenten con autorización de la Secretaría de Seguridad Pública del Estado para fabricar, comercializar, almacenar, transportar o distribuir, dentro del territorio estatal, vestimentas o instrumentos que sirvan de identificación a los miembros de las Instituciones de Seguridad Pública.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 96 Bis.
+
+El Registro Estatal de Armamento y Equipo contará con un apartado en el que se inscribirán aquellas personas físicas o morales que cuenten con autorización de la Fiscalía General del Estado para fabricar, comercializar, almacenar, transportar o distribuir, dentro del territorio estatal, vestimentas o instrumentos que sirvan de identificación a los miembros de las Instituciones de Seguridad Pública.
 
 En los permisos que se expidan se deberá especificar cuáles vestimentas o instrumentos podrán ser únicamente destinados para su utilización por parte de integrantes de Instituciones de Seguridad Pública, y cuáles puestos a disposición del público en general.
 
@@ -1149,17 +1373,25 @@ La falta de dicho permiso, o su utilización para fines distintos a aquellos par
 
 #### SECCIÓN QUINTA. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 97.
 
-La Secretaría de Seguridad Pública Estatal establecerá los instrumentos de acopio de datos que permitan analizar la incidencia criminológica y, en general, la problemática de seguridad pública en los ámbitos del Estado y los municipios, con el propósito de planear las estrategias de las políticas tendientes a la preservación del orden y la paz públicos. Para este efecto, dispondrá de los mecanismos que permitan la evaluación y reorientación, en su caso, de las políticas de seguridad pública.
+La Fiscalía General del Estado establecerá los instrumentos de acopio de datos que permitan analizar la incidencia criminológica y, en general, la problemática de seguridad pública en los ámbitos del Estado y los municipios. Para este efecto, dispondrá de los mecanismos que permitan la evaluación y reorientación, en su caso, de las políticas de seguridad pública.
 
 ###### ARTÍCULO 98.
 
 Las normas generales para la recepción de la información serán establecidas de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 99.
 
-La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, sistemas de prisión preventiva, de ejecución de penas y medidas de seguridad y de tratamiento de menores y adolescentes infractores, y los factores asociados a la problemática de seguridad pública.
+La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, investigación, persecución del delito y administración de justicia, sistemas de prisión preventiva, de ejecución de penas y medidas de seguridad y de tratamiento de menores y adolescentes infractores, y los factores asociados a la problemática de seguridad pública.
 
 #### SECCIÓN SEXTA. DE LAS REGLAS GENERALES SOBRE LA INFORMACIÓN
 
@@ -1171,13 +1403,21 @@ También determinará las condiciones de seguridad sobre manejo y acceso a la in
 
 Para establecer las reglas de información se atenderá a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 101.
 
-Para el acceso a la información sobre seguridad pública, la Secretaría de Seguridad Pública Estatal y la Procuraduría General de Justicia del Estado establecerán diferentes niveles de consulta, dependiendo del tipo de información, y determinarán el nivel en la clasificación que corresponda a cada tipo o acceso de información y, en su caso, señalarán la que podrá tener carácter público.
+Para el acceso a la información sobre seguridad pública, la Fiscalía General del Estado establecerá diferentes niveles de consulta, dependiendo del tipo de información, y determinará el nivel en la clasificación que corresponda a cada tipo o acceso de información y, en su caso, señalará la que podrá tener carácter público.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 102.
 
-La información será manejada bajo los principios de confidencialidad y reserva. No se proporcionará al público la información que ponga en riesgo la seguridad pública y comunitaria o atente contra el honor de las personas. El incumplimiento de esta obligación se equiparará al delito de revelación de secretos, sin perjuicio de responsabilidades de otra naturaleza.
+La información será manejada bajo los principios de confidencialidad y reserva. No se proporcionará al público la información que ponga en riesgo la seguridad pública o atente contra el honor de las personas. El incumplimiento de esta obligación se equiparará al delito de revelación de secretos establecido en el artículo 207 del Código Penal del Estado de Chihuahua, sin perjuicio de responsabilidades de otra naturaleza.
 
 ###### ARTÍCULO 103.
 
@@ -1351,17 +1591,29 @@ El personal no podrá alegar obediencia de órdenes superiores, si tenía conoci
 
 ### CAPÍTULO ÚNICO. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 121.
 
-La Secretaría de Seguridad Pública del Estado y los municipios establecerán mecanismos eficaces para que la sociedad participe en la planeación, evaluación y supervisión de la seguridad pública y comunitaria, en los términos de esta Ley y demás ordenamientos aplicables.
+La Fiscalía General del Estado y los municipios establecerán mecanismos eficaces para que la sociedad participe en la planeación, evaluación y supervisión de la seguridad pública, en los términos de esta Ley y demás ordenamientos aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 122.
 
-La Secretaría de Seguridad Pública impulsará las acciones necesarias para que el Estado y los municipios, establezcan un servicio para la localización de personas y bienes.
+La Fiscalía General del Estado impulsará las acciones necesarias para que el Estado y los municipios, establezcan un servicio para la localización de personas y bienes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 123.
 
-La Secretaría de Seguridad Pública promoverá que el Estado y los municipios establezcan un servicio de comunicación que reciba los reportes de la comunidad, sobre las emergencias, faltas y delitos de que tenga conocimiento.
+La Fiscalía General del Estado promoverá, en coordinación con los municipios, un servicio de comunicación que reciba los reportes de la comunidad, sobre las emergencias, faltas y delitos de que tenga conocimiento.
 
 El servicio tendrá comunicación directa con las Instituciones de Seguridad Pública, salud, protección civil y las demás asistenciales públicas y privadas.
 
@@ -1369,7 +1621,11 @@ El servicio tendrá comunicación directa con las Instituciones de Seguridad Pú
 
 Dentro de los Comités de Seguridad Pública que prevé esta Ley, se promoverá la participación de la comunidad, para:
 
-I.- Conocer y opinar sobre políticas y seguridad pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+l.- Conocer y opinar sobre seguridad pública y prevención del delito;
 
 II.- Sugerir medidas específicas y acciones concretas para mejorar esta función;
 
@@ -1381,9 +1637,13 @@ V.- Realizar denuncias o quejas sobre irregularidades, y
 
 VI.- Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 125.
 
-El Consejo y la Comisión Estatal de Seguridad Pública promoverán que las Instituciones de Seguridad Pública cuenten con una entidad de consulta y participación de la comunidad, para alcanzar los propósitos del artículo anterior.
+El Consejo Estatal de Seguridad Pública y su Comisión promoverán que las Instituciones de Seguridad Pública cuenten con una entidad de consulta y participación de la comunidad, para alcanzar los propósitos del artículo anterior.
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
@@ -1401,9 +1661,13 @@ La Auditoría Superior del Estado fiscalizará los recursos estatales que se eje
 
 ### CAPÍTULO ÚNICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 128.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado; deberán obtener autorización previa de la Secretaría de Seguridad Pública Estatal, cuando los servicios comprendan dos o más municipios, o de la autoridad de Seguridad Pública Municipal, cuando los servicios se presten sólo en el territorio de un municipio.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado; deberán obtener autorización previa de la Fiscalía General del Estado, cuando los servicios comprendan dos o más municipios, o de la autoridad de Seguridad Pública Municipal, cuando los servicios se presten sólo en el territorio de un municipio.
 
 Los reglamentos establecerán los requisitos y condiciones para la prestación del servicio, la denominación, los mecanismos para la supervisión y las causas y procedimientos para determinar sanciones.
 
@@ -1492,3 +1756,41 @@ P.O. 14 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
