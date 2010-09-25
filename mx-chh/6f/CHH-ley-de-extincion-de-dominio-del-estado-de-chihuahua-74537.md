@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-extincion-de-dominio-del-estado-de-chihuahua-74537"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-07"
-last_updated: "2010-04-07"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EXTINCION DE DOMINIO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 7 de abril de 2010.
 
@@ -77,7 +77,11 @@ IV. En los aspectos relativos a la regulación de bienes, obligaciones y derecho
 
 Toda la información que se genere u obtenga con relación a esta Ley, se regirá en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
 
-El Procurador General de Justicia del Estado entregará un informe anual al Congreso del Estado sobre el ejercicio de las facultades que le otorga esta Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El Fiscal General del Estado entregará un informe anual al Congreso del Estado sobre el ejercicio de las facultades que le otorga esta Ley.
 
 ### CAPÍTULO II. DE LA ACCIÓN DE EXTINCIÓN DE DOMINIO
 
@@ -89,7 +93,11 @@ La acción de extinción de dominio es de carácter real, de contenido patrimoni
 
 El ejercicio de la acción de extinción de dominio corresponde al Ministerio Público.
 
-El Ministerio Público podrá desistirse de la acción de extinción de dominio en cualquier momento, antes de que se dicte sentencia definitiva, previo acuerdo del Procurador General de Justicia del Estado. En los mismos términos, podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR EL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY, PERIODICO OFICIAL</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+El Ministerio Público podrá desistirse de la acción de extinción de dominio en cualquier momento, antes de que se dicte sentencia definitiva, previo acuerdo del Fiscal General del Estado. En los mismos términos, podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción de extinción de dominio.
 
 ###### Artículo 5.
 
@@ -503,7 +511,11 @@ No estarán obligados a concurrir al llamamiento judicial para el desahogo de la
 
 I. El Presidente de la República; los Secretarios de Estado de la Federación; los Ministros de la Suprema Corte de Justicia de la Nación; el Procurador General de la República;
 
-II. El Gobernador del Estado; el Secretario General de Gobierno; el Procurador General de Justicia del Estado; los diputados al Congreso del Estado; los magistrados del Supremo Tribunal de Justicia y del Tribunal Estatal Electoral; el Consejero Presidente del Instituto Estatal Electoral; el Consejero Presidente del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública; el Presidente de la Comisión Estatal de Derechos Humanos, y los presidentes municipales;
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY, PERIODICO OFICIAL.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+II. El Gobernador del Estado; el Secretario General de Gobierno; el Fiscal General del Estado; los diputados al Congreso del Estado; los magistrados del Supremo Tribunal de Justicia y del Tribunal Estatal Electoral; el Consejero Presidente del Instituto Estatal Electoral; el Consejero Presidente del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública; el Presidente de la Comisión Estatal de Derechos Humanos, y los presidentes municipales;
 
 III. Los extranjeros que gozaren en el país de inmunidad diplomática, de conformidad con los tratados vigentes sobre la materia, y
 
@@ -758,3 +770,43 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintitrés días del mes de marzo del año dos mil diez.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
