@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-para-el-estado-de-chihuahua-73731"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-27"
-last_updated: "2010-02-27"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE GANADERIA PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2010.
 
@@ -243,8 +243,6 @@ VII.- Vigilar el cumplimiento de las disposiciones en materia de sanidad animal,
 
 VIII.- Organizar y dirigir los servicios de inspección, vigilancia y control de ganado en el Estado;
 
-I
-
 X.- Aplicar las medidas y acciones necesarias para mejorar el estatus sanitario, procurando incrementar de modo constante los niveles de sanidad animal;
 
 X.- Expedir, revalidar y cancelar los registros de fierro de herrar, señal de sangre, tatuaje y cualquier otro medio de identificación; así como autorizar, en su caso, la traslación de dominio de los derechos que amparan estos documentos;
@@ -259,7 +257,9 @@ XIV.- Fungir como árbitro o conciliador, a solicitud de los ganaderos, para la 
 
 XV.- Intervenir en los procedimientos de remate de ganado mostrenco, en los términos de esta Ley;
 
-XVI.- Promover, en coordinación con la Procuraduría General de Justicia del Estado, programas que tengan por objeto prevenir y combatir el delito de robo de ganado, así como promover la constitución de comités en los que participen la autoridad estatal, las autoridades municipales y los productores, a través de sus organismos auxiliares, con el fin de contribuir a ese propósito;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XVI.- Promover, en coordinación con la Fiscalía General del Estado, programas que tengan por objeto prevenir y combatir el delito de robo de ganado, así como promover la constitución de comités en los que participen la autoridad estatal, las autoridades municipales y los productores, a través de sus organismos auxiliares, con el fin de contribuir a ese propósito;
 
 XVII.- Determinar el destino del ganado, los productos y subproductos que hayan sido asegurados en los términos de esta Ley;
 
@@ -621,7 +621,9 @@ XI. Coadyuvar en la vigilancia y protección de la fauna de interés cinegético
 
 XII.- Cuando sea el caso, informar a la Secretaría sobre el incumplimiento de la obligación de los ganaderos de presentar su ganado para revisión;
 
-XIII.- Auxiliar a las autoridades del Poder Judicial y de la Procuraduría en el ejercicio de sus funciones, cuando sean requeridos por éstas, y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XIII.- Auxiliar a las autoridades del Poder Judicial y de la Fiscalía General del Estado en el ejercicio de sus funciones, cuando sean requeridos por éstas, y
 
 XIV.- Las demás que esta Ley y las normas jurídicas aplicables les confieran.
 
@@ -1596,3 +1598,43 @@ Por tanto mando se imprima, publique, circule y se dé el debido cumplimiento.
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintidós días del mes de enero del año dos mil diez.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSÉ REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADOS PINEDA Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la Ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
