@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-servicio-profesional-de-carrera-policial-del-estado-683
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2009-04-01"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -57,13 +57,21 @@ La presente Ley regula el Servicio Profesional de Carrera Policial de los elemen
 
 El Servicio Profesional de Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, certificación, selección, ingreso, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio, de los integrantes de las Instituciones Policiales.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 3o.
 
-El régimen jurídico de los elementos de las diversas Instituciones Policiales del Estado y los municipios, es el establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chihuahua, el Código Administrativo del Estado, la Ley Sobre el Sistema Estatal de Seguridad Pública, la Ley Orgánica del Ministerio Público, el Código Municipal para el Estado, la presente Ley y demás disposiciones legales y reglamentarias aplicables.
+El régimen jurídico de los elementos de las Instituciones Policiales del Estado y los municipios, es el establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chihuahua, el Código Administrativo del Estado, la Ley Sobre el Sistema Estatal de Seguridad Pública, la Ley Orgánica de la Fiscalía General del Estado, el Código Municipal para el Estado, la presente Ley y demás disposiciones legales y reglamentarias aplicables.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 4o.
 
-La actuación de los elementos de las diversas Instituciones Policiales del Estado y sus municipios, se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, disciplina y respeto a los derechos fundamentales reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los cuales México sea parte y la Constitución Política del Estado.
+La actuación de los elementos de las Instituciones Policiales del Estado y sus municipios, se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, disciplina y respeto a los derechos fundamentales reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los cuales México sea parte y la Constitución Política del Estado.
 
 ###### ARTÍCULO 5o.
 
@@ -107,9 +115,17 @@ VIII.- Los elementos policiales y sus derechohabientes gozarán del régimen de 
 
 IX.- Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio;
 
-X.- El cambio de un integrante de un área operativa a otra de distinta especialidad, sólo podrá ser autorizada por la instancia que señala la Ley, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XI.- Las instancias establecerán los procedimientos relativos a cada una de las etapas de la Carrera Policial.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+X.- El cambio de un integrante de un área operativa a otra de distinta especialidad, sólo podrá ser autorizada en los términos que señala la ley, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XI.- La Escuela Estatal de Policía establecerá los procedimientos relativos a cada una de las etapas de la Carrera Policial.
 
 Los titulares de las Instituciones Policiales podrán designar a los integrantes en cargos administrativos de la estructura orgánica de dichas instituciones; así mismo, podrán relevarlos libremente de dichos cargos, respetando su grado policial y derechos inherentes a la Carrera Policial.
 
@@ -137,7 +153,11 @@ Son requisitos de ingreso y permanencia en las Instituciones Policiales, los sig
 
 A).- De Ingreso:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
 II.- No haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal y ser de notoria buena conducta;
 
@@ -149,7 +169,11 @@ a).- En el caso de aspirantes a las áreas de investigación: enseñanza superio
 
 b).- Tratándose de aspirantes a las áreas de prevención: enseñanza media superior o equivalente;
 
-c).- En caso de aspirantes a las áreas de reacción: los estudios correspondientes a la enseñanza media básica;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+c).- En caso de aspirantes a las áreas de reacción: los estudios correspondientes a la enseñanza media superior o equivalente;
 
 V.- Aprobar el concurso de ingreso y los cursos de formación;
 
@@ -181,7 +205,11 @@ a).- En el caso de aspirantes a las áreas de investigación: enseñanza superio
 
 b).- Tratándose de aspirantes a las áreas de prevención: enseñanza media superior o equivalente;
 
-c).- En caso de aspirantes a las áreas de reacción: los estudios correspondientes a la enseñanza media básica;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+c).- En caso de aspirantes a las áreas de reacción: los estudios correspondientes a la enseñanza media superior o equivalente;
 
 V.- Aprobar los cursos de formación, capacitación y profesionalización;
 
@@ -255,23 +283,25 @@ III.- Baja por renuncia, jubilación, retiro, incapacidad permanente o muerte.
 
 Al concluir el servicio, el integrante o sus sucesores deberán entregar al funcionario designado para tal efecto, toda la información, documentación, armamento y equipo, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia, mediante acta de entrega-recepción.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 17.
 
-Las edades límite para la permanencia en el servicio del personal previsto en el artículo 71 de la Ley del Sistema Estatal de Seguridad Pública son:
+La edad límite para la permanencia en el servicio del personal policial operativo es de 65 años.
 
-I.- Para el del inciso A), fracciones I, II y III, sesenta años;
+Los integrantes de las Instituciones Policiales que hayan alcanzado la edad límite para su permanencia, podrán ser reubicados en otras áreas de los servicios de las propias instituciones, de acuerdo con sus aptitudes, conservando los derechos adquiridos y observando respeto a su grado jerárquico.
 
-II.- Para el del inciso A), fracciones IV, V y VI, cincuenta años;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III.- Para el del inciso B), fracciones II, III, IV y V, cincuenta y cinco años; y
-
-IV.- Para el del inciso C), fracciones III y IV, cincuenta años.
-
-Los integrantes de las Instituciones Policiales que hayan alcanzado las edades límite para su permanencia, podrán ser reubicados en otras áreas de los servicios de las propias instituciones, de acuerdo con sus aptitudes, conservando los derechos adquiridos y observando respeto a su grado jerárquico.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 18.
 
-Los integrantes podrán ser removidos de su cargo si no cumplen con los requisitos que las leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, así como en el caso de que incurran en faltas que ameriten el cese, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, sólo procederá la indemnización que en su caso no exceda del término de tres meses y los proporcionales adquiridos. En el caso de los integrantes de las instituciones de policía estatales que sean o hayan sido sujetos a un proceso penal por delito doloso del orden federal, bastará que exista una resolución judicial intermedia que los vincule con la comisión de dicho delito, para que no puedan ser reinstalados o restituidos en su cargo.
+los integrantes de las Instituciones Policiales podrán ser removidos de su cargo si no cumplen con los requisitos que las leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, así como en el caso de que incurran en faltas que ameriten el cese, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción, y sólo procederá la indemnización que en su caso no exceda del término de tres meses y los proporcionales adquiridos.
+
+En el caso de los integrantes de la Policía Estatal y municipales que sean o hayan sido sujetos a un proceso penal por delito doloso, bastará que exista una resolución judicial que los vincule con la comisión de dicho delito, para suspenderle del servicio hasta que culmine el procedimiento penal correspondiente.
 
 ### CAPÍTULO VII. DE LA CERTIFICACIÓN
 
@@ -476,3 +506,43 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los seis días del mes de febrero del año dos mil nueve.
 
 LIC. JOSE REYES BAEZA TERRAZAS. Gobernador Constitucional del Estado. Rúbrica. LIC. SERGIO GRANADOS PINEDA. Secretario General de Gobierno. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
