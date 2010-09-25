@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-de-las-adicciones-tratamiento-57205"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-03"
-last_updated: "2010-08-14"
+last_updated: "2010-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE LAS PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 3 de octubre de 2007.
 
@@ -191,9 +191,13 @@ VI. La vigilancia sanitaria de acuerdo a lo establecido en las Leyes General y E
 
 VII. Coadyuvar con la Secretaría de Salud Federal en los procesos de investigación sobre farmacodependencia, apegándose para ello a lo dispuesto por el artículo 192 Quintus de la Ley General de Salud, y a la participación que corresponde a la Entidad, de acuerdo con el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 9.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Corresponde a la Fiscalía General del Estado:
 
 I. Auxiliar a las autoridades competentes en el cumplimiento de esta Ley y demás disposiciones aplicables que de la presente deriven;
 
@@ -203,39 +207,25 @@ III. Aplicar los programas de prevención para el mejor cumplimiento del objeto 
 
 IV. Crear y desarrollar programas, así como realizar las acciones que competen en materia de seguridad; así mismo, coordinarse, en su caso, con las demás dependencias del Ejecutivo Estatal, según su esfera de competencia y con los municipios de la Entidad y la sociedad;
 
-V. Coordinar y vigilar, en los términos de la Ley de Ejecución de Penas y Medidas de Seguridad, las medidas judiciales impuestas en materia de adicciones;
+V. Coordinar y vigilar, en los términos de la Ley de Ejecución de Penas y Medidas Judiciales, las medidas impuestas en materia de adicciones;
 
 VI. Elaborar y ejecutar programas preventivos, así como diseñar nuevos modelos de prevención y erradicación de las adicciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DEL 2010)</small>
-
 VII. Impartir cursos de formación y especialización sobre las adicciones, a los encargados de la procuración de justicia, a fin de mejorar la atención y asistencia que se brinda a personas adictas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VIII. Procurar que los agentes del Ministerio Público, peritos y agentes de la Policía Estatal Única reciban cursos de capacitación, formación y especialización sobre las adicciones, a fin de mejorar la atención y asistencia que se brinde a las personas adictas;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DEL 2010)</small>
+IX. Proporcionar a los adictos asesoría jurídica y orientación de cualquier índole, a título gratuito y canalizarlos a las instituciones de asistencia social necesarias para su atención;
 
-VIII. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos, cuando dichas actividades se realicen en lugares públicos, actuando conforme a sus atribuciones; y
+X. Proporcionar a la Secretaría información para fines estadísticos sobre la incidencia de infractores adictos; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XI. Las demás que conforme a este ordenamiento y otras disposiciones aplicables les corresponden.
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DEL 2010)</small>
-
-IX. Las demás que conforme a este ordenamiento y otras disposiciones aplicables les corresponden.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 10.
 
-Son atribuciones de la Procuraduría General de Justicia:
-
-I. Procurar que los agentes del Ministerio Público, peritos y agentes ministeriales reciban cursos de capacitación, formación y especialización sobre las adicciones, a fin de mejorar la atención y asistencia que se brinde a las personas adictas;
-
-II. Proporcionar a los adictos asesoría jurídica y orientación de cualquier índole, a título gratuito y canalizarlos a las instituciones de asistencia social necesarias para su atención;
-
-III. Proporcionar a la Secretaría información para fines estadísticos sobre la incidencia de infractores adictos; y
-
-IV. Las demás previstas para el cumplimiento de esta Ley.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 ###### ARTÍCULO 11.
 
@@ -321,13 +311,25 @@ VI. Un Comisionado de Tratamiento, que será el Titular de la COESPRIS-CHIH;
 
 VII. Un Comisionado de Vigilancia y Epidemiología, que será el Director de Epidemiología de los Servicios de Salud de Chihuahua;
 
-VIII. Un Comisionado de Control de la Oferta, que será el Titular de la Secretaría de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. Un Comisionado de Control de la Oferta, que será el Titular de la Fiscalía General del Estado;
 
 IX. Un Comisionado de Reinserción Social, que será el Presidente de la Junta de Asistencia Privada;
 
-X. Los Comités Municipales que deseen participar, cuando el asunto a tratar sea de su interés o de su ámbito de competencia; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-XI. Un Diputado, quien tendrá la representación del Poder Legislativo.
+X. Los Comités Municipales que deseen participar, cuando el asunto a tratar sea de su interés o de su ámbito de competencia;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Un Diputado, quien tendrá la representación del Poder Legislativo; y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+XII. Dos representantes de la sociedad civil que tengan conocimiento o vinculación en el área de las adicciones.
 
 El cargo de los integrantes del Consejo será honorario.
 
@@ -575,7 +577,11 @@ Las autoridades competentes que realicen actuaciones en los centros de atención
 
 En los centros de atención de adictos, la Secretaría coadyuvará en la vigilancia al respeto irrestricto de los derechos humanos cuando detecte algún caso de violación a dichas garantías como consecuencia de una visita de verificación o de cualquier otra forma.
 
-En tales supuestos, podrá aplicar una o varias de las sanciones previstas en el artículo 37 de esta Ley, según la gravedad del caso; además, dará aviso inmediato a la Comisión Estatal de Derechos Humanos y a la Procuraduría General de Justicia, según sea el caso, para los efectos legales correspondientes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En tales supuestos, podrá aplicar una o varias de las sanciones previstas en el artículo 37 de esta Ley, según la gravedad del caso; además, dará aviso inmediato a la Comisión Estatal de Derechos Humanos y a la Fiscalía General del Estado, según sea el caso, para los efectos legales correspondientes.
 
 ###### ARTÍCULO 40.
 
@@ -681,7 +687,7 @@ Los procedimientos penales que se estén substanciando a la entrada en vigor del
 
 A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
 
-P. O. 14 DE AGOSTO DE 2010
+P. O. 14 DE AGOSTO DE 2010.
 
 DECRETO NUMERO 1060/2010 II P.O., POR EL QUE SE REFORMAN LOS ARTICULOS 8 Y 19 DE LA LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA.
 
@@ -696,3 +702,49 @@ Por lo que respecta a la reforma y adición del artículo 19, entrará en vigor 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 1166/2010, POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI Y SE ADICIONA CON UNA FRACCION XII, TODAS DEL ARTICULO 17 DE LA LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 1142/2010, POR EL QUE SE DEROGA EL ARTICULO 10, Y SE REFORMAN LOS ARTICULOS 9; 17, FRACCION VIII, Y 39, SEGUNDO PARRAFO, TODOS DE LA LEY PARA LA PREVENCION DE LAS ADICCIONES, TRATAMIENTO, DISMINUCION DE DAÑO Y REINSERCION SOCIAL DE PERSONAS CON ADICCION EN EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la Ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
