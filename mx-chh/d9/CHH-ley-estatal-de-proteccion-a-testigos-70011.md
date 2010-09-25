@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-proteccion-a-testigos-70011"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-22"
-last_updated: "2009-08-22"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE PROTECCION A TESTIGOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2009.
 
@@ -105,15 +105,23 @@ Las instancias mencionadas estarán obligadas a mantener en reserva y estricta c
 
 Entidades de protección y asistencia.
 
-La protección y asistencia a que se refiere la presente Ley, debe proporcionarlas el Ministerio Público, a través de la Oficina de Protección a Testigos de la Subprocuraduría de Derechos Humanos y Atención a Víctimas del Delito y demás obligados por la presente Ley.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+La protección y asistencia a que se refiere la presente Ley, debe proporcionarlas el Ministerio Público, a través de la Oficina de Protección a Testigos de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito y demás obligados por la presente Ley.
 
 El Ministerio Público podrá solicitar la colaboración de cualquier autoridad para garantizar, de manera efectiva, la seguridad y bienestar físico, psicológico y social de los testigos y sus allegados en los términos de la presente Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 9.
 
 Celebración de acuerdos.
 
-A fin de lograr los objetivos de esta Ley, la Procuraduría General de Justicia del Estado está facultada para celebrar acuerdos o convenios con personas físicas o morales, estatales, nacionales o internacionales, que resulten conducentes para favorecer la protección de los intervinientes en riesgo.
+A fin de lograr los objetivos de esta Ley, la Fiscalía General está facultada para celebrar acuerdos o convenios con personas físicas o morales, estatales, nacionales o internacionales, que resulten conducentes para favorecer la protección de los intervinientes en riesgo.
 
 ###### ARTÍCULO 10.
 
@@ -289,9 +297,17 @@ I. La preservación durante la investigación o el proceso penal, y después del
 
 II. La adopción de formas de control para su individualización, mediante numeraciones, claves o mecanismos electrónicos automatizados;
 
-III. La recepción de sus testimonios en sesión privada, sin revelar públicamente su identidad, y con el auxilio del personal de la Unidad Especializada de Atención a Víctimas y peritos especializados en su caso, en lugar distinto a la sala de audiencia, por circuito cerrado, con la voz distorsionada y sin que aparezca su rostro, pudiendo hacerse uso de la caracterización, debiendo emplearse las técnicas audiovisuales adecuadas para la transmisión de su testimonio en la sala de audiencias;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV. La fijación como domicilio para recibir toda clase de citaciones y notificaciones, en la sede de la Oficina de Protección a Testigos de la Subprocuraduría de Derechos Humanos y Atención a Víctimas del Delito, quien las comunicará con la debida reserva y los acompañará a la audiencia respectiva y a su domicilio, y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III. La recepción de sus testimonios en sesión privada, sin revelar públicamente su identidad, y con el auxilio del personal de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito y peritos especializados en su caso, en lugar distinto a la sala de audiencia, por circuito cerrado, con la voz distorsionada y sin que aparezca su rostro, pudiendo hacerse uso de la caracterización, debiendo emplearse las técnicas audiovisuales adecuadas para la transmisión de su testimonio en la sala de audiencias;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+IV. La fijación como domicilio para recibir toda clase de citaciones y notificaciones, en la sede de la Oficina de Protección a Testigos de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, quien las comunicará con la debida reserva y los acompañará a la audiencia respectiva y a su domicilio, y
 
 V. Cualquier otro mecanismo tendiente a su protección.
 
@@ -341,11 +357,15 @@ Se suspenderán o cancelarán las medidas de protección, cuando el beneficiario
 
 ### CAPÍTULO ÚNICO
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 28.
 
-Procuraduría General de Justicia del Estado.
+Fiscalía General del Estado.
 
-La Procuraduría, a través de la Subprocuraduría de Derechos Humanos y Atención a Víctimas del Delito, es el órgano facultado para garantizar la protección de los intervinientes, testigos y sus allegados, otorgando a quienes considere pertinente, las medidas necesarias para garantizar su vida, su integridad física, y cualquier otro bien que les sea propio.
+La Fiscalía General, a través de la Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito, es el órgano facultado para garantizar la protección de los intervinientes, testigos y sus allegados, otorgando a quienes considere pertinente, las medidas necesarias para garantizar su vida, su integridad física, y cualquier otro bien que les sea propio.
 
 ###### ARTÍCULO 29.
 
@@ -497,9 +517,17 @@ Si con ocasión de la revelación de la información el interviniente, testigo o
 
 Adscripción y administración.
 
-Los fondos para la protección y asistencia a que se refiere la presente Ley, serán administrados por la Dirección Administrativa de la Procuraduría General de Justicia del Estado.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-En el presupuesto estatal, se incorporará una partida destinada a asegurar el pago de los gastos por concepto de asistencia y protección a los intervinientes, testigos y sus allegados, la cual estará destinada a financiar la ejecución de programas, acciones o servicios de protección, asistencia y atención. En ningún caso esta partida podrá utilizarse para la cancelación o financiamiento de otros gastos administrativos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Los fondos para la protección y asistencia a que se refiere la presente Ley, serán administrados por la Dirección Administrativa de la Fiscalía General del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+En el presupuesto estatal, se incorporará una partida destinada a asegurar el pago de los gastos por concepto de asistencia y protección a los intervinientes, testigos y sus allegados, la cual estará destinada a financiar la ejecución de programas, acciones o servicios de protección, asistencia y atención.
 
 El Reglamento y su normativa interna establecerán el procedimiento para la administración de los recursos del programa de atención a intervinientes, testigos y sus allegados.
 
@@ -524,3 +552,43 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de julio del año dos mil nueve.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
