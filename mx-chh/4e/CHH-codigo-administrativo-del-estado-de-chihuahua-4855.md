@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2010-06-26"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -415,9 +415,15 @@ a).- Son trabajadores de base los no incluidos dentro del grupo de funcionarios 
 
 Asimismo se considerarán trabajadores de base los empleados que reuniendo los requisitos anteriores perciban sueldo con cargo a una partida de presupuesto y los de lista de raya con antigüedad mayor de seis meses.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-b).- Son funcionarios y empleados de confianza del Poder Ejecutivo: El Secretario de Gobierno, El Procurador General de Justicia, los Directores Generales y Coordinadores, el Secretario Particular del Gobernador, los Jefes de Departamento, Oficina y División; los Agentes y Sub-agentes del Ministerio Público, adscritos a la Procuraduría General de Justicia y de la Policía al mando del ministerio público dependiente de la misma, el Encargado del Departamento de Identificación Criminal y los Peritos Técnicos y Médicos Legistas; los Abogados Consultores del Gobierno, los Presidentes, Secretarios, Notificadores o Actuarios de las Juntas de Conciliación y Arbitraje; el Procurador General de la Defensa del Trabajo y los Procuradores Auxiliares, así como los Inspectores del Trabajo; los Representantes del Gobierno en la Comisión Agraria Mixta y en la Junta Local de Caminos, los Jefes de las Oficinas del Registro Público de la Propiedad y del Registro Civil; el Jefe de la Oficina Estatal de Profesiones; los Recaudadores, Contadores y Cajeros de las Oficinas Receptoras; el Director, Subdirector, los Agentes de Seguridad y Celadores de la Penitenciaría del Estado; el Director y Encargado del Periódico Oficial del Estado, el Director de Teléfonos del Estado; los miembros de los Patronatos de la Asistencia Pública y Beneficencia Privada; los Directores de los Hospitales y demás Centros Asistenciales, los Celadores y las Trabajadoras Sociales a su servicio; el Secretario y el Director de la Escuela de Rehabilitación dependiente del mismo Tribunal; los Inspectores Fiscales; los Inspectores de Ganadería; el Intendente del Palacio de Gobierno, los Jefes de Tránsito; los Agentes de Policía de Tránsito del Estado; los comisionados especiales y empleados al servicio personal del Gobernador; los Inspectores de Municipios y los Jefes de Almacén de la Proveeduría. También serán considerados como empleados de confianza en todas las Dependencias del Ejecutivo, las secretarias y los secretarios, los miembros de comisiones de estudios y consultores y las personas que presten servicio mediante contrato.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+b).- Son funcionarios y empleados de confianza del Poder Ejecutivo: el Secretario de Gobierno, El Fiscal General del Estado, los Directores Generales y Coordinadores, el Secretario Particular del Gobernador, los Jefes de Departamento, Oficina y División; los Agentes y Sub-agentes del Ministerio Público, adscritos a la Fiscalía General del Estado y de la Policía al mando del ministerio público dependiente de la misma, el Encargado del Departamento de Identificación Criminal y los Peritos Técnicos y Médicos Legistas; los Abogados Consultores del Gobierno, los Presidentes, Secretarios, Notificadores o Actuarios de las Juntas de Conciliación y Arbitraje; el Procurador General de la Defensa del Trabajo y los Procuradores Auxiliares, así como los Inspectores del Trabajo; los Representantes del Gobierno en la Comisión Agraria Mixta y en la Junta Local de Caminos, los Jefes de las Oficinas del Registro Público de la Propiedad y del Registro Civil; el Jefe de la Oficina Estatal de Profesiones; los Recaudadores, Contadores y Cajeros de las Oficinas Receptoras; el Director, Subdirector, los Agentes de Seguridad y Celadores de la Penitenciaría del Estado; el Director y Encargado del Periódico Oficial del Estado, el Director de Teléfonos del Estado; los miembros de los Patronatos de la Asistencia Pública y Beneficencia Privada; los Directores de los Hospitales y demás Centros Asistenciales, los Celadores y las Trabajadoras Sociales a su servicio; el Secretario y el Director de la Escuela de Rehabilitación dependiente del mismo Tribunal; los Inspectores Fiscales; los Inspectores de Ganadería; el Intendente del Palacio de Gobierno, los Jefes de Tránsito; los Agentes de la Policía de Tránsito del Estado; los comisionados especiales y empleados al servicio personal del Gobernador; los Inspectores de Municipios y los Jefes de Almacén de la Proveeduría.
+
+> <small>N. DE E. EN EL P.O. DEL 2 DE OCTUBRE DE 2004 SE REFORMA EL INCISO B) DE MANERA INTEGRAL PARA PASAR DE CINCO A DOS PARRAFOS. LA REFORMA PUBLICADA EN EL P.O. DEL 25 DE SEPTIEMBRE DE 2010, INDICA LA EXISTENCIA DE CUATRO PARRAFOS SUBSECUENTES AL INCISO B).</small>
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 Son funcionarios y empleados de confianza del Poder Legislativo: el Oficial Mayor y el Contador General de Hacienda. Son funcionarios y empleados de confianza del Poder Judicial: el Secretario General del Supremo Tribunal de Justicia y los Secretarios de las Salas de Apelación y de los Juzgados; los Visitadores Judiciales, los Jueces de Primera Instancia o de lo Familiar, Menores y de Paz, los Jefes de Defensorías de Oficio y los Ministros Ejecutores. Son funcionarios y empleados de confianza de los Organismos Descentralizados los que se determinan conforme a sus propias disposiciones normativas.
 
@@ -3495,11 +3501,13 @@ Para la ejecución de sanciones privativas de libertad dictadas por las autorida
 
 El tratamiento será individualizado, con aportación de las diversas ciencias y disciplinas pertinentes para la reincorporación social del sujeto, consideradas sus circunstancias personales. Por consiguiente, toda persona que ingrese a un centro carcelario o penitenciario será sometida a examen médico a fin de conocer su estado físico y mental; a la vez, personal especializado elaborará un estudio de su personalidad con el objeto de calificar su nivel cultural y comprobar su habilidad y capacidad para el trabajo.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 688.
 
-La asignación del trabajo a los internos se hará tomando en cuenta sus deseos, su vocación, sus aptitudes, la capacitación laboral adquirida y las posibilidades del reclusorio. El trabajo en los reclusorios se organizará previo estudio de las características de la economía local, especialmente del mercado oficial, a fin de favorecer la correspondencia entre las demandas de éstas y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento. Para este último efecto, las autoridades del penal y los interesados elaborarán un plan de trabajo y producción que será sometido a aprobación de la Secretaría de Seguridad Pública a través de la Dirección de Penas y Medidas de Seguridad.
+La asignación del trabajo a los internos se hará tomando en cuenta sus deseos, su vocación, sus aptitudes, la capacitación laboral adquirida y las posibilidades del reclusorio. El trabajo en los reclusorios se organizará previo estudio de las características de la economía local, especialmente del mercado oficial, a fin de favorecer la correspondencia entre las demandas de éstas y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento. Para este último efecto, las autoridades del penal y los interesados elaborarán un plan de trabajo y producción que será sometido a aprobación de la Fiscalía General del Estado, a través de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales.
 
 ###### ARTICULO 689.
 
@@ -3545,11 +3553,13 @@ En todas las prisiones se destinarán locales para refectorio, cocina, escuela, 
 
 ### CAPITULO III. DE LOS DIRECTORES, ALCAIDES Y PERSONAL DE VIGILANCIA Y ADMINISTRACION
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 699.
 
-La dirección, vigilancia, disciplina y administración de los establecimientos carcelarios estarán a cargo de los directores o alcaides que dependerán de la primera autoridad política, de las autoridades judiciales y de la Secretaría de Seguridad Pública a través de la Dirección de Penas y Medidas de Seguridad dentro de las atribuciones de cada una de esas entidades.
+La dirección, vigilancia, disciplina y administración de los establecimientos carcelarios estarán a cargo de los directores o alcaides que dependerán de la primera autoridad política, de las autoridades judiciales y de la Fiscalía General del Estado, a través de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales, dentro de las atribuciones de cada una de esas entidades.
 
 ###### ARTICULO 700.
 
@@ -3563,11 +3573,13 @@ En cada establecimiento carcelario habrá un director o alcaide, responsable dir
 
 Los directores y alcaides serán nombrados por el Ejecutivo o los Presidentes Municipales, en su caso, bajo el concepto de que para ocupar el puesto será necesario tener veinticinco años cumplidos, ser de reconocida honorabilidad y capacidad para el desempeño del mismo y no haber sufrido nunca pena corporal por ninguna infracción antisocial. Además tendrán impedimento para litigar en asuntos penales. Será discrecional para el Ejecutivo del Estado o los Presidentes Municipales exigirles fianza por los objetos o fondos de las prisiones y de los reclusos.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 703.
 
-Los directores y alcaides darán cuenta dentro de los primeros cinco días de cada mes, a los Ayuntamientos y a la Secretaría de Seguridad Pública, de la existencia y movimiento de presos, del trabajo desarrollado por éstos y de su producto, y de todos los incidentes importantes que ocurran en el interior de las prisiones. Así mismo comunicarán mensualmente a la Tesorería del Estado o Municipales y a la Dirección de Gobernación, el movimiento de caudales por sostenimiento y producto del trabajo de los internos.
+Los directores y alcaides darán cuenta dentro de los primeros cinco días de cada mes, a los Ayuntamientos y a la Fiscalía General del Estado, de la existencia y movimiento de presos, del trabajo desarrollado por éstos y de su producto, y de todos los incidentes importantes que ocurran en el interior de las prisiones. Así mismo, comunicarán mensualmente a la Tesorería del Estado o Municipales y a la Dirección de Gobernación, el movimiento de caudales por sostenimiento y producto del trabajo de los internos.
 
 ###### ARTICULO 704.
 
@@ -3577,11 +3589,13 @@ En las ausencias temporales o accidentales del director o alcaide de una institu
 
 Para ser nombrado subdirector o subalcaide se requieren los mismos requisitos que se han señalado para obtener el cargo de director o alcaide, inclusive la fianza en su caso.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 706.
 
-Las faltas de los directores o alcaides serán sancionadas por al autoridad competente o por la Secretaría de Seguridad Pública, según corresponda, de acuerdo con los reglamentos respectivos.
+Las faltas de los directores o alcaides serán sancionadas por la autoridad competente o por la Fiscalía General del Estado, según corresponda, de acuerdo con los reglamentos respectivos.
 
 ### CAPITULO IV. PREVENCIONES GENERALES
 
@@ -3589,21 +3603,25 @@ Las faltas de los directores o alcaides serán sancionadas por al autoridad comp
 
 Para los efectos de la libertad preparatoria, los alcaides sólo podrán expedir certificado de buena conducta a los reos que tengan menos de tres medidas disciplinarias por año.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 708.
 
-El incumplimiento de lo anterior será sancionado por la autoridad competente o por la Secretaría de Seguridad Pública, de acuerdo con el reglamento correspondiente.
+El incumplimiento de lo anterior será sancionado por la autoridad competente o por la Fiscalía General del Estado, de acuerdo con el reglamento correspondiente.
 
 ## TITULO SEGUNDO. DE LA PENITENCIARIA DEL ESTADO
 
 ### CAPITULO I. LA PENITENCIARIA, SU OBJETO Y ADMINISTRACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 709.
 
-La Penitenciaría del Estado dependerá directamente de la Secretaría de Seguridad Pública por conducto de la Dirección de Penas y Medidas de Seguridad y tendrá por objeto la corrección y rehabilitación de los delincuentes; y, para realizar estos fines, son necesarios:
+La Penitenciaría del Estado dependerá directamente de la Fiscalía General del Estado por conducto de la Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales, y tendrá por objeto la corrección y rehabilitación de los delincuentes; y, para realizar estos fines, son necesarios:
 
 I.- La seguridad de los reclusos, para los que se empleará una estricta vigilancia, con el objeto de evitar evasiones, desórdenes y relajamiento de la disciplina que debe existir en todo establecimiento penitenciario;
 
@@ -3641,11 +3659,13 @@ II.- En los documentos mencionados en la fracción anterior deberá estar compre
 
 ### CAPITULO II. INSPECCION
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 715.
 
-La inspección de la Penitenciaría, en lo que se refiere al régimen administrativo, estará a cargo de la Secretaría de Seguridad Pública, la cual, cada vez que lo estime conveniente, nombrará personas que practiquen visitas al establecimiento. En lo relativo a los asuntos meramente judiciales, las autoridades de ese ramo practicarán las correspondientes visitas, conforme al Código de Procedimientos de la materia y las extraordinarias que tenga a bien acordar, en uso de sus facultades.
+La inspección de la Penitenciaría, en lo que se refiere al régimen administrativo, estará a cargo de la Fiscalía General del Estado, la cual, cada vez que lo estime conveniente, nombrará personas que practiquen visitas al establecimiento. En lo relativo a los asuntos meramente judiciales, las autoridades de ese ramo practicarán las correspondientes visitas, conforme al Código de Procedimientos de la materia y las extraordinarias que tenga a bien acordar, en uso de sus facultades.
 
 ###### ARTICULO 716.
 
@@ -3685,9 +3705,9 @@ II.- Mandar la fuerza de seguridad del recinto, así como vigilar la higiene, la
 
 III.- Dar aviso al Ejecutivo del Estado de lo que sea necesario reparar o corregir en los distintos departamentos y mobiliario, indicando las reparaciones y mejoras que convengan para la conservación y mejoramiento del edificio;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
-IV.- Entregar al sucesor, al separarse del empleo, todos los internos, valores y objetos que estén a su cuidado, mediante formal inventario y con intervención de la persona que designe la Secretaría de Seguridad Pública y hacer que los demás empleados, en cada caso hagan otro tanto de lo que a ellos corresponda entregar con intervención del empleado que nombre el Director;
+IV.- Entregar al sucesor, al separarse del empleo, todos los internos, valores y objetos que estén a su cuidado, mediante formal inventario y con intervención de la persona que designe la Fiscalía General del Estado y hacer que los demás empleados, en cada caso, hagan otro tanto de lo que a ellos corresponda entregar con intervención del empleado que nombre el Director;
 
 V.- Las demás que le señalen este Código, Reglamento y demás disposiciones.
 
@@ -3703,9 +3723,11 @@ I.- Determinar la celda que debe ocupar cada preso de conformidad con lo previst
 
 II.- Dar oficialmente al juez que haya dictado la sentencia definitiva o al Supremo Tribunal, en su caso, con quince días de anticipación aviso de la fecha en que los reos han de cumplir su condena, para que esas autoridades ordenen en su oportunidad que sean puestos en libertad;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III.- Avisar a la Secretaría de Seguridad Pública cada vez que sea puesto en libertad un reo sentenciado, expresando el motivo y la autoridad que concedió la libertad.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III.- Avisar a la Fiscalía General del Estado cada vez que sea puesto en libertad un reo sentenciado, expresando el motivo y la autoridad que concedió la libertad.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -3749,11 +3771,13 @@ Cuando esta Guardia se cubra con fuerzas del Estado, el Comandante quedará de u
 
 ### CAPITULO VIII. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 733.
 
-Para todos los casos no previstos por este Título o su Reglamento, el Director de la Penitenciaría pedirá instrucciones a la Secretaría de Seguridad Pública, y en los que sean de urgencia, tomará, entre tanto las recibe, las medidas que las circunstancias y la prudencia le sugieran.
+Para todos los casos no previstos por este Título o su Reglamento, el Director de la Penitenciaría pedirá instrucciones a la Fiscalía General del Estado, y en los que sean de urgencia, tomará, entre tanto las recibe, las medidas que las circunstancias y la prudencia le sugieran.
 
 ###### ARTICULO 734.
 
@@ -5007,39 +5031,41 @@ TRABAJO Y PREVISION SOCIAL
 
 El Ejecutivo del Estado cuidará de la exacta aplicación de la Ley Federal del Trabajo reglamentaria del artículo 123 de la Constitución General de la República.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+
 ###### ARTICULO 935.
 
-Por conducto del Departamento de Trabajo y Previsión Social:
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-I.- Vigilará el funcionamiento normal de las Juntas de Conciliación y de Conciliación y Arbitraje, las cuales actuarán con la autonomía que la Ley Federal del Trabajo les concede;
-
-II.- Estudiará la conveniencia y posibilidad de establecer nuevas Juntas de Conciliación y Arbitraje en las poblaciones o lugares que por su importancia lo requieran;
-
-III.- Establecerá una permanente vigilancia a fin de hacer respetar principalmente las disposiciones sobre jornada máxima de trabajo, protección del trabajo de la mujer y de los jóvenes menores de dieciocho años, descanso semanario, salario mínimo, condiciones de salubridad e higiene de los centros de trabajo, habitaciones, escuelas, hospitales y enfermerías para trabajadores, medidas sobre prevención de riesgos profesionales, registro de sindicatos, agencias de colocaciones, contratos con empresarios extranjeros y en general, todas aquellas encaminadas a la defensa legítima del trabajador.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### ARTICULO 936.
 
-El Ejecutivo fundará las agencias gratuitas de colocaciones que estime necesarias, y dictará los reglamentos conforme a los cuales deban operar.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### ARTICULO 937.
 
-El Departamento de Trabajo y Previsión Social participará en la obra educacional encaminada a la orientación social de los trabajadores, a fin de capacitarlos para la mejor defensa de sus derechos.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### ARTICULO 938.
 
-El Ejecutivo del Estado, sin rebasar la órbita de su competencia, dictará también las medidas necesarias para mejorar la vivienda, la alimentación, la educación y en general, las condiciones de vida de los trabajadores.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-Con estos objetivos y dentro de los límites señalados promoverá la organización de cooperativas, cajas de ahorro y en general, de instituciones o empresas de carácter público o de economía mixta.
-
-También podrá promover la organización de instituciones locales de crédito o la instalación en el Estado de sucursales o agencias de Instituciones nacionales como el Nacional Monte de Piedad, con la tendencia a combatir el agio y la usura y desarrollar el crédito en beneficio de trabajadores y artesanos.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### ARTICULO 939.
 
-El presupuesto señalará el número de inspectores del trabajo que dependientes del Departamento del mismo ramo, tendrán como obligación principal vigilar que los patronos cumplan con todas las medidas de seguridad previstas para evitar los riesgos profesionales y las demás obligaciones que les impone la Ley Federal del Trabajo en beneficio de sus trabajadores.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
 
 ###### ARTICULO 940.
 
-Tomando en cuenta las necesidades y peculiaridades propias del Estado y sus diferentes regiones y localidades, el Departamento de Trabajo y Previsión Social procederá al estudio de los diversos aspectos de la legislación del trabajo en que se encomienda a los Gobernadores que expidan los reglamentos o disposiciones administrativas que estimen adecuadas para asegurar la vigencia de la Ley Federal del Trabajo.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 ### CAPITULO II. DE LA DEFENSA DEL TRABAJO
 
@@ -10854,3 +10880,133 @@ Lo dispuesto en los artículos 7, fracción V; 15, 74, 89, 115, 134, 135, 136, 1
 ###### ARTÍCULO TERCERO.
 
 El Titular del Ejecutivo Estatal contará con un término de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para expedir la reglamentación correspondiente a la presente Ley.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 1143/2010 XII P.E., POR EL QUE SE DEROGAN LOS ARTICULOS 935 AL 940 DEL CODIGO ADMINISTRATIVO DEL ESTADO.
+
+###### ARTÍCULO PRIMERO.
+
+Una vez que el presente Decreto se publique en el Periódico Oficial del Estado, el mismo entrará en vigor el día 4 de octubre de 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento al presente Decreto, se faculta al Ejecutivo del Estado para organizar la estructura administrativa de las dependencias y unidades orgánicas que se crean, incluida la Consejería Jurídica, así como de las unidades administrativas que se reasignan por virtud del mismo, y realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación de las mismas conforme al Presupuesto de Egresos para el 2010, incluso para realizar las erogaciones necesarias conforme a la estructura presupuestaria autorizada para el 2010. El Presupuesto de Egresos para el 2011 deberá expresar la estructura presupuestaria y orgánica de las dependencias y unidades orgánicas que se crean mediante este Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría de Hacienda los bienes muebles, archivos y, en general, documentos que tenían destinados a su servicio, manejo y resguardo la Secretaría de Finanzas y Administración y la Secretaría de Planeación y Evaluación.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Finanzas y Administración y la Secretaría de Planeación y Evaluación, serán continuados por y ante la Secretaría de Hacienda, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Secretaría de Finanzas y Administración y la Secretaría de Planeación y Evaluación en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Secretaría de Hacienda a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, a la Secretaría de Finanzas o a la Secretaría de Finanzas y Administración, se entenderá citada a la Secretaría de Hacienda; de igual manera, se entenderá citada ésta cuando se haga mención a la Oficialía Mayor, a la Dirección General de Administración o a la Secretaría de Administración.
+
+###### ARTÍCULO SÉPTIMO.
+
+Cuando en cualquier otro instrumento jurídico que fuere, se haga referencia a la Coordinación de Planeación y Evaluación o a la Secretaría de Planeación y Evaluación, se entenderá citada a la Secretaría de Hacienda.
+
+###### ARTÍCULO OCTAVO.
+
+Se transfieren a la Secretaría de Economía los bienes muebles archivos y documentos que tenían destinados a su servicio, manejo y resguardo la Secretaría de Desarrollo Industrial y la Secretaría de Desarrollo Comercial y Turístico.
+
+###### ARTÍCULO NOVENO.
+
+El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Desarrollo Industrial o la Secretaría de Desarrollo Comercial y Turístico, serán continuados por y ante la Secretaría de Economía, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Desarrollo Industrial o la Secretaría de Desarrollo Comercial y Turístico en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría de Economía a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Desarrollo Industrial o a la Secretaría de Desarrollo Comercial y Turístico, se entenderá citada a la Secretaría de Economía.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Se transfieren a la Secretaría de Desarrollo Urbano y Ecología, los bienes muebles, activos, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la extinta Secretaría de Desarrollo Municipal respecto a la función catastral.
+
+ARTÍCULO DECIMOTERCERO.- Se transfieren a la Secretaría del Trabajo y Previsión Social los bienes muebles, activos, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la Dirección de Trabajo y Previsión Social, dependiente de la Secretaría General de Gobierno hasta antes de la expedición del presente Decreto.
+
+ARTÍCULO DECIMOCUARTO.- El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Dirección de Trabajo y Previsión Social, serán continuados por y ante la Secretaría del Trabajo y Previsión Social.
+
+ARTÍCULO DECIMOQUINTO.- Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Dirección de Trabajo y Previsión Social en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, así como con cualquier persona física o moral, serán asumidas por la Secretaría del Trabajo y Previsión Social a partir de la entrada en vigor de este Decreto.
+
+ARTÍCULO DECIMOSEXTO.- Cuando en cualquier otro instrumento jurídico se haga referencia a la Dirección de Trabajo y Previsión Social, se entenderá citada a la Secretaría del Trabajo y Previsión Social.
+
+ARTÍCULO DECIMOSÉPTIMO.- Se transfieren a la Secretaría General de Gobierno los archivos y documentos que tenían destinados a su servicio, manejo y resguardo la Secretaría de Desarrollo Municipal respecto de las unidades administrativas que se le transfieran conforme al presente Decreto.
+
+ARTÍCULO DECIMOCTAVO.- El trámite de los asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Secretaría de Desarrollo Municipal, serán continuados ante la Secretaría General de Gobierno o ante la Secretaría de Desarrollo Urbano y Ecología, considerando las funciones y unidades administrativas que a cada una se le transfieren de la extinta Secretaría de Desarrollo Municipal conforme a este Decreto.
+
+ARTÍCULO DECIMONOVENO.- Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Secretaría de Desarrollo Municipal en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Secretaría General de Gobierno o por la Secretaría de Desarrollo Urbano y Ecología, considerando las funciones que a cada una se le transfieren de la extinta Secretaría de Desarrollo Municipal conforme a este Decreto.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Coordinación de Fortalecimiento Municipal o a la Secretaría de Desarrollo Municipal, se entenderá citada a la Secretaría General de Gobierno o a la Secretaría de Desarrollo Urbano y Ecología, considerando las funciones que a cada una se le transfieren de la extinta Secretaría de Desarrollo Municipal conforme a este Decreto.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Las disposiciones reglamentarias establecerán las bases de coordinación entre los diferentes órganos del Poder Ejecutivo para la prestación de los servicios jurídicos, en los términos del artículo 18 de esta Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+Cuando en la Ley de Cultura Física y Deporte del Estado de Chihuahua se haga referencia a la Secretaría de Fomento Social o al Secretario de Fomento Social, se entenderá citada la Secretaría de Educación, Cultura y Deporte o al Secretario de Educación, Cultura y Deporte.
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+El Ejecutivo del Estado expedirá el Reglamento Interior de las dependencias y unidades orgánicas que se crean por virtud del presente Decreto, así como las adecuaciones necesarias a los Reglamentos Interiores de las dependencias que modifican sus atribuciones a partir de la expedición de este Decreto.
+
+###### ARTÍCULO VIGÉSIMO CUARTO.
+
+El Ejecutivo del Estado, en coordinación con la Legislatura Estatal, incorporarán las bases legales y suficiencia presupuestaria necesaria dentro de la legislación correspondiente, respecto del Consejo de Desarrollo Económico del Estado de Chihuahua, con el objeto de garantizar su eficiencia y eficacia, lo cual deberá ejecutarse en el término de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO VIGÉSIMO QUINTO.
+
+Se transfieren a la Secretaría de la Contraloría los archivos magnéticos conteniendo documentación, manuales de procedimientos, manuales de organización, código fuente de los programas que conforman los sistemas desarrollados por la Coordinación de Desarrollo Administrativo y Modernización que dependía de la Secretaría de Finanzas y Administración, así como los archivos de configuración de equipo de comunicaciones, telefonía, de servidores de aplicaciones y de base de datos y documentos en general que tenía asignados a su servicio, manejo y resguardo dicha unidad administrativa.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 1142/2010 XII P.E., POR EL QUE SE REFORMA EL INCISO B) DE LA FRACCION III DEL ARTICULO 75; LOS ARTICULOS 688, 699, 703, 706, 708; PARRAFO PRIMERO DEL 709, 715; FRACCION IV DEL 722; FRACCION III DEL 724 Y EL 733, TODOS ELLOS DEL CODIGO ADMINISTRATIVO.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la Ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
