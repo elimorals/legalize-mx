@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-del-derecho-de-las-mujeres-a-una-vida-libre-de-5427
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-24"
-last_updated: "2010-03-06"
+last_updated: "2010-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2007.
 
@@ -63,7 +63,11 @@ V. Establecer medidas para concientizar y sensibilizar a la comunidad con el pro
 
 VI. Instruir y responsabilizar, conforme a los ordenamientos legales aplicables, a los integrantes del sector salud para que proporcionen trato digno y atención integral a las víctimas de violencia, respetando su intimidad;
 
-VII. Instruir y responsabilizar, conforme a los ordenamientos legales aplicables, a los órganos de seguridad pública y de procuración y administración de justicia, para que brinden especial atención a las mujeres víctimas de la violencia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Instruir y responsabilizar, conforme a los ordenamientos legales aplicables, a la Fiscalía General del Estado, para que brinden especial atención a las mujeres víctimas de la violencia;
 
 VIII. Establecer funciones específicas a las autoridades, orientadas a la prevención y erradicación de la violencia contra las mujeres, en el marco de las atribuciones que les otorga esta Ley;
 
@@ -297,7 +301,11 @@ l. Una o un Presidente, que será la o el titular de la Secretaría de Fomento S
 
 II. Una Secretaria, que será la Directora del Instituto Chihuahuense de la Mujer;
 
-III. Las o los titulares de la Procuraduría General de Justicia, así como de las Secretarías de Seguridad Pública, de Educación y Cultura, y de Desarrollo Municipal;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III. Las o los titulares de la Fiscalía General del Estado, así como de las Secretarías de Educación y Cultura, y de Desarrollo Municipal;
 
 IV. La o el titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia en el Estado;
 
@@ -373,7 +381,11 @@ I. Fomentar el conocimiento y el respeto al derecho de toda persona a una vida s
 
 II. Transformar los modelos socioculturales de conducta de hombres y mujeres, incluyendo la propuesta y formulación de programas de educación formales y no formales, respectivamente, en todos los niveles y modalidades, con la finalidad de erradicar estereotipos que permitan o toleren la violencia contra las mujeres;
 
-III. Impulsar la capacitación con perspectiva de género del personal a cargo de la Procuración de Justicia y de la Secretaría de Seguridad Pública;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+III. Impulsar la capacitación con perspectiva de género del personal a cargo de la Fiscalía General del Estado;
 
 IV. Impulsar la capacitación de Magistradas, Magistrados, Juezas, Jueces, Defensoras y Defensores de Oficio, y personal a cargo del Poder Judicial, a fin de dotarles de instrumentos que les permitan realizar su labor con perspectiva de género;
 
@@ -523,51 +535,51 @@ XVIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
 XIX. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 30.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Corresponde a la Fiscalía General del Estado:
 
-I. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
+l. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
 
 II. Informar al Consejo sobre la ejecución de las acciones de su competencia contenidas en el Programa, con la finalidad de evaluar su eficacia;
 
 III. Formular las bases para la coordinación del Consejo con los Sistemas Nacional y Estatal de Seguridad Pública, para la prevención y erradicación de la violencia contra las mujeres;
 
-IV. Capacitar a los cuerpos de seguridad pública a su cargo para atender, con perspectiva de género y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
+IV. Capacitar a la Policía Estatal Única para atender, con perspectiva de género y de conformidad con los protocolos estandarizados a las normas aplicables, los casos de violencia contra las mujeres;
 
 V. Canalizar a las víctimas de violencia a las instituciones que les presten asistencia y protección;
 
-VI. Garantizar que el personal a su cargo cumpla con lo establecido en esta Ley;
+VI. Garantizar que el personal a su cargo cumpla con lo establecido en esta Ley:
 
 VII. Establecer acciones para la reeducación y reinserción social de los agresores;
 
 VIII. Establecer políticas que fomenten el apego a los principios de legalidad, honradez, profesionalismo y eficiencia, en la atención a las mujeres víctimas de violencia;
 
-IX. Promover la cultura de denuncia de la violencia contra las mujeres; y
+IX. Impartir cursos de formación y especialización con perspectiva de género a las y los agentes del Ministerio Público, peritos, cuerpo policíaco a su cargo y personal administrativo, a fin de mejorar la atención y asistencia que se brinda a las mujeres víctimas de violencia;
 
-X. Las demás previstas para el cumplimiento de esta Ley.
+X. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya un delito, asistencia, orientación jurídica y de cualquier otra índole, necesarias para su eficaz atención y protección;
+
+XI. Realizar ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable. Para tal fin, se aplicará el protocolo respectivo y se auxiliará por especialistas del sector salud;
+
+XII. Proporcionar información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres al Instituto Chihuahuense de la Mujer e instancias encargadas de realizar estadísticas;
+
+XIII. Proporcionar a las víctimas información sobre las instituciones públicas o privadas encargadas de brindarles asistencia;
+
+XIV. Brindar a las víctimas información objetiva que les permita reconocer su situación;
+
+XV. Promover la cultura de denuncia de la violencia contra las mujeres; y
+
+XVI. Las demás previstas para el cumplimiento de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 31.
 
-Son atribuciones de la Procuraduría General de Justicia:
-
-l. Participar en la elaboración y ejecución del Programa, y en el diseño de nuevos modelos de erradicación de la violencia contra las mujeres;
-
-II. Impartir cursos de formación y especialización con perspectiva de género a las y los agentes del Ministerio Público, peritos, cuerpo policíaco a su cargo y personal administrativo, a fin de mejorar la atención y asistencia que se brinda a las mujeres víctimas de violencia;
-
-III. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya un delito, asistencia, orientación jurídica y de cualquier otra índole, necesarias para su eficaz atención y protección;
-
-IV. Realizar ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable. Para tal fin, se aplicará el protocolo respectivo y se auxiliará por especialistas del sector salud;
-
-V. Proporcionar información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres al Instituto Chihuahuense de la Mujer e instancias encargadas de realizar estadísticas;
-
-VI. Proporcionar a las víctimas información sobre las instituciones públicas o privadas encargadas de brindarles asistencia;
-
-VII. Brindar a las víctimas información objetiva que les permita reconocer su situación;
-
-VIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
-
-IX. Las demás previstas para el cumplimiento de esta Ley.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 32.
 
@@ -846,3 +858,41 @@ LIC. FERNANDO RODRIGUEZ MORENO.
 P.O. 6 DE MARZO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma prevista en el presente Decreto, entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Ejecutivo para organizar la estructura administrativa de la Fiscalía General del Estado, y para asignar las partidas necesarias en el Presupuesto de Egresos de 2010, así como su transferencia entre programas sectoriales. Sin perjuicio de las acciones de entrega-recepción de las administraciones estatales, inmediatamente después de la entrada en vigor del presente Decreto se deberán iniciar los procedimientos de entrega recepción de los recursos humanos, materiales y financieros por parte de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública Estatal a la Fiscalía General del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El trámite de los asuntos iniciados ante la Procuraduría General de Justicia del Estado y ante la Secretaría de Seguridad Pública Estatal, con anterioridad a la entrada en vigor del presente Decreto, serán continuados por la Fiscalía General del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos adscritos a la Procuraduría General de Justicia del Estado y a la Secretaría de Seguridad Pública Estatal, que pasen a formar parte de la Fiscalía General del Estado, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia, así como de la Secretaría de Seguridad Pública Estatal, o de sus titulares, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado de Chihuahua, o con dependencias o entidades de la Administración Pública Federal, y de los Municipios, así como con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado, o su Titular, de acuerdo con las atribuciones que mediante el presente Decreto se le otorga.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la Ley del Sistema Estatal de Seguridad Pública deberá instalarse a más tardar el treinta de octubre de dos mil diez.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+La administración de los establecimientos penitenciarios y la custodia de procesados y sentenciados que actualmente se encuentran a cargo de las administraciones municipales, se ejercerá por el Estado a solicitud de los ayuntamientos correspondientes. Si dentro de los tres años posteriores a la entrada en vigor del presente Decreto no se plantearan dichas solicitudes, el Estado realizará las previsiones presupuestales necesarias para la asunción de estas atribuciones al inicio del ejercicio fiscal inmediato posterior.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado.
