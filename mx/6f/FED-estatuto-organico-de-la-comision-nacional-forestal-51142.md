@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-51142"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-08-07"
-last_updated: "2006-08-07"
+last_updated: "2010-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-03-07"
 
 ESTATUTO ORGANICO DE LA COMISION NACIONAL FORESTAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 2010.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 7 de agosto de 2006.
 
@@ -77,15 +77,23 @@ La Junta de Gobierno de la CONAFOR estará sujeta a la Ley Federal de las Entida
 
 ### CAPITULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 4.
 
-Para el estudio, planeación y ejercicio de sus atribuciones, la CONAFOR contará con las unidades administrativas siguientes:
+Para el despacho, planeación y ejercicio de todos los asuntos de su competencia la CONAFOR contará con un Organo Superior, Unidades Administrativas y un Organo de Control Interno, siendo éstos los siguientes:
+
+A. Organo Superior:
+
+I. Junta de Gobierno.
+
+B. Unidades Administrativas:
 
 I. Dirección General;
 
 II. Unidad de Asuntos Jurídicos;
 
-III. Unidad de Asuntos Internacionales y Fomento Financiero;
+III. Unidad de Asuntos Internacionales y de Fomento Financiero;
 
 IV. Unidad de Comunicación Social;
 
@@ -99,17 +107,25 @@ VIII. Coordinación General de Planeación e Información;
 
 IX. Coordinación General de Educación y Desarrollo Tecnológico, y
 
-X. Coordinación General de Operación Regional.
+X. Coordinación General de Gerencias Estatales.
+
+C. Organo Interno de Control.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 5.
 
-Para el despacho de los asuntos que les correspondan, las unidades administrativas contarán con las direcciones y gerencias siguientes:
+Para el despacho de los asuntos que les correspondan, las unidades administrativas contarán con las Direcciones y Gerencias siguientes:
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
 
 I. Dirección General:
 
-a) Dirección General Adjunta, y
+a) Dirección General Adjunta;
 
-b) Gerencias Regionales.
+b) Gerencias Estatales, y
+
+c) Coordinación en el Distrito Federal.
 
 II. Unidad de Asuntos Jurídicos:
 
@@ -177,7 +193,9 @@ b) Gerencia de Educación y Capacitación, y
 
 c) Gerencia de Cultura Forestal.
 
-X. Coordinación General de Operación Regional:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
+X. Coordinación General de Gerencias Estatales.
 
 a) Gerencia de Control Operativo;
 
@@ -205,7 +223,9 @@ I. Expedir los acuerdos, lineamientos, circulares y demás disposiciones de car�
 
 II. Designar en las ausencias temporales de los titulares de las unidades administrativas al personal que deba suplirlos;
 
-III. Establecer el número, lugar, demarcación territorial y estructura administrativa de las Gerencias Regionales;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
+III. Establecer la estructura administrativa de las Gerencias Estatales;
 
 IV. Delegar en los servidores públicos de la CONAFOR de los dos niveles jerárquicos inmediatos inferiores, las atribuciones y funciones que le corresponden, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente;
 
@@ -217,57 +237,75 @@ VII. Impulsar la contraloría social y facilitar el acceso a la información par
 
 VIII. Resolver lo conducente en caso de duda sobre la interpretación del presente Estatuto.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 9.
 
-El Director General Adjunto, contará con las atribuciones siguientes:
+Al Director General Adjunto, le corresponden las siguientes facultades y obligaciones:
 
 I. Suplir al Director General en sus ausencias;
 
-II. Vigilar el cumplimiento de las instrucciones emitidas por el Director General a las unidades administrativas, y
+II. Apoyar al Director General en la correcta aplicación, por parte de las unidades administrativas, de las políticas, estrategias, disposiciones legales e instrucciones emitidas por éste, así como coadyuvar a las unidades administrativas en el cumplimiento de sus objetivos;
 
-III. Las demás que le sean delegadas por el Director General.
+III. Ser el responsable de la planeación, organización, ejecución y evaluación de la Expo-Forestal;
+
+IV. Fungir como enlace, en coordinación con la secretaría particular del Secretario de Medio Ambiente y Recursos Naturales y sus enlaces oficiales, respecto de las cámaras del Congreso de la Unión;
+
+V. Coordinar el cumplimiento de las obligaciones derivadas de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y
+
+VI. Las demás atribuciones que le sean encomendadas por el Director General.
+
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
-La CONAFOR para el ejercicio de las atribuciones que le han sido asignadas, contará con gerencias regionales que se establecerán en el número, lugar, circunscripción y estructura administrativa que determine el Director General.
+La CONAFOR para el ejercicio de las atribuciones que le han sido asignadas, contará con Gerencias Estatales con la estructura administrativa que determine el Director General.
+
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 11.
 
-Al frente de cada gerencia regional habrá un gerente regional que será auxiliado por el personal que las necesidades del servicio requieran y estén previstas en el presupuesto y tendrá las atribuciones siguientes:
+A cargo de cada Gerencia Estatal habrá un Gerente Estatal, quien para el debido cumplimiento de sus funciones contará con el personal necesario requerido conforme a las necesidades propias del servicio, previstas y autorizadas en el presupuesto, asimismo contará dentro de la entidad federativa a la que se encuentre adscrito con las siguientes atribuciones:
 
-I. Coordinar dentro de su ámbito territorial, la ejecución de los programas y acciones relativas a las facultades que en este Estatuto Orgánico se les otorgan, con apego a las políticas que determine el Director General y lineamientos que establezca el Coordinador General de Operación Regional y los titulares de las unidades administrativas competentes;
+I. Coordinar e implementar, la ejecución de las acciones y correspondientes programas relativos a la naturaleza propia de la CONAFOR, con apego a las políticas y lineamientos que determine el Coordinador General de Gerencias Estatales en forma conjunta con los titulares de las unidades administrativas competentes en estricto seguimiento a las instrucciones giradas por el Director General;
 
-II. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación o les corresponda por suplencia;
+II. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación;
 
-III. Autorizar las erogaciones, vigilar el ejercicio del presupuesto asignado a la gerencia regional, coordinar y asesorar la formulación del anteproyecto de su presupuesto;
+III. Autorizar las erogaciones, vigilar el ejercicio del presupuesto asignado a la Gerencia Estatal, coordinar y asesorar la formulación del anteproyecto de su presupuesto;
 
-IV. Elaborar diagnósticos relativos a la problemática regional en materia forestal y planes que den perspectiva al desarrollo del sector en sus respectivas regiones;
+IV. Elaborar diagnósticos relativos a la problemática estatal en materia forestal y planes que den perspectiva al desarrollo del sector;
 
-V. Contribuir en las acciones que la CONAFOR acuerde con la Federación, con los gobiernos de las entidades federativas y municipales para el desarrollo forestal integral de la región;
+V. Contribuir en las acciones que la CONAFOR acuerde con la federación, con el gobierno estatal y los gobiernos municipales para el desarrollo forestal integral del estado;
 
-VI. Proponer y gestionar con el titular de la unidad administrativa correspondiente, la coordinación y concertación de los programas y proyectos de la CONAFOR;
+VI. Proponer y gestionar a través del Coordinador General de Gerencias Estatales y el titular de la unidad administrativa correspondiente, la coordinación y concertación de los programas y proyectos de la CONAFOR;
 
-VII. Proponer, opinar y, en su caso, suscribir, previa opinión legal favorable de la Unidad de Asuntos Jurídicos, los acuerdos y convenios de coordinación que se lleven a cabo con los gobiernos de las entidades federativas y municipales de su adscripción, así como con los sectores privado y social. Igualmente, participar en los mecanismos de coordinación y concertación que se establezcan;
+VII. Proponer, elaborar, controlar y resguardar a través de su área jurídica así como suscribir previa opinión legal favorable de la Unidad de Asuntos Jurídicos, los acuerdos y convenios que deba celebrarse con el gobierno estatal y los gobiernos municipales, así como con los sectores privado y social. Igualmente, participar en los mecanismos de coordinación y concertación que se establezcan;
 
-VIII. Informar a la Dirección General y dar seguimiento a las acciones de desconcentración y descentralización del sector forestal en el ámbito de su región y dentro de las facultades establecidas en la Ley de la materia;
+VIII. Solicitar la opinión favorable de la Coordinación General de Administración a través de la Gerencia de Recursos Materiales y Obras, y en su caso, elaborar, resguardar y suscribir los contratos de comodato necesarios respecto de los bienes muebles e inmuebles dentro de su ámbito territorial;
 
-IX. Proporcionar la información y datos técnicos que les sean solicitados por las autoridades superiores, dependencias y entidades de la Administración Pública Federal;
+IX. Informar a la Coordinación General de Gerencias Estatales y dar seguimiento a las acciones de desconcentración y descentralización del sector forestal en el ámbito estatal y dentro de las facultades establecidas en la Ley de la materia;
 
-X. Contratar las obras, estudios y servicios relacionados con éstas, que figuren en el presupuesto de la gerencia regional, de conformidad con las disposiciones legales aplicables, así como supervisar su ejecución;
+X. Proporcionar la información y datos técnicos que les sean solicitados por las autoridades superiores, dependencias y entidades de la Administración Pública Federal, previo el visto bueno de la Coordinación General de Planeación e Información;
 
-XI. Integrar y establecer, conforme a los lineamientos aplicables en la materia, los proyectos de conservación y mantenimiento de los inmuebles con que cuente la gerencia regional;
+XI. Contratar las obras, estudios y servicios relacionados con éstas, que figuren en el presupuesto de la gerencia, de conformidad con las disposiciones legales aplicables, así como supervisar su ejecución;
 
-XII. Promover los mecanismos de coordinación y concertación con las entidades federativas y municipales, organismos no gubernamentales y profesionales de su región en términos de los lineamientos de la Dirección General;
+XII. Integrar y establecer, conforme a los lineamientos aplicables en la materia, los proyectos de conservación y mantenimiento de los inmuebles con que cuente la gerencia;
 
-XIII. Recibir las solicitudes e integrar los expedientes relativos a los servicios competencia de la CONAFOR, así como entregar las resoluciones emanadas de las unidades administrativas correspondientes, de conformidad con los lineamientos de carácter técnico y administrativo aplicables;
+XIII. Promover los mecanismos de coordinación y concertación con las entidades federativas y municipales, organismos no gubernamentales y profesionales de su estado en términos de los criterios establecidos por la Coordinación General de Gerencias Estatales;
 
-XIV. Participar en la operación y actualización del Inventario Nacional Forestal y de Suelos en la región que le corresponda, en la revisión y validación de la cartografía forestal y de zonificación, así como efectuar la supervisión del muestreo de campo y monitoreo de ecosistemas forestales;
+XIV. Recibir las solicitudes e integrar los expedientes relativos a los servicios competencia de la CONAFOR, así como entregar las resoluciones emanadas de las unidades administrativas correspondientes, de conformidad con los lineamientos de carácter técnico y administrativo aplicables;
 
-XV. Operar en coordinación con la Coordinación General de Conservación y Restauración, los viveros forestales y los bancos de germoplasma a cargo de la CONAFOR;
+XV. Participar en la operación y actualización del Inventario Nacional Forestal y de Suelos en el estado, en la revisión y validación de la cartografía forestal y de zonificación, así como efectuar la supervisión del muestreo de campo y monitoreo de ecosistemas forestales;
 
-XVI. Auxiliar a las unidades administrativas, siguiendo los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que señale el titular de la CONAFOR, y
+XVI. Operar los viveros forestales y los bancos de germoplasma a cargo de la CONAFOR, de acuerdo a las instrucciones que emita para tal efecto la Coordinación General de Conservación y Restauración;
 
-XVII. Las demás que les confiera el Director General.
+XVII. Auxiliar a las unidades administrativas, siguiendo los lineamientos internos de carácter técnico y administrativo, sistemas y procedimientos que señale el titular de la CONAFOR;
+
+XVIII. Realizar la certificación y el cotejo de los documentos que obren en original, en sus archivos, y
+
+XIX. Las demás que le confiera por escrito el Director General.
+
+Las Gerencias Estatales contarán, de acuerdo con su presupuesto autorizado, con un área jurídica, la que ejercerá, en el ámbito de la circunscripción territorial correspondiente, las atribuciones mencionadas en el artículo 13 fracciones III, IV, VII, X, XIV, XVII, XIX, XX, XXI, XXII, XXIII y XXVI del presente estatuto, así como efectuar todo tipo de notificaciones que requieran los asuntos y procedimientos legales que lleve a cabo la Unidad de Asuntos Jurídicos, siguiendo los lineamientos que ésta determine.
 
 #### SECCION II. DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -461,7 +499,9 @@ XV. Ejecutar y promover los programas que mejoren la productividad y fomenten el
 
 XVI. Participar en la instrumentación y ejecución de los planes estratégicos forestales y los estudios de manejo forestal a nivel regional;
 
-XVII. Formular e instrumentar conjuntamente con la Coordinación General de Conservación y Restauración y la Coordinación General de Operación Regional, el seguimiento, control y evaluación externa de cada uno de los programas operativos;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Formular e instrumentar conjuntamente con la Coordinación General de Conservación y Restauración y la Coordinación General de Planeación e Información, el seguimiento, control y evaluación externa de cada uno de los programas operativos;
 
 XVIII. Fomentar la exportación de productos forestales procesados y semiprocesados;
 
@@ -485,9 +525,9 @@ XXVI. Coadyuvar en coordinación con las diversas entidades y dependencias de la
 
 La Coordinación General de Conservación y Restauración estará a cargo de un Coordinador General que tendrá las atribuciones siguientes:
 
-I. Participar, en el ámbito de la competencia de la CONAFOR, en la política de manejo y aprovechamiento sustentable de la fauna silvestre que habita en zonas forestales o preferentemente forestales, así como del aprovechamiento sustentable de los recursos forestales y sus recursos asociados;
+I. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2010)
 
-II. Proponer la celebración de acuerdos entre dependencias y entidades de la Administración Pública Federal, gobiernos de las entidades federativas y municipales, que soliciten la descentralización de la administración y promoción de acciones y funciones de la CONAFOR en materia de protección, conservación y restauración de la fauna silvestre que habita en zonas forestales o de aptitud preferentemente forestal, así como de los recursos forestales;
+II. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2010)
 
 III. Proponer la celebración de convenios con instituciones de enseñanza e investigación y organizaciones de la sociedad civil y fomentar con el sector primario de la economía, la conservación, protección y restauración de los ecosistemas forestales;
 
@@ -513,7 +553,9 @@ XIII. Realizar directamente o a través de terceros actividades de restauración
 
 XIV. Establecer y revisar periódicamente los costos de referencia para las acciones de restauración de suelos y reforestación y su mantenimiento;
 
-XV. Operar por conducto de las Gerencias Regionales, los viveros forestales y los bancos de germoplasma a cargo de la CONAFOR;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
+XV. Instruir a las Gerencias Estatales, acerca del manejo de los viveros forestales y los bancos de germoplasma a cargo de la CONAFOR;
 
 XVI. Promover la operación de los viveros forestales y bancos de germoplasma por los gobiernos de las entidades federativas y municipales, así como por los propietarios y poseedores de terrenos forestales organizados en unidades de manejo;
 
@@ -535,7 +577,9 @@ XXIV. Establecer el sistema permanente de evaluación y alerta temprana de la co
 
 XXV. Promover y apoyar los programas de investigación necesarios para resolver los problemas fitosanitarios forestales, en el marco del Sistema de Investigaciones para el Desarrollo Rural Sustentable;
 
-XXVI. Difundir, a través de las gerencias regionales con el apoyo de los gobiernos de las entidades federativas, de los municipios y de los Consejos Estatales Forestales, las medidas de prevención y manejo de plagas y enfermedades forestales;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
+XXVI. Difundir, a través de las Gerencias Estatales con el apoyo de los gobiernos de las entidades federativas, de los municipios y de los Consejos Estatales Forestales, las medidas de prevención y manejo de plagas y enfermedades forestales;
 
 XXVII. Realizar directamente o en forma coordinada las actividades para la detección, diagnóstico, prevención, combate y control de plagas y enfermedades forestales;
 
@@ -589,7 +633,9 @@ XIX. Determinar la metodología para la elaboración del Manual de Organización
 
 La Coordinación General de Planeación e Información estará a cargo de un Coordinador General que tendrá las atribuciones siguientes:
 
-I. Establecer y proponer un modelo de planeación para el desarrollo sustentable del sector forestal nacional, que promueva de manera integral las gerencias regionales de la CONAFOR, y genere estrategias de corto, mediano y largo plazos;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
+I. Establecer y proponer un modelo de planeación para el desarrollo sustentable del sector forestal nacional, que promueva de manera integral las Gerencias Estatales de la CONAFOR, y genere estrategias de corto, mediano y largo plazos;
 
 II. Proponer y coordinar la aplicación de políticas, lineamientos y procedimientos para la operación del plan institucional, integrando a otras instancias federales, gobiernos de las entidades federativas y municipales y de la sociedad civil, que desarrollan y operan programas encaminados a la protección, fomento, producción, aprovechamiento y transformación de los recursos forestales, que coadyuvan al desarrollo integral del sector;
 
@@ -731,11 +777,15 @@ XXV. Representar a la CONAFOR y a su titular ante los comités, comisiones u org
 
 XXVI. Promover y fomentar una cultura de conservación y aprovechamiento sustentable de los recursos forestales entre los pueblos y comunidades indígenas, mediante programas de educación, capacitación e investigación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 21.
 
-La Coordinación General de Operación Regional estará a cargo de un Coordinador General que tendrá las atribuciones siguientes:
+La Coordinación General de Gerencias Estatales estará a cargo de un Coordinador General que tendrá las siguientes facultades:
 
-I. Coordinar en los términos que instruya el Director General y con las facultades previstas en el presente ordenamiento legal, las acciones operativas de la CONAFOR en el ámbito de las gerencias regionales, en concordancia con los lineamientos y criterios de las unidades administrativas y de las coordinaciones generales;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
+I. Coordinar en los términos que instruya el Director General y con las facultades previstas en el presente ordenamiento legal, las acciones operativas de la CONAFOR en el ámbito de las Gerencias Estatales, en concordancia con los lineamientos y criterios emitidos por las unidades administrativas;
 
 II. Generar en concordancia con las unidades administrativas y coordinaciones generales, una estrategia administrativa y operativa que garantice la ejecución de los programas forestales;
 
@@ -791,13 +841,23 @@ La CONAFOR contará para el desempeño de sus funciones con los comités o subco
 
 ### CAPITULO SEXTO. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTICULO 26.
 
-Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la CONAFOR estarán a cargo del Director General Adjunto y Jefe de la Unidad de Asuntos Jurídicos en el orden mencionado.
+Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la CONAFOR estarán a cargo del Director General Adjunto y en ausencia de ambos, del Jefe de la Unidad de Asuntos Jurídicos.
+
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 27.
 
-Por cada miembro de los Comités o de los Subcomités se nombrará un suplente que actuará en caso de faltas temporales del titular.
+Los titulares de las unidades administrativas en sus ausencias temporales serán suplidos, indistintamente, por los Directores y/o Gerentes que de ellos dependan.
+
+Las suplencias a que se hace mención en el presente artículo se deberán realizar mediante la expedición de oficio correspondiente por el titular de la unidad administrativa, en el que se señale quién será el suplente.
+
+Para el caso de que el titular de la unidad administrativa deje de prestar sus servicios por cualquier causa, éste será suplido por el servidor público que designe el Director General, hasta en tanto sea aprobado por la Junta de Gobierno el nombramiento respectivo.
+
+Para el caso de que los Directores y/o Gerentes adscritos a las diferentes unidades administrativas dejen de prestar sus servicios por cualquier causa, éstos serán suplidos por el servidor público que designe el titular de la unidad administrativa que se trate, previo el visto bueno del Director General; quien deberá contar con el cargo inmediato inferior, hasta en tanto sea aprobado por la Junta de Gobierno el nombramiento respectivo.
 
 ###### ARTICULO 28.
 
@@ -824,3 +884,13 @@ TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
 CUARTO.- La CONAFOR, dentro de un plazo de cuatro meses contados a partir de la entrada en vigor del presente Estatuto deberá expedir el Manual de Organización y Funcionamiento de las Unidades Administrativas.
 
 El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno de la Comisión Nacional Forestal, en su sesión celebrada en la Ciudad de México, Distrito Federal, a siete de marzo de dos mil seis.- El Secretario de Medio Ambiente y Recursos Naturales y Presidente de la Junta de Gobierno de la Comisión Nacional Forestal, José Luis Luege Tamargo.- Rúbrica.- El Director General de la Comisión Nacional Forestal, Manuel Agustín Reed Segovia.- Rúbrica.- El Secretario Técnico de la Junta de Gobierno de la Comisión Nacional Forestal, Jesús Becerra Pedrote.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 27 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Inscríbase en el Registro Público de Organismos Descentralizados en su oportunidad.
+
+TERCERO.- La CONAFOR, dentro de un plazo de tres meses contados a partir de la entrada en vigor del presente Estatuto deberá expedir el Manual de Organización y Funcionamiento de las Unidades Administrativas.
