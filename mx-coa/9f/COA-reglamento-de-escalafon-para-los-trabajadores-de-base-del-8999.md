@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-escalafon-para-los-trabajadores-de-base-del-8999"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-16"
-last_updated: "1996-08-16"
+last_updated: "2010-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "COA"
 
 REGLAMENTO DE ESCALAFON PARA LOS TRABAJADORES DE BASE DEL GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ESCALAFON PARA LOS TRABAJADORES DE BASE SINDICALIZADOS DEL GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. 21 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 16 de agosto de 1996.
 
@@ -673,3 +675,19 @@ SUPLENTES
 C. OSCAR MARTINEZ VERA
 
 C. ISIDRO LOPEZ LOPEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2010.
+
+###### Artículo 1º.
+
+Se abroga el Reglamento de Escalafón para los Empleados de Base del Poder Ejecutivo del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial No. 85, de fecha 16 de Agosto de 1996 y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+###### Artículo 2º.
+
+El presente Reglamento empezará a surtir efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+###### Artículo 3º.
+
+Las disposiciones de este Reglamento podrán ser modificadas por Gobierno del Estado y el Sindicato, de común acuerdo.
