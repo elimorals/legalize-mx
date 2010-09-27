@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2010-03-30"
+last_updated: "2010-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -463,7 +463,9 @@ II.- Iniciar ante el Congreso de la Unión las que a éste competen, así como s
 
 III.- Reclamar ante quien corresponda las leyes que dé el Congreso General y las Legislaturas, cuando ataquen la soberanía o independencia del Estado, o que por cualquier otro motivo se consideren anticonstitucionales.
 
-IV.- Vigilar el cumplimiento de la Constitución y de las leyes, especialmente de las que garanticen la seguridad de las personas y propiedades.
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2010)</small>
+
+IV.- Vigilar el cumplimiento de la Constitución y de las Leyes, especialmente de las que garanticen la seguridad de las personas y propiedades, así como el interés superior de la niñez y sus derechos.
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
 
@@ -3342,3 +3344,7 @@ P.O. 29 DE MARZO DE 2010.
 P.O. 30 DE MARZO DE 2010.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
