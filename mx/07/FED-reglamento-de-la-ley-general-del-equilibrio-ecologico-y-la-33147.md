@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-3314
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-08"
-last_updated: "2003-08-08"
+last_updated: "2010-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-06"
 
 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE ORDENAMIENTO ECOLOGICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 8 de agosto de 2003.
 
@@ -83,7 +83,7 @@ VII. Bienes y servicios ambientales.- Estructuras y procesos naturales necesario
 
 VIII. Bitácora ambiental.- Registro del proceso de ordenamiento ecológico;
 
-IX. Comisión.- La Comisión para el ordenamiento ecológico general del territorio;
+IX. (DEROGADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)
 
 X. Concurrencia espacial.- Ubicación en un mismo lugar y tiempo de actividades humanas;
 
@@ -119,7 +119,9 @@ XXV. Subsistema.- El Subsistema de Información sobre Ordenamiento Ecológico qu
 
 XXVI. Sector.- Conjunto de personas, organizaciones grupos o instituciones que comparten objetivos comunes con respecto al aprovechamiento de los recursos naturales, el mantenimiento de los bienes y los servicios ambientales o la conservación de los ecosistemas y la biodiversidad; y
 
-XXVI (SIC). Unidad de gestión ambiental.- Unidad mínima del territorio a la que se asignan determinados lineamientos y estrategias ecológicas.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+XXVII. Unidad de gestión ambiental.- Unidad mínima del territorio a la que se asignan determinados lineamientos y estrategias ecológicas.
 
 ###### Artículo 4o.
 
@@ -131,7 +133,7 @@ II. Formular, aplicar, expedir, ejecutar, evaluar y modificar el programa de ord
 
 III. Promover la incorporación de la variable ambiental en la planeación de acciones, proyectos y programas de la Administración Pública Federal que incidan en el patrón de ocupación del territorio a través del ordenamiento ecológico general del territorio;
 
-IV. Presidir la Comisión para el ordenamiento ecológico general del territorio;
+IV. (DEROGADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)
 
 V. Participar en la formulación de los programas de ordenamiento ecológico de regiones que se ubiquen en el territorio de dos o más entidades federativas, en coordinación con los gobiernos de los estados, sus municipios y del Distrito Federal y sus delegaciones, mediante la suscripción de los convenios respectivos;
 
@@ -353,17 +355,23 @@ La Secretaría formulará el programa de ordenamiento ecológico general del ter
 
 El programa de ordenamiento ecológico general del territorio vinculará las acciones y programas de la Administración Pública Federal, que deberán observar la variable ambiental en términos de la Ley de Planeación.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 20.
 
-El Ejecutivo Federal integrará la Comisión, en la que estarán representadas las dependencias y entidades de la Administración Pública Federal cuyas actividades incidan en el patrón de ocupación del territorio.
+La Secretaría integrará un grupo de trabajo intersecretarial para el ordenamiento ecológico general del territorio, en el que estarán representadas las dependencias y entidades de la Administración Pública Federal cuyas atribuciones incidan en el patrón de ocupación del territorio.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 21.
 
-La Comisión tendrá como objeto coordinar las acciones entre sus integrantes para la instrumentación del proceso de ordenamiento ecológico, tendiente a la formulación, aplicación, expedición, ejecución, modificación y evaluación del programa de ordenamiento ecológico general del territorio y tendrá, entre otras, las siguientes funciones:
+El grupo de trabajo señalado en el artículo anterior tendrá como objeto coordinar las acciones entre sus integrantes para la instrumentación del proceso de ordenamiento ecológico del programa de ordenamiento ecológico general del territorio, y tendrá, entre otras, las siguientes funciones:
 
 I. Promover que los intereses representados por cada dependencia y entidad de la Administración Pública Federal, se reflejen en el programa de ordenamiento ecológico general del territorio;
 
-II. Establecer los compromisos, plazos y responsabilidades de los integrantes de la Comisión en el proceso de ordenamiento ecológico;
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+II. Establecer los compromisos, plazos y responsabilidades de sus integrantes en el proceso de ordenamiento ecológico;
 
 III. Emitir observaciones y recomendaciones sobre la propuesta de programa de ordenamiento ecológico general del territorio; y
 
@@ -479,9 +487,11 @@ V. Analizar las observaciones que se presenten durante el proceso de consulta p�
 
 Para fomentar la participación social corresponsable durante el periodo de consulta pública, la Secretaría organizará foros regionales a través de los órganos de consulta a que se refiere el artículo 159 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 29.
 
-El programa de ordenamiento ecológico general del territorio, será presentado a la Comisión para que emita los comentarios correspondientes, previo a someterlo a consideración del Titular del Ejecutivo Federal.
+Previo a que sea sometido a consideración del Titular del Ejecutivo Federal, el programa de ordenamiento ecológico general del territorio será opinado por el grupo de trabajo intersecretarial señalado en el artículo 20 de este Reglamento. Los comentarios que en su caso tuvieran las dependencias y entidades miembros de dicho grupo, se emitirán en términos de las reglas de funcionamiento del grupo de trabajo intersecretarial.
 
 ###### Artículo 30.
 
@@ -501,7 +511,9 @@ IV. Determinar las acciones sectoriales que se requieran para satisfacer, de man
 
 V. Establecer acciones para enfrentar los efectos negativos del cambio climático;
 
-VI. Promover acuerdos de coordinación para orientar un patrón de ocupación territorial que maximice el consenso y minimice el conflicto entre los sectores representados en la Comisión; y
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Promover acuerdos de coordinación para orientar un patrón de ocupación territorial que maximice el consenso y minimice el conflicto entre los sectores involucrados, y
 
 VII. Promover la suscripción de convenios de coordinación y concertación con las dependencias y entidades de la Administración Pública Federal, los gobiernos locales y los grupos y sectores involucrados.
 
@@ -882,3 +894,13 @@ TERCERO.- La Secretaría deberá elaborar y publicar en el Diario Oficial de la 
 CUARTO.- Las acciones previstas en este Reglamento deberán llevarse a cabo conforme a las disposiciones presupuestarias vigentes y mediante el presupuesto autorizado a las dependencias y entidades responsables de su aplicación.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de agosto de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Víctor Lichtinger Waisman.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE SEPTIEMBRE DE 2010.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El grupo de trabajo intersecretarial expedirá sus Reglas de Funcionamiento, en un plazo no mayor de ciento ochenta días contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+Tercero.- Los procesos relacionados con la formulación, expedición, aplicación, ejecución, evaluación y modificación de los programas de ordenamiento ecológico previstos en este Reglamento que se hayan iniciado previo a la entrada en vigor del presente Decreto, deberán sustanciarse de conformidad con las disposiciones vigentes al momento de su inicio.
