@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-reforma-agraria-5802
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-15"
-last_updated: "2008-01-15"
+last_updated: "2010-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58029&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-01-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE LA REFORMA AGRARIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2008.
 
@@ -45,7 +45,11 @@ A. Unidades administrativas:
 
 I. Subsecretaría de Ordenamiento de la Propiedad Rural, de la que dependerán las siguientes unidades administrativas:
 
-a) Dirección General de Ordenamiento y Regularización;
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+a) La Dirección General de Ordenamiento y Regularización que tendrá a su cargo, la siguiente Dirección General Adjunta:
+
+i) Dirección General Adjunta de Regularización de la Propiedad Rural;
 
 b) Dirección General de Concertación Agraria, y
 
@@ -57,21 +61,27 @@ a) Dirección General de Política y Planeación Agraria, y
 
 b) Dirección General de Coordinación.
 
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
 III. Oficialía Mayor, de la que dependerán las siguientes unidades administrativas:
 
-a) Dirección General de Administración, que tendrá a su cargo las siguientes Direcciones Generales Adjuntas:
+a) Dirección General de Recursos Financieros;
 
-i) De Recursos Financieros,
+b) Dirección General Adjunta de Recursos Materiales;
 
-ii) De Recursos Materiales, y
+c) Dirección General Adjunta de Recursos Humanos, y
 
-iii) De Recursos Humanos.
+d) Dirección General de Tecnologías de la Información;
 
-b) Dirección General de Tecnologías de la Información.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Jefatura de Unidad de Asuntos Jurídicos, que tendrá a su cargo la siguiente unidad administrativa:
+IV. La Jefatura de Unidad de Asuntos Jurídicos, que tendrá a su cargo las siguientes unidades administrativas:
 
-a) Dirección General Adjunta de Pago de Predios e Indemnizaciones.
+a) Dirección General Adjunta "A";
+
+b) Dirección General Adjunta "B", y
+
+c) Dirección General Adjunta de Pago de Predios e Indemnizaciones;
 
 V. Dirección General de Coordinación de Delegaciones, en la que estarán adscritas las siguientes unidades administrativas:
 
@@ -107,7 +117,9 @@ IV. Dar cuenta al H. Congreso de la Unión del estado que guarda la dependencia 
 
 V. Refrendar para su validez y observancia, los reglamentos, decretos, acuerdos y órdenes expedidos por el Presidente de los Estados Unidos Mexicanos, relacionados con los asuntos de su competencia;
 
-VI. Representar al Presidente de los Estados Unidos Mexicanos en los juicios de amparo, en los términos del artículo 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, y del 14 de la Ley Orgánica de la Administración Pública Federal, así como en las controversias y conflictos constitucionales, de conformidad con lo dispuesto en el último párrafo del artículo 11 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución;
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Representar al Presidente de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 32 del presente Reglamento;
 
 VII. Aprobar el proyecto de presupuesto anual de egresos de la Secretaría, y del Registro Agrario Nacional, así como coordinar la programación y presupuestación de la Procuraduría Agraria y del Fideicomiso Fondo Nacional de Fomento Ejidal, conocer su operación y evaluar sus resultados de conformidad con la legislación aplicable;
 
@@ -137,7 +149,9 @@ XIX. Autorizar la expedición de títulos de propiedad a colonos;
 
 XX. Proponer los lineamientos para la determinación de derechos y captación de fondos relacionados con la prestación de los servicios que proporcione el Sector Agrario;
 
-XXI. Expedir los lineamientos para la operación del Comité Técnico de Valuación de la Secretaría de la Reforma Agraria, a que se refiere la Ley.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+XXI. Expedir el Reglamento de Operación del Comité Técnico de Valuación de la Secretaría de la Reforma Agraria, así como las demás disposiciones necesarias para su funcionamiento;
 
 XXII. Autorizar la suscripción de los acuerdos, convenios o contratos necesarios para la atención y solución de problemas relacionados con la regularización de la tenencia de la tierra y conflictos agrarios, en el ámbito de su competencia;
 
@@ -185,59 +199,67 @@ XIV. Las demás que les confieran la superioridad, otras disposiciones jurídica
 
 ### CAPÍTULO IV. DE LAS FACULTADES DEL OFICIAL MAYOR
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 7o.
 
-Corresponde al Oficial Mayor el ejercicio de las siguientes facultades:
+Corresponde a la Oficialía Mayor el ejercicio de las siguientes facultades:
 
-I. Establecer, y conducir con la aprobación del Secretario, las políticas, normas, lineamientos, criterios, sistemas y procedimientos para la administración del personal y de los recursos financieros y materiales de la Secretaría, de acuerdo a sus objetivos y programas;
+I. Proponer al Secretario las políticas de la dependencia en materia de servicios de recursos humanos, financieros, materiales, tecnologías de la información y de los demás de carácter administrativo que sean necesarios para el óptimo funcionamiento de las unidades administrativas de la Secretaría;
 
-II. Desempeñar las comisiones que le encomiende el Secretario y realizar los actos y funciones que le correspondan por suplencia, e informar al Secretario sobre su desarrollo;
+II. Expedir las disposiciones internas, lineamientos, criterios, sistemas y procedimientos necesarios a fin de aplicar o ejecutar al interior de la Secretaría las políticas a que se refiere la fracción anterior, una vez que el Secretario las establezca;
 
-III. Expedir los nombramientos, remociones y licencias de los servidores públicos que corresponda, incluso los de encargado de despacho con nivel inferior a Director General, en términos de la legislación aplicable;
+III. Desempeñar las comisiones que le encomiende el Secretario y realizar los actos y funciones que le correspondan por suplencia, e informar al Secretario sobre su desarrollo;
 
-IV. Atender las relaciones laborales de la Secretaría conforme a la normatividad de la materia y los lineamientos que al efecto establezca el Titular de la misma;
+IV. Expedir los nombramientos del personal de base y de confianza de la Secretaría, remociones y licencias de los servidores públicos que corresponda, incluso los de encargados de despacho en términos de la normatividad aplicable;
 
-V. Proponer al Secretario la designación o remoción, en su caso, del representante de la Secretaría ante la Comisión Mixta de Escalafón o ante las comisiones mixtas laborales que se integren;
+V. Someter a consideración y firma del Secretario las Condiciones Generales de Trabajo, ejercer las facultades previstas en las mismas e instruir su cumplimiento, así como proponer la designación y remoción de los representantes de la Secretaría ante las comisiones mixtas que se establezcan;
 
-VI. Supervisar la elaboración, difusión y cumplimiento de las Condiciones Generales de Trabajo;
+VI. Proponer al Secretario la delegación de sus facultades en servidores públicos subalternos, cuando sea necesario;
 
-VII. Planear y conducir la política de desarrollo del personal, definir los puestos tipo y establecer los perfiles y requerimientos de los mismos;
+VII. Determinar la estrategia relativa a la planeación, administración y desarrollo de los recursos humanos de la Dependencia, congruente con las políticas que al efecto apruebe el Secretario;
 
-VIII. Realizar, con acuerdo del Secretario, las acciones conducentes para el adecuado funcionamiento del Sistema del Servicio Profesional de Carrera, previsto por el Título Tercero de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal;
+VIII. Someter a la consideración del Secretario el anteproyecto de presupuesto anual de la Secretaría, con base en las disposiciones y lineamentos al efecto aplicables y en los anteproyectos de presupuesto elaborados por las unidades administrativas, Órganos Administrativos Desconcentrados y Entidades del Sector, observando las disposiciones y lineamientos aplicables;
 
-IX. Integrar y someter a la consideración del Secretario el anteproyecto del programa presupuesto anual de la Secretaría, el del Registro Agrario Nacional, el de la Procuraduría Agraria y gestionar ante la Secretaría de Hacienda y Crédito Público su autorización y, en su caso, las modificaciones correspondientes;
+IX. Autorizar los programas y proyectos de inversión que pretenda ejecutar la Secretaría;
 
-X. Autorizar las erogaciones con cargo al presupuesto aprobado y presentar al Secretario aquellas que deban ser autorizadas por él, conforme a la Ley y al presente Reglamento;
+X. Autorizar las erogaciones con cargo al presupuesto aprobado y presentar al Secretario aquellas que deban ser autorizadas por él conforme a la Ley y el presente Reglamento;
 
-XI. Evaluar el programa administrativo de la Secretaría, en términos de operación, equipamiento, normas administrativas y racionalización del presupuesto;
+XI. Suscribir y, en su caso, dar por terminado anticipadamente y rescindir los convenios, contratos y demás actos jurídicos en representación de la Secretaría, cuando por virtud de éstos se afecte su presupuesto o impliquen actos de administración y de dominio, lo anterior observando las disposiciones jurídicas aplicables y conforme a los lineamientos que fije el Secretario;
 
-XII. Expedir copias certificadas de documentos que existan en los archivos a su cargo, o los de las unidades administrativas de su adscripción, excepto las previstas en la fracción X del artículo 9o. de este Reglamento;
+XII. Suscribir los contratos, convenios, acuerdos y documentos relativos al ejercicio de sus facultades;
 
-XIII. Someter a la aprobación del Secretario las medidas técnicas y administrativas para la organización, funcionamiento, desconcentración, simplificación, desregulación y descentralización administrativa de la Secretaría, así como los proyectos de manuales de organización y expedir los de procedimientos y de servicios al público;
+XIII. Establecer de conformidad con las disposiciones normativas aplicables, las directrices y lineamientos para la contratación de la obra pública, adquisición, arrendamiento o contratación de bienes y servicios que requiera la Secretaría;
 
-XIV. Proponer al Secretario la creación, modificación o supresión de las unidades administrativas necesarias para el cumplimiento de sus atribuciones, o bien la supresión de aquellas que no sean requeridas para el cumplimiento de los objetivos de la dependencia, previo trámite ante las Secretarías de la Función Pública y de Hacienda y Crédito Público, para la autorización de la modificación de la estructura orgánica, así como proponer el nombramiento o remoción de los titulares de las mismas;
+XIV. Coordinar al interior de la Dependencia la aplicación de las disposiciones normativas en materia de organización, conservación y concentración de archivos de la Secretaría;
 
-XV. Proporcionar a las unidades administrativas de la Secretaría los servicios de apoyo administrativo en materia de diseño de sistemas y equipamiento informático, comunicaciones y archivo, así como los demás que sean necesarios para el mejor despacho de sus asuntos;
+XV. Evaluar el programa administrativo de la Secretaría, en términos de operación, equipamiento, normas administrativas y racionalización del presupuesto;
 
-XVI. Coordinar la ejecución del programa interno de protección civil de la Secretaría;
+XVI. Coordinar la ejecución del programa que establece el Sistema Nacional de Protección Civil, en lo que corresponda a la Secretaría;
 
-XVII. Suscribir los contratos, convenios, acuerdos y documentos relativos al ejercicio de sus facultades;
+XVII. Proponer al Secretario la creación, modificación o supresión de las unidades administrativas necesarias para el cumplimiento de sus atribuciones, o bien la supresión de aquellas que no sean requeridas para el cumplimiento de los objetivos de la dependencia, previo trámite ante las Secretarías de la Función Pública y de Hacienda y Crédito Público; para la autorización de la modificación de la estructura orgánica;
 
-XVIII. Controlar las adquisiciones, arrendamientos y servicios, así como la obra pública que realice la Secretaría;
+XVIII. Someter a la aprobación del Secretario las medidas técnicas y administrativas para la organización, funcionamiento, desconcentración, simplificación, desregulación y descentralización administrativa de la Secretaría, así como aprobar y someter a consideración del Secretario los proyectos de manuales de organización, de procedimientos y de servicios al público, así como sus modificaciones;
 
-XIX. Autorizar y, en su caso, suscribir los convenios y contratos en que la Secretaría sea parte y se afecte su presupuesto, así como los demás documentos que impliquen actos de administración y de dominio, de acuerdo con las disposiciones jurídicas aplicables y conforme a los lineamientos que fije el Secretario;
+XIX. Establecer criterios para fomentar la optimización, racionalización y estandarización en el desarrollo y explotación de las actividades y de los recursos tecnológicos, humanos, materiales y de información, así como evaluar la viabilidad de proyectos de tecnología, de comunicaciones e información; e intervenir en la adquisición de bienes y servicios informáticos;
 
-XX. Coordinar las actividades administrativas de las unidades centrales y estatales, así como establecer los procedimientos para el mejor aprovechamiento de los recursos;
+XX. Coordinar los trabajos, diseño, normatividad, uso y aprovechamiento de las tecnologías de información de la Secretaría y el Sector Agrario;
 
-XXI. Coordinar los trabajos, diseño, normatividad, uso y aprovechamiento de las tecnologías de información de la Secretaría y el Sector Agrario;
+XXI. Expedir copias certificadas de documentos que existan en los archivos a su cargo, o los de las unidades administrativas de su adscripción, excepto las previstas en la fracción X del artículo 9o. de este Reglamento;
 
-XXII. Resolver los recursos administrativos que conforme a las disposiciones jurídicas y reglamentarias le correspondan;
+XXII. Actuar en las entidades, comités y comisiones en los que intervenga la Secretaría, con la representación que le confiera el Secretario, así como mantenerlo informado sobre el desarrollo de estas actividades;
 
-XXIII. Evaluar periódicamente el funcionamiento del control interno;
+XXIII. Coordinar a las Delegaciones Estatales en sus actividades administrativas que se relacionen con los servicios señalados en la fracción I de este artículo;
 
-XXIV. Presidir los Comités que sean de su competencia, y
+XXIV. Dirigir, controlar y evaluar las actividades de las unidades administrativas adscritas a la Oficialía Mayor y resolver los asuntos de su competencia;
 
-XXV. Las demás que le confiera la superioridad, otras disposiciones jurídicas aplicables, así como las que competen a las unidades administrativas que se le hubieren adscrito o determine el Secretario.
+XXV. Resolver los recursos administrativos que conforme a las disposiciones jurídicas y reglamentarias le correspondan;
+
+XXVI. Evaluar periódicamente el funcionamiento del control interno en la Secretaría;
+
+XXVII. Presidir los comités que sean de su competencia y nombrar su representación o suplencias, y
+
+XXVIII. Las demás que le señalen otras disposiciones legales, reglamentarias o el Secretario.
 
 ### CAPÍTULO V. DE LA JEFATURA DE UNIDAD DE ASUNTOS JURÍDICOS
 
@@ -259,15 +281,27 @@ IV. Coordinar la formulación y revisión de los proyectos de iniciativas, regla
 
 V. Compilar y divulgar las leyes, reglamentos, decretos, acuerdos, circulares, resoluciones, jurisprudencias y tesis jurisprudenciales, así como otras disposiciones jurídicas relacionadas con la esfera de competencia de la Secretaría y todos los instrumentos normativos que expidan las unidades administrativas que la integran;
 
-VI. Elaborar los informes previos y justificados que en materia de amparo, por razón de competencia, deban rendir el Presidente de la República y el Secretario, Subsecretarios, Oficial Mayor, Jefe de Unidad, Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento que sean señalados como autoridades responsables, e intervenir en los juicios en que, de acuerdo con los artículos 14 de la Ley Orgánica de la Administración Pública Federal y 19 de la Ley de Amparo, el Titular de la Secretaría tenga la representación del Presidente de los Estados Unidos Mexicanos;
+VI. (DEROGADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)
 
-VII. Suscribir, en ausencia del Secretario, Subsecretarios y Oficial Mayor, los documentos que para el desahogo de los juicios de amparo en que la Secretaría es parte, se requieran y desahogar los trámites urgentes por razón de términos, así como rendir informes previos y justificados a las autoridades competentes, interponer recursos y recibir toda clase de notificaciones;
+VII. (DEROGADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)
 
 VIII. Ser enlace en los asuntos jurídicos de la Secretaría con las áreas correspondientes de la Administración Pública Federal;
 
-IX. Representar a la Secretaría y a los servidores públicos en ejercicio de sus funciones, en los juicios en que sean parte; intervenir en las reclamaciones de carácter jurídico que puedan afectar sus derechos, así como formular ante el Ministerio Público querellas y denuncias para salvaguardar los intereses de la Institución y, previo acuerdo del Secretario, los desistimientos que procedan;
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
-X. Tramitar y expedir copias certificadas de los documentos y constancias que obren en los archivos de la Secretaría cuando deban ser exhibidos en procedimientos judiciales o contencioso-administrativos, así como las solicitadas por las partes en el Juicio de Amparo, para cualquier proceso o averiguación previa; las que sean requeridas en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y las que ordene el Titular del Ramo;
+VIII bis. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría de la Reforma Agraria representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 19 de la citada Ley;
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+VIII ter. Intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de la Reforma Agraria represente al Presidente de la República;
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Representar al Secretario, Subsecretarios y Oficial Mayor en todos los trámites dentro del juicio de amparo en los que actúen como autoridades responsables; así como ser el representante legal de aquéllos en todos los procedimientos administrativos y jurisdiccionales, en que intervengan, formular querellas y denuncias ante el Ministerio Público para salvaguardar los intereses de la Secretaría y, previo acuerdo del Secretario, los desistimientos que procedan;
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+X. Tramitar y expedir copias certificadas de los documentos y constancias que obren en los archivos de la Secretaría cuando deban ser exhibidos en procedimientos judiciales o contencioso-administrativos, así como las solicitadas por las partes en el Juicio de Amparo, para cualquier proceso o averiguación previa; las que sean requeridas en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, las que requieran las unidades administrativas que por disposición reglamentaria o legal deban obrar en los archivos de la Jefatura de Unidad de Asuntos Jurídicos previa autorización del Titular de la misma y las que ordene el Titular del Ramo;
 
 XI. Coadyuvar en la sustanciación de los procedimientos administrativos de nulidad, cancelación, reconsideración, revocación y, en general, en todos aquéllos que creen, modifiquen o extingan derechos y obligaciones originados por resoluciones que, en materia administrativa, dicte la Secretaría;
 
@@ -285,7 +319,7 @@ XVII. Emitir opinión de los contratos, convenios, concesiones, autorizaciones y
 
 XVIII. Opinar en los juicios de amparo, juicios agrarios y laudos laborales y, en general, cualquier resolución firme, a las unidades administrativas de la dependencia, sobre el alcance y formas de cumplimiento de las ejecutorias pronunciadas por la autoridad competente, e informar del cumplimiento que las autoridades responsables den a las mismas;
 
-XIX. Promover la regularización de los predios, adquiridos por cualquier título, propiedad de los núcleos agrarios;
+XIX. (DEROGADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)
 
 XX. Promover la creación de instancias interinstitucionales para el análisis y perfeccionamiento del marco jurídico agrario y proponer el programa anual de trabajo del Sector Agrario para la elaboración de proyectos de iniciativas de leyes y disposiciones reglamentarias que incidan en la materia;
 
@@ -293,9 +327,13 @@ XXI. Vigilar y coordinar que las disposiciones previstas por la Ley Federal de T
 
 XXII. Supervisar la aplicación de los criterios específicos para la Secretaría en materia de clasificación y conservación de los documentos administrativos, de conformidad con las disposiciones de transparencia y acceso a la información, y
 
-XXIII. Coordinar la atención a las solicitudes de información formuladas a la dependencia, en términos de lo previsto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y desarrollar el portal de transparencia en la página de Internet de la Secretaría, manteniéndolo actualizado.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
-Las atribuciones anteriores, podrán ser ejercidas indistintamente por los Directores Generales Adjuntos adscritos a la Jefatura de Unidad de Asuntos Jurídicos.
+XXIII. Coordinar la atención a las solicitudes de información formuladas a la dependencia en términos de lo previsto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y vigilar que el portal de transparencia en la página de Internet de la Secretaría se mantenga actualizado.
+
+> <small>(REFORMADO ULTIMO PARRAFO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+El titular de la Jefatura de Unidad de Asuntos Jurídicos, para el ejercicio de sus atribuciones, se podrá auxiliar por el Director General Adjunto "A", el Director General Adjunto "B" o por el Director General Adjunto de Pago de Predios.
 
 ### CAPÍTULO VI. DE LAS DIRECCIONES GENERALES
 
@@ -317,7 +355,9 @@ IV. Formular el anteproyecto de programa de presupuesto anual de la Dirección G
 
 V. Coordinarse con los titulares de las unidades administrativas internas y externas que sean necesarias, para el mejor despacho de los asuntos de su competencia;
 
-VI. Proporcionar información, datos y la cooperación que sea requerida al área de su competencia y atender y desahogar las peticiones que le formulen, en términos del Artículo 8o. constitucional, Ley Federal de Transparencia y Acceso a la Información Pública Federal y de otras disposiciones jurídicas;
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+VI. Proporcionar información, datos y la cooperación que sea requerida al área de su competencia y atender y desahogar las peticiones que le formulen, en términos del Artículo 8o. Constitucional, Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y de otras disposiciones jurídicas;
 
 VII. Coadyuvar en la ejecución del Programa de Simplificación Administrativa de la Secretaría;
 
@@ -363,7 +403,7 @@ XII. Coordinar y vigilar el debido cumplimiento de la ejecución de los decretos
 
 XIII. Establecer y ejecutar las acciones en materia de colonias agrícolas y ganaderas que se deriven de su Reglamento;
 
-XIV. Revisar los contratos y concesiones realizados con individuos o compañías particulares a que se refiere la fracción XVIII del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, aplicando el procedimiento correspondiente para la nulidad de dichos contratos y concesiones;
+XIV. (DEROGADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)
 
 XV. Realizar una revisión sistemática de todas las colonias agrícolas y ganaderas existentes y, en su caso, declarar la caducidad de la declaratoria de las mismas o la cancelación de las autorizaciones correspondientes, cuando hayan dejado de cumplir el objeto para el que fueron creadas;
 
@@ -405,6 +445,10 @@ III. Dar pronto y cabal cumplimiento a las ejecutorias del Poder Judicial de la 
 
 IV. Ordenar, coordinar y supervisar la realización de trabajos técnicos e informativos, para la debida integración de los expedientes de ejecución;
 
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+IV. bis. Ordenar a los Delegados Estatales la realización de trabajos y diligencias que sean necesarias para cumplir los acuerdos y resoluciones que emitan los Tribunales Agrarios;
+
 V. Elaborar y autorizar los planos proyecto de localización y definitivos de las distintas acciones agrarias, previa revisión técnica-legal de los expedientes de ejecución de Resoluciones Presidenciales, así como la reposición de los mismos, cuando lo ordene la autoridad competente;
 
 VI. Procurar la definitividad administrativa de las diversas acciones agrarias, remitiendo al Registro Agrario Nacional los expedientes de ejecución de Resoluciones Presidenciales concluidos con plano definitivo y/o acuerdo de inejecutabilidad, para su registro, guarda y custodia;
@@ -419,105 +463,155 @@ X. Investigar de oficio o a petición de parte, el acaparamiento de tierras ejid
 
 XI. Ordenar la realización de trabajos y diligencias que sean necesarias para cumplir los acuerdos que emitan los Tribunales Agrarios.
 
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 15.
 
 La Dirección General de Política y Planeación Agraria estará adscrita a la Subsecretaría de Política Sectorial y tendrá las siguientes atribuciones específicas:
 
-I. Formular, definir y coordinar las políticas, programas y estrategias de la Secretaría y promover su articulación con las correspondientes de los organismos y entidades sectorizadas, o bien con los de otras dependencias y entidades de la Administración Pública;
+I. Dirigir y operar el sistema de procesamiento de la información que permita la adecuada toma de decisiones y óptima conducción de la política sectorial;
 
-II. Participar en el Sistema Nacional de Planeación Democrática, ejerciendo las funciones que deriven de dicha participación, así como coordinar, con la intervención de las unidades administrativas correspondientes de la Secretaría, la formulación e integración del Programa Sectorial Agrario;
+II. Coordinar y promover los trabajos de la Secretaría en la planeación estratégica del sector paraestatal coordinado por ésta;
 
-III. Apoyar a la Subsecretaría de Política Sectorial en la planeación, diseño y evaluación de la ejecución de políticas públicas en materia agraria, promoviendo su mejora continua;
+III. Apoyar a la Subsecretaría de Política Sectorial en la formulación de políticas sectoriales a mediano y largo plazo, tomando en cuenta la situación económica del país y las metas del sector agrario, conforme a las disposiciones del Plan Nacional de Desarrollo;
 
-IV. Elaborar e integrar el informe de ejecución anual del Plan Nacional de Desarrollo, los reportes necesarios para integrar el informe presidencial y la memoria de labores del Sector;
+IV. Promover la participación de las unidades administrativas, órganos desconcentrados y entidades sectorizadas de la Secretaría en la formulación de programas y proyectos, así como en el establecimiento de directrices y acciones específicas en materia de política agraria;
 
-V. Establecer y coordinar las políticas y lineamientos de carácter técnico y administrativo, así como sistemas y procedimientos para asegurar el cumplimiento de las medidas y acciones en materia de programación, presupuestación, análisis del ejercicio de los recursos, ejecución, evaluación relacionada con el Programa Sectorial Agrario, y demás programas a cargo de la Secretaría y de sus entidades sectorizadas;
+V. Organizar, integrar y sistematizar la información que proporcionen las unidades administrativas, órganos desconcentrados y entidades sectorizadas de la Secretaría en preparación del Plan Nacional de Desarrollo; el programa sectorial y su ejecución, así como de los informes presidencial y de labores ante el Congreso de la Unión, en coordinación con la Dirección General de Recursos Financieros;
 
-VI. Participar con la Oficialía Mayor y previo acuerdo del Subsecretario de Política Sectorial, en la priorización para la integración del anteproyecto de presupuesto del Sector que se someterá a la consideración del Titular del Ramo, así como en la programación de la distribución del presupuesto asignado a la Secretaría;
+VI. Coordinar las tareas de seguimiento y evaluación de las políticas agrarias, mediante mecanismos que permitan conocer el grado de avance en la satisfacción de las necesidades desde el perfil de la planeación estratégica, así como proponer su permanente adecuación y actualización en forma coordinada con las unidades administrativas de la Secretaría;
 
-VII. Elaborar, con la participación de las unidades administrativas correspondientes de la Secretaría, los criterios y mecanismos para evaluar el desempeño institucional y los impactos sociales y económicos de los programas que aplica el Sector;
+VII. Recopilar y sistematizar la información estratégica sectorial, con objeto de coadyuvar con la Dirección General de Recursos Financieros, en los procesos de programación y presupuestación de la Secretaría;
 
-VIII. Participar en el diseño, elaboración y actualización, en su caso, de la normativa para la operación de los programas de Desarrollo Agrario y Capacitación que aplique la Secretaría y coordinar su ejecución;
+VIII. Proponer a la Subsecretaría de Política Sectorial criterios de evaluación, selección y asesoramiento de los proyectos sectoriales a cargo de las unidades administrativas de la Secretaría;
 
-IX. Supervisar, evaluar y coordinar los programas y proyectos que por acuerdo del Titular del Ramo, se le asignen;
+IX. Organizar, integrar y procesar la información relativa a proyectos especiales, a fin de fortalecer los programas asignados a la Secretaría;
 
-X. Fomentar la participación de los gobiernos federal, estatal y municipal, y de los sectores social y privado en la planeación y evaluación de los programas de desarrollo agrario que se le asignen;
+X. Apoyar al Secretario y a los servidores públicos que éste indique, en la participación que tengan en los órganos de gobierno de las entidades paraestatales y en instituciones, en las que intervenga la Secretaría;
 
-XI. Intervenir en las instancias que coordinen la implementación de programas intersectoriales o interinstitucionales y evaluar la participación del Sector Agrario;
+XI. Participar con las unidades administrativas que el Secretario indique en el diseño, elaboración y actualización de los programas de desarrollo y capacitación agraria que aplique la Secretaría y coordinar su ejecución;
 
-XII. Integrar el banco de datos de la Secretaría y proporcionar la información disponible y el análisis y evaluación de la misma que requieran las unidades administrativas de la dependencia para la planeación y elaboración de los programas y actividades del Sector Agrario;
+XII. Participar con las unidades administrativas que el Secretario indique, en la elaboración de normas administrativas que sean necesarias para ejecutar los programas a que se refiere la fracción anterior;
 
-XIII. Proponer mecanismos de cooperación con instituciones públicas y privadas, a nivel nacional e internacional, que permitan realizar estudios y propuestas de alternativas de atención a la problemática agraria y la promoción del desarrollo rural sustentable;
+XIII. Fomentar la participación de los Gobiernos Federal, Estatal y Municipal, y de los sectores social y privado en la planeación y evaluación de los programas de desarrollo agrario que se le asignen;
 
-XIV. Ejercer las atribuciones conferidas a la Secretaría, para el funcionamiento de las Sociedades de Solidaridad Social, en la Ley de la materia;
+XIV. Intervenir en las instancias que coordinen la implementación de programas intersectoriales o interinstitucionales y evaluar la participación del sector agrario;
 
-XV. Operar los fondos de los recursos destinados a la instrumentación de los programas de Desarrollo Agrario de la Secretaría que, conforme a la normatividad aplicable sean de su competencia o que le asigne el Secretario o Subsecretario de Política Sectorial, le sean asignados, y
+XV. Proponer al Subsecretario de Política Sectorial, mecanismos de cooperación con instituciones públicas y privadas, a nivel nacional e internacional, que permitan realizar estudios y propuestas de alternativas de atención a la problemática agraria y la promoción del desarrollo rural sustentable;
 
-XVI. Establecer los mecanismos y procedimientos que garanticen que los programas que le sean asignados para el desarrollo agrario operen con calidad y eficiencia, guardando congruencia con los objetivos institucionales y con las estrategias del Programa Sectorial Agrario.
+XVI. Ejercer las atribuciones conferidas a la Secretaría, para el funcionamiento de las Sociedades de Solidaridad Social, en la Ley de la materia;
+
+XVII. Establecer los mecanismos y procedimientos que garanticen que los programas que le sean asignados para el desarrollo agrario operen con calidad y eficiencia, guardando congruencia con los objetivos institucionales y con las estrategias del Programa Sectorial Agrario, y
+
+XVIII. Realizar las demás funciones que determine el Secretario, así como, las que expresamente le confieran otras disposiciones legales.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 16.
 
 La Dirección General de Coordinación estará adscrita a la Subsecretaría de Política Sectorial y tendrá las siguientes atribuciones específicas:
 
-I. Coordinar la ejecución de los programas que, conforme a la normatividad aplicable, sean de su competencia o que le asigne el Secretario o Subsecretario de Política Sectorial, a efecto de impulsar la integración productiva de los núcleos agrarios y la mujer campesina;
+I. Coordinar la ejecución de los programas de la Secretaría que tienen por objeto impulsar la integración productiva de las mujeres y hombres de los núcleos agrarios del país;
 
-II. Operar los fondos de los recursos destinados a la instrumentación de los programas que le sean asignados;
+II. Planear y coordinar el correcto ejercicio de los recursos que se determinen a los programas que le sean asignados por el Secretario;
 
-III. Establecer los mecanismos y procedimientos que garanticen que los programas que le sean asignados operen con calidad y eficiencia, guardando congruencia con los objetivos institucionales y con las estrategias del Programa Sectorial Agrario;
+III. Definir e implementar los proyectos, estrategias, acciones y procedimientos que garanticen la eficaz y eficiente operación de los programas que le sean asignados, con apego a los objetivos y metas del Programa Sectorial Agrario y en vertebración con el Plan Nacional de Desarrollo;
 
-IV. Promover y fomentar la participación de los Gobiernos Federal, Estatal y Municipal, y de los sectores social y privado en la planeación y ejecución de los programas de desarrollo agrario que le asignen;
+IV. Proponer a la Subsecretaría de Política Sectorial las estrategias y mecanismos para fomentar la participación de los Gobiernos Federal, Estatal, Municipal y de los sectores social y privado en la planeación y ejecución de los programas de desarrollo agrario que le asignen;
 
-V. Promover la celebración de acuerdos y convenios de ejecución de programas de desarrollo agrario con dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
+V. Promover la celebración de acuerdos y convenios orientados a mejorar la eficiencia e impacto de los programas referidos en la fracción I del presente artículo con dependencias y entidades de la Administración Pública Federal; Estatal y Municipal, así como con las instituciones educativas y de investigación públicas y privadas;
 
-VI. Promover mecanismos que permitan la actuación conjunta con gobiernos estatales y municipales para el desarrollo regional agrario, y
+VI. Diseñar las estrategias y criterios de participación en las instancias y mecanismos interinstitucionales con el objeto de potenciar la atención integral de los sujetos agrarios;
 
-VII. Fomentar la creación de instancias interinstitucionales de coordinación para la atención integral de los sujetos agrarios.
+VII. Proponer a la Subsecretaría de Política Sectorial los proyectos y metodologías que contribuyan a mejorar la eficiencia de las políticas públicas que implementa el Gobierno Federal en materia agraria;
+
+VIII. Coordinar la integración, sistematización y análisis de los resultados de los programas que tiene por objeto impulsar la integración productiva de los hombres y mujeres de los núcleos agrarios del país, a efecto de informar a las áreas globalizadoras y fiscalizadoras de la Administración Pública Federal;
+
+IX. Diseñar e implementar la normatividad en materia de participación y acceso de los agentes y sujetos agrarios a los programas que tengan por objeto impulsar la integración productiva de los hombres y mujeres de los núcleos agrarios del país;
+
+X. Coordinar los mecanismos de supervisión, monitoreo y seguimiento de la operación de los programas señalados en la fracción I del presente artículo;
+
+XI. Definir y coordinar los esquemas de evaluación que permitan mejorar la eficiencia y eficacia de los programas que tiene por objeto impulsar la integración productiva de los hombres y mujeres de los núcleos agrarios del país;
+
+XII. Definir y coordinar los proyectos y estrategias de capacitación dirigidas a los beneficiarios de programas a que se refiere la fracción que antecede, orientados a mejorar sus capacidades productivas;
+
+XIII. Proponer a la Subsecretaría de Política Sectorial los criterios para la focalización y valoración técnica de los proyectos productivos propuestos por los grupos agrarios, así como la asignación y orientación de los recursos de los programas a que se refiere la fracción I del presente artículo;
+
+XIV. Coordinar los mecanismos para la recepción de propuestas de proyectos productivos en el sistema informático disponible en la página electrónica de Internet de la Secretaría de la Reforma Agraria, en el cual deben registrarse las solicitudes de apoyo a proyectos productivos, así como administrar los datos que se genere (sic) de los grupos participantes de conformidad a la normatividad en la materia, y
+
+XV. Realizar las demás funciones que determine el Secretario, así como, las que expresamente le confieran otras disposiciones legales.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 17.
 
-La Dirección General de Administración estará adscrita a la Oficialía Mayor y tendrá las siguientes atribuciones:
+La Dirección General de Recursos Financieros estará adscrita a la Oficialía Mayor y tendrá las siguientes atribuciones:
 
-I. Aplicar la normatividad y procedimientos para la administración de los recursos humanos, financieros y materiales de la Secretaría, ejerciendo el control respectivo de conformidad con los objetivos, lineamientos y estrategias definidos en los programas de corto y mediano plazo;
+I. Proponer al Oficial Mayor los proyectos de políticas, normas, lineamientos, sistemas y procedimientos para la programación, presupuestación, administración de recursos financieros, ejecución eficiente y eficaz y el control del gasto, así como la rendición de cuentas de la Secretaría;
 
-II. Supervisar la elaboración de los programas operativos anual y sectorial del presupuesto de la Secretaría y del Registro Agrario Nacional, así como coordinar los de la Procuraduría Agraria;
+II. Coordinar el proceso de programación, presupuestación y control presupuestario de la Secretaría y entidades sectorizadas, integrar y consolidar el anteproyecto y proyecto de presupuesto sectorial y sus respectivos calendarios, así como implementar las acciones de supervisión necesarias para coadyuvar en el adecuado ejercicio del presupuesto, y someterlo a consideración del Oficial Mayor;
 
-III. Tramitar ante la Secretaría de Hacienda y Crédito Público las modificaciones del presupuesto anual de egresos y las solicitudes de afectación presupuestal de las unidades administrativas de la Secretaría, del Registro Agrario Nacional y la Procuraduría Agraria, para su autorización, registro y control;
+III. Gestionar ante la Secretaría de Hacienda y Crédito Público, las adecuaciones presupuestarias externas del ejercicio programático y presupuestario de las unidades administrativas de la Secretaría y de las entidades sectorizadas;
 
-IV. Coordinar la elaboración e integración del Informe de Ejecución del Plan Nacional de Desarrollo, Cuenta de la Hacienda Pública Federal, Informe Presidencial, Informe de Labores e Informe Trimestral del Avance Programático Presupuestal del Sector;
+IV. Tramitar ante la Secretaría de Hacienda y Crédito Público las modificaciones del presupuesto anual de egresos y las solicitudes de afectación presupuestal de las unidades administrativas de la Secretaría, del Registro Agrario Nacional y la Procuraduría Agraria, para su autorización, registro y control;
 
-V. Someter a la consideración del Oficial Mayor las estructuras orgánicas de las unidades administrativas de la Secretaría y, en su caso, sus modificaciones, a efecto de remitirlas a las Secretarías de Hacienda y Crédito Público y de la Función Pública, para que sean dictaminadas y registradas, así como dictar y llevar a cabo las políticas y lineamientos de productividad, y aplicar los dictámenes emitidos sobre la estructura laboral de las unidades administrativas de la Secretaría, y
+V. Proponer a la Oficialía Mayor y ejecutar las disposiciones de control interno en materia contable, para la operación del sistema de contabilidad y de presupuesto de la Secretaría, así como integrar y operar un archivo para custodia y consulta de la información contable, conforme a las leyes y disposiciones aplicables en la materia;
 
-VI. Apoyar a la Jefatura de Unidad de Asuntos Jurídicos en la atención de los conflictos que se susciten entre la Secretaría de la Reforma Agraria y sus trabajadores.
+VI. Registrar, gestionar y dar seguimiento al trámite de pago de los compromisos contraídos por la Secretaría, incluyendo la apertura y cancelación de cuentas bancarias para las unidades administrativas y, en su caso, la distribución de fondo rotatorio necesarios para la operación y el ejercicio de sus respectivos presupuestos;
 
-###### ARTICULO 18.
+VII. Proporcionar la información necesaria de la operación financiera, programática, contable y presupuestaria de la Secretaría, a quien esté legalmente facultado para solicitarla;
 
-La Dirección General de Tecnologías de la Información estará adscrita al Oficial Mayor, y tendrá las siguientes facultades:
+VIII. Representar a la Oficialía Mayor, previa autorización de su Titular, ante la autoridad fiscal;
 
-l. Administrar y operar los servidores de cómputo, sistemas de almacenamiento central y equipos de telecomunicaciones e integrar las bases de datos de la Secretaría;
+IX. Expedir, a solicitud expresa, constancias relativas al pago de los diversos conceptos y retenciones aplicables, excepto las que se refieren a servicios personales;
 
-II. Emitir lineamientos para el uso y aprovechamiento de los bienes, servicios, programas informáticos y respaldo de información, y supervisar su cumplimiento;
+X. Integrar la Cuenta de la Hacienda Pública Federal de la Secretaría y entidades sectorizadas a la misma, así como el avance programático presupuestal del Sector;
 
-III. Integrar y mantener actualizado el inventario de los bienes y servicios informáticos de la Secretaría;
+XI. Dictaminar las solicitudes y modificaciones de los oficios de liberación de inversión de la Secretaría y, en su caso, proponer su emisión al Oficial Mayor;
 
-IV. Coordinar las acciones de mantenimiento del equipo de cómputo de la Secretaría;
+XII. Presentar a la consideración del Oficial Mayor, los programas y proyectos de inversión que pretenda realizar la Secretaría, para su inclusión en la Cartera de Programas y Proyectos de Inversión de la Secretaría de Hacienda y Crédito Público;
 
-V. Mantener el control y resguardo, para su uso lícito, de licencias de programas informáticos de la Secretaría;
+XIII. Inscribir, dar seguimiento y renovar, en su caso, ante la Secretaría de Hacienda y Crédito Público los contratos de los fideicomisos públicos que se tengan celebrados o se pretendan celebrar y que sean coordinados por la Secretaría;
 
-VI. Diseñar y establecer sistemas de comunicación entre los diferentes equipos de cómputo del Sector;
+XIV. Proporcionar asistencia técnica en materia financiera a las unidades administrativas de la Secretaría y entidades del Sector Agrario, relacionadas con los programas y proyectos financiados con recursos de organismos financieros internacionales;
 
-VII. Proporcionar oportunamente los servicios de asesoría técnica a las Unidades Administrativas de la Dependencia;
+XV. Coordinar, previa aprobación de la Oficialía Mayor, la contratación, operación y supervisión de las evaluaciones de los programas federales que competen a la Secretaría, así como supervisar la calidad y cumplimiento normativo de las evaluaciones de dichos programas, y
 
-VIII. Participar en los procedimientos de contratación y adquisición de bienes y servicios informáticos y de telecomunicaciones de la Secretaría y dictaminar los estudios de viabilidad que presenten las unidades administrativas;
+XVI. Realizar las demás funciones que determine el Oficial Mayor o el Secretario.
 
-IX. Diseñar, operar y mantener actualizado el Sistema de Información Agraria del Sector;
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
-X. Coordinar el desarrollo y operación de los servicios de los medios de comunicación electrónica, intercambio y consulta de información garantizando la confidencialidad de la información y accesos autorizados a las bases de datos institucionales;
+###### ARTÍCULO 18.
 
-XI. Planear, establecer, coordinar y supervisar los sistemas de seguridad lógica de las aplicaciones y de los sistemas de transmisión de voz y datos del Sector Agrario;
+La Dirección General de Tecnologías de la Información estará adscrita a la Oficialía Mayor, y tendrá las siguientes atribuciones:
 
-XII. Emitir lineamientos para el eficiente uso de telefonía celular, local y larga distancia, así como coordinar la operación de la infraestructura, y
+I. Proponer al Oficial Mayor los proyectos de políticas, normas, lineamientos, sistemas y procedimientos para la administración de los recursos informáticos y de comunicación, así como su difusión, programar su operación, llevar a cabo su ejecución, evaluación y verificar su cumplimiento;
 
-XIII. Coordinar, supervisar y normar el análisis, diseño, implantación y desarrollo de sistemas de información.
+II. Administrar y operar los servidores de cómputo, sistemas de almacenamiento central y equipos de telecomunicaciones e integrar y respaldar las bases de datos de la Secretaría;
+
+III. Analizar en forma permanente las innovaciones en las tecnologías de la información y comunicaciones, para su eventual aplicación;
+
+IV. Integrar y mantener actualizado el inventario de los bienes y servicios informáticos de la Secretaría;
+
+V. Planear, establecer, coordinar y supervisar los servicios de mantenimiento preventivo y correctivo de los equipos de informática y telecomunicaciones, instalados en las unidades administrativas de la Secretaría;
+
+VI. Mantener el control y resguardo de licencias de programas informáticos adquiridos por la Secretaría para su uso lícito;
+
+VII. Diseñar, instalar, supervisar y garantizar la operación de las redes de telecomunicaciones de la Secretaría;
+
+VIII. Proporcionar oportunamente los servicios de asesoría técnica a las Unidades Administrativas de la Dependencia;
+
+IX. Participar en los procedimientos de contratación y adquisición de bienes y servicios informáticos y de telecomunicaciones de la Secretaría; así como dictaminar los estudios de viabilidad que presenten las unidades administrativas para la adquisición de bienes y servicios informáticos y de telecomunicaciones;
+
+X. Analizar el diseño, desarrollo, implantación y operación de los sistemas de información de las unidades administrativas de la Secretaría;
+
+XI. Planear, establecer, coordinar y supervisar los sistemas de seguridad lógica de las aplicaciones y de los sistemas de telecomunicaciones utilizados por las unidades administrativas de la Secretaría;
+
+XII. Vigilar el cumplimiento de las garantías otorgadas por los proveedores de bienes y servicios informáticos y de telecomunicaciones adquiridos por la Secretaría;
+
+XIII. Emitir lineamientos para el eficiente uso de telefonía celular, local y larga distancia, así como coordinar la operación de la infraestructura, y
+
+XIV. Realizar las demás funciones que determine el Oficial Mayor o el Secretario, así como, las que expresamente le confieran otras disposiciones legales.
 
 ###### ARTÍCULO 19.
 
@@ -537,29 +631,53 @@ VI. Coordinar las acciones operativas de las delegaciones estatales, a fin de da
 
 VII. Coordinar la integración y supervisar la operación de los programas operativos anuales y los presupuestos respectivos de las delegaciones estatales;
 
-VIII. Proponer a su superior jerárquico, las rotaciones del personal de confianza de las delegaciones estatales, que resulten necesarias para el mejor funcionamiento y transparencia del desempeño del servicio público, y
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
-IX. Proponer las modificaciones a la estructura y funcionamiento de las delegaciones estatales, coordinando su análisis, diseño y aplicación con la Oficialía Mayor.
+VIII. Proponer a su superior jerárquico, las rotaciones del personal de confianza de las delegaciones estatales, que resulten necesarias para el mejor funcionamiento y transparencia del desempeño del servicio público;
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Proponer las modificaciones a la estructura y funcionamiento de las delegaciones estatales, coordinando su análisis, diseño y aplicación con la Oficialía Mayor, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+X. Coordinar y dirigir las reuniones nacionales y regionales de delegados para el seguimiento de los programas de competencia de la Secretaría, así como informar, al Titular de la Secretaría, sobre los resultados obtenidos.
 
 ###### ARTÍCULO 20.
 
 La Dirección General de Comunicación Social estará adscrita al Titular de la Dependencia y tendrá las siguientes atribuciones:
 
-I. Ejecutar y dirigir la política de comunicación social del Sector Agrario, de conformidad con las disposiciones que al respecto emita la Secretaría de Gobernación y la Presidencia de la República;
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
-II. Normar, coordinar y orientar las actividades de comunicación social de la Secretaría;
+I. Diseñar, ejecutar, coordinar y supervisar la política de comunicación social que corresponda a la Secretaría, de conformidad con las disposiciones que al respecto emita la Secretaría de Gobernación y la Presidencia de la República;
 
-III. Preparar y organizar los requerimientos y necesidades en materia de comunicación, en las giras institucionales;
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+II. Dirigir y evaluar las actividades de información, de difusión, interna y externa y de relaciones públicas de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+III. Planear y apoyar en materia de comunicación social, giras, actos y eventos del Secretario y demás Servidores Públicos de la Secretaría;
 
 IV. Planear, dirigir, ejecutar y evaluar las campañas de difusión nacional que se acuerden para el Sector Agrario, incluyendo las que se refieran a programa interinstitucionales;
 
 V. Mantener informados a los servidores públicos de la Secretaría sobre la publicación o transmisión que se haga en los medios de comunicación masiva sobre los objetivos, programas y actividades institucionales, así como de las opiniones que sobre éstos se generen en los mismos medios;
 
-VI. Presidir el comité de publicaciones de la Secretaría y normar la formulación, edición de libros, folletos y demás material documental, de acuerdo con el programa editorial que apruebe el Secretario;
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
-VII. Suscribir, conjuntamente con la Oficialía Mayor, los contratos relacionados con la prestación de servicios de comunicación social, y
+VI. Coordinar y supervisar la edición de libros, folletos y demás material de difusión, para garantizar la correcta aplicación de la normatividad vigente en materia de identidad institucional emitida por la Presidencia de la República;
 
-VIII. Establecer los mecanismos de coordinación para diseñar, elaborar y difundir los órganos informativos de la Secretaría de la Reforma Agraria.
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+VII. Suscribir los contratos relacionados con la prestación de servicios de comunicación social;
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. Organizar y coordinar las entrevistas y conferencias con medios masivos de comunicación tanto del Secretario como de mandos medios superiores de la Secretaría, y
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Formular las estrategias y los programas anuales de comunicación social de la Secretaría.
 
 ### CAPÍTULO VII. DE LAS DIRECCIONES GENERALES ADJUNTAS
 
@@ -571,49 +689,121 @@ Al frente de cada Dirección General Adjunta habrá un titular, quien será resp
 
 ###### ARTÍCULO 22.
 
-La Dirección General Adjunta de Recursos Financieros estará adscrita a la Dirección General de Administración y tendrá las siguientes atribuciones:
+(DEROGADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)
 
-I. Coadyuvar en la aplicación de la normatividad y procedimientos para la administración de los recursos financieros de la Secretaría;
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
-II. Implementar las acciones de supervisión necesarias, para que el ejercicio del presupuesto asignado a los programas a cargo de las unidades administrativas de la Secretaría, se realice de conformidad con la normatividad establecida y proponer, en su caso, las medidas correctivas pertinentes;
+ARTÍCULO 22 bis. La Dirección General Adjunta de Regularización de la Propiedad Rural, estará adscrita a la Dirección General de Ordenamiento y Regularización, y tendrá las siguientes atribuciones:
 
-III. Llevar la contabilidad general conforme a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento y a las normas que expida la Secretaría de Hacienda y Crédito Público, vigilando los procedimientos que en la materia apliquen las unidades administrativas, y
+I. Coadyuvar con la Dirección General de Ordenamiento y Regularización en la coordinación de las labores procedimentales, normativas y operativas que permitan identificar y ubicar los terrenos baldíos y nacionales a que se refiere la Ley Agraria en sus artículos 157 a 162;
 
-IV. Establecer y operar el trámite de pago de documentación comprobatoria de operaciones realizadas, que afecten el presupuesto de la Secretaría, y vigilar su aplicación en las unidades administrativas.
+II. Atender las solicitudes de regularización de terrenos baldíos y nacionales, con el fin de dar el trámite correspondiente y, en su caso, proponer la resolución procedente al Director General de Ordenamiento y Regularización;
+
+III. Proponer al Director General de Ordenamiento y Regularización los proyectos de los Acuerdos de procedencia e improcedencia a las solicitudes de enajenación de terrenos nacionales, previa opinión de la Delegación Estatal correspondiente y de la Jefatura de Unidad de Asuntos Jurídicos;
+
+IV. Elaborar y someter a consideración y firma del Director General de Ordenamiento y Regularización, los proyectos de resoluciones que declaran como terrenos nacionales a los terrenos baldíos;
+
+V. Incorporar al inventario de terrenos nacionales, aquellos que en términos de la Ley Agraria o disposición de autoridad competente, vuelvan al dominio de la Nación y, en su caso, proponer al Director General de Ordenamiento y Regularización, el procedimiento para su regularización;
+
+VI. Elaborar y someter a consideración y firma del Director General de Ordenamiento y Regularización, los proyectos de acuerdos de titulación de terrenos nacionales, así como coordinar la elaboración de los correspondientes títulos de propiedad de terrenos nacionales;
+
+VII. Proponer al Director General de Ordenamiento y Regularización, la enajenación a título oneroso de los terrenos nacionales que se encuentran a disposición de la Secretaría de la Reforma Agraria para tal fin y, en su caso, previa aprobación del referido Director General, programar las acciones necesarias para las enajenaciones, observando para cada caso la normatividad aplicable;
+
+VIII. Coordinar y supervisar el debido desarrollo del programa de regularización de colonias agrícolas y ganaderas, así como de los lotes rústicos que las componen, además de los predios individuales ubicados en Distritos de Colonización acorde a lo establecido en la Ley Agraria y en el Reglamento de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural;
+
+IX. Coordinar y supervisar a las Delegaciones Estatales en la aplicación del procedimiento para la regularización de los solares de las zonas urbanas de las colonias agrícolas y ganaderas, así como acordar con la Comisión para la Regularización de la Tenencia de la Tierra, o convenir con los Gobiernos de las Entidades Federativas, el ordenamiento territorial de las referidas zonas urbanas;
+
+X. Coordinar la atención de las solicitudes para regularizar las colonias agrícolas y ganaderas y actualizar los derechos de los colonos sobre los lotes que posean;
+
+XI. Coordinar la elaboración de los proyectos de los títulos de propiedad de lotes de colonias agrícolas y ganaderas, y someterlos a consideración y firma del Director General de Ordenamiento y Regularización;
+
+XII. Coordinar la elaboración de los acuerdos de reconocimiento de derechos de colonos, causahabientes y posesionarios admitidos por la asamblea general de colonos, de las colonias agrícolas y ganaderas en vías de regularización por el programa específico, y someterlos a consideración y firma del Director General de Ordenamiento y Regularización, y
+
+XIII. Realizar las demás funciones que determine el Director General de Ordenamiento y Regularización o el Secretario.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 23.
 
-La Dirección General Adjunta de Recursos Materiales estará adscrita a la Dirección General de Administración y tendrá las siguientes atribuciones:
+La Dirección General Adjunta de Recursos Materiales, estará adscrita a la Oficialía Mayor, y tendrá las siguientes atribuciones:
 
-I. Efectuar las acciones necesarias para proteger y asegurar al personal que labore en la Secretaría;
+I. Proponer al Oficial Mayor los proyectos de políticas, normas, lineamientos, sistemas y procedimientos para la administración de los recursos materiales de la Secretaría y, en caso de ser aprobados, difundirlos, programar su operación, llevar a cabo su ejecución, así como verificar y evaluar su cumplimiento;
 
-II. Ejecutar las políticas y lineamientos de adquisiciones, de administración de servicios generales y recursos materiales de las unidades administrativas de la Secretaría, en los términos establecidos por las disposiciones jurídicas aplicables;
+II. Autorizar, normar y ejecutar, los procedimientos, para la asignación, uso de espacios, utilización, conservación, aseguramiento, reparación, mantenimiento, resguardo, inventario, rehabilitación y aprovechamiento de todos los bienes muebles e inmuebles con los que cuenta la Secretaría;
 
-III. Coadyuvar en la aplicación y supervisión de los sistemas de control de los inventarios, su afectación, baja y destino final, en los términos establecidos por la normatividad correspondiente;
+III. Administrar, resguardar y asignar los bienes inmuebles de la Secretaría;
 
-IV. Supervisar la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de todos los bienes muebles e inmuebles al servicio de la Secretaría;
+IV. Vigilar la actualización en uso, destino, recepción, entrega y documentación de los registros e inventarios de bienes inmuebles al servicio de la Secretaría;
 
-V. Supervisar la prestación de los servicios de vigilancia y seguridad de los inmuebles y sus contenidos, así como de los diferentes bienes de la Secretaría;
+V. Representar a la Secretaría en materia inmobiliaria y coordinar las acciones en esa materia del sector paraestatal a cargo de la Secretaría;
 
-VI. Coordinar, controlar y supervisar la prestación de los servicios de administración y distribución de documentos oficiales, así como el sistema de archivo de la Secretaría, y
+VI. Consolidar, planear y elaborar en coordinación con la Dirección General de Recursos Financieros, el programa anual de adquisiciones, arrendamientos, servicios generales, seguros, mantenimiento y obras de la Secretaría, así como administrar su ejercicio eficiente y eficaz, observando la normatividad aplicable;
 
-VII. Participar en el Sistema Nacional de Protección Civil y coadyuvar en la ejecución del programa interno de protección civil para el personal, instalaciones, bienes e información de la Secretaría, en el ámbito de su competencia.
+VII. Conducir los procesos de licitaciones públicas, de invitaciones a cuando menos tres personas y de adjudicaciones directas en materia de adquisiciones, arrendamientos, servicios y de obra pública y servicios relacionados con las mismas;
+
+VIII. Efectuar los actos jurídicos y administrativos inherentes y derivados de los procesos de licitaciones públicas;
+
+IX. Dar seguimiento a las penas convencionales establecidas en los contratos correspondientes;
+
+X. Proponer a la Oficialía Mayor los contratos, convenios, asignación y disposición final de bienes muebles, y cualquier otro acto jurídico relacionado a los mismos, conforme a la normatividad aplicable, además de suscribir los documentos antes mencionados con el carácter de supervisor, conjuntamente con el área responsable de la administración de los mismos;
+
+XI. Gestionar el pago oportuno a los proveedores de los bienes y servicios que la Secretaría adquiera, así como vigilar el cumplimiento de lo convenido por parte de aquéllos;
+
+XII. Proporcionar y administrar los servicios de mensajería, archivo, almacén, limpieza, jardinería, fumigación, mantenimiento de bienes muebles, inmuebles, seguridad, vigilancia, vehículos, transporte, estacionamientos, seguros y demás servicios;
+
+XIII. Integrar y coordinar la ejecución del Programa Interno de Protección Civil para el personal, instalaciones y bienes de la Secretaría, así como aplicar las normas y disposiciones vigentes para su operación, desarrollo y vigilancia;
+
+XIV. Coordinar el funcionamiento y dar seguimiento a los acuerdos de los Comités de Adquisiciones, Arrendamientos y Servicios; de Obras Públicas y Servicios Relacionados con las mismas; de Bienes Muebles, así como de los subcomités respectivos;
+
+XV. Proponer a la Oficialía Mayor y aplicar los criterios definidos que permitan llevar a cabo las medidas de austeridad, disciplina del gasto y ahorro sustentable de recursos materiales de la Secretaría;
+
+XVI. Representar a la Secretaría ante cualquier persona física o moral para realizar los trámites sobre los bienes muebles, inmuebles o de los servicios que presten, en los casos que así lo determine la Oficialía Mayor;
+
+XVII. Recibir, custodiar y, en su caso, efectuar la cancelación, de las fianzas otorgadas por proveedores y contratistas para el cumplimiento de los compromisos contraídos con la Secretaría, y
+
+XVIII. Realizar las demás funciones que determine el Oficial Mayor o el Secretario.
+
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 24.
 
-La Dirección General Adjunta de Recursos Humanos estará adscrita a la Dirección General de Administración y tendrá las siguientes atribuciones:
+La Dirección General Adjunta de Recursos Humanos estará adscrita a la Oficialía Mayor y tendrá las siguientes atribuciones:
 
-I. Vigilar la correcta aplicación de las remuneraciones al personal de la Secretaría, así como de las medidas disciplinarias y sanciones administrativas previstas en la legislación laboral aplicable, en las Condiciones Generales de Trabajo y en el Servicio Profesional de Carrera;
+I. Proponer al Oficial Mayor los proyectos de políticas, normas, lineamientos, sistemas y procedimientos para la administración de los recursos humanos, así como su difusión, programar su operación, llevar a cabo su ejecución, evaluación y verificar su cumplimiento;
 
-II. Participar en la formulación, integración y, en su caso, modificación del programa presupuestal de servicios personales de las unidades administrativas de la Secretaría, e intervenir en los trámites para su ejercicio y supervisar su aplicación, así como desarrollar y ejecutar los programas para la selección, desarrollo, prestaciones y movimientos del personal de la Secretaría;
+II. Administrar la aplicación de los programas y acciones en materia de reclutamiento, selección, contratación, inducción, movimientos de personal, remuneraciones, capacitación, desarrollo, evaluación y separación, de acuerdo a la normatividad aplicable;
 
-III. Coordinar, observar y vigilar el cumplimiento de las Condiciones Generales de Trabajo que rigen las relaciones laborales de los trabajadores de esta Secretaría, así como establecer los criterios de interpretación y aplicación que se requieran para ello;
+III. Concertar, planear y elaborar en coordinación con la Dirección General de Recursos Financieros el presupuesto de servicios personales, así como el calendario financiero y ejercicio eficiente y eficaz del gasto, así como los mecanismos de coordinación sectorial en lo referente a servicios personales;
 
-IV. Implementar las acciones necesarias para el adecuado funcionamiento del Servicio Profesional de Carrera en la Secretaría de la Reforma Agraria;
+IV. Presentar a consideración los nombramientos que deban ser suscritos por el Secretario y Oficial Mayor, y suscribir los que correspondan a la Dirección, así como emitir las credenciales de identificación de los trabajadores;
 
-V. Atender las relaciones sindicales y con los demás organismos competentes en materia de derechos y prestaciones del personal al servicio de la Secretaría, y
+V. Suscribir los contratos de honorarios correspondientes al capítulo 1000 servicios personales referente a honorarios asimilados a salarios en términos de las disposiciones legales y gestionar su registro ante las instancias correspondientes;
 
-VI. Vigilar el otorgamiento de los estímulos y recompensas que establezcan la ley y las Condiciones Generales de Trabajo.
+VI. Instruir que se efectúen los pagos por concepto de retenciones, descuentos y aportaciones inherentes a impuestos, seguros y cuotas sindicales entre otros;
+
+VII. Dirigir la ejecución de los planes y programas para el otorgamiento de las prestaciones sociales, económicas, culturales, deportivas y recreativas que favorezcan el desempeño laboral, así como promover y coordinar programas y campañas de fomento a la salud de los trabajadores;
+
+VIII. Administrar el Centro de Desarrollo Infantil "Carmen Serdán" que permita el desarrollo y bienestar de los hijos de los trabajadores;
+
+IX. Coordinar, el cumplimiento de las Condiciones Generales de Trabajo, proponer su actualización, modificación, criterios de interpretación y aplicación que requieran;
+
+X. Operar, al interior de la Secretaría, el Servicio Profesional de Carrera;
+
+XI. Conducir las relaciones laborales de la Secretaría y apoyar al Secretario, Subsecretarios, Oficial Mayor, Jefe de Unidad de Asuntos Jurídicos, Directores Generales y Director en Jefe del Registro Agrario Nacional en la gestión de la relación con la representación sindical;
+
+XII. Coordinar y supervisar la entrega de los premios, estímulos y recompensas al personal, de acuerdo a las disposiciones aplicables;
+
+XIII. Promover estrategias y acciones de capacitación para el mejoramiento de los niveles de desempeño laboral, así como impulsar el desarrollo y mejoramiento de los recursos humanos;
+
+XIV. Participar en las comisiones mixtas que se establezcan y supervisar su funcionamiento, de acuerdo a las disposiciones vigentes;
+
+XV. Apoyar a la Jefatura de Unidad de Asuntos Jurídicos, con la información que le solicite para la atención de los asuntos de su competencia;
+
+XVI. Coordinar la actualización y registro de las estructuras orgánicas y ocupacionales de la Secretaría, del Registro Agrario Nacional, la Procuraduría Agraria y el Fideicomiso Fondo Nacional de Fomento Ejidal, ante las Secretarías de la Función Pública y de Hacienda y Crédito Público, con la autorización del Oficial Mayor;
+
+XVII. Integrar el Manual de Organización General de la Secretaría; proponer para aprobación superior y difundir la metodología para la elaboración de los manuales de organización específicos, de procedimientos y demás documentos administrativos que resulten necesarios para el mejor funcionamiento de la Secretaría; supervisar su permanente actualización, así como realizar su validación y registro, y
+
+XVIII. Realizar las demás funciones que determine el Oficial Mayor o el Secretario.
 
 ###### ARTÍCULO 25.
 
@@ -631,9 +821,59 @@ V. Gestionar ante el Instituto Nacional de Administración y Avalúos de Bienes 
 
 VI. Convocar y coordinar las Sesiones Ordinarias ó Extraordinarias del Comité de Regularización de Predios, Indemnizaciones, Compensaciones y Expropiaciones y los demás que corresponda, para someter a la consideración de los mismos los expedientes previamente integrados, para la autorización de adquisición, pago sustituto o expropiación de los predios que corresponda, en caso de ser procedente; así como llevar el registro de los acuerdos que se tomen, otorgando el seguimiento necesario hasta el total cumplimiento de los mismos;
 
-VII. Coordinar y supervisar el proceso de pago, traslado de dominio y escrituración, según corresponda, de los predios adquiridos por la Secretaría, y
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
 
-VIII. Informar oportunamente a la Jefatura de Unidad de Asuntos Jurídicos de las acciones realizadas, para que se comunique el cabal cumplimiento de las ejecutorias, cuando proceda.
+VII. Coordinar y supervisar el proceso de pago, traslado de dominio y escrituración, según corresponda, de los predios adquiridos por la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+VIII. Informar oportunamente a la Jefatura de Unidad de Asuntos Jurídicos de las acciones realizadas, para que se comunique el cabal cumplimiento de las ejecutorias, cuando proceda, y
+
+> <small>(ADICIONADA, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+IX. Promover la regularización de los predios en posesión precaria de grupos campesinos, adquiridos por la Secretaría de la Reforma Agraria o bien adquiridos y puestos a disposición de ésta por otras dependencias gubernamentales para satisfacer necesidades agrarias.
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+ARTÍCULO 25 bis. La Dirección General Adjunta "A", estará adscrita a la Jefatura de Unidad de Asuntos Jurídicos y tendrá las siguientes atribuciones:
+
+I. Proponer los informes previos y justificados en materia de amparo, así como toda clase de recursos o medios de impugnación a las autoridades que hayan sido señaladas como responsables para su suscripción;
+
+II. Asesorar jurídicamente a las autoridades competentes de la Secretaría, en el cumplimiento de las resoluciones definitivas que se dicten en los juicios de amparo y en los juicios agrarios;
+
+III. Proponer al Jefe de la Unidad de Asuntos Jurídicos los proyectos de escritos que éste deba promover en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de la Reforma Agraria represente al Presidente de la República;
+
+IV. Elaborar las promociones cuando el Secretario, Subsecretarios y/o Oficial Mayor tengan el carácter de tercero perjudicado, así como en general, todas las promociones y actos procesales que a dichos juicios se refieran;
+
+V. Proponer, para su suscripción las promociones cuando las autoridades responsables distintas a las señaladas en la fracción anterior, tengan el carácter de tercero perjudicado, en los juicios de amparo;
+
+VI. Dirigir, programar y evaluar el desempeño de las áreas que le sean adscritas;
+
+VII. Coadyuvar con el Jefe de la de Unidad de Asuntos Jurídicos en todas las acciones que se implementen para optimizar los recursos materiales y humanos de la unidad administrativa a su cargo, y
+
+VIII. Realizar las demás que le encomiende el Jefe de Unidad de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+ARTÍCULO 25 ter. La Dirección General Adjunta "B", estará adscrita a la Jefatura de Unidad de Asuntos Jurídicos y tendrá las siguientes atribuciones:
+
+I. Dictaminar los anteproyectos de iniciativas de ley o de decretos legislativos, reglamentos, decretos, acuerdos, circulares, órdenes y demás disposiciones de carácter general, que le sean turnadas por la Jefatura de Unidad de Asuntos Jurídicos, así como elaborar los anteproyectos de dichos instrumentos por instrucción de esta última;
+
+II. Auxiliar a las autoridades competentes de la Secretaría de Gobernación en el seguimiento del proceso legislativo de iniciativas de leyes o decretos cuando contengan disposiciones en materias que competen a la Secretaría, así como fungir de enlace de esa dependencia con las autoridades competentes de la Consejería Jurídica del Ejecutivo Federal para coadyuvar con éstas en la consecución de los proyectos de reglamentos, decretos, acuerdos, nombramientos, resoluciones y demás instrumentos de carácter jurídico que el Secretario someta a consideración del Presidente de la República en términos del artículo 43, fracción IV de la Ley Orgánica de la Administración Pública Federal;
+
+III. Apoyar a la Jefatura de Unidad de Asuntos Jurídicos en la emisión de los dictámenes y opiniones que se requieran, a fin de asesorar y apoyar desde el punto de vista jurídico a las unidades administrativas de la Secretaría, así como coadyuvar con el Jefe de Unidad de Asuntos Jurídicos como enlace con las áreas correspondientes de la Administración Pública Federal;
+
+IV. Coadyuvar con el Ministerio Público en los procedimientos instruidos por hechos o conductas que afecten los intereses de la Federación cuya defensa sea materia de las atribuciones de la Secretaría e intervenir como corresponda en los juicios que deriven de tales procedimientos;
+
+V. Revisar y proponer al Jefe de la Unidad de Asuntos Jurídicos los proyectos de contestación en los diversos juicios contencioso administrativos en que la Secretaría sea parte, e interponer toda clase de recursos o medios de impugnación que a dichos juicios se refieran;
+
+VI. Vigilar y coordinar el desarrollo de las funciones en materia contenciosa y consultiva e informar al Jefe de Unidad;
+
+VII. Dirigir, programar y evaluar el desempeño de las áreas que le sean adscritas;
+
+VIII. Coadyuvar con el Jefe de la Unidad de Asuntos Jurídicos en todas las acciones que se implementen para optimizar los recursos materiales y humanos de la unidad administrativa a su cargo, y
+
+IX. Realizar las demás funciones que le encomiende el Jefe de la Unidad de Asuntos Jurídicos.
 
 ### CAPÍTULO VIII. DEL ÓRGANO INTERNO DE CONTROL
 
@@ -713,7 +953,9 @@ La Secretaría de la Reforma Agraria contará con el Registro Agrario Nacional, 
 
 El Subsecretario de Ordenamiento de la Propiedad Rural, el de Política Sectorial y el Oficial Mayor, en ese orden, suplirán las ausencias del Secretario.
 
-En los juicios de amparo en que el Secretario deba intervenir en representación del Presidente de la República o como Titular de la Secretaría, y en los demás procedimientos contenciosos en que deba tener participación, su ausencia se suplirá por el Jefe de la Unidad de Asuntos Jurídicos o sus Directores Generales Adjuntos.
+> <small>(REFORMADO, D.O.F. 28 DE SEPTIEMBRE DE 2010)</small>
+
+En los juicios de amparo y en los demás procedimientos contenciosos en que el Secretario deba intervenir, su ausencia se suplirá por el Jefe de la Unidad de Asuntos Jurídicos o sus Directores Generales Adjuntos.
 
 ###### ARTÍCULO 33.
 
@@ -740,3 +982,19 @@ QUINTO.- La Oficialía Mayor realizará las acciones necesarias para que los rec
 SEXTO.- Las modificaciones que, en su caso, se lleven a cabo a la estructura orgánica de la Secretaría, se deberán realizar mediante movimientos compensados que no impliquen un aumento en el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal, ni para el subsecuente.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de enero de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Reforma Agraria, Abelardo Escobar Prieto.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 28 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan las disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Las referencias que contengan otras disposiciones relativas a la Dirección General de Administración se entenderán conferidas a las Direcciones General de Recursos Financieros y Generales Adjuntas de Recursos Materiales y Recursos Humanos, de acuerdo al ámbito de competencia que en el presente Decreto se les asigne.
+
+CUARTO.- Las acciones que se lleven a cabo para la aplicación del presente Decreto, se sujetarán a la disponibilidad de recursos que se hayan aprobado para tal fin en el Presupuesto de Egresos del ejercicio fiscal correspondiente para la Secretaría de la Reforma Agraria, y deberán sujetarse a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+QUINTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo a la estructura orgánica de la Secretaría de la Reforma Agraria, se deberán realizar conforme a las disposiciones aplicables y mediante movimientos compensados que no aumentarán el presupuesto regularizable de servicios personales, aprobado para el presente ejercicio fiscal y subsecuentes.
+
+SEXTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Reglamento, sea asignado de una unidad administrativa a otra, se respetarán conforme a la ley. La Oficialía Mayor deberá emitir los nombramientos acordes con las nuevas denominaciones de las unidades administrativas que corresponda en un período de 10 días hábiles posteriores a la entrada en vigor de este Decreto.
