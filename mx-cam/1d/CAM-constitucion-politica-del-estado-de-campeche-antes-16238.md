@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2009-11-18"
+last_updated: "2010-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -363,13 +363,13 @@ a).- Las reglas a que se sujetará el financiamiento de los partidos políticos,
 
 b).- El procedimiento al que se sujetarán los partidos políticos que pierdan su registro para su liquidación y destino de sus bienes y remanentes;
 
-c).- Los limites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones relativas al financiamiento privado de éstos; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; y establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias; y
+c).- Los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones relativas al financiamiento privado de éstos; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; y establecerá las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias; y
 
 d).- Las bases a que se sujetará el Instituto Electoral del Estado de Campeche para la fiscalización de las finanzas de los partidos políticos, de las precampañas y campañas electorales, así como para su coordinación para tal efecto con el Instituto Federal Electoral, incluyendo la que se requiera en materia de secreto bancario, fiduciario o fiscal;
 
 III.- El acceso de los partidos políticos a la radio y a la televisión, no pudiendo dichos partidos contratar por sí o por terceras personas la adquisición de tiempos, en cualquier modalidad, en esos medios de comunicación. Para tal efecto la Ley considerará las disposiciones de carácter federal que resulten aplicables;
 
-IV.- Ninguna otra persona física o moral, sea a titulo propio o por cuenta de terceros, podrá contratar ni a favor o en contra, propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos.
+IV.- Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar ni a favor o en contra, propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos.
 
 En la propaganda política o electoral que difundan los partidos, deberán abstenerse de expresiones que denigren y calumnien a las instituciones, a los otros partidos o a las personas.
 
@@ -721,7 +721,7 @@ a).- Que la fracción o fracciones que pidan erigirse en municipio cuenten con u
 
 Excepcionalmente, por razones de orden político, social o económico que lo hagan aconsejable, la Legislatura podrá dar trámite y aprobar, si los demás requisitos que se señalan en los incisos siguientes se satisfacen, solicitudes que provengan de fracción o fracciones con población menor de veinticinco mil habitantes pero mayor de seis mil habitantes;
 
-b). Que se compruebe ante el Congreso que la fracción o fracciones que pretenden formar Municipios libres, tienen los elementos bastantes para proveer a su existencia política y económica, así como que el Municipio libre del cual se pretenden segregar, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno;
+b).- Que se compruebe ante el Congreso que la fracción o fracciones que pretenden formar Municipios libres, tienen los elementos bastantes para proveer a su existencia política y económica, así como que el Municipio libre del cual se pretenden segregar, puede continuar subsistiendo sin sufrir con la desmembración perjuicio grave alguno;
 
 c).- Que se oiga al Ayuntamiento del Municipio que se trate de desmembrar, sobre la conveniencia o inconveniencia de la creación de la nueva entidad municipal, quedando obligado a dar un informe por escrito dentro de los 15 días siguientes a aquel en que le fuese pedido;
 
@@ -737,13 +737,13 @@ II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fu
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-IlI. Aprobar en forma anual:
+III. Aprobar en forma anual:
 
 a) Las contribuciones y demás ingresos que deban corresponder al Estado para cubrir su presupuesto anual de egresos;
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
-b) La Ley de Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior; asimismo, podrá autorizar en dicha Ley las partidas necesarias para cumplir con las obligaciones derivadas de los Proyectos de Prestación de Servicios, durante la vigencia de los mismos; y
+b). La Ley de Presupuesto de Egresos del Estado que someta a su consideración el Gobernador, una vez aprobadas las contribuciones e ingresos a que se refiere el inciso anterior; asimismo, podrá autorizar en dicha Ley las partidas necesarias para cumplir con las obligaciones derivadas de los Proyectos de Prestación de Servicios, durante la vigencia de los mismos; y
 
 c) Las contribuciones y demás ingresos que deban corresponder a los municipios para cubrir anualmente su respectivo presupuesto de egresos;
 
@@ -755,13 +755,15 @@ III Bis.- Expedir la ley que regula las acciones relativas a la planeación, apr
 
 III Ter.- Aprobar los Proyectos de Prestación de Servicios conforme a la legislación aplicable. Asimismo, autorizar la afectación de los ingresos que de conformidad con la legislación aplicable sean susceptibles de afectación, para el cumplimiento de las obligaciones derivadas de los Proyectos de Prestación de Servicios y de los empréstitos.
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Legislar en todo lo concerniente a los diversos ramos de la administración pública del Estado.
+IV. Legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado.
 
-Expedir leyes sobre planeación estatal del desarrollo económico y social, y sobre programación, promoción, concertación y ejecución de acciones orden (sic) económico.
+Expedir leyes sobre planeación estatal del desarrollo económico y social, y sobre programación, promoción, concertación y ejecución de acciones de orden económico.
 
-Expedir todas las leyes que sean necesarias para hacer efectivas las facultades otorgadas por esta Constitución a los poderes del Estado;
+Expedir la ley que establezca las bases de coordinación en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, por parte de las dependencias, entidades y órganos de los Poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos de los Municipios y los Órganos Constitucionales Autónomos del Estado, con base en la Ley General de Contabilidad Gubernamental expedida por el Congreso General de los Estados Unidos Mexicanos para garantizar la armonización contable a nivel estatal.
+
+Expedir los códigos, leyes y decretos que sean necesarios en materias civil, penal, administrativa, fiscal, hacendaria y demás ramas del derecho para hacer efectivas las facultades otorgadas por esta Constitución a los Poderes del Estado, los Gobiernos de sus Municipios y los Órganos Constitucionales Autónomos estatales, con estricto respeto a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en lo particular a las que establecen facultades legislativas exclusivas del Congreso General de los Estados Unidos Mexicanos y de sus Cámaras de Senadores y de Diputados;
 
 V.- Acordar las bases sobre las cuales el Ejecutivo puede celebrar empréstitos sobre el crédito del Estado, salvo los casos a que se refiere la fracción VIII del Artículo 117 de la Constitución Federal;
 
@@ -833,7 +835,7 @@ La evaluación del desempeño de la Auditoría Superior del Estado estará a car
 
 Las cuentas públicas municipales deberán ser presentadas al Congreso del Estado a más tardar el 31 de enero del año siguiente al ejercicio fiscal que correspondan. La Cuenta Pública del Estado deberá ser presentada al Congreso del Estado a más tardar el 10 de abril del año siguiente al ejercicio fiscal que corresponda. El Congreso concluirá la revisión y fiscalización de las cuentas públicas a más tardar en el periodo ordinario de sesiones inmediato siguiente a la presentación del informe del resultado, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado de la Auditoría Superior del Estado, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, seguirá su curso en términos de lo señalado en esta Constitución y las leyes aplicables.
 
-Sólo se podrán ampliar los plazos de presentación de las cuentas públicas cuando medie solicitud del Ejecutivo del Estado o de los Ayuntamientos, en su caso, suficientemente justificadas a juicio del Congreso del Estado o de la Diputación Permanente. La prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la entidad de fiscalización superior del Estado contará con el mismo tiempo adicional para la presentación del informe del resultado de la revisión de la Cuenta Pública correspondiente;
+Sólo se podrán ampliar los plazos de presentación de las cuentas públicas cuando medie solicitud del Ejecutivo del Estado o de los Ayuntamientos, en su caso, suficientemente justificadas a juicio del Congreso del Estado o de la Diputación Permanente. La prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la entidad de fiscalización superior del Estado contará con el mismo tiempo adicional para la presentación del informe del resultado de la revisión de la Cuenta Pública correspondiente.
 
 > <small>(REFORMADA P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -875,7 +877,7 @@ XXXIII.- Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento 
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
-XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
+XXXIV. Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1079,7 +1081,7 @@ III.- Informar al Tribunal Superior de Justicia de las faltas que cometan los ju
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
-IV.- Pedir la destitución, de acuerdo con lo dispuesto por el artículo 86, ante el Congreso del Estado, de cualquiera de los Magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia;
+IV.- Pedir la destitución, de acuerdo con lo dispuesto por el artículo 86, ante el Congreso del Estado, de cualquiera de los Magistrados del Tribunal Superior de Justicia y de los Jueces de primera instancia;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1219,7 +1221,7 @@ Incumbe al Ministerio Público estatal la persecución, ante los tribunales loca
 
 ###### ARTICULO 76.
 
-El Procurador General de Justicia del Estado intervendrá personalmente en las controversias que se susciten entre dos o más Municipios del Estado, o entre éste y dichos Municipios. En los negocios en que el Estado fuese parte, así como en los que deba intervenir el Ministerio Público, el Procurador General lo hará por sí o por medio de sus agentes. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
+El Procurador General de Justicia del Estado intervendrá personalmente en las controversias que se susciten entre dos o más Municipios del Estado, o entre éste y dichos Municipios. En los negocios en que el Estado fuese parte, así como en los que deba (sic) intervenir el Ministerio Público, el Procurador General lo hará por sí o por medio de sus agentes. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
 
 La función de consejero jurídico del Gobernador estará a cargo de la dependencia del Ejecutivo del Estado que la correspondiente ley orgánica establezca.
 
@@ -2459,7 +2461,7 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 Segundo.- La renovación escalonada de Consejeros Electorales estipulada en el párrafo V del artículo 24 de la Constitución Política del Estado de Campeche se llevará a cabo a partir de la próxima elección de Consejeros Electorales. Para tal fin se elegirán en la sesión convocada para tales fines en primer término al Consejero Presidente y tres Consejeros para el periodo enunciado en la referida norma Constitucional y posteriormente a los tres consejeros restantes para un periodo de tres años.
 
-Tercero.- Cualquier trabajo atinente a redefinir la conformación actual de los distritos electorales locales podrá llevarse a cabo tomando en consideración el Censó General de Población y Vivienda 2010.
+Tercero.- Cualquier trabajo atinente a redefinir la conformación actual de los distritos electorales locales podrá llevarse a cabo tomando en consideración el Censo General de Población y Vivienda 2010.
 
 Cuarto.- Se derogan todas las disposiciones legales y administrativas que se opongan al contenido del presente decreto.
 
@@ -2482,3 +2484,7 @@ DECRETO No. 4, POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 54 DE LA CONSTITUCIO
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2010.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
