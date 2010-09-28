@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2010-09-17"
+last_updated: "2010-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2010.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -465,41 +465,43 @@ ARTICULO 77
 
 Cualquiera condición contraria a los fines esenciales del matrimonio y a la asistencia mutua que se deben los cónyuges, se tendrá por no puesta.
 
-ARTICULO 78
+> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2010)</small>
 
-La ley no reconoce esponsales de futuro, salvo la promesa de matrimonio a que se refiere el Capítulo siguiente.
+###### Artículo 78.
+
+La ley no reconoce esponsales de futuro.
 
 ARTICULO 79
 
 En ningún caso podrá ser compelido nadie a contraer matrimonio, ni será válida la estipulación que se celebre estableciendo pena alguna por no cumplir la promesa del mismo.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 28 DE SEPTIEMBRE DE 2010)</small>
+
 ### CAPITULO II. De la promesa de matrimonio
 
-ARTICULO 80
+###### ARTICULO 80.
 
-La promesa de matrimonio que se hace por escrito y es aceptada, produce los efectos jurídicos que en este Capítulo se definen.
+(DEROGADO, G.O. 28 DE SEPTIEMBRE DE 2010)
 
-ARTICULO 81
+###### ARTICULO 81.
 
-Sólo pueden prometer matrimonio el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
+(DEROGADO, G.O. 28 DE SEPTIEMBRE DE 2010)
 
-ARTICULO 82
+###### ARTICULO 82.
 
-Cuando los prometidos son menores de edad, la promesa de matrimonio no produce efectos jurídicos, si no han consentido en ella sus representantes legales.
+(DEROGADO, G.O. 28 DE SEPTIEMBRE DE 2010)
 
-ARTICULO 83
+###### ARTICULO 83.
 
-El que sin causa grave, a juicio del Juez, rehusare cumplir el compromiso de matrimonio, o difiriere indefinidamente su cumplimiento, pagará al otro prometido, a título de reparación moral, la indemnización que fije el Juez, cuando por la duración del noviazgo, por la intimidad establecida entre los prometidos por la publicidad de las relaciones, o por otras causas semejantes, la falta de cumplimiento de la promesa de matrimonio, cause grave daño a la reputación o los intereses del prometido inocente.
+(DEROGADO, G.O. 28 DE SEPTIEMBRE DE 2010)
 
-La indemnización será fijada por el Juez, tomando en consideración los recursos del prometido culpable y la magnitud del daño causado al inocente.
+###### ARTICULO 84.
 
-ARTICULO 84
+(DEROGADO, G.O. 28 DE SEPTIEMBRE DE 2010)
 
-Las acciones a que se refiere el artículo anterior sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
+###### ARTICULO 85.
 
-ARTICULO 85
-
-Si el matrimonio no se celebra, los prometidos tienen derecho a exigirse recíprocamente la devolución de lo que se hubiesen donado con motivo de su concertado matrimonio. Este derecho durará un año desde el rompimiento del noviazgo o de las relaciones.
+(DEROGADO, G.O. 28 DE SEPTIEMBRE DE 2010)
 
 ### CAPITULO III A. De los requisitos para contraer matrimonio
 
@@ -16160,3 +16162,9 @@ G.O. 17 DE SEPTIEMBRE DE 2010.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+G.O. 28 DE SEPTIEMBRE DE 2010.
+
+Primero. Este Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
