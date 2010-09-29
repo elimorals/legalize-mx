@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2008-11-05"
+last_updated: "2010-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -205,7 +205,19 @@ El Tribunal Superior de Justicia residirá en la capital del Estado y ejercerá 
 
 De los Magistrados
 
-Los magistrados del Tribunal Superior de Justicia, durarán en su encargo catorce años, sólo podrán ser removidos del mismo en los términos de Titulo VII de la Constitución Política del Estado y al vencimiento de su período, tendrán derecho al haber por retiro que determine el reglamento interior.
+(NOTA: EL 6 DE DICIEMBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 81/2010, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE DICIEMBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+
+Los magistrados del Tribunal Superior de Justicia, durarán en su encargo catorce años, sólo podrán ser removidos del mismo en los términos del Título VII de la Constitución Política del Estado y, al vencimiento de su periodo, tendrán derecho al haber por retiro de carácter vitalicio, el que en ningún caso y bajo ninguna circunstancia podrá exceder DE UN 60%, DURANTE LOS DOS PRIMEROS AÑOS, RESPECTO de la percepción mensual económica total que devenguen al momento del retiro, Y DEL 20% DE LA REFERIDA PERCEPCIÓN hasta su fallecimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+
+Los magistrados en retiro, durante los dos primeros años no podrán ejercer la abogacía, sino en causa propia, de su cónyuge, ascendientes o descendientes, siempre y cuando el negocio tenga carácter de ocasional y obtengan autorización del Pleno del Tribunal; en caso de incumplimiento, perderán en forma definitiva el derecho a percibir el haber de retiro a que se refiere el párrafo anterior. Será causa de suspensión temporal del derecho, si el magistrado en retiro desempeña otro cargo o empleo en la Federación, Estado o Municipio, aún tratándose de cargos de elección popular.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+
+Se exceptúan de las restricciones señaladas en el párrafo anterior, los cargos de docencia e investigación.
 
 Ninguna persona que haya sido magistrado podrá ser nombrada para un nuevo período, salvo que hubiera ejercido el cargo con el carácter de provisional o interino.
 
@@ -297,7 +309,7 @@ XVII. Ordenar visitas judiciales, ordinarias y extraordinarias, a los juzgados c
 
 XVIII. Examinar los informes y actas levantadas por los visitadores y dictar los acuerdos conducentes;
 
-XIX. Nombrar a los jueces de Primera Instancia y Municipales, mediante concurso de oposición, de acuerdo con su capacidad y tomando en cuenta además, su conducta, hónradez, eficiencia y, en su caso, los antecedentes al servicio del Poder Judicial;
+XIX. Nombrar a los jueces de Primera Instancia y Municipales, mediante concurso de oposición, de acuerdo con su capacidad y tomando en cuenta además, su conducta, honradez, eficiencia y, en su caso, los antecedentes al servicio del Poder Judicial;
 
 XX. Adscribir a los jueces en los juzgados en que deban ejercer su función y cambiarlos de distrito o de juzgado, cuando así se estime necesario;
 
@@ -367,7 +379,7 @@ VI. Establecer la jurisprudencia del Pleno del Tribunal Superior de Justicia y r
 
 Atribuciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 El presidente del Tribunal Superior de Justicia será electo por el Pleno, durará en el ejercicio del cargo cuatro años y no podrá ser reelecto para el periodo inmediato, no integrará sala y ejercerá las atribuciones siguientes:
 
@@ -573,7 +585,7 @@ Para ser actuario, notificador, oficial de partes o secretario auxiliar, se requ
 
 Atribuciones del Secretario General de Acuerdos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 Son atribuciones del Secretario General de Acuerdos:
 
@@ -1443,7 +1455,7 @@ Los demás servidores públicos del Poder Judicial, serán procesados por los de
 
 ### CAPITULO PRIMERO. DE SU INTEGRACION Y FUNCIONAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 76.
 
@@ -1491,11 +1503,11 @@ V. La determinación e imposición de sanciones en la materia; y
 
 VI. Las demás que le señale la ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ENERO DE 2002)</small>
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION Y FUNCIONAMIENTO DE LA SALA DEL TRIBUNAL ESTATAL ELECTORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 79.
 
@@ -1513,7 +1525,7 @@ Cuando un Magistrado Electoral disintiere de la mayoría o su proyecto fuera rec
 
 La Sala elaborará anualmente el proyecto de su presupuesto y lo presentará al Pleno del Tribunal Superior de Justicia para su inclusión en el del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 81.
 
@@ -1571,7 +1583,7 @@ X. Las demás que le confieran las leyes y el Reglamento Interno del Tribunal.
 
 ### CAPITULO CUARTO. DEL PRESIDENTE DEL TRIBUNAL ESTATAL ELECTORAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 84.
 
@@ -1651,7 +1663,7 @@ XXI. Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribun
 
 XXII. Las demás que señalen las leyes, el Reglamento Interior o aquellas que sean necesarias para el correcto funcionamiento del Tribunal.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
 
 ### CAPITULO QUINTO
 
@@ -1675,7 +1687,7 @@ XXII. Las demás que señalen las leyes, el Reglamento Interior o aquellas que s
 
 (DEROGADO, P.O. 12 DE ENERO DE 2002)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
 
 ### CAPITULO SEPTIMO
 
@@ -1739,7 +1751,7 @@ XV. Las demás que les señalen las leyes o el Reglamento Interno del Tribunal o
 
 Cada Magistrado Electoral de la Sala contará permanentemente con el apoyo de los Secretarios de Estudio y Cuenta que sean necesarios para el desahogo de los asuntos de su competencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ENERO DE 2002)</small>
 
 ### CAPITULO NOVENO. DEL SECRETARIO DE ACUERDOS
 
@@ -1749,7 +1761,7 @@ Cada Magistrado Electoral de la Sala contará permanentemente con el apoyo de lo
 
 Para el ejercicio de sus funciones la Sala contará con un Secretario de Acuerdos, que será nombrado por los integrantes de la propia Sala.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 94.
 
@@ -1785,7 +1797,7 @@ X. Expedir los certificados de constancias que se requieran; y
 
 XI. Las demás que le señalen las leyes.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2002)</small>
 
 ### CAPITULO DECIMO
 
@@ -1933,7 +1945,7 @@ V. No ser militar en activo o ministro de culto religioso.
 
 Para ser designado Secretario de Acuerdos de la Sala del Tribunal Estatal Electoral, se deberán satisfacer los requisitos que se exigen para ser electo Magistrado Electoral, en los términos del presente Capítulo, con excepción del de la edad que será de treinta años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 106.
 
@@ -1951,7 +1963,7 @@ V. Aprobar la evaluación que para acreditar los requisitos de conocimientos bá
 
 VI. No ser militar en activo o ministro de culto religioso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 107.
 
@@ -1967,7 +1979,7 @@ IV. Aprobar la evaluación que para acreditar los requisitos de conocimientos b�
 
 V. No ser militar en activo o ministro de culto religioso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 108.
 
@@ -1977,7 +1989,7 @@ Asimismo, cuando las cargas de trabajo extraordinarias lo exijan, la Comisión d
 
 ### CAPITULO DECIMO QUINTO. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 109.
 
@@ -2005,7 +2017,7 @@ Los Magistrados Electorales y demás servidores del Tribunal Estatal Electoral, 
 
 ### CAPITULO DECIMO SEXTO. DE LAS VACACIONES, DIAS INHABILES, RENUNCIAS, AUSENCIAS Y LICENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 113.
 
@@ -2051,7 +2063,7 @@ Las licencias serán otorgadas a los servidores públicos y empleados del Tribun
 
 ### CAPITULO DECIMO SEPTIMO. DE LAS ACTUACIONES JUDICIALES Y DEL ARCHIVO JURISDICCIONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Artículo 122.
 
@@ -2087,11 +2099,11 @@ Una vez concluido el plazo a que se refiere el artículo anterior el Tribunal Es
 
 Serán considerados de confianza los siguientes servidores y empleados del Tribunal Estatal Electoral: el Secretario de Acuerdos, los Secretarios de Estudio y Cuenta, los Actuarios, las personas designadas por el Presidente de la Sala para auxiliarlos en las funciones administrativas, el Secretario Administrativo de la Comisión de Administración, los coordinadores, los directores, los jefes de departamento, el personal de apoyo y asesoría de los antes mencionados y todos aquellos que tengan a su cargo funciones de vigilancia, control, manejo de recursos, adquisiciones o inventarios.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 11 DE ENERO DE 2003)</small>
 
 ## TITULO SEXTO. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ENERO DE 2003)</small>
 
 ### CAPITULO UNICO
 
@@ -2103,11 +2115,11 @@ Organización Atribuciones y Funcionamiento
 
 El Tribunal de lo Contencioso Administrativo tendrá la organización, funcionamiento, competencia, procedimiento y recursos que disponga su propia ley.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ## TITULO SEPTIMO. DEL TRIBUNAL ESPECIALIZADO EN JUSTICIA PARA ADOLESCENTES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPITULO UNICO. DE LA COMPETENCIA, ORGANIZACION Y FUNCIONAMIENTO DEL TRIBUNAL ESPECIALIZADO
 
@@ -2205,13 +2217,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE ENERO DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 10 DE JULIO DE 2002
+P.O. 10 DE JULIO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -2227,7 +2239,7 @@ DECRETO No. 128
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 11 DE ENERO DE 2003
+P.O. 11 DE ENERO DE 2003.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
@@ -2252,3 +2264,13 @@ QUINTO. El Magistrado del Tribunal Especializado entrará en funciones a partir 
 SEXTO. El Magistrado que integre el Tribunal Especializado en Justicia para Adolescentes dispondrá de un término de noventa días contados a partir de la entrada en vigor de esta reforma, para que someta a aprobación del Pleno del Tribunal Superior de Justicia el Reglamento Interior del Tribunal Especializado en Justicia para Adolescentes.
 
 SÉPTIMO. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2010.
+
+Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, el Pleno del Tribunal Superior de Justicia en el Estado de Zacatecas deberá adecuar las disposiciones reglamentarias respectivas que se opongan al contenido del presente Decreto.
+
+Tercero.- Lo establecido en el presente Decreto, no le será aplicable a aquellos magistrados que, a la fecha de entrada en vigor del presente Instrumento Legislativo, se hayan separado de su encargo y ya están disfrutando del haber por retiro que señala dicho artículo.
+
+Cuarto.- Se derogan las disposiciones que contravengan a este Decreto.
