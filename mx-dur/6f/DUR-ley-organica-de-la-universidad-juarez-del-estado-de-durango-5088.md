@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-universidad-juarez-del-estado-de-durango-508
 country: "mx"
 rank: "ley_organica"
 publication_date: "1962-06-07"
-last_updated: "1974-10-03"
+last_updated: "2010-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA UNIVERSIDAD JUAREZ DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 7 de junio de 1962.
 
@@ -287,13 +287,11 @@ XI.- Las demás que se deriven de esta Ley, de su Reglamento General y de los Re
 
 ### CAPITULO IV. DEL RECTOR
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 25.
 
-El Rector es el Jefe nato de la Universidad su Representante y Presidente del Consejo Universitario y de la Junta Directiva, durará en su cargo seis años y podrá ser reelecto.
-
-En los asuntos jurídicos, la representación de la Universidad podrá ser delegada en el apoderado o apoderados que designe la Rectoría.
+El rector es el jefe nato de la Universidad, su representante y presidente del Consejo Universitario y de la Junta Directiva. Durará en su cargo seis años y no podrá reelegirse.
 
 ###### Artículo 26.
 
@@ -313,11 +311,9 @@ V.- Gozar de estimación general como persona honorable y prudente.
 
 En caso de faltas del Rector que no excedan de tres meses, el Secretario General asumirá sus funciones, pero si la ausencia fuere mayor, se procederá a elegir un Rector Provisional.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1974)</small>
-
 ###### Artículo 28.
 
-El Rector será electo por el Consejo Universitario por mayoría de votos.
+(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 29.
 
@@ -586,3 +582,29 @@ El Gobernador Constitucional del Estado, FRANCISCO GONZALEZ DE LA VEGA.- El Secr
 P.O. 3 DE OCTUBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O DEasxh.KSAD
+
+P.O. 29 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+TERCERO.- A partir de la entrada en vigor del presente decreto, el Congreso del Estado y la Universidad Juárez del Estado de Durango, realizarán foros de consulta con la finalidad de la expedición de una nueva Ley Orgánica para la Universidad Juárez del Estado de Durango.
+
+CUARTO.- A más tardar la segunda quincena de agosto de dos mil once, deberá expedirse la nueva Ley Orgánica de la Universidad Juárez del Estado de Durango.
+
+QUINTO.- El Congreso del Estado designará un Rector Interino de la Universidad Juárez del Estado de Durango, a más tardar dentro de las veinticuatro horas siguientes a la publicación del presente Decreto en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+El Rector Interino que sea designado desempeñará el cargo de la fecha en que se le tome la protesta de Ley por el Presidente de la Legislatura hasta el treinta de septiembre de dos mil once.
+
+SEXTO.- El proceso para la designación del rector interino, estará a cargo de la Comisión de Gobernación de conformidad con las siguientes bases generales
+
+1.- El presidente de la Comisión de Gobernación deberá presentar al interior de la misma una propuesta con el nombre de cinco personas, las cuales deberán cumplir con los requisitos que establece el artículo 26 de la Ley Orgánica de la Universidad Juárez del Estado de Durango.
+
+2.- La Comisión deberá formular con dichas propuestas una terna, la cual será presentada al pleno para la elección de uno de ellos por mayoría absoluta, quien fungirá como rector en los términos del artículo anterior.
+
+3.- En caso de que el Pleno no apruebe la elección del rector interino, se repondrá el procedimiento en los términos antes descritos, hasta lograr la designación.
+
+4.- Los casos no previstos en las presentes bases generales, serán resueltos por la Comisión de Gobernación.
