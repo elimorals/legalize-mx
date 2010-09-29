@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-09-08"
+last_updated: "2010-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -7728,9 +7728,67 @@ XIII. Coordinar la administración del portafolio de proyectos tecnológicos tra
 
 XIV. Planear y dirigir los trabajos de implantación de sistemas de información interdependenciales, coadyuvando en la automatización transversal de procesos y procedimientos de la Administración Pública del Distrito Federal;
 
-XV. Promover, impulsar y evaluar las iniciativas de gobierno electrónico para la Administración Pública del Distrito Federal; y
+XV. Promover, impulsar y evaluar las iniciativas de gobierno electrónico para la Administración Pública del Distrito Federal; y (sic)
 
-XVI. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XVI. Vigilar la instrumentación de las medidas preventivas y correctivas derivadas de las evaluaciones realizadas en materia de tecnologías de la información y comunicaciones;
+
+> <small>(REFORMADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Fungir como Unidad de Firma Electrónica de la Administración Pública del Distrito Federal;
+
+> <small>(REFORMADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII. Establecer la coordinación y gestiones necesarias para impulsar la disponibilidad de los servicios de certificación electrónica;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XIX. Habilitar el uso de la firma electrónica con validez jurídica;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XX. En colaboración con la Coordinación General de Modernización Administrativa, fomentar y difundir el uso de la firma electrónica en todos los trámites y servicios;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XXI. Formular y establecer requisitos, directrices y lineamientos para la implementar el uso de la Firma Electrónica;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XXII. Establecer y administrar el registro de prestadores de servicios de certificación, de certificados electrónicos, de terminación de empleo, cargo o comisión y demás actos en materia de Firma Electrónica;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XXIII. Expedir y revocar constancias de registro a prestadores de servicios de certificación;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XXIV. Verificar y corroborar el cumplimiento de requisitos y obligaciones de prestadores de servicios de certificación o de personas físicas o morales que ofrecen estos servicios, en términos de la Ley de Firma Electrónica del Distrito Federal y demás instrumentos o disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XXV. Recibir y dar trámite de quejas, aclaraciones y solicitudes de reportes de servicios de certificación o de constancias de existencia y registro de certificados electrónicos, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XXVI. Proponer disposiciones normativas para la conservación, almacenamiento y disponibilidad de los documentos electrónicos, o en su caso expedirlas, con la intervención de las unidades administrativas competentes de la Contraloría General;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XXVII. Asesorar técnicamente a las dependencias, órganos desconcentrados, delegaciones y entidades, en la implementación de los servicios de firma electrónica en sus sistemas informáticos, de conformidad con la Ley de Firma Electrónica del Distrito Federal; y
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XXVIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en que sea parte, tenga interés jurídico, o estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la dependencia le otorgará el apoyo necesario;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XXIX. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO ULTIMO PARRAFO, 29 DE SEPTIEMBRE DE 2010)</small>
+
+Las atribuciones relativas a la promoción y difusión de los marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información; realización de auditorías, revisiones, verificaciones e inspecciones, a los recursos de las tecnologías de la información; formulación de observaciones, emisión de recomendaciones, seguimiento para la atención de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités; requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, II, IV, V, VI, VII, XI, XII, XIV, XV, XVI, XXII, XXIV, XXV y XXVII podrán ser ejercidas por las Unidades Administrativas de Apoyo Técnico-Operativo de la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones, así como por las Unidades Administrativas de Apoyo Técnico-Operativo que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -8120,7 +8178,17 @@ XL. Integrar el registro de los acuerdos y determinaciones que emita la Contralo
 
 XLI. Realizar, en el ámbito de competencia de la Contraloría General y con sus unidades administrativas, la evaluación del objeto, estructura, presupuesto y marco normativo que regulan la función y los servicios encomendados a las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, para conocer la necesidad de implementar procesos de mejora o extinción y proponerlos a las autoridades competentes;
 
-XLII. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XLII. Proponer disposiciones normativas para incorporar la firma electrónica en los trámites y procedimientos que se llevan a cabo en la Administración Pública del Distrito Federal en congruencia con la estrategia de gobierno electrónico, o en su caso, expedirlas con la intervención de las unidades administrativas competentes de la Contraloría General;
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XLIII. Coordinar a las dependencias, órganos desconcentrados, delegaciones y entidades en la definición de los trámites y servicios que deban realizarse por medio de firma electrónica, así como establecer y difundir el catálogo de trámites y servicios que pueden utilizar firma electrónica; y
+
+> <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
+
+XLIV. Las demás que instruya el Contralor General y las que se le confieran en otros instrumentos jurídicos o administrativos.
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -8976,7 +9044,7 @@ Artículo 119 Novenus.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)
 
 Artículo 119 Novenus A.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)
 
-Artículo 119 Nonies (sic) B.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)(F.DE E., G.O. 1 DE DICIEMBRE DE 2010)
+Artículo 119 Nonies (sic) B.- (DEROGADO, G.O. 1 DE SEPTIEMBRE DE 2010)(F. DE E., G.O. 1 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADO, G.O. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -14151,3 +14219,9 @@ G.O. 8 DE SEPTIEMBRE DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Segundo. El Órgano Político-Administrativo en Miguel Hidalgo deberá actualizar su Manual Administrativo en los términos y condiciones que establezca la Contraloría General.
+
+G.O. 29 DE SEPTIEMBRE DE 2010.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
