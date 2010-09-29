@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-68451"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2010-05-26"
+last_updated: "2010-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -159,9 +159,9 @@ XXVII. Verificación: Acciones de inspección y vigilancia que realiza la Secret
 
 XXVIII. Vigilancia: Monitoreo y supervisión que permite conocer la forma en que se da cumplimiento a las disposiciones contenidas en la presente ley.
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
-XXIX. Estudio de Riesgo Ambiental: Documento mediante el cual se da a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riegos que estas representan para los ecosistemas, la salud humana o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad tendentes a atenuar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización o desarrollo normal de la obra o actividad de que se trate.
+XXIX. Estudio de Riesgo Ambiental: Documento mediante el cual se da a conocer, con base en el análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que estas representan para los ecosistemas, la salud humana o el ambiente, así como las medidas técnicas preventivas, correctivas y de seguridad tendentes a atenuar, reducir o evitar los efectos adversos que se causen al ambiente, en caso de un posible accidente durante la realización o desarrollo normal de la obra o actividad de que se trate.
 
 > <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -527,7 +527,7 @@ IV. El rigor metodológico de los procesos para la obtención de información, a
 
 V. La instrumentación de procesos sistemáticos que permitan verificar los resultados generados en cada etapa del proceso de ordenamiento ecológico;
 
-VI. La generación de indicadores ambientales que permitan la evaluación continúa del proceso de ordenamiento ecológico, para determinar la permanencia de los programas, su ajuste o la corrección de desviaciones en su ejecución;
+VI. La generación de indicadores ambientales que permitan la evaluación continua del proceso de ordenamiento ecológico, para determinar la permanencia de los programas, su ajuste o la corrección de desviaciones en su ejecución;
 
 VII. La creación de lineamientos y la implementación de estrategias ecológicas con base en la información disponible;
 
@@ -1129,41 +1129,73 @@ VI. Manejo integral de residuos.
 
 #### Sección Décima. Evaluación del Impacto y Riesgo Ambiental
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 79.
 
-Corresponde a la Secretaria, la evaluación de los estudios de impacto y/o riesgo ambiental con el objetivo de establecer los términos y condicionantes a que se sujetará la realización de obras y actividades de competencia estatal que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y preservar y restaurar los ecosistemas, a fin de evitar o mitigar sus efectos negativos sobre el ambiente.
+Corresponde a la Secretaría, la evaluación de la manifestación o estudios de impacto y/o riesgo ambiental con el objetivo de establecer los términos y condicionantes a que se sujetará la realización de obras y actividades de competencia estatal que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, preservar y restaurar los ecosistemas, a fin de evitar o mitigar sus efectos negativos sobre el ambiente.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 Para ello, en los casos que determine la presente ley u otros ordenamientos que al efecto se expidan, quienes pretendan llevar a cabo algunas de las siguientes obras o actividades, requerirán previamente al inicio de las mismas, la autorización de la Secretaría en materia de impacto y/o riesgo ambiental:
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
 I. Obra pública estatal y municipal;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
 II. Actividades consideradas riesgosas tales como: instalaciones de servicio, almacenamiento y distribución de combustibles o sustancias riesgosas cuando éstas no sean de competencia de la federación;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
 III. Caminos estatales, municipales y rurales;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
 IV. Zonas y parques industriales estatales y municipales, incluidas las plantas agroindustriales;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
 V. Exploración, extracción y procesamiento de materiales pétreos no reservados a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como materiales aluviales (arena y grava), piedra caliza, arcilla, tezontle, pomacita y grava roja, del que pueda obtenerse cualquier beneficio;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
 VI. Desarrollos turísticos en zonas de competencia estatal o municipal, promovidos por los sectores público, privado o social;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
 VII. Obras de infraestructura hidráulica estatal y municipal, como son las plantas de tratamiento de aguas residuales, los sistemas de drenaje y alcantarillado, y plantas de potabilización de agua;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
 VIII. Las instalaciones de acopio, comercialización, tratamiento, reciclado, confinamiento, eliminación, disposición final y transporte de residuos sólidos urbanos y de manejo especial, competencia del estado;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
 IX. Obras o aprovechamientos que pretendan realizarse dentro de las Áreas Naturales Protegidas Estatales;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
 X. Obras destinados (sic) a la concurrencia masiva de personas, tales como centros y plazas comerciales, estadios, cines, escuelas, centros deportivos, centrales de abasto, terminales de transporte público de carga o de pasajeros, mercados, panteones, teatros, parques recreativos o urbanos, hoteles, moteles y balnearios;
 
-XI. Lugares destinados a la concurrencia masiva de personas, tales como centros y plazas comerciales, estadios, cines, escuelas o centros deportivos;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+
+XI. Hospitales, sanatorios, clínicas, centros de salud y laboratorios clínicos públicos o privados donde se realicen actividades riesgosas y se generen residuos de manejo especial.
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
 XII. Fraccionamientos, conjuntos habitacionales y nuevos centros de población;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
 XIII. La industria refresquera, alimentaria, maquiladora, textil, ensambladora, autopartes y metalmecánica, así como la vinculada al hule y sus derivados; rastros frigoríficos; industria automotriz; maquiladoras, tenerías y curtidurías, del vidrio y sus derivados, del plástico, farmacéutica, de cosméticos y demás industrias cuya actividad pueda generar afectación ambiental en aquellos aspectos que no sean de competencia federal;
 
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
+
 XIV. Aquellas de competencia federal que asuma el Estado con motivo de la celebración de convenios o acuerdos de coordinación en la materia; y,
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2010)</small>
 
 XV. Cualesquiera que puedan causar impacto ambiental adverso, y que por razón de la obra, actividad o aprovechamiento de que se trate, no estén sometidas a la regulación de leyes federales.
 
@@ -1175,11 +1207,13 @@ En el reglamento de la presente ley o en las normas que al efecto se emitan, se 
 
 Los efectos negativos que sobre el ambiente y los recursos naturales a que se refiere esta ley, pudieran causar las obras o actividades de competencia estatal que no requieran someterse al procedimiento de evaluación de impacto ambiental mencionado en el presente capítulo, estarán sujetos en lo conducente, a las disposiciones legales y normatividad aplicables en la materia, así como lo que señalen los permisos, licencias, autorizaciones y concesiones que conforme a las mismas se requieran en las materias a que se refiere la presente ley.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 82.
 
-Para obtener la autorización a que se refiere el artículo 86 de esta Ley, los interesados deberán presentar a la Secretaría, una manifestación o estudio de impacto ambiental, el cual deberá contener cuando menos, la descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar los efectos negativos sobre el ambiente, conforme a los lineamientos expedidos por la Secretaría para tal efecto.
+Para obtener la autorización a que se refiere el artículo 79 de esta Ley, los interesados deberán presentar a la Secretaría, una manifestación o estudio de impacto ambiental, el cual deberá contener cuando menos, la descripción de los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar los efectos negativos sobre el ambiente, conforme a los lineamientos expedidos por la Secretaría para tal efecto.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
 Cuando se trate de actividades consideradas riesgosas, en los términos de la presente ley, aunado al estudio de impacto ambiental deberá presentar el estudio de riesgo ambiental correspondiente.
 
@@ -1219,9 +1253,7 @@ b) La obra o actividad que se trate pueda propiciar que una o más especies sean
 
 c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2010)</small>
-
-IV. Emitir opinión favorable, condicionada o no favorable para el caso de fraccionamientos, unidades habitacionales y nuevos centros de población.
+IV. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 87.
 
@@ -1501,11 +1533,19 @@ I. Las restricciones o prohibiciones de las actividades que puedan alterar los e
 
 II. La promoción para generar nuevos patrones de desarrollo regional acordes con objetivos de sustentabilidad en el territorio de las áreas naturales protegidas y sus zonas de influencia.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 120.
 
-Previamente a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas, se deberá contar con los estudios técnicos que justifiquen la constitución de las mismas, en los términos del presente capítulo.
+Previamente a la expedición de la declaratoria para el establecimiento de las áreas naturales protegidas, se deberá contar con los estudios técnicos que justifiquen la constitución de las mismas, en los términos del presente Capítulo, asimismo, la Secretaría podrá solicitar la opinión de:
+
+I. Los Ayuntamientos Municipales en cuyas circunscripciones territoriales se localice el área natural de que se trate;
+
+Il. Las dependencias y entidades de la Administración Pública Estatal que deberán intervenir, de conformidad con sus atribuciones;
+
+III. Las instituciones académicas, centros de investigación y organismos de los sectores públicos;
+
+Para el establecimiento de las áreas naturales protegidas de competencia municipal, se observarán los requisitos previstos en el artículo 118 de la presente ley.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -2361,7 +2401,7 @@ La autoridad correspondiente, por sí o a solicitud del infractor, podrá otorga
 
 ###### Artículo 220.
 
-Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones quede ella se deriven, se destinarán a la integración del Fondo Estatal Ambiental para desarrollar programas vinculados con la protección y mejoramiento del medio ambiente.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta ley, sus reglamentos y demás disposiciones que de ella se deriven, se destinarán a la integración del Fondo Estatal Ambiental para desarrollar programas vinculados con la protección y mejoramiento del medio ambiente.
 
 Los importes que por concepto de sanciones se impongan, tendrán el carácter de créditos fiscales y serán exigibles por las autoridades hacendarías conforme al procedimiento previsto por la ley de la materia. Del importe que se recabe, el 40% se mantendrá para la autoridad fiscal y el 60% restante se otorgará a la Secretaría o al municipio correspondiente, y será destinado para inversión en el mejoramiento de su estructura operativa.
 
@@ -2528,3 +2568,9 @@ P.O. 26 DE MAYO DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
