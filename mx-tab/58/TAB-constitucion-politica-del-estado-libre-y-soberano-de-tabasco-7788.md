@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2010-05-14"
+last_updated: "2010-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -123,9 +123,9 @@ Queda prohibida en el Estado, toda forma de discriminación motivada por origen 
 
 El Estado garantizará a toda persona los derechos fundamentales que en materia de justicia reconoce la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
-En el Estado de Tabasco toda persona tiene derecho a un ambiente saludable y equilibrado. Las autoridades instrumentarán y aplicarán, en el ámbito de su competencia, planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales, la flora y la fauna existentes en su territorio, así como para prevenir, evitar y castigar toda forma de contaminación ambiental.
+En el Estado de Tabasco toda persona tiene derecho a un ambiente saludable y equilibrado. Las autoridades instrumentarán y aplicarán, en el ámbito de su competencia, planes, programas y acciones destinadas a: La preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales, de la flora y la fauna existente en su territorio; prevenir, evitar y castigar toda forma de contaminación ambiental; y promover el uso de energías alternativas. El Estado y los municipios realizarán asimismo acciones de prevención y control de cambio climático.
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2004)</small>
 
@@ -2830,3 +2830,9 @@ P.O. 14 DE MAYO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, previa aprobación de los Ayuntamientos del Estado en los términos que dispone la Constitución del Estado Libre y Soberano de Tabasco.
 
 SEGUNDO.- Se derogan todas las disposiciones de carácter ordinario que contravengan el presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
