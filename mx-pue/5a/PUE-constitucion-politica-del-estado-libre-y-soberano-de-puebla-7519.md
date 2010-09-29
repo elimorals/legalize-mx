@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2010-06-16"
+last_updated: "2010-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -219,11 +219,11 @@ Nadie podrá sustraerse de propia autoridad a la observancia de los preceptos le
 
 Los casos de exención de sanciones, en favor de quienes ignoren las leyes, se establecerán por éstas, únicamente cuando sean de orden privado y se trate de individuos que notoriamente carezcan de instrucción y sean de escasas posibilidades económicas.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
-Las leyes poblanas no harán ninguna distinción entre las personas, por razón de su raza, origen étnico o nacional, género, edad, discapacidades, condición social o económica, condiciones de salud, preferencias, filiación, instrucción, creencia religiosa o ideología política.
+Las mujeres y los hombres son iguales ante la Ley. Las leyes poblanas no harán ninguna distinción entre las personas, por razón de su raza, origen étnico o nacional, género, edad, discapacidades, condición social o económica, condiciones de salud, preferencias, filiación, instrucción, creencia religiosa o ideología política.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -233,7 +233,9 @@ Las leyes se ocuparán de:
 
 I.- La protección, seguridad, estabilidad y mejoramiento de la familia en sus diversas manifestaciones.
 
-II.- La atención de la mujer durante el embarazo.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+
+II.- El desarrollo integral y el bienestar de las mujeres.
 
 III.- La atención y protección del ser humano durante su nacimiento, minoridad y vejez.
 
@@ -1417,7 +1419,7 @@ Cada tres años, al renovarse el Poder Legislativo, el Presidente del Tribunal S
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-## TITULO SEXTO.. DEL MINISTERIO PUBLICO
+## TITULO SEXTO. DEL MINISTERIO PUBLICO
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2628,3 +2630,11 @@ QUINTO.- El Congreso del Estado deberá expedir o adecuar la legislación local,
 SEXTO.- Los Organismos con autonomía reconocida en la Constitución Política del Estado, deberán adecuar su marco normativo, en términos del presente Decreto.
 
 SÉPTIMO.- El Congreso del Estado, en el ámbito de su competencia, deberá legislar para tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
