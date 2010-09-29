@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-municipal-de-general-50754"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-31"
-last_updated: "2006-05-31"
+last_updated: "2010-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE GENERAL ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DE PROTECCION CIVIL MUNICIPAL DE GENERAL ESCOBEDO, NUEVO LEON
+REGLAMENTO DE PROTECCIÓN CIVIL MUNICIPAL DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL DEL MUNICPIO DE GENERAL ESCOBEDO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de mayo de 2006.
 
@@ -844,3 +846,15 @@ PRESIDENTE MUNICIPAL.
 LIC. REFUGIO MACIAS MUÑOZ.
 
 SECRETARIO DEL R. AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2010.
+
+Artículo Primero: Se abroga el Reglamento de Protección Civil del Municipio de General Escobedo, Nuevo León, aprobado en la Sesión Ordinaria del Republicano Ayuntamiento en fecha 12 de mayo de 2006 y publicado el 31 de mayo del citado año en el Periódico Oficial del Estado.
+
+Artículo Segundo: Se Aprueba el Reglamento de Protección Civil del Municipio de General Escobedo, Nuevo León, en los términos que se exponen en el contenido del presente escrito.
+
+Artículo Tercero: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
+
+Artículo Cuarto: Para lo no previsto por este Reglamento, se seguirá el procedimiento y se aplicará supletoriamente lo establecido en la Ley de Protección Civil para el Estado de Nuevo León y en el Código de Procedimientos Civiles vigente en el Estado de Nuevo León.
