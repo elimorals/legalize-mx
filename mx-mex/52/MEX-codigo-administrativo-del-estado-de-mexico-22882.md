@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-09-23"
+last_updated: "2010-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1293,7 +1293,7 @@ Para dar curso a la acción popular, basta el señalamiento de los hechos que co
 
 ###### Artículo 1.
 
-78.- El Consejo Estatal de Población para el cumplimiento de su objeto tendrá las atribuciones siguientes:
+79.- El Consejo Estatal de Población para el cumplimiento de su objeto tendrá las atribuciones siguientes:
 
 I. Establecer los instrumentos y promover las acciones necesarias para asegurar la adecuada aplicación de las políticas de población nacional y estatal, en los programas de desarrollo económico y social que formulen los órganos de la administración pública estatal y municipal;
 
@@ -1867,41 +1867,33 @@ V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y
 
 Los ingresos de la Comisión, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 2.
 
-30.- Corresponde al Instituto de Salud del Estado de México ejercer el control sanitario de:
+30.- Las disposiciones del presente capítulo establecen las acciones y mecanismos de participación de las autoridades estatales y municipales, así como de los sectores social y privado en la prevención y atención a las adicciones en la Entidad, y son complementarias a las disposiciones y programas federales en la materia que operan de conformidad con los acuerdos y convenios celebrados entre ambos órdenes de gobierno, con el objeto de:
 
-I. Comercio de alimentos y bebidas no alcohólicas en la vía pública;
+I. Coadyuvar en la prevención y atención a las adicciones en el Estado de México;
 
-II. Construcciones, excepto de los establecimientos de salud;
+II. Preservar el derecho a la sana convivencia familiar, el desarrollo armónico de sus integrantes y el de esparcimiento saludable de las personas;
 
-III. Panteones y crematorios;
+III. Implementar medidas y acciones que tiendan a prevenir, concientizar, reducir, erradicar y medir el consumo de sustancias que dañen, deterioren y pongan en riesgo la salud, la calidad y las expectativas de vida de las personas;
 
-IV. Limpieza pública;
+IV. Fomentar en las familias, centros educativos, unidades económicas y organizaciones sociales, la corresponsabilidad social, como valor fundamental en la prevención y atención de las adicciones;
 
-V. Agua potable y alcantarillado;
+V. Delinear las políticas públicas que el Gobierno del Estado de México y los municipios realicen en materia de prevención, tratamiento y control de las adicciones; y
 
-VI. Sitios de cría y producción de animales domésticos;
+VI. Promover en el Sistema Educativo del Estado de México y en sus Universidades Públicas y Privadas, un ambiente libre de adicciones mediante la realización de acciones colectivas y autogestoras para la detección y prevención del consumo de sustancias psicoactivas entre los estudiantes.
 
-VII. Centros de prevención y readaptación social;
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
-VIII. Baños públicos;
+### CAPÍTULO QUINTO. De la Participación en la Prevención y Atención a las Adicciones
 
-IX. Centros de reunión públicos y espectáculos;
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
-X. Establecimientos dedicados a la prestación del servicio de peluquería, salones de belleza y similares;
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
-XI. Establecimientos de hospedaje;
-
-XII. Transporte de pasajeros;
-
-XIII. Las demás que determine este Libro.
-
-Para efectos de este Título se entiende por control sanitario el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones.
-
-### CAPITULO PRIMERO. Disposiciones generales
-
-#### SECCION PRIMERA. De la recolección de muestras
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 20.
 
@@ -1941,17 +1933,25 @@ Estarán adscritas a las Regiones Navales y al Cuartel General del Alto Mando y 
 
 ###### Artículo 2.
 
-31.- Compete a la Secretaría de Salud la expedición de las normas técnicas estatales.
+31.- El ingreso y tratamiento de las personas con problemas de adicciones a los establecimientos de prevención y atención de las mismas, se sujetará a las disposiciones legales y reglamentarias expedidas en la materia.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-32.- Compete al Instituto de Salud del Estado de México realizar las acciones de fomento sanitario, que incluyen la difusión de la normatividad aplicable al buen funcionamiento de los establecimientos.
+32.- Este capítulo estará a los conceptos contenidos en la Ley General de Salud, sus disposiciones reglamentarias y normas oficiales mexicanas, relativas a prevención, adicción, sustancias adictivas o con efectos psicoactivos, así como los sectores sujetos de los mismos.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-33.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
+33.- Las acciones y programas de prevención y atención de las adicciones, tendrán como principios rectores para su diseño y ejecución, la integralidad, sustentabilidad, transversalidad, corresponsabilidad, subsidiaridad, direccionalidad y eficacia, adecuándose a los Programas Nacionales y Estatal respectivos.
 
-#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+#### SECCIÓN SEGUNDA. De la Prevención y Atención a las Adicciones
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -1989,55 +1989,113 @@ Las unidades a que se refiere este artículo estarán subordinadas al Comandante
 
 ###### Artículo 2.
 
-34.- Los edificios o locales, incluidos los centros de prevención y readaptación social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
+34.- La prevención y atención a las adicciones, se sujetará a lo siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+I. El fomento de una cultura para la prevención y autoprotección de adicciones;
 
-> <small>(ADICIONADO, G.G. 6 DE OCTUBRE DE 2008)</small>
+II. La atención de las causas que generan las adicciones, mediante el conocimiento sistematizado de los factores de riesgo y protección;
 
-###### Artículo 2.
+III. El desarrollo de un programa integral de fomento de valores sociales, culturales y cívicos, mediante una labor permanente de corte formativa e informativa;
 
-34 Bis.- Los propietarios ó poseedores de los edificios y locales, o de los negocios en ellos establecidos, además de cumplir con la obligación de ejecutar las obras que se requieran para cumplir con las condiciones de higiene y de seguridad que establezcan las disposiciones legales y las normas sanitarias locales, tendrán la obligación de instalar aislantes de sonido, particularmente en restaurantes-bares, bares, discotecas y centros de espectáculos para no generar ruido en el medio ambiente, o contaminación, que afecte la salud de los usuarios, de dependientes y personal expuesto; así como el derecho de terceros, por encima de los siguientes niveles:
+IV. La promoción de la participación comunitaria, en la prevención de las causas y condiciones que inciden en el consumo de drogas, bebidas alcohólicas y tabaco; y
 
-Los límites máximos permisibles para las emisiones sonoras dentro de los establecimientos señalados, se determinan en función de decibeles ponderados en A [db(A)]; por lo que dentro de restaurantes, bares, discotecas y centros de espectáculos, los límites máximos de emisión y horarios son los siguientes, sin menoscabo de las regulaciones específicas en cuanto a los horarios de funcionamiento:
+V. El tratamiento, rehabilitación y reinserción social de los adictos, mediante el establecimiento de centros especializados, públicos y privados, los cuales deberán apegarse a las directrices de la Ley General de Salud y la Norma Oficial Mexicana.
 
-a) De las 6:00 a 22:00 Hrs. 68 db(A); y
-
-b) De las 22:00 a las 6:00 Hrs, será de 65 db(A)
-
-Será obligación de los titulares instalar sistemas visibles cuya finalidad es tener a la vista de los usuarios y personal expuesto a contaminación auditiva, los niveles de ruido y dar a conocer si se encuentran en el rango permitido o se ha excedido; por lo que en ese momento los titulares y/o empleados tendrán la obligación de disminuir los volúmenes de sonido y ruido hasta que se mantengan en el rango permitido.
-
-Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo la seguridad de los usuarios.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, G.G. 6 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-34 Ter.- las instalaciones y edificios que se destinen a centros de reunión y/o espectáculos públicos, además de los requisitos reglamentarios respectivos, deberán dar cumplimiento a las disposiciones jurídicas aplicables en materia de límites máximos permisibles para las emisiones sonoras, así como tener acceso directo a la vía pública, espacios abiertos, escaleras de emergencia, y todas aquellas disposiciones que, a juicio del Ejecutivo del Estado, sean necesarias para la evacuación del público en caso de emergencia.
+35.- La Secretaría de Salud a través del Instituto Mexiquense Contra las Adicciones, con la participación de las dependencias y organismos auxiliares de la administración pública, de los sectores social y privado, en especial del Consejo de Participación Social de la Educación, elaborará el programa respectivo para establecer acciones contra las adicciones; dicho programa será evaluado anualmente.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-35.- Los residuos sólidos municipales deben tratarse conforme a lo previsto en las normas técnicas estatales, de tal manera que no signifiquen un peligro para la salud y por ningún motivo se manipularán antes de su tratamiento o disposición final.
+36.- Toda persona física o jurídica colectiva, puede hacer del conocimiento de las autoridades, sujetos de este capítulo, los casos de personas con problemas de adicción, a efecto de proporcionarles la atención que requieran para su rehabilitación.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-36.- Los animales muertos deben ser incinerados o enterrados antes de que entren en descomposición, por sus propietarios, en los sitios y en la forma que determinen los municipios.
+37.- El Programa de Prevención y Atención a las Adicciones del Estado de México, abarcará a la población abierta, ubicará las zonas o sectores tanto urbanos, suburbanos o rurales que se identifiquen como sitios de riesgo o generador de adicciones; propiciará la participación de la familia y de la sociedad en la detección de los factores de riesgo y de protección, e impulsará también acciones tendientes a prevenir, reducir y evitar el consumo de sustancias psicoactivas.
 
-En caso de animales muertos abandonados el Instituto de Salud del Estado de México dictará las medidas necesarias para dar cumplimiento a lo señalado en el párrafo anterior, las cuales deberán ser atendidas por el municipio correspondiente.
-
-###### Artículo 2.
-
-37.- El Instituto de Salud del Estado de México realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-38.- Las localidades del Estado deben contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente por medio de alcantarillado o fosas sépticas.
+38.- Son Autoridades encargadas de la aplicación del presente capítulo:
 
-Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
+I. El Ejecutivo del Estado;
 
-#### SECCION TERCERA. De las sanciones
+II. La Secretaría de Salud;
+
+III. La Secretaría de Educación;
+
+IV. La Procuraduría General de Justicia del Estado de México;
+
+V. El Sistema para el Desarrollo Integral de la Familia del Estado de México;
+
+VI. La Agencia de Seguridad Estatal;
+
+VII. La Comisión de Derechos de Humanos del Estado de México;
+
+VIII. Los ayuntamientos del Estado de México, dentro del ámbito de su competencia; y
+
+IX. Las Dependencias, Entidades y Organismos de la Administración Pública Estatal, en los asuntos de su competencia conforme a lo dispuesto en este capítulo.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 2.
+
+39.- Para los efectos de este capítulo, la Secretaría de Salud tendrá las siguientes atribuciones:
+
+I. Cumplir con los lineamientos, medidas y acciones que dicte el Titular del Ejecutivo, en materia de prevención y atención de las adicciones;
+
+II. Coordinar con las Dependencias y Organismos Auxiliares de la Administración Pública Estatal, el diseño y la ejecución de programas y campañas específicas para la preservación de la salud pública;
+
+III. Instrumentar mecanismos para la adecuada prestación de los servicios de orientación y atención a las personas con problemas de adicción;
+
+IV. Llevar a cabo programas y acciones encaminadas a la prevención y atención del consumo de sustancias psicoactivas;
+
+V. Vigilar en su caso, el cumplimiento de las disposiciones jurídicas en materia de prevención y atención de las adicciones por parte de quienes brinden los servicios especializados en la materia;
+
+VI. Promover la formación y capacitación de recursos humanos especializados para la prevención y atención de las adicciones;
+
+VII. Actualizar permanentemente el padrón de instituciones y organismos que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
+
+VIII. Proporcionar asistencia técnica y apoyo a los establecimientos de rehabilitación y atención privados y sociales, con base en los lineamientos que fije el Ejecutivo del Estado;
+
+IX. Realizar actividades en materia de investigación científica respecto al uso, abuso y dependencia de sustancias psicoactivas. Para este fin podrá celebrar acuerdos de colaboración con los centros de estudios superiores, las universidades u organismos de investigación; y
+
+X. Llevar a cabo, a través del Instituto Mexiquense contra las Adicciones, los programas o acciones encaminadas a la prevención, atención del uso, abuso y dependencia de sustancias psicoactivas, así como su seguimiento y evaluación.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 2.
+
+40.- Para los efectos del presente capítulo, son atribuciones de la Secretaría de Educación:
+
+I. Diseñar y conducir campañas y acciones para la prevención de la salud, con el propósito de generar en los estudiantes, el desarrollo de competencias sociales y aptitudes de resistencia y rechazo a las adicciones;
+
+II. Garantizar ambientes escolares sin adicciones, en coordinación con las autoridades de Salud, de Seguridad Pública y de Procuración de Justicia;
+
+III. Promover, fomentar e impulsar la participación del personal docente, de los padres de familia y los alumnos en la aplicación, ejecución y desarrollo de las campañas y acciones contra las adicciones;
+
+IV. Enriquecer los contenidos de los programas con acciones específicas de orientación, a fin de prevenir el consumo de sustancias psicoactivas entre los escolares;
+
+V. Participar en el diseño de programas de investigación científica y tecnológica, que contribuyan a la prevención del consumo de sustancias psicoactivas, en coordinación con instituciones de educación superior;
+
+VI. Promover la participación de las asociaciones de padres de familia en la instrumentación de acciones para la formación de una cultura de prevención y atención de las adicciones;
+
+VII. Formar a los alumnos e informar a los padres de familia para que desde el seno familiar y en su ámbito vecinal, identifiquen la problemática de las adicciones y aprendan a manejar la influencia negativa que dicho fenómeno social genera en su salud e integridad; y
+
+VIII. Promover la colaboración de las asociaciones de padres de familia con el Instituto Mexiquense contra las Adicciones, en la ejecución de los distintos programas y medidas formativas e informativas para el desarrollo de recursos psicosociales de prevención y atención a las adicciones.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+#### SECCIÓN TERCERA. De las Autoridades
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 31.
 
@@ -2097,37 +2155,105 @@ El Estado Mayor General de la Armada es el órgano asesor operativo del Alto Man
 
 ###### Artículo 2.
 
-39.- Los sitios de cría y producción de animales domésticos deben localizarse fuera de las áreas urbanas y urbanizables.
+41.- Para los efectos del presente capítulo, son atribuciones de la Procuraduría General de Justicia del Estado de México:
+
+I. Participar en las acciones de prevención y atención de las adicciones y colaborar en el ámbito de su competencia;
+
+II. Colaborar con las instituciones públicas, en las acciones de prevención y atención de las adicciones que realicen de conformidad al objeto del presente capítulo;
+
+III. Considerar en los programas de prevención del delito, acciones en materia de prevención y atención de las adicciones;
+
+IV. Informar en su caso, a los sujetos del delito con problemas de fármacodependencia, sobre las instituciones que prestan atención en materia de adicciones para su tratamiento; y
+
+V. Las demás que en el ámbito de su competencia dispongan las disposiciones legales.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-40.- Las personas que realicen actividades o presten servicios de salubridad local sujetos al control sanitario del Instituto de Salud del Estado de México, que no requieran autorización sanitaria conforme al Capítulo siguiente, deben dar aviso por escrito al Instituto del inicio de sus operaciones.
+42.- Para los efectos del presente capítulo, son atribuciones del Sistema para el Desarrollo Integral de la Familia del Estado de México:
+
+I. Proponer acciones y estrategias de prevención de las adicciones que permitan desalentar el consumo de sustancias psicoactivas entre la población sujeta de la asistencia social;
+
+II. Promover el establecimiento y operación de los programas sobre prevención de las adicciones entre los Sistemas Municipales para el Desarrollo Integral de la Familia;
+
+III. Participar en coordinación con otras instituciones públicas y organizaciones de la sociedad civil, en la difusión de la corresponsabilidad social como valor fundamental en los programas y acciones para prevenir e inhibir el consumo de sustancias psicoactivas;
+
+IV. Participar con la Secretaría de Salud en el diseño de los mecanismos para brindar los servicios de prevención y orientación a los sujetos de la asistencia social con problemas de adicciones;
+
+V. Impulsar la difusión de programas que concienticen, orienten y prevengan a la población, sobre los efectos y consecuencias que ocasiona el consumo de sustancias psicoactivas en el entorno familiar;
+
+VI. Implementar programas específicos que concienticen, orienten y prevengan a la población, de los efectos y consecuencias del consumo de sustancias adictivas, en el entorno familiar;
+
+VII. Participar en coordinación con las Secretarías de Salud y de Educación, en el diseño de campañas y acciones de educación para la salud, con la finalidad de fomentar en los padres y tutores, el desarrollo de habilidades psicosociales, para la prevención y atención de las adicciones; y
+
+VIII. Implementar en coordinación con las instituciones públicas y de las organizaciones de la sociedad civil, campañas dirigidas a la población mexiquense para desalentar el consumo de sustancias psicoactivas, particularmente entre los sujetos de asistencia social.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-41.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, el Instituto de Salud del Estado de México podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
+43.- Para los efectos del presente capítulo, son atribuciones de la Agencia de Seguridad Estatal:
+
+I. Realizar acciones para la detección de la producción, venta, distribución, trasiego y consumo de sustancias prohibidas por la Ley;
+
+II. Realizar, de manera coordinada con las instancias correspondientes, dentro del marco de sus atribuciones, acciones bajo criterios médicos y tecnológicos aceptados, para la detección de conductores influenciados por sustancias psicoactivas; y
+
+III. Operar e instrumentar las acciones en materia de prevención y atención a las adicciones y al narcomenudeo en el ámbito de su competencia.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-42.- Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado al Instituto de Salud del Estado de México.
+44.- Para los efectos del presente capítulo, son atribuciones de la Comisión de Derechos Humanos del Estado de México:
+
+I. Velar por el respeto de los derechos humanos de las personas con problemas de adicciones;
+
+II. Difundir entre la población el derecho a la salud y atención de las personas con problemas de adicciones;
+
+III. Orientar o remitir, en su caso, a las instancias correspondientes a las personas que sufren violencia familiar derivada de la convivencia con personas con problemas de adicciones;
+
+IV. Promover la igualdad y la no discriminación de las personas con problemas de adicciones y de las que vivan con ellas; y
+
+V. Las demás que señalen las leyes y disposiciones de la materia.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-43.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración del Instituto de Salud del Estado de México para la aprobación del sistema adoptado.
+45.- En materia de prevención y atención a las adicciones, los municipios del Estado de México tendrán las atribuciones siguientes:
 
-Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por el Instituto.
+I. Realizar acciones que tiendan a la prevención del consumo de sustancias psicoactivas, en congruencia con los programas nacional y estatal;
+
+II. Coadyuvar a través de las corporaciones de tránsito, protección y seguridad pública municipales, con las autoridades de procuración de justicia y seguridad pública estatales, en la identificación de los lugares y sitios de distribución y venta de sustancias psicoactivas, para los efectos legales procedentes;
+
+III. Denunciar ante las Procuradurías General de la República y General de Justicia del Estado de México, en el ámbito de sus competencias, respectivamente, sobre la existencia de conductas que pueden constituir delitos contra la salud;
+
+IV. Establecer programas preventivos de control del uso y abuso de sustancias psicoactivas, en la esfera de sus atribuciones, con elementos médico-científicos;
+
+V. Conformar una red preventiva ciudadana para prevenir el uso y abuso de sustancias psicoactivas;
+
+VI. Realizar un diagnóstico sobre el estado que guarda el consumo de drogas a nivel municipal; y
+
+VII. Promover la creación de Unidades de Prevención y Tratamiento de las adicciones, en términos de las disposiciones legales correspondientes.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-44.- La autorización sanitaria es el acto administrativo mediante el cual el Instituto de Salud del Estado de México permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determinen este Título y su reglamento.
+46.- La Secretaría de Salud, por conducto del Instituto Mexiquense contra las Adicciones, implementará acciones conjuntas con los ayuntamientos para la prevención, el tratamiento y la rehabilitación de personas que sufren problemas de adicciones.
 
-Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-45.- Los panteones y crematorios requieren de licencia sanitaria, que deben exhibir en un lugar visible. Cuando los crematorios cambien de ubicación, requerirán nueva licencia.
+47.- Los ayuntamientos, para prevenir las adicciones, podrán restringir el expendio y consumo de bebidas alcohólicas y tabaco, en las distintas instalaciones recreativas y deportivas, o con motivo de la realización de festejos populares o tradicionales.
 
-#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+#### SECCIÓN CUARTA. De la participación municipal en la prevención y atención a las adicciones
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 37.
 
@@ -2163,171 +2289,161 @@ Para sancionar las faltas graves en contra de la disciplina naval, la Armada de 
 
 ###### Artículo 2.
 
-46.- Requieren de permiso sanitario previo:
+48.- Los ayuntamientos en sus bandos o reglamentos, obligarán a los propietarios y encargados de los establecimientos mercantiles que expenden bebidas alcohólicas a lo siguiente:
 
-I. El inicio y ocupación de las obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos, excepto aquellos de salud;
+I. Orientar sobre las alternativas de servicio de transporte a sus clientes, cuando consuman bebidas alcohólicas;
 
-II. El comercio de alimentos y bebidas en la vía pública;
+II. Verificar que las personas que consumen bebidas alcohólicas en esos establecimientos sean mayores de edad;
 
-III. El traslado de cadáveres de seres humanos a distancias mayores a cien kilómetros dentro del Estado.
+III. Evitar que se sirvan o expendan bebidas adulteradas, alteradas o contaminadas con sustancias tóxicas;
 
-La Secretaría de Salud emitirá normas técnicas en materia de ingeniería sanitaria, tratándose de obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos.
+IV. Cumplir con los horarios autorizados para la venta, expendio o consumo de bebidas alcohólicas; y
 
-El Instituto de Salud del Estado de México, con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
-
-###### Artículo 2.
-
-47.- El Instituto de Salud del Estado de México revocará las autorizaciones que haya otorgado en los casos siguientes:
-
-I. Por incumplimiento de las disposiciones de este Libro y su reglamentación;
-
-II. Cuando por causas supervenientes se compruebe que el ejercicio de las actividades que se hubieren autorizado constituyen un riesgo o daño para la salud humana;
-
-III. Por reiterada renuencia de los titulares de la autorización, a acatar las determinaciones que dicte el Instituto en los términos de este Libro y demás disposiciones legales aplicables;
-
-IV. Cuando resulten falsos los datos o documentos proporcionados por el interesado para el otorgamiento de la autorización;
-
-V. Cuando el interesado no se ajuste a los términos, condiciones y requisitos establecidos en la autorización o haga uso indebido o distinto de ésta.
-
-Cuando la revocación de una autorización se funde en los riesgos o daños a la salud, se hará del conocimiento de las dependencias y organismos auxiliares que tengan atribuciones de orientación al consumidor.
-
-La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio de las actividades que hubiesen sido autorizadas.
+V. Informar a sus clientes sobre los efectos nocivos del abuso en el consumo de alcohol.
 
 ###### Artículo 2.
 
-48.- El Instituto de Salud del Estado de México, independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
+49.- Corresponde al Instituto de Salud del Estado de México ejercer el control sanitario de:
 
-La recolección de muestras de productos y superficies se efectuará con sujeción a las disposiciones aplicables de la Ley General de Salud y de las normas oficiales de la materia.
+I. Comercio de alimentos y bebidas no alcohólicas en la vía pública;
 
-###### Artículo 2.
+II. Construcciones, excepto de los establecimientos de salud;
 
-49.- El Instituto de Salud del Estado de México, para proteger la salud, está facultado para dictar las medidas de seguridad sanitaria siguientes:
+III. Panteones y crematorios;
 
-I. El aislamiento, que es la separación de personas o animales infectados durante el periodo de transmisibilidad, a lugares y en condiciones que eviten el peligro de contagio;
+IV. Limpieza pública;
 
-II. La cuarentena, que es la limitación a la libertad de tránsito de personas sanas que hubiesen estado expuestas a una enfermedad transmisible;
+V. Agua potable y alcantarillado;
 
-III. La observación personal, que consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible;
+VI. Sitios de cría y producción de animales domésticos;
 
-IV. La vacunación de personas y animales, consistente en la estimulación de la inmunidad artificial y activa para protección de alguna enfermedad específica;
+VII. Centros de prevención y readaptación social;
 
-V. La destrucción o control de insectos u otra fauna transmisora y nociva, que es la aplicación de todo procedimiento físico o químico mediante el cual pueda eliminarse en el cuerpo de una persona, en la ropa o en el ambiente, los insectos, roedores u otros que reconocidamente sean capaces de transmitir enfermedades y que vivan en el cuerpo o en las habitaciones de las personas;
+VIII. Baños públicos;
 
-VI. La suspensión de trabajos o servicios, consistente en la ejecución de acciones para evitar la realización de actividades en locales, instalaciones, dependencias y anexos, cubiertos o descubiertos, fijos o móviles;
+IX. Centros de reunión públicos y espectáculos;
 
-VII. El aseguramiento o destrucción de objetos, productos o substancias, que es el procedimiento mediante el cual la autoridad sanitaria retiene para sí, para custodia de quien los posee o para su destrucción, aplicando mecanismos que considere convenientes, los objetos, productos o substancias que constituyan riesgo inminente o probable para el ser humano;
+X. Establecimientos dedicados a la prestación del servicio de peluquería, salones de belleza y similares;
 
-VIII. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, que es el procedimiento mediante el cual los espacios de los locales, sus instalaciones, dependencias y anexos, cubiertos o descubiertos, fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes y servicios, de prestación de servicios o de habitación únicamente, se encuentren libres de la presencia de seres humanos y animales domésticos;
+XI. Establecimientos de hospedaje;
 
-IX. La prohibición de actos de uso, que es la determinación mediante la cual se ordena a los poseedores, encargados u ocupantes la utilización de los aparatos, equipos, sustancias, productos terminados, recipientes o cualquier otro implemento empleado en procesos de producción de bienes y servicios o para la prestación de servicios;
+XII. Transporte de pasajeros;
 
-X. Las demás que determinen las autoridades sanitarias que tiendan a evitar riesgos o daños a la salud.
+XIII. Las demás que determine este Libro.
 
-Estas medidas serán de inmediata ejecución, durarán el tiempo estrictamente necesario para que desaparezca el peligro y se aplicarán sin perjuicio de las sanciones correspondientes.
+Para efectos de este Título se entiende por control sanitario el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones.
 
-###### Artículo 2.
-
-50.- Las medidas a que se refiere el artículo anterior se ordenarán:
-
-I. El aislamiento de personas o animales, cuando se detecte la presencia de enfermedades infecto-contagiosas en periodo de transmisibilidad;
-
-II. La cuarentena, cuando las personas sanas expuestas a una enfermedad transmisible constituyan un riesgo potencial de contagio;
-
-III. La observación personal, cuando se requiera que el profesionista de la salud realice estrecha supervisión de los presuntos portadores de enfermedades transmisibles;
-
-IV. La vacunación de personas expuestas a contraer enfermedades transmisibles:
-
-a) Cuando no hayan sido vacunadas contra enfermedades transmisibles cuya vacunación sea obligatoria;
-
-b) En caso de epidemia;
-
-c) Cuando exista peligro de invasión de enfermedades transmisibles en el Estado que puedan ser prevenidas mediante vacunación.
-
-V. La destrucción o control de insectos u otra fauna transmisora o nociva, cuando éstos constituyan un peligro grave para la salud de las personas;
-
-VI. La suspensión de trabajos o de servicios, o la prohibición de actos de uso, cuando, de continuar éstos, se ponga en peligro la salud de las personas.
-
-La suspensión de trabajos o servicios será temporal, parcial o total, y se aplicará por el tiempo estrictamente necesario para corregir las irregularidades. Durante la suspensión se podrá permitir el acceso de las personas que estén obligadas a corregir las irregularidades que la motivaron;
-
-VII. El aseguramiento de objetos, productos o sustancias, cuando exista sospecha fundada de que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables;
-
-VIII. La desocupación o desalojo de predios, casas, edificios o establecimientos, cuando se considere indispensable para evitar un daño a la salud o la vida de las personas.
+(REUBICADO [N. DE E. ANTES ARTICULO 2.31], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
-51.- El Instituto de Salud del Estado de México podrá retener o dejar los objetos, productos o sustancias en depósito, hasta en tanto no se determine su destino, previo dictamen de laboratorio acreditado.
+50.- Compete a la Secretaría de Salud la expedición de las normas técnicas estatales.
 
-Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución. En caso de que el interesado no gestione la recuperación dentro del plazo que se señale, se entiende que el bien causa abandono y quedará a disposición del Instituto para su aprovechamiento.
-
-Si del dictamen resulta que el bien asegurado es nocivo para la salud, se podrá someter a un tratamiento que haga posible su aprovechamiento por el interesado o determinar su destrucción.
+(REUBICADO [N. DE E. ANTES ARTICULO 2.32], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
-52.- Son sanciones administrativas:
+51.- Compete al Instituto de Salud del Estado de México realizar las acciones de fomento sanitario, que incluyen la difusión de la normatividad aplicable al buen funcionamiento de los establecimientos.
 
-I. Amonestación con apercibimiento;
-
-II. Multa;
-
-III. Clausura temporal o definitiva, parcial o total;
-
-IV. Arresto hasta por treinta y seis horas.
+(REUBICADO [N. DE E. ANTES ARTICULO 2.33], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
-53.- Las infracciones a lo previsto en este Título serán sancionadas por el Instituto de Salud del Estado de México, en los términos siguientes:
+52.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
 
-I. Con multa equivalente de cuarenta a cien veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en los artículos 2.45, en caso de no exhibir la licencia en un lugar visible, y 2.46;
-
-II. Con multa equivalente de cincuenta a quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.34;
-
-III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.36;
-
-IV. Con multa equivalente de mil a cuatro mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.45.
+(REUBICADO [N. DE E. ANTES ARTICULO 2.34], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
-54.- Las infracciones no previstas en esta Sección serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción.
+53.- Los edificios o locales, incluidos los centros de prevención y readaptación social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.34 Bis], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
-55.- En caso de reincidencia se duplicará el monto de la multa que corresponda. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de este Título dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
+53 Bis.- Los propietarios ó poseedores de los edificios y locales, o de los negocios en ellos establecidos, además de cumplir con la obligación de ejecutar las obras que se requieran para cumplir con las condiciones de higiene y de seguridad que establezcan las disposiciones legales y las normas sanitarias locales, tendrán la obligación de instalar aislantes de sonido, particularmente en restaurantes-bares, bares, discotecas y centros de espectáculos para no generar ruido en el medio ambiente, o contaminación, que afecte la salud de los usuarios, de dependientes y personal expuesto; así como el derecho de terceros, por encima de los siguientes niveles:
+
+Los límites máximos permisibles para las emisiones sonoras dentro de los establecimientos señalados, se determinan en función de decibeles ponderados en A [db(A)]; por lo que dentro de restaurantes, bares, discotecas y centros de espectáculos, los límites máximos de emisión y horarios son los siguientes, sin menoscabo de las regulaciones específicas en cuanto a los horarios de funcionamiento:
+
+a) De las 6:00 a 22:00 Hrs. 68 db(A); y
+
+b) De las 22:00 a las 6:00 Hrs, será de 65 db(A)
+
+Será obligación de los titulares instalar sistemas visibles cuya finalidad es tener a la vista de los usuarios y personal expuesto a contaminación auditiva, los niveles de ruido y dar a conocer si se encuentran en el rango permitido o se ha excedido; por lo que en ese momento los titulares y/o empleados tendrán la obligación de disminuir los volúmenes de sonido y ruido hasta que se mantengan en el rango permitido.
+
+Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo la seguridad de los usuarios.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.34 Ter], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
-56.- Procederá la clausura temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los casos siguientes:
+53 Ter.- Las instalaciones y edificios que se destinen a centros de reunión y/o espectáculos públicos, además de los requisitos reglamentarios respectivos, deberán dar cumplimiento a las disposiciones jurídicas aplicables en materia de límites máximos permisibles para las emisiones sonoras, así como tener acceso directo a la vía pública, espacios abiertos, escaleras de emergencia, y todas aquellas disposiciones que, a juicio del Ejecutivo del Estado, sean necesarias para la evacuación del público en caso de emergencia.
 
-I. Cuando los establecimientos a que se refieren los artículos 2.45 y 2.46 carezcan de la correspondiente autorización sanitaria;
-
-II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de este Título y de las disposiciones que de él emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
-
-III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, con motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud;
-
-IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
-
-V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud;
-
-VI. Reincidencia por tercera ocasión.
-
-En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubiesen otorgado al establecimiento o construcción de que se trate.
+(REUBICADO [N. DE E. ANTES ARTICULO 2.35], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
-57.- Se sancionará con arresto hasta por treinta y seis horas:
+54.- Los residuos sólidos municipales deben tratarse conforme a lo previsto en las normas técnicas estatales, de tal manera que no signifiquen un peligro para la salud y por ningún motivo se manipularán antes de su tratamiento o disposición final.
 
-I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria;
+(REUBICADO [N. DE E. ANTES ARTICULO 2.36], G.G. 30 DE SEPTIEMBRE DE 2010)
 
-II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
+###### Artículo 2.
 
-Sólo procederá esta sanción si previamente se dictó, en tres ocasiones, cualesquiera de otras sanciones a que se refiere esta Sección.
+55.- Los animales muertos deben ser incinerados o enterrados antes de que entren en descomposición, por sus propietarios, en los sitios y en la forma que determinen los municipios.
 
-Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+En caso de animales muertos abandonados el Instituto de Salud del Estado de México dictará las medidas necesarias para dar cumplimiento a lo señalado en el párrafo anterior, las cuales deberán ser atendidas por el municipio correspondiente.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.37], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+56.- El Instituto de Salud del Estado de México realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.38], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+57.- Las localidades del Estado deben contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente por medio de alcantarillado o fosas sépticas.
+
+Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.39], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+58.- Los sitios de cría y producción de animales domésticos deben localizarse fuera de las áreas urbanas y urbanizables.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.40], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+### CAPITULO PRIMERO. Disposiciones generales
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.30], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+59.- Las personas que realicen actividades o presten servicios de salubridad local sujetos al control sanitario del Instituto de Salud del Estado de México, que no requieran autorización sanitaria conforme al Capítulo siguiente, deben dar aviso por escrito al Instituto del inicio de sus operaciones.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.41], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, el Instituto de Salud del Estado de México podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.42], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+61.- Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado al Instituto de Salud del Estado de México.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.43], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ### CAPITULO SEGUNDO. De las autorizaciones sanitarias
 
-### CAPITULO TERCERO. De la vigilancia
+(REUBICADO [N. DE E. ANTES ARTICULO 2.44], G.G. 30 DE SEPTIEMBRE DE 2010)
 
-#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
+#### SECCION PRIMERA. De la recolección de muestras
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.48], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 41.
 
@@ -2365,7 +2481,63 @@ La resolución de la inconformidad deberá ser emitida en un término no mayor a
 
 Las inconformidades se regularán conforme a las disposiciones reglamentarias respectivas.
 
-#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
+###### Artículo 2.
+
+62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración del Instituto de Salud del Estado de México para la aprobación del sistema adoptado.
+
+Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por el Instituto.
+
+###### Artículo 2.
+
+63.- La autorización sanitaria es el acto administrativo mediante el cual el Instituto de Salud del Estado de México permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determinen este Título y su reglamento.
+
+Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.45], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+64.- Los panteones y crematorios requieren de licencia sanitaria, que deben exhibir en un lugar visible. Cuando los crematorios cambien de ubicación, requerirán nueva licencia.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.46], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+65.- Requieren de permiso sanitario previo:
+
+I. El inicio y ocupación de las obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos, excepto aquellos de salud;
+
+II. El comercio de alimentos y bebidas en la vía pública; y
+
+III. El traslado de cadáveres de seres humanos a distancias mayores a cien kilómetros dentro del Estado.
+
+La Secretaría de Salud emitirá normas técnicas en materia de ingeniería sanitaria, tratándose de obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos.
+
+El Instituto de Salud del Estado de México, con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.47], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+66.- El Instituto de Salud del Estado de México revocará las autorizaciones que haya otorgado en los casos siguientes:
+
+I. Por incumplimiento de las disposiciones de este Libro y su reglamentación;
+
+II. Cuando por causas supervenientes se compruebe que el ejercicio de las actividades que se hubieren autorizado constituyen un riesgo o daño para la salud humana;
+
+III. Por reiterada renuencia de los titulares de la autorización, a acatar las determinaciones que dicte el Instituto en los términos de este Libro y demás disposiciones legales aplicables;
+
+IV. Cuando resulten falsos los datos o documentos proporcionados por el interesado para el otorgamiento de la autorización;
+
+V. Cuando el interesado no se ajuste a los términos, condiciones y requisitos establecidos en la autorización o haga uso indebido o distinto de ésta.
+
+Cuando la revocación de una autorización se funde en los riesgos o daños a la salud, se hará del conocimiento de las dependencias y organismos auxiliares que tengan atribuciones de orientación al consumidor.
+
+La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio de las actividades que hubiesen sido autorizadas.
+
+#### SECCION SEGUNDA. De las medidas de seguridad sanitaria
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.49], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 43.
 
@@ -2491,9 +2663,159 @@ Los núcleos de los Cuerpos señalados están constituidos por personal que haya
 
 Las escalas de los cuerpos técnico profesional están integradas por el personal que haya realizado estudios en los establecimientos educativos navales de nivel medio superior o técnico profesional, reconocidas por la Secretaría de Educación Pública y que obtengan el título y la cédula profesional de acuerdo con los ordenamientos aplicables.
 
-#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
+###### Artículo 2.
+
+67.- El Instituto de Salud del Estado de México, independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
+
+La recolección de muestras de productos y superficies se efectuará con sujeción a las disposiciones aplicables de la Ley General de Salud y de las normas oficiales de la materia.
+
+###### Artículo 2.
+
+68.- El Instituto de Salud del Estado de México, para proteger la salud, está facultado para dictar las medidas de seguridad sanitaria siguientes:
+
+I. El aislamiento, que es la separación de personas o animales infectados durante el periodo de transmisibilidad, a lugares y en condiciones que eviten el peligro de contagio;
+
+II. La cuarentena, que es la limitación a la libertad de tránsito de personas sanas que hubiesen estado expuestas a una enfermedad transmisible;
+
+III. La observación personal, que consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible;
+
+IV. La vacunación de personas y animales, consistente en la estimulación de la inmunidad artificial y activa para protección de alguna enfermedad específica;
+
+V. La destrucción o control de insectos u otra fauna transmisora y nociva, que es la aplicación de todo procedimiento físico o químico mediante el cual pueda eliminarse en el cuerpo de una persona, en la ropa o en el ambiente, los insectos, roedores u otros que reconocidamente sean capaces de transmitir enfermedades y que vivan en el cuerpo o en las habitaciones de las personas;
+
+VI. La suspensión de trabajos o servicios, consistente en la ejecución de acciones para evitar la realización de actividades en locales, instalaciones, dependencias y anexos, cubiertos o descubiertos, fijos o móviles;
+
+VII. El aseguramiento o destrucción de objetos, productos o substancias, que es el procedimiento mediante el cual la autoridad sanitaria retiene para sí, para custodia de quien los posee o para su destrucción, aplicando mecanismos que considere convenientes, los objetos, productos o substancias que constituyan riesgo inminente o probable para el ser humano;
+
+VIII. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, que es el procedimiento mediante el cual los espacios de los locales, sus instalaciones, dependencias y anexos, cubiertos o descubiertos, fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes y servicios, de prestación de servicios o de habitación únicamente, se encuentren libres de la presencia de seres humanos y animales domésticos;
+
+IX. La prohibición de actos de uso, que es la determinación mediante la cual se ordena a los poseedores, encargados u ocupantes la utilización de los aparatos, equipos, sustancias, productos terminados, recipientes o cualquier otro implemento empleado en procesos de producción de bienes y servicios o para la prestación de servicios;
+
+X. Las demás que determinen las autoridades sanitarias que tiendan a evitar riesgos o daños a la salud.
+
+Estas medidas serán de inmediata ejecución, durarán el tiempo estrictamente necesario para que desaparezca el peligro y se aplicarán sin perjuicio de las sanciones correspondientes.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.50], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+69.- Las medidas a que se refiere el artículo anterior se ordenarán:
+
+I. El aislamiento de personas o animales, cuando se detecte la presencia de enfermedades infecto-contagiosas en periodo de transmisibilidad;
+
+II. La cuarentena, cuando las personas sanas expuestas a una enfermedad transmisible constituyan un riesgo potencial de contagio;
+
+III. La observación personal, cuando se requiera que el profesionista de la salud realice estrecha supervisión de los presuntos portadores de enfermedades transmisibles;
+
+IV. La vacunación de personas expuestas a contraer enfermedades transmisibles:
+
+a) Cuando no hayan sido vacunadas contra enfermedades transmisibles cuya vacunación sea obligatoria;
+
+b) En caso de epidemia;
+
+c) Cuando exista peligro de invasión de enfermedades transmisibles en el Estado que puedan ser prevenidas mediante vacunación.
+
+V. La destrucción o control de insectos u otra fauna transmisora o nociva, cuando éstos constituyan un peligro grave para la salud de las personas;
+
+VI. La suspensión de trabajos o de servicios, o la prohibición de actos de uso, cuando, de continuar éstos, se ponga en peligro la salud de las personas.
+
+La suspensión de trabajos o servicios será temporal, parcial o total, y se aplicará por el tiempo estrictamente necesario para corregir las irregularidades. Durante la suspensión se podrá permitir el acceso de las personas que estén obligadas a corregir las irregularidades que la motivaron;
+
+VII. El aseguramiento de objetos, productos o sustancias, cuando exista sospecha fundada de que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables; y
+
+VIII. La desocupación o desalojo de predios, casas, edificios o establecimientos, cuando se considere indispensable para evitar un daño a la salud o la vida de las personas.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.51], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+70.- El Instituto de Salud del Estado de México podrá retener o dejar los objetos, productos o sustancias en depósito, hasta en tanto no se determine su destino, previo dictamen de laboratorio acreditado.
+
+Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución. En caso de que el interesado no gestione la recuperación dentro del plazo que se señale, se entiende que el bien causa abandono y quedará a disposición del Instituto para su aprovechamiento.
+
+Si del dictamen resulta que el bien asegurado es nocivo para la salud, se podrá someter a un tratamiento que haga posible su aprovechamiento por el interesado o determinar su destrucción.
+
+###### Artículo 2.
+
+71.- Son sanciones administrativas:
+
+I. Amonestación con apercibimiento;
+
+II. Multa;
+
+III. Clausura temporal o definitiva, parcial o total; y
+
+IV. Arresto hasta por treinta y seis horas.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.53] Y REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2010)
+
+#### SECCION TERCERA. De las sanciones
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+72.- Las infracciones a lo previsto en este Título serán sancionadas por el Instituto de Salud del Estado de México, en los términos siguientes:
+
+I. Con multa equivalente de cuarenta a cien veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en los artículos 2.64, en caso de no exhibir la licencia en un lugar visible, y 2.65;
+
+II. Con multa equivalente de cincuenta a quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.53;
+
+III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55; y
+
+IV. Con multa equivalente de mil a cuatro mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.54], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+73.- Las infracciones no previstas en esta Sección serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.55], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+74.- En caso de reincidencia se duplicará el monto de la multa que corresponda. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de este Título dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+75.- Procederá la clausura temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los casos siguientes:
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+I. Cuando los establecimientos a que se refieren los artículos 2.64 y 2.65 carezcan de la correspondiente autorización sanitaria;
+
+II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de este Título y de las disposiciones que de él emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
+
+III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, con motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud;
+
+IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
+
+V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud;
+
+VI. Reincidencia por tercera ocasión.
+
+En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubiesen otorgado al establecimiento o construcción de que se trate.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ## TITULO PRIMERO. Disposiciones generales
+
+### CAPITULO TERCERO. De la vigilancia
+
+###### Artículo 2.
+
+76.- Se sancionará con arresto hasta por treinta y seis horas:
+
+I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria;
+
+II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
+
+Sólo procederá esta sanción si previamente se dictó, en tres ocasiones, cualesquiera de otras sanciones a que se refiere esta Sección.
+
+Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -2501,25 +2823,17 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
-### CAPITULO PRIMERO. Disposiciones generales
+#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
 
-#### SECCION PRIMERA. Disposiciones generales
+#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
-
-#### SECCION SEGUNDA. De la licitación pública
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
-
-#### SECCION TERCERA. De las excepciones a la licitación pública
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
 
 # LIBRO TERCERO. De la educación, ejercicio profesional, investigación científica y tecnológica, cultura, deporte, juventud, instalaciones educativas y mérito civil
 
 ## TITULO SEGUNDO. De la educación
 
-### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 3.
 
@@ -2557,7 +2871,7 @@ V. Las instituciones públicas y privadas dedicadas a la investigación científ
 
 VI. Los profesionistas y sus asociaciones o colegios.
 
-### CAPITULO TERCERO. Del financiamiento de la educación
+### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
 
 ###### Artículo 3.
 
@@ -2573,7 +2887,7 @@ Las atribuciones en las materias de ejercicio profesional y mérito civil corres
 
 ## TITULO TERCERO. Del ejercicio profesional
 
-### CAPITULO CUARTO. De los profesionistas al servicio de la educación del Estado
+### CAPITULO TERCERO. Del financiamiento de la educación
 
 ###### Artículo 3.
 
@@ -2671,7 +2985,7 @@ VIII. Promover y apoyar los programas y acciones de capacitación y difusión di
 
 IX. Implementar, en coordinación con las autoridades federales y estatales, programas de educación ambiental en las comunidades de los municipios, buscando se vinculen con proyectos prácticos, que fomenten la conciencia ambiental de sus habitantes.
 
-### CAPITULO QUINTO. De la participación social en la educación
+### CAPITULO CUARTO. De los profesionistas al servicio de la educación del Estado
 
 ###### Artículo 3.
 
@@ -2703,7 +3017,7 @@ La integración, organización y funcionamiento del Consejo Técnico de Educaci�
 
 12.- Las instituciones educativas establecidas por el Estado y los municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, otorgarán a las autoridades educativas todas las facilidades y colaboración para la evaluación a que se refiere el artículo anterior. Para ello, proporcionarán oportunamente toda la información que se les requiera, tomarán las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos educativos, y facilitarán que las autoridades educativas realicen exámenes y estudios para fines estadísticos y de diagnóstico, y recaben directamente en las escuelas la información necesaria.
 
-### CAPITULO SEXTO. De las recompensas y estímulos
+### CAPITULO QUINTO. De la participación social en la educación
 
 ###### Artículo 3.
 
@@ -2723,7 +3037,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 16.- Las inversiones que en materia educativa realicen el Estado, los municipios, los organismos descentralizados y los particulares son de interés social.
 
-### CAPITULO SEPTIMO. De los particulares que imparten educación
+### CAPITULO SEXTO. De las recompensas y estímulos
 
 ###### Artículo 3.
 
@@ -2737,7 +3051,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 19.- Los servidores públicos docentes tendrán derecho a un salario profesional que les permita acceder a un nivel de vida decoroso para su familia.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEPTIMO. De los particulares que imparten educación
 
 ###### Artículo 3.
 
@@ -2751,7 +3065,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 22.- La Secretaría de Educación, Cultura y Bienestar Social promoverá la participación de la sociedad a través de los consejos de participación social estatal, municipales y escolares, como órganos de consulta, orientación y apoyo, de conformidad con lo previsto en la Ley General de Educación.
 
-### CAPITULO SEGUNDO. De los profesionistas
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 3.
 
@@ -2763,7 +3077,7 @@ Asimismo, el Estado procurará fortalecer las fuentes de financiamiento a la tar
 
 Para su otorgamiento la Secretaría de Educación, Cultura y Bienestar Social contará con un Consejo Técnico, cuya integración y funcionamiento se regirá por la reglamentación correspondiente.
 
-### CAPITULO TERCERO. De las asociaciones de profesionistas
+### CAPITULO SEGUNDO. De los profesionistas
 
 ###### Artículo 3.
 
@@ -2779,7 +3093,7 @@ En los demás casos podrán obtener el reconocimiento de validez oficial de estu
 
 ## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
 
-### CAPITULO CUARTO. Del Registro Estatal de Educación
+### CAPITULO TERCERO. De las asociaciones de profesionistas
 
 ###### Artículo 3.
 
@@ -2811,7 +3125,7 @@ VII. Publicar anualmente en la Gaceta del Gobierno una relación de las asociaci
 
 30.- El Gobernador del Estado, previo dictamen de la Secretaría de Educación, Cultura y Bienestar Social y oyendo la opinión de las instituciones de educación media superior y superior, de las asociaciones de profesionistas, y del Consejo Técnico de Educación, expedirá los reglamentos correspondientes a los distintos campos de acción profesional.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO CUARTO. Del Registro Estatal de Educación
 
 ###### Artículo 3.
 
@@ -2849,7 +3163,7 @@ III. Cuando exista orden judicial escrita, salvo las excepciones que contemplen 
 
 37.- En caso de perturbación grave de la paz pública, siniestro, desastre o cualquier otro evento que ponga a la sociedad en peligro o conflicto, los profesionistas y sus asociaciones o colegios deberán prestar su servicio en apoyo a los afectados.
 
-### CAPITULO SEGUNDO. De la Presea "Estado de México"
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 3.
 
@@ -2905,9 +3219,7 @@ XIII. Cumplir con lo establecido en el presente Título y la reglamentación que
 
 43.- Los colegios de profesionistas serán ajenos a toda actividad de carácter político partidista y religioso.
 
-### CAPITULO TERCERO. De la Inhumación en la Rotonda de las Personas Ilustres del Estado de México
-
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+### CAPITULO SEGUNDO. De la Presea "Estado de México"
 
 ###### Artículo 3.
 
@@ -3191,9 +3503,9 @@ Los ingresos del Comité, así como los productos e instrumentos financieros aut
 
 ## TITULO DECIMO. De las infracciones y sanciones
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. De la Inhumación en la Rotonda de las Personas Ilustres del Estado de México
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -3247,7 +3559,7 @@ III. La inhumación en la Rotonda de las Personas Ilustres del Estado de México
 
 63.- La Presea "Estado de México" también podrá concederse post-mortem a quienes, teniendo merecimientos para ello, hayan fallecido en el año inmediato anterior al de la premiación.
 
-### CAPITULO SEGUNDO. De las Definiciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3273,7 +3585,7 @@ El derecho al uso de la presea a que se refiere este Capítulo, se extingue por 
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
-### CAPITULO TERCERO. De las Autoridades y sus Atribuciones
+### CAPITULO SEGUNDO. De las Definiciones
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3349,7 +3661,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Turismo Sustentable
+### CAPITULO TERCERO. De las Autoridades y sus Atribuciones
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3381,7 +3693,7 @@ VII. Promover una cultura turística entre los mexicanos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO UNICO. De las Zonas de Interes Turístico
+### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Turismo Sustentable
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3407,7 +3719,7 @@ VIII. Servicios Turísticos.- Bienes y servicios que se otorgan a las personas q
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. De la Promoción Turística
+### CAPITULO UNICO. De las Zonas de Interes Turístico
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3473,7 +3785,7 @@ IX. Las demás que este Libro y otros ordenamientos legales señalen.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO SEGUNDO. De las Actividades de la Promoción Turística
+### CAPITULO PRIMERO. De la Promoción Turística
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3489,7 +3801,7 @@ En todos los casos, la selección de las zonas de Interés Turístico deberá co
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO TERCERO. Del Fomento al Turismo
+### CAPITULO SEGUNDO. De las Actividades de la Promoción Turística
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3519,7 +3831,7 @@ V. Las demás que reglamentariamente sean establecidas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
+### CAPITULO TERCERO. Del Fomento al Turismo
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3553,7 +3865,7 @@ VIII. Instalación de oficinas de información turística y señalización de lo
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO SEGUNDO. Del Registro Estatal de Prestadores de Servicios Turísticos
+### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3581,7 +3893,7 @@ IV. Servir de referente para el control y monitoreo de tarifas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. De las Normas de Turismo
+### CAPITULO SEGUNDO. Del Registro Estatal de Prestadores de Servicios Turísticos
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3603,7 +3915,7 @@ La Secretaría podrá participar también en los comités consultivos nacionales
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
+### CAPITULO PRIMERO. De las Normas de Turismo
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3651,7 +3963,7 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. De la Inspección de la Actividad Turística
+### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3659,7 +3971,7 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 20.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO SEGUNDO. Del Régimen Sancionador
+### CAPITULO PRIMERO. De la Inspección de la Actividad Turística
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3673,13 +3985,15 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. Del Régimen Sancionador
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
 22.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO SEGUNDO. De las autoridades
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 4.
 
@@ -3689,7 +4003,7 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO TERCERO. De la Comisión Estatal de Desarrollo Urbano y Vivienda
+### CAPITULO SEGUNDO. De las autoridades
 
 ###### Artículo 4.
 
@@ -3703,7 +4017,7 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 26.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Desarrollo Urbano
+### CAPITULO TERCERO. De la Comisión Estatal de Desarrollo Urbano y Vivienda
 
 ###### Artículo 4.
 
@@ -3719,7 +4033,7 @@ La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamen
 
 ## TITULO SEGUNDO. De las conurbaciones y zonas metropolitanas
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Desarrollo Urbano
 
 ###### Artículo 5.
 
@@ -3799,7 +4113,7 @@ IV. Proponer ante la Legislatura del Estado la fundación de nuevos centros de p
 
 V. Las demás que le confieran las disposiciones legales.
 
-### CAPITULO SEGUNDO. De la clasificación del territorio
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 5.
 
@@ -3927,7 +4241,7 @@ IX. Expedir su reglamento interno para regular su integración, organización y 
 
 X. Las demás que sean necesarias para el cumplimiento de su objeto.
 
-### CAPITULO TERCERO. De la zonificación y de la conservación, mejoramiento y crecimiento de los centros de población
+### CAPITULO SEGUNDO. De la clasificación del territorio
 
 ###### Artículo 5.
 
@@ -3953,7 +4267,7 @@ VII. Expedir su reglamento interno para regular su integración, organización y
 
 VIII. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De la zonificación y de la conservación, mejoramiento y crecimiento de los centros de población
 
 ###### Artículo 5.
 
@@ -3985,7 +4299,7 @@ IV. Las demás acciones que convengan el Estado y los municipios correspondiente
 
 ## TITULO TERCERO. Del sistema estatal de planes de desarrollo urbano y de las regulaciones a la propiedad en los centros de población
 
-### CAPITULO SEGUNDO. De los conjuntos urbanos
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 5.
 
@@ -4021,7 +4335,7 @@ IV. Los planes de centros de población;
 
 V. Los planes parciales.
 
-### CAPITULO TERCERO. De las subdivisiones, fusiones y sus relotificaciones
+### CAPITULO SEGUNDO. De los conjuntos urbanos
 
 ###### Artículo 5.
 
@@ -4041,11 +4355,9 @@ IV. Adoptarán la estructura, contenido, terminología y demás elementos que es
 
 25.- Los planes de desarrollo urbano de competencia municipal y sus programas, deberán sujetarse a las políticas y estrategias del Plan Estatal de Desarrollo Urbano y cuando corresponda, a las del respectivo plan regional de desarrollo urbano. Los que se realicen en contravención a esta disposición, serán nulos y no producirán efecto jurídico alguno.
 
-### CAPITULO CUARTO. De la lotificación para condominios
+### CAPITULO TERCERO. De las subdivisiones, fusiones y sus relotificaciones
 
-#### SECCION CUARTA. De la invitación restringida
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
 ###### Artículo 5.
 
@@ -4053,7 +4365,7 @@ IV. Adoptarán la estructura, contenido, terminología y demás elementos que es
 
 Las acciones e inversiones que se lleven a cabo en el territorio estatal, deberán ser congruentes con los planes de desarrollo urbano a que se refiere este Libro.
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION PRIMERA. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -4063,9 +4375,9 @@ Las acciones e inversiones que se lleven a cabo en el territorio estatal, deber�
 
 El ejercicio del derecho de propiedad, posesión o cualquier otro derivado de la tenencia de bienes inmuebles ubicados en los centros de población, se sujetará a lo dispuesto en los planes a que se refiere el párrafo anterior y en las autorizaciones y licencias de que trata este Libro.
 
-#### SECCION PRIMERA. Disposiciones generales
+#### SECCION SEGUNDA. De la licitación pública
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -4083,7 +4395,7 @@ V. Los planes, una vez aprobados, deberán publicarse conjuntamente con el acuer
 
 VI. Los planes serán inscritos, con todos sus documentos integrantes, en el Registro Público de la Propiedad y en el Registro Estatal de Desarrollo Urbano, dentro de los quince días siguientes al de su publicación.
 
-### CAPITULO QUINTO. De la licencia de uso del suelo y de la cédula informativa de zonificación
+### CAPITULO CUARTO. De la lotificación para condominios
 
 ###### Artículo 5.
 
@@ -4123,11 +4435,11 @@ III. De control, que buscan disminuir o desalentar el ritmo de crecimiento de ce
 
 ## TITULO CUARTO. De las autorizaciones y licencia estatal y municipales
 
-### CAPITULO SEXTO. De la licencia de construcción
+### CAPITULO QUINTO. De la licencia de uso del suelo y de la cédula informativa de zonificación
 
-#### SECCION SEGUNDA. De la licitación pública
+#### SECCION TERCERA. De las excepciones a la licitación pública
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -4219,9 +4531,9 @@ d) En las zonas y construcciones declaradas del patrimonio histórico, artístic
 
 El patrimonio histórico, artístico y cultural estará constituido por los inmuebles vinculados a la historia local o nacional o que tengan valor arquitectónico, las plazas, parques y calles que contengan expresiones de arte o que constituyan apariencia tradicional, y las zonas arqueológicas y poblados típicos.
 
-#### SECCION TERCERA. De las excepciones a la licitación pública
+#### SECCION CUARTA. De la invitación restringida
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -4235,9 +4547,9 @@ Para los efectos de este Libro, se considera asentamiento humano irregular al co
 
 36.- Las autorizaciones y licencias que emitan las autoridades de desarrollo urbano, se ajustarán a lo establecido por este Libro, su reglamentación y los planes de desarrollo urbano. Las que se expidan en contravención a esta disposición serán nulas y no producirán efecto jurídico alguno.
 
-#### SECCION CUARTA. De la invitación restringida
+#### SECCION QUINTA. De la adjudicación directa
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -4247,7 +4559,7 @@ Para los efectos de este Libro, se considera asentamiento humano irregular al co
 
 38.- Los registradores de la propiedad sólo inscribirán las escrituras públicas a que se refiere el artículo anterior, cuando contengan la mención de las autorizaciones y licencias correspondientes de desarrollo urbano.
 
-#### SECCION QUINTA. D la adjudicación directa
+#### SECCION PRIMERA. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -4271,9 +4583,9 @@ III. Abasto, comercio y servicios;
 
 IV. Mixto.
 
-#### SECCIÓN SEXTA. DE LA SUBASTA INVERSA ELECTRÓNICA
+#### SECCION SEGUNDA. De la licitación pública
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 5.
 
@@ -4353,7 +4665,7 @@ Cuando se lleve a cabo un conjunto urbano con el propósito de cumplir un fideic
 
 El comprador de lotes en bloque será solidariamente responsable con el titular de la autorización del conjunto urbano, respecto de las obligaciones establecidas en la autorización correspondiente.
 
-#### SECCION PRIMERA. De la subasta pública
+#### SECCION TERCERA. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -4381,7 +4693,7 @@ Será aplicable para las subdivisiones, como corresponda, la tipología prevista
 
 50.- La subdivisión de un predio situado en áreas no urbanizables, se autorizará siempre que los lotes resultantes queden con frente o acceso a vías públicas existentes y no se dediquen a fines urbanos.
 
-#### SECCION PRIMERA. Disposiciones generales
+#### SECCION CUARTA. De la invitación restringida
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -4417,7 +4729,7 @@ V. se (sic) trate de predios a que se refiere el párrafo segundo del artículo 
 
 54.- En las autorizaciones de fusión, subdivisión y sus relotificaciones, se dejará constancia del uso del suelo de los lotes resultantes y de su densidad e intensidad de aprovechamiento.
 
-#### SECCION SEGUNDA. De la licitación pública
+#### SECCION QUINTA. De la adjudicación directa
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -4437,9 +4749,9 @@ Los condominios adoptarán la tipología establecida en este Libro para los conj
 
 En condominios habitacionales de cualquier modalidad, el número máximo de viviendas será de 60 por cada predio o cada lote resultante de la subdivisión o conjunto urbano que al efecto se lleve a cabo.
 
-#### SECCION TERCERA. De las excepciones a la licitación pública
+#### SECCIÓN SEXTA. DE LA SUBASTA INVERSA ELECTRÓNICA
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 5.
 
@@ -4453,9 +4765,9 @@ En la escritura pública de constitución del respectivo condominio, se insertar
 
 No estarán afectos a la obligación precedente los condominios que se proyecte realizar en los lotes provenientes de conjuntos urbanos o subdivisiones autorizadas, en las que se hayan ya establecido tales obligaciones.
 
-### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
+### CAPITULO SEXTO. De la licencia de construcción
 
-#### SECCION CUARTA. De la invitación restringida
+#### SECCION PRIMERA. De la subasta pública
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -4535,7 +4847,7 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 La cédula informativa de zonificación no constituirá autorización para ejecución de obra alguna, ni requisito para la obtención de autorizaciones o licencias.
 
-### CAPITULO PRIMERO. De las medidas de seguridad
+### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
 
 ###### Artículo 5.
 
@@ -4563,7 +4875,7 @@ X. Las construcciones de equipamiento turístico y gasolineras, serán las únic
 
 XI. Las dedicadas a servicios de radiotelecomunicación o similares y anuncios publicitarios que requieran elementos estructurales, se ajustarán a las disposiciones reglamentarias.
 
-### CAPITULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO PRIMERO. De las medidas de seguridad
 
 ###### Artículo 5.
 
@@ -4595,7 +4907,7 @@ XII. Las vías públicas contarán con placas en las que se consigne el nombre y
 
 ## TITULO QUINTO. Del Registro Estatal de Desarrollo Urbano
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las infracciones y sanciones
 
 ###### Artículo 5.
 
@@ -4727,9 +5039,7 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 ## TITULO SEXTO. De las medidas de seguridad y sanciones
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 5.
 
@@ -4783,7 +5093,9 @@ V. Se dejará libre de explotación una franja no menor de veinte metros de anch
 
 VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin riesgo de derrumbes o daños a terceros.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 5.
 
@@ -4823,7 +5135,7 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 6.
 
@@ -4837,7 +5149,7 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 3.- Son aplicables a este Libro los conceptos, principios y lineamientos establecidos en la Ley General de Protección Civil.
 
-### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
+### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
 ###### Artículo 6.
 
@@ -4845,13 +5157,13 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 ## TITULO SEGUNDO. De los sistemas de protección civil
 
-### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
+### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
 
 ###### Artículo 6.
 
 5.- Los sistemas de protección civil se constituyen por el conjunto de órganos, instrumentos, métodos y procedimientos que establecen las dependencias, organismos y entidades del sector público estatal o municipal, según corresponda, con la participación de los sectores social y privado, para la ejecución coordinada de acciones de protección civil.
 
-### CAPITULO QUINTO. De los grupos voluntarios
+### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
 
 ###### Artículo 6.
 
@@ -4977,7 +5289,7 @@ X. Las demás que se prevean en la reglamentación de este Libro.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO SEXTO. De las unidades internas
+### CAPITULO QUINTO. De los grupos voluntarios
 
 ###### Artículo 6.
 
@@ -5007,9 +5319,7 @@ Los sistemas municipales deberán vincularse y coordinarse con el sistema estata
 
 12.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil, fundamentalmente enfocadas a prevenir en la materia, sin descuidar aquellas referidas al auxilio y recuperación. Asimismo tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO SEXTO. De las unidades internas
 
 ###### Artículo 6.
 
@@ -5047,7 +5357,7 @@ X. Coadyuvar en la difusión de programas de protección civil;
 
 XI. Promover y difundir la cultura de protección civil en el Estado.
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -5061,9 +5371,9 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 17.- Las unidades internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría General de Gobierno.
 
-### CAPITULO TERCERO. De las infracciones y sanciones
+### CAPITULO SEGUNDO. De las medidas de seguridad
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -5079,9 +5389,9 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 20.- (DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -5103,7 +5413,9 @@ Una vez concluidas las construcciones derivadas del uso de suelo a que se refier
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 6.
 
@@ -5237,19 +5549,17 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 
 ## TITULO OCTAVO. De la vigilancia
 
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
 ### CAPITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
-
-### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
 # LIBRO SEPTIMO. De las Comunicaciones y Transportes
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2008)</small>
+### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
 ###### Artículo 7.
 
@@ -5273,9 +5583,9 @@ II. Que se cuente con transporte seguro, eficiente y de calidad.
 
 3.- Se considera de utilidad pública e interés general, la construcción, conservación, operación, explotación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local, así como la prestación del servicio público de transporte.
 
-### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2008)</small>
 
 ###### Artículo 7.
 
@@ -5303,7 +5613,9 @@ VII. Los municipios, que tendrán a su cargo las facultades relativas a la infra
 
 ## TITULO SEGUNDO. De la infraestructura vial
 
-### CAPITULO PRIMERO. De las concesiones y permisos
+### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 7.
 
@@ -5319,9 +5631,7 @@ La infraestructura vial podrá ser libre de peaje, y de cuota.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+### CAPITULO PRIMERO. De las concesiones y permisos
 
 ###### Artículo 7.
 
@@ -5429,7 +5739,9 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 7.
 
@@ -5459,7 +5771,7 @@ III. Cubrir los daños que ocasionen a la infraestructura vial.
 
 ## TITULO TERCERO. Del transporte
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 7.
 
@@ -5681,7 +5993,7 @@ Para estos efectos, los concesionarios y permisionarios que cuenten con los elem
 
 b). Para estos efectos, los propietarios o poseedores de vehículos automotores que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la revisión, en términos de las disposiciones secundarias correspondientes.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 7.
 
@@ -5719,7 +6031,7 @@ Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las conc
 
 32.- Tratándose de concesiones para el servicio público de transporte de alta capacidad o masivo, la vigencia y su prórroga se determinarán considerando el monto de la inversión, el tiempo para su recuperación y la obligación del concesionario para renovar, conservar y mantener en buen estado de funcionamiento las vías, instalaciones, equipo y flota vehicular con que se preste el servicio, apegándose a la normatividad de protección al ambiente.
 
-### CAPITULO SEGUNDO. De los vehículos
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
@@ -5749,7 +6061,7 @@ IV. La instalación y explotación de anuncios publicitarios en los diversos tip
 
 Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, establecerán las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
 
-### CAPITULO TERCERO. De los conductores
+### CAPITULO SEGUNDO. De los vehículos
 
 ###### Artículo 7.
 
@@ -5849,9 +6161,7 @@ Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinera
 
 ## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+### CAPITULO TERCERO. De los conductores
 
 ###### Artículo 7.
 
@@ -5863,7 +6173,7 @@ II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra l
 
 III. En general, pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales aplicables o sus reglamentos.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
@@ -5875,7 +6185,9 @@ La hipoteca podrá constituirse por un lapso que en ningún caso comprenderá la
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO TERCERO. De las organizaciones de productores
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 7.
 
@@ -6147,23 +6459,23 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 60.- Cuando se incurra dos o más veces en infracciones que sean sancionadas con multa, en un periodo de seis meses, contado a partir de la primera, se considerará reincidencia, aplicándose el doble del monto inicial de la multa, sin perjuicio de que le sea aplicable la revocación de la concesión o permiso.
 
+### CAPITULO TERCERO. De las organizaciones de productores
+
 ### CAPITULO PRIMERO. De la producción y transformación
 
 ### CAPITULO SEGUNDO. De la comercialización
 
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
-
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
-### CAPITULO QUINTO. De los apoyos y estímulos
+### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
 # LIBRO OCTAVO. Del tránsito y estacionamientos de servicio al público
 
 ## TITULO SEGUNDO. Del tránsito
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO QUINTO. De los apoyos y estímulos
 
 ###### Artículo 8.
 
@@ -6173,7 +6485,7 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 8.
 
@@ -6185,9 +6497,7 @@ Corresponde a la Secretaría General de Gobierno por conducto de la Agencia de S
 
 ## TITULO TERCERO. De los estacionamientos de servicio al público
 
-### CAPITULO TERCERO. De los consejos consultivos económicos
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 8.
 
@@ -6233,7 +6543,9 @@ II. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en rel
 
 III. Ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De los consejos consultivos económicos
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 8.
 
@@ -6343,7 +6655,7 @@ k) Efectuar carreras o arrancones en la vía pública;
 
 l) Obstruir los accesos y espacios destinados a las personas con capacidades diferentes.
 
-### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 8.
 
@@ -6365,7 +6677,7 @@ II. En materia de estacionamientos, la multa se calculará multiplicando el núm
 
 ## TITULO CUARTO. De las infracciones y sanciones
 
-### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
+### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
 ###### Artículo 8.
 
@@ -6379,7 +6691,7 @@ III. Detener la marcha de cualquier vehículo cuando el conductor esté cometien
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-### CAPITULO CUARTO. Del turismo
+### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
 ###### Artículo 8.
 
@@ -6425,7 +6737,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 ## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO CUARTO. Del turismo
 
 ###### Artículo 9.
 
@@ -6437,9 +6749,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias y acuícolas para contribuir al desarrollo rural del Estado.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 9.
 
@@ -6449,7 +6759,9 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 4.- Los municipios podrán participar en las acciones reguladas en este Libro.
 
-### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 9.
 
@@ -6463,7 +6775,7 @@ Se entiende por productor rural la persona física que directa o indirectamente 
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
+### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
 ###### Artículo 9.
 
@@ -6501,7 +6813,7 @@ III. Que los programas para la tecnificación del riego que realicen los diferen
 
 IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
 
 ###### Artículo 9.
 
@@ -6521,7 +6833,7 @@ VI. La formación y capacitación de árbitros, así como la constitución de un
 
 VII. La integración de cadenas productivas, y mecanismos que permitan la obtención de financiamientos con tasas preferenciales, en materia de comercialización.
 
-### CAPITULO SEGUNDO. De la atención médica
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### Artículo 9.
 
@@ -6601,7 +6913,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO TERCERO. De la educación regular y especial
+### CAPITULO SEGUNDO. De la atención médica
 
 ###### Artículo 9.
 
@@ -6615,7 +6927,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+### CAPITULO TERCERO. De la educación regular y especial
 
 ###### Artículo 9.
 
@@ -6651,7 +6963,7 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(DEROGADO CON LOS ARTICULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO QUINTO. Del tránsito y transporte
+### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
 
 ###### Artículo 9.
 
@@ -6673,7 +6985,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
+### CAPITULO QUINTO. Del tránsito y transporte
 
 # LIBRO DECIMO. Del fomento económico
 
@@ -6683,7 +6995,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
+### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
 ###### Artículo 10.
 
@@ -6695,7 +7007,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
+### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
 ###### Artículo 10.
 
@@ -6711,7 +7023,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
+### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
 
 ###### Artículo 10.
 
@@ -6735,9 +7047,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
 
 ###### Artículo 10.
 
@@ -6753,7 +7063,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6771,9 +7081,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. De los procedimientos de adjudicación
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 10.
 
@@ -6789,9 +7099,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO CUARTO. De la contratación
+### CAPITULO TERCERO. De los procedimientos de adjudicación
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 10.
 
@@ -6845,7 +7155,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
 
-### CAPITULO QUINTO. De la ejecución
+### CAPITULO CUARTO. De la contratación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6863,7 +7173,7 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 3.- Los servicios que presten las instituciones para la rehabilitación de personas con capacidades diferentes, aún cuando se denominen, ostenten o constituyan bajo otra modalidad, se sujetarán a las disposiciones previstas en la Ley General de Salud y este Libro.
 
-### CAPITULO SEXTO. De la administración directa
+### CAPITULO QUINTO. De la ejecución
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6883,7 +7193,7 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 7.- Las disposiciones de este Libro se aplicarán sin perjuicio de lo previsto en las Leyes Generales de Salud y de Educación, los Libros Segundo, Tercero, Quinto y Séptimo, así como la legislación en materia de asistencia social y privada.
 
-### CAPITULO SEPTIMO. De la información, verificación y control
+### CAPITULO SEXTO. De la administración directa
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6917,7 +7227,7 @@ XII. Promover los derechos de las personas con capacidades diferentes, así como
 
 XIII. Proporcionar orientación y asistencia jurídica en juicios de interdicción y en acciones legales, con particular atención de las personas con discapacidad mental.
 
-### CAPITULO OCTAVO. De los medios de defensa
+### CAPITULO SEPTIMO. De la información, verificación y control
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -6945,9 +7255,9 @@ Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivo
 
 ## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
 
-### CAPITULO PRIMERO. Parte general
+### CAPITULO OCTAVO. De los medios de defensa
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -6979,7 +7289,7 @@ De acuerdo con el resultado del diagnóstico que hayan emitido la o las comision
 
 La calificación realizada por las comisiones de valoración responderá a criterios técnicos unificados y tendrá validez ante cualquier dependencia, organismo público o privado del Estado.
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+### CAPITULO PRIMERO. Parte general
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7027,9 +7337,9 @@ I. Procurar la extensión cuantitativa y cualitativa de los servicios de atenci�
 
 II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de la población con capacidades diferentes.
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7067,9 +7377,9 @@ IV. Lograr la incorporación de la persona con capacidades diferentes a la vida 
 
 25.- Los hijos de trabajadores con capacidades diferentes gozarán de servicio gratuito de guardería, para ello, las instituciones educativas y sanitarias estatales promoverán la prestación del servicio hasta satisfacer la demanda.
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO TERCERO. De la sistematización
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -7105,9 +7415,9 @@ I. Establecer programas de promoción del empleo de las personas con capacidades
 
 II. Gestionar el apoyo de los sectores público e industrial para colocar a las personas con capacidades diferentes en puestos vacantes, así como para que las autoridades competentes otorguen a los solicitantes con capacidades diferentes permisos y licencias de funcionamiento comercial en la infraestructura vial y en locales de mercados públicos.
 
-### CAPITULO QUINTO. De los catálogos
+### CAPITULO CUARTO. De las operaciones consolidadas
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7145,9 +7455,9 @@ II. Podrán ser utilizados por cualquier usuario, en tanto no sean requeridos po
 
 Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanismos que faciliten el acceso a personas con capacidades diferentes y equipo de apoyo.
 
-### CAPITULO SEXTO. De la integración y funciones de los Comités
+### CAPITULO QUINTO. De los catálogos
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -7169,9 +7479,9 @@ Las barreras arquitectónicas que en la infraestructura vial deben ser eliminada
 
 La Agencia de Seguridad Estatal verificará la existencia de barreras arquitectónicas en la infraestructura vial primaria y propondrá ante las autoridades competentes su eliminación o readecuación, conforme a lo dispuesto en el párrafo anterior.
 
-### CAPITULO SEPTIMO. De los procedimientos de adquisición
+### CAPITULO SEXTO. De la integración y funciones de los Comités
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7179,9 +7489,9 @@ La Agencia de Seguridad Estatal verificará la existencia de barreras arquitect�
 
 El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bienestar Social, y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con capacidades diferentes.
 
-### CAPITULO OCTAVO. De las enajenaciones
+### CAPITULO SEPTIMO. De los procedimientos de adquisición
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7197,9 +7507,9 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 38.- Además de las medidas específicas previstas en este Libro, el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México otorgará, previo estudio, servicios y prestaciones económicas a las personas con capacidades diferentes que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a contingencias resultantes de sus limitaciones físicas. La prestación económica cesará al momento de superarse la contingencia que le dio lugar.
 
-### CAPITULO NOVENO. De los contratos
+### CAPITULO OCTAVO. De las enajenaciones
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7249,9 +7559,9 @@ En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO. De las garantías
+### CAPITULO NOVENO. De los contratos
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -7415,7 +7725,7 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO PRIMERO. De los contratos abiertos
+### CAPITULO DECIMO. De las garantías
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7545,7 +7855,7 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO SEGUNDO. De la información y verificación
+### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7743,9 +8053,9 @@ Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plaz
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
+### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -7887,9 +8197,9 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
+### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -8011,9 +8321,9 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. De las disposiciones generales
+### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -8033,7 +8343,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
+### CAPITULO PRIMERO. De las disposiciones generales
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8067,7 +8377,7 @@ Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos munici
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Del servicio
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8125,11 +8435,11 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. De la coordinación
+### CAPITULO TERCERO. Del servicio
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Del IGECEM
+### CAPITULO CUARTO. De la coordinación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8137,7 +8447,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Del IGECEM
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8285,9 +8595,9 @@ Las políticas y normas administrativas a que se refiere el párrafo anterior, s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -8369,7 +8679,7 @@ En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO II. De la dirección del periódico oficial
+### CAPITULO I. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8399,7 +8709,7 @@ III. Lograr mayor eficiencia y transparencia.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO III. Del funcionamiento del periódico oficial
+### CAPITULO II. De la dirección del periódico oficial
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8417,7 +8727,7 @@ La reglamentación de este Libro establecerá los bienes y servicios sujetos a o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO IV. Del procedimiento de publicación y circulación
+### CAPITULO III. Del funcionamiento del periódico oficial
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8443,7 +8753,7 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO V. De la fe de erratas
+### CAPITULO IV. Del procedimiento de publicación y circulación
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8505,7 +8815,7 @@ V. Las demás que establezca la reglamentación de este Libro.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO VI. De las responsabilidades de los servidores públicos
+### CAPITULO V. De la fe de erratas
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8801,9 +9111,9 @@ Mediante la presentación de estas ofertas subsecuentes de descuentos, se realiz
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO VI. De las responsabilidades de los servidores públicos
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -8949,7 +9259,7 @@ En estos casos, la cancelación no implicará ninguna responsabilidad de caráct
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9065,7 +9375,7 @@ Es aplicable a las enajenaciones lo dispuesto en las fracciones I, III, IV, V, V
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9107,7 +9417,7 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Autorización del Proyecto
+### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9133,7 +9443,7 @@ V. El proveedor suministrará los bienes y servicios en las cantidades y fechas 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. Análisis Costo-Beneficio
+### CAPITULO TERCERO. Autorización del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9173,7 +9483,7 @@ Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+### CAPITULO CUARTO. Análisis Costo-Beneficio
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9187,7 +9497,7 @@ Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEXTO. Administración del Proyecto
+### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9267,7 +9577,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Características Generales
+### CAPITULO SEXTO. Administración del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9507,7 +9817,7 @@ V. Las personas cuya colaboración se requiera.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO PRIMERO. Características Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9753,7 +10063,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9787,7 +10097,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9829,7 +10139,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10023,7 +10333,7 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO TERCERO. Del procedimiento de licitación pública
+### CAPITULO SEGUNDO. Disposiciones Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10097,7 +10407,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO TERCERO. Del procedimiento de licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10163,7 +10473,7 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO CUARTO. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10229,7 +10539,7 @@ VII. Las actas, documentos o avisos de particulares que conforme a la ley, deban
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO PRIMERO. Generalidades
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10273,7 +10583,7 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10353,7 +10663,7 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -11978,3 +12288,11 @@ Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 30 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Las Autoridades estatales y municipales implementarán el programa y las acciones relacionados al presente decreto, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del mismo.
