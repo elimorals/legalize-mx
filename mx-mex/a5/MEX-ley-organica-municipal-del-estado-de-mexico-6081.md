@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-09-23"
+last_updated: "2010-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -215,7 +215,9 @@ NEXTLALPAN SANTA ANA NEXTLALPAN
 
 NEZAHUALCOYOTL CIUDAD NEZAHUALCOYOTL
 
-NICOLAS ROMERO VILLA NICOLAS ROMERO
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+NICOLAS ROMERO CIUDAD NICOLÁS ROMERO
 
 NOPALTEPEC NOPALTEPEC
 
@@ -637,7 +639,7 @@ XXI Bis. Promover políticas públicas apoyadas en sistemas de financiamiento, c
 
 (ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 1 DE OCTUBRE DE 2010)
 
-XXI Ter.- Promover, desarrollar, vigilar y evaluar en su municipio, los programas en materia de protección civil;
+XXI Ter. Promover, desarrollar, vigilar y evaluar en su municipio, los programas en materia de protección civil;
 
 Los programas de protección civil se integrarán con tres subprogramas:
 
@@ -662,6 +664,10 @@ XXIV. Participar en la creación y administración de sus reservas territoriales
 > <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
 XXV. Coadyuvar con la Secretaría del Medio Ambiente a la creación y desarrollo del mercado de derechos de uso del medio ambiente;
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+XXV Bis. Participar en la prevención y atención a las adicciones, en términos de lo dispuesto en la Sección Cuarta del Capítulo Quinto del Título Tercero del Libro Segundo del Código Administrativo del Estado de México.
 
 > <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -1771,7 +1777,7 @@ Artículo 113 G.- Las dependencias y entidades señaladas en el artículo anteri
 
 > <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
 
-Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
+Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas. y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
 
 ###### Artículo 110.
 
@@ -2922,3 +2928,21 @@ Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor treinta días después de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México, a fin de que los ayuntamientos realicen las adecuaciones necesarias para dar cabal cumplimiento a esta reforma.
+
+G.G. 30 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 177, POR EL QUE SE ADICIONA LA FRACCION XXV BIS AL ARTICULO 31 DE LA LEY ORGANICA MUNICIPAL.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Las Autoridades estatales y municipales implementarán el programa y las acciones relacionados al presente decreto, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del mismo.
+
+G.G. 30 DE SEPTIEMBRE DE 2010.
+
+DECRETO NUMERO 178, POR EL QUE SE REFORMA EL ARTICULO 6 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO, POR MEDIO DEL CUAL SE ELEVA LA CATEGORIA POLITICA DE LA CABECERA MUNICIPAL DE NICOLAS ROMERO, MEXICO, DE VILLA, POR LA DE LA CIUDAD.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
