@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-plan-parcial-de-desarrollo-urbano-de-san-20358"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-03-06"
-last_updated: "2010-07-30"
+last_updated: "2010-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL PLAN PARCIAL DE DESARROLLO URBANO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de marzo de 1995.
 
@@ -111,9 +111,23 @@ USUARIO: Es el dueño, usuario, arrendatario, comodatario o poseedor que goce de
 
 ZONA INDUSTRIAL: Es el conjunto de predios agrupados en forma compacta que queden ubicados dentro de un área en la que se permita el Uso de Suelo predominantemente Industrial.
 
-ZONIFICACION: División de territorios en áreas delimitadas que tienen o está previsto que tengan determinadas características en términos de aprovechamiento del suelo, de su densidad y de su intensidad, o para las cuales se prevea la aplicación de políticas o programas específico de ordenamiento territorial o regulación urbana.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+ZONIFICACIÓN: la determinación de las áreas que integran y delimitan un centro de población: sus aprovechamientos predominantes y las reservas, usos, y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
 ZONIFICACION SECUNDARIA: Es la que señala los usos y destinos del suelo, así como sus normas de compatibilidad y coeficientes de uso y ocupación del suelo.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+MEJORAMIENTO URBANO: la acción tendiente a reordenar, renovar o proteger las zonas de un centro de población de incipiente desarrollo y deterioradas física o funcionalmente.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+POLÍGONO DE ACTUACIÓN: área que el programa de desarrollo urbano del centro de población considera sujeta a acciones de mejoramiento urbano de renovación y regeneración. Su implementación requiere de la coordinación y concertación entre la autoridad y los particulares y puede plantearse, si es promovido por el sector privado o social a través de un plan maestro y de un plan parcial de desarrollo urbano cuando sea promovido por la autoridad municipal o estatal.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+ZONA DE TRANSICIÓN: territorio delimitado e identificado en el plan de Desarrollo Urbano con tendencias de cambio de uso de suelo, sujeto a políticas y acciones de mejoramiento urbano.
 
 ###### ARTICULO 5.
 
@@ -137,9 +151,11 @@ V.- El Director de Desarrollo Urbano Municipal, y
 
 VI.- Los C. C. Inspectores adscritos a la Dirección de Desarrollo Urbano Municipal.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 7.
 
-Corresponde al R. Ayuntamiento las atribuciones que le confiera, la Ley de Desarrollo Urbano, las cuales podrán ser ejercidas por los órganos de la Administración Pública Municipal.
+Corresponde al R. Ayuntamiento autorizar la delimitación de polígonos de actuación en los términos de la Ley de Desarrollo Urbano del Estado de Nuevo león y las demás atribuciones que esta le confiera, las cuales podrán ser ejercidas por los órganos de la Administración Pública Municipal.
 
 ###### ARTICULO 8.
 
@@ -987,6 +1003,10 @@ Cuando según el dictamen de la Autoridad Municipal, un Corredor Urbano se clasi
 
 En el casco antiguo y en el área del Poblado de Santo Domingo se encuentran algunas edificaciones del siglo pasado y/o áreas con un aspecto arquitectónico característico que es deseable salvaguardar y proteger. El Ayuntamiento aprobará y publicará un Reglamento relativo a la protección y conservación de la Zona Patrimonial del Municipio, con el propósito de establecer normas conforme a las cuales las Autoridades competentes ejerzan sus atribuciones para proteger, conservar, restaurar y recuperar los edificios no contemporáneos, así como adecuar a la imagen urbana los edificios contemporáneos que integren la Zona Patrimonial del Municipio.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 37 BIS.- Será responsabilidad de la autoridad municipal la promoción y participación de acciones tendientes a la regeneración urbana de la zona conocida como "casco antiguo", bajo la instrumentación legal, administrativa y financiera que en la materia resultan aplicables.
+
 ### CAPITULO CUARTO. DE LA ZONA DE PRESERVACION ECOLOGICA
 
 ###### ARTICULO 38.
@@ -1620,3 +1640,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 30 DE JULIO DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
