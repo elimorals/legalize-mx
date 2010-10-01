@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-09-30"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -865,7 +865,7 @@ Para dar curso a la acción popular, basta el señalamiento de los hechos que co
 
 76.- En la prestación de los servicios gubernamentales por vía electrónica, se tomarán las medidas necesarias para garantizar la autenticación, autenticidad, confidencialidad, seguridad e integridad de la información, de acuerdo con la ley a que se refiere el párrafo anterior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 1.45], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
+(REUBICADO [N. DE E. ANTES ARTICULO 1.45], G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 1.
 
@@ -1264,6 +1264,10 @@ VI. Impulsar un sistema racional de administración y desarrollo de los recursos
 VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud, y con el uso de los servicios que se presten para su protección;
 
 VIII. Promover un sistema de fomento sanitario que contribuya al desarrollo de actividades y servicios que no sean nocivos para la salud.
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+IX. Promover la prevención y el tratamiento del alcoholismo, y en su caso, la rehabilitación, así como la educación e información sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida preferentemente a niños y adolescentes y el fomento a actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo.
 
 El sistema estatal de salud podrá auxiliarse de los organismos nacionales e internacionales que estime necesarios para el cumplimiento de sus objetivos.
 
@@ -11461,8 +11465,6 @@ SÉPTIMO.- Se derogan las disposiciones de igual o menor jerarquía que se opong
 
 G.G. 6 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 148, POR EL QUE SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, TRANSITORIO DECIMO SEGUNDO, SE DEROGA EL TITULO CUARTO DEL LIBRO PRIMERO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
-
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
@@ -11538,3 +11540,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Las Autoridades estatales y municipales implementarán el programa y las acciones relacionados al presente decreto, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del mismo.
+
+G.G. 1 DE OCTUBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
