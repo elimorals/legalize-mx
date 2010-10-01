@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-participacion-social-en-la-educacion-29742"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-14"
-last_updated: "2003-03-14"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA PARTICIPACION SOCIAL EN LA EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el viernes 14 de marzo de 2003.
 
@@ -107,7 +107,11 @@ III. Participar en la aplicación de cooperaciones en numerario, bienes y servic
 
 IV. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores;
 
-V. Informar a las autoridades educativas escolares o estatales, sobre cualquier acto o hecho que afecte la actividad y formación de los educandos.
+V. Informar a las autoridades educativas escolares o estatales, sobre cualquier acto o hecho que afecte la actividad y formación de los educandos;
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+VI. Elegir en asamblea general a cuatro representantes de esta asociación para integrar el Consejo Escolar.
 
 ###### Artículo 9.
 
@@ -299,9 +303,11 @@ La mesa directiva es el órgano ejecutor de la asociación escolar, la cual se r
 
 En la reunión de la asamblea general que se celebre para elegir a la mesa directiva, se designará una mesa de debates provisional integrada por un presidente, un secretario y tres escrutadores de entre quienes concurran; declarándose electos quienes obtengan cuando menos, el cincuenta por ciento más uno de votos de los asociados presentes. La mesa de debates provisional concluye sus funciones al término de dicha reunión y de la elaboración del acta respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 30.
 
-La autoridad educativa escolar y la mesa directiva saliente, cuando ésta exista, convocarán dentro de los primeros quince días hábiles siguientes al inicio de cada ciclo escolar a los padres de familia para que, reunidos en asamblea general constituida cuando menos por el cincuenta por ciento más uno de sus integrantes, elijan a la mesa directiva para el ciclo escolar que inicia, elaborándose el acta respectiva.
+La autoridad educativa escolar y la mesa directiva saliente, cuando ésta exista, convocarán dentro de los primeros quince días hábiles siguientes al inicio de cada ciclo escolar a los padres de familia, para que, reunidos en asamblea general constituida cuando menos por el cincuenta por ciento más uno de los integrantes, elijan a la mesa directiva para el ciclo escolar que inicia y a los representantes de los padres de familia que integrarán el Consejo Escolar, cuando sea el caso, elaborándose el acta respectiva.
 
 En dicha asamblea, la mesa directiva saliente informará y entregará el estado financiero de su gestión.
 
@@ -379,7 +385,13 @@ X. Expedir documentos que acrediten como tales a los integrantes de la mesa dire
 
 XI. Analizar las necesidades de la institución educativa, y participar en su solución;
 
-XII. Las demás que le confieran otras disposiciones.
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XII. Designar a los representantes de la asociación de padres de familia para integrar los comités a que se refiere el apartado A, fracción IV del artículo 96 Bis de este reglamento;
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XIII. Las demás que le confieran otras disposiciones.
 
 ###### Artículo 36.
 
@@ -1019,7 +1031,9 @@ El Consejo Escolar se integrará por:
 
 I. El director de la escuela, quien fungirá como presidente;
 
-II. Un representante de la asociación de padres de familia, elegido por éstos:
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+II. Cuatro representantes de la asociación de padres de familia, elegidos por éstos;
 
 III. Un representante de la organización sindical de maestros del personal adscrito en la escuela, designado por el sindicato correspondiente;
 
@@ -1029,17 +1043,37 @@ V. A invitación del presidente del Consejo Escolar:
 
 a) Un ex-alumno, que muestre interés por el desarrollo y progreso de la escuela;
 
-b) Un padre de familia de la comunidad educativa:
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+b) El presidente de la asociación de padres de familia;
 
 c) Un representante de la comunidad donde se encuentra establecida la institución educativa, que se haya destacado por su Interés en asuntos educativos;
 
-VI. Un Secretario, designado por el presidente del Consejo Escolar.
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+VI. Un secretario técnico, elegido por los miembros del Consejo Escolar.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+El secretario técnico convocará a los integrantes del Consejo Escolar para la celebración de las sesiones y a toda la comunidad educativa para la realización de las asambleas.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+Los integrantes del Consejo Escolar tendrán derecho a voz y voto con excepción de los invitados y del secretario técnico, que sólo tendrán voz.
+
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 93.
 
-El Consejo Escolar deberá constituirse dentro de los treinta primeros días de cada ciclo escolar y sus integrantes electos, designados e invitados, desempeñarán funciones por un ciclo escolar.
+Para la constitución del Consejo Escolar, el director de la escuela convocará a la comunidad educativa en la tercera semana de septiembre. La convocatoria deberá difundirse a través de carteles colocados en la escuela y avisos a los estudiantes, así como por otros medios cuando se estime necesario.
 
-En el caso de las escuelas de organización incompleta o de nueva creación, el Consejo Escolar se constituirá con el mínimo de integrantes que permitan las condiciones del servicio educativo, el cual en ningún caso será menor de cuatro.
+Como resultado de la asamblea de la comunidad educativa, el Consejo Escolar deberá estar constituido en la última semana de septiembre del ciclo escolar del (sic) que se trate, debiendo levantarse el acta correspondiente para su inscripción en el Registro Público de los Consejos Escolares de Participación Social en la Educación.
+
+Los miembros del Consejo Escolar durarán en su cargo dos años, pudiendo reelegirse por un periodo más. El cargo de consejero será honorífico.
+
+En caso de que algún integrante se separe de su función antes de que concluya el periodo será sustituido en los mismos términos en que fue designado.
+
+En el caso de las escuelas de organización incompleta o de nueva creación, el Consejo Escolar se constituirá con el mínimo de integrantes que permitan las condiciones del servicio educativo, el cual en ningún caso será menor de cuatro y siempre y cuando el cincuenta por ciento más uno sean padres de familia.
 
 ###### Artículo 94.
 
@@ -1053,7 +1087,9 @@ El Consejo Escolar tendrá las funciones siguientes:
 
 I. Conocer el calendario escolar, metas educativas y avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
 
-II. Enterarse de los resultados de las evaluaciones que realicen las autoridades educativas escolares;
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+II. Tomar nota de los resultados de las evaluaciones realizadas por las autoridades educativas y, en su caso, exhortar al personal directivo y docente para establecer metas y acciones complementarias que permitan obtener mejores resultados en la evaluación del ciclo escolar en curso;
 
 III. Propiciar la colaboración de maestros y padres de familia;
 
@@ -1061,7 +1097,9 @@ IV. Proponer estímulos y reconocimientos de carácter social a alumnos, maestro
 
 V. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de los educandos;
 
-VI. Participar, coordinar y difundir las acciones necesarias para la protección civil y la emergencia escolar;
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+VI. Propiciar, coordinar y difundir las acciones necesarias para la protección civil, emergencia escolar y seguridad en los planteles educativos;
 
 VII. Alentar el interés familiar y comunitario por el mejor desempeño del educando;
 
@@ -1069,11 +1107,43 @@ VIII. Opinar en asuntos de orden pedagógico;
 
 IX. Contribuir a reducir las condiciones sociales adversas que influyan en la educación;
 
-X. Convocar para trabajos específicos de mejoramiento de las instalaciones escolares;
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+X. Coadyuvar para trabajos específicos de mejoramiento de la infraestructura física educativa;
 
 XI. Proponer las medidas que garanticen la continuidad del servicio educativo y el cumplimiento del calendario escolar;
 
-XII. Las demás que establezcan otras disposiciones legales.
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XII. Dar a conocer a la comunidad educativa el monto de los recursos que, en su caso, sean otorgados a la escuela a través de programas federales, estatales o municipales y de aquellos obtenidos por otras fuentes;
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XIII. Invitar a la asociación de padres de familia para que informe a la comunidad educativa del monto y destino de los recursos que hubiera obtenido;
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XIV. Incorporar a la escuela en los programas de lectura existentes, promover el uso y mejora de la biblioteca escolar y crear círculos de lectura;
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XV. Impulsar la activación física y promover el consumo de alimentos saludables;
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XVI. Generar la cultura de la no violencia y el cuidado al medio ambiente;
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XVII. Promover eventos deportivos y actividades recreativas, artísticas o culturales;
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XVIII. Desarrollar actividades en beneficio de la escuela; y
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XIX. Las demás que establezcan otras disposiciones legales.
 
 #### SECCION TERCERA. DEL FUNCIONAMIENTO
 
@@ -1101,6 +1171,82 @@ IX. Efectuar el seguimiento, evaluación y retroalimentación de las acciones em
 
 X. Las demás que establezcan otras disposiciones.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+#### SECCIÓN CUARTA. DE LAS SESIONES
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 96 Bis.
+
+Las sesiones del Consejo Escolar tendrán por objeto:
+
+A. En la primera semana de octubre:
+
+I. Conocer las gestiones que haya realizado la escuela para su incorporación a programas federales, estatales o municipales;
+
+II. Solicitar al personal directivo y docente que expongan los trabajos específicos que se requieran para el mejoramiento de las instalaciones escolares;
+
+III. Promover el conocimiento del monto y destino de los recursos provenientes de cualquier fuente distinta a los programas federales, estatales o municipales y sean recabados por el Consejo Escolar;
+
+IV. Acordar la integración de los comités en temas que tengan por objeto incorporar a la escuela en los programas de:
+
+a) Lectura y biblioteca escolar;
+
+b) Mejoramiento de la infraestructura física educativa;
+
+c) Protección civil y seguridad de las escuelas;
+
+d) Impulso a la activación física;
+
+e) Actividades recreativas, artísticas o culturales;
+
+f) Cultura de la no violencia;
+
+g) Establecimiento de consumo escolar;
+
+h) Cuidado al medio ambiente y limpieza del entorno escolar; y
+
+i) Los demás que el Consejo Escolar estime convenientes.
+
+Los comités se integrarán hasta por siete miembros los cuales podrán ser docentes y administrativos de la escuela, siempre y cuando la mitad más uno sean padres de familia o tutores. Los integrantes de los comités elegirán a su presidente, con excepción del Comité del Establecimiento de Consumo Escolar, que será presidido por el director o un maestro, según lo acuerde el personal docente del plantel educativo.
+
+Los comités sesionarán con la frecuencia que ellos mismos determinen.
+
+B. En la segunda semana de noviembre: Invitar a directivos, docentes y personal de apoyo de la escuela para tomar nota de los resultados de las evaluaciones realizadas por las autoridades educativas y, en su caso, exhortar al personal directivo y docente para que establezca metas y acciones complementarias que permitan obtener mejores resultados en la evaluación del ciclo escolar en curso.
+
+C. En la cuarta semana de noviembre:
+
+I. Informar a la comunidad educativa de las gestiones que haya realizado la escuela para incorporarse a programas federales, estatales o municipales, la integración de los comités y el registro de los resultados de las evaluaciones;
+
+II. Establecer metas y acciones complementarias; y
+
+III. Presentar los proyectos anuales de trabajo del Consejo y los comités.
+
+D. En la tercera semana de febrero:
+
+l. Conocer el monto y destino de los recursos asignados a la escuela a través de programas federales, estatales o municipales; y
+
+II. Acordar la realización de eventos deportivos, recreativos, artísticos y culturales que promuevan la convivencia de la comunidad educativa.
+
+E. En la primera semana de junio:
+
+I. Cuantificar el monto y destino de los recursos obtenidos durante su gestión y elaborar el informe de transparencia;
+
+II. Exhortar a la asociación de padres de familia para que informe a la comunidad educativa del monto y destino de los recursos que hubiera obtenido; esta información será integrada al informe de transparencia;
+
+III. Elaborar el informe de resultados de las acciones desarrolladas por el Consejo Escolar y los comités durante el ciclo escolar.
+
+F. En la tercera semana de junio: Convocar a la comunidad educativa para presentar los informes correspondientes a la obtención de recursos y acciones realizadas.
+
+Los informes serán públicos, se realizarán en la escuela y se pondrán a disposición de las autoridades educativas, estatales o municipales, procurando, en la medida de lo posible, inscribirlos en el Registro Público de los Consejos Escolares de Participación Social en la Educación.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 96 Ter.
+
+El Consejo Escolar podrá sesionar de forma extraordinaria cuando así lo determine.
+
 ### CAPITULO QUINTO. DISPOSICIONES COMUNES
 
 ###### Artículo 97.
@@ -1119,9 +1265,11 @@ V. Emitir voto de calidad;
 
 VI. Los demás asuntos que sean de su competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 98.
 
-A los secretarios de los consejos de participación social les corresponde:
+A los secretarios de los consejos estatal y municipales y a los secretarios técnicos de los consejos escolares de participación social les corresponde:
 
 I. Formular la convocatoria para las sesiones de trabajo;
 
@@ -1145,9 +1293,11 @@ III. Los demás asuntos que les encomiende el propio consejo.
 
 Los cargos de los integrantes de los consejos de participación social, serán honoríficos.
 
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 101.
 
-Los consejos sesionarán de manera ordinaria cada dos meses y extraordinaria las veces que sean necesarias.
+Los consejos estatal y municipales sesionarán de manera ordinaria cada dos meses y extraordinaria las veces que sean necesarias.
 
 ###### Artículo 102.
 
@@ -1206,3 +1356,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 1 DE OCTUBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
