@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-45807"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-12"
-last_updated: "2005-08-12"
+last_updated: "2010-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 1 DE OCTUBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de agosto de 2005.
 
@@ -716,3 +718,27 @@ EUGENIO ELORDUY WALTHER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE OCTUBRE DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Acceso a la Información Pública para el Estado de Baja California, publicada en el Periódico Oficial No. 36, de fecha 12 de Agosto de 2005.
+
+TERCERO.- En todas las disposiciones legales en las que se haga mención a la Ley de Acceso a la Información Pública para el Estado de Baja California, se entenderán referidas a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+CUARTO.- Los asuntos que se encuentren en trámite, serán substanciados conforme al procedimiento previsto en la Ley anterior.
+
+QUINTO.- La publicación de la información de oficio comprendida en el Capítulo Tercero del Título Primero de la presente ley, deberá realizarse, a más tardar, seis meses después de su entrada en vigor.
+
+SEXTO.- Los Sujetos Obligados deberán designar sus Unidades de Transparencia, a más tardar, treinta días naturales después de la expedición del reglamento respectivo, y en el mismo plazo deberán iniciar funciones. Solo por el lapso de tiempo en que los Sujetos Obligados no cuenten con Unidades de Transparencia, éstos serán responsables de dar seguimiento a las solicitudes de acceso a la información pública.
+
+SÉPTIMO.- Los Sujetos Obligados deberán expedir su reglamento, dentro de los seis meses siguientes a la entrada en vigor de esta Ley.
+
+OCTAVO.- Los particulares podrán presentar las solicitudes de acceso a la información o de acceso a los datos personales, aun cuando los Sujetos Obligados no hayan expedido el reglamento respectivo.
+
+NOVENO.- Dentro de un plazo no mayor de tres años a partir de la entrada en vigencia de la presente ley, se deberán realizar las acciones necesarias para la implementación de los medios electrónicos en los mecanismos de acceso y procedimientos de revisión.
+
+DECIMO.- Para los efectos de la designación de los primeros Consejeros del Instituto, la Comisión Especial encargada de la evaluación y selección de los aspirantes, será integrada por tres representantes del Poder Ejecutivo y por los tres miembros que integraron el Consejo Ciudadano de Transparencia y Acceso a la Información Publica contemplado en la legislación que se abroga.
