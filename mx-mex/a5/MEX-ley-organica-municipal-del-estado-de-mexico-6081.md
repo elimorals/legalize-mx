@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-09-30"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -544,6 +544,10 @@ Los ayuntamientos podrán acordar la celebración de sesiones en localidades del
 ###### Artículo 27.
 
 Los ayuntamientos como órganos deliberantes, deberán resolver colegiadamente los asuntos de su competencia.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+Para lo cual los Ayuntamientos deberán expedir o reformar, en su caso, en la tercera sesión que celebren, el Reglamento de Cabildo, debiendo publicarse en la Gaceta Municipal.
 
 ###### Artículo 28.
 
@@ -1777,7 +1781,7 @@ Artículo 113 G.- Las dependencias y entidades señaladas en el artículo anteri
 
 > <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
 
-Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas. y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
+Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
 
 ###### Artículo 110.
 
@@ -2946,3 +2950,9 @@ DECRETO NUMERO 178, POR EL QUE SE REFORMA EL ARTICULO 6 DE LA LEY ORGANICA MUNIC
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 1 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
+
+SEGUNDO.- Los actuales ayuntamientos deberán expedir o reformar, en su caso, en un plazo de tres sesiones el Reglamento de Cabildo.
