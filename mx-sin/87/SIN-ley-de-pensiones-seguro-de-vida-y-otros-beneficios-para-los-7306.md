@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-pensiones-seguro-de-vida-y-otros-beneficios-para-los-730
 country: "mx"
 rank: "ley"
 publication_date: "1962-01-30"
-last_updated: "1977-09-19"
+last_updated: "2010-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY DE PENSIONES, SEGURO DE VIDA Y OTROS BENEFICIOS PARA LOS VETERANOS DE LA REVOLUCION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1977.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 602, PUBLICADO EN EL P.O. EL 1 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el martes 30 de enero de 1962.
 
@@ -176,3 +178,13 @@ P.O. 19 DE SEPTIEMBRE DE 1977.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 47 y 65, fracción I, de la Constitución Política del Estado de Sinaloa.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
