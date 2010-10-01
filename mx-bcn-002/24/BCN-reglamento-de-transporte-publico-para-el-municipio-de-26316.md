@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2010-09-03"
+last_updated: "2010-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -189,7 +189,7 @@ XXV.- Operativo.- Acto de inspección y/o vigilancia, llevado a cabo por el Sist
 
 XXVI.- Operador.- Persona encargada de la conducción de vehículos del servicio de transporte público.
 
-XXVII.- Operador Sustituto.- Persona autorizada por el Sistema para manejar un vehículo del Servicio de Transporte Público en las modalidades de alquiler y carga.
+XXVII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 2010)
 
 XXVIII.- Padrón.- Registro oficial del Sistema que contiene las características de los vehículos de transporte público por ruta, recorrido o modalidad.
 
@@ -223,7 +223,9 @@ XLII.- Semiremolque.- Todo remolque sin eje delantero, destinado a ser acoplado 
 
 XLIII.- Tarjeta de circulación.- Documento oficial expedido por la Autoridad competente, mediante la cual identifica la circulación de una unidad para el servicio del transporte público, conteniendo número económico, número de serie, número de placas, nombre del propietario, color, modelo, entre otras; la cual especificará tipo de itinerario.
 
-XLIV.- Tarjetón.- Es el documento expedido por el Sistema, obligatorio para que una persona preste el servicio público de transporte, que contendrá datos generales del operador, operador sustituto, del permiso o concesión.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+XLIV.- Tarjetón.- Es el documento expedido por el Sistema, por medio del cual se identifica a un operador, obligatorio para que éste pueda prestar el servicio de transporte público.
 
 XLV.- Taxímetro.- Aparato autorizado por el Sistema e instalado en el taxi, que indica el costo del viaje o servicio conforme la tarifa autorizada, de acuerdo a la distancia recorrida, tiempo de espera y banderazo.
 
@@ -1675,7 +1677,9 @@ VIII.- Cobrar a los usuarios el precio que establezca la tarifa vigente, conform
 
 IX.- Entregar al usuario, independientemente de que sea un usuario con derecho a descuento, contra el pago del precio, el boleto o comprobante correspondiente, además de instrumentar los mecanismos para verificar lo anterior;
 
-X.- Prohibir a sus operadores la conducción de un vehículo del servicio público de transporte cuando estos no tengan o no lleven consigo la licencia de la clasificación correspondiente así como el tarjetón, y que no (sic) conduzcan bajo el influjo de alcohol o drogas;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+X.- No permitir la conducción de vehículos del servicio público de transporte a los operadores que no cuenten o no porten la licencia de la clasificación correspondiente, así como con el tarjetón, ambos vigentes; así como a los que pretendan hacerlo bajo el influjo de alcohol o drogas;
 
 XI.- Verificar que los operadores a su servicio, reúnan los requisitos establecidos en esta Ley y se desempeñen conforme a las fracciones V a la VI, de este artículo;
 
@@ -1801,7 +1805,9 @@ III.- No podrá conceder más de un permiso por persona, excepto los enunciados 
 
 El permiso para prestar el servicio de transporte de pasajero de alquiler es personal y tendrá la naturaleza de patrimonio familiar, cuando se proceda con lo establecido por las Leyes Civiles del Estado, y sin perjuicio de las atribuciones que se otorgan al sistema por lo que hace a dicho servicio.
 
-Aún siendo personal el permiso, se puede trabajar el mismo mediante un operador sustituto del permisionario, previa autorización del Sistema, con el objeto de prestar el servicio de una manera continua. Dicha relación será exclusivamente entre el titular y el operador sustituto, ya sea ésta de carácter civil o laboral, sin que el operador sustituto genere derechos sobre el permiso o para solicitar permiso posterior.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+Aun siendo personal el permiso, se podrá aprovechar el mismo mediante un operador del permisionario que cuente con tarjetón otorgado por el Sistema, con el objeto de prestar el servicio de una manera continua. La relación que se genere entre el titular del permiso y el operador, ya sea esta de carácter civil o laboral, les será exclusiva, sin que el operador genere derechos sobre el permiso o para solicitar otro.
 
 ###### ARTÍCULO 166.
 
@@ -2021,13 +2027,17 @@ X.- Observar las disposiciones contenidas en los demás ordenamientos jurídicos
 
 XI.- Portar el uniforme obligatorio, durante la prestación del servicio;
 
-XII.- Mostrar en lugar visible del interior de los vehículos el tarjetón, el número de matricula, teléfonos de quejas, las tarifas autorizadas y en los casos de taxis libres y de sitio que se encuentren prestando el servicio, deberá de encontrarse en todo momento activo el taxímetro;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+XIl.- Mostrar en lugar visible del interior de los vehículos en los que se preste el servicio, el tarjetón vigente, el número económico, teléfonos de quejas, las tarifas autorizadas; y en los casos de radio taxis y taxis de sitio que se encuentren prestando el servicio, deberá de encontrarse en todo momento activo el taxímetro;
 
 XIII.- Recibir la capacitación por la institución educativa que el Sistema determine, para la prestación del servicio de transporte público;
 
 XIV.- Aceptar la intervención del Sistema en la administración del servicio en todos aquellos casos que existan amenazas de suspensión del propio servicio;
 
-XV.- No permitir la conducción de vehículos del servicio público de transportes a los operadores, que no cuenten con la licencia reglamentaria para ese tipo de unidades, así como con el tarjetón; y
+REFORMADA, P.O. 1 DE OCTUBRE DE 2010)
+
+XV.- No permitir la conducción de vehículos del servicio público de transporte a los operadores que no cuenten o no porten la licencia de la clasificación correspondiente, así como con el tarjetón, ambos vigentes; y,
 
 XVI.- Las demás que establezca la Ley y el presente Reglamento.
 
@@ -2745,13 +2755,17 @@ V.- Cuando así lo requiera alguna Autoridad de Transporte, los concesionarios o
 
 #### SECCION III. Tarjetón de los operadores
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 246.
 
-Para el cumplimiento de las condiciones de imagen, comodidad, seguridad mecánica, así como el cumplimiento de las obligaciones establecidas en el presente Reglamento, el Sistema expedirá un tarjetón al operador que será requisito obligatorio al igual que la licencia correspondiente, para la conducción de vehículos del transporte público y el cual se podrá suspender o cancelar si el operador incurre en alguna de las causales señaladas en los artículos 314 y 315 respectivamente del presente Reglamento.
+Para la conducción de vehículos del servicio de transporte público será requisito obligatorio que el operador cuente y porte la licencia de la clasificación correspondiente y el tarjetón, ambos vigentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 247.
 
-El tarjetón del operador contendrá un extracto del permiso o concesión correspondiente, para ser ubicada en lugar visible del vehículo de que se trate y se muestre a las autoridades del Sistema y a los usuarios cuantas veces se requiera.
+El tarjetón deberá ser ubicado en lugar visible del vehículo en el que el operador se encuentre prestando el servicio, de tal manera que permanezca a la vista en todo momento de las autoridades del Sistema y de los usuarios.
 
 En el tarjetón se asentarán las generales del operador, su fotografía y demás datos que a juicio del Sistema deberá contener. Sin que ésta sustituya al permiso o concesión por lo que no generará derecho alguno para efecto de solicitar permiso o concesión posterior.
 
@@ -2759,41 +2773,53 @@ En el tarjetón se asentarán las generales del operador, su fotografía y demá
 
 El trámite para la obtención del tarjetón, deberá realizarse de manera personal y no por conducto de representante o tercera persona.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 249.
 
-El tarjetón se autorizará únicamente para el permisionario y para un operador sustituto, por cada permiso otorgado por la Autoridad competente.
+El tarjetón se autorizará por el Sistema, únicamente para los permisionarios y los operadores del servicio de transporte público.
 
 ###### ARTÍCULO 250.
 
 Los interesados en obtener el tarjetón, deberán presentar, la siguiente documentación:
 
-I. Solicitud dirigida al Director del Sistema, en la cual el concesionario o permisionario manifiesta que el interesado es persona apta para manejar un vehículo del servicio público.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
 
-II. Licencia de conducir, correspondiente a la modalidad de que se trate.
+I. Solicitud por escrito, dirigida al Director del Sistema, en la cual el interesado manifiesta sus generales;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+Il. Licencia de conducir vigente y de la clasificación correspondiente a la modalidad en la que pretenda operar, expedida por autoridad competente del Gobierno del Estado de Baja California;
 
 III. 2 fotografías tamaño credencial, de frente recientes.
 
-IV. Carta de no antecedentes penales.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
 
-V. Tarjeta de circulación vigente del vehículo.
+IV. Carta de no antecedentes penales, o copia de la que hubiere presentado para tramitar su licencia vigente;
 
-VI. Examen médico.
+V. (DEROGADA, P.O. 1 DE OCTUBRE DE 2010)
 
-VII. Certificado de capacitación, con los requisitos señalados en el artículo que precede.
+VI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2010)
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+VII. Comprobante de su asistencia al curso de capacitación a que se refiere el artículo 251 de este Reglamento;
 
 VIII. Autorización para someterse a los exámenes y reconocimientos médicos para determinar si se encuentra o consume alcohol, drogas o estupefacientes, cuando el Sistema considere necesario.
 
 IX. Pago de derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 251.
 
-Los operadores del servicio público que deseen obtener o renovar el tarjetón, deberán asistir a cursos de capacitación y adiestramiento, que se realizarán en escuelas, institutos, centros educativos, centros de capacitación de permisionarios y similares con reconocimiento oficial que avale tal carácter, los cuales expedirán el Certificado de Capacitación, en el cual se compruebe que se aprobó el curso.
+Los operadores del servicio de transporte público que deseen obtener o renovar el tarjetón, deberán acreditar el haber asistido a los cursos de capacitación en materia de transporte que realizarán el Sistema, o en su defecto promovidos por los concesionarios, permisionarios o representantes legales de sitios y bases de radio taxi, avalados por el Sistema.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 252.
 
-Una vez obtenido el tarjetón, tendrá vigencia de un año, el cual podrá renovarse a solicitud del interesado, quien deberá presentar de nueva cuenta la documentación señalada en el artículo 250 del presente Reglamento.
-
-En el caso de que un operador sustituto desee cambiarse de unidad, deberá presentar la documentación señalada, para obtener el tarjetón correspondiente.
+Una vez obtenido el tarjetón, éste tendrá vigencia de tres años, y podrá renovarse a solicitud del interesado, quien deberá presentar de nueva cuenta la documentación señalada en el artículo 250 del presente Reglamento.
 
 ### CAPÍTULO X
 
@@ -3361,7 +3387,9 @@ V. Por no anotar en la unidad el número económico y/o el número de la ruta as
 
 VI. Cuando el operador no porte el uniforme de trabajo reglamentario durante el servicio;
 
-VII. Cuando el operador no tenga a la vista del usuario, en el interior del vehículo que maneja el original de su tarjetón expedido por el Sistema;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
+
+VII. Cuando el operador no tenga a la vista del usuario en el interior del vehículo que maneja, el original de su tarjetón vigente;
 
 VIII. Cuando el operador no acate las normas de tránsito;
 
@@ -3413,7 +3441,7 @@ II.- Por diez días:
 
 a) Por reincidir en más dos (sic) veces en la comisión de infracciones por exceso de velocidad, no respetar señalamiento de semáforo en rojo y/o altos de disco en un periodo de tres meses;
 
-b) Por conducir un vehículo distinto al autorizado y para el cual se otorgó el tarjetón;
+b) (DEROGADO, P.O. 1 DE OCTUBRE DE 2010)
 
 c) Cuando el operador no permitir (sic) que le realicen el examen antidoping en el tiempo, forma y lugar establecidos;
 
@@ -3449,11 +3477,15 @@ IX.- Por permitir el uso del tarjetón a una persona distinta del titular;
 
 X.- Por entregar documentos falsos para la obtención del tarjetón; (sic)
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 316.
 
-El operador cuyo tarjetón haya sido cancelado no tendrá derecho a que se le devuelva o renueve.
+El operador cuyo tarjetón haya sido cancelado no tendrá derecho a que se le devuelva o renueve, salvo que haya transcurrido un año a partir de la cancelación.
 
-En los casos de suspensión, el interesado podrá solicitar la devolución cuando haya pasado el término de la suspensión, pero el Sistema podrá negarse a ello hasta que haya comprobado que no subsisten las causas que motivaron la suspensión.
+En dicho supuesto, el operador podrá solicitar se le otorgue un nuevo tarjetón y el Sistema, analizando los motivos que originaron la cancelación y el cumplimiento de los requisitos que para este trámite dispone el Reglamento, determinará lo conducente.
+
+En los casos de suspensión, el interesado podrá solicitar la devolución cuando haya transcurrido el término de la misma, pero el Sistema podrá negarse a ello hasta que haya comprobado que no subsisten las causas que motivaron la suspensión.
 
 ###### ARTÍCULO 317.
 
@@ -3461,17 +3493,19 @@ Las infracciones en materia de transporte público serán sancionadas administra
 
 La aplicación de las sanciones económicas previstas en el presente Reglamento, se aplicarán sin perjuicio de las causas de remisión de las unidades a los depósitos vehiculares, la revocación de la concesión o permiso y de la responsabilidad penal o civil que resulte de la comisión de las conductas descritas en este capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 318.
 
-El Sistema conjuntamente con la Dirección de Tránsito Municipal llevarán un registro actualizado de los operadores del servicio público que sean:
+El Sistema llevará un registro actualizado de los operadores del servicio de transporte público, así como de aquellos que sean:
 
 I.- Infractores e infractores reincidentes;
 
-II.- Responsables de accidentes;
+II.- (DEROGADA, P.O. 1 DE OCTUBRE DE 2010)
 
 III.- Infractores con incumplimiento en el pago de las sanciones;
 
-IV.- Suspendidos o cancelados en el uso de sus licencias; y
+IV.- (DEROGADA, P.O. 1 DE OCTUBRE DE 2010)
 
 V.- Suspendidos o cancelados en el uso de sus tarjetones.
 
@@ -3548,6 +3582,8 @@ Para la devolución de vehículos en los depósitos será indispensable la compr
 Se sancionará con multa de 1 a 150 salarios mínimos general vigente en la entidad de Baja California, en la operación de vehículos del servicio público de transporte, según el supuesto en que encuadre de conformidad a la siguiente:
 
 > <small>N. DE E. VEASE TABLA EN EL P.O. DE 30 DE AGOSTO DE 2002, PAGINAS DE LA 162 A LA 166.</small>
+
+> <small>N. DE E. REFORMAS A LA TABLA, P.O. 1 DE OCTUBRE DE 2010.</small>
 
 Las demás sanciones previstas en el presente Reglamento y en el de Tránsito Municipal serán aplicadas a los vehículos del servicio público de transporte cuando sus operadores cometan la infracción a dichos ordenamientos.
 
@@ -3632,3 +3668,11 @@ P.O. 30 DE JULIO DE 2010.
 P.O. 3 DE SEPTIEMBRE DE 2010.
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California
+
+P.O. 1 DE OCTUBRE DE 2010.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Segundo.- Los titulares de tarjetones vigentes otorgados por el Sistema Municipal del Transporte de Mexicali antes de la entrada en vigor del presente Acuerdo, contarán con un plazo de tres meses siguientes a la publicación de esta reforma en el Periódico Oficial del Estado de Baja California, para presentarse ante el Sistema Municipal del Transporte, de manera personal, a entregar el tarjetón original que se les concedió, para que sin costo alguno dicha Autoridad les expida uno nuevo acorde con lo previsto por el presente Acuerdo.
+
+Transcurrido el plazo mencionado en el párrafo anterior, los tarjetones expedidos antes de la entrada en vigor de este Acuerdo que no sean renovados en los términos indicados, quedarán sin efectos.
