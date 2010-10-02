@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-atencion-y-proteccion-a-victimas-u-ofendidos-del-52078"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-21"
-last_updated: "2010-09-25"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ATENCION Y PROTECCION A VICTIMAS U OFENDIDOS DEL DELITO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 21 de octubre del 2006.
 
@@ -385,7 +385,7 @@ El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la 
 
 ###### ARTÍCULO SÉPTIMO.
 
-Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -394,3 +394,9 @@ La administración de los establecimientos penitenciarios y la custodia de proce
 ###### ARTÍCULO NOVENO.
 
 Se abroga la Ley Orgánica del Ministerio Público del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
