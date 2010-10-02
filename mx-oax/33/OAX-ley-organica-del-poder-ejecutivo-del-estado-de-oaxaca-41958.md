@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-41958"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-11-30"
-last_updated: "2009-12-30"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2004.
 
@@ -497,7 +497,9 @@ VII.- Participar en la formulación y ejecución de los convenios que, en materi
 
 VIII.- Fiscalizar la ejecución física y financiera de los programas de inversión pública que se realicen en el Estado con recursos propios o provenientes de convenios con la Federación;
 
-IX.- Coordinarse con la Contaduría Mayor de Hacienda para el cumplimiento de sus respectivas responsabilidades;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+IX.- Coordinarse con la Auditoría Superior del Estado de Oaxaca para el cumplimiento de sus respectivas responsabilidades;
 
 X.- Supervisar que los proveedores de bienes y servicios cumplan lo estipulado en los contratos que celebren con las dependencias y entidades de la Administración Pública Estatal;
 
@@ -513,11 +515,19 @@ XIV.- Reglamentar y participar en el procedimiento de entrega-recepción de las 
 
 XV.- Atender las quejas que presenten los particulares en relación con las responsabilidades de las dependencias y entidades de la Administración Pública;
 
-XVI.- Vigilar e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas, aplicar las sanciones en los términos de las disposiciones legales, y en su caso, hacer la denuncia correspondiente ante el Ministerio Público;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-XVII.- Designar auditores externos, así como normar y controlar su actividad con el propósito de efectuar revisiones periódicas de la situación financiera y contable de las entidades paraestatales; y
+XVI.- Vigilar e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas aplicar las sanciones en los términos de las disposiciones legales, y en su caso, formular la querella correspondiente ante el Ministerio Público;
 
-XVIII.- Los demás que le señalen las leyes, decretos y reglamentos.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XVII.- Designar auditores externos, así como normar y controlar su actividad con el propósito de efectuar revisiones periódicas de la situación financiera y contable de las entidades paraestatales;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XVIII.- Emitir a través de su titular, la declaratoria de perjuicio que como requisito de procedibilidad refiere el artículo 217 BIS E del Código Penal para el Estado Libre y Soberano de Oaxaca; y
+
+XIX.- Los demás que le señalen las leyes, decretos y reglamentos.
 
 ###### Artículo 26.
 
@@ -1256,3 +1266,7 @@ CUARTO.- Se respetan los derechos laborales de los empleados de base, que en su 
 P.O. 30 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
