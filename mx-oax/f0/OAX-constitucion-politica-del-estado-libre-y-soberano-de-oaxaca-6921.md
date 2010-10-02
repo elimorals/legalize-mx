@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2009-09-21"
+last_updated: "2010-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -857,9 +857,11 @@ El Territorio del Estado de Oaxaca, geográficamente se conforma por ocho region
 
 ### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 29.
 
-El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, el Municipio Libre.
+El Estado adopta para su régimen Interior la forma de gobierno republicano, representativo, laico y popular, teniendo como base de su organización política y administrativa, el Municipio Libre.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2365,9 +2367,9 @@ Cada año el Congreso del Estado le asignará a la Comisión el presupuesto nece
 
 La Comisión tendrá la facultad de iniciativa de ley en materia de derechos humanos, incluyendo la de presentar anualmente el proyecto de presupuesto para su discusión, ante el Congreso del Estado, de acuerdo con lo que dispongan las leyes de la materia. Asimismo, podrá interponer acciones de inconstitucionalidad, en contra de leyes expedidas por la Legislatura del Estado, en los términos del artículo 105 fracción II inciso g), párrafo primero, segunda parte de la Constitución Política de los Estados Unidos Mexicanos.
 
-La Comisión para la Defensa de los Derechos Humanos, contará con un Consejo Consultivo integrado por diez personas, designadas por el voto de las dos terceras partes de los integrantes del Congreso del Estado. La Ley fijará los procedimientos para la postulación de aspirantes que serán sometidos a la consideración del Congreso, bajo los principios de pluralidad, equidad de género, apartidismo y no discriminación. Cada dos años serán sustituidos los dos Consejeros de mayor antigüedad, salvo que fueren propuestos y ratificados para un segundo periodo.
+La Comisión para la Defensa de los Derechos Humanos, contará con un Consejo Consultivo integrado por diez personas, designadas por el voto de las dos terceras partes de los integrantes del Congreso del Estado. La Ley fijará los procedimientos para la postulación de aspirantes que serán sometidos a la consideración del Congreso, bajo los principios de pluralidad, equidad de género, a partidismo y no discriminación. Cada dos años serán sustituidos los dos Consejeros de mayor antigüedad, salvo que fueren propuestos y ratificados para un segundo periodo.
 
-La Comisión estará a cargo de su Presidente, quien también integrará y presidirá el Consejo Consultivo de la misma. El Presidente de la Comisión deberá contar preferentemente con titulo de licenciado en derecho y su nombramiento se llevará a cabo conforme al procedimiento establecido en el párrafo anterior. El Presidente de la Comisión durará en su encargo 5 años y podrá ser propuesto y ratificado para un segundo período. Sólo podrá ser removido conforme al procedimiento establecido en el Titulo Séptimo de esta Constitución.
+La Comisión estará a cargo de su Presidente, quien también integrará y presidirá el Consejo Consultivo de la misma. El Presidente de la Comisión deberá contar preferentemente con título de licenciado en derecho y su nombramiento se llevará a cabo conforme al procedimiento establecido en el párrafo anterior. El Presidente de la Comisión durará en su encargo 5 años y podrá ser propuesto y ratificado para un segundo período. Sólo podrá ser removido conforme al procedimiento establecido en el Titulo Séptimo de esta Constitución.
 
 > <small>(F. DE E., P.O. 20 DE OCTUBRE DE 2007)</small>
 
@@ -2509,7 +2511,7 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 > <small>(F. DE E., P.O. 28 DE JULIO DE 2001)</small>
 
-La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 146], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2745,7 +2747,7 @@ La compensación de que habla el Artículo anterior, sólo tendrá lugar por los
 
 Todo funcionario o empleado público, sin excepción alguna y antes de tomar posesión de su cargo, otorgará la protesta legal, de acuerdo con las siguientes fórmulas:
 
-El Gobernador del Estado protestará en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado y si no lo hiciere así, que la Nación y el Estado me lo demanden". Los demás funcionarios y empleados rendirán la protesta ante quien corresponda en la siguiente forma: La autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de.... que el Estado os ha conferido ?". El interrogado contestará: "Si protesto".
+El Gobernador del Estado protestará en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado y si no lo hiciere así, que la Nación y el Estado me lo demanden". Los demás funcionarios y empleados rendirán la protesta ante quien corresponda en la siguiente forma: La autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de.... que el Estado os ha conferido?". El interrogado contestará: "Si protesto".
 
 Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
@@ -2845,7 +2847,7 @@ Los Concejales que se elijan el primer domingo de Agosto de 1989, tomarán poses
 
 Lo tendrá entendido el C. Gobernador del Estado y dispondrá que se imprima, publique, circule y cumpla.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado, a los cuatro días del mes de abril de mil novecientos veintidós. Herón Ruiz, Diputado Presidente por el 16°, Círculo Electoral.- Gaspar Allende, Diputado Vicepresidente por el 10° Círculo Electoral.- Emilio Alvarez, Diputado por el 1er. Círculo Electoral.- Emilio Díaz Ortiz, Diputado por el 3er. Círculo Electoral. Heraclio Ramírez, Diputado por el 7° Círculo Electoral.- Agustín R. Arenas, Diputado por el 8° Círculo Electoral.- R. Villegas Garzón, Diputado por el 9° Círculo Electoral.- Pedro Camacho, Diputado por el 12° Círculo Electoral.- Angel Hernández, Diputado por el 13° Círculo Electoral.- Librado G. López, Diputado por el 14° Círculo Electoral.- Luis Meixueiro, Diputado por el 15° Círculo Electoral.- Agustín Castillo C., Diputado por el 17° Círculo Electoral.- M. Aguilar y Salazar, Diputado Secretario por el 6° Círculo Electoral.- Alfredo Calvo, Diputado Secretario por el 11° Círculo Electoral.
+Dado en el Salón de Sesiones del H. Congreso del Estado, a los cuatro días del mes de abril de mil novecientos veintidós. Herón Ruiz, Diputado Presidente por el 16°, Círculo Electoral.- Gaspar Allende, Diputado Vicepresidente por el 10° Círculo Electoral.- Emilio Álvarez, Diputado por el 1er. Círculo Electoral.- Emilio Díaz Ortiz, Diputado por el 3er. Círculo Electoral. Heraclio Ramírez, Diputado por el 7° Círculo Electoral.- Agustín R. Arenas, Diputado por el 8° Círculo Electoral.- R. Villegas Garzón, Diputado por el 9° Círculo Electoral.- Pedro Camacho, Diputado por el 12° Círculo Electoral.- Ángel Hernández, Diputado por el 13° Círculo Electoral.- Librado G. López, Diputado por el 14° Círculo Electoral.- Luis Meixueiro, Diputado por el 15° Círculo Electoral.- Agustín Castillo C., Diputado por el 17° Círculo Electoral.- M. Aguilar y Salazar, Diputado Secretario por el 6° Círculo Electoral.- Alfredo Calvo, Diputado Secretario por el 11° Círculo Electoral.
 
 Por tanto, mando que se imprima, publique por bando solemne, circule y se le dé el debido cumplimiento.
 
@@ -2853,7 +2855,7 @@ Dado en el Palacio de los Poderes del Estado, en la ciudad de Oaxaca de Juárez,
 
 Y lo comunico a usted para su conocimiento y demás efectos.
 
-SUFRAGIO EFECTIVO NO REELECCION.- Oaxaca de Juárez, a quince de abril de mil novecientos veintidós.- Campos Ortega.- Al C....
+SUFRAGIO EFECTIVO NO REELECCION.- Oaxaca de Juárez, a quince de abril de mil novecientos veintidós.- Campos Ortega.- Al C...
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
 
@@ -3444,5 +3446,9 @@ P.O. 14 DE SEPTIEMBRE DE 2009.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 21 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
