@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4654
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-15"
-last_updated: "2010-09-25"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CHIHUAHUA
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CHIHUAHUA
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 15 de octubre de 2005.
 
@@ -1295,7 +1295,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRÍGUEZ MORENO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE JULIO DE 2008.
 
@@ -1337,7 +1337,7 @@ El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la 
 
 ###### ARTÍCULO SÉPTIMO.
 
-Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -1346,3 +1346,9 @@ La administración de los establecimientos penitenciarios y la custodia de proce
 ###### ARTÍCULO NOVENO.
 
 Se abroga la Ley Orgánica del Ministerio Público del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
