@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-11674"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-19"
-last_updated: "2010-09-25"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE CHIHUAHUA
 
-LEY DE PROTECCION CIVIL DEL ESTADO DE CHIHUAHUA
+LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 19 de junio de 1996.
 
@@ -57,7 +57,7 @@ Las disposiciones de esta Ley, son de orden público e interés social; asimismo
 
 La presente Ley establece las bases del Sistema Estatal de Protección Civil como órgano consultivo, decisorio y operativo del Sistema Nacional de Protección Civil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -79,7 +79,7 @@ VI. Los Coordinadores de Protección Civil; y
 
 VI (SIC). Los Ayuntamientos de los Municipios de la Entidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -185,7 +185,7 @@ XXVII.- Sistemas contra incendios: Lo constituyen los equipos instalados en los 
 
 ### CAPITULO PRIMERO. DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -193,7 +193,7 @@ XXVII.- Sistemas contra incendios: Lo constituyen los equipos instalados en los 
 
 El Sistema Estatal de Protección Civil, parte integrante del Sistema Nacional, será organizado por el Ejecutivo del Estado por conducto de la Fiscalía General del Estado, y tiene como fin prevenir, proteger y salvaguardar a las personas, los bienes públicos, privados y el entorno ante la posibilidad de un siniestro o desastre, producido por causa de origen natural o humano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2003)</small>
 
 ###### Artículo 7.
 
@@ -217,9 +217,9 @@ VI.- Promover la eficiente coordinación de esfuerzos y acciones entre los Gobie
 
 VII.- Solicitar, cuando lo estime necesario, el apoyo de los Gobierno (sic) Federal, Estatales de otras Entidades de la República y municipales de la Entidad respecto de situaciones que originen catástrofes, desastres o calamidades públicas que pongan en graves (sic) riesgo la población del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 8.
 
@@ -239,7 +239,7 @@ V.- Elaborar el Programa Estatal de Protección Civil; y
 
 VI.- Coadyuvar en la actualización de los instrumentos de Protección Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2003)</small>
 
 ###### Artículo 9.
 
@@ -255,7 +255,7 @@ III.- Formular y ejecutar, el Programa Municipal de Protección Civil;
 
 IV.- Formular y ejecutar en coordinación con los Ayuntamientos y la Secretaría General de Gobierno, los Programas Distritales de Protección Civil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -279,13 +279,13 @@ El Sistema Estatal de Protección Civil estará integrado por los siguientes ór
 
 I.- El Consejo Estatal de Protección Civil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 II.- Las Coordinaciones de Protección Civil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
@@ -321,19 +321,19 @@ El Consejo Estatal estará integrado por:
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 II.- El Fiscal General del Estado, quien fungirá como Secretario Ejecutivo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 III.- Los titulares de las Dependencias del Poder Ejecutivo del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -341,7 +341,7 @@ IV.- El Coordinador Estatal de Protección Civil, quien fungirá como "Secretari
 
 V.- El Coordinador de Comunicación Social;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -377,7 +377,7 @@ IV.- Fungir como órgano consultivo, de planeación, de coordinación de accione
 
 V.- Aprobar el Programa Estatal de Protección Civil y los Programas Especiales que de él se deriven y evaluar su cumplimiento por lo menos anualmente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -385,7 +385,7 @@ VI.- La supervisión, seguimiento y evaluación del funcionamiento de la Coordin
 
 VII.- Promover la investigación científica de los problemas actuales y potenciales, en materia de protección civil, a través de las instituciones de educación superior, y en cada caso proporcionar sus medidas de protección;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -425,7 +425,7 @@ El cargo de Consejero es de carácter honorario y tratándose de servidores púb
 
 ### CAPITULO TERCERO. DE LA UNIDAD ESTATAL DE PROTECCION CIVIL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -433,9 +433,9 @@ El cargo de Consejero es de carácter honorario y tratándose de servidores púb
 
 La Fiscalía General del Estado, contará con una Coordinación Estatal de Protección Civil, la cual auxiliará a la elaboración e implantación de programas de la materia, y tendrá a su cargo la dirección, supervisión y control de los mismos, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social y privado, con los grupos voluntarios y la población en general.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -459,9 +459,9 @@ IV.- Un Jefe de la Oficina Administrativa; y
 
 V.- El personal que se le asigne para su adecuado funcionamiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 20.
 
@@ -481,7 +481,7 @@ V.- Aplicar el Plan de Emergencia o los Programas establecidos por el Consejo Es
 
 VI.- Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de emergencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -489,19 +489,19 @@ VII.- De acuerdo con los lineamientos trazados por la Fiscalía General del Esta
 
 VIII.- Elaborar los Programas Especiales e internos de Protección Civil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 IX.- Recibir, por conducto del C-4, todas las llamadas de emergencia del público, procesando la información con exactitud y transmitiéndola a las dependencias correspondientes inmediatamente; así como las Unidades Municipales de Protección Civil y la propia Coordinación Estatal, después de la solicitud de servicio;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 X.- Establecer y mantener la coordinación con las Unidades Distritales, Municipales y con autoridades de los tres órdenes de Gobierno, instituciones y organismos involucrados en tareas de Protección Civil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -537,7 +537,7 @@ XXII.- Fomentar la creación de una cultura de Protección Civil a través de la
 
 XXIII.- Las demás que le señalen el Consejo Estatal de Protección Civil u otras disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -547,9 +547,9 @@ Los servidores públicos de la Coordinación Estatal de Protección Civil, con i
 
 ### CAPITULO CUARTO. DE LA ORGANIZACION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 22.
 
@@ -557,13 +557,13 @@ El trámite y resolución de los asuntos de la competencia de la Coordinación E
 
 I.- Desempeñar el cargo de Secretario Técnico del Consejo Estatal de Protección Civil y dar seguimiento a los acuerdos que tome el propio Consejo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 II.- Dirigir, supervisar y controlar todas las acciones que se realicen en la Coordinación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -571,7 +571,7 @@ III.- Coordinar, previo acuerdo del Fiscal General del Estado, las acciones de l
 
 IV.- Incorporar métodos, procedimientos, nueva tecnología y directrices en lo referente a comunicaciones para atención a emergencias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -581,7 +581,7 @@ VI.- Aprobar la rotación de actividades que deba tener el personal en conjunci�
 
 VII.- Promover la realización de cursos de capacitación y actualización para el personal de las diferentes áreas de la Unidad y demás organismos y personas relacionados con las actividades de ésta;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -589,13 +589,13 @@ VIII.- Informar, y en su caso asesorar, al Gobernador del Estado y al Fiscal Gen
 
 IX.- Representar a la dependencia en los convenios con personas y organismos e instituciones públicas, privadas y sociales en el ámbito de su competencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 X.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 XI.- Elaborar y tramitar el proyecto de presupuesto anual de la Unidad con apoyo de la Subjefatura Administrativa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -621,9 +621,9 @@ XVIII.- Las demás que le sean conferidas por otras disposiciones legales.
 
 ### CAPITULO QUINTO. DE LA PARTICIPACION PRIVADA Y SOCIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
@@ -633,7 +633,7 @@ Esta Ley reconoce como grupos voluntarios a las Instituciones y Asociaciones Fed
 
 Los miembros de grupos a que se refiere el párrafo anterior, fuera del supuesto del primer párrafo de la fracción XXXVI del artículo 64 de la Constitución Política del Estado de Chihuahua, podrán gozar de los beneficios que establece el segundo párrafo de dicha fracción, cuando el H. Congreso del Estado estime que existen los suficientes méritos para ello.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -643,7 +643,7 @@ Los grupos voluntarios, para su adecuado funcionamiento, deberán contar con un 
 
 La preparación específica de cada grupo voluntario deberá complementarse con una ejecución de ejercicios y simulacros coordinados por la Coordinación Estatal de Protección Civil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -715,7 +715,7 @@ VI.- Los mecanismos para su control y evaluación.
 
 En el caso de que se identifiquen riesgos específicos que puedan afectar de manera grave a la población de una determinada localidad o región se podrán elaborar Programas Especiales de Protección Civil.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -729,7 +729,7 @@ En los inmuebles o establecimientos que por su propia naturaleza o por el uso al
 
 De igual forma, los organizadores de espectáculos de concentración masiva de personas, deberán solicitar de la Unidad una autorización a efecto de verificar las medidas de seguridad con que se cuenta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -747,7 +747,7 @@ Todos los lugares a que se refieren los Artículos anteriores deberán contar co
 
 Para los efectos del párrafo anterior, los sistemas contra incendios deberán contar como mínimo con los elementos descritos en la fracción XXVII del artículo 5 de la presente Ley, salvo lo relativo a los hidrantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2003)</small>
 
 ###### Artículo 36.
 
@@ -763,7 +763,7 @@ IV.- Un mapa con la localización exacta de los materiales peligrosos que maneje
 
 V.- Un listado de los materiales químicos que contenga: descripción, cantidad, datos generales de la empresa que lo surte; uso, disposición, ruta y forma de transporte; así como toda la documentación e información que les sea requerida por la unidad; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -779,7 +779,7 @@ d) La actualización del Programa para la prevención de accidentes a nivel inte
 
 e) Los demás que determinen la presente Ley, las autoridades competentes y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -787,7 +787,7 @@ e) Los demás que determinen la presente Ley, las autoridades competentes y otra
 
 Para la construcción de inmuebles destinados para uso público deberán solicitar a la Coordinación Estatal de Protección Civil, en coordinación con la Unidad Municipal de Protección Civil, la supervisión del riesgo en el inmueble.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -865,7 +865,7 @@ El Sistema Municipal de Protección Civil tendrá como responsabilidad dar el al
 
 Las autoridades, que en los términos de esta Ley y su Reglamento resulten competentes, podrán realizar por conducto del personal debidamente autorizado, visitas de inspección para verificar que se cumplan adecuadamente las condiciones necesarias en materia de protección civil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -879,7 +879,7 @@ Las inspecciones se sujetarán al siguiente procedimiento:
 
 I.- El inspector deberá contar con orden por escrito que contendrá la fecha, ubicación del establecimiento, local o evento por inspeccionar; así como su nombre, razón social o denominación, objeto y aspectos de la visita, el fundamento legal y la motivación de la misma el nombre y la firma de la autoridad que expida la orden y el nombre del inspector;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -889,19 +889,19 @@ III.- Los inspectores efectuarán la visita dentro de las 72 horas siguientes a 
 
 IV.- Al inicio de la visita, el inspector deberá requerir al interesado, para que designe dos personas que funjan como testigos en el desarrollo de la diligencia, apercibiéndosele que en caso de no hacerlo, éstos serán nombrados por el propio inspector;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 V.- De toda visita se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas en la que se expresará lugar, fecha y nombre de la persona con quien se entienda la diligencia, así como las incidencias y el resultado de la misma. El acta deberá ser firmada por el inspector, por la persona con quien se entendió la diligencia, y por los testigos de asistencia propuestos por ésta o nombrados por el inspector, en su caso. Si alguna de las personas señaladas se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia invalide el documento. El acta tendrá valor probatorio pleno, salvo prueba en contrario. Si fue firmada sin protesta por el interesado o los testigos propuestos por éste, no admitirá prueba en contrario;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VI.- El inspector comunicará al visitado las violaciones que encuentre de cualquier obligación a su cargo, y lo hará constar en el acta, asentando además que el responsable del inmueble, obra, servicio, espectáculo o establecimiento, cuenta con cinco días hábiles para presentar por escrito ante la autoridad municipal según corresponda, sus observaciones, ofrecer las pruebas y alegatos que a su derecho convengan;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1111,7 +1111,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE MAYO DE 2003.
 
@@ -1187,7 +1187,7 @@ El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la 
 
 ###### ARTÍCULO SÉPTIMO.
 
-Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -1196,3 +1196,9 @@ La administración de los establecimientos penitenciarios y la custodia de proce
 ###### ARTÍCULO NOVENO.
 
 Se abroga la Ley Orgánica del Ministerio Público del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
