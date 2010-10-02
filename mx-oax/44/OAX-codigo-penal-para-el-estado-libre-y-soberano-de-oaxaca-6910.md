@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2010-02-06"
+last_updated: "2010-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3113,29 +3113,45 @@ Prescripción.
 
 118.- La prescripción producirá su efecto, aún cuando no la alegue como excepción el acusado; los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
 
-119.- Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se cometió el delito si fuere consumado; desde que cesó, si fuere permanente o continuo y, desde el día en que se hubiere realizado el último acto de ejecución, si se tratare de tentativa.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+119.- Los términos pera la prescripción de la acción penal serán continuos: en ellos se considerará el delito con sus modalidades y se contarán.
+
+I.- A partir del momento en que se consumó el delito si fuere instantáneo;
+
+II.- Desde que casó su consumación el fuere permanente o continuo;
+
+III.- Desde el día en que se realizó la ultima conducta su fuere continuado; y
+
+IV.- A partir del día en que se realizó el último acto ejecutivo o se omitió la conducta debida, si el delito fuere de tentativa.
 
 120.- Los términos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquél en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son corporales, y si no lo son, desde la fecha de la sentencia ejecutoria.
 
-121.- La acción penal prescribe en un año, si el delito sólo mereciere multa. Si el delito mereciere, además de esta sanción, la corporal, se atenderá en todo caso a la prescripción de la pena corporal, y lo mismo se observará cuando corresponda alguna otra sanción accesoria.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
+121.- Cuando la sanción correspondiente del delito de que se trate no sea privativa de libertad, la prescripción de la acción penal operará en dos años.
 
-Si se tratare de delito al que le corresponda según éste Código, la pena de cuarenta años de prisión, la prescripción se consumará en ese plazo.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+122.- La acción penal prescribe en un plazo igual al término medio aritmético de la pena privativa de libertad, incluidas las modalidades del delito cometido, pero en ningún caso será menor de tres años.
 
 > <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
 122 Bis.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
 
-123.- Si el delito solo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en el término de dos años.
+123.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 124.- La acción penal que nazca de un delito que sólo puede perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
 
 Pero si llenado el requisito inicial de la querella ya se hubiere deducido la acción ante los tribunales, se observarán las reglas señaladas por la Ley para los delitos que se persigue de oficio.
 
-125.- Cuando haya acumulación de delitos, las acciones penales que de ellas resulten se prescribirán separadamente en el término señalado a cada uno.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-126.- Cuando para deducir una acción penal sea necesario que antes se termine un juicio diverso, civil o criminal, no comenzará a correr la prescripción sino hasta que en el juicio previo se haya pronunciado sentencia irrevocable.
+125.- Tratándose de concurso real de delitos, los plazos para la prescripción de la acción penal empezarán a correr simultáneamente y prescribirán separadamente para cada uno de los delitos; en los casos de concurso ideal de delitos, la acción penal prescribirá conforme a las reglas para el delito que merezca la pena mayor.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+126.- Cuando para ejercitar o continuar la acción penal sea necesaria una resolución previa de autoridad jurisdiccional, la prescripción comenzará a correr desde que se dicte sentencia irrevocable; si para deducir la acción penal la ley exigiere previa declaración o resolución de alguna autoridad, las gestiones que con ese fin se practiquen dentro de los términos contemplados en este capítulo interrumpirán la prescripción.
 
 127.- La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen en averiguación del delito y delincuentes, aunque, por ignorarse quienes sean éstos, no se practiquen las diligencias contra persona determinada.
 
@@ -3143,7 +3159,7 @@ Si se dejare de actuar, la prescripción comenzará de nuevo desde el día sigui
 
 128.- Las prevenciones contenidas en el artículo anterior no comprenden el caso en que las actuaciones se practiquen después de que haya transcurrido la mitad del lapso necesario para la prescripción. Entonces ésta no se interrumpirá sino por la aprehensión del inculpado.
 
-129.- Si para deducir una acción penal exigiere la ley declaración previa de alguna autoridad, las gestiones que a ese fin se realicen interrumpirán la prescripción.
+129.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -3167,7 +3183,7 @@ El Juez de la causa podrá interrumpir la prescripción del delito a petición d
 
 134.- Los reos de homicidio intencional o de lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el lugar donde vive el ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
 
-135.- Para la prescripción de las acciones penales, se tendrá como base el término medio aritmético de las sanciones, según el delito de que se trate.
+135.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 136.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
@@ -3695,9 +3711,9 @@ XXXIX.- Cuando substraiga un expediente de la oficina en que preste sus servicio
 
 Los gastos para reponer el expediente o el documento se incluirán en la reparación del daño.
 
-XL.- Cuando las autoridades de policía o cualesquiera otras, no den al Ministerio Público la intervención oportuna que le corresponde en la persecución de los delitos.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-Los delitos a que se refiere este artículo producen acción popular.
+XL.- Cuando las autoridades de policía o cualesquiera otras, no den al Ministerio Público la intervención oportuna que le corresponde en la persecución de los delitos;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -3818,6 +3834,10 @@ Enriquecimiento ilegítimo.
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)</small>
 
 217 Bis D.- Se impondrá sanción de tres meses a dos años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos, por un término de uno a tres años, al funcionario o empleado de la Administración Pública Estatal o Municipal, o Descentralizada, que otorgue nombramiento o comisión oficial a una persona cuando ésta no desempeñe el servicio para el que se le nombró, si ésta percibe el sueldo, honorarios o remuneración correspondiente. Al nombrado, se le aplicarán de dos meses a dos años de prisión.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+217 Bis E.- Los delitos previstos en este Título y de los cuales se desprenda un quebranto a la hacienda pública del Estado o municipios, se perseguirán por querella y previa declaratoria de perjuicio emitida por la autoridad competente.
 
 ### CAPITULO I.
 
@@ -5125,9 +5145,9 @@ Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento ve
 
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-383.- El fraude se perseguirá por querella. Excepción hecha cuando el activo tenga conducta precedente por el mismo delito o para el caso de que el pasivo sea un organismo o institución pública o descentralizada.
+383.- El fraude se perseguirá por querella de parte ofendida o legitimado para formularla. En los casos en que el sujeto pasivo sea el Estado, se requerirá la declaratoria de perjuicio a que se refiere el artículo 217 Bis-E.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -5642,6 +5662,10 @@ P.O. 23 DE ENERO DE 2010.
 P.O. 6 DE FEBRERO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
