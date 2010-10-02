@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2010-09-25"
+last_updated: "2010-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -12727,7 +12727,7 @@ El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la 
 
 ###### ARTÍCULO SÉPTIMO.
 
-Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 1227/2010 XIV P.E., P.O. 2 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -12736,3 +12736,9 @@ La administración de los establecimientos penitenciarios y la custodia de proce
 ###### ARTÍCULO NOVENO.
 
 Se abroga la Ley Orgánica del Ministerio Público del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
