@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2010-07-26"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -53,9 +53,11 @@ El presente Reglamento regula las disposiciones normativas que se derivan de la 
 
 ### CAPITULO I. DEL REGISTRO DE LAS CONSTANCIAS DE MAYORIA Y ASIGNACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 2.
 
-Los Diputados electos por el principio de mayoría relativa y los elegidos por el principio de representación proporcional, deberán de registrar entre los días diez y doce del mes de septiembre del año de su elección, en la Oficialía Mayor del Congreso, la constancia de mayoría, validez o asignación, emitidas por los Consejos Distritales y General del Instituto Estatal Electoral, ó la copia certificada de la Resolución que le hubiere sido favorable dictada por el Tribunal Estatal Electoral.
+Los Diputados electos por el principio de mayoría relativa y los elegidos por el principio de representación proporcional, deberán de registrar entre los días 7 a 9 del mes de noviembre del año de su elección, en la Oficialía Mayor del Congreso, la constancia de mayoría, validez o asignación, emitidas por los Consejos Distritales y General del Instituto Estatal Electoral, ó la copia certificada de la resolución que le hubiere sido favorable dictada por el Tribunal Estatal Electoral.
 
 Para los efectos anteriores, el Oficial Mayor llevará un libro denominado “De registro de Constancias” en el que se anotará: nombres y apellidos, edad, estado civil, domicilio y ocupación del Diputado Electo; los demás datos que contenga la Constancia de Mayoría o Asignación, así como la fecha y hora de su recepción. En el acto de registro, el Diputado Electo deberá entregar la copia de la Constancia de Mayoría o Asignación correspondiente y en su caso la resolución emitida en su favor.
 
@@ -63,9 +65,11 @@ Para los efectos anteriores, el Oficial Mayor llevará un libro denominado “De
 
 La Oficialía Mayor de la Legislatura, entregará al Diputado Electo la credencial de acceso a la sesión de instalación. La falta de dicho documento implica la prohibición de entrada a la sala de sesiones para ocupar una curul.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 4.
 
-La Comisión Instaladora, al expedir las credenciales de acceso a los Diputados electos, los citara para que estén presentes el día 15 de septiembre a las 10:00 horas en el Salón de Sesiones del Congreso del Estado, cerciorándose de que firmen de enterados.
+La Comisión Instaladora, al expedir las credenciales de acceso a los Diputados electos, los citará para que estén presentes el día 13 de noviembre a las 10:00 horas en el Salón de Sesiones del Congreso del Estado, cerciorándose de que firmen de enterados.
 
 ###### ARTICULO 5.
 
@@ -79,21 +83,29 @@ La Legislatura no podrá abrir sus sesiones y ejercer su cometido sin la concurr
 
 ### CAPITULO II. DE LA INSTALACION Y APERTURA DE LA ASAMBLEA
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 20 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 7.
 
-El día 15 de septiembre a las 10:00 horas, presentes en el Salón de Sesiones del Congreso del Estado, la Comisión Instaladora y los Diputados Electos acreditados, procederán a instalar formalmente la nueva Legislatura en los siguientes términos: El Presidente de la Legislatura, protestara en la forma establecida para el Gobernador del Estado, conforme a lo dispuesto por la Constitución Política Local.
+El día 13 de noviembre a las 10:00 horas, presentes en el Salón de Sesiones del Congreso del Estado, la Comisión Instaladora y los Diputados Electos acreditados, procederán a instalar formalmente la nueva Legislatura en los siguientes términos.
 
 Tomará a los Diputados entrantes, en forma colectiva la protesta constitucional, realizando en seguida la siguiente declaratoria: "La (aquí el número ___ de orden) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, queda instalada hoy (aquí la fecha)".
 
 Hecha la declaración anterior, se expedirá el decreto respectivo y se comunicará la instalación de la Legislatura a las autoridades de la Federación y del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 8.
 
-El día 16 de septiembre del año de la renovación de la Legislatura, abierta la sesión con la asistencia del ciudadano Gobernador del Estado y el ciudadano Presidente del Tribunal Superior de Justicia, el Presidente de la Legislatura hará la siguiente declaratoria:
+El día quince de noviembre del año de la renovación de la Legislatura, abierta la sesión solemne el Presidente de la Legislatura hará la siguiente declaratoria:
 
-(aquí el número de legislatura) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, abre hoy, dieciséis de septiembre de (aquí el año), el primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal".
+"La (aquí el número de legislatura) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, abre hoy quince de noviembre de (aquí el año), el primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal".
 
-A continuación se hará un receso para que se retire el ciudadano Gobernador del Estado y el Presidente del Tribunal Superior de Justicia asistido por la Comisión de Cortesía de la Legislatura, y después de este receso, se expedirá el decreto correspondiente dándose aviso de la apertura a las autoridades de la Federación, del Estado y de los Municipio (sic) de la Entidad.
+A continuación de conformidad con lo que establece el artículo 43 de la Constitución Política Local, el Ciudadano Gobernador del Estado presentará un informe sobre la situación que guarda la Administración Pública, pudiendo dar lectura al mismo, en este caso, el Presidente de la Legislatura contestará dicho informe en términos concisos y generales y con las formalidades que corresponden al acto.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
+
+De la apertura del primer período ordinario de sesiones de la Legislatura, se expedirá el Decreto correspondiente, dándose aviso de la apertura a las autoridades de la Federación, del Estado y de los Municipios de la Entidad.
 
 ###### ARTICULO 9.
 
@@ -111,9 +123,11 @@ La Mesa Directiva del Congreso del Estado, estará integrada por un Presidente, 
 
 El Presidente y Vice-Presidente de la Mesa Directiva, durarán en su cargo un mes, no pudiendo ser reelectos para los mismo cargos para el mes inmediato posterior al de su nombramiento.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 12.
 
-Los Secretarios durarán en su cargo un año de ejercicio legal y serán electos el día 15 de septiembre del año en que corresponda.
+Los Secretarios durarán en su cargo un año de ejercicio legal y serán electos el día 15 de noviembre del año en que corresponda.
 
 ###### ARTICULO 13.
 
@@ -237,7 +251,9 @@ A más tardar en la segunda sesión del primer período ordinario de su primer a
 
 I.- Estudios Constitucionales;
 
-II.- De Vigilancia de la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+II.- De Vigilancia de la Auditoría Superior del Estado;
 
 III.- Gobernación;
 
@@ -251,7 +267,9 @@ VII.- De Educación Pública;
 
 VIII.- De Fomento Industrial Comercial y Artesanal;
 
-IX.- De Presupuesto, Programación y Cuenta Pública;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IX.- De Presupuesto y Programación;
 
 X.- De Turismo;
 
@@ -283,9 +301,25 @@ XXIII.- De Honor y Justicia;
 
 XXIV.- De fortalecimiento y Asuntos Municipales;
 
-XXV.- De Concertación Parlamentaria;
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE DEROGÓ LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XXVI.- De Ecología.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+xxv.- (derogada, p.o. 23 de julio de 2010)
+
+XXVI.- De Ecología;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+
+XXVII.- De Equidad y Género;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
+
+XXVIII.- De Asuntos Migratorios.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XXIX.- De Juventud y Deporte.
 
 ###### ARTICULO 26.
 
@@ -329,6 +363,10 @@ La Diputación Permanente en los recesos de la Cámara, quedara facultada para r
 
 Las Comisiones Permanentes deberán presentar sus dictámenes ante la Legislatura, a más tardar a los 15 días de haber sido recibidos los Expedientes por las mismas; en el caso que no pueda dictaminar, la Comisión lo manifestará por escrito a la Legislatura, expresando el motivo de la demora y solicitando el nuevo plazo, el cual se le concederá con término perentorio. La Legislatura podrá conceder a la Comisión un plazo discrecional cuando el caso sea de indiscutible trascendencia.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2004)</small>
+
+Quedan exceptuadas de lo dispuesto en el párrafo anterior, las Comisiones Permanentes, que por la naturaleza de los asuntos de su competencia, conozcan del trámite de procedimientos ordinarios y especiales previstos en otros ordenamientos legales, en cuyo caso, se estarán a los términos señalados en ellos.
+
 ###### ARTICULO 36.
 
 De los negocios del primer año que tengan pendiente las Comisiones están obligadas a presentar dictamen al día siguiente de la apertura de las sesiones del siguiente año.
@@ -341,17 +379,35 @@ Las Comisiones enumeradas en el artículo 25 del presente Reglamento tendrán la
 
 I.- La Comisión de Estudios Constitucionales se encargará principalmente de estudiar las reformas que se propongan a la Constitución General de la República y a la particular del Estado y quedará integrada preferentemente por Licenciados en Derecho.
 
-II.- La Comisión de Vigilancia de la Contaduría Mayor de Hacienda tendrá las siguientes obligaciones y atribuciones:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2009)</small>
+
+II.- La Comisión de Vigilancia de la Auditoría Superior del Estado tendrá las siguientes obligaciones y atribuciones:
 
 a).- Certificar en la primera y última hoja, expresando el número de estas que se contengan, todos los libros que sean necesarios para las labores de la oficina;
 
-b).- Vigilar que la Contaduría Mayor de Hacienda, cumpla eficazmente con las funciones que le competen;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
-c).- Promover y adoptar las medidas que a su juicio tiendan a imprimir mayor eficacia a las labores de la Contaduría;
+b).- Recibir del Pleno o de la Diputación Permanente los informes de avance de gestión financiera y las Cuentas Públicas, para turnarlos a la Auditoría Superior del Estado;
 
-d).- Proponer los nombramientos del personal de la Contaduría;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
-e).- Proponer las sanciones administrativas que deban imponerse al personal de la Contaduría Mayor de Hacienda;
+c).- Dictaminar las respectivas Cuentas Públicas;
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
+d).- Vigilar y evaluar que la Auditoría Superior del Estado, cumpla eficazmente con las funciones que le competen;
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
+e).- Presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Auditor y Sub Auditores Superiores del Estado, la que se integrará con las propuestas recibidas;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JULIO DE 2009)</small>
+
+f).- Dictaminar acerca de la solicitud de licencia, renuncia o remoción del Auditor Superior del Estado, que se integrará con las propuestas recibidas; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JULIO DE 2009)</small>
+
+g).- Proponer la contratación del personal de la Unidad Técnica de Vigilancia, Evaluación y Control de la Auditoría Superior del Estado, que Auxiliará a la Comisión en el desempeño de sus funciones.
 
 III.- La Comisión de Gobernación efectuará los estudios relativos a conflictos de límites estatales y municipales y atenderá los problemas políticos, que surjan en el seno de los Ayuntamientos o en relación de éstos, con las organizaciones políticas y sociales del municipio;
 
@@ -365,7 +421,9 @@ VII.- La Comisión de Educación, tendrá a su cargo el estudio de las leyes y r
 
 VIII.- La Comisión de Fomento Industrial, Comercial y Artesanal se encargará del estudio de todos aquellos proyectos y obras de beneficio general o sectorial, que tiendan al fomento y desarrollo de las industrias en el Estado, así como de la viabilidad en la creación de organismos que auxilien en la administración pública municipal y estatal en el aspecto comercial y artesanal;
 
-IX.- La Comisión de Presupuesto, Programación y Cuenta Pública, tendrá a su cargo revisar y estudiar los proyectos de Presupuesto de Egresos y Ley de Ingresos del Estado, las leyes de ingresos de los ayuntamientos, así como de las reformas y ampliaciones que se propongan a los presupuestos del Estado y, presentará al pleno del Congreso, el dictamen de la cuenta pública del mismo y de los municipios;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+IX.- La Comisión de Presupuesto y Programación, tendrá a su cargo revisar y estudiar los proyectos de Presupuesto de Egresos y Ley de Ingresos del Estado, las Leyes de Ingresos de los Ayuntamientos, el Plan Estatal de Desarrollo, así como las reformas y ampliaciones que se propongan a los presupuestos del Estado;
 
 X.- La Comisión de Turismo, se encargará de conocer los proyectos y programas de turismo que desarrolle el Estado y los Municipios y vigilar la eficacia de los mismos;
 
@@ -381,7 +439,15 @@ XV.- La Comisión Instructora, conocerá de los expedientes que se integren con 
 
 XVI.- La Comisión de Estilo y Editorial, se encargará de corregir la redacción de los Decretos y Acuerdos, cuidando de no modificar su espíritu y de promover la impresión o edición de ordenamientos jurídicos y de documentos importantes del Congreso, los autores de proyecto de ley si así lo desean, podrán unirse a esta Comisión para la corrección de los mismos;
 
-XVII.- La Comisión de Derechos Humanos, conocerá de todos aquellos casos en que se violen los derechos humanos y estará en colaboración estrecha con la Comisión Estatal de Derechos Humanos y organismos similares;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+
+XVII.- La Comisión de Derechos Humanos, tendrá las siguientes atribuciones:
+
+a).- Conocerá de todos aquellos casos en que se violen los derechos humanos y estará en colaboración estrecha con la Comisión para la Defensa de los Derechos Humanos del Estado y organismos similares;
+
+b).- Emitir la convocatoria pública para allegarse de aspirantes a los cargos de Presidente y Consejeros de la Comisión para la Defensa de los Derechos Humanos del Estado; y
+
+c).- Presentar ante el Pleno, las ternas respectivas de aspirantes a ocupar el cargo de Presidente y Consejeros de la Comisión para la Defensa de los Derechos Humanos del Estado, con el objeto de que éste designe a quien deba ocupar dichos cargos;
 
 XVIII.- Corresponde a la Comisión de Protección Ciudadana, dictaminar todo lo relacionado a las iniciativas de ley o decreto que tenga por finalidad regular jurídica o administrativamente las corporaciones de seguridad pública estatal, así como las bases normativas que impulsen la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos naturales que se produzcan;
 
@@ -401,9 +467,25 @@ XXIII.- La Comisión de Honor y Justicia, conocerá de todos aquellos casos en q
 
 XXIV.- La Comisión de Fortalecimiento y Asuntos Municipales, conocerá de los estudios de los problemas municipales, de la realización de los programas de desarrollo para las comunidades, de la instrumentación de los programas de desarrollo urbano y ecológico municipal, se coordinara con los Organismos e Instituciones de asesoría técnica municipal, y promoverá el bienestar y progreso de los municipios. Así como lo relacionado con autorizaciones al ejecutivo estatal y a los Municipios para la donación, venta, comodato, concesiones y permuta de bienes muebles e inmuebles y de reservas territoriales de su propiedad;
 
-XXV.- La Comisión de Concertación Parlamentaria; estará integrada por los representantes de las fracciones parlamentarias que integren el Congreso del Estado, la presidirá el representante de la fracción parlamentaria que integre la mayoría de Diputados, y se avocará a buscar los mecanismos para la correcta aplicación de la Constitución Política del Estado, la Ley Orgánica del Poder Legislativo y este Reglamento, coadyuvando en los trabajos que le soliciten las comisiones de la Cámara, y velará por el respeto a la legalidad de todos los actos que desarrollen los integrantes de las fracciones parlamentarias del Congreso;
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE DEROGÓ LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XXVI.- La Comisión de Ecología; conocerá de los asuntos relacionados con la protección del medio ambiente y del equilibrio ecológico; lo relativo a convenios, protección y mejoramiento ambiental.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+xxv.- (derogada, p.o. 23 de julio de 2010)
+
+XXVI.- La Comisión de Ecología; conocerá de los asuntos relacionados con la protección del medio ambiente y del equilibrio ecológico; lo relativo a convenios, protección y mejoramiento ambiental;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
+
+XXVII.- La Comisión de Equidad y Género, opinará en los estudios relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer, la familia, personas con discapacidad y los menores, y vigilará su aplicación así como la de las políticas públicas, los programas gubernamentales y las necesidades reales de la sociedad oaxaqueña sobre estos temas. Esta Comisión se integrará preferentemente por las Diputadas que integren el Congreso.
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
+
+XXVIII.- La Comisión Permanente de Asuntos Migratorios, tendrá a su cargo la elaboración de iniciativas de reformas a las leyes que correspondan, tendientes a la creación de instituciones o programas de desarrollo económico, social en materia de migración, tendientes a mejorar el fenómeno de emigración en el Estado de Oaxaca; vigilar y dictaminar todos los asuntos relativos a la procuración e impartición de justicia para los migrantes oaxaqueños, dentro y fuera del país; coadyuvar para que se respeten los derechos de todos los migrantes establecidos en la Constitución y demás leyes.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XXIX.- La Comisión de Juventud y deporte tendrá a su cargo la promoción de iniciativas de ley y las reformas legales necesarias, tendientes a favorecer a la juventud oaxaqueña en todos los órdenes, de igual manera propondrá y gestionará la creación de organismos públicos y privados que tengan como propósito apoyar la educación, cultura, empleo y actividades deportivas para acrecentar la salud y bienestar de los jóvenes; asimismo, favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social, que constituyan beneficios para la juventud oaxaqueña.
 
 ### CAPITULO V. DE LA OFICIALIA MAYOR
 
@@ -435,7 +517,13 @@ V.- Extender las actas de las sesiones públicas, ordinarias y extraordinarias, 
 
 VI.- Extender y certificar copias de las actas para su publicación y para cualquier otro uso previo acuerdo de la Legislatura en este último caso citado;
 
-VII.- Representar a la Legislatura en la celebración de convenios y/o contratos que le encomiende el Presidente de la Gran Comisión; y
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2010)</small>
+
+VII.- REPRESENTAR A LA LEGISLATURA EN LA CELEBRACIÓN DE CONVENIOS Y/O CONTRATOS QUE LE ENCOMIENDE EL PRESIDENTE DE LA JUNTA DE COORDINACIÓN POLÍTICA; Y
 
 VIII.- Las demás que por acuerdo de la Legislatura o que por este Reglamento se le imponga.
 
@@ -447,27 +535,43 @@ El Oficial Mayor en todo caso ordenará lo que fuere más conveniente al buen de
 
 Todo el personal de la Legislatura guardará durante las horas de trabajo compostura y subordinación, cuando algún empleado violare las anteriores prevenciones, el Oficial Mayor, en su carácter de jefe inmediato podrá llamarle la atención y en caso de reincidencia procederá de conformidad con lo establecido en la Ley de la Materia.
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 42.
 
-El Presidente de la Gran Comisión nombrará a los empleados y cubrirá las vacantes que resulten necesarias para el servicio de la Legislatura.
+El Presidente de la Junta de Coordinación Política nombrará a los empleados y cubrirá las vacantes que resulten necesarias para el servicio de la Legislatura.
 
-### CAPITULO VI. CONTADURÍA MAYOR DE HACIENDA
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2009)</small>
+
+### CAPITULO VI. DE LA AUDITORÍA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 43.
 
-La Contaduría Mayor de Hacienda es el órgano de fiscalización y control gubernamental del Congreso del estado, se integra y ejerce sus atribuciones en los términos de la Ley Orgánica del Poder Legislativo del Estado de Oaxaca, la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento Interior.
+La Auditoría Superior del Estado es el órgano técnico del Congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales. Se integra y ejerce sus atribuciones en los términos de la Constitución Política del Estado, este Reglamento, la Ley de Fiscalización Superior del Estado de Oaxaca y el Reglamento Interior de la Auditoría Superior del Estado de Oaxaca.
 
 ### CAPITULO VII. DEL TESORERO
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REFORMADO, P.O. 23 DE JULIO DE 2010) (F. DE E., [N. DE E. REPUBLICADO] P.O. 26 DE JULIO DE 2010)
+
 ###### ARTICULO 44.
 
-Para la administración de los recursos económicos, el Congreso tendrá un tesorero que será nombrado por el pleno a propuesta del Presidente de la Gran Comisión, el cual deberá contar con los mismos requisitos señalados para el Oficial Mayor.
+Para la administración de los recursos económicos, el Congreso tendrá un Tesorero que será nombrado por el pleno a propuesta del Presidente de la Junta de Coordinación Política, el cual deberá contar con los mismos requisitos señalados para el Oficial Mayor.
 
-El tesorero entrará a ejercer su cargo otorgando la fianza correspondiente con los requisitos y responsabilidades para los que de igual clase previenen las Leyes.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 45.
 
-La Tesorería recibirá de la Secretaría de Finanzas del Gobierno del Estado, previo acuerdo de la Comisión de Hacienda, el Presupuesto correspondiente para los gastos que origina el Congreso del Estado, así como la Contaduría Mayor de Hacienda y se nombrará en la segunda quincena del mes de septiembre.
+La Tesorería recibirá de la Secretaría de Finanzas del Gobierno del Estado, previo acuerdo de la Comisión de Hacienda, el Presupuesto correspondiente para los gastos que origina el Congreso del Estado. La Auditoría Superior del Estado presentará su Presupuesto de Egresos, en términos de los artículos 73 y 79 de la Ley de Fiscalización Superior del Estado de Oaxaca.
 
 ###### ARTICULO 46.
 
@@ -543,9 +647,15 @@ V.- Dictámenes de proyecto de Acuerdo; y
 
 VI.- Asuntos Generales.
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 52.
 
-Las sesiones extraordinarias de los períodos ordinarios, se efectuarán en los días hábiles. Únicamente se efectuarán en los días inhábiles, a solicitud expresa del Ejecutivo del Estado o del Presidente de la Gran Comisión.
+Las sesiones extraordinarias de los períodos ordinarios, se efectuarán en los días hábiles. Únicamente se efectuarán en los días inhábiles, a solicitud expresa del Ejecutivo del Estado o del Presidente de la Junta de Coordinación Política.
 
 ###### ARTICULO 53.
 
@@ -581,9 +691,15 @@ Cuando lo crea conveniente la Legislatura por el voto de las dos terceras partes
 
 Si la sesión permanente fuera de varios días, la Legislatura fijará el tiempo que debe durar diariamente y mientras no termine, el Presidente al levantarla dirá: "se suspende la sesión permanente".
 
+(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+
 ###### ARTICULO 59.
 
-Las Sesiones Especiales serán aquellas solicitadas por los miembros de la Gran Comisión o por 5 Diputados cuando menos, y deberán comunicar esta solicitud al Presidente del Congreso, por lo menos con 3 días de anticipación; en ellos se expresará el nombre de los Diputados que harán uso de la palabra y que no excederán de los 15 minutos en sus intervenciones. Los demás Diputados en las Sesiones Especiales que deseen hacer uso de la palabra, deberán inscribirse previamente y no excediéndose de 3 con intervención máxima de 15 minutos cada uno.
+Las Sesiones Especiales serán aquellas solicitadas por los miembros de la Junta de Coordinación Política o por 5 Diputados cuando menos, y deberán comunicar esta solicitud al Presidente del Congreso, por lo menos con 3 días de anticipación; en ellos se expresará el nombre de los Diputados que harán uso de la palabra y que no excederán de los 15 minutos en sus intervenciones. Los demás Diputados en las Sesiones Especiales que deseen hacer uso de la palabra, deberán inscribirse previamente y no excediéndose de 3 con intervención máxima de 15 minutos cada uno.
 
 ###### ARTICULO 60.
 
@@ -989,6 +1105,8 @@ El Secretario General de Gobierno u otro funcionario que se encuentre en el Sal�
 
 ### CAPITULO UNICO. DEL COLEGIO ELECTORAL Y DE OTRAS FACULTADES CONSTITUCIONALES CONFERIDAS AL CONGRESO
 
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+
 ###### ARTICULO 146.
 
 Después de que se aprueben todos los artículos de una Ley o Decreto, lo mismo que las adiciones o modificaciones que se le hicieren, pasará el expediente respectivo a la Comisión de Estilo y Editorial, para que formule la minuta de lo aprobado.
@@ -1019,23 +1137,15 @@ En la interpretación, reformas o derogaciones de las Leyes o Decretos, se obser
 
 ###### ARTICULO 152.
 
-La Legislatura se erigirá en Colegio Electoral, en los casos previstos en la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley Orgánica del Poder Legislativo y para la calificación de los comicios municipales.
+La Legislatura del Estado se erigirá en Colegio Electoral, en los casos previstos en la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley Orgánica del Poder Legislativo.
 
 ###### ARTICULO 153.
 
-En los casos de calificación de elecciones a concejales municipales se seguirá el siguiente procedimiento:
-
-a).- Llegados a la Legislatura los expedientes electorales, dará cuenta de los mismos la Secretaría a fin de que se erija el Congreso en Colegio Electoral, el cual será presidido por el Presidente de la Legislatura en turno y se prorrogará como presidente del Colegio Electoral, aún cuando feneciere el mes para el que fue electo o concluyera el período de sesiones y sólo terminará al finiquitar la calificación de todos los expedientes de los municipios respectivos;
-
-b).- Tratándose de elecciones ordinarias, se procederá de inmediato a integrar cuatro comisiones, compuestas de tres miembros propietarios y tres suplentes cada una, las cuales podrán aumentarse o disminuirse según las necesidades del Congreso, podrán colaborar entre sí y emitirán sus dictámenes, que deberán ser rendidos a más tardar el día 15 de diciembre, pudiéndose prorrogarse el término a solicitud del Presidente del Colegio, pero en todo caso deberán concluir antes del 31 de diciembre del año de la elección ordinaria respectiva;
-
-Los dictámenes podrán emitirse en forma global cuando concurran las mismas características en varios municipios;
-
-c).- Tratándose de elecciones extraordinarias, se estará a lo dispuesto por los dos incisos anteriores y por la legislación electoral, ajustándose a los tiempos de conformidad a la convocatoria de elecciones respectivas.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 154.
 
-El Presidente de la Legislatura señalará con anticipación el día en que ésta deba constituirse en Colegio Electoral, ese día previa declaratoria del Presidente de quedar la Legislatura erigida en Colegio Electoral, se dará lectura al dictamen de la Comisión que acompañado con el correspondiente escrutinio, se pondrá a discusión en lo general y en lo particular, teniendo en este caso presente lo dispuesto para la discusión y votación de las Leyes.
+(DEROGADO, P.O. 4 DE JULIO DE 2009)
 
 ###### ARTICULO 155.
 
@@ -1281,6 +1391,14 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE ANTONIO ESTEFAN GARFIAS.
 
+P.O. 19 DE DICIEMBRE DE 1998.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+UNICO.- Las reformas de que se ocupa este Decreto, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 1999.
+
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1316,3 +1434,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día 13 de noviembre de 2010.
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- En todos los ordenamientos, actos y convenios celebrados por la Gran Comisión se entenderán como referidos a la Junta de Coordinación Política del Congreso del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
