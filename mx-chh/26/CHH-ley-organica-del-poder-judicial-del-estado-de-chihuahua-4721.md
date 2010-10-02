@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2010-09-25"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -1367,51 +1367,29 @@ X.- Rendir, en los primeros cinco días del mes de enero, un informe anual al Pr
 
 XI.- Las demás que prescriban las leyes.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO XI. DE LA COORDINACIÓN PARA LA INSTRUMENTACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 101.
 
-La Coordinación para la Instrumentación del Nuevo Sistema de Justicia Penal, es el órgano interno encargado de coadyuvar con el Pleno, con el Presidente, así como con el Centro Estatal para la Instrumentación del Nuevo Sistema de Justicia Penal, en la ejecución, dentro del ámbito competencial del Poder Judicial, de los programas y acciones que faciliten la correcta y eficiente aplicación de dicho Sistema en el Estado.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 102.
 
-Su titularidad se deposita en un Coordinador que será nombrado y removido por el Pleno, a propuesta de su Presidente. En el desempeño de sus funciones dependerá directamente de este último.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
-El Coordinador gozará de los beneficios a que se refiere el artículo 25, segundo párrafo, de la presente Ley, en cuanto a percepciones, beneficios laborales y jubilación. Para el correcto ejercicio de sus atribuciones, contará con el personal necesario a su cargo, de acuerdo con las posibilidades presupuestales.
-
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 103.
 
-Son atribuciones de la Coordinación, las siguientes:
-
-I. Formar parte, junto con los magistrados vocales, de la Coordinación Estatal de Evaluación y Seguimiento del Centro Estatal para la Instrumentación del Nuevo Sistema de Justicia Penal;
-
-II. Participar en la ejecución de los programas, proyectos y acciones aprobados por la Coordinación Estatal de Evaluación y Seguimiento del Centro Estatal para la Instrumentación del Nuevo Sistema de Justicia Penal, en las tareas que involucren al Poder Judicial del Estado;
-
-III. Proponer y, en su caso, ejecutar, toda clase de ideas, proyectos, reformas legales o acciones que coadyuven a la mejor instrumentación del Nuevo Sistema de Justicia Penal, tanto al Pleno del Supremo Tribunal de Justicia, a su Presidente, como a la Coordinación Estatal de Evaluación y Seguimiento;
-
-IV. Colaborar con el Secretario Ejecutivo y demás órganos del Centro Estatal para la Instrumentación del Nuevo Sistema de Justicia Penal, en el cumplimiento de sus atribuciones;
-
-V. Coordinarse con el Centro de Formación y Actualización Judicial en el ejercicio de sus atribuciones, en aquellos casos en los que la capacitación, formación, actualización o profesionalización involucre al Nuevo Sistema de Justicia Penal;
-
-VI. Representar al Poder Judicial dentro y fuera del Estado, por instrucciones del Presidente, en todos los eventos relativos al Nuevo Sistema de Justicia Penal, y
-
-VII. Las demás que el Pleno o su Presidente le confieran.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ###### ARTICULO 104.
 
@@ -3417,7 +3395,7 @@ El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la 
 
 ###### ARTÍCULO SÉPTIMO.
 
-Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -3426,3 +3404,9 @@ La administración de los establecimientos penitenciarios y la custodia de proce
 ###### ARTÍCULO NOVENO.
 
 Se abroga la Ley Orgánica del Ministerio Público del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
