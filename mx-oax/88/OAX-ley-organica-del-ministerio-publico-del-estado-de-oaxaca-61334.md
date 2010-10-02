@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-ministerio-publico-del-estado-de-oaxaca-61334"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-05-01"
-last_updated: "2008-05-01"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el jueves 1 de mayo de 2008.
 
@@ -45,7 +45,9 @@ LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE OAXACA
 
 Esta Ley es de orden público e interés social, tiene por objeto organizar y regular el funcionamiento de la Institución del Ministerio Público del Estado, para el despacho de los asuntos que le atribuyen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca y las demás normas aplicables.
 
-El Ministerio Público tiene a su cargo ejercer la representación y defensa de los intereses de la sociedad.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+El Ministerio Público tiene a su cargo ejercer la representación y defensa de los intereses de la sociedad en general y, en particular, de la víctima u ofendido del delito.
 
 ###### Artículo 2.
 
@@ -57,9 +59,13 @@ Su actuación se sujetará a los principios de legalidad, probidad, responsabili
 
 Son funciones del Ministerio Público:
 
-I. Dirigir en forma exclusiva la investigación de los delitos y recabar todos los elementos necesarios, para la comprobación del cuerpo del delito y la probable responsabilidad del imputado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-II. Ejercer la acción penal en la forma establecida por la ley;
+I. Dirigir en forma exclusiva la investigación de los delitos y recabar todos los elementos necesarios que permitan establecer que se ha cometido el hecho delictivo y que existe la probabilidad de que el indiciado lo cometió o participó en su comisión;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+II. Ejercer la acción penal en la forma establecida por la ley, así como intervenir de acuerdo a sus facultades y atribuciones en las distintas fases e instancias procesales;
 
 III. Promover la resolución de los conflictos surgidos como consecuencia de la comisión de delitos, a través de acuerdos reparatorios entre la víctima y el imputado, en los casos autorizados por las leyes;
 
@@ -71,11 +77,15 @@ VI. Vigilar la correcta aplicación de la ley en todos los casos que conozca y, 
 
 VII. Adoptar las medidas necesarias para la protección y atención de víctimas y testigos; podrá también implementar medidas de protección de sus propios funcionarios, cuando el caso lo requiera;
 
-VIII. Dirigir a la policía Ministerial y a los cuerpos de seguridad del Estado cuando estén obligados a auxiliar en funciones de investigación y persecución de delitos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+VIII. Dirigir a los Agentes Estatales de Investigación, así como a las demás instituciones policiales cuando estén obligadas a auxiliar en funciones de investigación y persecución de delitos;
 
 IX. Conocer, en auxilio del Ministerio Público de la Federación, de la comisión de delitos competencia de esta autoridad federal;
 
-X. Intervenir en los procesos de ejecución de las penas vigilando que se respeten los derechos humanos de los sentenciados y las disposiciones de las sentencias;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+X. Intervenir en los procesos de ejecución de las penas vigilando que se respeten los derechos humanos de los sentenciados; las disposiciones de las sentencias, y el cumplimiento del pago de reparación del daño;
 
 XI. Asistir y conducirse con diligencia en las actuaciones en que tenga que intervenir de acuerdo a sus atribuciones; y
 
@@ -107,9 +117,11 @@ La Institución del Ministerio Público del Estado, estará integrada de la sigu
 
 I. Procurador (a) General de Justicia del Estado;
 
-II. Subprocurador (a) de Investigaciones;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-III. Subprocurador(a) de Procesos;
+II. Subprocuradores (as) generales;
+
+III. (DEROGADA, P.O. 2 DE OCTUBRE DE 2010)
 
 IV. Subprocurador (a) de Justicia para Adolescentes;
 
@@ -117,7 +129,9 @@ V. Subprocurador (a) de Atención a Víctimas, Justicia Restaurativa y Servicios
 
 VI. Subprocurador (es) Regionales;
 
-VII. Fiscal de Combate a la Delincuencia Organizada;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+VII. Subprocurador (a) para la Atención de Delitos de Alto Impacto;
 
 VIII. Fiscal para la Atención de Delitos por Violencia de Género contra la Mujer;
 
@@ -125,23 +139,37 @@ IX. Fiscal para la Atención de Delitos Electorales;
 
 X. Fiscal de Control Interno y Evaluación;
 
-XI. Fiscales Especializados;
+XI. (DEROGADA, P.O. 2 DE OCTUBRE DE 2010)
 
-XII. Director (a) de la Agencia Estatal de Investigaciones;
+XII. (DEROGADA, P.O. 2 DE OCTUBRE DE 2010)
 
 XIII. Director (a) del Instituto de Formación y Capacitación Profesional;
 
 XIV. Director (a) del Instituto de Servicios Periciales;
 
-XV. Director (a) de Derechos Humanos;
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-XVI. Jefes (as) de las Agencias Locales del Ministerio Público;
+XV. Director (a) Jurídico Consultivo;
 
-XVII. Agentes del Ministerio Público; y
+XVI. Director (a) de Derechos Humanos;
 
-XVIII. Jefe de Unidad y Jefes de Departamentos que se requieran.
+XVII. Jefes (as) de las Agencias Locales del Ministerio Público;
 
-El Procurador, los Subprocuradores, los Fiscales Especializados, los Directores, los Jefes de las Agencias Locales y los Agentes del Ministerio Público ejercen en lo conducente, las funciones que el artículo 3 de la presente Ley y la legislación aplicable, reservan a la Institución Ministerial.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XVIII. Agentes del Ministerio Público; y
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XIX. Directores, Subdirectores, Jefes de Unidad y Jefes de Departamentos que se requieran.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+El Procurador, Subprocuradores, Fiscales, Directores, Subdirectores, Jefes de las Agencias Locales y los Agentes del Ministerio Público ejercen en lo conducente, las funciones que el artículo 3 de la presente Ley y la legislación aplicable, reservan a la Institución Ministerial, pudiendo intervenir por sí mismos en las audiencias preliminar, intermedia y de juicio oral, en los casos que sea necesario.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+El Ministerio Público para la investigación de los delitos tendrá el mando de la Agencia Estatal de Investigaciones y de las demás instituciones policiales.
 
 ###### Artículo 8.
 
@@ -155,11 +183,17 @@ Si el Congreso del Estado rechaza la terna propuesta, el Gobernador del Estado r
 
 El Procurador General de Justicia dejará de ejercer su cargo por renuncia, remoción por parte del Ejecutivo y en los casos previstos en el Título Séptimo de la Constitución del Estado.
 
-En los casos previstos en el párrafo anterior, en tanto la Legislatura procede al nombramiento de nuevo Procurador, quedará encargado de la Procuraduría el Subprocurador de Investigaciones.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+En los casos previstos en el párrafo anterior, en tanto la Legislatura procede al nombramiento de nuevo Procurador, quedará encargado de la Procuraduría el Subprocurador con mayor antigüedad en dicho cargo.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 9.
 
-Para ser Subprocurador, Director y Fiscal Especializado se requiere ser mexicano en pleno ejercicio de sus derechos, mayor de treinta años de edad, Licenciado en Derecho con título legalmente expedido, cinco años de ejercicio profesional como mínimo y no haber sido condenado por delito doloso.
+Para ser Subprocurador, Fiscal o Director se requiere ser mexicano en pleno ejercicio de sus derechos, mayor de treinta años de edad, Licenciado en Derecho con título y cedula profesional legalmente expedidos, cinco años de ejercicio profesional como mínimo y no haber sido condenado por delito doloso.
+
+Para ser Subprocurador de Atención a Víctimas, Justicia Restaurativa y Servicios a la Comunidad o Director del Centro de Justicia Restaurativa, se requiere ser mexicano en pleno ejercicio de sus derechos, mayor de treinta años de edad, Licenciado en Derecho o en Psicología, con título y cedula profesional legalmente expedidos, cinco años de ejercicio profesional como mínimo, no haber sido condenado por delito doloso y con formación especializada en mecanismos alternativos de actuación de controversias; tratándose de Psicólogos, se procurara que tenga conocimientos jurídicos.
 
 ###### Artículo 10.
 
@@ -169,33 +203,59 @@ Para ser Jefe de Agencia Local se requieren los mismos requisitos que los señal
 
 Para ser Director del Instituto de Formación y Capacitación Profesional se requiere, además de los requisitos señalados en el artículo 9, tener experiencia mínima de tres años en áreas de investigación académica o práctica docente.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 12.
 
-Para ser Jefe de Unidad se requiere ser mexicano en pleno ejercicio de sus derechos, contar con título legalmente expedido en la Licenciatura afín al área de adscripción, ser mayor de 30 años, tener por lo menos tres años de práctica profesional y no haber sido condenado por delito doloso.
+Para ser Jefe de Unidad se requiere ser mexicano en pleno ejercicio de sus derechos, con título y cedula profesional legalmente expedidos en la Licenciatura afín al área de adscripción , tener por lo menos tres años de práctica profesional y no haber sido condenado por delito doloso.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-Para ser Agente del Ministerio Público se requiere ser mexicano en pleno ejercicio de sus derechos, Licenciado en Derecho con título legalmente expedido y contar con tres años de experiencia profesional, no haber sido condenado por delito doloso y haber aprobado el curso de formación profesional y el examen de selección correspondiente.
+Para ingresar y permanecer como Agente del Ministerio Público se requiere:
+
+I. Ser mexicano en pleno ejercicio de sus derechos;
+
+II. Licenciado en Derecho con título y cedula profesional legalmente expedidos;
+
+III. No haber sido condenado por delito doloso, ni haber sido destituido o inhabilitado por resolución firme como servidor público;
+
+IV. No estar sujetos a procedimientos de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
+
+V. No hacer uso de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padeces alcoholismo;
+
+VI. Haber aprobado el examen de selección y el curso de formación profesional;
+
+VII. Cumplir con los programas de profesionalización que se establezcan;
+
+VIII. Aprobar las evaluaciones de control de confianza que se establezcan;
+
+IX. Contar con la certificación y registra actualizados a que se refiere esta Ley;
+
+X. Cumplir con los cambios de adscripción; y
+
+XI. Los demás requisitos que establezcan las disposiciones aplicables.
 
 ###### Artículo 14.
 
-Para ser Director de la Agencia Estatal de Investigaciones se requiere ser mexicano en pleno ejercicio de sus derechos, mayor de treinta años, con experiencia mínima de tres años en materia de investigación delictiva o áreas relacionadas y no haber sido condenado por delito doloso.
-
-Los requisitos para ocupar los diversos cargos o mandos dentro de la Agencia Estatal de Investigaciones serán determinados en su Reglamento.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ###### Artículo 15.
 
-Para ingresar como Agente de la Policía Ministerial se requiere ser mexicano en pleno ejercicio de sus derechos, tener estudios mínimos concluidos de nivel medio superior, edad mínima de 20 años, no haber sido condenado por delito doloso y haber aprobado el curso de formación profesional y los exámenes de selección correspondientes.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 16.
 
-Para ser perito se requiere ser mexicano en pleno ejercicio de sus derechos, con título legalmente expedido, ser mayor de veinticinco años, contar con tres años de experiencia profesional y no haber sido condenado por delito doloso.
+Para, ingresar y permanecer como perito se requiere, ser mexicano en pleno ejercicio de sus derechos, con titula legalmente expedido o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la qua deba dictaminar cuando de acuerdo a las normas aplicables, no necesite título o cédula profesional para su ejercicio; no haber sido condenado por delito doloso, no estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables, no hacer uso de sustancias psicotrópicas, de estupefacientes u otras que produzcan efectos similares, ni padeces alcoholismo, y presentar y aprobar las evaluaciones de control de confianza.
 
-Si se trata de actividades no reglamentadas en la ley, los conocimientos deberán ser acreditados por medio idóneo.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 17.
 
-Para poder desempeñar un cargo, todos los servidores públicos de la Procuraduría deberán rendir la protesta de ley, además de los requisitos exigidos por esta Ley y su Reglamento, deberán aprobar los exámenes psicométricos y de detección de drogas de abuso.
+Para poder desempeñar un cargo, todos los servidores públicos de la Procuraduría deberán rendir la protesta de ley, y además de cumplir los requisitos exigidos por esta Ley y su Reglamento, deberán aprobar los exámenes psicométricos y de detección de drogas de abuso, así como asumir el compromiso de cumplir, los postulados del Código de Ética de la Institución.
 
 ###### Artículo 18.
 
@@ -205,15 +265,21 @@ El Procurador podrá ordenar el cambio de adscripción del personal de la Instit
 
 El personal de la Institución será suplido de la siguiente manera:
 
-I. El Procurador General de Justicia, por el Subprocurador de Investigaciones;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-II. Los Subprocuradores o Fiscales, por alguno de los Directores integrados en su área;
+I. El Procurador General de Justicia, por el subprocurador general que él designe, y en ausencia de éstos, por el fiscal o servidor público de la institución que determine;
 
-III. Los Subprocuradores Regionales, por quien designe el Procurador General;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-IV. Los Jefes de las Agencias Locales, por quien designe el Subprocurador Regional que corresponda; y
+II. Los Subprocuradores y Fiscales, por quien designe el Procurador General;
 
-V. Los Agentes del Ministerio Público, por el Agente del Ministerio Público que designe el Superior Jerárquico del área correspondiente.
+III. (DEROGADA, P.O. 2 DE OCTUBRE DE 2010)
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+IV. Los Directores de Área, los Jefes de las Agencias Locales y Agentes del Ministerio Público, por quien designe su Superior Jerárquico;
+
+V. (DEROGADA, P.O. 2 DE OCTUBRE DE 2010)
 
 ### CAPÍTULO II. DEL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 
@@ -221,109 +287,133 @@ V. Los Agentes del Ministerio Público, por el Agente del Ministerio Público qu
 
 El Procurador General de Justicia preside la Institución del Ministerio Público en el Estado y tiene las siguientes atribuciones y deberes:
 
-I. Determinar la política institucional del Ministerio Público, así como los criterios y prioridades en la investigación de los delitos y el ejercicio de la acción penal;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-II. Garantizar la autonomía técnica de la Institución;
+I. Determinar la política institucional del Ministerio Público, así como los criterios y prioridades en la investigación de los delitos, ejercicio de la acción penal y desistirse de ella cuando proceda;
 
-III. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la Institución y ejercer la disciplina entre sus integrantes;
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-IV. Dictar los criterios generales que deberán regir la función de protección, asistencia y atención de víctimas y testigos;
+II. Ejercer el mando funcional de la Agencia Estatal de Investigaciones y demás instituciones policiales, en las labores de investigaciones de los delitos;
 
-V. Suscribir dentro del ámbito de su competencia, acuerdos de colaboración;
+III. Garantizar la autonomía técnica de la Institución;
 
-VI. Emitir reglamentos, acuerdos, circulares, instructivos, manuales de organización y procedimientos y demás disposiciones jurídicas y administrativas que sean de su competencia, conducentes al buen despacho de las funciones de la Institución;
+IV. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la Institución y ejercer la disciplina entre sus integrantes;
 
-VII. Instruir la integración de grupos o equipos especiales para la investigación de casos concretos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-VIII. Crear y presidir comisiones especiales de estudio y análisis para la organización y adecuado funcionamiento de la Institución;
+V. Dictar los criterios generales que deberán regir la función de protección, asistencia y atención de víctimas del delito y testigos;
 
-IX. Coadyuvar en la política estatal de prevención del delito;
+VI. Suscribir dentro del ámbito de su competencia, acuerdos de colaboración;
 
-X. Resolver todas las controversias que se susciten entre las Subprocuradurías Regionales sobre las funciones que les corresponden;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-XI. Solicitar la intervención de comunicaciones privadas en términos del artículo 16 de la Constitución Federal;
+VII. Emitir reglamentos, acuerdos, circulares, instructivos, manuales de organización y procedimientos, así como las demás disposiciones jurídicas y administrativas que sean de su competencia, conducentes al buen despacho de las funciones de la Institución;
 
-XII. Proponer al titular del Poder Ejecutivo del Estado proyectos de Leyes, Decretos y Reglamentos en materia de investigación del delito y procuración de justicia;
+VIII. Instruir la integración de grupos o equipos especiales para la investigación de casos concretos;
 
-XIII. Resolver el recurso de inconformidad interpuesto por la víctima u ofendido, en contra del no ejercicio de la acción penal, prescripción, negativa del ministerio público a desahogar diligencias propuestas por alguna de las partes, abstención de iniciar la investigación o la aplicación de un principio de oportunidad;
+IX. Crear y presidir comisiones especiales de estudio y análisis para la organización y adecuado funcionamiento de la Institución;
 
-XIV. Imponer las sanciones que se deriven de los procedimientos administrativos tramitados en contra de los servidores públicos de esta Institución;
+X. Coadyuvar en la política estatal de prevención del delito;
 
-XV. Resolver el recurso de reclamación interpuesto por la víctima u ofendido en contra de la negativa sobre la reapertura del proceso y realización de diligencias de investigación;
+XI. Resolver todas las controversias que se susciten entre las Subprocuradurías Regionales sobre las funciones que les corresponden;
 
-XVI. Conocer y resolver de las excusas y recusaciones que sean interpuestas contra servidores públicos de la Institución;
+XII. Solicitar la intervención de comunicaciones privadas en términos del artículo 16 de la Constitución Federal;
 
-XVII. Establecer Subprocuradurías Regionales, Direcciones, Agencias Locales del Ministerio Público, Fiscalías Especializadas, Unidades y las áreas administrativas y operativas que sean necesarias para la prestación del servicio y el ejercicio de las funciones sustantivas de la Institución, conforme a los principios de racionalidad, austeridad, responsabilidad y eficacia en el gasto público;
+XIII. Proponer al titular del Poder Ejecutivo del Estado proyectos de Leyes, Decretos y Reglamentos en materia de investigación del delito y procuración de justicia;
 
-XVIII. Designar y remover a Subprocuradores, Directores, Fiscales Especializados y Agentes Locales de la Procuraduría General de Justicia del Estado, de conformidad con los lineamientos establecidos en esta Ley y en el Reglamento aplicable, además de autorizar licencias y aceptar las renuncias de los mismos;
+XIV. Resolver el recurso de inconformidad interpuesto por la víctima u ofendido, en contra del no ejercicio de la acción penal, prescripción, negativa del ministerio público a desahogar diligencias propuestas por alguna de las partes, abstención de iniciar la investigación o la aplicación de un principio de oportunidad;
 
-XIX. Dispensar la práctica de la necropsia cuando la muerte de la persona no sea constitutiva de delito y tratándose de delitos culposos cuando sea evidente la causa que la originó;
+XV. Imponer las sanciones que se deriven de los procedimientos administrativos tramitados en contra de los servidores públicos de esta Institución;
 
-XX. Encomendar a los servidores públicos de la Institución el trámite de los asuntos que estime convenientes y delegar funciones inherentes a su cargo;
+XVI. Resolver el recurso de reclamación interpuesto por la víctima u ofendido en contra de la negativa sobre la reapertura del proceso y realización de diligencias de investigación;
 
-XXI. Disponer conforme a la normatividad aplicable del Fondo para la Procuración de Justicia;
+XVII. Conocer y resolver de las excusas y recusaciones que sean interpuestas contra servidores públicos de la Institución;
 
-XXII. Proponer al Titular del Poder Ejecutivo el presupuesto de egresos de la Institución;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-XXIII. Contratar profesionales, técnicos, expertos y asesores especializados, en los casos y términos que fijen las leyes;
+XVIII. Establecer Subprocuradurías Regionales, Fiscalías, Direcciones, Agencias Locales del Ministerio Público, Unidades, Áreas Administrativas y Operativas que sean necesarias para la prestación del servicio y el ejercicio de las funciones sustantivas de la Institución, conforme a los principios de racionalidad, austeridad, responsabilidad y eficacia en el gasto público;
 
-XXIV. Comparecer ante el Congreso del Estado para informar sobre los asuntos a su cargo cuando sea requerido;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-XXV. Dar al personal del Ministerio Público las instrucciones generales o especiales para el cumplimiento de sus deberes y para conseguir la unidad de acción de la Institución;
+XIX. Designar y remover a Subprocuradores, Fiscales, Directores y Jefes de Agencias Locales de la Procuraduría General de Justicia del Estado, de conformidad con los lineamientos establecidos en esta Ley y en el Reglamento aplicable, además de autorizar licencias y aceptar las renuncias de los mismos;
 
-XXVI. Poner en conocimiento del titular del Poder Ejecutivo del Estado las faltas o irregularidades que se adviertan, en que incurran los integrantes del Poder Judicial, para los efectos de la fracción X del artículo 79 de la Constitución Local;
+XX. Dispensar la práctica de la necropsia cuando la muerte de la persona no sea constitutiva de delito y tratándose de delitos culposos cuando sea evidente la causa que la originó;
 
-XXVII. Ofrecer y entregar con cargo a su presupuesto recompensas en numerario a quienes colaboren en la localización o detención de personas durante la etapa de la investigación en contra de las cuales exista mandamiento judicial de aprehensión, o de reaprehensión en los términos y condiciones, que por acuerdo específico el Procurador General de Justicia del Estado determine; y
+XXI. Encomendar a los servidores públicos de la Institución el trámite de los asuntos que estime convenientes y delegar funciones inherentes a su cargo;
 
-XXVIII. Las demás que le confieran las disposiciones legales aplicables.
+XXII. Disponer conforme a la normatividad aplicable del Fondo para la Procuración de Justicia;
 
-### CAPÍTULO III. DEL SUBPROCURADOR DE INVESTIGACIONES
+XXIII. Proponer al Titular del Poder Ejecutivo el presupuesto de egresos de la Institución;
+
+XXIV. Contratar profesionales, técnicos, expertos y asesores especializados, en los casos y términos que fijen las leyes;
+
+XXV. Comparecer ante el Congreso del Estado para informar sobre los asuntos a su cargo cuando sea requerido;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XXVI. Dar al personal del Ministerio Público las instrucciones legales, generales o especiales para el cumplimiento de sus deberes y para conseguir la unidad de acción de la Institución. El personal que incumpla estas instrucciones, será sancionado conforme al procedimiento establecido en el Capítulo II del Titulo Quinto de esta ley;
+
+XXVII. Poner en conocimiento del Titular del Poder Ejecutivo del Estado las faltas o irregularidades que se adviertan, en que incurran los integrantes del Poder Judicial, para los efectos de la fracción X del artículo 79 de la Constitución Local;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XXVIII. Ofrecer y entregar con cargo a su presupuesto o con recursos del Fondo de Procuración de Justicia, recompensas en numerario a quienes colaboren en la localización o detención de personas durante la etapa de la investigación, en contra de las cuales exista mandamiento judicial de aprehensión, o de reaprehensión, en los términos y condiciones, que por acuerdo específico, el Procurador General de Justicia del Estado determine; y
+
+XXIX. Las demás que le confieran las disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO III. DE LOS SUBPROCURADORES (AS) GENERALES
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 21.
 
-Son atribuciones del Subprocurador de Investigaciones:
+Son atribuciones de los Subprocuradores (as) Generales:
 
-I. Suplir al Procurador General de Justicia en su ausencia temporal, impedimento o excusa;
+(SIC) Suplir al Procurador General de Justicia en su ausencia temporal, impedimento o excusa, cuando éste lo designe;
 
-II. Acordar con el Procurador General de Justicia todo lo concerniente al ámbito de su competencia;
+I. (SIC) Vigilar y revisar en el ámbito territorial de su competencia y en su caso, con los Subprocuradores Regionales, el trámite correcto de los procesos penales desde la etapa preliminar hasta la ejecución de la sentencia;
 
-III. Coordinar a los Subprocuradores Regionales en las áreas de su competencia;
+III. Vigilar y revisar en el ámbito territorial de su competencia los procesos civiles y familiares en los que la Institución intervenga;
 
-IV. Asesorar en la determinación de criterios de persecución de delitos en el sistema mixto tradicional a los Agentes del Ministerio Público;
+IV. Vigilar la secuela de los recursos que se tramiten en segunda Instancia en el Honorables Tribunal Superior de Justicia del Estado, correspondientes al ámbito territorial de su competencia;
 
-V. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por disposición de las leyes;
+V. Establecer con los Subprocuradores Regionales y Fiscales, los lineamientos para determinar la procedencia del archivo provisional o definitivo de la investigación, así como del ejercicio o no de la acción penal;
 
-VI. Coordinarse con el Director de la Agencia Estatal de Investigaciones, para asegurar la eficacia en la investigación de los delitos en el sistema mixto tradicional; y
+VI. Coordinarse con el Titular de la Agencia Estatal de Investigaciones, para el cumplimiento eficaz de sus atribuciones;
 
-VII. Las demás que le asigne la normatividad aplicable o el Procurador General de Justicia del Estado; (sic)
+VII. Suscribir los documentos electivos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación;
+
+VIII. Someter a la aprobación del Procurador los estudios o proyectos que se elaboren en las áreas a su cargo; y
+
+IX. Las demás que le asigne esta Ley o el Procurador General de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+Artículo 21 BIS.- Las Subprocuradurías Generales ejercerán sus atribuciones de acuerdo a la siguiente competencia territorial.
+
+I. Subprocuraduría General Zona Norte, que comprende las regiones de la Mixteca, Cañada, Cuenca, Sierra Norte y Valles Centrales (Tlacolula, Etla, Ejutla, Ocotlán, Zimatlán y Zaachila); y
+
+II. Subprocuraduría General Zona Sur, que comprende las regiones del Istmo, Costa, Sierra Sur, Centro y Municipios Conurbados.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 22.
 
-De la Subprocuraduría de Investigaciones dependerán las Direcciones y mesas especiales que sean necesarias para su adecuado funcionamiento acorde al presupuesto, cuyas funciones y atribuciones estarán señaladas en el Reglamento de este ordenamiento.
+Las Subprocuradurías Generales de Zona contarán con la estructura necesaria para su adecuado funcionamiento, cuyas funciones y atribuciones estarán señaladas en el Reglamento de este ordenamiento.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO IV. DEL SUBPROCURADOR DE PROCESOS
 
 ###### Artículo 23.
 
-Son atribuciones y deberes del Subprocurador de Procesos las siguientes:
-
-I. Vigilar y revisar los procesos penales desde la etapa preliminar hasta la ejecución de la sentencia, así como los procesos penales del sistema mixto tradicional, desde la etapa de preinstrucción y los procesos civiles y familiares en los que la Institución intervenga;
-
-II. Vigilar la secuela de los recursos que se tramiten en segunda instancia en el Honorable Tribunal Superior de Justicia del Estado;
-
-III. Atender y tramitar las colaboraciones institucionales en el país y en el extranjero, en términos de lo dispuesto por los convenios que en la materia celebre la Institución;
-
-IV. Coordinar la representación Jurídica del Procurador ante las autoridades administrativas y judiciales en los asuntos en que sea parte o tenga interés;
-
-V. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación;
-
-VI. Someter a la aprobación del Procurador los estudios o proyectos que se elaboren en las áreas a su cargo; y
-
-VII. Las demás que le asignen esta Ley o el Procurador General de Justicia del Estado.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ###### Artículo 24.
 
-La Subprocuraduría de Procesos estará integrada con las Direcciones necesarias para su adecuado funcionamiento acorde al presupuesto, cuyas facultades y atribuciones estarán señaladas en el Reglamento de la presente Ley.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ### CAPÍTULO V. DEL SUBPROCURADOR DE JUSTICIA PARA ADOLESCENTES
 
@@ -331,9 +421,11 @@ La Subprocuraduría de Procesos estará integrada con las Direcciones necesarias
 
 El Subprocurador de Justicia para Adolescentes, vigilará y revisará los procesos penales que realicen las áreas a su cargo, desde la etapa preliminar hasta la ejecución de la sentencia, conforme sus atribuciones, funciones, deberes y obligaciones en los términos previstos en la Ley de Justicia para Adolescentes y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 26.
 
-La Subprocuraduría de Justicia para Adolescentes se integrará con los Agentes del Ministerio Público y elementos de la Agencia Estatal de Investigaciones especializados en justicia para adolescentes, Peritos, así como la estructura administrativa que sea necesaria para el adecuado ejercicio de sus funciones.
+La Subprocuraduría de Justicia para Adolescentes, se integrará con los Agentes del Ministerio Público, elementos de la Agencia Estatal de Investigaciones especializados en justicia para adolescentes y Peritos, que deberán adscribírselo; y además contará con la estructura necesaria para su adecuado funcionamiento, cuyas funciones y atribuciones estarán señaladas en el Reglamento de este ordenamiento.
 
 ### CAPÍTULO VI. DEL SUBPROCURADOR DE ATENCIÓN A VÍCTIMAS, JUSTICIA RESTAURATIVA Y SERVICIOS A LA COMUNIDAD
 
@@ -345,7 +437,9 @@ I. Vigilar la adecuada implementación de los programas del centro de justicia r
 
 II. Brindar a la víctima y a sus familiares la asesoría legal que le permita conocer y ejercer sus derechos dentro del proceso penal;
 
-III. Coordinar la atención y protección que se otorgue a víctimas, sus familiares y testigos en la comisión de un delito;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+III. Coordinar la atención médica y psicológica de urgencia a las víctimas del delito, sus familiares, así como la protección a testigos;
 
 IV. Definir, promover y desarrollar programas de prevención del delito;
 
@@ -353,9 +447,11 @@ V. Celebrar convenios de colaboración con organismos e instituciones de caráct
 
 VI. Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 28.
 
-La Subprocuraduría de Atención a Víctimas, Justicia Restaurativa y Servicios a la Comunidad estará integrada con las direcciones necesarias para su adecuado funcionamiento, cuyas facultades y atribuciones estarán señaladas en el Reglamento de la presente Ley.
+La Subprocuraduría de Atención a Víctimas, Justicia Restaurativa y Servicios a la Comunidad contará con la estructura necesaria para su adecuado funcionamiento, cuyas funciones y atribuciones estarán señaladas en el Reglamento de este ordenamiento.
 
 ### CAPÍTULO VII. DE LOS SUBPROCURADORES REGIONALES Y JEFES DE AGENCIAS LOCALES
 
@@ -385,9 +481,11 @@ IX. Las demás que le confiera el Titular de la Institución y las disposiciones
 
 Se establecerán las Subprocuradurías Regionales que se requieran para el ejercicio adecuado de las funciones del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 31.
 
-Cada Subprocuraduría Regional tendrá las Agencias Locales, Agentes del Ministerio Público, Agentes de la Policía Ministerial, Peritos y personal administrativo que sea necesario para el cumplimiento de sus funciones.
+Cada Subprocuraduría Regional tendrá las Agencias Locales, Agentes del Ministerio Público, Agentes Estatales de Investigación, Peritos y personal administrativo que sea necesario para el cumplimiento de sus funciones.
 
 ###### Artículo 32.
 
@@ -413,15 +511,23 @@ VII. Informar al Subprocurador Regional de las gestiones que realicen tanto de l
 
 VIII. Llevar a cabo las demás funciones que le asigne la Subprocuraduría Regional, la presente Ley y demás ordenamientos aplicables.
 
-### CAPÍTULO VIII. DEL FISCAL DE COMBATE A LA DELINCUENCIA ORGANIZADA
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO VIII. DE LA SUBPROCURADURÍA PARA LA ATENCIÓN DE DELITOS DE ALTO IMPACTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 34.
 
-Son atribuciones y deberes del Fiscal de Combate a la Delincuencia Organizada:
+Son atribuciones y deberes del Subprocurador de Delitos de Alto Impacto:
 
-I. Conocer, vigilar y revisar hasta su conclusión las investigaciones relacionadas con los delitos de alto impacto social y en los casos de delincuencia organizada;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-II. Realizar investigaciones en coordinación con las instancias federales, estatales y municipales relacionadas con delitos cometidos por integrantes de la delincuencia organizada;
+I. Conocer, vigilar y revisar hasta su conclusión las investigaciones relacionadas con los delitos de alto impacto;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+II. Realizar Investigaciones en coordinación con las instancias federales, estatales y municipales relacionadas con delitos de su competencia;
 
 III. Ejercitar la acción penal correspondiente, determinar el archivo provisional o el no ejercicio de la acción penal en el ámbito de su competencia;
 
@@ -433,9 +539,11 @@ VI. Disponer de los recursos, medios tecnológicos y científicos para el buen d
 
 VII. Las demás que la normatividad aplicable y el Reglamento de la presente Ley le otorguen.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 35.
 
-Esta Fiscalía estará integrada con las Direcciones y áreas necesarias para su adecuado funcionamiento, cuyas facultades y atribuciones estarán señaladas en el Reglamento de la presente Ley.
+Esta Subprocuraduría contará con la estructura necesaria para su adecuado funcionamiento, cuyas funciones y atribuciones estarán señaladas en el Reglamento de este ordenamiento.
 
 ### CAPÍTULO IX. DE LA FISCALIA PARA LA ATENCIÓN DE DELITOS POR VIOLENCIA DE GÉNERO CONTRA LA MUJER
 
@@ -443,7 +551,9 @@ Esta Fiscalía estará integrada con las Direcciones y áreas necesarias para su
 
 Son atribuciones y deberes del titular de esta Fiscalía:
 
-I. Conocer, vigilar y revisar las investigaciones relacionadas con los delitos de lesiones y homicidios dolosos en contra de mujeres, delitos contra la libertad, seguridad y normal desarrollo psicosexual, violencia intrafamiliar, aborto sin consentimiento, corrupción de menores, incapaces y pornografía infantil, así como la privación ilegal de la libertad con fines sexuales;
+> <small>(REFORMADA, P. O. 2 DE OCTUBRE DE 2010)</small>
+
+I. Conocer, vigilar y revisar hasta su conclusión las investigaciones relacionadas con los delitos dolosos de homicidios y lesiones en agravio de mujeres, delitos contra la libertad, la seguridad y el normal desarrollo psicosexual; delito de privación ilegal de la libertad con fines sexuales, así como violencia intrafamiliar, aborto sin consentimiento, corrupción de menores e incapaces, pornografía infantil y trata de personas;
 
 II. Ejercer acción penal en el ámbito de su competencia;
 
@@ -451,9 +561,11 @@ III. Elaborar y ejecutar programas y acciones para la atención y asesoría en l
 
 IV. Las demás que le señalen las leyes de la materia y las que le sean delegadas por el titular de la Institución.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 37.
 
-La Fiscalía de Atención a Delitos por Violencia de Género contra la Mujer estará integrada con el personal necesario para su adecuado funcionamiento, acorde a la disposición presupuestal.
+La Fiscalía de Atención a Delitos por Violencia de Género contra la Mujer, contará con la estructura necesaria para su adecuado funcionamiento, cuyas funciones y atribuciones estarán señaladas en el Reglamento de este ordenamiento.
 
 ### CAPITULO X. DEL FISCAL PARA LA ATENCIÓN DE DELITOS ELECTORALES
 
@@ -461,9 +573,13 @@ La Fiscalía de Atención a Delitos por Violencia de Género contra la Mujer est
 
 El Fiscal para la Atención de Delitos Electorales tendrá los siguientes deberes y atribuciones:
 
-I. Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas que le sean formuladas al Procurador General de Justicia del Estado, por los titulares de los organismos electorales;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-II. Conocer de las denuncias que se presenten sobre hechos que puedan constituir algún delito electoral;
+I. Conocer, vigilar y revisar hasta su conclusión las investigaciones que se presenten sobre hechos que puedan constituir algún delito electoral;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+II. Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas que les sean formuladas al Procurador General de Justicia del Estado, por los titulares de los organismos electorales;
 
 III. Ejercitar la acción penal correspondiente, determinar el archivo provisional o el no ejercicio de la acción penal en términos de ley;
 
@@ -481,13 +597,15 @@ IX. Designar un Agente del Ministerio Público adscrito al Tribunal Estatal Elec
 
 X. Las demás que le señalen las disposiciones legales y las que le confiera el Procurador General de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 39.
 
-Al frente de la Fiscalía para la Atención de Delitos Electorales habrá un Ministerio Público con el carácter de Fiscal Especial, que será nombrado por el Procurador General de Justicia del Estado y actuará con autonomía técnica.
+La Fiscalía para la Atención de Delitos Electorales contará con la estructura necesaria para su adecuado funcionamiento, cuyas funciones y atribuciones estarán señaladas en el Reglamento de este ordenamiento.
 
 ###### Artículo 40.
 
-Durante la ausencia del Fiscal Especializado, éste será suplido por el servidor público que designe el Procurador General de Justicia del Estado.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ### CAPÍTULO XI. DE LA FISCALÍA DE CONTROL INTERNO Y EVALUACIÓN
 
@@ -495,7 +613,9 @@ Durante la ausencia del Fiscal Especializado, éste será suplido por el servido
 
 Son atribuciones del Fiscal de Control Interno y Evaluación, las siguientes:
 
-I. Investigar los hechos ilícitos y las faltas administrativas en los casos en que el implicado sea un servidor público de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+I. Conocer, vigilar y revisar hasta su conclusión las investigaciones de los hechos ilícitos y las faltas administrativas en los casos en que el implicado sea un servidor público de la Institución del Ministerio Público;
 
 II. Planear, organizar, programar, coordinar, vigilar, controlar y evaluar las actividades y el funcionamiento interno de la Procuraduría General de Justicia;
 
@@ -511,29 +631,51 @@ VII. Imponer los medios de apremio pertinentes, cuando un servidor público de l
 
 VIII. Las demás que le asigne esta Ley y demás ordenamientos aplicables o el Procurador General de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 42.
 
-La Fiscalía de Control Interno y Evaluación estará integrada con las Direcciones necesarias para su adecuado funcionamiento, cuyas facultades y atribuciones estarán señaladas en el Reglamento de la presente Ley.
+La Fiscalía de Control Interno y Evaluación contará con la estructura necesaria para su adecuado funcionamiento, cuyas funciones y atribuciones estarán señaladas en el Reglamento de este ordenamiento.
 
-### CAPÍTULO XII. DE LA AGENCIA ESTATAL DE INVESTIGACIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO XII. DE LA COORDINACIÓN CON LAS INSTITUCIONES POLICIALES
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 43.
 
-La Agencia Estatal de Investigaciones es la corporación que, bajo el mando y supervisión del Ministerio Público, investiga los delitos, ejecuta las órdenes de aprehensión, determinaciones judiciales y cumple los acuerdos que aquél dicta. Se integra por Agentes Investigadores denominados también Agentes de la Policía Ministerial.
+El Ministerio Público para la investigación y persecución de los delitos, tendrá bajo su conducción y mando funcional a la Agencia Estatal de Investigaciones, quien prestará la asistencia técnica y científica necesarias, así como, para la búsqueda y recolección de elementos de convicción que contribuyan al esclarecimiento de los hechos en términos de la Ley General del Sistema Nacional de Seguridad Pública y de la particular del Estado, del Código Procesal Penal para el Estado de Oaxaca y demás normatividad aplicable.
 
-Al frente de la Agencia Estatal de Investigaciones estará un Director que será nombrado y removido por el Procurador General de Justicia del Estado.
+Las demás Instituciones Policiales estarán obligadas a auxiliar al Ministerio Público en el ejercicio de sus funciones y a actuar en términos del Código Procesal Penal y demás normatividad aplicable.
 
-Las labores de investigación que realicen los integrantes de la Agencia Estatal de Investigaciones serán dirigidas por el Ministerio Público, sin perjuicio de la autoridad administrativa a la que estén sometidas y de las facultades que la normatividad en la materia les concede para la investigación de los hechos. Su actividad se orientará por las instrucciones de carácter general y particular que éste emita y bajo los principios de legalidad, lealtad, honestidad, eficiencia, eficacia y reserva.
+El Ministerio Público en el ejercicio de sus atribuciones, deberá ser informado permanentemente de los avances y resultados de las investigaciones que realice la Agencie Estatal de Investigaciones y demás Instituciones Policiales.
+
+Para el eficaz cumplimiento de sus obligaciones, existirá ante el Ministerio Público y la Agencia Estatal de Investigaciones, una comunicación fluida, directa y permanente en todo lo relativo a la investigación del delito. Para ello se establecerán mecanismos y métodos operativos expeditos.
+
+En caso de incumplimiento de las obligaciones contenidas en los párrafos anteriores, por parte de los integrantes de la Agencia Estatal de Investigaciones y demás Instituciones Policiales, se estará a lo dispuesto por el artículo 125 del Código Procesal Penal para el Estado de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+Artículo 43 BIS.- La Institución del Ministerio Público contará con la Unidad Policial de Acción Inmediata, estando dicho grupo bajo el mando directo del titular de la institución, quien en uso de sus atribuciones designará a su titular.
+
+La Unidad Policial de Acción Inmediata cumplirá con las funciones de Investigación de los delitos y persecución de los delincuentes que determine el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 44.
 
-La integración y funciones de la Agencia Estatal de Investigaciones, las atribuciones, deberes y sanciones de su Director y personal que la conforme, estarán determinadas en la normatividad procesal aplicable, la presente Ley y el Reglamento de la Corporación.
+Con el objeto de evaluar periódicamente las labores de investigación de la Agencia Estatal de Investigaciones y de la Unidad Policial de Acción Inmediata, así como establecer planes y políticas en el ramo, programas de capacitación sobre conocimientos especializados y estrategias para la investigación de los delitos, existirá una Comisión Interna de Planeación, Seguimiento y Evaluación, que estará integrada por el Procurador General de Justicia, cuatro servidores públicos con nivel de Sub procuradores, el titular de la Unidad Policial de Acción Inmediata, el titular de la Agencia Estatal de Investigaciones y tres coordinadores públicos que éste designe.
+
+El director del Instituto de Coordinación y Capacitación Profesional fungirá como Secretario Técnico de esta Comisión.
 
 ### CAPÍTULO XIII. DEL INSTITUTO DE FORMACIÓN Y CAPACITACIÓN PROFESIONAL
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 45.
 
-El Instituto de Formación y Capacitación Profesional es un órgano desconcentrado de la Procuraduría General de Justicia, cuya organización y funcionamiento se regirá por las disposiciones del presente ordenamiento y de las normas reglamentarias, encargado de la selección, evaluación, capacitación, especialización y actualización del personal de la Institución, así como de desarrollar labores de investigación académica.
+El Instituto de Formación y Capacitación Profesional es un órgano desconcentrado de la Procuraduría General de Justicia, cuya organización y funcionamiento se regirá por las disposiciones del presente ordenamiento y de las normas reglamentarias, encargado de la selección, evaluación, capacitación, profesionalización, especialización, actualización y certificación del personal de la Institución de los integrantes de la Agencia Estatal de Investigaciones, así como de desarrollar labores de investigación académica.
 
 ###### Artículo 46.
 
@@ -545,23 +687,31 @@ II. Programar los cursos para la certificación de Agentes del Ministerio Públi
 
 III. Programar cursos de formación, capacitación, actualización y especialización dirigidos al personal que labora en la Procuraduría;
 
-IV. Diseñar y desarrollar programas de investigación académica;
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-V. Celebrar los convenios necesarios con otras instituciones o corporaciones en materia de capacitación e investigación académica;
+IV. Proponer al titular de la Institución del Ministerio Público la celebración de convenios con instituciones públicas o privadas, nacionales o extranjeras, para llevar a cabo el intercambio de actividades académicas, de investigación y publicación;
 
-VI. Dar seguimiento a los convenios que signe el Titular de la Procuraduría General de Justicia en materia de su competencia;
+V. Diseñar y desarrollar programas de investigación académica;
 
-VII. Llevar un registro de participantes y egresados de los cursos del Instituto; y
+VI. Celebrar los convenios necesarios con otras instituciones o corporaciones en materia de capacitación e investigación académica;
 
-VIII. Las que le asigne el Procurador General y demás disposiciones aplicables.
+VII. Dar seguimiento a los convenios que signe el Titular de la Procuraduría General de Justicia en materia de su competencia;
+
+VIII. Llevar un registro de participantes y egresados de los cursos del Instituto; y
+
+IX. Las que le asigne el Procurador General y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 47.
 
-El Instituto de Formación y Capacitación Profesional (sic) integrará por el personal docente, capacitadores, investigadores estructura administrativa que sea necesaria.
+El Instituto de Formación y Capacitación Profesional se integrará por el personal docente, capacitadores, investigadores y la estructura administrativa que sea necesaria.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 48.
 
-El Instituto de Formación y Capacitación Profesional contará con un Comité Técnico, cuyos miembros serán designados por el Procurador General y ejercerán su cargo de forma honoraria, que tendrá facultades de revisar los programas de estudio, capacitación e instrucción que se impartan en el Instituto y los procedimientos de selección de Agentes del Ministerio Público, Peritos y Agentes de la Policía Ministerial.
+El Instituto de Formación y Capacitación Profesional contará con un Comité Técnico, cuyos miembros serán designados por el Procurador General y ejercerán su cargo de forma honoraria, que tendrá facultades de revisar los programas de estudio, capacitación e instrucción que se impartan en el Instituto y los procedimientos de selección de Agentes del Ministerio Público, Peritos y Agentes de la Unidad Policial de Acción Inmediata. De igual manera colaborarán en la aplicación, operación y supervisión del proceso de profesionalización de los elementos de la Agencia Estatal de Investigaciones en materia de investigación del delito.
 
 Para la validez de los estudios que se impartan, el Instituto gestionará su reconocimiento oficial ante las autoridades competentes.
 
@@ -609,9 +759,9 @@ El Instituto de Servicios Periciales se integrará con un Director y el personal
 
 Son atribuciones de la Dirección de Derechos Humanos las siguientes:
 
-I. Planear, organizar, programar, coordinar, vigilar, controlar y evaluar las actividades y el funcionamiento interno de la Procuraduría General de Justicia;
+I. (DEROGADA, P.O. 2 DE OCTUBRE DE 2010)
 
-II. Realizar las acciones necesarias para elaborar e implementar un sistema integral de control que permita a la Institución el manejo eficiente de sus recursos humanos y materiales;
+II. (DEROGADA, P.O. 2 DE OCTUBRE DE 2010)
 
 III. Atender y analizar las quejas, recomendaciones y demás determinaciones que se reciban de la Comisión Nacional de los Derechos Humanos y la Comisión para la Defensa de los Derechos Humanos del Estado Libre y Soberano de Oaxaca y, en los casos que proceda, de los organismos internacionales defensores de los derechos humanos contra servidores públicos de la Procuraduría General;
 
@@ -625,23 +775,63 @@ VI. Las demás que le asigne esta Ley o el Procurador General de Justicia del Es
 
 La Dirección de Derechos Humanos contará con el personal necesario para su debido funcionamiento.
 
-### CAPÍTULO XVI. DE LA UNIDAD DE SISTEMAS Y ESTADÍSTICA
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO XVII. DE LA UNIDAD ADMINISTRATIVA Y DE LOS FONDOS DE PROCURACIÓN DE JUSTICIA Y DE REPARACIÓN A LAS VÍCTIMAS
+### CAPÍTULO XV BIS. DE LA DIRECCIÓN JURÍDICA CONSULTIVA
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+Artículo 52 BIS.- Son deberes y atribuciones del Director Jurídico Consultivo:
+
+I. Representar Jurídicamente al Titular de la Institución ante las autoridades, en los asuntos que sea parte o tenga interés qué deducir, relacionados con el patrimonio de la Procuraduría;
+
+II. Solventar las consultas jurídicas que formulen las diversas áreas de la Institución;
+
+III. Formular, previo acuerdo con el Procurador, proyectos de reglamentos, instructivos, acuerdos y circulares;
+
+IV. Establecer vínculos con diversas instancias u organismos de carácter público y privado, a efecto de promover, difundir e impulsar el conocimiento de las leyes e instituciones relacionadas con la impartición y administración de justicia;
+
+V. Rendir los informes que le sean solicitados por el Procurador de Justicia del Estado;
+
+VI. Rendir los informes correspondientes relativos a los juicios de amparo, interpuestos en contra del Procurador General de Justicia del Estado, de los Subprocuradores, Fiscales, Directores, Subdirectores, y Director Administrativo de la Institución;
+
+VII. Suscribir y dar trámite a los oficios de colaboración, extradición y asistencia jurídica internacional, derivados de los convenios de colaboración celebrados entre la Institución Ministerial y las instancias locales y federales encargadas de la Procuración de Justicia en el País;
+
+VIII. Suscribir y dar trámite a las peticiones de asistencia a la Dirección General de Asuntos Policiales Internacionales e Interpol derivadas de los Convenios de Colaboración suscritos por la Procuraduría en la materia; y
+
+IX. Las demás que le asigne la ley y el Procurador General de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+Artículo 52 BIS A.- La Dirección Jurídica Consultiva contará con el personal necesario para su debido funcionamiento.
+
+### CAPÍTULO XVI. DE LA UNIDAD DE SISTEMAS Y ESTADÍSTICA
 
 ###### Artículo 53.
 
 El Jefe de la Unidad de Sistemas y Estadística tendrá los siguientes deberes y obligaciones:
 
-I. Operar el sistema de identificación administrativa;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-II. Crear bases de datos y llevar un control estadístico de las investigaciones y procesos en los que se intervenga;
+I. Operar los módulos de los distintos Registros del Sistema Nacional de Seguridad Pública relacionados con la Procuraduría General de Justicia del Estado;
 
-III. Proporcionar asesoría y mantenimiento a los sistemas informáticos de las diversas áreas de la Institución.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-IV. Las demás que la ley le faculte y las que le ordene el titular de la Institución.
+II. Crear bases de datos necesarias para el cumplimiento de las obligaciones de la institución derivadas de las disposiciones contenidas en esta Ley y demás normatividad aplicable, así como los controles de seguridad y acceso para salvaguardar la información;
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+III. Requerir al personal de la Institución la información necesaria para alimentar las bases de datos, otorgándoles los plazos que para tal efecto se requiera;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+IV. Llevar un control estadístico de las investigaciones y procesos en que se intervenga;
+
+V. Proporcionar asesoría y mantenimiento a los sistemas informáticos de las diversas áreas de la Institución.
+
+VI. Las demás que la ley le faculte y las que le ordene el titular de la Institución.
+
+### CAPÍTULO XVII. DE LA UNIDAD ADMINISTRATIVA Y DE LOS FONDOS DE PROCURACIÓN DE JUSTICIA Y DE REPARACIÓN A LAS VÍCTIMAS
 
 ###### Artículo 54.
 
@@ -659,7 +849,9 @@ V. Administrar el Fondo para la Procuración de Justicia, aplicando en lo conduc
 
 VI. Administrar y velar por el manejo del Fondo de Reparación a las Víctimas;
 
-VII. Coordinar la adecuada custodia, preservación y destrucción de evidencias en términos de ley;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+VII. Coordinar la adecuada custodia, preservación, manejo y destrucción de evidencias en términos de ley;
 
 VIII. Administrar, ordenar, controlar y resguardar el archivo de la Institución; y
 
@@ -675,35 +867,57 @@ II. Las cantidades de dinero en efectivo que se encuentren afectas a una investi
 
 III. El producto de la venta de los bienes asegurados, que no sean reclamados en términos del artículo 38 fracción III del Código Penal vigente en el Estado;
 
-IV. Las fianzas en efectivo o garantías mientras no sean remitidas al Juez; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-V. Los demás ingresos que establezcan las leyes o reglamentos.
+IV. Las fianzas en efectivo o garantía mientras no sean remitidas al Juez;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+V. Con los recursos asignados en el presupuesto de egresos; y
+
+VI. Los demás ingresos que establezcan las leyes o reglamentos.
 
 Los recursos del Fondo de Procuración de Justicia se aplicarán para la compra de equipo y materiales necesarios para la institución, mejoramiento y ampliación de instalaciones, la capacitación y profesionalización del personal de la Procuraduría, así como las demás que resulten aplicables conforme a las necesidades del servicio.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 56.
 
-El capital del Fondo General de Reparaciones a las Víctimas estará integrado con el monto de las condenas pecuniarias dictadas por los Jueces de debate con motivo de la solicitud del pago de la reparación del daño por parte del Ministerio Público en los supuestos señalados en el artículo 92 del Código Procesal Penal; se regulará y destinará conforme a lo dispuesto por dicho ordenamiento.
+El capital del Fondo General de Reparaciones a las Víctimas estará integrado de la manera siguiente:
+
+I. Donaciones a favor del Fondo;
+
+II. Con el monto de las condenas pecuniarias dictadas por los Jueces de debate, con motivo de la solicitud del pago de la reparación del daño por parte del Ministerio Público, en los supuestos señalados en el artículo 92 del Código Procesal Penal para el Estado de Oaxaca;
+
+III. Con los recursos asignados en el presupuesto de egresos; y
+
+IV. Con los demás ingresos que establezcan las leyes o reglamentos.
 
 ## TÍTULO TERCERO. DEL SERVICIO CIVIL Y PROFESIONAL DE CARRERA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 57.
 
-El servicio civil y profesional de carrera en la Procuraduría de Justicia del Estado, garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para el servidor público, en los términos que el reglamento en la materia establezca.
+El servicio civil y profesional de carrera en la Procuraduría de Justicia del Estado, garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación, profesionalización y garantías de seguridad social para el servidor público, en los términos que el Reglamento en la materia establezca.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 58.
 
-Los procedimientos o sistemas para la selección, ingreso, formación, capacitación, actualización, especialización, promoción, ascenso, reingreso, estímulos, reconocimientos y retiro del personal de la Procuraduría, serán regulados por el reglamento que establezca las bases para la organización, funcionamiento y desarrollo del servicio civil y profesional de carrera en la Institución, mismo que deberá garantizar la debida transparencia y objetividad en la evaluación de los méritos e idoneidad de los postulantes, candidatos o funcionarios.
+Los procedimientos o sistemas para la selección, ingreso, formación, capacitación, profesionalización, certificación, actualización, especialización, promoción, ascenso, reingreso, estímulos, reconocimientos y retiro del personal de la Procuraduría, serán regulados por el reglamento que establezca las bases para la organización, funcionamiento y desarrollo del servicio civil y profesional de carrera en la Institución, mismo que deberá garantizar el cumplimiento de lo estipulado en la Ley General del Sistema Nacional de Seguridad Pública, así como la debida transparencia y objetividad en la evaluación de los méritos e idoneidad de los postulantes, aspirantes o funcionarios.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 59.
 
-Los servidores públicos de la Procuraduría General de Justicia del Estado serán evaluados periódicamente en su desempeño de conformidad con las normas que establezca el Reglamento de la Institución. La evaluación determinará su permanencia y promoción en la Procuraduría.
+Los servidores públicos de la Procuraduría General de Justicia del Estado serán evaluados y certificados periódicamente en su desempeño de conformidad con las normas que establezca la Ley General del Sistema Nacional de Seguridad Pública y el Reglamento de la Institución. La evaluación determinará su permanencia y promoción en la Procuraduría.
 
 ## TÍTULO CUARTO. DE LA TRAMITACIÓN DE LOS RECURSOS
 
-### CAPÍTULO I. DE LAS CAUSAS DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LA INSTITUCIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 60.
 
@@ -713,7 +927,7 @@ Interpuesto el recurso, sin más trámite el Procurador General de Justicia del 
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-### CAPÍTULO II. DE LAS SANCIONES DE LOS SERVIDORES PÚBLICOS DE LA INSTITUCIÓN
+### CAPÍTULO I. DE LAS CAUSAS DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LA INSTITUCIÓN
 
 ###### Artículo 61.
 
@@ -721,7 +935,9 @@ Son causas de responsabilidad de los Servidores Públicos de la Institución:
 
 I. Actuar con negligencia, dolo o mala fe en los asuntos de su competencia.
 
-II. Realizar o encubrir conductas que atenten contra la autonomía de la Institución del Ministerio Público;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+II. Realizar o encubrir conductas que atenten contra la Institución del Ministerio Público;
 
 III. Distraer de su objeto, para su uso propio o ajeno el equipo, elementos materiales o bienes asegurados bajo su custodia o de la Institución;
 
@@ -759,11 +975,17 @@ XII. Usar y conservar adecuadamente el equipo y armamento asignado a la Instituc
 
 XIII. Abstenerse de abandonar sin causa justificada las funciones, comisión o servicio que tengan encomendado;
 
-XIV. Someterse a los diversos procesos de evaluación de conformidad con las disposiciones aplicables; y
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-XV. Las demás que se establezcan en el Reglamento de esta Ley y las demás disposiciones aplicables.
+XIV. Alimentar las bases de datos del área de adscripción y las que estén a cargo de la Unidad de Sistemas y Estadística.
 
-### CAPÍTULO I. DE LAS EXCUSAS Y RECUSACIONES
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XV. Someterse a los diversos procesos de profesionalización, evaluación y certificación, de conformidad con las disposiciones aplicables; y
+
+XVI. Las demás que se establezcan en el Reglamento de esta Ley y las demás disposiciones aplicables.
+
+### CAPÍTULO II. DE LAS SANCIONES DE LOS SERVIDORES PÚBLICOS DE LA INSTITUCIÓN
 
 ###### Artículo 63.
 
@@ -783,7 +1005,7 @@ IV. Cese del cargo o empleo.
 
 Estas sanciones podrán también imponerse cuando la conducta se cometa aún fuera de sus funciones.
 
-Los elementos de la Agencia de la Policía Estatal de Investigaciones, estarán sujetos al procedimiento sancionador tramitado por la Comisión de Honor y Justicia de esa Corporación, en los términos de su reglamento.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 65.
 
@@ -791,11 +1013,13 @@ En todo momento se garantizará que las sanciones se impongan previa audiencia d
 
 ## TÍTULO SEXTO. DE LAS EXCUSAS, RECUSACIONES, INCOMPATIBILIDADES Y PROHIBICIONES
 
-### CAPÍTULO II. DE LAS INCOMPATIBILIDADES Y PROHIBICIONES
+### CAPÍTULO I. DE LAS EXCUSAS Y RECUSACIONES
 
 ###### Artículo 66.
 
 Los servidores públicos de la Institución podrán excusarse y ser recusados respetando las reglas del debido proceso en lo que resulte aplicable por los motivos que, para jueces y magistrados, establece la normatividad correspondiente. La excusa y la recusación deberán ser calificadas en definitiva por el Procurador General, y la de éste será calificada por el Gobernador del Estado, quienes designarán en su caso, al sustituto. El trámite de ambas se definirá en el Reglamento de la presente Ley.
+
+### CAPÍTULO II. DE LAS INCOMPATIBILIDADES Y PROHIBICIONES
 
 ###### Artículo 67.
 
@@ -813,17 +1037,31 @@ SEGUNDO.- Se abroga la Ley Orgánica de la Procuraduría General de Justicia, ap
 
 TERCERO.- En virtud de la coexistencia de los Códigos de Procedimientos Penales de 1979 y Procesal Penal para el Estado de Oaxaca de 2006, en las regiones del Estado en que este último ordenamiento se vaya implementando, el Titular de la Procuraduría General de Justicia del Estado, tendrá facultades para adecuar la estructura de la Institución conforme a las necesidades del servicio.
 
-La Subprocuraduría de Investigaciones y la Subprocuraduría de Procesos, además de las atribuciones que le confiere la presente Ley Orgánica continuarán ejerciendo las que correspondían a las Subprocuraduría General de Averiguaciones Previas y Consignaciones y la Subprocuraduría General de Control de Procesos respectivamente, acorde a la Ley Orgánica de1983.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-La Dirección de Averiguaciones Previas y Consignaciones dependerá de la Subprocuraduría de Investigaciones, con las atribuciones que le asigna la Ley Orgánica de 1983. Las Direcciones de Control de Procesos, y Jurídica Consultiva dependerán de la Subprocuraduría de Procesos; y además de las atribuciones derivadas de la presente Ley continuarán ejerciendo las que les asigna la Ley Orgánica de 1983.
+La Subprocuradurías Generales Norte y Sur, además de las atribuciones que le confiere la presente Ley Orgánica, continuarán ejerciendo las que correspondían a las Subprocuraduría General de Averiguaciones Previas y Consignaciones y la Subprocuraduría General de Control de Procesos respectivamente, acorde a la Ley Orgánica de1983.
 
-La Visitaduría General dependerá de la Fiscalía de Control Interno y Evaluación y continuará ejerciendo las atribuciones que le confiere la Ley Orgánica de 1983.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-La Dirección de Derechos Humanos dependerá del Titular de la Institución y además de las atribuciones derivadas de la presente Ley continuará ejerciendo las que le confiere la Ley Orgánica de1983.
+La Dirección de Averiguaciones Previas y Consignaciones dependerá de la Subprocuraduría General Zona Norte y continuará ejerciendo las atribuciones que le asigna la Ley Orgánica de 1983 conforme al Código de Procedimientos Penales de 1979, la cual una vez concluido el trámite de los asuntos a su cargo en este sistema de justicia, asumirá funciones y atribuciones conforme al sistema acusatorio adversarial.
 
-La Agencia Estatal de Investigaciones seguirá teniendo además de las facultades previstas en la presente Ley, las atribuciones asignadas a la Dirección de la Policía Ministerial en términos del Código de Procedimientos Penales de 1979 y la Ley Orgánica de la Procuraduría de 1983.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
-Las demás Subprocuradurías y Fiscalías especializadas, además de las atribuciones que esta Ley les confiere, continuarán ejerciendo las que tenían asignadas por la Ley Orgánica de la Procuraduría de 1983.
+La Dirección de Procesos dependerá de la Subprocuraduría General Zona Sur; y además de las atribuciones derivadas de la presente Ley continuarán ejerciendo las que les asigna la Ley Orgánica de 1983.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+La Visitaduría General dependerá de la Fiscalía de Control Interno y Evaluación; y además de las atribuciones derivadas de la presente Ley, continuará ejerciendo las atribuciones que le confiere la Ley Orgánica de 1983.
+
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+La Dirección de Derechos Humanos y la Dirección Jurídica Consultiva dependerán del Titular de la Institución y además de las atribuciones derivadas de la presente Ley continuará ejerciendo las que le confiere la Ley Orgánica de1983.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+Las recientes Subprocuradurías y Fiscalías, además de las atribuciones que esta Ley le confiere, continuarán ejerciendo las que tenían asignadas, por la Ley Orgánica de la Procuraduría de 1983.
 
 CUARTO.- Para el trámite y desahogo de los casos relativos al sistema mixto tradicional, en lo conducente continuará vigente la Ley Orgánica de la Procuraduría General de Justicia, aprobada el 29 de Junio de 1983, hasta la conclusión del último asunto.
 
@@ -876,3 +1114,13 @@ ING. TEOFILO MANUEL GARCIA CORPUS.
 Al C.
 
 NOTA: Las presentes firmas corresponden al Decreto No. 614, aprobado por la Sexagésima Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, para el Estado de Oaxaca, mediante el cual se aprueba la Ley Orgánica del Ministerio Público del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Con la finalidad de integrar la Unidad Policial de Acción Inmediata la totalidad de los elementos qua actualmente integran al grupo de Fuerza Policial de Alto Rendimiento, adscritos al titular de la Institución Ministerial; pasan a formar parte de la Unidad citada; atendiendo a que el personal del grupo de Fuerza Policial de Alto Rendimiento forma parte a la fecha de la nomina de la Procuraduría General de Justicia del Estado, los sueldos de dichos elementos continuarán cubriéndose con los recursos presupuestales de ésta institución, sin perjuicio de los beneficios económicos pagaderos con recursos proporcionados por la Federación a que tengan derecho.
+
+TERCERO.- A fin de fortalecer y hacer más efectivo el cumplimiento de los deberes de la Unidad Policial de Acción Inmediata, la totalidad del equipo y armamento destinados al grupo de Fuerza Policial de Alto Rendimiento, deberán incorporarse de manera inmediata a dicha Unidad.
