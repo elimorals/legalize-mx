@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2010-07-23"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -495,7 +495,7 @@ XXIV.- De Fortalecimiento y Asuntos Municipales;
 
 (NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2010 DECLARÓ LA INVALIDEZ DEL DECRETO 1954, MEDIANTE EL CUAL SE DEROGÓ LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 xxv.- (derogada, p.o. 23 de julio de 2010)
 
@@ -503,11 +503,15 @@ XXVI.- De Ecología;
 
 > <small>(ADICIONADA, P.O. 6 DE MAYO DE 2000)</small>
 
-XXVII.- De Equidad y Género.
+XXVII.- De Equidad y Género;
 
 > <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2002)</small>
 
-XXVIII.- De Asuntos Migratorios.
+XXVIII.- De Asuntos Migratorios;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+XXIX.- De Juventud y Deporte.
 
 Dichas Comisiones tendrán las facultades que se determinen en el Reglamento Interior del Congreso.
 
@@ -862,3 +866,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día 13 de noviembre de 2010.
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- En todos los ordenamientos, actos y convenios celebrados por la Gran Comisión se entenderán como referidos a la Junta de Coordinación Política del Congreso del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
