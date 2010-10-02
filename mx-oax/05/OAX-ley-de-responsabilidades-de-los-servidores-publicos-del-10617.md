@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-de-los-servidores-publicos-del-10617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-01"
-last_updated: "2005-03-22"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el Sábado 1o de junio de 1996.
 
@@ -571,11 +571,13 @@ VI.- Inhabilitación o prohibición temporal para desempeñar empleo, cargo o co
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y/ o perjuicios a la Administración Pública, será de uno a diez años, si el monto de aquellos no excede de quinientas veces el salario mínimo mensual vigente en la Capital del Estado, y de diez a veinte años si excede de dicho limite. Este último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 58.
 
-Para que una persona que hubiere sido inhabilitada en los términos de Ley, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requiere que el Titular de la dependencia o entidad a la que pretenda ingresar, solicite autorización a la Contraloría o en su caso, a los órganos de control interno de los Poderes Legislativo, Judicial y de los Municipios, según corresponda, en forma razonada y justificada, de tal circunstancia.
+Para que una persona que hubiere sido inhabilitada en los términos de la Ley por un plazo mayor de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el titular de la dependencia o entidad a la que pretenda ingresar, dé aviso a la Secretaría de la Contraloría o en su caso a los Órganos de Control Interno de los Poderes Legislativo, Judicial y de los Municipios, según Corresponda, en forma razonada y justificada, de tal circunstancia.
 
-La contravención a lo dispuesto por el párrafo anterior será causa de responsabilidad administrativa para el titular de la dependencia o entidad, en los términos de esta Ley, quedando sin efecto el nombramiento o contrato que en su caso se haya realizado.
+La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa en los términos de la Ley, quedando sin efectos el nombramiento o contrato que en su caso se haya realizado.
 
 ###### Artículo 59.
 
@@ -642,6 +644,10 @@ Tratándose de denuncias en contra de los servidores públicos de los Poderes Le
 Si las Delegaciones de Contraloría y los órganos de control interno a que se refiere el artículo anterior tuvieran conocimiento de hechos que implique responsabilidad penal, deberán dar vista de ellos a la Contraloría y a la autoridad competente para conocer del ilícito.
 
 Cuando se trate de servidores públicos municipales, el Presidente Municipal dará vista al Ayuntamiento y a la autoridad competente en el caso.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+Si se trata de hechos presuntamente delictuosos que constituyan daño al erario público, que involucren a servidores públicos del Poder Ejecutivo, el Dictamen de Procedencia y Cuantificación del monto correspondiente, será emitido de manera indelegable por el titular de la Secretaría de la Contraloría.
 
 ###### Artículo 67.
 
@@ -713,9 +719,19 @@ Serán aplicables dichas prescripciones y formalidades a los procedimientos disc
 
 Es también aplicable en lo conducente, lo dispuesto por este artículo, en(SIC) tratándose de los procedimientos disciplinarios que se instruyan en los Ayuntamientos, respecto a los servidores públicos municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 72.
 
-La Contraloría podrá abstenerse de sancionar al infractor, por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo general diario vigente en el Estado.
+La Secretaria de la Contraloría, o el titular de la Dirección de Procedimientos Jurídicos de la misma, podrán abstenerse de iniciar el procedimiento disciplinario previsto en el artículo 69 de esta Ley o de imponer sanciones administrativas a un servidor público, cuando de las investigaciones o revisiones practicadas se advierta que se actualiza alguna de las siguientes hipótesis:
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+I.- Que por una sola vez, por un mismo hecho y en un período de un año, la actuación del servidor público en la atención, trámite o resolución de asuntos a su cargo, está referida a una cuestión de criterio o arbitrio opinable o debatible, en la que válidamente puedan sustentarse diversas soluciones, siempre que la conducta o abstención no constituya una desviación a la legalidad y obren constancias de los elementos que tomó en cuenta el servidor público en la decisión que adoptó, o que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, se hubieren producido, desaparecieron o se hayan resarcido.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2010)</small>
+
+II.- Que por una sola vez, por un mismo hecho y en un período de un año, se estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo general diario vigente en el Estado.
 
 Lo anterior es aplicable a los Poderes Judicial y Legislativo, así como también a los Ayuntamientos a través de sus respectivos órganos competentes.
 
@@ -849,7 +865,7 @@ Son aplicables estas disposiciones a los servidores públicos de los Poderes Leg
 
 ###### Artículo 86.
 
-La Contraloría por una sola vez, podrá dispensar las responsabilidades relativas en los términos del artículo 72 de esta Ley, siempre que los hechos que las constituyan no revistan carácter delictuosos, ni se deban a culpa grave del responsable.
+(DEROGADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2010)
 
 Cuando a juicio de la Contraloría se consideren incosteables en la práctica de su cobro, por una sola vez, podrá cancelar los créditos derivados del fincamiento de responsabilidades que no exceden de quinientas veces el salario mínimo general diario vigente en la Capital del Estado.
 
@@ -914,6 +930,10 @@ Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cump
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ## TITULO QUINTO
 
