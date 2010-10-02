@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2010-09-25"
+last_updated: "2010-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
+CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -165,7 +165,7 @@ Las excepciones procederán en juicio aun cuando no se exprese su nombre, con ta
 
 No podrán oponerse excepciones o defensas contrarias o contradictorias, aun cuando sea con el carácter de subsidiarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2001)</small>
 
 36.- Son excepciones dilatorias las siguientes:
 
@@ -409,11 +409,11 @@ Contra el auto del Tribunal que reconozca la personalidad de una de las partes, 
 
 68.- Para la tramitación y resolución de los asuntos ante los tribunales ordinarios, se estará a lo dispuesto por este Código, sin que por convenio de los interesados puedan renunciarse los recursos ni el derecho de recusación, ni alterarse, modificar o renunciarse las normas del procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
 69.- Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los del año, con exclusión de los sábados y domingos, primero de enero, el primer lunes de febrero, en conmemoración del cinco de febrero; el tercer lunes de marzo, en conmemoración del veintiuno de marzo; primero y cinco de mayo, quince y dieciséis de septiembre, doce de octubre, el tercer lunes de noviembre, en conmemoración del veinte de noviembre; el primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; el veinticinco de diciembre, y aquellos en que por Acuerdo del Pleno del Supremo Tribunal de Justicia del Estado, permanezcan cerrados los tribunales.
 
-> <small>(ADICIONADO [N. DE E. EL PRESENTE PARRAFO FORMABA PARTE DEL ANTERIOR APARTADO], P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. EL PRESENTE PÁRRAFO FORMABA PARTE DEL ANTERIOR APARTADO], P.O. 23 DE ABRIL DE 2008)</small>
 
 Se entiende como horas hábiles las que median entre las ocho y las veinte horas.
 
@@ -431,7 +431,7 @@ Las diligencias de prueba y las demás actuaciones judiciales serán reservadas 
 
 74.- Las audiencias se celebrarán, concurran o no las partes. Los alegatos verbales que en ella produzcan los interesados no se harán constar en autos ni podrán exceder de media hora por cada parte incluyendo las réplicas y contrarréplicas. Las partes podrán, en todo caso, presentar en la audiencia sus alegaciones por escrito, las cuales se mandarán agregar a los autos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS AL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2009)</small>
 
@@ -475,15 +475,15 @@ a).- Cuando la ley prevenga que se hagan en forma específica;
 
 b).- Cuando de la promoción deba correrse traslado a la parte contraria o al Ministerio Público, pues en ese caso necesariamente se hará por escrito.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 6 DE OCTUBRE DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 6 DE OCTUBRE DE 2004)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 82.- Al primer escrito o comparecencia deberán acompañarse los siguientes documentos, sin perjuicio de lo que se establece especialmente para la presentación de la demanda y su contestación: a).- El documento o documentos que acrediten el carácter con que el litigante se presente en juicio, en el caso de tener la representación legal de alguna persona ya fuere ésta física o moral o cuando el derecho que reclame provenga de habérsele trasmitido por otra persona; b).- El poder que acredite la personalidad del procurador, cuando éste intervenga. Para el cumplimiento de este artículo no bastará, en caso de omisión de los documentos, la protesta de presentarlos después.
 
 83.- Cuando de una promoción deba correrse traslado a la parte contraria de quien promueva o al Ministerio Público, deberán acompañarse al escrito relativo, las copias simples necesarias, una para cada interesado, del escrito y documentos que se presenten. Si se omitiere total o parcialmente la presentación de las copias, el Tribunal prevendrá al promovente que, dentro del término de tres días las exhiba, en la inteligencia de que, mientras no hiciere su exhibición, no se tendrá por hecha la promoción, y en los casos en que la ley señale un término para hacerla, se tendrá por no hecha en tiempo si el interesado no exhibe las copias dentro de este último.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2004)</small>
 
 84.- Los documentos que se hubieren presentado en juicio, se devolverán a las partes que los presentaron, si lo piden; quedando en autos copia exacta de ellos, previo conocimiento que de la solicitud se dé a la parte contraria. Si el juicio estuviere concluido, bastará dejar en autos la razón de la devolución de los documentos.
 
@@ -519,7 +519,7 @@ Si al pronunciarse la sentencia definitiva hubiere de declararse la nulidad de a
 
 92.- Las frases "dar vista" y "correr traslado" sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -565,9 +565,9 @@ Las resoluciones judiciales firmes dictadas en negocios sobre alimentos, ejercic
 
 ### CAPITULO IV. De las correcciones disciplinarias y medios de apremio
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 105. Los magistrados y jueces tienen el deber de mantener el orden de los debates judiciales y de exigir que las partes, sus representantes y abogados, les guarden y se guarden entre sí el respeto y consideración correspondientes, lo mismo que a las autoridades cuyos actos sean materia de la instancia o petición, o aquellas que por cualquier otro motivo fueren aludidas en los escritos y alegatos; y corregirán las faltas que se cometieren imponiéndole al responsable una corrección disciplinaria. También podrán hacer uso de la fuerza pública. Si las faltas llegaren a ser delictuosas, se consignará el caso al Fiscal General del Estado, remitiéndose a este funcionario testimonio de las constancias conducentes.
 
@@ -1995,7 +1995,7 @@ El juez, de oficio o a petición de cualquiera de las partes, mandará recibir e
 
 419.- (DEROGADO, P.O. 14 DE AGOSTO DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
 
 420.- Al pedirse la citación para sentencia o al pedirse que se falle, según el caso, deberá presentarse necesariamente al juzgado el ocurso que llene los requisitos indispensables para que se hagan las anotaciones correspondientes ante la Oficialía del Registro Civil, siempre que se trate de matrimonios contraídos en la Entidad.
 
@@ -2003,7 +2003,7 @@ El juez, de oficio o a petición de cualquiera de las partes, mandará recibir e
 
 Tratándose del divorcio que se realice ante el Oficial del Registro Civil, al momento de ratificar la solicitud de divorcio, los consortes presentarán los requisitos para que una vez disuelto el vínculo matrimonial, sea elaborada y publicada el acta que los declare divorciados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2010)</small>
 
 421.- Ejecutoriada la sentencia, el juez remitirá directamente a la Oficina del Registro Civil, la solicitud prevenida por el artículo anterior con la copia certificada de la parte resolutiva para que se hagan las anotaciones en el acta correspondiente, siempre que se trate de matrimonios contraídos en la Entidad.
 
@@ -2407,7 +2407,7 @@ V.- Los juicios que se sigan por los herederos deduciendo la acción de petició
 
 VI.- Las acciones de los legatarios reclamando sus legados, siempre que sean posteriores a la presentación de inventario y antes de la adjudicación de los bienes, excepto los legados de alimentos, de pensiones, de educación y de uso y habitación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -2475,7 +2475,7 @@ VI.- Lo relativo a la aplicación de los bienes.
 
 529.- La transmisión hereditaria del patrimonio de familia, se llevará a cabo con arreglo a las disposiciones relativas que reglamente esa institución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -2627,7 +2627,7 @@ Los edictos se insertarán además, por dos veces, de siete en siete días en un
 
 571.- La declaración de herederos de un intestado surte el efecto de tener por legítimo poseedor de los bienes, derechos y acciones del autor de la herencia, a la persona en cuyo favor se hizo. Al albacea le serán entregados los bienes hereditarios así como los libros y papeles, sin perjuicio de lo dispuesto en el artículo 193 del Código Civil. El albacea provisional, en su caso, deberá rendir sus cuentas al albacea.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -2639,7 +2639,7 @@ Los edictos se insertarán además, por dos veces, de siete en siete días en un
 
 El inventario y el avalúo se practicarán simultáneamente, salvo que esto no fuere posible por la naturaleza de los bienes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -2723,7 +2723,7 @@ III.- Cuando para la enajenación de los frutos se presenten condiciones ventajo
 
 600.- Los libros de cuentas y papeles del autor de la sucesión se entregarán al albacea y, hecha la partición, a los herederos reconocidos, observándose respecto a los títulos, lo prescrito en la Sección Séptima de este Capítulo. Los demás papeles quedarán en poder del que haya desempeñado el albaceazgo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -2847,7 +2847,7 @@ Si todos los interesados tuvieren igual porción en la finca, el título quedar�
 
 632.- Sin perjuicio de lo dispuesto en el artículo 522 de este Código, la testamentaría en el caso del testamento público abierto y la intestamentaría podrán tramitarse extrajudicialmente desde el inicio, con intervención de notario público, mientras no hubiere controversia alguna, tramitándose aquéllas con arreglo a lo que se establece en los artículos siguientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 633.- Tratándose de los procedimientos sucesorios testamentarios, el albacea, si lo hubiere, y los herederos, se presentarán ante un notario público exhibiéndole la partida de defunción del autor de la herencia y un testimonio del testamento. Ante el mismo notario y en el propio acto, harán constar que aceptan la herencia y se reconocen unos a otros sus derechos hereditarios, y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
 
@@ -2859,7 +2859,7 @@ El notario dará a conocer estas declaraciones por medio de dos publicaciones qu
 
 Además, el Notario recabará la información a que se refiere el segundo párrafo del artículo 559.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -2945,7 +2945,7 @@ Si en la primera reunión no fuere posible rectificar y graduar todos los crédi
 
 646.- Los acreedores podrán hacerse representar por apoderado o procurador. Quien represente a más de un acreedor sólo podrá tener como máximo hasta cinco votos, pero para entrar a formar mayoría por cantidades o capitales se computará el monto total de todos los créditos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2001)</small>
 
 647.- Si el síndico no presentare al dar principio la junta el informe a que se refiere el artículo 645 en la forma cabal en él indicada, perderá el derecho de cobrar honorarios y será removido de plano imponiéndosele, además, una multa de hasta quinientas veces el salario mínimo.
 
@@ -3593,7 +3593,7 @@ En el caso de que se haya interpuesto apelación por alguno de los interesados, 
 
 820.- El recurso de apelación ordinaria tiene por objeto el que el Tribunal de segunda instancia examine si en la resolución apelada se aplicó inexactamente la ley, si se violaron los principios reguladores de la prueba, o si se alteraron los hechos; y en vista de ello, confirme, revoque o modifique la resolución apelada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MARZO DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 1979)</small>
 
 821.- Cuando el negocio sea estimable pecuniariamente, las resoluciones judiciales sólo serán apelables si el importe de aquél excede de cinco mil pesos. Para los efectos de este artículo el importe del negocio se establecerá de acuerdo con lo dispuesto en el artículo 156 de este Código.
 
@@ -3923,13 +3923,13 @@ Bajo las mismas condiciones podrán gravar los padres los bienes de sus hijos, o
 
 En la promoción inicial deberá manifestarse el nombre y edad del menor o incapacitado y el nombre y domicilio de quienes ejerzan sobre éste la patria potestad o la tutela o de las personas o instituciones que están proveyendo a su guardia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 El juez deberá, antes de recibir los consentimientos de las personas señaladas en los artículos 374 y 375 del Código Civil, asesorar e informar sobre los efectos de la adopción a los padres consanguíneos, salvo cuando éstos han perdido los derechos derivados de la patria potestad o el menor se encuentre bajo la tutela de la Procuraduría de Asistencia Jurídica y Social, dependencia equivalente a ésta o del organismo para la asistencia social pública estatal o municipal, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -4001,7 +4001,7 @@ II.- El poseedor con título bastante para transferir el dominio;
 
 III.- El usufructuario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 898.- La petición de apeo deberá hacerse por escrito ante el Tribunal o notario público, según proceda, y en ellas se expresarán los datos que a continuación se indican, acompañándose a la misma los documentos que enseguida se señalan:
 
@@ -4109,7 +4109,7 @@ Los casos a que se refiere el párrafo anterior son: el depósito de menores o i
 
 903-1.- Los negocios de la competencia de los Juzgados de lo Familiar que no tengan previsto en el presente Código procedimiento especial para su tramitación, se seguirán conforme al siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2001)</small>
 
 I.- El juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente en cuestiones relacionadas con violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
 
@@ -4581,7 +4581,7 @@ DE LA ADMINISTRACION DE JUSTICIA POR LOS JUZGADOS DE PAZ
 
 ### CAPITULO VII.- De los incidentes 107. ARTICULOS TRANSITORIOS 108
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE OCTUBRE DE 1974.
 
@@ -4941,7 +4941,7 @@ Las adopciones simples realizadas con anterioridad a la entrada en vigor del pre
 
 P.O. 10 DE JULIO DE 2010.
 
-DECRETO No. 1097/2010 II P.O., POR EL QUE SE REFORMA EL ARTICULO 867 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1097/2010 II P.O., POR EL QUE SE REFORMA EL ARTÍCULO 867 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4949,7 +4949,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 10 DE JULIO DE 2010.
 
-DECRETO No. 1098/2010 II P.O., POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 79, 262 Y 310 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1098/2010 II P.O., POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 79, 262 Y 310 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4963,7 +4963,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 25 DE AGOSTO DE 2010.
 
-DECRETO No. 1054/2010, POR EL QUE SE REFORMA EL ARTICULO 886, Y SE ADICIONAN LOS NUMERALES 886 BIS; 887, SEGUNDO PARRAFO, Y UNA FRACCION IX AL ARTICULO 903-1, TODOS ELLOS DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO.
+DECRETO No. 1054/2010, POR EL QUE SE REFORMA EL ARTÍCULO 886, Y SE ADICIONAN LOS NUMERALES 886 BIS; 887, SEGUNDO PÁRRAFO, Y UNA FRACCIÓN IX AL ARTÍCULO 903-1, TODOS ELLOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4971,7 +4971,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 25 DE AGOSTO DE 2010.
 
-DECRETO No. 1130/2010, POR EL QUE SE REFORMA EL ARTICULO 394 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1130/2010, POR EL QUE SE REFORMA EL ARTÍCULO 394 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5005,7 +5005,7 @@ El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la 
 
 ###### ARTÍCULO SÉPTIMO.
 
-Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -5014,3 +5014,9 @@ La administración de los establecimientos penitenciarios y la custodia de proce
 ###### ARTÍCULO NOVENO.
 
 Se abroga la Ley Orgánica del Ministerio Público del Estado.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
