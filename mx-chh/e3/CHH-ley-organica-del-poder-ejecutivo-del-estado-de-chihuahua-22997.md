@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2010-09-25"
+last_updated: "2010-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -1791,7 +1791,7 @@ El Consejo Estatal de Seguridad Pública a que se refiere el artículo 24 de la 
 
 ###### ARTÍCULO SÉPTIMO.
 
-Se autoriza al Pleno del Supremo Tribunal de Justicia del Estado a realizar la transferencia de partidas necesarias para dar suficiencia presupuestal a la Coordinación a que se refiere el Artículo Noveno del presente Decreto.
+(DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -1890,3 +1890,9 @@ El Ejecutivo del Estado, en coordinación con la Legislatura Estatal, incorporar
 ###### ARTÍCULO VIGÉSIMO QUINTO.
 
 Se transfieren a la Secretaría de la Contraloría los archivos magnéticos conteniendo documentación, manuales de procedimientos, manuales de organización, código fuente de los programas que conforman los sistemas desarrollados por la Coordinación de Desarrollo Administrativo y Modernización que dependía de la Secretaría de Finanzas y Administración, así como los archivos de configuración de equipo de comunicaciones, telefonía, de servidores de aplicaciones y de base de datos y documentos en general que tenía asignados a su servicio, manejo y resguardo dicha unidad administrativa.
+
+P.O. 2 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
