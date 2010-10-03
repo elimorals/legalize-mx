@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2009-12-10"
+last_updated: "2010-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LA FRACCION IV DEL ARTICULO SEGUNDO DEL DECRETO No. 420, MEDIANTE EL CUAL SE EMITE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL DECRETO No. 259 DEL 18 DE FEBRERO DE 2009 Y LAS REFORMAS POSTERIORES A LA CITADA LEY HAN ENTRADO EN VIGOR.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -101,11 +99,17 @@ VII. Municipios.- Los Municipios que forman parte de ésta Entidad;
 
 VIII. Plan.- Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-IX. Policía.- Policía Estatal;
+IX. Policía.- Policía Estatal y las policías municipales que estén bajo el mando del Gobernador del Estado por disposición de la ley o de convenio;
 
-X. Procuraduría.- Procuraduría General de Justicia del Estado de Durango;
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+IX bis.- Policía municipal.- A cada una de las policías que ejercen funciones preventivas, de tránsito y vialidad que estén bajo el mando del presidente municipal;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+X. Fiscalía General.- Fiscalía General del Estado;
 
 XI Programa.- Programa Estatal de Seguridad Pública;
 
@@ -117,13 +121,21 @@ XIV Secretaría General.- Secretaría General del Gobierno del Estado; y (sic)
 
 XV. Secretaría de Seguridad.- Secretaría de Seguridad Pública del Estado;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-XVI. Programa de Profesionalización.- Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia, respectivamente; y
+XVI. Programa de Profesionalización.- Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia, respectivamente;
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-XVII. Carrera Policial.- Al Servicio Profesional de Carrera Policial.
+XVII. Carrera Policial.- Al Servicio Profesional de Carrera Policial;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+XVIII. Consejo Ciudadano.- Al Consejo Ciudadano de Seguridad Pública Estatal; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+XIX. Unidad.- A la Unidad de Enlace Informático e Inteligencia.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -135,9 +147,11 @@ Para los efectos de esta Ley, la seguridad pública es una función de carácter
 
 La función de la seguridad pública tendrá por objeto además, coadyuvar con la procuración, administración y ejecución de la justicia penal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 5.
 
-El Ministerio Público realizará sus funciones de acuerdo a lo establecido en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Durango, en las Leyes aplicables, reglamentos y demás disposiciones que rijan su función.
+El Ministerio Público realizará sus funciones de acuerdo a lo establecido en el artículo 21 de la Constitución Federal, en la Constitución, en las Leyes, reglamentos y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -149,7 +163,9 @@ Las medidas para auxiliar y proteger a la población en los casos de accidentes 
 
 Las autoridades estatales y municipales de seguridad pública instrumentarán acciones permanentes de evaluación, depuración, adiestramiento, capacitación y profesionalización de sus recursos humanos; de modernización de la infraestructura del equipo y de sus recursos técnicos; así como la generación de información actualizada sobre seguridad pública, que permitan realizar programas conjuntos entre los tres niveles de gobierno, en materia de prevención y de persecución de delitos.
 
-La recopilación, integración y sistematización de la información por medio de sistemas tradicionales y de alta tecnología, será atribución del Gobernador del Estado a través de la Secretaría de Seguridad en los casos en que se determine que se atenta contra la estabilidad del Estado o en los casos de delincuencia organizada y delitos de alto impacto, sin perjuicio de la actividad de recopilación de información que deriva de la naturaleza de las funciones asignadas a otras dependencias.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+La recopilación, integración y sistematización de la información por medio de sistemas tradicionales y de alta tecnología, será atribución del Gobernador del Estado a través de la Secretaría de Seguridad.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -163,13 +179,15 @@ En coordinación la Federación, el Estado y los Municipios, mediante la aplicac
 
 Las autoridades competentes y los auxiliares en seguridad pública, deberán alcanzar sus objetivos, de conformidad a lo establecido en el párrafo noveno del artículo 21 de la Constitución Federal con estricto apego a los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
 
-El Gobernador del Estado, emitirá por conducto de la Secretaría de Seguridad, las normas en el ámbito de su competencia, a fin de establecer los citados principios en la formación policial.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+La Secretaría de Seguridad y el Instituto emitirán las normas y criterios para que la formación policial de los elementos de la Policía y de las Policías Municipales se apegue a los citados principios.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 9.
 
-El Gobernador del Estado y los Municipios podrán celebrar entre sí, con el Gobierno Federal, con los otros poderes del Estado, con los Gobiernos estatales y municipales de las entidades federativas del país, así como con personas físicas y morales, públicas o privadas, convenios y acuerdos que el interés general requiera para la mejor prestación de la función de seguridad pública, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública.
+El Gobernador del Estado y los Municipios podrán celebrar entre sí, con el Gobierno Federal, con los otros poderes del Estado, con los Gobiernos estatales y municipales de las entidades federativas del país, así como con personas físicas y morales, públicas o privadas, convenios y acuerdos que el interés general requiera para la mejor prestación de la función de seguridad pública, conforme a la Constitución Federal, la Constitución y la Ley General.
 
 ###### ARTÍCULO 10.
 
@@ -221,11 +239,11 @@ La coordinación a que se refiere el primer párrafo se hará con respeto absolu
 
 Cuando las acciones conjuntas sean para perseguir delitos, se cumplirán sin excepción los requisitos previstos en los ordenamientos constitucionales y legales, así como en los convenios aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 12.
 
-El Gobernador del Estado podrá establecer en el reglamento respectivo, unidades de coordinación regional competentes para actuar en las zonas y con las atribuciones que se determinen en las disposiciones reglamentarias, ello para agilizar la actuación de las autoridades en materia de seguridad pública.
+El Gobernador del Estado podrá establecer mediante acuerdo unidades de coordinación regional competentes para actuar en las zonas y con las atribuciones que en él se determinen, para agilizar la actuación de las autoridades en materia de seguridad pública.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -349,39 +367,41 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Seguridad Pública;
 
-IV. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+IV. El Fiscal General;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
 
 V. Los Subsecretarios de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-VI. Los Subprocuradores de Justicia del Estado;
+VI. Los Vicefiscales de la Fiscalía General;
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-VII. El Titular de la Agencia Estatal de Investigación;
+VII. El Titular de la de División de Investigación de la Secretaría de Seguridad;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-VIII. El Titular de la Dirección de la Policía Estatal;
+VIII. El Comisario General de la Policía;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
 
 IX. El Director General del Instituto;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-X. El Director de Protección Civil; y (sic)
+X. El Director de Protección Civil;
 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
 XI. las autoridades jurisdiccionales en tratándose de la justicia penal y la ejecución de las penas y medidas de seguridad que prevengan las leyes; y
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-XII. Las demás que con ese carácter determine la Ley.
+XII. Los integrantes de la policía, los agentes del ministerio público y las demás que con ese carácter determinen las disposiciones aplicables.
 
 ###### ARTÍCULO 28.
 
@@ -411,13 +431,13 @@ Las autoridades federales, estatales y municipales de seguridad pública podrán
 
 ### CAPITULO II. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 30.
 
-El Gobernador del Estado tendrá el mando de los cuerpos estatales de seguridad pública. La policía preventiva municipal estará al mando del Presidente Municipal, pero acatará las órdenes que el Gobernador le trasmita en aquellos casos de fuerza mayor o alteración grave del orden público.
+El Gobernador del Estado tendrá el mando de los cuerpos estatales de seguridad pública. La policía preventiva municipal estará al mando del Presidente Municipal en los términos de esta ley, pero acatará las órdenes que el Gobernador le trasmita en aquellos casos de fuerza mayor o alteración grave del orden público.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
-
-El Gobernador, igualmente estará al mando del cuerpo de policía municipal del lugar en el que residan los poderes del Estado y de manera transitoria en el lugar en que se encuentre.
+Asimismo, estará al mando de la policía municipal del lugar donde residan los poderes del Estado y de manera transitoria en el lugar en que se encuentre o cuando mediante convenio con los municipios se haga cargo de funciones de seguridad pública y policía.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -445,9 +465,9 @@ VII. Suscribir convenios de coordinación con los Poderes del Estado, autoridade
 
 VIII. Aprobar y expedir el Programa y los que de él deriven;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-IX. Designar y remover de su encargo al Director General de la Policía, así como disponer en todo momento de los cuerpos de corporación y ordenar la realización de acciones específicas de seguridad en la Entidad o en determinadas zonas de su territorio, cuando existan riesgos en contra de la soberanía del Estado por actos tendientes a consumar espionaje, sabotaje, terrorismo, rebelión, genocidio y delincuencia organizada. Estos supuestos son enunciativos más no limitativos de la facultad señalada;
+IX. Designar y remover de su encargo al Comisario General de la Policía, así como disponer en todo momento de los cuerpos de seguridad y ordenar la realización de acciones específicas de seguridad en la Entidad o en determinadas zonas de su territorio, cuando existan riesgos en contra de la soberanía del Estado por actos tendientes a consumar espionaje, sabotaje, terrorismo, rebelión, genocidio y delincuencia organizada. Estos supuestos son enunciativos más no limitativos de la facultad señalada;
 
 X. Imponer las condecoraciones a que se refiere esta Ley;
 
@@ -465,15 +485,25 @@ XIII. Coadyuvar con las autoridades federales, estatales y municipales en la eje
 
 XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 32.
 
-Las autoridades estatales en materia de seguridad pública tendrán las facultades y obligaciones que les señalen la Constitución Federal, la particular del Estado, la Ley General, la Ley Orgánica de la Administración Pública del Estado de Durango, la presente Ley y demás ordenamientos jurídicos aplicables.
+Las autoridades estatales en materia de seguridad pública tendrán las facultades y obligaciones que les señalen la Constitución Federal, la Constitución, la Ley General, la Ley Orgánica de la Administración Pública del Estado de Durango y las demás disposiciones aplicables.
 
-Las autoridades de seguridad pública del Estado, dictarán las medidas conducentes para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado, Secretario General de Gobierno, Procurador General de Justicia, del Secretario de Seguridad Pública, del Subsecretario Operativo de Seguridad y municipales que así lo requieran; asimismo brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la ley.
+La Secretaría de Seguridad Publica dictará las medidas conducentes para brindar protección necesaria a los servidores públicos estatales siguientes: Gobernador del Estado, Secretario General de Gobierno, Fiscal General, Vicefiscal General, Vicefiscal de Procedimientos Penales, Vicefiscal de Control Interno Análisis y Evaluación, Vicefiscal de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Vicefiscal de la Zona 1, Vicefiscal de la Zona 2, Coordinador General de Agentes del Ministerio Publico, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario de Participación Ciudadana, Prevención y Reinserción Social, Comisario General de la Policía, Comisario Jefe de la Policía y demás servidores públicos que así lo requieran, lo cual deberá, determinar el Secretario de Seguridad Publica mediante acuerdo, asimismo brindarán servicio de protección a aquellas personas que la autoridad electoral determine conforme a la ley.
 
-Los servidores públicos a que se hace referencia en el párrafo anterior, tendrán derecho a que los Cuerpos de Seguridad Pública del Estado otorguen protección a su integridad física y a la de sus familias durante el ejercicio de su encargo y hasta un año siguiente a la conclusión del mismo, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
+La protección se brindará durante el tiempo del encargo y respecto de los servidores públicos enunciados en la forma siguiente:
+
+I. Al Gobernador del Estado, por 4 (cuatro) años;
+
+II. Al Secretario General de Gobierno, al Fiscal General y al Secretario de Seguridad Pública, cuando duren en funciones más de 3 (años) les corresponderá hasta 3 (tres) años, cuando el termino sea menor a tres años, les corresponderá hasta 2 (dos) años;
+
+III. A los vicefiscales y subsecretarios referidos en el primer párrafo del presente artículo, cuando duren en funciones más de 3 (años) les corresponderá hasta 2 (dos) años, cuando el termino sea menor a tres años, les corresponderá hasta 1 (un) año;
+
+IV. A los demás enumerados en el primer párrafo del presente artículo les corresponderá hasta 1 (un) año.
+
+La cantidad de elementos designados originalmente para dicho encargo, seguirán mientras dure dicho periodo mencionado en las fracciones anteriormente descritas, el término y cantidad de los elementos podrá ser prorrogable o modificado a juicio del gobernador, previa opinión por escrito del Secretario de Seguridad Pública y del servidor público interesado. La Policía dispondrá de los recursos humanos, materiales y financieros necesarios para garantizar la protección de los servidores públicos enunciados y de los integrantes de su familia directa.
 
 ###### ARTÍCULO 33.
 
@@ -499,7 +529,9 @@ VII. Las demás que les señalen las disposiciones jurídicas y reglamentarias a
 
 Son facultades y obligaciones de los Presidentes Municipales:
 
-I. Asumir el mando y la responsabilidad de las corporaciones municipales de seguridad pública;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+I. Asumir el mando y la responsabilidad de las corporaciones municipales de seguridad pública, excepto cuando existan convenios suscritos con el Estado, en materia de seguridad pública en términos de la Constitución Federal;
 
 II. Participar en las sesiones del Consejo;
 
@@ -527,7 +559,9 @@ IX. Vigilar que los titulares de las corporaciones municipales de seguridad púb
 
 X. Presentar mensualmente o con la periodicidad que se solicite, los informes a la Secretaría de Seguridad y a las instancias federales, los resultados de las investigaciones que contengan los elementos generales criminógenos, las zonas e incidencias en la comisión de delitos en su territorio, para conformar la estadística delictiva, y además, para adoptar las medidas preventivas necesarias y evitar las faltas a los ordenamientos jurídicos.
 
-Las corporaciones municipales de Seguridad Pública deberán desarrollar los procedimientos de información obligatorios conforme a la presente Ley y a la Ley General, procesando la misma y remitiéndola de la manera más expedita a la autoridad que corresponda;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+Las corporaciones municipales de Seguridad Pública deberán desarrollar los procedimientos de información obligatorios conforme a la presente Ley y a la Ley General, en la forma y términos que determine la Unidad, debiendo remitirla de manera expedita a la misma;
 
 XI. Determinar la realización de operativos especiales de vigilancia en zonas que por su incidencia delictiva lo requieran;
 
@@ -545,7 +579,7 @@ XV. Integrar el Consejo de Honor y Justicia a que se refiere esta Ley;
 
 XVI. Auxiliar a las autoridades federales y estatales de seguridad pública, así como a las autoridades judiciales y de procuración de justicia cuando sea requerido;
 
-XVII. Emitir opinión sobre la autorización de servicios privados de protección y vigilancia en el ámbito de su competencia;
+XVII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2010)
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -570,6 +604,10 @@ XXIII.- Las demás que les señalen las disposiciones jurídicas y reglamentaria
 ###### ARTÍCULO 35.
 
 Las corporaciones municipales de seguridad pública tendrán la obligación de suministrar la información relativa al sistema único de información criminal, datos que deberán ser actualizados permanentemente y a los que podrá accesarse en los términos que disponga la Ley General.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 35 BIS.- Las facultades conferidas a los Ayuntamientos y a los Presidentes Municipales se entenderán sin perjuicio de que por la suscripción de convenios en términos de la Constitución Federal, el Gobernador se haga cargo de manera directa o a través de la Secretaría de Seguridad Pública de funciones relativas a la seguridad pública.
 
 ## TÍTULO TERCERO. DE LAS DEPENDENCIAS DE SEGURIDAD PÚBLICA
 
@@ -613,17 +651,17 @@ VIII. Las demás que le señalen las disposiciones jurídicas y reglamentarias a
 
 El Secretario de Seguridad Pública, será designado por el Gobernador del Estado y se requiere cumplir con los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-I. Ser ciudadano duranguense por nacimiento en pleno ejercicio de sus derechos, con residencia efectiva dentro del territorio del Estado, que no sea menor de seis años inmediatamente anteriores al día de su designación. O ciudadano duranguense y tener cuando menos diez años de residencia efectiva dentro del territorio del Estado inmediatamente anterior al día de su designación.
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
 
 II. Ser mayor de veintiocho años.
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-III. Poseer el día de su nombramiento, con antigüedad mínima de cinco años, título de nivel licenciatura; y
+III. Poseer una experiencia mínima de cinco años, en áreas de seguridad pública o relacionadas con ésta;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -655,9 +693,9 @@ VI. Formular a los Presidentes Municipales las recomendaciones que estime pertin
 
 VII. Formular y aplicar las normas y políticas relacionadas con la depuración, ingreso, capacitación, desarrollo y sanción del personal que interviene en funciones de seguridad pública;
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-VIII. Autorizar altas y bajas del personal y miembros de las corporaciones de su competencia, sus cambios de plaza, adscripción y rotación territorial, informando de cualquier movimiento a la Unidad de Enlace Informático a que hace referencia esta Ley; así como aplicar sanciones administrativas por faltas a esta Ley y reglamentos respectivos, de igual manera deberá proceder a informar a los registros nacionales en materia de información de seguridad pública, certificación, acreditación y control de confianza y el de personal de seguridad pública;
+VIII. Autorizar altas y bajas del personal y miembros de las corporaciones de su competencia, sus cambios de plaza, adscripción y rotación territorial, informando de cualquier movimiento a la Unidad; así como aplicar sanciones administrativas por faltas a esta Ley y reglamentos respectivos, de igual manera deberá proceder a informar a los registros nacionales en materia de información de seguridad pública, certificación, acreditación y control de confianza y el de personal de seguridad pública;
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -701,11 +739,39 @@ XXII. Delegar las atribuciones cuya naturaleza así lo permita en los servidores
 
 XXIII. Administrar y sistematizar los datos e instrumentos de información que necesite el sistema nacional o estatal, así como recabar los datos que se requieran, y
 
-XXIV. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+XXIV. Dirigir, controlar y supervisar a la Policía, por conducto del Comisario General de la Policía; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+XXV. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
 ###### ARTÍCULO 39.
 
 El Secretario de Seguridad Pública vigilará que las corporaciones estatales y los cuerpos de seguridad municipales registren y consulten permanentemente en la Dependencia a su cargo y en el Consejo, la información que en materia de seguridad pública se procese en las referidas áreas.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 39 BIS.- La Secretaría de Seguridad Pública tendrá un Consejo Consultivo, que propondrá políticas en materia de prevención del delito, así como de acciones para mejorar la prestación del servicio estatal de seguridad pública, e impulsar la participación social en el tema, que será integrado por:
+
+I.- El Secretario de Seguridad Pública, que lo presidirá;
+
+II.- El Secretario General de Gobierno;
+
+III.- El Fiscal General;
+
+IV.- Los subsecretarios de Seguridad Pública;
+
+V.- Un representante del Poder Legislativo, que será el presidente de la Comisión de Seguridad Pública;
+
+VI.- Un representante del Poder Judicial;
+
+VII.- Dos representantes del Consejo Ciudadano.
+
+El Consejo Consultivo contará con un secretario técnico que será designado por el Secretario de Seguridad, mismo que tendrá carácter honorifico.
+
+El Consejo Consultivo no emitirá resoluciones obligatorias al Secretario de Seguridad Pública, sino únicamente propuestas que quedarán asentadas en las minutas respectivas, y se reunirá por lo menos una vez cada tres meses.
 
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DE ASUNTOS INTERNOS
 
@@ -775,31 +841,45 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Seguridad Pública;
 
-IV. El Subsecretario de Seguridad Pública en el ramo;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-V. El Director General de la Policía; y
+IV. El Subsecretario operativo de seguridad pública;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-VI. Los Directores y Subdirectores de Área de la Policía.
+V. El Comisario General de la Policía en términos de las disposiciones aplicables; y
 
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+VI. Los comisarios e inspectores.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 47.
 
-La Policía, estará constituida por cuerpos, que atiendan enunciativamente las siguientes líneas de acción; apoyo a las instituciones encargadas de la administración de justicia penal, ecología, caminos, policía de contacto, cuerpo general de policía, apoyo táctico, unidad canina, seguridad penitenciaria, inteligencia e intervención, ejercerán las facultades que les otorgan esta Ley y las demás disposiciones jurídicas de la materia, apegándose a los principios constitucionales de legalidad, eficiencia, objetividad, profesionalismo, honradez y respeto a los derechos humanos.
+La policía ejercerá en el ámbito de su competencia las funciones de prevención de infracciones, conductas antisociales y delitos, así como la investigación de éstos en términos del artículo 21 de la Constitución Federal, de esta Ley y demás disposiciones aplicables, apegándose a los principios constitucionales de legalidad, eficiencia, objetividad, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En caso de que la policía se haga cargo de manera directa del mando de alguna policía municipal ejercerá las funciones que se establezcan en el convenio que se firme para tal efecto en términos de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+La investigación de los delitos corresponde al Ministerio Público y a la policía encargada de la investigación de los delitos, la cual actuará bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-La Policía Procesal es un cuerpo especializado encargado de brindar el apoyo en las labores de traslado y vigilancia de los procesados y sentenciados al interior del Tribunal de Juicio Oral, correspondiendo a los demás cuerpos de seguridad pública, las funciones referentes a la supervisión y vigilancia de las medidas de seguridad.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+ARTÍCULO 47 BIS.- La policía contará con una división de investigación de los delitos, la cual actuará bajo la conducción y mando del Ministerio Público en el ejercicio de esta función, de acuerdo a los protocolos de investigación correspondientes. Así mismo contará con una Unidad de Ejecución de Mandamientos Judiciales para el seguimiento y continuidad de la investigación.
+
+La estructura de la División de Investigación de los Delitos se conformará tomando en consideración los requerimientos de trabajo de la Institución del Ministerio Público.
+
+La División de Investigación de los Delitos tendrá como titular a un Comisario Jefe, el cual será nombrado por el Secretario de Seguridad Pública, previa opinión del Fiscal General, asimismo podrá ser removido, por el Secretario de Seguridad Pública, cuando no cumpla con las órdenes legales en los términos que establezcan los protocolos de investigación respectivos, que le comunique la Institución del Ministerio Público y su conducta se traduzca en una dilación de la procuración de justicia, previa solicitud fundada y motivada del Fiscal General; lo anterior, con independencia de las responsabilidades penales y administrativas a que haya a (sic) lugar.
+
+El Secretario de Seguridad Pública resolverá dentro de un término de tres días hábiles contados a partir de la legal notificación de la solicitud y, en caso de ser negativa la respuesta a dicha solicitud, se elevará la decisión al Titular del Poder Ejecutivo, para que decida la permanencia o remoción del Comisario Jefe.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 48.
 
-El Gobernador del Estado podrá celebrar convenios con los municipios, previa aprobación y solicitud de los Ayuntamientos correspondientes, para que de manera directa cualquiera de las dos instancias de gobierno se hagan cargo en forma temporal de la prestación del servicio público de policía, o bien se preste coordinadamente.
+El Gobernador del Estado podrá celebrar convenios con los municipios, previa aprobación de los Ayuntamientos correspondientes, para que de manera directa cualquiera de las dos instancias de gobierno se hagan cargo en forma temporal de la prestación del servicio público de policía, o bien se preste coordinadamente.
+
+En caso de que sea el Estado quien se haga cargo de la prestación del servicio de seguridad pública, las policías municipales respectivas quedarán bajo el mando del gobernador, por conducto del Secretario de Seguridad Pública. Los convenios determinarán la forma para que el Estado administre los recursos humanos, financieros y materiales de las policías municipales por el tiempo en que dure el convenio respectivo, y para tal efecto pueden constituirse fideicomisos o adoptarse cualquier otra figura jurídica que permita la eficiente administración de los citados recursos; en este caso, durante la vigencia del convenio, la adquisición de bienes, servicios y arrendamientos con recursos originalmente destinados a las policías municipales se hará por conducto de la Secretaría de Seguridad y con apego a la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Durango.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -857,15 +937,23 @@ XVII. Obtener y mantener actualizado su Certificado Único Policial; y
 
 XVIII. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-ARTÍCULO 49 BIS.- los integrantes de las Instituciones Policiales deberán llenar un Informe Policial Homologado que contendrá cuando menos, los siguientes datos:
+ARTÍCULO 49 BIS.- Los integrantes de las instituciones policiales deberán llenar un informe policial homologado que contendrá los datos de la Ley General y el Consejo siguientes:
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
 I. El área que lo emite;
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
+
 II. El usuario capturista;
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
+
 III. Los Datos Generales de registro;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
 IV. Motivo, que se clasifica en:
 
@@ -873,11 +961,19 @@ a) Tipo de evento, y
 
 b) Subtipo de evento.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
+
 V. La ubicación del evento y en su caso, los caminos;
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
 VI. La descripción de hechos, que deberá detallar modo, tiempo y lugar, entre otros datos.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
+
 VII. Entrevistas realizadas, y
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
 VIII. En caso de detenciones:
 
@@ -895,7 +991,13 @@ f) Autoridad a la que fue puesto a disposición, y
 
 g) lugar en el que fue puesto a disposición.
 
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
+
 El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la investigación.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+Asimismo, podrán recibir denuncias mediante los formatos y con los requisitos que establezca el Fiscal General, los cuales deberán remitir inmediatamente al Ministerio Público para el ejercicio de las funciones constitucionales que le corresponden.
 
 ###### ARTÍCULO 50.
 
@@ -927,9 +1029,9 @@ XI. Ser respetuosos con sus subordinados y ser ejemplo de honradez, disciplina, 
 
 XII. Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan, con las excepciones que determinen las Leyes;
 
-XIII. Asistir a cursos de capacitación, adiestramiento y especialización que impartan los institutos para la formación de los cuerpos de seguridad pública del
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-Estado;
+XIII. Asistir a cursos de capacitación, adiestramiento y especialización que impartan los institutos para la formación de los cuerpos de seguridad pública del Estado, y cumplir con los requisitos de ingreso y permanencia;
 
 XIV. Usar y cuidar el equipo de radio transmisión, el arma a su cargo, las municiones y todo cuanto le sea proporcionado por la corporación a que pertenezcan, destinándolo exclusivamente al cumplimiento de sus funciones;
 
@@ -985,9 +1087,11 @@ Cualquier incumplimiento a los deberes o cuando incurran en las faltas previstas
 
 ### CAPITULO IV. DISPOSICIONES COMUNES PARA LAS CORPORACIONES DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 53.
 
-Son atribuciones comunes de los Directores de las corporaciones preventivas estatales y municipales de seguridad pública, en sus respectivos ámbitos de competencia, las siguientes:
+Son atribuciones comunes de los Comisarios de las corporaciones estatales y municipales de seguridad pública, en sus respectivos ámbitos de competencia, las siguientes:
 
 I. Formular y ejecutar el programa de trabajo de la corporación a su cargo e informar al Secretario de Seguridad Pública periódicamente o a su superior jerárquico sobre los resultados;
 
@@ -1021,7 +1125,9 @@ XIII. Tratándose de los Municipios, observar y hacer cumplir los bandos de poli
 
 XIV. Vigilar el tránsito de vehículos y peatones en las calles, caminos, carreteras y áreas de jurisdicción estatal y municipal en su ámbito de competencia;
 
-XV. Aprehender a los delincuentes en caso de flagrante delito poniéndolo de inmediato a disposición de la autoridad competente en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+XV. Detener a los delincuentes en caso de flagrante delito poniéndolo de inmediato a disposición de la autoridad competente en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; y
 
 XVI. Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
 
@@ -1031,7 +1137,7 @@ ARTÍCULO 53 BIS.- los integrantes de los cuerpos de seguridad pública, distint
 
 I.- Recabar la información necesaria de los hechos delictuosos de que tengan noticia, dando inmediato aviso al Ministerio Público e impedir que estos se lleven a consecuencias ulteriores;
 
-II.-Detener en flagrancia a quien realice un hecho que pueda constituir un delito;
+II.- Detener en flagrancia a quien realice un hecho que pueda constituir un delito;
 
 III.- Identificar y aprehender, por mandamiento judicial o ministerial, a los imputados.
 
@@ -1059,7 +1165,9 @@ Los policías actuarán conforme a los principios de actuación de los cuerpos d
 
 ARTÍCULO 53 BIS 3.- Los integrantes de los cuerpos de seguridad pública que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio de sus funciones de investigación o lo cumplan negligentemente, serán sancionados según las disposiciones legales aplicables.
 
-Cuando actúen bajo instrucciones del Ministerio Público y no sea la policía que dependa de él, el Procurador General de Justicia del Estado y los jueces, en su caso, podrán solicitar a la autoridad competente la aplicación de las sanciones ahí previstas, cuando las autoridades policiales no cumplan con su potestad disciplinaria.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+Cuando actúen bajo instrucciones del Ministerio Público, del Fiscal General o de los jueces, éstos impondrán las medidas de apremio previstas en la ley o podrán solicitar al superior jerárquico o autoridad competente que se imponga la medida disciplinaria o sanción administrativa que corresponda, sin perjuicio de iniciar los procedimientos para la imposición de sanciones administrativas o penales.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -1115,13 +1223,23 @@ V. Estadística de comisión y de disminución real de delitos.
 
 Para ingresar y permanecer en las corporaciones de seguridad pública estatal y municipal, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, no tener otra nacionalidad y estar en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+I. Ser ciudadano mexicano, no tener otra nacionalidad y estar en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Ser de notoria buena conducta y no haber sido condenado mediante sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
 
 III. Haber cumplido con el servicio militar los varones y contar con credencial de elector;
 
-IV. Acreditar haber concluido los estudios correspondientes a la enseñanza media superior o equivalente;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+IV. Acreditar que ha concluido, al menos, lo estudios siguientes:
+
+a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;
+
+b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente;
+
+c) En caso de aspirentes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -1189,11 +1307,19 @@ Al concluir el servicio el integrante deberá entregar al funcionario designado 
 
 COMO AUXILIARES DE LA SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 58.
 
-El Titular de la Secretaría de Seguridad Pública, podrá autorizar a personas físicas o morales la prestación de servicios de seguridad privada, protección y vigilancia de personas, lugares o establecimientos, así como bienes o valores, incluidos su traslado en sus diversas formas, siempre que satisfagan los requisitos establecidos por la presente Ley y sus reglamentos.
+El Secretario de Seguridad Pública, podrá autorizar a personas físicas o morales la prestación de servicios de seguridad privada, protección y vigilancia de personas, lugares o establecimientos, así como de bienes o valores, incluidos su traslado en sus diversas formas, siempre que satisfagan los requisitos establecidos por la presente ley y sus reglamentos. Los integrantes de los servicios de seguridad privada deberán cumplir por lo menos los requisitos que la policía que ejerce funciones de reacción en términos de la Ley General. La unidad llevará un registro del personal que presta servicios de seguridad privada y, por su inscripción, las personas físicas y morales deberán pagar las contribuciones que a tal efecto se establezcan.
 
 Las especificaciones relativas a la autorización, operación, funcionamiento, supervisión, verificación, revalidación, regulación y control de los servicios privados de protección y vigilancia, se sujetará a las disposiciones contenidas en el reglamento de la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 58 BIS.- El Secretario de Seguridad podrá crear, de conformidad con las disposiciones presupuestales existentes, un cuerpo auxiliar de la policía cuya única función es prestar servicios de seguridad privada a personas físicas o morales, las cuales deberán pagar las contribuciones que se establezcan en la Ley de Hacienda del Estado de Durango.
+
+En este caso, la prestación del servicio será en los términos del reglamento que se expida para tal efecto, y los integrantes de este cuerpo auxiliar deberán cumplir cuando menos los mismos requisitos que la policía que ejerce funciones de reacción en los términos de la Ley General.
 
 ###### ARTÍCULO 59.
 
@@ -1303,9 +1429,11 @@ XV.- Proponer la celebración de convenios con Instituciones educativas nacional
 
 XVI.- Supervisar que los aspirantes e integrantes de las Instituciones Policiales se sujeten a los manuales de las Academias e Institutos, y
 
-XVII.-Las demás que establezcan las disposiciones legales aplicables.
+XVII.- Las demás que establezcan las disposiciones legales aplicables.
 
-La organización y. funcionamiento del Instituto, se regirá por las disposiciones de la presente Ley; de su reglamento y de la Ley de Entidades Paraestatales del Estado de Durango.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+La organización y funcionamiento del Instituto, se regirá por las disposiciones de la presente Ley y su reglamento.
 
 ###### ARTÍCULO 68.
 
@@ -1335,29 +1463,7 @@ IX.- Las demás que establezcan otras disposiciones legales.
 
 ###### ARTÍCULO 69.
 
-El Consejo Directivo del Instituto estará integrado por los funcionarios siguientes:
-
-I. El Gobernador del Estado quién lo presidirá;
-
-II. El Secretario de Seguridad Pública quién será el Vicepresidente;
-
-III. El Subsecretario de Seguridad Pública del Área Operativa;
-
-IV. Un representante designado por el Secretario General de Gobierno;
-
-V. Un representante designado por el H. Congreso del Estado;
-
-VI. Un representante de la Secretaría de Contraloría y Modernización Administrativa, en calidad de Comisario;
-
-VII. Un representante de la Secretaría de Finanzas y de Administración; y
-
-VIII. Tres ciudadanos vocales a invitación del Presidente.
-
-El Consejo Directivo del Instituto tendrá las atribuciones y funcionará de conformidad con el reglamento de esta Ley y la Ley de Entidades Paraestatales del Estado de Durango.
-
-El Instituto tendrá un Consejo Técnico Consultivo el cual será designado por el Consejo Directivo, y se integrará con base en los lineamientos que se establezcan en el reglamento interior del propio Instituto.
-
-El Director General del Instituto fungirá como Secretario Técnico del Consejo Directivo y participará en sus sesiones con voz pero sin voto.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO 70.
 
@@ -1377,65 +1483,57 @@ VI. Los demás que establezcan el reglamento de esta Ley y otras disposiciones a
 
 ###### ARTÍCULO 71.
 
-Son atribuciones del Consejo Directivo del Instituto, las siguientes:
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2010)
 
-I. Aprobar los programas de enseñanza;
-
-II. Examinar y aprobar los estudios y proyectos sobre actividades que correspondan a la ejecución de los fines de la Institución;
-
-III. Aprobar, en su caso, la propuesta para el reglamento interno del Instituto que le presente el Director General;
-
-IV. Conocer en forma periódica los informes de labores que rinda el Director;
-
-V. Fijar políticas generales para el funcionamiento, operación de recursos y organización del Instituto;
-
-VI. Certificar los cursos y estudios que imparta, a través de sistemas de estándares de calidad; y
-
-VII. Las demás que le señale la Ley de Entidades Paraestatales del Estado de Durango y otras disposiciones jurídicas y reglamentarias aplicables.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 72.
 
 El Director General del Instituto tendrá las atribuciones siguientes:
 
-I. Presentar al Consejo Directivo del Instituto las propuestas de planes y programas para la formación de los aspirantes e integrantes de las corporaciones policiales del Estado y los Municipios, así como del personal docente y administrativo a su cargo;
+I. Presentar al Secretario de Seguridad:
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+a) Las propuestas de planes y programas para la formación de los aspirantes e integrantes de las corporaciones policiales del Estado y los Municipios, así como del personal docente y administrativo a su cargo;
 
-II. Fungir como Secretario Técnico del Consejo Directivo del Instituto y participar como vocal en el Consejo de Honor y Justicia de la Secretaría de Seguridad, vigilando el exacto cumplimiento de los acuerdos y resoluciones que dichos órganos emitan;
+b) Los estudios y proyectos sobre actividades que correspondan a la ejecución de los fines de la Institución;
 
-III. Informar periódicamente a los órganos mencionados en la fracción anterior del cumplimiento de los acuerdos y resoluciones emitidos por éstos;
+c) El proyecto de reglamento interno del Instituto; y
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+d) Las políticas generales para el funcionamiento, operación de recursos y organización del Instituto;
 
-IV. Representar al Instituto como apoderado general para pleitos y cobranzas y actos de administración, de acuerdo con el reglamento interior del mismo;
+II. Certificar los cursos y estudios que imparta, a través de sistemas de estándares de calidad;
 
-V. Presentar al Consejo Directivo del Instituto los proyectos y programas, estados financieros y los demás que se le soliciten;
+III. Participar como vocal en el Consejo de Honor y Justicia de la Secretaría de Seguridad, vigilando el exacto cumplimiento de los acuerdos y resoluciones que dichos órganos emitan;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+IV. Informar periódicamente al Secretario de Seguridad de los informes de labores, así cumplimiento (sic) de los acuerdos y resoluciones emitidos por el Consejo de Honor y Justicia;
 
-VI. Previa aprobación del Consejo Directivo, celebrar convenios con los Municipios, personas físicas o morales, públicas o privadas, para el desarrollo y aplicación de los programas de capacitación, actualización, especialización y profesionalización;
+V. Representar al Instituto como apoderado general para pleitos y cobranzas y actos de administración, de acuerdo con el reglamento interior del mismo;
 
-VII. Cumplir con los programas y lineamientos establecidos por la Secretaría de Seguridad;
+VI. Elaborar los proyectos y programas, estados financieros y los demás que se le soliciten;
 
-VIII. Ejercer el presupuesto del Instituto, bajo la supervisión y aprobación del Consejo Directivo del Instituto;
+VII. Previa aprobación del Secretario, celebrar convenios con los Municipios, personas físicas o morales, públicas o privadas, para el desarrollo y aplicación de los programas de capacitación, actualización, especialización y profesionalización;
 
-IX. Aprobar y hacer cumplir el calendario de actividades del Instituto;
+VIII. Cumplir con los programas y lineamientos establecidos por la Secretaría de Seguridad;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
+IX. Ejercer el presupuesto del Instituto, bajo la supervisión y aprobación del Secretario;
 
-X. Proponer, para su aprobación, en su caso, al Consejo Directivo del Instituto, el personal docente y administrativo de este organismo y al que se integrará el Consejo Técnico Consultivo;
+X. Aprobar y hacer cumplir el calendario de actividades del Instituto;
 
-XI. Aplicar sanciones y medidas disciplinarias al personal y alumnado que infrinja las disposiciones que para tal efecto emita el Consejo Directivo del Instituto;
+XI. Proponer, para su aprobación, al personal docente y administrativo de este organismo;
 
-XII. Promover la impartición permanente de cursos básicos, medio y superior de especialización, de actualización y de promoción, para el mejoramiento profesional de los integrantes de las corporaciones de seguridad pública del Estado; y
+XII. Aplicar sanciones y medidas disciplinarias al personal y alumnado que infrinja las disposiciones reglamentarias respectivas;
 
-XIII. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+XIII. Promover la impartición permanente de cursos básicos, medio y superior de especialización, de actualización y de promoción, para el mejoramiento profesional de los integrantes de las corporaciones de seguridad pública del Estado; y
+
+XIV. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
 ### CAPITULO II. DEL SERVICIO POLICIAL DE CARRERA
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 73.
 
-El Estado y los Municipios, con base en sus posibilidades presupuéstales, establecerán el Servicio Policial de Carrera, con carácter obligatorio y permanente, para asegurar la profesionalización de sus elementos. La estructura, funciones y procedimientos del Servicio Policial de Carrera, se sujetarán a lo previsto en los reglamentos que se expidan para el efecto.
+El Estado y los municipios, con base en sus posibilidades presupuéstales, establecerán el Servicio Policial de Carrera, con carácter obligatorio y permanente, para asegurar la profesionalización de sus elementos. La estructura, funciones y procedimientos del Servicio Policial de Carrera, se sujetarán a la Ley General, esta Ley y los reglamentos que se expidan para el efecto.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -1609,11 +1707,15 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Seguridad Pública;
 
-IV. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+IV. El Fiscal General;
 
 V. El Secretario de Comunicaciones y Obras Públicas;
 
-VI. Cinco Presidentes Municipales;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+VI. Cinco Presidentes Municipales designados por el Presidente del Consejo;
 
 VII. Los funcionarios representantes o delegados en la entidad de las autoridades federales que forman parte del Consejo Nacional; y
 
@@ -1647,15 +1749,19 @@ I.- La Secretaría General de Gobierno, quien la presidirá;
 
 II.- El Subsecretario de Operación de la Secretaría de Seguridad;
 
-III.- El Subprocurador de Justicia;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
+III.- Un representante designado por el Fiscal General;
 
-IV.- El Titular de la Agencia Estatal de Investigación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-V.- El Director General de la Policía Estatal; y
+IV.- El Comisario General; y
 
-VI.- Cinco Titulares de Seguridad Pública Municipales.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+V.- Cinco Titulares de Seguridad Pública Municipales.
+
+VI.- Cinco Titulares de Seguridad Pública Municipales. (sic)
 
 Se podrán establecer coordinaciones regionales operativas, participando además los Titulares de seguridad pública de los Municipios que pertenezcan a la región determinada.
 
@@ -1853,11 +1959,15 @@ IV.- Vocales, que serán los titulares de las siguientes dependencias y entidade
 
 a) Secretaría de Seguridad Pública;
 
-b) Procuraduría de Justicia;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+b) Fiscalía General;
 
 c) Secretaría de Finanzas y de Administración;
 
-c) (sic) Secretaria de Comunicaciones y Obras Públicas; y
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+d) Secretaría de Comunicaciones y Obras Públicas; y
 
 V.- Un Comisario Público, que será designado por la Secretaría de Contraloría y Modernización Administrativa.
 
@@ -1893,9 +2003,9 @@ II. Un representante del Consejo, nombrado por su Presidente;
 
 III. Un agente del ministerio público adscrito en el Municipio o autoridad competente:
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-IV. El comandante de la Agencia Estatal de Investigación con destacamento en el Municipio, donde los haya;
+IV. El integrante de mayor rango de la Policía con destacamento en el Municipio, en donde lo haya;
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -1933,11 +2043,19 @@ VII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ### CAPITULO IV. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
-#### SECCIÓN PRIMERA. DE LA UNIDAD DE ENLACE INFORMÁTICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+#### SECCIÓN PRIMERA. DE LA UNIDAD DE ENLACE INFORMÁTICO E INTELIGENCIA
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 105.
 
-El Consejo contará con una Unidad de Enlace Informático a la que le corresponderá integrar, administrar, mantener actualizada y proporcionar la información de los diversos registros sobre seguridad pública, de acuerdo a las bases que establezca el reglamento de esta Ley.
+La Secretaría de Seguridad contará con la Unidad a la que le corresponderá integrar, administrar, mantener actualizada y proporcionar la información de los diversos registros sobre seguridad pública.
+
+Asimismo, le corresponderá recopilar y analizar la información que proporcionen las autoridades de seguridad pública, en especial la derivada de los informes policiales homologados, así como la obtenida en la investigación de los delitos. La Unidad garantizará que la Fiscalía General, por conducto de sus servidores públicos autorizados, tenga pleno acceso a esta información y velará porque ninguna persona sin autorización tenga acceso a la misma.
+
+La Unidad deberá garantizar que la Secretaría cumpla las obligaciones establecidas en la Ley General, relativas a proporcionar la información de seguridad pública al Centro Nacional de Información, por lo que velará por establecer la interconexión y acceso necesarios para tal efecto, siguiendo los protocolos y disposiciones aplicables.
 
 ###### ARTÍCULO 106.
 
@@ -1965,7 +2083,17 @@ VI. De vehículos robados y recuperados; y (sic)
 
 VII. Del registro Administrativo de Detenciones; y
 
-VIII. Los demás que se consideren necesarios para los fines de la presente Ley.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+VIII. De inteligencia en materia criminal;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+IX. De personal que presta servicios de seguridad privada; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+X. Los demás que se consideren necesarios para los fines de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -2205,13 +2333,27 @@ Al servidor público que quebrante la reserva del Registro o proporcione informa
 
 ARTÍCULO 128 BIS 3.- Las Instituciones de Seguridad Pública Estatal serán responsables de la administración, guarda y custodia de los datos que integran este registro; su violación se sancionará de acuerdo con las disposiciones previstas en la legislación penal aplicable.
 
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+#### SECCIÓN OCTAVA TER. DEL REGISTRO DE INTELIGENCIA EN MATERIA CRIMINAL
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 128 TER.- El Registro de Inteligencia en Materia Criminal concentrará toda la información derivada de los informes policiales homologados, de las denuncias recibidas por la Policía, por las policías municipales y por el Ministerio Público, así como de la que se recopile en la investigación y persecución de los delitos, y la que se intercambie con otras áreas de seguridad pública federal, estatal o municipal que permitan generar inteligencia estratégica y táctica para combatir el fenómeno delictivo, desarticular organizaciones criminales o perseguir delitos específicos.
+
+A este registro únicamente podrán acceder los servidores públicos que tengan autorización expresa del Fiscal General, Secretario de Seguridad, el Comisario General, y su información podrá ser certificada cuando a partir de ello se puede introducir legalmente en una investigación o un juicio del orden penal. Asimismo, se podrá compartir información con las autoridades federales competentes o estatales, según lo disponga la Ley General, esta ley, los convenios que se realicen a tal efecto y demás disposiciones aplicables.
+
+La Unidad será la encargada de garantizar la interconexión con la Fiscalía General para que ésta cumpla con sus responsabilidades constitucionales, así como de establecer los protocolos de acceso y seguridad a fin de que quede registro de las personas que ingresan al sistema. Asimismo, deberá realizar el análisis y sistematización de esta información a fin de que sirva a los fines de la seguridad pública y la justicia penal en la forma más ágil y expedita.
+
 #### SECCIÓN NOVENA. DE LAS REGLAS GENERALES SOBRE LA INFORMACIÓN
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN DÉCIMA. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 129.
 
-Los datos que se reciban en la Unidad de Enlace Informático, serán procesados bajo los principios de confidencialidad y reserva. No se proporcionará al público información alguna que ponga en riesgo la seguridad pública o atente contra el honor de las personas. El incumplimiento de esta obligación se equiparará al delito de revelación de secretos, sin perjuicio de la responsabilidad de otra naturaleza en que se incurra.
+El tratamiento de la información que se realice por parte de la Unidad, será bajo los principios de confidencialidad y reserva en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado Durango. No se proporcionará al público información alguna que ponga en riesgo la seguridad pública o atente contra el honor de las personas. El incumplimiento de esta obligación se equiparará al delito de revelación de secretos, sin perjuicio de la responsabilidad de otra naturaleza en que se incurra.
 
 ###### ARTÍCULO 130.
 
@@ -2241,9 +2383,15 @@ El registro de cartografía y estadística delictiva tendrá por objeto generar 
 
 El registro de cartografía y estadística delictiva sistematizará los datos y cifras relevantes sobre servicios de seguridad pública, permitiendo conocer la situación delincuencial en que se encuentra situada una comunidad.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 136.
 
-Para efectos de lo dispuesto en el presente capítulo, la Procuraduría y los titulares de la Policía y de las Direcciones de Policía Municipal remitirán, dentro de los primeros cinco días, de cada mes, al Consejo, la información y estadística generada. Para efectos de reciprocidad entre las diversas instancias de gobierno, la información procesada del registro de cartografía y estadística delictiva, estará a disposición de las dependencias oficiales federales, estatales y municipales. Cuando la información sea requerida por una instancia privada o una persona física el otorgamiento de la misma estará sujeta a la aprobación del Secretario Ejecutivo del Consejo, conforme a las disposiciones aprobadas por el Consejo en cumplimiento a la Ley de Acceso a la Información Pública del Estado de Durango.
+Para los efectos de lo dispuesto en el presente capítulo, la Unidad establecerá procedimientos y sistemas homologados para que los cuerpos de seguridad pública y la Fiscalía General remitan a ésta, la información y la estadística en la forma más ágil y eficiente, evitando la duplicidad de funciones y la dispersión de sistemas.
+
+Para efectos de reciprocidad entre las diversas instancias de gobierno, la información procesada del registro de cartografía y estadística delictiva, estará a disposición de las dependencias oficiales federales, estatales y municipales.
+
+Cuando la información sea requerida por una instancia privada o una persona física el otorgamiento de la misma estará sujeta a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
 
 ### CAPITULO V. DEL SERVICIO DE ATENCIÓN AL PÚBLICO
 
@@ -2257,13 +2405,15 @@ El Gobierno del Estado, en coordinación con los Municipios, dispondrá de un si
 
 El Consejo impulsará acciones para que el Estado y los Municipios instrumenten un servicio para la localización de personas, el cual tendrá comunicación directa con las dependencias y corporaciones de seguridad pública, salud, protección civil, y las demás instancias de asistencia pública y privada. Asimismo, para recibir las sugerencias, quejas y denuncias relativas a los servicios de seguridad pública. Las demás normas de operación se fijarán en el reglamento respectivo.
 
-> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
-ARTÍCULO 138 BIS.- El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con un número único de atención a la ciudadanía. El Secretario Ejecutivo adoptará las medidas necesarias para la homologación de los servicios.
+ARTÍCULO 138 BIS.- El servicio de llamadas de emergencia y el servicio de denuncia anónima operarán con un número único de atención a la ciudadanía. El Secretario de Seguridad adoptará las medidas necesarias para la homologación de los servicios.
 
 ## TÍTULO SEXTO. DE LA PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO ÚNICO. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN DE LA COMUNIDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO ÚNICO. DE LOS CONSEJOS Y COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
 
 ###### ARTÍCULO 139.
 
@@ -2323,9 +2473,25 @@ Para el logro de sus objetivos, los Consejos y Comités se vincularán con las d
 
 Los Comités podrán formular propuestas a los Consejos de Seguridad Pública, particularmente sobre vigilancia y prevención del delito, seguridad preventiva, reinserción social y cualquiera otro rubro relacionado con la materia. Los Presidentes de los Consejos y Comités Ciudadanos deberán dar seguimiento a las propuestas que formulen y participar, previa invitación, en el seno de las propias organizaciones ciudadanas y del Consejo, para informar sobre las actividades que realizan.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 143 BIS.- El Consejo Ciudadano tendrá las siguientes facultades:
+
+I.- Participar en el Consejo Consultivo de la Secretaría de Seguridad Pública;
+
+II.- Participar en el Consejo Consultivo de la Fiscalía General;
+
+III.- Promover la participación ciudadana en materia de seguridad pública;
+
+IV.- Proponer a la Administración Pública Local, a la Fiscalía General o al Poder Judicial del Estado, la adopción de políticas o acciones que mejoren el estado general de la seguridad pública, la justicia penal y la reinserción social, quienes tendrán obligación de analizar las propuestas y dar contestación a las mismas en un plazo no mayor de cuatro meses;
+
+V.- Proponer al Congreso del Estado reformas en materia de seguridad pública y justicia penal.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 144.
 
-Las anteriores disposiciones sobre la regulación de los Consejos y Comités Ciudadanos podrán ser complementadas por otras que dicte el Consejo.
+Las anteriores disposiciones sobre la regulación de los Consejos y Comités Ciudadanos podrán ser complementadas por otras que dicte el Consejo, y se velará porque cuente con la información oportuna y sistematizada que permita evaluar a los cuerpos de seguridad pública y la Fiscalía General.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2547,11 +2713,11 @@ La suspensión temporal de carácter preventivo procederá contra el elemento qu
 
 La suspensión temporal de carácter correctivo procederá contra el elemento que en forma reiterada o particularmente indisciplinada ha incurrido en faltas cuya naturaleza no amerita la destitución. La suspensión a que se refiere este párrafo no podrá exceder de treinta días naturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 164.
 
-Los integrantes de los Cuerpos de Seguridad Pública podrán ser destituidos por el Consejo de Honor y Justicia, por las siguientes causas:
+Los integrantes de los Cuerpos de Seguridad Pública podrán ser destituidos por el Consejo de Honor y Justicia correspondiente, por las siguientes causas:
 
 I. Faltar a sus labores por más de tres ocasiones en un periodo de treinta días naturales sin permiso o causa justificada;
 
@@ -2577,7 +2743,17 @@ XI. Por aplicar a sus subalternos en forma dolosa o reiterada correctivos discip
 
 XII. Por obligar a sus subalternos a entregarles dinero o cualquier otro tipo de dádivas a cambio de permitirles el goce de las prestaciones a que todo policía tiene derecho; y
 
-XIII. Las demás que se establezcan en otras disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+XIII. Por no aprobar el examen toxicológico o cualquier otro de los relacionados con la evaluación y control de confianza que realice el Centro Estatal de Acreditación y Control de Confianza;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+XIV. Por no obtener el certificado y registro del Centro Estatal de Acreditación y Control de Confianza, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+XV. Las demás que establezcan otras disposiciones legales o (sic)
 
 El cambio de los mandos no constituirá una causa para destituir a un elemento de los Cuerpos de Seguridad Pública. Los Cuerpos de Seguridad pública elaborarán un registro de los elementos que hayan sido destituidos, especificando además, la causa de la destitución.
 
@@ -2593,15 +2769,25 @@ El reglamento de esta Ley, establecerá el procedimiento, recursos y garantías 
 
 El Centro Estatal de Acreditación y Control de Confianza se conforma con las instancias, órganos, instrumentos, políticas, acciones y servicios previstos en la presente ley, tendientes a cumplir los objetivos y fines de la evaluación y certificación de los integrantes de las Instituciones de Seguridad Pública.
 
-Integran este Sistema: los centros de Evaluación y Control de Confianza de la Instituciones de Procuración de Justicia e Instituciones Policiales del Estado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+El Centro Estatal de Acreditación y Control de Confianza es el órgano encargado de expedir el certificado que acredita que una persona es apta para ingresar o permanecer en las instituciones de seguridad pública.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+El mismo estará a cargo de la Secretaría de Seguridad Pública, y le competerá la evaluación y control de confianza de las Instituciones de Procuración de Justicia y de las Instituciones policiales del Estado.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 166.
 
-los certificados que emita los Centros de Evaluación y Control de Confianza de las Instituciones de Seguridad Pública o Instituciones Privadas, sólo tendrán validez si el Centro emisor cuenta con la acreditación vigente del Centro Nacional de Certificación y Acreditación, en cuanto a sus procesos y su personal, durante la vigencia que establezca el Reglamento que emita el Ejecutivo Federal.
+Los certificados que emita los Centros de Evaluación y Control de Confianza de las Instituciones de Seguridad Pública o Instituciones Privadas, sólo tendrán validez si el Centro emisor cuenta con la acreditación vigente del Centro Nacional de Certificación y Acreditación, en cuanto a sus procesos y su personal, durante la vigencia que establezca el Reglamento que emita el Ejecutivo Federal.
 
 Cuando en los procesos de certificación a cargo del Centro Estatal de Acreditación y Control de Confianza de las instituciones de seguridad pública intervengan instituciones privadas, éstas deberán contar con la acreditación vigente del Centro Nacional de Certificación y Acreditación. En caso contrario, el proceso carecerá de validez.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+
+La no obtención de dichos certificados será causa suficiente para que el respectivo Consejo de Honor y Justicia proceda a la destitución.
 
 > <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -2822,3 +3008,45 @@ Artículo Quinto.- El Sistema Procesal Penal Acusatorio se adopta el Sistema Int
 2.- Código Penal para el Estado Libre y Soberano de Durango aprobado mediante el Decreto 284 del 11 de junio de 2009, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Nº 48 de fecha 14 de Junio de 2009 y sus reformas posteriores; y
 
 3.- Código Procesal Penal aprobado mediante el Decreto N° 232 del 4 de diciembre de 2008, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, N° 11 de fecha 5 de diciembre de 2009 y sus reformas posteriores.
+
+P.O. 3 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, salvo lo previsto en el artículo transitorio segundo.
+
+SEGUNDO.- Las reformas a la Ley Orgánica de la Procuraduría General de Justicia del Estado de Durango, entrarán en vigor el mismo día en que entren en vigor las reformas a la Constitución Política del Estado Libre y Soberano de Durango, efectuadas mediante decreto No. 554.
+
+Los acuerdos, circulares y demás disposiciones administrativas dictadas por el entonces Procurador General de Justicia, con fundamento en las Leyes Orgánicas de dicha Institución vigentes con anterioridad a las reformas previstas en este Decreto relativas a la Constitución Política del Estado Libre y Soberano y a la creación de la Ley Orgánica de la Fiscalía General del Estado, continuarán en vigor en lo que no se oponga a las mismas hasta que se dicten las normas administrativas que correspondan y que las deroguen o abroguen expresamente. Cualquier mención que dichas disposiciones u otras legales, reglamentarias o administrativas hagan de la Procuraduría General de Justicia del Estado se entenderán hechas a la Fiscalía General del Estado, y cualquier mención que se haga al Procurador General de Justicia del Estado se entenderá hecha al Fiscal General, a partir de la vigencia de las reformas en cita.
+
+TERCERO.- Se expedirán los reglamentos, acuerdos, circulares y demás disposiciones administrativas a que se hace referencia en el presente, en un plazo que no exceda de noventa días hábiles a partir de su entrada en vigor.
+
+CUARTO.- El Titular del Ejecutivo proveerá lo necesario para que a la entrada en vigor de las reformas constitucionales y legales la Fiscalía General, cuente con los recursos humanos, materiales y financieros necesarios para el desempeño de su función. Los recursos de la Procuraduría General de Justicia del Estado quedarán en la Fiscalía General.
+
+La Secretaría de Finanzas del Estado deberá velar por proporcionar los recursos necesarios para el cumplimiento del presente Decreto y, en su caso, proponer al Gobernador la ampliación de los presupuestos respectivos cuando ello sea posible.
+
+QUINTO.- En un plazo que no exceda de diez días hábiles a partir de la aprobación del presente, el Titular del Poder Ejecutivo, dispondrá la integración de una "Comisión de Transición", que se encargará de las gestiones necesarias para que se efectúen en tiempo y forma la transferencia de los recursos humanos, financieros y materiales, necesarios para el cumplimiento de las obligaciones contenidas en el presente decreto.
+
+Dicha comisión, será el vínculo con las Cámaras del Congreso de la Unión y con las instancias y dependencias del Poder Ejecutivo Federal que se requieran para gestionar que se destinen al Estado de Durango, las partidas presupuestales necesarias para el objeto referido en el párrafo que antecede.
+
+Asimismo, dicha comisión realizará las gestiones necesarias para que se reasigne el presupuesto establecido para el funcionamiento de la Procuraduría General de Justicia del Estado a la Fiscalía General, para el ejercicio Fiscal de 2010.
+
+SEXTO.- A más tardar en el plazo de treinta días deberán transferirse los recursos humanos, financieros y materiales de la Agencia Estatal de Investigación a la Policía Estatal dependiente de la Secretaría de Seguridad Pública del Estado. En ese período deberá nombrarse en términos de lo previsto en este decreto que reforma la Ley de Seguridad Pública del Estado al Comisario Jefe de Investigación de los Delitos.
+
+SÉPTIMO.- A partir de la entrada en vigor de las reformas a la Constitución Política del Estado Libre y Soberano de Durango, y de la Ley Orgánica de la Fiscalía General del Estado, toda mención de cualquier disposición legal o reglamentaria, hecha a la Procuraduría General de Justicia del Estado se entenderá hecha a la Fiscalía General.
+
+OCTAVO.- Los agentes del ministerio público de la Procuraduría General de Justicia del Estado quedarán a partir de la entrada en vigor de las reformas a la Constitución Política del Estado de Durango y de la Ley Orgánica de la Fiscalía General del Estado, adscritos a la Fiscalía General, y sus actos como autoridad o como parte en los procesos penales seguirán siendo válidos para todos los efectos legales. No requerirán nuevo nombramiento los agentes del ministerio público que lo hayan obtenido por servidores públicos de la Procuraduría General de Justicia del Estado.
+
+La entrada de las reformas mencionadas en este artículo no afectará de ninguna forma la tramitación de las averiguaciones previas, investigaciones o procesos penales iniciados antes de su vigencia, y los agentes del ministerio público seguirán obligados a dar continuidad a los mismos.
+
+NOVENO.- La Dirección General de la Policía Estatal dependiente de la Secretaría de Seguridad Pública se convierte en la Comisaría General de la Policía Estatal con todos sus recursos humanos, financieros y materiales, sin perjuicio de ampliarlos en términos de las disposiciones presupuestales aplicables.
+
+DÉCIMO.- Las personas físicas o morales que cuenten con permiso de autoridades competentes para la prestación de servicios de seguridad privada seguirán operando con base en el mismo, única y exclusivamente por el tiempo concedido en dicho permiso. Sin embargo, en el caso de permisos municipales, en el plazo de seis meses a partir del día siguiente a la publicación de este Decreto, deberán acudir a la Secretaría de Seguridad Pública para homologar su permiso municipal, homologación que será inmediata única y exclusivamente por el tiempo de vigencia del permiso aprobado, y para su modificación o ampliación, deberá cumplir los requisitos que para tal efecto establezca el Reglamento de Servicios de Seguridad Privada que deberá emitir el Gobernador en el plazo de tres meses contados a partir de la publicación de este Decreto.
+
+DÉCIMO PRIMERO.- La Secretaría de Seguridad Pública del Estado asumirá todos los derechos y obligaciones que hasta ahora correspondían a la Procuraduría General de Justicia, respecto a las áreas comprendidas dentro de la Agencia Estatal de Investigación.
+
+DÉCIMO SEGUNDO.- El personal que actualmente labora para la Agencia Estatal de Investigación, se transferirán a la Secretaría de Seguridad Púbica del Estado, respetando todos sus derechos laborales.
+
+DÉCIMO TERCERO.- Se autoriza al Secretario de Seguridad Pública para en los términos del artículo 32 del artículo primero del presente decreto, brinde protección a los servidores públicos siguientes: Gobernador del Estado, Secretario General de Gobierno, Procurador General del Estado, Sub Procurador General, Sub Procurador de Procedimientos Penales, Sub Procurador de Control Interno Análisis y Evaluación, Sub Procurador de Protección a los Derechos Humanos y Atención a las Víctimas del Delito, Sub Procurador de la Zona 1, Sub Procurador de. la Zona 2, Secretario de Seguridad Pública, Subsecretario Operativo de Seguridad, Subsecretario de Participación Ciudadana, Prevención y Reinserción Social, Titular de la Dirección de la Policía Estatal.
+
+DÉCIMO CUARTO.- En la readscripción de los empleados y trabajadores de la Procuraduría General de Justicia del Estado a la Fiscalía General, se respetarán sus derechos adquiridos.
+
+DÉCIMO QUINTO.- El Secretario de Seguridad Pública, proveerá lo necesario para la conformación del Centro Estatal de Evaluación y Control de Confianza, en los términos del artículo 165 del artículo primero de éste decreto en un plazo que no exceda de treinta días hábiles a partir de la entrada en vigor.
