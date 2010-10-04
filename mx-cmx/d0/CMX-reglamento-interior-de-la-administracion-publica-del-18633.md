@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-09-29"
+last_updated: "2010-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -7740,7 +7740,7 @@ XVII. Fungir como Unidad de Firma Electrónica de la Administración Pública de
 
 > <small>(REFORMADA, 29 DE SEPTIEMBRE DE 2010)</small>
 
-XVIII. Establecer la coordinación y gestiones necesarias para impulsar la disponibilidad de los servicios de certificación electrónica;
+XVIII. Establecer la coordinación y gestiones necesarias para impulsar la disponibilidad de los servicios de certificación electrónica.
 
 > <small>(ADICIONADA, 29 DE SEPTIEMBRE DE 2010)</small>
 
@@ -13442,29 +13442,31 @@ XI. Efectuar las pruebas requeridas para poner en servicio las ampliaciones de l
 
 XII. Las demás que le atribuyan expresamente la normativa vigente.
 
-(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2009) (REUBICADO, G.O. 16 DE JULIO DE 2009)
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 206.
 
-Para el despacho de los asuntos que competan al Órgano Desconcentrado Proyecto Metro del Distrito Federal se le adscriben:
+Para el despacho de los asuntos que competan al Órgano Desconcentrado Proyecto Metro del Distrito Federal, se le adscriben:
 
-I. Dirección de Administración de Contratos;
+1. Dirección Ejecutiva de Operación;
 
-II. Dirección de Diseño de Obras Civiles;
+1.1. Dirección de Construcción de Obras Civiles;
 
-III. Dirección de Diseño de Instalaciones Electromecánicas;
+1.2. Dirección de Construcción de Instalaciones Electromecánicas;
 
-IV. Dirección de Construcción de Obras Civiles;
+1.3. Dirección de Obras Inducidas;
 
-V. Dirección de Construcción de Instalaciones Electromecánicas;
+2. Dirección de Administración de Contratos;
 
-VI. Dirección de Obras Inducidas; y
+3. Dirección de Diseño de Obras Civiles;
 
-VII. Las demás que requieran, en atención a la suficiencia presupuestal, y que se señalen en el dictamen de su estructura.
+4. Dirección de Diseño de Instalaciones Electromecánicas;
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2009)</small>
+5. Dirección Jurídica; y
 
-Las atribuciones que les correspondan a cada unidad administrativa se establecerán en el Manual Administrativo correspondiente.
+6. Las demás que requiera para el cumplimiento de su objeto, en atención a la suficiencia presupuestal y a la estructura autorizada por la Contraloría General del Distrito Federal.
+
+Las atribuciones que corresponden a cada unidad administrativa y unidades administrativas de apoyo técnico operativo, se establecerán en el Manual Administrativo correspondiente.
 
 (REFORMADO, G.O. 9 DE JUNIO DE 2009) (REUBICADO, G.O. 16 DE JULIO DE 2009)
 
@@ -14225,3 +14227,11 @@ G.O. 29 DE SEPTIEMBRE DE 2010.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 4 DE OCTUBRE DE 2010.
+
+PRIMERO. - El Proyecto Metro del Distrito Federal deberá actualizar su Manual Administrativo a las modificaciones del presente Reglamento.
+
+SEGUNDO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. - El presente Decreto entrará en vigor el día de su publicación.
