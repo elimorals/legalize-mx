@@ -4,7 +4,7 @@ identifier: "HID-ley-del-sistema-de-transporte-para-el-estado-de-hidalgo-22011"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-06"
-last_updated: "2004-12-31"
+last_updated: "2010-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2010.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 6 de agosto de 2001.
 
@@ -141,9 +141,9 @@ Corresponde al Ejecutivo Estatal, sin perjuicio de las facultades otorgadas a ot
 
 I. Planear, formular y conducir las políticas y programas del servicio de transporte estatal y sus servicios auxiliares y conexos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2010)</small>
 
-II. Otorgar, expedir, autorizar, revocar, cancelar, normar y regular las concesiones y permisos a que se refiere esta Ley, por sí o a través del Secretario de Gobierno y del Secretario de Finanzas y Administración, quienes ejercerán dichas facultades, de manera mancomunada; vigilar su cumplimiento y resolver sobre su conclusión;
+II. Otorgar, expedir, autorizar, revocar, cancelar, normar y regular las concesiones y permisos a que se refiere esta Ley, por sí o a través de la Secretaría de Gobierno y de la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos, que ejercerán dichas facultades de manera mancomunada; vigilar su cumplimiento y resolver sobre su conclusión.
 
 III. Establecer las bases generales de regulación tarifaria y
 
@@ -205,7 +205,7 @@ VI. Proponer a la Junta de Gobierno, la celebración de Convenios con los tres n
 
 VII. Promover ante el Gobernador del Estado las reformas, adiciones y derogaciones a las leyes de la materia; así como las que estén encaminadas a la homologación de leyes y reglamentos con la Legislación Federal, en materia de transporte, servicios auxiliares y conexos;
 
-VIII. Expedir las ordenes de pago respecto de los impuestos, derechos, productos y aprovechamientos generados por el sector transporte, atendiendo a las disposiciones de la Ley de la materia;
+VIII. Expedir las órdenes de pago respecto de los impuestos, derechos, productos y aprovechamientos generados por el sector transporte, atendiendo a las disposiciones de la Ley de la materia;
 
 IX. Ejercer, en las materias de su competencia y de conformidad con las leyes correspondientes, las atribuciones y funciones que le delegue el Gobernador del Estado;
 
@@ -227,17 +227,17 @@ XVII. Vigilar la prestación y operación del servicio de transporte y de los se
 
 XVIII. Diseñar programas de seguridad y prevención de accidentes en carreteras y vialidades dirigidos a operadores, concesionarios y usuarios, coadyuvando en las acciones que lleven a cabo los tres niveles de Gobierno;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2010)</small>
 
-XIX. Coordinarse con la Secretaría de Finanzas y Administración del Ejecutivo del Estado, para expedir las autorizaciones para el canje de placas;
+XIX. Coordinarse con la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos del Ejecutivo del Estado, para expedir las autorizaciones para el canje de placas;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2004)</small>
 
 XX. De conformidad con las Leyes de la materia, establecer mecanismos de coordinación con los Municipios, a efecto de que éstos colaboren en la planeación del Sistema de Transporte;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2010)</small>
 
-XXI. Otorgar por conducto del Secretario de Gobierno y del Secretario de Finanzas y Administración, concesiones y permisos materia de esta Ley, e (sic) términos que para tales efectos se establecen en la misma; prefiriendo, en igualdad de condiciones, a los solicitantes que ofrezcan y garanticen el mejor servicio al público usuario, tomando en cuenta la calidad del equipo e instalaciones de servicios auxiliares y conexos.
+XXI. Otorgar por conducto de la Secretaría de Gobierno y de la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos, concesiones y permisos, en términos de esta Ley; prefiriendo, en igualdad de condiciones, a los solicitantes que ofrezcan y garanticen el mejor servicio al público usuario, tomando en cuenta la calidad del equipo e instalaciones de servicios auxiliares y conexos;
 
 XXII. Autorizar la renovación de las concesiones y permisos;
 
@@ -287,7 +287,9 @@ V. El Secretario de Turismo, como Vocal;
 
 VI. El Secretario de Desarrollo Social, como Vocal;
 
-VII. El Secretario de Finanzas y Administración, como Vocal;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2010)</small>
+
+VII. El Secretario de Finanzas, como vocal;
 
 VIII. El Secretario Técnico, como Vocal;
 
@@ -545,11 +547,11 @@ No será permitida la prestación del servicio de transporte, en vehículos que 
 
 La tarjeta de circulación de los vehículos del servicio de transporte tendrán insertas además de las especificaciones que determine la Norma Oficial Mexicana, las que proponga el Instituto.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 31.
 
-Las placas de circulación de los vehículos del servicio de transporte, contarán con características y especificaciones técnicas que al efecto determinen la Secretaría de Finanzas y Administración conjuntamente con el Instituto, en apego a las disposiciones de la Norma Oficial Mexicana.
+Las placas de circulación de los vehículos del servicio de transporte, contarán con características y especificaciones técnicas, que al efecto determinen la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos, conjuntamente con el Instituto y en apego a las disposiciones de la Norma Oficial Mexicana.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -557,11 +559,11 @@ Las placas de circulación de los vehículos del servicio de transporte, contar�
 
 Los engomados contendrán los mismos datos de las placas y éstos deberán coincidir con los de la tarjeta de circulación, sus especificaciones deberán ser de conformidad con la Norma Oficial Mexicana.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 33.
 
-Si extraviasen o les fueren robadas las placas, el engomado o la tarjeta de circulación, los concesionarios o permisionarios del servicio de transporte, deberán dar aviso y solicitar al Instituto, la autorización para la reposición correspondiente ante la Secretaría de Finanzas; para ello será indispensable que cumplan con los siguientes requisitos:
+Si extraviasen o les fueren robadas las placas, el engomado o la tarjeta de circulación, los concesionarios o permisionarios del servicio de transporte, deberán dar aviso y solicitar al Instituto, la autorización para la reposición correspondiente ante la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos; para ello será indispensable que cumplan con los siguientes requisitos:
 
 I. Solicitud por escrito en el formato respectivo;
 
@@ -615,13 +617,11 @@ Cualquier prestador del servicio de transporte que sea sorprendido utilizando la
 
 ### CAPÍTULO V. DEL SERVICIO DE TRANSPORTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 39.
 
-Es facultad del Gobernador del Estado otorgar concesiones para la prestación del servicio público de transporte y los servicios auxiliares, quien la ejercerá por conducto del Instituto Estatal del Transporte, a través de los Secretarios de Gobierno y de Finanzas y Administración, en forma mancomunada.
-
-Las concesiones se concederán a las personas que cumplan previamente con las formalidades y requisitos establecidos en este ordenamiento y demás disposiciones legales aplicables.
+Es facultad del Gobernador del Estado otorgar concesiones para la prestación del servicio público de transporte y los servicios auxiliares, quien la ejercerá por conducto del Instituto Estatal del Transporte, a través de las Secretarías de Gobierno y de Obras Públicas, Comunicaciones, Transportes y Asentamientos, en forma mancomunada.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -629,13 +629,11 @@ Las concesiones se concederán a las personas que cumplan previamente con las fo
 
 Las concesiones y permisos facultan a su Titular, para utilizar las vías públicas de Jurisdicción Estatal, imponiéndole condiciones especificas a la modalidad del servicio de que se trate y se supeditan a los supuestos de cancelación o modificación que pueda ejercer el Instituto en los casos señalados en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 41.
 
-Es facultad del Gobernador del Estado otorgar permisos materia de esta Ley, quien la ejercerá por conducto del Instituto Estatal del Transporte, a través de los Secretario (sic) de Gobierno y de Finanzas y Administración, en forma mancomunada.
-
-Los permisos se otorgarán a las personas que cumplan previamente con las formalidades y requisitos establecidos en este ordenamiento y demás disposiciones legales aplicables.
+Es facultad del Gobernador del Estado otorgar permisos materia de esta Ley, quien la ejercerá por conducto del Instituto Estatal del Transporte, a través de las Secretarías de Gobierno y de Obras Públicas, Comunicaciones, Transportes y Asentamientos, en forma mancomunada.
 
 ###### Artículo 42.
 
@@ -1073,9 +1071,11 @@ El solicitante, dentro de los ocho días siguientes a la expedición de la orden
 
 Toda la documentación con la que se pretenda acreditar los derechos inherentes al vehículo con el cual se prestará el servicio, deberá estar a nombre del solicitante.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 80.
 
-Cuando se satisfagan los requisitos anteriores y se cumpla en los plazos establecidos, se entregará el permiso, la cédula y las placas respectivas al titular, lo que se hará del conocimiento oficial de la Dirección General de Seguridad Pública y Tránsito, de la Secretaría de Finanzas y de la Contraloría del Estado.
+Cuando se satisfagan los requisitos anteriores, se cumpla en los plazos establecidos, se entregará el permiso, la cédula y las placas respectivas, al titular, lo que se hará del conocimiento oficial de la Coordinación de Seguridad Estatal, de la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos y de la Secretaría de Contraloría del Estado.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -2014,3 +2014,15 @@ P.O. 31 DE DICIEMBRE DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los asuntos que por motivo de esta reforma deban pasar de una Dependencia a otra, permanecerán en el último trámite que hubieran alcanzado, hasta que las unidades administrativas que los tramitan se incorporen a la Dependencia que se haya señalado en esta Ley dentro de los noventa días siguientes a su publicación, a excepción de los trámites urgentes o sujetos a plazos improrrogables que deberán atenderse con la oportunidad que ameriten.
+
+CUARTO.- El Gobernador del Estado emitirá las reformas a los nuevos reglamentos interiores de las dependencias cuyas atribuciones se han modificado, dentro de un plazo no mayor de ciento veinte días naturales posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+QUINTO.- En tanto se modifiquen los nuevos ordenamientos que regulan los aspectos sustantivos y adjetivos de este Decreto, seguirán aplicándose, en todo lo que no se oponga a este Decreto, las disposiciones legales que regulaban los actos previstos en la Ley que se modifica. Lo anterior también se aplica en lo referente a los reglamentos interiores de las dependencias y al Estatuto Orgánico del Instituto Estatal del Transporte.
