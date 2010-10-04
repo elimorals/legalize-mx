@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-legislativo-del-estado-de-yucatan-10847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-24"
-last_updated: "2009-12-15"
+last_updated: "2010-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE YUCATAN; Y SE EXPIDE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN PUBLICADA EN EL D.O. EL 4 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de febrero de 1988.
 
@@ -1486,3 +1488,25 @@ Se derogan las disposiciones relativas a la creación y atribuciones de la Comis
 ###### ARTÍCULO CUARTO.
 
 Los asuntos turnados por la LVIII Legislatura a la Comisión Especial Permanente de Equidad de Género, creada mediante Acuerdo del Poder Legislativo, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 6 de julio del año 2007; a partir de la entrada en vigor de este Decreto, se considerarán turnados a la Comisión Permanente de Equidad y Género, creada por este Decreto.
+
+D.O. 4 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los 60 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Legislativo del Estado de Yucatán, contenida en el Decreto número 6, publicada en el Diario Oficial del Gobierno del Estado el 24 de febrero del año 1988.
+
+###### ARTÍCULO TERCERO.
+
+Cualquier referencia que en otras disposiciones jurídicas y administrativas se realicen de las siguientes denominaciones, se entenderán como:
+
+I.- Gran Comisión: Junta de Gobierno y Coordinación Política.
+
+II.- Comisión Permanente de Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda y Patrimonio Estatal y Municipal en relación a Cuenta Pública: Vigilancia de la Cuenta Pública y Transparencia.
+
+III.- Oficialía Mayor del Congreso: Secretaría General del Poder Legislativo.
+
+IV.- Tesorería del Congreso: Dirección General de Administración y Finanzas.
