@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-publica-63641
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-16"
-last_updated: "2010-01-26"
+last_updated: "2010-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63641&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-10-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 16 de octubre de 2008.
 
@@ -90,13 +90,33 @@ a) Consejo de Honor y Justicia.
 
 I. Unidades Administrativas Policiales:
 
-a) Dirección General de la Policía de Proximidad.
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-b) Dirección General de la Policía Metropolitana.
+a) Dirección General de Policía de Proximidad “Zona Norte”;
 
-c) Dirección General de Apoyo y Control Operativo.
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-d) Dirección Ejecutiva de Logística y Seguimiento Operativo.
+b) Dirección General de Policía de Proximidad “Zona Centro”;
+
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+c) Dirección General de Policía de Proximidad “Zona Sur”;
+
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+d) Dirección General de Policía de Proximidad “Zona Oriente”;
+
+> <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+e) Dirección General de Policía de Proximidad “Zona Poniente”;
+
+> <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+f) Dirección General de la Policía Metropolitana, y
+
+> <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+g) Dirección Ejecutiva de Logística y Seguimiento Operativo.
 
 3. Subsecretaría de Control de Tránsito:
 
@@ -106,7 +126,9 @@ a) Dirección General de Operación de Tránsito.
 
 b) Dirección General de Ingeniería de Tránsito.
 
-c) Dirección Ejecutiva de Aplicación de Normatividad de Tránsito.
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+c) Dirección General de Aplicación de Normatividad de Tránsito.
 
 4. Subsecretaría de Participación Ciudadana y Prevención del Delito:
 
@@ -144,19 +166,23 @@ I. Unidades Administrativas:
 
 a) Dirección General de Tecnologías de Información y Comunicaciones.
 
-b) Dirección General de Inteligencia Policial.
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+b) Dirección General de Seguridad Privada y Procedimientos Sistemáticos de Operación;
 
-c) Dirección General de Seguridad Privada y Procedimientos Sistemáticos de Operación Policial.
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+c) Dirección Ejecutiva de Análisis e Inteligencia Policial.
 
 d) (DEROGADO, G.O. 28 DE NOVIEMBRE DE 2008)
 
 7. Oficialía Mayor:
 
-II. Unidades Administrativas:
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-a) Dirección General de Recursos Humanos.
+I. Unidades Administrativas:
+
+a) Dirección General de Administración de Personal.
 
 b) Dirección General de Recursos Materiales.
 
@@ -164,9 +190,13 @@ c) Dirección General de Mantenimiento y Servicios.
 
 d) Dirección General de Recursos Financieros.
 
-e) Dirección Ejecutiva de Transparencia y Rendición de Cuentas.
+e) Dirección Ejecutiva de Transparencia.
 
-f) Dirección Ejecutiva de Desarrollo Organizacional y Administrativo.
+f) Dirección Ejecutiva de Rendición de Cuentas.
+
+g) Dirección Ejecutiva de Organización y Administración Territorial.
+
+II. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 
 8. Jefatura del Estado Mayor Policial:
 
@@ -176,9 +206,13 @@ a) Dirección General de Enlace Institucional.
 
 II. Unidad Administrativa Policial:
 
-Dirección General de Planes y Organización Táctica.
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-Dirección Ejecutiva de Helicópteros.
+a) Dirección General de Investigación Policial Preventiva, Planes y Organización Táctica.
+
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+b) Dirección Ejecutiva de Helicópteros.
 
 ###### Artículo 4.
 
@@ -314,9 +348,19 @@ VIII. Ordenar que los elementos policiales bajo su mando, cumplan con los progra
 
 IX. Crear, aplicar y evaluar planes operativos y programas encaminados al rescate del Centro Histórico de la Ciudad de México, promoviendo la seguridad y el orden público;
 
-X. Vigilar la aplicación de la normatividad y procedimientos policiales en el ámbito de su competencia; y
+X. Vigilar la aplicación de la normatividad y procedimientos policiales en el ámbito de su competencia; y (sic)
 
-XI. Las demás que le atribuya la normativa vigente.
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XI. Vigilar y supervisar la coordinación de las Direcciones Generales de la Policía de Proximidad con los Centros de Control y Comando (C2) de su adscripción, del Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XII. Supervisar el cumplimiento de la actuación policial de los elementos operativos asignados al cumplimiento de funciones policiales en el Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XIII. Las demás que le atribuya la normativa vigente.
 
 ###### Artículo 11.
 
@@ -466,9 +510,9 @@ XIII. Expedir los lineamientos para la clasificación, custodia, utilización y 
 
 XIV. Establecer y aplicar mecanismos de coordinación para la planeación de proyectos estratégicos tecnológicos con áreas operativas y administrativas de la Secretaría, de las policías complementarias e instancias correspondientes del Gobierno del Distrito Federal, del Gobierno Federal y de las Entidades Federativas;
 
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-XV. Establecer planes y estrategias para la investigación en campo de los factores criminógenos que se presentan en el Distrito Federal, la ubicación de las bandas delictivas, su estructura y modus operandi que permitan la implementación de operativos para su desarticulación;
+XV. Coordinar, dirigir, supervisar y evaluar el desarrollo de las funciones a cargo de la Secretaría en las instalaciones del Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México, correspondientes a comunicación y cómputo, acopio de información, integración, resguardo, inteligencia, intercambio y certificación de información obtenida a través del Uso de Tecnología para la Seguridad Pública en el Distrito Federal.
 
 > <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
 
@@ -534,9 +578,23 @@ VIII. Coordinar y supervisar el apoyo durante la ejecución de las diligencias j
 
 IX. Planear y coordinar los dispositivos aéreos en apoyo a las acciones de seguridad y vialidad, así como los servicios de ambulancia aérea para el traslado de personas lesionadas;
 
-X. Evaluar las estrategias de las operaciones de vigilancia y seguridad aérea, estableciendo las directrices correspondientes para su aplicación; y
+X. Evaluar las estrategias de las operaciones de vigilancia y seguridad aérea, estableciendo las directrices correspondientes para su aplicación; y (sic)
 
-XI. Las demás que le atribuya la normativa vigente.
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XI. Establecer mecanismos de coordinación con el Estado Mayor Presidencial, así como con las autoridades se seguridad pública Federal, Estatales y Municipales para la planeación y operación de programas, acciones y operativos conjuntos;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XII. Establecer planes y estrategias para la investigación en campo de los factores criminógenos que se presentan en el Distrito Federal, la ubicación de las bandas delictivas, su estructura y modus operandi que permitan la implementación de operativos para su desarticulación;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XIII. Determinar el número de elementos y equipo que deberá asignarse en espectáculos públicos, masivos y deportivos, que afecten funciones de control, supervisión y regulación de tránsito de personas y de vehículos en la vía pública, para efectos de lo dispuesto en el Código Fiscal del Distrito Federal, y
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XIV. Las demás que le atribuya la normativa vigente.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LOS TITULARES DE LAS DIRECCIONES GENERALES, COORDINACIONES GENERALES Y DIRECCIONES EJECUTIVAS
 
@@ -634,7 +692,9 @@ XII. Presentar ante el Ministerio Público las denuncias respectivas por actos p
 
 XIII. Ejecutar y llevar un registro de las órdenes de arresto dictadas por las autoridades jurisdiccionales y administrativas;
 
-XIV. Representar a la Secretaría, al Secretario, Subsecretarios, Oficial Mayor y Jefe del Estado Mayor Policial, brindando la asistencia técnica en los juicios o procedimientos en los que intervengan con motivo del ejercicio de sus atribuciones y facultades;
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XIV. Representar a la Secretaría, al Secretario, Subsecretarios, Oficial Mayor, miembros del Consejo de Honor y Justicia, Dirección General del Consejo de Honor y Justicia, y Jefe del Estado Mayor Policial, brindando la asistencia técnica en los juicios o procedimientos en los que intervengan con motivo de sus atribuciones y facultades;
 
 XV. Suplir al Secretario y suscribir en ausencia del mismo, los documentos necesarios, en los casos a que se refieren las fracciones VII y XIV de este artículo, así como en los asuntos que sean de su competencia; y (sic)
 
@@ -734,23 +794,47 @@ VIII. Apoyar a las instancias correspondientes de la Secretaría y a las organiz
 
 IX. Las demás que le atribuya la normativa vigente.
 
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 22.
 
-Son atribuciones de la Dirección General de la Policía de Proximidad:
+Son atribuciones de las Direcciones Generales de la Policía de Proximidad: “Zona Norte”, “Zona Centro”, “Zona Sur”, “Zona Oriente” y “Zona Poniente” en el ámbito del territorio de adscripción las siguientes:
 
-I. Ejecutar los programas de actuación operativa de las unidades de la policía de proximidad, en atención a la incidencia delictiva registrada en los sectores a cargo de las mismas;
+I. Dirigir la implementación de los planes, programas operativos y servicios de seguridad y orden públicos en su área de atención;
 
-II. Procurar que los elementos a su cargo mantengan de manera permanente presencia impecable y la imagen institucional, en el ejercicio de sus funciones;
+II. Planear y diseñar programas operativos especiales ordenados por el Secretario, con base en la información proporcionada por la Subsecretaría de Información e Inteligencia Policial y el Estado Mayor Policial;
 
-III. Ordenar, cuando sea solicitada su colaboración, la participación de elementos asignados a las unidades de policía de proximidad en operativos y acciones especiales en zonas de la Ciudad distintas del sector al que se encuentren adscritos;
+III. Establecer los enlaces de coordinación y comunicación con los órganos político administrativo para la prestación de los servicios de seguridad y orden públicos, conforme a las necesidades y características propias de la demarcación;
 
-IV. Coordinar la participación de las unidades a su cargo para la atención de las resoluciones de autoridad competente que requieran el auxilio de la fuerza pública;
+IV. Coordinar sus funciones y la operación de sus regiones y sectores con el Centro de Control y Comando (C2) de su adscripción del Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México;
 
-V. Promover la vinculación de la Policía con la ciudadanía a través de reuniones, asambleas y visitas domiciliarias que fortalezcan la cercanía con los grupos prioritarios;
+V. Garantizar la aplicación en las técnicas y tácticas en la implementación de los dispositivos de seguridad, para que los mismos se realicen en apego a ordenamientos y el respeto a los derechos humanos;
 
-VI. Vigilar, a través de las Direcciones Ejecutivas Regionales, que se cumpla la cadena de mando y el principio de autoridad correspondiente para el cumplimiento y obtención de resultados en materia de seguridad; y
+VI. Determinar las acciones necesarias para garantizar el cumplimiento de las funciones de seguridad asignadas a las Direcciones Regionales y las Unidades de Protección Ciudadana bajo su mando;
 
-VII. Las demás que le atribuya la normativa vigente.
+VII. Asegurar el estado de fuerza necesario en la implementación de los operativos y servicio de seguridad encomendados;
+
+VIII. Asegurar el desarrollo de los procesos de supervisión, investigación y revisión que realice la Dirección General de Inspección Policial, a efecto de supervisar la actuación policial y verificar el cumplimiento de las obligaciones de los elementos de la policía;
+
+IX. Vigilar el cumplimiento de las obligaciones de los elementos de la policía;
+
+X. Supervisar la aplicación de los mecanismos de control establecidos por la Secretaría para las plantillas de personal y sus incidencias, los suministros de gasolina y alimentación, equipamiento de seguridad, armamento, vehículos e instalaciones asignados a las unidades policiales que integran la Región asignada;
+
+XI. Informar a la Dirección General de Inspección Policial y a la Contraloría Interna en la Secretaría de Seguridad Pública, según sea el caso, aquellos movimientos o irregularidades que se detecten durante la operación de los recursos humanos y materiales de los Sectores;
+
+XII. Vigilar el cumplimiento de las resoluciones del Consejo de Honor y Justicia respecto del Régimen disciplinario al personal policial adscrito y coadyuvar en los procedimientos de la Dirección General de Inspección Policial;
+
+XIII. Consolidar los informes de los servicios y dispositivos desarrollados en su área geográfica para orientar la toma de decisiones;
+
+XIV. Mantener informado al Subsecretario de Operación Policial sobre las acciones realizadas y los resultados obtenidos, así como al Secretario de los asuntos relevantes en la zona de su adscripción;
+
+XV. Ordenar, cuando sea solicitada su colaboración, la participación de elementos asignados a las unidades de policía de proximidad en operativos y acciones especiales en zonas de la Ciudad distintas del sector al que se encuentren adscritos;
+
+XVI. Coordinar la participación de las unidades a su cargo para la atención de las resoluciones de autoridad competente que requieran el auxilio de la fuerza pública;
+
+XVII. Promover la vinculación de la Policía con la ciudadanía a través de reuniones, asambleas y visitas domiciliarias que fortalezcan la cercanía con los grupos prioritarios, y
+
+XVIII. Las demás que les atribuye la normatividad vigente.
 
 ###### Artículo 23.
 
@@ -770,53 +854,7 @@ VI. Las demás que le atribuya la normativa vigente.
 
 ###### Artículo 24.
 
-Son atribuciones de la Dirección General de Apoyo y Control Operativo:
-
-I. Coordinar y evaluar a las Unidades de Acopio y Control y a las Unidades de Registro y Control de los sectores y agrupamientos de la Secretaria;
-
-II. Apoyar a los Directores Sectoriales y de los agrupamientos a realizar las labores de administración de recursos y personal que se deriven de la operación de la Secretaria;
-
-III. Establecer los mecanismos de control administrativo internos que permitan una correcta aplicación de los procedimientos de los sectores y agrupamientos;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Planear y diseñar programas operativos especiales con base en la información proporcionada por la Dirección General de Inteligencia Policial;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-V. Coordinar, a través de los mandos policiales, la ejecución de operativos especiales ordenados por el Secretario;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-VI. Establecer mecanismos de coordinación con autoridades de seguridad pública Federales, Estatales y Municipales para la planeación y operación de acciones y programas conjuntos;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-VII. Transmitir información de valor policial a la Subsecretaría de Información e Inteligencia Policial;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-VIII. Mantener informado al Subsecretario de Operación Policial sobre las acciones a realizar y los resultados obtenidos;
-
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-IX. Informar a la Dirección General de Inspección Policial y a Contraloría Interna, según sea el caso, aquellos movimientos o irregularidades que se detecten durante la operación de los recursos humanos y materiales de los Sectores;
-
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-X. Establecer coordinación con la Dirección General de Asuntos Jurídicos, para que intervenga en la presentación de denuncias, por daños, robo y/o extravío del armamento asignado a los servidores públicos de esta Secretaría;
-
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-XI. Coordinar y programar la solicitud, adquisición, ministración, almacenamiento, mantenimiento y control de armamento, municiones y equipo de seguridad;
-
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-XII. Gestionar ante la Secretaría de la Defensa Nacional, la actualización y revalidación de la Licencia Oficial Colectiva, para la portación de armas de fuego para el personal de esta Secretaría; y,
-
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-XIII. Las demás que le atribuya la normativa vigente.
+(DEROGADO, G.O. 4 DE OCTUBRE DE 2010)
 
 ###### Artículo 25.
 
@@ -830,9 +868,27 @@ III. Dirigir las acciones para la atención de requerimientos de autoridades jud
 
 IV. Atender las demandas ciudadanas captadas por la Cámara de Diputados, estableciendo el procedimiento sistemático con las áreas operativas para su pronta respuesta;
 
-V. Asegurar la administración y control de las boletas de remisión al Juez Cívico para su ministración a las Unidades Operativas Policiales; y
+V. Asegurar la administración y control de las boletas de remisión al Juez Cívico para su ministración a las Unidades Operativas Policiales; y (sic)
 
-VI. Las demás que le atribuya la normativa vigente.
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+VI. Coordinar, dirigir y supervisar la actuación del personal policial asignado al cumplimiento de funciones policiales en el Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+VII. Establecer la coordinación con la Dirección General de Asuntos Jurídicos, para que intervenga en la presentación de denuncias, por daños, robo y/o extravío del armamento asignado a los servidores públicos de esta Secretaría;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+VIII. Coordinar y programar la solicitud, adquisición, ministración, almacenamiento, mantenimiento y control de armamento, municiones y equipo de seguridad;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+IX. Gestionar ante la Secretaría de la Defensa Nacional, la actualización y revalidación de la Licencia Oficial Colectiva, para la portación de armas de fuego para el personal de esta Secretaría; y,
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+X. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 26.
 
@@ -850,9 +906,19 @@ V. Implementar las acciones de coordinación y comunicación con los Gobiernos F
 
 VI. Dirigir la implementación de los operativos de vialidad orientados a la prevención de accidentes;
 
-VII. Asegurar el suministro del equipamiento necesario para garantizar que los operativos de control de tránsito se realicen en óptimas condiciones; y
+VII. Asegurar el suministro del equipamiento necesario para garantizar que los operativos de control de tránsito se realicen en óptimas condiciones; y (sic)
 
-VIII. Las demás que le atribuya la normativa vigente.
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+VIII. Establecer los criterios para la formulación de los planes y programas para el control y registro de infracciones, operativos de grúas y administración de depósitos vehiculares;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+IX. Diseñar e implementar los operativos de grúas para el retiro y traslado de vehículos a los depósitos correspondientes, y
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+X. Las demás que le atribuya la normativa vigente.
 
 ###### Artículo 27.
 
@@ -884,17 +950,19 @@ X. Emitir la Autenticación de la información obtenida con el uso de equipos y 
 
 XI. Los demás que le atribuya la normativa vigente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 28.
 
-Son atribuciones de la Dirección Ejecutiva de Aplicación de Normatividad de Tránsito:
+Son atribuciones de la Dirección General de Aplicación de Normatividad de Tránsito:
 
-I. Establecer los criterios para la formulación de los planes y programas para el control y registro de infracciones, operativos de grúas y administración de depósitos vehiculares;
+I. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 
 II. Asegurar el funcionamiento de los depósitos vehiculares a través del establecimiento de normas y disposiciones que permita brindar un servicio eficiente a la ciudadanía;
 
 III. Dirigir el proceso de control, registro y resguardo de las infracciones levantadas a los automovilistas por violación a lo dispuesto en el reglamento de tránsito vigente;
 
-IV. Diseñar e implementar los operativos de grúas para el retiro y traslado de vehículos a los depósitos correspondientes;
+IV. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 
 V. Coordinar los procesos de recepción, custodia y liberación de los vehículos remitidos a los depósitos vehiculares;
 
@@ -904,9 +972,35 @@ VII. Establecer y supervisar la operación de los módulos de atención a infrac
 
 VIII. Vigilar que se respeten los límites de velocidad establecidos en las vialidades;
 
-IX. Formular y aplicar las normas y sistemas con que deberá operar el estacionamiento vehicular en la vía pública; y
+IX. Formular y aplicar las normas y sistemas con que deberá operar el estacionamiento vehicular en la vía pública; y (sic)
 
-X. Las demás que le atribuya la normativa vigente.
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+X. Coordinar la formulación, aplicación y actualización de los planes y programas de tránsito;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XI. Diseñar estrategias que permitan dar seguimiento a los planes y programas en materia de tránsito;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XII. Planear y evaluar los requerimientos y aplicación de los recursos destinados para las unidades administrativas que integran la Subsecretaría de Control de Tránsito;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XIII. Controlar el requerimiento y suministro de los recursos asignados para las Unidades Administrativas que integran la Subsecretaria de Control de Tránsito;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XIV. Vigilar y supervisar la aplicación de los mecanismos de control establecidos para la administración de recursos humanos, materiales y financieros de las Unidades Administrativas que integran la Subsecretaría de Control de Tránsito;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XV. Coordinar el diseño y la actualización de la base de datos de las Unidades Administrativas que integran la Subsecretaría de Control de Tránsito; y
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XVI. Las demás que le atribuya la norma vigente.
 
 ###### Artículo 29.
 
@@ -1222,57 +1316,31 @@ XXV. Asegurar la aplicación de las políticas de excelencia, eficacia y eficien
 
 XXVI. Las demás que le atribuya la normativa vigente.
 
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 39.
 
-Son atribuciones de la Dirección General de Inteligencia Policial:
+Son atribuciones de la Dirección Ejecutiva de Análisis e Inteligencia Policial las siguientes:
 
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+I. Obtener y procesar la información relativa a actividades delictivas y factores criminógenos derivados de la operación policial;
 
-I. Analizar la información relativa a los hechos delictivos y criminógenos en el Distrito Federal, estableciendo propuestas que permitan el abatimiento del fenómeno delictivo en sus diferentes formas de manifestación;
+II. Generar información estratégica que permita disminuir la incidencia delictiva;
 
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+III. Desarrollar esquemas de análisis y mecanismos de seguimiento a los delitos patrimoniales, contra las personas y la seguridad pública;
 
-II. Desarrollar esquemas de análisis y mecanismos para el seguimiento a delitos patrimoniales, contra las personas y en contra de la Seguridad Pública;
+IV. Establecer mecanismos de coordinación con instituciones de los Gobiernos Federal, Estatales, Municipales y del Distrito Federal así como con organizaciones civiles, orientados a la generación de análisis delictivo y criminógeno;
 
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+V. Realizar estudios que permitan la identificación de personas y grupos delictivos;
 
-III. Instrumentar estudios estratégicos orientados a la identificación de grupos delincuenciales en el Distrito Federal estableciendo propuestas y mecanismos para su desarticulación;
+VI. Administrar sistemas de inteligencia geoespacial que permitan ubicar e identificar el comportamiento de la incidencia delictiva y grupos delictivos;
 
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+VII. Las demás que le atribuya la normatividad vigente.
 
-IV. Evaluar el desempeño de las unidades administrativas policiales de la Secretaría, estableciendo las medidas y propuestas de mejora que permitan incrementar la eficiencia y eficacia de sus acciones de prevención del delito y de Seguridad Pública;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-V. Coordinar la vinculación de la Secretaría de Seguridad Pública con dependencias y organismos del Distrito Federal, así como con los gobiernos Federal, Estatales y Municipales y sus dependencias, en materia de intercambio de información para la seguridad pública y la prevención del delito;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-VI. Coordinar la vinculación de la Secretaría de Seguridad Pública con el Agente del Ministerio Público, en los casos que sea requerido el auxilio de la Dependencia en procesos de investigación criminal o derivados de averiguaciones previas en desarrollo;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-VII. Diseñar estrategias y operativos que permitan la verificación de información sobre fenómenos delictivos en el Distrito Federal, la identificación de los sujetos que los generan y las posibles alternativas para su desarticulación;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-VIII. Obtener información de campo relativa al comportamiento delictivo y los fenómenos criminógenos en el Distrito Federal para su procesamiento y análisis que permitan formular propuestas de atención, contención y abatimiento del delito;
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-IX. Realizar estudios de campo tendientes a identificar las bandas y organizaciones delictivas que operan en el Distrito Federal, sus estructuras, zonas de influencia, modus operandi, que permita el establecimiento de operativos para su desarticulación y la captura de sus integrantes; y
-
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
-
-X. Las demás que le atribuya la normatividad vigente.
-
-XI. (DEROGADA, G.O. 28 DE SEPTIEMBRE DE 2009)
-
-> <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 40.
 
-Son atribuciones de la Dirección General de Seguridad Privada y de Procedimientos Sistemáticos de Operación Policial, las siguientes:
+Son atribuciones de la Dirección General de Seguridad Privada y Procedimientos Sistemáticos de Operación, las siguientes:
 
 > <small>(REFORMADA, G.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -1300,23 +1368,41 @@ XI. Elaborar proyectos de creación, modificación y reorganización de los cuer
 
 XII. Elaborar estudios y proponer sistemas de supervisión y control de la actuación policial;
 
-XIII. Elaborar los proyectos de procedimientos sistemáticos de la operación policial;
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XIII. Elaborar los proyectos de procedimientos sistemáticos de operación;
 
 XIV. Dirigir y operar el sistema de control y seguimiento diario de la operación policial;
 
 XV. Dar seguimiento a los operativos policiales ordenados por la superioridad;
 
-XVI. Proporcionar la información estadística y de georeferencia a todas las unidades de operación policial en coordinación con la Dirección General de Tecnología de Información y Comunicaciones; y
+XVI. Proporcionar la información estadística y de georeferencia a todas las unidades de operación policial en coordinación con la Dirección General de Tecnología de Información y Comunicaciones; y (sic)
 
-XVII. Las demás que le atribuya la normatividad vigente.
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XVII. Establecer los criterios de coordinación del Sistema de Información Policial;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XVIII. Supervisar el desarrollo de los mecanismos de coordinación y enlace permanente entre las policías federales, estatales, municipales y del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XIX. Determinar los criterios para la elaboración de los programas de capacitación y especialización del personal administrativo y operativo, y
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XX. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 41.
 
 (DEROGADO, G.O. 26 DE ENERO DE 2010)
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 42.
 
-Son atribuciones de la Dirección General de Recursos Humanos:
+Son atribuciones de la Dirección General de Administración de Personal:
 
 I. Proponer normas para regular, controlar y evaluar la operación del Sistema de Administración y Desarrollo de Personal de la Secretaría;
 
@@ -1414,51 +1500,81 @@ VII. Integrar los informes del Avance Físico Financiero de la Secretaría y ela
 
 VIII. Determinar los procedimientos para el registro y seguimiento de los reportes de ingresos y egresos derivados de la captación de los ingresos de aplicación automática, en apego a las reglas generales que emita para su manejo la Secretaría de Finanzas del Gobierno del Distrito Federal;
 
-IX. Resguardar los documentos financieros comprobatorios generados en la operación de la Dirección General; y
+IX. Resguardar los documentos financieros comprobatorios generados en la operación de la Dirección General; y (sic)
 
-X. Las demás que le atribuya la normativa vigente.
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+X. Gestionar y suscribir aquellos documentos inherentes a la contratación y pago de servicios profesionales bajo el régimen de honorarios, llevando el registro y control de los formatos y demás documentación que con tal motivo deban rendirse y/o tramitarse ante otras unidades administrativas de la misma Secretaria o Dependencias de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XI. Las demás que le atribuya la normatividad vigente.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 46.
 
-Son atribuciones de la Dirección Ejecutiva de Transparencia y Rendición de Cuentas:
+Son atribuciones de la Dirección Ejecutiva de Transparencia:
 
 I. Asegurar la prerrogativa de toda persona para acceder a la información pública que detenta la Secretaría en los términos que establezca la normatividad vigente;
 
 II. Dirigir el trámite de atención a las solicitudes de información pública conforme a la Ley, los lineamientos de INFOMEX y demás disposiciones de la materia;
 
-III. Instrumentar mecanismos de asesoría y apoyo a los servidores públicos de la Secretaría, para el debido cumplimiento de las obligaciones que impone la Ley de Transparencia y demás disposiciones de la materia;
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-IV. Representar a la Secretaría en lo relativo a la transparencia y la rendición de cuentas;
+III. Instrumentar mecanismos de asesoría y apoyo a los servidores públicos de la Secretaría, para el debido cumplimiento de las obligaciones que impone la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás disposiciones de la materia;
 
-V. Elaborar programas y proyectos de formación de los servidores públicos de esta Secretaría, para generar capital humano capacitado en materia de transparencia, acceso a la información y temas afines;
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-VI. Diseñar, actualizar e instrumentar la metodología y los criterios que atiendan a la evaluación del cumplimiento de las obligaciones de transparencia y rendición de cuentas que realice el órgano garante de la Ley, así como otros órganos de control;
+IV. Representar a la Secretaría en lo relativo a la transparencia;
+
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+V. Elaborar proyectos y programas de formación de servidores públicos de esta Secretaría, para generar capital humano capacitado en materia de transparencia;
+
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+VI. Diseñar, actualizar e instrumentar la metodología y los criterios que atiendan a la evaluación del cumplimiento de las obligaciones en materia de transparencia que realice el órgano garante de la Ley;
 
 VII. Elaborar e instrumentar estrategias que promuevan la cultura de la Transparencia;
 
-VIII. Controlar e instrumentar mecanismos de conservación del acervo documental de la Secretaría;
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-IX. Dirigir el trámite de atención a las auditorias que realicen los órganos de supervisión y fiscalización; y (sic)
+VIII. Las demás que atribuya la normatividad vigente.
 
-> <small>(REFORMADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+IX. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 
-X. Coordinar, dirigir, supervisar, controlar, y evaluar a sus Jefaturas de Unidad Departamental de Unidades de Control Administrativo en las Regiones, Sectores, Agrupamientos, Tránsito y Unidades de Protección Ciudadana de la Secretaría, según corresponda, en la debida aplicación de las políticas, lineamientos y normatividad establecidas para la administración de los recursos humanos, materiales y financieros; lo anterior, sin menoscabo de las facultades que correspondan a los titulares de las Unidades Administrativas Policiales y Unidades Administrativas de Apoyo Técnico Operativo Policial a las que les brinden apoyo;
+X. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+XI. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 
-XI. Establecer los mecanismos de control que permitan la supervisión y coordinación de las Jefaturas de Unidad Departamental de Unidades de Control Administrativo en la correcta aplicación de la normatividad y disposiciones complementarias de la Secretaría en materia administrativa, de recursos materiales, de mantenimiento y servicios, de recursos financieros y de recursos humanos aplicable a Sectores, Agrupamientos, Tránsito y Unidades de Protección Ciudadana y sus elementos;
+XII. (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+XII (SIC). (DEROGADA, G.O. 4 DE OCTUBRE DE 2010)
 
-XII. Informar a la Dirección General de Inspección Policial y a la Contraloría Interna, según sea el caso, aquellos casos, situaciones o hechos que se detecten irregulares con motivo de la operación de los recursos humanos y materiales y financieros asignados a los Sectores, Agrupamientos, Tránsito, y Unidades de Protección Ciudadana; y
+> <small>(ADICIONADO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE SEPTIEMBRE DE 2009)</small>
+###### Artículo 46 Bis.
 
-XII (SIC). Las demás que atribuya la normatividad vigente.
+Son atribuciones de la Dirección Ejecutiva de Rendición de Cuentas:
+
+I. Representar a la Secretaría en lo relativo a la rendición de cuentas;
+
+II. Elaborar programas y proyectos de formación de los servidores públicos de esta Secretaría, para generar capital humano capacitado en materia de rendición de cuentas;
+
+III. Diseñar, actualizar e instrumentar la metodología y los criterios que tiendan al cumplimiento y evaluación del cumplimiento de las obligaciones de rendición de cuentas y las que deriven de las observaciones y recomendaciones que realicen los órganos de control;
+
+IV. Dirigir el trámite de atención a las auditorías que realicen los órganos de supervisión y fiscalización;
+
+V. Dirigir la formulación y presentación de informes referidos a rendición de cuentas requeridos por instancias superiores, y
+
+VI. Las demás que le atribuya la normatividad vigente.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 47.
 
-Son atribuciones de la Dirección Ejecutiva de Desarrollo Organizacional y Administrativo:
+Son atribuciones de la Dirección Ejecutiva de Organización y Administración Territorial.
 
 I. Coordinar los procesos de modificación a la estructura orgánica de la Secretaría y tramitar su autorización, dictamen y registro ante la autoridad competente;
 
@@ -1474,9 +1590,23 @@ VI. Inducir y conducir un proceso de cambio ordenado de la organización, enfoca
 
 VII. Proponer y desarrollar herramientas administrativas innovadoras que coadyuven a la efectividad de los procesos sustantivos de las Unidades Administrativas y Unidades Administrativas Policiales;
 
-VIII. Diseñar e implementar sistemas administrativos orientados a mejorar y facilitar la operación de los procesos y actividades que desarrollan las Unidades Administrativas adscritas a la Oficialía Mayor; y
+VIII. Diseñar e implementar sistemas administrativos orientados a mejorar y facilitar la operación de los procesos y actividades que desarrollan las Unidades Administrativas adscritas a la Oficialía Mayor; y (sic)
 
-IX. Las demás que le atribuya la normativa vigente.
+> <small>(REFORMADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+IX. Supervisar, controlar, y evaluar a las Jefaturas de Unidad Departamental de Unidades de Control Administrativo o su equivalente de las Zonas, Regiones, Agrupamientos, Tránsito, Unidades de Protección Ciudadana de la Secretaría, y en los Centros de Control y Comando (C2), en la debida aplicación de las políticas, lineamientos y normatividad establecidas para la administración de los recursos humanos, materiales y financieros. Lo anterior, sin menoscabo de las facultades que correspondan a los titulares de las Unidades Administrativas Policiales, Unidades Administrativas de Apoyo Técnico Operativo Policial, y de los Responsables de los Centros de Control y Comando (C2), a las que se encuentren adscritas y a las que les brinden apoyo;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+X. Establecer los mecanismos de control que permitan la supervisión y coordinación de las Jefaturas de Unidad Departamental de Unidades de Control Administrativo o su equivalente en la correcta aplicación de la normatividad y disposiciones complementarias de la Secretaría en materia administrativa, de recursos materiales, de mantenimiento y servicios, de recursos financieros y de recursos humanos aplicable a las Zonas, Regiones, Agrupamientos, Tránsito y Unidades de Protección Ciudadana y sus elementos;
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XI. Informar a la Dirección General de Inspección Policial y a la Contraloría Interna, según corresponda, aquellos casos, situaciones o hechos en que se detecten irregularidades con motivo de la operación de los recursos humanos, materiales y financieros asignados a las Zonas, Regiones, Agrupamientos, Tránsito, y Unidades de Protección Ciudadana; y
+
+> <small>(ADICIONADA, G.O. 4 DE OCTUBRE DE 2010)</small>
+
+XII. Las demás que atribuya la normatividad vigente.
 
 ###### Artículo 48.
 
@@ -1496,21 +1626,39 @@ VI. Establecer enlace durante la ejecución de las diligencias judiciales, a fin
 
 VII. Las demás que le atribuya la normativa vigente.
 
+> <small>(REFORMADO, G.O. 4 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 49.
 
-Son atribuciones de la Dirección General de Planes y Organización Táctica:
+Son atribuciones de la Dirección General de Investigación Policial Preventiva, Planes y Organización Táctica.
 
-I. Comunicar a las áreas operativas las directivas que instruya el Jefe del Estado Mayor Policial;
+I. Desarrollar mecanismos de seguimiento a delitos patrimoniales, en contra de las personas y en contra de la Seguridad Pública;
 
-II. Recabar y presentar la información que facilite la toma de decisiones del Jefe del Estado Mayor Policial;
+II. Dirigir procesos de investigación de factores criminógenos en campo a partir de información generada por los sectores, agrupamientos y unidades de protección ciudadana;
 
-III. Llevar el seguimiento de los planes y programas de operación policial y reportar sus avances;
+III. Planear y coordinar acciones de prevención del delito atendiendo a factores criminógenos identificados por tipo delictivo y en zonas geográficas;
 
-IV. Aplicar los mecanismos de cumplimiento de las directivas indicadas por el Jefe del Estado Mayor Policial;
+IV. Instrumentar estudios estratégicos orientados a la identificación de grupos delincuenciales en el Distrito Federal estableciendo propuestas y mecanismos para su desarticulación y para abatir los índices delictivos en zonas especificas del Distrito Federal;
 
-V. Verificar que los planes y estrategias de los operativos a realizar estén debidamente conformados para su ejecución; y,
+V. Diseñar estrategias y operativos que permitan la verificación de información sobre fenómenos delictivos en el Distrito Federal, la identificación de los sujetos que los generan y las posibles alternativas para su desarticulación;
 
-VI. Informar al Jefe del Estado Mayor Policial sobre la evaluación de los procedimientos policiales.
+VI. A solicitud del Agente del Ministerio Público, brindar apoyo y colaboración en la investigación de casos específicos que le sean requeridos a la Secretaría;
+
+VII. En coordinación con la Policía de Proximidad, realizar estudios de campo para la identificación en las zonas criminógenas las organizaciones, bandas o personas que operan a fin de establecer operativos de prevención y reacción para el abatimiento del delito;
+
+VIII. Obtener información de campo relativa al comportamiento delictivo y los fenómenos criminógenos en el Distrito Federal para su procesamiento y análisis por parte de la Subsecretaría de Información e Inteligencia Policial;
+
+IX. Comunicar a las áreas operativas las directivas que instruya el Jefe del Estado Mayor Policial;
+
+X. Recabar y presentar la información que facilite la toma de decisiones del Jefe del Estado Mayor Policial;
+
+XI. Llevar el seguimiento de los planes y programas de operación policial, así como su evaluación y reportar los avances y resultados al Jefe del Estado Mayor Policial;
+
+XII. Aplicar mecanismos para el cumplimiento de las directivas indicadas por el Jefe del Estado Mayor Policial;
+
+XIII. Verificar que los planes y estrategias de los operativos a realizar estén debidamente conformados para su ejecución;
+
+XIV. Las demás que le atribuya la normatividad vigente.
 
 ###### Artículo 50.
 
@@ -1703,3 +1851,13 @@ Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercero.- La coordinación y supervisión de los trabajos de evaluación, desarrollo, implementación, pruebas y puesta en marcha del Sistema Multidisciplinario con Sensores, Comando, Control, Comunicación y Computación, Información, Inteligencia, Investigación e Integración SMSC4i4 (sic) (Proyecto Bicentenario de la Ciudad de México) y su concreción serán desarrollados por el Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México, quien establecerá y coordinará los mecanismos necesarios para garantizar su operación cotidiana, en crisis y en desastres mayores.
 
 Cuarto.- La Secretaría de Seguridad Pública del Distrito Federal deberá proceder a realizar las adecuaciones jurídico - administrativas y presupuestales para que los recursos humanos, materiales y financieros asignados al desarrollo del Proyecto Bicentenario "Ciudad Segura" de la Ciudad de México se transfieran al Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México.
+
+G.O. 4 DE OCTUBRE DE 2010.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero.- La Secretaría de Seguridad Pública actualizará su Manual a las modificaciones del presente Reglamento, mismo que será publicado en la Gaceta Oficial del Distrito Federal, una vez que haya sido revisado, autorizado y registrado por la Contraloría General.
+
+Cuarto.- La Secretaría de Seguridad Pública contará con término de treinta días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones y gestiones jurídico administrativas, presupuestales y de personal necesarias.
