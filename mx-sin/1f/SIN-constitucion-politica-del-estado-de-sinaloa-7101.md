@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2008-10-22"
+last_updated: "2010-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2010.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -247,11 +247,13 @@ El Estado de Sinaloa, tiene una composición pluricultural y reconoce el derecho
 
 ### CAPITULO III. DE LAS ELECCIONES
 
+(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2009 Y SUS ACUMULADAS 72/2009, 73/2009, 75/2009, 76/2009 Y 78/2009, DECLARÓ INAPLICABLE LA PORCIÓN NORMATIVA EN CUANTO A LA FECHA EN QUE TENDRÁN LUGAR LAS RESPECTIVAS JORNADAS ELECTORALES DE ESTE ARTÍCULO INDICADA CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
 
 ###### Art. 14.
 
-Las elecciones de Gobernador del Estado, de Diputados del Congreso del Estado y de los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán el segundo domingo del mes de octubre del año que corresponda y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+Las elecciones de Gobernador del Estado, de Diputados del Congreso del Estado y de los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán EL SEGUNDO DOMINGO DEL MES DE OCTUBRE DEL AÑO QUE CORRESPONDA y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
 
 Esta Constitución reconoce a los partidos políticos como entidades de interés público. De igual manera, les reconoce su carácter de asociaciones políticas de ciudadanos afiliados libre e individualmente en torno a los programas, principios e ideas que cada uno de ellos postula, y que tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación política y, permitir el acceso de los ciudadanos a los distintos niveles del poder público del Estado de Sinaloa. La ley promoverá la democracia en la vida interna de los partidos políticos en la entidad y fijará los requisitos para la obtención del registro como partido político local. Invariablemente la selección de sus dirigentes y sus candidatos se hará conforme a los principios que rigen el estado democrático de derecho.
 
@@ -491,11 +493,11 @@ Los delitos, actos u omisiones en que incurran los Diputados serán sancionados 
 
 Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
-> <small>(REFORMADO, 8 DE ABRIL DE 1965)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Art. 36.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario; el primero comenzará el día primero de diciembre y terminará el día primero de abril siguiente, y el segundo principiará el primero de junio y concluirá el día primero de agosto inmediato.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario. El primero comenzará el día primero de diciembre y terminará a más tardar el día treinta y uno de marzo siguiente, y el segundo principiará el día dieciséis de mayo y concluirá a más tardar el día quince de julio inmediato.
 
 > <small>(REFORMADO PRIMER PARRAFO, P. O. 29 DE JUNIO DE 2001)</small>
 
@@ -3242,6 +3244,12 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las disposiciones contenidas en el artículo 49 de este Decreto, iniciarán su vigencia el día 2 de abril de 2009, siempre y cuando se hayan aprobado y publicado en el Periódico Oficial "El Estado de Sinaloa", las correspondientes modificaciones a la legislación secundaria.
+
+P.O. 4 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
