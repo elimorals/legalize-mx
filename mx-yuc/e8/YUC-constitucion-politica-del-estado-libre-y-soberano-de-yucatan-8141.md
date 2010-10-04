@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2010-05-17"
+last_updated: "2010-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE OCTUBRE DE 2010.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -667,11 +667,13 @@ El Congreso celebrará el tercer domingo de octubre de cada uno de los cinco pri
 
 El Presidente del Congreso contestará a dicho informe.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+
+> <small>(REFORMADO, D.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 29.
 
-Toda resolución del Congreso tendrá el carácter de Ley o Decreto. Las Leyes o Decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios, y se promulgarán en esta forma: "El Congreso del Estado Libre y Soberano de Yucatán, decreta: (texto de la Ley o Decreto)."
+Toda resolución del Congreso tendrá el carácter de Ley, Decreto o Acuerdo. Las Leyes o Decretos se comunicarán al Poder Ejecutivo firmados por el Presidente y los Secretarios, y se promulgarán en esta forma: "El Congreso del Estado Libre y Soberano de Yucatán, decreta: (texto de la Ley o Decreto)."
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -727,7 +729,7 @@ V.- dar, interpretar y derogar Leyes y Decretos;
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
 
-VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año.
+VI.- aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -801,9 +803,9 @@ XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento inte
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
-XVIII.- Nombrar y remover al Auditor Superior del Estado, al Oficial Mayor, al titular del Órgano de Evaluación, al Tesorero y al titular del Instituto de Investigaciones Legislativas del Congreso;
+XVIII.- Nombrar y remover al Auditor Superior del Estado, al Secretario General del Poder Legislativo, al Director General de Administración y Finanzas, al Director de Evaluación del Presupuesto y al Director del Instituto de Investigaciones Legislativas del Congreso;
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1990)</small>
 
@@ -865,9 +867,9 @@ XXVI.- Recibir el Compromiso Constitucional a los Magistrados del Poder Judicial
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
-XXVII.- Resolver las peticiones de licencias para separarse de sus respectivos cargos y renuncias de sus integrantes, del titular del Órgano de Evaluación y del Auditor Superior del Estado, de conformidad con lo dispuesto por la legislación aplicable;
+XXVII.- Resolver las peticiones de licencias para separarse de sus respectivos cargos y renuncias de sus integrantes, del Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -883,9 +885,11 @@ XXIX.- arreglar los límites del Estado, por convenios amistosos, los cuales no 
 
 XXIX Bis.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-XXX.- nombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación permanente que ha de funcionar en el receso del Congreso;
+> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
+
+XXX.- Nombrar a la Diputación Permanente que ha de funcionar en el receso del Congreso, antes de la clausura de cada período de sesiones ordinarias;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1109,21 +1113,23 @@ I.- acordar por sí sola, cuando a su juicio lo exijan el bien o la seguridad de
 
 II.- recibir el Compromiso Constitucional a los funcionarios que deban prestarla ante el Congreso;
 
-> <small>(REFORMADA, D.O. 21 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-III.- recibir durante receso del Congreso, las iniciativas de Ley, Decreto o Acuerdo, proposiciones y demás asuntos dirigidos a éste y turnarlos para su estudio y dictamen a las Comisiones respectivas del Congreso conforme a lo dispuesto en la Ley Orgánica del Poder Legislativo del Estado de Yucatán, a fin de que se les de el trámite que corresponda en el inmediato período de sesiones;
+> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
+
+III.- Recibir durante los recesos del Congreso, las iniciativas de Ley, Decreto o Acuerdo, proposiciones y demás asuntos dirigidos a éste y turnarlos para su estudio y dictamen a las comisiones respectivas del Congreso conforme a lo dispuesto en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán, a fin de que se les dé el trámite que corresponda en el inmediato período de sesiones.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
-IV.- resolver sobre las peticiones de licencia de sus miembros, y del titular del Órgano de Evaluación y del Auditor Superior del Estado, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados del Poder Judicial del Estado en los términos del artículo 68 de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
+IV.- Resolver sobre las peticiones de licencia del Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado en los términos de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
-> <small>(REFORMADA, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
-V.- nombrar al titular del Órgano de Evaluación y al Auditor Superior del Estado con el carácter de Interino, por falta absoluta o temporal del propietario;
+V.- Nombrar al Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y al Director del Instituto de Investigaciones Legislativas del Congreso, con el carácter de interinos, por falta absoluta o temporal de los propietarios;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -3756,3 +3762,113 @@ Los Magistrados de la Sala Especializada en Justicia para Adolescentes, integrar
 ###### ARTÍCULO VIGÉSIMO PRIMERO.
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
+
+D.O. 4 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los 60 días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Legislativo del Estado de Yucatán, contenida en el Decreto número 6, publicada en el Diario Oficial del Gobierno del Estado el 24 de febrero del año 1988.
+
+###### ARTÍCULO TERCERO.
+
+Cualquier referencia que en otras disposiciones jurídicas y administrativas se realicen de las siguientes denominaciones, se entenderán como:
+
+I.- Gran Comisión: Junta de Gobierno y Coordinación Política.
+
+II.- Comisión Permanente de Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda y Patrimonio Estatal y Municipal en relación a Cuenta Pública: Vigilancia de la Cuenta Pública y Transparencia.
+
+III.- Oficialía Mayor del Congreso: Secretaría General del Poder Legislativo.
+
+IV.- Tesorería del Congreso: Dirección General de Administración y Finanzas.
+
+###### ARTÍCULO CUARTO.
+
+La LlX Legislatura concluirá el 31 de agosto de 2012, según lo dispuesto en el artículo noveno transitorio del Decreto número 677 por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO QUINTO.
+
+De conformidad con lo dispuesto en el artículo décimo segundo transitorio del Decreto número 677, por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán, y para los efectos del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012; la LlX Legislatura del H. Congreso del Estado tendrá los siguientes períodos:
+
+Primer Período Ordinario de Sesiones Del 1 de julio al 31 de agosto del
+
+2010
+
+Segundo Período Ordinario de Sesiones Del 16 de octubre al 15 de
+
+diciembre de 2010
+
+Tercer Período Ordinario de Sesiones Del 16 de enero al 15 de abril de
+
+2011
+
+Cuarto Período Ordinario de Sesiones Del 16 de mayo al 15 de julio de
+
+2011
+
+Quinto Período Ordinario de Sesiones Del 1 de septiembre al 15 de
+
+diciembre de 2011
+
+Sexto Período Ordinario de Sesiones Del 16 de enero al 15 de abril de
+
+2012
+
+Séptimo Período Ordinario de Sesiones Del 16 de mayo al 15 de julio de
+
+2012
+
+Durante los recesos de la LlX Legislatura, funcionará una Diputación Permanente.
+
+Los períodos ordinarios de sesiones a partir de la LX Legislatura, deberán ajustarse al calendario establecido en el artículo 27 de la Constitución Política del Estado de Yucatán.
+
+###### ARTÍCULO SEXTO.
+
+La Junta de Gobierno y Coordinación Política de la LlX Legislatura se integrará de la forma siguiente:
+
+PRESIDENTE: DIP. MAURICIO SAHUÍ RIVERO.
+
+SECRETARIO: DIP. ALICIA MAGALLY DEL SOCORRO CRUZ NUCAMENDI.
+
+VOCAL: DIP. CARLOS DAVID RAMÍREZ Y SÁNCHEZ.
+
+VOCAL: DIP. EDILBERTO RODRÍGUEZ LÓPEZ.
+
+El Presidente deberá convocar a la instalación de la Junta de Gobierno y Coordinación Política dentro de los 10 días siguientes a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Junta de Gobierno y Coordinación Política de la LlX Legislatura, deberá proponer al Pleno del H. Congreso del Estado, en un plazo no mayor a 15 días hábiles a partir de la entrada en vigor de esta Ley, la integración de las Comisiones Permanentes que establece esta Ley.
+
+Las comisiones permanentes que estén funcionando a la entrada en vigor de esta Ley, continuarán ejerciendo sus atribuciones hasta que sean integradas por el Pleno las que establece esta Ley.
+
+Las comisiones especiales creadas en la LlX Legislatura, durarán todo el ejercicio constitucional de ésta.
+
+###### ARTÍCULO OCTAVO.
+
+La Mesa Directiva en funciones que se encuentre al momento de entrar en vigor esta Ley, continuará hasta concluir el período ordinario o Diputación Permanente correspondiente.
+
+El Presidente de la Mesa Directiva por única ocasión, realizará el turno de las iniciativas y asuntos legislativos pendientes a las Comisiones Permanentes creadas por esta Ley, de manera directa, por escrito y en base a las atribuciones de cada Comisión.
+
+###### ARTÍCULO NOVENO.
+
+El Congreso expedirá la reglamentación correspondiente dentro de los 180 días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+En tanto se expide la reglamentación que establece esta Ley, se aplicarán las disposiciones de la Ley Orgánica del Poder Legislativo del Estado de Yucatán abrogada, para efecto de todo lo relativo a trámites, procedimientos, votaciones y demás asuntos legislativos que no se oponga a lo establecido por esta Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Al entrar en vigor esta Ley, el Oficial Mayor y Tesorero del Congreso en funciones, pasarán a ser el Secretario General del Poder Legislativo y Director General de Administración y Finanzas, respectivamente sin necesidad de nombramiento alguno por parte del Congreso.
+
+De igual forma subsisten los nombramientos del Auditor Superior del Estado y del Director del Instituto de Investigaciones Legislativas.
+
+El Director de Evaluación del Presupuesto será nombrado en el plazo que establezca la Ley que regule su funcionamiento.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+En tanto se expida Ley reglamentaria de la fracción XL, del artículo 30 y la Ley reglamentaria del Título Décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán, permanecerán vigentes los Títulos Octavo y Noveno de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 24 de febrero de 1988, mediante Decreto Número 6, misma que se abroga mediante esta Ley.
