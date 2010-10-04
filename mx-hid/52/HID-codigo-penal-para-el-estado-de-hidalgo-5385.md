@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2008-04-21"
+last_updated: "2010-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2010.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2401,7 +2401,7 @@ La misma pena prevista en el artículo anterior o, en su caso la medida de trata
 
 ### CAPITULO III. TRATA DE PERSONAS
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 246.
 
@@ -2611,19 +2611,73 @@ Si la persona explotada fuere menor de dieciocho años de edad o persona que por
 
 ###### ARTICULO 273.
 
-Al que promueva, facilite, consiga o entregue a una persona para que ejerza la prostitución dentro o fuera del Estado, se le impondrá prisión de dos a ocho años y de 100 a 400 días multa.
+Comete el delito de trata de personas, quien incurra en la captación, trasporte (sic), traslado, la acogida o la recepción de personas; recurriendo a la amenaza o al uso de la fuerza u otras formas de coacción, al rapto, al fraude, al engaño, al abuso de poder o de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra y con fines de explotación. Esa explotación incluirá, como mínimo, la explotación de la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud o prácticas análogas a la esclavitud, la servidumbre o la extracción de órganos.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 273 Bis.
+
+Para efectos del Artículo anterior, se entenderá por explotación:
+
+I.- Someter a una persona a una condición de esclavitud;
+
+II.- Someter a una persona a prácticas análogas a la esclavitud, las cuales comprenden: la servidumbre por deuda, matrimonio forzado o servil, la explotación de la mendicidad ajena;
+
+III.- Obligar a una persona mediante la fuerza, amenaza, coacción o cualquier tipo de restricción física o moral, a proporcionar trabajos forzosos o servicios;
+
+IV.- Mantener a una persona en condición de servidumbre, incluida la servidumbre de carácter sexual;
+
+V.- La explotación de la prostitución de otra persona;
+
+VI.- Cualquier forma de explotación sexual, incluidos entre otros el proxenetismo, beneficiarse de la prostitución ajena, mantener un prostíbulo, la producción de pornografía; y
+
+VII. La extracción ilícita de órganos, tejidos, sus componentes o derivados del organismo humano.
+
+Las mismas penas se impondrán a quien, no acuda a la autoridad o a sus agentes para denunciar el delito de trata de personas de cuya comisión se tenga noticia.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 274.
 
-Si la persona ofendida fuere menor de dieciocho años o persona que por cualquier causa no tenga capacidad para comprender el significado del hecho o posibilidad para resistirlo, la punibilidad señalada en el artículo anterior se aumentará en una mitad. El mismo aumento e independientemente de la agravante señalada en el enunciado que precede, se aplicará al ascendiente, descendiente, cónyuge, concubino, hermano, tutor, curador o encargado de la persona explotada, cuando fuese autor o partícipe en la realización del delito.
+Quien resultare responsable del delito de trata de personas, además del decomiso de todos los bienes producto de las conductas antes descritas, se impondrán las siguientes penas:
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+(NOTA: EL 19 DE MAYO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 30/2010 Y SU ACUMULADA 31/2010, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE JULIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+I.- De seis a doce años de prisión y MULTA DE QUINIENTOS DÍAS DE SALARIO MÍNIMO.
+
+II.- De nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta días de salario mínimo, si el delito es cometido en contra de persona menor de dieciocho años de edad o en contra de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 274 Bis.
+
+Las penas que resulten de las fracciones I y II del Artículo anterior, se incrementarán hasta en una mitad:
+
+a).- Si el agente se valiese de la función pública que tuviere o hubiere ostentado sin tenerla. Se impondrá además, al servidor público la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro cargo, hasta por un tiempo igual al de la pena de prisión impuesta;
+
+b).- Cuando el sujeto activo del delito se aproveche de la condición de vulnerabilidad derivada de la suma ignorancia, notoria inexperiencia, extrema miseria o extrema necesidad de la víctima, o cuando ésta sea persona mayor de setenta años de edad, cuando se trate de persona indígena o migrante; y
+
+c).- Cuando el sujeto activo del delito tenga parentesco civil, por afinidad o consanguinidad con la víctima, hasta el cuarto grado; habite el mismo domicilio, que la víctima; sea tutor o curador de la víctima; sea ministro de culto religioso o se aproveche de una posición de autoridad por virtud de una relación laboral, docente, doméstica, médica o cualquier otra que implique subordinación.
+
+En los casos señalados en este inciso el juez podrá, atendiendo a las circunstancias del hecho, decretar además, la pérdida del derecho a alimentos que le correspondiera por su relación con la víctima, así como la pérdida de la patria potestad.
+
+Cuando en la comisión del delito de trata de personas concurra otro delito, se aplicarán las reglas del concurso establecidas en el Código Penal del Estado.
+
+> <small>(ADICIONADO P.O. 4 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 274 Ter.
+
+Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientos días de salario mínimo, como multa.
+
+Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para denunciar el delito de trata de personas de cuya comisión tenga noticia.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 275.
 
-Si se empleare violencia o el agente se valiera de su función pública, la punibilidad señalada en los artículos anteriores de este capítulo se aumentará una tercera parte.
+El consentimiento dado por la víctima de la trata de personas, a toda forma de explotación, que se tenga la intención de realizar descrita en el Artículo 273, no se tendrá en cuenta si se haya recurrido a cualquiera de los medios enunciados en el mismo.
+
+La tentativa del delito de trata de personas se sancionará con pena de prisión que no será menor a la pena mínima y podrá llegar hasta las dos terceras partes de la sanción máxima prevista para el delito consumado.
 
 ### CAPITULO III. ABUSO DE AUTORIDAD
 
@@ -3790,3 +3844,9 @@ P.O. 21 DE ABRIL DE 2008.
 DECRETO No. 558, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 155, 157 Y 158 DEL CODIGO PENAL PARA EL ESTADO DE HIDALGO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
