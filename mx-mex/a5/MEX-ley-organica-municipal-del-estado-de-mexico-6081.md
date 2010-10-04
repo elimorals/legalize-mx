@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-10-01"
+last_updated: "2010-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE OCTUBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -645,7 +645,7 @@ XXI Bis. Promover políticas públicas apoyadas en sistemas de financiamiento, c
 
 XXI Ter. Promover, desarrollar, vigilar y evaluar en su municipio, los programas en materia de protección civil;
 
-Los programas de protección civil se integrarán con tres subprogramas:
+Los programas de protección civil se integrarán con tres subprogramas.
 
 a). Prevención
 
@@ -745,9 +745,15 @@ Para ocupar los cargos de secretario, tesorero, titulares de las unidades admini
 
 I. Ser ciudadano del Estado en pleno uso de sus derechos;
 
-II. No estar imposibilitado para desempeñar cargo, empleo, o comisión pública;
+> <small>(REFORMADA, G.G. 4 DE OCTUBRE DE 2010)</small>
+
+II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública;
 
 III. No haber sido condenado en proceso penal, por delito intencional.
+
+> <small>(ADICIONADA, G.G. 4 DE OCTUBRE DE 2010)</small>
+
+IV. Acreditar ante el Presidente o ante el Ayuntamiento cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo; de preferencia ser profesional en el área en la que sea asignado.
 
 ### CAPITULO CUARTO. Actos administrativos que Requieren
 
@@ -1341,31 +1347,45 @@ Los ayuntamientos podrán destinar recursos y coordinarse con las organizaciones
 
 Para satisfacer las necesidades colectivas, los ayuntamientos podrán solicitar la cooperación de instituciones privadas.
 
-### CAPITULO SEXTO. De los Consejos Municipales de Protección Civil
+> <small>(REFORMADA SU DENOMINACION, G.G. 4 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO SEXTO. De las Unidades y Consejos Municipales de Protección Civil
+
+> <small>(REFORMADO, G.G. 4 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 81.
 
-Cada Ayuntamiento constituirá un consejo municipal de protección civil que encabezará el presidente municipal, con funciones de órgano de consulta y participación de los sectores público, social y privado para la adopción de acuerdos, ejecución de acciones y en general, de todas las actividades necesarias para la atención inmediata y eficaz de los asuntos relacionados con situaciones de emergencia, desastre, o calamidad pública que afecten a la población, fundamentalmente enfocadas a prevenir, sin descuidar aquellas referidas al auxilio y recuperación.
+En cada municipio se establecerá una Unidad Municipal de Protección Civil misma que se coordinará con las dependencias de la administración pública que sean necesarias y cuyo jefe inmediato será el Presidente Municipal.
+
+Las unidades municipales de protección civil tendrán a su cargo la organización, coordinación y operación de programas municipales de protección civil apoyándose en el respectivo Consejo Municipal.
+
+La Unidad Municipal de Protección Civil, será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de repuesta (sic) sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Dirección General de Protección Civil del Estado de México.
+
+> <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 81 Bis.
+
+Para ser titular de la Unidad Municipal de Protección Civil se requiere, además de los requisitos del artículo 32 de esta Ley:
+
+l. Tener los conocimientos suficientes debidamente acreditados en materia de protección civil para poder desempeñar el cargo y acreditar dentro de los seis meses siguientes a partir del momento en que ocupe el cargo, haber tomado cursos de capacitación en la materia, impartidos por la Dirección General de Protección Civil del Estado de México o por cualquier otra institución debidamente reconocida por la misma.
+
+> <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 81 Ter.
+
+Cada Ayuntamiento constituirá un consejo municipal de protección civil que encabezará el presidente municipal, con funciones de órgano de consulta y participación de los sectores público, social y privado para la prevención y adopción de acuerdos, ejecución de acciones y en general, de todas las actividades necesarias para la atención inmediata y eficaz de los asuntos relacionados con situaciones de emergencia, desastre, o calamidad pública que afecten a la población.
 
 Son atribuciones de los Consejos Municipales de Protección Civil:
 
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+l. Identificar en un Atlas de Riesgos Municipal, que deberá actualizarse permanentemente y publicarse en la Gaceta Municipal durante el primer año de gestión de cada ayuntamiento, sitios que por sus características específicas puedan ser escenarios de situaciones de emergencia, desastre o calamidad públicas;
 
-I. Identificar en un Atlas de Riesgos Municipal, que deberá actualizarse permanentemente publicarse en la Gaceta Municipal durante el primer año de gestión de cada ayuntamiento, sitios que por sus características específicas puedan ser escenarios de situaciones de emergencia, desastre o calamidad públicas;
+II. Formular, en coordinación con las autoridades estatales de la materia, planes operativos para fomentar la cultura de la prevención, detección de riesgos, auxilio, protección a la población, restablecimiento a la normalidad y conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, con la oportunidad y eficacia debidas.
 
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-II. Formular, en coordinación con las autoridades estatales de la materia, planes operativos para fomentar la cultura de la prevención, detección de riesgos, auxilio, protección a la población, reestablecimiento a la normalidad y conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, con la oportunidad y eficacia debidas;
-
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-III. Definir y poner en práctica los instrumentos de concertación que se requieran entre los sectores del municipio, con otros municipios y el Gobierno del Estado, con la finalidad de coordinar acciones y recursos para la mejor ejecución de los programas y planes operativos;
+III. Definir y poner en práctica los instrumentos de concertación que se requieran entre los sectores del municipio, con otros municipios y el Gobierno del Estado, con la finalidad de coordinar acciones y recursos para la mejor ejecución de los programas y planes operativos.
 
 IV. Coordinar sus acciones con los sistemas nacional y estatal de protección civil;
 
-V. Crear y establecer los órganos y mecanismos que promuevan y aseguren la participación de la comunidad municipal, las decisiones y acciones del Consejo, especialmente a través de la formación del Voluntariado de Protección Civil;
+V. Crear y establecer los órganos y mecanismos que promuevan y aseguren la participación de la comunidad municipal, las decisiones y acciones del Consejo, especialmente a través de la formación del Voluntariado de Protección Civil; (sic)
 
 VI. Operar, sobre la base de las dependencias municipales, las agrupaciones sociales y voluntariado participantes, un sistema municipal en materia de prevención, información, capacitación, auxilio y protección civil en favor de la población del municipio.
 
@@ -1491,9 +1511,9 @@ Para ser secretario del ayuntamiento se requiere:
 
 I. En municipios que tengan una población de hasta 150 mil habitantes, haber concluido la educación secundaria; en los municipios que tengan más de 150 mil y hasta 500 mil habitantes, o que sean cabecera distrital, haber concluido la educación media superior; en los municipios de más de 500 mil habitantes y en el municipio sede de los poderes del Estado, haber concluido estudios de licenciatura;
 
-II. Tener la capacidad para desempeñar el cargo, a juicio del ayuntamiento;
+II. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
-III. No estar inhabilitado para desempeñar cargo, empleo o comisión públicos.
+III. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
 ### CAPITULO TERCERO. De la Hacienda Pública Municipal
 
@@ -1573,7 +1593,7 @@ I. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio
 
 II. Caucionar el manejo de los fondos en términos de ley;
 
-III. No haber sido inhabilitado para desempeñar otro cargo, empleo o comisión públicos;
+III. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
 IV. Cumplir con otros requisitos que señalen las leyes, o acuerde el ayuntamiento.
 
@@ -2956,3 +2976,9 @@ G.G. 1 DE OCTUBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
 
 SEGUNDO.- Los actuales ayuntamientos deberán expedir o reformar, en su caso, en un plazo de tres sesiones el Reglamento de Cabildo.
+
+G.G. 4 DE OCTUBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
