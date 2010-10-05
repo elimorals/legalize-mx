@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2010-03-01"
+last_updated: "2010-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -249,7 +249,9 @@ XXXVI.- Definir los límites de los municipios en caso de duda surgida entre ell
 
 XXXVII.- Decidir sobre la desaparición de poderes municipales, sólo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de los diputados siempre y cuando los miembros del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-XXXVIII.- Designar a los integrantes de los Concejos Municipales y al Presidente Municipal sustituto, en los casos previstos por la Constitución local.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2010)</small>
+
+XXXVIII.- Designar a los integrantes de los Concejos Municipales en los casos previstos por la Constitución local.
 
 XXXIX.- Expedir la Ley de Expropiación por causa de utilidad pública.
 
@@ -259,7 +261,7 @@ XLI.- Determinar el patrimonio familiar señalando los bienes que lo integran, s
 
 XLII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente.
 
-XLIII.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado; y
+XLIII.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado; y (sic)
 
 XLIV.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley.
 
@@ -611,15 +613,19 @@ La integración de la Gran Comisión y la elección de su Presidente se comunica
 
 Son atribuciones de la Gran Comisión:
 
-a) En materia de Gobierno:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
+
+A) En materia de Gobierno:
 
 I.- Proponer la Convocatoria a elecciones extraordinarias para Gobernador y para cubrir las vacantes de los miembros de la Legislatura, en los términos de las fracciones VII y VIII del artículo 75 de la Constitución Política del Estado.
 
 II.- Proponer la terna para la designación del Gobernador Interino o Sustituto, en los términos del artículo 83 de la Constitución Política del Estado.
 
-III.- Proponer al ciudadano que deba sustituir al Presidente Municipal, en caso de falta absoluta de éste, en términos del artículo 154 de la Constitución Política del Estado.
+III.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2010)
 
-IV.- Proponer a los ciudadanos para integrar el Concejo Municipal y la Convocatoria a elecciones extraordinarias, a que se refiere el artículo 156 de la Constitución Política del Estado.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2010)</small>
+
+IV.- Proponer a los ciudadanos para integrar el Concejo Municipal y la Convocatoria a elecciones extraordinarias, a que se refiere el Artículo 143 de la Constitución Política del Estado;
 
 V.- Dictaminar sobre las elecciones a que se refiere el artículo 156 de la Constitución local e investigar las irregularidades, si las hubiere, en el desarrollo de las mismas.
 
@@ -635,7 +641,9 @@ X.- Dictaminar sobre las elecciones de Gobernador Constitucional del Estado.
 
 XI.- Conducir las relaciones políticas con los demás Poderes de la entidad, los Municipios, los Poderes de la Unión y las Legislaturas de los Estados.
 
-B) En materia legislativa:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
+
+B) En materia Legislativa:
 
 I.- Proponer la celebración de consultas populares o audiencias públicas sobre proyectos o iniciativas de leyes y decretos sometidos a la consideración de la Legislatura, sugiriendo el programa respectivo.
 
@@ -651,7 +659,9 @@ VI.- Impulsar y realizar los estudios que versen sobre disposiciones normativas,
 
 VII.- Desahogar las consultas respecto de la aplicación e interpretación de esta ley, reglamentos y prácticas y usos parlamentarios.
 
-C) En materia administrativa:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
+
+C) Es materia Administrativa:
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -777,13 +787,15 @@ V.- Conceder licencias temporales a los Diputados y Magistrados del Tribunal Sup
 
 VI.- Nombrar Gobernador Provisional en los casos previstos en los artículos 83, 84 y 85 fracción III de la Constitución Política del Estado.
 
-VII.- Designar a los miembros de los Concejos Municipales y al Presidente Municipal sustituto, en los casos previstos en la Constitución Política del Estado.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2010)</small>
+
+VII.- Designar a los miembros de los Concejos Municipales, en los casos previstos en la Constitución Política del Estado.
 
 VIII.- Recibir la protesta de ley y aprobar o desechar nombramientos, renuncias y destituciones, solicitadas por el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia.
 
 IX.- Recibir la protesta de ley al Gobernador interino, provisional, sustituto o quien haga sus veces.
 
-X.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
+X.- Designar, mediante el procedimiento que la ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley.
 
 XI.- Las demás que le confieran expresamente la Constitución Política del Estado, la presente ley y las demás disposiciones legales y reglamentarias.
 
@@ -1107,7 +1119,7 @@ XVI.- Establecer mecanismos de coordinación y cooperación con institutos y ent
 
 XVII.- Realizar estudios de impacto social y económico de la legislación vigente, así como en proyecto; y
 
-XVlII.- Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura.
+XVIII.- Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -1127,7 +1139,7 @@ La Dirección de Apoyo Jurídico tendrá las siguientes funciones:
 
 I.- Vigilar que el proceso legislativo se apegue a las disposiciones de la presente Ley y del Reglamento relativo.
 
-II.- Orientar a las Comisiones, Organos y Dependencias del Poder Legislativo, para que el ejercicio de sus facultades y funciones se realice conforme a las disposiciones constitucionales, legales y reglamentarias.
+II.- Orientar a las Comisiones, Órganos y Dependencias del Poder Legislativo, para que el ejercicio de sus facultades y funciones se realice conforme a las disposiciones constitucionales, legales y reglamentarias.
 
 III.- (DEROGADA, P.O. 10 DE MARZO DE 2008)
 
@@ -1135,7 +1147,7 @@ IV.- Rendir los informes previos y justificados en los juicios de amparo en que 
 
 V.- Proporcionar los elementos de juicio para formular iniciativas o dictámenes de leyes o decretos que le soliciten los Diputados por conducto del Presidente de las Comisiones a que pertenezcan.
 
-VI.- Rendir las opiniones técnico-jurídicas que le soliciten los Organos, Comisiones y Dependencias del Poder Legislativo.
+VI.- Rendir las opiniones técnico-jurídicas que le soliciten los Órganos, Comisiones y Dependencias del Poder Legislativo.
 
 VII.- Auxiliar a las Comisiones Ordinarias o Transitorias en el desempeño de sus atribuciones jurisdiccionales.
 
@@ -1523,7 +1535,7 @@ Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobad
 
 ###### ARTICULO 134.
 
-Habiéndose dado lectura a la Minuta de Ley o Decreto, o dispensado en su caso de tal trámite, se expedirá la Ley o Decreto correspondiente, debidamente autorizados por las firmas del Presidente y Secretario de la Mesa Directiva y con el selló de la Legislatura, bajo la siguiente fórmula: "La (aquí el número de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo, Decreta: (Nombre y a continuación el texto aprobado de la Ley o Decreto). Cuando se trate de una Declaratoria se usará la misma fórmula con las modificaciones de mencionar el artículo de la Constitución en que se funda y la palabra Declara en lugar de "Decreta".
+Habiéndose dado lectura a la Minuta de Ley o Decreto, o dispensado en su caso de tal trámite, se expedirá la Ley o Decreto correspondiente, debidamente autorizados por las firmas del Presidente y Secretario de la Mesa Directiva y con el sello de la Legislatura, bajo la siguiente fórmula: "La (aquí el número de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo, Decreta: (Nombre y a continuación el texto aprobado de la Ley o Decreto). Cuando se trate de una Declaratoria se usará la misma fórmula con las modificaciones de mencionar el artículo de la Constitución en que se funda y la palabra Declara en lugar de "Decreta".
 
 Cuando el Decreto que expida la Legislatura carezca de los atributos de una Ley, se encuentre dirigido a un particular o se refiera a una situación jurídica concreta, la fórmula deberá contener los fundamentos y motivos legales que justifiquen la emisión de tal Decreto.
 
@@ -1633,7 +1645,7 @@ La Legislatura, reunida en pleno, celebrará una sesión para el efecto de discu
 
 ###### ARTICULO 146.
 
-Una vez iniciado el Juicio Político, el Presidente de la Legislatura lo hará saber al denunciante y al servidor público denunciado, para que aquél se presente por si y éste lo haga personalmente asistido de su defensor, a fin de que aleguen lo que a su derecho convenga en la sesión de audiencia respectiva.
+Una vez iniciado el Juicio Político, el Presidente de la Legislatura lo hará saber al denunciante y al servidor público denunciado, para que aquél se presente por sí y éste lo haga personalmente asistido de su defensor, a fin de que aleguen lo que a su derecho convenga en la sesión de audiencia respectiva.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1910,3 +1922,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El siguiente período ordinario de sesiones de la actual Legislatura iniciará el 15 de marzo de 2010 y concluirá a más tardar el 30 de junio de 2010.
 
 La mesa que se elija para el tercer mes del periodo ordinario de sesiones mencionado en el párrafo que antecede, continuará en funciones hasta la clausura del mismo.
+
+P.O. 5 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+ARTICULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
