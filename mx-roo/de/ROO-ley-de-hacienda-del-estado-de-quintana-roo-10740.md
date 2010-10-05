@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2009-12-17"
+last_updated: "2010-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2009.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2009 NO APLICA AL ARTICULADO DEL DECRETO 202 PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2009.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -283,7 +281,7 @@ IV.- Intereses provenientes del contrato de cuenta corriente;
 
 V.- Otorgamiento de fianzas;
 
-VI.- Descuentos o anticipas sobre títulos o documentos;
+VI.- Descuentos o anticipos sobre títulos o documentos;
 
 VII.- Usufructo de capitales impuestos a rédito;
 
@@ -8353,6 +8351,10 @@ I.- Por la Inscripción anual al Padrón de contratistas del Estado de Quintana 
 
 II.- Por concepto de renovación de la inscripción: 10 S.M.G.
 
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2010)</small>
+
 ### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
 
 ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)
@@ -8465,7 +8467,11 @@ Para el envío de documentos o de material que contenga información a través d
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO UNICO
+### CAPITULO XXV. DE LOS SERVICIOS QUE OTORGAN LAS AUTORIDADES LABORALES DEL ESTADO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 207-N.
 
@@ -8677,7 +8683,23 @@ Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contempl
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
+### CAPITULO UNICO
+
 ### CAPITULO I. DISPOSICIONES GENERALES DE LOS RECARGOS
+
+###### Artículo 207-O.
+
+Les derechos por los servicios que prestan las autoridades laborales del Estado, a través del Tribunal, Junta Local y Juntas Especiales todas de Conciliación y Arbitraje, Procuraduría de la Defensa del Trabajo y sus Procuradurías Auxiliares, la Dirección General del Trabajo y Previsión Social y los Inspectores de Trabajo, se pagarán conforme a lo siguiente:
+
+TARIFA
+
+I.- Constancia de permiso para trabajar a menores de edad 1 S.M.G
+
+II.- Por la expedición de de documentos en copia simple 0.011 S.M.G por cada foja tamaño carta y 0.012 S.M.G por cada foja en tamaño oficio y legal.
+
+En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda (sic) diez fotocopias.
+
+III.- Por la expedición de copas certificadas, independientemente del mínimo de fotocopias, además del precio de la copia a que se refiere la fracción II de este artículo, se realizará el pago a que se refiere la fracción IV del Artículo 188 de esta Ley.
 
 ### CAPITULO II. CONTRIBUCIONES GENERADAS EN EJERCICIOS ANTERIORES
 
@@ -8691,23 +8713,19 @@ Con respecto a las tarifas de la tabla anterior, la Secretaría deberá contempl
 
 ### CAPITULO VII. APROVECHAMIENTOS DIVERSOS
 
-### CAPITULO UNICO
-
 #### SECCION SEXTA. IMPRENTA DE GOBIERNO
 
 #### SECCION SEPTIMA. PUBLICACIONES OFICIALES
+
+### CAPITULO UNICO
 
 ### CAPITULO I. INGRESOS FEDERALES POR COORDINACION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
 ## TITULO IV. DE LOS PRODUCTOS
 
-### CAPITULO UNICO
+### CAPITULO II. INGRESOS MUNICIPALES POR COORDINACION
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -8908,6 +8926,10 @@ Mayor de $20,000.00 en adelante hasta 100 S..M.G.
 BIS.- Son todas las ganancias que en forma de intereses o por cambio de moneda perciba el Gobierno del Estado por las cuentas bancarias perteneciente a este.
 
 ## TITULO V. APROVECHAMIENTOS
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 219.
 
@@ -9824,3 +9846,13 @@ Segundo.- Tratándose de empresas dedicadas a la construcción, que deseen efect
 Tercero.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
 
 Cuarto.- El presente Decreto entrará en vigor a partir del primero de enero del año 2010, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de Enero del año 2011, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
