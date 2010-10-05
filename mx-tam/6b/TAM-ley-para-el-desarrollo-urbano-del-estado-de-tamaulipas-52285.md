@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2008-06-05"
+last_updated: "2010-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -1591,7 +1591,9 @@ Los interesados en utilizar los lotes o predios para cualquier actividad, incluy
 
 ###### ARTÍCULO 78.
 
-Para la obtención de la autorización municipal de uso de suelo, el solicitante deberá cumplir con los requisitos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2010)</small>
+
+1. Para la obtención de la autorización municipal de uso de suelo, el solicitante deberá cumplir con los requisitos siguientes:
 
 I. Acreditar la propiedad del predio;
 
@@ -1602,6 +1604,32 @@ III. Indicar el uso del suelo que se pretende;
 IV. Así como acreditar el pago del impuesto predial; y
 
 V. Realizar el pago de derechos correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2010)</small>
+
+2. Por cuanto hace al otorgamiento de licencias de uso de suelo para las estaciones de servicio denominadas gasolineras, se sujetará a las siguientes condiciones:
+
+I. Los predios para el establecimiento de gasolineras o estaciones de servicio deberán estar localizados sobre accesos a cerretas, carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquéllos predios cuya ubicación sea compatible y conforme al uso de suelo del Plan de Desarrollo Urbano del municipio respectivo;
+
+II. Las estaciones de servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental de seguridad y demás legislación aplicable, y se ubicarán a una distancia de 10,000 metros en forma radial una de otra, dentro de zona urbana, y de 20,000 metros cuando su ubicación sea en carreteras concesionadas, federales, estatales y secundarias;
+
+III. El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo infantil o guarderías; y de 150 metros radiales, respecto de mercados, cines, teatros, centros de culto religioso, auditorios, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas, de manera habitual o transitoria;
+
+IV. El predio debe ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado del petróleo y de aquéllos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento mayor a 500 litros;
+
+V. Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, de los ejes de vías férreas, así como de los ductos que transporten algún derivado del petróleo;
+
+VI. Las bombas expendedoras de gasolina y/o carburante y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 15 metros de un área residencial; y
+
+VII. Además, deberá obtenerse dictamen favorable de la autoridad competente en materia de protección civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2010)</small>
+
+3. Cuando el predio en el que se pretenda instalar una gasolinera o estación de servicio, se ubique enfrente de dos vialidades, las maniobras de abastecimiento serán única y exclusivamente por el frente a la vialidad de mayor jerarquía.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2010)</small>
+
+4. No podrán ubicarse gasolineras o estaciones de servicio dentro de las áreas consideradas como de Reserva Ecológica.
 
 ###### ARTÍCULO 79.
 
@@ -2070,3 +2098,13 @@ Este Decreto se publicará en el Periódico Oficial del Estado y entrará en vig
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La autoridad municipal podrá alentar la implementación de programas de apoyo a los comerciantes o empresarios que deseen regularizar su funcionamiento con base en las nuevas disposiciones, siempre que exista la viabilidad presupuestal.
