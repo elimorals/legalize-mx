@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-en-materia-de-seguridad-publica-municipal-de-san-710
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-30"
-last_updated: "2010-05-26"
+last_updated: "2010-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2009.
 
@@ -72,6 +72,10 @@ CENTRO: Centro de Comando, Control y Comunicaciones en materia de seguridad muni
 CLAVES: Directorio de señales designado para la comunicación confidencial, utilizando el código mil y el alfabeto fonético internacional.
 
 COLONIA Y COMUNIDAD: El conjunto de ciudadanos que habitan en un lugar determinado del municipio; con intereses o fines comunes y que se constituyen en la división administrativa o territorial del municipio.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+COMISION: La Comisión de Honor y Justicia de la Secretaría de Seguridad Municipal
 
 COMITÉS CIUDADANOS: Los Comités Ciudadanos Municipales de Seguridad Municipal.
 
@@ -1407,15 +1411,17 @@ La Comisión de Honor y Justicia tendrá competencia para conocer y sustanciar l
 
 ### CAPITULO II. DE SU INTEGRACION
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 126.
 
 La Comisión de Honor y Justicia estará integrada por cinco miembros;
 
-I. Un Presidente; y (sic)
+I. Un Presidente preferentemente Licenciado en Ciencias Jurídicas, el cual contará con voto de calidad;
 
-II. Cuatro vocales;
+II. Cuatro vocales; y
 
-III. Contará además con un Secretario con voz, sin derecho a voto y el personal necesario para el cumplimiento de sus funciones.
+III. Contará además con un Coordinador de Asuntos Internos, quién deberá ser Licenciado en Ciencias Jurídicas, con voz, sin derecho a voto y el personal necesario para el cumplimiento de sus atribuciones.
 
 ### CAPITULO III. DE LA DESIGNACION DE SUS INTEGRANTES
 
@@ -1435,9 +1441,11 @@ Los vocales integrantes de la Comisión miembros de los cuerpos de Policía y de
 
 Los vocales pertenecientes a las Direcciones de Policía y Tránsito duraran en su cargo un año y podrán ser reelectos las veces que el Republicano Ayuntamiento considere necesario.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 131.
 
-El Secretario y el personal necesario para el cumplimiento de las funciones de la Comisión de Honor y Justicia será designado o removido por el Presidente de la misma.
+El Coordinador de Asuntos Internos y el personal necesario para el cumplimiento de las funciones de la Comisión de Honor y Justicia serán designados o removidos por el Presidente de la misma.
 
 ### CAPITULO IV. DE LOS ACUERDOS Y RESOLUCIONES
 
@@ -1453,13 +1461,45 @@ El Presidente tendrá voto de calidad.
 
 El quórum necesario para la validez de los acuerdos y resoluciones de la Comisión de Honor y Justicia se integrará con la mayoría de sus miembros.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 135.
 
-El Secretario del Comité de Honor y Justicia o el servidor público que designe el Pleno, será el ejecutor de sus acuerdos o resoluciones.
+El Coordinador de Asuntos Internos del Comité de Honor y Justicia o el servidor público que designe el Pleno del mismo, sustanciará los procedimientos y será el ejecutor de sus acuerdos o resoluciones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+### CAPITULO III BIS (SIC). DE SU FUNCIONAMIENTO Y ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 135 BIS. El funcionamiento y operación interna de la Comisión de Honor y Justicia se llevará a cabo de acuerdo al Manual de Operaciones que para el efecto expida.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 135 BIS 1. Los integrantes de la Comisión de Honor y Justicia deberán excusarse de conocer de un asunto, en los siguientes casos:
+
+I. Tenga una relación conyugal, o de parentesco por consanguinidad o afinidad del cuarto grado, con el servidor público sujeto a procedimiento; y
+
+II. Demás causas que se justifiquen en legal forma, tomando como base los impedimentos que señalan el Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 135 BIS 2. De toda sesión de la Comisión de Honor y Justicia, el Coordinador de Asuntos Internos levantará acta debidamente suscrita por los que en ella intervengan y así quisieren hacerlo, levantándose constancia en caso de negativa a suscribir el acta.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 135 BIS 3. La Comisión de Honor y Justicia tendrá atribuciones para:
+
+I. Si el caso lo permite, aplicar los medios alternos para la solución de conflictos; y
+
+II. Requerir a las dependencias administrativas municipales para que le proporcionen la información que considere necesaria para el cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 135 BIS 4. La Comisión de Honor y Justicia informará a la Secretaria de la Contraloría y Transparencia Municipal y a la dependencia del Gobierno del Estado que corresponda las sanciones administrativas que imponga, en cumplimiento a lo dispuesto por el artículo 94 de la . Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
 ### CAPITULO V. DEL PROCEDIMIENTO
-
-### CAPITULO UNICO. DEL RECURSO DE REVOCACION
 
 ###### ARTÍCULO 136.
 
@@ -1489,13 +1529,15 @@ Las actuaciones de la Comisión de Honor y Justicia, deberán constar por escrit
 
 # LIBRO DECIMO SEGUNDO. DE LOS RECURSOS
 
-### CAPITULO UNICO. PROCEDIMIENTO DE MODIFICACION
+### CAPITULO UNICO. DEL RECURSO DE REVOCACION
 
 ###### ARTÍCULO 140.
 
 El recurso de revocación procederá en contra de los actos o determinaciones emitidas por la Comisión de Honor y Justicia en los términos de la Ley de Seguridad Pública para el Estado de Nuevo León.
 
 # LIBRO DECIMO TERCERO. DEL PROCEDIMIENTO DE MODIFICACION AL REGLAMENTO
+
+### CAPITULO UNICO. PROCEDIMIENTO DE MODIFICACION
 
 ###### ARTÍCULO 141.
 
@@ -1548,3 +1590,11 @@ P.O. 26 DE MAYO DE 2010.
 Artículo Primero.- Las presentes REFORMAS POR MODIFICACIÓN AL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
 
 Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 6 DE OCTUBRE DE 2010.
+
+Artículo Primero.- Las presentes REFORMAS POR MODIFICACIÓN Y ADICION AL REGLAMENTO EN MATERIA DE SEGURIDAD MUNICIPAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión:
+
+Articulo Segundo.- El Comité de Honor y Justicia deberá aprobar en un plazo no mayor a 90 días naturales contados a partir del inicio de la vigencia de este ordenamiento, el Manual de Operaciones a que se refiere el artículo 135 BIS del presente Reglamento.
+
+Artículo Tercero.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
