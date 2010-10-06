@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2010-03-10"
+last_updated: "2010-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1970,6 +1970,10 @@ Al que por medio de la violencia física o moral realice cópula con persona de 
 Cuando la violación se cometa con la intervención de dos o más personas, o el sujeto activo tenga con el ofendido una relación de autoridad, de hecho o de derecho, se impondrá de veinticinco a treinta años de prisión.
 
 En el segundo supuesto del párrafo anterior, el juez privará al agente, en su caso, del ejercicio de la patria potestad, la tutela o la custodia y de los derechos sucesorios que pudiere tener en relación con el ofendido.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+Las penas señaladas para el delito de violación, se aplicarán aunque se demuestre que el sujeto pasivo sea o haya sido cónyuge o pareja permanente, viva o haya vivido en concubinato o amasiato con el sujeto activo, pero en estos casos el delito se perseguirá por querella de parte ofendida.
 
 > <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
 
@@ -4220,3 +4224,9 @@ Tercero.- Los poderes Ejecutivo y Judicial del Gobierno del Estado de Morelos, a
 Cuarto.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 Quinto.- Túrnese el presente decreto al titular del Poder Ejecutivo del Estado de Morelos para los efectos de su promulgación y publicación respectiva.
+
+P.O. 6 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano Oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
