@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-civil-en-el-municipio-de-san-pedro-622
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-30"
-last_updated: "2008-06-30"
+last_updated: "2010-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCION CIVIL EN EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de junio de 2008.
 
@@ -53,17 +53,25 @@ Para los efectos del presente reglamento, se entiende por:
 
 I. AGENTES DESTRUCTIVOS.- Fenómenos de carácter geológico, hidrometeorológico, químico, tecnológico, sanitario, ecológico y socio organizativo que pueden producir riesgo, alto riesgo, emergencia o desastre;
 
-II. ALTO RIESGO.-A la inminente o muy probable ocurrencia de una emergencia o desastre;
+II. ALTO RIESGO.- A la inminente o muy probable ocurrencia de una emergencia o desastre;
 
 III. APOYO.- Conjunto de actividades administrativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencias o desastre;
 
 IV. AUXILIO.- Acciones destinadas primordialmente a salvaguardar la vida, la salud y bienes de las personas; la planta productiva; y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres. Estas acciones son de alertamiento; evaluación de daños; planes de emergencia; seguridad; búsqueda salvamento y asistencia; servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
 
-V. COORDINACIÓN: Coordinación de Protección Civil;
+V. (DEROGADA, P.O. 6 DE OCTUBRE DE 2010)
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+V BIS CUOTA: Cantidad económica calculada conforme al equivalente a un salario mínimo general vigente en el área geográfica que corresponde al Municipio de San Pedro Garza García, Nuevo León.
 
 VI. DAMNIFICADO.- Persona que sufre en su integridad física o en sus bienes daños de consideración, provocados directamente por los efectos de un desastre; también se consideran damnificados a sus dependientes económicos. Es aplicable este concepto, a la persona que por la misma causa haya perdido su ocupación o empleo, requiriendo consecuentemente del apoyo gubernamental para sobrevivir en condiciones dignas;
 
 VII. DESASTRE.- Evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas, lesiones en la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad. También se le denominan calamidades públicas;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+VII BIS.- DIRECCIÓN.- Dirección de Protección Civil.
 
 VIII. EMERGENCIA.- Situación derivada de fenómenos naturales, actividades humanas o desarrollo tecnológico que pueden afectar a la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente, cuya atención debe ser inmediata;
 
@@ -76,6 +84,10 @@ XI. GRUPOS VOLUNTARIOS.- Organizaciones y asociaciones legalmente constituidas y
 Entre los grupos voluntarios se consideran los de rescate y auxilio en la materia, los cuales deberán estar debidamente integrados al Sistema Estatal de Protección Civil y se coordinarán fielmente al Sistema Municipal, a fin de que realicen su función correspondiente dentro del Plan Municipal de Protección Civil;
 
 XII. MITIGACIÓN.- Medidas que se toman para disminuir el impacto de un siniestro o desastre;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+XII BIS MULTA.- Imposición de una sanción económica expresada en cuotas, con motivo del incumplimiento de cualquiera de las disposiciones de este Reglamento o cualquier disposición aplicable a la materia;
 
 XIII. PREVENCION.- Acciones- principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente;
 
@@ -97,15 +109,19 @@ I.- La aplicación de la Ley de Protección Civil para el Estado de Nuevo León 
 
 II.- Promover la participación de la sociedad en la protección civil;
 
-III.- Crear Fondo de Desastres Municipal, para la atención de emergencias originadas por riesgos, altos riesgos, emergencias o desastres. La creación y aplicación de este Fondo, se hará conforme a las disposiciones presupuestales y legales aplicables;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-IV.- Incluir acciones y programas sobre la materia, en el Plan de Desarrollo Municipal;
+III.- Promover la creación del Fondo de Desastres Municipal, para la atención de emergencias originadas por riesgos, altos riesgos, emergencias o desastres. La creación y aplicación de este Fondo, se hará conforme a las disposiciones presupuestales y legales aplicables
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+IV.- Promover la inclusión de acciones y programas sobre la materia, en el Plan de Desarrollo Municipal;
 
 V.- Celebrar convenios de colaboración y coordinación en materia de este reglamento; y
 
 VI.- Las demás facultades que dispongan las leyes aplicables en materia de protección civil, así como el presente reglamento.
 
-### CAPITULO II. DEL SISTEMA MUNICIPAL-DE PROTECCION CIVIL
+### CAPITULO II. DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 ###### Artículo 4.
 
@@ -127,13 +143,13 @@ II.- Grupos Voluntarios.
 
 ###### Artículo 7.
 
-El Sistema Municipal de Protección Civil cumplirá además de los señalados en este capitulo con los siguientes objetivos:
+El Sistema Municipal de Protección Civil cumplirá además de los señalados en este capítulo con los siguientes objetivos:
 
 I.- Promover la cultura de protección civil, desarrollando acciones de educación y capacitación a la población, en coordinación con las autoridades de la materia;
 
 II.- Fomentar la activa y responsable participación de todos los, habitantes del Municipio;
 
-III.- Promover campañas masivas de divulgación en materia de protección civil; y.
+III.- Promover campañas masivas de divulgación en materia de protección civil; y
 
 IV.- Los demás que acuerde el Consejo Municipal de Protección Civil.
 
@@ -155,9 +171,13 @@ l. Como Presidente del Consejo, el Presidente Municipal en funciones;
 
 II. Como Secretario Ejecutivo, el Secretario del Republicano Ayuntamiento;
 
-III. Como Coordinador General, el Secretario de Seguridad pública y Vialidad; y;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-IV. Como Secretario Técnico, el Coordinador de Protección Civil Municipal.
+III. Como Coordinador General, el Secretario de Seguridad Municipal; y;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+IV. Como Secretario Técnico, el Director de Protección Civil Municipal.
 
 ###### Artículo 11.
 
@@ -249,7 +269,9 @@ a) La puesta en operación de los programas de emergencia, para los diversos fac
 
 b) La difusión de los avisos y alertas preventivas al respecto; y
 
-XIII.- Las demás que la Ley, el presente reglamento y el Consejo le otorguen.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+XIII.- Las demás que la Ley, el presente reglamento y el Republicano Ayuntamiento le otorguen.
 
 ###### Artículo 17.
 
@@ -263,7 +285,9 @@ III.- Ejercer la representación legal del Consejo;
 
 IV.- Resolver el recurso de inconformidad en los términos del presente reglamento y;
 
-V.- Las demás que le confieran, el presente reglamento y las que provengan de acuerdos del Consejo o el Presidente Municipal.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+V.- Las demás que le confieran, el presente reglamento y las que provengan de acuerdos del Republicano Ayuntamiento.
 
 ###### Artículo 18.
 
@@ -275,7 +299,9 @@ II.- Apoyar en todo lo previsto en el presente reglamento;
 
 III.- Mantener informado al Presidente del Consejo y al Secretario Ejecutivo en todos los casos de siniestros que se presenten; y;
 
-IV.- Lo demás que la Ley, el presente reglamento, el Consejo o el Presidente Municipal le otorguen.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+IV.- Lo demás que la Ley, el presente reglamento, o el Republicano Ayuntamiento le otorguen.
 
 ###### Artículo 19.
 
@@ -305,27 +331,39 @@ XI.- Rendir cuenta al Consejo del estado operativo del Sistema, Municipal de Pro
 
 XII.- Llevar el registro de los recursos disponibles para casos de emergencia y desastres; y
 
-XIII.- Lo demás que le confieran las Leyes, el presente reglamento, el Consejo, su Presidente o Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-### CAPITULO IV. DE LA COORDINACIÓN DE PROTECCION CIVIL MUNICIPAL
+XIII.- Lo demás que le confieran las Leyes, el presente reglamento, o el Republicano Ayuntamiento.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+### CAPITULO IV. DE LA DIRECCIÓN DE PROTECCION CIVIL MUNICIPAL
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 20.
 
-La Coordinación de Protección Civil Municipal, dependiente del Presidente Municipal, dentro de la Secretaria de Seguridad Publica y Vialidad, tendrá como función, proponer, dirigir, presupuestar y vigilar la protección civil en el Municipio, así como el control operativo de las acciones que en la materia se efectúen, en coordinación con los sectores público, social, privado; grupos voluntarios y la población en general, en apoyo a las resoluciones que dicte el Consejo Municipal de Protección Civil.
+La Dirección de Protección Civil Municipal, dependiente del Presidente Municipal, dentro de la Secretaria de Seguridad Municipal, tendrá como función, proponer, dirigir, presupuestar y vigilar la protección civil en el Municipio, así como el control operativo de las acciones que en la materia se efectúen, en coordinación con los sectores público, social, privado, grupos voluntarios y la población en general, en apoyo a las resoluciones que dicte el Consejo Municipal de Protección Civil.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 21.
 
-La Coordinación de Protección Civil Municipal se integrará por:
+La Dirección de Protección Civil Municipal se integrará por:
 
-I.- Un coordinador que será nombrado por el Presidente Municipal y que estará dentro de la Secretaria de Seguridad Publica y Vialidad;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+I.- Un Director que será nombrado por el Presidente Municipal y que estará dentro de la Secretaria de Seguridad Municipal;
 
 II.- Las unidades o departamentos técnicos u operativos que sean necesarios; y;
 
 III.- El personal técnico, administrativo y operativo que, sea necesario y autorice el presupuesto respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 22.
 
-La Coordinación de Protección Civil Municipal tendrá las siguientes atribuciones:
+La Dirección de Protección Civil Municipal tendrá las siguientes atribuciones:
 
 I. Elaborar y presentar para su aprobación, al Presidente del Consejo Municipal de Protección Civil, el anteproyecto del Programa Municipal de Protección Civil, así como sus subprogramas, planes y programas especiales;
 
@@ -381,7 +419,7 @@ g) Actividades o establecimientos que, tengan menos de mil quinientos metros cua
 
 h) Instalación de electricidad y alumbrado público;
 
-I) Drenajes hidráulicos, pluviales y de aguas residuales;
+i) Drenajes hidráulicos, pluviales y de aguas residuales;
 
 j) Equipamientos urbanos, puentes peatonales, paraderos y señalamientos;
 
@@ -407,7 +445,7 @@ g) Museos, galerías de arte, centros de exposición, salas de conferencia y bib
 
 h) Templos y demás edificios destinados al culto;
 
-I) Centros comerciales, supermercados, tiendas de departamentos mercados;
+i) Centros comerciales, supermercados, tiendas de departamentos mercados;
 
 j) Oficinas de la administración publica estatal, incluyendo a las correspondientes a. organismos descentralizados y concesionarios de servicios públicos, así como las dedicadas a oficinas de administración privada, de profesionales, de la industria, de la banca y del comercio;
 
@@ -435,33 +473,45 @@ u) Auxiliar al representante municipal para el cumplimiento de sus atribuciones 
 
 v) Las demás que le confieran el Presidente Municipal, la Ley, el presente reglamento y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo Municipal de Protección Civil.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 23.
 
-La Coordinación promoverá que los establecimientos a que se refiere este reglamento, instalen sus propias unidades interna de respuesta, asesorándolos y coordinando sus acciones.
+La Dirección promoverá que los establecimientos a que se refiere este reglamento, instalen sus propias unidades interna de respuesta, asesorándolos y coordinando sus acciones.
 
-Los establecimientos deberán realizar, asistidos por la Coordinación, cuando menos dos veces al año, simulacros para hacer frente a altos riesgos; emergencias o desastres.
+Los establecimientos deberán realizar, asistidos por la Dirección, cuando menos dos veces al año, simulacros para hacer frente a altos riesgos, emergencias o desastres.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 24.
 
-La Coordinación será la responsable directa para aplicar las medidas de seguridad, poniendo especial atención a los siguientes casos de alto riesgo:
+La Dirección será la responsable directa para aplicar las medidas de seguridad, poniendo especial atención a los siguientes casos de alto riesgo:
 
 a) El abastecimiento de gas de uso doméstico de la unidad repartidora a vehículos motorizados; y
 
 b) El transporte y/o almacenamiento de material peligroso o inflamable que ponga en riesgo a la población y carezca de autorización.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 25.
 
-Cuando debido a la magnitud de los altos riesgos, emergencias o desastres, sea necesaria la concurrencia simultánea de las Autoridades Municipales y Estatales de Protección Civil, la Coordinación será quien coordine los trabajos de respuesta ante la contingencia, en el lugar de los hechos.
+Cuando debido a la magnitud de los altos riesgos, emergencias o desastres, sea necesaria la concurrencia simultánea de las Autoridades Municipales y Estatales de Protección Civil y en su caso de la Federación, la Dirección será quien coordine los trabajos de respuesta ante la contingencia, en el lugar de los hechos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 26.
 
-Corresponde al Coordinador de Protección Civil Municipal:
+Corresponde al Director de Protección Civil Municipal:
 
-I.- Coordinar, supervisar y evaluar, todas las acciones que se realicen en el desarrollo de las atribuciones de la Coordinación;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+I. Coordinar, supervisar y evaluar, todas las acciones que se realicen en el desarrollo de las atribuciones de la Dirección;
 
 II.- Organizar las acciones de coordinación con las Autoridades Estatales y Federales, así como con los sectores social y privado, para los planes de prevención y control de altos riesgos, emergencias y desastres;
 
-III.- Administrar los recursos humanos, materiales y financieros a cargo de la Coordinación de Protección Civil Municipal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+III.- Administrar los recursos humanos, materiales y financieros a cargo de la Dirección de Protección Civil Municipal;
 
 IV.- Designar al personar que fungirá como inspector en las actividades que se realicen en los establecimientos de competencia municipal o de coordinación con la Dirección Estatal;
 
@@ -491,7 +541,9 @@ III.- Participar en los programas de capacitación a la población o brigadas de
 
 IV.- Cooperar en la difusión de programas y planes de protección civil;
 
-V.- Coadyuvar en actividades de monitoreo, pronóstico y aviso a la Coordinación de la presencia de cualquier riesgo, alto riesgo, emergencia o desastre;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+V.- Coadyuvar en actividades de monitoreo, pronóstico y aviso a la Dirección de la presencia de cualquier riesgo, alto riesgo, emergencia o desastre;
 
 VI.- Participar en todas aquellas actividades del Programa Municipal o Estatal de Protección Civil, que estén en posibilidades de realizar; y;
 
@@ -499,9 +551,11 @@ VII.- Las demás que les confiera el Consejo Municipal de Protección Civil.
 
 ### CAPITULO VI. DE LAS UNIDADES DE RESPUESTA EN LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 30.
 
-Es obligación de todos los establecimientos como industrias, almacenes, gasolinerías, gaseras, comercios, hoteles, centros de estudios, centros de salud, oficinas públicas, teatros, estadios, salones de fiesta, así como cualquier otro local público o privado y en general de cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso que se destine, o a la concurrencia masiva de personas pueda existir riesgo, el contar con unidades de respuesta, debidamente avaladas por la Coordinación, las cuales deberán cumplir con los siguientes requisitos básicos:
+Es obligación de todos los establecimientos como industrias, almacenes, gasolinerías, gaseras, comercios, hoteles, centros de estudios, centros de salud, oficinas públicas, teatros, estadios, salones de fiesta, espacios públicos o privados, así como cualquier otro local público o privado y en general de cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso que se destine, o a la concurrencia masiva de personas pueda existir riesgo, el contar con unidades de respuesta, debidamente avaladas por la Dirección, las cuales deberán cumplir con los siguientes requisitos básicos:
 
 I.- CAPACITACIÓN: El personal que integre las unidades internas de respuesta, deberá estar debidamente capacitado, mediante un programa específico de carácter teórico-práctico, inductivo, formativo y de constante actualización.
 
@@ -509,17 +563,23 @@ II.- BRIGADAS: Cada unidad interna de respuesta deberá contar cuando menos con 
 
 III.- SIMULACROS: Las unidades internas de respuesta deberán realizar ejercicios y simulacros cuando menos dos veces por año en cada inmueble, atendidos aquellos como una representación imaginaria de la presencia de una emergencia, mediante los cuales, se pondrá a prueba la capacidad de respuesta de las brigadas de protección civil.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 31.
 
-Los establecimientos a que se refiere este ordenamiento de competencia municipal, y de coordinación con la Dirección Estatal, tienen la obligación de contar permanentemente con un programa especifico de protección civil y un plan de contingencias que deberá ser validado y registrado por la Dirección Estatal de Protección Civil y supervisado por la Coordinación.
+Los establecimientos a que se refiere este ordenamiento de competencia municipal, y de coordinación con la Dirección Estatal, tienen la obligación de contar permanentemente con un programa específico de protección civil y un plan de contingencias que deberá ser validado y registrado por la Dirección Estatal de Protección Civil y supervisado por la Dirección.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 32.
 
-Para los efectos del artículo anterior, los patrones, propietarios o titulares de los establecimientos, procurarán capacitar a sus empleados y dotarlos del equipo necesario para la atención de emergencias, así como solicitar la asesoría de la Coordinación, tanto para su capacitación, como para el desarrollo de logísticas de respuesta a las contingencias.
+Para los efectos del artículo anterior, los patrones, propietarios o titulares de los establecimientos, capacitarán a sus empleados y los dotarán del equipo necesario para la atención de emergencias, así como solicitar la asesoría de la Dirección, tanto para su capacitación, como para el desarrollo de logísticas de respuesta a las contingencias.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 33.
 
-Cuando los efectos de los altos riesgos, emergencias o desastres rebasen la capacidad de respuesta de las unidades internas, sus titulares, sin perjuicio de que cualquier otra persona pueda hacerlo, solicitarán de inmediato la asistencia de, la Coordinación, así como de otras instancias de la materia.
+Cuando los efectos de los altos riesgos, emergencias o desastres rebasen la capacidad de respuesta de las unidades internas, sus titulares, sin perjuicio de que cualquier otra persona pueda hacerlo, solicitarán de inmediato la asistencia de la Dirección, así como de otras instancias de la materia.
 
 ### CAPITULO VII. REGULACIONES DE SEGURIDAD Y PREVENCIÓN PARA CENTROS DE POBLACIÓN
 
@@ -539,7 +599,9 @@ Cuando el origen de una emergencia o desastre se deba a acciones realizadas por 
 
 Los depósitos o almacenes de gas, combustibles, solventes, maderas, explosivos o de cualquier material que por su naturaleza o cantidad sean altamente inflamables, explosivos o peligrosos, deberán acondicionarse especialmente para tal fin, guardando las medidas de seguridad que correspondan.
 
-Los propietarios, administradores o encargados de los establecimientos mencionados, están obligados a mostrar la licencia o permiso vigente emitido por la autoridad a la que le corresponde la seguridad y prevención de accidentes, al personal dé la Coordinación.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+Los propietarios, administradores o encargados de los establecimientos mencionados, están obligados a mostrar la licencia o permiso vigente emitido por la autoridad a la que le corresponde la seguridad y prevención de accidentes, al personal de la Dirección.
 
 ###### Artículo 38.
 
@@ -549,13 +611,19 @@ Es obligación de los propietarios, arrendatarios o usufructuarios de terrenos b
 
 Para la prevención de accidentes, la comunidad en general deberá:
 
-I.- Reportar todo tipo de riesgo a la Coordinación;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+I.- Reportar todo tipo de riesgo a la Dirección;
 
 II.- Evitar el trasvase de gas fuera de la planta distribuidora, esto es, a través del trasvase de pipa a vehículo, de cilindro doméstico a vehículo; de tanque: estacionario a cilindros menores, así como evitar el tener más de un tanque estacionario dentro de un domicilio;
 
-III.- Solicitar a la Coordinación, asesoría para la quema de pastos y actividades similares; y;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-IV.- Si una zona habitacional está considerada como zona de riesgo; solicitar la revisión debida a la Coordinación.
+III.- Solicitar a la Dirección, asesoría para la quema de pastos y actividades similares; y;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+IV.- Si una zona habitacional está considerada como zona de riesgo, solicitar la revisión debida a la Dirección.
 
 ###### Artículo 40.
 
@@ -569,7 +637,9 @@ II. Los dispositivos de protección civil comprenderán el sitio y el perímetro
 
 III. La utilización de tribunas, templetes u otras estructuras temporales en el área del evento o espectáculo, obligará al organizador a presentar un dictamen estructural de las instalaciones y carta responsiva del profesionista que lo haya elaborado;
 
-IV. Las modificaciones y adecuaciones físicas que se realicen en el lugar del evento o, espectáculo, serán supervisadas por la Coordinación;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+IV. Las modificaciones y adecuaciones físicas que se realicen en el lugar del evento o espectáculo, serán supervisadas por la Dirección;
 
 V. Contar con áreas especificas para la concentración de personas en caso de evacuación;
 
@@ -577,31 +647,45 @@ VI. Los servicios médicos, señalamientos y servicios sanitarios deberán ser p
 
 VII. El organizador o responsable del evento deberá contratar una póliza de seguro de responsabilidad civil con la cobertura suficiente para atender los daños que pudieran sufrir los asistentes al evento y terceras personas, por emergencias o siniestros que con motivo del mismo se presenten; y
 
-VIII. Los organizadores serán responsables de ejecutar las demás acciones que se requieran para la salvaguarda y desarrollo del evento, y sean dispuestas por la Coordinación.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+VIII. Los organizadores personas físicas, morales, o autoridades municipales, estatales o federales y partidos o asociaciones políticas serán responsables de ejecutar las demás acciones que se requieran para la salvaguarda y desarrollo del evento, y sean dispuestas por la Dirección.
 
 ###### Artículo 41.
 
 La autorización de los Programas Especiales de Protección Civil en eventos masivos o espectáculos públicos, se sujetará a las reglas siguientes, sin perjuicio de las establecidas en otras disposiciones u ordenamientos municipales:
 
-I. Tratándose de eventos con asistencia estimada de 500 a 2,500 personas, el organizador del evento o espectáculo deberá presentar el programa ante la Coordinación para su aprobación, con una anticipación de por lo menos diez días hábiles a la realización del evento.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-El programa deberá ser revisado y en su caso, aprobado por la Coordinación hasta cinco días hábiles anteriores al evento. En caso de que la Coordinación hiciere observaciones al programa propuesto, el mismo será aprobado hasta en tanto el organizador de cumplimiento a las adecuaciones que de aquellas se deriven.
+I. Tratándose de eventos con asistencia estimada de 500 a 2,500 personas, el organizador del evento o espectáculo deberá presentar el programa interno de Protección Civil ante la Dirección para su aprobación, con una anticipación de por lo menos diez días hábiles a la realización del evento.
 
-II. Tratándose de eventos o espectáculos con un número probable de asistentes de 2,500 a 10,000 personas, el organizador deberá presentar ante la Coordinación, el programa especial de protección civil que proponga, con quince días hábiles de anticipación a la celebración del espectáculo, especificando tiempos y actividades del mismo.
+El programa interno de Protección Civil deberá ser revisado y en su caso, aprobado por la Dirección hasta cinco días hábiles anteriores al evento.
 
-Dentro de los cinco días hábiles siguientes a la recepción del programa propuesto, la Coordinación efectuará visita de inspección al lugar en que se vaya a realizar el evento, para lo cual emitirá un dictamen aprobando el programa dentro del plazo de cinco días hábiles, contados a partir de la realización de la inspección.
+En caso de que la Dirección hiciere observaciones al programa propuesto, el mismo será aprobado hasta en tanto el organizador dé cumplimiento a las adecuaciones que de aquellas se deriven.
 
-En caso de que la Coordinación hiciere observaciones al programa propuesto, el mismo será aprobado hasta en tanto el organizador de cumplimiento a las adecuaciones que de aquellas se deriven.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-III. Tratándose de eventos masivos o espectáculos públicos, con asistencia mayor a 10,000 personas, el organizador deberá presentar ante la Coordinación, con por lo menos treinta días hábiles antes de la celebración del evento, el programa especial de protección civil que proponga.
+II. Tratándose de eventos o espectáculos con un número estimado de asistentes de 2,500 a 10,000 personas, el organizador deberá presentar ante la Dirección, el programa interno de Protección Civil que proponga, con quince días hábiles de anticipación a la celebración del espectáculo, especificando tiempos y actividades del mismo.
 
-Dentro de un lapso de diez días hábiles posteriores a la recepción del programa y de la documentación correspondiente, la Coordinación recabará la opinión de las instituciones y organismos auxiliares en materia de protección civil que estime adecuados y ordenará la inspección del lugar en donde se vaya a verificar el evento.
+Dentro de los cinco días hábiles siguientes a la recepción del programa propuesto, la Dirección efectuará visita de inspección al lugar en que se vaya a realizar el evento, para lo cual emitirá un dictamen aprobando el programa dentro del plazo de cinco días hábiles, contados a partir de la realización de la inspección.
 
-Cumplido lo anterior, la Coordinación emitirá un dictamen aprobando el programa o haciendo las observaciones que juzgue pertinentes, haciéndolo saber al organizador, a efecto de que dentro de un plazo máximo de cinco días hábiles de cumplimiento a las mismas. En caso afirmativo, otorgará la aprobación correspondiente.
+En caso de que la Dirección hiciere observaciones al programa propuesto, el mismo será aprobado hasta en tanto el organizador dé cumplimiento a las adecuaciones que de aquellas se deriven.
 
-IV. En el caso de eventos no programados de conformidad a los artículos anteriores, el organizador será responsable del pago de cualquier gasto que se origine con motivo de las medidas de prevención, mitigación y auxilio que implemente la Coordinación.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-V. Tratándose de situaciones imprevistas que motiven grandes concentraciones de personas, que impliquen riesgos para su seguridad e integridad física ante la falta de un Programa Especial de Protección Civil, la Coordinación implementará todas aquellas medidas de prevención, mitigación y auxilio que en su caso resulten necesarias.
+III. Tratándose de eventos masivos o espectáculos públicos, con asistencia mayor a 10,000 personas, el organizador deberá presentar ante la Dirección, con por lo menos treinta días hábiles antes de la celebración del evento, el programa interno de Protección Civil que proponga.
+
+Dentro de un lapso de diez días hábiles posteriores a la recepción del programa y de la documentación correspondiente, la Dirección recabará la opinión de las instituciones y organismos auxiliares en materia de protección civil que estime adecuados y ordenará la inspección del lugar en donde se vaya a verificar el evento.
+
+Cumplido lo anterior, la Dirección emitirá un dictamen aprobando el programa o haciendo las observaciones que juzgue pertinentes, haciéndolo saber al organizador, a efecto de que dentro de un plazo máximo de cinco días hábiles de cumplimiento a las mismas. En caso afirmativo, otorgará la aprobación correspondiente.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+IV.- En el caso de eventos no programados de conformidad a los artículos anteriores, el organizador será responsable del pago de cualquier gasto que se origine con motivo de las medidas de prevención, mitigación y auxilio que implemente la Dirección.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+V.- Tratándose de situaciones imprevistas que motiven concentraciones masivas de personas, que impliquen riesgos para su seguridad e integridad física, ante la falta de un Programa Especial de Protección Civil, la Dirección implementará todas aquellas medidas de prevención, mitigación y auxilio que en su caso resulten necesarias.
 
 ###### Artículo 42.
 
@@ -635,11 +719,15 @@ III.- Contar con los extintores según las características del inmueble;
 
 IV.- Disponer de la señalización correspondiente a la materia; y
 
-V.- Solicitar asesoría a la Coordinación, a fin de prevenir accidentes.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+V.- Solicitar asesoría a la Dirección, a fin de prevenir accidentes;
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 44.
 
-Para la ejecución de tareas de salvamento y auxilio de la población, el Municipio podrá contar con una corporación de bomberos y rescate, misma que será regida y coordinada por la Coordinación.
+Para la ejecución de tareas de salvamento y auxilio de la población, el Municipio podrá contar con una corporación de bomberos y rescate, misma que será regida y coordinada por la Dirección.
 
 ###### Artículo 45.
 
@@ -649,9 +737,11 @@ Es obligación de los responsables o dueños de camiones pipa, destinados al aca
 
 Con la autorización de cualquier integrante de la Directiva del Consejo Municipal de Protección Civil, es obligación de los responsables de los establecimientos de expendio de combustible, proveer del mismo a las unidades de emergencia debidamente identificadas, que en los momentos de una emergencia o desastre requieran de dicho combustible para llevar a cabo las actividades de auxilio; el valor del combustible será restituido por la Autoridad Municipal después de haber atendido la emergencia.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 47.
 
-Los elementos de la corporación de bomberos y rescate, y demás personal adscrito a la Coordinación, deberá portar fielmente uniforme, placa o identificación personal cuando se encuentren en servicio; los vehículos autorizados para el servicio de sus funciones, deberán distinguirse con los colores, emblemas, logotipos, y numero de identificación que determine la Autoridad Municipal correspondiente.
+Los elementos de la corporación de bomberos y rescate, y demás personal adscrito a la Dirección, deberá portar fielmente uniforme, placa o identificación personal cuando se encuentren en servicio; los vehículos autorizados para el servicio de sus funciones, deberán distinguirse con los colores, emblemas, logotipos, y número de identificación que determine la Autoridad Municipal correspondiente.
 
 ### CAPITULO VIII. DEL PROGRAMA MUNICIPAL DE PROTECCIÓN CIVIL
 
@@ -699,13 +789,15 @@ El subprograma de prevención agrupará las acciones tendientes a evitar mitigar
 
 El subprograma de prevención deberá contener:
 
-I.-Los estudios, investigaciones y proyectos de protección civil a ser realizados;
+I.- Los estudios, investigaciones y proyectos de protección civil a ser realizados;
 
 II.- Los criterios para integrar el mapa de riesgos;
 
 III.- Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;
 
-IV.- Las acciones que la Coordinación deberá ejecutar para proteger a las personas y sus bienes;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+IV.- Las acciones que la Dirección deberá ejecutar para proteger a las personas y sus bienes;
 
 V.- El inventario de los recursos disponibles;
 
@@ -753,7 +845,7 @@ La declaratoria de emergencia hará mención expresa entre otros, de los siguien
 
 I.- Identificación del alto riego, emergencia o desastre;
 
-II.-Infraestructura, bienes y sistemas afectables;
+II.- Infraestructura, bienes y sistemas afectables;
 
 III.- Determinación de las acciones de prevención y auxilio;
 
@@ -789,9 +881,11 @@ La denuncia popular es el instrumento jurídico que tienen los habitantes de és
 
 Para que la acción popular proceda, bastará que la persona que la ejercite aporte los datos necesarios para su identificación y una relación de los hechos que se denuncian.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 67.
 
-Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmediato a la Coordinación, quien procederá conforme a este Reglamento. Lo anterior, sin perjuicio de que la autoridad receptora tome las medidas de urgencia necesarias para evitar que se ponga en riesgo la salud pública y/o la integridad y/o patrimonio de las personas.
+Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmediato a la Dirección, quien procederá conforme a este Reglamento. Lo anterior, sin perjuicio de que la autoridad receptora tome las medidas de urgencia necesarias para evitar que se ponga en riesgo la salud pública y/o la integridad y/o patrimonio de las personas.
 
 ###### Artículo 68.
 
@@ -799,17 +893,21 @@ Las Autoridades Municipales, en los términos de este reglamento, atenderán de 
 
 ### CAPITULO XII. DE LAS INSPECCIONES Y MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 69.
 
-La Coordinación tendrá amplias facultades de inspección y vigilancia para prevenir o controlar la posibilidad de emergencias y desastres, sin perjuicio de las facultades que se confieran a otras dependencias de la Administración Pública Federal y Estatal.
+La Dirección tendrá amplias facultades de inspección y vigilancia para prevenir o controlar la posibilidad de emergencias y desastres, sin perjuicio de las facultades que se confieran a otras dependencias de la Administración Pública Federal y Estatal y las que corresponden al C. Presidente Municipal.
 
-La Coordinación vigilará en el ámbito de su competencia, el cumplimiento del presente reglamento y demás disposiciones que se dicten con base en él y aplicar las medidas de seguridad que correspondan.
+La Dirección vigilará en el ámbito de su competencia, el cumplimiento del presente reglamento y demás disposiciones que se dicten con base en él y aplicar las medidas de seguridad que correspondan.
 
 ###### Artículo 70.
 
 Las inspecciones de Protección Civil, tienen el carácter de visitas domiciliarias; por lo que los propietarios, administradores o encargados de los establecimientos señalados por este Reglamento y los propietarios, ocupantes o encargados de inmuebles u obras, están obligados permitirlas, así como a proporcionar toda clase de información necesaria para el desahogo de las mismas.
 
-Los inspectores o personal que designe el Coordinador de Protección Civil, para el cumplimiento y observancia del presente reglamento, estarán autorizados para levantar las actas, notificaciones y aplicar clausuras de establecimientos en caso de violación a cualquier artículo de este Reglamento, en observancia de lo dispuesto para cada caso por el Coordinador de Protección Civil Municipal.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+Los inspectores o personal que designe el Director de Protección Civil, para el cumplimiento y observancia del presente reglamento, estarán autorizados para levantar las actas, notificaciones y aplicar clausuras de establecimientos en caso de violación a cualquier artículo de este Reglamento, en observancia de lo dispuesto para cada caso por el Director de Protección Civil Municipal.
 
 A los inspectores o personal designados para llevar a cabo la inspección y vigilancia, se les confieren las siguientes atribuciones:
 
@@ -835,9 +933,13 @@ V.- De toda visita se levantará acta circunstanciada por triplicado, cuyas foja
 
 VI.- En el acta que se levante por motivo de la inspección se hará constar las circunstancias de la diligencia, las deficiencias o irregularidades observadas;
 
-VII.- El inspector deberá hacer constar en el acta, la violación al Reglamento, indicando al presunto infractor que cuenta con cinco días hábiles para impugnar, por escrito, ante la Coordinación la constancia de infracción y que en caso de inconformidad con tal evento, deberá exhibir las pruebas que estimen conducentes; por lo que se hará entrega de una copia del acta a la persona con quien se entendió la diligencia; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-VIII.- El original y la copia del acta de inspección se entregarán al Coordinador.
+VII.- El inspector deberá hacer constar en el acta, la violación al Reglamento, indicando al presunto infractor que cuenta con cinco días hábiles para impugnar, por escrito, ante la Dirección la constancia de infracción y que en caso de inconformidad con tal evento, deberá exhibir las pruebas que estimen conducentes; por lo que se hará entrega de una copia del acta a la persona con quien se entendió la diligencia; y
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+VIII.- El original y la copia del acta de inspección se entregarán al Director.
 
 ###### Artículo 72.
 
@@ -863,27 +965,41 @@ VII.- El auxilio de la fuerza pública; y
 
 VIII.- La emisión de mensajes de alerta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 74.
 
-Cuando en los establecimientos se realicen actos que constituyan riesgo a juicio de la Coordinación, esta autoridad, en el ámbito de su competencia, procederá como sigue:
+Cuando en los establecimientos se realicen actos que constituyan riesgo a juicio de la Dirección, esta autoridad, en el ámbito de su competencia, procederá como sigue:
 
 I.- Se procederá a la suspensión de la construcción, servicios o de las obras o acto relativo a ordenar el desalojo del inmueble y a aplicar las medidas de seguridad que resulten· procedentes, enunciadas en este ordenamiento;
 
-II.- Se amonestará al propietario, responsable, encargado u ocupante del establecimiento, para que se apliquen las recomendaciones de la Coordinación, a fin de que se evite o se extinga el riesgo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-III.- En caso de que el riesgo se hubiera producido por la negligencia o irresponsabilidad del propietario, responsable, encargado u ocupante, en el manejo o uso de materiales, de personas o por no haber sido atendidas las recomendaciones de la autoridad competente, la Coordinación, sin perjuicio de que se apliquen las medidas de seguridad o sanciones que se establezcan en este u otro ordenamiento, impondrá multa a quien resultase responsable;
+II.- Se amonestará al propietario, responsable, encargado u ocupante del establecimiento, para que se apliquen las recomendaciones de la Dirección, a fin de que se evite o se extinga el riesgo;
 
-IV.- Cuando no obstante la aplicación de las medidas a que se refieren las tres fracciones anteriores, no se hubiera evitado o extinguido el riesgo, la Coordinación, previa audiencia del interesado, procederá en su caso, a la clausura de los establecimientos, hasta en tanto no se demuestre que dicho riesgo ha sido definitivamente superado; y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-V.- En caso de que la Coordinación determine, que por motivos de su naturaleza resulte imposible la suspensión de la construcción obra o acto relativo o la clausura de los establecimientos, se publicarán avisos a cuenta del propietario o responsable, en uno de los diarios de mayor circulación en el Municipio o del área metropolitana, advirtiendo a la población de los riesgos.
+III.- En caso de que el riesgo se hubiera producido por la negligencia o irresponsabilidad del propietario, responsable, encargado u ocupante, en el manejo o uso de materiales, de personas o por no haber sido atendidas las recomendaciones de la autoridad competente, la Dirección, sin perjuicio de que se apliquen las medidas de seguridad o sanciones que se establezcan en este u otro ordenamiento, impondrá multa a quien resultase responsable;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+IV.- Cuando no obstante la aplicación de las medidas a que se refieren las tres fracciones anteriores, no se hubiera evitado o extinguido el riesgo, la Dirección, previa audiencia del interesado, procederá en su caso, a la clausura de los establecimientos, hasta en tanto no se demuestre que dicho riesgo ha sido definitivamente superado; y
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+V.- En caso de que la Dirección determine, que por motivos de su naturaleza resulte imposible la suspensión de la construcción obra o acto relativo o la clausura de los establecimientos, se publicarán avisos a costa del propietario o responsable, en uno de los diarios de mayor circulación en el Municipio o del área metropolitana, advirtiendo a la población de los riesgos.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 75.
 
-Cuando en los establecimientos se presenten emergencias o desastres, inherentes a los actos, servicios o funcionamiento de los mismos, la Coordinación procederá de inmediato a la desocupación del inmueble, a la suspensión de las actividades y a clausurar los lugares en donde se realicen, imponiendo además cualquier otra medida de seguridad y sanción que resulte aplicable de acuerdo a este ordenamiento. Lo anterior, sin perjuicio de que se apliquen las demás medidas de seguridad y sanciones que establezcan las demás leyes o reglamentos.
+Cuando en los establecimientos se presenten emergencias o desastres, inherentes a los actos, servicios o funcionamiento de los mismos, la Dirección procederá de inmediato a la desocupación del inmueble, a la suspensión de las actividades y a clausurar los lugares en donde se realicen, imponiendo además cualquier otra medida de seguridad y sanción que resulte aplicable de acuerdo a este ordenamiento. Lo anterior, sin perjuicio de que se apliquen las demás medidas de seguridad y sanciones que establezcan las demás leyes o reglamentos.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 76.
 
-Las obras que se ordenen por parte de la Coordinación, para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado u ocupante del establecimiento, sin perjuicio de que sea la propia autoridad quien las realice en rebeldía del obligado. En este último caso, además del cobro de las cantidades correspondientes, se aplicarán las sanciones económicas que correspondan.
+Las obras que se ordenen por parte de la Dirección, para evitar, extinguir, disminuir o prevenir riesgos, altos riesgos, emergencias o desastres, así como las que se realicen para superarlos, serán a cargo del propietario, responsable, encargado u ocupante del establecimiento, sin perjuicio de que sea la propia autoridad quien las realice en rebeldía del obligado. En este último caso, además del cobro de las cantidades correspondientes, se aplicarán las sanciones económicas que correspondan.
 
 Tanto las sanciones económicas, como en su caso, las cantidades por el concepto de cobros por obras realizadas en rebeldía de los obligados, se consideran créditos fiscales y serán cobrados mediante el procedimiento económico-coactivo de ejecución, por la Secretaría de Finanzas y Tesorería Municipal.
 
@@ -933,15 +1049,19 @@ p) Deberá contar con todos los señalamientos restrictivos, informativos y de e
 
 q) Las demás disposiciones que determinen las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 79.
 
-La quema de juegos pirotécnicos solo se podrá realizar cuando la persona que fabricó dichos artificios cuente con el permiso general expedido por la Secretaría de la Defensa Nacional, para lo cual deberán solicitar la autorización de la Coordinación, por lo menos catorce días hábiles de anticipación a la fecha del evento.
+La quema de juegos pirotécnicos sólo se podrá realizar cuando la persona que fabricó dichos artificios cuente con el permiso general expedido por la Secretaría de la Defensa Nacional, para lo cual deberán solicitar la autorización de la Dirección, por lo menos seis días hábiles de anticipación a la fecha del evento.
 
-No se permitirá la quema de juegos pirotécnicos y pólvora en recintos cerrados ni en lugares que por sus características o su ubicación en una zona de riesgo, conforme al Atlas Municipal de Riesgos o al dictamen que emita la Coordinación al respecto, representen un peligro para las personas o sus bienes.
+No se permitirá la quema de juegos pirotécnicos y pólvora en recintos cerrados ni en lugares que por sus características o su ubicación en una zona de riesgo, conforme al Atlas Municipal de Riesgos o al dictamen que emita la Dirección al respecto, representen un peligro para las personas o sus bienes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 80.
 
-Los organizadores o promotores de espectáculos tradicionales, folklóricos o populares que pretendan realizar la quema de artificios pirotécnicos, sin importar la cantidad de material explosivo, deberán solicitar la autorización de la Coordinación, por lo menos catorce días hábiles de anticipación a la fecha del evento, mediante los formatos que para tal efecto se expidan, acompañados de los siguientes datos y documentos:
+Los organizadores o promotores de espectáculos tradicionales, folklóricos o populares que pretendan realizar la quema de artificios pirotécnicos, sin importar la cantidad de material explosivo, deberán solicitar la autorización de la Dirección, por lo menos catorce días hábiles de anticipación a la fecha del evento, mediante los formatos que para tal efecto se expidan, acompañados de los siguientes datos y documentos:
 
 I. Nombre y domicilio del solicitante;
 
@@ -953,17 +1073,23 @@ IV. Procedimiento para la atención de emergencias; y
 
 V. Croquis del lugar donde se realizará la quema, que abarque un radio de quinientos metros cuadrados.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 81.
 
-En caso de que el interesado cumpla con los requisitos señalados en el artículo anterior, la Coordinación podrá practicar inspecciones en el lugar en donde se pretenda llevar a cabo la quema de juegos pirotécnicos y pólvora, a efecto de determinar las medidas de seguridad indispensables que deban implementarse en el lugar por parte del interesado.
+En caso de que el interesado cumpla con los requisitos señalados en el artículo anterior, la Dirección podrá practicar inspecciones en el lugar en donde se pretenda llevar a cabo la quema de juegos pirotécnicos y pólvora, a efecto de determinar las medidas de seguridad indispensables que deban implementarse en el lugar por parte del interesado.
 
-La Coordinación tendrá un término de siete días hábiles a partir de la práctica de la inspección para emitir la autorización correspondiente.
+La Dirección tendrá un término de siete días hábiles, a partir de la práctica de la inspección para emitir la autorización correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 82.
 
-Para obtener la conformidad del Presidente Municipal, tratándose de los permisos que otorga la Secretaría de la Defensa Nacional, para la fabricación, compraventa, distribución y almacenamiento de armas de fuego y municiones, pólvoras, explosivos, artificios o de sustancias químicas relacionadas con dichas actividades, el interesado deberá solicitarlo a la Coordinación, presentando lo siguiente:
+Para obtener la conformidad del Presidente Municipal, tratándose de los permisos que otorga la Secretaría de la Defensa Nacional, para la fabricación, compraventa, distribución y almacenamiento de armas de fuego y municiones, pólvoras, explosivos, artificios o de sustancias químicas relacionadas con dichas actividades, el interesado deberá solicitarlo a la Dirección, presentando lo siguiente:
 
-I. Solicitud por escrito en los formatos que establezca la Coordinación, debidamente requisitada, que deberá contener, entre otros, los datos generales del solicitante y el tipo de actividad que pretende desarrollar.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+I. Solicitud por escrito en los formatos que establezca la Dirección, debidamente requisitada, que deberá contener, entre otros, los datos generales del solicitante y el tipo de actividad que pretende desarrollar;
 
 II. Identificación oficial si el solicitante es persona física o copia certificada del documento que acredite el carácter con el que se ostenta, tratándose de persona moral;
 
@@ -977,9 +1103,11 @@ VI. Estudio de impacto ambiental emitido por perito legalmente autorizado en la 
 
 VII. Estudio de impacto de riesgo/vulnerabilidad emitido por perito legalmente autorizado en la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 83.
 
-Para obtener la conformidad del Presidente Municipal, tratándose de la renovación o revalidación de los permisos que otorgue la Secretaría de la Defensa Nacional, para la realización de las actividades a que se refiere el artículo anterior, el interesado deberá solicitarlo a la Coordinación, adjuntando la solicitud, con los siguientes datos y documentos:
+Para obtener la conformidad del Presidente Municipal, tratándose de la renovación o revalidación de los permisos que otorgue la Secretaría de la Defensa Nacional, para la realización de las actividades a que se refiere el artículo anterior, el interesado deberá solicitarlo a la Dirección, adjuntando la solicitud, con los siguientes datos y documentos:
 
 I. Copia certificada del permiso general que ampare las actividades que pretenda desarrollar,
 
@@ -989,15 +1117,17 @@ III. Formatos autorizados· por la Secretaría de la Defensa Nacional, debidamen
 
 Cuando se demuestre que el interesado proporcionó datos o documentos falsos para obtener la conformidad a que se refieren el presente artículo y el anterior, la misma carecerá de efecto legal alguno.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 84.
 
-Para determinar la conveniencia del otorgamiento de la conformidad, la Coordinación podrá solicitar la elaboración de estudios, peritajes o dictámenes técnicos que sobre las condiciones y medidas de seguridad del lugar estime conveniente, tomando en consideración la naturaleza de la actividad que se pretenda desarrollar.
+Para determinar la conveniencia del otorgamiento de la conformidad, la Dirección podrá solicitar la elaboración de estudios, peritajes o dictámenes técnicos que sobre las condiciones y medidas de seguridad del lugar estime conveniente, tomando en consideración la naturaleza de la actividad que se pretenda desarrollar.
 
-Asimismo, solicitará al Cuerpo de Bomberos la práctica de una visita de inspección para verificar las condiciones y medidas de seguridad del lugar. Si el resultado de la inspección fuere en el sentido de que el lugar no reúne las condiciones mínimas de seguridad y mitigación de riesgos, se notificará tal circunstancia al interesado, indicándole las medidas que deban implementarse.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 85.
 
-Cubiertos los requisitos a que se refiere el artículo 81 del presente Reglamento y, en su caso, satisfechas las observaciones derivadas de la inspección realizada por el Cuerpo de Bomberos, el Presidente Municipal resolverá sobre el otorgamiento de la conformidad con base en el dictamen técnico que emita la Coordinación.
+Cubiertos los requisitos a que se refiere el artículo 81 del presente Reglamento y, en su caso, satisfechas las observaciones derivadas de la inspección realizada por el Cuerpo de Bomberos, el Presidente Municipal resolverá sobre el otorgamiento de la conformidad con base en el dictamen técnico que emita la Dirección.
 
 ###### Artículo 86.
 
@@ -1057,13 +1187,19 @@ c).- Si se colocan andamios, lo descrito en la fracción II.
 
 DEL USO, MANEJO E INSTALACIONES DE GAS L.P.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 88.
 
-Los puestos ubicados en la vía pública y en los tianguis, que cuenten con instalaciones eléctricas o de cualquier combustible, deberán de mantenerlas en perfectas condiciones, a fin de evitar riesgos para las personas o sus bienes. La Coordinación, como medida de seguridad en los términos de este Reglamento, podrá proceder al retiro de esas instalaciones, cuando por su estado físico de conexión representen un riesgo inminente. Asimismo, en los puestos a que se refiere este artículo, se deberá tener un extintor, cuyas características determinará la Coordinación debiéndose contar con la capacitación para su manejo.
+Los puestos que cuenten con autorización y se encuentren ubicados en la vía pública y en los tianguis, que cuenten con instalaciones eléctricas o de cualquier combustible, deberán de mantenerlas en perfectas condiciones, a fin de evitar riesgos para las personas o sus bienes. De no contar con autorización, a solicitud ciudadana o por resolución de la autoridad, serán retirados.
+
+La Dirección, como medida de seguridad en los términos de este Reglamento, podrá proceder al retiro de esas instalaciones, cuando por su estado físico o de conexión representen un riesgo inminente. Asimismo, en los puestos a que se refiere este artículo, se deberá tener un extintor, cuyas características determinará la Dirección debiéndose contar con la capacitación para su manejo.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 89.
 
-Los comerciantes que en puestos semifijos en la vía pública utilicen gas L.P. para su actividad, deberán emplear tanques portátiles con capacidad no mayor a veinte kilogramos; los ambulantes deberán utilizar tanques con capacidad no mayor de diez kilogramos. En ambos casos, se deberá utilizar manguera con recubrimiento de malla metálica, regulador y en el caso de los semifijos estar a una distancia no menor de dos metros de una fuente de calor. Tratándose de carros con estructuras no convencionales, podrán funcionar previa evaluación de la Coordinación. En las instalaciones, a que se refiere este artículo se deberá contar con un extintor que sea vigente y de seis kilogramos y así mismo contar con la capacitación para su manejo.
+Los comerciantes que en puestos semifijos en la vía pública utilicen gas L.P. para su actividad, deberán emplear tanques portátiles con capacidad no mayor a veinticinco kilogramos; los ambulantes deberán utilizar tanques con capacidad no mayor de diez kilogramos. En ambos casos, se deberá utilizar manguera con recubrimiento de malla metálica, regulador y en el caso de los semifijos estar a una distancia no menor de dos metros de una fuente de calor. Tratándose de carros con estructuras no convencionales, podrán funcionar previa evaluación de la Dirección. En las instalaciones a que se refiere este artículo se deberá contar con un extintor que sea vigente y de seis kilogramos y así mismo contar con la capacitación para su manejo.
 
 ###### Artículo 90.
 
@@ -1079,9 +1215,11 @@ IV. Queda prohibido tener tanques de gas, tanques estacionarios, quemadores, com
 
 ### CAPITULO XV. DE LAS SANCIONES
 
-###### Artículo 91.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-Es competente para imponer las sanciones a que se refiere el presente capítulo el Coordinador de Protección Civil Municipal.
+###### Articulo 91.
+
+Es competente para imponer las sanciones a que se refiere el presente capítulo el Director de Protección Civil Municipal.
 
 ###### Artículo 92.
 
@@ -1105,9 +1243,13 @@ I.- Amonestación;
 
 II.- Clausura temporal o definitiva, total o parcial de los establecimientos;
 
-III.- Multa equivalente al monto de 20 a 1,000 días de salario mínimo general, vigente en la zona económica a la que pertenece el Municipio al momento de la comisión, de la infracción;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-IV.- En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de los 2,000 días de salario mínimo general, así como la clausura definitiva;
+III.- Multa equivalente al monto de 30 a 5,000 días de salario mínimo general, vigente en la zona económica a la que pertenece el Municipio al momento de la comisión de la infracción;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+IV.- En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de 10,000 días de salario mínimo general, así como la clausura definitiva;
 
 V.- Suspensión de obras, instalaciones o servicios; y
 
@@ -1125,9 +1267,13 @@ II.- Quienes ejecuten orden o favorezcan las acciones u omisiones constitutivas 
 
 La imposición de sanciones se hará sin perjuicio de la responsabilidad que conforme a otras leyes corresponda al infractor.
 
-Recibida un acta de visita de inspección por el Coordinador de Protección Civil. Municipal y si de la misma se presume infracción al presente reglamento, a fin de determinar la comisión de una o varias infracciones, se citará al propietario o representante legal de la negociación inspeccionada. Para lo anterior, se fijará fecha y hora a fin de que tenga verificativo una audiencia de pruebas y alegatos;
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
-Debiendo el interesado dirigirse a la Coordinación por escrito a la audiencia en la cual se desahogarán todas las pruebas ofrecidas que no requieren especial desahogo por ser de previo y especial pronunciamiento y que tengan relación inmediata y tendientes a desvirtuar los hechos consignados en el acta de vista de inspección y en este caso se recibirán por escrito los alegatos que se realicen.
+Recibida un acta de visita de inspección por el Director de Protección Civil Municipal si de la misma se presume infracción al presente reglamento, a fin de determinar la comisión de una o varias infracciones, se citará al propietario o representante legal de la negociación inspeccionada. Para lo anterior, se fijará fecha y hora a fin de que tenga verificativo una audiencia de pruebas y alegatos;
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+El interesado deberá dirigirse a la Dirección por escrito a la audiencia en la cual se desahogarán todas las pruebas ofrecidas que no requieren especial desahogo por ser de previo y especial pronunciamiento y que tengan relación inmediata y tendientes a desvirtuar los hechos consignados en el acta de vista de inspección y en este caso se recibirán por escrito los alegatos que se realicen.
 
 En caso de que sean admitidas de legales las pruebas periciales, testimoniales o confesionales, se suspenderá la audiencia de pruebas y alegatos, a fin de que puedan desahogarse tales probanzas, siguiendo para su desahogo el procedimiento establecido en el Código de Procedimientos Civiles vigente en el Estado de Nuevo León.
 
@@ -1145,7 +1291,9 @@ Si por el enlace de las pruebas rendidas y de las presunciones formadas, la auto
 
 El escrito de ofrecimiento de pruebas deberá contener:
 
-I.- Nombre y domicilio del propietario de la negociación inspeccionada y en su caso, de quien promueve en su representación; si fuesen varios los propietarios, el nombre y él domicilio de su representante común;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2010)</small>
+
+I.- Nombre y domicilio que se ubique dentro del territorio del municipio del propietario de la negociación inspeccionada y en su caso, de quien promueve en su representación; si fuesen varios los propietarios, el nombre y el domicilio de su representante común;
 
 II.- El interés legitimo y especifico que asiste al propietario;
 
@@ -1157,9 +1305,11 @@ V.- Las pruebas que se ofrezcan y que tengan relación inmediata y directa con l
 
 VI.- El lugar y fecha de promoción.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 97.
 
-Dentro de un término no mayor de 15-quince días, hábiles después de concluida la audiencia de pruebas y de alegatos, la Coordinación determinará la existencia o inexistencia en su caso, de una o varias infracciones al presente Reglamento.
+Dentro de un término no mayor de 15-quince días hábiles después de concluída la audiencia de pruebas y de alegatos, la Dirección determinará la existencia o inexistencia en su caso, de una o varias infracciones al presente Reglamento.
 
 ###### Artículo 98.
 
@@ -1175,13 +1325,17 @@ IV.- La reincidencia en su caso.
 
 ### CAPITULO XVI. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 99.
 
-Contra los actos y resoluciones del Coordinador de Protección Civil Municipal, dictados con motivo de la aplicación de este reglamento, los interesados podrán imponer recurso de inconformidad.
+Contra los actos y resoluciones del Director de Protección Civil Municipal, dictados con motivo de la aplicación de este reglamento, los interesados podrán imponer recurso de inconformidad.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 100.
 
-El recurso de inconformidad es el que tiene por objeto que la autoridad, confirme revoque o modifique a solicitud de la parte interesada, una resolución o actos de la Coordinación.
+El recurso de inconformidad es el que tiene por objeto que la autoridad, confirme revoque o modifique a solicitud de la parte interesada, una resolución o actos de la Dirección.
 
 ###### Artículo 101.
 
@@ -1213,7 +1367,7 @@ El término para el desahogo de las pruebas ofrecidas, será el de 5-cinco días
 
 Dentro de un término no mayor a 15-quince días hábiles, después de concluir el periodo de pruebas, el Secretario Ejecutivo del Consejo Municipal de Protección Civil, mediante resolución debidamente fundada y motivada, confirmará, modificará o revocará el acto recurrido.
 
-### CAPITULO XVII. DEL PROCEDIMIENTO DE REVlSION Y CONSULTA
+### CAPITULO XVII. DEL PROCEDIMIENTO DE REVISION Y CONSULTA
 
 ###### Artículo 104.
 
@@ -1254,3 +1408,13 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2010.
+
+Artículo Primero.- Las presentes Reformas por Modificación, Derogación y Adición al Reglamento de Protección Civil de San Pedro Garza García, Nuevo León, entrarán en vigor al día de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal.
+
+Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+Artículo Tercero. Para lo no previsto por este Reglamento, se seguirá el procedimiento y se aplicará supletoriamente lo establecido en la Ley de Protección Civil para el Estado de Nuevo León y en el Código de Procedimientos Civiles vigente en el Estado de Nuevo León.
