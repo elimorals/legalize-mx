@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-440
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-31"
-last_updated: "2005-01-31"
+last_updated: "2010-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE, PUBLICADO EN EL P.O. DE 6 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario Bis del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de enero de 2005.
 
@@ -938,3 +940,13 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ
 EL SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
 ING. JORGE MARIANO MORALES CALZADA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano y Medio Ambiente, publicado en el Periódico Oficial del Estado de Quintana Roo, el día 31 de enero del año 2005.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Reglamento.
