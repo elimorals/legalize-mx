@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2010-09-23"
+last_updated: "2010-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -641,9 +641,17 @@ XXVII. Fijar anualmente los gastos públicos y decretar las contribuciones con q
 
 XXVIII. Señalar y publicar, al aprobar el presupuesto de egresos, la retribución que corresponda a los empleos públicos establecidos por la ley. En caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo.
 
-Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de los organismos autónomos de Estado, debiendo estos rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
-Si al 31 de diciembre no se ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho período se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos y al gasto corriente de los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como para los organismos autónomos de Estado, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, en tanto se aprueba el nuevo;
+Al señalar las remuneraciones de servidores públicos deberá sujetarse a las bases previstas en el artículo 82 de esta Constitución.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos autónomos del Estado, deberán incluir, dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone que perciban sus servidores públicos. Estas propuestas deberán observar el mismo procedimiento que para la aprobación del presupuesto de egresos del estado.
+
+Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de los organismos autónomos de estado, debiendo éstos rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
+
+Si al 31 de diciembre no se ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho período se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos y al gasto corriente de los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como para los organismos autónomos de estado, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, en tanto se aprueba el nuevo.
 
 XXIX. Revisar las Cuentas Públicas del Gobierno del Estado y de los ayuntamientos con el apoyo del Órgano de Fiscalización Superior del Estado;
 
@@ -1865,7 +1873,9 @@ II. Las participaciones federales serán cubiertas a los municipios con arreglo 
 
 III. Cuando a juicio de los ayuntamientos sea necesario, podrán celebrar convenios con el Estado u otorgar concesiones a los particulares, para que aquél o éstos se hagan cargo temporalmente de la ejecución, la operación de obras y la prestación de servicios municipales o bien los presten coordinadamente con el Estado;
 
-IV. Los presupuestos de egresos serán aprobados por los ayuntamientos, según los ingresos disponibles, y conforme a las leyes que para tal efecto expida el Congreso del Estado;
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+IV. Los presupuestos de egresos serán aprobados por los ayuntamientos, según los ingresos disponibles y conforme a las leyes que para tal efecto expida el Congreso del Estado, y deberán incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, con sujeción a lo dispuesto en el artículo 82 de esta Constitución.
 
 V. El Congreso del Estado aprobará la ley de ingresos de los ayuntamientos y revisará sus cuentas públicas, cuando menos una vez al año;
 
@@ -2081,7 +2091,7 @@ La legislación determinará las obligaciones de los servidores públicos, los p
 
 ### CAPÍTULO III. DE LAS REFORMAS A LA CONSTITUCIÓN
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 80.
 
@@ -2099,15 +2109,29 @@ Cuando por circunstancias imprevistas no pueda instalarse el Congreso o el Gober
 
 Si el día que el Gobernador deba iniciar el ejercicio de sus funciones el Congreso del Estado no estuviere instalado, aquél rendirá protesta de inmediato ante el Presidente del Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 82.
 
-Los cargos públicos del Estado durarán el tiempo señalado por las leyes, y los que los obtengan no generarán derecho alguno a su favor para conservarlos. El pago de sueldos a los servidores públicos del Gobierno del Estado se efectuará con base en el principio de igualdad en rangos y funciones.
+Los cargos públicos del estado durarán el tiempo señalado por las leyes, y los que los obtengan no generarán derecho alguno a su favor para conservarlos.
 
-No podrán reunirse en una sola persona dos o más cargos de carácter remunerado del Estado, de éste y la Federación, del Estado y el municipio, y de éste último y la Federación, salvo previa autorización del Congreso o la Diputación Permanente en los términos que señale la ley. Quedan exceptuados de esta disposición, los empleos del ramo de la enseñanza y las consejerías o representaciones ante órganos colegiados.
+Los servidores públicos del estado, de sus municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y de cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
 
-Todos los servidores públicos del Estado y los municipios, al entrar a desempeñar sus cargos, harán la protesta formal de guardar y cumplir con la Constitución Federal, esta Constitución y las leyes que de ellas emanen.
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la del Presidente de la República ni a la del Gobernador del Estado, establecidas éstas en los presupuestos de egresos correspondientes.
+
+III. Ningún servidor público podrá tener una remuneración igualo mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivada de un trabajo técnico calificado o por especialización en su función; la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República ni de la mitad de la señalada para el Gobernador del Estado, en los presupuestos correspondientes.
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que se encuentren asignados por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo como en especie.
+
+No podrán reunirse en una sola persona dos o más cargos de carácter remunerado del estado, de éste y la Federación, del estado y el municipio, y de este último y la Federación, salvo previa autorización del Congreso o la diputación permanente en los términos que señale la ley. Quedan exceptuados de esta disposición, los empleos del ramo de la enseñanza y las consejerías o representaciones ante órganos colegiados.
+
+Todos los servidores públicos del estado y los municipios, al entrar a desempeñar sus cargos, harán la protesta formal de guardar y cumplir con la Constitución Federal, esta Constitución y las leyes que de ellas emanen.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -2129,9 +2153,11 @@ III. El último Presidente del Tribunal Superior de Justicia.
 
 ###### Artículo 84.
 
-Esta Constitución podrá ser reformada en todo o en parte por el Congreso del Estado. Las reformas deberán ser aprobadas en dos períodos de sesiones ordinarios sucesivos, por el voto de las dos terceras partes de los miembros del Congreso.
+Esta Constitución podrá ser reformada en todo o en parte por el Congreso del Estado. Las reformas deberán ser aprobadas, por el voto de las dos terceras partes de los miembros del Congreso, en dos períodos de sesiones ordinarios sucesivos, excepto cuando las reformas tengan como propósito efectuar adecuaciones derivadas de un mandato de la Constitución Política de los Estados Unidos Mexicanos, en que se aprobarán en una sola sesión, ordinaria o extraordinaria, por la misma mayoría, para lo cual el Congreso declarará previamente que se trata de un procedimiento especial.
 
-Para que las reformas formen parte de esta Constitución, será necesaria la aprobación de la mayoría de los ayuntamientos, la que deberá darse en sesión extraordinaria de cabildo en un término improrrogable de noventa días naturales contados a partir del día siguiente a aquel en que reciban el proyecto.
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+Para que las reformas formen parte de esta Constitución será necesaria la aprobación de la mayoría de los ayuntamientos, la que deberá darse en sesión extraordinaria de Cabildo y comunicarse al Congreso o a la diputación permanente dentro de los sesenta días naturales siguientes a aquel en que reciban el proyecto. Se tendrán por aprobadas las reformas por parte de los ayuntamientos que, transcurrido el plazo conferido, no hubieren comunicado su acuerdo.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -2140,6 +2166,10 @@ Para la reforma total o la abrogación de las disposiciones contenidas en esta C
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
 
 El Congreso o la Diputación Permanente hará el cómputo de los votos de los ayuntamientos y, en su caso, la declaratoria de que han sido aprobadas las reformas.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+El procedimiento para las reformas constitucionales se reglamentará en la ley.
 
 ###### Artículo 85.
 
@@ -11862,6 +11892,38 @@ G.O. 23 DE SEPTIEMBRE DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 861, SE REFORMAN LOS PARRAFOS PRIMERO Y SEGUNDO, Y SE ADICIONA UN PARRAFO QUINTO, AL ARTICULO 84 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado expedirá la ley reglamentaria correspondiente; en tanto ello no ocurra, continuará aplicándose, en lo que no se oponga a este Decreto, la Ley Número 556 Reglamentaria del Artículo 84 de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, en Materia de Reformas Constitucionales Parciales, publicada en la Gaceta Oficial del estado el 12 de julio de 2006.
+
+Tercero. Los proyectos de reformas constitucionales que, al entrar en vigor el presente Decreto, aún no estén aprobados por el Congreso del Estado en un segundo período de sesiones ordinarias o, en su caso, por los ayuntamientos, dentro del plazo constitucional correspondiente, se tramitarán y concluirán conforme a las disposiciones vigentes al momento de la primera aprobación por parte del Congreso.
+
+G.O. 7 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 862, POR EL QUE SE REFORMAN LA FRACCION IV DEL ARTICULO 71 Y EL PARRAFO PRIMERO DEL ARTICULO 82; Y SE ADICIONAN DOS PARRAFOS, SEGUNDO Y TERCERO, A LA FRACCION XXVIII DEL ARTICULO 33, RECORRIENDOSE EN SU ORDEN LOS ACTUALES SEGUNDO Y TERCERO; Y LOS PARRAFOS SEGUNDO Y TERCERO, ESTE ULTIMO CON CINCO FRACCIONES, AL ARTICULO 82, RECORRIENDOSE EN SU ORDEN LOS ACTUALES SEGUNDO Y TERCERO, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Tercero. Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquel en que haya entrado en vigor este Decreto.
+
+Cuarto. A partir del ejercicio fiscal del año siguiente a aquel en que haya entrado en vigor el presente Decreto, las percepciones de los magistrados y jueces del Poder Judicial del Estado, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la base II del artículo 82 de la Constitución Política del Estado, se mantendrán durante el tiempo de su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, o cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda los máximos establecidos en las bases II y III del artículo 82 de la Constitución Política del Estado.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede los montos máximos antes referidos.
+
+Quinto. El Congreso del Estado deberá expedir o adecuar la legislación, de conformidad con los términos del presente Decreto, dentro de un plazo de sesenta días naturales siguientes a su entrada en vigor.
+
+Sexto. El Congreso del Estado deberá tipificar y sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto, dentro de un plazo de sesenta días naturales siguientes a su entrada en vigor.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
