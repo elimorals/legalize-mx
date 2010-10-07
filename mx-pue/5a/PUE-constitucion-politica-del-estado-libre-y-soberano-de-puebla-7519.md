@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2010-09-29"
+last_updated: "2010-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -711,17 +711,17 @@ El Congreso tendrá cada año tres períodos de Sesiones, en la forma siguiente:
 
 I.- El Primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
 
-En el año de conclusión de la administración constitucional del Ejecutivo del Estado, la Legislatura en funciones sesionará de manera Ordinaria del primer día hábil del mes de enero al catorce del mismo mes y año.
+En el año de conclusión de la administración constitucional del Ejecutivo y del Legislativo del Estado, la Legislatura en funciones sesionará de manera Ordinaria del primer día hábil del mes de enero al catorce del mismo mes y año.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
 
-En el supuesto a que se refiere el párrafo anterior, el Titular del Ejecutivo presentará ante el Congreso del Estado dentro de los cuatro primeros días del mes de enero, la Cuenta Pública Parcial correspondiente al periodo de noviembre a diciembre del año anterior, la cual se examinará, revisará, calificará y en su caso, aprobará en dicho periodo de sesiones, conforme a los principios que rigen la función de Fiscalización Superior.
+En el supuesto a que se refiere el párrafo anterior, los Titulares del Ejecutivo y del Legislativo, presentarán ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado, dentro de los cuatro primeros días del mes de enero, la Cuenta Pública Parcial correspondiente a los meses de noviembre a diciembre del año anterior, la cual se examinará, revisará, calificará y aprobará en este periodo de sesiones, conforme a los principios que rigen la función de Fiscalización Superior.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
 
-Tratándose de la Cuenta Pública Parcial del mes de enero del año de conclusión de la administración Constitucional del Ejecutivo Estatal, su Titular la presentará ante el Congreso del Estado dentro de los primeros diez días del mes de febrero, la cual se examinará, revisará, calificará y en su caso, aprobará en el mismo periodo de sesiones.
+Tratándose de la Cuenta Pública Parcial del mes de enero del año de conclusión de la administración constitucional del Ejecutivo y del Legislativo del Estado, quien hubiere fungido como su Titular, la presentará ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado, dentro de los primeros diez días del mes de febrero, la cual se examinará, revisará, calificará y aprobará en el mismo periodo de sesiones.
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
@@ -729,7 +729,9 @@ II.- El segundo comenzará el primero de junio y terminará el treinta y uno de 
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-En los casos previstos en los párrafos tercero y cuarto de la fracción I y primero de la fracción II, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+
+En los casos previstos en los párrafos tercero y cuarto de la fracción I y primero de esta fracción, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
 (REFORMADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
@@ -741,9 +743,9 @@ Una vez que sea aprobada la Ley de Ingresos del Estado, el Congreso examinará, 
 
 Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del Estado y la Ley de Egresos, o únicamente esta última, o las Leyes de Ingresos de cada Municipio, seguirán vigentes las leyes correspondientes al ejercicio anterior, mismas que serán aplicables provisionalmente, hasta en tanto el Congreso emita las aprobaciones respectivas, sin que para éstas medie receso de éste. El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la legislación secundaria, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
 
-Asimismo deberá incluir en la agenda legislativa, en el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, el examen, revisión, calificación y en su caso, aprobación de la Cuenta Pública Parcial correspondiente a los meses de enero a octubre, que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+Asimismo deberá incluir en la agenda legislativa, en el caso del último año, previo al de conclusión de la administración constitucional del Ejecutivo del Estado y de la Legislatura que corresponda, el examen, revisión, calificación y aprobación de las Cuentas Públicas Parciales correspondientes a los meses de enero a octubre, que deberán ser presentadas por sus titulares ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2638,3 +2640,17 @@ PRIMERO.- La Comisión Permanente del Honorable Congreso del Estado Libre y Sobe
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
