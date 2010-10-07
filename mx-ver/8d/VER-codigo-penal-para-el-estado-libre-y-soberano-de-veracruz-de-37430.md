@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2010-09-08"
+last_updated: "2010-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1846,6 +1846,16 @@ A quien, en el medio rural, robe algún instrumento o máquina de labranza, alam
 I. Si el valor de lo robado no excediere de cien días de salario, con prisión de tres meses a seis años y multa hasta de setenta y cinco días de salario; o
 
 II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a doce años y multa hasta de seiscientos días de salario.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 206 Bis.
+
+A quien, con ánimo de dominio, lucro o uso, sin consentimiento de quien legalmente pueda otorgarlo, se apodere de metales, como cobre, bronce, fierro, aluminio, acero, níquel y sus aleaciones, utilizados en monumentos, instalaciones eléctricas o hidráulicas, partes de medidores de agua, luz o gas, o en equipamiento urbano, industrial, agrícola o de cualquier otra naturaleza, se le sancionará de la manera siguiente:
+
+I. Si el valor de lo robado no excediere de cien días de salario, con prisión de uno a cinco años y multa de hasta ciento cincuenta días de salario; y
+
+II. Si el valor de lo robado excediere de cien días de salario, con prisión de tres a doce años y multa de hasta seiscientos días de salario.
 
 ###### Artículo 207.
 
@@ -3670,3 +3680,9 @@ G.O. 8 DE SEPTIEMBRE DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 7 DE OCTUBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
