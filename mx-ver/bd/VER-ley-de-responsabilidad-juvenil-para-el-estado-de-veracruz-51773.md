@@ -4,7 +4,7 @@ identifier: "VER-ley-de-responsabilidad-juvenil-para-el-estado-de-veracruz-51773
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2007-03-09"
+last_updated: "2010-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE RESPONSABILIDAD JUVENIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 11 de septiembre de 2006.
 
@@ -1189,11 +1189,17 @@ IV. Asalto. Artículo 171
 
 V. Violación. Que refieren los artículos:
 
-a. 182;
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
-b. 183, y
+a.184;
 
-c. 184
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+b. 184 Bis, y
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+c.185
 
 VI. Robo. Artículo 205 fracción II inciso b, en el supuesto de violencia física o moral contra las personas.
 
@@ -1203,11 +1209,9 @@ VIII. Estragos. Artículo 265
 
 IX. Corrupción de Menores. Artículo 285 (en el supuesto de obligar).
 
-X. Pornografía Infantil. Que refieren los artículos:
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2010)</small>
 
-a. 290, y
-
-b. 291 (en el supuesto de obligar)
+X. Pornografía. Que refiere el artículo 290, en lo previsto por las fracciones II, III, IV y VI.
 
 XI. Lenocinio y trata de personas. Que refieren los artículos:
 
@@ -1227,7 +1231,9 @@ c.313.
 
 XIII. Sabotaje, a que se refiere el artículo 314.
 
-2. En caso de tentativa punible de los delitos incluidos en este artículo, también podrá aplicarse privación de la libertad.
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+2. En caso de tentativa punible de los delitos incluidos en el párrafo 1 de este artículo, con excepción de los previstos en las fracciones II y VI, también podrá aplicarse privación de la libertad.
 
 3. Al ejecutar una medida de privación de libertad en centro especializado, se deberá computar el período de detención provisional al que hubiere sido sometido el adolescente.
 
@@ -1828,3 +1834,9 @@ G.O. 9 DE MARZO DE 2007.
 Artículo primero. El presente Decreto entrará en vigor el día 11 de marzo de 2007.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE OCTUBRE DE 2010.
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
