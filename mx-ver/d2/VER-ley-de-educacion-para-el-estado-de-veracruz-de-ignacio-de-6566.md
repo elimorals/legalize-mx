@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2009-08-18"
+last_updated: "2010-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -611,17 +611,17 @@ La educación física contribuirá al desarrollo armónico e integral del indivi
 
 Se procurará la aplicación de los programas y guías metodológicas oficiales de educación física, en los diferentes niveles educativos.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 71.
 
-La educación física que imparta el Estado, tendrá además de los propósitos establecidos, los siguientes:
+La educación física que imparta el estado tenderá a fomentar y difundir la cultura física en todas sus manifestaciones, a través de:
 
-> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+I. Estimular la disciplina del ejercicio físico y la práctica del deporte; en las instituciones de educación básica se promoverá la realización de estas actividades, por lo menos durante una hora cada tercer día;
 
-I. Estimular la disciplina del ejercicio físico y la práctica del deporte. En las instituciones de educación básica se promoverá la realización de estas actividades por lo menos una hora cada tercer día;
+II. Procurar la salud y el bienestar físicos de los estudiantes, a efecto de evitar el sedentarismo y prevenir la obesidad; y
 
-II. Desarrollar actitudes responsables hacia la preservación de la salud, propiciar el rechazo a las adicciones y prevenir las conductas delictivas; y
-
-III. Fomentar y difundir la cultura física en todas sus manifestaciones.
+III. Desarrollar actitudes responsables que propicien el rechazo a las adicciones y prevengan conductas delictivas.
 
 ### CAPITULO III. DE LA EDUCACION INFORMAL Y DE LOS MEDIOS DE DIFUSION EDUCATIVA
 
@@ -1088,3 +1088,9 @@ G.O. 18 DE AGOSTO DE 2009.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE OCTUBRE DE 2010.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
