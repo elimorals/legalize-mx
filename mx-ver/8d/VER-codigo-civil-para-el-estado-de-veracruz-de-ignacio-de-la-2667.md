@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2010-09-28"
+last_updated: "2010-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -317,13 +317,17 @@ ARTICULO 46
 
 El nombre de las personas físicas se formará con sujeción a las reglas que se contienen en los artículos siguientes.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
 ARTICULO 47
 
-Los hijos de matrimonio llevarán el nombre o nombres propios que les impongan sus padres, seguidos del apellido del padre, o de éste y el de la madre.
+Los hijos de matrimonio llevarán el nombre o nombres propios que les impongan sus padres, seguidos del primer apellido del padre y del primer apellido de la madre.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 48
 
-Los hijos nacidos fuera de matrimonio llevarán el nombre o nombres que les impongan quien o quienes los reconozcan, seguidos del apellido o apellidos de éstos, si el reconocimiento fuere hecho por ambos progenitores.
+Los hijos nacidos fuera de matrimonio llevarán el nombre o nombres que les impongan quien o quienes los reconozcan, seguidos del primer apellido del padre y del primer apellido de la madre, si ambos los reconocen. Si solamente los reconoce uno de los progenitores, llevarán los dos apellidos de éste.
 
 ARTICULO 49
 
@@ -467,7 +471,7 @@ Cualquiera condición contraria a los fines esenciales del matrimonio y a la asi
 
 > <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2010)</small>
 
-###### Artículo 78.
+ARTICULO 78
 
 La ley no reconoce esponsales de futuro.
 
@@ -505,9 +509,11 @@ En ningún caso podrá ser compelido nadie a contraer matrimonio, ni será váli
 
 ### CAPITULO III A. De los requisitos para contraer matrimonio
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
 ARTICULO 86
 
-No pueden contraer matrimonio el hombre antes de cumplir dieciséis años y la mujer antes de cumplir catorce. El Gobierno del Estado puede conceder dispensa de edad en casos excepcionales y por causas graves y justificadas.
+No pueden contraer matrimonio el hombre antes de cumplir dieciséis años y la mujer antes de cumplir catorce con el solo consentimiento de sus padres. El Gobierno del Estado, por conducto del director general del Registro Civil, puede conceder dispensa de edad en casos excepcionales y por causas graves y justificadas.
 
 > <small>(REFORMADO, G.O. 10 DE JULIO DE 1971)</small>
 
@@ -895,11 +901,13 @@ Para que pueda pedirse el divorcio por causa de enajenación mental que se consi
 
 ARTICULO 146
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos o éstos sean mayores de edad sin necesidad de alimentos, y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Encargado del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos, o éstos sean mayores de edad sin necesidad de alimentos, y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente, o se harán representar por mandatario con poder otorgado en escritura pública con cláusula especial, ante el encargado del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
-El Encargado del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Encargado del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+El encargado del Registro Civil, previa identificación de los consortes, levantará un acta administrativa en la que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el encargado del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
 
 > <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2008)</small>
 
@@ -1055,9 +1063,11 @@ ARTICULO 167
 
 Las capitulaciones matrimoniales son los pactos que los esposos celebran para constituir la sociedad conyugal o la separación de bienes y reglamentar la administración de éstos en uno y en otro caso.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
 ARTICULO 168
 
-Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieren después.
+Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieren después. El cambio de un régimen por el otro durante el matrimonio deberá ser sancionado por autoridad judicial o notario público e inscrito en el Registro Público de la Propiedad.
 
 ARTICULO 169
 
@@ -1531,13 +1541,29 @@ I.- Los hijos nacidos después de ciento ochenta días contados desde la celebra
 
 II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
 ARTICULO 256
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento, o que aun habiéndolo tenido existan razones biológicas o fisiológicas comprobadas médicamente que imposibiliten la concepción.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 256 BIS
+
+Si en el juicio se propusiera cualquier prueba biológica o proveniente del avance de los conocimientos científicos y el presunto progenitor se negare a proporcionar la muestra necesaria o a practicársela, se presumirá la filiación, salvo prueba en contrario.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 256 TER
+
+Las acciones de investigación de paternidad o maternidad sólo pueden intentarse en vida de los padres.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 257
 
-El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los trescientos días que precedieron al nacimiento no tuvo acceso carnal con su esposa.
+El marido no podrá desconocer a los hijos, alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo, a no ser que el nacimiento se le haya ocultado, o que demuestre que durante los trescientos días que precedieron al nacimiento no tuvo acceso carnal con su esposa, o que aun habiéndolo tenido existan razones biológicas o fisiológicas comprobadas médicamente que imposibiliten la concepción.
 
 ARTICULO 258
 
@@ -1717,6 +1743,18 @@ I.- Los hijos que ya hayan fallecido al celebrarse el matrimonio de sus padres, 
 
 II.- Los hijos no nacidos si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta o que lo reconoce si aquélla estuviere encinta.
 
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 289 BIS
+
+La paternidad o la maternidad pueden probarse por cualquiera de los medios ordinarios. Para estos efectos, la prueba pericial en genética molecular del ácido desoxirribonucleico o ADN, realizada por instituciones certificadas para este tipo de pruebas por la Secretaría de Salud del Estado, tendrá validez plena. Si se propusiera esta prueba y el presunto progenitor no asistiere a la práctica de la misma o se negare a proporcionar la muestra necesaria, se presumirá la filiación, salvo prueba en contrario.
+
+> <small>(ADICIONADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 289 TER
+
+Generada la presunción de la filiación, podrá decretarse pensión alimenticia, como medida provisional y de protección, a cargo del presunto progenitor y a favor del pretendido hijo.
+
 ### CAPITULO IV. De los hijos nacidos fuera de matrimonio
 
 ARTICULO 290
@@ -1727,9 +1765,11 @@ ARTICULO 291
 
 La filiación de los hijos nacidos fuera de matrimonio, se prueba por el reconocimiento voluntario, o por una sentencia que declare la paternidad o maternidad, en los casos que este Capítulo permite.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
 ARTICULO 292
 
-Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+Pueden reconocer a sus hijos los menores de edad que obtengan el consentimiento para ello de sus padres o tutor.
 
 ARTICULO 293
 
@@ -1779,9 +1819,11 @@ El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consen
 
 ARTICULO 301
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
 ARTICULO 302
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+El hijo de hombre o mujer casados, habido durante el matrimonio con persona distinta del cónyuge, podrá ser reconocido por los progenitores, sin perjuicio de lo que al respecto prevean los Códigos Civil y Penal del Estado.
 
 ARTICULO 303
 
@@ -1809,9 +1851,11 @@ Si el hijo reconocido es menor, puede reclamar contra del reconocimiento cuando 
 
 El término para deducir esta acción será de dos años, que comenzará a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
 ARTICULO 308
 
-La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso, no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
+La persona que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que otra haya hecho o pretenda hacer de ese niño. En este caso, no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
 
 ARTICULO 309
 
@@ -1821,15 +1865,9 @@ ARTICULO 310
 
 El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+ARTICULO 311 (DEROGADO, G.O. 7 DE OCTUBRE DE 2010)
 
-ARTICULO 311
-
-Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles y se procederá en los términos del artículo 666. El Oficial del Registro Civil o el Notario que viole este precepto será suspendido en sus funciones por un año.
-
-ARTICULO 312
-
-El encargado del Registro Civil, el Juez de primera Instancia en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+ARTICULO 312 (DEROGADO, G.O. 7 DE OCTUBRE DE 2010)
 
 ARTICULO 313
 
@@ -1853,13 +1891,15 @@ II.- Que el hijo se encuentre en posesión de estado de hijo del progenitor cuya
 
 III.- Que el hijo haya sido concebido durante el tiempo en que los presuntos padres habitaban bajo el mismo techo, viviendo como marido y mujer;
 
-IV.- Que el hijo tenga a su favor un principio de prueba contra el pretendido padre o la pretendida madre.
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+IV.- Que el hijo tenga a su favor un principio de prueba contra el pretendido padre o la pretendida madre. Si no se cuenta con este tipo de prueba, podrá obtenerse mediante el desahogo de la prueba pericial en genética molecular del ácido desoxirribonucleico o ADN.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 315
 
-En ningún caso será permitida la indagación cuando tenga por objeto atribuir el hijo a quien, hombre o mujer, haya estado casado, en la época de la concepción, con persona extraña a la filiación, salvo que, en el caso del artículo 302, haya la sentencia ejecutoria a que el mismo se contrae.
+Está permitido al hijo nacido fuera del matrimonio y a sus descendientes, investigar la maternidad o la paternidad, las cuales pueden acreditarse por cualquiera de los medios de prueba.
 
 ARTICULO 316
 
@@ -3791,17 +3831,17 @@ ARTICULO 654
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno sólo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 655
 
-El Registro Civil se constituye con el Departamento de Registro Civil, su Archivo Estatal y las Oficialías necesarias para cada Municipio. El personal de estas dependencias será nombrado y removido por la Dirección General de Gobernación.
+El Registro Civil se constituye con la Dirección General del Registro Civil, su Archivo Estatal y las Oficialías necesarias para cada Municipio. El director general será nombrado y removido por el Secretario de Gobierno, previo acuerdo con el Gobernador del Estado.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 656
 
-Las actas del Registro Civil se asentarán en las formas especiales que elabore el Departamento del Registro Civil, quien las foliará y expedirá según las necesidades de cada Municipio. Es inexistente el acta levantada en forma distinta a la oficial, el Encargado que incurra en esta violación será destituido.
+Las actas del Registro Civil se asentarán en formatos especiales que elabore una empresa autorizada en términos de las disposiciones aplicables. Es inexistente el acta levantada en forma distinta a la oficial; el encargado que incurra en esta violación se sujetará a lo dispuesto por el Código Penal.
 
 > <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 1960)</small>
 
@@ -3813,21 +3853,17 @@ Los volúmenes deberán usarse por orden riguroso de la numeración de actas, ye
 
 Toda acta deberá asentarse en los dos ejemplares del Registro.
 
-> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 657
 
-Para asentar las actas del Registro Civil en el Estado, habrán las siguientes formas: nacimiento, reconocimiento de hijos, adopción simple, matrimonio, divorcio, defunción e inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la incapacidad, la emancipación y habilitación de edad y las que signifiquen cambio, retención o modificación de nombre de personas físicas.
+Los actos del estado civil que se asentarán en los formatos a que se refiere el artículo 656 son los siguientes: nacimiento, reconocimiento de hijos, adopción simple, matrimonio, divorcio, defunción e inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la incapacidad, la emancipación y habilitación de edad y las que signifiquen cambio, retención o modificación de nombre de personas físicas. Para la inscripción de las actas de mexicanos levantadas en el extranjero se utilizarán los mismos formatos que para las de nacimiento, defunción y matrimonio.
 
-Las Oficialías llevarán un índice para cada una de estas formas.
-
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 658
 
-Las formas se llenarán mecanográficamente por cuadruplicado. Los oficiales encargados del Registro Civil, entregarán un ejemplar al interesado, otro quedará en el archivo de la Oficialía y los dos restantes los remitirá mensualmente al Departamento del Registro Civil, para que éste los envíe al Archivo Estatal y a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación.
-
-Las formas de defunción, ausencia e incapacidad, se llenarán por quintuplicado, enviándose el quinto ejemplar al Departamento de Registro Civil para su remisión a la Delegación Estatal del Registro Nacional de Electores.
+Los formatos se capturarán en un sistema de cómputo y se imprimirán en tres tantos. Los oficiales encargados del Registro Civil entregarán un ejemplar al interesado, otro quedará en el archivo de la Oficialía y el último lo remitirán mensualmente a la Dirección General del Registro Civil.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -3845,11 +3881,11 @@ ARTICULO 661
 
 No podrá insertarse en las formas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en este Código.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 662
 
-Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrán solicitar que éste acuda al lugar donde se encuentre o podrán hacerse representar por mandatario especial con facultades expresas para el acto, mediante poder otorgado en escritura pública. El reconocimiento de hijos nacidos fuera de matrimonio sólo podrá hacerse personalmente.
+Cuando los interesados no puedan concurrir personalmente ante el oficial del Registro civil, podrán solicitar que éste acuda al lugar donde se encuentren o podrán hacerse representar por mandatario especial con facultades expresas para el acto, mediante poder otorgado en escritura pública.
 
 ARTICULO 663
 
@@ -3917,11 +3953,13 @@ ARTICULO 675
 
 Para establecer el estado civil adquirido por los veracruzanos fuera del Estado o de la República, serán bastantes las constancias de los actos respectivos que los interesados presenten, siempre que estén conforme con las leyes del lugar en que se hayan verificado, y que se hayan hecho constar en el Registro Civil del Estado.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 676
 
-Todo acto del estado civil relativo a otro ya registrado, deberá insertarse, a petición de los interesados, al apéndice respectivo, que en el caso de no haberlo se formará. La misma inserción deberá hacerse cuando lo mande la autoridad judicial o lo disponga expresamente la Ley.
+Todo acto del estado civil relativo a otro ya registrado deberá anotarse en el acta correspondiente y el documento que dé lugar a la anotación se insertará en el apéndice respectivo, que en el caso de no haberlo se formará. Se realizará también este procedimiento cuando lo mande la autoridad judicial o lo disponga expresamente la Ley.
+
+Las copias que se expidan de estas actas contendrán una referencia de la anotación.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -3929,11 +3967,11 @@ ARTICULO 677
 
 En todos los testimonios que se expidan, deberá anotarse la inserción que consta en el apéndice respectivo.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 678
 
-El Ministerio Público cuidará de que las formas del Registro Civil se llenen debidamente, inspeccionándolas en cualquier tiempo, para el efecto de hacer la consignación de los Encargados del Registro Civil que hubieren cometido delitos en el ejercicio de su encargo o de dar aviso al Director de Gobernación de las faltas en que hubieren incurrido esos empleados. La infracción de este precepto produce responsabilidad para el Ministerio Público, conforme a la Ley Orgánica de esta institución.
+La Dirección General del Registro Civil cuidará de que los formatos del Registro Civil se llenen debidamente, inspeccionándolos con periodicidad, para el efecto de dar aviso al Ministerio Público de los encargados del Registro Civil que hubieren cometido delitos en el ejercicio de su cargo.
 
 ARTICULO 679
 
@@ -3941,29 +3979,29 @@ La reglamentación interior de las Oficinas del Registro Civil, corresponde al G
 
 ### CAPITULO II. De las actas de nacimiento
 
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
 ARTICULO 680
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Encargado del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE DICIEMBRE DE 1969)</small>
+Las declaraciones de nacimiento se harán presentando al niño ante el encargado del Registro Civil, en la oficina de éste o en el hospital o casa donde aquél hubiere nacido.
 
 ARTICULO 681
 
-Tienen la obligación de declarar el nacimiento: el padre y la madre, dentro de los 180 días de ocurrido aquél.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
-Los médicos; cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Encargado del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Tienen la obligación de declarar el nacimiento: el padre y la madre, de manera inmediata si en el hospital donde nació el menor hubiere módulo del Registro Civil, o dentro de los 180 días de ocurrido aquél.
+
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+Los médicos, cirujanos o matronas que hubieren asistido al parto tienen obligación de dar aviso por escrito del nacimiento al encargado del Registro Civil, dentro de los tres días siguientes.
 
 Recibido el aviso, el Encargado del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 682
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán sancionadas con una multa de cincuenta a cien pesos, que impondrá la Autoridad Municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
-
-En la misma pena incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el párrafo segundo del artículo anterior.
-
-Cuando se pretenda inscribir a un mayor de siete años de edad, el Oficial Encargado solicitará las pruebas que indique el Departamento del Registro Civil, tendientes a comprobar los datos que deban asentarse en el acta.
+Las personas que están obligadas a declarar el nacimiento deberán presentar para efectuar la inscripción, ante el encargado del Registro Civil, los documentos que al efecto requiera la Dirección General.
 
 ARTICULO 683
 
@@ -3997,17 +4035,9 @@ ARTICULO 687
 
 En ninguna circunstancia se permitirá que se consigne en el acta, como progenitor, a quien, hombre o mujer, haya estado casado al sobrevenir el nacimiento o en la época de la concepción, a no ser que previamente se hayan realizado las circunstancias de excepción a que se refiere el artículo 315; observándose, además, en todo caso, lo dispuesto por los artículos 311 y 312.
 
-ARTICULO 688
+ARTICULO 688 (DEROGADO, G.O. 7 DE OCTUBRE DE 2010)
 
-Concurriendo al Registro los dos progenitores del hijo nacido fuera de matrimonio, se observarán las disposiciones siguientes:
-
-I.- Si ambos pidieren que no consten sus nombres, se asentará que el presentado es hijo de padres no conocidos;
-
-II.- Si uno solo se excusase de que conste su nombre, se asentará así en el acta, haciéndose constar el nombre del otro progenitor solamente.
-
-ARTICULO 689
-
-Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se menciona o no su nombre; todo lo cual se asentará en el acta.
+ARTICULO 689 (DEROGADO, G.O. 7 DE OCTUBRE DE 2010)
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -4085,9 +4115,13 @@ Si el reconocimiento del hijo nacido fuera de matrimonio se hiciere después de 
 
 I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
 
-II.- Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su tutor;
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2010)</small>
 
-III.- Si el hijo es menor de catorce años, se expresará sólo el consentimiento del tutor.
+II. Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su padre, madre o tutor.
+
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2010)</small>
+
+III. Si el hijo es menor de catorce años, o mayor de edad incapacitado jurídicamente, se expresará sólo el consentimiento de su padre, madre o tutor.
 
 ARTICULO 705
 
@@ -4541,11 +4575,11 @@ La rectificación o modificación de un acta del estado civil, no puede hacerse 
 
 > <small>[N. DE E. EL CONTENIDO DEL PRESENTE ARTÍCULO ES SIMILAR AL DEL ARTÍCULO 760 BIS.]</small>
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 760
 
-Cuando la rectificación tienda a enmendar yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, el que tenga derecho a pedir su corrección podrá acudir ante el Oficial Encargado del Registro Civil que corresponda, quien oyendo al Ministerio Público acordará lo procedente. Si el acuerdo es negativo, el interesado deberá demandar la rectificación en juicio.
+Cuando la rectificación tienda a enmendar yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, el que tenga derecho a pedir su corrección podrá acudir ante el oficial Encargado del Registro Civil que corresponda, quien de acuerdo con los lineamientos que al respecto expida la Dirección General del Registro Civil acordará lo procedente. Si el acuerdo es negativo, el interesado deberá demandar la rectificación en juicio.
 
 > <small>[N. DE E. EL CONTENIDO DEL PRESENTE ARTÍCULO ES SIMILAR AL DEL ARTÍCULO 760.]</small>
 
@@ -16166,5 +16200,21 @@ Artículo segundo. Se derogan las disposiciones que contravengan el presente Dec
 G.O. 28 DE SEPTIEMBRE DE 2010.
 
 Primero. Este Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 863, POR EL QUE SE REFORMAN LOS ARTICULOS 256, 257, 308, 314, FRACCION IV, Y 315; Y SE ADICIONAN LOS ARTICULOS 256 BIS, 256 TER, 289 BIS Y 289 TER AL CODIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Artículo primero. Este Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 864, POR EL QUE SE REFORMAN LOS ARTICULOS 47, 48, 86, 146 PARRAFOS PRIMERO Y SEGUNDO, 168, 292, 302, 655, 656, 657, 658, 662, 676, 678, 680, 681 PARRAFOS PRIMERO Y SEGUNDO, 682, 704 FRACCIONES II Y III Y 760; Y SE DEROGAN LOS ARTICULOS 311, 312, 688 Y 689 DEL CODIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
