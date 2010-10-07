@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-universidad-juarez-del-estado-de-durango-508
 country: "mx"
 rank: "ley_organica"
 publication_date: "1962-06-07"
-last_updated: "2010-09-29"
+last_updated: "2010-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA UNIVERSIDAD JUAREZ DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 7 de junio de 1962.
 
@@ -51,9 +51,13 @@ LEY ORGANICA DE LA UNIVERSIDAD JUAREZ DEL ESTADO DE DURANGO
 
 ## TITULO I. PERSONALIDAD Y FINES
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 1o.
 
-La Universidad Juárez del Estado de Durango es una corporación pública, autónoma y dotada de plena capacidad jurídica.
+La Universidad Juárez del Estado de Durango, es una institución pública, autónoma en su régimen interno para autogobernarse, administrar su patrimonio, determinar sus programas académicos en general, así como los planes y programas de estudio correspondientes a sus programas educativos, definir los procedimientos de admisión, promoción y permanencia del personal académico y sus alumnos, y dotada de plena capacidad para celebrar todo tipo de actos jurídicos y cuanto fuere necesario para el logro de sus fines.
+
+La autonomía de la Universidad deberá ser protegida y mantenida por todas las Leyes y Autoridades del Estado.
 
 ###### Artículo 2o.
 
@@ -159,19 +163,25 @@ V.- Los Directores de las Escuelas e Institutos.
 
 ### CAPITULO II. DEL CONSEJO UNIVERSITARIO
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 13.
 
 El Consejo Universitario estará integrado:
 
-I.- Por el Rector, quien será Presidente del Consejo.
+I.- Por el Rector, quién será su Presidente;
 
-II.- Por el Secretario General, quien será Secretario del Consejo.
+II.- Por el Secretario General, quién será su Secretario;
 
-III.- Por todos los Catedráticos de la Universidad.
+III.- Por todos los catedráticos de la universidad;
 
-IV.- Por un alumno, representante de la Federación de Estudiantes.
+IV.- Por un alumno, representante de la Federación de Estudiantes Universitarios;
 
-V.- Por un alumno, representante de los estudiantes de cada Escuela.
+V.- Por un alumno representante de la Sociedad de Alumnos de cada unidad académica;
+
+VI.- Por un alumno representante de cada cien estudiantes de cada unidad académica, que será designado por el presidente de cada sociedad de alumnos. Para efecto de la designación no se contabilizaran fracciones inferiores a cien alumnos; y
+
+VII.- Por un representante de los integrantes del Consejo General de Representantes del Sindicato de Trabajadores y Empleados Administrativos de la Universidad, por cada unidad académica.
 
 ###### Artículo 14.
 
@@ -181,13 +191,13 @@ a).- En ceremonias solemnes y los días de iniciación y clausura de cursos.
 
 b).- Cuando se presente algún problema grave que ponga en peligro la existencia o la unidad de la Universidad, en cuyos casos dictará las resoluciones que juzgue procedentes.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
 
-c).- Para la elección del Rector de la Universidad.
+c).- Para la elección del Rector de la Universidad, de la terna que le envíe la Junta Directiva.
 
 d).- En ocasión del nombramiento de Directores de las Escuelas, los que deberán designarse de la terna que presente el Rector, oyendo a los Consejos Técnicos Consultivos.
 
-e).- Para solicitar al Ejecutivo del Estado al(sic) creación de Facultades y nuevas Escuelas o la supresión de las que existan.
+e).- Para solicitar al Ejecutivo del Estado al (sic) creación de Facultades y nuevas Escuelas o la supresión de las que existan.
 
 f).- Para aprobar el Reglamento General de la presente Ley.
 
@@ -195,9 +205,11 @@ g).- Para aprobar el Reglamento Interno del propio Consejo.
 
 h).- En los demás que señale el Reglamento General.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 15.
 
-El Consejo Universitario funcionará regularmente a través de la Junta Directiva de la Universidad.
+El Consejo Universitario funcionará regularmente a través de la Junta Directiva de la Universidad, en los casos expresamente previstos en el reglamento correspondiente.
 
 ###### Artículo 16.
 
@@ -211,31 +223,35 @@ El Rector tendrá voto de calidad.
 
 ### CAPITULO III. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 17.
 
 La Junta Directiva estará integrada:
 
-I.- Por el Rector, quien será su Presidente.
+I.- Por el Rector, quién será su Presidente;
 
-II.- Por el Secretario General, quien será Secretario de la Junta.
+II.- Por el Secretario General, quien será su Secretario;
 
-III.- Por los Directores de las Escuelas e Institutos.
+III.- Por los Directores de las unidades académicas;
 
-IV.- Por el Decano de la Universidad.
+IV.- Por el Decano de la Universidad;
 
-V.- Por un representante de los profesores de cada una de las Escuelas.
+V.- Por un representante de los académicos de cada unidad académica;
 
-VI.- Por un alumno, representante de la Federación de Estudiantes.
+VI.- Por un alumno, representante de la Federación de Estudiantes Universitarios;
 
-VII.- Por un alumno, representante de los estudiantes de cada una de las Escuelas.
+VII.- Por un representante de los estudiantes de cada unidad académica, designado por el presidente de la sociedad de alumnos de cada unidad académica, y (sic)
 
 ###### Artículo 18.
 
 Por cada representante propietario se elegirá un suplente.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 19.
 
-La elección de los representantes de los profesores y de los alumnos, será determinada por el Reglamento General.
+La elección de los representantes de los profesores será determinada por el Reglamento General.
 
 ###### Artículo 20.
 
@@ -281,9 +297,15 @@ VIII.- Conocer y aprobar, en su caso, el presupuesto anual de la Universidad y e
 
 IX.- Resover (sic) en última instancia sobre las solicitudes de incorporación.
 
-X.- Designar Contralor y Tesorero General de la Universidad.
+X.- (DEROGADA, P.O. 7 DE OCTUBRE DE 2010)
 
-XI.- Las demás que se deriven de esta Ley, de su Reglamento General y de los Reglamentos de la Universidad y en general conocer de cualquier otro asunto que no sea de la competencia de alguna otra autoridad universitaria.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2010)</small>
+
+XI.- Integrar y proponer al Consejo Universitario, para su elección, la terna con los candidatos a ocupar el cargo de Rector, y
+
+(ADICIONADA, P.O. 7 DE OCTUBRE DE 2010
+
+XII.- Las demás que se deriven de esta Ley, de su Reglamento General y de los Reglamentos de la Universidad y en general conocer de cualquier otro asunto que no sea de la competencia de alguna otra autoridad universitaria.
 
 ### CAPITULO IV. DEL RECTOR
 
@@ -311,9 +333,11 @@ V.- Gozar de estimación general como persona honorable y prudente.
 
 En caso de faltas del Rector que no excedan de tres meses, el Secretario General asumirá sus funciones, pero si la ausencia fuere mayor, se procederá a elegir un Rector Provisional.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 28.
 
-(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2010)
+El Rector será electo por el Consejo Universitario por mayoría de votos, de la terna propuesta por la Junta Directiva.
 
 ###### Artículo 29.
 
@@ -353,13 +377,23 @@ XVI.- Presentar, en la sesión de clausura del Consejo, un informe anual de las 
 
 XVII.- Presentar el estado anual de ingresos y egresos.
 
-XVIII.- Cumplir las demás disposiciones que el Reglamento General y los Reglamentos Universitarios impongan.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2010)</small>
+
+XVIII.- Designar al contralor y al tesorero general de la Universidad; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2010)</small>
+
+XIX.- Cumplir las demás disposiciones que el reglamento general y los reglamentos universitarios impongan.
 
 ###### Artículo 30.
 
 El Rector podrá vetar los acuerdos de la Junta Directiva.
 
 La interposición del veto sólo tendrá por efecto que el Consejo o la Junta en un plazo no mayor de cinco días hábiles, revisen el acuerdo o acuerdos vetados y si se decide no reconsiderarlos el Rector procederá a su inmediato cumplimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2010)</small>
+
+En ningún caso podrá vetar el acuerdo que contenga la terna que deberá proponerse al Consejo Universitario para la elección de Rector.
 
 ### CAPITULO V. DEL SECRETARIO GENERAL
 
@@ -583,8 +617,6 @@ P.O. 3 DE OCTUBRE DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O DEasxh.KSAD
-
 P.O. 29 DE SEPTIEMBRE DE 2010.
 
 PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
@@ -608,3 +640,57 @@ SEXTO.- El proceso para la designación del rector interino, estará a cargo de 
 3.- En caso de que el Pleno no apruebe la elección del rector interino, se repondrá el procedimiento en los términos antes descritos, hasta lograr la designación.
 
 4.- Los casos no previstos en las presentes bases generales, serán resueltos por la Comisión de Gobernación.
+
+P.O. 7 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
+
+TERCERO.- A partir de la entrada en vigor del presente decreto, el Congreso del Estado y la Universidad Juárez del Estado de Durango, realizarán foros de consulta con la finalidad de la expedición de una nueva Ley Orgánica para la Universidad Juárez del Estado de Durango.
+
+CUARTO.- El Rector interino de la Universidad Juárez del Estado de Durango, designado por el H. Congreso del Estado en sesión plenaria celebrada el día 30 de septiembre de 2010, continuará ejerciendo su mandato hasta en tanto sea electo el Rector en los términos del presente Decreto.
+
+QUINTO.- Las ausencias temporales o definitivas del Rector Interino serán cubiertas hasta en tanto se designe nuevo Rector, en el orden de prelación siguiente:
+
+a) El Secretario General;
+
+b) El Abogado General; y
+
+c) El Director de Administración.
+
+SEXTO.- Por única vez, el proceso para la elección del Rector, se efectuará de conformidad con las siguientes bases generales:
+
+1.- Dentro de las veinticuatro horas siguientes a la entrada en vigor del presente Decreto, el Rector Interino convocara de manera urgente en un mismo acto, a primera y segunda sesión, en su caso, a la Junta Directiva que se reunirá a efecto de recibir, discutir, votar y enviar al Consejo Universitario, la terna propuesta por el propio Rector Interino, de conformidad con los siguientes términos:
+
+a) El quórum de la junta directiva en la primera sesión se constituirá con la asistencia del 50% más uno cuando menos del total de sus miembros;
+
+b) En caso de no reunirse el quórum a que se refiere el inciso anterior, se celebrará la segunda sesión con los miembros que concurran;
+
+c) Las resoluciones de la Junta se tomarán por la mayoría absoluta de los presentes;
+
+d) En caso de que la Junta Directiva no apruebe la terna presentada por el Rector Interino, se presentara una segunda terna en la sesión que corresponda, la cual podrá integrar a los candidatos propuestos en la primera;
+
+e) En caso de que la Junta Directiva no apruebe la segunda terna, el Rector Interino presentara directamente una terna al Consejo Universitario para la elección del Rector, la cual podrá integrar a los candidatos propuestos en la primera o segunda terna no aprobados por la Junta Directiva.
+
+2.- Una vez recibida la terna aprobada por la Junta Directiva, o la terna propuesta por el Rector Interino, éste convocará dentro de las veinticuatro horas siguientes al Consejo Universitario de manera urgente en un mismo acto, a primera y segunda sesión, en su caso, a efecto de recibir, discutir y elegir al Rector de conformidad con los siguientes términos:
+
+a) El quórum del Consejo Universitario en la primera sesión se constituirá con la asistencia del 50% más uno cuando menos del total de sus miembros;
+
+b) En caso de no reunirse el quórum a que se refiere el inciso anterior, se celebrará la segunda sesión con los miembros que concurran;
+
+c) Las resoluciones del Consejo Universitario se tomarán por la mayoría absoluta de los presentes;
+
+3.- El Rector electo deberá rendir protesta ante el Rector Interino saliente, quien dará posesión jurídica y material del cargo de inmediato.
+
+4.- El Rector electo durará en su encargo 6 años, en conformidad con lo establecido en el artículo 25 de la Ley Orgánica de la Universidad Juárez del Estado de Durango, y no podrá ser reelecto.
+
+5.- En caso de existir causas que no permitan el desarrollo de la sesión de la Junta Directiva o del Consejo Universitario, a juicio del Rector Interino, éste podrá suspender la misma y podrá reanudarla en el lugar, fecha y hora que determine, lo que deberá comunicarse por los medios que estime pertinentes.
+
+6. Los casos no previstos en las presentes bases generales, serán resueltos por el Rector Interino.
+
+SÉPTIMO. Las acreditaciones de los nuevos integrantes de la Junta Directiva y del Consejo Universitario, se harán mediante documento dirigido al Secretario General quien verificara la matricula estudiantil y la plantilla de personal administrativo.
+
+OCTAVO. Si alguno de los miembros de la Junta Directiva o Consejo Universitario resulta propuesto como parte integrante de las ternas, deberá excusarse de participar en las fases de discusión y votación del procedimiento de elección de Rector.
+
+En el caso de los integrantes de la Junta Directiva o Consejo Universitario que se excusen, serán suplidos en las fases de discusión y votación del procedimiento de elección de Rector, por quien determine el Rector Interino o cualquiera de los funcionarios establecidos en el artículo cuarto transitorio en el orden de prelación establecido.
