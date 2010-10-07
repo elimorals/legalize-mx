@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2010-08-07"
+last_updated: "2010-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3351,13 +3351,17 @@ XIV. Los responsables sean miembros de un cuerpo de seguridad pública, aun cuan
 
 XV. Se ejecute a bordo de un vehículo de transporte público en servicio; y (sic)
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2010)</small>
 
-XVI. Se cometa en un establecimiento bancario, en una oficina recaudadora Estatal o Municipal, o en otras cuya función esté relacionada con la recepción, manejo y distribución de dinero en efectivo; y
+XVI. Se cometa en un establecimiento bancario, en una oficina recaudadora Estatal o Municipal, o en otras cuya función esté relacionada con la recepción, manejo y distribución de dinero en efectivo;
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2010)</small>
 
-XVII. El objeto del robo sean productos agrícolas, siempre que el valor de lo robado sea por el equivalente a cincuenta días de salario mínimo o más.
+XVII. El objeto del robo sean productos agrícolas, siempre que el valor de lo robado sea por el equivalente a cincuenta días de salario mínimo o más, o
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2010)</small>
+
+XVIII. Recaiga sobre autopartes.
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3389,9 +3393,9 @@ III. De ocho años seis meses a quince años de prisión y multa por el monto de
 
 IV. De cinco años seis meses a nueve años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
 
-(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2010)</small>
 
-C) Si intervienen alguna de las calificativas que se consignan en las fracciones VII, IX y XI del artículo anterior, la pena será:
+C) Si intervienen alguna de las calificativas que se consignan en las fracciones VII, y XI del artículo anterior, la pena será:
 
 I. De seis a once años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado no exceda del monto de trescientos sesenta días de salario;
 
@@ -3407,11 +3411,21 @@ En todos los casos de robo para estimar su cuantía o determinar que no es estim
 
 V. De cinco a 18 años de prisión y hasta mil días de multa. También podrá aplicársele la prohibición de ir a lugar determinado o vigilancia de la autoridad, hasta por un término igual al de la sanción privativa de la libertad impuesta.
 
-> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2010)</small>
 
-D) De ocho a dieciocho años de prisión y hasta mil días de multa, cuando concurran dos o más de las calificativas enunciadas en el artículo 236, independientemente del monto de lo robado.
+D) De nueve a veinte años de prisión y hasta mil días de multa, cuando intervenga la calificativa que se consigna en la fracción IX o cuando concurran dos o más de las calificativas enunciadas en el artículo 236, independientemente del monto de lo robado; cuando concurra entre las calificativas la IX antes referida, se incrementarán las penas hasta una tercera parte más de la que resulte aplicable.
 
-En todos los casos de robo para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por Perito.
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2010)</small>
+
+###### Art. 236 Ter.
+
+Al responsable del delito de robo de autopartes previsto en la fracción XVIII del artículo 236 se le sancionará de acuerdo con las siguientes reglas:
+
+I. De 1 a 4 años de prisión y multa por el importe de cinco a treinta días de salario, cuando el valor de lo robado no exceda de 113 días de salario;
+
+II. De 2 a 5 años de prisión y multa por el importe de quince a sesenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+
+III. De 3 a 8 años de prisión y multa por el importe de veinte a noventa días de salario, cuando el valor de lo robado exceda del monto de mil días de salario.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -4702,3 +4716,7 @@ P.O. 7 DE AGOSTO DE 2010.
 PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, a realizar las modificaciones y adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+P.O. 7 DE OCTUBRE DE 2010.
+
+ÚNICO El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
