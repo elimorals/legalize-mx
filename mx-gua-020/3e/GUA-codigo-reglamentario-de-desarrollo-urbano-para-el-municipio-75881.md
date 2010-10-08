@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2010-08-06"
+last_updated: "2010-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CODIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2010.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -1275,9 +1275,11 @@ El rango de densidad se sujetará a lo dispuesto por el Título de Fraccionamien
 
 En terrenos con pendientes mayores del 15% los niveles deberán ser escalonados, a partir de los niveles naturales del terreno.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 63.
 
-La Dirección podrá autorizar un nivel más de lo establecido y/o COS mayores a los señalados en usos no habitacionales, dependiendo del análisis de cada caso, con base en el dictamen que al efecto emita, siempre que no se afecte la imagen urbana, no se aumente la densidad para la zona y se cuente con la factibilidad de servicios.
+La Dirección podrá autorizar un nivel más de lo establecido y/o COS mayores a los señalados, dependiendo del análisis de cada caso, con base en el dictamen que al efecto emita, siempre que no se afecte la imagen urbana, no se aumente la densidad para la zona y se cuente con la factibilidad de servicios.
 
 ###### Artículo 64.
 
@@ -3767,13 +3769,7 @@ No se autorizará a los particulares el uso de la vía pública para aumentar el
 
 ###### Artículo 337.
 
-Sólo se autorizaran marquesinas, aleros o cornisas siempre y cuando:
-
-I. No exceda un tercio del ancho de la banqueta;
-
-II. No se afecte la infraestructura aérea existente y no se ponga en riesgo la seguridad de las personas por este motivo; y,
-
-III. Tenga una altura mínima de 3 metros.
+(DEROGADO, P.O. 8 DE OCTUBRE DE 2010)
 
 ###### Artículo 338.
 
@@ -5968,3 +5964,11 @@ PRESIDENTE MUNICIPAL
 LIC. MAYRA ANGÉLICA ENRÍQUEZ VANDERKAM
 
 SECRETARIA DEL H. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2010.
+
+PRIMERO: Las presentes modificaciones entraran en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO: Se derogan todas aquellas disposiciones reglamentarias y administrativas de observancia general que se opongan al presente Acuerdo.
