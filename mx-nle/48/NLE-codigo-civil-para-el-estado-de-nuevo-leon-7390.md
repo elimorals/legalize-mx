@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2010-06-09"
+last_updated: "2010-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1381,7 +1381,7 @@ Los Oficiales del Registro Civil que no cumplan con lo dispuesto en este Capítu
 
 ###### Art. 131.
 
-Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela o la pérdida o limitación de la capacidad legal para administrar bienes, remitirán al Oficial del Registro Civil correspondiente copia certificada de la resolución ejecutoriada respectiva o auto de discernimiento en el término de quince días, para que se efectúe la inscripción en el acta correspondiente.
+Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela o la pérdida o limitación de la capacidad legal para administrar bienes, remitirán al Oficial del Registro Civil correspondiente copia certificada de la resolución ejecutoriada respectiva o auto de discernimiento en él termino de quince días, para que se efectúe la inscripción en el acta correspondiente.
 
 La falta de registro no impedirá la producción de todos los efectos legales del acto respectivo.
 
@@ -5119,11 +5119,13 @@ Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afect
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2010)</small>
 
 ###### Art. 727.
 
-El máximo de los bienes afectados al patrimonio de familia será: la cantidad que resulte de multiplicar por 27,000 el importe del salario mínimo general diario, vigente en el área que corresponda a la ubicación del bien o bienes que se pretenda afectar en la época en que se constituya el patrimonio, aplicándose como incremento anual a esta cantidad el índice nacional de precios al consumidor, publicado por el Banco de México en el Diario Oficial de la Federación.
+El máximo de los bienes afectados al patrimonio de familia será: la cantidad que resulte de multiplicar por 45,000 el importe del salario mínimo general diario, vigente en el área que corresponda a la ubicación del bien o bienes que se pretenda afectar en la época en que se constituya el patrimonio, aplicándose como incremento anual a esta cantidad el índice nacional de precios al consumidor, publicado por el Banco de México en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 Cuando el valor de los bienes afectos al patrimonio familiar sea inferior al monto máximo señalado en el párrafo anterior, el solicitante podrá ampliar el patrimonio hasta llegar a ese valor; si excede, se podrá constituir hasta el monto máximo referido.
 
@@ -16740,3 +16742,7 @@ Artículo Único.- El presente Decreto entrará en vigor el 30 de septiembre de 
 P.O. 9 DE JUNIO DE 2010.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
