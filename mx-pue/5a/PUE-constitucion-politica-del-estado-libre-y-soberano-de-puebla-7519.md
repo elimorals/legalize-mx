@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2010-10-07"
+last_updated: "2010-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -249,9 +249,13 @@ V.- La atención de la salud de los habitantes del Estado, la promoción de una 
 
 VI.- La creación del organismo de protección, respeto y defensa de los derechos humanos, el que conocerá de quejas en contra de actos u omisiones administrativos que emanen de autoridades o servidores públicos que violen los mismos, a excepción de los del Poder Judicial del Estado; podrá formular recomendaciones públicas autónomas, de ninguna manera obligatorias para las autoridades o servidores involucrados y asimismo, denuncias y quejas ante las autoridades respectivas. Este Organismo carecerá de competencia para conocer de asuntos electorales, laborales y jurisdiccionales; y (sic)
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2010)</small>
 
-VII.- Garantizar el acceso a la información pública gubernamental, en los términos que establezca la ley de la materia;
+VII.- Garantizar el derecho de acceso a la información pública y protección de datos personales, de acuerdo a los principios y bases que establece la Constitución Política de los Estados Unidos Mexicanos.
+
+Para efectos de lo establecido en el párrafo anterior, la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado, será el organismo público autónomo, independiente y de carácter permanente, con personalidad jurídica y patrimonio propios, responsable de promover, difundir y garantizar en el Estado y sus Municipios, el acceso a la información pública y la protección a los datos personales en los términos que establezca la legislación de la materia y demás disposiciones que de ella emanen.
+
+La Comisión, se integrará y funcionará en los términos que establezca la Ley de la materia;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -441,7 +445,7 @@ III.- Por pena impuesta en sentencia judicial.
 
 Los derechos y prerrogativas, suspensos o perdidos, se recuperan:
 
-I.- En el caso de la fracción I del artículo anterior, por recuperar la ciudadanía mexicana; y
+I.- En el caso de la fracción l del artículo anterior, por recuperar la ciudadanía mexicana; y
 
 II.- En los demás casos por cumplimiento de la pena, por haber finalizado el término o cesado las causas de la suspensión o por rehabilitación.
 
@@ -1561,7 +1565,7 @@ b).- Los Municipios podrán celebrar convenios con el Estado, para que éste se 
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
-c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan, en los que se deberán incluir invariablemente los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 134 de esta Constitución.
+c).- Los presupuestos de egresos de los Municipios serán aprobados por los respectivos Ayuntamientos, con base en los ingresos de que dispongan, en los que se deberá incluir invariablemente los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 134 de esta Constitución.
 
 (REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
@@ -2654,3 +2658,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2010.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones legales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El Honorable Congreso del Estado deberá realizar las adecuaciones a la legislación local que resulten necesarias para dar cumplimiento al presente Decreto, en las que deberá prever lo relativo a la integración, organización y funcionamiento de la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado a que se refiere este Decreto, entre otros rubros.
+
+TERCERO.- La Comisión para el Acceso a la Información Pública de la Administración Pública Estatal y demás órganos análogos establecidos con fundamento en la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, continuará en funciones, hasta en tanto la integración, organización y funcionamiento del organismo autónomo a que se refiere este Decreto, sea regulado en la Ley de la materia y entre en funciones.
+
+CUARTO.- De conformidad con los principios de racionalidad, austeridad y disciplina presupuestal, los recursos humanos, financieros y materiales que tengan asignados la Comisión para el Acceso a la Información Pública de la Administración Pública Estatal, serán transferidos o reasignados al Organismo Autónomo a que se refiere el mismo, una vez que sea regulado en la Ley de la materia y entre en funciones; para tales efectos, se deberán observar las disposiciones legales y administrativas que resulten aplicables.
+
+QUINTO.- Las personas que a la entrada en vigor del presente Decreto, funjan como Comisionados de la Comisión para el Acceso a la Información Pública de la Administración Pública Estatal, continuarán desempeñando dicho encargo durante el periodo para el que fueron designados, ya sea en la referida Comisión o en el organismo autónomo a que se refiere este Decreto.
+
+Hasta en tanto se realicen las adecuaciones a la Ley de la materia, todos los asuntos que conozcan la Comisión para el Acceso a la Información Pública de la Administración Pública Estatal y los órganos análogos, seguirán el trámite, substanciación y deberán resolverse conforme a la Ley vigente.
+
+SEXTO.- Los asuntos que se encuentren en trámite en los órganos análogos a la Comisión para el Acceso a la Información Pública de la Administración Pública Estatal, serán transferidos para su substanciación y resolución, al organismo constitucional autónomo a que se refiere este Decreto, una vez que entre en funciones.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+OCTAVO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
