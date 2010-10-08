@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-para-3251"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "2009-11-27"
+last_updated: "2010-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 8 DE OCTUBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 4 de agosto de 1995.
 
@@ -1314,3 +1316,25 @@ TERCERO.- El Ejecutivo del Estado, en un plazo no mayor de 30 días deberá elab
 P.O. 27 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 18 de Junio de 2011, debidamente publicada en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos iniciados, de oficio o a petición de parte, con fecha anterior a la entrada en vigor de la presente Ley, continuarán su trámite y serán resueltos de conformidad con las disposiciones previstas con anterioridad a la entrada en vigor de la presente Ley, salvo que el presente ordenamiento otorgue mayores beneficios para el Sentenciado.
+
+###### ARTÍCULO TERCERO.
+
+La sustanciación y resolución de los procedimientos señalados en el artículo transitorio anterior, a partir de la entrada en vigor de la presente Ley, será llevada a cabo por la autoridad judicial competente, de conformidad con las disposiciones legales y Constitucionales aplicables.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la publicación de la presente Ley, se deberá integrar una Comisión Interinstitucional, la cual estará integrada por los funcionarios que al efecto designen el Poder Ejecutivo y el Poder Judicial, a fin de llevar a cabo la planeación, programación, proyección, evaluación y seguimiento de las acciones necesarias para la correcta implementación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Se abroga la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California, Publicada en el Periódico Oficial No. 37, de fecha 4 de Agosto de 1995.
