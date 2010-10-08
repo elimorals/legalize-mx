@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-acceso-a-la-informacion-publica-del-municipio-406
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-18"
-last_updated: "2005-05-11"
+last_updated: "2010-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE APODACA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DEL 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DE APODACA, NUEVO LEON, PUBLICADO EN EL P.O. 8 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 18 de agosto de 2004.
 
@@ -478,3 +480,21 @@ PRIMERO. La Secretaría del Republicano Ayuntamiento deberá de turnar, para su 
 SEGUNDO. El presente REGLAMENTO entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO. Lo no establecido en el presente REGLAMENTO se atenderá a lo previsto en la LEY DE ACCESO A LA INFORMACIÓN PÚBLICA DE NUEVO LEÓN.
+
+P.O. 8 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León, con la modalidad que establece el artículo siguiente.
+
+###### ARTÍCULO SEGUNDO
+
+Se manda que se impriman, publiquen, circulen y se le de el debido cumplimiento a las disposiciones de este reglamento, dadas en el Recinto Oficial de este Republicano Ayuntamiento ubicado en la Presidencia Municipal de Apodaca, Nuevo León, a los 20 días del mes de Septiembre de 2010
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento anterior llamado Reglamento de Acceso a la Información Pública del Municipio de Apodaca, contenido en el Acta de la Vigésima Séptima Sesión Ordinaria del Republicano Ayuntamiento del Municipio de Apodaca, Nuevo León, de fecha 08 de diciembre de 2004 y publicado el 09 de febrero de 2005 en el Periódico Oficial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Lo no establecido en el presente REGLAMENTO, se atenderá a lo previsto en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
