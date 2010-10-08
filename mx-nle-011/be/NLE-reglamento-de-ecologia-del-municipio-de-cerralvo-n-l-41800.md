@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-ecologia-del-municipio-de-cerralvo-n-l-41800"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "1994-05-13"
+last_updated: "2010-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ECOLOGIA DEL MUNICIPIO DE CERRALVO, N. L
 
-REGLAMENTO DE ECOLOGIA DEL MUNICIPIO DE CERRALVO, NUEVO LEON
+REGLAMENTO DE ECOLOGÍA DEL MUNICIPIO DE CERRALVO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ECOLOGÍA DEL MUNICIPIO DE CERRALVO. N.L., PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 13 de mayo de 1994.
 
@@ -978,3 +980,21 @@ Rosendo B. Rodríguez Moreno
 El C. Secretario del Ayuntamiento
 
 Iing. Juvenal Méndez González
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE OCTUBRE DE 2010.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación
+
+en el Periódico Oficial del Estado.
+
+SEGUNDO: Al entrar en vigor el presente Reglamento, quedará abrogado el
+
+Reglamento de Ecología de fecha 27 de Enero de 1994 mil novecientos noventa y
+
+cuatro.
+
+TERCERO: Lo no previsto en el presente Reglamento se pondrá a disposición del H.
+
+Ayuntamiento.
