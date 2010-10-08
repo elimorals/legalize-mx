@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-agropecuario-y-forestal-del-estado-de-baja-22805
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-23"
-last_updated: "2009-12-31"
+last_updated: "2010-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE FOMENTO AGROPECUARIO Y FORESTAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 8 DE OCTUBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 23 de noviembre de 2001.
 
@@ -1966,3 +1968,11 @@ Asimismo, dentro del plazo señalado en el primer párrafo de este Artículo la 
 Consecuentemente, la Secretaría de Fomento Agropecuario, en coordinación con la Secretaría de Planeación y Finanzas del Estado de Baja California solventará las observaciones efectuadas por el Órgano de Fiscalización Superior sobre la Cuenta Pública del Ejercicio Fiscal de 2009.
 
 SEXTO.- Se derogan las disposiciones que se opongan al contenido del Artículo Sexto del presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga la Ley de Fomento Agropecuario y Forestal del Estado de Baja California, así como las demás disposiciones que se opongan a la aplicación de la presente Ley.
+
+TERCERO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
