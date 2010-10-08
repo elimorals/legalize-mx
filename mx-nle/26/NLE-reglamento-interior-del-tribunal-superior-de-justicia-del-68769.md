@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2010-06-16"
+last_updated: "2010-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -601,23 +601,37 @@ VII. Cuando deje de cumplir con alguna de las obligaciones que le impone la ley.
 
 Las faltas en que incurran los peritos podrán ser denunciadas ante el Presidente del Tribunal Superior de Justicia, por cualquiera que tenga noticia de ellas. El trámite de estas denuncias se regirá por las mismas reglas que, conforme al artículo 27 de este reglamento, son aplicables a las quejas formuladas en contra del personal del Tribunal Superior de Justicia.
 
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 58.
 
-Baja administrativa. Los peritos causarán baja administrativa de la lista oficial, en los siguientes casos:
+Baja administrativa. Los peritos causarán baja administrativa de la lista oficial en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 I. Cuando omita recoger el oficio que lo acredita como perito de la lista oficial, dentro de los treinta días naturales siguientes a la publicación de la referida lista en el Boletín Judicial;
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 II. Cuando no pueda ser localizado en virtud de haber omitido comunicar cualquier cambio de domicilio profesional o teléfono;
 
-III. Cuando deje de asistir, sin causa justificada, al curso de inducción referido en el artículo 60 de este reglamento, que anualmente organizará el Tribunal Superior para los peritos incluidos en la lista oficial;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2010)</small>
+
+III. Cuando por cualquier motivo deje de asistir al curso de inducción, en los términos de los artículos 60 y 61 de este reglamento, que anualmente organizará el Tribunal Superior, para los peritos incluidos en la lista oficial;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 IV. Cuando el perito omita rendir el informe semestral sobre su actividad judicial, a que se refiere el artículo 60 de este reglamento;
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 V. Cuando el perito así lo solicite voluntariamente.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
+
 Cuando se actualice algunos de los supuestos anteriores, el Presidente del Tribunal Superior de Justicia lo informará al Pleno, a efecto de que éste decrete la baja administrativa, la cual será publicada, con efectos de notificación, en el Boletín Judicial.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 El perito que cause baja administrativa podrá solicitar su alta, cumpliendo con los requisitos y trámites respectivos, que al efecto se fijen en la lista oficial que deberá ser aprobada en el mes de enero siguiente.
 
@@ -642,6 +656,12 @@ Convenios para certificación, cursos y registro. Se promoverán con las institu
 También se organizarán, para los peritos incluidos en la lista oficial, cursos de inducción relativos a los conocimientos jurídico-procesales, forenses y de ética profesional, que deben tener presentes durante el desempeño de su función.
 
 La Secretaría General elaborará un registro estadístico consultable, sobre la actividad judicial de los peritos. Para esto, los juzgadores informarán a la Secretaría General de cada designación de perito que hagan; y cada perito deberá entregar anualmente a la Secretaría General, en el formato aprobado por ésta, dos informes sobre su actividad como perito en procesos judiciales, designado por alguna las partes o por el juez. El primer informe deberá entregarse durante la primera quincena de junio; y el segundo, durante la primera quincena de diciembre de cada año.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 61.
+
+Segunda programación del curso de inducción. Los peritos que por cualquier motivo no hayan podido asistir a la primera programación del curso de inducción a que se refiere el artículo 60 de este reglamento, deberán acudir sin falta a una segunda programación del mismo, la cual será también organizada por este tribunal.
 
 TRANSITORIOS:
 
@@ -678,3 +698,9 @@ SEGUNDO: Los asuntos del orden civil y de jurisdicción concurrente que estén a
 TERCERO: El titular de la Tercera Sala Unitaria continuará integrando la Primera Sala Colegiada Civil, junto con los titulares de las salas unitarias Primera y Décimo Quinta, en términos de lo dispuesto en el artículo 37 del Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León.
 
 CUARTO: Se ordena la publicación del presente acuerdo, por una sola vez, en el Boletín Judicial del Tribunal Superior de Justicia del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 8 DE OCTUBRE DE 2010.
+
+PRIMERO: Las presentes reformas y adiciones al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León tendrán vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se ordena la publicación del presente acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
