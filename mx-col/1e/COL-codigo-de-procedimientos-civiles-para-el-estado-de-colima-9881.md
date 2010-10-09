@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2009-09-26"
+last_updated: "2010-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
+CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -165,7 +165,7 @@ De la fijación de la litis
 
 #### SECCION III.- De los remates
 
-#### SECCION IV.- De la ejecución de las sentencias y demás resoluciones dictadas pro los Tribunales y Jueces del Distrito y Territorios Federales, de los Estados y del extranjero
+#### SECCION IV.- De la ejecución de las sentencias y demás resoluciones dictadas por los Tribunales y Jueces del Distrito y Territorios Federales, de los Estados y del extranjero
 
 ## TITULO OCTAVO.- Del Juicio Arbitral.- Reglas Generales
 
@@ -277,7 +277,7 @@ III.- La capacidad para ejercitar la acción por sí o por legítimo representan
 
 IV.- El interés en el (sic) actor para deducirla.
 
-Falta el requisito del interés siempre que no pueda alcanzarse el objeto de una acción, aún suponiendo favorable la sentencia.
+Falta el requisito del interés siempre que no pueda alcanzarse el objeto de una acción, aun suponiendo favorable la sentencia.
 
 ART. 2º.- La acción procede en juicio, aun cuando no se exprese su nombre, con tal de que se determina (sic) con claridad la clase de prestación que se exija del demandado y el título o causa de la acción.
 
@@ -295,9 +295,9 @@ ART. 8º.- No pueden reivindicarse las cosas que están fuera del comercio; los 
 
 ART. 9º.- (DEROGADO, P.O. 10 DE AGOSTO DE 1985)
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 10.- Procederá la acción negatoria para obtener la declaración de libertad o la de reducción de gravámenes de bien inmueble "o" la demolición de obras o señales que importen gravámenes, la tildación o anotación en el registro Público de la Propiedad y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título de dueño o que tenga derecho real sobre la heredad.
+ART. 10.- Procederá la acción negatoria para obtener la declaración de libertad o la de reducción de gravámenes de bien inmueble "o" la demolición de obras o señales que importen gravámenes, la tildación o anotación física o electrónica en el Registro Público de la Propiedad y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Solo se dará esta acción al poseedor a título de dueño o que tenga derecho real sobre la heredad.
 
 ART. 11.- Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
 
@@ -333,7 +333,9 @@ ART. 22.- El tercero obligado a la evicción deberá ser citado a juicio oportun
 
 ART. 23.- El tercero que, aduciendo derecho propio, intente excluir los derechos del actor y demandado o los del primero solamente, tiene la facultad de concurrir al pleito, aun cuando ya esté dictada sentencia ejecutoria.
 
-ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aún a los que no litigaron.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias expedidas firmadas en forma autógrafa o con la firma electrónica certificada del Director o persona autorizada del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones del estado civil perjudican aun a los que no litigaron.
 
 Las acciones de estado civil fundadas en la posesión de estado producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
@@ -351,7 +353,7 @@ I.- Si no se ha nombrado interventor ni albacea, puede ejercitarlas cualquiera d
 
 II.- Si se ha nombrado interventor o albacea, sólo a éstos compete la facultad de deducirlas en juicio, y sólo podrán hacerlo los herederos o legatarios cuando, requeridos por ellos, el albacea o el interventor se rehusen a hacerlo.
 
-ART. 29.- Ninguna acción puede ejercitarse sino por aquel a quien compete o por su representante legítimo. No obstante eso, el acreedor puede ejercitar las acciones que competen a su deudor cuando conste el crédito de aquél en título ejecutivo y, exitado (sic) éste para deducirlas, descuide o rehuse hacerlo. El tercer demandado puede paralizar la acción pagando al demandante el monto de su crédito.
+ART. 29.- Ninguna acción puede ejercitarse sino por aquel a quien compete o por su representante legítimo. No obstante eso, el acreedor puede ejercitar las acciones que competen a su deudor cuando conste el crédito de aquél en título ejecutivo y, excitado éste para deducirlas, descuide o rehuse hacerlo. El tercer demandado puede paralizar la acción pagando al demandante el monto de su crédito.
 
 Las acciones derivadas de derechos inherentes a la persona del deudor nunca se ejercitarán por el acreedor.
 
@@ -671,9 +673,9 @@ La reposición se substanciará "incidentalmente" y, sin necesidad de acuerdo ju
 
 Quedan los jueces facultados para investigar de oficio la existencia de los autos desaparecidos y la responsabilidad de quien, en su caso, sea el causante de su desaparición, valiéndose para ello de todos los medios que no sean contrarios a la moral o al derecho.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 71.- Para sacar copia o testimonio certificado de cualquier constancia o actuación que obre en un juicio, así como en los archivos o protocolos, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y petición de parte interesada en el juicio, previo pago de los derechos que al fisco estatal correspondan.
+ART. 71.- Para sacar copia o testimonio certificado de cualquier constancia o actuación que obre en un juicio, así como en los archivos o protocolos físicos o electrónicos, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y petición de parte interesada en el juicio, previo pago de los derechos que al fisco estatal correspondan.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -709,7 +711,7 @@ I.- Simples determinaciones de trámite y entonces se llamarán decretos;
 
 II.- Determinaciones que se ejecuten provisionalmente y que se llaman autos provisionales;
 
-III.- Decisiones que tienen fuerza de definitivas y que impiden o paralizan definitivamente la prosecusión del juicio, y se llaman autos definitivos;
+III.- Decisiones que tienen fuerza de definitivas y que impiden o paralizan definitivamente la prosecución del juicio, y se llaman autos definitivos;
 
 IV.- Resoluciones que preparan el conocimiento y decisión del negocio ordenando, admitiendo o desechando pruebas, y se llaman autos preparatorios;
 
@@ -717,9 +719,9 @@ V.- Decisiones que resuelven un incidente promovido antes o después de dictada 
 
 VI.- Sentencias definitivas.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 80.- Todas las resoluciones de primera y segunda instancia serán autorizadas por los jueces o magistrados y sus secretarios con sus firmas enteras, según la instancia en que se encuentre el juicio.
+ART. 80.- Todas las resoluciones de primera y segunda instancia serán autorizadas por los jueces o magistrados y sus secretarios con sus firmas enteras autógrafas o electrónicas certificadas, según la instancia en que se encuentre el juicio.
 
 ART. 81.- Las sentencias deben ser claras, precisas y congruentes con las demandas y las contestaciones y con las demás pretensiones deducidas oportunamente en el pleito, condenando o absolviendo al demandado, y decidiendo todos los puntos litigiosos que hayan sido objeto del debate. Cuando éstos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
@@ -727,7 +729,9 @@ ART. 82.- Quedan abolidas las antiguas fórmulas de las sentencias y basta con q
 
 ART. 83.- Los jueces y tribunales no podrán, bajo ningún pretexto, aplazar, dilatar ni negar la resolución de las cuestiones que hayan sido discutidas en el pleito.
 
-ART. 84.- Tampoco podrán los jueces y tribunales variar ni modificar sus sentencias después de firmadas, pero sí aclarar algún concepto o suplir cualquiera omisión que contengan sobre punto discutido en el litigio.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 84.- Tampoco podrán los jueces y tribunales variar ni modificar sus sentencias después de firmadas en forma autógrafa o electrónica, pero si aclarar algún concepto o suplir cualquiera omisión que contengan sobre punto discutido en el litigio.
 
 Estas aclaraciones podrán hacerse de oficio dentro del día hábil siguiente al de la publicación de la sentencia, o a instancia de parte presentada dentro del día siguiente al de la notificación.
 
@@ -763,15 +767,21 @@ ART. 94.- Las resoluciones judiciales firmes dictadas en negocios de alimentos, 
 
 ART. 95.- A toda demanda o contestación deberá acompañarse necesariamente: 1º- El poder que acredite la personalidad del que comparece en nombre de otro; 2º- El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3º- Una copia en papel común del escrito y de los documentos cuando haya de correrse traslado al colitigante. Si excedieren los documentos de veinticinco fojas, quedarán en la secretaría para que se instruyan las partes.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 96.- También deberán acompañarse a toda demanda o contestación, el documento o documentos en que la parte interesada funde su derecho.
+Los documentos a que hace referencia el párrafo anterior podrán ir firmados en forma autógrafa o con la firma electrónica.
 
-Si no los tuviera a su disposición, designará el archivo o lugar en que se encuentren los originales.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-Se entenderá que el actor tiene a su disposición los documentos y deberá acompañarlos precisamente a la demanda o contestación, siempre que existan los originales en un protocolo o archivo público del que pueda pedir y obtener copias autorizadas de ellos.
+ART. 96.- También deberán acompañarse a toda demanda o contestación, el documento o documentos firmados en forma autógrafa o con la firma electrónica, en que la parte interesada funde su derecho.
 
-ART. 97.- La presentación de documentos de que habla el artículo anterior, cuando sean públicos, podrá hacerse por copia simple, si el interesado manifestare que carece de otra fehaciente; pero no producirá aquélla ningún efecto si durante el término de prueba o en la audiencia respectiva no se presentare una copia del documento con los requisitos necesarios para que haga fe en juicio.
+Si no los tuviera a su disposición, designará el archivo físico o electrónico o lugar en que se encuentren los originales.
+
+Se entenderá que el actor tiene a su disposición los documentos firmados en forma autógrafa o con la firma electrónica certificada y deberá acompañarlos precisamente a la demanda o contestación, siempre que existan los originales en un protocolo o archivo público físico o electrónico del que pueda pedir y obtener copias autorizadas de ellos.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 97.- La presentación de documentos de que habla el artículo anterior, cuando sean públicos, podrá hacerse por copia simple, si el interesado manifestare que carece de otra fehaciente; pero no producirá aquélla ningún efecto si durante el término de prueba o en la audiencia respectiva no se presentare una copia del documento firmado en forma autógrafa o con la firma electrónica o en su versión electrónica, con los requisitos necesarios para que haga fe en juicio.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -1169,7 +1179,9 @@ Aunque el trámite de la inhibitoria o la declinatoria no suspende el procedimie
 
 ART. 163.- En caso de que la parte que se estima afectada no promueva cuestión de competencia alguna dentro de los términos señalados, se considerará sometido a la del Juez que lo emplazó y perderá todo derecho para impugnarla.
 
-Si por los documentos que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declinatoria se ha sometido a la jurisdicción del Tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Si por los documentos firmados en forma autógrafa o con la firma electrónica que se hubieren presentado o por otras constancias de autos, apareciere que el litigante que promueve la inhibitoria o la declinatoria se ha sometido a la jurisdicción del Tribunal que conoce del negocio, se desechará de plano, continuando su curso el juicio.
 
 También se desechará de plano cualquier competencia promovida que no tenga por objeto determinar el Juez o Tribunal que deba conocer de un asunto.
 
@@ -1349,9 +1361,13 @@ III.- Pidiendo el legatario o cualquiera otro que tenga el derecho de elegir una
 
 IV.- Pidiendo el que se crea heredero, coheredero o legatario, la exhibición de un testamento;
 
-V.- Pidiendo el comprador al vendedor, o el vendedor al comprador, en el caso de evicción, la exhibición de títulos u otros documentos que se refieran a la cosa vendida;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-VI.- Pidiendo un socio o comunero la presentación de los documentos y cuentas de la sociedad o comunidad, al consocio o condueño que los tenga en su poder;
+V.- Pidiendo el comprador al vendedor, o el vendedor al comprador, en el caso de evicción, la exhibición de títulos u otros documentos firmados en forma autógrafa o con la firma electrónica que se refieran a la cosa vendida;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+VI.- Pidiendo un socio o comunero la presentación de los documentos firmados en forma autógrafa o con la firma electrónica y cuentas de la sociedad o comunidad, al consocio o condueño que los tenga en su poder;
 
 VII.- Pidiendo el examen de testigos, cuando éstos sean de edad avanzada o se hallen en peligro inminente de perder la vida, o próximos a ausentarse a un lugar con el cual sean tardías o difíciles las comunicaciones, y no pueda deducirse aún la acción, por depender su ejercicio de un plazo o de una condición que no se haya cumplido todavía;
 
@@ -1367,13 +1383,17 @@ Contra la resolución que conceda la diligencia preparatoria no habrá ningún R
 
 ART. 195.- La acción que puede ejercitarse conforme a las fracciones II, III y IV del artículo 192 procede contra cualquiera persona que tenga en su poder las cosas que en ella se mencionan.
 
-ART. 196.- Cuando se pide la exhibición de un protocolo o de cualquiera otro documento archivado, la diligencia se practicará en el oficio del notario o en la oficina respectiva, sin que en ningún caso salgan de ellos los documentos originales.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 196.- Cuando se pide la exhibición de un protocolo o de cualquiera otro documento archivado en forma física o electrónica, firmados en forma autógrafa o con la electrónica, la diligencia se practicará en la oficina del notario o en la oficina respectiva, sin que en ningún caso salgan de ellos los documentos originales.
 
 ART. 197.- Las diligencias preparatorias de que se trata en las fracciones II a IV, VII y VIII del artículo 192 se practicarán con citación de la parte contraria, a quien se correrá traslado de la solicitud por el término de tres días, y se aplicarán las reglas establecidas para la práctica de la prueba testimonial.
 
 ART. 198.- Promovido el juicio, el tribunal, a solicitud del que hubiere pedido la preparación, mandará agregar las diligencias practicadas para que surtan sus efectos.
 
-ART. 199.- Si el tenedor del documento o cosa mueble fuere el mismo a quien se va a demandar, y sin causa alguna se negare a exhibirlos, se le apremiará por los medios legales, y si aún así resistiere la exhibición o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando, además, sujeto a la responsabilidad criminal en que hubiere incurrido. Si alegare alguna causa para no hacer la exhibición, se le oirá sumariamente.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 199.- Si el tenedor del documento firmado en forma autógrafa o con la firma electrónica o cosa mueble fuere el mismo a quien se va a demandar, y sin causa alguna se negare a exhibirlos, se le apremiará por los medios legales, y si aún así resistiere la exhibición o destruyere, deteriorare u ocultare aquéllos, o con dolo o malicia dejare de poseerlos, satisfará todos los daños y perjuicios que se hayan seguido, quedando, además, sujeto a la responsabilidad criminal en que hubiere incurrido. Si alegare alguna causa para no hacer la exhibición, se le oirá sumariamente.
 
 ## TITULO CUARTO (SIC). De la substanciación y decisión de la recusación con causa
 
@@ -1417,7 +1437,9 @@ Si después de dos citaciones no compareciere ni alegare justa causa que se lo i
 
 ART. 201.- El documento privado que contenga deuda líquida y sea de plazo cumplido, dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en caso de no hacerse aquél en el acto de la diligencia; pero siempre será necesario que previamente se intime al deudor para que reconozca su firma ante el actuario en el mismo acto. Cuando intimado dos veces rehuse contestar si es o no es suya la firma; se tendrá por reconocida.
 
-ART. 202.- Puede hacerse el reconocimiento de documentos firmados ante notario público, ya en el momento del otorgamiento o con posterioridad, siempre que lo haga la persona directamente obligada, su representante legítimo o su mandatario con poder bastante.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 202.- Puede hacerse el reconocimiento de documentos firmados ante notario público, en forma autógrafa o con la firma electrónica certificada, ya en el momento del otorgamiento o con posterioridad, siempre que lo haga la persona directamente obligada, su representante legítimo o su mandatario con poder bastante.
 
 El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que reconoce es apoderado del deudor y la cláusula relativa.
 
@@ -1485,7 +1507,7 @@ ART. 211.- (DEROGADO, P.O. 25 DE MARZO DE 2000)
 
 ART. 212.- Si hubiere hijos menores de edad, serán puestos al cuidado de la persona que de común acuerdo los cónyuges hubieren designado. En defecto de ese acuerdo, el juez resolverá provisionalmente, debiendo en todo caso quedar al cuidado de la madre los hijos menores de 7 años.
 
-Cualquier reclamación sobre el cuidado de los hijos, se substanciará en los términos del Título Décimo Sexto, Capítulo Unico, de este Código.
+Cualquier reclamación sobre el cuidado de los hijos, se substanciará en los términos del Título Décimo Sexto, Capítulo Único, de este Código.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
@@ -1515,11 +1537,13 @@ ART. 218.- Si el juez que decretó la medida prejudicial no fuere el que deba co
 
 ART. 219.- Cuando en escritura privada o pública sometieren los interesados las diferencias que surjan a la decisión de un árbitro y, no estando nombrado éste, debe prepararse el juicio arbitral por el nombramiento del mismo por el juez.
 
-ART. 220.- Al efecto, presentándose el documento con la cláusula compromisoria por cualquiera de los interesados, citará el juez a una junta dentro del tercer día para que se presenten a elegir árbitro, apercibiéndolos de que, en caso de no hacerlo, lo hará en su rebeldía.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-Si la cláusula compromisoria forma parte de un documento privado, al emplazar a la otra parte a la junta a que se refiere el artículo anterior, el actuario la requerirá previamente para que reconozca la firma del documento, y si se rehusare a contestar a la segunda interrogación, se tendrá por reconocida.
+ART. 220.- Al efecto, presentándose el documento firmado en forma autógrafa o con la firma electrónica con la cláusula compromisoria por cualquiera de los interesados, citará el juez a una junta dentro del tercer día para que se presenten a elegir árbitro, apercibiéndolos de que, en caso de no hacerlo, lo hará en su rebeldía.
 
-ART. 221.- En la junta procurará el juez que elijan arbitro de común acuerdo los interesados y, en caso de no conseguirlo, designará uno entre las personas que anualmente son listadas por el Supremo Tribunal, con tal objeto.
+Si la cláusula compromisoria forma parte de un documento privado, al emplazar a la otra parte a la junta a que se refiere el artículo anterior, el actuario la requerirá previamente para que reconozca la firma autógrafa o electrónica del documento, y si se rehusare a contestar a la segunda interrogación, se tendrá por reconocida.
+
+ART. 221.- En la junta procurará el juez que elijan árbitro de común acuerdo los interesados y, en caso de no conseguirlo, designará uno entre las personas que anualmente son listadas por el Supremo Tribunal, con tal objeto.
 
 Lo mismo se hará cuando el árbitro nombrado en el compromiso renunciare y no hubiere substituto designado.
 
@@ -1569,7 +1593,9 @@ ART. 237.- No pueden dictarse otras providencias precautorias que las establecid
 
 ART. 238.- El que pida la providencia precautoria deberá acreditar el derecho que tiene para gestionar y la necesidad de la medida que solicita.
 
-La prueba puede consistir en documento o en testigos idóneos que serán por lo menos tres.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+La prueba puede consistir en documento firmado en forma autógrafa o con la firma electrónica o en testigos idóneos que serán por lo menos tres.
 
 ART. 239.- Si el arraigo de una persona para que conteste en juicio se pide al tiempo de entablar la demanda, bastará la petición del actor para que se haga al demandado la correspondiente notificación.
 
@@ -1581,7 +1607,7 @@ ART. 241.- El que quebrantare el arraigo será castigado con la pena que señala
 
 ART. 242.- Cuando se solicite el secuestro provisional se expresará el valor de la demanda o el de la cosa que se reclama, designando ésta con toda precisión, y el juez, al decretarlo, fijará la cantidad por la cual haya de practicarse la diligencia.
 
-ART. 243.- Cuando se pida un secuestro provisional, sin fundarlo en título ejecutivo, el actor dará fianza de responder por los daños y perjuicios que se sigan, ya porque se revoque la providencia, ya por que entablada la demanda, sea absuelto el reo.
+ART. 243.- Cuando se pida un secuestro provisional, sin fundarlo en título ejecutivo, el actor dará fianza de responder por los daños y perjuicios que se sigan, ya porque se revoque la providencia, ya porque entablada la demanda, sea absuelto el reo.
 
 ART. 244.- Si el demandado consigna el valor u objeto reclamado, si da fianza bastante a juicio del juez, o prueba tener bienes raíces suficientes para responder del éxito de la demanda, no se llevará a cabo la providencia precautoria, o se levantará la que se hubiere dictado.
 
@@ -1593,7 +1619,7 @@ ART. 246.- De toda providencia precautoria queda responsable el que la pida, por
 
 ART. 247.- En la ejecución de las providencias precautorias no se admitirá excepción alguna.
 
-ART. 248.- El aseguramiento de bienes decretados por providencia precautoria y la consignación a que se refiere el artículo 244 se rigen por lo dispuesto en las reglas generales del secuestro, formándose la sección de ejecución que se previene en los juicios ejecutivos. El lnterventor y el depositario serán nombrados por el juez.
+ART. 248.- El aseguramiento de bienes decretados por providencia precautoria y la consignación a que se refiere el artículo 244 se rigen por lo dispuesto en las reglas generales del secuestro, formándose la sección de ejecución que se previene en los juicios ejecutivos. El Interventor y el depositario serán nombrados por el juez.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
@@ -1855,6 +1881,10 @@ IX.- Presunciones; y
 
 X.- Demás medios que produzcan convicción en el juzgador.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Los documentos a que se refieren la fracción II, podrán constar en versión electrónica y estar firmados con firma electrónica certificada. Los documentos a que se refieren las fracciones III y IV podrán constar en versión electrónica y estar firmados con firma electrónica.
+
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
 
 ART. 288 BIS.- Salvo disposición contraria de la Ley, lo dispuesto en este Capítulo es aplicable a toda clase de procedimientos.
@@ -1877,7 +1907,9 @@ ART. 292.- La prueba pericial procede cuando sean necesarios conocimientos espec
 
 ART. 293.- Los documentos deberán ser presentados al ofrecerse la prueba documental. Después de este período no podrán admitirse sino los que dentro del término hubieren sido pedidos con anterioridad y no fueren remitidos al juzgado, sino hasta después; y los documentos justificativos de hechos ocurridos con posterioridad, o de los anteriores cuya existencia ignore el que los presente, aseverándolo así bajo protesta de decir verdad.
 
-ART. 294.- Las partes están obligadas, al ofrecer la prueba de documentos que no tienen en su poder, a expresar el archivo en que se encuentren, o si se encuentran en poder de terceros y si son propios o ajenos.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 294.- Las partes están obligadas, al ofrecer la prueba de documentos que no tienen en su poder, a expresar el archivo físico o electrónico en que se encuentren, o si se encuentran en poder de terceros y si son propios o ajenos.
 
 ART. 295.- Los documentos que ya se exhibieron antes de este período y las constancias de autos se tomarán como prueba aunque no se ofrezcan.
 
@@ -1942,6 +1974,10 @@ ART. 299.- Al día siguiente de que se notifique el auto de admisión, se abre p
 ART. 300.- Cuando las pruebas hubieren de practicarse fuera del Estado, a petición de parte, se concederá un término extraordinario siempre que se llenen los siguientes requisitos: 1º.- Que se solicite durante el ofrecimiento de pruebas; 2º.- Que se indiquen los nombres y residencia de los testigos que hayan de ser examinados, cuando la prueba sea testimonial; y 3º.- Que se designen en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que han de cotejarse, o presentarse originales.
 
 El Juez, al calificar la admisibilidad de las pruebas resolverá sobre el término extraordinario y determinará el monto de la cantidad que el oferente deberá depositar para garantizar el pago de la multa, en caso de que la prueba no sea incorporada a los autos dentro del plazo respectivo. Si el oferente no hace este depósito dentro de los tres días siguientes a la notificación del auto que admitió la prueba, éste quedará sin efecto jurídico y precluirá el derecho del oferente a que se practique dicha prueba.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+En el caso de que los documentos se puedan cotejar por vía electrónica, se deberá indicar la dependencia y la página de internet de ésta, supuesto en el cual la concesión del término extraordinario de prueba será innecesario.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -2043,7 +2079,7 @@ ART. 313.- Si fueren varios los que hayan de absolver posiciones y al tenor de u
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 314.- En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por su abogado, procurador ni otra persona, ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente fuera extranjero, podrá ser asistido por un interprete, en cuyo caso el Juez lo nombrará. Si la parte lo pide, se asentará también su declaración en su propio idioma, con intervención del intérprete.
+ART. 314.- En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por su abogado, procurador ni otra persona, ni se le dará traslado ni copia de las posiciones, ni término para que se aconseje; pero si el absolvente fuera extranjero, podrá ser asistido por un intérprete, en cuyo caso el Juez lo nombrará. Si la parte lo pide, se asentará también su declaración en su propio idioma, con intervención del intérprete.
 
 ART. 315.- Las contestaciones deberán ser categóricas, en sentido afirmativo o negativo, pudiendo el que las dé, agregar las explicaciones que estime convenientes o las que el juez le pida.
 
@@ -2111,61 +2147,131 @@ IV. Serán aplicables a esta prueba, en lo conducente, las reglas de la prueba t
 
 #### SECCION III. Documentos públicos y privados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 326.- Para demostrar los hechos controvertidos, son admisibles toda clase de documentos públicos o privados que consten en soporte material o soporte electrónico, estén o no firmados.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Son documentos públicos los autorizados por funcionarios públicos o depositarios de la fe pública, firmados en forma autógrafa o con su firma electrónica certificada, dentro de los límites de su competencia, y con las solemnidades o formalidades prescritas por la ley.
+
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
-
-ART. 326.- Para demostrar los hechos controvertidos, son admisibles toda clase de documentos públicos o privados.
-
-Son documentos públicos los autorizados por funcionarios públicos o depositarios de la fe pública, dentro de los límites de su competencia, y con las solemnidades o formalidades prescritas por la ley.
 
 Tendrán ese carácter tanto los originales como los testimonios y las copias certificadas que autoricen o expidan dichos funcionarios o profesionales con facultades para certificar.
 
-La calidad de auténticos y públicos se podrá demostrar, además, por la existencia regular en los documentos, de sello, firmas u otros signos exteriores, que en su caso, prevengan las leyes.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+La calidad de auténticos y públicos se podrá demostrar, además, por la existencia regular en los documentos, de sello, firmas u otros signos exteriores, que en su caso, prevengan las leyes. La misma calidad tendrán los documentos electrónicos, firmados con firma electrónica certificada que reúnan los requisitos que al respecto establezca la Ley sobre el uso de medios electrónicos y de firma electrónica y su reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 Por tanto, en forma enunciativa y no limitativa, son documentos públicos:
 
-I.- Los testimonios y las copias certificadas de las escrituras y actas otorgadas ante notarios públicos, así como los originales de dichas escrituras y actas;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+I.- Los testimonios y las copias certificadas de las escrituras y actas otorgadas ante notarios públicos, así como los originales de dichas escrituras y actas, firmadas en forma autógrafa o con firma electrónica certificada;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
 II.- Los documentos auténticos expedidos por funcionarios que desempeñen cargo público en lo que se refiere al ejercicio de sus funciones;
 
-III.- Los documentos auténticos, libros de actas, estatutos, registros y catastro que se hallen en los archivos públicos o dependientes del Gobierno del (sic) Federal, de los Estados, de los Ayuntamientos y del Distrito Federal;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-IV.- Las certificaciones de actas del estado civil expedidas por los Oficiales del Registro Civil, respecto a constancias existentes en los libros correspondientes;
+III.- Los documentos auténticos, libros de actas, estatutos, registros y catastro que se encuentren en los archivos públicos o dependientes del Gobierno Federal, de los Estados, de los Ayuntamientos y del Distrito Federal, firmados en forma autógrafa o con firma electrónica certificada;
 
-V.- Las certificaciones de constancias existentes en los archivos públicos expedidas por funcionarios a quienes competa;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+IV.- Las certificaciones de actas del estado civil expedidas por los Oficiales del Registro Civil o persona facultada, firmadas en forma autógrafa o con la firma electrónica certificada, respecto a constancias existentes en los libros correspondientes o en los archivos electrónicos;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+V.- Las certificaciones de constancias existentes en los archivos públicos físicos o electrónicos, firmados en forma autógrafa o con la electrónica certificada, expedidas por funcionarios a quienes competa;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
 VI.- Las certificaciones de constancias en los archivos parroquiales y que se refieran a actos pasados antes del establecimiento del Registro Civil, siempre que fueren cotejadas por notario público o quien haga sus veces con arreglo a derecho;
 
-VII.- Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, así como universidades, siempre que estuvieren aprobados por el Gobierno Federal, o de los Estados, y las copias certificadas que de ellos se expidieren;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+VII.- Las ordenanzas, estatutos, reglamentos y actas de sociedades o asociaciones, así como universidades, siempre que estuvieren aprobados por el Gobierno Federal, o de los Estados, y las copias certificadas que de ellos se expidieren con firma autógrafa o con la firma electrónica certificada;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
 VIII.- Las actuaciones judiciales de toda especie;
 
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
 IX.- Las certificaciones que expidieren las bolsas mercantiles o mineras autorizadas por la Ley y las expedidas por corredores titulados con arreglo al Código de Comercio;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
 
 X.- Las actas autorizadas por los corredores públicos, así como los asientos de su libro de registro y las copias certificadas que expidan de las actas y asientos, con apego a la Ley de la materia; y
 
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+
 XI.- Los demás a los que se les reconozca ese carácter por la Ley.
 
-Por testimonio se entiende la copia de una escritura pública expedida por el notario ante quien se otorgó o por el que lo sustituya conforme a la Ley.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-Auténtico se llama a todo documento que está autorizado y firmado por el servidor público que tenga facultades para certificar y que lleve el sello de la oficina respectiva.
+Por testimonio se entiende la copia de una escritura pública expedida por el notario ante quien se otorgó o por el que lo sustituya conforme a la Ley firmada en forma autógrafa o con la firma electrónica certificada.
 
-ART. 327.- Los documentos públicos expedidos por autoridades federales o funcionarios de los Estados o del Distrito y Territorios Federales, harán fe en esta entidad sin necesidad de legalización.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Auténtico se llama a todo documento que está autorizado y firmado, en forma autógrafa, por el servidor público que tenga facultades para expedirlo y que lleve el sello de la oficina respectiva; o el que contengan la firma electrónica certificada del servidor público facultado, en cuyo caso no se requerirá el sello.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Cuando se trate de documentos firmados con la firma electrónica certificada no se requiera la exigencia del sello de la oficina respectiva.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 327.- Los documentos públicos expedidos por autoridades federales o funcionarios de los Estados o del Distrito y Territorios Federales, y firmados en forma autógrafa o con la firma electrónica fiable que corresponda, harán fe en esta entidad sin necesidad de legalización.
 
 ART. 328.- Para que hagan fe en el estado los documentos públicos procedentes del extranjero, deberán lenar (sic) los requisitos que fija el Código Federal de Procedimientos Civiles.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 329.- A todo documento redactado en idioma extranjero, se acompañará la traducción del mismo, copia de aquél y de ésta. Con ambos, se mandará dar vista a la parte contraria para que dentro del tercer día manifieste si está conforme. Si lo estuviere o no manifestara nada, se pasará por la traducción; en caso contrario, el Tribunal nombrará traductor.
+ART. 329.- A todo documento redactado en idioma extranjero, firmado en forma autógrafa o con la firma electrónica, se acompañará la traducción del mismo, copia o reproducción de aquél y de ésta. Con ambos, se mandará dar vista a la parte contraria para que dentro del tercer día manifieste si está conforme. Si lo estuviere o no manifestara nada, se pasará por la traducción; en caso contrario, el Tribunal nombrará traductor.
 
-ART. 330.- Siempre que uno de los litigantes pidiere copia o testimonio de parte de un documento, o pieza que obre en los archivos públicos, el contrario tendrá derecho de que a su costa se adicione con lo que crean conducente del mismo documento.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 330.- Siempre que uno de los litigantes pidiere, cuando esto fuere posible, copia o testimonio de parte de un documento, firmados en forma autógrafa o con la electrónica certificada, o pieza que obre en los archivos públicos físicos o electrónicos, el contrario tendrá derecho de que a su costa se adicione con lo que crean conducente del mismo documento.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
 ART. 331.- Los documentos existentes en un lugar distinto de aquél en que se sigue el negocio, se compulsarán a virtud de despacho o exhorto que dirija el Tribunal de los autos al Juez del lugar en que aquellos se encuentren.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 332.- El documento público hace fe plena de su formación y de los hechos que el funcionario público, el notario o el corredor, autorizados por la Ley para formarlo, declaren haber ocurrido en su presencia. Contra esta prueba sólo se admite la impugnación por falsedad. En este caso, se decretará su cotejo con los que obren en los archivos o protocolos de los que provengan. El cotejo se practicará en el archivo o local en donde se halle la matriz del documento impugnado, con asistencia de las partes, si concurriesen, a cuyo fin se señalará y hará saber previamente el día y la hora. El cotejo también podrá hacerlo el Secretario cuando el juzgador así lo determine. Si el archivo o protocolo no están dentro de la jurisdicción, el cotejo se practicará por medio de exhorto.
+Cuando se trate de documentos firmados con la firma electrónica certificada, se compulsarán, de ser posible, levantando la actuación correspondiente, observando el documento en la página de internet o en la base de datos de la dependencia que lo expidió. De no ser posible la referida compulsa, se procederá en los términos del párrafo anterior.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 332.- El documento público hace fe plena de su formación y de los hechos que el funcionario público, el notario o el corredor, autorizados por la Ley para formarlo, declaren haber ocurrido en su presencia. Contra esta prueba solo se admite la impugnación por falsedad. En éste caso, se decretará su cotejo con los que obren en los archivos o protocolos físicos o electrónicos de los que provengan. El cotejo se practicará en el archivo físico o electrónico o en el local o por medio de la página de internet en donde se halle la matriz del documento impugnado, con asistencia de las partes, si concurriesen, a cuyo fin se señalará y hará saber previamente el día y la hora. El cotejo también podrá hacerlo el Secretario cuando el juzgador así lo determine. Si el archivo o protocolo físico o electrónico no están dentro de la jurisdicción o no tiene página de internet la dependencia que lo expidió o no funciona ésta, el cotejo se practicará por medio de exhorto.
+
+Cuando alguna de las partes no esté de acuerdo con la compulsa que se verifique vía electrónica, podrá solicitar se practique éste vía exhorto.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 332 Bis.- Los documentos públicos firmados con la firma electrónica certificada, tendrán respecto de los datos en el consignados el mismo valor que los expedidos con la firma autógrafa; y no altera las normas relativas a los documentos en que unos y otros consten y serán admisibles como medios de prueba.
+
+Los documentos en que se utilice la firma electrónica certificada, se incluirá en sus algoritmos el contenido del sello, y cuando sea posible, en los formatos predeterminados aparecerán visibles, y al imprimirse se estamparan en el documento, de acuerdo con los parámetros señalados en el primer párrafo.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 332 Bis 1.- Para utilizar la firma electrónica certificada en la celebración de los actos jurídicos en que se haga uso de la misma, además de lo contenido en este Código, se deberá observar lo dispuesto en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 332 Bis 2.- En los casos en que se exija la firma autógrafa de las partes, dicho requisito se tendrá por cumplido, tratándose de documentos existentes en archivos electrónicos y que se materialicen en forma de documento, siempre que en estos se utilice la firma electrónica.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 332 Bis 3.- Cuando la ley exija una solemnidad que no sea susceptible de cumplirse mediante la firma electrónica certificada, se requiera la comparecencia personal, o exija la firma autógrafa, entre otros, se estará a lo señalado en la disposición correspondiente.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 332 Bis 4.- Los documentos, firmados en forma autógrafa o con la firma electrónica fiable que corresponda, emitidos por las entidades federativas, la federación, así como por países extranjeros, tendrán en el Estado la fuerza que establezcan las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -2213,21 +2319,23 @@ Tratándose de los documentos exhibidos con la demanda, el demandado, si pretend
 
 Tratándose de documentos exhibidos por la parte demandada junto con su contestación a la demanda, o bien de documentos exhibidos por cualquiera de las partes con posterioridad a los escritos que fijan la litis, la impugnación se hará en la vía incidental, dentro de los tres días siguientes al auto admisorio de pruebas, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser impugnados en igual término, contado desde la notificación del auto que ordene su recepción. En ambos casos, la resolución se reservará para la definitiva.
 
-Para que se pueda dar curso a la impugnación, el interesado deberá expresar con toda precisión los motivos o causas en los que se base para sostener que el documento es falso o inexacto y precisará el archivo o protocolo del que provenga el documento impugnado, para que pueda hacerse el cotejo correspondiente; o en su defecto, señalará los documentos indubitables para que el mismo se practique.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Para que se pueda dar curso a la impugnación, el interesado deberá expresar con toda precisión los motivos o causas en los que se base para sostener que el documento es falso o inexacto y precisará el archivo o protocolo físico o electrónico del que provenga el documento impugnado, para que pueda hacerse el cotejo correspondiente; o en su defecto, señalará los documentos indubitables para que el mismo se practique.
 
 Si con la impugnación a que se refieren los párrafos anteriores no se ofreciere la prueba pericial correspondiente o no se cumpliere con cualquiera de los requisitos previstos para su admisión o trámite, se desechará de plano por el juzgador.
 
 Cuando el juicio se siga en rebeldía y el actor haya presentado documentos cuya autoría atribuye al demandado y éste no los haya objetado, será necesario su reconocimiento, el que se practicará con sujeción a las disposiciones sobre la confesión, y surtirá sus mismos efectos. Si el documento es de un tercero, la verdad de su contenido debe demostrarse por otras pruebas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS AL CODIGO.</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+ART. 339 BIS.- La objeción de documentos firmados en forma autógrafa o con la firma electrónica, inclusive de los que no se encuentren firmados, se tramitará en vía incidental, dentro de los tres días siguientes al auto admisorio de pruebas, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contados desde la notificación del auto que ordene su recepción.
 
-ART. 339 BIS.- La objeción de documentos se tramitará en vía incidental, dentro de los tres días siguientes al auto admisorio de pruebas, tratándose de los presentados hasta entonces. Los exhibidos con posterioridad podrán ser objetados en igual término, contados desde la notificación del auto que ordene su recepción.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 340.- La falsedad consiste en la formación de un documento, no verdadero, o en la alteración de uno auténtico, o bien en la falta de veracidad de los hechos representados en un documento público que obre en archivo físico o electrónico y que se afirman como ocurridos ante un servidor público, notario o corredor.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
-
-ART. 340.- La falsedad consiste en la formación de un documento no verdadero, o en la alteración de uno auténtico, o bien en la falta de veracidad de los hechos representados en un documento público que se afirman como ocurridos ante un servidor público, notario o corredor.
 
 También se considera que existe falsedad en los documentos privados cuando quien ha recibido el documento firmado, con el texto no escrito en su totalidad, haya formado o complementado, o hecho formar o completar su texto, en contra de los acuerdos tomados con el firmante.
 
@@ -2235,21 +2343,25 @@ También se considera que existe falsedad en los documentos privados cuando quie
 
 ART. 341.- Cuando se impugne la autenticidad de un documento privado o público sin matriz, deberán señalarse los documentos indubitables para el cotejo o solicitar al Tribunal que cite al interesado para que, en su presencia, estampe la firma, letras o huella digital que servirá para el cotejo, así como promover la prueba pericial correspondiente.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Cuando se trate de documentos públicos que consten en archivos electrónicos el juzgador podrá compulsarlos en la página de internet de la dependencia en el que se encuentren estos, y solicitar a la autoridad certificadora, la comprobación de la validez de la firma electrónica certificada o fiable que corresponda, si no tiene página de internet la dependencia que lo expidió o no funciona ésta, el cotejo se practicará por medio de exhorto.
+
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
 ART. 342.- Se considerarán indubitados para el cotejo:
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-I.- Los documentos que las partes reconozcan como tales, de común acuerdo, debiendo manifestar su conformidad a la autoridad judicial.
+I.- Los documentos físicos o electrónicos, firmados en forma autógrafa o con la firma electrónica, que las partes reconozcan como tales, de común acuerdo, debiendo manifestar su conformidad a la autoridad judicial;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-II.- Los documentos privados cuya letra o firma hayan sido reconocidas en juicio por aquél a quien se atribuya la falsedad.
+II.- Los documentos privados físicos o electrónicos cuya letra o firma autógrafa o electrónica hayan sido reconocidos en juicio por aquél a quien se atribuya la falsedad;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-III.- Los documentos privados cuya letra, firma o huella dactilar haya sido judicialmente declarada propia de aquél a quien se atribuye la falsedad del documento, exceptuando el caso en que la declaración haya sido hecha en rebeldía.
+III.- Los documentos privados físicos o electrónicos cuya letra, firma autógrafa o electrónica o huella dactilar hayan sido judicialmente declaradas propias de aquél a quien se atribuye la falsedad del documento, exceptuando el caso en que la declaración haya sido hecha en rebeldía;
 
 IV.- El escrito impugnado en la parte en que reconozca la letra como suya aquél a quien perjudique.
 
@@ -2289,7 +2401,9 @@ Si fueren más de dos los litigantes, nombrarán un perito los que sostuvieren u
 
 Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, de tal modo que el Juez considere que no es posible encontrar conclusiones que le aporten elementos de convicción, designará al perito tercero en discordia.
 
-Los peritos fundamentarán en forma idónea su dictamen y podrán acompañar a éste dibujos, planos, muestras u otros anexos que sirvan para ilustrarlo. Además, podrán solicitar aclaraciones a las partes, requerir informes de terceros y ejecutar calcas, planos, relieves, así como todas las actividades que sean indispensables para rendir su dictamen. Igualmente estarán facultados para inspeccionar lugares, bienes muebles o inmuebles, documentos y libros, y obtener muestras para motivar sus dictámenes. Las partes y terceros estarán obligados a darles facilidades para el cumplimiento de su misión y el juzgador les prestará, para este fin, el auxilio necesario.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Los peritos fundamentarán en forma idónea su dictamen y podrán acompañar a éste dibujos, planos, muestras u otros anexos que sirvan para ilustrarlo. Además, podrán solicitar aclaraciones a las partes, requerir informes de terceros y ejecutar calcas, planos, relieves, así como todas las actividades que sean indispensables para rendir su dictamen. Igualmente estarán facultados para inspeccionar lugares, bienes muebles o inmuebles, documentos, libros, archivos físicos o electrónicos y obtener muestras para motivar sus dictámenes. Las partes y terceros estarán obligados a darles facilidades para el cumplimiento de su misión y el juzgador les prestará, para este fin, el auxilio necesario.
 
 Las partes podrán manifestar su conformidad con el dictamen del perito de la contraria y hacer observaciones al mismo, que serán consideradas en la valoración que realice el Juez en su sentencia.
 
@@ -2383,13 +2497,19 @@ Asimismo, podrán citarse a testigos de identidad para que concurran, si fuere n
 
 ART. 354.- La inspección o reconocimiento se practicará personalmente por el juzgador o se encomendará al Secretario.
 
-Si se trata de inspeccionar un inmueble, o bien un objeto o documento que no pueda ser llevado ante el juzgador sin gran dificultad o considerables gastos, o porque la Ley no lo autorice, la inspección se efectuará constituyéndose en el lugar donde el bien se encuentre. En el caso contrario, la parte que lo tenga en su poder deberá exhibirlo ante la autoridad judicial.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Si se trata de inspeccionar un inmueble, o bien un objeto o documento físico o electrónico que no pueda ser llevado ante el juzgador sin gran dificultad o considerables gastos, o porque la Ley no lo autorice, la inspección se efectuará constituyéndose en el lugar donde el bien o el documento se encuentre. En el caso contrario, la parte que lo tenga en su poder deberá exhibirlo ante la autoridad judicial.
 
 La inspección judicial sobre personas podrá practicarse con el concurso de uno o varios peritos, y deberá efectuarse en tal forma que no menoscabe su dignidad.
 
-En la inspección de documentos de contabilidad y libros, el juzgador también podrá auxiliarse de peritos nombrados por él o por las partes, quienes en su informe podrán referirse a libros o documentos que tuvieron a la vista, aunque no haya sido con objeto de la inspección.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-Al practicarse la inspección, el juzgador o funcionario que actúe podrá disponer que se ejecuten planos, calcas o copias, se tomen fotografías, películas, grabaciones por video o de cualquier otra especie, de objetos, documentos y lugares, cuando se requiera.
+En la inspección de documentos de contabilidad y libros físicos o electrónicos, el juzgador también podrá auxiliarse de peritos nombrados por el o por las partes, quienes en su informe podrán referirse a los libros o documentos que tuvieron a la vista, aunque no haya sido con objeto de la inspección.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Al practicarse la inspección, el juzgador o funcionario que actué podrá disponer que se ejecuten planos, calcas o copias, se tomen fotografías, películas, grabaciones por video o de cualquier otra especie, de objetos, documentos y lugares, cuando se requiera, inclusive archivos electrónicos.
 
 También podrá ordenar, para comprobar que un hecho se ha producido, o pudo haberse producido en forma determinada, que se reconstruya. La diligencia podrá hacerse constar por medio de fotografías, videograbación, u otros medios tecnológicos.
 
@@ -2505,7 +2625,7 @@ En caso de que el oferente de la prueba no se presente el día de la audiencia a
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2008)</small>
 
-ART. 365.- El Tribunal tendrá la más amplia facultad para hacer a los testigos y a las partes las preguntas que estime conducentes a la investigación de la verdad respecto a los puntos controvertidos, así como para cerciorarse de la idoneidad de los testigos, asentandose todo en el acta.
+ART. 365.- El Tribunal tendrá la más amplia facultad para hacer a los testigos y a las partes las preguntas que estime conducentes a la investigación de la verdad respecto a los puntos controvertidos, así como para cerciorarse de la idoneidad de los testigos, asentándose todo en el acta.
 
 ART. 366.- Si el testigo no sabe el idioma rendirá su declaración por medio de intérprete, que será nombrado por el juez. Si el testigo lo pidiere, además de asentarse su declaración en castellano, podrá escribirse en su propio idioma por él o por el intérprete.
 
@@ -2536,6 +2656,10 @@ ART. 373.- Como medio de prueba deben admitirse también los registros dactilosc
 La parte que presente esos medios de prueba deberá indicar los hechos y circunstancias que desea probar y proporcionar al Tribunal los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros y reproducirse los sonidos e imágenes.
 
 El juzgador, según su prudente arbitrio, admitirá o denegará la prueba y señalará al oferente un plazo para que la presente, así como el día y la hora para que en su presencia y en la de las partes, se lleve a cabo la práctica del experimento, reproducción o reconstrucción.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Cuando se trate información generada o comunicada que conste en medios electrónicos, se deberá indicar además la base de datos, la dirección electrónica, la página de internet o el lugar donde estos se puedan compulsar.
 
 ART. 374.- Los escritos y notas taquigráficas pueden presentarse por vía de prueba, siempre que se acompañe la traducción de ellos, haciéndose especificación exacta del sistema taquigráfico empleado.
 
@@ -2619,9 +2743,9 @@ ART. 407.- La confesión extrajudicial hecha en testamento también hace prueba 
 
 ART. 408.- La confesión no producirá efecto probatorio cuando venga acompañada con otras pruebas o presunciones que la hagan inverosímil o descubran la intención de defraudar a terceros. Debe el juez razonar cuidadosamente esta parte en su fallo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 409.- Los documentos públicos hacen prueba plena de los hechos legalmente afirmados por la autoridad que de aquéllos procedan; pero, si en ellos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones; pero no prueban la verdad de lo declarado o manifestado.
+ART. 409.- Los documentos públicos firmados en forma autógrafa o con la firma electrónica certificada o fiable que corresponda, hacen prueba plena de los hechos legalmente afirmados por la autoridad que de aquellos procedan; pero, si en ellos se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones; pero no prueban la verdad de lo declarado o manifestado.
 
 Las declaraciones o manifestaciones de que se trata prueban plenamente contra quienes las hicieron o asistieron al acto en que fueron hechas, y se manifestaron conformes con ellas. Pierden su valor en el caso de que judicialmente se declare su simulación.
 
@@ -2663,11 +2787,11 @@ En los casos de este artículo y en los del anterior, no tendrá valor probatori
 
 ART. 415.- Si un documento privado contiene juntos uno o más hechos contrarios a los intereses de su autor, y uno o más hechos favorables al mismo, la verdad de los primeros no puede aceptarse sin aceptar, al propio tiempo, la verdad de los segundos, en los límites dentro de los cuales los hechos favorables suministren, a aquél contra el cual está producido el documento, una excepción o defensa contra la prestación que apoyan los hechos que le son contrarios.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 415 BIS.- Para valorar la fuerza probatoria de la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología, se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
+ART. 415 BIS.- Para valorar la fuerza probatoria de la información generada, enviada, recibida, archivada o comunicada que conste en medios electrónicos, ópticos, magnéticos o en cualquier otra tecnología, se estimará primordialmente la fiabilidad del método en que haya sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta, compulsa y cotejo.
 
-Cuando la Ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y ésta pueda ser accesible para su ulterior consulta.
+Cuando la Ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos, magnéticos o de cualquier otra tecnología, se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y esta pueda ser accesible para su ulterior consulta.
 
 ART. 416.- El documento que un litigante presenta, prueba plenamente en su contra, en todas sus partes, aunque el colitigante no lo reconozca.
 
@@ -2855,7 +2979,7 @@ ART. 430.- Todas las contiendas entre partes cuya tramitación no esté prevista
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 431.- En el caso de la fracción XVI del artículo 429, no se requieren mas solemnidades que oír a las partes; primero al denunciante o al actor; enseguida a los demandados; recibir en este orden sus pruebas en el acto mismo y dictar allí la resolución. Si no estuviere el secretario, procederá el juez con dos testigos de asistencia.
+ART. 431.- En el caso de la fracción XVI del artículo 429, no se requieren más solemnidades que oír a las partes; primero al denunciante o al actor; enseguida a los demandados; recibir en este orden sus pruebas en el acto mismo y dictar allí la resolución. Si no estuviere el secretario, procederá el juez con dos testigos de asistencia.
 
 Todo el juicio se hará constar en una sola acta.
 
@@ -2957,7 +3081,7 @@ Si el título ejecutivo o las diligencias preparatorias determinan una cantidad 
 
 ART. 446.- Las cantidades que por intereses o perjuicios formen parte de la deuda reclamada y no estuvieren liquidadas al despacharse la ejecución, lo serán en su oportunidad y se decidirán en la sentencia definitiva.
 
-ART. 447.- Las obligaciones sujetas a condición suspensiva o a plazo no serán ejecutivas sino cuando aquéllas o éste se hallan cumplido, salvo lo dispuesto en los artículos 1,836 y 1,850 del Código Civil.
+ART. 447.- Las obligaciones sujetas a condición suspensiva o a plazo no serán ejecutivas sino cuando aquéllas o éste se hayan cumplido, salvo lo dispuesto en los artículos 1,836 y 1,850 del Código Civil.
 
 ART. 448.- Si el título ejecutivo contiene obligación de hacer, se observarán las reglas siguientes:
 
@@ -3123,9 +3247,11 @@ ART. 517.- Si el ejecutante optare, en cualquiera de los casos enumerados en el 
 
 ART. 518.- Cuando la sentencia condena a rendir cuentas, el juez señalará un término prudente al obligado para que se rindan e indicará también a quién deban de rendirse.
 
-ART. 519.- El obligado en el término que se le fije y que no se prorrogará sino por una sola vez y por causa grave, a juicio del tribunal, rendirá su cuenta presentando los documentos que tenga en su poder y los que el acreedor tenga en el suyo y que debe presentar poniéndolos a la disposición del deudor en la Secretaría.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-Las cuentas deben de contener un preámbulo que contenga la exposición sucinta de los hechos que dieron lugar a la gestión y la resolución judicial que ordena la rendición de cuentas, la indicación de las sumas recibidas y gastadas y el balance de las entradas y salidas, acompañándose de los documentos justificativos, como recibos, comprobantes de gastos y demás.
+ART. 519.- El obligado en el término que se le fije y que no se prorrogará sino por una sola vez y por causa grave, a juicio del tribunal, rendirá su cuenta presentando los documentos físicos o electrónicos firmados en forma autógrafa o con la firma electrónica, que tenga en su poder y los que el acreedor tenga en el suyo y que debe presentar poniéndolos a la disposición del deudor en la Secretaría.
+
+Las cuentas deben de contener un preámbulo que contenga la exposición sucinta de los hechos que dieron lugar a la gestión y la resolución judicial que ordena la rendición de cuentas, la indicación de las sumas recibidas y gastadas y el balance de las entradas y salidas, acompañándose de los documentos justificativos, firmados en forma autógrafa, con la firma electrónica, incluso los que consten sin firma, como recibos, comprobantes de gastos y demás.
 
 ART. 520.- Si el deudor presenta sus cuentas en el término señalado, quedarán éstas por seis días a la vista de las partes en el tribunal y dentro del mismo tiempo presentará sus objeciones determinando las partidas no consentidas.
 
@@ -3179,7 +3305,7 @@ Verificado de cualquiera de los modos indicados el requerimiento, se procederá 
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
-ART. 535.- El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste se rehuse hacerlo o que esté ausente, podrá ejercerlo el actor o su representante, pero cualquiera de ellos se sujetará al siguiente orden:
+ART. 535.- El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste se rehúse hacerlo o que esté ausente, podrá ejercerlo el actor o su representante, pero cualquiera de ellos se sujetará al siguiente orden:
 
 1o.- Los bienes consignados como garantía de la obligación que se reclama.- 2o.- Dinero.- 3o.- Créditos realizables en el acto.- 4o.- Alhajas.- 5o.- Frutos y rentas de toda especie.- 6o.- Bienes muebles no comprendidos en las fracciones anteriores.- 7.- Bienes raíces.- 8o.- Sueldos o comisiones que excedan del monto del salario mínimo general establecido para la zona económica en que se actúa, de conformidad con la fracción XIII del Artículo 543.- 9o.- Créditos.
 
@@ -3283,7 +3409,9 @@ V.- Para hacer los gastos de reparación o de construcción, ocurrirá al juez s
 
 VI.- Pagará, previa autorización judicial, los réditos de los gravámenes reconocidos sobre la finca.
 
-ART. 553.- Pedida la autorización a que se refiere la fracción V del artículo anterior, el juez citará a una audiencia que se verificará dentro de tres días para que las partes, en vista de los documentos que se acompañan, resuelvan de común acuerdo si se autoriza o no el gasto. No lográndose el acuerdo, el juez dictará la resolución que corresponda.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 553.- Pedida la autorización a que se refiere la fracción V del artículo anterior, el juez citará a una audiencia que se verificará dentro de tres días para que las partes, en vista de los documentos, firmados en forma autógrafa o con la firma electrónica que se acompañan, resuelvan de común acuerdo si se autoriza a no el gasto. No lográndose el acuerdo, el juez dictará la resolución que corresponda.
 
 ART. 554.- Si el secuestro se efectúa en una finca rústica o en una negociación mercantil o industrial, el depositario será mero interventor con cargo a la caja, vigilando la contabilidad, y tendrá las siguientes atribuciones:
 
@@ -3329,7 +3457,9 @@ ART. 563.- Toda venta que conforme a la ley deba de hacerse en subasta o almoned
 
 ART. 564.- Todo remate de bienes raíces será público y deberá celebrarse en el juzgado en que actúe el juez que fuere competente para la ejecución.
 
-ART. 565.- Cuando los bienes embargados fueren raíces, antes de procederse a su avalúo, se acordará que se expida mandamiento al registrador de la propiedad para que remita certificado de gravámenes de los últimos diez años; pero si en autos obrare ya otro certificado, sólo se pedirá al Registro el relativo al período transcurrido desde la fecha de aquel hasta la en que se solicite.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 565.- Cuando los bienes embargados fueren raíces, antes de procederse a su avalúo, se acordará que se expida mandamiento al registrador de la propiedad para que remita vía física o electrónica certificado de gravámenes de los últimos diez años, firmado en forma autógrafa o con la firma electrónica certificada; pero si en autos obrare ya otro certificado, solo se pedirá al Registro el relativo al período transcurrido desde la fecha de aquel hasta la en que se solicite.
 
 ART. 566.- Si del certificado aparecieren gravámenes, se hará saber a los acreedores el estado de ejecución para que intervengan en el avalúo y subasta de los bienes, si les conviniere.
 
@@ -3351,7 +3481,7 @@ ART. 570.- Antes de fincarse el remate o declararse la adjudicación podrá el d
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
 
-ART. 571.- Si los bienes raíces estuvieren situados en diversos lugares en todos estos se publicarán los edictos en los sitios de costumbre y en las puertas del juzgado respectivo. En el caso a que este Artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor a que se hayen (sic) los bienes. Puede usar el juez, además de los medios antes indicados, algún otro medio de publicidad para llamar postores.
+ART. 571.- Si los bienes raíces estuvieren situados en diversos lugares en todos estos se publicarán los edictos en los sitios de costumbre y en las puertas del juzgado respectivo. En el caso a que este Artículo se refiere, se ampliará el término de los edictos, concediéndose un día más por cada doscientos kilómetros o fracción que exceda de la mitad y se calculará para designarlo la distancia mayor a que se hallen los bienes. Puede usar el juez, además de los medios antes indicados, algún otro medio de publicidad para llamar postores.
 
 ART. 572.- Es postura legal la que cubra las dos terceras partes del avalúo o del precio fijado a la finca hipotecada por los contratantes, con tal de que la parte de contado sea suficiente para pagar el crédito o créditos que han sido objeto del juicio y las costas.
 
@@ -3359,7 +3489,7 @@ Cuando por el importe del avalúo no sea suficiente la parte de contado para cub
 
 ART. 573.- Para tomar parte en la subasta deberán los licitadores consignar previamente, en el establecimiento de crédito destinado al efecto por la ley, una cantidad igual por lo menos al diez por ciento efectivo del valor de los bienes, que sirva de base para el remate, sin cuyo registro no serán admitidos.
 
-Se devolverán dichas consignaciones a sus respectivos dueños acto contínuo al remate, excepto la que corresponda al mejor postor, la cual se reservará en depósito como garantía del cumplimiento de su obligación y en su caso como parte del precio de la venta.
+Se devolverán dichas consignaciones a sus respectivos dueños acto continuo al remate, excepto la que corresponda al mejor postor, la cual se reservará en depósito como garantía del cumplimiento de su obligación y en su caso como parte del precio de la venta.
 
 ART. 574.- El ejecutante podrá tomar parte en la subasta y mejorará las posturas que se hicieren, sin necesidad de consignar el depósito prevenido en el artículo anterior.
 
@@ -3465,9 +3595,9 @@ VI.- En todo lo demás se estará a las disposiciones de este capítulo.
 
 De la ejecución de las sentencias y demás resoluciones dictadas por los Tribunales y Jueces del Distrito y Territorios Federales, de los Estados y del extranjero.
 
-ART. 598.- El juez ejecutor que reciba exhorto con las inserciones necesarias, conforme a derecho para la ejecución de una sentencia u otra resolución judicial, cumplirá con lo que disponga el juez requiriente, siempre que lo que haya de ejecutarse no fuere contrario a las leyes del Estado.
+ART. 598.- El juez ejecutor que reciba exhorto con las inserciones necesarias, conforme a derecho para la ejecución de una sentencia u otra resolución judicial, cumplirá con lo que disponga el juez requeriente, siempre que lo que haya de ejecutarse no fuere contrario a las leyes del Estado.
 
-ART. 599.- Los jueces ejecutores no podrán oír ni conocer de excepciones cuando fueren opuestas por alguna de las partes que litigan ante el juez requiriente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
+ART. 599.- Los jueces ejecutores no podrán oír ni conocer de excepciones cuando fueren opuestas por alguna de las partes que litigan ante el juez requeriente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
 
 ART. 600.- Si al ejecutar los autos insertos en las requisitorias se opusiere algún tercero, el juez ejecutor oirá sumariamente y calificará las excepciones opuestas conforme a las reglas siguientes:
 
@@ -3651,7 +3781,7 @@ ART. 616.- El compromiso será válido aunque no se fije el término del juicio 
 
 ART. 617.- Durante el plazo del arbitraje los árbitros no podrán ser revocados sino por el consentimiento unánime de las partes.
 
-ART. 618.- Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidas para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuera el pacto en contrario, los árbitros siempre están obligados a recibir pruebas y oir alegatos si cualquiera de las partes lo pidiere.
+ART. 618.- Las partes y los árbitros seguirán en el procedimiento los plazos y las formas establecidas para los tribunales si las partes no hubieren convenido otra cosa. Cualquiera que fuera el pacto en contrario, los árbitros siempre están obligados a recibir pruebas y oír alegatos si cualquiera de las partes lo pidiere.
 
 Las partes podrán renunciar a la apelación.
 
@@ -3801,15 +3931,21 @@ Para efecto del inventario, el deudor queda obligado a dar todas las facilidades
 
 ART. 476.- El deudor que no quiera aceptar la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor o al depositario que éste nombre.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 477.- Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones, en los escritos que fijan la controversia, exhibiendo los documentos que tengan en su poder o la copia sellada en que se solicite la expedición de tales documentos que no tuvieran, según ordenan los artículos 95 y 96 de este ordenamiento.
+ART. 477.- Las partes deberán ofrecer sus pruebas para acreditar los hechos de su acción o de sus excepciones, en los escritos que fijan la controversia, exhibiendo los documentos físicos o electrónicos, que tengan en su poder o la copia sellada en que se solicite la expedición de tales documentos que no tuvieran, según ordenan los artículos 95 y 96 de éste ordenamiento.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
 
 Las pruebas admitidas deberán ser preparadas por las partes, y en consecuencia en la audiencia deberán presentar a sus testigos.
 
-No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se los impida, les impondrá una multa de hasta cien días de salario mínimo general vigente en el Estado o arresto hasta de treinta y seis horas.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder documentos, apercibiendo a las primeras con la imposición de una sanción pecuniaria, en favor de la parte perjudicada, por el equivalente a sesenta días de salario mínimo general vigente en el Estado, que se hará efectiva por orden del propio juez; y a los segundos con la imposición de un arresto hasta de treinta y seis horas, salvo que no tengan en su poder los documentos que se le (sic) requieren y así lo manifiesten al juez bajo protesta de decir verdad.
+No obstante lo anterior, si las partes al ofrecer sus pruebas, bajo protesta de decir verdad, manifiestan no poder presentar a los testigos, ni obtener los documentos físicos o electrónicos, que no tengan a su disposición, el juez mandará citar a dichos testigos, con el apercibimiento que de no comparecer a declarar, sin justa causa que se los impida, les impondrá una multa de hasta cien días de salario mínimo general vigente en el Estado o arresto hasta de treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+De igual manera auxiliará al oferente, expidiendo los oficios a las autoridades y terceros que tengan en su poder documentos firmados en forma autógrafa a con la firma electrónica certificada, incluso los que consten sin firma, apercibiendo a las primeras con la imposición de una sanción pecuniaria, en favor de la parte perjudicada, por el equivalente a sesenta días de salario mínimo general vigente en el Estado, que se hará efectiva por orden del propio juez; y a los segundos con la imposición de un arresto hasta de treinta y seis horas, salvo que no tengan en su poder los documentos a archivos electrónicos que se les requieren y así lo manifiesten al juez bajo protesta de decir verdad.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
 
@@ -4511,7 +4647,9 @@ La autoridad judicial desechará de oficio los incidentes ajenos al negocio prin
 
 ART. 736 BIS 1.- La demanda incidental deberá formularse de acuerdo con las disposiciones establecidas para la demanda principal, en cuanto fueren aplicables.
 
-En el escrito de demanda incidental las partes ofrecerán pruebas, expresando los puntos sobre los que deban versar y que no sean extraños a la cuestión incidental planteada. Todos los documentos que se han de aducir como demostrativos, se presentarán con este escrito.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+En el escrito de demanda incidental las partes ofrecerán pruebas, expresando los puntos sobre los que deban versar y que no sean extraños a la cuestión incidental planteada. Todos los documentos físicos a electrónicos que se han de aducir como demostrativos, se presentarán con este escrito.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2008)</small>
 
@@ -4641,7 +4779,7 @@ ART. 752.- En la misma junta, una vez terminada la rectificación y graduación,
 
 En su defecto, lo designará el juez.
 
-Podrán también por unanimidad y a solicitud del concursado, celebrar arreglos con éste o pedir todos los acreedores comunes cuyos créditos hayan sido verificados, la adjudicación en coopropiedad (sic) de los bienes del concursado, dándole carta de pago a éste y debiendo pagar previamente las costas y los créditos privilegiados.
+Podrán también por unanimidad y a solicitud del concursado, celebrar arreglos con éste o pedir todos los acreedores comunes cuyos créditos hayan sido verificados, la adjudicación en copropiedad de los bienes del concursado, dándole carta de pago a éste y debiendo pagar previamente las costas y los créditos privilegiados.
 
 Si el deudor común se opusiere, se substanciará la oposición incidentalmente.
 
@@ -4659,7 +4797,9 @@ Si antes de establecido el derecho de preferencia de algún acreedor se distribu
 
 ART. 756.- Cuando se hubiere pagado íntegramente a los acreedores, celebrado el convenio o adjudicado los bienes del concurso, se dará éste por terminado. Si el precio en que se vendiere no bastare a cubrir todos los créditos, se reservarán los derechos de los acreedores para cuando el deudor mejore de fortuna.
 
-ART. 757.- Los acreedores listados en el estado del deudor o que presentaren sus documentos justificativos, tienen derecho de nombrar interventor que vigile los actos de los síndicos, pudiendo hacer el juez las observaciones que estime pertinentes y a la junta de acreedores en su oportunidad.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 757.- Los acreedores listados en el estado del deudor a que presentaren sus documentos justificativos firmados en forma autógrafa o con la firma electrónica, tienen derecho de nombrar interventor que vigile los actos de los síndicos, pudiendo hacer el juez las observaciones que estime pertinentes y a la junta de acreedores en su oportunidad.
 
 ART. 758.- Cuando al hacerse una cesión de bienes sólo hubiese acreedores hipotecarios se observarán las disposiciones contenidas en el título primero, tercera parte del libro cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores, y se observará lo dispuesto en los artículos precedentes.
 
@@ -4737,11 +4877,17 @@ Si los bienes estuvieren situados en lugares diversos o a largas distancias, bas
 
 ART. 772.- El interventor cesará en su cargo luego que se nombre o se dé a conocer el albacea; entregará a éste los bienes, sin que pueda retenerlos bajo ningún pretexto, ni aún por razón de mejoras o gastos de manutención o reparación.
 
-ART. 773.- Al promoverse el juicio sucesorio debe presentarse la partida de defunción del autor de la herencia, y, no siendo esto posible, otro documento o prueba bastante.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 773.- Al promoverse el juicio sucesorio debe presentarse la partida de defunción del autor de la herencia, firmada en forma autógrafa o con la firma electrónica certificada, y no siendo esto posible, otro documento o prueba bastante.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 ART. 773 BIS.- Una vez que el Juez reciba la denuncia de un juicio sucesorio testamentario o intestamentario procederá a recabar la información de la existencia o inexistencia de disposición testamentaria del De Cujus de que se trate, ante la Secretaria General de Gobierno del Estado, la que a su vez, realizará una búsqueda de dicha información en su base de datos correspondiente y, así mismo vía electrónica, solicitará el reporte de búsqueda al Registro Nacional de Avisos de Testamento, a fin de dar respuesta al informe solicitado por la Autoridad Judicial.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+La Secretaría General de Gobierno, podrá habilitar a los notarios y a los jueces que soliciten información sobre testamentos, para que puedan acceder a la base de datos del Registro Nacional de Avisos de Testamento, llevando un control electrónico de esas consultas.
 
 ART. 774.- Cuando con fundamento en la declaración de ausencia o presunción de muerte de un ausente se haya abierto sucesión, si durante la tramitación del juicio se hace constar la fecha de la muerte, desde ella se entenderá abierta la sucesión; y cesando en sus funciones el representante, se procederá al nombramiento del interventor o albacea, con arreglo a derecho.
 
@@ -4865,9 +5011,9 @@ Debe el denunciante indicar los nombres y domicilios de los parientes en línea 
 
 ART. 799.- El juez tendrá por radicada la sucesión y mandará notificarla, por cédula o correo certificado, a las personas señaladas como descendientes, ascendientes y cónyuge supérstite o, en su defecto, como parientes colaterales dentro del cuarto grado, haciéndoles saber el nombre del finado con los demás particulares que lo identificaren y la fecha y lugar del fallecimiento, para que justifiquen sus derechos a la herencia y nombren albacea.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 800.- Los herederos al intestado que sean descendientes del finado podrán obtener la declaración de su derecho, justificando, con los correspondientes documentos su parentezco (sic) con el mismo y con testimonio de por lo menos tres personas que les conste este mismo parentezco (sic).
+ART. 800.- Los herederos ab intestado que sean descendientes del finado podrán obtener la declaración de su derecho, justificando su parentesco, con los correspondientes documentos firmados con firma autógrafa o con la firma electrónica certificada y con testimonio de por lo menos tres personas que les conste éste mismo parentesco.
 
 ART. 801.- Dicha información se practicará con citación del Ministerio Público, quien dentro de los tres días que sigan al de la diligencia debe formular su pedimento. Si éste fuere impugnado sólo de incompleta la justificación, se dará vista a los interesados para que subsanen la falta.
 
@@ -4895,13 +5041,15 @@ Si hubieren comparecido otros parientes, el juez le (sic) señalará un término
 
 ART. 808.- Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el juez mandará fijar edictos en los sitios públicos de la manera y por el término expresados en el artículo 806, anunciando la muerte intestada de la persona de cuya sucesión se trate y llamando a los que se crean con derecho a la herencia.
 
-ART. 809.- Los que comparezcan a consecuencia de dichos llamamientos, deberán expresar por escrito, el grado de parentesco en que se hallen con el causante de la herencia, justificándolo con los correspondientes documentos, acompañados del árbol genealógico. Estos escritos y documentos se unirán a la sección de sucesión por el orden en que se vayan presentando.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 809.- Los que comparezcan a consecuencia de dichos llamamientos, deberán expresar por escrito, el grado de parentesco en que se hallen con el causante de la herencia, justificándolo con los correspondientes documentos firmados en forma autógrafa o con la firma electrónica certificada, acompañados del árbol genealógico. Estos escritos y documentos se unirán a la sección de sucesión por el orden en que se vayan presentando.
 
 (REFORMADO, P.O. 10 DE AGOSTO DE 1985) (F. DE E., P.O. 24 DE AGOSTO DE 1985)
 
 ART. 810.- Si a consecuencia de dichos llamamientos se presentare un aspirante o varios que aleguen igual derecho fundados en un mismo título, se procederá como se indica en los Artículos 802 al 806.
 
-Si entre los aspirantes a la herencia no hubiera acuerdo en sus pretenciones (sic), los impugnadores harán de demandantes y los impugnados de demandados, debiendo, los que hagan causa común, formular sus pretenciones (sic) o defensas en su mismo escrito y designar en el un representante común. La controversia se substanciará en la vía y forma incidental, con intervención del Ministerio Público, quien manifestará lo que a su representación corresponda. Hecha la declaración, se procederá a la elección de albacea.
+Si entre los aspirantes a la herencia no hubiera acuerdo en sus pretenciones (sic), los impugnadores harán de demandantes y los impugnados de demandados, debiendo, los que hagan causa común, formular sus pretenciones (sic) o defensas en su mismo escrito y designar en él un representante común. La controversia se substanciará en la vía y forma incidental, con intervención del Ministerio Público, quien manifestará lo que a su representación corresponda. Hecha la declaración, se procederá a la elección de albacea.
 
 ART. 811.- La declaración de herederos de un intestado surte el efecto de tener por legítimo poseedor de los bienes, derechos y acciones del difunto a la persona en cuyo favor se hizo.
 
@@ -5135,15 +5283,21 @@ ART. 871.- Cuando todos los herederos fueren mayores de edad y hubieren sido ins
 
 ART. 871 BIS.- Para la titulación notarial de la adquisición por los legatarios instituidos en testamento público simplificado, se observará lo siguiente:
 
-I.- Los legatarios o sus representantes, exhibirán al notario la copia certificada del acta de defunción del testador y testimonio del testamento público simplificado;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+I.- Los legatarios o sus representantes, exhibirán al notario la copia certificada del acta de defunción del testador firmada en forma autógrafa o con la firma electrónica certificada en el formato autorizado para ello y testimonio del testamento público simplificado;
 
 II.- El notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación en el Estado que ante él se está tramitando el testamento público simplificado, los nombres del testador y de los legatarios y, en su caso, su parentesco;
 
 III.- El notario recabará del Archivo General de Notarías, del Archivo Judicial del Estado y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos; siempre que no existiere oposición;
 
-IV.- De ser procedente, el notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en el Registro Público de la Propiedad. En su caso, se podrá hacer constar la repudiación expresa; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del artículo 1446-Bis de este Código (sic).
+IV.- De ser procedente, el notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso, y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en forma física o electrónica en el Registro Público de la Propiedad. En su caso, se podrá hacer constar la repudiación expresa; y
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del artículo 1446-Bis del Código Civil.
 
 ART. 872.- El albacea, si lo hubiere, y los herederos exhibiendo la partida de defunción del autor de la herencia y un testimonio del testamento, se presentarán ante un notario para hacer constar que aceptan la herencia, se reconocen sus derechos hereditarios y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
 
@@ -5475,11 +5629,17 @@ II.- La parte o partes en que el acto debe ejecutarse;
 
 III.- Los nombres de los colindantes que pueden tener interés en el apeo;
 
-IV.- El sitio donde están y donde deben colocarse las señales, y si éstas no existen, el lugar donde estuvieron;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-V.- Los planos y demás documentos que vengan a servir para la diligencia, y designación de un perito por parte del promovente.
+IV.- El sitio donde están y donde deben colocarse las señales, y si éstas no existen, el lugar donde estuvieron; y
 
-ART. 934.- Hecha la promoción, el juez la mandará hacer saber a los colindantes para que dentro de tres días presenten los títulos o documentos de su posesión y nombren perito si quisieran hacerlo, y se señalará el día, hora y lugar para que dé principio la diligencia de deslinde.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+V.- Los planos y demás documentos firmados en forma autógrafa o con la firma electrónica que sirvan para la diligencia, y designación de un perito por parte del promovente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 934.- Hecha la promoción, el juez la mandará hacer saber a los colindantes para que dentro de tres días presenten los títulos o documentos firmados en forma autógrafa o con la firma electrónica certificada de su posesión y nombren perito si quisieran hacerlo, y se señalará el día, hora y lugar para que de principio la diligencia de deslinde.
 
 Si fuere necesario identificar alguno o algunos de los puntos de deslinde, los interesados podrán presentar dos testigos de identificación cada uno, a la hora de la diligencia.
 
@@ -5487,7 +5647,9 @@ ART. 935.- El día y hora señalados, el juez, acompañado del secretario, perit
 
 I.- Practicará el apeo, asentándose acta en que constará todas las observaciones que hicieren los interesados;
 
-II.- La diligencia no se suspenderá por virtud de las observaciones, sino en el caso de que alguna persona presente en el acto un documento debidamente registrado que pruebe que el terreno que se trata de deslindar es de su propiedad;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+II.- La diligencia no se suspenderá por virtud de las observaciones, sino en el caso de que alguna persona presente en el acto un documento, firmado en forma autógrafa o con la firma electrónica certificada debidamente registrado que pruebe que el terreno que se trata de deslindar es de su propiedad;
 
 III.- El juez, al ir demarcando los límites del fundo deslindado, otorgará posesión al promovente de la propiedad que quede comprendida dentro de ellos, si ninguno de los colindantes se opusiere, o mandará que se le mantenga en la que esté disfrutando;
 
@@ -5567,7 +5729,7 @@ Al ordenar el traslado a que se refiere el párrafo anterior, el juez, en la mis
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 943.- En la audiencia, las partes desahogarán las pruebas calificadas por el juez como procedentes, las que no tendrán mas limitación que la de no ser contrarias a la moral, a las buenas costumbres o estén prohibidas por la ley.
+ART. 943.- En la audiencia, las partes desahogarán las pruebas calificadas por el juez como procedentes, las que no tendrán más limitación que la de no ser contrarias a la moral, a las buenas costumbres o estén prohibidas por la ley.
 
 Será optativo para las partes acudir asesoradas. En caso de que una de las partes se encuentre asesorada y la otra no, el juez solicitará la intervención de un defensor de oficio, el que deberá acudir de inmediato a enterarse del asunto, gozando de un término de tres días para hacerlo, difiriéndose la celebración de la audiencia por un término igual.
 
@@ -5759,7 +5921,7 @@ IV.- El juez podrá hacer libremente las preguntas que juzgue oportunas a cuanta
 
 V.- Cuando una de las partes lo pide, la otra deberá ser citada desde el emplazamiento y concurrirá personalmente a la audiencia para contestar las preguntas que se le hagan, a menos de que el juez la exima por causa de enfermedad, ausencia, ocupación urgente u otro motivo fundado. Hecho el llamamiento y desobedecido por el citado, o rehusándose éste a contestar si comparece, el juez podrá tener por ciertas las afirmaciones de la otra parte;
 
-VI.- En cualquier estado de la audiencia y, en todo caso, antes de pronunciar el fallo el juez exhortará a las partes a una composición amigable, y, si se lograre la aveniencia (sic), se dará por terminado el juicio;
+VI.- En cualquier estado de la audiencia y, en todo caso, antes de pronunciar el fallo el juez exhortará a las partes a una composición amigable, y, si se lograre la avenencia, se dará por terminado el juicio;
 
 VII.- El juez oirá las alegaciones de las partes para lo cual concederá hasta diez minutos a cada una, y, en seguida, pronunciará su fallo en presencia de ellas, de una manera clara y sencilla.
 
@@ -5807,9 +5969,9 @@ ART. 983.- En caso necesario, previa orden especial y escrita del juez, se podr�
 
 ART. 984.- Si el secuestro recayere en créditos o rentas, la ejecución consistirá en notificar al que deba de pagarlos que los entregue al juzgado luego que se venzan o sean exigibles. Cualquier fraude o acto malicioso para impedir la eficacia del secuestro, como anticipar el pago, o aparecer despedido el empleado, o rescindido el contrato, hará personal y directamente responsable al notificado y, en consecuencia, a él se le exigirá el pago de lo sentenciado, a reserva de que a su vez lo exija a la parte condenada.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 985.- El remate de bienes muebles se hará en la forma que determina el artículo 597 del Código de Procedimientos Civiles. Si se tratare de bienes raíces se anunciará el remate por medio de avisos que se fijen en los lugares de costumbre y en la puerta del juzgado, y se hará previa citación de los acreedores que resulten del certificado de gravámenes que sin causa de derechos expedirá el registrador público de la propiedad. El avalúo se hará por medio de cualquiera clase de pruebas que el juez podrá allegar de oficio.
+ART. 985.- El remate de bienes muebles se hará en la forma que determina el artículo 597 del Código de Procedimientos Civiles. Si se tratare de bienes raíces se anunciará el remate por medio de avisos que se fijen en los lugares de costumbre y en la puerta del juzgado y se hará previa citación de los acreedores que resulten del certificado de gravámenes que sin causa de derechos expedirá, firmado en forma autógrafa o con la firma electrónica certificada, el registrador publico de la propiedad. El avalúo se hará por medio de cualquiera clase de pruebas que el juez podrá allegar de oficio.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
@@ -5879,7 +6041,7 @@ Respecto de las actuaciones ante jueces de paz, no hay días ni horas inhábiles
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
 
-ART. 998.- Las audiencias serán publicas. Si en la hora señalada para una audiencia no se hubiere terminado el negocio o negocios anteriores, las personas citadas deberán permanecer hasta que llegue su turno al asunto respectivo, siguiéndose rigurosamente para la vista de los negocios el orden que les corresponda, según la lista del día que se fijará en los tableros del juzgado desde la víspera.
+ART. 998.- Las audiencias serán públicas. Si en la hora señalada para una audiencia no se hubiere terminado el negocio o negocios anteriores, las personas citadas deberán permanecer hasta que llegue su turno al asunto respectivo, siguiéndose rigurosamente para la vista de los negocios el orden que les corresponda, según la lista del día que se fijará en los tableros del juzgado desde la víspera.
 
 Cuando fuere necesario esperar alguna persona a quien hubiere llamado a la audiencia, o conceder tiempo a los peritos para que examinen las cosas acerca de las que hayan de emitir dictamen, u ocurriera algún otro caso que lo exija, a juicio del juez, se suspenderá la audiencia por un término prudente, no mayor de una hora, y si fuere enteramente indispensable, dispondrá el juez la continuación para el día siguiente, a más tardar. La violación de este precepto amerita corrección disciplinaria, que impondrá el superior, y será anotada en el expediente que a cada funcionario judicial corresponda.
 
@@ -6024,3 +6186,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan a la presente reform
 P.O. 26 DE SEPTIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor 60 día (sic) después de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
