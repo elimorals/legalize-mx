@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2009-07-18"
+last_updated: "2010-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -713,9 +713,11 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 ART. 34.- Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
-> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 34 BIS.- El Registro Civil es la Institución de orden público y de interés social por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos o modificaciones del estado civil de las personas.
+ART. 34 BIS.- El Registro Civil es la Institución de orden público y de interés social por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos o modificaciones del estado civil de las personas, en archivos físicos y electrónicos, autorizados con firma autógrafa o con la firma electrónica certificada, utilizando los medios electrónicos autorizados al efecto y las formas únicas aprobadas por el Registro Nacional de Población o en papel simple, pero conservando el formato autorizado.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
 El Registro Civil estará a cargo de la Dirección del Registro Civil, que jerárquicamente dependerá de la Secretaría General de Gobierno. El Registro Civil estará constituido por una Dirección, un Archivo Central, Unidades Administrativas y las Oficialías que establezca el Reglamento respectivo.
 
@@ -723,57 +725,85 @@ El Registro Civil estará a cargo de la Dirección del Registro Civil, que jerá
 
 ### CAPITULO I. Disposiciones generales
 
-ART. 35.- En el Estado de Colima estará a cargo de los oficiales del Registro Civil autorizar los actos del estado civil y extender las cartas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del mismo; así como las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 35.- En el Estado de Colima estará a cargo de los oficiales del Registro Civil autorizar con la firma autógrafa o con la firma electrónica certificada los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en el territorio del mismo; así como las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+En materia de actos del estado civil, podrán emplearse medios electrónicos, ópticos, magnéticos o cualquier otra tecnología. Tales actos podrán hacerse constar mediante mensajes de datos con firma electrónica certificada.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Las Oficialías del Registro Civil estarán bajo la coordinación, inspección y vigilancia de la Dirección del Registro Civil.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 36.- Las actas del Registro Civil se asentarán en formas especiales, la infracción a esta disposición producirá su nulidad, las inscripciones se harán en forma computarizada o mecanografiada, en ambos casos deberán contener la clave única de registro de población o en su defecto la transcripción de la misma. En caso de inscripción computarizada se regirá conforme al procedimiento de guarda y distribución de las copias de respaldo informático que establezca el reglamento respectivo y tratándose de forma mecanográfica, los formatos una vez utilizados se encuadernarán en volúmenes de doscientas actas que correspondan al año a que se refiera y que constituirán los Libros del Registro Civil.
+ART. 36.- Las actas del Registro Civil se podrán asentar en formas físicas o electrónicas, la infracción a esta disposición producirá su nulidad, las inscripciones se harán mediante el uso de medios electrónicos, en forma electrónica o mecanografiada, en ambos casos deberán contener la clave única de registro de población o en su defecto la transcripción de la misma. En caso de inscripción electrónica se regirá conforme al procedimiento de guarda y distribución de las copias de respaldo electrónico que establezca el reglamento respectivo y tratándose de forma mecanográfica, los formatos una vez utilizados se encuadernarán en volúmenes de doscientas actas que correspondan al año a que se refiera y que constituirán los Libros del Registro Civil.
 
-Las formas del Registro Civil serán autorizadas y distribuidas por la Dirección del Registro Civil.
+Las formas del Registro Civil serán autorizadas y distribuidas de forma física y electrónica, con la firma autógrafa o con la firma electrónica certificada por la Dirección del Registro Civil.
 
-De las actas que se levanten en forma computarizada los oficiales del Registro Civil entregarán una copia de ellas al interesado, además de ajustarse a lo establecido en relación a la guarda y distribución del respaldo informático y en caso de levantamiento mecanográfico, el original quedará en el archivo de la Oficialía, una copia se entregará al interesado y otra a la Dirección del Registro Civil.
+De las actas que se levanten en forma electrónica los oficiales del Registro Civil entregarán una copia de ellas al interesado, ajustándose a lo establecido en relación a la guarda y distribución del respaldo electrónico y en caso de levantamiento mecanográfico, el original quedará en el archivo de la Oficialía, una copia se entregará al interesado y otra a la Dirección del Registro Civil.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 37.- Los oficiales del Registro Civil llevarán por duplicado siete libros que se denominan "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción; y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
 
-Toda acta deberá asentarse en los dos ejemplares del Registro.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 38.- Si se perdiere o destruyere alguno de los libros del Registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las oficinas del Registro Civil o en las de la Autoridad Administrativa a quien se hubieren remitido los duplicados.
+Toda acta deberá asentarse en los dos ejemplares del Registro; además será almacenada la información en archivo electrónico, en su base de datos la cual estará intercomunicada con la base de datos de la Dirección del Registro Civil.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 38.- Si se perdiere o destruyere alguno de los libros o archivos electrónicos del Registro, se sacará inmediatamente copia del otro ejemplar, y en su caso de la copia de seguridad y respaldo que se tenga en la base de datos o en otro medio electrónico, ya sea que la pérdida ocurra en las oficinas del Registro Civil o en las de la Autoridad Administrativa a quien se hubieren remitido los duplicados o por daño de la base de datos.
 
 El Procurador General de Justicia del Estado cuidará de que se cumpla esta disposición, y a ese efecto, el oficial del Registro, o el encargado del Archivo General del Estado le dará aviso de la pérdida.
 
-ART. 39.- El estado civil de las personas sólo se comprueba con las constancias relativas del Registro. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 40.- Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles y faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros se ha inutilizado y existe el otro ejemplar, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+ART. 39.- El estado civil de las personas sólo se comprueba con las constancias físicas o electrónicas relativas del Registro, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados para el efecto. Ningún otro documento físico o electrónico, ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 41.- Todos los libros del Registro Civil serán visados en su primera y última hoja por el Director General del Registro Civil, y autorizados por el mismo con su rúbrica en todas las demás, se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría General de Gobierno del Estado. Sin perjuicio de lo establecido en el artículo anterior.
+ART. 40.- Cuando en cualquiera de sus formas, ya sea física o electrónicamente, no hayan existido registros, se hayan perdido, estuvieren ilegibles y faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros físicos se ha inutilizado y existe el otro ejemplar o su registro electrónico, de éstos deberá tomarse la prueba; en tratándose de los electrónicos se tomará como prueba la copia de seguridad o respaldo o su registro físico en los libros, sin admitirla de otra clase.
 
-ART. 42.- El oficial del Registro Civil que no cumpla la prevención de remitir oportunamente a la mencionada oficina el ejemplar de que habla el artículo anterior, será destituido de su cargo.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 43.- No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+ART. 41.- Todos los libros físicos o electrónicos del Registro Civil serán visados en su primera y última hoja por el Director General del Registro Civil, y autorizados por el mismo con su rúbrica o firma electrónica certificada, según sea el caso, en todas las demás se renovarán cada año, y un ejemplar quedará en el archivo físico y electrónico del Registro Civil, así como los documentos físicos y electrónicos que le correspondan remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la Secretaría General de Gobierno del Estado. Sin perjuicio de lo establecido en el artículo anterior.
 
-ART. 44.- Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante notario público, juez de Primera Instancia, Menor o de Paz.
+Los registros realizados en forma electrónica deberán ser autorizados con la firma electrónica certificada del funcionario y deberán ser certificados anualmente por la Dirección General para la Innovación Gubernamental, dependiente de la Secretaría de Administración del Ejecutivo Estatal.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 42.- El oficial del Registro Civil que no cumpla la prevención de remitir oportunamente a la mencionada oficina el ejemplar de que habla el artículo anterior, así como los archivos electrónicos que se le requieran, y no solicite la certificación de éstos, será destituido de su cargo.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 43.- No podrá asentarse en las actas físicas o electrónicas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 44.- Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante notario público, juez de Primera Instancia, Menor o de Paz, quienes podrán emitir el documento autorizado en forma autógrafa o con la firma electrónica certificada.
 
 ART. 45.- Los testigos que intervengan en las actas del Registro Civil serán mayores de edad, prefiriéndose los que designen los interesados, aún cuando sean sus parientes.
 
-ART. 46.- La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del oficial del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad, y de la indemnización de daños y perjuicios.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 46.- La falsificación de las actas físicas o electrónicas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del oficial del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad, y de la indemnización de daños y perjuicios.
 
 ART. 47.- Los vicios o defectos que haya en las actas, sujetan al oficial del Registro a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
-ART. 48.- Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales Registradores estarán obligados a darlo.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+ART. 48.- Toda persona puede pedir de forma física o electrónica testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales Registradores estarán obligados a darlo.
 
-ART. 49.- Los actos y actas del estado civil relativos al oficial del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial, pero se asentarán en los propios libros y se autorizarán por el Director General del Registro Civil.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 50.- Las actas del Registro Civil extendidas conforme las disposiciones que preceden, hacen prueba plena en todo lo que el oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta puede ser redargüida de falsa.
+ART. 49.- Los actos y actas del estado civil relativos al oficial del Registro, a su consorte y a los ascendientes o descendientes de cualquiera de ellos, no podrán autorizarse por el mismo oficial, pero se asentarán en los propios libros físicos y electrónicos y se autorizarán por el Director General del Registro Civil.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 50.- Las actas del Registro Civil extendidas física o electrónicamente conforme las disposiciones que preceden, hacen prueba plena en todo lo que el oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta puede ser redargüida de falsa.
 
 Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
 
@@ -783,7 +813,9 @@ ART. 51.- Para establecer el estado civil, adquirido por los mexicanos fuera de 
 
 ART. 52.- Las faltas de los oficiales del Registro Civil, por ausencia o impedimento, serán suplidas por los servidores públicos que determine el Director General, en términos del Reglamento respectivo.
 
-ART. 53.- El Ministerio Público cuidará de que los libros del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquier época. Durante los seis primeros meses de cada año, el Ministerio Público revisará los libros del año anterior remitidos al Archivo General del Estado, para el efecto de hacer la consignación correspondiente de los oficiales Registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las Autoridades Administrativas de las faltas en que hubieren incurrido esos empleados.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 53.- El Ministerio Público cuidará de que los libros del Registro Civil, tanto físicos como electrónicos, se lleven debidamente, pudiendo inspeccionarlos en cualquier época. Durante los seis primeros meses de cada año, el Ministerio Público revisará los libros físicos o electrónicos del año anterior remitidos al Archivo General del Estado, para el efecto de hacer la consignación correspondiente de los oficiales Registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido esos empleados.
 
 La infracción de este artículo produce responsabilidad para los Agentes del Ministerio Público y será castigada conforme a lo prevenido en la Ley Orgánica del Ministerio Público del Estado.
 
@@ -857,15 +889,21 @@ ART. 69.- Se prohibe absolutamente al oficial del Registro Civil y a los testigo
 
 ART. 70.- Si el nacimiento ocurriere a bordo de un buque nacional, los interesados harán extender una constancia del acto, en que aparezcan las circunstancias a que se refieren los artículos del 58 al 65, en su caso, y solicitarán que las autorice el capitán o patrono de la embarcación y dos testigos de los que se encuentren a bordo, expresándose, si no los hay, esta circunstancia.
 
-ART. 71.- En el primer puerto nacional a que arribe la embarcación, los interesados entregarán el documento de que habla el artículo anterior, al oficial del Registro Civil, para que a su tenor asiente el acta.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 71.- En el primer puerto nacional a que arribe la embarcación, los interesados entregarán el documento de que habla el artículo anterior, al oficial del Registro Civil, para que a su tenor asiente el acta en el archivo físico y en la base de datos.
 
 ART. 72.- Si en el puerto no hubiere funcionario de esta clase, se entregará la constancia antes dicha a la autoridad local, la que la remitirá inmediatamente al oficial del Registro Civil del domicilio de los padres.
 
 ART. 73.- Si el nacimiento ocurriere en un buque extranjero se observará, por lo que toca a las solemnidades del Registro, lo prescrito en el artículo 15.
 
-ART. 74.- Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al oficial del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 55, con un día más por cada 20 kilómetros de distancia o fracción que exceda de la mitad.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 75.- Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
+ART. 74.- Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá física y electrónicamente, copia del acta al oficial del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 55, con un día más por cada 20 kilómetros de distancia o fracción que exceda de la mitad.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 75.- Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos para su archivo físico y electrónico, firmadas en forma autógrafa o con la firma electrónica certificada.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -899,15 +937,17 @@ IV. En estas actas queda prohibido expresar que el hijo es natural.
 
 ART. 79.- Lo dispuesto en el Artículo anterior se observará también, cuando se haya omitido la presentación para el registro del nacimiento del hijo, o esa presentación se haya hecho después del término de Ley.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al encargado del Registro dentro del término de quince días, el orginal (sic) o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento en el que se omitirá cualesquiera de las menciones prohibidas por los Artículos 58, 60, 62, 63, 64, 78, y 370, observándose las demás prescripciones contenidas en este Capítulo y en el IV del Título séptimo de este libro.
+ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al encargado del Registro, dentro del término de quince días, en original o copia certificada del documento firmado en forma autógrafa o con la firma electrónica certificada que lo compruebe. En el acta se insertará la parte relativa de dicho documento en el que se omitirá cualesquiera de las menciones prohibidas por los artículos 58, 60, 62, 63, 64, 78 y 370, observándose las demás prescripciones contenidas en este capítulo y en el IV del título séptimo de este libro.
 
 ART. 81.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
 
 ART. 82.- En el acta de reconocimiento hecha con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
 
-ART. 83.- Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el oficial del Registro Civil que autorice el acta de reconocimiento remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 83.- Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el oficial del Registro Civil que autorice el acta de reconocimiento remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva e incorporarla al archivo físico y en la base de datos.
 
 ### CAPITULO IV. De las actas de adopción
 
@@ -977,7 +1017,9 @@ Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o 
 
 ART. 98.- Al escrito a que se refiere el artículo anterior, se acompañará:
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años, y la mujer mayor de catorce;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años, y la mujer mayor de catorce; ambos documentos se pueden presentar firmados en forma autógrafa o con la firma electrónica certificada;
 
 II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
 
@@ -989,9 +1031,13 @@ Para los indigentes tienen obligación de expedir gratuitamente este certificado
 
 V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio, ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
 
-Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-VI.- Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiese sido casado anteriormente;
+Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura firmada en forma autógrafa o con la firma electrónica certificada:
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+VI.- Copia del acta de defunción del cónyuge fallecido firmada en forma autógrafa o con la firma electrónica certificada si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiese sido casado anteriormente;
 
 VII.- Copia de la dispensa de impedimentos, si los hubo.
 
@@ -1059,7 +1105,9 @@ VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testi
 
 IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
-El acta será firmada por el oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+El acta podrá ser firmada en forma autógrafa o con la firma electrónica certificada por el oficial del Registro Civil, y en forma autógrafa por los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
 
 Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
@@ -1087,7 +1135,9 @@ También podrá exigir declaración bajo protesta a los testigos que los interes
 
 ### CAPITULO VIII. De las actas de divorcio
 
-ART. 114.- La sentencia ejecutoria que decrete un divorcio se remitirá en copia al oficial del Registro Civil para que levante el acta correspondiente.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 114.- La sentencia ejecutoria que decrete un divorcio se remitirá en copia al oficial del Registro Civil para que levante el acta correspondiente, y haga las anotaciones pertinentes en el archivo físico y en la base de datos.
 
 ART. 115.- El acta de divorcio expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró su matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
 
@@ -1115,25 +1165,37 @@ VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en 
 
 ART. 120.- Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad, tienen obligación de dar aviso del fallecimiento al oficial del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
 
-ART. 121.- Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad municipal extenderá la constancia respectiva que remitirá al oficial del Registro Civil que corresponda, para que asiente el acta.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 122.- Cuando el oficial del Registro Civil sospeche que la muerte fue violenta, dará parte a la autoridad judicial, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial averigüe un fallecimiento, dará parte al oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al oficial del Registro Civil para que los anote al margen del acta.
+ART. 121.- Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad municipal extenderá la constancia respectiva que remitirá al oficial del Registro Civil que corresponda, para que asiente el acta en el archivo físico y en la base de datos.
 
-ART. 123.- En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 122.- Cuando el oficial del Registro Civil sospeche que la muerte fue violenta, dará parte a la autoridad judicial, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial averigüe un fallecimiento, dará parte al oficial del Registro Civil para que asiente el acta respectiva en el archivo físico y en el electrónico. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al oficial del Registro Civil para que los anote al margen del acta.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 123.- En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer al cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado, la que se deberá de incorporar al archivo físico y al electrónico.
 
 ART. 124.- Si no parece (sic) el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece (sic) y las demás noticias que sobre el suceso puedan adquirirse.
 
 ART. 125.- En el caso de muerte en el mar, a bordo de un buque nacional, el acta se formará de la manera prescrita en el artículo 119, en cuanto fuere posible, y la autorizará el capitán o patrono del buque, practicándose, además, lo dispuesto para los nacimientos en los artículos 71 y 72.
 
-ART. 126.- Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al oficial del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 126.- Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al oficial del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo del archivo físico y del electrónico, anotándose la remisión al margen del acta original.
 
 ART. 127.- El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al oficial del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el oficial del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
 
-ART. 128.- Los Tribunales cuidarán de remitir, dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al oficial del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 128.- Los Tribunales cuidarán de remitir de manera física o electrónica, autorizado con la firma autógrafa o con la firma electrónica certificada, dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al oficial del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
 
 ART. 129.- En todos los casos de muerte violenta en las prisiones o en las casas de detención, y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 119.
 
-ART. 130.- En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 130.- En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios físicos y electrónicos en que conste ésta.
 
 ### CAPITULO X. Inscripciones de las ejecutorias que declaren la incapacidad legal para administrar bienes, la ausencia o la presunción de muerte
 
@@ -1147,9 +1209,9 @@ ART. 133.- Cuando se recobre la capacidad legal para administrar, se presente la
 
 ### CAPITULO X (SIC). De la rectificación, nulidad, aclaración, complementación y Rectificación administrativa de las actas del Estado Civil
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 134.- La rectificación o modificación de las actas del Registro Civil, procede cuando se solicite variar el nombre de las personas que intervienen en acta, o algún otro acto esencial y solamente podrá ser ordenada por la autoridad judicial o resolución administrativa emitida por la Dirección General del Registro Civil, salvo el reconocimiento que voluntariamente haga de un padre respecto de su hijo. El cual se sujetará a las prescripciones de este Código.
+ART. 134.- La rectificación o modificación de las actas que se encuentran en los archivos físicos o electrónicos del Registro Civil, procede cuando se solicite variar el nombre de las personas que intervienen en el acta, o algún otro acto esencial y solamente podrá ser ordenada por la autoridad judicial o resolución administrativa emitida por la Dirección General del Registro Civil, salvo el reconocimiento que voluntariamente haga un padre respecto de su hijo. El cual se sujetará a las prescripciones de este Código.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
@@ -1573,7 +1635,9 @@ ART. 250.- No se admitirá demanda de nulidad por falta de solemnidades en el ac
 
 ART. 251.- El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
 
-ART. 252.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 252.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta que conste en archivo físico y electrónico ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el tribunal que la pronuncio y el numero con que se marco la copia, la cual será depositada en el archivo físico y digitalizarla en el electrónico.
 
 ART. 253.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
 
@@ -1707,9 +1771,9 @@ ART. 270.- (DEROGADO, P.O. 29 DE MARZO DE 2003)
 
 ART. 271.- Para que pueda pedirse el divorcio por causa de enfermedad mental que se considere incurable, o de peligro de daño para la integridad física o psicológica del otro cónyuge y de los hijos de ambos o de alguno de ellos, es necesario justificarlo con dictamen médico expedido por institución oficial y que haya transcurrido, además un año desde que comenzó a padecerse la enfermedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 272.- Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, éstos se encuentren emancipados, o sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, y haya transcurrido un año o más de la celebración del matrimonio, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+ART. 272.- Cuando ambos cónyuges convengan en divorciarse y sean mayores de edad, no se encuentre en estado de gravidez, y no tengan hijos o, teniéndolos, estos se encuentren emancipados, o sean mayores de edad y no exista obligación alimentaria, y no se encuentren bajo el régimen de tutela; y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, y haya transcurrido un año o más de la celebración del matrimonio, se presentarán personalmente ante el oficial del registro civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados, que son casados y mayores de edad, manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
 El oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
 
@@ -1861,7 +1925,9 @@ ART. 289.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad
 
 ART. 290.- La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
-ART. 291.- Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá copia de ella al oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 291.- Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá copia de ella al oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y la incorpore al archivo físico y al electrónico, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
 ## TITULO SEXTO. Del parentesco y de los alimentos
 
@@ -2057,7 +2123,7 @@ ART. 331.- Si el marido está bajo tutela por causa de demencia, imbecilidad u o
 
 ART. 332.- Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
 
-ART. 333.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del termino hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
+ART. 333.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
 ART. 334.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del periodo prohibido por el artículo 158, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
@@ -2317,7 +2383,7 @@ ART. 390 B.- La adopción puede ser plena o simple. La adopción simple podrá c
 
 ART. 390 C.- En toda adopción se deberá asegurar:
 
-I Que el consentimiento, de quien pueda otorgarlo conforme a la ley, se otorgue libremente y por escrito, sin que haya mediado pago o compensación alguna, el cual deberá ser ratificado, ante el Juez de Primera Instancia, y en los lugares donde no exista éste, ante el Juez Mixto de Paz o en su caso ante Notario Público de la demarcación del Estado. El otorgante en éste último caso deberá estar asistido por cuando menos cuatro testigos.
+I. Que el consentimiento, de quien pueda otorgarlo conforme a la ley, se otorgue libremente y por escrito, sin que haya mediado pago o compensación alguna, el cual deberá ser ratificado, ante el Juez de Primera Instancia, y en los lugares donde no exista éste, ante el Juez Mixto de Paz o en su caso ante Notario Público de la demarcación del Estado. El otorgante en éste último caso deberá estar asistido por cuando menos cuatro testigos.
 
 Las personas e instituciones, cuyo consentimiento se requiera para la adopción, deberán ser asesoradas previamente e informadas sobre las consecuencias legales que el seguimiento de la misma implica, así como los alcances del consentimiento otorgado y en particular con la ruptura de los vínculos jurídicos entre el sujeto de la adopción y su familia de origen.
 
@@ -2333,7 +2399,9 @@ V. Que el o los adoptantes sean de buenas costumbres y no hayan sido condenados 
 
 VI Que con motivo de dicho procedimiento no se produzcan beneficios económicos o financieros, a persona, autoridad o institución alguna, que haya participado o participe en el mismo.
 
-Tratándose de con nacionales deberán acreditar su lugar de origen y su estado civil, con copia certificada de documento idóneo, según el caso.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Tratándose de connacionales deberán acreditar su lugar de origen y su estado civil, con copia certificada de documento idóneo firmado en forma autógrafa o con la firma electrónica certificada, según el caso.
 
 Los extranjeros, además de los requisitos mencionados en las fracciones anteriores, deberán acreditar que pueden realizar dicho acto, con la respectiva autorización expedida por las autoridades competentes de su país.
 
@@ -2463,9 +2531,9 @@ ART. 399 B.- Cuando el Sistema Estatal para el Desarrollo Integral de la Familia
 
 ART. 400.- Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 401.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+ART. 401.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente y la incorpore al archivo físico y a la base de datos correspondiente.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -2559,9 +2627,9 @@ La impugnación antes mencionada debe plantearse por el adoptante, o de oficio p
 
 ART. 409 C.- El procedimiento para la revocación por la causal prevista en la fracción I del Artículo 405 de este Código, se sujetará a lo previsto por el artículo 924 del Código de Procedimientos Civiles.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 409 D.- Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para los efectos de su tramitación y se hagan las anotaciones correspondientes.
+ART. 409 D.- Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquella se hizo para los efectos de su tramitación y se hagan las anotaciones correspondientes en el archivo físico y en la base de datos.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
@@ -2681,7 +2749,9 @@ II Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuand
 
 III En los demás casos previstos por la Ley.
 
-Los antecedentes serán guardados en el secreto del archivo y cancelada el acta de nacimiento original.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Los antecedentes serán guardados en el secreto del archivo físico y en la base de datos y cancelada el acta de nacimiento original.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
@@ -2701,17 +2771,19 @@ III Autorización de la Secretaría de Gobernación para internarse y permanecer
 
 IV La documentación que los solicitantes presenten en idioma distinto al español deberá acompañarse de la traducción oficial y deberá estar apostillada o legalizada por el respectivo Cónsul mexicano.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 410 R.- La adopción de una persona a favor de extranjeros sólo se concederá en su forma plena, pero el Juez en su resolución les impondrá la obligación de informarle una vez por año, o cuantas veces se les requiera, hasta el cumplimiento de la mayoría de edad del adoptado, sobre las condiciones en que se desarrolla el nuevo vínculo paterno-filial, la salud y el trato que recibe el sujeto de la adopción; de no hacerlo, procederá la revocación de la adopción oficiosamente, bajo responsabilidad del juzgador en caso de que transcurra el término señalado y no la decrete.
+ART. 410 R.- La adopción de una persona a favor de extranjeros sólo se concederá en su forma plena, pero el Juez en su resolución les impondrá la obligación de informarle en forma documental o por los medios electrónicos autorizados una vez por año, o cuantas veces se les requiera, hasta el cumplimiento de la mayoría de edad del adoptado, sobre las condiciones en que se desarrolla el nuevo vínculo paterno-filial, la salud y el trato que recibe el sujeto de la adopción; de no hacerlo, procederá la revocación de la adopción oficiosamente, bajo responsabilidad del juzgador en caso de que transcurra el término señalado y no la decrete.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
 La revocación no surtirá sus efectos, si una vez notificados el o los adoptantes acreditan que no cumplieron con las obligaciones impuestas en el párrafo que antecede, por causas justificadas, o que, aun cuando no existieran éstas, demuestren que han cumplido con las obligaciones adquiridas con la adopción.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 410 S.- La información a que se refiere el artículo anterior, deberá ser, expedida por la misma autoridad que certificó su aptitud física, moral, psicológica y económica para adoptar.
+ART. 410-S.- La información a que se refiere el artículo anterior, deberá ser, expedida por la misma autoridad que certificó su aptitud física, moral, psicológica y económica para adoptar. Cuando se trate de información documental o electrónica, pero firmada con la firma electrónica certificada, los documentos deberán, para su validez, ser cotejados en la página de la institución que los emitió y autorizó.
 
-En caso de cambio de domicilio, Estado o País, tendrá la obligación de notificarlo al Juez, que resolvió la adopción, en un término prudente y los estudios que se mencionan en el primer párrafo, los podrá expedir la autoridad competente del nuevo domicilio.
+En caso de cambio de domicilio, Estado o País, tendrá la obligación de notificarlo en forma documental o por los medios electrónicos autorizados, al Juez que resolvió la adopción, en un término prudente y los estudios que se mencionan en el primer párrafo, los podrá expedir física o electrónicamente la autoridad competente del nuevo domicilio, los que tendrán validez, cuando sean firmados con la firma electrónica certificada, si están disponibles en la página de internet de quien los emitió para ser cotejados.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2009)</small>
 
@@ -3345,7 +3417,9 @@ ART. 590.- El tutor está obligado a rendir al juez cuenta detallada de su admin
 
 ART. 591.- También tiene obligación de rendir cuenta, cuando por causas graves, que calificará el juez, la exijan el curador, el Consejo Local de Tutelas o el mismo menor que haya cumplido dieciséis años de edad.
 
-ART. 592.- La cuenta de administración comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino en general, todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un balance del estado de los bienes.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 592.- La cuenta de administración comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino en general, todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos firmados en forma autógrafa o con la firma electrónica certificada y de un balance del estado de los bienes.
 
 ART. 593.- El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
 
@@ -3793,9 +3867,9 @@ IV.- Que son propiedad del constituyente los bienes destinados al patrimonio y q
 
 V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 730.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 732.- Si se llenan las condiciones exigidas en el artículo anterior, el Registrador aprobará la constitución del patrimonio de la familia y hará la inscripción correspondiente en el Registro Público de la Propiedad.
+ART. 732.- Si se llenan las condiciones exigidas en el artículo anterior, el Registrador aprobará la constitución del patrimonio de la familia y hará la inscripción correspondiente en el archivo físico y en la base de datos del Registro Público de la Propiedad.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
@@ -3847,9 +3921,11 @@ IV.- Cuando por causa de utilidad pública se expropian los bienes que lo forman
 
 V.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 735, se declare judicialmente nula o rescinda la venta de esos bienes.
 
-ART. 742.- La declaración de que queda extinguido el patrimonio, la hará el juez competente, mediante el procedimiento fijado con el Código respectivo, y la comunicará al Registro Público, para que se hagan las cancelaciones correspondientes.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda.
+ART. 742.- La declaración de que queda extinguido el patrimonio, la hará el juez competente, mediante el procedimiento fijado con el Código respectivo, y la comunicará al Registro Público, para que se hagan las cancelaciones correspondientes en el archivo físico o en el electrónico.
+
+Cuando el patrimonio se extinga por la causa prevista en la fracción IV del artículo que precede, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse en el Registro la cancelación que proceda, en el archivo físico o en el electrónico.
 
 ART. 743.- El precio del patrimonio expropiado y la indemnización proveniente del pago del seguro a consecuencia del siniestro sufrido por los bienes afectos al patrimonio familiar, se depositarán en una institución de crédito, y no habiéndola en la localidad, en una casa de comercio de notoria solvencia, a fin de dedicarlos a la constitución de un nuevo patrimonio de la familia. Durante un año son inembargables el precio depositado y el importe del seguro.
 
@@ -3923,7 +3999,9 @@ ART. 759.- En general son bienes muebles todos los demás no considerados por la
 
 ART. 760.- Cuando en una disposición de la ley o en los actos y contratos se use de las palabras bienes muebles, se comprenderán bajo esa denominación los enumerados en los artículos anteriores.
 
-ART. 761.- Cuando se use de las palabras muebles o bienes muebles de una casa, se comprenderán los que formen el ajuar y utensilios de ésta y que sirvan exclusiva y propiamente para el uso y trato ordinario de una familia, según las circunstancias de las personas que la integren. En consecuencia, no se comprenderán: el dinero, los documentos y papeles, las colecciones científicas y artísticas, los libros y sus estantes, las medallas, las armas, los instrumentos de artes y oficios, las joyas, ninguna clase de ropa de uso, los granos, caldos, mercancías y demás cosas similares.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 761.- Cuando se use de las palabras muebles o bienes muebles de una casa, se comprenderán los que formen el ajuar y utensilios de ésta y que sirvan exclusiva y propiamente para el uso y trato ordinario de una familia, según las circunstancias de las personas que la integren. En consecuencia, no se comprenderán; el dinero, los documentos físicos o electrónicos y papeles, las colecciones científicas y artísticas, los libros y sus estantes, las medallas, las armas, los instrumentos de artes y oficios, las joyas, ninguna clase de ropa de uso, los granos, caldos, mercancías y demás cosas similares.
 
 ART. 762.- Cuando por la redacción de un testamento o de un convenio se descubra que el testador o las partes contratantes han dado a las palabras muebles o bienes muebles una significación diversa de la fijada en los artículos anteriores, se estará a lo dispuesto en el testamento o convenio.
 
@@ -5689,13 +5767,15 @@ ART. 1402.- En el caso del artículo que precede, no tendrá validez el testamen
 
 ART. 1403.- Se prohibe a los notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 1404.- El notario que hubiere autorizado el testamento dará aviso por escrito a la Secretaría General de Gobierno dentro de los diez días hábiles siguientes, expresando los datos que para tal efecto señala la Ley del Notariado del Estado, quién a su vez remitirá vía electrónica la información contenida en el mismo al Registro Nacional de Avisos de Testamento, con los datos conducentes que para tal efecto señala la Ley del Notariado. Asimismo, luego que sepa la muerte del testador dará aviso a los interesados; si el notario omitiere dicho aviso o lo hiciere con dilación, será responsable de los daños y perjuicios que por ello ocasione.
+ART. 1404.- El notario que hubiere autorizado el testamento dará aviso por escrito o en forma electrónica a la Secretaria General de Gobierno dentro de los diez días hábiles siguientes, expresando los datos que para tal efecto señala la Ley del Notariado del Estado, quién a su vez remitirá por la misma vía electrónica la información contenida en el mismo al Registro Nacional de Avisos de Testamento, con los datos conducentes que para tal efecto señala la Ley del Notariado. Asimismo, luego que sepa la muerte del testador dará aviso a los interesados; si el notario omitiere dicho aviso o lo hiciere con dilación, será responsable de los daños y perjuicios que por ello ocasione.
 
 ART. 1405.- Lo dispuesto en el artículo que precede se observará también por cualquiera que tenga en su poder un testamento.
 
-ART. 1406.- Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1406.- Si los interesados están ausentes o son desconocidos, la noticia se dará al juez en cualquiera de las vías de comunicación antes referidas.
 
 ### CAPITULO II. Del testamento público abierto
 
@@ -5779,7 +5859,9 @@ ART. 1432.- Por la infracción del artículo anterior no se anulará el testamen
 
 ART. 1433.- El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza, o depositarlo en el archivo judicial.
 
-ART. 1434.- El testador que quiera depositar su testamento en el archivo, se presentará con él ante el encargado de éste, quien hará asentar en el libro que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada por dicho funcionario y el testador, a quien se dará copia autorizada.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1434.- El testador que quiera depositar su testamento en el archivo, se presentará con él ante el encargado de éste, quien hará asentar en el libro o en la base de datos correspondiente, que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada en forma autógrafa o con la firma electrónica certificada por dicho funcionario y el testador, a quien se dará copia autorizada.
 
 ART. 1435.- Pueden hacerse por procurador la presentación y depósito de que habla el artículo que precede, y en este caso, el poder quedará unido al testamento.
 
@@ -5839,9 +5921,13 @@ La omisión de esta formalidad por el testador, sólo afecta a la validez de las
 
 ART. 1449.- El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en el Archivo General de Notarías, y el duplicado, también cerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarios para evitar violaciones.
 
-ART. 1450.- El depósito en el Archivo General de Notarías se hará personalmente por el testador, quien, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 1451.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que el señor .................... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
+ART. 1450.- El depósito en el Archivo General de Notarías se hará personalmente por el testador, quien, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina, éste último podrá firmar en forma autógrafa o con su firma electrónica certificada. En caso de que intervengan testigos de identificación, también firmarán.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1451.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que el señor...................... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el encargado de la oficina en forma autógrafa o con su firma electrónica certificada, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
 
 ART. 1452.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Archivo General de Notarías, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
 
@@ -5849,7 +5935,9 @@ ART. 1453.- Hecho el depósito, el encargado del Archivo General de Notarías to
 
 ART. 1454.- En cualquier tiempo el testador podrá retirar del archivo, personalmente o por medio de mandatario con poder especial, otorgado en escritura pública, el testamento depositado, haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina.
 
-ART. 1455.- El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Archivo General de Notarías, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1455.- El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Archivo General de Notarías, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento; pudiendo solicitar a la Secretaría General de Gobierno, lo habiliten para pedir la información del testamento que corresponda y para que pueda acceder a la base de datos del Registro Nacional de Avisos de Testamento, llevando la Secretaría General un control electrónico de esas consultas.
 
 ART. 1456.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al juez competente, quien pedirá al encargado de la oficina del Archivo General de Notarías, en que se encuentra el testamento, que se lo remita.
 
@@ -6557,11 +6645,19 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 Del consentimiento
 
-ART. 1694.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la ley o por convenio la voluntad deba manifestarse expresamente.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1694.- El consentimiento puede ser expreso o tácito, para ello se estará a lo siguiente:
+
+I.- Será expreso cuando la voluntad se manifiesta verbalmente, por escrito, por medios electrónicos, ópticos, magnéticos o por cualquier otra tecnología, o por signos inequívocos; y
+
+II.- El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
 
 ART. 1695.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
-ART. 1696.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1696.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono o a través de cualquier otro medio electrónico, óptico, magnético o de cualquier otra tecnología que permita la expresión de la oferta y la aceptación de ésta en forma inmediata.
 
 ART. 1697.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
 
@@ -6574,6 +6670,148 @@ ART. 1700.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin 
 ART. 1701.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
 ART. 1702.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Tratándose de la propuesta y aceptación hechas a través de medios electrónicos, ópticos, magnéticos o de cualquier otra tecnología no se requerirá de estipulación previa entre los contratantes para que produzca efectos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Contratación por Medios Electrónicos y Firma Electrónica
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 A.- Las disposiciones siguientes, se someterán en su interpretación y aplicación a los principios de neutralidad tecnológica, autonomía de la voluntad, compatibilidad internacional y equivalencia funcional del mensaje de datos en relación con la información documentada en medios no electrónicos y de la firma electrónica certificada en relación con la firma autógrafa.
+
+En los contratos civiles podrán emplearse los medios electrónicos, ópticos, magnéticos o cualquier otra tecnología. Para efecto del presente Código, se deberán tomar en cuenta las siguientes definiciones:
+
+Destinatario: La persona designada por el emisor para recibir el mensaje de datos, pero que no esté actuando a título de Intermediario con respecto a dicho mensaje;
+
+Emisor: Toda persona que, al tenor del mensaje de datos, haya actuado a nombre propio o en cuyo nombre se haya enviado o generado ese mensaje antes de ser archivado, si éste es el caso, pero que no haya actuado a título de Intermediario;
+
+Firma Electrónica: Los datos en forma electrónica consignados en un mensaje de datos, o adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al firmante en relación con el mensaje de datos e indicar que el firmante aprueba la información contenida en el mensaje de datos, y que produce los mismos efectos jurídicos que la firma autógrafa, siendo admisible como prueba en juicio;
+
+Mensaje de Datos: La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología;
+
+Sistema de Información: Se entenderá todo sistema utilizado para generar, enviar, recibir, archivar o procesar de alguna otra forma mensajes de datos.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 B.- No se negarán efectos jurídicos, validez o fuerza obligatoria a cualquier tipo de información por la sola razón de que esté contenida en un mensaje de datos.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 C.- Se presumirá que un mensaje de datos proviene del emisor si ha sido enviado:
+
+I.- Por el propio emisor;
+
+II.- Usando medios de identificación, tales como claves o contraseñas del emisor o por alguna persona facultada para actuar en nombre del emisor respecto a ese mensaje de datos; y
+
+III.- Por un sistema de información programado por el emisor o en su nombre para que opere automáticamente.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 D.- Se presume que un mensaje de datos ha sido enviado por el emisor y, por lo tanto, el destinatario, podrá actuar en consecuencia, cuando:
+
+I.- Haya aplicado en forma adecuada el procedimiento acordado previamente con el emisor, con el fin de establecer que el mensaje de datos provenía efectivamente de éste; y
+
+II.- El mensaje de datos que reciba el destinatario o la parte que confía, resulte de los actos de un Intermediario que le haya dado acceso a algún método utilizado por el emisor para identificar un mensaje de datos como propio.
+
+Lo dispuesto en el presente artículo no se aplicará:
+
+I.- A partir del momento en que el destinatario haya sido informado por el Emisor de que el mensaje de datos no provenía de éste, y haya dispuesto de un plazo razonable para actuar en consecuencia; y
+
+II.- A partir del momento en que el destinatario o la parte que confía, tenga conocimiento, o debiere tenerlo, de haber actuado con la debida diligencia o aplicado algún método convenido, que el mensaje de datos no provenía del emisor.
+
+Salvo prueba en contrario y sin perjuicio del uso de cualquier otro método de verificación de la identidad del Emisor, se presumirá que se actuó con la debida diligencia si el método que usó el Destinatario o la Parte que Confía cumple con los requisitos establecidos en este Código para la verificación de la fiabilidad de las Firmas Electrónicas.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 E.- Salvo pacto en contrario entre el emisor y el destinatario, el momento de recepción de un mensaje de datos se determinará como sigue:
+
+I.- Si el destinatario ha designado un sistema de información para la recepción de mensajes de datos, ésta tendrá lugar en el momento en que ingrese en dicho Sistema de Información;
+
+II.- De enviarse el mensaje de datos a un sistema de información del destinatario que no sea el sistema de Información designado, o de no haber un sistema de información designado, en el momento en que el Destinatario recupere el mensaje de datos; y
+
+III.- Si el destinatario no ha designado un sistema de información, la recepción tendrá lugar cuando el mensaje de datos ingrese a un sistema de información del destinatario.
+
+Lo dispuesto en este artículo será aplicable aun cuando el sistema de información esté ubicado en un lugar distinto de donde se tenga por recibido el mensaje de datos conforme al artículo 1702-J.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 F.- Salvo pacto en contrario entre el emisor y el destinatario, el mensaje de datos se tendrá por expedido cuando ingrese en un sistema de información que no esté bajo el control del emisor o del intermediario.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702-G.- En lo referente a acuse de recibo de mensajes de datos, se estará a lo siguiente:
+
+I.- Si al enviar o antes de enviar un mensaje de datos, el emisor solicita o acuerda con el destinatario que se acuse recibo del mensaje de datos, pero no se ha acordado entre éstos una forma o método determinado para efectuarlo, se podrá acusar recibo mediante:
+
+a).- Toda comunicación del destinatario, automatizada o no; y
+
+b).- Todo acto del destinatario, que baste para indicar al emisor que se ha recibido el mensaje de datos.
+
+II.- Cuando el emisor haya indicado que los efectos del mensaje de datos estarán condicionados a la recepción de un acuse de recibo, se considerará que el mensaje de datos no ha sido enviado en tanto que no se haya recibido el acuse de recibo en el plazo fijado por el emisor o dentro de un plazo razonable atendiendo a la naturaleza del negocio, a partir del momento del envío del mensaje de datos;
+
+III.- Cuando el emisor haya solicitado o acordado con el destinatario que se acuse recibo del mensaje de datos, independientemente de la forma o método determinado para efectuarlo, salvo que:
+
+a).- El emisor no haya indicado expresamente que los efectos del mensaje de datos estén condicionados a la recepción del acuse de recibo; y
+
+b).- No se haya recibido el acuse de recibo en el plazo solicitado o acordado o, en su defecto, dentro de un plazo razonable atendiendo a la naturaleza del negocio.
+
+El emisor podrá dar aviso al destinatario de que no ha recibido el acuse de recibo solicitado o acordado y fijar un nuevo plazo razonable para su recepción, contado a partir del momento de este aviso. Cuando el emisor reciba acuse de recibo del destinatario, se presumirá que éste ha recibido el mensaje de datos correspondiente; y
+
+IV.- Cuando en el acuse de recibo se indique que el mensaje de datos recibido cumple con los requisitos técnicos convenidos o establecidos en ley, se presumirá que ello es así.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 H.- Cuando la ley requiera que la información sea presentada y conservada en su forma original, ese requisito quedará satisfecho respecto a un mensaje de datos:
+
+I.- Si existe garantía confiable de que se ha conservado la integridad de la información, a partir del momento en que se generó por primera vez en su forma definitiva, como mensaje de datos o en alguna otra forma; y
+
+II.- De requerirse que la información sea presentada, si dicha información puede ser mostrada a la persona a la que se deba presentar.
+
+Para efectos de este artículo, se considerará que el contenido de un mensaje de datos es íntegro, si éste ha permanecido completo e inalterado independientemente de los cambios que hubiere podido sufrir el medio que lo contiene, resultado del proceso de comunicación, archivo o presentación. El grado de confiabilidad requerido será determinado conforme a los fines para los que se generó la información y de todas las circunstancias relevantes del caso.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 I.- Salvo pacto en contrario entre el emisor y el destinatario, el Mensaje de Datos se tendrá por expedido en el lugar donde el emisor tenga su residencia habitual y por recibido en el lugar donde el destinatario tenga el suyo.
+
+Para los fines del presente artículo.
+
+I.- Si el emisor o el destinatario tienen más de una residencia habitual, se considerará aquella que guarde una relación más estrecha con la operación subyacente o, de no haber una operación subyacente, su residencia principal; y
+
+II.- Si el emisor o el destinatario no tienen residencia habitual, se tendrá en cuenta el lugar de su simple residencia.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 J.- Conforme al artículo 1702-C, siempre que se entienda que el mensaje de datos proviene del emisor, o que el destinatario tenga derecho a actuar con arreglo a este supuesto, dicho destinatario tendrá derecho a considerar que el mensaje de datos recibido corresponde al que quería enviar el iniciador, y podrá proceder en consecuencia. El destinatario no gozará de este derecho si sabía o hubiera sabido, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que la transmisión había dado lugar a un error en el mensaje de datos recibido.
+
+Se presume que cada mensaje de datos recibido es un mensaje de datos diferente, salvo que el destinatario sepa, o debiera saber, de haber actuado con la debida diligencia, o de haber aplicado algún método previamente acordado, que el nuevo mensaje de datos era un duplicado.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 K.- Las disposiciones del presente Código serán aplicadas de modo que no excluyan, restrinjan o priven de efecto jurídico cualquier método para crear una firma electrónica.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 L.- Cuando la ley requiera o las partes acuerden la existencia de una firma en relación con un mensaje de datos, se entenderá satisfecho dicho requerimiento si se utiliza una firma electrónica que resulte apropiada para los fines para los cuales se generó o comunicó ese mensaje de datos.
+
+Cuando se trate de actos jurídicos que deban otorgarse ante fedatario publico, se requerirá de la firma electrónica certificada.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1702 M.- El firmante deberá;
+
+I.- Cumplir las obligaciones derivadas del uso de la firma electrónica;
+
+II.- Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada de los datos de creación de la firma;
+
+III.- Cuando se emplee un certificado en relación con una firma electrónica, actuar con diligencia razonable para cerciorarse de que todas las declaraciones que haya hecho en relación con el certificado, con su vigencia, o que hayan sido consignadas en el mismo, son exactas.
+
+El firmante será responsable de las consecuencias jurídicas que deriven por no cumplir oportunamente las obligaciones previstas en el presente artículo; y
+
+IV.- Responder por las obligaciones derivadas del uso no autorizado de su firma, cuando no hubiere obrado con la debida diligencia para impedir su utilización, salvo que el destinatario conociere de la inseguridad de la firma electrónica o no hubiere actuado con la debida diligencia.
 
 Vicios del consentimiento
 
@@ -6636,6 +6874,14 @@ ART. 1724.- Cuando la ley exija determinada forma para un contrato, mientras que
 ART. 1725.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
 
 Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 1725 BIS.- Los supuestos previstos por el artículo anterior se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos, magnéticos o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de dichos medios sea atribuible a las personas obligadas, y accesible para su ulterior consulta.
+
+En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes han decidido obligarse, mediante la utilización de medios electrónicos, ópticos, magnéticos o de cualquier otra tecnología, en cuyo caso el fedatario público, deberá hacer constar en el propio instrumento los elementos a través de los cuales se atribuye dicha información a las partes y conservar bajo su resguardo una versión íntegra de la misma para su ulterior consulta, otorgando dicho instrumento de conformidad con la legislación aplicable que lo rige.
+
+Cuando adicionalmente la ley exija la firma de las partes, dicho requisito se tendrá por cumplido tratándose de mensaje de datos, siempre que éste sea atribuible a dichas partes.
 
 División de los contratos.
 
@@ -7253,7 +7499,9 @@ I.- Si tienen por objeto un crédito que deba inscribirse, desde la fecha de su 
 
 II.- Si se hace en escritura pública, desde la fecha de su otorgamiento;
 
-III.- Si se trata de un documento privado, desde el día en que se incorpore o inscriba en un Registro Público; desde la muerte de cualquiera de los que lo firmaren, o desde la fecha en que se entregue a un funcionario público por razón de su oficio.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+III.- Si se trata de un documento privado, desde el día en que se incorpore o inscriba física y electrónicamente en el Registro Público; desde la muerte de cualquiera de los que lo firmaren, o desde la fecha en que se entregue a un funcionario público por razón de su oficio.
 
 > <small>(F. DE E., P.O. 2 DE ABRIL DE 1955)</small>
 
@@ -9571,7 +9819,9 @@ ART. 2741.- La persona ante quien se otorgue la fianza, dentro del término de t
 
 La falta de avisos hace responsable al que deba darlos, de los daños y perjuicios que su omisión origine.
 
-ART. 2742.- En los certificados de gravamen que expida el Registro Público se harán figurar las anotaciones preventivas de que habla el artículo anterior.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2742.- En los certificados de gravamen que expida el Registro Público firmados en forma autógrafa o con la firma electrónica certificada se harán figurar las anotaciones preventivas de que habla el artículo anterior.
 
 ART. 2743.- Si el fiador enajena o grava los bienes raíces cuyas inscripciones de propiedad están anotadas conforme a lo dispuesto en el artículo 2,741, y de la operación resulta la insolvencia del fiador, aquélla se presumirá fraudulenta.
 
@@ -9583,7 +9833,9 @@ De la prenda
 
 ART. 2745.- La prenda es un derecho real constituido sobre un bien mueble enajenable para garantizar el cumplimiento de una obligación y su preferencia en el pago.
 
-ART. 2746.- También pueden darse en prenda los frutos pendientes de los bienes raíces que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero necesitará inscribirse en el Registro Público a que corresponda la finca respectiva.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2746.- También pueden darse en prenda los frutos pendientes de los bienes raíces que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero necesitará inscribirse en el Registro Público, en el archivo físico y electrónico, a que corresponda la finca respectiva.
 
 El que dé los frutos en prenda se considerará como depositario de ellos, salvo convenio en contrario.
 
@@ -9591,7 +9843,9 @@ ART. 2747.- Para que se tenga por constituida la prenda, deberá ser entregada a
 
 ART. 2748.- Se entiende entregada jurídicamente la prenda al acreedor, cuando éste y el deudor convienen en que quede en poder de un tercero, o bien cuando quede en poder del mismo deudor porque así lo haya estipulado con el acreedor o expresamente lo autorice la ley.
 
-Cuando la prenda quede en poder del deudor, para que surta efectos contra tercero debe inscribirse en el Registro Público. La inscripción sólo podrá efectuarse si se trata de bienes que sean susceptibles de identificarse de manera indubitable y si conforme al Reglamento del Registro pueden ser materia de inscripción.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Cuando la prenda quede en poder del deudor, para que surta efectos contra tercero debe inscribirse en el Registro Público, en el archivo físico y el electrónico. La inscripción sólo podrá efectuarse si se trata de bienes que sean susceptibles de identificarse de manera indubitable y si conforme al Reglamento del Registro pueden ser materia de inscripción.
 
 El deudor puede usar de la prenda que quede en su poder en los términos que convengan las partes.
 
@@ -9779,7 +10033,9 @@ ART. 2811.- Si la obligación asegurada estuviese sujeta a condición resolutori
 
 ART. 2812.- Cuando se contraiga la obligación futura o se cumplan las condiciones de que tratan los dos artículos anteriores, deberán los interesados pedir que se haga constar así, por medio de una nota al margen de la inscripción hipotecaria, sin cuyo requisito no podrá aprovechar ni perjudicar a tercero la hipoteca constituída.
 
-ART. 2813.- Para hacer constar en el Registro el cumplimiento de las condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador la copia del documento público que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2813.- Para hacer constar en el archivo físico y en la base de datos del Registro el cumplimiento de las condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador la copia del documento público firmando en forma autógrafa o con la firma electrónica certificada que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
 
 Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro a la autoridad judicial para que, previo el procedimiento correspondiente, dicte la resolución que proceda.
 
@@ -9909,7 +10165,9 @@ ART. 2843.- Puede anularse la transacción cuando se hace en razón de un títul
 
 ART. 2844.- Cuando las partes están instruidas de la nulidad del título, o la disputa es sobre esa misma nulidad, pueden transigir válidamente, siempre que los derechos a que se refiere el título sean renunciables.
 
-ART. 2845.- La transacción celebrada teniéndose en cuenta documentos que después han resultado falsos por sentencia judicial, es nula.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2845.- La transacción celebrada teniéndose en cuenta documentos, firmados en forma autógrafa o con la firma electrónica certificada, que después han resultado falsos por sentencia judicial, es nula.
 
 ART. 2846.- El descubrimiento de nuevos títulos o documentos no es causa para anular o rescindir la transacción, si no ha habido mala fe.
 
@@ -10073,7 +10331,9 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
 ### CAPITULO VI. Acreedores de tercera clase
 
-ART. 2885.- Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2885.- Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento físico o electrónico auténtico.
 
 ### CAPITULO VII. Acreedores de cuarta clase
 
@@ -10091,9 +10351,13 @@ ART. 2888.- La Dirección General del Registro Público se establecerá en el Mu
 
 ART. 2889.- El Registro Público funcionará conforme al sistema y métodos que determine el Reglamento.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2890.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios del Registro Público y de los documentos relacionados con las inscripciones que estén archivados. También tienen la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los folios del Registro Público, así como certificaciones de existir o no asientos relativos a los bienes que se señalen.
+ART. 2889 BIS.- En materia registral, podrán emplearse medios electrónicos, ópticos, magnéticos o cualquier otra tecnología. Las solicitudes de inscripción, de expedición de constancias, certificados, copias, así como las anotaciones o inscripciones, cancelaciones, rectificación o modificación de asientos y cualquier otro acto registral podrán hacerse constar mediante mensajes de datos con firma electrónica certificada.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2890.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, ya sea de forma física o vía electrónica, que se enteren de los asientos que obren en los folios físicos o electrónicos del Registro Público y de los documentos relacionados con las inscripciones que estén archivados física o electrónicamente. También tienen la obligación de expedir copias certificadas, con la firma autógrafa o con la firma electrónica certificada, de las inscripciones o constancias que figuren en los folios físicos o electrónicos del Registro Público, así como certificaciones de existir o no asientos relativos a los bienes que se señalen.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
@@ -10103,15 +10367,25 @@ ART. 2891.- El Reglamento establecerá los requisitos necesarios para desempeña
 
 ART. 2892.- El encargado y los empleados del Registro Público, además de las penas que les sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar cuando:
 
-I.- Rehusen admitir el título, o si no practican el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 2905;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-II.- Practiquen algún asiento indebidamente o rehusen practicarlo sin motivo fundado;
+I.- Rehúsen admitir el título, o si no practican el asiento de presentación por el orden de entrada del documento o del aviso, en cualquiera de sus formas, ya sea física o electrónicamente, a que se refiere el artículo 2905;
 
-III.- Retarden, sin causa justificada, la práctica del asiento a que dé lugar el documento inscribible;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los conflictos que expidan; y
+II.- Practiquen algún asiento indebidamente o rehúsen practicarlo en su forma física y electrónica sin motivo fundado;
 
-V.- No expidan los certificados en el término reglamentario.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+III.- Retarden, sin causa justificada, la práctica del asiento, física y electrónicamente, a que dé lugar el documento inscribible;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o en los documentos o informes que expidan vía física o electrónica; y
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+V.- No expidan los certificados físicos o electrónicos en el término reglamentario.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
@@ -10121,15 +10395,25 @@ ART. 2893.- Las sentencias firmes que resulten en aplicación del artículo ante
 
 ### CAPITULO II. Disposiciones Comunes de los Documentos Registrables
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2894.- Solo se registrarán física y electrónicamente:
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+I.- Los testimonios de escrituras o actas notariales u otros documentos auténticos, físicos o electrónicos firmados en forma autógrafa o con la firma electrónica certificada;
+
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
-
-ART. 2894.- Sólo se registrarán:
-
-I.- Los testimonios de escrituras o actas notariales u otros documentos auténticos;
 
 II.- Las resoluciones y providencias judiciales que consten de manera auténtica;
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la Ley, siempre que al calce de los mismos haya la constancia de que el notario, el Director del Registro Público, la autoridad Municipal o el Juez de Paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar el sello de la oficina respectiva.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+III.- Los documentos privados físicos o electrónicos que en esta forma fueren validos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el director del Registro Público, la autoridad municipal o el Juez de Paz se cercioró de la autenticidad de las firmas autógrafas o electrónicas certificadas y de la voluntad de las partes. Dicha constancia deberá estar firmadas por los mencionados funcionarios y llevar el sello de la oficina respectiva.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+En los documentos en que se utilice la firma electrónica certificada, se incluirá en sus algoritmos el contenido del sello, y cuando sea posible en los formatos predeterminados, y al imprimirse se estamparán en el documento, de acuerdo con los parámetros señalados al efecto; de no ser posible esto último, el documento quedará validado con la sola firma electrónica certificada.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
@@ -10139,15 +10423,19 @@ Si los documentos respectivos apareciesen redactados en idioma extranjero y se e
 
 Las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con Leyes Mexicanas y si ordena su ejecución la autoridad judicial competente.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Cuando se trate de documentos físicos firmados con firma electrónica certificada o de documentos electrónicos firmados de la misma manera, solo se inscribirán si tienen el carácter de inscribibles y además cumplen con las disposiciones señaladas en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su reglamento respectivo, por lo que ve a la firma electrónica certificada.
+
 De los efectos del Registro
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2896.- Los documentos que conforme a este Código sean registrables y no se registren, no producirán efectos en perjuicio de tercero.
+ART. 2896.- Los documentos físicos o electrónicos que conforme a este Código sean registrables y no se registren, no producirán efectos en perjuicio de tercero.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2897.- La inscripción de los actos o contratos en el Registro Público tienen efectos declarativos.
+ART. 2897.- La inscripción que se haga en cualquiera de sus formas, física y electrónica, de los actos o contratos en el Registro Publico tienen efectos declarativos.
 
 ART. 2898.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho a ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
 
@@ -10161,9 +10449,13 @@ No podrá ejercitarse acción contradictoria del dominio de inmuebles, de derech
 
 En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro Público, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción como causahabiente del que aparece dueño en el Registro Público.
 
-ART. 2900.- Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar en el registro de la finca sobre que recaigan, separada y especialmente, en la forma que determine el reglamento. Lo dispuesto en este artículo se aplicará a los inmuebles que en su caso comprenda la hipoteca industrial prevista por la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, a la hipoteca sobre los sistemas de las empresas, a que se refiere la Ley de Vías Generales de Comunicación, y a casos similares previstos en las leyes especiales.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2901.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el registro relativo a dichos inmuebles y derechos.
+ART. 2900.- Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar física y electrónicamente en el registro de la finca sobre que recaigan, separada y especialmente, en la forma que determine el reglamento. Lo dispuesto en este artículo se aplicará a los inmuebles que en su caso comprenda la hipoteca industrial prevista por la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, a la hipoteca sobre los sistemas de las empresas a que se refiere la Ley de Vías Generales de Comunicación, y a casos similares previstos en las leyes especiales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2901.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables física y electrónicamente, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el registro relativo a dichos inmuebles y derechos.
 
 Cualesquiera de los cónyuges u otros interesados tienen derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezcan a la sociedad conyugal y aparezca inscrito a nombre de uno solo de aquéllos.
 
@@ -10175,17 +10467,19 @@ El derecho real adquirido con anterioridad a la fecha de una anotación preventi
 
 Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste, será preferente aun cuando tal aviso se hubiese dado extemporáneamente.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2903.- Los asientos del Registro Público, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución Judicial.
+ART. 2903.- Los asientos del Registro Publico físicos y electrónicos, en cuanto se refieran a derechos inscribibles o anotables, producen todos sus efectos, salvo resolución Judicial.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2904.- La relación entre los diversos documentos ingresados al Registro Público se determinará por la prioridad en cuanto a la fecha y número ordinal que les corresponda al presentarlos para su inscripción, salvo lo dispuesto en el artículo siguiente.
+ART. 2904.- La prelación entre los diversos documentos físicos o electrónicos ingresados al Registro Publico se determinará por la prioridad en cuanto a la fecha y número ordinal que les corresponda al presentarlos para su inscripción, salvo lo dispuesto en el artículo siguiente.
 
-ART. 2905.- A más tardar dentro de los dos días hábiles siguientes a aquél en que se firme una escritura en que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario ante quien se otorgue dará al Registro un aviso en el que conste la finca de que se trata, el negocio jurídico otorgado, los nombres de los interesados en él, el número y la fecha de la escritura y la de su firma e indicación de los números y demás datos bajo los cuales aparezca inscrita la propiedad o el derecho en su caso. El Encargado del Registro, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente el asiento de presentación. Si dentro de los sesenta días naturales siguientes a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación hecho en virtud del aviso del notario. Si el testimonio se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que se refiere este artículo, las autoridades de que habla la fracción III del artículo 2,894 y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+ART. 2905.- A más tardar dentro de los dos días hábiles siguientes a aquél en que se firme una escritura en que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario ante quien se otorgue dará al Registro un aviso en forma escrita o electrónica en el que conste la finca de que se trata, el negocio jurídico otorgado, los nombres de los interesados en él, el número y la fecha de la escritura y la de su firma autógrafa o electrónica e indicación de los números y demás datos bajo los cuales aparezca inscrita la propiedad o el derecho en su caso. El encargado del Registro, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente el asiento de presentación, de forma física y electrónica. Si dentro de los sesenta días naturales siguientes a la fecha en que se hubiere firmado la escritura se presentare en forma física o electrónica el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación hecho en virtud del aviso del notario. Si el testimonio se presentare después, su registro solo surtirá efectos desde la fecha de su presentación.
+
+Si el documento físico o electrónico en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que se refiere este artículo, las autoridades de que habla la fracción III del artículo 2894 y el mencionado aviso producirá los mismos efectos que el dado por el notario.
 
 ART. 2906.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los estaba produciendo.
 
@@ -10193,33 +10487,53 @@ ART. 2906.- La inscripción definitiva de un derecho que haya sido anotado preve
 
 De quienes pueden solicitar el registro y de la calificación registral
 
-ART. 2907.- La inscripción o anotación de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en el derecho que se va a inscribir o a anotar, o por el notario que haya autorizado la escritura de que se trate.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
+ART. 2907.- La inscripción o anotación física y electrónica de los títulos en el Registro puede pedirse por todo el que tenga interés legitime en el derecho que se va a inscribir o a anotar, o por el notario que haya autorizado la escritura de que se trate.
 
-ART. 2908.- Para inscribir o anotar cualquier titulo, deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquél o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
+Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número. Igual acto se efectuará cuando se realice en forma electrónica, utilizando la misma vía para su regreso.
 
-ART. 2909.- Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2908.- Para inscribir o anotar cualquier título, deberá constar previamente inscrito o anotado física y electrónicamente el derecho de la persona que otorgó aquel o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2909.- Inscrito o anotado un título de forma física y electrónica, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
 
 Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada mientras el asiento esté vigente.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2910.- Los registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
+ART. 2910.- Los registradores calificarán bajo su responsabilidad los documentos físicos o electrónicos que se presenten para la práctica de alguna inscripción o anotación; la que suspenderán o denegarán en los casos siguientes:
 
-I.- Cuando el título presentado no sea de los que deben inscribirse o anotarse;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-II.- Cuando el documento no revista las formas extrínsecas que establezca la Ley;
+I. Cuando el título físico o electrónico presentado no sea de los que deben inscribirse o anotarse;
 
-III.- Cuando los funcionarios ante quienes se haya otorgado o ratificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-IV.- Cuando el contenido del documento sea contrario a las Leyes prohibitivas o de interés público;
+II. Cuando el documento físico o electrónico no revista las formas extrínsecas que establezca la ley;
 
-V.- Cuando haya incompatibilidad entre el texto del documento y los asientos del Registro;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-VI.- Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 2900;
+III. Cuando los funcionarios ante quienes se haya otorgado o ratificado el documento físico o electrónico, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de estos;
 
-VII.- Cuando falte algún otro requisito que deba llevar el documento de acuerdo con este Código u otras Leyes aplicables.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+IV. Cuando el contenido del documento físico o electrónico sea contrario a las Leyes prohibitivas o de interés público;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+V. Cuando haya incompatibilidad entre el texto del documento y los asientos del Registro, en cualquiera de sus formas ya sean físicas electrónicas;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
+
+VI. Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en la última parte del artículo 2900;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+VII. Cuando falte algún otro requisito que deba llevar el documento físico o electrónico de acuerdo con este Código u otras Leyes aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
@@ -10233,9 +10547,17 @@ ART. 2912.- La rectificación de los asientos por causa de error material o de c
 
 ART. 2913.- Se entenderá que se comete error material cuando sin intención conocida se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de sus conceptos.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Lo anterior se entenderá de la misma forma, tratándose de las inscripciones practicadas electrónicamente.
+
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
 ART. 2914.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Lo anterior se entenderá de la misma forma, tratándose de las inscripciones practicadas electrónicamente.
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
@@ -10243,11 +10565,19 @@ ART. 2915.- Cuando se trate de errores de concepto los asientos practicados en l
 
 A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
 
-En caso de que el registrador se oponga a la rectificación, se observará lo dispuesto en el artículo 2911.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-En el caso previsto por el artículo 2901 el que solicite la rectificación deberá acompañar a la solicitud que presente al registro, los documentos con los que pruebe el régimen matrimonial.
+En caso de que el registrador se oponga a la rectificación física o electrónica, se observará lo dispuesto en el artículo 2911.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+En el caso previsto por el artículo 2901 el que solicite la rectificación física o electrónica deberá acompañar a la solicitud que presente al registro, los documentos con los que pruebe el régimen matrimonial.
 
 En ningún caso la rectificación perjudicará los derechos adquiridos por tercero a título oneroso y de buena fé durante la vigencia del asiento que se declare inexacto.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Lo anterior se aplicará de la misma forma, tratándose de las inscripciones efectuadas electrónicamente.
 
 ART. 2916.- El concepto rectificado surtirá efectos desde la fecha de la rectificación.
 
@@ -10301,7 +10631,9 @@ ART. 2928.- Las inscripciones de hipotecas constituidas con el objeto de garanti
 
 Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
 
-ART. 2929.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la décima parte del total de la emisión.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2929.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial física o electrónica que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la decima parte del total de la emisión.
 
 ART. 2930.- Podrá también cancelarse total o parcialmente la hipoteca que garantice tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que cancela.
 
@@ -10323,7 +10655,9 @@ II.- La constitución del patrimonio familiar;
 
 III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor de seis años y aquellos en que haya anticipos de renta por más de tres años; y
 
-IV.- Los demás títulos que la Ley ordene expresamente que sean registrados.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+IV.- Los demás títulos que la ley ordene expresamente que sean registrados, ya sea en forma física o electrónica.
 
 ART. 2932.- Se anotarán preventivamente en el Registro:
 
@@ -10343,7 +10677,9 @@ VII.- Las declaraciones de expropiación, de limitación de dominio o de ocupaci
 
 VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro;
 
-IX.- Cualquier otro título que sea anotable de acuerdo con este Código u otras leyes.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+IX.- Cualquier otro título físico o electrónico que sea anotable de acuerdo con este Código u otras leyes.
 
 De los efectos de las anotaciones
 
@@ -10353,7 +10689,9 @@ En los casos de las fracciones IV y VII del artículo anterior, podrá producirs
 
 En el caso de la fracción VI, la anotación no producirá otro efecto que el fijado por el artículo 2,743.
 
-En el caso de la fracción VII, la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración; pero bastará la publicación del decreto relativo en el "Periódico Oficial" del Estado para que queden sujetos a las resultas del mismo tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna ley en que se establezca que no es necesario este requisito.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+En el caso de la fracción VII la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración. Pero bastará la publicación del decreto relativo en el Periódico Oficial del Estado y en la página de internet del Gobierno del Estado para que queden sujetos a las resultas del mismo tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna ley en que se establezca que no es necesario este requisito.
 
 ART. 2934.- Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse y gravarse, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
 
@@ -10367,9 +10705,13 @@ II.- Mediante información posesoria;
 
 III.- Mediante resolución judicial que la ordene y que se haya dictado como consecuencia de la presentación de titulación fehaciente que abarque sin interrupción un período por lo menos de cinco años;
 
-IV.- Mediante la inscripción del decreto publicado en el "Periódico Oficial" del Estado que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2936.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1,152, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en el Catastro y en los Padrones de la Tesorería General del Estado.
+IV.- Mediante la inscripción física y electrónica del decreto publicado en el Periódico Oficial del Estado y en la página de internet del Gobierno del Estado que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2936.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1152, por no estar inscrita en forma física y electrónica en el Registro de la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado firmado en forma autógrafa o con la firma electrónica certificada, del Registro Publico que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en el Catastro y en los Padrones de la Tesorería General del Estado.
 
 La información se recibirá con citación del Ministerio Público, de la autoridad municipal, del respectivo registrador de la propiedad, de los colindantes y de la persona que tenga catastrada la finca a su favor o a cuyo nombre se expidan las boletas del impuesto predial.
 
@@ -10377,7 +10719,9 @@ Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ub
 
 No se recibirá la información sin que previamente se publique la solicitud del promovente, por tres veces, de tres en tres días, en los Estrados del Juzgado y en un periódico de los de mayor circulación en el Estado. Además se fijará un ejemplar del aviso en el predio objeto de la información.
 
-Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario, en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Comprobada debidamente la posesión, el juez declarará que el poseedor se ha convertido en propietario, en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita física y electrónicamente en el Registro Público.
 
 ART. 2937.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el juez competente, ante quien la acredita del modo que fije el Código de Procedimientos Civiles.
 
@@ -10407,7 +10751,9 @@ ART. 2941.- El que tenga títulos fehacientes que abarquen cuando menos un perí
 
 I.- Que acompañe a su promoción, además de la titulación:
 
-a).- Certificado del Registro Público que acredite que el bien de que se trata no está inscrito;
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+a).- Certificado del Registro Público, firmado en forma autógrafa o con la firma electrónica certificada, que acredite que el bien de que se trata no está inscrito;
 
 b).- Las boletas que comprenden que el predio está al corriente en el pago del impuesto predial;
 
@@ -10427,9 +10773,11 @@ Si hubiere oposición se suspenderá el procedimiento; ésta se substanciará co
 
 Del sistema registral
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2942.- El Reglamento establecerá el sistema conforme al cual deban llevarse los folios del Registro Público y practicarse los asientos.
+ART. 2942.- El reglamento establecerá el sistema tanto físico como electrónico conforme al cual deban llevarse los folios del Registro Público y practicarse los asientos.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
 
 La primera inscripción de cada finca será de dominio o de posesión.
 
@@ -10459,7 +10807,9 @@ VI.- La naturaleza del hecho o negocio jurídico;
 
 VII.- La fecha del título, número si lo tuviere y el funcionario que lo haya autorizado.
 
-ART. 2945.- Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior en cuanto resulten de los documentos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2945.- Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior en cuanto resulten de los documentos físicos o electrónicos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
 
 Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquéllos y el importe de la obligación que los hubiere originado.
 
@@ -10477,13 +10827,19 @@ IV.- La expresión de quedar cancelado total o parcialmente el asiento de que se
 
 V.- Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca del derecho y la que subsista.
 
-ART. 2947.- Las notas marginales deberán contener las indicaciones necesarias para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho de que se trate de acreditar, y el documento en cuya virtud se entiendan.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2947.- Las notas marginales deberán contener las indicaciones necesarias para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho de que se trate de acreditar, y el documento físico o electrónico en cuya virtud se entiendan.
 
 ART. 2948.- Los requisitos que según los artículos anteriores deban contener los asientos, podrán omitirse cuando ya consten en otros del registro de la finca, haciéndose sólo referencia al asiento que los contenga.
 
-ART. 2949.- Todos los asientos, de la clase que fueren, deberán ir firmados por el registrador y expresar la fecha en que se practiquen, así como el día y la hora del asiento de presentación.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2950.- Los asientos del Registro no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el título con la certificación de haber sido registrado
+ART. 2949.- Todos los asientos físicos o electrónicos, de la clase que fueren, deberán ir firmados en forma autógrafa o con la firma electrónica certificada por el registrador y expresar la fecha en que se practiquen, así como el día y la hora del asiento de presentación.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+ART. 2950.- Los asientos físicos o electrónicos del Registro no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el título con la certificación de haber sido registrado.
 
 Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando sustancialmente se hubieren alterado dichos asientos, así como en el caso en que hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de los establecidos respecto a la rectificación de errores.
 
@@ -10493,37 +10849,57 @@ ART. 2951.- La nulidad de los asientos de que se trata en el artículo anterior 
 
 ### CAPITULO IV. Del registro de operaciones sobre bienes muebles
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2952.- Se inscribirán en los folios de operaciones sobre bienes muebles:
+ART. 2952.- Se inscribirán en los folios físicos o electrónicos de operaciones sobre bienes muebles:
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
 
 I.- Los contratos de compra-venta de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2,201;
 
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
+
 II.- Los contratos de compra-venta de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2,203;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
 
 III.- Los contratos de prenda que menciona el artículo 2748.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2953.- Toda inscripción que se haga en los folios de bienes muebles deberá expresar los datos siguientes:
+ART. 2953.- Toda inscripción que se haga en los folios físicos y electrónicos de bienes muebles deberá expresar los datos siguientes:
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
 
 I.- Los nombres de los contratantes;
 
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
+
 II.- La naturaleza del mueble con la característica o señales que sirvan para identificarlo de manera indubitable;
 
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
+
 III.- El precio y forma de pago estipulados en el contrato, y, en su caso, el importe del crédito garantizado con la prenda;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
 
 IV.- La fecha en que se practique y la firma del registrador.
 
 ### CAPITULO V. Del registro de personas morales
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-ART. 2954.- En los folios de las personas morales se inscribirán:
+ART. 2954.- En los folios físicos y electrónicos de las personas morales se inscribirán:
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
 
 I.- Los instrumentos por lo que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
 
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
+
 II.- Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el registrador que existe la autorización a que se refiere el artículo 2737 del Código Civil para el Distrito y Territorio Federal;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1980)</small>
 
 III.- Las fundaciones y asociaciones de beneficencia privada.
 
@@ -10752,3 +11128,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones contenidas en el Capítulo V, del Titulo Sexto del Libro Primero, del Código Civil para el Estado de Colima, referente a la Adopción, el que se integra con Cuatro Secciones, la primera referente a las Disposiciones Generales; la segunda a la Adopción Simple, la Tercera a la Adopción Plena y la Cuarta a la Adopción Internacional, actualmente el Capítulo se integra con 27 artículos.
 
 TERCERO.- Los procedimientos de adopción que se encuentran en trámite a la entrada en vigor de esta reforma, se seguirán substanciando hasta la finalización conforme a lo dispuesto por el Capítulo V, del Titulo Sexto del Libro Primero, del Código Civil para el Estado de Colima, salvo que atendiendo al interés superior del sujeto de adopción, deban tomarse en consideración, para su protección, las nuevas reglas.
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
