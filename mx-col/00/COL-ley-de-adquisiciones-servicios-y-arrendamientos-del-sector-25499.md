@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-servicios-y-arrendamientos-del-sector-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2005-04-30"
+last_updated: "2010-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PUBLICO EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 15 de junio del 2002.
 
@@ -163,9 +163,11 @@ En materia de adquisiciones, servicios y arrendamientos, los titulares de las de
 
 En los casos de adquisiciones, servicios o arrendamientos financiados con créditos o con el aval del Gobierno, los procedimientos, requisitos y demás disposiciones para su contratación serán establecidos por la Contraloría aplicando, en lo procedente, lo dispuesto por esta Ley, lo que deberá precisarse en las convocatorias, invitaciones, bases y contratos correspondientes.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 11.
 
-En la adjudicación de las adquisiciones, servicios y arrendamientos se preferirá, en igualdad de circunstancias, a las personas físicas o morales que cuenten con el Certificado de Empresa Colimense, en los términos de la Ley de Fomento Económico para el Estado. Al efecto, las bases de la licitación podrán establecer porcentajes diferenciales de precio a favor de las mismas, los cuales nunca podrán ser superiores al cinco por ciento.
+En la adjudicación de las adquisiciones, servicios y arrendamientos se preferirá, en igualdad de circunstancias, a las personas físicas o morales que cuenten con el Certificado de Empresa Colimense, en los términos de la Ley de Fomento Económico para el Estado. Al efecto, las bases de la licitación podrán establecer porcentajes diferenciales de precio a favor de las mismas, los cuales nunca podrán ser superiores al siete por ciento. La aplicación del derecho de preferencia, estará condicionado a que no se exceda de la disponibilidad prespuestal correspondiente.
 
 ###### ARTICULO 12.
 
@@ -954,3 +956,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIC. FERNANDO MORENO PEÑA, Rúbrica. EL
 P.O. 30 DE ABRIL DE 2005.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
