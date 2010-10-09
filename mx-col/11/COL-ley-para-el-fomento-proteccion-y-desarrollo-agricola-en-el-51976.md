@@ -4,7 +4,7 @@ identifier: "COL-ley-para-el-fomento-proteccion-y-desarrollo-agricola-en-el-5197
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2007-05-12"
+last_updated: "2010-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA EL FOMENTO, PROTECCION Y DESARROLLO AGRICOLA EN EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -132,6 +132,10 @@ V. El mejoramiento del bienestar social y económico de los habitantes de las á
 ###### ARTÍCULO 5.
 
 El Gobierno Federal a través de la SAGARPA, establecerá campañas en materia de sanidad vegetal, a efecto de prevenir, combatir y erradicar las plagas y enfermedades de interés cuarentenario en los cultivos y plantaciones agrícolas y ornamentales, los cuales se regirán por la Ley Federal de Sanidad Vegetal, la Ley Federal sobre Metrología y Normalización, así como por las Normas Oficiales Mexicanas en la materia.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+El Gobierno del Estado definirá e instrumentará, las políticas, programas y acciones para el desarrollo sustentable, enmarcándolas en las que en el mismo sentido y sobre la materia se propongan realizar el Gobierno Federal para el Estado, las regiones y los municipios de Colima, y se coordinará a su vez con los gobiernos municipales para contemplar lo relativo a atender sus prioridades.
 
 ###### ARTÍCULO 6.
 
@@ -297,9 +301,41 @@ XX. Promover la planeación efectiva de la producción agrícola que regule la o
 
 XXI. Promover la agricultura por contrato;
 
-XXII. Promover ante la SAGARPA la expedición de las Normas Oficiales Mexicanas sobre los principales productos agrícolas del Estado; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-XXIII. Las demás de la materia que se deriven de las leyes vigentes o que le sean asignadas por el Ejecutivo del Estado.
+XXII. Promover ante la SAGARPA la expedición de las Normas Oficiales Mexicanas sobre los principales productos agrícolas del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XXIII. Crear proyectos rurales, estableciendo las condiciones de participación equitativa de la población indígena mas desfavorecida en la distribución de los beneficios del crecimiento y desarrollo de las actividades rurales;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XXIV. Estimular la participación equitativa de las mujeres en el desarrollo de planes, programas y proyectos de formato agrícola, pecuario, pesquero y forestal, propiciando la concertación necesaria para lograr el bienestar y su efectiva vinculación al desarrollo del sector rural;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XXV. Asesorar a los pequeños productores campesinos en los procesos de declaración de pertenencia por prescripción adquisitiva de dominio;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XXVI. Fortalecer las iniciativas y propuestas de los pueblos y comunidades indígenas, comunidades y demás minorías étnicas, encaminadas a recuperar, restaurar, reestablecer (sic) y conservar los sistemas propios de adecuación de la tierra;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XXVII. El fomento a los sistemas familiares de producción;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XXVIII. EI impulso a la industria, agroindustria y demás actividades rurales no agropecuarias y la integración de cadenas productivas, así como el desarrollo de la infraestructura industrial en el medio rural;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XXIX. La conservación y mejoramiento de los suelos y demás recursos naturales; y
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XXX. Las demás de la materia que se derivan de las leyes vigentes o que le sean asignadas por el Ejecutivo del Estado.
 
 ### CAPÍTULO IV. DEL CONSEJO
 
@@ -343,9 +379,21 @@ VII. Opinar sobre la creación de Centros de Agroindustrias de los productos agr
 
 VIII. Apoyar a la Secretaría en sus programas de fomento, así como en el cumplimiento de sus atribuciones;
 
-IX. Opinar sobre las estrategias para impulsar la organización de los agricultores, y estimular la creación o establecimiento de las figuras de organización o asociación de agricultores locales conforme a las disposiciones de esta Ley; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-X. Proponer la implementación de sistemas de planeación productiva para el desarrollo integral de la agricultura. Procurando que los productores se integren en sistema producto como base de las organizaciones o asociaciones por ramos de producción.
+IX. Opinar sobre las estrategias para impulsar la organización de los agricultores, y estimular la creación o establecimiento de las figuras de organización o asociación de agricultores locales conforme a las disposiciones de esta Ley;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+X. Proponer la implementación de sistemas de planeación productiva para el desarrollo integral de la agricultura. Procurando que los productores se integren en sistema de producto como base de las organizaciones o asociaciones por ramos de producción;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XI. Asistencia técnica y organización económica y social de los agentes de la sociedad rural; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XII. Todas las demás que deriven del cumplimiento de esta Ley.
 
 ### CAPÍTULO V. DE LA ORGANIZACIÓN Y ASOCIACIÓN GREMIAL DE AGRICULTORES
 
@@ -590,3 +638,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. 
 P.O. 12 DE MAYO DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
