@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2009-02-21"
+last_updated: "2010-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -277,7 +277,9 @@ VIII.- Será juzgado antes de cuatro meses si se trata de delitos cuya pena máx
 
 Son derechos del defensor:
 
-I.- Consultar el expediente y obtener las copias y certificaciones que solicite sobre documentos que obren en el mismo. Durante la averiguación previa, sólo podrá expedirse al defensor copia de las declaraciones rendidas por su defendido;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+I.- Consultar el expediente y obtener las copias y certificaciones que solicite sobre documentos físicos o electrónicos que obren en el mismo. Durante la averiguación previa, solo podrá expedirse al defensor copia de las declaraciones rendidas por su defendido;
 
 II.- Comunicarse directa y personalmente en privado con el imputado, cuando lo estime conveniente;
 
@@ -373,7 +375,7 @@ El Ministerio Público deberá notificar personalmente a la víctima u ofendido,
 
 ###### ARTICULO 35.
 
-La victima o el ofendido por el delito podrán coadyuvar con el Ministerio Público proporcionando al juzgador, por conducto de aquél o directamente, todos los elementos que tenga relacionados con el delito y la responsabilidad del imputado. Para este efecto, podrá designar representante legal, tendrá acceso a los datos que consten en la causa, y se le permitirá participar en las audiencias, por conducto del Ministerio Público o directamente, siempre que lo solicite.
+La víctima o el ofendido por el delito podrán coadyuvar con el Ministerio Público proporcionando al juzgador, por conducto de aquél o directamente, todos los elementos que tenga relacionados con el delito y la responsabilidad del imputado. Para este efecto, podrá designar representante legal, tendrá acceso a los datos que consten en la causa, y se le permitirá participar en las audiencias, por conducto del Ministerio Público o directamente, siempre que lo solicite.
 
 Podrán también ofrecer los medios de prueba necesarios para acreditar la existencia y el monto de la reparación del daño ocasionado por la comisión del delito, solicitar se decrete embargo precautorio de los bienes en que pueda hacerse efectiva dicha reparación así como las medidas y las providencias de protección, aseguramiento y restitución de sus derechos.
 
@@ -417,6 +419,34 @@ Las actuaciones deberán practicarse y escribirse usando exclusivamente el idiom
 
 Cuando el imputado, el ofendido o los testigos no comprendan o no hablen dicho idioma, se estará a lo dispuesto por los artículos 54 y 55 de este Código.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 40 Bis.
+
+Para utilizar la firma electrónica certificada en la Averiguación Previa y durante un Proceso Penal, las actuaciones, diligencias y medios de prueba en que se haga uso de la misma, además de lo contenido en este Código, se deberá observar lo dispuesto en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su Reglamento, con la finalidad de proteger las garantías Constitucionales de los inculpados y procesados.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 40 Bis 1.
+
+Para las actuaciones o diligencias en que se exija la forma escrita, este supuesto se tendrá por cumplido, tratándose de documentos electrónicos y mensajes de datos, cuando la información contenidas en estos se mantenga integra y sea accesible para su ulterior consulta o compulsa, sin importar el formato en el que se encuentre o represente o la forma impresa en que se ofrezca.
+
+En los casos en que se exija la firma autógrafa de las partes, dicho requisito se tendrá por cumplido, tratándose de documentos existentes en archivos electrónicos y que se materialicen en forma de documento físico, siempre que en estos se utilice la firma electrónica certificada, atribuible a las partes y sea expedida por una entidad autorizada para ello.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 40 Bis 2.
+
+Las comunicaciones judiciales establecidas en este Código que se hagan mediante documento electrónico, tienen plena validez, eficacia jurídica y obligatoriedad, cuando el mismo contenga la firma electrónica certificada, de conformidad con lo señalado en la Ley sobre el uso de Medios Electrónicos y Firma Electrónica Certificada para el Estado de Colima, y con su reglamento.
+
+Los documentos electrónicos y la firma electrónica certificada, tendrán eficacia jurídica si están de conformidad con lo señalado en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima y su Reglamento respectivo, pero su valoración por el juzgador se hará conforme a las reglas establecidas en el capítulo IX, del Título V del Libro Primero de este Código.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 40 Bis 3.
+
+Cuando la ley exija una formalidad que no sea susceptible de cumplirse mediante documento electrónico, requiera la comparecencia personal, o exija la firma autógrafa, se estará a lo señalado en la disposición correspondiente.
+
 ###### ARTICULO 41.
 
 El juzgador y el Ministerio Público estarán acompañados, en todas las diligencias que practiquen, de sus secretarios, si los tienen, o de dos testigos de asistencia, que darán fe de todo lo que en aquellas pase. Las diligencias que se practiquen en contra de lo antes dispuesto, son nulas.
@@ -443,9 +473,17 @@ En los espacios no utilizados, cuando sean inevitables, se anotará la expresió
 
 Las actuaciones del Ministerio Público y del Juzgador deberán escribirse con letra clara, por duplicado, ser autorizadas con las firmas correspondientes y conservarse en sus respectivos archivos. En todo caso, el Juzgador de primera instancia expedirá y entregará al Ministerio público copia certificada de las resoluciones que determinen la situación jurídica del imputado; de los autos que den entrada y resuelvan algún incidente; de las sentencias que pronuncie, así como de las que dicte el Tribunal de apelación resolviendo definitivamente algún recurso.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Cuando se trate de actuaciones autorizadas con la firma electrónica certificada, se llevarán a cabo las mismas formalidades establecidas en el párrafo anterior, con excepción del sello y rubrica, porque estas se sustituirán por la propia firma.
+
 ###### ARTICULO 45.
 
 Concluidas las actuaciones del día o agregados los documentos recibidos, la autoridad competente foliará y rubricará las hojas respectivas y pondrá el sello del Juzgado o del Ministerio Público en el fondo del expediente, de manera que abrace las dos caras, una vez que se haya realizado la costura o encuadernación que asegure que no se desprenderán las actuaciones.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+En las actuaciones autorizadas con la firma electrónica certificada, se incluirá en sus algoritmos el contenido del sello, y cuando sea posible, en los formatos predeterminados aparecerá visible, y al imprimirse se estampará en el documento.
 
 ###### ARTICULO 46.
 
@@ -479,11 +517,17 @@ Los secretarios del juzgado o del Ministerio público en su caso, cotejarán las
 
 En caso de pérdida o extravío de alguno de los ejemplares del expediente, el órgano jurisdiccional, dentro de un plazo de veinticuatro horas, que se contarán a partir del momento en que el secretario le informe, dispondrá, de oficio o a petición de parte, que el secretario certifique la preexistencia y falta posterior del expediente, procediéndose de inmediato a la reposición mediante copia autorizada del otro tanto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 52.
 
-En caso de pérdida del expediente original y del duplicado hecha la certificación por el secretario, se repondrá con las copias de los escritos que los interesados presenten, si estas están selladas y tienen razón de haber sido presentadas al juzgador; con los autos que obren en las listas de notificación y las copias certificadas que existan de las actuaciones.
+En caso de pérdida del expediente original y del duplicado hecha la certificación por el secretario, se repondrá con las copias de los escritos que los interesados presenten, si estas están selladas y tienen razón de haber sido presentadas al juzgador; con los autos que obren en las listas de notificación y las copias certificadas que existan de las actuaciones; la reposición se hará en los mismos términos con los documentos autorizados con la firma electrónica certificada.
 
 Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o se mencionen en el auto de incoación, en el de procesamiento, o en cualquier otra resolución que conste fehacientemente, siempre que no se haya objetado oportunamente la exactitud de la inserción o cita que de ella se haga.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Los documentos electrónicos podrán reponerse de los archivos de la base de datos o de los que se encuentren almacenados en otros dispositivos electrónicos, siempre que cumplan con los requisitos mencionados en la parte final del primer párrafo.
 
 ###### ARTICULO 53.
 
@@ -491,7 +535,7 @@ Si se pierde algún expediente, se repondrá a costa del responsable, quien esta
 
 ###### ARTICULO 54.
 
-Cuando alguna de las personas que participen en la diligencia presenten sordera o mudez, se le nombrará como interprete a una persona que pueda comprenderlo, de preferencia mayor de edad. Si aquéllos saben leer y escribir, se les interrogará por escrito.
+Cuando alguna de las personas que participen en la diligencia presenten sordera o mudez, se le nombrará como intérprete a una persona que pueda comprenderlo, de preferencia mayor de edad. Si aquéllos saben leer y escribir, se les interrogará por escrito.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -507,9 +551,11 @@ Cuando se solicite, podrá escribirse la declaración en el idioma del declarant
 
 Las partes o los que intervengan en la diligencia no podrán ser traductores. El incumplimiento de estas formalidades harán nulas las diligencias respectivas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 56.
 
-Cuando haya cambio de Juzgador o de secretario no se proveerá auto alguno que haga saber el cambio, pero en el primero que se dicte se insertará el nombre completo del nuevo funcionario. Tratándose del Supremo Tribunal de Justicia, se incluirán en los autos, los nombres y apellidos de los funcionarios que los firmen.
+Cuando haya cambio de Juzgador o de secretario no se proveerá auto alguno que haga saber el cambio, pero en el primero que se dicte se insertará el nombre completo del nuevo funcionario. Tratándose del Supremo Tribunal de Justicia, se incluirán en los autos, los nombres y apellidos de los funcionarios que los autorizarán con su firma autógrafa o electrónica certificada.
 
 Cuando la única resolución sea la sentencia, se dictará auto previo haciendo conocer a las partes el nombre del nuevo funcionario y concediéndoles cinco días para que manifiesten si tienen causa para recusarlo. Este auto se notificará personalmente al procesado y a su defensor.
 
@@ -535,9 +581,11 @@ Los términos se fijarán expresando la fecha y la hora y se notificarán, cuand
 
 Las resoluciones judiciales, son: SENTENCIAS, si terminan la instancia resolviendo en lo principal, y AUTOS, en cualquier otro caso.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 61.
 
-Toda resolución deberá consignarse por escrito; expresará el lugar y fecha en que se dicte; se redactará en forma clara, precisa y congruente con la promoción o actuación procesal que la origine.
+Toda resolución deberá consignarse en archivo físico y, en su caso, electrónico; expresará el lugar y fecha en que se dicte; se redactará en forma clara, precisa y congruente con la promoción o actuación procesal que la origine.
 
 ###### ARTICULO 62.
 
@@ -569,9 +617,11 @@ Lo dispuesto en la fracción VI, y en el párrafo anterior, es aplicable tambié
 
 Los autos deberán dictarse dentro de los tres días siguientes al de la promoción, salvo lo que la ley disponga para casos especiales; y las sentencias dentro de los plazos previstos en el artículo 330 de este Código, contados desde el día siguiente al de la celebración de la audiencia de vista.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 65.
 
-Las resoluciones judiciales se dictarán por el Juzgador respectivo, y serán firmadas por él y por el secretario que corresponda, o, a falta de éste, por testigos de asistencia.
+Las resoluciones judiciales se dictarán por el Juzgador respectivo, y serán firmadas por él con su firma autógrafa o electrónica certificada, y por el secretario que corresponda, en los mismos términos o, a falta de éste, por testigos de asistencia.
 
 ###### ARTICULO 66.
 
@@ -677,6 +727,10 @@ V.- El medio de apremio que se empleará si no comparece; y
 
 VI.- La firma del Juzgador o Ministerio Público que ordena la citación y el sello de la dependencia.
 
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Cuando la cedula se autorice con la firma electrónica certificada, se llevarán a cabo las mismas formalidades establecidas en este artículo, con excepción del sello.
+
 ###### ARTICULO 82.
 
 Cuando se realice la citación por cédula, será entregada por el secretario actuario, agente de autoridad o en su caso, por los auxiliares del Ministerio Público, personalmente al citado, quien deberá firmar el duplicado de la misma, o bien estampar en ésta su huella digital cuando no sepa firmar; si se negara a hacerlo se asentará este hecho y el motivo que el citado exprese para su negativa.
@@ -706,6 +760,10 @@ Al dirigirse el Juzgador a funcionarios o autoridades no judiciales, lo hará po
 ###### ARTICULO 85.
 
 Los exhortos contendrán las inserciones necesarias, según la naturaleza de las diligencias que hayan de practicarse, la fundamentación de estas, el sello del tribunal y las firmas del Juzgador y el secretario respectivo o en ausencia de éste las de testigos de asistencia, el o los que foliarán, rubricarán y entresellarán las fojas de que conste. En esta especie de comunicación judicial se empleará siempre la exhortación a la autoridad requerida para el auxilio respectivo y el ofrecimiento de reciprocidad para casos análogos.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Cuando el exhorto se autorice con la firma electrónica certificada, se cumplirán con formalidades establecidas en el párrafo anterior, con excepción del sello.
 
 ###### ARTICULO 86.
 
@@ -748,6 +806,10 @@ Cuando se trate de someter a las autoridades estatales, a imputados o sentenciad
 ###### ARTICULO 94.
 
 Los exhortos a los tribunales extranjeros serán enviados al H. Supremo Tribunal de Justicia del Estado, para el efecto de la certificación de los cargos de quienes los suscriben, y legalizados por el Ejecutivo Estatal, remitiéndose por conducto de la Secretaría de Relaciones Exteriores. Los que provengan de tribunales extranjeros, deberán ser remitidos por conducto de la Secretaría de Relaciones Exteriores.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Cuando el exhorto se autorice y legalice con la firma electrónica certificada de los funcionarios que intervengan en el acto, se llevarán a efecto las mismas formalidades establecidas en el párrafo anterior, con excepción del sello.
 
 #### SECCION TERCERA. EXHORTOS Y OFICIOS
 
@@ -885,9 +947,11 @@ En los casos a que se refiere el párrafo anterior, únicamente el Ministerio P�
 
 Al recibir el Ministerio Público a cualquier detenido, revisará que el hecho que motivó la detención, efectivamente pueda ser constitutivo de delito, que éste sea sancionable con pena privativa de libertad y perseguible de oficio o, si necesita de querella u otro requisito de procedibilidad, éste se encuentre o quede inmediatamente satisfecho, así como que la detención se haya ajustado a lo dispuesto en el artículo anterior. Si la detención resulta justificada, el Ministerio Público la ratificará e iniciará o continuará la preparación de la acción procesal penal; en caso contrario, ordenará que el detenido quede en libertad sin perjuicio, en su caso, de iniciar o continuar la averiguación previa correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 114.
 
-Solamente en casos urgentes, cuando se trate de delito grave, así considerado en el artículo 10 del Código Penal o en Ley especial, y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su más estricta responsabilidad, ordenar por escrito su detención, fundando y expresando los indicios que motiven su proceder.
+Solamente en casos urgentes, cuando se trate de delito grave, así considerado en el artículo lo del Código Penal o en Ley especial, y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su más estricta responsabilidad, ordenar mediante escrito firmado en forma autógrafa o con la firma electrónica certificada, su detención, fundando y expresando los indicios que motiven su proceder.
 
 Dicha orden deberá transcribirse, para su ejecución, a la Policía de Procuración de Justicia, la cual, una vez cumplimentada, sin dilación alguna pondrá al detenido a disposición del agente del Ministerio Público que haya emitido la orden.
 
@@ -907,15 +971,17 @@ El Ministerio Público evitará que el presunto responsable sea incomunicado. En
 
 El Ministerio Público solicitará y el juez librará orden de aprehensión contra el imputado, cuando estén reunidos los requisitos que señala el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Toda orden de aprehensión dictada se transcribirá inmediatamente al Ministerio Público para su ejecución por la Policía de Procuración de Justicia.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Toda orden de aprehensión dictada se transcribirá inmediatamente al Ministerio Público firmada en forma autógrafa o con la firma electrónica certificada o, en su caso, se comunicará transcrita en forma íntegra mediante documento electrónico, para su ejecución por la Policía Ministerial.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 118.
 
-Siempre que se realice una aprehensión en cumplimiento de orden judicial, salvo lo que se previene en el artículo siguiente, cuando el imputado voluntariamente se ponga a disposición del Ministerio Público o del Juez, se deberá poner sin dilación alguna al aprehendido a disposición del Organo Jurisdiccional respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó.
+Siempre que se realice una aprehensión en cumplimiento de orden judicial, salvo lo que se previene en el artículo siguiente, cuando el imputado voluntariamente se ponga a disposición del Ministerio Público o del Juez, se deberá poner sin dilación alguna al aprehendido a disposición del Órgano Jurisdiccional respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó.
 
-Entratándose de delitos que permitan libertad provisional bajo caución, el juez asentará esta circunstancia al transcribirse la orden respectiva. Se ejecutarán las órdenes de aprehensión, en forma que permita que el trámite del benéfico sea posible realizarlo sin tardanza y sin motivar que se prolongue la privación de la libertad.
+Entratándose (sic) de delitos que permitan libertad provisional bajo caución, el juez asentará esta circunstancia al transcribirse la orden respectiva. Se ejecutarán las órdenes de aprehensión, en forma que permita que el trámite del benéfico sea posible realizarlo sin tardanza y sin motivar que se prolongue la privación de la libertad.
 
 Se entenderá que el imputado queda a disposición del juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que sea puesto a su disposición en la prisión preventiva o en un centro hospitalario, si el imputado amerita atención médica urgente. El encargado del reclusorio o del centro hospitalario asentará en el documento que ordene la internación, el día y hora del recibo de detenido.
 
@@ -1161,7 +1227,7 @@ V.- En los casos del artículo siguiente, cuando sea reaprehendido el imputado, 
 
 ###### ARTICULO 152.
 
-Cuando un tercero haya garantizado la libertad provisional del imputado, las ordenes para que comparezca éste, se entenderán además con aquél. Si no puede desde luego presentarlo, el Juzgador podrá otorgarle un plazo hasta de treinta días para que lo haga, sin perjuicio de revocar la libertad y librar orden de reaprehensión si lo estima procedente en los términos del artículo 148. Si concluido el plazo concedido no se obtiene la comparecencia del imputado, se hará efectiva la garantía en los términos del artículo 150.
+Cuando un tercero haya garantizado la libertad provisional del imputado, las órdenes para que comparezca éste, se entenderán además con aquél. Si no puede desde luego presentarlo, el Juzgador podrá otorgarle un plazo hasta de treinta días para que lo haga, sin perjuicio de revocar la libertad y librar orden de reaprehensión si lo estima procedente en los términos del artículo 148. Si concluido el plazo concedido no se obtiene la comparecencia del imputado, se hará efectiva la garantía en los términos del artículo 150.
 
 ###### ARTICULO 153.
 
@@ -1209,7 +1275,7 @@ La medida se dejará sin efectos si durante el lapso mencionado se paga o garant
 
 ###### ARTICULO 158.
 
-Una vez que se acredite el cuerpo del delito, el Ministerio Público durante el periodo de preparación de la acción procesal penal o el juzgador en el proceso, de oficio o a petición de parte, dictarán las medidas y providencias necesarias para proteger la vida, la integridad física y moral, los bienes posesiones o derechos de las victimas y ofendidos, incluyendo los familiares directos y de los testigos que declaren en su favor, contra todo acto de intimidación o represalia, o bien cuando existan datos suficientes que demuestran que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados. También dictarán las providencias que se requieran para restituir a las victimas u ofendidos en el goce de sus derechos, siempre que estén justificados legalmente.
+Una vez que se acredite el cuerpo del delito, el Ministerio Público durante el periodo de preparación de la acción procesal penal o el juzgador en el proceso, de oficio o a petición de parte, dictarán las medidas y providencias necesarias para proteger la vida, la integridad física y moral, los bienes posesiones o derechos de las víctimas y ofendidos, incluyendo los familiares directos y de los testigos que declaren en su favor, contra todo acto de intimidación o represalia, o bien cuando existan datos suficientes que demuestran que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados. También dictarán las providencias que se requieran para restituir a las victimas u ofendidos en el goce de sus derechos, siempre que estén justificados legalmente.
 
 El Ministerio público, durante la averiguación previa y cuando se trate de bienes inmuebles sólo podrá asegurarlos por el tiempo indicado en el párrafo primero y en la forma prevista en el párrafo segundo del artículo 157.
 
@@ -1267,11 +1333,17 @@ Son admisibles como medios de prueba todos aquéllos elementos que puedan produc
 
 Durante el procedimiento ante el Organo Jurisdiccional, los medios de prueba siempre deben ser recibidos por el Juzgador con citación a las partes.
 
-> <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 165.
 
-Toda persona en cuyo poder se hallen cosas o documentos que puedan servir de prueba, tiene la obligación de exhibirlos, cuando para ello sea requerida en forma por el Ministerio Público, durante las diligencias de preparación de la acción procesal penal, o por el Juzgador con motivo del procedimiento que se siga ante él, con las salvedades que establezcan las leyes.
+Toda persona en cuyo poder se hallen cosas o documentos firmados en forma autógrafa o con la firma electrónica, así como archivos electrónicos, que puedan servir de prueba, tiene la obligación de exhibirlos, cuando para ello sea requerida en forma por el Ministerio Público, durante las diligencias de preparación de la acción procesal penal, o por el Juzgador con motivo del procedimiento que se siga ante él, con las salvedades que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 165 Bis.
+
+Los documentos electrónicos, públicos o privados, serán admisibles como medios de prueba y su autenticidad, así como los datos en ellos contenidos, serán valorados conforme a las reglas establecidas por este Código.
 
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
 
@@ -1323,11 +1395,11 @@ Cuando resulte pertinente, se ordenará previamente la preparación de la materi
 
 Sin perjuicio de las diligencias de inspección que durante la preparación de la acción procesal penal, requiera la intervención inmediata del Ministerio Público éste observará en lo conducente lo dispuesto en los párrafos que anteceden, cuando haya presunto responsable a su disposición.
 
-> <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 171.
 
-En todo caso la diligencia se asentará por escrito haciéndose constar lo que no haya sido posible efectuar por los medios anteriores, procurándose fijar con claridad los caracteres, señales o vestigios que el delito haya dejado, el instrumento o medio que probablemente se haya empleado y la forma en que se usó.
+En todo caso la diligencia se asentará por escrito en documento físico y electrónico haciéndose constar lo que no haya sido posible efectuar por los medios anteriores, procurándose fijar con claridad los caracteres, señales o vestigios que el delito haya dejado, el instrumento o medio que probablemente se haya empleado y la forma en que se uso.
 
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
 
@@ -1461,11 +1533,11 @@ Cuando la víctima del delito sexual sea del sexo femenino y ella o su represent
 
 Cuando la autoridad que ordene la prueba pericial lo juzgue conveniente, asistirá a las actividades que desarrollen los peritos tendientes a emitir su dictamen.
 
-> <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 191.
 
-Los peritos practicarán todas las operaciones y experimentos que su ciencia, técnica o arte les sugieran; emitirán por escrito su dictamen y lo ratificarán en diligencia especial.
+Los peritos practicarán todas las operaciones y experimentos que su ciencia, técnica o arte les sugieran; emitirán en documento físico o electrónico autorizado con su firma autógrafa o electrónica certificada su dictamen y lo ratificarán en diligencia especial.
 
 Los peritos oficiales sólo ratificarán su dictamen cuando la autoridad que practique la diligencia lo estime necesario.
 
@@ -1495,13 +1567,29 @@ Si para una determinación improrrogable dentro del procedimiento, es necesario 
 
 Cuando el peritaje recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se verifique el primer análisis, sino, cuando más, sobre la mitad de la sustancia, a no ser que su cantidad sea tan escasa, que los peritos no puedan emitir su opinión sin consumirla por completo, lo cual se hará constar en el acta respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 196.
 
-Cuando se niegue o ponga en duda la autenticidad de un documento, podrá pedirse y decretarse el cotejo de letras y firmas, que se practicará conforme a las siguientes reglas:
+Cuando se niegue o ponga en duda la autenticidad de un documento firmado en forma autógrafa o con la firma electrónica, podrá pedirse y decretarse el cotejo de letras y firmas, que se practicará conforme a las siguientes reglas:
 
 I.- Cuando la naturaleza del caso lo permita, los peritos llevarán a cabo el cotejo ante la autoridad que lo haya ordenado, emitiendo en esos momentos su dictamen, el que se hará constar en el acta respectiva;
 
-II.- El cotejo se hará con documentos indubitables o con los que las partes de común acuerdo reconozcan como tales; con aquellos cuya letra o firma haya sido reconocida judicialmente o con el escrito cuya letra reconozca como suya aquel a quien perjudique.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+II.- El cotejo se hará con documentos indubitables o con los que las partes de común acuerdo reconozcan como tales; con aquellos cuya letra o firma haya sido reconocida judicialmente o con el escrito cuya letra reconozca como suya aquel a quien perjudique;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+III.- El cotejo de la impresión obtenida de de (sic) los documentos que contengan la firma electrónica, o de datos que se hayan exhibido en medios magnético o electrónico, se realizara en la página de internet de la dependencia que lo emitió;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+IV.- El cotejo de la impresión de datos obtenidos de documentos electrónicos, se hará directamente de los medios magnéticos o electrónicos en que obren dichos documentos; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+V.- El cotejo de los datos contenidos en documentos electrónicos que se hayan exhibido en medio magnético o electrónico, se hará directamente de los archivos electrónicos de donde fueron obtenidos, siempre que esto sea posible.
 
 El juzgador podrá ordenar que se repita el cotejo por otros peritos.
 
@@ -1551,9 +1639,11 @@ Si las personas mencionadas tienen voluntad de declarar, se hará constar esta c
 
 Si el testigo que se halle dentro del territorio estatal, tiene imposibilidad física para presentarse ante la autoridad que practica las diligencias, ésta deberá trasladarse al lugar donde se encuentre el testigo para tomarle su declaración.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 202.
 
-Cuando haya que examinar a Servidores Públicos de la Federación y del Estado y Presidentes Municipales, que en razón de la importancia de su encargo, su comparecencia pueda afectar el buen desempeño de la función, a juicio del agente del Ministerio Público o juez que practique las diligencias, éste se trasladará al domicilio u oficina de dichas personas para tomarles su declaración o, si lo estima conveniente, solicitará de aquellos que la rindan por escrito, sin perjuicio de su voluntaria comparecencia ante las autoridades antes mencionadas.
+Cuando haya que examinar a Servidores Públicos de la Federación y del Estado y Presidentes Municipales, que en razón de la importancia de su encargo, su comparecencia pueda afectar el buen desempeño de la función, a juicio del agente del Ministerio Público o juez que practique las diligencias, este se trasladará al domicilio u oficina de dichas personas para tomarles su declaración o, si lo estima conveniente, solicitará de aquellos que la rindan por medios físicos o electrónicos mediante documento firmado en forma autógrafa o con la firma electrónica certificada, sin perjuicio de su voluntaria comparecencia ante las autoridades antes mencionadas.
 
 ###### ARTICULO 203.
 
@@ -1673,7 +1763,7 @@ Si los que deban ser careados radican fuera del Estado, pero en el mismo lugar, 
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2007)</small>
 
-ARTICULO 223 BIS. Cuando se trate de delito grave en el que haya ocurrido violencia física, delitos de naturaleza sexual, aquellos en los cuales un menor aparezca como víctima o testigo, a petición de la víctima, del testigo o del representante legal del menor o del Ministerio Público, el careo se llevará acabo en recintos separados, con la ayuda de cualquier medio electrónico audiovisual, de tal manera que el procesado pueda cuestionar a la víctima o los testigos durante la audiencia sin confrontarlos físicamente.
+ARTICULO 223 BIS. Cuando se trate de delito grave en el que haya ocurrido violencia física, delitos de naturaleza sexual, aquellos en los cuales un menor aparezca como víctima o testigo, a petición de la víctima, del testigo o del representante legal del menor o del Ministerio Público, el careo se llevará acabo (sic) en recintos separados, con la ayuda de cualquier medio electrónico audiovisual, de tal manera que el procesado pueda cuestionar a la víctima o los testigos durante la audiencia sin confrontarlos físicamente.
 
 ### CAPITULO VIII. DOCUMENTOS
 
@@ -1681,47 +1771,73 @@ ARTICULO 223 BIS. Cuando se trate de delito grave en el que haya ocurrido violen
 
 Cuando las partes deban ofrecer la prueba documental, la exhibirán antes o durante la instrucción. El Juez o Tribunal la admitirá con posterioridad pero antes de que se dicte sentencia definitiva, si a su juicio existe razón válida para no haberla exhibido en tiempo y además pueda ser determinante en el caso, siempre que sea posible verificar su autenticidad, o correspondencia con los originales en caso de ser objetada de falsedad.
 
-Los documentos exhibidos serán agregados a los autos, salvo cuando esto pueda dañarlos o por su importancia deban conservarse en la seguridad del juzgado. En estos supuestos los documentos se exhibirán con copias para que obren en los expedientes.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Los documentos firmados en forma autógrafa o con la firma electrónica o los contenidos en medios magnéticos o electrónicos, exhibidos serán agregados a los autos, salvo cuando esto pueda dañarlos o por su importancia deban conservarse en la seguridad del juzgado. En estos supuestos los documentos se exhibirán con copias para que obren en los expedientes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 225.
 
-Son documentos públicos aquellos cuya formación esta encomendada por la ley, dentro de los limites de su competencia, a un servidor público revestido de la fe pública, y los expedidos por servidores públicos, en el ejercicio de sus funciones.
+Son documentos públicos físicos o electrónicos aquellos cuya formación está encomendada por la ley, dentro de los límites de su competencia, a un servidor público revestido de la fe pública, y los expedidos por servidores públicos, en el ejercicio de sus funciones.
 
 Son también documentos públicos, los que señale como tales la ley que rija el acto contenido.
 
-La calidad de públicos se demuestra por la existencia regular, sobre los documentos, de los sellos, firmas u otros signos exteriores que, en su caso, prevengan las leyes.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+La calidad de públicos se demuestra por la existencia regular, sobre los documentos firmados en forma autógrafa o con la firma electrónica certificada, de los sellos u otros signos exteriores que, en su caso, prevengan las leyes.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Los documentos en que se utilice la firma electrónica certificada, se incluirá en sus algoritmos el contenido del sello, y cuando sea posible, en los formatos predeterminados aparecerán visibles, y al imprimirse se estamparan en el documento, de acuerdo con los parámetros señalados en el primer párrafo.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Los datos contenidos en documentos que obren en medios magnético o electrónico, se transcribirán íntegramente en los autos del expediente, dando fe de ello el juzgado o tribunal ante el que se exhiban o, en su caso, se agregarán íntegramente al archivo electrónico del juzgado o tribunal.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 226.
 
-Cuando alguna de las partes ofrezca como medio de prueba un documento público que no pueda obtener directamente, el Juzgador ordenará a quien corresponda le expida copia certificada o testimonio de dicho documento.
+Cuando alguna de las partes ofrezca como medio de prueba un documento público firmado en forma autógrafa o con la firma electrónica que no pueda obtener directamente, el Juzgador ordenará a quien corresponda le expida copia certificada o testimonio de dicho documento, sea esto en forma física o en medio magnético o electrónico.
 
 ###### ARTICULO 227.
 
 Para que se reputen auténticos los documentos públicos procedentes del extranjero, deberán reunir los requisitos que establece el Código Federal de Procedimientos Penales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 228.
 
-Los documentos que con el carácter de públicos sean allegados a la causa pueden ser objetados de falsedad por no corresponder su contenido con el de los originales, o por no reunir los requisitos de autenticidad.
+Los documentos firmados en forma autógrafa o con la firma electrónica certificada, o los que obren en medio magnético o electrónico, que con el carácter de públicos sean allegados a la causa pueden ser objetados de falsedad por no corresponder su contenido con el de los originales, o por no reunir los requisitos de autenticidad.
 
 En el primer caso se llevará a cabo el cotejo correspondiente y en el segundo los documentos objetados, serán sometidos al dictamen de peritos.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 229.
 
-Los documentos privados y la correspondencia deberán ser reconocidos en su contenido y firma por la persona a quien se le atribuyan.
+Los documentos privados, físicos o electrónicos, y la correspondencia, aun aquella que se envié o reciba por correo electrónico, deberán ser reconocidos en su contenido y firma por la persona a quien se le atribuyan.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 230.
 
-Cuando el Ministerio Público estime que pueden encontrarse pruebas del delito que motiva la causa en la correspondencia que se dirija al inculpado, pedirá al juzgador y éste ordenará que dicha correspondencia se recoja.
+Cuando el Ministerio Público estime que pueden encontrarse pruebas del delito que motiva la causa en la correspondencia que se dirija al inculpado, incluyendo la que se le dirija vía correo electrónico, pedirá al juzgador y éste ordenará, según el caso, que dicha correspondencia se recoja, o se obtenga en medio magnético o electrónico del archivo, cuenta de correo o equipo de computación donde obre, dando al respecto fe de ello.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 231.
 
-La correspondencia recogida se abrirá por el juez en presencia de su secretario, del Ministerio Público y del inculpado si está en el lugar.
+La correspondencia recogida u obtenida conforme al artículo anterior, se abrirá por el juez en presencia de su secretario, del Ministerio Público y del inculpado si esta en el lugar.
 
-En seguida el Juez leerá para sí la correspondencia; si no tiene relación con el hecho que se averigua, la devolverá al inculpado o a alguna persona de su familia, si aquél no esta presente; si tiene relación le comunicará su contenido, y la mandará agregar al expediente. En todo caso levantará acta de la diligencia.
+En seguida el Juez leerá para sí la correspondencia; si no tiene relación con el hecho que se averigua, la devolverá al inculpado o a alguna persona de su familia, si aquel no está presente, o si la lectura se hace directamente de la cuenta de correo electrónico de la cual se obtuvo, se cerrará; si tiene relación le comunicará su contenido, y la mandará agregar al expediente físico y, en su caso, al electrónico. En todo caso levantará acta de la diligencia.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 232.
 
-Los documentos no redactados en español se presentarán acompañados de traducción a este idioma. Si es objetada, se procederá a la prueba pericial.
+Los documentos, físicos o electrónicos, o los que se exhiban en medio magnético o electrónico, no redactados en español se presentarán acompañados de traducción a este idioma. Si es objetada, se procederá a la prueba pericial.
 
 ### CAPITULO IX. VALORACION DE LOS MEDIOS DE PRUEBA
 
@@ -1939,9 +2055,11 @@ Los bienes de uso lícito, asegurados por el Ministerio Público para efectos en
 
 ### CAPITULO V. CATEOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 264.
 
-Sólo el juzgador podrá expedir, tanto en las diligencias de preparación de la acción procesal penal como con posterioridad a su ejercicio, orden de cateo, la cual será escrita, expresará el lugar que ha de inspeccionarse, las personas que hayan de aprehenderse, los objetos que se buscan y los motivos que lo justifiquen.
+Solo el juzgador podrá expedir, tanto en las diligencias de preparación de la acción procesal penal como con posterioridad a su ejercicio, orden de cateo, la cual será escrita, en documento físico o electrónico, en documentos firmados en forma autógrafa o con la firma electrónica certificada, expresará el lugar que ha de inspeccionarse, las personas que hayan de aprehenderse, los objetos que se buscan y los motivos que lo justifiquen.
 
 Según las circunstancias del caso, el Juzgador resolverá si el cateo lo realiza su personal, el Ministerio Público o ambos, debiéndose limitar a practicar la diligencia en los términos de la orden de cateo decretada, levantándose al concluirla una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
@@ -2013,7 +2131,7 @@ Si la averiguación previa se consigna con detenido y el juez ratifica la detenc
 
 ###### ARTICULO 278.
 
-Para ejercitar la acción penal, será suficiente que el Ministerio Público acredite la existencia del cuerpo del delito de que se trate y establezca la probable responsabilidad del inculpado; y la autoridad judicial, a su vez, examinará dentro del término que establece el articulo 19 de la Constitución General de la República si ambos requisitos están acreditados en autos.
+Para ejercitar la acción penal, será suficiente que el Ministerio Público acredite la existencia del cuerpo del delito de que se trate y establezca la probable responsabilidad del inculpado; y la autoridad judicial, a su vez, examinará dentro del término que establece el artículo 19 de la Constitución General de la República si ambos requisitos están acreditados en autos.
 
 Por cuerpo del delito se entiende la demostración de todos los elementos materiales que integran la infracción.
 
@@ -2649,7 +2767,7 @@ Si la apelación se interpone conforme a las disposiciones que establece este T�
 
 Contra el auto que admita la apelación no procede recurso alguno. En contra del auto que declare que es improcedente por cualquier causa la apelación interpuesta procederá el recurso de denegada apelación, conforme al artículo 375.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 362.
 
@@ -2833,9 +2951,11 @@ Durante el procedimiento especial, el Juez, considerando las valoraciones psiqui
 
 La instauración del procedimiento especial, no es obstáculo para que el ofendido y su representante legal ejerzan los derechos que este Código les confiere, siempre que no se contravengan las disposiciones de este Capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 390.
 
-Cuando el juzgador considere que existen los elementos necesarios para determinar definitivamente lo que proceda, solicitará al Ministerio Público, al defensor y al representante legal del inculpado, si lo tiene, su propuesta de resolución, que expresarán por escrito y dentro del plazo que se le señale. Hecho lo anterior el Juzgador, a la brevedad posible dictará la sentencia correspondiente, en la que, si considera comprobada la infracción penal y que en ella tuvo participación el inculpado, tomando en cuenta la personalidad de éste, determinará la medida de seguridad aplicable de acuerdo con los artículos 25 inciso B) fracciones I y II, 56, 59, 60, 61 y 62 del Código Penal del Estado. Igualmente, el Juzgador resolverá sobre la reparación del daño.
+Cuando el juzgador considere que existen los elementos necesarios para determinar definitivamente lo que proceda, solicitará al Ministerio Público, al defensor y al representante legal del inculpado, si lo tiene, su propuesta de resolución, que expresarán mediante escrito firmado en forma autógrafa o con la firma electrónica certificada y dentro del plazo que se le señale. Hecho lo anterior el Juzgador, a la brevedad posible dictará la sentencia correspondiente, en la que, si considera comprobada la infracción penal y que en ella tuvo participación el inculpado, tomando en cuenta la personalidad de este, determinará la medida de seguridad aplicable de acuerdo con los artículos 25 inciso B) fracciones I y II, 56, 59, 60, 61 y 62 del Código Penal del Estado. Igualmente, el Juzgador resolverá sobre la reparación del daño.
 
 Dicha sentencia definitiva es apelable en los efectos suspensivo y devolutivo.
 
@@ -2913,9 +3033,11 @@ Las excusas de los jueces de paz y de primera instancia, serán calificadas por 
 
 La Sala calificará la excusa dentro del plazo de setenta y dos horas. Si la aprueba, se hará la designación del Juez o Magistrado que seguirá conociendo del asunto. En caso contrario se ordenará continúe en el conocimiento el Juez o Magistrado que corresponda.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 402.
 
-Las excusas de los Secretarios de Acuerdos serán calificadas por el Juez o Sala Penal de su adscripción, con informe escrito del interesado y dictando resolución dentro de cuarenta y ocho horas. En estos casos podrá exigirse, la justificación de la causa, que se rendirá en audiencia previa al fallo.
+Las excusas de los Secretarios de Acuerdos serán calificadas por el Juez o Sala Penal de su adscripción, con informe escrito firmado en forma autógrafa o con la firma electrónica certificada del interesado y dictando resolución dentro de cuarenta y ocho horas. En estos casos podrá exigirse, la justificación de la causa, que se rendirá en audiencia previa al fallo.
 
 ###### ARTICULO 403.
 
@@ -3187,11 +3309,11 @@ Si han transcurrido tres días desde la fecha en que causó ejecutoria una sente
 
 Dentro de los tres días siguientes a la recepción de dicha copia se iniciará el procedimiento económico-coactivo, notificando de ello a la persona en cuyo favor se haya decretado, o a su representante legal. Efectuado el pago, en todo o en parte o agotado el procedimiento administrativo de ejecución sin haberlo obtenido, la autoridad fiscal, dentro de un término de tres días, lo comunicará al órgano jurisdiccional, poniendo, en su caso, a disposición del ofendido la cantidad obtenida, por conducto del mismo juez.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 449.
 
-Cuando la reparación del daño no haya sido cuantificada, para su liquidación y ejecución, se observará lo previsto por el artículo 429 de este Código. En caso de que existan bienes embargados precautoriamente u otra garantía para dicho fin, el interesado deberá promover lo conducente dentro de los treinta días siguientes a la fecha en que se le notifique la ejecutoria del fallo que condene a dicha reparación, si después de transcurrido ese plazo, el interesado no ha procedido a la liquidación de la sentencia, se levantará el embargo, se envolverá (sic) el depósito o se cancelará la garantía correspondiente.
+Cuando la reparación del daño no haya sido cuantificada, para su liquidación y ejecución, se observará lo previsto por el artículo 429 de este Código. En caso de que existan bienes embargados precautoriamente u otra garantía para dicho fin, el interesado deberá promover lo conducente dentro de los treinta días siguientes a la fecha en que se le notifique la ejecutoria del fallo que condene a dicha reparación, si después de transcurrido ese plazo, el interesado no ha procedido a la liquidación de la sentencia, se levantará el embargo, se devolverá el depósito o se cancelará la garantía correspondiente.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -3264,3 +3386,7 @@ P.O. 27 DE SEPTIEMBRE DE 2008.
 P.O. 21 DE FEBRERO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor a los 60 días después de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
