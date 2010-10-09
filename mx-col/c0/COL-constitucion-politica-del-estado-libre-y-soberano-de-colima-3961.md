@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2009-06-20"
+last_updated: "2010-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -331,9 +331,9 @@ Si de la revisión que el Congreso realice a través del Órgano Superior de Aud
 
 XI BIS.- El Congreso del Estado emitirá la convocatoria para elegir al Auditor Superior del Estado y lo designará con el voto de las dos terceras partes de los diputados presentes en los términos que determine la Ley de la materia. Durará en el cargo un período de siete años y podrá ser reelecto por un período más. Durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los diputados presentes.
 
-El Auditor Superior de Fiscalización, además de los requisitos previstos en la fracción I, I0049 del artículo 69 de esta Constitución, deberá de reunir los siguientes:
+El Auditor Superior de Fiscalización, además de los requisitos previstos en la fracción I, II del artículo 69 de esta Constitución, deberá de reunir los siguientes:
 
-I. Contar el día de su designación, con antigüedad mínima de 10 años, con titulo profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+I. Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
 
 II. Contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
 
@@ -1889,7 +1889,7 @@ Si las leyes, reglamentos y cualesquiera otras disposiciones de observancia gene
 
 ###### Artículo 134.
 
-Nadie podrá entrar en el desempeño de ningúu (sic) cargo, empleo o comisión del Estado, sin prestar previamente la protesta de cumplir, y, en su caso, hacer cumplir esta Coustitución (sic), la General de la República con sus adiciones y reformas y las leyes que de ambas emanen. Una ley determinará la fórmula de la protesta y la Autori ante qnien (sic) deba hacerse en los casos no previstos por esta Constitución.
+Nadie podrá entrar en el desempeño de ningúu (sic) cargo, empleo o comisión del Estado, sin prestar previamente la protesta de cumplir, y, en su caso, hacer cumplir esta Coustitución (sic), la General de la República con sus adiciones y reformas y las leyes que de ambas emanen. Una ley determinará la fórmula de la protesta y la Autori (sic) ante qnien (sic) deba hacerse en los casos no previstos por esta Constitución.
 
 ###### Artículo 135.
 
@@ -2036,6 +2036,10 @@ III.- La educación será motivo de especial atención en el Estado, en los tér
 La formación de los educandos, inclusive, será en el marco del fortalecimiento de los valores de la justicia, la tolerancia, la bondad, la rectitud, la honestidad y el diálogo, y en todo caso, fomentará en ellos, la cultura de la paz y la legalidad, como una forma de aprender a vivir en armonía utilizando como métodos los alternativos de solución de conflictos.
 
 IV.- La población tiene derecho a estar informada de manera continua y eficiente sobre las actividades que lleven a cabo las autoridades estatales y municipales y en general, sobre los acontecimientos de su entorno local y regional.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Es derecho de los colimenses, acceder a la sociedad de la información y el conocimiento, como una política de Estado, para lograr una comunidad integrada y totalmente intercomunicada, en la que cada uno de sus integrantes viva en un entorno de igualdad de oportunidades, con respeto a su diversidad, preservando su identidad cultural y orientada al desarrollo, que permita un claro impacto en todos los sectores de la sociedad.
 
 V.- Toda persona tiene derecho al trabajo, a la salud y a disfrutar de vivienda digna y decorosa. El gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables.
 
@@ -2825,7 +2829,7 @@ DECRETO No. 322, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 33, 77 Y LA DE
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
-SEGUNDO.- En tanto no se expida la Ley Reglamentaria de la fracción XLI Bis, del articulo 33 de la Constitución Política del Estado Libre y Soberano de Colima, el Congreso del Estado seguirá conociendo de los juicios de responsabilidad administrativa para sancionar a los servidores públicos que hayan incurrido en faltas administrativas.
+SEGUNDO.- En tanto no se expida la Ley Reglamentaria de la fracción XLI Bis, del artículo 33 de la Constitución Política del Estado Libre y Soberano de Colima, el Congreso del Estado seguirá conociendo de los juicios de responsabilidad administrativa para sancionar a los servidores públicos que hayan incurrido en faltas administrativas.
 
 P.O. 26 DE JULIO DE 2008.
 
@@ -2839,7 +2843,7 @@ P.O. 27 DE SEPTIEMBRE DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
 
-SEGUNDO.- El Quinto Informe de Gobierno que rinda el Titular del Poder Ejecutivo del Estado, previsto para el1° de octubre de éste año, deberá rendirse el 18 de diciembre de 2008.
+SEGUNDO.- El Quinto Informe de Gobierno que rinda el Titular del Poder Ejecutivo del Estado, previsto para el 1° de octubre de éste año, deberá rendirse el 18 de diciembre de 2008.
 
 P.O. 21 DE MARZO DE 2009.
 
@@ -2870,6 +2874,12 @@ CUARTO.- En tanto se nombra al Auditor Superior del Estado, fungirá como tal el
 QUINTO.- El Titular del Poder Ejecutivo Estatal, determinará en el Presupuesto de Egresos del próximo ejercicio fiscal, la partida presupuestal que garantice el eficaz funcionamiento del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, atendiendo el proyecto que emita su titular. Mientras tanto, el Congreso del Estado, sufragará los recursos asignados a la actual Contaduría.
 
 SEXTO.- La presentación, revisión, fiscalización y dictamen de las cuentas públicas del segundo semestre del ejercicio fiscal 2008, primero y segundo del ejercicio fiscal 2009, se tramitarán hasta su conclusión en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Colima y demás legislación vigente antes de la entrada en vigor del presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
+
+El Gobernador del Estado dispondrá que se publique, circule y observe".
 
 ###### ARTÍCULO ÚNICO.
 
