@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2010-09-04"
+last_updated: "2010-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -97,7 +97,7 @@ La aplicación del presente Reglamento, estará a cargo del Presidente y los tit
 
 ### CAPITULO SEGUNDO: DE LAS DEPENDENCIAS DE LA ADMINISTRACION MUNICIPAL
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 5.
 
@@ -111,7 +111,9 @@ Secretaría de Seguridad Pública y Protección Ciudadana;
 
 Dirección General de Tránsito;
 
-Dirección General de Obras Públicas y Desarrollo Urbano;
+Dirección General de Obras Públicas;
+
+Dirección General de Desarrollo Urbano;
 
 Dirección General de Servicios Públicos;
 
@@ -133,9 +135,9 @@ Dirección General de Centros Comunitarios y Forestación;
 
 Dirección General del Deporte, y
 
-Las unidades de Coordinación y Apoyo adscritas al Presidente.
+Las Unidades de Coordinación y Apoyo adscritas al Presidente.
 
-Independientemente de lo anterior, el Ayuntamiento podrá crear y suprimir las Dependencias, de acuerdo a las necesidades de la Administración, de conformidad con las facultades que le confiere el artículo 60 del Código Municipal para el Estado de Chihuahua.
+Independientemente de lo anterior, el Ayuntamiento podrá crear y suprimir las dependencias, de acuerdo a las necesidades de la Administración, de conformidad con las facultades que le confiere el artículo 60 del Código Municipal para el Estado de Chihuahua.
 
 ###### Artículo 6.
 
@@ -227,11 +229,11 @@ XIII. Intervenir en aquellas cuestiones que se refieran al cumplimiento de las l
 
 XIV. Reunir los datos necesarios para la elaboración de los informes que el Presidente deba rendir al Ayuntamiento y a los Poderes Legislativo y Ejecutivo del Estado;
 
-XV. Vigilar el cumplimiento de las disposiciones aplicables en materia de regulación de actividades comerciales en el Municipio;
+XV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
 
 XVI. Las demás que le señalen las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 16.
 
@@ -240,8 +242,6 @@ Para el mejor desempeño de sus atribuciones, el Secretario se auxiliará de las
 Dirección Jurídica;
 
 Dirección de Gobierno;
-
-Dirección de Comercio;
 
 Dirección de Oficialía Jurídica y Barandilla, y
 
@@ -299,27 +299,7 @@ El Director de Gobierno llevará el libro de actas de las Sesiones del Ayuntamie
 
 ###### Artículo 24.
 
-Son atribuciones del Director de Comercio:
-
-I. Regular la actividad comercial desarrollada dentro del Municipio;
-
-II. Autorizar, otorgar y revalidar los permisos para ejercer la actividad del comercio; de acuerdo a la administración del desarrollo urbano;
-
-III. Administrar los mercados públicos municipales;
-
-IV. Regular, vigilar y sancionar el funcionamiento de los mercados públicos y privados de conformidad con las leyes y otros reglamentos;
-
-V. Autorizar, otorgar y regular los permisos temporales para el ejercicio del comercio en eventos festivos;
-
-VI. Vigilar, regular y sancionar previo (sic) autorización del Presidente, el incumplimiento de las disposiciones contenidas en la Ley que Regula el Funcionamiento de los Establecimientos en los que Expenden, Distribuyen o Ingieren Bebidas alcohólicas;
-
-VII. Formular los proyectos de reglamentos y modificaciones a los mismos, tendientes a regular y organizar el comercio formal, informal, y el relativo a bebidas alcohólicas;
-
-VIII. Llevar a cabo la práctica de inspecciones para verificar el cumplimiento de las disposiciones aplicables en materia del ejercicio del comercio; comisionando para ello al personal necesario;
-
-IX. Vigilar el funcionamiento de los servicios funerarios y de las salas de masaje que operan en el Municipio; y
-
-X. Las demás que le señalen las leyes, reglamentos y manuales de organización.
+(DEROGADO, P.O. 9 DE OCTUBRE DE 2010)
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -413,9 +393,23 @@ XI. Intervenir en todas las operaciones, en que se haga uso del crédito públic
 
 XII. Intervenir directamente o a través de apoderado, en representación del interés del Municipio, en las controversias fiscales que se susciten por actos de autoridad municipal;
 
-XIII. Proponer al Ayuntamiento los precios de los inmuebles que pretenda enajenar el Municipio para el establecimiento de giros de actividad comercial o industrial, debiendo recabar para ello la opinión de la Dirección General de Promoción Financiera y Económica, la Dirección de Desarrollo Urbano, la Dirección de Patrimonio y la Dirección de Catastro; y
+XIII. Proponer al Ayuntamiento los precios de los inmuebles que pretenda enajenar el Municipio para el establecimiento de giros de actividad comercial o industrial, debiendo recabar para ello la opinión de la Dirección General de Promoción Financiera y Económica, la Dirección de Desarrollo Urbano, la Dirección de Patrimonio y la Dirección de Catastro; y (sic)
 
-XIV. Las demás que señalen las leyes, reglamentos y manuales de organización
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XIV. Proponer la aplicación de programas, acciones y medidas para diseñar, implementar, evaluar y mejorar la calidad de las funciones y servicios a cargo de la administración pública municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XV. Propiciar que la adopción de programas, acciones y medidas referentes a los procesos de simplificación administrativa, estén orientados a elevar la eficiencia, competitividad y desarrollo económico del Municipio;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XVI. Supervisar y fiscalizar, el cumplimiento de los programas, acciones y medidas implementadas para la simplificación administrativa, y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XVII. Las demás que le señalen, otros ordenamientos legales aplicables en la materia.
 
 ###### Artículo 28.
 
@@ -431,9 +425,11 @@ IV. Dirección de Contabilidad.
 
 V. (DEROGADA, P.O. 23 DE FEBRERO DE 2008)
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 29.
 
-El Director de Ingresos tendrá a su cargo la proyección y recaudación de los ingresos que en vía de contribuciones recibe el Municipio, la recuperación de los créditos que a éste se le adeuden, y el trámite de los procedimientos necesarios para el ejercicio de la facultad económico-coactiva por el Tesorero.
+El Director de Ingresos tendrá a su cargo la proyección y recaudación de los ingresos que en vía de contribuciones recibe el Municipio, a través de las cajas de ingresos y las oficinas de Atención de Trámites Municipales; así como la recuperación de los créditos que se le adeuden al Municipio, y el trámite de los procedimientos necesarios para el ejercicio de la facultad económico-coactiva.
 
 ###### Artículo 30.
 
@@ -591,175 +587,117 @@ XVIII. Expedir y difundir los manuales y guías de conductores y peatones; y
 
 XIX. Las demás que le confieran ésta u otras disposiciones legales. El sub.-director auxiliará en las funciones al Director y lo sustituirá en sus ausencias temporales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-DIRECCIÓN GENERAL DE OBRAS PÚBLICAS Y DESARROLLO URBANO
+DIRECCIÓN GENERAL DE OBRAS PÚBLICAS
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 39.
 
-Son atribuciones del Director General de Obras Públicas y Desarrollo Urbano:
+Son atribuciones del Director General de Obras Públicas:
 
-I. Programar y calendarizar la realización de proyectos, licitaciones y ejecución de obra pública de acuerdo al Plan Municipal de Desarrollo, presupuesto anual autorizado y planes de desarrollo urbano vigentes, y someterlo a consideración del Presidente y del consejo respectivo;
+I. Programar y calendarizar la realización de proyectos, licitaciones y ejecución de obra pública de acuerdo al Plan Municipal de Desarrollo, presupuesto anual autorizado y planes de desarrollo urbano vigentes; y someterlo a consideración del Presidente y del consejo respectivo;
 
-II. Aplicar las sanciones correspondientes, conforme a las Leyes, Reglamentos y demás disposiciones legales aplicables en la materia;
+II. Proyectar, construir y conservar las obras públicas que conforme a las leyes y sus reglamentos, sean a cargo del Municipio;
 
-III. Proyectar, construir y conservar las obras públicas que conforme a las Leyes y sus Reglamentos, sean a cargo del Municipio;
+III. Intervenir en la celebración y vigilar el cumplimiento de los contratos de obra pública;
 
-IV. Coordinar y realizar los procesos de licitación y asignación de las obras públicas municipales de conformidad con la normatividad aplicable, así como intervenir en la celebración y vigilar el cumplimiento de los contratos de obra pública;
+IV. Coordinar y realizar los procesos de licitación y asignación de las obras públicas municipales de conformidad con las leyes y normatividad aplicables, así como intervenir en la celebración de los contratos correspondientes;
 
 V. Ejecutar las obras de infraestructura en el Municipio, de acuerdo a los programas que se formulen con base en el presupuesto autorizado, con las aportaciones del Estado y la Federación;
 
-VI. Coordinar y supervisar la ejecución de obras públicas cuando se lleven a cabo por otras dependencias, organismos descentralizados o empresas de participación municipal;
+VI. Coordinar y supervisar la ejecución de obras públicas cuando se lleven a cabo por otras Dependencias, organismos descentralizados o empresas de participación municipal;
 
-VII. Vigilar el cumplimiento de las disposiciones legales aplicables en la materia de su competencia, estando facultado para practicar inspecciones, imponer sanciones y clausuras, así como suspender o demoler las obras que se realicen en contra de lo dispuesto en dichas disposiciones;
+VII. La construcción de parques, plazas, jardines, áreas de recreo y obras de ornato;
 
-VIII. Otorgar licencias y permisos para la ocupación temporal de la vía pública, cuando tal atribución no esté expresamente encomendada a otra dependencia;
+VIII. Gestionar la elaboración y diseño de los programas de mantenimiento y rehabilitación de pavimentos;
 
-IX. Otorgar licencias y permisos para construcción, reparación y demolición de fincas;
+IX. Operar la maquinaria y el equipo a su cargo para conservar las obras públicas municipales; y
 
-X. Prestar el servicio de nomenclatura, numeración oficial y alineamiento de construcciones;
+X. Las demás que señalen las leyes, reglamentos y manuales de organización.
 
-XI. Otorgar las licencias correspondientes, para el funcionamiento e instalación de industrias, comercios, prestadores de servicios y demás establecimientos, cuando interesen a la seguridad, salubridad y urbanismo públicos municipales;
-
-XII. La construcción de parques, plazas, jardines, áreas de recreo y obras de ornato;
-
-XIII. Gestionar la elaboración y diseño de los programas de mantenimiento y rehabilitación de pavimentos;
-
-XIV. Operar la maquinaria y el equipo a su cargo para conservar las obras públicas municipales, y
-
-XV. Las demás que señalen las Leyes, Reglamentos y Manuales de Organización.
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 40.
 
-Para el desarrollo de sus funciones, el Director General de Obras Públicas y Desarrollo Urbano tendrá a su cargo las siguientes direcciones de área:
+Para el desarrollo de sus funciones, el Director General de Obras Públicas, tendrá a su cargo las siguientes direcciones de área:
 
 I. Dirección de Urbanización;
 
 II. Dirección de Edificación;
 
-III. Dirección de Programación, Evaluación y Control;
+III. Dirección Técnica, y
 
-IV. Dirección de Ingeniería de la Ciudad, y
+IV. Dirección de Mantenimiento.
 
-V. Dirección de Control de Desarrollo Urbano.
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 41.
 
-Son atribuciones del Director de Urbanización:
+Son atribuciones del Director de Urbanización; supervisar la construcción de vías públicas en general, vialidades regionales, primarias, secundarias, locales y sus obras complementarias tales como intersecciones y pasos a desnivel. Evaluar los programas de obra y estimar sus avances, revisando el cumplimiento de los contratos y aplicando sanciones, en su caso.
 
-I. La conservación y mantenimiento de vialidades primarias, secundarias, locales y regionales;
+Así mismo, participar en la recepción de las obras de urbanización de los fraccionamientos, vigilando la calidad de los materiales utilizados.
 
-II. La conservación y mantenimiento de obras complementarias tales como pasos a desnivel, intersecciones y muros de contención;
-
-III. Supervisar la ejecución de las obras según los contratos de obra pública, referentes a urbanización;
-
-IV. Evaluar los programas de obra y estimar sus avances, revisando el cumplimiento de los contratos y aplicando sanciones en su caso;
-
-V. La construcción y supervisión de obras complementarias por administración;
-
-VI. Supervisar la ejecución y participar en la recepción de las obras de urbanización de los fraccionamientos;
-
-VII. La conservación y mantenimiento de áreas de infraestructura pluvial;
-
-VIII. La supervisión de obras de infraestructura pluvial, según los contratos de obra pública;
-
-IX. La realización y evaluación de proyectos ejecutivos de vialidades, infraestructura pluvial y obras complementarias, y
-
-X. Las demás que señalen las Leyes, Reglamentos y Manuales de Organización.
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 42.
 
-Son atribuciones del Director de Edificación:
+Son atribuciones del Director de Edificación; supervisar la construcción de las edificaciones en general que realice el Municipio o participe en su realización. Evaluar los programas de obra y estimar sus avances, revisando el cumplimiento de los contratos y aplicando sanciones, en su caso.
 
-I. Supervisar la ejecución de las obras de edificación, según los contratos de obra pública asignados;
-
-II. Evaluar los programas de obras de edificación y estimar sus avances, revisando el cumplimiento de los contratos y aplicando sanciones en su caso;
-
-III. La realización y evaluación de proyectos ejecutivos de obras de edificación;
-
-IV. La conservación y mantenimiento de oficinas y edificios municipales, y
-
-V. Las demás que señalen las Leyes, Reglamentos y Manuales de Organización.
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 43.
 
-Son atribuciones del Director de Programación, Evaluación y Control:
+Son atribuciones del Director Técnico; la realización e integración de los proyectos ejecutivos de obra, el análisis detallado de sus costos y los aspectos técnicos relacionados. Así mismo coordinará los procesos de licitación y asignación de las obras públicas municipales; de conformidad con las leyes y normatividad aplicables.
 
-I. Coordinar los procesos de licitación y asignación de las obras públicas municipales, de conformidad con la normatividad aplicable;
-
-II. Programar la obra pública a realizar y llevar su seguimiento presupuestal;
-
-III. Coordinar las acciones que en materia de abra pública, tengan las demás dependencias de la administración municipal;
-
-IV. Realizar la gestión y seguimiento a las auditorias de obra pública, practicadas por las diferentes instancias gubernamentales;
-
-V. Aplicar las disposiciones correspondientes a las derramas de obra pública;
-
-VI. Coordinar los aspectos técnicos y apoyar las acciones legales en las afectaciones resultado de la obra pública;
-
-VII. Diseñar, elaborar y mantener la estadística de obra pública, y tramitología de la dependencia;
-
-VIII. Recibir, evaluar y dar seguimiento a las solicitudes de la ciudadanía, que se presenten ante la dependencia, en relación con la obra pública, y
-
-IX. Las demás que señalen las Leyes, Reglamentos y Manuales de Organización.
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 44.
 
-Son atribuciones del Director de Ingeniería de la Ciudad:
+El Director de Mantenimiento, tendrá a su cargo el buen funcionamiento, reparación y limpieza de todos lo (sic) bienes muebles e inmuebles propiedad del Municipio.
 
-I. Proponer, coordinar y ejecutar las politicas del Municipio en materia de administración del desarrollo urbano;
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-II. Otorgar las licencias y permisos para construcción, reparación y demolición de fincas;
+DIRECCIÓN GENERAL DE DESARROLLO URBANO
 
-III. Otorgar las licencias correspondientes, para el funcionamiento e instalación de industrias, comercios, prestadores de servicios y demás establecimientos, cuando interesen a la seguridad, salubridad y urbanismo públicos municipales;
-
-IV. Determinar y exigir el cumplimiento de las normas, instalaciones y equipos de seguridad, que deben incorporarse a las construcciones en general y las que particularmente deben observarse en los locales a los que tenga acceso el público. La inobservancia de tales normas impedirá a la autoridad municipal otorgar el permiso de construcción o funcionamiento respectivos, y en su caso, la facultará para ordenar la suspensión de la obra o la clausura del local hasta en tanto no se cumplan los requisitos de seguridad exigibles;
-
-V. Proponer la expedición de las disposiciones legales aplicables en materia de construcción;
-
-VI. Prestar el servicio de nomenclatura, numeración oficial y alineamiento de construcciones;
-
-VII. Vigilar el cumplimiento de las disposiciones legales aplicables, en la materia de su competencia, estando facultado para practicar inspecciones, imponer sanciones y clausurar, suspender o demoler las obras que se realicen en contra de lo dispuesto en dichas disposiciones;
-
-VIII. Diseñar y modificar los sentidos de circulación, accesos y retornos de la red de vías públicas y proponer la señalización y control de tráfico a la Dirección General de Servicios Públicos, de acuerdo a los planes de desarrollo urbano, y
-
-IX. Las demás que señalen las Leyes, Reglamentos y Manuales de Organización.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 17 DE ENERO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 45.
 
-Son atribuciones del Director de Control de Desarrollo Urbano:
+Son atribuciones del Director General de Desarrollo Urbano:
 
-I. Controlar las reservas, usos y destinos de áreas y predios en los centros de población, así como vigilar que las acciones de urbanización se ajusten a las disposiciones previstas en los planes de desarrollo urbano;
+I. Proponer, coordinar y ejecutar las políticas del Municipio en materia de administración del desarrollo urbano;
 
-II. Administrar la zonificación prevista en los planes de desarrollo urbano, correspondientes a la jurisdicción territorial del Municipio;
+II. Controlar las reservas, usos y destinos de áreas y predios en los centros de población, así como vigilar que las acciones de urbanización se ajusten a las disposiciones previstas en los planes de desarrollo urbano;
 
-III. Promover y realizar acciones para la conservación, mejoramiento y crecimiento de los centros de población, ubicados en el territorio municipal, de conformidad con los planes o programas de desarrollo urbano;
+III. Administrar la zonificación prevista en los planes de desarrollo urbano correspondientes a la jurisdicción territorial del Municipio;
 
-IV. Proponer al Ayuntamiento los cambios menores a los planes de desarrollo urbano, conforme a la normatividad aplicable;
+IV. Promover y realizar acciones para la conservación, mejoramiento y crecimiento de los centros de población ubicados en el territorio municipal, de conformidad con los planes o programas de desarrollo urbano;
 
-V. Revisar y dar trámite a las solicitudes de fusión, subdivisión, relotificación o fraccionamiento de terrenos, y toda acción urbana en los centros de población;
+V. Proponer al Ayuntamiento los cambios menores a los planes de desarrollo urbano conforme a las leyes y normatividad aplicable;
 
-VI. Fomentar la organización y participación ciudadana, en la formulación, ejecución, evaluación y actualización de los planes o programas de desarrollo urbano;
+VI. Revisar y dar trámite a las solicitudes de fusión, subdivisión, relotificación o fraccionamiento de terrenos y toda acción urbana en los centros de población;
 
 VII. Expedir las constancias de zonificación y conceder las licencias de uso de suelo;
 
-VIII. Proponer al Ayuntamiento la expedición de los Reglamentos en materia de desarrollo urbano que sean necesarios para regular los procesos de mejoramiento, crecimiento y conservación de los centros de población ubicados en el territorio municipal;
+VIII. Otorgar las licencias y permisos para construcción, reparación y demolición de fincas; nomenclatura, numeración oficial y alineamiento de construcciones;
 
-IX. Las demás que señalen las Leyes, Reglamentos y Manuales de Organización.
+IX. Vigilar el cumplimiento del Reglamento de Construcción, estando facultado para practicar inspecciones, imponer sanciones y clausurar, suspender demoler las obras que se realicen en contra de lo dispuesto en dicho reglamento;
+
+X. Proponer al Ayuntamiento la expedición de los reglamentos en materia de desarrollo urbano que sean necesarios para regular los procesos de mejoramiento, crecimiento y conservación de los centros de población ubicados en el territorio municipal;
+
+XI. Diseñar y modificar los sentidos de circulación, accesos y retornos de la red de vías públicas (sic)
+
+(sic) y vialidades municipales y proponer la señalización y control de tráfico, en coordinación con el Instituto Municipal de Investigación y Planeación, así como con las demás dependencias que tengan ingerencia (sic), a la Dirección General de Servicios Públicos, de acuerdo a los planes de desarrollo urbano; y (sic)
+
+XII. Otorgar licencias y permisos para la ocupación temporal de la vía pública, cuando tal atribución no esté expresamente encomendada a otra Dependencia;
+
+VIII (SIC). Otorgar licencias y permisos para construcción, reparación y demolición de fincas;
+
+IX. Prestar el servicio de nomenclatura, numeración oficial y alineamiento de construcciones;
+
+XII (SIC). Las demás que señalen las leyes, reglamentos y manuales de organización.
 
 DIRECCION GENERAL DE SERVICIOS PUBLICOS
 
@@ -855,11 +793,11 @@ El Director de Mantenimiento de Vías Públicas Municipales tendrá a su cargo l
 
 Supervisará la operación de los panteones públicos y privados en apego a los lineamientos establecidos, así como ejecutará el mantenimiento y limpieza de los panteones municipales.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 53.
 
-El Director de Parques y Jardines tendrá a su cargo la creación, mantenimiento, y embellecimiento de parques, jardines, monumentos, fuentes y demás ornatos públicos; así como la supervisión de la operación de las plantas tratadoras municipales.
+El Director de Parques y Jardines tendrá a su cargo la creación, mantenimiento y forestación de parques y jardines, así como el embellecimiento de monumentos y demás ornato público, la operación de los panteones municipales y la vigilancia del funcionamiento de los concesionados.
 
 ###### Artículo 54.
 
@@ -1167,13 +1105,43 @@ VIII. Propiciar la organización de agrupaciones con objeto de desarrollar activ
 
 IX. Diseñar y evaluar proyectos de desarrollo económico municipal y promover su realización con la participación de los agentes económicos privados;
 
-X. Las demás que le señalen las leyes, reglamentos y manuales de organización.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+X. Vigilar el cumplimiento de las disposiciones aplicables en materia de regulación de actividades comerciales en el Municipio, y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+XI. Las demás que le señalen las Leyes, Reglamentos y Manuales de Organización.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 73.
 
-Para el cumplimiento de las atribuciones señaladas en las fracciones I, II y III del artículo que antecede, el Director General tendrá a su cargo la dirección de área que se denominará Dirección de Promoción Financiera.
+Para el cumplimiento de las atribuciones señaladas en las fracciones I, II y III del artículo que antecede, el Director General tendrá a su cargo la dirección de área denominada, Dirección de Promoción Financiera.
 
-Para el ejercicio de las restantes, se auxiliará de otra denominada Dirección de Fomento Económico.
+Para el ejercicio de las fracciones IV a la IX, contará con la dirección de área que se denominará, Dirección de Fomento Económico; y para el ejercicio de la fracción X, contará con la Dirección de Comercio, que tendrá las atribuciones previstas en el siguiente artículo.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+Artículo 73 bis.- Son atribuciones del Director de Comercio:
+
+I. Regular la actividad comercial desarrollada dentro del Municipio;
+
+II. Autorizar, otorgar y revalidar los permisos para ejercer la actividad de comercio, de acuerdo a la administración del desarrollo urbano;
+
+III. Administrar los mercados públicos municipales;
+
+IV. Regular, vigilar y sancionar el funcionamiento de los mercados públicos y privados de conformidad con las disposiciones legales aplicables;
+
+V. Autorizar, otorgar y regular los permisos temporales para el ejercicio del comercio en eventos festivos;
+
+VI. Vigilar, regular y sancionar previo (sic) autorización del Presidente, el incumplimiento de las disposiciones contenidas en la Ley que Regula el Funcionamiento de los Establecimientos en los que Expenden, Distribuyen o Ingieren Bebidas Alcohólicas;
+
+VII. Llevar a cabo la práctica de inspecciones para verificar el cumplimiento de las disposiciones aplicables en materia de ejercicio del comercio, comisionando para ello al personal necesario;
+
+VIII. Vigilar el funcionamiento de los servicios funerarios y de las salas de masaje que operan en el Municipio, y
+
+IX. Las demás que le señalen las Leyes, Reglamentos y manuales de organización.
 
 DIRECCION GENERAL DE ASENTAMIENTOS HUMANOS
 
@@ -1321,11 +1289,13 @@ La Dirección General de Centros Comunitarios y Forestación, quedará integrada
 
 I.- Un Director General que será nombrado por el Presidente Municipal;
 
-II.- Un Subdirector;
+II.- (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
 
-III.- Cuatro coordinadores en las siguientes áreas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-a).- Coordinador de Forestación y Mantenimiento;
+III.- Tres coordinadores en las siguientes áreas:
+
+a).- (DEROGADO, P.O. 9 DE OCTUBRE DE 2010)
 
 b).- Coordinador de Programas;
 
@@ -1349,7 +1319,7 @@ II.- Organizará, preparará, vigilará y dirigirá al personal de la dirección
 
 III.- Cuidará, conservará y recuperará los centros comunitarios existentes, restableciéndolos a fin de que queden en condiciones eficientes de operación. Por lo que hace a los de nueva creación, procurara que estos cuenten con los bienes muebles y equipo que sean necesarios para su funcionamiento, así como su personal adecuado.
 
-IV.- Cuidará, conservará, preservará, mejorará, y recuperará las áreas verdes donde participe, mediante la forestación de especies vegetales de la región.
+IV.- (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
 
 ###### Artículo 90.
 
@@ -1357,7 +1327,9 @@ Los planes de trabajo de la Dirección, se conformaran y desarrollaran en dos á
 
 I.- Área de Desarrollo comunitario, calidad de vida y bienestar: A través de la cual se promoverá en los centros comunitarios, los espacios de expresión cultural y artística como la creación de los mecanismos para el acceso a las distintas manifestaciones culturales.
 
-II.- Infraestructura comunitaria: A través de la cual la dirección vinculará a los diferentes sectores de la sociedad que se ven involucrados directa o indirectamente con la forestación y en vistas de acciones conjuntas, facilitar su interacción, promoviendo programas de forestación y articular los esfuerzos de las diferentes entidades municipales en ese renglón.
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+II.- Infraestructura comunitaria: A través de la cual la dirección vinculará a los diferentes sectores de la sociedad que se ven involucrados con la vida comunitaria y en vistas de acciones conjuntas, facilitar su interacción.
 
 DIRECCION GENERAL DEL DEPORTE
 
@@ -1461,25 +1433,23 @@ IX.- Impartir cursos y programas de capacitación y actualización dirigidos al 
 
 X.- Llevar el registro y control de Centros de Bienestar Infantil de Carácter Social, y (sic)
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-XI.- Las demás que le encomiende el Presidente Municipal, el Honorable Ayuntamiento y demás ordenamientos legales aplicables.
+XI. Evaluar el desempeño y resultados de las distintas Direcciones Generales y sus respectivas dependencias, así como los proyectos y programas especiales, y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-XII.- Proponer la aplicación de programas, acciones y medidas para diseñar, implementar, evaluar y mejorar la calidad de las funciones y servicios a cargo de la administración pública municipal.
+XII. Las demás que le encomiende el Presidente Municipal, el Honorable Ayuntamiento y demás ordenamientos legales aplicables.
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
+XIII. (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
 
-XIII.- Propiciar que la adopción de programas, acciones y medidas referentes a los procesos de simplificación administrativa, estén orientados a elevar la eficiencia, competitividad y desarrollo económico del Municipio, y
+XIV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2008)</small>
-
-XIV.- Supervisar y fiscalizar, el cumplimiento de los programas, acciones y medidas implementadas para la simplificación administrativa.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 97.
 
-El Secretario Particular atenderá los asuntos relacionados con la actividad cotidiana del Presidente, las relaciones públicas y la instrumentación y vigilancia de los programas de atención a la ciudadanía.
+El Secretario Particular atenderá los asuntos relacionados con la actividad cotidiana del Presidente, las relaciones públicas y la instrumentación y vigilancia de los programas de atención a la ciudadanía; de la misma manera, atenderá el Programa de Atención a Migrantes, el cual tiene como propósito brindar asesoría, atención y ayuda al migrante deportado por la frontera con Estados Unidos de Norte América, con el fin de estabilizar su situación migratoria; incluyendo la atención a los migrantes y la orientación para el regreso a su lugar de origen.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2006)</small>
 
@@ -1644,3 +1614,15 @@ P.O. 28 DE MARZO DE 2009.
 P.O. 4 DE SEPTIEMBRE DE 2010.
 
 ÚNICO.- La presente reforma al Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+ACUERDO 284 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 27, 72, 90, 96, 5, 16, 29, 53, 73, 97, 73 BIS, 15, 87, 89, 24.
+
+ÚNICO.- La presente reforma, entrará en vigor a partir del día 10 de octubre de 2010, en caso de que su publicación en el Periódico Oficial del Gobierno del Estado se lleve a cabo antes de dicha fecha, caso contrario, entrará en vigor a partir del día siguiente de su publicación en el mencionado Periódico Oficial.
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+ACUERDO 285 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 5, 39, 40, 41, 42, 43, 44 Y 45.
+
+ÚNICO.- La presente reforma, entrará en vigor a partir del día 10 de octubre de 2010, en caso de que su publicación en el Periódico Oficial del Gobierno del Estado se lleve a cabo antes de dicha fecha, caso contrario, entrará en vigor a partir del día siguiente de su publicación en el mencionado Periódico Oficial.
