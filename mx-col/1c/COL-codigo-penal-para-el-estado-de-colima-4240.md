@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2010-07-24"
+last_updated: "2010-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -709,7 +709,7 @@ Cuando por culpa se ocasione únicamente daño en propiedad ajena, sólo se pers
 
 ###### ARTICULO 70.
 
-Cuando culposamente se causen lesiones, daños o lesiones y daños con motivo del transito de vehículos, solo se procederá a petición de parte, y se sancionará con multa hasta por cien unidades y veinte jornadas de trabajo en favor de la comunidad, siempre que se satisfagan las siguientes condiciones:
+Cuando culposamente se causen lesiones, daños o lesiones y daños con motivo del tránsito de vehículos, solo se procederá a petición de parte, y se sancionará con multa hasta por cien unidades y veinte jornadas de trabajo en favor de la comunidad, siempre que se satisfagan las siguientes condiciones:
 
 I.- Que exista vehículo afectable a la reparación del daño o seguro vigente para daños a terceros o garantía en efectivo suficiente a juicio de la autoridad de vialidad; y;
 
@@ -1151,7 +1151,7 @@ Al servidor público que incurra en el delito previsto en el Artículo anterior 
 
 Al que proporcione en un solo acto, la evasión a varias personas privadas de su libertad, se le impondrán de tres a ocho años de prisión.
 
-Si el responsable fuere servidor publico, se le impondrá prisión de cuatro a doce años e inhabilitación por el mismo tiempo para desempeñar otra función.
+Si el responsable fuere servidor público, se le impondrá prisión de cuatro a doce años e inhabilitación por el mismo tiempo para desempeñar otra función.
 
 ###### ARTICULO 122.
 
@@ -1233,13 +1233,17 @@ II.- Continúe en funciones a sabiendas de que conforme a la Ley no puede ejerce
 
 III.- Ejerza funciones públicas distintas de las que le corresponden;
 
-IV.- Haga uso indebido de documentos o información a los que tenga acceso;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-V.- A sabiendas de que actos de terceros pueden afectar el patrimonio o la función pública, no lo evite por los medios a su alcance;
+IV.- Haga uso indebido de documentos o información contenida en formato, físico o electrónico, a los que tenga acceso;
 
-> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-VI.- Por sí o por interpósita persona, sustraiga, destruya, oculte, niegue, utilice, o inutilice ilícitamente información o documentación que se encuentra bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
+V.- A sabiendas de que actos de terceros pueden afectar el patrimonio o la función pública, no lo evite por los medios a su alcance; y
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+VI.- Por sí o por interpósita persona, sustraiga, destruya, oculte, niegue, utilice, o inutilice ilícitamente información o documentación que se encuentra bajo su custodia o a la cual tenga acceso mediante los archivos físicos o electrónicos que se encuentren en la base de datos o en cualquier medio electrónico, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
 Al que cometa alguno de los delitos previstos en las fracciones I, II y III se le impondrán de tres días a un año de prisión y multa hasta por diez unidades e inhabilitación de un mes a dos años para desempeñar otra función pública.
 
@@ -1247,7 +1251,7 @@ Al infractor de las fracciones IV y V se le impondrán de dos a siete años de p
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
 
-Al servidor publico que incurra en lo dispuesto por la fracción VI del presente artículo se le impondrá la pena de 3 a 8 años de prisión y multa de hasta por 200 unidades e inhabilitación de 3 a 8 años para desempeñar otra función pública.
+Al servidor público que incurra en lo dispuesto por la fracción VI del presente artículo se le impondrá la pena de 3 a 8 años de prisión y multa de hasta por 200 unidades e inhabilitación de 3 a 8 años para desempeñar otra función pública.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2008)</small>
 
@@ -1278,6 +1282,8 @@ Este delito se aplicará únicamente para los casos en que conforme a la Ley no 
 ### CAPITULO IX.
 
 DELITO DE FALSEDAD DE LOS SERVIDORES PUBLICOS.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 131.
 
@@ -1365,7 +1371,7 @@ PROVOCACION DE UN DELITO, APOLOGIA DE ESTE O UN VICIO QUE ATENTE CONTRA EL LIBRE
 
 ###### ARTICULO 135.
 
-Se impondrá de uno a seis años de prisión, multa hasta por 70 unidades, e inhabilitación hasta por seis años, al servidor público que en ejercicio de sus funciones, expida una certificación de hechos que no sean ciertos, o dé fe de lo que no conste en autos, registros, protocolos o documentos.
+Se impondrá de uno a seis años de prisión, multa hasta por 70 unidades, e inhabilitación hasta por seis años, al servidor público que en ejercicio de sus funciones, expida una certificación de hechos que no sean ciertos, o de fe de lo que no conste en autos, registros, protocolos o documentos físicos o electrónicos o en la base de datos.
 
 Se considerará como delito de falsedad y será sancionado igualmente, cuando el servidor público, por engaño o sorpresa, hiciere que alguien firme un documento, que no habría firmado sabiendo su contenido.
 
@@ -1633,6 +1639,8 @@ DELITOS DE FALSEDAD Y CONTRA LA FE PUBLICA.
 
 FALSIFICACION Y USO DE DOCUMENTO FALSO.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 141.
 
 Al que ponga en movimiento un vehículo de motor o maquinaria similar y su desplazamiento sin control pueda causar daño, se le impondrán de tres días a tres años de prisión y multa hasta por 30 unidades.
@@ -1731,11 +1739,13 @@ PORNOGRAFIA.
 
 ###### ARTICULO 150.
 
-Se impondrán de uno a cinco años de prisión y multa hasta por 60 unidades al que para obtener un beneficio o causar un perjuicio falsifique o altere un documento público o privado o consigne en él un hecho falso.
+Se impondrán de uno a cinco años de prisión y multa hasta por 60 unidades al que para obtener un beneficio o causar un perjuicio falsifique o altere un documento público o privado físico o electrónico, autorizado con firma autógrafa o electrónica certificada o consigne en él un hecho falso.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 151.
 
-La misma sanción se impondrá al que a sabiendas haga uso de un documento falso.
+La misma sanción se impondrá al que a sabiendas haga uso de un documento, físico o electrónico, falso.
 
 ### CAPITULO III.
 
@@ -1919,7 +1929,7 @@ Si la víctima es una persona menor de dieciocho años o persona que no tenga la
 
 ###### ARTICULO 159.
 
-Se impondrá de tres a siete años de prisión y multa de cincuenta a ciento cincuenta unidades a la persona que induzca, medie o solicite para que una o mas de las personas a que hace referencia el segundo párrafo del articulo anterior comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución.
+Se impondrá de tres a siete años de prisión y multa de cincuenta a ciento cincuenta unidades a la persona que induzca, medie o solicite para que una o mas de las personas a que hace referencia el segundo párrafo del artículo anterior comercie sexualmente con su cuerpo o le facilite los medios para que se entregue a la prostitución.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
@@ -2109,7 +2119,7 @@ Al responsable de Homicidio Calificado, se le impondrán de treinta y cinco a ci
 
 ###### ARTICULO 171.
 
-Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, adoptante o adoptado, sabiendo el autor esa relación, o a quien es o fue antes del hecho cónyuge, concubina o concubinario, o pareja en una relación adúltera con el homicida, se le impondrán de treinta y cinco a cincuenta años de prisión.
+Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, adoptante o adoptado, sabiendo el autor esa relación, o a quien es (sic) o fue antes del hecho cónyuge, concubina o concubinario, o pareja en una relación adúltera con el homicida, se le impondrán de treinta y cinco a cincuenta años de prisión.
 
 (REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)(F. DE E., P.O. 18 DE ENERO DE 2003)
 
@@ -2649,7 +2659,7 @@ Al responsable del delito de violación se le impondrán de cinco a quince años
 
 ###### ARTICULO 207.
 
-Cuando entre el activo y pasivo de la violación exista parentesco por consaguineidad en línea recta o colateral hasta el cuarto grado, por afinidad en primer grado o civil, la pena aplicable será de diez a veinte años de prisión y multa de hasta 200 unidades, si el pasivo es mayor de dieciocho años de edad; se le impondrá de quince a veinticinco años de prisión y multa de hasta 300 unidades, cuando el pasivo tenga entre catorce y menos de dieciocho años de edad; y de veinticinco a treinta y cinco años de prisión y multa hasta 400 unidades en caso que el pasivo tenga menos de 14 años de edad.
+Cuando entre el activo y pasivo de la violación exista parentesco por consanguinidad en línea recta o colateral hasta el cuarto grado, por afinidad en primer grado o civil, la pena aplicable será de diez a veinte años de prisión y multa de hasta 200 unidades, si el pasivo es mayor de dieciocho años de edad; se le impondrá de quince a veinticinco años de prisión y multa de hasta 300 unidades, cuando el pasivo tenga entre catorce y menos de dieciocho años de edad; y de veinticinco a treinta y cinco años de prisión y multa hasta 400 unidades en caso que el pasivo tenga menos de 14 años de edad.
 
 Igual pena se impondrá cuando el delito se cometa por el tutor contra su pupilo o por éste contra aquél; por el padrastro contra el hijastro o viceversa.
 
@@ -2807,9 +2817,11 @@ Los delitos a que se refiere este título se perseguirán por querella.
 
 Cuando el ofendido de la difamación fallezca sin poder presentar la querella, podrán hacerlo sus herederos legítimos.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 224.
 
-Los documentos u objetos que hubieren servido de medio para los delitos de difamación o calumnia se decomisarán e inutilizarán si no tienen un fin lícito. En este caso y tratándose de documentos, se hará en él anotación de extracto de la sentencia.
+Los documentos físicos o electrónicos u objetos que hubieren servido de medio para los delitos de difamación o calumnia se decomisarán e inutilizarán si no tienen un fin lícito. En este caso y tratándose de documentos, se hará en él anotación de extracto de la sentencia.
 
 ###### ARTICULO 225.
 
@@ -2835,7 +2847,7 @@ Si las conductas descritas en este artículo las realiza un servidor público, s
 
 Este delito se perseguirá por querella.
 
-## TITULO I. .............................................................................. 323
+## TITULO I............................................................................... 323
 
 ### CAPITULO II. Dolo, Culpa y Preterintención..................... 324
 
@@ -2855,9 +2867,17 @@ I.- Se realice en lugar cerrado o al que no tenga libre acceso el público;
 
 II.- Cuando se efectúe en lugar en que ordinariamente se conserven caudales o en contra de los custodios de éstos, o transportes de aquéllos;
 
-III.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad, o
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-IV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete un servidor público, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos de seis meses a tres años.
+III.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+IV.- Cuando se trate de expedientes o documentos de protocolo, oficina o archivos públicos, de documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, con afectación de alguna función pública. Si el delito lo comete un servidor público, se le impondrá además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos de seis meses a tres años; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
+
+V.- Cuando se sustraiga información contenida en un expediente o documento electrónico o en una base de datos que se encuentren bajo custodia, resguardo o cuidado de una dependencia pública. Si el delito lo comete un servidor público, se le impondrá, además, destitución e inhabilitación para desempeñar empleos, cargos o comisiones públicos, de seis meses a tres años.
 
 B). Se impondrán de cinco a quince años de prisión, al responsable de robo en cualquiera de las hipótesis siguientes:
 
@@ -2975,7 +2995,7 @@ Si el sujeto activo es empleado o dependiente del ofendido, la pena corporal aum
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2009)</small>
 
-VII.- Al que por algún uso del medio informático, telemático o electrónico alcance un lucro indebido para sÍ o para otro valiéndose de alguna manipulación informática, instrucciones de código, predicción, intercepción de datos de envío, reinyecte datos, use la red de redes montando sitios espejos o de trampa captando información crucial para el empleo no autorizado de datos, suplante identidades, modifique indirectamente mediante programas automatizados, imagen, correo o vulnerabilidad del sistema operativo cualquier archivo principal, secundario y terciario del sistema operativo que afecte la confiabilidad, y variación de la navegación en la red o use artificio semejante para obtener lucro indebido.
+VII.- Al que por algún uso del medio informático, telemático o electrónico alcance un lucro indebido para sí o para otro valiéndose de alguna manipulación informática, instrucciones de código, predicción, intercepción de datos de envío, reinyecte datos, use la red de redes montando sitios espejos o de trampa captando información crucial para el empleo no autorizado de datos, suplante identidades, modifique indirectamente mediante programas automatizados, imagen, correo o vulnerabilidad del sistema operativo cualquier archivo principal, secundario y terciario del sistema operativo que afecte la confiabilidad, y variación de la navegación en la red o use artificio semejante para obtener lucro indebido.
 
 En el supuesto que el activo tenga licenciatura, ingeniería o cualquier otro grado académico reconocido en el rubro de la informática, telemática o sus afines, la pena se aumentará hasta en cuatro años más, y en caso de reincidencia hasta cinco años más de prisión.
 
@@ -3115,7 +3135,7 @@ Se impondrá pena de tres meses a cinco años de prisión y multa de 100 a 15 mi
 
 ###### ARTICULO 247.
 
-En la sentencia que se dicte por los delitos a que se refiere este Capitulo, el juez podrá aplicar adicionalmente como parte de la reparación del daño algunas de las siguientes penas:
+En la sentencia que se dicte por los delitos a que se refiere este Capítulo, el juez podrá aplicar adicionalmente como parte de la reparación del daño algunas de las siguientes penas:
 
 I.- La realización de las acciones necesarias para establecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
 
@@ -3185,7 +3205,7 @@ INDICE:
 
 ### CAPITULO VIII. Prohibición de ir a una Circunscripción. Territorial determinada o de residir en ella......................... 329
 
-### CAPITULO IX. Amonestación .......................................... 329
+### CAPITULO IX. Amonestación.......................................... 329
 
 ### CAPITULO X. Sanciones a las personas morales............ 329
 
@@ -3197,7 +3217,7 @@ INDICE:
 
 ### CAPÍTULO II. Exceso en las causas de licitud.................. 330
 
-### CAPITULO III. Tentativa ................................................... 331
+### CAPITULO III. Tentativa................................................... 331
 
 ### CAPITULO IV. Delitos preterintencionales......................... 331
 
@@ -3223,7 +3243,7 @@ INDICE:
 
 ### CAPITULO V. Indulto........................................................... 333
 
-### CAPITULO VI. Rehabilitación ............................................ 334
+### CAPITULO VI. Rehabilitación............................................ 334
 
 ### CAPITULO I. Conspiración................................................ 334
 
@@ -3323,7 +3343,7 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO III. Lenocinio................................................... 340
 
-### CAPITULO I. Delitos en materia de inhumaciones. y exhumaciones. ................................................................. 340
+### CAPITULO I. Delitos en materia de inhumaciones. y exhumaciones.................................................................. 340
 
 ### CAPITULO II. Delito contra el respeto a los muertos.......... 341
 
@@ -3385,7 +3405,7 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO II. Estupro.......................................................... 346
 
-## TITULO V. Delitos contra la Libertad y Seguridad Sexual. . 345
+## TITULO V. Delitos contra la Libertad y Seguridad Sexual.. 345
 
 ### CAPITULO III. Abusos Deshonestos................................... 346
 
@@ -3405,13 +3425,13 @@ DELITOS CONTRA LAS PERSONAS.
 
 ## TITULO VII. Delitos contra el Patrimonio............................. 347
 
-### CAPITULO III. Fraude ......................................................... 348
+### CAPITULO III. Fraude......................................................... 348
 
 ### CAPITULO IV. Despojo........................................................ 348
 
 ### CAPITULO V. Daños. .......................................................... 348
 
-### CAPITULO VI. Encubrimiento por receptación..................... 348
+### CAPITULO VI. Encubrimiento por receptación...................... 348
 
 Lic. Cuauhtémoc Chávez Ríos Firmado.- Q.F.B. Ma. Haydeé Quiñonez Silva Firmado.- Epigmenio Plascencia Rangel Firmado.- Profr. Juan Mesina Alatorre Firmado.- Miguel Villalobos Cortés Firmado.- Profr. Raúl Alvarez Alcaraz Firmado.- Cecilio Lepe Bautista Firmado.- Ing. José Miguel Castañeda Flores Firmado.- Ignacio Cueva Martínez Firmado.
 
@@ -3538,3 +3558,7 @@ P.O. 26 DE SEPTIEMBRE DE 2009.
 P.O. 24 DE JULIO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
