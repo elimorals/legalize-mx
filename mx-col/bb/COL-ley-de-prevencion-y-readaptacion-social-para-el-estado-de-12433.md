@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "2009-06-13"
+last_updated: "2010-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -147,9 +147,11 @@ XX.- Recibir, autorizar y, en su caso, negar la autorización a las propuestas d
 
 XXI.- Crear el Consejo Técnico Interdisciplinario de la DIRECCION; y
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2002)</small>
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2010)</small>
 
-XXII.- Las demás que se deriven de la presente Ley y otras disposiciones aplicables.
+XXII.- Proporcionar, previa solicitud, constancias de antecedentes no penales, así como de otros documentos, en forma física o electrónica, firmados en forma autógrafa o con la firma electrónica certificada, a las autoridades competentes y particulares legitimados que así lo requieran para el ejercicio de un derecho o cumplimiento de un deber previsto en la ley; y
+
+XXIII.- Las demás que se deriven de la presente Ley y otras disposiciones aplicables.
 
 ### CAPITULO III. DEL SISTEMA PENITENCIARIO DEL ESTADO
 
@@ -788,3 +790,7 @@ P.O. 3 DE MAYO DE 2008.
 P.O. 13 DE JUNIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
