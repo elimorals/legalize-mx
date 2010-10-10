@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-de-baja-california-sur-44518"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-03-20"
-last_updated: "2009-06-10"
+last_updated: "2010-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2010.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -2471,9 +2471,11 @@ Al que se apodere de una cosa mueble ajena, sin consentimiento de quien pueda ot
 
 Para la aplicación de la sanción, se dará por consumado el robo desde que el ladrón tiene en su poder la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 296.
 
-Se aplicará prisión de dos a diez años y hasta de doscientos días de multa, cuando el robo se cometa:
+Se aplicará prisión de cinco a quince años y hasta de quinientos días de multa, sin derecho a fianza, cuando el robo se cometa:
 
 I.- De noche o en lugar despoblado o desprotegido;
 
@@ -2489,9 +2491,13 @@ VI.- Sobre expedientes, libros o documentos existentes en oficinas, bibliotecas 
 
 VII.- En un lugar cerrado;
 
-VIII.- Sobre postes, alambres y otros materiales que sirvan como cercos a las áreas de siembra; y
+VIII.- Sobre postes, alambres y otros materiales que sirvan como cercos a las áreas de siembra; y (sic)
 
-IX.- Sobre tubos, conexiones, tapas de registro, señalamientos o cualquier objeto destinado a un servicio público.
+IX.- Sobre tubos, conexiones, tapas de registro, señalamientos o cualquier objeto destinado a un servicio público;
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2010)</small>
+
+X.- En el interior de instituciones educativas.
 
 ###### ARTÍCULO 297.
 
@@ -2508,6 +2514,10 @@ IV.- En una oficina recaudadora o en perjuicio de cualquier institución que con
 V.- Por dos o más personas con premeditación o asechanza; y
 
 VI.- Respecto de maquinaria, insumos, instrumentos y equipos de labranza o pesca, frutos cosechados o por cosechar o productos que se encuentren en el campo o en el lugar de la explotación pesquera, siempre que el valor de estos últimos exceda de ciento ochenta veces el salario mínimo general vigente en el Estado.
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2010)</small>
+
+VII.- En agravio de bienes utilizados en la prestación de un servicio público Estatal o Municipal.
 
 ###### ARTÍCULO 298.
 
@@ -2954,3 +2964,7 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decret
 B.O. 10 DE JUNIO DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
