@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-1176
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-10"
-last_updated: "2010-07-19"
+last_updated: "2010-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 10 de noviembre de 1996.
 
@@ -335,9 +335,35 @@ En los casos señalados en los Artículos 19 y 23 Bis de la ley de Obras Públic
 
 Para el ejercicio del Gasto Público será indispensable la previa formalización de los pedidos, contratos o cualquier otro acto jurídico o administrativo análogo, en los que se disponga la obligación de efectuar un pago con cargo a los presupuestos aprobados, para tal fin, se procederá conforme a los rangos de delegación de atribuciones y a los requisitos y procedimientos administrativos previstos en la Ley o en otros ordenamientos jurídicos aplicables a los casos en lo particular.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 27.
 
-Los pagos se sujetarán a los requisitos señalados en el Reglamento de la presente Ley.
+Los pagos se sujetarán a los requisitos señalados en esta Ley y el Reglamento de la misma.
+
+Como parte de la modernización y reducción de costos a cargo de las dependencias, entidades y sujetos obligados en términos de esta Ley, los mismos, buscarán incorporarse al Programa de Cadenas Productivas de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, mediante el Convenio de Cadenas Productivas y dar de alta en el mismo, la totalidad de las cuentas por pagar a proveedores por concepto de Gasto Corriente y Gasto de Inversión y/o Capital, ya sea por obra pública, adquisiciones de bienes y servicios o arrendamiento, con el propósito de dar mayor certidumbre, transparencia y eficiencia en los pagos.
+
+Quedan exceptuadas de la incorporación al Programa de Cadenas Productivas señaladas en el párrafo anterior, las Cuentas por pagar de las Dependencias, Entidades y demás sujetos obligados en términos de esta Ley, las siguientes;
+
+I. Los pagos en efectivo o de carácter urgente;
+
+II. Ante la negativa del proveedor de la utilización de este pago;
+
+III. Los que Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo establezca; y
+
+IV. Las demás que se establezcan en las demás leyes o el Reglamento de esta Ley.
+
+Para tal efecto las dependencias, entidades y sujetos obligados en términos de esta Ley, deberán observar lo siguiente:
+
+a. Suscribir el convenio de Cadenas Productivas, apegándose al modelo que para tal efecto difunda Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo;
+
+b. Deberán comunicar a los proveedores o contratistas, a efecto de promover su adhesión a Cadenas Productivas, exponiéndoles los beneficios que obtendrían mediante la cesión de las cuentas por pagar, en coordinación con Nacional Financiera;
+
+c. Las Dependencias y entidades deberán registrar en Cadenas Productivas sus cuentas por pagar sin perjuicio de lo establecido en el presente Artículo; y
+
+d. Los demás requisitos necesarios para operar adecuadamente el programa de Cadenas Productivas.
+
+Es facultad de las dependencias, entidades y sujetos obligados en términos de esta Ley, dentro de este Programa de Cadenas Productivas, de señalar la Institución Bancaria que se adapte a sus necesidades, la cual fungirá como intermediario financiero.
 
 ###### ARTICULO 28.
 
@@ -407,20 +433,6 @@ III.- Situación de la Deuda Pública.
 
 ### CAPITULO VI. De la Evaluación y Control del Gasto Público
 
-###### ARTICULO 36.
-
-La Secretaría, la Contraloría, las Tesorerías, las Unidades o Comisiones respectivas realizarán periódicamente la evaluación del Gasto Público en función de los objetivos y metas de los programas autorizados, que comprenderá el seguimiento de los avances físicos y financieros que vayan presentando periódicamente los programas anuales aprobados, a efecto de medir su grado de cumplimiento.
-
-###### ARTICULO 37.
-
-Internamente, los Sujetos de la Ley, deberán evaluar en forma permanente sus programas, a efecto de cuantificar los objetivos, metas y beneficios alcanzados, mejorar la utilización de los recursos, controlar los avances y desviaciones e instrumentar las medidas correctivas que sean requeridas y racionalicen la aplicación del gasto.
-
-###### ARTICULO 38.
-
-Los titulares de los Sujetos de la Ley tendrán la responsabilidad primaria e indelegable de definir y vigilar las políticas de instrumentación de los sistemas de control que fueren necesarios, tomarán las acciones pertinentes para corregir las deficiencias descubiertas, atenderán los informes que en materia de control y auditoría les sean turnados y promoverán la implantación de las medidas correctivas y disciplinarias a que hubiere lugar.
-
-Los demás servidores públicos serán responsables del adecuado funcionamiento del sistema de control de las operaciones a su cargo.
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 39.
@@ -444,12 +456,6 @@ El conjunto de la documentación contable consistente en libros de contabilidad,
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2003)</small>
 
 De las Responsabilidades
-
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
-
-###### ARTICULO 42.
-
-Los Servidores Públicos sujetos a la presente Ley serán responsables en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, independientemente de las responsabilidades civiles y penales en las que pudieren incurrir.
 
 TRANSITORIOS:
 
@@ -554,3 +560,39 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 11 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de esta reforma se entenderá por:
+
+A. Cadenas Productivas: A los productos y servicios a través del sistema en internet desarrollado (sic) y administrados por Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, con la finalidad de registrar las cuentas por pagar de las dependencias y entidades de la Administración Pública local, consultar información, intercambiar datos, enviar mensajes de datos y realizar operaciones financieras.
+
+B. Intermediario Financiero: Las instituciones bancarias o no bancarias, que puedan realizar operaciones de factoraje o descuento en el Programa de Cadenas Productivas.
+
+C. Proveedores o Contratistas: Las personas que hayan celebrado o celebren pedidos o contratos para el Gasto Corriente o Gasto de Inversión y/o Capital.
+
+D. Convenio de Cadenas Productivas: Instrumento jurídico celebrado con Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, con la finalidad de incorporar al sistema de Cadenas Productivas a los sujetos en términos de esta Ley.
+
+E. Cuentas por pagar: Los derechos de cobro a favor de los proveedores o contratistas de las dependencias o entidades de la Administración Pública, dados de alta en el Programa de Cadenas Productivas.
+
+###### ARTÍCULO TERCERO.
+
+Los plazos para realizar la adhesión al Programa de Cadenas Productivas serán los siguientes:
+
+I. Las dependencias, a más tardar en dos meses posteriores a la publicación del presente Decreto;
+
+II. Las demás entidades estatales o municipales, y los demás sujetos obligados en términos de esta Ley, a más tardar en tres meses posteriores a la publicación del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Todos los sujetos obligados en términos de esta Ley, a más tardar en el plazo de tres meses, con el apoyo de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, promoverán la utilización del Programa de Cadenas Productivas con los proveedores del sector público.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas de Gobierno del Estado, emitirá, a más tardar en el término de dos meses, las disposiciones generales para dar cumplimiento a lo dispuesto en esta reforma.
