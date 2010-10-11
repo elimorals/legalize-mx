@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2010-07-19"
+last_updated: "2010-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -1957,7 +1957,9 @@ Las infracciones a las normas contenidas en el Bando de Policía y Gobierno o re
 
 I. Amonestación;
 
-II. Multa por el equivalente de cinco días a cinco mil días de salario mínimo general vigente en el Estado en el momento de imponer la sanción, misma que se impondrá tomando en consideración las condiciones económicas del infractor y la gravedad del hecho, sin perjuicio de que otras disposiciones legales dispongan otro tipo de sanciones y montos;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2010)</small>
+
+II. Multa por el equivalente de un día a cinco mil días de salario mínimo general vigente en el Estado en el momento de imponer la sanción, misma que se impondrá tomando en consideración las condiciones económicas del infractor y la gravedad del hecho, sin perjuicio de que otras disposiciones legales dispongan otro tipo de sanciones y montos;
 
 III. Suspensión temporal o cancelación del permiso o licencia según el caso;
 
@@ -1967,27 +1969,31 @@ V. Arresto hasta por treinta y seis horas, en términos del artículo 21 de la C
 
 VI. Pago al erario municipal del daño causado, sin perjuicio de las demás sanciones que procedan.
 
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2010)</small>
 
-Las sanciones establecidas en las Fracciones II y V del presente Artículo podrán ser conmutadas voluntariamente por el infractor por servicio comunitario el cual deberá ser en el mismo número de horas que el arresto impuesto por el juez calificador.
+Las sanciones establecidas en las Fracciones II y V del presente Artículo podrán ser conmutadas voluntariamente por el infractor por servicio comunitario siempre que acredite inequívocamente su identidad y domicilio; dicho servicio deberá ser por el mismo número de horas que el arresto impuesto; invariablemente, la autoridad municipal competente determinará la procedencia de la solicitud de conmutación, señalando los días, horas y lugares en que deba realizarse el servicio, los cuales no deberán coincidir con el horario laboral del infractor y sólo hasta la ejecución del mismo cancelará la sanción.
 
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 179 Bis.
+Artículo 179 BIS.- Para efectos del último párrafo del Artículo que antecede se consideran servicios comunitarios, la prestación voluntaria y gratuita de las siguientes actividades:
 
-Para efectos del último párrafo del Artículo que antecede se consideran servicios comunitarios, la prestación voluntaria y gratuita de las siguientes actividades:
+I. Limpieza, pintura o restauración de los bienes dañados por el infractor, así como muebles o inmuebles del Municipio o de asociaciones privadas de asistencia no lucrativas;
 
-I. Limpieza, pintura o restauración de los bienes dañados por el infractor o de inmuebles públicos propiedad del Municipio;
+II. Realización de obras de limpieza, balizamiento, reforestación jardinería u ornato en lugares de uso común;
 
-II. Realización de obras de limpieza o jardinería en lugares de uso común; y
+III. Pláticas en beneficio de la comunidad, mismas que pueden ser relacionadas con el oficio o profesión que realice el infractor o en su caso que sean destinadas al bienestar social; y
 
-III. Pláticas en beneficio de la comunidad, mismas que pueden ser relacionadas con el oficio o profesión que realice el infractor o en su caso que sean destinadas al bienestar social.
+IV. Prestar personalmente a la comunidad un servicio gratuito que esté relacionado con el oficio o profesión que realice el infractor;
 
-La ejecución de los servicios comunitarios serán realizados en términos del Reglamento que al efecto emitan los Ayuntamientos del Estado.
+Si el infractor no realiza los servicios comunitarios, la autoridad municipal competente emitirá en su contra una orden de presentación, dejará sin efecto la conmutación, y le aplicará el arresto o multa que se le había impuesto. Si realizó parcialmente el servicio comunitario, únicamente se le podrá aplicar el arresto o multa de forma proporcional a la parte que dejo de cumplir.
+
+La ejecución de los servicios comunitarios será realizada en términos del Reglamento que el efecto emitan los Ayuntamientos del Estado.
+
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 180.
 
-El procedimiento para la imposición de las sanciones señaladas en el artículo anterior, se seguirá ante la autoridad municipal competente para conocer del asunto, dando siempre oportunidad al infractor para que pruebe y alegue lo que a su derecho convenga.
+El procedimiento para la imposición de las sanciones señaladas en el Artículo 179 se seguirá ante la autoridad municipal competente para conocer del asunto, dando siempre oportunidad al infractor para que pruebe y alegue lo que a su derecho convenga, e informándole en su caso, la posibilidad de conmutar voluntariamente la sanción aplicable por servicio comunitario.
 
 ## TRANSITORIOS
 
@@ -2096,3 +2102,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 11 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
