@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2009-10-15"
+last_updated: "2010-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 15 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 11 DE OCTUBRE DE 2010.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -63,7 +63,7 @@ La capacidad jurídica es igual para el hombre y la mujer; en consecuencia, la m
 
 Las leyes, decretos, reglamentos, circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos tres días después de su publicación en el Periódico Oficial.
 
-En los lugares distintos del en que se publique el Periódico Oficial, para que las leyes, decretos, reglamentos, etc., se reputen publicados y sean obligatorios, se necesita que, además del plazo que fija el párrafo anterior, transcurra un día mas por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
+En los lugares distintos del en que se publique el Periódico Oficial, para que las leyes, decretos, reglamentos, etc., se reputen publicados y sean obligatorios, se necesita que, además del plazo que fija el párrafo anterior, transcurra un día más por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
 
 ###### Art. 5º.
 
@@ -659,7 +659,7 @@ II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el
 
 III.- De los militares en servicio activo, el lugar en que están destinados;
 
-IV.- De los empleados públicos, el lugar donde desempeñan sus funciones por mas de seis meses. Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar en donde la cumplen, sino que conservarán su domicilio anterior;
+IV.- De los empleados públicos, el lugar donde desempeñan sus funciones por más de seis meses. Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio en el lugar en donde la cumplen, sino que conservarán su domicilio anterior;
 
 V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 
@@ -5821,7 +5821,7 @@ Los bienes son muebles por su naturaleza, por disposición de la ley o por antic
 
 ###### Art. 919.
 
-Son muebles por su naturaleza, los cuerpos que pueden transladarse de un lugar a otro, ya se muevan por sí mismos, ya por efecto de una fuerza exterior.
+Son muebles por su naturaleza, los cuerpos que pueden transladarse (sic) de un lugar a otro, ya se muevan por sí mismos, ya por efecto de una fuerza exterior.
 
 ###### Art. 920.
 
@@ -5999,7 +5999,7 @@ El que tuviere noticia de la existencia de inmuebles abandonados, deberá denunc
 
 ###### Art. 957.
 
-El Ministerio Público después de investigar si en el caso se cumplen los requisitos del artículo 952, deducirá ante el juez competente, según el valor de los bienes, la acción correspondiente en juicio sumario, a fin de que declarados por el juez como bienes abandonados, prevenga al demandado para que dentro del termino de un año ponga en estado de producción los bienes mencionados, apercibido de que de no hacerlo concederá la posesión conjuntamente al Municipio del lugar y al denunciante, quien se tendrá como tercero coadyuvante.
+El Ministerio Público después de investigar si en el caso se cumplen los requisitos del artículo 952, deducirá ante el juez competente, según el valor de los bienes, la acción correspondiente en juicio sumario, a fin de que declarados por el juez como bienes abandonados, prevenga al demandado para que dentro del término de un año ponga en estado de producción los bienes mencionados, apercibido de que de no hacerlo concederá la posesión conjuntamente al Municipio del lugar y al denunciante, quien se tendrá como tercero coadyuvante.
 
 Cualquier corporación pública o privada puede hacer también la denuncia.
 
@@ -7149,7 +7149,7 @@ El usufructuario de árboles frutales está obligado a la replantación de los p
 
 ###### Art. 1187.
 
-Si el usufructo se ha constituído, a título gratuito, el usufructuario está obligado ha hacer las reparaciones indispensables para mantener la cosa en el estado en que se encontraba cuando la recibió.
+Si el usufructo se ha constituído, a título gratuito, el usufructuario está obligado a hacer las reparaciones indispensables para mantener la cosa en el estado en que se encontraba cuando la recibió.
 
 ###### Art. 1188.
 
@@ -7805,7 +7805,7 @@ Prescripción es un medio de adquirir bienes o derechos, o de perder estos últi
 
 ###### Art. 1307.
 
-Se llama prescripción positiva la forma de adquirir bienes o derechos mediante la posesión en concepto de dueño o de titular de un derecho real, ejercida en forma pacifica, continua, pública y cierta, por el tiempo que fije la ley. Tratándose de derechos reales de garantía, no se podrán adquirir por prescripción.
+Se llama prescripción positiva la forma de adquirir bienes o derechos mediante la posesión en concepto de dueño o de titular de un derecho real, ejercida en forma pacífica, continua, pública y cierta, por el tiempo que fije la ley. Tratándose de derechos reales de garantía, no se podrán adquirir por prescripción.
 
 Se llama prescripción negativa la forma de liberarse de obligaciones, por no exigirse su cumplimiento, o de perder derechos reales por no ejercitarse, dentro del término que la ley fije en cada caso o por disposiciones generales.
 
@@ -7887,17 +7887,17 @@ V.- Cierta.
 
 Los bienes inmuebles y los derechos reales sobre inmuebles, susceptibles de prescripción positiva, se adquieren con los requisitos mencionados;
 
-I.- En cinco años, cuando se poseen en concepto de dueño o de titular del derecho real, con buena fe, y de manera pacifica, continua, cierta y pública;
+I.- En cinco años, cuando se poseen en concepto de dueño o de titular del derecho real, con buena fe, y de manera pacífica, continua, cierta y pública;
 
 II.- En cinco años, cuando los inmuebles o derechos reales hayan sido objeto de una inscripción de posesión;
 
-III.- En diez años, cuando se posean de mala fe, si la posesión es en concepto de propietario o de titular del derecho y se ejerce en forma pacifica, continua, pública y de manera cierta;
+III.- En diez años, cuando se posean de mala fe, si la posesión es en concepto de propietario o de titular del derecho y se ejerce en forma pacífica, continua, pública y de manera cierta;
 
 IV.- Se aumentará en una tercera parte el tiempo señalado en las fracciones I y III, si se demuestra, por quien tenga interés jurídico en ello, que el poseedor de finca rústica no la ha cultivado durante más de tres años, o que por no haber hecho el poseedor de finca urbana las reparaciones necesarias, ésta ha permanecido deshabitada la mayor parte del tiempo que ha estado en su poder.
 
 ###### Art. 1324.
 
-Los bienes muebles y los derechos reales susceptibles de prescripción positiva, se adquieren en tres años cuando son poseídos en concepto de dueño o de titular del derecho, con buena fe, y de manera pacifica, continua, pública y cierta. Faltando la buena fe se prescribirán en cinco años.
+Los bienes muebles y los derechos reales susceptibles de prescripción positiva, se adquieren en tres años cuando son poseídos en concepto de dueño o de titular del derecho, con buena fe, y de manera pacífica, continua, pública y cierta. Faltando la buena fe se prescribirán en cinco años.
 
 ###### Art. 1325.
 
@@ -9215,7 +9215,7 @@ VII.- Los que hayan sido condenados por el delito de falsedad.
 
 ###### Art. 1579.
 
-Cuando el testador ignore el idioma del país, un interprete nombrado por el mismo testador, concurrirá al acto y firmará el testamento.
+Cuando el testador ignore el idioma del país, un intérprete nombrado por el mismo testador, concurrirá al acto y firmará el testamento.
 
 ###### Art. 1580.
 
@@ -9469,7 +9469,7 @@ Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su c�
 
 > <small>(ADICIONADO, B.O. 6 DE JULIO DE 1995)</small>
 
-En los supuestos a que se refiere este artículo no se aplicará los dispuesto por el artículo 1371 de este Código.
+En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1371 de este Código.
 
 > <small>(ADICIONADA, B.O. 6 DE JULIO DE 1995)</small>
 
@@ -10295,7 +10295,7 @@ II.- El aseguramiento de los bienes de la herencia;
 
 III.- La formación de inventarios;
 
-IV.- La administración de los bienes y la rendición de las cuentas del albacezgo;
+IV.- La administración de los bienes y la rendición de las cuentas del albaceazgo;
 
 V.- El pago de las deudas mortuorias, hereditarias y testamentarias;
 
@@ -10487,7 +10487,7 @@ El testador puede señalar al albacea la retribución que quiera, sin perjuicio 
 
 ###### Art. 1827.
 
-Si el testador no designare la retribución, el albacea cobrará el dos por ciento sobre el importe liquido y efectivo de la herencia, y el cinco por ciento sobre los frutos industriales de los bienes hereditarios.
+Si el testador no designare la retribución, el albacea cobrará el dos por ciento sobre el importe líquido y efectivo de la herencia, y el cinco por ciento sobre los frutos industriales de los bienes hereditarios.
 
 ###### Art. 1828.
 
@@ -10889,7 +10889,7 @@ El autor de la herencia puede disponer por testamento, o mediante escrito firmad
 
 En defecto de disposiciones expresas del testador o autor de la herencia se observarán las reglas siguientes:
 
-I.- Es carga de la masa hereditaria la sepultura del causante en la tumba de su familia, y en defecto de ésta, en el sepulcro que se construirá según la circunstancias y las capacidades de la herencia, determinando el juez lo conducente en el caso de desacuerdo entre los herederos o legatarios en su caso;
+I.- Es carga de la masa hereditaria la sepultura del causante en la tumba de su familia, y en defecto de ésta, en el sepulcro que se construirá según las circunstancias y las capacidades de la herencia, determinando el juez lo conducente en el caso de desacuerdo entre los herederos o legatarios en su caso;
 
 II.- El sepulcro que se haga, o que ya exista a la muerte del causante, no podrá ser objeto de enajenación o cesión, por título oneroso o gratuito;
 
@@ -10941,7 +10941,7 @@ Cuando el acreedor exija el cumplimiento de la obligación, puede demandar tambi
 
 Obligación personal es la que solamente liga a quien la contrae y a sus herederos. Estos últimos sólo quedarán obligados en los casos en que la relación jurídica sea trasmisible por herencia.
 
-Obligación real es la que afecta a un sujeto en su calidad de propietario o poseedor de una cosa en tanto tenga tal carácter y se constituye en favor de aquel que tenga un derecho real sobre el mismo bien, a efecto de que pueda ejercer su facultad en todo la extensión y grado que la ley establezca. Esta obligación pasa al nuevo adquirente o poseedor del bien, siguiendo a éste y obrando en consecuencia, en contra de aquél que lo tenga a título de poseedor originario.
+Obligación real es la que afecta a un sujeto en su calidad de propietario o poseedor de una cosa en tanto tenga tal carácter y se constituye en favor de aquel que tenga un derecho real sobre el mismo bien, a efecto de que pueda ejercer su facultad en todo (sic) la extensión y grado que la ley establezca. Esta obligación pasa al nuevo adquirente o poseedor del bien, siguiendo a éste y obrando en consecuencia, en contra de aquél que lo tenga a título de poseedor originario.
 
 Las obligaciones reales se extinguen por el abandono de la cosa en poder del sujeto que sobre de ella tenga un derecho real.
 
@@ -11407,7 +11407,7 @@ Cuando la oferta se refiera a la celebración de un contrato, deberán indicarse
 
 ###### Art. 2003.
 
-Cuando la oferta libre a persona indeterminada se haga del conocimiento público, por cualquier medio de publicidad, el escrito que la contenga, deberá depositarse en las oficinas de la empresa publicitaria, debidamente firmado por el operente, y si no puede o sabe hacerlo, lo hará otro a su ruego y en el documento se imprimirá su huella digital. La falta de tal escrito hace nacer una responsabilidad solidaria entre el oferente y la empresa publicitaria, a favor del aceptante.
+Cuando la oferta libre a persona indeterminada se haga del conocimiento público, por cualquier medio de publicidad, el escrito que la contenga, deberá depositarse en las oficinas de la empresa publicitaria, debidamente firmado por el operente (sic), y si no puede o sabe hacerlo, lo hará otro a su ruego y en el documento se imprimirá su huella digital. La falta de tal escrito hace nacer una responsabilidad solidaria entre el oferente y la empresa publicitaria, a favor del aceptante.
 
 ###### Art. 2004.
 
@@ -11511,7 +11511,7 @@ En los concursos en que haya promesa de recompensa para los que llenaren ciertas
 
 ###### Art. 2026.
 
-El promitente tiene derecho de designar la persona que deba decidir a quien o a quienes de los concursantes se otorga la recompensa.
+El promitente tiene derecho de designar la persona que deba decidir a quién o a quienes de los concursantes se otorga la recompensa.
 
 ###### Art. 2027.
 
@@ -11545,7 +11545,7 @@ El derecho de crédito consignado en los documentos a que se refiere el artícul
 
 ###### Art. 2034.
 
-El endoso a que se refiere el precepto anterior simplemente expresará la voluntad de ceder el crédito, empleando cualquier formula; pero deberá hacerse constar en el mismo documento y expresar el lugar y fecha en que se haga, el nombre del cesionario y la firma de éste. Para ejercitar los derechos derivados del mismo, deberán llenarse por el cesionario los requisitos antes mencionados.
+El endoso a que se refiere el precepto anterior simplemente expresará la voluntad de ceder el crédito, empleando cualquier fórmula; pero deberá hacerse constar en el mismo documento y expresar el lugar y fecha en que se haga, el nombre del cesionario y la firma de éste. Para ejercitar los derechos derivados del mismo, deberán llenarse por el cesionario los requisitos antes mencionados.
 
 ###### Art. 2035.
 
@@ -13105,7 +13105,7 @@ VII.- Si la evicción tuvo lugar por culpa del adquirente.
 
 ###### Art. 2320.
 
-En las ventas hecha en remate judicial, el vendedor no está obligado por causa de la evicción que sufriera la cosa vendida, sino a restituir el precio que haya producido la venta.
+En las ventas hechas en remate judicial, el vendedor no está obligado por causa de la evicción que sufriera la cosa vendida, sino a restituir el precio que haya producido la venta.
 
 ###### Art. 2321.
 
@@ -13165,7 +13165,7 @@ En caso de enajenación de animales, ya sea que se enajenen individualmente, por
 
 ###### Art. 2335.
 
-La calificación de los vicios de la cosa enajenada se hará por peritos nombrados por las partes, y por un tercero que eligirá el juez en caso de discordia.
+La calificación de los vicios de la cosa enajenada se hará por peritos nombrados por las partes, y por un tercero que elegirá el juez en caso de discordia.
 
 ###### Art. 2336.
 
@@ -13567,7 +13567,7 @@ Una vez hecha la declaración unilateral a que se refiere el artículo anterior,
 
 ###### Art. 2420.
 
-Es judicial la compensación cuando faltando alguno de lo requisitos de la legal, la pronuncia el juez acogiendo la excepción o reconvención que contra la demanda del actor oponga el demandado.
+Es judicial la compensación cuando faltando alguno de los requisitos de la legal, la pronuncia el juez acogiendo la excepción o reconvención que contra la demanda del actor oponga el demandado.
 
 ###### Art. 2421.
 
@@ -14999,7 +14999,7 @@ El arrendatario es responsable del incendio, a no ser que provenga de caso fortu
 
 ###### Art. 2706.
 
-El arrendatario no responde del incendio que se haya comunicado de otra parte, si tomó las precauciones necesarias para evitar que el fuego de propagara.
+El arrendatario no responde del incendio que se haya comunicado de otra parte, si tomó las precauciones necesarias para evitar que el fuego se propagara.
 
 ###### Art. 2707.
 
@@ -16071,11 +16071,11 @@ Una vez pagado y recibido el precio, no hay lugar a reclamación sobre él, a me
 
 ###### Art. 2914.
 
-El que se obligue ha hacer una obra por ajuste cerrado, debe comenzar y concluir en los términos designados en el contrato, y en caso contrario, en los que sean suficientes, a juicio de peritos.
+El que se obligue a hacer una obra por ajuste cerrado, debe comenzar y concluir en los términos designados en el contrato, y en caso contrario, en los que sean suficientes, a juicio de peritos.
 
 ###### Art. 2915.
 
-El que se obligue ha hacer una obra por piezas o por medida, puede exigir que el dueño la reciba en partes y se la pague en proporción de las que reciba.
+El que se obligue a hacer una obra por piezas o por medida, puede exigir que el dueño la reciba en partes y se la pague en proporción de las que reciba.
 
 ###### Art. 2916.
 
@@ -16815,7 +16815,7 @@ El que hubiere firmado una obligación que en realidad tenía por causa una deud
 
 ###### Art. 3058.
 
-Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscritor debe pagarla al portador de buena fe, pero tendrá el derecho que le concede el artículo 3053.
+Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscritor (sic) debe pagarla al portador de buena fe, pero tendrá el derecho que le concede el artículo 3053.
 
 ###### Art. 3059.
 
@@ -17741,7 +17741,7 @@ El tercero constituyente de la garantía podrá oponer al acreedor todas las exc
 
 ###### Art. 3247.
 
-Cuando sea el deudor el mismo constituyente de la prenda, podrá oponer además de la excepciones indicadas, las que le sean personales.
+Cuando sea el deudor el mismo constituyente de la prenda, podrá oponer además de las excepciones indicadas, las que le sean personales.
 
 ###### Art. 3248.
 
@@ -17945,7 +17945,7 @@ Sólo puede hipotecar el que pueda enajenar, y solamente pueden ser hipotecados 
 
 ###### Art. 3285.
 
-Si el inmueble hipotecado se hiciere, con o sin culpa del deudor, insuficiente para la seguridad de la deuda, podrá el acreedor exigir que se mejore la hipoteca hasta que ha juicio de peritos garantice debidamente la obligación principal.
+Si el inmueble hipotecado se hiciere, con o sin culpa del deudor, insuficiente para la seguridad de la deuda, podrá el acreedor exigir que se mejore la hipoteca hasta que a juicio de peritos garantice debidamente la obligación principal.
 
 En el caso del artículo anterior, se sujetará a juicio de peritos las circunstancias de haber disminuido el valor de la finca hipotecada hasta hacerla insuficiente para responder de la obligación principal.
 
@@ -19325,9 +19325,11 @@ Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 B.O. 15 DE OCTUBRE DE 2009.
 
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Código entrará en vigor a los 365 días después de su publicación en el Boletín Oficial del Gobierno del Estado, con el objeto de que durante dicho plazo pueda ser aprobada la legislación procesal necesaria para una adecuada implementación de las disposiciones de este Código.
+El presente Código entrará en vigor el día 01 de enero del 2011, previa su publicación en el Boletín Oficial del Gobierno del Estado. En dicho lapso, el Poder Legislativo deberá aprobar la legislación procesal respectiva, estableciendo para el efecto en el decreto de aprobación, su fecha específica de entrada en vigor.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -19338,3 +19340,9 @@ Al entrar en vigor el presente Código, se derogan los siguientes artículos del
 ###### ARTÍCULO TERCERO.
 
 Los juicios que se encuentren en trámite a la entrada en vigor de este Código, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio.
+
+B.O. 11 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
