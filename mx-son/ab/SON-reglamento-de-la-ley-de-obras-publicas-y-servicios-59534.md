@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-de-obras-publicas-y-servicios-59534"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-28"
-last_updated: "2008-01-28"
+last_updated: "2010-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 28 de enero de 2008.
 
@@ -1217,13 +1217,13 @@ Cuando se realicen conceptos de trabajo al amparo de convenios en monto o plazo,
 
 En tales casos los conceptos contenidos en el contrato y los emitidos en cada uno de los convenios, pueden ir en la misma estimación, distinguiéndolos unos de otros, anexando la documentación que los soporte para efectos de pago.
 
+> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 102.
 
-Cuando la modificación implique aumento o reducción por una diferencia superior al veinticinco por ciento del importe original del contrato o del plazo de ejecución, la dependencia o entidad junto con el contratista, deberán revisar los indirectos y el financiamiento originalmente pactados y determinar la procedencia de ajustarlos a las nuevas condiciones en caso de que éstas se presenten.
+En términos del artículo 74 de la Ley, la convocante podrá, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones plenamente fundadas, justificadas y explícitas, modificar los contratos de obras o de servicios, mediante la celebración de convenios adicionales, siempre y cuando éstos considerados conjunta o separadamente, no rebasen el veinticinco por ciento ni del monto, ni del plazo pactado en los contratos originales, no impliquen variaciones sustanciales a los proyectos relativos, ni se celebren para eludir de alguna manera el cumplimiento de la Ley o de los tratados.
 
-Los ajustes de ser procedentes deberán constar por escrito y, una vez autorizados los incrementos o reducciones que resulten, se aplicarán a las estimaciones en que se generen o hayan generado.
-
-Si las modificaciones implican un excedente de entre el veinticinco y el cincuenta por ciento del monto y del plazo pactado en los contratos originales, siempre que dicho excedente se encuentre debidamente justificado mediante dictamen del técnico responsable de la obra y aprobado de manera escrita por parte del titular de la convocante, se podrá celebrar, por una sola vez, un convenio adicional entre las partes respecto de las nuevas condiciones, para lo cual será necesario que:
+Los convenios adicionales donde se prevean las modificaciones a que se refiere la presente disposición deberán contener los requisitos a que se refiere el artículo 110 del presente reglamento, siendo además necesario que:
 
 I.- Se cuente con los estudios y proyectos, las normas y especificaciones de construcción, el presupuesto, el programa de ejecución y, en su caso, el programa de suministro; para servicios, los términos de referencia; y
 
@@ -2446,3 +2446,9 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUIBAL ASTIAZARÁN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 11 DE OCTUBRE DE 2010.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
