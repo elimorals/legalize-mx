@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-ingreso-promocion-y-permanencia-del-personal-4663
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-10"
-last_updated: "2005-10-10"
+last_updated: "2010-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE INGRESO, PROMOCION Y PERMANENCIA DEL PERSONAL ACADEMICO DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO DE INGRESO, PROMOCION Y PERMANENCIA DEL PERSONAL ACADEMICO DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO, PUBLICADO EN EL G.O. 11 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el lunes 10 de octubre de 2005.
 
@@ -638,3 +640,17 @@ Ing. Rogelio Kuri González
 Rector de la Universidad Tecnológica del Sur del Estado de México
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 11 DE OCTUBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las disposiciones relativas al Titulo Cuarto "de la promoción" y Titulo Sexto 'procedimiento para acceder a la permanencia académica", podrán aplicarse por la Universidad, siempre y cuando existan las condiciones presupuestales y de matricula que exigen las Políticas para la Operación del Modelo Educativo de Universidades Tecnológicas.
+
+CUARTO.- La Comisión Dictaminadora deberá ser integrada por el Rector de la Universidad, dentro de los treinta días posteriores a la entrada en vigor del presente Reglamento.
+
+QUINTO.- Se abroga el Reglamento de Ingreso, Evaluación y Permanencia del Personal Académico, aprobado mediante acuerdo número 045-006 de la cuadragésima quinta sesión ordinaria del Consejo Directivo, celebrada en fecha veintisiete de julio del año dos mil cinco.
