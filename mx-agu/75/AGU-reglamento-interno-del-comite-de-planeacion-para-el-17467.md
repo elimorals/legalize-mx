@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interno-del-comite-de-planeacion-para-el-17467"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-18"
-last_updated: "2000-09-18"
+last_updated: "2010-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO INTERNO DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE PLANEACION DEL DESARROLLO ESTATAL Y REGIONAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 11 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de septiembre de 2000.
 
@@ -407,3 +409,19 @@ Secretario General de Gobierno.
 Ing. Manuel I. Fierro Evans,
 
 Coordinador General del Comité de Planeación para el Desarrollo del Estado de Aguascalientes.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno del Comité de Planeación para el Desarrollo del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de fecha 18 de septiembre de 2000.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
