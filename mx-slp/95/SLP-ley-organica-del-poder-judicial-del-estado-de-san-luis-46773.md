@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2009-08-27"
+last_updated: "2010-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -65,7 +65,7 @@ El procedimiento contempla desde luego, la garantía de audiencia del magistrado
 
 - FORTALECER Y EFICIENTAR AL PODER JUDICIAL. Para ello se redistribuyen las funciones administrativas que antes de esta reforma, correspondían al Pleno del Tribunal o a los magistrados en lo particular, y que ahora se establecen como propias del Consejo de la Judicatura, para permitir que los magistrados puedan avocarse de manera completa al ejercicio de la función propiamente jurisdiccional; asimismo, se da competencia a las salas para dictar jurisprudencia y al Pleno para resolver la contradicción de tesis entre la que dicten las mismas.
 
-- EL PERFECCIONAMIENTO DE LA CARRERA JUDICIAL. De la adecuada selección y capacitación de los servidores públicos del Poder Judicial, depende en gran parte la eficiencia en el cumplimiento del principio de justicia pronta y expedita que deben impartir los tribunales; por ello, se consignan los procedimientos que actualmente operan en esta materia, tales como los exámenes de aptitud y de oposición, para eficientar y en todo caso cuidad la aplicabilidad del escalafón y de los demás criterios (sic) rigen para la promoción de personal en los diversos cargos..
+- EL PERFECCIONAMIENTO DE LA CARRERA JUDICIAL. De la adecuada selección y capacitación de los servidores públicos del Poder Judicial, depende en gran parte la eficiencia en el cumplimiento del principio de justicia pronta y expedita que deben impartir los tribunales; por ello, se consignan los procedimientos que actualmente operan en esta materia, tales como los exámenes de aptitud y de oposición, para eficientar y en todo caso cuidad la aplicabilidad del escalafón y de los demás criterios (sic) rigen para la promoción de personal en los diversos cargos.
 
 Además de lo anterior, destacan en esta Ley respecto a la que se abroga, las siguientes modificaciones:
 
@@ -179,7 +179,7 @@ El haber por retiro a que se refiere el artículo 97 de la Constitución Políti
 
 I. No haya sido ratificado en el cargo;
 
-II. Se retire del desempeño del cargo por haber cumplido quince años en el mismo; o
+II. Se retire del desempeño del cargo por haber cumplido quince años en el mismo, o
 
 III. Padezca incapacidad física o mental permanente para el desempeño de su cargo.
 
@@ -643,13 +643,13 @@ VIII. En general de todas las cuestiones familiares que reclamen la intervenció
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
-ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia para menores, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, o aquellos que en el momento de la comisión de la conducta atribuida hayan sido menores.
+ARTICULO 53 BIS. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces especializados en justicia para menores, conocerán, tramitarán y resolverán los asuntos que atribuyen conductas tipificadas como delito en las leyes, a las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad, o aquélas (sic) que en el momento de la comisión de la conducta atribuida hayan sido menores.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ARTICULO 53 TER. Además de las atribuciones ya establecidas para los jueces de primera instancia, los jueces de ejecución, tendrán las siguientes:
 
-I. Dar seguimiento a las medidas impuestas por el Juez Especializado en Justicia para Menores, y el orden en que deben ser considerados;
+I. Dar seguimiento a las medidas impuestas por el Juez Especializado en Justicia para Menores, y el orden en que deben ser consideradas;
 
 II. Resolver sobre la modificación, sustitución o adecuación de la medida impuesta a los menores, por parte de los jueces especializados en justicia para menores;
 
@@ -967,7 +967,9 @@ Cuando el Pleno del Consejo de la Judicatura estime que sus reglamentos, acuerdo
 
 Son atribuciones del Pleno del Consejo de la Judicatura:
 
-I. Formular anualmente el presupuesto de egresos del Poder Judicial, en los términos del artículo 92, párrafo segundo de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+I. Formular anualmente, con la aprobación del Supremo Tribunal de Justicia, el presupuesto de egresos del Poder Judicial, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, en los términos del artículo 92 segundo párrafo de la Constitución Política del Estado;
 
 II. Ejercer el presupuesto de egresos del Poder Judicial del Estado;
 
@@ -1947,7 +1949,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La situación jurí dica (sic) de las personas que se encuentren compurgando una pena de prisión, por haber cometido un delito siendo menores de dieciocho años de edad, será resuelta sobre la base de las reformas al artí culo (sic) 18 de la Constitución Polí tica (sic) de los Estados Unidos Mexicanos, de la siguiente manera:
 
-El Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez Especializado para que resuelva lo procedente.
+El Juez Penal que conoció de la causa, remitirá el expediente correspondiente al Juez de Ejecución para que resuelva lo procedente.
 
 CUARTO. El Juez o la Sala Penal que estén conociendo del proceso seguido en contra de personas menores de dieciocho años, por haber cometido un delito previsto por las leyes locales, o que lo cometieron cuando eran menores de dieciocho años, se declarará incompetente y enviará los autos al Juez Especializado, quien resolverá conforme al procedimiento establecido en la Ley de Justicia para Menores del Estado de San Luis Potosí.
 
@@ -1990,3 +1992,11 @@ TERCERO. El Gobernador del Estado, en el ámbito de su competencia, deberá real
 CUARTO. El Pleno del Tribunal Superior de Justicia del Estado, propondrá al Consejo de la Judicatura del Poder Judicial del Estado, la reasignación a los juzgados civiles y mixtos en el Estado, para el conocimiento y substanciación de los procedimientos en materia de extinción de dominio.
 
 QUINTO. El Consejo de la Judicatura del Poder Judicial del Estado, en el ámbito de su competencia, deberá realizar las modificaciones jurídico-administrativas necesarias para el adecuado funcionamiento de este Decreto, en un término de sesenta días siguientes a la publicación del mismo.
+
+P.O. 12 DE OCTUBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en la ley de la materia, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año dos mil once.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
