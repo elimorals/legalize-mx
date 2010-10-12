@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-coordinacion-general-del-comite-79787"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-16"
-last_updated: "2009-12-16"
+last_updated: "2010-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA COORDINACION GENERAL DEL COMITE ESTATAL DE PLANEACION PARA EL DESARROLLO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2009.
 
@@ -127,7 +127,15 @@ c) Unidad de Operación n (sic) Sierra Norte-Sur-Valles Centrales;
 
 X. Dirección de Atención Social;
 
-XI. Dirección de Programas Sociales;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XI. Dirección de Unidades Móviles:
+
+a) Unidad de Control a Unidades Móviles Región Norte;
+
+b) Unidad de Control a Unidades Móviles Región Centro;
+
+c) Unidad de Control a Unidades Móviles Región Sur;
 
 Además de las áreas previstas en la estructura organizacional autorizada, la Coordinación contará con el personal técnico y administrativo necesario para la eficaz atención y desempeño de sus atribuciones de conformidad con el presupuesto autorizado.
 
@@ -819,35 +827,79 @@ VII. Mantener permanentemente informado al Subcoordinador de Política Social, r
 
 VIII. Las demás que le señalen otros ordenamientos jurídicos aplicables o reglamentarios, así como las que el Coordinador General y el Subcoordinador de Política Social le encomiende.
 
-### CAPÍTULO VIGÉSIMO PRIMERO. DE LA DIRECCIÓN DE PROGRAMAS SOCIALES
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO VIGÉSIMO PRIMERO. DE LA DIRECCIÓN DE UNIDADES MÓVILES
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 44.
 
-Al frente de la Dirección de Programas Sociales habrá un Director, quien tendrá las siguientes atribuciones:
+Al frente de la Dirección de Unidades Móviles habrá un Director a quien corresponderá el ejercicio de las siguientes atribuciones:
 
-I. Difundir entre las Dependencias y Entidades la orientación de las políticas sociales, a través de talleres de capacitación y reuniones de trabajo, con el propósito de incidir en los alcances de los programas;
+I. Dirigir y coordinar la organización y operación de las Unidades Móviles, enfocados al desarrollo y bienestar de los sectores más desprotegidos y vulnerables de la población;
 
-II. Integrar la propuesta de inversión para programas sociales, captando y priorizando los requerimientos de las dependencias y entidades, para gestionar su incorporación al Programa Anual de Inversión Pública;
+II. Convenir y formular de manera integral y coordinada con las instituciones participantes el paquete básico de servicios públicos que se ofertará a la población;
 
-III. Establecer los mecanismos e instrumentos para llevar a cabo el monitoreo de los programas sociales y acciones de fomento implementados por las Dependencias y Entidades;
+III. Coordinar las acciones o estrategias para acercar y promover el paquete de servicios básicos de salud, identidad jurídica, asistencia social, educación, orientación productiva y demás encaminados a combatir los rezagos en materia de pobreza y marginación entre la población;
 
-IV. Elaborar informes que permitan valorar la cobertura, calidad, resultados e impacto de los programas sociales y acciones de fomento;
+IV. Promover acciones que permitan mejorar la calidad de los servicios que se brindan en las Unidades Móviles, vinculando los tres órdenes de gobierno;
 
-V. Coadyuvar con las dependencias y entidades ejecutoras de programas sociales en la difusión de los requisitos de acceso y apertura de ventanillas;
+V. Dirigir las actividades de las Unidades Móviles en servicio conforme a la planeación y autorización de localidades;
 
-VI. Gestionar ante las instancias del gobierno federal, estatal, municipal y de organismos privados, recursos financieros que posibiliten la atención de la demanda de Organizaciones de la sociedad civil legalmente constituidas, mediante esquemas de coinversión social;
+VI. Establecer vínculos con el sector social y privado, para potenciar las acciones de gobierno que permitan mejorar las capacidades de desarrollo humano y comunitario, con perspectiva intercultural y de género;
 
-VII. Apoyar a las dependencias y entidades que ejecuten programas sociales estatales, en la elaboración de lineamientos, reglas de operación y normatividad específica que regulen sus programas sociales y acciones de fomento;
+VII. Participar en representación del Coordinador General en los Consejos, Comités, Subcomités y grupos de trabajo establecidos para impulsar el desarrollo social del Estado;
 
-VIII. Monitorear y evaluar el impacto de los programas sociales y las acciones de fomento implementadas por el Estado;
+VIII. Dirigir acciones encaminadas a recabar la información y/o reportes de las actividades de los servicios que brinda el personal de las Unidades Móviles, así como evaluar su desempeño;
 
-IX. Gestionar ante la Unidad Administrativa los requerimientos en materia de recursos humanos, materiales y servicios para el buen funcionamiento de la Dirección;
+IX. Instrumentar la operación de los programas emergentes y especiales que determine el Coordinador General;
 
-X. Integrar y conservar el archivo documental que obre en la dirección a su cargo, en términos de lo establecido en la Ley de Archivos y la Ley de Protección de Datos Personales;
+X. Gestionar ante la Unidad Administrativa los requerimientos en materia de recursos humanos, materiales y servicios para el buen funcionamiento de la Dirección;
 
-XI. Mantener permanentemente informado al Coordinador y Subcoordinador de Política Social, respecto de los mecanismos y actividades realizadas por el área a su cargo;
+XI. Integrar y conservar el archivo documental que obre en la Dirección a su cargo, en términos de lo establecido en la Ley de Archivos y la Ley de Protección de Datos Personales; y
 
-XI (SIC). Las demás que le señalen otros ordenamientos jurídicos aplicables o reglamentarios, así como las que el Coordinador General y el Subcoordinador de Política Social le encomiende.
+XII. Las demás que le señalen otros ordenamientos jurídicos aplicables o reglamentarios, y el Subcoordinador de Política Social.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 44-A.
+
+La Dirección de Unidades Móviles para el ejercicio de sus funciones se auxiliará de las Unidades de Control de a (sic) Unidades Móviles Región Norte, Región Centro y Región Sur, cuyas funciones serán establecidas en el Manual General de Organización de la Coordinación.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 44-B.
+
+Al frente de la Unidad de Control a Unidades Móviles; Región Norte, Región Centro y Región Sur, habrá un Jefe de Unidad en cada una, a quien le corresponderá el ejercicio de las siguientes atribuciones:
+
+I. Coordinar y verificar la realización de los procedimientos requeridos para la eficiente y oportuna operación y supervisión de las Unidades Móviles, vinculando las tareas con las Dependencias participantes en el programa;
+
+II. Supervisar la elaboración de los cronogramas de servicio conforme la planeación y autorización de localidades;
+
+III. Proponer y diseñar acciones para eficientar los procesos de vinculación, difusión, promoción, operación, supervisión de las brigadas y el impacto de los eventos especiales programados;
+
+IV. Participar en actividades de vinculación, análisis y validación de las acciones y servicios con las Dependencias participantes, con la finalidad de establecer estrategias para incrementar y eficientar los servicios;
+
+V. Participar con el Director de Unidades Móviles en reuniones de análisis de la dinámica interna del Grupo de las brigadas en operación;
+
+VI. Coadyuvar en los procedimientos relativos a la solicitud de recursos financieros, materiales y de equipo para la operación de las Unidades Móviles junto con el Departamento Administrativo;
+
+VII. Coordinar las actividades relativas a la recepción de información y/o reportes de las actividades de los servicios que brinda el personal de las Unidades Móviles;
+
+VIII. Coordinar, supervisar y evaluar la operación y desempeño de las Unidades Móviles;
+
+IX. Mantener permanentemente informado al Director de Unidades Móviles, respecto de los asuntos y actividades realizadas por el área a su cargo;
+
+X. Integrar y conservar el archivo documental que obre en la unidad a su cargo, en términos de lo establecido en la Ley de Archivos y la Ley de Protección de Datos Personales; y
+
+XI. Las demás que le señalen otros ordenamientos jurídicos aplicables o reglamentarios, así como las que el Director de Unidades Móviles le encomiende.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 44-C.
+
+Las Unidades de Control a Unidades Móviles de las Regiones Norte, Centro y Sur para el cumplimiento de las atribuciones a que se refiere el articulo anterior, contara con jefaturas de departamento cuyas funciones se describirán en el Manual General de Organización de la Coordinación.
 
 ### CAPÍTULO VIGÉSIMO SEGUNDO. DE LA UNIDAD JURÍDICA
 
@@ -981,9 +1033,13 @@ XXXII. Fungir como enlace ente (sic) las instancias encargadas de participar en 
 
 XXXIII. Mantener permanentemente informado al Coordinador General, respecto de los mecanismos y actividades realizadas por el área a su cargo;
 
-XXXIV. Cumplir y hacer cumplir en el ejercicio de sus atribuciones, las leyes, reglamentos, acuerdos, decretos y convenios aplicables en el Estado, así como las normas, políticas y procedimientos administrativos que regulen la actividad de la unidad a su cargo; y
+XXXIV. Cumplir y hacer cumplir en el ejercicio de sus atribuciones, las leyes, reglamentos, acuerdos, decretos y convenios aplicables en el Estado, así como las normas, políticas y procedimientos administrativos que regulen la actividad de la unidad a su cargo; y (sic)
 
-XXXV. Las demás que señalen otros ordenamientos jurídicos aplicables o reglamentarios así como las que el Coordinador General le encomiende.
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XXXV.- Expedir certificaciones de los documentos que obren en los archivos de la Unidad a su cargo;
+
+XXXVI. Las demás que señalen otros ordenamientos jurídicos aplicables o reglamentarios así como las que el Coordinador General le encomiende.
 
 ###### Artículo 48.
 
@@ -1086,3 +1142,11 @@ COORDINADOR GENERAL DEL COMITÉ ESTATAL DE PLANEACIÓN PARA EL
 DESARROLLO DE OAXACA.
 
 LIC. BULMARO RITO SALINAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2010.
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente decreto prevalecerán sobre cualquier otra disposición de igual o menor rango que se le opongan.
