@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2010-07-20"
+last_updated: "2010-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -283,7 +283,9 @@ II. Coordinarse por conducto de la Comisión de Vigilancia, con la Auditoría Su
 
 III. Nombrar y remover a los empleados del Congreso del Estado;
 
-IV. Elaborar su presupuesto de egresos, remitiéndolo al Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; asimismo, administrarlo y ejercerlo en forma autónoma en los términos que disponga la ley;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+IV. Elaborar su presupuesto de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, remitiéndolo al Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado~ asimismo, administrarlo y ejercerlo en forma autónoma en los términos que disponga la ley~
 
 V. Designar antes de la clausura de cada periodo ordinario de sesiones, a la Diputación Permanente que funcionará en el receso del Congreso del Estado, y
 
@@ -1868,3 +1870,11 @@ P.O. 20 DE JULIO DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en la ley de la materia, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año dos mil once.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
