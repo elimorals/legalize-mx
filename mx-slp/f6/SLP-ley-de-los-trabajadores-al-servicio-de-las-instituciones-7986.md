@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "1996-01-08"
+last_updated: "2010-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PUBLICAS DEL ESTADO DE SAN LUIS POTOSI
+LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -965,9 +965,11 @@ DE LAS PRESCRIPCIONES.
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 112.
 
-Prescriben en un año los derechos de los trabajadores derivados de la relación de trabajo o del nombramiento, con excepción de los casos previstos en el artículo siguiente de esta ley.
+Prescriben en un año los derechos de los trabajadores derivados de la relación de trabajo o del nombramiento; con excepción de los casos previstos en los artículos 113 y 113 BIS de esta Ley.
 
 ###### ARTICULO 113.
 
@@ -982,6 +984,10 @@ III.- La facultad de los titulares de entidades o dependencias públicas para su
 IV.- La facultad de las autoridades para cesar a los trabajadores, tomando en cuenta el término a partir de que sean conocidas las causas de rescisión; y
 
 V.- El derecho para impugnar las resoluciones que establezcan sanciones impuestas por los titulares de las entidades o dependencias, cuando no amerite cese.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 113 BIS.- Las acciones de los trabajadores para exigir la reinstalación en su trabajo o la indemnización que la ley concede para el caso de despido o suspensión injustificados, prescriben en cuatro meses; término contado a partir del momento en que sea notificado el trabajador; o sea despedido o suspendido de su trabajo.
 
 ###### ARTICULO 114.
 
@@ -1660,3 +1666,13 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN JOSE RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE OCTUBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los trabajadores que hayan sido despedidos o suspendidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sujetarán a las disposiciones vigentes en el momento del despido o suspensión.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
