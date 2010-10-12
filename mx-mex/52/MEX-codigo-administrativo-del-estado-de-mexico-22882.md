@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-10-01"
+last_updated: "2010-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1273,7 +1273,7 @@ Para dar curso a la acción popular, basta el señalamiento de los hechos que co
 
 76.- En la prestación de los servicios gubernamentales por vía electrónica, se tomarán las medidas necesarias para garantizar la autenticación, autenticidad, confidencialidad, seguridad e integridad de la información, de acuerdo con la ley a que se refiere el párrafo anterior.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 1.45], G.G. 6 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. ANTES ARTICULO 1.45], G.G. 6 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 15 DE OCTUBRE DE 2010)
 
 ###### Artículo 1.
 
@@ -1661,13 +1661,19 @@ XVII. Los demás que se establezcan en la Ley General de Salud y otras disposici
 
 19.- Los derechos y obligaciones de los usuarios de los servicios de salud y la participación de la comunidad en los mismos se regirá por lo previsto en la Ley General de Salud.
 
+> <small>(ADICIONADO, G.G. 12 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 2.
+
+19 Bis.- En cumplimiento de los ordenamientos legales reglamentarios y administrativos, a la Secretaría de Salud y al ISEM, en términos de su competencia, les corresponde vigilar y operar el control sanitario de las actividades de salud que realicen los establecimientos que brindan servicios de control de peso o en beneficio de la salud estética bajo tratamientos terapéuticos, quiroprácticos, medicinales, herbolarios u otros métodos.
+
+### CAPITULO SEGUNDO. Del Sistema Estatal de Salud
+
 ###### Artículo 2.
 
 20.- El sistema estatal de salud está constituido por las dependencias y organismos auxiliares de la administración pública estatal, y las personas físicas y morales de los sectores social y privado que presten servicios de salud en la Entidad.
 
 Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud participarán en el sistema estatal de salud como instancias éticas del ejercicio de las profesiones y promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades de salud.
-
-### CAPITULO SEGUNDO. Del Sistema Estatal de Salud
 
 ###### Artículo 2.
 
@@ -1739,6 +1745,8 @@ XVI. Promover y fomentar investigaciones con perspectiva de género en materia d
 
 XVII. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
 
+### CAPITULO TERCERO. Del Centro Estatal de Trasplantes
+
 ###### Artículo 2.
 
 23.- El Centro Estatal de Trasplantes es un órgano desconcentrado de la Secretaría de Salud, con autonomía técnica y administrativa, y tiene a su cargo las funciones siguientes:
@@ -1777,8 +1785,6 @@ XVI. Proponer a la Secretaría de Salud acuerdos de colaboración interinstituci
 
 XVII. Las demás que se determinen en los acuerdos de coordinación respectivos.
 
-### CAPITULO TERCERO. Del Centro Estatal de Trasplantes
-
 ###### Artículo 2.
 
 24.- La organización y funcionamiento del Centro se determinarán en su reglamento interno.
@@ -1786,6 +1792,8 @@ XVII. Las demás que se determinen en los acuerdos de coordinación respectivos.
 ###### Artículo 2.
 
 25.- Con el objeto de difundir y promover la donación altruista de órganos y tejidos, el Ejecutivo creará un patronato, cuya organización y funcionamiento se regirá por su reglamento interno.
+
+### CAPITULO CUARTO. De la Comisión de Conciliación y Arbitraje Médico del Estado de México
 
 ###### Artículo 2.
 
@@ -1826,8 +1834,6 @@ XII. Celebrar convenios con la Comisión Nacional de Arbitraje Médico, para la 
 XIII. Las demás que determinen otras disposiciones legales.
 
 La Comisión se excusará del conocimiento de las inconformidades que se establezcan en la reglamentación respectiva.
-
-### CAPITULO CUARTO. De la Comisión de Conciliación y Arbitraje Médico del Estado de México
 
 ###### Artículo 2.
 
@@ -1872,24 +1878,6 @@ V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y
 Los ingresos de la Comisión, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-###### Artículo 2.
-
-30.- Las disposiciones del presente capítulo establecen las acciones y mecanismos de participación de las autoridades estatales y municipales, así como de los sectores social y privado en la prevención y atención a las adicciones en la Entidad, y son complementarias a las disposiciones y programas federales en la materia que operan de conformidad con los acuerdos y convenios celebrados entre ambos órdenes de gobierno, con el objeto de:
-
-I. Coadyuvar en la prevención y atención a las adicciones en el Estado de México;
-
-II. Preservar el derecho a la sana convivencia familiar, el desarrollo armónico de sus integrantes y el de esparcimiento saludable de las personas;
-
-III. Implementar medidas y acciones que tiendan a prevenir, concientizar, reducir, erradicar y medir el consumo de sustancias que dañen, deterioren y pongan en riesgo la salud, la calidad y las expectativas de vida de las personas;
-
-IV. Fomentar en las familias, centros educativos, unidades económicas y organizaciones sociales, la corresponsabilidad social, como valor fundamental en la prevención y atención de las adicciones;
-
-V. Delinear las políticas públicas que el Gobierno del Estado de México y los municipios realicen en materia de prevención, tratamiento y control de las adicciones; y
-
-VI. Promover en el Sistema Educativo del Estado de México y en sus Universidades Públicas y Privadas, un ambiente libre de adicciones mediante la realización de acciones colectivas y autogestoras para la detección y prevención del consumo de sustancias psicoactivas entre los estudiantes.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO QUINTO. De la Participación en la Prevención y Atención a las Adicciones
 
@@ -1937,6 +1925,24 @@ Estarán adscritas a las Regiones Navales y al Cuartel General del Alto Mando y 
 
 ###### Artículo 2.
 
+30.- Las disposiciones del presente capítulo establecen las acciones y mecanismos de participación de las autoridades estatales y municipales, así como de los sectores social y privado en la prevención y atención a las adicciones en la Entidad, y son complementarias a las disposiciones y programas federales en la materia que operan de conformidad con los acuerdos y convenios celebrados entre ambos órdenes de gobierno, con el objeto de:
+
+I. Coadyuvar en la prevención y atención a las adicciones en el Estado de México;
+
+II. Preservar el derecho a la sana convivencia familiar, el desarrollo armónico de sus integrantes y el de esparcimiento saludable de las personas;
+
+III. Implementar medidas y acciones que tiendan a prevenir, concientizar, reducir, erradicar y medir el consumo de sustancias que dañen, deterioren y pongan en riesgo la salud, la calidad y las expectativas de vida de las personas;
+
+IV. Fomentar en las familias, centros educativos, unidades económicas y organizaciones sociales, la corresponsabilidad social, como valor fundamental en la prevención y atención de las adicciones;
+
+V. Delinear las políticas públicas que el Gobierno del Estado de México y los municipios realicen en materia de prevención, tratamiento y control de las adicciones; y
+
+VI. Promover en el Sistema Educativo del Estado de México y en sus Universidades Públicas y Privadas, un ambiente libre de adicciones mediante la realización de acciones colectivas y autogestoras para la detección y prevención del consumo de sustancias psicoactivas entre los estudiantes.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 2.
+
 31.- El ingreso y tratamiento de las personas con problemas de adicciones a los establecimientos de prevención y atención de las mismas, se sujetará a las disposiciones legales y reglamentarias expedidas en la materia.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
@@ -1946,12 +1952,6 @@ Estarán adscritas a las Regiones Navales y al Cuartel General del Alto Mando y 
 32.- Este capítulo estará a los conceptos contenidos en la Ley General de Salud, sus disposiciones reglamentarias y normas oficiales mexicanas, relativas a prevención, adicción, sustancias adictivas o con efectos psicoactivos, así como los sectores sujetos de los mismos.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-###### Artículo 2.
-
-33.- Las acciones y programas de prevención y atención de las adicciones, tendrán como principios rectores para su diseño y ejecución, la integralidad, sustentabilidad, transversalidad, corresponsabilidad, subsidiaridad, direccionalidad y eficacia, adecuándose a los Programas Nacionales y Estatal respectivos.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 #### SECCIÓN SEGUNDA. De la Prevención y Atención a las Adicciones
 
@@ -1990,6 +1990,12 @@ El Jefe de la Unidad, será de la categoría de Almirante y dependerá orgánica
 Las Unidades Navales de Protección Portuaria son las unidades operativas especializadas para llevar a cabo operaciones de protección portuaria, por sí o en apoyo a las autoridades competentes, de acuerdo con los ordenamientos jurídicos vigentes.
 
 Las unidades a que se refiere este artículo estarán subordinadas al Comandante de Fuerza, Región, Zona o Sector Naval que corresponda.
+
+###### Artículo 2.
+
+33.- Las acciones y programas de prevención y atención de las adicciones, tendrán como principios rectores para su diseño y ejecución, la integralidad, sustentabilidad, transversalidad, corresponsabilidad, subsidiaridad, direccionalidad y eficacia, adecuándose a los Programas Nacionales y Estatal respectivos.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
@@ -2075,28 +2081,6 @@ X. Llevar a cabo, a través del Instituto Mexiquense contra las Adicciones, los 
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
-###### Artículo 2.
-
-40.- Para los efectos del presente capítulo, son atribuciones de la Secretaría de Educación:
-
-I. Diseñar y conducir campañas y acciones para la prevención de la salud, con el propósito de generar en los estudiantes, el desarrollo de competencias sociales y aptitudes de resistencia y rechazo a las adicciones;
-
-II. Garantizar ambientes escolares sin adicciones, en coordinación con las autoridades de Salud, de Seguridad Pública y de Procuración de Justicia;
-
-III. Promover, fomentar e impulsar la participación del personal docente, de los padres de familia y los alumnos en la aplicación, ejecución y desarrollo de las campañas y acciones contra las adicciones;
-
-IV. Enriquecer los contenidos de los programas con acciones específicas de orientación, a fin de prevenir el consumo de sustancias psicoactivas entre los escolares;
-
-V. Participar en el diseño de programas de investigación científica y tecnológica, que contribuyan a la prevención del consumo de sustancias psicoactivas, en coordinación con instituciones de educación superior;
-
-VI. Promover la participación de las asociaciones de padres de familia en la instrumentación de acciones para la formación de una cultura de prevención y atención de las adicciones;
-
-VII. Formar a los alumnos e informar a los padres de familia para que desde el seno familiar y en su ámbito vecinal, identifiquen la problemática de las adicciones y aprendan a manejar la influencia negativa que dicho fenómeno social genera en su salud e integridad; y
-
-VIII. Promover la colaboración de las asociaciones de padres de familia con el Instituto Mexiquense contra las Adicciones, en la ejecución de los distintos programas y medidas formativas e informativas para el desarrollo de recursos psicosociales de prevención y atención a las adicciones.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
 #### SECCIÓN TERCERA. De las Autoridades
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
@@ -2156,6 +2140,28 @@ Asimismo, y para el cumplimiento de las atribuciones a que se refiere el artícu
 ###### Artículo 36.
 
 El Estado Mayor General de la Armada es el órgano asesor operativo del Alto Mando responsable de la preparación, planeación, coordinación y supervisión de las operaciones navales que se establezcan, requeridas para el cumplimiento de la misión y atribuciones de la Armada de México.
+
+###### Artículo 2.
+
+40.- Para los efectos del presente capítulo, son atribuciones de la Secretaría de Educación:
+
+I. Diseñar y conducir campañas y acciones para la prevención de la salud, con el propósito de generar en los estudiantes, el desarrollo de competencias sociales y aptitudes de resistencia y rechazo a las adicciones;
+
+II. Garantizar ambientes escolares sin adicciones, en coordinación con las autoridades de Salud, de Seguridad Pública y de Procuración de Justicia;
+
+III. Promover, fomentar e impulsar la participación del personal docente, de los padres de familia y los alumnos en la aplicación, ejecución y desarrollo de las campañas y acciones contra las adicciones;
+
+IV. Enriquecer los contenidos de los programas con acciones específicas de orientación, a fin de prevenir el consumo de sustancias psicoactivas entre los escolares;
+
+V. Participar en el diseño de programas de investigación científica y tecnológica, que contribuyan a la prevención del consumo de sustancias psicoactivas, en coordinación con instituciones de educación superior;
+
+VI. Promover la participación de las asociaciones de padres de familia en la instrumentación de acciones para la formación de una cultura de prevención y atención de las adicciones;
+
+VII. Formar a los alumnos e informar a los padres de familia para que desde el seno familiar y en su ámbito vecinal, identifiquen la problemática de las adicciones y aprendan a manejar la influencia negativa que dicho fenómeno social genera en su salud e integridad; y
+
+VIII. Promover la colaboración de las asociaciones de padres de familia con el Instituto Mexiquense contra las Adicciones, en la ejecución de los distintos programas y medidas formativas e informativas para el desarrollo de recursos psicosociales de prevención y atención a las adicciones.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
@@ -2249,12 +2255,6 @@ VII. Promover la creación de Unidades de Prevención y Tratamiento de las adicc
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
-###### Artículo 2.
-
-47.- Los ayuntamientos, para prevenir las adicciones, podrán restringir el expendio y consumo de bebidas alcohólicas y tabaco, en las distintas instalaciones recreativas y deportivas, o con motivo de la realización de festejos populares o tradicionales.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
 #### SECCIÓN CUARTA. De la participación municipal en la prevención y atención a las adicciones
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
@@ -2290,6 +2290,12 @@ Los órganos asesores del Alto Mando se organizarán y funcionarán de conformid
 ###### Artículo 40.
 
 Para sancionar las faltas graves en contra de la disciplina naval, la Armada de México contará con órganos de disciplina, los cuales en ningún caso y por ningún motivo podrán conocer de asuntos en los que esté involucrada una persona que no sea militar.
+
+###### Artículo 2.
+
+47.- Los ayuntamientos, para prevenir las adicciones, podrán restringir el expendio y consumo de bebidas alcohólicas y tabaco, en las distintas instalaciones recreativas y deportivas, o con motivo de la realización de festejos populares o tradicionales.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
@@ -2413,15 +2419,15 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 
 (REUBICADO [N. DE E. ANTES ARTICULO 2.39], G.G. 30 DE SEPTIEMBRE DE 2010)
 
+### CAPITULO PRIMERO. Disposiciones generales
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.30], G.G. 30 DE SEPTIEMBRE DE 2010)
+
 ###### Artículo 2.
 
 58.- Los sitios de cría y producción de animales domésticos deben localizarse fuera de las áreas urbanas y urbanizables.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 2.40], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-### CAPITULO PRIMERO. Disposiciones generales
-
-(REUBICADO [N. DE E. ANTES ARTICULO 2.30], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
@@ -2434,12 +2440,6 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, el Instituto de Salud del Estado de México podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 2.42], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-61.- Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado al Instituto de Salud del Estado de México.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 2.43], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ### CAPITULO SEGUNDO. De las autorizaciones sanitarias
 
@@ -2487,6 +2487,12 @@ Las inconformidades se regularán conforme a las disposiciones reglamentarias re
 
 ###### Artículo 2.
 
+61.- Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado al Instituto de Salud del Estado de México.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.43], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
 62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración del Instituto de Salud del Estado de México para la aprobación del sistema adoptado.
 
 Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por el Instituto.
@@ -2520,24 +2526,6 @@ La Secretaría de Salud emitirá normas técnicas en materia de ingeniería sani
 El Instituto de Salud del Estado de México, con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 2.47], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-66.- El Instituto de Salud del Estado de México revocará las autorizaciones que haya otorgado en los casos siguientes:
-
-I. Por incumplimiento de las disposiciones de este Libro y su reglamentación;
-
-II. Cuando por causas supervenientes se compruebe que el ejercicio de las actividades que se hubieren autorizado constituyen un riesgo o daño para la salud humana;
-
-III. Por reiterada renuencia de los titulares de la autorización, a acatar las determinaciones que dicte el Instituto en los términos de este Libro y demás disposiciones legales aplicables;
-
-IV. Cuando resulten falsos los datos o documentos proporcionados por el interesado para el otorgamiento de la autorización;
-
-V. Cuando el interesado no se ajuste a los términos, condiciones y requisitos establecidos en la autorización o haga uso indebido o distinto de ésta.
-
-Cuando la revocación de una autorización se funde en los riesgos o daños a la salud, se hará del conocimiento de las dependencias y organismos auxiliares que tengan atribuciones de orientación al consumidor.
-
-La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio de las actividades que hubiesen sido autorizadas.
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
@@ -2669,6 +2657,24 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
+66.- El Instituto de Salud del Estado de México revocará las autorizaciones que haya otorgado en los casos siguientes:
+
+I. Por incumplimiento de las disposiciones de este Libro y su reglamentación;
+
+II. Cuando por causas supervenientes se compruebe que el ejercicio de las actividades que se hubieren autorizado constituyen un riesgo o daño para la salud humana;
+
+III. Por reiterada renuencia de los titulares de la autorización, a acatar las determinaciones que dicte el Instituto en los términos de este Libro y demás disposiciones legales aplicables;
+
+IV. Cuando resulten falsos los datos o documentos proporcionados por el interesado para el otorgamiento de la autorización;
+
+V. Cuando el interesado no se ajuste a los términos, condiciones y requisitos establecidos en la autorización o haga uso indebido o distinto de ésta.
+
+Cuando la revocación de una autorización se funde en los riesgos o daños a la salud, se hará del conocimiento de las dependencias y organismos auxiliares que tengan atribuciones de orientación al consumidor.
+
+La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio de las actividades que hubiesen sido autorizadas.
+
+###### Artículo 2.
+
 67.- El Instituto de Salud del Estado de México, independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
 
 La recolección de muestras de productos y superficies se efectuará con sujeción a las disposiciones aplicables de la Ley General de Salud y de las normas oficiales de la materia.
@@ -2739,6 +2745,10 @@ Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple
 
 Si del dictamen resulta que el bien asegurado es nocivo para la salud, se podrá someter a un tratamiento que haga posible su aprovechamiento por el interesado o determinar su destrucción.
 
+#### SECCION TERCERA. De las sanciones
+
+(REUBICADO [N. DE E. ANTES ARTICULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
+
 ###### Artículo 2.
 
 71.- Son sanciones administrativas:
@@ -2752,10 +2762,6 @@ III. Clausura temporal o definitiva, parcial o total; y
 IV. Arresto hasta por treinta y seis horas.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 2.53] Y REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-#### SECCION TERCERA. De las sanciones
-
-(REUBICADO [N. DE E. ANTES ARTICULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
@@ -2783,6 +2789,10 @@ IV. Con multa equivalente de mil a cuatro mil veces el salario mínimo general v
 
 (REUBICADO [N. DE E. ANTES ARTICULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
 
+## TITULO PRIMERO. Disposiciones generales
+
+### CAPITULO TERCERO. De la vigilancia
+
 ###### Artículo 2.
 
 75.- Procederá la clausura temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los casos siguientes:
@@ -2804,10 +2814,6 @@ VI. Reincidencia por tercera ocasión.
 En los casos de clausura definitiva quedarán sin efecto las autorizaciones que, en su caso, se hubiesen otorgado al establecimiento o construcción de que se trate.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-## TITULO PRIMERO. Disposiciones generales
-
-### CAPITULO TERCERO. De la vigilancia
 
 ###### Artículo 2.
 
@@ -9763,7 +9769,7 @@ XI. La (sic) demás necesarias para el ejercicio de las facultades anteriores, e
 
 8.- El Director General del IGECEM, además de las atribuciones que este Libro y otros ordenamientos le confieran en materia de información e investigación geográfica, estadística y catastral, tendrá las facultades y obligaciones siguientes:
 
-I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración, actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias, otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
+I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración; actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias; otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
 
 En el caso en que realice actos de transmisión o enajenación de dominio de bienes inmuebles deberá contar con la autorización previa del Consejo Directivo;
 
@@ -10107,7 +10113,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 ###### Artículo 14.
 
-39.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica.
+39.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica;
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -10225,7 +10231,7 @@ III. Los bienes muebles, instrumentos y equipos que adquiera o le sean transferi
 
 IV. El importe de los ingresos que perciba por la venta de productos y servicios;
 
-V. La (sic) donaciones, legados, subsidios y otras aportaciones que reciba;
+V. La donaciones (sic), legados, subsidios y otras aportaciones que reciba;
 
 VI. Remanentes, frutos, utilidades e intereses de inversiones;
 
@@ -10559,7 +10565,7 @@ VII. Las actas, documentos o avisos de particulares que conforme a la ley, deban
 
 El documento a publicar deberá presentarse en papel membretado, original y copia, y su respaldo magnético, no se aceptarán documentos con enmendaduras, borrones o letras ilegibles.
 
-Por motivos técnicos, en la publicación del documento se podrá omitir la impresión de la firma; en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “rubrica”, teniendo plena validez jurídica el contenido de la publicación.
+Por motivos técnicos, en la publicación del documento se podrá omitir la impresión de la firma; en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “rúbrica”, teniendo plena validez jurídica el contenido de la publicación.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -10601,7 +10607,7 @@ II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de s
 
 III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
 
-IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+IV.- Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -12223,6 +12229,8 @@ SÉPTIMO.- Se derogan las disposiciones de igual o menor jerarquía que se opong
 
 G.G. 6 DE SEPTIEMBRE DE 2010.
 
+DECRETO NUMERO 148, POR EL QUE SE EXPIDE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y MUNICIPIOS, TRANSITORIO DECIMO SEGUNDO, SE DEROGA EL TITULO CUARTO DEL LIBRO PRIMERO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO.
+
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
@@ -12304,3 +12312,13 @@ G.G. 1 DE OCTUBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 12 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
