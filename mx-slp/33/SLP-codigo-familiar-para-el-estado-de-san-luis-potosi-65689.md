@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2010-07-22"
+last_updated: "2010-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2010.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -119,13 +119,13 @@ Las y los menores de edad miembros de la familia, tienen el derecho esencial de 
 
 ###### ARTICULO 12.
 
-Las y los miembros de la familia están obligados a evitar toda conducta de violencia familiar que tenga por efecto causar un daño a otra persona. La violencia familiar se define como el uso de la fuerza física o moral, o las omisiones que ejerza un miembro de la familia en contra de otro integrante de la misa, que atente contra su integridad física, psíquica, sexual, o las tres, y que produzca o no lesiones.
+Las y los miembros de la familia están obligados a evitar toda conducta de violencia familiar que tenga por efecto causar un daño a otra persona. La violencia familiar se define como el uso de la fuerza física o moral, o las omisiones que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica, sexual, o las tres, y que produzca o no lesiones.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 13.
 
-La violencia familiar puede ser denunciada por cualquier persona, ante el Ministerio Público para los efectos a que haya lugar; de manera particular, cuando el maltrato se infrinja en contra de las o los menores; de las personas adultas mayores, o de personas con discapacidad.
+La violencia familiar puede ser denunciada por cualquiera persona, ante el Ministerio Público para los efectos a que haya lugar; de manera particular, cuando el maltrato se infrinja en contra de las o los menores; de las personas adultas mayores, o de personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
@@ -285,11 +285,13 @@ Los cónyuges menores de edad tendrán la administración de sus bienes en los t
 
 Los cónyuges sólo podrán celebrar contrato de compra-venta entre sí, cuando el matrimonio esté sujeto a separación de bienes.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 38.
 
-Los cónyuges requieren autorización judicial para celebrar entre sí contratos, excepto cuando el contrato sea de mandato para pleitos y cobranzas o para actos de administración, y cuando se trate de otorgar caución para que el otro obtenga su libertad.
+Los cónyuges no requieren autorización judicial para contratar entre ellos.
 
-La autorización judicial no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
+Tampoco es necesaria la autorización para que un cónyuge sea fiador de su consorte, o se obligue solidariamente con él en asuntos que sean (sic) interés exclusivo de éste.
 
 ###### ARTICULO 39.
 
@@ -3270,6 +3272,12 @@ Lic. Alfonso José Castillo Machuca
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
