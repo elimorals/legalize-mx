@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2008-04-07"
+last_updated: "2010-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -49,9 +49,13 @@ Este Reglamento tiene por objeto regular la organización y funcionamiento del C
 
 Para efectos de este Reglamento, se entiende por:
 
-I. Comisiones: las comisiones ordinarias y especiales referidas en los Artículos 81 y 82 de la Ley Orgánica;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-II. Comisiones Unidas: cuando dos o más comisiones realizan sus actividades en forma conjunta por así requerirlo el asunto de que se trate y previa determinación de la Mesa Directiva o, en su caso, de la Gran Comisión, o cuando así lo prevenga la Ley. La identificación de las Comisiones Unidas está seguida del nombre de cada una de ellas.
+I. Comisiones: las comisiones ordinarias y especiales referidas en los artículos 82 y 83 de la Ley Orgánica;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+II. Comisiones Unidas: cuando dos o más comisiones realizan sus actividades en forma conjunta por así requerirlo el asunto de que se trate y previa determinación de la Mesa Directiva o, en su caso, de la Junta de Coordinación y Concertación Política, o cuando así lo prevenga la Ley. La identificación de las Comisiones Unidas está seguida del nombre de cada una de ellas;
 
 III. Congreso: el Honorable Congreso del Estado de Tlaxcala;
 
@@ -61,13 +65,17 @@ V. Legislatura: en los términos de lo establecido en el Artículo 3 de la Ley O
 
 VI. Ley Orgánica: la Ley Orgánica del Poder Legislativo del Estado de Tlaxcala.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 2.
 
-Sus disposiciones son obligatorias para los diputados, la Gran Comisión, la Mesa Directiva, la Comisión Permanente, las comisiones, grupos parlamentarios y representantes de partido, así como para sus órganos técnicos y administrativos.
+Sus disposiciones son obligatorias para los diputados, la Junta de Coordinación y Concertación Política, la Mesa Directiva, la Comisión Permanente, las comisiones, grupos parlamentarios y representantes de partido, así como para sus órganos técnicos y administrativos.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 3.
 
-Los casos no previstos y su interpretación administrativa, serán resueltos por el Pleno del Congreso, la Comisión Permanente o la Gran Comisión, en su caso, con excepción de la actividad parlamentaria y conducción de las sesiones concedidas a la Mesa Directiva por la Ley Orgánica del Poder Legislativo.
+Los casos no previstos y su interpretación administrativa, serán resueltos por el pleno del Congreso, la Comisión Permanente o la Junta de Coordinación y Concertación Política, en su caso, con excepción de la actividad parlamentaria y conducción de las sesiones concedidas a la Mesa Directiva por la Ley Orgánica del Poder Legislativo.
 
 ###### Artículo 4.
 
@@ -77,31 +85,41 @@ El tratamiento que recibirá el Congreso será el de "Honorable Congreso del Est
 
 ### Capítulo I. De la Comisión Instaladora
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 5.
 
-En la sesión de clausura del último período ordinario de sesiones de la legislatura que concluye sus trabajos, el Pleno del Congreso designará una Comisión Instaladora, compuesta por cinco miembros: Un presidente, dos secretarios y dos suplentes, que serán nombrados de entre los diputados que integren la Gran Comisión, y en caso de no ser posible, el Pleno integrará dicha comisión.
+En la sesión de clausura del último período ordinario de sesiones de la legislatura que concluye sus trabajos, el Pleno del Congreso nombrará a la comisión permanente, que también fungirá como comisión instaladora de la Legislatura entrante.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 6.
 
-Para cumplir lo previsto en el Artículo 16 de la Ley Orgánica, la Comisión Instaladora se reunirá en junta previa a la preparatoria, a más tardar el día nueve de enero del año que corresponda para:
+Para cumplir lo previsto en el artículo 15 de la Ley Orgánica, la Comisión Instaladora se reunirá en junta previa a la preparatoria, a más tardar el día veintiséis de diciembre del año de la elección para:
 
 I. Recibir, a través de la Secretaría Parlamentaria del Congreso, las constancias de mayoría y de asignación proporcional expedidas por los organismos electorales competentes y, en su caso, las resoluciones de los tribunales electorales relativas a la elección de diputados;
 
-II. Entregar las credenciales de identificación y los pases de acceso a los diputados electos, en cumplimiento de lo previsto en el inciso anterior, y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+II. Entregar las credenciales de identificación y los pases de acceso a los diputados electos, en cumplimiento de lo previsto en la fracción anterior, y
 
 III. Citar a los diputados electos, por conducto de la Secretaría Parlamentaria, a la Junta Preparatoria, previa a la instalación de la legislatura entrante.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 7.
 
-El día trece de enero del año que corresponda, a las diecisiete horas, los diputados electos, se reunirán en el recinto oficial para celebrar Junta Preparatoria, previa presentación de sus constancias emitidas por la autoridad electoral competente e identificarse ante la Secretaría Parlamentaria del Congreso mediante la exhibición de la credencial de elector; la secretaría a su vez lo informará oportunamente a los secretarios de la comisión instaladora, quienes elaborarán la lista de presentes y lo informarán al presidente para el efecto que declare la existencia del quórum legal.
+El día treinta de diciembre del año de la elección, a las diecisiete horas, los diputados electos, se reunirán en el recinto oficial para celebrar Junta Preparatoria, previa presentación de los documentos citados en las fracciones I y II del artículo anterior; la secretaría a su vez lo informará oportunamente a los secretarios de la comisión instaladora, quienes elaborarán la lista de presentes y lo informarán al presidente para el efecto que declare la existencia del quórum legal.
 
 ### Capítulo II. Del Inicio de la Legislatura
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 8.
 
-Si no concurre la mayoría de los diputados propietarios, la Mesa Directiva convocará a nueva reunión para el día siguiente, a las diez horas; citará en forma verbal a los presentes y por escrito a los ausentes, apercibiéndolos de que acudan a ella, pues de no reunirse mayoría se celebrará la sesión con quienes asistan.
+Si no concurre la mayoría de los diputados propietarios, la Mesa Directiva convocará a nueva reunión preparatoria para el día siguiente, a las diez horas; citará en forma verbal a los presentes y por escrito a los ausentes, apercibiéndolos para que acudan a ella, pues de no reunirse mayoría se celebrará la sesión con quienes asistan.
 
-A continuación, el presidente de la Mesa Directiva rendirá la protesta de Ley y procederá a tomar la protesta a los demás diputados y a declarar formalmente instalada la legislatura correspondiente, en los términos previstos en el Artículo 19 de la Ley Orgánica del Poder Legislativo.
+A continuación, el presidente de la Mesa Directiva rendirá la protesta de ley y procederá a tomar la protesta a los demás diputados y a declarar formalmente instalada la legislatura correspondiente, en los términos previstos en el artículo 18 de la Ley Orgánica del Poder Legislativo.
 
 ###### Artículo 9.
 
@@ -135,19 +153,33 @@ I. Recibir la protesta de Ley, previa al inicio de las funciones de los Servidor
 
 a. Gobernador electo popularmente, o en su caso, Gobernador Interino o Sustituto;
 
-b. Magistrado del Tribunal Superior de Justicia;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-c. Miembro de Concejo Municipal;
+b. Magistrados del Tribunal Superior de Justicia;
 
-d. Consejero de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-e. Consejero del Instituto Electoral de Tlaxcala;
+c. Miembros del Concejo Municipal;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+d. Consejeros de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+e. Consejeros del Instituto Electoral de Tlaxcala;
 
 f. Auditor de Fiscalización Superior;
 
 g. Auditor Adjunto, y
 
-h. Titular de Órgano Técnico y Administrativo del Congreso.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+h. Titulares de los órganos técnicos y administrativo del Congreso, e
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+i. Comisionados de la Comisión de Acceso a la Información Pública y Protección de Datos Personales.
 
 II. Acordar el traslado del recinto oficial del Congreso y su instalación en otro lugar, en los casos que refiere la Ley Orgánica;
 
@@ -169,11 +201,11 @@ El Pleno del Congreso se erigirá en colegio electoral según los casos y proced
 
 Durante los recesos del año legislativo funcionará una Comisión Permanente compuesta de un presidente, dos secretarios y un vocal, los que serán electos por el Pleno mediante cédula y a mayoría de votos, de acuerdo con lo previsto en la Ley.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 18.
 
-La Comisión Permanente funcionará en los periodos siguientes: del dieciséis de junio al treinta y uno de julio y del dieciséis de diciembre al trece de enero del año que corresponda.
+La Comisión Permanente funcionará en los períodos siguientes: Del dieciséis de mayo al treinta y uno de julio y del dieciséis de diciembre al treinta de diciembre del mismo año.
 
 ###### Artículo 19.
 
@@ -247,15 +279,21 @@ Las resoluciones que durante la sesión adopte el presidente de la Mesa Directiv
 
 Si durante la sesión el presidente de la Mesa Directiva no observa o viola alguna de las disposiciones de este Reglamento, podrá ser reemplazado por el vicepresidente o por quien hiciere sus veces; pero se requerirá, el acuerdo del Pleno en votación nominal, previa moción de algún diputado apoyada por dos diputados más. La exclusión tendrá efectos solamente en la sesión de que se trate.
 
-### Capítulo IV. De la Gran Comisión
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+### Capítulo IV. De la Junta de Coordinación y Concertación Política
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 33.
 
-La Gran Comisión es el Órgano Superior de Gobierno y Dirección del Congreso, se integra en la forma y términos previstos por la Ley Orgánica y tiene a su cargo establecer los lineamientos para el desarrollo de las funciones legislativas, políticas y administrativas del Congreso.
+La Junta de Coordinación y Concertación Política, es el Órgano Superior de Gobierno y Dirección del Congreso, se integra en la forma y términos previstos por la Constitución Política del Estado y la Ley Orgánica y tiene a su cargo establecer los lineamientos para el desarrollo de las funciones legislativas, políticas y administrativas del Congreso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 34.
 
-Además de las facultades que la Ley Orgánica le confiere a la Gran Comisión, ésta tendrá las atribuciones siguientes:
+Además de las facultades que la Ley Orgánica le confiere a la Junta de Coordinación y Concertación Política, ésta tendrá las atribuciones siguientes:
 
 I. En coordinación con la Mesa Directiva, turnar a la comisión respectiva los asuntos sometidos a consideración del Congreso, para su conocimiento, dictamen o resolución correspondiente;
 
@@ -281,9 +319,11 @@ X. Autorizar las credenciales de los diputados propietarios y entregarlas firmad
 
 #### Sección Primera. Integración
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 35.
 
-Las Comisiones Ordinarias se integran en los términos previstos por la Ley Orgánica y para el desempeño de sus funciones contarán con un Secretario Técnico, nombrado por éstas a propuesta de su presidente. La Gran Comisión esta facultada para verificar el cumplimiento del perfil profesional y experiencia de los Secretarios Técnicos.
+Las Comisiones Ordinarias se integran en los términos previstos por -la Ley Orgánica y para el desempeño de sus funciones contarán con un Secretario Técnico, nombrado por éstas a propuesta de su presidente. La Junta de Coordinación y Concertación Política está facultada para verificar el cumplimiento del perfil profesional y experiencia de los Secretarios Técnicos.
 
 Para la elaboración de los anteproyectos y proyectos de dictamen según su naturaleza, podrán apoyarse a su elección, en la Dirección Jurídica o en el Instituto de Estudios Legislativos.
 
@@ -303,9 +343,11 @@ VI. Entregar con la debida anticipación al Secretario Parlamentario, los proyec
 
 #### Sección Segunda. Atribuciones
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 36.
 
-Las comisiones ordinarias tendrán la competencia que específicamente, para cada una, se establece en los Artículos subsecuentes, sin perjuicio de que conozcan y dictaminen respecto de los asuntos que directamente les asigne el presidente de la Mesa Directiva, el Pleno, la Gran Comisión o la Comisión Permanente.
+Las comisiones ordinarias tendrán la competencia que específicamente, para cada una, se establece en los Artículos subsecuentes, sin perjuicio de que conozcan y dictaminen respecto de los asuntos que directamente les asigne el presidente de la Mesa Directiva, el Pleno, la Junta de Coordinación y Concertación Política o la Comisión Permanente.
 
 ###### Artículo 37.
 
@@ -321,43 +363,89 @@ IV. Comunicaciones y Transporte;
 
 V. Corrección de Estilo;
 
-VI. Derechos Humanos;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-VII. Derechos y Cultura Indígena;
+VI. Asuntos Migratorios;
 
-VIII. De la Juventud y Deporte;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-IX. Educación y Cultura;
+VII. Derechos Humanos;
 
-X. Equidad y Género;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-XI. Finanzas y Fiscalización;
+VIII. Derechos y Cultura Indígena;
 
-XII. Fomento Agropecuario y Desarrollo Rural;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-XIII. Gestoría, Información y Quejas;
+IX. De la Juventud y Deporte;
 
-XIV. Honor y Justicia;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-XV. Desarrollo Económico;
+X. Educación, Ciencia, Tecnología y Cultura;
 
-XVI. Instructora de Juicio Político, Declaración de Procedencia, Desafuero y Responsabilidad de Munícipes;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-XVII. Obras Públicas, Desarrollo Urbano y Ecología;
+XI. Equidad y Género;
 
-XVIII. Participación Ciudadana;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-XIX. Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos;
+XII. Finanzas y Fiscalización;
 
-XX. Recursos Hidráulicos;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-XXI. Salud;
+XIII. Fomento Agropecuario y Desarrollo Rural;
 
-XXII. Protección Civil, Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-XXIII. Trabajo y Previsión Social, y
+XIV. Gestoría, Información y Quejas;
 
-XXIV. Turismo.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XV. Honor y Justicia;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XVI. Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XVII. Instructora de Juicio Político, Declaración de Procedencia, Desafuero y Responsabilidad de Munícipes;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XVIII. Obras Públicas, Desarrollo Urbano y Ecología;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XIX. Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XX. Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XXI. Recursos Hidráulicos;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XXII. Salud;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XXIII. Protección Civil, Seguridad Pública, Prevención y Readaptación Social;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XXIV. Trabajo y Previsión Social;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XXV. Turismo, y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XXVI. Información Pública y Protección de Datos Personales.
 
 ###### Artículo 38.
 
@@ -377,7 +465,9 @@ VI. Conceder audiencias a la ciudadanía periódicamente o cuando con ese fin ac
 
 VII. Cumplir con las formalidades legales en la tramitación y resolución de los asuntos que le sean turnados, y
 
-VIII. Cumplir con las encomiendas que le sean asignadas por el Pleno, la Comisión Permanente o la Gran Comisión.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+VIII. Cumplir con las encomiendas que le sean asignadas por el Pleno, la Comisión Permanente o la Junta de Coordinación y Concertación Política.
 
 ###### Artículo 39.
 
@@ -401,7 +491,9 @@ III. De los que planteen los ayuntamientos cuando en el ejercicio de sus faculta
 
 IV. Del cumplimiento de las Leyes y Reglamentos por parte de los integrantes del Ayuntamiento y los Servidores Públicos de la Administración Municipal, y
 
-V. Substanciar los tramites en los asuntos relativos a límites territoriales entre los municipios, hasta dejarlos en estado de resolución para su revisión a la Gran Comisión.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+V. Substanciar los trámites en los asuntos relativos a límites territoriales entre los municipios, hasta dejarlos en estado de resolución para su revisión por la Junta de Coordinación y Concertación Política.
 
 ###### Artículo 41.
 
@@ -440,6 +532,26 @@ I. Establecer la forma y estilo de los dictámenes que emitan las demás comisio
 II. Revisar los dictámenes de las Comisiones Ordinarias cuando estas así se lo soliciten, por cuanto hace a su redacción sin modificar su esencia, y
 
 III. Establecer normas de redacción parlamentaria y difundirlas.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 43 Bis.
+
+A la Comisión de Asuntos Migratorios le compete conocer de los asuntos siguientes:
+
+I. Asistencia y desarrollo humano del migrante y sus familias;
+
+II. La recepción de quejas y denuncias acerca de presuntas violaciones a los derechos de migrantes y emigrantes, a fin de turnarlas a las instituciones correspondientes;
+
+III. La obtención de información de los denunciantes que se estime conveniente y se considere pueda coadyuvar al cese de violaciones a las garantías individuales de migrantes y emigrantes;
+
+IV. Investigación y nuevos proyectos para dar seguimiento al fenómeno migratorio;
+
+V. El establecimiento de mecanismos de enlace y coordinación con las instituciones y organismos internacionales para promover el respeto a los derechos de los migrantes y emigrantes;
+
+VI. Proponer proyectos e iniciativas, programas y demás mecanismos que contribuyan a fortalecer el respeto y salvaguarda de los derechos de los emigrantes e inmigrantes en el territorio del estado, de conformidad con las leyes vigentes, tratados y convenios internacionales sobre la materia, signados por nuestro país, y
+
+VII. Proponer las Leyes necesarias para la prevención y erradicación de la violencia hacia los migrantes y emigrantes.
 
 ###### Artículo 44.
 
@@ -481,13 +593,19 @@ III. Apoyar a la juventud en la gestión de sus asuntos, demandas, opiniones y p
 
 IV. Proponer las medidas necesarias para la prevención y erradicación de la fármacodependencia y adicciones entre los jóvenes.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 47.
 
-Corresponde a la Comisión de Educación y Cultura:
+Corresponde a la Comisión de Educación, Ciencia, Tecnología y Cultura:
 
-I. Promover la actividad cultural en el Estado, y
+I. Conocer de las iniciativas que pretendan cambiar el marco educativo del Estado de Tlaxcala, procurando siempre el beneficio de la educación que se imparta en el Estado;
 
-II. Conocer de los asuntos relativos a la Educación Pública del Estado en todos sus niveles y modalidades.
+II. Promover la actividad cultural en el Estado;
+
+III. Promover y fomentar activamente la pluriculturalidad del Estado de Tlaxcala, llevando a cabo actos que inculquen el conocimiento de valores morales, culturales, científicos en beneficio de la sociedad tlaxcalteca, en todos los niveles y modalidades de la educación pública en el Estado, y
+
+IV. Conocer de los asuntos relativos a la Educación Pública del Estado en todos sus niveles y modalidades.
 
 ###### Artículo 48.
 
@@ -515,7 +633,9 @@ c. Impuestos extraordinarios o especiales, estatales o municipales, y
 
 d. La información y documentación para negociar empréstitos del Estado, y de los municipios en términos de la Constitución.
 
-III. Proponer, en coordinación con la Gran Comisión, el Presupuesto de Egresos para el ejercicio anual del Congreso;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+III. Proponer, en coordinación con la Junta de Coordinación y Concertación Política, el Presupuesto de Egresos para el ejercicio anual del Congreso;
 
 IV. Conocer sobre los convenios que celebre en materia financiera el Gobierno del Estado con los ayuntamientos de la entidad, y los que celebren aquellos con la Federación;
 
@@ -611,33 +731,61 @@ II. Coadyuvar, en su caso, con la autoridad competente en la consulta a la ciuda
 
 Corresponde a la Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos, el conocimiento de los asuntos siguientes:
 
-I. De la minuta proyecto de Decreto que remita el Congreso de la Unión respecto de reformas, adiciones o modificaciones a la Constitución General de la República;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-II. De las iniciativas de reformas o adiciones a la Constitución;
+I. De la minuta proyecto de Decreto que remita el Congreso de la Unión respecto de reformas, adiciones o modificaciones a la Constitución Política de los Estados Unidos Mexicanos;
 
-III. De las iniciativas de reformas o adiciones, a las Leyes orgánicas y reglamentarias derivadas de la Constitución;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-IV. De las iniciativas de reformas o adiciones a la legislación administrativa, civil y penal;
+II. De las iniciativas de reformas, adiciones y derogaciones a la Constitución;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+III. De las iniciativas de expedición, reformas, adiciones y derogaciones, a las leyes orgánicas y reglamentarias derivadas de la Constitución;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+IV. De las iniciativas de reformas, adiciones y derogaciones a la legislación administrativa, civil y penal;
 
 V. Opinar ante el Pleno sobre la defensa de los intereses del Congreso en el procedimiento en que este sea parte;
 
-VI. De las iniciativas de reformas o adiciones a la Ley Orgánica, a este Reglamento y a las normas internas del Congreso;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-VII. De la solicitud de autorización que formule el Ejecutivo del Estado o los ayuntamientos para ejercer actos de dominio respecto de los bienes inmuebles, propiedad del Estado o de los municipios;
+VI. De las iniciativas de reformas, adiciones y derogaciones a la Ley Orgánica, a este reglamento y a las normas internas del Congreso;
 
-VIII. Los relacionados con el cambio de denominación de las poblaciones, la creación de presidencias de comunidad y la constitución de municipios;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+VII. De la solicitud de autorización que formule el Ejecutivo del Estado o los ayuntamientos para ejercer actos de dominio respecto de los bienes muebles e inmuebles, propiedad del Estado o de los municipios;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+VIII. Los relacionados con el cambio de denominación de las poblaciones, el establecimiento de presidencias de comunidad y la constitución de municipios;
 
 IX. Los relativos a la desaparición o suspensión de un ayuntamiento, la suspensión o revocación del mandato de alguno de sus integrantes y el dictamen sobre la designación de concejos municipales;
 
-X. La proposición para la designación de Gobernador Sustituto, Interino o Provisional y conocer de las licencias que soliciten;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-XI. De los que se refieran a licencias para la separación del cargo de los diputados;
+X. Lo relativo a la expedición del bando solemne de Gobernador electo;
 
-XII. Los relativos al cambio de residencia de los poderes del Estado, o del recinto oficial del Poder Legislativo. Estos cambios se autorizarán siempre en formas provisionales y condicionadas a la duración de la causa que los motive;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
-XIII. Los que se refieren a investir al Ejecutivo de facultades extraordinarias o especiales, cuando fuere necesario, y a la aprobación de los actos que ese Poder realice en el ejercicio de ellas; con sujeción a la Constitución Política del Estado y las Leyes aplicables, y
+XI. La proposición para la designación de Gobernador sustituto, interino o provisional y conocer de las licencias que solicite;
 
-XIV. Los relativos a nombramientos, licencias y renuncias de los Magistrados del Poder Judicial.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XII. De los que se refieran a licencias para la separación del cargo de los diputados;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XIII. Los relativos al cambio de residencia de los poderes del Estado, o del recinto oficial del Poder Legislativo. Estos cambios se autorizarán siempre en formas provisionales y condicionadas a la duración de la causa que los motive;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XIV. Los que se refieren a investir al Ejecutivo de facultades extraordinarias o especiales, cuando fuere necesario, y a la aprobación de los actos que ese Poder realice en el ejercicio de ellas; con sujeción a la Constitución Política del Estado y las Leyes aplicables, y
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+XV. Los relativos a nombramientos, licencias y renuncias de los Magistrados del Poder Judicial.
 
 ###### Artículo 58.
 
@@ -690,6 +838,20 @@ Corresponde a la Comisión de Turismo:
 I. Conocer de la política en materia de turismo del Estado, y
 
 II. Coadyuvar en los programas que realicen las dependencias del Gobierno del Estado en materia de turismo.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 62 Bis.
+
+A la Comisión de Información Pública y Protección de Datos Personales le corresponde:
+
+I. Coordinar y supervisar las acciones tendientes a garantizar el acceso a la información que sea clasificada como pública a través de la Secretaría Parlamentaria que será el área Responsable de la Información;
+
+II. Organizar y facilitar el acceso a la información y dar trámite a las solicitudes de información presentadas ante el Congreso del Estado;
+
+III. Elaborar los proyectos de iniciativa de reformas y adiciones a la Constitución, a la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala y demás Leyes en la materia, y
+
+IV. Elaborar los dictámenes con Proyecto de Decreto o Acuerdos sobre los asuntos que le sean turnados, según sea el caso.
 
 #### Sección Tercera. Procedimiento
 
@@ -803,9 +965,11 @@ Los Acuerdos serán tomados por mayoría de votos de los presentes, en caso de e
 
 Sólo con autorización del presidente de la Mesa Directiva, las comisiones podrán reunirse en horas en que el Pleno sesione; sin embargo, se podrá ordenar la suspensión de la reunión si el Pleno requiriese la comparecencia de los diputados respectivos.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 85.
 
-Aprobado el dictamen, el presidente de la comisión lo turnará al presidente de la Mesa Directiva y a la Gran Comisión en un plazo que no excederá de tres días hábiles, para que, de ser procedente, se publique y enliste en el Orden del Día de la sesión que corresponda, a efecto de ordenar la lectura en los términos de este ordenamiento.
+Aprobado el dictamen, el presidente de la comisión lo turnará al presidente de la Mesa Directiva y a la Junta de Coordinación y Concertación Política en un plazo que no excederá de tres días hábiles, para que, de ser procedente, se publique y enliste en el Orden del Día de la sesión que corresponda, a efecto de ordenar la lectura en los términos de este ordenamiento.
 
 ###### Artículo 86.
 
@@ -839,17 +1003,21 @@ III. Cuando se hubiere cumplido el objeto de una comisión especial, quien la pr
 
 IV. Sin perjuicio de lo dispuesto en la fracción anterior, será responsabilidad del Secretario Parlamentario informar a la Mesa Directiva, con la debida anticipación a efecto de que en la sesión final de la legislatura, se proceda a declarar la extinción de aquellas comisiones especiales que a esa fecha no hubieren alcanzado su objeto;
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 90.
 
-No obstante lo dispuesto en el Artículo anterior, los presidentes de la Mesa Directiva y de la Comisión Permanente, de acuerdo con la Gran Comisión, podrán nombrar comisiones especiales de cortesía cuando el protocolo de una sesión solemne así lo requiera, limitándose su objeto a esa sesión en particular.
+No obstante lo dispuesto en el artículo anterior, los presidentes de la Mesa Directiva y de la Comisión Permanente, de acuerdo con la Junta de Coordinación y Concertación Política, podrán nombrar comisiones especiales de cortesía cuando el protocolo de una sesión solemne así lo requiera, limitándose su objeto a esa sesión en particular.
 
 ## Título Cuarto. Del Funcionamiento del Congreso
 
 ### Capítulo I. De las Sesiones del Pleno
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 91.
 
-En cada año legislativo el Congreso del Estado tendrá dos periodos ordinarios de sesiones que establece la Ley, sin perjuicio de celebrar las sesiones extraordinarias que determine.
+En cada año legislativo el Congreso del Estado tendrá dos periodos ordinarios de sesiones que establece la Ley Orgánica, sin perjuicio de celebrar las sesiones extraordinarias que determine.
 
 ###### Artículo 92.
 
@@ -871,7 +1039,9 @@ III. Las quejas relativas al desempeño de las comisiones o al de sus integrante
 
 IV. Cuando lo solicite algún diputado o los titulares de los poderes Ejecutivo y Judicial del Estado, y
 
-V. Los asuntos que la Gran Comisión o el presidente de la Mesa Directiva considere que deban tratarse en reserva.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+V. Los asuntos que la Junta de Coordinación y Concertación Política o el presidente de la Mesa directiva considere que deban tratarse en reserva.
 
 En las sesiones que se celebren de manera privada, el acta respectiva, será leída y aprobada en la misma sesión.
 
@@ -967,13 +1137,17 @@ VIII. Los asuntos y temas que deriven de los supuestos mencionados en la fracci�
 
 El orden del día contendrá como mínimo los puntos relativos a la instalación, pase de lista, quórum, discusión de los asuntos, la preferencia a que se refiere el Artículo anterior, clausura de la sesión y firma del acta correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 110.
 
-El presidente se reunirá antes de cada sesión con los integrantes de la Mesa Directiva y con la Gran Comisión para complementar, en su caso, el orden del día y para ordenar el desahogo de los asuntos en el curso de la sesión.
+El presidente se reunirá antes de cada sesión con los integrantes de la Mesa Directiva y con la Junta de Coordinación y Concertación Política para complementar, en su caso, el orden del día y para ordenar el desahogo de los asuntos en el curso de la sesión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 111.
 
-Toda convocatoria deberá contener el orden del día acordado por el presidente de la Mesa Directiva y la Gran Comisión y enviarse por escrito a cada uno de los diputados previa a la sesión, por conducto de la Secretaría Parlamentaria, dentro de las veinticuatro horas.
+Toda convocatoria deberá contener el orden del día acordado por el presidente de la Mesa Directiva y la Junta de Coordinación y Concertación Política y enviarse por escrito o por correo electrónico a cada uno de los diputados previa a la sesión, por conducto de la Secretaría Parlamentaria, dentro de las veinticuatro horas.
 
 Cuando los asuntos sean de urgencia el orden del día de la sesión siguiente será dado a conocer en forma verbal por el presidente de la Mesa Directiva, ante los asistentes a la sesión.
 
@@ -1003,19 +1177,25 @@ IV. En su oportunidad, el dictamen que emita la comisión pasará a segunda lect
 
 Las iniciativas provenientes de las comisiones en asuntos de su competencia, tendrán el carácter de dictámenes y pasarán a discusión del Pleno, una vez incluidas en el orden del día.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 116.
 
 Las iniciativas de Ley o Decreto presentadas al Pleno por uno o más diputados, por las comisiones ordinarias en asuntos que no sean de su competencia, por los particulares, así como las propuestas que los mismos hicieren, que no fueran iniciativas de Ley, Decreto o Acuerdo se sujetarán al procedimiento siguiente:
 
-I. La Secretaría dará lectura del proyecto presentado, por una sola vez. Tras la lectura podrá su autor o autores si lo solicitan, abundar sobre los fundamentos y razones de su iniciativa;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+I. La Secretaría de la Mesa Directiva dará la lectura del proyecto presentado, por una sola vez. Tras la lectura podrá su autor o autores si lo solicitan, abundar sobre los fundamentos y razones de sus iniciativas;
 
 II. Apertura de un turno de oradores en el que harán uso de la palabra tres en pro y tres en contra, quienes hablarán una sola vez hasta por cinco minutos dándose preferencia en pro a los autores del proyecto, y
 
 III. Inmediatamente se preguntará al Pleno si admite a discusión o desecha el proyecto. En el primer caso se turnará a la comisión que corresponda; en el segundo, el proyecto no se presentará durante ese mismo período de sesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 117.
 
-En los casos de urgencia, de obvia resolución o cuando esté por concluir algún período de sesiones, calificado por el voto de las dos terceras partes de los diputados presentes, podrá el Pleno dar curso a las iniciativas y ponerlas a discusión inmediatamente después de su lectura.
+En los casos de urgencia, cuando se evidencie que se encuentra en riesgo la estabilidad política, económica y social del Estado y sean de obvia y urgente resolución o que esté por concluir algún período de sesiones, calificado por el voto de las dos terceras partes de los diputados presentes, podrá el Pleno dar curso a las iniciativas y ponerlas a discusión inmediatamente después de su lectura.
 
 Sólo en estos casos podrá ser dispensado el requisito de turno a comisión para dictamen.
 
@@ -1023,9 +1203,11 @@ Sólo en estos casos podrá ser dispensado el requisito de turno a comisión par
 
 En la reforma o abrogación de las Leyes, se observarán los mismos trámites establecidos para su formación.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 119.
 
-Los documentos con los que se de cuenta al Pleno, que no estén dentro de las hipótesis a que se refieren los Artículos anteriores, así como la correspondencia proveniente de instituciones públicas o privadas o de particulares serán tramitados tan luego sean leídos por el secretario, en caso de que a consideración del presidente de la Mesa Directiva considere que es necesaria una resolución, turnará aquél a una comisión ordinaria para su estudio y se informará al peticionario del trámite de su solicitud.
+Los documentos con los que se de cuenta al Pleno, que no estén dentro de las hipótesis a que se refiere los artículos anteriores, así como la correspondencia proveniente de instituciones públicas o privadas o de particulares serán tramitados tan luego sean leídos por la Secretaría de la Mesa Directiva, en caso de que a consideración del presidente de la Mesa Directiva considere que es necesaria una resolución, turnará aquél a una comisión ordinaria para su estudio y se informará al peticionario del trámite de su solicitud, en un término no mayor de quince días.
 
 ###### Artículo 120.
 
@@ -1063,9 +1245,11 @@ IV. Concluir con proposiciones claras y sencillas que puedan sujetarse a votaci�
 
 Cuando los dictámenes se refieran a la proposición de una iniciativa de Ley, Decreto o Acuerdo, contendrá una exposición clara y precisa de los motivos de la misma y el texto íntegro de los Artículos propuestos y en su caso de los que se pretenda reformar o derogar.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 126.
 
-Los dictámenes se entregarán a la Gran Comisión para que ésta ordene a la Secretaría Parlamentaria la impresión de las copias necesarias que serán entregadas a los diputados, y acuerde con la Mesa Directiva o la Comisión Permanente; en su caso, la inclusión de su análisis y discusión en el orden del día.
+Los dictámenes se entregarán a la Junta de Coordinación y Concertación Política para que ésta ordene a la Secretaría Parlamentaria la remisión por correo electrónico o en su caso la impresión de las copias necesarias que serán entregadas a los diputados, y acuerde con la Presidencia de la Mesa Directiva o la Comisión Permanente; en su caso, la inclusión de su análisis y discusión en el orden del día.
 
 ###### Artículo 127.
 
@@ -1091,7 +1275,9 @@ Las discusiones se regirán por las reglas siguientes:
 
 I. Tratándose de actas:
 
-a. Si un diputado las impugnare, uno de los secretarios expondrá las razones por las que se hayan redactado de esa manera;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
+a. Si un diputado las impugnare, uno de los secretarios de la Mesa directiva expondrá las razones por las que se hayan redactado de esa manera;
 
 b. Enseguida, podrá hacer uso de la palabra el que hizo la impugnación y en el mismo sentido otro diputado por una sola vez;
 
@@ -1139,9 +1325,11 @@ Cuando se presente dictamen aprobado por la mayoría de la comisión y el voto p
 
 Para hablar en contra se dará la preferencia al autor del voto en particular.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 133.
 
-Desechado un dictamen en lo general o en uno de sus Artículos volverá a la comisión para que lo reforme en el sentido de la discusión:
+Desechado un dictamen por el pleno, en lo general o en uno de sus artículos volverá a la comisión para que lo reforme en el sentido de la discusión, en los términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Tlaxcala.
 
 I. Si se hubieren manifestado diversas opiniones, la reforma se hará en el sentido indicado por el mayor número de ellas;
 
@@ -1415,11 +1603,13 @@ El Congreso, a través de la Secretaría Parlamentaria, garantizará que los dip
 
 ### Capítulo X. De la Gaceta Parlamentaria
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 179.
 
-La Unidad de Prensa y Relaciones Públicas, bajo la supervisión de la Gran Comisión, hará la más amplia difusión de los actos mediante los cuales lleven a cabo el cumplimiento de las funciones que la Constitución, la Ley Orgánica y este Reglamento les encomiendan; a través de la gaceta parlamentaria.
+La Unidad de Prensa y Relaciones Públicas, bajo la supervisión de la Junta de Coordinación y Concertación Política, hará la más amplia difusión de los actos mediante los cuales lleven a cabo el cumplimiento de las funciones que la Constitución, la Ley Orgánica y este Reglamento les encomiendan; a través de la gaceta parlamentaria.
 
-La Gran Comisión difundirá las actividades legislativas del Congreso, mediante la publicación de una revista periódica y en la página electrónica.
+La Junta de Coordinación y Concertación Política difundirá las actividades legislativas del Congreso, mediante la publicación de una revista periódica y en la página electrónica.
 
 ## Título Quinto. De las Etapas Prelegislativa y Poslegislativa
 
@@ -1443,9 +1633,11 @@ IV. El proceso de recopilación sistemática de cualquier información históric
 
 V. El contenido de las fracciones anteriores se encaminarán a los temas o asuntos determinados e indispensables para otorgar un sustento lógico jurídico a los proyectos de Ley.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 182.
 
-La Gran Comisión y el presidente de la Mesa Directiva al acordar el programa legislativo de cada período de sesiones, determinarán las iniciativas de Ley o de reformas o adiciones que se incluirán en etapa prelegislativa y establecerán las bases generales para su desahogo.
+La Junta de Coordinación y Concertación Política y el presidente de la Mesa Directiva al acordar el programa legislativo de cada período de sesiones, determinarán cuales iniciativas de Ley o de reformas, adiciones o derogaciones que se incluirán en etapa prelegislativa y establecerán las bases generales para su desahogo.
 
 ###### Artículo 183.
 
@@ -1524,3 +1716,17 @@ P.O. 7 DE ABRIL DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión y para la instalación de la LX Legislatura se estará a lo dispuesto por el ARTÍCULO SÉPTIMO TRANSITORIO de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se contrapongan a este Decreto.
