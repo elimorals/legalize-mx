@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-administracion-publica-municipal-del-h-66660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2009-11-11"
+last_updated: "2010-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ, CHIAPAS
 
+> <small>N. DE E. LAS REFORMAS APROBADAS POR EL ARTICULO UNICO DEL ACUERDO SIN NÚMERO, PUBLICADO EN EL P.O. DE 13 DE OCTUBRE DE 2010, MODIFICARON DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.</small>
+
 REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL H. AYUNTAMIENTO DE TUXTLA GUTIERREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de enero de 2009.
 
@@ -95,6 +97,8 @@ El Ayuntamiento se auxiliará de las dependencias de la administración centrali
 
 En estos mismos criterios se basará el Ayuntamiento para la creación de organismos descentralizados.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 10.
 
 La Administración Pública Centralizada del municipio de Tuxtla Gutiérrez, estará integrada por las siguientes dependencias y organismos:
@@ -105,23 +109,25 @@ II. Tesorería;
 
 III. Secretaría de Seguridad Pública Municipal;
 
-IV. Secretaría de Planeación para el Desarrollo Sustentable;
+IV. Secretaría de Obras Públicas y Desarrollo Urbano;
 
-V. Secretaría de Desarrollo Social Municipal;
+V. Contraloría Municipal;
 
-VI. Secretaría de Desarrollo Económico Municipal;
+VI. Secretaría de Planeación para el Desarrollo Sustentable;
 
-VII. Secretaría de Obras Públicas y Desarrollo Urbano;
+VII. Secretaría de Desarrollo Social Municipal;
 
-VIII. Secretaría de Salud Municipal;
+VIII. Secretaría de Desarrollo Económico Municipal;
 
-IX. Secretaría de Administración Municipal;
+IX. Secretaría de Salud Municipal;
 
-X. Secretaría de Servicios Municipales;
+X. Secretaría de Administración Municipal;
 
-XI. Contraloría Social; y,
+XI. Secretaría de Servicios Municipales;
 
-XII. Secretaría Técnica.
+XII. Contraloría Social; y,
+
+XIII. Secretaría Técnica.
 
 ###### Artículo 11.
 
@@ -235,7 +241,7 @@ Todas las disposiciones o comunicaciones oficiales que por escrito dicte el Pres
 
 ###### Artículo 22.
 
-La Secretaria General del Ayuntamiento para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica;
+La Secretaría General del Ayuntamiento para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica;
 
 I. Dirección del Ayuntamiento;
 
@@ -781,537 +787,13 @@ XXI. Supervisar la elaboración de las directrices acerca de la presentación, i
 
 XXII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Tesorería Municipal dentro del ámbito de su competencia.
 
-### Capítulo III. Secretaría de Seguridad Pública Municipal
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+### Capítulo III. Secretaría de Obras Públicas y Desarrollo Urbano
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 35.
-
-La Secretaría de Seguridad Pública Municipal es la dependencia oficial del Ayuntamiento, encargada de salvaguardar la seguridad de personas y bienes dentro de la circunscripción territorial del Municipio, garantizar el orden y la seguridad pública, así como cuidar la tranquilidad de la población. Le corresponderá también instrumentar el adecuado y permanente flujo vehicular, la seguridad vial y el respeto de los reglamentos que regulan el tránsito de automóviles, camiones y demás muebles en el municipio. Asimismo, deberá establecer los mecanismos adecuados para prevenir, controlar y combatir la contaminación ambiental con motivo de la circulación de vehículos.
-
-###### Artículo 36.
-
-Le corresponde además de las atribuciones que le señalen las leyes respectivas, el despacho de los siguientes asuntos bajo las instrucciones del Presidente Municipal:
-
-I. Diseñar y definir políticas, programas y acciones a efectuar, respecto a la prevención de los delitos en el Municipio;
-
-II. Mantener la seguridad, el orden y la tranquilidad pública en el Municipio;
-
-III. Prevenir y auxiliar a las personas en la protección de sus propiedades, posesiones y derechos;
-
-IV. Auxiliar dentro del marco legal correspondiente al Ministerio Público, autoridades administrativas y judiciales, en el ámbito de su competencia y en los asuntos oficiales que le soliciten;
-
-V. Coordinarse con otras corporaciones policiales en el otorgamiento de protección a la ciudadanía y en los operativos que lleguen a realizarse;
-
-VI. Respetar y hacer respetar las disposiciones legales aplicables en el Municipio en materia de seguridad pública municipal;
-
-VII. Aprehender a los delincuentes en los casos de flagrante delito y en los de notoria urgencia, cuando se trate de los que se persiguen de oficio y que por razones de la hora, del lugar, o la distancia, no haya autoridad judicial que expida la orden de aprehensión y exista temor fundado de que el presunto responsable se sustraerá a la acción de la justicia;
-
-VIII. Promover la organización y funcionamiento de los Consejos o Comités Consultivos Municipales de Seguridad Pública o Protección Ciudadana;
-
-IX. Contribuir a la seguridad pública de la sociedad realizando tareas de prevención de ilícitos y labores de protección civil o auxilio de la población cuando se requiere;
-
-X. Poner a disposición de las autoridades competentes a los menores infractores cuando sus conductas puedan entrañar la comisión de un delito o de una falta administrativa, conforme a las disposiciones legales aplicables;
-
-XI. Velar por el cumplimiento de las disposiciones establecidas en los reglamentos y ordenamientos municipales, así como en las disposiciones y acuerdos emanados del Ayuntamiento o del Presidente Municipal, en su caso;
-
-XII. Coadyuvar con las instituciones Federales, Estatales y Municipales para combatir la delincuencia, aplicando las leyes, reglamentos, decretos y participación ciudadana en materia de orden público;
-
-XIII. Cooperar con las autoridades administrativas y judiciales en la conservación del estado de derecho coadyuvando en la administración de justicia, conforme a las leyes y reglamentos respectivos;
-
-XIV. Planear, dirigir, organizar, controlar, supervisar y evaluar el funcionamiento de la Policía Municipal;
-
-XV. Integrar el Consejo Municipal de Seguridad Pública, tanto el titular de la Policía Preventiva Municipal como un representante de la propia Secretaría de Seguridad Pública Municipal, en términos de la Ley que Establece las Bases de Coordinación del Sistema Estatal de Seguridad Pública y cumplir con las atribuciones que le señala este ordenamiento;
-
-XVI. Promover programas, acciones y políticas a efecto de optimizar el servicio de seguridad pública en el Municipio;
-
-XVII. Establecer las disposiciones, normas operativas, administrativas y disciplinas, que determinan la actuación de los elementos de la policía municipal;
-
-XVIII. Coordinarse con la Dirección de Seguridad Pública del Estado en todos los aspectos operativos que se requieran;
-
-XIX. Informar, cuando sea requerido, al Gobernador del Estado, en su carácter de mando supremo de la fuerza pública en el Municipio, los asuntos relativos a la corporación;
-
-XX. Acordar con el Presidente Municipal e informarle de los asuntos que le corresponde (sic), así como desempeñar las comisiones y funciones que le confieran;
-
-XXI. Formular anteproyectos de programas y presupuesto de los asuntos de su competencia sometiéndolo a la consideración del Presidente Municipal para su incorporación a los proyectos que se sometan a la aprobación del Ayuntamiento;
-
-XXII. Captar, coordinar la atención y resolver las quejas de la ciudadanía en materia de tránsito y vialidad por la circulación de vehículos y/o personas; y
-
-XXIII. Las demás que le asignen las Leyes, Reglamentos y el Presidente Municipal.
-
-###### Artículo 37.
-
-La Secretaría de Seguridad Pública Municipal para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
-
-I. Dirección de Seguridad Pública Municipal;
-
-II. Dirección de Tránsito y Vialidad Municipal;
-
-III. Dirección de Transporte;
-
-IV. Dirección de Protección Civil; y,
-
-V. Coordinación de Policía de Proximidad y Prevención del Delito.
-
-###### Artículo 38.
-
-La Dirección de Seguridad Pública Municipal tendrá las siguientes atribuciones:
-
-I. Mantener permanente comunicación con los elementos de la policía municipal para exhortarlos a cumplir con la obligación de que no se altere el orden público y así mismo auxiliar a la ciudadanía en la protección de su integridad física, libertad, propiedad y posesión en los términos del Reglamento;
-
-II. Establecer seguridad para detectar a las personas que alteran el orden público, de igual manera aquellas que causen delitos que merezca pena corporal, poniéndolas a disposición de la autoridad competente;
-
-III. Llevar acabos (sic) diferentes operativos que contribuyan a la prevención del delito; para mantener una ciudad segura y darle paz y tranquilidad a la ciudadanía;
-
-IV. Supervisar las denuncias ciudadanas por abuso de autoridad o corrupción, de ciudadanos en contra de los cuerpos de la policía de Seguridad Pública Municipal, y llevar a cabo lo correspondiente;
-
-V. Proporcionar la información que sea solicitada por las autoridades competentes correspondientes; y,
-
-VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaria de Seguridad Pública Municipal dentro del ámbito de su competencia.
-
-###### Artículo 39.
-
-La Dirección de Tránsito y Vialidad Municipal tendrá las siguientes atribuciones:
-
-I. Coordinar la elaboración del plan operativo de tránsito y vialidad municipal y vigilar su cumplimiento;
-
-II. Coordinar la capacitación y el adiestramiento de todo el personal adscrito a la dirección y elaborar un informe para la superioridad;
-
-III. Ordenar la detención, localización y presentación de vehículos al departamento de control operativo, que son solicitados por el Ministerio de Justicia o por los Jueces del Supremo Tribunal de Justicia del Estado;
-
-IV. Dar atención de las denuncias por abuso de autoridad o corrupción, de ciudadanos en contra de los cuerpos de tránsito y vialidad, levantando las actuaciones correspondientes;
-
-V. Aplicar las medidas disciplinarias que correspondan de acuerdo a las faltas en que incurra el personal operativo de la dirección, de acuerdo al Reglamento Interno de Seguridad Pública Municipal y las demás disposiciones aplicables;
-
-VI. Supervisar el correcto desempeño en sus actividades del personal de los departamentos a su cargo;
-
-VII. Coordinar la programación y el cumplimiento a los operativos y programas de esta Dirección;
-
-VIII. Representar al Secretario de Seguridad Pública, en eventos y reuniones de trabajo; y,
-
-IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Seguridad Pública, Tránsito y Vialidad Municipal dentro del ámbito de su competencia.
-
-###### Artículo 40.
-
-La Dirección de Transporte tendrá las siguientes atribuciones:
-
-I. Evaluar las peticiones de los transportistas con relación a señalamientos de terminales y paradas, para su instalación, así como los señalamientos de ascenso y descenso de pasajes en las calles de la ciudad;
-
-II. Elaborar estudio de factibilidad para la instalación de paradas y terminales del transporte público en coordinación con la Secretaría de Obras Públicas y Desarrollo Urbano;
-
-III. Supervisar operativos de transporte público y apoyo a la ciudadanía para verificar el cumplimiento del Reglamento de Tránsito y Vialidad;
-
-IV. Coordinar, planear y supervisar la logística en colaboración con el Jefe de Sección; y
-
-V. Analizar las quejas, denuncias y sugerencias sobre el servicio que se presta en el transporte público.
-
-###### Artículo 41.
-
-La Dirección de Protección Civil tendrá las siguientes atribuciones:
-
-I. Aplicar la normatividad y vigilar el debido cumplimiento a las disposiciones contenidas en el Reglamento Municipal de Protección Civil;
-
-II. Identificar y diagnosticar los riesgos a que está expuesta la población del Municipio y alertar a la población, al mismo tiempo elaborar el atlas municipal de riesgos;
-
-III. Elaborar, operar y coordinar el programa anual de protección civil, los programas especiales y el plan municipal de contingencia aprobado por el Consejo Municipal de Protección Civil;
-
-IV. Instrumentar un sistema de seguimiento y auto evaluación del programa municipal de protección civil e informar sobre el funcionamiento y avances;
-
-V. Establecer el sistema de comunicación con organismos que realicen acciones de monitoreo permanente para vigilar la posible ocurrencia de fenómenos destructores;
-
-VI. Promover la participación de la ciudadanía en la ejecución de los programas y acciones en materia de protección civil;
-
-VII. Formular el análisis de la magnitud de una afectación de acuerdo a la reglamentación de protección civil e informar a la superioridad;
-
-VIII. Habilitar centros de acopio de recursos y refugios temporales;
-
-IX. Coordinar la integración del Consejo Municipal de Protección Civil;
-
-X. Autorizar las disposiciones jurídicas aplicables que delegue la Secretaría de Seguridad Pública Municipal dentro del ámbito de su competencia;
-
-XI. Vigilar que se atienda de manera eficaz las peticiones de la ciudadanía encaminadas a la solicitud y atención a emergencias; y,
-
-XII. Establecer las directrices para dar servicio a las solicitudes de eventos de diferentes índoles en los que la ciudadanía tiene participación.
-
-###### Artículo 42.
-
-La Coordinación de Policía de Proximidad y Prevención del Delito tendrá las siguientes atribuciones:
-
-I. Colaborar en la esfera de su competencia con autoridades Federales, Estatales y Municipales en materia de seguridad;
-
-II. Planear, coordinar y dirigir, en coordinación con las asambleas de barrio, la operación de los Coordinadores, Supervisores y de los Agentes de Policía de Proximidad, en los programas de actuación preventiva, trámites, deficiencias y anomalías en vía y espacios públicos, en patrullajes alternativos, en visitas a escuelas, comercios y residencias;
-
-III. Hacer del conocimiento de la autoridad competente, de las irregularidades en que incurran los Coordinadores, Supervisores, Instructores y Agentes de Policía de Proximidad, en el desempeño, de sus funciones; de los hechos delictivos en que puedan estar involucrados y que fueren de su conocimiento; y de las quejas y denuncias de las asambleas de barrio;
-
-IV. Formular las listas de los Agentes de Policía (sic) Proximidad que se hayan hecho merecedores a condecoraciones, estímulos y recompensas, en los términos de las disposiciones aplicables;
-
-V. Realizar los movimientos de altas y bajas de los Agentes de Policía de Proximidad en coordinación con las asambleas de barrios;
-
-VI. Elaborar los Planes de Desarrollo de la Policía de Proximidad y los Programas de Prevención de Delitos; y,
-
-VII. Programar y calendarizar, actividades del área de prevención de delitos.
-
-###### Artículo 43.
-
-La Secretaría de Planeación para el Desarrollo Sustentable tiene como principal atribución establecer políticas y normas para la formulación, instrumentación, seguimiento, control y evaluación del proceso de Planeación para el Desarrollo Sustentable del Municipio, acorde a lo establecido en el Plan Municipal de Desarrollo, observando congruencia con los Planes Nacional y Estatal de Desarrollo y su marco jurídico vigente.
-
-### Capítulo IV. Secretaría de Planeación para el Desarrollo Sustentable Municipal
-
-###### Artículo 44.
-
-Le corresponde además de las atribuciones que le señalen las leyes respectivas, el despacho de los siguientes asuntos bajo las instrucciones del Presidente Municipal:
-
-I. Coordinar el proceso integral de formulación y actualización del Plan Municipal de Desarrollo 2008-2010, dentro del marco del sistema estatal de planeación democrática y de los instrumentos normativos aplicables;
-
-II. Controlar y evaluar el ejercicio de la inversión y gasto público municipal, observando su congruencia con los objetivos y metas señalados en el plan municipal de desarrollo, así como en la normatividad vigente;
-
-III. Coordinar a las dependencias y entidades de la Administración Pública Municipal para la elaboración de los programas sectoriales y operativos anuales, así como de los expedientes técnicos para los proyectos de inversiones institucionales y especiales, estableciendo los lineamientos generales para el seguimiento, control y evaluación acorde con el marco jurídico vigente en este rubro;
-
-IV. Poner a consideración del Presidente Municipal para su autorización los calendarios de gasto, ministraciones, ampliaciones y reducciones líquidas, liberaciones, retenciones, recalendarizaciones y traspasos presupuestarios de los proyectos y programas de inversión de las dependencias municipales en base a estudios y a la disponibilidad financiera;
-
-V. Optimizar los procesos y herramientas para la modernización y mejora continua en materia de planeación y programación de los proyectos y programas de inversión; así como de asistir a las áreas de la Administración Pública Municipal en ésta materia; y,
-
-VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el ejecutivo municipal dentro del ámbito de su competencia.
-
-###### Artículo 45.
-
-La Secretaría de Planeación para el Desarrollo Sustentable para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
-
-I. Dirección de Planeación Estratégica;
-
-Il. Dirección de Seguimiento, Control y Evaluación de la Inversión Pública;
-
-III. Dirección de Geografía y Estadística; y,
-
-IV. Dirección de Participación Ciudadana.
-
-###### Artículo 46.
-
-La Dirección de Planeación Estratégica tendrá las siguientes atribuciones:
-
-I. Coordinar en materia de planeación a las áreas operativas de la Administración Pública Municipal, para la formulación e instrumentación de planes y programas que permitan el cumplimiento de los objetivos, estrategias y acciones del Plan Municipal de Desarrollo;
-
-II. Coordinar el apoyo técnico en materia de planeación estratégica a todas las áreas de la Administración Pública Municipal;
-
-III. Coordinar la integración del Plan Municipal de Desarrollo;
-
-IV. Coordinar la integración y presentación de los Informes de Gobierno del Presidente Municipal;
-
-V. Coordinar el Monitoreo de Medios de Información, sobre asuntos relacionados con el H. Ayuntamiento; y,
-
-VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Planeación para el Desarrollo Sustentable dentro del ámbito de su competencia.
-
-###### Artículo 47.
-
-La Dirección de Seguimiento, Control y Evaluación de la Inversión Pública tendrá las siguientes atribuciones:
-
-I. Coordinar y vigilar que el control, evaluación y seguimiento de la inversión pública municipal, se realice conforme a los lineamientos normativos vigentes, para apoyar a las dependencias ejecutoras en la formulación de sus programas y proyectos de inversión;
-
-II. Coordinar la formulación y difusión de los documentos normativos que contengan los lineamientos generales en materia de control y evaluación de programas y proyectos de inversión pública municipal;
-
-III. Vigilar que las dependencias ejecutoras cumplan con los requisitos normativos para la formulación de los programas y proyectos de inversión pública municipal, brindándoles la asesoría necesaria;
-
-IV. Verificar el seguimiento de los avances físicos financieros trimestrales, de los programas y proyectos de inversión para evaluar el avance de los mismos;
-
-V. Comprobar que las adecuaciones presupuestarias que realicen las dependencias municipales ejecutoras sean apegadas a la normatividad vigente de los programas y/o proyectos de la inversión pública municipal; y,
-
-VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Planeación para el Desarrollo Sustentable dentro del ámbito de su competencia.
-
-###### Artículo 48.
-
-La Dirección de Geografía y Estadística tendrá las siguientes atribuciones:
-
-I. Coordinar y dirigir la sistematización de información geográfica y estadística para generar un banco de información oportuna y confiable, que apoye procesos de planeación y la toma de decisiones orientados al desarrollo sustentable del Municipio y del Estado;
-
-II. Diseñar y difundir los indicadores estratégicos, de gestión y de servicios de la Administración Pública Municipal;
-
-III. Proponer la creación del Comité Municipal de Geografía y Estadística, coordinando y elaborando los procedimientos para captar información confiable para la toma de decisiones ejecutivas;
-
-IV. Diseñar el sistema informático para el registro, seguimiento, control y evaluación del gasto de inversión pública municipal;
-
-V. Coordinar los trabajos de diseño y captura de la base de datos del sistema informático para el registro, seguimiento, control y evaluación del gasto de inversión pública municipal;
-
-VI. Coordinar las tareas orientadas a informar a las Asambleas de Barrio, Coordinadores de Sector y autoridades que así lo soliciten, sobre las obras signadas en minutas de acuerdo del COPLADEM; y
-
-VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Planeación para el Desarrollo Sustentable dentro del ámbito de su competencia.
-
-###### Artículo 49.
-
-La Dirección de Participación Ciudadana tendrá las siguientes atribuciones:
-
-I. Coordinar la atención a las asambleas de barrios, con la finalidad de ser el enlace entre estas y las diferentes autoridades Municipales, Estatales y Federales;
-
-II. Coordinar que se cumpla con el procedimiento para la reestructuración o ratificación de las asambleas de barrios;
-
-III. Coordinar, organizar y dar seguimiento a las peticiones de las asambleas de barrios ante las instancias correspondientes;
-
-IV. Mantener comunicación con los Jefes de Departamentos y Coordinadores de Sector con la finalidad de generar una participación responsable y eficiente de las asambleas de barrios con el Ayuntamiento;
-
-V. Coordinar la atención de las solicitudes en relación a las demandas de programas y proyectos de inversión, para evaluar la eficiencia y eficacia de la Administración Pública Municipal;
-
-VI. Informar a la Secretaría de Planeación para el Desarrollo Sustentable de las diferentes irregularidades sociales que se presenten en las colonias; y,
-
-VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Planeación para el Desarrollo Sustentable dentro del ámbito de su competencia.
-
-###### Artículo 50.
-
-La Secretaría de Desarrollo Social es la encargada de la generación y aplicación de las políticas públicas orientadas hacia el desarrollo integral principalmente de los grupos sociales más desprotegidos y vulnerables por medio de la realización de actividades tanto culturales, educativas, deportivas y de recreación en apego al Plan Municipal de Desarrollo Social.
-
-###### Artículo 51.
-
-Le corresponde además de las atribuciones que le señalen las leyes respectivas y el Plan Municipal de Desarrollo Social, el despacho de los siguientes asuntos:
-
-I. Presentar a la instancia correspondiente el programa anual de la Secretaría;
-
-II. Coordinar las áreas a su cargo para el cumplimiento municipal de desarrollo;
-
-III. Promover, desarrollar y ejecutar en el ámbito de su competencia los programas municipales de fomento y desarrollo social;
-
-IV. Planear, desarrollar, fomentar y difundir de forma sistemática la cultura deportiva para todos los sectores de la población, en coordinación estrecha con los organismos gubernamentales y civiles que se dedican a la práctica de los mismos;
-
-V. Planear, desarrollar, fomentar y difundir la formación del patrimonio productivo y capital de trabajo de los ciudadanos orientado a la equidad de género;
-
-VI. Apoyar y promover la participación de la ciudadanía en el desarrollo de actividades que conlleven a su superación e integración a la sociedad;
-
-VII. Fomentar acciones interinstitucionales e integrales encaminadas al beneficio de adultos mayores, personas con capacidades diferentes y niños en situación de calle;
-
-VIII. Implementar actividades encaminadas a la atención integral de grupos vulnerables que se encuentran marginados de los beneficios sociales, económicos y culturales en el Municipio;
-
-IX. Captar necesidades de la población, realizar el diagnóstico correspondiente y programar el consenso de acciones que brinden mayores beneficios en el desarrollo social de la comunidad;
-
-X. Planear, organizar y controlar los programas y actividades educativas que requiere la ciudadanía en vinculación con los organismos públicos y privados tanto federales como estatales;
-
-XI. Organizar, administrar, supervisar y evaluar los programas orientados a mejorar la calidad de vida en la población del Municipio;
-
-XII. Desarrollar y fomentar la cultura de los ciudadanos a través de la protección, conservación y enriquecimiento de nuestro patrimonio cultural; y,
-
-XIII. Las demás que le asignen las Leyes, Reglamentos y el Presidente Municipal.
-
-### Capítulo V. Secretaría de Desarrollo Social
-
-###### Artículo 52.
-
-La Secretaría de Desarrollo Social para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
-
-l. Dirección de Desarrollo para el Bienestar Social;
-
-II. Dirección de Difusión Cultural;
-
-III. Dirección de Economía Social;
-
-IV. Dirección de Promoción Deportiva;
-
-V. Dirección de Servicios Educativos; y,
-
-VI. Instituto Municipal de las Mujeres.
-
-###### Artículo 53.
-
-La Dirección de Desarrollo para el Bienestar Social tendrá las siguientes atribuciones:
-
-I. Dirigir y aplicar las Políticas Públicas, priorizando la equidad, la igualdad de oportunidades y la Integración de las acciones para la ciudadanía en el marco de la normatividad vigente en materia de Desarrollo para el Bienestar Social;
-
-II. Asegurar la aplicación y supervisión del programa municipal de desarrollo para el bienestar social;
-
-III. Supervisar el desarrollo y vigilar las actividades encaminadas a la atención integral de la población en general que se encuentran marginados de los beneficios sociales, económicos y culturales en el Municipio.
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
-
-IV. Analizar la demanda, integrar el presupuesto, promover y apoyar el desarrollo de programas de vivienda popular, promoviendo la suscripción de convenios de coordinación de acciones en esta materia con las instancias competentes; y,
-
-V. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
-
-###### Artículo 54.
-
-La Dirección de Difusión Cultural tendrá las siguientes atribuciones:
-
-I. Dirigir y coordinar las actividades pertinentes destinadas a la investigación, presentación y difusión de las expresiones diversas de la cultura de esta ciudad;
-
-II. Promover acciones culturales en el Municipio, así como intercambios artísticos a través de actos culturales;
-
-III. Sensibilizar y concientizar a la población sobre la presentación y difusión de las tradiciones;
-
-IV. Establecer convenios con organizaciones, centros culturales y todas aquellas instituciones para fomentar la cultura del Municipio; y,
-
-V. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
-
-###### Artículo 55.
-
-La Dirección de Economía Social tendrá las siguientes atribuciones:
-
-I. Servir a la población de escasos recursos, disminuyendo los rezagos sociales y mejorando sus condiciones de vida, mediante la ejecución de programas orientados a fortalecer las capacidades para el desarrollo sustentable de personas en situación menos favorable;
-
-II. Coordinar la operación y funcionamiento de los esquemas de financiamiento orientados a la creación de proyectos de inversión productiva, dirigidos a la población en situación de pobreza;
-
-III. Coordinar las acciones tendientes al establecimiento y ampliación de proyectos de carácter productivo encaminados a garantizar la capitalización de sus beneficiarios;
-
-IV. Supervisar el diseño e implementación de programas tendientes a fomentar la diversificación de actividades productivas en los ámbitos individual, colectivo y familiar;
-
-V. Coordinar el diseño de esquemas funcionales de financiamiento y ahorro; tanto interinstitucional, como público y privado dirigidos a mejorar la calidad de vida de la población en situación de pobreza;
-
-VI. Supervisar la promoción y fomento de la integración de grupos sociales tendientes a desarrollar proyectos productivos de impacto;
-
-VII. Coordinar la vinculación de los diferentes sectores productivos en compatibilidad con las políticas municipales de equidad e inclusión;
-
-VIII. Coordinar el diseño y operación de los programas sociales encaminados a brindar atención integral en beneficio de la población en situación de pobreza; y
-
-IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
-
-###### Artículo 56.
-
-La Dirección de Promoción Deportiva tendrá las siguientes atribuciones:
-
-I. Realizar constantemente actividades físicas en beneficio de la salud de los practicantes de esta especialidad deportiva;
-
-II. Diseñar y establecer un programa integral de desarrollo de la cultura física, a través del deporte y la recreación, que atienda a toda la población;
-
-III. Realizar convenios de colaboración con instituciones educativas, públicas y privadas, para coadyuvar al desarrollo de los programas integrales de la cultura física, deporte y recreación;
-
-IV. Programar, presupuestar y operar el fondo municipal para el deporte, así como para el mantenimiento preventivo y correctivo de las instalaciones deportivas del Municipio;
-
-V. Impulsar el desarrollo de atletas y talentos de alto rendimiento en este ámbito para que representen al Municipio;
-
-VI. Programar y desarrollar la etapa municipal de la olimpiada nacional;
-
-VII. Programar y organizar en coordinación con las dependencias que correspondan los juegos de la tercera edad;
-
-VIII. Establecer eventos de reconocimientos a quienes destacan o impulsan el deporte en el Municipio; y,
-
-IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
-
-###### Artículo 57.
-
-La Dirección de Servicios Educativos tendrá las siguientes atribuciones:
-
-I. Organizar, dirigir, administrar los proyectos que den como resultado una mejora en la calidad de la educación diaria de la niñez y juventud tuxtleca;
-
-II. Organizar y vigilar el cumplimiento de programas que beneficien a los educandos de diferentes escuelas ubicadas en el Municipio;
-
-III. Organizar programas y talleres diversos en las Bibliotecas Públicas Municipales;
-
-IV. Fomentar la recreación y convivencia dentro de los espacios educativos, reconociendo los talentos de los educandos y de los maestros de los diferentes niveles académicos;
-
-V. Contribuir al cumplimiento de los programas educativos Federales y Estatales para su aplicación en las escuelas ubicadas dentro del Municipio;
-
-VI. Coordinar en colaboración con la Secretaría de Obras Públicas y Desarrollo Urbano Municipal el apoyo a la infraestructura educativa dentro de los programas y presupuestos aplicables para este ramo; y,
-
-VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaria de Desarrollo Social dentro del ámbito de su competencia.
-
-###### Artículo 58.
-
-El Instituto Municipal de las Mujeres como órgano desconcentrado de la Secretaría de Desarrollo Social, tendrá las siguientes atribuciones:
-
-l. Crear, analizar, evaluar y dar continuidad a las políticas públicas, programas, proyectos y acciones que se emprendan a favor de la igualdad de género, permitiendo compaginar el papel de la mujer en la familia y en el ámbito laboral;
-
-II. Aplicar programas, proyectos y acciones institucionales que incluyan la perspectiva de género y que mejoren la calidad de vida de las mujeres en el marco del respeto de sus derechos humanos y la paz social;
-
-III. Gestionar a nivel Federal, Estatal y Municipal apoyos ante diversas instituciones, para promover el mejoramiento de las condiciones sociales, económicas, políticas y culturales de las mujeres en los distintos ámbitos de la sociedad;
-
-IV. Dirigir y coordinar los trabajos para el desarrollo de igualdad de oportunidades así como los programas institucionales derivados;
-
-V. Fomentar trabajos que brinden los servicios para el combate a la marginación así como facilitar la creación de grupos interinstitucionales;
-
-VI. Establecer y concertar previa aprobación del Cabildo, la celebración de convenios o contratos necesarios para el ejercicio de las atribuciones del Instituto;
-
-VII. Conformar el Consejo Municipal de la Mujer;
-
-VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
-
-###### Artículo 59.
-
-La Secretaría de Desarrollo Económico es la dependencia responsable de promover, gestionar e impulsar el desarrollo económico del Municipio en todos los órdenes, contando para ello con las siguientes atribuciones:
-
-I. Proponer y coordinar las políticas y programas municipales de desarrollo económico;
-
-II. Impulsar, coordinar y promover las actividades comerciales, industriales, agropecuarias en todas sus ramas y en especial de aquellas de interés general para la población y de fomento al turismo;
-
-III. Servir de intermediario entre el Gobierno Municipal y las dependencias Federales y Estatales para fomentar el desarrollo económico en las actividades antes mencionadas;
-
-IV. Promover la concertación entre los sectores público, social y privado del Estado para fomentar el desarrollo económico de las ramas mencionadas;
-
-V. Promover y difundir los lugares turísticos del Municipio;
-
-VI. Promover y apoyar la instalación de nuevas tiendas de artículos básicos de consumo popular;
-
-VII. Coordinar y vigilar que las dependencias a su cargo cumplan con los programas a ellas encomendadas;
-
-VIII. Promover y gestionar la creación de nuevas empresas con el propósito de generar nuevas fuentes de empleo;
-
-IX. Planear, coordinar y promover las actividades artesanales propias del Municipio, a través del apoyo y organización de los artesanos;
-
-X. Asesorar a los empresarios en la preparación de proyectos de inversión;
-
-XI. Promover proyectos productivos de empresas ante fondos de financiamiento Estatales y Federales;
-
-XII. Mantener la consulta permanente con los organismos y asociaciones representativos del sector productivo;
-
-XIII. Planear, dirigir, controlar y evaluar los programas de capacitación, promoción y difusión relacionadas con el desarrollo económico;
-
-XIV. Promover y coordinar los programas y políticas municipales de desarrollo económico;
-
-XV. Planear, dirigir, controlar y evaluar el programa municipal para el fomento de la infraestructura industrial, comercial y de servicios;
-
-XVI. Promover, orientar y estimular el desarrollo y modernización del sector empresarial;
-
-XVII. Recopilar información socioeconómica del Municipio, así como indicadores (sic) estrategia de atracción de inversiones; y,
-
-XVIII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones reglamentarias.
-
-### Capítulo VI. Secretaría de Desarrollo Económico
-
-###### Artículo 60.
-
-La Secretaría de Desarrollo Económico para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
-
-I. Dirección de Desarrollo Turístico; y,
-
-II. Dirección de Dirección de (sic) Fomento Económico.
-
-###### Artículo 61.
-
-La Dirección de Desarrollo Turístico tendrá las siguientes atribuciones:
-
-I. Dirigir las acciones de planeación, organización, ejecución y evaluación con miras a una gestión pública sostenible del desarrollo turístico municipal;
-
-II. Dirigir un equipo técnico hacia la consecución de logros en el campo del desarrollo turístico desde el ámbito del sector público;
-
-III. Coordinar acciones de cooperación con los sectores público, privado y social, a fin de facilitar los logros en el campo del desarrollo turístico municipal;
-
-IV. Gestionar recursos, apoyos, acciones, facilidades, cooperación y todo aquello que sea necesario para llevar a cabo las dos funciones anteriores;
-
-V. Diseñar y dirigir la campaña visual al interior y exterior del Estado para promover como destino turístico a Tuxtla Gutiérrez;
-
-VI. Planificar y establecer la estrategia de promoción que se utilizará en cada evento; y,
-
-VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Económico dentro del ámbito de su competencia.
-
-###### Artículo 62.
-
-La Dirección de Fomento Económico tendrá las siguientes atribuciones:
-
-I. Mejorar las condiciones de vida de la población, impulsando programas que coadyuven al desarrollo empresarial, agropecuario e industrial;
-
-II. Establecer Fondos de Financiamiento para que las empresas puedan gestionar y obtener servicios y financiamientos necesarios para el desarrollo y fortalecimiento de sus actividades, así como la comercialización de sus productos;
-
-III. Promover y establecer la simplificación administrativa de los trámites para la apertura de negocios y nuevas inversiones de las empresas establecidas en el Municipio;
-
-IV. Instrumentar y asegurar la inversión productiva para el crecimiento de la micro, fami-empresa, pequeña y mediana empresa; así como de las actividades artesanales, agropecuarias, comercial, servicios y toda actividad económica en general; mediante el otorgamiento de apoyos específicos para su instalación, desarrollo y modernización;
-
-V. Establecer procesos de vinculación entre instituciones financieras, el (sic) micro, fami-empresa, pequeña y mediana empresa, instituciones educativas e instancias gubernamentales diversas;
-
-VI. Establecer convenios de colaboración económica entre empresarios y productores de otros municipios de la entidad, estados y otros países, con los cuales puedan realizarse diversos intercambios. Desarrollar los programas de inversión que puedan ser factibles de realizarse en el Municipio, para elevar la planta productiva;
-
-VII. Determinar proyectos tecnológico-productivos para el Municipio, desarrollando su viabilidad;
-
-VIII. Asegurar y coordinar al sector empresarial y al público en general el servicio de bolsa de trabajo, para reclutar personas aptas y calificadas para un trabajo afín;
-
-IX. Instrumentar proyectos de negocio a jóvenes empresarios, proporcionándoles asesoría y colaboración de los líderes en el ramo empresarial;
-
-X. Coordinar el seguimiento a los proyectos terminados, con el objeto de poder establecer parámetros respecto al grado de beneficio social y económico;
-
-XI. Establecer y desarrollar mecanismos y programas que incentiven la consolidación empresarial de las empresas ya establecidas y de aquellas nuevas empresas que requieran incursionar en el mercado; y,
-
-XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Económico dentro del ámbito de su competencia.
-
-###### Artículo 63.
 
 La Secretaría de Obras Públicas y Desarrollo Urbano tendrá a su cargo el cumplimiento de los programas de obra pública aprobados por el Ayuntamiento, así como formular y conducir las políticas generales de asentamientos humanos, urbanismo, vivienda y ecología dentro de la jurisdicción territorial del municipio contando para ello con las siguientes atribuciones:
 
@@ -1371,7 +853,7 @@ XXVII. Aplicar las limitaciones y modalidades de uso que se imponen a través de
 
 XXVIII. Elaborar la proyección de la distribución de la población y la ordenación territorial de los centros de población, en concurrencia con las dependencias de la Federación y del Estado y con la participación de los sectores público y privado;
 
-XIX. Establecer la nomenclatura oficial de las vías públicas, jardines y plazas y la numeración de los predios del Municipio;
+XXIX. Establecer la nomenclatura oficial de las vías públicas, jardines y plazas y la numeración de los predios del Municipio;
 
 XXX. Dictar las medidas necesarias con relación a los lotes baldíos para lograr que los propietarios de los mismos, los cerquen debidamente y los limpien de basura en su caso;
 
@@ -1385,17 +867,17 @@ XXXIV. Generar, registrar, analizar, regular y difundir la información topográ
 
 XXXV. Elaborar, autorizar y cuantificar los proyectos técnicos de obra pública municipal así como coordinarlos con las dependencias que corresponda. Inspeccionar que la calidad de la obra sea acorde a lo proyectado;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
-
-XXXVI. Realizar en el ámbito de su competencia, inspecciones, suspensiones, clausuras e imponer sanciones a las obras públicas y privadas, así como a sus responsables en caso de que proceda aplicar las sanciones medidas y procedimientos previstos en las leyes vigentes aplicables; y
+XXXVI. Realizar en el ámbito de su competencia, inspecciones, suspensiones, clausuras e imponer sanciones a las obras públicas y privadas, así como a sus responsables en caso de que proceda aplicar las sanciones medidas y procedimientos previstos en las Leyes vigentes aplicables; y
 
 XXXVII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias.
 
-###### Artículo 64.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 36.
 
 La Secretaría de Obras Públicas y Desarrollo Urbano para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
 
-l. Secretaría Técnica;
+I. Secretaría Técnica;
 
 II. Dirección de Control Urbano;
 
@@ -1403,17 +885,655 @@ III. Dirección de Costos y Concursos;
 
 IV. Dirección de Infraestructura;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
+V. Dirección de Ordenamiento Territorial;
 
-V. Dirección de ordenamiento Territorial;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2009)</small>
-
-VI. Dirección de Proyectos; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2009)</small>
+VI. Dirección de Proyectos; y
 
 VII. Dirección de Obras Viales.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 37.
+
+La Secretaría Técnica es la encargada de coordinar el seguimiento de las instrucciones y acuerdos que el titular de la Secretaría de Obras Públicas y Desarrollo Urbano acuerde con los servidores públicos municipales, con el fin de que se cumplimenten en tiempo y forma; siendo sus atribuciones las siguientes:
+
+I. Comunicar por escrito a los titulares de las Direcciones las políticas, normas y criterios administrativos que dicte el Secretario;
+
+II. Dar seguimiento a los acuerdos, resoluciones y demás determinaciones que el Secretario ha turnado a las instancias correspondientes para su atención;
+
+III. Informar oportunamente al Secretario de los asuntos que demandan soluciones urgentes;
+
+IV. Convocar a los servidores de la administración pública municipal a las reuniones de trabajo que indique el titular de la Secretaría;
+
+V. Levantar las minutas de trabajo cuando así lo instruya el titular de la Secretaría;
+
+VI. Propiciar la comunicación y coordinación oportuna y objetiva entre las Direcciones de la Secretaría, para el debido cumplimiento de las atribuciones que a cada una le corresponde;
+
+VII. Establecer, a solicitud del Secretario, los métodos, planes y programas necesarios para el adecuado funcionamiento de la Secretaría;
+
+VIII. Participar en las comisiones y reuniones que el Secretario le designe;
+
+IX. Fungir como Secretario Técnico del Comité de Obra Pública del Honorable Ayuntamiento de Tuxtla Gutiérrez; y
+
+X. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Secretario de Obras Públicas y Desarrollo Urbano dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 38.
+
+La Dirección de Control Urbano tendrá las siguientes atribuciones:
+
+I. Fungir como cabeza de equipo, coordinando los planes, programas y funciones de los departamentos a su cargo;
+
+II. Vigilar en el ámbito de su competencia el cumplimiento del Reglamento de Construcción Municipal, ordenar las inspecciones de obra, imponer sanciones y autorizar suspensiones de obras notificadas, proponer ante Cabildo la demolición de obras que se realicen en contra de lo dispuesto en dicho reglamento y en los planes y programas de desarrollo urbano del centro de población;
+
+III. Autorizar las solicitudes y otorgar el visto bueno de los permisos expedidos por la Dirección, relacionados con Licencias de Construcción, Licencias de Alineamiento y Número Oficial, Aviso de Terminación de Obra con fundamento y apego a las leyes vigentes en materia de desarrollo urbano;
+
+IV. Autorizar el registro de los Directores Responsables de Obra;
+
+V. Reportar a la Comisión de Admisión de Directores Responsables de Obra (DRO) y Corresponsables de Obras las faltas en que incurran estos;
+
+VI. Coordinar la atención de quejas y denuncias ciudadanas por afectación e inconformidades de la ciudadanía, recepcionadas a través de diferentes medios y autorizar los trámites administrativos correspondientes para su seguimiento; y
+
+VII. Las que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Obras Públicas y Desarrollo Urbano dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 39.
+
+La Dirección de Costos y Concursos tendrá las siguientes atribuciones:
+
+I. Elaborar y autorizar los presupuestos de obra que integran los expedientes técnicos, de acuerdo a los tabuladores oficiales vigentes;
+
+II. Formular las bases a que deben sujetarse los concursos para las licitaciones de la obra pública municipal en el marco de la normatividad correspondiente y vigilar el cumplimiento de la misma;
+
+III. Convocar y licitar la obra pública municipal en sus diferentes modalidades;
+
+IV. Coordinarse con las Direcciones de la Secretaría, involucradas con la obra pública, para llevar a cabo las visitas de obra y/o junta de aclaraciones de los concursos realizados;
+
+V. Elaborar los contratos de obra pública, así como los convenios correspondientes, en cumplimiento a la normatividad aplicable;
+
+VI. Dar seguimiento al trámite de las estimaciones de obra pública municipal para su pago;
+
+VII. Mantener actualizado el tabulador de precios unitarios y autorizar los precios unitarios de conceptos no considerados en el mismo;
+
+VIII. Contar con el registro de contratistas de obra pública actualizado; y
+
+IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Obras Públicas y Desarrollo Urbano dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 40.
+
+La Dirección de Infraestructura tendrá las siguientes atribuciones:
+
+I. Vigilar que se cumplan los estándares de calidad en la construcción de la obra pública, basándonos en la normatividad que las rige con el objetivo firme de mejorar la calidad de vida de los tuxtlecos;
+
+II. Supervisar los programas para la infraestructura de la obra pública de la ciudadanía;
+
+III. Supervisar los avances físicos y financieros de la obra pública en construcción;
+
+IV. Revisar y analizar las solicitudes de ajuste de costos y reprogramaciones solicitadas por los contratistas, con base en la legislación aplicable;
+
+V. Verificar, analizar y validar las estimaciones de obra; en apego a la normatividad aplicable vigente;
+
+VI. Participar en coordinación con las diferentes áreas involucradas en el desarrollo de la ejecución de la obra pública;
+
+VII. Dirigir y coordinar las tareas de supervisión con los jefes de departamento durante el proceso de ejecución de las obras; y
+
+VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Obras Públicas dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 41.
+
+La Dirección de Ordenamiento Territorial tendrá las siguientes atribuciones:
+
+I. Regular y vigilar en el ámbito de su competencia, el ordenado crecimiento urbano en el Municipio, siguiendo los lineamientos emanados del Plan Municipal de Desarrollo, Programa de Desarrollo Urbano del Centro de Población, en sus diversas facetas autorización para la creación de fraccionamientos, empadronar los establecimientos mercantiles, otorgar las subdivisiones de predios, así como lograr el equilibrio ecológico;
+
+II. Emitir dictámenes de fusión, subdivisión, factibilidad de uso y destino del suelo, licencia de funcionamiento, constancia de viabilidad, autorizaciones de lotificación, urbanización, comercialización y declaratorias de régimen de propiedad en condominio, licencias para anuncios, de acuerdo a la normatividad vigente en la materia;
+
+III. Coordinar en el ámbito de su competencia, la supervisión de las obras de urbanización autorizadas, ordenar las suspensiones, clausuras y determinar las sanciones a las negociaciones que no cuenten con la constancia de factibilidad de uso y destino del suelo, licencia de funcionamiento, de conformidad con las leyes y reglamentos de la materia; sancionar el incumplimiento de las disposiciones de los dictámenes emitidos;
+
+IV. Determinar el aprovechamiento de las áreas de donación de los fraccionamientos, previo acuerdo del H. Ayuntamiento en el marco del Programa de Desarrollo Urbano del Centro de Población;
+
+V. Coordinar y comisionar en el ámbito de su competencia, inspectores técnicos que vigilen el desarrollo de las obras de urbanización y se cercioren de que se cumpla con las especificaciones del proyecto definitivo de los diferentes fraccionamientos;
+
+VI. Dirigir la recepción correspondiente de los fraccionamientos, en coordinación con otras dependencias de la administración pública;
+
+VII. Ordenar en el ámbito de su competencia, inspecciones, suspensiones, clausuras e imponer sanciones a las obras públicas y privadas, así como a sus responsables, en caso de que proceda la aplicación de sanciones, medidas y procedimientos previstos en la Ley de Desarrollo Urbano, Ley General de Equilibrio Ecológico y Protección al Medio Ambiente, Reglamento de Protección al Ambiente y Aseo Urbano, Ley General para la Prevención y Gestión Integral de los Residuos, Reglamento de Anuncios para el Municipio de Tuxtla Gutiérrez, y en general las que apliquen para la Conservación y Preservación del Equilibrio Ecológico;
+
+VIII. Participar en la conservación de las zonas y elementos con valor histórico, cultural y ecológico;
+
+IX. Determinar la regularización de la tenencia de anuncios publicitarios, así como aplicar y vigilar la normatividad y disposiciones municipales sobre, áreas verdes propiedad del Ayuntamiento al resguardo de particulares, lotes baldíos, radiaciones electromagnéticas y térmicas, de transmisión satelital y de microondas, y lo conferido por la legislación en la materia;
+
+X. Resolver asuntos relacionados con denuncias efectuadas por la ciudadanía, en materia de deterioro ambiental, y a negocios y prestadores de servicios que causan molestias a terceros y no cumplen con las disposiciones de la constancia de factibilidad de uso de suelo;
+
+XI. Participar en la creación y administración de las reservas territoriales, derivados del programa de desarrollo urbano del centro de población;
+
+XII. Someter a consideración del H. Ayuntamiento los cambios de uso y destino del suelo;
+
+XIII. Emitir dictámenes y autorizaciones en relación a la vigilancia y observancia de la reglamentación inherente al uso y aprovechamiento de la vía pública. Formular y proponer proyectos de aperturas a nuevas vialidades que conforme parte de la estructura urbana vial de la ciudad;
+
+XIV. Coordinar la planeación de la distribución adecuada de los anuncios publicitarios en los espacios públicos y privados;
+
+XV. Ordenar los trabajos de conservación y reparación necesaria para garantizar la estabilidad, seguridad y buen aspecto de los anuncios;
+
+XVI. Emitir la opinión técnica, acorde al Plan de Desarrollo Urbano, en cuanto a las zonas que no sean factibles para el ejercicio del comercio en cualquiera de sus modalidades;
+
+XVII. Expedir las licencias para el ejercicio del comercio en la vía pública, previa autorización del comité dictaminador;
+
+XVIII. Empadronar y registrar todas las personas a quienes se les autorice el ejercicio del comercio; y
+
+XIX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo y Servicios Urbanos dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 42.
+
+La Dirección de Proyectos tendrá las siguientes atribuciones:
+
+I. Plasmar en documentos las necesidades de Obra Pública, emanadas de los requerimientos de los ciudadanos y en beneficio de la ciudad, así como, brindar apoyo técnico a otras áreas de (sic) H. Ayuntamiento en propuestas y evaluaciones técnicas;
+
+II. Coordinar la recepción de las áreas correspondientes las necesidades en materia de obra pública municipal, para realizar los proyectos respectivos;
+
+III. Instruir a quien corresponda para realizar los estudios necesarios para la elaboración de los proyectos ejecutivos de obra pública y los emanados del Plan Municipal de Desarrollo respectivamente;
+
+IV. Dirigir la elaboración de los proyectos técnicos y cuantificación de obras públicas del Municipio, coordinándolos con las dependencias de la Administración Pública Municipal que correspondan;
+
+V. Participar coordinada y normativamente con la Secretaría de Obras Públicas y Desarrollo Urbano en el desarrollo de la ejecución de los proyectos aprobados;
+
+VI. Supervisar que la calidad de la obra sea acorde a lo proyectado; y
+
+VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Obras Públicas y Desarrollo Urbano dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 43.
+
+La Dirección de Obras Viales tendrá las siguientes atribuciones:
+
+I. Coordinar la realización y ejecución de la conservación de las vialidades en sus diferentes funciones;
+
+II. Coordinar y atender trabajos de construcción y mantenimiento de vialidad urbana, bacheo con concreto asfáltico e hidráulico, desazolve de alcantarillas y canales pluviales, reparación de brocales, y rejillas;
+
+III. Coordinar con la Dirección de Atención Ciudadana, las solicitudes formuladas por la ciudadanía en general a través de los medios masivos de comunicación, para la ejecución de obras en beneficio de la comunidad;
+
+IV. Participar en la formulación de planes de construcción de infraestructura para vialidades;
+
+V. Coordinar la ejecución de muros de protección a base de gavión y/o mampostería en afluentes de la cuenca del río Sabinal;
+
+VI. Coordinar con la Dirección de Protección Civil, la atención de emergencias provocadas por fenómenos naturales; y
+
+VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales dentro del ámbito de su competencia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+### Capítulo IV. Secretaría de Seguridad Pública Municipal
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 44.
+
+La Secretaría de Seguridad Pública Municipal es la dependencia oficial del Ayuntamiento, encargada de salvaguardar la seguridad de personas y bienes dentro de la circunscripción territorial del Municipio, garantizar el orden y la seguridad pública, así como cuidar la tranquilidad de la población. Le corresponderá también instrumentar el adecuado y permanente flujo vehicular, la seguridad vial y el respeto de los reglamentos que regulan el tránsito de automóviles, camiones y demás muebles en el municipio. Asimismo, deberá establecer los mecanismos adecuados para prevenir, controlar y combatir la contaminación ambiental con motivo de la circulación de vehículos.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 45.
+
+Le corresponde además de las atribuciones que le señalen las leyes respectivas, el despacho de los siguientes asuntos bajo las instrucciones del Presidente Municipal:
+
+I. Diseñar y definir políticas, programas y acciones a efectuar, respecto a la prevención de los delitos en el Municipio;
+
+II. Mantener la seguridad, el orden y la tranquilidad pública en el Municipio;
+
+III. Prevenir y auxiliar a las personas en la protección de sus propiedades, posesiones y derechos;
+
+IV. Auxiliar dentro del marco legal correspondiente al Ministerio Público, autoridades administrativas y judiciales, en el ámbito de su competencia y en los asuntos oficiales que le soliciten;
+
+V. Coordinarse con otras corporaciones policiales en el otorgamiento de protección a la ciudadanía y en los operativos que lleguen a realizarse;
+
+VI. Respetar y hacer respetar las disposiciones legales aplicables en el Municipio en materia de seguridad pública municipal;
+
+VII. Aprehender a los delincuentes en los casos de flagrante delito y en los de notoria urgencia, cuando se trate de los que se persiguen de oficio y que por razones de la hora, del lugar, o la distancia, no haya autoridad judicial que expida la orden de aprehensión y exista temor fundado de que el presunto responsable se sustraerá a la acción de la justicia;
+
+VIII. Promover la organización y funcionamiento de los Consejos o Comités Consultivos Municipales de Seguridad Pública o Protección Ciudadana;
+
+IX. Contribuir a la seguridad pública de la sociedad realizando tareas de prevención de ilícitos y labores de protección civil o auxilio de la población cuando se requiere;
+
+X. Poner a disposición de las autoridades competentes a los menores infractores cuando sus conductas puedan entrañar la comisión de un delito o de una falta administrativa, conforme a las disposiciones legales aplicables;
+
+XI. Velar por el cumplimiento de las disposiciones establecidas en los reglamentos y ordenamientos municipales, así como en las disposiciones y acuerdos emanados del Ayuntamiento o del Presidente Municipal, en su caso;
+
+XII. Coadyuvar con las instituciones Federales, Estatales y Municipales para combatir la delincuencia, aplicando las leyes, reglamentos, decretos y participación ciudadana en materia de orden público;
+
+XIII. Cooperar con las autoridades administrativas y judiciales en la conservación del estado de derecho coadyuvando en la administración de justicia, conforme a las leyes y reglamentos respectivos;
+
+XIV. Planear, dirigir, organizar, controlar, supervisar y evaluar el funcionamiento de la Policía Municipal;
+
+XV. Integrar el Consejo Municipal de Seguridad Pública, tanto el titular de la Policía Preventiva Municipal como un representante de la propia Secretaría de Seguridad Pública Municipal, en términos de la Ley que Establece las Bases de Coordinación del Sistema Estatal de Seguridad Pública y cumplir con las atribuciones que le señala este ordenamiento;
+
+XVI. Promover programas, acciones y políticas a efecto de optimizar el servicio de seguridad pública en el Municipio;
+
+XVII. Establecer las disposiciones, normas operativas, administrativas y disciplinas, que determinan la actuación de los elementos de la policía municipal;
+
+XVIII. Coordinarse con la Dirección de Seguridad Pública del Estado en todos los aspectos operativos que se requieran;
+
+XIX. Informar, cuando sea requerido, al Gobernador del Estado, en su carácter de mando supremo de la fuerza pública en el Municipio, los asuntos relativos a la corporación;
+
+XX. Acordar con el Presidente Municipal e informarle de los asuntos que le corresponde, así como desempeñar las comisiones y funciones que le confieran;
+
+XXI. Formular anteproyectos de programas y presupuesto de los asuntos de su competencia sometiéndolo a la consideración del Presidente Municipal para su incorporación a los proyectos que se sometan a la aprobación del Ayuntamiento;
+
+XXII. Captar, coordinar la atención y resolver las quejas de la ciudadanía en materia de transito y vialidad por la circulación de vehículos y/o personas; y
+
+XXIII. Las demás que le asignen las Leyes, Reglamentos y el Presidente Municipal.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 46.
+
+La Secretaría de Seguridad Pública Municipal para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
+
+I. Dirección de Seguridad Pública Municipal;
+
+II. Dirección de Tránsito y Vialidad Municipal;
+
+III. Dirección de Transporte;
+
+IV. Dirección de Protección Civil; y
+
+V. Coordinación de Policía de Proximidad y Prevención del Delito.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 47.
+
+La Dirección de Seguridad Pública Municipal tendrá las siguientes atribuciones:
+
+I. Mantener permanente comunicación con los elementos de la policía municipal para exhortarlos a cumplir con la obligación de que no se altere el orden público y así mismo auxiliar a la ciudadanía en la protección de su integridad física, libertad, propiedad y posesión en los términos del Reglamento;
+
+II. Establecer seguridad para detectar a las personas que alteran el orden público, de igual manera aquellas que causen delitos que merezca pena corporal, poniéndolas a disposición de la autoridad competente;
+
+III. Llevar acabos (sic) diferentes operativos que contribuyan a la prevención del delito; para mantener una ciudad segura y darle paz y tranquilidad a la ciudadanía;
+
+IV. Supervisar las denuncias ciudadanas por abuso de autoridad o corrupción, de ciudadanos en contra de los cuerpos de la policía de Seguridad Pública Municipal, y llevar a cabo lo correspondiente;
+
+V. Proporcionar la información que sea solicitada por las autoridades competentes correspondientes; y
+
+VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaria de Seguridad Pública Municipal dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 48.
+
+La Dirección de Tránsito y Vialidad Municipal tendrá las siguientes atribuciones:
+
+l. Coordinar la elaboración del plan operativo de tránsito y vialidad municipal y vigilar su cumplimiento;
+
+II. Coordinar la capacitación y el adiestramiento de todo el personal adscrito a la dirección y elaborar un informe para la superioridad;
+
+III. Ordenar la detención, localización y presentación de vehículos al departamento de control operativo, que son solicitados por el Ministerio de Justicia o por los Jueces del Supremo Tribunal de Justicia del Estado;
+
+IV. Dar atención de las denuncias por abuso de autoridad o corrupción, de ciudadanos en contra de los cuerpos de tránsito y vialidad, levantando las actuaciones correspondientes;
+
+V. Aplicar las medidas disciplinarias que correspondan de acuerdo a las faltas en que incurra el personal operativo de la dirección, de acuerdo al Reglamento Interno de Seguridad Pública Municipal y las demás disposiciones aplicables;
+
+VI. Supervisar el correcto desempeño en sus actividades del personal de los departamentos a su cargo;
+
+VII. Coordinar la programación y el cumplimiento a los operativos y programas de esta Dirección;
+
+VIII. Representar al Secretario de Seguridad Pública, en eventos y reuniones de trabajo; y
+
+IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Seguridad Pública, Tránsito y Vialidad Municipal dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 49.
+
+La Dirección de Transporte tendrá las siguientes atribuciones:
+
+I. Evaluar las peticiones de los transportistas con relación a señalamientos de terminales y paradas, para su instalación, así como los señalamientos de ascenso y descenso de pasajes en las calles de la ciudad;
+
+II. Elaborar estudio de factibilidad para la instalación de paradas y terminales del transporte público en coordinación con la Secretaría de Obras Públicas y Desarrollo Urbano;
+
+III. Supervisar operativos de transporte público y apoyo a la ciudadanía para verificar el cumplimiento del Reglamento de Tránsito y Vialidad;
+
+IV. Coordinar, planear y supervisar la logística en colaboración con el Jefe de Sección; y
+
+V. Analizar las quejas, denuncias y sugerencias sobre el servicio que se presta en el transporte público.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 50.
+
+La Dirección de Protección Civil tendrá las siguientes atribuciones:
+
+I. Aplicar la normatividad y vigilar el debido cumplimiento a las disposiciones contenidas en el Reglamento Municipal de Protección Civil;
+
+II. Identificar y diagnosticar los riesgos a que está expuesta la población del Municipio y alertar a la población, al mismo tiempo elaborar el atlas municipal de riesgos;
+
+III. Elaborar, operar y coordinar el programa anual de protección civil, los programas especiales y el plan municipal de contingencia aprobado por el Consejo Municipal de Protección Civil;
+
+IV. Instrumentar un sistema de seguimiento y auto evaluación del programa municipal de protección civil e informar sobre el funcionamiento y avances;
+
+V. Establecer el sistema de comunicación con organismos que realicen acciones de monitoreo permanente para vigilar la posible ocurrencia de fenómenos destructores;
+
+VI. Promover la participación de la ciudadanía en la ejecución de los programas y acciones en materia de protección civil;
+
+VII. Formular el análisis de la magnitud de una afectación de acuerdo a la reglamentación de protección civil e informar a la superioridad;
+
+VIII. Habilitar centros de acopio de recursos y refugios temporales;
+
+IX. Coordinar la integración del Consejo Municipal de Protección Civil;
+
+X. Autorizar las disposiciones jurídicas aplicables que delegue la Secretaría de Seguridad Pública Municipal dentro del ámbito de su competencia;
+
+XI. Vigilar que se atienda de manera eficaz las peticiones de la ciudadanía encaminadas a la solicitud y atención a emergencias; y
+
+XII. Establecer las directrices para dar servicio a las solicitudes de eventos de diferentes índoles en los que la ciudadanía tiene participación.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 51.
+
+La Coordinación de Policía de Proximidad y Prevención del Delito tendrá las siguientes atribuciones:
+
+I. Colaborar en la esfera de su competencia con autoridades Federales, Estatales y Municipales en materia de seguridad;
+
+II. Planear, coordinar y dirigir, en coordinación con las asambleas de barrio, la operación de los Coordinadores, Supervisores y de los Agentes de Policía de Proximidad, en los programas de actuación preventiva, trámites, deficiencias y anomalías en vía y espacios públicos, en patrullajes alternativos, en visitas a escuelas, comercios y residencias;
+
+III. Hacer del conocimiento de la autoridad competente, de las irregularidades en que incurran los Coordinadores, Supervisores, Instructores y Agentes de Policía de Proximidad, en el desempeño de sus funciones; de los hechos delictivos en que puedan estar involucrados y que fueren de su conocimiento; y de las quejas y denuncias de las asambleas de barrio;
+
+IV. Formular las listas de los Agentes de Policía (sic) Proximidad que se hayan hecho merecedores a condecoraciones, estímulos y recompensas, en los términos de las disposiciones aplicables;
+
+V. Realizar los movimientos de altas y bajas de los Agentes de Policía de Proximidad en coordinación con las asambleas de barrios;
+
+VI. Elaborar los Planes de Desarrollo de la Policía de Proximidad y los Programas de Prevención de Delitos; y
+
+VII. Programar y calendarizar actividades del área de prevención de delitos.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+### Capítulo V. De la Contraloría Municipal
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 52.
+
+Contraloría Municipal tiene como función planear, organizar, supervisar y evaluar a través de auditorías a las dependencias y organismos de la Administración Pública Municipal, para observar el cumplimiento de las normas, reglamentos y disposiciones aplicables en su ámbito de competencia, con el fin de contribuir en la correcta aplicación y uso transparente de los bienes y recursos del Ayuntamiento, correspondiéndole las siguientes atribuciones:
+
+l. Intervenir en la entrega y recepción de bienes y valores que sean de la propiedad del Ayuntamiento o se encuentren en posesión del mismo, cuando se verifique algún cambio de titular de las dependencias o unidades administrativas correspondientes;
+
+II. Vigilar que los servidores públicos municipales cumplan dentro de los plazos y términos establecidos en la ley de la materia, con la presentación de la declaración de situación patrimonial;
+
+III. Solicitar los servicios de la auditoría externa para emitir su opinión sobre las finanzas y el control de la administración municipal;
+
+IV. Organizar y asesorar el correcto funcionamiento de los sistemas de control de la Administración Municipal, realizando propuestas de normas para establecer medios que permitan su permanente perfeccionamiento;
+
+V. Hacer una evaluación previa a la expedición de proyectos que regulen la ejecución de los procedimientos para la protección del patrimonio municipal y sus sistemas de información, con el objeto de determinar si cada uno cumple con sus respectivos requisitos;
+
+VI. Verificar la realización de las operaciones en las diferentes dependencias cuando sean implantados los proyectos mencionados en la fracción anterior;
+
+VII. Formular programas de actividades para realizar revisiones financieras u operacionales, estableciendo formas del correcto funcionamiento de las coordinaciones de la dirección, así como las bases generales para la realización de las mismas;
+
+VIII. Practicar revisiones a todas las dependencias del Ayuntamiento, así como proceder al seguimiento de los programas, convenios, contratos o acuerdos que efectúe el propio Ayuntamiento con organismos del sector gubernamental y privado, vigilando que se logren los objetivos planeados, evaluando aspectos normativos, administrativos, financieros y de control;
+
+IX. Informar al Presidente Municipal sobre los resultados de las revisiones que se efectúen, haciendo del conocimiento del Síndico dichos resultados cuando sean detectadas irregularidades para los efectos que resulten procedentes;
+
+X. Comunicar al Síndico los hechos irregulares que realicen los servidores públicos municipales durante el desarrollo de sus funciones, cuando se considere que se encuentran tipificados como delitos en la legislación penal correspondiente, para los efectos de proceder conforme a derecho;
+
+XI. Vigilar el funcionamiento de los procedimientos de control de la administración, siendo competente para requerir a las dependencias y organismos, la instrumentación de medidas complementarias para el ejercicio de facultades que aseguren dicho control;
+
+XII. Vigilar el cumplimiento de las normas de control y fiscalización administrativa interna, así como asesorar y apoyar a las dependencias en el cumplimiento y aplicación de dichas normas de control;
+
+XIII. Llevar a cabo auditorias por acuerdo del Presidente Municipal, por si, o a solicitud de las dependencias y de los organismos con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
+
+XIV. Llevar a cabo los seguimientos a las observaciones determinadas en las auditorias practicadas;
+
+XV. Recibir quejas y denuncias por incumplimiento de las obligaciones o por inobservancia de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas; practicar investigaciones sobre sus actos, determinar las responsabilidades y proponer al Ayuntamiento las sanciones que correspondan;
+
+XVI. Requerir a los Servidores Públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal;
+
+XVII. Verificar que la integración de la documentación soporte del gasto corriente y de inversión se apegue con lo señalado en la normatividad aplicable, a fin de cumplir en tiempo y forma con el pago a los beneficiarios, según lo establecido en las leyes correspondientes, con la finalidad de agilizar la integración de los informes mensuales, de gestión financiera y cuenta pública anual de acuerdo a lo establecido por las instancias normativas;
+
+XVIII. Informar al Síndico Municipal, sobre el funcionamiento de la Coordinación de Revisión. (Según acuerdo de cabildo de fecha 22 de junio de 2009 en el acta número 72, punto cuarto del orden día).
+
+XIX. Circular a las áreas involucradas y responsables de la ejecución y revisión de los soportes justificatorios y comprobatorios, los criterios normativos y los tiempos con que se cuenta para integrar la documentación, de acuerdo al origen de los recursos; mismos que deberán observar para la solventación de la documentación observada por la coordinación de revisión. (según acuerdo de cabildo de fecha 22 de junio de 2009 en el acta número 72, punto cuarto del orden día);
+
+XX. Facultad para asignar a mas personal de su área para coadyuvar y hacer mas expeditas las revisiones, quienes estarán bajo la subordinación del coordinador de revisión; (según acuerdo de cabildo de fecha 22 de junio de 2009 en el acta número 72, punto cuarto del orden día);
+
+XXI. Receptuar quejas y denuncias, formuladas por cualquier ciudadano en contra del personal operativo de la Secretaria de Seguridad Pública, Tránsito y vialidad Municipal, que infrinjan las disposiciones contenidas en su reglamento, remitiéndolas de manera inmediata a la dependencia en cita para que por conducto del consejo de honor y justicia, se inicie el procedimiento correspondiente; salvo aquellas que provengan de una recomendación emitida por las Comisiones de Derechos Humanos, de cualquier nivel de gobierno, o que a voluntad expresa del quejoso requiera que sea el mismo órgano de control quien substancie y resuelva el procedimiento respectivo;
+
+XXII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 53.
+
+La Contraloría Municipal para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
+
+I. Departamento de Responsabilidades Quejas y Denuncias;
+
+II. Departamento de Declaraciones Patrimoniales y Entrega Recepción;
+
+III. Departamento de Auditoría Administrativa y Financiera;
+
+IV. Departamento de Seguimientos;
+
+V. Departamento de Supervisión de Obras y Programas; y
+
+VI. Coordinación de Revisión.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 54.
+
+Departamento de Responsabilidades, Quejas y Denuncias tendrá las siguientes atribuciones:
+
+I. Vigilar y verificar que los funcionarios públicos municipales cumplan con lo dispuestos (sic) en las leyes y reglamentos que rigen a los servidores públicos;
+
+II. Atender las quejas y denuncias por incumplimiento de las obligaciones o por inobservancia de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas;
+
+III. Practicar investigaciones sobre sus actos, determinar las responsabilidades y proponer al Ayuntamiento las sanciones que correspondan;
+
+IV. Solicitar a los servidores públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal;
+
+V. Vigilar que la integración y el proyecto de resolución de los procedimientos administrativos de su competencia sean de conformidad con lo dispuesto en la Ley de la materia, este Reglamento y demás disposiciones legales aplicables;
+
+VI. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 55.
+
+Departamento de Declaraciones Patrimoniales y Entrega Recepción tendrá las siguientes atribuciones:
+
+I. Verificar que se cumplan las disposiciones relativas a la declaración de la situación patrimonial de conformidad con lo establecido en la Ley Orgánica Municipal del Estado de Chiapas y Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas;
+
+II. Intervenir en la entrega y recepción de bienes y valores que sean de la propiedad del Ayuntamiento o se encuentren en posesión del mismo, cuando se verifique algún cambio de titular de las dependencias o unidades administrativas correspondientes;
+
+III. Revisar el debido cumplimiento de las normas para la entrega recepción de las dependencias;
+
+IV. Brindar la asesoría correspondiente a los servidores públicos en la presentación de la declaración patrimonial y entrega-recepción;
+
+V. Informar al Departamento de Responsabilidades, Quejas y Denuncias de los servidores públicos que incumplan con los plazos y términos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+
+VI. Solicitar a los servidores públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 56.
+
+El Departamento de Auditorías Administrativas y Financieras tendrá las siguientes atribuciones:
+
+I. Vigilar el óptimo funcionamiento de los registros y aplicación de los recursos asignados a las diversas áreas que integran el H. Ayuntamiento, con la finalidad que se realicen dentro de los lineamientos establecidos;
+
+II. Inspeccionar el funcionamiento de los procedimientos de control de la administración, siendo competente para requerir a las dependencias y organismos, la instrumentación de medidas complementarias para el ejercicio de facultades que aseguren dicho control;
+
+III. Inspeccionar el cumplimiento de las normas de control y fiscalización administrativa interna, así como asesorar y apoyar a las dependencias en el cumplimiento y aplicación de dichas normas de control;
+
+IV. Coordinar las auditorias por acuerdo del Presidente Municipal, por si, o a solicitud de las dependencias y de los organismos con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento;
+
+V. Supervisar que en la Administración Municipal se cumpla con las normas y disposiciones de la ley de presupuestos, contabilidad y gasto público en materia de sistemas de registro y contabilidad, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso destino, afectación, enajenación y desincorporación de bienes muebles e inmuebles;
+
+VI. Verificar que se cumplan las disposiciones de los contratos, acuerdos y convenios celebrados entre el Ayuntamiento y otras entidades de interés público o privado, de donde se derive y aplique la inversión de fondos públicos;
+
+VII. Evaluar los sistemas y procedimientos administrativos de control interno y los manuales técnicos y operativos que se requieran en las dependencias;
+
+VIII. Realizar el informe al Presidente y Síndico Municipal sobre el resultado de la evaluación de las dependencias y organismos que hayan sido objeto de verificación y vigilancia;
+
+IX. Inspeccionar la adquisición y enajenación de bienes muebles e inmuebles que lleve a cabo el Ayuntamiento y vigilar que dichas operaciones se ajusten a las disposiciones legales;
+
+X. Practicar funciones de supervisión para mantener actualizado el inventario general de los bienes muebles e inmuebles que constituyen el patrimonio del Municipio;
+
+XI. Solicitar a los servidores públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal; y
+
+XII. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 57.
+
+El Departamento de Seguimientos tendrá las siguientes atribuciones:
+
+I. Supervisar que la Administración Municipal cumpla con las normas y disposiciones de la ley a través de seguimientos a las observaciones de las auditorías;
+
+II. Inspeccionar el funcionamiento de los procedimientos de control de la administración, siendo competente para requerir a las dependencias y organismos, la instrumentación de medidas complementarias para el ejercicio de facultades que aseguren dicho control;
+
+III. Inspeccionar el cumplimiento de las normas de control y fiscalización administrativa interna, así como asesorar y apoyar a las dependencias en el cumplimiento y aplicación de dichas normas de control;
+
+IV. Coordinar los seguimientos de las observaciones con el objeto de promover la eficiencia en sus operaciones y verificar su cumplimiento;
+
+V. Realizar el informe al Presidente y Síndico Municipal sobre el resultado de la evaluación de las dependencias y organismos que hayan sido objeto de verificación y vigilancia;
+
+VI. Solicitar a los servidores públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal;
+
+VII. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 58.
+
+El Departamento de Supervisión de Obras y Programas tendrá las siguientes atribuciones:
+
+I. Verificar a través de la supervisión y auditorias técnico-administrativas, que las acciones en la obra pública se apeguen a las normas y reglamentos vigentes para este fin;
+
+II. Coordinar los sistemas de control y evaluación de la Administración Pública Municipal;
+
+III. Inspeccionar el funcionamiento de los procedimientos de control de la administración, siendo competente para requerir a las dependencias y organismos, la instrumentación de medidas complementarias para el ejercicio de facultades que aseguren dicho control;
+
+IV. Inspeccionar el cumplimiento de las normas de control y fiscalización administrativa interna, así como asesorar y apoyar a las dependencias en el cumplimiento y aplicación de dichas normas de control;
+
+V. Coordinar las auditorias por acuerdo del Presidente Municipal, por si, o a solicitud de las dependencias y de los organismos con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento;
+
+VI. Supervisar que en la administración municipal se cumpla con las normas y disposiciones de la Ley de Presupuestos, Contabilidad y Gasto Público en materia de sistemas de registro y contabilidad, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y desincorporación de bienes muebles e inmuebles;
+
+VII. Vigilar que se cumplan las disposiciones de los contratos, acuerdos y convenios celebrados entre el Ayuntamiento y otras entidades de interés público o privado, de donde se derive y aplique la inversión de fondos públicos;
+
+VIII. Inspeccionar que la Obra Pública Municipal se realice de acuerdo al presupuesto y programación, supervisándola directamente, sin demérito de la responsabilidad de la entidad encargada de la ejecución de dicha obra;
+
+IX. Examinar la programación, promoción, documentación y la ejecución de las obras de programa de desarrollo social en coordinación con las instancias Municipales, Estatales y Federales competentes en la materia;
+
+X. Solicitar a los servidores públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal;
+
+XI. Vigilar e inspeccionar la construcción de la obra pública, así como verificar la correcta integración de los expedientes técnicos de comprobación, de igual forma supervisar las acciones que se ejecutan con las diversas fuentes de financiamiento, apegados a lo que se establecen (sic) en los contratos respectivos;
+
+XII. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 59.
+
+La Coordinación de Revisión tendrá las siguientes atribuciones:
+
+I. Verificar que la integración de la documentación soporte del gasto corriente y de inversión se apegue con lo señalado en la normatividad aplicable, a fin de cumplir en tiempo y forma con el pago a los beneficiarios, según lo establecido en las leyes correspondientes, con la finalidad de agilizar la integración de los informes mensuales, de gestión financiera y cuenta pública anual de acuerdo a lo establecido por las instancias normativas;
+
+II. Informar al Contralor Municipal, sobre el funcionamiento de la Coordinación de Revisión;
+
+III. Circular a las áreas involucradas y responsables de la ejecución y revisión de los soportes justificatorios y comprobatorios, los criterios normativos y los tiempos con que se cuenta para integrar la documentación, de acuerdo al origen de los recursos; mismos que deberán observar para la solventación de la documentación observada por la coordinación de revisión;
+
+IV. Solicitar al titular de la Contraloría Municipal, la designación de más personal a su área para coadyuvar y hacer mas expeditas las revisiones, quienes estarán bajo la subordinación del coordinador de revisión; y
+
+V. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+### Capítulo VI. Secretaría de Planeación para el Desarrollo Sustentable Municipal
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 60.
+
+La Secretaría de Planeación para el Desarrollo Sustentable tiene como principal atribución establecer políticas y normas para la formulación, instrumentación, seguimiento, control y evaluación del proceso de Planeación para el Desarrollo Sustentable del Municipio, acorde a lo establecido en el Plan Municipal de Desarrollo, observando congruencia con los Planes Nacional y Estatal de Desarrollo y su marco jurídico vigente.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 61.
+
+Le corresponde además de las atribuciones que le señalen las leyes respectivas, el despacho de los siguientes asuntos bajo las instrucciones del Presidente Municipal:
+
+I. Coordinar el proceso integral de formulación y actualización del Plan Municipal de Desarrollo·2008-2010, dentro del marco del sistema estatal de planeación democrática y de los instrumentos normativos aplicables;
+
+II. Controlar y evaluar el ejercicio de la inversión y gasto público municipal, observando su congruencia con los objetivos y metas señalados en el plan municipal de desarrollo, así como en la normatividad vigente;
+
+III. Coordinar a las dependencias y entidades de la Administración Pública Municipal para la elaboración de los programas sectoriales y operativos anuales, así como de los expedientes técnicos para los proyectos de inversiones institucionales y especiales, estableciendo los lineamientos generales para el seguimiento, control y evaluación acorde con el marco jurídico vigente en este rubro;
+
+IV. Poner a consideración del Presidente Municipal para su autorización los calendarios de gasto, ministraciones, ampliaciones y reducciones líquidas, liberaciones, retenciones, recalendarizaciones y traspasos presupuestarios de los proyectos y programas de inversión de las dependencias municipales en base a estudios y a la disponibilidad financiera;
+
+V. Optimizar los procesos y herramientas para la modernización y mejora continua en materia de planeación y programación de los proyectos y programas de inversión; así como de asistir a las áreas de la Administración Pública Municipal en ésta materia; y
+
+VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el ejecutivo municipal dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 62.
+
+La Secretaría de Planeación para el Desarrollo Sustentable para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
+
+I. Dirección de Planeación Estratégica;
+
+II. Dirección de Seguimiento, Control y Evaluación de la Inversión Pública;
+
+III. Dirección de Geografía y Estadística; y
+
+IV. Dirección de Participación Ciudadana.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 63.
+
+La Dirección de Planeación Estratégica tendrá las siguientes atribuciones:
+
+I. Coordinar en materia de planeación a las áreas operativas de la Administración Pública Municipal, para la formulación e instrumentación de planes y programas que permitan el cumplimiento de los objetivos, estrategias y acciones del Plan Municipal de Desarrollo;
+
+II. Coordinar el apoyo técnico en materia de planeación estratégica a todas las áreas de la Administración Pública Municipal;
+
+III. Coordinar la integración del Plan Municipal de Desarrollo;
+
+IV. Coordinar la integración y presentación de los Informes de Gobierno del Presidente Municipal;
+
+V. Coordinar el Monitoreo de Medios de Información, sobre asuntos relacionados con el H. Ayuntamiento; y
+
+VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Planeación para el Desarrollo Sustentable dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 64.
+
+La Dirección de Seguimiento, Control y Evaluación de la Inversión Pública tendrá las siguientes atribuciones:
+
+I. Coordinar y vigilar que el control, evaluación y seguimiento de la inversión pública municipal, se realice conforme a los lineamientos normativos vigentes, para apoyar a las dependencias ejecutoras en la formulación de sus programas y proyectos de inversión;
+
+II. Coordinar la formulación y difusión de los documentos normativos que contengan los lineamientos generales en materia de control y evaluación de programas y proyectos de inversión pública municipal;
+
+III. Vigilar que las dependencias ejecutoras cumplan con los requisitos normativos para la formulación de los programas y proyectos de inversión pública municipal, brindándoles la asesoría necesaria;
+
+IV. Verificar el seguimiento de los avances físicos financieros trimestrales, de los programas y proyectos de inversión para evaluar el avance de los mismos;
+
+V. Comprobar que las adecuaciones presupuestarias que realicen las dependencias municipales ejecutoras sean apegadas a la normatividad vigente de los programas y/o proyectos de la inversión pública municipal; y
+
+VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Planeación para el Desarrollo Sustentable dentro del ámbito de su competencia.
 
 ###### Artículo 64 Bis.
 
@@ -1439,141 +1559,105 @@ IX. Fungir como Secretario Técnico del Comité de Obra Pública del Honorable A
 
 X. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Secretario de Obras Públicas y Desarrollo Urbano dentro del ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 65.
 
-La Dirección de Control Urbano tendrá las siguientes atribuciones:
+La Dirección de Geografía y Estadística tendrá las siguientes atribuciones:
 
-I. Fungir como cabeza de equipo, coordinando los planes, programas y funciones de los departamentos a su cargo;
+I. Coordinar y dirigir la sistematización de información geográfica y estadística para generar un banco de información oportuna y confiable, que apoye procesos de planeación y la toma de decisiones orientados al desarrollo sustentable del Municipio y del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+II. Diseñar y difundir los indicadores estratégicos, de gestión y de servicios de la Administración Pública Municipal;
 
-II. Vigilar en el ámbito de su competencia el cumplimiento del Reglamento de Construcción Municipal, ordenar las inspecciones de obra, imponer sanciones y autorizar suspensiones de obras notificadas, proponer ante Cabildo la demolición de obras que se realicen en contra de lo dispuesto en dicho reglamento y en los planes y programas de desarrollo urbano del centro de población;
+III. Proponer la creación del Comité Municipal de Geografía y Estadística, coordinando y elaborando los procedimientos para captar información confiable para la toma de decisiones ejecutivas;
 
-III. Autorizar las solicitudes y otorgar el visto bueno de los permisos expedidos por la Dirección, relacionados con Licencias de Construcción, Licencias de Alineamiento y Número Oficial, Aviso de Terminación de Obra con fundamento y apego a las leyes vigentes en materia de desarrollo urbano;
+IV. Diseñar el sistema informático para el registro, seguimiento, control y evaluación del gasto de inversión pública municipal;
 
-IV. Autorizar el registro de los Directores Responsables de Obra;
+V. Coordinar los trabajos de diseño y captura de la base de datos del sistema informático para el registro, seguimiento, control y evaluación del gasto de inversión pública municipal;
 
-V. Reportar a la Comisión de Admisión de Directores Responsables de Obra (DRO) y Corresponsables de Obras las faltas en que incurran estos;
+VI. Coordinar las tareas orientadas a informar a las Asambleas de Barrio, Coordinadores de Sector y autoridades que así lo soliciten, sobre las obras signadas en minutas de acuerdo del COPLADEM; y
 
-VI. Coordinar la atención de quejas y denuncias ciudadanas por afectación e inconformidades de la ciudadanía, recepcionadas a través de diferentes medios y autorizar los trámites administrativos correspondientes para su seguimiento; y,
+VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Planeación para el Desarrollo Sustentable dentro del ámbito de su competencia.
 
-VII. Las que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Obras Públicas y Desarrollo Urbano dentro del ámbito de su competencia.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 66.
 
-La Dirección de Costos y Concursos tendrá las siguientes atribuciones:
+La Dirección de Participación Ciudadana tendrá las siguientes atribuciones:
 
-l. Elaborar y autorizar los presupuestos de obra que integran los expedientes técnicos, de acuerdo a los tabuladores oficiales vigentes;
+I. Coordinar la atención a las asambleas de barrios, con la finalidad de ser el enlace entre estas y las diferentes autoridades Municipales, Estatales y Federales;
 
-II. Formular las bases a que deben sujetarse los concursos para las licitaciones de la obra pública municipal en el marco de la normatividad correspondiente y vigilar el cumplimiento de la misma;
+II. Coordinar que se cumpla con el procedimiento para la reestructuración o ratificación de las asambleas de barrios;
 
-III. Convocar y licitar la obra pública municipal en sus diferentes modalidades;
+III. Coordinar, organizar y dar seguimiento a las peticiones de las asambleas de barrios ante las instancias correspondientes;
 
-IV. Coordinarse con las Direcciones de la Secretaría, involucradas con la obra pública, para llevar a cabo las visitas de obra y/o junta de aclaraciones de los concursos realizados;
+IV. Mantener comunicación con los Jefes de Departamentos y Coordinadores de Sector con la finalidad de generar una participación responsable y eficiente de las asambleas de barrios con el Ayuntamiento;
 
-V. Elaborar los contratos de obra pública, así como los convenios correspondientes, en cumplimiento a la normatividad aplicable;
+V. Coordinar la atención de las solicitudes en relación a las demandas de programas y proyectos de inversión, para evaluar la eficiencia y eficacia de la Administración Pública Municipal;
 
-VI. Dar seguimiento al trámite de las estimaciones de obra pública municipal para su pago;
+VI. Informar a la Secretaría de Planeación para el Desarrollo Sustentable de las diferentes irregularidades sociales que se presenten en las colonias; y
 
-VII. Mantener actualizado el tabulador de precios unitarios y autorizar los precios unitarios de conceptos no considerados en el mismo;
+VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Planeación para el Desarrollo Sustentable dentro del ámbito de su competencia.
 
-VIII. Contar con el registro de contratistas de obra pública actualizado; y,
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Obras Públicas y Desarrollo Urbano dentro del ámbito de su competencia.
+### Capítulo VII. Secretaría de Desarrollo Social
 
-### Capítulo VII. Secretaría de Obras Públicas y Desarrollo Urbano
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 67.
 
-La Dirección de Infraestructura tendrá las siguientes atribuciones:
+La Secretaría de Desarrollo Social es la encargada de la generación y aplicación de las políticas públicas orientadas hacia el desarrollo integral principalmente de los grupos sociales más desprotegidos y vulnerables por medio de la realización de actividades tanto culturales, educativas, deportivas y de recreación en apego al plan municipal de desarrollo social.
 
-I. Vigilar que se cumplan los estándares de calidad en la construcción de la obra pública, basándonos en la normatividad que las rige con el objetivo firme de mejorar la calidad de vida de los tuxtlecos;
-
-II. Supervisar los programas para la infraestructura de la obra pública de la ciudadanía;
-
-III. Supervisar los avances físicos y financieros de la obra pública en construcción;
-
-IV. Revisar y analizar las solicitudes de ajuste de costos y reprogramaciones solicitadas por los contratistas, con base en la legislación aplicable;
-
-V. Verificar, analizar y validar las estimaciones de obra; en apego a la normatividad aplicable vigente;
-
-VI. Participar en coordinación con las diferentes áreas involucradas en el desarrollo de la ejecución de la obra pública;
-
-VII. Dirigir y coordinar las tareas de supervisión con los jefes de departamento durante el proceso de ejecución de las obras; y,
-
-VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Obras Públicas dentro del ámbito de su competencia.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 68.
 
-La Dirección de Ordenamiento Territorial tendrá las siguientes atribuciones:
+Le corresponde además de las atribuciones que le señalen las leyes respectivas y el Plan Municipal de Desarrollo Social, el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+I. Presentar a la instancia correspondiente el programa anual de la Secretaría;
 
-I. Regular y vigilar en el ámbito de su competencia, el ordenado crecimiento urbano en el Municipio, siguiendo los lineamientos emanados del Plan Municipal de Desarrollo, Programa de Desarrollo Urbano del Centro de Población, en sus diversas facetas autorización para la creación de fraccionamientos, empadronar los establecimientos mercantiles, otorgar las subdivisiones de predios, así como lograr el equilibrio ecológico;
+II. Coordinar las áreas a su cargo para el cumplimiento municipal de desarrollo;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+III. Promover, desarrollar y ejecutar en el ámbito de su competencia los programas municipales de fomento y desarrollo social;
 
-II. Emitir dictámenes de fusión, subdivisión, factibilidad· de uso y destino del suelo, licencia de funcionamiento, constancia de viabilidad, autorizaciones de lotificación, urbanización, comercialización y declaratorias de régimen de propiedad en condominio, licencias para anuncios, de acuerdo a la normatividad vigente en la materia;
+IV. Planear, desarrollar, fomentar y difundir de forma sistemática la cultura deportiva para todos los sectores de la población, en coordinación estrecha con los organismos gubernamentales y civiles que se dedican a la práctica de los mismos;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+V. Planear, desarrollar, fomentar y difundir la formación del patrimonio productivo y capital de trabajo de los ciudadanos orientado a la equidad de género;
 
-III. Coordinar en el ámbito de su competencia, la supervisión de las obras de urbanización autorizadas, ordenar las suspensiones, clausuras y determinar las sanciones a las negociaciones que no cuenten con la constancia de factibilidad de uso y destino del suelo, licencia de funcionamiento, de conformidad con las leyes y reglamentos de la materia; sancionar el incumplimiento de las disposiciones de los dictámenes emitidos;
+VI. Apoyar y promover la participación de la ciudadanía en el desarrollo de actividades que conlleven a su superación e integración a la sociedad;
 
-IV. Determinar el aprovechamiento de las áreas de donación de los fraccionamientos, previo acuerdo del H. Ayuntamiento en el marco del Programa de Desarrollo Urbano del Centro de Población;
+VII. Fomentar acciones interinstitucionales e integrales encaminadas al beneficio de adultos mayores, personas con capacidades diferentes y niños en situación de calle;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+VIII. Implementar actividades encaminadas a la atención integral de grupos vulnerables que se encuentran marginados de los beneficios sociales, económicos y culturales en el Municipio;
 
-V. Coordinar y comisionar en el ámbito de su competencia, inspectores técnicos que vigilen el desarrollo de las obras de urbanización y se cercioren de que se cumpla con las especificaciones del proyecto definitivo de los diferentes fraccionamientos;
+IX. Captar necesidades de la población, realizar el diagnóstico correspondiente y programar el consenso de acciones que brinden mayores beneficios en el desarrollo social de la comunidad;
 
-VI. Dirigir la recepción correspondiente de los fraccionamientos, en coordinación con otras dependencias de la administración pública;
+X. Planear, organizar y controlar los programas y actividades educativas que requiere la ciudadanía en vinculación con los organismos públicos y privados tanto federales como estatales;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+XI. Organizar, administrar, supervisar y evaluar los programas orientados a mejorar la calidad de vida en la población del Municipio;
 
-VII. Ordenar en el ámbito de su competencia, inspecciones, suspensiones, clausuras e imponer sanciones a las obras públicas y privadas, así como a sus responsables, en caso de que proceda la aplicación de sanciones, medidas y procedimientos previstos en la Ley de Desarrollo Urbano, Ley General de Equilibrio Ecológico y Protección al Medio Ambiente, Reglamento de Protección al Ambiente y Aseo Urbano, Ley General para la Prevención y Gestión Integral de los Residuos, Reglamento de Anuncios para el Municipio de Tuxtla Gutiérrez, y en general las que apliquen para la Conservación y Preservación del Equilibrio Ecológico;
+XII. Desarrollar y fomentar la cultura de los ciudadanos a través de la protección, conservación y enriquecimiento de nuestro patrimonio cultural; y
 
-VIII. Participar en la conservación de las zonas y elementos con valor histórico, cultural y ecológico;
+XIII. Las demás que le asignen las Leyes, Reglamentos y el Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
-
-IX. Determinar la regularización de la tenencia de anuncios publicitarios, así como aplicar y vigilar la normatividad y disposiciones municipales sobre, áreas verdes propiedad del Ayuntamiento al resguardo de particulares, lotes baldíos, radiaciones electromagnéticas y térmicas, de transmisión satelital y de microondas, y lo conferido por la legislación en la materia;
-
-X. Resolver asuntos relacionados con denuncias efectuadas por la ciudadanía, en materia de deterioro ambiental, y a negocios y prestadores de servicios que causan molestias a terceros y no cumplen con las disposiciones de la constancia de factibilidad de uso de suelo;
-
-XI. Participar en la creación y administración de las reservas territoriales, derivados del programa de desarrollo urbano del centro de población;
-
-XII. Someter a consideración del H. Ayuntamiento los cambios de uso y destino del suelo;
-
-XIII. Emitir dictámenes y autorizaciones en relación a la vigilancia y observancia de la reglamentación inherente al uso y aprovechamiento de la vía pública. Formular y proponer proyectos de aperturas a nuevas vialidades que conforme (sic) parte de la estructura urbana vial de la ciudad;
-
-XIV. Coordinar la planeación de la distribución adecuada de los anuncios publicitarios en los espacios públicos y privados;
-
-XV. Ordenar los trabajos de conservación y reparación necesaria para garantizar la estabilidad, seguridad y buen aspecto de los anuncios;
-
-XVI. Emitir la opinión técnica, acorde al Plan de Desarrollo Urbano, en cuanto a las zonas que no sean factibles para el ejercicio del comercio en cualquiera de sus modalidades;
-
-XVII. Expedir las licencias para el ejercicio del comercio en la vía pública, previa autorización del comité dictaminador;
-
-XVIII. Empadronar y registrar todas las personas a quienes se les autorice el ejercicio del comercio; y
-
-XIX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo y Servicios Urbanos dentro del ámbito de su competencia.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 69.
 
-La Dirección de Proyectos tendrá las siguientes atribuciones:
+La Secretaría de Desarrollo Social para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
 
-l. Plasmar en documentos las necesidades de Obra Pública, emanadas de los requerimientos de los ciudadanos y en beneficio de la ciudad, así como, brindar apoyo técnico a otras áreas de (sic) H. Ayuntamiento en propuestas y evaluaciones técnicas;
+I. Dirección de Desarrollo para el Bienestar Social;
 
-II. Coordinar la recepción de las áreas correspondientes (sic) las necesidades en materia de obra pública municipal, para realizar los proyectos respectivos;
+II. Dirección de Difusión Cultural;
 
-III. Instruir a quien corresponda para realizar los estudios necesarios para la elaboración de los proyectos ejecutivos de obra pública y los emanados del Plan Municipal de Desarrollo respectivamente;
+III. Dirección de Economía Social;
 
-IV. Dirigir la elaboración de los proyectos técnicos y cuantificación de obras públicas del Municipio, coordinándolos con las dependencias de la Administración Pública Municipal que correspondan;
+IV. Dirección de Promoción Deportiva;
 
-V. Participar coordinada y normativamente con la Secretaría de Obras Públicas y Desarrollo Urbano en el desarrollo de la ejecución de los proyectos aprobados;
+V. Dirección de Servicios Educativos; y
 
-VI. Supervisar que la calidad de la obra sea acorde a lo proyectado; y,
-
-VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Obras Públicas y Desarrollo Urbano dentro del ámbito de su competencia.
+VI. Instituto Municipal de las Mujeres.
 
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2009)</small>
 
@@ -1595,11 +1679,245 @@ VI. Coordinar con la Dirección de Protección Civil, la atención de emergencia
 
 VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales dentro del ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 70.
+
+La Dirección de Desarrollo para el Bienestar Social tendrá las siguientes atribuciones:
+
+I. Dirigir y aplicar las Políticas Públicas, priorizando la equidad, la igualdad de oportunidades y la Integración de las acciones para la ciudadanía en el marco de la normatividad vigente en materia de Desarrollo para el Bienestar Social;
+
+II. Asegurar la aplicación y supervisión del programa municipal de desarrollo para el bienestar social;
+
+III. Supervisar el desarrollo y vigilar las actividades encaminadas a la atención integral de la población en general que se encuentran marginados de los beneficios sociales, económicos y culturales en el Municipio.
+
+IV. Analizar la demanda, integrar el presupuesto, contactar con los diferentes proveedores, diseñar el programa de supervisión de la entrega-distribución y elaborar estadísticas en materia de desayunos escolares; y
+
+V. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 71.
+
+La Dirección de Difusión Cultural tendrá las siguientes atribuciones:
+
+I. Dirigir y coordinar las actividades pertinentes destinadas a la investigación, presentación y difusión de las expresiones diversas de la cultura de esta ciudad;
+
+II. Promover acciones culturales en el Municipio, así como intercambios artísticos a través de actos culturales;
+
+III. Sensibilizar y concientizar a la población sobre la presentación y difusión de las tradiciones;
+
+IV. Establecer convenios con organizaciones, centros culturales y todas aquellas instituciones para fomentar la cultura del Municipio; y
+
+V. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 72.
+
+La Dirección de Economía Social tendrá las siguientes atribuciones:
+
+I. Servir a la población de escasos recursos, disminuyendo los rezagos sociales y mejorando sus condiciones de vida, mediante la ejecución de programas orientados a fortalecer las capacidades para el desarrollo sustentable de personas en situación menos favorable;
+
+II. Coordinar la operación y funcionamiento de los esquemas de financiamiento orientados a la creación de proyectos de inversión productiva, dirigidos a la población en situación de pobreza;
+
+III. Coordinar las acciones tendientes al establecimiento y ampliación de proyectos de carácter productivo encaminados a garantizar la capitalización de sus beneficiarios;
+
+IV. Supervisar el diseño e implementación de programas tendientes a fomentar la diversificación de actividades productivas en los ámbitos individual, colectivo y familiar;
+
+V. Coordinar el diseño de esquemas funcionales de financiamiento y ahorro; tanto interinstitucional, como público y privado dirigidos a mejorar la calidad de vida de la población en situación de pobreza;
+
+VI. Supervisar la promoción y fomento de la integración de grupos sociales tendientes a desarrollar proyectos productivos de impacto;
+
+VII. Coordinar la vinculación de los diferentes sectores productivos en compatibilidad con las políticas municipales de equidad e inclusión;
+
+VIII. Coordinar el diseño y operación de los programas sociales encaminados a brindar atención integral en beneficio de la población en situación de pobreza; y
+
+IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 73.
+
+La Dirección de Promoción Deportiva tendrá las siguientes atribuciones:
+
+I. Realizar constantemente actividades físicas en beneficio de la salud de los practicantes de esta especialidad deportiva;
+
+II. Diseñar y establecer un programa integral de desarrollo de la cultura física, a través del deporte y la recreación, que atienda a toda la población;
+
+III. Realizar convenios de colaboración con instituciones educativas, públicas y privadas, para coadyuvar al desarrollo de los programas integrales de la cultura física, deporte y recreación;
+
+IV. Programar, presupuestar y operar el fondo municipal para el deporte, así como para el mantenimiento preventivo y correctivo de las instalaciones deportivas del Municipio;
+
+V. Impulsar el desarrollo de atletas y talentos de alto rendimiento en este ámbito para que representen al Municipio;
+
+VI. Programar y desarrollar la etapa municipal de la olimpiada nacional;
+
+VII. Programar y organizar en coordinación con las dependencias que correspondan los juegos de la tercera edad;
+
+VIII. Establecer eventos de reconocimientos a quienes destacan o impulsan el deporte en el Municipio; y
+
+IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 74.
+
+La Dirección de Servicios Educativos tendrá las siguientes atribuciones:
+
+I. Organizar, dirigir, administrar los proyectos que den como resultado una mejora en la calidad de la educación diaria de la niñez y juventud tuxtleca;
+
+II. Organizar y vigilar el cumplimiento de programas que beneficien a los educandos de diferentes escuelas ubicadas en el Municipio;
+
+III. Organizar programas y talleres diversos en las Bibliotecas Públicas Municipales;
+
+IV. Fomentar la recreación y convivencia dentro de los espacios educativos, reconociendo los talentos de los educandos y de los maestros de los diferentes niveles académicos;
+
+V. Contribuir al cumplimiento de los programas educativos Federales y Estatales para su aplicación en las escuelas ubicadas dentro del Municipio;
+
+VI. Coordinar en colaboración con la Secretaría de Obras Públicas y Desarrollo Urbano Municipal el apoyo a la infraestructura educativa dentro de los programas y presupuestos aplicables para este ramo; y
+
+VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 75.
+
+El Instituto Municipal de las Mujeres como órgano desconcentrado de la Secretaría de Desarrollo Social, tendrá las siguientes atribuciones:
+
+I. Crear, analizar, evaluar y dar continuidad a las políticas públicas, programas, proyectos y acciones que se emprendan a favor de la igualdad de género, permitiendo compaginar el papel de la mujer en la familia y en el ámbito laboral;
+
+II. Aplicar programas, proyectos y acciones institucionales que incluyan la perspectiva de género y que mejoren la calidad de vida de las mujeres en el marco del respeto de sus derechos humanos y la paz social;
+
+III. Gestionar a nivel Federal, Estatal y Municipal apoyos ante diversas instituciones, para promover el mejoramiento de las condiciones sociales, económicas, políticas y culturales de las mujeres en los distintos ámbitos de la sociedad;
+
+IV. Dirigir y coordinar los trabajos para el desarrollo de igualdad de oportunidades así como los programas institucionales derivados;
+
+V. Fomentar trabajos que brinden los servicios para el combate a la marginación así como facilitar la creación de grupos interinstitucionales;
+
+VI. Establecer y concertar previa aprobación del Cabildo, la celebración de convenios o contratos necesarios para el ejercicio de las atribuciones del Instituto;
+
+VII. Conformar el Consejo Municipal de la Mujer;
+
+VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Social dentro del ámbito de su competencia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+### Capítulo VIII. Secretaría de Desarrollo Económico
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 76.
+
+La Secretaría de Desarrollo Económico es la dependencia responsable de promover, gestionar e impulsar el desarrollo económico del Municipio en todos los órdenes, contando para ello con las siguientes atribuciones:
+
+I. Proponer y coordinar las políticas y programas municipales de desarrollo económico;
+
+II. Impulsar, coordinar y promover las actividades comerciales, industriales, agropecuarias en todas sus ramas y en especial de aquellas de interés general para la población y de fomento al turismo;
+
+III. Servir de intermediario entre el Gobierno Municipal y las dependencias Federales y Estatales para fomentar el desarrollo económico en las actividades antes mencionadas;
+
+IV. Promover la concertación entre los sectores público, social y privado del Estado para fomentar el desarrollo económico de las ramas mencionadas;
+
+V. Promover y difundir los lugares turísticos del Municipio;
+
+VI. Promover y apoyar la instalación de nuevas tiendas de artículos básicos de consumo popular;
+
+VII. Coordinar y vigilar que las dependencias a su cargo cumplan con los programas a ellas encomendadas;
+
+VIII. Promover y gestionar la creación de nuevas empresas con el propósito de generar nuevas fuentes de empleo;
+
+IX. Planear, coordinar y promover las actividades artesanales propias del Municipio, a través del apoyo y organización de los artesanos;
+
+X. Asesorar a los empresarios en la preparación de proyectos de inversión;
+
+XI. Promover proyectos productivos de empresas ante fondos de financiamiento Estatales y Federales;
+
+XII. Mantener la consulta permanente con los organismos y asociaciones representativos del sector productivo;
+
+XIII. Planear, dirigir, controlar y evaluar los programas de capacitación, promoción y difusión relacionadas con el desarrollo económico;
+
+XIV. Promover y coordinar los programas y políticas municipales de desarrollo económico;
+
+XV. Planear, dirigir, controlar y evaluar el programa municipal para el fomento de la infraestructura industrial, comercial y de servicios;
+
+XVI. Promover, orientar y estimular el desarrollo y modernización del sector empresarial;
+
+XVII. Recopilar información socioeconómica del Municipio, así como indicadores (sic) estrategia de atracción de inversiones; y,
+
+XVIII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 77.
+
+La Secretaría de Desarrollo Económico para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
+
+I. Dirección de Desarrollo Turístico; y
+
+II. Dirección de Dirección (sic) de Fomento Económico.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 78.
+
+La Dirección de Desarrollo Turístico tendrá las siguientes atribuciones:
+
+I. Dirigir las acciones de planeación, organización, ejecución y evaluación con miras a una gestión pública sostenible del desarrollo turístico municipal;
+
+II. Dirigir un equipo técnico hacia la consecución de logros en el campo del desarrollo turístico desde el ámbito del sector público;
+
+III. Coordinar acciones de cooperación con los sectores público, privado y social, a fin de facilitar los logros en el campo del desarrollo turístico municipal;
+
+IV. Gestionar recursos, apoyos, acciones, facilidades, cooperación y lodo aquello que sea necesario para llevar a cabo las dos funciones anteriores;
+
+V. Diseñar y dirigir la campaña visual al interior y exterior del Estado para promover como destino turístico a Tuxtla Gutiérrez;
+
+VI. Planificar y establecer la estrategia de promoción que se utilizará en cada evento; y
+
+VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Económico dentro del ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 79.
+
+La Dirección de Fomento Económico tendrá las siguientes atribuciones:
+
+I. Mejorar las condiciones de vida de la población, impulsando programas que coadyuven al desarrollo empresarial, agropecuario e industrial;
+
+II. Establecer Fondos de Financiamiento para que las empresas puedan gestionar y obtener servicios y financiamientos necesarios para el desarrollo y fortalecimiento de sus actividades, así como la comercialización de sus productos;
+
+III. Promover y establecer la simplificación administrativa de los trámites para la apertura de negocios y nuevas inversiones de las empresas establecidas en el Municipio;
+
+IV. Instrumentar y asegurar la inversión productiva para el crecimiento de la micro, fami-empresa, pequeña y mediana empresa; así como de las actividades artesanales, agropecuarias, comercial, servicios y toda actividad económica en general; mediante el otorgamiento de apoyos específicos para su instalación, desarrollo y modernización;
+
+V. Establecer procesos de vinculación entre instituciones financieras, el micro, fami-empresa, pequeña y mediana empresa, instituciones educativas e instancias gubernamentales diversas;
+
+VI. Establecer convenios de colaboración económica entre empresarios y productores de otros municipios de la entidad, estados y otros países, con los cuales puedan realizarse diversos intercambios. Desarrollar los programas de inversión que puedan ser factibles de realizarse en el Municipio, para elevar la planta productiva;
+
+VII. Determinar proyectos tecnológico-productivos para el Municipio, desarrollando su viabilidad;
+
+VIII. Asegurar y coordinar al sector empresarial y al público en general el servicio de bolsa de trabajo, para reclutar personas aptas y calificadas para un trabajo afín;
+
+IX. Instrumentar proyectos de negocio a jóvenes empresarios, proporcionándoles asesoría y colaboración de los líderes en el ramo empresarial;
+
+X. Coordinar el seguimiento a los proyectos terminados, con el objeto de poder establecer parámetros respecto al grado de beneficio social y económico;
+
+XI. Establecer y desarrollar mecanismos y programas que incentiven la consolidación empresarial de las empresas ya establecidas y de aquellas nuevas empresas que requieran incursionar en el mercado; y
+
+XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Desarrollo Económico dentro del ámbito de su competencia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+### Capítulo IX. Secretaría de Salud Municipal
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 80.
 
 La Secretaría de Salud Municipal tiene como principal responsabilidad proporcionar servicios médicos a los trabajadores del Ayuntamiento y servicios asistenciales emergentes a la ciudadanía en general; determinar las políticas de salubridad del Municipio, y coordinar y vigilar las funciones y actividades enfocadas a la protección contra riesgos sanitarios, teniendo las siguientes atribuciones:
 
-l. Coordinar, supervisar y evaluar las funciones y actividades del Municipio en materia de salud pública municipal;
+I. Coordinar, supervisar y evaluar las funciones y actividades del Municipio en materia de salud pública municipal;
 
 II. Elaborar programas de salud en base al diagnóstico epidemiológico de los habitantes del Municipio para mejorar las condiciones de salud de la ciudadanía y bajar la tasa de morbimortalidad;
 
@@ -1613,23 +1931,27 @@ VI. Proponer la celebración de Convenios Interinstitucionales Locales, Estatale
 
 VII. Elaborar, supervisar y evaluar los programas de atención a adultos mayores;
 
-VIII. Rendir oportunamente los informes de los programas emergentes ordinarios y circunstanciales al Presidente y Comisión Edilicia correspondiente; y,
+VIII. Rendir oportunamente los informes de los programas emergentes ordinarios y circunstanciales al Presidente y Comisión Edilicia correspondiente; y
 
 IX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones legales y reglamentarias.
 
-###### Artículo 71.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 81.
 
 La Secretaría de Salud Municipal para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
 
-l. Dirección de Servicios Médicos;
+I. Dirección de Servicios Médicos;
 
 II. Dirección de Protección Contra Riesgos Sanitarios;
 
-III. Dirección de Clínica de Diagnóstico de la Mujer; y,
+III. Dirección de Clínica de Diagnóstico de la Mujer; y
 
 IV. Dirección de Verificaciones y Clausuras.
 
-###### Artículo 72.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 82.
 
 La Dirección de Servicios Médicos tendrá las siguientes atribuciones:
 
@@ -1651,13 +1973,15 @@ VIII. Coordinar el control de expedientes clínicos de los trabajadores del Muni
 
 IX. Elaborar un informe semanal y mensual de todas las consultas otorgadas en la Dirección de Servicios Médicos y las delegaciones de limpia y áreas verdes; así mismo ordenes de subrogación a especialistas y pases a laboratorio de rayos X y análisis clínicos;
 
-X. Coordinar las visitas domiciliarias que realizan el área de trabajo social y el área médica. Refiriendo un resumen clínico y estudio socioeconómíco;
+X. Coordinar las visitas domiciliarias que realizan el área de trabajo social y el área médica, refiriendo un resumen clínico y estudio socioeconómico;
 
-XI. Coordinar el servicio de consultas médicas así como medicamentos a la población abierta y trabajadores que no cuentan con servicios médicos, previa autorización del H. Cabildo; y,
+XI. Coordinar el servicio de consultas médicas así como medicamentos a la población abierta y trabajadores que no cuentan con servicios médicos, previa autorización del H. Cabildo; y
 
 XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Salud Municipal dentro del ámbito de su competencia.
 
-###### Artículo 73.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 83.
 
 La Dirección de Protección contra Riesgos Sanitarios tendrá las siguientes atribuciones:
 
@@ -1699,11 +2023,13 @@ XVIII. Supervisar el control y vigilancia sanitaria de panteones y crematorios;
 
 XIX. Supervisar el control y vigilancia sanitaria de albercas y balnearios públicos;
 
-XX. Coordinar el programa contra el tabaquismo en el H. Ayuntamiento; y,
+XX. Coordinar el programa contra el tabaquismo en el H. Ayuntamiento; y
 
 XXI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Salud dentro del ámbito de su competencia.
 
-###### Artículo 74.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 84.
 
 La Dirección de la Clínica de Diagnóstico de la Mujer tendrá las siguientes atribuciones:
 
@@ -1735,15 +2061,17 @@ XIII. Supervisar y evaluar la atención médica a través del reporte de product
 
 XIV. Planear y coordinar con el área administrativa la organización de la atención del número de consulta externa;
 
-XV. Realizar la vinculación de forma interinstitucional con dependencias del sector salud, para la canalización de pacientes que requieran el segundo nivel de atención; y,
+XV. Realizar la vinculación de forma interinstitucional con dependencias del sector salud, para la canalización de pacientes que requieran el segundo nivel de atención; y
 
 XVI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Salud dentro del ámbito de su competencia.
 
-###### Artículo 75.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 85.
 
 La Dirección de Verificaciones y Clausuras tendrá las siguientes atribuciones:
 
-l. Llevar el control y vigilancia de los establecimientos dedicados a la venta de bebidas alcohólicas en todas sus modalidades, el otorgamiento de nuevas licencias y/o permisos con un espíritu de responsabilidad, honestidad y deseo de servicio;
+I. Llevar el control y vigilancia de los establecimientos dedicados a la venta de bebidas alcohólicas en todas sus modalidades, el otorgamiento de nuevas licencias y/o permisos con un espíritu de responsabilidad, honestidad y deseo de servicio;
 
 II. Establecer funciones operativas de vigilancia e inspección de establecimientos dedicados al almacenaje, distribución y venta de bebidas alcohólicas dentro del Municipio;
 
@@ -1767,9 +2095,13 @@ XI. Diseñar y promover campañas de prevención que tengan como objetivo concie
 
 XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-### Capítulo VIII. Secretaría de Salud Municipal
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 76.
+### Capítulo X. Secretaría de Administración Municipal
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 86.
 
 La Secretaría de Administración es la responsable de planear, coordinar, dirigir y supervisar las políticas y lineamientos en torno a la administración, adquisición, uso y destino de los recursos humanos, materiales y prestación de servicios a las dependencias de la Administración Pública Municipal, le corresponden las siguientes atribuciones:
 
@@ -1807,21 +2139,25 @@ XVI. Imponer las sanciones y medidas disciplinarias a que se hagan acreedores lo
 
 XVII. Promover cursos de alfabetización, capacitación permanente y adiestramiento para los trabajadores del Municipio;
 
-XVIII. Coordinar la asignación del personal del servicio social en las diferentes áreas administrativas del H. Ayuntamiento; y,
+XVIII. Coordinar la asignación del personal del servicio social en las diferentes áreas administrativas del H. Ayuntamiento; y
 
 XIX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones reglamentarias.
 
-###### Artículo 77.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 87.
 
 La Secretaría de Administración Municipal para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
 
-l. Dirección de Recursos Materiales, Servicios Generales y Patrimonio Municipal;
+I. Dirección de Recursos Materiales, Servicios Generales y Patrimonio Municipal;
 
-II. Dirección de Recursos Humanos; y,
+II. Dirección de Recursos Humanos; y
 
 III. Dirección de Adquisiciones.
 
-###### Artículo 78.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 88.
 
 La Dirección de Recursos Materiales, Servicios Generales y Patrimonio Municipal tendrá las siguientes atribuciones:
 
@@ -1839,11 +2175,13 @@ VI. Implementar estándares de calidad en los diferentes departamentos;
 
 VII. Maximizar los recursos con los que cuenta la Dirección de Recursos Materiales y Servicios Generales;
 
-VIII. Supervisar y controlar el suministro de combustible a los vehículos oficiales del H. Ayuntamiento;
+VIII. Supervisar y controlar el suministro de combustible a los vehículos oficiales del H. Ayuntamiento.
 
-IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Administración Municipal dentro del ámbito de su competencia; y, (sic)
+IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaria de Administración Municipal dentro del ámbito de su competencia.
 
-###### Artículo 79.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 89.
 
 La Dirección de Recursos Humanos tendrá las siguientes atribuciones:
 
@@ -1869,13 +2207,13 @@ X. Proponer los procedimientos administrativos que regulan la relación laboral 
 
 XI. Supervisar el cumplimiento de las normas y reglamentos con base en la observancia del marco jurídico en materia de legislación laboral;
 
-XII. Supervisar la asignación de quienes presten servicio social en las diferentes áreas administrativas del H. Ayuntamiento; y,
+XII. Supervisar la asignación de quienes presten servicio social en las diferentes áreas administrativas del H. Ayuntamiento; y
 
 XIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Coordinación General de Administración y Política Pública dentro del ámbito de su competencia.
 
-### Capítulo IX. Secretaría de Administración Municipal
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 80.
+###### Artículo 90.
 
 La Dirección de Adquisiciones tendrá las siguientes atribuciones:
 
@@ -1899,13 +2237,19 @@ IX. Participar en el Comité de Adquisiciones, convocando a las sesiones y prese
 
 X. Determinar y proponer a autorización del Comité de Adquisiciones los contratos derivados de las licitaciones efectuadas en sus diferentes modalidades así como de los turnados por las dependencias del H. Ayuntamiento;
 
-XI. Coordinar con las dependencias del H. Ayuntamiento los requerimientos de bienes para realizar las actividades inherentes a las adquisiciones; y,
+XI. Coordinar con las dependencias del H. Ayuntamiento los requerimientos de bienes para realizar las actividades inherentes a las adquisiciones; y
 
-XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaria de Administración dentro del ámbito de su competencia.
+XII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Administración dentro del ámbito de su competencia.
 
-###### Artículo 81.
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-Es la dependencia encargada de ejecutar las acciones necesarias para brindar a la ciudadanía los servicios de obras viales e imagen urbana, recolección de basura, ornato en áreas verdes y alumbrado público, así como los servicios relacionados con la administración de los mercados y panteones contando para ello con las siguientes atribuciones:
+### Capítulo XI. Secretaría de Servicios Municipales
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 91.
+
+Es la dependencia encargada de ejecutar las acciones necesarias para brindar a la ciudadanía los servicios de imagen urbana, recolección de basura, ornato en áreas verdes y alumbrado público, así como los servicios relacionados con la administración de los mercados, panteones y comercios ambulantes contando para ello con las siguientes atribuciones:
 
 I. Formular los programas operativos anuales y los programas emergentes en materia de servicios públicos;
 
@@ -1919,15 +2263,17 @@ V. Mantener en buen estado y ampliar el servicio de alumbrado público de la ciu
 
 VI. Crear nuevas áreas verdes y mantener en buen estado los parques, jardines, camellones del Municipio y relojes públicos;
 
-VII. Mantener en buen estado los panteones del Municipio, vigilando que se cumpla con las normas legales para su funcionamiento y cuidando que se amplíen cuando el servicio lo requiera; y,
+VII. Mantener en buen estado los panteones del Municipio, vigilando que se cumpla con las normas legales para su funcionamiento y cuidando que se amplíen cuando el servicio lo requiera; y
 
 VIII. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este Reglamento y otras disposiciones reglamentarias.
 
-###### Artículo 82.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 92.
 
 La Secretaría de Servicios Municipales para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
 
-l. Dirección de Áreas Verdes;
+I. Dirección de Áreas Verdes;
 
 II. Dirección de Alumbrado Público;
 
@@ -1935,11 +2281,11 @@ III. Dirección de Limpia y Aseo Público;
 
 IV. Dirección de Mercados, Panteones y Comercio Ambulante;
 
-V. Dirección de Imagen Urbana; y, (sic)
+V. Dirección de Imagen Urbana.
 
-VI. (DEROGADA, P.O. 10 DE JUNIO DE 2009)
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 83.
+###### Artículo 93.
 
 La Dirección de Áreas Verdes tendrá las siguientes atribuciones:
 
@@ -1969,11 +2315,13 @@ XII. Diseñar programas y proyectos, con recursos Municipales y Federales, encam
 
 XIII. Supervisar las instalaciones y la meta de producción de plantas ornamentales y de uso forestal en los viveros;
 
-XIV. Supervisar las instalaciones de los parques, jardines, monumentos, fuentes y bulevares propiedad del municipio; y,
+XIV. Supervisar las instalaciones de los parques, jardines, monumentos, fuentes y bulevares propiedad del municipio; y
 
 XV. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Administración dentro del ámbito de su competencia.
 
-###### Artículo 84.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 94.
 
 La Dirección de Alumbrado Público tendrá las siguientes atribuciones:
 
@@ -2005,11 +2353,13 @@ XIII. Planificar proyectos y programas de ahorro de energía eléctrica en el al
 
 XIV. Coordinar y diseñar los estímulos al recurso humano;
 
-XV. Coordinar la revisión de factibilidad y funcionalidad de los proyectos de alumbrado público, realizados por dependencias gubernamentales e iniciativas privadas para su posterior autorización; y,
+XV. Coordinar la revisión de factibilidad y funcionalidad de los proyectos de alumbrado público, realizados por dependencias gubernamentales e iniciativas privadas para su posterior autorización; y
 
 XVI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Administración dentro del ámbito de su competencia.
 
-###### Artículo 85.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 95.
 
 La Dirección de Limpia y Aseo Público tendrá las siguientes atribuciones:
 
@@ -2037,33 +2387,21 @@ XI. Coordinar planes y programas de limpieza que se requieran en la ciudad;
 
 XII. Llevar un control y evaluación de las quejas y denuncias de la ciudadanía;
 
-XIII. Dirigir la coordinación con diferentes instituciones públicas, privadas y ciudadanía en general para preparar campañas de limpieza y concientización en el manejo de los residuos sólidos para fomentar la cultura ambiental; y,
+XIII. Dirigir la coordinación con diferentes instituciones públicas, privadas y ciudadanía en general para preparar campañas de limpieza y concientización en el manejo de los residuos sólidos para fomentar la cultura ambiental; y
 
 XIV. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales, dentro del ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-### Capítulo X. Secretaría de Servicios Municipales
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2009)</small>
-
-###### Artículo 86.
+###### Artículo 96.
 
 La Dirección de Mercados, Panteones tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
-
-l. Dirigir de manera eficiente y eficaz todas las actividades relacionadas con los mercados y panteones, en el marco de las reglamentaciones establecidas;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+I. Dirigir de manera eficiente y eficaz todas las actividades relacionadas con los mercados y panteones, en el marco de las reglamentaciones establecidas;
 
 II. Supervisar la administración y el servicio en los mercados públicos y panteones municipales verificando la aplicación de la reglamentación respectiva;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
-
 III. Administrar los mercados públicos, tianguis y panteones municipales, informando a la Tesorería Municipal de los asuntos que le correspondan para el cobro de los derechos, productos y aprovechamientos respectivos;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 IV. Implementar y desarrollar programas tendientes a mejorar la prestación de los servicios de mercados públicos y panteones municipales;
 
@@ -2071,33 +2409,27 @@ V. Actualizar el censo de las personas que usufructúan los locales en los merca
 
 VI. Autorizar los cambios de giros, permuta, traspaso y permisos de los locales, ubicados en los mercados públicos, previo análisis de los expedientes técnicos por el comité dictaminador;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
-
 VII. Supervisar los programas de mantenimiento y remodelación de los mercados públicos, mercados sobre ruedas, panteones municipales y centros de abasto, informando a las autoridades competentes sobre el desarrollo de las operaciones y el estado en el que se conservan los mismos;
 
 VIII. Dictaminar de manera conjunta con las dependencias correspondientes, las zonas en las que deberán establecerse mercados y panteones en el Municipio;
 
-IX. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2009)
+IX. Imponer y ejecutar las sanciones administrativas previstas en el Reglamento vigente de mercados públicos y panteones municipales;
 
-X. Imponer y ejecutar las sanciones administrativas previstas en el Reglamento vigente de mercados públicos y panteones municipales;
+X. Proponer y llevar a cabo las medidas tendientes a optimizar la prestación del servicio de los mercados públicos, y panteones municipales, así como también los servicios sanitarios públicos;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+XI. Autorizar los traspasos, regulación, inhumaciones y construcciones en los lotes de los panteones municipales;
 
-XI. Proponer y llevar a cabo las medidas tendientes a optimizar la prestación del servicio de los mercados públicos, y panteones municipales, así como también los servicios sanitarios públicos;
+XII. Implementar medidas de higiene y seguridad de acuerdo a las normas jurídicas establecidas y en coordinación con las áreas responsables en la materia; y
 
-XII. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2009)
+XIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales dentro del ámbito de su competencia.
 
-XIII. Autorizar los traspasos, regulación, inhumaciones y construcciones en los lotes de los panteones municipales;
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-XIV. Implementar medidas de higiene y seguridad de acuerdo a las normas jurídicas establecidas y en coordinación con las áreas responsables en la materia; y,
-
-XV. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales dentro del ámbito de su competencia.
-
-###### Artículo 87.
+###### Artículo 97.
 
 La Dirección de Imagen Urbana tendrá las siguientes atribuciones:
 
-l. Planificar y dirigir los proyectos integrales y actividades en general que contribuyan a elevar la imagen urbana de la ciudad;
+I. Planificar y dirigir los proyectos integrales y actividades en general que contribuyan a elevar la imagen urbana de la ciudad;
 
 II. Planificar proyectos integrales que realcen la imagen urbana de la ciudad;
 
@@ -2111,17 +2443,19 @@ VI. Dirigir para su mejor utilización el rescate de espacios urbanos, con el ap
 
 VII. Emplear mecanismos optimizando recursos para lograr una mejor imagen urbana;
 
-VIII. Lograr en la medida de las posibilidades la transformación de la ciudad capital; y,
+VIII. Lograr en la medida de las posibilidades la transformación de la ciudad capital; y
 
-IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaria de Servicios Municipales dentro del ámbito de su competencia.
+IX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la Secretaría de Servicios Municipales dentro del ámbito de su competencia.
 
-###### Artículo 88.
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-(DEROGADO, P.O. 10 DE JUNIO DE 2009)
+### Capítulo XII. Contraloría Social
 
-###### Artículo 89.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-La Contraloría Social tiene la atribución de planear, organizar y desarrollar acciones de vigilancia y evaluación de la gestión de los funcionarios municipales, a fin de que se cumpla con el marco jurídico específico, y se respeten los derechos de la ciudadanía en el trámite y cumplimiento procedente de sus demandas. A la Contraloría Social, le corresponden las siguientes atribuciones:
+###### Artículo 98.
+
+La Contraloría Social tiene la atribución de planear, organizar y desarrollar acciones de vigilancia y evaluación de la gestión de los funcionarios municipales, a fin de que se cumpla con el marco jurídico específico y se respeten los derechos de la ciudadanía en el trámite y cumplimiento procedente de sus demandas. A la Contraloría Social, le corresponden las siguientes atribuciones:
 
 I. Asesorar y capacitar a ciudadanos para el control y vigilancia de las obras y acciones que desarrolla el H. Ayuntamiento;
 
@@ -2133,21 +2467,23 @@ IV. Coordinar el control preventivo en la Administración Pública Municipal, co
 
 V. Iniciar las acciones de transparencia a que haya lugar en materia del ejercicio de la función pública;
 
-VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal en el ámbito de su competencia.
+VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal en el ámbito de su competencia;
 
-###### Artículo 90.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 99.
 
 La Contraloría Social para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones se apoya en el:
 
-l. Departamento de Quejas y Denuncias.
+I. Departamento de Quejas y Denuncias.
 
-### Capítulo XI. Contraloría Social
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 91.
+###### Artículo 100.
 
 El Departamento de Quejas y Denuncias tendrá las siguientes atribuciones:
 
-I. Coordinar, integrar y participar en los mecanismos de supervisión de la función pública municipal, con relación a la atención de la ciudadanía;
+I. Coordinar, integrar y participar en los mecanismos de supervisión de la función pública municipal con relación a la atención de la ciudadanía;
 
 II. Atender quejas y denuncias de la ciudadanía sobre el servicio que realizan los funcionarios públicos municipales, turnándolas a las áreas competentes y dándoles el seguimiento hasta su conclusión;
 
@@ -2167,11 +2503,17 @@ IX. Revisar las encuestas de opinión para medir la calidad en el servicio que s
 
 X. Verificar la evaluación del nivel de respuesta de las diferentes dependencias que conforman este H. Ayuntamiento con relación a las quejas, denuncias y sugerencias enviadas;
 
-XI. Asistir a las audiencias públicas presididas por el Ejecutivo Municipal; y,
+XI. Asistir a las audiencias públicas presididas por el Ejecutivo Municipal; y
 
 XII. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
 
-###### Artículo 92.
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+### Capítulo XIII. Secretaría Técnica
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 101.
 
 Es la encargada de coordinar el seguimiento de los acuerdos e instrucciones que el Titular del Ejecutivo Municipal ha turnado a los servidores públicos de la Administración Pública Municipal, con el fin de que se cumplimenten en tiempo y forma. Correspondiéndole definir las políticas en el establecimiento de normas, para el diseño de apoyo técnico y asesoría al ejecutivo municipal, teniendo las siguientes atribuciones:
 
@@ -2189,21 +2531,25 @@ VI. Comunicar por escrito a los titulares de las dependencias y organismos de la
 
 VII. Solicitar el apoyo necesario de las diferentes dependencias y organismos de la Administración Pública Municipal, para el desarrollo de las reuniones o sesiones de trabajo del Ejecutivo Municipal;
 
-VIII. Vigilar el adecuado despacho de los asuntos del Ejecutivo Municipal, dictando las instrucciones que procedan y cuidando que se cumplan los acuerdos respectivos; y,
+VIII. Vigilar el adecuado despacho de los asuntos del Ejecutivo Municipal, dictando las instrucciones que procedan y cuidando que se cumplan los acuerdos respectivos; y
 
 IX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones reglamentarias.
 
-###### Artículo 93.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 102.
 
 La Secretaría Técnica para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
 
 I. Coordinación de Comunicación Social;
 
-II. Coordinación de Relaciones Públicas; y,
+II. Coordinación de Relaciones Públicas; y
 
 III. Coordinación de Giras.
 
-###### Artículo 94.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 103.
 
 La Coordinación de Comunicación Social tendrá las siguientes atribuciones:
 
@@ -2237,15 +2583,17 @@ XIV. Verificar la realización del o los trámites para el pago correspondiente 
 
 XV. Dirigir la gestión administrativa del personal ante la oficina de Recursos Humanos;
 
-XVI. Analizar los escenarios políticos y sociales a nivel local, regional y nacional, que puedan incidir en la Presidencia Municipal, para facilitar la adecuada toma de decisiones; y,
+XVI. Analizar los escenarios políticos y sociales a nivel local, regional y nacional, que puedan incidir en la Presidencia Municipal, para facilitar la adecuada toma de decisiones; y
 
 XVII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de sus funciones.
 
-###### Artículo 95.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 104.
 
 La Coordinación de Relaciones Públicas tendrá las siguientes atribuciones:
 
-I. Establecer relaciones con organismos nacionales e internacionales para promover e impulsar el desarrollo integral, a través del intercambio de ideas, planes y proyectos de trabajo, publicaciones, foros, simposios, congresos y conferencias magistrales;
+l. Establecer relaciones con organismos nacionales e internacionales para promover e impulsar el desarrollo integral, a través del intercambio de ideas, planes y proyectos de trabajo, publicaciones, foros, simposios, congresos y conferencias magistrales;
 
 II. Diseñar, elaborar y enviar invitaciones, cartas, reconocimientos tarjetas, documentos y otros, a las diferentes organizaciones y personas que así se requieran;
 
@@ -2253,15 +2601,17 @@ III. Recibir y atender a las organizaciones y personas que visiten al Gobierno M
 
 IV. Proporcionar apoyo logístico a las entidades y dependencias de la Administración Pública Municipal para la realización de eventos;
 
-V. Elaborar y actualizar la base de datos de funcionarios públicos Federales, Estatales y Municipales, dependencias y entidades públicas, privadas y sociales, y organizaciones no gubernamentales; y,
+V. Elaborar y actualizar la base de datos de funcionarios públicos Federales, Estatales y Municipales, dependencias y entidades públicas, privadas y sociales, y organizaciones no gubernamentales; y
 
 VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-###### Artículo 96.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 105.
 
 La Coordinación de Giras tendrá las siguientes atribuciones:
 
-I. Recibir las solicitudes de apoyo de las Secretarías del H. Ayuntamiento Constitucional;
+I. Recibir las solicitudes de apoyo de las Secretarias del H. Ayuntamiento Constitucional;
 
 II. Brindar el apoyo solicitado, comunicándole al solicitante mediante oficio, firmado por el Coordinador de Giras;
 
@@ -2273,27 +2623,33 @@ V. Realizar ajustes de acuerdo a (sic) presupuesto de coordinación de giras y m
 
 VI. Dar instrucciones al personal operativo correspondiente y proveer las necesidades del evento;
 
-VII. Recuperar el material utilizado al término del evento; y,
+VII. Recuperar el material utilizado al término del evento; y
 
 VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-###### Artículo 97.
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+### Capítulo XIV. Órganos Auxiliares de la Presidencia Municipal
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 106.
 
 La Presidencia Municipal para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
 
 I. Secretaría particular;
 
-II. Oficina de Enlace Interinstitucional; y,
+II. Oficina de Enlace Interinstitucional; y
 
 III. Coordinación de Asesores.
 
-### Capítulo XII. Secretaría Técnica
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 98.
+###### Artículo 107.
 
 La Secretaría Particular tendrá las siguientes atribuciones:
 
-l. Apoyar en las funciones del Presidente Municipal como organizar, coordinar y agilizar todos los asuntos que demande la Presidencia;
+I. Apoyar en las funciones del Presidente Municipal como organizar, coordinar y agilizar todos los asuntos que demande la Presidencia;
 
 II. Dar seguimiento al Plan Municipal de Desarrollo para programar, coordinar, dar continuidad y evaluar cada una de las acciones y estrategias necesarias para el cumplimiento de las metas propuestas;
 
@@ -2321,25 +2677,29 @@ XIII. Acordar con el Presidente la calendarización en agenda, de las reuniones 
 
 XIV. Coordinar la adecuada canalización y el seguimiento de las demandas ciudadanas que el Presidente recibe, a efecto de asegurar una respuesta oportuna a los solicitantes;
 
-XV. Atender en audiencia aquellas solicitudes que se consideren prioritarias para el buen funcionamiento de las políticas de Gobierno; y,
+XV. Atender en audiencia aquellas solicitudes que se consideren prioritarias para el buen funcionamiento de las políticas de Gobierno; y
 
 XVI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-###### Artículo 99.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 108.
 
 El Jefe de la Oficina de Enlace Interinstitucional tendrá las siguientes atribuciones:
 
-l. Coordinar acciones para fortalecer los mecanismos de colaboración y comunicación que coadyuven a la integración de las distintas áreas de la Presidencia Municipal;
+I. Coordinar acciones para fortalecer los mecanismos de colaboración y comunicación que coadyuven a la integración de las distintas áreas de la Presidencia Municipal;
 
 II. Promover los mecanismos de colaboración y comunicación que coadyuven a la integración de las distintas áreas del Gobierno;
 
 III. Velar por la participación activa del H. Ayuntamiento con las organizaciones gubernamentales nacionales e internacionales;
 
-IV. Trabajar estrechamente con la Secretaría Técnica para el manejo de la agenda del Ejecutivo Municipal por la generación de reuniones de trabajo y eventos generados por esta Coordinación General; y,
+IV. Trabajar estrechamente con la Secretaría Técnica para el manejo de la agenda del Ejecutivo Municipal por la generación de reuniones de trabajo y eventos generados por esta Coordinación General; y
 
 V. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-###### Artículo 100.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 109.
 
 El Coordinador de Asesores tendrá las siguientes atribuciones:
 
@@ -2359,21 +2719,27 @@ VII. Coordinar y evaluar los análisis de la información de proyectos solicitad
 
 VIII. Establecer mecanismos de análisis y evaluación de los alcances que tienen las políticas públicas sobre los principales programas de Gobierno mediante la información política proporcionada por las diferentes dependencias, para medir su impacto en la población y difundir los logros del Gobierno municipal;
 
-IX. Coordinar y planear el establecimiento de vínculos con las diferentes comunidades que conforman el Municipio, mediante las políticas e instrucciones dictadas por el programa operativo anual de trabajo para atender de manera particular y conforme a su propia organización y conformación, las necesidades especificas de cada comunidad, acercándolas de manera transversal a los programas que operan las diversas dependencias; difundiendo los logros y obras; y,
+IX. Coordinar y planear el establecimiento de vínculos con las diferentes comunidades que conforman el Municipio, mediante las políticas e instrucciones dictadas por el programa operativo anual de trabajo para atender de manera particular y conforme a su propia organización y conformación, las necesidades especificas de cada comunidad, acercándolas de manera transversal a los programas que operan las diversas dependencias; difundiendo los logros y obras; y
 
 X. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-### Capítulo XIII. Órganos Auxiliares de la Presidencia Municipal
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 101.
+### Capítulo XV. Órganos Auxiliares de la Sindicatura
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 110.
 
 Dirección de sindicatura se encarga de vigilar las actividades de la Administración Pública Municipal, proponiendo las medidas que estime convenientes ante la Sindicatura Municipal.
 
-###### Artículo 102.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 111.
 
 Son atribuciones de la Dirección de la Sindicatura Municipal las siguientes:
 
-l. Supervisar el correcto funcionamiento de los departamentos de Sindicatura;
+I. Supervisar el correcto funcionamiento de los departamentos de Sindicatura;
 
 II. Supervisar la correcta aplicación de los recursos financieros conforme a los presupuestos aprobados;
 
@@ -2385,19 +2751,23 @@ V. Tramitar ante el Congreso del Estado, previo acuerdo del H. Ayuntamiento, las
 
 VI. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Síndico Municipal dentro del ámbito de su competencia.
 
-###### Artículo 103.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 112.
 
 La Dirección de Sindicatura para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
 
-l. Departamento de Normatividad.
+I. Departamento de Normatividad.
 
 II. Departamento de Supervisión y Verificación de Patrimonio y de Ingresos.
 
-III. Departamento de Revisión de Gasto Corriente e Inversión; y,
+III. Departamento de Revisión de Gasto Corriente e Inversión; y
 
 IV. Departamento de Patrimonio Municipal.
 
-###### Artículo 104.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 113.
 
 El Departamento de Normatividad tendrá las siguientes atribuciones:
 
@@ -2413,11 +2783,13 @@ V. Coordinar y supervisar las actividades del Departamento;
 
 VI. Recabar firmas de los integrantes del Comité;
 
-VII. Integrar los expedientes de las Comisiones en las que el Síndico forme parte; y,
+VII. Integrar los expedientes de las Comisiones en las que el Síndico forme parte; y
 
 VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Síndico Municipal dentro del ámbito de su competencia.
 
-###### Artículo 105.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 114.
 
 El Departamento de Supervisión y Verificación de Patrimonio y de Ingresos tendrá las siguientes atribuciones:
 
@@ -2427,17 +2799,17 @@ II. Vigilar la correcta aplicación de los recursos financieros;
 
 III. Controlar y vigilar las adquisiciones y almacenamiento de materiales;
 
-IV. Establecer controles de los bienes muebles e inmuebles del Municipio; y,
+IV. Establecer controles de los bienes muebles e inmuebles del Municipio; y
 
 V. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Síndico Municipal dentro del ámbito de su competencia.
 
-### Capítulo XIV. Órganos Auxiliares de la Sindicatura
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 106.
+###### Artículo 115.
 
 El Departamento de Revisión de Gasto Corriente e Inversión tendrá las siguientes atribuciones:
 
-l. Observar que los expedientes de obra reúnan los requisitos establecidos por la normatividad respectiva para la correcta liberación del gasto de inversión;
+I. Observar que los expedientes de obra reúnan los requisitos establecidos por la normatividad respectiva para la correcta liberación del gasto de inversión;
 
 II. Revisar expedientes unitarios de Gasto de Inversión y Obra Pública;
 
@@ -2445,15 +2817,27 @@ III. Registrar el pago de contratistas;
 
 IV. Elaborar cedulas de observaciones;
 
-V. Revisar la documentación que envía el área financiera (Cheques, pólizas de Cheques y documentación soporte;
+V. Revisar la documentación que envía el área financiera (Cheques, pólizas de Cheques y documentación soporte);
 
 VI. Proporcionar asesoría contable;
 
-VII. Entregar cheques y documentación al área financiera; y,
+VII. Entregar cheques y documentación al área financiera; y
 
 VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Síndico Municipal dentro del ámbito de su competencia.
 
-###### Artículo 107.
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+
+###### Artículo 115 Bis.
+
+El Departamento de Inspección y Vigilancia, tendrá las siguientes atribuciones:
+
+I.- Aplicar conjuntamente con las demás áreas facultadas del Ayuntamiento, la normatividad y vigilar las disposiciones municipales con el objeto (sic) proteger la conservación del medio ambiente municipal, mediante la regularización de los derribos, desrame y poda de árboles, lotes baldíos incendiados, ubicados dentro de la jurisdicción que comprende este municipio, y la emisión de todo tipo de contaminantes perjudiciales al equilibrio ecológico o al ambiente, como ruido, quema, humo, malos olores y sustancias tóxicas, así como lo conferido por la legislación en la materia;
+
+II.- Inspeccionar y vigilar conjuntamente con las demás áreas facultadas del Ayuntamiento para la atención de las denuncias de la ciudadanía; en lo que respecta en materia ambiental.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 116.
 
 El Departamento de Patrimonio Municipal tendrá las siguientes atribuciones:
 
@@ -2463,181 +2847,17 @@ II. Integrar y actualizar el inventario patrimonial de los bienes muebles e inmu
 
 III. Integrar y actualizar el padrón vehicular propiedad del H. Ayuntamiento, así como su documentación comprobatoria respectiva, para administrarlos y resguardarlos.
 
-###### Artículo 108.
-
-Contraloría Municipal tiene como función planear, organizar, supervisar y evaluar a través de auditorías a las dependencias y organismos de la Administración Pública Municipal, para observar el cumplimiento de las normas, reglamentos y disposiciones aplicables en su ámbito de competencia, con el fin de contribuir en la correcta aplicación y uso transparente de los bienes y recursos del Ayuntamiento, correspondiéndole las siguientes atribuciones:
-
-I. Intervenir en la entrega y recepción de bienes y valores que sean de la propiedad del Ayuntamiento o se encuentren en posesión del mismo, cuando se verifique algún cambio de titular de las dependencias o unidades administrativas correspondientes;
-
-II. Vigilar que los servidores públicos municipales cumplan dentro de los plazos y términos establecidos en la ley de la materia, con la presentación de la declaración de situación patrimonial;
-
-III. Solicitar los servicios de la auditoría externa para emitir su opinión sobre las finanzas y el control de la administración municipal;
-
-IV. Organizar y asesorar el correcto funcionamiento de los sistemas de control de la Administración Municipal, realizando propuestas de normas para establecer medios que permitan su permanente perfeccionamiento;
-
-V. Hacer una evaluación previa a la expedición de proyectos que regulen la ejecución de los procedimientos para la protección del patrimonio municipal y sus sistemas de información, con el objeto de determinar si cada uno cumple con sus respectivos requisitos;
-
-VI. Verificar la realización de las operaciones en las diferentes dependencias cuando sean implantados los proyectos mencionados en la fracción anterior;
-
-VII. Formular programas de actividades para realizar revisiones financieras u operacionales, estableciendo formas del correcto funcionamiento de las coordinaciones de la dirección, así como las bases generales para la realización de las mismas;
-
-VIII. Practicar revisiones a todas las dependencias del Ayuntamiento, así como proceder al seguimiento de los programas, convenios, contratos o acuerdos que efectúe el propio Ayuntamiento con organismos del sector gubernamental y privado, vigilando que se logren los objetivos planeados, evaluando aspectos normativos, administrativos, financieros y de control;
-
-IX. Informar al Presidente Municipal sobre los resultados de las revisiones que se efectúen, haciendo del conocimiento del Síndico dichos resultados cuando sean detectadas irregularidades para los efectos que resulten procedentes;
-
-X. Comunicar al Síndico los hechos irregulares que realicen los servidores públicos municipales durante el desarrollo de sus funciones, cuando se considere que se encuentran tipificados como delitos en la legislación penal correspondiente, para los efectos de proceder conforme a derecho;
-
-XI. Vigilar el funcionamiento de los procedimientos de control de la administración, siendo competente para requerir a las dependencias y organismos, la instrumentación de medidas complementarias para el ejercicio de facultades que aseguren dicho control;
-
-XII. Vigilar el cumplimiento de las normas de control y fiscalización administrativa interna, así como asesorar y apoyar a las dependencias en el cumplimiento y aplicación de dichas normas de control;
-
-XIII. Llevar a cabo revisiones, auditorias y peritajes por acuerdo del Presidente Municipal, por si, ó a solicitud de las dependencias y de los organismos con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
-
-XIV. Recibir quejas y denuncias por incumplimiento de las obligaciones o por inobservancia de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas; practicar investigaciones sobre sus actos, determinar las responsabilidades y proponer al Ayuntamiento las sanciones que correspondan;
-
-XV. Requerir a los Servidores Públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal; y,
-
-XVI. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones reglamentarias.
-
-###### Artículo 109.
-
-La Contraloría Municipal para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrada por la siguiente estructura orgánica:
-
-I. Departamento de Responsabilidades Quejas y Denuncias;
-
-II. Departamento de Auditoría Financiera;
-
-III. Departamento de Auditorias Especiales; y,
-
-IV. Departamento de Supervisión de Obras y Programas.
+## Título III. De los Organismos Desconcentrados
 
 ### Capítulo I. Instituto de Protección al Medio Ambiente
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 110.
-
-Departamento de Responsabilidades, Quejas y Denuncias tendrá las siguientes, atribuciones:
-
-I. Vigilar y verificar que los funcionarios públicos municipales cumplan con lo dispuestos en las leyes y reglamentos que rigen a los servidores públicos;
-
-II. Revisar el debido cumplimiento de las normas para la entrega recepción de las dependencias;
-
-III. Verificar que se cumplan las disposiciones relativas a la declaración de la situación patrimonial de conformidad con lo establecido en la ley de responsabilidades de los servidores públicos del Estado de Chiapas;
-
-IV. Vigilar que la integración y el proyecto de resolución de los procedimientos administrativos de su competencia sean de conformidad con lo dispuesto en este Reglamento y demás disposiciones legales aplicables;
-
-V. Atender las quejas y denuncias por incumplimiento de las obligaciones o por inobservancia de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas;
-
-VI. Practicar investigaciones sobre sus actos, determinar las responsabilidades y proponer al Ayuntamiento las sanciones que correspondan;
-
-VII. Solicitar a los servidores públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal;
-
-VIII. Coordinar, dirigir y controlar las actividades de los óranos (sic) administrativos a su cargo;
-
-IX. Realizar el informe al Presidente y Síndico municipal sobre el resultado de la evaluación de las dependencias y organismos que hayan sido objeto de verificación y vigilancia;
-
-X. Coordinar los sistemas de control de la Administración Municipal; y,
-
-XI. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
-
-###### Artículo 111.
-
-El Departamento de Auditorias Financieras tendrá las siguientes atribuciones:
-
-I. Vigilar el óptimo funcionamiento de los registros y aplicación de los recursos asignados a las diversas áreas que integran el H. Ayuntamiento, con la finalidad que se realicen dentro de los lineamientos establecidos;
-
-II. Inspeccionar el funcionamiento de los procedimientos de control de la administración, siendo competente para requerir a las dependencias y organismos, la instrumentación de medidas complementarias para el ejercicio de facultades que aseguren dicho control;
-
-III. Inspeccionar el cumplimiento de las normas de control y fiscalización administrativa interna, así como asesorar y apoyar a las dependencias en el cumplimiento y aplicación de dichas normas de control;
-
-IV. Coordinar revisiones, auditorias y peritajes por acuerdo del Presidente Municipal, por si, ó a solicitud de las dependencias y de los organismos con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento;
-
-V. Supervisar que en la Administración Municipal se cumpla con las normas y disposiciones de la ley de presupuestos, contabilidad y gasto público en materia de sistemas de registro y contabilidad, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso destino, afectación, enajenación y desincorporación de bienes muebles e inmuebles;
-
-VI. Verificar que se cumplan las disposiciones de los contratos, acuerdos y convenios celebrados entre el Ayuntamiento y otras entidades de interés público o privado, de donde se derive y aplique la inversión de fondos públicos;
-
-VII. Evaluar los sistemas y procedimientos administrativos de control interno y los manuales técnicos y operativos que se requieran en las dependencias;
-
-VIII. Realizar el informe al Presidente y Síndico Municipal sobre el resultado de la evaluación de las dependencias y organismos que hayan sido objeto de verificación y vigilancia;
-
-IX. Inspeccionar la adquisición y enajenación de bienes muebles e inmuebles que lleve a cabo el Ayuntamiento y vigilar que dichas operaciones se ajusten a las disposiciones legales;
-
-X. Practicar funciones de supervisión para mantener actualizado el inventario general de los bienes muebles e inmuebles que constituyen el patrimonio del Municipio;
-
-XI. Solicitar a los servidores públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal;
-
-XII. Coordinar, dirigir y controlar las actividades de los órganos administrativos a su cargo; y,
-
-XIII. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
-
-###### Artículo 112.
-
-El Departamento de Auditorias Especiales tendrá las siguientes atribuciones:
-
-I. Supervisar que la Administración Municipal cumpla con las normas y disposiciones de la ley a través de auditorías especiales, por mandato o a solicitud de autoridades superiores;
-
-II. Inspeccionar el funcionamiento de los procedimientos de control de la administración, siendo competente para requerir a las dependencias y organismos, la instrumentación de medidas complementarias para el ejercicio de facultades que aseguren dicho control;
-
-III. Inspeccionar el cumplimiento de las normas de control y fiscalización administrativa interna, así como asesorar y apoyar a las dependencias en el cumplimiento y aplicación de dichas normas de control;
-
-IV. Coordinar revisiones, auditorias y peritajes por acuerdo del Presidente Municipal, por si, o a solicitud de las dependencias y de los organismos con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento;
-
-V. Supervisar que en la Administración Municipal se cumpla con las normas y disposiciones de la ley de presupuestos, contabilidad y gasto público en materia de sistemas de registro y contabilidad, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y desincorporación de bienes muebles e inmuebles;
-
-VI. Verificar que se cumplan las disposiciones de los contratos, acuerdos y convenios celebrados entre el H. Ayuntamiento y otras entidades de interés público o privado, de donde se derive y aplique la inversión de fondos públicos;
-
-VII. Evaluar los sistemas y procedimientos administrativos de control interno y los manuales técnicos y operativos que se requieran en las dependencias;
-
-VIII. Realizar el informe al Presidente y Síndico Municipal sobre el resultado de la evaluación de las dependencias y organismos que hayan sido objeto de verificación y vigilancia;
-
-IX. Inspeccionar la adquisición y enajenación de bienes muebles e inmuebles que lleve a cabo el Ayuntamiento y vigilar que dichas operaciones se ajusten a las disposiciones legales;
-
-X. Practicar funciones de supervisión para mantener actualizado el inventario general de los bienes muebles e inmuebles que constituyen el patrimonio del Municipio;
-
-XI. Solicitar a los servidores públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal;
-
-XII. Coordinar, dirigir y controlar las actividades de los órganos administrativos a su cargo; y,
-
-XIII. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
-
-###### Artículo 113.
-
-El Departamento de Supervisión de Obras y Programas tendrá las siguientes atribuciones:
-
-I. Verificar a través de la supervisión y auditorias técnico-administrativas, que las acciones en la obra pública se apeguen a las normas y reglamentos vigentes para este fin;
-
-II. Coordinar los sistemas de control y evaluación de la Administración Pública Municipal;
-
-III. Inspeccionar el funcionamiento de los procedimientos de control de la administración, siendo competente para requerir a las dependencias y organismos, la instrumentación de medidas complementarias para el ejercicio de facultades que aseguren dicho control;
-
-IV. Inspeccionar el cumplimiento de las normas de control y fiscalización administrativa interna, así como asesorar y apoyar a las dependencias en el cumplimiento y aplicación de dichas normas de control;
-
-V. Coordinar revisiones, auditorias y peritajes por acuerdo del Presidente Municipal, por si, o a solicitud de las dependencias y de los organismos con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento;
-
-VI. Supervisar que en la administración municipal se cumpla con las normas y disposiciones de la Ley de Presupuestos, Contabilidad y Gasto Público en materia de sistemas de registro y contabilidad, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y desincorporación de bienes muebles e inmuebles;
-
-VII. Vigilar que se cumplan las disposiciones de los contratos, acuerdos y convenios celebrados entre el Ayuntamiento y otras entidades de interés público o privado, de donde se derive y aplique la inversión de fondos públicos;
-
-VIII. Realizar el informe al Presidente y Síndico Municipal sobre el resultado de la evaluación de las dependencias y organismos que hayan sido objeto de verificación y vigilancia;
-
-IX. Inspeccionar que la Obra Pública Municipal se realice de acuerdo al presupuesto y programación, supervisándola directamente, sin demérito de la responsabilidad de la entidad encargada de la ejecución de dicha obra;
-
-X. Examinar la programación, promoción, documentación y la ejecución de las obras de programa de desarrollo social en coordinación con las instancias Municipales, Estatales y Federales competentes en la materia;
-
-XI. Solicitar a los servidores públicos, para que exhiban y en su caso, proporcionen información y documentación administrativa, financiera, operacional y declaraciones, a fin de comprobar el cumplimiento de las disposiciones legales competencia de la Contraloría Municipal;
-
-XII. Vigilar e inspeccionar la construcción de la obra pública, así como verificar la correcta integración de los expedientes técnicos de comprobación, de igual forma supervisar las acciones que se ejecutan con las diversas fuentes de financiamiento, apegados a lo que se establecen en los contratos respectivos;
-
-XIII. Coordinar, dirigir y controlar las actividades de los órganos administrativos a su cargo; y,
-
-XIV. Las demás que le señalen como de su competencia las leyes y reglamentos vigentes en el Estado.
-
-###### Artículo 114.
+###### Artículo 117.
 
 El Instituto de Protección al Medio Ambiente, es un órgano desconcentrado, encargado de planear, dirigir y controlar el programa de gestión ambiental municipal, siguiendo los lineamientos emanados del Plan Municipal de Desarrollo y de la normatividad vigente en el ramo; correspondiéndole las atribuciones siguientes:
 
-l. Proponer al Presidente Municipal la normatividad institucional en materia de investigación, manejo, educación ambiental, exhibición, difusión, preservación, restauración y conservación del equilibrio ecológico y protección al medio ambiente en el Municipio, con la participación a que corresponda a otras dependencias y entidades de la Administración Pública Federal y Estatal;
+I. Proponer al Presidente Municipal la normatividad institucional en materia de investigación, manejo, educación ambiental, exhibición, difusión, preservación, restauración y conservación del equilibrio ecológico y protección al medio ambiente en el Municipio, con la participación a que corresponda a otras dependencias y entidades de la Administración Pública Federal y Estatal;
 
 II. Promover estudios e investigación que conduzcan al conocimiento total de las características del Municipio, para implementar modelos adecuados sobre el manejo de recursos naturales y la planeación ambiental para el desarrollo sustentable en el Municipio;
 
@@ -2665,23 +2885,19 @@ XIII. Coordinar con las diferentes dependencias del H. Ayuntamiento la inclusió
 
 XIV. Coordinar la ejecución de las acciones derivadas de la celebración de acuerdos de coordinación y cooperación con las instituciones Federales, Estatales o Municipales, según sea el área de su competencia;
 
-XV. Las demás atribuciones derivadas de la Ley General del Equilibrio Ecológico y Protección al Ambiente, Ley General para la Prevención y Gestión Integral de los Residuos, los reglamentos en la materia y las que se le (sic) sean encomendadas por el Ejecutivo Municipal dentro del ámbito de su competencia;
+XV. Las demás atribuciones derivadas de la Ley General del Equilibrio Ecológico y Protección al Ambiente, Ley General para la Prevención y Gestión Integral de los Residuos, los reglamentos en la materia y las que se (sic) le sean encomendadas por el Ejecutivo Municipal dentro del ámbito de su competencia;
 
 XVI. Realizar la investigación y la recopilación continua de datos en materia de medio ambiente y ecología, con el fin de integrar un Banco de Información Municipal;
 
-XVII. Realizar estudios e investigaciones para detectar áreas recreativas o escénicas de valor ecológico, con el fin de proponer su declaración como áreas naturales protegidas; y,
+XVII. Realizar estudios e investigaciones para detectar áreas recreativas o escénicas de valor ecológico, con el fin de proponer su declaración como áreas naturales protegidas; y
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
-
-XVIII. Ordenar en el ámbito de su competencia y conforme la normatividad en la materia, inspecciones, suspensiones, clausuras, imponer sanciones y demás que le faculten las disposiciones en materia de protección ambiental; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2009)</small>
+XVIII. Ordenar en el ámbito de su competencia y conforme la normatividad en la materia, inspecciones, suspensiones, clausuras, imponer sanciones y demás que le faculten las disposiciones en materia de protección ambiental, y;
 
 XIX. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, este ordenamiento y otras disposiciones reglamentarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 115.
+###### Artículo 118.
 
 El Instituto de Protección al Medio Ambiente, para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrado por la siguiente estructura orgánica:
 
@@ -2689,27 +2905,25 @@ I. Departamento de Proyectos Ambientales;
 
 II. Departamento de Educación Ambiental;
 
-III. Departamento de Eventos Ambientales; y,
-
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
+III. Departamento de Eventos Ambientales; y (sic)
 
 IV. Departamento de Asuntos Jurídicos Ambientales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2009)</small>
-
 V. Departamento de Inspección y Vigilancia.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 115 Bis.
+###### Artículo 119.
 
 El Departamento de Inspección y Vigilancia, tendrá las siguientes atribuciones:
 
-I.- Aplicar conjuntamente con las demás áreas facultadas del Ayuntamiento, la normatividad y vigilar las disposiciones municipales con el objeto (sic) proteger la conservación del medio ambiente municipal, mediante la regularización de los derribos, desrame y poda de árboles, lotes baldíos incendiados, ubicados dentro de la jurisdicción que comprende este municipio, y la emisión de todo tipo de contaminantes perjudiciales al equilibrio ecológico o al ambiente, como ruido, quema, humo, malos olores y sustancias tóxicas, así como lo conferido por la legislación en la materia;
+I. Aplicar conjuntamente con las demás áreas facultadas del Ayuntamiento, la normatividad y vigilar las disposiciones municipales con el objeto (sic) proteger la conservación del medio ambiente municipal, mediante la regularización de los derribos, desrame y poda de árboles, lotes baldíos·incendiados, ubicados dentro de la jurisdicción que comprende este municipio, y la emisión de todo tipo de contaminantes perjudiciales al equilibrio ecológico o al ambiente, como ruido, quema, humo, malos olores y sustancias toxicas, así como lo conferido por la legislación en la materia;
 
-II.- Inspeccionar y vigilar conjuntamente con las demás áreas facultadas del Ayuntamiento para la atención de las denuncias de la ciudadanía; en lo que respecta en materia ambiental.
+II. Inspeccionar y vigilar conjuntamente con las demás áreas facultadas del Ayuntamiento para la atención de las denuncias de la ciudadanía; en lo que respecta en materia ambiental.
 
-###### Artículo 116.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 120.
 
 El Departamento de Proyectos Ambientales tendrá las siguientes atribuciones:
 
@@ -2725,15 +2939,13 @@ V. Planificar el sistema de información ambiental municipal en donde se registr
 
 VI. Coordinar la ejecución de las acciones derivadas de la celebración de acuerdos de coordinación y cooperación con las instituciones Federales, Estatales o Municipales, según sea el área de su competencia;
 
-VII. Gestionar con los Gobiernos Federal, Estatal y Municipal las acciones orientadas a prevenir, mitigar y restaurar el deterioro de los recursos naturales del Municipio, en el marco de la normatividad de su competencia; y,
+VII. Gestionar con los Gobiernos Federal, Estatal y Municipal las acciones orientadas a prevenir, mitigar y restaurar el deterioro de los recursos naturales del Municipio, en el marco de la normatividad de su competencia; y
 
 VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-## Título III. De los Organismos Desconcentrados
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-### Capítulo II. Instituto de la Juventud
-
-###### Artículo 117.
+###### Artículo 121.
 
 El Departamento de Educación Ambiental tendrá las siguientes atribuciones:
 
@@ -2749,15 +2961,17 @@ V. Coordinar con las diferentes dependencias del H. Ayuntamiento la inclusión d
 
 VI. Solicitar asesoría y servicios técnicos especializados a instituciones u organismos públicos, privados, nacionales e internacionales según las necesidades y competencias del Instituto;
 
-VII. Conservar el Centro de Educación Ambiental y la Reserva Ecológica Municipal Cerro Hueco; y,
+VII. Conservar el Centro de Educación Ambiental y la Reserva Ecológica Municipal Cerro Hueco; y
 
 VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-###### Artículo 118.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 122.
 
 El Departamento de Eventos Ambientales tendrá las siguientes atribuciones:
 
-l. Alcanzar la conciencia humana, para la sensibilización y la comprensión del deterioro ambiental, por medio de eventos ambientalistas;
+I. Alcanzar la conciencia humana, para la sensibilización y la comprensión del deterioro ambiental, por medio de eventos ambientalistas;
 
 II. Realizar las capacidades de gestión y participación de la sociedad, en los planes, proyectos y programas ambientales municipales;
 
@@ -2767,17 +2981,17 @@ IV. Coordinar la ejecución de las acciones derivadas de la celebración de acue
 
 V. Representar al Instituto de Protección al Medio Ambiente en el trámite y solución de los asuntos de su competencia;
 
-VI. Organizar el Consejo Ambiental Municipal con la representatividad de los distintos sectores sociales y empresariales; y,
+VI. Organizar el Consejo Ambiental Municipal con la representatividad de los distintos sectores sociales y empresariales; y
 
 VII. Las demás atribuciones derivadas de la Ley General del Equilibrio Ecológico y Protección al Ambiente, Ley General para la Prevención y Gestión Integral de los Residuos, los reglamentos en la materia y las que le sean encomendadas por el Director del Instituto de Protección al Medio Ambiente dentro del ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 119.
+###### Artículo 123.
 
-El Departamento de Estudios Jurídicos Ambientales, tendrá las siguientes atribuciones:
+El Departamento de Asuntos Jurídicos Ambientales, tendrá las siguientes atribuciones:
 
-l. Dirigir con estricto cumplimiento de las políticas, leyes, reglamentos, acuerdos y normas ambientales que regulen y protejan al medio ambiente en el Municipio;
+I. Dirigir con estricto cumplimiento de las políticas, leyes, reglamentos, acuerdos y normas ambientales que regulen y protejan al medio ambiente en el Municipio;
 
 II. Participar en coordinación con las autoridades Federales y Estatales en la atención de asuntos en materia ambiental dentro del ámbito municipal;
 
@@ -2789,15 +3003,21 @@ V. Participar de manera coordinada con las autoridades federales y estatales en 
 
 VI. Coordinar con la Secretaría de Obras Públicas y Desarrollo Urbano en la evaluación de las solicitudes relacionadas con el otorgamiento del uso del suelo;
 
-VII. Gestionar con los Gobiernos Federal, Estatal y Municipal las acciones orientadas a prevenir, mitigar y restaurar el deterioro de los recursos naturales del Municipio, en el marco de la normatividad de su competencia; y,
+VII. Gestionar con los Gobiernos Federal, Estatal y Municipal las acciones orientadas a prevenir, mitigar y restaurar el deterioro de los recursos naturales del Municipio, en el marco de la normatividad de su competencia; y
 
 VIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-###### Artículo 120.
+### Capítulo II. Instituto de la Juventud
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 124.
 
 El Instituto Municipal de la Juventud, es un órgano desconcentrado de la Administración Pública Municipal, siendo la instancia que tiene como responsabilidad única y prioritaria atender a las y los jóvenes en la realización de actividades en donde puedan expresarse, formarse y desarrollarse en plenitud, brindándoles la orientación necesaria para su realización y la promoción de éstas para lograr la participación de todos los jóvenes de Tuxtla Gutiérrez.
 
-###### Artículo 121.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 125.
 
 Son atribuciones del Instituto Municipal de la Juventud las siguientes:
 
@@ -2825,19 +3045,23 @@ XI. Procurar convenios con organismos no gubernamentales nacionales e internacio
 
 XII. Reconocer y estimular el esfuerzo, dedicación y trabajo de los jóvenes que viven en el Municipio, a través de certámenes y premios realizados de manera conjunta con otras instancias públicas, sociales y privadas;
 
-XIII. Impulsar la creación de estrategias de información, evaluación y comunicación de los programas de juventud, a fin de fomentar la capacitación de los jóvenes a partir de sus necesidades y las de su comunidad; y,
+XIII. Impulsar la creación de estrategias de información, evaluación y comunicación de los programas de juventud, a fin de fomentar la capacitación de los jóvenes a partir de sus necesidades y las de su comunidad; y
 
 XIV. Las demás que determinen las disposiciones jurídicas aplicables o le que (sic) delegue el Ejecutivo municipal dentro del ámbito de su competencia.
 
-###### Artículo 122.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 126.
 
 El Instituto de la Juventud para el desahogo de los asuntos de su competencia y el mejor desempeño de sus funciones estará integrado por la siguiente estructura orgánica:
 
-I. Departamento Académico; y,
+I. Departamento Académico; y
 
 II. Departamento de Vinculación Juvenil.
 
-###### Artículo 123.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 127.
 
 El Departamento Académico tendrá las siguientes atribuciones:
 
@@ -2849,7 +3073,7 @@ III. Formular y diseñar políticas públicas municipales para atender a mujeres
 
 IV. Desarrollar, asignar y supervisar que se realicen los programas específicos para los jóvenes con capacidades diferentes, que pertenezcan a grupos excluidos o abandonados por la sociedad; logrando de esta forma su participación activa en actividades donde se aproveche al máximo sus capacidades intelectuales;
 
-V. Diseñar, asignar y coordinar la realización de programas y proyectos relativos a: actividades de capacitación a estudiantes y profesionistas, servicio social, problemas de salud física y mental, planificación familiar, sexualidad, adicciones, educación, empleo, recreación, seguridad y justicia escuchando las propuestas de los jóvenes;
+V. Diseñar, asignar y coordinar la realización de programas y proyectos relativos a: actividades de capacitación a estudiantes y profesionistas, servicio social, problemas de salud física y mental, planificación familiar, sexualidad, adicciones, educación, empleo, recreación, seguridad y justicia, escuchando las propuestas de los jóvenes;
 
 VI. Formular e impulsar medidas preventivas de orientación y asesoramiento en el ejercicio responsable de la sexualidad, así como la participación de los jóvenes para el auto cuidado de la salud integral;
 
@@ -2857,13 +3081,13 @@ VII. Coordinar actividades diversas de atención y participación juvenil en col
 
 VIII. Diseñar, asignar y establecer programas para alentar a la juventud en la cultura de la no violencia hacia la humanidad en general, hacia las mujeres y principalmente hacia la integridad de sí mismo;
 
-IX. Coordinar el desarrollo de actividades que reconozcan y fomenten el esfuerzo, dedicación y trabajo de los jóvenes que viven en el municipio, a través de certámenes y premios realizados de manera conjunta con otras instancias públicas, sociales y privadas; y,
+IX. Coordinar el desarrollo de actividades que reconozcan y fomenten el esfuerzo, dedicación y trabajo de los jóvenes que viven en el municipio, a través de certámenes y premios realizados de manera conjunta con otras instancias públicas, sociales y privadas; y
 
 X. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Ejecutivo Municipal dentro del ámbito de su competencia.
 
-### Capítulo Único. Disposiciones Generales
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### Artículo 124.
+###### Artículo 128.
 
 El Departamento de Vinculación Juvenil tendrá las siguientes atribuciones:
 
@@ -2877,23 +3101,35 @@ IV. Desarrollar, asignar y supervisar programas y proyectos relativos a: activid
 
 V. Coordinar la promoción de una cultura del ejercicio responsable de la sexualidad por medio de medidas preventivas de orientación y asesoramiento; así como la participación de los jóvenes para el auto cuidado de la salud integral;
 
-VI. Coordinar actividades en el ámbito cultural, deportivo, turístico y ecológico en colaboración con las organizaciones políticas, sociales y religiosas, que conforman un bloque de participación en programas de juventud; y,
+VI. Coordinar actividades en el ámbito cultural, deportivo, turístico y ecológico en colaboración con las organizaciones políticas, sociales y religiosas, que conforman un bloque de participación en programas de juventud; y
 
 VII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el ejecutivo municipal dentro del ámbito de su competencia.
 
-###### Artículo 125.
+## Título IV. De la Administración Pública Municipal Descentralizada
+
+### Capítulo Único. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 129.
 
 Con el objeto de incrementar la capacidad de respuesta en la prestación de los servicios públicos ante las demandas sociales o los requerimientos del fomento de las actividades productivas, el Ayuntamiento se auxiliará de organismos descentralizados, mismos que se establecerán conforme a las bases que establezca la Ley Orgánica Municipal y las leyes respectivas.
 
-###### Artículo 126.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 130.
 
 La Administración Pública descentralizada estará formada por los organismos descentralizados de carácter municipal o empresas municipales con participación municipal o intermunicipal, que puede crear el Ayuntamiento mediante resolutivo del Cabildo, para la prestación de algún servicio público o para llevar a cabo los planes y programas municipales.
 
-###### Artículo 127.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 131.
 
 Son organismos descentralizados municipales, las personas morales cuya creación con ese carácter apruebe el Ayuntamiento.
 
-###### Artículo 128.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 132.
 
 Los organismos descentralizados municipales tendrán personalidad jurídica, patrimonio propio y gozaran de autonomía técnica, orgánica y de gestión. Deberán reunir, por lo menos, los siguientes requisitos:
 
@@ -2901,75 +3137,97 @@ I. Que su patrimonio se constituya total o parcialmente con bienes, aportaciones
 
 II. Que sus objetivos sean primordialmente la prestación de servicios públicos o de beneficio social y colectivo, la explotación de bienes o recursos propiedad del Municipio, la investigación o la asistencia social.
 
-## Título IV. De la Administración Pública Municipal Descentralizada
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-### Capítulo Único. Disposiciones Generales
-
-###### Artículo 129.
+###### Artículo 133.
 
 La administración de los organismos descentralizados estará a cargo de un órgano de gobierno designado por el Ayuntamiento en los términos del decreto de creación del mismo. La presidencia del órgano de gobierno estará a cargo del Presidente Municipal.
 
-###### Artículo 130.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 134.
 
 Los organismos descentralizados, deberán rendir informes trimestrales al Ayuntamiento, sobre el ejercicio de sus funciones. Lo anterior sin perjuicio de los informes que el Ayuntamiento, el órgano de control interno o el Presidente Municipal les soliciten en cualquier tiempo.
 
-###### Artículo 131.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 135.
 
 Son organismos descentralizados de la Administración Pública Municipal, los siguientes:
 
 I. Sistema Municipal para el Desarrollo Integral de la Familia DIF;
 
-II. Sistema Municipal de Agua Potable y Alcantarillado SMAPA; y,
+II. Sistema Municipal de Agua Potable y Alcantarillado SMAPA; y
 
 III. Las demás que se creen por ley o decreto del Congreso o por acuerdo del Ayuntamiento.
 
 En la extinción de los organismos, deberán observarse las mismas formalidades establecidas para su creación, debiendo la Ley o Decreto respectivo fijar la forma y términos de su extinción y liquidación.
 
-###### Artículo 132.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 136.
 
 Los organismos y empresas correspondientes, serán controlados y vigilados a través de las dependencias administrativas que designe el Presidente Municipal, así como por el Síndico y la Contraloría Municipal que tendrán en todo tiempo la facultad de solicitar la información y documentación que consideren necesarias para el desarrollo de tales fines.
 
-###### Artículo 133.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 137.
 
 Por su parte, los organismos de la Administración Pública Municipal descentralizada tienen la obligación de proporcionar la información y documentación requerida por los funcionarios de las dependencias aludidas, para todos los efectos que resulten procedentes.
 
-###### Artículo 134.
+## Título V. De la Administración Paramunicipal
+
+### Capítulo Único. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 138.
 
 De conformidad con lo establecido en la Ley Orgánica Municipal, el Ayuntamiento podrá crear previa autorización del Congreso del Estado, empresas de participación municipal o fideicomisos públicos, que se constituyan con recursos de la Administración Pública Municipal y se organicen de acuerdo a su normatividad interior, con el propósito de auxiliar al Ayuntamiento en la realización de actividades de interés público.
 
-###### Artículo 135.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 139.
 
 El Ayuntamiento aprobara la creación, modificación o extinción de las empresas de participación municipal, para lo cual emitirá el acuerdo respectivo.
 
 La participación municipal podrá ser mayoritaria y minoritaria, siendo la primera las que satisfagan alguno de los requisitos siguientes:
 
-I. Que el municipio, directamente o a través de otra empresa en cuyo capital tenga participación mayoritaria o de organismos descentralizados, aporte o sea propietario del 51 % o más del capital social o de las acciones de la empresa;
+l. Que el municipio, directamente o a través de otra empresa en cuyo capital tenga participación mayoritaria o de organismos descentralizados, aporte o sea propietario del 51 % o más del capital social o de las acciones de la empresa;
 
-II. Que en la constitución del capital de la empresa figuren acciones de serie especial, suscritas por el municipio; y,
+II. Que en la constitución del capital de la empresa figuren acciones de serie especial, suscritas por el municipio; y
 
 III. Que al municipio le corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, junta directiva u órgano equivalente.
 
 Son empresas de participación minoritaria las sociedades en las que el Municipio, uno o más organismos descentralizados y otra u otras empresas de participación municipal mayoritaria, conjunta o separadamente, poseen acciones o parte del capital social que representen menos del 51% y el 25% o más del mismo.
 
-###### Artículo 136.
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 140.
 
 El Ayuntamiento podrá aprobar y autorizar la creación de fideicomisos públicos que promuevan e impulsen el desarrollo del Municipio o el beneficio colectivo de sus habitantes.
 
 La Tesorería Municipal fungirá como fideicomitente único de la Administración Pública Municipal, en los fideicomisos que constituya el Ayuntamiento.
 
-###### Artículo 137.
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-Los organismos que constituyen la Administración Pública Municipal Paramunicipal, contaran con personalidad jurídica y patrimonio propio, gozaran de autonomía de gestión para el cabal cumplimiento de los objetivos y metas señalados en sus programas. Al efecto contaran con una Administración ágil y eficiente y se sujetarán a los sistemas de control establecidos.
+###### Artículo 141.
 
-## Título V. De la Administración Paramunicipal
+Los organismos que constituyen la Administración Pública Municipal Paramunicipal, contaran con personalidad jurídica y patrimonio propio, gozaran de autonomía de gestión para el cabal cumplimiento de los objetivos y metas señalados en sus programas. Al efecto contaran con una Administración ágil y eficiente y se sujetaran a los sistemas de control establecidos.
+
+## Título VI. Sanciones y Medios de Defensa
 
 ### Capítulo Único. De las Inconformidades, Recursos y Sanciones
 
-###### Artículo 138.
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 142.
 
 Las inconformidades que presenten los particulares contra los actos de la Administración Pública Municipal, serán tramitadas y resueltas en términos de la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
-###### Artículo 139.
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 143.
 
 Las sanciones en contra de los titulares de la Administración Pública Municipal por incumplimiento de las disposiciones contenidas en el presente Reglamento serán impuestas en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
@@ -3019,4 +3277,10 @@ Segundo.- Quedan derogadas todas aquellas disposiciones que se opongan al presen
 
 Tercero.- Para su debido conocimiento publíquese el presente Reglamento en la Gaceta Municipal, y remítase al Director del Periódico Oficial del Estado para su publicación.
 
-## Título VI. Sanciones y Medios de Defensa
+P.O. 13 DE OCTUBRE DE 2010.
+
+Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Quedan abrogadas todas aquellas disposiciones que se opongan al presente Acuerdo.
+
+Artículo Tercero.- Para su debido conocimiento publíquese el presente Acuerdo en la Gaceta Municipal, en los Estrados del Palacio Municipal y en cinco lugares de mayor afluencia vecinal de las Agencias Municipales.
