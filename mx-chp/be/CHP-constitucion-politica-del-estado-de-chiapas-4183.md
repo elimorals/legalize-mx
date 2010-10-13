@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2010-01-20"
+last_updated: "2010-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2010.
 
-Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
+Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
 TIBURCIO FERNANDEZ RUIZ, General de División del Ejército Nacional y Gobernador Constitucional del Estado Libre y Soberano de Chiapas, a sus habitantes hago saber:
 
@@ -53,7 +53,7 @@ P.O. 30 DE NOVIEMBRE DE 1926.
 
 ## TITULO SEGUNDO. DE LOS HABITANTES DEL ESTADO
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO I. DE LOS PODERES PÚBLICOS
 
@@ -73,17 +73,27 @@ III.- Manifestar, en el Municipio en que residan, la propiedad que tengan, y la 
 
 IV.- Cooperar al mantenimiento del orden y la paz pública.
 
-###### ARTICULO 4.
+###### Artículo 4°.
 
-Son vecinos del Estado los individuos que tengan seis meses de residencia en él y sus obligaciones son, además de las consignadas en el artículo anterior:
+Toda persona gozará de los derechos humanos reconocidos por el Estado Mexicano, los establecidos en la Constitución Política de los Estados Unidos Mexicanos y que la presente Constitución reitera.
 
-I.- Inscribirse en el padrón de su Municipio;
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 1951)</small>
+Las autoridades estatales y municipales, garantizaran el respeto y ejercicio de los derechos humanos de los migrantes, entre ellos el derecho de internación, derecho a la seguridad pública y a la procuración de justicia, derechos laborales, derechos a la salud, derecho a la identidad para los niños y niñas nacidos en Chiapas; en los términos y condiciones que establezcan las Leyes, Tratados y Convenios Internacionales ratificados y Vigentes en México.
 
-II.- Hacer que sus hijos o pupilos menores de quince años, así como las demás personas que de ellos dependan por razón de trabajo o cualquiera otra, concurran a las escuelas públicas o privadas para obtener la instrucción primaria elemental, conforme a la ley respectiva.
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1970)</small>
+Las niñas y niños de la Entidad, deben disponer de la libertad de crecer en un ambiente de salud, paz y dignidad. Tienen derecho a estar informados, a ser escuchados y disfrutar de una relación familiar, basada en el respeto a la dignidad y el valor de cada uno, independientemente de su raza, color, género, idioma, religión, opiniones, orígenes, riqueza, nacimiento o capacidad; así como, a la identidad, a la nacionalidad y a la plena participación en la vida familiar, cultural y social.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
+
+El Estado garantizará que los habitantes mayores de 64 años, reciban una aportación económica para complementar su manutención, en los términos y condiciones del acuerdo que para tal efecto emita el Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
+
+El Estado reconoce, protege y tutela, el derecho a la vida que todo ser humano tiene, desde el momento de la concepción, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, salvo las excepciones que establezca la legislación penal.
+
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
 ###### ARTICULO 5.
 
@@ -355,7 +365,7 @@ II.- Desempeñar los cargos de elección popular para los que hayan sido electos
 
 III.- Tomar las armas para la defensa de la Federación, del Estado y de sus Instituciones, conforme lo prevenga la Ley; y
 
-IV.- Desempeñar los cargos Consejiles del Municipio donde residan, las funciones electorales y las de jurado.
+IV.- Desempeñar los cargos Consejiles (sic) del Municipio donde residan, las funciones electorales y las de jurado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 09 DE NOVIEMBRE DE 2004)</small>
 
@@ -489,7 +499,7 @@ Los derechos de los indígenas que esta Constitución consagra deberán ser prot
 
 Los Poderes Públicos del Estado constituyen el gobierno del mismo y son: Legislativo, Ejecutivo y Judicial.
 
-No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo, salvo el caso de facultades extraordinarias que se concedan al Ejecutivo, conforme a lo dispuesto en la fracción VII del Articulo 29.
+No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo, salvo el caso de facultades extraordinarias que se concedan al Ejecutivo, conforme a lo dispuesto en la fracción VII del Artículo 29.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE NOVIEMBRE DE 2007)</small>
 
@@ -499,7 +509,7 @@ El Poder Legislativo del Estado de Chiapas, se deposita en una Asamblea de Repre
 
 Los Diputados, en su carácter de representantes del pueblo, tienen derecho de opinar, discutir, defender sus ideas y los intereses que representan y jamás serán reconvenidos por las opiniones que emitan o las tesis que sustenten, ni se podrán entorpecer en sus gestiones cuando éstas se ajusten a la Ley.
 
-Para su regimen interior el Congreso del Estado contará con un Órgano de Dirección Política y de Administración denominado Junta de Coordinación Política y una Mesa Directiva que será la responsable de la conducción de los trabajos Parlamentarios; en los términos dispuestos por esta Constitución, la Ley Orgánica y el Reglamento Interior, el que establecerá el Procedimiento Legislativo.
+Para su régimen interior el Congreso del Estado contará con un Órgano de Dirección Política y de Administración denominado Junta de Coordinación Política y una Mesa Directiva que será la responsable de la conducción de los trabajos Parlamentarios; en los términos dispuestos por esta Constitución, la Ley Orgánica y el Reglamento Interior, el que establecerá el Procedimiento Legislativo.
 
 La ley determinará las formas y procedimientos para la agrupación de Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el congreso.
 
@@ -507,7 +517,7 @@ La Junta de Coordinación Política será la expresión de pluralidad del Congre
 
 Será Presidente de la Junta, por la duración de la Legislatura el Coordinador de aquel grupo parlamentario que por sí mismo cuente con la mayoría absoluta en el Congreso.
 
-En el caso de que ningún grupo se encuentre en este supuesto la responsabilidad de presidir la Junta tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los coordinadores de los grupos, en orden decreciente del numero de legisladores que la integren.
+En el caso de que ningún grupo se encuentre en este supuesto la responsabilidad de presidir la Junta tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los coordinadores de los grupos, en orden decreciente del número de legisladores que la integren.
 
 La Mesa Directiva del Congreso garantizará que en los trabajos legislativos prevalezca lo dispuesto en la Constitución, la Ley y el Reglamento Interior; conducirán la (sic) Sesiones del Pleno y asegurará el desarrollo de los debates, discusiones y votaciones, así mismo, velará por el adecuado funcionamiento de las Comisiones.
 
@@ -519,15 +529,17 @@ El Diputado Presidente del Congreso velará por el respeto al Fuero Constitucion
 
 La Mesa Directiva será electa por mayoría calificada de las dos terceras partes de los diputados que integran el Congreso; la integrará un Presidente, dos Vice-Presidentes, dos Secretarios y dos Prosecretarios, quienes durarán en funciones seis meses, inclusive en los recesos del Congreso en la que, sin mayor trámite se convertirá en Comisión Permanente.
 
-El nombramiento del Presidente de la Mesa Directiva deberá de recaer sucesivamente entre los miembros de los tres Grupos Parlamentarios con mayor numero de diputados, en orden decreciente.
+El nombramiento del Presidente de la Mesa Directiva deberá de recaer sucesivamente entre los miembros de los tres Grupos Parlamentarios con mayor número de diputados, en orden decreciente.
 
 En ningún caso podrán fungir simultáneamente como Presidente de la Junta de Coordinación Política y de la Mesa Directiva dos diputados de la misma filiación partidista.
 
-El Congreso del Estado para su adecuado funcionamiento contará con las Secretarías de Servicios Administrativos y de Servicios Parlamentarios, un Instituto de Investigaciones Legislativas y las Direcciones de Asuntos Jurídicos y de Comunicación Social, así como con las unidades de apoyo que establezca su Ley Orgánica. Los nombramientos de sus titulares se harán por el pleno del Congreso con la aprobación de las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Política.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-El Instituto de Investigaciones Legislativas tendrá a su cargo el Secretariado Técnico de las diversas Comisiones del Congreso.
+El Congreso del Estado para su adecuado funcionamiento, contará con las áreas necesarias, mismas que estarán contempladas en la Ley Orgánica del Congreso del Estado.
 
-La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídicos y Comunicación Social dependerán de la Junta de Coordinación Política; la Secretaría de Servicios Parlamentarios y el Instituto de Investigaciones Legislativas dependerán de la Mesa Directiva y las Unidades de Apoyo que se creen guardarán la relación de dependencia que señale la Ley Orgánica.
+> <small>(DEROGADO DECIMOQUINTO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+> <small>(DEROGADO DECIMOSEXTO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2009)</small>
 
@@ -645,9 +657,9 @@ E) Los militares en servicio activo y quienes tengan mando de la Policía en el 
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO SEGUNDO. DE LA COMISION DE LOS DERECHOS HUMANOS
+### CAPITULO SEGUNDO. DE LAS COMISIONES DE LOS DERECHOS HUMANOS
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 20.
 
@@ -893,7 +905,7 @@ XLVIII.- Legislar en materia de plebiscito e iniciativa popular;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XLIX.- Expedir la Ley que regule el Organo de Fiscalización Superior del Congreso (sic) Estado;
+XLIX.- Expedir la Ley que regule el Órgano de Fiscalización Superior del Congreso (sic) Estado;
 
 L.- (DEROGADA, P.O. 17 DE AGOSTO DE 2003)
 
@@ -1427,29 +1439,55 @@ El Procurador General de Justicia del Estado, contará con una Contraloría Gene
 
 La Contraloría General de la Procuraduría General de Justicia del Estado, tendrá por objeto la fiscalización de los recursos financieros de los órganos que lo integran, así como la sustanciación y aplicación de sanciones administrativas de los funcionarios del mismo, con excepción del Procurador General de Justicia del Estado, los Fiscales de Distrito y el Fiscal Electoral, cuyas faltas serán denunciadas ante el Gobernador del Estado, para la substanciación del procedimiento correspondiente ante el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 48.
 
-La promoción y protección de los derechos humanos, estará a cargo de un organismo público, autónomo, con personalidad jurídica y patrimonio propio, al que se denominará Comisión de los Derechos Humanos; tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentará su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la entidad.
+La promoción y protección de los derechos humanos, estarán a cargo de organismos públicos autónomos, con personalidad jurídica y patrimonio propio, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del ámbito estatal y/o municipal, con excepción de los del Poder Judicial del Estado, que se presuma vulneren los derechos previstos en la ley.
 
-La Comisión de los Derechos Humanos conocerá de quejas en contra de actos u omisiones de naturaleza administrativa que provengan de autoridades o servidores públicos estatales y/o municipales que se presuman violen los derechos humanos establecidos en la ley, con excepción de los del Poder Judicial del Estado.
+Los organismos a que se refiere el párrafo anterior, formularán recomendaciones públicas no vinculatorias, así como denuncias y quejas ante las autoridades respectivas.
 
-La Comisión de los Derechos Humanos formulará recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+Estos organismos no serán competentes tratándose de asuntos electorales, laborales y jurisdiccionales.
 
-La Comisión de los Derechos Humanos no podrá intervenir, ni conocer de quejas, en asuntos electorales, laborales y jurisdiccionales.
+Los organismos establecidos en términos de este Capítulo, serán la Comisión de los Derechos Humanos y la Comisión para la Protección de los Derechos Humanos de los Migrantes.
 
-El Congreso del Estado asignará, anualmente, a la Comisión el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos.
+A. Comisión de los Derechos Humanos: la cual tendrá por objeto la defensa, promoción del respeto, estudio y divulgación de los derechos humanos establecidos en el orden jurídico mexicano y en instrumentos internacionales ratificados por el estado mexicano, fomentar su respeto y observancia, el fortalecimiento de la cultura de la legalidad y el respeto a la cultura, costumbres y tradiciones de las comunidades indígenas de la Entidad.
 
-La Comisión de los Derechos Humanos tendrá un Consejo General Consultivo integrado por diez Consejeros, que serán elegidos, a propuesta del Ejecutivo, por el voto de las dos terceras partes de los miembros presentes del Congreso, o en sus recesos, por la Comisión Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas.
+El Congreso del Estado asignará anualmente a la Comisión el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos.
+
+La Comisión de los Derechos Humanos tendrá un Consejo General Consultivo integrado por el Presidente de la Comisión, que lo será también del Consejo, y diez Consejeros, elegidos de entre la sociedad civil a propuesta del Ejecutivo Estatal, por el voto de las dos terceras partes de los miembros presentes del Congreso, o en sus recesos, por la Comisión Permanente con la misma votación calificada. La Ley determinará los procedimientos a seguir para la presentación de las propuestas.
 
 Anualmente serán sustituidos los dos Consejeros de mayor antigüedad en el cargo, salvo que fueren propuestos y ratificados para un segundo periodo.
 
-El Presidente de la Comisión de los Derechos Humanos, quien lo será también del Consejo Consultivo, será elegido por el voto de las dos terceras partes de los miembros presentes del Congreso, o en sus recesos por la Comisión Permanente, con la misma votación calificada, de la terna que al efecto le presente el Titular del Poder Ejecutivo.
+El Presidente de la Comisión de los Derechos Humanos, será elegido de una terna que al efecto presente el Ejecutivo del Estado ante el Congreso, por el voto de las dos terceras partes de los miembros presentes de éste, o en sus recesos por la Comisión Permanente, con la misma votación calificada.
 
 El Presidente de la Comisión de los Derechos Humanos durará en su cargo cuatro años, podrá ser reelecto por una sola vez y solo podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución.
 
-El Presidente de la Comisión de los Derechos Humanos presentará anualmente al Congreso del Estado un informe de actividades en los términos que establezca la ley.
+El Presidente de la Comisión de los Derechos Humanos presentará anualmente al Congreso del Estado un informe de actividades, en los términos que establezca la Ley.
+
+B. Comisión para la Protección de los Derechos Humanos de los Migrantes: que tendrá por objeto la promoción, protección y diseño de las políticas públicas de defensa de los derechos humanos de los migrantes y sus familias.
+
+El Congreso del Estado asignará, anualmente, a la Comisión el presupuesto necesario para cumplir con sus atribuciones, tomando en consideración las previsiones generales del presupuesto de egresos.
+
+La Comisión para la Protección de los Derechos Humanos de los Migrantes, tendrá un Consejo General Consultivo, integrado por el Presidente de la Comisión, que lo será también del Consejo, y los Consejeros que sean designados por el Presidente de la Comisión en términos de la ley, de entre los cuales deberán encontrarse, al menos, los siguientes:
+
+I. Un Consejero, propuesto al Presidente de la Comisión, por parte de los rectores de las universidades públicas del Estado de Chiapas.
+
+II. Un Consejero, propuesto al Presidente de la Comisión, por parte de los organismos o entidades especializados en protección a migrantes.
+
+III. Tendrán carácter de Consejeros Permanentes:
+
+1. Cada uno de los Cónsules acreditados en el Estado de Chiapas, previa aprobación de los países que representen, en términos de ley.
+
+2. Un representante de la Organización Internacional de Migrantes y otro del Alto
+
+Comisionado de las Naciones Unidas para los Refugiados, previa autorización de las respectivas agencias en el país.
+
+Los Consejeros a que se refieren las fracciones I y II del párrafo que antecede, serán sustituidos anualmente, salvo que fueren propuestos y ratificados para un segundo periodo.
+
+El Presidente de la Comisión para la Protección de los Derechos Humanos de los Migrantes, será elegido por el voto de las dos terceras partes de los miembros presentes del Congreso, o en sus recesos por la Comisión Permanente, con la misma votación calificada. Para los efectos de este párrafo, el Poder Legislativo emitirá la convocatoria respectiva, en la que se establecerán los requisitos para ocupar el cargo de Presidente de la Comisión.
+
+El Presidente de la Comisión durará en su cargo cuatro años, no podrá ser reelecto y únicamente será removido de sus funciones en los términos del Título Noveno de esta Constitución. Asimismo, presentará anualmente al Congreso del Estado un informe de actividades en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1881,7 +1919,7 @@ Cuando a juicio de un Ayuntamiento sea necesario, podrá celebrar convenios con 
 
 La Ley establecerá las normas generales para que el Gobierno del Estado asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes.
 
-Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la mas eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En todo caso y tratándose de la asociación de Municipios del Estado y uno o más de otras entidades federativas, deberán contar con la aprobación de las Legislaturas respectivas.
+Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En todo caso y tratándose de la asociación de Municipios del Estado y uno o más de otras entidades federativas, deberán contar con la aprobación de las Legislaturas respectivas.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios públicos señalados en esta fracción, los municipios observarán lo dispuesto por las Leyes Federales y Estatales.
 
@@ -2017,11 +2055,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-###### ARTICULO 71.
+###### Artículo 71.
 
-Podrán ser sujetos de juicio político: el Gobernador del Estado, los Diputados Locales, los Magistrados y los Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado, los Secretarios de Despacho, el Procurador General de Justicia del Estado, el Fiscal Electoral, los Fiscales de Distrito, el Presidente de la Comisión de Fiscalización Electoral, los Coordinadores Generales, los Presidentes Municipales, los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos y el Presidente de la Comisión de los Derechos Humanos.
+Podrán ser sujetos de juicio político: El Gobernador del Estado, los Diputados Locales, los Magistrados y los Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado, los Secretarios de Despacho, el Procurador General de Justicia del Estado, el Fiscal Electoral, los Fiscales de Distrito, el Presidente de la Comisión de Fiscalización Electoral, los Coordinadores Generales, los Presidentes Municipales, los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana, los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos, el Presidente de la Comisión de los Derechos Humanos y el Presidente de la Comisión para la Protección de los Derechos Humanos de los Migrantes.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -2097,7 +2135,7 @@ Las declaraciones y resoluciones del Congreso del Estado y del Tribunal Superior
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2007)</small>
 
-En todos los casos señalados en este titulo en que el inculpado sea Diputado al Congreso del Estado o Magistrado del Poder Judicial, este desde luego, será inhabilitado para intervenir en la votación correspondiente.
+En todos los casos señalados en este título en que el inculpado sea Diputado al Congreso del Estado o Magistrado del Poder Judicial, este desde luego, será inhabilitado para intervenir en la votación correspondiente.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -2561,23 +2599,9 @@ Artículo Unico.- Las presentes reformas entrarán en vigor desde la fecha de su
 
 P.O. 19 DE NOVIEMBRE DE 1952.
 
-###### ARTICULO 4º.
+###### ARTICULO 4o.
 
-Toda persona gozará de las garantías individuales y sociales que otorga la Constitución Política de los Estados Unidos Mexicanos y que la presente Constitución reitera; garantías que no podrán restringirse o suspenderse, sino en los casos y las condiciones que la primera de dichas Constituciones establece.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
-
-Las niñas y niños de la Entidad, deben disponer de la libertad de crecer en un ambiente de salud, paz y dignidad. Tienen derecho a estar informados, a ser escuchados y disfrutar de una relación familiar, basada en el respeto a la dignidad y el valor de cada uno, independientemente de su raza, color, género, idioma, religión, opiniones, orígenes, riqueza, nacimiento o capacidad; así como, a la identidad, a la nacionalidad y a la plena participación en la vida familiar, cultural y social.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
-
-El Estado garantizará que los habitantes mayores de 64 años, reciban una aportación económica para complementar su manutención, en los términos y condiciones del acuerdo que para tal efecto emita el Ejecutivo.
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2010)</small>
-
-El Estado reconoce, protege y tutela, el derecho a la vida que todo ser humano tiene, desde el momento de la concepción, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural, salvo las excepciones que establezca la legislación penal.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
+Quedan derogadas todas las leyes y disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO 5º.
 
@@ -3371,7 +3395,7 @@ Segundo.- Como excepción a lo dispuesto por los artículos 16 y 61, de la Const
 
 a) La elección para Diputados al Congreso del Estado que integrarán la Sexagésima Cuarta Legislatura, se celebrará el primer domingo de octubre del año dos mil diez; tomarán protesta el día dieciséis de noviembre del año de la elección y cesarán en sus funciones el día treinta de septiembre del año dos mil doce.
 
-b) Los integrantes de los Ayuntamientos serán electos el primer domingo de octubre del año dos mil diez; tomarán la protesta respectiva el dia primero de enero del año dos mil once y cesarán en sus funciones el treinta de septiembre del año dos mil doce.
+b) Los integrantes de los Ayuntamientos serán electos el primer domingo de octubre del año dos mil diez; tomarán la protesta respectiva el día primero de enero del año dos mil once y cesarán en sus funciones el treinta de septiembre del año dos mil doce.
 
 Tercero.- Se extingue el Instituto Estatal Electoral bajo las consideraciones de los artículos contenidos en el presente decreto. Los recursos humanos, materiales y financieros que actualmente lo conforman, se transferirán en lo que proceda al Instituto de Elecciones y Participación Ciudadana a partir del día primero de enero de dos mil ocho.
 
@@ -3540,3 +3564,43 @@ P.O. 20 DE ENERO DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que se oponga al presente Decreto.
+
+P.O. 13 DE OCTUBRE DE 2010.
+
+DECRETO NÚMERO 366, QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO QUINTO (SIC); EL ARTÍCULO 48; EL PÁRRAFO PRIMERO DEL ARTÍCULO 71, EL PÁRRAFO PRIMERO Y SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La designación del Presidente de la Comisión para la Protección de los Derechos Humanos de los Migrantes, no deberá exceder de quince días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- La Comisión para la Protección de los Derechos Humanos de los Migrantes, deberá constituirse en un término no mayor a treinta días, contados a partir de que surtan sus efectos la aprobación y designación del Presidente de la Comisión y de quiénes integrarán el Consejo Consultivo de la misma, conforme a lo señalado en el presente Decreto.
+
+Artículo Cuarto.- Las quejas, procedimientos, recursos y, en general los asuntos que sean materia de los derechos humanos de los migrantes y sus familias, y que al momento de la constitución de la Comisión para la Protección de los Derechos Humanos de los Migrantes se encuentren en trámite ante la Comisión de los Derechos Humanos, deberán ser remitidos en un plazo no mayor a quince días a aquélla, para que sea este nuevo organismo quien continúe los procedimientos respectivos hasta su conclusión.
+
+Para los efectos de la substanciación de los asuntos remitidos a la Comisión para la Protección de los Derechos Humanos de los Migrantes, éstos se ajustarán a las disposiciones establecidas en la Ley y Reglamento de la Comisión de los Derechos Humanos, en tanto se expiden los ordenamientos orgánicos y normativos de esa propia Comisión.
+
+Artículo Quinto.- Una vez aprobado y designado quien habrá de ocupar el cargo de Presidente de la Comisión para la Protección de los Derechos Humanos de los Migrantes, el Titular del Poder Ejecutivo del Estado enviará al Congreso del Estado o a la Comisión Permanente en su caso, la Iniciativa de Ley Orgánica del nuevo organismo constituido, proveyendo lo necesario para adecuar los ordenamientos legales de la Comisión Estatal de los Derechos Humanos.
+
+Artículo Sexto.- La Comisión para la Protección de los Derechos Humanos de los Migrantes, expedirá su Reglamento respectivo, en un término no mayor a noventa días, contados a partir de la constitución del propio organismo.
+
+Artículo Séptimo.- Las instancias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo las acciones que sean necesarias (sic) dar cumplimiento a lo establecido en el presente Decreto.
+
+Artículo Octavo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 13 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 367, POR EL QUE SE REFORMA EL PARRAFO DECIMOCUARTO Y SE DEROGAN LOS PARRAFOS DECIMOQUINTO Y DECIMOSEXTO DEL ARTICULO 15 Y SE ADICIONA UN ARTICULO TRANSITORIO A LA CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Para la LXIV Legislatura que inicia el día 16 de noviembre del año 2010 y concluye el 30 de septiembre del año 2012, por única ocasión la Presidencia de la Junta de Coordinación Política y la Mesa Directiva del Congreso del Estado se regirán conforme a lo siguiente:
+
+a) La responsabilidad de presidir la Junta de Coordinación Política, tendrá una duración de siete meses y quince días. Esta encomienda se desempeñara sucesivamente por los coordinadores de los grupos parlamentarios, en orden decreciente del número de Legisladores que la integren.
+
+b) La Mesa Directiva será electa por mayoría calificada de las dos terceras partes de los diputados que integran el congreso; la integrará un presidente, dos vice-presidentes, dos secretarios y dos prosecretarios, quienes duraran en funciones siete meses y quince días, inclusive en los recesos del congreso en la que, sin mayor trámite se convertirá en comisión permanente.
+
+El nombramiento del Presidente de la Mesa Directiva deberá de recaer sucesivamente entre los miembros de los tres grupos parlamentarios con mayor número de Diputados, en orden decreciente.
+
+c) En ningún caso podrán fungir simultáneamente como Presidente de la Junta de Coordinación Política y de la Mesa Directiva, dos Diputados de la misma filiación partidista.
+
+Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
