@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2010-05-05"
+last_updated: "2010-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -71,9 +71,11 @@ Si la ley, reglamento, circular o disposición de observancia general, fija el d
 
 A ninguna ley ni disposición gubernativa se dará efecto retroactivo en perjuicio de persona alguna.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 6o.
 
-La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Solo pueden renunciarse los derechos privados que no afecten directamente al interés público, cuando la renuncia no perjudique derechos de tercero.
+La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Solo pueden renunciarse los derechos privados que no afecten al interés público, cuando la renuncia no perjudique derechos de tercero.
 
 ###### Artículo 7o.
 
@@ -103,9 +105,11 @@ Las leyes del Estado de Nayarit, incluyendo las que se refieran al estado y capa
 
 Los efectos jurídicos de actos y contratos celebrados fuera del Estado que deban ser ejecutados dentro de su territorio, se regirán por las disposiciones de este Código.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 14.
 
-Los bienes inmuebles sitos en el Estado y los bienes muebles que en él se encuentren, se regirán por las disposiciones de este Código.
+Los bienes inmuebles ubicados en el Estado y los bienes muebles que en él se encuentren, se regirán por las disposiciones de este Código.
 
 ###### Artículo 15.
 
@@ -319,7 +323,7 @@ Las personas morales tienen su domicilio en el lugar donde se halle establecida 
 
 Las que tengan su administración fuera del Estado de Nayarit, pero que ejecuten actos jurídicos dentro de su circunscripción, se considerarán domiciliadas en el lugar donde los hayan ejecutado, en todo a lo que esos actos se refiera.
 
-Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraidas por las mismas sucursales.
+Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
 
 ###### Artículo 34.
 
@@ -349,7 +353,7 @@ La titularidad de las Oficialías del Registro Civil estará a cargo de los func
 
 > <small>(ADICIONADO, P.O. 1º. DE SEPTIEMBRE DE 1990)</small>
 
-Las actas de Registro Civil se asentarán en formatos especiales cuya estructura y contenido estarán determinados por las disposiciones legales relativas. El asentamiento de una acta en un formato no autorizado producirá su nulidad. Las inscripciones se harán mecanográficamente y por quintuplicado, asignando la clave CURP.
+Las actas de Registro Civil se asentarán en formatos especiales cuya estructura y contenido estarán determinados por las disposiciones legales relativas. El asentamiento de un acta en un formato no autorizado producirá su nulidad. Las inscripciones se harán mecanográficamente y por quintuplicado, asignando la clave CURP.
 
 > <small>(ADICIONADO, P.O. 1º. DE SEPTIEMBRE DE 1990)</small>
 
@@ -371,7 +375,7 @@ Para asentar las actas a que se refiere el Artículo anterior habrá los siguien
 
 ###### Artículo 38.
 
-Los formatos serán expedidos por la Dirección Estatal del Registro Civil, los Oficiales remitirán: un ejemplar de los mismos al Archivos Central, otro a la Dirección General del Registro Nacional de Población de la Secretaria de Gobernación, otro se entregará al interesado, otro a la Secretaría de Programación y Presupuesto y el otro quedará en el Archivo de la Oficialía. Las actas correspondientes al Archivo Central y a la Oficialía se integrarán en libros de acuerdo a su contenido, con el número de ejemplares que determine el Reglamento.
+Los formatos serán expedidos por la Dirección Estatal del Registro Civil, los Oficiales remitirán: un ejemplar de los mismos al Archivos Central, otro a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación, otro se entregará al interesado, otro a la Secretaría de Programación y Presupuesto y el otro quedará en el Archivo de la Oficialía. Las actas correspondientes al Archivo Central y a la Oficialía se integrarán en libros de acuerdo a su contenido, con el número de ejemplares que determine el Reglamento.
 
 ###### Artículo 39.
 
@@ -517,7 +521,7 @@ Además de los nombres de los padres se hará constar en el acta de nacimiento s
 
 ###### Artículo 61.
 
-Si el padre o la madre no pudieren ocurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro Civil, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre, todo lo cuál se asentará en el acta.
+Si el padre o la madre no pudieren ocurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro Civil, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre, todo lo cual se asentará en el acta.
 
 ###### Artículo 62.
 
@@ -1745,7 +1749,9 @@ Son causas de divorcio:
 
 I.- El adulterio debidamente probado de uno de los cónyuges;
 
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato, y que judicialmente sea declarado ilegítimo;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+II.- El hecho que durante el matrimonio nazca un hijo concebido, antes de la celebración de éste con persona distinta a su cónyuge, siempre y cuando no se hubiere tenido conocimiento de esta circunstancia;
 
 III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
 
@@ -1785,13 +1791,15 @@ XVIII.- La separación de los cónyuges por más de dos años, independiente del
 
 XIX.- Las conductas de violencia familiar en los términos a que se refiere este Código, cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 261.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio.
 
 ###### Artículo 262.
 
-Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
+(DEROGADO, P.O. 13 DE OCTUBRE DE 2010)
 
 ###### Artículo 263.
 
@@ -1929,13 +1937,15 @@ III.- Durante el matrimonio el demandante no haya adquirido bienes propios o hab
 
 El Juez de lo Familiar en la sentencia de divorcio, habrá de resolver atendiendo las circunstancias especiales de cada caso.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 282.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
+El cónyuge que haya dado causa al divorcio necesario no podrá volver a casarse sino después de dos años, a contar desde que se decretó el divorcio.
 
-El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que se decretó el divorcio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Para que los cónyuges, que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+Tratándose de divorcio voluntario, los cónyuges podrán contraer nuevo matrimonio una vez que la sentencia cause ejecutoria.
 
 ###### Artículo 283.
 
@@ -2739,7 +2749,7 @@ Para los efectos de la fracción II del artículo anterior, se considera ingrato
 
 I. Si comete algún delito intencional contra la persona, la honra o los bienes del adoptado o el adoptante, de su cónyuge, de sus ascendientes o descendientes;
 
-II. Si formula denuncia o querella en contra del adoptado o el adoptante, por algún delito aunque se pruebe, ha no ser que se hubiere cometido contra quien denuncia, su cónyuge, sus ascendientes o descendientes;
+II. Si formula denuncia o querella en contra del adoptado o el adoptante, por algún delito aunque se pruebe, ha (sic) no ser que se hubiere cometido contra quien denuncia, su cónyuge, sus ascendientes o descendientes;
 
 III. Si el adoptado rehúsa dar alimentos al adoptante que ha caído en pobreza.
 
@@ -2975,7 +2985,7 @@ Cuando por la ley o por la voluntad del padre, el hijo tenga la administración 
 
 Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles y los muebles preciosos que correspondan al hijo sino por causa de absoluta necesidad o de evidente beneficio y previa la autorización del juez competente.
 
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por mas de dos años, vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos, ni dar fianza en representación de los hijos.
+Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años, vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos, ni dar fianza en representación de los hijos.
 
 ###### Artículo 429.
 
@@ -3039,9 +3049,13 @@ III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o a
 
 IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque los dejen abandonados por más de seis meses o porque acepten ante el Juez Familiar entregarlos al sistema para el Desarrollo Integral de la Familia del Estado de Nayarit o a una institución de asistencia privada legalmente autorizada para ello, para que sean dados en adopción, conforme al procedimiento fijado por el Código de Procedimientos Civiles;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2010)</small>
 
-V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor.
+V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor, y
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+VI.- Cuando el que ejerce la patria potestad, no habite o se separe del hogar y deje de ministrar alimentos sin causa justificada por más de 90 días.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -3671,7 +3685,7 @@ Los incapacitados indigentes que no puedan ser alimentados y educados por los me
 
 ###### Artículo 537.
 
-El tutor de los incapacitados a que se refiere la fracción II del artículo 528, esta obligado a presentar al Juez de Primera Instancia, en el mes de enero de cada año, un certificado de dos médicos que declaren acerca del estado del individuo sujeto a interdicción, a quien para este efecto reconocerán en presencia del curador. El Juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+El tutor de los incapacitados a que se refiere la fracción II del artículo 528, está obligado a presentar al Juez de Primera Instancia, en el mes de enero de cada año, un certificado de dos médicos que declaren acerca del estado del individuo sujeto a interdicción, a quien para este efecto reconocerán en presencia del curador. El Juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
 
 ###### Artículo 538.
 
@@ -3947,7 +3961,9 @@ II.- Cuando el incapacitado sujeto a tutela entre a la patria potestad, por reco
 
 ### CAPITULO XV
 
-De los Consejos locales de Tutela.
+De los Consejos Municipales de Tutelas.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 598.
 
@@ -4063,6 +4079,8 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 Si hiciere algunos gastos en el desempeño de su cargo se le pagarán.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ### CAPITULO I
 
 De la emancipación.
@@ -4071,15 +4089,17 @@ De la emancipación.
 
 ###### Artículo 622.
 
-En cada municipalidad habrá un Consejo Local de Tutelas, compuesto de un Presidente y de dos Vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por los respectivos ayuntamientos en la primera sesión que celebren en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+En cada municipio habrá un Consejo de Tutelas, compuesto de un Presidente y de dos Vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por los respectivos ayuntamientos en la primera sesión que celebren en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
 
-Los miembros del Consejo no cesarán en sus funciones aún cuando haya transcurrido el término para el que fueron nombrados, hasta que tomen posesión las personas que hayan sido designadas para el siguiente período.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 623.
 
-El Consejo Local de Tutelas es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignan varios de los artículos que preceden, tiene las obligaciones siguientes:
+El Consejo Municipal de Tutelas es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignan varios de los artículos que preceden, tiene las obligaciones siguientes:
 
-I.- Formar y remitir a los Jueces de Primera Instancia del Ramo Civil y Mixtos de Primera Instancia una lista de las personas de la localidad que por su aptitud legal y moral, puedan desempeñar, la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al Juez.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+I.- Formar y remitir a los Jueces de Primera Instancia del Ramo Civil y Mixtos de Primera Instancia una lista de las personas del municipio que por su aptitud legal y moral, puedan desempeñar, la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al Juez.
 
 II.- Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores; dando aviso al Juez de Primera Instancia, de las faltas u omisiones que notare.
 
@@ -4295,7 +4315,7 @@ En caso de que el ausente haya dejado o nombrado apoderado general para la admin
 
 ###### Artículo 659.
 
-Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por mas de tres años.
+Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por más de tres años.
 
 ###### Artículo 660.
 
@@ -4767,7 +4787,7 @@ VI.- Las máquinas, vasos, instrumentos o utensilios destinados por el propietar
 
 VII.- Los abonos destinados al cultivo de una heredad, que estén en las tierras donde hayan de utilizarse, y las semillas necesarias para el cultivo de la finca;
 
-VIII.- Los aparatos eléctricos y accesorios adheridos al suelo o a los edificios por el dueño de ésto, salvo convenio en contrario;
+VIII.- Los aparatos eléctricos y accesorios adheridos al suelo o a los edificios por el dueño de éstos, salvo convenio en contrario;
 
 IX.- Los manantiales, estanques, aljibes y corrientes de agua, así como los acueductos y las cañerías de cualquiera especie que sirvan para conducir los líquidos o gases a una finca o para extraerlos de ella;
 
@@ -4857,17 +4877,21 @@ Los bienes de dominio del poder público se regirán por las disposiciones de es
 
 Los bienes de dominio del poder público se dividen en bienes de uso común, bienes destinados a un servicio público y bienes propios.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 756.
 
-Los bienes de uso común son inalienables e imprescriptibles. Pueden aprovecharse de ellos todos los habitantes, con las restricciones establecidas por la Ley, pero para aprovechamientos especiales se necesita concesión otorgado con los requisitos que prevengan las Leyes respectivas.
+Los bienes de uso común son inalienables, imprescriptibles e inembargables. Pueden aprovecharse de ellos todos los habitantes, con las restricciones establecidas por la ley, pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que prevengan las Leyes respectivas.
 
 ###### Artículo 757.
 
 Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos a las penas correspondientes, a pagar los daños y perjuicios causados y a la pérdida de las obras que hubieren ejecutado.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 758.
 
-Los bienes destinados a un servicio público y los bienes propios, pertenecen en pleno dominio a la Federación, a los Estados o a los Municipios, pero los primeros son inalienables e imprescriptibles, mientras no se les desafecte del servicio público a que se hallen destinados.
+Los bienes destinados a un servicio público y los bienes propios, pertenecen en pleno dominio a la Federación, al Estado o a los Municipios, pero los primeros son inalienables, imprescriptibles e inembargables, mientras no se les desafecte del servicio público a que se hallen destinados.
 
 ###### Artículo 759.
 
@@ -5445,7 +5469,7 @@ Todas las obras, siembras y plantaciones, así como las mejoras y reparaciones e
 
 ###### Artículo 882.
 
-El que siembre, plante o edifique en finca propia, con semillas, plantas o materiales ajeno, adquiere la propiedad de unas y otros, pero con la obligación de pagarlos en todo caso y de resarcir daños y perjuicios si ha procedido de mala fe.
+El que siembre, plante o edifique en finca propia, con semillas, plantas o materiales ajenos, adquiere la propiedad de unas y otros, pero con la obligación de pagarlos en todo caso y de resarcir daños y perjuicios si ha procedido de mala fe.
 
 ###### Artículo 883.
 
@@ -5693,7 +5717,7 @@ I.- En las paredes divisorias de los edificios contiguos, hasta el punto común 
 
 II.- En las paredes divisorias de los jardines o corrales situadas en poblado o en el campo;
 
-III.- En las cercas, vallados y setos vivos que dividan los predios rústicos. Si las construcciones no tiene una misma altura, solo hay presunción de copropiedad hasta la altura de la construcción menos elevada.
+III.- En las cercas, vallados y setos vivos que dividan los predios rústicos. Si las construcciones no tienen una misma altura, solo hay presunción de copropiedad hasta la altura de la construcción menos elevada.
 
 ###### Artículo 938.
 
@@ -6581,7 +6605,7 @@ Pueden adquirir por prescripción positiva todos los que son capaces de adquirir
 
 ###### Artículo 1123.
 
-Para los efectos de los artículos 814 y 815 se dice legalmente cambiada la causa de la posesión, cuando el poseedor que no poseía a título de dueño comienza a poseer con este carácter. y en tal caso la prescripción no corre sino desde el día en que se haya cambiado la causa de la posesión.
+Para los efectos de los artículos 814 y 815 se dice legalmente cambiada la causa de la posesión, cuando el poseedor que no poseía a título de dueño comienza a poseer con este carácter, y en tal caso la prescripción no corre sino desde el día en que se haya cambiado la causa de la posesión.
 
 ###### Artículo 1124.
 
@@ -7661,7 +7685,7 @@ Se tendrá por cumplida la condición, cuando el obligado impidiere voluntariame
 
 ###### Artículo 1319.
 
-La obligación contraida bajo la condición de que un acontecimiento suceda en un tiempo fijo, caduca si pasa el término sin realizarse, o desde que sea indudable que la condición no puede cumplirse.
+La obligación contraída bajo la condición de que un acontecimiento suceda en un tiempo fijo, caduca si pasa el término sin realizarse, o desde que sea indudable que la condición no puede cumplirse.
 
 ###### Artículo 1320.
 
@@ -8639,7 +8663,7 @@ I.- Si así se hubiere convenido;
 
 II.- En el caso del artículo 1496;
 
-III.- Si conociendo el que adquiere el derecho del que entabla la evicción la hubiere ocultado dolosamente al que enejena;
+III.- Si conociendo el que adquiere el derecho del que entabla la evicción la hubiere ocultado dolosamente al que enajena;
 
 IV.- Si la evicción procede de una causa posterior el acto de enajenación, no imputable al que enajena, o de hecho del que adquiere, ya sea anterior o posterior al mismo acto;
 
@@ -8939,7 +8963,7 @@ Si la cesión se realizare sin consentimiento del deudor, podrá éste oponer la
 
 ###### Artículo 1577.
 
-Las deudas pagaderas en diferentes lugar, pueden compensarse mediante indemnización de los gastos de transporte o cambio al lugar del pago.
+Las deudas pagaderas en diferente lugar, pueden compensarse mediante indemnización de los gastos de transporte o cambio al lugar del pago.
 
 ###### Artículo 1578.
 
@@ -8999,7 +9023,7 @@ La novación nunca se presume, debe constar expresamente.
 
 ###### Artículo 1589.
 
-Aun cuando la obligación anterior esté subordinada a una condición suspensiva, solamente quedará la novación dependiente del cumplimiento de aquélla, si así se hubiere extipulado.
+Aun cuando la obligación anterior esté subordinada a una condición suspensiva, solamente quedará la novación dependiente del cumplimiento de aquélla, si así se hubiere estipulado.
 
 ###### Artículo 1590.
 
@@ -9247,7 +9271,7 @@ El contrato quedará revalidado si antes de que tenga lugar la evicción adquier
 
 ###### Artículo 1645.
 
-La venta de cosa o derechos litigosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando, además, sujeto a las penas respectivas.
+La venta de cosa o derechos litigosos (sic) no está prohibida; pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando, además, sujeto a las penas respectivas.
 
 ###### Artículo 1646.
 
@@ -9577,7 +9601,7 @@ De la renovación y reducción de las donaciones.
 
 ###### Artículo 1704.
 
-Donación es un contrato por el que una persona transfiere o otra, gratuitamente, una parte o la totalidad de sus bienes presentes.
+Donación es un contrato por el que una persona transfiere a otra, gratuitamente, una parte o la totalidad de sus bienes presentes.
 
 ###### Artículo 1705.
 
@@ -9897,7 +9921,7 @@ De los derechos y obligaciones del arrendatario.
 
 Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente, una, a conceder el uso o goce temporal de una cosa, y la otra, a pagar por ese uso o goce un precio cierto.
 
-El arrendamiento no puede exceder de diez años para los fincas destinadas a habitación, de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de una industria.
+El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación, de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de una industria.
 
 ###### Artículo 1771.
 
@@ -9983,7 +10007,7 @@ El arrendatario está obligado a poner en conocimiento del arrendador, a la brev
 
 ###### Artículo 1788.
 
-Si el arrendador no cumpliere con hacer la reparaciones y mejoras necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el contrato y cobrar daños y perjuicios o pedir autorización judicial; en vía sumaria, para ejecutar aquellas obras a cuenta de rentas.
+Si el arrendador no cumpliere con hacer la (sic) reparaciones y mejoras necesarias para el uso a que esté destinada la cosa, quedará a elección del arrendatario rescindir el contrato y cobrar daños y perjuicios o pedir autorización judicial; en vía sumaria, para ejecutar aquellas obras a cuenta de rentas.
 
 ###### Artículo 1789.
 
@@ -10545,7 +10569,7 @@ Si la cosa ha sido estimada al prestarla, su pérdida, aun cuando sobrevenga por
 
 ###### Artículo 1879.
 
-Si la cosa se deteriora por el solo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
+Si la cosa se deteriora por el solo efecto del uso para que fué prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
 
 ###### Artículo 1880.
 
@@ -10795,7 +10819,7 @@ Los Notarios insertarán este artículo en los testimonios de los poderes que ot
 
 ###### Artículo 1927.
 
-El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos ratificadas las firmas del otorgane y testigos ante notario, ante los Jueces o Autoridades Administrativas correspondientes:
+El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos ratificadas las firmas del otorgante y testigos ante notario, ante los Jueces o Autoridades Administrativas correspondientes:
 
 I.- Cuando sea general;
 
@@ -10885,7 +10909,7 @@ Lo dispuesto en el artículo anterior se observará aún cuando lo que el mandat
 
 ###### Artículo 1944.
 
-El mandatario debe pagar los intereses de las sumas que pertenezcan al mandante y que haya distrido de su objeto e invertido en provecho propio desde la fecha de inversión, así como los de las cantidades en que resulte alcanzado, desde la fecha en que se constituyó en mora.
+El mandatario debe pagar los intereses de las sumas que pertenezcan al mandante y que haya distraído de su objeto e invertido en provecho propio desde la fecha de inversión, así como los de las cantidades en que resulte alcanzado, desde la fecha en que se constituyó en mora.
 
 ###### Artículo 1945.
 
@@ -11167,11 +11191,11 @@ Si no hay plano, diseño o presupuesto para la ejecución de la obra y surgen di
 
 ###### Artículo 1991.
 
-El perito que forme el plano, diseño o presupuesto de una obra y la ejecute, no puede cobrar el plano, diseño o presupuesto fuera del honorario de la obra, más si ésta no se ha ejecutado por causa del dueño, podrá cobrarlo, a no ser que al encargáselo, se haya pactado que el dueño no lo pagó si no le conviniere aceptarlo.
+El perito que forme el plano, diseño o presupuesto de una obra y la ejecute, no puede cobrar el plano, diseño o presupuesto fuera del honorario de la obra, más si ésta no se ha ejecutado por causa del dueño, podrá cobrarlo, a no ser que al encargárselo, se haya pactado que el dueño no lo pagó si no le conviniere aceptarlo.
 
 ###### Artículo 1992.
 
-Cuando se haya invitado a varios peritos para hacer planos, diseños o presupuestos, con el objeto escoger entre ellos el que parezca mejor, y los peritos han tenido conocimiento de esta circunstancias, ninguno puede cobrar honorarios, salvo convenio expreso.
+Cuando se haya invitado a varios peritos para hacer planos, diseños o presupuestos, con el objeto de escoger entre ellos el que parezca mejor, y los peritos han tenido conocimiento de esta circunstancia, ninguno puede cobrar honorarios, salvo convenio expreso.
 
 ###### Artículo 1993.
 
@@ -11385,7 +11409,7 @@ Este contrato se celebrará tácitamente, si el que presta el hospedaje tiene ca
 
 ###### Artículo 2039.
 
-El hospedaje expreso se rige por las condiciones estipuladas, y el tácito por el reglamento que expedirá la autoridad competentes y que el dueño del establecimiento deberá tener siempre por escrito en lugar visible.
+El hospedaje expreso se rige por las condiciones estipuladas, y el tácito por el reglamento que expedirá la autoridad competente y que el dueño del establecimiento deberá tener siempre por escrito en lugar visible.
 
 ###### Artículo 2040.
 
@@ -11669,7 +11693,7 @@ IV.- Por la muerte o incapacidad de uno de los socios que tenga responsabilidad 
 
 V.- Por la muerte del socio industrial, siempre que su industria haya dado nacimiento a la sociedad;
 
-VI.- Por la renuncia de uno de los socios, cuando se trate de sociedades de duración indeterminada y los otros socios no deseen continuar asociados, siempre que esa renuncia no maliciosa ni extemporáneda;
+VI.- Por la renuncia de uno de los socios, cuando se trate de sociedades de duración indeterminada y los otros socios no deseen continuar asociados, siempre que esa renuncia no maliciosa ni extemporánea;
 
 VII.- Por resolución judicial.
 
@@ -11899,7 +11923,7 @@ El que hubiere firmado una obligación que en realidad tenía por causa una deud
 
 ###### Artículo 2141.
 
-Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la oden o al portador, el suscriptor debe pagarla al portador de buena fe, pero tendrá el derecho que le concede el artículo 2136.
+Si a una obligación de juego o apuesta prohibidos se le hubiere dado la forma de título a la orden o al portador, el suscriptor debe pagarla al portador de buena fe, pero tendrá el derecho que le concede el artículo 2136.
 
 ###### Artículo 2142.
 
@@ -13853,7 +13877,7 @@ Cuando la condición fuere casual o mixta, bastará que se realice en cualquier 
 
 ###### Artículo 2491.
 
-Si la condición se hubiere cumplido al hacerse el testamento ignorándolo el testador, se tendrá por cumplida; más si lo sabia, sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
+Si la condición se hubiere cumplido al hacerse el testamento ignorándolo el testador, se tendrá por cumplida; más si lo sabía, sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
 
 ###### Artículo 2492.
 
@@ -13949,7 +13973,7 @@ Es inoficioso el testamento en que no deje la pensión alimenticia, según lo es
 
 ###### Artículo 2509.
 
-El preterito tendrá solamente derecho a que se le dé la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
+El preterido tendrá solamente derecho a que se le dé la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
 
 ###### Artículo 2510.
 
@@ -14371,7 +14395,7 @@ Quedan prohibidas las substituciones fideicomisarias y cualquiera otra diversa d
 
 ###### Artículo 2608.
 
-Los substitutos pueden ser nombrado conjunta o sucesivamente.
+Los substitutos pueden ser nombrados conjunta o sucesivamente.
 
 ###### Artículo 2609.
 
@@ -14919,7 +14943,7 @@ Si después de la muerte del testador muriese alguno de los testigos, se hará l
 
 ###### Artículo 2711.
 
-Lo dispuesto en el artículo anterior se observará también en el caso de ausencia de alguno o de algunos de los testigos, siempre que en la falta de comparencia del testigo no hubiere dolo.
+Lo dispuesto en el artículo anterior se observará también en el caso de ausencia de alguno o de algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
 
 ###### Artículo 2712.
 
@@ -15165,7 +15189,7 @@ Si el marido reconoció en instrumento público o privado la certeza de la preñ
 
 ###### Artículo 2756.
 
-La omisión de la madres no perjudica a la legitimidad del hijo, si por otros medios legales puede acreditarse.
+La omisión de la madre no perjudica a la legitimidad del hijo, si por otros medios legales puede acreditarse.
 
 ###### Artículo 2757.
 
@@ -15463,7 +15487,7 @@ III.- La formación de inventarios;
 
 IV.- La administración de los bienes y la rendición de las cuentas del albaceazgo;
 
-V.- El pago de las deudas mortuarias, hereditarias y testamentarias;
+V.- El pago de las deudas mortuarias (sic), hereditarias y testamentarias;
 
 VI.- La partición y adjudicación de los bienes entre los herederos y legatarios;
 
@@ -15699,15 +15723,15 @@ Concluido y aprobado judicialmente el inventario, el albacea procederá a la liq
 
 ###### Artículo 2867.
 
-En primer lugar, serán pagadas las deudas mortuarias, si no lo estuvieren ya, pues pueden pagarse antes de la formación del inventario.
+En primer lugar, serán pagadas las deudas mortuarias (sic), si no lo estuvieren ya, pues pueden pagarse antes de la formación del inventario.
 
 ###### Artículo 2868.
 
-Se llaman deudas mortuarias, los gastos de funeral y las que se hayan causado en la última enfermedad del autor de la herencia.
+Se llaman deudas mortuarias (sic), los gastos de funeral y las que se hayan causado en la última enfermedad del autor de la herencia.
 
 ###### Artículo 2869.
 
-Las deudas mortuarias se pagarán del cuerpor de la herencia.
+Las deudas mortuarias (sic) se pagarán del cuerpo de la herencia.
 
 ###### Artículo 2870.
 
@@ -15845,7 +15869,7 @@ Por los créditos incobrables no hay responsabilidad.
 
 ###### Artículo 2900.
 
-El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que les prohiba enajenar los bienes que recibieron.
+El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que les prohíba enajenar los bienes que recibieron.
 
 ###### Artículo 2901.
 
@@ -16034,3 +16058,9 @@ Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su
 P.O. 5 DE MAYO DE 2010.
 
 Artículo único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE OCTUBRE DE 2010.
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo segundo.- Las disposiciones del párrafo segundo del artículo 282 surtirán plenos efectos con relación a las sentencias que hubieren recaído a los juicios de divorcio voluntario anteriores a la entrada en vigor del presente decreto.
