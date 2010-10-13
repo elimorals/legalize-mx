@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2010-05-05"
+last_updated: "2010-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -121,7 +121,7 @@ XVII.- En las acciones mancomunadas por título de herencia o legado, sean reale
 
 a).- Si no se ha nombrado interventor ni albacea, puede ejercitarlas cualquiera de los herederos o legatarios;
 
-b).- Si se ha nombrado interventor o albacea, sólo a éstos compete la facultad de deducirlas en juicio, y sólo podrán hacerlo los herederos o legatarios cuando, requeridos por ellos, el albacea o el interventor se rehusen a hacerlo;
+b).- Si se ha nombrado interventor o albacea, sólo a éstos compete la facultad de deducirlas en juicio, y sólo podrán hacerlo los herederos o legatarios cuando, requeridos por ellos, el albacea o el interventor se rehúsen a hacerlo;
 
 XVIII.- Ninguna acción puede ejercitarse sino por aquél a quien compete o por su representante legítimo. No obstante eso, el acreedor puede ejercitar las acciones que competan a su deudor cuando conste el crédito de aquél, en título ejecutivo y, excitado éste para deducirlas, descuide o rehuse hacerlo. El tercero demandado puede paralizar la acción pagando al demandante el monto de su crédito.
 
@@ -305,7 +305,9 @@ VII.- En los actos de jurisdicción voluntaria, el del domicilio del que promuev
 
 VIII.- En los asuntos relativos a la tutela de los menores e incapacitados, el Juez de la residencia de éstos;
 
-IX.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimento para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+IX.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad, o impedimento para contraer matrimonio, el del lugar donde residan los pretendientes;
 
 X.- En los juicios de divorcio, el Tribunal del domicilio conyugal, y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
 
@@ -357,7 +359,7 @@ Si por los documentos que se hubieren presentado, apareciere que las partes que 
 
 El Juez ante quien se promueva la inhibitoria y que resuelva estimando ser competente, mandará librar oficio dentro de las veinticuatro horas siguientes, requiriendo al Juez que considere incompetente para que se abstenga de conocer el asunto.
 
-Recibido el oficio inhibitorio, el Juez requerido decretará la suspensión en el asunto relativo, ordenando dar vista a la contraparte para que dentro de veinticuatro horas manifieste lo que a sus intereses convenga y si estuviere conforme, o transcurrido el término sin que nada haya manifestado, resolverá mandando remitir los autos al Juez requiriente.
+Recibido el oficio inhibitorio, el Juez requerido decretará la suspensión en el asunto relativo, ordenando dar vista a la contraparte para que dentro de veinticuatro horas manifieste lo que a sus intereses convenga y si estuviere conforme, o transcurrido el término sin que nada haya manifestado, resolverá mandando remitir los autos al Juez requiriente (sic).
 
 ###### ARTICULO 39.
 
@@ -393,7 +395,7 @@ Lo dispuesto en el párrafo que antecede se observará también en aquellos en q
 
 ###### ARTICULO 42.
 
-Cuando el superior resuelva que continúe sosteniendo su competencia el Juez requerido, éste remitirá los autos al Tribunal que conforme a las Leyes Federales corresponda decidir la cuestión, haciéndolo saber a las partes y a la autoridad jurisdiccional requiriente.
+Cuando el superior resuelva que continúe sosteniendo su competencia el Juez requerido, éste remitirá los autos al Tribunal que conforme a las Leyes Federales corresponda decidir la cuestión, haciéndolo saber a las partes y a la autoridad jurisdiccional requiriente (sic).
 
 ###### ARTICULO 43.
 
@@ -625,9 +627,13 @@ Cuando variare el personal de un Tribunal, no se proveerá haciendo saber el cam
 
 Cuando se trate de personas cuyo nombre, domicilio o lugar de residencia se ignore, las notificaciones personales se le harán por edictos que se publiquen por dos veces con un mínimo de tres y un máximo de ocho días entre una y otra en el periódico oficial del Estado, y otro medio de comunicación a elección del promovente. A criterio del Tribunal, podrá emplearse otro medio de comunicación de cobertura regional o nacional.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 73.
 
-Para que proceda la notificación conforme al artículo anterior, el promovente deberá justificar que hizo gestiones para averiguar lo conducente, bastando como principio de prueba el certificado de las autoridades administrativas correspondientes y constancia de búsqueda por parte de la policía municipal.
+Para que proceda la notificación conforme al artículo anterior, el promovente deberá manifestar bajo protesta de decir verdad que ignora el domicilio del demandado y justificar que hizo gestiones para averiguar lo conducente, debiendo adjuntar a su demanda una constancia de búsqueda por parte de la policía municipal.
+
+A criterio del Tribunal, se podrán girar oficios a las autoridades administrativas correspondientes para que informen si existe domicilio del demandado en el Estado.
 
 #### SECCION TERCERA. NOTIFICACIONES POR LISTA
 
@@ -895,7 +901,9 @@ Si la oposición se hiciere por quien no tenga personalidad ni interés para ell
 
 El Juez podrá variar o modificar las providencias que dictare sin sujeción estricta a los términos y formas establecidas respecto de la jurisdicción contenciosa.
 
-No se comprenden en esta disposición los autos que tengan fuerza de definitivos y contra los que no se hubiere interpuesto recursos (sic) alguno, a no ser que se demostrara que cambiaron las circunstancias que afectan el ejercicio de la acción.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+No se comprenden en esta disposición los autos que tengan fuerza de definitivos y contra los que no se hubiere interpuesto recurso alguno, a no ser que se demostrara que cambiaron las circunstancias que afectan el ejercicio de la acción.
 
 ## TITULO SEGUNDO. JURISDICCION VOLUNTARIA POR DISPOSICIÓN DE LA LEY
 
@@ -1011,9 +1019,11 @@ V.- El Juez mandará que se fijen las señales convenientes en los puntos deslin
 
 Los puntos respecto a los cuales hubiere oposición no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 132.
 
-Los gastos generales del apeo se harán por el que los promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
+Los gastos generales del apeo se harán por el que los promueva; los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros, sin perjuicio de lo que se disponga en la sentencia definitiva, respecto de la condena al pago de costas.
 
 ### CAPITULO III. APROVECHAMIENTO DE LOS BIENES VACANTES, MOSTRENCOS O TESOROS
 
@@ -1033,9 +1043,11 @@ Si se presentare reclamación, concluirá de plano la jurisdicción voluntaria y
 
 Transcurrido el plazo de la publicidad sin que se haya presentado oposición o reclamación alguna, se procederá a la venta en subasta pública, practicándose las que sean necesarias hasta lograrla, sin que sea permitido que en la segunda y ulteriores baje el precio del valor fijado pericialmente
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 137.
 
-Aprobada la venta, se ordenará que el precio se distribuya, aplicando una tercera parte al fondo auxiliar de la administración de justicia y el resto conforme al Código Civil.
+Aprobada la venta, se ordenará que el precio se distribuya, aplicando una tercera parte a la Hacienda Pública y el resto conforme al Código Civil.
 
 ## TITULO TERCERO. JURISDICCION VOLUNTARIA A SOLICITUD DE PARTE INTERESADA
 
@@ -1183,7 +1195,7 @@ Los Magistrados y Jueces que conozcan de una recusación, son irrecusables para 
 
 ###### ARTICULO 161.
 
-Declarada procedente, quedará definitivamente separado para conocer del asunto el Magistrado, Juez o Secretario recusado, designándose quien debe sustituirlo; en caso contrarío, se impondrá al recusante una multa hasta por veinte días de salario.
+Declarada procedente, quedará definitivamente separado para conocer del asunto el Magistrado, Juez o Secretario recusado, designándose quien debe sustituirlo; en caso contrario, se impondrá al recusante una multa hasta por veinte días de salario.
 
 ###### ARTICULO 162.
 
@@ -1265,7 +1277,13 @@ IV.- Reconocimiento o inspección judicial;
 
 V.- Testimonial;
 
-VI.- Y demás medios que produzcan convicción en el Juzgador, siempre que la parte que los ofrezca, ministre al Tribunal los aparatos o elementos necesarios para su desahogo y valoración.
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+VI.- La información contenida en medios electrónicos, ópticos o cualquier otra tecnología, y
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+VII.- Demás medios que produzcan convicción en el juzgador, siempre que la parte que los ofrezca, ministre al Tribunal los aparatos o elementos necesarios para su desahogo y valoración.
 
 ###### ARTICULO 176.
 
@@ -1377,7 +1395,7 @@ III. Cuando el que fue nombrado y aceptó el cargo lo renunciare después.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 191"B".- Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el Juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución sobre condenación en costas.
+ARTICULO 191 "B".- Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuyo defecto lo hubiere nombrado el Juez, y el del tercero, por ambas partes, sin perjuicio de lo que disponga la resolución sobre condenación en costas.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2010)</small>
 
@@ -1483,11 +1501,11 @@ En caso de ser desechada la recusación, se impondrá al recusante una multa has
 
 #### SECCION QUINTA. AUDIENCIA DE RECEPCION
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 202.
 
-Constituido el Tribunal en audiencia pública, el día y hora señalados al efecto, serán llamados por el Secretario, los litigantes, peritos, testigos y demás personas que por disposición de la Ley deban permanecer en el salón, en lugar separado para ser introducidos en su oportunidad, si no se hallaran presentes, decidirá cuales deben ser inmediatamente citados o traídos para que concurran a la diligencia.
-
-La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos, peritos y los abogados siempre que hayan sido enterados debidamente, de la cual se deberá levantar el acta circunstanciada.
+Constituido el Tribunal en audiencia pública, el día y hora señalados al efecto, serán llamados por el Secretario, los litigantes, peritos, testigos y demás personas que por disposición de la ley deban permanecer en el área donde se desarrolle la audiencia, en lugar separado para ser introducidos en su oportunidad, si no se hallaran presentes, decidirá cuales deben ser inmediatamente citados o traídos para que concurran a la diligencia.
 
 ###### ARTICULO 203.
 
@@ -1513,7 +1531,9 @@ Las posiciones deberán reunir los siguientes requisitos:
 
 I.- Articularse en términos precisos;
 
-II.- Concretarse a hechos que sean objeto del debate;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+II.- Concretarse a hechos que sean objeto de la controversia;
 
 III.- No han de ser insidiosas. Se tendrá por insidiosas las que se dirijan a ofuscar la inteligencia del absolvente con el objeto de inducirlo a error y obtener una declaración contraria a la verdad;
 
@@ -1555,9 +1575,11 @@ Absueltas las posiciones, el absolvente tiene derecho a su vez, cuando se desaho
 
 Cuando el absolvente al enterarse de su declaración, manifieste no estar conforme con los términos asentados, el Juez decidirá en el acto lo que proceda acerca de las rectificaciones que deban hacerse. Una vez firmadas las declaraciones, no pueden variarse ni en la substancia ni en la redacción.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 214.
 
-En caso de enfermedad legalmente comprobada del que deba absolver, el Tribunal se trasladará al domicilio de aquél, donde se efectuará la diligencia con presencia de la otra parte, si asistiere.
+En caso de enfermedad legalmente comprobada del que deba absolver, el Juez se trasladará al domicilio de aquél, con el personal auxiliar necesario, donde se efectuará la diligencia con presencia de la otra parte, si asistiere.
 
 ###### ARTICULO 215.
 
@@ -1617,7 +1639,9 @@ Estando los testigos separados convenientemente, pasarán uno por uno a declarar
 
 Los testigos primero declararán espontáneamente sobre los hechos, pudiendo el Juez interrogarlos ampliamente y luego las partes, limitándose a los puntos dudosos, obscuros u omitidos. El Juez impedirá estrictamente preguntas ociosas e impertinentes.
 
-Deben asentarse en el acta literalmente preguntas, repreguntas y sus respuestas
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+Deben asentarse en el acta literalmente el testimonio, así como las preguntas, repreguntas y respuestas que se generen.
 
 ###### ARTICULO 225.
 
@@ -1629,9 +1653,11 @@ Asimismo deberá declararse desierta la prueba testimonial. Esta norma se aplica
 
 A los testigos de más de sesenta años y a los enfermos podrá el Juez según las circunstancias, recibirles la declaración en sus casas en presencia de las partes si asistieren.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 227.
 
-Al Presidente de la República, Secretarios de Estado, Gobernadores, Senadores, Diputados, Magistrados, Jueces, Generales con mando y a las primeras autoridades municipales del Estado de Nayarit, se pedirá su declaración por oficio, y en esa forma la rendirán, en un plazo que fije el Juez no mayor de cinco días hábiles. En casos urgentes, podrán rendir declaración personalmente.
+Al Presidente de la República, Secretarios de Estado, Gobernadores, a los Secretarios de Despacho, al Procurador General de Justicia del Estado, titulares de los organismos descentralizados y de los órganos autónomos, Senadores, Diputados, Magistrados, Jueces, Generales con mando y a las primeras autoridades municipales del Estado de Nayarit, se pedirá su declaración por oficio, y en esa forma la rendirán, en un plazo que fije el Juez no mayor de cinco días hábiles.
 
 ###### ARTICULO 228.
 
@@ -2055,9 +2081,11 @@ III.- El que fuere condenado en los juicios ejecutivo, hipotecario y el que inte
 
 IV.- Cuando en la sentencia de segunda instancia se confirme la de primera, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las de ambas instancias.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 284.
 
-No habrá condenación de costas cuando las partes celebren un convenio mediante el cual se resuelva el litigio, pero en caso de incumplimiento, al ordenar su ejecución, se podrá decretar el pago de costas a cargo de la parte que incumpla.
+No habrá condena de costas cuando las partes celebren un convenio mediante el cual se resuelva el litigio, pero en caso de incumplimiento, al ordenar su ejecución, se podrá decretar el pago de costas a cargo de la parte que incumpla.
 
 ## TITULO SEGUNDO. JUICIOS DE TRAMITACION ESPECIAL
 
@@ -2467,7 +2495,9 @@ I.- Sólo podrá promoverse hasta que quede terminado por sentencia o auto firme
 
 II.- Será improcedente cuando no se presente dentro del año siguiente al día en que hubiere quedado firme la sentencia o auto que puso término al juicio, o cuando el que la promueva no haya utilizado en tiempo los recursos legales ordinarios contra la resolución en que se suponga generada la responsabilidad;
 
-III.- Del dirigido contra jueces menores y de primera instancia conocerá la sala del ramo si fuere apelable la sentencia pronunciada en el juicio en que se estime se haya originado la responsabilidad y del que se intente contra los magistrados el Pleno del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+III.- Del dirigido contra jueces de primera instancia conocerá la sala del ramo si fuere apelable la sentencia pronunciada en el juicio en que se estime se haya originado la responsabilidad y del que se intente contra los magistrados el Pleno del Tribunal Superior de Justicia;
 
 IV.- A la demanda se acompañará certificado o testimonio que contenga:
 
@@ -2489,7 +2519,7 @@ VI.- Si en ésta se condena a pagar la responsabilidad, determinará la cantidad
 
 Procede la ejecución forzosa a instancia de parte, siempre que se trate de exigir el cumplimiento de una sentencia o de un convenio celebrado en el juicio, ya sea por las partes o por terceros que hayan venido a éste por cualquier motivo que sea.
 
-Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y los laudos emitidos por dicha dependencia e incluso, sentencias penales entratándose de la reparación de daños provenientes de delito.
+Esta disposición será aplicable en la ejecución de convenios celebrados ante la Procuraduría Federal del Consumidor y los laudos emitidos por dicha dependencia e incluso, sentencias penales entratándose (sic) de la reparación de daños provenientes de delito.
 
 ###### ARTICULO 338.
 
@@ -2969,7 +2999,7 @@ Si pasados diez días de puestos a la venta no se hubiere logrado ésta, el Trib
 
 Los gastos de corretaje o comisión serán de cuenta del deudor y se deducirán preferentemente del precio de venta que se obtenga;
 
-III.- Hecha la adjudicación o la venta, se ordenará requerir al ejecutado para que otorgue la factura debidamente firmada, apercibiéndolo que en caso contrarío el Juez lo hará en su rebeldía; y
+III.- Hecha la adjudicación o la venta, se ordenará requerir al ejecutado para que otorgue la factura debidamente firmada, apercibiéndolo que en caso contrario el Juez lo hará en su rebeldía; y
 
 IV.- En todo lo demás se estará a las disposiciones de esta sección.
 
@@ -2977,17 +3007,17 @@ IV.- En todo lo demás se estará a las disposiciones de esta sección.
 
 ###### ARTICULO 413.
 
-El Juez que reciba exhorto para la ejecución de una sentencia u otra resolución, cumplirá con lo que disponga la autoridad requeriente, siempre que contenga los insertos que estime necesarios conforme a las disposiciones de esta sección y lo que haya de ejecutarse no fuere contrario a las Leyes de este Estado.
+El Juez que reciba exhorto para la ejecución de una sentencia u otra resolución, cumplirá con lo que disponga la autoridad requeriente (sic), siempre que contenga los insertos que estime necesarios conforme a las disposiciones de esta sección y lo que haya de ejecutarse no fuere contrario a las Leyes de este Estado.
 
 ###### ARTICULO 414.
 
-Los Jueces requeridos no podrán oír ni conocer de excepciones cuando fueren opuestas por alguna de las partes que litigan ante la requeriente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
+Los Jueces requeridos no podrán oír ni conocer de excepciones cuando fueren opuestas por alguna de las partes que litigan ante la requeriente (sic), salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
 
 ###### ARTICULO 415.
 
 Si al ejecutarse la resolución se opusiere algún tercero, el Juez requerido oirá incidentalmente y calificará las excepciones opuestas conforme a las reglas siguientes:
 
-I.- Cuando un tercero que no hubiere sido oído por la autoridad requeriente poseyere en nombre propio la cosa en que debe ejecutarse la resolución, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que así se resolviere y de las constancias en que se haya fundado; y
+I.- Cuando un tercero que no hubiere sido oído por la autoridad requeriente (sic) poseyere en nombre propio la cosa en que debe ejecutarse la resolución, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que así se resolviere y de las constancias en que se haya fundado; y
 
 II.- Si el tercer opositor que se presente ante el Juez requerido no probare que posee con cualquier título traslativo de dominio la cosa sobre que verse la ejecución, será condenado a satisfacer las costas, daños y perjuicios.
 
@@ -2999,7 +3029,7 @@ I.- Que verse sobre cantidad líquida o cosa determinada individualmente;
 
 II.- Que si tratare de derechos reales sobre inmuebles, o bienes inmuebles ubicados en el Estado, fueren conforme a las Leyes del lugar; y
 
-III.- Si tratándose de derechos personales o del estado civil, la persona condenada se sometió expresamente o por razón de domicilio a la requeriente que la pronunció.
+III.- Si tratándose de derechos personales o del estado civil, la persona condenada se sometió expresamente o por razón de domicilio a la requeriente (sic) que la pronunció.
 
 ###### ARTICULO 417.
 
@@ -3763,7 +3793,7 @@ V.- Precauciones que deben adaptarse respecto de la mujer que quede embarazada a
 
 ###### ARTICULO 514.
 
-El divorcio necesario se tramitará en juicio civil ordinario; el voluntario administrativo, cuando no haya hijos menores o incapacitados, como lo prevee el Código Civil y el voluntario judicial, cuando si los haya, de acuerdo con las siguientes disposiciones.
+El divorcio necesario se tramitará en juicio civil ordinario; el voluntario administrativo, cuando no haya hijos menores o incapacitados, como lo prevee (sic) el Código Civil y el voluntario judicial, cuando si los haya, de acuerdo con las siguientes disposiciones.
 
 ###### ARTICULO 515.
 
@@ -4639,7 +4669,7 @@ II.- El de nulidad de la confesión proveniente de error o violencia;
 
 III.- El de tachas de testigos;
 
-IV.- El de impugnación de falsedad de un documento que puede hacerse desde la contestación de la demanda hasta seis días antes de la celebración de la audiencia de pruebas. La parte que redarguye de falso un documento debe indicar específicamente los motivos y las pruebas; cuando se impugne la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente. Sin estos requisitos se tienen por no redargüído o impugnado el instrumento.
+IV.- El de impugnación de falsedad de un documento que puede hacerse desde la contestación de la demanda hasta seis días antes de la celebración de la audiencia de pruebas. La parte que redarguye de falso un documento debe indicar específicamente los motivos y las pruebas; cuando se impugne la autenticidad del documento privado o público sin matriz, deben señalarse los documentos indubitables para el cotejo y promover la prueba pericial correspondiente. Sin estos requisitos se tienen por no redargüído o impugado (sic) el instrumento.
 
 V.- En los juicios ejecutivos, la oposición del ejecutado a los valores fijados por el ejecutante a la cosa reclamada que ya no exista y la liquidación de cantidades que por intereses o daños y perjuicios formen parte de la deuda cuando no lo estuvieren al despacharse la ejecución; y
 
@@ -5054,3 +5084,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O 5 DE MAYO DE 2010
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE OCTUBRE DE 2010.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
