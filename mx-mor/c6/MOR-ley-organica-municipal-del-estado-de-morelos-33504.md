@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2010-03-10"
+last_updated: "2010-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -965,7 +965,7 @@ II. Imponer contribuciones o sanciones que no estén señaladas en la Ley de Ing
 
 III. Juzgar los asuntos relativos a la propiedad o posesión de bienes muebles e inmuebles o cualquier otro asunto contencioso de carácter civil, ni decretar sanciones o penas de carácter penal;
 
-IV. Utilizar su autoridad o nfluencia para hacer que en las elecciones los votos se emitan a favor de determinada persona o partido;
+IV. Utilizar su autoridad o influencia para hacer que en las elecciones los votos se emitan a favor de determinada persona o partido;
 
 V. Ausentarse del Municipio por más de quince días sin licencia del Ayuntamiento, excepto en los casos de urgencia justificada;
 
@@ -1132,6 +1132,24 @@ Para su funcionamiento, los Comités de Planeación para el Desarrollo Municipal
 ###### Artículo 60.
 
 Los Ayuntamientos expedirán, dentro de sus respectivas jurisdicciones, su Bando de Policía y Gobierno, reglamento interior, reglamentos y disposiciones administrativas de observancia general, de acuerdo con lo establecido en el Artículo 115 Fracción II, Párrafo Segundo de la Constitución Política de los Estados Unidos Mexicanos, incorporando la perspectiva de género.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 60 Bis.
+
+Los Ayuntamientos participan en el proceso de reforma a la Constitución Política del Estado de Morelos en los términos del artículo 147 constitucional.
+
+En el procedimiento al que habrán de sujetar los Ayuntamientos a los dictámenes aprobados por el Congreso del Estado que impliquen una adición o reforma a la Constitución Política del Estado de Morelos, se estará a lo siguiente:
+
+Una vez entregado al Ayuntamiento el dictamen aprobado por el Congreso del Estado en los términos de la fracción I del artículo 147 constitucional, deberá ser turnado a la comisión dictaminadora establecida por el número de integrantes del Cabildo que determine el Presidente Municipal en un plazo no mayor de cinco días hábiles;
+
+La comisión dictaminadora una vez que reciba del Presidente Municipal el dictamen de reforma constitucional, procederá a su análisis y discusión para que en un término no mayor a quince días hábiles someta en sesión de Cabildo a la consideración de sus integrantes el proyecto de acuerdo para su votación correspondiente;
+
+De aprobarse el dictamen por las dos terceras partes del Cabildo, deberá remitirse de inmediato al Congreso del Estado en dos tantos acompañados del Acta de Cabildo de la Sesión en el que haya sido votado y en la que se circunstancien, el sentido de la votación de cada uno de los integrantes del Cabildo y el texto de la reforma constitucional en los mismos términos que el aprobado por el Congreso del Estado;
+
+De no aprobarse el dictamen, el Ayuntamiento deberá remitirlo al Congreso del Estado en los mismos términos de la fracción anterior, manifestando las consideraciones que juzgue necesarias para sustentar su determinación; y
+
+En caso que los Ayuntamientos incurran en lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado de Morelos, se tendrá por aprobada su determinación en la adición o reforma implícitas en el dictamen que les haya sido remitido por el Congreso del Estado.
 
 ###### Artículo 61.
 
@@ -2706,6 +2724,16 @@ Tercero.- Los poderes Ejecutivo y Judicial del Gobierno del Estado de Morelos, a
 Cuarto.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 Quinto.- Túrnese el presente decreto al titular del Poder Ejecutivo del Estado de Morelos para los efectos de su promulgación y publicación respectiva.
+
+P.O. 13 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado que sea el presente, remítase al Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación.
 
 ###### ARTÍCULO CUARTO.
 
