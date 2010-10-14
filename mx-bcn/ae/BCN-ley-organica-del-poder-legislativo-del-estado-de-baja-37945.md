@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2010-07-02"
+last_updated: "2010-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 2010.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -111,11 +111,11 @@ La sesión, es la reunión oficial de los integrantes del Pleno del Congreso del
 
 Asimismo, se denominan sesiones las reuniones de los integrantes de las Comisiones, en la sala de juntas de las mismas o en la que se acuerde, para tratar todo lo inherente al desarrollo de sus funciones.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
-La presente Ley sólo podrá ser modificada, reformada, abrogada o derogada mediante el voto de las dos terceras partes de los miembros del Congreso.
+La presente Ley sólo podrá ser modificada, reformada, abrogada o derogada por mayoría absoluta de los miembros del Congreso.
 
 Para los efectos de esta Ley y sus Reglamentos se entenderá por:
 
@@ -195,7 +195,9 @@ II.- Una vez cumplidas las prescripciones ceremoniales establecidas en la fracci
 
 "El Congreso del Estado Libre y Soberano de Baja California, declara hoy (fecha) instalada la (número) Legislatura así como la apertura del primer año del Ejercicio Constitucional"; y,
 
-III.- Conforme lo establece la Ley, una vez instalada la Legislatura, se procederá a designar formalmente a los Diputados integrantes de la Comisión de Régimen Interno y Prácticas Parlamentarias, confirmando que se hayan satisfecho los requisitos de la presente Ley para el caso.
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+III.- Conforme lo establece la Ley, una vez instalada la Legislatura, se procederá a designar formalmente a los Diputados integrantes de la Junta de Coordinación Política, confirmando que se hayan satisfecho los requisitos de la presente Ley para el caso.
 
 ## TITULO TERCERO. DE LA EXPEDICIÓN DE LOS BANDOS SOLEMNES
 
@@ -225,9 +227,11 @@ Son atribuciones del Congreso del Estado, las que derivan de la Constitución Po
 
 ### CAPITULO SEGUNDO. DEL PLAN DE DESARROLLO LEGISLATIVO
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO , G.P. 14 DE OCTUBRE DE 2010)</small>
 
-ARTICULO 16 BIS.- El Plan de Desarrollo Legislativo es el documento rector y guía en materia de planeación y gestión legislativa de una legislatura. Dicho Plan establece las directrices a que deberá sujetarse el Congreso del Estado, para definir objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, gestoría comunitaria y modernización institucional del Poder Legislativo, de conformidad con sus atribuciones.
+ARTICULO 16 BIS.- El Plan de Desarrollo Legislativo es el documento rector y guía en materia de planeación y gestión legislativa de una legislatura. Dicho Plan establece las directrices a que deberá sujetarse el Congreso del Estado para definir objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, medición del desempeño y resultados de los programas de gobierno, gestoría comunitaria y modernización institucional del Poder Legislativo; de conformidad con sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2010)</small>
 
 El Plan, se elaborará sin perjuicio del derecho de iniciativa de Leyes y Decretos que corresponde a las autoridades y ciudadanos enunciados en el Artículo 28 de la Constitución Local.
 
@@ -245,15 +249,23 @@ III.- Democrático, para garantizar la participación equitativa de todos los Gr
 
 ARTICULO 16 QUARTER (SIC).- El Plan se elaborará, aprobará, controlará, evaluará y coordinará conforme a los siguientes procedimientos y plazos:
 
-I.- La Comisión de Régimen Interno y Prácticas Parlamentarias, es el órgano de trabajo del Congreso del Estado, encargado de organizar los trabajos para la elaboración del Plan;
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+I.- La Junta de Coordinación Política, es el órgano de gobierno del Congreso del Estado, encargado de organizar los trabajos para la elaboración del Plan;
 
 II.- Durante los meses de octubre y noviembre del primer periodo de sesiones del inicio de una Legislatura, cada Diputado a través de su Coordinador del Grupo Parlamentario correspondiente enviará sus propuestas para elaborar la Agenda Legislativa Básica;
 
-III.- La Agenda Legislativa Básica será consensuada y acordada por los integrantes de la Comisión de Régimen Interno y Prácticas Parlamentarias antes de concluir el primer período de sesiones de inicio de la Legislatura, para ser incorporada al Plan;
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-IV.- La Comisión de Régimen Interno y Prácticas Parlamentarias deberá incorporar al Plan, las propuestas de los Órganos Técnico-Administrativos y del Órgano de Fiscalización Superior del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer periodo de sesiones del inicio de la Legislatura;
+III.- La Agenda Legislativa Básica será consensuada y acordada por los integrantes de la Junta de Coordinación Política antes de concluir el primer período de sesiones de inicio de la Legislatura, para ser incorporada al Plan;
 
-V.- Los integrantes de la Comisión de Régimen Interno y Prácticas Parlamentarias deberán procurar que el anteproyecto de Plan se encuentre completo al iniciar el segundo período de sesiones del inicio de la Legislatura, habiendo incluido los objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, gestoría comunitaria y modernización institucional;
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+IV.- La Junta de Coordinación Política podrá incorporar al Plan, las propuestas de la Biblioteca, los Institutos y el Órgano de Fiscalización del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer período de sesiones del inicio de la Legislatura;
+
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+V.- Los integrantes de la Junta de Coordinación Política deberán procurar que el anteproyecto de Plan se encuentre completo al iniciar el segundo período de sesiones del inicio de la Legislatura, habiendo incluido los objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, gestoría comunitaria y modernización institucional;
 
 VI.- El Plan deberá aprobarse por el Pleno del Congreso del Estado, hasta antes de concluir el segundo periodo de sesiones del inicio de la Legislatura, y remitirse inmediatamente al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado;
 
@@ -381,11 +393,11 @@ I.- Al pasar el Secretario lista de asistencia, no digan presente o no se encuen
 
 II.- Al realizarse alguna votación, no emitan el sentido de su voto.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 23.
 
-Los Diputados que falten injustificadamente a cualquier sesión del Pleno del Congreso, no tendrán derecho a recibir la dieta del día que corresponda.
+Los Diputados que falten injustificadamente a cualquier sesión del Pleno del Congreso o de Comisiones a las que pertenezca, no tendrán derecho a recibir la dieta del día que corresponda.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -463,17 +475,17 @@ Corresponde a los coordinadores de los Grupos Parlamentarios y a los Diputados d
 
 I.- Proponer a los Diputados de su Grupo Parlamentario en los cargos y Comisiones que se derivan de esta Ley;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-II.- Informar a la Comisión de Régimen Interno y Prácticas Parlamentarias, de la sustitución de Diputados pertenecientes a su Grupo Parlamentario, por la causa prevista en el artículo 19 de esta Ley, en las diversas Comisiones que se hubieren aprobado e integrado conforme al acuerdo del Pleno del Congreso, para que la Comisión, a su vez, se lo informe al Pleno;
+II.- Informar a la Junta de Coordinación Política de la sustitución de Diputados pertenecientes a su Grupo Parlamentario en las diversas Comisiones;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-III.- Asistir a las reuniones de las sesiones de los Coordinadores Parlamentarios para considerar, conjuntamente, las acciones específicas que propicien el mejor desarrollo de las labores legislativas, y
+III.- Asistir a las reuniones de las sesiones de la Junta de Coordinación Política para considerar, conjuntamente, las acciones específicas que propicien el mejor desarrollo de las labores legislativas; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-IV.- Presentar ante la Comisión de Régimen Interno y Prácticas Parlamentarias las propuestas de los integrantes de sus Grupos Parlamentarios para elaborar la Agenda Legislativa Básica del Plan, de conformidad con los procedimientos y plazos previstos en esta Ley y el Reglamento.
+IV.- Presentar ante la Junta de Coordinación Política las propuestas de los integrantes de sus Grupos Parlamentarios para elaborar la Agenda Legislativa Básica del Plan, de conformidad con los procedimientos y plazos previstos en esta Ley y el Reglamento.
 
 ###### ARTICULO 32.
 
@@ -487,7 +499,9 @@ En el caso de que un Grupo Parlamentario se disuelva por decisión de sus integr
 
 Cuando un partido político que tenga Grupo Parlamentario en la Asamblea se fusione con otro, sé integrará un nuevo Grupo Parlamentario con los Diputados que sean miembros del nuevo partido.
 
-La fusión e integración de un nuevo Grupo Parlamentario será notificada a la Mesa Directiva del período ordinario respectivo, atendiendo a los requisitos establecidos en el Artículo 28 de la presente Ley y a la Comisión de Régimen Interno y Prácticas Parlamentarias, dentro de los tres días hábiles siguientes a los que haya tenido lugar, para que ésta informe al Pleno del Congreso y se efectúe la declaratoria correspondiente así como los trámites a que haya lugar.
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+La fusión e integración de un nuevo Grupo Parlamentario será notificada a la Mesa Directiva del período ordinario respectivo, atendiendo a los requisitos establecidos en el artículo 28 de la presente Ley y a la Junta de Coordinación Política, dentro de los tres días hábiles siguientes a los que haya tenido lugar, para que ésta informe al Pleno del Congreso y se efectúe la declaratoria correspondiente así como los trámites a que haya lugar.
 
 ###### ARTICULO 35.
 
@@ -499,21 +513,21 @@ Los Grupos Parlamentarios dispondrán de locales adecuados en las instalaciones 
 
 ### CAPITULO I. ESTRUCTURA ORGANICA
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 36.
 
-Para el cumplimiento de sus facultades y ejercicio de sus funciones, el Congreso del Estado integra su estructura con órganos de Dirección, de Trabajo, Técnicos y Administrativos.
+Para el cumplimiento de sus facultades y ejercicio de sus funciones, el Congreso del Estado integra su estructura con órganos de Gobierno, de Trabajo; de Apoyo Parlamentario y Administrativo.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 37.
 
-El Congreso del Estado de organiza y funciona con los siguientes órganos de Dirección y de Trabajo:
+El Congreso del Estado se organiza y funciona con los siguientes órganos de Gobierno y de Trabajo:
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-I.- La Mesa Directiva del Congreso del Estado o de la Comisión Permanente;
+I.- La Mesa Directiva del Congreso del Estado o de la Comisión Permanente, y, la Junta de Coordinación Política;
 
 II.- Las Comisiones;
 
@@ -523,31 +537,69 @@ III.- Los demás que se consideran necesarios para el cumplimiento de sus atribu
 
 Al órgano de Dirección, denominado Mesa Directiva, le corresponde la conducción del Congreso, que es ejercida por su Presidente y Secretario quienes tendrán la representación legal del Congreso ante todo género de autoridades.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+El órgano de dirección denominado Junta de Coordinación Política se integra con cada uno de los diputados coordinadores de los grupos parlamentarios de los partidos políticos con representación en el Congreso, así como por los diputados pertenecientes a partidos políticos que cuenten con un solo escaño. La Junta de Coordinación Política expresa la pluralidad del Congreso del Estado y toma sus resoluciones por el voto ponderado de sus integrantes, quienes se constituyen en representantes de su Grupo Parlamentario, procurando el máximo consenso posible.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+La Presidencia será elegida de entre sus miembros y se ejercerá por el lapso del período ordinario de sesiones. La Presidencia de la Junta y la Presidencia de la Mesa Directiva del Congreso del Estado no podrán recaer en Diputados del mismo Grupo Parlamentario.
+
 (REFORMADO, P.O. 14 DE ENERO DE 2003) (F. DE E., P.O. 21 DE FEBRERO DE 2003)
 
 ###### ARTICULO 39.
 
 Las Comisiones del Congreso, son órganos de trabajo que se integran de conformidad con esta Ley, y cuyo objeto lo constituye el estudio, consulta, supervisión, vigilancia, investigación, opinión o dictamen de los asuntos que esta Ley o la Mesa Directiva les atribuya o encomiende, para el cumplimiento de las facultades que la Constitución Local le confiere al Congreso del Estado.
 
-(REFORMADO, P.O. 14 DE ENERO DE 2003) (F. DE E., P.O. 21 DE FEBRERO DE 2003)
+> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 40.
 
-Son órganos Técnicos y Administrativos, las áreas profesionales del Congreso del Estado a las que les corresponden tareas de apoyo al órgano de Dirección; así como a los órganos de Trabajo, para el cumplimiento de sus atribuciones constitucionales y legales, siendo éstos:
+Son órganos de Apoyo Parlamentario y Administrativo, las áreas profesionales del Congreso del Estado a las que les corresponden tareas de apoyo a los órganos de Gobierno; así como a los órganos de Trabajo, para el cumplimiento de sus atribuciones constitucionales y legales, siendo estos:
 
-I.- La Oficialía Mayor;
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+I.- La Secretaría de Servicios Parlamentarios; y, la Secretaría de Servicios
+
+Administrativos;
 
 II.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2004)
 
 III.- La Contraloría Interna;
 
-IV.- La Dirección de Asuntos Jurídicos Legislativos;
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+IV.- La Dirección General de Asuntos Jurídicos;
 
 V.- La Dirección de Programación y Gasto Interno;
 
-VI.- La Dirección de Comunicación Social; y
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-VII.- Las demás direcciones u órganos técnicos que sean necesarios para apoyar el cumplimiento de las atribuciones del Congreso del Estado.
+VI.- La Dirección General de Comunicación Social;
+
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+VII.- La Dirección General de Canal del Congreso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+VIII.- La Biblioteca del Congreso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+IX.- El Instituto de Estudios Legislativos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+X.- El Instituto de Estudios de Opinión Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+XI.- El Instituto de Estudios de Economía y Finanzas Públicas del Estado; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+XII.- Las demás direcciones u órganos técnicos que sean necesarios para apoyar el cumplimiento de las atribuciones del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -557,17 +609,19 @@ ARTICULO 40 BIS.- El Órgano de Fiscalización Superior del Estado, es el órgan
 
 #### SECCION I. DE LA MESA DIRECTIVA
 
+> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 41.
 
-La Mesa Directiva del Congreso del Estado, se integrará con un Presidente, Vicepresidente, un Secretario y un Prosecretario.
+La Mesa Directiva del Congreso del Estado, se integrará con un Presidente, un Vicepresidente, un Secretario, un Prosecretario y un Secretario Escrutador.
 
 La integración de la Mesa Directiva se comunicará al Ejecutivo del Estado, al Presidente de Tribunal Superior de Justicia del Estado, a los Ayuntamientos de los Municipios del Estado, a las Cámaras del Congreso de la Unión, a los Congresos de las demás Entidades Federativas y a la Asamblea de Representantes del Distrito Federal, así como a las demás autoridades que se determine.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 42.
 
-Para la integración de la Mesa Directiva, la Comisión de Régimen Interno y Prácticas Parlamentarias presentará al Pleno del Congreso la propuesta de Diputados que integrarán la misma, así como el cargo que ocuparán. En sesión de Congreso, celebrada con anticipación al inicio del período correspondiente, el Pleno elegirá a la Mesa Directiva mediante mayoría simple.
+Para la integración de la Mesa Directiva, la Junta de Coordinación Política presentará al Pleno del Congreso la propuesta de Diputados que integrarán la misma, así como el cargo que ocuparán. En sesión de Congreso, celebrada con anticipación al inicio del período correspondiente, el Pleno elegirá a la Mesa Directiva mediante mayoría simple.
 
 ###### ARTICULO 43.
 
@@ -717,6 +771,16 @@ XI.- Hacer que se entreguen a las Comisiones los asuntos que le correspondan a m
 
 XII.- Las demás que se deriven de la Constitución Local, de esta Ley, sus Reglamentos y de las disposiciones o acuerdos que emita el Congreso del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 53 BIS.- Son atribuciones del Secretario Escrutador:
+
+I. Auxiliar al Presidente en el desempeño de sus funciones;
+
+II. A solicitud del Presidente, en las sesiones del Congreso recoger y computar las votaciones y proclamar sus resultados, cuando así lo disponga el Presidente; y,
+
+III. Las demás que se deriven de la Constitución Local, de esta Ley, sus Reglamentos y de las disposiciones o acuerdos que emita el Congreso del Estado.
+
 ###### ARTICULO 54.
 
 En los casos de que el Secretario deje de asistir injustificadamente a tres sesiones del Pleno del Congreso, dentro del período ordinario correspondiente, se procederá a una nueva elección de Secretario de la Mesa Directiva conforme al procedimiento establecido en el Artículo 52 de la presente Ley.
@@ -731,155 +795,135 @@ LAS COMISIONES
 
 Las Comisiones, como órganos de trabajo del Congreso del estado, conforme a los (sic) dispuesto en el Artículo 39 de esta Ley, les corresponde el ejercicio y cumplimiento de las facultades atribuidas al Congreso por la Constitución Local, así como de acuerdo a su denominación, les corresponde sus funciones en relación a las respectivas áreas de la administración pública estatal o municipal.
 
-Las Comisiones serán definitivas, de dictamen legislativo, ordinarias, de investigación, especiales, así como las demás que cada Legislatura considere necesarias para el cumplimiento de las atribuciones conferidas por la Constitución Local al Congreso.
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+El Congreso cuenta con comisiones que se integran y funcionan de acuerdo a la Constitución del Estado y de esta Ley. Para el despacho de los asuntos a su cargo, continúan funcionando durante los recesos del Congreso del Estado, y atienden los asuntos que les son turnados por la Comisión Permanente.
 
-Sus miembros y cargos correspondientes serán aprobados por el Pleno del Congreso del Estado. Las sustituciones o remociones se harán por conducto de cada Coordinador del Grupo al que pertenezca el Diputado sujeto a tales medidas.
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+Las comisiones de dictamen legislativo conocerán de las iniciativas que correspondan a su materia y serán las responsables de su dictaminación. Elaborarán informes y opiniones, respecto de los asuntos que se les turnan; y ejercen las facultades de información, evaluación y control que les correspondan.
 
-El Pleno del Congreso podrá modificar la integración o distribución de las diversas Comisiones previstas en esta Ley, cuando la composición numérica de los Grupos Parlamentarios se vea afectada.
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+Por acuerdo del Pleno las comisiones se pueden dividir en secciones; éstas conservan el nombre de aquélla y se les adiciona otra denominación que las distinga. Una comisión sólo se divide hasta en 3 secciones. La Comisión propone a la Mesa Directiva la forma de integración de las secciones, su materia y duración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+Las comisiones ordinarias que el Pleno determine para el ejercicio y cumplimiento de las facultades atribuidas al Congreso por la Constitución local, se crean por acuerdo del Pleno a propuesta de la Junta de Coordinación Política; en ningún caso tienen facultades para dictaminar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+El acuerdo que las crea precisa su naturaleza, objeto y plazo de cumplimiento, número y nombre de sus integrantes, la composición de su Mesa Directiva.
+
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 56.
 
-Las Comisiones Definitivas son:
+Las Comisiones de dictamen legislativo son:
 
-I.- De Régimen Interno y Prácticas Parlamentarias;
+1. Asuntos Fronterizos, Comercio, Desarrollo y Fomento Económico e Industrial y Competitividad;
 
-II.- De Legislación y Puntos Constitucionales;
+2. Educación, Cultura, Ciencia y Tecnología;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+3. Fiscalización del Gasto Público;
 
-III.- De Hacienda y Presupuesto;
+4. Hacienda y Presupuesto;
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+5. Jurisdiccional;
 
-IV.- De Fiscalización del Gasto Público;
+6. Justicia;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+7. Gobernación, Legislación y Puntos Constitucionales;
 
-V.- De Vigilancia de Administración y Finanzas; y,
+8. Infraestructura, Comunicaciones y Transportes;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+9. Reforma del Estado;
 
-VI.- De Reforma de Estado.
+10. Reforma del Estado, Primera;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+11. Salud; y
+
+12. Seguridad Publica.
+
+Las comisiones de dictamen legislativo tienen las atribuciones siguientes:
+
+1. Dictaminar las iniciativas, minutas, proyectos y proposiciones que les son turnados;
+
+2. Revisar y evaluar, en lo que corresponde, el informe sobre el estado que guarda la Administración Pública Estatal que presenta el gobernador del estado, así como los que remiten los titulares de las dependencias y entidades estatales, los órganos autónomos y cualquier otro ente público obligado.
+
+En el cumplimiento de sus atribuciones, las comisiones se sujetan a los procedimientos establecidos en la Constitución del estado, de esta Ley, del Reglamento y demás disposiciones aplicables.
+
+La comisión que requiere información de otra, la solicita directamente a través de su Presidente. Igualmente atiende las peticiones de otras comisiones o de diputados relacionadas con asuntos de su competencia. En ambos casos se considera el estado que guardan los asuntos de que se trata.
+
+Las comisiones pueden resolver por sí mismas los asuntos cuya naturaleza y trascendencia así lo requieran, sin que contravengan los ordenamientos relativos.
+
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 57.
 
-Las Comisiones Definitivas, de Dictamen Legislativo y Ordinarias, funcionarán para toda una Legislatura y los Diputados que las integren durarán en sus encargos por el término de toda la Legislatura, pudiendo ser separados de sus cargos o de las mismas, por la causa prevista en esta Ley.
+Los diputados que integren las comisiones de dictamen legislativo durarán en sus cargos por el término de toda la Legislatura, pudiendo ser separados de las mismas por las causas previstas en esta Ley.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+Se integrarán durante los primeros 30 días del primer año de ejercicio constitucional de la Legislatura, a propuesta de la Junta de Coordinación Política, la cual deberá quedar integrada en la primera sesión ordinaria de la Legislatura entrante.
 
-Las Comisiones Definitivas se integrarán durante los primero 30 días del primer año de ejercicio constitucional de la Legislatura, a propuesta de la Comisión de Régimen Interno y Prácticas Parlamentarias, la cual deberá quedar integrada en la primera sesión ordinaria de la Legislatura entrante.
+En tanto órganos colegiados, las comisiones tienen las atribuciones siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+1. Aprobar su Programa de Trabajo;
+
+2. Aprobar el nombramiento del Secretario Técnico propuesto por el Presidente de la Comisión;
+
+3. Autorizar el calendario anual de reuniones ordinarias;
+
+4. Acordar la integración de subcomisiones o grupos de trabajo;
+
+5. Realizar consultas y audiencias, en sede legislativa o fuera de ella, relacionadas con las materias de su competencia;
+
+6. Aprobar el Orden del Día de las reuniones y ratificar, en su caso, el trámite a los asuntos programados;
+
+7. Autorizar, en lo procedente, los informes que presentan la Mesa Directiva de la Comisión, las subcomisiones o los grupos de trabajo;
+
+8. Solicitar información y documentos en términos del artículo 166 de esta Ley;
+
+9. Realizar reuniones de trabajo con servidores públicos, en los términos de la Constitución del estado y la Ley, para ilustrar su juicio en el despacho de los asuntos que les competen;
+
+10. Emitir opiniones que se les solicitan en las materias de su competencia;
+
+11. Presentar al Pleno informe anual o final de actividades, por conducto de su Presidente y, en su caso, los reportes específicos que se les solicitan. Los informes de actividades incluyen, por lo menos: la relación ordenada de asuntos turnados, los trabajos realizados, la documentación generada y el estado en que se encuentran; el cumplimiento del programa de trabajo; actas de las reuniones de trabajo celebradas; viajes realizados y objetivos alcanzados; y la información administrativa y presupuestal que corresponda. El informe se publicará en la Gaceta o en la página de Internet del Congreso; y,
+
+12. Las demás que se derivan de esta Ley y su Reglamento y otras disposiciones aplicables.
 
 ###### ARTICULO 58.
 
-Son Comisiones Ordinarias, las que se constituyen de acuerdo a las necesidades del Congreso del Estado, funcionan para toda una Legislatura y sus miembros se integrarán, sustituirán o removerán de conformidad a lo previsto en esta Ley.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
-
-El Congreso podrá aumentar el número de las Comisiones Ordinarias, según lo exija la importancia de la materia o asunto, éstas se regirán por el Reglamento que determinará su organización y funcionamiento.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+(DEROGADO, G.P. 14 DE OCTUBRE DE 2010)
 
 ###### ARTICULO 59.
 
-La Comisión de Régimen Interno y Prácticas Parlamentarias es la expresión de la pluralidad del Congreso; por lo tanto, es la instancia colegiada en donde se impulsan entendimientos y convergencias políticas, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
+(DEROGADO, G.P. 14 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2005)</small>
-
-La Comisión se integra por los Diputados Coordinadores de los Grupos Parlamentarios debidamente acreditados, así como por los Diputados pertenecientes a Partidos Políticos que cuenten con un solo escaño en el Congreso. La Comisión se conformará por un Presidente, un Secretario y Vocales. La Presidencia de esta Comisión y la Presidencia de la Mesa Directiva del Congreso no podrán coincidir en Diputados del mismo Grupo Parlamentario o en Diputados de partidos políticos que cuenten con un solo escaño en el Congreso.
-
-Atendiendo a su naturaleza, la Comisión tomará sus acuerdos y resoluciones mediante el consenso de todos sus integrantes. En caso contrario, el Presidente de la Comisión hará llegar al Pleno del Congreso las posiciones y propuestas tal y como fueron asumidas por sus autores o promotores, a efecto de que aquél se imponga de ellas y resuelva como corresponda.
-
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 2 DE JULIO DE 2010)</small>
-
-A la Comisión de Régimen Interno y Prácticas Parlamentarias le corresponde desarrollar los siguientes trabajos y facultades:
-
-I.- Auxiliar a la Mesa Directiva a organizar los trabajos del Congreso del Estado y elaborar el calendario de sesiones de cada período para ser presentado en la primera sesión del último mes del período a concluir;
-
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2005)</small>
-
-II.- Suscribir los acuerdos de los Grupos Parlamentarios y de los Diputados pertenecientes a Partidos Políticos que cuenten con un solo escaño en el Congreso, relativos a los asuntos que se van a desahogar en las sesiones del Pleno del Congreso, dejando a salvo los derechos de los Diputados en lo individual, para que planteen cualquier asunto de su interés;
-
-III.- Revisar y proponer al Pleno del Congreso las propuestas de nombramiento o remoción, en su caso, de los titulares de los Órganos Técnico-Administrativos, señalados en el artículo 40 de esta Ley y del Órgano de Fiscalización Superior, recibidas de las Comisiones correspondientes;
-
-IV.- Llevar un registro de criterios parlamentarios y velar por su observancia, debiéndolos entregar a la Presidencia;
-
-V.- Desahogar las consultas respecto de la interpretación y aplicación de esta Ley y sus Reglamentos;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2008)</small>
-
-VI.- Revisar y proponer al Pleno del Congreso, el dictamen relativo a la designación de los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de lo Contencioso Administrativo, del Tribunal de Justicia Electoral, Consejeros de la Judicatura electos por el Congreso, Consejeros Electorales del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana de (sic) Estado, Procurador de Derechos Humanos del Estado y demás servidores públicos conforme a la Constitución Local y las Leyes respectivas, que le remita al Comisión de Legislación y Puntos Constitucionales;
-
-VII.- Revisar y presentar al Pleno del Congreso, el dictamen relativo a la licencia del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, Consejeros de la Judicatura electos por el Congreso y demás servidores públicos conforme a la Constitución Local y las Leyes respectivas, que le remita la Comisión de Legislación y Puntos Constitucionales;
-
-VIII.- Revisar los proyectos de Reglamentos que se deriven de esta Ley y sus reformas, que le remita la Comisión de Legislación y Puntos Constitucionales, y ponerlo a la consideración del Pleno para su aprobación;
-
-IX.- Revisar el proyecto de Presupuesto Anual de Egresos del Congreso y ponerlo a consideración del Pleno para los efectos de la Ley de la Materia;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
-
-X.- Resolver a propuesta de cualquier integrante de la Comisión de Régimen Interno y Prácticas Parlamentarias, la sustitución en las Comisiones de Diputados de partidos políticos que cuenten con un solo escaño en el Congreso, si hubieren incurrido en alguna falta prevista en esta ley;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
-
-XI.- Organizar los tratados del Congreso del Estado para elaborar el Plan, y ponerlo a consideración del Pleno para su aprobación de conformidad con los procedimientos y plazos previstos en esta Ley y el Reglamento, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2010)</small>
-
-XII.- Las demás que le confieran esta Ley, sus Reglamentos y los Acuerdos del Pleno del Congreso del Estado.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE JULIO DE 2010)</small>
-
-Para el ejercicio de sus funciones la Comisión será auxiliada por los titulares de los Órganos Técnico-Administrativos del Congreso, cuando así lo requiera su Presidente.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 60.
 
-Las Comisiones ordinarias y definitivas se integrarán por no menos de tres y no más de seis Diputados. La Comisión de Régimen Interno y Prácticas Parlamentarias cuidará que en ellas se encuentren representados los diferentes Grupos Parlamentarios, así como los Diputados no coordinados, tanto en las Presidencias como en las Secretarías.
+Las Comisiones se integrarán por no menos de tres y no más de seis Diputados. La Junta de Coordinación Política cuidará que en ellas se encuentren representados los diferentes Grupos Parlamentarios, así como los Diputados no coordinados.
 
-Los Diputados podrán formar parte de hasta un máximo de tres Comisiones Definitivas y un mínimo de dos Ordinarias.
-
-La competencia de las Comisiones ordinarias y definitivas son las que se derivan de las facultades que al Congreso asigna la Constitución Local, la presente Ley y su Reglamento.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+La competencia de las comisiones son las que se derivan de las facultades que al Congreso asigna la Constitución Local, la presente Ley y su Reglamento.
 
 ###### ARTICULO 61.
 
-Las Comisiones de dictamen Legislativo, serán las siguientes:
+(DEROGADO, G.P. 14 DE OCTUBRE DE 2010)
 
-I.- De Legislación y Puntos Constitucionales;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-II.- De Hacienda y Presupuesto;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-III.- De Fiscalización del Gasto Público; y,
-
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-IV.- De Reforma de Estado.
+> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 62.
 
-Corresponde a la Comisión de Legislación y Puntos Constitucionales el conocimiento, estudio y dictamen de los siguientes asuntos:
+Corresponde a la Comisión de Gobernación, Legislación y Puntos Constitucionales el conocimiento, estudio y dictamen de los siguientes asuntos:
 
 I.- Los que se refieran a modificaciones a la Constitución Política de los Estados Unidos Mexicanos o la Constitución Local;
 
 II.- Los concernientes a Leyes Reglamentarias u Orgánicas que se deriven de preceptos de la Constitución Local y de los que la Constitución Federal autorice reglamentar;
 
-III.- Los referentes a modificaciones, reformas, adiciones, derogaciones o abrogaciones de Leyes Ordinarias del Estado;
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+III.- Los proyectos turnados a la Comisión de Reforma del Estado y de Reforma del Estado, Primera, que deberán ser dictaminados de manera conjunta;
 
 IV.- La división del territorio del Estado, así como de los convenios que el Ejecutivo del Estado celebre con los Estados vecinos sobre cuestión de límites;
 
@@ -889,55 +933,59 @@ VI.- Sobre la creación de Municipios y distritos locales electorales, en las ci
 
 VII.- Sobre la supresión de aquellos Municipios que dejen de tener la población suficiente o los recursos económicos indispensables para la satisfacción de los servicios municipales, así como de los conflictos sobre límites que se susciten entre los Municipios;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-VIII.- Remitir a la Comisión de Régimen Interno y Prácticas Parlamentarias, el dictamen respecto a la propuesta relativa a la licencia del Gobernador, Diputados, de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Electoral, Consejeros de la Judicatura electos por el Congreso y demás servidores públicos conforme a la Constitución Local y las Leyes respectivas;
+VIII.- Remitir a la Junta de Coordinación Política, el dictamen respecto a la propuesta relativa a la licencia del Gobernador y Diputados conforme a la Constitución Local y las Leyes respectivas;
 
 IX.- Los cambios de residencia de los Poderes del Estado y del Recinto Parlamentario del Congreso del Estado;
 
 X.- La concesión de amnistía, a que se refiere la Constitución Local;
 
-XI.- Sobre la procedencia penal contra los Servidores Públicos del Estado en los términos del Artículo 27 y 94 de la Constitución Local;
+XI.- (DEROGADA, G.P. 14 DE OCTUBRE DE 2010)
 
-XII.- La substanciación de los juicios políticos que se instruyan contra los Servidores Públicos de conformidad con el Artículo 27 y 93 de la Constitución Local;
+XII.- (DEROGADA, G.P. 14 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-XIII.- Remitir a la Comisión de Régimen Interno y Prácticas Parlamentarias, el dictamen respecto a las propuestas de los candidatos a ocupar los cargos de Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de lo Contencioso Administrativo, del Tribunal de Justicia Electoral, Consejeros de la Judicatura electos por el Congreso del Estado, Consejeros Electorales del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana de (sic) Estado, Procurador de los Derechos Humanos del Estado y demás servidores públicos conforme a la Constitución Local y las Leyes respectivas, previa revisión del cumplimiento de los requisitos señalados en las Leyes;
+XIII.- Remitir a la Junta de Coordinación Política, el dictamen respecto a las propuestas de los candidatos a ocupar los cargos de Consejeros Electorales del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana de (sic) Estado;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-XIV.- Presentar a la Comisión de Régimen Interno y Prácticas Parlamentarias, las propuestas de nombramiento o remoción del Titular de la Dirección de Asuntos Jurídicos Legislativos;
+XIV.- Presentar a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Titular de la Dirección General de Asuntos Jurídicos;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+XV.- (DEROGADA, G.P. 14 DE OCTUBRE DE 2010)
 
-XV.- Los acuerdos del Ejecutivo del Estado para asociarse en empresas de participación estatal mayoritaria o minoritaria o para asociarse a los intereses de los particulares en los términos de las Leyes que rijan en la materia;
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+XVI.- Elaborar los proyectos de Reglamentos que se deriven de esta Ley y sus reformas, con base en las propuestas que las Comisiones, la Contraloría Interna o cualquiera de los Diputados le hagan llegar; debiendo remitirlos a la Junta de Coordinación Política;
 
-XVI.- Elaborar los proyectos de Reglamentos que se deriven de esta Ley y sus reformas, con base en las propuestas que las Comisiones, la Contraloría Interna o cualquiera de los Diputados le hagan llegar; debiendo remitirlos a la Comisión de Régimen Interno y Prácticas Parlamentarias;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-XVII.- El conocimiento, estudio y elaboración de dictámenes para la desincorporación de bienes muebles e inmuebles de dominio público, para su enajenación, cambio de destino o desafectación de dichos bienes cuando estén destinados a un servicio público o sean de uso común, solicitada por las Entidades, exceptuando a los Ayuntamientos, y
+XVII.- (DEROGADA, G.P. 14 DE OCTUBRE DE 2010)
 
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 XVIII.- Los demás que le confiera la Constitución Local, esta Ley, sus Reglamentos y los acuerdos emanados del Congreso.
 
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 63.
 
-Para el cumplimiento de las atribuciones señaladas en el artículo que antecede la Comisión de Legislación y Puntos Constitucionales solicitará a la Dirección de Asuntos Jurídicos Legislativos el estudio y análisis respectivo.
+Para el cumplimiento de las atribuciones señaladas en el artículo que antecede la Comisión de Gobernación, Legislación y Puntos Constitucionales solicitará a la Dirección General de Asuntos Jurídicos o a la Consultoría Legislativa el estudio y análisis respectivo.
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 64.
 
-Corresponde a la Comisión de Reforma de Estado el conocimiento, estudio y dictamen de los siguientes asuntos:
+Corresponde a las Comisiones de Reforma del Estado y de Reforma del Estado, Primera, el conocimiento, estudio y dictamen de los siguientes asuntos:
+
+> <small>(ADICIONADA P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 I.- Las que se refieren a modificaciones de la Constitución Local, relacionadas con las modificaciones o cambios estructurales que se requieren para fortalecer el régimen democrático de la sociedad y del Estado; y
 
-II.- Las que se refieren a las modificaciones de Leyes secundarias producto de los acuerdos de la agenda legislativa en materia de Reforma de Estado.
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+II.- Las que se refieren a las modificaciones de Leyes secundarias producto de los acuerdos de la agenda legislativa en materia de Reforma del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 El Reglamento establecerá los mecanismos y procedimientos de organización bajo los cuales funcionará dicha Comisión, quien lo propondrá al Pleno del Congreso para su aprobación.
 
@@ -963,13 +1011,23 @@ II.- De Orden Presupuestal y Crédito Público, el conocimiento, estudio y Dicta
 
 4.- Celebración de contratos, convenios, o actos que afecten cualquier aspecto de la situación presupuestal de las Entidades, cuando sus efectos excedan del período de Gobierno del Ejecutivo del Estado;
 
-5.- Todos los actos, convenios o contratos celebrados entre las Entidades de la Administración Publica Estatal y Municipal o entre éstas con terceros cuando requieran aprobación o autorización del Congreso del Estado.
+5.- Todos los actos, convenios o contratos celebrados entre las Entidades de la Administración Publica Estatal y Municipal o entre éstas con terceros cuando requieran aprobación o autorización del Congreso del Estado;
 
-6.- Los demás asuntos relacionados que le encomiende el Congreso en esta materia y que requieran la elaboración de dictamen o de estudio.
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2003)</small>
+6.- Los acuerdos del Ejecutivo del Estado para asociarse en empresas de participación estatal mayoritaria o minoritaria o para asociarse a los intereses de los particulares en los términos de las Leyes que rijan en la materia;
 
-III.- De Orden Hacendario, el conocimiento, estudio y Dictamen de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+7.- El conocimiento, estudio y elaboración de dictámenes para la desincorporación de bienes muebles e inmuebles de dominio público, para su enajenación, cambio de destino o desafectación de dichos bienes cuando estén destinados a un servicio público o sean de uso común, solicitada por las Entidades, exceptuando a los Ayuntamientos; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+8.- Los demás asuntos relacionados que le encomiende el Congreso en esta materia y que requieran la elaboración de dictamen o de estudio.
+
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+III.- De Orden Hacendario, el conocimiento, estudio y dictamen de los siguientes asuntos:
 
 1.- Iniciativas de Leyes de Ingresos del Gobierno del Estado o de los Municipios;
 
@@ -979,13 +1037,17 @@ III.- De Orden Hacendario, el conocimiento, estudio y Dictamen de los siguientes
 
 4.- Iniciativas de Ley y de reformas a las Leyes, así como los Decretos o Acuerdos para la creación, liquidación, escisión o fusión de Entidades del Ejecutivo del Estado y de los Ayuntamientos;
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-Para el cumplimiento de sus atribuciones, la Comisión de Hacienda y Presupuesto, solicitará al Organo de Fiscalización Superior, el estudio, análisis y opinión de los asuntos que le encomiende, así como la elaboración de los proyectos de dictamen que le correspondan, en los términos de este artículo.
+Para el cumplimiento de sus atribuciones, la Comisión de Hacienda y Presupuesto, solicitará al Instituto de Estudios de Economía y Finanzas Públicas del Estado, el estudio, análisis y opinión de los asuntos que le encomiende, así como la elaboración de los proyectos de dictamen que le correspondan, en los términos de este artículo.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 La Comisión de Hacienda y Presupuesto, presentará a la Comisión de Legislación y Puntos Constitucionales, las propuestas de carácter reglamentario o administrativo que estimen adecuadas para optimizar la organización, funcionamiento y desempeño de sus responsabilidades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+La Comisión de Hacienda y Presupuesto presentará a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Director del Instituto de Estudios de Economía y Finanzas Públicas.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1007,33 +1069,53 @@ a).- Vigilar, coordinar y evaluar el funcionamiento del Órgano de Fiscalizació
 
 IV.- Proponer a la Comisión de Legislación y Puntos Constitucionales, las políticas, manuales de organización y funciones de la propia Comisión de Fiscalización para incorporarse a los Reglamentos de la presente Ley;
 
-V.- Conocer y enviar a la Comisión de Vigilancia de Administración y Finanzas el proyecto de presupuesto anual del Órgano de Fiscalización Superior, cuidando que el monto que se formule sea suficiente para que dicho Órgano cumpla con las atribuciones que establece la Ley de Fiscalización Superior para el Estado de Baja California;
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+V.- Conocer y enviar a la Comisión de Administración y Finanzas el proyecto de presupuesto anual del Órgano de Fiscalización Superior, cuidando que el monto que se formule sea suficiente para que dicho Órgano cumpla con las atribuciones que establece la Ley de Fiscalización Superior para el Estado de Baja California;
 
 VI.- Vigilar y evaluar el avance presupuestal y programático del Órgano de Fiscalización Superior; y,
 
-VII.- Presentar a la Comisión de Régimen Interno y Prácticas Parlamentarias, las propuestas de nombramiento o remoción del Titular del Órgano de Fiscalización Superior.
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+VII.- Presentar a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Titular del Órgano de Fiscalización Superior.
 
 Para el cumplimiento de sus atribuciones, la Comisión de Fiscalización del Gasto Público, ordenará al Órgano de Fiscalización Superior el estudio, análisis y opinión de los asuntos que le encomiende, así como el conocimiento, estudio y elaboración de los anteproyectos de dictamen con motivo del resultado de la fiscalización la Cuenta Pública Anual de las Entidades Fiscalizables, previstas en la Ley de Fiscalización Superior para el Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+La Comisión de Fiscalización del Gasto Público podrá solicitar al Instituto de Estudios de Economía y Finanzas Públicas el estudio, análisis y opinión de los asuntos que le encomiende.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 67.
 
-Corresponde a la Comisión de Vigilancia de Administración y Finanzas, el conocimiento, estudio y resolución de los siguientes asuntos:
+Corresponde a la Comisión de Administración y Finanzas, el conocimiento, estudio y resolución de los siguientes asuntos:
 
 I.- Poner a la consideración de la Comisión de Legislación y Puntos Constitucionales, las políticas, manuales de organización y funciones de los Órganos Técnico-Administrativos señalados en el artículo 40 de esta Ley, así como las relativas a dicha Comisión, para incorporarse a los Reglamentos de la presente Ley;
 
-II.- Elaborar el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, con base en los montos, metas y programas que hubieren formulado los Órganos Técnico-Administrativos señalados en el artículo 40 de esta Ley y el Órgano de Fiscalización Superior y, ponerlo a la consideración de la Comisión del Régimen Interno y Prácticas Parlamentarias para los fines previstos en esta Ley;
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-III.- Solicitar opinión a las Comisiones cuya actividad y funciones se encuentren relacionadas con los servicios que prestan los Órganos Técnico-Administrativos o el Órgano de Fiscalización Superior, con relación a las necesidades presupuestales planteadas por dichos Órganos;
+II.- Elaborar el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, con base en los montos, metas y programas que hubieren formulado los Órganos de Apoyo Parlamentario y Administrativos señalados en el artículo 40 de esta Ley y el Órgano de Fiscalización Superior y, ponerlo a la consideración de la Junta de Coordinación Política para los fines previstos en esta Ley;
 
-IV.- Someter a la consideración de la Comisión de Régimen Interno y Prácticas Parlamentarias, el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, cuidando que el monto del presupuesto que se proponga sea suficiente para que cada uno de los Órganos Técnicos-Administrativos del Congreso y el Órgano de Fiscalización Superior, cumplan eficientemente con sus atribuciones y funciones legales, reglamentarias y programáticas;
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-V.- Evaluar el avance presupuestal y programático de cada uno de los Órganos Técnicos-Administrativos del Congreso;
+III.- Solicitar opinión a las Comisiones cuya actividad y funciones se encuentren relacionadas con los servicios que prestan los Órganos de Apoyo Parlamentario y Administrativo o el Órgano de Fiscalización Superior, con relación a las necesidades presupuestales planteadas por dichos Órganos;
 
-VI.- Supervisar el desempeño de las áreas de apoyo Parlamentario, evaluando y proponiendo medidas que tiendan a eficientar el Registro Parlamentario, Biblioteca del Congreso e Informática Legislativa; y,
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-VII.- Presentar a la Comisión de Régimen Interno y Prácticas Parlamentarias, las propuestas de nombramiento o remoción de los Titulares de la Oficialía Mayor, y de la Dirección de Programación y Gasto Interno.
+IV.- Someter a la consideración de la Junta de Coordinación Política, el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, cuidando que el monto del presupuesto que se proponga sea suficiente para que cada uno de los Órganos de Apoyo Parlamentario, Administrativo y el Órgano de Fiscalización Superior, cumplan eficientemente con sus atribuciones y funciones legales, reglamentarias y programáticas;
+
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+V.- Evaluar el avance presupuestal y programático de cada uno de los Órganos de Apoyo Parlamentario y Administrativo del Congreso;
+
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+VI.- Supervisar el desempeño de las áreas de apoyo Parlamentario y Administrativo, evaluando y proponiendo medidas que tiendan a eficientar su labor; y,
+
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+VII.- Presentar a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Titular de la Dirección de Programación y Gasto Interno.
 
 ARTICULO 67 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
@@ -1049,6 +1131,26 @@ Las Comisiones Unidas serán de carácter transitorio y se extinguirán cumplido
 
 Las Comisiones de Investigación y las especiales se constituyen con carácter de transitorio, funcionarán en los términos de esta Ley, cuando así lo acuerde el Pleno del Congreso y conocerán específicamente de los hechos o asuntos que hayan motivado su integración.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+Los resultados de las investigaciones se podrán hacer del conocimiento del Ejecutivo del estado por conducto del Presidente de la Mesa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+Estas comisiones se extinguen al cumplir su objeto, al considerar el Pleno concluidas sus actividades de forma anticipada o, en su caso, al término de la Legislatura en la cual se constituyeron. El Presidente formaliza ante el Pleno la declaratoria correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+Si al concluir el plazo previsto una comisión especial no ha cumplido su objeto, el Pleno puede prorrogarlo a propuesta de la Mesa Directiva de la Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+Por acuerdo del Pleno, a propuesta de la Junta de Coordinación Política, se pueden crear comités, en el que se señala su forma de integración, objeto y duración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+Los comités tienen a su cargo la gestión de tareas específicas, distintas de las asignadas a las comisiones, relativas al funcionamiento del Congreso.
+
 ###### ARTICULO 70.
 
 El Quórum legal en cada sesión de las comisiones se integra, por la asistencia de más de la mitad de los integrantes de las comisiones y tomarán sus decisiones por mayoría simple de sus miembros. Sus Presidentes tendrán voto de calidad en caso de empate.
@@ -1060,6 +1162,8 @@ Los votos particulares serán declarativos y su fin es el de dejar asentada una 
 ###### ARTICULO 71.
 
 Cuando algún Diputado integrante de una comisión tuviere interés particular en un asunto que sea objeto de Dictamen, se abstendrá de intervenir y lo comunicará de inmediato y por escrito al Presidente a fin de que se le sustituya en el caso de que se trate.
+
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 72.
 
@@ -1083,49 +1187,79 @@ Quien presente una iniciativa podrá solicitar por escrito anexo o en el plazo d
 
 Los miembros de las Comisiones no tendrán derecho a ninguna retribución adicional a su dieta como diputados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-### CAPITULO III. DE LOS ÓRGANOS TÉCNICO Y ADMINISTRATIVOS
+### CAPITULO III. DE LOS ÓRGANOS DE APOYO PARLAMENTARIO Y ADMINISTRATIVO
 
-#### SECCION I. DE LA OFICIALÍA MAYOR
+> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE2010)</small>
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+#### SECCION I
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+A. DE LA SECRETARÍA DE SERVICIOS ADMINISTRATIVOS
+
+> <small>(REFORMADO Y REUBICADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 76.
 
-La Oficialía Mayor es el órgano técnico dependiente y auxiliar del Poder Legislativo, cuya función es la dirección y administración de los recursos humanos, materiales y financieros, así como la ejecución y realización de los asuntos de esta naturaleza. Sus atribuciones y facultades serán las conferidas por esta Ley y el Reglamento Interior.
+La Secretaría de Servicios Administrativos es el órgano de apoyo administrativo dependiente y auxiliar del Poder Legislativo, cuya función es la dirección y administración de los recursos humanos, materiales y financieros, así como la ejecución y realización de los asuntos de esta naturaleza. Sus atribuciones y facultades serán las conferidas por esta Ley y el Reglamento Interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO Y REUBICADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 #### SECCION II. DE LA CONTADURÍA MAYOR DE HACIENDA
 
 ###### ARTICULO 77.
 
-Al frente de la Oficialía Mayor estará como titular, un Oficial Mayor, quien será nombrado y removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso.
+Al frente de la Secretaría de Servicios Administrativos estará como titular, un Secretario de Servicios Administrativos, quien será nombrado y removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+El Secretario de Servicios Administrativos deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
 
-El Oficial Mayor deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
+La Secretaría de Servicios Administrativos contará con dos Direcciones Generales, una de Servicios Administrativos y otra de Gestión y Vinculación.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+La Dirección General de Administración tendrá a su cargo la Contabilidad y Finanzas, los Recursos Humanos, los Materiales, la labor Informática y Telecomunicaciones, la Oficialía de Partes y demás funciones necesarias para el desempeño de su cargo.
 
-La Oficialía Mayor contará con los Departamentos y Jefaturas de Recursos Humanos, Materiales y, de Contabilidad y Finanzas y demás que sean necesarios para el desempeño de sus funciones. Éste designará y removerá directamente el personal a su cargo, conforme a las previsiones presupuestales.
+La Dirección General de Gestión y Vinculación estará encargada de la Vinculación, la Gestión y de la Garantía de Acceso y Transparencia de la Información; y demás que sean necesarias para el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+El Secretario de Servicios Administrativos designará y removerá directamente el personal a su cargo, conforme a las previsiones presupuestales.
 
-El Reglamento Interior fijará los requisitos que deberá reunir el titular de la Oficialía Mayor, así como las facultades y obligaciones que correspondan a los Departamentos y Jefaturas así como del personal que dependa del mismo.
+El Reglamento Interior fijará los requisitos que deberá reunir el titular de la Secretaría de Servicios Administrativos, así como las facultades y obligaciones que correspondan al personal que dependa del mismo.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios Administrativos, estará bajo la vigilancia y control de la Comisión de Administración y Finanzas del Congreso del Estado.
 
-El desempeño de las atribuciones y obligaciones de la Oficialía Mayor, estará bajo la vigilancia y control de la Comisión de Vigilancia de Administración y Finanzas del Congreso del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+B. DE LA SECRETARÍA DE SERVICIOS PARLAMENTARIOS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 77 BIS.- La Secretaría de Servicios Parlamentarios es el órgano de apoyo parlamentario dependiente y auxiliar del Poder Legislativo, cuya función es el apoyo en la dirección del proceso parlamentario, incluido el registro parlamentario, los servicios de Asistencia a la Presidencia de la Mesa Directiva, el apoyo en las sesiones y reuniones de carácter parlamentario; la asesoría a la Junta de Coordinación Política, a las Comisiones y los demás Órganos de Apoyo Parlamentario; la dirección del Diario de los Debates, la Gaceta Parlamentaria y el Archivo.
+
+Al frente de la Secretaría de Servicios Parlamentarios estará como titular, un Secretario de Servicios Parlamentarios, quien será nombrado y removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso. Sus atribuciones y facultades serán las conferidas por esta Ley y el Reglamento Interior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 77 TER.- El Secretario de Servicios Parlamentarios deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
+
+La Secretaría de Servicios Parlamentarios contará con dos Direcciones Generales, una de Proceso Parlamentario y otra de Consultoría Legislativa.
+
+La Dirección General de Proceso Parlamentario, tiene a su cargo el Registro Parlamentario, el Apoyo Parlamentario, el Seguimiento a Comisiones, el Protocolo y el Archivo, y demás funciones necesarias para el desempeño de su encargo.
+
+La Dirección General de Consultoría Legislativa tiene por objeto asesorar, analizar y emitir opinión de viabilidad y técnica legislativa sobre las iniciativas, propuestas, solicitudes de estudio y apoyo requeridas por el Pleno del Congreso o las Comisiones en los asuntos de naturaleza jurídica y legislativa que se le planteen, de conformidad con esta Ley y sus Reglamentos.
+
+El Secretario de Servicios Parlamentarios será auxiliado por el personal que sea necesario para el adecuado y eficiente desempeño de sus funciones; designará y removerá directamente el personal a su cargo de acuerdo a las previsiones presupuestales.
+
+El Reglamento Interior fijará los lineamientos que deberá cumplir el personal de dicho Órgano, sus facultades y obligaciones.
+
+El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios Parlamentarios, estará bajo la vigilancia y control de la Mesa Directiva.
 
 #### SECCION III. DE LA CONTRALORÍA INTERNA
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-#### SECCION IV. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS LEGISLATIVOS
+#### SECCION IV. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 78.
 
@@ -1157,25 +1291,33 @@ El Director será auxiliado por los Departamentos y el personal que sea necesari
 
 El Reglamento Interior fijará los requisitos que deberá reunir el titular de dicho órgano, así como las facultades y obligaciones que correspondan a las unidades y al personal que dependa del mismo.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-El desempeño de las atribuciones y obligaciones de la Dirección de Programación y Gasto Interno del Congreso del Estado, estará bajo la vigilancia y control de la Comisión de Vigilancia de Administración y Finanzas.
+El desempeño de las atribuciones y obligaciones de la Dirección de Programación y Gasto Interno del Congreso del Estado, estará bajo la vigilancia y control de la Comisión de Administración y Finanzas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 80.
 
-El Congreso del Estado contará con una Contraloría Interna, cuyo titular será nombrado o removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso, a propuesta de la Comisión de Régimen Interno y Prácticas Parlamentarias.
+El Congreso del Estado contará con una Contraloría Interna, cuyo titular será nombrado o removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso, a propuesta de la Junta de Coordinación Política.
 
-La Contraloría Interna es un órgano dependiente del Pleno del Congreso del Estado, que lo auxilia en las funciones de control y evaluación del desempeño de las áreas administrativas de los Órganos Técnico-Administrativos y del Órgano de Fiscalización Superior, así como en la atención de quejas, investigación, procedimientos disciplinarios e imposición de sanciones del personal adscrito a los mismos, conforme lo dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, esta Ley y su Reglamento. Además, tiene a su cargo la revisión, inspección y auditoría interna del ejercicio del presupuesto de egresos del Congreso.
+La Contraloría Interna es un órgano dependiente del Pleno del Congreso del Estado, que lo auxilia en las funciones de control y evaluación del desempeño de las áreas administrativas de los Órganos de Apoyo Parlamentario y Administrativo y del Órgano de Fiscalización Superior, así como en la atención de quejas, investigación, procedimientos disciplinarios e imposición de sanciones del personal adscrito a los mismos, conforme lo dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, esta Ley y su Reglamento. Además, tiene a su cargo la revisión, inspección y auditoría interna del ejercicio del presupuesto de egresos del Congreso.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-#### SECCION VI. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+#### SECCION VI. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL Y DEL CANAL DEL CONGRESO
 
 > <small>(ADICIONADO, P.O. 14 DE ENERO DE 2003)</small>
 
 ARTICULO 83 QUATER.- La Dirección de Comunicación Social es el órgano técnico cuya función será, atender, estudiar, diseñar y ejecutar las estrategias de comunicación social para el Poder Legislativo del Estado; así como difundir las actividades legislativas, fortalecer la imagen del Congreso y de los Diputados en sus relaciones con los medios de comunicación, de conformidad con esta Ley y el Reglamento Interior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+El Congreso del estado para la difusión de sus actividades, y de acuerdo con la legislación en la materia, contará con un canal de televisión, que se denomina Canal del Congreso del Estado de Baja California dependiente de la Dirección de Comunicación Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+El Canal tiene por objeto reseñar y difundir la actividad parlamentaria que corresponde a las responsabilidades del Congreso, así como contribuir a informar, analizar y discutir pública y ampliamente la situación de los problemas de la realidad nacional, del estado y los municipios vinculados con la actividad legislativa.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1197,13 +1339,29 @@ El Reglamento Interior fijará los requisitos que deberá reunir el titular de d
 
 El desempeño de las atribuciones y obligaciones de la Dirección de Comunicación Social, estará bajo la vigilancia y control de la Comisión de Comunicación Social y Relaciones Públicas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+El Director del Canal del Congreso será nombrado y removido libremente por la mayoría absoluta del Pleno del Congreso, a propuesta de la Mesa Directiva y quedará subordinado a la misma, estableciendo vínculo de trabajo con la Dirección de Comunicación Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+La vigilancia, evaluación del desempeño y el Plan de Trabajo del Canal del Congreso quedarán a cargo de la Comisión de Comunicación Social y Relaciones Públicas del Congreso del Estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+El Director del Canal del Congreso será auxiliado por el personal que sea necesario para el adecuado y eficiente desempeño de sus funciones; designará y removerá directamente el personal a su cargo de acuerdo a las previsiones presupuestales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+El Reglamento Interior fijará los lineamientos que deberá cumplir el personal de dicho Órgano, sus facultades y obligaciones.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON EL ARTICULO QUE LA INTEGRA], G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 81.
 
-La Contraloría Interna propondrá a la Comisión de Vigilancia de Administración y Finanzas, las políticas, manuales de organización y funciones de ese Órgano y de los demás Órganos Técnico-Administrativos, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan.
+La Contraloría Interna propondrá a la Comisión de Administración y Finanzas, las políticas, manuales de organización y funciones de ese Órgano y de los demás Órganos de Apoyo Parlamentario y Administrativo, que permitan optimizar y eficientar los recursos humanos y materiales, así como la calidad de los servicios que se prestan.
 
-En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de los Titulares de los Órganos Técnico-Administrativos y del Órgano de Fiscalización Superior.
+En el desempeño de sus funciones, la Contraloría Interna contará con el apoyo y la colaboración de los Titulares de los Órganos Apoyo (sic) Parlamentario y Administrativo y del Órgano de Fiscalización Superior.
 
 ARTICULO 81 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
@@ -1213,47 +1371,79 @@ ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
-#### SECCION I
+#### SECCION VII. DE LA BIBLIOTECA DEL CONGRESO DE BAJA CALIFORNIA
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 83 SEXIES.- El Congreso del estado cuenta con una Biblioteca a través de la cual se conservan, man tienen (sic) y acrecientan los acervos bibliográficos y de otros contenidos científico, cultural o informativo. Para contribuir al cumplimiento de las atribuciones del propio Congreso, sus comisiones y legisladores. Estos acervos tendrán carácter público.
+
+La Biblioteca del Congreso del Estado contará con los siguientes Institutos:
+
+I. Instituto de Estudios Legislativos;
+
+II. Instituto de Estudios de Economía y Finanzas Públicas del Estado; y,
+
+III. Instituto de Estudios sobre la Opinión Pública.
+
+El Instituto de Estudios Legislativos es la instancia que realiza de manera preponderante la actividad de investigación aplicada a las actividades legislativas del Congreso de Baja California y, por ende, trate de la investigación aplicada a los temas que interesan a los legisladores y a los Órganos de Trabajo del Poder Legislativo, concretados en el Plan de Desarrollo Legislativo.
+
+El Instituto de Estudios de Economía y Finanzas Públicas es la instancia que contribuye a la función legislativa en materia de estudios económicos y sociales así como la eficiencia en la ejecución del gasto publico, mediante el análisis, seguimiento y evaluación técnica de las políticas de gobierno y el apoyo directo a los Órganos de Gobierno, de Trabajo y de los diputados de una manera objetiva y apartidista.
+
+El Instituto de Estudios sobre la Opinión Pública es la instancia que de manera objetiva, imparcial y oportuna, brinda los servicios de apoyo técnico e información analítica requerida para el cumplimiento de las funciones del Congreso, conforme al Plan de Desarrollo Legislativo y con apego a los criterios de investigación científica en materia de estudios de la opinión pública.
+
+La Biblioteca del Congreso, así como los Institutos con los que cuenta, estarán conformados por un servicio profesional de apoyo apartidista a las tareas parlamentarias del congreso, sus comisiones y legisladores.
+
+Para las plazas de director e investigadores titulares de la Biblioteca y los Institutos, serán elegibles de manera preferente quienes hayan obtenido el grado académico de maestría o superior en el área de conocimiento reconocido o sean miembros del Sistema Nacional de Investigadores del CONACyT. Sus funciones serán compatibles con las tareas remuneradas docentes en instituciones de educación.
+
+Los Titulares de la Biblioteca del Congreso, del Instituto de Estudios Legislativos y del Instituto de Estudios sobre Opinión Pública, serán nombrados y removidos libremente por la mayoría absoluta del Pleno del Congreso, a propuesta de la Junta de Coordinación Política.
+
+El Titular del Instituto de Estudios de Economía y Finanzas Públicas será nombrado y removido libremente por la mayoría del Pleno del Congreso, a propuesta de la Comisión de Hacienda y Presupuesto.
+
+Sus Titulares serán auxiliados por el personal que sea necesario para el adecuado y eficiente desempeño de sus funciones; designarán y removerán directamente al personal a su cargo de acuerdo a las previsiones presupuestales.
+
+El Reglamento Interior fijará los lineamientos que deberá cumplir el personal de dicho Órgano, sus facultades y obligaciones.
+
+El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios Parlamentarios, estará bajo la vigilancia y control de la Mesa Directiva.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 82.
 
 Corresponde a la Contraloría Interna, el despacho de los siguientes asuntos:
 
-I.- Recibir y registrar las declaraciones patrimoniales que deban presentar los Diputados, servidores públicos de los Órganos Técnico-Administrativos y del Órgano de Fiscalización Superior del Congreso y, verificar las investigaciones que fueren pertinentes de acuerdo con las Leyes y Reglamentos;
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-II.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos de los Órganos Técnico-Administrativos y del Órgano de Fiscalización Superior del Congreso, para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público prestándole para tal efecto la colaboración que le fuere requerida; y,
+I.- Recibir y registrar las declaraciones patrimoniales que deban presentar los Diputados, servidores públicos de los Órganos de Apoyo Parlamentario y Administrativo y del Órgano de Fiscalización Superior del Congreso y, verificar las investigaciones que fueren pertinentes de acuerdo con las Leyes y Reglamentos;
+
+> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+II.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos de los Órganos de Apoyo Parlamentario y Administrativo y del Órgano de Fiscalización Superior del Congreso, para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público prestándole para tal efecto la colaboración que le fuere requerida; y,
 
 III.- Atender las quejas o denuncias que se presenten mediante escrito firmado, por particulares o servidores públicos de los Ayuntamientos o de los Poderes Ejecutivo y Judicial, con motivo del incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado.
 
+> <small>(REFORMADA SU DENOMINACION , G.P. 14 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 83.
 
-La Dirección de Asuntos Jurídicos Legislativos es el órgano dependiente y auxiliar del Congreso del Estado, cuya función será la de asesorar, analizar y emitir opinión jurídica sobre las iniciativas, propuestas, solicitudes de estudio y apoyo requeridas por el Pleno del Congreso o las Comisiones en los asuntos de naturaleza jurídica y legislativa que se le planteen, de conformidad con esta Ley y sus Reglamentos. Al frente de la Dirección de Asuntos Jurídicos Legislativos del Congreso del Estado, estará como titular un Director, quien será nombrado y removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso.
+La Dirección General de Asuntos Jurídicos es el órgano dependiente y auxiliar del Congreso del Estado cuyo objetivo es asesorar y atender los asuntos legales del Congreso del Estado en sus aspectos consultivos y contenciosos. Al frente de la Dirección General de Asuntos Jurídicos del Congreso del Estado, estará como titular un Director General, quien será nombrado y removido por la mayoría absoluta de los Diputados integrantes del Pleno del Congreso.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+El Director General de Asuntos Jurídicos deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
 
-El Director de Asuntos Jurídicos Legislativos deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-El Director de Asuntos Jurídicos Legislativos será auxiliado por el personal que sea necesario para el adecuado y eficiente desempeño de sus funciones; designará y removerá directamente el personal a su cargo, conforme a las previsiones presupuestales.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+El Director General de Asuntos Jurídicos será auxiliado por el personal que sea necesario para el adecuado y eficiente desempeño de sus funciones; designará y removerá directamente el personal a su cargo, conforme a las previsiones presupuestales.
 
 El Reglamento Interior fijará los requisitos que deberá reunir el titular de dicho órgano, así como las facultades y obligaciones que correspondan a las unidades y al personal que dependa del mismo.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
-
-El desempeño de las atribuciones y obligaciones de la Dirección de Asuntos Jurídicos Legislativos, estará bajo la vigilancia y control de la Comisión de Legislación y Puntos Constitucionales.
+El desempeño de las atribuciones y obligaciones de la Dirección General de Asuntos Jurídicos, estará bajo la vigilancia y control de la Comisión de Gobernación, Legislación y Puntos Constitucionales.
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
+
+#### SECCION I
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
 #### SECCION II
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-#### SECCION I. DEL CEREMONIAL DE LAS SESIONES
 
 ###### ARTICULO 84.
 
@@ -1267,11 +1457,13 @@ El Congreso del Estado de conformidad con el artículo 36 de la Constitución Lo
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
 
-#### SECCION II. DE LA FORMA Y PERIODICIDAD DE LAS SESIONES
+#### SECCION I. DEL CEREMONIAL DE LAS SESIONES
 
 ### CAPITULO IV. DE LA COMISION PERMANENTE
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 14 DE ENERO DE 2003)</small>
+
+#### SECCION II. DE LA FORMA Y PERIODICIDAD DE LAS SESIONES
 
 ###### ARTICULO 86.
 
@@ -1337,13 +1529,17 @@ El Congreso del Estado deberá celebrar sus sesiones en el salón denominado "Be
 
 Las Comisiones sesionarán en las salas de juntas ubicadas en el edificio del Poder Legislativo o en los lugares que para tal efecto se acuerde en cada una de ellas con anterioridad y previa autorización de sus integrantes, debiendo de notificar de su cambio a la Presidencia del Congreso para los efectos de hacerla pública.
 
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 91.
 
-De toda sesión se levantará versión taquigráfica, estenográfica o con ayuda de medios electrónicos adecuados para ello, por personal especializado de la Oficialía Mayor del Congreso del Estado, debiendo transcribir exactamente lo dicho en la Sesión. La falta de esta acción acarreará responsabilidades para el Oficial Mayor.
+De toda sesión se levantará versión taquigráfica, estenográfica o con ayuda de medios electrónicos adecuados para ello, por personal especializado de la Secretaría de Servicios Parlamentarios, debiendo transcribir exactamente lo dicho en la Sesión. Esta transcripción será publicada en la página de internet o en la Gaceta Parlamentaria cuando así lo disponga obligatoriamente esta ley o lo acuerde la Comisión, pero en todo caso se guardará registro electrónico de la misma. La falta de esta acción acarreará responsabilidades para el titular de la Secretaría de Servicios Parlamentarios.
+
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 92.
 
-De toda sesión se elaborará por el Secretario acta circunstanciada en los términos establecidos en la presente Ley.
+De toda sesión se elaborará por el Secretario acta circunstanciada en los términos establecidos en la presente Ley, para su publicación en la Gaceta Parlamentaria.
 
 ###### ARTICULO 93.
 
@@ -1375,11 +1571,11 @@ Todas las personas sin excepción alguna tienen el derecho de asistir a presenci
 
 El libre acceso del público al recinto parlamentario será garantizado por el Presidente del Congreso por conducto del personal de vigilancia de la Oficialía Mayor, con excepción de los casos que así lo acuerde el Pleno del Congreso de limitar el acceso del público al recinto parlamentario, mediante tarjetas o invitaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-###### ARTICULO 96.
+###### ARTÍCULO 96.
 
-No se permitirá la entrada al edificio del Poder Legislativo o al recinto parlamentario, a personas que se presenten armadas, con el rostro cubierto, en estado de embriaguez o bajo la influencia de alguna sustancia tóxica, narcótica o enervante o pretendan introducir objetos extraños sin someterlos a la inspección del personal de vigilancia de la Oficialía Mayor del Congreso del Estado.
+No se permitirá la entrada al edificio del Poder Legislativo o al recinto parlamentario, a personas que se presenten armadas, con el rostro cubierto, en estado de embriaguez o bajo la influencia de alguna sustancia tóxica, narcótica o enervante o pretendan introducir objetos extraños sin someterlos a la inspección del personal de vigilancia del Congreso del Estado.
 
 No son objetos extraños, para efectos de esta Ley, las mantas o pancartas que manifiesten expresiones que no representen injurias contra alguna persona o institución.
 
@@ -1491,13 +1687,7 @@ En lo referente a las formalidades de las sesiones solemnes se estará a lo que 
 
 ###### ARTICULO 108.
 
-Son sesiones privadas aquellas que:
-
-I.- Se celebren para tratar asuntos que deba conocer el Congreso del Estado erigido en Jurado de Sentencia de conformidad con lo establecido por el último párrafo del Artículo 93 de la Constitución Local;
-
-II.- Se celebren para tratar asuntos que determine el Pleno del Congreso, a moción de uno o varios de sus integrantes o a petición de los Titulares de los Poderes Ejecutivo y Judicial o de los Ayuntamientos; y,
-
-III.- Las Sesiones de las Comisiones, excepto en los casos a que se refiere el Artículo 73 de esta Ley.
+(DEROGADO, G.P. 14 DE OCTUBRE DE 2010)
 
 ###### ARTICULO 109.
 
@@ -1505,15 +1695,17 @@ Todas las sesiones del Congreso del Estado serán públicas, con excepción de l
 
 ### CAPITULO II. DE LAS INICIATIVAS
 
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 110.
 
-Las Iniciativas que se presenten al Congreso del Estado, podrán ser:
+Los proyectos que se presenten al Congreso del Estado, podrán ser:
 
-I.- De Ley o de reformas a una Ley vigente;
+I.- Iniciativa de Ley o de reformas a una Ley vigente;
 
-II.- De decreto, y
+II.- Iniciativa con proyecto de decreto; y,
 
-III.- De acuerdo económico.
+III.- Proposición con Punto de Acuerdo.
 
 ###### ARTICULO 111.
 
@@ -1523,15 +1715,17 @@ Son Iniciativas de ley, las que tiendan a una resolución que contemple la forma
 
 Son Iniciativas de reformas de ley, las que tiendan a introducir reformas consistentes en modificación, derogación o adición a un ordenamiento jurídico vigente.
 
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 113.
 
-Es Iniciativa de decreto aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales en mandamientos particulares y concretos.
+Es Iniciativa con proyecto de decreto aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales en mandamientos particulares y concretos.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 114.
 
-Es iniciativa de acuerdo económico, la determinación que tienda a una resolución que por su naturaleza no requiera de sanción, promulgación y publicación o que fije la posición del Congreso del Estado respecto de algún hecho, acontecimiento o fenómeno social.
+Es proposición con punto de acuerdo, la determinación que tienda a una resolución que por su naturaleza no requiera de sanción, promulgación y publicación o que fije la posición del Congreso del Estado respecto de algún hecho, acontecimiento o fenómeno social.
 
 ###### ARTICULO 115.
 
@@ -1549,7 +1743,9 @@ V.- Al Instituto Estatal Electoral, exclusivamente en materia electoral; y,
 
 VI.- A los ciudadanos residentes en el Estado, en los términos que establezca la Ley.
 
-Toda petición de particulares o autoridades que no tengan derecho de Iniciativa, se turnará por el Presidente del Congreso a la Comisión de dictamen legislativo que corresponda, según la naturaleza del asunto de que se trate, la que determinará si son de tomarse o no en consideración. En los casos que procedan la Comisión de dictamen legislativo la hará suya para presentarla como Iniciativa.
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+Toda petición de particulares o autoridades que no tengan derecho de Iniciativa, se turnará por el Presidente del Congreso a la Comisión que corresponda, según la naturaleza del asunto de que se trate, la que determinará si son de tomarse o no en consideración. En los casos que procedan, la Comisión la hará suya para presentarla como Iniciativa.
 
 ###### ARTICULO 116.
 
@@ -1571,23 +1767,27 @@ En el caso de las iniciativas ciudadanas que no reúnan los requisitos relativos
 
 Todas las iniciativas podrán ser retiradas del proceso legislativo hasta antes de que sean dictaminadas por la Comisión respectiva, mediante escrito firmado por el inicialista o quien legalmente lo represente, dirigido al Presidente del Congreso o de la Comisión Permanente, motivando la causa de su retiro.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-###### ARTICULO 118.
+###### ARTÍCULO 118.
 
-Todas las iniciativas se turnarán por el Presidente del Congreso a las Comisiones de dictamen legislativo que corresponda conforme a la presente Ley; una vez estudiadas, analizadas y discutidas formularán el dictamen correspondiente, sujetándolo a votación en los términos del Artículo 149 de esta Ley.
+Todo proyecto se turnará por el Presidente del Congreso a la Comisión que corresponda según la naturaleza del asunto de que se trate.
 
-Si del estudio y análisis de las iniciativas dentro de las Comisiones de dictamen legislativo es necesario complementarlas o clarificarlas, bastará con que así lo manifieste su inicialista o alguno de los integrantes de la Comisión, a través de una adenda en forma escrita, hasta antes de que sean dictaminadas por la Comisión respectiva.
+Las iniciativas de ley que presenten los legisladores deberán turnarse para su análisis a los Institutos según su materia. El informe de su análisis se hará del conocimiento de la comisión a que se haya turnado la iniciativa de ley.
 
-El dictamen se presentará al Pleno del Congreso en los plazos señalados en el Artículo 124 de esta Ley, para el cumplimiento de las fracciones II y III del Artículo 29 Constitucional.
+Asimismo, las iniciativas de ley que presenten los legisladores, deberán turnarse para su estudio al Instituto de Estudios de Economía y Finanzas Públicas sobre las Finanzas Públicas, al efecto de que produzca un informe de su posible impacto en el presupuesto al momento de su aplicación. El informe será remitido para el conocimiento de la comisión a que se haya turnado la iniciativa de ley en un plazo no mayor de 20 días naturales.
+
+El dictamen se presentará al Pleno del Congreso en los plazos señalados en el artículo 124 de esta Ley, para el cumplimiento de las fracciones II y III del artículo 29 Constitucional.
 
 ###### ARTICULO 119.
 
 Solo podrá dispensarse del trámite de ser turnada una iniciativa a la Comisión competente, en los asuntos que por acuerdo del Pleno del Congreso del Estado, por mayoría simple y en votación nominal, se califiquen de urgente y de obvia resolución, de conformidad con lo dispuesto en la Constitución Local, la presente ley y su reglamento.
 
+> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 120.
 
-Las Comisiones de Dictamen Legislativo respectivas, anunciarán al Ejecutivo del Estado, a los Ayuntamientos y al Poder Judicial, cuando menos con cinco días de anticipación la fecha de la Sesión, a efecto de que concurran al desahogo de las sesiones si lo estiman conveniente; a presentar o hacer valer sus opiniones o alegatos, tal y como lo establece el Artículo 30 de la Constitución Local; además de que el mismo procedimiento se seguirá con el Tribunal de Justicia Electoral y el Instituto Estatal Electoral, cuando la Iniciativa se refiera a los asuntos de carácter Electoral.
+Las Comisiones de Dictamen Legislativo respectivas, anunciarán al Ejecutivo del Estado, a los Ayuntamientos y al Poder Judicial, cuando menos con cinco días de anticipación la fecha de la Sesión, a efecto de que concurran al desahogo de las sesiones si lo estiman conveniente; a presentar o hacer valer sus opiniones o alegatos, tal y como lo establece el Artículo 30 de la Constitución Local; además de que el mismo procedimiento se seguirá con el Tribunal de Justicia Electoral y el Instituto Electoral y de Participación Ciudadana de Baja California, cuando la Iniciativa se refiera a los asuntos de carácter Electoral.
 
 ###### ARTICULO 121.
 
@@ -1927,23 +2127,137 @@ Los servidores públicos que no concurran a las sesiones correspondientes, se ha
 
 Para la designación de los Servidores Públicos que por disposición Constitucional o Legal le corresponda realizar al Poder Legislativo, se atenderá al procedimiento previsto en el Reglamento, excepto en los casos en que dicho procedimiento se encuentre regulado por otro ordenamiento legal.
 
-## TITULO OCTAVO. DECLARACIÓN PATRIMONIAL
+> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE 2010)</small>
 
-### CAPITULO UNICO
+## TITULO OCTAVO
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, G.P. 14 DE OCTUBRE DE 2010)</small>
+
+### CAPITULO PRIMERO. DECLARACIÓN PATRIMONIAL
+
+> <small>(REFORMADO Y REUBICADO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 168.
 
-Tienen la obligación de presentar su declaración de situación patrimonial en los plazos que la Ley de la materia lo señale, bajo protesta de decir verdad, los Diputados, Oficial Mayor, Auditor Superior de Fiscalización del Estado, Directores, Coordinadores, Jefes de Departamento, Auditores y Analistas.
+Tienen la obligación de presentar su declaración de situación patrimonial en los plazos que la Ley de la materia lo señale, bajo protesta de decir verdad, los Diputados, los Titulares de los Órganos de Apoyo Parlamentario y Administrativo, el Auditor Superior de Fiscalización del Estado, los Directores Generales, Directores de Área, Coordinadores, Jefes de Departamento, Auditores y Analistas.
+
+(REUBICADO, G.P. 14 DE OCTUBRE DE 2010)
 
 ###### ARTICULO 169.
 
 La declaración patrimonial será presentada ante la Contraloría Interna del Congreso del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+### CAPITULO SEGUNDO. DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 169 BIS.- Como sujeto obligado en materia de transparencia y acceso a la información política gubernamental, el Congreso del Estado garantiza el acceso de toda persona a la información de que dispone, en los términos de la Constitución y ley de la materia del estado, y de esta Ley y su Reglamento.
+
+El Comité de Garantía de Acceso y Transparencia de la Información del Congreso del estado es el órgano garante, especializado e imparcial, dotado de autonomía operativa y de gestión, responsable de coordinar y supervisar el adecuado cumplimiento de la ley de la materia por parte de los órganos y unidades administrativas del Congreso del estado.
+
+Corresponde también al Comité realizar las funciones que la ley le asigna, incluidas la de determinar la información reservada o confidencial, así como la de desahogar los recursos de revisión que se presentan.
+
+El Comité de Garantía de Acceso y Transparencia de la Información es nombrado e integrado por el Pleno a propuesta de la Junta de Coordinación Política. Su Presidencia está a cargo del diputado que determine el acuerdo de su creación y durará en su encargo el periodo de la Legislatura correspondiente.
+
+La Dirección de Garantía de Acceso y Transparencia de la Información será el órgano operativo encargado del cumplimiento de las disposiciones del presente artículo.
+
+(REUBICADO, G.P. 14 DE OCTUBRE DE 2010)
+
 ###### ARTICULO 170.
 
 Todas las quejas o denuncias del personal del Congreso del Estado, se presentarán ante la Contraloría Interna.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+## TITULO NOVENO. DE LA GACETA Y EL DIARIO DE LOS DEBATES DEL CONGRESO DEL ESTADO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 171.
+
+"La Gaceta" es el órgano informativo oficial del Congreso del Estado. Depende de la Mesa y cuenta con un Consejo Directivo, formado por los propios miembros de la Mesa y por los Secretarios de Servicios Parlamentarios y de Servicios Administrativos; el Presidente de la Mesa lo es del Consejo.
+
+La Gaceta está a cargo de la Secretaría de Servicios Parlamentarios. Los procedimientos previstos para su elaboración y difusión se desarrollan en esta Ley, en el Reglamento y en el Estatuto de los Servicios Parlamentarios, Administrativos y Técnicos del Congreso del Estado.
+
+La Gaceta publica en medios impresos o en la página de Internet del Congreso del estado, lo siguiente:
+
+I. Los citatorios a las diversas actividades del Congreso;
+
+II. El Proyecto de Orden del Día de las sesiones del Pleno;
+
+III. Las comunicaciones oficiales dirigidas al Congreso;
+
+IV. Las solicitudes de licencia de los diputados;
+
+V. Las comunicaciones de particulares dirigidas al Congreso;
+
+VI. Los proyectos de ley iniciados por los ciudadanos o los ayuntamientos, y los proyectos de ley o decreto remitidos por el gobernador del estado;
+
+VII. Las proposiciones con punto de acuerdo o los acuerdos sobre el régimen interior del Congreso que presentan sus órganos de gobierno;
+
+VIII. Los cambios aprobados en la integración de las comisiones y los comités;
+
+IX. Las proposiciones con punto de acuerdo que presentan los legisladores;
+
+X. Las observaciones sobre proyectos de ley o decreto enviadas por el Titular del Poder Ejecutivo Estatal;
+
+XI. Las actas, informes, resoluciones, acuerdos, declaraciones y pronunciamientos del Pleno, la Mesa, la Junta, las comisiones y los comités;
+
+XIII (SIC). Los dictámenes de las comisiones y los votos particulares;
+
+XIV. Los informes de las representaciones y delegaciones del Congreso que asistan a reuniones interparlamentarias o internacionales;
+
+XV. La información sobre administración y los servicios del Congreso;
+
+XVI. Las convocatorias y los proyectos de Orden del Día de las reuniones de comisiones y de comités;
+
+XVII. El registro de asistencia e inasistencia de los diputados a las sesiones del Pleno;
+
+XVIII. El registro de asistencia e inasistencia de los diputados a las reuniones de comisiones y de comités;
+
+XIX. Las reformas a los ordenamientos que rigen la vida interna del Poder Legislativo una vez aprobadas por el Pleno; y,
+
+XX. Los demás documentos oficiales que dispongan la Mesa y la Junta.
+
+La Gaceta se publica los días cuando sesiona el Pleno y podrá publicarse los demás días hábiles.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 172.
+
+El Congreso del estado cuenta con un órgano oficial de información denominado "Diario de los Debates", donde consta la siguiente información de las sesiones del Pleno:
+
+1. Lugar, fecha y hora del inicio y término de cada sesión;
+
+2. Carácter de la sesión;
+
+3. Declaratoria del quórum;
+
+4. Orden del día;
+
+5. Nombre del Presidente y de quienes presidan la sesión durante su desarrollo;
+
+6. Copia fiel del acta de la sesión anterior;
+
+7. Transcripción de los debates en el orden en que se realizan;
+
+8. Intervenciones de los diputados en tribuna y desde las curules;
+
+9. Textos leídos;
+
+10. Textos no leídos cuya inserción ordenan el Presidente o el Pleno;
+
+11. Documentos a los que se de turno;
+
+12. Propuestas y resoluciones aprobadas;
+
+13. Dictámenes y votos particulares y;
+
+14. Resultado de las votaciones.
+
+El Diario de los Debates se publica dentro de los cinco días hábiles posteriores al término de la sesión, indistintamente en medio impreso o en la página electrónica del Congreso en Internet.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2052,3 +2366,13 @@ P.O. 2 DE JULIO DE 2010.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas y continúan vigentes los actos, resoluciones, acuerdos y demás disposiciones de carácter general emitidas con fundamento en la Ley que se reforma.
+
+G.P. 14 DE OCTUBRE DE 2010.
+
+PRIMERO.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+(NOTA: EL 18 DE MARZO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CAPÍTULOS XV Y XVI ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 70/2010 (CONEXA CON LA CONTROVERSIA CONSTITUCIONAL 84/2010), SE DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO SEGUNDO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 09 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+SEGUNDO.- TODA VEZ QUE LAS PRESENTES REFORMAS SOLO IMPLICAN MODIFICACIONES AL RÉGIMEN INTERNO DEL PODER LEGISLATIVO, ENTRARÁN EN VIGOR AL MOMENTO DE SU APROBACIÓN POR EL PLENO DEL CONGRESO DEL ESTADO Y SE PUBLICARÁN EN LA GACETA DEL PODER LEGISLATIVO.
+
+TERCERO.- Los Órganos de Apoyo Parlamentario y Administrativo que se agregan a la Estructura Orgánica del Poder Legislativo, iniciarán sus funciones conforme lo permita la disponibilidad presupuestal del Congreso del Estado de Baja California. Corresponderá a la Comisión de Administración y Finanzas la asignación de los recursos que se requieran para su adecuado funcionamiento.
