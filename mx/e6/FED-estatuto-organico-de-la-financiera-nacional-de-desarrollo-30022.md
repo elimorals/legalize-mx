@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-financiera-nacional-de-desarrollo-30022
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-04-21"
-last_updated: "2010-07-20"
+last_updated: "2010-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30022&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-04-09"
 
 ESTATUTO ORGANICO DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE OCTUBRE DE 2010.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 21 de abril de 2003.
 
@@ -2125,11 +2125,11 @@ IV. Tamaulipas, y
 
 V. Durango.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 58.
 
-La Coordinación Regional Centro-Occidente tendrá como sede la ciudad de Querétaro, Querétaro y se adscriben a su competencia las siguientes entidades federativas:
+La Coordinación Regional Centro-Occidente tendrá como sede la ciudad de Guadalajara, Jalisco y se adscriben a su competencia las siguientes entidades federativas:
 
 I. (DEROGADA, D.O.F. 3 DE JUNIO DE 2010)
 
@@ -2622,5 +2622,9 @@ D.O.F. 3 DE JUNIO DE 2010.
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
 
 D.O.F. 20 DE JULIO DE 2010.
+
+UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE OCTUBRE DE 2010.
 
 UNICO.- La presente reforma al Estatuto Orgánico entra en vigor al día siguiente de su aprobación por el H. Consejo Directivo y deberá publicarse en el Diario Oficial de la Federación.
