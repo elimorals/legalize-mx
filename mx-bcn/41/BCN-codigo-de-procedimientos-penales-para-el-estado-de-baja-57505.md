@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2010-04-23"
+last_updated: "2010-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 359, SE DECLARA INCORPORADO AL ORDEN JURÍDICO DE BAJA CALIFORNIA, A TRAVÉS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, EL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL QUE SE CONSAGRA EN EL PRIMER PÁRRAFO DEL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL P.O. DE 23 DE ABRIL DE 2010.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1697,13 +1695,21 @@ Detención en caso urgente.- De actualizarse los supuestos previstos en el artí
 
 Los agentes de policía que ejecuten una orden de detención por caso urgente, deberán presentar inmediatamente al imputado ante el Ministerio Público que haya emitido dicha orden, quien ordenará que el detenido sea conducido ante el Juez dentro de un plazo de cuarenta y ocho horas, contado desde que la detención se hubiere practicado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO NUMERO 440 QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 166.
 
-Audiencia de control de Detención.- Inmediatamente después de que el imputado detenido en flagrancia o caso urgente sea puesto a disposición del Juez de Garantía, éste deberá convocar a una audiencia en la que le informará de sus derechos constitucionales y legales si no se le hubiese informado de los mismos con anterioridad y procederá a calificar la detención, ratificándola en caso de encontrarse ajustada a la Ley o decretando la libertad con las reservas de Ley, en caso contrario.
+Audiencia de Control de Detención.- Inmediatamente después de que el imputado detenido en flagrancia o caso urgente sea puesto a disposición del Juez de Garantía, se convocará a una audiencia en la que se le informarán de sus derechos constitucionales y legales si no se hubiere hecho esto con anterioridad y se calificará la detención, ratificándola en caso de encontrarse ajustada a la Ley o decretando la libertad con las reservas de Ley, en caso contrario.
 
 A esta audiencia deberá concurrir el Ministerio Público, quien deberá justificar ante el Juez los motivos de la detención. La ausencia del Ministerio Público en la audiencia dará lugar a la liberación del detenido si ya se hubiere agotado el término de las cuarenta y ocho horas.
 
-Cuando el imputado ha sido aprehendido después de habérsele formulado la imputación y ha sido puesto a disposición del Juez, éste convocará inmediatamente a una audiencia en la que, a solicitud del Ministerio Público, podrá revocar, modificar o sustituir la medida cautelar decretada con anterioridad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO NUMERO 440 QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+Cuando el imputado ha sido aprehendido después de habérsele formulado la imputación y ha sido puesto a disposición del Juez, se convocará inmediatamente a una audiencia en la que, a solicitud del Ministerio Público, podrá revocar, modificar o sustituir la medida cautelar decretada con anterioridad.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3029,9 +3035,9 @@ IV. La mención de las circunstancias modificatorias de la responsabilidad penal
 
 V. La autoría o participación que se atribuye al imputado;
 
-VII. La pena que el Ministerio Público solicite y los medios de prueba relativos a la individualización de la misma;
+VI. Los medios de prueba que el Ministerio Público se propone producir en el juicio oral;
 
-VII. La pena que el Ministerio Público solicite y los medios de prueba en el juicio oral;
+VII. La pena que el Ministerio Público solicite y los medios de prueba relativos a la individualización de la misma;
 
 VIII. El daño que, en su caso, se considere se haya causado a la víctima u ofendido, y los medios de prueba que ofrezcan para acreditarlo; y
 
@@ -4611,7 +4617,15 @@ III.- Como ordenamiento jurídico supletorio de la Ley contra la Delincuencia Or
 
 IV.- Como ordenamiento jurídico supletorio de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, hasta en tanto se reforme esta Ley y se establezca disposición expresa en la que se señale que el citado Código ha dejado de ser supletorio.
 
-V.- Como ordenamiento jurídico supletorio de la Ley de Justicia de Adolescentes para el Estado de Baja California publicada el día 27 de octubre de 2006 en el Periódico Oficial del Estado.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+V.- Como ordenamiento jurídico supletorio de la Ley de Justicia de Adolecentes para el Estado de Baja California publicada el día 27 de octubre de 2006 en el Periódico Oficial del Estado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+VI.- Como ordenamiento jurídico aplicable en los delitos contra la salud en su modalidad de narcomenudeo de competencia estatal que se señalan en el capítulo VII del título XVIII de la Ley General de Salud.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 El Código de Procedimientos Penales publicado en el Periódico Oficial del Estado de fecha 20 de agosto de 1989, podrá seguir siendo reformado o adicionado hasta en tanto se siga actualizando alguno de los supuestos contenidos en las fracciones anteriores.
 
@@ -4698,3 +4712,15 @@ b.- El tres de mayo del año 2012 en el Municipio de Ensenada
 c.- El tres de mayo del año 2013 en los Municipios de Tijuana, Playas de Rosarito y Tecate.
 
 SEGUNDO.- Publíquese el presente en el Periódico oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+DECRETO Nº 440 SE APRUEBA LA REFORMA DEL ARTICULO 166 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+Único.- La presente reforma entrará en vigor en el Municipio de Mexicali al día siguiente de su publicación en el Periódico Oficial del Estado, mientras que en el resto de los municipios será en términos de lo que disponen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales para el Estado publicado el 19 de octubre de 2007 en el Periódico Oficial de Estado.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+DECRETO Nº 446, SE APRUEBA LA REFORMA AL ARTICULO SEGUNDO TRANSITORIO DEL NUEVO CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
