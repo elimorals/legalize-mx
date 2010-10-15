@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2010-07-02"
+last_updated: "2010-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -937,11 +937,17 @@ Los jueces de lo Penal tendrán las siguientes atribuciones:
 
 I.- Conocer de todos los asuntos de carácter penal que no estén encomendados por esta Ley a la jurisdicción de los jueces de Paz.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Conocer de las órdenes de protección.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-III.- Designar al personal que durante los períodos vacacionales deban quedar de guardia.
+II.- Designar al personal que durante los periodos vacacionales deban quedar de guardia.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+III.- Informar de inmediato y en su caso dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente.
 
 IV.- Las demás que les confieren las leyes.
 
@@ -953,6 +959,10 @@ Los Jueces de Garantía, ejercerán las facultades que determinen las disposicio
 
 Para el nuevo sistema de justicia penal, se contará con el número de Jueces de Garantía que sean indispensables para la adecuada aplicación del citado sistema y de conformidad con la disponibilidad presupuestal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+Los Jueces de Garantía estarán investidos de fe pública para constancia y certificación de sus actos.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 81 Ter.
@@ -960,6 +970,14 @@ Para el nuevo sistema de justicia penal, se contará con el número de Jueces de
 Los Tribunales de Juicio Oral estarán integrados por tres Jueces de Garantía, Jueces que no deberán haber conocido del asunto en las etapas previas al juicio oral que deba resolver el Tribunal al que se integran.
 
 Los Tribunales de Juicio Oral tendrá las atribuciones que determinen las disposiciones normativas aplicables y sus decisiones se tomarán por unanimidad o por mayoría de votos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+El Presidente del Tribunal de Juicio Oral estará investido de fe pública para constancia y certificación de los actos de este órgano colegiado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+El Tribunal de Juicio Oral especializado en Justicia para Adolecentes (sic) será Unitario. El Juez de Garantías que lo integre no deberá haber conocido del asunto en las etapas previas al juicio oral que deba resolver.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
@@ -1174,6 +1192,10 @@ Los jueces serán suplidos automáticamente en sus faltas temporales que no exce
 ###### ARTICULO 95.
 
 Las faltas temporales de los jueces, por más de dos meses, serán cubiertas por la persona que nombre el Pleno del Consejo de la Judicatura conforme a lo dispuesto en el Título Octavo, de esta ley.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 95 BIS.- Las faltas temporales de los Jueces de Garantía serán cubiertas por la persona que nombre el Pleno del Tribunal Superior de Justicia del Estado conforme a lo dispuesto en el Titulo Octavo, de esta ley.
 
 ###### ARTICULO 96.
 
@@ -1681,41 +1703,21 @@ La Administración, Vigilancia, Disciplina y Carrera Judicial del Poder Judicial
 
 El Consejo de la Judicatura del Estado velará, en todo momento, por la autonomía de los Organos del Poder Judicial del Estado y por la independencia e imparcialidad de los miembros de éste último.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 156.
 
-El Consejo de la Judicatura del Estado, se integrará por siete Consejeros, en los términos del artículo 65 de la Constitución Política del Estado y funcionará en Pleno o a través de Comisiones, además contará con un Secretario General.
+El Consejo de la Judicatura, se integrará por siete Consejeros, en los términos de las fracciones I, II, III, IV y V del artículo 64 de la Constitución Local y funcionará en Pleno o a través de Comisiones, además contará con un Secretario General.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2005)</small>
+El Consejo de la Judicatura entrará en funciones el día 1 de diciembre del año en que corresponda realizar las designaciones de nuevos Consejeros. Para tal efecto el Tribunal Superior de Justicia, el Congreso del Estado y el Gobernador del Estado efectuarán las designaciones directas con la debida anticipación.
 
-En los términos del segundo y tercer párrafo del artículo 65 de la Constitución Política del Estado, el Consejo de la Judicatura entrará en funciones el día 1 de diciembre del año en que corresponda realizar las designaciones de nuevos consejeros.
+Los Magistrados del Tribunal Superior de Justicia así como el Juez que desempeñen el cargo de Consejeros no recibirán por esta función, compensación, estímulos o cualquier otra prestación en dinero o en especie adicional a la que reciban como titulares de sus respectivos órganos jurisdiccionales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2005)</small>
-
-Para efecto de lo anterior, el Congreso y el Pleno del Tribunal Superior de Justicia, efectuarán las designaciones, a más tardar el 30 de noviembre del año que corresponda.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2005)</small>
-
-Los magistrados de los Tribunales Superior de Justicia y de Justicia Electoral, así como el Juez Consejero, no recibirán por desempeñar este cargo, compensación, estímulos o cualquier otra prestación en dinero o en especie adicional a la que reciban como titulares de sus respectivos órganos jurisdiccionales.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 157.
 
-El Consejo de la Judicatura del Estado, se integrará por siete Consejeros, en los términos del artículo 65 de la Constitución Política del Estado, y funcionará en Pleno o a través de Comisiones en forma permanente, en los términos de su calendario anual de actividades colegiadas que en Pleno aprobará durante la primera sesión del año a propuesta del Presidente o de sus Consejeros.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE NOVIEMBRE DE 2005)</small>
-
-Para insacular al Magistrado del Tribunal Superior de Justicia y al Juez a que hace mención el segundo párrafo del artículo 65 de la Constitución Política del Estado, se deberá agotar el siguiente procedimiento:
-
-I.- El Pleno del Tribunal Superior de Justicia, deberá emitir convocatoria en la cual, se invite a los Magistrados y Jueces que tengan interés en participar como Consejeros de la Judicatura. Esta convocatoria deberá ser publicada en el Boletín Judicial, órgano de difusión del Poder Judicial del Estado;
-
-II.- En la citada convocatoria se establecerán cinco días naturales, para que los Magistrados y Jueces, manifiesten su interés de formar parte del Consejo, mediante carta de intención;
-
-III.- Una vez agotada la etapa contenida en la fracción anterior, los Magistrados y Jueces, tendrán diez días naturales para presentar al Pleno del Tribunal Superior de Justicia, la documentación que acredite que se cumplen con los requisitos, que para ser Consejero se señalan en los artículos 60 y 65 párrafo segundo de la Constitución Política del Estado; y
-
-IV.- El Pleno del Tribunal Superior de Justicia, dentro de los cinco días naturales siguientes a la conclusión de la etapa prevista en la fracción anterior, procederá a analizar la documentación de los aspirantes a Consejeros, notificando en su caso, la falta de algún requisito a los interesados. Una vez agotado lo anterior, procederá a efectuar en sesión pública, la insaculación de los nombres de entre aquellos que hubiesen reunido los requisitos.
+EI Pleno del Consejo de la Judicatura, aprobará durante la primera sesión del año a propuesta de su Presidente, su calendario anual de actividades colegiadas.
 
 ###### ARTICULO 158.
 
@@ -2063,7 +2065,9 @@ II.- Realizar las actividades administrativas que sean necesarias, para la buena
 
 III.- Supervisar las funciones del personal que tenga adscrito y a su cargo y evaluar su desempeño.
 
-IV.- Distribuir las causas penales a los Jueces de Garantía y Tribunales de Juicio Oral conforme a un procedimiento objetivo, aleatorio y general, procurando una correcta programación de las audiencias de acuerdo al sistema informático.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+IV.- Distribuir el despacho judicial y las audiencias a los Jueces de Garantía y Tribunales de Juicio Oral, cuando proceda, conforme a un procedimiento objetivo, aleatorio y general, procurando una correcta programación de las audiencias de acuerdo al sistema informático.
 
 V.- Establecer el orden de guardias de los Jueces de Garantía.
 
@@ -2081,7 +2085,13 @@ XI.- Custodiar los bienes y valores que se encuentren a disposición de los Juec
 
 XII.- Entregar y recibir bajo inventario los bienes y valores a que se refieren las fracciones X y XI de este artículo.
 
-XIII.- Ejercer las demás funciones que le sean asignadas por el Presidente del Consejo de la Judicatura.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XIII.- Asignar, conforme a las disposiciones que expida el Presidente del Consejo de la Judicatura, a uno o varios Jueces de Garantía, a las unidades judiciales donde deban ejercer su jurisdicción.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XIV.- Ejercer las demás funciones que le sean asignadas por el Presidente del Consejo de la Judicatura.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE JULIO DE 2010)</small>
 
@@ -2893,7 +2903,7 @@ XI.- Remitir al Congreso del Estado, para su aprobación, y previo acuerdo del P
 
 XII.- Llamar a los Magistrados Supernumerarios, para cubrir las ausencias temporales o definitivas de los Magistrados Electorales del Tribunal, en el orden de prelación que haya señalado el Congreso del Estado al momento de su designación, previo acuerdo del Pleno.
 
-XIII.- Incorporarse al Consejo de la Judicatura, en los términos que disponga esta Ley.
+XIII.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
 
@@ -3832,3 +3842,25 @@ Cuando la suplencia exceda del término de un mes, se estará a lo dispuesto en 
 ###### ARTICULO NOVENO.
 
 Las reglas establecidas en los artículos transitorios cuarto, quinto, sexto, séptimo y octavo, entrarán en vigor en los partidos judiciales de Ensenada, Tijuana, Tecate y Playas de Rosarito un mes antes de que empiece a aplicarse el nuevo sistema de justicia penal, conforme a lo establecen las fracciones I y II del artículo primero transitorio del Código de Procedimientos Penales, publicado el día 19 de Octubre de 2007 en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 440, SEGUNDO POR EL QUE SE APRUEBA LA ADICION DE UN ARTICULO 95 BIS Y SE REFORMAN LOS ARTICULOS 81 BIS, 81 TER Y 197 BIS-2 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+Primero.- La presente adición y las reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Segundo.- Hasta en tanto este vigente el periodo de la reserva a que se refiere el artículo sexto transitorio del Decreto No. 144 publicado en el Periódico Oficial del Estado de fecha 14 de noviembre de 2008 y que se modifica a través de este Decreto de reformas, las faltas temporales de los Jueces de Garantía serán cubiertas por quienes designe el Pleno del Tribunal Superior de Justicia de entre las personas que forman parte de la citada reserva.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 446, CUARTO POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 81 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
+
+SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 450, POR EL QUE SE REFORMAN LOS ARTICULOS 156 Y 157 Y SE DEROGA LA FRACCION XIII DEL ARTICULO 253 DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado."
