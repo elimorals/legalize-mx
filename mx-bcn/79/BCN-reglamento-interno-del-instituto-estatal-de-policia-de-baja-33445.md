@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-estatal-de-policia-de-baja-334
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-01"
-last_updated: "2003-08-01"
+last_updated: "2010-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO ESTATAL DE POLICIA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA ACADEMIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. 15 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de agosto de 2003.
 
@@ -762,3 +764,17 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE SEGURIDAD PÚBLICA
 
 MANUEL DÍAZ LERMA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+Artículo Primero.- El presente Reglamento entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
+
+Articulo Segundo.- Se abroga el Decreto que crea el Instituto Estatal de Seguridad Pública, publicado en el Periódico Oficial del Estado de Baja California No. 11, de fecha nueve del mes de marzo del año dos mil siete; así como el Reglamento Interno del Instituto Estatal de Policía del Estado Baja California publicado en el Periódico Oficial del Estado de Baja California No. 36, de fecha primero de agosto de 2003;
+
+Artículo Tercero.- Se derogan todas las disposiciones que se contrapongan al presente Reglamento.
+
+Artículo Cuarto.- Los procedimientos administrativos en la materia iniciados conforme anterioridad a la entrada en vigor del presente Reglamento, se sustanciarán y resolverán de conformidad la normatividad que se abroga.
+
+Artículo Quinto.- La Academia de Seguridad Pública del Estado de Baja California, deberá emitir el Estatuto General del Centro de Formación y Capacitación Policial, dentro de los ciento ochenta días siguientes al inicio de vigencia de este Reglamento.
