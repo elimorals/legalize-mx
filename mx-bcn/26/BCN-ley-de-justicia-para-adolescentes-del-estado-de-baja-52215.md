@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-para-adolescentes-del-estado-de-baja-52215"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2010-09-24"
+last_updated: "2010-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDARA SIN VIGENCIA PROGRESIVAMENTE POR EL ARTICULO PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 24 DE SEPTIEMBRE DE 2010.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 27 de octubre de 2006.
 
@@ -227,7 +225,7 @@ VI.- En caso de que no designe para su defensa a un Licenciado en Derecho, o se 
 
 VII.- En caso de ser indígenas, extranjeros, sordos, mudos o no sepan leer ni escribir ser asistidos en todos los actos procesales, por un defensor particular o de oficio, que comprenda plenamente su idioma, lengua o dialecto o en su defecto que dicho defensor se auxilie de un traductor;
 
-VIII.- Ser informados, en un lenguaje claro y accesible, sin demora y personalmente, o a través de representantes legales o encargados de su cuidado, sobre las razones por las que se les detiene, juzga, o impone una medida; la persona que les atribuye la realización de la conducta tipificada como delito; las consecuencias de la atribución de la conducta, así como de la detención, juicio y medida; los derechos y garantías que les asisten en todo momento y que podrán disponer de defensa jurídica gratuita;
+VIII.- Ser informados, en un lenguaje claro y accesible, sin demora y personalmente, o a través de representantes legales o encargados de su cuidado, sobre las razones por las que se les detiene, juzga o impone una medida; la persona que les atribuye la realización de la conducta tipificada como delito; las consecuencias de la atribución de la conducta, así como de la detención, juicio y medida; los derechos y garantías que les asisten en todo momento y que podrán disponer de defensa jurídica gratuita;
 
 IX.- Que se le permita en todo momento la comunicación con sus representantes legales o con persona de su confianza;
 
@@ -561,7 +559,7 @@ Los defensores de oficio adscritos a los Juzgados y a las Agencias del Ministeri
 
 ###### Artículo 38.
 
-Los Defensores de Oficio Especializados para Adolescentes se encuentran adscritos a la Defensoría de Oficio del Estado de Baja California. Las bases de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del cargo, serán definidos por esa dependencia. Sus atribuciones serán reguladas por la Ley de la Defensoría de Oficio del Estado de Baja California y las demás disposiciones legales aplicables.
+Los Defensores de Oficio Especializados para Adolescentes se encuentran adscritos a la Defensoría de Oficio del Estado de Baja California. Las bases de organización, formación especializada y los procedimientos de ingresos, promoción, permanencia y terminación del cargo, serán definidos por esa dependencia. Sus atribuciones serán reguladas por la Ley de la Defensoría de Oficio del Estado de Baja California y las demás disposiciones legales aplicables.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO
 
@@ -873,17 +871,17 @@ El juicio deberá realizarse en dos etapas, la primera para determinar la existe
 
 El juicio será continuo y se desarrollará en forma ininterrumpida durante todas las audiencias consecutivas que fueren necesarias hasta su conclusión. Se podrá suspender por única vez y por un plazo máximo de tres días hábiles consecutivos, cuando:
 
-I. Se deba resolver una cuestión incidental que no pueda, por su naturaleza, resolverse inmediatamente;
+I.- Se deba resolver una cuestión incidental que no pueda, por su naturaleza, resolverse inmediatamente;
 
-II. Tenga que practicarse algún acto fuera de la sala de audiencias, incluso cuando una revelación inesperada torne indispensable una investigación suplementaria y no sea posible cumplir los actos en el intervalo de dos sesiones;
+II.- Tenga que practicarse algún acto fuera de la sala de audiencias, incluso cuando una revelación inesperada torne indispensable una investigación suplementaria y no sea posible cumplir los actos en el intervalo de dos sesiones;
 
-III. No comparezcan testigos, peritos o intérpretes, deba practicarse una nueva citación y sea imposible o inconveniente continuar la audiencia hasta que ellos comparezcan, incluso coactivamente por intermedio de la fuerza pública;
+III.- No comparezcan testigos, peritos o intérpretes, deba practicarse una nueva citación y sea imposible o inconveniente continuar la audiencia hasta que ellos comparezcan, incluso coactivamente por intermedio de la fuerza pública;
 
-IV. Alguno de los participantes cuya comparecencia sea obligatoria, enferme a tal grado que no pueda continuar interviniendo en el juicio;
+IV.- Alguno de los participantes cuya comparecencia sea obligatoria, enferme a tal grado que no pueda continuar interviniendo en el juicio;
 
-V. El defensor o el representante del Ministerio Público para Adolescentes no puedan ser reemplazados inmediatamente en caso de que enfermen gravemente, o por fallecimiento, o
+V.- El defensor o el representante del Ministerio Público para Adolescentes no puedan ser reemplazados inmediatamente en caso de que enfermen gravemente, o por fallecimiento, o
 
-VI. Alguna catástrofe o algún hecho extraordinario torne imposible su continuación.
+VI.- Alguna catástrofe o algún hecho extraordinario torne imposible su continuación.
 
 El Juez para Adolescentes ordenará los aplazamientos que se requieran, indicando la fecha y la hora en que continuará la audiencia. No será considerado un aplazamiento el descanso de fin de semana o en día inhábil, siempre que la audiencia continúe al día hábil siguiente.
 
@@ -933,7 +931,7 @@ Nunca se podrán incorporar como medio de prueba, o dar lectura, a las actas o d
 
 ###### Artículo 86.
 
-Terminada la recepción de las pruebas, el Juez para Adolescentes concederá sucesivamente la palabra al representante del Ministerio Público para Adolescentes y luego al defensor, para que, en ese orden, emitan sus alegatos conclusivos.
+Terminada la recepción de las pruebas, el Juez para Adolescentes concederá sucesivamente la palabra al representante del Ministerio Público para Adolescentes y luego al defensor, para que, en ese orden emitan sus alegatos conclusivos.
 
 En caso de manifiesto abuso de la palabra, el Juez para Adolescentes llamará la atención a la parte y si ésta persiste, podrá limitar racionalmente el tiempo del alegato, según la naturaleza y complejidad de los hechos en examen, las pruebas recibidas y las cuestiones a resolver.
 
@@ -1609,6 +1607,12 @@ XIV.- Pornografía Infantil, prevista por el artículo 261-Bis del Código Penal
 
 XV.- Terrorismo en su tipo genérico, previsto en el artículo 279 del Código Penal, exceptuando su encubrimiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+Para fines del otorgamiento de la libertad provisional bajo caución, tratándose de la clasificación como graves de las conductas tipificadas como delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, se observarán las disposiciones del Código Federal de Procedimientos Penales.
+
 ###### Artículo 160.
 
 El Juez para Adolescentes deberá determinar el tiempo de duración de la medida, para lo cual tomará en cuenta lo siguiente:
@@ -1921,6 +1925,12 @@ VI.- Los horarios y lineamientos generales para los servicios de alimentación.
 
 Los objetos, instrumentos y productos que hayan sido utilizados para la comisión de la conducta tipificada como delito, serán asegurados por las autoridades ministeriales o jurisdiccionales, según corresponda.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+En lo que respecta al destino y destrucción de los narcóticos a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, se estará a lo dispuesto por el Código Federal de Procedimientos Penales.
+
 ###### Artículo 196.
 
 Si al detener al adolescente le fueren asegurados instrumentos u objetos de los prohibidos por la Ley, serán remitidos a la autoridad competente para que la aplicación de los mismos se haga en los términos que determine la legislación penal, para los casos de comisión de delitos.
@@ -2231,7 +2241,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE MARZO DE 2009.
 
@@ -2266,3 +2276,9 @@ Artículo Quinto.- Inaplicabilidad de la legislación en materia de Delincuencia
 Artículo Sexto.- Delitos Permanentes y Continuados.- Los procedimientos de justicia para adolescentes relativos a hechos tipificados como delito de carácter permanente o continuado que iniciaron bajo la vigencia de la Ley de Justicia para Adolescentes del Estado de Baja California, publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006, y que continúen desarrollándose bajo la vigencia de la presente Ley, serán tramitados conforme el primero de los ordenamientos citados en este artículo.
 
 Artículo Séptimo.- Prohibición de Acumulación de Procesos.- No procederá la acumulación de procesos sobre hechos tipificados como delictuosos por las leyes estatales, cuando alguno de ellos esté sometido a la presente Ley y otro a la Ley de Justicia para Adolescentes publicada en el Periódico Oficial No. 45, de fecha 27 de octubre de 2006.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
+
+SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
