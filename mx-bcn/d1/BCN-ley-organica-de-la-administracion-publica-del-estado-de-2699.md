@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2010-04-30"
+last_updated: "2010-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -527,31 +527,63 @@ A la Dirección de Control y Evaluación Gubernamental, le corresponde la atenci
 
 I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental de la Administración Pública Estatal.
 
-II.- Expedir las normas que regulan el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y en su caso requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control internos de las dependencias y entidades de la Administración Pública del Estado.
+II.- Expedir las normas y criterios que regulan el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y en su caso requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control.
 
-IV.- Establecer las bases generales para la realización de auditorias en las dependencias y entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieren a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como, planear, organizar, coordinar y apoyar a los órganos de control internos de las Dependencias y Entidades de la Administración Pública Estatal.
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+IV.- Establecer las bases generales para la evaluación y realización de auditorias en las dependencias y entidades de la Administración Pública, así como realizar aquellas que se requieran en sustitución o apoyo de sus propios órganos internos de control.
 
 V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas.
 
-VI.- Realizar, por si o a solicitud de la Secretaria de Planeación y Finanzas, Oficialía Mayor de Gobierno o de la Coordinación del Sector correspondiente, auditorias y evaluaciones a las dependencias y entidades con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-VII.- Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades cumplan con las normas y disposiciones en materia de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal.
+VI.- Realizar, por sí o a solicitud de la Secretaria de Planeación y Finanzas, Oficialía Mayor de Gobierno o de la Coordinación del Sector correspondiente, auditorias y evaluaciones a las dependencias y entidades con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos y metas contenidos en sus programas.
 
-VIII.- Establecer los requisitos para la designación de los comisarios o sus equivalentes en los órganos de vigilancia de los Consejos o Juntas de Gobierno y Administración de las Entidades de la Administración Pública Paraestatal, y en su caso, solicitar la remoción de éstos.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-IX.- Establecer y mantener coordinación e intercambiar información y documentación con la Contaduría Mayor de Hacienda del Congreso del Estado, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificativos y comprobatorios del ingreso y del gasto público.
+VII.- Inspeccionar y vigilar directamente o a través de los órganos internos de control que las dependencias y entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales.
 
-X.- Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores de la Administración Pública Estatal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+VIII.- Designar y establecer los requisitos para el nombramiento de los titulares de los órganos internos de control y de comisarios públicos o sus equivalentes en los órganos de vigilancia de los Órganos de Gobierno de las Dependencias y de las Entidades de la Administración Pública Estatal, y en su caso, realizar la remoción de éstos por causa justificada.
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+IX.- Establecer y mantener coordinación e intercambiar información y documentación con el Órgano de Fiscalización Superior del Estado, del Congreso del Estado, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificativos y comprobatorios del ingreso y del gasto público.
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+X.- Recibir y registrar las declaraciones de Situación Patrimonial que deban presentar los servidores públicos de las Dependencias y Entidades de la Administración Pública Estatal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las leyes y reglamentos.
 
 XI.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios, o contratos que celebran con las dependencias y entidades de la Administración Pública Estatal, de acuerdo con las normas que se emitan.
 
 XII.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalan, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, presentándole para tal efecto la colaboración que le fuere requerida.
 
-XIII.- Recibir de la Contaduría Mayor de Hacienda del Congreso del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XIV.- Las demás que le encomienden expresamente las leyes y reglamentos.
+XIII.- Recibir del Órgano de Fiscalización Superior del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Planeación y Finanzas.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XIV.- Coadyuvar con las dependencias normativas en el establecimiento de los lineamientos que en materia de desarrollo y modernización administrativa deberán observar las Dependencias y Entidades de la Administración Pública Estatal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos y tecnológicos se lleven en un marco de legalidad y transparencia;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XV.- Proponer la intervención de organismos de la sociedad civil en acciones de vigilancia y evaluación de los programas ejecutados por el Gobierno del Estado, que impulsen la mejora y transparencia de los trámites, obras y servicios públicos responsables, cuando se estime conveniente y que no sea de aquellas que estén exceptuadas por Ley;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XVI.- Certificar, autorizar y dar fe de las actuaciones administrativas, que se practiquen en los asuntos de su competencia, y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XVII.- Las demás que le encomienden expresamente las leyes, reglamentos y demás ordenamientos de observancia general.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -1013,93 +1045,169 @@ DE LA COMPETENCIA DE LA SECRETARIA DE SEGURIDAD PUBLICA.
 
 A la Secretaría de Seguridad Pública, le corresponde la atención y trámite de los siguientes asuntos:
 
-I.- Desarrollar las políticas de seguridad pública en el Estado, así como proponer al Ejecutivo del Estado las acciones de gobierno, normatividad, instrumentos, programas y estrategias para la prevención de los delitos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+I.- Desarrollar las políticas de seguridad pública en el Estado, así como proponer al Ejecutivo del Estado las acciones de gobierno, normatividad, instrumentos, programas y estrategias para la prevención de los delitos, combate a la delincuencia y otros factores que incidan en esta última;
 
 II.- Proponer al Ejecutivo del Estado las medidas que garanticen la congruencia de las políticas de prevención del delito y cultura de la legalidad entre las dependencias de la administración pública estatal;
 
-III.- Integrar y coordinar el Consejo Estatal de Seguridad Pública en los términos de la Ley de Seguridad Pública y Bases de Coordinación para el Estado de Baja California, y los programas de identificación e inventario de recursos humanos y materiales de las corporaciones, públicas y privadas, que brinden servicios de seguridad policial y preventiva en el Estado;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+III.- Coordinar al Consejo Estatal de Seguridad Pública en los términos de la Ley de Seguridad Pública del Estado de Baja California;
 
 IV.- Proponer en el seno del Consejo Estatal de Seguridad Pública políticas, acciones y estrategias de coordinación en materia de prevención del delito y acciones contra la delincuencia para todo el Estado;
 
 V.- Representar al Poder Ejecutivo del Estado, ante el Sistema Nacional de Seguridad Pública;
 
-VI.- Fomentar la participación ciudadana en la formulación de planes y programas de prevención en materia de delitos a través del Consejo Ciudadano de Seguridad Pública del Estado, y por conducto del Sistema Nacional de Seguridad Pública, en los delitos del fuero federal;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-VII.- Promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones;
+VI.- Fomentar la participación de la comunidad en la realización de programas y acciones tendientes a prevenir el delito, coordinándose con el Consejo Ciudadano de Seguridad Pública del Estado y demás autoridades y organismos no gubernamentales cuya intervención establezcan las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+VII.- Establecer, administrar y coordinar el servicio de asistencia telefónica, así como el servicio de denuncia anónima en el Estado, garantizando en todo momento el anonimato del denunciante de este último;
 
 VIII.- Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
 
-IX.- Organizar, dirigir, administrar, supervisar y tener bajo su mando a la Policía Estatal Preventiva, así como garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+IX.- Organizar, dirigir, administrar y supervisar a la Policía Estatal Preventiva y a la Policía Estatal de Seguridad y Custodia Penitenciaria, en términos de la normatividad aplicable, así como garantizar a través de las instancias correspondientes la aplicación del régimen disciplinario;
 
 X.- Proponer al Ejecutivo del Estado el nombramiento del Director de la Policía Estatal Preventiva;
 
-XI.- Coordinarse con las dependencias u organismos encargados de adiestrar y capacitar a los cuerpos de seguridad pública del Estado, a fin de participar en la elaboración y diseño de los programas académicos de los aspirantes a Agentes de la Policía Estatal Preventiva y a Custodios del Sistema Estatal Penitenciario, así como organizar, dirigir y administrar el servicio civil de carrera de dichos cuerpos de seguridad;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XII.- Salvaguardar la integridad física y derechos de las personas, prevenir la comisión de delitos del orden común, así como preservar las libertades, el orden y la paz públicos, en el ámbito estatal;
+XI.- Promover, facilitar, formar, desarrollar y coordinar la profesionalización de los aspirantes y miembros de las Instituciones Policiales en el Estado, así como establecer la carrera policial, mediante el desarrollo y operación del Programa Rector de Profesionalización, en los términos de la normatividad aplicable;;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XII.- Salvaguardar la integridad física y derechos de las personas, prevenir la comisión de delitos, así como preservar las libertades, el orden y la paz públicos, en el ámbito estatal;
 
 XIII.- Implementar las políticas preventivas que tiendan a combatir la comisión de los delitos, con la debida eficacia y oportunidad;
 
-XIV.- Solicitar y recibir de las autoridades federales, estatales y municipales, información a efecto de analizarla y utilizarla en la preservación de la seguridad pública y la prevención de los delitos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XV.- Recabar, organizar, seleccionar y analizar información, para la preservación de la seguridad pública y la prevención de los delitos;
+XIV.- Solicitar, recabar y recibir de las autoridades federales, estatales y municipales, organismos no gubernamentales y particulares, información a efecto de organizar, analizar, seleccionar y utilizar esta en la preservación de la seguridad pública y en la investigación para la prevención de los delitos;
 
-XVI.- Realizar estudios y análisis para la formulación de planes en contra de la criminalidad, basándose en la información generada en materia de incidencia delictiva, en la investigación de causas que dan origen a los delitos, lugares de comisión, impacto y costos sociales; así como estudiar las acciones contra la criminalidad adoptadas por otras entidades, intercambiando experiencias en esta materia;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XVII.- Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo en Baja California, así como coordinarse con los distintos estados de la república, para el intercambio de información;
+XV.- Fomentar la capacitación y actualización del personal de la Secretaría;
 
-XVIII.- Efectuar, con el auxilio de las distintas dependencias del Estado, estudios sobre los actos delictivos no denunciados, e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XIX.- Crear programas con el apoyo de otras dependencias del Ejecutivo del Estado, para la prevención del delito, combate a la delincuencia, tratamiento de adicciones y todo tipo de factores que incidan en la delincuencia, promoviendo la participación y concientización ciudadana, así como la promoción de valores;
+XVI.- Realizar estudios y análisis para la formulación de planes en contra de la criminalidad, basándose en la información generada en materia de incidencia criminológica, en la investigación de causas que dan origen a los delitos, lugares de comisión, impacto y costos sociales; así como estudiar las acciones contra la criminalidad adoptadas por otras entidades, intercambiando experiencias en esta materia;
 
-XX.- Tramitar las autorizaciones correspondientes a los cuerpos de seguridad del Estado, para la portación de armas;
+XVII.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
 
-XXI.- Regular, supervisar y controlar la prestación de servicios de seguridad privada y expedir la anuencia o autorización del Ejecutivo del Estado, necesaria para su establecimiento y operación, así como autorizar el equipo y los aditamentos de protección necesarios para su función, conforme al reglamento que para tal efecto se expida;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XXII.- Asistir al Ejecutivo del Estado en la celebración de convenios de colaboración, en el ámbito de su competencia, con autoridades federales, estatales o municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares, en los términos de la legislación aplicable;
+XVIII.- Integrar y administrar el Sistema Estatal de Información sobre Seguridad Pública, de acuerdo a las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XIX.- Crear programas con el apoyo de otras dependencias del Ejecutivo del Estado, para la prevención del delito, combate a la delincuencia, tratamiento de adicciones y todo tipo de factores que incidan en la delincuencia, promoviendo la participación y concientización de la comunidad, así como la promoción de valores;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XX.- Tramitar, administrar y controlar las acciones necesarias para la autorización y el correcto funcionamiento de la Licencia Oficial Colectiva respectiva para la portación de armas;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXI.- Autorizar, regular, supervisar y controlar la prestación de servicios de seguridad privada en el Estado conforme a lo establecido por la Ley de Seguridad Pública del Estado de Baja California y el reglamento que para tal efecto se expida;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXII.- Asistir al Ejecutivo del Estado en la celebración de convenios de colaboración, en el ámbito de su competencia, con autoridades federales, estatales o municipales, del Distrito Federal, organismos no gubernamentales, así como establecer acuerdos de colaboración con instituciones similares, en los términos de la legislación aplicable;
 
 XXIII.- Ordenar la colaboración, cuando así se requiera, con las autoridades federales, municipales y otras autoridades estatales, en la protección de la integridad física de las personas, la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
 
 XXIV.- Auxiliar a las autoridades judiciales cuando así lo requieran, para el debido ejercicio de sus funciones;
 
-XXV.- Ejecutar las penas por delitos del orden común, administrar y operar el sistema estatal penitenciario, regular la clasificación e internación de reos; diseñar y ejecutar los programas de rehabilitación educativa; promover la creación del patronato de reincorporación e integración social de reos y liberados, así como organizar y dirigir las actividades de apoyo a liberados;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XXVI.- Tramitar, por acuerdo del Ejecutivo del Estado, las solicitudes de libertad preparatoria, preliberación y remisión parcial de la pena, traslado de los sentenciados que estén a disposición del Ejecutivo y vigilar la ejecución de las sanciones dictadas por las Autoridades del Poder Judicial;
+XXV.- Administrar y operar el Sistema Estatal Penitenciario, regular la clasificación de internos, diseñar y ejecutar los programas de reinserción social; promover la creación y funcionamiento de los Patronatos para liberados;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XXVII.- Proponer al Ejecutivo del Estado la creación y en su caso, la administración de los órganos, autoridades e instituciones que contribuyan al diagnóstico, orientación, protección y tratamiento de los adolescentes de conformidad con lo previsto por la Ley en materia de justicia para adolescentes, y los Centros de Readaptación Social para adultos;
+XXVI.- Solicitar, de oficio o a petición de parte, a la autoridad judicial competente, los beneficios de libertad anticipada que establezcan las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXVII.- Proponer al Ejecutivo del Estado la creación de instituciones que contribuyan al diagnóstico, orientación, protección y tratamiento de los adolescentes y la reinserción social para adultos, de conformidad con la normatividad aplicable;
 
 XXVIII.- Tramitar por acuerdo del Ejecutivo del Estado, las solicitudes de indulto;
 
-XXIX.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XXX.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+XXIX.- Operar y administrar el funcionamiento y los servicios del Centro de Control, Comando, Comunicación y Cómputo del Estado, en los términos de la normatividad aplicable;
 
-XXXI.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XXXII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+XXX.- Operar y administrar los centros de internamiento para adolescentes en el Estado que determinen las disposiciones aplicables;
 
-XXXIII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE REFORMA ESTE ORDENAMIENTO.</small>
 
-XXXIV.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XXXV.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+XXXI.- Ejecutar las penas por delitos del orden común, dictadas por las autoridades judiciales competentes, así como por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, siempre y cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
 
-XXXVI.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+> <small>(N. DE E. PARA LA APLICACION DE ESTA FRACCION, VEASE TRANSITORIO TERCERO DEL DECRETO NUMERO 437 QUE REFORMA A ESTE ORDENAMIENTO)</small>
 
-XXXVII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XXXVIII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+XXXII.- Coordinar, vigilar y, en su caso, ejecutar el cumplimiento de las medidas cautelares, providencias precautorias y las condiciones a cumplir durante la suspensión del proceso a prueba;
 
-XXXIX.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+> <small>(N. DE E. PARA LA APLICACION DE ESTA FRACCION, VEASE TRANSITORIO TERCERO DEL DECRETO NUMERO QUE REFORMA A ESTE ORDENAMIENTO)</small>
 
-XL.- Fomentar la participación ciudadana, en la realización de programas y acciones tendientes a la prevención del delito, coordinándose con las autoridades cuya intervención establezcan las leyes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XLI.- Fomentar en coordinación con la Secretaría de Salud del Estado, y demás dependencias y entidades del mismo, la participación ciudadana en la realización y operación de programas y acciones tendientes a tratar a personas con algún tipo de adicción;
+XXXIII.- Obtener, generar, clasificar y suministrar información relacionada con las medidas, providencias y condiciones a que se refiere la fracción anterior, de oficio o a petición de la autoridad judicial competente y en términos de las disposiciones normativas aplicables;
 
-XLII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XLIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXXIV.- Vigilar el cumplimiento de las libertades anticipadas y demás beneficios judiciales, en términos de la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXXV.- Suscribir convenios en el ámbito de su competencia con otras dependencias, entidades, gobiernos estatales, Municipios, instituciones y organismos no gubernamentales que se consideren necesarios para la consecución de los objetivos de la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXXVI.- Supervisar y aplicar el sistema de desarrollo policial de los miembros de las instituciones policiales de la Secretaría, conforme a la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXXVII.- Dirigir, coordinar e implementar los procesos de evaluación, de control de confianza y de certificación, en los términos de las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXXVIII.- Expedir las constancias de antecedentes penales, de conformidad con las disposiciones aplicables;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE REFORMA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXXIX.- Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando dichas actividades se realicen en lugares públicos, actuando conforme a sus atribuciones; así como remitir los informes relativos a la investigación de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, cuando así lo solicite el Ministerio Público de la Federación;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XL.- Fomentar la participación de la comunidad, en la realización de programas y acciones tendientes a la prevención del delito, coordinándose con las autoridades cuya intervención establezcan las leyes;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XLI.- Fomentar en coordinación con la Secretaría de Salud del Estado y demás dependencias y entidades del mismo, la participación de la comunidad en la realización y operación de programas y acciones tendientes a tratar a personas con algún tipo de adicción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XLII.- Establecer coordinación con las instituciones de seguridad pública, con las instituciones policiales y sus auxiliares, de los tres órdenes de gobierno y del extranjero de acuerdo a la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XLIII.- Integrar y administrar la información estatal sobre la incidencia criminológica, así como coordinarse con las autoridades e instancias necesarias para su conformación, utilización y actualización permanente, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XLIV.- Las demás que le atribuyan expresamente las disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
@@ -1113,11 +1221,15 @@ III.- Poseer el día de la designación con antigüedad mínima de tres años, t
 
 IV.- Haber residido en el Estado durante los cinco años anteriores al día de la designación;
 
-V.- Presentar examen de salud y antidoping de una Institución Pública de Salud;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-VI.- Presentar examen psicométrico ante la autoridad competente; y,
+V.- Presentar y acreditar las evaluaciones de control y confianza, de conformidad con la normatividad aplicable, y
 
-VII.- Las demás que señalen las Leyes y reglamentos correspondientes.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+VI.- Las demás que señalen las Leyes y reglamentos correspondientes;
+
+VII.- Las demás que señalen las Leyes y reglamentos correspondientes. (sic)
 
 Para ser Subsecretario de Seguridad Pública, deberá cumplir los requisitos señalados en las fracciones I a la VII del presente artículo.
 
@@ -1834,6 +1946,30 @@ CUARTO.- El personal de la Dirección Forestal y de Fauna de la Secretaría de F
 QUINTO.- Los archivos y asuntos en trámite de la Dirección Forestal y de Fauna de la Secretaría de Fomento Agropecuario, serán transferidos a la Secretaría de Protección al Ambiente.
 
 SEXTO.- El Ejecutivo del Estado dentro de los seis meses siguientes a la entrada en vigor de la presente reforma, deberá hacer las adecuaciones correspondientes a los Reglamentos Internos de las Secretarías de Fomento Agropecuario y de Protección al Ambiente.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 437, POR EL QUE SE REFORMAN LOS ARTICULOS 38 Y 38 BIS DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Hasta en tanto se realicen reformas a la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado y se confiera a la autoridad judicial competente la resolución de las solicitudes de conmutación administrativa, libertad preparatoria, preliberación y remisión parcial de la pena, así como las relativas a la modificación de las condiciones de aplicación de cada una de ellas, corresponderá a la Secretaría de Seguridad Pública la atribución de tramitar y resolver estos beneficios, de oficio o a petición de parte.
+
+TERCERO.- Las fracciones XXXII y XXXIII del artículo 38 del presente Decreto, serán únicamente aplicables a lo dispuesto en el Código de Procedimientos Penales para el Estado de Baja California, publicado el 19 de Octubre de 2007 en el Periódico Oficial del Estado".
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 441, POR EL QUE SE REFORMAN LAS FRACCIONES II, III, IV, VI, VII, VIII, IX, X, XIII Y ADICIONA LAS FRACCIONES XIV, XV, XVI Y XVII DEL ARTICULO 25 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO 446, POR EL QUE SE APRUEBA LA REFORMA AL ARTICULO 38 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
+
+SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
