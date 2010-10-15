@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2009-11-13"
+last_updated: "2010-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -81,9 +81,9 @@ Para los efectos de esta Ley, se entienden como servicios básicos en materia de
 
 I.- La atención a personas que tengan necesidades especiales causadas por alguna discapacidad, algún trastorno del desarrollo, o indigencia, que les pudiera impedir satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-II.- La atención en establecimientos especializados a personas menores dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho y adultos mayores de sesenta años de edad en estado de abandono o maltrato;
+II.- La atención sistémica, sistemática e integral en establecimientos especializados a personas menores de edad, personas que no tengan la capacidad para comprender el significado del hecho y adultos mayores de sesenta años de edad en estado de abandono o maltrato; y en general, a la Familia, célula básica y fundamental de la sociedad;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
@@ -109,7 +109,9 @@ IX.- La prevención de cualquier tipo de capacidad diferente y su rehabilitació
 
 X.- La orientación nutricional y la alimentación subsidiaria, a personas de escasos recursos y a la población de zonas marginadas;
 
-XI.- La promoción del desarrollo, el mejoramiento y la integración social y familiar de la población con carencias, mediante la participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XI.- La promoción del desarrollo, el mejoramiento y la integración social y familiar de la población con carencias o en situación de riesgo o vulnerabilidad, mediante la participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio; así como a través de la atención psicológica y de orientación familiar;
 
 XII.- El desarrollo comunitario en localidades y zonas sociales económicamente marginadas;
 
@@ -171,7 +173,11 @@ XIV.- Personas que no tengan la capacidad para comprender el significado del hec
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-XV.- Las personas que por algún trastorno del desarrollo, requieran de apoyos especiales para satisfacer sus requerimientos básicos de protección, subsistencia y desarrollo.
+XV.- Las personas que por algún trastorno del desarrollo, requieran de apoyos especiales para satisfacer sus requerimientos básicos de protección, subsistencia y desarrollo;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XVI.- En general, todas las familias, incluyendo a aquellas que, por encontrarse en estado de vulnerabilidad, vean impedido su desarrollo integral.
 
 ###### ARTÍCULO 6.
 
@@ -344,6 +350,24 @@ XVII.- Las demás que establezcan las disposiciones aplicables en la materia.
 ###### ARTÍCULO 18.
 
 El DIF Estatal contará con la Procuraduría para la Defensa las (sic) personas menores de dieciocho años de edad y la Familia, como órgano especializado dotado de autonomía técnica y operativa para brindar protección jurídica a la integridad familiar, a las personas menores de dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho, a los adultos mayores de sesenta años de edad y personas con capacidades diferentes sin recursos económicos, la cual tendrá las atribuciones que le otorga esta Ley, y las que le confieran otras leyes dentro de los objetivos del Sistema para el Desarrollo Integral de la Familia de Baja California.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 18 BIS.- El DIF Estatal contará con el Centro de Desarrollo y Formación para la Familia Bajacaliforniana, como órgano especializado dotado de autonomía técnica y operativa, encargado de contribuir, a través de la perspectiva de familia y de los valores universales, a la comprensión de las diferentes situaciones de carácter social que impidan el desarrollo integral de la misma, y de implementar acciones públicas tendientes a modificar, prevenir y mejorar la calidad de vida mediante la profesionalización, autodesarrollo y corresponsabilidad social de los integrantes de las familias que conforman nuestro Estado.
+
+Para lograr lo anterior, el Centro se encargará de:
+
+I.- Brindar servicios a las familias tomando en cuenta su diversidad y complejidad para lograr el autodesarrollo de las capacidades de sus integrantes, de tal manera que se construya y fortalezca la familia.
+
+II.- Proporcionar la información necesaria para que la persona decida conscientemente como mejorar su calidad de vida, fortaleciendo su entorno familiar, reduciendo su vulnerabilidad teniendo como base los valores universales, mediante la atención sistémica, sistemática e integral.
+
+III.- Entablar lazos de coordinación para que exista una interconectividad entre el Centro de Desarrollo y Formación para la Familia Bajacaliforniana y la sociedad civil, instancias gubernamentales e iniciativa privada para la organización de distintas actividades que contribuyan al Fortalecimiento y Desarrollo Integral familiar que alienten la prevención de riesgos psicosociales.
+
+IV.- Coadyuvar a las personas a través de terapias psicológicas u orientación familiar a solucionar ciertos conflictos o situaciones que no le permiten alcanzar su desarrollo y que prevengan circunstancias de riesgo que pudieran presentárseles en el núcleo familiar.
+
+V.- Posicionar los servicios del Centro en la comunidad, y realizar estudios de investigación y estadística que nos reflejen la mejora continua en la situación de la Familia.
+
+VI.- Realizar gestiones de apoyo para canalizar a personas que asistan al Centro y se encuentren en circunstancias de vulnerabilidad, así como darles las herramientas necesarias para adquirir habilidades y que a futuro, con corresponsabilidad social, sean agentes de transformación de la comunidad.
 
 ###### ARTÍCULO 19.
 
@@ -1336,3 +1360,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 13 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+ÚNICO.- La presente reforma y adición entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
