@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2010-07-23"
+last_updated: "2010-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -743,9 +743,9 @@ IV. Vías estatales de comunicación, incluidos los caminos rurales;
 
 V. Zonas, fraccionamientos y parques industriales, incluidas las plantas agroindustriales;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-VI.- La prestación de servicios a terceros que tengan por objeto la operación de sistemas de almacenamiento, reuso, reciclaje, incineración, tratamiento y confinamiento o disposición final de residuos no peligrosos, así como la construcción y operación de los sistemas mencionados;
+VI.- La prestación de servicios a terceros que tengan por objeto la operación de sistemas de almacenamiento, reuso, reciclaje, incineración, acopio, recolección, transporte, tratamiento, y disposición final de residuos de manejo especial, así como la construcción y operación de los sistemas mencionados;
 
 VII. Aquellas obras y actividades que no estando expresamente reservadas a la Federación en los términos de la Ley General, causen o puedan causar desequilibrios ecológicos, rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente;
 
@@ -759,11 +759,17 @@ IX. La instalación y operación por parte del generador de residuos industriale
 
 X. Exploración, explotación, extracción y aprovechamiento de materiales o sustancias no reservadas a la Federación, fuera de los centros de población; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XI. Las que se determinen en los reglamentos, normas ambientales estatales.
+XI. La construcción y operación de rellenos sanitarios y centros de transferencia; y
 
-Entre los municipios y la Secretaría, podrán establecerse convenios a fin de que las propias unidades de gestión ambiental municipales realicen las evaluaciones de impacto ambiental y emitan las autorizaciones, cuando las obras o actividades de que se refiere el presente artículo no sean altamente riesgosas, no causen impactos severos al ambiente o impliquen un uso masivo de recursos naturales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XII. Las que se determinen en los reglamentos, normas ambientales estatales.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+Entre los Municipios y la Secretaría, podrán establecerse convenios a fin de que las propias unidades de gestión ambiental municipales realicen las evaluaciones de impacto ambiental y emitan las autorizaciones, cuando las obras o actividades de que se refiere el presente artículo no sean altamente riesgosas, no causen impactos severos al ambiente o impliquen un uso masivo de recursos naturales.
 
 ###### ARTÍCULO 43.
 
@@ -1325,15 +1331,23 @@ Las disposiciones contenidas en este título, serán aplicables a la prevención
 
 En todas las descargas de contaminantes a la atmósfera, el agua y los suelos, deberán ser observadas las previsiones de la Ley General, esta Ley, sus disposiciones reglamentarias, así como las normas oficiales mexicanas y normas ambientales estatales que al efecto se expidan.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 108.
 
-La Secretaría, en los términos que señalen los reglamentos de esta Ley, establecerá un Registro de Emisiones y Transferencia de Contaminantes, complementario al de la Federación, el cual contendrá el inventario de emisiones a la atmósfera, el registro de descargas de aguas residuales y el inventario de materiales y residuos de competencia estatal y Municipal que generen las obras o actividades que se realicen en el Estado. Este registro será la base para la creación de un sistema consolidado de información y evaluación de desempeño de las emisiones y transferencia de contaminantes en el Estado.
+La Secretaría, en los términos que señale el reglamento correspondiente, establecerá un Registro de Emisiones y Transferencia de Contaminantes, complementario al de la Federación, el cual contendrá el inventario de emisiones a la atmósfera, el registro de descargas de aguas residuales y el inventario de materiales y residuos de competencia estatal y municipal que generen las obras o actividades que se realicen en el Estado. Este registro será la base para la creación de un sistema consolidado de información y evaluación de desempeño de las emisiones y transferencia de contaminantes en el Estado.
+
+Los responsables de establecimientos industriales, comerciales y de servicios, de competencia Estatal y Municipal, están obligados a proporcionar datos y documentos necesarios para integrar el Registro de Emisiones y Transferencia de Contaminantes.
+
+El Registro de Emisiones y Transferencia de Contaminantes se deberá integrar con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
 
 ###### ARTÍCULO 109.
 
 En aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios que requieran obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por una autoridad ambiental competente los interesados podrán optar por integrar dichas autorizaciones en un solo trámite que se denominará Licencia Ambiental Única, en los términos que señalen los reglamentos que al efecto se expidan.
 
-El Registro de Emisiones y Transferencia de Contaminantes, será el instrumento mediante el cual se efectúen los reportes y revaliden anualmente las licencias que se establecen en ésta.
+> <small>(REFORMADO, P.O. 15 DE OCTURE DE 2010)</small>
+
+La actualización de la base de datos del Registro de Emisiones y Transferencia de Contaminantes, será a través de la cédula de operación anual; instrumento mediante el cual los sujetos a que refiere el segundo párrafo del artículo 108, están obligados a proporcionar datos y documentos necesarios para integrarlo, conforme a los requisitos y tiempos que prevea el reglamento correspondiente.
 
 ### CAPÍTULO III. Prevención y control de la contaminación del agua
 
@@ -2175,9 +2189,11 @@ A continuación se procederá a firmar el acta por la persona con quien se enten
 
 Si la persona con la que se entendió la diligencia o los testigos se negaren a firmar el acta, o se negare el interesado a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 182.
 
-Recibida el acta de inspección por la autoridad ordenadora y una vez transcurrido el plazo a que se refiere el segundo párrafo del artículo anterior, ésta requerirá al interesado, mediante acuerdo debidamente fundado y motivado, por notificación o correo certificado con acuse de recibo, para que implemente de inmediato las medidas correctivas necesarias o aquellas de urgente aplicación para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda y para que en el término de diez días hábiles manifieste lo que a su derecho convenga.
+Recibida el acta de inspección por la autoridad ordenadora y una vez transcurrido el plazo a que se refiere el segundo párrafo del artículo anterior, ésta requerirá al interesado, mediante acuerdo debidamente fundado y motivado, por notificación personal o correo certificado con acuse de recibo, para que implemente de inmediato las medidas correctivas necesarias o aquellas de urgente aplicación para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda y para que en el término de diez días hábiles, manifieste lo que a su derecho convenga.
 
 ###### ARTÍCULO 183.
 
@@ -2273,7 +2289,57 @@ Antes de emitir fundada y motivadamente la resolución respectiva la Secretaría
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 2008)</small>
 
-### CAPÍTULO V. De los delitos ambientales
+### CAPÍTULO V. De las Reglas de las Notificaciones
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS.- Las notificaciones de los actos administrativos dictados con motivo de la aplicación de esta Ley, se realizarán:
+
+I.- Personalmente o por correo certificado con acuse de recibo, cuando se trate de emplazamientos, resoluciones administrativas y de conclusión; sin perjuicio de que la notificación de estos actos pueda realizarse en las oficinas de las unidades administrativas de la Secretaría, si las personas a quienes deba notificarse se presentan en las mismas y siempre que consienta recibirlas. En este último caso, se asentará la razón correspondiente.
+
+II.- Por estrados, colocados en las unidades administrativas del Municipio que corresponda, cuando la persona a quien deba notificarse no pueda ser ubicada después de iniciadas las facultades de inspección, vigilancia o verificación a las que se refiere el presente título o cuando no hubiere señalado domicilio en la población donde se encuentre ubicada la autoridad ordenadora, así como los demás casos contemplados en la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California; y
+
+III.- Por edictos, cuando se desconozca el domicilio del interesado o, en su caso, cuando la persona a quien deba notificarse haya desaparecido, se trate de personas inciertas, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal o autorizado para tales efectos.
+
+Tratándose de actos distintos a los señalados en la fracción I de este artículo, las notificaciones podrán realizarse por correo ordinario, mensajería, telegrama o previa solicitud por escrito del interesado, a través de telefax, medios de comunicación electrónica u otro similar o en las oficinas de las unidades administrativas, a más tardar dentro del término de cinco días hábiles siguientes contados a partir del día en que se dicten los actos que han de notificarse. Lo anterior, sin perjuicio de que la autoridad ordenadora lo haga por estrados, dentro del término de diez días hábiles contados a partir del día en que se dicten los actos que han de notificarse, el cual se fijará en lugar visible de las oficinas de las Unidades Administrativas de la Secretaría
+
+Si los interesados, sus representantes legales o las personas autorizadas por ellos, no ocurren a las oficinas de las unidades administrativas de la Secretaría, a notificarse dentro del término señalado en el párrafo anterior, las notificaciones se tendrán por hechas y surtirán sus efectos al día siguiente al de su fijación en los estrados de las oficinas de la Secretaría.
+
+De toda notificación por estrados, se agregará al expediente un tanto de aquél, asentándose la razón correspondiente.
+
+IV.- Por instructivo, solamente en el caso previsto en el cuarto párrafo del artículo 204 bis 1 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS 1.- Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado en la población donde se encuentre la unidad administrativa de la Secretaría, o bien, personalmente en el recinto oficial de ésta, cuando comparezcan voluntariamente a recibirlas.
+
+En los dos primeros casos, el notificador deberá cerciorarse que se trata del domicilio del interesado o del designado para esos efectos y deberá entregar el original del acto que se notifique y copia de la constancia de notificación respectiva; así como, señalar la fecha y hora en que la notificación se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega, se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+Las notificaciones personales, se entenderán con la persona que deba ser notificada, o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará en un lugar visible del mismo o con el vecino más inmediato.
+
+Si la persona a que haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse esta a recibirla o en su caso, de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio, o con el vecino más cercano, lo que se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+Tratándose de las facultades de inspección y vigilancia, la Secretaría se encuentra facultada para proceder a efectuar la visita correspondiente, sin previo citatorio al interesado.
+
+De las diligencias en que conste la notificación, el notificador tomará razón por escrito.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS 2.- Las notificaciones por edictos se realizarán haciendo publicaciones que contendrán un resumen de los actos por notificar. Dichas publicaciones deberán efectuarse por dos días consecutivos en el Periódico Oficial del Estado y en uno de los periódicos o diarios de mayor circulación en el Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS 3.- Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día hábil siguiente a aquel en que haya surtido efectos la notificación.
+
+Se tendrá como fecha de notificación por correo certificado, la que conste en el acuse de recibo.
+
+En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Periódico Oficial del Estado y en los periódicos o diarios de mayor circulación del Estado.
+
+Las notificaciones por estrados surtirán sus efectos al día siguiente al de la fijación del mismo en las oficinas de la unidad administrativa de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 204 BIS 4.- Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y plazo para su interposición.
 
 ###### ARTÍCULO 192.
 
@@ -2381,7 +2447,11 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta Le
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el presente capítulo.
 
-### CAPÍTULO VI. Responsabilidad por el daño ambiental
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO VI. De los delitos ambientales
+
+### CAPÍTULO VII. Responsabilidad por el daño ambiental
 
 ###### ARTÍCULO 205.
 
@@ -2538,3 +2608,11 @@ TERCERO.- Las obligaciones contempladas en el artículo 118 para los propietario
 P.O. 23 DE JULIO DE 2010.
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado".
+
+SEGUNDO.- El Ejecutivo del Estado expedirá un reglamento dentro de un plazo que no exceda noventa días contados a partir de la entrada en vigor de las presentes reformas.
+
+TERCERO.- La Secretaría junto con los Ayuntamientos del Estado iniciaran mesa de trabajo para determinar si es factible la celebración de los convenios previstos en el último párrafo del artículo 42 de la presente ley.
