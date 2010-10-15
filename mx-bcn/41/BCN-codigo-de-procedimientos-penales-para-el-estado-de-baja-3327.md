@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2010-09-24"
+last_updated: "2010-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGUN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTICULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 Y 22 DE ENERO DE 2010.</small>
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE, SEGÚN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 Y 22 DE ENERO DE 2010.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -76,6 +76,12 @@ Principio de acción penal y de imposición de penas.- La persecución de los de
 ###### Artículo 6.
 
 Principio de Legalidad.- Nadie podrá ser penado o sometido a una medida de seguridad sino mediante proceso seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las leyes expedidas con anterioridad al hecho.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+Las normas contenidas en este Código serán aplicables a los delitos contra la salud en su modalidad de narcomenudeo de competencia estatal previstos en el capítulo VII del título XVIII de la Ley General de Salud.
 
 ###### Artículo 7.
 
@@ -201,7 +207,7 @@ Cuando un magistrado, juez o secretario no se excuse a pesar de tener algún imp
 
 Funciones del Ministerio Público.- Corresponde al Ministerio Público promover entre las partes en los supuestos que señala el Código Penal para el Estado, que los conflictos surgidos como consecuencia de la comisión de delitos se solucionen a través de la mediación, conciliación y el proceso restaurativo; llevar a cabo la averiguación previa, y ejercer la acción penal ante los Tribunales del Estado, en los casos en que resulte legalmente procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 20.
 
@@ -255,7 +261,7 @@ La autorización deberá otorgarse con la mayor inmediatez posible, misma que no
 
 La autorización del Ministerio Público procederá siempre y cuando el médico forense determine que la sustracción del órgano o tejido de que se trate, no afecta la integración de la averiguación previa, además de que las instituciones o personas físicas que soliciten la donación para trasplante, cuenten con la autorización correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 21.
 
@@ -365,7 +371,7 @@ VIII.- Las demás que señalen las leyes.
 
 Solo con autorización expresa del inculpado podrá el defensor desistirse de los recursos y de las pruebas ofrecidas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 29.
 
@@ -417,7 +423,7 @@ Permanencia del defensor.- El defensor designado en la averiguación previa o en
 
 Incumplimiento del defensor a sus obligaciones.- Cuando el Juzgador notare que el defensor incumpla alguna de las obligaciones señaladas en el Artículo 28, podrá imponerle una corrección disciplinaria; si el defensor fuere de oficio, el Juzgador deberá además, poner en conocimiento de los hechos al superior, señalándole el incumplimiento en que aquél hubiere incurrido. Las facultades que este precepto otorga al Juzgador, serán independientes del derecho que pueda corresponder al inculpado para denunciar o reclamar la responsabilidad que, en su caso, resulte al defensor.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO IV. DE LA VICTIMA O EL OFENDIDO
 
@@ -433,7 +439,7 @@ Se entenderá por víctimas las personas que, individual o colectivamente, hayan
 
 Se entenderá por ofendido a los familiares o personas a cargo que tengan relación inmediata con la víctima directa y a las personas que hayan sufrido daños al intervenir a la víctima en peligro o para prevenir la victimización.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 34.
 
@@ -459,7 +465,7 @@ Idioma.- Las actuaciones deberán practicarse y levantarse usando exclusivamente
 
 Cuando el inculpado, la víctima o el ofendido o los testigos no comprendan o no hablen dicho idioma, se estará a lo dispuesto por los artículos 49 y 50 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 37.
 
@@ -581,7 +587,7 @@ Requisitos formales de las resoluciones judiciales.- Toda resolución deberá co
 
 Contenido de los autos.- Los autos contendrán una breve exposición del punto de que se trate y la resolución que corresponda, precedida de su motivación y fundamentos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
 
 ###### Artículo 59.
 
@@ -731,7 +737,7 @@ En los casos a que se refieren los párrafos anteriores de este artículo y el a
 
 #### SECCION TERCERA. EXHORTOS Y OFICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 82.
 
@@ -913,7 +919,7 @@ Después de oír al interesado, el funcionario que hubiese impuesto la correcci�
 
 Derecho a no ser privado de la libertad.- Nadie podrá ser privado de su libertad, sino en los casos señalados en la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 1999)</small>
 
 ###### Artículo 106.
 
@@ -1029,7 +1035,7 @@ Cómputo de la prisión preventiva en sentencia.- En toda pena privativa de la l
 
 Libertad Previa.- Durante la averiguación previa, el Ministerio Público deberá otorgar la libertad provisional, inmediatamente que lo solicite el indiciado, en los mismos casos y bajo las mismas condiciones que para la libertad caucional de carácter judicial se establecen en este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 121.
 
@@ -1091,7 +1097,7 @@ No se considera como antecedentes para negar la libertad caucional, los delitos 
 
 Cuando se solicite la libertad caucional, el juzgador o el ministerio público en su caso, deberá resolver de plano lo conducente. Si se negare la libertad caucional, podrá solicitarse de nuevo y concederse por causas supervinientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1147,7 +1153,7 @@ IV.- Las condiciones económicas del inculpado; y
 
 V.- El tipo de caución que se ofrezca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 127.
 
@@ -1279,7 +1285,7 @@ V.- Se detenga al sentenciado o éste se presente para cumplir la pena impuesta,
 
 La garantía de reparación del daño solo será cancelada o devuelta al reo en lo (sic) casos de las fracciones III y IV que anteceden, salvo el caso contemplado en el párrafo segundo del Artículo 133 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 135.
 
@@ -1341,7 +1347,7 @@ VI.- Causare ejecutoria la sentencia que lo condene.
 
 ### CAPITULO VI. ARRAIGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 140.
 
@@ -1365,7 +1371,7 @@ Arraigo del procesado.- Cuando el procesado no deba ser internado en prisión pr
 
 ### CAPITULO VII. EMBARGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 142.
 
@@ -1383,7 +1389,7 @@ No decreto o levantamiento del embargo.- El embargo no se decretará o se levant
 
 El embargo también se levantará si se decreta la libertad del inculpado por falta de elementos, si se dicta auto de sobreseimiento o sentencia absolutoria.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO VIII. RESTITUCION DE LA VICTIMA O EL OFENDIDO EN SUS DERECHOS
 
@@ -1557,7 +1563,7 @@ Requisitos de los peritos.- Los peritos deberán tener título oficial en la cie
 
 Cuando el inculpado pertenezca a un grupo étnico indígena podrán ser peritos prácticos, personas que pertenezcan a dicho grupo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 172.
 
@@ -1649,7 +1655,7 @@ Deber de examinar los testigos.- El Juzgador debe de examinar a los testigos pre
 
 Interrogatorio de testigos.- El Juzgador no podrá dejar de interrogar durante la instrucción a los testigos que residan dentro de su jurisdicción y cuya declaración soliciten las partes. También, mandará interrogar, según corresponda, a los testigos que residan fuera de ésta y sin que ésto estorbe la marcha de la instrucción ni la facultad del Juzgador de darla por terminada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 186.
 
@@ -1865,7 +1871,7 @@ Documentos públicos procedentes del extranjero.- Para que se reputen auténtico
 
 Inspección.- La inspección, así como el resultado de los cateos, harán prueba plena siempre que se practiquen con los requisitos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 219.
 
@@ -1963,7 +1969,7 @@ Los servidores públicos a que se refiere el artículo 226 no están obligados a
 
 ### CAPITULO III. INICIACION POR QUERELLA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 228.
 
@@ -2051,7 +2057,7 @@ Cuando por cualquier causa no fuere posible recabar el certificado de sanidad, e
 
 Forma de suplir la autopsia.- Cuando por cualquier otro motivo no pueda practicarse la autopsia, bastará que los peritos, en vista de los datos que obren en el expediente, declaren que la muerte fue resultado de las lesiones inferidas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ### CAPITULO II. ATENCION MEDICA A LESIONADOS Y ASISTENCIA A MENORES E INCAPACES
 
@@ -2185,11 +2191,11 @@ Diligencias ministeriales fuera de la competencia territorial.- El Ministerio P�
 
 Si la denuncia o querella se presenta ante un Agente del Ministerio Público incompetente por razón del territorio o fuero, éste practicará únicamente las diligencias necesarias y remitirá la averiguación al agente a quien corresponda continuarla.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 1995)</small>
 
 ### CAPITULO II. NO EJERCICIO Y DESISTIMIENTO DE LA ACCION PENAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 262.
 
@@ -2301,7 +2307,7 @@ Preguntas al inculpado.- El Juzgador, el defensor y el Agente del Ministerio Pú
 
 ### CAPITULO IV. AUTOS DE PROCESAMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 274.
 
@@ -2523,7 +2529,7 @@ Así mismo causan ejecutoria las sentencias de segunda instancia y aquellas cont
 
 ### CAPITULO I. SUSPENSION DEL PROCEDIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 299.
 
@@ -2535,7 +2541,7 @@ II.- Cuando el delito sea de aquellos que no pueden perseguirse sin antes cumpli
 
 III.- Cuando en cualquier etapa del procedimiento judicial el inculpado manifieste, conforme a dictámenes periciales, enajenación mental, desarrollo intelectual retardado, trastorno mental transitorio o cualquier otro estado mental que requiera tratamiento. En estos casos, se continuará el procedimiento por la vía especial procedente;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NO. 422.</small>
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -2545,7 +2551,7 @@ IV.- Cuando no se pueda hacer saber al inculpado el nombre de su acusador y la n
 
 V.- Cuando tratándose de delitos perseguibles por querella, una de las partes interesadas solicite al Juzgador la intervención del Ministerio Público para solucionar el conflicto a través de la mediación, conciliación o el proceso restaurativo, suspendiéndose el procedimiento por un período de dos meses en los términos previstos por la Ley de la materia;
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VEASE ARTICULO UNICO TRANSITORIO DEL DECRETO NO. 422.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NO. 422.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
 
@@ -2909,7 +2915,7 @@ Formulados los alegatos o transcurridos los plazos anteriores, el Tribunal dicta
 
 Ejecución del reconocimiento.- Si se declara fundada la solicitud de reconocimiento de inocencia del sentenciado, se informará de esta resolución al Director de Prevención y Readaptación Social en el Estado, para que sin más trámite ponga en libertad absoluta al sentenciado y haga cesar todos los efectos de la sentencia anulada y ordene, asimismo, la publicación del reconocimiento en el órgano informativo oficial del Estado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE OCTUBRE DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE OCTUBRE DE 1995)</small>
 
 ### CAPITULO VII. RECURSO DE REVISION
 
@@ -3161,7 +3167,7 @@ Deberá substanciarse éste incidente por separado, en la misma forma que el de 
 
 El auto en que se decrete la separación sólo es apelable en el efecto ejecutivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ### CAPITULO V. INCIDENTE DE REPARACION DE DAÑO EXIGIBLE A TERCEROS
 
@@ -3177,7 +3183,7 @@ Competencia.- Será competente para conocer del incidente respectivo, el juez de
 
 Apoderados y Representantes.- En el incidente de reparación del daño, el actor podrá intervenir por conducto de su representante legal, apoderado o mandatario, contra las personas que determina el Artículo 44 del Código Penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 396.
 
@@ -3225,7 +3231,7 @@ Competencia para la Ejecución.- La Ejecución de las resoluciones incidentales 
 
 Incompetencia sobrevenida por absolución penal.- Si el Juzgador absuelve al inculpado de la acusación penal, deberá abstenerse de resolver sobre la pretensión civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 403.
 
@@ -3467,7 +3473,7 @@ LIC. OSCAR R. TELLEZ ULLOA.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 20 DE SEPTIEMBRE DE 1992.
 
@@ -3555,7 +3561,7 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 
 P.O. 28 DE AGOSTO DE 1998.
 
-DECRETO NUMERO189
+DECRETO NUMERO 189
 
 ###### ARTICULO UNICO.
 
@@ -3565,7 +3571,7 @@ P.O. 9 DE ABRIL DE 1999.
 
 PRIMERO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO.- Para los efectos de dar cumplimiento al artículo 208.quater, se otorga al Poder Ejecutivo del Estado, un plazo no mayor de treinta días hábiles, a partir de la entrada en vigor del presente, para que remita a este H. Congreso del Estado, Iniciativa de Decreto que adicione en la Ley Orgánica de la Procuraduría General de Justicia, la facultad de expedir constancias de no existencia de reporte o denuncia de robo de vehículo motor.
+SEGUNDO.- Para los efectos de dar cumplimiento al artículo 208 quater, se otorga al Poder Ejecutivo del Estado, un plazo no mayor de treinta días hábiles, a partir de la entrada en vigor del presente, para que remita a este H. Congreso del Estado, Iniciativa de Decreto que adicione en la Ley Orgánica de la Procuraduría General de Justicia, la facultad de expedir constancias de no existencia de reporte o denuncia de robo de vehículo motor.
 
 P.O. 7 DE MAYO DE 1999.
 
@@ -3789,7 +3795,7 @@ P.O. 13 DE FEBRERO DE 2009.
 
 P.O. 20 DE MARZO DE 2009.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA ENTRADA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 28 DE AGOSTO DE 2009.
 
@@ -3803,7 +3809,7 @@ P.O. 9 DE OCTUBRE DE 2009.
 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 277, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 19, 20, 37, 63, 123, 229,263 Y 299 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
+DECRETO No. 277, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTÍCULOS 19, 20, 37, 63, 123, 229,263 Y 299 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -3811,19 +3817,19 @@ SEGUNDO.- Para la aplicación de la mediación, conciliación y el proceso resta
 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 279, POR EL QUE SE REFORMAN DIVERSOS ARTICULOS, ASI COMO LA DENOMINACION DE DIVERSOS TITULOS Y CAPITULOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O DE FECHA 19 DE OCTUBRE DE 2007.
+DECRETO No. 279, POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS, ASÍ COMO LA DENOMINACIÓN DE DIVERSOS TÍTULOS Y CAPÍTULOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE FECHA 19 DE OCTUBRE DE 2007.
 
 ÚNICO.- Las presentes reformas entrarán en vigor de conformidad a lo dispuesto en el artículo primero transitorio del Código de Procedimientos Penales para el Estado publicado en el Periódico Oficial el 19 de octubre de 2007.
 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 281, POR EL QUE SE ADICIONA EL ARTICULO 279 BIS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
+DECRETO No. 281, POR EL QUE SE ADICIONA EL ARTÍCULO 279 BIS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 22 DE ENERO DE 2010.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 10 DE SEPTIEMBRE DE 2010.
 
@@ -3832,3 +3838,9 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 24 DE SEPTIEMBRE DE 2010.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente su publicación en el Periódico Oficial del Estado, exclusivamente para los partidos judiciales de Tijuana, Ensenada, Tecate y Playas de Rosarito, no así en el de Mexicali, en virtud de la entrada en vigor del nuevo Código de Procedimientos Penales para el Estado de Baja california.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
+
+SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
