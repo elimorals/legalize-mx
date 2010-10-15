@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-finanzas-y-46757"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-10-26"
-last_updated: "2008-09-10"
+last_updated: "2010-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de octubre de 2005.
 
@@ -85,13 +85,17 @@ g) Dirección General de Coordinación de Programas Federales;
 
 h) Dirección General de Contabilidad;
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-i) Dirección General de Información y Evaluación;
+i) Dirección General de Estadística y Evaluación;
 
-j) (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2008)
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-k) (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2008)
+j) Dirección General de Coordinación de Planeación;
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+k) Dirección General de Información Estratégica;
 
 l) Subprocuraduría Fiscal de Asuntos Estatales;
 
@@ -333,29 +337,39 @@ Son atribuciones del Subsecretario de Planeación:
 
 I. Proponer e instrumentar la política de planeación estatal de desarrollo, tomando en consideración los convenios celebrados con la Federación, así como las disposiciones jurídicas en la materia;
 
-II. Supervisar la elaboración de Programas Operativos Anuales de las Dependencias y Entidades de la Administración Pública Estatal;
+II. (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
 
-III. Prestar asesoría y asistencia técnica a las Dependencias y Entidades de la Administración Pública Estatal, en la elaboración de sus planes y programas operativos;
+III. (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
 
 IV. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+V. (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
 
-V. Coordinar el funcionamiento del Sistema Estatal de Planeación Democrática del Estado;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-VI. Propiciar la participación de las Dependencias y Entidades del sector público, así como de los diversos sectores de la sociedad, para coadyuvar en la elaboración y actualización del Plan Estatal de Desarrollo;
+VI. Propiciar la participación de las Secretarías, Dependencias y Entidades del sector público, así como de los diversos sectores de la sociedad, para coadyuvar en la elaboración y, en su caso, actualización del Plan Estatal de Desarrollo y los programas que de éste se deriven, considerando las previsiones del Plan Nacional de Desarrollo y programas que formule el sector público federal, así como la congruencia y alineamiento que deben guardar entre sí;
 
-VII. Coordinarse, dentro de su competencia, con los tres ámbitos de gobierno, que son responsables de la elaboración y aplicación de las atribuciones y funciones derivadas de los Sistemas Nacional y Estatal de Planeación;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-VIII. Promover los lineamientos metodológicos de operación del Sistema Estatal de Planeación;
+VII. Coordinarse, dentro de su competencia, con los tres ámbitos de Gobierno, que son responsables de la elaboración y aplicación de las atribuciones derivadas del Sistema Nacional de Planeación Democrática para el funcionamiento del Sistema Estatal de Planeación Democrática;
 
-IX. Llevar el Sistema Estatal de Información Estadística y Geográfica del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+VIII. Supervisar el diseño, puesta en marcha, administración y mantenimiento del Sistema de Información Estratégica del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+IX. Coordinar la integración de la información estadística para el funcionamiento del Sistema Estatal de Información Estadística y Geográfica del Poder Ejecutivo del Estado;
 
 X. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2008)
 
-XI. Participar con las dependencias correspondientes en la formulación de los programas de desarrollo urbano y rural;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XII. Integrar los documentos e información para la planeación del desarrollo del Estado, y promover o elaborar los estudios para definir y apoyar los criterios, métodos, técnicas y las bases de la planeación estatal;
+XI. Verificar el cumplimiento de la validación de la congruencia de la información registrada en el Sistema de Información Estratégica con los documentos oficiales emitidos por el Ejecutivo;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XII. Verificar la congruencia de las obras y proyectos de inversión pública estatal, con el Plan Estatal de Desarrollo; y exigir la presentación de la información necesaria para tales efectos;
 
 XIII. Fomentar la coordinación y cooperación de todos los sectores para la instrumentación a nivel local del Plan Estatal de Desarrollo, basado en el Plan Nacional de Desarrollo;
 
@@ -363,23 +377,31 @@ XIV. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2006)
 
 XV. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2008)
 
-XVI. Coordinar, en el ámbito de su competencia, la difusión de las acciones relevantes del quehacer público;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XVI. Supervisar la elaboración de proyectos presentados en el Comité de Planeación para el Desarrollo del Estado de Morelos;
 
 XVII. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2006)
 
-XVIII. Impulsar el diseño de instrumentos, a través de las instituciones integrantes de la coordinación de planeación para el desarrollo, con el objeto de verificar la congruencia de los programas sectoriales, con el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XVIII. Impulsar el funcionamiento de los subcomités del Comité de Planeación para el Desarrollo del Estado de Morelos, propiciando su participación en la formulación de proyectos;
 
 XIX. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2006)
 
 XX. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2006)
 
-XXI. Diseñar y proponer, en coordinación con las áreas responsables, los procedimientos que fortalezcan la capacidad institucional de los Municipios y faciliten las actividades de control y evaluación, que marca la normatividad vigente en el ejercicio de los recursos de origen Federal, que son operados por los Ayuntamientos;
+XXI. (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
 
-XXII. Coordinar cursos, conferencias y talleres de capacitación en materia de Planeación para el Desarrollo, por sí o a través de las instituciones responsables, dirigidos a los integrantes de los Subcomités Sectoriales, Especiales y de los Comités Subregionales, así como los Comités de Planeación para el Desarrollo Municipal, cuando así lo soliciten éstos últimos;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XXIII. Promover la actualización y adecuación del marco jurídico que fundamenta la planeación del desarrollo en el ámbito estatal y municipal, en congruencia con la normatividad aplicable, generando los proyectos o iniciativas del Ejecutivo que sean pertinentes, para análisis y, en su caso, someterlas a la aprobación del Congreso del Estado, de conformidad con las disposiciones legales aplicables;
+XXII. Coordinar cursos, conferencias y talleres de capacitación en materia de planeación para el desarrollo, por sí o a través de las instituciones responsables, dirigidos a los integrantes de los subcomités del Comité de Planeación para el Desarrollo del Estado de Morelos y de los Comités de Planeación para el Desarrollo Municipal, cuando así lo soliciten éstos últimos, a fin de fortalecer la capacidad institucional de todos ellos;
 
-XXIV. Coordinar los proyectos estatales incluidos en el Plan Estatal de Desarrollo con los Municipios y autoridades que corresponda;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXIII. Promover la actualización y adecuación del marco jurídico que fundamenta la planeación del desarrollo estatal, en congruencia con la normatividad aplicable, generando los proyectos que sean pertinentes;
+
+XXIV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
 
 XXV. Propiciar el apoyo a los Ayuntamientos en el análisis, diagnóstico e implementación de las posibles mejoras normativas, reglamentarias e infraestructurales, cuando exista solicitud expresa de los mismos;
 
@@ -477,21 +499,17 @@ III. Dirección General de Coordinación de Programas Federales, y
 
 VI. Dirección General de Contabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 18.
 
-Quedan adscritas a la Subsecretaría de . Planeación las unidades administrativas siguientes:
+Quedan adscritas a la Subsecretaría de Planeación las unidades administrativas siguientes:
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+I. Dirección General de Estadística y Evaluación;
 
-I. Dirección General de Información y Evaluación;
+II. Dirección General de Información Estratégica, y
 
-II. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2008)
-
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
-
-III. Dirección General de Coordinación del Sistema Estatal de Planeación, y (sic)
+III. Dirección General de Coordinación de Planeación.
 
 ###### Artículo 19.
 
@@ -917,75 +935,149 @@ X. Elaborar los estudios y proyectos que sirvan de apoyo técnico en materia de 
 
 XI. Los demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 30.
 
-La Dirección General de Información y Evaluación atenderá el despacho de los siguientes asuntos:
+La Dirección General de Estadística y Evaluación atenderá el despacho de los siguientes asuntos:
 
-I. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2008)
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-II. Normar, coordinar y asesorar la formulación de los Programas Operativos Anuales de las Dependencias y Entidades de la Administración Pública Estatal, supervisando que sean congruentes con los objetivos y estrategias del Plan Estatal de Desarrollo;
+I. Definir, en el ámbito de su competencia, los instrumentos para el control y evaluación del Plan Estatal de Desarrollo, para adecuarlo a las previsiones de los planes que formule el sector público federal;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+II. Normar, coordinar y asesorar la formulación de los Programas Operativos Anuales de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, así como la programación anual de obras y proyectos de inversión pública estatal, supervisando que sean congruentes con los objetivos y estrategias del Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
 III. Coordinar la modificación de los Programas Operativos Anuales de las Dependencias del Poder Ejecutivo verificando que se ajusten al presupuesto autorizado para entregarlos al Congreso del Estado; asimismo, enterar al Congreso a través de los informes de la gestión gubernamental de las modificaciones que se realicen durante el año;
 
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
 IV. Normar, coordinar e integrar los informes de gestión gubernamental, los cuales sustentan los avances de los Programas Operativos Anuales de las Dependencias y Entidades de la Administración Pública;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
 V. Diseñar y operar el Sistema de Evaluación del Desempeño de las Dependencias y Entidades del Poder Ejecutivo para integrar trimestralmente los resultados de la evaluación de los Programas Operativos Anuales;
 
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
 VI. Asesorar a los Municipios del Estado, en la formulación de sus programas operativos anuales, a solicitud expresa de éstos;
 
-VII. Elaborar trimestralmente la gaceta informativa referente a las obras y acciones relevantes del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+VII. Informar a su superior jerárquico sobre la congruencia en la elaboración y contenido de los programas operativos anuales que se generan en el Sistema Estatal de Planeación Democrática;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
 VIII. Normar, coordinar e integrar con la participación de las Dependencias y Entidades del sector público, la elaboración de los documentos necesarios para preparar el informe Anual del Ejecutivo;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
 
 IX. Formular la Agenda Estadística Anual del Poder Ejecutivo, la cual concentrará y proporcionará información necesaria a las diferentes instancias para la toma de decisiones;
 
 X. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2008)
 
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2006)</small>
+
 XI. Las demás que le confieran otras disposiciones jurídicas aplicables o le delegue su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 31.
 
-(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2008)
+La Dirección General de Información Estratégica atenderá el despacho de los siguientes asuntos:
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+I. Coordinar el diseño, puesta en marcha, administración y mantenimiento del Sistema de Información Estratégica del Poder Ejecutivo;
+
+II. Promover cursos y talleres de capacitación para operar el Sistema de Información Estratégica;
+
+III. Coadyuvar en la integración de los documentos necesarios para preparar el Informe Anual del Ejecutivo;
+
+IV. Participar en la formulación de la Agenda Estadística Anual del Poder Ejecutivo;
+
+V. Coordinar el análisis de estadísticas nacionales y estatales para proveer de información para la toma de decisiones;
+
+VI. Coordinar la validación de la congruencia de la información registrada en el Sistema de Información Estratégica con los documentos oficiales emitidos por el Ejecutivo;
+
+VII. Normar y coordinar la integración de la información estratégica que permita la adecuada toma de decisiones, y
+
+VIII. Las demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 32.
 
-La Dirección General de Coordinación del Sistema Estatal de Planeación atenderá el despacho de los siguientes asuntos:
+La Dirección General de Coordinación de Planeación atenderá el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
 
 I. Coordinar el Sistema Estatal de Planeación Democrática;
 
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+
 II. Establecer los mecanismos de coordinación con las Dependencias y Entidades de la Administración Pública Estatal y Municipal y de los grupos sociales interesados, para la formulación del Plan Estatal de Desarrollo;
 
-III. Actualizar el Plan Estatal de Desarrollo buscando, siempre la congruencia con el Plan Nacional de Desarrollo y los programas que de éste se deriven;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+III. Actualizar, en su caso, el Plan Estatal de Desarrollo, buscando siempre la congruencia con el Plan Nacional de Desarrollo y los programas que de éste se deriven;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
 
 IV. Establecer la mesa de planeación con las instancias de planeación de las dependencias y entidades de la Administración Pública Estatal, Federal y Municipal, para la definición de programas y proyectos, guardando congruencia con el Plan Estatal de Desarrollo;
 
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+
 V. Normar la formulación de los programas sectoriales, especiales. regionales e institucionales, asegurando su congruencia con el Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
 
 VI. Dar seguimiento a los objetivos y metas de los programas sectoriales, especiales, regionales e institucionales, con base en sus indicadores registrados;
 
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+
 VII. Coordinar los foros de consulta ciudadana para la formulación del Plan Estatal de Desarrollo y los programas sectoriales, especiales, regionales e institucionales, así como para los Programas Operativos Anuales.
 
-VIII. Coordinar la integración de proyectos de infraestructura y desarrollo estatal, así como el seguimiento correspondiente;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-IX. Definir, en el ámbito de su competencia, los instrumentos para el control y evaluación del Plan Estatal de Desarrollo, para adecuarlo a las previsiones de los planes que formule el sector público federal;
+VIII. Normar y coordinar el proceso de integración de proyectos de infraestructura y desarrollo estatal, así como el seguimiento correspondiente;
+
+IX. (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
 
 X. Informar a su superior jerárquico sobre la congruencia en la elaboración y contenido de los planes y programas que se generan en el Sistema Estatal de Planeación Democrática;
 
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+
 XI. Asesorar a los Municipios del Estado en la formulación, seguimiento y evaluación de sus planes y programas municipales de desarrollo, cuando haya solicitud expresa de los mismos;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
 
 XII. Promover cursos, conferencias y talleres de capacitación en materia de planeación para el desarrollo;
 
-XIV (SIC). Organizar las sesiones plenarias del COPLADE, y dar seguimiento a los acuerdos que de ahí emanen;
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-XV. Presentar a su superior jerárquico la información técnica de los asuntos a tratar en las reuniones plenarias del COPLADE;
+XIII. Organizar las sesiones plenarias del Comité de Planeación para el Desarrollo del Estado de Morelos;
 
-XVI. Fortalecer la organización y funcionamiento de los subcomités sectoriales y especiales del COPLADE, así como de los comités municipales, propiciando su participación en la formulación de proyectos de desarrollo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XIV. Dar seguimiento a los acuerdos que emanen de las sesiones plenarias del Comité de Planeación del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XV. Presentar a su superior jerárquico la información técnica de los asuntos a tratar en las reuniones plenarias del Comité de Planeación para el Desarrollo del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XVI. Fortalecer la organización y funcionamiento de los subcomités sectoriales y especiales del Comité de Planeación para el Desarrollo del Estado de Morelos, así como de los comités municipales, propiciando su participación en la formulación de proyectos de desarrollo;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
 
 XVII. Brindar asesoría a, los Comités de Planeación para el Desarrollo Municipal cuando esto le sea encomendado, y
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
 
 XVIII. las demás que determinen las disposiciones legales vigentes o le delegue su superior jerárquico.
 
@@ -1232,3 +1324,15 @@ SEGUNDO. Los Manuales de Organización y de Políticas y Procedimientos, de las 
 TERCERO. Las unidades administrativas de las Secretarías de Gobierno, Finanzas y Planeación, Desarrollo Económico y Desarrollo Agropecuario, que transfieren sus funciones a la Secretaría de Desarrollo Humano y Social, realizarán la migración de los recursos humanos, materiales y financieros que correspondan, dentro de los 30 días naturales posteriores a la publicación del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+PRIMERO. Publíquese el presente Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Reglamento Interior de la Secretaría de Finanzas y Planeación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERO. Cuando en una ley, reglamento o disposición jurídica se haga mención de la Dirección General de Información y Evaluación y Dirección General del Sistema Estatal de Planeación, se entenderá que se refieren a la Dirección General de Estadística y Evaluación y Dirección General de Coordinación de Planeación, respectivamente.
+
+CUARTO. Se derogan las disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
+
+QUINTO. En un plazo que no deberá exceder de 90 días deberán actualizarse o emitirse, según corresponda, los correspondientes manuales de organización o de políticas y procedimientos.
