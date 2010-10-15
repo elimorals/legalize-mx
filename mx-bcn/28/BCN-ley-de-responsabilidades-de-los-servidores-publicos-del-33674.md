@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2010-05-21"
+last_updated: "2010-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -93,7 +93,9 @@ VI. Los Síndicos Procuradores; y
 
 VII. Los demás que establezcan las leyes.
 
-Las autoridades señaladas anteriormente podrán delegar la función para investigar las presuntas faltas e instruir y resolver el procedimiento administrativo que corresponda.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+Las autoridades señaladas anteriormente, en el ámbito de sus competencias, quedan facultadas para emitir criterios administrativos relacionados con la aplicación de esta ley; asimismo, podrán delegar la función para investigar las presuntas faltas e instruir y resolver el procedimiento administrativo que corresponda.
 
 Dentro del ámbito del Poder Ejecutivo Estatal, si de las investigaciones y auditorías que realice la Dirección, apareciera la responsabilidad de los servidores públicos, informará al órgano de control de la dependencia correspondiente para que proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidad grave cuyo conocimiento solo compete a la Dirección, ésta se abocará directamente el asunto.
 
@@ -553,9 +555,11 @@ Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que
 
 En aquellos casos en que no se causen daños y perjuicios ni exista lucro, la inhabilitación se impondrá cuando se considere pertinente tomando en cuenta la gravedad de la conducta y las circunstancias especiales que rodean los hechos.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 60.
 
-Son faltas graves, el incumplimiento a lo dispuesto por las fracciones III, IV, V, X, XII, XV y XVI del artículo 46, así como el incumplimiento a lo dispuesto por las fracciones II, IV, V, VI, VII, VIII, IX, XI, XIII y XVI del artículo 47 de esta Ley.
+Son faltas graves, el incumplimiento a lo dispuesto por las fracciones III, IV, V, X, XI, XII, XV y XVI del artículo 46, así como el incumplimiento a lo dispuesto por las fracciones II, IV, V, VI, VII, VIII, IX, XI, XIII, XV y XVI del artículo 47 de esta Ley.
 
 ###### ARTÍCULO 61.
 
@@ -755,7 +759,13 @@ IV. En el Poder Judicial: Magistrados del Tribunal Superior de Justicia, Magistr
 
 V. En el Ayuntamiento y Consejos Municipales: Presidente Municipal, Presidente del Consejo Municipal, Síndico Procurador, Regidores, Consejales, Secretarios, Subsecretarios, Oficial Mayor, Secretario de Gobierno Municipal, Secretario Fedatario del Ayuntamiento, Administrador de la Ciudad, Tesorero, Subtesorero, Recaudador de Rentas Municipal y Recaudadores, Recaudadores auxiliares de Rentas Municipales, Subrecaudador de Rentas Municipales y subrecaudadores, Delegados, Subdelegados, Secretarios Delegacionales, Titulares de las Dependencias, Directores, Subdirectores, Jefes de departamento, Oficiales del Registro Civil, Suboficiales del Registro Civil, Coordinadores, Administradores, Comandantes, Subcomandantes, Jefes y Subjefes de Policía, Supervisores, Comisarios, Auditores, Inspectores, Jueces Municipales o Calificadores, Secretarios de Acuerdos y Actuarios de Juzgados Calificadores, Jueces, Secretarios de Acuerdos y Actuarios del Órgano Contencioso Administrativo Municipal, Promotores, Integrantes del Órgano de Gobierno de las Entidades Paramunicipales.
 
-Así mismo, deberán presentar la declaración que corresponda, los demás servidores públicos que determine la Dirección, la Contraloría Interna del Congreso del Estado, la Contraloría Interna del Consejo de la Judicatura o los Síndicos Procuradores, en sus respectivos ámbitos de competencia, mediante disposiciones generales debidamente motivadas y fundadas.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+Asimismo, deberán presentar la declaración que corresponda, los demás servidores públicos que determine la Dirección, la Contraloría Interna del Congreso del Estado, la Contraloría Interna del Consejo de la Judicatura, los Órganos de Control de los Organismos Constitucionales Autónomos o los Síndicos Procuradores, en sus respectivos ámbitos de competencia, mediante disposiciones generales debidamente motivadas y fundadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+En los supuestos en que, por disposición legal o por cualquier otra causa, los servidores públicos dejaren de desempeñar de manera temporal la función encomendada, derivada de su encargo público y no perciban retribución alguna en virtud de ello, las autoridades referidas en el párrafo anterior, en el ámbito de sus respectivas competencias, determinarán la forma en que estos darán cumplimiento a la obligación prevista en este artículo.
 
 ###### ARTÍCULO 78.
 
@@ -765,9 +775,17 @@ I. Dentro de los sesenta días naturales siguientes a la toma de posesión;
 
 II. Dentro de los treinta días naturales siguientes a la conclusión del encargo; y
 
-III. Durante el mes de Mayo de cada año deberá presentarse la declaración de situación patrimonial, en su caso, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en el último trimestre del año inmediato anterior o que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I de este artículo.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-En el caso de que el último día del plazo a que se refiere el párrafo anterior fuere inhábil, la declaración deberá presentarse al día hábil siguiente.
+III. Durante los meses de Abril a Mayo de cada año deberá presentarse la declaración de situación patrimonial, en su caso, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto Sobre la Renta, salvo que en el último trimestre del año inmediato anterior o que en ese mismo año se hubiese presentado la declaración a que se refiere la fracción I de este artículo.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+Asimismo, mediante disposiciones de carácter general, la Dirección, la Contraloría Interna del Congreso del Estado, la Contraloría Interna del Consejo de la Judicatura, los Órganos de Control de los Organismos Constitucionales Autónomos o los Síndicos Procuradores, en sus respectivos ámbitos de competencia, podrán determinar un plazo distinto, en los casos de fuerza mayor o caso fortuito o en los supuestos de excepción a que se refiere el último párrafo del artículo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+En el caso de que el último día de los plazos a que se refiere este artículo fuere inhábil, la declaración deberá presentarse al día hábil siguiente.
 
 ###### ARTÍCULO 79.
 
@@ -950,3 +968,7 @@ P.O. 25 DE AGOSTO DE 2006.
 P.O. 21 DE MAYO DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
