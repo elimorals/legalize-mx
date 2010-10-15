@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2010-04-30"
+last_updated: "2010-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -593,7 +595,7 @@ El pago de los derechos anteriores podrá ser hecho por el beneficiado en exhibi
 
 La obligación de cubrir los derechos que establece este artículo nace desde el siguiente bimestre a aquel en que se inicien las obras, pudiendo interrumpirse la obligación del causante por la suspensión temporal o definitiva de ellas.
 
-> <small>(ADICIONADO, P.O 31 DE DICIEMBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ARTICULO 75 Bis A.- Se establece el Impuesto Predial:
 
@@ -706,6 +708,8 @@ XIV.- Las sociedades, agrupaciones, empresas o personas físicas que exploten bo
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 XV.- Para los efectos de este Impuesto se tomarán en cuenta la (sic) definiciones que sobre las distintas clases de predios y construcciones contiene la Ley del Catastro Inmobiliario del Estado de Baja California.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA, ASI COMO EL ARCHIVO ANEXO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
@@ -2366,3 +2370,9 @@ P.O. 30 DE ABRIL DE 2010.
 Artículo Primero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 Artículo Segundo.- Dentro del término de 60 días siguientes a la entrada en vigor de la presente reforma, los Municipios deberán realizar las adecuaciones necesarias a sus reglamentos correspondientes.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2011 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL.
