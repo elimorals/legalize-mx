@@ -4,7 +4,7 @@ identifier: "VER-reglamento-del-sistema-integral-de-desarrollo-policial-del-7333
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-27"
-last_updated: "2010-01-27"
+last_updated: "2010-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DEL SISTEMA INTEGRAL DE DESARROLLO POLICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 27 de enero de 2010.
 
@@ -465,7 +465,9 @@ II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevoc
 
 III. En su caso, tener acreditado el Servicio Militar Nacional;
 
-IV. Contar con estudios concluidos y debidamente acreditados de nivel de enseñanza media básica o su equivalente, para los aspirantes a las áreas de reacción y de nivel de enseñanza media superior o su equivalente para los aspirantes a las áreas de prevención;
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2010)</small>
+
+IV. Contar con estudios concluidos y debidamente acreditados de nivel de enseñanza básica o su equivalente, para los aspirantes a las áreas de reacción y de nivel de enseñanza media superior o su equivalente para los aspirantes a las áreas de prevención;
 
 V. Aprobar el proceso de selección y los cursos de formación;
 
@@ -497,11 +499,25 @@ I. Toxicológico;
 
 II. Médico;
 
-III. Conocimientos Generales y Habilidades Intelectuales Básicas;
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2010)</small>
 
-IV. Estudio de Personalidad; y
+III. Poligráfico;
 
-V. Estudio de Capacidad Física.
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2010)</small>
+
+IV. Patrimonial y de entorno social;
+
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2010)</small>
+
+V. Psicológico y/o estudio de personalidad;
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2010)</small>
+
+VI. Capacidad física; y
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2010)</small>
+
+VII. Conocimientos generales y habilidades intelectuales básicas.
 
 Las instancias evaluadoras entregarán los resultados al titular de la Institución Policial de que se trate, quien, a su vez, deberá informarlos de manera inmediata a la Coordinación del Servicio Policial de Carrera y Supervisión y a los evaluados.
 
@@ -679,13 +695,25 @@ I. Toxicológico;
 
 II. Médico;
 
-III. Estudio de personalidad;
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2010)</small>
 
-IV. Técnicas Policiales;
+III. Poligráfico;
 
-V. Evaluación del Desempeño de la Función; y
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2010)</small>
 
-VI. Patrimonial y de Entorno Social.
+IV. Patrimonial y de entorno social;
+
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2010)</small>
+
+V. Psicológico y/o estudio de personalidad;
+
+> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2010)</small>
+
+VI. Técnicas policiales; y
+
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2010)</small>
+
+VII. Evaluación del desempeño de la función.
 
 Para la evaluación, supervisión y seguimiento de estas evaluaciones se procederá de acuerdo con los anexos Técnicos de los Convenios de Coordinación que se celebren con el Gobierno Federal y atendiendo a los criterios fijados por el Sistema Nacional.
 
@@ -990,3 +1018,11 @@ Gral. Sergio López Esquer
 Secretario de Seguridad Pública
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 15 DE OCTUBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
