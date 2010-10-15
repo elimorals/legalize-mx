@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2010-04-23"
+last_updated: "2010-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -109,9 +109,79 @@ XVIII.- Coadyuvar con el Ministerio Público de la Federación y con el de las d
 
 XIX.- Certificar copias sobre constancias de actuaciones o registros que obren en su poder en los casos que permita la Ley;
 
-XX.- Proporcionar la información que en materia de seguridad pública le sea requerida y mantenerla actualizada, en términos de la Ley de Seguridad Pública del Estado y las disposiciones respectivas; y
+XX.- Proporcionar la información que en materia de seguridad pública le sea requerida y mantenerla actualizada, en términos de la Ley de Seguridad Pública del Estado y las disposiciones respectivas; y (sic)
 
-XXI.- Las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+REFORMADA, P.O. 15 DE OCTUBRE DE 2010
+
+XXI.- Perseguir y conocer de los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud, así como recibir su investigación, cuando se colmen los supuestos del artículo 474 de dicho ordenamiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXII.- Remitir al Ministerio Público de la Federación cuando éste así lo solicite, conforme a lo dispuesto en el inciso b) de la fracción IV del artículo 474 de la Ley General de Salud, la investigación correspondiente relativa a los delitos contra la salud en su modalidad de narcomenudeo previstos en el capítulo VII del título XVIII de dicho ordenamiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXIII.- Informar oportunamente al Ministerio Público de la Federación, del inicio de las averiguaciones previas por los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXIV.- Practicar en los casos a que se refiere el párrafo segundo del artículo 474 de la Ley General de Salud, las diligencias de averiguación previa que correspondan y remitir el acta o actas levantadas y todo lo que con ellas se relacione, al Ministerio Público de la Federación dentro de los tres días de haberlas concluido;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXV.- Remitir el expediente relativo a los delitos contra la salud en su modalidad de narcomenudeo a que se refiere el capítulo VII del título XVIII de la Ley General de Salud al Ministerio Público de la Federación o al juez federal que corresponda, dependiendo de la etapa procesal en que se encuentre, a fin de que se continúe el procedimiento, cuando de las constancias de éste se advierta su incompetencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXVI.- Comprar, adquirir, o recibir la transmisión material de algún narcótico, por conducto de su policía y para fines de investigación, a efecto de lograr la detención del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines y el aseguramiento correspondiente; siempre y cuando haya sido autorizado en cada caso por el Titular del Ministerio Público de la Federación o por el servidor público que éste designe;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXVII.- Señalar por escrito en la orden respectiva, los lineamientos, términos, limitaciones, modalidades y condiciones a los que deberá sujetarse el agente o agentes de la policía que la ejecuten, una vez expedida la autorización a que se refiere la fracción anterior;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXVIII.- Realizar a la Secretaría de Salud del Estado el reporte de no ejercicio de la acción penal por el delito previsto en el artículo 477 de la Ley General de Salud en contra de quien sea farmacodependiente o consumidor y posea alguno de los narcóticos señalados en la tabla contenida en el artículo 479 de dicha Ley, siempre y cuando sea fuera de los lugares señalados en la fracción II del artículo 475 y se colmen los supuestos del artículo 474 del mismo ordenamiento;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXIX.- Informar de inmediato y en su caso dar intervención a las autoridades sanitarias competentes, para los efectos del tratamiento que corresponda, tan pronto identifique que una persona relacionada con un procedimiento es farmacodependiente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXX.- Informar según le corresponda, a la autoridad administrativa competente, cuando tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de la naturaleza que sea lo empleare para realizar cualquiera de las conductas sancionadas en el capítulo VII del título XVIII de la Ley General de Salud;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXXI.- Recibir del Ministerio Público de la Federación o de quien para tal efecto haya designado, el aviso mediante el cual éste autorizó para fines de investigación a los agentes de la policía bajo su conducción y mando, para comprar, adquirir o recibir la transmisión material de algún narcótico en la entidad para lograr la detención y el aseguramiento correspondiente del probable responsable del comercio o suministro de narcóticos o de la posesión de los mismos con dichos fines;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXXII.- las demás que le otorguen las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -610,3 +680,9 @@ LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN 
 P.O. 23 DE ABRIL DE 2010.
 
 EL DECRETO CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
+
+SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
