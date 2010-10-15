@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2009-12-28"
+last_updated: "2010-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -127,11 +127,23 @@ XVII.- El programa contra el alcoholismo;
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2005)</small>
 
-XVIII.- El programa contra el tabaquismo; y
+XVIII.- El programa contra el tabaquismo; y (sic)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE AGOSTO DE 2009)</small>
 
-XIX.- La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes.
+XIX.- La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XX.- La orientación médica o prevención del farmacodependiente o consumidor, respectivamente, cuando reciba del Ministerio Público, el reporte de no ejercicio de la acción penal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XXI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -245,13 +257,47 @@ V.- Promover, orientar y apoyar las acciones en materia de salubridad local a ca
 
 VI.- Cumplir y hacer cumplir las normas oficiales mexicanas en la materia, cuando su aplicación corresponda a las autoridades locales;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII.- Impulsar la coordinación y colaboración de los integrantes del Sistema Estatal de Salud para efectuar el control sanitario de los Centros de Desarrollo Infantil y de las Estancias Infantiles Familiares; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+VII.- Coordinarse con la Secretaría de Salud Federal para la ejecución en el Estado, del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia;
 
-VIII.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+
+VIII.- Promover y llevar a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, así como las acciones para su detección temprana en el individuo, de conformidad con los términos establecidos por el programa nacional para la prevención y tratamiento de la farmacodependencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+IX.- Proporcionar información y brindar la atención médica y los tratamientos que requieren las personas que consumen estupefacientes y psicotrópicos; conforme a los términos establecidos por el programa nacional para la prevención y tratamiento de la farmacodependencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+X.- Fomentar la participación de los sectores tanto público, social y privado en la prevención y tratamiento y apoyo a las personas que padecen alguna adicción o se encuentran en riesgo de padecerla;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XI.- La prevención del Consumo de narcóticos y la atención a las adicciones;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XII.- Citar al farmacodependiente o consumidor a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos en la materia, una vez que el centro o institución especializado en tratamiento, atención y rehabilitación de farmacodependientes haya recibido de la Secretaria de Salud del Estado el reporte de no ejercicio de la acción penal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
+
+XIII.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -763,7 +809,11 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Las Autoridades Sanitarias del Estado, con la participación de las instituciones de educación superior, colegios de profesionistas de la salud o asociaciones civiles, según se requiera, elaborarán programas de servicio social para los profesionales de la salud, en beneficio de grupos vulnerables, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-#### SECCION III. DEL PROGRAMA CONTRA LA FARMACODEPENDENCIA
+#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 62.
 
@@ -1139,11 +1189,19 @@ Los establecimientos comerciales que vendan productos derivados del tabaco, debe
 
 A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términos de la normatividad aplicable.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE OCTUBRE DE 2010)</small>
+
 #### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ###### ARTÍCULO 105.
 
-Las Autoridades Sanitarias del Estado coadyuvarán con el Consejo de Salubridad General y demás Autoridades Sanitarias Federales, para la ejecución en el Estado, del Programa Nacional contra la Farmacodependencia.
+La Secretaría de Salud del Estado se coordinará con la Secretaría de Salud Federal para la ejecución en la entidad del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, el cual establecerá los procedimientos y criterios para la prevención, tratamiento y control de las adicciones y será de observancia obligatoria para los prestadores de Servicios de Salud del Sistema Nacional de Salud en Baja California, así como en los establecimientos de los sectores público, privado y social que realicen actividades preventivas de tratamiento y de control de las adicciones y la farmacodependencia.
+
+Para el tratamiento de los farmacodependientes la Secretaría de Salud de Baja California gestionará los recursos necesarios y creará junto con la Federación, centros especializados en tratamiento, atención y rehabilitación con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libertad de decisión del farmacodependiente. La ubicación de los centros estará basada en estudios rigurosos del impacto de las adicciones en cada municipio del Estado.
+
+La Secretaría de Salud del Estado creará un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen.
+
+Asimismo, celebrará convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características y posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
 
 ###### ARTÍCULO 106.
 
@@ -2074,3 +2132,9 @@ TERCERO.- La Secretaría de Salud dentro del plazo de 180 días contados a parti
 P.O. 28 DE DICIEMBRE DE 2009.
 
 Único.- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del 21 de agosto del 2012.
+
+SEGUNDO.- Las autoridades locales desde el momento en que se publique este Decreto realizarán las acciones necesarias, según sea el caso, a fin de dar el debido cumplimiento a las atribuciones contenidas en el mismo, a efecto de que asuman las mismas a partir de la entrada en vigor del presente Decreto.
