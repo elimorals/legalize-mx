@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-sistema-para-el-desarrollo-integral-416
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-06"
-last_updated: "2004-10-06"
+last_updated: "2010-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. 16 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 6 de octubre de 2004.
 
@@ -586,3 +588,13 @@ LIC. JOSÉ MURAT.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. CELESTINO MANUEL ALONSO ÁLVAREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.-El presente reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, publicado el día 06 de octubre del año dos mil cuatro, en el Extra del Periódico Oficial.
