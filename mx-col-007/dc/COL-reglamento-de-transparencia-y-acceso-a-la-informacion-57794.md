@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transparencia-y-acceso-a-la-informacion-57794"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-17"
-last_updated: "2007-11-17"
+last_updated: "2010-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL H. AYUNTAMIENTO CONSTITUCIONAL DE MANZANILLO, COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 17 de noviembre de 2007.
 
@@ -111,7 +111,9 @@ XIV Ley de Datos Personales: A la Ley de Protección de Datos Personales del Est
 
 XV Ley de Responsabilidades: A la Ley Estatal de Responsabilidades de los Servidores Públicos, del Estado de Colima.
 
-XVI Módulo de Información: A la Unidad para la Transparencia y Acceso a la Información Pública del Ayuntamiento, conformada por la Dirección de Desarrollo Administrativo, un Enlace y un servidor público que atenderá a los peticionarios en el Módulo de Información.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2010)</small>
+
+XVI Módulo de información: A la Unidad para la Transparencia y Acceso a la Información Pública del Ayuntamiento, conformada por la Dirección de Calidad y Mejora Continua, un Enlace y un servidor público que atenderá a los peticionarios en el Módulo de Información.
 
 XVII Enlace: Servidor público responsable de la recepción de las peticiones de acceso a la información pública, así como de la Unidad de Información encargada de liberar la misma.
 
@@ -177,7 +179,9 @@ I Deberá contar con una Ventanilla de Transparencia que cuente con equipo de c�
 
 a. La Ventanilla de Transparencia estará ubicada en Palacio Municipal, de la Ciudad y cabecera municipal de Manzanillo.
 
-b. La Unidad de Información se ubicará en las oficinas de la Dirección de Desarrollo Administrativo, en la Ciudad de Manzanillo, Colima.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2010)</small>
+
+b. La Unidad de Información se ubicará en las oficinas de la Dirección de Calidad y Mejora Continua, en la Ciudad de Manzanillo, Colima.
 
 II Recibir, dar trámite y permitir el acceso a la información pública que generen las dependencias que integran la Administración pública centralizada municipal.
 
@@ -694,3 +698,13 @@ DADO EL PRESENTE ACUERDO DE CABILDO A LOS 06 SEIS DÍAS DEL MES DE NOVIEMBRE DEL
 C. Virgilio Mendoza Amezcua, Presidente Municipal, Rúbrica y Sello de Presidencia Municipal. C. J. Antonio Álvarez Macías, Síndico Municipal. Licda. Gretel Culin Jaime, Regidora. C. Irma Zulema Cobián Chávez, Regidora. C. Miguel Salazar Abaroa, Regidor. Licda. María Natividad Gómez Rangel, Regidora. Lic. Juan Roberto Barbosa López, Regidor. Lic. Abraham Velázquez Larios, Regidor. Ing. Francisco Alberto Zepeda González, Regidor. Profr. José María Valencia Delgado, Regidor. Ing. Francisco Santana Ochoa, Regidor. C. Héctor Manuel Torres Farías, Regidor. C. Alfredo Woodward Rojas, Regidor. Licda. Gabriela Benavides Cobos. Secretario del H. Ayuntamiento. Rúbrica y Sello de la Secretaría del H. Ayuntamiento.
 
 ATENTAMENTE. SUFRAGIO EFECTIVO. NO REELECCIÓN. MANZANILLO, COL. A 7 DE NOVIEMBRE DEL 2007. PRESIDENTE MUNICIPAL, VIRGILIO MENDOZA AMEZCUA. Rúbrica. SECRETARIO DEL H. AYUNTAMIENTO, GABRIELA BENAVIDES COBOS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS PUNTOS DEL DICTAMEN RELACIONADOS CON LA ENTRADA EN VIGOR DE LAS PRESENTES REFORMAS.</small>
+
+P.O. 16 DE OCTUBRE DE 2010.
+
+TERCERO: De aprobar el Pleno del H. Cabildo el presente dictamen, respecto a las Reformas y adecuación al Reglamento en mención solicitamos que por conducto del C. Secretario del Ayuntamiento se gire oficio con los insertos necesarios al Secretario General de Gobierno del Estado para que a su vez ordene su publicación en el Periódico Oficial "El Estado de Colima" y de esta manera entre en vigor al día siguiente de su publicación en el mismo.
+
+CUARTO: El presente dictamen fue aprobado por los Integrantes de la Comisión de Transparencia y Derecho a la Información y la Comisión de Gobernación y Reglamentos.
