@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-589-de-transito-y-transporte-para-el-estado-de-52217
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-06"
-last_updated: "2010-04-02"
+last_updated: "2010-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 589 DE TRANSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE OCTUBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 6 de noviembre del 2006.
 
@@ -77,6 +77,10 @@ V. Director: Al Director General de Tránsito y Transporte del Estado;
 
 VI. Estado: El de Veracruz de Ignacio de la Llave;
 
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+VI Bis. Estado de ebriedad: El que presenta una persona cuando ha ingerido alcohol en una cantidad tal que lo exhala en más de 0.4 (cero punto cuatro) miligramos por litro, o lo tiene en su sangre en proporción mayor a 0.8 (cero punto ocho) gramos por litro;
+
 VII. Instituto: Al Instituto Veracruzano del Transporte;
 
 VIII. Ley: A la Ley de Tránsito y Transporte para el Estado de Veracruz de Ignacio de la Llave;
@@ -92,6 +96,10 @@ XII. Registro: Al Registro de Transporte Público;
 XIII. Reglamento: Al Reglamento de la Ley;
 
 XIV. Ruta: El recorrido autorizado para la prestación del servicio de transporte público;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+XIV Bis. Salario: El salario mínimo general vigente en la capital del estado;
 
 XV. Secretaría: A la Secretaría de Gobierno del Estado;
 
@@ -253,9 +261,27 @@ XVII. Imponer las sanciones que sean aplicables por contravención a las disposi
 
 XVIII. Resolver, de conformidad con lo establecido en el Código de Procedimientos Administrativos para el Estado, los recursos que se interpongan en contra de la aplicación de las disposiciones contenidas en esta Ley y su Reglamento;
 
-XIX. Ejecutar los m/andamientos de autoridades judiciales y administrativas, cuando éstas así lo soliciten; y
+XIX. Ejecutar los m/andamientos de autoridades judiciales y administrativas, cuando éstas así lo soliciten; y (sic)
 
-XX. Las demás que le confieran el Secretario, esta Ley, su Reglamento y otros ordenamientos.
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+XX. En coordinación con la Secretaría de Salud del Estado de Veracruz, operar y administrar el servicio de medicina preventiva en el transporte, realizando exámenes médicos a conductores del servicio de transporte público, con cargo a los concesionarios o permisionarios;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+XXI. Previo acuerdo del Ejecutivo del Estado o del secretario, designar o remover a los servidores públicos que integren la plantilla del personal de la Dirección;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+XXII. La expedición de licencias de conducir en cualquiera de sus tipos, así como la emisión de tarjetones de identificación a conductores de vehículos del transporte público;
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+XXIII. Por sí o mediante apoderado legal, representar legalmente a la Dirección, a las Delegaciones dependientes de la misma y ejercer cualquier acción en contra de terceros, en los casos en que se vean afectados los bienes muebles e inmuebles que tienen bajo su resguardo; y
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+XXIV. Las demás que le confieran esta Ley, su Reglamento y otros ordenamientos.
 
 ###### Artículo 15.
 
@@ -313,9 +339,11 @@ Cuando los municipios presten directamente el servicio público de tránsito deb
 
 ### Capítulo V. Organismos Auxiliares
 
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 19.
 
-Son auxiliares en materia de tránsito y transporte, las corporaciones de seguridad pública del Estado, el Instituto, el Consejo y los Patronatos de educación vial.
+Son auxiliares en materia de tránsito y transporte las corporaciones de Seguridad Pública del Estado, la Secretaría de Salud del Estado, el Instituto, el Consejo y los Patronatos de Educación Vial.
 
 ### Capítulo VI. Instituto Veracruzano del Transporte
 
@@ -345,7 +373,7 @@ IX. Asesorar a las empresas de transporte en materia de gestión de la demanda d
 
 X. En términos de lo dispuesto por su junta de gobierno, prestar asesoría técnica en materia de transporte y vialidad;
 
-XI. Operar y administrar el servicio de medicina preventiva en el transporte a través de exámenes médicos a conductores del servicio de transporte público, con cargo a los concesionarios o permisionarios;
+XI. (DEROGADA, G.O. 18 DE OCTUBRE DE 2010)
 
 XII. Promover y fomentar la cultura vial en el Estado; y
 
@@ -661,6 +689,26 @@ Los vehículos contarán con cinturones de seguridad para todos sus ocupantes. T
 
 Todo vehículo contará con póliza de responsabilidad civil vigente que ampare, al menos, los daños que se ocasionen a pasajeros o a terceros en su persona y en sus bienes.
 
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Los montos amparados por la póliza a que se refiere este artículo, en los casos de vehículos del servicio particular, en ningún momento serán inferiores a nueve mil días de salario en concepto de daños a terceros.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+En los casos de vehículos del servicio de transporte público, los montos de las pólizas deben amparar por lo menos, en concepto de daños a terceros y sus bienes, nueve mil días de salario y por pasajero, mil quinientos salarios.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Los transportistas del estado, para dar cumplimiento a lo previsto en el presente artículo, en vez de adquirir pólizas de seguro, podrán constituir fondos de garantía, por empresa o asociación, cuyos montos en ningún caso serán inferiores a cien mil días de salario. Al efecto, exhibirán ante la Dirección un informe mensual con el estado de cuenta del fondo de garantía.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Ninguna unidad vehicular circulará en los caminos de jurisdicción estatal, sin póliza de responsabilidad o amparada por el fondo de garantía correspondiente. La Dirección retirará de la circulación, para su depósito en el corralón, cualquier unidad que circule sin la póliza de garantía o sin estar comprendida en un fondo de garantía, en los términos prescritos en el presente artículo y sólo entregará la unidad a su propietario tan luego que haya satisfecho dicho requisito.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Los gastos generados por concepto de arrastre y corralón, derivados por el envío de una unidad por falta de póliza o del fondo de garantía, correrán a cargo del propietario de la misma.
+
 ### Capítulo V. Prevención de la Contaminación
 
 ###### Artículo 47.
@@ -672,6 +720,10 @@ La Dirección coadyuvará en la vigilancia de esta disposición con las autorida
 ###### Artículo 48.
 
 Las autoridades de tránsito y transporte ordenarán el retiro de la circulación de los vehículos que no porten la constancia de haber acreditado la verificación vehicular y de los que emitan humo negro o azul o ruido en exceso.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Las unidades que circulen contraviniendo la presente disposición serán retiradas de circulación y depositadas en los corralones, a disposición de la Secretaría de Desarrollo Social y Medio Ambiente, para que con los propietarios de aquéllas se establezca el procedimiento a fin de que cumplan la verificación vehicular correspondiente y sólo de esa manera se autorice la circulación de las mismas, previo pago de multa, arrastre y días de corralón.
 
 ###### Artículo 49.
 
@@ -713,6 +765,26 @@ III. Motociclista; y
 
 IV. Motorista.
 
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+La licencia de chófer tipo "A" autoriza a su titular a conducir vehículos de motor dedicados al servicio de transporte público de pasajeros.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+La licencia de chofer tipo "B" autoriza a su titular a conducir toda clase de vehículos de motor del servicio de transporte público de carga y particular.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+La licencia de automovilista tipo "C" autoriza a su titular a conducir vehículos de motor del servicio particular, cuya capacidad no rebase las 3.5 toneladas.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+La licencia de motociclista tipo "D" autoriza a su titular a conducir vehículos de dos o tres ruedas y también las denominadas cuatrimotos.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+La licencia de motorista tipo "E" autoriza a su titular a conducir vehículos de maquinaria para construcción o agrícolas.
+
 ###### Artículo 55.
 
 Para obtener la licencia de conducir en cualquiera de las categorías señaladas en las fracciones II a IV del artículo anterior, el interesado deberá cubrir los siguientes requisitos:
@@ -739,9 +811,11 @@ X. Los demás que señale el Reglamento.
 
 Para el otorgamiento de licencias a personas residentes en municipios que presten directamente el servicio de tránsito, los solicitantes acreditarán no tener infracciones pendientes de pago, mediante la constancia que expida dicha autoridad.
 
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 56.
 
-Para obtener la licencia de conducir en la categoría de chofer señalada en el artículo 54, el interesado deberá además reunir los requisitos señalados en el artículo anterior, haber cumplido 21 años de edad y mantener actualizada su capacitación, cursando y aprobando cada dos años el curso de capacitación en materia vial que imparta el Instituto.
+Para obtener la licencia de conducir en la categoría de chofer tipo" A", el interesado deberá, además de reunir los requisitos señalados en el artículo anterior, haber cumplido veintiún años de edad y aprobar los exámenes toxicológicos que aplique la Dirección conjuntamente con la Secretaría de Salud del Estado. También, para mantener la vigencia de esa licencia, deberá actualizar su capacitación, aprobando cada dos años el curso que en materia vial imparta el Instituto.
 
 ###### Artículo 57.
 
@@ -815,7 +889,13 @@ VII. Por resolución judicial que cause ejecutoria; y
 
 VIII. Cuando el titular sea operario del transporte público de pasajeros en sus modalidades de urbano, suburbano o foráneo y conduzca en estado de ebriedad, bajo el influjo de estupefacientes u otras sustancias tóxicas o viole las disposiciones de los artículos 75 y 83 de esta Ley.
 
-En la prestación del servicio público de transporte, en todas las modalidades, las disposiciones reglamentarias señalarán las demás causas de cancelación.
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Cuando el conductor de un vehículo cause la muerte a una persona, con motivo de la conducción en estado de ebriedad, la Dirección, además de cancelar la licencia de aquél, le negará una nueva hasta pasados diez años contados a partir de haber ocurrido el hecho de tránsito; en caso de reincidencia, no volverá a otorgarle otra.
+
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+En la prestación del servicio público de transporte, en todas sus modalidades, las disposiciones reglamentarias señalarán las demás causas de cancelación.
 
 ###### Artículo 63.
 
@@ -853,11 +933,17 @@ Las personas que conduzcan un vehículo en la vía pública obligatoriamente deb
 
 I. La licencia o el permiso vigentes expedidos por la Dirección;
 
-II. La tarjeta de circulación que acredite el registro del vehículo ante la autoridad competente; y
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2008)</small>
+II. La tarjeta de circulación que acredite el registro del vehículo ante la autoridad competente;
 
-III. En los vehículos, las placas metálicas autorizadas, con las medidas de seguridad acordadas por la autoridad que las expide, y los engomados correspondientes o, en su caso, el permiso temporal para circular sin ellos, colocados en los lugares que determine el Reglamento de esta Ley.
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+III. En los vehículos, las placas metálicas autorizadas, con las medidas de seguridad acordadas por la autoridad que las expide, y los engomados correspondientes o, en su caso, el permiso temporal para circular sin ellos, colocados en los lugares que determine el Reglamento de esta Ley; y
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+IV. Cuando se trate de conductores de vehículos del servicio de transporte público de pasajeros, además de los requisitos anteriores, también portarán la tarjeta anual de identificación que expedirá la Dirección a quienes hayan aprobado los exámenes toxicológicos que aplicará en coordinación con la Secretaría de Salud del Estado, previo pago de los derechos que por dicho trámite se generen.
 
 ###### Artículo 68.
 
@@ -870,6 +956,14 @@ Los ocupantes de vehículos, utilizarán al circular en la vía pública el cint
 ###### Artículo 70.
 
 Queda prohibido conducir un vehículo con temeridad, en estado de ebriedad, bajo el influjo de estupefacientes u otras sustancias tóxicas, aun cuando por prescripción médica esté autorizado su uso, así como comunicarse telefónicamente mientras se conduce.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+La autoridad de tránsito instalará, de manera aleatoria, en las vías públicas de competencia estatal y en coordinación con la Secretaría de Salud, grupos de trabajo acompañados por un médico para detectar, mediante alcoholímetro, la presencia de alcohol en aire exhalado por los conductores de unidades vehiculares, tanto del servicio particular como del transporte público.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Los conductores del transporte público, en cualquiera de sus modalidades, deberán conducir las unidades sin presencia de alcohol en aire exhalado. A quien conduzca una unidad vehicular en estado de ebriedad o bajo el influjo de estupefacientes u otras sustancias tóxicas, le será retirado de circulación el vehículo así conducido, hasta que pague el monto de la infracción respectiva, el arrastre y los días de corralón.
 
 ###### Artículo 71.
 
@@ -1065,63 +1159,71 @@ Las autoridades de tránsito y transporte supervisarán los estacionamientos y s
 
 ### Capítulo XI. Accidentes de Tránsito
 
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 96.
 
-Cuando en un accidente de tránsito en la vía pública tome conocimiento de los hechos cualquier autoridad, deberá comunicarlo, de inmediato, a la de tránsito.
+Cuando en un accidente de tránsito en la vía pública tomare conocimiento de los hechos cualquier autoridad, deberá comunicarlo, de inmediato, a la de tránsito.
 
-Si en un accidente existe la presunción de un delito que se persiga de oficio, las autoridades de tránsito pondrán a disposición del Ministerio Público a los conductores y vehículos que intervinieron, quedando éstos últimos afectados a la reparación del daño.
+La autoridad que tomare conocimiento del accidente deberá preservar los indicios para los efectos legales correspondientes y una vez que hubiere tomado conocimiento del mismo, deberá despejar la vía para que exista fluidez en su circulación. En todo caso, la intervención se hará sin crear peligro para peatones, conductores ni pasajeros, tomando las providencias necesarias a fin de señalar y proteger el lugar del accidente.
 
-La autoridad que tome conocimiento del accidente procurará que los indicios se conserven inalterables para los efectos legales correspondientes, debiendo impedir cualquier conducta contraria a este fin.
+En los casos en que las partes que intervinieron en un accidente no convinieren respecto a la forma de pago de los daños causados, no habiendo lesionados, se entregará una copia del parte a cada uno de los que en dicho evento intervinieron y se dejarán a salvo sus derechos, para los efectos de que sus aseguradoras resuelvan lo procedente, en un plazo no mayor de 30 días, bien sea entre ellas o, en su defecto, acudan a la instancia civil que corresponda.
 
-En todo caso, la intervención se hará sin crear peligro para la circulación, tomando las providencias necesarias a fin de señalar y proteger el lugar del accidente.
-
-Cuando no convengan las partes que intervinieron en un accidente, en términos de lo previsto por el artículo 99 de esta Ley, la autoridad de tránsito, con el parte del accidente, pondrá a los presuntos responsables y a los vehículos a disposición del Ministerio Público, entregando a aquéllos una copia del parte.
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 97.
 
-Cuando del accidente resulten lesionados o se presuma que alguno de los conductores manejaba en estado de ebriedad o bajo el influjo de estupefacientes o substancias nocivas a la salud, la autoridad que conozca del caso solicitará de inmediato la intervención de un médico legista.
+Si en un accidente de tránsito resultaren personas con lesiones de las previstas en las fracciones IV, V y VI del artículo 137 del Código Penal y se presumiere que alguno de los conductores manejaba en estado de ebriedad o bajo el influjo de estupefacientes o sustancias nocivas a la salud, la autoridad que conozca del caso solicitará de inmediato la intervención de un médico legista.
+
+En los casos en que no se actualice la hipótesis anterior, la certificación del estado de embriaguez del conductor y de las lesiones de menor grado será realizada por el médico de apoyo de la Dirección.
+
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 98.
 
-Los conductores que intervengan en un accidente de tránsito permanecerán en el lugar de los hechos y se abstendrán de mover o retirar el vehículo de su posición final.
+Los conductores que intervinieren en un accidente de tránsito permanecerán en el lugar de los hechos y se abstendrán de mover o retirar el vehículo de su posición final, hasta que tome conocimiento del accidente la autoridad de tránsito correspondiente.
 
-El conductor sólo podrá retirarse momentáneamente del lugar del accidente para auxiliar a la víctima o solicitar la intervención de la autoridad.
+Si del accidente sólo resultaren daños que no rebasen los quinientos salarios y ninguno de los conductores se encuentra en estado de ebriedad, quienes participaron en el mismo podrán ponerse de acuerdo en la forma y términos de la reparación de los daños causados e informarán a la autoridad de su acuerdo y podrán retirar sus unidades del lugar del accidente para permitir la libre circulación en la vía. En este supuesto, la autoridad sólo tomará nota del accidente para efectos estadísticos, sin aplicar sanción administrativa a ninguno de los conductores, ni retener en garantía de pago de los daños o de infracción los vehículos que participaron en el hecho.
+
+Si con motivo del accidente resultaren daños, cualquiera que sea su monto y el conductor responsable se encuentra alcoholizado, pero la presencia de alcohol en aire exhalado es menor a 0.4 (cero punto cuatro) miligramos por litro, también los interesados podrán convenir sobre la reparación de los mismos, en presencia de la autoridad de tránsito, bajo la formalidad que se establece en el numeral 100 de esta Ley. Igual procedimiento se seguirá en los casos en que, como consecuencia del accidente, bajo las mismas circunstancias, alguna de las personas que participaren resultare con lesiones de las previstas en las fracciones I, II y III del artículo 137 del Código Penal.
+
+En todos los casos, la autoridad de tránsito procurará que los interesados lleguen a un acuerdo, orientándolos sobre la responsabilidad en que hubieren incurrido y el valor aproximado de los daños o características de las lesiones. Si lo solicitan, se les concederá un plazo hasta de setenta y dos horas para que resuelvan.
+
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 99.
 
-Cuando en un accidente de tránsito resulten únicamente daños o lesiones de las que no ponen en peligro la vida, tardan en sanar menos de quince días y ninguno de los conductores haya manejado con temeridad, se dé a la fuga, se encuentre en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias tóxicas, los interesados podrán convenir sobre la reparación del daño.
+La autoridad de tránsito pondrá a disposición del agente del Ministerio Público competente a la persona que al conducir un vehículo automotor, en estado de ebriedad o bajo el influjo de estupefacientes u otras sustancias tóxicas, hubiere causado daños a terceros por ese motivo o provocado alguna de las lesiones previstas en las fracciones IV, V y VI del artículo 137 del Código Penal, o la muerte.
 
-La autoridad de tránsito procurará que los interesados lleguen a un acuerdo, orientándolos sobre la responsabilidad en que hayan incurrido y el valor aproximado de los daños o características de las lesiones. Si lo solicitan, se les concederá un plazo hasta de setenta y dos horas para que resuelvan.
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 100.
 
-Si los interesados convienen sobre la reparación de los daños o pago de las curaciones, se procederá como sigue:
+En caso de que, en un accidente de tránsito a que se refiere el artículo anterior, se causaren lesiones de las previstas en las fracciones I, II y III del artículo 137 del Código Penal y el valor de los daños se estimare superior a quinientos días de salario, se formulará un acta convenio que contenga:
 
-I. Si no hay lesiones y el valor de los daños se estima inferior a treinta días del salario mínimo vigente en el lugar en que se cometió la infracción y el pago se hace de contado, determinada ésta, las partes podrán retirarse con sus vehículos; y
+I. Los datos de identificación de las partes y su firma o huella, así como los del ajustador o representante de su aseguradora;
 
-II. Si hay lesiones o el valor de daños se estima superior a los treinta días del salario a que se refiere la fracción anterior, se formulará un acta convenio que contenga:
+II. Descripción de los vehículos que participaron en el accidente;
 
-a) Los datos de identificación de las partes y su firma o huella;
+III. Descripción de los daños que resultaron;
 
-b) Descripción de los vehículos que hayan participado en el accidente;
+IV. El certificado médico de lesiones, si las hubiere;
 
-c) Descripción de las lesiones o los daños que resulten;
+V. Las posibles causas de los hechos y su descripción;
 
-d) El certificado médico de lesiones, si las hubiere;
+VI. Aceptación de la responsabilidad de quien se compromete a hacer el pago;
 
-e) Las posibles causas de los hechos y su descripción;
+VII. La forma de pago a satisfacción del afectado; y
 
-f) Aceptación de la responsabilidad de quien se compromete a hacer el pago;
-
-g) La forma de pago a satisfacción del posible afectado; y
-
-h) Firma y sello de la autoridad que intervenga.
+VIII. Firma y sello de la autoridad que intervenga.
 
 Formulada el acta de infracción, las partes podrán retirarse con sus vehículos y se entregará, a cada una, copia del acta convenio como garantía para el cumplimiento del mismo.
 
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 101.
 
-Si quien haya aceptado la responsabilidad del pago de la reparación del daño en un acta convenio no cumple en los términos de ésta, y el afectado desea querellarse, la autoridad de tránsito le proporcionará todos los elementos a su alcance para que acuda ante el Ministerio Público.
+Si quien hubiere aceptado la responsabilidad del pago de la reparación del daño en un acta convenio no cumple en los términos de ésta, y el afectado pretende lograr el pago de dicha reparación, la autoridad de tránsito proporcionará a éste todos los elementos a su alcance para que, por sus medios y en unión de su aseguradora, acudan ante la instancia civil que corresponda para los efectos de demandar la responsabilidad civil que deriva del hecho de tránsito en que participaron.
 
 ###### Artículo 102.
 
@@ -1229,7 +1331,9 @@ a) El transporte de muebles y efectos en uso, en vehículos de su propiedad, aun
 
 b) Los vehículos dotados de grúa para el servicio exclusivo de sus empresas; y
 
-c) El transporte que agricultores, mineros, comerciantes, industriales o empresas efectúen de sus productos o artículos con vehículos de su propiedad. No requerirán autorización los vehículos particulares con capacidad de hasta 3.5 toneladas.
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+c). El transporte que (sic) agricultores, mineros, comerciantes, industriales, constructores o empresas efectúen de sus productos, artículos o insumos, para el cumplimiento de su actividad preponderante, con vehículos de su propiedad y que deberán estar inscritos en el Registro Público Vehicular. No requerirán autorización los vehículos particulares con capacidad de hasta 3.5 toneladas.
 
 No se considerará servicio de carga el que, de manera eventual, realice el propietario de un automóvil respecto de sus enseres.
 
@@ -1323,7 +1427,17 @@ El transporte de materiales y residuos peligrosos se realizará de conformidad c
 
 Para los efectos de esta Ley, se entenderá por concesión el título que otorga el Gobierno del Estado para que una persona física o moral proporcione el servicio de transporte público en cualquiera de sus modalidades, de acuerdo con las tarifas determinadas por el interés general y la naturaleza del transporte de que se trate.
 
-Queda prohibido el cambio de localidad para la prestación del servicio de transporte público en todas sus modalidades.
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Se prohíbe el cambio de concesión de una localidad a otra.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Con la salvedad que señala el artículo 130 de esta Ley, se prohíbe prestar el servicio de transporte público en cualquiera de sus modalidades en una localidad distinta a aquella para la cual se otorgó la concesión; la infracción a esta disposición será causa de suspensión de la concesión de que se trate.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Queda prohibido prestar el servicio de transporte público en una modalidad distinta a aquella para la cual se expidió la concesión; la infracción a esta norma es causa de revocación definitiva de la concesión.
 
 ###### Artículo 123.
 
@@ -1447,9 +1561,17 @@ VIII. Se niegue, sin causa justificada, previo apercibimiento de la Dirección, 
 
 IX. Se obstruyan las vías públicas con los vehículos con que se preste el servicio de transporte público;
 
-X. El vehículo, una terminal o un servicio conexo no reúnan las condiciones de seguridad e higiene que determinen el Reglamento de esta Ley y la normatividad de la materia; y
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2010)</small>
 
-XI. Se cometan, de manera reiterada, infracciones a las disposiciones contenidas en la presente Ley y su Reglamento.
+X. El vehículo, una terminal o un servicio conexo no reúnan las condiciones de seguridad e higiene que determinen el Reglamento de esta Ley y la normatividad de la materia;
+
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+XI. Se cometan, de manera reiterada, infracciones a las disposiciones contenidas en la presente Ley y su Reglamento; y
+
+> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+XII. Se preste el servicio de transporte público en cualquiera de sus modalidades en una localidad distinta a aquella para la cual se otorgó la concesión.
 
 No procederá la suspensión cuando el concesionario pruebe que previamente adoptó las medidas idóneas para impedir la causa que la origina. Cuando el responsable sea el conductor del vehículo, se le suspenderá la licencia para conducir hasta por el término que se indica en el artículo 61 de esta Ley, independientemente de las sanciones que le puedan ser aplicadas en los términos de esta Ley y su Reglamento.
 
@@ -1731,7 +1853,13 @@ IV. Categoría D: De sesenta a cien; y
 
 V. Categoría E: De ochocientos a mil.
 
-Para estos efectos, se entenderá por salario el mínimo general que esté vigente en el tiempo en que se cometió la infracción en la zona económica respectiva.
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Cuando con una misma conducta se infringieren dos o más disposiciones de esta Ley o de su Reglamento, se anotarán en el folio correspondiente, pero sólo se cobrará la de mayor cuantía.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+En los casos en que el interesado pretenda pagar la infracción en el término de los cinco días hábiles posteriores a su formulación, tendrá derecho de pagar el cincuenta por ciento de la sanción mínima aplicable.
 
 ###### Artículo 164.
 
@@ -1762,6 +1890,10 @@ Las autoridades de tránsito retirarán el vehículo que se encuentre estacionad
 ###### Artículo 167.
 
 Cuando se cometa una infracción y las autoridades de tránsito y transporte conozcan del hecho en flagrancia podrán recoger la licencia para conducir como garantía del pago de la multa. A falta de ésta, podrán recoger la tarjeta de circulación del vehículo y, no contando con ninguno de los dos documentos de identificación, el vehículo será retirado de la circulación en términos de lo dispuesto por esta Ley.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+En los casos en que la infracción cometida sea de las catalogadas en la categoría E señalada en la fracción V del artículo 163 de esta Ley, la autoridad de tránsito retendrá la unidad vehicular como garantía de la infracción.
 
 ###### Artículo 168.
 
@@ -1864,3 +1996,11 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
 
 Artículo tercero. Los concesionarios y permisionarios que presten el servicio de transporte público en sus modalidades de urbano, suburbano y foráneo, contarán con un tiempo perentorio de ciento veinte días hábiles para cumplir con lo establecido en el artículo 120 de esta ley, de lo contrario serán retiradas de circulación las unidades vehiculares autorizadas para prestar el servicio, sin perjuicio de la aplicación de cualquier otra sanción administrativa que pudiere proceder.
+
+G.O. 18 DE OCTUBRE DE 2010.
+
+Artículo primero. El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se señala un término de cuatro meses para el cumplimiento de las disposiciones señaladas en los artículos 46 y 67 fracción IV de la Ley de Tránsito y Transporte para el estado.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
