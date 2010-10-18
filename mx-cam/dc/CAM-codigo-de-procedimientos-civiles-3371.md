@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "2009-07-16"
+last_updated: "2010-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -507,6 +507,26 @@ III.- El arresto hasta por treinta y seis horas.
 
 Quedan facultados los tribunales para ordenar la fractura de cerraduras, el violentar puertas y todas las medidas legales que resultaren necesarias para hacer cumplir sus determinaciones.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+Art. 81 bis.- Las diligencias que deban practicarse fuera del Estado de Campeche, pero dentro del territorio nacional, el juez o presidente de sala las encomendará mediante exhorto al juez o tribunal del lugar en que han de realizarse conforme lo disponga la legislación de la respectiva Entidad Federativa. El exhorto deberá contener como mínimo:
+
+I. La designación del órgano jurisdiccional exhortado;
+
+II. La del lugar o población en que deberá practicarse la diligencia solicitada, aunque no se señale la ubicación del órgano jurisdiccional exhortado;
+
+III. La diligencia cuya práctica se requiere; y
+
+IV. El término o plazo en que habrá de practicarse la diligencia.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+Art. 81 ter.- Las diligencias que deban practicarse dentro del territorio del Estado de Campeche, pero fuera del Distrito Judicial en que tenga jurisdicción el juez del conocimiento, éste las encomendará mediante exhorto al juez competente del Distrito Judicial en donde se ubique el lugar en que han de realizarse.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+Art. 81 quater.- Las diligencias que deban practicarse dentro del Distrito Judicial en el que ejerza su jurisdicción el juez del conocimiento, pero fuera de la población en que éste tenga su sede, el juez podrá habilitar a un secretario de acuerdos; al secretario auxiliar o al actuario para que la lleve a cabo o encomendarla a un juez de menor rango mediante el libramiento del correspondiente despacho. Esta Hipótesis es aplicable a las Salas y Pleno del Tribunal Superior de Justicia del Estado. El despacho contendrá en su texto, en lo conducente, los datos a que se refieren las fracciones I a IV del artículo 81 Bis.
+
 ###### Art. 82.
 
 Los exhortos que se reciban en el Estado, se proveerán dentro de las cuarenta y ocho horas siguientes a su recepción, y se despacharán dentro de los tres días que sigan a ésta a no ser que las diligencias que hayan de practicarse exijan necesariamente mayor tiempo.
@@ -515,27 +535,29 @@ Los exhortos que se reciban en el Estado, se proveerán dentro de las cuarenta y
 
 En el caso final del artículo anterior, el juez fijará el término que crea conveniente, con audiencia del interesado en el exhorto o del que le represente con arreglo a derecho; y a falta de uno y otro, con audiencia del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
 ###### Art. 84.
 
-En los despachos y exhortos expedidos por los tribunales del Estado, no se requiere la legalización de las firmas de quienes los suscriban, a no ser que la exija el tribunal requerido, por ordenarlo así la ley a que esté sujeto.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
-
-Los exhortos provenientes de otras entidades federativas de la República, requieren, para su tramitación, de la legalización de las firmas de las autoridades que los remitan.
+En los exhortos expedidos por los tribunales del Estado no se requiere la legalización de las firmas de quienes los suscriban, a no ser que la exija el tribunal requerido, por ordenarlo así la ley a que esté sujeto. Tampoco será necesaria la legalización de firmas de quienes suscriban los despachos.
 
 ###### Art. 85.
 
 Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán, en cuanto a sus formalidades, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### Art. 86.
 
-Los exhortos que libren los jueces y magistrados del Estado se remitirán a su destino por conducto de la presidencia del Tribunal Superior de Justicia del Estado a su homóloga que corresponda.
+Pueden los jueces y presidentes de Sala y del Pleno acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte que hubiere solicitado la práctica de la diligencia o a quien ésa faculte expresamente para recibirlo, teniendo la obligación de devolverlos con lo que se practicare si por su conducto se hiciere la devolución.
 
-Los exhortos provenientes de autoridades judiciales de otras entidades de la República se repelerán de oficio si son remitidos por conducto diverso de la presidencia del Tribunal Superior de Justicia que corresponda.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
-Los despachos y exhortos que se cursen entre sí a las autoridades judiciales del Estado no requieren de legalización de firmas y pueden ser enviados salvando el conducto de la presidencia del Tribunal Superior.
+Art. 86 bis.- En la resolución que ordene librar el exhorto podrá designarse, a instancia de parte, persona o personas para que intervengan en su diligenciación, con expresión del alcance de su intervención y del plazo para su comparecencia ante el tribunal exhortado, expresando si su comparecencia determina o no la caducidad del exhorto.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+Art. 86 ter.- Cuando la práctica de una diligencia se considere de urgente realización, a criterio del juez o presidente de sala o del pleno, podrá formularse la petición por telégrafo, fax, correo electrónico o cualquier otro medio de comunicación similar, bajo la fe del servidor público judicial facultado para certificar, quien hará constar la autoridad con la cual se entendió la comunicación, la hora de la misma, el medio de comunicación empleado y la solicitud realizada, con la obligación de confirmarla con el respectivo exhorto o despacho, según corresponda, que deberá remitirse el mismo día o al siguiente. De la causa para considerarla urgente y empleo de los medios de comunicación indicados se dejará razón en el expediente.
 
 ###### Art. 87.
 
@@ -7368,3 +7390,9 @@ Primero.- El presente decreto entrará en vigor quince días después de su publ
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
 Tercero.- El Ejecutivo del Estado, en un plazo no mayor de ciento ochenta días contados a partir de la fecha en que cobre vigencia el presente decreto, expedirá el Reglamento del Registro del Estado Civil.
+
+P.O. 18 DE OCTUBRE DE 2010.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
