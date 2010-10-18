@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2010-10-07"
+last_updated: "2010-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE OCTUBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1073,7 +1073,13 @@ V. De cinco a ocho años de prisión y multa hasta de cien días de salario, cua
 
 VI. De cinco a doce años de prisión y multa hasta de cien días de salario, cuando ocasionen incapacidad permanente para trabajar.
 
-Las lesiones comprendidas en las fracciones I y II se perseguirán por querella, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirán de oficio.
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Cuando las lesiones consideradas en las fracciones I, II y III de este artículo sean consecuencia de un accidente automovilístico, dicha conducta será sancionable solamente si el conductor responsable presenta estado de ebriedad con nivel superior de 0.4 (cero punto cuatro) miligramos de alcohol en aire exhalado o 0.8 (cero punto ocho) gramos de alcohol en la sangre, o bajo el influjo de estupefacientes u otras sustancias tóxicas, o que el vehículo con el que se provoquen no estuviere amparado con una póliza de seguro vigente o comprendido en un fondo de garantía.
+
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Las lesiones comprendidas en las fracciones I y II se perseguirán por querella, salvo que la víctima sea incapaz, en cuyo caso se perseguirán de oficio.
 
 ###### Artículo 138.
 
@@ -1150,6 +1156,10 @@ A quien en estado de ebriedad, bajo el influjo de alguna droga o en forma temera
 Si el conductor causare uno o más homicidios se le impondrán de siete a veinte años de prisión y multa hasta de mil veces el salario, además de la suspensión de siete a doce años del derecho para conducir vehículos de motor o privación definitiva del derecho de manejar, en caso de reincidencia.
 
 A los conductores de vehículos particulares que, conduciendo en las condiciones a que se refieren los párrafos anteriores, causen lesiones u homicidio, se les aplicará la pena prevista para los delitos culposos, aumentada hasta en una mitad.
+
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+Los servidores públicos que, en ejercicio de sus funciones, incurran en las conductas señaladas en los párrafos anteriores, además de las penas previstas en éstos, serán inhabilitados de cinco a diez años para el ejercicio del servicio público.
 
 > <small>(ADICIONADO, G.O. 2 DE AGOSTO DE 2007)</small>
 
@@ -1911,7 +1921,7 @@ Se impondrán de tres a diez años de prisión y multa hasta de cien días de sa
 
 I. Desfigure o borre las marcas de animales vivos o de sus pieles;
 
-II. Marque o señale en campo ajeno sin consentimiento del dueño animales sin hierro o marca;
+II. Marque o señale en campo ajeno sin consentimiento del dueño animales (sic) sin hierro o marca;
 
 III. Marque o señale animales ajenos, aunque sea en campo propio;
 
@@ -2097,13 +2107,13 @@ A quien, en perjuicio de tercero, por cualquier medio destruya o deteriore una c
 
 Este delito se perseguirá por querella.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, G.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 227.
 
-Si el daño se ocasiona con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad o bajo el influjo de estupefacientes u otras sustancias tóxicas, se sancionará con prisión de tres a nueve años, multa hasta de trescientos días de salario y suspensión del derecho para conducir vehículos hasta por tres años.
+Si el daño se ocasiona con motivo del tránsito de vehículos y el conductor se hallare en estado de ebriedad, con un nivel superior de 0.4 (cero punto cuatro) miligramos de alcohol en aire exhalado, o 0.8 (cero punto ocho) gramos de alcohol en la sangre, o bajo el influjo de estupefacientes u otras sustancias tóxicas, se sancionará con prisión de tres a nueve años, multa hasta de trescientos días de salario y suspensión del derecho de conducir vehículos hasta por tres años. Esta conducta se perseguirá de oficio.
 
-Esta conducta se perseguirá de oficio.
+No se sancionará al presunto responsable del daño en términos del presente artículo, en los casos en que se encuentre libre de alcohol en aire exhalado o en la sangre, no hubiese conducido la unidad bajo los efectos de estupefacientes u otras sustancias tóxicas y llegue a un acuerdo con el agraviado.
 
 ###### Artículo 228.
 
@@ -2513,6 +2523,18 @@ A quien ponga en movimiento un vehículo de motor o de otra naturaleza, provocan
 
 A quien destruya, inutilice, quite o cambie un dispositivo o señal de seguridad de una vía de comunicación estatal, se le impondrán de seis meses a tres años de prisión y multa hasta de sesenta días de salario.
 
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 272 Bis.
+
+A quien promocione o realice un servicio de transporte público en cualquiera de las modalidades establecidas en la ley de la materia, sin contar con la concesión o el permiso respectivo expedido por la autoridad competente, se le impondrán de tres a nueve años de prisión y multa de cuatrocientos hasta seiscientos días de salario.
+
+Si se tratare de una persona moral, la responsabilidad recaerá en quien o quienes ejercieren la representación legal de la misma.
+
+Las penas también le serán aplicadas al conductor de la unidad vehicular con la que se realice el servicio, si tuviera conocimiento de que la prestación del mismo se daba de manera irregular.
+
+La autoridad que conozca de un hecho que pudiere constituir el delito descrito debe de inmediato hacerlo del conocimiento del Agente del Ministerio Público que corresponda para el ejercicio de sus funciones.
+
 ### CAPÍTULO III. SEDICIÓN
 
 ###### Artículo 273.
@@ -2539,7 +2561,9 @@ Se impondrán de uno a tres años de prisión y multa de cien a quinientos días
 
 I. Conduzca un vehículo con temeridad y ponga en peligro la vida, la salud personal o los bienes de alguien; o
 
-II. En estado de ebriedad o bajo el influjo de medicamentos, estupefacientes, psicotrópicos u otras substancias tóxicas, maneje vehículos de motor.
+> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+II. En estado de ebriedad con un nivel superior de 0.4 (cero punto cuatro) miligramos de alcohol en aire exhalado o 0.8 (cero punto ocho) gramos de alcohol en la sangre, o bajo el influjo de medicamentos sin prescripción médica, estupefacientes, psicotrópicos u otras sustancias tóxicas, maneje vehículos de motor.
 
 > <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2009)</small>
 
@@ -3541,7 +3565,7 @@ Segundo. A partir de la entrada en vigor del presente decreto se derogan todas l
 
 G.O. 2 DE AGOSTO DE 2007.
 
-DECRETO No. 890 POR EL QUE SE REFORMA LA FRACC. V DEL ARTICULO 292 DEL CODIGO.
+DECRETO No. 890 POR EL QUE SE REFORMA LA FRACCION V DEL ARTICULO 292 DEL CODIGO.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3686,3 +3710,11 @@ G.O. 7 DE OCTUBRE DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE OCTUBRE DE 2010.
+
+Artículo primero. El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se señala un término de cuatro meses para el cumplimiento de las disposiciones señaladas en los artículos 46 y 67 fracción IV de la Ley de Tránsito y Transporte para el estado.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
