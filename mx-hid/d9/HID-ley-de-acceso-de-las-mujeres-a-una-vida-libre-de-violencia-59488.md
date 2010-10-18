@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2010-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -51,9 +51,11 @@ QUE CONTIENE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley tiene por objeto establecer la coordinación entre el Estado, los Municipios y la Federación, para prevenir; atender, sancionar y erradicar la violencia contra las mujeres, así como los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación; establecidos en la Constitución Política del Estado Libre y Soberano de Hidalgo.
+La presente Ley tiene por objeto regular y garantizar el acceso de las mujeres a una vida libre de violencia, así como, establecer la coordinación entre el Estado, los Municipios y la Federación, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres; con los principios rectores, ejes de acción, y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar.
 
 Las disposiciones de esta Ley son de orden público, interés social y de observancia general en el Estado Libre y Soberano de Hidalgo.
 
@@ -87,13 +89,17 @@ II.- Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradica
 
 III.- Sistema: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
-IV.- Violencia contra las Mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico o sexual;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+IV.- Violencia contra las Mujeres: Cualquier acción u omisión, basada en su género, que les cause muerte o daño físico, psicológico, patrimonial, económico o sexual en el ámbito público o privado;
 
 V.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
 
 VI.- Víctima: La mujer de cualquier edad a quien se le inflige algún tipo de violencia;
 
-VII.- Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+VII.- Generador de violencia: La persona que inflige cualquier tipo de violencia contra las mujeres;
 
 VIII.- Derechos fundamentales de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos fundamentales universales contenidos en los instrumentos internacionales suscritos y ratificados por los Estados Unidos Mexicanos.
 
@@ -113,7 +119,9 @@ XIV.- Agravio Comparado: Implica un trato desigual de las mujeres dentro del mar
 
 Los tipos de violencia contra las mujeres son:
 
-I.- La violencia psicológica.- Es cualquier acción u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, insultos, marginación, infidelidad, restricción a la autodeterminación, amenazas, intimidación, coacción, devaluación, anulación, maltrato sexual, que provocan en quien las recibe deterioro, disminución o afectación en las diferentes áreas de su personalidad;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+I.- La violencia psicológica: Es cualquier acción u omisión de abandono, insultos, marginación, restricción a la autodeterminación, amenazas, intimidación, coacción, devaluación, anulación, prohibición y celotipia; que provocan en quien las recibe: deterioro, disminución o afectación en las diferentes áreas de su autoestima y personalidad;
 
 II.- Violencia física.- Es cualquier acción intencional, en el que se utiliza parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de las mujeres, independientemente de que se produzca o no lesiones físicas y que va encaminado a obtener su sometimiento y control.
 
@@ -149,17 +157,27 @@ V.- El propiciar un estado de riesgo de las mujeres.
 
 Los modelos de atención, prevención y sanción que establezcan el Estado y los Municipios, son el conjunto de medidas y acciones con perspectiva de género para proteger a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales. Para ello deberán tomar en consideración:
 
-I.- Proporcionar a las víctimas atención, asesoría jurídica y tratamiento psicológico especializado y gratuito que favorezcan su plena rehabilitación y reparen el daño causado por dicha violencia;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
-II.- Brindar servicios intégrales de orientación, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una reeducación que elimine los estereotipos de supremacía masculina, y los patrones sociales que generaron su violencia;
+I.- Proporcionar a las víctimas atención, asesoría jurídica y tratamiento psicológico especializado y gratuito que favorezcan la disminución de la conducta violenta y reparen el daño causado por dicha violencia;
 
-III.- Evitar que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar así como las modalidades terapéuticas en pareja. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
-IV.- Analizar y proponer en su caso la separación y alejamiento del agresor con respecto a la víctima;
+II.- Brindar servicios de psicoterapia reeducativa, especializados y gratuitos al generador de violencia para erradicar las conductas violentas y eliminar los estereotipos de supremacía masculina y, los patrones sociales que generaron su violencia;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+III.- Evitar que la atención que reciban la víctima y el generador de violencia sea proporcionada por la misma persona y en el mismo lugar, así como, las modalidades terapéuticas en pareja o familiar, inicialmente. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+IV.- Analizar y proponer, en su caso, la separación y alejamiento del generador de violencia con respecto a la víctima;
 
 V.- Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos menores de edad; la información sobre su ubicación será secreta y proporcionarán apoyos psicológico y legal, especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo; y
 
-VI.- Evitar la implementación o utilización de procedimientos de mediación o conciliación por considerarse no equitativo en la relación victima agresor.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+VI.- Evitar la implementación o utilización de procedimientos de mediación o conciliación por considerarse no equitativo en la relación víctima-generador.
 
 ###### ARTÍCULO 9.
 
@@ -173,7 +191,9 @@ III.- Establecer la violencia familiar como causal de divorcio, de pérdida de l
 
 IV.- Disponer la pérdida de la patria potestad cuando sea por causa de violencia familiar, incumplimiento de obligaciones alimentarías o de crianza; y
 
-V.- Legislar a efecto de que en los ordenamientos conducentes, se incluya como sanción, la condena al agresor a participar en actividades y orientación especializada y gratuita para modificar su conducta violenta.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+V.- Legislar a efecto de que, en los ordenamientos conducentes, se incluya como sanción, al generador de violencia, someterse a psicoterapia reeducativa especializada y gratuita, y a participar en actividades para modificar su conducta violenta.
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
@@ -203,11 +223,17 @@ II.- Fortalecer el marco penal y civil para asegurar la sanción a quienes hosti
 
 III.- Difundir en la sociedad que el aprovechamiento y hostigamiento sexual son delitos;
 
-IV.- Diseñar programas que brinden servicios de orientación y actividades integrales para víctimas y agresores;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
-V.- Celebrar convenios con el sector privado, con el objeto de prevenir y sancionar prácticas discriminatorias; y
+IV.- Diseñar programas que brinden servicios de orientación y actividades integrales para víctimas y generadores de violencia;
+
+V.- Celebrar convenios con el sector privado, con el objeto de prevenir y sancionar prácticas discriminatorias; y (sic)
 
 VI.- Incorporar a las actividades escolares, talleres temáticos, sobre discriminación y violencia de género.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+VII.- Monitorear permanentemente las buenas prácticas y actividades educativas, en coordinación con las Autoridades Federales respectivas.
 
 ###### ARTÍCULO 14.
 
@@ -221,11 +247,15 @@ III.- Crear procedimientos administrativos claros y precisos en las escuelas y l
 
 IV.- Omitir el nombre de la víctima para evitar algún tipo de sobre victimización o que sea boletinada o presionada para abandonar la escuela o trabajo;
 
-V.- Sumar las quejas o denuncias anteriores que sean sobre el mismo agresor, guardando el anonimato de las quejosas, para los efectos de la fracción precedente;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+V.- Sumar las quejas o denuncias anteriores que sean sobre el mismo generador de violencia, guardando el anonimato de la o las quejosas, para los efectos de la fracción precedente;
 
 VI.- Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de hostigamiento, aprovechamiento o acoso sexual; y
 
-VII.- Implementar sanciones administrativas para los superiores jerárquicos del agresor cuando sean omisos en recibir o dar curso a una queja.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+VII.- Implementar sanciones administrativas para los superiores jerárquicos del generador de violencia cuando sean omisos en recibir o dar curso a una queja.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
 
@@ -297,37 +327,35 @@ Los modelos de atención, prevención y sanción que establezcan el Estado y los
 
 ### CAPÍTULO V. DE LAS ÓRDENES DE PROTECCIÓN
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 24.
 
-Las órdenes de protección: Son actos de protección y de urgente aplicación en función del interés superior de la Víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la Autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+Las órdenes de protección: Son personalísimas e intransferibles, de naturaleza administrativa y jurisdiccional, así como, de urgente aplicación para proteger a las mujeres de la violencia familiar o sexual, siendo fundamentalmente precautorias y cautelares, consecuentemente no causan estado sobre los bienes o derechos de los probables responsables o infractores, y durarán por el tiempo que determine el Reglamento de la presente Ley. Deberán otorgarse por la Autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 25.
 
-La naturaleza de las órdenes que emita la Autoridad correspondiente podrá ser:
+Las Órdenes de Protección consagradas por la presente Ley y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia como emergentes y preventivas, serán solicitadas por la víctima, las hijas o hijos, personas que convivan con ella y serán otorgadas e instrumentadas por la representación social, que recae en el Agente del Ministerio Público, con el auxilio de la Policía Estatal, independientemente de que exista, o no, averiguación previa por los hechos de violencia, en caso de no existir Averiguación Previa, el Ministerio Público hará del conocimiento del solicitante de la orden de protección, el derecho que le asiste a la víctima para denunciar los hechos, salvo los casos específicos contemplados por la Ley en la materia, como delitos perseguibles oficiosamente, en los que el Ministerio Público, iniciará la Averiguación Previa al tener conocimiento del asunto; salvo los casos mencionados anteriormente; el Ministerio Público, hará constar dichas circunstancias mediante acta circunstanciada.
 
-I.- De emergencia;
+La representación social podrá, a su vez, solicitar las órdenes de protección que considere pertinentes durante el procedimiento ante la autoridad jurisdiccional competente.
 
-II.- Preventivas, y
+En virtud de la notoria urgencia, en los Municipios, la aplicación de las órdenes de protección le corresponderá a los Conciliadores Municipales, con el auxilio de la Policía Municipal; una vez concedida dicha medida de protección, el Conciliador Municipal, deberá hacerlo del conocimiento a la autoridad competente, de conformidad con el procedimiento y observancia que determine el Reglamento o acuerdo conducente. La mujer que vive la violencia familiar o sexual podrá elegir, ante cuál de las autoridades solicitarlas, salvo para las órdenes de naturaleza civil o familiar, que se otorgan por el Juez de la materia.
 
-III.- De naturaleza familiar.
-
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 24 horas siguientes al conocimiento de los hechos que las generan.
-
-Podrán ser promovidas por la victima, las hijas o hijos, personas que convivan con ella, así como de las responsables de las instituciones públicas o privadas encargadas de la atención para mujeres víctimas de violencia o del Ministerio Público.
-
-A solicitud de la víctima, las hijas o hijos, personas que convivan con ella, así como de las responsables de las instituciones públicas o privadas encargadas de la atención para mujeres víctimas de violencia, de oficio por el Ministerio Público y el órgano jurisdiccional podrá, ampliarse la temporalidad de estas órdenes hasta su duplicidad, siempre que subsistan las condiciones que la motivaron.
-
-Las Órdenes de Protección emergentes y preventivas que consagra esta Ley, serán otorgadas por el Ministerio Público en la integración de la averiguación previa.
+Las órdenes a que se refiere este Artículo, se otorgarán de conformidad con el procedimiento, tiempo y observancia que establezca el Reglamento de la presente Ley, estableciéndose su duración y, los casos en que son prorrogables.
 
 ###### ARTÍCULO 26.
 
 Son órdenes de protección de emergencia las siguientes:
 
-I.- Desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+I.- Desocupación por el generador de violencia familiar, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
 
 II.- Prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
@@ -339,7 +367,9 @@ IV.- Prohibición de intimidar o molestar a la víctima en su entorno social, as
 
 Son órdenes de protección preventivas las siguientes:
 
-I.- Retención y guarda de armas de fuego propiedad, custodia o posesión del agresor, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+I.- Retención y guarda de armas de fuego propiedad, custodia o posesión del generador de violencia, independientemente, si las mismas se encuentran registradas conforme a la normatividad de la materia.
 
 Es aplicable lo anterior a las armas punzocortantes y punzocontundentes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
 
@@ -353,7 +383,9 @@ V.- Entrega inmediata de objetos de uso personal y documentos de identidad de la
 
 VI.- Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio; y
 
-VII.- Brindar servicios de orientación educativa integral especializada y gratuita, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+VII.- Brindar servicios de psicoterapia reeducativa especializada y gratuita, con perspectiva de género al generador de violencia en instituciones públicas debidamente acreditadas.
 
 ###### ARTÍCULO 28.
 
@@ -369,13 +401,19 @@ III.- Los elementos con que se cuente.
 
 Son órdenes de protección de naturaleza familiar las siguientes:
 
-I.- Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
-II.- Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+I.- Suspensión temporal al generador de violencia del régimen de visitas y convivencia con sus descendientes;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+II.- Prohibición al generador de violencia de enajenar o hipotecar bienes de su propiedad, cuando se trate del domicilio conyugal y, en cualquier caso, cuando se trate de bienes de la sociedad conyugal;
 
 III.- Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
 
-IV.- Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias, y
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+IV.- Embargo preventivo de bienes del generador de violencia, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio, a efecto de garantizar las obligaciones alimentarias; y
 
 V.- Obligación alimenticia provisional e inmediata.
 
@@ -409,9 +447,13 @@ El Sistema se conformará por las y los titulares de:
 
 I.- El Ejecutivo Estatal, quien tendrá el cargo de Presidente Honorario;
 
-II.- La Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
-III.- La Secretaría de Desarrollo Social; quien fungirá como Presidente Ejecutivo;
+II.- La Secretaría de Gobierno, quien fungirá como Presidente Ejecutivo;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+III.- La Secretaría de Desarrollo Social;
 
 IV.- La Secretaría de Seguridad Pública;
 
@@ -427,11 +469,41 @@ IX.- El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 X.- El Poder Judicial a través del o la Presidente del Tribunal Superior de Justicia;
 
-XI. El Congreso del Estado a través del Coordinador General de la Junta de Coordinación Legislativa;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
-XII.- La Comisión de Derechos fundamentales del Estado de Hidalgo; y
+XI.- El Congreso del Estado, a través del Presidente de la Junta de Gobierno;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+XII.- La Comisión de Derechos Humanos del Estado de Hidalgo; y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 XIII.- Los Organismos y Dependencias instituidos para la protección de los derechos de las mujeres en el ámbito Municipal.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+La participación del Poder Judicial, del Congreso del Estado Libre y Soberano de Hidalgo y Comisión de Derechos Humanos, se dará a invitación del propio Sistema.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 34 BIS.- El Sistema opera con tres subsistemas:
+
+I.- Subsistema Municipal: Conformado por los Municipios que integran el Estado de Hidalgo, los cuales podrán establecer a su interior los ejes de acción que prevé la Ley, además de realizar actividades regionales en conjunto;
+
+II.- Subsistema de Acción: Conformado por los titulares de las Dependencias de la
+
+Administración Pública Estatal, e integrado por tres comisiones de:
+
+a.- Prevención;
+
+b.- Atención; y
+
+c.- Erradicación.
+
+La finalidad y objetivo del Subsistema de Acción será, aportar los avances en la construcción de modelos, por cada uno de los ejes de acción, que prevé la Ley, proporcionando la información respectiva a la Secretaría Ejecutiva en los instrumentos y mecanismos que para tal efecto, ésta diseñe y establezca.
+
+III.- Subsistema de Armonización: Conformado por dos unidades, la legislativa y la judicial, que examinarán semestralmente los avances legislativos en el País, a efecto de instrumentar acciones que permitan estar en concordancia a nivel Federal y con otras Entidades de la República. Estará encabezado por el Instituto Hidalguense de las Mujeres.
 
 ###### ARTÍCULO 35.
 
@@ -517,13 +589,13 @@ XIII.- Incluir en su informe anual ante el Congreso del Estado Libre y Soberano 
 
 XIV.- Vigilar que los medios de comunicación no promuevan patrones de conducta generadores de violencia, haciendo del conocimiento del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, cualquier violación a la Ley;
 
-XV,- Desarrollar los mecanismos necesarios para el cumplimiento de la presente Ley;
+XV.- Desarrollar los mecanismos necesarios para el cumplimiento de la presente Ley;
 
 XVI.- Requerir la asignación de los recursos presupuestales necesarios para hacer frente a las contingencias de alerta de violencia de género contra las mujeres;
 
 XVII.- Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Estatal; y
 
-XVIIl.- Las demás que le confieran esta Ley u otros ordenamientos aplicables.
+XVIII.- Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
 #### SECCIÓN SEGUNDA. DE LA SECRETARIA DE GOBIERNO
 
@@ -531,7 +603,9 @@ XVIIl.- Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
 Corresponde a la Secretaría de Gobierno:
 
-I.- Participar en la elaboración del Programa en coordinación con las demás autoridades integrantes del Sistema;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+I.- Presidir el Sistema;
 
 II.- Coadyuvar en la formulación de las bases jurídicas para la coordinación entre las Autoridades Federales, Locales y Municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -539,7 +613,13 @@ III.- Participar en los trabajos de promoción y defensa de los derechos fundame
 
 IV.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
 
-V.- Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2010)</small>
+
+V.- Participar en la elaboración del Programa en coordinación con las demás autoridades integrantes del Sistema; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE OCTUBRE DE 2010)</small>
+
+VI.- Las demás previstas para el cumplimiento de la presente Ley.
 
 #### SECCIÓN TERCERA. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -547,7 +627,7 @@ V.- Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Desarrollo Social:
 
-I.- Presidir el Sistema Estatal;
+I.- (DEROGADA, P.O. 18 DE OCTUBRE DE 2010);
 
 II.- Formular las bases para la coordinación entre las Autoridades Federales, Locales y Municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
@@ -583,11 +663,15 @@ XV.- Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Seguridad Pública:
 
-I.- Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+I.- Establecer un subprograma anual de capacitación y entrenamiento para los diversos cuerpos policiacos, a efecto de que estén en aptitud y actitud de atender los casos de violencia contra las mujeres;
 
 II.- Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
 
-III.- Establecer las acciones y medidas que se deberán tomar para la readaptación social del agresor;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+III.- Establecer las acciones y medidas que se deberán tomar para la reinserción social del generador de violencia;
 
 IV.- Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
@@ -631,13 +715,19 @@ Corresponde a la Secretaría de Salud:
 
 I.- En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en su contra;
 
-II.- Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas y a los agresores;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
 
-III.- Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres para garantizar la atención a las víctimas y la aplicación de la NOM 190-SSA1-1999: Prestación de servicios de salud. Criterios para la atención médica de la violencia familiar;
+II.- Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas y a los generadores de violencia;
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+III.- Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres para garantizar la atención a las víctimas y la aplicación de la NOM-046-SSA2-2005 Violencia Familiar, sexual y contra las mujeres. Criterios para la prevención y atención;
 
 IV.- Establecer servicios médicos eficaces con cobertura de veinticuatro horas en las dependencias públicas con disponibilidad para atender a las mujeres víctimas de violencia;
 
-V.- Brindar servicios integrales a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en su entorno social;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+V.- Brindar servicios integrales a las víctimas y a los generadores de violencia, a fin de que logren estar en condiciones de participar plenamente en su entorno social;
 
 VI.- Difundir en las instituciones del sector salud, programas y material referente a la prevención y atención de la violencia contra las mujeres;
 
@@ -709,7 +799,9 @@ V.- Colaborar con las instituciones del Sistema en el diseño y evaluación del 
 
 VI.- Impulsar la creación de unidades de atención y protección a las víctimas de violencia previstas en la Ley;
 
-VII.- Brindar orientación integral a las victimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en su entorno social;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+VII.- Brindar atención a las víctimas y establecer los modelos psicoterapéuticos reeducativos para los generadores de violencia, a fin de que logren estar en condiciones de participar plenamente en su entorno social;
 
 VIII.- Vigilar que la atención ofrecida en las diversas instituciones públicas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
 
@@ -727,9 +819,15 @@ XIV.- Establecer los indicadores para la evaluación de la administración públ
 
 XV.- Orientar y asesorar a los integrantes del Sistema Estatal en la elaboración del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XVI.- Impulsar la armonización de las Leyes en materia de derechos fundamentales de las mujeres; y
+XVI.- Impulsar la armonización de las Leyes en materia de derechos fundamentales de las mujeres; y (sic)
 
-XVII.- Las demás previstas para el cumplimiento de la Ley.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+XVII.- Recibir, orientar y dar el trámite pertinente a las quejas presentadas contra servidores públicos y/o particulares, substanciándose el procedimiento administrativo o jurisdiccional que al efecto corresponda; y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+XVIII.- Las demás previstas para el cumplimiento de la Ley.
 
 #### SECCIÓN DÉCIMA. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -745,7 +843,9 @@ III.- Promover en coordinación con el Estado, cursos de capacitación a las per
 
 IV.- Ejecutar las acciones necesarias para el cumplimiento (sic) los Programas Nacional y Estatal;
 
-V.- Apoyar la creación de programas especializados de reeducación integral para los agresores;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+V.- Apoyar la creación de programas especializados de reeducación psicoterapéutica para los generadores de violencia;
 
 VI.- Promover programas informativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
 
@@ -782,6 +882,10 @@ VI.- Impulsar procesos de capacitación sobre la violencia de género contra las
 VII.- Apoyar la realización de estudios y proyectos de investigación en los Municipios relacionados a temas de violencia de género contra las mujeres; y
 
 VIII.- Las demás previstas en otros ordenamientos legales aplicables.
+
+### CAPÍTULO ÚNICO. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 51.
 
@@ -849,6 +953,16 @@ Para efectos del Artículo anterior, el personal médico, psicológico y jurídi
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+## TÍTULO IV. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 58.
+
+Para el caso de los servidores públicos, el incumplimiento de las disposiciones contenidas en esta Ley, estará sujeto a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo y la Legislación aplicable; en el caso de los particulares, se substanciarán los procedimientos jurisdiccionales que, al caso y según la materia corresponda.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -888,3 +1002,23 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres a que refiere la presente Ley, deberá integrarse dentro de los 365 días siguientes a la conformación del Sistema Estatal.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Con motivo del proceso de armonización normativa, los Municipios dentro de los 120 días siguientes a la entrada en vigor del presente Decreto, podrán realizar las acciones correspondientes para adecuar su marco normativo a las disposiciones establecidas en esta Ley.
