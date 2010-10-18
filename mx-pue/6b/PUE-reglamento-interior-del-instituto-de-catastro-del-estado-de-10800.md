@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-de-catastro-del-estado-de-108
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-21"
-last_updated: "1992-02-21"
+last_updated: "2010-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE CATASTRO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE CATASTRO DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 18 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 21 de febrero de 1992.
 
@@ -368,3 +370,13 @@ LIC. HONORIO CORTES LOPEZ
 EL SECRETARIO DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS
 
 LIC. MIGUEL QUIROS PEREZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Instituto de Catastro del Estado de Puebla, publicado en el Periódico Oficial del Estado en fecha veintiuno de febrero de mil novecientos noventa y dos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
