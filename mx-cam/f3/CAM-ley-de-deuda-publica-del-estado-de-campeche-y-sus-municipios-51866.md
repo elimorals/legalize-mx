@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-deuda-publica-del-estado-de-campeche-y-sus-municipios-51
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-19"
-last_updated: "2006-09-19"
+last_updated: "2010-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 19 de septiembre de 2006.
 
@@ -76,6 +76,10 @@ VI. Las destinadas a disminuir los gastos de operación mediante inversiones que
 La deuda pública no debe ser utilizada para financiar gasto corriente, ni operaciones de conversión con particulares.
 
 No constituyen deuda pública los contratos para prestación de servicios a largo plazo, ni la afectación de ingresos, ni los mecanismos de afectación para cubrir dichos contratos; entendiéndose por contrato de servicios de largo plazo, el acto jurídico que involucre recursos de varios ejercicios fiscales, celebrado entre un ente público y un inversionista proveedor, mediante el cual se establece, por una parte, la obligación a cargo del inversionista proveedor de prestar, a largo plazo, uno o más servicios con los activos que éste construya, sobre inmuebles propios o de un tercero, incluyendo el sector público, o provea dichos activos por sí o por un tercero, incluyendo el sector público, de conformidad con un proyecto para prestación de servicios y, por la otra, la obligación de pago por parte del ente público por los servicios que le sean proporcionados.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+Tampoco constituyen deuda pública las obligaciones contraídas por el Estado, como deudor u obligado solidario o avalista de los Poderes, Entidades de la Administración Pública Paraestatal y órganos constitucionales autónomos del propio Estado, a virtud de los convenios de afiliación o regularización de esa afiliación que aquellos celebren con instituciones públicas para brindar los beneficios de la seguridad social a los trabajadores a su servicio.
 
 ###### Artículo 4.
 
@@ -269,6 +273,14 @@ No regirá estipulación ni documento alguno que comprometa a los entes público
 
 Cuando las entidades paraestatales soliciten el aval u otra garantía del Estado, la contratación de los empréstitos o créditos que se requieran se realizará con la autorización e intervención de la Secretaria de Finanzas y Administración, quien verificará que se cubran los ordenamientos legales correspondientes.
 
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+Las entidades paraestatales quedan obligadas a restituir al Estado las cantidades que a éste, por falta de pago de aquellas, se le hayan retenido por la Secretaría de Hacienda y Crédito Público de sus ingresos en participaciones federales. La Secretaría de Finanzas queda autorizada a recuperar tales cantidades mediante su deducción del monto de las erogaciones que el Estado otorga a esas entidades y órganos conforme a la Ley de Presupuesto de Egresos del Estado de Campeche de cada ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2010)</small>
+
+Este mismo procedimiento de obligación a restituir, así como de la recuperación mediante deducción, será aplicable a los órganos constitucionales autónomos del Estado en los casos de afiliación o regularización en materia de seguridad social que estos celebren de conformidad con el cuarto párrafo del artículo 3 de esta Ley.
+
 ###### Artículo 22.
 
 Los empréstitos o créditos que contraten los entes públicos municipales deberán estar incluidos en el respectivo Programa de Financiamiento Municipal, que deberá especificar:
@@ -359,7 +371,7 @@ En el Registro Único Estatal de Deuda Pública se asentarán los siguientes dat
 
 I. El número progresivo de inscripción que corresponda y su fecha;
 
-II. El número que le corresponda, en su caso, en eI Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaria de Hacienda y Crédito Público;
+II. El número que le corresponda, en su caso, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios de la Secretaria de Hacienda y Crédito Público;
 
 III. La autorización del Congreso del Estado y, en su caso, la del Ayuntamiento o del órgano superior de gobierno que deba otorgarla;
 
@@ -408,3 +420,11 @@ C. RAUL AARON POZOS LANZ, DIPUTADO PRESIDENTE.- C. MARTA IRENE NOVELO LARA, DIPU
 En cumplimiento de la dispuesto por los Artículos 48,49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a las Once días del mes de Septiembre del año Dos mil seis. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C. P. JORGE CARLOS HURTADO VALDEZ.- EL SUBSECRETARIO "A" DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARIA DE GOBIERNO POR AUSENCIA DEL TITULAR, LIC. RICARDO MEDINA FARFAN.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE OCTUBRE DE 2010.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
