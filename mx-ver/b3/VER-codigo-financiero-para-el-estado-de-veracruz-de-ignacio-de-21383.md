@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2010-09-17"
+last_updated: "2010-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE OCTUBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -95,7 +95,7 @@ XI. Unidades Presupuestales: los Poderes Legislativo y Judicial, los Organismos 
 
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-XII. Unidades Administrativas: las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos financieros, humanos y materiales asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Sceretario Técnico.
+XII. Unidades Administrativas: las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos financieros, humanos y materiales asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Secretario Técnico.
 
 ###### Artículo 3.
 
@@ -1937,7 +1937,7 @@ e) Por la inscripción de actos relativos a la división de copropiedad de biene
 
 III. Por la inscripción de apeo y deslinde, se pagará sobre la diferencia que resulte entre la superficie inscrita y la resultante en demasía, tomando como base el valor catastral, debiéndose pagar conforme a lo establecido en la fracción I de este Apartado.
 
-a) Por la inscripción de rectificación de superficie, medias o linderos, a que se refiere el artículo 71 de la Ley del Registro Público de la Propiedad para el Estado de Veracruz de Ignacio de la Llave: 10 salarios mínimos .
+a) Por la inscripción de rectificación de superficie, medias o linderos, a que se refiere el artículo 71 de la Ley del Registro Público de la Propiedad para el Estado de Veracruz de Ignacio de la Llave: 10 salarios mínimos.
 
 IV. Por la inscripción de capitulaciones matrimoniales, disolución o liquidación, que impliquen sociedad conyugal o separación de bienes: 10 salarios mínimos.
 
@@ -2095,7 +2095,7 @@ XXII. Por la inscripción relativa a embargos, providencias judiciales y demás 
 
 En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos ni mayor de 200 salarios mínimos.
 
-XXIIl. Por la inscripción relativa a hipotecas, reconocimiento de adeudos, contrato de crédito con garantía hipotecaria o prendaria, refaccionario, de habilitación o avio, mutuo con interés o simple garantizado con prenda o hipoteca y fianza, relativas al Registro Público de Comercio: Por cada $100.00 o fracción: $0.60.
+XXIII. Por la inscripción relativa a hipotecas, reconocimiento de adeudos, contrato de crédito con garantía hipotecaria o prendaria, refaccionario, de habilitación o avío, mutuo con interés o simple garantizado con prenda o hipoteca y fianza, relativas al Registro Público de Comercio: Por cada $100.00 o fracción: $0.60.
 
 En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos ni mayor de 150 salarios mínimos.
 
@@ -2253,6 +2253,236 @@ m) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
 n) (DEROGADO, G.O. 5 DE AGOSTO DE 2005)
 
+> <small>(ADICIONADO, G.O. 18 DE OCTUBRE DE 2010)</small>
+
+D. En materia de Tránsito y Transporte:
+
+I. Expedición de Licencia de Chofer, tipo A, para
+
+conducir vehículos de motor dedicados al servicio
+
+público de transporte de pasajeros, de acuerdo con
+
+el Reglamento de la Ley de Tránsito y Transporte,
+
+previo examen médico y pericial: 15 salarios mínimos
+
+Canje trianual: 7 salarios mínimos
+
+II. Expedición de Licencia de Chofer, tipo B, para
+
+conducir toda clase de vehículos de motor de
+
+servicios públicos de carga y particular, de acuerdo
+
+con el Reglamento de la Ley de Tránsito y Transporte,
+
+previo examen médico y pericial: 14 salarios mínimos
+
+Canje trianual: 6 salarios mínimos
+
+III. Expedición de Licencia de Automovilista, tipo C,
+
+para conducir únicamente automóviles de servicio
+
+particular, de acuerdo con el Reglamento de la Ley de
+
+Tránsito y Transporte, previo examen médico pericial: 12 salarios mínimos
+
+Canje trianual: 5 salarios mínimos
+
+IV. Expedición de Licencia de Motociclista, tipo D,
+
+para conducir vehículos de dos o más ruedas,
+
+de acuerdo con el Reglamento de la Ley de Tránsito
+
+y Transporte, previo examen médico y pericial: 8 salarios mínimos
+
+Canje trianual: 4 salarios mínimos
+
+V. Expedición de Licencia de Motorista, para conducir
+
+maquinaria pesada para construcción: 7 salarios mínimos
+
+Canje trianual: 3 salarios mínimos
+
+VI. Expedición de duplicados de cualquier tipo de
+
+licencias de las señaladas en las fracciones anteriores
+
+de este artículo: 4 salarios mínimos
+
+VII. Por la expedición de los siguientes permisos:
+
+a) Especiales para conducir hasta por 180 días
+
+renovables, a personas mayores de 16 y
+
+menores de 18 años: 6 salarios mínimos
+
+b) Para ocupar zonas para estacionamiento exclusivo
+
+en las vías públicas, cuando éstas resulten necesarias
+
+para la prestación de un servicio público, de acuerdo
+
+con el Reglamento de la Ley de Tránsito y Transporte,
+
+por vehículo: 6 salarios mínimos
+
+Por revalidación anual: 3 salarios mínimos
+
+c) Para establecer el servicio al público de
+
+estacionamiento de vehículos en inmuebles
+
+particulares, de conformidad con la Ley de Tránsito y
+
+Transporte y su Reglamento: 400 salarios mínimos
+
+Por revalidación anual: 150 salarios mínimos
+
+d) Particular, para el transporte de carga específica o de personas:
+
+Por un año: 10 salarios mínimos
+
+Por un día: 2 salarios mínimos
+
+e) Particular, para circular vehículos nuevos sin
+
+placas, ni tarjeta de circulación, por 15 días: 3 salarios mínimos
+
+f) Para establecer escuelas de enseñanza para
+
+conducir vehículos: 200 salarios mínimos
+
+Por revalidación anual: 50 salarios mínimos
+
+VIII. Por servicios de Transporte Público:
+
+a) Expedición de Tarjeta Anual de Identificación de
+
+Operador de Transporte Público de Pasajeros,
+
+incluyendo el examen toxicológico:
+
+Por un año: 10 salarios mínimos
+
+Por dos años: 18 salarios mínimos
+
+b) Reposición de la Tarjeta Anual de Identificación de
+
+Operador de Transporte Público de Pasajeros: 2 salarios mínimos
+
+c) Expedición de Tarifa Oficial para el Cobro de Servicio
+
+Público de Transporte de Pasajeros: 1 salario mínimo
+
+d) Expedición de permisos de sustitución temporal
+
+de unidad, por 20 días: 2 salarios mínimos
+
+e) La revista vehicular anual del Servicio de
+
+Transporte Público, en cualquiera de sus
+
+modalidades: 3 salarios mínimos
+
+f) La realización de los estudios para la modificación o
+
+ampliación de las rutas de transporte público en las
+
+diversas modalidades y, en su caso, la expedición del
+
+croquis correspondiente por concesión
+
+autorizada por el estado: 20 salarios mínimos
+
+IX. Por la prestación de otros servicios:
+
+a) Expedición de constancias, certificados médicos y
+
+documentos de cualquier otra naturaleza: 2 salarios mínimos
+
+b) Expedición de permisos diversos, por día: 2 salarios mínimos
+
+c) Por la utilización de grúas oficiales para el
+
+retiro de vehículos accidentados, infraccionados o
+
+por orden judicial, dentro de los límites de la
+
+ciudad de que se trate: 4 salarios mínimos
+
+d) Por utilización del servicio oficial de depósito
+
+y custodia de vehículos accidentados, infraccionados
+
+o por orden judicial, por día: 0.5 salarios mínimos
+
+X. Por el otorgamiento de una concesión o permisos en trámite
+
+para prestar el Servicio Público de Transporte en las diferentes
+
+modalidades previstas en la Ley de Tránsito y
+
+Transporte y su Reglamento:
+
+a) Taxi y colectivo: 250 salarios mínimos
+
+b) Urbano, suburbano y foráneo: 280 salarios mínimos
+
+c) Carga, escolar, exclusivo de turismo, recreativo y
+
+transporte de personal de empresas: 155 salarios mínimos
+
+d) Carga especializada en modalidad de grúa:
+
+Tipo "A": 750 salarios mínimos
+
+Tipo "B": 500 salarios mínimos
+
+Tipo "C": 300 salarios mínimos
+
+e) Rural mixto carga-pasaje: 250 salarios mínimos
+
+XI. Por la transferencia, por fallecimiento
+
+del titular, de una concesión para prestar el
+
+servicio público de transporte en la modalidad
+
+de taxi, colectivo, rural mixto, urbano,
+
+suburbano, foráneo, carga, escolar, exclusivo
+
+de turismo o transporte de personal de empresas: 50 salarios mínimos
+
+XII. Por la autorización para prestar el servicio
+
+de depósito y custodia de vehículos, de acuerdo
+
+con el Reglamento de la Ley de Tránsito y Transporte: 500 salarios mínimos
+
+Revalidación anual: 150 salarios mínimos
+
+XIII. Por la transferencia por cesión de derechos de
+
+una concesión para prestar el servicio público de
+
+transporte en las modalidades siguientes:
+
+a) Taxi, colectivo, urbano, suburbano, foráneo,
+
+carga, escolar, exclusivo de turismo o
+
+transporte de personal de empresas: 200 salarios mínimos
+
+b) Rural mixto: 150 salarios mínimos
+
+No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiera su titularidad en la sociedad, se generará el pago previsto en esta fracción.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 141.
@@ -2275,7 +2505,7 @@ II. Por registro o diligenciación de exhortos. 7 salarios mínimos
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
-III. Por actos realizados por la Dirección General del Regitro Civil, como son:
+III. Por actos realizados por la Dirección General del Registro Civil, como son:
 
 a) Expedición de copia certificada de acta del estado civil de las personas. 1.5 salarios mínimos
 
@@ -2331,211 +2561,19 @@ No causarán los derechos a que se refiere este artículo, la legalización de f
 
 Por los servicios prestados por la Secretaría de Seguridad Pública, se causarán y cobrarán los derechos siguientes:
 
-A. En materia de Tránsito y Transporte:
-
-> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2009)</small>
-
-I. Expedición de Licencia de Chofer tipo A para conducir vehículos de motor dedicados al Servicio Público de Transporte de Pasajeros, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial.
-
-Por tres años 15 salarios mínimos
-
-Por cinco años 25 salarios mínimos
-
-Canje por tres años 7 salarios mínimos
-
-Canje por cinco años 12 salarios mínimos
-
-> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2009)</small>
-
-II. Expedición de Licencia de Chofer tipo B para conducir toda clase de vehículos de motor de Servicios Públicos de Carga y Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial.
-
-Por tres años 14 salarios mínimos
-
-Por cinco años 25 salarios mínimos
-
-Canje por tres años 6 salarios mínimos
-
-Canje por cinco años 10 salarios mínimos
-
-> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2009)</small>
-
-III. Expedición de Licencia de Automovilista tipo C para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial.
-
-Por tres años 12 salarios mínimos
-
-Por cinco años 20 salarios mínimos
-
-Canje por tres años 5 salarios mínimos
-
-Canje por cinco años 8 salarios mínimos
-
-> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2009)</small>
-
-IV. Expedición de Licencia de Motociclista tipo D para conducir vehículos de dos o más ruedas, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial.
-
-Por tres años 8 salarios mínimos
-
-Por cinco años 13 salarios mínimos
-
-Canje por tres años 4 salarios mínimos
-
-Canje por cinco años 7 salarios mínimos
-
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
-
-V. Expedición de Licencia de Motorista, para conducir maquinaria pesada para construcción. 7 salarios mínimos
-
-Canje Trianual. 3 salarios mínimos
-
-VI. Expedición de Duplicados de cualquier tipo de Licencias de las señaladas en las fracciones anteriores de este artículo. 4 salarios mínimos
-
-VII. Por la expedición de los siguientes permisos:
-
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
-
-a) Especiales para conducir hasta por 180 días renovables, a personas mayores de 16 y menores de 18 años. 6 salarios mínimos.
-
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
-
-b) Para ocupar zonas para estacionamiento exclusivo en las vías públicas, cuando éstas resulten necesarias para la prestación de un servicio público, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte (por vehículo). 6 salarios mínimos
-
-Por revalidación anual 3 salarios mínimos
-
-> <small>(REFORMADO, G.O. 9 DE NOVIEMBRE DE 2005)</small>
-
-c) Para establecer el servicio al público de estacionamiento de vehículos en inmuebles particulares, de conformidad con la Ley de Tránsito y Transporte y su Reglamento:
-
-100 salarios mínimos
-
-Por revalidación anual
-
-50 salarios mínimos
-
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
-
-d) Particular, para el Transporte de Carga Específica o de personas.
-
-Por un año 10 salarios mínimos
-
-Por un día 2 salarios mínimos
-
-e) Particular, para circular vehículos nuevos sin placas, ni tarjeta de circulación por 15 días. 3 salarios mínimos
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2003)</small>
-
-f) Para establecer escuelas de enseñanza para conducir vehículos: 200 salarios mínimos
-
-Por revalidación anual 50 salarios mínimos
-
-VIII. Por servicios de Transporte Público.
-
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
-
-a) Expedición de Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros.
-
-Por un año 10 salarios mínimos
-
-Por dos años 18 salarios mínimos
-
-b) Reposición de la Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros. 2 salarios mínimos
-
-c) Expedición de Tarifa Oficial para el Cobro de Servicio Público de Transporte de Pasajeros. 1 salario mínimo
-
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
-
-d) Expedición de Permisos de Sustitución Temporal de Unidad por 20 días: 2 salarios mínimos
-
-> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2006)</small>
-
-e) La revista vehicular anual del Servicio de Transporte Público en cualquiera de sus modalidades:
-
-3 salarios mínimos
-
-> <small>(ADICIONADO, G.O. 2 DE ENERO DE 2006)</small>
-
-f) La realización de los estudios para la modificación y/o ampliación de las rutas de transporte público en las diversas modalidades y, en su caso la expedición del croquis correspondiente por concesión autorizada por el Estado.
-
-20 salarios mínimos
-
-IX. Por la prestación de otros Servicios:
-
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
-
-a) Expedición de Constancias, Certificados Médicos y documentos de cualquier otra naturaleza. 2 salarios mínimos
-
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
-
-b) Expedición de permisos diversos. Por día: 2 salarios mínimos
-
-c) Por la utilización de grúas oficiales para el retiro de vehículos accidentados, infraccionados o por orden judicial, dentro de los límites de la ciudad de que se trate. 4 salarios mínimos
-
-d) Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial. Por día: 0.50 salario mínimo
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE MAYO DE 2005)</small>
-
-X. Por el otorgamiento de una concesión o permisos en trámite para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en la Ley de Tránsito y Transporte y su Reglamento.
-
-> <small>(REFORMADO, G.O. 12 DE MAYO DE 2005)</small>
-
-a) Taxi, Colectivo. 250 salarios mínimos
-
-> <small>(REFORMADO, G.O. 12 DE MAYO DE 2005)</small>
-
-b) Urbano, Suburbano y Foráneo. 280 salarios mínimos
-
-> <small>(REFORMADO, G.O. 12 DE MAYO DE 2005)</small>
-
-c) Carga, escolar, exclusivo de turismo y transporte de personal de empresas. 155 salarios mínimos.
-
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2003)</small>
-
-d) Carga especializada en modalidad de grúa:
-
-Tipo “A” 750 salarios mínimos
-
-Tipo “B” 500 salarios mínimos
-
-Tipo “C” 300 salarios mínimos
-
-e) Rural Mixto carga-pasaje: 500 salarios mínimos
-
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
-
-XI. Por la transferencia por fallecimiento del titular de una concesión para prestar el Servicio Público de Transporte en la modalidad de Taxi, Colectivo, Rural Mixto, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo de Turismo o Transporte de Personal de Empresas. 50 salarios mínimos
-
-> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
-
-XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte: 200 salarios mínimos
-
-Revalidación anual. 150 salarios mínimos
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE AGOSTO DE 2003)</small>
-
-XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte: 500 salarios mínimos
-
-Revalidación anual. 150 salarios mínimos
-
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
-
-a) Taxi, Colectivo, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo de Turismo y Transporte de Personal de Empresas. 200 salarios mínimos
-
-> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
-
-b) Rural mixto. 150 salarios mínimos
-
-No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiera su titularidad en la sociedad, se generará el pago previsto en esta fracción.
+A. (DEROGADO, G.O. 18 DE OCTUBRE DE 2010)
 
 B. En Materia de Servicios de Seguridad Privada:
 
 Por la autorización y ratificación anual para la prestación de servicios de seguridad privada en las modalidades de: seguridad, protección, vigilancia y custodia de personas, lugares, establecimientos, bienes o valores y su traslado.
 
-Autorización 500 salarios mínimos
+Autorización 500 salarios mínimos.
 
-Ratificación 250 salarios mínimos
+Ratificación 250 salarios mínimos.
 
 Por el registro y revalidación anual de los empleados de las prestadoras de servicios de seguridad privada.
 
-Registro Individual 5 salarios mínimos
+Registro Individual 5 salarios mínimos.
 
 Revalidación individual 5 salarios mínimos.
 
@@ -2609,7 +2647,7 @@ d) Cobertura de curvas de nivel a cada metro 10.0 salarios mínimos
 
 XI. Por copias de contacto de fotografías aéreas escalas 1:4,500 1:10,000 y 1:20,000:
 
-a) En papel bond, imagen blanco y negro en formato 23 x 23 cm., por copia. (sic)
+a) En papel bond, imagen blanco y negro en formato 23 x 23 cm., por copia.
 
 b) Grabada con escaner e impresión en papel bond, blanco y negro en formato 23 x 23 cm., por copia. 1.0 salarios mínimos
 
@@ -8728,3 +8766,11 @@ G.O. 17 DE SEPTIEMBRE DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Todos aquellos casos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán rigiéndose por las disposiciones entonces vigentes y se resolverán conforme a ellas.
+
+G.O. 18 DE OCTUBRE DE 2010.
+
+Artículo primero. El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se señala un término de cuatro meses para el cumplimiento de las disposiciones señaladas en los artículos 46 y 67 fracción IV de la Ley de Tránsito y Transporte para el estado.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
