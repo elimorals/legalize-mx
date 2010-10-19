@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2009-12-31"
+last_updated: "2010-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE OCTUBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
@@ -824,17 +824,41 @@ De no cumplir con los requisitos antes señalados, dichos compromisos se pagará
 
 Para el caso de que las estimaciones de ingresos no se cumplan, la Secretaría determinará el registro presupuestal que corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 71.
 
-Los recursos remanentes de los ejercicios anteriores serán considerados ingresos para todos los efectos y deberán destinarse a mejorar el balance fiscal y posteriormente al mantenimiento de la red de agua potable, de drenaje, de protección civil, al mantenimiento de escuelas, de mercados públicos, y obra sustentable, especificando el tipo de fuente de financiamiento, excepto los remanentes federales que tengan un fin específico y recursos de crédito que se sujetarán a las disposiciones federales aplicables.
+Los recursos remanentes de los ejercicios anteriores serán considerados ingresos para todos los efectos y deberán destinarse a mejorar el balance fiscal y posteriormente al mantenimiento de la red de agua potable, de drenaje, de protección civil, al mantenimiento de escuelas, de mercados públicos, y obra sustentable, así como al Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias especificando el tipo de fuente de financiamiento, excepto los remanentes federales que tengan un fin específico y recursos de crédito que se sujetarán a las disposiciones federales aplicables.
 
 No es aplicable lo dispuesto en este artículo, tratándose de recursos presupuestales transferidos con el carácter de aportaciones al patrimonio propio de las Entidades, así como aquellos que se afecten a los fines del fideicomiso público.
 
 Las Unidades Responsables del Gasto que por cualquier motivo al término del ejercicio fiscal que corresponda conserven fondos presupuestales o recursos que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría dentro de los 15 días naturales siguientes al cierre del ejercicio. Las Unidades Responsables del Gasto que hayan recibido recursos federales, así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los 10 días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
 
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
+
+De los remanentes a los que se refieren los párrafos anteriores, se destinará una cantidad equivalente al 20% del total para el Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
+
+A efecto de acceder a los recursos de dicho Fondo, la Secretaría de Salud del Distrito Federal informará a la Asamblea sobre la presencia de una contingencia sanitaria, o bien, sobre situaciones que a su juicio ameriten realizar acciones para prevenirla.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
+
+En caso de que alguna dependencia de la Administración Pública del Distrito Federal distinta a la señalada en el presente artículo identifique circunstancias que puedan derivar en una contingencia sanitaria, deberán dar aviso a la Secretaría de Salud remitiendo un informe detallado que justifique la necesidad de aplicar recursos de dicho Fondo para la prevención o atención de esa situación.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
+
+La Asamblea por conducto de las Comisiones de Presupuesto y Cuenta Pública y de Salud y Asistencia Social, deberá emitir la opinión respectiva para la utilización de los recursos solicitados, de acuerdo a la suficiencia presupuestal del Fondo mencionado.
+
+> <small>(ADICIONADO, G.O. 19 DE OCTUBRE DE 2010)</small>
+
+El destino de los recursos al que se refiere el presente artículo respecto al Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal, no excluye la asignación de presupuesto específico aprobado por la Asamblea, las reasignaciones que la Secretaría de Salud realice dentro de su presupuesto autorizado, incluso, los recursos que provengan de cualquier otro programa, fondo federal o del sector privado y no podrán destinarse a fines distintos.
+
 Los Órganos de Gobierno deberán informar a la Asamblea dentro de los primeros cinco días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno del Distrito Federal y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar a la Asamblea los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente. La Asamblea o cuando ésta se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen, de conformidad con lo dispuesto por el artículo 62 de esta Ley. Para tal efecto, la Asamblea comunicará a la Secretaría lo que resuelva al respecto.
 
-Queda prohibido realizar erogaciones, así como constituir o participar en fideicomisos, mandatos o análogos, al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo. El servidor público que incumpla con esta prohibición, será sancionado en los términos del Capítulo II del Título Tercero de la Ley Federal de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2010)</small>
+
+Queda prohibido realizar erogaciones al final del ejercicio con cargo a ahorros y economías del Presupuesto de Egresos que tengan por objeto evitar el reintegro de recursos a que se refiere este artículo. El servidor público que incumpla con esta prohibición, será sancionado en los términos del Capítulo II del Título Tercero de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 De los movimientos que se efectúen en los términos de este artículo, el Jefe de Gobierno informará a la Asamblea en cada Informe Trimestral y al rendir la Cuenta Pública.
 
@@ -1637,3 +1661,13 @@ Séptimo. Los Órganos de Gobierno y Autónomos deberán elaborar y determinar l
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días del mes de diciembre del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. LIZBETH EUGENIA ROSAS MONTERO, PRESIDENTA.- DIP. MARÍA DE LOURDES AMAYA REYES, SECRETARIA.- RAFAEL CALDERÓN JIMÉNEZ, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNANDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MIGUEL CARRILLO HUERTA.- FIRMA.- SECRETARÍA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 19 DE OCTUBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno deberá publicar en la Gaceta Oficial los lineamientos para la operación del Fondo de Prevención y Atención de Contingencias y Emergencias Epidemiológicas y Sanitarias para el Distrito Federal.
