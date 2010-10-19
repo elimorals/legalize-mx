@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2008-12-23"
+last_updated: "2010-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -177,7 +177,7 @@ En la averiguación previa y cuando no haya detenido, el Ministerio Público pod
 
 ###### ARTICULO 9.
 
-En todo proceso penal la victima o el ofendido por algún delito tendrá derecho, a su elección, a ser asesorado por un Licenciado en Derecho y/o a recibir asesoría jurídica por parte del Misterio Público, a que se le satisfaga la reparación del daño cuando proceda, a que su asesor coadyuve con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y, los demás que señalan las leyes; por lo tanto podrán poner a disposición del Misterio Público y del Juez Instructor, a través de aquél, por si o por medio de su asesor jurídico, todos los datos conducentes a acreditar el cuerpo del delito, la probable y plena responsabilidad penal del inculpado según el caso, y a justificar la reparación del daño, esto último podrán hacerlo también directamente ante el juez.
+En todo proceso penal la víctima o el ofendido por algún delito tendrá derecho, a su elección, a ser asesorado por un Licenciado en Derecho y/o a recibir asesoría jurídica por parte del Misterio Público, a que se le satisfaga la reparación del daño cuando proceda, a que su asesor coadyuve con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y, los demás que señalan las leyes; por lo tanto podrán poner a disposición del Misterio Público y del Juez Instructor, a través de aquél, por si o por medio de su asesor jurídico, todos los datos conducentes a acreditar el cuerpo del delito, la probable y plena responsabilidad penal del inculpado según el caso, y a justificar la reparación del daño, esto último podrán hacerlo también directamente ante el juez.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -823,21 +823,25 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Ministerial, quien deberá sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-Para todos los efectos legales, y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; delincuencia organizada, prevista en el artículo 171 Bis; ataques a los medios de transporte previsto por el artículo 174;corrupción de menores e incapaces y pornografía infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194 Bis fracciones III y V, 194 Ter fracciones I, II y III, 195; tortura previsto por el artículo 213; cohecho previsto por el artículo 216 en relación con el artículo 217 fracción II; enriquecimiento ilícito previsto por el artículo 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; asalto previsto en el artículo 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el artículo 318-Bis; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto por el artículo 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353, 354 y 355; secuestro en los casos de los artículos 391 y 391 Bis; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I; 410 exceptuando de éste el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411; extorsión previsto por el artículo 426; despojo de cosas inmuebles o de aguas previsto por el artículo 427 cuando se realice en la circunstancia prevista en la fracción IV; daño en propiedad en los casos previstos por el artículo 435; y operaciones con recursos de procedencia ilícita, previsto por el artículo 443 Bis, todos del Código Penal para el Estado de Tamaulipas.
+Para todos los efectos legales, y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; delincuencia organizada, prevista en el artículo 171 Bis; ataques a los medios de transporte previsto por el artículo 174; corrupción de menores e incapaces y pornografía infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194 Bis fracciones III y V, 194 Ter fracciones I, II y III, 195; tortura previsto por el artículo 213; cohecho previsto por el artículo 216 en relación con el artículo 217 fracción II; enriquecimiento ilícito previsto por el artículo 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; asalto previsto en el artículo 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el artículo 318-Bis; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto por el artículo 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353, 354 y 355; secuestro en los casos de los artículos 391 y 391 Bis; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I; 410 exceptuando de éste el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411; extorsión previsto por el artículo 426; despojo de cosas inmuebles o de aguas previsto por el artículo 427 cuando se realice en la circunstancia prevista en la fracción IV; daño en propiedad en los casos previstos por el artículo 435; y operaciones con recursos de procedencia ilícita, previsto por el artículo 443 Bis, todos del Código Penal para el Estado de Tamaulipas; así también el delito de Trata de Personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas.
 
 (ADICIONADO, P.O. 19 DE JUNIO DE 1999) (F. DE E., P.O. 17 DE ABRIL DE 2002)
 
 La tentativa punible de los ilícitos penales mencionados en el párrafo anterior, también se califica como delito grave.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 109 Bis.
 
-En los casos de delito flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponerlo a disposición de autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina y jerarquía para cometer de modo violento o reiterado o con fines predominantemente lucrativos alguno de los delitos previstos en los siguientes artículos del Código Penal para el Estado de Tamaulipas: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos en los casos previstos por el artículo 160; ataque a los medios de transporte previsto por el artículo 174; violación previsto en los artículos 273, 274, 275, 276, 277; asalto previsto por los artículos 313, 314 y 315; homicidio previsto por el artículo 329 en relación con los artículos 333, 336 y 337; secuestro previsto por el artículo 391; robo calificado previsto por el artículo 399 en relación con los artículos 402 fracciones II y III, 405, 406, 407, 409, 410 y 411; extorsión previsto por el artículo 426; y daño en propiedad previsto por el artículo 433 en los casos a que se refiere el artículo 435.
+En los casos de delito flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponerlo a disposición de autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina y jerarquía para cometer de modo violento o reiterado o con fines predominantemente lucrativos alguno de los delitos previstos en los siguientes artículos del Código Penal para el Estado de Tamaulipas: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos en los casos previstos por el artículo 160; ataque a los medios de transporte previsto por el artículo 174; violación previsto en los Artículos 273, 274, 275, 276 y 277; asalto previsto en los Artículos 313, 314 y 315; homicidio previsto por el Artículo 329 en relación con los Artículos 333, 336 y 337; secuestro previsto por el Artículo 391; robo calificado previsto por el Artículo 399 en relación con los Artículos 402 fracciones II y III, 405, 406, 407, 409, 410 y 411; extorsión previsto por el Artículo 426; y daño en propiedad previsto por el Artículo 433 en los casos a que se refiere el Articulo 435; así también el delito de Trata de Personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 Si para integrar la averiguación previa fuese necesario mayor tiempo del señalado en el párrafo anterior, el detenido será puesto en libertad, sin perjuicio de que la indagación continúe sin detenido.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 El juez que reciba la consignación con detenido procederá de inmediato a determinar si la detención fue apegada a la Constitución Política de los Estados Unidos Mexicanos o no; en el primer caso ratificará la detención y en el segundo decretará la libertad con las reservas de ley.
 
@@ -963,7 +967,7 @@ III.- Comprobar su personalidad para los efectos legales.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
 
-Igualmente, el Ministerio Publico, antes de iniciar la averiguación previa o durante ésta y sin perjuicio de acordar las primeras medidas, deberá procurar la conciliación entre el ofendido o victima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la victima sea causa de extinción de la acción penal.
+Igualmente, el Ministerio Publico, antes de iniciar la averiguación previa o durante ésta y sin perjuicio de acordar las primeras medidas, deberá procurar la conciliación entre el ofendido o víctima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la victima sea causa de extinción de la acción penal.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
 
@@ -971,7 +975,7 @@ En convenio conciliatorio producirá los efectos de suspender la averiguación p
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
 
-Para que la conciliación pueda ser motivo de extinción de la acción penal, será necesario que el convenio se cumpla o se formule perdón del ofendido o victima. El incumplimiento del convenio dará lugar a que se inicie la averiguación o que ésta se continúe.
+Para que la conciliación pueda ser motivo de extinción de la acción penal, será necesario que el convenio se cumpla o se formule perdón del ofendido o víctima. El incumplimiento del convenio dará lugar a que se inicie la averiguación o que ésta se continúe.
 
 ###### ARTICULO 119.
 
@@ -2013,7 +2017,7 @@ En caso de que alguna o algunas de las personas comprendidas en las fracciones a
 
 La reserva de información que, por disposición de la propia ley, deben guardar los servidores públicos, se hará del conocimiento de la autoridad que requiera la declaración o testimonio y, en todo caso, se estará a lo dispuesto en la ley que rija las facultades del servidor público correspondiente.
 
-Al servidor público que viole lo dispuesto en este artículo, se le aplicarán las penas a que se refiere el artículo 212 del Código Penal del Estado, pero si el delito es cometido contra la administración de justicia establecido en el articulo 232, se le aplicarán las penas a que se refiere el artículo 233 ambos del mismo ordenamiento.
+Al servidor público que viole lo dispuesto en este artículo, se le aplicarán las penas a que se refiere el artículo 212 del Código Penal del Estado, pero si el delito es cometido contra la administración de justicia establecido en el artículo 232, se le aplicarán las penas a que se refiere el artículo 233 ambos del mismo ordenamiento.
 
 ###### ARTICULO 250.
 
@@ -2547,7 +2551,7 @@ Lo dispuesto en este artículo se entiende sin perjuicio del derecho que el acus
 
 En la audiencia, el Juez, después de recibir las pruebas que legalmente puedan desahogarse, dará el uso de la voz al Ministerio Público primero, y después a la defensa para que aleguen lo que a sus intereses convenga; el ofendido, su representante o su coadyuvante, así como el acusado, tendrán derecho a ser escuchados por si mismo, agotado (sic) los alegatos de las partes, el Juez declarará visto el proceso y citara a las partes para oír sentencia.
 
-Si por alguna circunstancia no se pueden desahogar todas o alguna de las pruebas en la audiencia, el Juez, por una sola vez y si lo considera necesario o alguna de las partes lo solicita, suspenderá ésta por un término no mayor de cinco días y señalará nueva fecha para su continuación y recepción de las pruebas que no se pudieron desahogar. En caso contrario la audiencia se llevará acabo.
+Si por alguna circunstancia no se pueden desahogar todas o alguna de las pruebas en la audiencia, el Juez, por una sola vez y si lo considera necesario o alguna de las partes lo solicita, suspenderá ésta por un término no mayor de cinco días y señalará nueva fecha para su continuación y recepción de las pruebas que no se pudieron desahogar. En caso contrario la audiencia se llevará acabo (sic).
 
 ###### ARTICULO 336.
 
@@ -3081,7 +3085,7 @@ Cuando la fianza sea personal, el fiador deberá comprobar que tiene bienes raí
 
 ###### ARTICULO 403.
 
-La garantía personal se revocará de oficio o a petición de parte, se el fiador no acredita dentro de los diez días hábiles siguientes al del otorgamiento, que sus bienes están libres de gravamen.
+La garantía personal se revocará de oficio o a petición de parte, sí el fiador no acredita dentro de los diez días hábiles siguientes al del otorgamiento, que sus bienes están libres de gravamen.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
@@ -4480,3 +4484,9 @@ P.O. 23 DE DICIEMBRE DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
+
+P.O. 19 DE OCTUBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
