@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2010-05-04"
+last_updated: "2010-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1281,7 +1281,7 @@ La amnistía extingue tanto la acción penal como las sanciones impuestas, queda
 
 ###### ARTICULO 116.
 
-El perdón del ofendido o de la victima, en su caso, extingue la acción penal, cuando concurran los requisitos siguientes:
+El perdón del ofendido o de la víctima, en su caso, extingue la acción penal, cuando concurran los requisitos siguientes:
 
 I.- Que el delito sea de los que se persiga a instancia de parte;
 
@@ -1691,7 +1691,9 @@ Se entiende por pandilla, para los efectos de esta disposición, la reunión hab
 
 Cuando tres o más personas acuerden organizarse o se organicen para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras tengan como fin o resultado cometer alguno o algunos de los delitos siguientes previstos por este Código, serán considerados por ese solo hecho, como miembros de la delincuencia organizada:
 
-Evasión de presos, previsto en el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; corrupción de menores e incapaces, previsto en el artículo 192 y 193 segundo párrafo; pornografía infantil, previsto en el artículo 194 Bis; prostitución sexual de menores, previsto en el artículo 194 Ter; lenocinio, previsto por el artículo 199; homicidio calificado, previsto en los artículos 329 y 335; secuestro, previsto por el artículo 391; robo, previsto en el artículo 405 y 407 fracciones I, IX, X, XII, XIII, XIV, XV y XVI; robo de semovientes, previsto en los artículos 410 y 411; y, operaciones con recursos de procedencia ilícita, previsto en el artículo 443 Bis.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+
+Evasión de presos, previsto en el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; corrupción de menores e incapaces, previsto en el artículo 192 y 193 segundo párrafo; pornografía infantil, previsto en el artículo 194 Bis; prostitución sexual de menores, previsto en el artículo 194 Ter; lenocinio, previsto por el artículo 199; homicidio calificado, previsto en los artículos 329 y 335; secuestro, previsto por el artículo 391; robo, previsto en el artículo 405 y 407 fracciones I, IX, X, XII, XIII, XIV, XV y XVI; robo de semovientes, previsto en los artículos 410 y 411; y, operaciones con recursos de procedencia ilícita, previsto en el artículo 443 Bis; así también el delito de Trata de Personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas..
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -1833,7 +1835,7 @@ ARTICULO 207 QUINQUIES.- Al que estando autorizado para acceder a sistemas y equ
 
 ARTICULO 207 SEXIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente copie, transmita o imprima información que contengan se le impondrá de uno a cuatro años de prisión y multa de cien a trescientos días salario.
 
-Los delitos previstos en este titulo serán sancionados por querella de la parte ofendida.
+Los delitos previstos en este título serán sancionados por querella de la parte ofendida.
 
 ###### ARTICULO 188.
 
@@ -2179,7 +2181,7 @@ XIII.- Obligar a declarar a las personas que se mencionan en el artículo 249 Bi
 
 Se sancionará con una pena de tres a doce años de prisión, multa de doscientos a cuatrocientos días de salario, destitución del cargo e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
 
-Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o autorice a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
+Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
 
 Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
 
@@ -2569,9 +2571,31 @@ Los defensores de oficio que sin motivo justificado no promuevan las pruebas con
 
 ## TITULO UNDECIMO. DELITOS CONTRA LA FE PUBLICA
 
-### CAPITULO IV. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO IV. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 276 BIS.- Comete el delito de hostigamiento sexual quien, valiéndose de una posición jerárquica derivada de la relación laboral, docente, doméstica o cualquiera otra que genere subordinación, asedie a otra persona, emitiéndole propuestas, utilice lenguaje lascivo con este fin o le solicite ejecutar cualquier acto de naturaleza sexual.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 276 TER.- Comete el delito de acoso sexual quien con respecto a una persona con la que no exista relación de subordinación, lleve a cabo conductas verbales, físicas o ambas, relacionadas con la sexualidad que la pongan en riesgo o la dejen en estado de indefensión.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 276 QUATER.- Al responsable del delito de hostigamiento sexual se le impondrán de seis meses a dos años de prisión y multa de cincuenta a trescientos días de salario y será punible cuando se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
+
+Al responsable del delito de acoso sexual se le impondrá una pena de seis meses a un año de prisión y multa de cincuenta a trescientos días de salario.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 276 QUINQUIES.- Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de seis meses a dos años para desempeñar cualquier empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 276 SEXIES.- Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable, de tres a cinco años de prisión y multa de cien a quinientos días de salario.
+
+(REUBICADO, ANTES CAPITULO IV, P.O. 19 DE OCTUBRE DE 2010)
 
 ###### ARTICULO 244.
 
@@ -2585,7 +2609,9 @@ II.- El que ponga en circulación los documentos falsos a que se refiere la frac
 
 Al que cometa alguno de los delitos a que se refiere el artículo anterior se le impondrá una sanción de cuatro a diez años de prisión y multa de sesenta a ciento veinte días salario.
 
-### CAPITULO I. ALTERACION DEL ESTADO CIVIL
+### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 246.
 
@@ -2619,7 +2645,7 @@ Se impondrá sanción de uno a cinco años de prisión y multa de treinta a sete
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO II. BIGAMIA
+### CAPITULO I. ALTERACION DEL ESTADO CIVIL
 
 ###### ARTICULO 250.
 
@@ -2685,7 +2711,7 @@ II.- Que resulte o pueda resultar perjuicio a la sociedad, al Estado o a un part
 
 III.- Que el falsario haga la falsificación sin consentimiento de la persona a quien resulte o pueda resultar perjuicio, salvo que éste se haya hecho extensivo a la sociedad, al Estado o a un tercero.
 
-### CAPITULO III. INCESTO
+### CAPITULO II. BIGAMIA
 
 ###### ARTICULO 254.
 
@@ -2729,7 +2755,7 @@ Al testigo, perito, o intérprete que se retracte espontáneamente de sus falsas
 
 (DEROGADO, P.O. 10 DE JULIO DE 2003)
 
-### CAPITULO IV. ADULTERIO
+### CAPITULO III. INCESTO
 
 ###### ARTICULO 259.
 
@@ -2745,7 +2771,7 @@ III.- Al servidor público que en los actos propios de su cargo, atribuyere a un
 
 Al responsable del delito a que se refiere el artículo anterior se le impondrá una sanción de tres días a seis meses de prisión y multa de uno a quince días salario.
 
-### CAPITULO V. EXPOSICION DE MENORES
+### CAPITULO IV. ADULTERIO
 
 ###### ARTICULO 261.
 
@@ -2763,11 +2789,11 @@ Comete el delito de usurpación de profesión el que se atribuya el carácter de
 
 Al responsable de los delitos a que se refiere este capítulo se le impondrá una sanción de un mes a tres años de prisión y multa de tres a cincuenta días salario.
 
+### CAPITULO V. EXPOSICION DE MENORES
+
 ### CAPITULO VI. ABANDONO DE OBLIGACIONES ALIMENTICIAS
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-### CAPITULO VII. SUSTRACCION Y RETENCION DE MENORES POR LOS PADRES
 
 ###### ARTICULO 264.
 
@@ -2777,7 +2803,7 @@ Comete el delito a que se refiere este capítulo el que públicamente usare unif
 
 Al responsable del delito previsto en el artículo anterior se le impondrá una sanción de un mes a tres años de prisión y multa de tres a cincuenta días salario.
 
-### CAPITULO UNICO. VIOLACIONES DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
+### CAPITULO VII. SUSTRACCION Y RETENCION DE MENORES POR LOS PADRES
 
 ###### ARTICULO 266.
 
@@ -2787,9 +2813,7 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 ## TITULO DUODECIMO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUALES
 
-### CAPITULO I. AMENAZAS
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+### CAPITULO UNICO. VIOLACIONES DE LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 267.
 
@@ -2805,7 +2829,9 @@ Al responsable del delito de impudicia se le impondrá una sanción de seis mese
 
 El delito de impudicia sólo se castigará cuando se haya consumado.
 
-### CAPITULO II. ALLANAMIENTO DE MORADA
+### CAPITULO I. AMENAZAS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 270.
 
@@ -2831,7 +2857,7 @@ Si la víctima fuera mayor de dieciséis y menor de dieciocho años de edad, al 
 
 No se procederá contra el responsable del delito de estupro, sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus legítimos representantes.
 
-### CAPITULO III. ASALTO
+### CAPITULO II. ALLANAMIENTO DE MORADA
 
 ###### ARTICULO 273.
 
@@ -2843,6 +2869,10 @@ Comete el delito de violación, el que por medio de la violencia física o moral
 
 Al responsable del delito de violación se le impondrá una sanción de diez a dieciocho años de prisión. Si la víctima fuere la esposa o concubina, sólo se perseguirá por querella de la parte ofendida.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+
+Si la víctima del delito fuere menor de doce años, o quien no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la sanción será de 20 a 30 años de prisión.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 Para los efectos de este capítulo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal o bucal, independientemente de su sexo.
@@ -2853,11 +2883,11 @@ Se impondrá la misma sanción y se considerará como violación al que introduz
 
 Si la violación fuere precedida o acompañada de golpes o lesiones o se cometiere cualquier otro hecho delictuoso, se observarán las reglas del concurso real.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 275.
 
-Se equipará a la violación y se impondrá sanción de diez a veinte años de prisión:
+Se equipará a la violación y se impondrá sanción de 15 a 25 años de prisión:
 
 I.- Al que sin violencia realice cópula con persona menor de doce años de edad;
 
@@ -2871,6 +2901,10 @@ III.- Al que sin violencia introduzca por vía anal o vaginal cualquier elemento
 
 Si la violación fuere cometida con participación de dos o más personas, la sanción se agravará hasta una mitad más de la sanción a imponer.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2010)</small>
+
+### CAPITULO III. ASALTO
+
 ### CAPITULO IV. DELITOS CON MOTIVO DEL TRANSITO DE VEHICULOS
 
 ### CAPITULO V. TRAFICO DE MENORES E INCAPACITADOS
@@ -2878,8 +2912,6 @@ Si la violación fuere cometida con participación de dos o más personas, la sa
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO I. LESIONES
-
-### CAPITULO II. HOMICIDIO
 
 ###### ARTICULO 277.
 
@@ -2921,7 +2953,7 @@ Las Autoridades garantizarán que la información que brinden no contravenga el 
 
 ## TITULO DECIMO TERCERO. DELITOS CONTRA LA FAMILIA Y EL ESTADO CIVIL
 
-### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPITULO II. HOMICIDIO
 
 ###### ARTICULO 280.
 
@@ -2945,7 +2977,7 @@ En los casos de la fracción I y en el segundo supuesto de la fracción II de é
 
 A los responsables del delito previsto en el artículo anterior, se les impondrá una sanción de uno a seis años de prisión y multa de treinta a ochenta días salario; además perderán el derecho de heredar que tuvieren respecto de las personas a quienes, por la comisión del delito, perjudiquen en sus derechos de familia.
 
-### CAPITULO IV. INDUCCION Y AUXILIO AL SUICIDIO
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### ARTICULO 282.
 
@@ -2959,7 +2991,7 @@ A los responsables del delito de bigamia se les impondrá una sanción de uno a 
 
 A los testigos que intervengan en la celebración del nuevo matrimonio a sabiendas de la vigencia legal del anterior, se les impondrá una sanción de tres meses a dos años de prisión y multa de seis a cuarenta días salario. Igual sanción se aplicará a quienes ejerzan la patria potestad o la tutela, que a sabiendas dieren su consentimiento para la celebración del nuevo matrimonio.
 
-### CAPITULO V. PARRICIDIO
+### CAPITULO IV. INDUCCION Y AUXILIO AL SUICIDIO
 
 ###### ARTICULO 285.
 
@@ -2969,7 +3001,7 @@ Cometen el delito de incesto los ascendientes que tengan cópula con sus descend
 
 A los ascendientes responsables del delito de incesto se les impondrá una sanción de tres a seis años de prisión y para los descendientes la sanción será de seis meses a tres años de prisión; esta última sanción se impondrá cuando el incesto se realice entre hermanos.
 
-### CAPITULO VI. FILICIDIO
+### CAPITULO V. PARRICIDIO
 
 ###### ARTICULO 287.
 
@@ -2991,7 +3023,7 @@ A los ascendientes responsables del delito de incesto se les impondrá una sanci
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-### CAPITULO VII. ABORTO
+### CAPITULO VI. FILICIDIO
 
 ###### ARTICULO 292.
 
@@ -3007,7 +3039,7 @@ Los parientes o tutores que entreguen en una casa de expósitos a un niño que e
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO VIII. ABANDONO DE PERSONAS
+### CAPITULO VII. ABORTO
 
 ###### ARTICULO 295.
 
@@ -3045,7 +3077,7 @@ Para que el perdón concedido por el ofendido pueda extinguir la acción o la sa
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MAYO DE 2007)</small>
 
-### CAPITULO IX
+### CAPITULO VIII. ABANDONO DE PERSONAS
 
 ###### ARTICULO 300.
 
@@ -3073,9 +3105,7 @@ A los responsables de los delitos a que se refieren los artículos anteriores se
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SALUBRIDAD Y SEGURIDAD EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO X. VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
+### CAPITULO IX
 
 ###### ARTICULO 302.
 
@@ -3099,7 +3129,9 @@ II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutila
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
+### CAPITULO X. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 318 Bis.
 
@@ -3153,7 +3185,7 @@ Si el activo cumple su amenaza se acumulará la sanción de ésta y la del delit
 
 Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza la que le corresponda por su participación en el delito que resulte.
 
-### CAPITULO II. INJURIAS
+### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
 
 ###### ARTICULO 310.
 
@@ -3173,7 +3205,7 @@ Se impondrá la misma sanción prevista en el artículo anterior, al que permane
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO III. DIFAMACION
+### CAPITULO II. INJURIAS
 
 ###### ARTICULO 313.
 
@@ -3189,7 +3221,7 @@ Al responsable del delito de asalto, se le impondrá sanción de cuatro a siete 
 
 Si un grupo de tres o más personas, atacare un lugar poblado, se impondrá una sanción de diez a veinte años de prisión a los cabecillas o jefes; y de ocho a quince años de prisión a los demás.
 
-### CAPITULO IV. CALUMNIA
+### CAPITULO III. DIFAMACION
 
 ###### ARTICULO 316.
 
@@ -3209,17 +3241,15 @@ II.- Si se cometiere por conductores de transporte de servicio público o escola
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
+### CAPITULO IV. CALUMNIA
+
 ### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
-
 ## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
-### CAPITULO II. SECUESTRO
-
-> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
 
 ###### ARTICULO 319.
 
@@ -3287,13 +3317,15 @@ Al que ejerciendo la patria potestad o la tutela infiera lesiones a los menores 
 
 Los propietarios o poseedores de animales que causen lesiones o muerte a personas, serán responsables a título de culpa. Si fueren a consecuencia de su acción, el delito se considerará doloso.
 
+### CAPITULO II. SECUESTRO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ### CAPITULO III. RAPTO
 
 ### CAPITULO I. ROBO
 
 ### CAPITULO II. ABUSO DE CONFIANZA
-
-### CAPITULO III. FRAUDE
 
 ###### ARTICULO 329.
 
@@ -3359,9 +3391,7 @@ El homicidio es calificado cuando se comete con premeditación, ventaja, alevos�
 
 Al autor de un homicidio calificado se le impondrá una sanción de veinte a cincuenta años de prisión.
 
-### CAPITULO IV. USURA
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+### CAPITULO III. FRAUDE
 
 ###### ARTICULO 338.
 
@@ -3421,7 +3451,9 @@ II.- Prohibirles ir a determinado lugar, o municipio del Estado, o residir en é
 
 #### SECCION TERCERA. De la Intervención
 
-### CAPITULO V. CHANTAJE
+### CAPITULO IV. USURA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 348.
 
@@ -3431,7 +3463,7 @@ Al que prestare auxilio o indujere a otro para que se suicide hasta llegar a su 
 
 Se impondrán las sanciones de homicidio calificado al que induzca o auxilie al suicidio a un menor de dieciséis años o a una persona que no tuviera capacidad de comprensión. Si el suicidio no se consuma y sólo se causan lesiones, se impondrá al activo la sanción que corresponda a lesiones calificadas.
 
-### CAPITULO VI. EXTORSION
+### CAPITULO V. CHANTAJE
 
 ###### ARTICULO 350.
 
@@ -3443,7 +3475,7 @@ Comete el delito de parricidio el que dolosamente prive de la vida a cualquier a
 
 Al que cometa el delito de parricidio se le impondrá una sanción de treinta a cincuenta años de prisión.
 
-### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
+### CAPITULO VI. EXTORSION
 
 ###### ARTICULO 352.
 
@@ -3465,9 +3497,7 @@ Al responsable del delito de filicidio se le impondrá una sanción de treinta a
 
 Si en la comisión del delito de filicidio participara un médico, partero o enfermero, además de imponérseles las sanciones privativas de libertad por homicidio, se le suspenderá hasta por veinte años en el ejercicio de su profesión.
 
-### CAPITULO VIII. DAÑO EN PROPIEDAD
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
+### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTICULO 356.
 
@@ -3505,7 +3535,9 @@ II.- Cuando el embarazo haya sido resultado de una violación; y
 
 III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
+### CAPITULO VIII. DAÑO EN PROPIEDAD
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 362.
 
@@ -3531,11 +3563,9 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
+### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
+
 ### CAPITULO I. ENCUBRIMIENTO
-
-### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 366.
 
@@ -3551,9 +3581,9 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2008)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 368 Bis.
 
@@ -3579,17 +3609,15 @@ En todos los casos previstos en los dos artículos precedentes, el Ministerio P�
 
 La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
-### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 1995)</small>
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
 
-### CAPITULO I. DAÑO AL MEDIO AMBIENTE
+### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 369.
 
@@ -3611,7 +3639,7 @@ A los responsables del delito a que se refiere el artículo anterior, se les imp
 
 Si el ofendido fuere ascendiente, se impondrá al responsable una sanción de un mes a tres años de prisión y multa de tres a cincuenta días salario.
 
-### CAPITULO II. DELITO DE INCENDIOS
+### CAPITULO I. DAÑO AL MEDIO AMBIENTE
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3625,7 +3653,7 @@ Si el ofendido fuere ascendiente, se impondrá al responsable una sanción de un
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-### CAPITULO III. CONTAMINACION DE AGUAS
+### CAPITULO II. DELITO DE INCENDIOS
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3647,7 +3675,7 @@ Si el ofendido fuere ascendiente, se impondrá al responsable una sanción de un
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO IV. SUBSTRACCION DEL SUELO
+### CAPITULO III. CONTAMINACION DE AGUAS
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3673,7 +3701,7 @@ Si el ofendido fuere ascendiente, se impondrá al responsable una sanción de un
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO IV. SUBSTRACCION DEL SUELO
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3700,6 +3728,12 @@ No se podrá proceder contra el responsable de los delitos de golpes y violencia
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD EN EL GOCE DE GARANTIAS
+
+### CAPITULO V. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 388.
 
@@ -4787,7 +4821,7 @@ El presente Decreto entrará en vigor el día primero de enero del año dos mil 
 
 ###### ARTICULO SEGUNDO.
 
-Todos los hechos ocurridos, procesos instruidos y sentencias pronunciadas antes de la entrada en vigor de este Decreto, se regirán por la ley mas favorable al reo.
+Todos los hechos ocurridos, procesos instruidos y sentencias pronunciadas antes de la entrada en vigor de este Decreto, se regirán por la ley más favorable al reo.
 
 ###### ARTICULO TERCERO.
 
@@ -4990,6 +5024,30 @@ P.O. 7 DE ENERO DE 2010.
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE MAYO DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO LX-1134, POR EL QUE SE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 171 BIS DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO LX-1135, POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 274, RECORRIENDOSE LOS ACTUALES PARA SER TERCERO, CUARTO Y QUINTO Y SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 275, DEL CODIGO PENAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE OCTUBRE DE 2010.
+
+DECRETO NUMERO LX-1136, POR EL QUE SE ADICIONA EL CAPITULO IV AL TITULO DUODECIMO DENOMINADO HOSTIGAMIENTO Y ACOSO SEXUAL, COMPRENDIDO POR LOS ARTICULO 276 BIS, 276 TER, 276 QUATER, 276 QUINQUIES, 276 SEXIES, RECORRIENDOSE EL ACTUAL CAPITULO IV PARA SER CAPITULO V, DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
