@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-promocion-y-21628"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-10"
-last_updated: "2001-05-10"
+last_updated: "2010-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PROMOCION Y DESARROLLO ECONOMICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA Y ACUACULTURA, PUBLICADO EN EL B.O. DE 20 DE OCTUBRE DE 2010, SE DEROGAN LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO QUE SE OPONGAN A ESE REGLAMENTO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 10 de mayo de 2001.
 
@@ -902,3 +904,15 @@ C. LIC. VÍCTOR MANUEL GULUARTE CASTRO.
 EL SECRETARIO DE PROMOCIÓN Y DESARROLLO ECONÓMICO
 
 C. M. EN C. JESÚS DRUK GONZÁLEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 20 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Reglamento una vez publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, entrará en vigor al 1 de enero del 2011.
+
+SEGUNDO.- Para los efectos presupuestales y administrativos a que haya lugar, y la entrada en vigor del presente Reglamento, la Secretaría de Finanzas y Oficialía Mayor de Gobierno, realizarán los ajustes y traspasos presupuestales correspondientes; así como los trámites respecto a los recursos humanos y materiales que se asignarán a la Secretaría de Pesca y Acuacultura.
+
+TERCERO.- Los Manuales de Organización, Procedimientos y Servicios, se deberán expedir en un plazo no mayor de 30 días, contados a partir de la entrada en vigor del presente Reglamento, en tanto el Secretario de Pesca y Acuacultura queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
+
+CUARTO.- Se derogan las disposiciones del Reglamento Interior de la Secretaría de Promoción y Desarrollo Económico, que se opongan al presente Reglamento.
