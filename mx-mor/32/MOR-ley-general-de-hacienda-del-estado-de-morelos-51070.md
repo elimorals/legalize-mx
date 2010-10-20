@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2010-06-16"
+last_updated: "2010-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -429,7 +429,9 @@ entrada y los gastos se eroguen por los
 
 organizadores o por los asistentes;
 
-II.- Otros espectáculos y variedades no 12%
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2010)</small>
+
+II. Otros espectáculos y variedades no 8%
 
 especificados, sobre el ingreso percibido
 
@@ -455,9 +457,11 @@ La autoridad fiscal estatal estará facultada para determinar presuntivamente el
 
 EXENCIONES
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 36.
 
-Estarán exentos del pago de este impuesto los espectáculos que se realicen en restaurantes, centros nocturnos, cabaretes, discotecas, bares, salones de fiesta o baile, y que estén gravados por el Impuesto al Valor Agregado, siempre y cuando se acredite que se encuentren al corriente en el pago de dicha contribución federal; así como las actividades organizadas por los partidos políticos y las asociaciones de asistencia y beneficencia pública legalmente constituidas, condicionados a que la exención se refleje en sus informes de financiamiento, excluyendo de estos beneficios a las peleas de gallos.
+Estarán exentos, del pago de este impuesto los espectáculos que se realicen en restaurantes, centros nocturnos, cabarets, discotecas, bares, salones de fiesta o baile, cines, y que estén gravados por el Impuesto al Valor Agregado, siempre y cuando se acredite que se encuentren al corriente en el pago de dicha contribución federal; así como las actividades organizadas por los partidos políticos y las asociaciones de asistencia y beneficencia pública legalmente constituidas, condicionados a que la exención se refleje en sus informes de financiamiento, excluyendo de estos beneficios a las peleas de gallos.
 
 ### CAPÍTULO SEXTO
 
@@ -1073,6 +1077,8 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 ### CAPÍTULO SEXTO. SERVICIOS DE LA COMISIÓN ESTATAL DEL AGUA Y MEDIO AMBIENTE
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 76.
 
 Los servicios que se presten por el Registro Público de la Propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley.
@@ -1171,7 +1177,9 @@ XXIV. Por la inscripción de testimonios notariales que rectifiquen o aclaren el
 
 XXV. Por la inscripción, anotación, cancelación, expedición de documentos o informes de cualquier otro acto no especificado en este artículo, sobre el importe mayor del que resulte de la operación, el valor catastral, bancario o de factura: diez al millar; si el acto no es determinable en dinero, se cobrará: diez días de salario mínimo general vigente en el Estado;
 
-XXVI. Por la consulta de los libros del Registro Público de la Propiedad, dentro del horario autorizado y por consulta en internet: un día de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2010)</small>
+
+XXVI. Por cada una de las consultas de libros, folio real electrónico, y consultas en internet, que corresponda al total de anotaciones y registros de una sola propiedad, un día de salario mínimo general vigente en el Estado de Morelos;
 
 XXVII. Por concepto de certificación de documentos y firmas, distintos de los establecidos en el inciso g) de la fracción XIX del presente artículo, se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título;
 
@@ -1483,7 +1491,7 @@ Séptimo del presente Título.
 
 XIV. (DEROGADA, P.O. 16 DE JUNIO DE 2010)
 
-### CAPÍTULO DÉCIMO. DE LOS SERVICIOS DE EDUCACIÓN POR INSTITUCIONES PRIVADAS
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
 
 ### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
 
@@ -1831,37 +1839,31 @@ RELATIVOS A INMUEBLES
 
 ###### Artículo 85.
 
-El pago de derechos por la prestación de servicios ambientales que proporcione la Comisión Estatal de Agua y Medio Ambiente, se causarán en la siguiente forma:
+El pago de derechos por la prestación de servicios que proporcione la Comisión Estatal del Agua y Medio Ambiente, se causarán en la siguiente forma:
 
-Tarifa en días de salario
+EN MATERIA DE VERIFICACIÓN Tarifas en pesos o días de
 
-mínimo general vigente en
+VEHICULAR: salario mínimo vigente en el
 
-el Estado
+Estado, según corresponda
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+a) Por otorgamiento de autorización para establecer, 650 SMGV
 
-I. Por otorgamiento de autorización para establecer, 650
-
-equipar y operar un Centro de Verificación Vehicular
+equipar y operar un centro de verificación Vehicular
 
 en el Estado de Morelos, por cada equipo analizador
 
 de gases, con vigencia de cinco años;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-II. Por otorgamiento de revalidación de la autorización 40
+b) Por otorgamiento de revalidación de la autorización 40 SMGV
 
 anual para operar un Centro de Verificación Vehicular
 
-en el Estado de Morelos; por cada equipo analizador
+en el Estado de Morelos, por cada equipo analizador
 
 de gases;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-III. Por la renovación de la autorización para establecer 100
+c) Por la renovación de la autorización para establecer, 100 SMGV
 
 equipar y operar un Centro de Verificación Vehicular
 
@@ -1869,103 +1871,281 @@ en el Estado de Morelos, por cada equipo analizador
 
 de gases, con vigencia de cinco años;
 
-IV. Por la alta o la baja del registro de un técnico 5
+d) Por la alta o baja del registro de un técnico 5 SMGV
 
 verificador de Centro de Verificación Vehicular;
 
-V. Por evaluación y autorización de informe preventivo; 100
+e) Por el costo de la Verificación Vehicular Uno; $120.00
 
-VI. Por evaluación y autorización de manifestación de
+f) Por el costo de la Verificación Vehicular Cero; 5 SMGV
 
-impacto ambiental de obras o actividades, en las siguientes
+g) Por el costo de la Verificación Vehicular Doble 10 SMGV
 
-modalidades:
+Cero;
 
-A) General 150
+II (SIC). EN MATERIA DE IMPACTO AMBIENTAL:
 
-B) Intermedia 250
+a) Por evaluación y autorización de informe 100 SMGV
 
-C) Específica 350
+preventivo;
 
-VII. Por la calibración de equipo analizador de gases;
+b) Por evaluación y autorización de manifestación de
 
-VIII. Por asesoría para la recepción, clasificación y tratamiento
+impacto ambiental de obras o actividades en las
 
-de residuos sólidos;
+siguientes modalidades:
 
-IX. Por asesoría para la elaboración de compostas;
+1. General; 150 SMGV
 
-X. Por asesoría sobre proyectos de aprovechamientos forestales;
+2. Intermedia, y 250 SMGV
 
-XI. Por asesoría sobre aprovechamiento florístico y faunístico;
+3. Específica, y 350 SMGV
 
-XII. Asesorías sobre manejo, conservación y aprovechamiento
+c) Por la expedición de dictamen para no 2 SMGV
 
-de flora y fauna silvestre;
+sujetarse al procedimiento de evaluación
 
-XIII. Por asesoría en el suministro de dietas alimenticias para
+del impacto Ambiental;
 
-especies silvestres;
+III. EN MATERIA DE SANEAMIENTO DE
 
-XIV. Por asesoría en la identificación de especies
+CUENCAS:
 
-florísticas y faunísticas;
+a) Por la venta de composta (por metro cúbico), con 2 SMGV
 
-XV. Por asesoría en propagación, fertilización,
+excepción de la que realicen particulares sin fines
 
-control fitosanitario y comercialización;
+comerciales; y
 
-XVI. Asesoría en podas de árboles urbanos; formación,
+b) Por la recepción de lodos, residuos provenientes 1 SMGV
 
-rejuvenecimiento y saneamiento;
+de fosas sépticas y sanitarios portátiles (por metro
 
-XVII. Asesoría en construcción de invernaderos y viveros,
+cúbico);
 
-comerciales y de traspatio para producción de especies
+IV. EN MATERIA DE DIFUSIÓN Y CULTURA
 
-ornamentales, hortalizas, esquejes, etc.;
+AMBIENTAL:
 
-XVIII. Asistencia técnica integral a parques y jardines;
+a) Por la venta de material didáctico (ejemplar) y 1 SMGV
 
-XIX. Asistencia técnica para proyectos productivos
+videos (pieza), y
 
-de árboles de navidad;
+b) Por la recepción de pilas para su disposición final EXENTO
 
-XX. Asistencia técnica para producción de plantas
+por kilo;
 
-en sistema copperblock;
+V. EN MATERIA DEL PARQUE ECOLÓGICO
 
-XXI. Asistencia técnica en control de plagas
+CHAPULTEPEC Y CENTRO ESTATAL DE CAMBIO
 
-y enfermedades de especies forestales;
+CLIMÁTICO Y EDUCACIÓN AMBIENTAL LOCALIZADO
 
-XXII. Asistencia de derrames de sustancias químicas;
+EN EL PARQUE SAN MIGUEL ACAPANTZINGO:
 
-XXIII. Asesoría para la atención y recuperación
+1.- ADMISIÓN GENERAL AL PARQUE ECOLÓGICO
 
-de superficies forestales desmontadas y
+CHAPULTEPEC:
 
-ecosistemas afectados;
+a) Niños menores a 1.50 metros de estatura $10.00
 
-XXIV. Servicios de maquinaria y personal
+b) Niños mayores a 1.50 metros de estatura $10.00
 
-en el combate de incendios; y (sic)
+c) Adultos $10.00
 
-XXV. Venta de material didáctico y videos
+d) Adultos Mayores y Discapacitados EXENTO
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+e) Estudiantes $10.00
 
-XXVI. Por la autorización para la realización de
+f) Maestros $10.00
 
-combustible a cielo abierto, y
+2.- ATRACCIONES CONCESIONADAS DEL PARQUE
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+ECOLÓGICO CHAPULTEPEC:
 
-XXVII. Por la expedición de dictamen para no
+a) Herpetario $10.00
 
-sujetarse al procedimiento de evaluación de
+b) Guacamayas $10.00
 
-impacto ambiental.
+c) Granjita Paraíso $10.00
+
+d) Eco lanchas $10.00
+
+3.- ATRACCIONES PROPIAS DEL PARQUE
+
+ECOLÓGICO CHAPULTEPEC:
+
+a) Tren $10.00
+
+b) Cabaña $10.00
+
+c) Planet rio (sic) $10.00
+
+d) Casa del terror $15.00
+
+e) Eurobongie $30.00
+
+4.- PAQUETES DEL PARQUE ECOLÓGICO
+
+CHAPULTEPEC:
+
+a) Paquete 1 preprimaria y kínder admisión general $30.00
+
+y 3 atracciones
+
+b) Paquete 2 primaria admisión general y 3 atracciones $37.00
+
+c) Paquete 3 primaria completo admisión general $50.00
+
+y 4 atracciones
+
+d) Paquete 4 secundaria y preparatoria admisión $45.00
+
+general y 5 atracciones
+
+e) Paquete 5 secundaria y preparatoria completo $58.00
+
+admisión general y 5 atracciones, incluye casa del
+
+terror
+
+f) Paquete cumpleaños 20 admisiones generales, $2,700.00
+
+2 atracciones, 1 comida
+
+5.- OTROS SERVICIOS DEL PARQUE ECOLÓGICO
+
+CHAPULTEPEC:
+
+Acceso a trotapista de 6:00 a 9:00 horas (corredores) $2.00
+
+Acceso a trotapista de 6:00 a 9:00 horas paquete $50.00
+
+30 días (corredores)
+
+Venta de alimento para animales $2.00
+
+Renta de local comercial 20 metros cuadrados $1,500.00
+
+(mensual)
+
+Renta de local comercial 40 metros cuadrados $3,000.00
+
+(mensual)
+
+Renta de puesto semifijo (por día) $200.00
+
+Ambulantes (por día) $50.00
+
+Exposiciones semifijas (por día) $150.00
+
+6.- ADMISIÓN GENERAL AL CENTRO ESTATAL DE
+
+CAMBIO CLIMÁTICO Y EDUCACIÓN AMBIENTAL
+
+LOCALIZADO EN EL PARQUE SAN MIGUEL
+
+ACAPANTZINGO:
+
+a) Niños menores a 1.50 metros de estatura $10.00
+
+b) Niños mayores a 1.50 metros de estatura $10.00
+
+c) Adultos $10.00
+
+d) Adultos Mayores y Discapacitados EXENTO
+
+e) Estudiantes $10.00
+
+Maestros $10.00
+
+VIII (SIC). EN MATERIA DE PLANEACIÓN Y
+
+PROTECCIÓN AMBIENTAL:
+
+a) Autorización de transporte desde o hacia la entidad 8.1 SMGV
+
+de residuos sólidos urbanos y de manejo especial;
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+b) Autorización de transporte de residuos de manejo 8.1 SMGV
+
+especial;
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+c) Autorización de transferencia de residuos sólidos 11.3 SMGV
+
+urbanos y de manejo especial;
+
+d) Autorización de almacenamiento temporal y centros 11.3 SMGV
+
+de acopio de residuos sólidos urbanos y de manejo
+
+especial;
+
+e) Autorización de instalación de un Centro de 11.3 SMGV
+
+Composteo;
+
+f) Autorización de procesamiento de lodos activados 15.4 SMGV
+
+que no sean considerados como peligrosos,
+
+provenientes de plantas de tratamiento de aguas
+
+residuales;
+
+g) Autorización de tratamientos térmicos, químicos, 15.4 SMGV
+
+físicos o biológicos;
+
+h) Autorización de disposición final; 15.4 SMGV
+
+i) Autorización de remediación de suelos y sitios 15.4 SMGV
+
+contaminados por residuos, y
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+j) Registro de plan de manejo de residuos de manejo 13.1 SMGV
+
+especial;
+
+12 (SIC) EN MATERIA DE AGUA Y SANEAMIENTO:
+
+a) Maniobra de extracción de equipo de bombeo, 32 SMGV
+
+pozo profundo con grúa a una distancia de 50 KM.
+
+de Cuernavaca;
+
+b) Maniobra de instalación de equipo de bombeo 32 SMGV
+
+de pozo profundo, con grúa a una distancia de
+
+50 KM. de Cuernavaca;
+
+c) Traslado de maquinaria pesada (grúa) en Km. 0.3 SMGV
+
+subsecuentes;
+
+d) Colocación o desinstalación de dosificador de 5.0 SMGV
+
+cloro;
+
+e) Aforo con equipo digital en líneas o redes de 15 SMGV
+
+agua;
+
+f) Detección de fuga de agua con equipo digital en 17 SMGV
+
+líneas o redes, y
+
+g) Revisión electromecánica de sistemas de agua. 7.5 SMGV
+
+No causarán el Impuesto Adicional, los derechos por los servicios a que se refieren los incisos e), f) y g), de la fracción I, los incisos a) y b) de la fracción III, incisos a) y b) de la fracción IV y todos los incisos de la fracción V.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2138,6 +2318,8 @@ VIII. Por el estudio de procedencia de
 la autorización: $300.00
 
 IX. Otros servicios: $2,000.00
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
 
@@ -2334,6 +2516,32 @@ XV. Otros servicios: $20.00
 Por concepto de certificación de documentos y firmas se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título.
 
 Cuando los trabajos anteriores deban realizarse fuera de la población donde radique la autoridad que los proporciona, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que determine el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 99 Bis.
+
+Los servicios prestados por la Coordinación Estatal del Subsistema de Preparatoria Abierta, se causarán conforme a lo siguiente:
+
+I. PARA ESTUDIANTES:
+
+CONCEPTO
+
+Inscripción $100.00
+
+Constancia $25.00
+
+II. PARA CENTROS DE ASESORÍA:
+
+CONCEPTO
+
+Apertura $1,000.00
+
+Anualidad $1,000.00
+
+Credenciales para el $50.00
+
+personal administrativo
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -2721,6 +2929,12 @@ Los ingresos recaudados por los derechos a que se refiere el párrafo anterior s
 
 Por el servicio de vigilancia, inspección y control que las Leyes de la materia encomiendan a la Secretaría de la Contraloría del Estado, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente del 5.0 al millar sobre el importe de cada una de las estimaciones de trabajo; así mismo los proveedores con quienes se celebren contratos de prestación de servicios pagarán un derecho del 2.0 al millar sobre el importe total del contrato adjudicado.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 108 Bis.
+
+Por la expedición de constancias de no inhabilitación, se causarán 0.5 días de salario mínimo general vigente en el Estado.
+
 ###### Artículo 109.
 
 Los derechos por servicios de legalización de firmas, certificaciones y expedición de copias y documentos por funcionarios y empleados del Gobierno del Estado, se causarán conforme a las siguientes bases y tarifas por hoja
@@ -2739,11 +2953,15 @@ III. Apostilla: 2
 
 IV. Apostilla de documentos notariales: 3
 
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2010)</small>
+
 V. Por los servicios que preste la Procuraduría
 
 General de Justicia del Estado, tratándose de
 
-la Constancia de no antecedentes penales: 1
+la Constancia de no antecedentes penales o
+
+no penales: 1
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2007)</small>
 
@@ -3190,3 +3408,9 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO.- Los actuales procedimientos de divorcio administrativo que se estén realizando ante la Dirección del Registro Civil del Estado de Morelos deberán concluirse ante la misma.
+
+P.O. 20 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos para los efectos constitucionales respectivos.
