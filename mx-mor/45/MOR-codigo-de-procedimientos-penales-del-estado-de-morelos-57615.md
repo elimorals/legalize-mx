@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-procedimientos-penales-del-estado-de-morelos-57615"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-22"
-last_updated: "2009-08-24"
+last_updated: "2010-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el jueves 22 de noviembre de 2007.
 
@@ -1411,7 +1411,15 @@ XIX. Solicitar las medidas cautelares y providencias necesarias para la protecci
 
 XX. Solicitar la reparación del daño en los términos previstos por este Código;
 
-XXI. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, secuestro o delincuencia organizada y, en otros casos, cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2010)</small>
+
+XXI. Al resguardo de su identidad y otros datos personales, así como a no ser confrontado de manera directa con su agresor, con el fin de evitar su revictimización, salvaguardando su integridad física y psicológica, mediante la utilización de la Cámara de Gessell, en los siguientes casos:
+
+Cuando sean menores de edad;
+
+Cuando se trate de delitos contra la libertad y el normal desarrollo psicosexual, y los delitos de secuestro y delincuencia organizada;
+
+En otros casos, cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa;
 
 XXII. Ser informado de las resoluciones que finalicen o suspendan el procedimiento, siempre que lo haya solicitado y tenga señalado domicilio conocido;
 
@@ -4145,17 +4153,41 @@ IV. Los que por enfermedad grave u otro impedimento calificado por el tribunal, 
 
 V. Con todo, si las personas enumeradas en las fracciones anteriores renunciaren a su derecho a no comparecer, deberán prestar declaración conforme a las reglas generales.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 343.
 
 Testimonios especiales.
 
-Cuando deba recibirse testimonio de menores de edad, víctimas de los delitos de violación o secuestro, sin perjuicio de la fase en que se encuentre el proceso, el juzgador podrá ordenar su recepción en sesión privada y con el auxilio de familiares o peritos especializados. Para estas diligencias deberán utilizarse las técnicas audiovisuales adecuadas.
+Cuando deba recibirse testimonio de menores de edad, o de víctimas de los delitos contra la libertad y el normal desarrollo psicosexual, o de los delitos de secuestro, delincuencia organizada o violencia intrafamiliar, sin perjuicio de la fase en que se encuentre el proceso, el juzgador ordenará su recepción mediante la cámara de Gessell, en sesión privada con el auxilio de familiares y/o peritos especializados. Para estas diligencias deberán utilizarse las técnicas audiovisuales adecuadas, evitando en todo momento su revictimización.
 
 La misma regla podrá aplicarse cuando algún menor de edad deba declarar por cualquier motivo.
 
 Las personas que no puedan concurrir al tribunal, por estar físicamente impedidas, serán examinadas en el lugar donde se encuentren y su testimonio será trasmitido por sistemas de reproducción a distancia. De no ser posible, el testimonio se grabará por cualquier medio y se reproducirá en el momento oportuno en el tribunal.
 
 Estos procedimientos especiales deberán llevarse a cabo sin afectar el derecho a la confrontación y a la defensa.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 343 Bis.
+
+El procedimiento que se seguirá tratándose de los casos previstos en el artículo anterior, se llevará a cabo de la siguiente manera:
+
+Sólo serán entrevistados por un psicólogo del Poder Judicial del Estado, pudiendo ser acompañado por otro especialista cuando el caso particular lo requiera, ambos designados por el órgano que ordene la medida, procurando la continuidad del mismo profesional durante todo el proceso, no pudiendo en ningún caso ser interrogados en forma directa por dicho órgano o las partes.
+
+El órgano interviniente evitará y desechará las preguntas referidas a la historia sexual de la víctima o testigo o las relacionadas con asuntos posteriores al hecho.
+
+El procedimiento se llevará a cabo en la Cámara de Gessell, acondicionados con los implementos adecuados según se trate la edad y condiciones de la victima u ofendido.
+
+El órgano interviniente podrá requerir al profesional actuante, la elaboración de un informe detallado, circunscripto a todos los hechos acontecidos en el acto procesal.
+
+A solicitud de parte o si el órgano interviniente lo dispusiera de oficio, el procedimiento podrá ser seguido desde el exterior del recinto a través de vidrio espejado, micrófono, equipo de video o cualquier otro medio técnico con que se cuente, o en su defecto, mediante cualquier otra modalidad que preserve a quien se encuentre en la cámara de Gessell, evitando la exposición a situaciones revictimizantes, sin perjuicio del derecho de defensa.
+
+En tal caso, previo a la iniciación del procedimiento, el órgano interviniente hará saber al profesional a cargo de la entrevista, las inquietudes propuestas por las partes, así como las que surgieren durante el transcurso del acto, las que serán canalizadas teniendo en cuenta las características del hecho y el estado emocional de la victima, ofendido o testigo
+
+Cuando se trate de reconocimiento de lugares y/o cosas, la victima, ofendido o testigo será acompañado por el profesional que designe el órgano interviniente, no pudiendo en ningún caso estar presente el imputado, quien a todos los efectos será representado por el defensor, debiendo con posterioridad, imponérsele y posibilitarle el acceso al informe, acta, constancias documentales o respaldos fílmicos del acto.
+
+Cuando se trate de menores que a la fecha de ser requerida su comparecencia hayan cumplido los dieciséis años de edad y no hubieren cumplido los dieciocho años, el órgano interviniente, previo al acto o a la recepción del testimonio, requerirá informe al especialista acerca de la existencia de riesgos para la salud psicofísica del menor respecto de su comparecencia en juicio. En caso afirmativo, se procederá de acuerdo a lo dispuesto en los incisos anteriores.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2009)</small>
 
@@ -5282,3 +5314,29 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las normas y lineamientos que por acuerdo el (sic) Procurador General de Justicia del Estado de Morelos se deban emitir en razón de este Decreto, deberán ser expedidos en un plazo de 90 días naturales contados a partir de la vigencia del mismo.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 20 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal Superior de Justicia del Estado, deberá prever en su presupuesto de egresos del año 2011, la instalación e implementación paulatina de las Cámaras de Gessell en los juzgados orales, así como la contratación de los profesionistas que se requieran, conforme a las necesidades de los propios juzgados orales.
+
+###### ARTÍCULO TERCERO.
+
+Se faculta al Ejecutivo del Estado, a realizar las transferencias presupuestales necesarias, a efecto de que en un plazo máximo de 60 días hábiles, el Tribunal Superior de Justicia del Estado, disponga por lo menos de una Cámara de Gessell en los juzgados orales, para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Tribunal Superior de Justicia del Estado tendrá quince días hábiles, a partir de la instalación de la Cámara de Gessell, para publicar el Reglamento que regule el uso de dicha Cámara, el cual deberá considerar primordialmente el interés superior de la victima y evitar en todo momento la revictimización.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+Remítase para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
