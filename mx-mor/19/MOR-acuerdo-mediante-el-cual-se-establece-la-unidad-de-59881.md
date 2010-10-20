@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establece-la-unidad-de-59881"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-02-20"
-last_updated: "2009-04-22"
+last_updated: "2010-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2010.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, el miércoles 20 de febrero de 2008.
 
@@ -47,41 +47,23 @@ Por lo anteriormente expuesto y fundado tengo a bien expedir el siguiente:
 
 ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA SECRETARÍA DE LA CONTRALORÍA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2010)</small>
 
-PRIMERO. Se establece la Unidad de Información Pública de la Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado de Morelos, y se designa como responsable de la misma al Titular de la Dirección General de Asuntos Jurídicos y Situación Patrimonial, con domicilio en calle Francisco Leyva número 11, Colonia Centro de la Ciudad de Cuernavaca, Morelos, C.P. 62000, con un horario de atención de las 8:00 a las 17:00 horas y con número telefónico 777 329 22 00 extensiones 1918 y 1937.
+PRIMERO. Se establece la Unidad de Información Pública de la Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado de Morelos, designándose como responsable de la misma al titular de la Dirección General de Asuntos Jurídicos y Situación Patrimonial, con domicilio en calle Francisco Leyva número 11, Colonia Centro de la Ciudad de Cuernavaca, Morelos, C.P. 62000, con un horario de atención de las 8:00 a las 17:00 horas y con número telefónico 777 329 22 00 extensiones 1918 y 1938.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2010)</small>
 
 SEGUNDO. Se crea el Consejo de Información Clasificada de la Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado de Morelos, el cual estará integrado por los siguientes miembros:
 
-I. El titular de la Secretaría de la Contraloría, como Presidente, quien será suplido en su ausencia por el Director General de Asuntos Jurídicos y Situación Patrimonial;
+I. El titular de la Secretaría de la Contraloría como Presidente;
 
-II. El titular de la Dirección General de Coordinación y Desarrollo Administrativo de la Secretaría de la Contraloría, como Coordinador;
+II. El titular de la Dirección General de Coordinación y Desarrollo Administrativo como Coordinador;
 
-III. El titular de la Dirección General de Asuntos Jurídicos y Situación Patrimonial como Secretario Técnico;
+III. El titular de la Dirección de Transparencia como Secretario Técnico;
 
-IV. El titular de la Dirección General de Auditoria;
+IV. El titular de la Dirección General de Asuntos Jurídicos y Situación Patrimonial como titular de la Unidad de Información Pública, y
 
-V. El titular de la Dirección General de Programas y Contraloría Social;
-
-VI. El titular de la Dirección General de Responsabilidades y Sanciones Administrativas;
-
-VII. El Contralor Interno de Política Gubernamental;
-
-VIII. El Contralor Interno de Desarrollo Económico Sustentable;
-
-IX. El Contralor Interno de Seguridad y Procuración de Justicia;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2009)</small>
-
-X. Contralor Interno de Infraestructura y Asistencia;
-
-XI. El Contralor Interno de Desarrollo y Modernización de la Administración Pública; y (sic)
-
-> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2009)</small>
-
-XII. Contralor Interno del Trabajo y Desarrollo Humano, y
-
-XIII. El Contralor Interno de la Secretaría de la Contraloría.
+V. El titular de la Contraloría Interna de la Secretaría de la Contraloría como Órgano Interno de Control.
 
 ## TRANSITORIOS
 
@@ -100,3 +82,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS MTRO. MARCO 
 P.O. 22 DE ABRIL DE 2009.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 20 DE OCTUBRE DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente acuerdo.
