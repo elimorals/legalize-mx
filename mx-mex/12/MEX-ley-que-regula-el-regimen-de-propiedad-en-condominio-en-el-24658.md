@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-regimen-de-propiedad-en-condominio-en-el-2465
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-11"
-last_updated: "2003-09-04"
+last_updated: "2010-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 4 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 21 DE OCTUBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno, el 11 de abril de 2002.
 
@@ -43,9 +43,11 @@ CONDOMINIO EN EL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 1.
 
-La presente ley es de interés público y tiene por objeto establecer las bases para regular la constitución, organización, funcionamiento, modificación, administración y extinción del régimen de propiedad en condominio, así como su convivencia social y solución de controversias entre condóminos y residentes.
+La presente Ley es de interés público y tiene por objeto establecer las bases para regular la constitución, organización, funcionamiento, modificación, administración y extinción del régimen de propiedad en condominio, así como su convivencia social y solución de controversias entre condóminos y residentes, y entre éstos y su administrador o Comité de Administración.
 
 ###### Artículo 2.
 
@@ -55,7 +57,7 @@ I. Ley: la Ley que Regula el Régimen de Propiedad en Condominio en el Estado de
 
 II. Escritura constitutiva: documento público, mediante el cual se constituye un inmueble bajo el régimen de propiedad condominal;
 
-III. Reglamento General de Condominio: ordenamiento municipal de las edificaciones sujetas al régimen de condominio, que regula la administración, los derechos y las obligaciones de los condóminos, expedido por los ayuntamientos;
+III. (DEROGADA, G.G. 21 DE OCTUBRE DE 2010)
 
 IV. Condominio: inmueble cuya propiedad pertenece proindiviso a varias personas, que reúne las condiciones y características establecidas en el Código Administrativo del Estado de México y su reglamentación;
 
@@ -71,17 +73,19 @@ IX. Residente: persona que en calidad de poseedor por cualquier título legal, a
 
 X. Reglamento Interior del Condominio: conjunto de acuerdos de observancia obligatoria por los condóminos y residentes, en los que se establecen las normas internas de convivencia de un condominio. Es aprobado por la asamblea y se hará constar en testimonio notarial.
 
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 3.
 
-Son autoridades competentes para la aplicación de la presente Ley, la Secretaría de Desarrollo Urbano y Vivienda del Gobierno del Estado, los ayuntamientos, el Poder Judicial del Estado de México y las demás que señale el presente ordenamiento.
+Son autoridades competentes para la aplicación de la presente Ley, los ayuntamientos, el Poder Judicial del Estado de México y las demás que señale el presente ordenamiento.
 
 ### CAPITULO SEGUNDO. DEL REGIMEN DE PROPIEDAD EN CONDOMINIO
 
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 4.
 
-Se considera régimen de propiedad en condominio, aquel en el que los pisos, departamentos, viviendas, locales, áreas o naves que se construyan o constituyan en un inmueble en forma horizontal, vertical o mixta, sean susceptibles de aprovechamiento independiente por pertenecer a distintos propietarios y que además, tengan salida propia a un elemento común sobre el cual tengan derecho exclusivo de propiedad, o frente a una vía pública.
+Se considera régimen de propiedad en condominio, aquel que se constituye sobre bienes inmuebles que en razón de sus características físicas, permite a sus titulares tanto el aprovechamiento exclusivo de áreas o construcciones privativas, como el aprovechamiento común de las áreas o construcción que no admiten división, confiriendo a cada condómino un derecho de propiedad exclusivo sobre la unidad privativa, así como un derecho de copropiedad con los demás condóminos, respecto de las áreas o instalaciones comunes.
 
 ###### Artículo 5.
 
@@ -91,7 +95,9 @@ I. Cuando los diferentes pisos, departamentos, viviendas, locales, áreas o nave
 
 II. Cuando los diferentes pisos departamentos, viviendas, locales, áreas o naves que se construyan dentro de un inmueble, y que cuente éste con elementos comunes e indivisibles, cuya propiedad privada se reserve en los términos del artículo anterior, se destinen a la enajenación de personas distintas;
 
-III. Cuando el propietario o propietarios de un inmueble lo dividan en diferentes pisos, departamentos, viviendas, locales, áreas o naves, para enajenarlos a distintas personas, siempre que exista un elemento común de propiedad privada indivisible;
+> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2010)</small>
+
+III. Cuando el propietario o propietarios de un inmueble lo dividan en diferentes pisos, departamentos, viviendas, locales, áreas o naves, y que entre otros le de un uso habitacional, de abasto, comercio o servicios, industrial o agroindustrial o mixtos, para enajenarlos a distintas personas, siempre que exista un elemento común de propiedad privada indivisible;
 
 IV. Por disposición testamentaria, siempre que se ajuste a las normas de desarrollo urbano aplicables;
 
@@ -155,9 +161,11 @@ Al apéndice de la escritura, se agregarán debidamente certificados por fedatar
 
 La escritura constitutiva del régimen de propiedad en condominio de inmuebles, así como los contratos de traslación de dominio y demás actos que afecten la propiedad o el dominio de estos inmuebles, además de cumplir con los requisitos y presupuestos de esta Ley, deberán inscribirse en el Registro Público de la Propiedad y ante el organismo correspondiente, según el caso.
 
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 11.
 
-En todo contrato de adquisición de los derechos sobre un piso, departamento, vivienda, local, área o nave, sujeto al régimen de propiedad en condominio, se insertarán las declaraciones y cláusulas conducentes de la escritura constitutiva que prevé el artículo 9 de esta Ley, y se hará constar que se entrega al interesado una copia del Reglamento General de Condominio.
+En todo contrato de adquisición de derechos sobre un piso, departamento, vivienda, local, área o nave, sujeto al régimen de propiedad en condominio, se insertarán las declaraciones y cláusulas conducentes de la escritura constitutiva que prevé el artículo 9 de esta Ley, y se hará constar que se entrega al interesado una copia del Reglamento Interior del Condominio.
 
 ###### Artículo 12.
 
@@ -167,11 +175,13 @@ Para la modificación se observará el mismo procedimiento que para su constituc
 
 ### CAPITULO TERCERO. DE LOS BIENES DE PROPIEDAD EXCLUSIVA Y DE LOS BIENES DE PROPIEDAD COMÚN
 
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-En el régimen de propiedad en condominio, cada titular disfrutará de sus derechos en calidad de copropietario, en los términos previstos en la Legislación Civil del Estado de México.
+En el régimen de propiedad en condominio, cada titular disfrutará de sus derechos en calidad de propietario, en los términos previstos en la Legislación Civil del Estado de México.
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 El derecho de copropiedad sobre los elementos comunes del inmueble es accesorio e indivisible del derecho de propiedad privativo sobre la unidad de propiedad exclusiva, por lo que no podrá ser enajenable, gravable o embargable separadamente de la misma Unidad.
 
@@ -205,7 +215,9 @@ V. Solicitar a la administración y a la mesa directiva información respecto al
 
 VI. Acudir ante las mesas de arbitraje a efecto de excusarse del pago de cuotas, cuando éstas no sean fijadas en asamblea por mayoría de los condóminos o se demuestre que resultan excesivas para el fin que se pretenden destinar;
 
-VII. Acudir a las mesas de arbitraje a solicitar su intervención por violaciones a la presente ley, el Reglamento General de Condominio o al Reglamento Interior del Condominio, por autoridades o particulares.
+> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2010)</small>
+
+VII. Acudir a las mesas de arbitraje a solicitar su intervención por violaciones a la presente Ley, o al Reglamento Interior del Condominio, por autoridades o particulares.
 
 ###### Artículo 17.
 
@@ -225,9 +237,11 @@ V. Cualesquiera otras partes o instalaciones de condominios que se resuelvan por
 
 Serán copropiedad, sólo de los condóminos colindantes, los entrepisos, muros y demás divisiones que separen entre sí las unidades de propiedad exclusiva.
 
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 19.
 
-La renuncia que haga un condómino respecto de los derechos de gozar o usar los bienes, servicios o instalaciones de uso común, no es causa excluyente para cumplir con las obligaciones que impone esta Ley, la escritura constitutiva, el Reglamento General de condominio y demás disposiciones legales aplicables.
+La renuncia que haga un condómino respecto de los derechos de gozar o usar los bienes, servicios o instalaciones de uso común, no es causa excluyente para cumplir con las obligaciones que impone esta Ley, la escritura constitutiva, el Reglamento Interior del Condominio y demás disposiciones legales aplicables.
 
 ###### Artículo 20.
 
@@ -315,15 +329,21 @@ II. Cada condómino gozará de un voto por unidad de propiedad exclusiva del tot
 
 III. La votación será personal, nominal y directa, sin perjuicio de que el reglamento interior del condominio determine otros procedimientos;
 
-IV. Las resoluciones de la asamblea se tomarán por mayoría simple, excepto en los casos en que la ley y el Reglamento interior del Condominio establezcan una mayoría especial;
+> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2010)</small>
+
+IV. Las resoluciones de la Asamblea, se tomarán por mayoría simple de los condóminos, cuando a ésta asistan el 50% más uno de los condóminos o de sus representantes, en términos de la presente ley, excepto en los casos en que la Ley y el Reglamento Interior del Condómino establezcan una mayoría especial;
 
 V. El secretario de la mesa directiva llevará un libro de actas, que deberá estar autorizado por el secretario del ayuntamiento. Las actas, por su parte, serán autorizadas por el contralor de la mesa directiva o quien haga sus veces;
 
 VI. La convocatoria deberá realizarse con diez días de anticipación para el caso de asambleas generales, y cinco para las asambleas extraordinarias, debiendo incluirse en ella el lugar, día y hora de celebración, así como el orden del día;
 
-VII. Para declarar válida una asamblea deberá contarse cuando menos con la asistencia de más del cincuenta por ciento de los condóminos, con excepción de las asambleas en las que se realice el nombramiento de administrador y mesas directivas, para las cuales el quórum se formará con la presencia de por lo menos las dos terceras partes de los condóminos con derecho a voz y voto.
+> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2010)</small>
 
-Las determinaciones y acuerdos tomados por la asamblea obligan a todos los condóminos, incluyendo a los ausentes.
+VII. Para declarar válida una Asamblea celebrada en primera convocatoria, deberá contarse cuando menos con la asistencia de más del cincuenta por ciento de los condóminos o sus representantes en términos de la presente ley, en caso de una segunda convocatoria se declarará válida con los asistentes.
+
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
+
+Las determinaciones y acuerdos tomados por la Asamblea obligan a todos los condóminos, incluyendo a los ausentes y disidentes.
 
 ###### Artículo 29.
 
@@ -337,7 +357,9 @@ III. Resolver sobre la clase y monto de la garantía que deba otorgar el adminis
 
 IV. Revisar y, en su caso, aprobar el estado de cuenta semestral que presente el administrador o el comité de administración;
 
-V. Discutir y, en su caso, aprobar el presupuesto de gastos de cada año, debiendo acordar la contratación de seguros contra incendios o terremotos, de conformidad con los artículos 938 y 940 del Código Civil vigente en el Estado, lo cual se efectuará con cargo al fondo de mantenimiento y administración;
+> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2010)</small>
+
+V. Discutir y en su caso, aprobar el presupuesto de gastos de cada año, debiendo acordar la contratación de seguros con empresas legalmente constituidas contra incendios o terremotos o cualquier otra contingencia de esta naturaleza, de conformidad con las disposiciones aplicables del Código Civil vigente en el Estado y de otros ordenamientos legales, lo cual se efectuará en cargo al fondo y de mantenimiento, y de administración;
 
 VI. Promover lo que proceda ante las autoridades competentes, cuando el administrador o comité de administración infrinja las disposiciones de esta Ley, del reglamento interior del condominio, la escritura constitutiva y cualesquiera disposiciones legales aplicables;
 
@@ -349,7 +371,19 @@ IX. Crear, aprobar, modificar y protocolizar el Reglamento Interior del Condomin
 
 X. Modificar la escritura constitutiva del condominio, en los casos y condiciones que prevean las disposiciones legales aplicables, siempre y cuando sea manifiesta la voluntad de todos los condóminos.
 
-Tratándose de unidades habitacionales de más de sesenta viviendas o locales, las facultades establecidas en las fracciones I, V Y VI, corresponderán a las asambleas por manzana o por lote.
+> <small>(ADICIONADA, G.G. 21 DE OCTUBRE DE 2010)</small>
+
+XI. Nombrar y remover un representante por manzana, lote, cerrada, privada, claustro o piso.
+
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
+
+Tratándose de unidades habitacionales de más de sesenta viviendas, las facultades establecidas en las fracciones I, V, VI y XI, corresponderán a las asambleas por manzana, lote, cerrada, privada, claustro o piso, sin perjuicio de las que indiquen el Reglamento Interior del Condominio.
+
+> <small>(ADICIONADO, G.G. 21 DE OCTUBRE DE 2010)</small>
+
+Artículo 29 bis.- Tratándose de las asambleas de unidades habitacionales de más de 60 viviendas, las manzanas, lotes, cerradas, privadas, claustros o pisos podrán ser representadas conforme a lo dispuesto por la fracción XI del artículo anterior y a lo que indique el Reglamento Interior del Condominio.
+
+En caso de asistir un representante por manzana, lote cerrada, privada, claustros o piso; éste deberá de presentar el acta de asamblea por el cual fue nombrado para tal efecto.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -449,7 +483,7 @@ I. La presente Ley;
 
 II. La escritura constitutiva del condominio;
 
-III. El Reglamento General de Condominio;
+III. (DEROGADA, G.G. 21 DE OCTUBRE DE 2010)
 
 IV. El contrato de compraventa o promesa de venta respectivo;
 
@@ -481,21 +515,7 @@ Las autoridades competentes del Gobierno del Estado y de los municipios, previa 
 
 ###### Artículo 43.
 
-Los Ayuntamientos, podrán emitir el Reglamento General de Condominio, mismo que cantará con las disposiciones siguientes:
-
-I. Descripción, uso y destino del condominio;
-
-II. Forma de convocar a asamblea de condóminos y persona que la preside;
-
-III. Prohibición sobre el almacenamiento de substancias tóxicas, explosivas o consideradas de alto riesgo;
-
-IV. Medidas provisionales en caso de ausencia temporal del administrador o comité de administración;
-
-V. Formas de extinción del condominio;
-
-VI. Especificaciones sobre el suministro de servicios públicos municipales;
-
-VII. Las causas y condiciones bajo las cuales procederá la remoción del administrador o consejo de administración del condominio.
+(DEROGADO, G.G. 21 DE OCTUBRE DE 2010)
 
 ###### Artículo 44.
 
@@ -515,23 +535,23 @@ El Síndico Municipal, será competente para desahogar los procedimientos arbitr
 
 ## TITULO PRIMERO. DE LAS SANCIONES
 
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 47.
 
-Los condóminos que incumplan con las obligaciones que les son impuestas por la presente Ley, el Reglamento General del Condominio o el acta constitutiva del condominio, podrán ser sancionados con:
+Los condóminos o residentes que incumplan con las obligaciones que les son impuestas por la presente Ley, el Reglamento Interior del Condominio o el acta constitutiva del condominio, podrán ser multados con salarios mínimos vigentes en la zona económica donde se encuentre el condominio con:
 
-I. Multa de hasta 100 días de salario mínimo general vigente en el área geográfica que corresponda y cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común que se hubiesen dañado por un mal uso o negligencia;
+I. De uno a diez días, así como a cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común cuando se hubiesen dañado por un mal uso o negligencia;
 
-II. Multa de 10 a 150 días de salario mínimo general vigente en el área geográfica que corresponda, el pago de intereses moratorios en los términos que establezca el Reglamento Interior del Condominio y la restricción del derecho de voto en las asambleas, por no cumplir en el plazo establecido con las cuotas fijadas por la asamblea relativa a los fondos de mantenimiento y administración y de reserva;
+II. De 10 a 20 días, más el pago de intereses moratorios en los términos que establezca el Reglamento Interior del Condominio y la restricción del derecho de voto en las asambleas, cuando no cumplan en el plazo establecido con las cuotas fijadas por la asamblea relativa a los fondos de mantenimiento y administración y de reserva;
 
-III. Multa de 15 a 100 días de salario mínimo general vigente en el área geográfica que corresponda a los condóminos o residentes que incumplan con las obligaciones señaladas en las fracciones II y III del artículo 20;
+III. De 15 a 30 días cuando incumplan con las obligaciones señaladas en las fracciones II y III del artículo 20;
 
-IV. Las multas aplicables por la inobservancia de lo establecido en las fracciones V, VIII, IX y X del artículo 20 de esta Ley, serán de 20 a 40 días de salario mínimo general vigente en el área geográfica que corresponda;
+IV. De 20 a 30 días por la inobservancia de lo establecido en las fracciones V, VIII, IX y X del artículo 20 de esta Ley;
 
-V. Multa de 20 a 100 días de salario mínimo general vigente en el área geográfica que corresponda, independientemente de la demolición de las obras realizadas en contravención de lo dispuesto en los artículos 20 fracción IV y 24 de la presente Ley;
+V. De 20 a 40 días, independientemente de la demolición de las obras realizadas, cuando contravengan lo dispuesto en los artículos 20 fracción IV y 24 de la presente Ley; y
 
-VI. Multa de 50 a 200 días de salario mínimo general vigente en el área geográfica que corresponda al condómino que transgreda lo estipulado en las fracciones I, VI y VII del artículo 20.
+VI. De 50 a 150 días, cuando se transgreda lo estipulado en las fracciones I, VI y VII del artículo 20 de la presente ley.
 
 > <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -561,9 +581,11 @@ El procedimiento de arbitraje se substanciará ante el Síndico Municipal, el cu
 
 El arbitraje tendrá como característica ser un procedimiento para la resolución de controversias que buscará proporcionar a las partes la mayor equidad posible y se regirá por los principios de legalidad, sencillez, celeridad, oficiosidad, eficacia, publicidad, gratuidad y buena fe, e iniciará siempre a petición de parte.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 53.
 
-Podrán iniciar el procedimiento de arbitraje los administradores en los casos señalados en la presente ley, así como las mesas directivas, previo acuerdo de la Asamblea, en los casos de incumplimiento de los administradores y por el manejo indebido de los recursos que integran los fondos de mantenimiento y administración y de reserva.
+Podrán iniciar el procedimiento de arbitraje los condóminos o residentes de los condominios o los administradores en términos de la presente ley, así como las mesas directivas, previo acuerdo de la Asamblea, en los casos de incumplimiento de los administradores y por el manejo indebido de los recursos que integran los fondos de mantenimiento y administración y de reserva.
 
 Para iniciar el procedimiento arbitral ya sea el administrador, la mesa directiva o cualquier persona, deberán presentar ante las mesas arbitrales de la demarcación territorial en que se ubique el condominio, un escrito, que será denominado demanda de arbitraje, en el que explique las causas de controversia, mismo que deberá ir acompañado de copia del acta de asamblea en la que se toma tal acuerdo, copia simple de los documentos que acrediten su personalidad y la descripción de los hechos.
 
@@ -609,11 +631,11 @@ Terminada la instrucción del procedimiento, la mesa de arbitraje dictará el la
 
 El Síndico Municipal hasta antes de emitir sus laudos, podrá remitir a las partes al centro de mediación y conciliación del poder judicial del estado, previo el consentimiento de éstas que conste de manera fehaciente.
 
-> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 60.
 
-La mediación o conciliación tiene el carácter de voluntaria y suspende el procedimiento de arbitraje previsto en el título segundo de la presente ley hasta por sesenta días hábiles.
+La mediación o conciliación tienen el carácter de voluntaria y suspenden el procedimiento de arbitraje previsto en el título segundo de la presente Ley, hasta por sesenta días hábiles.
 
 > <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -664,3 +686,9 @@ PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los Ayuntamientos de los municipios del Estado, proveerán de acuerdo a sus atribuciones, lo conducente para la tramitación del procedimiento arbitral y la expedición del reglamento correspondiente en un plazo no mayor de un mes, a partir de la vigencia del presente decreto.
+
+G.G. 21 DE OCTUBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
