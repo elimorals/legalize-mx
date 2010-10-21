@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2010-06-30"
+last_updated: "2010-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -441,7 +441,7 @@ La pena de prisión produce la suspensión de los derechos políticos y los de t
 
 La publicación de la sentencia condenatoria consiste en la inserción total o parcial de ella en uno de los periódicos de mayor circulación en la localidad en que se cometió el delito.
 
-La publicación se hará a costa del delincuente. Si ésto no es posible y lo solicite el ofendido, se hará a costa de éste.
+La publicación se hará a costa del delincuente. Si esto no es posible y lo solicite el ofendido, se hará a costa de éste.
 
 ###### ARTICULO 42.
 
@@ -772,6 +772,12 @@ Si el delito solo mereciera multa, la acción penal prescribirá en un año.
 Si además de la pena de prisión el delito mereciere otra accesoria o una alternativa, se atenderá a la prescripción de la acción penal para perseguir la pena privativa de la libertad.
 
 En los demás casos, la acción penal prescribirá en dos años.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO 78
+
+Bis.- Cuando se trate de los delitos previstos en los Artículos 127, 129, 130, 130 Bis, 130 Ter, 176, 191, 192 Bis, 192 Ter, 192 Quáter, 193 y 194 de este Código, cometidos en contra de menores de edad, la acción penal será imprescriptible.
 
 ###### ARTICULO 79.
 
@@ -2613,7 +2619,7 @@ El órgano jurisdiccional, teniendo en cuenta la naturaleza del hecho, las carac
 
 ###### ARTICULO 235.
 
-Se impondrá prisión de uno a cuatro años y suspensión hasta de tres años para ejercer la abogacía, en su caso, y privación definitiva si reincidiere, a quien :
+Se impondrá prisión de uno a cuatro años y suspensión hasta de tres años para ejercer la abogacía, en su caso, y privación definitiva si reincidiere, a quien:
 
 I.- Abandone la defensa o negocio, sin motivo justificado;
 
@@ -3058,6 +3064,16 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- las personas que hayan cometido el delito de violación u homicidio con anterioridad a la entrada en vigor del presente Decreto, incluidas las sentenciadas o procesadas, les serán aplicadas las disposiciones vigentes al momento de su comisión.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE OCTUBRE DE 2010
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 T R A N S I T O R I O:
 
