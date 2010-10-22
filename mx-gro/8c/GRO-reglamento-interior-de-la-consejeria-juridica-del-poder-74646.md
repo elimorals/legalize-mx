@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-consejeria-juridica-del-poder-74646"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-04"
-last_updated: "2001-09-04"
+last_updated: "2010-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. 22 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 4 de septiembre de 2001.
 
@@ -558,3 +560,17 @@ El Contralor General del Estado.
 C. C.P. DANIEL PANO CRUZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+PRIMERO. El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Consejería Jurídica del Poder Ejecutivo del Estado, publicado con fecha 4 de septiembre de 2001 en el Periódico Oficial del Gobierno del Estado número 7.
+
+TERCERO. En tanto se expida el Manual de Organización y Manual de Procedimientos de la Consejería Jurídica del Poder Ejecutivo, el titular de la misma, queda facultado, para resolver las cuestiones, de procedimiento y operación que se originen por la aplicación del presente Reglamento.
+
+CUARTO. No obstante los cambios de adscripción de diversos servidores públicos dentro de la Consejería Jurídica del Poder Ejecutivo, así como los cambios de denominación de área de su adscripción o cambios de rango jerárquico de las, mismas e inclusive de la nueva distribución de competencias como producto de la reestructuración orgánica y funcional realizada a la Consejería Jurídica, quedan garantizados los derechos laborales de los trabajadores de la misma.
+
+QUINTO. Se derogan todas aquellas disposiciones que se opongan a este Reglamento.
