@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2010-09-07"
+last_updated: "2010-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2010.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -33,7 +33,7 @@ DECRETO NUMERO 96
 
 LA H. LII LEGISLATURA DEL ESTADO DE MEXICO
 
-D E C R E T A :
+D E C R E T A:
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
@@ -501,7 +501,7 @@ VII. Entregar las iniciativas y expedientes, a las comisiones o comités corresp
 
 VIII. Proporcionar a las comisiones o comités la información que obre en su poder, cuando lo soliciten;
 
-IX. Informar al final de cada sesión de las faltas de asistencia justificadas y sin justificar de los diputados;
+IX. Informar al final de cada sesión de las faltas de asistencia (sic) justificadas y sin justificar de los diputados;
 
 X. Firmar las resoluciones que expida la Legislatura, así como la correspondencia que lo requiera;
 
@@ -1065,11 +1065,11 @@ Los Secretarios Técnicos, podrán ser removidos por el presidente de la Comisi�
 
 En el caso de que los diputados no sean miembro (sic) de las comisiones o de los comités, podrán integrarse como asociados, con voz pero sin voto. Los diputados presidirán una sola comisión legislativa.
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 72.
 
-Las comisiones legislativas tendrán como funciones estudiar y analizar los proyectos de ley o decreto y los asuntos que les sean turnados con el objeto de elaborar los dictámenes o informes, debiendo dar cuenta de ellos al Presidente de la Legislatura en los plazos establecidos por la ley y el reglamento.
+Las comisiones legislativas tendrán como funciones estudiar y analizar las iniciativas de ley o decreto que les sean turnados de acuerdo a su ámbito de competencia, de acuerdo a lo dispuesto en el Reglamento del Poder Legislativo del Estado Libre y Soberano de México, además de los asuntos que en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política les encomienden, con el objeto de elaborar los dictámenes o informes correspondientes, debiendo dar cuenta de ello al Presidente de la Legislatura en los plazos establecidos por la ley y el reglamento.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1109,41 +1109,77 @@ Las comisiones jurisdiccionales serán las siguientes:
 
 Su integración, atribuciones y funcionamiento se regirán por lo previsto en la ley y en las disposiciones legales relativas.
 
+> <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 76.
 
 Son Comités Permanentes de la Legislatura, los siguientes:
 
-- Administración;
+I. Administración;
 
-- (DEROGADO TERCER PARRAFO, G.G. 9 DE ENERO DE 2004)
+II. Estudios Legislativos;
 
-- Estudios Legislativos;
+III. De Comunicación Social; y
 
-- (DEROGADO QUINTO PARRAFO, G.G. 23 DE OCTUBRE DE 2003)
+IV. Vigilancia de la Contraloría.
 
-- (DEROGADO, G.G. 30 DE DICIEMBRE DE 2005)
+La Asamblea podrá integrar los comités que considere necesarios con el carácter de permanentes o transitorios.
 
-- De Comunicación Social;
+Los comités permanentes se integrarán en forma similar a las comisiones legislativas y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados, conforme al ámbito de competencia señalada en los artículos 76 A, 76 B y 76 C; además de los asuntos que en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política les encomienden.
 
-> <small>(ADICIONADA, G.G. 13 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
-- Vigilancia de la Contraloría.
+Artículo 76 A.- Son atribuciones del Comité de Administración:
 
-La Asamblea podrá integrar otros comités que considere necesarios con el carácter de permanentes o transitorios.
+I. Vigilar que se ejerza el presupuesto de acuerdo a la programación y calendarización aprobadas;
 
-Los comités se integrarán en forma similar a las comisiones legislativas y sólo emitirán opiniones, proposiciones, informes y recomendaciones de los asuntos que les sean encomendados.
+II. Proponer a la Junta de Coordinación Política, criterios generales para la operación administrativa de las dependencias del Poder Legislativo, con la finalidad de optimizar los recursos y el desarrollo de la función legislativa, así como orientar la elaboración de:
 
-> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+a) El anteproyecto de presupuesto de egresos de la Legislatura; y
 
-Artículo 76 BIS.- Son atribuciones del Comité de Administración:
+b) El manual de organización y procedimientos administrativos de la Legislatura.
 
-I. Conocer y opinar sobre las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
+III. Recibir y analizar el informe trimestral sobre el ejercicio presupuestal que rinda el Secretario de Administración y Finanzas del Poder Legislativo;
 
-II. Vigilar que se ejerza el presupuesto de acuerdo a la programación y calendarización aprobadas.
+IV. Conocer de los informes de soporte técnico y de apoyo y en su caso, hacer las recomendaciones correspondientes para la mejora continua de los servicios administrativos;
 
-> <small>(ADICIONADO, G.G. 13 DE OCTUBRE DE 2008)</small>
+V. Rendir a La Junta de Coordinación Política, un informe anual de las actividades desarrolladas; y
 
-Artículo 76 TER.- Son atribuciones del Comité de Vigilancia de la Contraloría:
+VI. Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, G.G. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 76 B.- El Comité de Estudios Legislativos, tendrá en el área de su competencia, entre otras atribuciones, las siguientes:
+
+I. Realizar los estudios que versen sobre disposiciones normativas, regímenes y prácticas parlamentarias;
+
+II. Impulsar programas de profesionalización y actualización en derecho parlamentario y prácticas legislativas;
+
+III. Impulsar los programas del Instituto de Estudios Legislativos;
+
+IV. Coordinarse con instituciones académicas y de investigación para el apoyo de las tareas del Instituto;
+
+V. Proponer a la Comisión Editorial la inserción de trabajos y artículos que fomenten el estudio del derecho parlamentario; y
+
+VI. Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, G.G. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 76 C.- El Comité de Comunicación Social, tendrá en el área de su competencia, entre otras atribuciones las siguientes:
+
+I. Ser el responsable editor de una publicación trimestral de difusión de las actividades de la Legislatura y de temas relacionados con la función legislativa, así como de publicaciones en materia histórica, socio-política, cultural y de interés general para el Estado;
+
+II. Coadyuvar con la Secretaría Asuntos Parlamentarios en la vigilancia, mantenimiento, o conservación y actualización del acervo y colecciones bibliográficas de la Legislatura;
+
+III. Proporcionar las facilidades necesarias para la consulta del acervo hemerográfico;
+
+IV. Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política; y
+
+V. Las demás que se establezcan en otros ordenamientos.
+
+> <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 76 D.- Son atribuciones del Comité de Vigilancia de la Contraloría:
 
 l. Vigilar y evaluar los actos y procedimientos que en cumplimiento de sus atribuciones dicte o ejecute la Contraloría;
 
@@ -1159,7 +1195,7 @@ VI. Vigilar que el funcionamiento de la Contraloría y la actuación de sus serv
 
 VII. Supervisar que la Contraloría cumpla con las obligaciones en materia de transparencia y acceso a la información pública, así como guardar la debida reserva sobre las investigaciones y procedimientos administrativos que lleve a cabo, hasta que se pongan en estado de resolución ante la Junta de Coordinación Política; y
 
-VIII. Las demás que le confieran esta ley y su reglamento.
+VIII. Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 ###### Artículo 77.
 
@@ -1271,7 +1307,7 @@ Para el ejercicio de sus funciones, la Legislatura contará con las Dependencias
 
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
-I. Organo Superior de Fiscalización;
+I. Órgano Superior de Fiscalización;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DEL 2003)</small>
 
@@ -1770,3 +1806,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 22 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
