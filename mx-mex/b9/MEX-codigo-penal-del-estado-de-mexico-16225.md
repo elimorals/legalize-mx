@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2010-10-12"
+last_updated: "2010-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -127,11 +127,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el articulo 176 penúltimo párrafo; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en el artículo 205 primero y segundo párrafos, el de pornografía de menores e incapaces contenido en el artículo 206 párrafos quinto y sexto y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de secuestro, señalado por el artículo 259; el de privación de la libertad de infante, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274; el de robo contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V y XVI y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionado res, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en el artículo 205 primero y segundo párrafos, el de pornografía de menores e incapaces contenido en el artículo 206 párrafos quinto y sexto y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274; el de robo contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V y XVI y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -2313,7 +2313,9 @@ Si la entrega definitiva del menor se hace sin la finalidad de obtener un benefi
 
 Además de las sanciones señaladas, se privará de los derechos de la patria potestad, tutela o custodia, en su caso, a quienes teniendo el ejercicio de éstas, cometan el delito a que se refiere este artículo.
 
-### CAPITULO III. PRIVACION DE LA LIBERTAD DE INFANTE
+### CAPITULO III. PRIVACIÓN DE LA LIBERTAD DE MENORES DE EDAD
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 220.
 
@@ -2723,7 +2725,7 @@ IV. Cuando a juicio de dos médicos exista prueba suficiente para diagnosticar q
 
 A quien sabiendo que padece una enfermedad grave en período infectante, ponga en peligro de contagio a otro, por cualquier medio de transmisión, se le aplicará una pena de seis meses a dos años de prisión y de treinta a sesenta días multa.
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G.1 DE SEPTIEMBRE DE 2000)</small>
 
 En este delito sólo se procederá por querella del ofendido.
 
@@ -2857,11 +2859,13 @@ VI. Reciba cualquier pago con motivo de su intervención en el secuestro.
 
 VII. Actúe como asesor o intermediario de quienes representen o gestionen en favor de la víctima y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión de secuestro.
 
+> <small>(REFORMADA SU DENOMINACION, G.G. 22 DE OCTUBRE DE 2010)</small>
+
 ### CAPITULO UNICO
 
 ###### Artículo 262.
 
-A quien siendo un extraño a su familia se apodere de un menor de doce años de edad, se le impondrán de diez a cuarenta años de prisión y de quinientos a mil días multa.
+A quien siendo un extraño a su familia se apodere de un menor de dieciocho años de edad, se le impondrán de diez a cuarenta años de prisión y de quinientos a mil días multa.
 
 Cuando el delito lo cometa un familiar, que no sea el padre o la madre, y obre con mala fe y no por móviles afectivos, se le impondrán de dos a seis años de prisión y de treinta a ciento veinticinco días multa.
 
@@ -3968,3 +3972,9 @@ G.G. 12 DE OCTUBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 22 DE OCTUBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
