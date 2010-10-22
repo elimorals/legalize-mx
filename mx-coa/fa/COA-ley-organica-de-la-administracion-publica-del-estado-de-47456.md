@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-47456"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-12-07"
-last_updated: "2010-06-18"
+last_updated: "2010-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 7 de diciembre de 2005.
 
@@ -263,7 +263,9 @@ I. Secretaría de Gobierno;
 
 II. (DEROGADA, P.O. 19 DE JUNIO DE 2009)
 
-III. Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+III. Tesorería General del Estado;
 
 IV. Secretaría de Fomento Económico;
 
@@ -335,11 +337,9 @@ V. Cumplir y hacer cumplir las políticas, lineamientos, acuerdos, órdenes, cir
 
 VI. Fijar, dirigir y controlar las políticas de la dependencia a su cargo, así como programar, coordinar y evaluar, las actividades de las entidades del sector que le corresponda coordinar en los términos de la legislación aplicable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
-
-VII. Proponer el anteproyecto de Presupuesto de Egresos de la dependencia a su cargo, remitiéndolos a la Secretaría de Finanzas con la oportunidad que se le solicite.
+VII. Proponer el anteproyecto de Presupuesto de Egresos de la dependencia a su cargo, remitiéndolos a la Tesorería General del Estado con la oportunidad que se le solicite.
 
 En el caso de la Fiscalía General del Estado se observarán las disposiciones de la Constitución Política del Estado de Coahuila y la Ley Orgánica de la Fiscal la General del Estado;
 
@@ -539,171 +539,49 @@ XLIX. (DEROGADA, P.O. 19 DE JUNIO DE 2009)
 
 (DEROGADO, P.O. 19 DE JUNIO DE 2009)
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 26.
 
-A la Secretaría de Finanzas le corresponde el despacho de los siguientes asuntos:
+A la Tesorería General del Estado le corresponde el despacho de los siguientes asuntos:
 
-I. Solicitar, recibir e integrar las propuestas de inversión de las dependencias y entidades que integran la Administración Pública Estatal;
+I. Elaborar el proyecto de Ley de Ingresos y del Presupuesto de Egresos del Estado, en coordinación con las dependencias, entidades y la Fiscalía General del Estado y someterlo a la aprobación del titular del Ejecutivo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II. Recibir, coordinar y registrar, la entrega oportuna de los fondos descentralizados para inversión que la Federación participe al Estado y de los recursos estatales que se descentralicen a los municipios;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2009)</small>
+III. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado, informando al Ejecutivo periódicamente sobre el estado de las amortizaciones de capital y pago de intereses;
 
-II. Elaborar el proyecto de la Ley de Ingresos y del Presupuesto de Egresos del Estado, en coordinación con las dependencias y entidades y someterlo a la aprobación del Titular del Ejecutivo, sin perjuicio de lo establecido en la Ley Orgánica de la Fiscalía General del Estado;
+IV. Custodiar y concentrar los fondos y valores financieros del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+V. Administrar las erogaciones conforme al presupuesto de egresos y de la legislación respectiva; en consecuencia no podrá autorizar el pago de percepciones extraordinarias, remuneraciones o percepciones distintas a su ingreso establecido en el presupuesto de egresos, a los servidores públicos estatales que ocupen un cargo de elección popular;
 
-III. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+VI. Llevar la contabilidad de la Hacienda Pública Estatal formulando estados financieros mensuales y presentar anualmente al Gobernador del Estado, durante el mes de enero un informe pormenorizado del ejercicio fiscal anterior;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VII. Presentar al H. Congreso del Estado, previo acuerdo del titular del Poder Ejecutivo, la cuenta pública estatal, para efectos de su revisión, discusión y, en su caso, aprobación, conforme a lo dispuesto en la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza;
 
-IV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+VIII. Proporcionar al H. Congreso del Estado y a la Auditoría Superior del Estado, la información que se solicite con relación al funcionamiento de la dependencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+IX. Proponer al Ejecutivo las reformas tendientes a mejorar la política financiera;
 
-V. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+X. Integrar los estudios y proyectos jurídicos administrativos que optimicen la administración de las finanzas públicas del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XI. Revisar, y en su caso, autorizar las operaciones en que se haga uso del crédito público;
 
-VI. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+XII. Comparecer ante el H. Congreso del Estado a dar cuenta de la iniciativa de Ley de Ingresos y del proyecto del Presupuesto de Egresos que presente el titular del Ejecutivo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XIII. Exigir a todo servidor público que maneje caudales del Estado, que otorgue fianza suficiente en los términos que determine la ley o reglamentación respectiva;
 
-VII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+XIV. Dirigir y operar los sistemas de Administración y nómina del personal al servicio de la Administración Pública Estatal y, en su caso, auxiliar a las distintas entidades, organismos y Poderes en dichas labores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XV. Autorizar para efectos presupuestales, los cambios en la estructura de la Administración Pública Estatal;
 
-VIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+XVI. Tramitar los nombramientos y remociones, licencias, retiros, pensiones y jubilaciones de los servidores públicos de la Administración Pública Estatal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XVII. Establecer en coordinación con la Secretaría de la Función Pública, las normas de recepción y entrega de los bienes de las dependencias y entidades, y vigilar su cumplimiento;
 
-IX. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+XVIII. Organizar y reglamentar el programa de retiro voluntario para el personal operativo, de base y de confianza del Gobierno del Estado, así como los seguros, fondos y estímulos que se juzgue conveniente, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-X. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XI. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XIV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-XVI. Recibir, coordinar y registrar, la entrega oportuna de los fondos descentralizados para inversión que la Federación participe al Estado y de los recursos estatales que se descentralicen a los Municipios;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XVII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XVIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-XIX. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado, informando al Ejecutivo periódicamente sobre el estado de las amortizaciones de capital y pago de intereses;
-
-XX. Custodiar y concentrar los fondos y valores financieros del Gobierno del Estado;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2008)</small>
-
-XXI. Administrar las erogaciones conforme al presupuesto de egresos y de la legislación respectiva; en consecuencia, no podrá autorizar el pago de percepciones extraordinarias, remuneraciones o percepciones distintas a su ingreso establecido en el presupuesto de egresos, a los servidores públicos estatales que ocupen un cargo de elección popular;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XXII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XXIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-XXIV. Llevar la contabilidad de la Hacienda Pública Estatal formulando estados financieros mensuales y presentar anualmente al Gobernador del Estado, durante el mes de enero, un informe pormenorizado del ejercicio fiscal anterior;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-XXV. Presentar al H. Congreso del Estado, previo acuerdo del Titular del Poder Ejecutivo, la cuenta pública estatal, para efectos de su revisión, discusión y, en su caso, aprobación, la que estará integrada por los informes de avance de gestión financiera en los términos dispuestos por la Ley de Fiscalización Superior del Estado de Coahuila;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
-
-XXVII. Proponer al Ejecutivo las reformas tendientes a mejorar la política financiera.
-
-XXVII. Proponer al Ejecutivo las reformas tendientes a mejorar la política financiera y fiscal;
-
-XXVIII. Integrar los estudios y proyectos jurídico administrativos que optimicen la administración de las finanzas públicas del Estado;
-
-XXIX. Revisar y en su caso autorizar, las operaciones en que se haga uso del crédito público;
-
-XXX. Elaborar la planeación financiera del Gobierno del Estado y coordinar las correspondientes a las entidades paraestatales;
-
-XXXI. Conocer e integrar las propuestas de gasto e inversión que formulen las Dependencias y Entidades que integran la administración pública estatal;
-
-XXXII. Observar el cumplimiento de la normatividad estatal y, en su caso, federal en materia de programación, presupuestación y evaluación del gasto;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XXXIII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XXXIV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-XXXV. Someter al Ejecutivo del Estado para su aprobación, los programas de inversión pública y autorizar los proyectos derivados de los mismos;
-
-XXXVI. Autorizar los montos globales de inversión pública del estado;
-
-XXXVII. Programar y operar, los recursos destinados a los programas de inversión pública de las dependencias del Ejecutivo, de sus organismos auxiliares y de las entidades paraestatales;
-
-XXXVIII. Establecer y operar un sistema de seguimiento de los programas federales y estatales de inversión, conforme a las leyes y acuerdos de coordinación;
-
-XXXIX. Representar al Ejecutivo en la celebración de negociaciones y convenios que involucren transferencias de fondos, ante la federación, los estados y entidades u organismos de los sectores paraestatal y privado;
-
-XL. Comparecer ante el H. Congreso del Estado a dar cuenta de la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos que presente el Titular del Ejecutivo;
-
-XLI. Exigir a todo servidor público que maneje caudales del Estado, que otorgue fianza suficiente en los términos que determine la ley o reglamentación respectiva;
-
-XLII. Dirigir y operar los sistemas de administración y nómina del personal al servicio de la Administración Pública Estatal y, en su caso, auxiliar a las distintas entidades, organismos y Poderes en dichas labores;
-
-XLIII. Autorizar, para efectos presupuestales, los cambios en la estructura de la Administración Pública Estatal;
-
-XLIV. Tramitar los nombramientos, remociones, licencias, retiros, pensiones y jubilaciones de los servidores públicos de la Administración Pública Estatal;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XLV. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XLVI. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-XLVII. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-XLVIII. Establecer en coordinación con la Secretaría de la Función Pública, las normas de recepción y entrega de los bienes de las dependencias y entidades, y vigilar su cumplimiento;
-
-XLIX. Organizar, y reglamentar el programa de retiro voluntario para el personal operativo, de base y de confianza del Gobierno del Estado, así como los seguros, fondos y estímulos que se juzgue conveniente;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-L. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-LI. (DEROGADA, P.O. 18 DE JUNIO DE 2010)
+XIX. Participar en los términos de las leyes de la materia en la celebración de contratos de compraventa, arrendamiento, seguros, comodato, donación y demás, en los que se afecte el patrimonio del Estado.
 
 ###### ARTÍCULO 27.
 
@@ -715,11 +593,9 @@ II. Planear y promover, con la participación de los sectores social y privado, 
 
 III. Proponer al Ejecutivo del Estado la celebración de convenios o acuerdos necesarios con las distintas instancias de Gobierno y con el sector social y privado, tendientes a incrementar e incentivar el desarrollo y la inversión en las distintas actividades económicas en la Entidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
-
-IV. Promover ante el Servicio de Administración Tributaria del Estado de Coahuila, estímulos fiscales que se estimen pertinentes para el establecimiento de empresas, así como otorgar subsidio y estímulos en infraestructura cuando se estime conveniente para la promoción de las fuentes de empleo;
+IV. Promover ante el Servicio de Administración Tributaria del Estado de Coahuila los estímulos fiscales que se estimen pertinentes para el establecimiento de empresas, así como otorgar subsidio y estímulos en infraestructura cuando se estime conveniente para la promoción de las fuentes de empleo;
 
 V. Impulsar, coordinar y ejecutar los programas de promoción del comercio exterior y la inversión extranjera en los distintos sectores de la economía del Estado;
 
@@ -1285,9 +1161,11 @@ La planeación, programación y presupuestación de las entidades paraestatales 
 
 Corresponderá a la dependencia a la que se encuentre sectorizada la entidad paraestatal, establecer sus políticas de desarrollo, coordinar la programación y presupuestación, de conformidad con las asignaciones presupuestales previamente autorizadas, así como conocer su operación para evaluar sus resultados con el objeto de lograr su plena integración a los programas que al efecto determine el Ejecutivo Estatal.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 43.
 
-Se establece el Registro de Entidades Paraestatales de la Administración Pública Estatal que estará a cargo de la Secretaria de Finanzas y se integrará y funcionará en los términos del Reglamento que al efecto se expida.
+Se establece el Registro de Entidades Paraestatales de la Administración Pública Estatal que estará a cargo de la Tesorería General del Estado y se integrará y funcionará en los términos del Reglamento que al efecto se expida.
 
 ### CAPITULO II. DE LA CREACIÓN Y FUNCIONAMIENTO DE LAS ENTIDADES PARAESTATALES
 
@@ -1417,7 +1295,9 @@ III. Que al Estado le corresponda la facultad de nombrar a la mayoría de los mi
 
 Son empresas de participación minoritaria las sociedades en las que el Estado, uno o más organismos descentralizados y otra u otras empresas de participación municipal mayoritaria, conjunta o separadamente, posean acciones o parte del capital social que representen menos del 51% y el 25% o más del mismo.
 
-En las empresas en que participe el Gobierno del Estado, con la suscripción de hasta el 50% del capital social, sólo se vigilarán las inversiones del Estado a través de la Secretaría de Finanzas y de la Secretaría de la Función Pública. El ejercicio de los derechos respectivos se hará por conducto de la dependencia a la que se encuentre sectorizada.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+En las empresas en que participe el Gobierno del Estado, con la suscripción de hasta el 50% del capital social, sólo se vigilarán las inversiones del Estado a través de la Tesorería General del Estado, de la Secretaría de la Función Pública y del Servicio de Administración Tributaria del Estado de Coahuila. El ejercicio de los derechos respectivos se hará por conducto de la dependencia u organismo público a la que se encuentre sectorizada.
 
 Sólo procederá la participación del Gobierno del Estado en estas empresas, cuando su objeto sea la realización de acciones de interés general. Los montos aportados por el Gobierno del Estado a estas empresas deberán sujetarse, en cuanto a su autorización, aplicación, control y vigilancia, a las leyes respectivas.
 
@@ -1437,7 +1317,9 @@ Al efectuarse la fusión o extinción de las empresas de participación estatal,
 
 Son fideicomisos públicos aquellos en los que el fideicomitente sea el Gobierno del Estado, organismos descentralizados, empresas de participación estatal mayoritaria o cualquier institución fiduciaria cuando ésta actúe en cumplimiento de los fines de otro fideicomiso de cualquier dependencia o entidad de la administración pública estatal.
 
-La Secretaría de Finanzas, fungirá como el fideicomitente único del Gobierno del Estado, y a través de ella se cuidará que en los contratos de fideicomiso queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre el patrimonio fideicomitido, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije para el órgano de gobierno que se denominará Comité Técnico.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+La Tesorería General del Estado o el Servicio de Administración Tributaria del Estado de Coahuila, fungirán como fideicomitentes únicos del Gobierno del Estado, conforme se establezca en el Decreto en que se autorice su constitución y a través de estos se cuidará que en los contratos de fideicomiso queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre el patrimonio fideicomitido, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije para el órgano de gobierno que se denominará Comité Técnico.
 
 Los organismos del gobierno y los titulares de los fideicomisos citados en este artículo, se sujetarán en cuanto a su integración, facultades y funcionamiento, a las disposiciones que en la presente ley y en las disposiciones reglamentarias de este título se establecen para los órganos de gobierno y para los Directores Generales o sus equivalentes, en cuanto sea compatible a su naturaleza.
 
@@ -1762,3 +1644,13 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las referencias que cualquier ordenamiento haga a la Secretaría de Finanzas del Estado, se entenderán hechas a la Tesorería General del Estado, y las que se hagan al Secretario de Finanzas se entenderán al Tesorero General del Estado.
+
+TERCERO.- A partir de la entrada en vigor de este Decreto, las atribuciones relacionadas con la planeación financiera del Gobierno del Estado y coordinación correspondiente a las entidades paraestatales; el conocimiento e integración de las propuestas de gasto e inversión que formulen las Dependencias y Entidades de la administración pública estatal; la presentación al Ejecutivo del Estado para su aprobación de los programas de inversión pública y autorización de los proyectos derivados de los mismos; la autorización de los montos globales de inversión pública del estado; la programación y operación de recursos destinados a los programas de inversión pública de las dependencias del Ejecutivo, de sus organismos auxiliares y de las entidades paraestatales; el establecimiento y operación del sistema de seguimiento de los programas federales y estatales de inversión, conforme a las leyes y acuerdos de coordinación; y la representación del Ejecutivo en la celebración de negociaciones y convenios que involucren transferencias de fondos, ante la federación, los estados y entidades u organismos de los sectores paraestatal y privado, serán ejercidas por el Servicio de Administración Tributaria del Estado de Coahuila.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
