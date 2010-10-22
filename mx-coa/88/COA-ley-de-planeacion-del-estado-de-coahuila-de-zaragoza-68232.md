@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-del-estado-de-coahuila-de-zaragoza-68232"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2009-04-17"
+last_updated: "2010-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PLANEACION DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de abril de 2009.
 
@@ -161,29 +161,43 @@ El Comité de Planeación para el Desarrollo del Estado de Coahuila, estará int
 
 I. Por un Presidente que será el Titular del Ejecutivo del Estado;
 
-II. Por un Coordinador General que será el Secretario de Finanzas del Estado;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-III. Por un Secretario Técnico que será el Subsecretario de Programación y Presupuesto de la Secretaría de Finanzas;
+II. Por un Coordinador General que será el Secretario Ejecutivo del Servicio de Administración Tributaria del Estado de Coahuila;
 
-IV. Por un Vocal que será el Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-V. Por un Vocal que será el Secretario de Obras Públicas y Transporte;
+III. Por un Secretario Técnico que será el Administrador General de Políticas Públicas del Servicio de Administración Tributaria del Estado de Coahuila;
 
-VI. Por un Vocal que será el Secretario de Desarrollo Social;
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-VII. Por un Vocal que será el Secretario de la Función Pública;
+IV. Por un Vocal que será el Tesorero General del Estado;
 
-VIII. Por un Vocal que será el Subsecretario de Egresos de la Secretaría de Finanzas;
+V. Por un Vocal que será el Secretario de Gobierno;
 
-IX. Los Coordinadores de los Gabinetes Temáticos que fungirán como Vocales, de acuerdo a su área de competencia; y
+VI. Por un Vocal que será el Secretario de Obras Públicas y Transporte;
 
-X. Los demás funcionarios que designe el Titular del Poder Ejecutivo.
+VII. Por un Vocal que será el Secretario de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VIII. Por un Vocal que será el Secretario de la Función Pública;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IX. Por un Vocal que será el Administrador General de Planeación del Servicio de Administración Tributaria del Estado de Coahuila;
+
+X. Los Coordinadores de los Gabinetes Temáticos que fungirán como Vocales, de acuerdo a su área de competencia; y
+
+XI. Los demás funcionarios que designe el Titular del Poder Ejecutivo.
 
 Para efectos de la fracción IX de este artículo, el Gabinete Temático se integra por los titulares de las Dependencias y Entidades que no forman parte del Comité.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 13.
 
-El Comité contará con una comisión permanente que estará integrada por el Secretario de Finanzas; el Secretario de la Función Pública; el Subsecretario de Egresos de la Secretaría de Finanzas; el Subsecretario de Programación y Presupuesto de la Secretaría de Finanzas; y el Titular de la Dependencia Ejecutora.
+El Comité contará con una comisión permanente que estará integrada por el Secretario Ejecutivo del Servicio de Administración Tributaria del Estado de Coahuila; el Secretario de la Función Pública; el Administrador General de Políticas Públicas del Servicio de Administración Tributaria del Estado de Coahuila; el Subsecretario de Planeación del Servicio de Administración Tributaria del Estado de Coahuila; y el Titular de la Dependencia Ejecutora.
 
 El Comité podrá delegar en esta Comisión la planeación, programación, presupuestación y autorización de la ejecución de los programas, proyectos y obras de inversión, con cargo a los fondos estatales y convenios que el Gobierno del Estado celebre con la Federación o los Municipios.
 
@@ -500,3 +514,15 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las referencias que cualquier ordenamiento haga a la Secretaría de Finanzas del Estado, se entenderán hechas a la Tesorería General del Estado, y las que se hagan al Secretario de Finanzas se entenderán al Tesorero General del Estado.
+
+TERCERO.- A partir de la entrada en vigor de este Decreto, las atribuciones relacionadas con la planeación financiera del Gobierno del Estado y coordinación correspondiente a las entidades paraestatales; el conocimiento e integración de las propuestas de gasto e inversión que formulen las Dependencias y Entidades de la administración pública estatal; la presentación al Ejecutivo del Estado para su aprobación de los programas de inversión pública y autorización de los proyectos derivados de los mismos; la autorización de los montos globales de inversión pública del estado; la programación y operación de recursos destinados a los programas de inversión pública de las dependencias del Ejecutivo, de sus organismos auxiliares y de las entidades paraestatales; el establecimiento y operación del sistema de seguimiento de los programas federales y estatales de inversión, conforme a las leyes y acuerdos de coordinación; y la representación del Ejecutivo en la celebración de negociaciones y convenios que involucren transferencias de fondos, ante la federación, los estados y entidades u organismos de los sectores paraestatal y privado, serán ejercidas por el Servicio de Administración Tributaria del Estado de Coahuila.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
