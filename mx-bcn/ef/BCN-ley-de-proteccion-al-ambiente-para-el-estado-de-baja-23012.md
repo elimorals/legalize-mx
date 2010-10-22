@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2010-10-15"
+last_updated: "2010-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCION AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -55,7 +55,9 @@ III. Definir los principios mediante los cuales se habrá de formular, conducir 
 
 IV. Aprovechar en forma sustentable los recursos naturales e incrementar la calidad de vida de la población;
 
-V. Preservar y restaurar el equilibrio ecológico, así como prevenir el deterioro ambiental, de manera que sea compatible la obtención de beneficios económicos y las actividades de la sociedad con la preservación de los ecosistemas;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+V. Preservar y restaurar el equilibrio ecológico, así como prevenir el deterioro ambiental y de la vida silvestre, de manera que sea compatible la obtención de beneficios económicos y las actividades de la sociedad con la preservación de los ecosistemas;
 
 VI. Preservar y proteger la biodiversidad, establecer, regular y administrar las áreas naturales protegidas de competencia del Estado, así como manejar y vigilar las que se asuman por convenio con la Federación.
 
@@ -69,7 +71,9 @@ IX. Garantizar la participación corresponsable de las personas y los grupos soc
 
 X. Definir las medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan; y
 
-XI. Establecer las bases para garantizar el acceso de la sociedad a la información ambiental, que permita a los ciudadanos conocer la situación ambiental que guarda el Estado y para asegurar su participación corresponsable en la protección del ambiente y la preservación del equilibrio ecológico.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XI. Establecer las bases para garantizar el acceso de la sociedad a la información ambiental, que permita a los ciudadanos conocer la situación ambiental que guarda el estado y para asegurar su participación corresponsable en la protección del ambiente, la vida silvestre y la preservación del equilibrio ecológico.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NO. 60, PUBLICADO EN EL P.O. DE 27 DE JUNIO DEL 2008, EL PRESENTE ARTICULO HA SIDO MODIFICADO EN SU ESTRUCTURA.</small>
 
@@ -101,45 +105,53 @@ VI. CONSEJO: Al Consejo Estatal de Protección al Ambiente del Estado de Baja Ca
 
 VII. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
 
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VIII. CONTAMINACION LUMINICA: Emisión de flujo luminoso en la atmosfera de fuentes artificiales nocturnas, en intensidades, direcciones, rangos espectrales u horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IX. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+X. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XI. FUENTE MÓVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XII. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIII. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIV. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XV. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XVI. QUEMA: Combustión no controlada de cualquier sustancia o material;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XVII. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
+
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
 
-VIII. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
+XVIII. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California, y
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
 
-IX. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
-
-X. FUENTE MÓVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
-
-XI. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
-
-XII. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
-
-XIII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
-
-XIV. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
-
-XV. QUEMA: Combustión no controlada de cualquier sustancia o material;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
-
-XVI. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
-
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2010)</small>
-
-XVII. SECRETARÍA: Secretaría de Protección al Ambiente del Estado de Baja California.
+XIX. VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentren bajo el control del hombre, así como ferales.
 
 ###### ARTÍCULO 3.
 
@@ -160,6 +172,10 @@ V. El establecimiento de zonas de amortiguamiento, con motivo de la presencia de
 VI. El establecimiento de sitios de confinamiento y disposición final de residuos sólidos urbanos y residuos de manejo especial;
 
 VII. Los fondos ambientales.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VIII. La conservación del hábitat natural en que se desarrolla la vida silvestre.
 
 ###### ARTÍCULO 4.
 
@@ -275,9 +291,13 @@ XXXIII. Prevenir, regular y controlar la contaminación a la atmósfera generada
 
 XXXIV. La Secretaría propondrá los derechos que correspondan al aprovechamiento de recursos naturlales (sic) de actividades y proyectos de competencia estatal no reservados a la Federación, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2008)</small>
+(REFORMADA, P.O. 22 DE OCTUBRE DE 2010))
 
-XXXV. Las demás que conforme a la legislación local y federal aplicable le correspondan.
+XXXV. Instrumentar, ejecutar y evaluar programas, proyectos, políticas, servicios y acciones relativos a la vida silvestre y a la biodiversidad, de conformidad con la legislación en la materia, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XXXVI. Las demás que conforme a la legislación local y federal aplicable le correspondan.
 
 ###### ARTÍCULO 9.
 
@@ -1265,7 +1285,9 @@ VII. La formulación de los programas de ordenamiento ecológico.
 
 ### CAPÍTULO III. Preservación y Aprovechamiento de los Elementos y Recursos Naturales
 
-#### SECCIÓN I. Criterios ambientales
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+#### SECCIÓN I. Zonas de Restauración
 
 ###### ARTÍCULO 100.
 
@@ -1273,19 +1295,11 @@ En aquellas áreas que presenten procesos de degradación o desertificación o g
 
 ###### ARTÍCULO 101.
 
-Para la preservación, conservación y aprovechamiento sustentable de la vida silvestre y su hábitat, la Secretaría y los municipios en su demarcación territorial, previo los estudios correspondientes podrán promover ante autoridades federales competentes:
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2010)
 
-I. El establecimiento o modificación de vedas;
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-II. La declaración de especies amenazadas, raras, en peligro de extinción, endémicas o sujetas a protección especial;
-
-III. La creación de áreas de refugio para protección de las especies acuáticas;
-
-IV. La modificación o revocación de concesiones, permisos y en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación y desarrollo de la flora y fauna silvestres; y
-
-V. La celebración de convenios para garantizar la congruencia y propósitos en la acción de los distintos Órdenes de Gobierno y asumir las funciones y facultades de la Federación en los términos de la Ley General de la Vida Silvestre.
-
-#### SECCIÓN II. Facultades
+#### SECCION II
 
 ###### ARTÍCULO 102.
 
@@ -1315,9 +1329,57 @@ La Secretaría llevará un registro de las fuentes emisoras de energía radioact
 
 El uso de la energía nuclear con el fin de generar energía eléctrica deberá considerarse una opción poco deseable en el Estado, cuya aplicación se realizará solo después de haber agotado todas las demás fuentes de que se dispone para producirla.
 
-#### SECCIÓN III. Control de emisiones proveniente de fuentes fijas
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-#### SECCIÓN IV. De los Centros de Verificación
+#### SECCION III. Vida Silvestre
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 106 BIS.- Para la preservación y aprovechamiento sustentable de la vida silvestre y su hábitat, la Secretaria tendrá las siguientes:
+
+I.- La formulación y conducción de la política estatal sobre la conservación y aprovechamiento sustentable de la vida silvestre la que, en todo caso, deberá ser congruente con los lineamientos de la política nacional en la materia;
+
+II.- La regulación para el manejo, control y remediación de los problemas asociados a ejemplares y poblaciones ferales, así como la aplicación de las disposiciones en la materia, dentro de su ámbito territorial;
+
+III.- La compilación de la información sobre los usos y formas de aprovechamiento de ejemplares, partes y derivados de la vida silvestre con fines de subsistencia por parte de las comunidades rurales y la promoción de la organización de los distintos grupos y su integración a los procesos de desarrollo sustentable en los términos de esta Ley;
+
+IV.- El apoyo, asesoría técnica y capacitación a las comunidades rurales para el desarrollo de actividades de conservación y aprovechamiento sustentable de la vida silvestre, la elaboración de planes de manejo, el desarrollo de estudios de poblaciones y la solicitud de autorizaciones;
+
+V.- La conducción de la política estatal de información y difusión en materia de vida silvestre; la integración, seguimiento y actualización del Sistema Estatal de Información sobre la Vida Silvestre en compatibilidad e interrelación con el Subsistema Nacional de Información sobre la Vida Silvestre, en el ámbito de su jurisdicción territorial;
+
+VI.- La creación y administración del registro estatal de las organizaciones relacionadas con la conservación y aprovechamiento sustentable de la vida silvestre;
+
+VII.- La creación y administración del registro estatal de los prestadores de servicios vinculados a la transformación, tratamiento, preparación, aprovechamiento y comercialización de ejemplares, partes y derivados de la vida silvestre, así como la supervisión de sus actividades;
+
+VIII.- La creación y administración del padrón estatal de mascotas de especies silvestres y aves de presa;
+
+IX.- La coordinación de la participación social en las actividades que incumben a las autoridades estatales;
+
+X.- La emisión de recomendaciones previo a los estudios correspondientes a las autoridades competentes en materia de vida silvestre, con el propósito de promover el cumplimiento de la legislación en materia de conservación y aprovechamiento sustentable.
+
+Para el ejercicio de estas atribuciones, se estará a lo dispuesto en las disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 106 BIS 1.- Para la preservación, conservación y aprovechamiento sustentable de la vida silvestre y su hábitat, la Secretaria y los municipios en su demarcación territorial, previo los estudios correspondientes podrán promover ante autoridades federales competentes:
+
+I.- El establecimiento o modificación de vedas;
+
+II.- La declaración de especies endémicas, amenazadas, sujetas a protección especial, en peligro de extinción, o probablemente exista en el medio silvestre,
+
+III.- La creación de áreas de refugio para protección de las especies acuáticas;
+
+IV.- La modificación o renovación de concesiones, permisos y en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propaganda y desarrollo de la flora y fauna silvestre, y
+
+V.- La celebración de convenios para garantizar la congruencia y propósitos en la acción de los distintos ordenes de gobierno y asumir las funciones y facultades de la federación en los términos de la Ley General de la Vida Silvestre.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 106 BIS 2.- El aprovechamiento de los recursos naturales en áreas que sean el hábitat de especies de flora o fauna silvestres, especialmente de las endémicas, amenazadas sujetas a protección especial, en peligro de extinción o probablemente extinta en el medio silvestre, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
+
+La Secretaria deberá promover y apoyar el manejo de la flora y fauna silvestre, con base en el conocimiento biológico tradicional, información técnica, científica y económica, con el propósito de hacer un aprovechamiento sustentable de las especies.
+
+#### SECCIÓN I. Criterios ambientales
 
 ### CAPÍTULO I. Disposiciones generales
 
@@ -1351,9 +1413,7 @@ La actualización de la base de datos del Registro de Emisiones y Transferencia 
 
 ### CAPÍTULO III. Prevención y control de la contaminación del agua
 
-#### SECCIÓN V. Prevención y control de la contaminación lumínica
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2010)</small>
+#### SECCIÓN II. Facultades
 
 ###### ARTÍCULO 110.
 
@@ -1379,7 +1439,7 @@ V. El otorgamiento de todo tipo de autorizaciones, licencias, registros o permis
 
 VI. El diseño de indicadores de calidad ambiental.
 
-#### SECCIÓN I. Criterios ambientales
+#### SECCIÓN III. Control de emisiones proveniente de fuentes fijas
 
 ###### ARTÍCULO 112.
 
@@ -1479,7 +1539,7 @@ VIII. Aplicar las normas oficiales mexicanas y normas ambientales estatales para
 
 IX. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen.
 
-#### SECCIÓN II. Facultades
+#### SECCIÓN IV. De los Centros de Verificación
 
 ###### ARTÍCULO 114.
 
@@ -1509,7 +1569,9 @@ Los municipios, a través de los bandos de policía o reglamentos que al efecto 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2010)</small>
 
-#### SECCIÓN III. Control de descargas de aguas residuales
+#### SECCIÓN V. Prevención y control de la contaminación lumínica
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 117.
 
@@ -1675,7 +1737,7 @@ IV. La restricción o suspensión de explotaciones y aprovechamientos en casos d
 
 Las disposiciones contenidas en el presente capítulo, son aplicables a las descargas de aguas residuales que se viertan a los cuerpos de aguas nacionales asignadas al Estado, a las aguas que en los términos de la Constitución Política de los Estados Unidos Mexicanos sean de jurisdicción local y a los sistemas de drenaje y alcantarillado de los centros de población.
 
-#### SECCIÓN III. Residuos Industriales y Residuos Sólidos Municipales
+#### SECCIÓN III. Control de descargas de aguas residuales
 
 ###### ARTÍCULO 125.
 
@@ -1715,7 +1777,7 @@ V. Requerir a quienes generen descargas y no cumplan con las normas oficiales me
 
 Para los efectos de lo dispuesto en este artículo se consideran cuerpos receptores de competencia Municipal las aguas nacionales asignadas a los municipios o a los organismos municipales administradores de los sistemas de agua y alcantarillado, y los sistemas de drenaje y alcantarillado de los centros de población, por lo que se refiere a descargas de aguas residuales provenientes de obras y actividades comerciales y de servicios.
 
-#### SECCIÓN IV. Manejo, Almacenameinto (sic) y Tránsito de Materiales y Residuos Peligrosos
+#### SECCIÓN I. Criterios ambientales
 
 ###### ARTÍCULO 127.
 
@@ -1769,7 +1831,7 @@ Para conocer la calidad de las aguas, se establecerá un sistema estatal de moni
 
 ### CAPÍTULO I. Participación Ciudadana
 
-#### SECCIÓN V. Actividades Riesgosas
+#### SECCIÓN II. Facultades
 
 ###### ARTÍCULO 133.
 
@@ -1784,6 +1846,8 @@ I. La expedición de normas ambientales estatales y municipales, para el funcion
 II. La ordenación y regulación del desarrollo urbano, del turístico, industrial y agropecuario; y
 
 III. El otorgamiento de concesiones, permisos, y en general toda clase de autorizaciones que al efecto se otorguen con relación a la generación, recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de residuos no peligrosos.
+
+#### SECCIÓN III. Residuos Industriales y Residuos Sólidos Municipales
 
 ###### ARTÍCULO 135.
 
@@ -1873,6 +1937,8 @@ Dentro del ámbito territorial del Estado, los establecimientos de servicios com
 
 > <small>(DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
+#### SECCIÓN IV. Manejo, Almacenameinto (sic) y Tránsito de Materiales y Residuos Peligrosos
+
 ###### ARTÍCULO 142.
 
 (DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
@@ -1904,6 +1970,8 @@ Dentro del ámbito territorial del Estado, los establecimientos de servicios com
 ###### ARTÍCULO 149.
 
 (DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2007)
+
+#### SECCIÓN V. Actividades Riesgosas
 
 ###### ARTÍCULO 150.
 
@@ -2447,7 +2515,7 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta Le
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el presente capítulo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO VI. De los delitos ambientales
 
