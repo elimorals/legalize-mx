@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-civil-del-estado-de-quintana-roo-68914"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-01"
-last_updated: "2009-06-01"
+last_updated: "2010-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
 
 Ley Publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 1 de junio del 2009.
 
@@ -121,9 +121,13 @@ VI.- Ley de Salud;
 
 VII.- Ley de Seguridad Pública;
 
-VIII.- Ley Forestal; o
+VIII.- Ley Forestal; o (sic)
 
-IX.- Ley para la Prevención y la Gestión Integral de Residuos.
+IX.- Ley para la Prevención y la Gestión Integral de Residuos;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+X.- Ley de Turismo del Estado de Quintana Roo.
 
 ###### ARTÍCULO 9.
 
@@ -1486,3 +1490,15 @@ DR. SALATIEL ALVARADO DZUL.
 DIPUTADA SECRETARIA:
 
 LIC. MARÍA HADAD CASTILLO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+T R A N S I T O R I O
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
