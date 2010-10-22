@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2010-09-08"
+last_updated: "2010-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -126,6 +126,378 @@ Los cargos de los miembros de las comisiones legislativas, se incluirán en la p
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 Para su integración se considerará a los diputados de los diferentes grupos parlamentarios.
+
+> <small>(ADICIONADO, G.G. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 13 A.- Las facultades de las Comisiones Legislativas de manera enunciativa y no limitativa, son las siguientes:
+
+l. La Comisión de Gobernación y Puntos Constitucionales, conocerá de los temas siguientes:
+
+a) Sobre las reformas que se propongan a la Constitución General de la República y la particular del Estado;
+
+b) Los de conveniencia de secundar las iniciativas hechas por las Legislaturas de otras Entidades Federativas;
+
+c) De la Ley Orgánica y Reglamento del Poder Legislativo;
+
+d) De las leyes orgánicas y reglamentarias de los dispositivos de la Constitución Política del Estado;
+
+e) Los de organización y estructura de los Poderes Legislativo, Ejecutivo y Judicial;
+
+f) Los de iniciación ante el Congreso de la Unión de las leyes que a éste competan, así como su reforma o derogación;
+
+g) Las propuestas de nombramientos y resolución sobre renuncias, licencias temporales y absolutas de servidores públicos de los poderes Legislativo, Ejecutivo y Judicial, así como de órganos autónomos, salvo lo previsto en otras disposiciones constitucionales y legales; y
+
+h) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+II. La Comisión de Legislación y Administración Municipal, conocerá de los temas siguientes:
+
+a) Los referentes a la Legislación Municipal;
+
+b) De asociación con uno o más municipios del Estado o con los de otras entidades federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan;
+
+c) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
+
+d) De la elevación de categorías políticas de los municipios;
+
+e) De conocimiento del procedimiento para que el gobierno estatal asuma una función o servicio municipal, al no existir el convenio correspondiente;
+
+f) De reformas a la Ley Orgánica Municipal y a las bases generales a las que se sujetan los Ayuntamientos; y
+
+g) Los asuntos que se le asignen en el Pleno de la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+III. La Comisión de Procuración y Administración de Justicia, conocerá de los temas siguientes:
+
+a) De reformas de los códigos y leyes del Estado en materia de impartición de justicia;
+
+b) Sobre la expedición y reforma a la legislación civil en su aspecto sustantivo y adjetivo;
+
+c) De las reformas de la legislación penal en su aspecto sustantivo y adjetivo;
+
+d) De las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia;
+
+e) De las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+IV. La Comisión de Planeación y Gasto Público, conocerá de los temas siguientes:
+
+a) Las Leyes de Ingresos del Estado y de los municipios;
+
+b) El Presupuesto de Egresos del Gobierno del Estado;
+
+c) El Código Financiero del Estado de México y Municipios;
+
+d) Los impuestos extraordinarios o especiales, estatales o municipales;
+
+e) La contratación de empréstitos del Estado y de los municipios en términos de la Constitución;
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política; y
+
+g) Las demás relativas y aplicables a la materia.
+
+V. La Comisión de Trabajo, Previsión y Seguridad Social, conocerá de los temas siguientes:
+
+a) De reformas de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamientos del Estado y sus respectivos trabajadores;
+
+b) Sobre la legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios;
+
+c) Las correspondientes a la adopción de medidas de previsión social; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+VI. La Comisión de Educación, Cultura, Ciencia y Tecnología, conocerá de los temas siguientes:
+
+a) La legislación relacionada con la educación, cultura, ciencia, e investigación científica y tecnológica del Estado;
+
+b) La Ley Orgánica de la Universidad Autónoma del Estado de México y demás relativas; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+VII. La Comisión de Desarrollo Urbano, conocerá de los temas siguientes:
+
+a) Los de legislación relativa a asentamientos humanos;
+
+b) Los relacionados con el ordenamiento territorial;
+
+c) Los relativos a la vivienda; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+VIII. La Comisión de Planificación Demográfica, conocerá de los temas siguientes:
+
+a) Sobre las políticas públicas vinculadas con la población en cuanto a su volumen, estructura, dinámica y distribución en el territorio estatal;
+
+b) Los relacionados con la planificación demográfica; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+IX. La Comisión de Desarrollo Agropecuario y Forestal, conocerá de los temas siguientes:
+
+a) Los relacionados con actividades agrícolas, ganaderas, así como todas las relacionadas con el campo;
+
+b) Los vinculados con actividades agropecuarias, de forestación y reforestación;
+
+c) Los relacionados con la producción y comercialización de los productos del sector agropecuario; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+X. La Comisión de Protección Ambiental, conocerá de los temas siguientes:
+
+a) Sobre la protección, preservación, mejoramiento y renovación del equilibrio ecológico;
+
+b) Del agua potable, saneamiento y tratamiento del agua, así como procesamiento de desechos sólidos;
+
+c) De la protección de los animales;
+
+d) Sobre normas relativas a la protección al medio ambiente y el equilibrio ecológico;
+
+e) Relacionados con los bienes y servicios ambientales para el mantenimiento de los ecosistemas, la diversidad biológica y las cuencas hidrológicas;
+
+f) Los relacionados con el desarrollo sustentable, como la educación ambiental, ecoeficiencia, salud ocupacional, ecoturismo, transporte alternativo, vivienda ecológica; y
+
+g) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XI. La Comisión de Desarrollo Económico, Industrial, Comercial y Minero, conocerá de los temas siguientes:
+
+a) Los relacionados con los sectores productivos;
+
+b) Sobre el desarrollo de los sectores productivos del Estado;
+
+c) En materia de política de desarrollo económico integral;
+
+d) Respecto del desarrollo económico, industrial y comercial de los municipios;
+
+e) Los vinculados con el desarrollo minero; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XII. La Comisión de Comunicaciones y Transportes, conocerá de los temas siguientes:
+
+a) En materia de comunicaciones y transportes;
+
+b) Los relativos a la construcción y funcionamiento de las vías de comunicación;
+
+c) Los relacionados con la conservación y mantenimiento de las vías de comunicación en el Estado; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XIII. La Comisión de Derechos Humanos, conocerá de los temas siguientes:
+
+a) Sobre la legislación en materia de derechos humanos;
+
+b) Aquellos que se relacionen con la promoción y defensa de los derechos humanos;
+
+c) Sobre la convocatoria para ocupar los cargos de comisionado y consejeros ciudadanos de la Comisión de Derechos Humanos del Estado de México; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XIV. La Comisión de Salud, Asistencia y Bienestar Social, conocerá de los temas siguientes:
+
+a) Relacionados con la Salud Pública del Estado;
+
+b) Los relativos al marco jurídico en materia de salud;
+
+c) Sobre asistencia social, salud, drogadicción, alcoholismo, prostitución y tabaquismo; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XV. La Comisión de Seguridad Pública y Tránsito, conocerá de los temas siguientes:
+
+a) De las leyes relativas al tránsito de vehículos;
+
+b) Los relativos al orden público, la seguridad y la tranquilidad de las personas;
+
+c) Sobre las leyes que regulen el funcionamiento de los sistemas de reinserción social, las corporaciones de seguridad pública estatal y de las empresas que prestan los servicios de seguridad privadas;
+
+d) Los de coordinación en el marco del Sistema Nacional de Seguridad Pública;
+
+e) Los de coordinación de seguridad pública entre el Estado y municipios; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XVI. La Comisión de Asuntos Electorales, conocerá de los temas siguientes:
+
+a) De reformas y adiciones a la Constitución del Estado, al Código Electoral y demás Leyes en materia electoral;
+
+b) Del proyecto de convocatoria a elecciones ordinarias o extraordinarias a Gobernador, Diputados y miembros de los Ayuntamientos;
+
+c) Sobre la designación de los Consejeros del Instituto Electoral del Estado, Magistrados del Tribunal Electoral del Estado y funcionarios electorales cuyo nombramiento se reserve por la Constitución del Estado; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XVII. La Comisión de Patrimonio Estatal y Municipal, conocerá de los temas siguientes:
+
+a) Los bienes patrimonio del Estado;
+
+b) Los bienes patrimonio de los municipios, así como los de uso común; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XVIII. La Comisión de Desarrollo Turístico y Artesanal, conocerá de los temas siguientes:
+
+a) Los relacionados con la actividad turística del Estado;
+
+b) Sobre la conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos de la Entidad;
+
+c) Sobre el rescate, preservación, fortalecimiento y fomento de la actividad artesanal y de las artes populares del Estado; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XIX. La Comisión de Asuntos Metropolitanos, conocerá de los temas siguientes:
+
+a) Sobre la declaratoria de zonas metropolitanas del Estado y sus municipios o con otras entidades federativas colindantes;
+
+b) De la normatividad aplicable en los asuntos metropolitanos;
+
+c) Los relativos al crecimiento de las zonas urbanas y los programas de obra pública de los municipios y del Estado en zonas conurbadas; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XX. La Comisión de Vigilancia del Órgano Superior de Fiscalización, conocerá de los temas siguientes:
+
+a) De la Ley de Fiscalización Superior del Estado de México;
+
+b) De evaluación del Órgano Superior de Fiscalización del Estado;
+
+c) Del dictamen relativo a la terna para ocupar el cargo de Auditor Superior del Estado;
+
+d) Los relacionados con la licencia, renuncia o remoción del Auditor Superior del Estado; y
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXI. La Comisión de Asuntos Indígenas, conocerá de los temas siguientes:
+
+a) Sobre la legislación relacionada con las instituciones de desarrollo económico, social o cultural en las zonas étnicas del Estado;
+
+b) Los relativos a la integridad cultural y derechos de los indígenas;
+
+c) De promoción, defensa y rescate de la herencia y derechos indígenas en el Estado;
+
+d) Sobre la diversidad cultural y lingüística en nuestro Estado;
+
+e) Respecto a los usos y costumbres de los pueblos indígenas y su participación en el Estado; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXII. La Comisión de Protección Civil, conocerá de los temas siguientes:
+
+a) Sobre las leyes que establezcan y regulen los temas integrales en materia de protección civil;
+
+b) Los que promuevan la suscripción de convenios entre el Gobierno del Estado y los ayuntamientos, en materia de protección civil y de aquél con el Gobierno Federal;
+
+c) De los atlas de riesgos estatal y municipales;
+
+d) De las bases normativas sobre la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos naturales; y
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXIII. La Comisión para la Protección e Integración al Desarrollo de las de Personas con Discapacidad, conocerá de los temas siguientes:
+
+a) Los relacionados con el marco jurídico de los derechos de los niños, de las personas con discapacidad, de los adultos mayores y de cualquier grupo vulnerable;
+
+b) Sobre la cultura de atención a grupos vulnerables;
+
+c) Relacionados con la protección integral a los niños, adolescentes y jóvenes;
+
+d) Los referentes a las personas pensionadas y jubiladas; y
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXIV. La Comisión de Desarrollo Social, conocerá de los temas siguientes:
+
+a) Los de la legislación relacionada con el desarrollo social;
+
+b) Los de apoyo social;
+
+c) Sobre pobreza extrema y marginación; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXV. La Comisión de Límites Territoriales del Estado de México y sus Municipios, conocerá de los temas siguientes:
+
+a) Fijar los límites de los municipios del Estado y resolver las diferencias que en esta materia se produzcan;
+
+b) Crear y suprimir municipios, tomando en cuenta criterios de orden demográfico, político, social y económico; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXVI. La Comisión de Equidad y Género, conocerá de los temas siguientes:
+
+a) De equidad entre el hombre y la mujer;
+
+b) Los relacionados con la participación de la mujer;
+
+c) Los relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer y la familia;
+
+d) Sobre erradicación de la violencia; y
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXVII. La Comisión de Seguimiento de la operación de Proyectos para Prestación de Servicios, conocerá de los temas siguientes:
+
+a) Los relacionadas con los proyectos de prestación de servicios;
+
+b) De la operación de proyectos para prestación de servicios; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXVIII. La Comisión de la Juventud y el Deporte, conocerá de los temas siguientes:
+
+a) Sobre el deporte;
+
+b) Los relacionados con el desarrollo integral de los jóvenes;
+
+c) Los relativos a los derechos de los jóvenes;
+
+d) Los de gestión en apoyo a la juventud;
+
+e) Sobre la prevención y erradicación de las adicciones entre los jóvenes; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXIX. La Comisión de Finanzas Públicas, conocerá de los temas siguientes:
+
+a) Concernientes a la expedición de las Leyes de Ingresos del Estado y municipios;
+
+b) Sobre el Presupuesto de Egresos del Estado;
+
+c) Los de reformas al Código Financiero del Estado de México y Municipios;
+
+d) Sobre gravámenes o cargas fiscales;
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política; y
+
+f) Las demás relativas y aplicables a la materia.
+
+XXX. La Comisión de Recursos Hidráulicos, conocerá de los temas siguientes:
+
+a) Sobre la legislación en materia de recursos hidráulicos;
+
+b) Los referentes al aprovechamiento, conservación y aprovechamiento de recursos hidráulicos;
+
+c) Sobre la infraestructura para el tratamiento de aguas residuales y para prevenir y recuperar la calidad de los recursos hidráulicos; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXXI. La Comisión de Apoyo y Atención al Migrante, conocerá de los temas siguientes:
+
+a) La legislación en materia de migración;
+
+b) De atención a los migrantes mexiquenses; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXXII. La Comisión de Participación Ciudadana, conocerá de los temas siguientes:
+
+a) La legislación relacionada con los mecanismos de participación ciudadana; y
+
+b) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+Cuando la naturaleza de la materia lo amerite, el asunto o iniciativa podrá turnarse a comisión distinta de aquella cuya competencia se establece en este artículo.
+
+Lo dispuesto en el párrafo anterior, también será aplicable a los comités.
+
+En caso de ser necesario, la Asamblea determinará lo procedente.
 
 ###### Artículo 14.
 
@@ -1804,3 +2176,13 @@ G.G. 8 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 22 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
