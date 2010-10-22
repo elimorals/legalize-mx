@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-para-el-estado-de-baja-39900"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-21"
-last_updated: "2010-05-21"
+last_updated: "2010-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DE LOS RECURSOS PUBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS, PUBLICADO EN EL PERIODICO OFICIAL, DE FECHA 22 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 21 de mayo de 2004.
 
@@ -1074,3 +1076,33 @@ P.O. 26 DE MARZO DE 2010.
 P.O. 21 DE MAYO DE 2010.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California. Las disposiciones normativas contenidas en esta reforma, serán aplicables a los Informes de Resultado presentados a la Comisión por el Órgano a partir de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+PRIMERO.- La presente ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado, con las salvedades plasmadas en los artículos Transitorios subsecuentes.
+
+SEGUNDO.- Se abroga la ley de Fiscalización Superior para el Estado de Baja California, publicada en el Periódico Oficial del Estado No. 22, el día 21 de mayo de 2004, con sus reformas y adiciones, a partir de la entrada en vigor de la presente Ley. Los asuntos que se encuentren en trámite o en proceso ante él, al entrar en vigor la presente Ley, continuarán tramitándose hasta su terminación en los términos de la Ley que se abroga.
+
+TERCERO.- Las disposiciones previstas en la presente Ley que se derivan de regulaciones contenidas en la ley General de Contabilidad Gubernamental y/o en las normas emitidas por el Consejo Nacional de Armonización Contable (CONAC) entrarán en vigor en las fechas a partir de las cuales las disposiciones transitorias de la citada Ley las consideran de aplicación obligatoria.
+
+En tanto suceda lo anterior, se seguirá aplicando en lo conducente la Ley de Fiscalización Superior para el Estado de Baja California, que se abroga.
+
+CUARTO.- Las Cuentas Públicas relativas a los ejercicios fiscales del 2011 y anteriores se fiscalizarán conforme a las disposiciones de la Ley que se abroga mediante el presente Decreto.
+
+Por lo que respecta a los Ayuntamientos y entidades paramunicipales, las Cuentas Públicas relativas a los ejercicios fiscales del 2012 y anteriores se fiscalizaran conforme a las disposiciones de la Ley que se abroga mediante el presente Decreto.
+
+QUINTO.- El Órgano, revisará las Cuentas Públicas, conforme a las disposiciones de esta Ley, a partir de la Cuenta Pública del año 2012, que las Entidades Fiscalizables presentarán a más tardar el último día hábil del mes de marzo del 2013.
+
+Por lo que respecta a los Ayuntamientos y entidades paramunicipales se realizará la revisión conforme a esta Ley, a partir de la cuenta pública del ejercicio fiscal del 2013 que se presentará a más tardar el último día hábil del mes de marzo del 2014.
+
+SEXTO.- Por lo que respecta a la Información Financiera que integra los Informes de Avance de Gestión Financiera y Cuenta Pública se entregará dicha información conforme a la nueva estructura, a partir del 01 de enero de 2012.
+
+Por lo que respecta a los Ayuntamientos y entidades paramunicipales, entregarán dicha información conforme a la nueva estructura a partir del 01 de enero de 2013.
+
+SÉPTIMO.- En relación a la Evaluación del Desempeño, establecida en el Capítulo Segundo del Título Tercero de la presente Ley, se tomará en cuenta la misma para la asignación de recursos presupuestales correspondientes al ejercicio fiscal del 2013.
+
+OCTAVO.- Las disposiciones jurídicas que contravengan o se opongan al presente Decreto quedan derogadas.
+
+NOVENO.- Las referencias que se hagan en otras leyes y disposiciones administrativas a la Ley de Fiscalización Superior para el Estado de Baja California, se tendrán por realizadas a la Ley que se expide mediante el presente Decreto.
+
+DÉCIMO.- Los convenios de colaboración que se hubieren celebrado con anterioridad a la entrada en vigor de este Decreto, por el Órgano de Fiscalización conservarán su valor y eficacia.
