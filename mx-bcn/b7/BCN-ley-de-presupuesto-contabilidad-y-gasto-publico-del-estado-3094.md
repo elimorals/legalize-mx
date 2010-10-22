@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "2009-10-30"
+last_updated: "2010-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL PERIODICO OFICIAL DE 22 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -900,3 +902,21 @@ P.O. 3 DE JULIO DE 2009.
 P.O. 30 DE OCTUBRE DE 2009.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado, con las salvedades plasmadas en los artículos Transitorios subsecuentes.
+
+SEGUNDO.- Las disposiciones previstas en la presente Ley que se derivan de regulaciones contenidas en la Ley General de Contabilidad Gubernamental y/o en las normas emitidas por el CONAC, entrarán en vigor en las fechas a partir de las cuales las disposiciones transitorias de la citada Ley las consideran de aplicación obligatoria.
+
+En tanto suceda lo anterior, se seguirá aplicando en lo conducente la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California que se abroga.
+
+TERCERO.- Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California, publicada en el Periódico Oficial del Estado No. 30, el día 20 de Septiembre de 1992, a partir de la entrada en vigor de la presente Ley. Los asuntos que se encuentren en trámite o en proceso al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos de la referida Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California.
+
+CUARTO.- El Consejo deberá instalarse en un plazo no mayor a treinta días naturales y emitir sus reglas de operación en un plazo no mayor de sesenta días naturales, ambos contados a partir de la entrada en vigor de la presente Ley, en términos del artículo Primero Transitorio.
+
+QUINTO.- Los representantes de los Poderes Legislativo y Judicial, así como de los Municipios, Órganos Autónomos y Órgano de Fiscalización Superior del Estado que integran el Consejo, deberán notificar su representación al Secretario Técnico en un plazo no mayor a veinte días naturales contados a partir de la entrada en vigor de la presente Ley, en términos del artículo Primero Transitorio.
+
+SEXTO.- Las Unidades Administrativas competentes de los sujetos de la presente Ley, en el ámbito de sus respectivas competencias, deberán concluir la implementación del Sistema de Evaluación del Desempeño a que se refiere el Capítulo Primero del Título Cuarto de esta Ley, con la debida anticipación, para efecto de propiciar que los recursos presupuestales del ejercicio fiscal 2013, se asignen en sus respectivos presupuestos, con base a los resultados de las Evaluaciones del Desempeño realizadas.
+
+SÉPTIMO.- Por lo que respecta a la Información Financiera que integra los Informes de Avance de Gestión y Cuenta Pública a que se refiere el Artículo 82 de esta Ley, se entregara dicha información conforme a la nueva estructura, a partir del 01 de enero de 2012. Por lo que respecta a los Ayuntamientos y entidades paramunicipales, entregarán dicha información conforme a la nueva estructura a partir del 01 de enero de 2013.
