@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2010-06-29"
+last_updated: "2010-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -134,7 +134,7 @@ Toda persona tiene derecho a la información pública. La garantía de acceso a 
 
 I. Su fundamento reside en el estado humanista, social y democrático de derecho que establece esta Constitución.
 
-II. El acceso libre, gratuito, sencillo, antiformal, eficaz, pronto y expedito a la información.
+II. El acceso libre, gratuito, sencillo, antiformal (sic), eficaz, pronto y expedito a la información.
 
 III. La interpretación constitucional más favorable del principio de publicidad, salvo las excepciones que por razones de interés público establezca la ley en sentido estricto.
 
@@ -370,7 +370,7 @@ La calidad de ciudadano se recobra por haber cesado la causa que dió motivo a l
 
 ###### Artículo 23.
 
-La vecindad se pierde por dejar de residir en el territorio del Estado durante un año contínuo.
+La vecindad se pierde por dejar de residir en el territorio del Estado durante un año continuo.
 
 ###### Artículo 24.
 
@@ -876,7 +876,7 @@ V. Nombrar y, en su caso, ratificar a los funcionarios electorales que por ley l
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
-Designar a los integrantes del organismo público autónomo a que se refiere la fracción VII del artículo 7º de esta Constitución, con el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
+Designar a los integrantes del organismo público autónomo a que se refiere la fracción VII del artículo 7º de esta Constitución, con el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado en los términos y conforme al procedimiento que disponga la ley.
 
 VI. Facultar al Ejecutivo del Estado para que por sí o por medio de una comisión, celebre arreglos con los Estados vecinos sobre sus límites territoriales; reservándose el mismo Congreso la facultad de aprobar o no dichos convenios, los que en el primer caso, serán sometidos al Congreso de la Unión, para los efectos que establece la Constitución General.
 
@@ -1470,9 +1470,9 @@ XI. Procurar la conservación de la salubridad e higiene públicas.
 
 XII. Proveer el buen estado y seguridad de los caminos.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-XIII. Exigir, mensualmente a la Secretaría de Finanzas, la cuenta de ingresos y egresos y remitirla al Congreso o a la Diputación Permanente.
+XIII.- Exigir mensualmente a la Tesorería General del Estado, la cuenta de ingresos y egresos, y remitirla al Congreso o a la Diputación Permanente.
 
 XIV. Cuidar de los fondos públicos que en todo caso estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a las leyes.
 
@@ -1628,17 +1628,17 @@ La Ley de Ingresos, que a iniciativa del Ejecutivo deberá expedir anualmente el
 
 Las contribuciones al gasto público serán determinadas anualmente por el Congreso del Estado, en forma proporcional y equitativa.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 99.
 
-Para la guarda y distribución de los caudales públicos, habrá una dependencia que se denominará Secretaría de Finanzas, a cargo de un Secretario que será nombrado y removido libremente por el Gobernador del Estado. Esta Secretaría será auxiliada por un organismo administrativo descentralizado y por las administraciones recaudadoras que dependan de éste con arreglo a las leyes del Estado.
+Para la guarda y distribución de los caudales públicos, habrá una dependencia que se denominará Tesorería General del Estado, a cargo de un Tesorero, que será nombrado y removido libremente por el Gobernador del Estado. Esta dependencia será auxiliada por un organismo administrativo descentralizado y por las administraciones recaudadoras que dependan de éste con arreglo a las leyes del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 100.
 
-Son obligaciones del Secretario de Finanzas:
+Son obligaciones del Tesorero General del Estado:
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1676,23 +1676,23 @@ No se hará ningún gasto que no esté comprendido en el Presupuesto o haya sido
 
 La disponibilidad presupuestal en materia de acceso a la información pública, se regirá por la eficiencia, racionalidad, optimización de recursos e interés social.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 103.
 
-El Secretario de Finanzas deberá exigir a todo servidor público que maneje caudales del Estado, que constituya caución suficiente a su satisfacción, antes de tomar posesión de su cargo.
+El Tesorero General del Estado deberá exigir a todo servidor público que maneje los caudales del Estado, que constituya caución suficiente a su satisfacción, antes de tomar posesión de su cargo.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 104.
 
-El Ejecutivo solo podrá expedir órdenes de recaudación por conducto de la Secretaría de Finanzas o, en su caso, a través del organismo que se cree para tal efecto.
+El Ejecutivo sólo podrá expedir órdenes de recaudación por conducto de la Tesorería General del Estado, o en su caso, a través del organismo que se cree para tal efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 105.
 
-El Gobernador deberá presentar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, a más tardar el 30 de noviembre del año anterior al del ejercicio fiscal que correspondan, o hasta el día 15 del mes de diciembre cuando inicie su encargo en los términos del Artículo 77 de esta Constitución. El Secretario de Finanzas deberá comparecer a dar cuenta de los mismos.
+El Gobernador deberá presentar al Congreso, la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, a más tardar el 30 de noviembre del año anterior al del Ejercicio Fiscal que correspondan, o hasta el día 15 del mes de diciembre cuando inicie su encargo en los términos del Artículo 77 de esta Constitución. El Tesorero General del Estado, deberá comparecer a dar cuenta de los mismos.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2846,7 +2846,7 @@ El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrante
 
 ###### Artículo 158-M.
 
-Cuando por cualquier circunstancia no se haya verificado la elección de munícipes antes del día señalado por la ley para la renovación del Ayuntamiento o cuando hubiere sido declarada nula, así como en el caso de declararse desaparecido un Ayuntamiento o un Consejo Municipal por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado constituirá un Concejo Municipal, conforme a las bases siguientes:
+Cuando por cualquier circunstancia no se haya verificado la elección de munícipes antes del día señalado por la ley para la renovación del Ayuntamiento o cuando hubiere sido declarada nula, así como en el caso de declararse desaparecido un Ayuntamiento o un Concejo Municipal por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado constituirá un Concejo Municipal, conforme a las bases siguientes:
 
 > <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -3014,7 +3014,7 @@ Toda contribución que establezca el Congreso del Estado para integrar la hacien
 
 Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)
 
 APARTADO TERCERO.
 
@@ -4244,9 +4244,9 @@ SEGUNDO. Publíquese el presente decreto en el Periódico Oficial del Gobierno d
 
 TERCERO. El Poder Legislativo del Estado deberá emitir una nueva Ley Orgánica de la Comisión de Derechos Humanos del Estado de Coahuila, de conformidad con las disposiciones previstas en el presente decreto.
 
-Hasta en tanto entre en vigor la ley a que se refiere el párrafo que antecede, la Comisión de Derechos Humanos del Estado de Coahuila, para su organización y funcionamiento continuará aplicando las disposiciones de la Ley Orgánica que en este momento la rige, en cuanto no contravenga lo dispuesto en el presente decreto, así como las determinaciones que sobre el particular emita la presidencia de este organismos.
+Hasta en tanto entre en vigor la ley a que se refiere el párrafo que antecede, la Comisión de Derechos Humanos del Estado de Coahuila, para su organización y funcionamiento continuará aplicando las disposiciones de la Ley Orgánica que en este momento la rige, en cuanto no contravengan lo dispuesto en el presente decreto, así como las determinaciones que sobre el particular emita la presidencia de este organismo.
 
-CUARTO. Se derogan las disposiciones que se opongan a este decreto.
+CUARTO. Se derogan todas las disposiciones que se opongan a este decreto.
 
 P.O. 29 DE AGOSTO DE 2006.
 
@@ -4308,7 +4308,7 @@ P.O. 25 DE MAYO DE 2007.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- En un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto, se presentará ante el Congreso Local, las reformas a los ordenamientos aplicables, a efecto de hacer efectiva la aplicación de lo dispuesto en el presente Decreto.
+SEGUNDO.- En un plazo de cuarenta y cinco días hábiles contados a partir de la entrada en vigor del presente Decreto, se presentarán ante el Congreso Local, las reformas a los ordenamientos aplicables, a efecto de hacer efectiva la aplicación de lo dispuesto en el presente Decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -4422,7 +4422,7 @@ X. No haber sido Secretario o Subsecretario en la Administración Pública Feder
 
 Los aspirantes que hayan acreditado los requisitos legales, deberán sujetarse a una comparecencia en los días y horas señalados por el Congreso del Estado, que en todo momento coordinará y vigilará lo relativo al procedimiento.
 
-Concluido el periodo de audiencias, los grupos parlamentarios de los diferentes partidos representados en el Congreso del Estado, podrán formular sus propuestas del listado de aquellos aspirantes que hayan cumplido con cada uno de los requisitos establecidos en las fracciones anteriores, o, en su caso, las presentarán ante una Comisión plural del Congreso del Estado.
+Concluido el período de audiencias, los grupos parlamentarios de los diferentes partidos representados en el Congreso del Estado, podrán formular sus propuestas del listado de aquellos aspirantes que hayan cumplido con cada uno de los requisitos establecidos en las fracciones anteriores, o, en su caso, las presentarán ante una Comisión plural del Congreso del Estado.
 
 La Comisión plural realizará el dictamen correspondiente y lo presentará al Pleno del Congreso del Estado para su discusión y en su caso aprobación.
 
@@ -4517,3 +4517,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO QUINTO.
 
 LA BASE 4 DEL ARTÍCULO 27 DEL PRESENTE DECRETO, RELATIVA AL DERECHO DE LOS CIUDADANOS COAHUILENSES A SER VOTADOS EN LAS ELECCIONES ESTATALES DE MANERA INDEPENDIENTE, SÓLO SERÁ APLICABLE A PARTIR DEL AÑO 2017, EN CASO DE QUE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS LO PERMITA Y SE REGLAMENTE EL ACCESO A TIEMPOS DE RADIO Y TELEVISIÓN PARA DICHAS CANDIDATURAS.
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las referencias que cualquier ordenamiento haga a la Secretaría de Finanzas del Estado, se entenderán hechas a la Tesorería General del Estado, y las que se hagan al Secretario de Finanzas se entenderán al Tesorero General del Estado.
+
+TERCERO.- A partir de la entrada en vigor de este Decreto, las atribuciones relacionadas con la planeación financiera del Gobierno del Estado y coordinación correspondiente a las entidades paraestatales; el conocimiento e integración de las propuestas de gasto e inversión que formulen las Dependencias y Entidades de la administración pública estatal; la presentación al Ejecutivo del Estado para su aprobación de los programas de inversión pública y autorización de los proyectos derivados de los mismos; la autorización de los montos globales de inversión pública del estado; la programación y operación de recursos destinados a los programas de inversión pública de las dependencias del Ejecutivo, de sus organismos auxiliares y de las entidades paraestatales; el establecimiento y operación del sistema de seguimiento de los programas federales y estatales de inversión, conforme a las leyes y acuerdos de coordinación; y la representación del Ejecutivo en la celebración de negociaciones y convenios que involucren transferencias de fondos, ante la federación, los estados y entidades u organismos de los sectores paraestatal y privado, serán ejercidas por el Servicio de Administración Tributaria del Estado de Coahuila.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
