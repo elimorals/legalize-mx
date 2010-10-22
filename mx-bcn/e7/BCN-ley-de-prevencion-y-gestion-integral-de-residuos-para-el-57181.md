@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-y-gestion-integral-de-residuos-para-el-57181"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-28"
-last_updated: "2007-09-28"
+last_updated: "2010-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCION Y GESTION INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2007.
 
@@ -61,19 +61,57 @@ Asimismo la Ley del Procedimiento para los Actos de la Administración Pública 
 
 Para los efectos de la presente Ley, son aplicables las definiciones contenidas en la Ley General para la Prevención y Gestión Integral de los Residuos, Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley de Protección al Ambiente para el Estado de Baja California y las normas oficiales mexicanas, así como las siguientes:
 
-I.- Composteo: Tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-II.- Ley General: Ley General para la Prevención y Gestión Integral de los Residuos;
+l. Centro de acopio: Instalación para almacenar temporalmente y de manera ambientalmente adecuada, uno o varios tipos de residuos de manejo especial, provenientes de una o varias fuentes, para su posterior traslado a centros de reciclaje, tratamiento o disposición final;
 
-III.- Ley Ambiental: Ley de Protección al Ambiente para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-IV.- Programa Municipal: Programa Municipal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos;
+II. Composta: Producto del composteo que puede ser usado como mejorador de suelos o fertilizantes;
 
-V.- Programa Estatal: Programa Estatal para la Prevención y Gestión Integral de los Residuos de Manejo Especial;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-VI.- Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicionales, los impactos ambientales; y
+III. Composteo: Proceso de descomposición de la materia orgánica mediante la acción de microorganismos específicos;
 
-VII.- Secretaría: Secretaría de Protección al Ambiente del Estado de Baja California.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IV. Ley: Ley de Prevención y Gestión Integral de Residuos para el Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+V. Ley Ambiental: Ley de Protección al Ambiente para el Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VI. Ley General: Ley General para la Prevención y Gestión Integral de los Residuos;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VII. Manifiesto: Documento expedido por la Secretaría, a través del cual, tanto el generador como el prestador de servicios de manejo integral, de residuos de manejo especial, declaran en forma detallada los residuos que serán motivo de entrega, recepción, separación, reutilización, reciclaje, co-procesamiento, tratamiento, acopio, almacenamiento, transporte y disposición final, en los términos de esta Ley y su reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VIII. Prestador de servicios: Persona física o moral que presta los servicios de manejo integral de residuos, en cualquiera de sus etapas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IX. Programa Estatal: Programa Estatal para la Prevención y Gestión Integral de los Residuos de Manejo Especial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+X. Programa Municipal: Programa Municipal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XI. Relleno sanitario: Obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicional, los impactos ambientales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XII. Secretaría: Secretaría de Protección al Ambiente del Estado de Baja California, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIII. Subproducto: Producto secundario o incidental, generalmente útil y comercializable, derivado de un proceso de manufactura o reacción química.
 
 ### CAPÍTULO II. DISTRIBUCIÓN DE COMPETENCIAS
 
@@ -83,29 +121,81 @@ Corresponde al Ejecutivo, a través de la Secretaría, el ejercicio de las facul
 
 I. Coordinar esfuerzos para que las distintas políticas sectoriales incorporen la consideración a la prevención y manejo sustentable de los residuos en las distintas actividades sociales y productivas;
 
-II. Establecer medidas de control, medidas correctivas y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y disposiciones que de ella emanen, así como para la imposición de las sanciones que correspondan;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+II. Establecer medidas de control, medidas correctivas y de seguridad para garantizar el cumplimiento y la aplicación de esta Ley y disposiciones que de ella emanen, así como para la imposición de las sanciones que correspondan, por las infracciones a esta Ley y su reglamento;
 
 III. Incorporar en los planes y programas de ordenamiento territorial, ordenamiento ecológico y desarrollo urbano, la consideración al establecimiento de la infraestructura indispensable para la gestión integral de los residuos;
 
-IV. Verificar el cumplimiento de la normatividad en las materias de su competencia e imponer las medidas correctivas, de seguridad y sanciones que corresponda;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-V. Requerir a las autoridades municipales correspondientes sobre los residuos urbanos y a los grandes generadores de residuos de la entidad, la presentación de la información necesaria para la elaboración de los diagnósticos básicos integrales que sustentarán la gestión de los mismos;
+IV. Realizar visitas de inspección para verificar el cumplimiento de los preceptos de esta Ley, sus reglamentos, Normas Oficiales Mexicanas, Normas Ambientales Estatales y las condicionantes impuestas en las licencias o autorizaciones que se otorguen;
 
-VI. Formular e instrumentar un programa con enfoque regional e intermunicipal para detener la creación y proceder al cierre de tiraderos de residuos a cielo abierto en todo el Estado;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-VII. Proponer, en los términos de la Ley Ambiental, el establecimiento de normas ambientales estatales, para el funcionamiento de los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento, reciclaje, confinamiento y disposición final de residuos de manejo especial, así como para evitar la contaminación del suelo, para evitar riesgos y daños a la salud pública y al ambiente;
+V. Requerir a las autoridades municipales competentes en el manejo de residuos sólidos urbanos y a los grandes generadores de residuos de la Entidad, la presentación de la información necesaria para la elaboración de los diagnósticos básicos integrales que sustentaran la gestión de los mismos;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VI. Formular e instrumentar un programa con enfoque regional e intermunicipal para prevenir la creación de tiraderos de residuos a cielo abierto en todo el Estado y proceder al cierre y remediación de los existentes; así como elaborar el inventario de sitios contaminados con residuos de manejo especial, conforme a lo previsto en el artículo 39 de la Ley General, esta Ley y su reglamento;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VII. Proponer, en los términos de la Ley Ambiental, el establecimiento de normas ambientales estatales, para el funcionamiento de los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento, reciclaje y confinamiento de residuos de manejo especial; así como para evitar la contaminación del suelo y riesgos y daños a la salud pública y al ambiente;
 
 VIII. Solicitar periódicamente a las autoridades federales competentes la información sobre el manejo y transporte de residuos peligrosos en el territorio del Estado de Baja California, con objeto de que las autoridades competentes respondan en caso de contingencias derivadas de su manejo y transporte para su inclusión en el Sistema de Información Ambiental;
 
-IX. Elaborar las normas ambientales estatales de las materias de su competencia previstas en esta Ley, con el objeto de establecer los requisitos, especificaciones, condiciones, parámetros o límites permisibles respecto a los residuos de manejo especial en las áreas de prevención, minimización, separación y recolección; establecimiento y operación de las plantas dedicadas a su valorización; cierre de los tiraderos controlados y no controlados, así como la remediación de los sitios en los que se encuentran ubicados;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-X. Integrar el padrón de generadores de residuos de manejo especial en la entidad;
+IX. Promover y, en su caso, elaborar normas ambientales estatales de las materias de su competencia previstas en esta Ley, con el objeto de establecer los requisitos, especificaciones, condiciones, parámetros o límites permisibles respecto a los residuos de manejo especial en las áreas de prevención, minimización, separación y recolección; establecimiento y operación de las plantas dedicadas a su valorización; cierre de tiraderos no controlados, así como la remediación de los sitios en los que se encuentran ubicados;
 
-XI. Identificar dentro de los residuos de su competencia, a aquellos que se encuentren sometidos a un plan de manejo especial; y publicar dicha relación en el Periódico Oficial del Estado y cualquier diario de circulación local;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-XII. Crear o autorizar la operación de centros de transferencia y de reciclaje de llantas o neumáticos de desecho; y
+X. Integrar el registro de generadores, prestadores de servicios y planes de manejo, de residuos de manejo especial;
 
-XIII.- Las demás que se establezcan en esta Ley y demás ordenamientos jurídicos aplicables, sin contravención a lo establecido por la Ley General.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XI. Autorizar los planes de manejo de los responsables de presentarlos en los términos de la Ley General y esta Ley;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XII. Identificar, dentro de los residuos de su competencia, a aquellos que deberán ser sometidos a un plan de manejo y publicar dicha relación en el Periódico Oficial del Estado y un diario de mayor circulación en la Entidad;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIII. Establecer y/o autorizar la operación de centros de acopio y de reciclaje de llantas o neumáticos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIV. Autorizar y regular la prestación de servicios que tengan por objeto el manejo integral de residuos de manejo especial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XV. Autorizar al generador de residuos de manejo especial que realice el manejo integral de sus residuos, ya sea dentro o fuera de sus instalaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XVI. Otorgar, revocar y, en su caso, negar los permisos o autorizaciones derivadas de la presente Ley; así como solicitar la cancelación o revocación del permiso o licencia a la autoridad otorgante, cuando esta sea distinta a la Secretaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XVII. Promover y celebrar convenios mediante los cuales se obtengan recursos materiales y económicos para la aplicación de acciones de protección y restauración de sitios contaminados con residuos, en el territorio del Estado, así como para la promoción y ejecución de proyectos que tengan como finalidad la disposición final de los residuos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XVIII. Promover ante las dependencias competentes el establecimiento y aplicación de instrumentos económicos, fiscales, financieros y de mercado, que tengan por objeto prevenir o evitar la generación de residuos, su valorización y su gestión integral y sustentable; así como, prevenir la contaminación de sitios por residuos y, en su caso, su remediación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIX. Elaborar e implementar entre los sujetos obligados, el sistema de manifiestos, a fin de llevar a cabo el seguimiento de la generación y formas de manejo de los residuos a lo largo de su ciclo de vida integral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XX. Suspender proyectos, obras y actividades por no contar con la licencia, permiso o autorización correspondiente, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XXI. Las demás que se establezcan en esta Ley y demás ordenamientos jurídicos aplicables, sin contravención a lo establecido por la Ley General.
 
 ###### Artículo 6.
 
@@ -115,27 +205,39 @@ I. Promover el establecimiento de programas de minimización y gestión integral
 
 II. Fomentar en coordinación con la Secretaría el desarrollo de mercados para el reciclaje de residuos sólidos urbanos;
 
-III. Determinar los costos de las distintas etapas de la operación de los servicios de limpia y definir los mecanismos a través de los cuales se establecerá el sistema de cobro y tarifas correspondientes;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+III. Determinar los costos operativos de las distintas etapas de los servicios de limpia y definir los mecanismos a través de los cuales se establecerá el sistema de cobro y tarifas correspondientes;
 
 IV. Organizar e implantar los esquemas administrativos requeridos para recabar el pago por los servicios de recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos, y la aplicación de los recursos resultantes al fortalecimiento de los sistemas de limpia, así como hacerlos del conocimiento público;
 
 V. Definir los criterios generales de carácter obligatorio para la prestación del servicio de limpia y aseo público de su competencia, con base en el Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos que corresponda, y aplicar los instrumentos de política previstos en la presente Ley;
 
-VI. Realizar controles sobre las concesiones para garantizar la competencia, transparencia y evitar monopolios;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VI. Establecer controles legales en el otorgamiento de concesiones en materia de residuos sólidos urbanos, a fin de garantizar la competencia, transparencia y evitar monopolios;
 
 VII. Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia;
 
 VIII. Conservar y dar mantenimiento al equipamiento e infraestructura urbana de su competencia y de todos aquellos elementos que determinen el funcionamiento e imagen urbana relacionados con la prestación del servicio de limpia;
 
-IX. Registrar y, en su caso autorizar, las obras y actividades relacionadas con la instalación y operación de sitios e infraestructura y traslado de residuos sólidos;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IX. Registrar y, en su caso, autorizar las obras y actividades relacionadas con la instalación y operación de sitios e infraestructura y traslado de residuos sólidos urbanos;
 
 X. Establecer convenios con las autoridades Estatales y Federales competentes para llevar a cabo el control de los residuos peligrosos generados a nivel domiciliario y por los establecimientos microgeneradores de este tipo de residuos;
 
 XI. Realizar las actividades de inspección y vigilancia para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia y, en su caso, imponer las sanciones que corresponda;
 
-XII.- Identificar dentro de los residuos de su competencia, a aquéllos que se encuentren sometidos a un plan de manejo especial; y publicar dicha relación en el Periódico Oficial del Estado y en cualquier diario de circulación local; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-XIII.- Crear o autorizar la operación de centros de transferencia y de reciclaje de llantas o neumáticos de desecho.
+XII. Identificar, dentro de los residuos de su competencia, aquéllos que deben estar sometidos a un plan de manejo y publicar dicha relación en el Periódico Oficial del Estado y en cualquier diario de circulación local, así como integrar su propio registro de planes de manejo de residuos sólidos urbanos;
+
+XIII. (DEROGADA, P.O. 22 DE OCTUBRE DE 2010)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIV. Elaborar el inventario de sitios contaminados con residuos sólidos urbanos.
 
 ## TÍTULO SEGUNDO. INSTRUMENTOS DE LA POLÍTICA DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS
 
@@ -157,7 +259,9 @@ IV. La prevención de la generación de residuos demanda cambios en los insumos,
 
 V. El reciclaje de los residuos depende de los materiales que los componen, de la situación de los mercados respectivos, de los precios de los materiales primarios con los que compiten los materiales reciclados o secundarios, la percepción de la calidad de los productos reciclados por parte de los consumidores y de otra serie de factores que requieren ser tomados en cuenta al establecer programas de reciclaje;
 
-VI. Las distintas formas de manejo de los residuos pueden conllevar riesgos de liberación de contaminantes al ambiente a través de emisiones al aire, descargas al agua o generación de otro tipo de residuos, que es preciso prevenir y controlar;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VI. Las distintas formas de manejo de los residuos pueden conllevar riesgos de liberación de contaminantes al ambiente a través de emisiones a la atmósfera, descargas a cuerpos receptores de competencia estatal y/o al suelo o generación de otro tipo de residuos, que es preciso prevenir y controlar;
 
 VII. La armonización y vinculación de las políticas de ordenamiento territorial y ecológico con la de residuos, así como la identificación de áreas apropiadas para la ubicación de infraestructura para su manejo sustentable;
 
@@ -203,17 +307,83 @@ III. La eficiencia administrativa, a través del consumo racional y sustentable 
 
 Asimismo, promoverán que en sus procesos de adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se opte por la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables.
 
-### CAPÍTULO I. DE LAS OBLIGACIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO IV. DE LOS PLANES DE MANEJO
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 9 BIS.- Los planes de manejo de residuos de manejo especial serán evaluados y aprobados por la Secretaría y en el caso de residuos sólidos urbanos, por los Municipios.
+
+En el Estado, serán responsables de su elaboración y presentación a la autoridad competente, los sujetos referidos en la fracción III del artículo 28 de la Ley General.
+
+Su contenido se sujetará a lo previsto en esta Ley, la Ley General, Normas Oficiales Mexicanas en la materia y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 9 BIS 1.- La Secretaría y los Municipios, en sus respectivos ámbitos de competencia, podrán promover el desarrollo de proyectos, estudios y diagnósticos para identificar las necesidades a satisfacer, en la instrumentación de planes de manejo sobre residuos de manejo especial y residuos sólidos urbanos, según corresponda, antes de proponer a la Federación la inclusión de otros residuos en los listados de residuos sujetos a planes de manejo.
+
+La Secretaría y las autoridades municipales, de acuerdo con sus respectivas competencias, basadas en el principio de responsabilidad compartida, facilitarán la instrumentación de los planes de manejo a los responsables de implementarlos.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 9 BIS 2.- De conformidad con lo que establece la Ley General, los residuos peligrosos que se generen en los domicilios, en oficinas públicas y privadas en cantidades iguales o menores a las que generan los microgeneradores, deberán ser manejados de acuerdo con los programas y planes de manejo según lo dispuesto en esta Ley.
+
+Lo anterior también resulta aplicable a los residuos de manejo especial en cantidades menores a 400 kilogramos generados en oficinas públicas y privadas.
+
+La Secretaría y los Municipios, en coordinación con la Federación, promoverán acciones tendientes a dar a conocer a los generadores de los residuos a que se refiere este precepto, la manera de llevar a cabo un manejo integral de éstos.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 9 BIS 3.- En caso de que los planes de manejo presentados ante la Secretaría y las autoridades municipales competentes, para su aprobación, planteen formas de manejo contrarias a lo previsto en esta Ley y a la Ley General, el plan de manejo no deberá aplicarse.
+
+Los planes de manejo podrán establecer formas o mecanismos alternativos a los establecidos en las disposiciones jurídicas aplicables, para lograr los objetivos que éstas persiguen de manera más fácil, viable, efectiva y eventualmente menos costosa.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 9 BIS 4.- Los obligados a presentar planes de manejo, deberán integrar una propuesta para sustentar el desarrollo de cada uno de ellos, la cual se entregará a la Secretaría en el formato que ésta determine y a la autoridad municipal competente, para su validación; en ella se asentará lo siguiente:
+
+l. Nombre, denominación o razón social de quien presente la propuesta, representante legal en su caso, nombre de la persona autorizada para recibir notificaciones, autoridad a quien se dirige, lugar y fecha de elaboración. La propuesta deberá estar firmada por el interesado o su representante legal;
+
+II. Ubicación e infraestructura del almacén de sus residuos generados en su actividad o proceso, los cuales deberán estar señalados y acreditados;
+
+III. Materias primas, productos, subproductos o residuos que sean utilizados y generados dentro de la actividad o proceso, especificándolos cualitativa y cuantitativamente;
+
+IV. Residuos generados que serán objeto de los planes de manejo;
+
+V. Procedimientos, métodos, técnicas e infraestructura con los cuales cuenta y emplearán en el manejo integral de sus residuos;
+
+VI. Los prestadores de servicios autorizados y registrados que se ocuparán del manejo integral de los residuos sujetos a los planes de manejo, en cualquiera de sus etapas;
+
+VII. Cronograma, en el cual se enuncien las principales actividades con su respectiva fecha de implementación, así como la periodicidad para la evaluación y entrega de actualizaciones a las autoridades competentes;
+
+VIII. Responsables de la implementación y seguimiento de los planes de manejo correspondientes;
+
+IX. Precisar la información de valor comercial, misma que tendrá el carácter de reservada en términos de la Ley de Acceso a la Información Pública para el Estado;
+
+X. Indicadores para evaluar el desempeño del plan de manejo, y
+
+XI. Los demás requisitos a que refiera el reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 9 BIS 5.- Los planes de manejo serán presentados a la Secretaría o a las autoridades municipales competentes, por los particulares a los que hace referencia el artículo 9 bis de esta Ley, dichas autoridades contarán con un plazo de 60 días hábiles, a partir de su recepción, para que realicen comentarios u observaciones sobre su contenido, pudiendo solicitar en cualquier momento información adicional y verificar la veracidad de lo manifestado.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES DE LOS GENERADORES DE RESIDUOS
 
-### CAPÍTULO II. DE LAS OBLIGACIONES EN LO PARTICULAR
+### CAPÍTULO I. DE LAS OBLIGACIONES GENERALES
 
 ###### Artículo 10.
 
 Los generadores de residuos sólidos urbanos y de manejo especial tienen responsabilidad del residuo en todo su ciclo de vida, incluyendo dentro de éste su manejo, recolección, acopio, transporte, reciclaje, tratamiento o disposición final, de conformidad con lo establecido en esta Ley y demás ordenamientos aplicables.
 
 Una vez que los residuos sólidos urbanos o de manejo especial han sido transferidos a los servicios públicos o privados de limpia, o a empresas registradas y autorizadas por las autoridades estatales o municipales competentes para dar servicios a terceros relacionados con su recolección, acopio, transporte, reciclaje, tratamiento, segregación, aprovechamiento o disposición final, la responsabilidad de su manejo ambientalmente adecuado y de conformidad con las disposiciones de esta Ley y otros ordenamientos aplicables, se transferirá a éstos, según corresponda, independientemente de la que corresponda al generador.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Los generadores de residuos sólidos urbanos o de manejo especial, que transfieran sus residuos a una empresa o gestor que preste el servicio de manejo y el de disposición final de residuos, deberán cerciorarse o corroborar ante la autoridad competente, que cuentan con las autorizaciones respectivas y vigentes, en caso contrario, serán responsables solidarios de los daños al ambiente y la salud que pudiere causar dicha empresa por el manejo inadecuado de sus residuos y a las sanciones que resulten aplicables de conformidad con éste y otros ordenamientos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
 
 Los residuos sólidos urbanos y de manejo especial que sean usados, tratados o reciclados, en un proceso distinto al que los generó, dentro del mismo predio, serán sujetos a un control interno por parte del generador, de acuerdo con las formalidades que establezca el reglamento de la presente Ley y los reglamentos municipales.
 
@@ -223,7 +393,9 @@ Es obligación de todo generador de residuos sólidos urbanos o de manejo especi
 
 I. Participar en los planes y programas que establezcan las autoridades competentes para facilitar la prevención y reducción de la generación de residuos sólidos;
 
-II. Separar los residuos sólidos urbanos y de manejo especial y entregarlos para su recolección conforme a las disposiciones que esta Ley y otros ordenamientos establecen;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+II. Separar los residuos sólidos urbanos y de manejo especial, incorporando para tal efecto, contenedores para el depósito correspondiente de los mismos, así como entregarlos para su recolección conforme a las disposiciones que esta Ley y otros ordenamientos establecen;
 
 III. Pagar oportunamente por el servicio de limpia, tratándose de residuos sólidos urbanos, o bien, por el de manejo integral, tratándose de éstos o de los residuos de manejo especial, así como las multas y demás cargos impuestos por violaciones a la presente Ley y demás ordenamientos jurídicos aplicables;
 
@@ -235,9 +407,11 @@ VI. Hacer del conocimiento de las autoridades competentes las infracciones que s
 
 VII. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE OCTUBRE DE 2010)</small>
+
 Quienes se dediquen a la actividad de revulcanización, aprovechamiento o comercialización de llantas o neumáticos, deberán disponer las llantas de desecho que generen, en los centros de transferencia o reciclaje autorizados.
 
-### CAPÍTULO III. DE LAS PROHIBICIONES
+### CAPÍTULO II. DE LAS OBLIGACIONES EN LO PARTICULAR
 
 ###### Artículo 12.
 
@@ -245,77 +419,275 @@ Los grandes generadores de residuos de manejo especial se encuentran obligados a
 
 I. Registrarse ante la autoridad estatal competente;
 
-II. Establecer planes de manejo para los residuos que generen y someterlos a registro ante las autoridades competentes, en caso de que requieran ser modificados o actualizados;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-III. Llevar bitácora anual en la que registren el volumen y tipo de residuos generados anualmente, la forma de manejo a la que fueron sometidos;
+II. Establecer planes de manejo para los residuos que generen y someterlos a evaluación ante las autoridades competentes y en caso de que requieran ser modificados o actualizados, deberá notificarlo también de manera inmediata;
 
-IV. Conservar durante dos años la bitácora que se menciona en la fracción anterior y tenerla disponible para entregarla a la Secretaría cuando ésta así lo requiera;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+III. Presentar un reporte anual en el que se registre el volumen y tipo de residuos generados, las condiciones particulares de manejo a las que fueron sometidos y demás elementos que sean establecidos en el reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IV. Conservar el reporte, que se menciona en la fracción anterior, por el tiempo que se determine en el reglamento de esta Ley;
 
 V. Ocuparse del acopio, almacenamiento, recolección, transporte, reciclaje, tratamiento o disposición final de sus residuos generados en grandes volúmenes o de manejo especial, de conformidad con las disposiciones de esta Ley y otros ordenamientos que resulten aplicables o entregarlos a los servicios de limpia o a proveedores de estos servicios que estén registrados ante las autoridades competentes, cubriendo los costos que su manejo represente;
 
-VI.- Dar a los residuos el manejo, almacenamiento, transporte, tratamiento, reutilización, reciclaje y disposición final de acuerdo en lo previsto en las disposiciones legales aplicables;
+VI. Dar a los residuos el manejo, almacenamiento, transporte, tratamiento, reutilización, reciclaje y disposición final de acuerdo en lo previsto en las disposiciones legales aplicables;
 
-VII.- En su caso, dar cumplimiento a la normatividad relativa a la identificación, clasificación, envase y etiquetado de los residuos;
+VII. En su caso, dar cumplimiento a la normatividad relativa a la identificación, clasificación, envase y etiquetado de los residuos;
 
-VIII.- Proporcionar información fidedigna con relación a la generación y manejo integral de residuos;
+VIII. Proporcionar información fidedigna con relación a la generación y manejo integral de residuos;
 
-IX.- Dar aviso a la autoridad competente en caso de emergencias, accidentes, robo o pérdida de residuos, tratándose de su generador o gestor;
+IX. Dar aviso a la autoridad competente en caso de emergencias, accidentes, robo o pérdida de residuos, tratándose de su generador o gestor;
 
-X.- Contar con procedimientos de seguridad para la prevención en contingencias ambientales y emergencias ecológicas; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-XI. Las demás que establezcan los ordenamientos jurídicos aplicables.
+X. Contar con procedimientos y equipos de seguridad para la prevención en contingencias ambientales y emergencias ecológicas;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XI. Utilizar el sistema de manifiestos que expida la Secretaría, a fin de llevar a cabo el seguimiento de la generación y formas de manejo de los residuos a lo largo de su ciclo de vida integral, en los términos de esta Ley y su reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XII. Trasladar o transportar los residuos de manejo especial que genere a través de prestadores del servicio de transporte autorizados por la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIII. Identificar, segregar, envasar o empacar y etiquetar los residuos de manejo especial, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIV. Las demás que establezcan el reglamento y los ordenamientos jurídicos aplicables.
 
 ###### Artículo 13.
 
 Para el cumplimiento de esta Ley, las obligaciones de los pequeños generadores de residuos de manejo especial son las siguientes:
 
-I.- Registrarse ante la Secretaría y entregar un reporte anual en el formato que esta dependencia establezca;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-II.- Llevar una bitácora de generación de residuos;
+l. Registrarse ante la Secretaría;
 
-III.- En caso de ser necesario, llevar a cabo un Plan de Manejo, mismo que deberá cumplir con la legislación vigente, conteniendo entre otros puntos los registros del volumen y tipo de residuos generados anualmente y su forma de manejo;
+II. (DEROGADA, P.O. 22 DE OCTUBRE DE 2010)
 
-IV.- Dar a los residuos el manejo, almacenamiento, transporte, tratamiento, reutilización, reciclaje y disposición final de acuerdo en lo previsto en las disposiciones legales aplicables;
+III. En caso de ser necesario, llevar a cabo un Plan de Manejo, mismo que deberá cumplir con la legislación vigente, conteniendo entre otros puntos los registros del volumen y tipo de residuos generados anualmente y su forma de manejo;
 
-V.- En su caso, dar cumplimiento a la normatividad relativa a la identificación, clasificación, envase y etiquetado de los residuos;
+IV. Dar a los residuos el manejo, almacenamiento, transporte, tratamiento, reutilización, reciclaje y disposición final de acuerdo en lo previsto en las disposiciones legales aplicables;
 
-VI.- Proporcionar información fidedigna con relación a la generación y manejo integral de residuos;
+V. En su caso, dar cumplimiento a la normatividad relativa a la identificación, clasificación, envase y etiquetado de los residuos;
 
-VII.- Dar aviso a la autoridad competente en caso de emergencias, accidentes, robo o pérdida de residuos, tratándose de su generador o gestor;
+VI. Proporcionar información fidedigna con relación a la generación y manejo integral de residuos;
 
-VIII.- Contar con procedimientos de seguridad para la prevención de contingencias ambientales y emergencias ecológicas; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-IX.- Todas aquellas condiciones legales que se consideren convenientes para un buen cumplimiento en esta materia.
+VII. Dar aviso a la autoridad competente en caso de emergencias, accidentes, robo o pérdida de residuos;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VIII. Contar con procedimientos y equipos de seguridad para la prevención de contingencias ambientales y emergencias ecológicas;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IX. Utilizar el sistema de manifiestos que expida la Secretaría, a fin de llevar a cabo el seguimiento de la generación y formas de manejo de los residuos a lo largo de su ciclo de vida integral, en los términos de esta Ley y su reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+X. Conservar los manifiestos a que se refiere la fracción anterior, por el tiempo que se determine en el reglamento de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XI. Trasladar o transportar los residuos de manejo especial que genere a través de prestadores del servicio de transporte autorizados por la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XII. Identificar, segregar, envasar o empacar y etiquetar los residuos de manejo especial, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIII. Todas aquellas condiciones legales que se consideren convenientes para un buen cumplimiento en esta materia.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 13 BIS.- Quienes se dediquen a la actividad de vulcanización, revulcanización, aprovechamiento o comercialización de llantas o neumáticos nuevos o usados, tendrán las siguientes obligaciones:
+
+l. Registrarse ante la Secretaría como generadores;
+
+II. Presentar a la Secretaría un reporte semestral en el cual se registre el volumen relativo a las llantas y/o neumáticos nuevos o usados que vulcanicen, revulcanicen, aprovechen, comercialicen, así como de los que se han dispuesto en los centros de acopio; así como, las condiciones particulares de manejo a las que fueron sometidos y demás elementos que sean establecidos en el reglamento de esta Ley;
+
+III. Disponer las llantas o neumáticos de desecho que generen con motivo de su actividad, en los centros de acopio temporal, de reciclaje o de disposición final que autorice la Secretaría;
+
+IV. Proporcionar información fidedigna con relación al manejo integral de las llantas o neumáticos de desecho;
+
+V. Contar con un área o almacén para depositar temporalmente las llantas o neumáticos de desecho, en tanto se transfieran a los sitios autorizados por la Secretaría y mantener dicho residuo en contenedores que cuenten con sistemas de seguridad necesarias para la prevención de contingencias ambientales.
+
+Para los efectos de esta fracción, la capacidad máxima de almacenamiento del área o almacén, será establecida en el reglamento de esta Ley;
+
+VI. Dar aviso a la autoridad competente en caso de emergencias, accidentes, robo o pérdida de las llantas o neumáticos que tenga bajo su custodia;
+
+VII. Utilizar el sistema de manifiestos que expida la Secretaría, a fin de llevar a cabo el seguimiento de la generación y formas de manejo de los neumáticos o llantas que vulcanice, revulcanice, aproveche o comercialice, en los términos de esta Ley y su reglamento;
+
+VIII. Conservar los manifiestos a que se refiere la fracción anterior, por el tiempo que se determine en el reglamento de esta Ley;
+
+IX. Cubrir los derechos y/o demás contribuciones establecidos en la normatividad ambiental y fiscal;
+
+X. Contar con autorización de la Dirección de Bomberos y Protección Civil, respecto a las medidas necesarias para la prevención de contingencias ambientales;
+
+XI. Implementar mecanismos para el control de la fauna nociva y evitar su proliferación por el almacenamiento temporal de las llantas de desecho;
+
+XII. Contar con un plan de remediación del predio del establecimiento para el caso de suspensión, abandono o cambio de domicilio;
+
+XIII. Realizar el almacenamiento temporal de las llantas de desecho exclusivamente dentro del predio del establecimiento comercial, quedando estrictamente prohibido utilizar la vía pública, y
+
+XIV. Las demás que establezca el reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 13 BIS 1.- Quien pretenda importar llantas o neumáticos nuevos o usados, además de las obligaciones establecidas en el artículo anterior, deberá cumplir con lo siguiente:
+
+l. Acreditar anualmente el manejo integral de la totalidad de las llantas o neumáticos establecidos en el permiso de importación otorgado por la autoridad federal competente, con los recibos expedidos por los centros de acopio, de reciclaje o disposición final;
+
+II. Obtener su constancia anual de no adeudo cuando acredite el manejo integral de la totalidad de las llantas o neumáticos establecidos en el permiso de importación otorgado por la autoridad federal competente.
+
+Dicha constancia se otorgará en volumen equivalente al que acrediten que han depositado en los centros de acopio, de reciclaje o disposición final, y
+
+III. Las demás que prevea el reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 13 BIS 2.- Los responsables de instalar y operar un sistema de tratamiento de aguas residuales, de conformidad con la normatividad aplicable, están obligados a:
+
+l. Disponer debidamente los biosólidos o lodos, generados en los sistemas de tratamiento, en sitios autorizados por la Secretaría, los cuales deberán cumplir con las Normas Oficiales Mexicanas.
+
+Para los efectos de esta fracción, el responsable deberá exhibir los estudios técnicos y análisis fisicoquímicos que acrediten que los biosólidos o lodos no tienen características de peligrosidad de conformidad con la Ley General;
+
+II. No depositar o verter los biosólidos o lodos en el sistema de drenaje y alcantarillado público, suelo o cualquier cuerpo receptor de competencia estatal, y
+
+III. Las demás que se establezcan en la presente Ley y el respectivo reglamento.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 13 BIS 3.- Las personas físicas o morales que generen aceites y grasas residuales, de tipo comestible, están obligados a:
+
+l. Abstenerse de verter o depositar aceites comestibles usados al sistema de alcantarillado público;
+
+II. Depositarlos en contenedores de almacenamiento temporal para su disposición final, por el tiempo que se determine en el reglamento, atendiendo al tipo de residuo, volumen y demás criterios técnicos pertinentes que aseguren un manejo integral;
+
+III. Evitar su vertimiento al suelo, y
+
+IV. Las demás que establezca el reglamento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 14.
 
-Los prestadores del servicio de manejo integral de residuos de manejo especial, se encuentran obligados a:
+Los prestadores de servicios de residuos de manejo especial, se encuentran obligados a:
 
-I.- Contar con la autorización respectiva de acuerdo a lo dispuesto en la Ley Ambiental;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-II.- Presentar un reporte anual en los formatos autorizados por la Secretaría;
+I. Contar con autorización en materia de impacto ambiental;
 
-III.- Proporcionar información fidedigna con relación a la recolección, recepción y manejo integral de residuos;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-IV.- Dar aviso a la autoridad competente en caso de emergencias, accidentes, robo o pérdida de residuos, tratándose de su generador o gestor;
+II. Presentar un reporte anual en el que se registre el volumen y tipo de residuos, las condiciones particulares de manejo a las que fueron sometidos y demás elementos que sean establecidos en el reglamento de esta Ley;
 
-V.- Contar en su caso con garantías financieras para asegurar que al cierre de las operaciones en sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo a la salud humana y al ambiente;
+III. Proporcionar información fidedigna con relación a la recolección, recepción y manejo integral de residuos;
 
-VI.- Contar con procedimientos de seguridad para la prevención en contingencias ambientales y emergencias ecológicas; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-VII.- Todas las que determinen las leyes y ordenamientos vigentes.
+IV. Dar aviso a la autoridad competente en caso de emergencias, accidentes, robo o pérdida de residuos que tenga bajo su custodia;
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+V. Contar en su caso con garantías financieras, así como renovarlas, para asegurar que al cierre de las operaciones en sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo a la salud humana y al ambiente.
+
+El monto de las garantías las fijará la Secretaría de acuerdo con el volumen y características de los residuos cuyo manejo ha sido autorizado, así como la estimación de los costos que pueden derivar de la reparación del daño provocado en caso de accidente o de contaminación de los sitios, que se puedan ocasionar por el manejo de dichos residuos, en los términos previstos en el reglamento.
+
+En el caso de la prestación de servicios de confinamiento, la responsabilidad del prestador de servicios se extiende por el término de 20 años posteriores al cierre de sus operaciones.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VI. Contar con procedimientos y equipos de seguridad para la prevención en contingencias ambientales y emergencias ecológicas;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VII. Obtener la autorización como prestador de servicios de residuos de manejo especial, de acuerdo a la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VIII. Contar con personal capacitado y actualizado en el manejo de residuos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IX. Cumplir las condiciones de carácter técnico que por la naturaleza del servicio le sean exigibles por la Secretaría y que forman parte de la autorización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+X. Evitar la contaminación del suelo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XI. Proporcionar a la Secretaría el listado de empresas a las cuales prestan su servicio, conteniendo como mínimo, la razón social, responsable del manejo del residuo, dirección y teléfono de la empresa, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XII. Todas las que determinen las leyes y ordenamientos legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+La responsabilidad de los prestadores de servicios a terceros de residuos de manejo especial inicia desde el momento en que le sean entregados los residuos por el generador, por lo cual, deberán revisar que tales residuos se encuentren debidamente identificados, clasificados, etiquetados o marcados y envasados. Terminará cuando entreguen los residuos al destinatario de la siguiente etapa de manejo y éste suscriba el manifiesto de recepción correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+La información que contengan los manifiestos se expresará bajo protesta de decir verdad por parte del generador y de los prestadores de servicios que intervengan en cada una de las etapas de manejo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Cuando la información contenida en el manifiesto resulte falsa o inexacta y con ello se ocasione un manejo inadecuado que cause daño al medio ambiente o afecte la seguridad de las personas, corresponderá a quien proporcionó dicha información, responder por los daños ocasionados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+En el caso de las empresas autorizadas por la Secretaría para reutilizar, reciclar o dar tratamiento a los residuos de manejo especial, su responsabilidad concluye en el momento en que terminen sus respectivos procesos y los residuos sean transformados en productos.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 14 BIS.- Los prestadores del servicio de transporte de residuos de manejo especial, además de las obligaciones establecidas en el artículo anterior, se encuentran obligados a:
+
+I. Obtener su registro como prestador del servicio de transporte de residuos de manejo especial ante la Secretaría;
+
+II. Utilizar el sistema de manifiestos que expida la Secretaría, a fin de llevar a cabo el seguimiento de la generación y formas de manejo de los residuos a lo largo de su ciclo de vida integral, en los términos de esta Ley y su reglamento;
+
+III. Conservar los manifiestos, referidos en la fracción anterior, por el tiempo que se determine en el reglamento de esta Ley;
+
+IV. Contar con la infraestructura y equipo necesario para prestar el servicio de manejo integral de residuos de manejo especial;
+
+V. Proporcionar información fidedigna del manejo integral de residuos de manejo especial, y
+
+VI. Las demás que establezca el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 14 BIS 1.- Los prestadores de servicios que se dediquen a la reutilización o reciclaje de residuos, además de estar obligados a lo establecido en el artículo 14 de la presente Ley, deberán cumplir con lo siguiente:
+
+l. Ubicarse en zonas de usos de suelo industrial o en lugares que cumplan con los criterios de desarrollo urbano, y
+
+II. Las que determine el reglamento de la presente Ley.
+
+### CAPÍTULO III. DE LAS PROHIBICIONES
 
 ###### Artículo 15.
 
 Queda prohibido por cualquier motivo:
 
-I. Depositar residuos sólidos urbanos o de manejo especial en lugares no autorizados o aprobados por las autoridades competentes;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+l. Depositar residuos sólidos urbanos o de manejo especial en lugares no autorizados por las autoridades competentes;
 
 II. Colocar propaganda comercial o política en el equipamiento urbano destinado a la recolección de residuos sólidos urbanos o de manejo especial, atendiendo las salvedades de la Ley de Instituciones y Procedimientos Electorales en la materia;
 
-III. Extraer y clasificar cualquier residuo sólido urbano o de manejo especial de cualquier sitio de disposición final, así como realizar labores de pepena fuera y dentro de dichos sitios;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+III. Realizar labores de pepena dentro de los sitios de disposición final autorizados por la autoridad competente;
 
 IV. El fomento o creación de basureros clandestinos;
 
@@ -323,25 +695,105 @@ V. La dilución o mezcla de residuos sólidos urbanos o de manejo especial con l
 
 VI. La mezcla de residuos sólidos urbanos o de manejo especial con residuos peligrosos, contraviniendo lo dispuesto en la Ley General, esta Ley y demás ordenamientos que de ellas deriven, dicha mezcla se considerará residuo peligroso;
 
-VII. El confinamiento o depósito final de residuos en estado líquido o con contenidos líquidos o de materia orgánica que excedan los máximos permitidos por las normas oficiales mexicanas y normas ambientales estatales;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VII. El confinamiento y/o depósito final de residuos en estado líquido y/o con contenidos líquidos u orgánicos que excedan los máximos permitidos por las normas oficiales mexicanas; así como, en sitios no autorizados;
 
 VIII. La mezcla de residuos sólidos urbanos con los residuos de manejo especial en las actividades separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final; y
 
 IX. La contaminación del suelo;
 
-X.- La quema a cielo abierto de cualquier tipo de residuo. Permitiéndolo en las acciones de adiestramiento y capacitación de personal encargado del combate de incendios; cuando con esta medida se evite un riesgo mayor a la comunidad o los elementos naturales y medie recomendación de alguna autoridad de atención a emergencias; y en caso de quema agrícolas que no causen daño ecológico grave a la calidad del aire, y no represente un riesgo a la salud, ecosistemas y medie recomendación de alguna autoridad forestal, agraria o pecuaria;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+X. La quema a cielo abierto de residuos sólidos urbanos o de manejo especial;
 
 XI.- El depósito, infiltración o manejo de residuos que se acumulen o puedan acumularse en los suelos y que generen o puedan generar alteraciones nocivas en el proceso biológico de los suelos, así como las alteraciones en el suelo que perjudiquen su aprovechamiento, uso o explotación, o riesgos, inseguridad y problemas a la salud; y
 
-XII.- Las demás que se establezcan en la Ley General;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XII. Depositar, infiltrar o confinar residuos sólidos urbanos o de manejo especial en el sistema de drenaje y alcantarillado público, suelo o cualquier cuerpo receptor de competencia estatal, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+XIII. Las demás que se establezcan en la Ley General y demás ordenamiento legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
 
 Las violaciones a lo establecido en este artículo serán sancionadas de conformidad con las disposiciones establecidas en la presente Ley.
 
-### CAPÍTULO II. DE LAS PLANTAS DE SEPARACIÓN
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 15 BIS.- Sólo se permitirá la quema a cielo abierto de residuos, en los siguientes casos:
+
+l. Para acciones de adiestramiento y capacitación de personal encargado del combate de incendios;
+
+II. Cuando con esta medida se evite un riesgo mayor a la comunidad, a los elementos naturales y medie recomendación de alguna autoridad de atención a emergencias; y
+
+III. En caso de quemas de material orgánico agrícola, que no incluya plásticos o recipientes de uso agrícola, que no cause alteraciones graves a la calidad del aire, no represente un riesgo a la salud pública y a los ecosistemas.
+
+Para los efectos de esta fracción, la quema debe realizarse mediante recomendación de alguna autoridad forestal, agraria o pecuaria y deberá llevarse a cabo dentro de un horario en que la dispersión del aire sea favorable.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO IV. DE LAS AUTORIZACIONES
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 15 BIS 1.- La vigencia de las autorizaciones a que refiere esta Ley será como mínimo un año y máximo cinco años. El reglamento señalará los términos y condiciones de las autorizaciones a que refiere la presente Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 15 BIS 2.- Las autorizaciones podrán ser prorrogadas por periodos iguales al originalmente dado, siempre y cuando se cumplan las siguientes condiciones:
+
+l. Que la solicitud de prórroga se presente en el último año de vigencia de la autorización y hasta cuarenta y cinco días hábiles previos al vencimiento de la vigencia en mención;
+
+II. Que la actividad desarrollada por el solicitante sea igual a la originalmente autorizada;
+
+III. Que no hayan variado los residuos por los que fue otorgada la autorización original;
+
+IV. Que el solicitante sea el titular de la autorización;
+
+V. Que dicha actividad cumpla con las disposiciones técnicas y jurídicas ambientales aplicables, y
+
+VI. Que se haya cumplido con las condiciones establecidas en la autorización originalmente otorgada.
+
+La solicitud de prórroga se presentará por escrito a la Secretaría, o bien, a la autoridad municipal competente, quienes podrán verificar el cumplimiento del solicitante a las condiciones y términos establecidos en la autorización originalmente otorgada, en la presente Ley, su reglamento, Normas Oficiales Mexicanas y demás ordenamientos legales aplicables, a fin de resolver lo conducente.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 15 BIS 3.- Tratándose de cambios de denominación o razón social, fusión, cesión o transferencia de derechos, el promovente o autorizado, según sea el caso, deberá informar por escrito al respecto a la Secretaría o autoridad municipal competente, dentro de los 3 días hábiles siguientes a que acontezca tal circunstancia.
+
+El escrito deberá acompañarse de copia certificada del acta protocolizada ante fedatario público, en la que conste el cambio de denominación social, fusión, cesión o transferencia de derechos, y en su caso, instrumento jurídico mediante el cual se acredite la personalidad jurídica del representante legal del promovente o autorizado que acuda a informar al respecto.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 15 BIS 4.- La Secretaría o la autoridad municipal competente, podrán negar la autorización solicitada, cuando:
+
+l. Exista falsedad en la información presentada por el promovente;
+
+II. En el sitio a realizarse la actividad, por su ubicación, no sea acorde con los usos de suelo establecidos en los Programas de Desarrollo Urbano de los centros de poblaciones municipales o Planes y Programas de Ordenamiento Ecológico del Estado;
+
+III. En el sitio a realizarse la actividad, por su ubicación se contraponga con los Planes y Programas de Desarrollo Urbano, criterios de Desarrollo Urbano de los Municipios y Estado, o que se encuentre en zonas fracturadas o con fallas geológicas, riesgos hidrometeorológicos que representen un peligro potencial para el ambiente, y
+
+IV. Se contraponga con lo establecido en esta Ley, su reglamento, las Normas Oficiales Mexicanas, Normas Ambientales Estatales y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 15 BIS 5.- Son causas de revocación de las autorizaciones, permisos y licencias, además de las previstas en el artículo 191 bis de la Ley Ambiental, las siguientes:
+
+l. Por incumplir las condicionantes dictadas dentro de la autorización;
+
+II. Omitir renovar las garantías otorgadas, cuando conforme a esta Ley deban hacerlo y
+
+III. Omitir realizar la reparación del daño ambiental que se cause con motivo de las actividades autorizadas.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 15 BIS 6.- Antes de emitir fundada y motivadamente la resolución respectiva, la Secretaría o la autoridad municipal competente, darán vista al interesado.
 
 ## TÍTULO CUARTO. DE LA VALORIZACIÓN DE LOS RESIDUOS
 
-### CAPÍTULO III. DE LA COMPOSTA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 16.
 
@@ -363,7 +815,7 @@ V. El desarrollo de mercados de materiales secundarios o subproductos reciclados
 
 VI. La concientización pública, capacitación y educación ambiental relacionada con este proceso.
 
-### CAPÍTULO IV. TRATAMIENTO TÉRMICO
+### CAPÍTULO II. DE LAS PLANTAS DE SEPARACIÓN
 
 ###### Artículo 18.
 
@@ -381,7 +833,9 @@ II. Registro o autorización de las autoridades competentes, según corresponda;
 
 III. Programa de preparación y respuesta a emergencias y contingencias que puedan ocurrir en las plantas;
 
-IV. Bitácora en la cual se registren los residuos que se reciben, indicando tipo, peso o volumen, destino y fecha de entrada y salida de los mismos;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IV. Registro de los residuos que se reciben, indicando tipo, peso o volumen, procedencia, destino, así como fecha de entrada y salida de los mismos;
 
 V. Área para segregar y almacenar temporalmente los residuos, por tiempos acordes con lo que establezcan las disposiciones respectivas; y
 
@@ -403,7 +857,7 @@ IV. Reciclaje; y
 
 V. Disposición final o confinamiento.
 
-### CAPÍTULO V. DE LA REUTILIZACIÓN Y RECICLAJE DE RESIDUOS
+### CAPÍTULO III. DE LA COMPOSTA
 
 ###### Artículo 21.
 
@@ -439,13 +893,13 @@ Las autoridades municipales competentes, promoverán la elaboración de composta
 
 Toda empresa agrícola, industrial o agroindustrial tendrá la obligación de procesar los residuos biodegradables generados en sus procesos productivos utilizándolos como fuente energética, transformándolos en composta o utilizando técnicas equivalentes que no deterioren el ambiente, mediante la supervisión de la Secretaría.
 
-### CAPÍTULO ÚNICO. DE LA REMEDIACIÓN DEL SUELO
+### CAPÍTULO IV. TRATAMIENTO TÉRMICO
 
 ###### Artículo 24.
 
 La determinación de la conveniencia de someter a tratamiento térmico residuos sólidos urbanos o de manejo especial, deberá sustentarse en el diagnóstico básico de los residuos que se generan en la entidad y de la disponibilidad y factibilidad técnica y económica de otras alternativas para su valorización o tratamiento por otros medios. En todo caso, los residuos antes señalados sólo podrán ser sujetos a tratamientos térmicos autorizados por la federación y cuyo desempeño ambiental sea acorde a lo dispuesto en la ley general, las normas oficiales mexicanas y demás ordenamientos aplicables.
 
-### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO V. DE LA REUTILIZACIÓN Y RECICLAJE DE RESIDUOS
 
 ###### Artículo 25.
 
@@ -453,23 +907,43 @@ La Secretaría en coordinación con los Ayuntamientos, de conformidad con el Pro
 
 ## TÍTULO QUINTO. DE LOS SUELOS CONTAMINADOS
 
-### CAPÍTULO II. MEDIDAS DE SEGURIDAD
+### CAPÍTULO ÚNICO. DE LA REMEDIACIÓN DEL SUELO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 26.
 
-Es responsabilidad de toda persona que genere y maneje residuos sólidos urbanos y de manejo especial, hacerlo de manera que no implique daños a la salud humana ni al ambiente.
+Es responsabilidad del generador, prestador de servicios y/o gestor de residuos sólidos urbanos y de manejo especial, generar o manejar los residuos, de manera que no implique daños a la salud humana ni al ambiente.
 
 Cuando la generación, manejo y disposición final de estos residuos produzca contaminación del sitio en donde se encuentren, independientemente de las sanciones penales o administrativas que procedan, los responsables de dicha contaminación, incluyendo los servicios públicos de limpia, están obligados a:
 
-I. Llevar a cabo las acciones necesarias para remediar el sitio contaminado cuando éste represente un riesgo para la salud y el ambiente, con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable, para el predio o zona respectiva;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-II. En su caso, indemnizar los daños causados a terceros de conformidad con la legislación aplicable; y
+l. Llevar a cabo las acciones necesarias para remediar el sitio, de acuerdo a lo establecido en las disposiciones jurídicas aplicables;
 
-III.- Realizar los análisis respectivos que determinen el grado de contaminación del sitio.
+II. En su caso, indemnizar los daños causados a terceros de conformidad con la legislación aplicable; y (sic)
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+III. Realizar los análisis respectivos que determinen el grado de contaminación del sitio, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IV. Las demás responsabilidades que determine el reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 26 BIS.- Los estudios para la prevención y control de la contaminación ambiental y remediación de los sitios contendrán:
+
+I. Las alternativas de solución en caso de afectación al ambiente y a los recursos naturales, incluyendo tanto los factores de beneficio, costo, de índole ambiental y social, para garantizar la selección óptima de la tecnología;
+
+II. Las alternativas del programa de remediación y sus diversos efectos, tanto positivos como negativos, en el ambiente y recursos naturales; así como lo previsto conforme al reglamento de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 27.
 
-La Secretaría, al elaborar las normas ambientales estatales, deberá incluir disposiciones para evitar la contaminación de los sitios durante los procesos de generación y manejo de residuos sólidos, así como las destinadas a:
+La Secretaría, al elaborar programas en materia de residuos de manejo especial y de remediación de sitios contaminados, deberá incluir disposiciones para evitar la contaminación de los sitios durante la generación y manejo de residuos de manejo especial, así como las destinadas a:
 
 I. Caracterizar los sitios que hayan funcionado como tiraderos a cielo abierto;
 
@@ -479,27 +953,69 @@ III. Los procedimientos ambientalmente adecuados a seguir para el cierre de esos
 
 IV. Los procedimientos para llevar a cabo su remediación, cuando sea el caso.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Lo anterior de conformidad con la forma y términos previstos en el reglamento de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
+
 Para la remediación de los sitios contaminados como resultado del depósito de residuos por parte de las autoridades municipales, se podrá recurrir al Fondo Ambiental, al cual hace referencia el artículo 39 de la Ley Ambiental y proceder a su aprovechamiento de conformidad con los programas de ordenamiento ecológico del territorio y los usos autorizados del suelo.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 27 BIS.- Los propietarios o poseedores de predios de dominio privado y los titulares de áreas concesionadas, cuyos suelos se encuentren contaminados, serán responsables solidarios de llevar a cabo las acciones de remediación que resulten necesarias, sin perjuicio del derecho a ejercitar acción en contra del causante de la contaminación.
+
+En caso de que los responsables de los sitios contaminados con residuos de manejo especial, hubieren abandonado el sitio, la Secretaría, en coordinación con las autoridades competentes estatales, podrá hacer efectivas las garantías que hubieren sido otorgadas por los responsables, a fin de proceder a remediar el sitio contaminado.
+
+Cuando no sea posible identificar al responsable de la contaminación de un sitio, las autoridades estatales y municipales, de manera coordinada, llevarán a cabo las acciones necesarias para su remediación; para lo cual se podrá recurrir al Fondo Ambiental establecido en el artículo 39 de la Ley Ambiental y proceder a su aprovechamiento conforme a los programas de ordenamiento ecológico del territorio y los usos autorizados del suelo.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 27 BIS 1.- La Secretaría podrá expedir la declaratoria de remediación de sitios contaminados, previa elaboración de los estudios que la justifiquen. La declaratoria deberá publicarse en el Periódico Oficial del Estado y será inscrita en el Registro Público de la Propiedad y del Comercio del Estado, debiendo expresar lo siguiente:
+
+I. La delimitación del sitio que se sujeta a remediación, precisando superficie, ubicación y deslinde;
+
+II. Las acciones necesarias para remediar el sitio, de conformidad con lo que se establece en esta Ley;
+
+III. Las condicionantes y restricciones a que se sujetará el sitio, los usos del suelo, el aprovechamiento, así como la realización de cualquier obra o actividad;
+
+IV. Los lineamientos para la elaboración y ejecución del programa de remediación correspondiente, así como la participación en dichas actividades de propietarios, poseedores, organizaciones sociales, privadas, gobierno Estatal y Municipal, así como demás personas interesadas, y
+
+V. Los plazos para la ejecución del programa de remediación respectivo.
+
+Una vez concluido el programa de remediación del sitio contaminado, se cancelará la anotación correspondiente en el Registro Público de la Propiedad y del Comercio, en los términos del reglamento de la presente Ley.
+
+Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho relacionado con los bienes inmuebles que fueren materia de las declaratorias de remediación, quedarán sujetos a la aplicación de las modalidades previstas en las propias declaratorias.
+
+Los notarios y cualesquiera otros fedatarios públicos harán constar tal circunstancia al autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan.
+
+Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
 
 ## TÍTULO SEXTO. DE LA INSPECCIÓN Y VIGILANCIA, MEDIDAS DE SEGURIDAD, SANCIONES, DENUNCIA POPULAR, REPARACIÓN DEL DAÑO Y RECURSO DE REVOCACIÓN
 
-### CAPÍTULO III. DE LAS SANCIONES
+### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 28.
 
-El procedimiento de inspección y vigilancia al cual se ajustarán los generadores de residuos se llevará a cabo de conformidad con lo dispuesto por la Ley Ambiental y en su caso, a lo establecido por la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
+El procedimiento de inspección y vigilancia para verificar el cumplimiento de esta Ley y su reglamento, Normas Oficiales Mexicanas y Normas Ambientales Estatales, se llevará a cabo de conformidad con lo dispuesto por la Ley Ambiental y en su caso, a lo establecido por la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
 
-### CAPÍTULO IV. DENUNCIA POPULAR
+### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
 ###### Artículo 29.
 
 Las autoridades competentes, fundada y motivadamente, podrán aplicar las siguientes medidas de seguridad cuando las operaciones y procesos empleados durante el manejo de residuos sólidos y de manejo especial representen un riesgo inminente para la salud de las personas o el ambiente:
 
-I. Asegurar los materiales, residuos o sustancias contaminantes, autotransportes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad, según lo previsto en el párrafo primero de este artículo;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+l. Asegurar precautoriamente los materiales, residuos o sustancias contaminantes, auto transportes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad, según lo previsto en el párrafo primero de este artículo;
 
 II. Asegurar, aislar, suspender o retirar temporalmente en forma parcial o total, según corresponda, los bienes, equipos y actividades que generen el riesgo o daño significativo;
 
-III. Clausurar temporal, parcial o totalmente las instalaciones en que se manejen o se preste el servicio correspondiente que den lugar a los supuestos a que se refiere el primer párrafo de este artículo; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+III. Clausurar temporal, parcial o totalmente las instalaciones en que se generen, manejen o dispongan finalmente los residuos de manejo especial o sólidos urbanos involucrados en los supuestos a los que se refiere este precepto legal, y
 
 IV. Suspender las actividades, en tanto no se mitiguen los daños causados.
 
@@ -511,17 +1027,23 @@ Las medidas de seguridad previstas en este capítulo, se sujetarán a lo dispues
 
 Cuando la autoridad ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPÍTULO V. DE LA REPARACIÓN DEL DAÑO
+### CAPÍTULO III. DE LAS SANCIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 31.
 
-Los infractores de la presente Ley o quienes induzcan directa o indirectamente a alguien a infringirla, independientemente de las responsabilidades civiles o penales correspondientes, serán sancionadas por la autoridad Estatal y Municipal correspondiente, en sus respectivos ámbitos de competencia, de conformidad con los siguientes criterios:
+Los infractores de la presente Ley y su reglamento, las Normas Oficiales Mexicanas y Normas Ambientales Estatales o quienes induzcan directa o indirectamente a alguien a infringirla, independientemente de las responsabilidades civiles o penales correspondientes, serán sancionadas por la autoridad Estatal y Municipal correspondiente, en sus respectivos ámbitos de competencia, de conformidad con los siguientes criterios:
 
 I. Cuando los daños causados al ambiente se produzcan por actividades debidas a diferentes personas, la autoridad competente imputará individualmente esta responsabilidad y sus efectos económicos;
 
-II. Cuando el generador o poseedor de los residuos, o prestador del servicio, los entregue a persona física o jurídica distinta de las señaladas en esta Ley, solidariamente compartirán la responsabilidad; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
-III. Cuando sean varios los responsables y no sea posible determinar el grado de participación de cada uno en la realización de la infracción, solidariamente compartirán la responsabilidad.
+II. Cuando el generador o poseedor de los residuos, o prestador- de servicios, los entregue a persona física o jurídica distinta de las señaladas en esta Ley, solidariamente compartirán la responsabilidad, y
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+III. Cuando sean varios los responsables y no sea posible determinar el grado de participación u omisión de cada uno en la realización de la infracción, solidariamente compartirán la responsabilidad.
 
 ###### Artículo 32.
 
@@ -539,7 +1061,9 @@ b) El infractor desobedezca la clausura, en cualquiera de sus modalidades; o
 
 c) El infractor cometa alguna de las conductas descritas en las fracciones IV, V y VI del artículo 15 de la presente Ley; y
 
-IV. Clausura temporal, parcial o total de las instalaciones cuando:
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+IV. Clausura temporal o definitiva, parcial o total de las instalaciones cuando:
 
 a) El infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas;
 
@@ -547,11 +1071,27 @@ b) En casos de reincidencia cuando las infracciones generen efectos negativos al
 
 c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad.
 
+> <small>(REFORMADO [N. DE E. ADICONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+d) Se realicen proyectos, obras y actividades sin contar con la autorización correspondiente, de conformidad con esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+V. Suspensión y revocación de licencias, permisos o autorizaciones, y
+
+> <small>(REFORMADA [N. DE E. ADICONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+
+VI. La remediación de sitios contaminados.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 33.
 
-En la imposición de sanciones se tomarán en cuenta los siguientes criterios:
+En la imposición de sanciones se tomarán en cuenta indistintamente los siguientes criterios:
 
-I. El daño y perjuicio causado;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+l. La gravedad de la conducta y/o el daño y perjuicio causado;
 
 II. El beneficio directamente obtenido por el infractor por los actos que motiven la sanción;
 
@@ -559,13 +1099,17 @@ III. El carácter intencional o negligente de la acción u omisión constitutiva
 
 IV. La reincidencia;
 
-V. La gravedad de la conducta; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+V. Situación socioeconómica del infractor (sic).
 
 VI. Situación socioeconómica del infractor.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 34.
 
-La autoridad correspondiente podrá otorgar al infractor, la opción de pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación, en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor.
+Sin perjuicio de la obligación de remediar el sitio, la autoridad correspondiente podrá otorgar al infractor, la opción de pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación, en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor y las inversiones no tengan relación directa con el motivo de la sanción.
 
 ###### Artículo 35.
 
@@ -573,11 +1117,17 @@ Cuando proceda como sanción la clausura, el personal comisionado para ejecutarl
 
 En los casos en que se imponga como sanción la clausura temporal, la autoridad deberá indicar al infractor las medidas de mitigación y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
-### CAPÍTULO VI. DEL RECURSO ADMINISTRATIVO
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 35 BIS.- Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley y en las disposiciones que de ella se deriven, se destinarán a la integración del Fondo Ambiental previsto en la Ley Ambiental, para la remediación de sitios contaminados que representan un riesgo inminente al ambiente o a la salud; así como, la formulación y ejecución de proyectos que tengan como finalidad dar solución a la problemática de los residuos en el Estado.
+
+### CAPÍTULO IV. DENUNCIA POPULAR
 
 ###### Artículo 36.
 
 Toda persona, atendiendo al procedimiento establecido en la Ley Ambiental, podrá denunciar ante la autoridad competente, todo hecho, acto u omisión contrario a lo dispuesto en la presente Ley y demás ordenamientos jurídicos aplicables.
+
+### CAPÍTULO V. DE LA REPARACIÓN DEL DAÑO
 
 ###### Artículo 37.
 
@@ -586,6 +1136,8 @@ Todo generador de residuos de manejo especial y sólidos urbanos, así como oper
 ###### Artículo 38.
 
 La prescripción de las responsabilidades establecidas en este capítulo es de cinco años a partir del momento en que se tenga conocimiento del hecho, acto u omisión correspondiente.
+
+### CAPÍTULO VI. DEL RECURSO ADMINISTRATIVO
 
 ###### Artículo 39.
 
@@ -626,3 +1178,15 @@ EUGENIO ELORDUY WALTER.
 SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán expedir y, en su caso, adecuar, las disposiciones reglamentarias y demás ordenamientos legales aplicables, en un plazo no mayor a 180 días hábiles a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los procedimientos administrativos, recursos administrativos y asuntos relacionados que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley vigente con anterioridad al mismo.
+
+CUARTO.- Los responsables de elaborar los planes de manejo contarán con un plazo de tres meses, a partir de la entrada en vigor del presente Decreto, para presentarlos a las autoridades competentes de su autorización" (sic).
