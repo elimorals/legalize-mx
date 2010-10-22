@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-que-establece-las-bases-de-operacion-26216
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-10"
-last_updated: "2002-05-10"
+last_updated: "2010-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY QUE ESTABLECE LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY QUE ESTABLECE LAS BASES DE OPERACION DE LAS CASAS DE EMPEÑO, PUBLICADO EN EL P.O. DE 22 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de mayo de 2002.
 
@@ -380,3 +382,13 @@ BERNARDO BORBÓN VILCHES
 SECRETARIO DE PLANEACIÓN Y FINANZAS
 
 ARMANDO ARTEAGA KING
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley que establece las bases de operación de las casas de empeño del Estado de Baja California, publicado en el Periódico Oficial Número 19, de fecha 10 de Mayo de 2002, Tomo CIX.
+
+TERCERO.- De conformidad a lo dispuesto en el Artículo Cuarto Transitorio de la Ley, dentro de los cuarenta y cinco días siguientes a la entrada en vigor del presente Reglamento, los peticionarios de expedición, revalidación y modificación de permisos, cuya solicitud se encuentre pendiente de resolución, deberán adecuarla conforme a las disposiciones de la Ley y de su Reglamento. De no atenderse lo anterior, la solicitud se tendrá por no presentada.
