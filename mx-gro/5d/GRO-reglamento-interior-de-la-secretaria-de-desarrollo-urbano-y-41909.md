@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-419
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-19"
-last_updated: "2004-11-19"
+last_updated: "2010-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y OBRAS PUBLICAS, PUBLICADO EN EL P.O. 22 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 19 de noviembre de 2004.
 
@@ -612,3 +612,17 @@ El Secretario de Desarrollo Urbano y Obras Públicas.
 C. ARQ. JUAN FARILL HERRERA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento, Interior de la Secretaría de Desarrollo Urbano y Obras Públicas expedido el 11 de noviembre de 2004 y publicado en el Periódico Oficial del Gobierno del Estado el día 19 del mismo mes y año; y se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO. En caso de autorizarse por la Contraloría General del Estado, la Secretaria de Finanzas y Administración y el Comité de Organización y Remuneraciones del Gobierno del Estado, la reestructuración del organograma de la Secretaria de Desarrollo Urbano y Obras Públicas y la creación de nuevas unidades administrativas o cualquier otro movimiento a la estructura orgánica que implique cambios de denominación, cambio de rango jerárquico o de adscripción de unidades administrativas, e incluso que se determine la extinción, fusión o redefinición de funciones en las mismas, el titular de la dependencia, formulará el proyecto de decreto de reformas y, adiciones al presente Reglamento interior para ser sometido a consideración del titular del Poder Ejecutivo.
+
+CUARTO. No obstante los cambios de adscripción de diversos servidores públicos dentro de la Secretaría de Desarrollo urbano y Obras Públicas, así como los cambios de denominación de áreas de su as, así como los cambios de denominación de áreas de su adscripción, o cambios de rango jerárquico de las mismas e inclusive de la nueva distribución de competencias como producto de la reestructuración orgánica y funcional realizada a la secretaria, quedan garantizados los derechos laborales de los trabajadores de la misma.
+
+QUINTO. En tanto se expiden los manuales de organización, de procedimientos y servicios al público, el Secretario de Desarrollo Urbano y Obras Públicas resolverá las cuestiones de procedimiento una operación que se originen por la aplicación de este Reglamento.
