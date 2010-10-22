@@ -4,7 +4,7 @@ identifier: "COA-acuerdo-por-el-que-se-crea-el-comite-de-acceso-a-la-50173"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-04-14"
-last_updated: "2006-04-14"
+last_updated: "2010-10-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # ACUERDO POR EL QUE SE CREA EL COMITE DE ACCESO A LA INFORMACION PUBLICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA, ASI COMO LAS UNIDADES DE ACCESO A LA INFORMACION PUBLICA DE LA PROPIA COMISION
 
-ACUERDO POR EL QUE SE CREA EL COMITE DE ACCESO A LA INFORMACION PUBLICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA, ASI COMO LAS UNIDADES DE ACCESO A LA INFORMACION PUBLICA DE LA PROPIA COMISION
+ACUERDO POR EL QUE SE CREA EL COMITÉ DE ACCESO A LA INFORMACIÓN PÚBLICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA, ASÍ COMO LAS UNIDADES DE ACCESO A LA INFORMACIÓN PÚBLICA DE LA PROPIA COMISIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. POR ACUERDO PUBLICADO EN EL P.O. DE 22 DE OCTUBRE DE 2010, SE DEJA SIN EFECTOS ESTE ORDENAMIENTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: SIN EFECTOS.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de abril de 2006.
 
@@ -364,3 +366,15 @@ Lic. Ana Maria Urdaibay García
 Consejera
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+EL presente Acuerdo entrará en vigor al día siguiente a aquel en que haya sido publicado en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente acuerdo por una sola vez en el Periódico Oficial del Gobierno del Estado.
