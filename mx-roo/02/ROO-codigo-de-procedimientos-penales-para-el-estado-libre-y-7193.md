@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2010-08-09"
+last_updated: "2010-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -799,13 +799,49 @@ El certificado de sanidad expedido por médico particular estará sujeto a la re
 
 Cuando un lesionado necesite pronta curación, cualquier médico puede atenderlo y trasladarlo al sitio apropiado, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de la primera curación el nombre del lesionado, el lugar en que fue levantado y posición en que se encontraba, la naturaleza y causas probables de las lesiones que presente, las curaciones que se le hicieron y el lugar en que queda a disposición de la autoridad.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+#### SECCION TERCERA BIS.- Procedimiento para la interrupción del embarazo cuando se actualiza el supuesto del artículo 97 fracción II del Código Penal
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 99 bis.- La atención médica de las mujeres que soliciten la práctica de un aborto no punible en el supuesto previsto por el artículo 97 fracción II del Código Penal pera el Estado Libre y Soberano de Quintana Roo, se hará en los hospitales del Sistema Estatal de Salud.
+
+Las instituciones del Sistema Estatal de Salud deberán contar con el personal no objetor de conciencia, de manera que la mujer que solicite un aborto legal tenga garantizado este servicio.
+
+El Ministerio Público deberá resolver la solicitud de aborto que le presente la mujer embarazada, siempre y cuando no haya ejercido la acción penal por el delito de violación cometido contra ésta; una vez ejercida la acción penal, el Juez de Primera Instancia que conoce de la Instrucción, deberá resolver dicha solicitud.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 99 Ter.
+
+El Ministerio Público o el Juez en su caso, en un término de setenta y dos horas, a partir de que la mujer presente la solicitud de aborto en el caso previsto en el Artículo 97 fracción II del Código Penal pera el Estado Libre y Soberano de Quintana Roo, resolverá lo procedente. Dicha autorización se hará siempre que concurran los siguientes requisitos:
+
+I. Que exista denuncia por el delito de violación;
+
+II. Que la mujer declare la existencia del embarazo y éste se compruebe en cualquier institución del Sistema Estatal de Salud;
+
+III. Que obren elementos suficientes que supongan que el embarazo es producto de una violación; y
+
+IV. Que conste solicitud escrita o por comparecencia de la mujer embarazada o de sus representantes cuando la víctima sea menor de edad y no haya oposición de ésta o cuando se encuentre en un estado de incapacidad previsto en el artículo 529 fracciones II y III del Código Civil para el Estado Libre y Soberano de Quintana Roo.
+
+Cuando haya conflicto entre la decisión de la menor y quienes ejerzan la patria potestad o tutela o cuando se presume que el delito de violación fue cometido por quien ejerce la patria potestad o la tutela de la víctima embarazada, la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo deberá solicitar el aborto, atendiendo al interés superior de la menor.
+
+Las instituciones del Sistema Estatal de Salud en el Estado deberán, a petición del Ministerio Publico o del Juez, practicar sin demora los exámenes que comprueben la existencia del embarazo, así como la oportunidad médica para realizar el aborto en el caso previsto en la fracción II del Artículo 97 del Código Penal.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 99 Quáter.
+
+De autorizar el aborto, el Ministerio Público o el Juez en su caso, notificará inmediatamente al Secretario de Salud en el Estado, para que éste ordene a quien corresponda su práctica, así como para que se tome muestra en el producto que permita la realización, en su momento, de la prueba genética de ADN, a fin de probar la paternidad del probable responsable del delito de violación.
+
+El personal médico y psicológico de las instituciones del Sistema Estatal de Salud, antes de practicar el aborto, tiene la obligación de proporcionar a la mujer información imparcial, objetiva, veraz y suficiente sobre los procedimientos, riesgos, consecuencias y efectos; así como los apoyos y alternativas existentes para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 #### SECCION CUARTA.- Detención del inculpado
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
-
-#### SECCION PRIMERA.- Medios de Prueba
 
 ###### Artículo 100.
 
@@ -903,13 +939,13 @@ Cuando el delito imputado merezca pena no corporal o pena alternativa y exista l
 
 ### CAPITULO SEXTO.- PRUEBA
 
-#### SECCION SEGUNDA.- Confesión
+#### SECCION PRIMERA.- Medios de Prueba
 
 ###### Artículo 119.
 
 Se admitirán como prueba todos los medios lícitos que sirvan para demostrar un hecho.
 
-#### SECCION TERCERA.- Inspección y reconstrucción de los hechos
+#### SECCION SEGUNDA.- Confesión
 
 ###### Artículo 120.
 
@@ -949,7 +985,7 @@ La confesión podrá recibirse por el Agente del Ministerio Público del Fuero C
 
 Terminada la diligencia de confesión se dará lectura de ella al acusado o la leerá por sí mismo y la firmará o, en su caso, se hará constar la causa por la que no firme.
 
-#### SECCION CUARTA.- Prueba pericial
+#### SECCION TERCERA.- Inspección y reconstrucción de los hechos
 
 ###### Artículo 129.
 
@@ -1027,7 +1063,7 @@ La descripción en la reconstrucción se hará en forma que establecen los artí
 
 Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hechos, se practicarán las reconstrucciones relativas a cada una de aquéllas; y en caso de que se haga necesaria la intervención de peritos, el o los que se designen dictaminarán cuál de las versiones puede acercarse más a la verdad.
 
-#### SECCION QUINTA.- Testigos
+#### SECCION CUARTA.- Prueba pericial
 
 ###### Artículo 148.
 
@@ -1149,7 +1185,7 @@ El funcionario que practique las diligencias podrá ordenar que el perito o peri
 
 La opinión del perito o peritos, llamados conforme al artículo anterior podrá no atenderse en las diligencias que se practiquen o en las providencias que se dicten durante la instrucción.
 
-#### SECCION SEXTA.- Confrontación
+#### SECCION QUINTA.- Testigos
 
 ###### Artículo 173.
 
@@ -1263,9 +1299,7 @@ Cuando tuviere que ausentarse del lugar en que se practiquen las diligencias alg
 
 El funcionario que practique las diligencias podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rindan su declaración.
 
-#### SECCION SEPTIMA.- Careos
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+#### SECCION SEXTA.- Confrontación
 
 ###### Artículo 195.
 
@@ -1319,7 +1353,9 @@ Practicado lo que dispone el artículo anterior, se llevará al declarante frent
 
 Cuando la pluralidad de las personas amerite varias confrontaciones, éstas se verificarán en actos separados.
 
-#### SECCION OCTAVA.- Documentos
+#### SECCION SEPTIMA.- Careos
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 205.
 
@@ -1343,7 +1379,7 @@ Los careos se practicarán dando lectura a las declaraciones que se reputen cont
 
 Cuando no pudiere obtenerse la comparecencia, ante el Tribunal que conozca del proceso, de alguno de los que deban ser careados, se practicará careo supletorio, leyéndose al presente la declaración del otro y haciéndole notar las contradicciones que hubiere entre aquélla y lo declarado por él.
 
-#### SECCION NOVENA.- Presunciones
+#### SECCION OCTAVA.- Documentos
 
 ###### Artículo 209.
 
@@ -1409,7 +1445,7 @@ Todas las dependencias oficiales residentes en el Estado, así como las instituc
 
 Los documentos no redactados en español se presentarán originales acompañados de su traducción al castellano y si ésta fuera objetada, se ordenará que sean traducidos por el perito o peritos que designe el Tribunal.
 
-#### SECCION DECIMA.- Valor jurídico de la prueba
+#### SECCION NOVENA.- Presunciones
 
 ###### Artículo 223.
 
@@ -1449,7 +1485,7 @@ V.- Que esté probado el cuerpo del delito.
 
 Es admisible prueba contra todo género de presunciones, así legales como humanas.
 
-#### SECCION PRIMERA.- Procedimiento en Primera Instancia
+#### SECCION DECIMA.- Valor jurídico de la prueba
 
 ###### Artículo 229.
 
@@ -1701,7 +1737,7 @@ El auto de sobreseimiento no es recurrible y surtirá efectos de cosa juzgada.
 
 ### CAPITULO NOVENO.- JUICIO
 
-#### SECCION SEGUNDA.- Aclaración de sentencia
+#### SECCION PRIMERA.- Procedimiento en Primera Instancia
 
 ###### Artículo 272.
 
@@ -1727,7 +1763,7 @@ A continuación se dará lectura a las constancias que las partes señalen y des
 
 Contra la resolución que niegue o admita la repetición de las diligencias de prueba, no procede recurso alguno.
 
-#### SECCION TERCERA.- Sentencia irrevocable
+#### SECCION SEGUNDA.- Aclaración de sentencia
 
 ###### Artículo 278.
 
@@ -1765,7 +1801,7 @@ Contra la resolución que se dicte otorgando o negando la aclaración, no proced
 
 La aclaración propuesta interrumpe el término señalado para la apelación.
 
-#### SECCION PRIMERA.- Revocación
+#### SECCION TERCERA.- Sentencia irrevocable
 
 ###### Artículo 287.
 
@@ -1793,7 +1829,7 @@ IV.- Las resoluciones dictadas por los Jueces del Estado competentes, en delitos
 
 ### CAPITULO DECIMO.- RECURSOS
 
-#### SECCION SEGUNDA.- Apelación
+#### SECCION PRIMERA.- Revocación
 
 ###### Artículo 288.
 
@@ -1811,7 +1847,7 @@ Interpuesto el recurso, en el acto de la notificación o dentro de las veinticua
 
 Si el Juez o Tribunal estima que debe oírse a las partes, las citará a una audiencia verbal que se efectuará dentro de las cuarenta y ocho horas siguientes y dictará su resolución dentro de tres días.
 
-#### SECCION TERCERA.- Denegada apelación
+#### SECCION SEGUNDA.- Apelación
 
 ###### Artículo 292.
 
@@ -2093,9 +2129,7 @@ Notificado el fallo a las partes, se remitirá desde luego la ejecutoria al Juez
 
 Cuando el Tribunal Superior notare que no se interpusieron los recursos que procedían en favor del acusado, que se abandonaron los interpuestos, que no se alegaron circunstancias favorables al acusado, probadas en el proceso, todo esto por no cumplir el defensor con sus deberes, y cuando no exprese agravios en la apelación, el Tribunal le impondrá una corrección disciplinaria y lo consignará al Ministerio Público si procediere.
 
-#### SECCION PRIMERA.- Libertad provisional bajo caución
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+#### SECCION TERCERA.- Denegada apelación
 
 ###### Artículo 332.
 
@@ -2123,7 +2157,9 @@ Si la apelación se declara admisible, se pedirá el expediente, duplicado o tes
 
 ### CAPITULO UNDECIMO.- Incidentes
 
-#### SECCION SEGUNDA.- Libertad provisional bajo protesta
+#### SECCION PRIMERA.- Libertad provisional bajo caución
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 338.
 
@@ -2331,7 +2367,7 @@ Siempre que se revoque la libertad, la caución se hará efectiva en beneficio d
 
 En los casos de los artículos 362 y 365, fracción III de éste Código la autoridad fiscal conservará en su poder el importe de la caución que se haya hecho efectiva, entretanto no se resuelva la reparación del daño, para los efectos del artículo 33 del Código Penal.
 
-#### SECCION TERCERA.- Libertad por desvanecimiento de datos
+#### SECCION SEGUNDA.- Libertad provisional bajo protesta
 
 ###### Artículo 373.
 
@@ -2345,7 +2381,7 @@ Los tribunales acordarán de oficio la libertad de que trata el artículo anteri
 
 La libertad bajo protesta se revocará, cuando pueda legalmente ejecutarse la sentencia que condene al acusado, a una pena de prisión que exceda al tiempo en que estuvo él privado de la libertad.
 
-#### SECCION CUARTA.- Competencias
+#### SECCION TERCERA.- Libertad por desvanecimiento de datos
 
 ###### Artículo 376.
 
@@ -2379,7 +2415,7 @@ Cuando el acusado solamente haya sido declarado sujeto a proceso, se podrá prom
 
 La resolución favorable al acusado, en el incidente de desvanecimiento de datos, tendrá los mismos efectos que el auto de libertad por falta de elementos para procesar, quedando expeditas las facultades tanto del Ministerio Público para pedir nuevamente la aprehensión del acusado, como del Juez para dictar nuevo auto de formal prisión, si aparecieren posteriormente datos que les sirvan de fundamento y siempre que no se varíen los hechos delictuosos motivo del procedimiento.
 
-#### SECCION QUINTA.- Impedimentos, excusas y recusaciones
+#### SECCION CUARTA.- Competencias
 
 ###### Artículo 383.
 
@@ -2439,7 +2475,7 @@ Cuando la competencia se resuelva en favor del Juez que haya conocido del asunto
 
 Será válido lo actuado en materia penal por un Tribunal incompetente.
 
-#### SECCION SEXTA.- Suspensión del procedimiento
+#### SECCION QUINTA.- Impedimentos, excusas y recusaciones
 
 ###### Artículo 396.
 
@@ -2589,7 +2625,7 @@ IV.- Si se declara que el impedimento o la recusación no son fundados, el Secre
 
 V.- Contra la resolución de la recusación no cabe recurso alguno.
 
-#### SECCION SEPTIMA.- Acumulación de autos
+#### SECCION SEXTA.- Suspensión del procedimiento
 
 ###### Artículo 421.
 
@@ -2629,7 +2665,7 @@ Cuando se haya decretado la suspensión del procedimiento, en los casos a que se
 
 El Tribunal resolverá de oficio sobre la suspensión del procedimiento, o a petición del Ministerio Público fundada en cualquiera de las causas a que se refiere el artículo 421.
 
-#### SECCION OCTAVA.- Separación de autos
+#### SECCION SEPTIMA.- Acumulación de autos
 
 ###### Artículo 427.
 
@@ -2689,7 +2725,7 @@ Los incidentes de acumulación se substanciarán por separado, sin suspenderse e
 
 Serán aplicables las disposiciones de este Capítulo a las averiguaciones que se practiquen por el Ministerio Público o los tribunales, cuando no exista auto de formal prisión o de sujeción a proceso.
 
-#### SECCION NOVENA.- Incidente de responsabilidad civil
+#### SECCION OCTAVA.- Separación de autos
 
 ###### Artículo 437.
 
@@ -2721,7 +2757,7 @@ El incidente sobre separación de autos se substanciará por separado, en la mis
 
 Cuando varios jueces conocieran de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia ejecutoria procederá en los términos del artículo 430.
 
-#### SECCION DECIMA.- Incidentes no especificados
+#### SECCION NOVENA.- Incidente de responsabilidad civil
 
 ###### Artículo 443.
 
@@ -2759,7 +2795,7 @@ En el caso de hallarse prófugo el acusado, se continuará la tramitación del i
 
 La sentencia que resuelva el incidente de responsabilidad civil es apelable.
 
-#### SECCION PRIMERA.- Competencia
+#### SECCION DECIMA.- Incidentes no especificados
 
 ###### Artículo 452.
 
@@ -2959,7 +2995,7 @@ Si el Tribunal considera no fundada la solicitud del reo, mandará archivar las 
 
 CAPITULO DECIMOQUINTO.- REGLAS GENERALES PARA EL PROCEDIMIENTO PENAL
 
-#### SECCION SEGUNDA.- Formalidades
+#### SECCION PRIMERA.- Competencia
 
 ###### Artículo 489.
 
@@ -2995,9 +3031,7 @@ Ningún Tribunal puede promover competencia a su superior jerárquico.
 
 Cuando los acusados detenidos fueren reclamados por jueces de dos o más partidos judiciales del Estado, y no hubiere conformidad entre las autoridades requerientes y la requerida, el Tribunal Superior de Justicia, hará la declaración de preferencia.
 
-#### SECCION TERCERA.- Intérpretes
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
+#### SECCION SEGUNDA.- Formalidades
 
 ###### Artículo 496.
 
@@ -3139,7 +3173,9 @@ Si las autoridades judiciales del Estado se dirigen a otras del Estado, judicial
 
 Las infracciones de las disposiciones contenidas en los artículos comprendidos en esta Sección, se sancionarán con una corrección disciplinaria y agotadas las correcciones de esta clase, con la destitución del infractor, sin perjuicio de consignar el caso al Ministerio Público, cuando pudiere resultar la existencia de un delito.
 
-#### SECCION CUARTA.- Despacho de los asuntos
+#### SECCION TERCERA.- Intérpretes
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 527.
 
@@ -3175,9 +3211,7 @@ Si el acusado, el ofendido o algún testigo fuere sordo o mudo, se le nombrará 
 
 A los sordos y a los mudos que sepan leer y escribir, se les interrogará por escrito o por medio de intérprete.
 
-#### SECCION QUINTA.- Correcciones disciplinarias o medios de apremio
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
+#### SECCION CUARTA.- Despacho de los asuntos
 
 ###### Artículo 534.
 
@@ -3237,9 +3271,9 @@ Toda incoación de procedimiento judicial será comunicada al Tribunal Superior 
 
 Los tribunales deben dictar de oficio las providencias y trámites necesarios para la terminación del proceso.
 
-#### SECCION SEXTA.- Diligencias fuera del lugar de residencia de la autoridad que las ordena
+#### SECCION QUINTA.- Correcciones disciplinarias o medios de apremio
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 545.
 
@@ -3269,9 +3303,9 @@ Contra cualquiera providencia en que se imponga alguna corrección disciplinaria
 
 En vista de lo que manifieste el interesado, el funcionario que hubiere impuesto la corrección disciplinaria, resolverá desde luego lo que proceda.
 
-#### SECCION SEPTIMA.- Cateos
+#### SECCION SEXTA.- Diligencias fuera del lugar de residencia de la autoridad que las ordena
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 548.
 
@@ -3357,7 +3391,9 @@ Se dará entera fe y crédito a los exhortos que libren los tribunales de la Rep
 
 La resolución dictada por el Tribunal requerido ordenando la práctica de las diligencias que se le hayan encomendado, no admite recurso.
 
-#### SECCION OCTAVA.- Términos
+#### SECCION SEPTIMA.- Cateos
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 567.
 
@@ -3431,9 +3467,7 @@ Si los objetos recogidos a que se refiere el artículo anterior no fueren suscep
 
 Tanto en el caso del artículo 578 como en el del 579, se hará constar que el acusado firmó el objeto o juntura, o que puso sus huellas digitales en uno u otra, así como si no pudiere firmar, o poner sus huellas digitales o se negare a ello.
 
-#### SECCION NOVENA.- Citaciones
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
+#### SECCION OCTAVA.- Términos
 
 ###### Artículo 581.
 
@@ -3447,7 +3481,9 @@ No se incluirán en los términos los días que no haya labores en el Tribunal, 
 
 Los términos se contarán por días naturales, excepto los que se refieren a los tres casos mencionados en la segunda parte del artículo anterior y cualquier otro que deba computarse por horas, pues éstos se contarán de momento a momento, a partir de la hora en que corresponda conforme a la ley.
 
-#### SECCION DECIMA.- Audiencias
+#### SECCION NOVENA.- Citaciones
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 584.
 
@@ -3547,7 +3583,7 @@ Si la investigación de la Policía a que se refiere el artículo anterior, no t
 
 Para el caso de que ninguna de esas dependencias cuente en sus archivos con algún domicilio de la persona que deba ser citada, o que el patrocinado por alguna de ellas resulte falso, inexistente o ya no viva en él dicha persona, cesará la búsqueda y se decretará la imposibilidad material para el desahogo de la prueba, excepto cuando se trate de careos, caso en el cual se estará a lo dispuesto en el Artículo 208 de este Código.
 
-#### SECCION UNDECIMA.- Resoluciones judiciales
+#### SECCION DECIMA.- Audiencias
 
 ###### Artículo 598.
 
@@ -3627,9 +3663,7 @@ Si es el defensor quien altera el orden, se le apercibirá; y si continúa en la
 
 En caso de que se expulse al defensor en aplicación a lo dispuesto en el artículo anterior, se procederá de acuerdo con lo que ordena el artículo 606.
 
-#### SECCION DUODECIMA.- Notificaciones
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
+#### SECCION UNDECIMA.- Resoluciones judiciales
 
 ###### Artículo 615.
 
@@ -3700,6 +3734,10 @@ Lo dispuesto en el artículo anterior se entiende sin perjuicio de la aclaració
 ###### Artículo 627.
 
 Las resoluciones judiciales no se tendrán por consentidas, sino cuando notificada la parte manifieste expresa o tácitamente su conformidad.
+
+#### SECCION DUODECIMA.- Notificaciones
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 628.
 
@@ -3984,3 +4022,11 @@ P.O. 9 DE AGOSTO DE 2010.
 TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 22 DE OCTUBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+T R A N S I T O R I O:
+
+ÚNICO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
