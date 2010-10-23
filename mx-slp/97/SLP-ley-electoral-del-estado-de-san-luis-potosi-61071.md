@@ -4,7 +4,7 @@ identifier: "SLP-ley-electoral-del-estado-de-san-luis-potosi-61071"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2008-05-10"
+last_updated: "2010-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -899,7 +899,9 @@ V. Un representante por cada partido político registrado o inscrito, y un repre
 
 Los consejeros ciudadanos se elegirán de la siguiente forma:
 
-I. El Pleno del Congreso del Estado nombrará una comisión especial de cinco diputados; la que integrará una lista de candidatos hasta por el doble del número a elegir, de entre las propuestas presentadas por los partidos políticos y por los ciudadanos potosinos, previa convocatoria que para el efecto se expida. De la lista presentada, el Congreso, en Pleno, procurará en todo caso que se encuentren representadas las diferentes zonas del Estado;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2010)</small>
+
+I. El Pleno del Congreso del Estado nombrará una comisión especial integrada por siete diputados; la que integrará una lista de candidatos hasta por el doble del número a elegir, de entre las propuestas presentadas por los partidos políticos y por los ciudadanos potosinos, previa convocatoria que para el efecto se expida. De la lista presentada, el Congreso, en Pleno, procurará en todo caso que se encuentren representadas las diferentes zonas del Estado;
 
 II. De la lista presentada por la comisión especial, el Congreso, en Pleno, elegirá a cada uno de los consejeros ciudadanos, por el voto secreto de por lo menos las dos terceras partes de sus miembros presentes;
 
@@ -1317,7 +1319,9 @@ En el ejercicio de sus atribuciones, el Contralor Interno se abstendrá de inter
 
 El Contralor Interno será electo, previa convocatoria pública, por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes. Durará en su encargo cuatro años; podrá ser reelecto por una sola vez; y no podrá ser removido sino por las causas y a través de los procedimientos que establece la Constitución Política del Estado en su Título Décimo Segundo. En la elección del Contralor Interno del Consejo, el Congreso del Estado se sujetará a lo siguiente:
 
-I. Nombrará una comisión especial de cinco diputados, encargada de sustanciar el procedimiento en los términos del presente artículo;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2010)</small>
+
+I. Nombrará una comisión especial de siete diputados, encargada de sustanciar el procedimiento en los términos del presente artículo;
 
 II. La comisión especial emitirá una convocatoria pública, en la que se establecerán las bases a que se sujetará la elección del Contralor Interno, y los requisitos que deberán cubrir las personas que aspiren a ejercer ese encargo; misma que deberá ser publicada en el Periódico Oficial del Estado, como en cuando menos uno de los diarios locales de mayor circulación en la Entidad;
 
@@ -2653,7 +2657,7 @@ Las comisiones distritales electorales al efectuar el cómputo distrital, proced
 
 I. Certificarán que los sellos fijados en el sitio en donde fueron almacenados los paquetes electorales, relativos a cada una de las casillas que se instalaron durante la jornada electoral, no presentan huellas de violencia y darán fe del estado que guarda cada uno de los paquetes, tomando nota de los que presenten huellas de violación o alteración, sin destruir éstas;
 
-II. Se abrirán los sobres adheridos a los paquetes electorales que contengan los expedientes de la elección y siguiendo el orden numérico de las casillas; se cotejará el resultado del acta de escrutinio y cómputo contenido en el expediente de casilla, con los resultados que de la misma tenga el Presidente de la Comisión Distrital Electoral. Si los resultados de ambas actas coinciden, se asentará en el formato establecido para ello. Unicamente en el supuesto de que el sobre referido no aparezca adherido al paquete electoral, se procederá a la apertura de éste, para la extracción del acta correspondiente;
+II. Se abrirán los sobres adheridos a los paquetes electorales que contengan los expedientes de la elección y siguiendo el orden numérico de las casillas; se cotejará el resultado del acta de escrutinio y cómputo contenido en el expediente de casilla, con los resultados que de la misma tenga el Presidente de la Comisión Distrital Electoral. Si los resultados de ambas actas coinciden, se asentará en el formato establecido para ello. Únicamente en el supuesto de que el sobre referido no aparezca adherido al paquete electoral, se procederá a la apertura de éste, para la extracción del acta correspondiente;
 
 III. Si los resultados de las actas no coinciden, o se detectaren alteraciones evidentes en las actas que generen duda fundada sobre el resultado de la elección en la casilla, o no existiere el acta de escrutinio y cómputo en el expediente de la casilla, ni estuviere en poder del Presidente de la Comisión Distrital Electoral, se procederá a realizar nuevamente el escrutinio y cómputo de la casilla, levantándose el acta correspondiente. Los resultados se anotarán en el formato establecido para ello; de igual manera, se harán constar en dicha acta, las objeciones que hubiera manifestado cualquiera de los representantes ante la Comisión Distrital, quedando a salvo sus derechos para impugnar ante el Tribunal Electoral, el cómputo de que se trate. Salvo en los casos que determine el pleno del organismo electoral como necesarios o de fuerza mayor, no se podrá interrumpir la realización de los cómputos, pues éstos se realizarán sucesiva e ininterrumpidamente hasta su conclusión. En ningún caso, la interrupción del cómputo excederá de ocho horas continuas;
 
@@ -3782,3 +3786,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
