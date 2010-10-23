@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2010-10-02"
+last_updated: "2010-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -1485,9 +1485,41 @@ Facultad de promover la suspensión.
 
 El sentenciado que considere que al dictarse la sentencia, en la que no hubo pronunciamiento sobre la sustitución o suspensión de la pena, reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover el incidente respectivo ante el Juez de Ejecución de Penas.
 
-### CAPÍTULO VII. PENAS RESTRICTIVAS DE LIBERTAD
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO VIII. PENAS PECUNIARIAS
+### CAPÍTULO VI BIS. RESTRICCIONES A LOS BENEFICIOS EN LA EJECUCIÓN DE LAS PENAS PRIVATIVAS DE LIBERTAD
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+
+Artículo 104 bis. Restricciones a los beneficios.
+
+El reo que haya sido sentenciado por el delito de robo de vehículos automotores con violencia sobre las personas, secuestro, secuestro exprés, extorsión, violación, homicidio doloso, de acuerdo a este Código, no le será aplicable ninguno los (sic) siguientes beneficios:
+
+I. Modalidad de la pena de prisión, tales como:
+
+a) Internamiento de fin de semana;
+
+b) Internamiento durante la semana;
+
+c) Internamiento nocturno; u
+
+d) Otras modalidades de internamiento análogas.
+
+II. Libertad anticipada.
+
+a) Tratamiento preliberacional;
+
+b) Libertad preparatoria; y
+
+c) Remisión parcial de la pena.
+
+III. Indulto
+
+IV. Condena condicional
+
+V. Sustitución de sanciones.
+
+### CAPÍTULO VII. PENAS RESTRICTIVAS DE LIBERTAD
 
 #### SECCIÓN PRIMERA. CONFINAMIENTO
 
@@ -1525,7 +1557,7 @@ Ejecución de la pena.
 
 La ejecución de la pena de prohibición de residir o acudir a un lugar determinado quedará, en lo conducente, sujeta a las reglas dispuestas para la medida cautelar de prohibición de acudir a determinadas reuniones o de visitar ciertos lugares.
 
-### CAPÍTULO IX. PENAS RESTRICTIVAS DE OTROS DERECHOS
+### CAPÍTULO VIII. PENAS PECUNIARIAS
 
 #### SECCIÓN PRIMERA. REPARACIÓN DEL DAÑO
 
@@ -1557,7 +1589,7 @@ I.- Notificará inmediatamente al sentenciado que cuenta con un plazo no mayor d
 
 II.- Si dentro del plazo concedido, el sentenciado demuestra que carece de recursos para cubrirla o que sólo puede pagar una parte, el Juez de Ejecución de Penas podrá sustituir la multa, total o parcialmente, por prestación de trabajo a favor de la comunidad. Por cada jornada de trabajo saldará uno de multa.
 
-### CAPÍTULO X. MEDIDAS DE SEGURIDAD
+### CAPÍTULO IX. PENAS RESTRICTIVAS DE OTROS DERECHOS
 
 #### SECCIÓN PRIMERA. SUSPENSIÓN DE DERECHOS, DESTITUCIÓN E INHABILITACIÓN PARA EL DESEMPEÑO DE CARGOS, COMISIONES O EMPLEOS
 
@@ -1705,11 +1737,7 @@ Al imponer las consecuencias Jurídicas, la autoridad judicial tomará las medid
 
 Estos derechos quedan a salvo, aun cuando la autoridad judicial no tome las medidas a que se refiere el párrafo anterior.
 
-### CAPÍTULO I. DE LA PREVENCIÓN
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+### CAPÍTULO X. MEDIDAS DE SEGURIDAD
 
 #### SECCIÓN PRIMERA. VIGILANCIA DE LA AUTORIDAD
 
@@ -1761,7 +1789,11 @@ Durante la ejecución de la medida, se informará periódicamente al Juez de Eje
 
 ## TÍTULO QUINTO. DE LOS MEDIOS DE PREVENCIÓN Y DE REINSERCIÓN SOCIAL
 
-### CAPÍTULO II. DE LA REINSERCIÓN SOCIAL
+### CAPÍTULO I. DE LA PREVENCIÓN
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 127.
 
@@ -1781,7 +1813,7 @@ Aplicación.
 
 El contenido del presente Título se aplicará a los sentenciados ejecutoriados y, en lo conducente, a los imputados de delito, entre quienes se promoverá su participación en los programas de trabajo, capacitación y educación.
 
-### CAPÍTULO I. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS PENITENCIARIOS
+### CAPÍTULO II. DE LA REINSERCIÓN SOCIAL
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -1899,7 +1931,7 @@ El personal técnico de cada uno de los establecimientos penitenciarios implemen
 
 ## TÍTULO SEXTO. DEL SISTEMA ESTATAL PENITENCIARIO
 
-### CAPÍTULO II. DEL INGRESO
+### CAPÍTULO I. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS PENITENCIARIOS
 
 ###### Artículo 141.
 
@@ -1979,7 +2011,7 @@ Adolescentes infractores.
 
 Por ningún motivo se dará entrada a establecimientos penitenciarios para adultos, a adolescentes infractores, los que deberán ser internados, en su caso, en las instituciones especiales que prevé la Ley de Justicia Especial para Adolescentes Infractores.
 
-### CAPÍTULO III. DE LOS TRASLADOS
+### CAPÍTULO II. DEL INGRESO
 
 ###### Artículo 150.
 
@@ -2021,7 +2053,7 @@ V.- Identificación fotográfica.
 
 La información contenida en el expediente quedará sujeta a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública.
 
-### CAPÍTULO IV. DEL RÉGIMEN DE TRATAMIENTO
+### CAPÍTULO III. DE LOS TRASLADOS
 
 ###### Artículo 154.
 
@@ -2053,7 +2085,7 @@ II.- Si el traslado del sentenciado es necesario o urgente, la Fiscalía lo ejec
 
 En ambos casos, la Fiscalía dará aviso inmediato al Juez de Ejecución de Penas para los efectos a que haya lugar.
 
-### CAPÍTULO V. DE LA DISCIPLINA EN El INTERIOR DE LOS ESTABLECIMIENTOS PENITENCIARIOS
+### CAPÍTULO IV. DEL RÉGIMEN DE TRATAMIENTO
 
 ###### Artículo 156.
 
@@ -2137,7 +2169,7 @@ Instituciones o asociaciones coadyuvantes.
 
 Para el fin de reinserción social de los internos en regímenes ordinario y abierto, se podrá solicitar la colaboración y participación de los ciudadanos y de instituciones o asociaciones públicas o privadas.
 
-### CAPÍTULO VI. COMUNICACIÓN Y RELACIONES CON EL EXTERIOR
+### CAPÍTULO V. DE LA DISCIPLINA EN El INTERIOR DE LOS ESTABLECIMIENTOS PENITENCIARIOS
 
 ###### Artículo 165.
 
@@ -2157,11 +2189,7 @@ Garantías procesales del interno.
 
 Ningún interno será sancionado sin ser previamente informado de la infracción que se le atribuye y sin que se le haya permitido presentar su defensa, verbal o escrita.
 
-### CAPÍTULO ÚNICO. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL A LIBERADOS
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+### CAPÍTULO VI. COMUNICACIÓN Y RELACIONES CON EL EXTERIOR
 
 ###### Artículo 168.
 
@@ -2189,7 +2217,11 @@ Los establecimientos penitenciarios dispondrán de áreas especialmente adecuada
 
 ## TÍTULO SÉPTIMO. DE LA ASISTENCIA POSPENITENCIARIA
 
-### CAPÍTULO ÚNICO. CAUSAS DE EXTINCIÓN
+### CAPÍTULO ÚNICO. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL A LIBERADOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 171.
 
@@ -2208,6 +2240,8 @@ Patronato de Ayuda para la Reinserción Social.
 El Patronato de Ayuda para la Reinserción Social, dependiente de la Fiscalía, tiene por objeto prestar asistencia jurídica, moral, económica, medica, social y laboral, a las personas que gocen de cualesquiera de los beneficios previstos en esta Ley, o que hayan sido puestas en libertad definitiva.
 
 ## TÍTULO OCTAVO. EXTINCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
+
+### CAPÍTULO ÚNICO. CAUSAS DE EXTINCIÓN
 
 ###### Artículo 173.
 
@@ -2390,3 +2424,13 @@ P.O. 2 DE OCTUBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día cinco de octubre de dos mil diez, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La modificación, derogación o reubicación de cualquier tipo penal a que se refiere este Decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se sigan comprendiendo en los tipos modificados o creados.
