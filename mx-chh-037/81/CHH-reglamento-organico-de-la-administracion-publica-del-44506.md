@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2010-10-09"
+last_updated: "2010-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -97,47 +97,45 @@ La aplicación del presente Reglamento, estará a cargo del Presidente y los tit
 
 ### CAPITULO SEGUNDO: DE LAS DEPENDENCIAS DE LA ADMINISTRACION MUNICIPAL
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 5.
 
-Para el estudio, planeación y despacho de las diversas ramas de la Administración, el Municipio contará con las siguientes Dependencias:
+Para el estudio, planeación y despacho de las diversas ramas de la Administración, el Municipio contará con las siguientes dependencias:
 
-Secretaría;
+Secretaría
 
-Tesorería;
+Tesorería
 
-Secretaría de Seguridad Pública y Protección Ciudadana;
+Secretaría de Seguridad Pública y Protección Ciudadana
 
-Dirección General de Tránsito;
+Dirección General de Tránsito
 
-Dirección General de Obras Públicas;
+Dirección General de Obras Públicas
 
-Dirección General de Desarrollo Urbano;
+Dirección General de Desarrollo Urbano
 
-Dirección General de Servicios Públicos;
+Dirección General de Servicios Públicos
 
-Oficialía Mayor;
+Oficialía Mayor
 
-Contraloría;
+Contraloría
 
-Dirección General de Ecología y Protección Civil;
+Dirección General de Ecología y Protección Civil
 
-Dirección General de Promoción Financiera y Económica;
+Dirección General de Promoción Financiera y Económica
 
-Dirección General de Asentamientos Humanos;
+Dirección General de Asentamientos Humanos
 
-Dirección General de Desarrollo Social;
+Dirección General de Desarrollo Social
 
-Dirección General de Educación y Cultura;
+Dirección General de Educación y Cultura
 
-Dirección General de Centros Comunitarios y Forestación;
+Dirección General de Centros Comunitarios
 
-Dirección General del Deporte, y
+Dirección General del Deporte
 
-Las Unidades de Coordinación y Apoyo adscritas al Presidente.
-
-Independientemente de lo anterior, el Ayuntamiento podrá crear y suprimir las dependencias, de acuerdo a las necesidades de la Administración, de conformidad con las facultades que le confiere el artículo 60 del Código Municipal para el Estado de Chihuahua.
+Dirección General de Salud Municipal
 
 ###### Artículo 6.
 
@@ -841,21 +839,21 @@ XIII. Autorizar, previo acuerdo del Presidente y con base en el presupuesto, la 
 
 XIV. Las demás que le señalen las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 56.
 
 Para el cumplimiento de sus fines, la Oficialía Mayor se dividirá en las siguientes Direcciones de Área:
 
-Dirección de Recursos Humanos;
+I. Dirección de Recursos Humanos
 
-Dirección de Patrimonio;
+II. Dirección de Patrimonio
 
-Dirección de Recursos Materiales;
+III. Dirección de Recursos Materiales
 
-Dirección de Servicios Médicos, y
+IV. Dirección de Servicios Médicos; y (sic)
 
-Dirección de Mantenimiento Mecánico.
+> <small>(DEROGADA, P.O. 23 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 57.
 
@@ -871,11 +869,33 @@ El Director de Patrimonio tendrá a su cargo el control y vigilancia de los bien
 
 El Director de Recursos Materiales tendrá a su cargo la adquisición de todos los bienes y servicios necesarios para que las Dependencias puedan desempeñar sus atribuciones.
 
+> <small>(ADICIONADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 2010)</small>
+
+DIRECION (SIC) GENERAL DE SALUD MUNICIPAL
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 60.
 
-El Director de Servicios Médicos tendrá a su cargo la prestación del servicio médico para los empleados municipales.
+Son atribuciones del Director General de Salud Municipal:
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+A) Planear, organizar, coordinar, supervisar y evaluar la prestación de servicios de Salud Pública que se dan a la población en la esfera de la competencia Municipal;
+
+B) Tendrá a su cargo la prestación del Servicio Médico para los empleados municipales;
+
+C) Presupuestar y ejercer los recursos públicos destinados a la protección de la salud;
+
+D) Promover la celebración de Convenios de Colaboración, Coordinación y Cooperación en materia de Salud Pública, con las autoridades Federales, Estatales y Organizaciones Civiles;
+
+E) Representar al Gobierno Municipal en los Organismos o Consejos de Planeación Federales y Estatales, cuya materia sea la Salud Publica;
+
+F) Coadyuvar en la vigilancia, en el ámbito de su competencia y acción, tendiente al debido cumplimiento de las disposiciones jurídicas Federales y Estatales en materia de Salud Pública;
+
+G) Desarrollar estrategias, programas preventivos y campañas permanentes de difusión e información en materia de combate al abuso en el consumo de alcohol, tabaco y drogas, orientados a desincentivar el consumo e informando de las consecuencias negativas en la salud de las personas, en la vida familiar y en lo social;
+
+H) Las demás que señalen las leyes, reglamentos y manuales de organización.
+
+(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010) (REUBICADO, P.O. 23 DE OCTUBRE DE 2010)
 
 Artículo 60 bis.- El Director de Mantenimiento Mecánico, tendrá a su cargo el buen funcionamiento y reparación de los vehículos propiedad del Municipio, llevará a cabo el reporte parcial y final de las reparaciones de los mismos, dando seguimiento al procedimiento que corresponda para lograr una mayor eficiencia en el mantenimiento vehicular, así mismo supervisará, autorizará y controlará, la asignación de talleres externos y el manejo de refacciones automotrices.
 
@@ -1624,5 +1644,9 @@ ACUERDO 284 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 27, 72, 90, 96, 5, 16, 29, 5
 P.O. 9 DE OCTUBRE DE 2010.
 
 ACUERDO 285 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 5, 39, 40, 41, 42, 43, 44 Y 45.
+
+ÚNICO.- La presente reforma, entrará en vigor a partir del día 10 de octubre de 2010, en caso de que su publicación en el Periódico Oficial del Gobierno del Estado se lleve a cabo antes de dicha fecha, caso contrario, entrará en vigor a partir del día siguiente de su publicación en el mencionado Periódico Oficial.
+
+P.O. 23 DE OCTUBRE DE 2010.
 
 ÚNICO.- La presente reforma, entrará en vigor a partir del día 10 de octubre de 2010, en caso de que su publicación en el Periódico Oficial del Gobierno del Estado se lleve a cabo antes de dicha fecha, caso contrario, entrará en vigor a partir del día siguiente de su publicación en el mencionado Periódico Oficial.
