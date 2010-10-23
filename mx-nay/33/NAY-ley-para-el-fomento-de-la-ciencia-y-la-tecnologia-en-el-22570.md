@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-fomento-de-la-ciencia-y-la-tecnologia-en-el-22570"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2001-11-24"
+last_updated: "2010-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY PARA EL FOMENTO DE LA CIENCIA Y LA TECNOLOGÍA EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 23 DE OCTUBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el Sábado 24 de Noviembre del 2001.
 
@@ -740,3 +742,17 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2010.
+
+Primero.- La presente ley entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga la Ley para el Fomento de la Ciencia y la Tecnología en el Estado de Nayarit, contenida en el Decreto 8386 publicado el 24 de Noviembre de 2001 en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Tercero.- El Reglamento de esta ley deberá expedirse en un plazo no mayor de noventa días, contados a partir de la entrada en vigor de la misma.
+
+Cuarto.- El Consejo General de Ciencia, Tecnología e Innovación del Estado de Nayarit deberá instalarse en un plazo no mayor a treinta días, contados a partir de la entrada en vigor de la presente ley.
+
+Quinto.- El Consejo de Ciencia y Tecnología del Estado de Nayarit (COCYTEN) a que se hace referencia en el artículo 27 de la presente ley, seguirá ejerciendo los recursos financieros y materiales asignados al organismo de igual denominación, constituido mediante el Decreto que se abroga; asimismo quedan a salvo los derechos laborales adquiridos por los servidores públicos de dicho organismo descentralizado.
