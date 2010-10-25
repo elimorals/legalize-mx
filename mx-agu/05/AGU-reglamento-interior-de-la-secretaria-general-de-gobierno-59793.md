@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-general-de-gobierno-59793"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-11"
-last_updated: "2009-04-06"
+last_updated: "2010-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de febrero de 2008.
-
-SECRETARIA GENERAL DE GOBIERNO
 
 ING. LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, en ejercicio de las facultades que me confiere la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y el Artículo 11 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, he tenido a bien expedir el Reglamento Interior de la Secretaría General de Gobierno del Estado.
 
@@ -949,77 +947,77 @@ XX. Ejecutar las sanciones que establece la Ley del Notariado del Estado y que i
 
 ### CAPÍTULO XIX. De la Unidad de Enlace Legislativo
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 35.
-
-El Secretario será suplido en sus ausencias temporales o accidentales menores a 30 días por el Subsecretario de Gobierno. En ausencias mayores será suplido por quien designe el Gobernador del Estado.
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
-
-###### ARTÍCULO 36.
 
 Al frente de la Unidad de Enlace legislativo habrá un Coordinador de Enlace legislativo, que dependerá orgánicamente del Secretario, para el estudio, planeación y despacho de los asuntos que le competen, se auxiliará del personal que le sea adscrito.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-###### ARTÍCULO 37.
+###### ARTÍCULO 36.
 
 El Coordinador de Enlace Legislativo tendrá las mismas atribuciones genéricas señaladas para los Directores Generales en el presente Reglamento.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO XX. De la Suplencia de los Servidores Públicos
+###### ARTÍCULO 37.
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2009)</small>
+Corresponde al Coordinador de Enlace Legislativo:
 
-###### ARTÍCULO 38.
+I. Auxiliar al Secretario en la conducción de las relaciones políticas del Poder Ejecutivo que, con motivos de procesos legislativos, se susciten con los partidos y agrupaciones políticos nacionales, con las organizaciones civiles y demás instituciones sociales;
 
-Corresponde a la Unidad de Enlace Legislativo:
+II. En los términos de lo que dispone la fracción anterior, diseñar mecanismos de enlace y diálogo permanente con los partidos y agrupaciones políticos nacionales;
 
-I. Auxiliar al Secretario en la conducción de las relaciones políticas del Poder Ejecutivo que, con motivo de procesos legislativos, se susciten con los partidos y agrupaciones políticos nacionales, con las organizaciones civiles y demás instituciones sociales;
+III. Instrumentar líneas de acción para promover consensos y acuerdos entre el Poder Ejecutivo y los partidos y agrupaciones políticos nacionales y locales, que pueden traducirse en acciones legislativas;
 
-II. En términos de lo que dispone la fracción anterior, diseñar mecanismos de enlace y diálogo permanente con los partidos y agrupaciones políticos nacionales;
-
-III. Instrumentar líneas de acción para promover consensos y acuerdos entre el Poder Ejecutivo y los partidos y agrupaciones políticos nacionales y locales, que puedan traducirse en acciones legislativas;
-
-IV. Auxiliar al Secretario en la conducción de las relaciones que, con motivo del desahogo de procedimientos legislativos, se susciten entre el Poder Ejecutivo y el Poder Legislativo y sus órganos o con la Comisión Permanente;
+IV. Auxiliar al Secretario en la conducción de las relaciones que, con motivo del desahogo de procedimientos legislativos, se susciten entre el Poder Ejecutivo y el Poder Legislativo y sus órganos y la Comisión Permanente;
 
 V. En el ámbito de su competencia, establecer y desarrollar vínculos políticos institucionales con el Poder Legislativo, con sus órganos y con los grupos parlamentarios que lo integran;
 
 VI. Coadyuvar con la dependencia o entidad que corresponda, en el establecimiento de un programa integral y sistemático de los proyectos e iniciativas de carácter legislativo del Poder Ejecutivo, con el propósito de prever los tiempos adecuados para su presentación ante el Poder Legislativo;
 
-VII. Presentar ante el Congreso del Estado o ante su Comisión Permanente, en su caso, las iniciativas de ley o de decreto, en su caso, los nombramientos para su ratificación, así como las demás comunicaciones que suscriban el titular del Poder Ejecutivo o las dependencias y entidades de la Administración Pública Estatal;
+VII. Presentar ante el Congreso del Estado o ante su Comisión Permanente, en su caso, las iniciativas de ley o de decreto, en su caso, los nombramientos para su ratificación, así como las demás comunicaciones el (sic) titular del Poder Ejecutivo o las dependencias y entidades de la Administración Pública Estatal;
 
 VIII. Auxiliar al Secretario en la conducción de las relaciones del Poder Ejecutivo con el Poder Legislativo, dando seguimiento y reportando al superior jerárquico sobre el desahogo de los procedimientos legislativos previstos en la Constitución y en las leyes, así como rindiendo informes oportunos sobre el desarrollo de las sesiones ordinarias y extraordinarias del Congreso del Estado, así como de la Comisión Permanente durante los recesos de aquél;
 
 IX. En los casos de reformas, adiciones o modificaciones a la Constitución Política del Estado de Aguascalientes, dar seguimiento, por lo que hace a los municipios del Estado, al procedimiento previsto por el artículo 94 constitucional;
 
-X. Recibir, atender, tramitar y dar respuesta a los citatorios, solicitudes, requerimientos, puntos de acuerdo, comunicaciones y demás actos que, en términos previstos en la Constitución Política del Estado de Aguascalientes y de las leyes aplicables, formulen el Congreso del Estado, sus órganos o sus comisiones e integrantes, al Gobernador del Estado o a los titulares de las dependencias y entidades de la Administración Pública Estatal;
+X. Recibir, atender, tramitar y dar respuesta a los citatorios, solicitudes, requerimientos, puntos de acuerdo, comunicaciones y demás actos que, en términos previstos por la Constitución Política del Estado de Aguascalientes y de las leyes aplicables, formulen el Congreso del Estado, sus órganos o sus comisiones e integrantes, al Gobernador del Estado o a los titulares de las dependencias y entidades de la Administración Pública Estatal; y
 
 XI. Las demás que determine el Secretario, dentro de la esfera de sus facultades.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-###### ARTÍCULO 39.
+### CAPÍTULO XX. De la Suplencia de los Servicios Públicos
+
+> <small>(REFORMADO Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 38.
 
 El Secretario será suplido en sus ausencias temporales o accidentales menores a 30 días por el Subsecretario de Gobierno. En ausencias mayores será suplido por quien designe el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-###### ARTÍCULO 40.
+###### ARTÍCULO 39.
 
 Los Subsecretarios serán suplidos en sus ausencias temporales o accidentales por el Director General que acuerde el Secretario.
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2009)</small>
+(REFORMADO, P.O. 25 DE OCTUBRE DE 2010
+
+###### ARTÍCULO 40.
+
+Los Directores Generales serán suplidos en sus ausencias temporales menores a 30 días, por el Subdirector o el Servidor Público de la jerarquía inmediata inferior que ellos mismos designen, si la ausencia es mayor, será suplido por quien designe el Secretario.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 41.
 
-Los Directores Generales serán suplidos en sus ausencias temporales o accidentales menores a 30 días, por el Subdirector o el Servidor Público de la jerarquía inmediata inferior que ellos mismos designen, si la ausencia es mayor, será suplido por quien designe el Secretario.
-
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2009)</small>
+Los Directores, Subdirectores, Jefes de Departamento y demás personal de la Secretaría, serán suplidos en sus ausencias temporales menores a 30 días por el servidor de la jerarquía inmediata inferior que ellos mismos señalen, si la ausencia es mayor, será suplido por quien designe el Secretario.
 
 ###### ARTÍCULO 42.
 
-Los Directores, Subdirectores, Jefes de Departamento y demás personal de la Secretaría, serán suplidos en sus ausencias temporales menores a 30 días por el servidor de la jerarquía inmediata inferior que ellos mismos señalen, si la ausencia es mayor, será suplido por quien designe el Secretario.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2010)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1052,3 +1050,7 @@ P.O. 6 DE ABRIL DE 2009.
 ###### ARTICULO ÚNICO.
 
 La presente reforma a este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE OCTUBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
