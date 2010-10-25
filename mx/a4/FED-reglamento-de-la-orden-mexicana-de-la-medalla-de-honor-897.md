@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-orden-mexicana-de-la-medalla-de-honor-897"
 country: "mx"
 rank: "reglamento"
 publication_date: "1953-12-12"
-last_updated: "2009-04-29"
+last_updated: "2010-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=897&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1953-12-09"
 
 REGLAMENTO DE LA MEDALLA DE HONOR BELISARIO DOMINGUEZ
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Diario Oficial de la Federación, el 12 de diciembre de 1953.
 
@@ -93,9 +93,17 @@ La Orden Mexicana de la Medalla de Honor “Belisario Domínguez” del Senado d
 
 La Orden Mexicana de la Medalla de Honor “Belisario Domínguez” del Senado de la República y los diplomas respectivos, serán impuestos y entregados en la sesión solemne que el día siete de octubre de cada año celebre la Cámara de Senadores para conmemorar el sacrificio del mártir de la democracia Dr. Don Belisario Domínguez. En caso de que la distinción sea póstuma, la presea será entregada a la institución o persona que determine el dictamen correspondiente, con las condiciones y características que en la misma se especifiquen.
 
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO DECIMO.
 
-El Secretario de la Orden llevará, en libros autorizados por la Comisión, los registros de las personas condecoradas con las anotaciones correspondientes, el libro de actas y el archivo. Conservará además las insignias de las cuales llevará un inventario riguroso y procederá a la distribución de las mismas en su caso, acompañando el Diploma correspondiente.
+El recinto de sesiones ubicado en el inmueble de Xicoténcatl número 9, Colonia Centro, Ciudad de México, será la sede en la que la Cámara de Senadores realizará anualmente en el mes de octubre, la sesión a la que se refiere el artículo Noveno del presente Decreto.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO DECIMO], D.O.F. 25 DE OCTUBRE DE 2010)</small>
+
+###### ARTICULO UNDECIMO.
+
+El Secretario de la Orden llevará, en libros autorizados por la Comisión, los registros de las personas condecoradas, con las anotaciones correspondientes, el libro de actas y el archivo. Conservará además las insignias de las cuales llevará un inventario riguroso y procederá a la distribución de las mismas en su caso, acompañando el Diploma correspondiente.
 
 TRANSITORIOS:
 
@@ -103,9 +111,11 @@ TRANSITORIOS:
 
 El presente Reglamento entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Por este solo año, el registro de postulaciones quedará comprendido entre los días 1° y 25 de diciembre.
+En el año 2010, la Medalla Belisario Domínguez del Senado de la República podrá entregarse, por única ocasión, a más de una persona.
 
 Sala de Comisiones de la H. Cámara de Senadores. México, D.F., a 25 de noviembre de 1953.- Lic. Julio Serrano Castro.- Gral. Rafael E. Melgar.- Lic. Luis I. Rodríguez.
 
@@ -114,3 +124,7 @@ Sala de Comisiones de la H. Cámara de Senadores. México, D.F., a 25 de noviemb
 D.O.F. 29 DE ABRIL DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE OCTUBRE DE 2010.
+
+UNICO.- El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
