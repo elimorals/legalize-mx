@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-gobierno-52388"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-03"
-last_updated: "2009-01-29"
+last_updated: "2010-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Sección I al Boletín Oficial del Estado de Sonora, el viernes 3 de noviembre de 2006.
 
@@ -41,37 +41,33 @@ La Secretaría de Gobierno, como dependencia del Poder Ejecutivo Estatal, tiene 
 
 Para la atención, estudio, planeación, despacho y resolución de los asuntos de su competencia, la Secretaría de Gobierno contará con las siguientes unidades administrativas y órganos desconcentrados:
 
-> <small>(REFORMADA, B.O. 29 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 I.- Unidades Administrativas:
 
 Oficina del Titular de la Secretaría.
 
-Subsecretaría "A" de Gobierno.
+Subsecretaría de Enlace Legislativo, Municipal e Institucional.
 
-Subsecretaría "B" de Gobierno.
+Subsecretaría de Servicios de Gobierno.
+
+Subsecretaría de Asuntos Sociales Prioritarios.
 
 Subsecretaría del Trabajo.
 
-Coordinación Estatal de Comunicación Social.
-
 Coordinación Ejecutiva de Relaciones Públicas y Eventos.
 
-Coordinación Ejecutiva de la Representación del Gobierno del Estado en San Luis Río Colorado.
-
-Coordinación Ejecutiva de la Representación del Gobierno del Estado en Caborca.
-
-Dirección General de Gobierno.
+Dirección General de Vinculación.
 
 Dirección General de Notarías.
 
 Dirección General del Registro Civil.
 
-Coordinación General de Asuntos Agrarios.
+Dirección General de Defensoría de Oficio.
 
 Dirección General del Boletín Oficial y Archivo del Estado.
 
-Dirección General de Defensoría de Oficio.
+Dirección General de Asuntos Agrarios.
 
 Dirección General de Atención a Migrantes Internacionales.
 
@@ -79,35 +75,27 @@ Dirección General del Trabajo y Previsión Social.
 
 Dirección General de Seguridad e Higiene, Capacitación y Adiestramiento.
 
-Dirección General de Difusión.
-
-Dirección General de Imagen.
-
-Dirección General de Administración.
-
-Dirección General de Administración y Finanzas.
-
 Dirección General de Relaciones Públicas y Eventos.
 
 Dirección General Jurídica.
+
+Dirección General de Gobierno.
 
 Coordinación General de Administración y Control Presupuestal.
 
 Dirección General de Sistemas de Información.
 
-> <small>(REFORMADA, B.O. 28 DE AGOSTO DE 2008)</small>
-
 II.- Órganos Desconcentrados:
+
+Representación del Gobierno del Estado en San Luis Río Colorado.
+
+Consejo Estatal de Población.
 
 Oficialías del Registro Civil.
 
 Unidad Estatal de Protección Civil.
 
-Consejo Estatal de Población.
-
-Juntas Locales de Conciliación y Arbitraje.
-
-Se anexa organigrama estructural.
+Juntas locales de Conciliación y Arbitraje.
 
 ###### ARTÍCULO 3°.
 
@@ -193,17 +181,21 @@ XXX.- Las demás que las disposiciones legales le confieran expresamente, así c
 
 El titular de la Secretaría podrá delegar, sin perjuicio de su ejercicio directo, las atribuciones citadas en las fracciones VI, X, XVII, XXI, XXIV, XXV Y XXVIII de este artículo, expidiendo los acuerdos relativos que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBSECRETARÍAS, DE LA COORDINACIÓN ESTATAL Y LA COORDINACIÓN EJECUTIVA
+> <small>(REFORMADA SU DENOMINACION, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBSECRETARÍAS Y LA COORDINACIÓN EJECUTIVA
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 6°.
 
-Al frente de cada Subsecretaría habrá un Subsecretario, de la Coordinación Estatal de Comunicación Social un Coordinador Estatal y al frente de cada Coordinación Ejecutiva un Coordinador Ejecutivo, quienes siendo técnica y administrativamente responsables del funcionamiento de las unidades administrativas bajo su coordinación, se auxiliarán, según sea el caso, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto, y tendrán las siguientes atribuciones:
+Al frente de cada Subsecretaría habrá un Subsecretario, y de la Coordinación Ejecutiva un Coordinador Ejecutivo, quienes siendo técnica y administrativamente responsables del funcionamiento de las unidades administrativas bajo su coordinación, se auxiliarán, según sea el caso, por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto, y tendrán las siguientes atribuciones:
 
 I.- Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el funcionamiento de las unidades administrativas bajo su coordinación, de acuerdo con los lineamientos que fije el titular de la dependencia;
 
-II.- Establecer coordinación, según sea el caso, con los Subsecretarios o los Coordinadores Estatal y Ejecutivo cuando resulte necesario para alcanzar el óptimo desarrollo de las actividades que sean competencia de la dependencia;
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+II.- Establecer coordinación, según sea el caso, con los Subsecretarios o el Coordinador Ejecutivo cuando resulte necesario para alcanzar el óptimo desarrollo de las actividades que sean competencia de la dependencia;
 
 III.- Acordar con el titular de la dependencia el despacho de los asuntos encomendados a las unidades administrativas que le están adscritas e informarle oportunamente sobre el estado que guardan los mismos;
 
@@ -245,45 +237,73 @@ XVIII.- Expedir copias certificadas de las constancias existentes en los archivo
 
 XIX.- Coadyuvar en el cumplimiento de la normatividad expedida para el control, organización, circulación y conservación de los documentos y archivo; y
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-XX.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+XX.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y le encomiende el Secretario.
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBSECRETARÍAS Y DE LA COORDINACIÓN ESTATAL Y LA COORDINACIÓN EJECUTIVA
+> <small>(REFORMADA SU DENOMINACION, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBSECRETARÍAS Y LA COORDINACIÓN EJECUTIVA
+
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 7°.
 
-La Subsecretaría “A” de Gobierno tendrá las siguientes atribuciones:
+La Subsecretaría de Enlace Legislativo, Municipal e Institucional, tendrá las siguientes atribuciones:
 
-I.- Atender, informar y dar seguimiento a los problemas y conflictos que afecten la gobernabilidad, la seguridad estatal y el estado de derecho, generados entre individuos u organizaciones de la Entidad;
+I.- Coadyuvar con el titular de la dependencia en la conducción de las relaciones con los Poderes Legislativo y Judicial del Estado, con los Ayuntamientos de los Municipios de la Entidad, con los Poderes de la Unión y con los Gobiernos de las Entidades Federativas;
 
-II.- Coadyuvar con el titular de la dependencia en la conducción de las relaciones con los Poderes Legislativo y Judicial del Estado, con los Ayuntamientos de los Municipios de la Entidad, con los Poderes de la Unión y con los Gobiernos de las Entidades Federativas;
+II.- Auxiliar a los Ayuntamientos de los municipios del Estado, cuando así lo soliciten, en el desempeño de sus atribuciones, así como en sus gestiones ante las dependencias y entidades de la Administración Pública Estatal y Federal;
 
-III.- Auxiliar a los Ayuntamientos de los municipios del Estado, cuando así lo soliciten, en sus gestiones ante las dependencias y entidades de la Administración Pública Estatal y Federal;
+III.-Brindar apoyo a las organizaciones públicas y privadas federales, estatales y municipales, cuando éstas lo soliciten en los términos de las disposiciones jurídicas aplicables, a fin de fortalecer el desarrollo político de la entidad;
 
-IV.- Instrumentar programas de análisis y seguimiento de información que permitan al titular de la dependencia, el conocimiento real y oportuno de la situación socio-política en la Entidad;
+IV.- Coordinar con instancias de los gobiernos federales, estatales y municipales, la atención y seguimiento de las demandas de los Ayuntamientos;
 
-V.- Promover el desarrollo político de la Entidad a través del fortalecimiento de la cultura política, ciudadana y de las organizaciones políticas;
+V. Analizar y brindar información sociodemográfica y política al titular de la Secretaría, para facilitar la toma de decisiones;
 
-VI.- Emprender las acciones necesarias para brindar el apoyo a los requerimientos y demandas de organizaciones públicas y/o privadas del nivel federal, estatal y municipal, a fin de fortalecer el desarrollo político de la Entidad;
+VI.- Instrumentar las medidas necesarias para la coordinación, organización y funcionamiento de las representaciones de la dependencia en los municipios;
 
-VII.- Orientar a partidos políticos y organizaciones sociales y políticas a fin de incrementar su participación en el desarrollo político de la Entidad;
+VII.- Ser enlace entre los organismos descentralizados sectorizados a la Secretaría de Gobierno, para apoyarlos en las gestiones y políticas públicas que promuevan, gestionando reuniones periódicas para su análisis con el Gobernador del Estado y el Secretario de Gobierno;
 
-VIII.- Analizar y dictaminar las solicitudes de opinión favorable de aquellas personas físicas o morales que pretendan establecer talleres de fabricación de artificios pirotécnicos, armas de fuego, armas de gas y de municiones y fábricas de pólvora, explosivos, artificios o de substancias químicas que, en su caso, deberá emitir el Ejecutivo del Estado en atención a lo que dispone la legislación aplicable a la materia. Respecto de las solicitudes que obtengan dictamen positivo, procederá a elaborar por escrito la opinión favorable del Ejecutivo y la presentará para su suscripción;
+VIII.- Promover el desarrollo político de la Entidad a través del fortalecimiento de la cultura cívico-política de los ciudadanos, de las organizaciones políticas y los mecanismos de participación ciudadana;
 
-IX.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+IX.- Orientar a partidos políticos y organizaciones sociales y políticas a fin de incrementar su participación en el desarrollo político de la Entidad;
 
-X.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+X.- Atender de forma directa, cuando así se considere necesario, el despacho de los asuntos de las unidades administrativas bajo su coordinación; y
+
+XI.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y le encomiende el Secretario.
+
+> <small>(ADICIONADO, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 7° BIS.- La Subsecretaría de Servicios de Gobierno tendrá las siguientes atribuciones:
+
+I.- Coordinar, controlar y evaluar el funcionamiento de las unidades adscritas a esta Subsecretaría;
+
+II.- Impulsar acciones de innovación y mejora continua de los servicios que ofrecen las unidades administrativas adscritas a la Subsecretaría;
+
+III.- Propiciar y apoyar el acercamiento de los servicios de gobierno a la ciudadanía, en las áreas de competencia de esta Subsecretaría;
+
+IV.- Supervisar y evaluar el trabajo de la Unidad Estatal de Protección Civil, así como impulsar acciones de vinculación entre gobierno y ciudadanía, encaminadas a fortalecer la cultura de la protección civil en el Estado;
+
+V.- Atender de forma directa, cuando así se considere necesario, el despacho de los asuntos de las unidades administrativas bajo su coordinación;
+
+VI.- Fomentar la actualización del Marco Jurídico que regula a las unidades adscritas a esta Subsecretaría;
+
+VII.- Analizar y procesar información relacionada con la esfera de competencia de esta Subsecretaría y sus unidades administrativas adscritas; y
+
+VIII.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y le encomiende el Secretario.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 8°.
 
-La Subsecretaría “B” de Gobierno tendrá las siguientes atribuciones:
+La Subsecretaría de Asuntos Sociales Prioritarios tendrá las siguientes atribuciones:
 
 l.- Atender, informar y dar seguimiento a los asuntos relacionados con la atención gubernamental que brindan las unidades administrativas bajo su coordinación;
 
 II.- Promover las acciones necesarias para atender los asuntos del ámbito rural y agrario;
 
-III.- Fomentar la eficiencia de los servicios que brinda a través de la Institución de la Defensoría de Oficio;
+III.- (DEROGADA, B.O. 25 DE OCTUBRE DE 2010)
 
 IV.- Atender de forma directa, cuando así se considere necesario, el despacho de los asuntos de las unidades administrativas bajo su coordinación;
 
@@ -291,9 +311,11 @@ V.- Coordinar las acciones y dar seguimiento a las gestiones de los asuntos y de
 
 VI.- Establecer coordinación de forma directa con las distintas dependencias federales, estatales y municipales en el seguimiento de las acciones y proyectos de atención a la ciudadanía emprendidos por la Subsecretaría;
 
-VII.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+VII.- (DEROGADA, B.O. 25 DE OCTUBRE DE 2010)
 
-VIII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+VIII.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y le encomiende Secretario.
 
 ###### ARTÍCULO 9°.
 
@@ -301,23 +323,7 @@ La Subsecretaría del Trabajo será el conducto para que el Secretario de Gobier
 
 ###### ARTÍCULO 10.
 
-La Coordinación Estatal de Comunicación Social tendrá las siguientes atribuciones:
-
-I.- Establecer y mantener los mecanismos necesarios para el logro de buenas relaciones con todos los medios de comunicación, como son prensa, televisión, radio y otros;
-
-II.- Difundir a través de los medios de comunicación los programas y acciones políticas y sociales de la Administración Pública Estatal, así como la participación del Gobernador del Estado en todo tipo de eventos que revistan importancia para la vida pública de la Entidad;
-
-III.- Dar a conocer las gestiones que en beneficio del Estado lleve a cabo el titular del Ejecutivo, con el fin de que la población conozca, con el mayor apego a la verdad y a los hechos, los esfuerzos que cotidianamente se realizan para la superación y desarrollo de la Entidad y de sus ciudadanos;
-
-IV.- Apoyar a las diferentes dependencias del Gobierno del Estado en la difusión de sus programas y metas de trabajo, con el fin de que prevalezca una unidad de criterio en todo lo relativo a la comunicación social;
-
-V.- Ser el conducto por el cual las dependencias y organismos descentralizados, realicen actividades relacionadas con publicidad, propaganda, publicaciones especiales y tareas afines de conformidad con lo establecido en las disposiciones jurídicas aplicables en la materia;
-
-VI.- Suscribir en representación del Poder Ejecutivo del Estado todos aquellos instrumentos jurídicos que resulten necesarios para que las acciones de Gobierno sean debidamente difundidas y hechas del conocimiento de la comunidad sonorense;
-
-VII.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
-
-VIII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+(DEROGADO, B.O. 25 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO 11.
 
@@ -337,73 +343,29 @@ VI.- Elaborar y controlar la Red de Distribución, la cual consiste en el envío
 
 VII.- Elaborar la recopilación, captura y retroalimentación de información necesaria para el Sistema de Base de Datos y Control de Eventos de Relaciones Públicas, denominado Bader;
 
-VIII.- Coadyuvar con las dependencias y entidades de la Administración Pública Estatal en la elaboración e instrumentación de programas de relaciones públicas;
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-IX.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+VIII.- Coadyuvar con las dependencias y entidades de la Administración Pública Estatal en la elaboración e instrumentación de programas de relaciones públicas; y
 
-X.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-> <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+IX.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y le encomiende Secretario.
 
-###### ARTÍCULO 11 Bis.
+X.- (DEROGADA, B.O. 25 DE OCTUBRE DE 2010)
 
-La Coordinación Ejecutiva de la Representación del Gobierno del Estado en San Luis Río Colorado, tendrá las siguientes atribuciones:
+ARTÍCULO 11 BIS.- (DEROGADO, B.O. 25 DE OCTUBRE DE 2010)
 
-I.- Representar al Gobierno del Estado en el Municipio de San Luis Río Colorado, ante dependencias públicas, privadas y organismos de la sociedad civil para tramitar, promover, gestionar, difundir y vincular actividades y asuntos relacionados con el desarrollo y bienestar del Estado;
+ARTÍCULO 11 BIS 1.- (DEROGADO, B.O. 25 DE OCTUBRE DE 2010)
 
-II.- Asegurar y propiciar en coordinación con la Ayudantía las condiciones de seguridad y logística que demanda la investidura del titular del Poder Ejecutivo del Estado durante su estancia en el Municipio de San Luis Río Colorado;
+> <small>(REFORMADA SU DENOMINACION, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-III.- Apoyar, trasladar y atender a funcionarios del Gobierno del Estado de Sonora en sus actividades oficiales en el Municipio de San Luis Río Colorado;
+### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES Y LA COORDINACIÓN GENERAL
 
-IV.- Promover actividades políticas, culturales, económicas y todas aquellas que sean necesarias para promover en forma eficaz los programas del Gobierno del Estado;
-
-V.- Atender y apoyar en promoción e información a la comunidad sonorense que resida o viaje al Municipio de San Luis Río Colorado, en lo relativo a programas que desarrolla el Gobierno del Estado, dando seguimiento hasta llegar a su respectiva conclusión;
-
-VI.- Mantener un diálogo propositivo y de intercambio con los representantes de los organismos privados como productores, comerciantes, industriales, con el fin de fomentar los programas del Gobierno del Estado;
-
-VII.- Coadyuvar en las gestiones relacionadas con el Gobierno del Estado ante el Gobierno Municipal e instituciones públicas y privadas cuando sean encomendadas por el Titular del Poder Ejecutivo o por las dependencias estatales;
-
-VIII.- Actualizar y enviar al titular de esta dependencia los directorios de instituciones y personas relacionadas al buen funcionamiento del Gobierno del Estado;
-
-IX.- Informar permanentemente al Gobernador del Estado y a las instancias y niveles que determinen sobre las noticias internacionales, nacionales y regionales que impacten al desarrollo del municipio de San Luis Río Colorado, Sonora;
-
-X.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
-
-XI.- Las demás que le confieren las disposiciones legales aplicables, el Gobernador del Estado y el titular de la dependencia, dentro de la esfera de sus atribuciones.
-
-> <small>(ADICIONADA, B.O. 28 DE AGOSTO DE 2008)</small>
-
-###### ARTÍCULO 11 Bis 1.
-
-La Coordinación Ejecutiva de la Representación del Gobierno del Estado en Caborca, tendrá las siguientes atribuciones:
-
-I.- Representar al Gobierno del Estado en el Municipio de Caborca, ante dependencias públicas, privadas y organismos de la sociedad civil para tramitar, promover, gestionar, difundir y vincular actividades y asuntos relacionados con el desarrollo y bienestar del Estado;
-
-II.- Asegurar y propiciar en coordinación con la Ayudantía, las condiciones de seguridad y logística que demanda la investidura del Titular del Poder Ejecutivo del Estado durante su estancia en el Municipio de Caborca;
-
-III.- Apoyar, trasladar y atender a funcionarios del Gobierno del Estado de Sonora en sus actividades oficiales en el Municipio de Caborca;
-
-IV.- Promover actividades políticas, culturales, económicas y todas aquellas que sean necesarias para promover en forma eficaz los programas del Gobierno del Estado;
-
-V.- Atender y apoyar en promoción e información a la comunidad sonorense que resida o viaje al Municipio de Caborca, en lo relativo a programas que desarrolla el Gobierno del Estado, dando seguimiento hasta llegar a su respectiva conclusión;
-
-VI.- Mantener un diálogo propositivo y de intercambio con los representantes de los organismos privados como productores, comerciantes e industriales, con el fin de fomentar los programas del Gobierno del Estado;
-
-VII.- Coadyuvar en las gestiones relacionadas con el Gobierno del Estado ante el Gobierno Municipal e instituciones públicas y privadas cuando sean encomendadas por el Titular del Poder Ejecutivo o por las dependencias estatales;
-
-VIII.- Actualizar y enviar al titular de esta dependencia los directorios de instituciones y personas relacionadas al buen funcionamiento del Gobierno del Estado;
-
-IX.- Informar permanentemente al Gobernador del Estado y a las instancias y niveles que determinen, sobre las noticias internacionales, nacionales y regionales que impacten al desarrollo del municipio de Caborca, Sonora;
-
-X.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
-
-XI.- Las demás que le confieren las disposiciones legales aplicables, el Gobernador del Estado y el titular de la dependencia, dentro de la esfera de sus atribuciones.
-
-### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES Y COORDINACIONES GENERALES
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 12.
 
-Al frente de cada una de las Direcciones Generales y Coordinaciones Generales habrá un Director General y un Coordinador General, respectivamente, quienes siendo técnica y administrativamente responsables del funcionamiento de la unidad administrativa a su cargo, tendrán las siguientes atribuciones genéricas:
+Al frente de cada una de las Direcciones Generales y la Coordinación General habrá un Director General y un Coordinador General, respectivamente, quienes siendo técnica y administrativamente responsables del funcionamiento de la unidad administrativa a su cargo, se auxiliarán según corresponda por el personal técnico y administrativo que las necesidades del servicio requieran y figuren en el presupuesto, y tendrán las siguientes atribuciones genéricas:
 
 l.- Planear, programar, organizar, dirigir, ejecutar, controlar y evaluar el desarrollo de los programas y acciones encomendadas a la unidad administrativa a su cargo, acorde a la política que define el Plan Estatal de Desarrollo;
 
@@ -421,7 +383,9 @@ VII.- Elaborar el anteproyecto de Presupuesto de Egresos por Programas que corre
 
 VIII.- Solicitar a su superior jerárquico, las modificaciones y transferencias presupuestales de los recursos que sean necesarios para la ejecución de los programas a su cargo;
 
-IX.- Determinar, conforme a sus necesidades reales, los requerimientos de bienes muebles y servicios que sean indispensables para el desempeño de las funciones de la unidad administrativa a su cargo y remitido al superior jerárquico para su autorización;
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+IX.- Determinar, conforme a sus necesidades reales, los requerimientos de bienes muebles y servicios que sean indispensables para el desempeño de las funciones de la unidad administrativa a su cargo y remitirlo al superior jerárquico para su autorización;
 
 X.- Sujetarse en sus actividades de programación y en el seguimiento y control del gasto asignado a la unidad administrativa a su cargo, de acuerdo a las normas y lineamientos que regulen dichas actividades;
 
@@ -465,51 +429,35 @@ XXVI.- Expedir copias certificadas de las constancias existentes en los archivos
 
 XXVII.- Coadyuvar en el cumplimiento de la normatividad expedida para el control, organización, circulación y conservación de los documentos y archivo; y
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-XXVIII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+XXVIII.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
 
-### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES Y COORDINACIONES GENERALES
+> <small>(REFORMADA SU DENOMINACION, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES Y LA COORDINACIÓN GENERAL
+
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 13.
 
-La Dirección General de Gobierno estará adscrita a la Subsecretaría “A” de Gobierno y le corresponderán las siguientes atribuciones:
+La Dirección General de Vinculación estará adscrita a la Subsecretaría de Enlace Legislativo, Municipal e Institucional, y tendrá las siguientes atribuciones:
 
-I.- Actuar como enlace con los organismos públicos y privados de los niveles municipal, estatal y federal, encargados del manejo de información preventiva para la seguridad nacional, seguridad pública y tranquilidad política;
+I.- Previa solicitud de los Ayuntamientos respectivos, proponer a su superior jerárquico las acciones convenientes para la atención de asuntos que involucren a éstos ante el Poder Legislativo;
 
-II.- Dar seguimiento a las actividades de coordinación y relaciones institucionales establecidas con autoridades consulares que operan en la jurisdicción geográfica y legal de competencia de la Secretaría;
+II.- Recabar y analizar las demandas sociales y políticas que se presenten en los Ayuntamientos y el Poder Legislativo del Estado, a efecto de realizar sugerencias a su superior jerárquico para la toma de decisiones;
 
-III.- Colaborar y participar en lo que a la autoridad estatal corresponda en la aplicación de la Ley Federal de Juegos y Sorteos y su Reglamento;
+III.- Dar seguimiento a las iniciativas de Leyes y Decretos que promueva el Titular del Poder Ejecutivo ante el Congreso del Estado;
 
-IV.- Instrumentar la coordinación de acciones que procedan con la Secretaría de Gobernación para auxiliarla en el exacto cumplimiento de las Leyes de Juegos y Sorteos y de Asociaciones Religiosas y Culto Público, y coadyuvar con el titular de la dependencia para el correcto ejercicio de sus atribuciones competenciales en dichas materias;
+IV.- Gestionar la conducción de las relaciones con los Poderes Legislativo y Judicial del Estado, con los Ayuntamientos de los Municipios de la Entidad y con los Poderes de la Unión; y
 
-V.- Tramitar y remitir ante la autoridad correspondiente al pago de derechos que correspondan por eventos de vigilancia especial, tales como carreras de caballos, peleas de gallos y sorteos;
+V.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende su superior jerárquico.
 
-VI.- Auxiliar a los ayuntamientos en sus gestiones ante las dependencias de la Administración Pública Federal para los trámites relativos a la materia de culto religioso y juegos y sorteos;
-
-VII.- Implementar los mecanismos y acciones necesarias tendientes a la correcta aplicación de las políticas que en materia de su competencia desempeñe la Secretaría de Gobierno y de acuerdo a lo establecido en el Plan Estatal de Desarrollo;
-
-VIII.- Instrumentar las medidas necesarias para la coordinación, organización y funcionamiento de las representaciones de la dependencia en los municipios;
-
-IX.- Elaborar y mantener reportes con bases estadísticas sobre la situación económica, política y social del Estado, conforme a los requerimientos del titular de la dependencia;
-
-X.- Diseñar, aplicar y emitir informes de estudios de opinión a la población, referentes a la pertinencia y factibilidad social de las políticas implementadas por el Estado;
-
-XI.- Estructurar análisis de prospectivas en puntos coyunturales o de oportunidad para facilitar la toma de decisiones del titular de la dependencia;
-
-XII.- Mantener informado al titular de la dependencia a través del análisis y seguimiento de los medios informativos y manifestaciones de inconformidad de la población a fin de que pueda atender oportunamente los problemas sociales, las protestas sectoriales y las demandas ciudadanas;
-
-XIII.- Planear, estructurar y operar un sistema de información preventiva a través de la recopilación en fuentes abiertas y cerradas que permita el seguimiento de las situaciones de riesgo a la tranquilidad política en los ámbitos estatal y nacional;
-
-XIV.- Apoyar con funciones logísticas en la organización de eventos diversos con sectores sociales y políticos; y establecer medidas de seguridad que garanticen la integridad de la información que se procesa, se transmite y se maneja en la dependencia;
-
-XV.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
-
-XVI.- Las demás que le confieren las disposiciones, legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 14.
 
-La Dirección General de Notarías estará adscrita a la Subsecretaría “A” de Gobierno, y además de las obligaciones y atribuciones que le confiere la Ley de Notarías para el Estado de Sonora, le corresponderán las siguientes atribuciones:
+La Dirección General de Notarías estará adscrita a la Subsecretaría de Servicios de Gobierno, y además de las obligaciones y atribuciones que le confiere la Ley de Notarías para el Estado de Sonora, le corresponderán las siguientes atribuciones:
 
 I.- Llevar a cabo el despacho de los asuntos relacionados con la función notarial;
 
@@ -525,17 +473,25 @@ VI. - Recibir y resolver quejas del público, presentadas por irregularidades en
 
 VII.- Proporcionar sellos de autorización notarial y protocolos a los Notarios;
 
-VIII.- Proporcionar información a las autoridades judiciales del Estado, cuando así lo requieran, sobre disposiciones testamentarias;
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-IX.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+VIII.- Proporcionar información a las autoridades judiciales del Estado, cuando así lo requieran, sobre disposiciones testamentarias; y
 
-X.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+IX.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
+
+X.- (DEROGADA, B.O. 25 DE OCTUBRE DE 2010)
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 15.
 
-La Dirección General del Registro Civil estará adscrita a la Subsecretaría “A” de Gobierno y ejercerá, además de las atribuciones que prevé la Ley que Regula la Organización de la Institución del Registro Civil en el Estado de Sonora, las siguientes:
+La Dirección General del Registro Civil estará adscrita a la Subsecretaría de Servicios de Gobierno y ejercerá, además de las atribuciones que prevé la Ley que Regula la Organización de la Institución del Registro Civil en el Estado de Sonora, las siguientes:
 
-I.- Organizar, dirigir, controlar y evaluar las tareas encomendadas a su unidad, al Archivo General del Registro Civil y a las Oficialías del Registro Civil;
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+I.- Organizar, dirigir, controlar y evaluar las tareas encomendadas a su unidad, al Archivo Estatal del Registro Civil y a las Oficialías del Registro Civil;
 
 II.- Autorizar las anotaciones marginales que deban asentarse en los libros del Archivo Estatal del Registro Civil;
 
@@ -565,85 +521,47 @@ XIV.- Elaborar programas, métodos y sistemas cuyo objetivo sea mejorar la calid
 
 XV.- Cumplir con las disposiciones y normas establecidas por la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación, en lo referente a la Clave Única del Registro de Población; y
 
-XVI.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+XVI.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
+
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 16.
 
-La Coordinación General de Asuntos Agrarios estará adscrita a la Subsecretaría “B” de Gobierno y tendrá las siguientes atribuciones:
+La Dirección General de Defensoría de Oficio estará adscrita a la Subsecretaría de Servicios de Gobierno y ejercerá las atribuciones que le señala la Ley Orgánica de la Defensoría de Oficio.
 
-I.- Establecer coordinación con las distintas instituciones del sector agrario en el Estado, para la atención de la problemática rural;
-
-II.- Atender, analizar y coadyuvar en conflictos y problemas que se presenten entre individuos u organizaciones en relación con las dinámicas rurales del Estado;
-
-III.- Elaborar diagnósticos y proponer soluciones a asuntos de naturaleza rural que se presenten entre ejidatarios, comuneros, grupos y/u organizaciones campesinas de la Entidad, o entre éstos y los particulares;
-
-IV.- Coadyuvar en la correcta aplicación de la política agropecuaria y forestal prevista en el Plan Estatal de Desarrollo, en lo que a su competencia se refiere;
-
-V.- Coadyuvar con las instituciones que correspondan en el ordenamiento de las actividades de las organizaciones acuícolas y pesqueras, así como apoyar las acciones de gestión social y económica de las mismas o de los productores que las integren;
-
-VI.- Resguardar el archivo integrado por la extinta Comisión Agraria Mixta del Estado, así como proporcionar a las dependencias de los distintos niveles de gobierno, ejidatarios, comuneros, ejidos, comunidades y/u organizaciones campesinas, previa solicitud por escrito, antecedentes documentales que obren en dicho archivo, así como expedir copias certificadas de tal documentación;
-
-VII.- (DEROGADA, B.O. 20 DE SEPTIEMBRE DE 2007)
-
-VIII.- (DEROGADA, B.O. 20 DE SEPTIEMBRE DE 2007)
-
-IX.- (DEROGADA, B.O. 20 DE SEPTIEMBRE DE 2007)
-
-X.- Proporcionar a las distintas instituciones involucradas en el Programa de Certificación de Derechos Ejidales y Titulación de Solares, los antecedentes jurídicos de los ejidos contemplados en las metas, tales como resoluciones que actualizaron los derechos agrarios de los núcleos agrarios, mandamientos gubernamentales y resoluciones presidenciales en los que se contempla la superficie real concedida a los mismos;
-
-XI.- Coadyuvar en sus labores con los distintos Tribunales Federales competentes en la materia y con los Tribunales Unitarios Agrarios pertenecientes a los Distritos 28 y 35 con residencia en la Entidad;
-
-XII.- (DEROGADA, B.O. 20 DE SEPTIEMBRE DE 2007)
-
-XIII.- (DEROGADA, B.O. 20 DE SEPTIEMBRE DE 2007)
-
-XIV.- (DEROGADA, B.O. 20 DE SEPTIEMBRE DE 2007)
-
-> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
-
-XV.- Coadyuvar, en su caso, con las autoridades federales en materia agraria, en la planeación e instrumentación de Programas que en materia para la regularización de la tierra pudieran implementarse inmediatamente o en el futuro;
-
-> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
-
-XVI.- Llevar a cabo diálogo directo con núcleos agrarios ya certificados a través del Programa de Certificación de Derechos Ejidales y Titulación de Solares para darles a conocer la importancia de la regularización obtenida, informando sobre actos jurídicos que podrán celebrar;
-
-XVII.- Brindar asesoría jurídica y técnica, cuando así lo soliciten los ejidatarios y comuneros o alguna dependencia de gobierno;
-
-XVIII.- Participar en la celebración de convenios con las instituciones correspondientes para una mejor atención de las políticas en materia agraria;
-
-XIX.- Coadyuvar con la Comisión para la Atención de los Pueblos Indígenas de Sonora en la ejecución de las políticas públicas de naturaleza agraria;
-
-XX.- Promover, difundir y apoyar los distintos programas y proyectos productivos en materia agraria, en los que participen las instituciones públicas estatales;
-
-XXI.- Evaluar y verificar periódicamente las actividades a su cargo, en función de los objetivos y programas que se encuentren bajo su responsabilidad y, en su caso, adoptar las medidas necesarias para corregir las desviaciones que se hubieren detectado;
-
-XXII.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
-
-XXIII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 17.
 
-La Dirección General del Boletín Oficial y Archivo del Estado estará adscrita a la Subsecretaría "A" de Gobierno y le corresponderán las siguientes atribuciones:
+La Dirección General del Boletín Oficial y Archivo del Estado estará adscrita a la Subsecretaría de Servicios de Gobierno y le corresponderán las siguientes atribuciones:
 
 I.- Dirigir, organizar y controlar, de conformidad con lo dispuesto en la Ley que Regula la Administración de Documentos Administrativos e Históricos, y conforme a las políticas que determine el titular de la dependencia, la documentación administrativa e histórica generada por el Poder Ejecutivo y que esté bajo custodia de esta unidad administrativa, otorgando servicios de apoyo a las dependencias que lo soliciten, en lo relativo a la organización y funcionamiento de sus archivos;
 
-II.- Recibir, registrar y distribuir la correspondencia que se genere en las distintas dependencias del Ejecutivo del Estado y en la Secretaría de Gobierno;
+II.- (DEROGADA, B.O. 25 DE OCTUBRE DE 2010)
 
-III.- Recibir, acusar recibo, registrar y publicar en el Boletín Oficial del Gobierno del Estado y/o, en su caso, archivar las leyes, decretos y acuerdos que remita el Poder Legislativo, de conformidad con lo dispuesto en la Ley del Boletín Oficial;
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-IV.- Editar, imprimir y distribuir el Boletín Oficial del Gobierno del Estado, así como compilaciones de leyes y demás disposiciones que deban publicarse en dicho órgano de difusión, de conformidad con lo dispuesto en la Ley del Boletín Oficial;
+III.- Recibir, publicar y archivar en el Boletín Oficial del Gobierno del Estado de Sonora las leyes, decretos y acuerdos que remita el Poder Legislativo, de conformidad con lo dispuesto en la Ley del Boletín Oficial;
+
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+IV.- Editar, imprimir y distribuir el Boletín Oficial del Gobierno del Estado de Sonora, de conformidad con lo dispuesto en la Ley del Boletín Oficial. Sin perjuicio de lo anterior, el Boletín Oficial también podrá divulgarse en Internet o cualquier otro medio análogo que permita la tecnología de la información;
 
 V.- Conservar y custodiar los nombramientos de los servidores públicos adscritos a las dependencias de la Administración Pública Estatal y emitir las copias certificadas de los mismos, cuando así se lo soliciten;
 
-VI.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa;
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+VI.- Expedir copias certificadas de los documentos del Archivo General del Estado a su cargo, así como de las constancias existentes en los archivos de su unidad administrativa;
 
 VII.- Planear, organizar, ejecutar y evaluar el funcionamiento de los archivos del Sistema Estatal de Archivos Públicos, de conformidad con lo dispuesto en la Ley que Regula la Administración de Documentos Administrativos e Históricos; así como la recepción, organización, conservación, restauración, custodia, circulación, difusión y uso de los documentos que los integran;
 
 VIII.- Conservar, custodiar y controlar el acervo documental considerado como histórico para la consulta de las dependencias y entidades estatales; así como para el público en general que lo solicite;
 
-IX.- Difundir los acervos documentales históricos del Estado, mediante publicaciones y exposiciones;
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+IX.- Difundir los acervos documentales históricos del Estado, mediante publicaciones, presentaciones y exposiciones;
 
 X.- Llevar los registros necesarios para legalizar o certificar las firmas de los funcionarios estatales y municipales, de instituciones educativas y, en general, de las personas que expidan documentos públicos;
 
@@ -661,17 +579,53 @@ XIV.- Operar un sistema de información para dar a conocer la naturaleza, efecto
 
 XV.- Implementar y mantener en la dependencia, el Sistema Integral de Archivos, así mismo elaborar los procedimientos, normatividad de control de administración documental y criterios específicos de organización de archivos de acuerdo a la normatividad en la materia; y
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-XVI.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+XVI.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
+
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 18.
 
-La Dirección General de Defensoría de Oficio estará adscrita a la Subsecretaría “B” de Gobierno y ejercerá las atribuciones que le señala la Ley Orgánica de la Defensoría de Oficio.
+La Dirección General de Asuntos Agrarios estará adscrita a la Subsecretaría de Asuntos Sociales Prioritarios y tendrá las siguientes atribuciones:
+
+I.- Establecer coordinación con las distintas instituciones del sector agrario en el Estado, para la atención de la problemática rural;
+
+II.- Atender, analizar y coadyuvar en conflictos y problemas que se presenten entre individuos u organizaciones en relación con las dinámicas rurales del Estado;
+
+III.- Elaborar diagnósticos y proponer soluciones a asuntos de naturaleza rural que se presenten entre ejidatarios, comuneros, grupos y/u organizaciones campesinas de la Entidad, o entre éstos y los particulares;
+
+IV.- Coadyuvar en la correcta aplicación de la política agropecuaria y forestal prevista en el Plan Estatal de Desarrollo, en lo que a su competencia se refiere;
+
+V.- Coadyuvar con las instituciones que correspondan en el ordenamiento de las actividades de las organizaciones acuícolas y pesqueras, así como apoyar las acciones de gestión social y económica de las mismas o de los productores que las integren;
+
+VI.- Resguardar el archivo integrado por la extinta Comisión Agraria Mixta del Estado, así como proporcionar a las dependencias de los distintos niveles de gobierno, ejidatarios, comuneros, ejidos, comunidades y/u organizaciones campesinas, previa solicitud por escrito, antecedentes documentales que obren en dicho archivo, así como expedir copias certificadas de tal documentación;
+
+VII.- Proporcionar a las distintas instituciones involucradas en el Programa de Certificación de Derechos Ejidales y Titulación de Solares, los antecedentes jurídicos de los ejidos, tales como resoluciones que actualizaron los derechos agrarios de los núcleos agrarios, mandamientos gubernamentales y resoluciones presidenciales en los que se contempla la superficie real concedida a los mismos;
+
+VIII.- Coadyuvar en sus labores con los distintos Tribunales Federales competentes en la materia y con los Tribunales Unitarios Agrarios pertenecientes a los Distritos 28 y 35 con residencia en la Entidad;
+
+IX.- Coadyuvar, en su caso, con las autoridades federales en materia agraria, en la planeación e instrumentación de programas que para la regularización de la tierra pudieran implementarse inmediatamente o en el futuro;
+
+X.- Informar a los núcleos agrarios ya certificados a través del Programa de Certificación de Derechos Ejidales y Titulación de Solares sobre la importancia de la regularización obtenida y sobre los actos jurídicos que podrán celebrar;
+
+XI.- Brindar asesoría, cuando así lo soliciten los ejidatarios y comuneros o alguna dependencia de gobierno;
+
+XII.- Participar en la celebración de convenios con las instituciones correspondientes para una mejor atención de las políticas en materia agraria;
+
+XIII.- Coadyuvar con la Comisión para la Atención de los Pueblos Indígenas de Sonora en la ejecución de las políticas públicas de naturaleza agraria;
+
+XIV.- Promover, difundir y apoyar los distintos programas y proyectos productivos en materia agraria, en los que participen las instituciones públicas estatales;
+
+XV.- Evaluar y verificar periódicamente las actividades a su cargo, en función de los objetivos y programas que se encuentren bajo su responsabilidad y, en su caso, adoptar las medidas necesarias para corregir las desviaciones que se hubieren detectado; y
+
+XVI.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 19.
 
-La Dirección General de Atención a Migrantes Internacionales estará adscrita a la Subsecretaría “B” de Gobierno y tendrá las siguientes atribuciones:
+La Dirección General de Atención a Migrantes Internacionales estará adscrita a la Subsecretaría de Asuntos Sociales Prioritarios y tendrá las siguientes atribuciones:
 
 I.- Coordinar las acciones en materia de atención a las personas en situación vulnerable y que pretenden internarse por el territorio del Estado hacia los Estados Unidos de América o que habiéndose internado son regresados por el mismo territorio estatal, a quienes se denomina migrantes internacionales;
 
@@ -685,9 +639,15 @@ V.- Fortalecer la relación del Gobierno del Estado con el Gobierno Federal y lo
 
 VI.- Promover la celebración de convenios con organizaciones de la sociedad civil, dependencias y entidades de las administraciones públicas federal, estatal y municipal, para la formulación y ejecución de programas y acciones orientados a atender en forma coordinada a los migrantes internacionales;
 
-VII.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+VII.- (DEROGADA, B.O. 25 DE OCTUBRE DE 2010)
 
-VIII.- Las demás que le confieren las disposiciones jurídicas aplicables en la materia y las que le otorgue el titular de la dependencia, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+VIII.- Promover la celebración de convenios con organizaciones de la sociedad civil, dependencias y entidades de las administraciones públicas federal, estatal y municipal, para la formulación y ejecución de programas y acciones orientados a atender en forma coordinada a los migrantes internacionales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 25 DE OCTUBRE DE 2010)</small>
+
+IX.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
 
 ###### ARTÍCULO 20.
 
@@ -713,107 +673,25 @@ VII.- Establecer los lineamientos generales para la práctica de exámenes de su
 
 VIII.- Establecer los criterios y requisitos que deben atender las personas, instituciones u organismos que deseen impartir capacitación y adiestramiento, supervisar su correcto desempeño, expedirles las autorizaciones y realizar los registros correspondientes para su operación, así como revocarlos y cancelarlos, en su caso;
 
-IX.- Apoyar la modernización de las organizaciones sindicales, a través del desarrollo y ejecución de programas de formación sindical que promuevan la cultura laboral, en colaboración con las unidades administrativas competentes de esta Secretaría;
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-X.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+IX.- Apoyar la modernización de las organizaciones sindicales, a través del desarrollo y ejecución de programas de formación sindical que promuevan la cultura laboral, en colaboración con las unidades administrativas competentes de esta Secretaría; y
 
-XI.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+X.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
+
+XI.- (DEROGADA, B.O. 25 DE OCTUBRE DE 2010)
+
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 22.
 
-La Dirección General de Difusión estará adscrita a la Coordinación Estatal de Comunicación Social y tendrá las siguientes atribuciones:
-
-I.- Mantener contacto permanente y directo con reporteros de la fuente oficial, columnistas y directivos de los medios de comunicación, para hacerles llegar la información que emita el Gobierno del Estado;
-
-II.- Coordinar la participación de los medios de comunicación en los diferentes eventos o giras del Gobernador del Estado y titulares de las dependencias;
-
-III.- Supervisar la información contenida en la publicidad oficial de prensa, y vigilar que ésta se ajuste a las políticas generales de la unidad administrativa;
-
-IV.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
-
-V.- Las demás que le confieren las disposiciones jurídicas aplicables en la materia y las que le otorgue el titular de la dependencia, dentro de la esfera de sus atribuciones.
-
-###### ARTÍCULO 23.
-
-La Dirección General de Imagen estará adscrita a la Coordinación Estatal de Comunicación Social y tendrá las siguientes atribuciones:
-
-I.- Dirigir el diseño de campañas corporativas de imagen en apoyo a las actividades del Gobierno del Estado;
-
-II.- Supervisar la dirección escénica y técnica de grabación de locación, así como la edición y musicalización de material audiovisual que se utilice en las campañas corporativas de imagen del Gobierno del Estado;
-
-III.- Coordinar los trabajos de diseño y/o difusión de campañas de las dependencias y entidades estatales que lo soliciten;
-
-IV.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
-
-V.- Las demás que le confieren las disposiciones jurídicas aplicables en la materia y las que le otorgue el titular de la dependencia, dentro de la esfera de sus atribuciones.
-
-###### ARTÍCULO 24.
-
-La Dirección General de Administración estará adscrita a la Coordinación Estatal de Comunicación Social y tendrá las siguientes atribuciones:
-
-I.- Elaborar de conformidad con los lineamientos establecidos por la Secretaría de Hacienda, el anteproyecto de presupuesto de egresos por programa que le corresponda a la Coordinación Estatal de Comunicación Social para someterlo a consideración del Coordinador Estatal, y una vez aprobado éste verificar su correcta y oportuna ejecución;
-
-II.- Coordinar la elaboración y mantener actualizados los Manuales de Organización y de Procedimientos, así como los de servicios al público de la Coordinación Estatal en cumplimiento al Sistema de Modernización Administrativa;
-
-III.- Formular los pagos y recuperaciones de los fondos revolventes para gasto corriente autorizados a la Coordinación Estatal;
-
-IV.- Tramitar, en coordinación con la Coordinación General de Administración y Control Presupuestal, los pedidos y contratos que se celebren en materia de adquisiciones, arrendamiento y prestación de servicios relacionados con bienes muebles, de conformidad con las normas aplicables;
-
-V.- Controlar y registrar los pedidos de materiales, los pagos por servicios generales y de los equipos que adquiera la Coordinación Estatal en base a la disposición presupuestal y con estricto apego a las Disposiciones de Racionalidad, Austeridad y Disciplina Presupuestal vigentes;
-
-VI.- Elaborar y mantener permanentemente actualizados los inventarios y resguardos correspondientes del mobiliario, equipo y vehículos asignados al personal de la Coordinación Estatal;
-
-VII.- Analizar las solicitudes de modificaciones presupuestales de la Coordinación Estatal que sean necesarias y tramitar, previa autorización qel (sic) titular de la dependencia, ante la Secretaría de Hacienda, la afectación presupuestal para su autorización, registro y control;
-
-VIII.- Llevar a cabo el control administrativo del personal adscrito a la Coordinación Estatal, de acuerdo a las disposiciones legales correspondientes;
-
-IX.- Integrar y controlar los avances del gasto corriente aprobado a la Coordinación Estatal e informar lo conducente al titular de la misma;
-
-X.- Proporcionar los materiales y servicios necesarios a las unidades administrativas adscritas a la Coordinación Estatal para el correcto desempeño de sus funciones;
-
-XI.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
-
-XII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
-
-> <small>(REFORMADO, B.O. 29 DE ENERO DE 2009)</small>
-
-###### ARTÍCULO 25.
-
-La Dirección General de Administración y Finanzas estará adscrita a la Coordinación Ejecutiva de Relaciones Públicas y Eventos y tendrá las siguientes atribuciones:
-
-I.- Elaborar, de conformidad con los lineamientos establecidos por la Secretaría de Hacienda, el anteproyecto de presupuesto de egresos por programa que le corresponda a la Coordinación Ejecutiva de Relaciones Públicas y Eventos para someterlo a consideración del Coordinador Ejecutivo, y una vez aprobado éste verificar su correcta y oportuna ejecución;
-
-II.- Coordinar la elaboración y mantener actualizados los Manuales de Organización y de Procedimientos, así como el de servicios al público de la Coordinación Ejecutiva en cumplimiento al Sistema de Modernización Administrativa;
-
-III.- Formular los pagos y recuperaciones de los fondos revolventes para gasto corriente autorizados a la Coordinación Ejecutiva;
-
-IV.- Tramitar, coordinadamente con la Coordinación General de Administración y Control Presupuestal, los pedidos y contratos que se celebren en materia de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con las normas aplicables;
-
-V.- Controlar y registrar los pedidos de materiales, los pagos por servicios generales y de los equipos que adquiera la Coordinación Ejecutiva con base a la disposición presupuestal y con estricto apego a las Disposiciones de Racionalidad, Austeridad y Disciplina Presupuestal vigentes;
-
-VI.- Elaborar y mantener permanentemente actualizados los inventarios y resguardos correspondientes del mobiliario, equipo y vehículos asignados al personal de la Coordinación Ejecutiva;
-
-VII.- Analizar las solicitudes de modificaciones presupuéstales de la Coordinación Ejecutiva que sean necesarias y tramitar, previa autorización del titular de la dependencia, ante la Secretaría de Hacienda, la afectación presupuestal para su autorización, registro y control;
-
-VIII.- Llevar a cabo el control administrativo del personal adscrito a la Coordinación Ejecutiva, de acuerdo a las disposiciones legales correspondientes;
-
-IX.- Integrar y controlar los avances del gasto corriente aprobado a la Coordinación Ejecutiva e informar lo conducente al titular de la misma;
-
-X.- Proporcionar los materiales y servicios necesarios a las unidades administrativas adscritas a la Coordinación Ejecutiva para el correcto desempeño de sus funciones;
-
-XI.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
-
-XII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
-
-> <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
-
-###### ARTÍCULO 25 Bis.
-
-Dirección General de Relaciones Públicas y Eventos estará adscrita a la Coordinación Ejecutiva de Relaciones Públicas y Eventos y tendrá las siguientes atribuciones:
+La Dirección General de Relaciones Públicas y Eventos estará adscrita a la Coordinación Ejecutiva de Relaciones Públicas y Eventos y tendrá las siguientes atribuciones:
 
 I.- Revisar y dar seguimiento a la agenda de actividades del Titular del Poder Ejecutivo;
 
-II.- Dotar a la Coordinación Ejecutiva de los insumos necesarios para mantener comunicación constante con el Titular del Poder Ejecutivo, Secretaría Particular, dependencias y entidades involucradas en las actividades del mismo;
+II.- Dotar a la Coordinación Ejecutiva de Relaciones Públicas y Eventos de los insumos necesarios para mantener comunicación constante con el Titular del Poder Ejecutivo, Secretaría Particular, dependencias y entidades involucradas en las actividades del mismo;
 
 III.- Integrar los programas de giras y eventos especiales, participando en la realización de los mismos;
 
@@ -827,47 +705,99 @@ VII.- Apoyar la celebración de los eventos especiales que le señale el Coordin
 
 VIII.- Elaborar y operar la Red de Distribución de diferentes documentos y videos de interés, por medio de mensajería y/o correo electrónico a las personas que se incluyan en las redes interna, externa, de medios de comunicación y de la sociedad civil;
 
-IX.- Realizar la recopilación, captura y retroalimentación de información necesaria para el Sistema de Base de Datos y Control de Eventos de Relaciones Públicas, denominado Bader;
+IX.- Realizar la recopilación, captura y retroalimentación de información necesaria para el Sistema de Base de Datos y Control de Eventos de Relaciones Públicas;
 
-X.- Apoyar a las dependencias y entidades de la Administración Pública Estatal en la elaboración e instrumentación de programas de relaciones públicas;
+X.- Apoyar a las dependencias y entidades de la Administración Pública Estatal en la elaboración e instrumentación de programas de relaciones públicas; y
 
-XI.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+XI.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
 
-XII.- Las demás que le confieren las disposiciones jurídicas aplicables en la materia y las que le otorgue el titular de la dependencia, dentro de la esfera de sus atribuciones.
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-###### ARTÍCULO 26.
+###### ARTÍCULO 23.
 
 La Dirección General Jurídica estará adscrita directamente al titular de la dependencia y le corresponderán las siguientes atribuciones:
 
-l.- Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas de carácter jurídico que le sean formuladas por el Secretario o por los responsables de las unidades administrativas de la dependencia y, fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que regulan el funcionamiento de la Secretaría, de conformidad con las normas, lineamientos y criterios específicos que determine el titular de la dependencia;
+I.- Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas de carácter jurídico que le sean formuladas por el Secretario o por los responsables de las unidades administrativas de la dependencia y, fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que regulan el funcionamiento de la Secretaría, de conformidad con las normas, lineamientos y criterios específicos que determine el titular de la dependencia;
 
 II.- Compilar las normas jurídicas relacionadas con el funcionamiento de la dependencia;
 
 III.- Coadyuvar en la elaboración y revisión, en su caso, de los anteproyectos de leyes, reglamentos y decretos de competencia de la dependencia, de conformidad con los lineamientos específicos que determine el titular;
 
-IV.- Coordinar la elaboración del anteproyecto de Reglamento Interior de la Secretaría, manteniéndolo perfectamente actualizado;
+IV.- Coordinar la elaboración del anteproyecto de Reglamento Interior de la Secretaría, manteniéndolo actualizado;
 
 V.- Intervenir en los procedimientos judiciales y administrativos en los que tenga injerencia la Secretaría formulando demandas, denuncias y/o querellas y dando contestación y seguimiento a las demandas y reclamaciones en general que lleguen a formularse en su contra, así como representar a la propia dependencia en dichos procedimientos cuando así lo determine el titular de la misma;
 
-VI.- Tramitar los recursos de revocación que se interpongan ante la dependencia en contra de acuerdos de expropiación que emanen del Gobernador del Estado, y remitir los expedientes respectivos a la Dirección General Jurídica adscrita directamente al Ejecutivo Estatal para los efectos previstos por la fracción VII del artículo 8 de la Ley de Expropiación por Causa de Utilidad Pública;
+VI.- Tramitar los recursos de inconformidad a que se refiere el artículo 33 de la Ley de Expropiación para el Estado de Sonora y remitir los expedientes respectivos a la Secretaría de la División Jurídica adscrita directamente al Ejecutivo Estatal para los efectos previstos en el mencionado artículo;
 
-VII.- Revisar y emitir opinión respecto de los convenios, acuerdos, circulares, contratos e instrumentos públicos en los que deba intervenir la dependencia y, en su caso, sobre su modificación, anulación o rescisión;
+VII.- Substanciar los procedimientos que se deriven de los recursos de inconformidad que se interpongan ante la Secretaría de Gobierno, de conformidad con lo establecido en la Ley de Procedimiento Administrativo del Estado de Sonora;
 
-VIII.- Proporcionar, cuando así corresponda, asesoría jurídica a las distintas dependencias del Ejecutivo del Estado;
+VIII.- Revisar y emitir opinión respecto de los convenios, acuerdos, circulares, contratos e instrumentos públicos en los que deba intervenir la dependencia y, en su caso, sobre su modificación, anulación o rescisión;
 
-IX.- Establecer coordinación con las unidades de asesoría o de apoyo técnico del Ejecutivo en materia jurídica, para la atención de aquellos asuntos que por su trascendencia así 10 (sic) requieran;
+IX.- Proporcionar, cuando así corresponda, asesoría jurídica a las distintas dependencias del Ejecutivo del Estado;
 
-X.- Opinar sobre la procedencia de las sanciones que pretendan imponer al personal a su servicio los responsables de las unidades administrativas de la Secretaría, por incumplimiento o violación de las disposiciones legales y reglamentarias en materia laboral;
+X.- Elaborar los oficios de designación de servidores públicos que ocuparán un empleo, cargo o comisión dentro de la Administración Pública Estatal, que así le sean expresamente requeridos de conformidad con la normatividad aplicable;
 
-XI.- Instrumentar tanto los informes previos y justificados a cargo del titular de la dependencia, como los ofrecimientos de pruebas, alegatos y recursos que deban interponerse en los juicios de amparo en los que la Secretaría fuere parte e intervenir en el cumplimiento de las resoluciones respectivas;
+XI.- Establecer coordinación con las unidades de asesoría o de apoyo técnico del Ejecutivo en materia jurídica, para la atención de aquellos asuntos que por su trascendencia así lo requieran;
 
-XII.- Expedir copias certificadas de las constancias existentes en los archivos (sic) la propia unidad administrativa y del despacho del titular de la dependencia; y
+XII.- Opinar sobre la procedencia de las sanciones que pretendan imponer al personal a su servicio los responsables de las unidades administrativas de la Secretaría, por incumplimiento o violación de las disposiciones legales y reglamentarias en materia laboral;
 
-XIII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+XIII.- Instrumentar tanto los informes previos y justificados a cargo del titular de la dependencia, como los ofrecimientos de pruebas, alegatos y recursos que deban interponerse en los juicios de amparo en los que la Secretaría fuere parte e intervenir en el cumplimiento de las resoluciones respectivas;
+
+XIV.- Expedir copias certificadas de las constancias existentes en los archivos de la propia unidad administrativa y del despacho del titular de la dependencia; y
+
+XV.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
+
+###### ARTÍCULO 24.
+
+(DEROGADO, B.O. 25 DE OCTUBRE DE 2010)
+
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 25.
+
+La Dirección General de Gobierno estará adscrita directamente al titular de la Secretaría y le corresponderán las siguientes atribuciones:
+
+I.- Actuar como enlace con los organismos públicos y privados de los niveles municipal, estatal y federal, encargados del manejo de información preventiva para la seguridad nacional, seguridad pública y tranquilidad política;
+
+II.- Atender y dar seguimiento a los problemas y conflictos que afecten la gobernabilidad, la seguridad estatal y el estado de derecho, en la Entidad;
+
+III.- Dar seguimiento a las actividades de coordinación y relaciones institucionales establecidas con autoridades consulares que operan en la jurisdicción geográfica y legal de competencia de la Secretaría;
+
+IV.- Colaborar y participar en lo que a la autoridad estatal corresponda en la aplicación de la Ley Federal de Juegos y Sorteos y su Reglamento;
+
+V.- Instrumentar la coordinación de acciones que procedan con la Secretaría de Gobernación para auxiliarla en el exacto cumplimiento de las Leyes de Juegos y Sorteos y de Asociaciones Religiosas y Culto Público, y coadyuvar con el titular de la dependencia para el correcto ejercicio de sus atribuciones competenciales en dichas materias;
+
+VI.- Tramitar y remitir ante la autoridad correspondiente al pago de derechos que correspondan por eventos de vigilancia especial, tales como carreras de caballos, peleas de gallos y sorteos;
+
+VII.- Auxiliar a los ayuntamientos en sus gestiones ante las dependencias de la Administración Pública Federal para los trámites relativos a la materia de culto religioso y juegos y sorteos;
+
+VIII.- Implementar los mecanismos y acciones necesarias tendentes a la correcta aplicación de las políticas que en materia de su competencia desempeñe la Secretaría de Gobierno y de acuerdo a lo establecido en el Plan Estatal de Desarrollo;
+
+IX.- Elaborar y mantener reportes con bases estadísticas sobre la situación económica, política y social del Estado, conforme a los requerimientos del titular de la dependencia;
+
+X.- Dar seguimiento en su respectiva área de competencia a los estudios de opinión a la población, referentes a la pertinencia y factibilidad social de las políticas implementadas por el Estado;
+
+XI.- Conocer en su caso, los análisis de prospectivas en puntos coyunturales o de oportunidad para facilitar la toma de decisiones del titular de la dependencia;
+
+XII.- Dar seguimiento a la información que se haga del conocimiento del titular de la dependencia a través del análisis y seguimiento de los medios informativos y manifestaciones de inconformidad de la población a fin de que pueda atender oportunamente los problemas sociales, las protestas sectoriales y las demandas ciudadanas;
+
+XIII.- Planear, estructurar y operar un sistema de información preventiva a través de la recopilación en fuentes abiertas y cerradas, que permita el seguimiento de las situaciones de riesgo a la tranquilidad política en los ámbitos estatal y nacional;
+
+XIV.- Apoyar con funciones logísticas en la organización de eventos diversos con sectores sociales y políticos; y establecer medidas de seguridad que garanticen la integridad de la información que se procesa, se transmite y se maneja en la dependencia; y
+
+XV.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
+
+ARTÍCULO 25 BIS.- (DEROGADO, B.O. 25 DE OCTUBRE DE 2010)
+
+###### ARTÍCULO 26.
+
+(DEROGADO, B.O. 25 DE OCTUBRE DE 2010)
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 27.
 
-La Coordinación General de Administración y Control Presupuestal estará adscrita directamente al titular de la dependencia y ejercerá las siguientes atribuciones:
+La Coordinación General de Administración y Control Presupuestal estará adscrita directamente al titular de la Secretaría y ejercerá las siguientes atribuciones:
 
 I.- Coordinar a las unidades administrativas de la dependencia que ejerzan directamente su propio presupuesto, en la elaboración del anteproyecto de presupuesto anual de egresos, de acuerdo con los lineamientos establecidos por la Secretaría de Hacienda, para posteriormente someterlos a consideración del titular de la dependencia;
 
@@ -919,17 +849,15 @@ XIX.- Dar seguimiento oportuno a las distintas demandas ciudadanas dirigidas al 
 
 XX.- Instrumentar los procedimientos y mecanismos necesarios para lograr la correcta atención, seguimiento y evaluación a cada asunto en particular turnado por el titular de la dependencia;
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-XXI.- Solicitar a las unidades administrativas de la dependencia la información y apoyo necesario para el cumplimiento de sus atribuciones;
+XXI.- Solicitar a las unidades administrativas de la dependencia la información y apoyo necesario para el cumplimiento de sus atribuciones; y
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, B.O. 25 DE OCTUBRE DE 2010)</small>
 
-XXII.- Expedir copias certificadas de las constancias existentes en los archivos de su unidad administrativa; y
+XXII.- Las demás que le confieren las disposiciones legales y reglamentarias aplicables y las que le encomiende el superior jerárquico.
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
-
-XXIII.- Las demás que le confieren las disposiciones legales aplicables y el titular de la dependencia, dentro de la esfera de sus atribuciones.
+XXIII.- (DEROGADA, B.O. 25 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO 28.
 
@@ -961,17 +889,37 @@ VIII.- Las demás que le confieren las disposiciones legales aplicables y el tit
 
 Para la más eficaz atención y eficiente despacho de los asuntos de la competencia de la Secretaría de Gobierno, ésta contará con órganos desconcentrados, que le estarán jerárquicamente subordinados y que gozarán de autonomía técnica.
 
-> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 31.
 
-El Consejo Estatal de Población, las Juntas Locales de Conciliación y Arbitraje, las Oficialías del Registro Civil y la Unidad Estatal de Protección Civil, tienen el carácter de órganos desconcentrados de la Secretaría de Gobierno y se regirán por sus respectivos ordenamientos jurídicos de creación, por las disposiciones aplicables de este Reglamento y por las que, en su caso, determinen el Gobernador del Estado o el Secretario de Gobierno en la esfera de sus atribuciones. Los titulares de los órganos desconcentrados, tendrán atribuciones de expedir copias certificadas de las constancias existentes en sus archivos. El Consejo Estatal de Población y la Unidad Estatal de Protección Civil serán coordinados por la Subsecretaría "A" de Gobierno, las Juntas Locales de Conciliación y Arbitraje serán coordinadas directamente por la Subsecretaría del Trabajo, y las Oficialías del Registro Civil serán coordinadas directamente por la Dirección General del Registro Civil.
+La Representación del Gobierno del Estado en San Luis Río Colorado, el Consejo Estatal de Población, las Juntas Locales de Conciliación y Arbitraje, las Oficialías del Registro Civil y la Unidad Estatal de Protección Civil, tienen el carácter de órganos desconcentrados de la Secretaría de Gobierno y se regirán por sus respectivos ordenamientos jurídicos de creación, por las disposiciones aplicables de este Reglamento y por las que, en su caso, determinen el Gobernador del Estado o el Secretario de Gobierno en la esfera de sus atribuciones. Los titulares de los órganos desconcentrados, tendrán atribuciones de expedir copias certificadas de las constancias existentes en sus archivos. La Representación del Gobierno del Estado en San Luis Río Colorado será coordinada directamente por el titular de la Secretaría, el Consejo Estatal de Población serán (sic) coordinado por la Subsecretaría de Enlace Legislativo, Municipal e Institucional, la Unidad Estatal de Protección Civil será coordinada por la Subsecretaría de Servicios de Gobierno, las Juntas Locales de Conciliación y Arbitraje serán coordinadas directamente por la Subsecretaría del Trabajo, y las Oficialías del Registro Civil serán coordinadas directamente por la Dirección General del Registro Civil.
 
-> <small>(REFORMADO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, B.O. 25 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 31 BIS.- La Representación del Gobierno del Estado en San Luis Río Colorado, como órgano desconcentrado tendrá las siguientes atribuciones:
+
+I.- Representar al Gobierno del Estado en el municipio de San Luis Río Colorado, ante dependencias públicas, privadas y organismos de la sociedad civil para tramitar, promover, gestionar, difundir y vincular actividades y asuntos relacionados con el desarrollo y bienestar del Estado;
+
+II.- Asegurar y propiciar en coordinación con la Ayudantía las condiciones de seguridad y logística que demanda la investidura del titular del Poder Ejecutivo del Estado durante su estancia en el municipio de San Luis Río Colorado;
+
+III.- Apoyar, trasladar y atender a funcionarios del Gobierno del Estado de Sonora en sus actividades oficiales en el municipio de San Luis Río Colorado;
+
+IV.- Promover actividades políticas, culturales, económicas y todas aquellas que sean necesarias para promover en forma eficaz los programas del Gobierno del Estado de conformidad con la normatividad aplicable;
+
+V.- Promover e informar a la comunidad sonorense que resida o viaje al municipio de San Luis Río Colorado, sobre programas que desarrolla el Gobierno del Estado;
+
+VI.- Mantener un diálogo propositivo y de intercambio con los representantes de los organismos privados como productores, comerciantes, industriales del municipio de San Luis Río Colorado, con el fin de fomentar los programas del Gobierno del Estado;
+
+VII.- Coadyuvar en las gestiones relacionadas con el Gobierno del Estado ante el Gobierno Municipal e instituciones públicas y privadas cuando sean encomendadas por el Titular del Poder Ejecutivo o por las dependencias o entidades estatales; y
+
+VIII.- Las demás que le confieren las disposiciones legales aplicables y reglamentarias y las que le encomiende el superior jerárquico.
+
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 32.
 
-La Unidad Estatal de Protección Civil como órgano desconcentrado ejercerá las atribuciones que le confiere la Ley de Protección Civil para el Estado de Sonora, así como los demás ordenamientos jurídicos aplicables y estará directamente adscrito al Titular de la dependencia.
+La Unidad Estatal de Protección Civil como órgano desconcentrado ejercerá las atribuciones que le confiere la Ley de Protección Civil para el Estado de Sonora, así como los demás ordenamientos jurídicos aplicables y estará directamente adscrita a la Subsecretaría de Servicios de Gobierno.
 
 > <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2008)</small>
 
@@ -993,15 +941,17 @@ Las Oficialías del Registro Civil que no se encuentren incorporadas al Presupue
 
 ### CAPÍTULO VIII. DE LA SUPLENCIA DE LOS FUNCIONARIOS DE LA SECRETARÍA
 
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 37.
 
-Durante las ausencias temporales del Secretario, el despacho y resolución de los asuntos correspondientes a la dependencia serán atendidos por los Subsecretarios en el orden siguiente: Subsecretario “A” de Gobierno, Subsecretario “B” de Gobierno y Subsecretario del Trabajo.
+Durante las ausencias temporales del Secretario, el despacho y resolución de los asuntos correspondientes a la dependencia serán atendidos por los Subsecretarios en el orden siguiente: Subsecretario de Enlace Legislativo, Municipal e Institucional, Subsecretario de Servicios de Gobierno, Subsecretario de Asuntos Sociales Prioritarios y Subsecretario del Trabajo.
 
-> <small>(REFORMADO, B.O. 20 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 38.
 
-Durante las ausencias temporales de los Subsecretarios, del Coordinador Estatal, de los Coordinadores Ejecutivos, de los Coordinadores Generales y los Directores Generales de la dependencia, el despacho y la resolución de los asuntos de su competencia, serán atendidos por el funcionario que designe el Secretario.
+Durante las ausencias temporales de los Subsecretarios, del Coordinador Ejecutivo, del Coordinador General y de los Directores Generales de la dependencia, el despacho y la resolución de los asuntos de sus respectivas competencias, serán atendidos por el funcionario que designe el Secretario, o en su caso, a falta de designación, por el servidor público del nivel jerárquico inmediato inferior a los mismos.
 
 ## TRANSITORIOS
 
@@ -1050,3 +1000,13 @@ B.O. 29 DE ENERO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 25 DE OCTUBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los manuales de organización, de procedimientos y, en su caso, de servicios al público de la Secretaría, deberán actualizarse dentro de los sesenta días posteriores a la publicación del Reglamento Interior, asimismo el titular de la dependencia queda facultado para resolver las cuestiones que se presenten, en tanto se expidan los mencionados manuales administrativos.
