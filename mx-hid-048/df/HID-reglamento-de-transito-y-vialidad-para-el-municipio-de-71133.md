@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-transito-y-vialidad-para-el-municipio-de-71133"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-07"
-last_updated: "2009-12-07"
+last_updated: "2010-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD PARA EL MUNICIPIO DE PACHUCA DE SOTO, ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de diciembre de 2009.
 
@@ -83,17 +83,23 @@ III.- Para vigilar:
 
 a).- Los Síndicos Procuradores del Ayuntamiento.
 
-### CAPÍTULO II. ATRIBUCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO II. FACULTADES Y OBLIGACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 3.
 
-Para efectos de este Reglamento se entenderá por Secretaría, a la Secretaría de Seguridad Pública y Protección Civil Municipal que tendrá a su cargo las facultades y funciones siguientes:
+Para efectos de este Reglamento se entenderá por Secretaría, a la Secretaría de Seguridad Pública y Protección Civil Municipal que tendrá a su cargo las facultades y obligaciones siguientes:
 
 I.- Establecer políticas, programas y acciones tendientes a ordenar y mejorar el tránsito peatonal y vehicular, así como la vialidad dentro del Municipio.
 
 II.- Coadyuvar dentro del ámbito de su competencia, con las diversas autoridades encargadas de la procuración e impartición de justicia.
 
-III.- Celebrar convenios de colaboración con las distintas autoridades civiles y militares en lo relacionado al tránsito de peatones y vehículos.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+III.- Celebrar convenios necesarios para promover y difundir las normas y reglas de transito, con las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, así como con empresas, organizaciones civiles e instituciones educativas, para fomentar la educación vial.
 
 IV.- Planear, dirigir, organizar, controlar, supervisar, administrar, capacitar y evaluar el funcionamiento de los oficiales a su cargo.
 
@@ -115,7 +121,9 @@ XII.- Coadyuvar con otras autoridades en la detención y aseguramiento de vehíc
 
 XIII.- Ejercer la función de inspección en materia de protección civil; así como brindar el apoyo a las distintas autoridades que así lo requieran.
 
-XIV.- Establecer programas de prevención y seguridad para los peatones, así como en materia de educación vial, planeando, dirigiendo, organizando, supervisando y evaluando los mismos.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+XIV.- Establecer de manera permanente campañas, y cursos de educación vial poniendo énfasis en las instituciones educativas destinados a dar a conocer a la población, los lineamientos básicos con la finalidad de fomentar el uso adecuado de la vía pública, ya sea como peatón, conductor o pasajero y que estos conozcan las normas y reglas te (sic) tránsito vigentes en el Municipio.
 
 XV.- Promover a través de sus programas la cortesía y precaución en la conducción de vehículos, el respeto al oficial de vialidad, protección a los peatones, población vulnerable, ciclistas y motociclistas, la prevención de accidentes, el uso racional y mantenimiento periódico de los vehículos para la conservación del medio ambiente.
 
@@ -132,6 +140,10 @@ XX.- Previo estudio en materia de ingeniería de tránsito, establecer la ubicac
 XXI.- Ser responsable del buen funcionamiento del corralón Municipal y supervisar a los autorizados.
 
 XXII.- Promoverá que los vehículos autorizados para la prestación del servicio público de transporte, cuenten con aditamentos especiales que permitan a los usuarios con alguna capacidad diferente dicho servicio en condiciones de accesibilidad, seguridad, comodidad, higiene y eficiencia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2010)</small>
+
+XXIII.- Proponer y difundir el uso de medios alternativos de transporte, mediante la constante coordinación entre las diversas dependencias con la finalidad de conservar el medio ambiente y facilitar el tránsito dentro del Municipio.
 
 ###### Artículo 4.
 
@@ -195,13 +207,31 @@ c).- De 20 kilómetros en zonas escolares, peatonales, hospitales, asilos, alber
 
 VII.- Colocarse el cinturón de seguridad y verificar que los demás pasajeros lo utilicen.
 
-VIII.- Orillar el vehiculo para el ascenso y descenso de personas, así como utilizar las luces intermitentes para tal efecto.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+VIII.- Orillar el vehículo al carril extremo derecho para el ascenso y descenso de personas, así como utilizar las luces intermitentes para tal efecto.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2010)</small>
+
+IX.- Circular con luces encendidas cuando oscurezca, con neblina o con lluvia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE OCTUBRE DE 2010)</small>
+
+X.- Que los números y letras de las placas que porte el vehículo coincidan con la calcomanía correspondiente y la tarjeta de circulación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente (sic) en la Entidad, trabajo (sic) a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores, con excepción de la fracción VI que se sancionará con multa de 11 once a 20 veinte salarios mínimos en el Estado de Hidalgo.
 
 ###### Artículo 7.
 
 Los menores de dieciocho y mayores de dieciséis años, podrán conducir vehículos automotores previo permiso solicitado por alguno de los padres, tutores o quienes ejerzan la custodia.
 
 Para obtener una licencia o permiso para conducir por primera ocasión deberá acreditar el curso básico de manejo o el examen que para tal fin realice la Secretaria a través de sus Direcciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Para el caso de que la autoridad responsable de expedir la licencia o permiso de conducir sea diferente a la Municipal, esta deberá suscribir el convenio respectivo para que se aplique el examen teórico - práctico de manejo y del presente Reglamento, previo a su expedición, tratándose de la primera ocasión en que se realice el trámite.
 
 ###### Artículo 8.
 
@@ -211,7 +241,9 @@ I.- Conducir bajo el influjo de bebidas alcohólicas, bajo los efectos de alguna
 
 II.- Llevar entre su cuerpo y los dispositivos de manejo del vehículo personas, animales u objetos que obstruyan la libre y normal conducción del mismo, reduzcan su campo de visión, audición o libre movimiento.
 
-III.- Llevar infantes en los asientos delanteros del vehículo.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+III.- Llevar menores de 12 doce años en los asientos delanteros, a excepción de aquellos vehículos que hayan sido fabricados únicamente con estos, respetando las medidas de seguridad necesarias.
 
 IV.- Entorpecer la libre circulación.
 
@@ -249,7 +281,9 @@ XX.- Transportar mayor número de personas que el señalado en la tarjeta de cir
 
 XXI.- Faltar al respeto a los oficiales de la Secretaría.
 
-XXII.- No respetar las señales de los semáforos.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+XXII.- Omitir respetar las señales de los semáforos. En el entendido de que la luz roja es alto total; la luz amarilla preventiva con alto y la luz verde para continuar la marcha.
 
 XXIII.- Modificar o destruir intencionalmente las señales o dispositivos para el control de la vialidad.
 
@@ -275,7 +309,9 @@ XXXIII.- Iniciar la marcha de un vehículo sin percatarse de que los peatones ha
 
 XXXIV.- Instalar cromáticas iguales o similares a las del transporte público de pasajeros.
 
-XXXV.- Instalar dispositivos similares a los utilizados por vehículos policiales o de emergencia.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+XXXV.- Instalar dispositivos y cromáticas similares a los utilizados por vehículos policiales o de emergencia, sin contar con la autorización correspondiente.
 
 XXXVI.- Instalar faros deslumbrantes que pongan en riesgo la seguridad de los conductores o peatones.
 
@@ -283,7 +319,13 @@ XXXVII.- Instalar luces de neón alrededor de las placas.
 
 XXXVIII.- Instalar estrobos o luces destellantes.
 
-XXXIX.- Instalar pantalla de proyección de cualquier tipo de imágenes en la parte interior delantera del vehículo.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+XXXIX.- Proyectar mediante algún dispositivo cualquier tipo de imagen que no sea herramienta para conducir en la parte interior delantera del vehículo cuando éste se encuentre en circulación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones III, IV, VI, IX, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXIII, XXIV, XXV, XXVI, XXVII; XXIX, XXX, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII y XXXIX; Se sancionará con multa de 11 once a 20 veinte diez (sic) salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones II, V, VIII, X, XII, XXII, XXVIII, XXXI y XXXII; Se sancionará con multa de 51 cincuenta y uno a 150 ciento cincuenta días de salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones I y VII.
 
 ###### Artículo 9.
 
@@ -309,17 +351,35 @@ IX.- En las glorietas el que se halle dentro de la vía circular tiene preferenc
 
 X.- Los vehículos de emergencia tienen derecho de paso cuando circulen con las señales luminosas o de sonido funcionando.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores.
+
 ### CAPÍTULO IV. PERSONAS VULNERABLES O CON DISCAPACIDAD Y PEATONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 10.
 
-Son obligaciones de los peatones las siguientes:
+Son derechos y obligaciones de los peatones las siguientes:
 
 I.- Cruzar las vías primarias exclusivamente por los puentes peatonales y a falta de estos por las esquinas o zonas marcadas para tal efecto; excepto en las calles locales o domiciliarias cuando solo exista un carril para la circulación, para lo cual lo harán por la orilla de la vía, pero en todo caso procurarán hacerlo dando el frente al tránsito de vehículos.
 
 II.- Tomar las precauciones necesarias en caso de no existir semáforo.
 
 III.- Obedecer las indicaciones de las señales de tránsito o en su caso las de los oficiales de la Secretaría.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+IV.- Utilizar las vías públicas del Municipio con sujeción al presente Reglamento.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+V.- Recibir apoyo por la autoridad competente, en lo relativo al tránsito y la vialidad cuando las circunstancias así lo requieran.
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+VI.- Gozar de los derechos de preferencia de paso sobre el tránsito vehicular en los cruces, avenidas y zonas que cuenten con señalamiento para tal efecto, en especial las personas con discapacidad, adultos mayores, niños y mujeres en estado de gravidez.
 
 ###### Artículo 11.
 
@@ -339,27 +399,33 @@ VI.- Abrir zanjas o efectuar trabajos en la vía pública sin el permiso corresp
 
 VII.- Señalizar espacios para cajones de estacionamiento exclusivo.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores, además de resarcir el daño causado.
+
 ###### Artículo 12.
 
-Las personas vulnerables gozarán de manera especial, de los derechos y preferencias de paso previstos en el presente Reglamento.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2010)
 
 ###### Artículo 13.
 
 Las personas vulnerables tendrán preferencia para la ocupación de los asientos de los vehículos del servicio público de transporte de pasajeros.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 14.
 
-A las personas con discapacidad se les permitirá estacionarse hasta por tres horas en los cajones exclusivos para ello.
+Cuando la vialidad así lo permita en calles y avenidas principales, deberán existir cuando menos dos cajones de estacionamiento para personas con discapacidad con el señalamiento respectivo, cada doscientos cincuenta metros aproximadamente.
 
-En el Centro Histórico de la ciudad, en calles y avenidas principales deberán existir dos cajones para personas con discapacidad cada doscientos cincuenta metros aproximadamente cuando la vialidad así lo permita, además de contar con el señalamiento respectivo.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 15.
 
-Los vehículos que transporten o sean conducidos por personas con discapacidad, deberán contar con el permiso, placa o símbolo visible y dispositivos especiales para cada caso.
+Los vehículos que transporten o sean conducidos por personas con discapacidad, deberán contar con el permiso, placa o símbolo visible expedido por la autoridad correspondiente así como con los dispositivos especiales que se requieran para cada caso.
 
 ###### Artículo 16.
 
-Todos los vehículos conducidos por personas con discapacidad o que sean utilizados para el transporte de los mismos, deberán contar con una calcomanía expedida por la dependencia que corresponda o placas con el símbolo respectivo para poder hacer uso de los lugares exclusivos para ellos.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2010)
 
 ### CAPÍTULO V. MOTOCICLISTAS, CICLISTAS Y VEHÍCULOS DE TRANSPORTE INDIVIDUAL
 
@@ -383,6 +449,10 @@ VII.- Maniobrar con cuidado al rebasar vehículos.
 
 VIII.- Los ciclistas deberán usar chalecos reflectantes cuando no haya luz natural suficiente que permita su visibilidad a los conductores.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores, excepción (sic) de la fracción II que se sancionará con 51 cincuenta y un a 150 ciento cincuenta salarios mínimos para el Estado de Hidalgo.
+
 ###### Artículo 18.
 
 Los conductores de transporte individual, además de lo anterior deben cumplir con lo siguiente:
@@ -392,6 +462,10 @@ I.- Circular única y exclusivamente en aquellas vialidades y horarios que sean 
 II.- Llevar a bordo solo al conductor y la carga, que no deberá de exceder en su peso a las especificaciones del fabricante.
 
 III.- Circular únicamente en el carril de extrema derecha.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores.
 
 ### CAPÍTULO VI. ESTACIONAMIENTO DE VEHICULOS
 
@@ -414,6 +488,10 @@ B).- Apagar el motor.
 C).- Recoger las llaves de encendido del motor.
 
 D).- Ceder el paso a vehículos al abrir puertas o bajar por el lado de la circulación.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores.
 
 ###### Artículo 20.
 
@@ -461,13 +539,29 @@ B).- De noche.- Linternas, luces o reflectantes, también del mismo color.
 
 Estos dispositivos deben colocarse a una distancia entre diez a cincuenta metros de cada lado de donde se aproximen los vehículos, de tal forma que sean visibles desde una distancia de cien metros.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores. Con excepción de las fracciones V y XIII que se sancionarán de 11 once a 20 veinte salarios mínimos para el Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Artículo 20 BIS.- Corresponderá a los administradores de los estacionamientos verificar que los cajones para discapacitados no sean utilizados por personas distintas a aquellas; en caso de que así sea el encargado deberá dar aviso a la autoridad para que proceda a la aplicación del Reglamento. Independientemente de lo anterior la autoridad tiene la facultad de verificar el buen uso de dichos espacios, para· mejor coordinación se podrán realizar los convenios respectivos.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 21.
 
-Cuando con motivo del estacionamiento de un vehículo se desprenda que existe la interrupción intencional de la circulación en vía pública, en forma individual o en grupo, los participantes se pondrán a disposición del Ministerio Público correspondiente por la comisión del delito en el que se incurra, independientemente de hacerse acreedor a una multa por la violación a este Reglamento y demás ordenamientos.
+Cuando con motivo del estacionamiento de un vehículo se desprenda que existe la interrupción intencional de la circulación en vía pública, en forma individual o en grupo, los participantes se pondrán a disposición del Ministerio Público correspondiente por la comisión del delito en el que se incurra, independientemente de hacerse acreedor a la sanción por la violación a este Reglamento y demás ordenamientos aplicables.
+
+Se sancionará con multa de 21 veintiuno a 50 cincuenta salarios mínimos vigentes en la Entidad, trabajo a favor de la comunidad o arresto de hasta treinta y seis horas.
 
 ###### Artículo 22.
 
 Las empresas o dependencias de cualquier tipo que posean flotillas de vehículos, deberá (sic) tener un área de su propiedad para estacionarlos sin afectar a sus vecinos. Por lo tanto, no podrán estacionar sus vehículos frente a inmuebles contiguos a su domicilio social, centro de operaciones o trabajo. Se considera flotilla más de dos vehículos que presten servicio a una misma empresa o grupo de personas.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en el párrafo anterior.
 
 ###### Artículo 23.
 
@@ -490,6 +584,10 @@ IV.- La utilización de los espacios designados para los parquímetros será exc
 V.- No colocar objetos o materiales en los espacios de estacionamiento en la vía pública para evitar su uso, ni cobrar por permitir el estacionamiento, por parte de terceros.
 
 VI.- No dañar o introducir objetos extraños al parquímetro o hacer mal uso del mismo. Independientemente de la sanción correspondiente, deberá cubrirse también la reparación del daño y se procederá a la aplicación de las demás acciones legales a que haya lugar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores.
 
 ###### Artículo 24.
 
@@ -559,7 +657,9 @@ V.- Cinturón de seguridad.- Todos los vehículos automotores deberán contar co
 
 VI.- Tapón del tanque de combustible.- Deberá ser de diseño original o universal.
 
-VII.- Cristales.- Los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable y sin roturas, los demás cristales deberán estar en buenas condiciones y mantenerse limpios y libres de objetos que impidan o limiten la visibilidad del conductor.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+VII.- CRISTALES. Los vehículos automotores deberán estar provistos de un cristal parabrisas transparente, inastillable, en buenas condiciones, los demás cristales deberán mantenerse limpios y libres de objetos que impidan o limiten la visibilidad del conductor.
 
 VIII.- Tablero de control de los vehículos.- Los vehículos de motor deben contar con un tablero de control con iluminación nocturna.
 
@@ -583,17 +683,27 @@ XII.- Defensa o facia.- Los vehículos automotores de cuatro o más ruedas deber
 
 XIII.- Loderas o cubrellantas.- Los vehículos de plataforma, caja, remolque, quinta rueda o similares que en las llantas posteriores no tengan concha en la parte superior, deberán contar con loderas o equivalentes.
 
-XIV.- Espejos retrovisores.- Los vehículos automotores deberá (sic) contar con un espejo en su interior y dos en el exterior, uno del lado del conductor y otro en el área lateral derecha, los cuales deberán estar siempre limpios y sin fisuras. Las motocicletas, triciclos y bicicletas deberán contar sobre el lado izquierdo de los manubrios, con un espejo retrovisor.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+XIV.- ESPEJOS RETROVISORES.- Los vehículos automotores deberán contar con un espejo en su interior y dos en el exterior, uno del lado del conductor y otro en el área lateral derecha, los cuales deberán estar siempre limpios y sin fisuras excepto los vehículos que por su diseño de fabricación contemplen otras especificaciones. Las motocicletas, triciclos y bicicletas deberán contar sobre el lado izquierdo de los manubrios, con un espejo retrovisor.
 
 XV.- Asientos.- Los vehículos automotores deberán contar con asientos que deberán estar siempre unidos firmemente unidos a la carrocería.
 
 XVI.- Dispositivos para remolques.- Los remolques deberán tener además del dispositivo de unión al vehículo automotor, dos cadenas de acuerdo al peso de cada remolque, debiendo ir una a cada lado y al frente del remolque, estas cadenas deberán unirse al vehículo automotor para evitar el desprendimiento total del remolque en caso de falla del dispositivo de unión.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Las fracciones III, V, VI, VII, XIII, XIV y XVI se sancionarán de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas; respecto a la fracción XI ésta será sancionada con una multa de 11 once a 20 veinte salarios mínimos en el Estado de Hidalgo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 27.
 
-Los vehículos de transporte escolar deberán contar con los siguientes aditamentos:
+Los permisionarios o concesionarios responsables del servicio de transporte escolar deberán prever que las unidades cuenten con los siguientes aditamentos:
 
-A).- Las ventanillas estarán protegidas con malla o cualquier otro dispositivo metálico para evitar que los escolares saquen alguna parte de su cuerpo.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+A).- Las ventanillas con las medidas de seguridad· necesarias para evitar que los escolares expongan alguna parte de su cuerpo.
 
 B).- Circularán con las puertas debidamente cerradas.
 
@@ -608,6 +718,10 @@ F).- Tener impreso al frente y atrás un número económico que tendrá un tama�
 G).- El conductor de la unidad deberá poseer licencia tipo "A" vigente, expedida en el Estado de Hidalgo.
 
 Los vehículos antes mencionados serán sujetos a revisión mecánica cada seis meses, debiendo contar con una bitácora de mantenimiento en el vehículo correspondiente, portar un extinguidor, botiquín de primeros auxilios y portar en lugar visible una calcomanía con los números telefónicos de emergencia. La autoridad reguladora del transporte verificará el cumplimiento de esta disposición.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 11 once a 20 veinte salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en los incisos anteriores.
 
 ###### Artículo 28.
 
@@ -627,9 +741,11 @@ III.- Permitir a los usuarios viajar en los escalones o cualquier parte exterior
 
 IV.- Circular con puertas abiertas.
 
-V.- Permitir el ascenso de pasajeros en notorio estado de ebriedad o bajo el influjo de alguna droga, enervante, psicotrópico o sustancia tóxica.
+V.- (DEROGADA, P.O. 25 DE OCTUBRE DE 2010)
 
-VI.- Permitir ascenso o descenso de pasajeros fuera del cajón autorizado o en los lugares no señalados para ello, excepto cuando se trate de personas que por su capacidad diferente se les dificulte esta acción.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+VI.- Realizar ascenso y/o descenso de pasajeros fuera del cajón autorizado para ello, excepto cuando se trate de personas con discapacidad o en estado vulnerable que se les dificulte esta acción.
 
 VII.- Permitir ascenso o descenso de pasajeros en el segundo o tercer carril de circulación, contados de derecha a izquierda, así como estando el vehículo en movimiento.
 
@@ -641,23 +757,37 @@ X.- Circular sin encender las luces del vehículo cuando obscurezca.
 
 XI.- Abastecer combustible con pasaje a bordo.
 
-XII.- Hacer base en lugares no autorizados.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+XII.- Hacer base en lugares no autorizados. Entendiéndose como base el permanecer más de tres minutos en el mismo lugar sin realizar ninguna maniobra para el ascenso y descenso de pasajeros.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores.
 
 ###### Artículo 30.
 
-Los conductores de servicio público de pasajeros, para el ascenso y descenso de pasaje lo harán exclusivamente y de manera obligatoria en las zonas destinadas para tal efecto.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2010)
 
 ###### Artículo 31.
 
-El operador de un vehículo de servicio público de transporte dará preferencia para la ocupación de los asientos a las personas vulnerables.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2010)
 
 ###### Artículo 32.
 
 Los conductores de unidades de transporte escolar están obligados a encender sus luces intermitentes cuando se detengan para ascender o descender escolares. El conductor del vehiculo consecutivo detendrá su unidad detrás del transporte escolar y accionará sus luces intermitentes.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Lo previsto en el párrafo anterior se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas.
+
 ###### Artículo 33.
 
 Los autobuses de pasajeros, microbuses y cualquier otro vehículo de servicio de transporte público local o Federal, sin incluir a los taxis, no podrán ser estacionados en la vía pública mas de dos a la vez en los lugares autorizados por la Secretaría, para cambios de monedas o boletos y en este caso lo harán solamente el tiempo necesario para las actividades antes señaladas.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Lo previsto en el párrafo anterior se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas.
 
 ### CAPÍTULO IX. TRANSPORTE PÚBLICO DE CARGA
 
@@ -679,6 +809,10 @@ VI.- Que el peso y dimensiones de la carga cumplan con lo que establece la Norma
 
 VII.- Toda aquella maquinaria que por sus dimensiones exceda el límite de un carril de circulación, y su desplazamiento sea más lento al del flujo vehicular, deberá contar con una unidad piloto, misma que deberá llevar un señalamiento luminoso en color ámbar.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Lo previsto en las fracciones anteriores se sancionará con multa de 11 once a 20 veinte salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas.
+
 ###### Artículo 35.
 
 Son prohibiciones de los conductores de vehículos transportadores de carga las siguientes:
@@ -699,9 +833,17 @@ VII.- Transportar por zonas restringidas debidamente señalizadas.
 
 VIII.- Transitar por puentes vehiculares, excepto cuando no exista una vía alterna contigua.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Lo previsto en las fracciones anteriores se sancionará con multa de 11 once a 20 veinte salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas.
+
 ###### Artículo 36.
 
 Los vehículos que transporten material de residuos peligrosos como explosivos, inflamables, tóxicos, biológico-infecciosos o similares deberán llevar en la parte posterior y en los costados las leyendas que indique el tipo de producto o material que transportan; también deberán portar las cartas guías, cartas porte, guías sanitarias, guías forestales o de infecciosos conforme a lo dispuesto por los ordenamientos de la materia, asignándoles ruta y horario de las 22:00 a 06:00 horas.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 21 veintiuno a 50 cincuenta salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en el párrafo anterior.
 
 ### CAPÍTULO X. RETENCIÓN DE VEHÍCULOS
 
@@ -709,9 +851,11 @@ Los vehículos que transporten material de residuos peligrosos como explosivos, 
 
 El presente Reglamento otorga la facultad a la Secretaría, para realizar la remoción y retención de vehículos, en los siguientes casos:
 
-I.- Cuando al vehículo le falten ambas placas o las porte donde no sean visibles.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-II.- Cuando las placas del vehículo no coincidan en número y letras con calcomanía o la tarjeta de circulación.
+l.- Cuando al vehículo le falten ambas placas sin causa justificada o no las porte en el lugar destinado para tal efecto.
+
+II.- (DEROGADA, P.O. 25 DE OCTUBRE DE 2010)
 
 III.- Cuando se encuentre estacionado el vehículo en lugar prohibido, en doble o triple fila y su conductor no esté presente.
 
@@ -721,7 +865,7 @@ V.- Por participar en un accidente de tránsito en el que se produzcan hechos po
 
 VI.- Por interferir, obstaculizar o impedir deliberadamente la circulación de vehículos en las vías de la Jurisdicción Municipal.
 
-VII.- Cuando no cuenten con el holograma vigente del programa obligatorio de verificación.
+VII.- (DEROGADA, P.O. 25 DE OCTUBRE DE 2010)
 
 ###### Artículo 38.
 
@@ -835,9 +979,11 @@ XII.- Choque de ocupante de vehículo.- Ocurre cuando alguna parte de una person
 
 XIII.- Choques diversos.- Cualquiera no especificado en las fracciones anteriores que dañe el patrimonio del Municipio o de terceros.
 
+> <small>(ADICIONADO PRIMER PARRAFO [N. DE E. REFORMADO], P.O. 25 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 52.
 
-Los automovilistas u operadores que estén involucrados en accidentes de tránsito, deberán observar lo siguiente:
+Los conductores que estén involucrados en accidentes de tránsito deberán observar lo siguiente:
 
 I.- El conductor implicado en un accidente de tránsito que haya abandonado el sitio del siniestro en busca de auxilio para la víctima, está obligado a regresar a dicho lugar y ponerse a disposición de la Autoridad, para que tome conocimiento del accidente.
 
@@ -923,6 +1069,10 @@ VI.- Esperar en el lugar del accidente la intervención del personal de la Secre
 
 VII.- Dar al personal de la Secretaría la información que le sea solicitada, llenar la hoja de reporte de accidente que se les proporcione y someterse a examen médico cuando se les requiera.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Se sancionará con multa de 5 cinco a 10 diez salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas a quien deje de observar lo previsto en las fracciones anteriores.
+
 ###### Artículo 56.
 
 En caso de que alguna de las partes involucradas en un accidente sin lesionados ni fallecidos no esté de acuerdo con la determinación de causa del accidente o por las disposiciones antes descritas por el personal de la Secretaría, podrán denunciar los hechos o presentar querellas ante el Agente del Ministerio Público que corresponda dentro del plazo estableado por las Leyes y Códigos en la materia. En este caso se detendrán los vehículos involucrados depositándolos en el Corralón Municipal y se elaborará el parte de accidente que incluirá croquis y será realizado por el personal del Departamento de Peritos de la Secretaría.
@@ -936,6 +1086,10 @@ El arrastre de vehículos participantes en accidentes se hará por:
 I.- Los servicios de grúas de la Secretaría, de Servicio Público Federal o Estatal. En todos los casos los vehículos que se detengan serán depositados en el Corralón Municipal; En caso de que éste sea insuficiente la Secretaría tendrá la facultad de remitirlos proporcionalmente a los corralones autorizados.
 
 II.- Queda estrictamente prohibido a grúas particulares, levantar vehículos accidentados dentro del Municipio, si no cuentan con la autorización correspondiente.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+La fracción II se sancionará con multa de 11 once a 20 veinte salarios mínimos vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas.
 
 ###### Artículo 58.
 
@@ -981,17 +1135,25 @@ II.- Hará la indicación de alto utilizando el silbato, alto parlante, verbalme
 
 III.- Deberá dirigirse al conductor de manera cortés, identificándose plenamente.
 
-IV.- Le comunicará la infracción cometida, solicitando la licencia de manejo y la tarjeta de circulación respectiva, donde deberá de observar la vigencia de estos.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+IV.- Le comunicará la infracción cometida, solicitando la licencia de manejo y la tarjeta de circulación vigentes.
 
 V.- Realizará el llenado de la boleta de infracción de ser procedente, entregando el original al conductor.
 
-VI.- Retendrá uno de cualquiera de los siguientes documentos oficiales: Licencia, permiso tarjeta o placa de circulación, mismo que quedara en garantía.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+VI.- Retendrá cualquiera de los siguientes documentos oficiales en orden de preferencia: licencia, tarjeta o placa de circulación, misma que quedará en garantía.
 
 VII.- El vehículo no podrá transitar sin ambas placas de circulación y será remitido al Corralón Municipal.
 
 VIII.- En caso de que se cometa una infracción y el propietario o conductor del vehículo no se encuentre presente, se retirará en garantía una placa de circulación, y al momento en que el oficial termine de llenar la boleta de infracción colocará esta última entre el brazo del limpia parabrisas y el cristal del parabrisas del vehículo.
 
 IX.- Al concluir deberá informar a la central de radio de la Secretaría el resultado de la intervención.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+El oficial se limitará a expedir la boleta de infracción sin hacer alusión al monto de la multa, de lo contrario se hará acreedor a la sanción correspondiente.
 
 ###### Artículo 65.
 
@@ -1027,6 +1189,10 @@ Ninguna persona debe conducir un vehículo, si tiene una cantidad de alcohol en 
 
 Los conductores del servicio público de transporte no deberán presentar ningún signo de ingesta de alcohol, drogas, enervantes, estupefacientes, psicotrópicos o sustancia tóxica.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+El párrafo anterior será sancionado con multa de 51 cincuenta y uno a 150 ciento cincuenta días de salario mínimo vigente en la Entidad, trabajo a favor de la comunidad o arresto de una hasta treinta y seis horas.
+
 ###### Artículo 69.
 
 Los Oficiales de la Secretaria pueden solicitar el alto de la marcha de un vehículo cuando a través de la Secretaría se establezca y lleve a cabo programas de control preventivos de ingestión de alcohol u otras sustancias tóxicas.
@@ -1045,6 +1211,10 @@ II.- El Oficial de la Secretaría entregará comprobante de los resultados de la
 
 Cuando sean menores los que hayan incurrido en alguna infracción comprendida en el presente ordenamiento, se observará el procedimiento anteriormente estipulado, dando intervención a los padres, tutores o de quienes ejerzan la custodia de los menores, mismos que serán obligados solidarios por causas de responsabilidad civil.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Cuando se detecte a un menor de edad conduciendo con una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire expirado superior a 0.040 miligramos por litro, se deberá retener el permiso correspondiente y/o retener alguno de los documentos autorizados para garantizar el pago de la falta.
+
 ###### Artículo 71.
 
 Si de hechos de tránsito o derivados del manejo de vehiculos se cometiera un delito en el que se involucre a un menor, los Oficiales de la Secretaría lo pondrán a disposición inmediata de la autoridad correspondiente.
@@ -1059,25 +1229,57 @@ Cuando por hechos de tránsito o posiblemente constitutivos de delito los Oficia
 
 Las conductas previstas por este reglamento serán sancionadas de la siguiente manera:
 
-I.- Arresto hasta por 36 horas.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-II.- Multa.
+I.- Multa
 
-III.- Trabajo a favor de la comunidad.
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-IV.- Acudir a por lo menos cinco sesiones para la concientización respecto del tratamiento de desintoxicación y rehabilitación en materia de adicciones.
+II.- Trabajo a favor de la comunidad.
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+III.- Arresto hasta por 36 horas.
+
+> <small>(ADICIONADO [N. DE E. ANTES FRACCION IV], P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Acudir a por lo menos cinco sesiones para la concientización respecto del tratamiento de desintoxicación y rehabilitación en materia de adicciones a los infractores según corresponda.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Para la imposición de las medidas de seguridad y sanciones el juez calificador deberá considerar las siguientes condiciones:
+
+a).- Capacidad económica del infractor.
+
+b).- Antecedentes.
+
+c).- Intencionalidad de la conducta.
+
+d).- Gravedad y peligrosidad de la falta.
+
+e).- Daño causado.
+
+f).- Reincidencia.
+
+g).- Procedencia de la acumulación de las faltas.
+
+h).- Circunstancias particulares de cada caso en cuanto a tiempo, modo y lugar de la comisión de la infracción.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+En caso de que el infractor sea reincidente se impondrá un 50% cincuenta por ciento más de lo que resulte de la calificación a la infracción cometida, sin que sea sujeto a la condonación por pronto pago.
 
 ###### Artículo 74.
 
-Se sancionará con arresto por treinta y seis horas o multa de ciento veinte a ciento cincuenta días de salario mínimo vigente, a quien incurra en cualquiera de las infracciones previstas en los Artículos: 8 fracciones I, VII, XXXIV y XXXV, 11 fracción I, 17 fracción II, 35 fracciones II y IV, 37 fracción IV y 68.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2010)
 
 ###### Artículo 75.
 
-Se sancionará con arresto hasta por treinta y seis horas o multa de cincuenta a cien días de salario mínimo vigente, a quien incurra en cualquiera de las infracciones previstas en los Artículos: 6 fracciones I y VIII, 8 fracciones III, V, VIII, X, XVI, XXII, XXIV y XXVIII, 11 fracciones V y VI, 21, 23 fracción VI, 29 fracciones VII, VIII, XI, XII, 30, 36, 37 fracciones V y VI, 52 fracciones I, II y IV, 57 fracción II.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2010)
 
-###### Artículo 76.
+###### Articulo 76.
 
-Cualquiera de los supuestos no previstos en los Artículos 74 y 75, se sancionarán con trabajo en favor de la comunidad, o multa de cinco a veinte días de salario mínimo vigente.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2010)
 
 ###### Artículo 77.
 
@@ -1085,9 +1287,29 @@ Se impondrá el doble de la sanción inicial, así como 36 horas de trabajo en f
 
 Se considerará reincidente al que haya cometido la misma falta en dos ocasiones dentro del lapso de un año. Para esto, la autoridad responsable vigilará que se mantengan actualizados los libros de registro que se deban llevar, conforme al reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+El Municipio podrá convenir con el Estado para establecer mecanismos de control que permitan suspender o cancelar la licencia de conducir de aquellas personas que sean reincidentes en la inobservancia del presente Reglamento.
+
 ###### Artículo 78.
 
 Las sanciones de multa podrán permutarse por arresto hasta por treinta y seis horas o por trabajo en favor de la comunidad, sin embargo, en cualquier momento el infractor sancionado podrá hacer el pago de la multa y recuperar de inmediato su libertad.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+Para la aplicación del arresto y del trabajo a favor de la comunidad, el juez calificador se sujetará en todo momento a lo dispuesto por la tabla siguiente:
+
+MULTA EN TIEMPO DE TRABAJO A FAVOR
+
+SALARIOS MINIMOS ARRESTO DE LA COMUNIDAD
+
+Hasta 10 S.M.V. 4 cuatro horas 2 horas
+
+Hasta 20 S.M.V. 8 ocho horas 4 horas
+
+Hasta 50 S.M.V. 12 doce horas 8 horas
+
+Hasta 150 S.M.V. 36 treinta y seis horas 12 horas
 
 ###### Artículo 79.
 
@@ -1304,3 +1526,11 @@ Con fundamento en el Artículo 93, fracción V de la Ley Orgánica Municipal del
 LIC. MIRNA ESMERALDA HERNANDEZ MORALES
 
 SECRETARIA GENERAL MUNICIPAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE OCTUBRE DE 2010.
+
+PRIMERO.- Se DEROGAN los Artículos 12, 16, fracción V del Artículo 29, 30, 31, fracción II y VII del Artículo 37, 74, 75 y 76 del Reglamento de Tránsito y Vialidad para el Municipio de Pachuca de Soto, Hidalgo.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en· el Periódico Oficial del Estado.
