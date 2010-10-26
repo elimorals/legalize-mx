@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-derechos-del-contribuyente-del-estado-de-tamaulipas-7038
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2007-12-27"
+last_updated: "2010-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DERECHOS DEL CONTRIBUYENTE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2010.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -79,7 +79,9 @@ XII. Ser informado, al inicio del ejercicio de las facultades de comprobación d
 
 XIII. Corregir su situación fiscal con motivo del ejercicio de las facultades de comprobación que lleven a cabo las autoridades fiscales; y
 
-XIV. Señalar en el juicio ante el Tribunal Fiscal del Estado, como domicilio para recibir notificaciones, el ubicado en cualquier parte del territorio del Estado de Tamaulipas.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+XIV. Señalar en el juicio ante el Tribunal Fiscal del Estado, como domicilio para oír y recibir toda clase de notificaciones, el ubicado en cualquier parte del territorio del Estado de Tamaulipas.
 
 2. La omisión de lo dispuesto en la fracción XII del párrafo anterior, no afectará la validez de las actuaciones que lleve a cabo la autoridad fiscal, pero dará lugar a que se finque responsabilidad administrativa al servidor público que incurrió en la omisión.
 
@@ -218,3 +220,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
