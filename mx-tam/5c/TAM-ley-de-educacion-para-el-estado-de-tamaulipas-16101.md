@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2008-06-05"
+last_updated: "2010-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -528,6 +528,32 @@ II.- Niños y jóvenes migrantes;
 III.- Niños, jóvenes y adultos que hayan desertado o que no hayan tenido acceso a la educación básica; y
 
 IV.- Niños, jóvenes y adultos con requerimientos de educación especial.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 37 BIS.- La educación ambiental en el Estado constituye un proceso continuo y permanente y se integrará al sistema educativo desde una concepción de desarrollo sustentable abordando al ambiente desde su complejidad, con los siguientes objetivos:
+
+I.- Desarrollar una comprensión integral del ambiente en sus múltiples y complejas relaciones, que involucre los aspectos ecológicos, psicológicos, legales, sociales, económicos, científicos, culturales y éticos de la problemática ambiental y la preservación del ambiente;
+
+II.- Fomentar la participación individual o colectiva en la preservación ambiental, como un valor inseparable del ejercicio ciudadano;
+
+III.- Tomar conciencia sobre la problemática ambiental en todos los niveles educativos;
+
+IV.- Generar conocimientos ambientales en todos los campos disciplinarios y garantizar su difusión; y
+
+V.- Las demás que señalen las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 37 TER.- La educación ambiental se desarrollará como una práctica educativa integrada, continua y permanente en todos los niveles y modalidades de enseñanza escolar, incorporándose en los cursos de formación contenidos que traten la ética ambiental. Asimismo, la dimensión ambiental deberá ser incluida en los programas de formación de profesores, en todos los niveles escolares.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 37 QUATER.- La Secretaría, en coordinación con la Agencia Ambiental para el Desarrollo Sustentable del Estado de Tamaulipas, en el ámbito de sus respectivas competencias, impulsarán la educación ambiental de forma extraescolar, con el propósito de:
+
+I.- Ampliar la participación de educadores y organizaciones no gubernamentales en la formación y ejecución de programas y actividades vinculadas a la educación ambiental; y
+
+II.- Fomentar con las empresas privadas el desarrollo de programas de educación ambiental para sus trabajadores.
 
 #### SECCION SEGUNDA. DE LOS SERVICIOS EDUCATIVOS
 
@@ -1326,3 +1352,9 @@ Este Decreto se publicará en el Periódico Oficial del Estado y entrará en vig
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
