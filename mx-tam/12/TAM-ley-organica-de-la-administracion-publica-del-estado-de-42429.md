@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2008-12-24"
+last_updated: "2010-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2010.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -329,7 +329,9 @@ VIII. Llevar la contabilidad del Gobierno del Estado, formular los estados finan
 
 IX. Administrar y custodiar los fondos y valores del Gobierno del Estado y fincar, en su caso, las responsabilidades correspondientes, sin demérito de la acción que compete a la Contraloría Gubernamental y, en su caso, a la Procuraduría General de Justicia;
 
-X. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones y verificaciones; realizar los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter estatal, y los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+X. Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones y verificaciones; realizar los demás actos que establece la Ley Aduanera en materia de Comercio Exterior y las disposiciones fiscales; así como lo indispensable para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior; impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias y accesorios de carácter estatal, y de los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
 
 XI. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de visitas domiciliarias, auditorías, inspecciones o verificaciones correspondientes;
 
@@ -1336,6 +1338,12 @@ En términos del párrafo 1 del artículo 11 de la Ley Orgánica de la Administr
 En todas aquellas disposiciones y ordenamientos que se refieran a la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología, a partir de la publicación de este Decreto se entenderán hechas a la Secretaría de Obras Públicas y Desarrollo Urbano, en lo que no corresponda a la materia ambiental, en cuyo caso deberá entenderse como competencia de la Agencia Ambiental para el Desarrollo Sustentable.
 
 P.O. 24 DE DICIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
