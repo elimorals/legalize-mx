@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "2008-06-05"
+last_updated: "2010-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO FISCAL DEL ESTADO
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -901,7 +901,9 @@ CODIGO FISCAL DEL ESTADO.
 
 (DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE TAMAULIPAS, P.O. 28 DE DICIEMBRE DE 1991)
 
-## TITULO TERCERO. PROCEDIMIENTO CONTENCIOSO
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+## TITULO TERCERO. DEL PROCEDIMIENTO CONTENCIOSO
 
 ### CAPITULO I. DEL JUICIO DE NULIDAD
 
@@ -913,13 +915,15 @@ Los actos de las autoridades fiscales que afecten los intereses jurídicos de lo
 
 Las resoluciones favorables a los particulares sólo podrán ser revocadas mediante juicio de nulidad que promuevan el Tesorero General del Estado o los Tesoreros Municipales.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 194o.
 
 Los actos de las autoridades fiscales que afecten los intereses jurídicos de los particulares son impugnables mediante el juicio de nulidad.
 
 Las resoluciones favorables a los particulares sólo podrán ser revocadas mediante juicio de nulidad que promuevan el Tesorero General del Estado.
 
-### CAPITULO II. DEL TRAMITE DEL PROCEDIMIENTO CONTENCIOSO
+### CAPITULO II. DEL TRAMITE DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
 ###### ARTICULO 195o.
 
@@ -977,7 +981,9 @@ Cuando la naturaleza de las pruebas ofrecidas lo amerite, la audiencia podrá su
 
 Concluida la audiencia de pruebas y alegatos, deberá dictarse resolución en un término que no exceda de 30 días.
 
-## TITULO CUARTO. DEL PROCEDIMIENTO CONTENCIOSO JURÍDICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+## TITULO CUARTO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
@@ -1063,11 +1069,13 @@ III.- El tercero, que dentro del procedimiento administrativo ante la Tesorería
 
 IV.- La Tesorería General del Estado o la Tesorería Municipal, dentro de sus respectivas competencias, aunque no sean actoras ni demandadas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 209.
 
-La Tesorería General del Estado estará representada por el Agente Hacendario que designe por medio de oficio dirigido al Tribunal Fiscal que servirá para acreditar la personalidad del Agente. El Agente Hacendario representará a la propia Tesorería General y a las demás autoridades fiscales estatales que figuren como parte en los juicios de nulidad y tendrá facultades para promover demandas, para contestarlas, para rendir pruebas y para alegar.
+La Secretaría de Finanzas del Gobierno del Estado será representada por el Director Jurídico de la propia Secretaría; indistintamente, cuando se requiera, la representará el Director Jurídico adscrito a la Subsecretaría de Ingresos de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 La Tesorería Municipal estará representada por la persona que tenga facultades para hacerlo conforme a la Legislación Municipal o a quien se le otorgue el poder correspondiente.
 
@@ -1087,9 +1095,11 @@ Toda resolución debe ser notificada a las partes dentro de las 24 horas siguien
 
 ### CAPITULO II. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 213.
 
-El Magistrado Fiscal del Estado estará impedido para conocer los siguientes casos:
+El Magistrado del Tribunal Fiscal del Estado estará impedido para conocer los siguientes casos:
 
 I.- Si es pariente consanguíneo o por afinidad de alguna de las partes, en línea recta sin limitación de grado, dentro del cuarto grado en la colateral por consanguinidad y en el segundo con la colateral por afinidad;
 
@@ -1105,23 +1115,31 @@ VI.- Si tiene amistad estrecha o enemistad con alguna de las partes, sus patrone
 
 VII.- Estar en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 214.
 
-El Magistrado Fiscal del Estado tiene el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior expresando concretamente en qué consiste el impedimento.
+El Magistrado del Tribunal Fiscal del Estado tiene el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 215.
 
-Manifestada por el Magistrado Fiscal del Estado la causa del impedimento, la resolución en que se declare impedido será irrevocable, y en su lugar conocerá del negocio el Primer Secretario del Tribunal en funciones de Magistrado, de conformidad con lo establecido por la Ley Orgánica del Tribunal Fiscal del Estado.
+Manifestada por el Magistrado del Tribunal Fiscal del Estado la causa del impedimento, la resolución en que se declare impedido será irrevocable, y en su lugar conocerá del negocio el Primer Secretario del Tribunal en funciones de Magistrado, de conformidad con lo establecido por la Ley Orgánica del Tribunal Fiscal del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 216.
 
-Las partes podrán recusar al Magistrado Fiscal del Estado, cuando esté en alguno de los casos señalados en el artículo 215 o cuando habiendo sido excitado para pronunciar sentencie (sic) no se formule ésta dentro del plazo de quince días contados a partir de la fecha en que se haya hecho la excitativa.
+Las partes podrán recusar al Magistrado del Tribunal Fiscal del Estado, cuando esté en alguno de los casos señalados en el artículo 215 o cuando habiendo sido excitado para pronunciar sentencia no se formule ésta dentro del plazo de quince días contados a partir de la fecha en que se haya hecho la excitativa.
 
 ###### ARTICULO 217.
 
 Puede interponerse la recusación por causa de impedimento, en cualquier estado del juicio hasta el momento de empezar la audiencia final.
 
-Interpuesta la recusación, inmediatamente se suspenderá el procedimiento hasta que sea resuelta, para que se prosiga el negocio ante quien deba conocer de él, y el Magistrado Fiscal del Estado turnará el expediente al Primer Secretario del Tribunal, para que en funciones de Magistrado, en los términos de la Ley Orgánica del Tribunal del Estado, conozca la recusación, y para ese sólo efecto este funcionario será irrecusable.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+Interpuesta la recusación, inmediatamente se suspenderá el procedimiento hasta que sea resuelta, para que se prosiga el negocio ante quien deba conocer de él, y el Magistrado del Tribunal Fiscal del Estado turnará el expediente al Primer Secretario del Tribunal, para que en funciones de Magistrado, en los términos de la Ley Orgánica del Tribunal Fiscal del Estado, conozca de la recusación. Para ese sólo efecto, este funcionario será irrecusable.
 
 El Primer Secretario del Tribunal, citará a una audiencia que se celebrará dentro de los tres días siguientes al en que recibiere los autos para conocer la recusación, en donde recibirá las pruebas que se ofrezcan y el informe que deba rendir el Magistrado recusado. La falta de dicho informe establece la presunción de ser cierta la causa de recusación.
 
@@ -1129,9 +1147,11 @@ El Primer Secretario del Tribunal, citará a una audiencia que se celebrará den
 
 Se (sic) se declara fundada la recusación, de inmediato seguirá conociendo el negocio el Primer Secretario del Tribunal en sustitución del recusado, de conformidad con lo establecido por la Ley Orgánica del Tribunal Fiscal del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 219.
 
-La resolución que decida la recusación es irrevocable. Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de $500.00
+La resolución que decida la recusación es irrevocable. Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de 10 salarios mínimos, vigente en la capital del Estado.
 
 ### CAPITULO III. DE LOS CASOS DE IMPROCEDENCIA Y SOBRESEIMIENTO
 
@@ -1552,3 +1572,9 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
