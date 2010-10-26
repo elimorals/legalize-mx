@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2009-10-15"
+last_updated: "2010-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2010.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -903,7 +903,7 @@ VI. En los casos no previstos expresamente en el artículo anterior, los derecho
 
 No se causarán los derechos a que se refiere el artículo 68 por las inscripciones de las Sociedades Cooperativas Escolares.
 
-### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION y CONTROL DEL DESARROLLO URBANO
+### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
 
 ###### Artículo 71.
 
@@ -1583,27 +1583,45 @@ I. Por la expedición de certificado sobre pozo de agua para abastecimiento priv
 
 II. Por la revalidación de certificado privado, se pagarán cinco días de salario mínimo;
 
-III. Por la autorización de libro de medicamento controlado, se pagarán cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
 
-IV. Por la expedición de etiqueta de código de barra, se pagarán cinco días de salario mínimo;
+III. Por la autorización de cada uno de los libros de medicamento controlado, se pagarán cinco días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+IV. Por la expedición de cada cincuenta etiquetas de códigos de barra, se pagarán cinco días de salario mínimo;
 
 V. Por la aprobación de construcción de vivienda, se pagará 10 por ciento de un día de salario mínimo, por metro cuadrado;
 
 VI. Por la aprobación de construcción de obra de impacto, se pagará 20 por ciento de un día de salario mínimo, por metro cuadrado;
 
-VII. Por permiso sanitario de construcción de Unidad Médica, se pagará 20 por ciento de un día de salario mínimo, por metro cuadrado;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+VII. Por permiso sanitario de construcción de Unidad Médica, hospital, clínica consultorio, laboratorio o gabinetes de rayos x, se pagarán cinco días de salario mínimo;
 
 VIII. Por licencia sanitaria para médico, se pagará cinco días de salario mínimo;
 
 IX. Por capacitación a petición de parte, se pagarán veinticinco días de salario mínimo;
 
-X. Por visita de establecimientos a petición de parte, se pagarán cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
 
-XI. Por muestra a petición de parte, se pagarán cinco días de salario mínimo;
+X. Por visita de verificación sanitaria a petición de parte a establecimientos sujetos a control sanitario, se pagarán cinco días de salario mínimo;
 
-XII. Por permiso sanitario para inhumación, traslado y cremación funeraria, se pagarán cinco días de salario mínimo; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
 
-XIII. Por aviso de funcionamiento para expendio de bebidas alcohólicas, se pagarán dieciocho días de salario mínimo.
+XI. Por solicitud de muestreo a petición del prestador de servicios y/o el representante legal del establecimiento, se pagarán cinco días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+XII. Por permiso sanitario para inhumación, exhumación, traslado y cremación funeraria, se pagarán cinco días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+XIII. Por la expedición de la Constancia Sanitaria para establecimientos que comercialicen bebidas alcohólicas en envase cerrado o al copeo, se pagarán dieciocho días de salario mínimo; y,
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+
+XIV. Por la expedición de aviso de Responsable Sanitario de establecimientos de Insumos de Salud, así como de cambio de responsable, se pagarán cinco días de salario mínimo.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
 
@@ -1694,6 +1712,12 @@ P.O. 10 DE SEPTIEMBRE DE 2009.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE OCTUBRE DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
