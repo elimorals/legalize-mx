@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-universidad-politecnica-de-puebla-426
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-15"
-last_updated: "2009-09-30"
+last_updated: "2010-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de diciembre de 2004.
 
@@ -203,7 +203,9 @@ El Secretario Académico, dependerá directamente del Rector, correspondiéndole
 
 I. Planear, dirigir, administrar y supervisar la realización de las actividades académicas, de investigación aplicada y de desarrollo tecnológico de la Universidad;
 
-II. Controlar y evaluar las actividades relacionadas con las estancias, estadías y servicio social, así como las relacionadas con la asesoría externa y la educación continua que brinda la Universidad, de conformidad con la normatividad establecida;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+II. Controlar y evaluar las actividades relacionadas con las estancias, estadías y las de asesoría externa que brinda la Universidad, de conformidad con la normatividad establecida;
 
 III. Diseñar, establecer y desarrollar acciones de vinculación de la Universidad, con los sectores social, público y privado para mejorar la calidad de las funciones académicas y de investigación institucionales;
 
@@ -221,9 +223,17 @@ IX. Sugerir al Rector la celebración de convenios que permitan desarrollar los 
 
 X. Presentar al Rector propuestas para la ampliación y mejoramiento de espacios físicos y de los servicios de la Universidad, en función al crecimiento de la demanda y de conformidad con la disponibilidad presupuestal;
 
-XI. Planear y ejecutar programas de seguimiento de egresados y promover su colocación en el mercado de trabajo; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
 
-XII. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+XI. Planear y ejecutar programas de seguimiento de egresados y promover su colocación en el mercado de trabajo;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+XII. Elaborar y proponer al Rector en coordinación con la Secretaría Administrativa, el contenido de los programas de educación continua; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+XIII. Las demás atribuciones que le encomiende o delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -235,7 +245,9 @@ XII. Las demás atribuciones que le encomiende o delegue el Rector, así como la
 
 El Secretario Administrativo dependerá directamente del Rector, correspondiéndole, además de las atribuciones señaladas en el artículo 9 del presente Reglamento, las siguientes:
 
-I. Planear, organizar, dirigir y controlar las actividades referentes a los servicios escolares, a los servicios bibliotecarios, a la titulación y pagos, al registro escolar y a la matrícula;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+I. Organizar, dirigir y controlar las actividades referentes a los servicios escolares, a los servicios bibliotecarios, a la titulación y pagos, al registro escolar, a la matrícula, al servicio social y a la educación continua;
 
 II. Coordinar el proceso de asignación de becas a la Universidad, en términos de la normatividad aplicable y en el ámbito de su competencia;
 
@@ -416,5 +428,9 @@ P.O. 18 DE MAYO DE 2007.
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE SEPTIEMBRE DE 2009.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
