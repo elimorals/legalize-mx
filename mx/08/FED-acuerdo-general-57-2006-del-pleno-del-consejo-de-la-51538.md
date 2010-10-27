@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2006-del-pleno-del-consejo-de-la-51538"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-09-04"
-last_updated: "2010-09-14"
+last_updated: "2010-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51538&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-23"
 
 ACUERDO GENERAL 57/2006, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE OCTUBRE DE 2010.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 4 de septiembre de 2006.
 
@@ -211,9 +211,9 @@ IX.- NOVENO CIRCUITO:
 
 X.- DECIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 17/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO POR PUNTO SEPTIMO DEL ACUERDO GENERAL 24/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA, D.O.F. 27 DE OCTUBRE DE 2010)</small>
 
-1.- Tres tribunales colegiados especializados: uno en materias civil y de trabajo, uno en materias penal y de trabajo y uno en materias administrativa y de trabajo, todos con residencia en Villahermosa.
+1.- Tres tribunales colegiados especializados: uno en materias civil y de trabajo, uno en materias penal y de trabajo y uno en materias administrativa y de trabajo, todos con residencia en Villahermosa; y un tribunal colegiado mixto, con residencia en Coatzacoalcos, Veracruz.
 
 2.- Dos tribunales unitarios con sede en Villahermosa.
 
@@ -431,7 +431,9 @@ En relación con los tribunales unitarios con residencia en Torreón, su jurisdi
 
 IX.- NOVENO CIRCUITO: Estado de San Luis Potosí.
 
-X.- DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza del Estado de Veracruz.
+> <small>(REFORMADO POR PUNTO SEPTIMO DEL ACUERDO GENERAL 24/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA, D.O.F. 27 DE OCTUBRE DE 2010)</small>
+
+X.- DECIMO CIRCUITO: Respecto de los Tribunales Colegiados especializados con residencia en Villahermosa, Tabasco, es la establecida en dicho Estado, y en cuanto al tribunal colegiado con residencia en Coatzacoalcos, Veracruz, su jurisdicción territorial será igual a la establecida para los juzgados de Distrito con sede en la referida ciudad.
 
 XI.- DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
@@ -1002,6 +1004,14 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así c
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, que Crea el Centro Auxiliar de la Primera Región, con Residencia en el Distrito Federal, así como los Organos Jurisdiccionales que lo Integrarán; así como al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, respectivamente.
 
 D.O.F. 14 DE SEPTIEMBRE DE 2010.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 57/2006, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
+
+D.O.F. 27 DE OCTUBRE DE 2010.
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
