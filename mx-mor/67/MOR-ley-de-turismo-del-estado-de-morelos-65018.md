@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2008-12-10"
+last_updated: "2010-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -113,7 +113,23 @@ XV. La colaboración con las dependencias y entidades que tengan a su cargo la a
 
 XVI. Promover y fomentar en conjunto, con los municipios el realizar los manifiestos y declaratorias de centros históricos de cada entidad municipal, para fortalecer la conservación del patrimonio turístico; y
 
-XVII. En general, la realización de toda clase de actividades que tiendan a favorecer y acrecentar las corrientes turísticas nacionales e internacionales, hacia el estado.
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+XVII. Facilitar a las personas con discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+XVIII. Salvaguardar la igualdad de género en la instrumentación y aplicación de políticas de apoyo y fomento al turismo;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+XIX. Determinar las normas para la integración y operación del Registro Estatal de Turismo;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+XX. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades; y
+
+XXI. En general, la realización de toda clase de actividades que tiendan a favorecer y acrecentar las corrientes turísticas nacionales e internacionales, hacia el estado.
 
 ###### Artículo 4.
 
@@ -129,7 +145,13 @@ I. Hoteles, moteles, albergues, hostales, campamentos, paradores de casas rodant
 
 II. Las agencias, sub agencias y operadoras de viajes y de turismo;
 
-III. Guías de turistas;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+III. Guías de turistas, de acuerdo con la siguiente clasificación:
+
+a) Guía general: persona que cuenta con estudios de guía a nivel técnico, reconocidos en los términos de las leyes de la materia y que puede desempeñar eta actividad a nivel nacional, con un dominio global de los atractivos turísticos del país
+
+b) Guía especializado: persona que tiene conocimientos o experiencia acreditable sobre algún tema o actividad específicos…(sic)
 
 IV. Los arrendadores o empresas de automóviles u otros medios de transporte público de pasajeros, incluyendo transportes especializados en excursiones o viajes de turismo;
 
@@ -155,7 +177,9 @@ XIV. Empresas dedicadas a la filmación de películas, videos, comerciales o pro
 
 XV. Personas dedicadas a la elaboración de arte popular y artesanías; así como empresas, personas y/o grupos dedicados a cualquier expresión y manifestación de la cultura tradicional.
 
-Los prestadores de servicios que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo, podrán solicitar su inscripción en el Registro Estatal de Turismo, siempre que cumplan con los requisitos establecidos en el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+Los prestadores de servicios que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo, están obligados a inscribirse en el Registro Estatal de Turismo, siempre que cumplan con los requisitos establecidos en el Reglamento de la presente Ley.
 
 ###### Artículo 6.
 
@@ -423,6 +447,10 @@ IV. Intervenir en la solución de necesidades de carácter social en las zonas d
 
 V. Promover de manera especial una cultura de protección y preservación del medio ambiente, orientada a la práctica y desarrollo de una actividad turística.
 
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+VI. Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos.
+
 ###### Artículo 29.
 
 Son herramientas para la sustentabilidad de la actividad turística:
@@ -440,6 +468,10 @@ V. El Registro Estatal de Turismo.
 ###### Artículo 30.
 
 La Secretaría, dependencias públicas que se relacionen al sector turismo, así como los prestadores de servicios turísticos en el Estado, promoverán de manera especial la educación ambiental del turista y de los residentes locales, fomentando la práctica y desarrollo de la actividad turística ecológica.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+Asimismo, participarán en la regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable en los Municipios del Estado conforme a los convenios que al efecto se suscriban.
 
 ### CAPÍTULO II. DEL DESARROLLO Y FOMENTO DE LA ACTIVIDAD TURÍSTICA
 
@@ -529,7 +561,15 @@ XII. Promoción, difusión y orientación turística;
 
 XIII. Promover los programas de señalética y;
 
-XIV. En general, promover la observancia de las disposiciones emanadas de la presente Ley.
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+XIV. Operar módulos de información y orientación al turista;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+XV. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente; y
+
+XVI. En general, promover la observancia de las disposiciones emanadas de la presente Ley.
 
 ## TÍTULO CUARTO. DE LA PROMOCIÓN E INFORMACIÓN TURÍSTICA
 
@@ -577,9 +617,11 @@ La información que proporcionen los prestadores de servicios y las autoridades 
 
 La Secretaría coadyuvará con las instancias federales, estatales y municipales, en la facilitación de los servicios de información, protección y auxilio a los turistas que visiten el Estado de Morelos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 51.
 
-La Secretaría tendrá a su cargo la integración, organización y actualización del Registro Estatal de Turismo, el cual funcionará con el exclusivo propósito de captar información y concentrar datos estadísticos, que sirvan de apoyo para el control de los servicios turísticos, así como para la planeación y programación de las actividades turísticas, para lo cual se le requerirá por escrito a los prestadores de servicios turísticos, la siguiente información:
+La Secretaría tendrá a su cargo la integración, organización y actualización del Registro Estatal de Turismo, que es un catálogo público de prestadores de servicios turísticos, el cual funcionará con el exclusivo propósito de captar información y concentrar datos estadísticos, que sirvan de apoyo para el control de los servicios turísticos, para conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera, así como para la planeación y programación de las actividades turísticas, para lo cual se le requerirá por escrito a los prestadores de servicios turísticos, la siguiente información:
 
 I. Nombre o razón social de la persona física o moral que presta o prestará el servicio;
 
@@ -591,9 +633,21 @@ IV. Tipo de servicios que presta y su categoría, conforme a las normas mexicana
 
 V. La demás información que la Secretaría estime necesaria para fines de difusión.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 52.
 
-Todos los prestadores de servicios turísticos que operan en el Estado, deberán inscribirse en el Registro Estatal de Turismo y para ello deberán acreditar ante la Secretaría, que tienen reconocido tal carácter por las autoridades municipales competentes.
+Todos los prestadores de servicios turísticos que operan en el Estado, deberán inscribirse obligatoriamente en el Registro Estatal de Turismo y para ello deberán acreditar ante la Secretaría, que tienen reconocido tal carácter por las autoridades municipales competentes.
+
+Los prestadores de servicios turísticos, contarán con un plazo de sesenta días naturales para inscribirse al Registro Estatal de Turismo, a partir de que inicien operaciones.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+Artículo 52 bis.-· El Registro Estatal de Turismo operará bajo el principio de máxima publicidad por lo que la información contenida o que se desprenda del mismo deberá estar disponible al público en general, en la forma y términos que determine la propia Secretaría, con excepción de aquellos datos que en términos de la Ley respectiva, sean de carácter confidencial o reservados.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+Artículo 52 ter.- La Secretaría deberá difundir la información que derive del Registro Estatal de Turismo, con el objeto de que se haga llegar al público en general, a través de su página Web y en los medios que ésta determine.
 
 ###### Artículo 53.
 
@@ -640,6 +694,18 @@ El Ejecutivo del Estado a través de la Secretaría, considerando la factibilida
 ###### Artículo 61.
 
 Es facultad de la Secretaría realizar visitas de verificación a los prestadores de servicios turísticos, a afecto de constatar el debido cumplimiento de las obligaciones a su cargo establecidas en esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+Artículo 61 bis.- Los prestadores de servicios turísticos que no se inscriban en el Registro Estatal de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientos hasta mil quinientos días de salario mínimo vigente en el Estado de Morelos.
+
+En caso de que el prestador de servicios turísticos persista en su conducta, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Estatal de Turismo.
+
+Los prestadores de servicios turísticos que omitan información o proporcionen información inexacta a las autoridades competentes, para su inscripción al Registro Estatal de Turismo, serán requeridos para que en un término de cinco días hábiles proporcione o corrija la información solicitada en el Registro.
+
+En caso de que el prestador de servicios turísticos haga caso omiso del requerimiento, se hará acreedor a una multa que podrá ir de cien hasta quinientos días de salario mínimo vigente en el Estado de Morelos.
+
+Si la conducta persiste, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Estatal de Turismo.
 
 ###### Artículo 62.
 
@@ -704,3 +770,21 @@ SECRETARIO DE GOBIERNO
 LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE OCTUBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos".
+
+Artículo, Segundo.- La Secretaría de Turismo deberá establecer un mecanismo de modernización en la estructura para la operación del Registro Estatal de Turismo, para lo cual contará con un plazo de un año, contado a partir de la entrada en vigor del presente Decreto.
+
+La Secretaría, de manera coordinada con los Gobiernos municipales deberá establecer los mecanismos que permitan la inscripción al Registro Estatal de Turismo, con el objeto de que los prestadores de servicios turísticos cuenten con las facilidades necesarias para llevar a cabo los trámites correspondientes.
+
+Concluido el proceso de modernización del Registro Estatal de Turismo, la Secretaría, deberá publicar en el Periódico Oficial "Tierra y Libertad" del Estado de Morelos la convocatoria estatal de inscripción al Registro Estatal de Turismo dirigida a los prestadores de servicios turísticos.
+
+Los prestadores de servicios turísticos contarán con un término de seis meses para inscribirse al Registro Estatal de Turismo, que comenzará a correr un día después de la fecha en que se publique en el Periódico Oficial "Tierra y Libertad" del Estado de Morelos la convocatoria correspondiente. Una vez transcurrido dicho plazo para efectos de la inscripción se estará a lo establecido en el presente decreto.
+
+Artículo Tercero.- Remítase la presente al titular del Poder Ejecutivo Estatal para los efectos constitucionales y legales correspondientes.
+
+Artículo Cuarto.- El Ejecutivo del Estado deberá adecuar las disposiciones reglamentarias relativas a la presente Ley, en un plazo de 90 días hábiles contados a partir del inicio de la vigencia del presente decreto, mientras tanto seguirán vigentes los ordenamientos aplicables, siempre y cuando no se opongan a lo establecido a la presente ley.
