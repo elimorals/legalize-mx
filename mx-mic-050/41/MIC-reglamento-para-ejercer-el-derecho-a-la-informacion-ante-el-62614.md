@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-para-ejercer-el-derecho-a-la-informacion-ante-el-626
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-22"
-last_updated: "2008-08-22"
+last_updated: "2010-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "MIC"
 
 REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE MARAVATIO, MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EJERCER EL DERECHO A LA INFORMACION ANTE EL H. AYUNTAMIENTO DE MARAVATIO, MICHOACAN, PUBLICADO EN EL P.O. DE 27 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el viernes 22 de agosto de 2008.
 
@@ -252,3 +254,13 @@ C. DOROTEA AGUILAR MORA
 El que suscribe, Dr. Roberto Flores Bautista, Secretario del H. Ayuntamiento de Maravatío de Ocampo, Mich., certifica que la presente copia fue fotocopiada de su original, lo que certifico y compulso para los efectos legales que se citen, a los 5 días del mes de agosto del 2008.
 
 Atentamente.- Sufragio Efectivo. No Reelección.- El Secretario del H. Ayuntamiento.- Dr. Roberto flores (sic) Bautista. (Firmado).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE OCTUBRE DE 2010.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo. Y para el conocimiento ciudadano publíquese en los estrados del Palacio Municipal y en los lugares que el Ayuntamiento estime pertinente para su difusión.
+
+Segundo.- Conforme a lo previsto en los artículos 145, 149 y sexto transitorio de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo, remítase un ejemplar con el texto íntegro al H. Congreso del Estado y al Titular del Poder Ejecutivo Estatal y al Consejero Presidente del Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, para su conocimiento y efectos legales conducentes.
+
+Tercero. Se abroga el Reglamento para Ejercer el Derecho a la Información ante el H. Ayuntamiento de Maravatío Michoacán de fecha 25 de abril del 2008, y publicado en el Diario Oficial (sic) en fecha 22 de agosto del 2008.
