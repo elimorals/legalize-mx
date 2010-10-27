@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-policia-preventiva-y-transito-del-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2010-05-07"
+last_updated: "2010-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA POLICIA PREVENTIVA Y TRANSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 7 de mayo de 2010.
 
@@ -115,9 +115,11 @@ XXIII. Sistema Nacional de Información de Seguridad Pública: Registro de infor
 
 XXIV. Titular de la Institución: Director General de Seguridad Pública y Tránsito Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 6.
 
-Para cumplir su finalidad, la Policía Municipal, tendrá las siguientes facultades y obligaciones:
+Para cumplir su finalidad la Policía Municipal tendrá las siguientes facultades y obligaciones:
 
 I. Mantener la tranquilidad, la seguridad y el orden público dentro del municipio;
 
@@ -125,7 +127,9 @@ II. Proteger la integridad, bienes, valores y derechos de los individuos y de la
 
 III. Prevenir la comisión de delitos e infracciones a los ordenamientos de naturaleza administrativa;
 
-IV. Vigilar el estricto cumplimiento del Bando de Policía y Buen Gobierno y el presente ordenamiento, así como los reglamentos y leyes de Tránsito que tengan aplicación en el Municipio de Ahome;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+IV. Vigilar el estricto cumplimiento del Bando de Policía y Gobierno y el presente ordenamiento, así como los reglamentos y leyes de Tránsito que tengan aplicación en el Municipio de Ahome;
 
 V. Detener a los probables responsables en los casos de flagrante delito, en cuyo caso deberá turnarlos de manera inmediata a la autoridad conveniente;
 
@@ -1023,9 +1027,11 @@ III. Suspensión del servicio; y,
 
 IV. Baja.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 49.
 
-Las sanciones citadas en el artículo anterior se definen como sigue:
+Las sanciones citadas en el Artículo anterior se definen como sigue:
 
 I. AMONESTACIÓN PRIVADA, es la reconvención oral o escrita, que un superior hace a un inferior, con el fin de advertirle del acto u omisión mediante el cual incumplió con sus deberes, así como la exhortación a corregir su conducta y evitar la reincidencia; apercibiéndolo que de no hacerlo, se aplicará una sanción mayor.
 
@@ -1035,7 +1041,9 @@ III. ARRESTO LEVE, es la reclusión dentro del área de servicio por un término
 
 IV. ARRESTO, SEVERO es la reclusión dentro del área de servicio, por un término máximo de 36 horas.
 
-V. SUSPENSIÓN, Es el retiro temporal del servicio sin goce de sueldo, el cual no podrá ser mayor de 8 días, salvo los casos en que el agente de policía se encuentre sujeto a un proceso de carácter administrativo o penal.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+V. SUSPENSIÓN, Es el retiro temporal del servicio, cargo o comisión, sin goce de sueldo, el cual no podrá ser mayor de 15 días, salvo los casos en que el agente de policía se encuentre sujeto a un proceso de carácter administrativo o penal.
 
 VI. BAJA, es el retiro definitivo de la corporación.
 
@@ -1239,9 +1247,15 @@ B).- Reconocida probidad,
 
 C).- Avecindado en el Municipio de Ahome y con una residencia mínima de cinco años, al momento de la designación;
 
-III. Un representante del Ayuntamiento.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+III. Un Regidor del Cabildo.
 
 Un representante del Departamento Jurídico de la Dirección de Seguridad Pública y Tránsito Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 67 BIS.- Los tres integrantes ciudadanos de la Comisión de Honor y Justicia, durarán en su encargo por un periodo máximo de 3 años y no podrán ser reelegidos o ratificados para el ejercicio inmediato.
 
 ###### ARTÍCULO 68.
 
@@ -2308,3 +2322,11 @@ PRESIDENTE MUNICIPAL
 LIC. BETHOVEN PACHECO GUTIERREZ.
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto comenzará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Comuníquese al Ejecutivo Municipal para su sanción, publicación y observancia.
