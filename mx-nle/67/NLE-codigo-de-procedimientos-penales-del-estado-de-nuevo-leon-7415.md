@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "2010-07-30"
+last_updated: "2010-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -4313,9 +4313,11 @@ Para revocar la libertad caucional siempre se deberá oír previamente al Minist
 
 En toda sentencia condenatoria se prevendrá que se amoneste al reo para que no reincida, advirtiéndole de las sanciones a que se expone; de ello se extenderá diligencia, pero sin que la falta de ésta obste para hacer efectivas las sanciones de la reincidencia habitualidad.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO 514.
 
-Pronunciada una sentencia condenatoria irrevocable, el Tribunal que la dicte expedirá, dentro de cuarenta y ocho horas, sendas copias certificadas, una para el Ejecutivo o para quien tenga a su cargo la ejecución de sanciones, en los términos de la Ley Orgánica de la Administración Pública, otra para el Director de Prevención y Readaptación Social del Estado, y otra para el Director o Alcaide del centro reclusorio donde el reo se encuentre internado, o donde hubiere estado detenido.
+Pronunciada una sentencia condenatoria irrevocable, el Tribunal que la dicte expedirá, dentro de cuarenta y ocho horas, sendas copias certificadas, para el Ejecutivo o para quien tenga a su cargo la ejecución de sanciones, en los términos de la Ley Orgánica de la Administración Pública del Estado de Nuevo León, al Comisario General de la Agencia de Administración Penitenciaria y otra para el Alcaide del centro de reclusión donde el reo se encuentre internado, o donde hubiere estado detenido.
 
 ###### ARTICULO 515.
 
@@ -5718,3 +5720,9 @@ Tercero.- Las dependencias y entidades del Ejecutivo Estatal y municipal, que te
 Cuarto.- La Procuraduría General de Justicia en el Estado, deberá incluir a partir del ejercicio fiscal 2011 y en los subsecuentes, dentro de su presupuesto anual, recursos suficientes, para iniciar la construcción del albergue a que se refiere esta Ley y el Artículo Tercero Transitorio, así como el necesario para su funcionamiento y administración.
 
 Quinto.- En tanto no exista disponibilidad del albergue, la Procuraduría General de Justicia del Estado de Nuevo León, sera la responsable de velar por la seguridad de las víctimas del delito de trata de personas.
+
+P.O. 28 DE OCTUBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá expedir o modificar las disposiciones reglamentarias de la Ley que Regula para la Ejecución de Sanciones Penales en un plazo no mayor a 180 días naturales contados a partir de la vigencia del presente Decreto.
