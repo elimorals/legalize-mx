@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2010-03-29"
+last_updated: "2010-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -395,11 +395,15 @@ Los titulares de la Coordinación Técnica de Gabinete; de la Secretaría Partic
 
 Dichas unidades administrativas llevarán a cabo las actividades inherentes a su encargo y las que en forma expresa les asigne el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 25.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de planear, organizar, ejecutar y controlar los programas, proyectos y acciones tendientes a garantizar la seguridad pública, la protección ciudadana, la prevención y readaptación social en el Estado, y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Seguridad Pública es la dependencia encargada de planear, organizar, ejecutar y controlar los programas, proyectos y acciones tendientes a garantizar la seguridad pública, la protección ciudadana, la prevención y reinserción social en el Estado, y le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer al Titular del Ejecutivo los programas relativos a la seguridad de los habitantes del Estado, al orden público que asegure las libertades, a la prevención de delitos y a la readaptación social de los infractores;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+I. Proponer al Titular del Ejecutivo los programas relativos a la seguridad de los habitantes del Estado, al orden público que asegure las libertades, a la prevención de delitos y a la reinserción social de los infractores;
 
 II. Prevenir la comisión de delitos, protegiendo a las personas en su integridad física, propiedades y derechos;
 
@@ -415,7 +419,9 @@ VII. Fomentar la participación ciudadana en la formulación de planes y program
 
 VIII. Ejecutar por acuerdo del Gobernador las penas privativas de libertad;
 
-IX. Administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador, las solicitudes de amnistía, indultos, libertad y traslado de reos;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+IX. Administrar los centros de reinserción social y tramitar, por acuerdo del Gobernador, las solicitudes de amnistía, indultos, libertad y traslado de reos;
 
 X. Asegurar y vigilar el establecimiento y operación de instituciones a cargo del cumplimiento y ejecución de las medidas sancionadoras que sean aplicadas a adolescentes infractores;
 
@@ -1086,3 +1092,9 @@ Quinto.- Los asuntos que se encuentren en trámite actualmente en los que sea pa
 Sexto.- Las atribuciones, asuntos o funciones conferidas en otros ordenamientos jurídicos a las dependencias o entidades previstas con anterioridad a la presente reforma, se entenderán concedidas a las dependencias que por virtud de este Decreto asumen dichos asuntos, atribuciones o funciones.
 
 En consecuencia, las menciones contenidas en otras Leyes, Reglamentos y en general en cualquier otra disposición, respecto de las dependencias o entidades antes mencionadas se entenderán referidas a las dependencias, que de acuerdo con el presente Decreto absorben tales funciones.
+
+P.O. 28 DE OCTUBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá expedir o modificar las disposiciones reglamentarias de la Ley que Regula la Ejecución de las Sanciones Penales en un plazo no mayor de a 180 días naturales contados a partir de la vigencia del presente Decreto.
