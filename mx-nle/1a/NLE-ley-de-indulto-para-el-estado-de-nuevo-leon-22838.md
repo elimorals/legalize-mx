@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-indulto-para-el-estado-de-nuevo-leon-22838"
 country: "mx"
 rank: "ley"
 publication_date: "1969-12-10"
-last_updated: "1969-12-10"
+last_updated: "2010-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INDULTO PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de diciembre de 1969.
 
@@ -39,9 +39,11 @@ LEY DE INDULTO PARA EL ESTADO DE NUEVO LEON.
 
 - El Jefe del Ejecutivo, de acuerdo con la facultad que le confiere la Fracción XXVI del artículo 85 reformado de la Constitución Política del Estado, concederá indulto a los reos ejecutoriados comprendidos en las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
 ###### ARTICULO SEGUNDO
 
-- El indulto a que se refiere esta Ley, es una gracia, no constituye derecho en favor de persona alguna y para concederse se tomará en consideración que el agraciado tenga oficio, arte o profesión y que sus antecedentes familiares y morales, así como su comportamiento en la prisión o prisiones en que haya estado extinguiendo su condena, garanticen su reintegración a la sociedad, por haber desaparecido, en lo absoluto, su estado de peligrosidad.
+- El indulto a que se refiere esta Ley, es una gracia, no constituye derecho en favor de persona alguna y para concederse se tomará en consideración que el agraciado tenga oficio, arte o profesión y que sus antecedentes familiares y morales, así como su comportamiento en la prisión o prisiones en que haya estado extinguiendo su condena, garanticen su reinserción a la sociedad, por haber desaparecido, en lo absoluto, su estado de peligrosidad.
 
 ###### ARTICULO TERCERO
 
@@ -110,3 +112,11 @@ EL Secretario General de Gobierno
 LIC. BALTAZAR CANTU GARZA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE OCTUBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá expedir o modificar las disposiciones reglamentarias de la Ley que Regula la Ejecución de las Sanciones Penales en un plazo no mayor a 180 días naturales contados a partir de la vigencia del presente Decreto.
