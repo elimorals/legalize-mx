@@ -4,7 +4,7 @@ identifier: "VER-estatuto-de-los-alumnos-del-colegio-de-veracruz-55744"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-05-25"
-last_updated: "2010-06-25"
+last_updated: "2010-10-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ESTATUTO DE LOS ALUMNOS DEL COLEGIO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2010.
 
 Estatuto publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 25 de mayo de 2007.
 
@@ -221,9 +221,19 @@ c). Que no acrediten satisfactoriamente las asignaturas o seminarios, módulos o
 
 ### CAPÍTULO V. DE LA CALIFICACIÓN, ACREDITACIÓN Y EVALUACIÓN
 
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 29.
 
-Las asignaturas, seminarios, módulos o cursos específicos de cada programa de estudio se acreditarán, según corresponda, mediante la evaluación que en cada uno de ellos se establezca, pudiendo ser su resultado Acreditado o No Acreditado, o mediante la asignación de una calificación numérica.
+Baja definitiva de El Colegio es la que se origina por las causas siguientes:
+
+a). Que los alumnos hayan sido expulsados por parte de las autoridades de la institución; y
+
+b). Que los alumnos la soliciten.
+
+Es causa de baja definitiva de posgrado o carrera que cursa, el no acreditar los requisitos de permanencia a que se refiere el artículo 26 de los presentes Estatutos.
+
+En este caso el alumno podrá optar si tiene interés por cursar cualquier posgrado distinto al que fue dado de baja definitivamente.
 
 ###### Artículo 30.
 
@@ -694,3 +704,9 @@ Primero. Publíquese en la Gaceta Oficial del estado.
 Segundo. La presente reforma entrará en vigor respecto de los alumnos actualmente inscritos en El Colegio a partir de la notificación personal que se haga a cada uno de ellos.
 
 Tercero. Súbanse las presentes Reformas a la página de Internet de El Colegio.
+
+G.O. 28 DE OCTUBRE DE 2010.
+
+Primero. Publíquese en la Gaceta Oficial del estado.
+
+Segundo. Súbanse la presente Reforma a la página de Internet de El Colegio.
