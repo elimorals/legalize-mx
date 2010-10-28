@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-regula-la-ejecucion-de-las-sanciones-penales-7487"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-01"
-last_updated: "2010-07-03"
+last_updated: "2010-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 1994.
 
@@ -41,29 +41,45 @@ LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-Las disposiciones de esta Ley son de orden público y de interés social y se aplicarán a aquéllos que cumplan sentencias privativas de libertad en establecimientos penitenciarios dependientes del Gobierno del Estado; en los casos de los artículos 21 y 22 de esta Ley y a los procesados en lo conducente.
+###### ARTÍCULO 1o.
+
+Las disposiciones de esta Ley son de orden público y de interés social y tiene por objeto establecer las bases del sistema, régimen y tratamiento penitenciario, así como la administración de la prisión preventiva, ejecución de las sanciones y medidas de seguridad, especiales y de vigilancia.
+
+El programa de reinserción social se fundamentará en el tratamiento individualizado sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, la cultura de la legalidad y el deporte; el tratamiento de apoyo como terapia psicológica individual y grupal, orientación familiar, vocacional y el tratamiento auxiliar que comprende las disciplinas de arte, cultura, religiones y demás que tiendan al mejoramiento del desarrollo humano, para lograr la reinserción social del interno y procurar que no vuelva a delinquir.
+
+La autoridad adoptará las medidas necesarias para procurar que el interno tenga un retorno progresivo a la vida en sociedad mediante un régimen preparatorio para su liberación y reinserción social.
 
 ###### ARTICULO 2o.
 
-Esta Ley tiene por objeto:
-
-I.- Regular la ejecución de las sanciones que se impongan a los individuos con base al Código Penal del Estado y a cualquier otra Ley; y
-
-II.- Regular el control y vigilancia de toda sanción privativa de la libertad, impuesta en los términos de Ley.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
 
 ###### ARTICULO 3o.
 
-La ejecución de las sanciones se organizará sobre la base del trabajo, la capacitación para el mismo y la educación, como medios para la readaptación social del delincuente.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2010)
 
 ###### ARTICULO 4o.
 
 El Ejecutivo del Estado vigilará el cumplimiento y aplicación de esta Ley, así como la organización y funcionamiento de las instituciones destinadas a la ejecución de las sanciones.
 
-###### ARTICULO 5o.
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-El Ejecutivo del Estado podrá celebrar convenios con la Federación, a fin de que los sentenciados por delitos del orden común extingan su sanción en establecimientos dependientes del Ejecutivo Federal; así como para que los condenados por delitos de orden federal, extingan su sanción en los establecimientos del Estado.
+La administración, vigilancia y cumplimiento de las obligaciones y derechos para la reinserción social, estarán a cargo de las siguientes autoridades:
+
+I. Secretario de Seguridad Pública;
+
+II. Comisario General de la Agencia de Administración Penitenciaria;
+
+III. Comisario de Apoyo a la Operación Penitenciaria; y
+
+IV. Alcaides de los Centros Preventivos o de Reinserción Social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 5o.
+
+El Ejecutivo del Estado podrá celebrar convenios con la Federación, a fin de que los sentenciados por delitos del orden común extingan su sanción en establecimientos dependientes del Ejecutivo Federal; así como para que los condenados por delitos de orden federal, extingan su sanción en los establecimientos del Estado. Los sentenciados, en los casos y condiciones que establezca la Ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social. Esta disposición no aplicará en caso de delincuencia organizada y respecto de otros internos que requieran medidas especiales de seguridad.
 
 Igualmente podrá celebrar convenios de coordinación para la orientación de las tareas de prevención de la delincuencia y para determinar lo relativo a la creación y manejo de instituciones penales de toda índole.
 
@@ -107,15 +123,17 @@ III.- Elaborar y poner a consideración del Ejecutivo del Estado, para su aproba
 
 IV.- Vigilar y supervisar la conducta de las personas a quienes se les haya concedido el beneficio de la condena condicional, conforme al Código Penal del Estado;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-V.- Adoptar los medios y sistemas de clasificación y tratamiento de los reclusos y aplicar en lo conducente, lo dispuesto por los últimos dos párrafos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
+V.- Adoptar los medios y sistemas de clasificación y tratamiento de los reclusos y aplicar en lo conducente, lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
 VI.- Instar el pago del cumplimiento de la multa mediante el procedimiento económico-coactivo de la Secretaría de Finanzas y Tesorería General del Estado;
 
 VII.- Hacer efectivo el decomiso de los instrumentos del delito;
 
-VIII.- Estudiar y presentar al Ejecutivo, para su aprobación, los informes que le rindan el Consejo Técnico Interdisciplinario o el Consejo Técnico General, sobre la remisión parcial de la pena y la libertad preparatoria;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+VIII.- Estudiar y presentar al Ejecutivo, para su aprobación, los informes que le rindan el Consejo Técnico Interdisciplinario o el Consejo Técnico General, sobre la remisión parcial de la pena, libertad preparatoria, tratamiento preliberacional en su modalidad de traslado a institución abierta y confinamiento domiciliario;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
 
@@ -167,11 +185,11 @@ XXI.- Las demás que fijen ésta u otras leyes y reglamentos.
 
 (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2004)
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-###### ARTICULO 10.
+###### ARTÍCULO 10.
 
-El funcionamiento de la Secretaría de Seguridad Pública respecto a la ejecución de las sanciones penales se sujetará a esta Ley y al reglamento respectivo.
+El funcionamiento de la Secretaría de Seguridad Pública respecto a la ejecución de las sanciones penales se sujetará a esta Ley y al reglamento interior de los centros de reclusión, así como a la Ley de Seguridad Pública para el Estado de Nuevo León, al Reglamento Interior de la Secretaría de Seguridad Pública y demás leyes y reglamentos aplicables.
 
 ## TITULO TERCERO. DE LA EJECUCION DE LAS SANCIONES PRIVATIVAS DE LA
 
@@ -183,33 +201,51 @@ LIBERTAD
 
 Las sanciones privativas de la libertad se cumplirán, salvo los casos de excepción expresamente señalados en esta Ley o en otro ordenamiento, en los establecimientos penitenciarios de reclusión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-En los términos del artículo 2 de esta Ley y del artículo 9 del Código de Procedimientos Penales del Estado de Nuevo León, la autoridad administrativa ejecutará las sanciones de prisión de manera sucesiva. Atento a lo anterior, si sobre una misma persona existieren dos o más sanciones privativas de libertad, se ejecutará en primer tiempo la correspondiente a la sentencia que haya causado ejecutoria primero; al día siguiente de su extinción comenzará la ejecución de la que hubiere causado ejecutoria en segundo término y así sucesivamente.
+En los términos del Artículo 1o. de esta Ley y del Artículo 9o. del Código de Procedimientos Penales del Estado de Nuevo León, la autoridad administrativa ejecutará las sanciones de prisión de manera sucesiva. Atento a lo anterior, si sobre una misma persona existieren dos o más sanciones privativas de libertad, se ejecutará en primer tiempo la correspondiente a la sentencia que haya causado ejecutoria primero; al día siguiente de su extinción comenzará la ejecución de la que hubiere causado ejecutoria en segundo término y así sucesivamente.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+Cuando por sentencia que haya causado ejecutoria se absuelva al interno, el tiempo que estuvo detenido por ésta se acreditará a la de la sentencia ejecutoria que tenga por cumplir.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+Cuando por sentencia ejecutoria se reduzca la pena impuesta y el tiempo de detención de ésta sea mayor, en su caso, le será acreditado a la ejecución de sanción de la que tenga por ejecutársele.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE JULIO DE 2007)</small>
 
 ARTICULO 11 bis.- La autoridad deberá mantener recluidos a los procesados o sentenciados que colaboren en los términos del Artículo 44 bis de esta Ley, en establecimientos o áreas distintas de aquéllas en donde se recluya a las personas respecto de las cuales brindó información, ya sea en prisión preventiva o en ejecución de sentencia.
 
-###### ARTICULO 12.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-Los establecimientos penitenciarios estarán a cargo de un Director y tendrán el personal administrativo y de vigilancia que sea necesario.
+###### ARTÍCULO 12.
+
+Los establecimientos penitenciarios estarán a cargo de un Alcaide y tendrán el personal directivo, administrativo, técnico y de seguridad y custodia que prevé el Reglamento Interior de la Secretaría de Seguridad Pública del Estado.
 
 ###### ARTICULO 13.
 
 (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2004)
 
-###### ARTICULO 14.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-Para el adecuado funcionamiento de los establecimientos penitenciarios, en la designación del personal directivo, administrativo, técnico y de custodia, se considerarán las aptitudes, vocación, preparación académica y antecedentes personales.
+###### ARTÍCULO 14.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2010)</small>
+Para el adecuado funcionamiento de los establecimientos penitenciarios, en la designación del Alcaide, del personal directivo, administrativo, técnico y de seguridad y custodia, se considerarán las aptitudes, vocación, preparación académica especializada, experiencia laboral en la materia y antecedentes personales.
 
-Asimismo, el personal a que hace mención el párrafo anterior, deberá de sujetarse a los procedimientos de evaluación del desempeño y control de confianza a que se refiere la Ley de Seguridad Pública para el Estado de Nuevo León.
+El personal a que hace mención el párrafo anterior, deberá de sujetarse a los procedimientos de evaluación del desempeño y control de confianza a que se refiere la Ley de Seguridad Pública para el Estado de Nuevo León.
 
 ###### ARTICULO 15.
 
 Antes de asumir el cargo y durante el desempeño de éste, el personal de los establecimientos penitenciarios debe seguir los cursos de formación y de actualización que se realicen, así como aprobar los exámenes de selección.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+Para formar parte del personal de seguridad y custodia será requisito estar previamente capacitado en el manejo de armas de fuego.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+Las autoridades podrán hacer uso racional de la fuerza en caso de resistencia individual o colectiva, intento de evasión, conato de motín o resistencia a entregar armas, artículos o sustancias prohibidas, agresión al personal, visitantes, internos o cualquier otro desorden o peligro inminente que ponga en riesgo la seguridad en el centro de reclusión.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
 
@@ -217,13 +253,25 @@ Antes de asumir el cargo y durante el desempeño de éste, el personal de los es
 
 En la construcción de nuevos establecimientos preventivos y de ejecución de sanciones y en el remozamiento o la adaptación de los existentes, la Secretaría de Seguridad Pública tendrá funciones de orientación y asistencia técnica.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+En el diseño arquitectónico se considerarán los espacios interiores y exteriores que brinden seguridad funcional y coordinación modular, de acuerdo a los diferentes niveles de seguridad y custodia de los establecimientos penitenciarios, así como las instalaciones necesarias para su adecuado funcionamiento de vigilancia y tratamiento de reinserción social.
+
 ###### ARTICULO 17.
 
 El sitio que se destine para la extinción de las sanciones privativas de la libertad será distinto y completamente separado del de la prisión preventiva. Las mujeres quedarán recluidas en lugares diferentes a los de los hombres.
 
-###### ARTICULO 18.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-En los establecimientos o en las secciones destinados a las mujeres, la labor de vigilancia estará a cargo, en lo posible, de personal femenino.
+###### ARTÍCULO 18.
+
+En los establecimientos o en las secciones destinadas a las mujeres, la labor de vigilancia estará a cargo de personal femenino.
+
+Siempre serán tratadas con respeto y dignidad e incorporadas en los tratamientos apropiados para su reinserción social, debiendo tener asistencia médica especializada y preventiva para el cuidado de la salud, así como la adecuada alimentación.
+
+En caso de maternidad, y a reserva de la determinación que en su caso emita la autoridad judicial, tendrán derecho a que sus hijos recién nacidos permanezcan con ellas hasta los tres años de edad, previa opinión favorable de la Procuraduría de la Defensa del Menor y la Familia quien velará por el interés superior del menor; después de dicho término se entregará la custodia del menor a quien corresponda por disposición legal o por determinación de la autoridad competente, observando para ello un criterio de separación gradual del menor.
+
+Las autoridades darán todas las facilidades a fin de procurar que el menor de siete años ejerza contacto cotidiano con su madre que se encuentre en reclusión por tratarse de cuestiones fundamentales para su desarrollo.
 
 ###### ARTICULO 19.
 
@@ -251,9 +299,11 @@ En la cárcel municipal distrital que corresponda permanecerán los procesados y
 
 ### CAPITULO II. DEL SISTEMA GENERAL PENITENCIARIO
 
-###### ARTICULO 23.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-En los establecimientos penitenciarios se adoptará un régimen de readaptación con tratamiento individualizado, con aportación de las ciencias y disciplinas conducentes a la reincorporación social del sujeto, consideradas sus circunstancias personales.
+###### ARTÍCULO 23.
+
+En los establecimientos penitenciarios se adoptará un régimen de reinserción social con tratamiento individualizado, con aportación de las ciencias y disciplinas conducentes a la reincorporación social del sujeto, considerándose sus circunstancias personales y sociales.
 
 ###### ARTICULO 24.
 
@@ -301,17 +351,29 @@ Igualmente quedan prohibidos los pabellones o sectores de distinción destinados
 
 La educación que se imparta a los internos, preferentemente a cargo de maestros especializados, no tendrá sólo carácter académico, sino también cívico, social, artístico, físico y ético y, en su caso, orientada por las técnicas de la pedagogía correctiva.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+El interno podrá solicitar los servicios de educación pública o privada en el sistema a distancia, para cursos, estudios de licenciatura o posgrado, cuyos gastos estarán a su cargo; siempre que lo apruebe el Consejo Técnico Interdisciplinario.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+Para ello el Centro Penitenciario deberá tomar las medidas de seguridad y vigilancia necesarias para garantizar el adecuado uso de este derecho. El interno no tendrá acceso a internet. El envío y recepción de comunicaciones con fines educativos se realizará a través del enlace designado por el área competente del Centro, no pudiéndose dar una comunicación directa entre el interno y la institución educativa.
+
 ###### ARTICULO 30.
 
 La asignación de los internos al trabajo se hará tomando en cuenta los deseos, la vocación, las aptitudes, la capacitación laboral para el trabajo en libertad y el tratamiento de aquéllos, así como la posibilidad del reclusorio.
 
 El trabajo en los reclusorios se organizará previo estudio de las características de la economía y del mercado local, a fin de favorecer la correspondencia entre las demandas de éste y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento.
 
-###### ARTICULO 31.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-Todo interno sentenciado se encontrará sujeto a un régimen de trabajo, tomando en cuenta el precepto anterior, a excepción de los enfermos, inválidos o que por su edad y en base a dictamen médico se demuestre su incapacidad temporal o definitiva. Lo mismo debe tomarse en consideración para las mujeres embarazadas.
+###### ARTÍCULO 31.
 
-El reglamento respectivo determinará dichos casos.
+Tomando en cuenta el precepto anterior, todo interno sentenciado bajo condena irrevocable se encontrará sujeto a un régimen de trabajo como uno de los elementos fundamentales del tratamiento de reinserción social a excepción de los enfermos, inválidos o que por su edad y en base a dictamen médico se demuestre su incapacidad temporal o definitiva. Lo mismo debe tomarse en consideración para las mujeres embarazadas.
+
+Los programas y los lineamientos para establecer el trabajo penitenciario serán provistos por la Autoridad Penitenciaria y tendrán como propósito planificar, regular, organizar y establecer métodos, horarios, medidas preventivas de higiene y seguridad en el trabajo penitenciario.
+
+Las Secretarías del Trabajo, y de Desarrollo Social del Estado, promoverán la implementación de áreas laborales al interior de los centros de reinserción social o en su caso al exterior del mismo; e impulsarán el desarrollo de cursos y talleres de capacitación destinados a certificar laboralmente al interno, a fin de que al obtener su libertad se incorpore a las actividades productivas, para de esta manera culminar la efectividad de la reinserción social que evite su reincidencia.
 
 ###### ARTICULO 32.
 
@@ -319,13 +381,23 @@ Los reos pagarán su sostenimiento en el reclusorio con cargo a la percepción q
 
 Dentro del establecimiento ningún interno podrá desempeñar funciones de autoridad o ejercer empleo o cargo alguno.
 
-###### ARTICULO 33.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-Dentro de los principios generales consignados en los artículos anteriores, podrán establecerse con carácter de permanentes o transitorios, centros de internación y de trabajo a donde se trasladarán los reos para lograr su mejor readaptación.
+###### ARTÍCULO 33.
 
-###### ARTICULO 34.
+Dentro de los principios generales consignados en los artículos anteriores, podrán establecerse con carácter de permanentes o transitorios, centros de internación y de trabajo a donde se trasladarán los reos para lograr su mejor reinserción social.
 
-En el curso del tratamiento se fomentará el establecimiento, la conservación y el fortalecimiento, en su caso, de las relaciones del interno con personas convenientes del exterior. Para este efecto se procurará el desarrollo del Servicio Social Penitenciario, en cada centro de reclusión, con el objeto de auxiliar a los internos en sus contactos autorizados con el exterior.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 34.
+
+En el curso del tratamiento se fomentará el establecimiento, la conservación y el fortalecimiento, en su caso, de las relaciones del interno con personas convenientes del exterior. Para este efecto se procurará la participación activa y constante del área de trabajo social penitenciario en las relaciones familiares de los internos, en cada centro de reclusión, con el objeto de auxiliar a los internos en sus contactos autorizados con el exterior.
+
+El Comisario General de la Agencia de Administración Penitenciaria, previa autorización del Secretario, podrá conceder autorización al interno con buena trayectoria institucional y avances de reinserción social, para que acuda a despedirse de sus padres, cónyuges, concubina o concubinario, hijos o hermanos cuando se encuentren en circunstancias de pérdida inminente de la vida, tomando las medidas de seguridad y custodia necesarias al caso.
+
+Para la autorización de salida del interno por los fines establecidos en el párrafo anterior, deberá mediar el dictamen médico emitido por la institución de salud correspondiente o del médico del centro de reclusión en el que deberá mencionar la causa o causas de las que se desprenda el riesgo inminente de pérdida de vida.
+
+Así mismo, en el caso de que un interno sufra una lesión de consideración o enferme de tal forma que amerite su traslado a un hospital o centro de salud externo para su debida atención; el médico adscrito al centro de reclusión deberá emitir un dictamen en donde determine de acuerdo a su opinión profesional, lo necesario de dicha medida, debiéndose tomar las medidas de seguridad y custodia necesarias al caso.
 
 ###### ARTICULO 35.
 
@@ -369,9 +441,11 @@ Al quedar en libertad definitiva una persona, la Secretaría de Seguridad Públi
 
 La libertad definitiva que se otorgue conforme a este capítulo, será comunicada de inmediato al patronato de asistencia a liberados, para los fines previstos en el artículo 64 de esta Ley.
 
-###### ARTICULO 43.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el recluso observe buena conducta, participe regularmente de las actividades educativas que se organicen en el establecimiento y revele por otros datos efectiva readaptación social. Esta última será, en todo caso, el factor determinante para la concesión o negativa de la remisión parcial de la pena, que no podrá fundarse exclusivamente en los días de trabajo, en la participación en actividades educativas y en el buen comportamiento del sentenciado.
+###### ARTÍCULO 43.
+
+Por cada dos días de trabajo se hará remisión de uno de prisión, siempre que el recluso observe buena conducta, participe regularmente de las actividades educativas, artísticas, culturales, deportivas y de capacitación que se organicen en el establecimiento y revele por otros datos una efectiva reinserción social. Esta última será, en todo caso, el factor determinante para la concesión o negativa de la remisión parcial de la pena o de otros beneficios que contemple la ley, los cuales no podrán fundarse exclusivamente en los días de trabajo, en la participación en actividades educativas y en el buen comportamiento del sentenciado.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2009)</small>
 
@@ -393,7 +467,9 @@ La libertad preparatoria se otorga a quienes sean condenados por sentencia ejecu
 
 I.- Haber cumplido las tres quintas partes de la sanción impuesta tratándose de los delitos dolosos y la tercera parte tratándose de delitos preterintencionales y culposos;
 
-II.- Haber observado durante su internamiento buen comportamiento, sin limitarse al simple cumplimiento de los reglamentos, sino también a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo, todo lo cual revele un índice de readaptación social;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+II.- Haber observado durante su internamiento buen comportamiento, sin limitarse al simple cumplimiento de los reglamentos, sino también a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo, todo lo cual revele un índice de reinserción social;
 
 III.- Que adopte en el plazo que la resolución determine, cualquier medio honesto de vida;
 
@@ -461,9 +537,11 @@ Los individuos que disfruten de la libertad preparatoria quedarán sujetos a la 
 
 Cuando hubiere expirado el término de la condena que faltare por compurgar, el recluso ocurrirá a la Secretaría de Seguridad Pública, para que, en vista de la sentencia y de los informes que se recaben, se haga de plano la declaración de quedar el reo en libertad definitiva.
 
-###### ARTICULO 55.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-No se concederá la libertad preparatoria a los reos ejecutoriados en todos los casos que contempla el artículo 44 de la presente ley.
+###### ARTÍCULO 55.
+
+No se concederá la libertad preparatoria ni el tratamiento preliberacional a los reos ejecutoriados en todos los casos que contempla el artículo 44 de la presente Ley.
 
 ### CAPITULO III. DEL INDULTO
 
@@ -509,9 +587,11 @@ Para los efectos de lo dispuesto en los artículos anteriores es condición inel
 
 ### CAPITULO V. DE LA ASISTENCIA A LIBERADOS
 
-###### ARTICULO 64.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-El Patronato de Asistencia a Liberados tendrá a su cargo prestar asistencia moral y material a los excarcelados tanto por el cumplimiento de condenas, como por libertad procesal, absolución, condena condicional o libertad preparatoria.
+###### ARTÍCULO 64.
+
+El Patronato de Asistencia a Liberados tendrá a su cargo la prestación de asistencia moral y material a los excarcelados tanto por el cumplimiento de condenas, como por libertad procesal, absolución, condena condicional, libertad preparatoria o tratamiento preliberacional.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2004)</small>
 
@@ -614,3 +694,9 @@ P.O. 17 DE JULIO DE 2009.
 P.O. 3 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado deberá expedir o modificar las disposiciones reglamentarias de la Ley que Regula la Ejecución de las Sanciones Penales en un plazo no mayor a 180 días naturales contados a partir de la vigencia del presente Decreto.
