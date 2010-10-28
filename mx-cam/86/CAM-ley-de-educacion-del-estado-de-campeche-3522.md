@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2008-12-19"
+last_updated: "2010-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE EDUCACION DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -113,7 +113,11 @@ III.- Fomentar el aprecio a la dignidad humana y a la integridad de la familia, 
 
 IV.- Alcanzar, mediante la enseñanza de la lengua nacional, un idioma común para todos los mexicanos;
 
-V.- Fomentar y promover el uso y defensa de las lenguas autóctonas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+V.- Fomentar, promover y preservar el uso y defensa de las lenguas autóctonas, y en particular de la lengua maya;
 
 VI.- Atender las necesidades educativas de las comunidades indígenas del Estado, mediante programas específicos;
 
@@ -289,9 +293,9 @@ XX.- Promover y establecer la creación de instituciones y organismos de educaci
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXI.- Coordinarse con la Secretaria de Salud para elaborar una tabla nutrimental orientada a procurar hábitos de alimentación sana y balanceada, así como para implementar programas en los planteles de educación básica que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional en los educandos y prohibir la publicidad enfocada al consumismo en el interior de los planteles educativos; además de integrar a los planes de estudio de educación básica, contenidos de prevención contra el consumo de drogas;
+XXI.- Coordinarse con la Secretaría de Salud para elaborar una tabla nutrimental orientada a procurar hábitos de alimentación sana y balanceada, así como para implementar programas en los planteles de educación básica que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional en los educandos y prohibir la publicidad enfocada al consumismo en el interior de los planteles educativos y, que a su vez, promuevan al interior de dichos centros educativos la proliferación de alimentos con un alto valor nutricional; además de integrar a los planes de estudio de educación básica, contenidos de prevención contra el consumo de drogas;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -307,9 +311,21 @@ XXIII.- Implementar medidas dirigidas a fomentar la prevención de riesgos y la 
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
-XXIV.- Las demás que emanen del artículo 3° constitucional y otros ordenamientos legales.
+XXIV.- Implementar campañas para promover la práctica del ejercicio y los deportes con la finalidad de combatir la obesidad y el sobrepeso entre la población de edad escolar;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+XXV.- Supervisar que las instituciones educativas instrumenten acciones tendientes a fomentar hábitos para una vida saludable, encaminadas a prevenir de manera oportuna la obesidad infantil y juvenil en el Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+XXVI.- Las demás que emanen del artículo 3o. constitucional y otros ordenamientos legales.
 
 ### CAPITULO V. DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -407,11 +423,11 @@ Los organismos descentralizados del Estado que impartan educación superior en l
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 22
 
-1.- Para lograr el fortalecimiento educativo estatal, las autoridades educativas en el Estado en concurrencia con el Gobierno Federal, formularán y aplicarán, programas, proyectos y acciones a fin de hacer efectivo el derecho a la educación con equidad, eficiencia y calidad.
+1.- Para lograr el fortalecimiento educativo estatal, las autoridades educativas en el Estado en concurrencia con el Gobierno Federal, formularán y aplicarán, programas, proyectos y acciones a fin de hacer efectivo el derecho a la educación con equidad, eficiencia y calidad. Velando además por la enseñanza de los valores cívicos y éticos en las asignaturas que así lo ameriten.
 
 Se atenderá de manera prioritaria a las comunidades con rezago educativo y marginación económica y social.
 
@@ -485,7 +501,17 @@ XI.- Promover la educación para padres de los alumnos del nivel básico.
 
 XII.- Simplificar los procedimientos administrativos en la prestación del servicio educativo.
 
-XIII.- Los demás que para tal fin se formulen.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+XIII.- Desarrollar y fomentar en los educandos los valores cívicos y éticos por los que debe regirse todo ser humano, buscando promover la cultura de la legalidad, la paz, el amor a la patria, el respeto y la solidaridad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+
+XIV.- Los demás que para tal fin se formulen.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -946,6 +972,12 @@ PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- En lo que se opongan al presente decreto, quedan derogadas todas las disposiciones legales reglamentarias y administrativas vigentes en la materia.
 
 P.O. 19 DE DICIEMBRE DE 2008.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE OCTUBRE DE 2010.
 
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
