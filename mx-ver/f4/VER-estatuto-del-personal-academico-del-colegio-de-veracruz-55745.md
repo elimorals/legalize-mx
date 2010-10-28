@@ -4,7 +4,7 @@ identifier: "VER-estatuto-del-personal-academico-del-colegio-de-veracruz-55745"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-05-25"
-last_updated: "2010-06-25"
+last_updated: "2010-10-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55745&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ESTATUTO DEL PERSONAL ACADEMICO DEL COLEGIO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2010.
 
 Estatuto publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 25 de mayo de 2007.
 
@@ -175,9 +175,11 @@ VII. Ser miembro de asociaciones o redes de investigación establecidas.
 
 ### CAPÍTULO V. DE LAS RELACIONES LABORALES
 
+> <small>(REFORMADO, G.O. 28 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 25.
 
-Las relaciones laborales entre El Colegio de Veracruz y los profesores investigadores, así como los profesores de asignatura se regirán por un contrato de prestación de servicios académicos por tiempo determinado.
+Las relaciones laborales entre El Colegio de Veracruz y los profesores de asignatura se regirán por un contrato de prestación de servicios académicos por tiempo determinado.
 
 ###### Artículo 26.
 
@@ -436,3 +438,9 @@ Primero. Publíquese en la Gaceta Oficial del estado.
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Tercero. Súbanse las presentes Reformas a la página de Internet de El Colegio.
+
+G.O. 28 DE OCTUBRE DE 2010.
+
+Primero. Publíquese en la Gaceta Oficial del estado.
+
+Segundo. Súbanse la presente Reforma a la página de Internet de El Colegio.
