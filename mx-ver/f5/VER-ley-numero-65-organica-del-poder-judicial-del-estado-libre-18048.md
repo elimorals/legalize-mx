@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2010-09-17"
+last_updated: "2010-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE OCTUBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -1821,15 +1819,19 @@ El Consejero propuesto por el Gobernador y el representante del Congreso, deber�
 
 Los Consejeros, a excepción del Presidente, durarán en su cargo cinco años y no podrán ser designados para otro periodo. Los consejeros provenientes de los Tribunales, al concluir su cargo, retornarán a su adscripción de origen.
 
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 102.
 
-Los Consejeros de la Judicatura, con excepción de su Presidente, serán suplidos, en sus faltas temporales que no excedan de diez días consecutivos, por el Secretario de Acuerdos del Consejo. En todo caso, las faltas mayores a dicho término, sin que medie causa justificada que califique el Presidente del Consejo, se considerarán definitivas.
+Los Consejeros de la Judicatura, con excepción de su Presidente, serán suplidos, en sus faltas temporales que no excedan de diez días consecutivos, por el Secretario de Acuerdos del Consejo, En todo caso, las faltas mayores a dicho término, sin que medie causa justificada que califique el Presidente del Consejo, se considerarán definitivas. En caso de falta definitiva, se tendrá por concluido el periodo de ejercicio para el que fue nombrado el Consejero de que se trate.
 
 ###### Artículo 103.
 
 El Pleno del Tribunal Superior de Justicia resolverá sobre las ausencias, licencias o renuncias de los Consejeros que hubiere nombrado, aplicando, en lo conducente, las disposiciones de esta ley relativas a los Magistrados.
 
-Los Consejeros cuyo origen sea diverso a los nombrados por el Pleno del Tribunal Superior de Justicia, podrán separarse de su cargo previa licencia temporal que conceda el Congreso del Estado o, en sus recesos, la Diputación Permanente. En ningún caso se concederá a los Consejeros licencia con el carácter de indefinida, ni tampoco por un tiempo mayor de sesenta días naturales durante el período de un año
+> <small>(REFORMADO, G.O. 29 DE OCTUBRE DE 2010)</small>
+
+Los Consejeros cuyo origen sea diverso a los nombrados por el Pleno del Tribunal Superior de Justicia podrán separarse de su cargo previa licencia temporal que conceda el Congreso del Estado o, en sus recesos, la Diputación Permanente. En ningún caso se concederá a los Consejeros licencia con el carácter de indefinida, ni tampoco por un tiempo mayor de sesenta días naturales durante el período de un año. En caso de falta definitiva, en términos del artículo 102 de esta Ley, o de renuncia, se procederá a un nuevo nombramiento de Consejero por el periodo previsto en el artículo 101.
 
 El Congreso del Estado o, en sus recesos, la Diputación Permanente, resolverán sobre la renuncia que presenten los Consejeros de la Judicatura que hubiere designado.
 
@@ -2766,3 +2768,17 @@ G.O. 17 DE SEPTIEMBRE DE 2010.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado, con excepción de lo dispuesto en la fracción IX del artículo 48 Decies, que iniciará su vigencia el primero de enero de dos mil once.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE OCTUBRE DE 2010.
+
+Artículo primero. El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Para la aplicación del presente Decreto, el periodo de ejercicio de los actuales Consejeros de la Judicatura del Poder Judicial del Estado se sujetará a los siguientes términos:
+
+a) El Presidente del Consejo fungirá por el periodo para el que fue designado.
+
+b) Los Consejeros designados por el Pleno del Tribunal Superior de Justicia del Estado desempeñarán su encargo con arreglo a los términos establecidos en el presente Decreto.
+
+c) Los Consejeros Licenciado José Luis Salas Torres, representante del Congreso del Estado, y Licenciado Javier Hernández Hernández, propuesto por el Titular del Poder Ejecutivo Estatal y ratificado por el Congreso del Estado, durarán en su encargo cinco años, contados, para el primero de los mencionados, desde el dos de junio de dos mil diez hasta el primero de junio de dos mil quince; y para el segundo, desde el nueve de agosto de dos mil diez al ocho de agosto de dos mil quince.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
