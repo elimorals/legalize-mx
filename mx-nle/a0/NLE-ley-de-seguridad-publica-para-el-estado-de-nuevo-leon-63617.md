@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2010-10-28"
+last_updated: "2010-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -1481,11 +1481,11 @@ Al Titular del Poder Ejecutivo del Estado le compete proteger la seguridad de la
 
 En los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el servicio de seguridad pública que proporcionen las Instituciones Policiales se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 124.
 
-La Policía Municipal estará bajo el mando del Presidente Municipal, en los términos que prevé el Artículo 115 fracción VII de la Constitución Política de los Estados Unidos Mexicanos; sin embargo, deberá acatar las órdenes que el Titular del Ejecutivo Estatal le transmita en aquellos casos de fuerza mayor o alteración grave del orden público.
+La Policía Municipal estará bajo el mando del Presidente Municipal, en los términos que prevé el Artículo 115 fracción VII de la Constitución Política de los Estados Unidos Mexicanos; sin embargo, deberá acatar las órdenes que, de acuerdo con lo establecido en la Ley Reglamentaria de la fracción XVIII del Artículo 85 de la Constitución Política del Estado Libre y Soberano de Nuevo León, le transmita el Titular del Ejecutivo Estatal en casos de fuerza mayor o alteración grave del orden público.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -3388,3 +3388,7 @@ Tercero.- Los servidores públicos que obtengan y satisfagan los requisitos de i
 Cuarto.- Se derogan las disposiciones contenidas en las Leyes, Reglamentos y demás Ordenamientos que se opongan al presente Decreto.
 
 Quinto.- El titular del Poder Ejecutivo del Estado y los Municipios, dispondrán de un término de hasta 180 días naturales para emitir las disposiciones reglamentarias correspondientes.
+
+P.O. 29 DE OCTUBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
