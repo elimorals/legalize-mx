@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-poblano-de-la-vivienda-43687"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-26"
-last_updated: "2005-01-26"
+last_updated: "2010-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO POBLANO DE LA VIVIENDA
 
-REGLAMENTO INTERIOR DEL "INSTITUTO POBLANO DE LA VIVIENDA"
+REGLAMENTO INTERIOR DEL "INSTITUTO POBLANO DE LA VIVIENDA" DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO POBLANO DE LA VIVIENDA, PUBLICADO EN EL P.O. DE 29 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 26 de enero de 2005.
 
@@ -484,3 +486,13 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Todos los acuerdos y circulares, pronunciados con anterioridad al presente Reglamento, tendrán validez, siempre y cuando no se contrapongan al mismo.
 
 Dado en las instalaciones del Instituto Poblano de la Vivienda, en la Heroica Puebla de Zaragoza, a veintidós días del mes de octubre de dos mil cuatro.- Secretario de Desarrollo Urbano, Ecología y Obras Públicas representado en este Acto por: ARQUITECTO SERGIO MORENO RAMOS.- Rúbrica.- Secretario de Gobernación representado en este Acto por: LICENCIADO JAVIER RAMÍREZ CHANTRES.- Rúbrica.- Secretario de Finanzas y Administración representado en este Acto por: INGENIERO REYNALDO GUERRERO BERNAL.- Rúbrica.- Secretario de Desarrollo Económico representado en este Acto por: LICENCIADO JUAN CARLOS RODRÍGUEZ LÓPEZ.- Rúbrica.- Secretario de Desarrollo Rural representado en este Acto por: INGENIERO RECTOR SEVERO DE LA CRUZ LEDEZMA.- Rúbrica.- Director General del Instituto Poblano de la Vivienda.- LICENCIADO OSCAR AGUILAR GONZÁLEZ. Rúbrica.- Comisario Público del I.P.V.- MAESTRO RODRIGO RODRÍGUEZ DE LA ROSA.- Rúbrica.-Secretario de Desarrollo Social en el Estado, como Testigo de Honor Representado en este Acto por: LICENCIADO RAMÓN REIGADAS LASO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga el Reglamento Interior del Instituto Poblano de la Vivienda publicado el 26 de enero de 2005 en el Periódico Oficial del Estado.
+
+TERCERO.- Todos los acuerdos y circulares, emitidos con anterioridad al presente Reglamento, tendrán validez, siempre y cuando no se contrapongan al presente Reglamento Interior.
