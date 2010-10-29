@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-comision-estatal-del-agua-de-baja-5175
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-01"
-last_updated: "2008-02-08"
+last_updated: "2010-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DEL AGUA DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de septiembre de 2006.
 
@@ -205,25 +205,35 @@ c. Unidad Jurídica
 
 d. Unidad de Comunicación Social y Relaciones Públicas
 
-II. Dirección Técnica
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE OCTUBRE DE 2010)</small>
 
-a. Departamento de Planeación Hidráulica
+e. Unidad de Planeación.
 
-b. Departamento de Estudios, Proyectos y Control de Obra
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
 
-c. (DEROGADO, P.O. 8 DE FEBRERO DE 2008)
+II. Dirección de Proyectos y Construcción
 
-III. Dirección de Suministro de Agua en Bloque
+a. Departamento de Proyectos.
 
-a. Departamento de Operación
+b. Departamento de Construcción.
 
-b. Departamento de Mantenimiento Mecánico
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
 
-c. Departamento de Mantenimiento Eléctrico
+III. Dirección de Operación y Mantenimiento
 
-d. Departamento de Protección Catódica
+a. Subdirección de Operación.
 
-e. Departamento de Mantenimiento de Obra Civil
+1. Departamento de Operación.
+
+b. Subdirección de Mantenimiento
+
+1. Departamento de Mantenimiento Mecánico;
+
+2. Departamento de Mantenimiento Eléctrico;
+
+3. Departamento de Protección Catódica; y
+
+4. Departamento de Mantenimiento de Obra Civil.
 
 IV. Dirección Administrativa y Financiera
 
@@ -233,9 +243,9 @@ b. Departamento de Recursos Materiales
 
 c. Departamento Financiero y Evaluación Presupuestal
 
-d. Departamento de Contabilidad
+d. (DEROGADO, P.O. 29 DE OCTUBRE DE 2010)
 
-e. Departamento de Informática
+e. (DEROGADO, P.O. 29 DE OCTUBRE DE 2010)
 
 #### SECCIÓN I. DE LA DIRECCIÓN GENERAL
 
@@ -262,6 +272,10 @@ c. Unidad Jurídica
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2008)</small>
 
 d. Unidad de Comunicación Social y Relaciones Públicas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE OCTUBRE DE 2010)</small>
+
+e. Unidad de Planeación.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
 
@@ -409,6 +423,56 @@ IX. Ejercer los planes y programas aprobados por la Dirección General, de acuer
 
 X. Las demás que le confiera el Director General y las disposiciones legales y administrativas aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 22 Septies.
+
+Corresponde a la Unidad de Planeación, ejercer las siguientes atribuciones:
+
+I. Dar seguimiento y evaluar los procesos de planeación, programación, control de gestión, licitación, ejecución y ejercicio presupuestal de los programas de inversión para las acciones de infraestructura hidráulica a cargo de los organismos del sector y la CEA;
+
+II. Coordinar y dar seguimiento al desarrollo de los proyectos estratégicos en materia de infraestructura hidráulica establecidos en el Plan Estatal de Desarrollo, mediante la participación en las reuniones de evaluación de los subcomités del Comité de Planeación para el Desarrollo del Estado;
+
+III. Participar en representación de la CEA, en diversas reuniones de ámbito estatal, federal y binacional, en materia de agua potable, alcantarillado y saneamiento;
+
+IV. Coordinar la integración de las propuestas de inversión del programa estatal de agua potable, alcantarillado y saneamiento, a cargo de los organismos operadores y de la CEA, así como gestionar su validación por parte de las dependencias estatales y federales normativas;
+
+V. Dar seguimiento, antes (sic) las instancias competentes, al proceso de validación técnica y jurídica de los convenios que se suscriben anualmente entre el Ejecutivo Estatal y la Comisión Nacional del Agua, para la formalización de los programas federalizados de inversión en materia de agua potable, alcantarillado y saneamiento;
+
+VI. Dar seguimiento a la gestión de los procesos de la autorización y aprobación de los recursos presupuestales para los programas de inversión a cargo de los organismos operadores y la CEA, coordinando la validación normativa de los expedientes técnicos;
+
+VII. Coordinar las reuniones de la Comisión de Regulación y Seguimiento de los programas de inversión convenidos entre el Estado y la Comisión Nacional del Agua, tanto de zonas urbanas, como de zonas rurales, así como dar seguimiento a los acuerdos que se tomen en éstas;
+
+VIII. Dar seguimiento a la validación normativa y la formalización de las solicitudes de los organismos operadores y la CEA, para las modificaciones presupuestales que se requieran durante el ejercicio presupuestal respectivo;
+
+IX. Coordinar la formulación y validación de los reportes mensuales y trimestrales de avances y del cierre de ejercicio presupuestal de programas de inversión federal de los organismos operadores y de la CEA, para su entrega a la Comisión Nacional del Agua;
+
+X. Coordinar la participación de los organismos del sector en los procesos de la elaboración, actualización y evaluación del Plan Estatal de Desarrollo, en materia de agua potable, alcantarillado y saneamiento;
+
+XI. Participar, en coordinación con los organismos operadores, en las reuniones de los Subcomités Especial de Agua Potable, Alcantarillado y Saneamiento, Subcomité Sectorial de Desarrollo Urbano y Vivienda, Subcomité Especial de Ecología, los Subcomités Regionales para el Desarrollo Integral de San Quintín, San Felipe-Puertecitos y del Valle de Mexicali, del Comité de Planeación para el Desarrollo del Estado, donde se solicite la representación de la CEA y de las Comisiones Estatales de Servicios Públicos de Baja California;
+
+XII. Coordinar el proceso de validación de la información presentada por los organismos del sector y la CEA, ante la Secretaría de Infraestructura y Desarrollo Urbano y el Comité de Planeación para el Desarrollo del Estado, para la elaboración de los informes de gobierno del Ejecutivo Estatal;
+
+XIII. Participar, en representación de la CEA, en las sesiones del Comité Hidráulico que convoca la Comisión Nacional del Agua, así como dar seguimiento a los acuerdos que se tomen en éstas;
+
+XIV. Participar, en representación de la CEA, en las sesiones del Grupo de Seguimiento y Evaluación y la Comisión de Cuenca del Río Colorado, que convoca la Comisión Nacional del Agua, así como dar seguimiento a los acuerdos que se tomen en éstas;
+
+XV. Participar, en representación de la CEA, en las sesiones del Comité Técnico Binacional del Programa Integral de Saneamiento para Mexicali, que convoca la Sección Mexicana del Comité Internacional de Límites de Aguas, así como dar seguimiento a los acuerdos que se tomen en éstas;
+
+XVI. Recabar periódicamente de los organismos operadores y de las unidades administrativas de la CEA, la información correspondiente a los procesos de autorización y formalización de recursos, licitación, contratación, ejecución, ejercicio de los recursos y avances físico-financieros de las obras y acciones a su cargo, para elaborar informes de evaluación del programa estatal de agua potable, alcantarillado y saneamiento;
+
+XVII. Participar en los eventos de licitación que lleven a cabo los organismos operadores;
+
+XVIII. Participar, en representación de la CEA, en las reuniones de seguimiento y evaluación de los programas de inversión que convoque la Comisión Nacional del Agua, la Secretaría de Infraestructura y Desarrollo Urbano o la Secretaría de Planeación y Finanzas;
+
+XIX. Coordinar la validación, ante la Secretaría de Planeación y Finanzas y la Comisión Nacional del Agua, de los reportes solicitados por dicha Comisión para avances físico-financieros, registro de contratos o pedidos, detalle de pagos y del cierre de ejercicio;
+
+XX. Participar en los recorridos binacionales periódicos a las descargas a drenes tributarios y directas al río nuevo de Mexicali, así como a obras en proceso para el saneamiento de Mexicali, convocadas por la Sección Mexicana del Comité Internacional de Límites y Aguas;
+
+XXI. Participar en las sesiones de las comisiones técnicas consultivas y de las juntas de consejo de los organismos del sector, dando seguimiento a los acuerdos tomados con respecto al programa de inversión y otros asuntos relacionados con los programas operativos anuales de los organismos; y
+
+XXII. Las demás que le confiera el Director General y las disposiciones legales y administrativas aplicables.
+
 ###### ARTÍCULO 23.
 
 Corresponde a la Unidad de Comunicación Social y Relaciones Públicas, ejercer las siguientes atribuciones:
@@ -433,11 +497,15 @@ IX. Participar en radio-tribunas y programas de televisión para informar y orie
 
 X. Las demás facultades que le confiera el Director General y las disposiciones legales y administrativas aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN TÉCNICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE PROYECTOS Y CONSTRUCCIÓN
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 24.
 
-Corresponde a la Dirección Técnica, ejercer las siguientes atribuciones:
+Corresponde a la Dirección de Proyectos y Construcción, ejercer las siguientes atribuciones:
 
 I. Coordinar y dar seguimiento a la elaboración de estudios, proyectos y obra hidráulica que lleve a cabo la CEA;
 
@@ -471,19 +539,21 @@ XV. Promover la Creación de Indicadores Sociales de Nivel Bienestar; y
 
 XVI. Las demás que señale este reglamento y la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 25.
 
-La Dirección Técnica para el adecuado cumplimiento de sus atribuciones contará con el apoyo de:
+La Dirección de Proyectos y Construcción, para el adecuado cumplimiento de sus atribuciones, contará con el apoyo de:
 
-a. Departamento de Planeación Hidráulica
+a. Departamento de Proyectos; y
 
-b. Departamento de Estudios, Proyectos y Control de Obra
+b. Departamento de Construcción.
 
-c. (DEROGADO, P.O. 8 DE FEBRERO DE 2008)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 26.
 
-Corresponde al Departamento de Planeación Hidráulica, ejercer las siguientes atribuciones:
+Corresponde al Departamento de Proyectos, ejercer las siguientes atribuciones:
 
 I. Elaborar el diseño de estrategias, análisis e instrumentación de acciones y la ejecución de programas específicos vinculados con las necesidades de infraestructura hidráulica, coordinándose con quien corresponda;
 
@@ -509,9 +579,11 @@ XI. Dar seguimiento a la aplicación de asignaciones de agua y fijar junto con l
 
 XII. Las demás que señale este reglamento y la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 27.
 
-Corresponde al Departamento de Estudios, Proyectos y Control de Obra, ejercer las siguientes atribuciones:
+Corresponde al Departamento de Construcción, ejercer las siguientes atribuciones:
 
 I. Proponer, evaluar y formular los estudios y proyectos hidráulicos que permitan mantener o modificar la capacidad de diseño de los sistemas de acueductos que opere la CEA;
 
@@ -545,11 +617,15 @@ XIV. Las demás que señale el reglamento y la normatividad aplicable.
 
 (DEROGADO, P.O. 8 DE FEBRERO DE 2008)
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE SUMINISTRO DE AGUA EN BLOQUE
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE OPERACIÓN Y MANTENIMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 29.
 
-Corresponde a la Dirección de Suministro de Agua en Bloque, ejercer las siguientes atribuciones:
+Corresponde a la Dirección de Operación y Mantenimiento, ejercer las siguientes atribuciones:
 
 I. Coordinar que se formulen y ejecuten con oportunidad todos los programas de suministro de agua en bloque de conformidad con el presupuesto;
 
@@ -579,19 +655,45 @@ XIII. Promover en forma permanente la capacitación y la seguridad en el trabajo
 
 XIV. Las demás que señale el reglamento y la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
 ###### ARTÍCULO 30.
 
-La Dirección de Suministro de Agua en Bloque, para el adecuado cumplimiento de sus atribuciones contará con el apoyo de los siguientes departamentos:
+La Dirección de Operación y Mantenimiento, para el adecuado cumplimiento de sus atribuciones, contará con el apoyo de las siguientes unidades administrativas:
 
-a. Departamento de Operación
+a. Subdirección de Operación; y
 
-b. Departamento de Mantenimiento Mecánico
+b. Subdirección de Mantenimiento.
 
-c. Departamento de Mantenimiento Eléctrico
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
 
-d. Departamento de Protección Catódica
+###### ARTÍCULO 30 Bis.
 
-e. Departamento de Mantenimiento de Obra Civil.
+Corresponde a la Subdirección de Operación, ejercer las siguientes atribuciones:
+
+I.- Supervisar que en el ejercicio de los presupuestos de la Subdirección, se formulen y ejecuten con oportunidad en el programa anual de operación;
+
+II.- Evaluar mediante índices de gestion el mantenimiento y los resultados del funcionamiento de los acueductos responsabilidad de la CEA, emitiendo informes donde dicten las instrucciones procedentes para la corrección o mejora;
+
+III.- Programar los volúmenes de agua a conducir requeridos por los organismos operadores;
+
+IV.- Establecer metas de eficiencia en la conducción de agua, así como actividades que permitan un mejor control operativo de las plantas de bombeo tendientes a obtener una operación confiable y económica;
+
+V.- Coordinar la ejecución de programas de capacitación y adiestramiento y supervisar el cumplimiento oportuno y eficaz de las normas de capacitación, adiestramiento, seguridad e higiene, así como los procedimientos de operación, en coordinación con las instancias normativas competentes en dichas materias;
+
+VI.- Supervisar y coordinar las actividades de funcionamiento del Departamento de Operación;
+
+VII.- Coordinar los proyectos de nuevas fuentes de abastecimiento y reuso de aguas residuales, así como nuevas tecnologías que busquen la eficiencia del sistema hidráulico, y ahorro del agua, para todos los organismos operadores del agua; y
+
+VIII.- Las demás que señale este Reglamento y la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 30 Ter.
+
+La Subdirección de Operación, para el adecuado cumplimiento de sus atribuciones, contará con el apoyo de:
+
+I. Departamento de Operación.
 
 ###### ARTÍCULO 31.
 
@@ -614,6 +716,42 @@ VII. Coordinar con Comisión Nacional del Agua para la toma, incremento, reducci
 VIII. Elaborar registros históricos para evaluar el comportamiento de equipos electromecánicos y sistemas hidráulicos; y
 
 IX. Las demás que señale el reglamento y la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 31 Bis.
+
+Corresponde a la Subdirección de Mantenimiento, realizar las siguientes atribuciones:
+
+I.- Supervisar que en el ejercicio del presupuesto de la Subdirección, se formule y ejecute con oportunidad el programa anual de mantenimiento y conservación;
+
+II.- Coordinar la planeación de los objetivos, metas y actividades tendientes a lograr que las obras de mantenimiento y conservación, sean confiables y económicas;
+
+III.- Coordinar, supervisar e integrar los proyectos y expedientes técnicos de las obras de mantenimiento y conservación de los acueductos responsabilidad de la CEA;
+
+IV.- Coordinar que se ejecuten los programas de capacitación y adiestramiento de los trabajadores de la Subdirección, y supervisar el cumplimiento oportuno y eficaz de las normas de capacitación, adiestramiento, seguridad e higiene, así como los procedimientos de mantenimiento preventivo y correctivo, en coordinación con el área responsable de ejecutar dichos programas y normas;
+
+V.- Supervisar los análisis de costos de mantenimiento y conservación de los acueductos responsabilidad de la CEA;
+
+VI.- Supervisar y coordinar las actividades de mantenimiento y conservación que realicen los departamentos adscritos a esta Subdirección;
+
+VII.- Establecer índices de gestión que permitan evaluar los resultados de las actividades de mantenimiento y conservación, de cada uno de los departamentos adscritos a esta Subdirección; y
+
+VIII.- Las demás que le señale este Reglamento y la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 31 Ter.
+
+La Subdirección de Mantenimiento, para el adecuado cumplimiento de sus atribuciones, contará con las siguientes unidades administrativas:
+
+1. Departamento de Mantenimiento Mecánico;
+
+2. Departamento de Mantenimiento Eléctrico;
+
+3. Departamento de Protección Cátodica; y
+
+4. Departamento de Mantenimiento de Obra Civil.
 
 ###### ARTÍCULO 32.
 
@@ -759,7 +897,13 @@ XXI. Elaborar y proponer proyectos de inversión sobre fuentes de financiamiento
 
 XXII. Supervisar los ingresos, egresos y cuentas por cobrar de los organismos operadores de agua en el Estado, así como su desempeño financiero, y
 
-XXIII. Las demás que señale el reglamento y la normatividad aplicable.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+XXIII.- Coordinar las actividades informáticas de la entidad, tales como brindar asesoría, capacitación y soporte técnico en el manejo de paquetería comercial y software administrativos, así como evaluar la operatividad y mantenimiento de los equipos de cómputo y sistemas de comunicación de la CEA;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2010)</small>
+
+XXIV.- Las demás que señale este Reglamento y la normatividad aplicable.
 
 ###### ARTÍCULO 37.
 
@@ -771,9 +915,9 @@ b. Departamento de Recursos Materiales
 
 c. Departamento Financiero y Evaluación Presupuestal
 
-d. Departamento de Contabilidad
+d. (DEROGADO, P.O. 29 DE OCTUBRE DE 2010)
 
-e. Departamento de Informática
+e. (DEROGADO, P.O. 29 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO 38.
 
@@ -863,55 +1007,37 @@ XIV. Proponer y elaborar las tarifas y cuotas que para la recuperación de los c
 
 XV. Analizar, evaluar y elaborar los requerimientos financieros, así como las propuestas de fuentes de recursos para afrontar las necesidades de la CEA a corto, mediano y largo plazo, y
 
-XVI. Las que le confiera la Dirección Administrativa yFinanciera (sic) y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+XVI. Formular los estados financieros mensuales, para consolidar oportunamente la información financiera y presupuestal y dar cumplimiento a la cuenta pública del cierre del ejercicio fiscal que corresponda;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2010)</small>
+
+XVII. Elaborar el registro contable de las operaciones que afectan a la CEA, produciendo la información cuantitativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2010)</small>
+
+XVIII. Supervisar los controles administrativos de la información, para constatar su veracidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2010)</small>
+
+XIX. Planear y organizar los períodos contables para la emisión de los reportes financieros de la CEA;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2010)</small>
+
+XX. Elaborar y presentar oportunamente la declaración fiscal de la CEA; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2010)</small>
+
+XXI. Las que le confiera la Dirección Administrativa y Financiera y demás normatividad aplicable.
 
 ###### ARTÍCULO 41.
 
-Corresponde al Departamento de Contabilidad, ejercer las siguientes atribuciones:
-
-I. Formular los estados financieros mensuales, para consolidar oportunamente la información financiera y presupuestal y dar cumplimiento a la cuenta pública del cierre del ejercicio fiscal que corresponda;
-
-II. Elaborar el registro contable de las operaciones que afectan a la CEA produciendo la información cuantitativa;
-
-III. Supervisar los controles administrativos de la información para constatar su veracidad;
-
-IV. Planear y organizar los períodos contables para la emisión de los reportes financieros de la CEA;
-
-V. Presentar periódicamente la información financiera ante las instituciones correspondientes;
-
-VI. Proporcionar al Departamento Financiero y Evaluación Presupuestal, la información contable y financiera para la elaboración y presentación del avance presupuestal ante las instituciones correspondientes;
-
-VII. Elaborar y presentar oportunamente la declaración fiscal de la CEA;
-
-VIII. Atender a los órganos fiscales en las revisiones que se efectúen; y
-
-IX. Las que le confiera la Dirección Administrativa y Financiera y demás normatividad aplicable.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2010)
 
 ###### ARTÍCULO 42.
 
-Corresponde al Departamento de Informática, ejercer las siguientes atribuciones:
-
-I. Coordinar y realizar la asesoría, capacitación, soporte técnico del manejo de paquetería comercial y los sistemas administrativos utilizados en la CEA;
-
-II. Realizar evaluaciones para la implementación de nuevas tecnologías de los sistemas de información del organismo;
-
-III. Analizar técnica y económicamente las alternativas de inversión en sistemas de información, redes y adquisiciones de equipo de cómputo de las diferentes unidades administrativas de la CEA;
-
-IV. Coordinar y supervisar las actividades que realicen asesores externos en materia de sistemas de información, redes, telefonía, servicio de Internet y similares;
-
-V. Administrar el sistema de telefonía de la CEA en coordinación con los asesores externos;
-
-VI. Supervisar, controlar y evaluar la operación de los equipos de cómputo y de telecomunicación del organismo;
-
-VII. Elaborar y ejecutar el programa anual de mantenimiento preventivo a los equipos de cómputo y telecomunicación de las diferentes unidades administrativas de la CEA;
-
-VIII. Desarrollar e implementar el soporte técnico de los sistemas de cómputo que requiera la CEA;
-
-IX. Coordinar la elaboración de los respaldos periódicos de la información de los sistemas de cómputo de la CEA;
-
-X. Mantener actualizado el inventario de equipos de cómputo en coordinación con el Departamento de Recursos Materiales, y
-
-XI. Las que le confiera la Dirección Administrativa y Financiera y demás normatividad aplicable.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2010)
 
 ### CAPITULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LOS TITULARES
 
@@ -1047,6 +1173,10 @@ Las ausencias temporales del Director General que no excedan de quince días há
 
 Las ausencias temporales de los Directores de Área que no excedan de quince días, serán suplidas por la persona que ocupe el nivel inmediato inferior que designen y en aquellas que excedan del tiempo señalado, su suplente será designado por el Director General.
 
+> <small>(REFORMADO, [N. DE E. ADICIONADO] P.O. 29 DE OCTUBRE DE 2010)</small>
+
+En las ausencias temporales de los Subdirectores de Área, que no excedan de treinta días, su suplente será designado por su superior inmediato y, en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director General.
+
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2008)</small>
 
 ###### ARTÍCULO 50.
@@ -1078,5 +1208,9 @@ ARTURO ESPINOZA JARAMILLO
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 8 DE FEBRERO DE 2008.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 29 DE OCTUBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
