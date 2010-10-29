@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2008-10-17"
+last_updated: "2010-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -1163,9 +1163,13 @@ II.- Proponer al Cabildo políticas públicas, así como promover y realizar inv
 
 III.- Dar seguimiento y supervisar las acciones de la administración pública municipal con la finalidad de verificar la plena observancia de las disposiciones constitucionales en materia de igualdad entre el hombre y la mujer;
 
-IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de desarrollo integral de la mujer, y
+IV.- Impulsar proyectos normativos y acciones que fortalezcan las condiciones de desarrollo integral de la mujer, y (sic)
 
-V.- En general, aquellas que el Cabildo le encomiende.
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+V.- Realizar periódicamente evaluaciones de la reglamentación municipal en materia de género y sobre derechos humanos de las mujeres, promoviendo su armonización con las disposiciones aplicables, y
+
+VI.- En general, aquellas que el Cabildo le encomiende.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1482,3 +1486,9 @@ PRIMERO. Publíquese en el Periódico Oficial, órgano de difusión del Gobierno
 SEGUNDO. Las presentes Reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 TERCERO. Todas aquellas disposiciones que hagan mención a la Comisión de Asistencia, Salud, Desarrollo Social y Humano, se entenderá como la COMISIÓN DE DESARROLLO SOCIAL.
+
+P.O. 29 DE OCTUBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entran en vigor al momento de su publicación, el cual para conocimiento del público en general, deberá de publicarse en el Periódico Oficial del Estado de Baja California en los términos de la Ley del Régimen Municipal para el Estado de Baja California.
+
+SEGUNDO.- En materia de las reformas en materia de ordenes de protección civiles, de emergencia y preventivas, estas entraran en vigor al momento de existir el marco jurídico y la legislación aplicables en la materia.
