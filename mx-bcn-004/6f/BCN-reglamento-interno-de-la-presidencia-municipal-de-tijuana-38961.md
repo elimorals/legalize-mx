@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-presidencia-municipal-de-tijuana-38961
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-09"
-last_updated: "2004-04-09"
+last_updated: "2010-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA PRESIDENCIA MUNICIPAL DE TIJUANA BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 09 de abril del 2004.
 
@@ -120,6 +120,10 @@ a).- Departamento de Eventos.
 b).- Departamento de Imagen Institucional.
 
 c).- Departamento administrativo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE OCTUBRE DE 2010)</small>
+
+IV.- Dirección Municipal de Protección Civil.
 
 ### CAPITULO III (SIC). DE LA SECRETARÍA PARTICULAR
 
@@ -273,8 +277,202 @@ El Departamento de Imagen Institucional tendrá como función: el diseño y la d
 
 El Departamento Administrativo de la Dirección de Relaciones Publicas, además de las funciones establecidas en el artículo 18 de este ordenamiento, tendrá las (sic) le asigne el Director de Relaciones Públicas Social (sic) y las que se deriven de las disposiciones legales y que se requieran para su adecuado funcionamiento.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+### CAPITULO VI. DE LA DIRECCION MUNICIPAL DE PROTECCION CIVIL
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 25.
+
+La Dirección Municipal de Protección Civil es el órgano ejecutivo y operativo del Sistema Municipal de Protección Civil, que tiene la responsabilidad de integrar, coordinar y dirigir el propio sistema, así como de elaborar, implementar y operar el Programa Municipal de Protección Civil y el Plan Municipal de Contingencias; por lo que tendrá funciones de autoridad en todo lo relativo a la prevención, mitigación y atención ante amenazas o calamidades de origen geológico, hidrometeorológico, químico, sanitario y socio-organizativo, en los términos de la Ley de Protección Civil del Estado de Baja California y los Reglamentos Municipales en la materia.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 26.
+
+Para el adecuado cumplimiento de sus atribuciones, la Dirección Municipal de Protección Civil, contará con la siguiente estructura administrativa:
+
+I. Dirección Municipal de Protección Civil
+
+II. Subdirección Municipal de Protección Civil
+
+III. Jefe del Departamento Administrativo
+
+IV. Jefe del Departamento Operativo
+
+V. Jefe del Departamento de Planeación e Informática
+
+VI. Jefe del Departamento de Verificaciones
+
+VII. Jefe del Departamento de Programas.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 27.
+
+la Subdirección Municipal de Protección Civil tendrá las siguientes funciones:
+
+1. Atender las atribuciones que corresponden al Director en caso de ausencia del mismo ya sea en periodos de vacaciones del mismo, por cuestiones de trabajo o por ausencia fortuita, hasta que se nombre a un nuevo Director o se incorpore a sus actividades cotidianas.
+
+2. Supervisar el trabajo y responsabilidades de los diferentes departamentos con los que se compone la Dirección.
+
+3. Asistir como primera instancia, a toda actividad operativa o preventiva que se realice en coordinación con otras corporaciones e instituciones relacionadas con las actividades de Protección Civil.
+
+4. Auxiliar al Director en la elaboración del Plan Municipal de Contingencias y de riesgos territoriales así como de los que se establezcan con necesidad de atención de la población.
+
+5. Solicitar y coordinar el apoyo de las entidades con responsabilidad en el consejo Municipal de Protección Civil a efecto de evacuar zonas de riesgo ante la inminente posibilidad de una emergencia y/o desastre.
+
+6. Establecer en coordinación con Sistema Nacional de Protección Civil, Secretaría de Gobierno, CENAPRED, el Sistema Meteorológico Nacional e Internacional para establecer los parámetros que permitan avisar con oportunidad, de los riesgos meteorológicos y geológicos que pongan en peligro a la población.
+
+7. Notificar al Consejo Municipal de Protección Civil a través del Director de Protección Civil, ante la amenaza de un riesgo meteorológico o geológico.
+
+8. Y todas las que para el buen funcionamiento de la Dirección sean requeridas.
+
+9. Las demás que le encomiende el Director de Protección Civil de acuerdo a la naturaleza de su cargo.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 28.
+
+El Departamento Administrativo tendrá las siguientes funciones:
+
+1. Dar seguimiento estricto a las actividades administrativas de la Dirección.
+
+2. Administrar las vacaciones de los empleados adscritos a la Dirección.
+
+3. Apoyo al Director en la creación de la propuesta del presupuesto de la Dirección.
+
+4. solicitar los movimientos de ampliación y transferencia del presupuesto.
+
+5. Llenar los formularios para compras, altas, bajas y movimientos de los recursos materiales.
+
+6. Administrar la caja chica.
+
+7. Y todas las que tengan que ver con las actividades administrativas de la Dirección.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 29.
+
+El Departamento Operativo tendrá las siguientes funciones:
+
+1. Aplicar las actividades y medidas preventivas y preparativas para mantener el Centro Municipal de Operaciones de Emergencia en condiciones adecuadas de operación.
+
+2. Mantener estrecha coordinación con instituciones públicas, privadas, grupos organizados y particulares, para responder de forma optima a eventos de incidentes mayores, desastres y emergencias.
+
+3. Administrar el directorio actualizado con los nombres y métodos para localizar y contactar a las principales personas de la ciudad, y establecer la comunicación entre ellas, para la toma de decisiones en eventos de Emergencias y desastres.
+
+4. Realizará y mantener el registro de grupos de rescate y atención medica pre-hospitalaria que permite saber el estatus, capacidades y respuestas en caso de emergencias mayores y desastres.
+
+5. Registros de Grupos voluntarios de aficionados, y radioaficionados a fin de contar con un padrón actualizado para soporte en caso de emergencia mayor o desastres.
+
+6. Actualizar el Directorio de recursos humanos especializados, instituciones y materiales disponibles en caso de emergencia.
+
+7. La coordinación con todas las dependencias involucradas ante la respuesta a una emergencia mayor o desastres.
+
+8. Administrar y actualizar los Planes Municipales de Contingencias así como los programas y subprogramas de Protección Civil Municipal.
+
+9. Apoya en las actividades de la administración y manejo del CMOE ante la amenaza de un fenómeno perturbador y/o emergencia.
+
+10. Apoyo en las operaciones de campo de la Dirección de Protección Civil.
+
+11. Y todas las que para el buen funcionamiento de la Dirección sean requeridas.
+
+12. Las actividades que el Director y Subdirector le asigne dentro de su ámbito.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 30.
+
+El Departamento de Planeación e Informática tendrá las siguientes funciones:
+
+1. Emitir pronósticos y boletines en caso de existir fenómenos hidrometeorológicos que puedan impactar a la población del Municipio de Tijuana.
+
+2. Emitir boletines ante la probable afectación de cualquier fenómeno natural o provocado por el hombre.
+
+3. Generar y realizar las modificaciones al Atlas de Riesgos, en coordinación con el personal calificado para ello en la Subdirección.
+
+4. Realizar las valoraciones de región y actividades geológicas que le encomiende la Subdirección.
+
+5. Elabora los dictámenes, notificaciones de recomendaciones y los instrumentos que requiera la Dirección.
+
+6. Participar en la elaboración y actualización del Plan Municipal de Contingencias, el Atlas Municipal de Riesgos con el departamento Operativo de la Dirección.
+
+7. Solicitar las valoraciones de laboratorio que se requieran con motivo de su labor.
+
+8. Establecer junto con los patrones internacionales las normas locales de seguridad en materia geológica.
+
+9. Elaborar en coordinación con el jefe de verificaciones los reportes técnicos que se requieran.
+
+10. Mantener actualizado el Sistema de Información Geográfica de esta Subdirección.
+
+11. Apoyo en las actividades de inspección y verificación de la Dirección cuando así se le solicite.
+
+12. Monitorear de manera constante las condiciones meteorológicas, así como la actividad sísmica de la región, así como el mantenimiento de la instrumentación para tal efecto de los equipos de la Dirección.
+
+13. Y todas las que para el buen funcionamiento de la Dirección sean requeridas.
+
+14. Las actividades que el Director y Subdirector le asigne dentro su ámbito.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 31.
+
+El Departamento de Verificaciones tendrá las siguientes atribuciones.
+
+1. Realizar las inspecciones y verificaciones técnicas que le sean solicitadas.
+
+2. Realizar la respuesta por escrito a nombre de la Dirección de Protección Civil.
+
+3. Generar y realizar las modificaciones al Atlas de Riesgos, en coordinación con el Departamento de Planeación.
+
+4. Mantener actualizado el sistema de Información Geográfica de la Dirección.
+
+5. Delimitara en campo las áreas de peligro inminente, medio y bajo para derrumbes, deslizamientos y hundimientos.
+
+6. Apoyar en las actividades de inspección y verificación de la Subdirección cuando así se le solicite.
+
+7. Y todas las que para el buen funcionamiento de la Dirección sean requeridas.
+
+8. Las actividades que el Director y Subdirector le asigne dentro de su ámbito.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+###### ARTÍCULO 32.
+
+El jefe (sic) Departamento de Programas tendrá las siguientes funciones:
+
+1. Realizar, evaluar y modificar los programas de capacitación al personal de la Dirección de Protección Civil, en materia de protección.
+
+2. Proveer plásticas (sic) y cursos en materia de protección Civil.
+
+3. Crear y diseñar los programas de capacitación comunitarios, en materia de Protección Civil.
+
+4. Será el responsable de la creación y diseño de los materiales de difusión en materia de Protección Civil.
+
+5. Se coordinara con la Subdirección para la entrega de los materiales de capacitación en materia de Protección Civil una vez que han sido aprobados para su difusión.
+
+6. Apoya en las actividades de la administración y manejo del CMOE ante la amenaza de un fenómeno perturbador y/o emergencia.
+
+7. Apoyo en las operaciones de campo de la Dirección de Protección Civil.
+
+8. Y todas las que para el buen funcionamiento de la Dirección sean requeridas.
+
+9. Las que el Subdirector le asigne.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente reglamento entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California, y deberá publicarse en un diario de mayor circulación en el Municipio.
 
 SEGUNDO.- Se abrogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a las presentes disposiciones.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE OCTUBRE DE 2010.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+.
+
+TERCERO.- Las presentes reformas entran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, órgano de difusión del Gobierno del Estado.
