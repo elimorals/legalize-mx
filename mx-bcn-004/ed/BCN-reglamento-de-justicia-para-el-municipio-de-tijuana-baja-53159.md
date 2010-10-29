@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-justicia-para-el-municipio-de-tijuana-baja-53159"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-12"
-last_updated: "2007-04-20"
+last_updated: "2010-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE JUSTICIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE ABRIL DE 2007.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 12 de enero de 2007.
 
@@ -575,7 +573,9 @@ La solicitud de nota médica y/o certificado de esencia, será obligatoria cuand
 
 Para el caso de infracciones cometidas bajo los efectos de bebidas embriagantes, enervantes o estupefacientes, el Juez Municipal que conozca de la infracción cometida, podrá imponer al infractor la obligación de asistir a pláticas con cualquier grupo de Alcohólicos Anónimos de la Localidad.
 
-En los casos de infracciones que deriven de violencia familiar, el Juez Municipal, podrá conmutar la sanción que corresponda al infractor, con la obligación de asistir al Centro de Atención a la Violencia Familiar u organismo similar, siempre y cuando, cumpla con las sesiones de terapia, de acuerdo a su diagnóstico y recomendaciones de los profesionales en la materia.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+En los casos de infracciones que deriven de violencia familiar, el Juez Municipal, además de las sanciones que corresponda al infractor, recomendará su asistencia al Centro de Atención a la Violencia Familiar u organismo similar, a sesiones de terapia, de acuerdo a su diagnóstico y recomendaciones de los profesionales en la materia.
 
 ###### Artículo 57.
 
@@ -899,9 +899,11 @@ El juez municipal aplicará las medidas de apremio que rige el presente reglamen
 
 Los citatorios que emita el Juez Municipal a las partes involucradas en el incidente vecinal o de violencia familiar, se notificaran dentro de los cinco días siguientes al día en que el Juez Municipal tuvo conocimiento del asunto, otorgando el derecho a las partes de ser notificados con un termino de 48 horas de anticipación a la celebración de la audiencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 106.
 
-El Juez Municipal en la audiencia sumarísima, decretará la recepción, admisión de pruebas y alegatos. Si deciden las partes mediar la controversia con la firma de convenio, entonces el Juez Municipal, solo tendrá la calidad de testigo y asesor imparcial sin comprometer su firma, evitará además la coacción entre las partes.
+El Juez Municipal en la audiencia sumarísima, decretará la recepción, admisión de pruebas y alegatos. Si deciden las partes mediar la controversia con la firma de convenio, entonces el Juez Municipal, solo tendrá la calidad de testigo y asesor imparcial sin comprometer su firma, evitará además la coacción entre las partes. No existirá la mediación en tratándose de asuntos de violencia familiar.
 
 En caso de no concluir satisfactoriamente en una conciliación entre las partes, el Juez Municipal aplicará la sanción correspondiente conforme a lo estipulado en los reglamentos municipales.
 
@@ -1588,3 +1590,11 @@ Para todos los efectos legales a que haya lugar, se extiende la presente CERTIFI
 EL SECRETARIO DE GOBIERNO MUNICIPAL DEL H. XVIII AYUNTAMIENTO DE TIJUANA
 
 LIC. ANDRES GARZA CHAVEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE OCTUBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entran en vigor al momento de su publicación, el cual para conocimiento del público en general, deberá de publicarse en el Periódico Oficial del Estado de Baja California en los términos de la Ley del Régimen Municipal para el Estado de Baja California.
+
+SEGUNDO.- En materia de las reformas en materia de ordenes de protección civiles, de emergencia y preventivas, estas entraran en vigor al momento de existir el marco jurídico y la legislación aplicables en la materia.
