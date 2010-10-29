@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2010-07-02"
+last_updated: "2010-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1249,9 +1249,11 @@ Los funcionarios y/o servidores públicos no serán sujetos de reclamos o llamad
 
 COMISIONES PERMANENTES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2013)</small>
+
 ###### ARTÍCULO 114.
 
-Son comisiones permanentes las siguientes:
+Son comisiones permanentes las siguiente (sic)
 
 I.- Gobernación y Legislación;
 
@@ -1273,13 +1275,15 @@ IX.- Salud y Asistencia Social;
 
 X.- Turismo;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
 
-XI.- Educación, Cultura, Ciencia y Tecnología;
+XI.- Educación, Cultura y Deportes;
 
 XII.- Comercio y Espectáculos;
 
-XIII.- Delegaciones;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+XIII.- Desarrollo Rural Sustentable y Delegaciones;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE JULIO DE 2008)</small>
 
@@ -1289,7 +1293,7 @@ XIV.- Asuntos Indígenas;
 
 XV.- Pesca y Acuacultura Sustentables.
 
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
+(ADICIONADA, P.O. 2 DE JULIO DE 2010) (ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE OCTUBRE DE 2010)
 
 XVI.- Comisión del agua
 
@@ -1529,6 +1533,30 @@ IV.- Vigilar que se garantice la continuidad en los procesos de planeación del 
 
 V.- Participar en la integración del Consejo Consultivo de Pesca Y Acuacultura del Municipio de Ensenada, Baja California.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+ARTÍCULO 127 QUÁRTER.- Atribuciones:
+
+I.- Dictaminar respecto de los asuntos relativos a proyectos de reformas constitucionales, iniciativas de Ley o decreto, Reglamentos, y Disposiciones Normativas de Observancia General, por si misma o en conjunto con la Comisión o las Comisiones especializadas en la materia de que se trate;
+
+II.- Coadyuvar en el funcionamiento de los organismos operadores del agua, con respecto del cumplimiento para el mejor aprovechamiento del agua en todos sus aspectos, en apego a la Ley y Reglamento respectivo en la materia.
+
+III.- Dictaminar sobre proyectos relacionados con programas, contratos, convenios o actos que afecten cualquier aspecto de la situación de los (sic) servicio de agua potable y drenaje del Municipio;
+
+IV.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para mejorar la prestación del (sic) servicios públicos de distribución de agua y operación adecuada acorde con el desarrollo de la entidad Paraestatal;
+
+V.- Opinar y dictaminar en su caso, respecto a asuntos relacionados con el servicio público en distribución de agua potable, servicio de drenaje al Municipio, tratamiento y rehusó de agua tratada;
+
+VI.- Participar con los organismos operadores del agua y promover el desarrollo económico en los que tenga injerencia el Ayuntamiento.
+
+VII.- Coadyuvar con los organismos operadores del agua, en la promoción de los eventos relacionados con el servicio público del agua y la cultura del agua. Así como los mecanismos y acciones necesarias para mejorar la atención del Servicio Público.
+
+VIII.- Contribuir a la coordinación y vinculación de los sectores públicos, privados, sociales, académicos y financieros para el manejo integral del agua en el municipio y coadyuve a la conjunción de capacidades, esfuerzos y recursos para la planeación, la ejecución, la evaluación y el seguimiento de los proyectos estratégicos relacionados con el agua.
+
+IX.- Desarrollar un estudio permanente de las necesidades de agua de las poblaciones urbanas y su entorno rural. Su investigación prospectiva para prever futuros escenarios de oportunidades y enfrentar la crisis en el sector hídrico, tendrá resultados de gran impacto con pertinencia social, económica, ambiental e Institucional.
+
+X. Colaborar de manera colegiada con instancias públicas y privadas para perfilar nuevos enfoques en materia de planeación, investigación, capacitación y gestión para el aprovechamiento y manejo sustentable e integral del agua en el municipio.
+
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
 
 CONVOCATORIA.
@@ -1541,53 +1569,15 @@ A los demás integrantes del Ayuntamiento, incluyendo al Sindico Procurador y al
 
 Al inicio de la sesión, el Secretario de la Comisión certificará que se cumplimentó la convocatoria en estos términos.
 
-> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 2 DE JULIO DE 2010, SE ADVIERTE QUE EN EL PUNTO TERCERO DEL ACUERDO, ADICIONA EL ARTÍCULO 129 PARA ESTABLECER LAS ATRIBUCIONES DE LA COMISIÓN DEL AGUA, PARA QUEDAR COMO SIGUE:</small>
+N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 29 DE OCTUBRE DE 2010, SE ADVIERTE QUE EN EL PUNTO DE ACUERDO PRIMERO SE ABROGA EL ARTÍCULO 129, PUBLICADO EN EL P.O. 2 DE JULIO DE 2010, QUEDANDO SIN MODIFICACIÓN EL ARTÍCULO 129 PUBLICADO EN EL P.O. 14 DE NOVIEMBRE DE 2003.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2010)</small>
+
+QUORUM LEGAL.
 
 ###### ARTÍCULO 129.
 
-(SIC)
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-I.- Dictaminar respecto de los asuntos relativos a proyectos de reformas constitucionales, iniciativas de Ley o decreto, Reglamentos, y Disposiciones Normativas de Observancia General, por si misma o en conjunto con la Comisión o las Comisiones especializadas en la materia de que se trate;
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-II.- Coadyuvar en el funcionamiento de los organismos operadores del agua, con respecto del cumplimiento para el mejor aprovechamiento del agua en todos sus aspectos, en apego a la Ley y Reglamento respectivo en la materia.
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-III.- Dictaminar sobre proyectos relacionados con programas, contratos, convenios o actos que afecten cualquier aspecto de la situación de los servicio (sic) de agua potable y drenaje del Municipio;
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-IV.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para mejorar la prestación del (sic) servicios públicos de distribución de agua y operación adecuada acorde con el desarrollo de la entidad Paraestatal;
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-V.- Opinar y dictaminar en su caso, respecto a asuntos relacionados con el servicio público en distribución de agua potable, servicio de drenaje al Municipio, tratamiento y rehusó de agua tratada;
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-VI.- Participar con los organismos operadores del agua y promover el desarrollo económico en los que tenga injerencia el Ayuntamiento.
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-VII.- Coadyuvar con los organismos operadores del agua, en la promoción de los eventos relacionados con el servicio público del agua y la cultura del agua. Así como los mecanismos y acciones necesarias para mejorar la atención del Servicio Público.
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-VIII.- Contribuir a la coordinación y vinculación de los sectores públicos, privados, sociales, académicos y financieros para el manejo integral del agua en el municipio y coadyuve a la conjunción de capacidades, esfuerzos y recursos para la planeación, la ejecución, la evaluación y el seguimiento de los proyectos estratégicos relacionados con el agua.
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-IX.- Desarrollar un estudio permanente de las necesidades de agua de las poblaciones urbanas y su entorno rural. Su investigación prospectiva para prever futuros escenarios de oportunidades y enfrentar la crisis en el sector hídrico, tendrá resultados de gran impacto con pertinencia social, económica, ambiental e Institucional.
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2010)</small>
-
-X.- Colaborar de manera colegiada con instancias públicas y privadas para perfilar nuevos enfoques en materia de planeación, investigación, capacitación y gestión para el aprovechamiento y manejo sustentable e integral del agua en el municipio.
+Para que las Comisiones puedan sesionar válidamente, se requiere la asistencia de la mayoría de sus miembros, entre los que deberá estar su Coordinador o el Secretario en su caso. Si no ocurren la mayoría de los Regidores integrantes de la Comisión, se señalará hora para sesionar en segunda convocatoria a más tardar al siguiente día hábil, celebrando válidamente la sesión con los integrantes que concurran.
 
 DISCUSION, ANALISIS Y RESOLUCION.
 
@@ -1746,3 +1736,17 @@ PRIMERO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de ac
 SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a (sic) contenido de la presente reforma.
 
 TERCERO.- La Comisión Permanente del Agua deberá instalarse al día siguiente de la publicación del presente acuerdo.
+
+P.O. 29 DE OCTUBRE DE 2010.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- Se abroga el articulo 129 aprobado en sesión de cabildo de fecha 14 de julio de 2010 y publicado en el Periódico oficial del Estado No. 29 sección índice Tomo CXVII de fecha 2 de julio de 2010, quedando sin modificación el artículo 129 del Reglamento interior para el Ayuntamiento de Ensenada Baja California Publicado en el Periódico Oficial No. 52, de fecha 14 de noviembre de 2003, Tomo CX.
+
+SEGUNDO.- Se agrega el Artículo 127 quarter de las atribuciones de la Comisión del Agua.
+
+TERCERO.- Se adiciona al artículo 114 la fracción XVI para la creación de la Comisión Permanente del Agua.
+
+CUARTO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de actas y publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del Municipio.
+
+QUINTO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a (sic) contenido de la presente reforma.
