@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-del-medio-ambiente-del-640
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-04"
-last_updated: "2008-10-04"
+last_updated: "2010-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL MEDIO AMBIENTE DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2010.
 
 Reglamento publicado en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 4 de octubre de 2008.
 
@@ -59,51 +59,27 @@ IV.- Gobernador o titular del Poder Ejecutivo, al Gobernador Constitucional del 
 
 La Secretaría para la atención eficaz de los asuntos de su competencia, contará con las unidades administrativas siguientes:
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2010)</small>
+
 I.- Despacho del Secretario.
 
-I.1 Coordinación Administrativa.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2010)</small>
 
-I.I.1. Departamento de Recursos Humanos y Materiales.
+II.- Subsecretaría del Medio Ambiente.
 
-I.I.2. Departamento de Informática.
-
-I.I.3.Departamento de Recursos Financieros.
-
-1.2. Dirección Jurídica.
-
-1.2.1. Departamento de Normatividad.
-
-II.- SubSecretaría del Medio Ambiente.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2010)</small>
 
 III.- Dirección de Planeación Ambiental.
 
-III.1. Departamento de Información Ambiental y Ordenamiento Ecológico.
+IV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2010)
 
-III.2. Departamento de Educación Ambiental.
-
-IV.- Dirección de Inspección y Vigilancia Ambiental.
-
-IV.1. Departamento de Inspección y Notificaciones.
-
-IV.2. Área de Procedimientos.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2010)</small>
 
 V.- Dirección de Recursos Naturales.
 
-IV.1. (sic) Departamento de Recursos Forestales.
-
-IV.2. Departamento de Administración y Control de ZOFEMAT.
-
-IV.3. Departamento de Vida Silvestre.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2010)</small>
 
 VI.- Dirección de Evaluación Ambiental.
-
-V.1. (sic) Departamento de Residuos Sólidos.
-
-V.2. Departamento de Evaluación de Impacto y Riesgo Ambiental.
-
-V.3. Departamento de Emisiones a la Atmósfera.
-
-V.4. Departamento de Seguimiento a Dictámenes.
 
 ###### Artículo 4.
 
@@ -139,7 +115,7 @@ VII.- Otorgar el reconocimiento de un área privada y social de preservación, e
 
 VIII.- Otorgar concesiones, asignaciones, autorizaciones, licencias o permisos que contempla la Ley u otras disposiciones legales o reglamentarias, en lo concerniente a las materias que forman parte de la competencia de la Secretaría;
 
-IX.- Determinar la normativa aplicable a las actividades de inspección, vigilancia y verificación de disposiciones legales, jurídicas y administrativas aplicables a las personas físicas y morales, de carácter público, privado y social que desarrollen acciones, proyectos, programas y servicios que atenten contra el equilibrio ecológico;
+IX.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2010)
 
 X.- Certificar a las personas que podrán realizar estudios de obras públicas y privadas y actividades de desarrollo dentro del territorio estatal, en materia ambiental;
 
@@ -169,7 +145,9 @@ XXII.- Aprobar la estructura organizacional y ocupacional de la Secretaría;
 
 XXIII.- Acordar periódicamente con los servidores públicos subalternos y dar audiencia al público;
 
-XXIV.- Emitir las resoluciones administrativas derivadas de los procedimientos administrativos instaurados en contra de probables infractores a las leyes ambientales y que sea competente la Secretaría para ello;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2010)</small>
+
+XXIV.- Emitir las resoluciones administrativas en los procedimientos de evaluación solicitados, de conformidad a las leyes ambientales y que sea competente la Secretaría para ello;
 
 XXV.- Promover el desarrollo administrativo y aquellos aspectos de mejora regulatoria necesarios para el sector;
 
@@ -323,7 +301,7 @@ IV.- Proponer la creación de iniciativas de ley, reglamentos, decretos y acuerd
 
 V.- Representar y defender a la Secretaría, Secretario y servidores públicos ante tribunales federales, estatales e instancias administrativas por hechos y actos realizados en el ejercicio de sus funciones, competencia y atribuciones;
 
-VI.- Coadyuvar con la Dirección de Inspección y Vigilancia Ambiental en la substanciación de los procedimientos administrativos que resulten de las acciones de inspección y vigilancia desarrolladas por la Secretaría;
+VI.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2010)
 
 VII.- Proponer al Secretario las normas, lineamientos y procedimientos administrativos que deben implementarse y cumplirse en el desarrollo de las inspecciones, auditorías, peritajes y resoluciones ambientales que en el ámbito de sus facultades corresponda a las unidades administrativas de la Secretaría;
 
@@ -385,25 +363,11 @@ Las funciones de los departamentos adscritos a la Dirección de Planeación Ambi
 
 ###### Artículo 15.
 
-Corresponde a la Dirección de Inspección y Vigilancia Ambiental:
-
-I.- Planear, programar, dirigir, controlar y coordinar los actos de inspección y vigilancia que realice la Secretaría con la finalidad de prevenir, evitar y en su caso corregir el posible riesgo de desequilibrio ecológico o de daño o deterioro a los recursos naturales, en casos de contaminación con repercusiones para los ecosistemas, sus componentes o para la salud pública;
-
-II.- Ordenar visitas de inspección periódicas o circunstanciales, de conformidad con el procedimiento que establece la Ley en su título séptimo;
-
-III.- Establecer esquemas de monitoreo periódicos que permitan detectar violaciones a la ley en materia de obras y actividades que generen daño o deterioro al medio ambiente, a los recursos naturales, a los ecosistemas, sus componentes, con consecuencias de riesgo de desequilibrio ecológico o para la salud pública;
-
-IV.- Proponer los casos concretos que por procedimiento encuadren en la posibilidad de la conciliación porque el posible infractor reconozca de manera expresa la falta administrativa por la que se le investiga;
-
-V.- Recibir, sistematizar, encauzar y dar seguimiento a las denuncias populares de posibles daños ambientales;
-
-VI.- Previo acuerdo con el Secretario, ordenar las medidas de seguridad que procedan de conformidad con el procedimiento dispuesto en la Ley, y
-
-VII.- Las demás que le confiera el superior jerárquico o las disposiciones legales aplicables a la materia de su competencia.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2010)
 
 ###### Artículo 16.
 
-Las funciones de los departamentos adscritos a la Dirección de Inspección y Vigilancia Ambiental estarán contenidas en el manual general de organización de la Secretaría.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2010)
 
 ###### Artículo 17.
 
@@ -632,3 +596,9 @@ SEGUNDO. En tanto se expiden los manuales de organización de procedimientos adm
 Dado en el Palacio de Gobierno, Sede del Poder Ejecutivo, en la ciudad de Tepic, capital del Estado de Nayarit, a los 8 días del mes de Septiembre del año dos mil ocho.
 
 A T E N T A M E N T E "SUFRAGIO EFECTIVO. NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL.- RÚBRICA.- PROFA. CORA CECILIA PINEDO ALONSO, SECRETARIA GENERAL DE GOBIERNO.- RÚBRICA.- ING. LUIS CARLOS TAPIA PÉREZ, SECRETARIO DEL MEDIO AMBIENTE.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
