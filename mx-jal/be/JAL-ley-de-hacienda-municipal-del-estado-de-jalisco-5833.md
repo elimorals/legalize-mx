@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2009-12-31"
+last_updated: "2010-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1147,11 +1147,13 @@ Para calcular el monto este (sic) del impuesto predial a pagar, se procederá a 
 
 Tratándose de cementerios, el impuesto a pagar durante el año, se liquidará sobre el valor catastral de la parte que no hubiese sido enajenada, al día primero de enero del ejercicio de que se trate. A este efecto, durante el primer mes de cada año, los sujetos del impuesto manifestarán la superficie o gavetas que hubieran vendido el año anterior.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2010)</small>
 
 ###### Art. 108.
 
-En casos de predios no empadronados o de excedencias, construcciones, reconstrucciones o ampliaciones no manifestadas por cualquier causa o motivo, la liquidación comprenderá cinco años anteriores a la fecha de su descubrimiento por la autoridad catastral, salvo que el causante pruebe que tales hechos u omisiones datan de fecha ulterior. Cuando la manifestación se realice espontáneamente por parte del causante, no se hará efectivo el cobro anterior y la liquidación se aplicará a partir del siguiente bimestre de su manifestación, siempre y cuando el contribuyente se encuentre al corriente de sus pagos de la parte registrada, en su caso.
+En caso de predios no empadronados de excedencias, construcciones, reconstrucciones o ampliaciones no manifestadas por cualquier causa, la liquidación comprenderá cinco años anteriores a la fecha de que la autoridad catastral lo detecte, salvo que el causante pruebe que tales hechos y omisiones ocurrieron con fecha ulterior, y la liquidación se aplicará a partir del siguiente bimestre de su manifestación.
+
+Cuando el contribuyente se encuentre al corriente del pago del impuesto predial de la parte registrada y acuda espontáneamente ante la autoridad municipal a realizar la manifestación, la autoridad expedirá dentro de los 10 días hábiles siguientes constancia en la cual establezca que es acreedor a dicho beneficio fiscal.
 
 ###### Art. 109.
 
@@ -3464,5 +3466,9 @@ Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la J
 Décimo. Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente decreto, el Auditor Superior del Estado deberá expedir el reglamento interno de la Auditoría Superior de Jalisco, conforme a esta ley y las disposiciones aplicables para el Congreso del Estado.
 
 P.O. 31 DE DICIEMBRE DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 30 DE OCTUBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
