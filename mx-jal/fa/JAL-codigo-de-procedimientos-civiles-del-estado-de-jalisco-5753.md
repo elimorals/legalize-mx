@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2009-10-24"
+last_updated: "2010-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -234,23 +234,35 @@ IV.- Por cualesquiera otra de las causas establecidas por la ley.
 
 Todo allanamiento, convenio o desistimiento deberá formularse por escrito debidamente ratificado, bien sea por el tribunal del conocimiento del negocio o ante fedatario público.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 2010)</small>
 
-ARTICULO 29 bis.- La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio desde el emplazamiento hasta antes de citación para sentencia, si transcurridos ciento ochenta días naturales contados a partir de la notificación de la última determinación judicial no hubiere promoción de alguna de la partes tendiente a la prosecución del procedimiento. Los efectos y formas de su declaración se sujetarán a las normas siguientes:
+Artículo 29 bis.- La caducidad de la instancia operará de pleno derecho, cualquiera que sea el estado del juicio, desde la notificación del primer auto que se dicte en el mismo hasta antes de la citación para sentencia, si transcurridos ciento ochenta días naturales contados a partir de la notificación de la última determinación judicial no hubiere promoción de alguna de las partes tendiente a la prosecución del procedimiento. Los efectos y formas de su declaración se sujetarán a las normas siguientes:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 I.- La caducidad de la instancia es de orden público y opera por el sólo transcurso del tiempo antes señalado;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 II.- La caducidad extingue el proceso y deja sin efecto los actos procesales, pero no la acción, ni el derecho sustantivo alegado, salvo que por el transcurso del tiempo éstos ya se encuentren extinguidos; en consecuencia se podrá iniciar un nuevo juicio, sin perjuicio de lo dispuesto en la parte final de la fracción V de este artículo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 III.- La caducidad de la primera instancia convierte en ineficaces las actuaciones del juicio, restablece las cosas al estado que guardaban antes de la presentación de la demanda y deja sin efecto los embargos preventivos y medidas cautelares decretados. Se exceptúan de la ineficacia susodicha las resoluciones firmes que existan dictadas sobre competencia, litispendencia, conexidad, personalidad y capacidad de los litigantes, que regirán en el juicio ulterior si se promoviere;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 IV.- La caducidad de la segunda instancia deja firmes las resoluciones apeladas. Así lo declarará el tribunal de apelación;
 
-> <small>(F. DE E., P.O. 26 DE ENERO DE 1995)</small>
+(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
 V.- La caducidad de los incidentes se causa por el transcurso de noventa días naturales contados a partir de la notificación de la última determinación judicial, sin promoción tendiente a la prosecución del procedimiento incidental, la declaración respectiva sólo afectará a las actuaciones del incidente sin abarcar las de la instancia principal cuando haya quedado en suspenso ésta por la admisión de aquél, en caso contrario afectará también a ésta, siempre y cuando haya transcurrido el lapso de tiempo señalado en el párrafo primero de este artículo;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 VI.- Para los efectos previstos por el artículo que regula la interrupción de la prescripción, se equipara a la desestimación de la demanda la declaración de caducidad del proceso;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 VII.- No tiene lugar la declaración de caducidad:
 
@@ -262,9 +274,15 @@ c) En los juicios de alimentos y en los de divorcio;
 
 d) En los juicios seguidos ante la justicia de paz; y
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 VIII.- El término de caducidad se interrumpirá por la sola presentación por cualquiera de las partes, de promoción que tienda a dar continuidad al juicio;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+
 IX.- Contra la resolución que declare la caducidad procede el recurso de apelación con efectos suspensivos, y la que la niegue no admite recurso;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 X.- Las costas serán a cargo del actor; pero serán compensables con las que corran a cargo del demandado en los casos previstos por la ley y además en aquellos en que opusiere reconvención, compensación, nulidad y, en general, las excepciones que tiendan a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
 
@@ -5660,14 +5678,6 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5675,6 +5685,14 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8855,3 +8873,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 
 TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
+
+P.O. 30 DE OCTUBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
