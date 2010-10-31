@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-instituto-de-vivienda-de-baja-38378"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-10"
-last_updated: "2004-03-10"
+last_updated: "2010-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE VIVIENDA DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE VIVIENDA DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 31 DE OCTUBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de marzo de 2004.
 
@@ -195,9 +197,9 @@ III.- Intervenir en la celebración de convenios y acuerdos emanados de la Asoci
 
 IV.- Suscribir con la autorización expresa del Gobernador del Estado y del Consejo, Contratos de Créditos a nombre del Instituto y/o que constituyan obligaciones a cargo del erario estatal;
 
-V.- Someter a la consideración del Gobernador del Estado y al Consejo cambios en la organización interna, que impliquen modificaciones a su estructura orgánica básica y que deban reflejarse en su Reglamento Interior;
+VI.- Someter a la consideración del Gobernador del Estado y al Consejo cambios en la organización interna, que impliquen modificaciones a su estructura orgánica básica y que deban reflejarse en su Reglamento Interior;
 
-VI.- Desempeñar las comisiones especiales que el Gobernador del Estado le confiera, manteniéndolo informado sobre el desarrollo de los mismos;
+V.- Desempeñar las comisiones especiales que el Gobernador del Estado le confiera, manteniéndolo informado sobre el desarrollo de los mismos;
 
 VII.- Proponer al Gobernador del Estado los acuerdos emanados del Consejo Nacional de Fomento a la Vivienda (CONAFOVI) a través del Convenio de Desarrollo de Vivienda y Suelo (CODEVlSU) como instrumento de ejecución para la firma correspondiente;
 
@@ -986,3 +988,15 @@ ING. ISMAEL PEÑALOZA PINEDA
 PRESIDENTE DE LA CMIC, DELEGACION LA PAZ Y CONSEJERO DEL INVI
 
 ING. JOSE MANUEL HARO SANCHEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 31 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto de Vivienda, vigente publicado en el Boletín Oficial de Gobierno del Estado de Baja California Sur, Número 16, de fecha 10 de marzo del año 2004.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente ordenamiento.
+
+CUARTO.- El Director General del Instituto de Vivienda de Baja California Sur, contará con un plazo de 30 días hábiles contados a partir de la entrada en vigor de este Reglamento para la expedición e implantación de los Manuales de Organización y de Procedimientos del Instituto de Vivienda de Baja California Sur.
