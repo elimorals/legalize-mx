@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2010-06-24"
+last_updated: "2010-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -35,7 +35,7 @@ Con fecha 22 de Noviembre del presente año, el Titular del Poder Ejecutivo, env
 
 CONSIDERANDOS
 
-PRIMERO.- La comisión que dictaminó, procedió al estudio y análisis de la Iniciativa que contiene la Ley de Hacienda del Estado de Durango, mediante la cual pretende sustituir a la vigente, que data de 1968, en virtud de que en diferentes ocasiones ha sido objeto de diversas reformas y adiciones, además, un gran numero de sus disposiciones han sido rebasadas por la realidad socioeconómica, encontrando numerosos artículos, haciéndola una Ley confusa, al carecer de claridad, que no responde a las necesidades actuales, dificultando su cumplimiento; por ello, la dictaminadora coincidió que es necesario contar con un nuevo ordenamiento jurídico.
+PRIMERO.- La comisión que dictaminó, procedió al estudio y análisis de la Iniciativa que contiene la Ley de Hacienda del Estado de Durango, mediante la cual pretende sustituir a la vigente, que data de 1968, en virtud de que en diferentes ocasiones ha sido objeto de diversas reformas y adiciones, además, un gran número de sus disposiciones han sido rebasadas por la realidad socioeconómica, encontrando numerosos artículos, haciéndola una Ley confusa, al carecer de claridad, que no responde a las necesidades actuales, dificultando su cumplimiento; por ello, la dictaminadora coincidió que es necesario contar con un nuevo ordenamiento jurídico.
 
 SEGUNDO.- La vida social y económica en constante evolución exige la participación corresponsable de los sectores Público, Social y Privado; de conformidad con el marco jurídico vigente en nuestro país, corresponde al Estado la rectoría del desarrollo nacional para garantizar que éste sea integral, buscando una planeación que imprima solidez, dinamismo, permanencia y equidad al crecimiento de la economía para resolver las necesidades colectivas que reclaman su satisfacción del Gobierno en sus tres niveles.
 
@@ -51,7 +51,7 @@ SEPTIMO.- En virtud de las consideraciones anteriores, la Ley contempla tres nue
 
 Se consideró conveniente precisar que en la definición de los elementos de estas nuevas fuentes de impuestos estatales, se tiene especial atención en el respeto a los principios constitucionales de las contribuciones, sin vulnerar los compromisos adquiridos por el Estado en virtud de su adhesión al Sistema Nacional de Coordinación Fiscal.
 
-OCTAVO.- Definitivamente los ingresos propios, son trascendentales en la vida económica y financiera de la Hacienda Publica Estatal, los que lamentablemente se han reducido en forma considerable, en virtud de los convenios de coordinación fiscal entre el Gobierno del Estado, y el Gobierno Federal, especialmente en lo referente al Impuesto al Valor Agregado, lo cual ha generado una disminución en los rubros tributarios propios, por lo que se pretende poner mayor atención en la recaudación de éstos, sin dejar de atender los compromisos derivados de la adhesión del Estado al Sistema Nacional de Coordinación Fiscal.
+OCTAVO.- Definitivamente los ingresos propios, son trascendentales en la vida económica y financiera de la Hacienda Pública Estatal, los que lamentablemente se han reducido en forma considerable, en virtud de los convenios de coordinación fiscal entre el Gobierno del Estado, y el Gobierno Federal, especialmente en lo referente al Impuesto al Valor Agregado, lo cual ha generado una disminución en los rubros tributarios propios, por lo que se pretende poner mayor atención en la recaudación de éstos, sin dejar de atender los compromisos derivados de la adhesión del Estado al Sistema Nacional de Coordinación Fiscal.
 
 Con base en los anteriores Considerandos la H. LXI Legislatura del Estado, expide el siguiente:
 
@@ -77,9 +77,11 @@ El Titular del Poder Ejecutivo del Estado podrá conceder exenciones de impuesto
 
 La Hacienda Pública del Estado de Durango se compone:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-I.- De los ingresos provenientes de los Impuestos Sobre Nóminas, para el Fomento de la Educación Pública en el Estado, por Servicio de Hospedaje, Sobre Juegos con Apuestas, Rifas, Loterías, Sorteos y premios, Sobre la Enajenación de Vehículos Automotores Usados; y del Impuesto para la modernización de los Registros Públicos;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+I.- De los ingresos provenientes de los Impuestos Sobre Nóminas, para el Fomento de la Educación Pública en el Estado, por Servicio de Hospedaje, Sobre Juegos con Apuestas, Rifas, Loterías, Sorteos y premios, Sobre la Enajenación de Vehículos Automotores Usados; del Impuesto para la modernización de los Registros Públicos; y del Impuesto Sobre Tenencia o Uso de Vehículos;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -183,7 +185,7 @@ Tratándose de contribuyentes cuyo impuesto causado en el ejercicio fiscal Inmed
 
 Los contribuyentes podrán optar por pagar mediante declaración en una sola exhibición a más tardar el día 17 del mes de febrero, el Impuesto Sobre Nóminas que estimen causar en el ejercicio fiscal de que se trate, siempre y cuando, el monto de lo pagado en el ejercicio fiscal inmediato anterior, no exceda de la cantidad de doscientas veces el salario mínimo general diario vigente en el Estado al cierre de dicho ejercicio.
 
-Los contribuyentes que ejerzan la opción establecida en el párrafo anterior, deberán presentar la declaración asentando en la parte superior derecha la siguiente leyenda "SE 0PTA POR PAGO ANUAL", quedando relevado de la obligación de presentar las declaraciones mensuales o trimestrales del ejercicio fiscal por el que se estima el impuesto, pero estarán obligados a presentar una declaración a más tardar el día 17 del mes de enero del año siguiente a aquel por el que se ejerció la opción, en la que liquidará en forma definitiva el impuesto a su cargo, señalando la diferencia a pagar, el saldo a su favor o marcándola en ceros, según corresponda.
+Los contribuyentes que ejerzan la opción establecida en el párrafo anterior, deberán presentar la declaración asentando en la parte superior derecha la siguiente leyenda "SE OPTA POR PAGO ANUAL", quedando relevado de la obligación de presentar las declaraciones mensuales o trimestrales del ejercicio fiscal por el que se estima el impuesto, pero estarán obligados a presentar una declaración a más tardar el día 17 del mes de enero del año siguiente a aquel por el que se ejerció la opción, en la que liquidará en forma definitiva el impuesto a su cargo, señalando la diferencia a pagar, el saldo a su favor o marcándola en ceros, según corresponda.
 
 En ningún caso se dejará de causar recargos por las diferencias que en su caso resulten entre el monto que efectivamente se entere con el que se debió de haber enterado de no tomar la opción a que se refiere este artículo.
 
@@ -587,6 +589,562 @@ Se consideran obligados solidarios en el cumplimiento del pago del presente impu
 
 Cuando sean varias las operaciones sujetas al presente impuesto, éste se causará sobre el valor de cada uno de ellos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+### CAPITULO VIII. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 1.- Están obligadas al pago del Impuesto Sobre Tenencia o Uso de Vehículos, las personas físicas y las morales tenedoras o usuarias de los vehículos de motor a que se refiere este Capítulo, siempre que el Estado de Durango expida las placas de circulación en su jurisdicción territorial a dichos vehículos. Para los efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo.
+
+Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de· sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el artículo 44 bis 3 de esta Ley.
+
+En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de las disposiciones contenidas en este Capítulo, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
+
+En caso de que no puedan comprobarse los años de antigüedad del vehículo, este impuesto se pagará como si fuese nuevo.
+
+Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
+
+Mes Factor aplicable al
+
+impuesto causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 2.- Es objeto del impuesto a que se refiere este Capítulo, la tenencia o uso de vehículos de motor, cuyo tenedor o usuario· tenga su domicilio dentro de la circunscripción territorial del Estado.
+
+Para efectos de este Capítulo, se considerará como:
+
+l. Vehículos de Motor.- A los automóviles, motocicletas, minibuses, microbuses, autobuses, omnibuses, camiones, vehículos eléctricos, híbridos y tractores no agrícolas tipo quinta rueda y demás a que se refiere esta Ley;
+
+II. Marca.- Las denominaciones y distintivos que los fabricantes dan a sus vehículos de motor, para diferenciarlos de los demás;
+
+III. Año Modelo.- El año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra;
+
+IV. Modelo.- Todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea;
+
+V. Carrocería Básica.- El conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de las que derivan los diversos modelos;
+
+VI. Versión.- Cada una de las distintas presentaciones comerciales que tiene un modelo;
+
+VII. Línea:
+
+a) Automóviles con motor de gasolina o gas de hasta cuatro cilindros;
+
+b) Automóviles con motor de gasolina o gas de seis u ocho cilindros;
+
+c) Automóviles de motor diesel;
+
+d) Camiones con motor de gasolina, gas o diesel;
+
+e) Tractores no agrícolas, tipo quinta rueda;
+
+f) Autobuses integrales;
+
+g) Vehículos eléctricos, y
+
+h) Automóviles cuyo motor combine energía proveniente de gas, gasolina o eléctrico.
+
+VIII. Comerciantes en el ramo de vehículos.- A las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
+
+IX. Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos;
+
+b) El importado definitivamente al país, que corresponda al año modelo posterior al de aplicación de las disposiciones a que se refiere este Capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva, y
+
+X. Valor total del vehículo.- El precio de enajenación al consumidor, del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía Federal como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, así como las contribuciones que se deban pagar con motivo de la importación, a excepción del Impuesto al Valor Agregado y en su caso, del valor de blindaje del vehículo.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 3.- El impuesto a que se refiere este Capítulo, se pagará anualmente durante los primeros tres meses de cada ejercicio fiscal, en las Oficinas Recaudadoras; Receptoras de Pago; Instituciones Bancarias o Establecimientos que autorice y dé a conocer la Secretaría de Finanzas y de Administración del Gobierno del Estado, mediante Reglas de Carácter General, o a través de medios electrónicos; mediante las formas oficiales que apruebe la misma Dependencia de conformidad con la legislación fiscal aplicable.
+
+Tratándose de vehículos nuevos, este impuesto deberá enterarse en un plazo no mayor a 15 días hábiles siguientes a la fecha de su adquisición.
+
+Para aquellos vehículos que porten placas de transporte público federal, el impuesto se pagará en los plazos, lugares y formas previstas en el primer párrafo de este artículo, siempre y cuando el domicilio fiscal que el propietario tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado.
+
+En los casos que proceda (sic), el contribuyente comprobará el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que esté sujeto, con el original del comprobante de pago que le hubiere expedido la autoridad correspondiente, de la Entidad Federativa de que se trate.
+
+Los sujetos de este impuesto, no están obligados a presentar por esta contribución la solicitud de inscripción, ni los avisos a los Registros Federal o Estatal de Contribuyentes, con excepción de aquellos que se encuentren inscritos en dichos registros, los cuales deberán proporcionar la clave correspondiente, y tratándose de personas físicas, su Clave Única de Registro de Población.
+
+Los importadores ocasionales efectuarán el pago del Impuesto Sobre Tenencia o Uso de Vehículos, correspondiente al primer año de calendario en los plazos, lugares y formas establecidos en este Capítulo y de conformidad con los convenios que al efecto se suscriban con las autoridades competentes. Para los siguientes años de calendario, se estará en lo dispuesto en este artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 4.- No se pagará el impuesto a que se refiere este Capítulo, por la tenencia o uso de los siguientes vehículos:
+
+l. Los destinados al servicio de misiones diplomáticas y consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
+
+II. Los que la Federación, el Estado y sus Municipios utilicen para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y, los destinados a los cuerpos de bomberos;
+
+III. Los eléctricos utilizados para el transporte público de personas;
+
+IV. Los importados temporalmente en los términos de la legislación aduanera;
+
+V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación;
+
+VI. Las embarcaciones dedicadas a la pesca comercial;
+
+VII. Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga, y
+
+VIII. Las aeronaves con más de veinte pasajeros, destinadas al aerotransporte al público en general.
+
+Los tenedores o usuarios de los vehículos a que se refiere este artículo, para gozar del beneficio que el mismo establece, al momento de solicitarlo deberán comprobar ante las Oficinas Recaudadoras que se encuentran comprendidos en dichos supuestos.
+
+Cuando por cualquier motivo, un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo, deberá pagar el impuesto correspondiente dentro de los 15 días hábiles siguientes a aquél en que tenga lugar el hecho de que se trate, de manera proporcional a partir del mes en que dejó de estar comprendido en los supuestos señalados, conforme a lo que resulte de aplicar el siguiente factor:
+
+Mes en que dejó de estar Factor aplicable al
+
+comprendido impuesto causado
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
+Cuando el vehículo por el que se cause este impuesto quede en situación de robo total o sea considerado pérdida total, el contribuyente pagará el impuesto correspondiente en proporción al número de meses en que fue sujeto al mismo, conforme a la siguiente tabla:
+
+Mes de robo o pérdida Factor aplicable al
+
+impuesto causado
+
+Enero 0.08
+
+Febrero 0.17
+
+Marzo 0.25
+
+Abril 0.33
+
+Mayo 0.42
+
+Junio 0.50
+
+Julio 0.58
+
+Agosto 0.67
+
+Septiembre 0.75
+
+Octubre 0.83
+
+Noviembre 0.92
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 5.- Son responsables solidarios del pago del impuesto establecido en este Capítulo:
+
+I. Quiénes adquieran por cualquier título la propiedad, tenencia o uso del vehículo, hasta por el monto del adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de dicha contribución;
+
+II. Quiénes no realicen los actos administrativos previstos en la presente Ley, dentro del plazo establecido para ello;
+
+III. Quiénes reciban vehículos en consignación o comisión para su enajenación, por el adeudo de este impuesto que en su caso existiera, y
+
+IV. Los servidores públicos del Estado que realicen los actos administrativos a que se refiere esta Ley, sin haberse cerciorado que no existan adeudos por este impuesto.
+
+Los servidores o empleados públicos que realicen los actos administrativos a que se refiere el esta Ley, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+#### SECCION I. DE LOS VEHÍCULOS NUEVOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 6.- Tratándose de automóviles, minibuses, microbuses, autobuses, omnibuses, camiones y tractores no agrícolas tipo quinta rueda nuevos, el impuesto a que se refiere este Capítulo, se calculará como a continuación se indica:
+
+l. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa a que se refiere la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, y
+
+II. Para vehículos nuevos destinados al transporte de más de quince pasajeros o para el transporte de efectos, cuyo peso bruto vehicular sea menor a 15 toneladas y para vehículos nuevos que cuenten con placas de servicio público de transporte de pasajeros y los automóviles de alquiler en su modalidad de taxis, el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+Para efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses, omnibuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 7.- Tratándose de motocicletas nuevas, el impuesto a que se refiere este Capítulo se calculará aplicando al valor total de la motocicleta, la tarifa que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 8.- Tratándose de vehículos eléctricos, así como de aquellos eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará conforme a la tasa que establezca la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+#### SECCION II. DE LOS VEHÍCULOS USADOS DE UNO A NUEVE AÑOS MODELO DE ANTIGÜEDAD
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 9.- Tratándose de vehículos de fabricación nacional o importados a que se refiere el artículo 44 bis 6 fracción II de este capítulo, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+
+TABLA
+
+Años de Factor
+
+antigüedad
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 44 bis 13 de este capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 10.- Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte de alquiler en su modalidad de taxis, de uno a nueve años modelo de antigüedad, el impuesto a que se refiere este Capítulo, se calculará para el ejercicio fiscal siguiente a aquél en el que se dé este supuesto, conforme al siguiente procedimiento:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en el artículo 44 bis 9 de esta Ley, y
+
+II. La cantidad obtenida conforme a la fracción anterior, se actualizará de conformidad con lo dispuesto en el artículo 44 bis 13 de esta Ley; el resultado obtenido se multiplicará por 0.245%.
+
+Para efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 11.- Tratándose de automóviles de fabricación nacional o importados, destinados al transporte de hasta quince pasajeros de uno a nueve años modelo de antigüedad, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de
+
+depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+II. La cantidad obtenida conforme a la fracción anterior, se actualizará de conformidad con lo dispuesto en el artículo 44 bis 13 de este capítulo; al resultado se le aplicará la tarifa establecida en la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos, a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 12.- Tratándose de motocicletas de fabricación nacional o importadas, de uno a nueve años modelo de antigüedad, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
+
+Tabla
+
+Años de antigüedad Factor de
+
+depreciación
+
+1 0.9
+
+2 0.8
+
+3 0.7
+
+4 0.6
+
+5 0.5
+
+6 0.4
+
+7 0.3
+
+8 0.2
+
+9 0.1
+
+A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que se refiere la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 13.- Para los efectos de lo dispuesto en los artículos 44 bis 9, 44 bis 10 fracción II, 44 bis 11 fracción II y 44 bis 14 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con el Código Fiscal del Estado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+#### SECCION III. DE LOS VEHÍCULOS USADOS DE MÁS DE DIEZ AÑOS MODELO DE ANTIGÜEDAD
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 14.- Los vehículos cuyo año modelo exceda a los señalados en la Sección II de este Capítulo, estarán exentos del pago del impuesto referido en el presente capítulo.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+#### SECCION IV. OTROS VEHÍCULOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 15.- En la presente sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática y tabla de oleaje con motor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 16.- Tratándose de aeronaves nuevas, el impuesto a que se refiere este Capitulo será la cantidad que resulte de multiplicar el peso máximo; incluyendo la carga de la aeronave expresada en toneladas, por la cuota que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, para aeronaves de pistón, turbohélice y helicópteros.
+
+Para aeronaves de reacción, el impuesto a que se refiere este Capítulo será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cuota que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 17.- Tratándose de aeronaves de uno a nueve años modelo de antigüedad, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad de la aeronave, de acuerdo con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor
+
+1 0.900
+
+2 0.889
+
+3 0.875
+
+4 0.857
+
+5 0.833
+
+6 0.800
+
+7 0.750
+
+8 0.667
+
+9 0.500
+
+El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 44 bis 13 de este capítulo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 18.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto a que se refiere este Capítulo, será la cantidad que resulte de aplicar al valor total del vehículo de que se trate, la tasa que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 19.- Tratándose de aeronaves de más de diez años de fabricación anteriores al de aplicación de esta Ley, este impuesto se pagará conforme a las cuotas que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 20.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto a que se refiere este Capítulo será el que resulta de aplicar el procedimiento siguiente:
+
+I. El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
+
+TABLA
+
+Años de Antigüedad Factor de depreciación
+
+1 0.9250
+
+2 0.8500
+
+3 0.7875
+
+4 0.7250
+
+5 0.6625
+
+6 0.6000
+
+7 0.5500
+
+8 0.5000
+
+9 0.4500
+
+10 0.4000
+
+11 0.3500
+
+12 0.3000
+
+13 0.2625
+
+14 0.2250
+
+15 0.1875
+
+16 0.1500
+
+17 0.1125
+
+18 0.0750
+
+19 y siguientes 0.0375
+
+II. La cantidad obtenida conforme a la fracción anterior, se actualizara de conformidad con lo dispuesto en el artículo 44 bis 13 de este capítulo; al resultado se le aplicará la tasa que señale la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda.
+
+Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 21.- Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este capítulo, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago dichas oficinas lo harán del conocimiento de las autoridades fiscales competentes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 22.- A requerimiento de las autoridades fiscales, los sujetos obligados al pago del impuesto a que se refiere este Capítulo, deberán:
+
+l. Presentar el original del documento que ampare la propiedad del vehículo.
+
+II. Presentar el comprobante de domicilio;
+
+III. Presentar los comprobantes del pago de este impuesto y de los derechos por servicios de control vehicular, en los que conste el sello del lugar autorizado en que se haya realizado dicho pago o bien, el comprobante de pago computarizado, cuya anterioridad no sea mayor al plazo de 5 años, contados a partir de la fecha en la que se realizó o debió realizarse el pago que en dichos comprobantes se consigna;
+
+IV. Tratándose de vehículos de procedencia extranjera, acreditar con la documentación respectiva, su legal y definitiva estancia en el país;
+
+V. Presentar copia del contrato de compraventa o de la factura en la que se cedan los derechos de propiedad del vehículo, para el caso de que se haya enajenado éste;
+
+VI. Presentar, tratándose del servicio público, además, el acuerdo de otorgamiento y tarjetón de concesión o de permiso, según sea el caso;
+
+VII. Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación al Registro Estatal Vehicular, su clave de los Registros Federal y Estatal de Contribuyentes en los casos en que se encuentren inscritos en los mismos, y tratándose de personas físicas, además, señalar su Clave Única del Registro de Población;
+
+VIII. Presentar copia del acta del Ministerio Público o del documento en el que conste el robo o siniestro del vehículo, en los casos que proceda;
+
+IX. Los demás casos que las leyes aplicables determinen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+#### SECCION V. DEL OTORGAMIENTO DE BENEFICIOS EN EL PAGO DEL IMPUESTO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 23.- El Titular del Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de Administración otorgara un subsidio del 100% en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, en beneficio de todas las personas físicas y morales propietarias, tenedoras o usuarias de vehículos, que cumplan con los requisitos siguientes:
+
+I. Estar al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, ya sea estatal o federal; o en su caso, tener convenio de pago en parcialidades de dicho impuesto;
+
+II. Estar al corriente en el pago de los derechos e impuestos previstos en la Ley de Hacienda del Estado y en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con los vehículos objeto de este impuesto;
+
+III. Comprobar la adquisición en territorio del Estado, tratándose de vehículos nuevos, y
+
+IV. Tener actualizados, en los casos que proceda, los datos en el Registro Estatal Vehicular, mediante la presentación de la declaración informativa o los avisos correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+#### SECCION VI. DE LAS SANCIONES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2010)</small>
+
+ARTICULO 44 bis 24.- Las infracciones a las disposiciones a que se refiere este Capítulo, serán sancionadas de conformidad con lo previsto en el Código Fiscal del Estado y demás disposiciones aplicables.
+
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ### CAPITULO II. DE LOS DERECHOS POR INSCRIPCION Y DEMAS SERVICIOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO Y EN EL REGISTRO PUBLICO DE TRANSPORTE
@@ -599,15 +1157,11 @@ Cuando sean varias las operaciones sujetas al presente impuesto, éste se causar
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
+## TITULO TERCERO. DE LOS DERECHOS
+
 ### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-## TITULO TERCERO. DE LOS DERECHOS
-
-### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE CONTROL DE VEHICULOS Y POR EXPEDICION DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 45.
 
@@ -643,7 +1197,9 @@ Para los efectos de este Título, se entiende por salario, el salario mínimo ge
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 8 DE JUNIO DE 2003)</small>
 
-### CAPITULO VII. DE LOS DERECHOS POR INSCRIPCION EN EL PADRON DE PROPIETARIOS Y POSEEDORES DE VEHICULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
+### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE CONTROL DE VEHICULOS Y POR EXPEDICION DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 52.
 
@@ -787,11 +1343,11 @@ X.- La cancelación del registro de la información
 
 ad-perpetuam, sobre el valor catastral del inmueble. 3
 
-Xl.- El depósito de testamentos ológrafos o cualquier
+XI.- El depósito de testamentos ológrafos o cualquier
 
 otro documento. 5
 
-XlI.- Si el depósito de testamento ológrafo se hace
+XII.- Si el depósito de testamento ológrafo se hace
 
 fuera de la oficina del registro 10
 
@@ -1018,6 +1574,192 @@ I. Cuando se trate de inscripciones relativas a bienes inmuebles o derechos real
 II. Por los informes o certificaciones que soliciten el Gobierno Federal o los Municipios para fines que no sean fiscales, y
 
 III. Por los informes que soliciten las autoridades para asuntos Penales o para Juicios de Amparo.
+
+### CAPITULO VII. DE LOS DERECHOS POR INSCRIPCION EN EL PADRON DE PROPIETARIOS Y POSEEDORES DE VEHICULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
+
+###### ARTICULO 57.
+
+Los Derechos por Concepto de Legalización de Firmas, Certificación y Expedición de Copias de Documentos por funcionarios competentes del Gobierno del Estado y registro en el padrón de proveedores, se causarán en base a días de salario o fracción del mismo, conforme a lo siguiente:
+
+DIAS PORCENTAJE
+
+DE
+
+SALARIO
+
+I.- Legalización de firmas:
+
+a) Asentadas por el Ejecutivo. 5
+
+b) Asentadas por otros funcionarios
+
+competentes. 2
+
+II.- Certificación de firmas en actas
+
+constitutivas de sociedades cooperativas. 1
+
+III.- Certificación de no adeudo. 1
+
+IV.- Copias certificadas de documentos por
+
+hoja. 1
+
+V.- Expedición de copias simples de
+
+documento, por hoja. 0.20
+
+VI.- Oficio de opinión del ejecutivo para
+
+compra, transporte o almacenamiento de
+
+explosivos y sus artificios. 5
+
+(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+
+VII.- Expedición de constancias de
+
+existencia o no, de antecedentes
+
+penales o de cualquier otra constancia. 1
+
+VIII.- Cualquier otro certificado o certificación
+
+que se expida distinta de las mencionadas en
+
+este articulo. 5
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+IX.- Registro administrativo
+
+a) De avisos notariales 1
+
+b) De poderes en escrito privado
+
+o carta poder 1
+
+X.- Oficio de opinión para la realización de
+
+carreras de caballos, peleas de gallos y
+
+palenques. 30
+
+XI.- Oficio de opinión para la realización de
+
+rifas y sorteos. 15
+
+XII.- Apostillamiento de documentos. 2
+
+XIII.- Inscripción en el Padrón de
+
+Proveedores. 17
+
+XIV.- Por las publicaciones que se hagan en
+
+el Periódico Oficial conforme a lo siguiente:
+
+a) Por una plana. 14
+
+b) Por media plana. 8
+
+c) Por un cuarto de plana o menos. 3
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+XV.- Expedición de constancias de
+
+no inhabilitación: 3
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
+
+XVI.- El otorgamiento de permisos para la instalación y funcionamiento, modificación, renovación y cancelación de los establecimientos, regulados por la Ley que regula las Casas de Empeño en el Estado de Durango causarán los derechos siguientes:
+
+DÍAS DE
+
+SALARIO
+
+a) Por el estudio de viabilidad para su
+
+instalación y funcionamiento: 10
+
+b) Por la expedición del permiso para
+
+su instalación y funcionamiento: 400
+
+c) Por la modificación de permiso: 100
+
+d) Por la revalidación anual: 240
+
+e) Por su cancelación: 5
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
+
+XVII.- El otorgamiento de permisos para la instalación y funcionamiento, modificación, renovación y cancelación de las sucursales de los establecimientos regulados por la Ley que regula las Casas de Empeño en el Estado de Durango causarán los derechos siguientes:
+
+a) Por el estudio de viabilidad para su
+
+instalación y funcionamiento: 10
+
+b) Por la expedición del permiso para
+
+su instalación y funcionamiento: 100
+
+c) Por la modificación de permiso: 25
+
+d) Por la revalidación anual: 60
+
+e) Por su cancelación: 5
+
+(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+
+ARTICULO 57 BIS.- Las personas físicas y morales que soliciten información, ante el ente público que la posea, mediante el procedimiento de acceso a la información pública que establece la propia Ley de Acceso a la Información Pública del Estado de Durango, causarán el pago de derechos en base a días de salario o fracción del mismo, conforme a lo siguiente:
+
+DÍAS DE PORCENTAJE
+
+SALARIO
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+
+I.- Copias certificadas de documentos
+
+solicitados, por hoja. 0.64
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+
+II.- Expedición de copias simples de
+
+documentos solicitados, impresas
+
+en papel, por hoja. 0.02
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+
+III.- Expedición de Disco Compacto del
+
+ente público de copias simples de
+
+documentos. 0.16
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+
+IV.- Expedición en Disco Versátil Digital
+
+del ente público, de copias simples de
+
+documentos solicitados. 0.21
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
+
+V.- Por envío de información al interior
+
+del Estado, Mediante (sic) servicios de
+
+mensajería o correo, por documento
+
+remitido, sin importar la forma de su
+
+impresión. Hasta 2.3
 
 ### CAPITULO VIII. DE LOS DERECHOS POR LOS SERVICIOS DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
 
@@ -1383,189 +2125,101 @@ competencia. 20
 
 > <small>(ADICIONADO CON EL APARTADO Y ARTICULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 57.
+###### ARTICULO 58.
 
-Los Derechos por Concepto de Legalización de Firmas, Certificación y Expedición de Copias de Documentos por funcionarios competentes del Gobierno del Estado y registro en el padrón de proveedores, se causarán en base a días de salario o fracción del mismo, conforme a lo siguiente:
+Los servicios que se presten por Actos del Registro Civil, causarán el pago de Derechos, en base a días de salario o fracción del mismo, conforme a lo siguiente:
 
-DIAS PORCENTAJE
-
-DE
+DIAS DE PORCENTAJE
 
 SALARIO
 
-I.- Legalización de firmas:
+I Registro de Nacimiento:
 
-a) Asentadas por el Ejecutivo. 5
+a) Dentro de la oficina del Registro Civil. EXENTO
 
-b) Asentadas por otros funcionarios
+b) Fuera de la oficina del Registro Civil,
 
-competentes. 2
+salvo en el caso de enfermedad en
 
-II.- Certificación de firmas en actas
+menores de 180 días. 3
 
-constitutivas de sociedades cooperativas. 1
+II Registro de defunciones. 1
 
-III.- Certificación de no adeudo. 1
+III Registro de matrimonios:
 
-IV.- Copias certificadas de documentos por
+a) Dentro de las oficinas del Registro Civil. 5
 
-hoja. 1
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-V.- Expedición de copias simples de
+b) Fuera de la oficina del
 
-documento, por hoja. 0.20
+Registro Civil, salvo en caso
 
-VI.- Oficio de opinión del ejecutivo para
+de enfermedad de los
 
-compra, transporte o almacenamiento de
+contrayentes: 20
 
-explosivos y sus artificios. 5
+IV Registro de Divorcios. 5
 
-(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
+V La corrección de actas y anotaciones
 
-VII.- Expedición de constancias de
+Marginales, cuando el error no sea
 
-existencia o no, de antecedentes
+propio del registro. 4
 
-penales o de cualquier otra constancia. 1
+VI La inscripción de actas de adopción,
 
-VIII.- Cualquier otro certificado o certificación
+tutela, de ejecutorias que declaren la
 
-que se expida distinta de las mencionadas en
+ausencia, la presunción de muerte o que
 
-este articulo. 5
+se ha perdido la capacidad legal para
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+administrar bienes; o bien de las
 
-IX.- Registro administrativo
+resoluciones o sentencias que
 
-a) De avisos notariales 1
+rectifiquen o modifiquen un acto del
 
-b) De poderes en escrito privado
+Registro Civil. 5
 
-o carta poder 1
+VII La inscripción de actos o hechos
 
-X.- Oficio de opinión para la realización de
+registrados en el extranjero. 10
 
-carreras de caballos, peleas de gallos y
+VIII La búsqueda de registros o datos. 1
 
-palenques. 30
+IX Expedición de certificados de
 
-XI.- Oficio de opinión para la realización de
+inexistencia de registro de actos del
 
-rifas y sorteos. 15
+estado civil. 2
 
-XII.- Apostillamiento de documentos. 2
+X Expedición de copias certificadas de
 
-XIII.- Inscripción en el Padrón de
+actas de registro, por cada hoja. 1
 
-Proveedores. 17
-
-XIV.- Por las publicaciones que se hagan en
-
-el Periódico Oficial conforme a lo siguiente:
-
-a) Por una plana. 14
-
-b) Por media plana. 8
-
-c) Por un cuarto de plana o menos. 3
+XI Certificación de firmas. 3
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-XV.- Expedición de constancias de
+XII Registro de reconocimientos: 5
 
-no inhabilitación: 3
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
+XIII Anotaciones en los registros
 
-XVI.- El otorgamiento de permisos para la instalación y funcionamiento, modificación, renovación y cancelación de los establecimientos, regulados por la Ley que regula las Casas de Empeño en el Estado de Durango causarán los derechos siguientes:
+por mandato judicial a petición
 
-DÍAS DE
+de la parte interesada: 6
 
-SALARIO
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-a) Por el estudio de viabilidad para su
+XIV Por la expedición de formato para registro 0.5
 
-instalación y funcionamiento: 10
+XV Otros servicios no especificados
 
-b) Por la expedición del permiso para
-
-su instalación y funcionamiento: 400
-
-c) Por la modificación de permiso: 100
-
-d) Por la revalidación anual: 240
-
-e) Por su cancelación: 5
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
-
-XVII.- El otorgamiento de permisos para la instalación y funcionamiento, modificación, renovación y cancelación de las sucursales de los establecimientos regulados por la Ley que regula las Casas de Empeño en el Estado de Durango causarán los derechos siguientes:
-
-a) Por el estudio de viabilidad para su
-
-instalación y funcionamiento: 10
-
-b) Por la expedición del permiso para
-
-su instalación y funcionamiento: 100
-
-c) Por la modificación de permiso: 25
-
-d) Por la revalidación anual: 60
-
-e) Por su cancelación: 5
-
-(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2005) (F. DE E., P.O. 19 DE ENERO DE 2006)
-
-ARTICULO 57 BIS.- Las personas físicas y morales que soliciten información, ante el ente público que la posea, mediante el procedimiento de acceso a la información pública que establece la propia Ley de Acceso a la Información Pública del Estado de Durango, causarán el pago de derechos en base a días de salario o fracción del mismo, conforme a lo siguiente:
-
-DÍAS DE PORCENTAJE
-
-SALARIO
-
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
-
-I.- Copias certificadas de documentos
-
-solicitados, por hoja. 0.64
-
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
-
-II.- Expedición de copias simples de
-
-documentos solicitados, impresas
-
-en papel, por hoja. 0.02
-
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
-
-III.- Expedición de Disco Compacto del
-
-ente público de copias simples de
-
-documentos. 0.16
-
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
-
-IV.- Expedición en Disco Versátil Digital
-
-del ente público, de copias simples de
-
-documentos solicitados. 0.21
-
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2009)</small>
-
-V.- Por envío de información al interior
-
-del Estado, Mediante (sic) servicios de
-
-mensajería o correo, por documento
-
-remitido, sin importar la forma de su
-
-impresión. Hasta 2.3
+en las fracciones anteriores: 3
 
 ### CAPITULO IX. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE SALUD
 
@@ -1900,104 +2554,6 @@ de seguridad privada. 1
 5. Por la expedición de cada cédula de identificación del
 
 personal operativo, misma que será de uso obligatorio. 1
-
-###### ARTICULO 58.
-
-Los servicios que se presten por Actos del Registro Civil, causarán el pago de Derechos, en base a días de salario o fracción del mismo, conforme a lo siguiente:
-
-DIAS DE PORCENTAJE
-
-SALARIO
-
-I Registro de Nacimiento:
-
-a) Dentro de la oficina del Registro Civil. EXENTO
-
-b) Fuera de la oficina del Registro Civil,
-
-salvo en el caso de enfermedad en
-
-menores de 180 días. 3
-
-II Registro de defunciones. 1
-
-III Registro de matrimonios:
-
-a) Dentro de las oficinas del Registro Civil. 5
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-b) Fuera de la oficina del
-
-Registro Civil, salvo en caso
-
-de enfermedad de los
-
-contrayentes: 20
-
-IV Registro de Divorcios. 5
-
-V La corrección de actas y anotaciones
-
-Marginales, cuando el error no sea
-
-propio del registro. 4
-
-VI La inscripción de actas de adopción,
-
-tutela, de ejecutorias que declaren la
-
-ausencia, la presunción de muerte o que
-
-se ha perdido la capacidad legal para
-
-administrar bienes; o bien de las
-
-resoluciones o sentencias que
-
-rectifiquen o modifiquen un acto del
-
-Registro Civil. 5
-
-VII La inscripción de actos o hechos
-
-registrados en el extranjero. 10
-
-VIII La búsqueda de registros o datos. 1
-
-IX Expedición de certificados de
-
-inexistencia de registro de actos del
-
-estado civil. 2
-
-X Expedición de copias certificadas de
-
-actas de registro, por cada hoja. 1
-
-XI Certificación de firmas. 3
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-XII Registro de reconocimientos: 5
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-XIII Anotaciones en los registros
-
-por mandato judicial a petición
-
-de la parte interesada: 6
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
-
-XIV Por la expedición de formato para registro 0.5
-
-XV Otros servicios no especificados
-
-en las fracciones anteriores: 3
-
-### CAPITULO UNICO
 
 ###### ARTICULO 59.
 
@@ -2405,9 +2961,9 @@ excepto agrícolas. 17
 
 6.- Placas de demostración. 21
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2010)</small>
 
-El pago por servicio de control en la dotación de placas, por canje o replaqueo, deberá realizarse cada tres años en la forma y términos indicados en el artículo 61 de la presente ley.
+El pago por servicio de control en la dotación de placas, por canje o replaqueo, deberá realizarse cada seis años en la forma y términos indicados en el artículo 61 de la presente ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2831,6 +3387,8 @@ en el presente artículo 10
 
 ### CAPITULO UNICO
 
+### CAPITULO UNICO
+
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
@@ -3044,3 +3602,13 @@ Las Casas de Empeño ya instaladas en el Estado, le será aplicable el artículo
 ###### ARTÍCULO TERCERO.
 
 Las personas físicas o morales que presten servicios de seguridad privada a que hace referencia la presente iniciativa y que ya estén instaladas con anterioridad a la fecha del presente Decreto, para seguir con su funcionamiento, deberán cubrir los derechos que en este decreto se establecen.
+
+P.O. 31 DE OCTUBRE DE 2010
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y entrará en vigor a partir del 1 de enero de 2011.
+
+SEGUNDO. Las tasas, tarifas y cuotas como elementos del Impuesto Sobre Tenencia o Uso de Vehículos a que se refiere el Capítulo VIII del Título Primero de la Ley de Hacienda del Estado, se establecerán en la Ley de Ingresos del Estado Libre y Soberano de Durango para el ejercicio fiscal 2011.
+
+TERCERO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+CUARTO. El Ejecutivo del Estado a través de la Secretaría de Finanzas y de Administración Pública, deberá crear dentro de los 60 días siguientes a la aprobación del decreto, un programa de apoyo fiscal de adeudos anteriores, en apoyo a las familias duranguenses, para que logren estar al corriente en los pagos de los accesorios legales generados en virtud de adeudos anteriores por dicho impuesto.
