@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-educacion-de-57589"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-19"
-last_updated: "2010-04-05"
+last_updated: "2010-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de noviembre de 2007.
 
@@ -244,7 +244,9 @@ IX. Proponer al Consejo Interior el nombramiento y remoción de los servidores p
 
 X. Acordar el nombramiento de los servidores públicos de los cargos no contemplados en la fracción anterior, y ordenar al Director de Finanzas y Administración su expedición así como resolver sobre la remoción de los mismos;
 
-XI. Designar a los Coordinadores de Zona de Educación Básica del IEA mediante oficio formal;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+XI. Designar a los Coordinadores de los Centros de Desarrollo Educativo del IEA mediante oficio formal;
 
 XII. Designar a los representantes del IEA en las comisiones, consejos, organizaciones, instituciones y entidades en las que participe el mismo;
 
@@ -554,7 +556,9 @@ X. Proponer ante la SEP, las mejoras sobre las normas técnico-pedagógicas que 
 
 XI. Promover, supervisar, organizar y evaluar las actividades deportivas que realice en todos los niveles de educación básica en el Estado;
 
-XII. Organizar, dirigir, supervisar y evaluar las actividades que se realicen en las coordinaciones de Zona de Educación Básica de la Entidad;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+XII. Organizar, dirigir, supervisar y evaluar las actividades que se realicen en los Centros de Desarrollo Educativo del IEA;
 
 XIII. Conocer de las incidencias laborales que le reporten las Subdirecciones a su cargo y en caso (sic) remitir a la Dirección Jurídica, para el trámite legal conducente;
 
@@ -590,63 +594,103 @@ XXVIII. Diseñar, elaborar y difundir los materiales técnico-pedagógicos de ap
 
 XXIX. Coordinar Interinstitucionalmente las acciones de competencia valoral;
 
-XXX. Delegar las facultades del presente capitulo a las Subdirecciones, Jefaturas de Departamento, Subjefaturas, Coordinaciones y demás áreas administrativas con las que cuente orgánicamente la Dirección; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+XXX. Delegar las facultades del presente capitulo a las subdirecciones, jefaturas de Departamento, Subjefaturas, los Coordinadores de los Centros de Desarrollo Educativo y demás áreas administrativas con las que cuente orgánicamente la Dirección; y
 
 XXXI. Las demás que le encomiende el Director General y que sean afines a las anteriores.
 
-### CAPÍTULO IV. De las Coordinaciones de Zonas de Educación Básica
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO IV. De los Centros de Desarrollo Educativo
+
+> <small>N. DE E. SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO PASANDO DE VEINTIDOS FRACCIONES A VEINTIUNO</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 24.
 
-Las Zonas de Educación Básica dependen de la Dirección de Educación Básica y estará bajo la responsabilidad de un Coordinador, quien es la autoridad educativa encargada de dirigir, planear, organizar, apoyar y evaluar el trabajo de las escuelas de la Zona de Educación Básica y de los equipos de supervisión de su adscripción, cuyas atribuciones son:
+Los Centros de Desarrollo Educativo, dependen de la Dirección de Educación Básica y estarán bajo la responsabilidad de un Coordinador quien es la autoridad educativa, encargada de dirigir, planear, organizar, apoyar y evaluar el trabajo de las escuelas, de las Zonas Escolares y de los equipos de supervisión y de los asesores académico y administrativo de su adscripción, cuyas atribuciones son:
 
 I. Participar en la toma de decisiones para la implementación de proyectos y programas propuestos por las subdirecciones y departamentos de educación básica para difundir e instrumentar de manera eficaz las políticas educativas federales y estatales;
 
-II. Promover el desarrollo de la educación en la Zona de Educación Básica encomendada, garantizando la normalidad mínima en el funcionamiento de cada escuela así como rendir ante las autoridades competentes los resultados educacionales;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-III. Dirigir, asesorar, apoyar y promover el trabajo del equipo de supervisión de manera que se logre una eficaz articulación entre los niveles y modalidades de la educación básica en la Zona de Educación Básica respectiva, a fin de cumplir el mandato constitucional de que se asegure que todos los niños y jóvenes concluyan su educación básica;
+II. Promover el Desarrollo de la Educación en las Zonas Escolares encomendadas, garantizando la normatividad mínima en el funcionamiento de cada escuela así como rendir ante las autoridades competentes los resultados educacionales;
 
-IV. Presidir el Consejo Técnico de Zona de Educación Básica;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-V. Coordinar la elaboración anual del diagnóstico y proyecto educativo de la Zona de Educación Básica o Municipal según corresponda;
+III. Dirigir, asesorar, apoyar y promover el trabajo del equipo de supervisión de manera que se logre una eficaz articulación entre los niveles y modalidades de la educación básica en la Zona Escolar respectiva, a fin de cumplir el mandato constitucional de que se asegure que todos los niños y jóvenes concluyan su educación básica;
 
-VI. Velar por el uso adecuado de los recursos humanos y materiales adscritos a la oficina del equipo de supervisión de la Zona de Educación Básica respectiva;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-VII. Informar de los resultados del diagnóstico de indicadores educativos de la Zona de Educación Básica, de otros estudios de evaluación acerca del avance de los programas educativos, así como de las necesidades y propuestas de solución al IEA, al Consejo Municipal de participación social según corresponda y al Consejo Técnico de Zona de Educación Básica;
+IV. Presidir el Consejo Técnico del Centro de Desarrollo Educativo;
 
-VIII. Participar de manera activa y responsable en la planeación estratégica de los servicios educativos proporcionando con oportunidad la información que el IEA le requiera sobre las necesidades de la Zona de Educación Básica correspondiente;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-IX. Participar en la toma de decisiones respecto a la oferta de cursos, talleres, seminarios u otras opciones para la actualización de maestros en ejercicio;
+V. Coordinar la elaboración anual del diagnóstico y proyecto educativo de las Zonas Escolares o Municipal según corresponda;
 
-X. Participar en la toma de decisiones respecto a la organización y operación de los distintos proyectos y actividades del Sistema Estatal de Evaluación de la Educación existentes en la entidad;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-XI. Participar en la toma de decisiones respecto al diseño, implementación y evaluación de proyectos escolares y educativos a nivel estatal;
+VI. Velar por el uso adecuado de los recursos humanos y materiales adscritos a la oficina del quipo (sic) de supervisión de las Zonas Escolares respectivas;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+VII. Informar de los resultados del diagnóstico de indicadores educativos de las zonas escolares, de otros estudios de evaluación acerca del avance de los programas educativos, así como de las necesidades y propuestas de solución al IEA, al Consejo Municipal de Participación Social según corresponda y al Consejo Técnico de Zona Escolar;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Participar de manera activa y responsable en la planeación estratégica de los servicios educativos proporcionando con oportunidad la información que el IEA le requiera sobre las necesidades de la Zona Escolar correspondiente;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+IX. Coordinar la oferta de cursos, talleres, seminarios u otras opciones para la actualización de maestros en ejercicio;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+X. Participar en la organización y operación de los distintos proyectos y actividades del Sistema Estatal de Evaluación de la Educación existentes en la Entidad;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+XI. Participar en el diseño, implementación y evaluación de proyectos escolares y educativos a nivel estatal;
 
 XII. Asesorar al equipo de supervisión en el diseño, instrumentación y evaluación del proyecto educativo;
 
-XIII. Asistir a las reuniones periódicas de Coordinadores de Zonas de Educación convocadas por la Dirección de Educación Básica;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+XIII. Asistir a las reuniones periódicas de los Coordinadores de Centros de Desarrollo Educativo convocadas por la Dirección de Educación Básica;
 
 XIV. Participar en las reuniones colegiadas para el intercambio de experiencias y propuestas de trabajo, convocadas por la Dirección de Educación Básica;
 
 XV. Garantizar la entrega oportuna de los libros de texto gratuito así como de materiales didácticos para alumnos, docentes y escuelas;
 
-XVI. Visitar cada una de las escuelas de la Zona de Educación Básica a su cargo según lo considere pertinente;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+XVI. Visitar cada una de las escuelas de las Zonas Escolares a su cargo según lo considere pertinente;
 
 XVII. Ofrecer asesoría, dar seguimiento y evaluar las reuniones de Consejo Técnico de las Zonas Escolares;
 
-XVIII. Mantener actualizado el archivo de la Zona de Educación Básica;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-XIX. Gestionar ante las autoridades del IEA, la información y los recursos materiales y humanos que requiere la Zona de Educación Básica y el equipo de supervisión a su cargo;
+XVIII. Mantener actualizado el Archivo del Centro de Desarrollo Educativo;
 
-XX. Gestionar la participación social de los padres de familia y sus organizaciones así como de organizaciones sociales y productivas a favor de la educación escolar;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-XXI. Atender de manera especial los casos en que se lesione la integridad moral y física de los educandos y personal adscrito a su zona dentro de su ámbito de competencia, reportando cualquier incidencia a la Dirección Jurídica del IEA; y
+XIX. Gestionar ante las autoridades del IEA la información y los recursos materiales y humanos que requieran las Zonas Escolares y el equipo de supervisión a su cargo;
 
-XXII. Las demás que le confiera la autoridad educativa competente y la normatividad aplicable.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+XX. Atender de manera especial los casos en que se lesione la integridad moral y física de los educandos y personal adscrito a la zona dentro de su ámbito de competencia, reportando cualquier incidencia a la Dirección Jurídica del IEA; y
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+XXI. Las demás que le confiera la autoridad educativa competente y la normatividad aplicable;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 25.
 
-Los Coordinadores de Zona de Educación Básica correspondientes a los municipios del Estado, tendrán además de las funciones que señala el artículo anterior las siguientes:
+Los Coordinadores de los Centros de Desarrollo Educativo, correspondientes a los municipios del Estado, tendrán además de las funciones que señala el artículo anterior las siguientes:
 
 I. Ser enlace entre el IEA y las instancias municipales;
 
@@ -654,13 +698,23 @@ II. Fungir como Secretario Técnico del Consejo Municipal de participación soci
 
 III. Las demás que les confiera la autoridad competente y la normatividad aplicable.
 
+> <small>(REFORMADO P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 26.
 
-Para realizar el trabajo colegiado en el nivel de Zona de Educación Básica, los coordinadores de cada equipo de supervisión, con los supervisores integrantes del mismo a su cargo integrarán el Consejo Técnico de Zona de Educación Básica correspondiente.
+Con la finalidad de lograr que las escuelas de las zonas escolares pertenecientes al Centro de Desarrollo Educativo, funcionen de manera efectiva como una unidad educativa y de que se aseguren las condiciones institucionales para la realización del derecho a una educación de calidad y de acuerdo con la normatividad aplicable funcionarán consejos técnicos integrados de la siguiente manera:
+
+I. Un Consejo Técnico del Centro de Desarrollo Educativo integrado por el Coordinador y por los niveles de educación básica.
+
+II. Consejo Técnico Consultivo de Zona Escolar integrado por el supervisor y los directores de las escuelas pertenecientes a la misma; y
+
+III. En cada plantel escolar de Educación Básica funcionará un Consejo Técnico Consultivo conforme a la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 27.
 
-Los Consejos Técnicos de Zona de Educación Básica serán responsables de:
+Los Consejos Técnicos serán responsables de:
 
 I. Que cada escuela funcione efectivamente como unidad educativa y de que se aseguren las condiciones institucionales para la realización del derecho a una educación de calidad;
 
@@ -670,13 +724,17 @@ III. Conocer, analizar y utilizar los resultados de la evaluación de los aprend
 
 IV. Promover y apoyar la articulación de los niveles de educación básica a fin de lograr la continuidad en ese tipo de educación;
 
-V. Aplicar soluciones a los problemas educativos de su Zona de Educación Básica en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+V. Aplicar soluciones a los problemas educativos en el ámbito de su competencia;
 
 VI. Participar en las actividades que se promuevan en el área de actualización de los maestros en servicio;
 
 VII. Participar en las actividades del Sistema Estatal de Evaluación de la Educación;
 
-VIII. Proponer a las autoridades estatales y municipales soluciones para los problemas de su Zona de Educación Básica de acuerdo a su ámbito de competencia; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Proponer a las autoridades estatales y municipales soluciones a problemas, de acuerdo a su ámbito de competencia; y
 
 IX. Las demás que les confiera la autoridad educativa competente y la normatividad aplicable.
 
@@ -1141,3 +1199,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 5 DE ABRIL DE 2010.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 1 DE NOVIEMBRE DE 2010.
+
+ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
