@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-registro-civil-21707"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-25"
-last_updated: "2001-06-25"
+last_updated: "2010-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DEL REGISTRO CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. 1 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de junio de 2001.
 
@@ -1252,3 +1254,13 @@ Felipe González González.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE NOVIEMBRE DE 2010.
+
+PRIMERO El presente Reglamento entrará en vigor a los 30 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO El Reglamento del Registro Civil publicado en el Periódico Oficial del Estado el día veintiún días del mes de junio de 2001, transitoriamente continuará rigiendo internamente al Registro Civil y quedará Abrogado a partir de la entrada en vigor del presente.
+
+TERCERO: Para los efectos de lo dispuesto por el Artículo 70 del presente Reglamento, se anexan los "Formatos de Registro Civil" adaptados para el registro .de actos del estado civil de las personas.
