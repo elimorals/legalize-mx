@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-las-asociaciones-de-padres-de-familia-para-67856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-30"
-last_updated: "2009-03-30"
+last_updated: "2010-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "AGU"
 
 REGLAMENTO DE LAS ASOCIACIONES DE PADRES DE FAMILIA PARA LAS ESCUELAS PUBLICAS DE EDUCACION BASICA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de marzo de 2009.
 
@@ -44,11 +44,15 @@ Para los efectos de este Reglamento se entenderá por:
 
 I. Asociación o Asociaciones: Las Asociaciones Escolares de Padres de Familia, y la Asociación Estatal, como grupos organizados de padres de familia o tutores, o de quienes ejercen la patria potestad sobre los alumnos que integran la comunidad educativa, para representar ante la Autoridad Escolar y la Autoridad Educativa, los intereses que sean comunes a los asociados;
 
-II. Asociado: El padre, madre o persona que ejerza la patria potestad, o tutoría legal que asista y participe en la asamblea de constitución de una Asociación o solicite su registro en la misma;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+II. Asociado: El padre, madre o persona que ejerza la patria potestad o tutoría legal del alumno que esté inscrito en el plantel escolar;
 
 III. Autoridad Educativa: El Instituto de Educación de Aguascalientes;
 
-IV. Autoridad Escolar: Los coordinadores de Zona de Educación Básica, supervisores, inspectores, directores y subdirectores de los planteles educativos donde se constituyan asociaciones de padres de familia;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+IV. Autoridad Escolar: Los coordinadores de los Centros de los (sic) Desarrollo Educativo, supervisores, directores y subdirectores de los planteles educativos donde se constituyan asociaciones de padres de familia;
 
 V. Departamento de Participación Social: El área responsable de la atención a las Asociaciones de Padres de Familia y Consejos de Participación Social dependiente de la Dirección de Educación Básica del Instituto de Educación de Aguascalientes;
 
@@ -78,6 +82,8 @@ Las Asociaciones deberán limitarse a realizar sus labores dentro del marco lega
 
 Las Asociaciones se denominarán en la siguiente forma:
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 I. Asociaciones Escolares de Padres de Familia de las Escuelas; son aquéllas constituidas por los padres de familia en cada escuela; y
 
 II. Asociación Estatal de Padres de Familia; es aquélla constituida por los presidentes de las mesas directivas de los planteles educativos públicos pertenecientes al Instituto de Educación de Aguascalientes.
@@ -90,15 +96,25 @@ El Director General del Instituto de Educación de Aguascalientes, estará facul
 
 El objeto de las Asociaciones de Padres de Familia será:
 
-a. Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-b. Propiciar relaciones de cordialidad, respeto mutuo y trabajo entre sus asociados, trabajadores del plantel escolar y comunidad en general;
+I. Representar ante las autoridades escolares los intereses que en materia educativa sean comunes a los asociados;
 
-c. Colaborar en el mejoramiento de la comunidad escolar y proponer a las autoridades las medidas que estimen conducentes;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-d. Participar en la administración y aplicación de los recursos que obtengan las Asociaciones en beneficio del establecimiento escolar, apegado a un plan anual de trabajo aprobado en asamblea general; y
+II. Propiciar relaciones de cordialidad, respeto mutuo y trabajo entre sus asociados, trabajadores del plantel escolar y comunidad en general;
 
-e. Contribuir a la promoción de la educación para adultos entre sus miembros.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+III. Colaborar en el mejoramiento de la comunidad escolar y proponer a las autoridades las medidas que estimen conducentes;
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+IV. Participar en la administración y aplicación de los recursos que obtengan las Asociaciones en beneficio del establecimiento escolar, apegado a un plan anual de trabajo aprobado en asamblea general; y
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+V. Contribuir a la promoción de la educación para adultos entre sus miembros.
 
 ###### ARTÍCULO 9°.
 
@@ -142,11 +158,15 @@ a) Representar a las asociaciones escolares;
 
 b) Plantear y ejecutar sus planes de cooperación en beneficio general de escuelas, alumnos y asociaciones; y
 
-c) Presentar su plan de trabajo anual para su aprobación en asamblea general y atender los asuntos que presenten las asociaciones escolares, y los propios que acuerde la Asociación Estatal con las autoridades educativas.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+c) Presentar su plan de trabajo anual para su aprobación ante el consejo y atender los asuntos que presenten las asociaciones escolares y los propios que acuerde la asociación estatal con las autoridades educativas.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 11.
 
-La Asociación Estatal de Padres de Familia será la facultada para revisar y auditar sobre el manejo de los recursos económicos obtenidos por los padres de familia de la mesa directiva de cada una de las instituciones educativas, e intervendrá en la mediación de conflictos que entre ellos se susciten, no sólo del manejo de recursos.
+La Asociación Estatal de Padres de Familia, será la facultada para revisar y auditar cuando se presente controversias sobre el manejo de los recursos económicos, obtenidos por los padres de familia de la mesa directiva de cada una de las instituciones educativas e intervendrá en la mediación de conflictos que se susciten en el plantel.
 
 ###### ARTÍCULO 12.
 
@@ -158,31 +178,45 @@ La Asociación Estatal de Padres de Familia, elaborará, modificará y aprobará
 
 ### CAPÍTULO II. De la Constitución de las Asociaciones
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 14.
 
-En cada institución educativa de educación preescolar, primaria y secundaria perteneciente al Instituto de Educación de Aguascalientes, habrá una asociación, integrada por los padres de familia, tutores o quienes ejerzan la patria potestad.
+En cada institución educativa de los niveles de preescolar, primaria y secundaria perteneciente al Instituto de Educación de Aguascalientes, habrá una asociación integrada por los padres de familia, tutores o quienes ejerzan la patria potestad de los menores.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 15.
 
-En las instituciones educativas referidas en el artículo que antecede, donde existan dos turnos, se organizará una Asociación de Padres de Familia por cada uno de ellos.
+En las instituciones educativas referidas en el artículo que antecede, en donde existan dos turnos:
+
+I. Con clave de centro de trabajo diferente, se organizará una asociación de padres de familia por cada uno de ellos.
+
+II. En el caso de que existan dos turnos pero una sola clave de centro de trabajo, se constituirá una asociación y elegirán a su mesa directiva en una asamblea general con ambos turnos y con representación proporcional.
 
 ###### ARTÍCULO 16.
 
 La Autoridad Escolar de las instituciones educativas de preescolar, primaria y secundaria, en coordinación con el Departamento de Participación Social convocará a los Padres de Familia, para que dentro de los quince días hábiles contados a partir del inicio de ciclo escolar, reunidos en asamblea, constituyan la Asociación del plantel y elijan democráticamente a su mesa directiva o renueven su integración y una vez constituida sea registrada ante la autoridad educativa.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 17.
 
-Para la constitución de la Asociación Escolar de Padres de Familia y para la elección de su mesa directiva, deberán estar reunidos en Asamblea, procediendo a designar una mesa de debates, integrada por un Presidente, un Secretario y tres escrutadores, los cuales no podrán ser electos para formar parte de la mesa directiva, procediendo a la postulación de los candidatos para cada cargo y el conteo de votos, declarando electos a quienes obtengan mayoría de votos en el acta correspondiente.
+Para la constitución de la Asociación Escolar de Padres de Familia y para la elección de su mesa directiva, deberán estar reunidos en Asamblea, procediendo a designar una mesa de debates, integrada por un Presidente, un Secretario y tres escrutadores, los cuales no podrán ser electos para formar parte de la mesa directiva, procediendo a la postulación de los candidatos para cada cargo y el conteo de votos, declarando electos a quienes obtengan mayoría de votos.
 
-Las mesas directivas deberán quedar conformadas por un Presidente, un Vicepresidente, un Secretario, un Tesorero, seis vocales y sus respectivos suplentes.
+Las mesas directivas deberán quedar conformadas con un presidente, un vicepresidente, un secretario, un tesorero y seis vocales.
+
+El presidente y el tesorero no podrán ejercer el cargo simultáneamente cuando guarden parentesco entre sí por afinidad o consanguineidad en primero y segundo grado.
 
 ###### ARTÍCULO 18.
 
 En las Asociaciones Escolares, los integrantes de las mesas directivas, podrán ocupar un cargo diferente al que concluyeron en el período inmediato, siempre y cuando sus hijos no hayan terminado su instrucción en el plantel educativo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 19.
 
-La Asociación de (sic) Estatal de Padres de Familia se integra por un Consejo y la Mesa Directiva, que para su constitución y elección se observa el siguiente procedimiento:
+La Asociación Estatal de Padres de Familia se integra por un Consejo y la Mesa Directiva, que para su constitución y elección se observa el siguiente procedimiento:
 
 I.- La Autoridad Educativa a través del Departamento de Participación Social, convocará a asamblea a los presidentes de las Asociaciones Escolares de Padres de Familia para la elección del Consejo y la Mesa Directiva dentro de los primeros quince días del mes de abril;
 
@@ -198,9 +232,11 @@ VI.- Los consejeros electos se reunirán en asamblea y elegirán por votación d
 
 VII.- Constituida la Mesa Directiva de la Asociación Estatal de Padres de Familia se procederá a su protesta de ley ante la Autoridad Educativa presente, para ejercer las funciones del cargo correspondiente y representen a los padres de familia del Estado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 20.
 
-El Consejo que se integre en Asamblea General tendrá la función de vigilar que la Mesa Directiva de la Asociación Estatal de Padres de Familia cumpla con los objetivos para las cuales fue creada.
+El Consejo que se integre en Asamblea General tendrá la función de vigilar que la Mesa Directiva de la Asociación Estatal de Padres de Familia cumpla con los objetivos para los cuales fue creada.
 
 ###### ARTÍCULO 21.
 
@@ -214,13 +250,17 @@ Se renovará anualmente la mitad de sus miembros de la siguiente manera:
 
 a) En las mesas directivas de las asociaciones de las escuelas de educación primaria y secundaria se renovará al vicepresidente, el secretario y los tres primeros vocales.
 
-b) En la Mesa Directiva Estatal al vicepresidente, el secretario general, los dos primeros y los dos últimos vocales.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+b) En la Mesa Directiva Estatal al vicepresidente, el secretario, el primero, tercero y quinto vocal.
 
 III.- Tratándose de las mesas directivas de educación preescolar el tiempo de duración en su cargo será de un año.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 22.
 
-Una vez elegida la Mesa Directiva de la Asociación Estatal de Padres de Familia de las Escuelas Públicas de Educación Básica del Estado de Aguascalientes, ésta tendrá el carácter de órgano de vigilancia y asesor de las asociaciones escolares, dando seguimiento y orientación en la resolución de los conflictos que se presenten en las mismas.
+Una vez elegida la Mesa Directiva de la Asociación Estatal de Padres de Familia de las Escuelas Públicas de Educación Básica del Estado de Aguascalientes, ésta tendrá el carácter de órgano de vigilancia y asesor de las asociaciones escolares de padres de familia, dando seguimiento y orientación en la resolución de los conflictos que se presenten en las mismas.
 
 ###### ARTÍCULO 23.
 
@@ -276,7 +316,13 @@ VIII. Denunciar ante los órganos competentes a los integrantes de las asociacio
 
 IX. Dar a conocer en asamblea general el resultado de la aplicación y destino de las cuotas voluntarias y recaudaciones en especie y monetarias que por eventos u otras actividades haya obtenido la asociación; y
 
-X. Rendir cuentas a la Autoridad Educativa de manera anual de los recursos que obtengan.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+X. Rendir cuentas a mitad y al final del ciclo escolar de los recursos que obtengan;
+
+a) La Mesa Directiva Estatal de Padres de Familia, al Consejo de la Asociación Estatal de Padres de Familia y a la Autoridad Educativa.
+
+b) La Mesa Escolar de Padres de Familia, a la Asamblea de Padres de Familia, a la Autoridad Escolar y a la Asociación Estatal de Padres de Familia en su caso.
 
 ###### ARTÍCULO 27.
 
@@ -318,9 +364,11 @@ I.- Deberá de convocarse a Asamblea, para dar a conocer la presunta infracción
 
 II.- Tratándose de la Asociación Estatal de Padres de Familia, se reunirá en Asamblea el Consejo para conocer de la infracción o falta del asociado al cual se pretende suspender o destituir y de igual forma se procederá a oír lo que en su defensa argumente el infractor. Una vez realizado lo anterior, en ese mismo acto se resolverá de la suspensión o restitución de sus derechos, atendiendo la petición del infractor.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 30.
 
-Los Padres de Familia cuyos hijos, pupilos o representados terminen la educación básica o causen baja de las escuelas públicas, pertenecientes al Instituto de Educación de Aguascalientes, dejarán de ser miembros de la (sic) Asociaciones de Padres de Familia que se establecen en este Reglamento.
+Los Padres de Familia cuyos hijos, pupilos o representados terminen la educación básica o causen baja de las escuelas públicas, pertenecientes al Instituto de Educación de Aguascalientes, dejarán de ser miembros de las Asociaciones de Padres de Familia que se establecen en este Reglamento.
 
 ###### ARTÍCULO 31.
 
@@ -328,7 +376,9 @@ En los casos de que los asociados presenten renuncia, abandonen el cargo para el
 
 I.- En caso de la Mesa Directiva de la Asociación Escolar, ésta se reunirá y elegirá al sustituto dentro de sus integrantes.
 
-II.- En caso de la Mesa directiva de la (sic) tratándose Asociación Estatal, se reunirá el Consejo para nombrar al miembro que ocupará el cargo que había quedado sin titular.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+II.- En caso de la Mesa directiva de la Asociación Estatal, se reunirá el Consejo para nombrar al miembro que ocupará el cargo que había quedado sin titular.
 
 Lo anterior a excepción del cargo de Presidente de ambas Mesas Directivas de las Asociaciones Escolar y Estatal, que será sustituido por el Vicepresidente.
 
@@ -338,11 +388,21 @@ Lo anterior a excepción del cargo de Presidente de ambas Mesas Directivas de la
 
 Son órganos de Gobierno de las Asociaciones de Padres de Familia:
 
-I. La Asamblea General de la Asociación Escolar;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-II. El Consejo de la Asociación Estatal; y
+I. El Consejo de la Asociación Estatal;
 
-III. Las Mesas Directivas de las Asociaciones.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+II. La Mesa Directiva de la Asociacion Estatal;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+III. La Asamblea General de la Asociación Escolar; y
+
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+IV. La Mesa Directiva de la Asociación Escolar.
 
 ###### ARTÍCULO 33.
 
@@ -360,7 +420,9 @@ En caso de empate, el presidente de las respectivas asociaciones tendrá el voto
 
 Las Asociaciones sesionarán de la forma siguiente:
 
-I.- La Asamblea Escolar de forma ordinaria sesionará dos veces al año cuando menos y extraordinaria cuando lo pida a la Mesa Directiva por lo menos una cuarta parte de sus miembros; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+I.- La Asamblea General de la Asociación Escolar, de forma ordinaria sesionará dos veces al año cuando menos y de manera extraordinaria cuando lo solicite por lo menos una cuarta parte de los miembros de la Mesa Directiva a su presidente.
 
 II.- El Consejo de la Asociación Estatal de Padres de Familia celebrará dos sesiones ordinarias anuales cuando menos y extraordinarias cuando las convoque su Presidente o lo soliciten por escrito diez de sus miembros.
 
@@ -370,9 +432,13 @@ Las Asociaciones sesionarán para conocer de los siguientes asuntos:
 
 I. Elegir a los integrantes de las mesas directivas que los representen, en la forma que regula este Reglamento;
 
-II. Proponer y acordar las aportaciones voluntarias en dinero, soportado por el plan anual de trabajo así como en especie, bienes y servicios de los asociados;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
-III. Promover programas de capacitación, formación y educación continua para sus asociados, así como para los hijos o pupilos de los mismos;
+II. Proponer y acordar las aportaciones voluntarias en dinero, así como en especie, bienes y servicios de los asociados, de conformidad con el plan anual de trabajo;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+III. Promover programas de capacitación, formación y educación continua para sus asociados;
 
 IV. Discutir y en su caso, aprobar los informes financieros, administrativos y de gestión de los representantes de las Asociaciones;
 
@@ -380,7 +446,9 @@ V. Decidir sobre la suspensión y reestablecimiento de los derechos de los asoci
 
 VI. De la colaboración con los Consejos Escolares en las acciones y obras necesarias para el mejoramiento de los establecimientos escolares;
 
-VII. Estudiar, proponer y gestionar la realización de programas de educación para adultos en Escuela para Padres, Seguridad y Prevención, Cuidado del Medio Ambiente, Cultura, Deporte y Salud; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+VII. Estudiar, proponer y gestionar la realización de programas de educación para adultos, como escuela para padres, seguridad y prevención, cuidado del medio ambiente, cultura, deporte y salud; y
 
 VIII. Los demás que sometan a su consideración los asociados.
 
@@ -398,7 +466,9 @@ IV. Orden del día; y
 
 V. Se deberá formular el acuse correspondiente.
 
-La misma se dará a conocer personalmente a cada presidente de Mesa Directiva y en el caso de Asamblea de la Asociación Escolar, a cada padre de familia se le citará de manera personal.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+La misma se dará a conocer personalmente a cada presidente de mesa directiva en el caso de la Asociación Estatal y en el caso de Asamblea (sic) de la Asociación Escolar, a cada padre de familia se le citará de manera personal.
 
 ###### ARTÍCULO 38.
 
@@ -418,11 +488,15 @@ b) Representar a la Asociación ante la Autoridad Escolar, Autoridades Educativa
 
 c) Proponer el programa anual de trabajo; en las escuelas en las que se cuente con asociaciones distintas, por ser de doble turno, se deben empatar los programas anuales de trabajo, priorizando las necesidades del plantel y presentarlo a la Asamblea General para su aprobación;
 
-d) Supervisar el cumplimiento de los objetivos, derechos, obligaciones y funciones de la mesa directiva y de la Asociación, conforme a lo que establece la ley, el Reglamento, los Estatutos y su respectivo plan de trabajo autorizado y registrado ante la Autoridad Educativa, y la Asociación Estatal de Padres de Familia;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+d) Supervisar el cumplimiento de los objetivos, derechos, obligaciones y funciones de la Mesa Directiva y de la Asociación, conforme a lo que establece la ley, el Reglamento, los Estatutos y su respectivo Plan de Trabajo, esto último en coordinación con la Autoridad Educativa y en su caso con la Asociación Estatal de Padres de Familia;
 
 e) Dar cuenta de la correspondencia recibida y despachada;
 
-f) Rendir informes de trabajo bimestralmente o cuando sea requerido por la Asamblea, la Asociación Estatal de Padres de Familia, enviando copia del mismo al Departamento de Participación Social;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+f) Rendir informes de trabajo bimestralmente o cuando sea requerido por la Asamblea o el Consejo de la Asociación Estatal de Padres de Familia;
 
 g) Al término de su gestión y conjuntamente con el tesorero, entregar la documentación contable y archivos al término del ciclo escolar, a quien sea nombrado presidente y tesorero respectivamente;
 
@@ -452,7 +526,9 @@ d) Tramitar los asuntos que le encomiende el Presidente;
 
 e) Entregar la documentación que obre bajo su custodia, al término de su gestión;
 
-f) Realizar los trámites de inscripción de la Asociación ante el Registro Estatal de Asociaciones de Padres de Familia de la Autoridad Educativa correspondiente; y,
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+f) Realizar los trámites de inscripción de la Asociación ante el Registro Estatal de Asociaciones de Padres de Familia a través de la autoridad escolar;
 
 g) Rendir informe al término de su gestión.
 
@@ -504,9 +580,11 @@ d) Presentar ante la mesa directiva correspondiente las necesidades, propuestas 
 
 e) Participar en las comisiones del proyecto estatal.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 41.
 
-La Autoridad Escolar, personal docente, administrativo y representantes sindicales de los planteles educativos, no podrán ocupar cargos directivos en la Asociación de Padres de Familia, así como sus parientes consanguíneos en línea directa, colateral y por afinidad hasta el segundo grado. En el caso de que sus hijos sean alumnos del plantel donde trabajan, deberán cumplir con las mismas obligaciones que tienen los demás asociados.
+La Autoridad Escolar, personal docente, administrativo y representantes sindicales de los planteles educativos, no podrán ocupar cargos directivos en la Asociación de Padres de Familia, así como sus parientes consanguíneos en línea directa, colateral y por afinidad hasta el segundo grado. Las personas anteriormente señaladas cuando tengan hijos inscritos en el plantel, así como los asociados electos para ejercer un cargo en las mesas directivas, deberán cumplir con todas las obligaciones de los demás asociados.
 
 ###### ARTÍCULO 42.
 
@@ -538,27 +616,35 @@ II. Los estatutos propios de cada asociación;
 
 III. Plan de Trabajo, el cual deberá renovarse e inscribirse cada ciclo escolar; y
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 IV. Las actas en que conste la elección de las mesas directivas, miembros de los consejos escolares de participación social, de protección civil y emergencia escolar y representantes según proceda, así como los nombres y cargos de quienes resulten electos, su aceptación y protesta, y los cambios posteriores que por cualquier causa tengan lugar.
 
 ### CAPÍTULO VII. Del Registro
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 48.
 
-Las inscripciones a que se refieren las fracciones I y IV del artículo 47, en el Registro Estatal de Asociaciones de Padres de Familia, a que están obligadas las organizaciones mencionadas en el artículo 6° de este Reglamento, deberán solicitarse precisamente dentro de un plazo de diez días hábiles contados a partir del siguiente a aquél en que tenga lugar el hecho o acto que deba registrarse.
+Las inscripciones a que se refieren las fracciones I y III del artículo 47, en el Registro Estatal de Asociaciones de Padres de Familia, a que están obligadas las organizaciones mencionadas en el artículo 6° de este reglamento, deberán solicitarse precisamente dentro de un plazo de diez días hábiles contados a partir del siguiente a aquél en que tenga lugar el hecho o acto que deba registrarse.
 
-Para solicitar el registro de las fracciones II y III del propio artículo 47, se concede un plazo de dos meses a partir de la fecha de constitución de la asociación de padres de familia que corresponda.
+Para solicitar el registro de la fraccion II del propio artículo 47, se concede un plazo de dos meses a partir de la fecha de constitución de la asociación de padres de familia que corresponda.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 49.
 
-Para que la Autoridad Educativa efectúe las inscripciones a que se refieren las fracciones I y IV del artículo 47, de este reglamento, será necesario que las actas y documentos que deban presentarse para registro cuenten con el folio y sellos correspondientes que expida el Departamento de Participación Social.
+Para que la Autoridad Educativa efectúe las inscripciones a que se refieren las fracciones I y III del artículo 47, de este Reglamento, será necesario que las actas y documentos que deban presentarse para registro, con folio y sellos correspondientes, previamente expedidos por el Departamento de Participación Social.
 
 ###### ARTÍCULO 50.
 
 Los registros serán tramitados por los secretarios de las mesas directivas, a través de las autoridades escolares y educativas.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 51.
 
-El Departamento de Participación Social enviará un informe con los nombres, domicilios y teléfonos de los presidentes de las mesas directivas de las Asociaciones a la Asociación Nacional de Padres de Familia, a la Dirección Jurídica y a la Unidad de Contraloría Interna de este Instituto de Educación.
+El Departamento de Participación Social enviará un informe con los nombres, domicilios y teléfonos de los presidentes de las mesas directivas de las Asociaciones, a la Federación Nacional de Padres de Familia, a la Asociación Estatal de Padres de Familia, Dirección Jurídica y Unidad de Contraloría Interna del Instituto de Educación.
 
 ###### ARTÍCULO 52.
 
@@ -583,6 +669,18 @@ Para los efectos del presente reglamento, las asociaciones constituidas conforme
 La representación legal de las asociaciones a que se refiere el artículo 6° de este Reglamento recaerá en el Presidente de la Mesa Directiva de las mismas, el cual tendrá facultades delegatorias para otorgar la representación a cualquier otro de los miembros de la asociación de padres de familia.
 
 Tratándose de la representación para pleitos y cobranzas, el Presidente y Tesorero de la asociación escolar, lo hará previo acuerdo de Asamblea General, asentado en acta. En el caso de la Asociación Estatal surtirá el mismo efecto previo acuerdo en reunión del Consejo que lo acreditará mediante el acta correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+De igual forma la Asamblea Escolar podrá otorgar al presidente y tesorero de la Mesa Directiva, poder especial para pleitos y cobranzas, cuando se requiera conforme a lo establecido en el artículo 2426 del Código Civil del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
+
+ARTÍCULO 54 bis.- Los apoderados mencionados en el artículo anterior serán de manera enunciativa pero no limitativa, y podrán:
+
+l. Representar a la Asociación de Padres y Madres de Familia de la Escuela a la que pertenecen;
+
+II. Formular y presentar denuncias, querellas o acusaciones, coadyuvar con el Ministerio Público en causas criminales, constituir en parte civil a sus representados y otorgar perdón por medio de la mesa directiva, cuando a juicio de la Asamblea Escolar lo amerite y proceda legalmente.
 
 ### CAPÍTULO IX. Asociaciones Promotoras de Educación Comunitaria
 
@@ -613,3 +711,9 @@ TRANSITORIOS (SIC):
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Dado por el Poder Ejecutivo en la ciudad de Aguascalientes, Ags., marzo de 2009.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE NOVIEMBRE DE 2010.
+
+ÚNICO: Las reformas y adiciones realizadas al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
