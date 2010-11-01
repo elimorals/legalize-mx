@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-republicano-21154"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-12"
-last_updated: "2009-11-16"
+last_updated: "2010-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de marzo de 2001.
 
@@ -407,11 +407,11 @@ II. Extraordinarias.
 
 III. Solemnes.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 27.
 
-Serán ordinarias las sesiones que, en los términos de la Ley respectiva, se celebrarán los segundo y cuarto (sic) martes de cada mes, en un horario comprendido entre las 16:00 - dieciséis horas y las 19:00 - diecinueve horas, pudiendo cambiarse con previo aviso, notificación y convocatoria realizadas con 48 horas de anticipación, el día y hora, según las condiciones correspondientes.
+Serán ordinarias las sesiones que, en los términos de la Ley respectiva, se celebrarán cuando menos dos veces al mes, siendo éstos los (sic) segundo y cuarto martes de cada mes, en un horario comprendido entre las 16:00 - dieciséis horas y las 19:00- diecinueve horas, pudiendo cambiarse el mismo con previo aviso, notificación y convocatoria realizadas con 48 horas de anticipación, el día y hora, según las condiciones correspondientes. Mediante el cumplimiento de las formalidades de Ley y reglamentarias, podrán ser convocadas, en el mismo mes, otras sesiones ordinarias en cualesquier día hábil, dentro del mismo horario establecido en el párrafo precedente.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2007)</small>
 
@@ -1144,3 +1144,9 @@ Las presentes REFORMAS POR MODIFICACIÓN Y ADICION AL REGLAMENTO PARA EL GOBIERN
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas.
+
+P.O. 1 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes REFORMAS POR MODIFICACIÓN AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEON, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
