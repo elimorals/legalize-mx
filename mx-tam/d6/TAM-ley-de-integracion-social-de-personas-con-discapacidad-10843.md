@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2008-12-23"
+last_updated: "2010-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -65,9 +65,13 @@ c).- Discapacidad Visual: La agudeza visual corregida, en el mejor de los ojos, 
 
 d).- Discapacidad Intelectual: El impedimento permanente en las funciones mentales como consecuencia de una alteración prenatal, perinatal o postnatal que limita a la persona en forma permanente para establecer niveles de aprendizaje acordes a su edad cronológica e implica diversos niveles de conciencia e inteligencia.
 
-e).- Discapacidad Múltiple: Es la presencia en una persona de dos o más de las discapacidades contenidas en los incisos anteriores.
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-f).- Debilidad Visual: La incapacidad de la función visual, después de tratamiento médico o quirúrgico, cuya agudeza con su mejor corrección convencional sea de 20/60 a percepción de luz, o un campo visual menor a 10 grados, pero con la visión bastante para la ejecución de sus tareas;
+e).- Discapacidad del Habla: Discapacidad que presenta una persona, que indica la pérdida, ya sea parcial o total, para hablar;
+
+f).- Discapacidad Múltiple: Es la presencia en una persona de dos o más de las discapacidades contenidas en los incisos anteriores;
+
+g).- Debilidad Visual: La incapacidad de la función visual, después de tratamiento médico o quirúrgico, cuya agudeza con su mejor corrección convencional sea de 20/60 a percepción de luz, o un campo visual menor a 10 grados, pero con la visión bastante para la ejecución de sus tareas;
 
 III.- Secretaría: La Secretaría de Salud del Estado;
 
@@ -431,7 +435,11 @@ La orientación y tratamiento psicológico se empleará en todas las fases del p
 
 Para la orientación y tratamiento psicológico se tomarán en cuenta las características individuales de las personas con discapacidad, sus motivaciones e intereses, así como el medio familiar y social que puedan condicionarle.
 
-### CAPITULO X. DE LA EDUCACION GENERAL Y ESPECIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO X. DE LA EDUCACION GENERAL Y ESPECIAL Y DEL LENGUAJE DE
+
+SEÑAS
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 2004)</small>
 
@@ -497,13 +505,27 @@ Al efecto, la Secretaría de Educación, implementará políticas educativas bas
 
 La Secretaría de Educación, de igual forma, establecerá acciones para la formación, actualización y capacitación constante del personal docente y de apoyo que atiende a personas con discapacidad en los diferentes niveles de enseñanza general.
 
-###### ARTICULO 30.
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 Las escuelas de educación general ordinaria que requieran los servicios de una persona con discapacidad, deberán solicitarlos al Sistema de Educación Especial del lugar que corresponda.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 30.
+
+Se reconoce el lenguaje de señas como medio de comunicación, de las personas con discapacidad auditiva y del habla en todo el territorio del Estado.
+
+Se promoverán en el Estado las estrategias necesarias para que las dependencias contempladas en esta ley, en sus respectivas esferas de competencia, capaciten al personal en cuyas instalaciones se efectúe atención al público, a fin de facilitar la comunicación en lenguaje de señas con las personas con discapacidad auditiva y del habla. Asimismo, se instalarán medios de señalización visual adecuados para el pleno reconocimiento de atención a las mismas.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 31.
+
+El Gobierno del Estado a través de la Secretaría de Educación, con base en sus posibilidades presupuestarias, promoverá la educación con intérpretes para personas sordas y con mudez en los diferentes niveles educativos, de manera que contribuya con la formación integral de dichas personas.
+
+El Sistema DIF de cada municipio, de ser el caso, facilitará el uso de intérpretes para personas con discapacidad auditiva y del habla en actos institucionales que presida el Gobernador del Estado.
+
+Asimismo, se promoverá el derecho de contar con intérpretes para personas con discapacidad auditiva y del habla, en requerimientos del orden civil y judicial.
 
 La Comisión, en coordinación con la Secretaría de Educación, deberá apoyar el proceso educativo de las personas que se encuentren en proceso de rehabilitación en los hospitales públicos y privados.
 
@@ -898,6 +920,12 @@ P.O. 15 DE MARZO DE 2007.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 23 DE DICIEMBRE DE 2008.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
