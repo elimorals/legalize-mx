@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-antes-ley-para-442
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-08"
-last_updated: "2008-02-12"
+last_updated: "2010-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA EQUIDAD DE GENERO EN TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 8 de marzo de 2005.
 
@@ -63,7 +63,9 @@ c) Procedimientos administrativos para la actuación del Instituto, con objeto d
 
 1. En Tamaulipas se prohíbe toda discriminación contra la mujer, motivada por su sexo o por su origen étnico o nacional, edad, estado civil, idioma, cultura, condición social, condiciones de salud, capacidades diferentes, religión, opiniones, preferencias o cualquier otra que atente contra su dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
-2. Las mujeres que por cualquier causa se encuentren en el territorio del Estado, tienen derecho a participar y beneficiarse de los programas, acciones y servicios que se deriven del presente ordenamiento.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+2. Las mujeres que por cualquier causa se encuentren en el territorio del Estado, tienen derecho a participar y beneficiarse de los programas sociales, acciones tendientes a mejorar su calidad de vida y servicios fundamentales que se deriven del presente ordenamiento.
 
 ###### Artículo 4.
 
@@ -139,7 +141,9 @@ i) Negar o condicionar el acceso a cualquier cargo público o el derecho al sufr
 
 j) Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes, incluyendo los relativos al régimen ejidal;
 
-k) Obstaculizar o impedir el acceso a la procuración e impartición de justicia;
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+k) Restringir, impedir o negar el derecho al trabajo;
 
 l) Aplicar cualquier tipo de uso o costumbre que atente contra su dignidad e integridad;
 
@@ -870,3 +874,9 @@ El Presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE FEBRERO DE 2008.
 
 Artículo Unico.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
