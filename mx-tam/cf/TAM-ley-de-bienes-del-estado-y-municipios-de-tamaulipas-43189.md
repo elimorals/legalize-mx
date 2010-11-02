@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bienes-del-estado-y-municipios-de-tamaulipas-43189"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2007-12-27"
+last_updated: "2010-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -429,9 +429,13 @@ IX. Dación en pago por concepto de indemnización, en los términos previstos p
 
 En los contratos de permuta sobre inmuebles del dominio privado estatal o municipal, deberá acreditarse fehacientemente la necesidad de la permuta y el beneficio social que ésta reporta al Estado o al Municipio.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 35.
 
-Si el donatario no utiliza los bienes para el fin señalado dentro de un plazo de un año contado a partir de la entrega material del inmueble o si habiéndolo hecho diere a éste un uso distinto o suspenda sus actividades por más de un año sin contar con la aprobación de la Secretaría de Administración o del Ayuntamiento, según el caso, la donación será revocada y tanto el bien como sus mejoras revertirán de plano a favor de la autoridad donante, previa declaración administrativa.
+Si el donatario no utiliza los bienes para el fin señalado dentro de un plazo de dos años contados a partir de la entrega material del inmueble o si habiéndolo hecho diere a éste un uso distinto o suspenda sus actividades por más de dos años sin contar con la aprobación del Congreso del Estado, la donación será revocada y tanto el bien como sus mejoras revertirán de plano en favor de la autoridad donante, previa declaración administrativa.
+
+Se exceptúa de los plazos señalados en el párrafo anterior los inmuebles cuya donación tengan como finalidad la realización de un proyecto multianual, en cuyo caso el plazo será el establecido para la realización del proyecto.
 
 ###### Artículo 36.
 
@@ -736,6 +740,12 @@ P.O. 8 DE NOVIEMBRE DE 2007.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE DICIEMBRE DE 2007.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
