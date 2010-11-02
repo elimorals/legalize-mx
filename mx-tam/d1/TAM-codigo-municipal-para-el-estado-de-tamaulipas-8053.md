@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2010-01-20"
+last_updated: "2010-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -651,9 +651,9 @@ b).- Se requerirá el acuerdo de las dos terceras partes de los miembros de los 
 
 En los supuestos previstos por este inciso, el acuerdo de Cabildo se remitirá adjunto a la iniciativa que al efecto se presente ante el Congreso del Estado. Igualmente ocurrirá en los casos que se solicite autorización para la aceptación de herencias, legados o donaciones onerosas.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-En los casos de donación condicionada o de comodato, si el beneficiario no destina los bienes para el fin señalado dentro de un año contado a partir de la entrega material del inmueble o si habiéndolo hecho diere a éste un uso distinto o suspenda sus actividades por más de un año, sin contar con la aprobación del Congreso del Estado a solicitud de la Dependencia correspondiente del Poder Ejecutivo o del Ayuntamiento, según el caso, la donación será revocada y tanto el bien como sus mejoras revertirán de plano a favor de la autoridad donante.
+En los casos de donación condicionada o de comodato, si el beneficiario no destina los bienes para el fin señalado dentro de dos años contados a partir de la entrega material del inmueble o si habiéndolo hecho diere a éste un uso distinto o suspenda sus actividades por más de dos años, sin contar con la aprobación del Congreso del Estado, a solicitud del Poder Ejecutivo o del Ayuntamiento, según el caso, la donación será revocada y tanto el bien como sus mejoras revertirán de plano a favor de la autoridad donante.
 
 ###### ARTICULO 52.
 
@@ -3391,7 +3391,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de laPolicía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -3842,3 +3842,9 @@ P.O. 20 DE ENERO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
