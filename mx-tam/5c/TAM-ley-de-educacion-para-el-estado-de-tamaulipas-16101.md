@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2010-10-26"
+last_updated: "2010-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -151,9 +151,17 @@ XVIII.- Promover la participación del individuo en actividades culturales, ecol
 
 XIX.- Favorecer que la educación se oriente hacia la formación de la libertad responsable, para que el educando pueda discernir y optar por los valores, conocimientos, habilidades, aptitudes y actitudes en relación con el bienestar social e individual, de una manera inteligente y ética, con justicia, pertinencia, disciplina y autonomía;
 
-XX.- Fortalecer todos los aspectos de la formación en los que se alcance el conocimiento y la valoración de la persona, su naturaleza y sus fines, y todo lo que para ella valga, como lo es la historia, la economía, la política, lo social, el arte, la ciencia y la tecnología, de manera permanente; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-XXI.- Alentar la participación reflexiva del educando y propiciar oportunidades para el compromiso con el desarrollo de actitudes y acciones éticas.
+XX.- Fortalecer todos los aspectos de la formación en los que se alcance el conocimiento y la valoración de la persona, su naturaleza y sus fines, y todo lo que para ella valga, como lo es la historia, la economía, la política, lo social, el arte, la ciencia y la tecnología, de manera permanente;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+XXI.- Alentar la participación reflexiva del educando y propiciar oportunidades para el compromiso con el desarrollo de actitudes y acciones éticas; y
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+XXII.- Impulsar, en coordinación con la Secretaría de Turismo, la realización de viajes de carácter recreativo que permitan la identificación del individuo con los aspectos fundamentales de nuestra cultura en el Estado y la importancia que reviste la naturaleza, para fomentar el cuidado de las áreas naturales protegidas, la pertenencia y el respeto.
 
 ###### ARTICULO 9°.
 
@@ -1354,6 +1362,12 @@ Este Decreto se publicará en el Periódico Oficial del Estado y entrará en vig
 Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
 
 P.O. 26 DE OCTUBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
