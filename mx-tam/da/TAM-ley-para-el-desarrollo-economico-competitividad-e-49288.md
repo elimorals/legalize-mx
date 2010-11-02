@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2008-06-05"
+last_updated: "2010-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -77,9 +77,17 @@ II. Consejo: el Consejo Estatal para el Desarrollo Económico y la Competitivida
 
 III. Dependencias: las que se señalan en el artículo 23 de la Ley Orgánica de la Administración Pública del Estado;
 
-IV. Entidades: las mencionadas en el Capítulo Cuarto de la Ley Orgánica de la Administración Pública del Estado; y,
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-V. Secretaría: la Secretaría de Desarrollo Económico y del Empleo.
+IV. Entidades: las mencionadas en el Capítulo Cuarto de la Ley Orgánica de la Administración Pública del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+V. Secretaría: la Secretaría de Desarrollo Económico y del Empleo; y
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+VI. Vocación productiva: el uso determinado de una región específica, que ofrece ventajas para el desarrollo sostenible, en función a la inclinación natural a una actividad de su población que es considerada potencialmente productiva.
 
 ###### ARTICULO 3°.
 
@@ -527,6 +535,8 @@ Al adoptarse la determinación suspensiva se otorgará el derecho de audiencia a
 
 DEL APOYO A LAS MICRO, PEQUEÑA Y MEDIANA EMPRESAS.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 27.
 
 Se crea el Fondo Tamaulipas, el cual se integrará con recursos federales, estatales y, en su caso, municipales, teniendo como los objetivos (sic) siguientes:
@@ -555,7 +565,7 @@ Las dependencias promoverán convenios para la utilización de recursos de los G
 
 ###### ARTICULO 29.
 
-Se establece como prioritaria la participación coordinada de los sectores público, privado y social en la promoción, creación, operación y apoyo de la micro, pequeña y mediana empresa, a efecto de aprovechar su potencial y aptitudes en la generación de empleos, nivel de consumo, integración productiva, y la identidad y desarrollo regional.
+Se establece como prioritaria la participación coordinada de los sectores público, privado y social en la promoción, creación, operación y apoyo de la micro, pequeña y mediana empresa, a efecto de aprovechar su potencial y aptitudes en la generación de empleos, nivel de consumo, integración productiva y la identidad y desarrollo regional en el marco de la normatividad ecológica y que estas contribuyan al desarrollo sustentable y equilibrado a largo plazo.
 
 Para los efectos de esta Ley, se entiende por micro, pequeña y mediana empresa, la clasificación que indique la dependencia de la administración pública federal competente.
 
@@ -597,9 +607,17 @@ XVI. Impulsar la realización de talleres, así como brindar consultoría especi
 
 XVII. Fomentar y participar en el desarrollo de parques industriales para la micro, pequeña y mediana empresa, con esquemas preferenciales para su instalación y adquisición de terrenos;
 
-XVIII. Apoyar la elaboración de estudios tendientes a identificar y desarrollar oportunidades de negocios; y,
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-XIX. Identificar, asesorar y promover los productos hechos en Tamaulipas, elaborando estrategias para mejorar su calidad y competitividad, con el fin de incorporarlos a nuevos mercados en los ámbitos estatal, nacional e internacional.
+XVIII. Apoyar la elaboración de estudios tendientes a identificar y desarrollar oportunidades de negocios;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+XIX. Identificar, asesorar y promover los productos hechos en Tamaulipas, elaborando estrategias para mejorar su calidad y competitividad, con el fin de incorporarlos a nuevos mercados en los ámbitos estatal, nacional e internacional; y,
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+XX. El desarrollo de las vocaciones productivas y ventajas comparativas en las diferentes regiones del Estado.
 
 ###### ARTICULO 31.
 
@@ -790,3 +808,9 @@ El presente Decreto entrará en vigor a los 90 días de su publicación en el Pe
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
