@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2010-01-20"
+last_updated: "2010-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -879,7 +879,7 @@ XXIX. Conocer y resolver sobre las solicitudes de licencia que le sean presentad
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
-XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo General del Instituto Electoral de Tamaulipas;
+XXX.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo General del Instituto Electoral de Tamaulipas;
 
 XXXI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2008)
 
@@ -1174,6 +1174,18 @@ Toda propuesta de creación de partidas de gasto o de incremento de las mismas a
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2009)</small>
 
 En la iniciativa de decreto del Presupuesto de Egresos del Estado se incluirán los proyectos de desarrollo e inversión en infraestructura cuya realización requiera de previsiones presupuestales multianuales. La aprobación de las asignaciones presupuestales relativas a dichos proyectos vincula a su inclusión en las asignaciones de gasto público necesarias para su culminación en los subsiguientes presupuestos de egresos.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+Asimismo, dicha iniciativa deberá incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos; en caso de que se omita fijar la remuneración, se entenderá por señalada la que hubiere previsto el Presupuesto anterior o la ley que estableció el empleo.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+Los órganos de poder del Estado, el Ejecutivo, el Legislativo y el Judicial, así como los órganos autónomos reconocidos por esta Constitución, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas se regirán por las previsiones de esta Constitución y las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -2057,7 +2069,7 @@ En las causas que hubieren de formarse a los Magistrados en funciones, una vez q
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-### CAPITULO II. De los Otros Organos de Impartición de Justicia
+### CAPITULO II. De los Otros Órganos de Impartición de Justicia
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -2333,7 +2345,9 @@ Las contribuciones a que se refieren las fracciones I y III no podrán ser objet
 
 Los ayuntamientos, en el ámbito de su competencia, propondrán a la legislatura las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-La legislatura aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+La legislatura aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.
 
@@ -2407,9 +2421,9 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 La educación que impartan el Estado y los Municipios será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-El proceso educativo incorporará la promoción de una actitud consciente sobre la preservación del medio ambiente y la participación de toda persona en su protección, restauración y mejoramiento como elementos para el desarrollo social y económico equilibrado de la sociedad.
+El proceso educativo incorporará la promoción de una actitud consciente sobre la preservación del medio ambiente y la participación de toda persona en su protección, restauración y mejoramiento como elementos para el desarrollo social y económico equilibrado de la sociedad. Así mismo, considerará la educación sexual en los planes y programas de estudio de los tipos básico y medio superior, a fin de formar una actitud responsable en los educandos respecto a todo lo relacionado con la misma.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -2672,6 +2686,26 @@ Ningún ciudadano podrá desempeñar dos cargos de elección popular en el Estad
 ###### Art. 160.
 
 Ningún servidor público percibirá más de un sueldo, excepción hecha de los cargos de Instrucción Pública y Beneficencia.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+Los servidores públicos del Estado, de los Municipios, de las entidades y dependencias, así como de sus administraciones paraestatales y las paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, así como cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividad (sic) oficiales;
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente;
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente;
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado;
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie; y
+
+VI. El Congreso del Estado expedirá la ley para hacer efectivo el contenido del presente artículo; asimismo, realizará las adecuaciones que correspondan para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2009)</small>
 
@@ -3860,6 +3894,30 @@ P.O. 20 DE ENERO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1083, POR EL QUE SE REFORMA EL ARTICULO 133, CUARTO PARRAFO; SE ADICIONAN LOS PARRAFOS CUARTO, QUINTO Y SEXTO AL ARTICULO 70; Y UN SEGUNDO Y TERCER PARRAFOS Y SEIS FRACCIONES AL ARTICULO 160 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las prevenciones que se aprueban con el presente Decreto deberán verse reflejadas en el ejercicio fiscal que iniciará el 1 de enero de 2011. Al efecto, se deberán efectuar los ajustes necesarios a la legislación secundaria para garantizar su cumplimiento.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 180 días naturales siguientes a la entrada en vigor del presente Decreto, se deberán efectuar las reformas que permitan sancionar penal y administrativamente las conductas de los servidores públicos cuya finalidad sea eludir lo dispuesto en el presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1100, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 138 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO QUINTO.
 
