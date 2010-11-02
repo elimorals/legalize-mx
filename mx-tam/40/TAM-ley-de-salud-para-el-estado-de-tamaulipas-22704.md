@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2009-07-07"
+last_updated: "2010-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -607,9 +607,17 @@ VIII.- Conocer o consultar su historia clínica y solicitar copia de la misma;
 
 IX.- Elegir una posición para el trabajo de parto y el parto, que le resulten más convenientes para ella y el producto del embarazo;
 
-X.- Recibir atención sensible con su sistema de valores y de creencias; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-XI.- Ser informada sobre los procedimientos de orientación y quejas con relación a la prestación a (sic) los servicios de salud.
+X.- Recibir atención sensible con su sistema de valores y de creencias;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+XI.- Ser informada sobre los procedimientos de orientación y quejas con relación a la prestación a los servicios de salud; y
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+XII.- Ser informada y acceder al examen de VIH a fin de prevenir la salud de los infantes desde su gestación, siendo el resultado de dicho examen como confidencial.
 
 ###### ARTICULO 31.
 
@@ -715,7 +723,7 @@ III.- Enfermedades infecto-contagiosas como el SIDA, Gonorrea, papiloma y otras 
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
-IV.- Enfermedades no exclusivas de la mujer, pero de mayor frecuencia en ellas, como la osteoporosis, obesidad, anorexia, abulimia, depresión, várices y todas aquéllas que en la mujer tenga alta incidencia.
+IV.- Enfermedades no exclusivas de la mujer, pero de mayor frecuencia en ellas, como la osteoporosis, obesidad, anorexia, abulimia (sic), depresión, várices y todas aquéllas que en la mujer tenga alta incidencia.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -1089,7 +1097,7 @@ IV.- Promover la colaboración de las instituciones de los sectores público, so
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2008)</small>
 
-La Secretaría de Salud realizará acciones de inspección directa en los establecimientos y servicios previstos en la fracción 11del artículo 3° de esta ley, para asegurarse del cumplimiento de las condiciones higiénico-sanitarias previstas en las disposiciones legales, previa solicitud de autorización judicial, cuando el caso lo amerite.
+La Secretaría de Salud realizará acciones de inspección directa en los establecimientos y servicios previstos en la fracción II del artículo 3° de esta ley, para asegurarse del cumplimiento de las condiciones higiénico-sanitarias previstas en las disposiciones legales, previa solicitud de autorización judicial, cuando el caso lo amerite.
 
 ### CAPITULO IV. DE LOS ACCIDENTES
 
@@ -1751,7 +1759,7 @@ Durante la suspensión se podrá permitir el acceso de las personas que tengan e
 
 ###### ARTICULO 148.
 
-El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales establecidos en esta ley. La autoridad sanitaria competente podrá retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen de laboratorio acreditado, cual será su destino.
+El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales establecidos en esta ley. La autoridad sanitaria competente podrá retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen de laboratorio acreditado, cuál será su destino.
 
 Si el dictamen indicara que el bien asegurado no es nocivo, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para el cumplimiento de los requisitos omitidos o de lo contrario se entenderá que el aseguramiento causa abandono y se aprovechará lícitamente.
 
@@ -2494,6 +2502,12 @@ P.O. 11 DE JUNIO DE 2008.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE JULIO DE 2009.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
