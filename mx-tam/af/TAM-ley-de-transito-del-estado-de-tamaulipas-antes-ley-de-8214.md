@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2007-03-13"
+last_updated: "2010-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -43,71 +43,117 @@ LEY DE TRANSITO Y TRANSPORTE
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 1º.
 
-Esta Ley es de observancia general y de interés público y establece las normas que rigen el Servicio Público de Transporte y el Tránsito de Peatones, Semovientes y Vehículos en las vías públicas del Estado.
+La presente ley es de orden público, observancia obligatoria e interés general en el Estado de Tamaulipas.
+
+Constituye su objeto la regulación y control del uso de las vialidades comprendidas en el Estado y sus municipios, derivado del tránsito de vehículos automotores, de tracción animal o humana y de peatones, para garantizar la seguridad de éstos y de los conductores y pasajeros.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 2º.
 
-Para los efectos de esta Ley, se entiende por vía pública todo espacio de dominio público y de uso común, que por disposición de la autoridad o por la necesidad del servicio, esté destinado al tránsito de peatones, semovientes o vehículos.
+Para los efectos de esta ley, se entiende por vía pública, todo espacio público de uso común y espacio privado de acceso público, que esté destinado al tránsito de personas, vehículos o semovientes.
+
+Asimismo, se entenderá por:
+
+a) Agente de Tránsito.- El servidor público a cargo de la vigilancia del tránsito de vehículos y personas, en su calidad de Policía Preventivo de Tránsito, en términos de la Ley de Seguridad Pública para el Estado de Tamaulipas.
+
+b) Infracción.- Es la consecuencia directa e inmediata, imputable a un conductor, peatón o pasajero que trasgreda alguna disposición de Tránsito, por la que le deriva una sanción.
+
+c) Pasajero.- Persona que se encuentra a bordo de un vehículo automotor y no es el conductor.
+
+d) Peatón.- Persona que transita, a pie o con la ayuda de algún artefacto de uso personal, por la vía pública o zonas privadas con acceso al público.
+
+e) Secretaría.- La Secretaría de Seguridad Pública.
+
+f) Zona privada de acceso público.- Son todos aquéllos sitios en los que aún siendo propiedad privada, es factible que pueda transitar por éste cualquier persona o vehículo automotor, de tracción humana o animal, incluidos los accesos, estacionamientos, camellones, glorietas, puentes, banquetas y toda aquélla obra de infraestructura o instalación que sea susceptible de favorecer el tránsito de vehículos o personas, ya sea en tiendas departamentales, de autoservicio o en colonias, fraccionamientos o asentamientos humanos de índole reservada o privada.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 3º.
 
-El Gobernador del Estado es la autoridad facultada para dictar y aplicar las medidas necesarias para la consecución de los fines de ésta Ley, las que se ejercerá directamente o a través de la Secretaría de Seguridad Pública del Estado.
+La aplicación de la presente ley compete al titular del Ejecutivo del Estado por conducto de la Secretaría de Seguridad Pública por cuanto hace a la competencia estatal; y a los Ayuntamientos del Estado, por conducto de las áreas encargadas de la seguridad pública, conforme a sus propias atribuciones y circunscripción.
+
+Al efecto, al titular del Ejecutivo del Estado le compete:
+
+I. Establecer y ejecutar los lineamientos de tránsito y vialidad en los caminos y carreteras de circunscripción estatal;
+
+II. Transmitir a las autoridades municipales de tránsito, las órdenes y disposiciones que correspondan en términos del segundo párrafo del artículo 136 de la Constitución Política del Estado de Tamaulipas;
+
+III. Celebrar convenios con los municipios del Estado, con otros Estados o con la Federación, para el mejor cumplimiento de esta ley; y
+
+IV. Las demás atribuciones que ésta y otras disposiciones legales le asignen;
+
+A los Ayuntamientos del Estado les compete:
+
+I. Organizar y ejercer, en los términos de la Constitución General de la República, la propia del Estado de Tamaulipas y de esta ley, la función pública de tránsito y vialidad;
+
+II. Aprobar, en términos constitucionales y legales, los reglamentos, circulares y demás disposiciones legales de observancia general en materia de tránsito y vialidad, de aplicación en su propia circunscripción. Al efecto, considerará las circunstancias que imperen en su circunscripción, los medios y recursos para su atención responsable y la implementación de los dispositivos que considere necesarios para ello, tratando de privilegiar el orden y la seguridad de sus habitantes;
+
+III. Emitir los manuales y reglamentos internos de tránsito municipal que considere necesarios;
+
+IV. Establecer y ejecutar los lineamientos de tránsito y vialidad en las vías públicas de comunicación de su circunscripción;
+
+V. Celebrar convenios con la Federación, con el Estado u otros municipios del Estado o de otros Estados, cumpliendo los términos constitucionales o legales que correspondan, para el mejor cumplimiento de esta ley o de sus disposiciones reglamentarias municipales; y
+
+VI. Las demás atribuciones que ésta y otras disposiciones legales les asignen.
 
 ###### ARTICULO 4º.
 
 Cuando en este ordenamiento se utilice la palabra Secretaría, se refiere a la de Seguridad Pública del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 5º.
 
-Son autoridades de Tránsito y Vialidad en el Estado de Tamaulipas:
+Son autoridades de Tránsito:
 
 I.- El Gobernador del Estado;
 
 II.- El Secretario de Seguridad Pública;
 
-III.- Los Sub-Secretarios Técnico y Operativo;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-IV.- El Director de Tránsito y Vialidad;
+III.- Los Ayuntamientos del Estado, por cuanto hace a sus atribuciones propias y su circunscripción;
 
-V.- El Director de Transporte Público;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-VI.- Los Delegados de Tránsito en los Municipios, dentro del ámbito de sus respectivas jurisdicciones;
+IV.- Los Directores de Seguridad Pública Municipal;
 
-VII.- Los peritos de Tránsito; y,
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-VIII.- El Cuerpo de la Policía de Tránsito.
+V.- Los Directores o Delegados de Tránsito en los Municipios;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+VI.- Los Peritos de Tránsito;
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+VII.- Los Agentes de Tránsito; y
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+VIII.- Las demás que con ese carácter prevean las disposiciones reglamentarias de la materia.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 6º.
 
-Los Ayuntamientos, dentro del ámbito de su jurisdicción y competencia, tendrán las atribuciones que les asignen los Acuerdos de Coordinación, que para ese efecto celebren con el Gobierno del Estado.
+Los Ayuntamientos, dentro del ámbito de su circunscripción y competencia, ejercerán las atribuciones que les confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Tamaulipas, el Código Municipal para el Estado de Tamaulipas, esta ley, y las demás disposiciones legales, acuerdos o convenios que celebren con apego a la ley.
+
+En el desempeño de sus atribuciones reglamentarias, darán satisfacción a los requisitos que establece esta ley y las demás disposiciones de carácter municipal para la validez de sus reglamentos.
+
+Estos contendrán, entre otras, las previsiones que regulen y faciliten el tránsito seguro y responsable de los peatones y automovilistas.
+
+Al efecto, preveerán (sic) aquéllas disposiciones que resulten necesarias para cumplir el propósito de privilegiar la seguridad de las personas, el fortalecimiento y desarrollo de la cultura cívica y del respeto en la circulación y conducción de automotores, y de todas aquéllas disposiciones que garanticen el cumplimiento de la responsabilidad civil en caso de daños, lesiones o muerte con motivo del tránsito de vehículos.
 
 ###### ARTICULO 7º.
 
-Son atribuciones de la Secretaría, en materia de Transporte, Tránsito y Vialidad:
-
-I.- Vigilar el cumplimiento de esta Ley;
-
-II.- Organizar la vialidad en el Estado;
-
-III.- Proponer al Titular del Poder Ejecutivo para que éste en cada caso, otorgue y/o cancele permisos y concesiones para la prestación de servicio de transporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal, incluyendo en este contexto el servicio público para transportación de pasaje en los distintos municipios de la Entidad, recabando cuando lo estime conveniente, opinión de los Ayuntamientos y publicar en el Periódico Oficial del Estado los acuerdos que al respecto así correspondan;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-IV.- Aprobar las tarifas del servicio público de transporte de pasajeros;
-
-V.- Elaborar y expedir láminas de identificación y los documentos relacionados con la circulación de los vehículos;
-
-VI.- Proponer al Titular del Ejecutivo la tarifa de multas y aplicarla, por infracciones a esta Ley y su Reglamento;
-
-VII.- Proponer al Gobernador del Estado la celebración de convenios de coordinación en la materia con autoridades federales, con las de otros Estados o con los Municipios de la Entidad;
-
-VIII.- Vigilar la circulación de peatones, semovientes y vehículos;
-
-IX.- Prevenir los riesgos propios de la circulación de peatones, semovientes y vehículos;
-
-X.- Las demás que esta Ley y otros ordenamientos le señalen.
+(DEROGADO, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ### CAPITULO II. DE LOS VEHICULOS
 
@@ -121,7 +167,9 @@ II.- Por su tipo; y,
 
 III.- Por el servicio que prestan.
 
-El reglamento de esta Ley determinará los que correspondan a cada una de estas categorías.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+Las disposiciones reglamentarias estatales o las de los municipios, establecerán lo que corresponda a cada categoría.
 
 ###### ARTICULO 9º.
 
@@ -147,9 +195,11 @@ Cualquier alteración de los documentos del vehículo, será sancionada de acuer
 
 Es obligación de las autoridades de tránsito poner a disposición de la Dependencia correspondiente, todo vehículo del que no se acredite la legítima propiedad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 15.
 
-La Secretaría expedirá los tipos de placas siguientes:
+Las placas vehiculares que expida la dependencia competente del Ejecutivo estatal podrán ser:
 
 I.- Para servicio particular;
 
@@ -175,17 +225,21 @@ Los conductores de los vehículos de transporte de pasajeros, deberán guardar l
 
 Se consideran pasajeros a las personas que aborden vehículos del servicio público de transporte para trasladarse de un lugar a otro, mediante pago de la tarifa autorizada.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 19.
 
-Tendrán el carácter de conductores las personas autorizadas por la Secretaría para operar y conducir los vehículos y motocicletas a que se refiere este ordenamiento, debiendo cumplir con los siguientes requisitos:
+Tendrán el carácter de conductores las personas que habiendo demostrado conocimiento y habilidades para operar y conducir un vehículo automotor, han sido autorizados para ello mediante la expedición del documento que lo acredite, estando obligados a cumplir esta ley y las disposiciones reglamentarias de la materia.
 
-I. Contar con dieciocho años cumplidos al momento de la solicitud; los mayores de dieciséis años podrán obtener licencia provisional previo escrito de los padres o tutores, por el que expresen su aceptación de responsabilidad civil solidaria, así como la presentación de original y copia para cotejo de la póliza de seguro de daños a terceros;
+El Estado y los Municipios se coordinarán para la realización de los exámenes de pericia y de conocimientos a que se refiere este artículo, a través de las oficinas estatales o municipales que correspondan.
 
-II. Acreditar el curso de manejo teórico y práctico, que establezca el Reglamento; y
+Al efecto, se deberá cumplir con los siguientes requisitos:
 
-III. Llenar el formulario relativo a la donación de órganos, y en caso de aceptar se hará constar en la licencia de manejo correspondiente con la leyenda, “DONADOR ALTRUISTA DE ORGANOS”.
+I. Tener dieciocho o más años de edad al momento de solicitar la expedición de la licencia. Los mayores de dieciséis años podrán obtener licencia para conducir y operar vehículos automotores, previo escrito de los padres o representantes legales, mediante el cual expresen su aceptación de la responsabilidad civil solidaria;
+
+II. Acreditar el curso de manejo teórico y práctico en términos del presente artículo y de lo que establezca el Reglamento correspondiente; y
+
+III. Igualmente, se consultará al interesado si es su intención registrase como donador de órganos. En caso afirmativo, se procederá a asentar tal circunstancia en el documento oficial que se expida, y se contestará el formulario para dichos efectos, dándose cuenta de ello a la instancia estatal competente.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -217,7 +271,9 @@ c).- Evidente Estado de Ebriedad: cuando a través de los sentidos por las manif
 
 II. Conducir usando dispositivos de comunicación, tales como radios, teléfonos celulares y otros, que disminuyen la habilidad y capacitad de reacción al conductor de un vehículo, impidiendo la máxima seguridad en la conducción de los vehículos automotores; y
 
-III. Conducir llevando en sus manos, brazos o regazo, a personas, animales o bultos.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+III. Conducir llevando en sus manos, brazos o regazo, a personas, animales o bultos. Asimismo, maquillándose o desmaquillándose, hacer uso de aparatos de comunicación celular, satelital o de radio comunicación, ya sea en su uso básico o en cualquier otra función de que esté previsto el sistema de éste; así como las demás prohibiciones que prevean las normas reglamentarias estatales o municipales correspondientes.
 
 ###### ARTICULO 20.
 
@@ -225,341 +281,239 @@ Queda prohibida la circulación de vehículos que constituyan peligro para sus c
 
 ### CAPITULO IV. DE LA REVISION MECANICA
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 21.
 
-La Secretaría, a través de sus delegaciones en los Municipios, efectuará la revisión mecánica de los vehículos.
+Todo vehículo automotor que circule en el territorio estatal de manera provisional o permanente, excepto aquellos del Servicio Público Federal, deberá acreditar que se encuentra en condiciones apropiadas de uso mediante revisión mecánica.
+
+La administración pública estatal proveerá de los establecimientos oficiales adecuados al efecto. Los ayuntamientos a su vez, podrán instalar los establecimientos de verificación mecánica de vehículos automotores, en la medida de sus posibilidades presupuestales y mediante acuerdo con las instancias estatales que correspondan.
+
+Se entenderá que un vehículo automotor circula de manera provisional en el territorio estatal, si permanece por seis o más meses en el territorio estatal.
+
+Independientemente de lo anterior, todo vehículo automotor que circule por las vías públicas en el Estado y sus municipios, deberá contar y portar en el vehículo, con póliza de seguro vigente para responder de los daños a terceros, en su persona o bienes, que con motivo del uso de un vehículo automotor pudiera producirse a usuarios, peatones, conductores o terceros, en su persona o patrimonio.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 22.
 
-La revisión mecánica se efectuará anualmente, en los términos señalados por el Reglamento.
+La revisión mecánica de vehículos automotores se efectuará cada año a los de modelo de cinco o más años de antigüedad. Las disposiciones reglamentarias establecerán los procedimientos para el debido cumplimiento de este artículo.
 
 ###### ARTICULO 23.
 
 Los propietarios de vehículos acreditarán la revisión mecánica de éstos, a través de la calcomanía respectiva o su equivalente.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 24.
 
-Los vehículos que no reúnan los requisitos exigidos por esta Ley y su Reglamento, serán retirados de la circulación.
+Los vehículos automotores que no reúnan los requisitos para su uso, serán retirados de la circulación hasta en tanto superen las deficiencias o carencias mecánicas para su buen uso.
 
 ### CAPITULO V. DEL ESTACIONAMIENTO DE VEHICULOS
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 25.
 
-La Secretaría, en coordinación con el Ayuntamiento respectivo, determinará las condiciones y forma en que deban ser estacionados los vehículos en la vía pública, en consideración al interés social estableciendo medidas para que sean respetados los cajones de estacionamiento señalados para conductores discapacitados.
+Previo estudio que se realice, los Ayuntamientos determinarán las condiciones y forma en que deben ser estacionados los vehículos automotores en la vía pública, considerando el interés social, el orden y la armónica convivencia, privilegiando los espacios para discapacitados.
 
 ###### ARTICULO 26.
 
 Los vehículos estacionados en lugares prohibidos o que obstaculicen el libre tránsito, se retirarán por las autoridades competentes, trasladándolos a lotes oficiales.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 27.
 
-La Secretaría podrá otorgar concesiones a los particulares, para que establezcan estacionamientos y pensiones de vehículos en terrenos de propiedad privada, cuando lo requiera el interés público y cumplan las condiciones de seguridad e higiene.
+Los Ayuntamientos, a través de la dependencia competente, podrán autorizar a los particulares el establecimiento de pensiones o estacionamientos de vehículos en propiedad privada, cumpliendo previamente con las normas de seguridad e higiene y demás disposiciones legales correspondientes.
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO VI. DEL SERVICIO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 28.
 
-Corresponde al Estado la prestación del servicio público de transporte, el cual podrá concesionarlo a los particulares en los casos y con las condiciones que esta Ley señala, estableciendo las modalidades que dicte el interés público.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 29.
 
-El Servicio Público de Transporte Urbano, Suburbano y Foráneo podrá ser:
-
-I.- De pasajeros;
-
-II.- De carga; y,
-
-III.- Mixto.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 30.
 
-Servicio Público de Transporte de Pasajeros y de Carga, es aquel que se presta regular y uniformemente en las vías públicas de jurisdicción Estatal mediante una retribución de los usuarios.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 31.
 
-La concesión o permiso del servicio público de transporte de pasajeros, estará sujeta a la ruta, itinerarios, horarios, tarifas, modalidades y restricciones que determine el Reglamento.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 32.
 
-Las concesiones y/o permisos para el servicio público de transporte, se ajustarán a las siguientes modalidades:
-
-I.- De personas:
-
-a).- Arrendamiento de vehículos sin chofer;
-
-b).- Vehículos de sitio;
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-c).- Vehículos de alquiler libres;
-
-d).- Vehículos de ruta; y
-
-e).- Servicio exclusivo de turismo.
-
-II.- De carga:
-
-a).- Servicio de carga en general;
-
-b).- Servicio express; y
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-c).- Vehículos en arrendamiento.
-
-d).- Servicio especial.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 33.
 
-Las concesiones o permisos para el Servicio Público de Transporte se otorgarán en favor de aquellas personas físicas o morales mexicanas que garanticen una mejor prestación del servicio y se obliguen a respetar la autonomía del usuario para que realice la contratación correspondiente.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 34.
 
-Ninguna persona física podrá disfrutar de más de tres concesiones, sea en el mismo o en diferente servicio.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 35.
 
-Quedan prohibidas las transferencias de concesiones y/o permisos a personas o Sociedades de rutas distintas, o de una población a otra.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 36.
 
-El Gobernador del Estado podrá otorgar concesiones y/o permisos del Servicio Público de Transporte, cuando se reúnan los requisitos siguiente:
-
-I.- Que los estudios técnicos y económicos efectuados por la Secretaría, declaren la existencia de una necesidad de transporte y su satisfacción mediante la prestación del servicio a que se refiera;
-
-II.- Que los interesados formulen la solicitud correspondiente, que se garantice la prestación del servicio y se cumplan los demás requisitos previstos en el Reglamento;
-
-III.- Que la Secretaría declare justificada la aptitud legal y material del solicitante para la prestación del servicio.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 37.
 
-El acuerdo por el cual se otorga una concesión o un permiso de Servicio Público de Transporte, deberá publicarse en el Periódico Oficial del Estado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 38.
 
-Las personas físicas o morales que realicen el servicio de transporte en las modalidades de escolar, de funeraria, de carga o de personal, con vehículos de su propiedad, para la satisfacción de sus necesidades, sólo requerirán de autorización expedida por el Titular de la Secretaría, debiendo acreditar para tal caso, que sus vehículos se encuentran provistos de los equipos y dispositivos para garantizar una eficiente prestación del servicio y que además, reúnen los requisitos de seguridad e higiene previstos en esta Ley y su Reglamento.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO VII. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONCESIONARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 39.
 
-La concesión o permiso del servicio público de transporte otorga a su titular los derechos siguientes:
-
-I.- Operar el servicio público en las condiciones y modalidades autorizadas;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-II.- Cobrar a los usuarios la retribución correspondiente por la prestación del servicio, en los términos señalados por la Ley;
-
-III.- Participar en la Comisión Consultiva de Tránsito y Transporte, cuando para ello sea convocado por el Coordinador General.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 40.
 
-Son obligaciones de los Concesionarios del Servicio Público de Transporte, las siguientes:
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
-I.- Prestar el servicio en las condiciones y modalidades de la concesión;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-II.- Respetar las tarifas, horarios, rutas e itinerarios aprobados por la Secretaría, para el servicio público de transporte de pasajeros;
-
-III.- Conservar los vehículos, terminales e instalaciones accesorias en condiciones que garanticen la seguridad, funcionalidad e higiene;
-
-IV.- Cubrir a los usuarios y a los terceros, los daños que se les pudiera causar con la prestación del servicio;
-
-V.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1993)
-
-VI.- Otorgar las facilidades necesarias a las autoridades de la Secretaría, en la inspección de vehículos, instalaciones y documentos relacionados con la concesión.
-
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO VIII. DE LA SUSPENSION Y CANCELACION DE LICENCIAS, CONCESIONES Y PERMISOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
 ###### ARTICULO 41.
 
-Las concesiones o permisos de servicio público de transporte se cancelarán por el Titular del Poder Ejecutivo por las siguientes causas:
-
-I.- Por transferir la concesión sin autorización de la Secretaría;
-
-II.- Por carecer de los vehículos, instalaciones y accesorios previstos en esta Ley y su Reglamento;
-
-III.- Por no iniciar la prestación del servicio dentro del plazo que fije la autoridad;
-
-IV.- Por no cumplir con las condiciones y modalidades en la prestación del servicio, establecidas en la concesión;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-V.- Por no reunir los vehículos los requisitos exigidos por esta Ley y su Reglamento, para garantizar una eficiente prestación del servicio;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-VI.- Por no sujetarse a las tarifas e itinerarios autorizados para el servicio público de transporte de pasajeros;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-VII.- Por interrumpir la prestación del servicio concesionado durante treinta días, sin causa justificada, acumulados dentro de un período de ciento ochenta días;
-
-VIII.- Por modificar sin autorización las características señaladas en la concesión o permiso;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-IX.- Por conducir el concesionario el vehículo utilizado para la prestación del servicio en estado de ebriedad o bajo la influencia de estupefacientes, drogas o sustancias similares; o permitir que se conduzca de manera reiterada en las mismas condiciones;
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-X.- Por conducir o permitir que se conduzca el vehículo utilizado en la prestación del servicio con exceso de velocidad en forma reiterada, según criterio de la Secretaría. Para este efecto, la Secretaría recabará las boletas de infracción correspondientes para integrar los expedientes respectivos; o,
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-XI.- Impedir, por vías de hecho, la autonomía de los usuarios en la contratación de los servicios que requieran o, interrumpir el libre tránsito de vehículos o personas;
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 42.
 
-Los permisos se cancelarán:
-
-I.- Por el incumplimiento de las condiciones y modalidades exigidas para su otorgamiento; y
-
-II.- Por las causas previstas en el Artículo 41, que sean aplicables.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 43.
 
-Procede la suspensión de licencia, concesión o permiso hasta por un término de 1 a 6 meses a juicio de la Secretaria:
-
-I.- Por conducir o permitir que se conduzca el vehículo utilizado en la prestación del servicio con exceso de velocidad;
-
-II.- Por permitir que se conduzca el vehículo utilizado para la prestación del servicio de Transporte, en estado de ebriedad o bajo la influencia de estupefacientes, drogas o sustancias similares;
-
-III.- Al que habiendo cometido una infracción se dé a la fuga.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 44.
 
-Para la cancelación de una concesión o permiso, se observará el procedimiento siguiente:
-
-I.- La Secretaría deberá notificar al concesionario o permisionario las causas que motivan la iniciación del procedimiento, citándolo a una audiencia de pruebas y alegatos, con el apercibimiento de que en caso de que no comparezca sin motivo justificado, se le tendrán por ciertas las causas de cancelación materia del procedimiento.
-
-II.- La Secretaría valorará las pruebas aportadas y en un término de 10 días hábiles emitirá el Proyecto de resolución, turnándolo de inmediato al Ejecutivo para su sanción correspondiente.
-
-III.- El Ejecutivo, en caso de encontrar procedente la cancelación, emitirá el Acuerdo respectivo, ordenando la notificación al interesado y su publicación en el Periódico Oficial del Estado.
-
-Contra el Acuerdo que decrete la cancelación de la concesión o permiso no procede recurso alguno.
-
-La determinación que cancele una concesión o permiso, se decretará sin perjuicio de que se sancionen otras infracciones en que hayan incurrido los prestadores del servicio.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 45.
 
-El Estado tendrá en todo tiempo la facultad de prestar el servicio público de transporte, cuando así lo exija el interés social.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DEL 12 DE FEBRERO DE 2002]</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO IX. DE LAS COMISIONES CONSULTIVAS DEL TRANSPORTE
 
 ###### ARTICULO 46.
 
-En aquellos Municipios en los que lo requiera el interés público, se creará una Comisión Consultiva de Tránsito y Transporte, como un organismo técnico y de consulta que promueva la participación social en la consecución de los fines que esta Ley establece.
-
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 47.
 
-Cada comisión se integrará por un Coordinador General, que será el Presidente Municipal; un representante del Gobierno del Estado, designado por el Ejecutivo; un representante de la Secretaría; un representante de la Secretaría de Desarrollo Económico y del Empleo, un representante de la Secretaría de Turismo; un representante de la Secretaría de Finanzas, y el número de representantes de los usuarios y de los concesionarios o permisionarios del servicio público del transporte, que determine la Secretaría.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 48.
 
-Las Comisiones Consultivas de Tránsito y Transporte tendrán las atribuciones siguientes:
-
-I.- Realizar los estudios y emitir su opinión ante las autoridades competentes, en relación a las tarifas, rutas e itinerarios del Servicio Público de Transporte.
-
-II.- Promover programas y campañas sobre educación vial, a fin de fomentar la conciencia ciudadana para la estricta observancia de esta Ley y su Reglamento.
-
-III.- Recibir y canalizar ante las autoridades competentes, las quejas de la comunidad por anomalías de las autoridades de Tránsito; y
-
-IV.- Las demás que a juicio de la Comisión Consultiva cumplan con sus objetivos, siempre que no contravengan las disposiciones de esta Ley y su Reglamento.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
 
 ### CAPITULO X. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 49.
 
-Al infractor de la presente Ley y su Reglamento se le aplicará, de acuerdo con la gravedad, cualquiera de las sanciones siguientes:
+Al infractor de la presente ley o de las disposiciones reglamentarias del Estado o las de los municipios, según sea el caso, se deriven se le podrá aplicar, de acuerdo a la gravedad de la falta, una o varias de las sanciones siguientes: (sic)
 
-I.- Amonestación;
+I. Suspensión, cancelación o retiro de licencia de conducir.
 
-II.- Multa;
+II. Detención del vehículo automotor y su remisión a las instituciones de resguardo que correspondan.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+III. Amonestación o apercibimiento.
 
-III.- Suspensión de licencia, concesión o permiso;
+IV. Multa.
 
-IV.- Cancelación de permiso, concesión o de licencia; o
+V. Arresto hasta por 36 horas.
 
-V.- Arresto hasta por 36 horas.
+VI. Trabajo a favor de la comunidad.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-Con excepción de lo señalado en la fracción IV, las sanciones serán determinadas y aplicadas por la Secretaría.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
-
-ARTICULO 49 BIS.- Se impondrán las siguientes sanciones:
+ARTICULO 49 BIS.- Sin demérito del ejercicio de las atribuciones reglamentarias de los Ayuntamientos del Estado por cuanto hace a su circunscripción, así como la especificación de diversas infracciones, considerarán como mínimo las sanciones previstas en este artículo por las acciones referidas, pudiendo incrementarlas si así lo consideran, pero en ningún caso serán inferiores a lo aquí establecido. Al efecto, por las siguientes conductas se impondrán las siguientes sanciones:
 
 I. Multa equivalente a:
 
-a).- Diez salarios mínimos vigente en la Capital del Estado, al menor de dieciocho años que conduzca vehículos de motor o motocicletas y no cuente con la licencia de manejo correspondiente, quien será remitido a la autoridad correspondiente, la que deberá hacer del conocimiento de los padres o tutores, quienes ejerzan la patria potestad o tengan la custodia, de la infracción cometida y la sanción correspondiente;
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-b).- Un salario mínimo vigente en la Capital del Estado, a quien infrinja lo establecido en los artículos 19 Bis y 19 Ter, fracciones II y III, la cual no podrá ser condonada ni reducida;
+a).- Desde dos días de salario mínimo vigente en la Capital del Estado, al menor de dieciocho años que conduzca vehículos de motor o motocicletas y no cuente con la licencia de manejo correspondiente, quien será remitido a la autoridad competente, la que deberá hacer del conocimiento de los padres o tutores, o de quienes ejerzan la patria potestad o tengan la custodia, de la infracción cometida y la sanción correspondiente;
 
-c).- De diez a veinte días salario mínimo vigente en la Capital del Estado, a quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) la cual no podrá ser condonada ni reducida, igual multa a los menores de dieciocho años, que cuenten con licencia provisional e infrinjan lo establecido en este artículo, los que serán remitidos a la autoridad correspondiente quien deberá hacer del conocimiento de los padres o tutores, o quienes ejerzan la patria potestad o la custodia, de la infracción cometida y la sanción correspondiente. Los padres serán responsables solidarios por el pago de la multa impuesta; y,
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-d).- Diez salarios mínimos vigente en la Capital del Estado, a quien se estacione en lugar exclusivo para discapacitados, sin acreditar fehacientemente por el conductor o alguno de sus ocupantes se encuentra en el supuesto, la cual no podrá ser condonada ni reducida;
+b).- Desde un salario mínimo vigente en la Capital del Estado, a quien infrinja lo establecido en los artículos 19 Bis y 19 Ter, fracciones II y III, la cual no podrá ser condonada ni reducida;
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+c).- Desde cincuenta días de salario mínimo vigente en la Capital del Estado, a quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) la cual no podrá ser condonada ni reducida, igual multa a los menores de dieciocho años, que cuenten con licencia provisional e infrinjan lo establecido en este artículo, los que serán remitidos a la autoridad correspondiente quien deberá hacer del conocimiento de los padres o tutores, o de quienes ejerzan la patria potestad o la custodia, de la infracción cometida y la sanción correspondiente. Los padres serán responsables solidarios por el pago de la multa impuesta; y,
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+d).- Desde diez días de salario mínimo vigente en la Capital del Estado, a quien se estacione en lugar exclusivo para discapacitados, sin acreditar fehacientemente que el conductor o alguno de sus ocupantes se encuentra en ese supuesto, sanción que no podrá ser condonada ni reducida.
 
 II. Suspensión de licencia:
 
-a).- Por orden de las autoridades competentes;
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-b).- Por infracciones cometidas en forma reiterada a ésta ley o a su reglamento; y,
+a).- Por orden de autoridad competente;
 
-c) Hasta por tres meses a quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos b) y c), de esta ley.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+b).- Por la acumulación de infracciones cometidas en forma reiterada a esta ley o a su reglamento, ya sea estatal o el de algún municipio; y
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+c).- A quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos b) y c), de esta ley, o sus colectivos en el Reglamento estatal o municipal de que se trate, pudiendo suspenderse hasta por tres meses, independientemente de otras infracciones a que se haga acreedor.
 
 III. Cancelación de licencia:
 
-a).- Por orden de las autoridades competentes; y,
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-b).- A los menores de dieciocho años por infracción a lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) de esta ley, la que podrá solicitar nuevamente hasta su mayoría de edad, siempre y cuando haya transcurrido por lo menos un año posterior a la sanción;
+a).- Por orden de autoridad competente; y,
 
-IV. Arresto administrativo, de 8 hasta 36 horas, a quien infrinja lo establecido en el artículo 19 Ter, fracción I incisos b) y c), de esta ley, en caso de reincidencia el arresto mínimo será de dieciséis horas.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+b).- A los menores de dieciocho años por la infracción a lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) de esta ley, o sus relativos en el Reglamento estatal o municipal de que se trate, la que podrá solicitar nuevamente hasta su mayoría de edad, siempre y cuando haya transcurrido por lo menos un año posterior a la sanción.
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+IV.- Arresto administrativo de 8 hasta por 16 horas, a quien infrinja lo establecido en el artículo 19 Ter, fracción I incisos b) y c), de esta ley; en caso de reincidencia el arresto mínimo será de 16 a 36 horas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE NOVIEMBRE DE 2010)</small>
+
+V.- Trabajo a favor de la comunidad. Esta sanción se impondrá en jornadas máximas de 8 horas, sin afectar horarios de escuela o de labores, si se tratara de estudiantes o trabajadores, respectivamente.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 50.
 
-Queda prohibido a las autoridades de Tránsito, con motivo de las infracciones a esta Ley o a su Reglamento, retener las placas de circulación, la licencia de conducir o el vehículo.
+Queda prohibido a las autoridades de Tránsito, con motivo de las infracciones a esta ley o las demás disposiciones reglamentarias de la materia, estatales o municipales, retener las placas de circulación de los vehículos automotores.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1993)</small>
-
-La Secretaría podrá retener la licencia, las placas o el vehículo, a los concesionarios o permisionarios que cometan infracciones señaladas en esta Ley o su Reglamento.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 51.
 
-El Ejecutivo del Estado deberá expedir la tarifa de multas por infracciones a esta Ley y su Reglamento, la cual podrá ser modificada cuando así lo requiera el interés público.
+Sin demérito del monto de tarifas que por multa prevé esta ley a los infractores de la misma, los Ayuntamientos determinarán los montos que correspondan a las infracciones de sus propias disposiciones reglamentarias.
+
+En el ejercicio de sus atribuciones reglamentarias privilegiarán el cumplimiento de los preceptos constitucionales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -698,3 +652,17 @@ DECRETO No. LIX-698
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo previsto en el último párrafo del artículo 21 de la Ley de Tránsito y Transporte que se modifica a través de este Decreto, se ejecutará en los términos y previsiones que dispongan los reglamentos de la materia que al efecto expidan los Ayuntamientos del Estado.
+
+###### ARTÍCULO TERCERO.
+
+La dependencia estatal correspondiente y los Ayuntamientos de la entidad preveerán (sic) los mecanismos de comunicación que favorezcan el adecuado cumplimiento de las previsiones de esta ley. Asimismo, intercambiarán la información que se requiera en dicho propósito.
