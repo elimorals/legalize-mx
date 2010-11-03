@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2010-10-28"
+last_updated: "2010-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -127,11 +127,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el artículo 176 penúltimo párrafo; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionado res, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en el artículo 205 primero y segundo párrafos, el de pornografía de menores e incapaces contenido en el artículo 206 párrafos quinto y sexto y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274; el de robo contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V y XVI y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: El cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V; el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110; el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V, X y 137 fracción II; el de peculado señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros señalado en el artículo 148 párrafo segundo; el de encubrimiento previsto en el artículo 152 párrafo segundo; el de falso testimonio contenido en las fracciones III y IV del artículo 156; el de evasión a que se refiere el artículo 160; el delito de falsificación de documentos previsto en el artículo 170 fracción II; el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174; el delito de usurpación de funciones públicas o de profesiones prevista en el articulo 176 penúltimo párrafo; el de delincuencia organizada, previsto en el artículo 178; los delitos cometidos por fraccionadores, señalados en el artículo 189; el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195; el de corrupción de menores, señalado en el artículo 205 primero y segundo párrafos, el de pornografía de menores e incapaces contenido en el artículo 206 párrafos quinto y sexto y 208; el de lenocinio y trata de personas, previstos en los artículos 209 y 210; el tráfico de menores, contemplado en el artículo 219; el de cremación de cadáver señalado en el artículo 225; el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230; el de lesiones que señala el artículo 238 fracción V; el de homicidio, contenido en el artículo 241; el de secuestro, señalado por el artículo 259; el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el de extorsión contenido en el último párrafo del artículo 266; el asalto a una población a que se refiere el artículo 267; el de trata de personas contemplado en el artículo 268 bis; el de violación, señalado por los artículos 273 y 274; el de robo contenido en los artículos 290 fracciones I en su tercer párrafo, II, III, IV, V, XVI y XVII, y 292; el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV; el de despojo a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto; y el de daño en los bienes, señalado en el artículo 311; y, en su caso, su comisión en grado de tentativa como lo establece este código, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -3121,7 +3121,7 @@ Son circunstancias que agravan la penalidad en el delito de robo y se sancionar�
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
 
-I.- Cuando se cometa con violencia, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado sin que exceda de mil días multa.
+I. Cuando se cometa con violencia, se impondrán de tres a diez años de prisión y de uno a tres veces el valor de lo robado sin que exceda de mil días multa.
 
 La violencia física consiste en la utilización de la fuerza material por el sujeto activo sobre el sujeto pasivo; y la violencia moral consiste en la utilización de amagos, amenazas o cualquier tipo de intimidación que el sujeto activo realice sobre el sujeto pasivo, para causarle en su persona o en sus bienes, males graves o se realice en desventaja numérica sobre el sujeto pasivo. Igualmente, se considera violencia la que utiliza el sujeto activo sobre persona o personas distintas del sujeto pasivo o sobre sus bienes, con el propósito de consumar el delito o la que se realice después de ejecutado éste, para propiciarse la fuga o quedarse con lo robado.
 
@@ -3169,7 +3169,7 @@ XI. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, talle
 
 XII. Cuando el robo recaiga en expedientes o documentos de protocolo, oficina o archivos públicos o en documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, se impondrán de uno a cinco años de prisión. Si el delito lo comete el servidor público de la dependencia en que se encuentre el expediente o documento, se le impondrán además destitución definitiva e inhabilitación hasta por veinte años para desempeñar otro empleo, cargo o comisión públicos;
 
-XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros.
+XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros;
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
@@ -3184,6 +3184,10 @@ XV. Cuando el objeto del robo sean vales en papel o impresos o cualquier disposi
 > <small>(ADICIONADA, G.G. 12 DE OCTUBRE DE 2010)</small>
 
 XVI. Si en los actos mencionados en las fracciones anteriores, participa, en ejercicio de sus funciones o con motivo de ellas, algún servidor público, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación hasta por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2010)</small>
+
+XVII. Cuando se cometa a escuelas e inmuebles destinados a actividades educativas, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
 ###### Artículo 291.
 
@@ -3986,6 +3990,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 G.G. 28 DE OCTUBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE NOVIEMBRE DE 2010.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
