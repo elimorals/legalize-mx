@@ -4,7 +4,7 @@ identifier: "VER-ley-que-crea-el-consejo-coordinador-de-zonas-indigenas-y-24692"
 country: "mx"
 rank: "ley"
 publication_date: "1977-09-24"
-last_updated: "2003-03-18"
+last_updated: "2010-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY QUE CREA EL CONSEJO COORDINADOR DE ZONAS INDIGENAS Y DEPRIMIDAS EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEXTO TRANSITORIO DE LA LEY NUMERO 879 DE DERECHOS Y CULTURA INDIGENAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 3 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: DEROGADO [N. DE E. ABROGADO].
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 24 de septiembre de 1977.
 
@@ -144,3 +146,17 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 3 DE NOVIEMBRE DE 2010.
+
+Artículo primero. La presente Ley entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. El Gobierno del Estado contará con un plazo de 365 días a partir de la publicación de la presente Ley, para reproducirla y publicarla en las 13 lenguas a que hace referencia el artículo 6 de esta Ley.
+
+Artículo tercero. La presente Ley se difundirá por escrito y de manera oral en las lenguas de los pueblos y comunidades de indígenas asentados en el territorio del Estado, a través del Consejo Consultivo Estatal y con el apoyo de las Instituciones Estatales y Municipales cuyas funciones se vinculen con las comunidades de indígenas.
+
+Artículo cuarto. El Congreso del Estado en un término de 180 días contados a partir de la entrada en vigor de esta Ley, proveerá las reformas y adiciones necesarias a la Ley Orgánica del Poder Judicial del Estado, para crear la Sala de Asuntos Indígenas del Tribunal Superior de Justicia y proveer el nombramiento de sus integrantes.
+
+Artículo quinto. El Congreso del Estado presentará en un término máximo de 360 días las iniciativas para armonizar las leyes que correspondan con las disposiciones de esta Ley.
+
+Artículo sexto. Se deroga la Ley 235 que crea el Consejo Coordinador de Zonas Indígenas y Deprimidas en el Estado de Veracruz-Llave y todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
