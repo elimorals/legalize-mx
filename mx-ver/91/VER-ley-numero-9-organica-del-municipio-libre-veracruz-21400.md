@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2010-08-13"
+last_updated: "2010-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -410,6 +410,10 @@ XVIII. Capacitar a los servidores públicos de los diversos niveles y áreas de 
 XIX. Realizar estudios, programas de investigación, capacitación y orientación en materia de desarrollo municipal, comunitario y de participación social;
 
 XX. Sujetarse, en las relaciones con sus trabajadores, a las leyes que en esta materia expida el Congreso del Estado y a los convenios que se celebren con base en dichas leyes, de conformidad con los presupuestos de egresos que apruebe el Ayuntamiento;
+
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2010)</small>
+
+El nombramiento de los trabajadores de confianza únicamente surtirá efectos legales durante el periodo constitucional que corresponda al ayuntamiento que los designó o contrató, salvo que cualquiera de las partes decida dar por terminado el nombramiento o designación anticipadamente; y sin la obligación ni responsabilidad de ninguna índole de ser contratado por el ayuntamiento o el presidente municipal entrante. Al presentar el presupuesto del último año de ejercicio constitucional deberán contemplarse los recursos necesarios para dar cumplimiento a las obligaciones de Ley.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1583,7 +1587,7 @@ Se exceptúa lo señalado en este artículo cuando se trate de entidades paramun
 
 ###### Artículo 78.
 
-Son organismos descentralizados las entidades creadas por acuerdo del Ayuntamiento, previa autorización del Congreso, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten y cuyo objeto sea:
+Son organismos descentralizados las entidades creadas por acuerdo del Ayuntamiento, previa autorización del Congreso, con personalidad jurídica y patrimonio propios (sic), cualquiera que sea la estructura legal que adopten y cuyo objeto sea:
 
 I. La prestación de una función o servicio público a cargo del municipio; o
 
@@ -1951,7 +1955,7 @@ III. Con el Estado o la Federación, para que se hagan cargo de algunas de las f
 
 IV. Con el Estado o la Federación, para asumir la ejecución y operación de obras y la prestación de servicios públicos que correspondan a aquellos, cuando el desarrollo económico y social lo hagan necesario;
 
-V. Con el Estado o la Federación, para que éstos asuman la ejecución y operación de obras y la prestación de servicios públicos que corresponda a los municipios, cuando el desarrollo económico y social lo hagan necesario;
+V. Con el Estado o la Federación, para que éstos asuman la ejecución y operación de obras y la prestación de servicios públicos que corresponda a los municipios, cuando el desarrollo económico y social lo hagan (sic) necesario;
 
 VI. Con personas físicas o morales para la ejecución u operación de obras, o la prestación de servicios públicos municipales, cuando en virtud del convenio y sin afectar la calidad del servicio, se produzcan beneficios para el Municipio en los términos de esta Ley;
 
@@ -1985,7 +1989,7 @@ En la segunda quincena del mes de agosto los servidores públicos mencionados en
 
 > <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2005)</small>
 
-Durante el curso de la primera quincena de septiembre el Ayuntamiento,en (sic) sesión de cabildo, discutirá dichos proyectos.
+Durante el curso de la primera quincena de septiembre el Ayuntamiento, en sesión de cabildo, discutirá dichos proyectos.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE AGOSTO DE 2005)</small>
 
@@ -3176,6 +3180,12 @@ Tercero. Las disposiciones contenidas en el Artículo Tercero del presente Decre
 Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 13 DE AGOSTO DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE NOVIEMBRE DE 2010.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
