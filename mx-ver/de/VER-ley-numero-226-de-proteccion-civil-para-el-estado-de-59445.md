@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-226-de-proteccion-civil-para-el-estado-de-59445"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-01"
-last_updated: "2008-02-01"
+last_updated: "2010-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 226 DE PROTECCION CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el viernes 1 de febrero de 2008.
 
@@ -519,9 +519,11 @@ d) Los representantes de las organizaciones civiles especializadas y medios de c
 
 Cada titular designará un suplente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 34.
 
-Los Consejos Municipales tendrán las siguientes atribuciones:
+Los consejos municipales tendrán las siguientes atribuciones y obligaciones:
 
 I. Fungir como órgano de consulta, opinión y de coordinación de acciones del Municipio para convocar, concertar, inducir e integrar las actividades de los diversos participantes e interesados en la materia, a fin de garantizar la consecución de los objetivos del Sistema Municipal;
 
@@ -529,9 +531,13 @@ II. Fomentar la participación corresponsable y comprometida de los sectores y h
 
 III. Convocar, coordinar y armonizar, con pleno respeto la participación de los servidores públicos federales y estatales con residencia en el municipio y de los diversos grupos sociales organizados, en la definición y ejecución de las acciones que se convengan realizar en materia de protección civil;
 
-IV. Elaborar y actualizar el Atlas Municipal de Riesgos;
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2010)</small>
 
-V. Elaborar, aprobar, actualizar y evaluar el Programa Municipal de Protección Civil, así como vigilar su cumplimiento;
+IV. Elaborar el Atlas Municipal de Riesgos, teniendo como término para su entrega al Ayuntamiento, el último día hábil del mes de abril de cada inicio de período constitucional; para lo cual, el Ayuntamiento tendrá como término, después de su recepción, 10 días hábiles para su respectiva aprobación; quien a su vez lo entregará a la Secretaría, en un término de 10 días hábiles después de ser aprobado. Así como actualizar el Atlas Municipal de Riesgos cada 18 meses a partir de su entrega a la Secretaría;
+
+> <small>(REFORMADA, G.O. 3 DE NOVIEMBRE DE 2010)</small>
+
+V. Elaborar y Actualizar el programa Municipal de Protección Civil, teniendo como plazo específico de entrega al Ayuntamiento para su aprobación, el último día hábil del mes de febrero de cada año, debiéndose evaluar en la primera semana de enero del año subsecuente.
 
 VI. Promover el estudio, la investigación y la capacitación en materia de protección civil, identificando sus problemas y tendencias, y proponiendo las normas y programas que permitan su solución, así como la ampliación del conocimiento sobre los elementos básicos del Sistema Municipal y el fortalecimiento de su estructura;
 
@@ -552,6 +558,10 @@ XIII. Impulsar reconocimientos a las personas que se hubieren destacado en promo
 XlV. Solicitar, según sea el caso, el apoyo del Gobierno Estatal; y
 
 XV. Las demás que le señalen esta Ley y los reglamentos respectivos.
+
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2010)</small>
+
+El incumplimiento de lo previsto en el presente artículo será sancionado conforme a las disposiciones administrativas correspondientes.
 
 ###### Artículo 35.
 
@@ -1248,3 +1258,11 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+
+G.O. 3 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
