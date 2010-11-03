@@ -4,7 +4,7 @@ identifier: "VER-ley-de-educacion-para-el-estado-de-veracruz-de-ignacio-de-6566"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-21"
-last_updated: "2010-10-07"
+last_updated: "2010-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE EDUCACION PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 21 de diciembre de 1993.
 
@@ -500,6 +500,22 @@ III. La adquisición de los instrumentos metodológicos necesarios para su forma
 IV. La consolidación de los distintos aspectos de su personalidad que le permitan desarrollar su capacidad de abstracción y el autoaprendizaje; y
 
 V. Su introducción a los aspectos aplicados de la ciencia y la tecnología durante la capacitación para el trabajo.
+
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2010)</small>
+
+Para consolidar la formación de los estudiantes de nivel medio superior, la Secretaría de Educación ofrecerá y expedirá a los interesados en adquirirla una constancia de acreditación internacional de conocimientos y competencias, para la continuación de estudios superiores o acceso al mercado laboral, con carácter complementario a los planes y programas de estudio de las instituciones de educación media superior, públicas y privadas del Estado de Veracruz.
+
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2010)</small>
+
+Las instituciones de educación media superior y aquellas que operen de forma análoga a las instituciones de educación media superior, podrán adoptar la herramienta de acreditación internacional de conocimientos y competencias en sus planes y programas de estudio, de conformidad con los lineamientos que para tal efecto se establezcan.
+
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2010)</small>
+
+La Secretaría de Educación emitirá las disposiciones reglamentarias y administrativas necesarias para la implementación y operación de la acreditación internacional de conocimientos y competencias, que se enfoquen en el fortalecimiento de la aplicación de las matemáticas, en lectura de comprensión para información y en el desarrollo de las habilidades tecnológicas, vigilando constantemente que se ajuste a las demandas académicas y laborales internacionales, proporcionadas por instituciones u organismos con reconocimiento y experiencia en la materia, en los Estados Unidos Mexicanos y otros países.
+
+> <small>(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2010)</small>
+
+Para su promoción, implementación y operación, la Secretaría de Educación contará con un fondo de acreditación internacional de conocimientos y competencias estatal, sujeto a la disponibilidad presupuestal.
 
 ###### ARTICULO 54.
 
@@ -1094,3 +1110,15 @@ G.O. 7 DE OCTUBRE DE 2010.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Dentro de los noventa días siguientes a la fecha de entrada en vigor del presente Decreto, la Secretaría de Educación emitirá las disposiciones reglamentarias y administrativas necesarias para la implementación y operación de la acreditación internacional de conocimientos y competencias.
+
+Cuarto. La incorporación de la acreditación internacional de conocimientos y competencias en los planes y programas de estudio de las instituciones de educación media superior del Estado de Veracruz de Ignacio de la Llave, podrá ser a partir del ciclo escolar 2011-2012.
+
+Quinto. La Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave proveerá lo necesario a efecto de que, en el Presupuesto de Egresos para el ejercicio fiscal 2011, se contemplen los recursos necesarios para la implementación y operación de un fondo de acreditación internacional de conocimientos y competencias del Estado.
