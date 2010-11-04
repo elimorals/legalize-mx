@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2010-07-05"
+last_updated: "2010-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2733,6 +2733,28 @@ Cuando el consentimiento, la entrega y recepción del menor o incapaz, se haga c
 
 Comete el delito de homicidio el que priva de la vida a otro.
 
+> <small>(ADICIONADO, B.O. 4 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 252 BIS.- Para efectos del artículo anterior, la pérdida de la vida ocurre cuando se presenta la muerte encefálica o el paro cardíaco irreversible.
+
+La muerte encefálica se determina cuando se verifican los siguientes signos:
+
+I.- Ausencia completa y permanente de conciencia;
+
+II.- Ausencia permanente de respiración espontánea; y
+
+III.- Ausencia de los reflejos del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nocioceptivos.
+
+Deberá descartarse que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
+
+> <small>(ADICIONADO, B.O. 4 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 252 TER.- Los signos clínicos de la muerte encefálica deberán corroborarse por cualquiera de las siguientes pruebas:
+
+I.- Electroencefalograma que demuestre ausencia total de actividad eléctrica, corroborado por un médico especialista; o
+
+II.- Cualquier otro estudio de gabinete que demuestre, en forma documental, la ausencia permanente de flujo encefálico arterial.
+
 ###### ARTICULO 253.
 
 Para la imposición de las sanciones que correspondan al delito de homicidio, se tendrá como mortal una lesión si concurren las siguientes circunstancias:
@@ -3383,9 +3405,9 @@ IX.- Respecto de maquinaria, insumos y equipos agrícolas, frutos por cosechar o
 
 X.- Respecto de vehículos de propulsión mecánica;
 
-> <small>(REFORMADA, B.O. 17 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2010)</small>
 
-XI.- En el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones; y
+XI. Respecto de bienes muebles destinados a los planteles educativos e instituciones de educación básica, media superior, superior, para su utilización en el proceso de enseñanza-aprendizaje, tales como infraestructura hidráulica y eléctrica, equipos de cómputo, equipos de aire acondicionado, sistemas de vigilancia, equipos de sonido, aparatos reproductores de imágenes, pantallas digitales o de televisión; asimismo, los que por sus características físicas o sus componentes, formen parte de la infraestructura física de dichos lugares y aquellos cuyo valor individual o en conjunto, al momento de la comisión del delito, exceda los cien días de salario mínimo diario vigente en la capital del Estado; y
 
 > <small>(ADICIONADA, B.O. 17 DE JUNIO DE 2010)</small>
 
@@ -3893,7 +3915,7 @@ Los trámites y servicios que se encuentren pendientes de revisión o resolució
 
 ###### ARTÍCULO TERCERO.
 
-Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en Vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
 
 ###### ARTÍCULO CUARTO.
 
@@ -3910,3 +3932,17 @@ B.O. 5 DE JULIO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 4 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO 67, POR EL QUE SE ADICIONAN LOS ARTICULOS 252 BIS Y 252 TER AL CODIGO PENAL DEL ESTADO DE SONORA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 4 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO 68, POR EL QUE SE REFORMA LA FRACCION XI DEL ARTICULO 308 DEL CODIGO PENAL DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
