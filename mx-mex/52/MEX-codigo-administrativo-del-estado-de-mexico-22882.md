@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-10-12"
+last_updated: "2010-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -4471,6 +4471,10 @@ VII. Solicitar el apoyo del Gobierno Federal para el auxilio y recuperación en 
 
 VIII. Aplicar los recursos estatales y federales a las acciones de prevención, auxilio y de recuperación;
 
+> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2010)</small>
+
+XIII BIS. Coordinar las acciones con las dependencias del Estado y de los municipios, para atender las emergencias y contingencias provocadas por fenómenos perturbadores de origen natural y apoyar el restablecimiento de servicios públicos, mediante el fondo estatal de atención a los desastres y siniestros ambientales.
+
 IX. Informar al sistema nacional de protección civil de la ocurrencia de riesgos y desastres en el territorio del Estado para la concertación y coordinación de acciones;
 
 X. Apoyar la creación, desarrollo y consolidación de los consejos municipales de protección civil, grupos voluntarios y grupos de ayuda mutua;
@@ -4553,7 +4557,13 @@ VIII. Constituirse en sesión permanente en los casos de riesgo o desastre para 
 
 IX. Coadyuvar en la vigilancia de la aplicación de los recursos que se destinen a los programas y acciones de protección civil;
 
-X. Las demás que se prevean en la reglamentación de este Libro.
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2010)</small>
+
+X. Convocar, coordinar y convenir con los Ayuntamientos del Estado y la Secretaría del Medio Ambiente la integración de un Programa para atender las emergencias y contingencias provocadas por desastres y fenómenos perturbadores de origen natural, cuyo objetivo principal es la protección de la vida y la salud de la población afectada, apoyando el restablecimiento de los servicios públicos;
+
+> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2010)</small>
+
+XI. Las demás que se prevean en la reglamentación de este Libro.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -11564,3 +11574,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobier
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 4 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La Secretaría de Finanzas del Gobierno del Estado de México, solicitará al área correspondiente del Gobierno del Estado, expida y envié a la Legislatura en un plazo máximo de treinta días a partir de su entrada en vigor del presente Decreto, el Reglamento de Operación del Fondo para la Atención a los Desastres y Siniestros Ambientales, que se estable (sic) en el Libro Sexto del Código Administrativo del Estado de México.
