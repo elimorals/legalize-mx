@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2005-10-25"
+last_updated: "2010-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -144,7 +144,9 @@ Se requiere de concesión para construir, operar, explotar, conservar y mantener
 
 Las concesiones se otorgarán a mexicanos o sociedades constituidas conforme a las leyes mexicanas, en los términos que establezcan esta Ley y los reglamentos respectivos.
 
-Las concesiones se otorgarán hasta por un plazo de 30 años, y podrán ser prorrogadas hasta por un plazo equivalente al señalado originalmente, siempre que el concesionario hubiere cumplido con las condiciones impuestas y lo solicite durante la última quinta parte de su vigencia y a más tardar un año antes de su conclusión.
+> <small>(REFORMADO, D.O.F. 4 DE NOVIEMBRE DE 2010)</small>
+
+Las concesiones se otorgarán hasta por un plazo de 30 años. Éstas podrán ser prorrogadas, hasta por un plazo equivalente al señalado originalmente, en cualquier momento después del primer tercio de la vigencia de las mismas, cuando a juicio de la Secretaría, se justifique la necesidad de realizar inversiones que no se hubiesen previsto en las condiciones originales de los títulos de concesión respectivos. También podrán ser prorrogadas, en cualquier momento durante su vigencia, cuando se presenten causas que lo justifiquen, no atribuibles a los concesionarios, entre los que se incluyan demoras en la liberación del derecho de vía. A fin de que la prórroga pueda ser considerada, el concesionario deberá haber cumplido con las condiciones impuestas. En ambos casos, la Secretaría deberá obtener el registro a que se refieren las fracciones II y III del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 60 días naturales contado a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta la inversión, los costos futuros de ampliación y mejoramiento y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
 
@@ -913,3 +915,9 @@ SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las d
 SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
 
 OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+D.O.F. 4 DE NOVIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
