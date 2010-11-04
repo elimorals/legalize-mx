@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2010-05-12"
+last_updated: "2010-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -272,6 +272,10 @@ XV. Realizar los actos jurídicos necesarios para reivindicar la propiedad del E
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 XVI. Proponer al Gobernador del Estado los programas relativos a la protección de los habitantes, el orden público y la prevención de delitos, que se ejecutarán a través de la Agencia de Seguridad Estatal.
+
+> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2010)</small>
+
+XVI Bis. Proponer, convenir, administrar y vigilar la aplicación del Fondo para la Atención a los Desastres y fenómenos perturbadores de origen natural a través del Sistema Estatal de Protección Civil.
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -1165,7 +1169,7 @@ XIII. Intervenir en los convenios de coordinación que celebre el Ejecutivo con 
 
 XIV. Ejercer por delegación del Ejecutivo las atribuciones y funciones que en materia agrícola, ganadera, forestal, pesquera y agroindustrial, contengan los convenios firmados entre el Poder Ejecutivo y la Administración Pública Federal;
 
-XV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado, relacionándose con las autoridades correspondientes para la atención y solución de los asuntos en esta materia;
+XV. Ejercer las atribuciones que en materia agraria le competan al Ejecutivo del Estado, relacionándose con las autoridades correspondientes para la atención y solución de los asuntos en esta materia.
 
 XVI. Nombrar a las comisiones que han de vigilar la operación de las empresas de participación municipal avocadas a las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales;
 
@@ -1948,6 +1952,14 @@ PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de que inicie su vigencia la adición de un último párrafo al artículo 5 de la Constitución Política del Estado Libre y Soberano de México.
 
 TERCERO.- El Poder Ejecutivo del Estado de México adoptará en la esfera de su competencia las disposiciones pertinentes para la ejecución de las reformas objeto de este Decreto.
+
+G.G. 4 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La Secretaría de Finanzas del Gobierno del Estado de México, solicitará al área correspondiente del Gobierno del Estado, expida y envié a la Legislatura en un plazo máximo de treinta días a partir de su entrada en vigor del presente Decreto, el Reglamento de Operación del Fondo para la Atención a los Desastres y Siniestros Ambientales, que se estable en el Libro Sexto del Código Administrativo del Estado de México.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
