@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2010-07-20"
+last_updated: "2010-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -241,65 +241,75 @@ VIII. Representar al Estado y al Titular del Ejecutivo del Estado, en las activi
 
 IX. Promover, coordinar, concertar y en su caso, realizar la investigación y desarrollo tecnológico en materia de agua, y la formación y capacitación de recursos humanos;
 
-X. Promover una cultura del agua que considere a este compuesto como un recurso finito, vital y escaso, que debe aprovecharse con racionalidad y eficiencia;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
 
-XI. Apoyar y organizar la participación ciudadana en los asuntos del agua;
+X. Impulsar el desarrollo de una cultura del agua que considere a este elemento como recurso vital, escaso y de gran valor social y ambiental, en coordinación con las demás dependencias competentes en la materia, y propiciar la participación social en los órganos de gobierno de los servicios de agua potable y saneamiento;
 
-XII. Fomentar la instalación y operación de las organizaciones de usuarios contempladas en la Ley de Aguas Nacionales e integrarlos al Consejo Estatal Hídrico;
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
 
-XIII. Promover y apoyar la instalación de los dispositivos de medición, en las fuentes de abastecimiento y en los sistemas de servicios hídricos de toda índole;
+XI. Establecer los principios y lineamientos para el diseño, desarrollo, implementación, ejecución y supervisión del programa estatal de cultura de agua, que considera a ésta como recurso vital, escaso y de gran valor social y ambiental; en coordinación con las dependencias competentes en la materia, con la finalidad de propiciar la participación social;
 
-XIV. Formular, para su debida autorización, en términos de la fracción XII del artículo 34 de la Ley Orgánica de la Administración Pública del Estado, sus programas, presupuestos, estructura y calendario de gasto a más tardar el día treinta de septiembre de cada año;
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
 
-XV. Elaborar y mantener actualizado el inventario de sus bienes;
+XII. Promover, en el ámbito de su competencia, la cultura del agua potable, para fomentar el pago oportuno de los servicios prestados;
 
-XVI. Tramitar los empréstitos y créditos, de acuerdo a lo dispuesto en la Ley de Deuda Pública del Estado de San Luis Potosí, que sean necesarios para el desarrollo de las actividades que tiene encomendadas en los términos de esta Ley, y atender los programas que le sean transferidos por la Federación y los convenios que al efecto se celebren con las administraciones públicas federal o municipal, o con particulares, pudiendo fungir como aval en dichas operaciones;
+XIII. Apoyar y organizar la participación ciudadana en los asuntos del agua;
 
-XVII. Formular y promover el establecimiento y difusión de normas en lo referente a la realización de obras, y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, recarga de acuíferos, obras de defensa, encauzamiento y protección contra inundaciones, en el ámbito de su competencia;
+XIV. Fomentar la instalación y operación de las organizaciones de usuarios contempladas en la Ley de Aguas Nacionales e integrarlos al Consejo Estatal Hídrico;
 
-XVIII. Ejecutar, dentro del ámbito de su competencia, obras de infraestructura hidráulica en los términos de los convenios que al efecto se celebren con la Federación, los Estados, los ayuntamientos y los organismos operadores descentralizados, así como establecer programas de capacitación, con el fin de lograr un mejor aprovechamiento de las mismas;
+XV. Promover y apoyar la instalación de los dispositivos de medición, en las fuentes de abastecimiento y en los sistemas de servicios hídricos de toda índole;
 
-XIX. Administrar las aguas de jurisdicción estatal y determinar sus usos;
+XVI. Formular, para su debida autorización, en términos de la fracción XII del artículo 34 de la Ley Orgánica de la Administración Pública del Estado, sus programas, presupuestos, estructura y calendario de gasto a más tardar el día treinta de septiembre de cada año;
 
-XX. Emitir disposiciones sobre la expedición de títulos de concesión, asignación o permisos;
+XVII. Elaborar y mantener actualizado el inventario de sus bienes;
 
-XXI. Recabar y mantener actualizada la información en materia de aguas estatales relacionada con los diferentes usos, disponibilidad, calidad;
+XVIII. Tramitar los empréstitos y créditos, de acuerdo a lo dispuesto en la Ley de Deuda Pública del Estado de San Luis Potosí, que sean necesarios para el desarrollo de las actividades que tiene encomendadas en los términos de esta Ley, y atender los programas que le sean transferidos por la Federación y los convenios que al efecto se celebren con las administraciones públicas federal o municipal, o con particulares, pudiendo fungir como aval en dichas operaciones;
 
-XXII. Verificar que se inscriban en el Registro Público Estatal de Derechos de Agua, los títulos que amparen derechos de agua de jurisdicción estatal;
+XIX. Formular y promover el establecimiento y difusión de normas en lo referente a la realización de obras, y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, recarga de acuíferos, obras de defensa, encauzamiento y protección contra inundaciones, en el ámbito de su competencia;
 
-XXIII. Ejercer en el ámbito de su competencia, las atribuciones fiscales para la determinación y cobro de los derechos o contribuciones en materia de aguas estatales y sus bienes inherentes;
+XX. Ejecutar, dentro del ámbito de su competencia, obras de infraestructura hidráulica en los términos de los convenios que al efecto se celebren con la Federación, los Estados, los ayuntamientos y los organismos operadores descentralizados, así como establecer programas de capacitación, con el fin de lograr un mejor aprovechamiento de las mismas;
 
-XXIV. Solicitar al Ejecutivo del Estado la declaratoria de expropiación, ocupación temporal de bienes o la limitación del dominio, para el cumplimiento de sus. objetivos, en los términos de la Ley de Expropiación, Ocupación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado de San Luis Potosí;
+XXI. Administrar las aguas de jurisdicción estatal y determinar sus usos;
 
-XXV. Asesorar, previa solicitud de los ayuntamientos, en la elaboración de los programas municipales de servicios hídricos; así como prestar apoyo y asesoría técnica a los organismos operadores del servicio;
+XXII. Emitir disposiciones sobre la expedición de títulos de concesión, asignación o permisos;
 
-XXVI. Coadyuvar con los prestadores de los servicios públicos, en las gestiones de financiamiento y planeación de obras para la eficiente prestación de los servicios públicos;
+XXIII. Recabar y mantener actualizada la información en materia de aguas estatales relacionada con los diferentes usos, disponibilidad, calidad;
 
-XXVII. Promover la creación, desarrollo y autosuficiencia administrativa, técnica y financiera de los organismos operadores para la prestación de los servicios públicos;
+XXIV. Verificar que se inscriban en el Registro Público Estatal de Derechos de Agua, los títulos que amparen derechos de agua de jurisdicción estatal;
 
-XXVIII. Promover la capacitación y adiestramiento del personal de los prestadores de los servicios públicos, así como los convenios de coordinación y colaboración entre dos o más organismos operadores; y difundir las actividades y experiencias exitosas que se desarrollen para la prestación eficiente de los servicios públicos;
+XXV. Ejercer en el ámbito de su competencia, las atribuciones fiscales para la determinación y cobro de los derechos o contribuciones en materia de aguas estatales y sus bienes inherentes;
 
-XXIX. Actuar con las atribuciones y competencia que la presente Ley otorga a los organismos operadores descentralizados, cuando preste directamente en forma transitoria, los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales en alguno de los municipios de la Entidad, a falta de organismo operador descentralizado o cuando así se convenga con los ayuntamientos;
+XXVI. Solicitar al Ejecutivo del Estado la declaratoria de expropiación, ocupación temporal de bienes o la limitación del dominio, para el cumplimiento de sus. objetivos, en los términos de la Ley de Expropiación, Ocupación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado de San Luis Potosí;
 
-XXX. Cuidar que los ingresos que obtenga por la prestación de los servicios públicos, se utilicen exclusivamente en fines directamente vinculados con dichos servicios públicos; mientras que los demás ingresos no provenientes o destinados a la prestación de tales servicios, los destine precisamente al desarrollo de las demás actividades que tiene encomendadas en los términos de esta Ley;
+XXVII. Asesorar, previa solicitud de los ayuntamientos, en la elaboración de los programas municipales de servicios hídricos; así como prestar apoyo y asesoría técnica a los organismos operadores del servicio;
 
-XXXI. Dar seguimiento al cumplimiento del Programa Operativo Anual de los prestadores de servicios públicos de agua;
+XXVIII. Coadyuvar con los prestadores de los servicios públicos, en las gestiones de financiamiento y planeación de obras para la eficiente prestación de los servicios públicos;
 
-XXXII. Emitir su opinión sobre el contenido de los modelos de contratos a que se refiere el artículo 137, los requisitos a que se refiere el artículo 136, así como la garantía señalada en el segundo párrafo del artículo 142, todos de la presente Ley;
+XXIX. Promover la creación, desarrollo y autosuficiencia administrativa, técnica y financiera de los organismos operadores para la prestación de los servicios públicos;
 
-XXXIII. Participar como asesora en los procesos de licitación de concesiones para la prestación de los servicios públicos y de los contratos a que se refieren los artículos 109, 110 y 136 de esta Ley;
+XXX. Promover la capacitación y adiestramiento del personal de los prestadores de los servicios públicos, así como los convenios de coordinación y colaboración entre dos o más organismos operadores; y difundir las actividades y experiencias exitosas que se desarrollen para la prestación eficiente de los servicios públicos;
 
-XXXIV. Fungir como organismo normativo en todos aquellos asuntos relacionados con el agua que le encomiende el Titular del Ejecutivo del Estado;
+XXXI. Actuar con las atribuciones y competencia que la presente Ley otorga a los organismos operadores descentralizados, cuando preste directamente en forma transitoria, los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales en alguno de los municipios de la Entidad, a falta de organismo operador descentralizado o cuando así se convenga con los ayuntamientos;
 
-XXXV. Ordenar que se practiquen las visitas de inspección y verificación en los asuntos competencia de la Comisión;
+XXXII. Cuidar que los ingresos que obtenga por la prestación de los servicios públicos, se utilicen exclusivamente en fines directamente vinculados con dichos servicios públicos; mientras que los demás ingresos no provenientes o destinados a la prestación de tales servicios, los destine precisamente al desarrollo de las demás actividades que tiene encomendadas en los términos de esta Ley;
 
-XXXVI. Tramitar y resolver los recursos o medios de impugnación que se interpongan en contra de sus actos y resoluciones;
+XXXIII. Dar seguimiento al cumplimiento del Programa Operativo Anual de los prestadores de servicios públicos de agua;
+
+XXXIV. Emitir su opinión sobre el contenido de los modelos de contratos a que se refiere el artículo 137, los requisitos a que se refiere el artículo 136, así como la garantía señalada en el segundo párrafo del artículo 142, todos de la presente Ley;
+
+XXXV. Participar como asesora en los procesos de licitación de concesiones para la prestación de los servicios públicos y de los contratos a que se refieren los artículos 109, 110 y 136 de esta Ley;
+
+XXXVI. Fungir como organismo normativo en todos aquellos asuntos relacionados con el agua que le encomiende el Titular del Ejecutivo del Estado;
+
+XXXVII. Ordenar que se practiquen las visitas de inspección y verificación en los asuntos competencia de la Comisión;
+
+XXXVIII. Tramitar y resolver los recursos o medios de impugnación que se interpongan en contra de sus actos y resoluciones;
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
 
-XXXVII. Aplicar las normas, criterios de eficiencia, indicadores de gestión y modelos técnico-administrativos, para evaluar la gestión técnica, ambiental, financiera y administrativa de los organismos operadores, para la determinación de inversiones, incentivos y estímulos por la Federación.
+XXXIX. Aplicar las normas, criterios de eficiencia, indicadores de gestión y modelos técnico-administrativos, para evaluar la gestión técnica, ambiental, financiera y administrativa de los organismos operadores, para la determinación de inversiones, incentivos y estímulos por la Federación.
 
-XXXVIII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de ley y de los convenios que al efecto se celebren.
+XL. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de ley y de los convenios que al efecto se celebren.
 
 ###### ARTICULO 9°.
 
@@ -527,6 +537,24 @@ III. La Ley de Planeación del Estado y municipios de San Luis Potosí, y
 
 IV. La presente Ley y sus reglamentos.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2010)</small>
+
+Así mismo, la planeación hídrica en el Estado tendrá como sustento los principios de la cultura del agua, que son:
+
+a) Equidad: es el aseguramiento del acceso a los servicios básicos de agua potable y saneamiento a la población urbana y rural, por lo que los recursos hídricos serán asignados a proyectos de interés colectivo, en busca del equilibrio social, económico y ambiental.
+
+b) Solidaridad: es el asumir que el agua es un bien común de uso público y privado; en consecuencia, todos estamos obligados a hacer un uso responsable y racional de ella; evitar su contaminación; asegurar su calidad y preservación, con el objeto de proveerla a las generaciones presentes y futuras.
+
+c) Sostenibilidad: es el satisfacer las necesidades hídricas actuales, sin comprometer para el futuro los recursos naturales existentes.
+
+d) Control de la demanda: es la priorización del recurso hídrico, y contemplará en primer lugar el consumo humano, a lo que precederá el uso agrícola, industrial y de investigación.
+
+e) Responsabilidad: es la correspondencia existente entre los diferentes prestadores del servicio hídrico respecto del manejo eficiente, la no contaminación y la prestación del recurso hídrico, a efecto de concientizar a los diversos usuarios de su corresponsabilidad con respecto al líquido vital.
+
+f) Participación democrática: es la correspondencia que existe entre los prestadores del servicio de agua potable, en la planeación estratégica del uso eficiente y racional del agua, y la creación, mantenimiento y sostenibilidad de su infraestructura, contando con la participación de los usuarios que representan a los sectores, doméstico, agrícola, comercial, industrial y académico.
+
+g) Transparencia: son las acciones encaminadas a fortalecer la actualización de los prestadores del servicio público de agua potable, alcantarillado y saneamiento, en todo lo relacionado con la cultura del agua.
+
 ###### ARTICULO 20.
 
 El Ejecutivo del Estado, a través de la Comisión, se coordinará con las autoridades federales, municipales y los usuarios para la planeación hídrica Estatal.
@@ -589,9 +617,21 @@ III. La programación y evaluación anual del cumplimiento de metas y del impact
 
 IV. La adecuación necesaria de las acciones, proyectos, políticas y programas por uso específico, considerados en el Programa Estatal Hídrico, con base en la evaluación permanente y sistemática;
 
-V. Los mecanismos de consulta, concertación y participación ciudadana para su financiamiento, ejecución y evaluación, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
 
-VI. La programación y seguimiento de inversiones.
+V. Los mecanismos de consulta, concertación y participación ciudadana para su financiamiento, ejecución y evaluación;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
+
+VI. La programación y seguimiento de inversiones;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
+
+VII. La integración del concepto de cultura del agua, de acuerdo con las condiciones socio-demográficas del Estado, para el uso y aprovechamiento racional y sostenible de los recursos hídricos, y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Los programas especiales o de emergencia que instrumente la Comisión, para la atención de problemas y situaciones críticas.
 
 ###### ARTICULO 24.
 
@@ -1093,7 +1133,7 @@ La integración y funcionamiento de los comités de agua rurales, se hará confo
 
 ###### ARTICULO 83.
 
-Las cuotas y tarifas que apliquen los comités de agua rurales, serán las que el municipio señale a través de su ley de ingresos, a propuesta del propio comité rural.
+(DEROGADO, P.O. 4 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 84.
 
@@ -1179,9 +1219,19 @@ X. Someter a la consideración del Congreso del Estado, a través del ayuntamien
 
 XI. Determinar y cobrar, a través del procedimiento administrativo de ejecución, los adeudos que resulten de aplicar las cuotas o tarifas por los servicios que preste;
 
-XII. Ordenar y ejecutar la restricción o suspensión del servicio por falta de pago, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
 
-XIII. Las demás que le asigne la presente Ley, su decreto de creación, la legislación y los reglamentos aplicables.
+XII. Ordenar y ejecutar la restricción o suspensión del servicio por falta de pago;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
+
+XIII. Promover, en el ámbito de su competencia, la cultura del agua potable, para que se reconozca el valor real del recurso; así como fomentar el pago justo y oportuno por los servicios prestados;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
+
+XIV. Instrumentar un programa permanente de cultura del agua que destaque el valor real del recurso, que considere el uso eficiente, reuso, saneamiento y cuidado del agua, e involucre a todos los sectores y usuarios del subsector de agua potable; además, acciones de capacitación para el uso eficiente y adecuado de las instalaciones hidrosanitarias y de saneamiento en el ámbito de su competencia, y
+
+XV. Las demás que le asigne la presente Ley, su decreto de creación, la legislación y los reglamentos aplicables.
 
 ###### ARTICULO 93.
 
@@ -2275,6 +2325,10 @@ V. Procurar un entorno educativo que difunda los beneficios del uso eficiente y 
 
 Los centros o instituciones educativas de competencia del Estado, así como las asociaciones o instituciones legalmente constituidas, en coordinación con las autoridades en materia de agua, establecerán mecanismos orientados a fomentar una cultura de manejo integral del agua, que considere a los recursos hídricos como finitos, vulnerables e indispensables.
 
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 190 BIS. Para efectos de esta Ley se entiende por Cultura del Agua, al conjunto de creencias, conductas y estrategias comunitarias para el uso del agua, que sean reflejadas mediante políticas públicas, conforme a las condiciones socio-demográficas de las diferentes regiones del Estado, destinadas al uso y aprovechamiento racional y sostenible, realizadas por las autoridades competentes de aplicar este Ordenamiento.
+
 ###### ARTICULO 191.
 
 Los organismos operadores descentralizados, anualmente formularán y ejecutarán el Programa Operativo Anual, el cual deberá de ser aprobado por el ayuntamiento correspondiente, evaluado y vigilado por el Comisario Público y deberá comprender:
@@ -2794,6 +2848,22 @@ Lic. Alfonso José Castillo Machuca
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO 366, POR EL QUE SE REFORMA LOS ARTICULOS, 8° EN SU FRACCION X, 23 EN SUS FRACCIONES V Y VI, Y 92 EN SU FRACCION XII; Y ADICIONA A LOS ARTICULOS, 8° LAS FRACCIONES XI Y XII, POR LO QUE ACTUALES XI A XXXVII PASAN A SER FRACCIONES XIII A XXXIX, 19 EL PARRAFO SEXTO Y LOS INCISOS A) A G), 23 LAS FRACCIONES VII Y VIII, 92 DOS FRACCIONES, ESTAS COMO XIII Y XIV, POR LO QUE ACTUAL XIII PASA A SER FRACCION XV, Y EL ARTICULO 190 BIS, DE Y A LA LEY DE AGUAS DEL ESTADO DE SAN LUIS POTOSI.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO 367, POR EL QUE SE DEROGA EL ARTICULO 83 DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
