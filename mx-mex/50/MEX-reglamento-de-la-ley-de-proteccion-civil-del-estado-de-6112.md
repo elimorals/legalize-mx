@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-proteccion-civil-del-estado-de-6112"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-02"
-last_updated: "1994-05-02"
+last_updated: "2010-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY DE PROTECCION CIVIL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL LIBRO SEXTO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO, PUBLICADO EN EL G.O. 5 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 2 de mayo de 1994.
 
@@ -760,3 +762,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. CESAR CAMACHO QUIROZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 5 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento de la Ley de Protección Civil expedido el 2 de mayo de 1994. Los procedimientos, contratos, convenios o inconformidades administrativas iniciados al amparo del Reglamento que se abroga se sustanciarán y resolverán conforme a las disposiciones del mismo ordenamiento.
+
+CUARTO.- Dentro de los 180 días hábiles siguientes a la fecha en que entre en vigor el presente Reglamento, la Secretaría, publicará la Norma Técnica para la elaboración de Programas Internos y Específicos de Protección Civil.
+
+QUINTO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Reglamento.
