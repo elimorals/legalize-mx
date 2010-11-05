@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-atencion-a-la-familia-y-grupos-vulnerables-para-50467
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-02"
-last_updated: "2009-09-23"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # CODIGO DE ATENCION A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-CODIGO DE ATENCION A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS
+CÓDIGO DE ATENCIÓN A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -109,7 +109,9 @@ XXIV. Maltrato Económico: Al patrón de conducta consistente en actos u omision
 
 XXV. Maltrato Psícoemocional: Al patrón de conducta consistente en actos u omisiones repetitivos, cuyas formas de expresión pueden ser prohibiciones, coacciones, acondicionamientos, intimidaciones, amenazas, actitudes devaluatorias de abandono y que provoquen en quien las recibe, deterioro, disminución o afectación a su estructura de personalidad; todo acto que se compruebe que ha sido realizado con la intención de causar un daño moral a un menor de edad, será considerado maltrato emocional en los términos de este artículo, aunque se argumente como justificación la formación del menor;
 
-XXVI. Menores: Para los efectos de ésta, son las niñas y los niños recién nacidos y que no hayan cumplido los 12 años y adolescentes desde los 12 años hasta los que no hayan cumplido los 18 años;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+XXVI. Niñas, Niños y Adolescentes: A las niñas y niños recién nacidos, hasta antes de los 12 años de edad y adolescentes desde los 12 años de edad hasta antes de cumplir los 18 años de edad;
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
@@ -275,7 +277,7 @@ En los términos del artículo 9°, de este Código, el DIF-Chiapas, es el organ
 
 Para la aplicación del presente ordenamiento, el DIF-Chiapas, podrá ser asistido por los sistemas municipales DIF.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 14.
 
@@ -365,7 +367,7 @@ El DIF-Chiapas podrá emitir opinión sobre los subsidios que el Gobierno del Es
 
 Con el propósito de asegurar la adecuada coordinación de acciones, en el ámbito de la prestación de los servicios en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos vulnerables, el Gobierno del Estado, a través del DIF-Chiapas, podrá celebrar convenios o acuerdos para la coordinación de acciones a nivel estatal o municipal, con las dependencias de la administración pública federal y con las entidades federativas, en los términos del presente Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 23.
 
@@ -407,7 +409,7 @@ III. Fijarán el objeto, materia y alcances jurídicos de los compromisos que as
 
 IV. Las demás estipulaciones que de común acuerdo establezcan las partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 27.
 
@@ -427,7 +429,7 @@ A propuesta del DIF-Chiapas, el Gobierno del Estado, dictaminará el otorgamient
 
 El Gobierno del Estado, a través del DIF-Chiapas, promoverá la participación de la comunidad, en la atención de aquellos casos que por sus características requieran de acciones de asistencia social, así como el concurso coordinado de las dependencias y entidades públicas, poniendo especial atención a los grupos vulnerables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 30.
 
@@ -531,13 +533,15 @@ III. Representante de la Secretaría de Salud;
 
 IV. Representante de la Secretaría de Educación;
 
-V. Representante de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+V. Representante de la Secretaría de Desarrollo y Participación Social;
 
 VI. Representante de la Procuraduría General de Justicia del Estado; y,
 
 VII. Representante de la Secretaría de la Función Pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 44.
 
@@ -695,7 +699,7 @@ Las violaciones a este Código, traerá como consecuencia la imposición de las 
 
 Los visitadores, inspectores y auditores que envíen al Secretario Ejecutivo, informes que contengan hechos falsos, serán destituidos de su cargo y puestos a disposición de la autoridad competente, en términos de la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 58.
 
@@ -733,25 +737,25 @@ Las personas afectadas por las resoluciones dictadas con fundamento en este Cód
 
 ### Capítulo I. De los Principios
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 61.
 
-El presente ordenamiento, tiene por objeto asegurarles a los menores, un desarrollo pleno integral, lo que implica la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad, realizando acciones tendientes a:
+El presente ordenamiento, tiene por objeto asegurarles a las niñas, niños y adolescentes, un desarrollo pleno integral, lo que implica la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad, realizando acciones tendentes a:
 
-I. Garantizar a los menores, la tutela plena e igualitaria de sus derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución local, en el presente Código, en la Declaración de los Derechos del Niño y en los Tratados Internacionales que México haya adoptado y ratificado para su cumplimiento; y,
+I. Garantizar a las niñas, niños y adolescentes, la tutela plena e igualitaria de sus derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución local, en el presente Código, en la Declaración de los Derechos del Niño y en los Tratados Internacionales que México haya adoptado y ratificado para su cumplimiento.
 
-II. Establecer las normas y las bases y procedimientos que contribuyan a la protección, ayuda atención, rehabilitación, orientación y desarrollo de los menores en el Estado de Chiapas.
+II. Establecer las normas, bases y procedimientos que contribuyan a la protección, ayuda, atención, rehabilitación, orientación y desarrollo de las niñas, niños y adolescentes en el Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 62.
 
-Corresponde a las autoridades estatales y municipales, en el ámbito de sus competencias, asegurar a menores la protección y el ejercicio de sus derechos y la toma de medidas necesarias para su bienestar, tomando en cuenta los derechos y deberes de sus madres, padres, y demás ascendientes, tutores y custodios, u otras personas que sean responsables de los mismos. De igual manera y sin perjuicio de lo anterior, es deber y obligación de la comunidad a la que pertenecen y, en general de todos los integrantes de la sociedad, el respeto y el auxilio en el ejercicio de sus derechos.
+Este ordenamiento se aplicará en beneficio de las niñas, niños y adolescentes sin distinción alguna independientemente de su origen, cultura, sexo, idioma, religión, ideología, nacionalidad, discapacidad, circunstancias de nacimiento o cualquier otra condición propia de quienes legalmente ejerzan la patria potestad, su guarda o tutela en términos de las disposiciones aplicables, en materia de la legislación Civil o Penal para el Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+En cada uno de los municipios del Estado, se establecerá un Comité Municipal de Seguimiento y Vigilancia de la aplicación de este Código, el cual será presidido por el Presidente Municipal e integrado por el DIF municipal existente en cada municipio; así como por las autoridades que realicen funciones relacionadas con desarrollo social, salud, educación y seguridad pública en el Municipio.
 
-En cada uno de los municipios del Estado, se establecerá un Comité Municipal de Seguimiento y Vigilancia de la aplicación de este Código, el cual será presidido por el Presidente Municipal e integrado por el DIF Municipal; así como por las autoridades que realicen funciones relacionadas con desarrollo social, salud, educación, y seguridad pública en el Municipio.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-El Presidente Municipal, podrá invitar a participar en el Comité Municipal de Seguimiento y Vigilancia para la protección de los derechos de los menores, a representantes del DIF-Chiapas, de las Secretarías de Salud, Hacienda, Desarrollo Social, Educación, Seguridad y Protección Ciudadana, Pueblos Indios, Procuraduría General de Justicia del Estado, Instituto de Población y Ciudades Rurales, Instituto del Deporte e Instituto Estatal de las Mujeres; así como a representantes de organizaciones sociales y privadas, dedicadas a la atención de los menores, asociaciones de padres de familia y a especialistas en el tema.
+El Presidente Municipal, podrá invitar a participar en el Comité Municipal de Seguimiento y Vigilancia para la protección de los derechos de las niñas, niños y adolescentes, a representantes del DIF - Chiapas, de las Secretarías de Salud, de Desarrollo y Participación Social, de Hacienda, de Educación, de Seguridad y Protección Ciudadana, de Pueblos Indios, para el Desarrollo y Empoderamiento de las Mujeres; de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales y del Instituto del Deporte; así como a representantes de organizaciones sociales y privadas, dedicadas a la atención de las niñas, niños y adolescentes, asociaciones de padres de familia y a especialistas en el tema.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
@@ -765,9 +769,11 @@ El DIF-Chiapas, atendiendo a los acuerdos que resulten de la coordinación que s
 
 El DIF-Chiapas, queda facultado para expedir, con base en este ordenamiento, los instructivos que considere necesarios para desarrollar, hacer explícitas y determinar la forma en que deben cumplirse las disposiciones en materia de protección a los derechos de los menores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 65.
 
-Los acuerdos de coordinación o convenios de concertación, que con motivo a la protección de menores, celebren las autoridades estatales y municipales, o con personas físicas o morales del sector privado, en los términos del presente Código, deberán contener:
+Los acuerdos de coordinación o convenios de concertación, que con motivo a la protección de las niñas, niños y adolescentes, celebren las autoridades estatales y municipales, o con personas físicas o morales del sector privado, en los términos del presente Código, deberán contener:
 
 I. Fundamento legal;
 
@@ -777,45 +783,55 @@ III. Los órganos administrativos, a través de sus representantes, deberán com
 
 IV. Los términos de aplicación de los recursos humanos, financieros y materiales que aporten las partes, deberán quedar bien especificados en los convenios o compromisos de cada Secretaría; y,
 
-V. La vigencia del programa de apoyo a los derechos de los menores, deberá ser determinado por acuerdo de las Secretarías que la integran.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+V. La vigencia del programa de apoyo a los derechos de las niñas, niños y adolescentes, deberá ser determinado por acuerdo de las Secretarías que la integran.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 66.
 
 Son principios rectores en la observancia, interpretación y aplicación del presente Código, los siguientes:
 
-I. El interés superior de los menores; este principio implica dar prioridad al bienestar de los menores, ante cualquier otro interés que vaya en su perjuicio.
+I. El interés superior de las niñas, niños y adolescentes; este principio implica dar prioridad al bienestar de las niñas, niños y adolescentes, ante cualquier otro interés que vaya en su perjuicio.
 
-Este principio, orienta la actuación de las autoridades estatales encargadas de las acciones de defensa y representación jurídica, provisión, prevención, protección especial y participación de los menores y deberá verse reflejado en las siguientes acciones:
+Este, principio, orienta la actuación de las autoridades estatales encargadas de las acciones de defensa y representación jurídica, provisión, prevención, protección especial y participación de las niñas, niños y adolescentes y deberá verse reflejado en las siguientes acciones:
 
-A) En la asignación de recursos públicos para programas sociales;
+a) En la asignación de recursos públicos para programas sociales.
 
-B) En la atención a los menores en los servicios públicos; y,
+b) En la atención a las niñas, niños y adolescentes en los servicios públicos.
 
-C) En la formulación y ejecución de políticas públicas.
+c) En la formulación y ejecución de políticas públicas.
 
-II. La corresponsabilidad o concurrencia, que asegura la participación y responsabilidad de la familia, el Gobierno y la sociedad en la atención de los menores;
+II. La corresponsabilidad o concurrencia, que asegura la participación y responsabilidad de la familia, el Gobierno y la sociedad en la atención de las niñas, niños y adolescentes.
 
-III. El de igualdad y equidad en todos los ámbitos que conciernen a los menores;
+III. El de igualdad y equidad en todos los ámbitos que conciernen a las niñas, niños y adolescentes.
 
-IV. El de familia, como espacio preferente para el desarrollo de los menores;
+IV. El de familia, como espacio preferente para el desarrollo de las niñas, niños y adolescentes.
 
-V. El de que los menores, tienen diversas etapas de desarrollo y diversas necesidades, que deben llevar a la elaboración de respuestas gubernamentales especiales y de políticas públicas especificadas, dependiendo de la etapa de desarrollo en que se encuentren, con el objeto de procurar que ejerzan sus derechos con equidad;
+V. El de que las niñas, niños y adolescentes, tienen diversas etapas de desarrollo y diversas necesidades, que deben llevar a la elaboración de respuestas gubernamentales especiales y de políticas públicas especificadas, dependiendo de la etapa de desarrollo en que se encuentren, con el objeto de procurar que ejerzan sus derechos con equidad.
 
-VI. El de tener una vida libre de violencia; y,
+VI. El de tener una vida libre de violencia.
 
 VII. El de respeto universal a la diversidad cultural, étnica y religiosa.
 
 ### Capítulo II. De los Derechos
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 67.
 
-De manera enunciativa, más no limitativa, conforme al presente Código, los menores en el Estado de Chiapas, tienen derecho a la vida, integridad, dignidad, identidad, seguridad jurídica y familiar, salud y alimentación, educación, asistencia a los que tengan discapacidad, pensamiento y derecho a una cultura propia, a participar al debido proceso en caso de infracción a la Ley penal.
+De manera enunciativa, más no limitativa, conforme al presente Código, las niñas, niños y adolescentes, en el Estado de Chiapas, tienen derecho a la vida, integridad, dignidad, identidad, seguridad jurídica y familiar, salud y alimentación, educación, asistencia a los que tengan discapacidad, pensamiento y derecho a una cultura propia, a participar al debido proceso en caso de infracción a la Ley penal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 68.
 
-Los menores tienen derecho a la vida, integridad y dignidad, los cuales consisten:
+Las niñas, niños y adolescentes, tienen derecho a la vida, integridad y dignidad, los cuales consisten:
 
-I. A la vida con calidad, siendo obligación del padre y la madre, del Estado y de la sociedad, garantizar a los menores, su sobrevivencia y desarrollo, así como el acceso a los medios y mecanismos necesarios para ello;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+I. A la vida con calidad, siendo obligación del padre y la madre, del Estado y de la sociedad; garantizar a las niñas, niños y adolescentes, su sobrevivencia y desarrollo, así como el acceso a los medios y mecanismos necesarios para ello.
 
 II. A la no discriminación en razón de raza, color, género, idioma o lenguaje, religión, opinión política, origen étnico, nacionalidad o condición social, posición económica, discapacidad física o mental, circunstancias de nacimiento o cualquier otra condición no prevista en este artículo;
 
@@ -829,11 +845,13 @@ VI. A recibir protección por parte de sus progenitores y familiares, el Estado 
 
 VII. A recibir información respecto de cuestiones de seguridad pública y de protección civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 69.
 
-El derecho a la identidad, seguridad jurídica y familiar de los menores está compuesta por:
+El derecho a la identidad, intimidad, seguridad jurídica y familiar de las niñas, niños y adolescentes está compuesta por:
 
-I El conjunto de atributos y derechos de la personalidad, conforme a lo previsto en la legislación civil del Estado, que conforma la identidad;
+I. El conjunto de atributos y derechos de la personalidad, conforme a lo previsto en la legislación civil del Estado, que conforma la identidad;
 
 II. A ser registrados después de su nacimiento, con un nombre y apellidos propios, de conformidad con lo previsto en la legislación civil estatal;
 
@@ -847,13 +865,51 @@ VI. A emitir su opinión en todos los asuntos que le afecten, a ser escuchado to
 
 VII. A recibir un trato digno y apropiado, cuando sean víctimas de cualquier tipo de ilícito o cuando ellos mismos cometan infracciones;
 
-VIII. A recibir el apoyo de las entidades estatales, en lo relativo al ejercicio y respeto a sus derechos, a través de las instituciones creadas para tal efecto; y,
+VIII. A recibir el apoyo de las entidades estatales, en lo relativo al ejercicio y respeto a sus derechos, a través de las instituciones creadas para tal efecto; y (sic),
 
-IX. A que se procure su encuentro con su familia, cuando sea privado de ella, así mismo, se tendrá como prioritaria la necesidad de que los menores cuyos padres estén separados, tengan derecho a convivir o mantener relaciones personales y trato directo con ambos, salvo que de conformidad con la Ley de la materia, la autoridad determine que ello es contrario al interés superior del menor.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+IX. A que se procure su encuentro con su familia, cuando sea privado de ella, así mismo, se tendrá como prioritaria la necesidad de que los menores cuyos padres estén separados, tengan derecho a convivir o mantener relaciones personales y trato directo con ambos, salvo que de conformidad con la ley de la materia, la autoridad determine que ello es contrario al interés superior de las niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+X. A que se le respeten su correspondencia, domicilio, vida privada e intimidad familiar.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 69 Bis.
+
+El Gobierno del Estado y los Ayuntamientos establecerán las medidas necesarias para asegurar que:
+
+I. Se registre sin alteración la identidad de niñas, niños y adolescentes al momento de presentarlos ante el Registro Civil.
+
+II. Se sancione a quienes proporcionen datos falsos en actos relativos al estado civil de niñas, niños y adolescentes.
+
+III. Se proporcione la asesoría y apoyos necesarios para orientar a los padres de familia en el registro de sus hijos.
+
+IV. Se preste la asistencia y protección apropiadas cuando se pretenda privar ilegalmente a niñas, niños y adolescentes de uno o más de los elementos de su identidad.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 69 Ter.
+
+Las instituciones de salud públicas o privadas emitirán la constancia de los nacimientos que atiendan en sus instalaciones, misma que establecerá la identidad de los recién nacidos y de sus padres.
+
+Cuando el alumbramiento no se produzca en una institución, el médico o persona que lo haya asistido comunicará al Registro Civil la información necesaria para la inscripción del nacimiento.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 69 Quáter.
+
+Las niñas, niños y adolescentes, ejercerán plenamente su derecho a la identidad, así como al reconocimiento de la paternidad o maternidad.
+
+El Gobierno del Estado les prestará la asistencia, protección y asesoría necesarias para protegerlos de toda violación a su derecho a la identidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 70.
 
-El derecho a la salud y alimentación de los menores, consiste:
+El derecho a la salud y alimentación de las niñas, niños y adolescentes, consiste;
 
 I. En poseer, recibir o tener acceso a los satisfactores necesarios, considerando alimentos, medicamentos, servicios y condiciones humanas o materiales, que posibiliten su desarrollo armónico e integral en el ámbito físico, intelectual, social y cultural;
 
@@ -871,9 +927,43 @@ VII. Obtener atención pre y post natal a las madres adolescentes, de conformida
 
 VIII. De manera especial, ser atendidos al presentar enfermedades endémicas, epidérmicas, de transmisión sexual y el VIH/Sida, impulsando programas de prevención e información sobre ellas.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 70 Bis.
+
+Para garantizar el derecho a la salud de las niñas, niños y adolescentes, el Gobierno del Estado, a través de la Secretaría de Salud y del DIF Chiapas, prestarán servicios de calidad, especialmente en materia de prevención, tratamiento y atención, para tal efecto realizarán las acciones siguientes:
+
+I. Asegurar la prestación de la asistencia médica y la atención sanitaria que sea necesaria, haciendo hincapié en el desarrollo de la atención primaria de salud.
+
+II. Apoyar la nutrición de la madre en estado de gestación y/o lactancia, para que el producto alcance la madurez y crecimiento necesario para su correcto desarrollo.
+
+III. Asistir médicamente, a través de las clínicas y hospitales del sector salud o de los establecimientos particulares con los que se convenga, a la madre adolescente en gestación o lactancia, sin importar su afiliación o no a los regímenes de asistencia del derechohabiente.
+
+IV. En los casos de niñas que resulten embarazadas, éstas recibirán un trato digno y respetuoso en los servicios de salud e información materno-infantil y atención médica y hospitalaria.
+
+V. Apoyar las campañas de medicina preventiva y vacunación de las diversas instancias de gobierno.
+
+VI. Realizar las campañas de prevención y detección de enfermedades y discapacidades.
+
+VII. Proporcionar complementos alimenticios a las niñas, niños y adolescentes que lo requieran.
+
+VIII. Establecer comedores para proporcionar una alimentación balanceada a las niñas, niños y adolescentes que lo requieran por su precaria situación económica y que se encuentran realizando estudios en las escuelas del sector público, independiente del nivel de escolaridad.
+
+IX. Crear y fortalecer centros de capacitación y albergues escolares en las zonas rurales, donde se proporcione a manera de beca, alimentación y vivienda.
+
+X. Proporcionar información y educación sexual con perspectiva de género.
+
+XI. Asegurar que todos los sectores de la sociedad y en particular los padres tengan conocimiento acerca de los principios básicos de la salud y la nutrición de las niñas, niños y adolescentes, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes, tengan acceso a la educación pertinente y reciban apoyo en la aplicación de esos conocimientos.
+
+XII. Impulsar programas de atención a enfermedades endémicas, epidémicas, de transmisión sexual y del VIH/SIDA, así como programas de prevención e información sobre las mismas.
+
+XIII. Las demás acciones que coadyuven a asegurar el derecho y la salud en forma integral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 71.
 
-Los menores tienen derecho a una educación que respete su dignidad y les prepare para la vida, la cual consiste:
+Las niñas, niños y adolescentes, tienen derecho a una educación que respete su dignidad y les prepare para la vida, la cual consiste:
 
 I. A que se les proporcione la atención educativa que por su edad, madurez y circunstancias especiales, requieran para su pleno desarrollo;
 
@@ -887,11 +977,15 @@ V. A que se prevean mecanismos de participación democrática en todas las activ
 
 VI. A que se impida en las instituciones educativas la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a su dignidad, atente contra su vida o su integridad física o mental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 72.
 
-En la protección de los derechos de los menores con discapacidad, se establecerán normas tendientes a:
+En la protección de los derechos de las niñas, niños y adolescentes que presenten discapacidad, se establecerán normas tendentes a:
 
-I. Que los menores con discapacidad tanto física, intelectual o sensorial, no podrán ser discriminados por ningún motivo, independientemente de los demás derechos que reconocen y otorga este Código; tienen derecho a desarrollar plenamente sus aptitudes y a gozar de una vida digna, que les permita integrarse a la sociedad, participando en la medida de sus posibilidades, en el ámbito escolar, laboral, cultural, recreativo y económico;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+I. Que las niñas, niños y adolescentes con discapacidad tanto física, intelectual o sensorial, no podrán ser discriminados por ningún motivo, independientemente de los demás derechos que reconocen y otorga este Código; tienen derecho a desarrollar plenamente sus aptitudes y a gozar de una vida digna, que les permita integrarse a la sociedad, participando en la medida de sus posibilidades, en el ámbito escolar, laboral, cultural, recreativo y económico;
 
 II. Ofrecer apoyos educativos y formativos a padres y familiares de menores con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo y vida digna;
 
@@ -901,9 +995,11 @@ IV. Fomentar centros educativos especiales y proyectos de educación especial, q
 
 V. Adaptar el medio que rodea a menores con discapacidad a sus necesidades particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 73.
 
-Los menores tienen derecho al pensamiento y una cultura propia consistente:
+Las niñas, niños y adolescentes tienen derecho al pensamiento y a una cultura propia consistente:
 
 I. A gozar de libertad de pensamiento y conciencia; y,
 
@@ -911,9 +1007,23 @@ II. Cuando pertenezcan a un pueblo o comunidad indígena, tienen derecho a disfr
 
 Lo dispuesto en el párrafo anterior, no debe entenderse como limitativo del ejercicio del derecho a la educación, según lo dispuesto en el Artículo 3°, de la Constitución Política de los Estados Unidos Mexicanos, ni de ningún otro protegido por este Código.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 73 Bis.
+
+Las niñas, niños y adolescentes tendrán derecho a la cultura, que consiste en:
+
+I. Acceder a espacios culturales, que fomenten el conocimiento de sus valores, historia y tradiciones.
+
+II. El conocimiento y la participación de las niñas, niños y adolescentes en la cultura y las artes, así como su acercamiento y adaptación a las diferentes etapas de desarrollo por las que atraviesan.
+
+III. Acceder a los servicios de información, documentación, bibliotecas y demás servicios culturales públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 74.
 
-El derecho de participación de los menores consiste en:
+El derecho de participación de las niñas, niños y adolescentes consiste en:
 
 I. Libertad de expresión; la cual incluye sus opiniones y a ser informado. Dichas libertades se ejercerán sin más límite, que lo previsto por la Constitución Federal;
 
@@ -925,9 +1035,11 @@ IV. Expresar opinión; implica, que se les tome su parecer respecto de los asunt
 
 V. Reunirse y asociarse. Las Leyes, deben disponer lo necesario para que puedan ejercerlo sin más límites que lo que establece la Constitución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 75.
 
-El presente Código protegerá los derechos de los menores que se encuentren en conflicto con la ley penal, de cualquier ingerencia arbitraria o contraria a sus garantías constitucionales o a los derechos reconocidos en este Código y en los Tratados suscritos por nuestro país, en los términos del Artículo 133 constitucional, los cuales consisten en:
+El presente Código protegerá los derechos de las niñas, niños y adolescentes, que se encuentren en conflicto con la ley penal, de cualquier injerencia arbitraria o contraria a sus garantías constitucionales o a los derechos reconocidos en este Código y en los Tratados suscritos por nuestro país, en los términos del artículo 133, Constitucional, los cuales consisten en:
 
 I. Que no sean sometidos a torturas ni a otros tratos o penas crueles inhumanas o degradantes;
 
@@ -947,9 +1059,11 @@ c) Que a quien se prive legalmente de su libertad, sea tratado, respetando sus d
 
 d) Que quienes sean privados de su libertad, tengan derecho a mantener contacto permanente y constante con su familia, con la cual podrá convivir, salvo en los casos que lo impida el interés superior del menor.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 76.
 
-Los menores tienen derecho al descanso y al juego, los cuales serán respetados como factores primordiales de su desarrollo y crecimiento; así como a disfrutar de las manifestaciones y actividades culturales y artísticas de su comunidad.
+Las niñas, niños y adolescentes tienen derecho al descanso, recreación esparcimiento, deporte y al juego, los cuales serán respetados como factores primordiales de su desarrollo y crecimiento, así como fortalecer los valores de solidaridad, tolerancia, identidad cultural y artísticas y conservación del medio ambiente de su comunidad.
 
 ###### Artículo 77.
 
@@ -965,23 +1079,31 @@ A los que infrinjan tal prohibición y que además pongan en peligro su integrid
 
 ### Capítulo Único. Generalidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 79.
 
-Son obligaciones de padres, madres y de todas las personas que tengan a su cuidado (sic) menor:
+Son obligaciones de padres, madres y de todas las personas que tengan a su cuidado un menor de dieciocho años:
 
 I. Proporcionarles una vida digna, garantizando la satisfacción de alimentación, así como el pleno y armónico desarrollo de su personalidad en el seno de la familia, escuela y la sociedad;
 
 Para los efectos de este precepto, la alimentación comprende esencialmente la satisfacción de las necesidades de comida, habitación, educación, vestido, asistencia en caso de enfermedad y recreación.
 
-Las normas dispondrán lo necesario para garantizar el cumplimiento de los deberes antes señalados. En todo caso, se preverán los procedimientos y la asistencia jurídica necesaria para asegurar que ascendientes, padres, tutores y responsables de menores, cumplan con su deber de dar alimentos. Se establecerá en las leyes respectivas, la responsabilidad penal para quienes incurran en abandono de personas.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-II. Protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso y explotación. Lo anterior implica que la facultad que tienen quienes ejercen la patria protestad o la custodia de menores, no podrán al ejercerla, atentar contra su integridad física o mental ni actuar en menoscabo de su desarrollo.
+Las normas dispondrán lo necesario para garantizar el cumplimiento de los deberes antes señalados. En todo caso, se preverán los procedimientos y la asistencia jurídica necesaria para asegurar que ascendientes, padres, tutores y responsables de niñas, niños o adolescentes, cumplan con su deber de dar alimentos. Se establecerá en las leyes respectivas, la responsabilidad penal para quienes incurran en abandono de personas.
+
+> <small>(REFORMADA EN SU PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+II. Protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso y explotación. Lo anterior implica que la facultad que tienen quienes ejercen la patria potestad o la custodia de niñas, niños y adolescentes, no podrán al ejercerla, atentar contra su integridad física o mental ni actuar en menoscabo de su desarrollo.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, impulsarán la prestación de servicios de guardería, así como auxilio y apoyo a los ascendientes o tutores responsables que trabajen.
 
 III. Tratarlos con respeto a su dignidad y a sus derechos; cuidarlos, atenderlos y orientarlos a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar el de las otras personas; y,
 
-IV. Será obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos, o cualquier persona, que tenga conocimiento de casos de menores que estén sufriendo la violación de sus derechos consignados en este Código, en cualquiera de sus formas, de ponerlo en conocimiento inmediato a la Procuraduría, de manera que pueda seguirse la investigación correspondiente en las escuelas o instituciones similares. Los educadores o maestros serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de menores.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+IV. Será obligación de familiares, vecinos, médicos, maestros, trabajadores sociales; servidores públicos, o cualquier persona, que tenga conocimiento de casos de niñas, niños y adolescentes, que estén sufriendo la violación de sus derechos consignados en este Código, en cualquiera de sus formas, de ponerlo en conocimiento inmediato a la Procuraduría, de manera que pueda seguirse la investigación correspondiente en las escuelas o instituciones similares. Los educadores o maestros serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños y adolescentes.
 
 ###### Artículo 80.
 
@@ -991,33 +1113,33 @@ Corresponde al padre y a la madre los deberes enunciados en el artículo anterio
 
 Es obligación de los progenitores, miembros de la familia y responsables del cuidado de las niñas y niños, el que éstos reciban la aplicación de las vacunas que comprenden el esquema básico; acudiendo para ello a las clínicas del sector salud del Estado o centros temporales de vacunación.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 82.
 
-La Secretaría de Desarrollo Social en coordinación con el DIF-Chiapas, instrumentarán los mecanismos conforme a los cuales las autoridades y las instituciones los apoyen y asistan en el cumplimiento de sus responsabilidades.
+La Secretaría de Desarrollo y Participación Social en coordinación con el DIF Chiapas, instrumentarán los mecanismos conforme a los cuales las autoridades y las instituciones los apoyen y asistan en el cumplimiento de sus responsabilidades.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 83.
 
-El Gobierno del Estado a través de la Secretaría de Desarrollo Social y el DIF-Chiapas, en coordinación con las demás instancias locales y federales, establecerán las normas y los mecanismos necesarios a fin de que, cuando los menores se vean separados de su familia de origen, se procure su reencuentro con ella, o bien para la localización de sus familiares en los casos de abandono, sustracción ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
+El Gobierno del Estado a través de la Secretaría de Desarrollo y Participación Social y el DIF Chiapas, en coordinación con las demás instancias locales y federales, establecerán las normas y los mecanismos necesarios a fin de que, cuando las niñas, niños y adolescentes se vean separados de su familia de origen, se procure su reencuentro con ella, o bien para la localización de sus familiares en los casos de abandono, sustracción ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 84.
 
-Cuando un menor se vea privado de su familia tendrá derecho a recibir el apoyo de la Secretaría de Desarrollo Social y del DIF-Chiapas, quienes deberán brindarle asistencia social, atención integral y en su caso, proporcionarle un hogar provisional.
+Cuando un menor de dieciocho años se vea privado de su familia tendrá derecho a recibir el apoyo de la Secretaría de Desarrolló y Participación Social y del DIF Chiapas, quienes deberán brindarle asistencia social, atención integral y en su caso, proporcionarle un hogar provisional.
 
 ## Título Tercero. De la Procuración
 
 ### Capítulo Único. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 85.
 
-Para una mejor defensa y protección de los derechos de menores, el DIF-Chiapas, a través de la Procuraduría, además de las facultades que le confieren otras disposiciones legales, será la instancia especializada con funciones de autoridad para la efectiva procuración del respeto de tales derechos.
+Para una mejor defensa y protección de los derechos de las niñas, niños y adolescentes, el DIF Chiapas, a través de la Procuraduría de la Familia y Grupos Vulnerables, además de las facultades que le confiere otras disposiciones legales, será la instancia especializada con funciones de autoridad para la efectiva procuración del respeto de tales derechos.
 
 ###### Artículo 86.
 
@@ -1045,11 +1167,11 @@ IX. Aplicar las sanciones establecidas en este Código; y,
 
 X. Las demás que le confieran expresamente las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 87.
 
-Cuando el DIF-Chiapas tenga conocimiento o reciba una denuncia, por un supuesto hecho o maltrato a los derechos de los menores, se procederá de la siguiente manera:
+Cuando el DIF Chiapas tenga conocimiento o reciba una denuncia, por un supuesto hecho o maltrato a los derechos de las niñas, niños y adolescentes, se procederá de la siguiente manera:
 
 I. Turnará el asunto a la Procuraduría;
 
@@ -1067,21 +1189,25 @@ Cuando la violación sea grave, se realizará la denuncia ante el Fiscal del Min
 
 Procuraduría, a realizar las investigaciones para reunir todos los elementos que acrediten el cuerpo del delito y la probable responsabilidad, que permitan al Fiscal del Ministerio Público, actuar de acuerdo a sus atribuciones constitucionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 89.
 
-Una vez que la Procuraduría tenga conocimiento de una violación a los derechos de los menores, ésta deberá:
+Una vez que la Procuraduría tenga conocimiento de una violación a los derechos de las niñas, niños y adolescentes, ésta deberá:
 
-I. Actuar salvaguardando la integridad física y mental de los menores;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+I. Actuar salvaguardando la integridad física y mental de las niñas, niños y adolescentes;
 
 II. Solicitar el apoyo y cooperación de una casa hogar para albergarlos, en caso de no tener familiares; y,
 
 III. Realizar la denuncia correspondiente ante el Fiscal del Ministerio Público, en casos graves, para la integración de la averiguación previa.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 90.
 
-La Procuraduría General de Justicia del Estado, deberá establecer dentro de su estructura orgánica, Fiscalías del Ministerio Público especializadas en delitos cometidos en contra de menores de 18 años, las cuales deberán estar integradas por personal especializado en la atención de menores.
+La Procuraduría General de Justicia del Estado, deberá establecer dentro de su estructura orgánica, Fiscalías del Ministerio Público especializadas en delitos cometidos en contra de menores de 18 años, las cuales deberán estar integradas por personal especializado en la atención de las niñas, niños y adolescentes.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1091,7 +1217,9 @@ En lo relativo a los medios de solución de conflictos, de conciliación, mediac
 
 Referente a las infracciones, la Procuraduría, aplicará en lo conducente lo previsto en el Título Segundo, del Libro Tercero de este Código.
 
-La Procuraduría, para asistir a los menores indígenas en las diligencias que así lo requieran, podrá solicitar la colaboración de traductores a la Comisión Nacional de Pueblos Indígenas o a la Secretaría de Pueblos Indios del Gobierno del Estado y demás instituciones afines.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+La Procuraduría, para asistir a las niñas, niños y adolescentes indígenas en las diligencias que así lo requieran, podrá solicitar la colaboración de traductores a la Comisión Nacional de Pueblos Indígenas o a la Secretaría de Pueblos Indios del Gobierno del Estado y demás instituciones afines.
 
 ## Título Cuarto. Del Comité de Seguimiento y Vigilancia de los Derechos de las Niñas, Niños y Adolescentes en el Estado
 
@@ -1113,9 +1241,9 @@ III. Un Vicepresidente: Que será la Presidenta del Consejo Ciudadano Consultivo
 
 IV. Un Secretario Técnico: Que será el titular del Sistema para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-V. Vocales A: Que serán los titulares de las Dependencias y Entidades siguientes: Secretarías de Desarrollo Social, de Hacienda, de Salud, de Educación, de Pueblos Indios, de Seguridad y Protección Ciudadana, Procuraduría General de Justicia del Estado, Instituto de Población y Ciudades Rurales, Instituto del Deporte e Instituto Estatal de las Mujeres; y,
+V. Vocales A: Que serán los titulares de las Dependencias y Entidades siguientes: Secretaría de Desarrollo y Participación Social, de Hacienda, para el Desarrollo y Empoderamiento de las Mujeres, de Salud, de Educación, de Pueblos Indios, de Seguridad y Protección Ciudadana, de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales e Instituto del Deporte;
 
 VI. Vocales B: Que serán tres diputados integrantes de las comisiones de atención de la mujer y la niñez, equidad y género, atención a grupos vulnerables, del Honorable Congreso del Estado; quienes podrán participar con voz pero no con voto.
 
@@ -1125,13 +1253,17 @@ De igual forma, el Comité podrá invitar a sus reuniones a representantes del s
 
 Sesionará en forma ordinaria de manera trimestral, y extraordinariamente a petición expresa del Presidente, o de la mitad de los miembros del Comité, a través del Secretario Técnico, quien deberá emitir la convocatoria; debiendo tomar los acuerdos por mayoría de votos.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 93.
 
-Los objetivos del Comité son: Fortalecer las capacidades de las instituciones gubernamentales, a fin de que sean instrumentadas políticas, programas y servicios que garanticen a los menores, el cabal cumplimiento del presente Código.
+Los objetivos del Comité son, de manera general y enunciativa:
 
-Crear en el ámbito de sus competencias, los mecanismos e instrumentos que permitan dar seguimiento y evaluar el progreso registrado en la aplicación de los derechos de los menores, los avances de los programas y acciones emprendidos para el disfrute de tales derechos.
+I. Fortalecer las capacidades de las instituciones gubernamentales, a fin de que sean instrumentadas políticas, programas y servicios que garanticen a las niñas, niños y adolescentes, el cabal cumplimiento del presente Código.
 
-Instrumentar estrategias encaminadas a generar un proceso de cambio social, que permita desarrollar una cultura de respeto a los menores en el Estado, respaldada por leyes y políticas públicas.
+II. Crear en el ámbito de sus competencias, los mecanismos e instrumentos que permitan dar seguimiento y evaluar el progreso registrado en la aplicación de los derechos de las niñas, niños y adolescentes, los avances de los programas y acciones emprendidos para el disfrute de tales derechos.
+
+III. Instrumentar estrategias encaminadas a generar un proceso de cambio social, que permita desarrollar una cultura de respeto a las niñas, niños y adolescentes en el Estado, respaldada por leyes y políticas públicas.
 
 ###### Artículo 94.
 
@@ -1151,33 +1283,35 @@ Los Ayuntamientos de los municipios del Estado, constituirán los Comités de Se
 
 ### Capítulo II. De las Funciones del Comité
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 98.
 
 El Comité, tendrá dentro de sus funciones:
 
-I. Establecer estrategias interinstitucionales que permitan elaborar y mantener actualizado el análisis de situaciones de los menores;
+I. Establecer estrategias interinstitucionales que permitan elaborar y mantener actualizado los análisis de situaciones de las niñas, niños y adolescentes.
 
 II. Diseñar e instrumentar programas y acciones interinstitucionales y de vinculación con la sociedad civil, que permitan dar cumplimiento a los principios y disposiciones emanadas de la Convención sobre los derechos de la niñez, así como del presente Código.
 
-III. Promover estrategias encaminadas a generar un proceso de cambio social para hacer de los derechos de los menores, una práctica cotidiana entre las familias y las comunidades en la Entidad;
+III. Promover estrategias encaminadas a generar un proceso de cambio social para hacer de los derechos de las niñas, niños y adolescentes, una práctica cotidiana entre las familias y las comunidades en la Entidad.
 
-IV. Impulsar acciones de difusión sobre los derechos de los menores, así como promover, a través de los medios masivos de comunicación, la sensibilización comunitaria acerca de la problemática que viven algunos menores en la Entidad;
+IV. Impulsar acciones de difusión sobre los derechos de las niñas, niños y adolescentes, así como promover, a través de los medios masivos de comunicación, la sensibilización comunitaria acerca de la problemática que viven algunos menores en la Entidad.
 
-V. Diseñar y proponer modelos de intervención, en los cuales las instituciones puedan articular sus recursos humanos, materiales y operativos para la atención y prevención de la problemática que enfrentan los menores y que limitan su adecuado desarrollo;
+V. Diseñar y proponer modelos de intervención, en los cuales las instituciones puedan articular sus recursos humanos, materiales y operativos para la atención y prevención de la problemática que enfrentan las niñas, niños y adolescentes y que limitan su adecuado desarrollo.
 
-VI. Propiciar que los principios básicos de la Convención, sean considerados en el proceso de toma de decisiones y en la formulación e instrumentación de las políticas, programas y presupuestos, que tengan impacto directo en las acciones a favor de los menores que se ejecuten en la Entidad;
+VI. Propiciar que los principios básicos de la Convención, sean considerados en el proceso de toma de decisiones y en la formulación e instrumentación de las políticas, programas y presupuestos, que tengan impacto directo en las acciones a favor de las niñas, niños y adolescentes que se ejecuten en la Entidad.
 
-VII. Apoyar y colaborar en el diseño y ejecución de los programas de acción, a favor de la infancia a nivel estatal;
+VII. Apoyar y colaborar en el diseño y ejecución de los programas de acción, a favor de la infancia a nivel estatal.
 
-VIII. Promover las adecuaciones legislativas a fin de hacer compatibles las leyes, normas y reglamentos estatales, con los principios de la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los derechos de la niñez, así como los derechos que se establecen en el presente ordenamiento;
+VIII. Promover las adecuaciones legislativas a fin de hacer compatibles las leyes, normas y reglamentos estatales, con los principios de la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los derechos de la niñez, así como los derechos que se establecen en el· presente ordenamiento.
 
-IX. Celebrar convenios de colaboración con el Fondo de las Naciones Unidas para la Infancia (UNICEF), Sistema Nacional para el Desarrollo Integral de la Familia (DIF), así como con los Comités Municipales de Seguimiento y Vigilancia de la aplicación del presente Código, y demás instancias protectoras de los derechos de la infancia, que permitan unificar criterios en la promoción y protección de los derechos de los menores;
+IX. Celebrar convenios de colaboración con el Fondo de las Naciones Unidas para la Infancia (UNICEF), Sistema Nacional para el Desarrollo Integral de la Familia (DIF), así como con los Comités Municipales de Seguimiento y Vigilancia de la aplicación del presente Código, y demás instancias protectoras de los derechos de la infancia, que permitan unificar criterios en la promoción y protección de los derechos de las niñas, niños y adolescentes.
 
-X. Fomentar y fortalecer la colaboración, concertación, coordinación y participación corresponsable de instituciones públicas y privadas en la realización de acciones para garantizar el ejercicio de los derechos de los menores;
+X. Fomentar y fortalecer la colaboración, concertación, coordinación y participación corresponsable de instituciones públicas y privadas en la realización de acciones para garantizar el ejercicio de los derechos de las niñas, niños y adolescentes.
 
-XI. Proponer los mecanismos e instrumentos tendientes a la consecución de aportaciones y donaciones que realicen las personas físicas o morales, públicas o privadas, de carácter local, nacional o internacional, con el propósito de coadyuvar con el cumplimiento, respeto y ejecución de los planes y programas dirigidos en beneficio de los menores;
+XI. Proponer los mecanismos e instrumentos tendientes a la consecución de aportaciones y donaciones que realicen las personas físicas o morales, públicas o privadas, de carácter local, nacional o internacional, con el propósito de coadyuvar con el cumplimiento, respeto y ejecución de los planes y programas dirigidos en beneficio de las niñas, niños y adolescentes.
 
-XII. Fomentar y supervisar las acciones de los Comités municipales que al efecto se integren, de conformidad con el Artículo 91, del presente Código; y,
+XII. Fomentar y supervisar las acciones de los Comités municipales que al efecto se integren, de conformidad con el artículo 91, del presente Código.
 
 XIII. Las demás que señale el presente Código y demás disposiciones aplicables.
 
@@ -1197,7 +1331,9 @@ IV. Dictar las medidas que se estimen convenientes para alcanzar los propósitos
 
 V. Conocer los avances en la instalación de comités municipales; y,
 
-VI. Emitir las recomendaciones necesarias a las Instituciones Públicas y Privadas que realicen actividades en beneficio de los menores.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+VI. Emitir las recomendaciones necesarias a las Instituciones Públicas y Privadas que realicen actividades en beneficio de las niñas, niños y adolescentes.
 
 ### Capítulo IV. De los Integrantes
 
@@ -1223,7 +1359,7 @@ VIII. Proponer al Pleno la integración de grupos auxiliares de trabajo, que no 
 
 IX. Representar al Comité para todos los actos que se requiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 101.
 
@@ -1263,37 +1399,39 @@ XII. Promover y mantener los canales adecuados de comunicación e información c
 
 XIII. Mantener permanentemente informados al Pleno y al Presidente sobre la situación que guardan los asuntos del Comité; y,
 
-XIV. Promover y mantener la coordinación con instituciones y dependencias que coadyuven a mejorar las condiciones de los menores.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+XIV. Promover y mantener la coordinación con instituciones y dependencias que coadyuven a mejorar las condiciones de las niñas, niños y adolescentes.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 103.
 
-Corresponde al titular del DIF-Chiapas, además de las atribuciones establecidas en el artículo anterior:
+Corresponde al titular del DIF Chiapas, además de las atribuciones establecidas en el artículo anterior:
 
-I. Planear, coordinar y evaluar políticas y acciones de integración e inclusión, protección y desarrollo de las niñas y adolescentes y sus familias en estado de riesgo de vulnerabilidad, marginación e indefensión;
+I. Planear, coordinar y evaluar políticas y acciones de integración e inclusión, protección y desarrollo de las niñas y adolescentes y sus familias en estado de riesgo de vulnerabilidad, marginación e indefensión.
 
-II. Fomentará y coordinará el desarrollo de acciones con las dependencias del Ejecutivo del Estado, los gobiernos municipales y los sectores públicos y privados a favor de los menores;
+II. Fomentará y coordinará el desarrollo de acciones con las dependencias del Ejecutivo del Estado, los gobiernos municipales y los sectores públicos y privados a favor de las niñas, niños y adolescentes.
 
-III. Fomentar la educación en coordinación con las autoridades competentes para la integración e inclusión social de los menores en riesgo de vulnerabilidad, marginación o indefensión, a través de los instrumentos de la enseñanza escolar y extraescolar;
+III. Fomentar la educación en coordinación con las autoridades competentes para la integración e inclusión social de las niñas, niños y adolescentes en riesgo de vulnerabilidad, marginación o indefensión, a través de los instrumentos de la enseñanza escolar y extraescolar.
 
-IV. Fomentar el sano crecimiento físico y mental de los menores, contribuyendo a la formación de su conciencia crítica, desde temprana edad;
+IV. Fomentar el sano crecimiento físico y mental de las niñas, niños y adolescentes, contribuyendo a la formación de su conciencia crítica, desde temprana edad.
 
-V. Fomentar, apoyar, coordinar y evaluar las actividades de las instituciones de asistencia pública o privada, organismos civiles y demás entidades cuyo objeto sea la prestación de servicios en beneficio de menores en estado de vulnerabilidad, sin perjuicio de las atribuciones que al efecto corresponda a otras dependencias o entidades;
+V. Fomentar, apoyar, coordinar y evaluar las actividades de las instituciones de asistencia pública o privada, organismos civiles y demás entidades cuyo objeto sea la prestación de servicios en beneficio de las niñas, niños y adolescentes en Estado de vulnerabilidad, sin perjuicio de las atribuciones que al efecto corresponda a otras dependencias o entidades.
 
-VI. Desarrollar acciones en materia de prevención y rehabilitación de discapacidades en menores;
+VI. Desarrollar acciones en materia de prevención y rehabilitación de discapacidades en las niñas, niños y adolescentes.
 
-VII. Fomentar y gestionar con las autoridades federales, estatales o municipales servicios asistenciales;
+VII. Fomentar y gestionar con las autoridades federales, estatales o municipales servicios asistenciales.
 
-VIII. Uniformar los procedimientos que determinen la orientación general a que deben sujetarse los programas de protección de menores;
+VIII. Uniformar los procedimientos que determinen la orientación general a que deben sujetarse los programas de protección de las niñas, niños y adolescentes.
 
-IX. Proponer a las instancias competentes, la promoción de la educación popular en lo referente a la higiene de menores; a la formación de buenos hábitos; a la educación familiar, entre otros, a través de conferencias, exposiciones, revistas, folletos, volantes, carteles o cualquier otro medio de comunicación masiva;
+IX. Proponer a las instancias competentes, la promoción de la educación popular en lo referente a la higiene de las niñas, niños y adolescentes; a la formación de buenos hábitos; a la educación familiar, entre otros, a través de conferencias, exposiciones, revistas, folletos, volantes, carteles o cualquier otro medio de comunicación masiva.
 
-X. Realizar encuestas o investigaciones sobre cualquier asunto que se refiera a la protección e interés superior de menores, requiriendo para tal objeto, la cooperación de las instituciones públicas;
+X. Realizar encuestas o investigaciones sobre cualquier asunto que o se refiera a la protección e interés superior de las niñas, niños y adolescentes, requiriendo para tal objeto, la cooperación de las instituciones públicas.
 
-XI. Gestionar ante los Ayuntamientos Municipales, la habilitación de espacios especiales, plazas y parques públicos, destinados a la asistencia social, recreación y esparcimiento de menores;
+XI. Gestionar ante los Ayuntamientos Municipales, la habilitación de espacios especiales, plazas y parques públicos, destinados a la asistencia social, recreación y esparcimiento de las niñas, niños y adolescentes.
 
-XII. Celebrar convenios con las dependencias y entidades de la administración pública federal, estatal y municipales, así como los sectores público, social y privado, para el cumplimiento de los objetivos enumerados en este artículo; y,
+XII. Celebrar convenios con las dependencias y entidades de la administración pública federal, estatal y municipal, así como los sectores público, social y privado, para el cumplimiento de los objetivos enumerados en este artículo.
 
 XIII. Las que establezcan las leyes y demás disposiciones jurídicas aplicables.
 
@@ -1301,9 +1439,9 @@ XIII. Las que establezcan las leyes y demás disposiciones jurídicas aplicables
 
 El Comité contará con los vocales siguientes:
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-Vocales A. Integrado por los titulares de las Secretarías de Desarrollo Social, de Hacienda, de Salud, de Educación, de Pueblos Indios, de Seguridad y Protección Ciudadana, Procuraduría General de Justicia del Estado, Instituto de Población y Ciudades Rurales, Instituto del Deporte y del Instituto Estatal de las Mujeres.
+Vocales A. Integrado por los titulares de las Secretarías de Desarrollo y Participación Social, de Hacienda, de Salud, de Educación, para el Desarrollo y Empoderamiento de las Mujeres, de Pueblos Indios, de Seguridad y Protección Ciudadana, de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales, y del Instituto del Deporte.
 
 Vocales B. Integrado por tres diputados de la Comisión de Atención de la Mujer y la Niñez y/o Equidad y Género del Congreso del Estado.
 
@@ -1331,81 +1469,107 @@ X. Proponer la incorporación de nuevos integrantes al comité; y,
 
 XI. Las demás que le sean asignadas por el Pleno.
 
-## Título Quinto. De las Niñas, Niños y Adolescentes que se Encuentran o Viven en Circunstancias de Abandono, Maltrato o Marginación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-### Capítulo I. De las Acciones de Protección
+## Título Quinto. De la Atención a Situaciones de Riesgo
+
+> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA DEL CÓDIGO DE ATENCIÓN A LA FAMILIA Y GRUPOS VULNERABLES ES REFORMADA LA DENOMINACIÓN DEL CAPÍTULO I, PARA QUEDAR COMO CAPÍTULO ÚNICO COMPRENDIENDO LOS ARTÍCULOS DEL 105 AL 118, ASÍ MISMO, SE DEROGAN LAS DENOMINACIONES DE LOS CAPÍTULOS II, III, IV Y V.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+### Capítulo Único. De las Acciones
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 105.
 
-Toda persona que tenga conocimiento de algún menor que se encuentre en condiciones de abandono, maltrato o marginación, podrá pedir la intervención de las autoridades competentes, para que se apliquen de inmediato las medidas necesarias para su protección y atención.
+Toda persona que tenga conocimiento de niñas, niños y adolescentes que se encuentre en condiciones de abandono, maltrato o marginación, podrá pedir la intervención de las autoridades competentes, para que se apliquen de inmediato las medidas necesarias para su protección y atención.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 105 Bis.
+
+No deberá considerarse como exposición ni estado de abandono de niñas, niños y adolescentes, cuando los progenitores laboren a distancias, que ocasionen dificultades para darles la correcta atención, siempre y cuando las niñas, niños y adolescentes estén al debido cuidado de otra persona y sean tratados sin violencia.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 106.
 
-Para efectos del artículo anterior, el Ejecutivo Estatal establecerá programas interinstitucionales para proteger a los menores que se encuentren en vulnerabilidad.
+Para efectos del artículo interior, el Ejecutivo Estatal establecerá programas interinstitucionales para proteger a las niñas, niños y adolescentes que se encuentren en situaciones de riesgo que impidan su desarrollo integral.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 107.
 
-Los menores adictos a sustancias que producen dependencia, tendrán derecho a recibir tratamiento médico, tendiente a su rehabilitación, tomándose las medidas necesarias a fin de apoyar su salud física y psicológica, para tal fin la Secretaría de Salud, reforzará y creará programas integrales enfocados a la problemática particular asociada a los distintos tipos de drogas y a las formas de dependencia física y emocional.
+Las niñas, niños y adolescentes adictos a sustancias que producen dependencia, tendrán derecho a recibir tratamiento médico, tendiente a su rehabilitación, tomándose las medidas necesarias a fin de apoyar su salud física y psicológica, para tal fin la Secretaría de Salud, reforzará y creará programas integrales enfocados a la problemática particular asociada a los distintos tipos de drogas y a las formas de dependencia física y emocional.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 108.
 
-Tratándose de menores con adicciones que producen dependencia, se atenderá para su rehabilitación en la Dirección de Atención a Grupos Vulnerables, del DIF-Chiapas o, en su caso, se canalizará al CENTRA dependiente de la Procuraduría General de Justicia del Estado o alguna otra institución que le brinde el servicio correspondiente.
+Tratándose de las niñas, niños y adolescentes adictos a sustancias que producen dependencia, se atenderán para su rehabilitación en la Dirección de Atención a Grupos Vulnerables, del DIF Chiapas o, en su caso, se canalizará al CENTRA dependiente de la Procuraduría General de Justicia del Estado o a alguna otra institución que le brinde el servicio correspondiente.
 
 ###### Artículo 109.
 
 La Secretaría de Salud, establecerá las campañas preventivas tendientes a crear en las familias y la sociedad, la sensibilización y concientización sobre los efectos nocivos del uso de estupefacientes o sustancias que produzcan adicción.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 110.
 
-Cualquier persona o servidor público que tenga conocimiento de que algún menor haya sufrido maltrato o se encuentre en riesgo su integridad, tendrá la obligación de hacerlo del conocimiento del Fiscal del Ministerio Público.
+Cualquier persona o servidor público que tenga conocimiento de que algunas niñas, niños y adolescentes hayan sufrido maltrato o se encuentre en riesgo su integridad, tendrá la obligación de hacerlo del conocimiento del Fiscal del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 111.
 
-Aún cuando el menor se encuentre en custodia de su padre, madre, tutor o de cualquier persona que lo tenga legalmente o bajo su protección, el Fiscal del Ministerio Público, en ejercicio de sus atribuciones constitucionales, está facultado para intervenir de oficio, en los casos en que su integridad física o psíquica estén en peligro, a fin de proceder siempre en atención a su interés superior.
+Aún cuando la niña, niño y/o adolescente se encuentre en custodia de su padre, madre, tutor o de cualquier persona que lo tenga legalmente o bajo su protección, el Fiscal del Ministerio Público, en ejercicio de sus atribuciones constitucionales, está facultado para intervenir de oficio, en los casos en que su integridad física o psíquica estén en peligro, a fin de proceder siempre en atención a su interés superior.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 112.
 
-La Secretaría de Desarrollo Social, en coordinación con el DIF-Chiapas, tendrán la obligación de establecer un programa específico y prioritario para brindar a los menores en situación de calle, las medidas de defensa jurídica, de provisión, protección y asistencia.
+La Secretaría de Desarrollo y Participación Social, en coordinación con el DIF Chiapas, tendrán la obligación de establecer un programa específico y prioritario para brindar a las niñas, niños y adolescentes que se encuentren en situación de calle, las medidas de defensa jurídica, de provisión, protección y asistencia.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 113.
 
-La Secretaría de Desarrollo Social y el DIF-Chiapas, establecerán la coordinación y concertación, con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad y de las organizaciones sociales, en beneficio de los menores en situación de calle.
+La Secretaría de Desarrollo y Participación Social y el DIF Chiapas, establecerán la coordinación y concertación, con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad y de las organizaciones sociales, en beneficio de las niñas, niños y adolescentes que se encuentren en situación de calle.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 114.
 
-La Secretaría de Desarrollo Social y el DIF-Chiapas, impulsarán e implementarán medidas tendientes a prevenir y evitar que los menores realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
+La Secretaría de Desarrollo y Participación Social y el DIF Chiapas; impulsarán e implementarán medidas tendientes a prevenir y evitar que las niñas, niños y adolescentes realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 115.
 
-Para la atención a los menores en situación de calle, el DIF-Chiapas brindará el apoyo de terapias psicológicas, a través de la Dirección de Atención a Grupos Vulnerables, así como los aspectos legales, por medio de la Procuraduría; además de la participación, que en el ámbito de su competencia corresponda a los gobiernos municipales.
+Para la atención a las niñas, niños y adolescentes que se encuentren en situación de calle, el DIF Chiapas brindará el apoyo de terapias psicológicas, a través de la Dirección de Atención a Grupos Vulnerables, así como los aspectos legales, por medio de la Procuraduría; además de la participación; que en el ámbito de su competencia corresponda a los Gobiernos Municipales.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 116.
 
-La Secretaría de Desarrollo Social, la Secretaría de Salud y el DIF-Chiapas, propiciarán con la participación de los organismos públicos e instituciones privadas, los programas dirigidos a los menores con discapacidad, para su rehabilitación, su integración familiar, educativa y social; así como, la creación de talleres para capacitación laboral, la recreación y participación en el deporte y demás medios dirigidos a su rehabilitación.
+La Secretaría de Desarrollo y Participación Social, la Secretaría de Salud y el DIF Chiapas, propiciarán con la participación de los organismos públicos e instituciones privadas, los programas dirigidos a las niñas, niños y adolescentes con discapacidad, para su rehabilitación, su integración familiar, educativa, social y la creación de talleres para capacitación laboral, así como la recreación y participación en el deporte y demás medios dirigidos a su rehabilitación.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 117.
 
-La Secretaría de Desarrollo Social, en coordinación con el DIF-Chiapas, implementará las acciones encaminadas en la protección y cuidado de menores con discapacidad, los servicios inherentes a estas medidas se proporcionarán gratuitamente, cuando las condiciones económicas de los afectados así lo requieran.
+La Secretaría de Desarrollo y Participación Social, en coordinación con el DIF Chiapas, implementarán las acciones encaminadas en la protección y cuidado de las niñas, niños y adolescentes con discapacidad, los servicios inherentes a estas medidas se proporcionarán gratuitamente, cuando las condiciones económicas de los afectados así lo requieran.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 118.
 
-Para la atención de los menores con discapacidad, el DIF-Chiapas brindará el apoyo de rehabilitación, a través de la Dirección de Atención a Grupos Vulnerables.
+El DIF Chiapas brindará el apoyo de rehabilitación a las niñas, niños y adolescentes con discapacidad, a través de la Dirección de Atención a Grupos Vulnerables.
 
 ## Título Sexto. De las Sanciones y Recursos
 
-### Capítulo II. De las Niñas, Niños y Adolescentes con Adicciones
+### Capítulo I. De las Sanciones
 
 ###### Artículo 119.
 
@@ -1423,7 +1587,9 @@ I. Las actas elaboradas por la autoridad;
 
 II. Las indagaciones efectuadas por el personal propio o adscrito de la institución especializada de procuración;
 
-III. Los datos comprobados que aporten los menores o sus legítimos representantes; y,
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+III. Los datos comprobados que aporten las niñas, niños y adolescentes o sus legítimos representantes;
 
 IV. Cualquier otro elemento o circunstancia que aporte elementos de convicción para aplicar la sanción correspondiente.
 
@@ -1439,7 +1605,9 @@ III. La situación de reincidencia; y,
 
 IV. La condición económica del infractor.
 
-### Capítulo III. De las Niñas, Niños y Adolescentes Víctimas de Maltrato
+### Capítulo II. Del Recurso Administrativo
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 123.
 
@@ -1449,9 +1617,7 @@ Las resoluciones dictadas por la Procuraduría, con fundamento en las disposicio
 
 ## Título Primero. Disposiciones Normativas
 
-### Capítulo IV. De las Niñas, Niños y Adolescentes en Situación de Calle
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+### Capítulo I. De los Principios
 
 ###### Artículo 124.
 
@@ -1465,9 +1631,7 @@ La aplicación del presente Código, es con independencia de lo previsto en las 
 
 Corresponde a la Procuraduría, organismo con carácter de autoridad, la prevención, la asistencia y la atención integral de la problemática que dicha violencia presenta y la aplicación del presente Código, en coordinación con las Instituciones de la Administración Pública y de las Instituciones privadas, en el ámbito de sus respectivas competencias.
 
-### Capítulo V. De las Niñas, Niños y Adolescentes con Discapacidad
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+### Capítulo II. Del Consejo Estatal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar
 
 ###### Artículo 127.
 
@@ -1477,45 +1641,45 @@ Se crea el órgano interdisciplinario denominado Consejo Estatal para la Asisten
 
 En cada uno de los municipios del Estado, se establecerá un Consejo Municipal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar, el cual será presidido por el Presidente Municipal e integrado por el titular del DIF Municipal; así como por las autoridades municipales que realicen funciones relacionadas con el desarrollo social, salud, educación y seguridad pública.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-El Presidente Municipal, podrá invitar a participar en el Consejo Municipal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar, a representantes del DIF-Chiapas, del Tribunal Superior de Justicia del Estado, las Secretarías de Salud, de Hacienda, de Desarrollo Social, de Educación, de Seguridad y Protección Ciudadana, de Pueblos Indios, Procuraduría General de Justicia del Estado, Instituto de Población y Ciudades Rurales, Instituto del Deporte, Instituto Estatal de las Mujeres y Comisión de los Derechos Humanos; así como a representantes de organizaciones sociales y privadas dedicadas a la atención de la violencia familiar, asociaciones de padres de familia y especialistas en el tema.
+El Presidente Municipal, podrá invitar a participar en el Consejo Municipal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar, a representantes del DIF Chiapas; del Tribunal Superior de Justicia del Estado, de las Secretarías de Salud, de Hacienda, de Desarrollo y Participación Social, de Educación, de Seguridad y Protección Ciudadana, para el Desarrollo y Empoderamiento de las Mujeres, de Pueblos Indios; de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales, del Instituto del Deporte y de la Comisión de los Derechos Humanos; así como a representantes de organizaciones sociales y privadas dedicadas a la atención de la violencia familiar, asociaciones de padres de familia y especialistas en el tema.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 128.
 
 El Consejo Estatal deberá quedar conformado con los titulares de las instituciones siguientes:
 
-I. El DIF-Chiapas, a través de la Procuraduría;
+I. El DIF Chiapas, a través de la Procuraduría.
 
-II. La Secretaría General de Gobierno;
+II. La Secretaría General de Gobierno.
 
-III. Tres representantes del Congreso del Estado; uno de la Comisión de Equidad y Género, otro de la Comisión de Atención a la Mujer y la Niñez; y otro de la Comisión de Atención a Grupos Vulnerables;
+III. Tres representantes del Congreso del Estado; uno de la Comisión de Equidad y Género, otro de la Comisión de Atención a la Mujer y la Niñez; y otro de la Comisión de Atención a Grupos Vulnerables.
 
-IV. Tribunal Superior de Justicia del Estado;
+IV. Tribunal Superior de Justicia del Estado.
 
-V. La Secretaría de Educación;
+V. La Secretaría de Educación.
 
-VII (SIC). La Procuraduría General de Justicia del Estado;
+VI. La Procuraduría General de Justicia del Estado.
 
-VIII. La Secretaría de Desarrollo Social;
+VII. La Secretaría de Desarrollo y Participación Social.
 
-IX. La Secretaría de Salud;
+VIII. La Secretaría de Salud.
 
-X. La Secretaría de Pueblos Indios;
+IX. La Secretaría de Pueblos Indios.
 
-XI. La Secretaría de Seguridad y Protección Ciudadana;
+X. la Secretaría de Seguridad y Protección Ciudadana.
 
-XII. El Instituto Estatal de las Mujeres;
+XI. La Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
 
-XIII. El Instituto del Deporte;
+XII. El Instituto del Deporte.
 
-XIV. El Instituto de Población y Ciudades Rurales; y,
+XIII. El Instituto de Población y Ciudades Rurales.
 
-XV. Un representante por las instituciones privadas, que en razón de su actividad conozca los asuntos de violencia familiar.
+XIV. Un representante por las instituciones privadas, que en razón de su actividad conozca los asuntos de violencia familiar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 129.
 
@@ -1585,7 +1749,7 @@ IV. Los mecanismos para desarrollar una cultura de no violencia en la familia.
 
 En casos de maltrato infantil, podrá proporcionarse una atención integral, a juicio del especialista, siempre y cuando no provoque confrontación entre los receptores y los generadores de la violencia familiar. En caso necesario, los titulares de las Procuradurías Auxiliares y Centros Administrativos de Justicia, canalizarán a los receptores de la violencia familiar, a los albergues para su protección.
 
-### Capítulo I. De las Sanciones
+### Capítulo III. De la Prevención
 
 ###### Artículo 135.
 
@@ -1619,11 +1783,9 @@ El personal que detecte los casos de violencia familiar, canalizará a las Procu
 
 ###### Artículo 142.
 
-El Consejo podrá sugerir a las instituciones públicas y privadas que presten servicios de atención a la violencia en el, Estado, medidas tendientes a mejorar los modelos de atención en materia de prevención de la violencia familiar.
+El Consejo podrá sugerir a las instituciones públicas y privadas que presten servicios de atención a la violencia en el Estado, medidas tendientes a mejorar los modelos de atención en materia de prevención de la violencia familiar.
 
-### Capítulo II. Del Recurso Administrativo
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+### Capítulo IV. De la Asistencia y Atención
 
 ###### Artículo 143.
 
@@ -1641,7 +1803,7 @@ La atención a quienes incurran en actos de violencia familiar, se basará en mo
 
 El personal de las instituciones, deberá ser profesional y acreditado por las instituciones públicas y privadas, debiendo contar con la inscripción y registro correspondiente ante las Secretarías de Educación y de Salud, dicho personal deberá participar en los procesos de selección, capacitación y sensibilización, que las mismas secretarías establezcan, a fin de que cuenten con el perfil de aptitudes adecuadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 146.
 
@@ -1711,7 +1873,7 @@ V. El modelo de atención y el plan terapéutico; y,
 
 VI. La infraestructura física y técnico administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 150.
 
@@ -1755,7 +1917,9 @@ IV. Desarrollar programas que impulsen una cultura de paz, a través de la promo
 
 ## Título Segundo. De los Medios Alternativos de Solución
 
-### Capítulo I. De los Principios
+### Capítulo I. Del Procedimiento Conciliatorio y de Arbitraje
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 153.
 
@@ -1891,7 +2055,9 @@ Para la aplicación de las sanciones previstas en este artículo, se deberá ate
 
 Para la acreditación de las infracciones y de la reincidencia a que hacen mención las fracciones anteriores, se citará nuevamente a las partes para que éstas manifiesten lo que a su derecho convenga, antes de que el conciliador o amigable componedor sancione dicho incumplimiento, sin mayor justificación.
 
-### Capítulo II. Del Consejo Estatal para la Asistencia, Prevención y Atención Integral de la Violencia Familiar
+### Capítulo II. De los Medios de Impugnación
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 171.
 
@@ -1901,7 +2067,7 @@ Contra las resoluciones y la imposición de sanciones previstas en este Código,
 
 ## Título Primero. Principios Normativos
 
-### Capítulo III. De la Prevención
+### Capítulo I. Principios
 
 ###### Artículo 172.
 
@@ -1947,11 +2113,11 @@ XVII. La creación de servicios de medicina de rehabilitación en las unidades h
 
 XVIII. La integración de las mujeres con discapacidad, a los diversos programas con una política transversal de equidad y género.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 174.
 
-Corresponde al Gobernador del Estado, a través de las Dependencias y Entidades, como la Secretaría de Salud, Secretaría de Educación, Secretaría de Infraestructura, Secretaría de Hacienda, Secretaría de Desarrollo Social y el DIF-Chiapas, la aplicación de este Código, en el ámbito de sus respectivas competencias.
+Corresponde al Gobernador del Estado, a través de las Dependencias y Entidades, como lo son la Secretaría de Salud, Secretaría de Educación, Secretaría de Infraestructura, Secretaría de Hacienda, Secretaría de Desarrollo y Participación Social y el DIF Chiapas, la aplicación de este Código, en el ámbito de sus respectivas competencias.
 
 > <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2023,7 +2189,7 @@ X. Gestionar los recursos necesarios, para impulsar los programas de adquisició
 
 XI. Brindar a través de todas sus unidades de servicio en el Estado, la asistencia médica;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 XII. Detectar y canalizar al centro de rehabilitación, unidades básicas y simplificadas dependientes del DIF-Chiapas, a todas las personas con cualquier tipo de discapacidad como son:
 
@@ -2093,7 +2259,7 @@ IX. Promover la modificación de los criterios de asignación de becas, en insti
 
 X. Las demás que las leyes y la Comisión, le encomienden.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 178.
 
@@ -2149,7 +2315,7 @@ XVI. Proponer ante la autoridad correspondiente, que la instalación de alarmas 
 
 XVII. Las demás que el Ejecutivo del Estado y la Comisión acuerden.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 179.
 
@@ -2165,7 +2331,7 @@ IV. Establecer las normas y mecanismos de programación, ejercicio, control, eva
 
 V. Las demás que le competan y le encomiende el Ejecutivo del Estado y la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 180.
 
@@ -2185,7 +2351,7 @@ La Secretaría de Hacienda, promoverá los subsidios necesarios, a efecto de imp
 
 La Secretaría de Hacienda, ejecutará además de las facultades señaladas en este Libro, los acuerdos que la Comisión para la Integración al Desarrollo de las Personas con Discapacidad convenga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 183.
 
@@ -2265,9 +2431,11 @@ XXIII. El DIF-Chiapas promoverá ante el Instituto Nacional para las Personas Ad
 
 XXIV. Las demás que las leyes y La Comisión, le encomienden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 184.
 
-Corresponde a la Secretaría de Desarrollo Social promover e impulsar las siguientes actividades:
+Corresponde a la Secretaría de Desarrollo y Participación Social promover e impulsar las siguientes actividades:
 
 I. Promover Capacitación técnico-práctica a personas con discapacidad con la finalidad de integrarlos a fuentes productivas para el desarrollo familiar y social, a través de los Centros de Desarrollo Comunitarios;
 
@@ -2287,7 +2455,7 @@ V. Las demás que el Ejecutivo del Estado y la Comisión acuerden.
 
 El Gobernador del Estado constituirá la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, con el objeto de establecer acciones específicas de concertación, coordinación, planeación y promoción de los trabajos necesarios, a fin de garantizar condiciones favorables a las personas con discapacidad. En esta Comisión, participarán representantes de las organizaciones de personas con discapacidad, del Sistema Estatal de Salud, del Sistema Estatal de Seguridad Pública, del Consejo Estatal para las Culturas y las Artes de Chiapas, del Instituto del Deporte, del Sector Educativo Estatal, de las asociaciones políticas, filantrópicas, religiosas, así como todos los organismos privados que tengan relación con el presente Código.
 
-### Capítulo IV. De la Asistencia y Atención
+### Capítulo II. De la Salud y Rehabilitación
 
 ###### Artículo 186.
 
@@ -2307,7 +2475,7 @@ III. Los programas especializados de capacitación, orientación y rehabilitaci�
 
 El DIF-Chiapas, establecerá acciones de coordinación con instituciones públicas y privadas para impulsar la investigación y la producción de ayudas técnicas con el propósito de facilitar su adquisición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 188.
 
@@ -2333,7 +2501,7 @@ IX. Otros bienes y servicios análogos de conformidad con la legislación aplica
 
 Los medicamentos, accesorios, dispositivos, implementos y demás bienes y servicios a que se refieren las fracciones que anteceden, deberán ser inherentes y propios a las personas que sufran cualquier tipo de discapacidad.
 
-### Capítulo I. Del Procedimiento Conciliatorio y de Arbitraje
+### Capítulo III. Del Empleo y de la Capacitación
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2353,9 +2521,9 @@ El DIF-Chiapas, recompensará a la instancia competente, el otorgamiento de ince
 
 El DIF-Chiapas, coadyuvará al desarrollo de programas de capacitación y autoempleo, para las personas con discapacidad con la finalidad de integrarlos a la convivencia familiar y social, procurando su desarrollo personal.
 
-### Capítulo II. De los Medios de Impugnación
+### Capítulo IV. De la Promoción y Defensa de los Derechos de las Personas con Discapacidad
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 192.
 
@@ -2363,7 +2531,7 @@ Sin perjuicio de lo que consagran la Constitución Política de los Estados Unid
 
 Al efecto, se integrará un cuerpo de especialistas que asista, oriente y defienda a las personas con discapacidad.
 
-### Capítulo I. Principios
+### Capítulo V. De las Medidas, Facilidades Urbanísticas y Arquitectónicas
 
 ###### Artículo 193.
 
@@ -2379,7 +2547,7 @@ Las autoridades estatales y municipales, están obligadas a contemplar en los pr
 
 Los propietarios, administradores u organizadores de auditorios, cines, teatros, salas de concierto y de conferencias, centros recreativos, deportivos y en general, cualquier recinto en que se presenten espectáculos públicos, están obligados a establecer, preferentemente, espacios reservados para personas con discapacidad, que no puedan ocupar las butacas o asientos ordinarios, de conformidad con la legislación aplicable, para el giro o evento; asimismo, procurarán que las instalaciones, accesos, baños, puertas y demás, sean las adecuadas para el uso de personas con discapacidad. No será causa de tarifas mayores, la obligatoriedad de proporcionar espacios especiales a los discapacitados.
 
-### Capítulo II. De la Salud y Rehabilitación
+### Capítulo VI. De las Preferencias para el Libre Desplazamiento y el Transporte
 
 ###### Artículo 196.
 
@@ -2405,9 +2573,9 @@ Las personas invidentes, que requieren para su desplazamiento de perros guía o 
 
 ## Título Segundo. Del Desarrollo Social
 
-### Capítulo III. Del Empleo y de la Capacitación
+### Capítulo I. De la Coordinación
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 199.
 
@@ -2421,7 +2589,7 @@ III. El establecimiento de programas de asesoría y orientación, dirigidos a pr
 
 IV. El establecimiento de mecanismos que permitan la adecuada canalización y atención de los menores en el sistema de educación especial, así como su incorporación al sistema de educación ordinario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 200.
 
@@ -2435,9 +2603,9 @@ Las bibliotecas públicas, procurarán contar con áreas determinadas y equipami
 
 ## Título Tercero. De los Sectores para la Atención de Personas con Discapacidad
 
-### Capítulo IV. De la Promoción y Defensa de los Derechos de las Personas con Discapacidad
+### Capítulo I. De su Integración
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 202.
 
@@ -2477,11 +2645,15 @@ c) Secretaría General de Gobierno;
 
 d) Secretaría de Economía;
 
-e) Secretaría de Desarrollo Social;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+e) Secretaría de Desarrollo y Participación Social;
 
 f) Secretaría de Pueblos Indios;
 
-g) Instituto Estatal de las Mujeres;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+g) Secretaría para el Desarrollo y Empoderamiento de las Mujeres;
 
 h) DIF-Chiapas, a través de la oficina correspondiente;
 
@@ -2497,7 +2669,9 @@ V. Sector recreación y deporte:
 
 a) Instituto del Deporte;
 
-b) Secretaría de Turismo y Relaciones Internacionales;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+b) Secretaría de Turismo;
 
 c) DIF-Chiapas, a través de la oficina correspondiente.
 
@@ -2591,7 +2765,7 @@ Al sector proyectos legislativos, le corresponde promover la actualización del 
 
 ## Título Cuarto. De la Comisión para la Integración al Desarrollo de las Personas con Discapacidad
 
-### Capítulo V. De las Medidas, Facilidades Urbanísticas y Arquitectónicas
+### Capítulo I. De su Integración
 
 ###### Artículo 214.
 
@@ -2727,7 +2901,7 @@ Los integrantes de la Comisión, tendrán voz y voto, y quienes sean invitados, 
 
 Los cargos de la Comisión serán honoríficos.
 
-### Capítulo VI. De las Preferencias para el Libre Desplazamiento y el Transporte
+### Capítulo II. De la Promoción y Defensa de los Derechos de las Personas con Discapacidad
 
 ###### Artículo 223.
 
@@ -2755,9 +2929,9 @@ El DIF-Chiapas, según sea el caso, a través de la Procuraduría, actuando como
 
 ## Título Tercero (sic). De la Vigilancia, Infracciones, Sanciones y los Recursos
 
-### Capítulo I. De la Coordinación
+### Capítulo I. De la Vigilancia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 226.
 
@@ -2793,9 +2967,7 @@ Contra las resoluciones en las que se impongan sanciones contenidas en este Cód
 
 ## Título Primero. Disposiciones Generales
 
-### Capítulo I. De su Integración
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+### Capítulo Único. Generalidades
 
 ###### Artículo 230.
 
@@ -2805,7 +2977,9 @@ El presente Código tiene por objeto proteger y reconocer los derechos de las pe
 
 La aplicación y seguimiento del presente Código, estará a cargo de:
 
-I. El Poder Ejecutivo Estatal, a través de la Secretaría de Desarrollo Social.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+I. El Poder Ejecutivo Estatal, a través de la Secretaría de Desarrollo y Participación Social.
 
 II. Las diferentes Dependencias y Entidades del Estado, así como los municipios, en el ámbito de su respectiva competencia y jurisdicción.
 
@@ -2821,7 +2995,9 @@ Las autoridades referidas en el artículo anterior, así como las instituciones 
 
 El Ejecutivo del Estado, en coordinación con los gobiernos municipales, organizará, operará, supervisará y evaluará la prestación de los servicios básicos de salud a los Adultos Mayores, que proporcionen las dependencias y entidades de la Administración Pública Estatal y por personas físicas o morales de los sectores social y privado.
 
-Para lo cual el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, tendrá las siguientes atribuciones:
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+Para lo cual el Ejecutivo del Estado, a través de la Secretaría de Desarrollo y Participación Social, tendrá las siguientes atribuciones:
 
 a) Procurar asistencia técnica y financiera a instituciones y organismos públicos cuyos objetivos sean afines a los del presente Código;
 
@@ -2839,15 +3015,15 @@ Las dependencias estatales y municipales dentro de sus planes, proyectos y progr
 
 Corresponderá al DIF-Chiapas, promover la interrelación sistemática de acciones en favor de los adultos mayores que llevan a cabo las Instituciones Públicas, además de operar programas que trasciendan en el desarrollo humano de los adultos mayores.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 236.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social y el DIF-Chiapas, promoverá, ejecutará y coordinará con la Federación y los Municipios, convenios de colaboración, para que las instituciones públicas de salud y asistencia social implementen programas preventivos hacia la vejez, brinden información gerontológica disponible en los ámbitos médico, socioeconómico, jurídico y demás relativos, con el objeto de incrementar la cultura de los adultos mayores.
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo y Participación Social y el DIF Chiapas, promoverá, ejecutará y coordinará con la Federación y los Municipios; convenios de colaboración, para que las instituciones públicas de salud y asistencia social implementen programas preventivos hacia la vejez, brinden información gerontológico disponible en los ámbitos médico, socioeconómico, jurídico y demás relativos, con el objeto de incrementar la cultura de los adultos mayores.
 
 ## Título Segundo. De los Principios y Derechos
 
-### Capítulo I. De su Integración
+### Capítulo I. De los Principios
 
 ###### Artículo 237.
 
@@ -2863,7 +3039,7 @@ IV. Corresponsabilidad: La concurrencia de los sectores público y social y en e
 
 V. Atención Preferente: Es aquella que obliga a los Órganos Estatales y Municipales de Gobierno, a implementar programas acordes a las diferentes etapas, características y circunstancias de los adultos mayores.
 
-### Capítulo II. De la Promoción y Defensa de los Derechos de las Personas con Discapacidad
+### Capítulo II. De los Derechos
 
 ###### Artículo 238.
 
@@ -2949,9 +3125,7 @@ Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o so
 
 ## Título Tercero. De las Obligaciones de la Familia y la Sociedad
 
-### Capítulo I. De la Vigilancia
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+### Capítulo Único. Disposiciones Generales
 
 ###### Artículo 239.
 
@@ -3047,21 +3221,21 @@ Los descendientes o el encargado del adulto mayor, estarán obligados a velar po
 
 Cuando los descendientes descuiden o abandonen a una persona adulta mayor, el DIF-Chiapas denunciará esta situación al Fiscal del Ministerio Público, quien realizará las investigaciones correspondientes; en caso de abandono, el representante social solicitará al DIF-Chiapas, en auxilio de sus funciones, se ingrese al adulto mayor a un centro asistencial.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 255.
 
-La Secretaría de Desarrollo Social, en coordinación con el DIF-Chiapas deberá tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo.
+La Secretaría de Desarrollo y Participación Social en coordinación con el DIF Chiapas, deberá tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo.
 
 ## Título Cuarto. De las Facultades y Obligaciones de las Autoridades
 
-### Capítulo Único. Generalidades
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 256.
 
 El Poder Ejecutivo del Estado, impulsará los servicios de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social a los adultos mayores; en tal virtud y sin perjuicio de lo previsto en otras disposiciones legales, las Dependencias y Entidades de la Administración Pública Estatal, deberán ejercer las facultades y cumplir con las obligaciones previstas en el presente Título.
 
-### Capítulo I. De los Principios
+### Capítulo II. Del Poder Ejecutivo
 
 ###### Artículo 257.
 
@@ -3089,15 +3263,21 @@ X. Crear los mecanismos o instancias correspondientes para el cumplimiento de es
 
 XI. Las demás que le confieran otros ordenamientos jurídicos.
 
-### Capítulo II. De los Derechos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+### Capítulo III. De la Secretaría de Desarrollo y Participación Social
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 258.
 
-La Secretaría de Desarrollo Social, deberá coordinar e implementar las acciones que se requieran, para promover la integración social de los adultos mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere el presente Código.
+La Secretaría de Desarrollo y Participación Social, deberá coordinar e implementar las acciones que se requieran, para promover la integración social de los adultos mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere el presente Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 259.
 
-La Secretaría de Desarrollo Social, implementará las acciones pertinentes para garantizar la cobertura en materia alimentaría para los adultos mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados para los adultos mayores.
+La Secretaría de Desarrollo y Participación Social, implementará las acciones pertinentes para garantizar la cobertura en materia alimentaria para los adultos mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados para los adultos mayores.
 
 Con objeto de ampliar los mecanismos de información a la población a fin de que conozcan alternativas alimentarías para los adultos mayores deberá:
 
@@ -3107,23 +3287,31 @@ II. Publicar materiales de orientación nutricional y organizar campañas de dif
 
 III. Establecer convenios específicos de colaboración con instituciones y organismos públicos, sociales y privados que brinden orientación alimenticia a los adultos mayores.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 260.
 
-La Secretaría de Desarrollo Social, promoverá la coordinación de las instituciones federales y locales de salud y educación, para implementar programas de sensibilización y capacitación con objeto de favorecer la convivencia familiar con los adultos mayores para que ésta sea armónica.
+La Secretaría de Desarrollo y Participación Social, promoverá la coordinación de las instituciones federales y locales de salud y educación, para implementar programas de sensibilización y capacitación con objeto de favorecer la convivencia familiar con los adultos mayores para que ésta sea armónica.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 261.
 
-La Secretaría de Desarrollo Social, promoverá la coordinación con las instituciones educativas, tanto oficiales como privadas, para la implementación de políticas y programas de educación y capacitación para los adultos mayores.
+La Secretaría de Desarrollo y Participación Social, promoverá la coordinación con las instituciones educativas, tanto oficiales como privadas, para la implementación de políticas y programas de educación y capacitación para los adultos mayores.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 262.
 
-La Secretaría de Desarrollo Social, en coordinación con los Municipios, implementará un programa de estímulos e incentivos a los adultos mayores que estudien.
+La Secretaría de Desarrollo y Participación Social, en coordinación con los Municipios, implementará un programa de estímulos e incentivos a los adultos mayores que estudien.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 263.
 
-La Secretaría de Desarrollo Social, implementará programas a efecto de crear y difundir entre la población en general y en la familia, la cultura de dignificación, respeto e integración a la sociedad de los adultos mayores.
+La Secretaría de Desarrollo y Participación Social, implementará programas a efecto de crear y difundir entre la población en general y en la familia, la cultura de dignificación, respeto e integración a la sociedad de los adultos mayores.
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo IV. De la Secretaría de Salud
 
 ###### Artículo 264.
 
@@ -3177,7 +3365,7 @@ I. Llevar registros actualizados del ingreso y el egreso de adultos mayores, don
 
 II. Gestionar, en forma inmediata una cartilla de control de salud y autocuidado para los adultos mayores, por medio del Centro de Salud de su adscripción. La cartilla de control de salud y autocuidado contendrá un resumen del historial de salud de la persona adulta mayor y servirá para identificarla en instituciones de salud, tanto públicas como privadas.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo V. De la Secretaría de Educación
 
 ###### Artículo 271.
 
@@ -3199,25 +3387,29 @@ Los adultos mayores tienen derecho a participar de manera activa, en las festivi
 
 En todo momento, el adulto mayor tiene la libre opción de integrarse a las actividades implementadas para la población en general, o las específicas para ellos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-### Capítulo II. Del Poder Ejecutivo
+### Capítulo VI. De la Secretaría de Economía y la Secretaría de Turismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 276.
 
-La Secretaría de Economía en coordinación con la Secretaría de Turismo y Relaciones Internacionales, promoverán actividades de recreación y turismo con tarifas preferentes, diseñadas para personas adultas mayores.
+La Secretaría de Economía en coordinación con la Secretaría de Turismo, promoverán actividades de recreación y turismo con tarifas preferentes, diseñadas para personas adultas mayores.
 
 Para tal efecto, se realizarán acciones respectivas a fin de que en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación, se cuente con espacios y actividades que faciliten la integración de los adultos mayores.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 277.
 
-Para garantizar el derecho a la recreación y turismo, la Secretaría de Economía en coordinación con la Secretaría de Turismo y Relaciones Internacionales, difundirá permanentemente, a través del Instituto de Comunicación Social del Estado de Chiapas, las actividades que se realizan a favor de los adultos mayores.
+Para garantizar el derecho a la recreación y turismo, la Secretaría de Economía en coordinación con la Secretaría de Turismo, difundirá permanentemente, a través de los medios masivos de comunicación, las actividades, que se realizan a favor de los adultos mayores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-### Capítulo III. De la Secretaría de Desarrollo Social
+### Capítulo VII. De la Secretaría del Trabajo
+
+> <small>(REFORMADO Y REUBICADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 278.
 
@@ -3229,7 +3421,9 @@ II. Impulsar programas de autoempleo para los adultos mayores, de acuerdo a su p
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-### Capítulo IV. De la Secretaría de Salud
+### Capítulo VIII. Del Sistema para el Desarrollo Integral de la Familia
+
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 279.
 
@@ -3263,8 +3457,6 @@ XI. Las demás que le confieran otros ordenamientos jurídicos.
 
 ### Capítulo Único. De su Naturaleza, Objeto y Atribuciones
 
-### Capítulo V. De la Secretaría de Educación
-
 ###### Artículo 280.
 
 Se crea el Consejo para la Integración de los Adultos Mayores del Estado, como un órgano honorario de consulta, asesoría y evaluación de acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración y desarrollo de los adultos mayores.
@@ -3275,7 +3467,9 @@ Se crea el Consejo para la Integración de los Adultos Mayores del Estado, como 
 
 El Consejo estará integrado por los titulares de:
 
-I. La Secretaría de Desarrollo Social, quien fungirá como su Presidente;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+I. La Secretaría de Desarrollo y Participación Social, quien fungirá como su Presidente;
 
 II. El DIF-Chiapas, quien fungirá como Secretario Técnico;
 
@@ -3381,19 +3575,17 @@ La integración de los grupos de trabajo, sus atribuciones y las sesiones del Co
 
 Con el objeto de proteger en cada uno de los municipios del Estado, los derechos de los adultos mayores, los Ayuntamientos establecerán el Consejo Municipal para la Integración de las Personas Adultas Mayores, el cual será presidido por el Presidente Municipal e integrado por el DIF Municipal, así como por las autoridades que realicen funciones relacionadas con el desarrollo social, salud, educación y seguridad pública.
 
-El Presidente Municipal podrá invitar a participar en el Consejo, a representantes del DIF-Chiapas, de las Secretarías de Salud, de Desarrollo Social, de Educación, de Seguridad y Protección Ciudadana, de Pueblos Indios, de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales, del Instituto del Deporte; así como a representantes de organizaciones sociales y privadas dedicadas a la atención de los adultos mayores.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+El Presidente Municipal podrá invitar a participar en el Consejo, a representantes del DIF Chiapas, las Secretarías de Salud, de Desarrollo y Participación Social, de Educación, de Seguridad y Protección Ciudadana, de Pueblos Indios, de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales, del Instituto del Deporte; así como a representantes de organizaciones sociales y privadas dedicadas a la atención, de los adultos mayores.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ## Título Sexto. Del Proceso Especial de Protección ante el DIF-Chiapas
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ### Capítulo Único. Del Proceso Especial de Protección ante la Procuraduría
-
-### Capítulo VI. De la Secretaría de Economía y la Secretaría de Turismo y Relaciones Internacionales
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 288.
 
@@ -3447,10 +3639,6 @@ Contra lo resuelto por la Procuraduría, podrá interponerse el recurso que proc
 
 ### Capítulo I. De las Reglas para la Imposición de Sanciones
 
-### Capítulo VII. De la Secretaría del Trabajo
-
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
 ###### Artículo 297.
 
 Para la determinación de la imposición de sanciones que contempla este Código, se atenderá lo siguiente:
@@ -3464,10 +3652,6 @@ III. La magnitud del daño ocasionado; y,
 IV. La reincidencia del infractor.
 
 ### Capítulo II. De las Sanciones y Medidas de Seguridad
-
-### Capítulo VIII. Del Sistema para el Desarrollo Integral de la Familia
-
-(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
 ###### Artículo 298.
 
@@ -3513,7 +3697,7 @@ De conformidad con la fracción I del artículo 42, de la Constitución Polític
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.-. Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 23 DE SEPTIEMBRE DE 2009.
 
@@ -3522,3 +3706,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- El DIF-Chiapas y cada uno de los DIF municipales, en el ámbito de su competencia, realizará las acciones necesarias para que .los órganos colegiados previstos en este ordenamiento queden instalados a más tardar en noventa días contados a partir de la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto, y que se opongan al mismo.
