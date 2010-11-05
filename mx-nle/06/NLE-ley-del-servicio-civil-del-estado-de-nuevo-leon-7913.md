@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2007-06-13"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -207,9 +207,33 @@ Cuando por circunstancias especiales deban aumentase las horas de jornada máxim
 
 Por cada seis días de trabajo, disfrutará el trabajador cuando menos de un día de descanso, con goce de salario íntegro.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Art. 24o.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otras dos después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por jornada normal de trabajo de media hora cada uno para alimentar a sus hijos.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. En caso de parto prematuro o cuando así lo requiera por decisión propia, la mujer trabajadora tendrá derecho a que se acumule al descanso posterior del parto, el lapso de descanso que no hizo efectivo antes del mismo, de modo de completar los tres meses.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Art. 24 Bis.
+
+Las madres trabajadoras tendrán derecho durante el período de lactancia a dos descansos extraordinarios por día, de media hora cada uno, por un período de seis meses. Puede convenirse que dicho tiempo se otorgue una hora al inicio o término de la jornada.
+
+El período de seis meses al que se refiere el párrafo anterior empezará a contar a partir del día siguiente al del parto.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Art. 24 Bis 1.
+
+Las mujeres trabajadoras gozarán de licencia de maternidad remunerada de tres meses con el pago de salario íntegro, en caso de que se configure la adopción de un menor de hasta seis meses de edad, surtiendo efectos a partir de que el niño es entregado en patria potestad a su nueva familia.
+
+En el caso de adopción de un menor de edad que sea mayor a seis meses de edad, las madres adoptantes gozarán de un período de 45 días naturales con el pago de salario íntegro, a partir del momento en que se les otorgue la patria potestad del menor, a fin de garantizar su integración familiar y social.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Art. 24 Bis 2.
+
+La licencia de maternidad se concede independientemente de las vacaciones establecidas o demás días de descanso obligatorio que se estipulen en la Ley. Si el correspondiente período vacacional coincide o queda comprendido dentro de este período, dicho periodo empezará a correr al día siguiente de la fecha en que se concluya la licencia respectiva.
 
 ###### Art. 25o.
 
@@ -932,3 +956,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE JUNIO DE 2007.
 
 Artículo Único.- El presente decreto entrará en vigor una vez que inicie la vigencia de la Ley del Órgano de Fiscalización Superior.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
