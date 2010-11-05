@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-que-establece-el-procedimiento-para-la-73327"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2010-02-26"
+last_updated: "2010-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73327&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2010-02-22"
 ---
 # REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO PARA LA CONCLUSION DE LA CARRERA POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE NOVIEMBRE DE 2010 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO PARA LA CONCLUSION DE LA CARRERA POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 26 de febrero de 2010.
 
@@ -176,9 +178,11 @@ III. Sea declarado parcial y permanentemente incapacitado para trabajar, por par
 
 IV. Sea declarado total permanente o parcialmente permanente incapacitado para brindar el servicio policial por institución oficial de salud.
 
+> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 13.
 
-Incumple el requisito de permanencia por razones psicológicas o de salud mental, a que se refiere las fracciones IV y IX, del artículo 51 de la ley, el elemento policial que conforme a la evaluación practicada por el Centro de Control de Confianza de la Secretaría, sea diagnosticado con trastornos de la personalidad o problemas de conducta que le impidan la realización de las funciones policiales.
+Incumple el requisito de permanencia por razones de personalidad, salud mental, psicológicas o psiquiátricas a que se refieren las fracciones IV y IX del artículo 51 de la Ley, el elemento policial que no acredite la evaluación que le sea practicada por el Centro de Control de Confianza de la Secretaría.
 
 ###### Artículo 14.
 
@@ -188,7 +192,11 @@ I. No acredite la evaluación poligráfica;
 
 II. No acredite fuentes de ingresos para mantener su nivel de vida;
 
-III. No acredite fuentes de ingresos adicionales para mantener su nivel de vida y el de su familia, cuando el importe neto de los ingresos que percibe por su servicio policial, descontados los cargos legales, administrativos, judiciales, convencionales o de cualquier otra naturaleza, sea neto igual o inferior a mil pesos mensuales; o
+III. No acredite fuentes de ingresos adicionales para mantener su nivel de vida y el de su familia, cuando el importe neto de los ingresos que percibe por su servicio policial, descontados los cargos legales, administrativos, judiciales, convencionales o de cualquier otra naturaleza, sea neto igual o inferior a mil pesos mensuales; o (sic)
+
+> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+III Bis. No acredite la evaluación de entorno socio-económico que emita el Centro de Control de Confianza;
 
 IV. Cualquier otra causa identificada y acreditada que genere la presunción de un comportamiento contrario a la ética y los principios de la actuación policial.
 
@@ -200,7 +208,9 @@ I. Se abstenga de acudir y desarrollar los cursos de formación, capacitación o
 
 II. Abandone sin causa justificada el curso al que haya sido convocado; o
 
-III. No acredite, en dos ocasiones consecutivas, el curso de formación, capacitación o actualización profesional al que haya sido convocado.
+> <small>(REFORMADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+III. No acredite el curso de formación, y/o capacitación y/o actualización profesional al que haya sido convocado.
 
 El elemento policial estará obligado a justificar su inasistencia o abandono al curso al que sea convocado, dentro de las setenta horas siguientes a la falta.
 
@@ -208,9 +218,11 @@ El elemento policial estará obligado a justificar su inasistencia o abandono al
 
 Incumple el requisito de permanencia por no aprobar el proceso de promoción, a que se refiere la fracción VI, del artículo 51, en relación con lo dispuesto por los artículos 54 y 55 de la Ley, el elemento policial con nivel jerárquico de policía, policía segundo, policía primero, suboficial, segundo oficial y primer oficial que, siendo convocado en tres ocasiones consecutivas a la promoción, se abstenga de participar o no la apruebe para el grado inmediato superior que le corresponda, por causas imputables al elemento.
 
+> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 17.
 
-Incumple el requisito de permanencia por no aprobar el proceso de evaluación del desempeño, a que se refiere la fracción VII, del articulo 51 de la Ley, el elemento policial que no hubiese aprobado en tres ocasiones consecutivas en un plazo de veinticuatro meses, la evaluación del desempeño que se realice conforme a los lineamientos que emita la Secretaria.
+Incumple el requisito de permanencia por no aprobar el proceso de evaluación del desempeño a que se refiere el artículo 51, fracción VII de la Ley, el elemento policial que no acredite la evaluación del desempeño que se realice conforme a los lineamientos que emita la Secretaria.
 
 ###### Artículo 18.
 
@@ -294,11 +306,15 @@ En su caso, conforme a la disponibilidad presupuestal, los elementos que se encu
 
 Sin perjuicio de lo anterior, el elemento policial al alcanzar la edad de retiro se encuentra en aptitud y deberá realizar los trámites para la asignación de pensión por jubilación que le corresponda conforme al Programa de Seguridad Social que se tenga establecido para la Dependencia o corporación a la que pertenezca.
 
+> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 26.
 
-La separación de los elementos policiales por incumplimiento de los requisitos de ingreso y permanencia, a que se refiere la fracción I, del artículo 21 del presente Reglamento, será conocida y resuelta por el Consejo de Honor y Justicia en los términos del procedimiento establecido en la normatividad aplicable.
+La separación de los elementos policiales por incumplimiento de los requisitos de ingreso y permanencia a que se refiere la fracción I, del artículo 21 del presente Reglamento, será conocida y resuelta por el Consejo de Honor y Justicia en los términos del procedimiento establecido en la Ley y la normatividad aplicable.
 
-El Consejo de Honor y Justicia en los casos previstos en la fracción I, del artículo 21 del presente Reglamento, con base en los elementos aportados al expediente, tomando en consideración la hoja de servicios del elemento y escuchando sus argumentos, en caso de que se encuentre acreditada la causa de separación, emitirá resolución correspondiente, ordenando cubrir al elemento una indemnización que será equivalente al monto que la Secretaría entrega a los elementos policiales que optan por acogerse al Programa de Retiro Voluntario en la Secretaría. En caso de no estar vigente dicho Programa para el ejercicio en que el Consejo de Honor y Justicia resuelva la separación del Elemento Policial, se tomarán como base para el pago de la indemnización los montos señalados en el último programa que al efecto estuvo vigente.
+El Consejo de Honor y Justicia en los casos previstos en la fracción II, del artículo 21 del presente Reglamento, con base en los elementos aportados al expediente, tomando en consideración la hoja de servicios del elemento y escuchando sus argumentos, en caso de que se encuentre acreditada la causa de separación, emitirá resolución correspondiente, ordenando cubrir al elemento una indemnización que será equivalente a 90 días de haberes. El personal que a la fecha de su separación tenga más de un año de servicio, tendrá derecho a recibir el equivalente a 12 días de haberes por cada año de servicio en la Policía de Seguridad Pública del Distrito Federal.
+
+Para efectos de cálculo de indemnización se considerará el haber que tenía asignado el elemento policial conforme a su grado, riesgo y antigüedad, con base en los tabuladores registrados, más el concepto mensual que en su caso tenía asignado con motivo del servicio.
 
 ###### Artículo 27.
 
@@ -313,3 +329,13 @@ SEGUNDO.- El presente Reglamento entrará en vigor el día siguiente de su publi
 TERCERO.- Se abroga toda disposición normativa que contravenga lo establecido en el presente instrumento.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintidós días del mes de febrero del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 5 DE NOVIEMBRE DE 2010.
+
+Primero.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto
