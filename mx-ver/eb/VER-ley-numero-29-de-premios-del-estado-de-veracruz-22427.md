@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-29-de-premios-del-estado-de-veracruz-22427"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-12"
-last_updated: "2007-01-03"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 29 DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 12 de octubre de 2001.
 
@@ -47,11 +47,11 @@ DE PREMIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### Capítulo Primero. Disposiciones Comunes
 
-> <small>(REFORMADO, G.O. 2 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruiz Cortines, el Premio Veracruz 2025, y la Medalla General Ignacio de la Llave, que los Poderes Ejecutivo y Legislativo del Estado, conceden a las personas, distinguidas por su conducta y acciones, en los términos que la misma establece.
+La presente Ley es de orden público e interés general, y rige el otorgamiento de la Medalla Veracruz, la Medalla Adolfo Ruiz Cortines, el Premio Veracruz, la Medalla General Ignacio de la Llave y las Medallas Carlos A. Carrillo y Enrique C. Rébsamen, que los poderes Ejecutivo y Legislativo del Estado conceden a las personas distinguidas por su conducta y acciones, en los términos que la misma establece.
 
 ### Capítulo Segundo. De la Medalla Veracruz
 
@@ -261,7 +261,7 @@ Este premio se otorgará anualmente y consistirá en un Diploma, un estímulo ec
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 2 DE NOVIEMBRE DE 2004)</small>
 
-### CAPÍTULO QUINTO. DE LA MEDALLA GENERAL IGNACIO DE LA LLAVE
+### Capítulo Quinto. De La Medalla General Ignacio de la Llave
 
 > <small>(ADICIONADO, G.O. 2 DE NOVIEMBRE DE 2004)</small>
 
@@ -290,6 +290,50 @@ El Ejecutivo del Estado podrá disponer la entrega adicional de un estímulo eco
 II. Al Mérito Deportivo: A aquellos deportistas que se distingan por su destacada participación en actividades que generen reconocimiento para el Estado de Veracruz de Ignacio de la Llave, ante la sociedad veracruzana, nacional o internacional.
 
 La Medalla al Mérito Deportivo se entregará el mismo año en el que se haya dado la participación deportiva de alto reconocimiento para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+### Capítulo Sexto. De las Medallas Carlos A. Carrillo y Enrique C. Rébsamen
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 23 Quater.
+
+El Poder Ejecutivo otorgará a los maestros del Sistema Educativo Estatal, en ceremonia especial que al efecto organice la Secretaría de Educación el día quince de mayo de cada año, en atención a sus años de servicio y, de conformidad con el reglamento que para el efecto se expida:
+
+I. La medalla Carlos A. Carrillo por cuarenta años de servicio; y
+
+II. La medalla Enrique C. Rébsamen por treinta años de servicio.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 23 Quinquies.
+
+A los maestros que hayan cumplido cuarenta años de servicio ininterrumpido en el Sistema Educativo Estatal, se les entregará:
+
+I. Medalla de oro con la efigie del maestro Carlos A. Carrillo, en el anverso, y la inscripción Al Mérito Docente, en el reverso;
+
+II. Diploma; y
+
+III. El estímulo económico en efectivo que acuerde previamente el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 23 Sexies.
+
+A los maestros que hayan cumplido treinta años de servicio ininterrumpido en el Sistema Educativo Estatal, se les entregará:
+
+I. Medalla de plata con la efigie del maestro Enrique C. Rébsamen, en el anverso, y la inscripción Al Mérito Docente, en el reverso;
+
+II. Diploma; y
+
+III. El estímulo económico en efectivo que acuerde previamente el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 23 Septies.
+
+Para el cómputo de la antigüedad en el servicio, sólo se tomará en cuenta el tiempo efectivo que hayan laborado y los días de descanso, por lo que se descontarán las inasistencias injustificadas, los períodos en los que hayan gozado de permisos de cualquier naturaleza y las comisiones desempeñadas fuera de la Administración Pública Estatal o Municipal.
 
 ## TÍTULO SEGUNDO. DE LA ROTONDA DE LOS HOMBRES ILUSTRES DEL ESTADO DE VERACRUZ
 
@@ -370,3 +414,11 @@ G.O. 3 DE ENERO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 5 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. El Reglamento de las Medallas Carlos A. Carrillo y Enrique C. Rébsamen se expedirá dentro de los noventa días siguientes a la publicación del presente Decreto.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
