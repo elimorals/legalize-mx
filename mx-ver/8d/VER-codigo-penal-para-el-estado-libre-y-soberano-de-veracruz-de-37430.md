@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2010-10-18"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2235,11 +2235,9 @@ Si el menor es trasladado fuera del territorio nacional, las sanciones serán de
 
 Cuando en la comisión del delito no haya existido el consentimiento a que se alude en la fracción I, las penas se aumentarán hasta el doble.
 
-> <small>(ADICIONADO, G.O. 2 DE AGOSTO DE 2007)</small>
-
 ###### Artículo 243 Bis.
 
-Se impondrá prisión de diez a veinte años y multa hasta de mil días de salario mínimo a quien sustraiga en territorio veracruzano a un menor o incapaz de su seno familiar, para trasplantar de su cuerpo, al de otro individuo, tejidos u órganos, aunque esto se realice en territorio nacional o extranjero.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 244.
 
@@ -2301,7 +2299,7 @@ A quien reiteradamente haga uso de la fuerza física o moral contra una persona 
 
 ###### Artículo 250.
 
-Se impondrán de uno a seis años de prisión y multa de treinta a cien días de salario a quien, para beneficio propio o de terceros, obligue o induzca a menores, senectos o personas con problemas de capacidad física o mental, a que obtengan mediante caridad, dinero, objetos u otros valores.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
 
 ## TÍTULO XII. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE Y DE LAS VÍAS DE COMUNICACIÓN
 
@@ -2743,9 +2741,7 @@ Las penas se agravarán hasta en una mitad, si se emplea violencia física o mor
 
 ###### Artículo 293.
 
-Se impondrán de cinco a diez años de prisión y multa hasta de trescientos días de salario a quien entregue una persona para que ejerza la prostitución, dentro o fuera del Estado.
-
-Si el sujeto pasivo es menor de dieciséis años o incapaz se impondrán de seis a catorce años de prisión y multa hasta de quinientos días de salario.
+(DEROGADO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 875 PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 5 DE NOVIEMBRE DE 2010)
 
 ### CAPÍTULO VIII. INTIMIDACIÓN
 
@@ -3718,3 +3714,9 @@ Artículo primero. El presente Decreto entrará en vigor a partir de su publicac
 Artículo segundo. Se señala un término de cuatro meses para el cumplimiento de las disposiciones señaladas en los artículos 46 y 67 fracción IV de la Ley de Tránsito y Transporte para el estado.
 
 Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 5 DE NOVIEMBRE DE 2010.
+
+Primero. La presente Ley entrará en vigor a partir del día siguiente a su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan los artículos 243 Bis, 250 y 293 del Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, así como todas las disposiciones que se opongan a la presente Ley.
