@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-852-organica-de-la-procuraduria-general-de-40303"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-12"
-last_updated: "2008-12-16"
+last_updated: "2010-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 852 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 12 de julio de 2004.
 
@@ -275,71 +275,39 @@ II. Proporcionar información sobre el funcionamientos (sic) y prestación de se
 
 La Procuraduría General de Justicia del Estado estará a cargo de un Procurador General, quien será el titular de la institución del Ministerio Público y superior jerárquico de todo el personal de la misma.
 
+> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 18.
 
 Para el ejercicio de las funciones y despacho de los asuntos de su competencia, la Procuraduría General de Justicia contará con los servidores públicos de confianza siguientes:
 
 I. Un Procurador General de Justicia;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
+II. Subprocuradores;
 
-II. Siete Subprocuradores Regionales: dos en la Región Norte con residencia en Tantoyuca y Poza Rica respectivamente; cuatro en la Región Centro, con residencia en Xalapa-Enríquez, Córdoba, Veracruz y Cosamaloapan; y, uno en la Región Sur, con residencia en Coatzacoalcos;
+III. Directores Generales;
 
-III. Un Subprocurador Especializado en asuntos Indígenas;
+IV. Directores;
 
-IV. Un Subprocurador de Supervisión y Control;
+V. Subdirectores;
 
-V. Un Director General de Investigaciones Ministeriales;
+VI. Coordinadores;
 
-VI. Un Director General de Control de Procesos;
+VII. Jefes de Departamento;
 
-VII. Un Director General Jurídico;
+VIII. Agentes del Ministerio Público; en las cabeceras municipales en donde no haya agentes designados, fungirá como investigador y adscrito el Síndico del Ayuntamiento;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
+IX. Los policías ministeriales de la Agencia Veracruzana de Investigaciones;
 
-VIII. Un titular de la Agencia Veracruzana de Investigaciones;
+X. Peritos; y
 
-IX. Un Director de los Servicios Periciales;
+XI. Oficiales Secretarios.
 
-X. Un Director del Instituto de Formación Profesional;
-
-XI. Un Director del Centro de Atención a las Víctimas del Delito;
-
-XII. Un Director del Centro de Información;
-
-XIII. Un Director General de Administración;
-
-XIV. Un Subdirector de Recursos Financieros;
-
-XV. Un Subdirector de Recursos Materiales;
-
-XVI. Un Subdirector de Recursos Humanos;
-
-XVII. Agentes del Ministerio Público Auxiliares del Procurador;
-
-XVIII. Agentes del Ministerio Público Investigadores y Adscritos a los Juzgados de Primera Instancia y Menores;
-
-XIX. Agentes del Ministerio Público Municipales, en las cabeceras municipales en donde no haya agentes designados, fungirá como investigador y adscrito el Sindico del Ayuntamiento;
-
-XX. Agentes del Ministerio Público Especializados en Delitos cometidos por Servidores Públicos;
-
-XXI. Agentes del Ministerio Público Especializados en Delitos Electorales;
-
-XXII. Agentes del Ministerio Público Visitadores;
-
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2008)</small>
-
-XXIII. Los integrantes de la Agencia Veracruzana de Investigaciones;
-
-XXIV. Peritos;
-
-XXV. Oficiales Secretarios; y
-
-XXVI. Contralor Interno.
+> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
-El reglamento de esta ley precisará el número de unidades o áreas administrativas de la Procuraduría, sus funciones y la forma en que se suplirán las ausencias de sus titulares.
+El reglamento de esta ley precisará la estructura orgánica de la Procuraduría, sus áreas y unidades administrativas, así como las atribuciones de sus integrantes y la forma en que se suplirán las ausencias de sus titulares.
 
 ###### Artículo 20.
 
@@ -792,3 +760,11 @@ Tercero. Los recursos humanos, financieros y materiales que tenía asignados la 
 Cuarto. Dentro del término de sesenta días siguientes al inicio de la vigencia del presente decreto, deberá expedirse el reglamento correspondiente.
 
 Quinto. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 5 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Para todos los efectos legales procedentes, en tanto no se modifique el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Veracruz de Ignacio de la Llave, las áreas y unidades existentes continuarán con su denominación, atribuciones y competencia.
+
+Tercero. Se derogan todas las demás disposiciones que se opongan al presente Decreto.
