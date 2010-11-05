@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-normativas-para-la-expedicion-77147
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-22"
-last_updated: "2010-09-22"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES NORMATIVAS PARA LA EXPEDICION DE LOS REGLAMENTOS DE CONSTRUCCION EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de septiembre de 2010.
 
@@ -125,9 +125,11 @@ El tiempo de vigencia de las autorizaciones o licencias de construcción, remode
 
 La autoridad municipal contemplará dentro de su ley de ingresos, las cantidades que a título de derechos se cobren a los interesados por la expedición de autorizaciones o licencias para construcción.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 15.
 
-Para los casos de construcción, remodelación y ampliación, se estará obligado a la siembra de por lo menos un árbol, y en caso de que la obra tenga varios pisos, tres árboles por cada piso.
+Para los casos de construcción, remodelación y ampliación de viviendas, se estará obligado a la siembra de por lo menos un árbol. Tratándose de la construcción de conjuntos habitacionales, a la siembra de un árbol por cada vivienda o departamento que los conforme.
 
 ###### Artículo 16.
 
@@ -176,3 +178,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintiún días del mes de septiembre del año dos mil diez.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno. Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a la presente Ley.
