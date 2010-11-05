@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ciudades-rurales-sustentables-para-el-estado-de-66126"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-07"
-last_updated: "2009-10-21"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE CIUDADES RURALES SUSTENTABLES PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de enero de 2009.
 
@@ -745,6 +745,88 @@ El programa de Villas Rurales tiene como objeto fortalecer la infraestructura b�
 
 Para la implementación del Programa de Villas Rurales Sustentables, se aplicarán las disposiciones contenidas en esta Ley, referentes al programa de Ciudades Rurales Sustentables.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+## Título Octavo. Del Padrón de Familias Pertenecientes a los Poblados a Reubicar
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+### Capítulo Único. De su Funcionamiento
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 61.
+
+El Instituto deberá integrar un Padrón de Familias Pertenecientes a los Poblados a Reubicar, debiendo de estructurar, actualizar y sistematizar la información de dichos beneficiarios, para la eficaz y eficiente reubicación de los pobladores a las Ciudades y Villas Rurales Sustentables.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 62.
+
+El Padrón de Familias Pertenecientes a los Poblados a Reubicar, es un instrumento de política social que tiene por objeto:
+
+I. Conocer las características demográficas y socioeconómicas de los beneficiarios del programa de Ciudades Rurales Sustentables.
+
+II. Simplificar la operación del Programa de Ciudades Rurales Sustentables.
+
+III. Eficientar el otorgamiento de servicios y subsidios.
+
+IV. Obtener información para el seguimiento y evaluación del Programa de Ciudades Rurales Sustentables.
+
+V. Garantizar el cumplimiento de los criterios y requisitos de elegibilidad previstos en esta Ley y evitar la duplicidad en la asignación de apoyos o servicios.
+
+VI. Verificar que las personas que reciban los apoyos o servicios, correspondan con la población reubicada.
+
+VII. Promover la corresponsabilidad por parte de los beneficiarios.
+
+VIII. Transparentar la operación del Programa de Ciudades Rurales Sustentables, permitiendo la oportuna rendición de cuentas, previendo abusos, discrecionalidad, desviaciones o actos de corrupción en el otorgamiento de apoyos o servicios del Instituto hacia los particulares, de conformidad con las disposiciones legales aplicables.
+
+IX. Aprovechar las tecnologías de información, incluida la georeferenciación de datos múltiples.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 63.
+
+Al Instituto le corresponde la integración de Padrón de Familias Pertenecientes a los Poblados a Reubicar, considerando las acciones siguientes:
+
+I. Establecer un procedimiento basado en el acuerdo comunitario, para que con disposición de todos, se reubique en su totalidad a la Ciudad Rural Sustentable.
+
+II. Realizar encuestas de manera personalizada que permitan obtener información de carácter social, económico, productivo y agrario.
+
+III. Establecer un archivo con fotografías de cada una de las familias con todos sus integrantes, en sus viviendas actuales.
+
+IV. Considerar en la elegilibilidad (sic) de los beneficiarios:
+
+a) Las familias que vivan en una misma vivienda.
+
+b) Las mujeres viudas, madres y padres solteros, con dependientes económicos.
+
+c) Parejas menores de edad con dependientes económicos.
+
+El Instituto emitirá los lineamientos para la constitución, actualización, autenticidad, inalterabilidad, seguridad y difusión de la información del Padrón de Familias Pertenecientes a los Poblados a Reubicar, de acuerdo a la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 64.
+
+El proceso de incorporación de beneficiarios al Programa de Ciudades Rurales Sustentables, concluirá con el registro de las personas que cubran los criterios de elegibilidad, con la documentación comprobatoria y que de acuerdo con la disponibilidad presupuestal del programa antes mencionado, puedan ser atendidos, considerando las metas establecidas en los mismos.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 65.
+
+En caso de que los beneficiarios proporcionen información falsa al Padrón de Familias Pertenecientes a los Poblados a Reubicar, una vez que se haya corroborado por el Instituto, éste deberá de proceder a la suspensión de (sic) inmediata de los apoyos y servicios.
+
+En el supuesto de que ya se hubieren otorgado los apoyos y servicios, el Instituto solicitará a la Dependencia responsable, el inicio de las acciones para el reintegro de los mismos, sin perjuicio de las sanciones que procedan y determinen las disposiciones legales correspondientes.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 66.
+
+Se prohíbe la utilización del Padrón de Familias Pertenecientes a los Poblados a Reubicar, para fines políticos, electorales, comerciales o de cualquier índole distinta a su objeto y fines señalados en esta Ley.
+
+Su uso indebido será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones legales aplicables.
+
 T r a n s i t o r i o s
 
 Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
@@ -770,3 +852,9 @@ P.O. 21 DE OCTUBRE DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
