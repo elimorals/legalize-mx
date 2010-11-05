@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-ayuntamiento-de-san-nicolas-de-los-4510
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-03"
-last_updated: "2009-08-21"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de junio de 2005.
 
@@ -1151,9 +1151,11 @@ Las iniciativas del Presidente Municipal, Regidores, Síndicos y de las Comision
 
 Los Ciudadanos, presentarán sus propuestas de iniciativa o reformas a las Disposiciones Reglamentarias Municipales por escrito, debiendo contener el nombre y firma de quien propone, una exposición de motivos, el texto del Reglamento y presentar dicha propuesta ante la Secretaría del Ayuntamiento, quien la turnará, dentro de tres días hábiles, a la comisión o comisiones respectivas a fin de que emitan dictamen sobre el asunto.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 96.
 
-La discusión y aprobación de las iniciativas de Reglamentos Municipales, deberá realizarse en Sesión del R. Ayuntamiento, con tal objeto, el Secretario del Ayuntamiento realizará la citación respectiva, con una anticipación de cinco días por lo menos a su presentación, adjuntando copia del dictamen de la comisión o comisiones que lo presentan.
+La discusión y aprobación de las iniciativas de reglamentos, deberá realizarse en Sesión del R. Ayuntamiento, con tal objeto, el Secretario del Ayuntamiento realizará la citación respectiva, adjuntando copia del dictamen de la comisión o comisiones que lo presentan.
 
 ###### ARTÍCULO 97.
 
@@ -1240,3 +1242,7 @@ P.O. 21 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
