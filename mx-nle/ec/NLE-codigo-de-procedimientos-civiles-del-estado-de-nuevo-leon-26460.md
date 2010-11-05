@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2010-06-09"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -5591,37 +5591,43 @@ DE LAS TESTAMENTARIAS.
 
 El juez competente o el notarlo público que inicie un procedimiento sucesorio deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria mediante la solicitud de búsqueda a la Dirección del Archivo General de Notarías y al Registro Público de la Propiedad y del Comercio, y éstos a su vez solicitaran en forma inmediata, vía internet el reporte de búsqueda al Registro Nacional de Avisos de Testamento e incluir en su informe el resultado de la solicitud.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 780.
 
-El Registrador Público de la Propiedad de la ubicación de los bienes dentro del territorio del Estado o un Notario Público del Municipio respectivo conocerá del caso de la transmisión hereditaria administrativa.
+El Registrador Público de la Propiedad de la ubicación de los bienes dentro del territorio del Estado, conocerá del caso de la transmisión hereditaria administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 781.
 
-Son requisitos fundamentales para la procedencia de este Juicio Hereditario Administrativo los siguientes:
+Son requisitos fundamentales para la procedencia de este procedimiento hereditario administrativo los siguientes:
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+I.- Que el valor de los bienes que deje a su muerte el autor de la herencia no excedan al equivalente a siete mil trescientas veces el salario mínimo general diario vigente en la ciudad de Monterrey; y
 
-I.- Que el valor de los bienes, que deje a su muerte el autor de la herencia no excedan de la cantidad establecida en el Artículo 727 del Código Civil del Estado; y
+II.- Que los herederos sean mayores de edad y capaces legalmente y no haya controversia o disputa, pues tan pronto como se conozca cesará la jurisdicción administrativa para que los interesados ocurran ante la Autoridad Judicial correspondiente.
 
-II.- Que los herederos sean mayores de edad y no haya controversia o disputa, pues tan pronto como se conozca cesará la jurisdicción administrativa para que los interesados ocurran ante la Autoridad Judicial correspondiente.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 782.
 
-Los interesados o presuntos herederos se presentarán oportunamente ante el C. Registrador o Notario que corresponda con los siguientes comprobantes: Copia Certificada del Acta de Defunción del autor de la herencia; título de la propiedad motivo de la herencia; plano de ella y copias respectivas; Certificados de Registro Civil que justifiquen el parentesco de los presuntos herederos con el autor de la herencia; Certificado del valor Catastral de la propiedad raíz motivo de la herencia; último recibo del pago del Impuesto Predial; puntos de vista de los interesados o beneficiarios sobre la aplicación, adjudicación o división entre los herederos de la propiedad mencionada.
+Los interesados o presuntos herederos se presentarán oportunamente ante el C. Registrador que corresponda con los siguientes comprobantes: copia certificada del acta de defunción del autor de la herencia; título de la propiedad motivo de la herencia; plano de ella y copias respectivas; certificados del Registro Civil que justifiquen el parentesco de los presuntos herederos con el autor de la herencia; certificado del valor catastral de la propiedad raíz motivo de la herencia; último recibo del pago del impuesto predial; puntos de vista de los interesados o beneficiarios sobre la aplicación, adjudicación o división entre los herederos de la propiedad mencionada.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 783.
 
-Dentro de las cuarenta y ocho horas siguientes a la presentación de los interesados con su denuncia e iniciando el Juicio Hereditario Administrativo, el C. Registrador o Notario mandará publicar un aviso que se fijará en un lugar visible del local Oficial y por conducto de la Oficina de Prensa del Gobierno del Estado, convocando a las personas que se consideren con derechos a la herencia, se presenten a deducirlos dentro de los treinta días que se señala como término para la substanciación del expediente administrativo.
+Dentro de las cuarenta y ocho horas siguientes a la presentación de los interesados con su denuncia e iniciando el procedimiento hereditario administrativo, el C. Registrador mandará publicar un aviso que se fijará en un lugar visible del local oficial y por conducto de la oficina de prensa del Gobierno del Estado, convocando a las personas que se consideren con derechos a la herencia, se presenten a deducirlos dentro de los treinta días que se señala como término para la substanciación del expediente administrativo.
 
 ###### Artículo 784.
 
 El procedimiento Administrativo correspondiente a la transmisión hereditaria a que se refiere este capítulo se substanciará en un término no mayor de treinta días, contados a partir del de su iniciación.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 785.
 
-Substanciado todo el procedimiento Administrativo en los términos de los artículos precedentes, el C. Registrador o Notario que conozca del asunto, dentro del término de los cinco días siguientes y no habiendo oposición o inconformidad, dictará resolución y expedirá, previo el pago de los derechos correspondientes, el Certificado o Certificados de Propiedad al heredero o herederos que reconozcan en dicha resolución, Certificado que le servirá de Título de legal adquisición para su registro.
+Substanciado todo el procedimiento administrativo en los términos de los artículos precedentes, el C. Registrador que conozca del asunto, dentro del término de los cinco días siguientes y no habiendo oposición o inconformidad, dictará resolución y expedirá, previo el pago de los derechos e impuestos correspondientes, el certificado o certificados de propiedad al heredero o herederos que reconozcan en dicha resolución, certificado que le servirá de título de legal adquisición para su registro.
 
 ###### Artículo 786.
 
@@ -6251,6 +6257,8 @@ Cuando cause firmeza dicha resolución, se seguirá el procedimiento con sujeci�
 
 DE LA TRAMITACION POR NOTARIOS.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 880.
 
 En todo lo relativo a la sucesión de los bienes del patrimonio familiar, se observarán las disposiciones de este Título, que no se opongan a las siguientes reglas:
@@ -6291,21 +6299,29 @@ DEL TESTAMENTO PUBLICO CERRADO.
 
 ###### Artículo 881.
 
-Cuando todos los herederos fueren mayores de edad y hubieren sido instituídos en un testamento público, la testamentaría podrá ser extrajudicial, con intervención de un Notario, mientras no hubiere controversia alguna; con arreglo a lo que se establece en los artículos siguientes.
+Cuando todos los herederos fueren mayores de edad, y no hubiere incapaces o habiéndolos se encuentren legalmente representados, la sucesión testamentaria o legítima podrá, de forma optativa, ser tramitada por la vía extrajudicial, con intervención de un Notario del Estado, mientras no hubiere controversia alguna; con arreglo a lo que se establece en los artículos siguientes.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 882.
 
-El albacea, si lo hubiere, y los herederos exhibiendo la partida de defunción del autor de la herencia y un testimonio del testamento, se presentarán ante un Notario para hacer constar que aceptan la herencia, se reconocen sus derechos hereditarios y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
+El albacea, si lo hubiere, y los herederos exhibiendo la partida de defunción del autor de la herencia, y en su caso, testimonio del testamento público abierto, se presentarán ante un Notario para hacer constar que aceptan la herencia, se reconocen sus derechos hereditarios, y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
 
-El Notario dará a conocer estas declaranoes (sic) por medio de dos publicaciones que se harán de diez en diez días en un periódico de los de mayor circulación en el Estado.
+Si no hubiese albacea, los herederos lo nombrarán en esta primera declaración ante Notario.
+
+El Notario dará a conocer estas declaraciones por medio de dos publicaciones que se harán de diez en diez días en un periódico de los de mayor circulación en el Estado.
 
 ###### Artículo 883.
 
 Practicado el inventario por el albacea y estando conformes con él todos los herederos, lo presentarán al Notario para que lo protocolice.
 
-Artícullo (sic) 884.- Formado por el albacea con la aprobación de los herederos el proyecto de partición de la herencia, lo exhibirá al Notario, quien efectuará su protocolización.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-Siempre que haya oposición de algún aspirante a la herencia o de cpualquier (sic) acreedor, el Notario suspenderá su intervención.
+###### Artículo 884.
+
+Formado por el albacea con la aprobación de los herederos el proyecto de partición de la herencia, lo exhibirá al Notario, quien con la conformidad de todos efectuará su protocolización.
+
+Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el Notario suspenderá su intervención.
 
 ###### Artículo 885.
 
@@ -9478,3 +9494,7 @@ Artículo Único.- El Presente Decreto entrará en vigor el 30 de septiembre de 
 P.O. 9 DE JUNIO DE 2010.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
