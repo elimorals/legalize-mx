@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-catastro-inmobiliario-y-para-la-practica-de-1402
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-07"
-last_updated: "1997-11-07"
+last_updated: "2010-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO DEL CATASTRO INMOBILIARIO Y PARA LA PRÁCTICA DE AVALÚOS FISCALES PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CATASTRO INMOBILIARIO PARA EL MUNICIPIO DE PLAYAS DE ROSARITO, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 5 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 7 de noviembre de 1997.
 
@@ -814,3 +816,19 @@ PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR SE EXTIENDE LA PRESENTE CERTIFICACIÓN
 EL SECRETARIO DEL CONCEJO MUNICIPAL DE PLAYAS DE ROSARITO, BAJA CALIFORNIA
 
 C. ALEJANDRO CROSTHWAITE ESCUDERO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento del Catastro Inmobiliario y para la Práctica de Avalúos Fiscales para el Municipio de Playas de Rosarito, Baja California, publicado en el Periódico oficial del Estado de fecha 7 de Noviembre de 1997.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a lo previsto en el presente Reglamento.
