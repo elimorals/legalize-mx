@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2010-10-08"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1321,7 +1321,7 @@ Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina 
 
 ###### Art. 122.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a Derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora él nombre del difunto se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general todo lo que pueda conducir a identificar a la persona. Siempre que se adquieran mayores datos se comunicarán al Oficial del Registro Civil para que los anote.
+Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a Derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general todo lo que pueda conducir a identificar a la persona. Siempre que se adquieran mayores datos se comunicarán al Oficial del Registro Civil para que los anote.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1381,7 +1381,7 @@ Los Oficiales del Registro Civil que no cumplan con lo dispuesto en este Capítu
 
 ###### Art. 131.
 
-Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela o la pérdida o limitación de la capacidad legal para administrar bienes, remitirán al Oficial del Registro Civil correspondiente copia certificada de la resolución ejecutoriada respectiva o auto de discernimiento en él termino de quince días, para que se efectúe la inscripción en el acta correspondiente.
+Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela o la pérdida o limitación de la capacidad legal para administrar bienes, remitirán al Oficial del Registro Civil correspondiente copia certificada de la resolución ejecutoriada respectiva o auto de discernimiento en el término de quince días, para que se efectúe la inscripción en el acta correspondiente.
 
 La falta de registro no impedirá la producción de todos los efectos legales del acto respectivo.
 
@@ -1389,7 +1389,7 @@ La falta de registro no impedirá la producción de todos los efectos legales de
 
 ###### Art. 132.
 
-Cuando se recobre la capacidad legal para administrar, se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la Autoridad que corresponda, por conducto del mismo interesado, para que cancele la inscripción a que se refiere él artículo anterior. Los Oficiales que no cumplan con estas prevenciones serán sancionados como lo establece el artículo 81.
+Cuando se recobre la capacidad legal para administrar, se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la Autoridad que corresponda, por conducto del mismo interesado, para que cancele la inscripción a que se refiere el artículo anterior. Los Oficiales que no cumplan con estas prevenciones serán sancionados como lo establece el artículo 81.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1459,9 +1459,11 @@ El Oficial del Registro Civil, una vez que se le comunique la resolución firme 
 
 La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Art. 140.
 
-Solo pueden celebrar esponsales el hombre que ha cumplido dieciseis años y la mujer que ha cumplido catorce.
+Sólo pueden celebrar esponsales el hombre y la mujer que han cumplido dieciséis años.
 
 ###### Art. 141.
 
@@ -1503,9 +1505,11 @@ El matrimonio es la unión legítima de un solo hombre y una sola mujer, para pr
 
 Cualquiera condición contraria a estos fines se tendrá por no puesta.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Art. 148.
 
-Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
+Para contraer matrimonio, el hombre y la mujer necesitan haber cumplido dieciséis años. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -4693,6 +4697,8 @@ II.- De un tutor para negocios judiciales.
 
 ### CAPITULO II. DE LA DECLARACION DE AUSENCIA
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Art. 646.
 
 La mayor edad comienza a los dieciocho años cumplidos.
@@ -4709,11 +4715,11 @@ El mayor de edad dispone libremente de su persona y de sus bienes.
 
 El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 649.
 
-Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, se le citará por medio de edictos publicados por tres veces consecutivas en el Periódico Oficial del Estado y en algún periódico de los que tengan mayor circulación a juicio del Juez, señalándole para que se presente en un término no menor de tres meses, ni mayor de seis, y dictará las providencias necesarias para asegurar los bienes.
+Cuando una persona haya desaparecido y se ignore el lugar donde se halle, y quien la represente, el juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, se le citará por medio de edictos publicados por tres veces consecutivas en el Periódico Oficial del Estado y en algún periódico de los que tengan mayor circulación a juicio del Juez, señalándole para que se presente en un término no mayor de tres meses, y dictará las providencias necesarias para asegurar los bienes.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -4799,15 +4805,17 @@ III.- Con la muerte del ausente;
 
 IV.- Con la posesión provisional.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 666.
 
-Cada año, en el día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos en los términos previstos en el artículo 649. En ellos constarán el nombre y domicilio del representante, y el tiempo que falte para que se cumpla el plazo que señalan los artículos 669 y 670 en su caso.
+A los tres meses, del día que corresponda a aquél en que hubiere sido nombrado el representante, se publicarán nuevos edictos en los términos previstos en el artículo 649. En ellos constarán el nombre y domicilio del representante, y el tiempo que falte para que se cumpla el plazo que señalan los artículos 669 y 670 en su caso.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 667.
 
-Los edictos se publicarán por dos meses, con intervalo de quince días, en los principales periódicos del último domicilio del ausente, y se remitirán a los cónsules, como previene el artículo 650.
+Los edictos se publicarán tres veces consecutivas, con intervalo de quince días, en los principales periódicos del último domicilio del ausente, y se remitirán a los cónsules, como previene el artículo 650.
 
 ###### Art. 668.
 
@@ -4817,19 +4825,25 @@ El representante está obligado a promover la publicación de los edictos. La fa
 
 ###### Art. 669.
 
-Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 670.
 
-En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados dos años, que se contarán desde la desaparición del ausente, si en este período no se tuvieren ninguna noticia suya, o desde la fecha en que se haya tenido las últimas.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 671.
 
-Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de tres años.
+Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por más de un año.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 672.
 
-Pasados dos años, que se contarán del modo establecido en el artículo 670, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere, se nombrará representante de acuerdo con lo dispuesto en los artículos 657, 658 y 659.
+Pasado un año, que se contarán (sic) del modo establecido en el artículo 670, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere, se nombrará representante de acuerdo con lo dispuesto en los artículos 657, 658 y 659.
 
 ###### Art. 673.
 
@@ -4847,23 +4861,29 @@ IV.- El Ministerio Público.
 
 Si el juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días, en el Periódico Oficial que corresponda, y en los principales del último domicilio del ausente, y la remitirá a los cónsules, conforme al artículo 650.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Art. 675.
 
-Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
+Pasados dos meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
 
 ###### Art. 676.
 
 Si hubiere algunas noticias u oposición, el juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 674, y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo juez crea oportunos.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
 ###### Art. 677.
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto a los edictos. Ambas publicaciones se repetirán cada año, hasta que se declare la presunción de muerte.
 
 ###### Art. 678.
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
 
 ### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 679.
 
@@ -4981,7 +5001,7 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 ###### Art. 705.
 
-Cuando hayan transcurrido seis años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero si se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
 
@@ -11347,7 +11367,7 @@ Pago o cumplimiento es la entrega de la cosa o cantidad debida, o la prestación
 
 ###### Art. 1957.
 
-El deudor puede ceder sus bienes a los acreedores en pago de sus deudas. Esta cesión, salvo pacto en contrario, solo libera a aquel de responsabilidad por el importe líquido de los bienes cedidos. Los convenios que sobre el efecto de la cesión se celebren entre el deudor y sus acreedores, se sujetarán a lo dispuesto en el Título relativo a la concurrencia y prelación de los créditos.
+El deudor puede ceder sus bienes a los acreedores en pago de sus deudas. Esta cesión, salvo pacto en contrario, sólo libera a aquel de responsabilidad por el importe líquido de los bienes cedidos. Los convenios que sobre el efecto de la cesión se celebren entre el deudor y sus acreedores, se sujetarán a lo dispuesto en el Título relativo a la concurrencia y prelación de los créditos.
 
 ###### Art. 1958.
 
@@ -16744,5 +16764,17 @@ P.O. 9 DE JUNIO DE 2010.
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE OCTUBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO 112, POR EL QUE SE REFORMAN LOS ARTICULOS 140 Y 148 DEL CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO 117, POR EL QUE SE REFORMAN POR MODIFICACION LOS ARTICULOS 649, 666, 667, 669, 670, 671, 672, 675, 677 Y 705 PRIMER PARRAFO, TODOS DEL CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
