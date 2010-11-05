@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-responsabilidades-de-los-servidores-publicos-del-26101"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-30"
-last_updated: "2007-11-27"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 30 de septiembre de 2002.
 
@@ -627,6 +627,10 @@ Serán aplicables dichas prescripciones y formalidades a los procedimientos admi
 
 Es también aplicable en lo conducente, lo dispuesto por este artículo, tratándose de los procedimientos que se instruyan en los Ayuntamientos, respecto a los servidores públicos municipales.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+El Código Civil y el Código de Procedimientos Civiles del Estado de Quintana Roo, se aplicarán supletoriamente en todo aquello no previsto en la presente ley.
+
 ###### ARTICULO 74.
 
 Se instrumentará acta circunstanciada de todas las diligencias que se practiquen, mismas que suscribirán quienes intervengan en ellas, apercibidos de las sanciones en que incurren los que declaran con falsedad ante una autoridad competente.
@@ -873,7 +877,7 @@ Los procedimientos de juicio político que se hayan iniciado antes de la vigenci
 
 ###### ARTICULO SEPTIMO.
 
-En tanto se establezca una Ley de Procedimiento Administrativo que coadyuve con el procedimiento establecido en esta Ley, se estará a la suplencia del Código Civil y de Procedimientos Civiles vigentes en el Estado.
+(DEROGADO, P.O. 5 DE NOVIEMBRE DE 2010)
 
 SALON DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS CATORCE DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL DOS.
 
@@ -906,3 +910,11 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 27 DE NOVIEMBRE DE 2007.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+TRANSITORIO:
+
+ÚNICO.- Para los efectos legales que correspondan, publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
