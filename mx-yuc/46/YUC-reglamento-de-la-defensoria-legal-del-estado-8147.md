@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-defensoria-legal-del-estado-8147"
 country: "mx"
 rank: "reglamento"
 publication_date: "1982-02-02"
-last_updated: "1982-02-02"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 REGLAMENTO DE LA DEFENSORIA LEGAL DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO Y SEPTIMO TRANSITORIOS DE LA LEY DEL INSTITUTO DE DEFENSA PUBLICA DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 5 DE NOVIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO QUEDARA SIN VIGENCIA DE MANERA SIMULTANEA A LA ENTRADA EN VIGOR DE LA LEY.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 2 de febrero de 1982.
 
@@ -322,3 +324,43 @@ DR. FRANCISCO LUNA KAN
 El Director de Asuntos Jurídicos
 
 LIC. FERNANDO A. CASTILLA CENTENO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 5 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día primero de marzo del año 2011, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Todos los recursos materiales y presupuestarios asignados a la Dirección de la Defensoría Legal del Estado de Yucatán, a partir de la entrada en vigor de esta Ley, pasarán a formar parte del patrimonio del Instituto de Defensa Pública del Estado.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de esta Ley, el personal administrativo y los trabajadores sociales adscritos a la Dirección de la Defensoría Legal del Estado de Yucatán, pasarán a formar parte del Instituto de Defensa Pública del Estado.
+
+No obstante, los defensores de oficio que aspiren a ser defensores públicos y asesores jurídicos, deberán cubrir los requisitos establecidos en esta Ley y acreditar los exámenes de permanencia que establezca la Consejería Jurídica, previo a la entrada en vigor de esta Ley.
+
+La Consejería Jurídica realizará los procedimientos de selección de los servidores públicos, que de acuerdo a esta Ley, se incorporen a la estructura del Instituto de Defensa Pública del Estado de Yucatán, a más tardar el 31 de enero del año 2011.
+
+###### ARTÍCULO QUINTO.
+
+Los defensores públicos que a la entrada en vigor de esta Ley estén conociendo de asuntos que se ventilen conforme al sistema de justicia penal anterior al sistema acusatorio, continuarán en su conocimiento hasta la conclusión de los mismos, en términos de la legislación aplicable.
+
+###### ARTÍCULO SEXTO.
+
+El Gobernador del Estado deberá nombrar al Defensor General del Estado, a propuesta del Consejero Jurídico del Poder Ejecutivo del Estado, a más tardar el día 28 de febrero del año 2011.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Gobernador del Estado deberá expedir el Reglamento de esta Ley, a más tardar el 31 de enero del año 2011, a efecto de que entre en vigor de manera simultánea a esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos que a la entrada en vigor de esta Ley estén a cargo de la Dirección de la Defensoría Legal del Estado, quedarán a cargo del Instituto de Defensa Pública del Estado.
