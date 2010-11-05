@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2007-08-29"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -47,15 +47,15 @@ De Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Ll
 
 ## TÍTULO PRIMERO. PRINCIPIOS GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 1.
 
-Las disposiciones del presente Código tienen por objeto regular los actos y procedimientos de la Administración Pública estatal y el juicio contencioso administrativo ante el órgano jurisdiccional competente; así como establecer las bases generales de los actos y procedimientos administrativos en los municipios del Estado.
+Las disposiciones del presente Código tienen por objeto regular las bases generales de los actos y procedimientos de la Administración Pública; así como el recurso de revocación y el juicio contencioso administrativo ante el órgano jurisdiccional competente.
 
-Los procedimientos administrativos regulados por leyes especiales se regirán por éstas en lo que no se opongan al presente Código y, en lo no previsto en dichas leyes, se aplicarán las disposiciones de este ordenamiento.
+Los procedimientos administrativos, así como los recursos y medios de impugnación a que se refiere el párrafo anterior, deberán estar regulados por leyes especiales y se regirán por éstas en lo que no se opongan al presente Código y, en lo no previsto en dichas leyes, se aplicarán las disposiciones de este ordenamiento. Los recursos y medios de impugnación no previstos en el presente Código o en las leyes especiales, se tendrán por inexistentes o insubsistentes.
 
-Quedan excluidos de la aplicación de este Código los actos administrativos y los procedimientos en materia laboral, electoral, de derechos humanos, de procuración de justicia, así como los actos de nombramiento y remoción de los servidores públicos estatales y municipales.
+Quedan excluidos de la aplicación de este Código los actos administrativos y los procedimientos en materia laboral, excepto los relacionados con integrantes de las instituciones policiales del Estado y municipales; electoral, de derechos humanos, de procuración de justicia, así como los actos de nombramiento y remoción de los servidores públicos estatales y municipales.
 
 ###### Artículo 2.
 
@@ -63,7 +63,9 @@ Para efectos del presente Código, se entenderá por:
 
 I. Acto Administrativo: declaración unilateral de voluntad, externa, particular y ejecutiva, emanada de la Administración Pública, que tiene por objeto crear, transmitir, reconocer, declarar, modificar o extinguir una situación jurídica concreta para la satisfacción del interés general;
 
-II. Administración Pública: dependencias, entidades, órganos y servidores públicos del Poder Ejecutivo, así como de los Ayuntamientos, en los términos que establezcan las leyes;
+> <small>(REFORMADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+II. Administración Pública: Las dependencias centralizadas y entidades paraestatales del Poder Ejecutivo; las dependencias centralizadas y entidades paramunicipales de los Ayuntamientos del Estado; así como las áreas o unidades administrativas de los Organismos Autónomos, en los términos que establezcan las leyes;
 
 III. Anulabilidad: reconocimiento de la Autoridad, en el sentido de que un acto administrativo no cumple con los requisitos de validez que establecen este Código y demás leyes del Estado, subsanable por la propia autoridad al cumplirse dichos requisitos;
 
@@ -97,7 +99,9 @@ XIV. Nulidad: expresión, manifestación o reconocimiento emanados del órgano c
 
 XV. Oficina Ejecutora: autoridad fiscal estatal o municipal que, de conformidad con las normas aplicables, tiene atribuciones para ordenar y substanciar el procedimiento administrativo de ejecución;
 
-XVI. (DEROGADA, G.O. 22 DE ABRIL DE 2003)
+> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+XVI. Organismos Autónomos: Los previstos en el artículo 67, fracciones III y IV, de la Constitución Política del Estado, así como la Universidad Veracruzana y demás instituciones estatales de educación superior a las que la ley otorgue autonomía;
 
 XVII. Procedimiento Administrativo: conjunto de actos y formalidades jurídicas realizados conforme a lo dispuesto por este Código, tendentes a producir un acto de la Administración Pública;
 
@@ -426,6 +430,14 @@ En el juicio contencioso no se producirá la caducidad de la instancia por inact
 Las notificaciones se efectuarán, a más tardar, el día hábil siguiente al en que se dicte el acto administrativo o la resolución, y se harán:
 
 I. Personalmente a los interesados y por oficio a las autoridades, en su caso, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, regularización del procedimiento y demás resoluciones o actos administrativos que puedan ser impugnados. En estos casos, también podrán efectuarse por correo registrado con acuse de recibo;
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+Tratándose de información adjunta o anexa a la notificación del acto administrativo y atendiendo a su volumen, número de archivos o diversidad de documentos, ésta podrá entregarse también a través de medios electrónicos o informáticos. Al efecto, la administración pública facultada para emitir normas de observancia general podrá expedir reglas generales para garantizar debidamente, con la notificación, la entrega y acuse de recibo de la documentación adjunta o anexa que se remita a particulares o a autoridades estatales o municipales.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+Las reglas generales deberán garantizar la fidelidad, autenticidad, conservación, preservación e inalterabilidad del contenido de la documentación adjunta o anexa que se remita a los particulares o a las autoridades, así como la certeza en la entrega y en la generación del acuse de recibo correspondiente.
 
 > <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -2563,7 +2575,7 @@ Artículo 259 S. En el supuesto de que los servicios se hayan prestado parcialme
 
 Artículo 259 T. La dación en pago quedará formalizada y el crédito extinguido de la siguiente manera:
 
-I. Tratándose de bienes inmuebles, a la fecha de firma de la escritura pública en que se transfiera el dominio del bien al Gobierno del Estado, misma que se otorgara dentro de los 45 días hábiles siguiente a aquél en que se haya notificado la aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago;
+I. Tratándose de bienes inmuebles, a la fecha de firma de la escritura pública en que se transfiera el dominio del bien al Gobierno del Estado, misma que se otorgara dentro de los 45 días hábiles siguiente (sic) a aquél en que se haya notificado la aceptación. Los gastos de escrituración y las contribuciones que origine la operación, serán por cuenta del deudor al que se le haya aceptado la dación en pago;
 
 II. Tratándose de bienes muebles, a la fecha de firma del acta de entrega de los mismos, que será dentro de los cinco días hábiles siguientes a aquél en que se haya notificado la aceptación. Cualquier gasto que resulte de la entrega del bien que corresponda, correrá por cuenta del deudor; y
 
@@ -2615,7 +2627,109 @@ Artículo 259 Z. Los servidores públicos que participen en la realización de l
 
 Queda estrictamente prohibido a los servidores públicos de la Secretaría que hayan intervenido directamente en la operación, adquirir por sí o por interpósita persona los bienes recibidos con motivo de la dación en pago.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO V (SIC). DEL PROCEDIMIENTO ADMINISTRATIVO LABORAL PARA LOS MIEMBROS DE LAS INSTITUCIONES POLICIALES DEL ESTADO Y DE LOS MUNICIPIOS
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 259 Bis.
+
+Los nombramientos de los trabajadores sólo dejarán de surtir efectos en forma definitiva, sin responsabilidad para la entidad pública para la que prestan sus servicios, por las siguientes causas:
+
+I. Separación, por incumplir cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
+
+a) Si hubiere sido convocado a tres procesos consecutivos de promoción sin que haya participado en los mismos sin causa justificada, o que habiendo participado en dichos procesos, no hubiere obtenido el grado inmediato superior que le correspondería, por causas imputables a él, sólo en el caso de no cumplir con los requisitos de permanencia;
+
+b) Que hubiere alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con lo establecido en las disposiciones aplicables;
+
+c) Que de su expediente personal no se desprendan méritos suficientes a juicio de las Comisiones para conservar su permanencia; y
+
+II. Baja, por:
+
+a) Renuncia;
+
+b) Muerte o incapacidad permanente;
+
+c) Jubilación o retiro;
+
+d) Por conclusión del término fijado en el nombramiento; y
+
+e) Por mutuo consentimiento.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 259 Ter.
+
+El titular o responsable de la entidad pública podrá decretar la remoción de un trabajador, además del incumplimiento de las obligaciones que señalan los artículos 28 y 29 de la Ley del Sistema Estatal de Seguridad Pública, en cualquiera de los siguientes casos:
+
+I. Por incurrir en faltas de probidad u honradez debidamente comprobadas;
+
+II. Por incurrir en violencia, amagos, injurias o malos tratamientos en contra de sus jefes o compañeros o en contra de cualquier persona, ya sea dentro o fuera del servicio;
+
+III. Por acumular, sin permiso o causa justificada, más de tres faltas de asistencia consecutivas (sic) o cinco discontinuas, en un período de treinta días;
+
+IV. Por abandonar o desatender sus labores, sobre todo si la función es delicada o peligrosa y requiere su presencia constante, salvo que esto ocurra por causa justificada;
+
+V. Por ocasionar intencionalmente daños a edificios, obras, maquinaria, materias primas y demás objetos relacionados con la función que realiza;
+
+VI. Por cometer actos inmorales durante el servicio;
+
+VII. Por revelar información estrictamente oficial, en perjuicio de la institución;
+
+VIII. Por comprometer con su imprudencia, descuido o negligencia, la seguridad de la entidad pública o lugar en que preste sus servicios o de las personas que allí se encuentren;
+
+IX. Por desobedecer, sin causa justificada, las órdenes o instrucciones que reciba de sus superiores, relacionadas con el servicio;
+
+X. Por concurrir al trabajo en estado de embriaguez o bajo la influencia de narcóticos o drogas enervantes, salvo que, en este último caso, exista prescripción médica. Antes de iniciar su servicio, el trabajador deberá poner en conocimiento el hecho a la entidad pública y exhibir la prescripción suscrita por el médico;
+
+XI. Por sentencia ejecutoriada que imponga al trabajador pena de prisión por la comisión de un delito intencional; y
+
+XII. Por causas análogas a las establecidas con anterioridad, que revistan igual gravedad y generen consecuencias semejantes en lo que al trabajo se refiere.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 259 Quáter.
+
+Cuando el trabajador incurra en alguno de los casos a que se refiere el artículo anterior o cuando deje de reunir los requisitos de permanencia en los cuerpos policíacos, establecidos en el inciso b) del artículo 80 de la Ley del Sistema Estatal de Seguridad Pública, dará lugar a su remoción; en tal caso, el funcionario designado por el órgano competente de cada institución, con intervención del afectado, quien podrá ser acompañado de un representante legal, procederá a levantar el acta circunstanciada que corresponda.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 259 Quinquies.
+
+Para los efectos del artículo anterior, se observará el siguiente procedimiento:
+
+I. El trabajador deberá ser citado por escrito, en el lugar donde preste sus servicios o en el domicilio que tenga registrado ante la entidad pública, cuando menos con veinticuatro horas de anticipación, a una audiencia en la que se levantará el acta circunstanciada que corresponda;
+
+II. En caso de que el trabajador se niegue a recibir el citatorio, se levantará un acta ante dos testigos, haciéndose constar esta circunstancia;
+
+III. Si el trabajador no se encuentra en el centro de trabajo, ni en el domicilio indicado en la fracción I, el citatorio se le dejará con la persona que se encuentre en dicho domicilio y de no haber nadie en él, con un vecino, y se levantará un acta ante dos testigos, haciendo constar esta circunstancia;
+
+IV. En los casos a que se refieren las dos fracciones anteriores, el citatorio surtirá todos sus efectos;
+
+V. El levantamiento del acta no se suspenderá por la inasistencia del trabajador, si fue debidamente notificado para comparecer; el acta así levantada surtirá todos los efectos legales procedentes;
+
+VI. En el acta circunstanciada se asentarán con precisión los hechos, la declaración del trabajador afectado en su caso y la de los testigos que propongan las partes; y
+
+VII. Cuando en el acta circunstanciada aparezcan elementos que hagan presumir que son ciertos los actos imputados al trabajador, el funcionario autorizado para ello podrá dar por terminados los efectos del nombramiento, comunicándolo al afectado por escrito, al que se acompañará copia del acta de referencia.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 259 Sexies.
+
+Si durante el procedimiento no se prueba la causa de remoción, el trabajador tendrá derecho a que se le indemnice con el importe de veinte días de salario por cada uno de los años de servicios prestados, el importe de tres meses de salario y el pago de los salarios vencidos desde la fecha de la separación hasta que se cumplimente en definitiva la sentencia pronunciada por el tribunal; así como al pago de las prestaciones devengadas a que tenga derecho al momento de la separación injustificada de su trabajo.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 259 Septies.
+
+En contra del acta circunstanciada que se levante en el procedimiento a que se refiere este Capítulo se podrá interponer el recurso de revocación o el juicio contencioso previsto en este Código.
+
+> <small>(ADICIONADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 259 Octies.
+
+Las atribuciones de los órganos de control interno de las autoridades y del superior jerárquico para determinar responsabilidades e imponer sanciones caducan en tres años, contados a partir de la fecha de la comisión de la infracción.
 
 ## TÍTULO CUARTO. DEL RECURSO DE REVOCACIÓN
 
@@ -2769,7 +2883,7 @@ Contra la resolución que recaiga al recurso de revocación procede el juicio co
 
 # LIBRO TERCERO. DEL JUICIO CONTENCIOSO
 
-### CAPÍTULO II. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 278.
 
@@ -2795,15 +2909,31 @@ V. Resoluciones dictadas por la autoridad que impongan sanciones a los servidore
 
 VI. Resoluciones favorables a los particulares que causen lesión al interés público, cuya nulidad demande la autoridad;
 
-VII. Resoluciones definitivas dictadas en el recurso de revocación; y
+VII. Resoluciones definitivas dictadas en el recurso de revocación; y (sic)
 
-VIII. Los demás actos y resoluciones que señale la ley.
+> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Actos administrativos dictados por la Administración Pública en los supuestos a que se refieren los artículos 1, párrafo primero, y 2, fracciones II y XVI, del presente Código, que afecten derechos de particulares o de autoridades;
+
+> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+IX. Actas circunstanciadas que decidan la remoción de los miembros de las corporaciones de seguridad pública en el Estado; y
+
+X. Los demás actos y resoluciones que señale la ley.
 
 ###### Artículo 281.
 
 Son partes en el juicio:
 
-I. El actor o demandante;
+> <small>(REFORMADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+I. El actor o demandante. Tendrán este carácter:
+
+a) El particular afectado por un acto de autoridad;
+
+b) La autoridad en el caso del juicio de lesividad;
+
+c) La autoridad que resulte afectada por un acto definitivo de la Administración Pública;
 
 II. El demandado. Tendrán este carácter:
 
@@ -2813,7 +2943,11 @@ b) La autoridad que omita dar respuesta a las peticiones o instancias de los par
 
 c) El particular a quien favorezca la resolución cuya nulidad demande la autoridad; y
 
-d) El tercero perjudicado que tenga un derecho incompatible con la pretensión del demandante.
+d) (DEROGADO, G.O. 5 DE NOVIEMBRE DE 2010)
+
+> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+III. El tercero perjudicado que tenga un derecho incompatible con la pretensión del demandante.
 
 ###### Artículo 282.
 
@@ -2855,7 +2989,7 @@ II. Sentencias interlocutorias, las que no resuelven una cuestión principal; y
 
 III. Sentencias definitivas, las que resuelven el juicio o recurso en lo principal.
 
-### CAPÍTULO III. DE LA DEMANDA
+### CAPÍTULO II. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
 ###### Artículo 289.
 
@@ -2907,7 +3041,7 @@ El sobreseimiento del juicio podrá ser total o parcial.
 
 Contestada la demanda, el magistrado examinará el expediente y si encontrare acreditada alguna causa evidente de improcedencia a sobreseimiento, a petición de parte o de oficio, emitirá la resolución en la que se dé por concluido el juicio. En caso de que la causal no sea clara, ésta se decidirá en la sentencia definitiva.
 
-### CAPÍTULO IV. DE LA CONTESTACIÓN DE DEMANDA
+### CAPÍTULO III. DE LA DEMANDA
 
 ###### Artículo 292.
 
@@ -3003,7 +3137,7 @@ El tercero perjudicado, dentro de los quince días siguientes al en que surta ef
 
 Deberá adjuntar a su escrito, el documento con el que acredite su personaría cuando no promueva en nombre propio, las pruebas documentales que ofrezca, el interrogatorio para los testigos y el cuestionario para los peritos. Es aplicable en lo conducente, lo dispuesto en el último párrafo de los artículos 293 y 295 del presente Código.
 
-### CAPÍTULO V. DE LA SUSPENSIÓN DEL ACTO IMPUGNADO
+### CAPÍTULO IV. DE LA CONTESTACIÓN DE DEMANDA
 
 ###### Artículo 300.
 
@@ -3055,7 +3189,7 @@ En la contestación de la demanda o antes del cierre de la instrucción, la auto
 
 Se dictará acuerdo sobre la contestación de demanda a más tardar al tercer día siguiente al de su presentación. En el mismo acuerdo se tendrán por admitidas o desechadas las pruebas ofrecidas; se ordenarán, en su caso, las providencias necesarias para su desahogo, señalando el derecho del demandante para ampliar su demanda y las consecuencias de no hacerlo, y se fijará fecha para la audiencia del juicio, la que deberá celebrarse dentro de los treinta días siguientes; o cuarenta y cinco días en el supuesto de ampliación de demanda, ambos plazos contados a partir de la fecha de emisión del acuerdo respectivo.
 
-### CAPÍTULO VI. DE LOS INCIDENTES
+### CAPÍTULO V. DE LA SUSPENSIÓN DEL ACTO IMPUGNADO
 
 ###### Artículo 305.
 
@@ -3103,7 +3237,7 @@ Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el i
 
 La Sala, dentro de los tres días siguientes, dará vista a las demás partes y citará a una audiencia de pruebas y alegatos que deberá celebrarse dentro de los cinco días siguientes, en la que dictará la resolución que corresponda.
 
-### CAPÍTULO VII. DE LA AUDIENCIA
+### CAPÍTULO VI. DE LOS INCIDENTES
 
 ###### Artículo 312.
 
@@ -3171,7 +3305,7 @@ Los magistrados que conozcan de una recusación serán irrecusables para ese só
 
 Las demás cuestiones que surjan dentro del juicio contencioso se decidirán de plano, salvo las que trasciendan al resultado del juicio, que se resolverán en la sentencia. Tales cuestiones se harán valer a petición de parte interesada dentro de los tres días siguientes a la notificación del acuerdo respectivo.
 
-### CAPÍTULO VIII. DE LA SENTENCIA
+### CAPÍTULO VII. DE LA AUDIENCIA
 
 ###### Artículo 320.
 
@@ -3201,7 +3335,7 @@ Concluida la audiencia, los autos serán turnados para resolver, lo cual deberá
 
 En cualquier momento de la tramitación del juicio contencioso, hasta antes del cierre de la instrucción, las partes podrán llegar a arreglos conciliatorios que pongan fin al asunto, siempre que no sean contrarios a las normas. Los convenios respectivos aprobados por el magistrado de la Sala del conocimiento producirán todos los efectos jurídicos inherentes a una sentencia ejecutoria, con autoridad de cosa juzgada.
 
-### CAPÍTULO IX. DEL CUMPLIMIENTO DE LA SENTENCIA
+### CAPÍTULO VIII. DE LA SENTENCIA
 
 ###### Artículo 325.
 
@@ -3257,7 +3391,7 @@ II. Las que, admitiendo algún recurso, no fueren recurridas, o habiéndolas sid
 
 III. Las consentidas expresamente por las partes o sus representantes legales.
 
-### CAPÍTULO X. DE LOS RECURSOS
+### CAPÍTULO IX. DEL CUMPLIMIENTO DE LA SENTENCIA
 
 ###### Artículo 330.
 
@@ -3290,6 +3424,8 @@ No podrá archivarse ningún juicio contencioso sin que se haya cumplido enteram
 ###### Artículo 335.
 
 Las disposiciones anteriores se aplicarán en lo conducente cuando no se dé cumplimiento, se viole o exista exceso o defecto en la ejecución del acuerdo de suspensión que se hubiere decretado respecto del acto o resolución impugnados.
+
+### CAPÍTULO X. DE LOS RECURSOS
 
 ###### Artículo 336.
 
@@ -3512,3 +3648,9 @@ Artículo Sexto. Túrnese al titular del Poder Ejecutivo para efecto de los art�
 G.O. 29 DE AGOSTO DE 2007.
 
 Único. Este decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
+
+G.O. 5 DE NOVIEMBRE DE 2010.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones reglamentarias, acuerdos, criterios, lineamientos y demás normas de observancia general que regulen procedimientos, recursos administrativos y medios de impugnación que se opongan al presente Decreto.
