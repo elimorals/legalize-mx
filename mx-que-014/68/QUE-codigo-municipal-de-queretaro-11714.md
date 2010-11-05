@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2009-08-21"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -6305,79 +6305,29 @@ APARTADO CUARTO
 
 DEL INSTITUTO MUNICIPAL DE LA JUVENTUD
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
-
 ###### ARTICULO 828.
 
-El presente Apartado tiene por objeto regular la organización y funcionamiento del Instituto Municipal de la Juventud del Municipio de Querétaro, como organismo de participación, desconcentrado de la Presidencia Municipal, en base a lo siguiente:
-
-I. Los bienes muebles e inmuebles, derechos, usos y aprovechamiento que sean útiles al funcionamiento del Instituto, pertenecen al Municipio y sólo le serán asignados a aquél previo acuerdo del Ayuntamiento.
-
-II. El instituto sólo podrá contratar y obligarse previa autorización del Presidente Municipal y dictamen de la Dirección Jurídica del Municipio de Querétaro.
-
-III. La Dirección del Instituto estará a cargo del Presidente Municipal, quien la ejercerá a través del Consejo Directivo en lo que ve a ejecución de acciones y programas y en lo que respecta a lo administrativo, aprobación de planes, programas, acciones y toda la parte operativa de éstos, a través del mismo Consejo, de conformidad a lo que señala el presente Apartado.
-
-IV. El Instituto tendrá como objeto promover la participación social de los jóvenes en acciones y programas de desarrollo comunitario, bienestar social, cultural y deporte y apoyo a la economía familiar que lleve a cabo el Gobierno Municipal y otras Instituciones, así como contribuir a la sana formación y capacitación de los mismos a través de los planes y programas que se diseñen al efecto.
-
-V. Para cumplir con su objetivo, el Instituto tendrá como fines:
-
-A) Vigilar que las actividades en las que participen los jóvenes fomenten su dignidad.
-
-B) Tramitar ante diferentes instancias y realizar todo lo necesario para allegarse los recursos humanos, materiales y económicos para el desarrollo de sus actividades previo informe de ello a las Comisiones Unidas de Gobernación, Cultura y Hacienda, las funciones administrativas se llevarán a cabo por personal especializado.
-
-C) Fomentar permanentemente entre los jóvenes el espíritu solidario para con la comunidad y apoyarlos con actividades y acciones para beneficio, tanto de su comunidad como las más necesitadas dándoles prioridad.
-
-D) Contribuir al interés tanto de los jóvenes como de la población en general por los niños para la práctica de la labor social, del deporte, la afición al arte y la cultura y el fomento de la recreación.
-
-F) Capacitar a los jóvenes en actividades que les ayude a complementar o allegarse ingresos económicos para sí y su familia.
-
-G) Incrementar permanentemente el número de jóvenes miembros del Instituto a fin de involucrarlos en la consecución de sus fines.
-
-H) Difundir las actividades del Instituto entre toda la comunidad municipal.
-
-I) Vincular al Instituto Municipal de la Juventud con diferentes instituciones para el logro de metas comunes y el desarrollo de programas específicos en beneficio de la comunidad.
-
-J) Fomentar en los jóvenes la conciencia cívica y el compromiso con su país.
-
-VI. El presente es de observancia general y su aplicación es responsabilidad de las autoridades Municipales en los diferentes órganos de Gobierno y de Dirección Administrativa.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL MUNICIPIO DE QUERETARO, P.O. 5 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 829.
 
-El Instituto Municipal de la Juventud se conforma por:
-
-I. Un Consejo Directivo;
-
-II. Una Coordinación Operativa, y
-
-III. Tres Coordinadores Especiales.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL MUNICIPIO DE QUERETARO, P.O. 5 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 830.
 
-El Consejo Directivo es un órgano colegiado integrado por jóvenes miembros del Instituto, que se encarga de proponer planes de trabajo, que se traduzcan en acciones concretas en favor de la comunidad y de los jóvenes y que serán ejecutados a través de las coordinaciones elegidas en el Consejo y de las comisiones específicas que se creen a interior del mismo contando con un departamento de asesoría.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL MUNICIPIO DE QUERETARO, P.O. 5 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 831.
 
-El Consejo Directivo tendrá un Coordinador Operativo, que tendrá la representatividad del mismo, electo por la mayoría de sus miembros en votación cerrada y directa. En caso de empate se realizará una segunda vuelta.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL MUNICIPIO DE QUERETARO, P.O. 5 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 832.
 
-Las Coordinaciones Especiales serán:
-
-I. Coordinador de Deporte;
-
-II. Coordinador de Cultura; y
-
-III. Coordinador de Acción Comunitaria.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL MUNICIPIO DE QUERETARO, P.O. 5 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 833.
 
-El funcionamiento, organización y administración del Instituto Municipal de la Juventud se regirá por su manual de organización interna, previa aprobación del mismo por el H. Cabildo.
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL MUNICIPIO DE QUERETARO, P.O. 5 DE NOVIEMBRE DE 2010)
 
 APARTADO QUINTO
 
@@ -7940,3 +7890,13 @@ PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobie
 SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
 
 TERCERO. Notifíquese a los titulares de la Secretaría General de Gobierno Municipal, de la Secretaría de Administración y de la Secretaría de Finanzas.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA JUVENTUD DEL MUNICIPIO DE QUERÉTARO
+
+PRIMERO. Publíquese en la Gaceta Municipal y en el Periódico Oficial de Gobierno del Estado "la Sombra de Arteaga".
+
+SEGUNDO. El presente acuerdo entrará en vigor el día siguiente al de su publicación en los medios de difusión precisados en el transitorio anterior.
+
+TERCERO. Se derogan los artículos 828, 829, 830, 831, 832 Y 833 referentes al apartado cuarto del libro cuarto del Código Municipal de Querétaro, así como todas aquellas disposiciones legales de igual o menor jerarquía que se opongan al presente reglamento.".
