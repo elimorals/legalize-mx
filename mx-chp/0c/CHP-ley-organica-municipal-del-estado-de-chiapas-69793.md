@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-municipal-del-estado-de-chiapas-69793"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-29"
-last_updated: "2010-07-07"
+last_updated: "2010-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de julio de 2009.
 
@@ -333,7 +333,13 @@ Las actas de cabildo debidamente firmadas por el Presidente Municipal y los mun�
 
 Son atribuciones de los ayuntamientos:
 
-I.- Formular y aprobar el programa general de Gobierno y administración correspondiente a su período, especificando sus objetivos generales y particulares; señalando la medida en que contribuirá al desarrollo integral y armónico de la comunidad; jerarquizando y calendarizando su ejecución en períodos anuales; cuantificando su monto y expresando su forma de financiamiento y pago;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+I.- Formular y aprobar el programa general de Gobierno y administración correspondiente a su período, especificando sus objetivos generales y particulares; señalando la medida en que contribuirá al desarrollo integral y armónico de la comunidad; jerarquizando y calendarizando su ejecución en períodos anuales; cuantificando su monto y expresando su forma de financiamiento y pago.
+
+Dentro del presupuesto de egresos deberán considerar acciones y recursos destinados a elevar el índice de desarrollo humano de los habitantes y comunidades mas necesitados, los cuales estarán alineados a los Objetivos de Desarrollo del Milenio.
+
+Asimismo deberán contemplar un fondo que permita la reparación del daño a las víctimas de violación de sus derechos humanos, que se deriven de resoluciones vinculatorias de la Corte Interamericana de los Derechos Humanos o de instrumentos internacionales vinculantes de las recomendaciones aceptadas por sus autoridades, o de aquellas derivadas de procedimientos de amigable composición que impliquen la reparación del daño. En caso de que estos recursos no sean utilizados en el ejercicio correspondiente, serán acumulables para el ejercicio inmediato siguiente;
 
 II.- Formular los reglamentos administrativos, gubernativos e internos y los Bandos de Policía y Buen Gobierno necesarios para la regulación de sus servicios públicos y de las actividades culturales, cívicas, deportivas y sociales que lleven a cabo; así como para su organización y funcionamiento de su estructura administrativa que deberán publicarse en el Periódico Oficial del Gobierno del Estado;
 
@@ -437,11 +443,11 @@ XL.- Nombrar apoderados y representantes generales o especiales, que ejerciten l
 
 XLI.- Autorizar a los síndicos para representarlo en los conflictos en que el municipio sea parte, y para aceptar herencias, legados y donaciones que se le hagan; así como para que ejerciten las acciones y opongan las excepciones que correspondan;
 
-XLlI.- Establecer sanciones por infracciones a las leyes, Bandos de Policía y Buen Gobierno y a los reglamentos administrativos municipales y aplicarlos a través del Presidente Municipal;
+XLII.- Establecer sanciones por infracciones a las leyes, Bandos de Policía y Buen Gobierno y a los reglamentos administrativos municipales y aplicarlos a través del Presidente Municipal;
 
 XLIII.- Asesorar, orientar y ayudar a los habitantes de los núcleos campesinos e indígenas, en la tramitación de sus asuntos ante las dependencias federales y estatales;
 
-XLlV.- Prevenir y combatir, en auxilio de las autoridades competentes, el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que implique una conducta antisocial o peligrosa para la salud de la población de su municipio;
+XLIV.- Prevenir y combatir, en auxilio de las autoridades competentes, el alcoholismo, la prostitución, la adicción a las drogas y toda actividad que implique una conducta antisocial o peligrosa para la salud de la población de su municipio;
 
 XLV.- Crear, de ser posible, una bolsa de trabajo, que preste gratuitamente servicios de información y colocación, y promueva la creación de empleos para los habitantes de su municipio;
 
@@ -2043,7 +2049,7 @@ a).- Multa hasta de 50 veces el salario mínimo general vigente; y,
 
 b).- Revocación de la concesión, licencia o permiso.
 
-## Título X. De las Suplencias, Desaparición de Ios Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
+## Título X. De las Suplencias, Desaparición de los Ayuntamientos y Responsabilidades de los Servidores Públicos Municipales
 
 ### Capítulo II. De la Declaratoria de Desaparición de Ayuntamientos
 
@@ -2266,3 +2272,9 @@ P.O. 7 DE JULIO DE 2010.
 Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
