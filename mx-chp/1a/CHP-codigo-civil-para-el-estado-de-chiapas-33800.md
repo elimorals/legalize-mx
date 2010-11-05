@@ -4,7 +4,7 @@ identifier: "CHP-codigo-civil-para-el-estado-de-chiapas-33800"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-02-02"
-last_updated: "2010-05-26"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Alcance al Periódico Oficial Estado de Chiapas, el 2 de febrero de 1938.
 
@@ -112,6 +112,10 @@ IV.- LOS SINDICATOS, LAS ASOCIACIONES PROFESIONALES Y LAS DEMAS A QUE SE REFIERE
 V.- LAS SOCIEDADES COOPERATIVAS Y MUTUALISTAS;
 
 VI.- LAS ASOCIACIONES DISTINTAS DE LAS ENUMERADAS QUE SE PROPONGAN FINES POLITICOS, CIENTIFICOS, ARTISTICOS, DE RECREO O CUALQUIERA OTRO FIN LICITO, SIEMPRE QUE NO FUERAN DESCONOCIDOS POR LA LEY.
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+VII.- LAS ASAMBLEAS DE BARRIOS.
 
 ART. 24.- LAS PERSONAS MORALES PUEDEN EJERCER TODOS LOS DERECHOS QUE SEAN NECESARIOS PARA REALIZAR EL OBJETO DE SU INSTITUCION Y EN GENERAL TODOS AQUELLOS QUE NO LES ESTEN PROHIBIDOS POR LA LEY.
 
@@ -10916,3 +10920,9 @@ DECRETO NUMERO 248, POR EL QUE SE REFORMA EL PARRAFO PRIMERO DEL ARTICULO 57, DE
 Artículo Primero.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
