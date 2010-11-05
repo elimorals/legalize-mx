@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2010-09-27"
+last_updated: "2010-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1797,6 +1797,10 @@ En lo conducente y de conformidad a los fines señalados en el párrafo tercero 
 
 En el caso de que el crecimiento de los centros urbanos forme o tienda a formar una continuidad demográfica, los municipios involucrados deberán, con apego a la Ley, planear y regular de manera coordinada el desarrollo de los mismos.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+
+Cuando dos o más Municipios, cuya área urbana, funciones y actividades rebasan el límite del Municipio o demarcación que originalmente la contenía, incorporando como parta de sí misma o de su área de influencia directa a Municipios vecinos con los que mantiene un alto grado de integración socioeconómicos, de tal manera que se estime conveniente para la planeación y regulación del desarrollo urbano, la ejecución conjunta de obras o la prestación más eficaz de los servicios públicos que les competen, y en los términos que se señalen en la legislación aplicable, los Ayuntamientos respectivos podrán convenir con el Ejecutivo del Estado, la dimensión y los límites de una zona metropolitana.
+
 ## TITULO IX.
 
 De la Hacienda Pública del Estado.
@@ -2479,13 +2483,13 @@ Una Ley del Congreso establecerá; la extensión máxima de terreno de que pueda
 
 El Congreso del Estado podrá legislar en materia de Asentamientos Humanos y Desarrollo Urbano, contemplando el interés de la Sociedad en su conjunto, previendo el mejor uso del suelo, la atmósfera y las aguas, cuidando su conservación y estableciendo adecuadas provisiones, usos, reservas territoriales y orientando el destino de tierras, aguas y bosques de jurisdicción estatal a fin de garantizar a la población un mejor desarrollo urbano, imponiendo a la propiedad privada las modalidades que dicte el interés público.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-El Ejecutivo del Estado deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los Municipios, en la planeación y regulación de las zonas de conurbación, en los términos que señale la legislación correspondiente.
+El Ejecutivo del Estado deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los Municipios, en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas, en los términos que señale la legislación correspondiente.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-Los Municipios del Estado deberán formular, aprobar y administrar los Planes o Programas Municipales de Desarrollo Urbano, de centros de población y los demás derivados de los mismos en los términos de la Ley; así como, participar en la planeación y regulación de las zonas de conurbación, conjunta y coordinadamente con el Ejecutivo y demás Municipios comprendidos dentro de la misma, conforme a la legislación correspondiente.
+Los Municipios del Estado deberán formular, aprobar y administrar los Planes y Programas Municipales de Desarrollo Urbano, de centros de población y los demás derivados de los mismos en los términos de la Ley; así como, participar en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas, conjunta y coordinadamente con el Ejecutivo y demás Municipios comprendidos dentro de las mismas, conforme a la legislación correspondiente.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
@@ -3348,3 +3352,7 @@ P.O. 30 DE MARZO DE 2010.
 P.O. 27 DE SEPTIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
