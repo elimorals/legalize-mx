@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-11"
-last_updated: "2008-09-27"
+last_updated: "2010-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 11 de abril de 2007.
 
@@ -93,9 +93,11 @@ La representación de la Institución del Ministerio Público y de la Procuradur
 
 La Coordinación que establezca la Procuraduría con otras instituciones públicas o privadas, se sujetará al cumplimiento estricto de las funciones Constitucionales y legales de aquella, de conformidad con su capacidad humana, material y técnica, procurando el mejoramiento permanente.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 7.
 
-Son Agentes del Ministerio Público para todos los efectos legales: El Procurador; los Subprocuradores; Delegados Regionales; Directores Generales de Prevención del Delito y Servicios a la Comunidad; de Asuntos Internos y Contraloría; Directores de Averiguaciones Previas; de Control de Procesos; de Consulta, Amparo e Inconformidades; de Atención a Victimas Vulnerables; la Dirección de la Agencia Especializada para la Atención de denuncias sobre Delitos Electorales; Subdirectores adscritos a estas Unidades y todos aquellos servidores públicos cuyas funciones requieran esa calidad o el Titular de la dependencia así lo determine.
+Son Agentes del Ministerio Público para todos los efectos legales: El Procurador; los Subprocuradores; Delegados Regionales; el Director General de Prevención del Delito y Servicios a la Comunidad; Directores de Asuntos Internos y Contraloría; de Averiguaciones Previas; de Control de Procesos; de Consulta, Amparo e Inconformidades; de Atención a Víctimas Vulnerables; la Dirección de la Agencia Especializada para la Atención de denuncias sobre Delitos Electorales; y todos aquellos servidores públicos cuyas funciones requieran esa calidad o el Titular de la dependencia así lo determine.
 
 ###### ARTÍCULO 8.
 
@@ -189,7 +191,9 @@ V.- UNIDADES ADMINISTRATIVAS, DE CONTROL E INFORMÁTICA:
 
 a) Dirección General Administrativa;
 
-b) Dirección General de Asuntos Internos y Contraloría; y
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+b) Dirección de Asuntos Internos y Contraloría; y
 
 c) Dirección General de Informática y Estadística.
 
@@ -233,7 +237,9 @@ XI.- Acordar con los Subprocuradores y demás servidores públicos, cuando lo es
 
 XII.- Proveer lo conducente para que la actuación de los servidores públicos de la Procuraduría, se realice con sentido humano y pleno respeto a los derechos humanos;
 
-XIII.- Emitir la resolución definitiva en los procedimientos administrativos que tramite la Dirección General de Asuntos Internos y Contraloría, determinando, cuando proceda, las sanciones que correspondan a los servidores públicos por las faltas administrativas que hubieren cometido, de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+XIII.- Emitir la resolución definitiva en los procedimientos administrativos que tramite la Dirección de Asuntos Internos y Contraloría, determinando, cuando proceda, las sanciones que correspondan a los servidores públicos por las faltas administrativas que hubieren cometido, de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos;
 
 XIV.- Emitir los lineamientos necesarios para transparentar el ejercicio de las funciones de la Procuraduría, excepto aquella información que el ordenamiento en la materia considere como confidencial o reservada;
 
@@ -455,7 +461,9 @@ XII.- Someter a la aprobación del Procurador los estudios y proyectos de trasce
 
 XIII.- Efectuar el control estadístico y de seguimiento de las actividades propias de las unidades administrativas a su cargo, evaluando el desempeño institucional y concentrando la información en la Coordinación de Asesores;
 
-XIV.- Vigilar que se practiquen visitas de evaluación técnico jurídica a los Agentes del Ministerio Público, Agentes de la Policía Ministerial, Peritos y demás servidores públicos de las unidades administrativas de su competencia y se remitan, en su caso, a la Dirección General de Asuntos Internos y Contraloría, las actas administrativas que con motivo de la evaluación se formulen por el incumplimiento de sus funciones encomendadas y previstas en el presente Reglamento, el Manual de Organización y de Procedimientos normativos de la Procuraduría General de Justicia y las demás disposiciones que se emitan;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+XIV.- Vigilar que se practiquen visitas de evaluación técnico jurídica a los Agentes del Ministerio Público, Agentes de la Policía Ministerial, Peritos y demás servidores públicos de las unidades administrativas de su competencia y se remitan, en su caso, a la Dirección de Asuntos Internos y Contraloría, las actas administrativas que con motivo de la evaluación se formulen por el incumplimiento de sus funciones encomendadas y previstas en el presente Reglamento, el Manual de Organización y de Procedimientos normativos de la Procuraduría General de Justicia y las demás disposiciones que se emitan;
 
 XV.- Vigilar que en el ámbito de sus respectivas competencias se de cabal cumplimiento a lo dispuesto en la Ley que establece el Sistema Integral de Justicia para Adolescentes; y
 
@@ -843,7 +851,9 @@ X.- Contribuir al desarrollo de la vocación de servicio, así como al ejercicio
 
 XI.- Participar en la formulación, regulación y desarrollo del Servicio Civil de Carrera de la Procuraduría, en los términos de la Ley, y demás disposiciones aplicables;
 
-XII.- Coordinar el funcionamiento del Comité de Selección y Profesionalización de la Procuraduría General de Justicia, mismo que presidirá el Procurador y que integrarán los Subprocuradores, el Director General de Asuntos Internos y Contraloría, el Director de Averiguaciones Previas, el Coordinador de Asesores y el Director del área respectiva;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+XII.- Coordinar el funcionamiento del Comité de Selección y Profesionalización de la Procuraduría General de Justicia, mismo que presidirá el Procurador y que integrarán los Subprocuradores, el Director de Asuntos Internos y Contraloría, el Director de Averiguaciones Previas, el Coordinador de Asesores y el Director del área respectiva;
 
 XIII.- Promover los reconocimientos y estímulos económicos que deban otorgarse a los servidores públicos de procuración de justicia que se destaquen por su desempeño, formación profesional o grado académico;
 
@@ -1179,71 +1189,127 @@ C. Dirección de Recursos Financieros;
 
 I.- Las establecidas en las fracciones I, IV y IX del artículo 40 este (sic) Reglamento.
 
-### CAPÍTULO II. DIRECCIÓN GENERAL DE ASUNTOS INTERNOS Y CONTRALORÍA
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+### CAPÍTULO II. DIRECCIÓN DE ASUNTOS INTERNOS Y CONTRALORÍA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 42.
 
-La Dirección General de Asuntos Internos y Contraloría, tendrá las siguientes atribuciones:
+La Dirección de Asuntos Internos y Contraloría, tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 I.- Recibir las quejas que por faltas o incumplimiento de las obligaciones de los servidores públicos presenten los particulares, los titulares de las unidades administrativas y demás personal de la Institución;
 
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 II.- Realizar la investigación correspondiente e integrar los expedientes relativos conforme a las normas y procedimientos establecidos por la Constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos, la Ley Orgánica de la Procuraduría General de Justicia del Estado, este Reglamento y las demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 III.- Requerir a los Subprocuradores, Delegados Regionales y Titulares de las Unidades Administrativas la información necesaria para la debida integración de los procedimientos administrativos y el desempeño de sus funciones;
 
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 IV.- Ordenar las medidas cautelares que legalmente proceda aplicar a los servidores públicos en los procedimientos administrativos que se integren con motivo de las irregularidades cometidas en el ejercicio de sus funciones, así como emitir los acuerdos correspondientes, con motivo de la integración de los procedimientos Administrativos;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 V.- Desarrollar y actualizar el sistema de registro de sanciones administrativas impuestas a los servidores públicos de esta Procuraduría, en los términos de la Ley de Responsabilidades de los Servidores Públicos y en coordinación con la Secretaría de Contraloría;
 
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 VI.- Requerir informes a los Subprocuradores, Delegados Regionales y Titulares de las Unidades Administrativas o al Ministerio Público responsable de la integración de las Averiguaciones Previas, relacionadas con los procedimientos administrativos de responsabilidad, así como a los Agentes del Ministerio Público Adscritos a los juzgados de primera instancia, la información relativa con los procesos penales instaurados en contra de servidores públicos de esta Institución;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 VII.- Remitir, previa solicitud, a las dependencias Estatales y Federales competentes, los antecedentes de sanciones administrativas graves que se hayan aplicado a los servidores públicos de esta Procuraduría;
 
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 VIII.- Verificar en coordinación con la Dirección o el Departamento de Recursos Humanos, y el Instituto de Capacitación y Profesionalización, si el personal propuesto para ascender de categoría o el que pretende ingresar a esta Procuraduría ha sido sancionado administrativamente con anterioridad por violaciones a la Ley de Responsabilidades de los Servidores Públicos;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 IX.- Vigilar que los procedimientos que se instauren en contra de cualquier servidor público de la Procuraduría, se desarrollen con el mayor sigilo y la confidencialidad correspondiente;
 
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 X.- Realizar a petición de parte o de manera oficiosa, visitas de inspección y revisión a las distintas unidades orgánicas de la Institución, verificando desde el punto de vista legal, técnico y administrativo que los servidores públicos de la Institución cumplan con las políticas operativas, ordenamientos en vigor y criterios normativos establecidos para mejorar el servicio, informando al Procurador de las observaciones y recomendaciones conducentes, y en su caso, estableciendo las medidas adecuadas para su cumplimiento;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 XI.- Elaborar y actualizar permanentemente el censo de los Servidores públicos para los efectos previstos en la Ley correspondiente;
 
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 XII.- Verificar que se cumplan los procedimientos que establece la normatividad de la Procuraduría, para el otorgamiento de las armas de cargo y patrullas, así como, en su caso, para la devolución de las mismas;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 XIII.- Intervenir en la práctica de los exámenes toxicológicos para detectar el posible abuso o consumo de drogas, que se apliquen a los aspirantes y servidores públicos de la Procuraduría, con el fin de dar fe y hacer constar la realización de los mismos y sus resultados, levantando el acta circunstanciada que sirva de base para sustanciar cualquier procedimiento legal y administrativo que proceda;
 
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+
 XIV.- Contestar las demandas laborales y los juicios contenciosos administrativos en que sea parte la Procuraduría General de Justicia del Estado, así como darle seguimiento hasta su total conclusión;
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 XV.- Proporcionar asesoría en materia laboral a las diversas áreas adscritas a la Procuraduría;
 
-XVI.- Planear, programar, organizar, dirigir y evaluar el funcionamiento de las Subdirecciones y las unidades que le son adscritas; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+XVI.- Planear, programar, organizar, dirigir y evaluar el funcionamiento de las Jefaturas de Departamento y demás personal que conforma la dirección; y
+
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 XVII.- Rendir informe mensualmente al Procurador, de las actividades desarrolladas en la Dirección.
 
-La Dirección General de Asuntos Internos y Contraloría estará a cargo de un Director General, auxiliado en el ejercicio de sus atribuciones por los Subdirectores, Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+La Dirección de Asuntos Internos y Contraloría estará a cargo de un Director, auxiliado en el ejercicio de sus atribuciones por los Jefes de Departamento y demás personal que se requiera para satisfacer las necesidades del servicio.
 
-ARTÍCULO 42 BIS. Compete a las Subdirecciones de la Dirección General de Asuntos Internos y Contraloría, ejercer las siguientes facultades:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-A.- Subdirección de Asuntos Internos:
+ARTÍCULO 42 BIS. Compete a las Jefaturas de Departamento de la Dirección de Asuntos Internos y Contraloría, ejercer las siguientes facultades:
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+A. Jefatura de Departamento de Asuntos Internos:
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 I.- Las establecidas en las fracciones I a la XI y XIII del Artículo 42 de este Reglamento; y
 
-II.- Las demás que por necesidades del servicio le encomiende el Director General de Asuntos Internos y Contraloría.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-B.- Subdirección de Contraloría:
+II.- Las demás que por necesidades del servicio le encomiende el Director de Asuntos Internos y Contraloría.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+B. Jefatura de departamento de Contraloría:
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 I.- Las establecidas en las fracciones X, XI, XII y XIII del Artículo 42 de este Reglamento; y
 
-II.- Las demás que por necesidades del servicio le encomiende el Director General de Asuntos Internos y Contraloría.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-C.- Subdirección de Asuntos Laborales:
+II.- Las demás que por necesidades del servicio le encomiende el Director de Asuntos Internos y Contraloría.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+C. Jefatura de Departamento de Asuntos Laborales y Contencioso:
+
+> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
 
 I.- Las establecidas en las fracciones XIV y XV del Artículo 42 de este Reglamento; y
 
-II.- Las demás que por necesidades del servido le encomiende el Director Generar de Asuntos Internos y Contraloría.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+II.- Las demás que por necesidades del servicio le encomiende el Director de Asuntos Internos y Contraloría.
 
 ### CAPÍTULO IV (SIC). DIRECCIÓN GENERAL DE INFORMÁTICA Y ESTADÍSTICA
 
@@ -1315,9 +1381,13 @@ XIII.- Otorgar audiencia pública a la ciudadanía, para atender las peticiones 
 
 XIV.- Coordinar la logística de las visitas y audiencias públicas que realice el Procurador en los municipios de su circunscripción territorial;
 
-XV.- Recibir las quejas por faltas o incumplimiento de las obligaciones de los servidores públicos de su adscripción presentadas por los ciudadanos, dándole vista a la Dirección General de Asuntos Internos y Contraloría para la debida substanciación del procedimiento;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-XVI.- Solicitar la Intervención de la Dirección General de Asuntos Internos y Contraloría, cuando detecte probables irregularidades de los servidores públicos de su adscripción;
+XV. Recibir las quejas por faltas o incumplimiento de las obligaciones de los servidores públicos de su adscripción presentadas por los ciudadanos, dándole vista a la Dirección de Asuntos Internos y Contraloría para la debida substanciación del procedimiento;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+XVI. Solicitar la Intervención de la Dirección de Asuntos Internos y Contraloría, cuando detecte probables irregularidades de los servidores públicos de su adscripción;
 
 XVII.- Proponer al Procurador las acciones y mecanismos de coordinación con otras instituciones públicas o privadas que coadyuven a la procuración de justicia en el ámbito de su circunscripción territorial;
 
@@ -1403,7 +1473,9 @@ I.- Un Presidente, que será el Procurador y, en caso de ausencia, por el Subpro
 
 II.- Un Secretario Técnico, cuyo titular será el Director de Vinculación y Participación Ciudadana;
 
-III.- Los Subprocuradores, los Directores Generales de Prevención del Delito y Servicios a la Comunidad, Asuntos Internos y Contraloría, así como los Directores de Derechos Humanos y Atención a Víctimas Vulnerables;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+III. Los Subprocuradores, el Director General de Prevención del Delito y Servicios a la Comunidad, así como los Directores de Asuntos Internos y Contraloría, de Derechos Humanos y de Atención a Víctimas Vulnerables; y
 
 IV.- Los representantes del sector social y privado que invite el Procurador.
 
@@ -1528,3 +1600,9 @@ P.O. 27 DE SEPTIEMBRE DE 2008.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Los asuntos materia de la competencia de la Subprocuraduría de Eventos de Impacto Social, cuya investigación se haya iniciado previamente a su creación, serán atraídos por ésta para que continúe el trámite correspondiente hasta su conclusión.
+
+P.O. 6 DE NOVIEMBRE DE 2010.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Todos aquellos asuntos que se encuentren en trámite o pendientes de resolver por la Dirección General de Asuntos Internos y Contraloría, a partir de la entrada en vigor del presente Acuerdo serán atendidos y resueltos por la Dirección de Asuntos Internos y Contraloría.
