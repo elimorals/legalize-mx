@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2009-11-12"
+last_updated: "2010-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2010.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -811,7 +811,9 @@ VIII.- Aprobar las leyes que regulen su organización y funcionamiento internos;
 
 IX.- Dictar todas las leyes que sean necesarias para hacer efectivas las atribuciones que esta Constitución otorga a los Poderes del Estado;
 
-X.- Elaborar su respectivo presupuesto de egresos, remitiéndolo al Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; asimismo administrarlo y ejercerlo en forma autónoma, en los términos que disponga su Ley Orgánica;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+X.- Elaborar su respectivo presupuesto de egresos; el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, para remitirlo al Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; asimismo, administrarlo y ejercerlo en forma autónoma, en los términos que disponga su Ley Orgánica;
 
 XI.- Fijar los ingresos y egresos del Estado con base en los presupuestos anuales que el Ejecutivo deberá presentar;
 
@@ -1149,7 +1151,9 @@ V.- Presentar ante el Congreso del Estado, durante la segunda quincena de septie
 
 VI.- Rendir al Congreso del Estado, en forma trimestral y por escrito, a más tardar el día quince del mes siguiente al periodo de que se trate, un estado de información financiera que refleje la situación que guarda la hacienda pública del Estado y, en forma anual, su cuenta pública, la que presentará a más tardar el último día de febrero del año siguiente al que corresponda su ejercicio;
 
-VII.- Presentar a la Legislatura del Estado, a más tardar el día quince de noviembre de cada año, las correspondientes iniciativas de Leyes de Ingresos y del Presupuesto de Egresos para el siguiente año;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+VII.- Presentar al Congreso del Estado, a más tardar el día quince de noviembre de cada año, las correspondientes iniciativas de leyes de, Ingresos, y del Presupuesto de Egresos, para el siguiente año el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de los poderes, Ejecutivo, Legislativo, y Judicial, así como de los organismos constitucionalmente autónomos;
 
 VIII.- Concurrir al Congreso, cuando éste se lo solicite, a informar sobre alguna iniciativa o a responder a las observaciones que los Diputados le presenten sobre actos de gobierno u otros asuntos de su competencia; o autorizar, en su caso, a algún funcionario del mismo para dichos efectos;
 
@@ -1385,7 +1389,9 @@ XIII. Las demás que le confiera la ley.
 
 El Poder Judicial ejercerá autónomamente su presupuesto, a través del Consejo de la Judicatura.
 
-El presupuesto será formulado por el Consejo de la Judicatura con la aprobación del Supremo Tribunal de Justicia, y será remitido al Ejecutivo para su inclusión en la Iniciativa del Presupuesto de Egresos del Estado, a fin de que sea sometido a consideración del Congreso del Estado.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+El presupuesto será formulado por el Consejo de la Judicatura, con la aprobación del Supremo Tribunal de Justicia; el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, y será remitido al Ejecutivo para su inclusión en la Iniciativa del Presupuesto de Egresos del Estado, a fin de que sea sometido a consideración del Congreso del Estado.
 
 El Consejo de la Judicatura será responsable de rendir al Congreso un informe trimestral del estado financiero y anualmente la Cuenta Pública del Poder Judicial del Estado.
 
@@ -1719,9 +1725,9 @@ Las leyes locales no establecerán exenciones o subsidios respecto a los ingreso
 
 Los ayuntamientos en el ámbito de su competencia, propondrán a la Legislatura del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-El Congreso del Estado aprobará las leyes de ingresos de los municipios a más tardar el quince de diciembre de cada año, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
+El Congreso del Estado aprobará las leyes de ingresos de los municipios, a más tardar el quince de diciembre de cada año; revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que percibirán los servidores públicos municipales, sujetándose a lo dispuesto por el artículo 133 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2000)</small>
 
@@ -2059,11 +2065,27 @@ Los servidores públicos deberán atender de tiempo completo las funciones de su
 
 Los funcionarios de elección popular que, sin causa justificada o sin la correspondiente licencia, faltaren al desempeño de sus funciones, quedan privados de los derechos de ciudadano y de todo empleo público, por el tiempo que dure su comisión.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 133.
 
-Todo funcionario y empleado público recibirá una remuneración por sus servicios, que será determinada por las leyes. Tratándose de los Jueces Auxiliares y los integrantes del Consejo Estatal Electoral, serán o no retribuidos en los términos que la ley prevenga. Esta remuneración no es renunciable. Ningún funcionario o empleado percibirá la remuneración correspondiente si no es por el efectivo desempeño de su encargo, exceptuando los casos de enfermedad o incapacidad.
+Los servidores públicos del Estado, de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales, intermunicipales, y paramunicipales, fideicomisos públicos, instituciones de organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+Los salarios de los servidores públicos serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de la Constitución General de la República, y en las leyes aplicables en el Estado.
+
+Dicha remuneración será determinada anual y equitativamente, en los presupuestos de egresos correspondientes, sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de la Constitución General de la República, en las leyes aplicables en el Estado, y bajo las siguientes bases:
+
+I.- Se considera remuneración o retribución, toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra; con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo, y los gastos de viaje en actividades oficiales;
+
+II.- Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente;
+
+III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función; la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el gobernador del Estado, en el presupuesto correspondiente;
+
+IV.- No se concederán, ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo, o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado;
+
+V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo, como en especie, y
+
+VI.- La Legislatura del Estado expedirá las leyes para sancionar penal y administrativamente, las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2576,3 +2598,11 @@ TERCERO. La revisión de las cuentas públicas conforme a las disposiciones de e
 CUARTO. El actual Auditor Superior del Estado desempeñará su encargo por un periodo de siete años, contados a partir de la entrada en vigor de su designación contenida en el Decreto Legislativo número 98, publicado en el Periódico Oficial del Estado el 20 de febrero de 2007.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, en los términos que señala el artículo 138 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año dos mil once.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
