@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-obras-publicas-para-el-estado-y-municipios-de-nuevo-1104
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-22"
-last_updated: "2010-05-20"
+last_updated: "2010-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE OBRAS PUBLICAS PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de octubre de 1997.
 
@@ -53,7 +53,9 @@ En todo lo no previsto por esta ley, será aplicable la Ley de Administración F
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I.- Contraloría: La Secretaría de la Contraloría General del Estado, y en el ámbito municipal, el órgano de control interno o el Síndico que corresponda conforme a la Ley Orgánica de la Administración Pública Municipal;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+I.- Contraloría: La Contraloría y Transparencia Gubernamental, y en el ámbito municipal, el órgano de control interno o el Síndico que corresponda conforme a la Ley Orgánica de la Administración Pública Municipal;
 
 II.- Contratista: La persona física o moral que celebre contratos con las dependencias y entidades para la ejecución de obras públicas y prestación de servicios relacionados con las mismas;
 
@@ -65,13 +67,15 @@ V.- Secretaría: La Secretaría de Finanzas y Tesorería General del Estado y la
 
 VI.- Sector: El agrupamiento definido de entidades que, en cumplimiento a las disposiciones legales aplicables, se realice a través de la dependencia que en su caso designe el Ejecutivo Estatal o el Ayuntamiento, según corresponda, como coordinadora del sector respectivo;
 
-VII.- SEDUOP.- La Secretaría de Desarrollo Urbano y Obras públicas del Estado;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+VII.- SOP.- La Secretaría de Obras Públicas del Estado; y
 
 VIII.- Tratados: Los definidos como tales por la fracción I del Artículo 2º de la Ley Sobre Celebración de Tratados.
 
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-Cuando la ejecución de la obra esté a cargo de un Municipio, toda referencia en esta Ley al Titular del Ejecutivo del Estado, la SEDUOP, a la Secretaría de Finanzas y Tesorería General del Estado y a la Secretaría de la Contraloría, se entenderá hecha para el órgano equivalente del Municipio correspondiente.
+Cuando la ejecución de la obra esté a cargo de un Municipio, toda referencia en esta Ley al Titular del Ejecutivo del Estado, la SOP, a la Secretaría de Finanzas y Tesorería General del Estado y a la Contraloría, se entenderá hecha para el órgano equivalente del Municipio correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
@@ -115,9 +119,11 @@ La vigilancia del cumplimiento de los preceptos contenidos en este ordenamiento 
 
 Cuando la obra pública y sus servicios relacionados, se ejecute total o parcialmente con recursos financieros provenientes del presupuesto público del Gobierno Federal, conforme a los convenios que celebre el Estado con la Federación y, en su caso con los Municipios, se aplicará la legislación federal de la materia y los términos de los convenios.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 5o.
 
-El ejercicio de las atribuciones del Estado y los Municipios en materia de obra pública se considera de interés y utilidad pública, en los términos de la Ley de Expropiación por Causa de Utilidad Pública, la Ley de desarrollo Urbano, la ley del Equilibrio Ecológico y la Protección al Ambiente del Estado y demás legislación vigente en la Entidad.
+El ejercicio de las atribuciones del Estado y los Municipios en materia de obra pública se considera de interés y utilidad pública, en los términos de la Ley de Expropiación por Causa de Utilidad Pública, la Ley de Desarrollo Urbano del Estado de Nuevo León, la Ley Ambiental del Estado de Nuevo León y demás legislación vigente en la Entidad.
 
 ###### Artículo 6o.
 
@@ -147,7 +153,9 @@ V.- Contratación de acuerdo a los lineamientos derivados de créditos otorgados
 
 Las atribuciones que en materia de obra pública corresponde ejercer al Gobierno del Estado, sin menoscabo de las que le otorgan otras disposiciones legales, son las siguientes:
 
-I.- A la SEDUOP, como Coordinadora del Sector de Obras Públicas: La administración de las etapas que comprende la obra pública y su ejecución en cualquiera de las modalidades previstas en el Artículo 7o. de esta Ley, cuando ésta se encuentre a cargo del Estado;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+I.- A la SOP, como Coordinadora del Sector de Obras Públicas: La administración de las etapas que comprende la obra pública y su ejecución en cualquiera de las modalidades previstas en el Artículo 7o. de esta Ley, cuando ésta se encuentre a cargo del Estado;
 
 II.- A la Secretaría: La correcta administración y uso de los recursos financieros afectos a la obra pública cuya ejecución está a cargo del Gobierno del Estado, y promover al efecto la aplicación de los mecanismos y procedimientos conducentes;
 
@@ -165,11 +173,15 @@ Las atribuciones a cargo del Gobierno del Estado serán ejercidas, sin perjuicio
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Desarrollo Urbano y Obras Públicas del Estado;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+II.- El Secretario de Obras Públicas del Estado;
 
 III.- El Secretario de Finanzas y Tesorero General del Estado; y
 
-IV.- El Secretario de la Contraloría General del Estado.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+IV.- El Contralor General del Estado.
 
 Los titulares de las dependencias a que se refiere este Artículo podrán delegar cualquiera de sus facultades, en los términos dispuestos por la Ley Orgánica de la Administración Pública para el Estado de Nuevo León.
 
@@ -177,9 +189,11 @@ Los titulares de las dependencias a que se refiere este Artículo podrán delega
 
 El ejercicio de las atribuciones que esta Ley confiere a los Municipios se efectuará conforme a sus preceptos y acatando lo dispuesto en la Ley Orgánica de la Administración Pública Municipal del Estado y en los Reglamentos que cada Ayuntamiento expida. Para tal efecto, los Municipios podrán celebrar convenios de apoyo técnico con el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 12.
 
-La Secretaría, la Contraloría, la SEDUOP y los Municipios, en el ámbito de sus respectivas competencias, podrán contratar asesoría técnica para la realización de investigaciones de mercado; el mejoramiento del sistema de obra pública y servicios relacionados con la misma; la verificación de precios, pruebas de calidad, y otras actividades vinculadas con el objeto de esta Ley. La contratación de la asesoría técnica se sujetará a los procedimientos de adjudicación previstos en este ordenamiento.
+La Secretaría, la Contraloría, la SOP y los Municipios, en el ámbito de sus respectivas competencias, podrán contratar asesoría técnica para la realización de investigaciones de mercado; el mejoramiento del sistema de obra pública y servicios relacionados con la misma; la verificación de precios, pruebas de calidad, y otras actividades vinculadas con el objeto de esta Ley. La contratación de la asesoría técnica se sujetará a los procedimientos de adjudicación previstos en este ordenamiento.
 
 La información que cada una de las dependencias y entidades obtenga con motivo de la asesoría contratada, se pondrá a disposición de las demás dependencias y entidades que la requieran.
 
@@ -209,15 +223,19 @@ Los actos, contratos y convenios que se realicen en contravención a lo dispuest
 
 El gasto que se efectúe con motivo de las acciones y materias reguladas por esta Ley se sujetará, en su caso, a las disposiciones específicas de la Ley de Egresos del Estado, de los Presupuestos de Egresos de los Municipios, de la Ley de Administración Financiera para el Estado y demás disposiciones legales en la materia.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 17.
 
-Para el adecuado cumplimiento de esta Ley, y en relación con los procedimientos que la misma regula, la SEDUOP, la Secretaría y la Contraloría podrán emitir en forma conjunta disposiciones de carácter administrativo que establezcan los métodos o medios de comunicación electrónicos o de informática que se podrán utilizar para la realización de trámites, envío de información o notificación de acuerdos o resoluciones.
+Para el adecuado cumplimiento de esta Ley, y en relación con los procedimientos que la misma regula, la SOP, la Secretaría y la Contraloría podrán emitir en forma conjunta disposiciones de carácter administrativo que establezcan los métodos o medios de comunicación electrónicos o de informática que se podrán utilizar para la realización de trámites, envío de información o notificación de acuerdos o resoluciones.
 
-## TITULO SEGUNDO. De la Planeación, Programación y Presupuestación
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-### Capítulo Unico
+## TITULO SEGUNDO. De la Planeación, Programación, Presupuestación y del Registro Estatal de Contratistas
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+### Capítulo Primero. De la Planeación, Programación y Presupuestación
 
 ###### Artículo 18.
 
@@ -227,7 +245,9 @@ En la planeación, programación y presupuestación de la obra pública, las dep
 
 I.- Los objetivos, prioridades y políticas señaladas en los pactos, planes y programas estatales y municipales de desarrollo tomando en consideración la observancia de las normas y lineamientos que de esta Ley se deriven;
 
-II.- La disponibilidad de áreas y predios para la obra pública, previa consulta con la SEDUOP y, en su caso, con las dependencias competentes que designen los Ayuntamientos, para que éstas, en el ejercicio de sus atribuciones, determinen su conveniencia y viabilidad conforme a lo dispuesto en las leyes de la materia;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+II.- La disponibilidad de áreas y predios para la obra pública, previa consulta con la SOP y, en su caso, con las dependencias competentes que designen los Ayuntamientos, para que éstas, en el ejercicio de sus atribuciones, determinen su conveniencia y viabilidad conforme a lo dispuesto en las leyes de la materia;
 
 III.- La instrumentación de las medidas que aseguren la mayor eficacia en el ejercicio del gasto y la transparencia de su manejo, procurando que sea suficiente y se aplique a los proyectos estratégicos y prioritarios que permitan cumplir los objetivos y alcanzar las metas señaladas en los pactos, planes y programas de desarrollo estatales y municipales;
 
@@ -267,9 +287,11 @@ XIII.- Las dependencias y entidades, al presupuestar cada obra pública o servic
 
 XIV.- Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de la obra.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 20.
 
-Las dependencias y entidades estarán obligadas a prever los efectos que sobre el medio ambiente pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental previstos por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieren deteriorarse, y se dará la intervención que corresponda a la SEDUOP y a las entidades y dependencias federales y municipales competentes, para la emisión de los dictámenes respectivos. Las autoridades estatales y municipales competentes tendrán un plazo de veinte días hábiles contados a partir de la fecha de su notificación, para emitir los dictámenes contemplados en este Artículo.
+Las dependencias y entidades estarán obligadas a prever los efectos que sobre el medio ambiente pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental previstos en la Ley Ambiental del Estado. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieren deteriorarse, y se dará la intervención que corresponda a la SOP y a las entidades y dependencias federales y municipales competentes, para la emisión de los dictámenes respectivos. Las autoridades estatales y municipales competentes tendrán un plazo de veinte días hábiles contados a partir de la fecha de su notificación, para emitir los dictámenes contemplados en este Artículo.
 
 ###### Artículo 21.
 
@@ -283,17 +305,81 @@ En caso de que la contratación sea procedente, se estará a lo dispuesto en el 
 
 Las entidades que sean apoyadas presupuestalmente o que reciban transferencias de recursos estatales o municipales, remitirán sus programas y presupuestos de obra pública a la dependencia coordinadora de sector en las fechas que ésta señale. Las dependencias coordinadoras de sector y, en su caso, las entidades que no se encuentren agrupadas en sector alguno, enviarán a la Secretaría, en la fecha que ésta determine, los programas y presupuestos mencionados para su examen, aprobación e inclusión, en lo conducente, en el proyecto de Ley de Egresos del Estado y Presupuesto de Egresos de los Municipios, respectivamente.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
-La SEDUOP estará encargada de planear, proyectar, programar, presupuestar, ejecutar, conservar, modificar, dirigir, coordinar, evaluar y controlar la obra pública de las dependencias de la Administración Pública Centralizada, y de coadyuvar con la emisión de las bases para las entidades que integran la Administración Pública Paraestatal. Asimismo, expedirá las bases a que deberán ajustarse las licitaciones de la obra pública.
+La SOP estará encargada de planear, proyectar, programar, presupuestar, ejecutar, conservar, modificar, dirigir, coordinar, evaluar y controlar la obra pública de las dependencias de la Administración Pública Centralizada, y de coadyuvar con la emisión de las bases para las entidades que integran la Administración Pública Paraestatal. Asimismo, expedirá las bases a que deberán ajustarse las licitaciones de la obra pública.
 
-### Capítulo I. Generalidades
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+### Capitulo Segundo. Del Registro Estatal de Contratistas de Obras Públicas
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 23 BIS.- La información del registro estatal de contratistas de obras públicas tiene como propósito, entre otros, facilitar los procedimientos de contratación de las dependencias y entidades de la administración pública estatal, y en su caso de los Municipios, sin perjuicio de la presentación de los documentos que se requieran en cualquier procedimiento de licitación o contratación, en términos de la presente Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 23 BIS 1.- El registro estatal de contratistas de obras públicas se integrará con la información que proporcionen los contratistas, así como con aquélla que incorporen los sujetos a que se refiere el párrafo primero del Artículo 1° de esta Ley, derivada de los procedimientos de contratación que lleven a cabo conforme a esta Ley.
+
+Los contratistas solicitarán su inscripción en el registro estatal de contratistas de obras públicas a la SOP, la cual, previa validación de la información presentada por el contratista a través de la documentación respectiva que proporcione, llevará a cabo la inscripción correspondiente; asimismo, la Contraloría remitirá a la SOP la información con la que cuente y que sea materia de dicho registro, valorando ésta última la inclusión dentro del mismo.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 23 BIS 2.- El registro deberá ser actualizado permanente y estar a disposición de cualquier interesado, salvo en aquellos casos que se trate de información de naturaleza reservada, en los términos establecidos en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+El registro tendrá únicamente efectos declarativos respecto de la inscripción de contratistas, sin que dé lugar a efectos constitutivos de derechos u obligaciones.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 23 BIS 3.- El registro de contratistas clasificará la información de los contratistas de acuerdo con su actividad; datos generales; nacionalidad; experiencia; especialidad; capacidad técnica, económica y financiera, e historial respecto de contratos celebrados con las dependencias y entidades de la administración pública estatal, y en su caso, los Municipios.
+
+El citado registro será diseñado y administrado por la SOP y contendrá cuando menos los siguientes datos de los contratistas:
+
+I.- Nombre o razón social y nacionalidad;
+
+II.- Domicilio para oír y recibir notificaciones en el Estado;
+
+III.- Escritura constitutiva, sus modificaciones, y datos de su inscripción en el Registro Público de la Propiedad y del Comercio;
+
+IV.- Relación de Accionistas y nombre de sus representantes legales, así como la información relativa a los documentos que los acrediten como tales y sus datos de inscripción en el Registro Público de la Propiedad y del Comercio;
+
+V.- Especialidad de la contratista y la información relativa a los contratos de obras o servicios que lo acrediten, actualizado de forma semestral;
+
+VI.- Experiencia acreditada con contratos de obras públicas o servicios relacionados con las mismas concluidos en tiempo y monto;
+
+VII.- Información referente a la capacidad técnica, económica y financiera; los recursos económicos se deberán comprobar con la última declaración anual formulada ante la Secretaría de Hacienda y Crédito Público y con el balance correspondiente, que comprenda hasta 60 días naturales anteriores a la fecha de solicitud de concurso, y los recursos financieros a su vez se acreditarán con la presentación de estados financieros auditados;
+
+VIII.- Inventario de maquinaria y equipo disponibles;
+
+IX.- Cédula profesional del responsable técnico y currículum de su experiencia, afín a la especialidad del registro;
+
+X.- Constancia del Registro Federal de Contribuyentes;
+
+XI.- Constancia de registro patronal ante el Instituto Mexicano del Seguro Social; y
+
+XII.- Constancia de registro ante el Instituto de Fondo Nacional de la Vivienda para los Trabajadores.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 23 BIS 4.- La SOP, como responsable de la administración del registro estatal de contratistas, tendrá las siguientes funciones:
+
+I.- Proporcionar a las dependencias y entidades estatales las claves y contraseñas de acceso para validar o consultar la información en el registro;
+
+II.- Administrar la información contenida en el registro;
+
+III.- Atender las solicitudes y consultas relacionadas con el registro; y
+
+IV.- Definir estándares y procedimientos de calidad y seguridad de la información contenida en el registro, que garanticen su inalterabilidad y conservación.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 23 BIS 5.- Para el caso de obras que estén a cargo de los Municipios, éstos podrán llevar su propio registro, observando las disposiciones conducentes de este capítulo o bien regirse por el de la SOP, previo convenio que al efecto se suscriba entre ambas entidades.
 
 ## TITULO TERCERO. De los Procedimientos, Contratos y Ejecución de la Obra Pública
 
-### Capítulo II. De los Procedimientos y los Contratos de Obra Pública
+### Capítulo I. Generalidades
 
 ###### Artículo 24.
 
@@ -349,9 +435,15 @@ Las convocatorias, que podrán referirse a una o más obras o servicios, se publ
 
 I.- El nombre, denominación o razón social de la dependencia o entidad convocante;
 
-II.- El origen de los recursos;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+II.- El origen de los recursos para realizar los trabajos;
 
 III.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando el documento que contenga las bases implique un costo, éste será fijado en razón de la recuperación de las erogaciones por publicación de la convocatoria y de los documentos que se entreguen a los interesados, quienes podrán revisar tales documentos previamente al pago de dicho costo, el cual será requisito para participar en la licitación;
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Asimismo, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que establezca la dependencia o entidad convocante;
 
 IV.- la fecha, hora y lugar de celebración del acto de presentación y apertura de proposiciones;
 
@@ -361,9 +453,9 @@ VI.- La indicación de si la licitación es estatal o municipal, nacional o inte
 
 VII.- Las fechas límite para la adquisición de las bases y de la inscripción en la licitación; esta última no podrá ser menor de siete días hábiles contados a partir de la fecha de la publicación de la convocatoria;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-VIII.- Los requisitos que deben cumplir los interesados para la inscripción: acta constitutiva, sus modificaciones y poderes que deban presentarse; en su caso, registro actualizado de la Cámara que le corresponda; declaración escrita y bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos señalados en el Artículo 44 de esta Ley; además de su cédula de identificación fiscal;
+VIII.- Los requisitos que deben cumplir los interesados para la inscripción: acta constitutiva, sus modificaciones y poderes que deban presentarse; declaración escrita y bajo protesta de decir verdad, de no encontrarse en alguno de los supuestos señalados en el Artículo 44 de esta Ley; además de su cédula de identificación fiscal;
 
 IX.- La información sobre los porcentajes a otorgar por concepto de anticipos;
 
@@ -373,11 +465,35 @@ XI.- La descripción general de la obra y el lugar en donde se llevarán a cabo 
 
 XII.- fecha estimada de inicio y terminación de los trabajos;
 
-XIII.- La experiencia o capacidad técnica de la empresa y de los profesionistas responsables de la obra que se requiera para participar en la licitación de acuerdo con las características de la obra, y demás requisitos generales que deberán cumplir los interesados, y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-XIV.- (DEROGADA, P.O. 17 DE ABRIL DE 1998)
+XIII.- La experiencia o capacidad técnica de la empresa y de los profesionistas responsables de la obra que se requiera para participar en la licitación de acuerdo con las características de la obra;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+XIV.- La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes, podrá ser negociada;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+XV.- La indicación de que cualquier persona podrá asistir a los diferentes actos de la licitación en calidad de observador, sin necesidad de adquirir las bases, registrando previamente su participación; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+XVI.- La determinación, en su caso, del porcentaje de contenido nacional.
 
 Cuando la publicación de una convocatoria no se efectúe simultáneamente en el Periódico Oficial y en alguno de los diarios de mayor circulación en el Estado, el cómputo de los plazos se realizará de acuerdo a la fecha de la última publicación.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Tratándose de convocatorias realizadas por dependencias y entidades de la administración pública estatal, no será necesario presentar la información a que se refieren las fracciones VIII y XIII de este Artículo cuando el licitante se encuentre previamente inscrito en el Registro Estatal de Contratistas de Obras Públicas, bastando únicamente exhibir la constancia o citar el número de su inscripción y manifestar bajo protesta de decir verdad que en el citado registro la información se encuentra completa y actualizada.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Lo dispuesto en el párrafo anterior también será aplicable a convocatorias formuladas por los Municipios, únicamente cuando éstos hayan convenido con la SOP la utilización del registro estatal de contratistas de obras públicas o bien cuando cuenten con un registro de contratistas propio.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+En ningún caso se podrá impedir participar en una convocatoria a quienes no se encuentren inscritos en el registro estatal de contratistas de obras públicas, o en su caso el registro municipal, por lo que los licitantes interesados podrán presentar sus proposiciones directamente en el acto de presentación y apertura de las mismas.
 
 ###### Artículo 32.
 
@@ -445,15 +561,25 @@ Todo interesado que satisfaga los requisitos de la convocatoria y las bases de l
 
 El plazo para la presentación y apertura de proposiciones no podrá ser inferior a veinte días naturales contados a partir de la fecha de publicación de la convocatoria, salvo que, por razones de urgencia justificada, no pueda observarse dicho plazo, en cuyo caso éste no podrá ser menor a diez días hábiles contados a partir de la fecha de publicación de la convocatoria; siempre que ello no tenga por objeto limitar el número de participantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 37.
 
-Las dependencias y entidades podrán modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de licitación, cuando menos con siete días naturales de anticipación a la fecha señalada para la presentación y apertura de proposiciones, siempre que:
+Las dependencias y entidades, siempre que ello no tenga por objeto limitar el número de licitantes, podrán modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de licitación, a partir de la fecha en que sea publicada la convocatoria y hasta, inclusive, el sexto día natural previo a la fecha señalada para la presentación y apertura de proposiciones, siempre que:
 
 I.- Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación; y
 
 II.- En el caso de las bases de la licitación, se notificará personalmente a los interesados por escrito de las modificaciones, debiendo dar aviso de dichas modificaciones a la Contraloría;
 
 No será necesario dar el aviso a que se refiere esta fracción, cuando las modificaciones deriven de las juntas de aclaraciones, siempre que, a más tardar en el plazo señalado en este Artículo, se entregue copia del acta respectiva a cada uno de los participantes que hayan adquirido las bases de la correspondiente licitación, con acuse de recibo.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+En las juntas de aclaraciones, las convocantes resolverán en forma clara y precisa las dudas o cuestionamientos que sobre las bases de licitación les formulen los interesados, debiendo constar todo ello en el acta que para tal efecto se levante.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Cualquier modificación a las bases de la licitación, derivada del resultado de la o las juntas de aclaraciones, será considerada como parte integrante de la convocatoria o las bases de la licitación.
 
 Las modificaciones de que trata este Artículo no podrán consistir en la sustitución o variación sustancial de las obras o servicios convocados originalmente, o bien, en la adición de otros distintos.
 
@@ -523,7 +649,9 @@ II.- Las Tesorerías de los Municipios, por actos o contratos que se celebren co
 
 Las dependencias y entidades podrán rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del contratista.
 
-Asimismo, las dependencias y entidades podrán, en todo tiempo, dar por terminados anticipadamente los contratos cuando concurran razones de interés general, previa anuencia de la SEDUOP o la Autoridad Municipal, según corresponda.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Asimismo, las dependencias y entidades podrán, en todo tiempo, dar por terminados anticipadamente los contratos cuando concurran razones de interés general, previa anuencia de la SOP o la Autoridad Municipal, según corresponda.
 
 ###### Artículo 44.
 
@@ -545,11 +673,15 @@ VII.- Las que, en virtud de la información con que cuente la Contraloría, haya
 
 VIII.- Aquéllas a las que se les declare en estado de quiebra o, en su caso, sujetas a concurso de acreedores;
 
-IX.- Las que realicen o vayan a realizar por sí o a través de empresas que formen parte del mismo grupo empresarial, trabajos de coordinación, supervisión y control de obra e instalaciones, laboratorio de análisis y control de calidad, laboratorio de mecánica de suelos y de resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o la elaboración de cualquier otro documento para la licitación de la adjudicación del contrato de la misma obra;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+IX.- Las que hayan realizado, realicen o vayan a realizar por sí o a través de empresas que formen parte del mismo grupo empresarial, trabajos de coordinación, supervisión y control de obra e instalaciones, laboratorio de análisis y control de calidad, laboratorio de mecánica de suelos y de resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o la elaboración de cualquier otro documento para la licitación de la adjudicación del contrato de la misma obra;
 
 X.- Las que por sí o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y la dependencia o entidad; y
 
-XI.- Las que se les declare legalmente incapacitadas para contratar por disposición de ley.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+XI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
 
 En cualquier caso, la dependencia o entidad deberá informar por escrito al interesado los motivos por los cuales se abstiene de recibir su propuesta.
 
@@ -565,7 +697,7 @@ Las dependencias y entidades informarán y, en su caso, remitirán la documentac
 
 En los procedimientos para la contratación de obra pública, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la utilización de los bienes o servicios de procedencia nacional y los propios de la región.
 
-### CAPITULO III. De las Obras por Administración Directa
+### Capítulo II. De los Procedimientos y los Contratos de Obra Pública
 
 ###### Artículo 47.
 
@@ -685,9 +817,13 @@ IV.- Que el cargo por utilidad sea fijado por el contratista mediante un porcent
 
 Las proposiciones que satisfagan lo señalado en el Artículo anterior serán calificadas como solventes y serán objeto del análisis comparativo.
 
-Si resultare que dos o más proposiciones son solventes y, por tanto, satisfacen la totalidad de los requerimientos de la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo. El titular de la dependencia o entidad convocante o el servidor público a quien se delegue esa facultad emitirá un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las proposiciones admitidas, y se hará mención de las proposiciones desechadas. Dicho dictamen deberá contar con la opinión del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública o el órgano municipal competente. Los titulares de las dependencias y entidades convocantes serán responsables del fallo correspondiente.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-Se declarará desierta la licitación si todas las propuestas presentadas fueren desechadas o si hay ausencia de propuestas. Podrá adjudicarse con una sola propuesta si ésta se dictamina como solvente.
+Si resultare que dos o más proposiciones son solventes y, por tanto, satisfacen la totalidad de los requerimientos de la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo. El titular de la dependencia o entidad convocante o el servidor público a quien se delegue esa facultad emitirá un dictamen que servirá como fundamento para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones admitidas y la fundamentación y motivación por las que las proposiciones que no se admitieron, fueron desechadas. Dicho dictamen deberá contar con la opinión del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública o el órgano municipal competente. Los titulares de las dependencias y entidades convocantes serán responsables del fallo correspondiente.
+
+> <small>(REFORMADO, P.O. 06 DE NOVIEMBRE DE 2010)</small>
+
+Se declarará desierta la licitación si todas las propuestas presentadas fueren desechadas o si hay ausencia de propuestas, en cuyo caso se podrá expedir una nueva convocatoria. Podrá adjudicarse con una sola propuesta si ésta se dictamina como solvente.
 
 ###### Artículo 59.
 
@@ -939,7 +1075,7 @@ Con una anticipación no menor de cinco días hábiles a la fecha en que se leva
 
 La recepción de las obras corresponde a la dependencia o entidad contratante y se hará bajo su exclusiva responsabilidad. En la fecha señalada se levantará el acta con o sin la comparecencia de los representantes a que se refiere el párrafo anterior.
 
-### CAPITULO IV. De los Servicios Relacionados con la Obra Pública
+### CAPITULO III. De las Obras por Administración Directa
 
 ###### Artículo 82.
 
@@ -955,11 +1091,11 @@ III.- Utilizar los servicios de fletes y acarreos complementarios que se requier
 
 En la ejecución de obra por administración directa no podrán participar terceros como contratistas, independientemente de las modalidades que éstos adopten.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 84.
 
-Los órganos internos de control de las dependencias y entidades, previamente a la ejecución de las obras por administración directa, deberán emitir acuerdo en el cual se haga constar que se cuenta con los programas de ejecución, de utilización de recursos humanos y de utilización de maquinaria y equipo de construcción, los proyectos y planos, especificaciones de construcción, programa de suministro de materiales y el presupuesto correspondiente. También formará parte del acuerdo la descripción pormenorizada de los trabajos que se efectuarán y la fecha de inicio y término de los mismos, debiendo informarlo a la SEDUOP, en un plazo no mayor de siete días hábiles posteriores al inicio de los trabajos.
+Los órganos internos de control de las dependencias y entidades, previamente a la ejecución de las obras por administración directa, deberán emitir acuerdo en el cual se haga constar que se cuenta con los programas de ejecución, de utilización de recursos humanos y de utilización de maquinaria y equipo de construcción, los proyectos y planos, especificaciones de construcción, programa de suministro de materiales y el presupuesto correspondiente. También formará parte del acuerdo la descripción pormenorizada de los trabajos que se efectuarán y la fecha de inicio y término de los mismos, debiendo informarlo a la SOP, en un plazo no mayor de siete días hábiles posteriores al inicio de los trabajos.
 
 ###### Artículo 85.
 
@@ -995,7 +1131,7 @@ En la ejecución de obras por administración directa serán aplicables, en lo c
 
 Los órganos de control interno de las dependencias y entidades verificarán que se dé estricto cumplimiento a la realización de las acciones señaladas para las obras por administración directa.
 
-### Capítulo V. De las Excepciones a la Licitación Pública
+### CAPITULO IV. De los Servicios Relacionados con la Obra Pública
 
 ###### Artículo 88.
 
@@ -1039,19 +1175,15 @@ VI.- La metodología que se aplicará y las fuentes de información a que se rec
 
 Las dependencias y entidades que realicen obra pública por administración directa observarán, en su caso, las disposiciones que en materia de construcción rijan en el ámbito estatal o municipal.
 
-### Capítulo VI. Actuaciones para las Obras con Aplicación del
-
-Impuesto sobre Aumento de Valor y Mejoría Específica
-
-de la Propiedad y Derechos por Cooperación
-
-> <small>(REFORMADO [ADICIONADO], P.O. 31 DE DICIEMBRE DE 1999)</small>
+### Capítulo V. De las Excepciones a la Licitación Pública
 
 ###### Artículo 91.
 
 En los supuestos y con sujeción a las formalidades que prevén los Artículos 93 y 94, las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública, y celebrar contratos de obra pública a través de un procedimiento de invitación restringida.
 
-La opción que las dependencias y entidades ejerzan deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o Municipios En el dictamen a que se refiere el Artículo 58 deberán acreditar, de entre los criterios mencionados, aquellos en que se funda el ejercicio de la opción, y contendrá además:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+La opción que las dependencias y entidades ejerzan deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o Municipios. En el dictamen a que se refiere el Artículo 58 deberán acreditar, de entre los criterios mencionados, aquéllos en que se funda el ejercicio de la opción, y contendrá además:
 
 I.- El valor del contrato; y
 
@@ -1103,9 +1235,13 @@ V.- Los plazos para la presentación de las proposiciones se fijarán para cada 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-### Capítulo VII. Del Comité de Apoyo para la Adjudicación y Fallo
+### Capítulo VI. Actuaciones para las Obras con Aplicación del
 
-de los Concursos de Obra Pública
+Impuesto sobre Aumento de Valor y Mejoría Específica
+
+de la Propiedad y Derechos por Cooperación
+
+> <small>(REFORMADO [ADICIONADO], P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 95.
 
@@ -1123,7 +1259,9 @@ Para efectos del artículo anterior, se publicará en el Periódico Oficial y al
 
 Las funciones que les correspondan a los municipios relacionadas con la Aplicación de los Derechos por Cooperación y el Impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad, podrán ser asumidas por el Estado, de acuerdo al convenio que al efecto se celebre con el municipio correspondiente.
 
-### Capítulo Unico
+### Capítulo VII. Del Comité de Apoyo para la Adjudicación y Fallo
+
+de los Concursos de Obra Pública
 
 ###### Artículo 98.
 
@@ -1139,9 +1277,13 @@ En cada municipio deberá crearse para los mismos fines un órgano similar al es
 
 Los Comités de Apoyo para la Adjudicación y Fallo de los Concursos de Obra Pública se integrarán con los representantes de las Dependencias y personas morales que se indican a continuación, cuidando que dichas personas no estén comprendidas en los supuestos previstos en el Artículo 44 de la presente Ley y cuenten con capacidad técnica, tanto para la aplicación de la Ley, como para la programación, presupuestación y ejecución de las obras:
 
-I.- Coordinador: El Secretario de Desarrollo Urbano y Obras Públicas del Estado o el que corresponda en el ámbito municipal; el cual tendrá solamente voto de calidad;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
-II.- Secretario: El servidor público adscrito a la SEDUOP, que designe el titular de la misma, o el que se designe en el ámbito municipal; con derecho a voz pero no de voto;
+I.- Coordinador: El Secretario de Obras Públicas del Estado o el que corresponda en el ámbito municipal; el cual tendrá solamente voto de calidad;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+II.- Secretario: El servidor público adscrito a la SOP, que designe el titular de la misma, o el que se designe en el ámbito municipal; con derecho a voz pero no de voto;
 
 III.- Vocal: El Secretario General de Gobierno o Secretario del Ayuntamiento, según sea el caso;
 
@@ -1229,8 +1371,6 @@ De cada sesión se levantará un acta que contendrá los acuerdos sobre las opin
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
-
 ###### Artículo 105.
 
 La forma y los términos en que las dependencias y entidades deberán remitir a la Contraloría la información relativa a los actos y contratos materia de esta Ley será establecida de manera sistemática por ésta. Las entidades, además, informarán a la dependencia coordinadora de sector.
@@ -1276,6 +1416,8 @@ Las verificaciones podrán hacerse a petición de la parte interesada o de ofici
 ## TITULO QUINTO. De las Infracciones y Sanciones
 
 ### Capítulo Unico
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
 
 ###### Artículo 111.
 
@@ -1365,6 +1507,8 @@ Las responsabilidades a que se refiere la presente Ley son independientes de las
 
 ## TITULO SEXTO. De las Inconformidades
 
+### Capítulo Unico
+
 ###### Artículo 119.
 
 Las personas interesadas podrán inconformarse por escrito ante la Contraloría, por los actos que contravengan las disposiciones que rigen la materia objeto de esta Ley, dentro de los diez días hábiles siguientes a aquél en que este ocurra o en que el inconforme tenga conocimiento del acto impugnado.
@@ -1450,3 +1594,13 @@ Artículo Único.- El presente Decreto entrará en vigor el 1º. de enero del a�
 P.O. 20 DE MAYO DE 2010
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 6 DE NOVIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procedimientos iniciados antes de la entrada en vigor del presente Decreto, continuarán su trámite y conclusión conforme a las disposiciones vigentes en el momento en que se solicitaron.
+
+Tercero.- En un término que no exceda de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones a las disposiciones reglamentarias vinculados con la presente reforma.
+
+Cuarto.- La SOP y demás dependencias y entidades del Estado que tengan competencia legal en materia de obras públicas, deberán iniciar la operación del Registro a que se refieren los artículos 23 BIS al 23 BIS 5 de esta Ley, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
