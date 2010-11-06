@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2010-06-04"
+last_updated: "2010-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2010
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
 D E C R E T O
 
-Núm...418
+Núm. 418
 
 Artículo Único.- Se expide la Ley de Desarrollo Urbano del Estado de Nuevo León, en los siguientes términos:
 
@@ -383,7 +383,7 @@ V. Vigilar y Evaluar el cumplimiento de los programas de desarrollo urbano de co
 
 VI. Formular y difundir los Atlas de Riesgo conforme a las disposiciones de esta Ley, así como asesorar a los municipios que lo soliciten en la expedición de las autorizaciones o licencias que se otorgan en las zonas de riesgo;
 
-VII. Crear y administrar sistemas de información geográfica y estadística para la planeación urbana y regional del Estado a través del Centro de Colaboración Geospacial (sic);
+VII. Crear y administrar sistemas de información geográfica y estadística para la planeación urbana y regional del Estado a través del Centro de Colaboración Geospacial;
 
 VIII. Convenir con los municipios su participación en el proyecto y ejecución de acciones, inversiones, obras y servicios en materia de desarrollo urbano;
 
@@ -1253,7 +1253,7 @@ El Programa Estatal de Desarrollo Urbano deberá contener, además de lo estable
 
 I. Las estructuras generales de los sistemas de comunicación, transporte, hidráulicos y energéticos;
 
-II. Los proyectos de equipamiento regionales, su ubicación, características, objetivos, áreas de influencias responsables de su ejecución y fuentes de financiamiento;
+II. Los proyectos de equipamiento (sic) regionales, su ubicación, características, objetivos, áreas de influencias responsables de su ejecución y fuentes de financiamiento;
 
 III. Las metas generales en cuanto a la calidad de vida en los centros de población; y
 
@@ -1411,7 +1411,7 @@ V. Lineamientos para la incorporación de suelo para uso habitacional, constituc
 
 VI. La articulación del programa con el gasto público y su vinculación presupuestal; y
 
-VII. Lineamientos de concertación y colaboración con los productores de vivienda privadas y sociales, e instituciones de educación superior para el desarrollo de proyectos de vivienda sustentable.
+VII. Lineamientos de concertación y colaboración con los productores de vivienda (sic) privadas y sociales, e instituciones de educación superior para el desarrollo de proyectos de vivienda sustentable.
 
 ###### ARTÍCULO 74.
 
@@ -1983,7 +1983,7 @@ Para autorizar la regularización de la tenencia de la tierra de un asentamiento
 
 I. Solicitud de regularización;
 
-II. Copia simple del titulo que acredite la propiedad del predio, debidamente inscrito en el Registro Público de la Propiedad y del Comercio;
+II. Copia simple del título que acredite la propiedad del predio, debidamente inscrito en el Registro Público de la Propiedad y del Comercio;
 
 III. Certificado de libertad de gravámenes del predio, o de gravámenes con la autorización del acreedor;
 
@@ -2485,13 +2485,19 @@ Las áreas de suelo necesarias para cada uno de estos equipamientos será establ
 
 Las autoridades municipales procurarán que las plazas, jardines y espacios similares se ubiquen en los sitios centrales de cada uno de los distintos barrios o colonias de las áreas urbanas del municipio.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Asimismo, los Municipios establecerán en los reglamentos de la materia, los casos en que dichas áreas deberán ser equipadas con bebederos ó tomas de agua para el consumo humano, así como la descarga de drenaje respectiva, las que se contratarán a nombre del Municipio y deberán contar con la factibilidad del servicio de agua potable y drenaje sanitario, otorgado por Servicios de Agua y Drenaje de Monterrey, I.P.D.
+
 Tratándose de edificios dedicados a la educación procurarán que se localicen en las inmediaciones de plazas o áreas verdes, en el caso de guarderías o jardines de niños no se debe autorizar que se instalen a los lados de carreteras o vialidades primarias, así mismo en distancias menores de 100-cien metros no se permitirán la ubicación de establecimientos que signifiquen peligro o riesgo para la integridad física de los niños.
 
 Los edificios dedicados a la salud, dependiendo de su especialidad y su magnitud, se localizarán dentro o en las proximidades de los diversos centros de equipamiento.
 
 Las dependencias y organismos del sector público responsable de la salud y educación básica, media y superior deberán adquirir oportunamente suelo para sus edificaciones de acuerdo a lo indicado en los planes o programas de desarrollo urbano, a fin de fortalecer los centros de equipamiento.
 
-En ningún caso se permitirá el relleno de cañadas y barrancas para la edificación del equipamiento público descrito por este artículo.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+En ningún caso se permitirá el relleno de cañadas y barrancas para la edificación del equipamiento público descrito por este Artículo.
 
 El Estado y los municipios promoverán la constitución de grandes parques urbanos municipales o metropolitanos, en terrenos adquiridos y desarrollados mediante un fideicomiso constituido para ese fin con aportaciones del sector público y privado de la localidad para el mejoramiento ambiental.
 
@@ -3571,7 +3577,7 @@ IV. En las zonas urbanizadas no se autorizará la subdivisión cuando ésta dé 
 
 La relotificación es el acto mediante el cual dos o más lotes contiguos de un fraccionamiento o área urbana o urbanizada, se modifican en sus dimensiones constituyendo normas básicas para llevar a cabo la relotificación las siguientes:
 
-I. Los predios resultantes de la relotificación deberán tener frente a la vía pública (sic);
+I. Los predios resultantes de la relotificación deberán tener frente a la vía pública;
 
 II. No se autorizará la relotificación cuando ésta dé por resultado lote con superficie menor al lote promedio del fraccionamiento al cual corresponda;
 
@@ -3673,7 +3679,7 @@ Las zonas deterioradas física o funcionalmente en forma total o parcial podrán
 
 Para la realización de acciones de mejoramiento los municipios deberán atender los ordenamientos y regulaciones que sobre el particular establece esta Ley y las demás regulaciones emitidas al respecto, y cumplir con lo siguiente:
 
-I. Identificar y señalar en los planes o programas de desarrollo urbano correspondientes, las áreas, zonas sujetas a mejoramiento;
+I. Identificar y señalar en los planes o programas de desarrollo urbano correspondientes (sic), las áreas, zonas sujetas a mejoramiento;
 
 II. Identificar y señalar en los planes o programas Parciales de desarrollo urbano, las áreas que, quedan sujetas a mejoramiento y a estudios especializados ya sea de medio ambiente o de infraestructura y servicios;
 
@@ -5303,7 +5309,7 @@ X. Dictar resolución expresa sobre cuantas peticiones le formulen; así como en
 
 Las autoridades estatales o municipales no podrán en ningún caso rechazar las solicitudes, escritos o documentos que les sean presentados por los particulares en las unidades de recepción de documentos, ventanillas de recepción de trámites u oficinas públicas.
 
-Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la dependencia u organismo descentralizado correspondiente deberá prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión dentro del término que establezca la Ley competente, o a falta de disposición expresa, en un termino no mayor a veinte días hábiles contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
+Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la dependencia u organismo descentralizado correspondiente deberá prevenir a los interesados, por escrito y por una sola vez, para que subsanen la omisión dentro del término que establezca la Ley competente, o a falta de disposición expresa, en un término no mayor a veinte días hábiles contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
 
 De no realizarse la prevención mencionada en el párrafo anterior dentro del plazo aplicable, no se podrá desechar el trámite argumentando que está incompleto. En el supuesto de que el requerimiento de información se haga en tiempo, el plazo para que la dependencia correspondiente resuelva el trámite se suspenderá y se reanudará a partir del día hábil inmediato siguiente a aquel en el que el interesado cumpla con los requisitos faltantes.
 
@@ -5604,5 +5610,9 @@ LOMBARDO VICTORIANO GUAJARDO GUAJARDO
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE JUNIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 6 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
