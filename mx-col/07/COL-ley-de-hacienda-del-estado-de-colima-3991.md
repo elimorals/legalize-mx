@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2010-07-24"
+last_updated: "2010-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -377,19 +377,27 @@ III.- La prestación de servicios de paraderos de casas rodantes, móviles o aut
 
 IV.- El alojamiento o albergue temporal de personas en bungalows, hostales, villas, casas y departamentos amueblados.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
-
-Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
-
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
+Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
 Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -397,15 +405,7 @@ Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declar
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
-Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
+Si el contribuyente opera en dos o más establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -767,7 +767,11 @@ Automóviles
 
 Artículo 41 Z BIS.- Tratándose de automóviles el impuesto se calculará como a continuación se indica:
 
-I.- En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+I.- En el caso de automóviles nuevos destinados al transporte hasta de quince pasajeros y de camiones cuyo peso bruto vehicular sea hasta de 5 toneladas, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo la siguiente:
 
 TARIFA
 
@@ -795,7 +799,11 @@ II.- Para automóviles nuevos destinados al transporte de más de quince pasajer
 
 Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
 
-Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses, midibuses, omnibuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Para los efectos de este artículo, se entiende por vehículos destinados al transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses, midibuses, omnibuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
 III.- Tratándose de automóviles de más de diez años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
 
@@ -867,7 +875,7 @@ Turbohélice 2,480.00
 
 Reacción 3,583.00
 
-HELlCOPTEROS 551.00
+HELICOPTEROS 551.00
 
 El monto de las cuotas establecidas en este artículo se actualizarán (sic) con el factor a que se refiere el artículo 41 Z BIS 7 de este capítulo.
 
@@ -933,13 +941,19 @@ II.- La cantidad obtenida conforme a la fracción anterior se actualizará de co
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 41 Z BIS 9.- Tratándose de automóviles de fabricación nacional o importados y camiones, de hasta nueve años modelo anteriores al de aplicación de este capítulo, destinados al transporte de hasta quince pasajeros o efectos, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+
+a) El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-Artículo 41 Z BIS 9.- Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de este capítulo, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-a) El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
 TABLA
 
@@ -963,7 +977,11 @@ Años de antigüedad Factor de depreciación
 
 9 0.075
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+
 b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con lo dispuesto en el artículo 41 Z BIS 7 de este capítulo; al resultado se le aplicará la tarifa a que hace referencia el artículo 41 Z BIS.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
@@ -1107,9 +1125,7 @@ Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refi
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
-SECCION SEPTlMA
-
-Otras obligaciones
+#### SECCION SEPTIMA. Otras obligaciones
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1197,7 +1213,7 @@ VIII.- Por la inscripción de avisos de otorgamiento de testamento 1.950
 
 IX.- Por certificados, por expedición de constancias y otros documentos 1.500
 
-X.- (DEROGADA, P.O. 5 DE ENERO DE 1999)(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
+X.- (DEROGADA, P.O. 5 DE ENERO DE 1999) (REPUBLICADA, P.O. 31 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
@@ -1323,7 +1339,7 @@ XXVII.- Expedición de acuerdos de Programas Parciales de Urbanización 2.790
 
 XXVIII.- Autorización para registro de documentos 1.000
 
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 8 DE ENERO DE 2000) Cuando los servicios en materia de Registro Civil sean prestados en atención a las campañas de regularización del estado civil de las personas, realizadas por los Sistemas para el Desarrollo Integral de la Familia (DIF) del Estado y de los Municipios, en beneficio de las clases más necesitadas, no se causarán los derechos previstos en las fracciones correspondientes.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999) (F. DE E., P.O. 8 DE ENERO DE 2000) Cuando los servicios en materia de Registro Civil sean prestados en atención a las campañas de regularización del estado civil de las personas, realizadas por los Sistemas para el Desarrollo Integral de la Familia (DIF) del Estado y de los Municipios, en beneficio de las clases más necesitadas, no se causarán los derechos previstos en las fracciones correspondientes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -4337,13 +4353,13 @@ PRIMERO.- Los contribuyentes del Impuesto a la Prestación del Servicio de Ense�
 
 SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial «El Estado de Colima» el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2008 el monto se ajustará a la decena de pesos inferior más próxima con excepción de la cuota señalada en el artículo 64, fracción III, en cuyo caso la cuota será de $5.00 (cinco pesos 00/100 M.N.).
 
-TERCERO.- El presente decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial "EL ESTADO DE COLlMA".
+TERCERO.- El presente decreto entrará en vigor el día 1° de enero de 2008, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
 P.O. 29 DE NOVIEMBRE DE 2008.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente decreto entrará en vigor el día 1° de enero de 2009, previa su publicación en el Periódico Oficial "EL ESTADO DE COLlMA".
+El presente decreto entrará en vigor el día 1° de enero de 2009, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -4382,3 +4398,39 @@ P.O. 10 DE ABRIL DE 2010.
 P.O. 24 DE JULIO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 2011, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Durante el ejercicio fiscal 2011 y dentro del periodo a que se refiere el inciso c) del presente artículo, se otorgan estímulos fiscales en el Impuesto Sobre Tenencia o Uso de Vehículos, respecto de los automóviles nuevos y usados destinados al transporte de hasta 15 pasajeros y camiones cuyo peso bruto vehicular sea hasta de 5 toneladas, consistentes en un subsidio de:
+
+I. 100% del impuesto, respecto de los vehículos cuyo valor de la primera facturación no exceda de $125,000.00, sin incluir el impuesto al valor agregado;
+
+II. 40% del impuesto, respecto de los vehículos cuyo valor de la primera facturación se ubique entre $125,001.00 y $350,000.00, sin incluir el impuesto al valor agregado;
+
+III. 25% del impuesto, respecto de los vehículos cuyo valor de la primera facturación se ubique entre $350,001.00 y $450,000.00, sin incluir el impuesto al valor agregado;
+
+IV. 10% del impuesto, respecto de los vehículos cuyo valor de la primera facturación exceda de $450,000.00, sin incluir el impuesto al valor agregado; y
+
+V. La diferencia del impuesto que resulte de restar al que corresponda de conformidad con la tarifa del artículo 41 Z BIS, fracción I, el impuesto que resulte de aplicar la tasa del 0.245%, a los camiones con peso bruto vehicular hasta de 5 toneladas, cuyo valor de la primera facturación, sin incluir el impuesto al valor agregado, no exceda la cantidad de $260,000.
+
+Para tener derecho a los subsidios que se otorgan mediante el presente artículo, se deberá cumplir con los siguientes requisitos:
+
+a).- Que el contribuyente no tenga adeudos del año 2010 y anteriores por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, Derechos por la expedición o renovación de la calcomanía fiscal vehicular y de multas impuestas por la Dirección General de Transporte y de la Seguridad Vial;
+
+En caso de que el contribuyente con adeudos de los señalados en el párrafo anterior carezca de capacidad económica para cubrirlos en una sola exhibición, podrá hacerlos a través del pago en parcialidades, en los términos del Código Fiscal del Estado.
+
+b).- Que el tenedor o usuario del vehículo a cuyo nombre se encuentre inscrito en el Registro Público Vehicular del Estado, en caso de tratarse de persona física, cuente con licencia de conducir vigente; y
+
+c).- Que los derechos de control vehicular y en su caso el impuesto sobre tenencia o uso de vehículos, correspondientes al ejercicio fiscal 2011, se paguen durante los meses de enero a marzo de 2011.
+
+Respecto de los vehículos nuevos o importados que se den de alta en el Registro Público Vehicular del Estado entre 01 de abril y el 31 de diciembre de 2011, se tendrá derecho a los subsidios otorgados en los términos del presente artículo, siempre que sus tenedores o usuarios cumplan con los requisitos señalados en los incisos a) y b) de este artículo.
+
+En ningún caso se podrá gozar de más de un subsidio, respecto del mismo vehículo.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Los subsidios previstos en el presente transitorio, no aplicarán respecto de vehículos nuevos que enajenen los fabricantes, ensambladores, distribuidores y comerciantes en el ramo de vehículos a personas físicas ni por los vehículos nuevos que adquieran los contribuyentes del Impuesto Sobre la Renta que tributen en los términos del Título II de la Ley del Impuesto Sobre la Renta, por los cuales se tenga derecho al estímulo fiscal a que se refiere el Decreta expedido por el titular del Poder Ejecutivo Federal de fecha 24 de Junio de 2010 y publicado en el Diario Oficial de la Federación el día 25 del mismo mes y año.
+
+TERCERO.- En caso de que el Gobierno Federal otorgue recursos federales para resarcir la falta de recaudación de ingresos por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, el Gobierno del Estado establecerá los mecanismos para subsidiar al cien por ciento el pago de dicha contribución.
