@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-de-ferias-exposiciones-y-341
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-23"
-last_updated: "2003-09-23"
+last_updated: "2010-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISION DE FERIAS, EXPOSICIONES Y EVENTOS DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION DE FERIAS, EXPOSICIONES Y EVENTOS DEL ESTADO DE MICHOACAN (COFEEEM), PUBLICADO EN EL P.O. 8 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el martes 23 de septiembre de 2003.
 
@@ -308,3 +310,11 @@ LEOPOLDO ENRIQUE BAUTISTA VILLEGAS.- Secretario de Gobierno. (Firmado).
 ELOY VARGAS ARREOLA.- Secretario de Desarrollo Económico. (Firmado).
 
 MA. DEL CARMEN RODRÍGUEZ CID.- Directora General de la Comisión de Ferias, Exposiciones y Eventos del Estado. (Firmado).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2010.
+
+Artículo primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo segundo. Se abroga el Reglamento Interior de la Comisión de Ferias, Exposiciones y Eventos del Estado de Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 23 de Septiembre del 2003, y se dejan sin efecto las demás disposiciones de carácter administrativo en lo que, se opongan al presente Reglamento.
