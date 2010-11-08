@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-seguridad-y-vigilancia-del-instituto-de-254"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-09-09"
-last_updated: "1988-09-09"
+last_updated: "2010-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=254&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-08-23"
 
 REGLAMENTO DE SEGURIDAD Y VIGILANCIA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 9 de septiembre de 1988.
 
@@ -570,3 +570,9 @@ Artículo Quinto.- La Subdirección General de Administración expedirá los man
 Con fundamento en el artículo 163 fracción I de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado se da a conocer lo anterior para los efectos procedentes.
 
 México, Distrito Federal, a los veintitrés días del mes de agosto de mil novecientos ochenta y ocho.- El Director General, Alejandro Carrillo Castro.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE NOVIEMBRE DE 2010.
+
+> <small>N. DE E. EL ACUERDO NO. 32.1324.2010 DEL ISSSTE NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ABROGADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.</small>
