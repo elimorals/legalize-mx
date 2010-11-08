@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-otorgamiento-y-la-recuperacion-de-los-60837"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-14"
-last_updated: "2009-02-11"
+last_updated: "2010-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60837&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-31"
 
 REGLAMENTO DEL OTORGAMIENTO Y LA RECUPERACION DE LOS PRESTAMOS PERSONALES Y SU FINANCIAMIENTO, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de mayo de 2008.
 
@@ -561,6 +561,18 @@ Los rendimientos obtenidos por la inversión de las disponibilidades del Fondo, 
 
 El Director General presentará a la Junta Directiva los informes del valor del Fondo y las iniciativas que posibiliten su incremento o, al menos, su conservación.
 
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 2010)</small>
+
+El Instituto podrá, a petición expresa y por escrito de parte de los pensionados y jubilados del régimen del Artículo Décimo Transitorio, descontar del pago mensual de su pensión, el abono correspondiente para cubrir los pagos de préstamos y servicios contratados por ellos con uno o varios terceros, siempre y cuando no sean empresas privadas o con fines de lucro y dichos préstamos mantengan el cobro de tasas de interés iguales o menores a las que se manejan en el Fondo para montos equivalentes. Las retenciones mensuales no podrán exceder del treinta por ciento de la pensión neta incluyendo previamente las obligaciones que el pensionado tenga con el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 2010)</small>
+
+Las obligaciones de retención por parte del Instituto se inactivarán mientras la pensión se encuentre legalmente suspendida y se extinguirán por muerte del pensionado o jubilado, por haberse cubierto los abonos solicitados o al término de sus obligaciones como administrador de la nómina de pensiones del Régimen del Articulo Décimo Transitorio de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 2010)</small>
+
+La administración de este servicio de retenciones por nómina a pensionados y jubilados y entero a terceros requerirá de la autorización expresa de la H. Junta Directiva, será convenida mediante instrumento jurídico registrado en el Instituto y causará por parte del financiador una cuota mensual de administración por pensionado a favor del ISSSTE, misma que se incorporará directamente al valor del Fondo. Dicha cuota será aprobada por la H. Junta Directiva a propuesta de la Dirección. El Director General podrá ordenar la terminación anticipada de estos convenios o contratos con sólo 30 días de anticipación.
+
 #### SECCION UNICA. De los Gastos de Administración para la Operación del Fondo
 
 ###### ARTICULO 64.
@@ -610,3 +622,7 @@ México, D.F., a 31 de marzo de 2008.- El Secretario, José Enrique Ampudia Mell
 D.O.F. 11 DE FEBRERO DE 2009.
 
 UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE NOVIEMBRE DE 2010.
+
+> <small>N. DE E. EL ACUERDO NO. 24.1324.2010 DEL ISSSTE NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO REFORMADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.</small>
