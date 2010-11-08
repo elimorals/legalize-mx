@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-prestaciones-economicas-y-vivienda-del-249"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-06-28"
-last_updated: "2008-05-14"
+last_updated: "2010-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-06-14"
 
 REGLAMENTO DE PRESTACIONES ECONOMICAS Y VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 28 de junio de 1988.
 
@@ -756,3 +756,7 @@ QUINTO. Hasta en tanto el Instituto no emita la identificación que se prevé en
 SEXTO. El otorgamiento electrónico de préstamos personales que se contempla en el artículo 12, fracción VI del presente reglamento, se realizará una vez que el Instituto cuente con las herramientas informáticas necesarias para su adecuada operación, control y seguimiento, en cuyo caso se podrán modificar los requerimientos documentales para dicho proceso.
 
 SEPTIMO. En tanto existan pensionados bajo el régimen contemplado en el artículo décimo transitorio de la Ley, que se beneficien o se hayan beneficiado con préstamos personales, las obligaciones de las dependencias y entidades previstas en este Reglamento deberán ser ejecutadas por la unidad administrativa encargada del pago de pensiones."
+
+D.O.F. 8 DE NOVIEMBRE DE 2010.
+
+> <small>N. DE E. EL ACUERDO NO. 31.1324.2010 DEL ISSSTE NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ABROGADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.</small>
