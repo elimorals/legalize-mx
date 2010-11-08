@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-del-estado-de-hidalgo-29418"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-24"
-last_updated: "2003-03-24"
+last_updated: "2010-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 24 de marzo de 2003.
 
@@ -75,7 +75,9 @@ VIII.- Mejorar los servicios turísticos, optimizando la calidad de los mismos;
 
 IX.- Propiciar la participación de los sectores público, social y privado para el cumplimiento del objeto de la presente Ley;
 
-X.- Promover el Turismo Social, así como fortalecer el Patrimonio Histórico y Cultural de cada Región del Estado;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+X.- Promover el Turismo Social y turismo accesible, así como, fortalecer el Patrimonio Histórico y Cultural de cada Región del Estado;
 
 XI.- Crear mecanismos de financiamiento, dirigidos a la modernización y fomento de las micro, pequeñas y medianas empresas turísticas;
 
@@ -85,9 +87,13 @@ XIII.- Fomentar la accesibilidad al turismo social en beneficio de todos los gru
 
 XIV.- Impulsar y fomentar acciones para integrar a los prestadores de servicios turísticos en asociaciones representativas de los intereses que les son comunes;
 
-XV.- Promover acciones con los sectores público, privado y social para la creación y mejoramiento de la infraestructura turística y
+XV.- Promover acciones con los sectores público, privado y social para la creación y mejoramiento de la infraestructura turística y (sic)
 
-XVI.- Procurar la vinculación con otras Entidades Federativas para el fomento de la promoción, inversión y desarrollo del sector turístico en nuestra Entidad.
+XVI.- Procurar la vinculación con otras Entidades Federativas para el fomento de la promoción, inversión y desarrollo del sector turístico en nuestra Entidad;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+XVII.- El objetivo del turismo accesible, es cumplir con el compromiso que ha asumido el gobierno mexicano ante la firma y ratificación sobre los derechos de las personas con discapacidad tomando todas las medidas pertinentes incluidas las medidas legislativas para modificar o derogar Leyes, Reglamentos, costumbres o prácticas existentes que constituyen discriminación contra las personas con discapacidad en la búsqueda de igualdad de oportunidades.
 
 ###### ARTICULO 3.
 
@@ -115,9 +121,33 @@ X.- PATRIMONIO TURISTICO.- Es el conjunto de bienes e instalaciones que generan 
 
 XI.- AREA NATURAL PROTEGIDA CON APROVECHAMIENTO TURISTICO.- Son aquellas áreas que deben estar de acuerdo con las metas de conservación en donde el turismo alternativo esté explícitamente contemplado dentro de los planes de manejo, respetando en todo momento el área natural, su entorno y comunidades locales como un conjunto integrado;
 
-XII.- PLAN ESTATAL DE TURISMO.- Es aquél en el cual se establecen objetivos y acciones estratégicas en materia turística, conteniendo misión, visión, objetivos y metas a corto, mediano y largo plazo con la finalidad de convertir al turismo en pieza clave del desarrollo económico y social de la Entidad y
+XII.- PLAN ESTATAL DE TURISMO.- Es aquél en el cual se establecen objetivos y acciones estratégicas en materia turística, conteniendo misión, visión, objetivos y metas a corto, mediano y largo plazo con la finalidad de convertir al turismo en pieza clave del desarrollo económico y social de la Entidad y (sic)
 
-XIII.- PLAN MUNICIPAL DE TURISMO.- Es aquél en el cual se establecen objetivos y acciones en materia turística municipal, ajustándose a lo establecido en los Planes Nacional y Estatal de Turismo.
+XIII.- PLAN MUNICIPAL DE TURISMO.- Es aquél en el cual se establecen objetivos y acciones en materia turística municipal, ajustándose a lo establecido en los Planes Nacional y Estatal de Turismo;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+XIV.- TURISMO ACCESIBLE.- Adaptación en el entorno y acceso físico a las condiciones y necesidades de las personas con discapacidad, de acuerdo con las normas uniformes para la equiparación de oportunidades de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+XV.- PERSONAS CON DISCAPACIDAD.- Toda persona que presenta una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico o social;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+XVI.- IGUALDAD DE OPORTUNIDADES.- Proceso de adecuaciones, ajustes y mejoras en el entorno jurídico, social, cultural y de bienes y servicios que faciliten a las personas con discapacidad una integración, convivencia y participación con las mismas oportunidades y posibilidades que el resto de la población;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+XVII.- ACCESIBILIDAD.- Acciones que facilitan a las personas con discapacidad vivir de forma independiente y participar plenamente en todos los aspectos de la vida;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+XVIII.- AJUSTES RAZONABLES.- Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio en igualdad de condiciones de los demás de todos los derechos humanos y libertades fundamentales; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+XIX.- DISEÑO UNIVERSAL.- Diseño de productos, entornos, programas y servicios, que puedan utilizar todas las personas, en la mayor medida de lo posible, sin necesidad de adaptación, ni diseño especializado; el diseño universal no excluye las ayudas técnicas para el grupo de personas con discapacidad cuando se necesiten.
 
 ###### ARTICULO 4.
 
@@ -151,7 +181,9 @@ La Secretaría, es la Autoridad en materia turística y el Organo encargado de f
 
 I.- Organizar, operar y evaluar en el ejercicio de sus atribuciones y funciones que competen al Poder Ejecutivo Estatal y las que el Gobierno Federal descentralice;
 
-II.- Formular y desarrollar el Programa Sectorial de Turismo, de conformidad con el Plan de Desarrollo Estatal y Nacional;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+II.- Formular y desarrollar el Programa Sectorial de Turismo, de conformidad con el Plan de Desarrollo Estatal, Nacional y el cumplimiento de lo establecido en la Convención sobre los Derechos de las Personas con Discapacidad;
 
 III.- Elaborar y validar estudios que permitan identificar las áreas territoriales y de servicios, susceptibles de ser explotadas en Proyectos Turísticos;
 
@@ -203,9 +235,17 @@ III.- Las Autoridades responsables o empresas que los ejecuten;
 
 IV.- La descripción de las acciones, obras y servicios y la referencia a los recursos necesarios;
 
-V.- Las etapas o tiempos para su cumplimiento y
+V.- Las etapas o tiempos para su cumplimiento y (sic)
 
-VI.- Deberán contar con estudios de factibilidad.
+VI.- Deberán contar con estudios de factibilidad;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+VII.- Desarrollo de la aplicación de normas mínimas y directrices sobre la accesibilidad de las instalaciones y los servicios abiertos al público; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+VIII.- Ofrecer formas adecuadas de asistencia y apoyo a las personas con discapacidad para asegurar su acceso a la información.
 
 ###### ARTICULO 9.
 
@@ -219,21 +259,27 @@ II.- Los Programas Turísticos y las acciones que de ellos deriven, habrán de a
 
 El Poder Ejecutivo a través de la Secretaría, podrá celebrar Acuerdos con los distintos niveles de Gobierno, los sectores público, social, privado y académico, para el mejor desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría definirá en coordinación con los sectores público, privado, social y académico las acciones y estrategias necesarias para alcanzar los objetivos propuestos en el Programa Estatal de Turismo, como parte de una política integral para que los sectores formen parte de su desarrollo.
+La Secretaría definirá, en coordinación con los sectores público, privado, social y académico, las acciones y estrategias necesarias para alcanzar los objetivos propuestos en el Programa Estatal de Turismo, como parte de una política integral e inclusiva para que los sectores formen parte de su desarrollo.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 12.
 
-La Secretaría promoverá con los Ayuntamientos en donde se desarrollan actividades turísticas, la celebración de Acuerdos destinados a proporcionar los conceptos de estacionamiento público, seguridad al turista, limpieza en la vialidad, mejoramiento de los servicios públicos y establecimientos destinados al turista, así como todos los servicios orientados a la prestación de una atención integral al turista.
+La Secretaría promoverá, con los Ayuntamientos en donde se desarrollan actividades turísticas, la celebración de acuerdos destinados a proporcionar los conceptos de estacionamiento público, seguridad al turista, limpieza en la vialidad, mejoramiento de los servicios públicos, establecimientos destinados al turista y adoptará las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, así como todos los servicios orientados a la prestación de una atención integral al turista.
 
 ###### ARTICULO 13.
 
 La Secretaría apoyará las solicitudes para obtener los permisos de construcción y de funcionamiento de los giros relacionados a los servicios turísticos.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 14.
 
-La Secretaría considerando la viabilidad técnica, económica y financiera de los Proyectos Turísticos que promuevan organismos o empresas de los sectores social y privado, auxiliará en la gestión de estímulos, ante las Autoridades Federales, Estatales y Municipales.
+La Secretaría, considerando la viabilidad técnica, económica y financiera de los Proyectos Turísticos que promuevan organismos o empresas de los sectores social y privado, auxiliará en la gestión de estímulos para que proporcionen instalaciones y servicios que tengan en cuenta todos los aspectos de accesibilidad para las personas con discapacidad, ante las Autoridades Federales, Estatales y Municipales.
 
 ### CAPITULO III. DE LA INFRAESTRUCTURA Y DE LAS RESERVAS TERRITORIALES PARA USO TURISTICO
 
@@ -241,9 +287,11 @@ La Secretaría considerando la viabilidad técnica, económica y financiera de l
 
 De acuerdo con la disponibilidad de superficies aptas para el desarrollo turístico, la Secretaría se ajustará a los lineamientos del Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 16.
 
-Los Programas de la Actividad Turística, deberán formularse en congruencia con el Plan Estatal de Desarrollo, con el Programa de Ordenamiento Ecológico y el Programa de Desarrollo Urbano de la Entidad y de acuerdo con las disposiciones aplicables de la Ley Federal de Turismo y las disposiciones que en materia de Desarrollo Urbano rigen en el Estado, así como con lo que previene el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+Los Programas de la Actividad Turística, deberán formularse en congruencia con el Plan Estatal de Desarrollo, con el Programa de Ordenamiento Ecológico y el Programa de Desarrollo Urbano de la Entidad y de acuerdo con las disposiciones aplicables de la Ley General de Turismo y las disposiciones que, en materia de Desarrollo Urbano rigen en el Estado, así como, con lo que previenen los Artículos 1 y 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 17.
 
@@ -253,9 +301,11 @@ Para los efectos de la planeación, se deberá de considerar además de las cara
 
 Para la regulación de la oferta turística, deberá considerarse la corrección de las deficiencias y equilibrios de infraestructura, calidad en la prestación de los servicios, instalaciones y equipamiento turístico.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 19.
 
-Se establece como causa de utilidad pública la constitución y preservación de reservas territoriales para el desarrollo de la actividad turística Estatal, que contribuya al aprovechamiento eficiente de la tierra, la conservación del medio ambiente y la cultura de los pueblos, a la captación de divisas, a la ordenación del crecimiento urbano y la creación de empresas.
+Se establece como causa de utilidad pública la constitución y preservación de reservas territoriales para el desarrollo de la actividad turística Estatal, que contribuya al aprovechamiento eficiente de la tierra, la conservación del medio ambiente y la cultura de los pueblos, la inclusión social de las personas con discapacidad, la captación de divisas, a la ordenación del crecimiento urbano y la creación de empresas.
 
 ### CAPITULO IV. ZONAS DE DESARROLLO TURISTICO PRIORITARIAS
 
@@ -305,7 +355,11 @@ III.- Integrar Comisiones y Comités Técnicos necesarios, para desarrollar los 
 
 IV.- Hacer de la actividad turística un factor de desarrollo social y económico y
 
-V.- Procurar el óptimo aprovechamiento de los recursos naturales, históricos y culturales del Estado, en actividades turísticas.
+V.- Procurar el óptimo aprovechamiento de los recursos naturales, históricos y culturales del Estado, en actividades turísticas;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+VI.- Promover el reconocimiento de las capacidades, los méritos, las habilidades de las personas con discapacidad, sus aportaciones en relación con el lugar de trabajo y el mercado laboral.
 
 ### CAPITULO III. DE LOS CONSEJOS CONSULTIVOS MUNICIPALES DE TURISMO
 
@@ -335,9 +389,15 @@ VIII.- Los Representantes de los diversos Organismos Empresariales del Municipio
 
 IX.- El Representante de los Balnearios en los Municipios en donde existan;
 
-X.- Un Representante de las Agencias de Viajes existentes en el Municipio y
+X.- Un Representante de las Agencias de Viajes existentes en el Municipio y (sic)
 
-XI.- Y demás que se consideren necesarios para su mejor funcionamiento.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+XI.- Un representante de las personas con discapacidad en el Municipio; y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+XII.- Las demás que se consideren necesarios para su mejor funcionamiento.
 
 ###### ARTICULO 30.
 
@@ -355,9 +415,13 @@ Los Consejos Consultivos Municipales, podrán constituir las Comisiones y Comit�
 
 Los Consejos Consultivos Municipales para su funcionamiento y organización interna, se regirán por lo dispuesto en su Reglamento Interno.
 
-## TITULO TERCERO. DE LOS CONCEPTOS TURISTICOS NECESARIOS Y PRIORITARIOS EN EL DESARROLLO DEL SECTOR EN LA ENTIDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
-### CAPITULO I. DEL TURISMO SOCIAL
+## TITULO TERCERO. DE LOS CONCEPTOS TURISTICOS NECESARIOS Y PRIORITARIOS EN EL DESARROLLO DEL SECTOR TURISTICO EN LA ENTIDAD
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO I. DEL TURISMO SOCIAL Y ACCESIBLE
 
 ###### ARTICULO 33.
 
@@ -378,6 +442,22 @@ La Secretaría contribuirá a la protección de la economía familiar, concertan
 ###### ARTICULO 37.
 
 La Secretaría promoverá que Organizaciones Sociales, Organismos Gubernamentales Federales y Estatales, Asociaciones Civiles, Agrupaciones Obreras y Sindicatos e Instituciones Educativas fomenten entre sus integrantes y trabajadores el turismo social, como un instrumento de beneficio colectivo.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 37 Bis.
+
+La Secretaría, con el apoyo y en coordinación de las Dependencias y Entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 37 Ter.
+
+Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+
+La misma obligación tendrán las autoridades respecto a los sitios culturales con afluencia turística.
+
+La Secretaría, el Estado y los Municipios supervisarán que lo dispuesto en este capítulo se cumpla.
 
 ### CAPITULO II. DEL TURISMO SUSTENTABLE
 
@@ -952,3 +1032,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+TERCERO.- A partir de la fecha que sea vigente la presente reforma, el Titular del Poder Ejecutivo Estatal, a través de la Secretaría, contará con ciento sesenta días para actualizar el Reglamento de esta Ley.
+
+CUARTO.- En cuanto a lo enunciando en los Artículos 37 bis y 37 ter, referente al Turismo Accesible, la Secretaría y los Municipios, serán los encargados de hacer cumplir lo establecido en el presente Decreto.
