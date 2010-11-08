@@ -4,7 +4,7 @@ identifier: "SON-ley-que-establece-el-sistema-integral-de-justicia-para-51862"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2010-07-05"
+last_updated: "2010-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51862&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el martes 12 de septiembre de 2006.
 
@@ -88,6 +88,10 @@ II.- Centros de tratamiento: Los centros especializados en la atención, tratami
 III.- Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
 
 IV.- Constitución Local: La Constitución Política del Estado Libre y Soberano de Sonora;
+
+> <small>(ADICIONADA, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+IV Bis.- Facilitador: Es la persona que interviene para facilitar el diálogo en los procesos de mediación, conciliación o justicia restaurativa;
 
 V.- DIF Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -363,15 +367,21 @@ El Tribunal y los juzgados, en el ámbito de sus respectivas competencias, será
 
 Se crea el Instituto que dependerá del Secretario Ejecutivo de Seguridad Pública del Estado, y tendrá por objeto la custodia provisional y la ejecución y seguimiento de las medidas de internamiento y externamiento que se impongan a los adolescentes, para lo cual tendrá las siguientes atribuciones:
 
-I.- Recibir de la autoridad que haya realizado u ordenado la detención, al adolescente para su custodia;
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
-II.- Realizar los estudios médicos y psicológicos del adolescente remitido para su custodia, así como del entorno familiar, social y cultural;
+I.- Recibir de la autoridad a los adolescentes que hayan sido enviados para su tratamiento ya sea en internamiento o externamiento;
+
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+II.- Realizar los estudios médicos y psicológicos del adolescente, así como del entorno familiar, social y cultural;
 
 III.- Aplicar al adolescente puesto a su custodia, las medidas de prevención ordenadas por la autoridad competente, respetando los derechos que para los adolescentes otorga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes;
 
 IV.- Emitir dictamen proponiendo al Juez el tipo de medidas que sean más benéficas para el desarrollo integral del adolescente;
 
-V.- Elaborar el Programa Individual de Aplicación de Tratamiento, conforme al cual se ejecutarán las medidas de internamiento impuestas al adolescente;
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+V.- Elaborar el Programa Individual de Tratamiento que se ejecutará al adolescente en externamiento o internamiento;
 
 VI.- Ejecutar las medidas en cumplimiento a la resolución que el Juez emita, realizando todas las acciones conducentes para alcanzar la reintegración familiar y social del adolescente;
 
@@ -691,9 +701,17 @@ V.- La prohibición de concurrir a determinadas reuniones o de visitar ciertos l
 
 VI.- Prohibición de acercarse a la víctima o a otras personas o de tener contacto con personas determinadas;
 
-VII.- La estancia en su domicilio durante el horario nocturno que el Juez determine, o que acuda a centro médico o instalaciones especializadas del Instituto; y
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
-VIII.- Internamiento preventivo en el centro de tratamiento que corresponda, el cual se aplicará sólo como medida extrema, si la conducta de que se trate está calificada como grave de conformidad con esta ley y el adolescente tiene o es mayor de catorce años. Para determinar la aplicación de esta medida el Juez apreciará las circunstancias y las características del caso y las condiciones personales del adolescente.
+VII.- La estancia en su domicilio durante el horario que el juez determine, o que acuda a centro médico o instituciones especializadas del instituto;
+
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+VIII.- Internamiento preventivo en tiempo libre; y
+
+> <small>(ADICIONADA, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+IX.- Internamiento preventivo en el centro de tratamiento que corresponda, el cual se aplicará solo como medida extrema, si la conducta de que se trate está calificada como grave de conformidad con esta ley y el adolescente tiene o es mayor de 14 años. Para determinar la aplicación de esta medida el juez apreciará las circunstancias y las características del caso y las condiciones personales del adolescente.
 
 El Juez podrá imponer una o varias de las medidas cautelares previstas y dictar las órdenes necesarias para garantizar su cumplimiento.
 
@@ -1077,13 +1095,29 @@ i) Obtener un trabajo, en el caso de haber cumplido los dieciséis años de edad
 
 j) Abstenerse de ingerir bebidas alcohólicas o consumir sustancias psicotrópicas;
 
-k) Prohibición de conducir vehículos motorizados; y
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+k) Prohibición de conducir vehículos motorizados;
+
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 l) Libertad vigilada;
 
-II.- Medidas restrictivas y de internamiento:
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
-a) Internamiento para el tratamiento en tiempo libre; y
+m) Estancia en su domicilio durante el horario que el juez determine; y
+
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+n) La prohibición de salir del Estado, de la localidad en la que reside o del ámbito territorial que fije el juez, sin su autorización;
+
+> <small>(REFORMADA PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+II.- Medidas restrictivas y en internamiento:
+
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+a) El tratamiento en tiempo libre podrá llevarse a cabo en sistemas semi-abiertos y abiertos; y
 
 b) Internamiento para el tratamiento en centros de tratamiento.
 
@@ -1209,13 +1243,49 @@ Esta medida sólo podrá imponerse al adolescente cuando haya realizado una cond
 
 La libertad vigilada es una medida restrictiva que tendrá una duración de hasta tres años, consistente en sujetar al adolescente al cumplimiento de programas educativos, formativos o de orientación que favorezcan su desarrollo y reintegración social. El Instituto determinará la institución donde deba cumplir los programas y dará un seguimiento de la actividad del adolescente, procurando apoyarlo, orientarlo y ayudarlo a superar los factores que lo llevaron a cometer la conducta por la cual se le impone esta medida.
 
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+Las medidas a que se refieren los incisos m) y n) de la fracción primera del artículo 106 de esta ley tendrán la misma duración que la medida anterior.
+
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+ARTÍCULO 127 BIS.- En caso de que el adolescente no cumpla con lo establecido en la sentencia, el instituto notificará al juez lo conducente con el fin de que aquel cumpla con las medidas impuestas.
+
+De esta manera, se informará al juez la falta de presentación de los adolescentes a las entrevistas a las que hayan sido citados para realizar los estudios biopsicosociales, el programa individual de tratamiento o el incumplimiento de cualquiera de las obligaciones establecidas, para que éste actúe en consecuencia.
+
+El centro designará a un profesional de trabajo social que se entrevistará con el menor para evaluar sus necesidades y elaborará el programa de ejecución, en el que constarán las actividades de apoyo, educativas, formativas, laborales, deportivas o culturales que el adolescente realizará, la periodicidad de la asistencia al centro y el horario de asistencia, que deberá ser compatible con su actividad escolar, si está en el período de la enseñanza básica obligatoria y con su actividad laboral.
+
+Si el adolescente no cumpliera con lo estipulado en la sentencia el juez, a solicitud del centro, podrá dictar una nueva medida de internamiento.
+
 #### SECCIÓN SEGUNDA. MEDIDAS RESTRICTIVAS Y DE INTERNAMIENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 128.
 
-La medida de internamiento para el tratamiento en tiempo libre, debe cumplirse en un área del Centro de Tratamiento, pero separada de la destinada para el cumplimiento de las medidas en internamiento, en cualquier momento del día o de la semana en que el adolescente no esté realizando actividades laborales o de estudio.
+La medida de internamiento para el tiempo libre podrá cumplirse en un área del centro de tratamiento o en casas especiales destinadas para el cumplimiento de las medidas en cualquier momento del día o de la semana en que el adolescente no esté realizando actividades laborales o de estudio.
 
 La duración de esta medida podrá imponerse hasta por cinco años.
+
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+ARTÍCULO 128 BIS.- El sistema semi-abierto permitirá a los adolescentes residir en el centro pero realizar fuera de éste alguna o algunas de las actividades formativas, educativas o laborales, establecidas en el programa individualizado de ejecución de la medida.
+
+La actividad o actividades que se realicen en el exterior se ajustarán a los horarios y condiciones establecidos en el programa individualizado de tratamiento, sin perjuicio de que, en función de la evolución personal del adolescente, el instituto pudiera aumentar o disminuir las actividades en el exterior o los horarios, siempre dentro del margen establecido en el propio programa.
+
+En caso de que el adolescente no regresara al centro o que no cumpliera con lo establecido en el programa de tratamiento se notificará al juez de inmediato para que modifique la medida a internamiento en sistema cerrado.
+
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+ARTÍCULO 128 BIS A.- El sistema abierto permitirá a los adolescentes sujetos a esta medida, llevar a cabo todas las actividades de carácter escolar, formativo y laboral establecidas en el programa individualizado de tratamiento fuera de los centros pero residirá en el centro como domicilio habitual.
+
+Las actividades en el exterior se llevarán a cabo conforme a los horarios y condiciones establecidas en el programa individualizado de tratamiento.
+
+El tiempo mínimo de permanencia en el centro será de ocho horas y el adolescente deberá pernoctar en éste. Sin embargo, cuando el adolescente muestre buena conducta y realice en el exterior exitosamente actividades formativas, educativas o laborales, el centro podrá proponer al juez la posibilidad de no alojarse en el centro durante un período determinado de tiempo y acudir a éste solamente con la periodicidad establecida, a realizar actividades determinadas por el programa de tratamiento individualizado, entrevistas y controles presenciales.
+
+Cuando el instituto identifique que las características personales del adolescente y la evolución de la medida en régimen abierto han avanzado exitosamente, podrá proponer al juez que el adolescente continúe en viviendas o instituciones de carácter familiar ubicadas fuera del recinto del centro, bajo la supervisión de dicho instituto. Las viviendas podrán ser administradas por el instituto o serán privadas.
+
+Los adolescentes podrán cumplir un tiempo determinado por el tratamiento en dichas viviendas y regresar con su familia cuando hayan cumplido con la medida. En caso de que el adolescente no regresara a pernoctar en el centro o no cumpla con el programa de tratamiento que se le establezca, se le notificará al juez inmediatamente para que modifique la medida a internamiento en sistema cerrado.
 
 ###### ARTÍCULO 129.
 
@@ -1268,6 +1338,14 @@ IV.- Fomentar los vínculos familiares y sociales que contribuyan a su desarroll
 ###### ARTÍCULO 135.
 
 La ejecución de las medidas comprende todas las acciones destinadas a promover el cumplimiento de las mismas y lograr el fin que con su aplicación se persigue, así como todo lo relativo al trámite y resolución de los incidentes que se presenten durante esta fase, así como vigilar y garantizar el cumplimiento de los objetivos fijados por esta ley.
+
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+La medida que determine tratamiento en externamiento, obligará al adolescente a asistir a los centros de atención externa y a cumplir con las citas, horarios y actividades, que el programa individual establezca.
+
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+Para garantizar el cumplimiento de las medidas en externamiento, el Instituto notificará al juez el incumplimiento, quien citará al adolescente para que manifieste lo que a su derecho convenga y, en caso de que no asista, no cumpla, ni justifique su incumplimiento, el juez determinará lo que corresponda en cuanto a las medidas que estime convenientes o podrá modificar dichas medidas cuando corresponda
 
 ###### ARTÍCULO 136.
 
@@ -1415,35 +1493,51 @@ Si la autoridad no envía los informes solicitados o no comparece a la audiencia
 
 ### CAPÍTULO ÚNICO. JUSTICIA ALTERNATIVA
 
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 154.
 
-El presente Capítulo tiene como finalidad reconocer la mediación y la conciliación, como procedimientos alternativos al juzgamiento, tendientes a evitar o a hacer cesar la intervención judicial.
+El presente capítulo tiene como finalidad reconocer la justicia restaurativa, la mediación y la conciliación como procedimientos alternativos al juzgamiento, tendientes a evitar o hacer cesar la intervención judicial.
 
 ###### ARTÍCULO 155.
 
 Durante el procedimiento, hasta antes de dictarse resolución, podrán llevarse a cabo los procedimientos alternativos previstos en esta ley conforme a los términos señalados en la misma.
 
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 156.
 
-Procederá la conciliación y la mediación como medio de solución alterna al conflicto, sólo en los casos de conductas tipificadas como delitos que se persigan a petición de parte, y de conductas tipificadas como delitos perseguibles de oficio, respecto de los cuales la ley penal prevea la posibilidad de la extinción de la acción penal cuando exista manifestación expresa de desinterés jurídico por parte del ofendido en cuanto a la prosecución de la causa.
+Procederán los procedimientos de justicia restaurativa, conciliación y mediación, como medio de solución alterna al conflicto, sólo en los casos de conductas tipificadas como delitos que se persigan a petición de parte y de conductas tipificadas como delitos perseguibles de oficio, respecto de los cuales la ley penal prevea la posibilidad de la extinción de la acción penal cuando exista manifestación expresa de desinterés jurídico por parte del ofendido, en cuanto a la prosecusión de la causa.
 
-Procede la conciliación y la mediación tratándose de la reparación del daño en cualquiera de las conductas tipificadas como delitos.
+Procede cualquier procedimiento de justicia restaurativa, conciliación o mediación tratándose de la reparación del daño en cualquiera de las conductas tipificadas como delitos.
+
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 157.
 
-Los convenios o acuerdos a que lleguen el adolescente y el ofendido o víctima como resultado de los procedimientos de conciliación o mediación, deberán ser suscritos por los padres, tutores o personas que ejerzan la patria potestad del adolescente, si los tuviere o fueren localizados.
+Los convenios o acuerdos a que lleguen el adolescente y el ofendido o víctima, como resultado de los procedimientos alternativos, deberán ser suscritos por los padres, tutores o personas que ejerzan la patria potestad del adolescente, si los tuviere o fueren localizados.
+
+En caso de no tenerlos o no los localizaren se le nombrará un tutor por parte de las autoridades, que podrá ser un pariente, miembro de la comunidad o trabajadora social que pertenezca al Instituto de Tratamiento y Aplicación de Medidas para Adolescentes, quien lo podrá apoyar en el cumplimiento de los acuerdos tomados.
+
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 158.
 
-La mediación podrá llevarse a cabo en cualquier fase del procedimiento, en la que el adolescente y el ofendido o la víctima acuerden asistirse por un tercero neutral llamado mediador, quien ayudará a identificar sus diferencias y a establecer con ellos bases para la solución de su conflicto.
+Los procedimientos alternativos de justicia podrán llevarse a cabo en cualquier fase del procedimiento, en la que el adolescente, el ofendido o la víctima, acuerden someterse al procedimiento ante un facilitador que le ayudará a establecer las bases para la solución del conflicto.
+
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 159.
 
-Designado el mediador, el Ministerio Público o el Juez, suspenderán el procedimiento que se le instruye al adolescente, suspensión que no podrá ser mayor a treinta días, salvo que el propio adolescente y la víctima u ofendido soliciten un mayor tiempo para la solución del conflicto.
+Designado el facilitador, el Ministerio Público o el Juez, suspenderán el procedimiento que se le instruye al adolescente, suspensión que no podrá ser mayor a treinta días, salvo que el propio adolescente y la víctima u ofendido soliciten un mayor tiempo para la solución de conflicto.
+
+Para participar en el proceso de justicia restaurativa, el adolescente tendrá que aceptar su responsabilidad en los hechos, disculparse con la víctima y comprometerse a reparar el daño a la víctima y a la sociedad. Los adolescentes, en conjunción con sus padres o tutores, las víctimas y el representante de la autoridad, se reunirán en un lugar adecuado para que el menor pida perdón a la víctima y lleguen a un acuerdo para reparar el daño. Todo el proceso se deberá de realizar en un clima de cordialidad y pleno respeto de los derechos humanos, constitucionales y debido proceso para la víctima y el adolescente.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 160.
 
-El procedimiento de mediación concluirá cuando:
+El procedimiento alternativo concluirá cuando:
 
 I.- Los participantes logren un acuerdo;
 
@@ -1455,17 +1549,27 @@ IV.- Alguno de los participantes hayan expresado su voluntad de retirarse del pr
 
 V.- Alguno de los participantes haya dejado de asistir injustificadamente a las sesiones programadas;
 
-VI.- Haya transcurrido el plazo del procedimiento de mediación, sin que los participantes hayan solicitado prórroga o, si solicitada, no les fue concedida; y
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
-VII.- El procedimiento de mediación no esté cumpliendo sus propósitos, a juicio del mediador.
+VI.- Haya concluido el plazo del procedimiento alternativo, sin que los participantes hayan solicitado prórroga o, si solicitada, no les fue concedida; y
 
-La terminación de la mediación en cualquiera de sus etapas, no impide que se acuda nuevamente a este medio de solución de controversias, si las circunstancias son favorables.
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+VII.- El procedimiento alternativo no esté cumpliendo sus propósitos, a juicio del facilitador.
+
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
+
+La terminación del procedimiento alternativo en cualquiera de sus etapas, no impide que se acuda nuevamente a este medio de solución de controversias, si las circunstancias son favorables.
+
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 161.
 
-Del acuerdo al que lleguen el adolescente y el ofendido o la víctima, se levantará acta en la que se hará constar los términos del mismo, y será firmada por el ofendido o la víctima, el adolescente, sus padres, tutores o quienes ejerzan su patria potestad, en su caso, y los demás intervinientes en el procedimiento de mediación.
+Del acuerdo al que lleguen el adolescente y el ofendido y la víctima, se levantará un acta en la que se hará constar los términos del mismo, y será firmada por el ofendido o la víctima, el adolescente, sus padres, tutores o quienes ejerzan la patria potestad, el juez, el ministerio público, el facilitador y los demás intervinientes en el procedimiento.
 
-Si no se llega al acuerdo, se hará del conocimiento del Ministerio Público o del Juez, para que prosigan con el procedimiento respectivo.
+Si no se llega a acuerdo, se hará del conocimiento del Ministerio Público o del Juez, para que prosiga con el procedimiento respectivo.
+
+Una vez firmado el acuerdo y en caso de que el adolescente no cumpla con él, se le seguirá al adolescente el proceso judicial normal que se interrumpió al iniciar el restaurativo.
 
 T R A N S I T O R I O S
 
@@ -1556,6 +1660,12 @@ ROBERTO RUIBAL ASTIAZARAN
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 5 DE JULIO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 8 DE NOVIEMBRE DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
