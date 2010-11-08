@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-comites-tecnicos-del-instituto-de-seguridad-y-110
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-06-14"
-last_updated: "1994-06-14"
+last_updated: "2010-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1104&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-05-23"
 
 REGLAMENTO DE COMITES TECNICOS, DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el 14 de junio de 1994.
 
@@ -268,3 +268,9 @@ Lo que me permito hacer de su conocimiento para los efectos legales a que haya l
 Atentamente
 
 México, D.F., a 23 de mayo de 1994.- El Secretario, Jaime Báez Rodríguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE NOVIEMBRE DE 2010.
+
+> <small>N. DE E. EL ACUERDO NO. 35.1324.2010 DEL ISSSTE NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ABROGADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.</small>
