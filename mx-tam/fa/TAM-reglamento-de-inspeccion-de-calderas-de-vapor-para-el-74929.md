@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-inspeccion-de-calderas-de-vapor-para-el-74929"
 country: "mx"
 rank: "reglamento"
 publication_date: "1938-01-05"
-last_updated: "1938-01-05"
+last_updated: "2010-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 REGLAMENTO DE INSPECCION DE CALDERAS DE VAPOR PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO MEDIANTE EL CUAL SE ABROGA EL REGLAMENTO DE INSPECCION DE CALDERAS DE VAPOR PARA EL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 9 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de enero de 1938.
 
@@ -1266,3 +1268,11 @@ El presente Reglamento entrará en vigor desde la fecha de su publicación en el
 Por lo tanto se imprima, publique, circule, y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas a los once días del mes de Dic. de mil novecientos treinta y siete.- Marte R. Gómez.- El Secretario General de Gobierno, Lic. Pedro González.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
