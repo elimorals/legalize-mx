@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2010-09-03"
+last_updated: "2010-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1403,11 +1403,11 @@ Las atribuciones del secretario general del pleno, de los secretarios generales 
 
 Los magistrados, secretario general del pleno, secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados y actuarios, estarán impedidos para desempeñar cualquier otro empleo dependiente de la federación, Estado, municipios, organismos auxiliares o de otra entidad federativa o de algún particular, excepto los de carácter docente, siempre que su desempeño no afecte las funciones propias de estos servidores públicos y tratándose de magistrados sea gratuito. También estarán impedidos para ejercer la profesión de abogado, salvo en causa propia, de su cónyuge o de sus familiares hasta el cuarto grado. Tampoco podrán ser agentes de cambio o ministros de algún culto religioso.
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 214.
 
-Los magistrados, secretario general del pleno, secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados y actuarios que hayan cumplido setenta años de edad o padezcan incapacidad física o mental, para el desempeño de su cargo, no podrán seguir prestando sus servicios en el Tribunal. Percibirán las prestaciones que establezca la legislación aplicable.
+Los magistrados, secretario general del pleno, secretarios generales de acuerdos, jefes de unidad, secretarios de acuerdos, secretarios proyectistas, asesores comisionados y actuarios que padezcan incapacidad física o mental, para el desempeño de su cargo, no podrán seguir prestando sus servicios en el Tribunal. Percibirán las prestaciones que establezca la legislación aplicable.
 
 ###### Artículo 215.
 
@@ -2350,3 +2350,11 @@ G.G. 3 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 9 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
