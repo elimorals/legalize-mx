@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-para-el-estado-de-tamaulipas-8223"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-30"
-last_updated: "2008-06-05"
+last_updated: "2010-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 30 de junio de 1993.
 
@@ -125,13 +125,17 @@ I.- El Titular del Ejecutivo Estatal, quien lo presidirá.
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2005)</small>
 
-II.- El Titular de la Secretaría de Turismo del Estado;
+II.- El Titular de la Secretaría de Turismo del Estado.
 
 III.- El Subsecretario de Desarrollo Turístico, que será el Secretario Operativo.
 
-IV.- Los Representantes de las Dependencias y Entidades de la Administración Pública relacionadas con la actividad turística.
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
-V.- Representantes de los organismos de los sectores privado y social que participen en la actividad turística estatal. De éstos se elegirán tres por cada sector, con sus respectivos suplentes, teniendo el carácter de vocales.
+IV.- Un representante del Congreso del Estado, integrante de la Comisión de Turismo.
+
+V.- Los Representantes de las Dependencias y Entidades de la Administración Pública relacionadas con la actividad turística.
+
+VI.- Representantes de los organismos de los sectores privado y social que participen en la actividad turística estatal. De éstos se elegirán tres por cada sector, con sus respectivos suplentes, teniendo el carácter de vocales.
 
 Se podrá invitar a Instituciones Educativas y demás personas relacionadas con el turismo.
 
@@ -578,3 +582,9 @@ El presente Decreto entrará en vigor a los 90 días de su publicación en el Pe
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo previsto en el presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto inicia su vigencia a partir de su expedición y se publicará en el Periódico Oficial del Estado.
