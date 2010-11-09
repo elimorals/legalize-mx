@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-registro-civil-del-estado-de-michoacan-de-3889
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-04-23"
-last_updated: "2004-04-23"
+last_updated: "2010-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL REGISTRO CIVIL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 23 de abril del 2004.
 
@@ -311,9 +311,19 @@ XXXII. Supervisar el trabajo que desempeñe el personal administrativo, así com
 
 XXXIII. Entregar o en su caso recibir la oficialía previo inventario, al que se anexará al acta de entrega-recepción, remitiendo el original al director de la institución;
 
-XXXIV. Con los documentos que fundamenten cada acto del estado civil, formar apéndices, numerados progresivamente por año y archivarlos a manera de legajos, elaborar un índice de éstos y conservarlos; y,
+XXXIV. Con los documentos que fundamenten cada acto del estado civil, formar apéndices, numerados progresivamente por año y archivarlos a manera de legajos, elaborar un índice de éstos y conservarlos; y, (sic)
 
-XXXV. Las que establece el Código Civil del Estado y las demás que se contemplen en otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+XXXV. Exhortar a quien presente al menor a registrar a que el nombre propio que vaya a otorgarle no sea peyorativo, discriminatorio, infamante, denigrante o carente de significado;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+XXXVI. Procurar evitar la multiplicidad de identidades u homonimias que puedan generar controversias judiciales en materia de identidad; y,
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+XXXVII. Las que establece el Código Familiar para el Estado de Michoacán y las demás que se contemplen en otras disposiciones aplicables.
 
 ### CAPÍTULO QUINTO. DE LOS LIBROS DEL REGISTRO CIVIL
 
@@ -480,3 +490,9 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de O
 En cumplimiento a lo dispuesto por la facción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 25 veinticinco días del mes de marzo del año 2004 dos mil cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
