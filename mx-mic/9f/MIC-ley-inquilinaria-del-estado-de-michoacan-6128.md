@@ -4,7 +4,7 @@ identifier: "MIC-ley-inquilinaria-del-estado-de-michoacan-6128"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-24"
-last_updated: "1986-09-30"
+last_updated: "2010-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY INQUILINARIA DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 24 de diciembre de 1984.
 
@@ -45,31 +45,45 @@ Esta Ley tiene por objeto regir dentro del territorio del Estado, el arrendamien
 
 Se declaran de orden público las disposiciones de esta Ley e irrenunciables los beneficios que consagra.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 3o.
 
-El contrato de arrendamiento, para su validez deberá otorgarse por escrito y registrarse ante la Oficina rentística del lugar, en él deberá constar el monto de la renta en moneda nacional y contener cuando menos las siguientes estipulaciones:
+El contrato de arrendamiento, para su validez deberá otorgarse por escrito, cuando la renta pase de quinientos días de salario mínimo anual, pudiendo las partes registrarlo ante la Oficina Rentística del lugar, salvo cuando el periodo del arrendamiento sea mayor a seis años o cuando hubiere anticipos de rentas por más de tres, en cuyo caso será obligatoria su inscripción en el Registro Público de la Propiedad del distrito registral que corresponda, en los términos del Código Civil para el Estado de Michoacán. En él deberá constar el monto de la renta en moneda nacional y contener cuando menos las siguientes estipulaciones:
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 I. Nombres del arrendador y arrendatario;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
 II. La ubicación del inmueble;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 III. Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo;
 
-IV. La garantía, en su caso;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+IV. El fiador o la estipulación de garantía, en su caso;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 V. La mención del destino habitacional del inmueble arrendado;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
 VI. El término del contrato; y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
 VII. Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4o.
 
-El monto de la renta mensual, al inicio del contrato, será estipulado libremente por los contratantes. La renta sólo podrá incrementarse anualmente. Dicho incremento no excederá del setenta por ciento del porcentaje autorizado al salario mínimo general de la zona económica en donde se encuentre el inmueble, en el lapso anual próximo anterior a la fecha en que el contrato se renueve o se prorrogue.
+El monto de la renta mensual, al inicio del contrato, será estipulado libremente por los contratantes. La renta sólo podrá incrementarse anualmente, salvo convenio en contrario, pero siempre hasta en un diez por ciento del monto anterior de la renta.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
@@ -89,15 +103,17 @@ El arrendador que no haga las obras que ordene la autoridad sanitaria correspond
 
 El arrendamiento de fincas destinadas a la habitación no termina por la muerte del arrendador ni por la del arrendatario, sino sólo por los motivos establecidos en las Leyes.
 
-Con exclusión de cualquier otra persona, el cónyuge, la o el concubino, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieren habitado real y permanentemente el inmueble en vida del arrendatario.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+En el caso de la muerte del arrendatario, y de no existir convenio o acuerdo en contrario entre las partes, el cónyuge, la o el concubino, los hijos, los ascendientes en línea consanguínea o por afinidad del arrendatario fallecido, se subrogarán en los derechos y obligaciones de éste, en los mismos términos del contrato, siempre y cuando hubieren habitado real y permanentemente el inmueble en vida del arrendatario.
 
 No es aplicable lo dispuesto en el párrafo anterior a las personas que ocupen el inmueble como subarrendatarias, cesionarias o por otro título semejante que no sea la situación prevista en este artículo.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 8o.
 
-El arrendatario, si está al corriente en el pago de la renta, tendrá derecho a que, en igualdad de condiciones, se le prefiera a cualquier otro interesado en el nuevo arrendamiento del inmueble.
+El arrendatario, si está al corriente en el pago de la renta ha respondido, en su caso, de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios y ha utilizado el inmueble solamente para el uso convenido o conforme a la naturaleza y destino de ella, de manera licita y pacífica, tendrá derecho a que, en igualdad de condiciones, se le prefiera a cualquier otro interesado en el nuevo arrendamiento del inmueble. En cualquier otro caso el arrendador estará en libertad de solicitar la desocupación de la finca sin necesidad de desahucio.
 
 ###### Artículo 9o.
 
@@ -109,23 +125,25 @@ El arrendador estará obligado a otorgar al inquilino los recibos de pago corres
 
 ###### Artículo 11.
 
-El contrato de arrendamiento no requerirá más formalidad que la que establece esta Ley, cualquiera que sea el monto de la renta pactada.
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 2010)
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
-La renta deberá pagarse en el lugar y plazos señalados en el contrato, a falta de señalamiento, se pagará en la finca arrendada y por mes adelantado. Si el arrendador, correspondiéndole hacerlo, no se presenta a cobrarla o se rehusa a recibirla, el arrendatario se liberará de su obligación, depositando o consignando el importe de la misma ante el Juez competente.
+La renta deberá pagarse en el lugar y plazos señalados en el contrato, a falta de señalamiento, se pagará en la finca arrendada y por mes adelantado. Si el arrendador, correspondiéndole hacerlo, no se presenta a cobrarla o se rehusara a recibirla sin causa justificada, el arrendatario se liberará de su obligación, depositando o consignando el importe de la misma ante el Juez competente.
 
 ###### Artículo 13.
 
 Cuando se arriende una finca amueblada, o cuando la finca cuente con algún local anexo que se destine a uso distinto del de habitación, las disposiciones de esta ley sólo serán aplicables respecto de la finca en si misma considerada, debiendo ser objeto de contrato por separado y regirse por las disposiciones del Código Civil, en sus respectivos casos, el arrendamiento de los Inmuebles o de los locales anexos.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 14.
 
-La duración mínima de todo contrato de arrendamiento de fincas destinadas a la habitación será de un año forzoso para el arrendador y potestativo para el arrendatario. Este podrá darlo por terminado previo aviso que haga al arrendador, con dos meses de anticipación, e interviniendo un fedatario público o mediante diligencias de jurisdicción voluntaria.
+La duración mínima de todo contrato de arrendamiento de fincas destinadas a la habitación será de un año forzoso para el arrendador y potestativo para el arrendatario, salvo que cometa infracción a lo convenido o a sus obligaciones de ley, en cuyo caso el arrendador tendrá el derecho de rescindir el contrato. En estos casos las partes podrán darlo por terminado previo aviso que hagan a la contraparte, con dos meses de anticipación, e interviniendo dos testigos, un fedatario público o mediante diligencias de jurisdicción voluntaria.
 
-El contrato de arrendamiento será prorrogable a voluntad del arrendatario hasta por dos años, siempre y cuando se encuentre al corriente en el pago de las rentas, pero en lo relativo al aumento del monto de la renta, se estará a lo dispuesto por el Artículo 4o. de este Ordenamiento.
+En el caso del aviso previo de rescisión del contrato, el arrendatario deberá cubrir la renta hasta en tanto desocupe el inmueble.
 
 ###### Artículo 15.
 
@@ -133,43 +151,49 @@ En ningún caso podrá exigirse al arrendatario más de un mes de depósito en g
 
 ###### Artículo 16.
 
-Para la celebración del contrato de arrendamiento no podrá exigirse al arrendatario la constitución de fiador.
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 17.
 
 El arrendatario tendrá el derecho al tanto cuando el arrendador desee vender la finca arrendada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 18.
 
-Cuando la acción tenga por objeto únicamente obtener el pago de rentas insolutas, el juicio se dará por terminado si en cualquier tiempo y hasta antes de la citación para sentencia, el inquilino exhibe su importe o presenta los recibos de ellas, y el actor no los objeta de falsos.
+Cuando el arrendador promueva la acción que tenga por objeto únicamente obtener el pago de rentas insolutas, el juicio se dará por terminado si en cualquier tiempo y hasta antes de la citación para sentencia, el inquilino exhibe su importe o presenta los comprobantes de pago, y el actor no los objeta de falsos.
 
 En el primer caso, se condenará en costas al inquilino, y en el segundo, al arrendador.
 
 Si la acción sobre pago de rentas procede, la sentencia no se ocupará del desahucio si éste no se demandó.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 19.
 
-El arrendador deberá entregar la finca con expresa descripción de las partes de que se compone y el inquilino al concluir el arrendamiento, la devolverá tal como la recibió, salvo lo que hubiera menoscabado por el uso normal o por causas inevitables.
+El arrendador deberá entregar la finca con expresa descripción de las partes de que se compone y el inquilino al concluir el arrendamiento, la devolverá tal como la recibió, salvo lo que hubiera menoscabado por el uso normal o por causas inevitables. La ausencia de este requisito en cualquiera de los dos momentos, no invalidará el arrendamiento sino que equivaldrá a la tácita satisfacción de las partes.
 
 ###### Artículo 20.
 
-La Ley presume que el arrendador que entregó la finca arrendada sin la descripción a que se refiere el artículo anterior, la entregó tal como le fue devuelta, salvo prueba en contrario.
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 21.
 
-Para todos los efectos legales derivados de los contratos de arrendamiento de fincas destinadas a la habitación, el arrendador deberá exhibir necesariamente el contrato de arrendamiento.
+Para todos los efectos legales derivados de los contratos de arrendamiento de fincas destinadas a la habitación, las partes deberán exhibir necesariamente el contrato de arrendamiento.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 22.
 
-La sentencia definitiva que decrete el desahucio señalará un plazo no menor de quince días ni mayor de treinta para la desocupación, salvo lo dispuesto en el artículo siguiente.
+La sentencia definitiva que decrete el desahucio, señalará el plazo que para el efecto establece el Código de Procedimientos Civiles para el Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
-Lo dispuesto en el Artículo 22 no eximirá al arrendatario de la obligación de pagar las rentas correspondientes a los plazos que con base en dicho precepto se le concedan y se entenderá sin perjuicio del derecho que le confiere el párrafo segundo del Artículo 668 del Código de Procedimiento Civiles del Estado.
+Lo dispuesto en el artículo 22 no eximirá al arrendatario de la obligación de pagar las rentas correspondientes a los plazos que con base en dicho precepto se le concedan.
 
 ###### Artículo 24.
 
@@ -183,11 +207,11 @@ Lo dispuesto en este artículo es aplicable al embargo precautorio.
 
 En las oficinas rentísticas habrá un registro de contratos de arrendamiento, al que tendrán acceso todas las personas interesadas.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
-Los arrendadores, dentro de los treinta días siguientes a la firma del contrato, deberán presentarlo para su registro ante la oficina rentística correspondiente.
+Los arrendadores, dentro de los treinta días siguientes a la firma del contrato, deberán presentarlo, cuando sea el caso, para su registro ante la oficina rentística correspondiente.
 
 ###### Artículo 27.
 
@@ -205,19 +229,17 @@ Una vez cumplido el requisito del registro, el arrendador entregará al arrendat
 
 El arrendatario tendrá acción para demandar el registro mencionado y la entrega de la copia del contrato.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
-
 ###### Artículo 30.
 
-El inquilino tendrá derecho para registrar su copia del contrato de arrendamiento ante la autoridad correspondiente.
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 31.
 
 Los arrendadores tendrán derecho a pedir la rescisión del contrato de arrendamiento en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
-I. Por falta de pago de tres mensualidades;
+I. Por falta de pago de dos mensualidades consecutivas;
 
 II. Por el subarrendamiento total o parcial del inmueble sin el consentimiento escrito del propietario;
 
@@ -233,9 +255,17 @@ VII. Cuando la finca se encuentre en estado tan ruinoso que se haga necesaria su
 
 VIII. Cuando las condiciones sanitarias de la finca exijan su desocupación a juicio de las autoridades sanitarias;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
 IX. Cuando el arrendador necesite el inmueble para habitar en él, o para que lo habite algún pariente suyo, en primer grado.
 
-En este caso el arrendatario tendrá derecho a una compensación equivalente a 3 meses de arrendamiento, por la desocupación del inmueble en un plazo no mayor de 30 días.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+En este caso el arrendatario tendrá derecho a una compensación equivalente a dos meses de arrendamiento, por la desocupación del inmueble en un plazo no mayor de 30 días.
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+X. Cuando el arrendador tenga conocimiento de que el arrendatario, sus familiares, las personas que viven con él, o el subarrendatario, en su caso, realicen prácticas ilícitas o altere grave y sistemáticamente el entorno vecinal, de manera que causen perjuicio a la comunidad. En el primero de los casos, deberá mediar la correspondiente denuncia ante la autoridad por parte del arrendador; para el segundo, deberá sustentar la queja ante la autoridad municipal correspondiente y mediar testimonio de por lo menos tres vecinos que lo ratifiquen.
 
 La rescisión del contrato por cualquier otra causa, no dará derecho a indemnización alguna.
 
@@ -290,3 +320,13 @@ Los juicios y procedimientos judiciales en trámite, que tengan por objeto cualq
 ###### ARTICULO QUINTO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Notifíquese este Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales procedentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
