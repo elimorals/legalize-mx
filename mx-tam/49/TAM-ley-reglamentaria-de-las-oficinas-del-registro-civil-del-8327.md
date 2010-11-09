@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-de-las-oficinas-del-registro-civil-del-8327"
 country: "mx"
 rank: "ley"
 publication_date: "1940-10-30"
-last_updated: "1954-05-15"
+last_updated: "2010-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA DE LAS OFICINAS DEL REGISTRO CIVIL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial, el 30 de octubre de 1940.
 
@@ -143,97 +143,11 @@ Los derechos que causan los actos del Registro Civil, serán percibidos en la Co
 
 En las Congregaciones y demás poblados en donde existan Oficiales del Registro Civil y no haya Colecturía de Rentas, quedan facultados los Oficiales para hacer los cobros correspondientes, pero mensualmente liquidarán a la Colecturía de su jurisdicción lo recaudado, mediante relación pormenorizada del número y fecha de los actos que hayan dado origen al cobro.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
 ###### Art. 18.
 
-Los derechos que se causen por los actos que se practiquen en los términos de esta Ley y por las certificaciones relacionadas con los mismos actos, se sujetarán a las siguientes:
-
-T A R I F A S:
-
-I.- NACIMIENTOS
-
-1.- Por registrar acta de nacimiento.......................................................................$ 1.00
-
-2.- Por registrar acta de nacimiento de gemelos, triates o más..........................2.00
-
-3.- Por registrar informaciones testimoniales de nacimiento, a razón de $ 1.00 (un peso), por cada hoja.
-
-II.- M A T R I M O N I O S
-
-1.- Acto de presentación.........................................................................................$ 2.00
-
-2.- Acto de matrimonio en la Oficina del Registro Civil, en horas ordinarias ....10.00
-
-3.- Acto de matrimonio en la Oficina del Registro Civil en horas
-
-extraordinarias..........................................................................................................15.00
-
-4.- Acto de matrimonio fuera de la Oficina del Registro Civil, en horas ordinarias....................................................................................................................50.00
-
-5.- En horas extraordinarias.....................................................................................60.00
-
-6.- Todos aquellos actos que se verifiquen fuera de la localidad de la residencia del Oficial, causarán además un recargo de: $ 0.50 (cincuenta centavos) por cada kilómetro de ida y vuelta.
-
-7.- Por registrar informaciones testimoniales de matrimonio, a razón de: $ 1.00 (un peso) por hoja.
-
-III.
-
-D I V O R C I O S
-
-1.- Por registrar actas de divorcios relativos a matrimonios celebrados
-
-dentro del territorio del Estado......................................................................$10.00
-
-2.- Por registrar actas de divorcio relativos a matrimonios celebrados
-
-fuera del territorio del Estado........................................................................30.00
-
-IV.
-
-D E F U N C I O N E S
-
-El registro de actas de defunción no causará derechos.
-
-V.
-
-R E G U L A R I Z A C I O N E S
-
-El registro de actos celebrados en el extranjero o en alta mar, ya sean nacimientos, matrimonios o defunciones, causarán las cuotas correspondientes al acto.
-
-> <small>(DEROGADA POR EL ARTICULO SEXTO TRANSITORIO DE LA LEY REGLAMENTARIA PARA EL ESTABLECIMIENTO, ADMINISTRACION Y FUNCIONAMIENTO DE LOS PANTEONES EN EL ESTADO DE TAMAULIPAS, P.O. 10 DE FEBRERO DE 1954)</small>
-
-VI.
-
-I N H U M A C I O N E S Y E X H U M A C I O N E S
-
-VII.
-
-CERTIFICACIONFS (sic)
-
-1.- Certificaciones de constancias que obren en los libros del Registro Civil, siempre que consten de una sola hoja de papel especial (forma No. 86) y que se soliciten dentro de los treinta días siguientes a partir de la fecha en que se haya autorizado el acto de que se trate, por cada una.........................................................................................$ 1.00
-
-2.- Certificados que se soliciten después de un mes de autorizado el acto de que se trate y dentro de un año, por cada uno........................................................2.00
-
-3.- Certificados que se soliciten después de un año de autorizado el acto de que se trate, por cada uno ...................................................................................3.00
-
-4.- Certificados que se soliciten sin dar la fecha exacta en que se autorizó el acto de que se trate, teniendo derecho el interesado a que se haga la búsqueda en los libros de un quinquenio, por cada uno....................................................................................5.00
-
-5.- No causarán más derechos que los del papel especial para certificaciones (Forma No. 86), los certificados que se expidan para acreditar su estado civil a viudas pensionistas de empleados de la Federación o del Estado, con sueldo menor de $150.00 mensuales.
-
-6.-. Cuando el certificado comprenda más de una hoja de papel especial para certificaciones (Forma No. 86), se cobrará además de lo que marca la Tarifa $1.00 (un peso) por cada hoja.
-
-7.- Toda certificación de actos del Registro Civil deberá hacerse precisamente en papel especial para certificaciones (Forma No. 86), a razón de $0.50 (cincuenta centavos) por cada hoja. Los derechos de expedición conforme a Tarifa no incluyen el valor del papel que se necesite para cada Certificado.
-
-8.- Se exceptúan del requisito señalado en el Inciso anterior, los certificados que soliciten las autoridades Judiciales Federales o del Estado, por conducto del C. Gobernador, los cuales aparte de no causar los derechos correspondientes, serán extendidos en papel timbrado de la Oficina del Registro Civil respectiva.
-
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 1953)</small>
-
-VIII.
-
-LEGALIZACION DE FIRMAS
-
-1.- Por ratificación de firmas en documentos privados, presentados ante los Oficiales del Registro Civil, en los términos que autoriza el artículo 2166, reformado, del Código Civil vigente en el Estado por cada documento presentado en horas ordinarias.......................$ 5.00
-
-2.- Por ratificación de firmas en documentos privados presentados ante los Oficiales del Registro Civil en los términos que autoriza el artículo 2166 del Código Civil reformado, por cada documento presentado en horas extraordinarias.............................................$ 10.00
+Los derechos que se causen por los actos que se practiquen en los términos de esta Ley y por las certificaciones relacionadas con los mismos actos, se sujetarán a lo dispuesto en el apartado correspondiente de la Ley de Hacienda para el Estado de Tamaulipas.
 
 ###### Art. 19.
 
@@ -658,3 +572,9 @@ UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su 
 P.O. 15 DE MAYO DE 1954.
 
 UNICO.- Este Decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
