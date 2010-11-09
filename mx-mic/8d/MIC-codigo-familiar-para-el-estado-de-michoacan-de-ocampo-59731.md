@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-59731"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2010-03-31"
+last_updated: "2010-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FAMILIAR PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -294,6 +294,14 @@ El acta de nacimiento se levantará con asistencia de dos testigos.
 Contendrá la hora, día, mes, año y el lugar de nacimiento, el sexo del presentado, nombre propio y apellidos, la razón de si se ha presentado vivo o muerto; la huella dactilar del presentado.
 
 Si éste se presenta como hijo de progenitores desconocidos, el Oficial del Registro Civil le pondrá el nombre y apellidos, haciéndose constar esta circunstancia en el acta; de igual forma se hará constar cualquier otro dato que se haga necesario para la identidad personal.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+El Oficial del Registro Civil exhortará a quien presente al menor para su registro a que el nombre propio que vaya a otorgarle no sea peyorativo, discriminatorio, infamante, denigrante o carente de significado.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+También exhortará a evitar la multiplicidad de identidades u homonimias que puedan generar controversias judiciales en materia de identidad.
 
 De igual manera cuando por alguna causa una persona no hubiera sido registrada y se desconociera el paradero de sus padres, no pudieran comparecer o hubieran fallecido y éste fuera mayor de edad, podrá comparecer a solicitar su registro, debiendo el Oficial del Registro Civil asentar en éste únicamente el nombre y apellidos del registrado; ahora bien cuando se trate de un menor de edad que pretenda registrar a su hijo se estará a lo dispuesto por el artículo 347.
 
@@ -6208,3 +6216,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 31 DE MARZO DE 2010.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
