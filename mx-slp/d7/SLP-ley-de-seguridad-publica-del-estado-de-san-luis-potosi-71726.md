@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-seguridad-publica-del-estado-de-san-luis-potosi-71726"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-22"
-last_updated: "2009-12-22"
+last_updated: "2010-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 22 de diciembre de 2009.
 
@@ -751,9 +751,19 @@ XVII. Asistir a los cursos de capacitación, adiestramiento y especialización q
 
 XVIII. Entregar inmediatamente al causar baja del servicio, el arma de fuego, credencial, equipo policiaco, uniformes y divisas que les haya asignado la Secretaría o las direcciones municipales correspondientes o equivalente;
 
-XIX. Evitar presentarse con aliento alcohólico o en estado de embriaguez a su servicio, o bajo el efecto de enervantes o drogas, salvo que en éste último caso medie prescripción médica, lo que deberán hacer del conocimiento de la superioridad, y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
-XX. Las demás que señalen las leyes y reglamentos respectivos.
+XIX. Evitar presentarse con aliento alcohólico o en estado de embriaguez a su servicio, o bajo el efecto de enervantes o drogas, salvo que en éste último caso medie prescripción médica, lo que deberán hacer del conocimiento de la superioridad;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+XX. Prescindir durante el desempeño de sus funciones de portar y utilizar teléfono, radio, o cualquier otro medio o sistema de comunicación, que no les haya otorgado la corporación a la cual pertenecen;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+XXI. Evitar portar y utilizar armas de cualquier tipo que no se les haya otorgado por parte de la corporación a la cual pertenecen; tratándose de armas de fuego o de uso prohibido, se deberá poner al elemento infractor inmediatamente a disposición del Agente del Ministerio Público que corresponda, y
+
+XXII. Las demás que señalen las leyes y reglamentos respectivos.
 
 ### Capítulo IV. De sus Derechos
 
@@ -1448,3 +1458,13 @@ El Secretario General de Gobierno
 Lic. José Guadalupe Durón Santillán
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado y los ayuntamientos de la Entidad, a partir de la entrada en vigor de este Decreto, tendrán treinta días para reformar sus reglamentos respectivos, a fin de hacer viable su aplicación.
