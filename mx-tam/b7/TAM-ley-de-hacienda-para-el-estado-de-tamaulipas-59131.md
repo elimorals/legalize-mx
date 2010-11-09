@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2010-10-26"
+last_updated: "2010-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1145,7 +1145,9 @@ XX. Por la expedición de Cédula de Inspección vehicular documental y física,
 
 Se exime del pago de los derechos previstos por el artículo anterior, en los siguientes términos:
 
-I. De un 50 por ciento, a los comprendidos en las fracciones I, inciso a) y V; en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado. Tratándose de vehículos que se les asignen placas de circulación con identificación de "discapacitado", y que de acuerdo con la normatividad vigente, sus propietarios tengan derecho a ello, se eximirá el 100 por ciento; y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+I. De un 50 por ciento, a los comprendidos en las fracciones I, inciso a) y V; en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado. Tratándose de vehículos que se les asignen placas de circulación con identificación de "discapacitado", y que de acuerdo con la normatividad vigente, sus propietarios tengan derecho a ello, se eximirá el 100 por ciento; en el caso de que la persona propietaria del vehículo no sea la persona discapacitada, pero que acredite la utilización del mismo para el transporte y ejecución de las actividades cotidianas que debe realizar una persona con capacidades diferentes, se le otorgarán las placas con identificación de "discapacitado", y en cuyo caso no se aplicará la exención del pago de derechos por servicios para el control vehicular, siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior.
 
 II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado.
 
@@ -1718,6 +1720,12 @@ P.O. 15 DE OCTUBRE DE 2009.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE OCTUBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
