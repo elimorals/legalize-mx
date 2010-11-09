@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-civil-del-estado-de-san-luis-potosi-11990"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-27"
-last_updated: "1998-06-27"
+last_updated: "2010-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el sábado 27 de junio de 1998.
 
@@ -201,7 +201,9 @@ IV. El personal que se le asigne para su adecuado funcionamiento.
 
 Compete a la Unidad Estatal de Protección Civil:
 
-I.- Identificar y diagnosticar los riesgos a los que está expuesta la Entidad y sus habitantes, y elaborar el atlas estatal de riesgos.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+I.- Identificar y diagnosticar los riesgos a los que está expuesta la Entidad y sus habitantes; así como elaborar y actualizar el atlas estatal de riesgos.
 
 II.- Elaborar, instrumentar, coordinar y operar el Programa Estatal de Protección Civil.
 
@@ -239,13 +241,21 @@ XIII.- Establecer y coordinar el funcionamiento del Centro Estatal de Comando de
 
 XIV.- Establecer los mecanismos de comunicación tanto en situación normal como en caso de emergencia con el Centro de Comunicaciones de la Dirección General de Protección Civil.
 
-XV.- Promover la realización de cursos, ejercicios y simulacros que permitan mejorar la capacidad de respuesta de los participantes en los sistemas estatal y municipales.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+XV.- Promover la realización de cursos, ejercicios y simulacros en los lugares de mayor afluencia de personas, principalmente, oficinas públicas, planteles educativos, edificios privados, instalaciones industriales, comerciales y de servicios.
 
 XVI.- Fomentar la creación de una cultura de protección civil a través de la realización de eventos y campañas de difusión.
 
-XVII.- Registrar y expedir el certificado de autorización para el funcionamiento de los grupos de voluntarios, bomberos, paramédicos, organizaciones civiles lucrativas y no lucrativas y demás organismos afines, indicando el número del grupo voluntario, sus actividades, sus integrantes y la adscripción autorizada, y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
 
-XVIII.- Las demás atribuciones que le asigne el Consejo Estatal de Protección Civil, así como las previstas en su reglamento.
+XVII.- Registrar y expedir el certificado de autorización para el funcionamiento de los grupos de voluntarios, bomberos paramédicos, organizaciones civiles lucrativas y no lucrativas y demás organismos afines, indicando el número del grupo voluntario, sus actividades, sus integrantes y la adscripción autorizada.
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+
+XVIII.- Establecer programas educativos y de difusión, que permitan a la población conocer los mecanismos de ayuda en caso de emergencia, y
+
+XIX.- Las demás atribuciones que le asigne el Consejo Estatal de Protección Civil, así como las previstas en su reglamento.
 
 ###### ARTICULO 18.
 
@@ -594,3 +604,11 @@ LIC. FERNANDO SILVA NIETO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARTIN CELSO ZAVALA MARTINEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
