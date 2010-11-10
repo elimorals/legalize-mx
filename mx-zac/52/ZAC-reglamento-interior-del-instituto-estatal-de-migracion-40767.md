@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-del-instituto-estatal-de-migracion-40767"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-11"
-last_updated: "2008-09-06"
+last_updated: "2010-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE MIGRACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL DE MIGRACION, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2010., EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de agosto del 2004.
 
@@ -370,3 +372,11 @@ P.O. 6 DE SEPTIEMBRE DE 2008.
 Primero.- El presente acuerdo modificatorio del Reglamento Interior del Instituto Estatal de Migración entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se derogan las disposiciones que contravengan lo previsto en el presente instrumento.
+
+P.O. 10 DE NOVIEMBRE DE 2010.
+
+Primero.- El presente Reglamento Interior del Instituto Estatal de Migración, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior Estatal de Migración, publicado el día 11 de agosto del 2004, en Suplemento al Número 64, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Tercero.- Se derogan todas las disposiciones administrativas que contravengan el presente Instrumento.
