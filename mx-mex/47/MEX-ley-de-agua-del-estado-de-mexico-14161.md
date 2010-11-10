@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-agua-del-estado-de-mexico-14161"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-10"
-last_updated: "2009-08-17"
+last_updated: "2010-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL AGUA DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Cuarte de la Gaceta del Gobierno del Estado de México, el miércoles 10 de marzo de 1999.
 
@@ -100,6 +100,14 @@ XV. Drenaje: el servicio que proporcionan los organismos prestadores de los serv
 XVI. Infraestructura intradomiciliaria: las obras internas que requiere el usuario final de cada predio para recibir los servicios que establece esta ley.
 
 XVII. La Comisión: la Comisión del Agua del Estado de México.
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+XVII Bis. Medidor Convencional de Agua: Aparato que emplea un proceso mecánico para la operación, administración y medición del volumen de agua, que memoriza y visualiza en forma continua la cantidad de agua que pasa a través del transductor de medición, que reúna las especificaciones técnicas que para tal efecto señale la norma oficial mexicana correspondiente.
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+XVII Bis-A. Medidor Electrónico Inteligente de Agua: Aparato con capacidad de registrar e informar al usuario su medición propia del consumo de agua, así como otras variables y registrarlas en el medidor, con posibilidad de controlar otros dispositivos integrados en el cuerpo del aparato como válvulas de restricción del flujo, generando la estadística necesaria para mejorar el servicio y detectar el mal uso del líquido o del propio medidor.
 
 XVIII. Obras hidráulicas: el conjunto de obras y mecanismos construidos para el aprovechamiento, control o regulación del agua, así como para la prestación de los servicios a que se refiere la presente ley.
 
@@ -1654,3 +1662,13 @@ G.G 17 DE AGOSTO DE 2009.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 10 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Las reglas del Programa de Sustitución de Medidores Convencionales por Medidores Electrónicos Inteligentes para el Consumo de Agua, deberán publicarse y entrar en vigor a más tardar el primero de enero de 2011.
+
+CUARTO.- El primer día hábil de octubre de 2011, el Gobierno del Estado de México, a través de las secretarías de Finanzas y del Agua y Obra Pública, esta por conducto de la Comisión del Agua del Estado de México y en el ámbito de sus respectivas competencias, enviaran a la Legislatura un informe que dé a conocer el número de usuarios que participaron en el Programa de Sustitución de Medidores del Suministro de Agua Potable en cada Municipio, la magnitud y modalidad del subsidio que hubiese acordado otorgar, así como el endeudamiento registrado que contrajeron para adquirir los medidores inteligentes de agua.
