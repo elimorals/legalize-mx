@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-de-lo-contencioso-65714"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-19"
-last_updated: "2010-07-02"
+last_updated: "2010-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 19 de diciembre de 2008.
 
@@ -385,7 +385,7 @@ XV.- En el Diario de Control de Préstamo de Expedientes, deberán asentarse los
 
 El registro de los asuntos a que se refiere este artículo, podrá llevarse a cabo a través de medios electrónicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2010)</small>
 
 ARTÍCULO 27 BIS.- El Jefe de Administración del Tribunal, tendrá las siguientes atribuciones:
 
@@ -473,6 +473,32 @@ XVI.- Elaborar el inventario del equipo de cómputo y mantenerlo actualizado.
 
 XVII.- Las demás atribuciones que le sean encomendadas por el Pleno o por el Presidente del Tribunal.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2010)</small>
+
+ARTÍCULO 27 BIS 2.- El Coordinador de Amparos del Tribunal, tenderá (sic) las siguientes atribuciones:
+
+I.- Llevará el registro de las demandas de amparo recibidas en la Oficialía de Partes de la Sala Superior.
+
+II.- Elaborará los acuerdos en los que se tengan por presentadas las demandas de amparo, los requerimientos de copias, y todo acuerdo que se requiera dictar en relación con dichas demandas.
+
+III.- Recabará las notificaciones de los acuerdos que se hayan ordenado realizar, a quienes hayan sido designados como parte en el acuerdo de recepción de la demanda de amparo y de todos aquéllos acuerdos relacionados con dicha demanda.
+
+IV.- Redactará los informes justificados y recabará la firma correspondiente.
+
+V.- Obtendrá copia fotostática de los expedientes y recursos de revisión originales, a fin de certificarlos para devolverlos al Jefe de Archivo de la Sala que corresponda, y, una vez hecho esto, estar en posibilidad de remitir los expedientes originales, debidamente foliados y sellados, a los Tribunales Colegiados de Circuito, conjuntamente con el informe justificado respectivo.
+
+VI.- Hacer entrega a la asistente del Departamento de Actuaría de los oficios con los que se rindan los informes justificados y se remitan el original de la demanda de amparo con sus copias y los expedientes originales del Expediente Principal y del recurso o recursos de revisión, a fin de que por conducto del actuario, sean presentados ante la Oficialía de Partes Común de los Tribunales Colegiados de Circuito, para su tramitación.
+
+VII.- Llevar el resguardo de los cuadernos de amparo en trámite de las Salas del Tribunal.
+
+VIII.- Efectuar una revisión periódica a los cuadernos de amparo en trámite, a fin de depurar los que se hayan concluido.
+
+IX.- Brindar la atención solicitada por las personas que sean parte en los juicios contenciosos en los que se haya promovido demanda de amparo, o, a sus abogados autorizados.
+
+X.- Rendir al Presidente del Tribunal, un informe sobre los juicios en trámite cuando se le solicite.
+
+XI.- Todas las demás atribuciones que le encomiende el Pleno o el Presidente del Tribunal.
+
 C A P I T U L O N O V E N O (SIC)
 
 DE LA COMISION INTERNA DE REVISION Y EVALUACION DE PROCEDIMIENTOS
@@ -525,7 +551,7 @@ SECRETARIO GENERAL DE ACUERDOS
 
 C. LIC. MARÍA GUADALUPE TREVIÑO TORRES
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE JULIO DE 2010.
 
@@ -536,3 +562,13 @@ Las reformas del Reglamento Interior del Tribunal de lo Contencioso Administrati
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones de igual o menor rango que se opongan a las citadas reformas.
+
+P.O. 10 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La adición del Reglamento Interior del Tribunal de lo Contencioso Administrativo para el Estado, acordada por el Pleno de dicho Tribunal, contenida en el presente acuerdo, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan a la citada adición.
