@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-10-04"
+last_updated: "2010-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -645,7 +645,7 @@ XXI Bis. Promover políticas públicas apoyadas en sistemas de financiamiento, c
 
 XXI Ter. Promover, desarrollar, vigilar y evaluar en su municipio, los programas en materia de protección civil;
 
-Los programas de protección civil se integrarán con tres subprogramas.
+Los programas de protección civil se integrarán con tres subprogramas:
 
 a). Prevención
 
@@ -1697,6 +1697,10 @@ II. Estimación de los ingresos y gastos del ejercicio fiscal calendarizados;
 
 III. Situación de la deuda pública.
 
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+El proyecto de presupuesto de egresos deberá realizarse con base en los criterios de proporcionalidad y equidad, considerando las necesidades básicas de las localidades que integran al municipio.
+
 ###### Artículo 102.
 
 Los municipios solo podrán contraer obligaciones directas y contingentes derivadas de créditos en los términos que establece la Ley de Deuda Pública Municipal del Estado.
@@ -1801,7 +1805,7 @@ Artículo 113 G.- Las dependencias y entidades señaladas en el artículo anteri
 
 > <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
 
-Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
+Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas. y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
 
 ###### Artículo 110.
 
@@ -2982,3 +2986,9 @@ G.G. 4 DE OCTUBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 10 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
