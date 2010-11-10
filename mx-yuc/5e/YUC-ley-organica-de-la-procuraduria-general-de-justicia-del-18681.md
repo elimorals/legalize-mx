@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-procuraduria-general-de-justicia-del-18681"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-30"
-last_updated: "2010-09-07"
+last_updated: "2010-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA FISCALIA GENERAL DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 10 DE NOVIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo del 2000.
 
@@ -1060,3 +1062,33 @@ Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del a�
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O. 10 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día primero de marzo del año dos mil once, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor de esta Ley, quedará abrogada la Ley Orgánica de la Procuraduría General de Justicia del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán con fecha veintinueve de marzo del año dos mil.
+
+###### ARTÍCULO TERCERO.
+
+El Gobernador expedirá el Reglamento de esta Ley dentro de los noventa días naturales contados a partir del día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+Se faculta al Gobernador, conforme a lo dispuesto por esta Ley para dictar las medidas administrativas necesarias que se requieran para resolver las cuestiones urgentes que puedan suscitarse.
+
+###### ARTÍCULO QUINTO.
+
+El personal de la Procuraduría General de Justicia del Estado encargado de llevar a cabo las funciones del Ministerio Público, antes de la entrada en vigor de esta Ley, deberá ser evaluado por el Centro Estatal de Evaluación y Control de Confianza dentro del plazo y bajo las condiciones señaladas en las disposiciones legales aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Los requisitos previstos para ingresar a laborar a la Fiscalía General del Estado de Yucatán, en virtud de la implementación del Sistema de Justicia Penal regulado por el Código Procesal Penal del Estado de Yucatán, serán dispensados por única ocasión para los trabajadores que se encuentren laborando actualmente en la Procuraduría General de Justicia del Estado, pero no se dispensarán los requisitos para permanecer laborando en la Fiscalía General del Estado de Yucatán.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones legales y reglamentarias, y en general los documentos en que se haga alusión a la Procuraduría General de Justicia del Estado de Yucatán o al Procurador General de Justicia del Estado de Yucatán, se entenderán referidos a la Fiscalía General del Estado de Yucatán o al Fiscal General del Estado de Yucatán, respectivamente; a partir de la entrada en vigor de esta ley.
