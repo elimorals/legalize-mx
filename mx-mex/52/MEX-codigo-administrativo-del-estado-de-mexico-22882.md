@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2010-11-04"
+last_updated: "2010-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -3659,11 +3659,9 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, Cultura y Bienestar Social, serán sancionadas con multa de cien a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 291, SE MODIFICA EL CONTENIDO Y ESTRUCTURA DEL PRESENTE LIBRO.</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-# LIBRO CUARTO. Del Turismo Sustentable
+# LIBRO CUARTO. DEL TURISMO
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3673,7 +3671,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 ### CAPITULO TERCERO. De las Autoridades y sus Atribuciones
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -3691,15 +3689,25 @@ I. Posicionar al turismo como actividad prioritaria en las agendas estatal y mun
 
 II. Fortalecer el desarrollo turístico de la entidad a través de una estrategia de turismo sustentable;
 
-III. Fomentar la inversión pública y privada (nacional y extranjera) en esta materia, como detonante del desarrollo turístico en la entidad;
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+III. Fomentar la inversión pública y privada (nacional y extranjera) en esta materia, como detonante del desarrollo turístico en la entidad, que permita generar productos turísticos sustentables;
 
 IV. Impulsar una cultura de "turismo de calidad", como medio para elevar la competitividad y productividad de la oferta turística en el Estado;
 
 V. Desarrollar propuestas de turismo alternativo en la entidad que garanticen su diversificación;
 
-VI. Ofrecer condiciones de satisfacción y seguridad a los visitantes;
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-VII. Promover una cultura turística entre los mexicanos.
+VI. Ofrecer condiciones de satisfacción y seguridad a los turistas;
+
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+VII. Promover una cultura turística entre los mexicanos; y
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Fomentar acciones que garanticen un turismo para todos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3717,77 +3725,149 @@ II. Secretaría.- La Secretaría de Turismo del Estado de México;
 
 III. Sector.- Todas aquellas entidades públicas, sociales y privadas que intervengan en la prestación de servicios turísticos en el Estado;
 
-IV. Turista.- La persona física nacional o extranjera que viaja trasladándose temporalmente fuera de su domicilio o residencia habitual y que contrata o utiliza cualquiera de los servicios a que se refiere este Libro u otros ordenamientos legales aplicables;
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+IV. Turista.- La persona que viaja, trasladándose temporalmente fuera de su residencia habitual, así mismo contrata y/o utiliza cualquiera de los servicios a que se refiere este Libro u otros ordenamientos legales aplicables.
+
+Lo anterior sin perjuicio de lo establecido para efectos migratorios por la Ley General de Población;
 
 V. Oferta Turística.- El conjunto de bienes y servicios turísticos, así como los atractivos culturales, históricos, naturales y recreativos que se ofrecen al turista dentro del Estado que generan diversos tipos de turismo, cuyas definiciones quedaran establecidas en las disposiciones reglamentarias;
 
 VI. Demanda Turística.- El conjunto de personas que al desplazarse fuera de su lugar de residencia habitual hacen uso de los bienes y servicios turísticos, así como de los atractivos culturales, históricos, naturales y recreativos dentro del Estado;
 
-VII. Actividades Turísticas.- Todas las acciones provenientes de personas físicas o jurídicas, cuya intención sea invertir, desarrollar o comercializar destinos y atractivos turísticos, producir, industrializar y comercializar bienes u ofrecer servicios vinculados y relacionados con los fines mismos del turismo;
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-VIII. Servicios Turísticos.- Bienes y servicios que se otorgan a las personas que se desplazan de su domicilio o residencia habitual con la intención de visitar lugares que les proporcionen esparcimiento, descanso, salud, cultura, entretenimiento, diversión o recreo generándose de estas actividades beneficios económicos y sociales que contribuyen al desarrollo del Estado.
+VII. Actividades Turísticas.- Las acciones provenientes de personas, cuya intención sea invertir, desarrollar o comercializar en destinos y atractivos turísticos, producir, industrializar, comercializar bienes u ofrecer servicios vinculados y relacionados con los fines mismos del turismo;
+
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Servicios Turísticos.- Aquellos que van dirigidos a atender las necesidades de los turistas, generándose de éstos beneficios económicos y sociales que contribuyen al desarrollo del Estado;
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+IX. Prestadores de Servicios Turísticos.- Las personas que ofrezcan, proporcionen, o contraten con el turista algún servicio relacionado con las actividades turísticas de éste;
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+X. Turismo Sustentable.- El desarrollo de la actividad turística basado en un equilibrio entre el aprovechamiento y la preservación del patrimonio natural y cultural, su viabilidad económica y la equidad social para las comunidades con vocación turística; y
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+XI. Turismo para todos.- El desarrollo de la actividad turística que tiene como objetivo el desarrollo de la persona, así como el desarrollo regional equitativo, incluyente, accesible, formativo, sustentable y que sea rentable.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO UNICO. De las Zonas de Interes Turístico
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-4.- Son autoridades en materia de turismo:
+4.- Son autoridades responsables para la aplicación del presente libro:
 
-I. El Ejecutivo del Estado;
+I. El Titular del Ejecutivo del Estado de México;
 
-II. La Secretaría de Turismo;
+II. La Secretaría de Turismo del Estado de México; y
 
-III. Los Municipios.
+III. Los Municipios a través de los Ayuntamientos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-###### Artículo 4.
-
-5.- Son atribuciones del Ejecutivo Estatal, que se ejercerán a través de la Secretaría:
-
-I. Planear, programar, ordenar, clasificar, normar, promover, fomentar y regular la actividad turística sustentable y el desarrollo artesanal en el Estado;
-
-II. Elaborar y proponer al Ejecutivo Estatal para su aprobación el Programa Estatal de Turismo Sustentable, en congruencia con el Plan Estatal de Desarrollo 2005-2011; y conforme a lo que se establezca en las disposiciones reglamentarias que se deriven de esta norma;
-
-III. Establecer los lineamientos generales para la elaboración de los Programas Municipales de Turismo Sustentable;
-
-IV. Proponer al Ejecutivo del Estado las zonas de interés turísticos para su aprobación y generar los decretos correspondientes;
-
-V. Instrumentar las medidas conducentes y los medios necesarios para la correcta vinculación y colaboración entre las diferentes dependencias del gobierno estatal en apoyo a los programas de desarrollo turístico;
-
-VI. Suscribir convenios con los diferentes niveles de gobierno, así como con las entidades sociales, privadas y particulares, para fomentar y desarrollar el turismo sustentable en el Estado;
-
-VII. Las demás que en materia de turismo señalen otros ordenamientos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-6.- Los Municipios tendrán las siguientes atribuciones:
+5.- Son atribuciones del Titular del Ejecutivo Estatal:
 
-I. Elaborar el Programa Municipal de Turismo Sustentable;
+I. Aprobar el Programa Estatal de Turismo Sustentable;
+
+II. Aprobar las zonas de interés turístico sustentable;
+
+III. Presidir el Consejo Consultivo Estatal; y
+
+IV. Las demás que le confieran las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 4.
+
+5 Bis.- Son atribuciones de la Secretaría de Turismo:
+
+I. Planear, programar, ordenar, clasificar, promover, fomentar y regular la actividad turística sustentable y el desarrollo artesanal en el Estado;
+
+II. Elaborar y proponer al Titular del Ejecutivo Estatal para su aprobación el Programa Estatal de Turismo Sustentable, en congruencia con el Plan Estatal de Desarrollo; y conforme a lo que se establezca en las disposiciones legales aplicables;
+
+III. Establecer los lineamientos generales para la elaboración de los Programas Municipales de Turismo;
+
+IV. Proponer al Titular del Ejecutivo Estatal las zonas de interés turístico sustentable para su aprobación;
+
+V. Instrumentar las medidas conducentes y los medios necesarios para la correcta vinculación y colaboración entre los diferentes órdenes de gobierno en apoyo a los programas de desarrollo turístico;
+
+VI. Suscribir convenios para fomentar y desarrollar el turismo sustentable en el Estado;
+
+VII. Fomentar, en coordinación con los Ayuntamientos de los municipios, acciones y/o programas para el desarrollo de un turismo para todos; y
+
+VIII. Las demás que en materia de turismo señalen otros ordenamientos.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 4.
+
+6.- Los Municipios, a través de los Ayuntamientos, tendrán las siguientes atribuciones:
+
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+I. Elaborar conforme a los lineamientos establecidos, el Programa Municipal de Turismo y hacerlo del conocimiento de la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
 
 II. Promover un turismo de calidad, acorde con las expectivas (sic) y demandas de los turistas;
 
-III. Proponer incentivos para quienes desarrollen proyectos turísticos con enfoque del desarrollo sustentable;
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-IV. Orientar y asesorar a los prestadores de servicios e inversionistas en materia turística en la gestión de licencias y permisos;
+III. Otorgar incentivos para quienes desarrollen proyectos turísticos con enfoque del desarrollo sustentable;
+
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+IV. Orientar a los prestadores de servicios e inversionistas en materia turística en la gestión de licencias y permisos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
 
 V. Proteger los derechos de los turistas y establecer medidas adicionales de seguridad y auxilio;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
+
 VI. Promover la capacitación de los trabajadores e impulsar el empleo de mano de obra local en las instalaciones turísticas existentes;
 
-VII. Elaborar los Reglamentos de Imagen Urbana y los Decretos de Patrimonio Histórico Inmobiliario correspondientes;
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+VII. Elaborar los Reglamentos de Imagen Urbana y observar las disposiciones de los Decretos de Patrimonio Histórico Inmobiliario correspondientes, conservando y preservando el entorno urbano del municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
 
 VIII. Coadyuvar con las autoridades estatales en la observancia y cumplimiento de las normas oficiales turísticas aplicables, así como en el cumplimiento de las obligaciones fiscales por parte de los prestadores de servicios turísticos;
 
-IX. Las demás que este Libro y otros ordenamientos legales señalen.
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+IX. Integrar el Consejo Consultivo de Turismo Municipal, que tendrá por objeto, proponer y formular estrategias y acciones a la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la actividad turística en el Municipio;
+
+Será integrado por el Presidente Municipal, y los funcionarios que éste determine, conforme a lo que establezcan las disposiciones reglamentarias;
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+X. Mantener actualizado un registro municipal de prestadores de servicios turísticos, e informar a la Secretaría a más tardar en los meses de marzo y octubre, para la actualización del Registro Estatal de Prestadores de Servicios Turísticos;
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+XI. Informar a la Secretaría las inversiones que en materia turística se generen en sus municipios; y
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+XII. Las demás que este Libro y otros ordenamientos jurídicos señalen.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+
+### CAPITULO PRIMERO. Objeto del Fomento del Turismo
+
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -3795,127 +3875,197 @@ IX. Las demás que este Libro y otros ordenamientos legales señalen.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. De la Promoción Turística
+## TITULO TERCERO. Del Fomento del Turismo
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-###### Artículo 4.
+### CAPITULO SEGUNDO. Del Desarrollo Turístico
 
-8.- Podrán ser consideradas como zonas de Interés Turístico aquellas que a juicio de la Secretaría constituyan un importante destino turístico por sus características histórico-culturales o naturales. Los Municipios, por su parte, podrán presentar ante la Secretaría, proyectos de declaratoria de sus respectivos territorios.
-
-En todos los casos, la selección de las zonas de Interés Turístico deberá considerar los criterios de sustentabilidad en el Artículo 4.1 segundo párrafo del presente Libro.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-## TITULO TERCERO. Promoción y Fomento del Turismo Sustentable
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-### CAPITULO SEGUNDO. De las Actividades de la Promoción Turística
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-9.- La Secretaría, en uso de sus facultades, formulará los proyectos de decretos para las declaratorias de Zonas de Interés Turístico, en coordinación con entidades municipales, estatales y federales vinculadas al desarrollo sustentable, para aprobación del Gobernador del Estado.
+8.- Podrán ser consideradas como Zonas de Interés Turístico, aquellas que a juicio de la Secretaría constituyan un importante destino turístico por sus características histórico-culturales o naturales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+En todos los casos, la selección de las Zonas de Interés Turístico deberán considerar los criterios de sustentabilidad que se establecen en el Artículo 4.3 fracción X del presente Libro.
 
 ###### Artículo 4.
 
-10.- Para efectos de este Libro, se consideran como servicios turísticos, los prestadores (sic) a través de:
+9.- (DEROGADO, G.G. 10 DE NOVIEMBRE DE 2010)
 
-I. Establecimientos de hospedaje que presten servicios de pernocta a los turistas: hoteles, auto hoteles, hostales, albergues estudiantes o no, campamentos, departamentos turísticos, bungaloes, cabañas, refugios, paradores de casas rodantes y demás establecimientos similares;
-
-II. Quedan exceptuadas las actividades de alojamientos que tengan fines institucionales, sociales, asistenciales, o de carácter docente o aquellas que se desarrollen en el marco de programas dirigidos a la infancia y a la tercera edad;
-
-III. Restaurantes, cafeterías, bares, centros nocturnos, comercios con orientación turística y similares que se encuentren ubicados en hoteles, moteles, albergues, campamentos, paradores de casas rodantes a que se refiere la fracción I de este artículo; en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos y zonas arqueológicas, profesiones turísticas como guías de turistas encargados de orientar, informar y asistir en materia de turismo;
-
-IV. Quedan excluidos los servicios de comidas de carácter asistencial, institucional, laboral, social, centros docentes y sociedades gastronómicos, catering y cualquier otro destinado a grupos especiales y no al público en general;
-
-V. Las demás que reglamentariamente sean establecidas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO CUARTO. Clasificación, Ordenamiento y Registro de los Servicios Turísticos
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO TERCERO. Del Fomento al Turismo
+### CAPITULO TERCERO. De la Inversión Turística
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-###### Artículo 4.
-
-11.- La Secretaría y los Ayuntamientos con vocación turística, en el ejercicio de sus atribuciones en la materia, llevarán a cabo la promoción turística de sus destinos, debiendo realizar (sic) de manera veraz y propositiva.
-
-La Secretaría y los Municipios, en el ejercicio de sus atribuciones, podrán suscribir convenios con entidades públicas y con organismos mixtos para instrumentar campañas de promoción turística; también podrán hacerlo con prestadores de servicios turísticos nacionales extranjeros y con los particulares interesados en incrementar la afluencia turística al Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-12.- Se consideran actividades de promoción, entre otras, las siguientes:
+10.- El fomento del turismo tiene por objeto la realización de obras, acciones y programas encaminados a promover e incentivar inversiones, o cualquier otro tipo de apoyos destinados a estimular la demanda turística, favoreciendo el turismo de la entidad.
 
-I. Ejecución de estudios y proyectos de investigación en materia de promoción turística;
+###### Artículo 4.
 
-II. Elaboración de planeas (sic) y programas dirigidos al fomento del sector turístico;
+11.- (DEROGADO, G.G. 10 DE NOVIEMBRE DE 2010)
 
-III. Elaboración de planeas (sic) y programas de promoción y comercialización exterior de los destinos, productos, servicios y empresas prestadoras de servicios turísticos;
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-IV. Diseño y ejecución de campañas de promoción turística del Estado;
+### CAPITULO CUARTO. De la Promoción Turística
 
-V. Participación en ferias, congresos o reuniones referentes a la oferta de servicios turísticos, y a la promoción y comercialización de la actividad turística;
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-VI. Asesoría técnica en materia de promoción a empresas prestadoras de servicios turísticos;
+###### Artículo 4.
 
-VII. Convenios de coordinación entre entidades públicas y privadas en materia de promoción turísticas;
+12.- El desarrollo turístico tiene por objeto la ejecución de planes, programas y proyectos para la creación de nuevos destinos y productos turísticos, y la consolidación de los ya existentes, mediante la ejecución de obras, acciones, profesionalización y capacitación de prestadores de servicios turísticos, bajo un estricto cumplimiento de la normatividad aplicable.
 
-VIII. Instalación de oficinas de información turística y señalización de los destinos turísticos.
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+###### Artículo 4.
+
+12 Bis.- Se consideran actividades de desarrollo turístico, entre otras, las siguientes:
+
+I. Coordinar la ejecución de obras y acciones que favorezcan la consolidación de destinos turísticos;
+
+II. Brindar asesoría y promover el desarrollo de nuevos productos turísticos;
+
+III. Fomentar la profesionalización de los prestadores de servicios turísticos;
+
+IV. Impulsar la formación de recursos humanos en la prestación de servicios turísticos;
+
+V. Brindar asesoría en la operación de la actividad turística para que ésta se desarrolle en un marco de legalidad; y
+
+VI. Coordinar acciones de verificación de cumplimiento de la norma a los prestadores de servicios turísticos.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO PRIMERO. Del Ordenamiento y Clasificación de los Servicios Turísticos
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-13.- Se entiende por fomento al turístico (sic), aquellas obras, acciones o programas encaminados a crear líneas de ayuda, créditos, subvenciones, incentivos, inversiones o cualquier otro tipo de apoyos destinados a estimular y favorecer el desarrollo turístico de las comunidades.
+13.- La inversión turística tiene por objeto la aplicación de recursos financieros en la creación, renovación, ampliación y mejora de los proyectos turísticos privados.
 
-La Secretaría, en ejercicio de sus atribuciones, diseñará y propondrá al Ejecutivo Estatal el o los mecanismos y organismos técnicos necesarios para incentivar la inversión turística pública y privada del Estado.
+La Secretaría, en ejercicio de sus atribuciones, diseñará el o los mecanismos y organismos técnicos necesarios para incentivar la inversión turística pública y privada del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-14.- La Secretaría promoverá la clasificación de los servicios turísticos que se ofrecen en el Estado, para lo cual podrá investigar y desarrollar los sistemas propios o celebrar convenios con otras entidades gubernamentales así como con profesionales independientes especializados en la materia. En todos los casos, el sistema de clasificación que sea elegido deberá considerar los criterios de sustentabilidad enunciados en el Artículo 4.1 segundo párrafo del presente Libro.
+13 Bis.- Se consideran actividades de inversión turística, entre otras las siguientes:
 
-Los propósitos de la clasificación son:
+I. Proporcionar asesoría técnica en materia de inversión turística para el desarrollo de proyectos;
 
-I. Proveer a los turistas de información veraz sobre los productos turísticos ofrecidos;
+II. Coordinar y supervisar la elaboración de planes de negocios dirigidos a la inversión turística;
 
-II. Contar con una herramienta de protección al consumidor en términos de los alcances de las facilidades y servicios turísticos ofertados;
+III. Gestionar ante diferentes entidades del sistema financiero recursos para desarrollar proyectos turísticos;
 
-III. Buscar compatibilidad con los sistemas de clasificación internacional;
+IV. Colaborar conjuntamente con los Ayuntamientos para atraer proyectos de inversión, así como generar la información en materia de inversión turística;
 
-IV. Servir de referente para el control y monitoreo de tarifas.
+V. Promover la colaboración entre entidades públicas y privadas, en materia de inversión turística; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+VI. Brindar asistencia técnica a inversionistas para generar proyectos turísticos impulsando la coinversión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO. Del Registro Estatal de Prestadores de Servicios Turísticos
 
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 4.
+
+13 Ter.- La promoción turística tiene por objeto la difusión de los destinos, atendiendo a sus fortalezas y de acuerdo a las oportunidades del mercado, en coordinación con los Ayuntamientos y empresarios del sector, con el propósito de incrementar el número de turistas, la frecuencia de sus viajes y su permanencia.
+
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 4.
+
+13 Quáter.- Se consideran actividades de promoción turística, entre otras, las siguientes:
+
+I. Establecer los lineamientos y estrategias de promoción de los destinos turísticos;
+
+II. Difundir permanentemente los destinos turísticos de la entidad en los principales medios publicitarios;
+
+III. Integrar y actualizar una base de datos y un banco de imágenes confiable, que reúna la información técnica de los destinos turísticos;
+
+IV. Desarrollar estudios y proyectos de investigación en materia de promoción turística;
+
+V. Elaborar materiales de promoción y difusión, impresos, multimedia y de cualquier otra naturaleza;
+
+VI. Definir y coordinar la participación en ferias y exposiciones especializadas, nacionales y extranjeras;
+
+VII. Fomentar la participación de los Ayuntamientos y empresarios del sector para llevar a cabo campañas cooperativas de promoción; y
+
+VIII. Proporcionar asesoría en materia de promoción a los Ayuntamientos y empresarios que así lo requieran.
+
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 4.
+
+13 Quintus.- La Secretaría y los Ayuntamientos, en el ejercicio de sus atribuciones en la materia, llevarán a cabo la promoción turística de sus destinos, debiéndola realizar de manera veraz y propositiva.
+
+La Secretaría y los Municipios, en el ejercicio de sus atribuciones, podrán suscribir convenios con entidades públicas y con organismos mixtos para instrumentar campañas de promoción turística; también podrán hacerlo con prestadores de servicios turísticos para incrementar la afluencia turística al Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+
+## TITULO QUINTO. Normatividad y Certificación de la Actividad Turística
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+
+### CAPITULO PRIMERO. De las Normas de Turismo
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 4.
 
-15.- El objeto del Registro Estatal de Prestadores de Servicios Turísticos es el de contar con una base de datos clasificada sobre el tipo, ubicación, especialidad, giro y demás características de las empresas turísticas en la entidad.
+14.- La Secretaría, en atención a estándares nacionales e internacionales, promoverá la clasificación de los servicios turísticos que se ofrecen en el Estado, para lo cual podrá investigar y desarrollar los sistemas propios o celebrar convenios con otras entidades gubernamentales así como con profesionales independientes especializados en la materia. En todos los casos, el sistema de clasificación que sea elegido deberá considerar los criterios de sustentabilidad enunciados en el Artículo 4.3 del presente Libro.
 
-Los prestadores de servicios turísticos que operen en el Estado deberán tramitar ante la Secretaría, su inscripción, la cual será de carácter obligatorio. El sistema de clasificación de los servicios turísticos que establezca la Secretaría será de carácter indicativo para el Registro, independientemente de cualquier otra clasificación a la que puedan recurrir los prestadores de servicios turísticos, de manera independiente.
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-Para tal efecto, la Secretaría determinará mediante Reglamento, los servicios turísticos que estarán sujetos a esta normatividad, así como los requisitos, condiciones y documentación necesarios.
+Los objetivos de la clasificación de los servicios turísticos son:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+I. Proveer a los turistas de información veraz sobre los servicios turísticos ofrecidos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 6 DE AGOSTO DE 2009)</small>
+
+II. Contar con una herramienta de protección al consumidor en términos de los alcances de las facilidades y servicios turísticos ofertados;
+
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+III. Buscar compatibilidad con los estándares de clasificación internacional; y
+
+> <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+IV. Fomentar la constante mejora de la calidad de la prestación de los servicios turísticos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+
+### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+
+###### Artículo 4.
+
+15.- El objeto del Registro Estatal de Prestadores de Servicios Turísticos es el de contar con una base de datos clasificada sobre el tipo, ubicación, especialidad, giro y demás características de los mismos en la entidad.
+
+El sistema de clasificación de los servicios turísticos que establezca la Secretaría será de carácter indicativo para el Registro, independientemente de cualquier otra clasificación a la que puedan recurrir los prestadores de servicios turísticos.
+
+Para tal efecto, la Secretaría determinará los servicios turísticos que estarán sujetos a esta normatividad, así como los requisitos, condiciones y documentación necesarios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+
+## TITULO SEXTO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos y de los Turistas
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO PRIMERO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos
+
+> <small>(REFORMADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -3925,9 +4075,9 @@ La Secretaría podrá participar también en los comités consultivos nacionales
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-### CAPITULO PRIMERO. De las Normas de Turismo
+### CAPITULO SEGUNDO. De los Derechos y Obligaciones de los Turistas
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -3945,105 +4095,117 @@ La Secretaría será la responsable de desarrollar y reglamentar el procedimient
 
 En cualquier caso, la Secretaría tomará siempre en consideración todos los parámetros establecidos en el Artículo 4.1 de turismo sustentable.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-###### Artículo 4.
-
-18.- La Secretaría realizará actos de inspección y vigilancia aleatoria a los prestadores de servicios turísticos y administradores de destinos turísticos, para constatar el debido cumplimiento de las obligaciones y la observancia de las normas, procedimientos y demás preceptos regulatorios establecidos en el presente Libro, así como en las demás disposiciones jurídicas en la materia aplicables.
-
-Para tal efecto se consideran funciones de la inspección las siguientes:
-
-I. Verificar las condiciones generales y los requisitos técnicos establecidos en las normas turísticas oficiales, a los prestadores de servicios turísticos y a los administradores de destinos turísticos;
-
-II. Comprobar presuntas infracciones en materia turística;
-
-III. Asesorar a los prestadores de servicios turísticos y administradores de destinos turísticos para un mejor cumplimiento de sus obligaciones, así como las prescripciones técnicas en los proyectos por ejecutarse;
-
-IV. Las demás que puedan ser atribuidas legalmente.
-
-La Secretaría, en el ejercicio de sus funciones, regulará mediante el Reglamento correspondiente, los alcances, medios y procedimientos de inspección.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-###### Artículo 4.
-
-19.- Las sanciones se impondrán con fundamento en lo establecido con el Código de Procedimientos Administrativos del Estado de México y del Código de Procedimientos Administrativos del Estado de México y del Código Financiero del Estado de México.
-
-## TITULO QUINTO. Normatividad y Certificación de la Actividad Turística
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-###### Artículo 4.
-
-20.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
-
-### CAPITULO PRIMERO. De la Inspección de la Actividad Turística
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-###### Artículo 4.
-
-21.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
-
-## TITULO SEXTO. Inspección y Régimen Sancionador
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-### CAPITULO SEGUNDO. Del Régimen Sancionador
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
-
-###### Artículo 4.
-
-22.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 4.
 
-23.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+18.- Los prestadores de servicios turísticos legalmente registrados, tendrán los siguientes derechos:
 
-> <small>(DEROGADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+I. Participar en el Consejo Consultivo Local, previa convocatoria de la Secretaría;
 
-## TITULO PRIMERO. Disposiciones generales
+II. Aparecer en el Registro Estatal de Turismo;
+
+III. Participar en los programas del sector turístico, que promueva o lleve a cabo la Secretaría, de acuerdo a las reglas de operación de los mismos;
+
+IV. Solicitar al personal encargado de las visitas de inspección y demás procedimientos de verificación, se identifiquen y presenten la documentación que autoriza su actuación; y
+
+V. Los demás que establezca el reglamento.
+
+> <small>(REFORMADO Y REUBICADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 4.
+
+19.- Son obligaciones de los prestadores de servicios turísticos:
+
+I. Anunciar visiblemente en los lugares de acceso al establecimiento la dirección, teléfono e correo electrónico, tanto del responsable del establecimiento, como de la autoridad competente, para la presentación de quejas, en su caso;
+
+II. Mantener de manera permanente en un lugar visible, los derechos y obligaciones de los turistas, así como lo establecido en las fracciones X y XI del presente artículo;
+
+III. Informar oportunamente al turista los precios, tarifas, condiciones, características y costo total de los servicios y productos que éste requiera, y en su caso expedir el comprobante respectivo;
+
+IV. Participar en el manejo responsable de los recursos naturales, arqueológicos, históricos y culturales, en términos de las disposiciones jurídicas aplicables;
+
+V. Inscribirse, a través de los Ayuntamientos, en el Registro Estatal de Turismo y actualizar los datos oportunamente;
+
+VI. Cumplir con los servicios, precios, tarifas y promociones, en los términos anunciados, ofrecidos o pactados;
+
+VII. Profesionalizar a sus trabajadores y empleados, en los términos de las leyes respectivas, en coordinación con la Secretaría;
+
+VIII. Disponer de lo necesario para que los inmuebles, edificaciones y servicios turísticos incluyan las especificaciones que permitan la accesibilidad a toda persona de cualquier condición;
+
+IX. Prestar sus servicios en español como primera lengua, lo que no impide que se puedan prestar los servicios en otros idiomas o lenguas;
+
+X. En la prestación y uso de los servicios turísticos no habrá discriminación de ninguna naturaleza en contra de persona alguna, en los términos de las disposiciones jurídicas aplicables;
+
+XI. En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados, o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista;
+
+XII. Brindar en lo posible asistencia al turista en caso de necesidad; y
+
+XIII. Las demás que establezca la legislación aplicable en la materia.
+
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 4.
+
+20.- Los objetivos de la política de certificación son, entre otros:
+
+I. Promover una cultura de calidad turística al examinar, evaluar y reconocer el esfuerzo de los prestadores de servicios y administradores de destinos turísticos;
+
+II. Estimular al sector para ofertar los servicios turísticos con un elemento diferenciador y altamente competitivo en el mercado turístico; y
+
+III. Beneficiar a las empresas y prestadores de servicios turísticos con apoyos, promociones y/o participación en eventos específicos.
+
+La Secretaría será la responsable de desarrollar y reglamentar el procedimiento de certificación turística, pudiendo celebrar convenios de colaboración y asesoría con organizaciones, instituciones y/o entidades de la administración pública.
+
+En cualquier caso, la Secretaría tomará siempre en consideración todos los parámetros establecidos en el artículo 4.3, relacionados con el turismo sustentable, quedando los procedimientos de certificación antes mencionados, sujetos a las disposiciones reglamentarias aplicables en la materia.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades
 
 ###### Artículo 4.
 
-24.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+21.- Los turistas tienen los siguientes derechos:
+
+I. Recibir información útil, precisa, veraz y detallada, con carácter previo, sobre todas y cada una de las condiciones de prestación de los servicios turísticos;
+
+II. Obtener los bienes y servicios turísticos en las condiciones contratadas;
+
+III. Obtener los documentos que acrediten los términos de su contratación, y en cualquier caso las correspondientes facturas o comprobantes fiscales legalmente emitidas;
+
+IV. Recibir los servicios sin ser discriminado;
+
+V. No se considerarán discriminatorias, las tarifas y precios para el uso, consumo o disfrute de los bienes o servicios ofertados, ni los requisitos de edad e las restricciones para el uso de instalaciones turísticas, cuando sean de carácter general y guarden relación directa con la especialización que el prestador de servicios turísticos decida otorgar, y siempre que las mismas no sean violatorias de otras leyes. (DR)IJ (sic)
+
+VI. Contar con las condiciones de higiene y seguridad de su persona y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente; y
+
+VII. Los demás que contemplen otros ordenamientos.
+
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-25.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+22.- Son obligaciones del turista:
 
-###### Artículo 4.
+I. Observar las normas usuales de convivencia en los establecimientos turísticos;
 
-26.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
+II. Respetar las instalaciones, el entorno natural y patrimonio cultural de los sitios en los que realice una actividad turística;
 
-### CAPITULO TERCERO. De la Comisión Estatal de Desarrollo Urbano y Vivienda
+III. Acatar las prescripciones particulares de establecimientos y empresas cuyos servicios turísticos disfruten o contraten, y particularmente las normas y reglamentos mercantiles de uso o de régimen interior;
 
-###### Artículo 4.
+IV. Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado; y
 
-27.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
-
-###### Artículo 4.
-
-28.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 3 DE MAYO DE 2006)</small>
+V. Las demás que ordenen los otros ordenamientos.
 
 # LIBRO QUINTO. Del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población
 
 ## TITULO SEGUNDO. De las conurbaciones y zonas metropolitanas
 
-### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Desarrollo Urbano
+### CAPITULO TERCERO. De la Comisión Estatal de Desarrollo Urbano y Vivienda
 
 ###### Artículo 5.
 
@@ -4123,7 +4285,7 @@ IV. Proponer ante la Legislatura del Estado la fundación de nuevos centros de p
 
 V. Las demás que le confieran las disposiciones legales.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO CUARTO. Del Consejo Consultivo Estatal de Desarrollo Urbano
 
 ###### Artículo 5.
 
@@ -4251,7 +4413,7 @@ IX. Expedir su reglamento interno para regular su integración, organización y 
 
 X. Las demás que sean necesarias para el cumplimiento de su objeto.
 
-### CAPITULO SEGUNDO. De la clasificación del territorio
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 5.
 
@@ -4277,7 +4439,7 @@ VII. Expedir su reglamento interno para regular su integración, organización y
 
 VIII. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
-### CAPITULO TERCERO. De la zonificación y de la conservación, mejoramiento y crecimiento de los centros de población
+### CAPITULO SEGUNDO. De la clasificación del territorio
 
 ###### Artículo 5.
 
@@ -4309,7 +4471,7 @@ IV. Las demás acciones que convengan el Estado y los municipios correspondiente
 
 ## TITULO TERCERO. Del sistema estatal de planes de desarrollo urbano y de las regulaciones a la propiedad en los centros de población
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De la zonificación y de la conservación, mejoramiento y crecimiento de los centros de población
 
 ###### Artículo 5.
 
@@ -4345,7 +4507,7 @@ IV. Los planes de centros de población;
 
 V. Los planes parciales.
 
-### CAPITULO SEGUNDO. De los conjuntos urbanos
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 5.
 
@@ -4365,7 +4527,7 @@ IV. Adoptarán la estructura, contenido, terminología y demás elementos que es
 
 25.- Los planes de desarrollo urbano de competencia municipal y sus programas, deberán sujetarse a las políticas y estrategias del Plan Estatal de Desarrollo Urbano y cuando corresponda, a las del respectivo plan regional de desarrollo urbano. Los que se realicen en contravención a esta disposición, serán nulos y no producirán efecto jurídico alguno.
 
-### CAPITULO TERCERO. De las subdivisiones, fusiones y sus relotificaciones
+### CAPITULO SEGUNDO. De los conjuntos urbanos
 
 #### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
@@ -4405,7 +4567,7 @@ V. Los planes, una vez aprobados, deberán publicarse conjuntamente con el acuer
 
 VI. Los planes serán inscritos, con todos sus documentos integrantes, en el Registro Público de la Propiedad y en el Registro Estatal de Desarrollo Urbano, dentro de los quince días siguientes al de su publicación.
 
-### CAPITULO CUARTO. De la lotificación para condominios
+### CAPITULO TERCERO. De las subdivisiones, fusiones y sus relotificaciones
 
 ###### Artículo 5.
 
@@ -4445,7 +4607,7 @@ III. De control, que buscan disminuir o desalentar el ritmo de crecimiento de ce
 
 ## TITULO CUARTO. De las autorizaciones y licencia estatal y municipales
 
-### CAPITULO QUINTO. De la licencia de uso del suelo y de la cédula informativa de zonificación
+### CAPITULO CUARTO. De la lotificación para condominios
 
 #### SECCION TERCERA. De las excepciones a la licitación pública
 
@@ -4775,7 +4937,7 @@ En la escritura pública de constitución del respectivo condominio, se insertar
 
 No estarán afectos a la obligación precedente los condominios que se proyecte realizar en los lotes provenientes de conjuntos urbanos o subdivisiones autorizadas, en las que se hayan ya establecido tales obligaciones.
 
-### CAPITULO SEXTO. De la licencia de construcción
+### CAPITULO QUINTO. De la licencia de uso del suelo y de la cédula informativa de zonificación
 
 #### SECCION PRIMERA. De la subasta pública
 
@@ -4857,7 +5019,7 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 La cédula informativa de zonificación no constituirá autorización para ejecución de obra alguna, ni requisito para la obtención de autorizaciones o licencias.
 
-### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
+### CAPITULO SEXTO. De la licencia de construcción
 
 ###### Artículo 5.
 
@@ -4885,7 +5047,7 @@ X. Las construcciones de equipamiento turístico y gasolineras, serán las únic
 
 XI. Las dedicadas a servicios de radiotelecomunicación o similares y anuncios publicitarios que requieran elementos estructurales, se ajustarán a las disposiciones reglamentarias.
 
-### CAPITULO PRIMERO. De las medidas de seguridad
+### CAPITULO SEPTIMO. De la autorización para la explotación de bancos de materiales para la construcción
 
 ###### Artículo 5.
 
@@ -4917,7 +5079,7 @@ XII. Las vías públicas contarán con placas en las que se consigne el nombre y
 
 ## TITULO QUINTO. Del Registro Estatal de Desarrollo Urbano
 
-### CAPITULO SEGUNDO. De las infracciones y sanciones
+### CAPITULO PRIMERO. De las medidas de seguridad
 
 ###### Artículo 5.
 
@@ -5049,7 +5211,7 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 ## TITULO SEXTO. De las medidas de seguridad y sanciones
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De las infracciones y sanciones
 
 ###### Artículo 5.
 
@@ -5103,9 +5265,7 @@ V. Se dejará libre de explotación una franja no menor de veinte metros de anch
 
 VI. Se rehabilitará el terreno laboreado para su aprovechamiento posterior sin riesgo de derrumbes o daños a terceros.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 5.
 
@@ -5145,7 +5305,9 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -5159,7 +5321,7 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 3.- Son aplicables a este Libro los conceptos, principios y lineamientos establecidos en la Ley General de Protección Civil.
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 6.
 
@@ -5167,13 +5329,13 @@ La sección de peritos del Registro Estatal de Desarrollo Urbano, tendrá por ob
 
 ## TITULO SEGUNDO. De los sistemas de protección civil
 
-### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
+### CAPITULO SEGUNDO. Del Sistema Estatal de Protección Civil
 
 ###### Artículo 6.
 
 5.- Los sistemas de protección civil se constituyen por el conjunto de órganos, instrumentos, métodos y procedimientos que establecen las dependencias, organismos y entidades del sector público estatal o municipal, según corresponda, con la participación de los sectores social y privado, para la ejecución coordinada de acciones de protección civil.
 
-### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
+### CAPITULO TERCERO. Del Consejo Estatal de Protección Civil
 
 ###### Artículo 6.
 
@@ -5309,7 +5471,7 @@ XI. Las demás que se prevean en la reglamentación de este Libro.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO QUINTO. De los grupos voluntarios
+### CAPITULO CUARTO. De los sistemas y consejos municipales de protección civil
 
 ###### Artículo 6.
 
@@ -5339,7 +5501,7 @@ Los sistemas municipales deberán vincularse y coordinarse con el sistema estata
 
 12.- Los consejos municipales son órganos de consulta y de coordinación de los gobiernos municipales para convocar, concertar, inducir e integrar las acciones de los sistemas municipales de protección civil, fundamentalmente enfocadas a prevenir en la materia, sin descuidar aquellas referidas al auxilio y recuperación. Asimismo tendrán las atribuciones que determinen los ayuntamientos de conformidad con las disposiciones legales aplicables.
 
-### CAPITULO SEXTO. De las unidades internas
+### CAPITULO QUINTO. De los grupos voluntarios
 
 ###### Artículo 6.
 
@@ -5377,9 +5539,7 @@ X. Coadyuvar en la difusión de programas de protección civil;
 
 XI. Promover y difundir la cultura de protección civil en el Estado.
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO SEXTO. De las unidades internas
 
 ###### Artículo 6.
 
@@ -5391,7 +5551,7 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 17.- Las unidades internas deberán elaborar programas de protección civil que fomenten la educación de la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, se presentarán para su registro ante la Secretaría General de Gobierno.
 
-### CAPITULO SEGUNDO. De las medidas de seguridad
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -5409,9 +5569,9 @@ XI. Promover y difundir la cultura de protección civil en el Estado.
 
 20.- (DEROGADO, G.G. 31 DE DICIEMBRE DE 2007)
 
-### CAPITULO TERCERO. De las infracciones y sanciones
+### CAPITULO SEGUNDO. De las medidas de seguridad
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -5433,9 +5593,9 @@ Una vez concluidas las construcciones derivadas del uso de suelo a que se refier
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO TERCERO. De las infracciones y sanciones
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 6.
 
@@ -5569,17 +5729,19 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 
 ## TITULO OCTAVO. De la vigilancia
 
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ### CAPITULO PRIMERO. Disposiciones generales
-
-### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
 
 # LIBRO SEPTIMO. De las Comunicaciones y Transportes
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
+### CAPITULO SEGUNDO. De la Junta de Caminos del Estado de México
 
 ###### Artículo 7.
 
@@ -5603,9 +5765,7 @@ II. Que se cuente con transporte seguro, eficiente y de calidad.
 
 3.- Se considera de utilidad pública e interés general, la construcción, conservación, operación, explotación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local, así como la prestación del servicio público de transporte.
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2008)</small>
+### CAPITULO TERCERO. Del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México
 
 ###### Artículo 7.
 
@@ -5633,9 +5793,9 @@ VII. Los municipios, que tendrán a su cargo las facultades relativas a la infra
 
 ## TITULO SEGUNDO. De la infraestructura vial
 
-### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
+### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2008)</small>
 
 ###### Artículo 7.
 
@@ -5651,7 +5811,9 @@ La infraestructura vial podrá ser libre de peaje, y de cuota.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO PRIMERO. De las concesiones y permisos
+### CAPITULO SEGUNDO. De las concesiones, permisos y autorizaciones
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 7.
 
@@ -5759,9 +5921,7 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
+### CAPITULO PRIMERO. De las concesiones y permisos
 
 ###### Artículo 7.
 
@@ -5791,7 +5951,9 @@ III. Cubrir los daños que ocasionen a la infraestructura vial.
 
 ## TITULO TERCERO. Del transporte
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO SEGUNDO. De los registros estatales de comunicaciones y de transporte
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 7.
 
@@ -6013,7 +6175,7 @@ Para estos efectos, los concesionarios y permisionarios que cuenten con los elem
 
 b). Para estos efectos, los propietarios o poseedores de vehículos automotores que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la revisión, en términos de las disposiciones secundarias correspondientes.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 7.
 
@@ -6051,7 +6213,7 @@ Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las conc
 
 32.- Tratándose de concesiones para el servicio público de transporte de alta capacidad o masivo, la vigencia y su prórroga se determinarán considerando el monto de la inversión, el tiempo para su recuperación y la obligación del concesionario para renovar, conservar y mantener en buen estado de funcionamiento las vías, instalaciones, equipo y flota vehicular con que se preste el servicio, apegándose a la normatividad de protección al ambiente.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 7.
 
@@ -6081,7 +6243,7 @@ IV. La instalación y explotación de anuncios publicitarios en los diversos tip
 
 Las disposiciones reglamentarias aplicables y las secretarías de Comunicaciones y de Transporte, en el ámbito de su respectiva competencia, establecerán las medidas conducentes y el procedimiento para garantizar la adecuada reparación de dichos daños.
 
-### CAPITULO SEGUNDO. De los vehículos
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 7.
 
@@ -6181,7 +6343,7 @@ Adicionalmente, los concesionarios deberán respetar las tarifas, rutas, itinera
 
 ## TITULO QUINTO. De las medidas de seguridad, infracciones y sanciones
 
-### CAPITULO TERCERO. De los conductores
+### CAPITULO SEGUNDO. De los vehículos
 
 ###### Artículo 7.
 
@@ -6193,9 +6355,7 @@ II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra l
 
 III. En general, pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales aplicables o sus reglamentos.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+### CAPITULO TERCERO. De los conductores
 
 ###### Artículo 7.
 
@@ -6205,7 +6365,7 @@ La hipoteca podrá constituirse por un lapso que en ningún caso comprenderá la
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
@@ -6479,23 +6639,25 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 60.- Cuando se incurra dos o más veces en infracciones que sean sancionadas con multa, en un periodo de seis meses, contado a partir de la primera, se considerará reincidencia, aplicándose el doble del monto inicial de la multa, sin perjuicio de que le sea aplicable la revocación de la concesión o permiso.
 
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+
 ### CAPITULO TERCERO. De las organizaciones de productores
 
 ### CAPITULO PRIMERO. De la producción y transformación
 
-### CAPITULO SEGUNDO. De la comercialización
-
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+### CAPITULO SEGUNDO. De la comercialización
 
-### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
 # LIBRO OCTAVO. Del tránsito y estacionamientos de servicio al público
 
 ## TITULO SEGUNDO. Del tránsito
 
-### CAPITULO QUINTO. De los apoyos y estímulos
+### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
 ###### Artículo 8.
 
@@ -6505,7 +6667,7 @@ Los titulares de la concesión o permiso serán responsables solidarios para el 
 
 2.- Las disposiciones de este Libro tienen como finalidad garantizar la seguridad de los peatones, conductores y pasajeros que utilizan la infraestructura vial.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO QUINTO. De los apoyos y estímulos
 
 ###### Artículo 8.
 
@@ -6517,7 +6679,7 @@ Corresponde a la Secretaría General de Gobierno por conducto de la Agencia de S
 
 ## TITULO TERCERO. De los estacionamientos de servicio al público
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 8.
 
@@ -6563,9 +6725,7 @@ II. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en rel
 
 III. Ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos.
 
-### CAPITULO TERCERO. De los consejos consultivos económicos
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
 ###### Artículo 8.
 
@@ -6675,7 +6835,9 @@ k) Efectuar carreras o arrancones en la vía pública;
 
 l) Obstruir los accesos y espacios destinados a las personas con capacidades diferentes.
 
-### CAPITULO PRIMERO. Disposiciones generales
+### CAPITULO TERCERO. De los consejos consultivos económicos
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 8.
 
@@ -6697,7 +6859,7 @@ II. En materia de estacionamientos, la multa se calculará multiplicando el núm
 
 ## TITULO CUARTO. De las infracciones y sanciones
 
-### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
+### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 8.
 
@@ -6711,7 +6873,7 @@ III. Detener la marcha de cualquier vehículo cuando el conductor esté cometien
 
 Los agentes de tránsito del Estado y los municipios están facultados para ejercer las atribuciones a que se refiere este artículo.
 
-### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
+### CAPITULO SEGUNDO. Del Instituto de Investigación y Fomento de las Artesanías del Estado de México
 
 ###### Artículo 8.
 
@@ -6757,7 +6919,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 ## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
 
-### CAPITULO CUARTO. Del turismo
+### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
 ###### Artículo 9.
 
@@ -6769,7 +6931,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 2.- Las disposiciones de este Libro tienen como finalidad lograr en la Entidad un incremento sostenido de las actividades agropecuarias y acuícolas para contribuir al desarrollo rural del Estado.
 
-### CAPITULO PRIMERO. Del objeto y finalidad
+### CAPITULO CUARTO. Del turismo
 
 ###### Artículo 9.
 
@@ -6779,9 +6941,7 @@ III. Una vez remitido el vehículo al depósito correspondiente, los agentes deb
 
 4.- Los municipios podrán participar en las acciones reguladas en este Libro.
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+### CAPITULO PRIMERO. Del objeto y finalidad
 
 ###### Artículo 9.
 
@@ -6795,7 +6955,9 @@ Se entiende por productor rural la persona física que directa o indirectamente 
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
-### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 9.
 
@@ -6833,7 +6995,7 @@ III. Que los programas para la tecnificación del riego que realicen los diferen
 
 IV. La erradicación del sistema de rosa, tumba y quema y de incendios inducidos para fines de explotación agropecuarias.
 
-### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
+### CAPITULO TERCERO. Del Sistema para el Desarrollo Integral de la Familia del Estado de México
 
 ###### Artículo 9.
 
@@ -6853,7 +7015,7 @@ VI. La formación y capacitación de árbitros, así como la constitución de un
 
 VII. La integración de cadenas productivas, y mecanismos que permitan la obtención de financiamientos con tasas preferenciales, en materia de comercialización.
 
-### CAPÍTULO PRIMERO. Disposiciones generales
+### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social
 
 ###### Artículo 9.
 
@@ -6933,7 +7095,7 @@ VI. Las utilidades, intereses, dividendos, rendimientos de bienes, derechos y de
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados, serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-### CAPITULO SEGUNDO. De la atención médica
+### CAPÍTULO PRIMERO. Disposiciones generales
 
 ###### Artículo 9.
 
@@ -6947,7 +7109,7 @@ Los ingresos del Instituto, así como los productos e instrumentos financieros a
 
 15.- (DEROGADO, G.G. 3 DE MAYO DE 2006)
 
-### CAPITULO TERCERO. De la educación regular y especial
+### CAPITULO SEGUNDO. De la atención médica
 
 ###### Artículo 9.
 
@@ -6983,7 +7145,7 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(DEROGADO CON LOS ARTICULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
+### CAPITULO TERCERO. De la educación regular y especial
 
 ###### Artículo 9.
 
@@ -7005,7 +7167,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO QUINTO. Del tránsito y transporte
+### CAPITULO CUARTO. De la orientación y rehabilitación para el trabajo
 
 # LIBRO DECIMO. Del fomento económico
 
@@ -7015,7 +7177,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
+### CAPITULO QUINTO. Del tránsito y transporte
 
 ###### Artículo 10.
 
@@ -7027,7 +7189,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
+### CAPITULO SEXTO. De las facilidades urbanísticas y arquitectónicas
 
 ###### Artículo 10.
 
@@ -7043,7 +7205,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
+### CAPITULO SEPTIMO. De las actividades deportivas, recreativas y culturales
 
 ###### Artículo 10.
 
@@ -7067,7 +7229,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
-### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
+### CAPITULO OCTAVO. De la atención integral a las personas con capacidades diferentes
 
 ###### Artículo 10.
 
@@ -7083,9 +7245,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+### CAPITULO NOVENO. De la atención y orientación a familiares de las personas con capacidades diferentes o terceros
 
 ###### Artículo 10.
 
@@ -7101,7 +7261,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
+### CAPITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7119,9 +7279,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO. De los procedimientos de adjudicación
+### CAPITULO SEGUNDO. De la planeación, programación y presupuestación
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 10.
 
@@ -7175,9 +7335,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO SEGUNDO. De la prestación de los servicios a personas con capacidades diferentes
 
-### CAPITULO CUARTO. De la contratación
+### CAPITULO TERCERO. De los procedimientos de adjudicación
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7193,7 +7353,7 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 3.- Los servicios que presten las instituciones para la rehabilitación de personas con capacidades diferentes, aún cuando se denominen, ostenten o constituyan bajo otra modalidad, se sujetarán a las disposiciones previstas en la Ley General de Salud y este Libro.
 
-### CAPITULO QUINTO. De la ejecución
+### CAPITULO CUARTO. De la contratación
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7213,7 +7373,7 @@ Para los efectos de este Libro, las personas con capacidades diferentes son aque
 
 7.- Las disposiciones de este Libro se aplicarán sin perjuicio de lo previsto en las Leyes Generales de Salud y de Educación, los Libros Segundo, Tercero, Quinto y Séptimo, así como la legislación en materia de asistencia social y privada.
 
-### CAPITULO SEXTO. De la administración directa
+### CAPITULO QUINTO. De la ejecución
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7247,7 +7407,7 @@ XII. Promover los derechos de las personas con capacidades diferentes, así como
 
 XIII. Proporcionar orientación y asistencia jurídica en juicios de interdicción y en acciones legales, con particular atención de las personas con discapacidad mental.
 
-### CAPITULO SEPTIMO. De la información, verificación y control
+### CAPITULO SEXTO. De la administración directa
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7275,7 +7435,7 @@ Los ayuntamientos determinarán la estructura y funcionamiento de sus respectivo
 
 ## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
 
-### CAPITULO OCTAVO. De los medios de defensa
+### CAPITULO SEPTIMO. De la información, verificación y control
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7309,9 +7469,9 @@ De acuerdo con el resultado del diagnóstico que hayan emitido la o las comision
 
 La calificación realizada por las comisiones de valoración responderá a criterios técnicos unificados y tendrá validez ante cualquier dependencia, organismo público o privado del Estado.
 
-### CAPITULO PRIMERO. Parte general
+### CAPITULO OCTAVO. De los medios de defensa
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7357,7 +7517,7 @@ I. Procurar la extensión cuantitativa y cualitativa de los servicios de atenci�
 
 II. Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de la población con capacidades diferentes.
 
-### CAPITULO SEGUNDO. De la planeación, programación y sistematización
+### CAPITULO PRIMERO. Parte general
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7397,9 +7557,9 @@ IV. Lograr la incorporación de la persona con capacidades diferentes a la vida 
 
 25.- Los hijos de trabajadores con capacidades diferentes gozarán de servicio gratuito de guardería, para ello, las instituciones educativas y sanitarias estatales promoverán la prestación del servicio hasta satisfacer la demanda.
 
-### CAPITULO TERCERO. De la sistematización
+### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7435,9 +7595,9 @@ I. Establecer programas de promoción del empleo de las personas con capacidades
 
 II. Gestionar el apoyo de los sectores público e industrial para colocar a las personas con capacidades diferentes en puestos vacantes, así como para que las autoridades competentes otorguen a los solicitantes con capacidades diferentes permisos y licencias de funcionamiento comercial en la infraestructura vial y en locales de mercados públicos.
 
-### CAPITULO CUARTO. De las operaciones consolidadas
+### CAPITULO TERCERO. De la sistematización
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -7475,9 +7635,9 @@ II. Podrán ser utilizados por cualquier usuario, en tanto no sean requeridos po
 
 Adicionalmente, deberán equipar el cinco por ciento de sus unidades con mecanismos que faciliten el acceso a personas con capacidades diferentes y equipo de apoyo.
 
-### CAPITULO QUINTO. De los catálogos
+### CAPITULO CUARTO. De las operaciones consolidadas
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7499,9 +7659,9 @@ Las barreras arquitectónicas que en la infraestructura vial deben ser eliminada
 
 La Agencia de Seguridad Estatal verificará la existencia de barreras arquitectónicas en la infraestructura vial primaria y propondrá ante las autoridades competentes su eliminación o readecuación, conforme a lo dispuesto en el párrafo anterior.
 
-### CAPITULO SEXTO. De la integración y funciones de los Comités
+### CAPITULO QUINTO. De los catálogos
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -7509,9 +7669,9 @@ La Agencia de Seguridad Estatal verificará la existencia de barreras arquitect�
 
 El Gobierno del Estado, a través de la Secretaría de Educación, Cultura y Bienestar Social, y demás dependencias y organismos auxiliares competentes, apoyarán programas de promoción deportiva y desarrollo socio-cultural que permitan la integración de las personas con capacidades diferentes.
 
-### CAPITULO SEPTIMO. De los procedimientos de adquisición
+### CAPITULO SEXTO. De la integración y funciones de los Comités
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7527,9 +7687,9 @@ III. La prestación de los servicios procurará la permanencia de las personas c
 
 38.- Además de las medidas específicas previstas en este Libro, el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México otorgará, previo estudio, servicios y prestaciones económicas a las personas con capacidades diferentes que se encuentren en situación de necesidad extrema y carezcan de los recursos indispensables para hacer frente a contingencias resultantes de sus limitaciones físicas. La prestación económica cesará al momento de superarse la contingencia que le dio lugar.
 
-### CAPITULO OCTAVO. De las enajenaciones
+### CAPITULO SEPTIMO. De los procedimientos de adquisición
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -7579,9 +7739,9 @@ En caso de reincidencia, se podrá duplicar el monto de la multa y proceder a la
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO NOVENO. De los contratos
+### CAPITULO OCTAVO. De las enajenaciones
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -7745,9 +7905,9 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO. De las garantías
+### CAPITULO NOVENO. De los contratos
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -7875,7 +8035,7 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO PRIMERO. De los contratos abiertos
+### CAPITULO DECIMO. De las garantías
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8073,7 +8233,7 @@ Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plaz
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO SEGUNDO. De la información y verificación
+### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8217,9 +8377,9 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
+### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -8341,9 +8501,9 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
+### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -8363,9 +8523,9 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. De las disposiciones generales
+### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -8397,7 +8557,7 @@ Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos munici
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
+### CAPITULO PRIMERO. De las disposiciones generales
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8455,11 +8615,11 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Del servicio
+### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO CUARTO. De la coordinación
+### CAPITULO TERCERO. Del servicio
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8467,7 +8627,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Del IGECEM
+### CAPITULO CUARTO. De la coordinación
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8615,7 +8775,7 @@ Las políticas y normas administrativas a que se refiere el párrafo anterior, s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Del IGECEM
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -8699,9 +8859,9 @@ En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -8729,7 +8889,7 @@ III. Lograr mayor eficiencia y transparencia.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO II. De la dirección del periódico oficial
+### CAPITULO I. Disposiciones generales
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8747,7 +8907,7 @@ La reglamentación de este Libro establecerá los bienes y servicios sujetos a o
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO III. Del funcionamiento del periódico oficial
+### CAPITULO II. De la dirección del periódico oficial
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8773,7 +8933,7 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO IV. Del procedimiento de publicación y circulación
+### CAPITULO III. Del funcionamiento del periódico oficial
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -8835,7 +8995,7 @@ V. Las demás que establezca la reglamentación de este Libro.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO V. De la fe de erratas
+### CAPITULO IV. Del procedimiento de publicación y circulación
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -9131,7 +9291,7 @@ Mediante la presentación de estas ofertas subsecuentes de descuentos, se realiz
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO VI. De las responsabilidades de los servidores públicos
+### CAPITULO V. De la fe de erratas
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -9279,9 +9439,9 @@ En estos casos, la cancelación no implicará ninguna responsabilidad de caráct
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO VI. De las responsabilidades de los servidores públicos
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 13.
 
@@ -9395,7 +9555,7 @@ Es aplicable a las enajenaciones lo dispuesto en las fracciones I, III, IV, V, V
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9437,7 +9597,7 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
+### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9463,7 +9623,7 @@ V. El proveedor suministrará los bienes y servicios en las cantidades y fechas 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO TERCERO. Autorización del Proyecto
+### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9503,7 +9663,7 @@ Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO CUARTO. Análisis Costo-Beneficio
+### CAPITULO TERCERO. Autorización del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9517,7 +9677,7 @@ Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
+### CAPITULO CUARTO. Análisis Costo-Beneficio
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9597,7 +9757,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEXTO. Administración del Proyecto
+### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -9837,7 +9997,7 @@ V. Las personas cuya colaboración se requiera.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. Características Generales
+### CAPITULO SEXTO. Administración del Proyecto
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10083,7 +10243,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
+### CAPITULO PRIMERO. Características Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10117,7 +10277,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO TERCERO. Autorización del Modelo de Contrato
+### CAPITULO SEGUNDO. Características y elementos del modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10159,7 +10319,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
+### CAPITULO TERCERO. Autorización del Modelo de Contrato
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10353,7 +10513,7 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Disposiciones Generales
+### CAPITULO PRIMERO. De la integración y funciones del Comité de Proyectos
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10427,7 +10587,7 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO TERCERO. Del procedimiento de licitación pública
+### CAPITULO SEGUNDO. Disposiciones Generales
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10493,7 +10653,7 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO CUARTO. De las excepciones a la licitación pública
+### CAPITULO TERCERO. Del procedimiento de licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10559,7 +10719,7 @@ VII. Las actas, documentos o avisos de particulares que conforme a la ley, deban
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO PRIMERO. Generalidades
+### CAPITULO CUARTO. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10603,7 +10763,7 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
+### CAPITULO PRIMERO. Generalidades
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -10651,7 +10811,7 @@ II.- Por errores en el texto de los documentos originales que contengan la mater
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. Incumplimiento, rescisión y terminación
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12340,3 +12500,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- La Secretaría de Finanzas del Gobierno del Estado de México, solicitará al área correspondiente del Gobierno del Estado, expida y envié a la Legislatura en un plazo máximo de treinta días a partir de su entrada en vigor del presente Decreto, el Reglamento de Operación del Fondo para la Atención a los Desastres y Siniestros Ambientales, que se estable (sic) en el Libro Sexto del Código Administrativo del Estado de México.
+
+G.G. 10 DE NOVIEMBRE DE 2010
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Ejecutivo Estatal deberá expedir el reglamento respectivo, para dar cumplimiento al presente Decreto, así como modificar la normatividad administrativa vigente, con el mismo propósito.
