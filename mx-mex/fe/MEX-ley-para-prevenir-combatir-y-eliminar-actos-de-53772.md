@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2010-09-23"
+last_updated: "2010-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACION EN EL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -184,6 +184,24 @@ g) Garantizar en cualquier proceso legal, el derecho a ser asistidos, por defens
 > <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
 
 VI. Adoptar políticas educativas y económicas adecuadas que promuevan el crecimiento general de empleo de los jóvenes egresados de las instituciones educativas.
+
+> <small>(ADICIONADA, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+VII. Para fomentar la igualdad y la no discriminación en el ámbito laboral:
+
+a) Promover la prestación del trabajo en condiciones dignas y justas; la inclusión, la libertad, la intimidad, la honra y la salud de los trabajadores; la armonía entre quienes comparten un mismo ambiente laboral, así como en las empresas o instituciones.
+
+b) Impulsar condiciones que eviten toda conducta abusiva o de violencia psicológica, que se realice en forma sistemática ejercida sobre cualquier trabajador por sus jefes, compañeros de trabajo o subalternos, encaminada a infundir miedo, intimidación, terror, angustia, o causar perjuicio laboral, generar desmotivación en el trabajo o inducir a la renuncia del mismo.
+
+c) Establecer políticas tendentes a combatir el maltrato, persecución, discriminación, entorpecimiento, inequidad y desprotección laboral.
+
+d) Propiciar la apertura de espacios en los Centros de Trabajo para que se escuchen las opiniones de los trabajadores por parte del empleador.
+
+e) Promover la realización de actividades pedagógicas o de integración en los Centros de Trabajo para el mejoramiento de las relaciones entre los trabajadores de las empresas e instituciones públicas.
+
+f) Impulsar el establecimiento en las empresas e instituciones, de reglamentos y lineamientos que contemplen mecanismos de prevención y solución de conductas discriminatorias y de desigualdad laboral, procurando la solución a través de mecanismos internos.
+
+g) Propiciar que en los Centros de Trabajo se publicite periódicamente información sobre discriminación y desigualdad en el ámbito laboral, así como los mecanismos para prevenirlas, corregirlas y sancionarlas.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO EN MATERIA DE PREVENCIÓN Y ELIMINACIÓN DE TODAS LAS FORMAS DE DISCRIMINACIÓN
 
@@ -394,3 +412,9 @@ G.G. 23 DE SEPTIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 10 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
