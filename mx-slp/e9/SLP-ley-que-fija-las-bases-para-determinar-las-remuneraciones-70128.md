@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-fija-las-bases-para-determinar-las-remuneraciones-70128
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-05"
-last_updated: "2009-11-30"
+last_updated: "2010-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY QUE FIJA LAS BASES PARA DETERMINAR LAS REMUNERACIONES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY REGLAMENTARIA DEL ARTICULO 133 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, EN MATERIA DE REMUNERACIONES, PUBLICADO EN EL P.O. DE FECHA 11 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 5 de septiembre de 2009.
 
@@ -432,3 +434,11 @@ P.O. 30 DE NOVIEMBRE DE 2009.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. En virtud de las modificaciones que genera este Decreto, se concede al Comité Técnico de Valoración de las Remuneraciones de los Servidores Públicos, hasta el día cinco de diciembre de 2009, para que de cumplimiento a su encomienda.
+
+P.O. 11 DE NOVIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, publicada en edición extraordinaria del Periódico Oficial del Estado, del cinco de septiembre de dos mil nueve.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
