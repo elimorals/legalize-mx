@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-que-establece-el-procedimiento-para-la-73327"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2010-11-05"
+last_updated: "2010-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73327&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2010-02-22"
 ---
 # REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO PARA LA CONCLUSION DE LA CARRERA POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE NOVIEMBRE DE 2010 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO PARA LA CONCLUSIÓN DE LA CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO PARA LA CONCLUSION DE LA CARRERA POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE NOVIEMBRE DE 2010.
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE NOVIEMBRE DE 2010.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 11 DE NOVIEMBRE DE 2010.]</small>
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 26 de febrero de 2010.
 
@@ -312,7 +312,9 @@ Sin perjuicio de lo anterior, el elemento policial al alcanzar la edad de retiro
 
 La separación de los elementos policiales por incumplimiento de los requisitos de ingreso y permanencia a que se refiere la fracción I, del artículo 21 del presente Reglamento, será conocida y resuelta por el Consejo de Honor y Justicia en los términos del procedimiento establecido en la Ley y la normatividad aplicable.
 
-El Consejo de Honor y Justicia en los casos previstos en la fracción II, del artículo 21 del presente Reglamento, con base en los elementos aportados al expediente, tomando en consideración la hoja de servicios del elemento y escuchando sus argumentos, en caso de que se encuentre acreditada la causa de separación, emitirá resolución correspondiente, ordenando cubrir al elemento una indemnización que será equivalente a 90 días de haberes. El personal que a la fecha de su separación tenga más de un año de servicio, tendrá derecho a recibir el equivalente a 12 días de haberes por cada año de servicio en la Policía de Seguridad Pública del Distrito Federal.
+> <small>(F. DE E., G.O. 11 DE NOVIEMBRE DE 2010)</small>
+
+El Consejo de Honor y Justicia en los casos previstos en la fracción I, del artículo 21 del presente Reglamento, con base en los elementos aportados al expediente, tomando en consideración la hoja de servicios del elemento y escuchando sus argumentos, en caso de que se encuentre acreditada la causa de separación, emitirá resolución correspondiente, ordenando cubrir al elemento una indemnización que será equivalente a 90 días de haberes. El personal que a la fecha de su separación tenga más de un año de servicio, tendrá derecho a recibir el equivalente a 12 días de haberes por cada año de servicio en la Policía de Seguridad Pública del Distrito Federal.
 
 Para efectos de cálculo de indemnización se considerará el haber que tenía asignado el elemento policial conforme a su grado, riesgo y antigüedad, con base en los tabuladores registrados, más el concepto mensual que en su caso tenía asignado con motivo del servicio.
 
