@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-congreso-del-estado-de-chiapas-50475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-02"
-last_updated: "2006-05-02"
+last_updated: "2010-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -101,29 +101,21 @@ El tratamiento que recibirá el Congreso será el de «Honorable Congreso del Es
 
 ###### Artículo 6°.
 
-En el año de la renovación del Poder Legislativo, la Comisión Permanente se reunirá en junta previa a la preparatoria, a más tardar el día primero de noviembre del año que corresponda para:
-
-I. Elaborar el inventario de las copias certificadas de las constancias de mayoría y validez que acrediten a los diputados electos por el principio de mayoría relativa y de las copias certificadas de las constancias de asignación proporcional expedidas por los organismos electorales competentes y, en su caso, las resoluciones de los tribunales electorales relativas a la elección de diputados;
-
-II. Entregar las credenciales de identificación de los diputados electos, con base en las constancias señaladas en el inciso anterior;
-
-III. Preparar la lista de los diputados electos de la nueva legislatura, para los efectos de la sesión de instalación del Congreso; y,
-
-IV. Citar a los diputados electos, por conducto de la Secretaria de Servicios Parlamentarios, a la junta preparatoria, previa a la instalación de la legislatura entrante.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 7°.
 
-El día trece de noviembre del año que corresponda, a las diez horas, los diputados electos, se reunirán en el Congreso del Estado, para celebrar junta preparatoria, previa presentación de sus constancias emitidas por la autoridad electoral competente e identificarse ante la Secretaría de Servicios Parlamentarios del Congreso, mediante la exhibición de la credencial de elector; la secretaría a su vez lo informará oportunamente a los secretarios de la Comisión Permanente, quienes elaborarán la lista de presentes y lo informarán al Presidente de la misma para el efecto que declare la existencia del quórum legal.
-
-El quórum para la junta preparatoria del Congreso del Estado, se formara con más de la mitad de los diputados electos de mayoría.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 8°.
 
-Si no concurre la mayoría de los diputados propietarios, la Comisión Permanente, convocará a nueva reunión para el día siguiente, a las diez horas; citará en forma verbal a los presentes y por escrito a los ausentes a que acudan a ella, apercibiéndoles que de no reunirse el quórum necesario, se celebrará la junta preparatoria con los que se presenten.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2010)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 9°.
 
-Para efectos de dar cumplimiento a la sesión de instalación del Congreso del Estado, los diputados electos se reunirán en la sede que ocupa el recinto legislativo, a las diez horas del día 15 de noviembre. El Congreso del Estado se instalará de acuerdo con lo previsto por el artículo 20, de la Constitución Política del Estado de Chiapas y 3°, de la Ley Orgánica del propio Congreso.
+Para efectos de dar cumplimiento a la sesión de instalación del Congreso del Estado, los diputados electos se reunirán en la sede que ocupa el recinto legislativo, a las doce horas del día 16 de noviembre. El Congreso del Estado se instalará de acuerdo con lo previsto por el artículo 20 de la Constitución Política del Estado de Chiapas y 3°, de la Ley Orgánica del propio Congreso.
 
 Una vez electa la Mesa Directiva de la legislatura entrante, los legisladores pasarán a ocupar su sitio en el presidium y una vez hecho lo anterior su presidente manifestará «La (número de) Legislatura del Estado Libre y Soberano de Chiapas se declara hoy legalmente constituida».
 
@@ -131,7 +123,7 @@ El Presidente pedirá a los diputados que se pongan de pie y otorgará su protes
 
 ###### Artículo 10.
 
-El día que la Legislatura quede formalmente constituida, el Presidente de la Mesa Directiva nombrará una comisión conformada por un representante de cada grupo parlamentario, más un Secretario de la Mesa Directiva, que tendrán por objeto participar lo anterior a los otros Poderes del Estado.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 11.
 
@@ -387,17 +379,33 @@ El diputado que por indisposición u otro grave motivo no pudiere asistir a las 
 
 El Presidente de la Mesa Directiva, sólo concederá licencia, cuando el legislador que la solicite manifieste su indisposición o causa grave para no asistir a la sesión respectiva. Las licencias concedidas no podrán exceder a la cuarta parte de la totalidad de los miembros que integran el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 42.
 
-El Presidente puede conceder licencia a los diputados para que en un mes falten hasta tres veces consecutivas a las sesiones pero no podrá concederlo simultáneamente a más del 10% de los integrantes del Congreso.
+Las solicitudes de Licencia para no asistir a las sesiones del Pleno del Congreso del Estado, deberán ser presentadas ante la Presidencia de la Mesa Directiva, debidamente justificada y con una anticipación de veinticuatro horas a celebrarse la sesión que corresponda; lo anterior para que el Diputado (a) Presidente del Congreso del Estado, pueda conceder en su caso, la licencia correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 43.
 
-Las licencias concedidas a que se refieren los artículos anteriores, se harán mención en las actas de sesión respectiva.
+La Presidencia de la Mesa Directiva, sólo podrá conceder licencia, cuando el legislador que la solicite acredite cualquiera de las siguientes causas:
+
+a) Por enfermedad.
+
+b) Cuando se encuentre comisionado por el Presidente del Congreso para asistir a actos en representación del Poder Legislativo.
+
+c) Cuando asista a actos oficiales en ejercicio de su función legislativa.
+
+Las licencias concedidas con causa justificada no podrán exceder del 25% de la totalidad de los miembros que integran el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 44.
 
-No podrán conceder licencias con goce de dietas por más de un mes, salvo el caso de enfermedad comprobada.
+Sólo se podrá conceder licencia sin acreditar cualquiera de las causas señaladas en el artículo anterior, hasta por dos ocasiones por legislador en cada período ordinario de sesiones.
+
+Las licencias concedidas sin causa justificada no podrán exceder del 10% de la totalidad de los miembros que integran el Congreso del Estado.
 
 ###### Artículo 45.
 
@@ -453,6 +461,8 @@ En las sesiones del Congreso del Estado en las cuales se lleve a cabo el ceremon
 
 ### Capítulo Cuarto. De las Comisiones
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 54.
 
 Los Secretarios que forman parte del Gabinete del Gobierno del Estado de Chiapas, podrán asistir a las sesiones, bien porque fueron instruidos por el Gobernador del Estado para las comparecencias de la glosa de su informe de gobierno o sean citados en términos del artículo 37, de la Ley Orgánica del Congreso del Estado por acuerdo del Pleno, de la Comisión Permanente o por la comisión legislativa en su caso, sin perjuicio de la libertad ciudadana que tienen para asistir a las sesiones públicas.
@@ -485,7 +495,7 @@ En el análisis del contenido. del informe de gobierno a que se refiere la parte
 
 ###### Artículo 59.
 
-Para el estudio, dictamen y seguimiento de los asuntos que el Congreso del Estado debe tratar por razones de competencia, se constituirán Comisiones a que se refiere la Ley Orgánica del Congreso, debiendo contar con una Mesa directiva que estará conformada por un Presidente, dos Secretarios y Vocales.
+Para el estudio, dictamen y seguimiento de los asuntos que el Congreso del Estado debe tratar por razones de competencia, se constituirán Comisiones a que se refiere la Ley Orgánica del Congreso, debiendo contar con una Mesa directiva que estará conformada por un Presidente, un Vicepresidente, un Secretario y 4 Vocales, los cuales en ausencia del secretario realizaran dicha función, por designación del Presidente.
 
 ###### Artículo 60.
 
@@ -505,9 +515,7 @@ Las Comisiones, durante el receso, estudiarán y dictaminarán las iniciativas q
 
 ###### Artículo 63.
 
-Son Comisiones Especiales las que se constituyen para el estudio de algún asunto que no sea de competencia de ninguna de las Comisiones Ordinaria, para la propuesta de solución de algún asunto, para la organización de algún evento de relevancia para el Estado, o cuando lo exija la urgencia y la calidad de los negocios.
-
-Las Comisiones Especiales deberán ser creadas e integradas, de conformidad a lo dispuesto por la Ley Orgánica del Congreso del Estado.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 64.
 
@@ -529,9 +537,11 @@ Si el caso lo permite, podrán realizarse consultas y foros de participación so
 
 Las reuniones de las Comisiones deberán ser públicas, salvo que el asunto requiera tratarse en privado, previo acuerdo de los integrantes de la Comisión.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 68.
 
-Las Comisiones se reunirán mediante convocatoria de su Presidente quien la deberá entregar a los miembros de la Comisión, con treinta y seis horas de anticipación.
+Las Comisiones se reunirán mediante convocatoria de su Presidente quien la deberá entregar a los miembros de la Comisión, con veinticuatro horas de anticipación.
 
 ###### Artículo 69.
 
@@ -771,7 +781,9 @@ Concluida la discusión, el Presidente consultara al Pleno, en votación económ
 
 Cuando el voto particular o voto con dictamen de minoría sea aprobado, el dictamen será devuelto a la Comisión de origen para que dentro del término de diez días presente uno nuevo.
 
-b. Todo dictamen con Proyecto de Ley se discutirá primero en lo general, o sea en conjunto, y después en lo particular el contenido de los artículos. Cuando conste de un solo artículo, será discutido en lo general.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+b. Todo dictamen con Proyecto de Ley se discutirá primero en lo general, o sea en conjunto, y después en lo particular el contenido de los artículos. Cuando conste de menos de 20 artículos será discutido y votado solo en lo general.
 
 c. Previamente a la apertura del periodo de discusión, el secretario formará una lista de los diputados que pidan la palabra en contra y otra de los que la pidan a favor, las cuales leerá íntegras antes de comenzar la discusión.
 
@@ -1001,25 +1013,35 @@ III.- Concluido ese acto, uno de los mismos secretarios preguntara dos veces en 
 
 IV.- Los secretarios harán enseguida la computación de los votos, y leerán los nombres de los que hubiesen aprobado y el otro de los que reprobaren; después dirán el número total de cada lista y harán pública el resultado de la votación.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 134.
 
-Las votaciones serán nominales:
-
-I. Cuando se pregunte si ha lugar a aprobar algún proyecto de ley en lo general;
-
-II. Cuando se pregunte si se aprueba o no cada artículo de los que compongan el indicado proyecto o cada proposición de las que formen el artículo;
-
-III. Cuando lo pida un diputado y sea apoyado por otros tres; y,
-
-IV. Para calificar los asuntos como de urgente u obvia resolución.
+Las votaciones serán nominales cuando lo pida un diputado y sea apoyado por otros tres y con la aprobación del Pleno del Congreso del Estado.
 
 ###### Artículo 135.
 
 La votación económica se practicará poniéndose de pie los legisladores ya sea por la afirmativa o por la negativa cuando el Presidente pregunte el sentido de la votación; los que permanezcan sentados se entenderá como abstención.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+Cuando se lleven a cabo votaciones económicas en las sesiones de la Comisión Permanente, estás se practicarán levantando la mano.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 136.
 
-La votación será económica respecto a la aprobación de las actas de las sesiones, los acuerdos de trámite que recaigan a la correspondencia dirigida al congreso y para todas las demás votaciones no especificadas en el presente capítulo.
+La votación será económica:
+
+I. Cuando se pregunte si ha lugar a aprobar algún proyecto de ley en lo general;
+
+II. Cuando se pregunte si se aprueba o no cada artículo de los que compongan el indicado proyecto o cada proposición de las que formen el artículo;
+
+III. Respecto a la aprobación de las actas de las sesiones;
+
+IV. Para calificar los asuntos como de urgente u obvia resolución.
+
+V. Respecto a los acuerdos de trámite que recaigan a la correspondencia dirigida al Congreso y para todas las demás votaciones no especificadas en el presente capítulo.
 
 ###### Artículo 137.
 
@@ -1230,3 +1252,11 @@ Dado en el salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción " del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintitrés días del mes de marzo del año dos mil seis.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE NOVIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
