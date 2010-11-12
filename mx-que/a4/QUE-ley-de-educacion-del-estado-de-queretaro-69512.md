@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2010-07-09"
+last_updated: "2010-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -75,7 +75,11 @@ II. Será nacional, sin hostilidades ni exclusivismos atenderá a la comprensió
 
 III. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando el aprecio para la dignidad de la persona e integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres y mujeres, evitando los privilegios de razas, religión, grupos, sexos o de individuos;
 
-IV. Promoverá la práctica del respeto entre la relación ser humano-sociedad-medio ambiente, creando los instrumentos mediante los cuales el educando y la ciudadanía construyan valores, adquieran conocimientos, aptitudes y habilidades, orientados a la prevención de problemas ambientales para garantizar una sana calidad de vida y el desarrollo sustentable de los recursos del país y de nuestro Estado.
+IV. Promoverá la práctica del respeto entre la relación ser humano-sociedad-medio ambiente, creando los instrumentos mediante los cuales el educando y la ciudadanía construyan valores, adquieran conocimientos, aptitudes y habilidades, orientados a la prevención de problemas ambientales para garantizar una sana calidad de vida y el desarrollo sustentable de los recursos del país y de nuestro Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+V. Promoverá la incorporación de hábitos alimenticios sanos, la actividad física y la práctica de ejercicio, como medios para que los educandos accedan a un adecuado desarrollo físico y social.
 
 ###### Artículo 5.
 
@@ -125,15 +129,21 @@ VII. Fomentar actividades que estimulen la investigación tecnológica, humanís
 
 VIII. Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal y, en especial, de aquellos que constituyen el patrimonio cultural de la nación y del Estado;
 
-IX. Desarrollar actitudes solidarias entre los individuos, para crear conciencia sobre la preservación de la salud, el respeto a la vida como valor fundamental de la persona, la planeación familiar y el ejercicio responsable de la paternidad, sin menoscabo de la libertad y respeto absoluto de la dignidad humana, así como el rechazo a los vicios, adicciones y a todo tipo de discriminación; en especial la que se dé en contra de la mujer;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+IX. Desarrollar actitudes solidarias entre los individuos, para crear conciencia sobre la preservación de la salud, la importancia de la sana alimentación, la actividad física y la práctica de ejercicio como medios para el adecuado desarrollo; el respeto a la vida como valor fundamental de la persona; la planeación familiar y el ejercicio responsable de la paternidad, sin menoscabo de la libertad y el respeto absoluto de la dignidad humana, así como el rechazo a los vicios, adicciones y a todo tipo de discriminación;
 
 X. Hacer conciencia de la necesidad del cuidado y la protección de los animales; del aprovechamiento racional de los recursos naturales y del medio ambiente, como elementos indispensables para el desarrollo sustentable de la sociedad;
 
 XI. Fomentar actitudes solidarias hacia la familia, el trabajo, el ahorro y el bienestar general;
 
-XII. Impulsar y estimular en los docentes, padres de familia, encargados de cooperativas escolares y especialmente en los educandos, la adopción de estilos de vida saludables que comprendan el consumo de una dieta correcta y la práctica diaria de actividad física y deporte, como elementos indispensables del desarrollo integral del individuo. Se entenderá por dieta correcta, aquella que es completa, equilibrada, inocua, suficiente, variada y adecuada; y
+XII. Impulsar y estimular en los docentes, padres de familia, encargados de cooperativas escolares y especialmente en los educandos, la adopción de estilos de vida saludables que comprendan el consumo de una dieta correcta y la práctica diaria de actividad física y deporte, como elementos indispensables del desarrollo integral del individuo. Se entenderá por dieta correcta, aquella que es completa, equilibrada, inocua, suficiente, variada y adecuada; y (sic)
 
-XIII. Difundir y fomentar el conocimiento y práctica habitual en los educandos, de diversas actividades para contribuir al desarrollo de sus capacidades intelectuales y habilidades cognitivas.
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+XIII. Implementar programas que fomenten en los educandos el consumo de alimentos con alto valor nutricional, así como establecer lineamientos para que en las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, se evite la venta o consumo de alimentos con alto valor calórico y bajo o nulo valor nutricional, de acuerdo a los estándares de nutrición que al efecto establezcan la Secretaría de Salud del Estado y las disposiciones federales aplicables; y
+
+XIV. Difundir y fomentar el conocimiento y la práctica habitual, en los educandos, de diversas actividades para contribuir al desarrollo de sus capacidades intelectuales y habilidades cognitivas.
 
 ###### Artículo 12.
 
@@ -161,7 +171,11 @@ VI. Revalidar y otorgar equivalencias de estudios de educación preescolar, prim
 
 VII. Otorgar, negar y revocar la autorización a los particulares para impartir la educación inicial, básica, normal y demás para la formación de maestros de educación básica;
 
-VIII. Implementar en los planteles de educación básica, estrategias y medidas tendientes a desmotivar en los educandos el consumo de productos alimenticios con bajo o nulo valor nutricional, así como prohibir la publicidad enfocada al consumismo al interior de los planteles, salvo la que se encuentre en el producto mismo y en los elementos necesarios para su conservación y exhibición;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Implementar en los planteles de educación básica, con el auxilio de la Secretaría de Salud del Estado, los mecanismos de participación y colaboración que permitan involucrar a los padres de familia y, en su caso, al sector social, en la toma de estrategias y medidas que propicien en los educandos la adopción de hábitos alimenticios saludables, la actividad física y la práctica del deporte que sean adecuados para cada persona, como medios para combatir los problemas de malnutrición, tales como la desnutrición, el sobrepeso y la obesidad, así como las consecuencias sociales y de salud que derivan de éstos, mediante la información, orientación, capacitación y cualquier otro instrumento de difusión. Asimismo, deberá promover e incentivar la capacitación de los educadores en el tema.
+
+En las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, deberán ofertar alternativas de alimentos saludables que contengan los requerimientos nutricionales que determine la Secretaría de Salud del Estado como estándar para el adecuado crecimiento y desarrollo de los educandos, tomando en consideración la información que en materia alimenticia se proporcione en las instituciones educativas, la que se hará del conocimiento de los alumnos y sus familias.
 
 IX. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias; y (sic)
 
@@ -428,6 +442,12 @@ La educación básica tendrá las adaptaciones requeridas para responder a las c
 ###### Artículo 36.
 
 En la impartición de la educación para menores de edad, se tomarán las medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad, así como que la aplicación de la disciplina escolar sea compatible con la edad del niño.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 36 Bis.
+
+A efecto de asegurar la protección y el cuidado de la salud de los educandos menores de edad, queda prohibida, en las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, la venta de alimentos o bebidas que contengan alto contenido calórico y bajo o nulo valor nutricional que no cumplan con los estándares de nutrición que para el efecto establezcan la Secretaría de Salud del Estado y las disposiciones federales aplicables.
 
 ###### Artículo 37.
 
@@ -723,17 +743,21 @@ VI. Expedir certificados, constancias, diplomas o títulos a quienes no cumplan 
 
 VII. Realizar o permitir se realice publicidad dentro del plantel escolar que fomente el consumo, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo distintos de alimentos;
 
-VIII. Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
-IX. Ocultar a los padres o tutores las conductas de los alumnos que deban ser de su conocimiento;
+VIII. Permitir que en las cooperativas escolares y espacios comerciales de las escuelas que impartan educación básica en el Estado, se vendan alimentos o bebidas que contengan un alto valor calórico y bajo o nulo valor nutricional, que no cumplan con los estándares de nutrición, establecidos por la Secretaría de Salud del Estado y las disposiciones federales aplicables;
 
-X. Oponerse a las actividades de evaluación, inspección y vigilancia de las autoridades competentes, así como a proporcionar información veraz y oportuna;
+IX. Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
 
-XI. Ostentarse como plantel incorporado a cualquier autoridad educativa, sin estarlo;
+X. Ocultar a los padres o tutores las conductas de los alumnos que deban ser de su conocimiento;
 
-XII. Impartir educación preescolar, primaria, secundaria, normal y demás, para la formación de maestros de educación básica, sin contar con la autorización correspondiente; y
+XI. Oponerse a las actividades de evaluación, inspección y vigilancia de las autoridades competentes, así como a proporcionar información veraz y oportuna;
 
-XIII. Incumplir cualquiera de los demás preceptos de esta Ley y otras disposiciones que deriven de ella.
+XII. Ostentarse como plantel incorporado a cualquier autoridad educativa, sin estarlo;
+
+XIII. Impartir educación preescolar, primaria, secundaria, normal y demás, para la formación de maestros de educación básica, sin contar con la autorización correspondiente; y
+
+XIV. Incumplir cualquiera de los demás preceptos de esta Ley y otras disposiciones que deriven de ella.
 
 ###### Artículo 67.
 
@@ -932,3 +956,9 @@ Artículo único. La presente Ley entrará en vigor el día siguiente al de su p
 P.O. 9 DE JULIO DE 2010.
 
 Artículo Único.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 12 DE NOVIEMBRE DE 2010.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
