@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidades-de-los-servidores-publicos-del-10645"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2010-07-03"
+last_updated: "2010-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 29 de enero de 1997.
 
@@ -169,13 +169,13 @@ Igualmente, procede el Juicio Político contra el Gobernador del Estado, Diputad
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO Y SANCIONES EN EL JUICIO POLÍTICO
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 13.
 
-Se concede acción popular para formular por escrito denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el Artículo 11 de esta Ley, las cuales deberán presentarse bajo protesta de decir verdad y fundarse en elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público.
+Se concede acción popular para formular por escrito denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el Artículo 11 de esta Ley, las cuales deberán presentarse bajo protesta de decir verdad y fundarse en elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público. Cuando se omitan estos requisitos, se requerirá mediante notificación personal al denunciante, para que los satisfaga en un plazo de tres días, apercibiéndolo que de no hacerlo, se tendrá por no presentada la denuncia.
 
-El ciudadano que acompañe a la denuncia documentos falsos, o manifieste hechos falsos, será responsable en los términos que establecen las leyes respectivas.
+El ciudadano que acompañe a la denuncia documentos falsos, o manifiesten hechos falsos, será responsable en los términos que establecen las leyes respectivas.
 
 ###### Artículo 14.
 
@@ -1414,5 +1414,9 @@ P.O. 27 DE JULIO DE 2009.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 P.O. 3 DE JULIO DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
