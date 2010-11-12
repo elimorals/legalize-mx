@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-administracion-y-15832"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-23"
-last_updated: "2000-02-23"
+last_updated: "2010-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS PARA EL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 12 DE NOVIEMBRE DE 2010., EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de febrero de 2000.
 
@@ -1162,3 +1164,13 @@ GONZALO M. ARMIENTA CALDERÓN
 EL SECRETARIO DE ADMINISTRACIÓN Y FINANZAS
 
 OSCAR J. LARA ARÉCHIGA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Administración y Finanzas, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 23, Segunda Sección de fecha 23 de febrero de 2000.
+
+Artículo Tercero.- Cada director formulará dentro de un plazo de noventa días, contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público, mismos que deberán ser sometidos a la consideración del Secretario.
