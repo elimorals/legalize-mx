@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-municipal-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-16"
-last_updated: "2010-06-02"
+last_updated: "2010-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2010.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de noviembre de 2009.
 
@@ -175,9 +175,19 @@ IX.- Secretaría de Servicios Públicos;
 
 X.- Secretaría de la Contraloría y Transparencia Municipal;
 
-XI.- Secretaría de Cultura; y
+XI.- Secretaría de Cultura; y (sic)
 
-XII.- Las demás que sean autorizadas por el Republicano Ayuntamiento.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+XII.- Secretaría de Medio Ambiente y Desarrollo Sustentable;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+XIII.- Oficina Ejecutiva del Presidente Municipal; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+XIV.- Las demás que se incorporen al presente Reglamento por acuerdo del Republicano Ayuntamiento.
 
 ###### ARTÍCULO 24.
 
@@ -303,7 +313,25 @@ X.- Diseñar e implementar programas específicos para orientar y gestionar la s
 
 XI.- Elaborar y coordinar programas tendientes a promover la comunicación efectiva entre ciudadanos y Autoridades Municipales para la solución de problemáticas de competencia Municipal.
 
-Para el despacho de los asuntos de competencia de la Secretaría del Republicano Ayuntamiento, su titular se auxiliará directamente de las siguientes Direcciones: Dirección General de Asuntos Jurídicos, Dirección de Gobierno, Dirección de Ordenamiento e Inspección, Dirección de Jueces Calificadores, Dirección de Participación Ciudadana y demás unidades administrativas que resulten necesarias.
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+F) De Adquisiciones
+
+I. Llevar a cabo las adquisiciones o la contratación de arrendamientos de bienes muebles o inmuebles, de prestación de servicios que requiera la Administración Pública Municipal, de acuerdo con las necesidades descritas y limitadas por los presupuestos autorizados, aplicando las políticas y procedimientos vigentes;
+
+II. Instrumentar operativamente las acciones necesarias para el cumplimiento del Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el Gobierno Municipal de San Pedro Garza García, Nuevo León;
+
+III. Dar seguimiento a los contratos de adquisiciones que requieran las distintas Dependencias de la Administración Pública Municipal y participar en la elaboración de los convenios o contratos que en esta materia comprometen financieramente al Municipio;
+
+IV. Llevar el control y autorizar los contratos de mantenimiento para bienes Municipales;
+
+V. Negociar con proveedores el precio, calidad y servicio en los bienes y servicios ofrecidos; y,
+
+VI. Diseñar, en coordinación con otras Dependencias, sistemas de compra electrónica y un sistema de información, comunicación y de transparencia en las adquisiciones de bienes y servicios.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+Para el despacho de los asuntos de competencia de la Secretaría del Republicano Ayuntamiento, su titular se auxiliará directamente de las siguientes Direcciones: Dirección General de Asuntos Jurídicos, Dirección de Gobierno, Dirección de Ordenamiento e Inspección, Dirección de Jueces Calificadores, Dirección de Participación Ciudadana, Dirección de Adquisiciones y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 26.
 
@@ -353,6 +381,20 @@ II.- Tramitar en coordinación con la Comisión de Hacienda y Patrimonio Municip
 
 III.- Integrar la documentación necesaria para la formalización de los contratos de venta, permuta, donación, usufructo, así como de comodato y arrendamiento, mediante los cuales se otorgue a terceros el uso o goce de bienes muebles o inmuebles del dominio Municipal, así como verificar el cumplimiento y administrar los mismos mediante su registro para control y cobro.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+E) De Escrituración y Gestoría
+
+I.- Establecer programas que faciliten la tramitación ante las instancias correspondientes para la regularización de la propiedad y su inscripción ante la autoridad administrativa correspondiente;
+
+II.- Orientar a los ciudadanos que económicamente lo requieran para la obtención, corrección y tramitación de sus títulos de propiedad;
+
+III.- Guardar estrecha vinculación con la dependencia competente para asesorar y tramitar procedimientos civiles, familiares y administrativos relacionados con los procesos señalados en las dos fracciones anteriores, en beneficio de sampetrinos que no tengan los recursos para gestionarlos por sí mismos;
+
+IV.- Vincularse con el área correspondiente de la Secretaría de Control Urbano para facilitar, en coordinación con las autoridades competentes, los trámites que en materia de desarrollo urbano corresponda realizar a los sampetrinos de escasos recursos; y
+
+V.- Facilitar a los sampetrinos de escasos recursos el acceso a los servicios y trámites municipales.
+
 Para el despacho de los asuntos de competencia de la Secretaría de Finanzas y Tesorería Municipal, su titular se auxiliara directamente de las siguientes Direcciones: Dirección de Ingresos, Dirección de Egresos, Dirección de Patrimonio y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 27.
@@ -399,19 +441,7 @@ VI.- Proporcionar apoyo a la ciudadanía en cuanto a quejas de insalubridad y si
 
 VII.- Practicar las inspecciones y verificaciones que se determinen.
 
-C) De Adquisiciones
-
-I.- Llevar a cabo las adquisiciones o la contratación de arrendamientos de bienes muebles e inmuebles o de prestación de servicios que requiera la Administración Pública Municipal, de acuerdo con las necesidades descritas y limitadas por los presupuestos autorizados, aplicando las políticas y procedimientos vigentes;
-
-II.- Instrumentar operativamente las acciones necesarias para el cumplimiento del Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el Gobierno Municipal de San Pedro Garza García, Nuevo León;
-
-III. Dar seguimiento a los contratos de adquisiciones que requieran las distintas Dependencias de la Administración Pública Municipal y participar en la elaboración de los convenios o contratos que comprometen financieramente al Municipio;
-
-IV.- Llevar el control y autorizar los contratos de mantenimiento para bienes Municipales;
-
-V.- Negociar con proveedores el precio, calidad y servicio en los bienes y servicios ofrecidos; y,
-
-VI.- Diseñar, en coordinación con otras Dependencias, sistemas de compra electrónica y un sistema de información, comunicación y de transparencia en las adquisiciones de bienes y servicios.
+C) (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2010)
 
 D) De Sistemas
 
@@ -461,7 +491,9 @@ VI.- Apoyar las tareas de planeación del Municipio; y
 
 VII.- Proponer programas específicos y proyectos estratégicos que tiendan a la modernización de la Administración Municipal, bajo el esquema de mejora continua y calidad total.
 
-Para el despacho de los asuntos de competencia de la Secretaría de Administración, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Adquisiciones, Dirección de Recursos Humanos, Dirección del Servicio Médico y Salud, Dirección de Sistemas, Dirección de Servicios Generales, Dirección de Áreas Administrativas y demás unidades administrativas que resulten necesarias.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+Para el despacho de los asuntos competencia de la Secretaría de Administración, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Recursos Humanos, Dirección del Servicio Médico y Salud, Dirección de Sistemas, Dirección de Servicios Generales, Dirección de Áreas Administrativas y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 28.
 
@@ -635,17 +667,7 @@ VII.- Coordinar con las áreas administrativas correspondientes, los recursos as
 
 VIII.- Coordinar las relaciones institucionales entre el Gobierno Municipal y la comunidad empresarial asentada en el Municipio, procurando la realización de programas, proyectos y acciones conjuntos para elevar la competitividad y la generación de más y mejores empleos.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2010)</small>
-
-E). De Juventud
-
-I.- Implementar y brindar asesoría que permita a los jóvenes del municipio continuar con su preparación académica y el acceso a un segundo idioma;
-
-II.- Crear espacios de análisis, expresión, y desarrollo de habilidades en la juventud, así como Implementar cursos, talleres y otras actividades para prevenir y combatir las adicciones entre los jóvenes;
-
-III.- Impulsar la acción y conciencia ecológica entre los jóvenes del municipio; y
-
-IV.- Proporcionar al área correspondiente la información necesaria para difundir los avances y logros de los programas, proyectos y acciones en materia de juventud alcanzados por el Gobierno Municipal.
+E) (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2010)
 
 F) De Estudios y Proyectos
 
@@ -699,19 +721,7 @@ XI.- Establecer e incrementar las relaciones interinstitucionales y con la comun
 
 XII.- Coordinarse con las diversas instancias asistenciales del Gobierno del Estado para llevar a las personas de escasos recursos los beneficios de los programas sociales que tiendan a dotarlos de la alimentación elemental.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2010)</small>
-
-H).- De Escrituración y Gestoría
-
-I.- Establecer programas que faciliten la tramitación ante las instancias correspondientes para la regularización de la propiedad y su inscripción ante la autoridad administrativa correspondiente;
-
-II.- Orientar a los ·ciudadanos que económicamente lo requieran para la obtención, corrección y tramitación de los títulos de propiedad;
-
-III.- Guardar estrecha vinculación con la dependencia competente para asesorar y tramitar procedimientos civiles, familiares y administrativos relacionados con los procesos señalados en las dos fracciones anteriores en beneficio de sampetrinos que no tengan los medios para gestionarlos por si mismos;
-
-IV.- Vincularse con el área correspondiente de la Secretaria de Control Urbano para facilitar, en coordinación con las autoridades competentes, los trámites que en materia de desarrollo urbano corresponda realizar a los sampetrinos de escasos recursos; y
-
-V.- Facilitar el acceso a los servicios y trámites públicos municipales a los sampetrinos de escasos recursos.
+H).- (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2010)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE JUNIO DE 2010)</small>
 
@@ -767,35 +777,7 @@ XVIII.- Proponer ante la Autoridad competente la implementación de las medidas 
 
 XIX.- Atender, en el ámbito de su competencia, problemas operativos desde el punto de vista de la ingeniería vial, incluyendo estudios, indicaciones y señalamientos requeridos.
 
-B) De Ecología
-
-l.- Elaborar, proponer, planear, diseñar y promover los proyectos de obras pluviales y demás proyectos de obras públicas relacionado con su ámbito de responsabilidad, en coordinación con la entidad responsable del Gobierno Estatal;
-
-II.- Participar y en su caso coordinar la contratación y elaboración de proyectos internos y externos en materia de ecología;
-
-III.- Elaborar estudios de factibilidad para la ejecución de proyectos de manejo de aguas pluviales;
-
-IV.- Realizar inspecciones para vigilar, prevenir, controlar y aplicar las medidas de seguridad y sanciones que sean necesarias en lo concerniente a la ecología y protección ambiental del Municipio, de acuerdo a las Leyes, lineamientos y Reglamentos vigentes;
-
-V.- Coadyuvar en la preservación de los recursos naturales y en la calidad de vida de los campesinos a través de una política ambiental que asegure el desarrollo sustentable;
-
-VI.- Elaborar y actualizar el diagnóstico ambiental del Municipio, definiendo la problemática existente y sus causas y consecuencias, proponiendo y aplicando las acciones correctivas procedentes;
-
-VII.- Vigilar, prevenir, controlar y aplicar las medidas de seguridad y sanciones necesarias para garantizar el mejoramiento del ambiente en el territorio del Municipio, acorde a las Leyes, Reglamentos y lineamientos vigentes;
-
-VIII.- Elaborar, coordinar y difundir planes y programas ecológicos, de protección y de cultura ambiental;
-
-IX.- Vigilar que se cumplan las normas ambientales ecológicas relacionadas con el desarrollo urbano, tanto en lo referente a obras públicas como privadas, según lo establezcan las Leyes, Decretos y Reglamentos en la materia;
-
-X.- Revisar y dictaminar los estudios de impacto y manifestación ambiental para nuevos desarrollos o edificaciones;
-
-XI.- Otorgar o negar licencias para talas y trasplantes de árboles, prohibir en casos excesivos o innecesarios la poda de árboles, según lo dispongan las disposiciones reglamentarias aplicables, y llevar un control y registro de las licencias y prohibiciones acordadas;
-
-XII.- Fomentar el mejoramiento de las condiciones sanitarias que contribuyan al desarrollo satisfactorio de la población del Municipio;
-
-XIII.- Administrar el manejo de las aguas pluviales que se originan en las cañadas de las sierras del Municipio; y
-
-XIV.- Detectar y realizar las tareas preventivas en zonas de riesgo o deslaves.
+B) (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2010)
 
 C) De Carácter Jurídico
 
@@ -823,7 +805,9 @@ X.- Recibir, dar trámite y resolución a las denuncias o reportes presentados s
 
 XI.- Informar a los ciudadanos que así lo soliciten, el estado evolutivo de los procedimientos jurídicos.
 
-Para el despacho de los asuntos de competencia de la Secretaría de Control Urbano, su titular se auxiliará directamente con las siguientes Direcciones: Dirección de Control Urbano, Dirección de Ecología, Dirección Jurídica y demás unidades administrativas que resulten necesarias.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+Para el despacho de los asuntos de competencia de la Secretaría de Control Urbano, su titular se auxiliará directamente con las siguientes Direcciones: Dirección de Control Urbano, Dirección Jurídica y demás unidades administrativas que resulten necesarias.
 
 ###### ARTÍCULO 31.
 
@@ -1199,6 +1183,112 @@ VIII.- Las demás que le sean encomendadas por el Presidente Municipal.
 
 Para el despacho de los asuntos de competencia de la Secretaría de Cultura, su titular se auxiliará directamente de las siguientes Direcciones: Dirección de Promoción de Cultura y Difusión, Dirección de Patrimonio Cultural y Profesionalización, Dirección del Auditorio San Pedro, Dirección del Museo Centenario y demás unidades administrativas que resulten necesarias.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+ARTÍCULO 35 BIS 1.- La Secretaría de Medio Ambiente y Desarrollo Sustentable tendrá como atribuciones y responsabilidades las que le otorguen los Reglamentos y demás disposiciones legales aplicables a la materia, así como las que a continuación se establecen:
+
+I. Elaborar, proponer, planear, diseñar y promover los proyectos de obras pluviales y demás proyectos de obras públicas relacionados con su ámbito de competencia, en coordinación con la entidad responsable del Gobierno Estatal, Federal o Entidades Públicas Descentralizadas;
+
+II. Participar y en su caso coordinar la contratación y elaboración de proyectos en materia de ecología;
+
+III. Elaborar estudios de factibilidad para la ejecución de proyectos de manejo de aguas pluviales;
+
+IV. Realizar inspecciones para vigilar, prevenir, controlar y aplicar las medidas de seguridad y sanciones que sean necesarias en lo concerniente a la ecología y protección ambiental del Municipio, acorde a los ordenamientos legales aplicables y lineamientos vigentes;
+
+V. Coadyuvar en la preservación de los recursos naturales y en la calidad de vida de los sampetrinos, a través de una política ambiental que asegure el desarrollo sustentable;
+
+VI. Elaborar y actualizar el diagnóstico ambiental del Municipio, definiendo la problemática existente, sus causas y consecuencias, proponiendo y aplicando las acciones correctivas correspondientes;
+
+VII. Vigilar, prevenir, controlar y aplicar las medidas de seguridad y sanciones necesarias para garantizar el mejoramiento del ambiente en el territorio del Municipio, acorde a los ordenamientos legales aplicables y lineamientos vigentes;
+
+VIII. Elaborar, coordinar y difundir planes y programas ecológicos, de protección y de cultura ambiental;
+
+IX. Vigilar que se cumplan las normas ambientales ecológicas relacionadas con el desarrollo urbano, tanto en lo referente a obras públicas como privadas, según lo establezcan acorde a los ordenamientos legales aplicables y lineamientos vigentes;
+
+X. Revisar y dictaminar los estudios de impacto y manifestación ambiental para nuevos desarrollos o edificaciones;
+
+XI. Otorgar o negar licencias para talas y trasplantes de árboles, prohibir en casos excesivos o innecesarios la poda de árboles, según lo dispongan las disposiciones reglamentarias aplicables, y llevar un control y registro de las licencias y prohibiciones acordadas;
+
+XII. La preservación y control de la flora y fauna;
+
+XIII. Fomentar el mejoramiento de las condiciones sanitarias que contribuyan al desarrollo satisfactorio de la población del Municipio;
+
+XIV. Administrar el manejo de las aguas pluviales que se originan en las cañadas de las sierras del Municipio;
+
+XV. Coordinarse con las dependencias competentes para detectar y realizar las tareas preventivas en zonas de riesgo o deslaves;
+
+XVI. Realizar inspecciones y efectuar notificaciones en asuntos de su competencia;
+
+XVII. Dictar las resoluciones administrativas correspondientes a los procedimientos jurídicos iniciados por presuntas violaciones a las normas de la materia;
+
+XVIII. Promover la celebración de convenios de coordinación y asistencia técnica con las entidades, Dependencias, Organismos e Instituciones Federales, Estatales o Municipales que apoyen el cuidado del medio ambiente;
+
+XIX. Analizar jurídicamente los documentos que se presenten con las solicitudes de las licencias ecológicas, en su caso, de ser procedente, emitir las resoluciones que en su materia corresponda; y
+
+XX. Tramitar los recursos administrativos promovidos contra las resoluciones de licencias y elaborar la resolución definitiva.
+
+Para el despacho de los asuntos de competencia de la Secretaría de Medio Ambiente y Desarrollo Sustentable, su titular se auxiliará de las unidades administrativas que resulten necesarias.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+ARTÍCULO 35 BIS 2.- La Oficina Ejecutiva del Presidente Municipal es la dependencia que auxilia directamente al Alcalde en el despacho de los asuntos de competencia de la Presidencia Municipal, y tendrá como atribuciones y responsabilidades las que le otorguen las disposiciones legales aplicables en la materia, así como las que a continuación se establecen:
+
+A) Generales
+
+I. Representar al Presidente Municipal en los eventos que le encomiende y en la atención a los ciudadanos;
+
+II. Establecer y mantener relaciones con las Dependencias Oficiales e Instituciones y Organizaciones privadas concernientes a su área;
+
+III. Apoyar al Presidente Municipal en las tareas administrativas propias de la función;
+
+IV. Atender e informar a la Secretaría de la Contraloría y Transparencia Municipal sobre las quejas presentadas en su Unidad Administrativa, para su atención y seguimiento; y,
+
+V. Las demás que le confiera el Presidente Municipal o el Republicano Ayuntamiento.
+
+B) Estratégicas
+
+I. Diseñar y operar el procedimiento para el acuerdo del Presidente Municipal con titulares de las Dependencias de la Administración Pública Municipal, con la finalidad de facilitar las decisiones en consideración a la información y propuestas que se presenten;
+
+II. Auxiliar al Presidente Municipal en la coordinación de sus consultores internos o externos; y
+
+III. Coordinar el seguimiento de los acuerdos que el Presidente Municipal emita en apoyo a los programas y proyectos municipales.
+
+C) Operativas
+
+I. Elaborar directamente o a través de terceros, estudios, procedimientos, metodologías, sistemas e instrumentos para la planeación, seguimiento y evaluación de los programas y proyectos de la Administración Pública Municipal;
+
+II. Asesorar y capacitar, directamente o a través de terceros, a las Dependencias de la Administración Pública Municipal, sobre la elaboración, administración, implementación y control de planes, estrategias, objetivos, programas y proyectos según la materia de competencia de las mismas;
+
+III. Establecer las bases para la integración de la agenda del Presidente Municipal; y su coordinación con las Dependencias de la Administración Pública Municipal y con otros órdenes de Gobierno;
+
+IV. Establecer las bases de organización y control del Archivo de la Oficina del Presidente Municipal y dar parte de éste a la Secretaría del Republicano Ayuntamiento para que forme del Archivo Municipal;
+
+V. Establecer las bases para la comunicación de trámite con otros Ayuntamientos, Dependencias y Entidades del Gobierno Estatal y Federal; y,
+
+VI. Informar al Presidente Municipal sobre los avances de los proyectos especiales y estratégicos de la Administración Pública Municipal.
+
+D) De Comunicación
+
+I. Proponer al Presidente Municipal las campañas de difusión de los planes, programas y proyectos de la Administración Pública Municipal;
+
+II. Publicar en medios impresos y electrónicos los avisos que requiera la Administración Pública Municipal y difundirlos entre la comunidad;
+
+III. Elaborar comunicados de prensa de las actividades más relevantes de la Administración Pública Municipal para difundirlos entre los medios de comunicación;
+
+IV. Ser el enlace entre la Administración Pública Municipal y los medios de comunicación;
+
+V. Asegurar la debida difusión de los planes y actividades de la Administración Pública Municipal en coordinación con las distintas Dependencias y Órganos Auxiliares, así como evaluar la repercusión que tengan en la opinión pública ciudadana y en los medios de comunicación;
+
+VI. Proporcionar a las Dependencias y Órganos Auxiliares la información recopilada y analizada que difunden los medios de comunicación respecto a la Administración Pública Municipal;
+
+VII. Diseñar la imagen institucional de la Administración Pública Municipal con logotipo, eslogan, tipografía y políticas de aplicación;
+
+VIII. Brindar cobertura de fotografía, video y audio a las actividades, programas y obras que lleve a cabo la Administración Pública Municipal, en coordinación con las distintas Dependencias; y,
+
+IX. Realizar análisis, estudios y encuestas en materia de opinión pública ciudadana y documentar los resultados y datos estadísticos.
+
+Para el despacho de los asuntos de competencia de la Oficina Ejecutiva del Presidente Municipal, su titular se auxiliará directamente de la Dirección de Comunicación Social y demás unidades administrativas que resulten necesarias y sean autorizadas en este Reglamento.
+
 ### CAPÍTULO III. DELEGACIÓN DE FUNCIONES Y SUPLENCIAS
 
 ###### ARTÍCULO 36.
@@ -1441,7 +1531,9 @@ Para lo no previsto en el presente Reglamento, se atenderá a lo dispuesto por l
 
 ## TRANSITORIOS
 
-Artículo Primero. Se abroga el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, aprobado en la Sesión Ordinaria del Republicano Ayuntamiento en fecha 28 de agosto de 2007 y Publicado en el Periódico Oficial del Estado No. 123 de fecha 12 de septiembre de 2007.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+Artículo Primero. Las presentes reformas por modificación, adición y derogación al Reglamento de Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Artículo Segundo. Se Aprueba el Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, en los términos que se exponen en el contenido del presente escrito.
 
@@ -1453,7 +1545,13 @@ Artículo Quinto. En tanto no sean reformados los capítulos SEGUNDO y TERCERO, 
 
 Artículo Sexto. En tanto no sea reformado el capitulo QUINTO, Artículos 9 del Reglamento Interior de la Contraloría Municipal, el Director Jurídico, tendrá las atribuciones que se le confiere al Asistente jurídico.
 
-Artículo Séptimo. El Reglamento Interior de la Contraloría Municipal será aplicable a la Secretaría de la Contraloría y Transparencia Municipal.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+Artículo Séptimo. Hasta en tanto no sea reformado el Reglamento para la Protección del Medio Ambiente y Desarrollo Sustentable para el municipio de San Pedro Garza García, Nuevo León, la Secretaría de Medio Ambiente y Desarrollo Sustentable, será la autoridad competente para aplicar dicho reglamento con las atribuciones conferidas a la Secretaría de Desarrollo Urbano y Ecología, hoy Secretaría de Control Urbano.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+Artículo Octavo. Hasta en tanto no sea reformado el Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios para el municipio de San Pedro Garza García, Nuevo León, las referencias que en este citado Reglamento se hagan a la Secretaría de Servicios Administrativos, deberán entenderse hechas a la Secretaría del Republicano Ayuntamiento.
 
 De acuerdo a lo anterior, esta Comisión de Gobierno y Reglamentación del Republicano Ayuntamiento, presenta a consideración de este Órgano Colegiado, la INICIATIVA DE REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE SAN PEDRO GARZA GARCÍA NUEVO LEON en los términos antes indicados, bajo el siguiente:
 
@@ -1500,3 +1598,9 @@ Artículo Primero.- Las presentes Reformas por Modificación, Adición y Derogac
 Artículo Segundo.- Se deroga cualquier disposición que contravenga lo dispuesto en las presentes Reformas
 
 Artículo Tercero.- Las referencias establecidas en los diversos reglamentos y lineamientos internos que se efectúen a favor de la Oficina Ejecutiva del Presidente Municipal, Secretaria de Desarrollo Urbano y Ecología, Secretaría de Seguridad Pública y Vialidad o Contraloría Municipal, se entenderán referidas a la Secretaría de Administración, Secretaría de Control Urbano, Secretaría de Seguridad Municipal o Secretaría de Contraloría y Transparencia respectivamente y por lo que se respecta a la Secretaría de Infraestructura y Servicios Públicos estas referencias se entenderán hechas a las Secretaría de Obras Públicas o Secretaría de Servicios Públicos según corresponda a las atribuciones asignadas en el presente Reglamento a cada una de estas últimas.
+
+P.O. 12 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- Las presentes reformas por modificación, adición y derogación al Reglamento de Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+...
