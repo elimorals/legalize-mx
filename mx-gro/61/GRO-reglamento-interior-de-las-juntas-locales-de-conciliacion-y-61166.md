@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-las-juntas-locales-de-conciliacion-y-611
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-13"
-last_updated: "2008-05-13"
+last_updated: "2010-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LAS JUNTAS LOCALES DE CONCILIACION Y ARBITRAJE DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 13 de mayo de 2008.
 
@@ -341,7 +341,9 @@ I. Elaborar los proyectos de laudos con absoluta imparcialidad y apegados a dere
 
 II. Entregar los proyectos de laudos, en un término de cinco días naturales, a partir de su fecha de recepción; y
 
-III. Presentarse a la Junta de su adscripción, cuando así sea requerido por el Presidente de la Junta.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
+
+III. Presentarse a la Junta de su adscripción, de manera puntual de lunes a viernes de cada semana y cubrir el horario de trabajo igual como lo hace el demás personal, justificando su hora de entrada y salida por los medios que sean designados para tal efecto.
 
 ### CAPÍTULO IX. DE LOS SERVIDORES PÚBLICOS DE LA JUNTA
 
@@ -1014,3 +1016,9 @@ LIC. HÉCTOR IRRA MENDIOLA.
 SECRETARIO GENERAL.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
