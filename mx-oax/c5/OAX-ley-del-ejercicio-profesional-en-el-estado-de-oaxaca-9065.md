@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-ejercicio-profesional-en-el-estado-de-oaxaca-9065"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-18"
-last_updated: "1989-03-18"
+last_updated: "2010-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 18 de Marzo de 1989.
 
@@ -147,7 +147,11 @@ SOCIOLOGIA
 
 TRABAJO SOCIAL
 
-VETERINARIA Y ZOOTECNIA.
+VETERINARIA Y ZOOTECNIA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+OPTOMETRÍA.
 
 ###### ARTICULO 6o.
 
@@ -444,3 +448,9 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. ILDEFONSO ZORRILLA CUEVAS.- Rúbrica.
 
 Al C........
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE NOVIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
