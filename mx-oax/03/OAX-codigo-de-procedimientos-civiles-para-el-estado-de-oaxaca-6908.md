@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2004-08-21"
+last_updated: "2010-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1759,7 +1759,7 @@ Cuando se solicite el secuestro provisional se expresará el valor de la demanda
 
 ###### Artículo 235.
 
-Cuando se pida un secuestro provisional, sin fundarlo en título ejecutivo, el actor dará fianza de responder de los daños y perjuicios que se sigan, ya por que se revoque la providencia, ya porque, entablada la demanda, sea absuelto el reo.
+Cuando se pida un secuestro provisional, sin fundarlo en título ejecutivo, el actor dará fianza de responder de los daños y perjuicios que se sigan, ya porque se revoque la providencia, ya por que, entablada la demanda, sea absuelto el reo.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -6105,9 +6105,9 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos ni excusarse por actos de jurisdicción voluntaria.
 
-### CAPITULO IV. Adopción
+### CAPITULO IV. De la Adopción Plena
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 906.
 
@@ -6165,11 +6165,13 @@ Para recibir dinero prestado en nombre del menor o incapacitado necesita el tuto
 
 Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores e incapacitados.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
 ### CAPITULO V. De las informaciones ad-perpetuam
 
 ###### Artículo 914.
 
-La persona que pretenda adoptar, deberá manifestar en su promoción inicial, el nombre y edad del sujeto o sujetos a adoptar, y el nombre y domicilio de quienes ejerzan sobre él o ellos la Patria Potestad o la tutela, o de las personas o institución de beneficencia que lo hayan acogido si se trata de persona abandonada. Además de cumplir con los requisitos que establecen los artículos 411 y 411 Bis del Código Civil, el solicitante deberá acreditar documentalmente su situación económica, así como su salud física y mental, mediante estudios socioeconómicos, psicológicos y médicos realizados por la Institución de Protección a la Familia.
+La persona que pretenda adoptar, deberá manifestar en su promoción inicial, el nombre y edad del sujeto o sujetos a adoptar, y el nombre y domicilio de quienes ejerzan sobre él o ellos la Patria Potestad o la tutela, o de las personas o institución de beneficencia que lo hayan acogido si se trata de persona abandonada. Además de cumplir con los requisitos que establecen los artículos 411, 411 Bis y 411 BIS A del Código Civil, el solicitante deberá acreditar documentalmente su situación económica, así como su salud física y mental, mediante estudios socioeconómicos, psicológicos y médicos realizados por la Procuraduría de la Defensa del Menor, la Mujer y la Familia en el Estado.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
@@ -6183,21 +6185,17 @@ Satisfechos los requisitos que se exigen en el artículo anterior, así como los
 
 Una vez dictada la sentencia definitiva que autorice la adopción, el Juez ordenará al Oficial del Registro Civil que cancele mediante una notación marginal correspondiente, el Acta de Nacimiento del adoptado y levante una nueva en la que figuren como padres los adoptantes, los nombres de los abuelos y como hijo, el adoptado. En ningún caso se hará mención de ser adoptado en las copias certificadas de actas de nacimiento que se expidan, ni aún a mérito de aclaración o anotación, la transgresión de esta disposición producirá la remoción del Oficial del Registro Civil, sin perjuicio de las penas en que pudiere incurrir.
 
-El adoptante deberá informar cada seis meses al Juez que la concedió, acerca de los cuidados y formación de los adoptados, hasta el término de tres años. El Juez tendrá la facultad en todo tiempo hasta que el adoptado cumpla la mayoría de edad, de solicitar oficiosamente todos los informes que estime pertinentes afín de cerciorarse del cumplimiento de los deberes del adoptante a favor del adoptado, para tal efecto deberá de llevar un libro sobre el exacto control de las adopciones que autorice. En caso de existir irregularidades, lo pondrá en conocimiento de las personas que conforme al artículo 411 dieron su consentimiento o en su caso al Ministerio Público, para que promuevan la revocación. Si se trataré de un hecho delictuoso solicitará al Representante Social la integración de la correspondiente averiguación previa.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+El adoptante deberá informar cada seis meses al Juez que la concedió, acerca de los cuidados y formación de los adoptados, hasta el término de tres años. El Juez tendrá la facultad en todo tiempo hasta que el adoptado cumpla la mayoría de edad, de solicitar oficiosamente todos los informes que estime pertinentes a fin de cerciorarse del cumplimiento de los deberes del adoptante a favor del adoptado, para tal efecto deberá de llevar un libro sobre el exacto control de las adopciones que autorice. En caso de que considere la existencia de hechos que pudieren constituir delitos, lo hará del conocimiento del Ministerio Público.
 
 ###### Artículo 916.
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 421 del Código Civil.
-
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 917.
 
-La impugnación de la adopción o su revocación, en los casos de los artículos 408 y 419 fracciones II, y III del Código Civil, se tramitarán en la vía de controversias del Orden Familiar.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
 ### CAPITULO VI. Apeo y deslinde
 
@@ -6599,7 +6597,7 @@ En los juicios del orden familiar, el recurso de apelación se admitirá en el e
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
-Las resoluciones sobre alimentos que fueren apeladas, se ejecutaran sin fianza.
+Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
@@ -6846,3 +6844,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 P.O. 21 DE AGOSTO DE 2004.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
