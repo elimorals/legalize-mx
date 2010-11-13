@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2010-08-14"
+last_updated: "2010-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -313,7 +313,11 @@ XV. Implementar programas de formación para y en el trabajo y la productividad 
 
 XVI. Vincular la educación con el sector productivo a efecto de que la planeación educativa responda a los requerimientos del desarrollo estatal y regional;
 
-XVII. Crear y sostener un sistema estatal de becas en todos sus niveles y modalidades, con base en la partida presupuestal que determine el Poder Legislativo del Estado;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+XVII. Crear y sostener un Sistema Estatal de Becas, Créditos y Estímulos Educativos, en todos sus niveles y modalidades, con base en la partida presupuestal que determine el Poder Legislativo del Estado.
+
+El Sistema se regirá por la normatividad reglamentaria que al efecto se expida;
 
 XVIII. Prestar y fortalecer los servicios de formación, actualización, capacitación y superación profesional para los docentes de los diferentes tipos, niveles y modalidades de conformidad con las disposiciones generales que la Autoridad Educativa Federal determine;
 
@@ -2524,3 +2528,13 @@ P.O. 14 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá realizar las previsiones presupuestales correspondientes a fin de que en el proyecto de Presupuesto de Egresos de Gobierno del Estado, para el ejercicio fiscal 2011, se dé suficiencia necesaria al Sistema de Becas, Créditos y Estímulos Educativos.
