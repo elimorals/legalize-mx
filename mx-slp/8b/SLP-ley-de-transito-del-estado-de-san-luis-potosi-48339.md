@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-48339"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-24"
-last_updated: "2008-06-28"
+last_updated: "2010-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de diciembre de 2005.
 
@@ -107,7 +107,9 @@ XVII. Pasajero: la persona que se encuentra a bordo de un vehículo y no tiene c
 
 XVIII. Placa: plancha de metal en que figura el número de matrícula, que permite individualizar un vehículo, expedida por la autoridad competente;
 
-XIX. Peatón: persona que transita a pie por la vía pública o zonas privadas con acceso al público, o camina asistiéndose de aparatos, o de vehículos no regulados por esta Ley, en el caso de las personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+XIX. Peatón: persona que transita a pie por la vía pública o zonas privadas con acceso al público, o camina asistiéndose de aparatos, o de vehículos no regulados por esta Ley, en el caso de las personas con discapacidad;
 
 XX. Permiso de circulación: documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño, con el objeto de que pueda circular temporalmente sin placas;
 
@@ -1170,3 +1172,9 @@ P.O. 28 DE JUNIO DE 2008.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
