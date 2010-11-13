@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2009-09-19"
+last_updated: "2010-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -83,7 +83,9 @@ La Comisión estará encargada del estudio, fomento, divulgación, observancia, 
 
 En materia de autonomía presupuestal, la Comisión:
 
-I. Elabora su propio presupuesto de egresos anual y lo presenta para su aprobación ante el Congreso del Estado, a través del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+I. Elabora su propio presupuesto de egresos anual, que deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en la Constitución Política de los Estados Unidos Mexicanos, así como en la Ley de la Entidad en materia de remuneraciones; presupuesto que será presentado para su aprobación ante el Congreso del Estado, a través del Poder Ejecutivo;
 
 II. Ejerce su presupuesto de egresos anual de manera independiente, sin injerencia de los poderes del Estado;
 
@@ -153,7 +155,7 @@ II. Pro Débil;
 
 III Equidad y No Discriminación;
 
-IV. lnmediatez;
+IV. Inmediatez;
 
 V. Integración y Transversalidad;
 
@@ -529,7 +531,7 @@ La persona titular de la Presidencia de la Comisión será sustituida durante su
 
 I. Durante faltas temporales de quince hasta sesenta días naturales, la persona titular de la Primera Visitaduría quedará encargada del despacho de manera automática;
 
-II. Durante faltas temporales de hasta ciento ochenta días naturales, el Consejo deberá aprobar la licencia respectiva y nombrará a la persona titular de la Primera Visítaduría, como titular provisional de la Presidencia, dando cuenta al Congreso del Estado de las circunstancias, razones y justificación de su decisión;
+II. Durante faltas temporales de hasta ciento ochenta días naturales, el Consejo deberá aprobar la licencia respectiva y nombrará a la persona titular de la Primera Visitaduría, como titular provisional de la Presidencia, dando cuenta al Congreso del Estado de las circunstancias, razones y justificación de su decisión;
 
 III. En caso de falta absoluta y definitiva de la persona titular de la Presidencia de la Comisión, el Consejo nombrará a la persona titular de la Primera Visitaduría en carácter de interino, dando cuenta al Congreso del Estado en los términos señalados en la fracción anterior, y solicitando se inicie el proceso de elección para designar a quien presida la Comisión, quien deberá concluir el período de cuatro años respectivo, y
 
@@ -1536,3 +1538,13 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE NOVIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en la ley de la materia, deberán ser ajustadas o disminuidas en el presupuesto de egresos correspondiente al ejercicio fiscal del año dos mil once.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
