@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2010-06-12"
+last_updated: "2010-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1093,7 +1093,9 @@ IV. Orientar y capacitar a la población preferentemente en materia de nutrició
 
 La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los distintos niveles de educación básica obligatoria, a efecto de combatir la obesidad y el sobrepeso; el cual incluirá entre otras acciones, la medición de masa corporal, el fomento del consumo de alimentos y bebidas saludables, y el fortalecimiento de una actividad física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+La Secretaría de Salud formulará un programa destinado a la población escolar de los distintos niveles de educación básica obligatoria, para combatir la obesidad y sobrepeso; el cual incluirá entre otras acciones, la medición de masa corporal, el fomento del consumo de alimentos y bebidas de bajo contenido calórico; además, una guía de calistenia como activación física diaria. Para efecto de su ejecución la Secretaría se coordinará con las autoridades federales, estatales y municipales competentes.
 
 ### CAPITULO III. Enfermedades no Transmisibles
 
@@ -3317,7 +3319,7 @@ TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
 
 P.O. 18 DE DICIEMBRE DE 2008.
 
-DECRETO 553, POR EL QUE SE ADICIONA AL TITULO TERCERO EL CAPITULO IX, CON LOS ARTICULOS, 67 BIS, 67 TER, 67 QUATER, 67 QUINQUE (SIC Y 67 SEXTIES, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO 553, POR EL QUE SE ADICIONA AL TITULO TERCERO EL CAPITULO IX, CON LOS ARTICULOS, 67 BIS, 67 TER, 67 QUATER, 67 QUINQUE (SIC) Y 67 SEXTIES, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI.
 
 PRIMERO. Este Decreto entrará en vigor a los quince días naturales siguientes a su publicación en el Periódico Oficial del Estado.
 
@@ -3350,5 +3352,11 @@ SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto
 P.O. 12 DE JUNIO DE 2010.
 
 PRIMERO. Este Decreto entrará al día siguiente de su publicación el (sic) Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
