@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2008-12-30"
+last_updated: "2010-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-CODIGO CIVIL PARA EL ESTADO DE OAXACA
+CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -579,7 +579,7 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 68, se hará constar las particularidades que los distingan, según las noticias que proporcione el Médico, el Cirujano, la Matrona o las personas que hayan asistido al parto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO III. De las actas de reconocimiento de hijos naturales
 
@@ -1001,7 +1001,7 @@ Si por haber ocurrido la muerte en despoblado, o por cualquier otro motivo no se
 
 En los registros de nacimiento y matrimonio se hará referencia al acta de defunción expresándose los folios y el legajo en que conste ésta. Cuando el fallecimiento ocurra en lugar distinto de aquél en que se haya registrado el nacimiento o el matrimonio, el Oficial del Registro Civil remitirá copia del acta de defunción al de aquél lugar para las anotaciones correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO XI. De la rectificación, modificación y aclaración de las actas del registro civil
 
@@ -1023,7 +1023,7 @@ El Oficial del Registro Civil levantará el acta que corresponda que contendrá 
 
 Cuando se recupere la capacidad legal para administrar bienes y la patria potestad, se presente la persona declarada ausente o cuya muerte se presumía, o se revoque la adopción, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la Autoridad correspondiente para que se haga la cancelación del acta a que se refiere el artículo que antecede.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 1982)</small>
 
 ### CAPITULO I. Requisitos necesarios para contraerlo
 
@@ -1927,7 +1927,7 @@ Para que pueda pedirse el divorcio por causa de enajenación mental que se consi
 
 El divorcio por mutuo consentimiento se obtendrá ocurriendo ante el juez competente en los términos que ordene el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 285.
 
@@ -1979,7 +1979,7 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 El cónyuge que no haya dado causa al divorcio, puede, antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 ###### Artículo 294.
 
@@ -2009,7 +2009,7 @@ VII. Separar al cónyuge agresor del domicilio familiar y la prohibición de acu
 
 En todo caso, el Juez atenderá al interés superior de los menores y, si fuere necesario, los escuchará respecto de las medidas que piensa tomar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 295.
 
@@ -2077,7 +2077,7 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos
 
 Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en las tablas destinadas al efecto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 ## TITULO SEXTO. Del parentesco, de los alimentos y de la violencia intrafamiliar
 
@@ -2133,9 +2133,9 @@ Artículo 336 Bis B.- Los integrantes de la familia están obligados a evitar co
 
 Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave en contra de un miembro de la familia por otro de la misma, que atente contra su integridad física, psíquica o ambas, independientemente de que pueda o no producir otro delito; siempre y cuando el agresor y el agraviado cohabiten el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
 
-> <small>N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGESIMA SEPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL PRESENTE TITULO QUEDA INTEGRADO POR DOS CAPITULOS.</small>
+> <small>N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL PRESENTE TÍTULO QUEDA INTEGRADO POR DOS CAPÍTULOS.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 313.
 
@@ -2271,21 +2271,21 @@ Lo expuesto en este artículo es aplicable también a la obligación alimentaria
 
 Cuando alguna persona muera por motivo del desempeño de funciones o empleos públicos, sin dejar bienes propios que basten al sostenimiento de sus hijos menores de edad o inválidos, el Estado y los Municipios tendrán obligación de proporcionar alimentos a dichos hijos en los mismos términos que si se trataré de hermanos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 ### CAPITULO I. De los hijos
 
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
-### CAPITULO II. De la adopción
+### CAPITULO II. De la Adopción Plena
 
-> <small>(ADICIONADO, [N. DE E. REFORMADO], P.O. 1 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO SEPTIMO. De la filiación
 
-> <small>N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGESIMA SEPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL CONTENIDO DE LOS ANTERIORES CAPITULO II, III Y IV QUEDA INMERSO EN EL PRESENTE CAPITULO.</small>
+> <small>N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL CONTENIDO DE LOS ANTERIORES CAPÍTULO II, III Y IV QUEDA INMERSO EN EL PRESENTE CAPÍTULO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2001)</small>
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
@@ -2297,7 +2297,7 @@ La filiación es el vínculo existente entre los hijos y sus progenitores. La mi
 
 La filiación queda probada por el nacimiento, las presunciones legales, el reconocimiento que el padre o la madre hagan de su hijo, la sentencia ejecutoria que declare la paternidad o la maternidad, o por la adopción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 337.
 
@@ -2337,7 +2337,7 @@ El cónyuge no podrá desconocer a los hijos, alegando adulterio de la madre, au
 
 El cónyuge podrá desconocer al hijo nacido después de trescientos días contados desde que judicialmente y de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la cónyuge, el hijo o el tutor de éste, pueden sostener en tales casos la paternidad del cónyuge.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 341.
 
@@ -2383,7 +2383,7 @@ Cuando el cónyuge, teniendo o no tutor, ha muerto sin recobrar la razón, los h
 
 Los herederos del cónyuge, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido después de la celebración del matrimonio, cuando el cónyuge no haya comenzado esa demanda. En los demás casos, si el cónyuge ha muerto sin hacer la reclamación dentro del plazo hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 347.
 
@@ -2435,7 +2435,7 @@ Puede haber transacción o arbitraje sobre los derechos pecuniarios que de la fi
 
 La filiación de los hijos se prueba con la partida de su nacimiento, pero si se cuestiona la existencia o validez del matrimonio de los padres, debe presentarse el acta de matrimonio de éstos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 354.
 
@@ -2447,7 +2447,7 @@ Si uno solo de los registros faltare o estuviere inutilizado y existe el duplica
 
 Si hubiere hijos de dos personas que han vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o enfermedad, les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos su legitimidad por sólo la falta de presentación del acta de matrimonio, siempre que se pruebe por la posesión de estado de hijos legítimos, o que por los medios de prueba que autoriza el artículo anterior se demuestre la filiación y no esté contradicha por el acta de nacimiento.
 
-REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)
+REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)
 
 ###### Artículo 356.
 
@@ -2465,7 +2465,7 @@ Además, será necesario que el presunto padre tenga la edad exigida por el art�
 
 La filiación de los hijos a que se refiere el artículo 337 bis de este Código, se demuestra con el acta de nacimiento de aquéllos y, en su caso, con la prueba de la fecha en que comenzó o terminó la vida común de los padres.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 357.
 
@@ -2717,31 +2717,35 @@ II. A ser alimentado por éste;
 
 III. A percibir la porción hereditaria y los alimentos que fije la ley.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO II. De los efectos de la patria potestad respecto de los bienes del hijo
 
 ###### Artículo 403.
 
-Adopción es el acto por el cual una persona mayor de veinticinco año (sic) en pleno ejercicio de sus derechos, acepta a uno o más menores o incapacitados como hijos, adquiriendo respecto de él o ellos todos los derechos que los padres tienen y contrayendo todas las responsabilidades que el mismo reporta respecto de la persona de un hijo.
+La adopción plena es el acto por el cual una persona mayor de veinticinco años en ejercicio de sus derechos, acepta a uno o más menores o incapacitados como hijos, adquiriendo respecto de él o ellos todos los derechos que los padres tienen y contrayendo todas las responsabilidades que el mismo reporta respecto de la persona de un hijo.
 
-El acto de adopción produce efectos legales entre los adoptantes y adoptados, así como entre éstos y la familia de los primeros, como si se tratara de un hijo consanguíneo, quedando extinguida la filiación entre el adoptado y sus progenitores; subsisten, sin embargo, los impedimentos para contraer matrimonio.
+El acto de adopción produce efectos legales entre los adoptantes y adoptados así como entre éstos y la familia de los primeros, como si se tratara de un hijo consanguíneo, quedando extinguida la filiación entre el adoptado y sus progenitores; subsisten, sin embargo, los impedimentos para contraer matrimonio.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 404.
 
-Toda persona mayor de veinticinco años puede ejercer libremente el derecho de la adopción, siempre que entre el adoptante y el adoptado haya una diferencia de edad no menor de diez años.
-
-Podrán ser adoptados simultáneamente por un solo matrimonio o una sola persona, gemelos, mellizos, triates o múltiples y en general dos o más menores o incapacitados.
-
-Cuando se trate de hermanos de diferentes edades, quedará a juicio del Juez decidir sobre la conveniencia de la separación o no de éstos para darlos en adopción.
+Toda persona mayor de veinticinco años puede adoptar, siempre que entre el adoptante y el adoptado haya una diferencia de edad no menor de diecisiete años.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
+Podrán ser adoptados simultáneamente por un solo matrimonio o una sola persona, gemelos, mellizos, triates o múltiples y en general dos o más menores o incapacitados.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
+Cuando se trate de hermanos de diferentes edades, quedará a juicio del Juez decidir sobre la conveniencia de la separación o no de éstos para darlos en adopción.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 405.
 
-El marido y la mujer podrán adoptar cuando los dos estén conformes en considerar al adoptado o adoptados como sus hijos. En este caso, bastará que cualquiera de los dos cónyuges sea mayor de veinticinco años, pero deberá existir la diferencia de edad de diez años entre adoptantes y adoptado.
+El marido y la mujer podrán adoptar cuando los dos estén conformes en considerar al adoptado o adoptados como sus hijos. En este caso, bastará que cualquiera de los dos cónyuges sea mayor de veinticinco años, pero deberá existir la diferencia de edad de diecisiete años entre adoptantes y adoptado.
 
 ###### Artículo 406.
 
@@ -2753,7 +2757,7 @@ El tutor no puede adoptar al pupilo sino después de que hayan sido definitivame
 
 ###### Artículo 408.
 
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción durante el año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 409.
 
@@ -2781,6 +2785,10 @@ V. El Ministerio Público del domicilio del o de los adoptados cuando éstos no 
 
 Si el sujeto o sujetos de la adopción tienen más de catorce años, también se necesita su consentimiento para ese efecto.
 
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+El consentimiento otorgado en términos de ley ante la Procuraduría de la Defensa del Menor, la Mujer y la Familia en el Estado, previa identificación fehaciente de quien deba otorgarlo, surtirá todos sus efectos legales sin que se requiera su posterior ratificación ante la presencia judicial.
+
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
 ###### Artículo 411 Bis.
@@ -2789,19 +2797,31 @@ Para llevar a cabo la adopción, deberán satisfacerse también los siguientes r
 
 I. Demostrar plenamente que es mayor de veinticinco años;
 
-II. Que el o los adoptantes tienen medios económicos bastantes para proveer a la subsistencia del incapacitado como hijo propio, según las circunstancias del sujeto o sujetos que tratan de adoptarse;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+II. Que el o los adoptantes tienen medios económicos bastantes para proveer a la subsistencia del menor o incapacitado como hijo propio, según las circunstancias del sujeto o sujetos que tratan de adoptarse;
 
 III. Que el adoptante sea persona de buenas costumbres;
 
-IV. En el caso de menores que se encuentren bajo el cuidado del Sistema para el Desarrollo Integral de la Familia (D.I.F.), deberán colmarse, además, los requisitos que exija ese organismo público;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+IV. La carta de idoneidad emitida por el Sistema para el Desarrollo Integral de la Familia;
 
 V. Deberá justificar que la adopción sea benéfica para los menores o incapacitados que tratan de adoptarse;
 
-VI. Cuando el o los solicitantes sean extranjeros, además de cumplir con los requisitos que establecen los artículos anteriores, deberán acreditar su legal estancia en el País; y si no reside en éste, deberán contar además con la autorización del Tribunal de su país de origen para adoptar a un menor o incapacitado mexicano.
+VI. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2010)
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 411 Bis A.- La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
+
+La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional. Esta adopción se regirá por lo dispuesto en el presente Código.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 412.
 
-Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el presidente municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
+Si el tutor, el Ministerio Público o las personas a que se refiere el artículo 411, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Juez, tomando en consideración el interés superior del menor que trate de adoptarse procurando su bienestar con absoluto respeto a sus derechos fundamentales.
 
 ###### Artículo 413.
 
@@ -2811,9 +2831,17 @@ El procedimiento para hacer la adopción será fijado por el Código de Procedim
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 415.
 
-El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Juez del Estado Civil del lugar para que levante el acta correspondiente.
+El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+
+El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial:
+
+I. Para efectos de impedimento para contraer matrimonio; y
+
+II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad; si fuere· menor de edad se requerirá el consentimiento de los adoptantes.
 
 ###### Artículo 416.
 
@@ -2827,47 +2855,31 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 419.
 
-La adopción puede revocarse:
-
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1993)</small>
-
-I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad o haya desaparecido la incapacidad. Si no lo fuere o no haya recobrado su capacidad es necesario que consientan en la revocación las mismas personas que prestaron su consentimiento conforme al artículo 411 fracción II de este Código;
-
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-II. Por ingratitud del adoptado mayor de edad; y
-
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 1998)</small>
-
-III. Por el abandono o mal trato del adoptado por el adoptante.
+La adopción plena es irrevocable.
 
 ###### Artículo 420.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I. Si comete algún delito contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II. Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III. Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 421.
 
-En el primer caso del artículo 419 el juez decretará que la adopción quede revocada, si convencido de la espontaneidad con que se solicitó la revocación encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 422.
 
-El decreto del Juez deja sin efecto la adopción y las consecuencias de ésta, a partir del día en que se dictó haciendo cesar el parentesco civil creado por la misma.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 423.
 
-En el segundo caso del artículo 419, la adopción deja de producir sus efectos desde que se comete el acto de ingratitud aunque la resolución judicial que declare revocada la adopción sea posterior.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 424.
 
-Las resoluciones que dicten los jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que se hizo para que cancele el acta de adopción.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 2010)
 
 ## TITULO OCTAVO. De la patria potestad
 
@@ -3177,7 +3189,7 @@ Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al pr
 
 No pueden ser nombrados tutores o curadores las personas que integren los consejos locales de tutelas; ni los que estén ligados por parentesco de consanguinidad con éstas en línea recta, sin limitación de grado; y en la colateral, dentro del cuarto inclusive.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 475.
 
@@ -3303,7 +3315,7 @@ Si hubiese varios hermanos de igual vínculo, y varios tíos de igual grado, el 
 
 La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO VI. De la tutela dativa
 
@@ -4125,7 +4137,7 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 El matrimonio del menor produce de derecho la emancipación del mismo. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JULIO DE 1971)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 1971)</small>
 
 ###### Artículo 656.
 
@@ -4595,7 +4607,7 @@ III. Por el pariente que suministre alimentos a sus ascendientes, descendientes 
 
 IV. Por el tutor cuando administre bienes pertenecientes al incapacitado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 1997)</small>
 
 ###### Artículo 745.
 
@@ -4663,7 +4675,7 @@ V. Cuando por causa de utilidad pública o social se expropien los bienes que lo
 
 VI. (DEROGADA, P.O. 31 DE MAYO DE 1997)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 1997)</small>
 
 ###### Artículo 753.
 
@@ -4885,11 +4897,11 @@ Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido y cuya 
 
 ###### Artículo 795.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA, P.O. 15 DE DICIEMBRE DE 1951)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA, P.O. 15 DE DICIEMBRE DE 1951)
 
 ###### Artículo 796.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA, P.O. 15 DE DICIEMBRE DE 1951)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA, P.O. 15 DE DICIEMBRE DE 1951)
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -5873,7 +5885,7 @@ El que se reserva la propiedad, puede dispensar al usufructuario de la obligaci�
 
 Si el usufructo fuere constituído por contrato, y el que contrató quedare de propietario, y no exigiere en el contrato la fianza, no estará obligado el usufructuario a darla; pero si quedare de propietario un tercero, podrá pedirla aunque no se haya estipulado en el contrato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 1012.
 
@@ -6893,7 +6905,7 @@ Son incapaces de adquirir por testamento o por intestado, a causa de falta de pe
 
 Será, no obstante, válida la disposición hecha en favor de los hijos que nacieron de ciertas y determinadas personas vivas al tiempo de la muerte del testador; pero no valdrá la que se haga en favor de descendientes de ulteriores grados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 ###### Artículo 1219.
 
@@ -7167,7 +7179,7 @@ Si el legado consistiere en prestación periódica, el legatario hará suyas tod
 
 Toda persona tiene derecho de disponer libremente de sus bienes por testamento, a título de herencia o de legado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 1274.
 
@@ -8273,7 +8285,7 @@ A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpe
 
 A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del sexto grado, sin distinción de línea ni consideración al doble vínculo, y heredarán por partes iguales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 1998)</small>
 
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda quede encinta
 
@@ -8813,7 +8825,7 @@ Las funciones del interventor se limitarán a vigilar el exacto cumplimiento del
 
 El interventor no puede tener la posesión ni aun interina, de los bienes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 1613.
 
@@ -15097,27 +15109,27 @@ El Registro Público de la Propiedad, es la Institución mediante la cual el Eje
 
 El Registro Público de la Propiedad en el Estado, estará a cargo del Director del Registro Público de la Propiedad, quien se auxiliará de registradores en cada distrito judicial, con asiento en las localidades que determine el Ejecutivo del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 El registro Público de la Propiedad contará con un sistema informático denominado Sistema Informático Registral, en el que se realizarán las inscripciones, cancelaciones, anotaciones y asientos que competen, a esta Institución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 2881.
 
 El Reglamento fijará el número de secciones de que se componga el registro y la sección en que deban inscribirse los títulos que se registren, así como el sistema adoptado para el registro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
 Las inscripciones de los actos jurídicos se asentarán en el medio electrónico generado por el Sistema Informático Registral de acuerdo al Reglamento correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -15127,7 +15139,7 @@ En el caso de los Libros de registro anteriores al Sistema Informático Registra
 
 Cualquier anotación, cancelación o modificación de una inscripción correspondiente a año distinto de aquél en que se haga, se avisará por el registrador respectivo al Director, para que este mande practicar en los libros del archivo igual anotación, cancelación o modificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -15257,7 +15269,7 @@ El escrito por el que se interponga el recurso de inconformidad, a que se refier
 
 El recurso se substanciará en los términos que fije el reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 2893.
 
@@ -15265,7 +15277,7 @@ En los casos a que se refiere el artículo 2892, el registrador tiene obligació
 
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 ###### Artículo 2894.
 
@@ -15467,7 +15479,7 @@ Las cancelaciones se harán en la forma que fije el reglamento; pero deberán co
 
 Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2001)</small>
 
 ###### Artículo 2924.
 
@@ -15611,7 +15623,7 @@ Oaxaca de Juárez, a once de diciembre de mil novecientos cuarenta y tres.
 
 El Secretario General del Despacho, Lic. RAYMUNDO MANZANO TROVAMALA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE DICIEMBRE DE 1945.
 
@@ -15623,7 +15635,7 @@ Unico.- El presente decreto entrará en vigor el día de su publicación en el P
 
 P.O. 15 DE DICIEMBRE DE 1951.
 
-SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA QUE SE RELACIONAN CON EL PRESENTE CODIGO.
+SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA QUE SE RELACIONAN CON EL PRESENTE CÓDIGO.
 
 Artículo Primero: Se deroga el artículo 1150 del Código Civil en cuanto establece la prescripción de los bienes inmuebles de propiedad privada del Estado, así como sus derechos y acciones.
 
@@ -15653,7 +15665,7 @@ EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PE
 
 P.O. 5 DE NOVIEMBRE DE 1988.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -15685,7 +15697,7 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 
 P.O. 15 DE NOVIEMBRE DE 1997.
 
-DECRETO No. 204 QUE ADICIONA LOS ARTICULOS 2808 Y 2883 DEL PRESENTE CODIGO.
+DECRETO No. 204 QUE ADICIONA LOS ARTÍCULOS 2808 Y 2883 DEL PRESENTE CÓDIGO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, y sólo surtirá sus efectos para aquellos contratos que se celebren a partir de la fecha de su vigencia.
 
@@ -15695,7 +15707,7 @@ TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 
 P.O. 15 DE NOVIEMBRE DE 1997.
 
-DECRETO NO. 207, QUE REFORMA LOS ARTICULOS 27, 28, 39, 42, 44, 46, 52, 53, 59, 67, 68, 73, 74, 75 Y 76; Y ADICIONA EL ARTICULO 35 DEL PRESENTE CODIGO.
+DECRETO NO. 207, QUE REFORMA LOS ARTÍCULOS 27, 28, 39, 42, 44, 46, 52, 53, 59, 67, 68, 73, 74, 75 Y 76; Y ADICIONA EL ARTÍCULO 35 DEL PRESENTE CÓDIGO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -15703,7 +15715,7 @@ SEGUNDO.- Se derogan todas las disposiciones de menor rango que se opongan al pr
 
 P.O. 15 DE NOVIEMBRE DE 1997.
 
-DECRETO No. 208, QUE REFORMA LOS ARTICULOS 2880, 2881, 2892, 2893, 2894 Y ADICIONA EL 2892 BIS DEL PRESENTE CODIGO.
+DECRETO No. 208, QUE REFORMA LOS ARTÍCULOS 2880, 2881, 2892, 2893, 2894 Y ADICIONA EL 2892 BIS DEL PRESENTE CÓDIGO.
 
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -15737,13 +15749,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 20 DE JULIO DE 2001.
 
-DECRETO NO. 312, QUE REFORMA EL ARTICULO 718 DEL PRESENTE CODIGO.
+DECRETO NO. 312, QUE REFORMA EL ARTÍCULO 718 DEL PRESENTE CÓDIGO.
 
 UNICO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 20 DE JULIO DE 2001.
 
-DECRETO NO. 313, QUE ADICIONA EL ARTICULO 1404 Y UN CAPITULO III BIS, CON EL ARTICULO 1448 BIS DEL PRESENTE CODIGO.
+DECRETO NO. 313, QUE ADICIONA EL ARTÍCULO 1404 Y UN CAPÍTULO III BIS, CON EL ARTÍCULO 1448 BIS DEL PRESENTE CÓDIGO.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -15778,3 +15790,7 @@ SEGUNDO.- En tanto las Registradurías foráneas del Registro Público de la Pro
 TERCERO.- Los Libros del Registro que por virtud del cambio del Sistema Informático Registral dejen de utilizarse, quedarán bajo resguardo de la Dirección del Registro Público de la Propiedad, para su consulta y expedición de certificaciones.
 
 CUARTO.- El Ejecutivo del Estado actualizará las disposiciones reglamentarias para el Registro Público de la Propiedad dentro de los sesenta días siguientes a la publicación del presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
