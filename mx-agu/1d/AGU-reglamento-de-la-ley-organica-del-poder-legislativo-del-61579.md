@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-61579"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-16"
-last_updated: "2010-07-19"
+last_updated: "2010-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2008.
 
@@ -103,7 +103,9 @@ En caso contrario, la protesta le será tomada por la Diputación Permanente den
 
 Tratándose de licencia por tiempo determinado, al término de ésta, el Diputado se reintegrará a sus labores de forma inmediata, comunicándolo al Presidente de la Mesa Directiva en turno, cesando de igual forma las labores del suplente.
 
-Mientras que para el caso de licencias por tiempo indeterminado, previo al reingreso del Diputado a sus labores, deberá hacerlo del conocimiento de la Mesa Directiva en funciones, siendo la fecha de reingreso, el día en que así se dé cuenta al Pleno o a la Diputación Permanente.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+Mientras que para el caso de licencias por tiempo indeterminado, previo al reingreso del Diputado a sus labores, deberá hacerlo del conocimiento de la Mesa Directiva en funciones, siendo la fecha de reingreso, al día siguiente de la Sesión en la que se dé cuenta al Pleno o a la Diputación Permanente.
 
 El reingreso del Diputado a sus labores no requiere aprobación previa alguna.
 
@@ -225,7 +227,9 @@ Corresponde a cada Comisión:
 
 I. Elaborar el programa anual de trabajo y demás actividades de la comisión:
 
-II. Aprobar la agenda de sesiones ordinarias de la comisión, señalando día, hora y lugar de su celebración, las cuales serán cuando menos una vez al mes, tanto en períodos ordinarios, como de receso del Congreso; dependiendo asimismo de la carga de trabajo que trabajo (sic) de cada comisión;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+II. Aprobar la agenda de sesiones ordinarias de la comisión, señalando día, hora y lugar de su celebración, las cuales serán cuando menos dos veces por mes, tanto en periodos ordinarios, como de receso;
 
 III. Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones turnadas, dentro de los plazos establecidos;
 
@@ -1978,3 +1982,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 15 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
