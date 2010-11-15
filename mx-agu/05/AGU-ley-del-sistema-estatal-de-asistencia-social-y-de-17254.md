@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2010-07-12"
+last_updated: "2010-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACION FAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -1121,6 +1121,12 @@ Los empleados de las instituciones que manejen fondos estarán obligados a const
 
 A más tardar el primero de diciembre de cada año, los patronatos de las instituciones de beneficencia privada, deberán remitir al Organismo, la estimación de los ingresos probables, así como el Presupuesto de Egresos para el ejercicio anual siguiente, calculados en forma que establece el Reglamento de esta Ley. El ejercicio comprenderá de los meses de enero a diciembre de cada año.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR EL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 115 bis.- En lo que se refiere a la administración de Recursos Públicos que se otorguen, se observarán las normas establecidas en la Ley que Regula las Organizaciones de la Sociedad Civil del Estado de Aguascalientes.
+
 ###### ARTICULO 116.
 
 En ningún caso, en instituciones que estén operando normalmente, los gastos de administración podrán ser superiores al importe de los servicios asistenciales.
@@ -1476,3 +1482,25 @@ El Sistema para el Desarrollo Integral de la Familia del Estado, gestionará ant
 ###### ARTICULO CUARTO.
 
 Una vez publicado el presente Decreto en el Periódico Oficial del Estado, los municipios deberán emitir sus reglas en un plazo máximo de 180 días naturales contados a partir de la entrada en vigencia del presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia el 1º de diciembre del año 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión a que hace referencia el Artículo 8º deberá quedar instalada dentro de los 30 días naturales siguientes a que entre en vigencia esta Ley
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento de esta Ley, en un plazo de 60 días naturales contados a partir de su publicación en el Periódico Oficial del Estado, entrando en vigencia hasta el cumplimiento del Primer Artículo Transitorio.
+
+###### ARTÍCULO CUARTO.
+
+La integración e instalación del Consejo deberá llevarse a cabo por la Comisión, dentro de los 120 días naturales siguientes a la fecha de entrada en vigencia de este ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Las Unidades de Enlace contarán con noventa días naturales siguientes a la entrada en vigencia del presente Decreto, para enviar a la Secretaría Técnica la información correspondiente a las Organizaciones que se encuentran registradas en las dependencias y entidades, así como las de nueva constitución que se registren ante ellas.
