@@ -4,7 +4,7 @@ identifier: "HID-ley-para-combatir-y-prevenir-la-trata-de-personas-para-el-76892
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2010-10-04"
+last_updated: "2010-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA COMBATIR Y PREVENIR LA TRATA DE PERSONAS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 4 de octubre de 2010.
 
@@ -101,9 +101,9 @@ VII.- La extracción ilícita de un órgano, tejidos, sus componentes o derivado
 
 Quien resultare responsable del delito de trata de personas, además del decomiso de todos los bienes producto de las conductas antes descritas, se le impondrán las siguientes penas:
 
-(NOTA: EL 19 DE MAYO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 30/2010 Y SU ACUMULADA 31/2010, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE JULIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
-I.- De seis a doce años de prisión y MULTA DE QUINIENTOS DÍAS DE SALARIO MÍNIMO; y
+I.- De seis a doce años de prisión y multa de quinientos a mil quinientos días de salario mínimo; y
 
 II.- De nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta días de salario mínimo, si el delito es cometido en contra de una persona menor de dieciocho años de edad o en contra de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo.
 
@@ -454,3 +454,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 GOBERNADOR CONSTITUCIONAL DEL ESTADO HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
