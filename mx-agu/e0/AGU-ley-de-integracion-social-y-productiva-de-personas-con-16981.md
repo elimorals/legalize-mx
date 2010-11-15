@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2008-06-30"
+last_updated: "2010-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: P.O. 30 DE JUNIO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -151,9 +151,15 @@ VI.- Vigilar que los apoyos otorgados a las personas físicas y morales cuyos ob
 
 VII.- Llevar a cabo un padrón de personas con discapacidad y de instituciones legalmente constituidas;
 
-VIII.- Supervisar que sólo se apoye a las personas físicas y morales que se encuentren debidamente registradas ante este Comité Técnico;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IX.- Acreditar previamente, a las personas morales que lo soliciten para que la autoridad municipal competente las autorice para pedir cooperación económica a la comunidad en la vía pública y recibir el informe del destino que se den a estos recursos;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+VIII.- Supervisar que sólo se apoye a las personas físicas y morales que se encuentren debidamente registradas ante este Comité Técnico; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+IX.- (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2010)
 
 X.- Las demás que señale esta Ley y su Reglamento.
 
@@ -608,3 +614,25 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los Gobiernos Estatal y Municipales, sus entidades paraestatales, así como los Poderes Legislativo y Judicial, tendrán un plazo máximo de doce meses a partir de la entrada en vigencia del presente Decreto, para programar las acciones necesarias, que permitan la integración de las personas con discapacidad a su planta laboral.
+
+P.O. 15 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia el 1º de diciembre del año 2010.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión a que hace referencia el Artículo 8º deberá quedar instalada dentro de los 30 días naturales siguientes a que entre en vigencia esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá expedir el Reglamento de esta Ley, en un plazo de 60 días naturales contados a partir de su publicación en el Periódico Oficial del Estado, entrando en vigencia hasta el cumplimiento del Primer Artículo Transitorio.
+
+###### ARTÍCULO CUARTO.
+
+La integración e instalación del Consejo deberá llevarse a cabo por la Comisión, dentro de los 120 días naturales siguientes a la fecha de entrada en vigencia de este ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Las Unidades de Enlace contarán con noventa días naturales siguientes a la entrada en vigencia del presente Decreto, para enviar a la Secretaría Técnica la información correspondiente a las Organizaciones que se encuentran registradas en las dependencias y entidades, así como las de nueva constitución que se registren ante ellas.
