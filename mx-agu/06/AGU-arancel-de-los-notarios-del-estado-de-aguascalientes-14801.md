@@ -4,7 +4,7 @@ identifier: "AGU-arancel-de-los-notarios-del-estado-de-aguascalientes-14801"
 country: "mx"
 rank: "otro"
 publication_date: "1987-12-06"
-last_updated: "1987-12-06"
+last_updated: "2010-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 ARANCEL DE LOS NOTARIOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUEMERO 501, PUBLICADO EN EL P.O. DEL ESTADO DE AGUASCALIENTES DE FECHA 15 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO
 
 Arancel publicado en el Periódico Oficial del Estado de Aguascalientes, el 6 de diciembre de 1987.
 
@@ -220,3 +222,11 @@ Ing. Miguel Angel Barberena Vega.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2010
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia el mismo día que inicie su vigencia el Arancel que emita el Poder Ejecutivo a que se refiere el Artículo 9° de la Ley del Notariado para el Estado de Aguascalientes.
