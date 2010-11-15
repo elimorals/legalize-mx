@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2010-05-10"
+last_updated: "2010-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -45,7 +45,39 @@ LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTE
 
 El conocimiento y resolución del procedimiento contencioso administrativo corresponderá al Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes.
 
-Para los efectos de esta Ley se entenderá por Tribunal, el Tribunal de lo Contencioso Administrativo del Estado y por procedimiento, el Procedimiento Contencioso Administrativo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+Para los efectos de esta Ley se entenderá por:
+
+I. Acuse de Recibo Electrónico: Constancia que acredita que un documento vía digital, fue recibido por el Tribunal y estará sujeto a la misma regulación aplicable al uso de una firma electrónica avanzada. En este caso, el acuse de recibo electrónico identificará al Tribunal que recibió el documento y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia. El Tribunal establecerá los medios para que las partes y los autorizados para recibir notificaciones puedan verificar la autenticidad de los acuses de recibo electrónico.
+
+II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
+
+III. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea del Tribunal a las partes, como medio de identificación de las personas facultadas en el juicio en que promuevan para utilizar dicho Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la Firma Electrónica Avanzada en un Procedimiento.
+
+IV. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el Sistema de Justicia en Línea del Tribunal a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una Clave de Acceso.
+
+V. Dirección de Correo Electrónico: Sistema de comunicación a través de redes informáticas, señalado por las partes en el Procedimiento.
+
+VI. Dirección de Correo Electrónico Institucional: Sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por los órganos gubernamentales a los servidores públicos.
+
+VII. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un juicio contencioso administrativo, independientemente de que sea texto, imagen, audio o video, identificado por un número específico.
+
+VIII. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en Línea, consistente en la digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer a su autor y expresar su consentimiento.
+
+IX. Firma Electrónica Avanzada: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en Línea, y que produce los mismos efectos jurídicos que la firma autógrafa dentro del Procedimiento. La firma electrónica permite actuar en el Juicio en Línea.
+
+X. Juicio en la vía tradicional: El Procedimiento que se sustancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel y formando un expediente también en papel, donde se agregan las actuaciones procesales.
+
+XI. Juicio en Línea: Forma opcional de substanciación y resolución del Procedimiento en todas sus etapas, a través del Sistema de Justicia en Línea.
+
+XII. Procedimiento: Procedimiento Contencioso Administrativo.
+
+XIII. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el Procedimiento que se sustancie ante el Tribunal, con la finalidad de resolver controversias que se susciten.
+
+XIV. Tribunal: Tribunal de lo Contencioso Administrativo.
 
 ###### ARTICULO 2º.
 
@@ -139,9 +171,13 @@ III.- El tercero quien, dentro del procedimiento administrativo, aparezca como t
 
 Sólo podrán intervenir en el juicio, las personas que tengan un interés directo y legítimo que funde su pretensión.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 6º.
 
-Toda promoción deberá estar firmada por quien la formule y, sin este requisito, se tendrá por no presentada. Si el promovente no sabe o no puede firmar, imprimirá sus huellas digitales y firmará otra persona a su ruego ante dos testigos o ante el Secretario General de Acuerdos del Tribunal.
+Toda promoción deberá contener firma autógrafa o firma electrónica avanzada de quien la formule y sin este requisito se tendrá por no presentada. Si el promotor en un Juicio en la vía tradicional no sabe o no puede firmar, imprimirá sus huellas digitales y firmará otra persona a su ruego ante dos testigos o ante el Secretario General de Acuerdos del Tribunal.
 
 ###### ARTICULO 7º.
 
@@ -339,9 +375,19 @@ El sobreseimiento se podrá decretar en cualquiera de los casos antes señalados
 
 ### CAPITULO V. De la Demanda
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 28.
 
-La demanda se presentará directamente ante el Tribunal o se podrá enviar por correo certificado, si el actor tiene su domicilio legal fuera de la ciudad de Aguascalientes. Se tendrá como fecha de recepción del escrito respectivo, en éste último caso, la de su depósito en la oficina postal.
+La demanda se podrá presentar:
+
+I. Directamente ante el Tribunal, caso en que se sustanciará Juicio en la vía tradicional;
+
+II. Por correo certificado, si el actor tiene su domicilio legal fuera de la ciudad de Aguascalientes, en cuyo caso se tendrá como fecha de recepción del escrito respectivo, la de su depósito en la oficina postal y se sustanciará Juicio en la vía tradicional; o
+
+III. A través del Sistema de Justicia en Línea, en cuyo caso el actor deberá manifestar si elige la sustanciación de Juicio en Línea o de Juicio en vía tradicional, lo cual no podrá variarla salvo las excepciones contenidas en esta Ley. Si omite tal manifestación se entenderá que eligió el Juicio vía tradicional. Siempre que el actor del Procedimiento sea la autoridad, deberá presentar la demanda a través del Sistema de Justicia en Línea.
 
 La presentación deberá hacerse dentro de los quince días siguientes a aquél en que haya surtido efectos la notificación del acto o resolución impugnado.
 
@@ -357,7 +403,11 @@ Cuando el interesado fallezca durante el plazo para iniciar el juicio, éste se 
 
 La demanda deberá contener:
 
-I.- El nombre del actor y domicilio para recibir notificaciones;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+I.- El nombre del actor y domicilio para recibir notificaciones, así como su Dirección de Correo Electrónico, cuando opte por la sustanciación de Juicio en Línea;
 
 II.- La resolución o acto administrativo que se impugna;
 
@@ -584,6 +634,12 @@ Las partes podrán hacer valer el incidente a que se refiere el Artículo anteri
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
 La acumulación se tramitará de oficio o a petición de parte y se sustanciará citando a las partes a una audiencia que se celebrará dentro de un plazo de cinco días, en la que se hará la relación de los autos, se presentarán alegatos y se emitirá la resolución que proceda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+Para el caso en que proceda la acumulación y los juicios respectivos se estén sustanciando por la vía tradicional y por Juicio en Línea, el Magistrado requerirá a las partes del Juicio en la vía tradicional para que en el plazo de tres días manifiesten si optan por sustanciar el juicio en línea, y en caso de que no lo acepten expresamente, los Procedimientos acumulados se tramitará en la vía tradicional.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2006)</small>
 
@@ -839,23 +895,243 @@ Recibida la excitativa de justicia, el Presidente del Consejo solicitará un inf
 
 Si se encuentra fundada la excitativa, se otorgará un plazo de cinco días para que el Magistrado emita la resolución de que se trate.
 
-### CAPITULO XIV. De la Jurisprudencia
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO XIV. Del Juicio en Línea
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 76.
 
-(DEROGADO, P.O. 10 DE ABRIL DE 2006)
+El Procedimiento se promoverá, sustanciará y resolverá en línea a través del Sistema de Justicia en Línea que deberá establecer y desarrollar el Tribunal en términos de lo dispuesto por el presente Capítulo y las demás disposiciones específicas que resulten aplicables de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 77.
 
-(DEROGADO, P.O. 10 DE ABRIL DE 2006)
+Cuando el actor ejerza su derecho a presentar demanda a través del Sistema de Justicia en Línea, las autoridades demandadas deberán comparecer y tramitar el juicio en la misma vía a través de la dirección de correo que para tal fin se encuentre registrada en el Tribunal.
+
+Si el actor no señala expresamente su Dirección de Correo Electrónico, se tramitará el Juicio en la vía tradicional y el acuerdo correspondiente se notificará por Boletín Procesal del Tribunal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 78.
 
-(DEROGADO, P.O. 10 DE ABRIL DE 2006)
+Cuando el actor sea una autoridad, la demanda se presentará en todos los casos a través del Sistema de Justicia en Línea lo cual se informará al demandado al momento del emplazamiento.
+
+A fin de emplazar al particular demandado, el Secretario de Acuerdos que corresponda, imprimirá y certificará la demanda y sus anexos para que se entreguen en la diligencia al demandado a quien además deberá informarse por escrito los pasos del Juicio en línea así como la posibilidad sustanciarse en la vía tradicional.
+
+Si el particular rechaza tramitar el Juicio en línea éste se sujetará a la vía tradicional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 79.
 
-(DEROGADO, P.O. 10 DE ABRIL DE 2006)
+En el Sistema de Justicia en Línea, se integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas, oficios, acuerdos, resoluciones interlocutorias o definitivas, así como otros anexos y demás actuaciones que deriven de la sustanciación del juicio en línea, garantizando su seguridad, inalterabilidad, autenticidad, y durabilidad, conforme a los lineamientos que expida el Tribunal.
+
+En los Juicios en Línea, las pruebas que por su naturaleza sea necesario que el Tribunal reciba declaración directa de personas, se dejará constancia en cualquier clase de Archivo Electrónico para que se integre en el Expediente Electrónico. A elección del Tribunal, las declaraciones se desahogarán por videoconferencia o bajo las reglas aplicables a un Juicio en vía tradicional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 80.
+
+La Firma Electrónica Avanzada, Clave de Acceso y Contraseña se proporcionarán, a través del Sistema de Justicia en Línea, previa obtención del registro y autorización correspondientes a través de correo electrónico.
+
+El registro de la Firma Electrónica Avanzada, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en la que se abran los Archivos Electrónicos que contengan las constancias que integran el Expediente Electrónico, para los efectos legales establecidos en este ordenamiento.
+
+Para hacer uso del Sistema de Justicia en Línea deberán observarse los lineamientos que para tal efecto expida el Tribunal.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 81.
+
+La Firma Electrónica Avanzada producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio dentro de la sustanciación de este procedimiento.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 82.
+
+Solamente las partes, las personas autorizadas y delegados tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 83.
+
+Los titulares de una Firma Electrónica Avanzada, Clave de Acceso y Contraseña serán responsables de su uso por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas del Sistema de Justicia en Línea.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 84.
+
+Una vez recibida por vía electrónica cualquier promoción de las partes, el Sistema de Justicia en Línea emitirá el Acuse de Recibo Electrónico correspondiente en el que se señalará fecha y hora en que se recibió.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 85.
+
+Cualquier actuación en el Juicio en Línea se efectuará a través del Sistema de Justicia en Línea en términos del presente Capítulo. Dichas actuaciones serán validadas con la Firma Electrónica Avanzada o Firma Digital del Magistrado y Secretarios de Acuerdos que den fe según corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 86.
+
+Los documentos que las partes ofrezcan como prueba, deberán exhibirlos de forma legible a través del Sistema de Justicia en Línea en Archivo Electrónico especificando si fue tomado de copia simple, certificada o del documento original, en este último caso, indicar si tiene o no firma autógrafa. Los particulares deberán hacer esta manifestación bajo protesta de decir verdad, de lo contrario se presumirá, en perjuicio del promotor, que el Archivo Electrónico corresponde a una copia simple.
+
+Las pruebas documentales que ofrezcan y exhiban las partes tendrán el mismo valor probatorio que su constancia física, siempre y cuando se observen las disposiciones de la presente Ley y de los acuerdos normativos que emita el Tribunal para asegurar la autenticidad de la información, así como de su transmisión, recepción, validación y notificación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 87.
+
+Para el caso de pruebas diversas a las documentales, los instrumentos en los que se hagan constar se integrarán al Expediente Electrónico. Para tal efecto, el Secretario de Acuerdos a cuya mesa corresponda el asunto, deberá digitalizar la imagen de los originales físicos, procediendo a su cotejo y certificación, luego de lo cual podrá autorizarse su devolución, pero mientras esto no ocurra permanecerán bajo resguardo del Tribunal. Los originales físicos deberán entregarse al Tribunal la misma fecha en que se registre en el Sistema de Justicia en Línea la promoción por la que se ofrece la prueba registrándose su recepción en el Expediente Electrónico.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 88.
+
+En los Juicios en Línea sólo será necesario exhibir copias de traslado para terceros interesados las cuales deberán entregarse al Tribunal en la misma fecha en que se registre en el Sistema de Justicia en Línea la promoción correspondiente.
+
+Al correr traslado al tercero interesado se le informará que puede manifestar su oposición a los mecanismos del Juicio en Línea.
+
+El Tribunal dispondrá lo conducente para que se digitalicen los documentos que los terceros interesados presenten a fin de que se agreguen al Expediente Electrónico.
+
+En el escrito a través del cual el tercero interesado se apersone tendrá que indicar si acepta los mecanismos del Juicio en Línea, en cuyo caso deberá señalar su Dirección de Correo Electrónico. Si manifiesta su oposición, se imprimirá y certificará el Expediente Electrónico para que lo pueda consultar en el local del Tribunal, debiéndosele recibir las promociones que presente como si se tratara de un juicio en vía tradicional, mismas que deberán digitalizarse para agregarse al Expediente Electrónico.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 89.
+
+Las notificaciones que se practiquen dentro del Juicio en Línea, se efectuarán conforme a lo siguiente:
+
+I. Todas las actuaciones y resoluciones que conforme a las disposiciones de esta Ley deban notificarse en forma personal, mediante correo certificado con acuse de recibo, o por oficio, se deberán realizar a través del Sistema de Justicia en Línea.
+
+II. El actuario deberá elaborar la minuta electrónica en la que precise la actuación o resolución a notificar, así como los documentos que se adjunten a la misma. Dicha minuta, que contendrá la Firma Electrónica Avanzada del actuario, será ingresada al Sistema de Justicia en Línea junto con la actuación o resolución respectiva y los documentos adjuntos.
+
+III. El actuario enviará a la Dirección de Correo Electrónico de la o las partes a notificar, un aviso informándole que se ha dictado una actuación o resolución en el Expediente Electrónico, la cual está disponible en el Sistema de Justicia en Línea.
+
+IV. El Sistema de Justicia en Línea registrará la fecha y hora en que se efectúe el envío señalado en la Fracción anterior.
+
+V. Se tendrá como legalmente practicada la notificación, conforme a lo señalado en las Fracciones anteriores cuando el Sistema de Justicia en Línea genere el Acuse de Recibo Electrónico donde conste la fecha y hora en que la o las partes notificadas ingresaron al Expediente Electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la Dirección de Correo Electrónico de la o las partes a notificar.
+
+VI. En caso de que en el plazo señalado en la Fracción anterior, el Sistema de Justicia en Línea no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante Boletín Procesal al tercer día hábil contado a partir de la fecha de envío del Correo Electrónico, fecha en que se tendrá por legalmente notificado.
+
+VII. A los terceros interesados que se hayan opuesto a los mecanismos del Juicio en Línea en términos del Artículo anterior, se les deberá notificar como si se tratara de un Juicio en la vía tradicional.
+
+En todo caso deberá asentarse razón en el Expediente Electrónico la realización de una notificación o del aviso dado en la Dirección de Correo Electrónico señalada por alguna de las partes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 90.
+
+Para los efectos del Juicio en Línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las oficinas del Tribunal. Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de Recibo Electrónico que emita el Sistema de Justicia en Línea, en el lugar en donde el promotor tenga su domicilio. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 91.
+
+Las autoridades cuyos actos sean susceptibles de impugnarse en términos de esta Ley, deberán registrar su Dirección de Correo Electrónico Institucional ante el Tribunal así como el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contencioso administrativos, para el efecto de emplazarlas electrónicamente en los juicios en los que tengan el carácter de autoridad demandada.
+
+Mientras que las autoridades no verifiquen el registro referido en párrafo anterior, se les emplazará como si se tratara de un Juicio en la vía tradicional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 92.
+
+Para la presentación y curso que se dé a demandas de amparo contra las actuaciones y resoluciones derivadas del Juicio en Línea, no será aplicable lo dispuesto en el presente Capítulo.
+
+El Secretario de Acuerdos del Tribunal, deberá imprimir el archivo del Expediente Electrónico y certificar las constancias del juicio que deban ser remitidos a los Tribunales Federales.
+
+Sin perjuicio de lo anterior, en aquellos casos en que así lo soliciten los Tribunales Federales se podrá remitir la información a través de medios electrónicos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 93.
+
+En caso que el Tribunal advierta que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, se tomarán las medidas de protección necesarias, para evitar dicha conducta hasta que concluya el juicio, el cual se continuará tramitando a través del Juicio en la vía tradicional. Si el responsable es usuario del Sistema, se cancelará su Firma Electrónica Avanzada, Clave y Contraseña para ingresar al Sistema de Justicia en Línea y no tendrá posibilidad de volver a promover Juicios en Línea.
+
+Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de trescientas a quinientas veces el salario mínimo general vigente en el Estado al momento de cometer la infracción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 94.
+
+Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en la ley, las partes deberán dar aviso al Tribunal en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa del Tribunal responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
+
+El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán únicamente el tiempo que dure la interrupción del Sistema. Para tal efecto, el Tribunal hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente para determinar si hubo o no incumplimiento de los plazos legales.
+
+No obstante lo anterior, las partes podrán presentar sus promociones como si se tratara de un Juicio en vía tradicional, mismas que se deberán digitalizar y agregarse al Expediente Electrónico.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 95.
+
+En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación y de los avisos en la Dirección de Correo Electrónico, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO XV. Del Boletín Procesal
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 96.
+
+El Boletín Procesal o lista, es el medio de comunicación oficial, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos que se tramitan ante el mismo.
+
+Es obligación del Tribunal, llevar actualizado el Boletín Procesal.
+
+El mismo se difundirá por medio de dos formas:
+
+I. Impreso que estará accesible para consulta; o
+
+II. Electrónico que estará al alcance en la página de Internet de Poder Judicial del Estado.
+
+El Boletín Procesal se sujetará a lo dispuesto por el Código de Procedimientos Civiles en relación a la publicación de listas de acuerdos.
 
 TRANSITORIOS:
 
@@ -948,3 +1224,49 @@ Los Ayuntamientos establecerán en sus respectivos presupuestos la partida que d
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+P.O. 15 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia a partir del día 1º de enero del año 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado a la entrada en vigencia del presente Decreto, iniciará el desarrollo e instrumentación del Sistema de Justicia en Línea.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Judicial del Estado deberá realizar las acciones necesarias para que el Juicio en Línea inicie su operación a los 18 meses contados a partir de la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Judicial, una vez publicado el presente Decreto, realizará una campaña de difusión del Juicio en Línea.
+
+###### ARTÍCULO QUINTO.
+
+A partir de los seis meses de la entrada en vigencia del presente Decreto, hasta antes de que se cumpla el plazo de 18 meses a que se refiere Artículo Transitorio Tercero, las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal de lo Contencioso Administrativo, deberán tramitar su Firma Electrónica Avanzada, registrar su Dirección de Correo Electrónico Institucional y el domicilio oficial de las unidades administrativas a las que corresponda su representación en los juicios contenciosos administrativos, ante el Poder Judicial del Estado para el efecto de emplazarlas electrónicamente a juicio en aquellos casos en los que tengan el carácter de autoridades demandadas.
+
+###### ARTÍCULO SEXTO.
+
+En el mismo plazo señalado en el Artículo anterior, las unidades administrativas a las que corresponda la representación de las autoridades cuyos actos sean susceptibles de impugnarse ante el Tribunal de lo Contencioso Administrativo, deberán instrumentar y mantener permanentemente actualizados los mecanismos tecnológicos, materiales y humanos necesarios para acceder al Juicio en Línea a través del Sistema de Justicia en Línea.
+
+###### ARTÍCULO SÉPTIMO.
+
+En caso de que el Tribunal de lo Contencioso Administrativo reciba una demanda por medio del Sistema de Justicia en Línea y constate que la autoridad demandada, incumplió con lo señalado en el Artículo Transitorio Quinto, se le prevendrá por el propio Tribunal para que en el plazo de 10 días hábiles contados a partir de que se le notifique dicha prevención, proceda a cumplir con dicha disposición o en su caso acredite que ya cumplió. En caso de no cumplir, el Tribunal de lo Contencioso Administrativo le impondrá una multa de 100 a 200 veces el salario mínimo general vigente en el Estado y se requerirá a su superior jerárquico para que en el plazo de 3 días hábiles la obligue a cumplir. En caso de continuar la negativa de la autoridad, se dará vista al Órgano Interno de Control que corresponda.
+
+###### ARTÍCULO OCTAVO.
+
+Los juicios que se encuentren en trámite ante el Tribunal de lo Contencioso Administrativo a la fecha en que inicie la operación del Juicio en Línea, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
+
+###### ARTÍCULO NOVENO.
+
+El Poder Judicial llevará a cabo las acciones necesarias a efecto de integrar los sistemas informáticos internos en una sola plataforma tecnológica, a través del Sistema de Justicia en Línea.
+
+###### ARTÍCULO DÉCIMO.
+
+Para la promoción, sustanciación y resolución del juicio contencioso administrativo a través del Sistema de Justicia en Línea, prevalecerán las disposiciones contenidas en el Capítulo relativo al Juicio en Línea sobre otras de la propia Ley del Procedimiento Contencioso Administrativo que se contrapongan a lo establecido en dicho Capítulo.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+En el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal del año 2011 deberá preverse una partida financiera para el Poder Judicial que permita la implementación del Juicio en Línea. Adicionalmente El Poder Judicial del Estado deberá gestionar, ante las instancias correspondientes, financiamiento que contribuya a concretar el presente Decreto.
