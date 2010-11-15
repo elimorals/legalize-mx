@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "2010-07-19"
+last_updated: "2010-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -3811,13 +3811,17 @@ II.- Los predios no edificados excepto los que se ubiquen en zonas que carezcan 
 
 III.- Los predios deberán estar libres de escombros, basura y drenados adecuadamente;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
-IV.- Quedan prohibidas las instalaciones y construcciones precarias en las azoteas de las edificaciones, cualesquiera que sea el uso que pretenda dárseles; y
+IV.- Quedan prohibidas las instalaciones y construcciones precarias en las azoteas de las edificaciones, cualesquiera que sea el uso que pretenda dárseles;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
-V.- Los predios no deberán ser utilizados, ni con carácter provisional, en forma diferente al uso del suelo autorizado.
+V.- Los predios no deberán ser utilizados, ni con carácter provisional, en forma diferente al uso del suelo autorizado; y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+VI.- Los predios en los que se encuentren negocios dedicados al giro de compra venta de autopartes y/o chatarra, se deberá de tener cubierta la fachada, de tal forma que no se afecte la estética urbana.
 
 REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 26 DE OCTUBRE DE 2009)
 
@@ -8882,3 +8886,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 15 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
