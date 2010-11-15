@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2010-10-04"
+last_updated: "2010-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -269,7 +269,7 @@ Se presumirá como legítima defensa, salvo prueba en contrario, el hecho de cau
 
 IV.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente no ocasionado dolosamente, ni por culpa grave por el agente y no se tuviere el deber jurídico de afrontar, lesionando otro bien de menor o igual valor que el salvaguardado;
 
-V.- Se obre por obediencia legitima y jerárquica, aun cuando la orden constituya un delito, si esta circunstancia no es notoria, ni se prueba que el inculpado la conocía ni era previsible racionalmente;
+V.- Se obre por obediencia legítima y jerárquica, aun cuando la orden constituya un delito, si esta circunstancia no es notoria, ni se prueba que el inculpado la conocía ni era previsible racionalmente;
 
 VI.- Se obre en forma legítima en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista la necesidad racional del medio empleado para cumplir el deber o ejercer el derecho y no se haga con el sólo propósito de perjudicar a otro;
 
@@ -303,7 +303,7 @@ I.- Tratándose de inimputabilidad, se estará a lo previsto por los artículos 
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
 
-II.- En el caso de imputables disminuídos, se procederá de conformidad a lo dispuesto por el artículo 56 de este Código y 482 del Código de Procedimientos Penales.
+II.- En el caso de imputables disminuidos, se procederá de conformidad a lo dispuesto por el artículo 56 de este Código y 482 del Código de Procedimientos Penales.
 
 Las infracciones cometidas por los menores de dieciocho años de edad, serán reguladas por las leyes de la materia.
 
@@ -843,7 +843,7 @@ Si al dictarse sentencia aparecen reunidos los requisitos para la suspensión co
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
 
-###### Artículo 91.
+###### ARTICULO 91.
 
 El condenado a más de dos años de prisión, podrá obtener su libertad condicional ante la Dirección General de Prevención y Readaptación Social, en los términos de la Ley de Ejecución de Penas.
 
@@ -2615,9 +2615,7 @@ Comete el delito de trata de personas, quien incurra en la captación, trasporte
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
-###### ARTICULO 273 Bis.
-
-Para efectos del Artículo anterior, se entenderá por explotación:
+ARTICULO 273 BIS.- Para efectos del Artículo anterior, se entenderá por explotación:
 
 I.- Someter a una persona a una condición de esclavitud;
 
@@ -2631,7 +2629,7 @@ V.- La explotación de la prostitución de otra persona;
 
 VI.- Cualquier forma de explotación sexual, incluidos entre otros el proxenetismo, beneficiarse de la prostitución ajena, mantener un prostíbulo, la producción de pornografía; y
 
-VII. La extracción ilícita de órganos, tejidos, sus componentes o derivados del organismo humano.
+VII.- La extracción ilícita de órganos, tejidos, sus componentes o derivados del organismo humano.
 
 Las mismas penas se impondrán a quien, no acuda a la autoridad o a sus agentes para denunciar el delito de trata de personas de cuya comisión se tenga noticia.
 
@@ -2641,17 +2639,15 @@ Las mismas penas se impondrán a quien, no acuda a la autoridad o a sus agentes 
 
 Quien resultare responsable del delito de trata de personas, además del decomiso de todos los bienes producto de las conductas antes descritas, se impondrán las siguientes penas:
 
-(NOTA: EL 19 DE MAYO DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 30/2010 Y SU ACUMULADA 31/2010, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE JULIO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
-I.- De seis a doce años de prisión y MULTA DE QUINIENTOS DÍAS DE SALARIO MÍNIMO.
+I.- De seis a doce años de prisión y multa de quinientos a mil quinientos días de salario mínimo.
 
 II.- De nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta días de salario mínimo, si el delito es cometido en contra de persona menor de dieciocho años de edad o en contra de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
-###### ARTÍCULO 274 Bis.
-
-Las penas que resulten de las fracciones I y II del Artículo anterior, se incrementarán hasta en una mitad:
+ARTICULO 274 BIS.- Las penas que resulten de las fracciones I y II del Artículo anterior, se incrementarán hasta en una mitad:
 
 a).- Si el agente se valiese de la función pública que tuviere o hubiere ostentado sin tenerla. Se impondrá además, al servidor público la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro cargo, hasta por un tiempo igual al de la pena de prisión impuesta;
 
@@ -2665,9 +2661,7 @@ Cuando en la comisión del delito de trata de personas concurra otro delito, se 
 
 > <small>(ADICIONADO P.O. 4 DE OCTUBRE DE 2010)</small>
 
-###### ARTICULO 274 Ter.
-
-Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientos días de salario mínimo, como multa.
+ARTICULO 274 TER.- Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientos días de salario mínimo, como multa.
 
 Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para denunciar el delito de trata de personas de cuya comisión tenga noticia.
 
@@ -2927,7 +2921,7 @@ Se impondrá prisión de uno a cinco años y multa de 20 a 150 días al servidor
 
 I.- Otorgue empleo, cargo o comisión pública o contrato de prestación de servicios profesionales o mercantiles o de cualquiera otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombra, o no se cumplirá el contrato otorgado; o
 
-II.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio publico, siempre que lo haga con conocimiento de tal situación.
+II.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación.
 
 ### CAPITULO VII. ULTRAJES A LA AUTORIDAD
 
@@ -2937,7 +2931,7 @@ Se impondrán las penas de uno a seis años de prisión y de 20 a 100 días mult
 
 I.- Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
-II.- Ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legitima, la vejare o la insultare;
+II.- Ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima, la vejare o la insultare;
 
 III.- Indebidamente retarde, niegue a los particulares la protección o servicio que tenga la obligación de otorgarles, impida la presentación o el curso de una solicitud;
 
@@ -2997,7 +2991,7 @@ Se impondrá de tres meses a cinco años de prisión y de 20 a 150 días multa, 
 
 ###### ARTICULO 308.
 
-Al servidor público que para si o para otro, se apropie, utilice o distraiga de su objeto, dinero, valores o cualquier otro bien perteneciente a los Poderes del Estado, Dependencias o Entidades de la Administración Pública del Estado o de los Municipios o a un particular, si por razón de su cargo, los hubiere recibido en administración, en depósito o por cualesquiera otra causa, se le aplicará la siguiente punibilidad:
+Al servidor público que para sí o para otro, se apropie, utilice o distraiga de su objeto, dinero, valores o cualquier otro bien perteneciente a los Poderes del Estado, Dependencias o Entidades de la Administración Pública del Estado o de los Municipios o a un particular, si por razón de su cargo, los hubiere recibido en administración, en depósito o por cualesquiera otra causa, se le aplicará la siguiente punibilidad:
 
 I.- Prisión de uno a cinco años y multa de 20 a 300 días, cuando el valor de lo apropiado, utilizado o distraído de su objeto ilícitamente, sea de hasta mil veces el salario mínimo;
 
@@ -3483,19 +3477,19 @@ Al que con el propósito de lucro, para sí o para otro, dé un destino distinto
 
 Para efectos del presente Título, se entiende por:
 
-I. Funcionarios Electorales: Quienes en términos de las legislaciones aplicables, integren los organismos electorales administrativos y jurisdiccionales;
+I.- Funcionarios Electorales: Quienes en términos de las legislaciones aplicables, integren los organismos electorales administrativos y jurisdiccionales;
 
-II. Servidor Público: Las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal y Municipal, sea cual fuere la forma de su elección o nombramiento;
+II.- Servidor Público: Las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal y Municipal, sea cual fuere la forma de su elección o nombramiento;
 
-III. Funcionario Partidista: Persona que ocupa algún cargo de dirección dentro de un partido político, agrupación o asociación política, así como la persona designada por un partido político para representarlo ante los órganos electorales;
+III.- Funcionario Partidista: Persona que ocupa algún cargo de dirección dentro de un partido político, agrupación o asociación política, así como la persona designada por un partido político para representarlo ante los órganos electorales;
 
-IV. Propaganda Electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que produzcan y difundan los partidos políticos, sus candidatos, fórmulas, planillas registradas y simpatizantes;
+IV.- Propaganda Electoral: Conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que produzcan y difundan los partidos políticos, sus candidatos, fórmulas, planillas registradas y simpatizantes;
 
-V. Candidatos: Los ciudadanos registrados formalmente como tales por la autoridad competente;
+V.- Candidatos: Los ciudadanos registrados formalmente como tales por la autoridad competente;
 
-VI. Documentos Electorales: Es el conjunto de instrumentos que sirven para desarrollar la tarea pública de efectuar elecciones, dentro de las cuales se encuentran las boletas; actas de la jornada electoral, escrutinio y cómputo de cada una de las elecciones; paquetes electorales; las actas circunstanciadas de las sesiones de cómputo de los Consejos Municipales y Distritales y Cómputos de Circunscripción y, en general, todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos electorales; y
+VI.- Documentos Electorales: Es el conjunto de instrumentos que sirven para desarrollar la tarea pública de efectuar elecciones, dentro de las cuales se encuentran las boletas; actas de la jornada electoral, escrutinio y cómputo de cada una de las elecciones; paquetes electorales; las actas circunstanciadas de las sesiones de cómputo de los Consejos Municipales y Distritales y Cómputos de Circunscripción y, en general, todos los documentos y actas expedidos en el ejercicio de sus funciones por los órganos electorales; y
 
-VII. Material Electoral: Los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
+VII.- Material Electoral: Los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -3503,47 +3497,47 @@ VII. Material Electoral: Los elementos físicos, tales como urnas, canceles o el
 
 Se impondrá prisión de tres meses a cinco años y multa de treinta a cien días de salario mínimo general vigente en el estado, a quien:
 
-I. Vote a sabiendas que está impedido por la Ley;
+I.- Vote a sabiendas que está impedido por la Ley;
 
-II. Vote más de una vez en una misma elección;
+II.- Vote más de una vez en una misma elección;
 
-III. Se presente a votar con una credencial de la que no sea titular;
+III.- Se presente a votar con una credencial de la que no sea titular;
 
-IV. Suplante a otro votante en la jornada electoral;
+IV.- Suplante a otro votante en la jornada electoral;
 
-V. Obstaculice o interfiera el desarrollo normal del proceso electoral;
+V.- Obstaculice o interfiera el desarrollo normal del proceso electoral;
 
-VI. Se presente a una casilla electoral portando armas, independientemente de cualquier otro delito que resulte;
+VI.- Se presente a una casilla electoral portando armas, independientemente de cualquier otro delito que resulte;
 
-VII. Haga proselitismo o presione a los electores dentro de los tres días previos o el día de la jornada electoral, para que voten a favor o en contra de un determinado candidato, partido político o coalición, o para que se abstengan de emitir su sufragio;
+VII.- Haga proselitismo o presione a los electores dentro de los tres días previos o el día de la jornada electoral, para que voten a favor o en contra de un determinado candidato, partido político o coalición, o para que se abstengan de emitir su sufragio;
 
-VIII. Induzca a uno o más electores a abstenerse de votar;
+VIII.- Induzca a uno o más electores a abstenerse de votar;
 
-IX. Obligue a votar por determinado candidato, partido o coalición a las personas que se encuentren bajo su autoridad o dependencia económica;
+IX.- Obligue a votar por determinado candidato, partido o coalición a las personas que se encuentren bajo su autoridad o dependencia económica;
 
-X. Ejerza presión sobre los funcionarios de la mesa directiva de casilla, representantes de partido o de los electores, impidiendo el desarrollo normal de la jornada electoral;
+X.- Ejerza presión sobre los funcionarios de la mesa directiva de casilla, representantes de partido o de los electores, impidiendo el desarrollo normal de la jornada electoral;
 
-XI. Impida que una casilla electoral se instale oportunamente u obstruya su funcionamiento o clausura conforme a la Ley;
+XI.- Impida que una casilla electoral se instale oportunamente u obstruya su funcionamiento o clausura conforme a la Ley;
 
-XII. Acepte o difunda su candidatura para un cargo de elección popular sin reunir los requisitos de elegibilidad;
+XII.- Acepte o difunda su candidatura para un cargo de elección popular sin reunir los requisitos de elegibilidad;
 
-XIII. Acepte nombramiento para el desempeño de alguna función electoral a sabiendas de que no reúne los requisitos legales;
+XIII.- Acepte nombramiento para el desempeño de alguna función electoral a sabiendas de que no reúne los requisitos legales;
 
-XIV. No teniendo el carácter de funcionario de casilla se ostente como tal o usurpe sus funciones, independientemente de cualquier otro delito que resulte;
+XIV.- No teniendo el carácter de funcionario de casilla se ostente como tal o usurpe sus funciones, independientemente de cualquier otro delito que resulte;
 
-XV. Obstaculice o evite la entrega de documentos y material electoral a su destinatario durante el proceso electoral;
+XV.- Obstaculice o evite la entrega de documentos y material electoral a su destinatario durante el proceso electoral;
 
-XVI. Recoja sin causa prevista por la Ley, credenciales para votar con fotografía de los ciudadanos;
+XVI.- Recoja sin causa prevista por la Ley, credenciales para votar con fotografía de los ciudadanos;
 
 XVII.- Viole de cualquier manera el secreto del voto;
 
 XVIII.- Obtenga o solicite declaración firmada del elector acerca de la intención o sentido del voto;
 
-XIX. Impida el desempeño de las funciones de los integrantes de los órganos electorales;
+XIX.- Impida el desempeño de las funciones de los integrantes de los órganos electorales;
 
-XX. Introduzca, sustraiga, altere, destruya, se apodere o haga uso indebido de documentos o material electoral;
+XX.- Introduzca, sustraiga, altere, destruya, se apodere o haga uso indebido de documentos o material electoral;
 
-XXI. Indebidamente destruya o inutilice propaganda electoral;
+XXI.- Indebidamente destruya o inutilice propaganda electoral;
 
 XXII.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
 
@@ -3583,47 +3577,47 @@ Se impondrá prisión de tres meses a cinco años y multa de cien a trescientos 
 
 Se impondrá prisión de uno a seis años y multa de cincuenta a doscientos días de salario mínimo general vigente en el Estado, así como destitución del cargo o empleo, al funcionario electoral que:
 
-I. Se abstenga de cumplir deliberadamente y sin causa justificada con sus obligaciones electorales, impidiendo el desarrollo normal del proceso electoral;
+I.- Se abstenga de cumplir deliberadamente y sin causa justificada con sus obligaciones electorales, impidiendo el desarrollo normal del proceso electoral;
 
-II. Obstruya el desarrollo normal de la votación;
+II.- Obstruya el desarrollo normal de la votación;
 
-III. Se rehúse a aceptar el voto de quien tenga derecho a emitirlo;
+III.- Se rehúse a aceptar el voto de quien tenga derecho a emitirlo;
 
-IV. Se niegue a reconocer, sin causa justificada, la personalidad de los representantes de los partidos políticos, coaliciones u observadores electorales, debidamente acreditados, o bien, les impidan el ejercicio de las atribuciones que les corresponden;
+IV.- Se niegue a reconocer, sin causa justificada, la personalidad de los representantes de los partidos políticos, coaliciones u observadores electorales, debidamente acreditados, o bien, les impidan el ejercicio de las atribuciones que les corresponden;
 
-V. Instale, abra o cierre una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
+V.- Instale, abra o cierre una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
 
-VI. Teniendo en custodia el material o documentación electoral, se niegue a entregarlo cuando sea requerido por quien tenga derecho a ello;
+VI.- Teniendo en custodia el material o documentación electoral, se niegue a entregarlo cuando sea requerido por quien tenga derecho a ello;
 
-VII. Por sus acciones u omisiones imposibilite el cumplimiento de las etapas del proceso electoral;
+VII.- Por sus acciones u omisiones imposibilite el cumplimiento de las etapas del proceso electoral;
 
-VIII. Altere los resultados electorales, sustituya, destruya o haga uso indebido de las boletas o documentos electorales;
+VIII.- Altere los resultados electorales, sustituya, destruya o haga uso indebido de las boletas o documentos electorales;
 
-IX. Durante el ejercicio de sus funciones ejerza presión sobre los electores o los induzca a votar por un candidato o partido determinado durante el proceso electoral;
+IX.- Durante el ejercicio de sus funciones ejerza presión sobre los electores o los induzca a votar por un candidato o partido determinado durante el proceso electoral;
 
-X. Permita o tolere, que un ciudadano emita su voto a sabiendas que no cumple con los requisitos legales, o que se introduzcan ilícitamente una o más boletas electorales en las urnas;
+X.- Permita o tolere, que un ciudadano emita su voto a sabiendas que no cumple con los requisitos legales, o que se introduzcan ilícitamente una o más boletas electorales en las urnas;
 
-XI. Siendo funcionario de mesa directiva de casilla, consienta que la votación se lleve a cabo en forma ilegal; retenga u omita entregar a la autoridad electoral competente los paquetes electorales en los términos previstos por la Ley;
+XI.- Siendo funcionario de mesa directiva de casilla, consienta que la votación se lleve a cabo en forma ilegal; retenga u omita entregar a la autoridad electoral competente los paquetes electorales en los términos previstos por la Ley;
 
-XII. Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
+XII.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
 
-XIII. Conociendo la existencia de condiciones o actividades que atenten con la libertad y el secreto del voto, no tome las medidas conducentes;
+XIII.- Conociendo la existencia de condiciones o actividades que atenten con la libertad y el secreto del voto, no tome las medidas conducentes;
 
-XIV. Estando obligado, no dote oportunamente del material necesario para el funcionamiento de la casilla;
+XIV.- Estando obligado, no dote oportunamente del material necesario para el funcionamiento de la casilla;
 
-XV. Solicite o retenga credenciales de elector, sin estar facultado legalmente para ello;
+XV.- Solicite o retenga credenciales de elector, sin estar facultado legalmente para ello;
 
-XVI. Niegue o retarde la tramitación de los recursos interpuestos por los partidos políticos o sus representantes;
+XVI.- Niegue o retarde la tramitación de los recursos interpuestos por los partidos políticos o sus representantes;
 
 XVII.- Siendo funcionario de casilla, se abstenga de levantar debida y oportunamente las actas correspondientes u omita la entrega de las copias de ellas a los representantes de los partidos políticos;
 
 XVIII.- Se niegue a hacer constar o informar oportunamente las violaciones en el desarrollo del proceso electoral;
 
-XIX. Al presidente de una casilla que dolosamente se abstenga de concurrir al lugar y a la hora señalados para la apertura e instalación de la misma, o se retire en forma definitiva de ella antes de la clausura, sin causa justificada prevista en la Ley;
+XIX.- Al presidente de una casilla que dolosamente se abstenga de concurrir al lugar y a la hora señalados para la apertura e instalación de la misma, o se retire en forma definitiva de ella antes de la clausura, sin causa justificada prevista en la Ley;
 
-XX. Al integrante de los Consejos Distritales o Municipales electorales que no se presente, o se separe mientras no se concluyan los trabajos de la sesión de cómputo, entrega de la constancia de mayoría y declaración de validez de la elección respectiva;
+XX.- Al integrante de los Consejos Distritales o Municipales electorales que no se presente, o se separe mientras no se concluyan los trabajos de la sesión de cómputo, entrega de la constancia de mayoría y declaración de validez de la elección respectiva;
 
-XXI. Siendo presidente de casilla admita en la misma la presencia de personas distintas a las que legalmente puedan permanecer en ella; y
+XXI.- Siendo presidente de casilla admita en la misma la presencia de personas distintas a las que legalmente puedan permanecer en ella; y
 
 XXII.- Consienta que la votación se lleve a cabo cometiendo cualquiera de los ilícitos previstos en este Título.
 
@@ -3633,27 +3627,27 @@ XXII.- Consienta que la votación se lleve a cabo cometiendo cualquiera de los i
 
 Se impondrá prisión de uno a siete años y multa de cien a trescientos días de salario mínimo general vigente en el Estado, y destitución del cargo, empleo o comisión que desempeñe e inhabilitación para obtener algún cargo público hasta por cinco años, al servidor público que:
 
-I. Se abstenga de dar cumplimiento a lo establecido en el artículo 205 de la Ley Electoral del Estado, cuando sea requerido por las autoridades electorales competentes;
+I.- Se abstenga de dar cumplimiento a lo establecido en el artículo 205 de la Ley Electoral del Estado, cuando sea requerido por las autoridades electorales competentes;
 
-II. Altere o inutilice un documento electoral, o a sabiendas lo presente o lo haga valer alterado;
+II.- Altere o inutilice un documento electoral, o a sabiendas lo presente o lo haga valer alterado;
 
-III. Teniendo fe pública, certifique hechos falsos relativos a la función electoral, o sin causa justificada se niegue a dar fe de los actos en que debe intervenir en los términos de la Ley Electoral;
+III.- Teniendo fe pública, certifique hechos falsos relativos a la función electoral, o sin causa justificada se niegue a dar fe de los actos en que debe intervenir en los términos de la Ley Electoral;
 
-IV. Abusando de sus funciones, directamente o por instrucciones dadas a personas bajo su dependencia jerárquica, obtenga de los electores sufragios a favor de una candidatura determinada o los induzca a la abstención;
+IV.- Abusando de sus funciones, directamente o por instrucciones dadas a personas bajo su dependencia jerárquica, obtenga de los electores sufragios a favor de una candidatura determinada o los induzca a la abstención;
 
-V. Prive de la libertad a los candidatos o representantes de un partido político, o personas que realicen actos de propaganda, pretextando faltas que no hayan cometido;
+V.- Prive de la libertad a los candidatos o representantes de un partido político, o personas que realicen actos de propaganda, pretextando faltas que no hayan cometido;
 
-VI. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio a favor de un partido político, candidato o coalición;
+VI.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio a favor de un partido político, candidato o coalición;
 
-VII. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como: vehículos, inmuebles, equipos y servicios, al apoyo de un partido político candidato o coalición sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que los presten al servicio de un partido político, candidato o coalición;
+VII.- Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como: vehículos, inmuebles, equipos y servicios, al apoyo de un partido político candidato o coalición sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que los presten al servicio de un partido político, candidato o coalición;
 
-VIII. Impida, sin motivo e infundadamente, la realización de cualquier acto de campaña que se esté realizando pacíficamente;
+VIII.- Impida, sin motivo e infundadamente, la realización de cualquier acto de campaña que se esté realizando pacíficamente;
 
-IX. Estando obligado a dar aviso al registro electoral de los fallecimientos, estados de interdicción, inhabilitaciones, declaración de ausencia y presunción de muerte, omita hacerlo oportunamente;
+IX.- Estando obligado a dar aviso al registro electoral de los fallecimientos, estados de interdicción, inhabilitaciones, declaración de ausencia y presunción de muerte, omita hacerlo oportunamente;
 
-X. Permita que se fije propaganda política en las oficinas públicas de su encargo; y
+X.- Permita que se fije propaganda política en las oficinas públicas de su encargo; y
 
-XI. Ejerza presión sobre sus subordinados para emitir su voto en favor de un partido político, coalición o candidato.
+XI.- Ejerza presión sobre sus subordinados para emitir su voto en favor de un partido político, coalición o candidato.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -3661,31 +3655,31 @@ XI. Ejerza presión sobre sus subordinados para emitir su voto en favor de un pa
 
 Se impondrá prisión de uno a siete años y multa de cien a doscientos días de salario mínimo general vigente en el Estado, al funcionario partidista que:
 
-I. Ejerza presión sobre los electores o los induzca a votar por un candidato, partido o coalición determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+I.- Ejerza presión sobre los electores o los induzca a votar por un candidato, partido o coalición determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
-II. Sustraiga, destruya, altere, falsifique o haga uso indebido de documentos electorales;
+II.- Sustraiga, destruya, altere, falsifique o haga uso indebido de documentos electorales;
 
-III. Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+III.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
 
-IV. Propale noticias falsas en torno a la jornada electoral respecto de sus resultados;
+IV.- Propale noticias falsas en torno a la jornada electoral respecto de sus resultados;
 
-V. Impida con violencia o presión la instalación, apertura o cierre de una casilla;
+V.- Impida con violencia o presión la instalación, apertura o cierre de una casilla;
 
-VI. Mediante violencia obligue a los funcionarios electorales a la apertura o cierre de los tiempos previstos en la ley de la materia;
+VI.- Mediante violencia obligue a los funcionarios electorales a la apertura o cierre de los tiempos previstos en la ley de la materia;
 
-VII. Impida o dificulte por sí o por interpósita persona la distribución, entrega de documentación electoral o paquetes electorales, a los consejos distritales o municipales;
+VII.- Impida o dificulte por sí o por interpósita persona la distribución, entrega de documentación electoral o paquetes electorales, a los consejos distritales o municipales;
 
-VIII. Incite a la población a realizar los actos señalados en la fracción anterior;
+VIII.- Incite a la población a realizar los actos señalados en la fracción anterior;
 
-IX. Solicite o retenga credenciales de elector sin estar facultado legalmente para ello;
+IX.- Solicite o retenga credenciales de elector sin estar facultado legalmente para ello;
 
-X. Dificulte por sí mismo o por interpósita persona el funcionamiento de las oficinas electorales, asimismo, impedir la entrada o salida a las mismas a los funcionarios electorales, así como a otras personas;
+X.- Dificulte por sí mismo o por interpósita persona el funcionamiento de las oficinas electorales, asimismo, impedir la entrada o salida a las mismas a los funcionarios electorales, así como a otras personas;
 
-XI. Fije o haga propaganda electoral en lugares o días prohibidos por la Ley Electoral del Estado;
+XI.- Fije o haga propaganda electoral en lugares o días prohibidos por la Ley Electoral del Estado;
 
-XII. Prepare, organice, participe o induzca a realizar actos violentos que alteren el desarrollo del proceso electoral; y
+XII.- Prepare, organice, participe o induzca a realizar actos violentos que alteren el desarrollo del proceso electoral; y
 
-XIII. Obtenga o utilice fondos, bienes o servicios provenientes de actividades ilícitas para la promoción del voto o actividades propias de los partidos políticos.
+XIII.- Obtenga o utilice fondos, bienes o servicios provenientes de actividades ilícitas para la promoción del voto o actividades propias de los partidos políticos.
 
 > <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -3850,3 +3844,9 @@ P.O. 4 DE OCTUBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
