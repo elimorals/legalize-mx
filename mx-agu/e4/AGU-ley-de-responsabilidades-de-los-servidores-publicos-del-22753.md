@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2010-07-19"
+last_updated: "2010-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -943,9 +943,17 @@ En estos casos, el nuevo plazo comenzará a contarse a partir de la fecha en que
 
 ### CAPITULO UNICO. De la Declaración de Situación Patrimonial
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR EL PRESENTE ARTICULO VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 108.
 
-La Contraloría General del Estado llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
+La Contraloría General del Estado llevará el registro de la situación patrimonial de los servidores públicos del Poder Ejecutivo, sus dependencias, organismos públicos descentralizados, desconcentrados, fideicomisos en los que tenga participación, la de los Municipios y de organismos autónomos, de conformidad con esta Ley y demás disposiciones aplicables.
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 2011)</small>
+
+Las Contralorías del Poder Legislativo y del Poder Judicial, llevarán el registro de la situación patrimonial de sus respectivos servidores públicos de conformidad con lo previsto en esta Ley y los demás ordenamientos que resulten aplicables.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
 
@@ -1138,3 +1146,21 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 15 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia el día 1º de diciembre del año 2010.
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 2011)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 60 días naturales contados a partir de la entrada en vigencia del presente Decreto, la Contraloría General del Estado, remitirá a las respectivas contralorías, los expedientes que obren en su poder, relativos al registro de la situación patrimonial de los servidores públicos adscritos a los Poderes Legislativo y Judicial; para los efectos previstos en este Decreto.
+
+> <small>(F. DE E., P.O. 31 DE ENERO DE 2011)</small>
+
+###### ARTÍCULO TERCERO.
+
+En un plazo de 60 días naturales contados a partir de la entrada en vigencia del presente Decreto, la Contraloría General del Estado, remitirá a las respectivas contralorías, los expedientes que obren en su poder, relativos a los procedimientos de responsabilidad que se encuentren en trámite en contra de los servidores públicos adscritos a los Poderes Legislativo y Judicial; para efectos de que se continúe con el procedimiento y se resuelva lo procedente en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
