@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2010-11-05"
+last_updated: "2010-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -201,7 +201,7 @@ XLIX.- Prestador de servicios en materia ambiental: Persona física o moral cert
 
 L.- Prestador de servicios en materia de impacto y riesgo ambiental: Prestador de servicios, registrado o autorizado por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros, y que es responsable del contenido de los mismos;
 
-LI.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+LI.-Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
 (sic).- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
@@ -453,7 +453,11 @@ XII. Establecer y ejecutar en forma continua y permanente campañas o programas 
 
 XIII. Preservar y restaurar el equilibrio ecológico y proteger al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales, y demás servicios públicos a su cargo, siempre y cuando no se trate de atribuciones otorgadas al Estado por la presente Ley;
 
-XIV. Sancionar, en el ámbito de su competencia, la realización de actividades ruidosas, así como las emisiones provenientes de aparatos de sonido, en establecimientos públicos o privados, o en unidades móviles, que rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas y Normas Ambientales Estatales;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+
+XIV. Sancionar, en el ámbito de su competencia, la realización de actividades ruidosas, así como las emisiones provenientes de aparatos de sonido, en establecimientos públicos o privados, o en unidades móviles, que rebasen los límites máximos permitidos por las Normas Oficiales Mexicanas y Normas Ambientales Estatales, para lo cual podrán imponer cualquiera de las sanciones a que se refiere el Artículo 232 de esta Ley.
+
+Los reglamentos municipales de la materia deberán establecer las disposiciones necesarias tendientes a la observancia y debido cumplimiento de la presente disposición.
 
 XV. Registrar la emisión de ruidos y vibraciones en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales y demás establecimientos dedicados al tratamiento de la salud;
 
@@ -1129,7 +1133,7 @@ II. Establecer un sistema de reconocimiento de peritos y auditores ambientales, 
 
 III. Desarrollar programas de capacitación en materia de peritajes y auditorias ambientales;
 
-IV. Instrumentar un sistema de reconocimiento y estímulos que permita identificar a las industrias que cumplan oportunamente los compromisos adquiridos en las auditorias ambientales;
+IV. instrumentar un sistema de reconocimiento y estímulos que permita identificar a las industrias que cumplan oportunamente los compromisos adquiridos en las auditorias ambientales;
 
 V. Convenir o concertar con personas físicas o morales, públicas o privadas, la realización de auditorias ambientales; y
 
@@ -1149,7 +1153,7 @@ La Secretaría proporcionará la asesoría técnica y normativa necesaria, a fin
 
 Para coadyuvar en las acciones para la implementación de lo dispuesto en la presente Sección, la Secretaría integrará un comité de trabajo, en el que participarán los representantes de instituciones de investigación, colegios y asociaciones profesionales y organizaciones del sector industrial y privado.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 62.
 
@@ -1845,7 +1849,7 @@ Para la aplicación de las disposiciones contenidas en el presente capítulo, se
 
 I. Fuentes emisoras de contaminación atmosférica de competencia estatal:
 
-a) Los establecimientos industriales en general, excepto los sectores industriales de competencia exclusiva de la Federación establecidos en el artículo 111 bis de la Ley General;
+a) Los establecimientos industriales en general, excepto los sectores industriales de competencia exclusiva de la Federación establecidos en el atículo 111 bis de la Ley General;
 
 b) Los bienes y zonas de competencia estatal;
 
@@ -2117,19 +2121,19 @@ II. Las interferencias en los procesos de depuración de las aguas; y
 
 III. Los fenómenos que pongan en riesgo los ecosistemas o la capacidad hidráulica de las cuencas.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 161.
 
 Cuando se afecten o puedan afectar fuentes de abastecimiento de agua, se dará aviso de inmediato a la Secretaría y a la autoridad sanitaria más próxima. En estos casos, y en coordinación con la Secretaría de Salud en el Estado, la Secretaría y el Municipio, en el ámbito de sus respectivas competencias tomarán las medidas que consideren necesarias.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 162.
 
 Los Municipios observarán, según corresponda, las condiciones particulares de descarga que les sean fijadas, de acuerdo a los parámetros establecidos por la Secretaría, y conforme a las Normas Oficiales Mexicanas, o Normas Ambientales Estatales, para el diseño, operación o administración de sus equipos y sistemas de tratamiento de aguas residuales de origen urbano.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 163.
 
@@ -2331,7 +2335,7 @@ Las autoridades adoptarán las medidas necesarias para racionalizar la generaci�
 
 Con motivo de la operación de sistemas destinados al manejo de materiales y residuos peligrosos, el reglamento de esta Ley y, en su caso, las normas ambientales estatales, podrán establecer medidas o restricciones complementarias a las que emita la Federación, a fin de evitar o prevenir situaciones de riesgo ambiental y proteger la salud de la población en general.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 La vigilancia y aplicación de dichas medidas o restricciones corresponderá a la Secretaría, en el ámbito de competencia determinado por la Ley General, y de conformidad con lo previsto en la presente Ley.
 
@@ -3214,3 +3218,9 @@ Segundo.- En un término que no exceda de sesenta días a partir de la entrada e
 P.O. 5 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- En un término que no exceda de sesenta días a partir de la entrada en vigor del presente Decreto, los Ayuntamientos realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con la presente reforma.
