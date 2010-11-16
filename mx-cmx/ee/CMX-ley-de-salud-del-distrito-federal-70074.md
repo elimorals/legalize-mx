@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2010-08-24"
+last_updated: "2010-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1104,15 +1104,19 @@ VI. Proponer, a las autoridades federales correspondientes, medidas preventivas 
 
 VII. Coordinarse con la Secretaría Federal, en el marco del Sistema Nacional de Salud, para el desarrollo de acciones contra las adicciones y de conformidad a los convenios respectivos;
 
-> <small>(REFORMADA, G.O. 3 DE MAYO DE 2010)</small>
+(REFORMADA, G.O. 3 DE MAYO DE 2010) (REFORMADA [N. DE E. REPUBLICADA], G.O. 16 DE NOVIEMBRE DE 2010)
 
 VIII. Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, en materia de adicciones, así como para la atención médica de las personas afectadas por éstas;
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
 
-IX. Coadyuvar con las autoridades federales competentes en la vigilancia y supervisión de los establecimientos especializados en adicciones, y
+IX. Coadyuvar con las autoridades federales competentes en la vigilancia y supervisión de los establecimientos especializados en adicciones;
 
-X. Las demás que le establezcan las disposiciones legales aplicables.
+> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+
+X. Celebrar convenios con la Subsecretaría de Sistema Penitenciario de la Secretaría de Gobierno para la capacitación de personal, con la finalidad de que cuenten con los conocimientos necesarios para impartir pláticas informativas relativas a la prevención y atención de las adicciones a las personas que cometan infracciones por conductas relacionadas con el consumo de alcohol, drogas o enervantes, sancionadas por la Ley de Cultura Cívica del Distrito Federal o por el Reglamento de Tránsito Metropolitano, durante el tiempo en que dure el arresto impuesto, y
+
+XI. Las demás que le establezcan las disposiciones legales aplicables.
 
 ### Capítulo XXI. Prevención y Atención Médica de Accidentes
 
@@ -2413,3 +2417,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El Jefe de Gobierno del Distrito Federal contará con un plazo de 180 días para la publicación en la Gaceta Oficial del Distrito Federal de las adecuaciones, modificaciones y actualización que, en su caso, se deban realizar a las disposiciones reglamentarias, respecto a lo previsto en el presente Decreto.
 
 CUARTO.- En tanto se expiden las adecuaciones, modificaciones y actualización de las disposiciones reglamentarias y administrativas que, en su caso, se deriven del presente Decreto, seguirán en vigor las que rigen actualmente.
+
+G.O. 16 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La Secretaría de Salud del Distrito Federal presentará al Consejo Contra las Adicciones del Distrito Federal, en la sesión inmediata que convoque a la entrada en vigor del presente Decreto, las propuestas de Convenios a los que se refiere la fracción X del artículo 83 de la Ley de Salud del Distrito Federal, con la finalidad de que sean aprobados y disponga las acciones que considere necesarias para el debido cumplimiento y seguimiento en la ejecución de los mismos.
+
+CUARTO.- La Secretaría de Salud del Distrito Federal, en tanto no se apliquen los convenios señalados en el presente Decreto, tomando en cuenta la disposición del personal requerido para dicha actividad, brindará las pláticas informativas relativas a la prevención y atención de las adicciones a las personas que comentan infracciones por conductas relacionadas con el consumo de alcohol, drogas o enervantes, sancionadas por la Ley de Cultura Cívica del Distrito Federal o por el Reglamento de Tránsito Metropolitano.
