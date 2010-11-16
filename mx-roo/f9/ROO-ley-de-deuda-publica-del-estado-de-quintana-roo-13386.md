@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-deuda-publica-del-estado-de-quintana-roo-13386"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-18"
-last_updated: "2006-10-27"
+last_updated: "2010-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 18 de diciembre de 1998.
 
@@ -199,9 +199,11 @@ Las entidades públicas deberán demostrar un superávit primario en sus finanza
 
 Todas las entidades públicas que soliciten autorización a la Legislatura para la contratación de deuda, deberán acompañar dicha solicitud de los elementos que la sustenten.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 6º.
 
-No requieren autorización de la Legislatura las obligaciones directas, cuyo plazo de vencimiento no rebase los sesenta días naturales, que se contraigan para solventar necesidades urgentes. Estas operaciones estarán sujetas a los requisitos de información y registro a que se refiere la Ley.
+No requieren autorización de la Legislatura las obligaciones directas, cuyo plazo de vencimiento no rebase los ciento ochenta días naturales, que se contraigan para solventar necesidades urgentes. Estas operaciones estarán sujetas a los requisitos de información y registro a que se refiere la ley.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
@@ -986,3 +988,13 @@ P.O. 27 DE OCTUBRE DE 2006.
 PRIMERO.- El Presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
