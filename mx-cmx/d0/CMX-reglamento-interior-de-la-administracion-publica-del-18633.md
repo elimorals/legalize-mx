@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-10-04"
+last_updated: "2010-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -13554,93 +13554,145 @@ Para el despacho de los asuntos que competen al Órgano Desconcentrado Instituto
 
 I. Dirección de la Pensión Alimentaria;
 
-II. Dirección de Atención al Envejecimiento; y
+II. (DEROGADA, G.O. 16 DE NOVIEMBRE DE 2010)
 
-III. Las demás que requiera para el cumplimiento de su objeto, en atención a la suficiencia presupuestal y las que se señalen en el dictamen de estructura orgánica autorizada.
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 16 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+III. Dirección de Programas Especiales;
+
+> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+
+IV. Dirección de Vinculación Interinstitucional;
+
+> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+
+V. Dirección de Operación Territorial; y
+
+> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+
+VI. Las que se requieran para el cumplimiento de su objeto, en atención a la suficiencia presupuestal y las que se señalen en el dictamen de estructura orgánica autorizada.
+
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 211.
 
 La Dirección de la Pensión Alimentaria cuenta con las siguientes atribuciones:
 
-I. Dirigir, dar seguimiento y evaluar la operación de la Pensión Alimentaria en las 16 Delegaciones del Distrito Federal;
+I. Dirigir, dar seguimiento y evaluar la operación de la Pensión Alimentaria en las Delegaciones del Distrito Federal;
 
-II. Asegurar la actualización permanente del padrón de adultos mayores pensionados y garantizar el manejo seguro y confidencial del mismo;
+II. .Asegurar (sic) la actualización permanente del padrón de adultos mayores pensionados y garantizar el manejo seguro y confidencial del mismo;
 
-III. Asegurar la calidad de la atención a los derechohabientes de la Pensión Alimentaria;
+III. Asegurar la calidad de la atención a los solicitantes y derechohabientes de la Pensión Alimentaria;
 
-IV. Elaborar la propuesta del programa operativo anual para la pensión alimentaria y dar seguimiento al cumplimiento del mismo;
+IV. Elaborar la propuesta del Programa Operativo Anual para la pensión alimentaria y vigilar su cumplimiento;
 
 V. Solicitar la disponibilidad de recursos económicos para el otorgamiento de la pensión alimentaria a los adultos mayores derechohabientes;
 
 VI. Dar seguimiento a los procesos de dispersión mensual de la pensión alimentaria;
 
-VII. Informar permanentemente al titular del Instituto y a las instancias correspondientes sobre el estado y avance del Programa de la Pensión Alimentaria;
+VII. Informar permanentemente al titular de la Dirección General del Instituto y las instancias correspondientes sobre el estado y avance del Programa de la Pensión Alimentaria;
 
-VIII. Coadyuvar en el desarrollo de modelos, programas y acciones de atención integral a los adultos mayores pensionados en el Distrito Federal que establezca el titular del Instituto;
+VIII. Coadyuvar en el desarrollo de modelos, programas y acciones de atención integral a los adultos mayores pensionados en el Distrito Federal que establezca el Instituto Participar en la planeación estratégica y operativa del programa de visitas domiciliarias a su cargo;
 
-IX. Participar en la planeación estratégica y operativa del programa de visitas médicas domiciliarias en el cual colabora el personal de la Dirección de la Pensión Alimentaria;
+IX. Participar en la planeación y operación de diagnósticos sociales y de salud de los adultos mayores que gozan del beneficio económico de la pensión alimentaria;
 
-X. Establecer vinculación al interior del Instituto, con las dependencias de la Administración Pública del Distrito Federal y otras instancias para la realización de acciones conjuntas que conlleven a la mejor operación de los programas encomendados al área;
+X. Proponer lineamientos de supervisión dirigidos al personal operativo de la Pensión Alimentaria y vigilar su cumplimiento;
 
-XI. Participar en la planeación y operación de los diagnósticos sociales y de salud de los adultos mayores que gozan del beneficio económico de la pensión alimentaria;
+XI. Vigilar los procedimientos de operación del programa de la pensión alimentaria;
 
-XII. Difundir y vigilar la actualización y aplicación de la normatividad para la operación de la Pensión Alimentaria y de los programas encomendados al área;
+XII. Informar al titular del Instituto sobre las acciones a su cargo y el estado mensual del padrón de derechohabientes de la pensión alimentaria;
 
-XIII. Establecer los mecanismos que garanticen a los adultos mayores pensionados y familiares la prestación de servicios de atención, información y orientación de conformidad con los principios que señala la normatividad correspondiente;
+XIII. Dirigir, coordinar y supervisar el desempeño del personal a su cargo y de ser el caso, informar las irregularidades detectadas; y
 
-XIV. Desarrollar en coordinación con las otras áreas correspondientes del Instituto el programa anual de capacitación y actualización del personal operativo y normativo; y
-
-XV. Dirigir y supervisar el desempeño del personal a su cargo.
-
-> <small>(ADICIONADO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+XIV. Las demás que de manera directa le asigne el titular del Instituto y aquellas que se establezcan en otras disposiciones y manuales administrativos.
 
 ###### Artículo 212.
 
-La Dirección de Atención al Envejecimiento cuenta con las siguientes atribuciones:
+(DEROGADO, G.O. 16 DE NOVIEMBRE DE 2010)
 
-I. Dirigir, coordinar, supervisar y evaluar los programas y acciones en materia de atención integral a los adultos mayores, acorde con las políticas establecidas por el Gobierno del Distrito Federal;
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
 
-II. Planear, programar y presupuestar acciones en materia de promoción del envejecimiento activo;
+###### Artículo 213.
 
-III. Establecer los lineamientos y elementos técnico normativos, para el desarrollo de las actividades sustantivas de las áreas que integran la Dirección;
+La Dirección de Programas Especiales cuenta con las siguientes atribuciones:
 
-IV. Conducir la elaboración de modelos de atención geronto-geriátrica;
+I. Dirigir la operación de los Programas Especiales a cargo del Instituto;
 
-V. Dirigir la operación de los programas de atención geronto-geriátricos en el Instituto;
+II. Establecer estrategias para el desarrollo de programas permanentes en tareas encomendadas al Instituto;
 
-VI. Dirigir el establecimiento de un sistema de evaluación permanente de las acciones que se realizan en cada uno de los programas encomendados a la Dirección;
+III. Planear, programar y presupuestar acciones en materia de atención integral y de promoción del envejecimiento activo;
 
-VII. Determinar e implementar criterios de calidad para la atención a las personas adultas mayores;
+IV. Establecer los lineamientos y elementos técnico normativos, para el desarrollo de las actividades sustantivas de las áreas que integran la Dirección;
 
-VIII. Guiar las actividades para fomentar la participación de la familia y la comunidad, en los programas de atención integral de las personas adultas mayores;
+V. Formular proyectos de capacitación de recursos humanos en Gerontología, Geriatría y disciplinas afines al objeto del Instituto;
 
-IX. Dirigir la operación del Programa de Visitas Médicas Domiciliarias a las Personas Mayores de 70 años;
+VI. Llevar a cabo actividades que fomenten la participación de la familia y la comunidad, en los programas de atención integral de las personas adultas mayores;
 
-X. Dirigir el diseño e implementación de modelos de evaluación y control de la atención geriátrica del Instituto;
+VII. Dirigir el desarrollo de acciones de Apoyo Social para las Personas Adultas Mayores de 68 años;
 
-XI. Coordinar con las diferentes instancias del Gobierno del Distrito Federal, Instituciones y organizaciones de la sociedad civil, la realización de programas y acciones de atención a las personas adultas mayores;
+VIII. Informar al titular del Instituto sobre los avances y variantes que ocurran en la programación y operación de los servicios, así como medidas aplicadas para su atención;
 
-XII. Establecer programas de capacitación al personal en geriatría y gerontología;
+IX. Difundir la normatividad nacional e internacional en materia de promoción de envejecimiento activo, cultura de la vejez y derechos de las personas adultas mayores;
 
-XIII. Establecer y coordinar programas de capacitación a la comunidad en materia de apoyos sociales a los adultos mayores;
+X. Coordinar programas y acciones de inducción, capacitación y actualización del personal operativo, de nuevo ingreso y nivel central;
 
-XIV. Elaborar el Programa Operativo Anual de la Dirección de Atención al Envejecimiento;
+XI. Elaborar los informes requeridos por su superior jerárquico;
 
-XV. Planear actividades que generen el conocimiento en las áreas de gerontología, geriatría y disciplinas afines al quehacer del Instituto;
+XII. Dirigir, coordinar y supervisar el desempeño del personal a su cargo;
 
-XVI. Participar en la elaboración y operación del sistema de seguimiento y evaluación de las actividades del Instituto;
+XIII. Elaborar el Programa Operativo Anual de la Dirección de Programas Especiales; y
 
-XVII. Dirigir y supervisar el desempeño del personal a su cargo así como informar al área correspondiente, de las irregularidades administrativas detectadas;
+XIV. Las que de manera directa le asigne el titular del Instituto, así como así como (sic) aquellas que se establezcan en otras disposiciones y manuales administrativos.
 
-XVIII. Elaborar los informes que le sean solicitados por el titular del Instituto en la forma y periodicidad requeridos;
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
 
-XIX. Integrar y analizar periódicamente el avance de los programas, con la finalidad de detectar en forma oportuna, las desviaciones e implementar las estrategias necesarias para su corrección;
+###### Artículo 214.
 
-XX. Informar permanentemente al titular del Instituto, los avances y desviaciones que ocurran en la programación y operación de los servicios, así como de las estrategias y medidas aplicadas para su atención; y
+La Dirección de Vinculación Interinstitucional cuenta con las siguientes atribuciones:
 
-XXI. Difundir la normatividad nacional e internacional en materia de promoción de envejecimiento activo, cultura de la vejez y derechos de las personas adultas mayores.
+I. Establecer mecanismos de coordinación intersectorial para la asesoría, capacitación, apoyo didáctico y seguimiento de la población Adulto Mayor;
+
+II. Fijar estrategias de vinculación con instituciones sociales públicas y privadas, con el fin de garantizar la atención integral a las personas adultas mayores;
+
+III. Proponer la ejecución de acciones que enriquezcan el Programa de Protección Social a favor de los Adultos Mayores;
+
+IV. Informar al titular de la Dirección General del Instituto sobre las acciones y programas que en materia de atención a los adultos mayores establezcan las Dependencias del Gobierno del Distrito Federal, Delegaciones Políticas, Gobierno Federal, Organizaciones de la Sociedad Civil;
+
+V. Informar sobre el desarrollo y evaluación del Programa de Protección Social para personas adultas mayores;
+
+VI. Impulsar el desarrollo de modelos de participación, organización y gestión social que coadyuven en la creación y mejoramiento de redes sociales a favor de las personas Adultas Mayores;
+
+VII. Participar en la integración de diagnósticos socio-económicos de las personas adultas mayores;
+
+VIII. Desarrollar y dirigir la aplicación de modelos para la operación de los programas de atención integral a las personas Adultas Mayores del Distrito Federal;
+
+IX. Dirigir, coordinar y supervisar el desempeño del personal a su cargo;
+
+X. Elaborar y entregar los informes que le sean solicitados; y
+
+XI. Las que de manera directa le asigne el titular del Órgano Desconcentrado, así como los que se establezcan en otras disposiciones y manuales administrativos.
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 215.
+
+La Dirección de Operación Territorial cuenta con las siguientes atribuciones:
+
+I. Proponer al titular del Instituto mecanismos para la operación territorial de la pensión alimentaria, de Visitas Domiciliarias y programas de atención a adultos mayores;
+
+II. Dirigir el desarrollo de programas que se ejecuten en las unidades administrativas de Coordinación Regional;
+
+III. Supervisar la operación de la Pensión Alimentaria a nivel regional;; (sic)
+
+IV. Supervisar al personal adscrito a las unidades administrativas de Coordinación Regional;
+
+V. Elaborar la propuesta del Programa Operativo Anual para la Pensión Alimentaria;
+
+VI. Dirigir, coordinar y supervisar el desempeño del personal a su cargo;
+
+VII. Elaborar los informes que le sean requeridos por el titular del Instituto; y
+
+VIII. Las que de manera directa le asigne el titular del Órgano Desconcentrado, así como los que se establezcan en otras disposiciones y manuales administrativos.
 
 ## TRANSITORIOS
 
@@ -14235,3 +14287,9 @@ PRIMERO. - El Proyecto Metro del Distrito Federal deberá actualizar su Manual A
 SEGUNDO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. - El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 16 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
