@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2010-07-30"
+last_updated: "2010-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -242,9 +242,11 @@ IX. Auxiliar a las áreas de desarrollo social en el traslado de las personas qu
 
 X. Comisionar en cada uno de los turnos de los Juzgados, por lo menos a un policía.
 
+> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 11.
 
-Corresponde a la Secretaría de Salud planear, dirigir, controlar y evaluar los servicios de medicina legal y de salud en apoyo a los Juzgados.
+Corresponde a la Secretaría de Salud planear, dirigir, controlar y evaluar los servicios de medicina legal, de salud, de prevención y atención de las adicciones en apoyo a los Juzgados, en los términos establecidos en la Ley de Salud del Distrito Federal.
 
 ###### Artículo 12.
 
@@ -1483,3 +1485,13 @@ G.O. 30 DE JULIO DE 2010.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese el presente en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 16 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La Secretaría de Salud del Distrito Federal presentará al Consejo Contra las Adicciones del Distrito Federal, en la sesión inmediata que convoque a la entrada en vigor del presente Decreto, las propuestas de Convenios a los que se refiere la fracción X del artículo 83 de la Ley de Salud del Distrito Federal, con la finalidad de que sean aprobados y disponga las acciones que considere necesarias para el debido cumplimiento y seguimiento en la ejecución de los mismos.
+
+CUARTO.- La Secretaría de Salud del Distrito Federal, en tanto no se apliquen los convenios señalados en el presente Decreto, tomando en cuenta la disposición del personal requerido para dicha actividad, brindará las pláticas informativas relativas a la prevención y atención de las adicciones a las personas que comentan infracciones por conductas relacionadas con el consumo de alcohol, drogas o enervantes, sancionadas por la Ley de Cultura Cívica del Distrito Federal o por el Reglamento de Tránsito Metropolitano.
