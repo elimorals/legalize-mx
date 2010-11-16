@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ingresos-del-estado-de-quintana-roo-para-el-72637"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2009-12-16"
-last_updated: "2009-12-17"
+last_updated: "2010-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2010
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL EXTRAORDINARIO BIS DEL PERIÓDICO OFICIAL DEL 17 DE DICIEMBRE DE 2009.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 16 de diciembre de 2009.
 
@@ -297,7 +295,9 @@ fortalecimiento de las entidades
 
 federativas. 206,655,042
 
-VII. Ingresos Extraordinarios $ 3,542,946,802
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2010)</small>
+
+VII. Ingresos Extraordinarios. $ 6,242,946,802.00
 
 1.- Aportaciones Especiales. $ 707,520,562
 
@@ -307,7 +307,9 @@ los Estados. $ 0
 
 3.- Ingresos para universidades del Estado. $ 174,426,240
 
-4.- Empréstitos. $ 2,661,000,000
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2010)</small>
+
+4.- Empréstitos. $ 5,361,000,000.00
 
 5.- Apoyos Extraordinarios. $ 0
 
@@ -315,9 +317,11 @@ los Estados. $ 0
 
 7.-·De las Entidades Federativas.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2010)</small>
+
 GRAN TOTAL DE LOS
 
-INGRESOS DEL ESTADO $ 16, 735,468,165
+INGRESOS DEL ESTADO. $ 19,435,468,165.00
 
 ###### ARTICULO 2o.
 
@@ -343,41 +347,13 @@ Asimismo, se derogan las disposiciones contenidas en las leyes de carácter no f
 
 Quedan sin efecto las exenciones relativas a los gravámenes a bienes muebles previstas en leyes federales a favor de organismos descentralizados sobre contribuciones locales, salvo en lo que se refiere a bienes propiedad de dichos organismos que se consideren del dominio público de la Federación.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 6o.
+
+El monto de los Ingresos Extraordinarios reflejados en el Artículo 1o., Fracción VII, Numeral 4, de esta Ley asciende a la cantidad de $5,361,000,000.00 (Son: Cinco Mil Trescientos Sesenta y Un Millones de Pesos 00/100 M.N.), que será aplicado en los términos que establece el Decreto Número 308, de fecha 20 de octubre de 2010, publicado en el Periódico Oficial del Estado de Quintana Roo, Número 85 Extraordinario, Tomo III, Séptima Época.
+
 T R A N S I T O R I O S:
-
-###### ARTÍCULO 6o.
-
-Esta Ley entrará en vigor a partir del primero de enero del año 2010, previa publicación en el Periódico Oficial del Estado.
-
-ARTÍCULO TRANSITORIO:
-
-ÚNICO.- Para los efectos legales que correspondan, publíquese el presente Decreto en el Periódico Oficial del Estado Quintana Roo.
-
-SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTA ROO, A LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE.
-
-DIPUTADO PRESIDENTE:
-
-ING. MARIO ALBERTO CASTRO BASTO.
-
-DIPUTADA SECRETARIA:
-
-LIC. MARIA HADAD CASTILLO.
-
-CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y EL ARTÍCULO 8 FRACCIÓN VIII DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, DECRETO NÚMERO: 204 POR EL QUE SE APRUEBA LA LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2010, EXPEDIDO POR LA HONORABLE XII LEGISLATURA DEL ESTADO, A LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECISEIS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO.
-
-LIC. FÉLIX ARTURO GONZÁLEZ CANTO
-
-EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
-
-LIC. EDUARDO OVANDO MARTINEZ
-
-> <small>(F. DE E., P.O. 17 DE DICIEMBRE DE 2009)</small>
-
-EL SECRETARIO DE DE (SIC) HACIENDA
-
-LIC. FREDY EFRÉN MARRUFO MARTÍN.
 
 ###### ARTÍCULO 1o.
 
@@ -456,3 +432,49 @@ En caso de que el 31 de diciembre del año 2010, no se hubiere aprobado la Ley d
 ###### ARTÍCULO 5o.
 
 Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+###### ARTÍCULO 6o.
+
+Esta Ley entrará en vigor a partir del primero de enero del año 2010, previa publicación en el Periódico Oficial del Estado.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Para los efectos legales que correspondan, publíquese el presente Decreto en el Periódico Oficial del Estado Quintana Roo.
+
+SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTA ROO, A LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE.
+
+DIPUTADO PRESIDENTE:
+
+ING. MARIO ALBERTO CASTRO BASTO.
+
+DIPUTADA SECRETARIA:
+
+LIC. MARIA HADAD CASTILLO.
+
+CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91, FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y EL ARTÍCULO 8 FRACCIÓN VIII DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, DECRETO NÚMERO: 204 POR EL QUE SE APRUEBA LA LEY DE INGRESOS DEL ESTADO DE QUINTANA ROO, PARA EL EJERCICIO FISCAL 2010, EXPEDIDO POR LA HONORABLE XII LEGISLATURA DEL ESTADO, A LOS QUINCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE, DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DIECISEIS DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL NUEVE.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUINTANA ROO.
+
+LIC. FÉLIX ARTURO GONZÁLEZ CANTO
+
+EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
+
+LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>(F. DE E., P.O. 17 DE DICIEMBRE DE 2009)</small>
+
+EL SECRETARIO DE DE (SIC) HACIENDA
+
+LIC. FREDY EFRÉN MARRUFO MARTÍN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+ARTÍCULO TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
