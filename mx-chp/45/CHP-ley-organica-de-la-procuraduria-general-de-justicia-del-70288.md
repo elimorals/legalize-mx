@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2009-08-19"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -99,9 +99,11 @@ XVII. Contralor: Al Contralor General.
 
 La Institución del Ministerio Público en el Estado de Chiapas, será presidida por el Procurador, quien estará al frente de la Procuraduría.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 5º.
 
-El Procurador intervendrá por sí o por conducto de los Fiscales del Ministerio Público Titulares o Auxiliares, y quienes tengan ese carácter, en el ejercicio de las atribuciones conferidas por la Constitución Federal, la Constitución Local, la presente Ley, su Reglamento y demás disposiciones aplicables.
+El Procurador intervendrá por sí o por conducto del Subprocurador, los Fiscales del Ministerio Público Titulares o Auxiliares, y quienes tengan ese carácter, en el ejercicio de las atribuciones conferidas por la Constitución Federal, la Constitución local, la presente Ley, su Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 6º.
 
@@ -155,7 +157,9 @@ Resulte imposible la prueba de la existencia de los hechos constitutivos de deli
 
 En los demás casos que determinen las leyes aplicables.
 
-16. Consultar el no ejercicio de la acción penal y notificarlo personalmente al denunciante o querellante y a la víctima u ofendido.
+> <small>(REFORMADO, 17 DE NOVIEMBRE DE 2010)</small>
+
+16. Proponer el no ejercicio de la acción penal, ante quien esta Ley faculte, y una vez autorizado, notificar personalmente al denunciante o querellante y a la víctima u ofendido.
 
 17. Llevar un registro con la identificación de las personas que intervengan en la cadena de custodia y de las autorizadas para reconocer y manejar los indicios, huellas o vestigios del hecho delictuoso, así como de los instrumentos, objetos o productos del delito.
 
@@ -163,7 +167,9 @@ En los demás casos que determinen las leyes aplicables.
 
 19. Ordenar a la Policía que brinde protección a personas respecto de las cuales existe un riesgo objetivo para su vida o integridad corporal por su intervención en procedimientos penales del orden común, de conformidad con los acuerdos que para tal efecto emita el Procurador.
 
-20. Propiciar la conciliación de los intereses en conflicto, en aquellos casos en que la ley lo permita, proponiendo vías de solución que logren la avenencia.
+> <small>(REFORMADO, 17 DE NOVIEMBRE DE 2010)</small>
+
+20. Promover la resolución de conflictos surgidos como consecuencia de los delitos, a través de la mediación o conciliación, en aquellos casos en que la ley lo permita, entre la víctima u ofendido y el imputado; y en su caso, validar los convenios que resulten procedentes de acuerdo a las disposiciones aplicables.
 
 21. Poner a disposición de la autoridad competente a los menores de edad que hubieran incurrido en acciones u omisiones correspondientes a ilícitos tipificados por las leyes penales.
 
@@ -172,6 +178,22 @@ En los demás casos que determinen las leyes aplicables.
 23. Adoptar las medidas pertinentes para proteger a los testigos que participen en la investigación de los delitos o en los procesos que, en su caso, originen.
 
 24. El Ministerio Público podrá expedir copias simples o certificadas de constancias o registros que obren en su poder, cuando exista mandamiento de autoridad competente que funde y motive su requerimiento o cuando lo soliciten el denunciante o el querellante, la víctima o el ofendido, para el ejercicio de derechos o el cumplimiento de obligaciones previstos por la Ley, siempre que no se afecte la investigación de delitos.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+25. Recabar por sí o por medio de la policía especializada o de los cuerpos de seguridad pública, los antecedentes y elementos de convicción tendientes al esclarecimiento de los hechos materia de denuncias o querellas.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+26. Suspender el ejercicio de la acción penal hasta que se concluya la mediación o se logre la conciliación.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+27. Dirigir a los cuerpos de seguridad pública en su función de investigación del delito, vigilando que los mismos realicen sus actuaciones con pleno respeto a los derechos fundamentales y conforme a los principios de legalidad y objetividad.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+28. Conocer e investigar delitos previstos en leyes federales o especiales, en materia de competencia concurrente, realizando las atribuciones que éstas le prevean.
 
 b) Ante los órganos jurisdiccionales:
 
@@ -225,6 +247,14 @@ IX. Auxiliar a otras autoridades en la persecución de los delitos de la compete
 
 X. Las demás que las leyes determinen.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XI. Integrar y rendir el informe estadístico, y aquellos que le sean requeridos por su superior jerárquico.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XII. Las demás que las leyes determinen.
+
 ###### Artículo 7°.
 
 Contra el no ejercicio de la acción penal, procede el recurso de reconsideración.
@@ -255,7 +285,25 @@ VI. Asentar las certificaciones, constancias y demás razones.
 
 VII. Guardar con la seguridad debida bajo su responsabilidad, objetos, averiguaciones previas, actas administrativas, libros y documentos que existan en la Agencia; Cuando por disposición de la Ley o del Ministerio Público, deba entregar alguno de los antes mencionados, a otro funcionario o empleado, recabará recibo para su resguardo; y en este caso la responsabilidad pasará a la persona que los reciba.
 
-VIII. Las demás que determine esta Ley, su Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Custodiar, sellar, foliar y rubricar los expedientes de las averiguaciones previas y actas administrativas.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+IX. Llevar el control de los libros de gobierno, en los que deberán asentar los movimientos diarios de las averiguaciones previas y actas administrativas radicadas en la Fiscalía del Ministerio Público.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+X. Coadyuvar con el Fiscal del Ministerio Público en la elaboración del informe estadístico, respecto a las averiguaciones previas y actas administrativas radicadas en la Fiscalía.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XI. Separar en original y duplicado los expedientes de averiguaciones previas y actas administrativas.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XII. Las que determine esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ## Título Tercero. De la Procuraduría General de Justicia del Estado
 
@@ -301,6 +349,10 @@ Indirectos:
 
 4. Las demás autoridades que prevengan las leyes.
 
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+En el ejercicio de sus funciones, los auxiliares del Ministerio Público están obligados a cumplir con las órdenes o peticiones que les haga el Fiscal del Ministerio Público, así como informarle de manera inmediata los asuntos en que intervengan con ese carácter y a proporcionar sin dilación, la información que les requiera.
+
 b) Órganos Sustantivos Técnicos:
 
 1. Una Coordinación General de Asesores.
@@ -339,7 +391,7 @@ b) Una Contraloría General.
 
 Las demás áreas que establezca el Reglamento de esta Ley, y otras disposiciones aplicables, las cuales al ser integrantes de la Procuraduría, tendrán el carácter de órganos sustantivos, en razón de la naturaleza indivisible del Ministerio Público, ya que la indivisibilidad como unidad colectiva del mismo, es independiente de los servidores públicos que practican las diligencias.
 
-El Reglamento de esta Ley dispondrá el procedimiento de creación de órganos ministeriales o de apoyo administrativo, así como las atribuciones específicas, estructuración, lineamientos básicos y características administrativas, de todos los entes de la Procuraduría.
+> <small>(DEROGADO ULTIMO PARRAFO, 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 12.
 
@@ -354,6 +406,10 @@ III. Vigilar que se respeten las garantías individuales y los derechos humanos 
 a) Fomentar entre los servidores públicos de la Procuraduría, una cultura de respeto a las garantías individuales y los derechos humanos que ampara el orden jurídico mexicano y los tratados internacionales en que el Estado Mexicano sea parte.
 
 b) Atender las visitas, quejas, propuestas de conciliación y recomendaciones de la Comisión Nacional y Estatal de los Derechos Humanos, conforme a las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+c) Proporcionar información a la Comisión Nacional de los Derechos Humanos y al Comisión de los Derechos Humanos del Estado, cuando lo soliciten en ejercicio de sus funciones, siempre que no se ponga en riesgo investigaciones en curso o la seguridad de personas.
 
 IV. Participar en el Sistema de Planeación del Estado, en términos de su competencia que establezca la Ley de la materia.
 
@@ -391,7 +447,13 @@ V. Los Fiscales Especializados.
 
 VI. Los Fiscales Especiales.
 
-VII. Los Directores, Subdirectores y Jefes de Departamento de las áreas sustantivas ministeriales que integran la Procuraduría.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VII. El Coordinador General de Asesores, así como los asesores del Procurador, que sean Licenciados en Derecho.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Los Directores, Subdirectores y Jefes de Departamento de las áreas sustantivas ministeriales que integran la Procuraduría.
 
 ###### Artículo 14.
 
@@ -449,7 +511,9 @@ XVIII. Conocer y resolver las averiguaciones previas relacionadas con los delito
 
 XIX. Asistir a las reuniones a las que sea convocado por el Ejecutivo del Estado, así como acordar con éste los asuntos encomendados a la Procuraduría que así lo ameriten, desempeñando las comisiones y funciones que le confiera, manteniéndolo informado sobre el desarrollo y resultado de las mismas.
 
-XX. Designar a cualquiera de los Fiscales Especializados para que lo representen en los casos que éste determine.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XX. Designar a cualquiera de los Servidores Públicos de la Procuraduría, para que lo represente en los casos que éste determine.
 
 XXI. Emitir acuerdos, circulares, instructivos, bases, manuales de organización, de procedimientos y demás normas administrativas necesarias que rijan la actuación del personal adscrito a los órganos ministeriales y estructura técnico-administrativa de la Procuraduría.
 
@@ -461,7 +525,9 @@ XXIV. Promover la participación de la ciudadanía y de representantes de los or
 
 XXV. Rendir los informes previos y justificados en los juicios de amparo promovidos contra actos de la Procuraduría, así como contestar demandas o su desistimiento, ofrecer pruebas, formular alegatos y presentar recursos en los juicios de amparo y demás medios de control constitucional federales y locales, en los que éste o la Procuraduría sean señalados como autoridad responsable, tercero perjudicado o tengan algún interés jurídico.
 
-XXVI. Aprobar la creación de nuevos órganos administrativos, Fiscalías del Ministerio Público y áreas especializadas que considere o que sean propuestas por los Fiscales de Distrito, Especializados y Especiales, en el ámbito de sus respectivas competencias, por razones de necesidad en el servicio y de acuerdo al presupuesto autorizado; así como adscribir a una Fiscalía Especial a una Fiscalía de Distrito, Especializada o Coordinación General.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XXVI. Aprobar la creación de nuevos órganos administrativos, Fiscalías del Ministerio Público y áreas especializadas que considere o que sean propuestas por los Fiscales de Distrito, Especializadas y Especiales, en el ámbito de sus respectivas competencias, por razones de necesidad en el servicio y de acuerdo al presupuesto autorizado; así como adscribir una Fiscalía Especial a una Fiscalía de Distrito, Especializada, Coordinación Generala Subprocuraduría General de Justicia.
 
 XXVII. Expedir los lineamientos a que se sujetarán las Fiscalías de Distrito, para la debida coordinación y articulación entre las mismas y su vinculación con los órganos centrales, Fiscalías Especializadas, Especiales y la Fiscalía Electoral, a efecto de garantizar la unidad de actuación y dependencia jerárquica del Ministerio Público.
 
@@ -489,7 +555,25 @@ XXXVIII. Contribuir con información sobre investigación y seguridad nacional a
 
 XXXIX. Establecer los lineamientos para participación de la Procuraduría, en las instancias de Coordinación de los Sistemas Nacional, Estatal y Municipal de Seguridad Pública, de acuerdo con las leyes de la materia y demás normas que regulen la integración, organización y funcionamiento de dichos sistemas.
 
-XL. Las demás que le otorgue esta Ley, su Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XL. Dictar, emitir y vigilar que se cumplan los criterios generales para la protección y atención a víctimas, ofendidos y testigos.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XLI. Asistir a las sesiones de la Conferencia Nacional de Procuración de Justicia, así como ejecutar los programas y proyectos que en el seno de la asamblea se generen.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XLII. Emitir las directrices y pautas generales para la aplicación de criterios de oportunidad.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XLIII. Solicitar al órgano de jurisdicción federal, cuando la ley lo faculte, la intervención de comunicaciones privadas.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XLIV. Las demás que le otorgue esta Ley, su Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 17.
 
@@ -723,7 +807,17 @@ XXVIII. Estructurar y coordinar los programas y adoptar las medidas necesarias p
 
 XXIX. Participar en las sesiones del Consejo.
 
-XXX. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XXX. Verificar personalmente que los Fiscales del Ministerio Público que le estén adscritos, cumplan en la integración y rendición en tiempo y forma del informe estadístico, y aquellos que le sean requeridos por el Procurador.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XXXI. Supervisar personalmente el cumplimiento de las recomendaciones, derivadas de las visitas practicadas por la Fiscalía Especializada de Visitaduría.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XXXII. Las demás que le otorgue la presente Ley, su Reglamento y otras disposiciones aplicables.
 
 ### Capítulo IV. De las Fiscalías Especializadas y Especiales y Atribuciones de sus Titulares
 
@@ -749,7 +843,9 @@ I. Realizar investigación y persecución de los delitos, en el ámbito de su re
 
 II. Dirigir las actuaciones a través de los Fiscales del Ministerio Público Titulares y Auxiliares que les estén adscritos, de los Auxiliares Directos del Ministerio Público, en los asuntos de su competencia.
 
-III. Autorizar los acuerdos de consignación, libertad provisional bajo caución, de incompetencia y acumulación, así como la propuesta de determinación del no ejercicio de la acción penal, y reserva de la averiguación previa; con excepción de las Fiscalías Especiales que se encuentren adscritas a una Fiscalía de Distrito, Especializada o a una Coordinación General, previa consulta y autorización del titular del órgano a que estén adscritas.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+III. Autorizar los acuerdos de consignación, libertad provisional bajo caución, de incompetencia y acumulación, así como la propuesta de determinación del no ejercicio de la acción penal, y reserva de la averiguación previa; con excepción de las Fiscalías Especiales que se encuentren adscritas a una Fiscalía de Distrito, Especializadas o a la Subprocuraduría General de Justicia, previa consulta y autorización del titular del órgano a que estén adscritas.
 
 IV. Solicitar al Procurador, la atracción de los asuntos que tengan vinculación con los delitos que persiguen, y las materias que tienen encomendadas, de acuerdo a su especialización o especialidad.
 
@@ -763,13 +859,23 @@ VIII. Planear, organizar y evaluar el ejercicio de las atribuciones del personal
 
 IX. Proponer al Procurador, la autorización de los nombramientos y remociones del personal ministerial, auxiliar y administrativo adscrito a las mismas.
 
-X. Supervisar el cumplimiento de las recomendaciones derivadas de las visitas practicadas por la Fiscalía Especializada de Visitaduría; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-XI. Las demás que establezca la presente Ley, su Reglamento y otras disposiciones aplicables.
+X. Supervisar personalmente el cumplimiento de las recomendaciones derivadas de las visitas practicadas por la Fiscalía Especializada de Visitaduría.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XI. Supervisar personalmente que los Fiscales del Ministerio Público que le estén adscritos, cumplan von la integración y rendición en tiempo y forma con el informe estadístico, y aquellos que le sean requeridos por el Procurador.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XII. Las demás que establezca la presente Ley, su Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 33.
 
-La organización, funcionamiento y atribuciones específicas de las Fiscalías Especializadas en Protección a los Derechos de las Mujeres; en Atención a Delitos Cometidos en Contra de Periodistas; de Coordinación General; de Visitaduría; en Procedimientos Penales; en Derechos Humanos, Atención a Víctimas y Servicios a la Comunidad; Jurídica Normativa; en Atención a Grupos Sensibles y Vulnerables; en Justicia Indígena; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; contra la Delincuencia Organizada, en la Protección de los Organismos No Gubernamentales para la Defensa de los Derechos Humanos; para la Atención de los Delitos Relacionados con Servidores Públicos; en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en Aquellos Cometidos en el Poblado Acteal; en Delitos Cometidos en Contra de Inmigrantes; y para la Atención de los Delitos Ambientales, estarán determinadas en el Reglamento de esta Ley.
+El funcionamiento y atribuciones específicas de las Fiscalías Especializadas en Protección a los Derechos de las Mujeres; en Delitos Cometidos en Contra de Inmigrantes; en Justicia Indígena; de Protección y Atención a los Organismos No Gubernamentales y la Defensa de los Derechos Humanos; en Atención de Periodistas y Libertad de Expresión; de Visitaduría; en Procedimientos Penales; Jurídica Normativa; en Atención a Grupos Sensibles, Vulnerables y en Contra de la Discriminación; para la Atención e Investigación de los Delitos Cometidos por Adolescentes; contra la Delincuencia Organizada; para la Atención de los Delitos Relacionados con Servidores Públicos; en Delitos Cometidos en la Procuración y Administración de Justicia en el Estado y en Aquellos Cometidos en el Poblado Acteal; y para la Atención de los Delitos Ambientales, estarán determinadas en el Reglamento de esta Ley y demás disposiciones aplicables.
 
 ### Capítulo V. De la Fiscalía Electoral y Atribuciones de su Titular
 
@@ -797,7 +903,17 @@ II. Elaborar y ejecutar programas preventivos en materia de delitos electorales,
 
 III. Recabar de los Consejos General, Distrital y Municipal Electorales, la información y certificaciones que estime necesarias para el esclarecimiento de hechos relacionados con el proceso electoral, en los asuntos de su competencia.
 
-IV. Las demás que le encomiende esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+IV. Verificar personalmente que los Fiscales del Ministerio Público que le estén adscritos, cumplan con la integración y rendición en tiempo y forma con el informe estadístico, y aquellos que le sean requeridos por el Procurador.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+V. Supervisar personalmente el cumplimiento de las recomendaciones derivadas de las visitas practicadas por la Fiscalía Especializada de Visitaduría.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VI. Las demás que le encomiende esta Ley y otras disposiciones aplicables.
 
 ## Título Quinto. De los Órganos Sustantivos Auxiliares y Técnicos Del Ministerio Público
 
@@ -921,37 +1037,49 @@ En los lugares en donde no haya personal de la Procuraduría, serán también Au
 
 La Coordinación General de Asesores, tiene la función primordial de auxiliar y asesorar al Procurador en las actividades que éste tiene con relación a su encargo; asimismo lleva a cabo la integración y determinación de las indagatorias que le asigne el Procurador.
 
-Las atribuciones específicas de la Coordinación de Asesores así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Coordinación de Asesores, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 50.
 
 La Coordinación de Administración y Finanzas, tiene la responsabilidad de mantener la funcionalidad de los órganos ministeriales a través de criterios de racionalidad, eficiencia y eficacia de los recursos humanos, financiaros y materiales, para la realización de las investigaciones que promuevan el ejercicio de la acción penal.
 
-Las atribuciones específicas de la Coordinación de Administración y Finanzas así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Coordinación de Administración y Finanzas, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 51.
 
 La Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional, funge como órgano de consulta del Procurador, en el estudio, análisis y reflexión de propuestas en materia de procuración de justicia, y auxilia a la Institución del Ministerio Público para que perfeccione la investigación y la persecución de los delitos, a través de proyectos de reformas e iniciativas de ley, así como acuerdos y circulares.
 
-Las atribuciones específicas de la Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional así como su organización funcional, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Coordinación de Proyectos Estratégicos, Consultivos y Enlace Interinstitucional, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 52.
 
 La Coordinación de Prevención e Innovación Institucional tiene como objetivo auxiliar al Procurador, y a la Institución del Ministerio Público en el seguimiento de los indicadores de Procuración de Justicia para la prevención del delito, sí (sic) como realizar propuestas respecto a los instrumentos administrativos y tecnológicos para la debida investigación de los delitos y la eficaz persecución de los presuntos responsables.
 
-Las atribuciones específicas de la Coordinación de Prevención e Innovación Institucional así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Coordinación de Prevención e Innovación Institucional, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 53.
 
 La Coordinación de Participación Ciudadana tiene como función primordial fungir como vínculo operativo con los diversos sectores representativos de la sociedad y la Institución del Ministerio Público, con la finalidad de que éstos coadyuven en la investigación y persecución de los delitos.
 
-Las atribuciones específicas de la Coordinación de Participación Ciudadana así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Coordinación de Participación Ciudadana, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 54.
 
 La Coordinación de Centros Especializados para la Prevención y Tratamiento en Adicciones de la Procuraduría, es el órgano encargado de otorgar atención especializada y profesional, a problemas de adicción, así como elaborar programas de prevención de la misma y de reinserción para los adictos que hayan cometidos delitos o infracciones bajo los efectos de drogas y coadyuvar con el Ministerio Público en la vigilancia de su cumplimiento.
 
-Las atribuciones específicas de la Coordinación de Centros de Prevención y Tratamientos en Adicciones así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Coordinación de Centros Especializados para la Prevención y Tratamientos en Adicciones, se establecen en el Reglamento de esta Ley.
 
 #### Sección Segunda. De las Direcciones
 
@@ -959,37 +1087,49 @@ Las atribuciones específicas de la Coordinación de Centros de Prevención y Tr
 
 La Dirección General de Planeación, tendrá como principal responsabilidad, implementar y dirigir los sistemas de planeación de la Procuraduría, para sustentar las acciones de procuración de justicia, en decisiones planeadas que permitan establecer los objetivos institucionales que se pretenden lograr, así como sistematizar los indicadores cualitativos y cuantitativos relacionados con la función sustantiva del Ministerio Público y sus auxiliares, que serán utilizados para elaborar programas, en los que se tenga como finalidad, optimizar la aplicación de los recursos con que cuenta la institución para la investigación y persecución de los delitos.
 
-Las atribuciones específicas de la Dirección General de Planeación así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Dirección General de Planeación, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 56.
 
 La Dirección de Informática y Desarrollo Tecnológico, es responsable de la planeación, análisis, revisión, desarrollo, promoción y vigilancia de los servicios de informática, estadística, telecomunicaciones, así como del desarrollo de programas que simplifiquen la función práctica del Ministerio Público en la investigación y persecución de los delitos y el control de información de la situación que guarda la Procuración de Justicia en el Estado.
 
-Las atribuciones específicas de la Dirección de Informática y Desarrollo Tecnológico así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Dirección de Informática y Desarrollo Tecnológico, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 57.
 
 La Dirección de Bienes Asegurados, Abandonados y Decomisados, tiene como función primordial, administrar los bienes que asegura el Ministerio Público en la investigación y persecución de los delitos.
 
-Las atribuciones específicas de la Dirección de Bienes Asegurados, Abandonados y Decomisados así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Dirección de Bienes Asegurados, Abandonados y Decomisados, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 58.
 
 La Dirección de Enlace con Plataforma México tiene como función, integrar y actualizar el Sistema Único de Información Criminal, con información que genere la Procuraduría por conducto del Ministerio Público, en el desarrollo de sus actividades de investigación y persecución del delito a través de un concepto tecnológico avanzado de telecomunicaciones.
 
-Las atribuciones específicas de la Dirección de Enlace con Plataforma México así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de.la Dirección de Enlace con Plataforma México, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 59.
 
 La Dirección de Unidades de Combate al Narcomenudeo, tiene como función la realización de acciones coordinadas con la Federación, para la investigación y persecución de las conductas delictivas de posesión, distribución suministro y comercialización de estupefacientes o psicotrópicos en cantidades al menudeo, en la circunscripción territorial del Estado.
 
-Las atribuciones específicas de la Dirección de Unidades de Combate al Narcomenudeo así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Dirección de Unidades de Combate al Narcomenudeo, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 60.
 
 La Unidad de Comunicación Social cumple con la función de informar a la sociedad las actividades sustantivas que desarrolla la Procuraduría y la Institución del Ministerio Público, en la investigación y persecución del delito.
 
-Las atribuciones específicas de la Unidad de Comunicación Social, así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Unidad de Comunicación Social, se establecen en el Reglamento de esta Ley.
 
 #### Sección Tercera. De las Unidades
 
@@ -997,7 +1137,9 @@ Las atribuciones específicas de la Unidad de Comunicación Social, así como su
 
 La Unidad de Control y Seguimiento Documental tiene la función de recibir todos los documentos, quejas y denuncias presentadas al Procurador por las instituciones públicas y privadas, así como de la sociedad civil, relacionadas primordialmente con la función sustantiva del Ministerio Público.
 
-Las atribuciones específicas de la Unidad de Control y Seguimiento Documental, así como su organización funcional, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas de la Unidad de Control y Seguimiento Documental, se establecen en el Reglamento de esta Ley.
 
 #### Sección Cuarta. Del Instituto de Investigación y Profesionalización
 
@@ -1005,15 +1147,23 @@ Las atribuciones específicas de la Unidad de Control y Seguimiento Documental, 
 
 El Instituto de Investigación y Profesionalización tiene como función primordial a través de la capacitación continua y/o permanente de los servidores públicos de la Procuraduría y verificará mediante evaluaciones que éstos y los que aspiran a ingresar a la Institución, cumplan con los requisitos de ingreso y permanencia que las leyes determinan, dentro del servicio civil de carrera ministerial, policial y pericial.
 
-Las atribuciones específicas del Instituto de Investigación y Profesionalización, así como su organización, se establecen en el Reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las atribuciones específicas del Instituto de Investigación y Profesionalización, se establecen en el Reglamento de esta Ley.
 
 ## Título Sexto. De los Órganos Sustantivos de Control Interno
 
 ### Capítulo I. De la Fiscalía Especializada de Visitaduría
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 63.
 
-La Fiscalía Especializada de Visitaduría, tendrá como función primordial el control de los órganos que integran la Procuraduría, con excepción del Procurador, mediante la realización y seguimiento de Visitas de Inspección, así como la recepción e investigación de quejas en contra de los servidores públicos de la Procuraduría. La Fiscalía Especializada de Visitaduría, para el cumplimiento de sus atribuciones, contará con los órganos administrativos y demás personal que para tal efecto establezca el Reglamento de esta Ley.
+La Fiscalía Especializada de Visitaduría tendrá como función primordial el control de los órganos que integran la Procuraduría, con excepción del Procurador, mediante la realización y seguimiento de Visitas de inspección, así como la recepción e investigación de quejas en contra de los servidores públicos de la Procuraduría. La Fiscalía Especializada de Visitaduría para el cumplimiento de sus atribuciones, contará con los órganos administrativos y demás personal que para tal efecto establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+La Fiscalía Especializada de Visitaduría tendrá el libre acceso a los expedientes, documentos e información que se encuentren bajo la autoridad de los órganos que integran la Procuraduría, a quienes se realiza la visita, así como a las instalaciones correspondientes, los equipos de cómputo, bienes y demás elementos que ahí se encuentren o que estén bajo resguardo o custodia del órgano visitado, de conformidad con lo dispuesto en esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ### Capítulo II. De la Contraloría
 
@@ -1383,6 +1533,8 @@ Los procesos de evaluación a que se refieren los dos artículos anteriores tend
 
 El proceso de evaluación de competencias profesionales tiene por objeto determinar que los servidores públicos cuentan con los conocimientos, las habilidades, destrezas y aptitudes necesarias para desempeñar su función de forma eficiente, de conformidad con los estándares establecidos para ello.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 83.
 
 El Procurador, el Subprocurador, los Fiscales de Distrito, Fiscales Especializados y Especiales, el Contralor, el Coordinador General de Administración y Finanzas y el Director del Instituto de Investigación y Profesionalización, podrán requerir que cualquier servidor público se presente a las evaluaciones de control de confianza, del desempeño y de competencia profesional cuando lo estimen pertinente de acuerdo con las necesidades del servicio.
@@ -1499,9 +1651,11 @@ V. Ejercer o desempeñar los demás empleos, cargos, comisiones o actividades qu
 
 Los Fiscales del Ministerio Público y los Secretarios de Acuerdos Ministeriales no son recusables, pero deben excusarse del conocimiento de los asuntos en que intervengan, cuando exista alguna de las causas de impedimento que señale la Ley.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 102.
 
-Cuando se impute la comisión de un delito al Procurador, al Subprocurador, a los Fiscales de Distrito y al Fiscal Electoral, sin perjuicio de lo dispuesto por el Título Noveno de la Constitución Local, la Ley de Responsabilidades de los Servidores Públicos del Estado, y demás disposiciones aplicables, se procederá conforme a lo siguiente: conocerá de la denuncia y se hará cargo de la averiguación previa respectiva, el servidor público de la Procuraduría que determine el Gobernador del Estado, quien resolverá sobre el inicio del procedimiento para la declaración de procedencia ante el Congreso del Estado, en términos de Ley.
+Cuando se impute la comisión de un delito al Procurador, al Subprocurador o al Fiscal Electoral, sin perjuicio de lo dispuesto por el Titulo Noveno de la Constitución local; la Ley de Responsabilidades de los Servidores Públicos del Estado, y demás disposiciones aplicables. Se procederá conforme a lo siguiente: conocerá de la denuncia y se hará cargo de la averiguación previa respectiva, el servidor público de la Procuraduría que determine el Gobernador del Estado, quien resolverá sobre el inicio del procedimiento para la declaración de procedencia ante el Congreso del Estado, en términos de Ley.
 
 ### Capítulo III. De los Derechos de los Fiscales del Ministerio Público, elementos de la Policía Especializada, Peritos y Secretarios de Acuerdos Ministeriales
 
@@ -1821,13 +1975,17 @@ Todo lo no dispuesto en el presente artículo o en el Reglamento de ésta Ley, s
 
 ### Capítulo VII. Del Recurso de Revisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 126.
 
-Todo servidor público que se considere afectado por la imposición de algunas de las sanciones previstas en esta Ley, podrá interponer el recurso de revisión dentro del término de quince días hábiles, contados a partir del primer día hábil siguiente a aquél de la notificación de la sanción. El recurso se presentará por escrito ante el Procurador.
+Todo servidor público que se considere afectado por la imposición de algunas de las sanciones previstas en esta Ley, podrá interponer el recurso de revisión dentro del término de quince días hábiles, contados a partir del primer día hábil siguiente a aquél de la notificación de la sanción. El recurso se presentará por escrito ante la autoridad que haya emitido la resolución, quien deberá remitir al Procurador, el medio de impugnación y el expediente original dentro de un término de cuarenta y ocho horas, como máximo, a partir de la recepción del mismo.
 
 En el escrito correspondiente se expresaran los agravios y se aportarán las pruebas que se estimen pertinentes.
 
-Todo lo no dispuesto en el presente capítulo o en el Reglamento de ésta Ley, serán aplicables supletoriamente las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Todo lo no dispuesto en el presente artículo o en el Reglamento de esta Ley, serán aplicables supletoriamente las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas y la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
 ###### Artículo 127.
 
@@ -1884,3 +2042,15 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los catorce días del mes de agosto del año dos mil nueve.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Los recursos humanos, materiales y financieros, que actualmente se encuentren asignados a la Fiscalía Especializada de Coordinación General, pasarán a formar parte de la Subprocuraduría General de Justicia del Estado.
+
+Artículo Tercero.- Las investigaciones, procedimientos y en general todos los asuntos que se encuentren en trámite ante la Fiscalía Especializada de Coordinación General, iniciados con anterioridad a la entrada en vigor del presente decreto, seguirán su trámite y serán atendidos, desahogados y resueltos por la Subprocuraduría General de Justicia del Estado, previa razón que se asiente en cada uno de los expedientes.
+
+Artículo Cuarto.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
