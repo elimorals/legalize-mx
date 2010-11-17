@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2010-05-26"
+last_updated: "2010-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -85,9 +85,13 @@ Cuando pronunciada una sentencia en que se hubiese impuesto una sanción privati
 
 ### Capítulo V. Leyes Especiales y Concurso Aparente de Normas
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 7.
 
-Cuando se cometa un delito no previsto en este Código, pero sí en otra ley especial del Estado de Chiapas, se aplicará esta última, observando en lo conducente las disposiciones de este Código.
+Cuando se cometa un delito no previsto en este Código, pero sí en otra ley especial del Estado o en una ley Federal, se aplicará cualquiera de éstas, observando en lo conducente las disposiciones de este Código.
+
+Para efectos del párrafo anterior, la aplicación de leyes federales será únicamente en los casos de materias concurrentes previstas en éstas.
 
 ###### Artículo 8.
 
@@ -1198,6 +1202,18 @@ I.- Cuando se practiquen actuaciones en averiguación del delito y de los autore
 II.- Cuando para ejercitar la acción penal la ley exigiere una previa declaración o resolución de alguna autoridad, en cuyo caso las gestiones que se realicen dentro del término legal para obtener dicha declaración o resolución, interrumpirán los términos de prescripción.
 
 III.- Por las diligencias y gestiones que se practiquen para obtener la extradición internacional de el o los probables responsables, y en su caso, por las gestiones que se realicen para la entrega del inculpado que se encuentre detenido en otra Entidad Federativa.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+IV.- Por el trámite de la mediación o conciliación.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+V.- Cuando se acuerde la suspensión del ejercicio de la acción penal en la averiguación previa.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VI.- Cuando se decrete la suspensión del procedimiento a prueba a favor del procesado.
 
 ###### Artículo 146.
 
@@ -4045,17 +4061,19 @@ El remanente será destinado a la procuración y administración de justicia.
 
 Las sanciones dispuestas en el presente artículo se aplicarán, independientemente de las sanciones que dispongan otros artículos de este título.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 457 Bis.
 
-Al que sin contar con la autorización de la autoridad competente, o contraviniendo los términos en que se haya concedido, desmonte o destruya la vegetación forestal, corte, arranque, derribe o tale árboles, realice aprovechamiento de recursos forestales o cambio de uso de suelo en terreno forestal, se le impondrá pena de prisión de cinco a doce años y multa de dos mil días de salario mínimo vigente en el Estado.
+Al que sin contar con la autorización de la autoridad competente o contraviniendo los términos en que se haya concebido, desmonte o destruya la vegetación forestal, corte, arranque, derribe o tale árboles, realice aprovechamiento de recursos forestales o cambio de uso de suelo en terreno forestal o preferentemente forestal, se le impondrá pena de prisión de cinco a doce años y multa de cien a dos mil días de salario mínimo vigente en el Estado.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 457 Ter.
 
-A quien transporte, comercie, procese, acopie o distribuya recursos forestales maderables en cantidades de cuatro metros cúbicos o inferiores en rollo o su equivalente, sin la autorización de la autoridad competente, se impondrá de cinco a doce años y de dos mil a veinte mil días de salario mínimo vigente en el Estado.
+A quien transporte, comercie, procese, acopie o distribuya recursos forestales maderables y no maderables, en cantidades de cuatro metros cúbicos o inferiores en rollo o su equivalente, sin la autorización de la autoridad competente, se impondrá pena de prisión de cinco a doce años y multa de dos mil a veinte mil días de salario mínimo vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
 Se presumirá, salvo prueba en contrario, que la transportación, almacenamiento, distribución, comercialización o procesamiento de recursos forestales maderables, tienen fines ilícitos, cuando se realice de manera oculta o fuera del horario de las seis a las dieciocho horas, o la transportación se realice por ruta distinta a la señalada en la autorización correspondiente, en cuyo caso, se impondrá las penas previstas en el párrafo anterior.
 
@@ -4566,6 +4584,12 @@ Artículo Primero.- El presente decreto entrara en vigor a partir del día sigui
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 P.O. 26 DE MAYO DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2010.
 
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
