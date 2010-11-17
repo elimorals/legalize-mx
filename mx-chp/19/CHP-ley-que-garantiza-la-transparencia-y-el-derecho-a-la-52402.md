@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-garantiza-la-transparencia-y-el-derecho-a-la-52402"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-12"
-last_updated: "2008-10-29"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACIÓN PUBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Tomo II del Periódico Oficial del Estado de Chiapas, el jueves 12 de octubre de 2006.
 
@@ -37,7 +37,7 @@ Considerando
 
 .
 
-Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido ha bien emitir la siguiente:
+Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido ha (sic) bien emitir la siguiente:
 
 Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas
 
@@ -175,9 +175,9 @@ XXVIII. Solicitud de Acceso, Rectificación y/o Protección de Datos Personales:
 
 XXIX. Servidor Público: La persona física que desempeñe algún empleo, cargo o comisión de cualquier naturaleza, en los poderes Legislativo, Ejecutivo y Judicial, en los municipios, y en los Órganos Autónomos previstos en la Constitución y leyes estatales;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-XXX. Órganos Autónomos: La Fiscalía General del Estado, la Fiscalía Electoral, la Contraloría de la Legalidad Electoral, el Instituto Estatal Electoral, la Comisión Estatal de los Derechos Humanos y demás instituciones que la ley otorgue autonomía y cualquier otro establecido en la Constitución Política del Estado de Chiapas.
+XXX. Órgano Autónomo: La Procuraduría General de Justicia del Estado, Comisión de Fiscalización Electoral, Instituto de Elecciones y Participación Ciudadana, la Comisión de los Derechos Humanos del Estado y demás instituciones que la Ley otorgue autonomía y cualquier otro establecido en la Constitución Política del Estado de Chiapas.
 
 ### Capítulo II. Principios del Acceso a la Información Pública
 
@@ -309,7 +309,7 @@ En todos los casos, se orientará al solicitante respeto del sujeto obligado a q
 
 Los encargados de proporcionar la información auxiliarán a los solicitantes en la elaboración de las peticiones de acceso a la información, en los casos en que el solicitante no sepa leer ni escribir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 17.
 
@@ -371,7 +371,7 @@ Si la solicitud de información no se hubiese satisfecho, el solicitante podrá 
 
 Los sujetos obligados, en el ámbito de sus respectivas competencias, establecerán, mediante reglamentos o acuerdos de carácter general, los órganos, criterios y procedimientos para proporcionar a los particulares el acceso a la información pública, de conformidad con las bases y principios establecidos en ésta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 24.
 
@@ -401,7 +401,7 @@ VIII. (DEROGADA, P.O. 29 DE AGOSTO DE 2007)
 
 IX. Las demás facultades y obligaciones que le otorga este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 25.
 
@@ -471,7 +471,7 @@ XV. Elaborar las resoluciones de respuesta a las solicitudes y suscribirlas.
 
 XVI. Las demás acciones necesarias para garantizar y agilizar el acceso a la información pública, que determinen los reglamentos o acuerdos generales de cada sujeto obligado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 26.
 
@@ -515,9 +515,17 @@ IX. Cuando la información pueda generar una ventaja personal indebida en perjui
 
 X. La de particulares, recibida por los sujetos obligados con el carácter de reservada;
 
-XI. La que se refiere a los datos individuales de las personas, arrestadas como presuntos responsables de la comisión de algún delito, hasta antes de que sea resuelta la sanción administrativa o la sentencia respectiva; y,
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-XII. La que se encuentra clasificada por disposición expresa de otra ley, como de acceso prohibido o restringido.
+XI. La que se refiere a los datos individuales de las personas, arrestadas como presuntos responsables de la comisión de algún delito, hasta antes de que sea resuelta la sanción administrativa o la sentencia respectiva.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XII. Las averiguaciones previas.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XIII. La que se encuentra clasificada por disposición expresa de otra ley, como de acceso prohibido o restringido.
 
 ###### Artículo 29.
 
@@ -567,7 +575,7 @@ En la información de carácter confidencial que sea parte de los procesos judic
 
 ### Capítulo I. De la Transparencia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 37.
 
@@ -641,7 +649,7 @@ XIX. La información de sus actividades que considere relevante;
 
 XX. La información completa y actualizada de los indicadores de gestión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 38.
 
@@ -695,7 +703,7 @@ II. Cuando se transmitan entre los sujetos obligados, siempre y cuando los datos
 
 III. Cuando exista una orden judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ### Capítulo III. Del Recurso de Revisión
 
@@ -721,7 +729,7 @@ IV. La omisión o el retraso en la entrega.
 
 V. La negativa a efectuar modificaciones o correcciones a los datos personales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 48.
 
@@ -749,7 +757,7 @@ VI. Adjuntar como anexo copia de la resolución o acto que se impugna y de la no
 
 VII. (DEROGADA, P.O. 29 DE AGOSTO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 49.
 
@@ -921,7 +929,7 @@ XVII. Designar a los servidores públicos necesarios para el cumplimiento de sus
 
 REFORMADA, P.O. 29 DE AGOSTO DE 2007)
 
-XVIII. Elaborar y someter a consideración del Ejecutivo del Estado, el proyecto de Reglamento lnterior del Instituto, así como sus modificaciones, para su expedición y publicación correspondientes, así como, expedir los manuales necesarios para su funcionamiento;
+XVIII. Elaborar y someter a consideración del Ejecutivo del Estado, el proyecto de Reglamento Interior del Instituto, así como sus modificaciones, para su expedición y publicación correspondientes, así como, expedir los manuales necesarios para su funcionamiento;
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2007)</small>
 
@@ -981,11 +989,11 @@ El Consejero General del Instituto, rendirá a los tres Poderes del Estado, un i
 
 El informe anual será publicado y difundido con amplitud en el portal de cada sujeto obligado, y su circulación será obligatoria para éstos.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ## Título Sexto
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ### Capítulo I. Del Procedimiento de Acceso a la Información Pública
 
@@ -1073,7 +1081,7 @@ En caso de que la Unidad de Enlace niegue la información, la entregue incomplet
 
 La Unidad de Acceso a la Información Pública deberá entregar la información al solicitante inmediatamente en la forma que éste la requirió, observando en todos los casos lo dispuesto en el Título Séptimo, Capítulo Único, de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ### Capítulo II. Del Procedimiento del Recurso de Revisión
 
@@ -1169,7 +1177,7 @@ Una vez emitida la resolución, el Instituto, deberá notificarla a la Unidad de
 
 El sujeto obligado deberá dar cumplimiento a las resoluciones del Recurso que emita el Instituto, en el entendido que de no hacerlo, éste podrá ejercer la atribución señalada en la fracción XIII del artículo 64, de la Ley.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ###### Artículo 92.
 
@@ -1179,7 +1187,7 @@ El derecho de Acceso a la Información Pública es gratuito. Cuando los solicita
 
 ## Título Séptimo
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2007)</small>
 
 ### Capítulo Único. De los Costos de Reproducción y Gastos de Envío
 
@@ -1223,7 +1231,7 @@ Artículo Cuarto.- Los municipios comenzarán a difundir el conocimiento sobre e
 
 Artículo Quinto.- Para efectos de la expedición de la normatividad a que se refiere el artículo 23, de esta Ley, el plazo será de tres meses.
 
-Artículo Sexto.- (DEROGADO POR EL ARTICULO NOVENO TRANSITORIO DEL DECRETO DE REFORMA A LA LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACION PUBLICA PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIODICO OFICIAL DE 29 DE AGOSTO DE 2007.)
+Artículo Sexto.- (DEROGADO POR EL ARTÍCULO NOVENO TRANSITORIO DEL DECRETO DE REFORMA A LA LEY QUE GARANTIZA LA TRANSPARENCIA Y EL DERECHO A LA INFORMACIÓN PUBLICA PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIÓDICO OFICIAL DE 29 DE AGOSTO DE 2007.)
 
 Artículo Séptimo.- Los sujetos obligados deberán realizar los trámites que sean necesarios para integrar su documentación e implementar su archivo.
 
@@ -1239,7 +1247,7 @@ De conformidad con la fracción I, del artículo 42, de la Constitución Políti
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Roger Grajales González, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE AGOSTO DE 2007.
 
@@ -1280,3 +1288,9 @@ P.O. 29 DE OCTUBRE DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
