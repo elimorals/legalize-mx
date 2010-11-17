@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-promocion-y-proteccion-de-los-derechos-humanos-4186
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-10"
-last_updated: "2004-11-10"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY PARA LA PROMOCION Y PROTECCION DE LOS DERECHOS HUMANOS EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL CONSEJO ESTATAL DE LOS DERECHOS HUMANOS, PUBLICADA EN EL P.O. DE 17 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 10 de noviembre de 2004.
 
@@ -700,3 +702,25 @@ Dado en el salón de sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los nueve días del mes de noviembre del año dos mil cuatro.
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+Primero.- La presente Ley entrará en vigor a partir del día uno de enero del año dos mil once, con excepción de lo dispuesto en el Artículo Séptimo Transitorio, que entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley para la Promoción y Protección de los Derechos Humanos en el Estado de Chiapas, publicada en el Periódico Oficial número 270 de fecha 10 de noviembre del año 2004 y las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+Tercero.- Los recursos humanos, materiales y financieros que formaban parte de la Comisión de los Derechos Humanos, serán transferidos al Consejo Estatal de los Derechos Humanos, que se crea mediante el presente Decreto, respetando los derechos laborales de los trabajadores en términos de las disposiciones legales aplicables, así como de la normatividad respectiva.
+
+Cuarto.- Las atribuciones y los compromisos adquiridos, así como los asuntos a cargo de la Comisión de los Derechos Humanos que a la fecha de entrada en vigor del presente Decreto se encontraban en trámite o correspondían a éste, serán asumidos y se entenderán conferidos de inmediato al Consejo Estatal de los Derechos Humanos.
+
+Quinto.- Las referencias, atribuciones o menciones que hagan otros ordenamientos legales o normativos en relación con la Comisión de los Derechos Humanos, serán transferidas y se entenderán conferidos al Consejo Estatal de los Derechos Humanos.
+
+Sexto.- El Presidente del Consejo deberá someter a consideración de los Consejeros, en un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigencia de la presente Ley, el Reglamento de la misma, para su aprobación. Hecho lo anterior, el Reglamento deberá ser enviado al Titular del Ejecutivo del Estado para los efectos de su expedición y publicación correspondiente.
+
+Séptimo.- Para los efectos de la designación de los Consejeros del Consejo Estatal de los Derechos Humanos, se formularán las convocatorias respectivas, observando los requisitos señalados en los artículos 25 y 26 de esta Ley, sin que en ningún caso la designación respectiva exceda del día quince de diciembre de dos mil diez.
+
+La Secretaría de Hacienda dispondrá de los recursos necesarios para que el Instituto de Elecciones y Participación Ciudadana realice los procesos de elección de los Consejeros del Consejo Estatal de los Derechos Humanos señalados en los incisos b) y e), del artículo 27 de esta Ley.
+
+Octavo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
