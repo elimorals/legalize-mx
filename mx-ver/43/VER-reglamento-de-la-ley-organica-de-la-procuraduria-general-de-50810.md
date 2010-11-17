@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-508
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2007-08-15"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA, PUBLICADO EN LA G.O. DE 17 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -4496,3 +4498,19 @@ Tercero. Comuníquese la presente resolución al H. Ayuntamiento de Temapache, V
 Cuarto. Notifíquese al Instituto Nacional de Estadística Geografía e Informática, así como a los Poderes Ejecutivo y Judicial del estado para los efectos legales procedentes.
 
 Quinto. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 17 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado, salvo lo previsto en el artículo Transitorio siguiente.
+
+Segundo. Para todos los efectos legales procedentes. cualquier mención a los Agentes del Ministerio Público Conciliadores e Investigadores que se haga en la normatividad vigente en el Estado. se entenderá que se refiere a los Agentes del Ministerio Público Especializados en Responsabilidad Juvenil y de Conciliación.
+
+Todos los Agentes del Ministerio Público Especializados en Responsabilidad Juvenil y de Conciliación, dentro del lapso de noventa días siguientes a la publicación del presente Reglamento, deberán recibir capacitación que los especialicen en la materia de responsabilidad juvenil; mientras tanto, independientemente del lugar de su adscripción, seguirán desempeñando sus funciones conforme a la normatividad anterior.
+
+Tercero. La agencia del Ministerio Público Especializada en Robo a Comercio cambia de denominación a Agencia del Ministerio Público Especializada en Delitos Patrimoniales contra el Comercio, con las atribuciones que se señalan en el presente Reglamento.
+
+Cuarto. En tanto se actualizan los Manuales de Organización y de Procedimientos, el Procurador estará facultado para resolver las cuestiones que dichos Manuales deban regular.
+
+Quinto. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Veracruz de Ignacio de la Llave. publicado en la Gaceta Oficial de fecha 24 de mayo de 2006.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente Reglamento.
