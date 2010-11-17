@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-68126"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-18"
-last_updated: "2010-05-26"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE ORGANIZACION DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -175,6 +175,8 @@ Para el caso de conclusión del encargo por las razones de edad, los citados en 
 
 ### Capítulo II (sic). De la Conclusión del Cargo de Magistrado
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
 El Tribunal Superior de Justicia del Estado, se integra con un Tribunal Constitucional, Salas Regionales Colegiadas, Juzgados de Primera Instancia, Juzgados Especializados en Justicia para Adolescentes, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, Juzgados Municipales, un Centro de Justicia Alternativa y un Instituto de Defensoría Social. El número de Salas Regionales Colegiadas, su especialización, jurisdicción, integración y competencia, así como la adscripción y/o readscripción de los Magistrados que las integran, se decidirá por acuerdo del Pleno del Consejo de la Judicatura, en términos de este Código.
@@ -219,7 +221,7 @@ VIII. Acreditar conocimientos especializados en materia constitucional para el c
 
 ###### Artículo 21.
 
-Los Magistrados del Tribunal Constitucional durarán en su encargo nueve años y no podrán ser designados para un siguiente periodo. La renovación de los integrantes de este alto Tribunal, se hará siempre de manera escalonada.
+Los Magistrados del Tribunal Constitucional durarán en su encargo nueve años y podrán ser reelectos para ejercer un siguiente periodo consecutivo. La renovación de los integrantes de este alto Tribunal, se hará siempre de manera escalonada.
 
 ###### Artículo 22.
 
@@ -383,7 +385,9 @@ XV. Ordenar la compilación y sistematización de doctrina, leyes, precedentes, 
 
 XVI. Dictar su propio Reglamento Interior;
 
-XVII. Tomar los acuerdos necesarios para la elaboración y ejercicio del presupuesto del Tribunal Constitucional;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XVII. Tomar los acuerdos necesarios para la elaboración y ejercicio del presupuesto de egresos del Tribunal Superior de Justicia del Estado, a través del Tribunal Constitucional.
 
 XVIII. Conocer de los asuntos cuya resolución no esté expresamente atribuida a otro órgano judicial; y
 
@@ -1191,7 +1195,7 @@ Los Jueces de Paz y Conciliación y de Paz y Conciliación Indígena y sus suple
 
 ###### Artículo 92.
 
-Los Jueces de Paz y Conciliación y de Paz y Conciliación lndígena, conocerán:
+Los Jueces de Paz y Conciliación y de Paz y Conciliación Indígena, conocerán:
 
 a) En materia civil:
 
@@ -1225,7 +1229,7 @@ Los Jueces de Paz y Conciliación y de Paz y Conciliación Indígena, sustanciar
 
 ###### Artículo 93.
 
-La coordinación, asesoría y capacitación de los Juzgados de Paz y Conciliación y de Paz y Conciliación lndígena, estarán a cargo de personal especializado adscrito a una Coordinación, la cual estará integrada, cuando menos, por:
+La coordinación, asesoría y capacitación de los Juzgados de Paz y Conciliación y de Paz y Conciliación Indígena, estarán a cargo de personal especializado adscrito a una Coordinación, la cual estará integrada, cuando menos, por:
 
 I. Un Coordinador,
 
@@ -1937,7 +1941,9 @@ VI. Asignar a sus comisiones la atención de los asuntos de su competencia;
 
 VII. Recibir de las comisiones de administración de los Tribunales de Justicia Electoral y Administrativa y del Trabajo Burocrático, su anteproyecto de presupuesto de egresos y sancionarlo a efecto de incluirlo en el Presupuesto de Egresos del Poder Judicial del Estado;
 
-VIII. Elaborar el proyecto de presupuesto de egresos del Poder Judicial del Estado, con excepción de los Tribunales Constitucional, de Justicia Electoral y Administrativa y del Trabajo Burocrático; proyecto que se remitirá al Presidente del Tribunal Constitucional para que, junto con los elaborados por el Consejo de la Judicatura y comisiones correspondientes, se envíen al Titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Elaborar su proyecto de presupuesto de egresos e integrar el proyecto de presupuesto de egresos del Poder Judicial del Estado, mismo que se remitirá para análisis y en su caso, aprobación del Congreso del Estado;
 
 IX. Erigir, de conformidad con su Reglamento Interior y el presupuesto, el número de Juzgados en las materias que se requieran, determinando la cabecera del distrito judicial o ciudad donde deban residir, y adscribir a los jueces que deben integrar cada uno de ellos;
 
@@ -1975,7 +1981,7 @@ XXIII. Conceder licencias a los Magistrados de las Salas Regionales Colegiadas, 
 
 XXIV. Fijar las bases para cubrir las plazas vacantes de sus miembros, de acuerdo con lo establecido en este Código y determinar las previsiones para su sustitución, en casos de ausencia temporal o absoluta;
 
-XXV. Elaborar el Proyecto de Presupuesto de Egresos del Poder Judicial del Estado, con excepción del Tribunal Constitucional, el cual se remitirá al Presidente del citado Tribunal parta (sic) que junto con los elaborados por el Consejo de la Judicatura y comisiones correspondientes se envíen al Titular del Poder Ejecutivo;
+XXV. (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2010)
 
 XXVI. Participar en la designación de Magistrados, en los términos del artículo 52, párrafo segundo, de la Constitución Política del Estado de Chiapas;
 
@@ -2627,9 +2633,11 @@ La Visitaduría es un órgano judicial del Consejo de la Judicatura, que se enca
 
 Las atribuciones que este Código confiere a la Visitaduría, serán realizadas por los Magistrados Visitadores.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 214.
 
-La Visitaduría estará integrada por cinco Magistrados Visitadores, nombrados a propuesta del Titular del Poder Ejecutivo y ratificada por el Congreso del Estado o por la Comisión Permanente, en su caso, en los términos del párrafo cuarto, del artículo 54, de la Constitución Política del Estado de Chiapas. El titular de la Visitaduría, será designado de entre sus miembros, a propuesta del Presidente del Tribunal Constitucional, por el Consejo de la Judicatura, quién durará en el encargo dos años, con posibilidad de reelección por otro tanto igual.
+La Visitaduría estará integrada por cinco Magistrados Visitadores, nombrados a propuesta del Titular del Poder Ejecutivo y ratificada por el Congreso del Estado o por la Comisión Permanente, en su caso, en los términos del párrafo cuarto, del artículo 54, de la Constitución Política del Estado de Chiapas. Durarán en el encargo seis años, contados a partir de su nombramiento, con posibilidad de reelección por otro periodo igual. El titular de la Visitaduría será designado de entre sus miembros, a propuesta del Presidente del Tribunal Constitucional, por el Consejo de la Judicatura, quién durará en el encargo dos años, con posibilidad de reelección por otro tanto igual.
 
 ###### Artículo 215.
 
@@ -3818,3 +3826,17 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- El Poder Judicial, a través de los órganos que correspondan deberá ajustar las disposiciones que del Código de Organización emanen, así como demás normatividad que resulte aplicable, en términos de lo dispuesto en el presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Articulo Segundo.- Las disposiciones contenidas en el artículo 21, del presente Decreto, será aplicable para los Magistrados que se encuentran actualmente en función.
+
+Artículo Tercero.- En observancia a lo dispuesto en el Artículo Noveno Transitorio, del Decreto 382, de fecha 27 de octubre de 2010, por el que se reforman y adicionan diversas disposiciones de la Constitución Local, el incremento al presupuesto de egresos que se asigne al Poder Judicial a partir del ejercicio 2011, se distribuirá de manera proporcional a los órganos que lo integran, tomando como referencia el presupuesto otorgado a cada uno de ellos en el Ejercicio Fiscal 2010.
+
+Asimismo, siendo que el presupuesto del Tribunal de Justicia Electoral y Administrativa se adecúa con relación a los años en que existen elecciones, deberán promediarse los presupuestos autorizados para éste de los años 2008, 2009 y 2010, a efecto de determinar la cantidad que servirá de referencia para aumentar el uno por ciento del presupuesto a asignársele en el año 2011. La misma cantidad promediada, será considerada para determinar la asignación del presupuesto a asignársele en el año 2012, con relación al dos por ciento de incremento.
+
+Artículo Cuarto.- Cuando por cualquier incremento salarial de los trabajadores negociado con el Ejecutivo del Estado, y que repercuta en aumento a los trabajadores del Poder Judicial, el presupuesto de este último se incrementará de manera independiente y de forma proporcional con el presupuesto otorgado en el año previo.
+
+Artículo Quinto.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en este Decreto.
