@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-del-registro-publico-de-la-propiedad-4634"
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-09-19"
-last_updated: "2006-06-21"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 435 POR EL QUE ABROGA EL DECRETO NUMERO 97 RELATIVO AL REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD, PUBLICADO EN EL P.O. DE 17 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Chiapas, el miércoles 19 de septiembre de 1973.
 
@@ -1098,3 +1100,7 @@ P.O. 21 DE JUNIO DE 2006.
 Artículo Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- El Ejecutivo dispondrá que se publique, circule y se le dé debido cumplimiento.
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
