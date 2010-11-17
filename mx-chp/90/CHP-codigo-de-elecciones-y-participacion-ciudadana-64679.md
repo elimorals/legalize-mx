@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-elecciones-y-participacion-ciudadana-64679"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-27"
-last_updated: "2009-11-27"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de agosto de 2008.
 
@@ -291,11 +291,19 @@ Los partidos políticos o coaliciones, en un mismo proceso electoral, no podrán
 
 ### Capítulo I. De los sistemas electorales
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 24.
 
-El ejercicio del Poder Legislativo se deposita en una asamblea de representantes del pueblo que se denomina Congreso del Estado, que se instalará conforme a lo dispuesto en la Constitución Particular. Se integra con veinticuatro Diputados electos en igual número de distritos electorales según el principio de mayoritaria (sic) relativa y dieciséis electos según el principio de representación proporcional, por el sistema de lista estatal integrada por hasta dieciséis candidatos propietarios y sus respectivos suplentes por partido político o coalición. Por cada Diputado propietario se elegirá un suplente conforme a lo dispuesto por el artículo 234 de este Código.
+El ejercicio del Poder Legislativo se deposita en una asamblea de representantes del pueblo que se denomina Congreso del Estado, que se instalará conforme a lo dispuesto en la Constitución Particular. Se integrará de la siguiente manera:
+
+l. Veinticuatro Diputados, electos en igual número de distritos electorales según el principio de mayoritaria relativa.
+
+II. Dieciséis Diputados, electos según el principio de representación proporcional, por el sistema de listas plurinominales integradas por hasta Cuatro candidatos propietarios y sus respectivos suplentes por partido político o coalición. En cada circunscripción plurinominal a que se refiere este Código, las listas de candidatos a Diputados por este principio, deberán encabezarse invariablemente por una persona del género femenino.
+
+Por cada Diputado propietario se elegirá un suplente conforme a lo dispuesto por el artículo 234 de éste Código.
+
+Los Diputados electos en elecciones extraordinarias concluirán el período de la Legislatura respectiva.
 
 ###### Artículo 25.
 
@@ -359,107 +367,257 @@ Vigésimo Tercer Distrito: Villaflores (cabecera), que comprende los municipios 
 
 Vigésimo Cuarto Distrito: Cacahoatán (cabecera), que comprende los municipios de Tuxtla Chico, Unión Juárez, Metapa, Frontera Hidalgo y Suchiate.
 
-Para efectos de la elección de Diputados por el principio de representación proporcional, se constituirá una circunscripción plurinominal que comprenderá los veinticuatro distritos de mayoría relativa en que se divide el territorio del Estado.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Para efectos de la elección de Diputados por el principio de representación proporcional, se constituirán cuatro circunscripciones plurinominales que comprenderán los veinticuatro distritos de mayoría relativa en que se divide el territorio del Estado. Las cuatro circunscripciones plurinominales no tendrán residencia específica, con independencia de los distritos que las integren, y estarán conformadas, de la siguiente forma:
+
+Circunscripción Distritos que la Integran Municipios que la Integran
+
+Uno I Tuxtla Oriente Tuxtla Gutiérrez, Chiapa de
+
+II Tuxtla Poniente Corzo, Acala, Ixtapa,
+
+III Chiapa de Corzo Suchiapa, Soyaló, Venustiano
+
+IV Venustiano Carranza Carranza, Nicolás Ruiz,
+
+V San Cristóbal de Las Totolapa, San Lucas,
+
+Casas Chiapilla, Amatenango del
+
+Valle, Socoltenango, San
+
+Cristóbal de Las Casas,
+
+Teopisca,
+
+Dos XIV Cintalapa Cintalapa, Jiquipilas,
+
+XV Tonalá Ocozocoautla, Berriozábal,
+
+XVI Huixtla Tonalá, Pijijiapan, Arriaga,
+
+XVII Motozintla Mapastepec, Huixtla,
+
+XVIII Tapachula Norte Mazatán, Huehuetán,
+
+XIX Tapachula Sur Tuzantán, Villa Comaltitlán,
+
+XXIII Villa Flores Escuintla, Acapetahua,
+
+XXIV Cacahoatán Acacoyagua, Motozintla, El
+
+Porvenir, La Grandeza,
+
+Siltepec, Mazapa de Madero,
+
+Bejucal de Ocampo,
+
+Amatenango de la Frontera,
+
+Bella Vista, Chicomuselo,
+
+Frontera Comalapa,
+
+Tapachula, Villa Flores, Villa
+
+Corzo, Ángel Albino Corzo,
+
+La Concordia, Montecristo de
+
+Guerrero, Cacahoatán, Tuxtla
+
+Chico, Unión Juárez, Metapa,
+
+Frontera Hidalgo y Suchiate.
+
+Tres VII Ocosingo Ocosingo, Altamirano, Sitalá,
+
+VIII Yajalón Chilón, Benemérito de las
+
+IX Palenque Américas, Marqués de
+
+X Bochil Comillas, Yajalón, Sabanilla,
+
+XI Pueblo Nuevo Tila, Tumbalá, Palenque, La
+
+Solistahuacán Libertad, Catazajá, Salto de
+
+XII Pichucalco Agua, Bochil, Simojovel, El
+
+VI Comitán Bosque, Huitiupán, San
+
+XIII Copainala Andrés Duraznal, Pueblo
+
+Nuevo Solistahuacán,
+
+Tapilula, Jitotol, Pantepec,
+
+Rayón, Tapalapa, Pichucalco,
+
+Reforma, Juárez,
+
+Solosuchiapa, Ixtacomitán,
+
+Sunuapa, Ixtapangajoya,
+
+Ostuacán, Ixhuatán,
+
+Chapultenango, Amatán,
+
+Comitán de Domínguez, La
+
+Trinitaria, Tzimol, Las Rosas,
+
+Copainalá, Coapilla,
+
+Tecpatán, Chicoasén,
+
+Osumacinta, Ocotepec,
+
+Francisco León y San
+
+Fernando
+
+Cuatro XX Las Margaritas Las Margaritas, La
+
+XXI Tenejapa Independencia, Maravilla
+
+XXII Chamula Tenejapa, Tenejapa, San
+
+Juan Cancuc, Chanal,
+
+Huixtán, Oxchuc, Chamula,
+
+Chalchihuitán, Chenalhó,
+
+Larrainzar, Mitontic, Pantelhó,
+
+Zinacantan, Aldama y
+
+Santiago el Pinar.
 
 Las elecciones de los integrantes de los Ayuntamientos, se sujetarán a la división política establecida en la Constitución Particular y en la Ley Orgánica Municipal.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 28.
 
-Las diputaciones y regidurías de representación proporcional tienen por objeto asegurar la pluralidad proporcional de los partidos en el seno del Congreso del Estado y Ayuntamientos; proporcionalidad que invariablemente deberá mantenerse entre el porcentaje de la votación válida efectiva obtenida por el partido político y el número de representantes que le corresponden en el órgano de representación popular.
+Las diputaciones y regidurías de representación proporcional tienen por objeto asegurar la pluralidad proporcional de los partidos en el seno del Congreso del Estado y Ayuntamientos; proporcionalidad que invariablemente deberá mantenerse entre el porcentaje de la votación válida emitida que obtenga el partido político y el número de representantes que le corresponden en el órgano de representación popular.
 
 ###### Artículo 29.
 
 Para los efectos de los cómputos de cualesquiera elección y para la asignación de Diputados y regidores por el principio de representación proporcional, se entenderá por:
 
-I. Votación total emitida: los votos totales depositados en las urnas;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-II. Votación valida emitida: la que resulte de restar a la votación total emitida los votos nulos;
+l. Votación total emitida. Los votos totales depositados en las urnas en cada circunscripción electoral, o elección de Ayuntamiento.
 
-III. Votación válida efectiva: la que resulte de restar a la votación válida emitida, los votos de los partidos que no reúnan el porcentaje mínimo de votos establecido por este Código para tener derecho a participar en la asignación de Diputados o regidores de representación proporcional y los votos de los candidatos no registrados; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-IV. Votación válida ajustada: aquella que resulta de restar de la votación válida efectiva, la votación del partido o coalición total a la que se le aplica el límite máximo de Diputados por ambos principios que pueden tener en el Congreso del Estado.
+II. Votación válida emitida: Es el resultado de restar a la votación total emitida en la elección de Diputados o la de miembros de Ayuntamientos, los votos nulos, los votos a candidatos no registrados, menos la votación obtenida por los partidos que no alcanzaron el porcentaje para tener derecho a participar en la asignación de Diputados o regidores de representación proporcional, en cada circunscripción electoral o municipio.
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+III. Votación estatal emitida: Los votos totales depositados en las urnas en el Estado.
+
+IV. (DEROGADA, P.O. 17 DE NOVIEMBRE DE 2010)
 
 ### Capítulo II. De la representación proporcional para la integración del Congreso del Estado
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 30.
 
 Para tener derecho a participar en la asignación de Diputados de representación proporcional, el partido político de que se trate deberá:
 
-I. Acreditar, bajo cualquier modalidad, la postulación de candidatos de mayoría relativa, en por lo menos, la mitad de los distritos electorales; y
+I. Acreditar, bajo cualquier modalidad, la postulación de candidatos de mayoría relativa, en por lo menos, la mitad de los distritos electorales.
 
-II. Haber obtenido, al menos, el 2% de la votación válida emitida en el Estado.
+II. Haber obtenido, al menos, el 2% de la votación valida emitida en el Estado.
 
-Cuando exista una coalición total en la elección de Diputados, o en aquellas que tengan lugar en el año de elección de Gobernador y Diputados, la coalición deberá registrar una sola lista de dieciséis fórmulas de candidatos, propietarios y suplentes.
+Cada partido político deberá registrar una lista de cuatro fórmulas de candidatos propietarios y suplentes por cada circunscripción plurinominal.
 
-Las coaliciones totales, para los efectos de la asignación de Diputados de representación proporcional, se considerarán como un solo partido, hasta que se determine el número de escaños que le corresponden, los cuales se distribuirán entre los coaligados en términos del respectivo convenio y las reglas establecidas en este Capítulo.
+No tendrán derecho a la asignación de Diputados de representación proporcional, los partidos políticos o coaliciones totales que se encuentren en cualquiera de los siguientes supuestos.
 
-La asignación de Diputados según el principio de representación proporcional, se realizará por el Consejo General siguiendo el procedimiento establecido en este Código.
+l. Haber obtenido el triunfo en la elección de Diputados de mayoría relativa en la totalidad de los distritos electorales.
+
+II. No reunir los requisitos establecidos en las fracciones I y II, del párrafo primero de este artículo.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 31.
 
-No tendrán derecho a la asignación de Diputados de representación proporcional, los partidos políticos o coaliciones totales que se encuentren en cualquiera de los siguientes supuestos:
+Al partido político que cumpla con lo establecido en las fracciones I y II del párrafo primero del artículo 30, independiente y adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, le serán atribuidos por el principio de representación proporcional, de acuerdo con su votación total emitida, el número de Diputados por el principio de representación proporcional que le corresponda por cada circunscripción. Para la asignación de Diputados, se guardará el orden que tuvieren los candidatos en las listas por circunscripción registradas por cada partido político.
 
-I. Haber obtenido el triunfo en la elección de Diputados de mayoría relativa en la totalidad de los distritos electorales;
+Ningún partido político tendrá derecho a que le sean reconocidos más de veinticuatro Diputados por ambos principios, aun cuando hubiera obtenido un porcentaje de votos superior.
 
-II. No reunir los requisitos establecidos en el artículo anterior.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 32.
 
-Serán asignados a cada partido político, los Diputados de representación proporcional que sean necesarios para que su porcentaje en el Congreso del Estado por ambos principios, sea igual al porcentaje que les corresponda en la votación válida efectiva, para lo cual, el Consejo General deberá efectuar el siguiente procedimiento:
+Para la asignación de Diputados de representación proporcional, se procederá a la aplicación de una fórmula de proporcionalidad pura, integrada de los siguientes elementos:
 
-I. Determinar la votación válida efectiva de la elección;
+a) Cociente natural; y,
 
-II. Establecer el porcentaje de la votación válida efectiva que le corresponda a cada partido político, independientemente de haber integrado alguna coalición parcial, así como a cada coalición total, de acuerdo al número total de votos que hayan obtenido.
+b) Resto mayor.
 
-Para el caso de los partidos políticos que hayan integrado coaliciones parciales, se considerará como votación válida efectiva, la suma de votos obtenidos en los distritos en que haya participado como partido político en lo individual, más los votos obtenidos en los distritos en que se hubiera participado como partido coaligado, atendiendo a los porcentajes que establezcan los convenios de coalición;
+Cociente natural: es el resultado de dividir la votación válida emitida de la elección de Diputados de representación proporcional, en cada circunscripción entre cuatro diputaciones por asignar.
 
-III. Precisar el número de Diputados que debe tener cada partido o coalición total, para que su porcentaje de representatividad en el Congreso del Estado, sea lo más cercano a su porcentaje de la votación válida efectiva, para lo cual se divide el total de escaños por ambos principios que lo integran entre el porcentaje de votación válida efectiva de cada partido político o coalición total;
+Resto mayor de votos: es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la distribución de diputaciones mediante el cociente natural. El resto mayor se utilizará cuando aun hubiesen diputaciones por distribuir.
 
-IV. Restar al resultado de la fracción anterior, el número de Diputados obtenidos por cada partido político o coalición total según el principio de mayoría relativa;
+Una vez desarrollada la fórmula prevista, se observará el procedimiento siguiente:
 
-V. Asignar a cada partido político y coalición total los Diputados de representación proporcional, conforme al número por unidad entera que haya resultado en la fracción anterior; y
+a) Se asignarán a cada partido político, tantos Diputados de representación proporcional, como número de veces contenga su votación el cociente natural.
 
-VI. En el caso de quedar Diputados por asignar, se distribuirán entre los partidos políticos o coaliciones totales que tuviesen la fracción restante mayor, siguiendo el orden decreciente.
+b) Si después de aplicar el cociente natural, quedaren diputaciones por repartir, se asignaran siguiendo el orden decreciente de los votos no utilizados como resto mayor para cada uno de los partidos políticos en la asignación de diputaciones.
 
-Se entenderá por fracción restante mayor, el remanente más alto entre los restos de las votaciones de cada partido político.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 33.
 
-Si durante el desarrollo del procedimiento de asignación, se determina que es el caso de aplicar a algún partido político o coalición total el límite establecido en la Constitución Particular, al partido político o coalición total cuyo número de Diputados por ambos principios exceda de veinticuatro, se le asignarán únicamente los escaños necesarios para ajustarlo al límite establecido.
+Determinada la asignación de diputados por partido político a que se refieren los incisos a) y b) del párrafo 4 del artículo 32 de este Código y para el caso de que ningún partido político se ubicara en los supuestos previstos en el último párrafo del artículo 16 de la Constitución Política del Estado, se procederá como sigue:
 
-Las diputaciones restantes se asignarán a los demás partidos políticos y coaliciones totales que no se ubiquen en este supuesto, conforme el siguiente procedimiento:
+I. Se dividirá la votación total de cada circunscripción, entre cuatro, para obtener el cociente de distribución.
 
-I. Se obtendrá la votación válida ajustada;
+II. La votación obtenida por partido político en cada una de las circunscripciones plurinominales se dividirá entre el cociente de distribución, el resultado en números enteros será el total de diputados que en cada circunscripción plurinominal se le asignarán.
 
-II. Se establecerá el porcentaje de la votación válida ajustada que le corresponda a cada partido político, y coalición total;
+III. Si después de aplicarse el cociente de distribución quedaren diputados por distribuir a los partidos políticos, se utilizará el resto mayor de votos que cada partido político tuviere, hasta agotar los que le correspondan, en orden decreciente, a fin de que cada circunscripción plurinominal cuente con cuatro diputaciones.
 
-III. Se precisará el número de Diputados que debe tener cada partido o coalición total, para que su nuevo porcentaje de representatividad en el Congreso del Estado, sea lo más cercano a su porcentaje de la votación válida ajustada. En este caso, para determinar el nuevo porcentaje de representatividad no se tomarán en cuenta las diputaciones que ya fueron asignadas al partido o coalición al cual se le aplicó el límite previsto en la Constitución Particular, por lo que las mismas se restarán del total de escaños que integran al Congreso del Estado;
-
-IV. Se restará al resultado de la fracción anterior, el número de Diputados obtenidos por cada partido político o coalición total según el principio de mayoría relativa;
-
-V. Se asignará a cada partido político los Diputados de representación proporcional, conforme al número por unidad entera que haya resultado en la fracción anterior; y
-
-VI. En el caso de quedar Diputados por asignar, se distribuirán entre los partidos políticos o coaliciones totales que tuviesen la fracción restante mayor, siguiendo el orden decreciente.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 34.
 
-Determinado el número de diputaciones de representación proporcional que le corresponde a una coalición total, se procederá a distribuir las mismas entre los coaligados, para lo cual:
+Cuando por razones de su votación, algún partido político estuviere en la hipótesis matemática de rebasar el total de diputados que como máximo le pueden ser reconocidos en los términos del ultimo párrafo del artículo 16 (sic) la Constitución Política del Estado, le será deducido el número de diputaciones de representación proporcional necesario, hasta ajustarse al límite establecido conforme al procedimiento siguiente:
 
-I. Con base en el convenio de coalición, se determinará la votación válida efectiva, así como el total de diputaciones por el principio de mayoría relativa que les corresponden a cada coaligado;
+I. Se obtendrá el cociente de distribución, el cual resulta de dividir el total de votos obtenidos en el estado por el partido político que se halle en este supuesto, entre las diputaciones a asignarse al propio partido para completar el limite de 24 establecido por la Constitución Política del Estado.
 
-II. Con los datos obtenidos, se determina el porcentaje de representatividad de cada partido coaligado, para lo cual se divide el total de Diputados por ambos principios que le corresponden a la coalición total entre el porcentaje de votación válida efectiva de cada coaligado;
+II. Los votos obtenidos por el partido político en cada una de las circunscripciones se dividirán entre el cociente de distribución, asignando conforme a números enteros las diputaciones para cada una de ellas.
 
-III. Posteriormente, se resta al resultado de la fracción anterior, el número de Diputados de mayoría relativa que corresponden a cada partido coaligado en términos del respectivo convenio de coalición;
+III. Si aún quedaren diputados por asignar se utilizará el método del resto mayor previsto en el artículo anterior.
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2009)</small>
-
-IV. Se asignarán a cada partido político, los Diputados de representación proporcional, conforme al número por unidad entera que haya resultado en la fracción anterior; y
-
-V. En el caso de quedar Diputados por asignar, se distribuirán entre los partidos coaligados que tuviesen la fracción restante mayor, siguiendo el orden decreciente.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 35.
 
-La asignación de Diputados de representación proporcional, que corresponda a cada partido político conforme con los artículos precedentes, se hará en el orden de los candidatos que aparezcan en la lista presentada y registrada.
+A. La asignación de las diputaciones excedentes a los partidos que no se encuentren en los supuestos señalados en el primer párrafo primero (sic) del apartado A. de este artículo se distribuirán conforme al siguiente procedimiento:
+
+I. Se obtendrá la votación estatal efectiva. Para ello se deducirán de la votación estatal emitida los votos del partido político a los que se les hubiese aplicado el límite establecido en el último párrafo del artículo 16 de la Constitución Política del Estado de Chiapas.
+
+II. La votación estatal efectiva se dividirá entre el número de diputados por asignar, a fin de obtener un nuevo cociente natural.
+
+III. La votación estatal efectiva obtenida por cada partido se dividirá entre el nuevo cociente natural. El resultado en números enteros será el total de diputados que asignar a cada partido.
+
+IV. Si aún quedaren curules por distribuir se asignarán de conformidad con los restos mayores de los partidos.
+
+B. Para asignar los diputados que le correspondan a cada partido político, por circunscripción plurinominal, se procederá como sigue:
+
+I. Se obtendrá la votación efectiva por circunscripción, que será la que resulte de deducir la votación del o los partidos políticos que se ubiquen en el supuesto previsto en el último párrafo del artículo 16 de la Constitución Política del Estado, en cada una de las circunscripciones.
+
+II. La votación efectiva por circunscripción se dividirá entre el número de diputaciones pendientes de asignar en cada circunscripción plurinominal, para obtener el cociente de distribución en cada una de ellas.
+
+III. La votación efectiva de cada partido político en cada una de las circunscripciones plurinominales se dividirá entre el cociente de distribución siendo el resultado en números enteros el total de diputados por asignar en cada circunscripción plurinominal.
+
+IV. Si después de aplicarse el cociente de distribución quedaren diputados por distribuir a los partidos políticos, se utilizará el resto mayor de votos que cada partido político tuviere en las circunscripciones, hasta agotar las que le correspondan, en orden decreciente, a fin de que cada circunscripción plurinominal cuente con cuatro diputaciones.
 
 ### Capítulo III. De la representación proporcional para integrar los Ayuntamientos
 
@@ -723,9 +881,11 @@ III. Comités Municipales constituidos por lo menos en un tercio de los municipi
 
 IV. Un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos ordinarios, de precampaña y campaña a que se refiere este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 62.
 
-Al partido político que no obtenga por lo menos el 2% de la votación válida efectiva en alguna de las elecciones ordinarias de Gobernador o Diputados locales en que participe, le será cancelado su registro o acreditación ante el Instituto y perderá todos los derechos y prerrogativas que establece este Código.
+Al partido político que no obtenga por lo menos el 2% de la votación válida emitida en alguna de las elecciones ordinarias de Gobernador o Diputados locales en que participe, le será cancelado su registro o acreditación ante el Instituto y perderá todos los derechos y prerrogativas que establece este Código.
 
 La pérdida de registro o acreditación a que se refiere el párrafo anterior, no tendrá efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones estatales, distritales o municipales.
 
@@ -1089,7 +1249,9 @@ El financiamiento público anual que resulte de la aplicación de la fórmula pr
 
 I. El treinta por ciento de la cantidad total que resulte se entregará en forma igualitaria a los partidos políticos con representación en el Congreso del Estado.
 
-II. El setenta por ciento restante, se distribuirá según el porcentaje de la votación válida efectiva que hubiese obtenido cada partido político con representación en el Congreso, en la elección de Diputados por mayoría relativa inmediata anterior.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+II. El setenta por ciento restante, se distribuirá según el porcentaje de la votación válida emitida que hubiese obtenido cada partido político con representación en el Congreso, en la elección de Diputados por mayoría relativa inmediata anterior.
 
 Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
 
@@ -1185,7 +1347,9 @@ El régimen fiscal previsto en este Código no exenta a los partidos políticos 
 
 Los partidos políticos deberán retener y enterar a las autoridades fiscales, conforme a las leyes aplicables, el impuesto sobre la renta que corresponda por los sueldos, salarios, honorarios y cualquier otra retribución equivalente que realicen a sus dirigentes, empleados, trabajadores o profesionistas independientes que les presten servicios. La Comisión dará aviso a las autoridades fiscales competentes de la omisión en el pago de impuestos y otras contribuciones en que incurran los partidos políticos.
 
-### Capítulo I. De los frentes
+### Capítulo I. De los Frentes y Candidaturas comunes
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 104.
 
@@ -1231,7 +1395,15 @@ V. La franquicia telegráfica no surtirá efecto para fines de propaganda, asunt
 
 El Instituto dispondrá lo necesario en su presupuesto anual a fin de cubrir al organismo público competente el costo en que éste incurra por la atención de las presentes disposiciones.
 
-## Título Cuarto. De los frentes, coaliciones y fusiones
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+## Título Cuarto. De los Frentes, Candidaturas comunes, Coaliciones y Fusiones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ### Capítulo II. De las coaliciones
 
@@ -1239,21 +1411,45 @@ El Instituto dispondrá lo necesario en su presupuesto anual a fin de cubrir al 
 
 Los partidos políticos tanto estatales como nacionales, conservando su registro o acreditación y personalidad jurídica, podrán constituir frentes, con efectos exclusivamente en el territorio del Estado, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes.
 
-###### Artículo 108.
-
 Para constituir un frente, los partidos políticos interesados deberán celebrar un convenio en el que se hará constar:
 
-I. Su duración;
+I. Su duración.
 
-II. Las causas que lo motiven;
+II. Las causas que lo motiven.
 
-III. Los propósitos que se persiguen;
+III. Los propósitos que se persiguen.
 
-IV. Que la constitución del frente fue aprobada por sus órganos directivos, de conformidad con su normatividad interna; y
+IV. Que la constitución del frente fue aprobada por sus órganos directivos, de conformidad con su normatividad interna.
 
 V. La designación de la persona o personas que los representen legalmente.
 
 El convenio respectivo deberá presentarse ante el Instituto, el cual, en un término máximo de diez días hábiles siguientes a su recepción, resolverá si cumple los requisitos legales y, en su caso, dispondrá su publicación en el Periódico Oficial del Estado para que surta sus efectos.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 108.
+
+Por candidatura común se entiende la postulación de un mismo candidato, una misma planilla o fórmula de candidatos, en una demarcación electoral, por dos o más partidos políticos, designados previo acuerdo estatutario que emitan los partidos políticos respectivos. En ningún caso, podrán los partidos registrar bajo esta modalidad candidatos postulados por una coalición.
+
+La candidatura común deberá sujetarse a las siguientes reglas:
+
+I. La solicitud de registro de la candidatura común deberá presentarse ante el Consejo General a más tardar tres días antes de la fecha en la que dicho órgano sesione con el objeto de resolver sobre el registro de candidatos de la elección de que se trate;
+
+II. Deberá existir consentimiento escrito por parte de los ciudadanos postulados. En su caso, la postulación de candidatos a diputados o miembros de los ayuntamientos que se promuevan bajo esta modalidad, deberán incluir fórmulas o planillas idénticas y completas;
+
+III. Los partidos políticos que postulen candidaturas comunes, conservarán cada uno de sus derechos, obligaciones y prerrogativas que les otorga este Código;
+
+IV. El total de gastos de las campañas de candidatos postulados en candidatura común, no podrá rebasar el tope de gastos de campaña que fije el Consejo General del Instituto de Elecciones y Participación Ciudadana;
+
+V. El cómputo de la votación obtenida por el candidato, planilla o fórmula común, se sujetará al siguiente procedimiento:
+
+a) Si la boleta apareciera marcada en más de uno de sus respectivos emblemas, se asignará el voto al candidato, fórmula o planilla común, en el apartado correspondiente del acta de escrutinio y cómputo, pero no se computará a favor de partido alguno;
+
+b) Los demás votos se computarán a favor de cada uno de los partidos políticos y se sumarán a favor del candidato, fórmula o planilla común; y,
+
+c) Los votos obtenidos por cada partido político les serán computados para determinar el porcentaje de la votación total correspondiente, para los efectos legales a que haya lugar.
+
+Para los efectos de la asignación de diputados y miembros de los ayuntamientos por el principio de representación proporcional, se estará a lo dispuesto por este Código.
 
 ### Capítulo III. De las fusiones
 
@@ -1353,21 +1549,27 @@ Se deberá acompañar al convenio de coalición, la plataforma electoral y, en s
 
 El convenio de coalición deberá presentarse para su registro en los formatos que para tal efecto apruebe el Consejo General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 114.
 
-Los partidos que pretendan coaligarse, deberán, a más tardar cuarenta y cinco las antes al inicio de las precampañas de que se traten, comunicar por escrito al Consejo General su intención de coaligarse. La comunicación se hará en papel membretado de los partidos políticos interesados y deberá contener, en su caso, un calendario de las asambleas que deban celebrarse para atender lo previsto por el artículo 112 de este Código.
+Los partidos que pretendan coaligarse, deberán, a más tardar 15 días al inicio de las precampañas de que se traten, comunicar por escrito al Consejo General su intención de coaligarse. La comunicación se hará en papel membretado de los partidos políticos interesados y deberá contener en su caso, un calendario de las asambleas que deban celebrarse para atender lo previsto por el artículo 112, de este Código.
 
 El Consejo General inmediatamente de que tenga conocimiento de la información a que se refiere el párrafo anterior, integrará una comisión de verificación que estará integrada por tres comisionados, designados de entre los consejeros electorales. Dicha comisión rendirá un informe de sus actividades al Consejo General.
 
 Para los efectos de lo dispuesto en el presente artículo, las asambleas deberán celebrarse en los términos de los estatutos respectivos de cada uno de los partidos políticos que pretendan coaligarse, en presencia de la comisión de verificación o de uno o varios notarios públicos del Estado designados por el propio organismo electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 115.
 
-La solicitud de registro del convenio de coalición deberá presentarse al Presidente del Consejo General, acompañado de la documentación pertinente, a más tardar treinta días antes de que se inicie el periodo de precampaña de la elección de que se trate. Durante las ausencias del Presidente del Consejo General, el convenio se podrá presentar ante el Secretario Ejecutivo del Instituto.
+La solicitud del registro del convenio de coalición deberá presentarse al Presidente del Consejo General, acompañado de la documentación pertinente, a más tardar 7 días de que se inicie el periodo de precampaña de la elección de que se trate. Durante las ausencias del Presidente del Consejo General, el convenio se podrá presentar ante el Secretario Ejecutivo del Instituto.
 
 El Presidente del Consejo General integrará el expediente e informará a éste del trámite seguido.
 
-El Consejo General resolverá a más tardar dentro de los diez días siguientes a la presentación del convenio.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+El Consejo General resolverá a más tardar dentro de los cinco días siguientes a la presentación del convenio.
 
 ###### Artículo 116.
 
@@ -1665,6 +1867,14 @@ Los Consejeros Electorales durarán en su cargo siete años, serán renovados en
 
 Los Consejeros Electorales rendirán la protesta de ley ante el propio Congreso del Estado.
 
+> <small>(REFORMADO [ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Los Consejeros Electorales podrán solicitar licencia para separarse del cargo hasta por el término de treinta días hábiles, mediante solicitud que apruebe el Consejo General por la mayoría de los Consejeros que lo integran. En ningún caso la licencia podrá ser mayor a dicha temporalidad y no podrá ser otorgada a dos Consejeros a la vez, para lo cual se dará preferencia a quien la haya solicitado con antelación. Las ausencias de los Consejeros Electorales derivadas de la licencia a que se refiere este párrafo, serán cubiertas por el Secretario Ejecutivo del Instituto, y éste a su vez será suplido en términos de lo dispuesto en este Código y los reglamentos respectivos.
+
+> <small>(REFORMADO [ADICIONADO], P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+El Consejero Presidente será electo en sesión del Consejo General por la mayoría de votos de los Consejeros que lo integran; durará en el cargo dos años y podrá ser reelecto por una sola vez de manera consecutiva, siempre y cuando no exceda del período para el cual fue designado como Consejero. Una vez concluido el cargo de Presidente del Consejo, la persona que haya ejercido dicho encargo, continuará con sus funciones de Consejero por el período que haya sido designado por el Congreso del Estado, sin que en ningún caso la elección como Presidente constituya prorroga a su mandato.
+
 El Secretario Ejecutivo será nombrado y removido por las dos terceras partes del Consejo General a propuesta del Consejero Presidente; concurrirá a las sesiones de dicho Consejo General, con voz pero sin voto.
 
 Cada partido político designará a un representante propietario y un suplente con voz, pero sin voto, para asistir a las sesiones del Consejo General.
@@ -1707,7 +1917,9 @@ Los Consejeros Electorales estarán sujetos al régimen de responsabilidades pre
 
 El Consejo General se reunirá en sesión ordinaria cada tres meses. Su Presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los Consejeros Electorales y de los representantes de los partidos políticos.
 
-Para la preparación del proceso electoral, el Consejo General se reunirá dentro de la segunda semana de noviembre del año anterior a aquel en que se celebren las elecciones estatales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Para la preparación del proceso electoral, el Consejo General se reunirá el primer día de marzo del año en que se celebren las elecciones estatales ordinarias. A partir de esa fecha y hasta la conclusión del proceso, el Consejo sesionará por lo menos una vez al mes.
 
 ###### Artículo 144.
 
@@ -1947,7 +2159,9 @@ El Secretario Ejecutivo coordina la Junta General, conduce la administración y 
 
 El Secretario Ejecutivo será nombrado por las dos terceras partes del Consejo General, a propuesta del Consejero Presidente y debe reunir los mismos requisitos que para ser Consejero Electoral, excepto el de la edad, quien deberá tener 30 años o más, y poseer el día de la designación, título de Licenciado en Derecho, así como los conocimientos que le permitan el desempeño de sus funciones.
 
-Durará en el cargo siete años y podrá ser designado para un nuevo periodo una sola vez. Estará sujeto al régimen de responsabilidades establecido en la Constitución Particular y las leyes respectivas.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+El Secretario Ejecutivo será removido por el voto de las dos terceras partes de los Consejeros integrantes del Consejo General. Estará sujeto al régimen de responsabilidades establecido en la Constitución particular y las leyes respectivas.
 
 ###### Artículo 153.
 
@@ -2016,6 +2230,8 @@ XXX. Tramitar y desahogar las actuaciones relativas a la interposición de los m
 XXXI. Las demás que le señalen este Código o el Consejo General.
 
 ### Capítulo VIII. De los órganos desconcentrados
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 154.
 
@@ -2135,7 +2351,7 @@ XI. Las demás que le confiera este Código.
 
 ###### Artículo 159.
 
-Los Consejos Distritales y Municipales electorales, funcionarán durante los procesos electorales y, en su caso, en aquellos procedimientos de participación ciudadana que lo requieran, así como en lo concerniente a los órganos auxiliares municipales, en términos de lo dispuesto en la Ley Orgánica Municipal del Estado; residirán en cada una de las cabeceras de distrito y municipios y se integrarán a más tardar el último día del mes de enero del año de la elección.
+Los Consejos Distritales y Municipales electorales, funcionarán durante los procesos electorales y, en su caso, en aquellos procedimientos de participación ciudadana que lo requieran, así como en lo concerniente a los órganos auxiliares municipales, en términos de lo dispuesto en la Ley Orgánica Municipal del Estado; residirán en cada una de las cabeceras de distrito y municipios y se integrarán a más tardar el día trece de marzo del año de la elección.
 
 ###### Artículo 160.
 
@@ -2409,11 +2625,15 @@ II. Lista nominal de electores, la relación elaborada por la Dirección Ejecuti
 
 III. Credencial para votar con fotografía, el documento expedido y entregado por el Registro Federal de Electores, indispensable para que los ciudadanos puedan ejercer su derecho de voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 185.
 
-El 25 de marzo del año en que se celebre el proceso electoral ordinario, el Instituto contará con copias de las listas nominales de electores con corte al último día de febrero, para su exhibición, ordenadas alfabéticamente y por secciones, correspondientes a cada uno de los distritos electorales.
+El 15 de marzo del año en que se celebre el proceso electoral ordinario, el Instituto contará con copias de las listas nominales de electores con corte al último día de febrero, para su exhibición, ordenadas alfabéticamente y por secciones, correspondientes a cada uno de los distritos electorales.
 
-La exhibición se hará en cada municipio fijando en lugar público o en las oficinas de los Consejos Electorales Municipales, las listas nominales por 20 días naturales contados a partir del 26 de marzo del año de la elección ordinaria.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+La exhibición se hará en cada municipio fijando en lugar público o en las oficinas de los Consejos Electorales Municipales, las listas nominales por 20 días naturales contados a partir del 16 de marzo del año de la elección ordinaria.
 
 El Consejo General, podrá acordar otras formas de difusión de las listas nominales de electores para que éstas sean conocidas por el mayor número de ciudadanos.
 
@@ -2423,9 +2643,11 @@ Los partidos políticos, podrán formular por escrito ante los Consejos General,
 
 De igual forma, los ciudadanos podrán dentro del mismo plazo, formular sus observaciones sobre su registro o exclusión indebidos de la lista nominal de electores, en los términos señalados en la legislación correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 187.
 
-Vencido el plazo a que se refiere el segundo párrafo del artículo 186, los Consejos Electorales Municipales devolverán al Instituto las listas nominales junto con las observaciones que se hubieren recibido, sin que en ningún caso la entrega pueda exceder del 25 de abril de ese mismo año.
+Vencido el plazo a que se refiere el segundo párrafo del artículo 186, los Consejos Electorales Municipales devolverán al Instituto las listas nominales junto con las observaciones que se hubieren recibido, sin que en ningún caso la entrega pueda exceder del 15 de abril de ese mismo año.
 
 ###### Artículo 188.
 
@@ -2825,7 +3047,7 @@ Las diferencias o conflictos entre el Instituto o la Comisión y sus respectivos
 
 ###### Artículo 219.
 
-El proceso electoral es el conjunto de actos ordenados por la Constitución Particular y este Código, que realizan los ciudadanos, los partidos políticos, los organismos electorales y las autoridades estatales y municipales con objeto de integrar los órganos de representación popular. El proceso electoral ordinario para elegir a Gobernador, a Diputados al Congreso del Estado y a miembros de los Ayuntamientos, inicia la segunda semana del mes de noviembre del año previo al de la elección, con la primera sesión del Consejo General y concluye con las declaraciones que realicen los Consejos del Instituto, o las resoluciones que, en su caso, emitan las autoridades jurisdiccionales conducentes.
+El proceso electoral es el conjunto de actos ordenados por la Constitución Particular y este Código, que realizan los ciudadanos, los partidos políticos, los organismos electorales y las autoridades estatales y municipales con objeto de integrar los órganos de representación popular. El proceso electoral ordinario para elegir a Gobernador, a Diputados al Congreso del Estado y a miembros de los Ayuntamientos, inicia el primer día de marzo del año de la elección, con la primera sesión del Consejo General y concluye con las declaraciones que realicen los Consejos del Instituto, o las resoluciones que, en su caso, emitan las autoridades jurisdiccionales conducentes.
 
 El proceso electoral comprende las etapas siguientes:
 
@@ -2835,7 +3057,9 @@ II. Jornada electoral; y
 
 III. Resultados y declaraciones de validez o nulidad de las elecciones.
 
-La etapa de preparación de la elección, inicia con la primera sesión del Consejo General que celebre durante la segunda semana de noviembre del año previo al en que deban realizarse las elecciones, y concluye al iniciarse la jornada electoral.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+La etapa de preparación de la elección, inicia con la primera sesión del Consejo General que celebre el primer día de marzo del año en que deban realizarse las elecciones, y concluye al iniciarse la jornada electoral.
 
 La etapa de la jornada electoral se inicia a las 8:00 horas y concluye con la clausura de casilla.
 
@@ -2869,11 +3093,15 @@ La Comisión vigilará y garantizará el estricto cumplimiento de lo previsto en
 
 ###### Artículo 223.
 
-Los procesos internos para la selección y postulación de candidatos a cargos de elección popular, son el conjunto de actividades que realizan los partidos políticos, sus integrantes, los ciudadanos y los precandidatos a dichos cargos, con el propósito de elegir a los candidatos a puestos de elección popular que postulará cada partido político en las elecciones en que participe; tales actividades se deben apegar a lo establecido en este Código, en los Estatutos y en los reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político. Los procesos internos forman parte del proceso electoral y se circunscriben a la etapa preparatoria de la elección.
+Los procesos internos para la selección y postulación de candidatos a cargos de elección popular, son el conjunto de actividades que realizan los partidos políticos, sus integrantes, los ciudadanos y los precandidatos a dichos cargos, con el propósito de elegir a los candidatos a puestos de elección popular que postulará cada partido político en las elecciones en que participe; tales actividades se deben apegar a lo establecido en este Código, en los Estatutos y en los reglamentos, acuerdos y demás disposiciones de carácter general que aprueben los órganos de dirección de cada partido político. Los procesos internos forman parte del proceso electoral y se circunscriben a la etapa preparatoria de la elección, los cuales deberán comunicarse, previo a su celebración, al Instituto. Tratándose del procedimiento de selección de candidatos, la comunicación deberá realizarse el día del inicio del proceso electoral.
 
-Al menos 30 días antes del inicio formal de los procesos a que se refiere el párrafo inmediato anterior, cada partido determinará, conforme a sus estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha de inicio y conclusión del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno y los órganos internos de dirección responsables de su organización y vigilancia, según la etapa que corresponda; la fecha de celebración de la asamblea electoral estatal, distrital, municipal o, en su caso, de realización de la jornada comicial interna.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-El partido deberá notificar al Instituto los nombres de las personas que participarán como precandidatos, inmediatamente después de que se hubiere internamente dictaminado la procedencia de los registros correspondientes.
+Al menos veinte días antes del inicio formal de los procesos a que se refiere el párrafo inmediato anterior, cada partido determinará, conforme a sus estatutos, el procedimiento aplicable para la selección de sus candidatos a cargos de elección popular, según la elección de que se trate. La determinación deberá ser comunicada al Consejo General dentro de las setenta y dos horas siguientes a su aprobación, señalando la fecha de inicio y conclusión del proceso interno; el método o métodos que serán utilizados; la fecha para la expedición de la convocatoria correspondiente; los plazos que comprenderá cada fase del proceso interno y los órganos internos de dirección responsables de su organización y vigilancia, según la etapa que corresponda; la fecha de celebración de la asamblea electoral estatal, distrital, municipal o, en su caso, de realización de la jornada comicial interna.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+El partido deberá notificar al Instituto los nombres de las personas que participarán como precandidatos, inmediatamente después de que se hubiere internamente dictaminado la procedencia de los registros correspondientes, en los términos establecidos en este Código y en el calendario respectivo que apruebe con Consejo General. En todos los casos, el registro de los precandidatos deberá efectuarse dentro de los tres días anteriores al inicio de las precampañas de la elección correspondiente.
 
 Cuando de acuerdo a la normatividad interna de cada partido político se prevea la substanciación de medios de impugnación internos en contra de la aprobación de registros, el nombre o nombres de las personas que participarán como precandidatos deberá ser notificada al Instituto, dentro de las veinticuatro horas siguientes al día en que la resolución o sentencia correspondiente sea definitiva.
 
@@ -2893,15 +3121,21 @@ V. Constancia de registro ante el partido político.
 
 Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición.
 
-Las precampañas deberán sujetarse a las reglas específicas previstas en este Código.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Las elecciones internas que realicen los partidos para elegir a sus candidatos, deberán celebrarse dentro de los sesenta días anteriores al día de la apertura de registro de candidatos de la elección de que se trate.
+Las precampañas deberán sujetarse a las reglas específicas previstas en este Código y demás disposiciones que establezca el Consejo General.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Las elecciones internas que realicen los partidos para elegir a sus candidatos, deberán celebrarse dentro del período comprendido para llevar a cabo las precampañas electorales, que no podrán exceder de cinco días.
 
 Los partidos políticos harán uso del tiempo en radio y televisión que de acuerdo a las normas establecidas por el apartado B de la Base III, del artículo 41 de la Constitución Federal, por el Código Federal de Instituciones y Procedimientos Electorales y por este ordenamiento legal les corresponda para la difusión de sus procesos de selección interna de candidatos a cargos de elección popular, de conformidad con las reglas y pautas que determine el Instituto Federal Electoral. Los precandidatos debidamente registrados podrán acceder a radio y televisión exclusivamente a través del tiempo que corresponda en dichos medios al partido político por el que pretenden ser postulados.
 
 Queda prohibido a los precandidatos a candidaturas a cargos de elección popular, en todo tiempo, la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión. La violación a esta norma se sancionará en los términos dispuestos en el Libro Séptimo del Código Federal de Instituciones y Procedimientos Electorales.
 
 ### Capítulo Único
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 224.
 
@@ -2917,13 +3151,15 @@ IV. Propaganda de precampaña: El conjunto de escritos, publicaciones, imágenes
 
 V. Precandidato: Los ciudadanos que los partidos políticos o las coaliciones registran ante los órganos electorales durante la precampaña, con el propósito de alcanzar la nominación a un puesto de elección popular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 225.
 
-La duración de las precampañas electorales no podrá exceder de treinta días y deberán concluir treinta días antes del inicio del periodo de registro de candidatos.
+La duración de las precampañas electorales no podrá exceder de cinco días.
 
-Las precampañas, darán inicio al día siguiente de que se apruebe el registro interno de los precandidatos. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realiza el mismo día para todas las candidaturas.
+Las precampañas para la elección de Diputados y miembros de Ayuntamientos darán inicio cuarenta y nueve días antes del día de la elección y terminarán cuarenta y cinco días antes de la elección. Las precampañas para la elección de Gobernador darán inicio cuarenta y tres días antes del día de la elección y terminarán treinta y nueve días antes de la elección. Las precampañas de todos los partidos deberán celebrarse dentro de los mismos plazos. Cuando un partido tenga prevista la celebración de una jornada de consulta directa, ésta se realizará el mismo día para todas las candidaturas.
 
 No podrán realizarse precampaña cuando únicamente se hubiese registrado un aspirante para ocupar un cargo de elección popular.
 
@@ -2977,6 +3213,8 @@ X. Las expresiones verbales o escritos contrarios a la moral, que injurien a las
 
 ### Capítulo I. De los procesos de selección de candidatos a cargos de elección popular y las precampañas electorales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 228.
 
 Los precandidatos podrán impugnar, ante el órgano interno competente, los reglamentos y convocatorias; la integración de los órganos responsables de conducir los procesos internos, los acuerdos y resoluciones que adopten, y en general los actos que realicen los órganos directivos, o sus integrantes, cuando de los mismos se desprenda la violación de las normas que rijan los procesos de selección de candidatos a cargos de elección popular. Cada partido emitirá un reglamento interno en el que se normarán los procedimientos y plazos para la resolución de tales controversias.
@@ -2991,7 +3229,7 @@ Las resoluciones de fondo dictadas dentro de tales medios impugnativos partidist
 
 ###### Artículo 229.
 
-A más tardar en el mes de noviembre del año previo al de la elección, el Instituto determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al 20% por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+A más tardar en el mes marzo del año de la elección, el Instituto determinará los topes de gasto de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
 
 La Comisión determinará los requisitos que cada precandidato debe cubrir al presentar su informe de ingresos y gastos de precampaña. En todo caso, el informe respectivo deberá ser entregado al órgano interno del partido competente a más tardar dentro de los cinco días siguientes al de la jornada comicial interna, o celebración de la asamblea respectiva.
 
@@ -3025,15 +3263,19 @@ Las autoridades electorales competentes emitirán los reglamentos y acuerdos que
 
 ### Capítulo IV. Del tope de gastos de precampaña
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 233.
 
 Los plazos para solicitar el registro de las candidaturas en el año de la elección son los siguientes:
 
-I. Para Gobernador del Estado comenzará 83 días antes del día de la elección, y terminará 77 días antes de la elección.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+I. Para Gobernador del Estado comenzará 39 días antes del día de la elección, y terminará 38 días antes de la elección.
 
-II. Para Diputados por ambos principios y miembros de los ayuntamientos, comenzará 43 días antes de la elección y terminará 37 días antes de la elección.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+II. Para Diputados por ambos principios y miembros de los Ayuntamientos comenzará 44 días antes de la elección y terminará 39 días antes de la elección.
 
 El Consejo General podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los relativos al registro y que la duración de las campañas electorales se ciña a lo establecido en este Código.
 
@@ -3055,9 +3297,9 @@ Los partidos políticos podrán registrar listas de candidatos a Diputados de re
 
 De la totalidad de solicitudes de registro para candidatos propietarios a diputados de mayoría relativa al Congreso del Estado, así como para integrantes de los ayuntamientos, que presenten los partidos políticos o las coaliciones ante el Instituto, deberán integrarse de manera paritaria entre los dos géneros; cuando el número de candidaturas sea impar, la mayoría deberá corresponder al género femenino. Se exceptúan de lo anterior las candidaturas que sean resultado de un proceso de elección democrático, conforme a los estatutos de cada partido.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Las listas de candidatos a diputados propietarios de representación proporcional de cada partido o coalición se integrarán por segmentos de dos candidaturas, una para cada género, en el orden de prelación, por segmento, que decida cada partido o coalición. Tratándose de formulas en que el candidato propietario sea del género femenino, los suplentes deberán ser del mismo género. Del total de candidaturas registradas por el principio de representación proporcional, al menos un treinta por ciento deberá corresponder a candidatos o candidatas propietarios de no más de treinta años.
+Las listas de candidatos a diputados propietarios de representación proporcional de cada partido o coalición se integrarán por segmentos de dos candidaturas, una para género, en el cual el orden de prelación será para los nones género femenino y para los pares género masculino. Tratándose de formulas en que el candidato propietario sea del género femenino, los suplentes deberán ser del mismo género. Del total de candidaturas registradas por el principio de representación proporcional, al menos un treinta por ciento deberá corresponder a candidatos o candidatas propietarias de no más de treinta años.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -3067,7 +3309,9 @@ Asimismo, en las zonas de predominancia en población indígena, los partidos po
 
 Ninguna persona podrá ser registrada como candidato a distintos cargos en el mismo proceso.
 
-Para el registro de candidaturas a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán durante sus campañas políticas. La plataforma electoral deberá presentarse para su registro ante el Consejo General, dentro de la segunda quincena del mes de enero del año de la elección. Del registro se expedirá constancia.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Para el registro de candidaturas a todo cargo de elección popular, el partido político postulante deberá presentar y obtener el registro de la plataforma electoral que sus candidatos sostendrán durante sus campañas políticas. La plataforma electoral deberá presentarse para su registro ante el Consejo General dentro de la primera quincena del mes de marzo del año de la elección. Del registro se expedirá constancia.
 
 El procedimiento para el registro de las candidaturas es el siguiente:
 
@@ -3093,7 +3337,9 @@ VIII. En el caso de que para un mismo cargo de elección popular sean registrado
 
 Dentro de los plazos establecidos para el registro de candidatos, los partidos podrán sustituirlos libremente. Concluidos aquéllos, sólo por acuerdo del Consejo General, podrá hacerse sustitución de candidatos por causa de fallecimiento, inhabilitación, incapacidad o renuncia.
 
-En los casos de renuncia, el partido político o coalición correspondiente únicamente los podrá sustituir hasta con 30 de anticipación al de la elección; si la renuncia del candidato se presenta por éste ante el Consejo General, se hará del conocimiento del partido político que lo registró, para que, en caso de que proceda, haga la sustitución.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+En los casos de renuncia, el partido o coalición correspondiente únicamente los podrá sustituir previo acuerdo y de conformidad con los lineamientos que emita el Consejo General. Si la renuncia del candidato se presenta por éste ante el Consejo General se hará de conocimiento del partido político que lo registro, para que, en caso de que proceda haga la sustitución.
 
 Tratándose de candidatos registrados por una coalición, sólo podrán ser sustituidos por causas de fallecimiento o incapacidad total permanente. En estos casos, se tendrá que acreditar además, que se cumplió con lo previsto en este Código en lo relativo a la formación de coaliciones.
 
@@ -3151,11 +3397,11 @@ Inmediatamente después de haber emitido el acuerdo sobre los registros respecti
 
 Por campaña electoral se entiende el conjunto de actividades llevadas a cabo por los partidos políticos, las coaliciones y sus candidatos registrados para la obtención del voto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 241.
 
-Las campañas políticas iniciarán, en el caso de Gobernador, 63 días antes de la jornada electoral y las de Diputados, 33 días antes al día en que se verificará la jornada electoral, debiendo culminar en todos los casos conforme a lo dispuesto en el artículo 246 de este Código. Las propuestas de campaña a que se refiere la Constitución Particular, deberán registrarse ante la Comisión en la semana en que habrán de concluir las campañas políticas, conforme a las disposiciones preceptuadas en este Código.
+Las campañas políticas iniciarán, en el caso de Gobernador, 33 días antes de la jornada electoral y las de Diputados, 33 días antes al día en que se verificará la jornada electoral, debiendo culminar en todos los casos conforme a lo dispuesto en el artículo 246 de este Código. Las propuestas de campaña a que se refiere la Constitución Particular, deberán registrarse ante la Comisión en la semana en que habrán de concluir las campañas políticas, conforme a las disposiciones preceptuadas en este Código.
 
 El inicio de las campañas políticas en los Ayuntamientos, se sujetará a las reglas siguientes:
 
@@ -3253,7 +3499,7 @@ b) Los partidos políticos deberán solicitar el uso de los locales con suficien
 
 Los partidos políticos que infrinjan las disposiciones contenidas en este artículo, podrán ser denunciados ante las autoridades electorales administrativas correspondientes en términos del presente Código.
 
-En el supuesto de que la Comisión determine que la propaganda se hubiere fijado en contravención a lo dispuesto en este precepto, concederá un plazo de dos días para que el partido político de que se trate la borre o quite, según sea el caso, con las salvedades prevista en la hipótesis previstas en la fracción VII, de no hacerlo, se pedirá a la autoridad municipal que lo haga pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda, entregándose el monto correspondiente al Ayuntamiento que sufragó el gasto.
+En el supuesto de que la Comisión determine que la propaganda se hubiere fijado en contravención a lo dispuesto en este precepto, concederá un plazo de dos días para que el partido político de que se trate la borre o quite, según sea el caso, con las salvedades previstas en la hipótesis prevista en la fracción VII, de no hacerlo, se pedirá a la autoridad municipal que lo haga pero el costo que ello implique se duplicará y le será deducido del financiamiento público que le corresponda, entregándose el monto correspondiente al Ayuntamiento que sufragó el gasto.
 
 En el caso de los particulares, se aplicarán las mismas reglas anteriores.
 
@@ -3325,7 +3571,9 @@ V. La densidad poblacional y condiciones geográficas.
 
 El procedimiento para designar a los integrantes de la mesa directiva de casilla, se sujetará a las siguientes normas:
 
-I. El Consejo General solicitará al Registro Federal Electoral, en el mes de enero del año de la elección, el número de ciudadanos inscritos en la lista nominal de electores por cada sección y municipio, lo que hará del conocimiento de los Consejos respectivos, procediendo a lo siguiente:
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+I. El Consejo General solicitará al Registro Federal Electoral en el mes de marzo del año de la elección, el número de ciudadanos inscritos en la lista nominal de electores para cada sección y municipio, lo que hará del conocimiento de los Consejos respectivos, procediendo a lo siguiente:
 
 a) Una vez recibidas las listas nominales de electores, el Consejo General procederá a insacular el 15% de cada sección electoral, sin que en ningún caso el número de insaculados sea menor a cincuenta. Para ello, podrá apoyarse en la información de los listados nominales y el Centro de Cómputo del Instituto Federal Electoral, conforme a los procedimientos que al efecto acuerde;
 
@@ -3369,11 +3617,11 @@ II. Aprobar el proyecto de listas de ciudadanos que integrarán las mesas direct
 
 III. Ordenar la impresión de las listas de integración de las mesas directivas de casillas básicas, contiguas, extraordinarias y especiales y de los lugares de ubicación en el orden numérico progresivo de las secciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 255.
 
-El Consejo Distrital o Municipal electoral, según la elección de que se trate, difundirá el segundo domingo de mayo del año de la elección ordinaria, en cada municipio, numeradas progresivamente, por primera vez, el número de casillas electorales y su ubicación, así como los nombres de sus integrantes.
+El Consejo Distrital y Municipal Electoral, según la elección de que se trate, difundirá en el mes de mayo del año de la elección ordinaria, en cada municipio, numeradas progresivamente, por primera vez, el número de casilla electorales y su ubicación, así como los· nombre de sus integrantes.
 
 La difusión se hará fijando la lista correspondiente, en los edificios y lugares públicos más concurridos del Municipio o distrito según sea el caso.
 
@@ -5323,7 +5571,7 @@ El Juicio de Nulidad Electoral es procedente conforme a lo siguiente:
 
 I. Contra los resultados del computo municipal, tratándose de elección de miembros de Ayuntamientos;
 
-II. Contra los resultados del cómputo distritaI respectivo, tratándose de elección de Diputados, y
+II. Contra los resultados del cómputo distrital respectivo, tratándose de elección de Diputados, y
 
 III. Contra los resultados de los cómputos distritales, tratándose de elección de Gobernador.
 
@@ -6151,8 +6399,6 @@ V. Las demás que determinen las leyes.
 
 ###### Artículo 525.
 
-No podrá realizarse más de tres procedimientos de referendo en un mismo año. Tratándose de años en que tengan verificativo elecciones de representantes populares, no podrán realizarse procedimientos de plebiscito o referendo alguno.
-
 En los procesos de plebiscito y referendo, sólo podrán participar los ciudadanos del Estado de Chiapas que cuenten con credencial de elector, expedida por lo menos sesenta días antes al día de la consulta.
 
 El Instituto desarrollará los trabajos de organización y cómputo del plebiscito o del referendo, debiendo remitir los resultados definitivos al Gobernador del Estado, a (sic) Ayuntamiento o Congreso del Estado, según corresponda, en un plazo no mayor a diez días siguientes a la consulta.
@@ -6194,6 +6440,8 @@ III. Presentación de una exposición de motivos que exponga las razones y funda
 IV. Presentación de un articulado que cumpla con los principios básicos de técnica jurídica.
 
 ### Capítulo III. Disposiciones comunes del plebiscito y del referendo
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 531.
 
@@ -6383,7 +6631,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 Segundo.- Se deroga el Artículo Segundo Transitorio del Decreto por el que se reforman diversas disposiciones del Código de Elecciones y Participación Ciudadana, publicado en el Periódico Oficial número 156, Tomo III, de fecha tres de abril del año dos mil nueve.
 
-Tercero.- El proceso electoral para elegir a los diputados a la LXlV legislatura del H. Congreso del Estado de Chiapas, cuya jornada comicial tendrá lugar el primer domingo de julio de 2010, se regirá por lo dispuesto en el Código de Elecciones y Participación Ciudadana, salvo por lo siguiente:
+Tercero.- El proceso electoral para elegir a los diputados a la LXIV legislatura del H. Congreso del Estado de Chiapas, cuya jornada comicial tendrá lugar el primer domingo de julio de 2010, se regirá por lo dispuesto en el Código de Elecciones y Participación Ciudadana, salvo por lo siguiente:
 
 l. El inicio del proceso electoral ordinario del año 2010, en el que se elegirán Diputados al Congreso del Estado, a que se refiere el primer párrafo del artículo 219 del Código, tendrá lugar con la sesión del Consejo General del Instituto de Elecciones y Participación Ciudadana que se realice el día primero de marzo del año de la elección.
 
@@ -6416,3 +6664,9 @@ CUARTO.- POR ÚNICA VEZ, COMO EXCEPCIÓN A LO ESTABLECIDO EN EL ARTÍCULO 92 DEL
 Quinto.- Tratándose de los juicios de nulidad electoral, relativos a la elección de Diputados locales, el Tribunal de Justicia Electoral y Administrativa, del Poder Judicial del Estado deberá resolverlos, a más tardar, el día 31 de septiembre del año 2010.
 
 Sexto.- Se derogan, o en su caso quedan sin efecto para el proceso electoral del año dos mil diez, todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero del año dos mil once.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
