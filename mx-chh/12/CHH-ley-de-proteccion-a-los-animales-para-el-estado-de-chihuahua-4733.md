@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-a-los-animales-para-el-estado-de-chihuahua-47
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-29"
-last_updated: "1994-06-29"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 17 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 29 de junio de 1994.
 
@@ -250,3 +252,19 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diez días del mes de Junio de mil novecientos noventa y cuatro.
 
 C.P. FRANCISCO JAVIER BARRIO TERRAZAS. El Procurador General de Justicia Encargado del Despacho de la Secretaría de Gobierno por Ministerio de Ley. LIC. FRANCISCO J. MOLINA RUIZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal deberá emitir las disposiciones reglamentarias de la presente Ley en el término de 180 días contados a partir de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Protección a los Animales del Estado de Chihuahua publicada el 29 de junio de 1994.
