@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-el-sistema-integral-de-justicia-para-55157"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-07"
-last_updated: "2010-04-17"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de marzo de 2007.
 
@@ -61,9 +61,11 @@ Para la aplicación de esta Ley, se considerará la edad que tenga el menor al m
 
 La presente Ley, se regirá por los principios de especialización, protección integral, interés superior del menor, proporcionalidad entre la conducta del menor y sus consecuencias jurídicas, no discriminación, equilibrio de los derechos entre el menor, la víctima y la sociedad, la dignidad y el valor de los adolescentes, el respeto a los derechos humanos y a las libertades fundamentales de terceros, la promoción de la reintegración de los adolescentes en la sociedad.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 5°.
 
-Son autoridades encargadas de aplicar de manera directa la presente Ley, la Secretaría de Seguridad Pública, la Fiscalía General del Estado, a través de la Fiscalía Especializada para la Atención e investigación de los delitos cometidos por Adolescentes, los Tribunales Especializados en Justicia para Adolescentes dependiente del Poder Judicial del Estado y la Defensoría Social especializada para Adolescentes del Poder Judicial del Estado.
+Son autoridades encargadas de aplicar de manera directa la presente Ley, la Secretaría de Seguridad y Protección Ciudadana, la Procuraduría General de Justicia del Estado, a través de la Fiscalía Especializada para la Atención e investigación de los delitos cometidos por Adolescentes, los Tribunales Especializados en Justicia para Adolescentes dependientes del Poder Judicial del Estado y la Defensoría Social especializada para Adolescentes del Poder Judicial del Estado.
 
 ###### Artículo 6°.
 
@@ -129,9 +131,9 @@ XI. Comisión de Prevención, a la Comisión Especial de Prevención de Conducta
 
 XII. Secretaría, a la Secretaría de Seguridad y Protección Ciudadana;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-XIII. Fiscalía Especializada, a la Fiscalía Especializada para la Atención e investigación de los delitos cometidos por los Adolescentes, de la Fiscalía General del Estado;
+XIII. Fiscalía Especializada, a la Fiscalía Especializada para la Atención e investigación de los delitos cometidos por Adolescentes, de la Procuraduría General de Justicia del Estado;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -141,17 +143,17 @@ XIV. Fiscal Titular Especializado, al Fiscal a cargo de la Fiscalía Especializa
 
 XV. Fiscales Especializados, a los Fiscales del Ministerio Público adscritos a la Fiscalía Especializada para la Atención e investigación de los delitos cometidos por adolescentes;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-XVI. Ministerio Público, al Fiscal del Ministerio Público de fuero común adscrito a la Fiscalía General del Estado;
+XVI. Ministerio Público, al Fiscal del Ministerio Público del fuero común adscrito a la Procuraduría General de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-XVII. Agente Especializado, al Agente Especializado en delitos cometidos por Adolescentes, de la Agencia Estatal de la Investigación adscrito a la Fiscalía Especializada para la Atención de Menores;
+XVII. Agente Especializado, al Agente Especializado en delitos cometidos por Adolescentes, de la Policía Especializada adscrito a la Procuraduría General de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-XVIII. Agentes Estatales de Investigación, al Agente de la Agencia Estatal de la Investigación de la Fiscalía General del Estado;
+XVIII. Agente de la Policía Especializada, al Agente de la Policía Especializada de la Procuraduría General de Justicia del Estado;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -207,9 +209,11 @@ XXXI. Medidas, las medidas de orientación, protección y tratamiento que impong
 
 ### Capítulo II. De las Personas Sujetas a esta Ley
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 12.
 
-las disposiciones de la presente ley, se aplicarán para exigir la responsabilidad de las personas de doce años de edad y menores de dieciocho, por la comisión de hechos tipificados como delitos en el Código Penal del Estado y demás disposiciones aplicables; las que se inicien, preparen o cometan fuera de esta entidad federativa cuando produzcan o se pretenda que tengan efectos en la misma.
+Las disposiciones de la presente ley, se aplicarán para exigir la responsabilidad de las personas de doce años de edad y menores de dieciocho, por la comisión de hechos tipificados como delitos en el Código Penal del Estado o, en leyes federales en materia de competencia concurrente, y demás disposiciones aplicables que se inicien, preparen o cometan fuera de esta Entidad Federativa cuando produzcan o se pretenda que tengan efectos en la misma.
 
 ###### Artículo 13.
 
@@ -277,13 +281,17 @@ Deberá existir una absoluta separación de funciones entre los órganos especia
 
 ### Capítulo II. De la Fiscalía Especializada
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 26.
 
-La Fiscalía Especializada, es un Órgano de la Fiscalía General del Estado de Chiapas, y estará a cargo de un Fiscal Titular Especializado, designado por el Fiscal General del Estado, quien ejercerá el mando y autoridad jerárquica sobre los fiscales especializados, y demás personal que le esté adscrito.
+La Fiscalía Especializada, es un órgano de la Procuraduría General de Justicia del Estado de Chiapas, y estará a cargo de un Fiscal Titular Especializado, designado por el Gobernador del Estado, quien ejercerá el mando y autoridad jerárquica sobre los fiscales especializados, y demás personal que le esté adscrito.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 27.
 
-Los funcionarios de la Fiscalía General del Estado auxiliarán a la Fiscalía Especializada para la Atención de Adolescentes en el cumplimiento de sus obligaciones previstas en esta Ley.
+Los funcionarios de la Procuraduría General de Justicia del Estado auxiliarán a la Fiscalía Especializada en el cumplimiento de sus obligaciones previstas en esta Ley.
 
 ###### Artículo 28.
 
@@ -291,21 +299,29 @@ El Fiscal Titular Especializado y los fiscales especializados deberán contar co
 
 En todos los casos deberán atender con precisión los derechos fundamentales de los menores que están consagrados en la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 29.
 
-Además de los requisitos señalados en el Artículo anterior, el Fiscal Titular Especializado y los Fiscales Especializados, deberán cubrir los requisitos que exige la Ley Orgánica de la Fiscalía General del Estado para su ingreso, permanencia y promoción.
+Además de los requisitos señalados en el artículo anterior, el Fiscal Titular Especializado y los Fiscales Especializados, deberán cubrir los requisitos que exige la Ley Orgánica de la Procuraduría General de Justicia del Estado para su ingreso, permanencia y promoción.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 30.
 
-La fiscalía especializada, ejercerá sus facultades en todo el territorio del Estado y se coordinará con las Fiscalías Regionales y demás Unidades de la Fiscalía General del Estado.
+La Fiscalía Especializada ejercerá sus facultades en todo el territorio del Estado, y se coordinará con las Fiscalías de Distrito y demás unidades de la Procuraduría General de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 31.
 
-La Fiscalía Especializada, se establecerá por el Fiscal General del Estado mediante acuerdo.
+La Fiscalía Especializada conocerá de los asuntos que en razón a su especialización le asigne la presente Ley, la Ley Orgánica de la Procuraduría General de Justicia del Estado y su Reglamento, así como otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 32.
 
-Todo Fiscal del Ministerio Público de la Fiscalía General del Estado de Chiapas, deberá recibir un curso básico para que pueda auxiliar a la Fiscalía Especializada en los casos y condiciones específicamente señalados en la presente Ley.
+Todo Fiscal del Ministerio Público de la Procuraduría General de Justicia del Estado de Chiapas, deberá recibir un curso básico para que pueda auxiliar a la Fiscalía Especializada, en los casos y condiciones específicamente señalados en la presente Ley.
 
 ###### Artículo 33.
 
@@ -337,7 +353,9 @@ X. Recabar los medios de prueba que acrediten el cuerpo de la conducta típica y
 
 XI. Ordenar, bajo su responsabilidad y sin orden de presentación emitida por el Juez Especializado de Primera Instancia, la detención del menor cuando exista flagrancia por la cual deberá fundar y motivar su determinación;
 
-XII. Ordenar, bajo su responsabilidad y sin orden de presentación emitida por el Juez Especializado de Primera Instancia la detención del menor cuando tratándose de una conducta típica considerada como grave por la presente Ley, exista urgencia y riesgo fundado de que el adolescente pueda evadir a la autoridad y no se pueda ocurrir a dicho juez por razón de la hora, lugar o circunstancia de la probable conducta típica, para la cual deberá fundar y motivar su determinación;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XII. Ordenar bajo su responsabilidad, y sin orden de presentación emitida por el Juez Especializado de Primera Instancia, la detención del menor cuando tratándose de una conducta típica considerada como grave por la presente Ley o, en leyes federales en materia de competencia concurrente, exista urgencia y riesgo fundado de que el adolescente pueda evadir a la autoridad y no se pueda ocurrir a dicho juez por razón de la hora, lugar o circunstancia de la probable conducta típica, para la cual deberá fundar y motivar su determinación;
 
 XIII. Decretar la retención del adolescente en términos establecidos en los Artículos 16 y 18, de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley;.(sic)
 
@@ -395,15 +413,29 @@ XXXVIII. Realizar todas las diligencias necesarias para establecer el monto de r
 
 XXXIX. Decretar al adolescente asistencia formativa, psicológica, médica, social o de otra índole de conformidad con la legislación aplicable;
 
-XL. Las demás que le otorguen las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XL. Acreditar, mediante el dictamen médico correspondiente, la farmacodependencia del adolescente a efecto de dar aviso a la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XLI. Remitir al Ministerio Público de la Federación, la averiguación previa en los cases de narcomenudeo, cuando sea procedente.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XLII. Las demás que le otorguen las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 34.
 
-La Fiscalía Especializada, contará con la asistencia de un Grupo Especializado de Agentes de la Agencia Estatal de Investigación, que deberán contar con los conocimientos, aptitudes y entrenamiento, no solo teórico sino también en la práctica de las acciones positivas de los derechos humanos, que les permitan realizar su función considerando la calidad especial de los adolescentes con los que tratarán, bien sea, como sujetos activos o victimas, u ofendidos. Deberán atender con precisión los derechos fundamentales de los adolescentes que están consagrados en las disposiciones legales aplicables.
+La Fiscalía Especializada, contará con la asistencia de un Grupo Especializado de Agentes de la Policía Especializada, que deberán contar con los conocimientos, aptitudes y entrenamiento, no solo teórico sino también en la práctica de las acciones positivas de los derechos humanos, que les permitan realizar su función considerando la calidad especial de los adolescentes con los que tratarán, bien sea, como sujetos activos o víctimas, u ofendidos. Deberán atender con precisión los derechos fundamentales de los adolescentes que están consagrados en las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 35.
 
-Todos los Agentes Estatales de la Agencia Estatal de investigación deberán recibir un curso básico para la investigación de los adolescentes para a (sic) que pueda auxiliar a la Fiscalía Especializada en los casos y condiciones señalados en la presente Ley.
+Todos los Agentes de la Policía Especializada deberán recibir un curso básico para la investigación de los adolescentes, para que pueda auxiliar a la Fiscalía Especializada en los casos y condiciones señalados en la presente Ley.
 
 ###### Artículo 36.
 
@@ -437,9 +469,11 @@ XIII. Preservar en secreto todo asunto relacionado con adolescentes, evitando su
 
 XIV. Los demás que se deriven de esta Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 37.
 
-Los Agentes de la Policía de Seguridad Pública Estatal o Municipal, o de la Agencia Estatal de Investigación, que en ejercicio de sus atribuciones legales detengan a un menor, por la probable comisión de una conducta típica, deberán ponerlo de inmediato a disposición del Fiscal Especializado con el parte correspondiente. En el caso de que en el municipio no exista una oficina de la Fiscalía Especializada, pondrán al menor a disposición de la Fiscalía General del Estado más cercana al lugar donde ocurrieron los hechos.
+Los Agentes de la Policía de Seguridad Pública Estatal o Municipal, o de la Policía Especializada, que en ejercicio de sus atribuciones legales detengan a un menor, por la probable comisión de una conducta típica, deberán ponerlo de inmediato a disposición del Fiscal Especializado con el parte correspondiente. En el caso de que en el municipio no exista una oficina de la Fiscalía Especializada, pondrán al menor a disposición de la Fiscalía del Ministerio Público de la Procuraduría General de Justicia del Estado, más cercana al lugar donde ocurrieron los hechos.
 
 ###### Artículo 38.
 
@@ -447,13 +481,17 @@ El Fiscal del Ministerio Público que reciba al menor, actuando en auxilio de la
 
 De lo anterior se levantará un acta, la cual deberá ser notificada a la víctima u ofendido. Todo lo actuado por el Fiscal del Ministerio Público deberá ser remitido a la Fiscalía Especializada para que realice lo procedente.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 39.
 
-En el caso que el Fiscal del Ministerio Público Especializado, considere que la detención fue legal, emitirá el acuerdo de inicio de la investigación; llamará inmediatamente a los padres, tutores o los que ejerzan la patria potestad del menor y les explicará sus derechos y responsabilidades. Si la conducta que se le atribuye al menor no fuere grave, o este es menor de 14 años de edad, inmediatamente fijará la caución. Si la caución es depositada inmediatamente citará a la victima para promover una solución alternativa que restituya a la victima en sus derechos. De todo lo anterior levantará acta y dejará constancia enviando copia de esta actuación a la Fiscalía Especializada. En caso de que no se deposite la caución o no se logre la solución alternativa remitirá el expediente a la Fiscalía Especializada para que continúe la investigación. En el caso de que el menor sea extranjero, notificará aún de manera telefónica, dejando constancia, a las autoridades diplomáticas o consulares del país respectivo que están acreditados en México, conforme a (sic) legislación vigente.
+En el caso que el Fiscal Especializado considere que la detención fue legal, emitirá el acuerdo de inicio de la investigación y llamará inmediatamente a los padres, tutores o los que ejerzan la patria potestad del menor y les explicará sus derechos y responsabilidades. Si la conducta que se le atribuye, no fuere considerada como grave por la presente Ley o por las leyes federales en materia de competencia concurrente, o éste sea menor de 14 años de edad, inmediatamente fijará la caución. Si la caución es depositada, inmediatamente citará a la víctima, para promover una solución alternativa que restituya sus derechos. De todo lo anterior, levantará acta y dejará constancia enviando copia de esta actuación a la Fiscalía Especializada. En caso de que no se deposite la caución o no se logre la solución alternativa, remitirá el expediente a la Fiscalía Especializada para que continúe la investigación, en el caso de que el menor sea extranjero, notificará aún de manera telefónica, dejando constancia a las autoridades diplomáticas o consulares del País respectivo acreditados en México, conforme a la legislación vigente.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
 
-Si la conducta típica del adolescente está considerada como grave por las disposiciones legales aplicables, el fiscal del ministerio público emitirá el acuerdo de retención, llamará a los padres, tutores o los que ejerzan la patria potestad o custodia, realizará todas las diligencias urgentes del caso, informará de inmediato al fiscal especializado y actuará en auxilio de aquél. En el caso de que no se pueda informar al Fiscal Especializado de inmediato, se pondrá al adolescente a la disposición del Fiscal Especializado que se encuentre más cercano al lugar de los hechos, remitiéndole el expediente de todo lo actuado.
+Si la conducta típica del adolescente está considerada como grave por la presente Ley o, por las leyes federales en materia de competencia concurrente, el Ministerio Público emitirá el acuerdo de retención, llamará a los padres, tutores o los que ejerzan la patria potestad o custodia, realizará todas las diligencias urgentes del caso, informará de inmediato al Fiscal Especializado y actuará en auxilio de aquél. En el caso de que no se pueda informar al Fiscal Especializado, de inmediato se pondrá al adolescente a la disposición del Fiscal Especializado más cercano al lugar de los hechos, remitiéndole el expediente de todo lo actuado.
 
 ###### Artículo 41.
 
@@ -475,9 +513,11 @@ El Fiscal del Ministerio Público que tenga a su disposición a un menor y éste
 
 En cualquier caso, cuando el Fiscal del Ministerio Público tenga a disposición al menor, ordenará de inmediato la práctica del examen médico para determinar la edad del mismo. Con la misma celeridad solicitará al Registro Civil copias certificadas del acta de nacimiento. El Registro Civil estará obligado a contestar dentro de las 24 horas siguientes a la recepción de dicha solicitud.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 46.
 
-El examen médico se realizará por un médico legista adscrito a la Fiscalía General del Estado, o cuando esto no sea posible por un médico general.
+El examen médico se realizará por un médico legista adscrito a la Procuraduría General de Justicia del Estado, o cuando esto no sea posible por un médico general.
 
 ###### Artículo 47.
 
@@ -495,7 +535,9 @@ I. Que acredite que es menor de 12 años, deberá decretar su libertad y seguir 
 
 II. Que acredite que la edad del adolescente es mayor de 12 y menor de 14 años cumplidos, deberá decretar su libertad y seguir el procedimiento previsto en el Artículo 39 de esta ley;
 
-III. Que acredite que la edad del adolescentes (sic) tiene 14 años de edad o más y no se trate de la conducta típica prevista como grave por la Ley, deberá decretar su libertad y seguir el procedimiento previsto en el Artículo 39 de esta ley.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+III. Que acredite que el adolescente tiene 14 años de edad o más, y no se trate de la conducta típica prevista como grave por la presente Ley o, en leyes federales en materia de competencia concurrente, deberá decretar su libertad y seguir el procedimiento previsto en el artículo 39 de esta ley.
 
 En caso de duda en la determinación de edad del menor, se presumirá la minoría de edad.
 
@@ -639,9 +681,11 @@ Los magistrados y los jueces especializados, durarán en su cargo el tiempo que 
 
 ### Capítulo I. Del Régimen de Responsabilidad de Adolescentes
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 64.
 
-Los adolescentes serán responsables con arreglo a esta ley, cuando hayan cometido los hechos tipificados como delitos en el Código Penal del Estado y demás disposiciones aplicables y no concurran en ninguna de las causas de exención o extinción de la responsabilidad prevista en el Código Penal y demás disposiciones aplicables.
+Los adolescentes serán responsables con arreglo a esta ley, cuando hayan cometido hechos tipificados como delitos en el Código Penal del Estado o, en leyes federales en materia de competencia concurrente y demás disposiciones aplicables; y no concurran en ninguna de las causas de exención o extinción de la responsabilidad prevista en el Código Penal y demás disposiciones aplicables.
 
 ###### Artículo 65.
 
@@ -649,15 +693,17 @@ Las edades indicadas por esta ley, se entenderán siempre referidas al momento d
 
 ### Capitulo II. De la Prescripción de la Responsabilidad de Menores
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 66.
 
-Las conductas típicas cometidas por los adolescentes prescriben.
+Las conductas típicas cometidas por los adolescentes prescriben:
 
-I. A los diez años, cuando se trate de delito sancionado en el Código Penal con pena privativa de libertad máxima superior a diez años.
+I. A los diez· años, cuando se trate de delito sancionado en el Código Penal del Estado o, en leyes federales en materia de competencia concurrente, y demás disposiciones aplicables; con pena privativa de libertad máxima superior a diez años.
 
-II .A los cinco años, cuando se trate de un delito sancionado en el Código Penal con pena privativa de libertad máxima de cinco a diez años.
+II. A los cinco años, cuando se trate de delito sancionado en el Código Penal del Estado o, en leyes federales en materia de competencia concurrente y demás disposiciones aplicables; con pena privativa de libertad máxima de cinco a diez años.
 
-III. A los tres años, cuando se trate de un delito sancionado en el Código Penal con pena privativa de libertad máxima de uno a cinco años o dicha pena pueda ser sustituida por otra.
+III. A los tres años, cuando se trate de delito sancionado en el Código Penal del Estado o, en leyes federales en materia de competencia concurrente y demás disposiciones aplicables; con pena privativa de libertad máxima de uno a cinco años o dicha pena pueda ser sustituida por otra.
 
 IV. Los demás casos prescribirán al año.
 
@@ -731,13 +777,17 @@ Podrá aplicarse una o más medidas previstas en esta Ley, de manera simultánea
 
 Las medidas podrán suspenderse, revocarse o sustituirse por otras más benéficas para el adolescente. La modificación nunca implicará una prolongación en el tiempo, salvo que se haya modificado también la calidad de la sanción por una menos violenta de los derechos del adolescente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 70.
 
-Las medidas que puedan ser cumplidas en libertad, se considerarán de prioritaria aplicación, mientras que las medidas de interacción privativas de la libertad deberán ser utilizadas sólo ante la imposibilidad de poder aplicar otra medida y tratándose de delitos calificados como graves, en los términos previstos por esta Ley.
+Las medidas que puedan ser cumplidas en libertad, se considerarán de aplicación prioritaria; mientras que las medidas de internación privativas de libertad, deberán ser utilizadas sólo ante la imposibilidad de poder aplicar otra medida y que se trate de delitos calificados como graves, en los términos previstos por esta Ley o, en leyes federales en materia de competencia concurrente y demás disposiciones aplicables.
 
 La medida de privación de la libertad en un Centro especializado únicamente podrá aplicarse a las y los adolescentes mayores de 14 años hasta los 18 años incumplidos, en los siguientes casos:
 
-I. Tratándose de los delitos que el Código de procedimientos Penales del Estado, clasifica como graves; y
+> <small>(REFORMADA. P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+I. Tratándose de los delitos que en la presente Ley o, en leyes federales en materia de competencia concurrente y demás disposiciones aplicables, sean clasificados como graves.
 
 II. Por incumplimiento reiterado e injustificado de una medida no privativa de la libertad impuesta con anterioridad.
 
@@ -1179,9 +1229,57 @@ V. La disciplina del adolescente dentro del Centro y su desenvolvimiento persona
 
 VI. Siempre que esté plenamente justificado, cualquier otro aspecto de relevancia que el Centro considere importante informar.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 127.
 
-La sanción de privación de la libertad, consiste en la restricción de la libertad de tránsito al adolescente a un Centro especializado del que no se le permitirá salir sin que exista una orden judicial que así lo establezca. Sólo podrá imponerse a quienes tengan más de catorce y menos de dieciocho años cumplidos, tratándose de delitos dolosos, siempre y cuando sean graves, de acuerdo a lo establecido por las leyes penales.
+La sanción de privación de la libertad, consiste en la restricción de libertad de tránsito al adolescente en un Centro Especializado, del que no se le permitirá salir sin que exista una orden judicial que así lo establezca. Sólo podrá imponerse a quienes tengan más de catorce y menos de dieciocho años cumplidos, tratándose de delitos dolosos, siempre y cuando sean graves, de acuerdo a lo establecido en la presente Ley o, en leyes federales en materia de competencia concurrente y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 127 Bis.
+
+Se clasifica como conducta tipificada como grave para los efectos de esta Ley, los siguientes delitos previstos en el Código Penal para el Estado de Chiapas:
+
+I. Homicidio por culpa grave, previsto y sancionado por el artículo 89, parte final.
+
+II. Homicidio, previsto y sancionado por los artículos 160, 164, 170 y 171.
+
+III. Tráfico de menores de edad y los que no tengan capacidad de entender el significado del hecho, previsto y sancionado por el artículo 208, primer párrafo.
+
+IV. Privación ilegal de la libertad, previsto y sancionado en los artículos 213, 215, 215 Bis exceptuando las fracciones I y V; 216, 220 exceptuándose el último párrafo y 221.
+
+V. Sustracción de menores y los que no tengan capacidad de entender el significado del hecho, previsto y sancionado por los artículos 223 segundo párrafo, y 224.
+
+VI. Asalto, previsto y sancionado por el artículo 231.
+
+VII. Violación, previsto y sancionado por los artículos 233, 234 y 235.
+
+VIII. Robo, previsto y sancionado por el artículo 270 exceptuando la fracción I, en relación al 274; 275 exceptuando las fracciones V y VI; 277, 278, 279 y 281.
+
+IX. Abigeato, previsto y sancionado por el artículo 291 exceptuando la fracción I; y 295.
+
+X. Extorsión, previsto y sancionado por los artículos 300, y 301 exceptuando las fracciones II, VII y, el último y penúltimo párrafo.
+
+XI. Corrupción de Menores e Incapaces, previsto y sancionado por el artículo 327.
+
+XII. Pornografía Infantil, previsto y sancionado por los artículos 333 y 334.
+
+XIII. Lenocinio, previsto y sancionado por el artículo 339 fracciones I y II.
+
+XIV. Asociación Delictuosa, previsto y sancionado por el artículo 370.
+
+XV. Pandillerismo, previsto y sancionado por los artículos 371, 372, 373, 374 y 375.
+
+XVI. Delincuencia Organizada, previsto y 'sancionado por el artículo 376.
+
+XVII. Ataque a las vías de comunicación, previsto y sancionado por el artículo 382 exceptuando la fracción VII, con relación al 383.
+
+De igual forma, se califica como conducta tipificada como grave, para los efectos de esta Ley, el delito de Trata de Personas, previsto y sancionado por la Ley para Combatir, Prevenir y Sancionar la Trata de Personas en el Estado de Chiapas.
+
+Para la clasificación de delitos graves, previstos en leyes federales en materia de competencia concurrente, se observará cuando proceda, el Código Federal de Procedimientos Penales.
+
+La tentativa punible de los delitos, incluidos en este artículo, también será considerada grave para los efectos de esta Ley.
 
 ###### Artículo 128.
 
@@ -1405,13 +1503,17 @@ IX. Ser asistido en todo momento por un defensor, a quien podrá designar librem
 
 X. En caso de ser declarado culpable por el Tribunal de Adolescentes, se le apliquen únicamente las sanciones establecidas en la presente Ley, proporcionalmente a la gravedad de la falta, su edad, el daño causado y otras circunstancias relevantes, que garanticen que se obtendrán de su tratamiento los objetivos a que se refiere el Artículo anterior;
 
-XI. La medida de internamiento será aplicada solamente a los adolescentes que tengan catorce años cumplidos y hasta los dieciocho años incumplidos y únicamente cuando se trate de la conducta ilícita prevista como grave en la ley;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XI. La medida de internamiento será aplicada solamente a los adolescentes que tengan catorce años cumplidos y hasta los dieciocho años incumplidos, y únicamente cuando se trate de la conducta ilícita prevista como grave en la presente Ley o, en leyes federales en materia de competencia concurrente y demás disposiciones aplicables;
 
 XII. La medida cautelar de privación de la libertad solo será aplicada cuando el Fiscal Especializado demuestre ante el Juez de Primera Instancia que existen indicios suficientes que comprometan al adolescente en la comisión del delito, y que éste obstruya la justicia, se evada de la impartición de la misma o cometa otras conductas tipificadas como delitos en las leyes penales. Esta resolución será válida solo por tres meses, al término de los cuales el Fiscal Especializado podrá solicitar su prórroga por otro plazo igual, El Juez de Primera Instancia, valorará si siguen existiendo las causas aducidas o si se han desvanecido los elementos de la probable responsabilidad del adolescente;
 
 XIII. Obtener la libertad bajo caución en los términos establecidos en esta Ley;
 
-XIV. En el caso en que se le atribuya al adolescente la pertenencia a un grupo de delincuencia organizada, asociación delictuosa o pandilla, éste no tendrá derecho a la libertad bajo caución, salvo que a juicio del Juez de Primera Instancia, previa consulta al Fiscal General del Estado, aquél haya manifestado con actos concretos la voluntad de disociarse de tal grupo. En este último caso la libertad bajo caución podrá ser revocada cuando el Fiscal Especializado presente indicios de que el adolescente sigue perteneciendo a este grupo;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+XIV. En el caso en que se le atribuya al adolescente la pertenencia a un grupo de delincuencia organizada, asociación delictuosa o pandilla; éste no tendrá derecho a la libertad bajo caución, salvo que a juicio del Juez de Primera Instancia, previa consulta al Procurador General de Justicia del Estado, el adolescente haya manifestado con actos concretos la voluntad de disociarse de tal grupo. En este último caso, la libertad bajo caución podrá ser revocada cuando el Fiscal Especializado presente indicios de que el adolescente sigue perteneciendo a este grupo;
 
 XV. Se le proporcione gratuitamente un intérprete cuando no hable o entienda el español, así como un especialista en el lenguaje de señas para las y los adolescentes con discapacidad auditiva;
 
@@ -1443,7 +1545,9 @@ I. A que se designe un traductor gratuito cuando no hable o no comprenda el espa
 
 II. Se consideren los usos y costumbres de la comunidad indígena a la que pertenezca, así como solicitar la participación de un experto en materia de usos y costumbres indígenas en el proceso;
 
-III. Ser sujeto solo a asistencia educativa y psicológica, tratándose de conductas ilícitas no consideradas como graves por esta ley y que el adolescente acredite que ha sido sujeto a un procedimiento comunitario y que ha cumplido la sanción correspondiente, sin que se inicie proceso en su contra. Lo anterior, siempre que la víctima u ofendido no se oponga;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+III. Ser sujeto solo a asistencia educativa y psicológica, tratándose de conductas ilícitas no consideradas como graves por ,esta ley o, en leyes federales en materia de competencia concurrente, y que el adolescente acredite que ha sido sujeto a un procedimiento comunitario, y que ha cumplido la sanción correspondiente, sin que se inicie proceso en su contra. Lo anterior, siempre que la víctima u ofendido no se oponga;
 
 IV. Recibir apoyo mediante los programas que establezca la Comisión Especial de Prevención de conductas ilícitas de adolescentes, para ser reintegrado a su comunidad de origen al cumplimento de la medida impuesta conforme a la presente Ley. Así también, ser apoyado mediante programas de esta Comisión para facilitar la comunicación, durante la investigación proceso y tratamiento con sus padres, tutores o quienes ejerzan la patria potestad;
 
@@ -1523,9 +1627,11 @@ Los niños y los adolescentes extranjeros, cuando proceda, serán entregados a l
 
 ### Capítulo I. Reglas de Aplicación de las Medidas Cautelares
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 152.
 
-El Ministerio Público, cuando existan indicios racionales de la comisión de un hecho calificado como grave por la ley, o del riesgo de eludir u obstruir la acción de la justicia por parte del adolescente, podrá solicitar al Juez de Primera Instancia, en cualquier momento, la adopción de medidas cautelares para la custodia y defensa del adolescente. Dichas medidas podrán consistir en:
+El Ministerio Público, cuando existan indicios racionales de la comisión de un hecho calificado como grave por esta ley o, en leyes federales en materia de competencia concurrente, o exista el riesgo de eludir u obstruir la acción de la justicia por parte del adolescente, podrá solicitar al Juez de Primera Instancia, en cualquier momento, la adopción de medidas cautelares para la custodia y defensa del adolescente. Dichas medidas podrán consistir en:
 
 I. Prohibición de salir del país;
 
@@ -1533,9 +1639,19 @@ II. Prohibición de acercarse a la víctima o a otras personas, de concurrir a d
 
 III. Obligación de concurrir periódicamente al juzgado de primera instancia para Adolescentes que determine;
 
-IV. Arresto domiciliario; y,
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+IV. Arresto domiciliario.
 
 V. Privación provisional de la libertad, en los casos en que proceda con arreglo a esta Ley.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VI. La obligación de someterse al cuidado de instituciones especializadas en la rehabilitación por cuestiones de farmacodependencia.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VII. La detención preventiva en un centro médico o instalaciones especializadas en rehabilitación, por farmacodependencia, si el adolescente es mayor de catorce años de edad.
 
 El Juez de Primera Instancia, oyendo al defensor del menor, así como a los especialistas, quienes manifestaran su parecer sobre la naturaleza de la medida cautelar, resolverá sobre lo propuesto, tomando en especial consideración el interés superior del menor.
 
@@ -1637,7 +1753,7 @@ La victima u ofendido, podrán intervenir en los procedimientos de menores ya en
 
 ###### Artículo 171.
 
-La victima o el ofendido podrán apersonarse en el procedimiento, tanto en la fase (sic) investigación preliminar como en las fases del juicio como en las siguientes facultades:
+La víctima o el ofendido podrán apersonarse en el procedimiento, tanto en la fase (sic) investigación preliminar como en las fases del juicio como en las siguientes facultades:
 
 I. Tener a la vista lo actuado, siendo notificado de las diligencias que se soliciten y acuerden;
 
@@ -1677,7 +1793,9 @@ V. Suspensión del procedimiento a prueba.
 
 Las medidas alternativas de solución de controversias previstas en esta ley, podrán ser aplicadas solamente cuando:
 
-I. No se trate de un delito considerado como grave por las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+I. No se trate de un delito considerado como grave por esta ley o, en leyes federales en materia de competencia concurrente;
 
 II. El adolescente demuestre arrepentimiento y así lo manifieste a la autoridad y en su caso a la victima u ofendido;
 
@@ -1711,7 +1829,7 @@ La mediación consiste en un proceso para resolver conflictos, por medio del cua
 
 ###### Artículo 177.
 
-A solicitud de la victima u ofendido, en su caso del adolescente por conducto de sus padres, tutores o quienes ejerzan la patria potestad, o en su caso, quienes detenten la custodia del menor, o de la víctima u ofendido, el Juez de Primera Instancia citará a las partes, así como, al Fiscal Especializado a una audiencia de mediación.
+A solicitud de la víctima u ofendido, en su caso del adolescente por conducto de sus padres, tutores o quienes ejerzan la patria potestad, o en su caso, quienes detenten la custodia del menor, o de la víctima u ofendido, el Juez de Primera Instancia citará a las partes, así como, al Fiscal Especializado a una audiencia de mediación.
 
 ###### Artículo 178.
 
@@ -1773,9 +1891,11 @@ De lograrse la conciliación, se tendrán por satisfechas las pretensiones de lo
 
 La conciliación tramitada ante el Fiscal Especializado deberá estar firmada por los interesados y por el Fiscal Especializado y deberá ser ratificada por el Juez de Primera Instancia, para su plena validez.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 192.
 
-En los casos de flagrante infracción y no se trate de delitos calificados como graves por la ley o que afecten sensiblemente a la sociedad, el Fiscal Especializado o el Juez de Primera Instancia, intentarán la conciliación si se encuentra presente la victima u ofendido; de no estarlo o de no lograrla, se seguirá el procedimiento al adolescente.
+En los casos de flagrante infracción, y no se trate de delitos calificados como graves por esta ley o, en leyes federales en materia de competencia concurrente, o que afecten sensiblemente a la sociedad, el Fiscal Especializado o el Juez de Primera Instancia, intentarán la conciliación si se encuentra presente la victima u ofendido; de no estarlo o de no lograría, se seguirá el procedimiento al adolescente.
 
 #### Sección Cuarta. Del Desistimiento
 
@@ -1805,11 +1925,13 @@ La víctima u ofendido podrá apelar la resolución del Juez de Primera Instanci
 
 ###### Artículo 197.
 
-El Juez de Primera Instancia, podrá decretar la no procedencia de juicio en contra del adolescente cuando se trate de un delito no considerado como grave por las disposiciones legales aplicables.
+(DEROGADO, P.O. 17 DE NOVIEMBRE DE 2010)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 198.
 
-El Juez de Primera Instancia, podrá decretar la no procedencia de juicio en contra del adolescente cuando se trate de un delito no considerado como grave por las leyes penales cuando:
+El Juez de Primera Instancia, podrá decretar la no procedencia de juicio en contra del adolescente, cuando se trate de un delito no considerado como grave por esta ley o, en leyes federales en materia de competencia concurrente, cuando:
 
 a) El adolescente esté de acuerdo en reparar el daño a la víctima u ofendido; o
 
@@ -1905,9 +2027,11 @@ Las actuaciones ministeriales y jurisdiccionales, serán reservadas; en consecue
 
 Queda prohibido a los servidores públicos del Juzgado especializado de Justicia para Adolescentes, autoridades ministeriales y a todas las personas que intervengan durante el procedimiento de adolescentes, dar a la publicidad el contenido de las actuaciones del procedimiento o proporcionar datos que posibiliten la identidad del menor.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 213.
 
-La edad del adolescente, se comprobará con la certificación del acta de nacimiento, y a falta de ésta, se estimará con base en el dictamen pericial, efectuado por un médico de la Coordinación de Servicios Periciales de la Fiscalía General del Estado, o en su caso, por dos médicos en ejercicio de su profesión.
+La edad del adolescente se comprobará con la certificación del acta de nacimiento, y a falta de ésta, se estimará con base en el dictamen pericial, efectuado por un médico de la Dirección de Servicios Periciales de la Procuraduría General de Justicia del Estado, o en su caso, por dos médicos en ejercicio de su profesión.
 
 ###### Artículo 214.
 
@@ -1985,11 +2109,15 @@ IV. Recabar las pruebas con que acrediten el cuerpo de la conducta típica y la 
 
 V. Ordenar, bajo su responsabilidad y sin orden de presentación emitida por los Juzgados Especializados de Primera Instancia, la comparecencia del adolescente cuando exista flagrancia, un caso urgente o exista riesgo fundado de que el menor pueda evadir a la autoridad y no se pueda ocurrir ante el Juez por razón de la hora, lugar o circunstancias de la probable conducta típica, para lo cual deberá fundar y motivar su determinación;
 
-VI. Procurar la conciliación o mediación entre las partes cuando se esté en presencia de conductas que no sean calificadas como graves por la Ley. En estos casos dictará auto de reserva hasta en tanto no se cumpla con el acuerdo derivado de la conciliación o mediación;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VI. Procurar la conciliación o mediación entre las partes, cuando se esté en presencia de conductas que no sean calificadas como graves por esta Ley o, en leyes federales en materia de competencia concurrente. En estos casos dictará auto de reserva hasta en tanto no se cumpla con el acuerdo derivado de la conciliación o mediación;
 
 VII. Informar al adolescente, a la víctima u ofendido, en que consiste la mediación y la conciliación, así como los beneficios de dichos medios de resolución de conflictos, quedando a discreción de las partes si aceptan o no estos medios de solución alternativas de controversia;
 
-VIII. Suspender el procedimiento de investigación preliminar a prueba, cuando se trate de conductas no consideradas como graves en la Ley. En dichos casos, el adolescente tendrá que realizar convenio con la víctima u ofendido de la conducta típica y se le apercibirá para que no cometa conductas consideradas como delitos en las leyes penales;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Suspender el procedimiento de investigación preliminar a prueba, cuando se trate de conductas no consideradas como graves por esta Ley o, en leyes federales en materia de competencia concurrente. En dichos casos, el adolescente tendrá que realizar convenio con la víctima u ofendido de la conducta típica y se le apercibirá para que no cometa conductas consideradas como delitos en las leyes penales;
 
 El Convenio a que se refiere esta fracción, tendrá necesariamente que ser aceptado por la víctima u ofendido, a quien deberá repararse el daño;
 
@@ -2045,7 +2173,7 @@ El Fiscal especializado, deberá poner el expediente a la vista de la defensa de
 
 ###### Artículo 234.
 
-El Fiscal Especializado, habrá de solicitar a los Tribunales Especializados, la practica de las diligencias que sean necesarias para el buen fin de las investigaciones, las cuales resolverán sobre esta petición por auto debidamente fundado y motivado.
+El Fiscal Especializado, habrá de solicitar a los Tribunales Especializados, la práctica de las diligencias que sean necesarias para el buen fin de las investigaciones, las cuales resolverán sobre esta petición por auto debidamente fundado y motivado.
 
 #### Sección Segunda. Incoación del Expediente Ministerial
 
@@ -2213,9 +2341,11 @@ Son procedimientos de limitación de derechos preventivos: el internamiento como
 
 El Juez de Primera Instancia emitirá la resolución fundada y motivada por escrito autorizando o rechazando la solicitud del Fiscal Especializado. En este último caso el Fiscal podrá impugnar la resolución ante la Sala de Apelación de Justicia para Adolescentes presentando los agravios fundados y motivados por escrito.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 272.
 
-La intervención de comunicaciones privadas serán autorizadas solamente por delitos graves conforme a los procedimientos establecidos en las leyes federales.
+La intervención de comunicaciones privadas serán autorizadas solamente por delitos graves así considerados por esta Ley o, en leyes federales en materia de competencia concurrente, conforme a los procedimientos establecidos en las disposiciones aplicables.
 
 #### Sección Segunda. Del Procedimiento Simplificado
 
@@ -2303,9 +2433,11 @@ La resolución inicial será notificada de inmediato al adolescente, su defensor
 
 En la resolución inicial el Juez de Primera Instancia determinará si procede el internamiento cautelar.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 291.
 
-Cuando la conducta atribuida al adolescente no sea de las consideradas como graves por la ley, el auto de sujeción a proceso se dictará dentro de los tres días siguientes a la fecha en que el adolescente haya rendido su declaración.
+Cuando la conducta atribuida al adolescente no sea de las consideradas como graves por esta Ley o, en leyes federales en materia de competencia concurrente, el auto de sujeción a proceso se dictará dentro de los tres días siguientes a la fecha en que el adolescente haya rendido su declaración.
 
 El plazo señalado en este Artículo se duplicará únicamente cuando así lo solicite el adolescente por si o a través de sus padres, tutores, los que ejerzan la patria potestad o su defensor, siempre que sea con la finalidad de aportar y desahogar pruebas para que el Juez de Primera Instancia resuelva su situación jurídica.
 
@@ -2329,9 +2461,11 @@ III. Que se demuestre la probable responsabilidad del adolescente en los hechos 
 
 Dicha resolución debe ser fundada y motivada por escrito, en la cual el Juez de Primera Instancia relaciona las pruebas ofrecidas por el Fiscal Especializado que demuestran los elementos señalados en las fracciones II y III de este Artículo.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 295.
 
-La orden de presentación se dictará cuando los hechos que puedan ser constitutivos de la conducta considerada como delito por las leyes penales sean considerados como graves por la Ley y contra los adolescentes que tengan más de 14 años de edad.
+La orden de presentación se dictará cuando los hechos que puedan ser constitutivos de la conducta considerada como delito por las leyes penales, y graves por esta Ley o en leyes federales en materia de competencia concurrente, y se trate de adolescentes que tengan más de 14 años de edad.
 
 ###### Artículo 296.
 
@@ -2393,9 +2527,11 @@ Cuando resulte que el menor tiene menos de 12 años cumplidos el Juez de Primera
 
 Cuando resulte que el adolescente tiene 12 años cumplidos y menos de 14 años de edad, el Juez de Primera Instancia decretará de inmediato la libertad del adolescente fijando la caución, notificando a sus padres, tutores o los que ejerzan la patria potestad, asegurándose que el menor regrese con su familia. De lo anterior levantará un acta. El Juez del Tribunal emitirá la resolución inicial.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 311.
 
-Cuando resulte que el adolescente tiene 14 años o más y la conducta típica que se le atribuye no está considerada como grave por la Ley, el Juez de Primera Instancia decretará de inmediato la libertad del adolescente fijando la caución, notificando a sus padres, tutores o los que ejerzan la patria potestad, asegurándose que el menor regrese con su familia. De lo anterior levantará un acta. El juez del Tribunal emitirá la resolución inicial.
+Cuando resulte que el adolescente tenga 14 años o más, y la conducta típica que se le atribuye no está considerada como grave por esta Ley o, en leyes federales en materia de competencia concurrente, el Juez de Primera Instancia decretará de inmediato la libertad del adolescente, fijando la caución y notificando a sus padres, tutores o los que ejerzan la patria potestad, asegurándose que el menor regrese con su familia. De lo anterior, levantará un acta y el juez del Tribunal emitirá la resolución inicial.
 
 ###### Artículo 312.
 
@@ -2413,7 +2549,7 @@ El Juez de Primera Instancia antes de dictar la resolución inicial promoverá l
 
 ###### Artículo 315.
 
-La audiencia preparatoria se llevará a cabo ante el Juez de Primera Instancia con notificación de la resolución inicial se concederá un termino de tres días para que las partes exhiban sus pruebas y se señalará fecha de audiencia, la cual deberá tener verificativo 5 días después de la notificación del (sic) resolución inicial.
+La audiencia preparatoria se llevará a cabo ante el Juez de Primera Instancia con notificación de la resolución inicial se concederá un término de tres días para que las partes exhiban sus pruebas y se señalará fecha de audiencia, la cual deberá tener verificativo 5 días después de la notificación del (sic) resolución inicial.
 
 ###### Artículo 316.
 
@@ -3163,7 +3299,7 @@ VI. A la libertad ambulatoria dentro del centro, solamente limitada por las regl
 
 VII. A visitas familiares;
 
-VIII. A las visitas intimas, siempre que pruebe su estado civil de casado o de conviviente de acuerdo a la legislación aplicable;
+VIII. A las visitas íntimas, siempre que pruebe su estado civil de casado o de conviviente de acuerdo a la legislación aplicable;
 
 IX. A la información de medios de comunicación social;
 
@@ -3534,3 +3670,9 @@ Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor jer
 Artículo Tercero.- Se extingue la Unidad de Ejecución de Medidas como Órgano desconcentrado, por lo tanto los recursos humanos, materiales y financieros, así como los compromisos que haya adquirido se transfieren a la Unidad de Ejecución de Medidas de la Secretaría de Seguridad y Protección Ciudadana.
 
 Artículo Cuarto.- Las dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para el cumplimiento del presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
