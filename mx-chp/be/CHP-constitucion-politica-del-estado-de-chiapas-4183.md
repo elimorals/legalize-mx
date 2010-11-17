@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2010-10-27"
+last_updated: "2010-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -257,7 +257,9 @@ El Instituto de Elecciones y Participación Ciudadana, será competente para con
 
 Il. La Comisión de Fiscalización Electoral, será el órgano del Estado de Chiapas, público, autónomo, con personalidad jurídica y patrimonio propios; será responsable de vigilar y fiscalizar, los gastos de las precampañas, campañas electorales, la transparencia y fiscalización del financiamiento que los partidos políticos, coaliciones, precandidatos y candidatos empleen en sus gastos ordinarios permanentes, de precampaña y campaña electorales; así como de velar por el respeto a las leyes electorales e investigar las violaciones a éstas.
 
-Estará a cargo de un Presidente, quien durará en su encargo siete años y será nombrado por el Congreso del Estado o la Comisión Permanente en su caso, por el voto de la mayoría de sus miembros presentes a propuesta del Ejecutivo; podrá ser removido exclusivamente en los términos del título noveno de esta Constitución.
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Estará a cargo de un Presidente, quien durará en su encargo siete años y será nombrado por el Congreso del Estado o la Comisión Permanente en su caso, por el voto de la mayoría de sus miembros presentes a propuesta del Ejecutivo; podrá ser removido exclusivamente en los términos del Título Décimo de esta Constitución.
 
 La Comisión de Fiscalización Electoral, contará con los órganos necesarios para el adecuado desempeño de sus atribuciones, de acuerdo con lo señalado en la Ley respectiva.
 
@@ -463,11 +465,11 @@ Pierde la calidad de ciudadano chiapaneco quien deje de ser ciudadano mexicano.
 
 La calidad de ciudadano chiapaneco no puede adquirirse por declaratoria del Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
-###### ARTICULO 13.
+###### Artículo 13.
 
-El Estado de Chiapas, tiene una población pluricultural sustentada en sus pueblos indígenas. Esta constitución reconoce y protege a los siguientes pueblos indígenas: Tsental, Tsotsil, Chol, Zoque, Tojolabal, Mame, Kakchiquel, Lacandón, Mocho, Jacalteco, Chuj y Kanjobal.
+El Estado de Chiapas, tiene una población pluricultural sustentada en sus pueblos indígenas. Esta constitución reconoce y protege a los siguientes pueblos indígenas: Tseltal, Tsotsil, Chol, Zoque, Tojolabal, Mame, Kakchiquel, Lacandón, Mocho, Jacalteco, Chuj y Kanjobal.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1999)</small>
 
@@ -637,7 +639,7 @@ IV.- Haber residido en el Estado cuando menos cinco años anteriores a dicha ele
 
 ### CAPITULO I. DE LA INSTITUCIÓN DEL MINISTERIO PÚBLICO
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 18.
 
@@ -869,9 +871,33 @@ XXVII.- Fijar los ingresos que deban integrar la Hacienda de los Municipios, pro
 
 XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se hayan satisfecho los requisitos que la Ley Orgánica establece;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-XXIX.- Para la revisión de la Cuenta Pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
+XXIX. Analizar la cuenta pública del año anterior para verificar, en lo general, si existe, en cuanto a su contenido, congruencia entre las cantidades correspondientes a los ingresos obtenidos y/o a los gatos realizados, con relación a los conceptos y a las partidas respectivas, así como revisarla y fiscalizarla, a través del Órgano de Fiscalización Superior, con el objeto de evaluar los resultados de la gestión financiera de las entidades fiscalizadas; comprobar si se observó lo dispuesto en los respectivos presupuestos de egresos, Ley de Ingresos y demás disposiciones legales aplicables; practicar auditorías sobre el desempeño, para verificar, de manera cualitativa, el cumplimiento de los objetivos y las metas de los programas estatales y municipales, así como comprobar si las políticas públicas en materia de desarrollo social se alinean y cumplen los Objetivos de Desarrollo del Milenio.
+
+En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+
+La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado o a la Comisión Permanente, en los recesos de aquél, a más tardar el treinta de abril del año siguiente al del ejercicio. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud suficientemente justificada, a juicio del Congreso, para lo cual deberá comparecer el secretario del ramo correspondiente o bien el Presidente Municipal del Ayuntamiento respectivo, según se trate de cuenta pública estatal o municipal, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de treinta días naturales y, en tal supuesto, el Órgano de Fiscalización Superior contará con el mismo tiempo adicional para la presentación del informe del resultado de la revisión y fiscalización de la cuenta pública.
+
+En el caso de renovación sexenal del Poder Ejecutivo, la cuenta pública abarcará los tres primeros trimestres del año en curso, la cual deberá ser presentada por el Ejecutivo a más tardar el siete de diciembre del año en curso.
+
+El Congreso, dentro de los treinta días naturales siguientes al de la presentación de la cuenta pública, la aprobará, en lo general, si al analizar su contenido advierte que existe congruencia entre las cantidades correspondientes a los ingresos obtenidos y/o a los gastos realizados, con relación a los conceptos y a las partidas respectivas. De encontrar discrepancias, la devolverá para que, en un término no mayor a diez días naturales, se hagan los ajustes y precisiones conducentes y se presente nuevamente al Congreso, para su aprobación en lo general. De subsistir las discrepancias o incongruencias señaladas, se abstendrá de aprobarla y la remitirá, en un término que no exceda de diez días naturales, al Órgano de Fiscalización Superior para su revisión y fiscalización correspondiente y para determinar las responsabilidades de acuerdo con la Ley. Cuando la cuenta pública sea aprobada en lo general la turnará, en igual término, al referido Órgano para su revisión y fiscalización.
+
+La aprobación, en lo general, de la cuenta pública exime al Ejecutivo de cualquier responsabilidad; de modo que si apareciera alguna con motivo de su revisión y fiscalización, esta será de la exclusiva responsabilidad de las entidades o funcionarios encargados del manejo del presupuesto.
+
+El Órgano de Fiscalización Superior tendrá un plazo no mayor de seis meses, contados a partir de que reciba la correspondiente cuenta pública, para entregar al Congreso, por conducto de la Comisión de Vigilancia, el informe del resultado. Tratándose del ejercicio en que proceda la renovación sexenal del Poder Ejecutivo, deberá rendir en el mismo plazo los informes de resultados, correspondientes a la revisión y fiscalización de la cuenta pública que comprende a los tres primeros trimestres y el relativo a la cuenta pública del último trimestre.
+
+Recibido el informe del resultado de la revisión y fiscalización de la cuenta pública, la Comisión de Vigilancia, en un término que no podrá exceder de dos meses, revisará, analizará y propondrá el sentido del dictamen, con base en el contenido y en las conclusiones técnicas del informe del resultado del Órgano de Fiscalización Superior, para que éste sea sometido a votación del Pleno del Congreso.
+
+El trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano de Fiscalización Superior seguirá su curso, con independencia de la aprobación del dictamen de la Comisión de Vigilancia.
+
+En los casos en que la Comisión de Vigilancia tenga observaciones en relación con el informe del resultado o considere necesario aclarar o profundizar el contenido de éste, podrá solicitar al Órgano de Fiscalización Superior la entrega por escrito de las explicaciones pertinentes, o bien exigir la comparecencia del Auditor Superior, o de otros servidores públicos de ese Órgano, las veces que considere necesarias, a fin de realizar las aclaraciones correspondientes, sin que ello implique la reapertura o modificación del informe del resultado.
+
+Una vez analizada y aprobada en lo general la cuenta pública con base en su contenido, y revisada y fiscalizada por el Órgano de Fiscalización Superior, conforme a las conclusiones técnicas del informe del resultado, a que se refiere el artículo 30 de esta Constitución, no podrá ser motivo de análisis, revisión o fiscalización posterior alguna.
+
+Asimismo, la revisión de conceptos ya fiscalizados con motive de los informes mensuales de cuenta pública y de avance de gestión financiera, no podrán duplicarse.
+
+El Congreso evaluara el desempeño del Órgano de Fiscalización Superior y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
@@ -881,9 +907,9 @@ XXXI.- Pedir la protección de los Poderes de la Unión en caso de trastorno o s
 
 XXXII.- Disponer mediante decreto, el traslado de los Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por conmoción popular o para celebrar actos cívicos y conmemorativos;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-XXXIII.- Recibir del Órgano de Fiscalización Superior del Congreso (sic) Estado los informes a que se refiere la fracción segunda del Artículo 30 de esta Constitución;
+XXXIII. Recibir del Órgano de Fiscalización Superior del Congreso del Estado, los informes a que se refiere la fracción III, del artículo 30 de esta Constitución.
 
 XXXIV.- Publicar su Memoria anual de labores;
 
@@ -939,13 +965,19 @@ LI.- Autorizar al Titular del Poder Ejecutivo así como a los Municipios del Est
 
 El Órgano de Fiscalización Superior del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-El Órgano de Fiscalización Superior, tendrá a su cargo:
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+
+La función de revisión y fiscalización tiene carácter técnico, autónomo, externo y permanente, y será ejercida conforme a los principios de posterioridad, anualidad, legalidad, universalidad, certeza, definitividad, imparcialidad, independencia y confiabilidad. Para esos efectos, el Órgano de Fiscalización Superior, tendrá a su cargo:
 
 I.- Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los entes Públicos Estatales y de los Municipios, incluyendo los recursos de origen federal, en su caso a través de los informes que se rendirán en los términos que disponga la Ley.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
 Sin perjuicio del principio de anualidad, el Órgano de Fiscalización Superior del Congreso del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior del Congreso del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+> <small>(ADICIONADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Una vez analizada y aprobada en lo general la Cuenta Pública, con base en su contenido, y revisada y fiscalizada por el Órgano de Fiscalización Superior, conforme a las conclusiones técnicas del informe de resultado, no podrá ser motivo de análisis, revisión o fiscalización posterior alguna. Asimismo, la revisión de conceptos ya fiscalizados con motivo de los informes mensuales de cuenta pública y de avance de gestión financiera, no podrán duplicarse.
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2010)</small>
 
@@ -1261,13 +1293,13 @@ XXI.- Someter a consideración del Congreso o de la Comisión Permanente, los no
 
 XXII.- Nombrar y remover libremente a los empleados y funcionarios de la Administración Pública del Estado de Chiapas, respetando en todo caso los derechos que les asistan conforme a la Legislación aplicable;
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Nombrar con la ratificación del Congreso, o en su caso de la Comisión Permanente, al Procurador General de Justicia del Estado, al Fiscal Electoral y a los Fiscales de Distrito y removerlos libremente.
+Nombrar con la ratificación del Congreso, o en su caso, de la Comisión Permanente, al Procurador General de Justicia del Estado, al Subprocurador General de Justicia y al Fiscal Electoral y removerlos libremente.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Nombrar y remover libremente a los Fiscales Especializados, a los Fiscales Especiales, al Contralor General de la Procuraduría General de Justicia del Estado y demás servidores públicos que determine su correspondiente Ley Orgánica;
+Nombrar y remover libremente a los Fiscales de Distrito, a los Fiscales Especializados, a los Fiscales Especiales, al Contralor General de la Procuraduría General de Justicia del Estado y demás servidores públicos que determine su correspondiente Ley Orgánica.
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2009)</small>
 
@@ -1290,6 +1322,10 @@ XXVI.- Crear Patronatos en los cuales participe la ciudadanía como coadyuvante 
 XXVII.- Convocar a plebiscito en los términos que establezca esta Constitución y la ley de la materia, la cual dispondrá los requisitos, alcances, términos y procedimientos, a los que estará sujeto el ejercicio de esta facultad.
 
 A través del plebiscito, el titular del Poder Ejecutivo del Estado, podrá consultar a la ciudadanía para que expresen su aprobación o rechazo previo a actos o decisiones del mismo que no interfieran o impliquen actos o resoluciones de los Poderes Legislativo y Judicial;
+
+> <small>(ADICIONADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Convocar la participación ciudadana, a través de consultas, para que expresen su aprobación en materia de cultura y derechos indígenas, en términos del Convenio 169 sobre pueblos indígenas y tribales, de la Organización Internacional del Trabajo.
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1329,9 +1365,9 @@ V.- Satisfacer los demás requisitos que señale la Ley Orgánica de la Administ
 
 El Secretario General de Gobierno deberá, además, ser ciudadano chiapaneco.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
-El Gobernador del Estado deberá nombrar, como máximo al setenta por ciento de personas del mismo sexo como titulares de las Dependencias Organismos y Entidades de la administración pública.
+El Gobernador el (sic) Estado deberá nombrar, como máximo al setenta por ciento de personas del mismo género como titulares de las Dependencias, Organismos y Entidades de la Administración Pública del Estado.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
@@ -1367,121 +1403,65 @@ Los titulares de las dependencias y de las entidades deberán comparecer ante el
 
 ###### ARTICULO 47.
 
-El Ministerio Publico es una institución pública, autónoma de buena fe, la cual tiene por objeto promover la acción de la justicia en defensa de la legalidad, de los derechos de las personas y del interés público tutelado por la ley, de oficio o a petición de los interesados, así como procurar ante los tribunales la satisfacción del interés social. El Ministerio Público ejercerá sus atribuciones por medio de órganos propios, conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción a la legalidad.
+El Ministerio Público es una institución pública, autónoma, de buena fe, tiene por objeto promover la acción de la justicia en defensa de la legalidad de los derechos de las personas y del interés público tutelado por la Ley, de oficio o a petición de los interesados, así como procurar ante los tribunales la satisfacción del interés social.
 
-En el caso de delitos electorales, la Institución del Ministerio Público, actuará por conducto de la Fiscalía Electoral, en términos del artículo 19 de esta Constitución y las disposiciones que fijen las leyes secundarias.
+En el caso de delitos electorales, la institución del Ministerio Público actuará por conducto de la Fiscalía Electoral, en términos de lo dispuesto en el artículo 19, de esta Constitución y las disposiciones que fijen las leyes secundarias.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+En la investigación y persecución de los demás delitos del fuero común, la institución del Ministerio Público ejercerá sus atribuciones a través de la Procuraduría General de Justicia del Estado, auxiliándose de una policía especializada integrada por el Buró Ministerial de Investigación, quien llevará a cabo la investigación de los delitos de orden común, bajo el mando y conducción jurídica de aquel en el ejercicio de esta función, y por la Policía de Apoyo Ministerial, encargada de desempeñar diversas actividades operativas; por lo tanto, corresponderá al Ministerio Público solicitar órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; pedir la aplicación de las penas, así como, velar porque los juicios se tramiten con apego a la Ley para que la justicia sea completa, imparcial, pronta y expedita; vigilar el debido cumplimiento de las penas impuestas; representar los intereses de los menores e incapaces, e intervenir en todos los asuntos que la Ley determine.
 
-En la investigación y persecución de los demás delitos del fuero común la Institución del Ministerio Público, ejercerá sus atribuciones a través de la Procuraduría General de Justicia del Estado, auxiliándose de una policía especializada, integrada por el Buro Ministerial de Investigación, quién llevará a cabo la investigación de los delitos del orden común, bajo el mando y conducción jurídica de aquel en el ejercicio de esta función, y por la Policía de Apoyo Ministerial, encargada de desempeñar diversas actividades operativas; por lo tanto, corresponderá al Ministerio Público solicitar órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; pedir la aplicación de las penas; así como, velar porque los juicios se tramiten con apego a la ley, para que la justicia sea completa, imparcial, pronta y expedita; vigilar el debido cumplimiento de las penas impuestas; representar los intereses de los menores e incapaces, e intervenir en todos los asuntos que la Ley determine.
+La Procuraduría General de Justicia del Estado es un organismo público independiente, jerárquicamente subordinado al Gobernador del Estado, con personalidad jurídica y patrimonio propios. Estará integrada por un Procurador General de Justicia del Estado, quien será su titular y representante legal; un Subprocurador General de Justicia del Estado; ocho Fiscales de Distrito; los Fiscales Especializados, los Fiscales Especiales, y un Fiscal Electoral, además, de un Consejo de Procuración de Justicia y demás personal que señale su Ley Orgánica, quienes tendrán a su cargo las atribuciones propias de la institución del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+Los Fiscales de Distrito conocerán de los asuntos de la Procuraduría General de Justicia del Estado, en jurisdicciones locales de sus respectivos distritos; serán órganos que gozarán de autonomía técnica y ejercerán sus atribuciones a través del principio de unidad, dependencia jerárquica de los Ministerios Públicos de sus respectivos distritos y con sujeción a los principios de imparcialidad y legalidad. La jurisdicción y los municipios que integren los distritos serán determinados mediante acuerdo del Consejo de Procuración de Justicia atendiendo a las necesidades del servicio.
 
-La Procuraduría General de Justicia del Estado es un organismo público independiente, jerárquicamente subordinado al Gobernador del Estado, con personalidad jurídica y patrimonio propios que estará integrado por un Procurador General de Justicia del Estado, quien será su titular y representante legal; ocho Fiscales de Distrito, los Fiscales Especializados, los Fiscales Especiales y un Fiscal Electoral, además, de un Consejo de Procuración de Justicia y demás personal que señale su Ley Orgánica, quienes tendrán a su cargo las atribuciones propias de la institución del ministerio público.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
-
-Los Fiscales de Distrito conocerán de los asuntos de la Procuraduría General de Justicia del Estado, en jurisdicciones locales de sus respectivos distritos; serán órganos que gozarán de autonomía técnica y ejercerán sus atribuciones a través del principio de unidad, dependencia jerárquica de los Ministerios Públicos de sus respectivos distritos y con sujeción a los principios de imparcialidad y legalidad. La Jurisdicción y los Municipios que integren los distritos, serán determinados mediante acuerdo del Consejo de Procuración de Justicia atendiendo a las necesidades del servicio.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2010)</small>
-
-La Procuraduría General de Justicia del Estado contará con las Fiscalías Especializadas que se consideren necesarias, siendo de total importancia contar con las siguientes: Protección a los Derechos de las Mujeres; de Atención al Migrante; en Justicia Indígena; De protección y atención a los organismos no gubernamentales para la defensa de los derechos humanos; además de las establecidas por la Ley Orgánica o que instituya por acuerdo el Ejecutivo del Estado, las que conocerán de los asuntos en razón a su especialización asignada por la Ley; además de las que el Consejo de Procuración de Justicia a propuesta del Procurador General de justicia del Estado cree, las cuales tendrán las atribuciones que el propio Consejo determine.
-
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+La Procuraduría General de Justicia del Estado contará con las Fiscalías Especializadas que se consideren necesarias, siendo de total importancia contar con las siguientes: Protección a los Derechos de las Mujeres; en Delitos cometidos en contra de Inmigrantes; Atención de Periodistas y Libertad de Expresión; Atención a Grupos Sensibles, Vulnerables y en contra de la Discriminación; Justicia Indígena; de Protección y Atención a los Organismos No Gubernamentales y la Defensa de los Derechos Humanos; además de las que establezca su correspondiente Ley Orgánica o instituya por acuerdo el titular del Poder Ejecutivo del Estado, las que conocerán de los asuntos que en razón a su especialización les asigne la ley; además de las Fiscalías Especiales que cree el Gobernador del Estado o el Consejo de Procuración de Justicia a propuesta del Procurador General de Justicia del Estado, las que tendrán las atribuciones que el propio Consejo determine.
 
 El Gobernador del Estado podrá solicitar al Consejo de Procuración de Justicia, el cambio de adscripción de los Fiscales de un distrito a otro.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+El Procurador General de Justicia del Estado elaborará un proyecto general de presupuesto de egresos de la Procuraduría General de Justicia del Estado el cual enviará al Ejecutivo para glosarlo al proyecto de Presupuesto de Egresos del Estado.
 
-El Procurador General de Justicia del Estado elaborará un proyecto general de presupuesto de egresos de la Procuraduría General de Justicia del Estado, el cual enviará al Ejecutivo para glosarlo al proyecto de presupuesto de egresos del Estado.
+La Fiscalía Electoral tendrá jurisdicción en todo el Estado para el desarrollo de la función ministerial en materia de delitos electorales, y formará parte de la Procuraduría General de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
-
-La Fiscalía Electoral tendrá jurisdicción en todo el Estado, para el desarrollo de la función ministerial en materia de delitos electorales y formará parte de la Procuraduría General de Justicia del Estado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 2009)</small>
-
-Para ser nombrado Procurador General de Justicia del Estado, Fiscal Electoral, Fiscal de Distrito, o Fiscal Especializado, se deberán cumplir con los requisitos siguientes:
-
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+Para ser nombrado Procurador General de Justicia del Estado, Subprocurador General de Justicia del Estado, Fiscal Electoral, Fiscal de Distrito, o Fiscal Especializado, se deberá cumplir con los requisitos siguientes:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles.
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
-
 II. Tener cuando menos veinticinco años cumplidos el día de su designación.
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
-
-III. Poseer el día de su designación, con antigüedad mínima de cinco años, titulo y cédula profesional de licenciado en derecho, expedida por autoridad o institución legalmente facultada para ello.
-
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+III. Contar al día de su designación, con una trayectoria mínima de cinco años, título y cédula profesional de licenciado en derecho, expedida por autoridad o institución legalmente facultada para ello.
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2009)</small>
+V. Ser chiapaneco mexicano.
 
-V. Ser Mexicano Chiapaneco.
+VI. Las demás que señale su Ley Reglamentaria.
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+El Procurador General de Justicia del Estado, el Subprocurador General de Justicia y el Fiscal Electoral, serán nombrados por el Titular del Poder Ejecutivo y ratificados por la mayoría de los miembros presentes del Congreso del Estado, o en sus recesos por la Comisión Permanente.
 
-VI. Las demás que señale su ley reglamentaria.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
-
-El Procurador General de Justicia del Estado, el Fiscal Electoral y los Fiscales de Distritos, serán nombrados por el Titular del Poder Ejecutivo y ratificados por la mayoría de los miembros presentes del Congreso del Estado, o en sus recesos por la Comisión Permanente.
-
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
-
-La ratificación o el rechazo del nombramiento, se deberá realizar dentro de un plazo de siete días naturales a la presentación del mismo. Si el Congreso del Estado o la Comisión Permanente no resolvieran dentro de dicho plazo, la designación se tendrá por ratificada; si el nombramiento fuera rechazado, el Ejecutivo deberá presentar nueva propuesta, mientras tanto podrá designar interino para cada cargo.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+La ratificación o el rechazo del nombramiento se deberán realizar dentro de un plazo de siete días naturales a la presentación del mismo. Si el Congreso del Estado o la Comisión Permanente no resolvieran dentro de dicho plazo, la designación se tendrá por ratificada; si el nombramiento fuera rechazado, el Ejecutivo deberá presentar nueva propuesta, mientras tanto podrá designar un interino para cada cargo.
 
 La Ley establecerá la organización y funcionamiento de la Procuraduría General de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+El Procurador General de Justicia del Estado, el Subprocurador General de Justicia, el Fiscal Electoral y los Fiscales de Distrito podrán ser removidos libremente por el titular del Poder Ejecutivo del Estado.
 
-El Procurador General de Justicia del Estado, el Fiscal Electoral y los Fiscales de Distrito podrán ser removidos libremente por el Titular del Poder Ejecutivo del Estado.
+Los Fiscales de Distrito, los Fiscales Especializados y los demás servidores públicos que señale la Ley Orgánica de la Procuraduría General de Justicia del Estado, serán nombrados y removidos libremente por el Titular del Poder Ejecutivo del Estado. Así también los Fiscales Especiales serán nombrados y removidos por el Gobernador del Estado y deberán reunir los mismos requisitos establecidos para los Fiscales de Distrito.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
-
-Los Fiscales Especializados y los demás servidores públicos que señale la Ley Orgánica de la Procuraduría General de Justicia del Estado, serán nombrados y removidos libremente por el titular del Poder Ejecutivo del Estado. Así también los Fiscales Especiales serán nombrados y removidos por el Gobernador del Estado y deberán reunir los mismos requisitos establecidos para los fiscales de distrito.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
-
-El Procurador General de Justicia del Estado, los Fiscales de Distrito y el Fiscal Electoral durarán en su encargo siete años, y podrán ser nombrados para un segundo período.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+El Procurador General de Justicia del Estado, el Subprocurador General de Justicia, los Fiscales de Distrito y el Fiscal Electoral durarán en su cargo siete años, y podrán ser nombrados para un segundo período.
 
 El Procurador General de Justicia del Estado, intervendrá personalmente en las controversias y acciones a que se refiere el artículo 56, de esta Constitución.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+En todos los asuntos en que el Estado sea parte, el Procurador General de Justicia del Estado lo hará por sí o por medio de los funcionarios, y en los demás casos en que deba intervenir la Institución del Ministerio Público, lo harán el Subprocurador General de Justicia, los Fiscales de Distrito y el Fiscal Electoral, por si o por medio de sus funcionarios o fiscales del ministerio público, salvo disposición en contrario.
 
-En todos los asuntos en que el Estado sea parte, el Procurador General de Justicia del Estado lo hará por sí o por medio de los funcionarios y en los demás casos en que deba intervenir la institución del Ministerio Público, lo harán los Fiscales de Distrito y el Fiscal Electoral, por si o por medio de sus funcionarios o Fiscales del Ministerio Público, salvo disposiciones en contrario.
+El Procurador General de Justicia del Estado, el Subprocurador General de Justicia, los Fiscales de Distrito, los Fiscales Especializados, los Fiscales Especiales y el Fiscal Electoral, así como los demás funcionarios de la Institución del Ministerio Público, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo o en el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+El Consejo de Procuración de Justicia, es el órgano colegiado de mayor jerarquía de la Procuraduría General de Justicia del Estado, presidido por el Procurador General de Justicia e integrado por los Fiscales de Distrito. El Fiscal Electoral no formará parte del Consejo.
 
-El Procurador General de Justicia del Estado, los Fiscales de Distrito, los Fiscales Especializados, los Fiscales Especiales y el Fiscal Electoral, así como los demás funcionarios de la institución del Ministerio Público serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo o el ejercicio de sus funciones.
+El Consejo de Procuración de Justicia funcionará en Pleno, sus acuerdos serán tomados por mayoría de votos, sesionará por lo menos cada dos meses y podrá conformar quórum legal con cinco de sus miembros presentes.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
+El Consejo resolverá cualquier solicitud del Ejecutivo del Estado para cambiar de adscripción a los Fiscales de Distrito, así como para crear nuevas Fiscalías Especiales, además, determinará las medidas que tiendan a mejorar el sistema de procuración de justicia en la Entidad, independientemente de las atribuciones que le confiera la Ley Orgánica de la Procuraduría General de Justicia del Estado.
 
-El Consejo de la Procuración de Justicia, es el órgano colegiado de mayor jerarquía de la Procuraduría General de Justicia del Estado, el cual será presidido por el Procurador General de Justicia del Estado e integrado por los Fiscales de Distrito. El Fiscal Electoral no formará parte del Consejo.
+El Procurador General de Justicia del Estado, contará con una Contraloría General, cuyo titular será designado por el Ejecutivo del Estado.
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
-
-El Consejo de Procuración de Justicia funcionará en Pleno; los acuerdos serán tomados por mayoría de votos, sesionará por lo menos cada dos meses y podrá conformar quórum legal con cinco de sus miembros presentes.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
-
-El Consejo de Procuración de Justicia, resolverá cualquier solicitud del Ejecutivo para cambiar de adscripción a los Fiscales de Distrito, así como para crear nuevas Fiscalías Especiales, además, determinará las medidas que tiendan a mejorar el sistema de procuración de justicia en la Entidad, independientemente de las atribuciones que le confiera la Ley Orgánica de la Procuraduría General de Justicia del Estado.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
-
-El Procurador General de Justicia del Estado, contará con una Contraloría General, cuyo titular será designada por el Gobernador del Estado.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2009)</small>
-
-La Contraloría General de la Procuraduría General de Justicia del Estado, tendrá por objeto la fiscalización de los recursos financieros de los órganos que lo integran, así como la sustanciación y aplicación de sanciones administrativas de los funcionarios del mismo, con excepción del Procurador General de Justicia del Estado, los Fiscales de Distrito y el Fiscal Electoral, cuyas faltas serán denunciadas ante el Gobernador del Estado, para la substanciación del procedimiento correspondiente ante el Congreso del Estado.
+La Contraloría General de la Procuraduría General de Justicia del Estado tendrá por objeto la fiscalización de los recursos financieros de los órganos que lo integran, así como la sustanciación y aplicación de sanciones administrativas de los funcionarios del mismo, con excepción del Procurador General de Justicia del Estado, el Subprocurador General de Justicia y el Fiscal Electoral, cuyas faltas serán denunciadas ante el Gobernador del Estado, para la substanciación del procedimiento correspondiente ante el Congreso del Estado.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2010)</small>
 
@@ -1635,9 +1615,9 @@ El Tribunal Superior de Justicia del Estado elaborará su proyecto de presupuest
 
 Cuando ocurriere una vacante definitiva de algún miembro del Tribunal Constitucional por defunción, renuncia, incapacidad o cualquier otra causa se dará aviso inmediato al Titular del Poder Ejecutivo para proceder en los términos del párrafo segundo del artículo 50 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
-El Titular del Ejecutivo Estatal y el Congreso del Estado deberán velar que en el nombramiento de magistrados, tanto del Tribunal Constitucional, como de las Salas Regionales, se incluya como máximo al setenta por ciento de personas del mismo sexo.
+El Titular del Ejecutivo Estatal y el Congreso del Estado deberán velar que en el nombramiento de Magistrados, tanto del Tribunal Constitucional, como de las Salas Regionales, se incluya como máximo al setenta por ciento de personas del mismo género.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
 
@@ -1653,7 +1633,9 @@ Tendrá las siguientes atribuciones:
 
 I. Garantizar la supremacía y control de esta Constitución mediante su interpretación; siempre y cuando no sea contraria a lo establecido en el artículo 133, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos, ni a la jurisprudencia de la Suprema Corte de Justicia de la Nación;
 
-II. Erigirse en Tribunal de Sentencia y conocer de los juicios y procedimientos instaurados a los servidores públicos que incurran en los actos u omisiones a que se refiere el Título Noveno de esta Constitución;
+> <small>(REFORMADA, P. O. 17 DE NOVIEMBRE DE 2010)</small>
+
+II. Erigirse en Tribunal de Sentencia y conocer de los juicios y procedimientos instaurados a los servidores públicos que incurran en los actos u omisiones a que se refiere el Título Décimo de esta Constitución;
 
 III. Conocer de oficio los casos de contradicción de criterios que se susciten entre las Salas Regionales y determinar la aplicación obligatoria de sus resoluciones;
 
@@ -1761,13 +1743,13 @@ Tanto jueces como magistrados tendrán derecho a un haber único a la conclusió
 
 Los beneficios recibidos por conclusión ordinaria del encargo y por razones de edad, así como los estímulos económicos al personal, serán proveídos con cargo al Fondo Auxiliar para la Administración de Justicia, en los términos que determine la Ley.
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Los magistrados exclusivamente podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores, o incurrieron en alguna de las hipótesis previstas en el Título Noveno de esta Constitución y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
+Los Magistrados exclusivamente podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores, o incurrieron en alguna de las hipótesis previstas en el Título Décimo de esta Constitución y las demás que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos por el Consejo de la Judicatura y exclusivamente serán removidos por las causales y en los términos del Título Noveno de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por negligencia en el desempeño de sus labores, o por dejar de reunir alguno de los requisitos que señala la ley para ocupar el cargo.
+Los Jueces de Primera Instancia que durante seis años consecutivos presten sus servicios en el Poder Judicial del Estado, en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos por el Consejo de la Judicatura y exclusivamente serán removidos por las causales y en los términos del Título Décimo de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Chiapas, por negligencia en el desempeño de sus labores, o por dejar de reunir alguno de los requisitos que señala la Ley para ocupar el cargo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1853,13 +1835,13 @@ II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Los Consejeros nombrados a través del procedimiento previsto en el párrafo anterior, actuarán con absoluta independencia de quien los nombre; no deberán ostentarse como sus representantes ni se les otorgará trato preferencial alguno. Durante su encargo exclusivamente podrán ser removidos en los términos del Título Noveno de esta Constitución y las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los magistrados del Tribunal Constitucional, mismas que no podrán ser disminuidas durante el periodo del encargo.
+Los Consejeros nombrados a través del procedimiento previsto en el párrafo anterior, actuarán con absoluta independencia de quien los nombre; no deberán ostentarse como sus representantes ni se les otorgará trato preferencial alguno. Durante su encargo exclusivamente podrán ser removidos en los términos del Título Décimo de esta Constitución y las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los magistrados del Tribunal Constitucional, mismas que no podrán ser disminuidas durante el periodo del encargo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Los Consejeros de la Judicatura deberán ser personas que hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, deberán tener cuando menos treinta años de edad cumplidos al día de la designación y contar con una antigüedad mínima de cinco años en el ejercicio profesional, con título y cédula de licenciado en derecho, además de cumplir con las condiciones establecidas en las fracciones I, IV, V y VI, del artículo 53, de esta Constitución; y ejercerán sus atribuciones con independencia e imparcialidad. Los Consejeros quedarán sujetos a las responsabilidades que establece el Titulo Noveno de esta Constitución, el Código de Organización del Poder Judicial del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los Consejeros de la Judicatura deberán ser personas que se hayan distinguido por su Capacidad, honestidad y honorabilidad en el ejercicio de su profesión, deberán tener cuando menos treinta años de edad cumplidos al día de la designación y contar con una antigüedad mínima de cinco años en el ejercicio profesional, con título y cédula de licenciado en derecho, además de cumplir con las condiciones establecidas en las fracciones I, IV, V y VI, del artículo 53, de esta Constitución; y ejercerán sus atribuciones con independencia e imparcialidad. Los Consejeros quedarán sujetos a las responsabilidades que establecen el Título Décimo de esta Constitución, el Código de Organización del Poder Judicial del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2149,11 +2131,11 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refiere este Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 71.
 
-Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados Locales; los Magistrados y los Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado; los Secretarios de Despacho; el Procurador General de Justicia del Estado; Fiscales de Distrito y el Fiscal Electoral; el Presidente de la Comisión de Fiscalización Electoral; los Coordinadores Generales; los Presidentes Municipales; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; los Consejeros del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
+Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados locales; los Magistrados y los Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado; los Secretarios de Despacho; el Procurador General de Justicia del Estado; el Subprocurador General de Justicia y el Fiscal Electoral; el Presidente de la Comisión de Fiscalización Electoral; los Coordinadores Generales; los Presidentes Municipales; los Consejeros Electorales del Instituto de Elecciones y Participación Ciudadana; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal, Fideicomisos Públicos; los Consejeros del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1983)</small>
 
@@ -2171,7 +2153,7 @@ En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribuna
 
 Las sanciones consistirán en la destitución del Servidor Público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ## TITULO OCTAVO. DE LOS MUNICIPIOS
 
@@ -2179,7 +2161,7 @@ Las sanciones consistirán en la destitución del Servidor Público y en su inha
 
 ###### ARTICULO 72.
 
-Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados Locales; por los Magistrados y Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado; Fiscales de Distrito y el Fiscal Electoral; el Presidente de la Comisión de Fiscalización Electoral; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Consejeros Electorales y el Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; los Consejeros del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado; en estos casos, el Congreso del Estado o en su caso la Comisión Permanente, erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Cuando se trate de actos u omisiones sancionados por la Ley Penal cometidos por el Gobernador del Estado; por los Diputados locales; por los Magistrados y Consejeros de la Judicatura del Tribunal Superior de Justicia del Estado; por los Secretarios y Subsecretarios de Despacho; por el Procurador General de Justicia del Estado, por el por el (sic) Subprocurador General de Justicia y el Fiscal Electoral; el Presidente de la Comisión de Fiscalización Electoral; los Coordinadores Generales; los Presidentes, Síndicos y Regidores Municipales; los Consejeros Electorales y el Secretario Ejecutivo del Instituto de Elecciones y Participación Ciudadana; los Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Estatal y de Fideicomisos Públicos; los Consejeros del Consejo Estatal de los Derechos Humanos; y el Auditor Superior del Estado; el Congreso del Estado o en su caso la Comisión Permanente erigidos en jurado declarará por dos tercios de los votos de sus miembros presentes, cuando se trate del Gobernador, y por mayoría relativa cuando se trate de los otros servidores públicos enunciados en este precepto, si ha lugar o no a formación de causa. En caso afirmativo, quedará el acusado por ese sólo hecho, separado de su encargo y sujeto a la acción de los tribunales del orden común; si ésta culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En caso negativo, no habrá lugar a procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3900,3 +3882,11 @@ Artículo Octavo.- Las instancias normativas del Poder Ejecutivo del Estado, en 
 Artículo Noveno.- Para los efectos del párrafo séptimo, del artículo 50, que por este Decreto se reforma, el porcentaje mínimo del presupuesto asignado al Poder Judicial, se efectuará de manera gradual, siendo en el ejercicio 2011 no inferior al 1% del gasto programable y, en el 2012, no inferior al 2%.
 
 Artículo Décimo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P. O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Tratándose de lo dispuesto en el Título Décimo de la Constitución Política del Estado de Chiapas, hasta en tanto entre en funciones el Consejo Estatal de los Derechos Humanos, el Presidente de la Comisión de los Derechos Humanos estará sujeto al régimen de responsabilidades que señala ese Título.
+
+Artículo Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
