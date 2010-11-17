@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2010-04-17"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CODIGO DE EJECUCION DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -1387,9 +1387,11 @@ En los establecimientos destinados a la reclusión de mujeres, ningún funcionar
 
 ### Capítulo II. De los Servicios Médicos Básicos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 146.
 
-Cada Centro contará con un Médico General y con un Psicólogo, encargados de cuidar de la salud física y emocional de los internos y de vigilar las condiciones de higiene y salubridad en el establecimiento, los cuales podrán, en su caso, solicitar la colaboración de especialistas; igualmente habrá una enfermera y un Médico Odontólogo, así como el personal auxiliar adecuado.
+Cada Centro contará con un médico general y con un psicólogo, encargados de cuidar de la salud física y emocional de los internos y de vigilar las condiciones de higiene y salubridad en el establecimiento, los cuales podrán, en su caso, solicitar la colaboración de especialistas; igualmente habrá una enfermera y un médico odontólogo, así como el personal profesional y técnico auxiliar adecuado; asimismo cada Centro deberá contar con un área especial para aplicar el tratamiento por farmacodependencia con fines de rehabilitación, en el cual se proporcionará este servicio gratuito a toda persona que lo requiera, con respeto a la integridad y la libre decisión del farmacodependiente en cuanto a su aceptación; quedando la autoridad de cada Centro a guardar confidencialidad de cada interno.
 
 Además de los servicios médicos de los Centros, los internos podrán ser asistidos en las instituciones hospitalarias y asistenciales de carácter penitenciario y, en caso de necesidad o de urgencia, en otros centros hospitalarios. Para ello, las autoridades penitenciarias celebrarán convenios con dependencias del Sector Salud.
 
@@ -1972,3 +1974,9 @@ Artículo Tercero: Los compromisos adquiridos por el Consejo de Ejecución de Sa
 Artículo Cuarto: Las instancias normativas, en el ámbito de sus respectivas competencias deberán llevar a cabo de inmediato las adecuaciones administrativas y presupuestales que seden con motivo a esta reforma y deberán sujetarse a los principios de racionalidad y austeridad.
 
 Artículo Quinto: Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
