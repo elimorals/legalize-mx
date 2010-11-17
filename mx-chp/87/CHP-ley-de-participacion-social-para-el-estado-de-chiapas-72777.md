@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-participacion-social-para-el-estado-de-chiapas-72777"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-30"
-last_updated: "2010-11-05"
+last_updated: "2010-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PARTICIPACION SOCIAL PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Chiapas, el miércoles 30 de diciembre de 2009.
 
@@ -175,7 +175,9 @@ d) De Salud, Potabilización y Protección Civil.
 
 e) De Motor para la Economía Familiar, Amanecer y Equidad de Género.
 
-Cada Comité contará con tres vocales, a excepción del señalado en el inciso b), de la fracción I, del presente artículo, mismo que contará con dos vocales, de entre los cuales, ellos elegirán al Presidente.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+
+Cada Comité contará con tres vocales, a excepción del señalado en el inciso b), de la fracción I, del presente artículo, mismo que contará con dos vocales. De entre los vocales de cada Comité, ocupara el cargo de Presidente quien obtenga el mayor número de votos.
 
 La representación de las Asambleas de Barrios estará a cargo del Presidente de cada Comité, conforme al tema específico que al efecto corresponda.
 
@@ -294,3 +296,9 @@ Artículo Quinto.- No se generará pago alguno, por concepto de los derechos que
 Artículo Sexto.- Para el proceso de elecciones de los integrantes de las Asambleas de Barrios, la Secretaría de Hacienda, ministrará al Instituto de Elecciones y Participación Ciudadana, los recursos necesarios.
 
 Artículo Séptimo.- La Secretaría de Desarrollo y Participación Social, deberá proponer al Titular del Ejecutivo del Estado, la adecuación o en su caso, expedición del Reglamento de la presente Ley.
+
+P.O. 17 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
