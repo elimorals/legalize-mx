@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2010-09-07"
+last_updated: "2010-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -65,11 +65,11 @@ Es responsabilidad del titular del Ejecutivo Estatal conducir la planeación par
 
 El desarrollo del Estado y Municipios se sustenta en el proceso de planeación democrática, en congruencia con la planeación nacional del desarrollo, integrando al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, los planes de desarrollo municipal, los programas sectoriales, regionales y especiales; y su ejecución atenderá a los plazos y condiciones que requiera su estrategia.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-La planeación democrática para el desarrollo se sustenta en los principios de simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso y destino de los recursos.
+La planeación democrática para el desarrollo se sustenta en los principios de igualdad, no discriminación, simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso y destino de los recursos, tomando en cuenta la perspectiva de género.
 
 > <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -130,6 +130,10 @@ Mediano plazo. Período de más de un año y hasta tres años para el Gobierno M
 Meta. Dimensionamiento del objetivo que se pretende alcanzar en términos de cantidad, tiempo y espacio determinados, con los recursos necesarios.
 
 Objetivo. Expresión cualitativa de un propósito que se pretende alcanzar en un tiempo y espacio específicos a través de determinadas acciones.
+
+> <small>(ADICIONADO, G.G. 17 DE NOVIEMBRE DE 2010)</small>
+
+Perspectiva de Género. Visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres y los hombres contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
 Planeación estratégica. Proceso que orienta a las dependencias, organismos, entidades públicas y unidades administrativas de los gobiernos estatal y municipales para establecer su misión, definir sus propósitos y elegir las estrategias para la consecución de sus objetivos, así como para determinar el grado de necesidades a los que ofrece sus bienes o servicios y enfatiza la búsqueda de resultados satisfactorios a sus propósitos vinculados con los objetivos de la estrategia del desarrollo estatal.
 
@@ -233,7 +237,9 @@ II. Vigilar en coordinación con las demás dependencias, organismos, unidades a
 
 III. Coordinar las actividades de análisis y asistencia técnica, cuando así le sea requerido;
 
-IV. Formular e integrar las reglas, criterios y metodología para las unidades de información, planeación, programación y evaluación;
+> <small>(REFORMADA, G.G. 17 DE NOVIEMBRE DE 2010)</small>
+
+IV. Formular e integrar las reglas, criterios y metodología para las unidades de información, planeación, programación y evaluación; así como promover la construcción de indicadores que permitan evaluar el impacto de las políticas públicas contenidas en el Plan desde una perspectiva de género, para que las acciones de gasto público reflejen la equidad en los beneficios del desarrollo;
 
 V. Asegurar, mediante los procesos de planeación estratégica, la congruencia organizativa de las acciones, respecto del Plan Estatal de Desarrollo;
 
@@ -281,7 +287,9 @@ VI. Asegurar, mediante los procesos de planeación estratégica, la congruencia 
 
 VII. Supervisar la correcta vinculación de los programas y presupuestos de los organismos o entidades públicas sectorizados en la dependencia bajo su cargo, con los objetivos y metas del Plan Estatal de Desarrollo y sus programas;
 
-VIII. Generar, proporcionar y utilizar la información oficial del Estado de México, a través de las unidades de información, planeación, programación y evaluación;
+> <small>(REFORMADA, G.G. 17 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Generar, proporcionar y utilizar la información oficial del Estado de México, a través de las unidades de información, planeación, programación y evaluación; e incorporar el uso y aplicación de estadísticas e indicadores en el proceso de planeación, para impulsar el desarrollo equitativo de las mujeres y los hombres en todos los sectores de la atención pública;
 
 IX. Proponer el presupuesto por programas para la ejecución de las acciones que correspondan al área de su competencia;
 
@@ -750,3 +758,9 @@ SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 TERCERO.- El Ejecutivo del Estado emitirá las disposiciones reglamentarias para el funcionamiento del Sistema Estatal en un plazo no mayor de seis meses contados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 17 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
