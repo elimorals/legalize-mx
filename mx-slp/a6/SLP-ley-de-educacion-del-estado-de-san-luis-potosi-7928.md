@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2010-07-20"
+last_updated: "2010-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -253,13 +253,17 @@ VII.- Constituir el Sistema Estatal de Formación, Capacitación, Actualización
 
 VIII.- Expedir los certificados y otorgar las constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios, de conformidad con los requisitos establecidos en los planes y programas correspondientes;
 
-IX.- Revalidar y otorgar equivalencias de estudios de educación primaria, secundaria, normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación de la Administración Pública Federal expida;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+IX.- Revalidar y otorgar equivalencias de estudios de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación de la Administración Pública Federal expida;
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 X.- Concertar acciones y establecer convenios con instituciones de educación superior, para que sus egresados presten servicio social en escuelas de las comunidades rurales, zonas urbanas marginadas y regiones habitadas por las comunidades indígenas de la Entidad;
 
-XI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+XI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
 XII.- Llevar el registro y control de todas las instituciones, que ofrezcan servicios educativos de cualquier tipo, nivel o modalidad;
 
@@ -331,7 +335,9 @@ II.- Determinar y formular planes y programas de estudios, distintos de los prev
 
 III.- Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción IX del artículo 22 de esta Ley, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública Federal expida;
 
-IV.- Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los de primaria, secundaria, normal y demás para la formación de maestros de educación básica que impartan los particulares;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+IV.- Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos de los de preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica que impartan los particulares;
 
 V.- Editar libros complementarios y materiales didácticos de apoyo a los libros de texto gratuito para los distintos niveles educativos, con la participación de educadores y de la sociedad;
 
@@ -607,9 +613,11 @@ La calidad de institución autónoma de educación superior, sólo podrá ser re
 
 Del Calendario Escolar.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 47.
 
-El Calendario Escolar Estatal será el que determine la Secretaría de Educación de la Administración Pública Federal, para cada ciclo lectivo aplicable en la educación primaria, secundaria, normal y demás para la formación de docentes; contiene 200 días de clases para los educandos y podrá ser ajustado más no reducido, por la autoridad educativa local cuando ello resulte necesario en atención a requerimientos específicos de la Entidad, conforme al artículo 51 de la Ley General de Educación.
+El Calendario Escolar Estatal será el que determine la Secretaría de Educación de la Administración Pública Federal, para cada ciclo lectivo aplicable en la educación preescolar, primaria, secundaria, normal y demás para la formación de docentes; contiene 200 días de clases para los educandos y podrá ser ajustado más no reducido, por la autoridad educativa local cuando ello resulte necesario en atención a requerimientos específicos de la Entidad, conforme al artículo 51 de la Ley General de Educación.
 
 ###### ARTICULO 48.
 
@@ -849,7 +857,9 @@ II.- Desarrollarán programas de apoyo, incluidos los de carácter económico, a
 
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
-IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la primaria y la secundaria;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+IV.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la educación preescolar, primaria y secundaria, otorgando facilidades de acceso, reingreso, permanencia y egreso;
 
 V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
@@ -903,7 +913,9 @@ I.- Con el personal que acredite la preparación adecuada para impartir educaci�
 
 II.- Con instalaciones escolares que satisfagan las condiciones higiénicas pedagógicas y de seguridad para los usuarios, así como para el personal docente, administrativo y manual; y
 
-III.- Con planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+III.- Con planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta de la preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica.
 
 ###### ARTICULO 79.
 
@@ -1019,7 +1031,9 @@ VIII.- Los demás establecidos en las leyes y reglamentos respectivos.
 
 Son obligaciones de quienes ejercen la patria potestad o la tutela:
 
-I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación primaria y secundaria;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación preescolar, primaria y secundaria;
 
 II.- Apoyar el proceso educativo de sus hijos o pupilos;
 
@@ -1195,7 +1209,9 @@ III.- Suspender clases en días y horas no autorizadas por el calendario escolar
 
 IV.- No utilizar los libros de texto que la Secretaría de Educación de la Administración Pública Federal autorice y determine para la educación primaria y secundaria;
 
-V.- Incumplir los lineamientos generales para el uso de material educativo para la educación primaria y secundaria;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+V.- Incumplir los lineamientos generales para el uso de material educativo para la educación preescolar, primaria y secundaria;
 
 VI.- Dar a conocer antes de su aplicación, el examen u otro tipo de instrumento de evaluación, admisión o acreditación a quienes habrán de sustentarlo;
 
@@ -1235,7 +1251,9 @@ I.- Ostentarse como plantel incorporado sin estarlo;
 
 II.- Incumplir con lo dispuesto en el artículo 82; y
 
-III.- Impartir la educación, primaria, secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+III.- Impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente.
 
 En los supuestos previstos en este artículo, además de la aplicación de las sanciones señaladas en la fracción primera del artículo 96, podrá procederse a la clausura del plantel respectivo.
 
@@ -1562,6 +1580,12 @@ TERCERO. Se derogan todas las disposiciones legales y administrativas que se opo
 P.O. 20 DE JULIO DE 2010.
 
 DECRETO 311 UNICO POR EL QUE SE REFORMA EL ARTICULO 49 DE LA LEY DE EDUCACION DEL ESTADO.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2010.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
