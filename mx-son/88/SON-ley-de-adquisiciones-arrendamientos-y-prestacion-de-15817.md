@@ -4,7 +4,7 @@ identifier: "SON-ley-de-adquisiciones-arrendamientos-y-prestacion-de-15817"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-08"
-last_updated: "2010-07-05"
+last_updated: "2010-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACION PUBLICA ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 1988.
 
@@ -81,13 +81,21 @@ VIII. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, co
 
 IX. Fabricante o productor regional: Son las personas físicas o morales que lleven a cabo procesos de elaboración, producción, transformación, reparación, industrialización u otros similares, de los cuales se obtengan productos terminados o semiterminados; siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal, al menos con un año de antigüedad en el Estado;
 
-> <small>(ADICIONADA, B.O. 5 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2010)</small>
 
-X. Productos o mercancías regionales: Son los bienes y servicios desarrollados o transformados por fabricantes o productores regionales; y
+X. Productos o mercancías regionales: Son los bienes y servicios desarrollados o transformados por fabricantes o productores regionales;
 
-> <small>(ADICIONADA, B.O. 5 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2010)</small>
 
-XI. Distribuidor regional: Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo; siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal, al menos con un año de antigüedad en el Estado.
+XI. Distribuidor regional: Es la persona física o moral que distribuye productos regionales o foráneos, del tipo específico a que se refiere el procedimiento de adquisición, arrendamiento o servicio respectivo; siempre y cuando tengan el asiento principal de sus negocios y su domicilio fiscal, al menos con un año de antigüedad en el Estado;
+
+> <small>(ADICIONADA, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+XII. Ofertas subsecuentes de descuentos: modalidad utilizada en las licitaciones públicas, en la que los licitantes, al presentar sus proposiciones, tienen la posibilidad de que, con posterioridad a la presentación y apertura del sobre cerrado que contenga su propuesta económica, realicen una o más ofertas subsecuentes de descuentos que mejoren el precio ofertado en forma inicial, sin que ello signifique la posibilidad de variar las especificaciones o características originalmente contenidas en su proposición técnica. En esta modalidad, el contrato se adjudicará al licitante que haya ofertado el precio más bajo en los términos que establezca la ley y su reglamento; y
+
+> <small>(ADICIONADA, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+XIII. Licitante: la persona que participe en cualquier procedimiento de licitación pública o bien de invitación a cuando menos tres personas.
 
 > <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1992)</small>
 
@@ -281,6 +289,24 @@ Tratándose de bienes cuyo proceso de fabricación sea superior a sesenta días,
 
 En atención a programas para incentivar los sectores de la economía regional, se podrán realizar licitaciones regionales en las cuales únicamente puedan participar personas con residencia en el Estado, en apego a las disposiciones que establezca para el efecto el Reglamento.
 
+> <small>(ADICIONADO, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+Previo al inicio de los procedimientos de contratación previstos en este artículo, las dependencias y entidades deberán realizar una investigación de mercado de la cual se desprendan las condiciones que imperan en el mismo, respecto del bien, arrendamiento o servicio objeto de la contratación, a efecto de buscar las mejores condiciones para el Estado.
+
+> <small>(ADICIONADO, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 19 BIS.- Las licitaciones públicas podrán llevarse a cabo a través de medios electrónicos, conforme a las disposiciones administrativas que emita la Secretaría de la Contraloría.
+
+La Secretaría de la Contraloría operará y se encargará del sistema de certificación de los medios de identificación electrónica que utilicen las dependencias, entidades o los licitantes y será responsable de ejercer el control de estos medios, salvaguardando la confidencialidad de la información que se remita por esta vía.
+
+La Secretaría de la Contraloría podrá aceptar la certificación o identificación electrónica que otorguen las dependencias y entidades, las entidades federativas, municipios y los entes públicos de unas y otros, así como terceros facultados por autoridad competente en la materia, cuando los sistemas de certificación empleados se ajusten a las disposiciones que emita la Secretaría de la Contraloría.
+
+El sobre que contenga la proposición de los licitantes deberá entregarse en la forma y medios que prevea la convocatoria a la licitación.
+
+Las proposiciones presentadas deberán ser firmadas autógrafamente por los licitantes o sus apoderados; en el caso de que éstas sean enviadas a través de medios remotos de comunicación electrónica, se emplearán medios de identificación electrónica, los cuales producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
+
+En las licitaciones públicas se podrá utilizar la modalidad de ofertas subsecuentes de descuentos para la adquisición de bienes muebles o servicios cuya descripción y características técnicas puedan ser objetivamente definidas y la evaluación legal y técnica de las proposiciones de los licitantes se pueda realizar en forma inmediata, al concluir la celebración del acto de presentación y apertura de proposiciones, conforme a los lineamientos que expida la Secretaría de la Contraloría, siempre que las dependencias o entidades convocantes justifiquen debidamente el uso de dicha modalidad y que constaten que existe competitividad suficiente de conformidad con la investigación de mercado correspondiente.
+
 ###### ARTICULO 20.
 
 Las convocatorias públicas, que podrán referirse a uno o varios pedidos o contratos, se publicarán, al menos, en uno de los periódicos de mayor circulación en el Estado y contendrán, enunciativamente:
@@ -297,9 +323,17 @@ IV.- La información, en su caso, sobre los anticipos.
 
 V.- La fecha límite para la inscripción en el proceso de adjudicación, que deberá fijarse en un plazo no menor de diez días hábiles, contados a partir de la fecha de la publicación de la convocatoria.
 
-VI.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones; y
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2010)</small>
 
-VII.- Los requisitos que deberán cumplir los interesados.
+VI. El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones;
+
+> <small>(REFORMADA, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+VII. Los requisitos que deberán cumplir los interesados; y
+
+> <small>(ADICIONADA, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+VIII. En su caso, la indicación sobre si se utilizara algún mecanismo de ofertas subsecuentes de descuentos, y que ninguna de las condiciones contenidas en las bases de licitación, así como en las proposiciones presentadas por los licitantes, podrán ser negociadas.
 
 > <small>(REFORMADO, B.O. 5 DE JULIO DE 2010)</small>
 
@@ -310,6 +344,10 @@ Las bases de cada licitación deberán contener la descripción completa de los 
 Todo interesado que satisfaga los requisitos de la convocatoria, las bases y las especificaciones de la licitación tendrá derecho a presentar proposiciones.
 
 En el acto de apertura de ofertas, se procederá a dar lectura en voz alta a las propuestas presentadas por cada uno de los interesados, informándose de aquéllas que, en su caso, se desechen o hubieren sido desechadas y las causas que motiven tal determinación.
+
+> <small>(ADICIONADO, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+En el caso de las proposiciones presentadas por medios remotos de comunicación electrónica, los sobres serán generados mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto establezca la Secretaría de la Contraloría. La apertura será pública a través de medios remotos de comunicación electrónica.
 
 ###### ARTICULO 22.
 
@@ -358,6 +396,18 @@ La dependencia o entidad convocante levantará acta circunstanciada del acto de 
 Contra la resolución que contenga el fallo no procederá recurso alguno; pero los interesados podrán inconformarse ante la convocante o ante la Secretaria de la Contraloría General del Estado, en los términos del artículo 36 de esta Ley.
 
 La dependencia o entidad convocante, no adjudicarán el pedido o contrato cuando las posturas presentadas no fueran aceptables y procederán a expedir una nueva convocatoria.
+
+> <small>(ADICIONADO, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+Tratándose de licitaciones en las que se utilice la modalidad de ofertas subsecuentes de descuentos, en el acta referida en este artículo, y una vez elaborada la evaluación correspondiente, se señalará la fecha, hora y lugar en la que se dará inicio a la presentación de ofertas subsecuentes de descuentos.
+
+> <small>(ADICIONADO, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+Tratándose de licitaciones en las que se utilice la modalidad de ofertas subsecuentes de descuento, el contrato se adjudicará a quien oferte el precio más bajo que resulte del uso de dicha modalidad, siempre y cuando, la proposición resulte solvente, porque cumple con los requisitos legales, técnicos y económicos establecidos en las (sic) convocatoria pública de licitación, y por tanto garantiza el cumplimiento de las obligaciones respectivas.
+
+> <small>(ADICIONADO, B.O. 18 DE NOVIEMBRE DE 2010)</small>
+
+Cuando en licitaciones participen micros, pequeñas y medianas empresas sonorenses, las dependencias deberán tomar en consideración el grado de participación de las mismas y, en su caso, valorar en adición a los beneficios que se buscan con la implementación de la modalidad de ofertas de descuentos subsecuentes, el posible perjuicio en términos de competitividad para dicho sector. Para ello se deberá tomar en consideración los mecanismos a favor de dicho sector que contempla la presente ley.
 
 > <small>(ADICIONADO, B.O. 5 DE JULIO DE 2010)</small>
 
@@ -826,3 +876,9 @@ DECRETO NUMERO 52, POR EL QUE SE ADICIONA UN ARTICULO CUARTO TRANSITORIO AL DECR
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 18 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
