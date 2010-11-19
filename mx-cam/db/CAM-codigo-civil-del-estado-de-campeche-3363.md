@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2009-07-16"
+last_updated: "2010-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -169,7 +169,7 @@ I.- La Nación, los Estados y los Municipios;
 
 II.- Las demás corporaciones de carácter público reconocidas por la ley;
 
-III.- La sociedades civiles o mercantiles;
+III.- Las sociedades civiles o mercantiles;
 
 IV.- Los sindicatos, las asociaciones profesionales y todas las demás corporaciones, asociaciones o sociedades que tengan personalidad jurídica conforme a las leyes;
 
@@ -987,6 +987,8 @@ Del matrimonio.
 
 De los requisitos para contraer matrimonio.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 ###### Art. 150.
 
 La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
@@ -1029,7 +1031,7 @@ De los derechos y obligaciones que nacen del matrimonio.
 
 ###### Art. 157.
 
-El matrimonio debe celebrarse ante los funcionarios que establezca la ley y con las formalidades que ella exige.
+El matrimonio debe celebrarse ante los funcionarios que establezca la ley y con las formalidades que ella exige; previa asistencia de los interesados a pláticas de orientación prematrimonial, de conformidad con las modalidades que reglamente la correspondiente autoridad del Registro Civil, en coordinación con el personal especializado del Sistema para el Desarrollo Integral de la Familia del Estado o de las instituciones públicas o privadas con quienes celebre convenios de colaboración.
 
 ###### Art. 158.
 
@@ -1837,15 +1839,17 @@ Para que pueda pedirse el divorcio por causa de enajenación mental que se consi
 
 El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 287, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
+(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010) (F. DE E., P.O. 10 DE DICIEMBRE DE 2010)
 
 ###### Art. 294.
 
 El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 1998)</small>
+> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Antes de admitir la demanda de divorcio el juez ordenará la celebración de una junta de avenio en la que se exhortará a los cónyuges a la reconciliación y les hará saber los efectos legales de la disolución del matrimonio y sus consecuencias sociales para la desintegración de la familia. De no presentarse una de las partes o no darse la reconciliación, se admitirá la demanda.
+Al admitir la demanda de divorcio, el juez dictará de inmediato las medidas provisionales y ordenará, con apercibimiento de ley, la celebración de una junta de avenio, en la que se exhortará, a los cónyuges a la reconciliación y les hará saber los efectos legales de la disolución del matrimonio y las consecuencias sociales de la desintegración de la familia.
+
+De no presentarse alguna de las partes, se aplicarán los medios de apremio, hasta lograr su comparecencia; excepto cuando se desconozca el domicilio del cónyuge demandado o cuando se haya invocado como causal de divorcio las previstas en las fracciones X y XXI del artículo 287 del presente ordenamiento.
 
 ###### Art. 295.
 
@@ -1889,7 +1893,7 @@ Todas las determinaciones a que este artículo y los artículos 300 y 301 se con
 
 ###### Art. 300.
 
-Los divorciados conservarán en todo caso el ejercicio de la patria potestad sobre sus hijos menores. El juez de lo familiar, oyendo el parecer de los menores respecto de con quien de sus padres o ascendientes deseen quedar, y considerando su edad y sexo, y la preparación cultural, profesión u oficio, situación económica, hábitos y fama pública de los padres, así como otros elementos de juicio que le permitan deducir con quien de ellos los hijos tendrán asegurado su bienestar físico y mental, con las más amplias facultades resolverá en la sentencia todo lo relativo a la custodia y cuidado de dichos hijos.
+Los divorciados conservarán en todo caso el ejercicio de la patria potestad sobre sus hijos menores. El juez de lo familiar, oyendo el parecer de los menores respecto de con quién de sus padres o ascendientes deseen quedar, y considerando su edad y sexo, y la preparación cultural, profesión u oficio, situación económica, hábitos y fama pública de los padres, así como otros elementos de juicio que le permitan deducir con quién de ellos los hijos tendrán asegurado su bienestar físico y mental, con las más amplias facultades resolverá en la sentencia todo lo relativo a la custodia y cuidado de dichos hijos.
 
 Para ese efecto, durante el curso del juicio, de oficio y con auxilio de los representantes del Ministerio Público y de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, el juzgador procurará allegarse esos elementos. Si ninguno de los padres reuniere las condiciones necesarias para garantizar el mencionado bienestar, el juez podrá confiar la custodia y cuidado de los menores a otro de sus ascendientes, paterno o materno, que sí las satisfaga, o les nombrará un tutor o dispondrá su entrega a una institución de beneficiencia (sic) pública o privada.
 
@@ -2627,7 +2631,7 @@ IV.- Las Instituciones de Asistencia Social Públicas o Privadas que lo hubieran
 
 V.- El Ministerio Público adscrito al Juzgado Familiar del que conozca la adopción, cuando no se den las hipótesis anteriores.
 
-Si el menor que va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
 
@@ -3659,7 +3663,7 @@ El término para formar el inventario no podrá ser mayor de seis meses;
 
 IV.- A administrar el caudal de los incapacitados. El pupilo será consultado para los actos importantes de la administración cuando es capaz de discernimiento y mayor de dieciséis años.
 
-La administración de los bienes que el pupilo ha adquirido con su trabajo le corresponden a él y no al tutor;
+La administración de los bienes que el pupilo ha adquirido con su trabajo le corresponden (sic) a él y no al tutor;
 
 V.- A representar al incapacitado en juicio y fuera de él en todos los casos civiles, con excepción del matrimonio, del reconocimiento de hijos, del testamento y de otros estrictamente personales;
 
@@ -4553,7 +4557,7 @@ Lo dispuesto en los dos artículos anteriores, debe entenderse sin perjuicio de 
 
 ###### Art. 731.
 
-Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, sus acciones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
+Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, sus acciones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan (sic) con él relaciones jurídicas.
 
 ### CAPITULO II.
 
@@ -4585,17 +4589,23 @@ Son objeto del patrimonio de la familia:
 
 I.- La casa habitación de la familia;
 
-II.- Una parcela cultivable cuya extensión no podrá ser mayor que la fijada a la pequeña propiedad en las leyes relativas;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+II.- El lote destinado a la construcción de casa-habitación, siempre que la familia no cuente con una, así como una parcela cultivable cuya extensión no podrá ser mayor que la fijada a la pequeña propiedad en las leyes relativas;
 
 III.- La casa y una parcela, cuando el valor de ambos bienes no exceda del valor máximo que determina el artículo 742.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 ###### Art. 736.
 
-La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
+La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente, derecho que subsistirá para los hijos y el cónyuge inocente o el que quede con la custodia de aquéllos, cuando se haya disuelto el vínculo matrimonial.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Art. 737.
 
-Tienen derecho de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. En lo que respecta a la casa, solamente serán beneficiarias las personas mencionadas, cuando la habiten. Los derechos que otorga este artículo son intransmisibles; pero debe tenerse en cuenta lo dispuesto en el artículo 752.
+Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela afecta al patrimonio de la familia, el cónyuge del que lo constituye y las personas a quienes tiene obligación de dar alimentos. Los derechos que otorga este artículo son intransmisibles; pero debe tenerse en cuenta lo dispuesto en el artículo 752.
 
 ###### Art. 738.
 
@@ -16038,6 +16048,14 @@ Primero.- El presente decreto entrará en vigor quince días después de su publ
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
 Tercero.- El Ejecutivo del Estado, en un plazo no mayor de ciento ochenta días contados a partir de la fecha en que cobre vigencia el presente decreto, expedirá el Reglamento del Registro del Estado Civil.
+
+P.O. 19 DE NOVIEMBRE DE 2010.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: La Dirección del Registro Civil contará con un plazo de 180 días hábiles a partir de la entrada en vigor del presente decreto para realizar las modificaciones pertinentes a su reglamento interior y de 90 días hábiles para celebrar los convenios de colaboración con el Sistema para el Desarrollo Integral de la Familia o instituciones públicas o privadas que cuenten con el personal capacitado para cumplir los objetivos contenidos en el artículo 157 del presente decreto.
+
+TERCERO: Se derogan todas las disposiciones legales y administrativas en lo que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
