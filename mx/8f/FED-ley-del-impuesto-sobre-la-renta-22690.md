@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-22690"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-01"
-last_updated: "2010-04-27"
+last_updated: "2010-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22690&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de enero de 2002.
 
@@ -1678,9 +1678,9 @@ Cuando al término de un ejercicio proceda disminuir las reservas a que se refie
 
 Los contribuyentes que hubieran adquirido bienes o derechos por dación en pago o por adjudicación, que no puedan conservar en propiedad por disposición legal, no podrán deducirlos conforme al artículo 29 de esta Ley. Para determinar la ganancia obtenida o la pérdida sufrida en la enajenación que realicen de los citados bienes o derechos, restarán al ingreso que obtengan por dicha enajenación en el ejercicio en el cual se enajene el bien o derecho, el costo comprobado de adquisición, el cual se podrá ajustar multiplicándolo por el factor de actualización correspondiente al periodo comprendido desde el mes en el que el bien o derecho fue adquirido por dación en pago o por adjudicación y hasta el mes inmediato anterior a la fecha en la que dicho bien o derecho sea enajenado a un tercero, por quien lo recibió en pago o por adjudicación. Tratándose de acciones, el monto que se restará en los términos de este párrafo, será el costo promedio por acción que se determine de acuerdo con lo dispuesto por el artículo 24 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 58.
 
@@ -1820,9 +1820,9 @@ El Servicio de Administración Tributaria mediante reglas de carácter general p
 
 Tratándose de cuentas denominadas en moneda extranjera, la conversión de los saldos, de los depósitos y de los retiros, se efectuará considerando el tipo de cambio para solventar obligaciones en moneda extranjera pagaderas en la República Mexicana que al efecto publique en el Diario Oficial de la Federación el Banco de México, correspondiente al segundo día hábil anterior al día en el que se calculen los saldos inicial o final, se efectúen los depósitos o los retiros, se cancelen, enajenen o traspasen las cuentas o activos financieros, según se trate. Los días en los que el Banco de México no publique dicho tipo de cambio se deberá utilizar el último tipo de cambio publicado con anterioridad al segundo día hábil a aquél en el que se calculen los saldos antes referidos o se efectúen los depósitos, retiros o se cancelen, enajenen o traspasen las cuentas o los activos financieros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 58-B.
 
@@ -5454,10 +5454,6 @@ Tratándose de los ingresos que obtenga un residente en el extranjero por conduc
 
 El impuesto se determinará aplicando, sobre el remanente distribuible, la tasa máxima para aplicarse sobre el excedente del límite inferior que establece la tarifa contenida en el artículo 177 de esta Ley. El impuesto lo deberá enterar la persona moral por cuenta del residente en el extranjero, junto con la declaración señalada en el artículo 113 de esta Ley o, en su caso, en las fechas establecidas para la misma. Asimismo, la citada persona moral deberá proporcionar a los contribuyentes constancia del entero efectuado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 195.
 
 Tratándose de ingresos por intereses se considerará que la fuente de riqueza se encuentra en territorio nacional cuando en el país se coloque o se invierta el capital, o cuando los intereses se paguen por un residente en el país o un residente en el extranjero con establecimiento permanente en el país.
@@ -5565,6 +5561,10 @@ Cuando la enajenación de los títulos a que se refiere este artículo se efect�
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 Cuando en este artículo se haga referencia a intermediario, se entenderá como tal a las instituciones de crédito y casas de bolsa del país, que intervengan en la adquisición de títulos a que hace referencia el presente artículo.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 195-A.
 
@@ -6435,6 +6435,28 @@ II. El monto total del estímulo a distribuir entre los aspirantes del beneficio
 III. El Comité Interinstitucional publicará a más tardar el último día de febrero de cada ejercicio fiscal, el monto del estímulo distribuido durante el ejercicio anterior, así como los contribuyentes beneficiados y los proyectos por los cuales fueron merecedores de este beneficio.
 
 IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 226
+
+Bis. Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en la producción teatral nacional, contra el impuesto sobre la renta del ejercicio y de los pagos provisionales del mismo ejercicio, que tengan a su cargo en el ejercicio en el que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso el estímulo podrá exceder del 10% del impuesto sobre la renta a su cargo en el ejercicio inmediato anterior al de su aplicación.
+
+Cuando el crédito a que se refiere el párrafo anterior sea mayor al impuesto sobre la renta que tengan a su cargo en el ejercicio en el que se aplique el estímulo, los contribuyentes podrán acreditar la diferencia que resulte contra el impuesto sobre la renta que tengan a su cargo en los diez ejercicios siguientes hasta agotarla.
+
+Para los efectos de este artículo, se considerarán como proyectos de inversión en la producción teatral nacional, las inversiones en territorio nacional, destinadas específicamente al montaje de obras dramáticas a través de un proceso en el que se conjugan la creación y realización teatral, así como los recursos humanos, materiales y financieros necesarios para dicho objeto.
+
+Para la aplicación del estímulo fiscal a que se refiere el presente artículo, se estará a lo siguiente:
+
+I. Se creará un Comité Interinstitucional que estará formado por un representante del Consejo Nacional para la Cultura y las Artes, uno del Instituto Nacional de Bellas Artes y Literatura y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité y tendrá voto de calidad.
+
+II. El monto total del estímulo fiscal a distribuir entre los aspirantes del beneficio no excederá de 50 millones de pesos por cada ejercicio fiscal ni de 2 millones de pesos por cada contribuyente y proyecto de inversión en la producción teatral nacional.
+
+III. El Comité Interinstitucional a que se refiere la fracción I de este artículo publicará a más tardar el último día de febrero de cada ejercicio fiscal, el monto del estímulo fiscal distribuido durante el ejercicio anterior, así como los contribuyentes beneficiados y los proyectos por los cuales fueron merecedores de dicho beneficio.
+
+IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional a que se refiere la fracción I de este artículo.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -8545,3 +8567,7 @@ D.O.F. 30 DE DICIEMBRE DE 2009.
 D.O.F. 27 DE ABRIL DE 2010.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor el 1 de enero de 2011.
