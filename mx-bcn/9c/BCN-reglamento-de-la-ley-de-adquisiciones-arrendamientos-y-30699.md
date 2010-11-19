@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-30699"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-11"
-last_updated: "2003-04-11"
+last_updated: "2010-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2003.
 
@@ -181,7 +181,9 @@ Con derecho a voz y voto:
 
 a) Un Presidente, que será el Titular de la Unidad Administrativa;
 
-b) Un Secretario Ejecutivo, que será el Titular del área responsable de la administración de los recursos materiales de la Unidad Administrativa;
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+b) Un Secretario Ejecutivo, que será el Titular del área de la Unidad Administrativa, encargada de ejecutar los procedimientos derivados de la Ley, de acuerdo a la normatividad aplicable;
 
 c) Un Vocal, que será el Titular de la Tesorería;
 
@@ -197,7 +199,9 @@ a) Un representante de la Contraloría;
 
 b) Un representante del área jurídica de la Unidad Administrativa; y
 
-c) En su caso, los servidores públicos cuya intervención considere necesaria el Comité, para la aclaración de aspectos técnicos o administrativos relacionados con los asuntos sometidos a su consideración.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+c) Los Titulares de otras áreas que el Comité considere necesaria su intervención, exclusivamente para la aclaración de aspectos técnicos, administrativos o de cualquier otra naturaleza, relacionados con los asuntos sometidos a su consideración.
 
 II.- En los demás sujetos obligados:
 
@@ -219,13 +223,27 @@ a) Un representante de la Contraloría; y
 
 b) En su caso, los servidores públicos cuya intervención considere necesaria el Comité, para la aclaración de aspectos técnicos o administrativos relacionados con los asuntos sometidos a su consideración.
 
-Para que las sesiones del Comité sean válidas, se requerirá de la presencia de la mayoría de sus integrantes.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
-Los acuerdos que se tomen en el seno del Comité, requerirán para su validez del voto mayoritario de sus integrantes con derecho a voto. En caso de empate el Presidente tendrá voto de calidad.
+Para que las sesiones del Comité sean válidas, se requerirá la presencia de la mayoría de sus integrantes con derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+Las decisiones y acuerdos que se tomen en el seno del Comité, requerirán para su validez del voto mayoritario de sus integrantes con derecho a voz y voto. En caso de empate, el Presidente tendrá voto de calidad.
 
 Los integrantes del Comité durarán en el cargo en tanto sean titulares y serán sustituidos automáticamente por el nuevo titular y no percibirán por su desempeño, emolumento, retribución o compensación alguna.
 
 Cada integrante del Comité, designará por escrito a su respectivo suplente. El suplente únicamente podrá participar durante las sesiones, en las ausencias de quien lo haya designado.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+En (sic) tratándose de ausencias del Presidente y del Secretario Ejecutivo del Comité del Poder Ejecutivo, se observará lo siguiente:
+
+a) El Presidente será suplido por el Secretario Ejecutivo.
+
+b) El Secretario Ejecutivo será suplido por el servidor público que él mismo designe.
+
+c) Si el Presidente y el Secretario Ejecutivo faltaren a la misma sesión, serán suplidos por el Titular del departamento del área que corresponda el asunto a tratar y por el responsable del área jurídica concerniente, respectivamente.
 
 ###### Artículo 14.
 
@@ -992,3 +1010,9 @@ JOSÉ CERVANTES GOVEA
 SECRETARIO DE DESARROLLO ECONÓMICO
 
 SERGIO FRANCISCO TAGLIAPIETRA NASSRI
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 19 DE NOVIEMBRE DE 2010.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
