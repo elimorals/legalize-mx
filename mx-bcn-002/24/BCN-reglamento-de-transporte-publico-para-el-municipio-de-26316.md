@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transporte-publico-para-el-municipio-de-26316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2010-10-01"
+last_updated: "2010-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO DE TRANSPORTE PUBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de agosto de 2002.
 
@@ -111,7 +111,9 @@ XIX.- Ruta.- Recorrido realizado por vehículos de transporte público de pasaje
 
 XX.- Itinerario.- Lugares de la vía pública recorridos por los vehículos de transporte público, comprendidos dentro de una ruta.
 
-XXI.- Tarifa.- Precio o cuota a cargo de los usuarios establecida por el Sistema, a la que deberá sujetarse la prestación del servicio público de transporte de pasajeros de alquiler y colectivo, así como el de grúa.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+XXI.- Tarifa.- Precio o cuota a cargo de los usuarios establecida por el Sistema, a la que deberá sujetarse la prestación del Servicio Público de Transporte de pasajeros de alquiler y colectivo, así como los de grúa y carga.
 
 XXII.- Tarifa Fija.- Aquella que se aplica independientemente del tiempo de duración del servicio.
 
@@ -593,7 +595,9 @@ IV.- Podrán elegir de entre sus miembros ciudadanos a un consejero en calidad d
 
 V.- Recomendar y opinar respecto a las medidas convenientes para el mejoramiento en la prestación del servicio;
 
-VI.- Revisar y opinar sobre las solicitudes de modificaciones de tarifas;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+VI.- Revisar y opinar sobre las solicitudes de modificaciones de Tarifas del Servicio Público de Transporte de pasajeros de alquiler, colectivo y carga;
 
 VII.- Nombrar al Secretario Técnico por mayoría de votos; quien deberá ser persona distinta a sus integrantes, y quien solo tendrá derecho a voz en las sesiones del Consejo para el ejercicio de sus funciones;
 
@@ -831,7 +835,9 @@ II.- Transporte de carga, en las siguientes modalidades:
 
 A) De servicio general.- Este tipo de servicios se prestará en vehículos que reúnan las características adecuadas para transportar productos agropecuarios, maquinaria, materiales para la construcción, materiales pétreos, mercancías, desechos orgánicos, objetos diversos y en general todo tipo de carga. Para el caso de servicio especializado, será prestado en vehículos acondicionados para transportar un tipo especifico de carga, como puede ser materiales peligrosos, explosivos, corrosivos, inflamables, contaminantes, residuos sólidos municipales, residuos industriales no peligrosos, y los demás que por las características del vehículo en que se traslada, sólo permitan el traslado de un tipo de carga en particular.
 
-Este servicio podrá condicionarse a itinerario y horario fijo, de acuerdo a lo que disponga el Departamento de Ingeniería de Transito conforme al tipo de las vialidades o de la carga, el peso y dimensiones del vehículo, o la intensidad del tránsito; de conformidad por lo dispuesto en el Reglamento de Tránsito para el Municipio. El pago por la prestación del servicio se acordará entre los usuarios y el prestador del servicio.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+Este servicio podrá condicionarse a itinerario y horario fijo, de acuerdo a lo que disponga el Departamento de Ingeniería de Transito conforme al tipo de las vialidades o de la carga, el peso y dimensiones del vehículo, o la intensidad del tránsito; de conformidad por lo dispuesto en el Reglamento de Tránsito para el Municipio.
 
 B) De servicio de grúa y remolque.- Los destinados a transportar o remolcar vehículos, en unidades diseñadas para tal fin. Este servicio estará sujeto a tarifa fija, el cual podrá prestarse sin restricción de itinerario y horario, partiendo del lugar previamente autorizado por el Sistema, donde el usuario pueda comunicarse o acudir para contratarlo.
 
@@ -2029,7 +2035,7 @@ XI.- Portar el uniforme obligatorio, durante la prestación del servicio;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2010)</small>
 
-XIl.- Mostrar en lugar visible del interior de los vehículos en los que se preste el servicio, el tarjetón vigente, el número económico, teléfonos de quejas, las tarifas autorizadas; y en los casos de radio taxis y taxis de sitio que se encuentren prestando el servicio, deberá de encontrarse en todo momento activo el taxímetro;
+XII.- Mostrar en lugar visible del interior de los vehículos en los que se preste el servicio, el tarjetón vigente, el número económico, teléfonos de quejas, las tarifas autorizadas; y en los casos de radio taxis y taxis de sitio que se encuentren prestando el servicio, deberá de encontrarse en todo momento activo el taxímetro;
 
 XIII.- Recibir la capacitación por la institución educativa que el Sistema determine, para la prestación del servicio de transporte público;
 
@@ -2337,7 +2343,7 @@ XV.- Presentar copia del aviso que hacen a la Secretaria de Comunicaciones y Tra
 
 XVI.- Recibo de pago por derechos y por cada unidad que ingrese a la base de Radio Taxi.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 215.
 
@@ -2761,7 +2767,7 @@ V.- Cuando así lo requiera alguna Autoridad de Transporte, los concesionarios o
 
 Para la conducción de vehículos del servicio de transporte público será requisito obligatorio que el operador cuente y porte la licencia de la clasificación correspondiente y el tarjetón, ambos vigentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 247.
 
@@ -2887,9 +2893,11 @@ XIII.- Las demás que señale la Ley y el presente Reglamento.
 
 DE LAS TARIFAS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 259.
 
-Las tarifas del transporte público de pasajeros colectivo y de alquiler, así como el de grúa, serán fijadas por el Sistema previa opinión del Consejo, de acuerdo a las condiciones y circunstancias de la prestación del servicio; de modo que permitan a los concesionarios y permisionarios una ganancia económica justa en relación con el importe de la contraprestación a cargo de los usuarios, así como realizar nuevas inversiones y mantener el equipo e instalaciones adecuadas para el servicio.
+Las tarifas del transporte público de pasajeros colectivo y de alquiler, así como los de grúa y carga, serán fijadas por el Sistema previa opinión del Consejo, de acuerdo a las condiciones y circunstancias de la prestación del servicio; de modo que permitan a los concesionarios y permisionarios una ganancia económica justa en relación con el importe de la contraprestación a cargo de los usuarios, así como realizar nuevas inversiones y mantener el equipo e instalaciones adecuadas para el servicio.
 
 Los prestadores del servicio deberán exhibir en forma permanente y en lugar visibles de sus vehículos, la tarifa autorizada para cada tipo de servicio.
 
@@ -2913,7 +2921,7 @@ La revisión y en su caso modificación de la tarifa, se constreñirá a la moda
 
 El Sistema, por iniciativa propia o a petición de los concesionarios o permisionarios, podrá proponer al Consejo por causas extraordinarias, la revisión de las tarifas en una fecha distinta a la indicada, observando el procedimiento previsto.
 
-La tarifa para la prestación del servicio de transporte de carga se convendrá libremente entre usuarios y permisionarios.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 261.
 
@@ -3347,7 +3355,7 @@ La resolución que emita el Presidente Municipal, será notificada en el domicil
 
 ###### ARTÍCULO 309.
 
-Si la resolución recaída dentro del recurso de revisión fuese en el sentido de modificar o nulificar el acto, acuerdo o resolución impuesta por la autoridad municipal, al notificarla a éste, el Presidente Municipal lo requerirá para que dentro del los tres días hábiles siguientes, informe respecto del cumplimiento que dé a dicha resolución.
+Si la resolución recaída dentro del recurso de revisión fuese en el sentido de modificar o nulificar el acto, acuerdo o resolución impuesta por la autoridad municipal, al notificarla a éste, el Presidente Municipal lo requerirá para que dentro de los tres días hábiles siguientes, informe respecto del cumplimiento que dé a dicha resolución.
 
 Contra la resolución recaída dentro del recurso de revisión no procederá recurso legal alguno, en lo respecta al marco de la administración de justicia municipal.
 
@@ -3493,7 +3501,7 @@ Las infracciones en materia de transporte público serán sancionadas administra
 
 La aplicación de las sanciones económicas previstas en el presente Reglamento, se aplicarán sin perjuicio de las causas de remisión de las unidades a los depósitos vehiculares, la revocación de la concesión o permiso y de la responsabilidad penal o civil que resulte de la comisión de las conductas descritas en este capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 318.
 
@@ -3581,7 +3589,7 @@ Para la devolución de vehículos en los depósitos será indispensable la compr
 
 Se sancionará con multa de 1 a 150 salarios mínimos general vigente en la entidad de Baja California, en la operación de vehículos del servicio público de transporte, según el supuesto en que encuadre de conformidad a la siguiente:
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 30 DE AGOSTO DE 2002, PAGINAS DE LA 162 A LA 166.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE AGOSTO DE 2002, PÁGINAS DE LA 162 A LA 166.</small>
 
 > <small>N. DE E. REFORMAS A LA TABLA, P.O. 1 DE OCTUBRE DE 2010.</small>
 
@@ -3639,7 +3647,7 @@ SECRETARIO DEL XVII AYUNTAMIENTO
 
 DE MEXICALI
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE DICIEMBRE DE 2004.
 
@@ -3676,3 +3684,9 @@ Primero.- El presente Acuerdo entrará en vigor al día siguiente al de su publi
 Segundo.- Los titulares de tarjetones vigentes otorgados por el Sistema Municipal del Transporte de Mexicali antes de la entrada en vigor del presente Acuerdo, contarán con un plazo de tres meses siguientes a la publicación de esta reforma en el Periódico Oficial del Estado de Baja California, para presentarse ante el Sistema Municipal del Transporte, de manera personal, a entregar el tarjetón original que se les concedió, para que sin costo alguno dicha Autoridad les expida uno nuevo acorde con lo previsto por el presente Acuerdo.
 
 Transcurrido el plazo mencionado en el párrafo anterior, los tarjetones expedidos antes de la entrada en vigor de este Acuerdo que no sean renovados en los términos indicados, quedarán sin efectos.
+
+P.O. 19 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+SEGUNDO.- SE INSTRUYE AL SISTEMA MUNICIPAL DEL TRANSPORTE A EFECTO DE QUE INICIE LOS ESTUDIOS TÉCNICOS NECESARIOS PARA DETERMINAR LAS TARIFAS A LAS QUE SE DEBERÁ SUJETAR LA PRESTACIÓN DEL SERVICIO PÚBLICO DE CARGA; ASÍ COMO PARA QUE DENTRO DEL TÉRMINO DE TREINTA DÍAS SIGUIENTES A LA ENTRADA EN VIGOR DEL PRESENTE ACUERDO, INFORME AL AYUNTAMIENTO SOBRE LOS AVANCES DE DICHOS TRABAJOS.
