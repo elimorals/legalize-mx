@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-desarrollo-52374"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-24"
-last_updated: "2007-01-26"
+last_updated: "2010-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO SUSTENTABLE, PUBLICADO EN EL P.O. DE 19 DE NOVIEMBRE DE 2010, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de noviembre de 2006.
 
@@ -1508,3 +1510,87 @@ P.O. 26 DE ENERO DE 2007.
 Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- La Secretaría de Desarrollo Económico Sustentable transferirá al Instituto Estatal de la Cultura el personal, recursos materiales y financieros que actualmente tiene asignados la Dirección de Eventos Especiales.
+
+P.O. 19 DE NOVIEMBRE DE 2010.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento Interior de la Secretaría de Desarrollo Económico Sustentable
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico Sustentable, contenido en el Decreto Gubernativo número 7, publicado en el Periódico Oficial del Gobierno del Estado número 188, Tercera Parte, de fecha 24 de noviembre del 2006.
+
+Referencia a las nuevas denominaciones de las unidades administrativas
+
+Artículo Tercero. A la entrada en vigencia del presente Decreto Gubernativo cualquier referencia que en decretos, reglamentos, convenios u otros instrumentos jurídicos se haga a las siguientes unidades administrativas, se entenderán hechas a su nueva denominación:
+
+Unidades administrativas vigentes Nuevas denominaciones de las unidades administrativas
+
+Subsecretaría de Empleo y Subsecretaría de Formación Laboral
+
+Capacitación
+
+Coordinación General de Coordinación General de Proyectos
+
+Proyectos Estratégicos Estratégicos y Mejora Regulatoria
+
+Dirección General de Asuntos Dirección General de Asuntos Jurídicos
+
+Jurídicos y Seguimiento
+
+Dirección General de Análisis, Dirección General de Análisis, Estrategia
+
+Estrategia y Planeación y Evaluación
+
+Dirección de Asuntos Jurídicos Dirección de Asesoría y Capacitación
+
+Legal
+
+Dirección de lo Contencioso Dirección de Procesos Jurídico -
+
+Administrativos
+
+Dirección General de Promoción Dirección General de Atracción de
+
+Para la Atracción de Inversiones Inversiones
+
+Dirección General de Dirección General de Infraestructura
+
+Infraestructura y Proyectos
+
+Dirección General de Promoción Dirección General de Comercio y
+
+y Comercialización Abasto
+
+Dirección de Agroalimentos Dirección de Atención a la Cadena
+
+Productiva Agroalimentos
+
+Dirección de Cuero- Calzado Dirección de Atención a la Cadena
+
+Productiva Cuero- Calzado- Proveeduría
+
+Dirección Textil- Confección Dirección de Atención a la Cadena
+
+Productiva Textil- Confección y Moda
+
+Dirección Automotriz y Autopartes Dirección de Atención a la Cadena
+
+Productiva Automotriz y Autopartes
+
+Dirección de Construcción Dirección de Atención a la Cadena
+
+Productiva Construcción
+
+Dirección de Artesanías Dirección de Atención a la Cadena
+
+Productiva
+
+Dirección de Desarrollo de Dirección de Procesos de Innovación
+
+Proveedores y Distribuidores
+
+Dirección de Vinculación Comercial Dirección de Estrategias Comerciales para
+
+la Micro, Pequeña y Mediana Empresa
