@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2009-12-04"
+last_updated: "2010-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -488,9 +488,13 @@ I.- Abrir y clausurar las sesiones del Pleno de la Asamblea, así como prorrogar
 
 II.- Adoptar las decisiones y medidas que se requieran para la organización del trabajo de las sesiones del Pleno, de conformidad con la presente Ley, el Reglamento para el Gobierno Interior de la Asamblea Legislativa y/o la práctica parlamentaria desarrollada en la Asamblea Legislativa;
 
-III.- Programar, en consulta con la Comisión de Gobierno, el desarrollo general de las sesiones;
+> <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
-IV.- Elaborar, en consulta con la Comisión de Gobierno, el orden del día de las sesiones;
+III.- Programar, conjuntamente con la Comisión de Gobierno, el desarrollo general de las sesiones;
+
+> <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
+
+IV.- Elaborar, conjuntamente con la Comisión de Gobierno, el orden del día de las sesiones;
 
 V.- Dar curso reglamentario a los asuntos inscritos en el orden del día y fijar los trámites que deben seguirse para el cumplimiento de los acuerdos tomados por el Pleno;
 
@@ -586,7 +590,9 @@ La Comisión de Gobierno es el órgano interno de gobierno permanente y expresi�
 
 La Comisión de Gobierno estará integrada por los coordinadores de cada uno de los Grupos Parlamentarios, más otros tantos Diputados del grupo con mayoría absoluta en la Asamblea Legislativa del Distrito Federal.
 
-De no darse el supuesto anterior de mayoría absoluta por alguno de los Grupos Parlamentarios, la Comisión de Gobierno se integrará por Diputados de cada uno de los Grupos Parlamentarios observando la proporcionalidad de estos, de los cuales uno deberá ser el Coordinador.
+> <small>(REFORMADO, G.O.19 DE NOVIEMBRE DE 2010)</small>
+
+De no darse el supuesto anterior de mayoría absoluta por alguno de los Grupos Parlamentarios, la Comisión de Gobierno se integrará por Diputados de cada uno de los Grupos Parlamentarios, incluyendo al Coordinador, observando la proporcionalidad de éstos y garantizando la gobernabilidad del órgano.
 
 Los votos de cada Grupo Parlamentario serán ponderados con relación al número de integrantes que éste tenga en la Asamblea.
 
@@ -602,7 +608,7 @@ Los Diputados independientes, podrán asistir la Comisión de Gobierno, contando
 
 La Comisión de Gobierno elegirá de entre sus miembros un Presidente y un Secretario.
 
-En caso de que no se cumpla el supuesto que le otorga a un Grupo Parlamentario la mayoría absoluta, cada uno de los tres Grupos Parlamentarios con mayor número de integrantes en la Asamblea, ocupará la Presidencia y la Secretaría de la Comisión de Gobierno por el período de un año.
+> <small>(REFORMADO [N. DE E. DEROGADO SEGUNDO PARRAFO], G.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 Corresponderá al Presidente de la Comisión de Gobierno:
 
@@ -652,9 +658,9 @@ XI.- Acordar la celebración de sesiones públicas y elaborar la agenda de los a
 
 XII.- Programar, conjuntamente con el Presidente de la Mesa Directiva, los trabajos de los períodos de sesiones;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
-XIII.- Recibir, durante los recesos, las iniciativas de ley y proposiciones dirigidas a la Asamblea y turnarlas a las comisiones correspondientes, a fin de que se discutan y aprueben, en su caso, en el inmediato periodo de sesiones;
+XIII.- Recibir, durante los recesos, las iniciativas de ley dirigidas a la Asamblea y turnarlas a las comisiones correspondientes, a fin de que se discutan y aprueben, en su caso, en el inmediato periodo de sesiones;
 
 > <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -834,9 +840,9 @@ XIV.- Durante los recesos, conocer cuando los Diputados sean separados de su enc
 
 XV. Durante los recesos, previo dictamen de las Comisiones de Administración y Procuración de Justicia y de Asuntos Político-Electorales y con la deliberación de la Comisión de Gobierno, aprobará y ratificará provisionalmente a los ciudadanos y Magistrados del Tribunal Electoral del Distrito Federal, según corresponda, dentro de los quince días siguientes a que se reciban los documentos a que se refiere el Capítulo IV del Título Sexto del Estatuto de Gobierno del Distrito Federal; así como por el Capítulo II del Título Quinto de este ordenamiento, y los someterá al Pleno para su aprobación o ratificación definitiva;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
-XVI.- Aprobar las prórrogas que le soliciten las comisiones dictaminadoras y rectificación de turnos;
+XVI.- Aprobar las prórrogas que le soliciten las comisiones dictaminadoras y rectificación de turnos de los asuntos que sean de su competencia;
 
 > <small>(ADICIONADA, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1765,3 +1771,9 @@ G.O. 4 DE DICIEMBRE DE 2009.
 Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal.
