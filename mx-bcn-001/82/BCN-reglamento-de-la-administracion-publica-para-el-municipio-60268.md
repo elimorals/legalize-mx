@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2010-04-30"
+last_updated: "2010-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1973,7 +1973,9 @@ XX.- Revisar los cortes de cajas de las Dependencias municipales que por su natu
 
 XXI.- Asistir a los remates en los que tenga interés el municipio para que se finque al mejor postor y se guarden los términos y disposiciones prevenidas por las Leyes y Reglamentos respectivos;
 
-XXII.- Conocer, investigar de oficio o por virtud de queja o denuncia y sancionar los actos, omisiones o conductas de los Servidores Públicos que desempeñen funciones en el ámbito de la Seguridad Pública, considerando lo dispuesto por los artículos 10, 13, 14 y demás relativos de la ley que regula la relación administrativa de los miembros de las instituciones policiales del Estado de Baja California;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+XXII.- Conocer, investigar de oficio o por virtud de queja o denuncia y sancionar los actos, omisiones o conductas de los elementos de la Policía Preventiva Municipal de Ensenada, de conformidad a lo previsto en la Ley de Seguridad Pública del Estado y en el Reglamento de la Comisión Disciplinaria y de carrera policial de la Secretaria de Seguridad Pública Municipal de Ensenada.
 
 XXIII.- Las demás que le confieran las Leyes, reglamentos o acuerdos del Ayuntamiento.
 
@@ -2064,5 +2066,9 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 30 DE ABRIL DE 2010.
 
 ACUERDO QUE MODIFICA Y REFORMA LOS ARTICULOS 80, 84, 46 Y 56 BIS.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 19 DE NOVIEMBRE DE 2010.
 
 EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
