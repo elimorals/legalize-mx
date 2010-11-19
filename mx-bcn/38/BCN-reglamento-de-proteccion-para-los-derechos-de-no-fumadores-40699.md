@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-proteccion-para-los-derechos-de-no-fumadores-4069
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-06"
-last_updated: "2004-08-06"
+last_updated: "2010-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO DE PROTECCION PARA LOS DERECHOS DE NO FUMADORES TECATE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE PROTECCION CONTRA LA EXPOSICION AL HUMO DE TABACO DEL MUNICIPIO DE TECATE, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE NOVIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 6 de agosto de 2004.
 
@@ -234,3 +236,13 @@ PRESIDENTE MUNICIPAL
 LIC. ROBERTO RODRÍGUEZ VALENZUELA
 
 SECRETARIO MUNICIPAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Este Reglamento entrará en vigor a los 60 días posteriores a su publicación.
+
+SEGUNDO.- Los propietarios, poseedores, administradores o responsables de los espacios 100% libres de humo de tabaco a que se refiere este ordenamiento, deberán dar cumplimiento a la obligación de fijar las señalizaciones adecuadas durante los 60 días siguientes contados a partir de la publicación del presente Reglamento.
+
+TERCERO.- Se abroga el Reglamento de Protección para los Derechos de No Fumadores de Tecate, publicado en el Periódico Oficial de fecha 6 de agosto de 2004, así como se derogan las disposiciones contenidas en otros ordenamientos que contravengan lo establecido en el presente Reglamento.
