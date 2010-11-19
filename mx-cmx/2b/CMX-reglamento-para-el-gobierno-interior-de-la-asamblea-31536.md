@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2009-12-04"
+last_updated: "2010-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 4 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -1426,7 +1426,7 @@ El Presidente deberá reunirse antes de cada sesión con los integrantes de la M
 
 #### SECCIÓN 4. DE LOS DEBATES
 
-(REUBICADO [N. DE E. ANTES ARTICULO 113], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO PRIMER PARRAFO, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 96.
 
@@ -1448,11 +1448,11 @@ Las sesiones se celebrarán en el recinto que ocupa la Asamblea, salvo acuerdo e
 
 Las sesiones no podrán realizarse fuera del Distrito Federal.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 95], G.O. 30 DE MARZO DE 2005)
+> <small>(REFORMADO, G.O.19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 98.
 
-Las sesiones se desarrollarán de conformidad con el Orden del Día elaborado por la Mesa Directiva en consulta con la Comisión de Gobierno y se desahogarán, de igual manera, los asuntos que presentan los Diputados o los Grupos Parlamentarios con carácter urgente o extraordinario y así sean aceptados por el Pleno.
+Las sesiones se desarrollarán de conformidad con el Orden del Día elaborado por la Mesa Directiva conjuntamente con la Comisión de Gobierno y se desahogarán, de igual manera, los asuntos que presentan los Diputados o los Grupos Parlamentarios con carácter de urgente o extraordinario y así sean aceptados por el Pleno.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 96], G.O. 30 DE MARZO DE 2005)
 
@@ -1622,7 +1622,7 @@ La Mesa Directiva asegurará en todo tiempo el libre acceso de los medios de com
 
 ###### Artículo 116.
 
-Todo dictamen con proyecto de ley o decreto se discutirá primero en lo general y después en lo particular cada uno de sus artículos. Cuando conste de un solo artículo será discutido una sola vez.
+Todo dictamen con proyecto de ley o decreto se discutirá primero en lo general y después en lo particular cada uno de sus artículos. Cuando conste de un solo artículo será discutido sólo en lo general.
 
 Cuando un acuerdo de la Comisión de Gobierno sea presentado al Pleno para su conocimiento, cualquier Diputado podrá hacer uso de la palabra para solicitar alguna aclaración o mayor información, para lo cual un integrante de dicha Comisión realizará la aclaración correspondiente.
 
@@ -2855,3 +2855,9 @@ G.O. 4 DE DICIEMBRE DE 2009.
 Primero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 19 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal.
