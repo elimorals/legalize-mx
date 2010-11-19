@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-proteccion-civil-del-estado-de-guerrero-numero-488-25226
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2007-03-16"
+last_updated: "2010-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE PROTECCION CIVIL DEL ESTADO DE GUERRERO, NUMERO 488
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MARZO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 455 DE PROTECCION CIVIL DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 19 DE NOVIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de junio de 2002.
 
@@ -1604,3 +1606,19 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Reglamento de la Ley, deberá expedirse en un término de sesenta días hábiles, a partir de la entrada en vigor del presente Decreto.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para los efectos legales a que haya lugar.
+
+P.O. 19 DE NOVIEMBRE DE 2010.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Protección Civil del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 51, de fecha 25 de junio de 2002.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO. En un plazo máximo de treinta días hábiles a partir de la vigencia de esta Ley, deberá instituirse el Consejo Estatal de Protección Civil.
+
+QUINTO. El Programa Estatal y Municipal, el Atlas Estatal de Riesgos y el Plan Estatal de Protección Civil, deberán elaborarse en un término de noventa días hábiles a partir del día siguiente de la publicación de esta Ley.
+
+SEXTO. Las disposiciones reglamentarias que se deriven de la presente Ley, deberá expedirse en un término de sesenta días hábiles, a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO. Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
