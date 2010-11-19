@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2010-07-23"
+last_updated: "2010-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -479,9 +479,7 @@ La Secretaría Estatal establecerá los procedimientos para regular las modalida
 
 La Secretaría Estatal y las propias instituciones de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que los usuarios o solicitantes presenten sus quejas, reclamaciones y sugerencias, respecto de la prestación de los servicios de salud y en relación a la falta de probidad, en su caso, de los servidores públicos.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
-
-La citada secretaría estatal, por conducto del área u organismo correspondiente, establecerá un Registro de Incidencias Médicas de quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades en materia de salud.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 50.
 
@@ -1384,6 +1382,14 @@ En estos casos, las instituciones de salud del Estado podrán tomar las medidas 
 ###### Artículo 154.
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Campeche (Sistema D.I.F. Estatal) es el organismo descentralizado de la Administración Pública Estatal que, conforme a la Ley de Asistencia Social para el Estado de Campeche, tiene entre sus objetivos, en coordinación con sus homólogos federal y municipales, la promoción de la asistencia social en el ámbito estatal, la prestación de servicios en ese campo y la realización de las demás acciones que establecen esa ley y demás legales y reglamentarias aplicables. Dicho organismo promoverá la interrelación sistemática de acciones que en el campo de la asistencia social lleven a cabo las instituciones públicas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2013)</small>
+
+###### Artículo 153.
+
+Los integrantes del Sistema Estatal de Salud deberán dar atención preferente e inmediata a menores, mujeres, adultos mayores y personas con discapacidad sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental. Así mismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático del individuo.
+
+En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de dichas personas, sin perjuicio de dar intervención a las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
@@ -2394,3 +2400,7 @@ CUARTO.- La nueva Ley de Ejecución de Sanciones y Medidas de Seguridad del Esta
 Al entrar en vigor la nueva Ley de Ejecución en cita, quedarán abrogadas la Ley de Ejecución de Sanciones y Penas Privativas de la Libertad en el Estado de Campeche del 11 de junio de 1999, y la Ley que establece las normas mínimas sobre readaptación social de sentenciados en el Estado de Campeche del 8 de enero de 1974.
 
 QUINTO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
