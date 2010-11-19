@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2010-09-28"
+last_updated: "2010-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -79,15 +79,33 @@ La Bandera, el Himno y el Escudo Nacionales, así como el Himno y el Escudo prop
 
 ### CAPITULO III. De las Garantías
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 6.
 
-Además de lo que la Constitución Política de los Estados Unidos Mexicanos prescribe sobre derechos garantizados para los habitantes de la República, los del Estado de Campeche gozarán de los demás derechos que la presente Constitución les otorga.
+Además de lo que la Constitución Política de los Estados Unidos Mexicanos prescribe sobre derechos garantizados para todo individuo que se encuentra en territorio nacional, los que estén en territorio campechano gozarán de los demás derechos humanos que la presente Constitución reconoce y garantiza en su ejercicio, así como los que surjan de los convenios internacionales suscritos por el Estado Mexicano y de las leyes que emita el Congreso de la Unión emanadas de la Carta Federal.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
-Toda persona tiene derecho a que se respete su vida. Este derecho estará protegido por la ley desde el momento de la fecundación o concepción hasta su muerte natural, con las salvedades ya previstas en las leyes ordinarias.
+###### ARTICULO 6 Bis.
+
+En todo proceso penal se aplicarán los siguientes derechos y garantías de la víctima o del ofendido:
+
+I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establecen las Constituciones federal y local, así como los tratados internacionales suscritos por el Estado Mexicano y las leyes del Congreso de la Unión relativas.
+
+II. Coadyuvar con el Ministerio Público; que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso; que se desahoguen las diligencias correspondientes; intervenir en el juicio e interponer los recursos en los términos que prevea la ley.
+
+III. Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa.
+
+IV. Recibir, desde la comisión del delito, atención médica y psicológica de urgencia.
+
+V. Que se le repare el daño y se le cubran los perjuicios. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar al juez la reparación del daño y el pago de los perjuicios, sin menoscabo de que la víctima o el ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dichas (sic) reparación y pago si ha emitido una sentencia condenatoria. La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño y pago de perjuicios.
+
+VI. Que quede resguardada su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, secuestro o delincuencia organizada; cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa. El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y, en general, de todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación.
+
+VII. Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos, y
+
+VIII. Impugnar ante la autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no estén satisfechos la reparación del daño y el pago de los perjuicios.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -817,7 +835,7 @@ XIX Bis.- Expedir la ley que asegure el ejercicio y respeto del derecho de acces
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
-XX. Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos. Así como fijar los límites de los municipios del Estado y resolver las diferencias que en esta materia se produzcan;
+XX.- Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos. Así como fijar los límites de los municipios del Estado y resolver las diferencias que en esta materia se produzcan;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
@@ -877,7 +895,7 @@ XXXIII.- Nombrar un Concejo Municipal cuando debiendo renovarse un Ayuntamiento 
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
-XXXIV. Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
+XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan;
 
 > <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -1081,7 +1099,7 @@ III.- Informar al Tribunal Superior de Justicia de las faltas que cometan los ju
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
-IV.- Pedir la destitución, de acuerdo con lo dispuesto por el artículo 86, ante el Congreso del Estado, de cualquiera de los Magistrados del Tribunal Superior de Justicia y de los Jueces de primera instancia;
+IV.- Pedir la destitución, de acuerdo con lo dispuesto por el artículo 86, ante el Congreso del Estado, de cualquiera de los Magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1225,6 +1243,18 @@ El Procurador General de Justicia del Estado intervendrá personalmente en las c
 
 La función de consejero jurídico del Gobernador estará a cargo de la dependencia del Ejecutivo del Estado que la correspondiente ley orgánica establezca.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO XV BIS. Del Seguro Social de Acceso a la Justicia
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 76 Bis.
+
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Sus servicios serán gratuitos, quedando, en consecuencia, prohibidas las costas judiciales. En ningún caso podrá producirse indefensión, por lo que, quienes acrediten insuficiencia de recursos para litigar serán asistidos por el Estado, quien tiene la responsabilidad del recto funcionamiento del derecho de acceso a la justicia.
+
+Para estos efectos y para los de la reparación del daño y pago de los perjuicios, la ley establecerá el Instituto de Acceso a la Justicia del Estado de Campeche, como organismo descentralizado de la Administración Pública Estatal que tendrá personalidad jurídica, autonomía técnica y financiera y formará su patrimonio con la partida presupuestal que se le asigne así como con los montos de las penas de multa que se hagan efectivas y con los productos de toda naturaleza provenientes de la extinción de dominio, de los decomisos dictados por las autoridades judiciales y de los bienes asegurados que hayan causado abandono en ajuste a la legislación local. De igual modo, la ley establecerá los términos y condiciones de la asistencia jurídica gratuita, en la que contribuirán subsidiariamente los integrantes de los colegios de abogados o de licenciados en derecho o de despachos jurídicos libres o agrupados por la ley o por particular convenio permanente, así como los integrantes del Colegio de Notarios del Estado de Campeche.
+
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ### CAPITULO XVI. Del Poder Judicial
@@ -1234,10 +1264,6 @@ La función de consejero jurídico del Gobernador estará a cargo de la dependen
 ### CAPITULO XVII. De las Responsabilidades de los Servidores Públicos
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
-
-### CAPITULO XVIII. De los Municipios del Estado
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 77.
 
@@ -1479,13 +1505,13 @@ X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1983)</small>
 
+### CAPITULO XVIII. De los Municipios del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2008)</small>
+
 ### CAPITULO XIX. De la Fiscalización Superior
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2009)</small>
-
-### CAPITULO XX. Prevenciones Generales
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### ARTICULO 89.
 
@@ -1585,9 +1611,9 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
-### CAPITULO XXI. De las Reformas a la Constitución
+### CAPITULO XX. Prevenciones Generales
 
-(REFORMADO, P.O. 16 DE OCTUBRE DE 2001) (F. DE E., P.O. 5 DE NOVIEMBRE DE 2001)
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### Artículo 108 Bis.
 
@@ -1638,6 +1664,10 @@ Los poderes del Estado, los Municipios, y todos los entes públicos y organismos
 Para el cobro de las indemnizaciones y sanciones pecuniarias impuestas por la Auditoría Superior del Estado, el Poder Ejecutivo Estatal aplicará el procedimiento, administrativo de ejecución de conformidad con las leyes vigentes.
 
 (REUBICADO [N. DE E. ANTES CAPITULO XIX], P.O. 18 DE NOVIEMBRE DE 2009)
+
+### CAPITULO XXI. De las Reformas a la Constitución
+
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2001) (F. DE E., P.O. 5 DE NOVIEMBRE DE 2001)
 
 ### CAPITULO XXII. De la Inviolabilidad de la Constitución
 
@@ -2488,3 +2518,7 @@ Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias que s
 P.O. 28 DE SEPTIEMBRE DE 2010.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 19 DE NOVIEMBRE DE 2010.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
