@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-comision-de-conciliacion-y-arbitraje-medico-antes-701
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-14"
-last_updated: "2009-09-14"
+last_updated: "2010-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -89,7 +89,7 @@ IX.- Elaborar los dictámenes o peritajes médicos que le sean solicitados por l
 
 X.- Convenir con Instituciones, Organismos y Organizaciones públicas y privadas, acciones de coordinación y concentración que le permitan cumplir con sus funciones;
 
-XI.- Establecer, organizar y administrar el Registro de Incidencias Médicas de quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades en materia de salud;
+XI.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2010)
 
 XII.- Informar a la Comisión Nacional de Arbitraje Médico de los asuntos de que conozca;
 
@@ -213,7 +213,9 @@ XIV.- Las demás que establezcan otras disposiciones aplicables.
 
 La Comisión de Arbitraje Médico del Estado, por conducto del Comisionado, atenderá las quejas relacionadas con la prestación de servicios de atención a la salud cuando se aduzca una posible irregularidad o negativa del servicio. Al efecto estará facultado para solicitar la información relacionada a las partes y a terceros; realizar las investigaciones necesarias; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia, administrativa y de los prestadores de servicios a la salud, así como para adoptar las medidas necesarias para la protección de la salud de los usuarios.
 
-La formulación de quejas, así como los procedimientos que se sigan ante la Comisión de Arbitraje Médico del Estado, no afectarán el ejercicio de otros derechos o medios de defensa de los que dispongan los usuarios o prestadores de servicios médicos conforme a la Ley.
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
+La formulación de quejas, así como los procedimientos que se sigan ante la Comisión de Arbitraje Médico del Estado, no afectarán el ejercicio de otros derechos o medios de defensa de los que dispongan los usuarios o prestadores de servicios médicos, conforme a la Ley, y tendrán el carácter de reservadas en términos de la fracción II del artículo 46 de esta Ley.
 
 ###### ARTÍCULO 14.
 
@@ -599,27 +601,13 @@ Las resoluciones deben tener el lugar, fecha y responsables de su emisión, los 
 
 Las resoluciones de la Comisión deben dictarse y mandarse notificar, dentro de los cinco días siguientes a aquél en que se hubiere citado para dictarse. Los laudos deben dictarse dentro de los veinte días siguientes a aquel en que se hubiere hecho la citación para laudo y mandarse notificar dentro de los cinco días siguientes a aquel en que se haya dictado. Solo cuando hubiere necesidad de que la Comisión examine documentos voluminosos para dictarlo, podrá disfrutar de un término ampliado de hasta quince días más.
 
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE NOVIEMBRE DE 2010)</small>
+
 ### CAPÍTULO DÉCIMO PRIMERO. DEL REGISTRO DE INCIDENCIAS MÉDICAS
 
 ###### ARTÍCULO 69.
 
-La Comisión de Arbitraje Médico del Estado, deberá establecer, organizar y administrar el Registro de Incidencias Médicas, en el que se contendrán los siguientes datos:
-
-I.- El nombre completo del profesional, técnico auxiliar o especialista médico;
-
-II.- Los datos de su título profesional, técnico auxiliar o de especialidad;
-
-III.- Las quejas interpuestas en su contra ante la Comisión de Arbitraje Médico del Estado, incluyendo número de queja o expediente, año, el motivo que dio origen a la queja y la institución médica o de salud en la que ocurrió el incidente, cuando corresponda;
-
-IV.- La indicación de si la queja fue resuelta o se encuentra pendiente de resolver;
-
-V.- La indicación de si se inició con motivo de la queja algún procedimiento de conciliación o de arbitraje ante la Comisión de Arbitraje Médico del Estado;
-
-VI.- La indicación de si la mediación o el arbitraje ha concluido y el resultado del mismo;
-
-VII.- El estado del cumplimiento de la recomendación, mediación o laudo que en su caso emitió la Comisión de Arbitraje Médico del Estado.
-
-En todos los casos, se guardará la confidencialidad de los pacientes o afectados, omitiendo sus nombres y generales de cualquier dato que ingrese al Registro, salvo las excepciones permitidas por las leyes.
+(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2010)
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DISPOSICIONES COMUNES
 
@@ -646,3 +634,9 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los doce días del mes de septiembre del año dos mil nueve.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO M. MEDINA FARFAN.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE NOVIEMBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
