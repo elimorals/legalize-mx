@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-regularizacion-de-asentamientos-humanos-64299"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-29"
-last_updated: "2008-10-29"
+last_updated: "2010-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY PARA LA REGULARIZACION DE ASENTAMIENTOS HUMANOS IRREGULARES DEL ESTADO DE CHIHUAHUA
 
-LEY PARA LA REGULARIZACION DE ASENTAMIENTOS HUMANOS IRREGULARES DEL ESTADO DE CHIHUAHUA
+LEY PARA LA REGULARIZACIÓN DE ASENTAMIENTOS HUMANOS IRREGULARES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2008.
 
@@ -397,9 +397,11 @@ Los municipios deberán enviar mensualmente a la autoridad estatal, la informaci
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-La vigencia de esta Ley será de tres años, contados a partir de su entrada en vigor.
+La vigencia de esta Ley será de cinco años, contados a partir de su entrada en vigor.
 
 ###### ARTÍCULO TERCERO.
 
@@ -422,3 +424,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los catorce días del mes de octubre del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
