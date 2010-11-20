@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fiscalizacion-superior-y-auditoria-publica-del-62116"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-05"
-last_updated: "2009-12-31"
+last_updated: "2010-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FISCALIZACION SUPERIOR Y AUDITORIA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 5 de julio de 2008.
 
@@ -1295,9 +1295,11 @@ XII. La comisión de hechos que culminen por declaratoria de responsabilidad pol
 
 El acto señalado en la fracción I del artículo anterior, la sanción será la determinación final que establezca el Congreso del Estado en el caso de las entidades auditables y fiscalizables municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 92.
 
-Los actos señalados en las fracciones II, III, VI, VII, X, XI y XII del artículo 89 serán sancionados por el Auditor Superior, con las siguientes medidas de apremio:
+Los actos señalados en las fracciones II, III, VI, VII, X, XI y XII del artículo 90 serán sancionados por el Auditor Superior, con las siguientes medidas de apremio:
 
 I. Amonestación por escrito;
 
@@ -1305,9 +1307,11 @@ II. Multas de veinte a quinientos salarios mínimos vigentes en la Zona Metropol
 
 III. Arresto administrativo hasta por treinta y seis horas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 93.
 
-Los actos señalados en las fracciones VIII y IX del artículo 89 serán sancionados por el Auditor Superior, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+Los actos señalados en las fracciones VIII y IX del artículo 90 serán sancionados por el Auditor Superior, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 En el caso de la fracción IX el Auditor Superior deberá suspender de sus funciones al servidor público, sin goce de sueldo, en tanto dure el procedimiento administrativo.
 
@@ -1542,3 +1546,7 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 20 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
