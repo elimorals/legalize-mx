@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2010-07-17"
+last_updated: "2010-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -317,7 +317,7 @@ El proceso de planeación en el Poder Legislativo será organizado y conducido p
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
-Artículo 19 K
+Artículo 19 K.
 
 El Comité de Planeación del Poder Legislativo propondrá la incorporación de temas a la agenda legislativa provenientes de alguno de los agentes referidos en el artículo 19 I.
 
@@ -2077,7 +2077,9 @@ XIX. Las demás que establezca esta ley y otras disposiciones legales aplicables
 
 ###### Artículo 107.
 
-1. Recibida la iniciativa por el Presidente de la Comisión, éste la deriva al diputado integrante que corresponda para la formulación del proyecto de dictamen y entrega (sic) copias a los demás integrantes de la comisión.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
+1. Recibida la iniciativa por el Presidente de la Comisión, éste la deriva al diputado integrante que corresponda para la formulación del proyecto de dictamen, y entrega por medio electrónico o magnético y en caso necesario mediante fotocopias, con el acuse de recibo correspondiente, de conformidad con el reglamento, al os (sic) demás integrantes de la comisión.
 
 2. El orden en que las iniciativas son derivadas a los diputados integrantes de las comisiones es estrictamente alfabético y sucesivo, incluyendo al presidente de la comisión.
 
@@ -2089,7 +2091,9 @@ XIX. Las demás que establezca esta ley y otras disposiciones legales aplicables
 
 4. El diputado al que le hubiera sido derivada la iniciativa debe formular su proyecto de dictamen dentro del plazo de quince días naturales, salvo que la iniciativa requiera, a juicio de la comisión, plazo no mayor; caso en el cual puede prorrogarse, cuidando siempre de respetar los plazos en que la Comisión debe dictaminar.
 
-5. Una vez presentado el proyecto de dictamen para su discusión, éste debe ser entregado a los integrantes de la comisión a más tardar tres días hábiles antes de la sesión de comisión en que vaya a discutirse.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
+5. Una vez presentado el proyecto de dictamen para su discusión, éste debe ser entregado por cualquier medio electrónico o magnético que contenga el dictamen y en caso necesario mediante copia fotostática, con el acuse de recibo correspondiente, a los integrantes de la comisión a más tardar tres días naturales antes de la sesión de comisión en que vaya a discutirse.
 
 6. Si el proyecto presentado por el diputado es aprobado sin adiciones o reformas se tiene como resolución definitiva de la comisión. Si en la reunión de Comisión en que se estudie este proyecto se aprueban modificaciones o adiciones al mismo, deben hacerse en ese momento y proceder a su firma.
 
@@ -3868,5 +3872,9 @@ P.O. 31 DE DICIEMBRE DE 2009.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 17 DE JULIO DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE NOVIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
