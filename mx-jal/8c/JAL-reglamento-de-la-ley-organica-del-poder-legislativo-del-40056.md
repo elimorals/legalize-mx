@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2010-08-17"
+last_updated: "2010-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGANICA DEL PODER LEGISLATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -795,9 +795,11 @@ Los gastos originados para la realización de los foros de consulta pública cor
 
 1. Las comisiones dictaminarán los asuntos que les sean turnados por la Asamblea en función de su competencia. Cuando un asunto sea turnado a dos comisiones o más, fungirá como Comisión convocante, la que aparezca en el turno en primer término.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 87.
 
-1. El diputado ponente deberá emitir su proyecto de dictamen en los términos que establece la Ley, el proyecto deberá ser repartido entre los miembros de la comisión para su conocimiento y estudio; y agendado para su discusión y aprobación en su caso, en la siguiente reunión de comisión.
+1. El diputado ponente deberá emitir su proyecto de dictamen en los términos que establece la Ley, el proyecto deberá ser repartido entre los miembros de la Comisión por medio electrónico o magnético que contenga el dictamen y en caso necesario mediante copia fotostática, con el acuse de recibo correspondiente, de conformidad con el reglamento y para su conocimiento y estudio; será agendado para su discusión y aprobación en su caso, en la siguiente reunión de comisión.
 
 ###### Artículo 88.
 
@@ -2322,5 +2324,9 @@ Décimo cuarto: De conformidad con lo dispuesto en el artículo tercero transito
 Décimo Quinto (sic): Se deroga lo dispuesto por los artículos 48 al 51 del Reglamento de la Ley Orgánica del Poder Legislativo del estado de Jalisco, contenida en el decreto 20544.
 
 P.O. 17 DE AGOSTO DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE NOVIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
