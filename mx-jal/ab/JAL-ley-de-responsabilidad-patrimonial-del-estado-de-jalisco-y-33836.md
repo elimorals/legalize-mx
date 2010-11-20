@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidad-patrimonial-del-estado-de-jalisco-y-3383
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-11"
-last_updated: "2007-02-22"
+last_updated: "2010-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 11 de septiembre de 2003.
 
@@ -187,9 +187,19 @@ VI. La relación de causalidad entre el daño producido y la actividad administr
 
 VII. Las pruebas, cuando sean necesarias, para acreditar los hechos argumentados y la naturaleza del acto que así lo exija;
 
-VII (sic). Nombre y domicilio de terceros en el caso de existir; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2010)</small>
 
-VIII. El lugar, la fecha y la firma del interesado o, en su caso, la de su representante legal.
+VIII. Nombre y domicilio de terceros en el caso de existir; y
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
+IX. El lugar, la fecha y la firma del interesado o, en su caso, la de su representante legal.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 22 bis.- Cuando en el escrito de reclamación o sus anexos se advierta alguna omisión o inconsistencia, se prevendrá al promovente por escrito y una sola vez para que subsane las omisiones o aclare las inconsistencias en un plazo de cinco días hábiles y se le apercibirá que de no cumplir en el plazo concedido se desechará de plano su solicitud.
+
+Cuando la omisión o inconsistencia materia de la prevención sea relativa a la fracción VII del artículo anterior, se apercibirá al promovente que de no subsanarla en un plazo de cinco días hábiles se le tendrá por perdido el derecho de ofrecer pruebas.
 
 ###### Artículo 23.
 
@@ -362,3 +372,7 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 P.O. 22 DE FEBRERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco."
+
+P.O. 20 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
