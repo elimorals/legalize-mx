@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-3974
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-22"
-last_updated: "2004-05-22"
+last_updated: "2010-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de mayo de 2004.
 
@@ -135,21 +135,27 @@ IV. Dirección: Dirección de Desarrollo Forestal de la Secretaría de Desarroll
 
 V. Erosión del suelo: Desprendimiento, arrastre y/o depósito de las partículas del suelo por acción del agua, el viento y/o actividades humanas.
 
-VI. Leña: Materia prima maderable proveniente de la vegetación forestal que se utiliza como material combustible y para carbonización, la cual puede ser en rollo o en raja.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2010)</small>
 
-VII. Ley de Planeación: Ley de Planeación del Estado de Chihuahua.
+VI. Evaluación Técnica.- Es la actividad que deberá realizar la Secretaría, a través de la Dirección de Desarrollo Forestal, en las plantaciones del Estado, sobre todo en aquello que incida en los procesos de permanencia, potencialidad y desarrollo del medio forestal y en sus productos, así como en el medio ambiente. Dicha actividad tendrá como propósito formular un juicio de valor con la intención de tomar decisiones respecto a la conservación y consolidación de las áreas forestales permanentes, impulsando su delimitación y manejo sustentable.
 
-VIII. Ley General: La Ley General de Desarrollo Forestal Sustentable.
+VII. Leña: Materia prima maderable proveniente de la vegetación forestal que se utiliza como material combustible y para carbonización, la cual puede ser en rollo o en raja.
 
-IX. Revegetación: Trasplante de plantas que no sean árboles.
+VIII. Ley de Planeación: Ley de Planeación del Estado de Chihuahua.
 
-X. Rendimiento Sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva.
+IX. Ley General: La Ley General de Desarrollo Forestal Sustentable.
 
-XI. Secretaría: La Secretaría de Desarrollo Rural de Gobierno del Estado.
+X. Revegetación: Trasplante de plantas que no sean árboles.
 
-XII. Terreno Preferentemente Forestal: Aquel que en su momento haya estado cubierto de vegetación forestal maderable y/o no maderable, y que por condiciones de clima, suelo y topografía, resulta mas apto para el uso forestal que para otros usos.
+XI. Rendimiento Sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva.
 
-XIII. Veda forestal: Restricción total o parcial del aprovechamiento de recursos forestales en una superficie específica establecida mediante decreto que expida el Titular del Ejecutivo Federal, o para una especie en estatus, amenazada o en peligro de extinción determinada por las Normas Oficiales Mexicanas.
+XII. Secretaría: La Secretaría de Desarrollo Rural de Gobierno del Estado.
+
+XIII. Terreno Preferentemente Forestal: Aquel que en su momento haya estado cubierto de vegetación forestal maderable y/o no maderable, y que por condiciones de clima, suelo y topografía, resulta más apto para el uso forestal que para otros usos.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
+XIV. Veda forestal: Restricción total o parcial del aprovechamiento de recursos forestales en una superficie específica establecida mediante decreto que expida el Titular del Ejecutivo Federal, o para una especie en estatus, amenazada o en peligro de extinción determinada por las Normas Oficiales Mexicanas.
 
 ### CAPÍTULO III. De la Coordinación entre Federación, Estados y Gobiernos Municipales
 
@@ -531,6 +537,14 @@ El Estado apoyará a la Comisión Nacional Forestal en la delimitación de las U
 
 Las Unidades de Manejo Forestal realizarán las actividades señaladas en el artículo 112 de la Ley General.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
+El Gobierno del Estado, a través de la Dirección de Desarrollo Forestal, de acuerdo a su Presupuesto asignado, apoyará a las asociaciones de titulares de aprovechamientos forestales, que realicen las actividades señaladas en el artículo 112 de la Ley General, para lo cual celebrará convenios con las mismas y con los otros órdenes de gobierno.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
+Los apoyos serán supervisados por la citada dependencia y sus resultados se darán a conocer al Consejo Estatal Forestal y a los integrantes de la Asociación de la Unidad de Manejo Forestal apoyada, sin perjuicio de la auditoría que realicen los órganos competentes.
+
 ### CAPÍTULO II. De las autorizaciones en materia forestal
 
 ###### ARTÍCULO 41.
@@ -595,9 +609,11 @@ Los interesados en el cambio de uso de suelo de terrenos forestales deberán acr
 
 ### CAPÍTULO V. De la Sanidad Forestal
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 48.
 
-La Secretaría se coordinará con los Gobiernos Federal y Municipal para establecer un sistema permanente de inspección y evaluación de la condición sanitaria de los terrenos forestales y difundirá con la mayor amplitud y oportunidad sus resultados; además promoverá y apoyará vía las organizaciones sociales y privadas la ejecución de programas de investigación necesarios para resolver los problemas fitosanitarios forestales.
+La Secretaría se coordinará con los Gobiernos Federal, Estatal y Municipal para establecer un sistema permanente de inspección y evaluación técnica de la condición sanitaria de los terrenos forestales, así como de las plantaciones forestales y productos de las mismas, y difundirá con la mayor amplitud y oportunidad sus resultados; además, promoverá y apoyará vía las organizaciones sociales y privadas, la ejecución de programas de investigación necesarios para resolver los problemas fitosanitarios forestales.
 
 Las dependencias y entidades del Gobierno del Estado y, en su caso, las de los gobiernos municipales, en los términos de los acuerdos y convenios que celebren, ejercerán las inspecciones y evaluaciones citadas en el artículo anterior en forma coordinada para detectar, diagnosticar, prevenir, controlar y combatir plagas y enfermedades forestales.
 
@@ -986,3 +1002,11 @@ C. P. PATRICIO MARTÍNEZ GARCÍA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. SERGIO ANTONIO MARTÍNEZ GARZA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
