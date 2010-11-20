@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2009-12-31"
+last_updated: "2010-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -995,7 +995,9 @@ I.- Exigir la presentación de certificados médicos de ingravidez a las mujeres
 
 II.- Negar la admisión a un empleo sólo por el hecho de ser mujer, estar embarazada, pertenecer a un estado civil determinado o estar al cuidado de hijos menores;
 
-III.- Provocar el despido o la renuncia de las mujeres trabajadoras por cualquier causa distinta a las mencionadas en el numeral 22 de este ordenamiento, y las demás leyes aplicables.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+
+III.- Provocar el despido o la renuncia del trabajador por cualquier causa distinta a las mencionadas en el artículo 22 de este ordenamiento y las demás leyes aplicables.
 
 ### CAPITULO II. Del escalafón
 
@@ -2422,3 +2424,7 @@ P.O. 12 DE MAYO DE 2009.
 P.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 20 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
