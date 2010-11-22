@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-295
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-03-13"
-last_updated: "2007-11-21"
+last_updated: "2010-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de marzo de 2003.
 
@@ -883,7 +883,9 @@ III bis. Aprobar la propuesta de política salarial que le presente la Secretar�
 
 IV. Supervisar el ejercicio del Presupuesto de Egresos del Poder Legislativo aprobado;
 
-V. Elaborar la iniciativa de presupuesto anual del Poder Legislativo, considerando las necesidades de las diversas Comisiones, dentro de la segunda quincena del mes de octubre, con apoyo en programas y subprogramas que señalen objetivos y metas, y presentarlo para su aprobación al Pleno;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+V. Elaborar el proyecto de presupuesto anual del Poder Legislativo, considerando las necesidades de las diversas comisiones y de los órganos técnico administrativo, dentro de la primera quincena del mes de septiembre, con apoyo en programas y subprogramas que señalen objetivos y metas, y presentarlo para su aprobación al Pleno;
 
 VI. Rendir informe trimestral con los estados financieros sobre el ejercicio del presupuesto del Poder Legislativo, para su aprobación, en su caso, ante el Pleno del Congreso;
 
@@ -1195,11 +1197,13 @@ El Congreso sesionará en Pleno obligatoriamente dos veces al mes y siempre que 
 
 El año legislativo se iniciará el quince de enero y terminará el catorce de enero del año siguiente.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
 
-Durante los meses de septiembre a diciembre de cada año, el Congreso debe revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las Haciendas Municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales, paramunicipales y a otras que dispongan de autonomía, de acuerdo con los términos y plazos dispuestos en la Constitución, en esta Ley y demás disposiciones emanadas de la primera.
+El Congreso debe revisar y dictaminar la Cuenta Pública de la Hacienda Estatal y de las Haciendas Municipales, correspondientes al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales, paramunicipales y a otras que dispongan de autonomía, de acuerdo con los términos y plazos dispuestos en la Constitución, en esta Ley y demás disposiciones emanadas de la primera.
 
-Durante los meses de septiembre a diciembre de cada año, el Congreso debe examinar, discutir y aprobar, el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+El Congreso debe examinar, discutir y aprobar, el Presupuesto de Egresos del año fiscal siguiente, a más tardar el día 20 del mes de diciembre de cada año, decretando las contribuciones necesarias para cubrirlo.
 
 ###### Artículo 97.
 
@@ -1874,3 +1878,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dese cuenta del presente Decreto al Gobernador del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto, al titular de la Auditoría Superior de Michoacán, y a la Comisión de Administración y Control del Congreso del Estado de Michoacán de Ocampo, para su conocimiento y efectos conducentes.
