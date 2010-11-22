@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2010-03-15"
+last_updated: "2010-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -255,7 +255,7 @@ III. Cuidar el orden público y tránsito;
 
 IV. Informar al Ayuntamiento, por conducto del Presidente Municipal, de todos los asuntos relacionados con su encargo;
 
-V,. Desempeñarse como conciliador y árbitro en controversias entre ciudadanos, cuando se lo pidan los interesados;
+V. Desempeñarse como conciliador y árbitro en controversias entre ciudadanos, cuando se lo pidan los interesados;
 
 VI. Vigilar la correcta prestación de los servicios públicos que le encomiende el Ayuntamiento;
 
@@ -423,7 +423,7 @@ a) Ciudad.- Centro de población que tenga la calidad de cabecera municipal o cu
 
 b) Villa.- Centro de población cuyo censo arroje un número mayor de 5,000 habitantes y menor al anterior.
 
-c)Pueblo.- Centro de población cuyo censo arroje un número mayor de 2,000 habitantes y menor al anterior.
+c) Pueblo.- Centro de población cuyo censo arroje un número mayor de 2,000 habitantes y menor al anterior.
 
 d) Rancherías.- Centro de población cuyo censo arroje un número mayor de 500 habitantes y menor al anterior.
 
@@ -1175,7 +1175,7 @@ Procede la revocación del mandato a algunos de los miembros de un Ayuntamiento,
 
 I. Se deje de asistir o de celebrar, sin causa oportuna y debidamente justificada ante el pleno del propio Ayuntamiento, a tres o mas de sesiones ordinarias y extraordinarias que el cabildo celebre o deba celebrar en su caso, en el lapso de sesenta días naturales;
 
-II. Se pierda la calidad de Vecino del Municipio, en términos del ultimo parrafo del Artículo 136 de la Constitución Política del Estado;
+II. Se pierda la calidad de Vecino del Municipio, en términos del ultimo párrafo del Artículo 136 de la Constitución Política del Estado;
 
 III. Reiteradamente se deje de cumplir con las facultades y obligaciones que le señale esta Ley al cargo para el que fue o fueron electos;
 
@@ -1673,7 +1673,7 @@ Para efecto de las notificaciones, citaciones, emplazamientos, requerimientos, v
 
 ###### ARTÍCULO 152.
 
-Los interesados podrán solicitar se les expida a su costa, copia certificada del expediente administrativo en el que se actúa, salvo que se trate de asuntos en que exista disposición legal que lo prohiba.
+Los interesados podrán solicitar se les expida a su costa, copia certificada del expediente administrativo en el que se actúa, salvo que se trate de asuntos en que exista disposición legal que lo prohíba.
 
 ###### ARTÍCULO 153.
 
@@ -1789,7 +1789,7 @@ III. Declarar la inexistencia, nulidad o anulabilidad del acto impugnado o revoc
 
 IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
-###### ARTICULO 165.
+###### ARTÍCULO 165.
 
 El recurso se tendrá por no interpuesto y se desechará cuando:
 
@@ -1905,9 +1905,7 @@ IV. Mediante convenios de coordinación y asociación que suscriba con el Ejecut
 
 La prestación de los Servicios Públicos Municipales, será supervisada por las comisiones correspondientes del Ayuntamiento y auditada por la Contraloría Municipal.
 
-### Capítulo IV. De los Convenios de Prestación de Servicios
-
-entre el Municipio y el Estado
+### Capítulo IV. De los Convenios de Prestación de Servicios entre el Municipio y el Estado
 
 ###### ARTÍCULO 174.
 
@@ -2603,7 +2601,7 @@ El Cronista de la Ciudad tiene facultades para:
 
 a) Representar al Presidente Municipal en los actos en que se lo solicite.
 
-b) Asistir a bachilleres en sus tésis y ensayos.
+b) Asistir a bachilleres en sus tesis y ensayos.
 
 c) Dictar conferencias y asistir a mesas redondas.
 
@@ -2699,9 +2697,11 @@ P.O. 15 DE MARZO DE 2010.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-El segundo informe sobre el estado que guarda la administración pública municipal que deban rendir los Presidentes Municipales en funciones, por única ocasión, tendrá lugar entre el 17 y el 21 de marzo de 2010, asimismo, el tercer informe que tengan que realizar los Presidentes Municipales en funciones, tendrá lugar entre el 1º y el 9 de abril de 2011.
+Los Presidentes Municipales en funciones rendirán el Tercer Informe sobre el estado que guarda la Administración Pública Municipal, entre el período que comprende del 27 de marzo al 4 de abril del año 2011.
 
 ###### ARTÍCULO TERCERO.
 
@@ -2710,3 +2710,13 @@ El primer informe sobre el estado que guarda la administración pública municip
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+## TRANSITORIO
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
