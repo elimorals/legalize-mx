@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-nomenclatura-de-vias-y-espacios-abiertos-25882"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-25"
-last_updated: "1996-10-25"
+last_updated: "2010-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE NOMENCLATURA DE VIAS Y ESPACIOS ABIERTOS PUBLICOS DE SAN PEDRO GARZA GARCIA, N. L
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de octubre de 1996.
 
@@ -79,9 +79,11 @@ V. Las demás que le confiera el presente Reglamento y otras disposiciones legal
 
 ### CAPÍTULO III. DE LA NOMENCLATURA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 5.
 
-La autoridad competente para la determinación de la denominación de las vías y espacios abiertos públicos será el R. Ayuntamiento tomando en cuenta las siguientes consideraciones:
+La autoridad competente para la determinación de la denominación de las vías y espacios abiertos públicos será el Republicano Ayuntamiento tomando en cuenta las siguientes consideraciones:
 
 I. Que el nombre propuesto no se repita con otra vía o espacio abierto público dentro del territorio municipal.
 
@@ -93,7 +95,15 @@ IV. Que no contenga palabras ofensivas, injuriosas o contrarias a las buenas cos
 
 V. Procurar que la denominación en ciertos casos fomente el conocimiento de fechas históricas, así como otorgue reconocimiento a los héroes o personalidades destacadas de la República, del Estado o del Municipio.
 
-VI. En ningún caso se podrá utilizar para la nomenclatura el nombre de personas vivas.
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+En todo caso las personas deberán haber destacado en la comunidad por su participación en la vida social, cívica, política, de servicio, cultural o deportivo (sic).
+
+VI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2010)
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+VII. Las proposiciones de nomenclatura deberán referirse preferentemente a nuevas vialidades.
 
 ###### ARTÍCULO 6.
 
@@ -103,17 +113,25 @@ I. Que sirva como un reconocimiento u homenaje Post-Mortem; y
 
 II. Que sea una persona de solvencia moral reconocida y que haya realizado acciones en beneficio de la comunidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 7.
 
-Antes de someter a la consideración del R. Ayuntamiento alguna propuesta tendiente a la denominación o modificación de la nomenclatura de una vía o espacio abierto público será necesario:
+Antes de someter a la consideración del Republicano Ayuntamiento alguna propuesta tendiente a la denominación o modificación de la nomenclatura de una vía o espacio abierto público será necesario:
 
-I. Que se formule la propuesta respectiva, por algún miembro del R. Ayuntamiento o por un grupo de diez ciudadanos mínimo.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+I. Que se formule la propuesta respectiva, por algún miembro del Republicano Ayuntamiento o por un grupo de diez ciudadanos residentes en el municipio como mínimo.
 
 II. Que en la propuesta se acompañe el estudio correspondiente en el que se apoye la misma, citando de ser posible los datos biográficos que correspondan, la que deberá ser presentada a la Comisión por escrito para su estudio y análisis.
 
-III. La comisión emitirá un dictamen el cual será presentado en la siguiente reunión al R. Ayuntamiento junto con la propuesta.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2010)</small>
 
-IV. Aprobado el dictamen por el R. Ayuntamiento, se mandará publicar la resolución correspondiente en la Gaceta Municipal, dando los avisos respectivos a todas las oficinas federales y estatales correspondientes.
+III. La comisión emitirá un dictamen el cual será presentado en la siguiente reunión al Republicano Ayuntamiento junto con la propuesta.
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+IV. Una vez aprobado el dictamen al menos por las dos terceras partes de los integrantes del Republicano Ayuntamiento, se mandará publicar en el Periódico Oficial del Estado de Nuevo León para su vigencia y para los efectos de difusión la resolución correspondiente en la Gaceta Municipal, dando los avisos respectivos a todas las oficinas federales, estatales y municipales correspondientes, así como organismos autónomos que requieren de ésta información.
 
 ###### ARTÍCULO 8.
 
@@ -208,3 +226,15 @@ PRESIDENTE MUNICIPAL
 MA. TERESA GARCIA DE MADERO
 
 SECRETARIA DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Las reformas por modificación, adición y derogación al presente Reglamento entrarán en vigor el día de su publicación en el Periódico Oficial del Estado y para su difusión se publicará en la Gaceta Municipal.
+
+SEGUNDO.- En caso de cambio de denominación de una vía pública la nomenclatura y numeración actuales seguirán vigentes, hasta la fecha de su publicación del referido cambio de denominación en el Periódico Oficial del Estado.
+
+TERCERO.- La Secretaría del Republicano Ayuntamiento distribuirá ejemplares del presente, a través de las Juntas de Vecinos y de las oficinas públicas municipales, con el objeto, de facilitar a los habitantes del Municipio el conocimiento del mismo.
+
+CUARTO.- Para todos los efectos de este Reglamento se entiende como supletoria la Ley de Desarrollo Urbano del Estado de Nuevo León.
