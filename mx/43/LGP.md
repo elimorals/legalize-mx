@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "2010-07-02"
+last_updated: "2010-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -534,6 +534,14 @@ El extranjero transmigrante, por su propia característica migratoria, en ningú
 
 Las autoridades de la República, sean federales, locales o municipales, así como los notarios públicos, los que sustituyan a éstos o hagan sus veces y los corredores de comercio, están obligados a exigir a los extranjeros que tramiten ante ellos asuntos de su competencia, que previamente les comprueben su legal estancia en el país, y que en los casos que establezca el Reglamento, acrediten que su condición y calidad migratoria les permiten realizar el acto o contrato de que se trate, o en su defecto, el permiso especial de la Secretaría de Gobernación. En los casos que señale el Reglamento, darán aviso a la expresada Secretaría en un plazo no mayor de quince días, a partir del acto o contrato celebrado ante ellas.
 
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2010)</small>
+
+No se podrá negar o restringir a los extranjeros que lo requieran, cualquiera que sea su situación migratoria, la atención de quejas en materia de derechos humanos y la procuración de justicia en todos los niveles, siempre y cuando cumplan con los requisitos establecidos en las disposiciones legales aplicables. Asimismo, los extranjeros tendrán derecho a ser auxiliados en el caso de desastres, así como a recibir la atención médica que requieran en enfermedades o accidentes que pongan en riesgo su vida, independientemente de su situación migratoria.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 2010)</small>
+
+Los servidores públicos que atiendan a los extranjeros en los supuestos antes establecidos, no estarán obligados a dar el aviso a que se refiere el párrafo primero del presente artículo.
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 68.
@@ -870,9 +878,17 @@ II. Dolosamente o por grave negligencia entorpezcan el trámite normal de los as
 
 III. Por sí o por intermediarios intervengan en la gestión de los asuntos a que se refiere esta Ley o patrocinen o aconsejen la manera de evadir las disposiciones y trámites migratorios a los interesados;
 
-IV. No expidan la Cédula de Identidad a la persona que se presente con los documentos requeridos o retengan indebidamente dicha cédula una vez expedida; y
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2010)</small>
 
-V. Dolosamente hagan uso indebido o proporcionen a terceras personas documentación migratoria, sin autorización de la Secretaría de Gobernación.
+IV. No expidan la Cédula de Identidad a la persona que se presente con los documentos requeridos o retengan indebidamente dicha Cédula una vez expedida;
+
+> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 2010)</small>
+
+V. Dolosamente hagan uso indebido o proporcionen a terceras personas documentación migratoria, sin autorización de la Secretaría de Gobernación, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2010)</small>
+
+VI. Cometan actos u omisiones que violen los derechos humanos de las personas que se encuentran sujetas a esta ley.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -1365,3 +1381,11 @@ D.O.F. 17 DE ABRIL DE 2009.
 D.O.F. 2 DE JULIO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE NOVIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal, a través de la Secretaría de Gobernación, deberá llevar a cabo las modificaciones pertinentes al artículo 149 del Reglamento de la presente Ley, para adecuarlo a las disposiciones aquí aprobadas, en un término que no excederá de 90 días posteriores a la entrada en vigor de este Decreto.
+
+Tercero.- La Cámara de Diputados asignará en el Decreto de Presupuesto de Egresos de la Federación de cada año, los recursos presupuestarios necesarios para cumplir cabalmente con la obligación impuesta por el artículo 67 de esta Ley.
