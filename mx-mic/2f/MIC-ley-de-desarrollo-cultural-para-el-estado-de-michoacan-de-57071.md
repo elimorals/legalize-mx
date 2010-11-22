@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-cultural-para-el-estado-de-michoacan-de-57071
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-26"
-last_updated: "2007-09-26"
+last_updated: "2010-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 26 de septiembre de 2007.
 
@@ -167,13 +167,23 @@ IV. Propiciar, fomentar y apoyar el desarrollo de las artesanías y de las expre
 
 V. Promover y apoyar el conocimiento, recuperación, conservación y divulgación del patrimonio cultural tangible e intangible;
 
-VI. Desarrollar la formación y capacitación de promotores y gestores culturales;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+VI. Impulsar la formación y capacitación de promotores y gestores culturales; a través de diferentes programas e instrumentos institucionales que la Secretaría estará obligada a publicitar, implementar y establecer, con el objeto de profesionalizar su actividad;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+VI Bis. Elaborar, actualizar y publicitar periódicamente un registro de los gestores y promotores culturales en el Estado;
 
 VII. Fomentar la educación artística en niños, jóvenes y adultos, a través de la educación por el arte en los niveles de educación básica, los talles (sic) de iniciación y sensibilización en casas de cultura y organismos similares, así como la formación artística profesional;
 
-VIII. Promover la creación y otorgar reconocimientos y estímulos al mérito de los creadores, investigadores, intérpretes, promotores y gestores culturales, mediante evaluaciones sustentadas en los principios de imparcialidad, equidad y transparencia;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2010)</small>
 
-IX. Promover y difundir investigaciones y estudios para el desarrollo de la cultura en sus expresiones artísticas, científicas y tecnológicas;
+VIII. Fomentar la educación artística en niños, jóvenes y adultos, a través de la educación por el arte en los niveles de educación básica, los talleres de iniciación y sensibilización en casas de cultura y organismos similares, así como la formación artística profesional;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+IX. Promover la creación y otorgar reconocimientos y estímulos al mérito de los creadores, investigadores, intérpretes, promotores y gestores culturales, mediante evaluaciones sustentadas en los principios de imparcialidad, equidad y transparencia. El Premio Estatal de las Artes "Eréndira" será entregado anualmente conforme a la reglamentación respectiva;
 
 X. Procurar que la oferta de servicios culturales del Estado llegue a todas las regiones del mismo;
 
@@ -465,17 +475,37 @@ VI. El mantenimiento, conservación y equipamiento de la infraestructura cultura
 
 La Secretaría impulsará una cultura cívica que fortalezca la participación de la ciudadanía en la elaboración, aplicación y evaluación del Programa de conformidad con lo dispuesto por la normatividad aplicable en la materia. La participación ciudadana será voluntaria y honorífica.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 32.
 
-Se instituye el Consejo Consultivo Estatal de Planeación Cultural, como un órgano de consulta de la Secretaría, para la formulación de los programas y acciones de fomento y promoción del desarrollo cultural.
+Se instituye el Consejo Consultivo Estatal de Planeación Cultural como un órgano colegiado de consulta de la Secretaría, con participación ciudadana, para la formulación de propuestas y la evaluación de los programas de fomento y promoción del desarrollo cultural estatal.
 
-Será presidido por el titular de la Secretaría y se integrará con un representante de cada una de las regiones.
+El Consejo Consultivo Estatal de Planeación Cultural lo integrará:
 
-Para la conformación del Consejo se observarán los criterios de pluralidad, renovación periódica y representatividad de sus integrantes los cuales se elegirán entre los miembros de las comunidades culturales y artísticas de las distintas regiones, conforme al procedimiento que se establezca en el Reglamento de esta Ley.
+I. Un Consejero Presidente, quién será el titular de la Secretaría;
 
-Los consejeros durarán dos años en su cargo y el desempeño será honorífico.
+II. Un Secretario Técnico designado por el Consejo; y,
 
-A las sesiones de Consejo, podrán ser invitados representantes de las agrupaciones culturales, artísticas o académicas, quienes participarán en sus deliberaciones.
+III. Los Consejeros siguientes:
+
+a) Un representante de cada una de las Redes Regionales de Cultura;
+
+b) Un representante del Sistema Estatal de Educación Artística;
+
+c) Un representante de los Creadores del Estado, que han participado en el Sistema Estatal de Creadores (SECREA) y que no sea funcionario del mismo;
+
+d) Un representante de la Secretaría de Educación del Estado; y,
+
+e) Un representante de la Secretaría de Turismo del Estado.
+
+El Consejo podrá invitar a sus sesiones, a representantes de agrupaciones culturales, artísticas, académicas e institucionales, así como a todas aquellas que para su mejor desempeño considere conveniente, quienes tendrán derecho a voz.
+
+Las comisiones de Cultura, Educación y Turismo del Honorable Congreso del Estado de Michoacán de Ocampo, serán invitadas permanentes.
+
+Por cada consejero propietario existirá un suplente, los consejeros ciudadanos durarán tres años en su cargo y el desempeño será honorifico.
+
+En el Reglamento del Consejo se especificará el perfil necesario para ser Secretario Técnico del Consejo, el procedimiento para nombrar a los consejeros suplentes y la forma de participación de los invitados.
 
 ###### Artículo 33.
 
@@ -493,9 +523,11 @@ V. Fortalecer los vínculos del desarrollo cultural con la educación, la cienci
 
 VI. Colaborar con la Secretaría en la evaluación del Programa y en el seguimiento de sus acciones.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 34.
 
-El Consejo sesionará al menos dos veces al año y cuantas veces sea necesario, a convocatoria expresa de la Secretaría.
+El Presidente del Consejo lo instalará dentro de los noventa días siguientes a su designación y sesionará al menos tres veces al año de manera ordinaria y de manera extraordinaria cada vez que el Presidente o la mayoría de sus miembros lo soliciten por escrito.
 
 ###### Artículo 35.
 
@@ -533,17 +565,25 @@ VII. El impulso al desarrollo, mantenimiento y conservación de la infraestructu
 
 Los ayuntamientos podrán promover, en coordinación con la Secretaría, mecanismos para la capacitación, la certificación académica de competencias y la profesionalización de su personal, y de los promotores y gestores culturales.
 
-### CAPÍTULO QUINTO. DEL OBSERVATORIO CULTURAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO QUINTO. DEL OBSERVATORIO DE DESARROLLO CULTURAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
 
-Además de las funciones establecidas en el Decreto que crea el Centro de Producción Artística y Desarrollo Cultural del Estado de Michoacán de Ocampo, tendrá el carácter de Observatorio Cultural, con las atribuciones siguientes:
+Corresponde a la Secretaría crear el Observatorio con las atribuciones siguientes:
 
 I. La recopilación, sistematización, organización y actualización permanente de la información estadística, cuantitativa y cualitativa del sector cultural;
 
 II. La elaboración de estudios que evalúen el impacto especifico y global de las acciones culturales en el desarrollo social y económico; y,
 
 III. Recabar aportaciones de las instituciones de educación superior y donativos de empresas, organizaciones y fundaciones nacionales e internacionales, de la sociedad civil, de la iniciativa privada y dependencias federales, para la operación del Observatorio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+La integración, el funcionamiento y la operación del Observatorio se establecerán en el Reglamento de la presente Ley.
 
 ###### Artículo 41.
 
@@ -577,6 +617,12 @@ Para el fortalecimiento del nivel de sensibilización, iniciación y formación 
 
 El fideicomiso denominado Fondo Estatal para la Promoción Cultural es el instrumento financiero de la Secretaría para administrar los donativos, herencias y legados que le sean otorgados por personas físicas o morales, nacionales o extranjeras, con el objeto de sufragar una o más de las actividades y acciones incorporados en el Programa, especialmente para el otorgamiento de apoyo financiero, técnico y logístico al desarrollo cultural y artístico, el financiamiento de los programas considerados en la presente Ley, la preservación del patrimonio cultural y el otorgamiento de subsidios y recursos de coinversión a las micro y pequeña industrias creativas.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 48.
+
+Para la operación del Observatorio, este Fondo recabará aportaciones de las instituciones de educación superior y donativos de empresas, organizaciones y fundaciones nacionales e internaciones, de la sociedad civil, de la iniciativa privada y dependencias federales.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -596,3 +642,15 @@ PRESIDENTE.- DIP. SALVADOR ORTIZ GARCÍA.- PRIMERA SECRETARIA.- DIP. MINERVA BAU
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán a los 06 seis días del mes de septiembre del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado, deberá expedir los reglamentos de la presente Ley dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
