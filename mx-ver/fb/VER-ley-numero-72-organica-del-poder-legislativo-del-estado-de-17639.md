@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2010-09-23"
+last_updated: "2010-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -75,15 +75,17 @@ a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con
 
 b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva.
 
-> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
-c) Revisar y dictaminar la cuenta pública del Gobierno del Estado, correspondiente al año anterior. La cuenta deberá ser presentada durante el mes de mayo, a fin de conocer los resultados de la gestión financiera, comprobar si se ha dado cumplimiento a los objetivos contenidos en los programas y ajustado a los criterios señalados en el presupuesto.
+c) Dictaminar y, en su caso, aprobar las Cuentas Públicas que, en términos de ley, le presenten el Poder Público, los organismos autónomos del Estado, la Universidad Veracruzana, los ayuntamientos, entidades paraestatales, entidades paramunicipales y cualquier ente o institución pública a los que la Constitución o las leyes del Estado den el carácter de ente fiscalizable.
 
 II. En el Segundo Período de Sesiones Ordinarias:
 
-a) (DEROGADO, G.O. 25 DE OCTUBRE DE 2004)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
-b) Examinar, fiscalizar y aprobar las cuentas de recaudación y distribución de ingresos del año próximo anterior, presentadas por los Ayuntamientos, conforme a la ley de la materia.
+a) Recibir de los entes fiscalizables señalados en el inciso c) de la fracción anterior, sus Cuentas Públicas a fin de conocer los resultados de su Gestión Financiera y comprobar si cumplieron con los objetivos de sus planes y programas, así como con los criterios señalados en sus respectivos presupuestos. Al efecto, las Cuentas Públicas deberán presentarse al Congreso del Estado durante el mes de mayo del año siguiente al que correspondan.
+
+b) (DEROGADO, G.O. 23 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 7.
 
@@ -193,7 +195,9 @@ Los diputados, tendrán los derechos y obligaciones siguientes:
 
 I. Asistir y, en su caso, votar en las Sesiones del Congreso, de la Diputación Permanente o de las Comisiones legislativas de que formen parte;
 
-II. Asistir, con voz pero sin voto, a las Sesiones de la Diputación Permanente, de las Comisiones Legislativas o de las Juntas, cuando no formen parte de las mismas;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+II. Asistir, con voz pero sin voto, a las sesiones de la Diputación Permanente o a las de las comisiones permanentes o especiales, cuando no formen parte de las mismas;
 
 III. Gozarán de inmunidad por las opiniones que manifiesten en el ejercicio de su cargo y en ningún tiempo podrán ser reconvenidos por ellas, aún después de haber cesado en su mandato;
 
@@ -245,7 +249,9 @@ IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes
 
 V. Darse su Ley Orgánica y la demás normatividad interior necesaria para el adecuado desarrollo de sus funciones, las que no requerirán de la promulgación del Ejecutivo para tener vigencia;
 
-VI. Expedir la ley que regule la organización y atribuciones del Órgano de Fiscalización Superior del Estado; así como emitir la convocatoria para elegir al titular del Órgano de Fiscalización Superior del Estado mismo que será electo por las dos terceras partes de los Diputados del Congreso;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+VI. Expedir la ley que regule la organización y atribuciones del Órgano de Fiscalización Superior del Estado; así como emitir la convocatoria para elegir a su titular, mismo que será electo por las dos terceras partes de los diputados presentes;
 
 VII. Coordinar y evaluar, sin perjuicio de la autonomía técnica y de gestión, el desempeño de las funciones del Órgano de Fiscalización Superior del Estado, en términos de la ley;
 
@@ -307,7 +313,9 @@ a) La contratación de obras y servicios públicos, cuando produzcan obligacione
 
 b) La celebración de contratos y de obras públicas, cuando su valor exceda del veinte por ciento de la partida presupuestal respectiva;
 
-c) La contratación de empréstitos;
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+c) La contratación de empréstitos y los anticipos que se les otorguen por concepto de participaciones federales;
 
 d) La enajenación, gravamen, transmisión de la posesión o dominio de bienes, participaciones, impuestos, derechos, aprovechamientos, contribuciones o cualquier tipo de ingreso fiscal que forme la hacienda municipal;
 
@@ -321,9 +329,13 @@ h) La creación de entidades paramunicipales.
 
 XVII. Llevar el registro de la situación patrimonial de los servidores públicos estatales y municipales, los cuales se harán públicos en los términos establecidos por la ley;
 
-XVIII. Designar, a propuesta de los partidos políticos y con la aprobación de las dos terceras partes de sus integrantes, a los Consejeros Electorales del Consejo General del Instituto Electoral Veracruzano, en los términos que fije la ley;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
-XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial y al Presidente de la Comisión Estatal de Derechos Humanos, en los términos que fije la ley;
+XVIII. Con la aprobación de las dos terceras partes de sus miembros presentes, designar a propuesta de los partidos políticos representados en el Congreso del Estado, previa realización de una amplia consulta a la sociedad que realicen éstos, a los Consejeros Electorales del Consejo General del Instituto Electoral Veracruzano, en los términos que fije la ley; y nombrar al titular de la Contraloría General del Instituto Electoral Veracruzano, a propuesta de instituciones públicas de educación superior del Estado, previa convocatoria que para el efecto se emita;
+
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+XIX. Nombrar, con la aprobación de las dos terceras partes de sus integrantes, a los magistrados del Poder Judicial, al Presidente de la Comisión Estatal de Derechos Humanos y a los consejeros del Instituto Veracruzano de Acceso a la Información;
 
 XX. Ratificar, con la aprobación de las dos terceras partes de sus integrantes, el nombramiento de un miembro del Consejo de la Judicatura y del Procurador General de Justicia;
 
@@ -379,7 +391,9 @@ XLI. Sesionar por lo menos una vez cada año en la cabecera de algún municipio 
 
 XLII. Recibir el informe escrito sobre el estado que guarda la administración pública estatal, que presente el titular del Poder Ejecutivo, así como la comparecencia de éste al finalizar la glosa de dicho informe, en los términos que prevé el artículo 18 bis de esta Ley;
 
-XLIII. Recibir el informe escrito que entregue el Magistrado Presidente del Tribunal Superior de Justicia, sobre las actividades realizadas por el Poder Judicial en el año correspondiente;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+XLIII. Recibir los informes escritos que entreguen los Magistrados Presidentes de los Tribunales Superior de Justicia, Electoral, de lo Contencioso Administrativo y de Conciliación y Arbitraje, sobre las actividades realizadas por esos órganos del Poder Judicial en el año correspondiente;
 
 XLIV. Determinar por sí, o a solicitud del Gobernador del Estado, la celebración de un referendo, sujetándose previamente a las formalidades del proceso legislativo y de conformidad con las leyes aplicables;
 
@@ -395,27 +409,21 @@ XLVII. Organizar anualmente, a través de la Comisión Permanente de Equidad, G�
 
 XLVIII. Las demás que le confieran la Constitución Federal, la Constitución local, las leyes del Estado y las que sean necesarias para hacer efectivas sus atribuciones.
 
-> <small>(ADICIONADO, G.O. 5 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 18 Bis.
 
-Al finalizar la glosa del informe escrito sobre el estado que guarda la administración pública estatal, el titular del Poder Ejecutivo comparecerá ante el Congreso, en sesión ordinaria de éste, que se desarrollará de la manera siguiente:
+Durante el mes de diciembre de cada año, al finalizar la glosa del informe escrito sobre el estado que guarda la administración estatal, el titular del Poder Ejecutivo comparecerá ante el Congreso, en sesión ordinaria de éste, bajo el procedimiento siguiente:
 
-> <small>(F. DE E., G.O. 6 DE SEPTIEMBRE DE 2010)</small>
+I. Inicialmente, un diputado por cada partido político con representación en el Congreso, en orden ascendente por el número de legisladores, intervendrá en la tribuna hasta por diez minutos, a efecto de fijar la posición de su organización política y emitir su consideración preliminar en tomo al estado que guarda la administración pública estatal;
 
-I. Inicialmente, un diputado por cada partido político con representación en el Congreso, en orden ascendente por el número de legisladores, intervendrá en la tribuna hasta por cinco minutos, a efecto de fijar la posición de su organización política y emitir su consideración preliminar en torno al estado que guarda la administración pública estatal;
+II. Concluidos los posicionamientos, el Gobernador del Estado hará uso de la tribuna para dar respuesta conjunta a los mismos, en una intervención que no excederá de treinta minutos;
 
-> <small>(F. DE E., G.O. 6 DE SEPTIEMBRE DE 2010)</small>
+III. A continuación, los legisladores, en el orden referido por la fracción I, formularán al Ejecutivo preguntas o comentarios sobre el informe hasta por cinco minutos cada uno;
 
-II. Concluidos los posicionamientos, el Gobernador del Estado hará uso de la tribuna para dar respuesta conjunta a los mismos, en una intervención que no excederá de veinte minutos;
+IV. El Gobernador responderá las preguntas o los comentarios de los diputados, en una última intervención de hasta veinte minutos.
 
-> <small>(F. DE E., G.O. 6 DE SEPTIEMBRE DE 2010)</small>
-
-III. A continuación, los legisladores, en el orden referido por la fracción I, formularán al Ejecutivo preguntas o comentarios sobre el informe hasta por cinco minutos cada uno. La respuesta del Gobernador será inmediata a cada Diputado, para lo que dispondrá también de cinco minutos; y
-
-> <small>(F. DE E., G.O. 6 DE SEPTIEMBRE DE 2010)</small>
-
-IV. Para concluir, un diputado por cada partido político formulará sus consideraciones finales en un lapso de cinco minutos cada uno y el Gobernador responderá en una última intervención de veinte minutos.
+En el año en que concluya su período constitucional el Gobernador del Estado, la comparecencia a que se refiere este artículo se celebrará en el mes de noviembre.
 
 ### CAPÍTULO II. DE LA MESA DIRECTIVA
 
@@ -609,9 +617,21 @@ A los Diputados que no formen, no se inscriban o dejen de pertenecer a un Grupo 
 
 La Junta de Coordinación Política es el órgano de Gobierno del Congreso del Estado, encargado de vigilar el óptimo ejercicio de las funciones legislativas, políticas y administrativas. La Junta funcionará de manera colegiada y se integrará con los Coordinadores de los Grupos Legislativos y, en caso de no poder constituirse en Grupo Legislativo, el partido respectivo acreditará ante la Junta a un diputado con voz pero sin voto.
 
-> <small>(REFORMADO, G.O. 10 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
-El coordinador del Grupo Legislativo que cuente con la mayoría absoluta de diputados en el Congreso será el Presidente de la Junta por toda la Legislatura. Si ningún Grupo alcanzare la mayoría absoluta y dos partidos obtuvieren más de diez diputaciones por el principio de mayoría relativa cada uno, los coordinadores de sus Grupos Legislativos presidirán la Junta, por plazos equivalentes, en el orden que ellos acuerden.
+El coordinador del grupo legislativo que cuente con la mayoría absoluta de diputados en el Congreso será el presidente de la Junta por toda la Legislatura.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+Si ningún Grupo tuviere la mayoría absoluta de diputados, la presidencia de la Junta será ocupada por toda la Legislatura por el coordinador del que cuente con la mayoría relativa, siempre que el número de diputados de ese Grupo sea superior a veinte. En caso de que dos Grupos Legislativos se encontraren en el supuesto descrito, sus coordinadores presidirán la Junta, por plazos equivalentes, en el orden que ellos acuerden.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+De no actualizarse alguna de las hipótesis previstas en los párrafos precedentes, la responsabilidad de presidir la Junta recaerá en los coordinadores de los Grupos Legislativos que cuenten al menos con diez diputados cada uno, durante plazos proporcionales a su representación, de acuerdo al orden decreciente de diputados que los conformen.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+Para los efectos de la instalación de la Junta y la determinación de su presidente, el número de diputados integrantes de los Grupos Legislativos se computará con base en el que corresponda exclusivamente a cada partido al momento de iniciar sus funciones la Legislatura, sin incluir a diputados provenientes de otros partidos, aunque hubieren renunciado a éstos de manera previa. En el caso de partidos políticos coaligados en la elección de diputados por mayoría relativa, se estará a los términos del convenio aprobado por el Instituto Electoral Veracruzano, en cuanto al origen partidista y Grupo Legislativo al que pertenecerían los candidatos postulados.
 
 ###### Artículo 32.
 
@@ -629,7 +649,9 @@ I. Impulsar los acuerdos relativos a la votación plenaria de las Iniciativas, p
 
 II. Presentar a la Mesa Directiva y al Pleno proyectos de puntos de acuerdo, pronunciamientos y declaraciones que entrañen una posición política del Congreso.
 
-III. Proponer al Pleno la integración de las Comisiones, así como de sus respectivas Juntas Directivas;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+III. Proponer al Pleno la integración de las Comisiones;
 
 > <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2005)</small>
 
@@ -773,13 +795,13 @@ XXIX. Turismo; y
 
 XXX. Vigilancia.
 
-> <small>(REFORMADO, G.O. 25 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
 
-Los titulares de las dependencias y entidades de la administración pública comparecerán ante las Comisiones Permanentes a dar cuenta del estado que guardan aquéllas, previa convocatoria de la Legislatura al Ejecutivo, en términos del calendario que, a propuesta de la Junta de Coordinación Política, haya aprobado el Congreso.
+Los titulares de las dependencias de la administración pública comparecerán ante las Comisiones Permanentes que correspondan, para la glosa del informe anual del Ejecutivo, en términos del calendario que, a propuesta de la Junta de Coordinación Política, haya aprobado el Congreso, mismo que se comunicará al Gobernador.
 
-El mismo procedimiento se aplicará cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, así como en los meses de noviembre y diciembre, cuando los titulares de las dependencias comparezcan para la glosa del informe anual del titular del Ejecutivo.
+Igual obligación de comparecer ante Comisiones Permanentes tendrán los titulares de las dependencias y entidades, para dar cuenta del estado que guardan éstas, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades. Para ello, el Congreso convocará, por conducto del Gobernador, a propuesta de la Junta de Coordinación Política.
 
 ### CAPÍTULO VII. DE LA DIPUTACIÓN PERMANENTE
 
@@ -819,6 +841,10 @@ IX. Convocar a elecciones extraordinarias, si faltaren a la vez un Diputado prop
 
 X. Designar provisionalmente a quien sustituya al Consejero de la Judicatura que hubiere designado el Congreso, y resolver, en su caso, sobre la renuncia que presente dicho servidor público, informando al Congreso en la primera sesión que lleve al cabo tras concluir el receso;
 
+> <small>(ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+X Bis. Designar provisionalmente a quien sustituya al Contralor General del Instituto Electoral Veracruzano, en caso de renuncia, inhabilitación, ausencia o muerte, informando al Congreso en la primera sesión que lleve a cabo tras concluir el receso, para que se proceda a la designación definitiva;
+
 > <small>(REFORMADA, G.O. 24 DE AGOSTO DE 2004)</small>
 
 XI. Conocer de los asuntos relacionados con la hacienda de los municipios, incluyendo las autorizaciones señaladas en las fracciones XXXVI y XXXVII del artículo 35 de la Ley Orgánica del Municipio Libre, y la práctica de auditorías, revisión y aprobación de las cuentas respectivas; y
@@ -845,15 +871,13 @@ La Diputación Permanente sesionará al menos cada quince días; y las veces que
 
 La Diputación Permanente preparará un informe de los asuntos que hubiere despachado en su gestión y de los que estén pendientes de resolución, con el cual dará cuenta el primer día de sesiones ordinarias, a efecto de que el Congreso proceda a su desahogo. En el último año de su ejercicio, dicho informe se presentará por escrito después de la última sesión del mes de octubre, a efecto de que el secretario general dé cuenta con él a la nueva Legislatura, que conocerá del mismo en su primera sesión ordinaria, para los efectos legales procedentes.
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 46 Bis.
 
-Los integrantes de la Mesa Directiva de la Diputación Permanente, en sus ausencias serán suplidas en la siguiente forma:
+Las ausencias del presidente de la Diputación Permanente serán suplidas por el vicepresidente, pero si faltare por más de un mes, el vicepresidente ejercerá las atribuciones de aquél, en tanto el Pleno elige a quien concluirá el período respectivo.
 
-a). El presidente por el vicepresidente; si fueren mayores a cuarenta y cinco días, el vicepresidente ejercerá las atribuciones de aquél, en tanto el Pleno elige al presidente que cumplirá con el periodo correspondiente.
-
-b). Las ausencias del vicepresidente o el secretario por el diputado que elija la Diputación Permanente de entre los sustitutos, para desempeñar el cargo, pero si sus ausencias fueren mayores de cuarenta y cinco días, el Pleno de la Diputación Permanente elegirá, de entre de los sustitutos, a quienes desempeñarán el cargo durante el receso Legislativo de que se trate.
+Las ausencias del vicepresidente o del secretario serán suplidas por el diputado que elija la Diputación Permanente, de entre los propietarios o sustitutos, quien desempeñará el cargo únicamente por la sesión o sesiones de que se trate; pero si las ausencias fueren por más de un mes, la Diputación Permanente elegirá a quienes desempeñarán el cargo durante el receso legislativo correspondiente.
 
 ## TÍTULO TERCERO. DE LAS RESOLUCIONES Y DEL PROCESO LEGISLATIVO
 
@@ -1306,5 +1330,11 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 23 DE SEPTIEMBRE DE 2010.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G. O. 23 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor el día cinco de noviembre de dos mil diez, previa publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
