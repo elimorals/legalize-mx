@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-11-16"
+last_updated: "2010-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -267,6 +267,10 @@ a) Subsecretaría de Servicios Médicos e Insumos:
 b) Dirección General de Vinculación y Enlace, y
 
 c) Dirección General de Planeación y Coordinación Sectorial.
+
+> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Agencia de Protección Sanitaria del Gobierno del Distrito Federal.
 
 VIII. A la Secretaría de Finanzas.
 
@@ -3860,39 +3864,23 @@ XXVI. Coadyuvar con las autoridades e instituciones educativas en la definición
 
 XXVII. Proporcionar la información y la cooperación técnica en las materias de su competencia, que le sean requeridas por las Unidades Administrativas de la Secretaría de Salud, de la Administración Pública y demás órganos del Gobierno local, así como por los Poderes de la Unión, de los Estados y Municipios;
 
-XXVIII. Ejercer el control, vigilancia y fomento sanitarios en el Distrito Federal, conforme a lo que señale la Ley General de Salud, sus reglamentos y la Ley de Salud para el Distrito Federal, con el apoyo del organismo público descentralizado Servicios de Salud Pública del Distrito Federal;
+XXVIII. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+XXIX. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2010)
 
-XXIX. Expedir autorizaciones sanitarias para las actividades, establecimientos, productos y servicios en el ámbito de su competencia, conforme lo señalen las disposiciones jurídicas y administrativas aplicables, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
+XXX. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+XXXI. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2010)
 
-XXX. Integrar el padrón local de actividades, establecimientos, productos y servicios que se encuentran sujetos a control y vigilancia sanitaria, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
+XXXII. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+XXXIII. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2010)
 
-XXXI. Ordenar y practicar verificaciones sanitarias de conformidad con las disposiciones jurídicas y administrativas aplicables a la materia, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
+XXXIV. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
+XXXV. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2010)
 
-XXXII. Controlar la fauna nociva en mercados, centros de abasto y demás establecimientos públicos donde se comercialicen productos para consumo humano, a través del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
-
-XXXIII. Emitir dictámenes sanitarios y expedir las notificaciones de resultados derivadas de las acciones de vigilancia sanitaria, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
-
-XXXIV. Imponer sanciones y aplicar medidas de seguridad cuando existan riesgos y daños a la salud de las personas, por incumplimiento de las disposiciones sanitarias aplicables, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
-
-XXXV. Realizar el control y vigilancia sanitarios en los establecimientos que expendan alimentos en la vía pública, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal; y (sic)
-
-> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2004)</small>
-
-XXXVI. Realizar el control y vigilancia sanitarios relacionados con el traslado, inhumación y exhumación de cadáveres, con el apoyo del Organismo Público Descentralizado Servicios de Salud Pública del Distrito Federal;
+XXXVI. (DEROGADA, G.O. 23 DE NOVIEMBRE DE 2010)
 
 > <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -13502,6 +13490,12 @@ X. Proponer para su autorización conjunta por parte de la Secretaría de Obras 
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
+#### SECCION VIII
+
+ADSCRITO A LA SECRETARIA DE SALUD.
+
+(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2010) (F. DE E., G.O. 24 DE NOVIEMBRE DE 2010)
+
 ###### Artículo 208.
 
 El Órgano Desconcentrado Instituto para la Atención de los Adultos Mayores en el Distrito Federal tiene por objeto tutelar el ejercicio de los derechos de las personas adultas mayores, operando su pensión alimentaria y promoviendo ante las dependencias y entidades competentes las acciones y programas que aseguren el mejoramiento y fortalecimiento de sus condiciones sociales y de salud y la elevación de su calidad de vida. Para tal efecto cuenta con las siguientes atribuciones:
@@ -13693,6 +13687,12 @@ VI. Dirigir, coordinar y supervisar el desempeño del personal a su cargo;
 VII. Elaborar los informes que le sean requeridos por el titular del Instituto; y
 
 VIII. Las que de manera directa le asigne el titular del Órgano Desconcentrado, así como los que se establezcan en otras disposiciones y manuales administrativos.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 216.
+
+El Órgano Desconcentrado Agencia de Protección Sanitaria del Gobierno del Distrito Federal tiene por objeto realizar las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan al Gobierno en materia de salubridad local. Para tal efecto contará con las atribuciones y facultades que se establecen en el Reglamento de la Agencia de Protección contra Riesgos Sanitarios.
 
 ## TRANSITORIOS
 
@@ -14293,3 +14293,9 @@ G.O. 16 DE NOVIEMBRE DE 2010.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 23 DE NOVIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
