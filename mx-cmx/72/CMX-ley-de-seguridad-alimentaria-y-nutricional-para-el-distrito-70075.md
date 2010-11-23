@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-seguridad-alimentaria-y-nutricional-para-el-distrito-700
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2009-09-17"
+last_updated: "2010-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70075&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-28"
 
 LEY DE SEGURIDAD ALIMENTARIA Y NUTRICIONAL PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -330,7 +330,9 @@ II. El diagnóstico de la situación que en esta materia guarda el Distrito Fede
 
 III. Los objetivos generales y específicos del programa;
 
-IV. Las estrategias del programa;
+> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+IV. Las estrategias del programa, incluyendo la promoción de una dieta correcta y balanceada que combata el sobrepeso y la obesidad, con un programa especial dirigido a los niños y niñas del Distrito Federal;
 
 V. Los criterios y estrategias de colaboración y corresponsabilidad con la sociedad organizada;
 
@@ -405,3 +407,11 @@ QUINTO.- Se derogan todas aquellas disposiciones que contravengan la presente le
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de agosto del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. ISAÍAS VILLA GONZÁLEZ, PRESIDENTE.- DIP. AVELINO MÉNDEZ RANGEL, SECRETARIO.- DIP. ELVIRA MURILLO MENDOZA, SECRETARIA.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de agosto del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 23 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
