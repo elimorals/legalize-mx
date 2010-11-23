@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-escuela-judicial-del-estado-de-campeche-46093"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-15"
-last_updated: "2005-08-15"
+last_updated: "2010-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Sección Judicial del Periódico Oficial del Estado de Campeche, el lunes 15 de agosto de 2005.
 
@@ -37,9 +37,11 @@ REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE CAMPECHE
 
 ### Capítulo Unico. Generalidades
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 1.
 
-La Escuela Judicial es la dependencia del Poder Judicial del Estado de Campeche, que de acuerdo a las atribuciones que le confiere el presente Reglamento, desarrollará y ejecutará las acciones relativas a la formación profesional y a la impartición de estudios de Postgrado a los Servidores Públicos Judiciales.
+La Escuela Judicial es la dependencia del Poder Judicial del Estado de Campeche que, de acuerdo a las atribuciones que le confiere el presente reglamento, desarrollará y ejecutará primordialmente las acciones relativas a la formación profesional y a la impartición de estudios de postgrado a los servidores públicos.
 
 ###### Artículo 2.
 
@@ -59,9 +61,11 @@ f) La Dirección: la Dirección de la Escuela Judicial;
 
 g) Módulo: cada una de las materias integradas en cursos, comprendidas en los Planes de Estudios.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 3.
 
-El objetivo de la EJEC es brindar a los Servidores Públicos del Poder Judicial estudios de Postgrado y acciones académicas que contribuyan a su profesionalización y con ello, a la mejora en la impartición de justicia en el Estado de Campeche, fin primordial de la misma.
+El objetivo de la EJEC es brindar a los servidores públicos del Poder Judicial y de otras instituciones, estudios de postgrado y acciones académicas que contribuyan a su profesionalización y, con ello, a la mejora en la impartición de justicia en el Estado de Campeche, fin primordial de la misma.
 
 ###### Artículo 4.
 
@@ -75,9 +79,13 @@ La EJEC se regirá por los principios de objetividad, profesionalismo y excelenc
 
 Son funciones de la EJEC:
 
-a) La formación permanente a través de la impartición de estudios de Postgrado y acciones académicas, para los integrantes del Poder Judicial.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
 
-b) El desarrollo de otras actividades de formación humanística y de capacitación técnica-jurídica y administrativa que requiera el Poder Judicial.
+a) La formación permanente a través de la impartición de estudios de postgrado y acciones académicas para los integrantes del Poder Judicial y servidores públicos.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+b) El desarrollo de otras actividades de formación humanística y capacitación técnica-jurídica y administrativa que requiera el Poder Judicial.
 
 c) El mantenimiento de relaciones de cooperación y el intercambio de información con organismos e instituciones públicas y privadas para la realización de actividades relacionadas con la educación judicial.
 
@@ -101,53 +109,61 @@ c) El Consejo Académico.
 
 El Director de la EJEC, podrá ser un Magistrado del Poder Judicial o un Profesor-Investigador de la misma, a propuesta del Presidente del Tribunal Superior de Justicia y designado en Sesión de Pleno, por mayoría de votos.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 9.
 
 Para ser Director se deberán reunir los siguientes requisitos:
 
-a) Ser Licenciado en Derecho, con grado de Maestro o Doctor en Derecho o Ciencias, y
+a) Ser magistrado del Poder Judicial en activo o en retiro; o
 
-b) Tener amplia experiencia en actividades docentes y académicas.
+b) Ser Licenciado en Derecho, con grado de Maestro o Doctor en Derecho o
 
-Durará en el cargo cuatro años, pudiendo ser ratificado una sola vez. El Director será la máxima autoridad de la EJEC. Las situaciones no contempladas en el presente Ordenamiento, serán resueltas por el Consejo Académico o las someterá a la decisión del Pleno, según la naturaleza de la cuestión.
+Ciencias; y
+
+c) Tener amplia experiencia en actividades docentes y académicas.
+
+Durará en el cargo cuatro años, pudiendo ser ratificado. El Director será la máxima autoridad de la EJEC. Las situaciones no contempladas en el presente ordenamiento, serán resueltas por el Consejo Académico o se someterán a la decisión del Pleno según la naturaleza de la cuestión.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 10.
 
 Corresponden al Director de la EJEC las siguientes atribuciones:
 
-a) Ostentar por sí, la representación de la EJEC en actos jurídicos, oficiales y privados de la vida académica.
+a) Ostentar por sí la representación de la EJEC en actos jurídicos, oficiales y privados de la vida académica;
 
-b) Cumplir y hacer cumplir el presente Reglamento.
+b) Cumplir y hacer cumplir el presente reglamento;
 
-c) Dirigir, coordinar y controlar el desarrollo de todas las actividades de la EJEC velando por el cumplimiento de sus fines.
+c) Dirigir, coordinar y controlar el desarrollo de todas las actividades de la EJEC, velando por el cumplimiento de sus fines;
 
-d) Someter al Pleno, en el último mes del año académico, el Plan Anual de Actividades de la EJEC para el año siguiente.
+d) Someter al Pleno, en el último mes del año académico, el plan anual de actividades de la EJEC para el año siguiente;
 
-e) Rendir ante el Pleno en el último mes del año judicial su Informe Anual de Actividades.
+e) Rendir ante el Pleno, en el último mes del año judicial, su informe anual de actividades;
 
-f) Ejercer la dirección del personal adscrito a la EJEC, así como dirigir las funciones administrativas, financieras y de régimen interior.
+f) Ejercer la dirección del personal adscrito a la EJEC, así como dirigir las funciones administrativas, financieras y de régimen interior;
 
-g) Proponer al Pleno las modificaciones y su justificación de los Programas de Postgrado.
+g) Proponer al Pleno las modificaciones y su justificación de los programas de postgrado;
 
-h) Proponer al Pleno la celebración de Convenios con organismos análogos, universidades y con toda clase de entidades y organismos públicos y privados.
+h) Proponer al Pleno la celebración de convenios con organismos análogos, universidades y con toda clase de entidades y organismos públicos y privados;
 
-i) Expedir y signar los Certificados, Títulos y Diplomas acreditativos de la asistencia y aprovechamiento a los cursos y estudios realizados en la EJEC.
+i) Expedir y signar los certificados, títulos y diplomas acreditativos de la asistencia y aprovechamiento a los cursos y estudios realizados en la EJEC;
 
-j) Proponer al Pleno el nombramiento, en caso de vacante, del Secretario Académico y Administrativo.
+j) Proponer al Pleno el nombramiento, en caso de vacante, de los Secretarios Académico y Administrativo y demás personal que preste su servicio en la EJEC;
 
-k) Proponer ante el Consejo Académico a los profesores de la EJEC teniendo en cuenta su capacidad, experiencia y méritos profesionales.
+k) Proponer ante el Consejo Académico a los profesores de la EJEC teniendo en cuenta su capacidad, experiencia y méritos profesionales;
 
-l) Seleccionar a los aspirantes a los Cursos de Postgrado según los criterios fijados por este Reglamento y por el Consejo Académico, dentro de las limitaciones objetivas y presupuestarias de cada programa.
+l) Seleccionar a los aspirantes a los cursos de postgrado según los criterios fijados por este reglamento y por el Consejo Académico, dentro de las limitaciones objetivas y presupuestarias de cada programa;
 
-m) Solicitar al Pleno el otorgamiento de incentivos a los alumnos o a los maestros que se distingan por su alto nivel de desempeño y dedicación.
+m) Solicitar al Pleno el otorgamiento de incentivos a los alumnos o a los maestros que se distingan por su alto nivel de desempeño y dedicación;
 
-n) Efectuar revisiones periódicas y evaluaciones acerca del funcionamiento general de la EJEC.
+n) Efectuar revisiones periódicas y evaluaciones acerca del funcionamiento general de la EJEC;
 
-o) Convocar a Sesiones Ordinarias y Extraordinarias del Consejo Académico.
+o) Convocar a sesiones ordinarias y extraordinarias del Consejo Académico;
 
-p) Presidir las Sesiones del Consejo Académico.
+p) Presidir las sesiones del Consejo Académico;
 
-q) Ejercer las demás funciones que le sean conferidas por el Pleno y por el presente Reglamento.
+q) Ejercer las demás funciones que le sean conferidas por el Pleno y por el presente reglamento.
 
 ###### Artículo 11.
 
@@ -187,43 +203,73 @@ c) Las necesidades académicas detectadas, y
 
 d) La congruencia de los planes y programas de estudios con las necesidades y objetivos de la institución.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 14.
 
-El Secretario Académico y Administrativo será nombrado por el Pleno a propuesta del Director, y deberá reunir los siguientes requisitos:
+El Secretario Académico será nombrado por el Pleno, a propuesta del Director, y deberá reunir los siguientes requisitos:
 
-a) Tener título de Licenciado en Derecho, y grado de Maestro o Doctor en Derecho o en Ciencias y
+a) Tener título de Licenciado en Derecho y grado de Maestro o Doctor en derecho o en ciencias; y
 
 b) Poseer suficientes méritos profesionales y académicos.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 15.
 
-Corresponden al Secretario Académico y Administrativo las siguientes funciones:
+Corresponden al Secretario Académico las siguientes funciones:
 
-a) Sustituir al Director en los casos de enfermedad o ausencia, hasta por tres días seguidos.
+a) Sustituir al Director en los casos de enfermedad o ausencia hasta por tres días seguidos;
 
-b) Organizar los Planes de Estudios de los cursos programados.
+b) Organizar los Planes de Estudio de los cursos programados;
 
-c) Preparar los Convenios con centros análogos e instituciones para la colaboración en materia de formación académica, de acuerdo con las instrucciones del Director.
+c) Preparar los convenios con centros análogos e instituciones para la colaboración en materia de formación académica, de acuerdo con las instrucciones del Director;
 
-d) Integrar y actualizar los expedientes personales, para la selección de quienes deban prestar servicios en la EJEC.
+d) Integrar y actualizar los expedientes personales, para la selección de quienes deban prestar servicios en la EJEC;
 
-e) Calendarizar los cursos de los diferentes programas de estudios.
+e) Calendarizar los cursos de los diferentes programas de estudios;
 
-f) Signar conjuntamente con el Director los Certificados, Títulos, Diplomas y demás documentos oficiales que expida la EJEC.
+f) Signar conjuntamente con el Director los certificados, títulos, diplomas y demás documentos oficiales que expida la EJEC;
 
-g) Llevar el control de asistencias de los alumnos y maestros.
+g) Llevar el control de asistencias de los alumnos y maestros;
 
-h) Mantener actualizado el registro de alumnos regulares, así como de aquellos que se den de baja.
+h) Mantener actualizado el registro de alumnos regulares, así como de aquellos que se den de baja;
 
-i) Elaborar el programa anual.
+i) Elaborar el programa anual;
 
-j) Llevar los libros de: Actas de exámenes, de registro de Tesis de Postgrado y de Títulos expedidos.
+j) Llevar los libros de Actas de exámenes, de Registro de tesis de postgrado y de Títulos expedidos;
 
-k) Elaborar el Informe Anual de Actividades.
+k) Elaborar el informe anual de actividades; y
 
-l) Organizar al personal administrativo de la EJEC para el cumplimiento de sus objetivos.
+l) Dirigir y vigilar la actualización de la página web de la EJEC.
 
-m) Realizar las otras funciones que le sean delegadas por el Director de la EJEC.
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 15 BIS.
+
+El Secretario Administrativo será nombrado por el Pleno a propuesta del Director, y deberá cumplir con los siguientes requisitos:
+
+a) Tener el título profesional de Licenciado en Derecho o Ingeniería o Informática o Comunicación o Construcción o Administración de instituciones académicas; y grado académico de Maestro o Doctor en alguna de las citadas áreas;
+
+b) Poseer suficientes méritos profesionales.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 15 TER.
+
+Corresponden al Secretario Administrativo las siguientes funciones:
+
+a) Organizar al personal administrativo de la EJEC para el cumplimiento de sus objetivos;
+
+b) Vigilar el uso adecuado y mantenimiento oportuno de las instalaciones y equipo de la EJEC;
+
+c) Velar por el orden y la disciplina en las instalaciones de la EJEC;
+
+d) Tener a su cargo y bajo su responsabilidad los bienes que integren el patrimonio de la EJEC; y
+
+e) Realizar las otras funciones que le sean delegadas por el Director de la
+
+EJEC.
 
 ### Capítulo III. De las ausencias y suplencias del personal
 
@@ -235,9 +281,11 @@ Las ausencias temporales de más de 3 días del Director serán cubiertas por un
 
 Los integrantes del Consejo Académico serán suplidos en sus faltas accidentales o temporales cuando no se reúna la mayoría de sus integrantes, por otro Magistrado o Profesor-investigador de la EJEC, a propuesta del Director ante el Pleno.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 18.
 
-El Secretario Académico y Administrativo será suplido en sus faltas temporales que excedan de 10 días, por el Servidor Académico o Administrativo de la EJEC, que a propuesta del Director, nombre el Pleno.
+Los Secretarios Académicos y Administrativos serán suplidos en sus faltas temporales que excedan de diez días por el servidor académico o administrativo de la EJEC, que, a propuesta del Director, nombre el Pleno.
 
 ###### Artículo 19.
 
@@ -315,27 +363,27 @@ Las actividades académicas se realizarán en Sesiones con una duración mínima
 
 La selección de los aspirantes a cursar los estudios en la EJEC estará a cargo de la Dirección.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 34.
 
 Los requisitos para ingresar a los cursos en la EJEC son:
 
-A. Para los cursos de Postgrado:
+I. Para los cursos de postgrado:
 
-a) Pertenecer al Poder Judicial,
+a) Pertenecer al Poder Judicial o haber sido propuesto por alguna dependencia que tenga relación con la seguridad pública y la administración de justicia;
 
-b) Tener una antigüedad mínima de dos años,
+b) Ser Licenciado en Derecho;
 
-c) Ser Licenciado en Derecho,
+c) Reunir la documentación requerida por la Dirección;
 
-d) Reunir la documentación requerida por la Dirección,
+d) No tener sanciones disciplinarias que hayan sido procedentes, por lo menos en los cinco años inmediatos anteriores;
 
-e) No tener sanciones disciplinarias que hayan sido procedentes, por lo menos en los 5 años inmediatos anteriores,
+e) Aprobar el curso propedéutico con promedio mínimo general de ocho en las calificaciones; y
 
-f) Aprobar el curso propedéutico con promedio mínimo general de ocho en las calificaciones, y
+f) Entrevista personal con el Director.
 
-g) Entrevista personal con el Director.
-
-B. Para participar en los cursos de formación y de capacitación impartidos bastará con ser Servidor Público Judicial y cumplir los requisitos que se señalen en la Convocatoria correspondiente.
+II. Para participar en los cursos de formación y capacitación impartidos bastará con ser servidor público y cumplir los requisitos que se señalen en la convocatoria correspondiente.
 
 ###### Artículo 35.
 
@@ -463,23 +511,33 @@ a) Lo solicite expresamente, y
 
 b) Presente un examen de recuperación y no lo apruebe.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 52.
 
-Causará baja definitiva el alumno que:
+Causa baja definitiva el alumno que:
 
-a) Al reintegrarse a los cursos después de una baja provisional repruebe nuevamente el módulo por el que causó baja provisional,
+a) Al reintegrarse a los cursos después de una baja provisional repruebe nuevamente el módulo por el que causó baja provisional;
 
-b) Viole de forma grave las normas establecidas en este Reglamento o los acuerdos que al respecto determine el Pleno,
+b) Viole de forma grave las normas establecidas en este reglamento o los acuerdos que al respecto determine el Pleno;
 
-c) No guarde buena conducta como alumno o como servidor público judicial, y
+c) No guarde buena conducta como alumno o como servidor público, en su caso; y
 
-d) Deje de prestar sus servicios al Poder Judicial.
+d) Deje de prestar sus servicios al Poder Judicial, en su caso.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 52 BIS.
+
+Cuando el alumno cause baja provisional o definitiva y no fuese servidor judicial también se le hará saber esta determinación a quien lo hubiese propuesto para ser alumno de la EJEC.
 
 ### Capítulo VII. Del egreso de la EJEC
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 53.
 
-Podrán egresar de la EJEC y obtener el Diploma de Especialización:
+Podrán egresar de la EJEC y obtener el diploma de Especialización:
 
 a) Los alumnos que hayan cubierto los créditos totales del Plan de Estudios de la Especialidad,
 
@@ -569,27 +627,27 @@ d) Grado por el que se opta,
 
 e) Lugar y fecha en que concluyó la investigación.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 61.
 
-Los lineamentos de forma de los trabajos de investigación son los siguientes:
+Los lineamientos para la forma de los trabajos de investigación son los siguientes:
 
-a) Estar conformados por un mínimo de 50 cartillas (sic) de texto en el caso de las tesinas, y 100 en el caso de las tesis de grado, dentro de dicho cálculo se excluyen todo tipo de anexos, índices, introducción, tablas, bibliografía y todo aquel material que no forme parte del cuerpo de la investigación.
+a) Estar conformados por un mínimo de 50 cuartillas de texto en el caso de las tesinas, y 100 en el caso de las tesis de grado; dentro de dicho cálculo se excluye todo tipo de anexos, índices, introducción, tablas, bibliografía y todo aquel material que no forme parte del cuerpo de la investigación.
 
 b) Cada cuartilla deberá estar elaborada de acuerdo a las siguientes especificaciones:
 
-1. El margen izquierdo de la hoja será de 3 cm. y el derecho de 2 cm.,
+1. El margen izquierdo de la hoja será de 3 cm., y el derecho de 2 cm.
 
-2. El margen superior de la hoja será de 2 cm. y el inferior de 3 cm.,
+2. El margen superior de la hoja será de 2 cm., y el inferior de 3 cm.
 
-3. El texto deberá teclearse a doble espacio,
+3. Contener un mínimo de 22 líneas.
 
-4. Contener un mínimo de 22 líneas,
+c) El texto de la tesis debe estar paginado;
 
-c) El texto de la tesis debe estar paginado.
+d) La bibliografía, en el caso de la tesina, estará integrada por un mínimo de 30 textos, y la tesis de grado por 60 textos;
 
-d) La bibliografía, en el caso de la tesina estará integrada por un mínimo de 30 textos, y la tesis de grado por 60 textos.
-
-e) Las notas bibliográficas deberán ir a pie de página.
+e) Las notas bibliográficas deberán ir al pie de página.
 
 ###### Artículo 62.
 
@@ -741,6 +799,12 @@ En caso de que el resultado sea notablemente negativo, el Consejo Académico pod
 
 La EJEC como dependencia del Poder Judicial estará sujeta al mismo régimen presupuestario y control financiero que las restantes de la misma naturaleza y de acuerdo a lo autorizado por el Pleno.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 78 BIS.
+
+La EJEC, como dependencia del Poder Judicial, estará sujeta al mismo régimen presupuestario y control financiero que las restantes de la misma naturaleza y de acuerdo a lo autorizado por el Pleno.
+
 ###### Artículo 79.
 
 Los profesores externos que ocasionalmente presten sus servicios a la EJEC recibirán sus honorarios por hora de clase impartida, entendiéndose que de ellas no se deriva ninguna vinculación laboral definitiva con la EJEC.
@@ -860,3 +924,11 @@ LICENCIADO WALDO RINCON RINCON, Secretario General de Acuerdos del H. Tribunal S
 CERTIFICA: Que este Reglamento fue dictado y debidamente aprobado por el Pleno del H. Tribunal Superior de Justicia en Sesión Ordinaria verificada el día Ocho de Agosto de Dos mil cinco.
 
 Se expide la presente Certificación en la Ciudad y Puerto de Campeche, Capital del mismo nombre.- Estados Unidos Mexicanos, a los Once días del mes de Agosto de Dos mil cinco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2010.
+
+PRIMERO: Las reformas al Reglamento de la Escuela Judicial del Estado de Campeche entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Con fundamento en el Código Civil vigente del Estado y la Ley de Transparencia y Acceso a la Información Pública del Estado remítase para su publicación en el Periódico Oficial del Gobierno del Estado de Campeche y en el Portal de Transparencia del Poder Judicial.
