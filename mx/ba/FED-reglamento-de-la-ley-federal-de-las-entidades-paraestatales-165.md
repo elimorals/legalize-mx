@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-las-entidades-paraestatales-165
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-01-26"
-last_updated: "1995-04-07"
+last_updated: "2010-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1990-01-25"
 
 REGLAMENTO DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de enero de 1990.
 
@@ -61,9 +61,17 @@ I. Ley: la Ley Federal de las Entidades Paraestatales;
 
 II. Organo de Gobierno: Los consejos de administración, juntas directivas de Gobierno, comités técnicos o sus equivalentes;
 
-III. Entidades Paraestatales: la que con tal carácter determinan la Ley Orgánica de la Administración Pública Federal, y
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
 
-IV. Titulares de las Entidades: sus directores generales o, equivalentes.
+III. Entidades Paraestatales: las que con tal carácter determinan la Ley Orgánica de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+IV. Titulares de las Entidades: sus directores generales o equivalentes, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+V. Registro: el Registro Público de Organismos Descentralizados.
 
 ###### ARTICULO 3o.
 
@@ -385,6 +393,114 @@ El órgano interno de control, tendrá acceso a todas las áreas y operaciones d
 
 El órgano interno de control además de las tareas a que se refiere la fracción III del artículo 62 de la Ley, llevará a cabo o, en su caso, promoverá la realización de auditorías integrales que permitan verificar el desempeño general de las entidades, considerando para tal efecto sus objetivos, características específicas y recursos asignados, así como el contexto en el que desarrollan sus operaciones.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO VII. Del Registro Público de Organismos Descentralizados
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 35.
+
+El Registro funcionará mediante un sistema electrónico y estará a cargo de la Secretaría de Hacienda y Crédito Público, por conducto de su unidad jurídica.
+
+El Registro contará con una base de datos, la cual se integra con la información que ingresen los organismos descentralizados o, en su caso, por el responsable del proceso de desincorporación, de acuerdo con los actos o documentos que deban registrarse en el mismo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 36.
+
+Además de los actos y documentos a que se refieren los artículos 24 y 25 de la Ley, se deberá inscribir en el Registro el documento en el que conste que se ha concluido con el proceso de desincorporación correspondiente.
+
+La inscripción a que se refiere el párrafo anterior, deberá ser realizada por el responsable del proceso de desincorporación.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 37.
+
+El Registro contará con los siguientes apartados:
+
+I. De Inscripción: sección en la que los organismos descentralizados o, en su caso, el responsable del proceso de desincorporación, tramitarán la inscripción de los actos, documentos o información que corresponda;
+
+II. De Administración: sección a cargo de la unidad jurídica de la Secretaría de Hacienda y Crédito Público, para llevar a cabo la operación y conducción del Registro, y
+
+III. De Acceso al Público: sección en la que el público en general tendrá acceso a la información inscrita en el Registro.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 38.
+
+La Secretaría de Hacienda y Crédito Público proporcionará acceso a los organismos descentralizados a través de un certificado digital y una clave de acceso, emitidos en términos de las disposiciones aplicables, con la finalidad de recibir y procesar las solicitudes de inscripción de los actos, documentación o información correspondientes.
+
+El responsable del proceso de desincorporación utilizará el certificado digital y la clave de acceso del organismo de que se trate, a efecto de realizar las inscripciones que le correspondan.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 39.
+
+Los organismos descentralizados o, en su caso, el responsable del proceso de desincorporación solicitarán, mediante el sistema electrónico, la inscripción de los actos, documentos e información que conforme a la Ley y el presente Reglamento deban inscribirse. Dichas solicitudes deberán contener los datos, requisitos y demás información que establezca la Secretaría de Hacienda y Crédito Público.
+
+Para efectos de lo previsto en el párrafo anterior, el director general de cada organismo descentralizado o, en su caso, el responsable del proceso de desincorporación designará a un enlace habilitado para ingresar las solicitudes, la documentación e información correspondiente. El organismo descentralizado, por conducto de su director general y enlace designado o, en su caso, el responsable del proceso de desincorporación, serán responsables de mantener actualizada la información.
+
+Es responsabilidad de los organismos descentralizados cerciorarse con anterioridad a la solicitud de inscripción correspondiente, que se acreditaron los elementos que se requieren para la validez del acto o documento a inscribir, así como de la veracidad de la información respectiva.
+
+Las inscripciones que de conformidad con la Ley y el presente Reglamento se realicen, no convalidarán los actos o contenido de los documentos e información correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 40.
+
+Las inscripciones en el Registro se realizarán de la siguiente manera:
+
+I. Los organismos descentralizados al realizar las solicitudes de inscripción, deberán adjuntar los documentos e información relacionados con su solicitud en el sistema electrónico, utilizando el certificado digital y la clave de acceso correspondiente;
+
+II. El Registro emitirá un acuse de recibo de las solicitudes realizadas, y
+
+III. En caso de que la inscripción sea procedente, se emitirá la confirmación respectiva; en caso contrario, la solicitud será desechada y se le dará el aviso correspondiente al organismo descentralizado.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 41.
+
+Habrá un folio por cada organismo descentralizado. El folio será la constancia de inscripción del organismo en el Registro, la cual surtirá efectos legales desde la fecha en que se expida.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 42.
+
+Cada organismo descentralizado contará con una sección en el Apartado de Administración, en la cual constarán todos los asientos relativos a las inscripciones que hubiera tramitado ante el Registro.
+
+El Apartado de Administración se organizará conforme a lo siguiente:
+
+I. El estatuto orgánico, sus modificaciones, y demás información general de cada organismo descentralizado;
+
+II. Nombramientos, sustituciones, remociones, designaciones, poderes generales y revocaciones de cada organismo descentralizado, en términos de lo establecido en el artículo 25, fracciones II, III y IV, de la Ley, y
+
+III. Acuerdo o instrumento equivalente que señale las bases para la desincorporación de la entidad y, en su caso, del documento en el que conste que se ha concluido dicho proceso.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 43.
+
+Las consultas públicas al Registro se realizarán a través del sistema electrónico y serán gratuitas. Lo anterior, sin perjuicio de lo establecido en las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 44.
+
+Las certificaciones de las inscripciones que se encuentren en el Registro serán expedidas mediante el sistema electrónico, con el uso de la firma electrónica autorizada en términos de las disposiciones aplicables, las cuales tendrán pleno valor jurídico.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 45.
+
+Las inscripciones en el Registro sólo podrán ser modificadas por la Secretaría de Hacienda y Crédito Público, por conducto de su unidad jurídica.
+
+> <small>(ADICIONADO, D.O.F. 23 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 46.
+
+La unidad jurídica de la Secretaría de Hacienda y Crédito Público podrá emitir lineamientos específicos para la regulación, operación y conducción del Registro, así como para el debido registro de las inscripciones que se tramiten ante el mismo. Asimismo, en dichos lineamientos se habilitará a los servidores públicos de la misma, para el uso de firma electrónica.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -400,3 +516,15 @@ Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 7 DE ABRIL DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE NOVIEMBRE DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La unidad jurídica y el área a cargo de las tecnologías de la información de la Secretaría de Hacienda y Crédito Público se encargarán, en el ámbito de sus respectivas competencias, de que el sistema electrónico para el uso y operación del Registro esté habilitado a más tardar al año siguiente a la entrada en vigor del presente Decreto.
+
+TERCERO. Los organismos descentralizados de la Administración Pública Federal deberán realizar las solicitudes de inscripción en el Registro de los actos, documentos e información con la que cuenten a la entrada en funcionamiento del Registro, en un plazo no mayor a 60 días naturales posteriores a la habilitación del mismo.
+
+Lo anterior con excepción de las solicitudes de inscripción de los organismos descentralizados, que deberán realizarse en el plazo de 30 días naturales posteriores a la habilitación del sistema electrónico.
+
+CUARTO. Las erogaciones que, en su caso, se generen con motivo de la operación, acceso e inscripciones en el Registro, serán con cargo al presupuesto modificado autorizado de la Secretaría de Hacienda y Crédito Público, así como con cargo al patrimonio de las entidades paraestatales, según corresponda.
