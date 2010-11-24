@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-18581"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-11-26"
-last_updated: "2010-04-16"
+last_updated: "2010-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Gobierno Constitucional del Estado de Puebla el viernes 26 de noviembre de 1999.
 
@@ -327,9 +327,11 @@ IV.- Los Ingresos derivados de los rendimientos financieros, fondos o fideicomis
 
 V.- Los ingresos derivados de la venta de productos propios; y
 
-VI.- Los ingresos provenientes de las multas que imponga por sí, a través del Órgano de Fiscalización Superior del Estado, o por cualquier otra vía, en términos de las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-Para los efectos de la fracción VI de este artículo, se podrán constituir créditos fiscales a favor del Poder Legislativo del Estado y se turnarán a la Secretaría de Finanzas y Administración, para que mediante el Procedimiento Administrativo de Ejecución a que se refiere el Código Fiscal del Estado, se hagan efectivas y se enteren al Congreso del Estado. Con este fin, el Presidente de la Gran Comisión y el Titular del Poder Ejecutivo, o quien éste designe, podrán celebrar convenios de coordinación administrativa.
+VI.- Los ingresos provenientes de las multas que imponga en términos de las disposiciones aplicables.
+
+Para los efectos de la fracción VI de este artículo, las multas que imponga el Congreso del Estado, una vez que queden firmes tendrán el carácter de créditos fiscales, y se turnarán a la Secretaría de Finanzas y Administración para su cobro a través del Procedimiento Administrativo de Ejecución, en términos del Código Fiscal del Estado y demás disposiciones aplicables. Con este fin, el Presidente de la Gran Comisión y el Titular del Poder Ejecutivo, o quien éste designe, podrán celebrar convenios de coordinación administrativa.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
@@ -345,13 +347,23 @@ El Congreso del Estado tendrá cada año, tres períodos ordinarios de Sesiones 
 
 I.- El primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de ley que se presenten y resolver los demás asuntos que le correspondan conforme a la Constitución;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-II.- El segundo comenzará el primero de junio, terminará el treinta y uno de julio, en el que además de conocer de los asuntos mencionados en la fracción anterior, examinará, revisará y calificará la Cuenta de la Hacienda Pública del Estado del año inmediato anterior, que será presentada por el Titular del Ejecutivo antes del inicio de este periodo.
+En el año de conclusión de la administración constitucional del Ejecutivo y del Legislativo del Estado, la Legislatura en funciones sesionará de manera Ordinaria del primer día hábil del mes de enero al catorce del mismo mes y año.
 
-En el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, examinará, revisará y calificará la cuenta pública parcial correspondiente a los meses de octubre a diciembre que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los treinta y un días del mes de enero.
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-En los casos previstos en los dos párrafos anteriores, el Congreso declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+En el supuesto a que se refiere el párrafo anterior, los Titulares del Ejecutivo y del Legislativo presentarán ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado, dentro de los cuatro primeros días del mes de enero, la Cuenta Pública Parcial correspondiente a los meses de noviembre a diciembre del año anterior, la cual examinará, revisará, calificará y aprobará en ese periodo de sesiones, conforme a los principios que rigen la función de Fiscalización Superior.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+Tratándose de la Cuenta Pública Parcial del mes de enero del año de conclusión de la administración constitucional del Ejecutivo y del Legislativo del Estado, quien hubiere fungido como su Titular, la presentará ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado, dentro de los primeros diez días del mes de febrero, la cual se examinará, revisará, calificará y aprobará en el mismo periodo de sesiones.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+II.- El segundo comenzará el primero de junio y terminará el treinta y uno de julio, en el que además de conocer de los asuntos mencionados en el párrafo primero de la fracción anterior, se examinará, revisará, calificará y en su caso, aprobará la Cuenta Pública de los Poderes del Estado del año inmediato anterior, que será presentada por sus Titulares ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado antes del inicio de este periodo.
+
+En los casos previstos en los párrafos tercero y cuarto de la fracción I y primero de la fracción II, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
 
@@ -363,17 +375,31 @@ Una vez que sea aprobada la Ley de Ingresos del Estado, el Congreso examinará, 
 
 Si al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del Estado y la Ley de Egresos, o únicamente esta última, o las Leyes de Ingresos de cada Municipio, seguirán vigentes las leyes correspondientes al ejercicio anterior, mismas que serán aplicables provisionalmente, hasta en tanto el Congreso emita las aprobaciones respectivas, sin que para éstas medie receso de éste. El Congreso, hasta en tanto no sea aprobada la Ley de Egresos de Estado, en la legislación respectiva, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado.
 
-Asimismo deberá incluir en la agenda legislativa, en el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado, el examen, revisión y calificación de la cuenta pública parcial correspondiente a los meses de enero a septiembre, que deberá ser presentada por el Titular del Poder Ejecutivo, dentro de los treinta y un días del mes de octubre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos aprobados, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+Asimismo deberá incluir en la agenda legislativa, en el caso del último año previo al de conclusión de la administración constitucional del Ejecutivo del Estado y de la Legislatura que corresponda, el examen, revisión, calificación y aprobación de las Cuentas Públicas Parciales correspondientes a los meses de enero a octubre, que deberán ser presentadas por sus Titulares ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado, dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 9o.
 
-A la apertura del primer período de Sesiones ordinarias, asistirá el Titular del Ejecutivo del Estado, quien presentará un informe por escrito, de conformidad con el artículo 53 de la Constitución Política del Estado.
+A la apertura del primer período de Sesiones Ordinarias de cada año, asistirá el Gobernador quien presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública estatal del ejercicio anterior.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
 El Presidente del Congreso contestará el Informe en términos concisos y generales, con las formalidades que correspondan al acto.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+
 Esta Sesión Solemne no tendrá más objeto que celebrar la apertura del primer período ordinario de Sesiones y que el Gobernador del Estado presente su Informe.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+En el año de conclusión de la administración constitucional del Ejecutivo del Estado, el informe a que se refiere el párrafo primero, podrá ser presentado por el Gobernador dentro de los primeros quince días del mes de enero del mismo año.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+Cuando el Gobernador no pudiere concurrir a la apertura del primer periodo de Sesiones Ordinarias, su informe será presentado por el Secretario del Despacho que designe el propio Ejecutivo.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
 
@@ -753,13 +779,19 @@ II.- Conducir a través de su Presidente o de manera conjunta, las relaciones po
 
 III.- Coordinar las tareas legislativas, políticas y administrativas de la Legislatura;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-IV.- Someter a consideración y acuerdo de la Legislatura, cuando lo estime necesario, los nombramientos o remociones del Secretario General del Congreso del Estado y del Auditor General del Órgano de Fiscalización Superior del Estado, y sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley del Órgano de Fiscalización Superior del Estado, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables. El Secretario General del Congreso del Estado y el Auditor General del Órgano de Fiscalización Superior, en sus respectivos ámbitos, tendrán igual nivel y jerarquía administrativa para todos los efectos;
+IV.- Someter a consideración y acuerdo de la Legislatura, cuando sea procedente, los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2003)</small>
+a) Los nombramientos o remociones del Secretario General del Congreso del Estado y del Auditor General del Órgano de Fiscalización Superior del Estado;
 
-V.- Nombrar y remover a Directores Generales del Congreso del Estado y Auditores Especiales del Órgano de Fiscalización Superior del Estado, quienes otorgarán la protesta de Ley ante ésta; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley del Órgano de Fiscalización Superior, Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables. Los Directores Generales del Congreso del Estado y los Auditores Especiales del Órgano de Fiscalización Superior, en sus respectivos ámbitos, tendrán igual nivel y jerarquía administrativa para todos los efectos;
+b) Las renuncias o solicitudes de licencia que le presenten el Secretario General del Congreso del Estado y el Auditor General del Órgano de Fiscalización Superior del Estado, proponiendo en caso necesario a los sustitutos.
+
+Para lo dispuesto en los incisos que anteceden tomará en cuenta lo que al efecto establezcan, la Constitución Política del Estado Libre y Soberano de Puebla, la presente Ley, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables. El Secretario General del Congreso del Estado y el Auditor General del Órgano de Fiscalización Superior, en sus respectivos ámbitos, tendrán igual nivel y jerarquía administrativa para todos los efectos.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+V.- Nombrar y remover a los Directores Generales del Congreso del Estado, quienes otorgarán la protesta de Ley ante ésta; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones aplicables;
 
 VI.- Proponer a la Legislatura, la sustitución de los miembros integrantes de las Comisiones y de los Comités cuando exista causa justificada para ello;
 
@@ -1057,11 +1089,13 @@ Para la aplicación de las sanciones por responsabilidad administrativa en que i
 
 ### CAPÍTULO X. DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 59.
 
-El Órgano de Fiscalización Superior del Estado es la unidad de fiscalización, control y evaluación gubernamental dependiente del Congreso del Estado. Se integra y ejerce sus atribuciones en términos de la Constitución Política del Estado, el presente ordenamiento y demás leyes aplicables. El Auditor General será nombrado conforme al procedimiento establecido por la Constitución Política del Estado y la Ley del Órgano de Fiscalización Superior del Estado.
+El Órgano de Fiscalización Superior del Estado es la unidad de fiscalización, control y evaluación dependiente del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, para decidir sobre su organización interna, funcionamiento y resoluciones, así como para administrar y ejercer su patrimonio en los términos que disponga (sic) las leyes respectivas. Se integra y ejerce sus atribuciones en términos de la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla y demás disposiciones aplicables. El Auditor General será nombrado conforme al procedimiento estableciao (sic) en los citados ordenamientos legales.
+
+Dicho Órgano será la autoridad competente para iniciar y sustanciar previo acuerdo del Congreso del Estado, los procedimientos para determinar las responsabilidades administrativas de los servidores públicos que deriven del resultado de la fiscalización superior, en términos de la Ley de la materia.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE AGOSTO DE 2001)</small>
 
@@ -1494,3 +1528,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
