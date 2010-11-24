@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2010-06-03"
+last_updated: "2010-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1113,11 +1113,19 @@ VI.- Dictar, en su caso, las providencias precautorias que ameriten el estado de
 
 VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de intimidación, acoso o violencia familiar.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+ART. 259 Bis.- En tanto se decrete el divorcio, los cónyuges deben evitar cualquier acto de manipulación encaminado a producir en los hijos rencor o distanciamiento hacia el otro cónyuge. La presencia de todo acto de este tipo será valorada por el Juez y considerada en su resolución.
+
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
 ART. 260.- La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
 
 La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor. La presencia de todo acto de este tipo podrá ser valorado por el Juez para los efectos procedentes.
 
 ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
@@ -10020,3 +10028,9 @@ P.O. 3 DE JUNIO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
