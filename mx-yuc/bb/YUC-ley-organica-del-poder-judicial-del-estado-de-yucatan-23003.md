@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-23003"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-03-13"
-last_updated: "2010-07-06"
+last_updated: "2010-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN, PUBLICADA EN EL D.O. DE 24 DE NOVIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 13 de marzo de 1992.
 
@@ -2096,3 +2098,97 @@ Durante el año 2010 el Tribunal Superior de Justicia continuará ejerciendo el 
 ###### ARTÍCULO SÉPTIMO.
 
 En tanto se expide la ley de la materia a que se refieren los artículos 18 fracción XIV Bis y 83 H, de este Decreto, corresponderá a los Plenos, del Consejo de la Judicatura y del Tribunal Superior de Justicia, en el ámbito de su competencia, determinar las percepciones del personal del Poder Judicial del Estado y del Tribunal Superior de Justicia, respectivamente.
+
+D.O. 24 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el primer día de marzo de dos mil once, previa su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado de Yucatán, contenida en el Decreto numero 462, y publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 13 de marzo de 1992.
+
+###### ARTÍCULO TERCERO.
+
+Los jueces de control, de juicio oral y de ejecución de sentencia entrarán en funciones al momento del inicio de la vigencia del nuevo Código Procesal Penal del Estado que se expida.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos del artículo 73 de esta Ley, se tendrá como mayoría para la integración del quórum del Pleno del Tribunal de Justicia Electoral y Administrativa, la presencia de cuatro magistrados, hasta el 30 de marzo de 2012.
+
+###### ARTÍCULO QUINTO.
+
+Los Consejeros que hubieren sido nombrados por dos o tres años, acorde con lo que dispone el Artículo Transitorio Décimo Cuarto del Decreto publicado en el Diario Oficial del Gobierno del Estado de Yucatán el diecisiete de mayo de dos mil diez, podrán ser ratificados hasta por dos períodos más de cuatro años.
+
+###### ARTÍCULO SEXTO.
+
+Quedan derogadas las disposiciones de la Ley del Fondo Auxiliar para la Administración de Justicia del Estado de Yucatán en lo que se contrapongan a esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones reglamentarias necesarias para la implementación de esta ley, serán expedidas por los diversos órganos competentes del Poder Judicial, dentro de los 30 días posteriores a la entrada en vigor de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Lo dispuesto en el artículo 99 de esta Ley, entrará en vigor el primero de septiembre del año 2012, por lo cual, el Decreto de Presupuesto de Egresos del Gobierno del Estado para ese año, deberá contemplar la previsión correspondiente a los cuatro últimos meses del año 2012.
+
+###### ARTÍCULO NOVENO.
+
+Las Salas del Tribunal Superior de Justicia del Estado, los juzgados de primera instancia y los juzgados en materia de justicia para adolescentes, contarán con la jurisdicción y competencia, por materia y territorio, que les correspondía hasta antes de la entrada en vigor de esta ley, hasta en tanto los Plenos del Tribunal y del Consejo de la Judicatura, en el ámbito de sus competencias, emitan los acuerdos generales respectivos.
+
+###### ARTÍCULO DÉCIMO.
+
+Quedan derogadas todas las disposiciones de igual o menor rango en lo que se contrapongan a esta Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Congreso del Estado deberá nombrar a dos magistrados propietarios del Tribunal Superior de Justicia del Poder Judicial, y a once magistrados suplentes del mismo, en el mes de febrero del año 2011. Los Magistrados propietarios entrarán en funciones el primero de marzo del año 2011.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Secretario Ejecutivo del Consejo de la Judicatura en funciones, al entrar en vigor esta Ley, continuará en el cargo, hasta cumplir con el período de cuatro años, establecido en el artículo 119 de esta Ley.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Para dar cumplimiento a lo dispuesto por el artículo 9 de esta Ley, el Congreso del Estado incrementará gradualmente el presupuesto del Poder Judicial del Estado, con base en las disposiciones en materia presupuestal, de los ejercicios fiscales 2011, 2012 y 2013 hasta alcanzar el porcentaje mínimo establecido.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Presidente del Tribunal Electoral del Estado que se encuentre en funciones a la entrada en vigor de esta Ley, asumirá el cargo de Presidente del Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+A partir de la entrada en vigor de esta Ley, cuando la Ley de lo Contencioso Administrativo haga referencia al "Magistrado" se entenderá referida al "Magistrado del Tribunal de Justicia Electoral y Administrativa" que se encuentre en función de "ponente" para la sustanciación de cada asunto concreto.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Los acuerdos, convenios, actos jurídicos, así como los asuntos pendientes y de trámite en el Tribunal de lo Contencioso Administrativo se transferirán y quedarán a cargo del Tribunal de Justicia Electoral y Administrativa.
+
+Los acuerdos, convenios, actos jurídicos, así como los asuntos pendientes y de trámite en el Tribunal Electoral del Estado se transferirán y quedarán a cargo del Tribunal de Justicia Electoral y Administrativa.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+A partir de la entrada en vigor de esta ley, los bienes muebles e inmuebles del Tribunal Electoral del Estado y del Tribunal de lo Contencioso Administrativo pasarán al dominio y uso del Poder Judicial del Estado, con destino para el Tribunal de Justicia Electoral y Administrativa para ser administrados por la Comisión Especial respectiva del Consejo de la Judicatura.
+
+De igual forma, los bienes muebles e inmuebles del Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio del Estado y Municipios, pasarán al dominio y uso del Poder Judicial del Estado, con destino para el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios para ser administrados por la Comisión Especial respectiva del Consejo de la Judicatura.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Queda exento el Poder Judicial del Estado, por única ocasión y en el año fiscal 2011, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados en el proceso de regulación de los bienes y/o servicios relacionados con el artículo transitorio anterior.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Pleno del Consejo de la Judicatura, queda facultado para expedir acuerdos para ajustar los plazos y procedimientos administrativos necesarios con motivo de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Quedan a salvo los derechos laborales de los servidores públicos de base de las unidades u órganos jurisdiccionales que se transfieran al Poder Judicial del Estado, para ser designados por el Consejo de la Judicatura a los nuevos órganos creados por esta Ley.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Cuando otras disposiciones legales mencionen o contemplen la figura "Tribunal Electoral del Estado", se entenderán referidas al "Tribunal de Justicia Electoral y Administrativa".
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+Cuando otras disposiciones legales mencionen o contemplen la figura "Tribunal de lo Contencioso Administrativo", se entenderá referidas al Tribunal de Justicia Electoral y Administrativa.
