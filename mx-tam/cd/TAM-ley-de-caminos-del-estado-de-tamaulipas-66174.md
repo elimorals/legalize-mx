@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-caminos-del-estado-de-tamaulipas-66174"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-18"
-last_updated: "2008-11-18"
+last_updated: "2010-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 18 de noviembre de 2008.
 
@@ -311,7 +311,9 @@ Construcción, Conservación y Explotación de los Caminos, Carreteras y Puentes
 
 1. Es de utilidad pública la construcción, modernización, conservación y mantenimiento de los caminos, carreteras y puentes. La Secretaría, por sí o a petición de los interesados, recibirá en donación, efectuará la compraventa o promoverá la expropiación de los terrenos, construcciones y bancos de material necesario para tal fin.
 
-2. La compraventa, donación, expropiación, o cualquier otro acto jurídico tendiente a la adquisición u ocupación de los terrenos, se llevará a cabo conforme a la legislación aplicable.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+2. La compraventa, donación, expropiación, la servidumbre de paso o cualquier otro acto jurídico tendiente a la adquisición u ocupación de los terrenos, se llevará a cabo conforme a la legislación aplicable.
 
 3. En caso de compraventa, ésta podrá llevarse a cabo a través de los interesados, por cuenta de la Secretaría.
 
@@ -506,3 +508,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los cinco días del mes de septiembre del año dos mil ocho.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
