@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2010-11-02"
+last_updated: "2010-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -213,6 +213,14 @@ Al efecto, la Ley establecerá las normas para alentar el desarrollo social, med
 
 En el ejercicio de la política estatal de desarrollo social serán principios rectores la libertad, solidaridad, justicia distributiva, inclusión, integralidad, participación social, sustentabilidad, respeto a la diversidad y transparencia.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+El Estado impulsará permanentemente el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+Los ascendientes, tutores o custodios tienen la obligación de preservar y hacer cumplir estos derechos y principios.
+
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
 En los términos que señale la ley, esa política será objeto de evaluación, estará sujeta al control social de sus beneficiarios y toda persona podrá formular denuncia sobre hechos, actos u omisiones que redunden en daños al ejercicio de sus derechos sociales.
@@ -277,13 +285,33 @@ VIII. A respetar y cuidar el patrimonio natural del Estado y hacer uso de los re
 
 A nadie podrá obligársele a que pague una contribución que no haya sido previamente decretada por el Congreso.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Ministerial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará hasta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará esta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -879,7 +907,7 @@ XXIX. Conocer y resolver sobre las solicitudes de licencia que le sean presentad
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
-XXX.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo General del Instituto Electoral de Tamaulipas;
+XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo General del Instituto Electoral de Tamaulipas;
 
 XXXI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2008)
 
@@ -905,7 +933,7 @@ XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador, y a q
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
-XXXIX. Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes;
+XXXIX.- Estimular la beneficencia pública, reglamentarla para que llene sus fines y para que estén debidamente asegurados sus bienes;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -3897,11 +3925,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 2 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1083, POR EL QUE SE REFORMA EL ARTICULO 133, CUARTO PARRAFO; SE ADICIONAN LOS PARRAFOS CUARTO, QUINTO Y SEXTO AL ARTICULO 70; Y UN SEGUNDO Y TERCER PARRAFOS Y SEIS FRACCIONES AL ARTICULO 160 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1083
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+SE REFORMA EL ARTICULO 133, CUARTO PARRAFO; SE ADICIONAN LOS PARRAFOS CUARTO, QUINTO Y SEXTO AL ARTICULO 70; Y UN SEGUNDO Y TERCER PARRAFOS Y SEIS FRACCIONES AL ARTICULO 160 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3917,7 +3945,31 @@ En un plazo no mayor a 180 días naturales siguientes a la entrada en vigor del 
 
 P.O. 2 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO LX-1100, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 138 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-1100
+
+###### ARTICULO UNICO.
+
+SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 138 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1480, POR EL QUE SE REFORMAN EL SEGUNDO Y TERCER PARRAFOS; Y SE ADICIONAN LOS PARRAFOS CUARTO, QUINTO, SEXTO, SEPTIMO Y OCTAVO DEL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO LX-1481, POR EL QUE SE ADICIONAN LOS PARRAFOS SEXTO Y SEPTIMO, RECORRIENDOSE EN SU ORDEN EL ACTUAL SEXTO PARA SER OCTAVO, DEL ARTICULO 16 DE LA CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO QUINTO.
 
