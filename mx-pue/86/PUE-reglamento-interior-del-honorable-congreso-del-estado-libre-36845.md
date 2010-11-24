@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-368
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2010-04-16"
+last_updated: "2010-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 19 de diciembre de 2003.
 
@@ -241,7 +241,7 @@ d) El otorgamiento de reconocimientos y estímulos cívicos; y
 
 e) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2005)</small>
 
 VIII.- TRABAJO, COMPETITIVIDAD Y PREVISIÓN SOCIAL:
 
@@ -273,15 +273,27 @@ b) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado 
 
 XII.- INSPECTORA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR:
 
-a) Aplicación, control y vigilancia del Órgano de Fiscalización Superior, proponiendo las medidas necesarias para su eficaz funcionamiento, cuidando que la asesoría contable, administrativa y fiscal que se le solicite, se proporcione en forma rápida y eficiente;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-b) Vigilancia y control de la cuenta pública estatal y municipal y de los demás sujetos de fiscalización;
+a) Supervisión, coordinación y evaluación del Órgano de Fiscalización Superior del Estado, sin perjuicio de la autonomía que le confiere la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+b) Recibir del Órgano de Fiscalización Superior del Estado, el Informe del Resultado de la fiscalización superior de las cuentas públicas de los Sujetos de Revisión, que éste le remita en cualquiera de los periodos de sesiones a que se refiere el artículo 50 de la Constitución Política del Estado Libre y Soberano de Puebla y turnarlos al Pleno del Congreso para su aprobación;
 
 c) Informar al término de cada Periodo Ordinario de Sesiones respecto del ejercicio del presupuesto del Congreso y del Órgano de Fiscalización Superior;
 
-d) Revocación de mandato y suspensiones de Presidentes, Regidores y Síndicos Municipales, en asuntos de la competencia del Órgano de Fiscalización Superior; y
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
-e) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
+d) Las Revocaciones de mandato y suspensiones de Presidentes, Regidores y Síndicos Municipales, en asuntos de la competencia del Órgano de Fiscalización Superior;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+e) Responsabilidades administrativas de los servidores públicos, cuando éstas deriven de la fiscalización superior; y
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+f) Las demás que le confiera la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, las leyes aplicables o le asigne el Presidente.
 
 XIII.- SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL:
 
@@ -1113,9 +1125,11 @@ Tan pronto sea aprobado un Acuerdo, se remitirá al Ejecutivo del Estado, para s
 
 Aprobado un proyecto de Ley, Decreto o Acuerdo, no podrá, en ningún caso, tratarse su derogación sino pasado un Periodo Ordinario de Sesiones; pero alguno o algunos de sus artículos podrán formar parte de otro proyecto.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 133.
 
-Cuando el Congreso discuta un proyecto de Ley, Decreto o Acuerdo, y no fuere aprobado, no podrá presentarse nuevamente en el mismo Periodo de Sesiones.
+Cuando el Congreso discuta un proyecto de Ley, Decreto o Acuerdo, y no fuere aprobado, no podrá presentarse nuevamente en el mismo periodo de sesiones, salvo aquellos Decretos o Acuerdos relacionados con los dictámenes de las cuentas públicas, los que deberán aprobarse en el periodo en que se hayan presentado.
 
 ###### ARTÍCULO 134.
 
@@ -1569,7 +1583,9 @@ III.- Vigilar que el ejercicio presupuestal corresponda a los conceptos de gasto
 
 IV.- Proponer estrategias de gasto y definir las líneas de acción correspondientes, para aprovechar adecuadamente los recursos financieros;
 
-V.- Concentrar la información y documentación relativa a la comprobación del ejercicio presupuestal, y, en términos de la legislación aplicable, elaborar los informes de avance de gestión financiera y los estados de origen y aplicación de recursos, a fin de remitirlos al Órgano de Fiscalización Superior del Estado, así como dar contestación a las solicitudes hechas por éste;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+V.- Concentrar la información y documentación relativa a la comprobación del ejercicio presupuestal, y, en términos de la legislación aplicable, elaborar los estados financieros y demás información presupuestaria, programática, contable y complementaria que emane de sus registros, a fin de remitirlos al Órgano de Fiscalización Superior del Estado, y dar contestación a las solicitudes hechas por éste;
 
 VI.- Autorizar el programa para la adquisición de material, mobiliario y equipo; así como planear y coordinar las acciones que permitan almacenar y distribuir de manera eficiente los bienes muebles, los de consumo y servicios generales, a las dependencias administrativas del Congreso, para su eficaz funcionamiento;
 
@@ -1745,9 +1761,11 @@ El mal uso de los documentos, expedientes, sellos, papelería y mobiliario del C
 
 Los servidores públicos deberán observar en el Congreso la mayor compostura, y sus actitudes de conducta y comunicación con los Diputados, sus superiores y entre ellos mismos, serán siempre fundamentadas en las prácticas del respeto recíproco.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 173.
 
-Los servidores públicos del Congreso y los del Órgano de Fiscalización Superior, serán nombrados, y removidos por causa justificada, por el Comité del Servicio Civil de Carrera Parlamentaria, sujetándose en todo momento a lo dispuesto por la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones legales aplicables.
+Los servidores públicos del Congreso serán nombrados, y removidos por causa justificada, por el Comité del Servicio Civil de Carrera Parlamentaria, sujetándose en todo momento a lo dispuesto por la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 174.
 
@@ -1991,9 +2009,11 @@ Cuando el Congreso o su Presidente lo consideren conveniente, ordenará que se s
 
 El Órgano de Fiscalización Superior depende directamente del Congreso del Estado, está bajo la supervisión de la Comisión Inspectora del Órgano de Fiscalización Superior y contará, en función del presupuesto aprobado al Congreso del Estado, con las instalaciones adecuadas para su funcionamiento.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 212.
 
-Para lo relativo a las obligaciones, atribuciones y labores del Órgano de Fiscalización Superior del Estado y de sus servidores públicos, se observará lo prescrito en la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica del Poder Legislativo, la Ley del Órgano de Fiscalización Superior del Estado, el Estatuto del Servicio Civil de Carrera Parlamentaria del Poder Legislativo del Estado, el presente Reglamento y demás ordenamientos aplicables.
+Para lo relativo a las obligaciones, atribuciones y labores del Órgano de Fiscalización Superior del Estado y de sus servidores públicos, se observará lo prescrito en la Constitución Política del Estado Libre y Soberano de Puebla, en la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, en el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Puebla y demás ordenamientos aplicables.
 
 ## TRANSITORIOS
 
@@ -2011,7 +2031,7 @@ Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil tres.- Diputado Presidente.- HUMBERTO VÁZQUEZ ARROYO.- Rúbrica.- Diputada Vicepresidenta.- MARÍA LEONOR A. POPÓCATL GUTIÉRREZ.- Rúbrica.- Diputado Secretario.- ELISEO PÉREZ SÁNCHEZ.- Rúbrica.- Diputado Secretario.- DANIEL ANTELIZ MAGAÑA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE DICIEMBRE DE 2004.
 
@@ -2070,3 +2090,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
