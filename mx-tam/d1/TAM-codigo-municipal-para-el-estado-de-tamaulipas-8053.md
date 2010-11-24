@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2010-11-02"
+last_updated: "2010-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -509,7 +509,9 @@ XIV.- Aprobar anualmente el presupuesto de egresos del Municipio con base en sus
 
 XV.- Someter a la consideración del Congreso del Estado la creación de organismos o empresas paramunicipales, ya sea que corresponden en exclusiva al Ayuntamiento o a dos o más de éstos para la prestación de un servicio público.
 
-XVI.- Sacar a remate los bienes muebles que hayan de venderse haciendo pública subasta, cuando sean declarados inútiles, previa autorización del Congreso, observándose en lo conducente el Código de Procedimientos Civiles del Estado.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+XVI.- Sacar a remate los bienes muebles que hayan de venderse haciendo subasta pública, cuando sean declarados inútiles por el órgano de control municipal, observándose en lo conducente las reglas del Código de Procedimientos Civiles del Estado;
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -597,7 +599,9 @@ I.- Expedir bandos, reglamentos, circulares y demás disposiciones administrativ
 
 II.- Gravar el tránsito o salida de mercancía.
 
-III.- Contratar empréstitos, enajenar o gravar sus bienes muebles e inmuebles, así como celebrar contratos de diversa naturaleza a los señalados en esta fracción cuyo término exceda de un año, sin aprobación del Congreso.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+
+III.- Contratar empréstitos, enajenar o gravar sus bienes inmuebles, así como celebrar contratos de diversa naturaleza a los señalados en esta fracción cuyo término exceda de un año, sin aprobación del Congreso.
 
 IV.- Imponer contribuciones que no estén establecidas en la Ley de Ingresos Municipales o decretadas por el Congreso.
 
@@ -3391,7 +3395,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de laPolicía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -3846,5 +3850,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 2 DE NOVIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
