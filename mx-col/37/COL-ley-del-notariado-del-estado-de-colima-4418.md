@@ -4,7 +4,7 @@ identifier: "COL-ley-del-notariado-del-estado-de-colima-4418"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-04"
-last_updated: "2009-10-03"
+last_updated: "2010-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL NOTARIADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, los días 4, 11, 18 y 25 de enero de 1964.
 
@@ -37,6 +37,14 @@ DECRETO No. 127
 
 LEY DEL NOTARIADO
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+## TITULO PRIMERO. DEL EJERCICIO NOTARIAL
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
 ART. 1.- El ejercicio del Notariado en el Estado de Colima es una función de orden público. Está a cargo del Ejecutivo de la Entidad y, por delegación se encomienda a notarios profesionales del derecho, en virtud de la patente que para tal efecto les otorga el propio Ejecutivo.
 
 ART. 2.- El notario es el funcionario investido de fe pública autorizado para autenticar los actos y los hechos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes; ejerce la fe pública material que tiene y ampara un doble contenido:
@@ -44,6 +52,10 @@ ART. 2.- El notario es el funcionario investido de fe pública autorizado para a
 I.- En la esfera del derecho, la autenticidad y fuerza probatorias a las declaraciones de voluntad de las partes, en la escritura;
 
 II.- En la autenticación de los hechos, la exactitud de los que el notario perciba por sus sentidos.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+ART 2 BIS.- El notario público podrá utilizar los medios electrónicos, ópticos, magnéticos o cualquier otra tecnología, para el ejercicio de su función, en los casos previstos en esta ley, supuesto en el cual se sujetará a lo establecido en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Colima.
 
 ART. 3.- El notario guarda en el protocolo, escritos y firmados, los instrumentos relativos a los actos y a los hechos a que se refiere el artículo 2, con sus anexos, y expide los testimonios o copias que legalmente puedan darse.
 
@@ -121,8 +133,6 @@ Las autoridades prestarán a los notarios el auxilio que requieran en el ejercic
 
 ART. 11.- Los notarios en el ejercicio de su profesión reciben las confidencias de sus clientes.- En consecuencia deben guardar reserva sobre lo pasado ante ellos y están sujetos a las disposiciones del Código Penal sobre secreto profesional, salvo los informes que obligatoriamente establezcan las leyes respectivas y los actos que deben inscribirse en el Registro Público, de los cuales podrán enterarse las personas que no hubiesen intervenido en ellos, siempre que a juicio del notario tengan algún interés legítimo en el asunto.
 
-## TITULO SEGUNDO. DE LA ORGANIZACION DEL NOTARIADO
-
 ### CAPITULO SEGUNDO. DEL PROTOCOLO
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
@@ -135,6 +145,14 @@ II.- Los libros que se formen con la colección ordenada de 150 de esas hojas, u
 
 III.- El apéndice y el índice de instrumentos.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+ART. 12 BIS.- Los documentos que integran el protocolo podrán ser digitalizados por el notario, para incorporarse a un archivo electrónico. El notario deberá autorizar los documentos digitalizados con su firma electrónica certificada.
+
+El notario podrá optar por llevar el apéndice en forma electrónica. En este caso, los documentos que el notario agregue al apéndice electrónico deberán de ser digitalizados por él, cuando se trate de documentos en soporte material que se conviertan a documentos en soporte electrónico. Los documentos públicos electrónicos, que sean requeridos por el notario, deberá solicitarlos en forma directa y obtenerlos suscritos por su autor con firma electrónica certificada. Cuando tales documentos estén disponibles en Internet, el notario deberá obtenerlos directamente y conservar el documento electrónico, en su apéndice electrónico, para su ulterior consulta.
+
+Los documentos a que se refiere este artículo tendrán la misma validez y eficacia que los documentos físicos. Igualmente la tendrán, los archivos digitalizados que se materialicen en papel, firmados en forma autógrafa o con la firma electrónica certificada del notario.
+
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 13.- Los instrumentos, libros y apéndice deberán numerarse progresivamente. Las hojas se numerarán y utilizarán en forma progresiva por ambas caras, y tendrán las medidas y demás características que determine el Colegio de Notarios. Los instrumentos se ordenarán en forma sucesiva y cronológica, y se encuadernarán en libros.
@@ -144,6 +162,10 @@ El notario no podrá autorizar acto alguno sin que lo haga constar en las hojas 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 14.- El notario adquirirá a su costa las hojas necesarias para asentar los instrumentos, y antes de usarlas las entregará al Secretario General de Gobierno para su autorización.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+Así mismo, adquirirá a su costa, los medios electrónicos, ópticos o magnéticos necesarios para incorporar sus archivos a una base de datos e implementar el uso de su firma electrónica certificada.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -173,6 +195,10 @@ ART. 20.- Las hojas y los libros estarán siempre en la notaría, salvo cuando e
 
 Si alguna autoridad con facultades legales ordena la inspección del protocolo o de algún instrumento, el acto se efectuará en presencia del notario y en la oficina notarial.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+En el caso de que el apéndice o instrumento conste en archivo electrónico, las inspecciones podrán efectuarse en la base de datos que se lleve para tal efecto, en los términos del capítulo tercero del título tercero de esta Ley.
+
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 21.- Dentro de los cuarenta y cinco días hábiles siguientes al de la integración o conclusión de una decena de libros, el notario asentará en hoja adicional, que agregará al final del último libro, una razón de cierre que autorizará al calce con su firma y sello, y en la que indicará la fecha del asiento, el número de hojas utilizadas e inutilizadas, y la cantidad de instrumentos autorizados, la de los que estén pendientes de autorizar y la de los que no pasaron.
@@ -181,15 +207,27 @@ ART. 21.- Dentro de los cuarenta y cinco días hábiles siguientes al de la inte
 
 ART. 22.- A partir de la fecha en que se asiente la razón de cierre, el notario dispondrá de un plazo de cuatro meses para encuadernar la decena de libros y enviarla a la Secretaría General de Gobierno, la cual revisará solamente la exactitud de la razón, devolverá los libros al notario dentro de los diez días siguientes a su recepción y asentará la certificación correspondiente.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+En caso de existir los archivos electrónicos respectivos, estos serán enviados a la Secretaría General de Gobierno.
+
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 23.- El apéndice se formará con todos los documentos relacionados con los instrumentos que integren un libro.
 
 Los documentos del apéndice se enumerarán o señalarán con letras y se ordenarán por legajos y en cada uno de éstos se pondrá el número del instrumento a que se refieren. Estos legajos se encuadernarán en la forma y términos previstos para los libros del protocolo.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+Tratándose del apéndice electrónico, los documentos digitalizados que lo integren se resguardarán en la base de datos de la notaría. En este caso, no se forman legajos con los documentos digitalizados del apéndice, ni se procederá a encuadernar éstos, pero deberán quedar debidamente relacionados con los instrumentos notariales a los que se refieran.
+
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 ART. 24.- El notario llevará un índice de instrumentos en el que asentará, diariamente y por orden numérico, los nombres y apellidos o denominación de los otorgantes, número y fecha del instrumento, números de las hojas y del libro, naturaleza del acto o hecho y los datos administrativos que quiera asentar.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+El notario podrá optar por llevar el índice de instrumentos en forma electrónica.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -199,9 +237,13 @@ Los instrumentos, hojas, libros y apéndices del protocolo especial se numerará
 
 Los notarios asentarán también en este protocolo especial las actas y escrituras en que intervengan dependencias y entidades de la Administración Pública Federal, cuando actúen para el fomento de la vivienda o con motivo de programas para la regularización de la propiedad inmueble en el Estado.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-ART. 26.- Tan pronto como tenga conocimiento de que un instrumento o libro se ha deteriorado, extraviado o destruido, el Ejecutivo del Estado dictará cuantas providencias juzgue necesarias para que se reconstruya o reponga.
+Los instrumentos y apéndices, mencionados en los párrafos que anteceden, se podrán digitalizar en archivos electrónicos, que se integrarán a la base de datos de la notaría.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+ART. 26.- Tan pronto como tenga conocimiento de que un instrumento o libro se ha deteriorado, extraviado o destruido, así como algún archivo electrónico se encuentre dañado, el Ejecutivo del Estado dictará cuantas providencias juzgue necesarias para que se reconstruya o reponga.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -221,7 +263,9 @@ ART. 29.- (DEROGADO, P.O. 9 DE JULIO DE 1994)
 
 ART. 30.- Escritura es el instrumento que el notario asienta en el protocolo para hacer constar un acto jurídico, y que tiene la firma y el sello del notario.
 
-Se tendrá como parte de la escritura el documento en que se consigne el contrato o acto jurídico de que se trate, siempre que, firmado por el notario y por las partes que en él intervengan, en cada una de las hojas, se agregue el apéndice, llene los requisitos que señala este capítulo, y en el protocolo se levante un acta en las que se haga un extracto del documento, indicando sus elementos esenciales.- En este caso, la escritura, se integrará por dicha acta y el documento que se agregue al apéndice, en el que se consigne el contrato o acto jurídico de que se trate.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+Se tendrá como parte de la escritura el documento en que se consigne el contrato o acto jurídico de que se trate, siempre que, firmado por el notario y por las partes que en él intervengan, en cada una de las hojas, se agregue el apéndice, llene los requisitos que señala este capítulo, y en el protocolo se levante un acta en las que se haga un extracto del documento, indicando sus elementos esenciales.- En este caso, la escritura, se integrará por dicha acta y el documento que se agregue al apéndice, en el que se consigne el contrato o acto jurídico de que se trate. El acta y el contrato o acto jurídico podrán digitalizarse e incorporarse a la base de datos de la notaria.
 
 ART. 31.- Las escrituras se asentarán empleándose tinta indeleble, con letra clara, sin abreviaturas, salvo el caso de inserción de documentos y sin guarismos, a no ser que la misma cantidad aparezca asentada en letras. Los blancos o hueco si los hubiere, se cubrirán con líneas de tinta fuertemente grabadas, precisamente antes de que se firme la escritura. Al final de ella se salvarán las palabras testadas y entrerrenglonadas; las testaduras se harán con una línea horizontal que las deje legibles; haciendo constar que se valen; las entrerrenglonadas se harán constar que sí valen.- El espacio en blanco que pueda quedar antes de las firmas en las escrituras, deberá ser llenado con líneas de tinta.- Se prohiben las enmendaduras y raspaduras.
 
@@ -231,25 +275,43 @@ I.- Expresará el lugar y fecha en que se extienda la escritura, su nombre y ape
 
 II.- Indicará la hora en los casos en que la Ley así lo prevenga;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA EN SU PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-III.- Consignará los antecedentes y certificará que ha tenido a la vista los documentos que se le hubieren presentado para la formación de la escritura. Si se tratare de inmuebles relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura, y citará su inscripción en el Registro Público de la Propiedad o expresará la razón por la cual aún no está registrada.
+III.- Consignará los antecedentes y certificará que ha tenido a la vista los documentos que se le hubieren presentado para la formación de la escritura, aún cuando se trate de documentos públicos electrónicos. Si se tratare de inmuebles relacionará cuando menos el último título de propiedad del bien o del derecho a que se refiere la escritura, y citará su inscripción en el Registro Público de la Propiedad o expresará la razón por la cual aún no está registrada.
 
-El notario solicitará al Registro Público de la Propiedad certificados sobre existencia o inexistencia de gravámenes en relación con esos inmuebles. En la solicitud consignará los nombres de los contratantes, el acto jurídico que éstos van a otorgar, el inmueble de que se trate, el antecedente registral, el sello notarial, su firma y la fecha.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+El notario solicitará al Registro Público de la Propiedad certificados, ya sea de forma física o electrónica, sobre existencia o inexistencia de gravámenes en relación con esos inmuebles. En la solicitud consignará los nombres de los contratantes, el acto jurídico que éstos van a otorgar, el inmueble de que se trate, el antecedente registral, el sello notarial, su firma y la fecha.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Cuando dicha solicitud sea hecha por un notario de la entidad, el registrador la anotará preventivamente en el folio correspondiente, tan pronto como la reciba y sin cobro de derechos. Esta anotación producirá plenos efectos jurídicos desde la fecha en que se presentó la solicitud y hasta 30 días naturales posteriores al día en que el registrador entregue al notario el certificado registral.
 
-Dentro de las 48 horas siguientes a la firma de la escritura correspondiente, el notario dará aviso al Registro Público asentando los datos mencionados en el párrafo segundo de esta fracción. Sin cobro de derechos e inmediatamente, el registrador practicará otra anotación preventiva en el folio respectivo, la cual producirá efectos por un término de 90 noventa días naturales, contados a partir de la fecha de presentación del aviso notarial y podrá prorrogarse hasta tres veces más, por 90 días cada vez, a petición del notario y siempre que la prórroga sea anotada antes de que caduque esa anotación registral. Si el aviso se da dentro del término de 30 días, establecido en el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha en que el notario presentó la solicitud de certificado registral.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+Dentro de las 48 horas siguientes a la firma de la escritura correspondiente, el notario dará aviso en soporte documental o vía electrónica al Registro Público asentando los datos mencionados en el párrafo segundo de esta fracción. Sin cobro de derechos e inmediatamente, el registrador practicará otra anotación preventiva en el folio respectivo, la cual producirá efectos por un término de 90 noventa días naturales, contados a partir de la fecha de presentación del aviso notarial y podrá prorrogarse hasta tres veces más, por 90 días cada vez, a petición del notario y siempre que la prórroga sea anotada antes de que caduque esa anotación registral. Si el aviso se da dentro del término de 30 días, establecido en el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha en que el notario presentó la solicitud de certificado registral.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Si el testimonio notarial se presenta al Registro Público dentro de cualquiera de los plazos señalados en el párrafo anterior, su inscripción surtirá efectos contra terceros desde la fecha en que el notario presentó la solicitud de certificado. Si se presenta después, surtirá esos efectos desde la fecha de su presentación.
 
-Si el aviso notarial carece de algún dato o contiene algún error, el registrador requerirá al notario para que subsane la omisión o rectifique el error dentro de las cuarenta y ocho horas siguientes. En caso de que el notario dé cumplimiento oportuno a este requerimiento, el aviso surtirá efectos desde la fecha en que fue presentado; en caso contrario, los surtirá a partir de la fecha en que cumpla ese requerimiento.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+Si el aviso notarial carece de algún dato o contiene algún error, el registrador requerirá al notario, por la misma vía en que realizó el aviso, para que subsane la omisión o rectifique el error dentro de las cuarenta y ocho horas siguientes. En caso de que el notario dé cumplimiento oportuno a este requerimiento, el aviso surtirá efectos desde la fecha en que fue presentado; en caso contrario, los surtirá a partir de la fecha en que cumpla ese requerimiento.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Si se suspende o deniega la inscripción de un testimonio notarial, el registrador hará inmediatamente la anotación preventiva a que se refiere la fracción V del artículo 2932 del Código Civil, a fin de que surta efectos contra terceros durante el término señalado en el artículo 2924 de ese Código.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
 La resolución del registrador que suspenda o deniegue la inscripción de un testimonio podrá ser recurrida ante el Director del Registro, mientras no caduque la anotación preventiva mencionada en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
 Si en el certificado registral aparecen gravámenes, éstos se inscribirán o anotarán en el folio en que se registre la enajenación del inmueble a favor del adquirente, a no ser que ya esté cancelados (sic) en el folio del enajenante.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Para los efectos previstos en los párrafos anteriores y en las disposiciones del Código Civil referentes al registro de la propiedad, se considerará como tercero al titular de un derecho real;
 
@@ -269,13 +331,15 @@ Los representantes de personas morales o físicas declararán, bajo protesta de 
 
 Los funcionarios públicos no necesitarán presentar documentos que justifiquen su cargo cuando al notario le conste por notoriedad;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-IX.- Compulsará los documentos de que deba hacerse la inserción a la letra, los cuales a su juicio agregará al apéndice. Evitará insertar los documentos que no sean indispensables;
+IX.- Compulsará los documentos físicos o electrónicos de que deba hacerse la inserción a la letra, los cuales a su juicio agregará al apéndice. Evitará insertar los documentos que no sean indispensables;
 
 X.- Al agregar al apéndice cualquier documento, expresará el número del legajo y la letra bajo la cual se coloca en el legajo;
 
-XI.- Expresará el nombre y los apellidos, edad, estado civil, lugar de origen, nacionalidad, profesión o ejercicio y domicilio de los contratantes y de los testigos de conocimiento o instrumentales, cuando alguna ley los prevenga, como en testamentos y de los intérpretes, cuando sea necesario la intervención de éstos. Al expresar el domicilio, no solo mencionará la población en general, sino también el número de la casa, nombre de la calle o cualquier otro dato que precise dicho domicilio, hasta donde sea posible;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+XI.- Expresará el nombre y los apellidos, edad, estado civil, lugar de origen, nacionalidad, profesión o ejercicio y domicilio de los contratantes y de los testigos de conocimiento o instrumentales, cuando alguna ley los prevenga, como en testamentos y de los intérpretes, cuando sea necesario la intervención de éstos. Al expresar el domicilio, no solo mencionará la población en general, sino también el número de la casa, nombre de la calle o cualquier otro dato que precise dicho domicilio, hasta donde sea posible; y
 
 XII.- Hará constar bajo su fe:
 
@@ -327,43 +391,79 @@ ART. 45.- El notario no podrá autorizar acto alguno, sino haciéndolo constar e
 
 ART. 46.- La obligación que tiene el notario de redactar por escrito las cláusulas de los testamentos públicos abiertos, no implica que deba escribirlas el notario por sí mismo.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-ART. 47.- Siempre que se otorgue un testamento ante Notario Público, éste dará dentro de los diez días hábiles siguientes a su otorgamiento, aviso por escrito a la Secretaría General de Gobierno conteniendo los siguientes datos:
+ART. 47.- Siempre que se otorgue un testamento ante Notario Público, éste dará dentro de los diez días hábiles siguientes a su otorgamiento, aviso por escrito o vía electrónica a la Secretaría General de Gobierno conteniendo los siguientes datos:
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 a) Nombre completo del testador (apellido paterno, materno y nombres);
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 b) Nacionalidad;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 c) Fecha de nacimiento;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 d) Lugar de nacimiento;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 e) Clave Única del Registro Nacional de Población (CURP);
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 f) Estado Civil;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 g) Nombre completo del padre (apellido paterno, materno y nombres);
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 h) Nombre completo de la madre (apellido paterno, materno y nombres);
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 i) Tipo de testamento;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 j) Número de escritura;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 k) Volumen o tomo;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 l) Fecha de la escritura;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 m) Si se establecieron disposiciones de contenido irrevocable;
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 n) Lugar de otorgamiento;
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 o) Nombre completo del Notario (apellido paterno, materno y nombres);
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 p) Tipo de Notario (titular, adscrito, auxiliar, suplente, asociado, interino o cualquier otro tipo);
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
+
 q) Número de Notaría; y
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2007)</small>
 
 r) Demarcación o municipio.
 
@@ -371,7 +471,13 @@ r) Demarcación o municipio.
 
 ART.47 bis.- La Secretaría General de Gobierno contará con una base de datos electrónica destinada a asentar las inscripciones relativas con los datos que se mencionan para tal efecto en el aviso, la que una vez realizada, será remitida vía Internet al Registro Nacional de Avisos del Testamento con todos los datos necesarios según sea el caso para el registro en la base nacional correspondiente.
 
-Los jueces o cualquier otra autoridad, ante quienes se denuncie un juicio sucesorio testamentario o intestamentario, recabarán de la Secretaría General de Gobierno información de si existe anotación alguna referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate; para lo cual la Secretaria indagará en su base de datos correspondiente, recabando también información en el Registro Nacional de Avisos del Testamento, a fin de dar respuesta a la información solicitada.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+Los jueces o cualquier otra autoridad, ante quienes se denuncie un juicio sucesorio testamentario o intestamentario, recabarán de la Secretaría General de Gobierno vía física o electrónica, la información de si existe anotación alguna referente al otorgamiento de algún testamento, por la persona de cuya sucesión se trate; para lo cual la Secretaria indagará en su base de datos correspondiente, recabando también información en el Registro Nacional de Avisos del Testamento, a fin de dar respuesta a la información solicitada.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+La Secretaría General de Gobierno, habilitará a los notarios y a los jueces que soliciten información sobre testamentos, para que puedan acceder a la base de datos del Registro Nacional de Avisos de Testamento, llevando un estricto control electrónico de esas consultas.
 
 ### CAPITULO CUARTO. DE LAS ACTAS
 
@@ -409,7 +515,9 @@ IV.- La certificación sobre existencia, identidad, capacidad legal, domicilio y
 
 V.- La certificación sobre autenticidad de firmas o huellas dactilares y ratificación de documentos privados, y
 
-VI.- El cotejo de que la copia escrita, fotográfica, fotostática o de cualquier otra clase, coincide con el documento original o con su copia certificada. En este caso, el notario asentará la certificación en la propia copia, en la que imprimirá su firma y sello, el lugar y la fecha.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+VI.- El cotejo de que la copia escrita, fotográfica, fotostática, digital, electrónica o de cualquier otra clase, coincide con el documento original o con su copia certificada. En este caso, el notario asentará la certificación en la propia copia, en la que imprimirá su firma y sello, el lugar y la fecha.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -425,21 +533,35 @@ ART. 53.- (DEROGADO, P.O. 9 DE JULIO DE 1994)
 
 ART. 54.- Las notificaciones que la Ley permita hacer por medio del notario, o que no estén expresamente reservadas a otros funcionarios, podrá hacerlas el notario por medio de instructivo que contenga la relación suscinta (sic) del objeto de la notificación, siempre que a la primera busca no se encuentre a la persona que debe ser notificada; pero cerciorándose previamente de que dicha persona tiene su domicilio en la casa donde se le busca y haciéndose constar en el acta el nombre que dé la persona que recibe el instructivo.
 
-ART. 55.- En las actas de protocolización hará constar el notario que el documento o las diligencias judiciales, cuya naturaleza indicará, los agrega al apéndice, en el legajo marcado con el número del acta y bajo la letra que le corresponda.- No se podrá protocolizar el documento cuyo contenido sea contrario a las leyes o a la moral.- La protocolización deberá hacerse agregando el o los documentos al apéndice para después insertar su texto en los testimonios que se expidan.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+ART. 55.- En las actas de protocolización hará constar el notario que el documento o las diligencias judiciales, cuya naturaleza indicará, los deberá agregar al apéndice físico o electrónico, en el legajo marcado con el número del acta y bajo la letra que le corresponda. No se podrá protocolizar el documento cuyo contenido sea contrario a las leyes o a la moral. La protocolización deberá hacerse agregando el o los documentos al apéndice para después insertar su texto en los testimonios que se expidan.
 
 ### CAPITULO QUINTO. DE LOS TESTIMONIOS
 
-ART. 56.- Testimonio es la copia que transcribe íntegramente una escritura o acta notarial con los documentos anexos que obren en el apéndice, con excepción de los que ya se hayan insertos en el instrumento.- Tratándose de documentos en idioma extranjero que obren en el apéndice, podrán ser o no transcritos en el testimonio y podrá certificarse copia de éstos que concuerden con los originales protocolizados.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+ART. 56.- Testimonio es la copia que transcribe íntegramente una escritura o acta notarial con los documentos anexos que obren en el apéndice, en soporte papel o en soporte electrónico, con excepción de los que ya se hayan insertos en el instrumento. Tratándose de documentos en idioma extranjero que obren en el apéndice, podrán ser o no transcritos en el testimonio y podrá certificarse copia de éstos que concuerden con los originales protocolizados.
 
 El testimonio será parcial cuando en él solo se transcriba parte ya sea de la escritura o del acta, ya de los documentos del apéndice.- El Notario no expedirá testimonio o copia parcial sino cuando por la emisión de lo que no se transcribe pueda seguirse perjuicio a tercera persona.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+El testimonio podrá constar en soporte electrónico, siempre que esté firmado por el notario, con su firma electrónica certificada.
+
 ART. 57.- Al final de cada testimonio se hará constar su calidad de primero, segundo o ulterior número ordinal, el nombre del interesado a quien se expide, a qué título, el número de hojas del testimonio y la fecha de expedición.
 
-Se salvarán las testaduras y entrerrenglonaduras de la manera prescrita para las escrituras.- El testimonio será autorizado por el notario con su firma y sello.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+Se salvarán las testaduras y entrerrenglonaduras de la manera prescrita para las escrituras. El testimonio será autorizado por el notario con su firma y sello.
 
-ART. 58.- Las hojas del testimonio tendrán las medidas y demás características que determine el Colegio de Notarios.
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+El testimonio que se incorpore a la base de datos o se expida por los medios electrónicos será autorizado con la firma electrónica certificada del notario.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+ART. 58.- Las hojas del testimonio tendrán las medidas y demás características que determine el Colegio de Notarios y éste las dará a conocer a la Secretaría General de Gobierno.
 
 ART. 59.- Los notarios pueden expedir y autorizar testimonios o copias impresas por cualquier medio de reproducción que sea legible y certificaciones de los actos o hechos que consten en su protocolo.- En la certificación harán constar el número y la fecha de la escritura o del acta respectiva.
 
@@ -483,7 +605,9 @@ II.- Si el notario no tiene expedito el ejercicio de sus funciones al autorizar 
 
 III.- Si lo autoriza fuera de su demarcación;
 
-IV.- Si no está autorizada con la firma y sello del notario;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+IV.- Si no está autorizada con la firma autógrafa o con la firma electrónica certificada del notario, según corresponda y sello del notario; o cuando autorizados con la firma electrónica certificada, no tiene vigente el registro de la misma ante la autoridad certificadora; y
 
 V.- Si faltare algún otro requisito que produzca su ineficacia por disposición expresa de la Ley.
 
@@ -521,6 +645,24 @@ El Ejecutivo del Estado designará un visitador que practique la investigación 
 
 Recibido el informe del Consejo, la autoridad respectiva oirá personalmente al notario de que se trate, concediéndole el término de quince días para que aporte pruebas en su descargo y fenecido el término, se dictará la resolución definitiva sin que haya lugar a ulterior recurso administrativo. La substanciación del procedimiento señalado en ningún caso podrá exceder del término de dos meses.
 
+## TITULO SEGUNDO. DE LA ORGANIZACION DEL NOTARIADO
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO PRIMERO. DISPOSICIONES PRELIMINARES
+
+ART. 73.- La dirección del notario queda a cargo del Ejecutivo del Estado.
+
+ART. 74.- Los notarios actualmente en ejercicio, así como los que fueren nombrados conforme a la presente ley, sólo podrán ser suspendidos o cesados, en los términos previstos por la misma.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 75.- La notaría pública estará abierta por lo menos siete horas de cada día hábil y se identificará con el número que le corresponda. En lugar visible, sea en la puerta de entrada o en los muros adyacentes, habrá un rótulo con el nombre y apellidos del notario y con el número de la notaría.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
+ART. 76.- En cada demarcación notarial habrá un notario por cada treinta mil habitantes.
+
 ### CAPITULO SEGUNDO. DE LAS NOTARIAS Y DEMARCACIONES NOTARIALES
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
@@ -538,20 +680,6 @@ ART. 78.- El Ejecutivo creará el número de notarías que se requiera en cada d
 ART. 79.- Cada notaría será servida por un notario titular o por quien deba substituirlo.
 
 ART. 80.- Pueden autorizarse permutas de notarías dentro de cada demarcación notarial siempre que a juicio del Gobierno del Estado y del Consejo de Notarios no se perjudique el servicio público.
-
-## TITULO PRIMERO (SIC). DISPOSICIONES PRELIMINARES
-
-ART. 73.- La dirección del notario queda a cargo del Ejecutivo del Estado.
-
-ART. 74.- Los notarios actualmente en ejercicio, así como los que fueren nombrados conforme a la presente ley, sólo podrán ser suspendidos o cesados, en los términos previstos por la misma.
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
-
-ART. 75.- La notaría pública estará abierta por lo menos siete horas de cada día hábil y se identificará con el número que le corresponda. En lugar visible, sea en la puerta de entrada o en los muros adyacentes, habrá un rótulo con el nombre y apellidos del notario y con el número de la notaría.
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
-
-ART. 76.- En cada demarcación notarial habrá un notario por cada treinta mil habitantes.
 
 ### CAPITULO TERCERO. DE LOS NOTARIOS
 
@@ -603,6 +731,14 @@ IV.- Establecer su oficina o notaría en el lugar en que va a desempeñar su car
 
 V.- Pertenecer al Colegio de Notarios del Estado.
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+VI.- Podrá solicitar a la Secretaría de Administración, la asignación de su firma electrónica certificada, que deberá mantener vigente en los términos que establezca ésta; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+VII.- Podrá contar con los medios e instrumentos electrónicos necesarios para la administración de su información electrónica y la utilización de la firma electrónica certificada.
+
 ART. 86.- En vez de la fianza de que trata la fracción I del artículo anterior, es potestativo para el notario constituir hipoteca o depósito por la cantidad que señala esta Ley.
 
 ART. 87.- El notario, en cualquier tiempo, puede substituir una garantía por otra, según le convenga, con aviso al Gobierno del Estado.
@@ -614,6 +750,10 @@ ART. 89.- Se registrará el nombramiento de notario titular en la Secretaría Ge
 ART. 90.- Llenados los requisitos del artículo ochenta y cinco, se mandará publicar, sin costo alguno, el nombramiento en el Periódico Oficial el Estado.
 
 ART. 91.- Inmediatamente que el notario comience a ejercer sus funciones, dará aviso al público por medio del Periódico Oficial del Estado y un periódico de la localidad, y lo comunicará a la Secretaría General de Gobierno del Estado y al Consejo del Colegio de Notarios.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+La Secretaría de Administración, en su carácter de Autoridad Certificadora, al asignarle la firma electrónica certificada, publicará su autorización en el Periódico Oficial y en su página de Internet.
 
 ### CAPITULO CUARTO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
@@ -699,9 +839,9 @@ ART. 109.- Si después de extendida la patente de aspirante al ejercicio del not
 
 ### CAPITULO QUINTO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-ART. 110.- Cuando se acuerde la creación de alguna nueva notaría, en los términos del artículo 78, o cuando quede vacante una de las existentes, la Secretaría General de Gobierno publicará un anuncio por una sola ocasión en el Periódico Oficial del Estado y en uno de los de circulación estatal, convocando a los aspirantes que pretenden obtener por oposición el nombramiento de notario.
+ART. 110.- Cuando se acuerde la creación de alguna nueva notaría, en los términos del artículo 78, o cuando quede vacante una de las existentes, la Secretaría General de Gobierno publicará un anuncio por una sola ocasión en el Periódico Oficial del Estado y en uno de los de circulación estatal, así como en la página de Internet del Gobierno del Estado, convocando a los aspirantes que pretenden obtener por oposición el nombramiento de notario.
 
 Dentro de los cinco días naturales, contados a partir de la publicación de la convocatoria en el Periódico Oficial del Gobierno del Estado “El Estado de Colima”, los aspirantes solicitarán ser admitidos al examen de oposición, mediante escrito que presentará al Secretario General de Gobierno, quien anotará en cada solicitud, la fecha y hora de su presentación y remitirá copia de la misma al Director General de Gobierno.
 
@@ -813,7 +953,9 @@ ART. 136.- Siempre que se promueva judicialmente la interdicción de algún nota
 
 ART. 137.- Los encargados de las oficinas del Registro Civil ante quienes se consignare el fallecimiento de un notario, lo comunicarán inmediatamente al Gobierno y al Consejo de Notarios del Estado.
 
-ART. 138.- Cuando un notario dejare de prestar sus servicios por cualquiera causa, la Secretaría General de Gobierno del Estado lo publicará por una vez en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+ART. 138.- Cuando un notario dejare de prestar sus servicios por cualquiera causa, la Secretaría General de Gobierno del Estado lo publicará por una vez en el Periódico Oficial del Estado y en la página de Internet del Gobierno del Estado.
 
 ART. 139.- Sólo se acordará la cancelación de la garantía constituída por el notario, si se llenan previamente los siguientes requisitos:
 
@@ -823,11 +965,17 @@ II.- Que no haya queja alguna que importe responsabilidad pecuniaria para el not
 
 III.- Que se solicite después de un año de la cesación del notario, por él mismo o por parte legítima;
 
-IV.- Que se publique la petición, en extracto, en el Periódico Oficial, por una sola vez;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-V.- Que se oiga al Consejo de Notarios, y
+IV.- Que se publique la petición, en extracto, en el Periódico Oficial, por una sola vez y en la página de Internet del Gobierno del Estado;
 
-VI.- Que transcurran tres meses después de la publicación en el Periódico Oficial, sin que se hubiere presentado opositor.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+V.- Que se oiga al Consejo de Notarios; y
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+VI.- Que transcurran tres meses después de la publicación en el Periódico Oficial, y en la página de Internet del Gobierno del Estado; sin que se hubiere presentado opositor.
 
 En caso de oposición, se consignará el asunto a la autoridad judicial respectiva para que proceda en términos de Ley.
 
@@ -861,7 +1009,13 @@ ART. 149.- Los interventores que fueren designados para actuar en la clausura de
 
 ART. 150.- El notario que reciba una notaría, ya sea por vacancia o suspensión de quien la servía, deberá siempre hacerlo por riguroso inventario, con asistencia de los interventores a que se refieren los artículos anteriores.- De este modo, con inclusión del inventario, se levantará y firmará acta por cuadruplicado remitiéndose un ejemplar al Gobierno del Estado, otro al Consejo de Notarios, otro para el notario que reciba y el último para el notario que entregue o su representante.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+Además, se le entregarán, si existen, archivos electrónicos que consten en la base de datos de la notaría respectiva.
+
 ART. 151.- El notario que se encuentre en cualesquiera de las condiciones a que se refieren los tres artículos anteriores, tiene derecho a asistir a la clausura del protocolo y a la entrega de su respectiva notaría.- Si la vacante temporal o definitiva es por causa de delito, asistirá también a la clausura, inventario y entrega el Agente del Ministerio Público que designe el Procurador de Justicia del Estado.
+
+## TITULO TERCERO. DE LAS INSTITUCIONES RELATIVAS AL NOTARIADO
 
 ### CAPITULO PRIMERO. DEL COLEGIO Y DEL CONSEJO DE NOTARIOS DEL ESTADO
 
@@ -935,7 +1089,9 @@ ART. 162.- El Consejo de Notarios formulará el reglamento de sus funciones.
 
 ART. 163.- Habrá en el Estado un archivo General de Notarías en la Capital y otro en la Ciudad de Manzanillo, que se organizarán como Secciones dependientes del Registro Público de la Propiedad de los propios lugares y su funcionamiento se regirá por las disposiciones del Reglamento que al efecto expida el Ejecutivo del Estado, a quien se faculta para ello.
 
-## TITULO TERCERO. DE LAS INSTITUCIONES RELATIVAS AL NOTARIADO
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+En el Archivo General de Notarías, se implementará lo necesario para poder utilizar los medios electrónicos.
 
 ### CAPITULO TERCERO. DE LAS INSPECCIONES DE LAS NOTARIAS
 
@@ -1034,3 +1190,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 3 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
