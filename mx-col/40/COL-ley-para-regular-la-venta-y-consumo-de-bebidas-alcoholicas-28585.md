@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2009-05-09"
+last_updated: "2010-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -188,6 +188,10 @@ q) FERRETERIAS, TLAPALERÍAS Y FARMACIAS: Son los establecimientos destinados a 
 r) SERVICIO PARA FIESTA: Son los establecimientos que se dedican a la renta de muebles, manteles, cristalería y accesorios para fiestas y que podrán vender botanas, vinos y cerveza en envase cerrado, con entrega a domicilio exclusivamente, debiendo contar con área de carga y descarga que permita hacer maniobras de vehículo dentro del local.
 
 Los establecimientos a que se alude en este artículo no podrán modificar su funcionamiento, alterando la categoría asignada, sin permiso previo de la autoridad competente; así mismo, los inmuebles destinados a estas actividades no podrán alternarse para la prestación de un servicio distinto al autorizado, ni utilizarse como casa habitación, los contemplados por los incisos a), b), c), d) y e).
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+Los establecimientos señalados en los incisos a), d), f), g), h) y j) de este artículo, destinados a la venta y consumo de alimentos, deberán incluir en sus cartas de menú, las calorías por platillo que contienen los alimentos que ofrezcan al público, así como las calorías promedio a consumir diarias.
 
 ### CAPITULO III. DE LAS LICENCIAS
 
@@ -454,3 +458,11 @@ UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deber�
 P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- En un término no mayor de 90 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos de la entidad, por conducto de sus Cabildos, deberán adecuar sus respectivos Reglamentos para la Venta y Consumo de Bebidas Alcohólicas en los que se regulan los establecimientos destinados a la venta y consumo de alimentos, para efectos de dar cumplimiento a lo establecido en este Decreto.
+
+TERCERO.- Los propietarios, poseedores o titulares de los establecimientos comprendidos en el presente Decreto, tendrán como plazo máximo el 1° de marzo de 2011, para dar debido cumplimiento a las obligaciones contenidas en el mismo.
