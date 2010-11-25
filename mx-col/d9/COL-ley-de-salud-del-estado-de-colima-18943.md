@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-18943"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2010-05-29"
+last_updated: "2010-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de diciembre de 2000.
 
@@ -155,13 +155,21 @@ e).- El programa contra la farmacodependencia, en coordinación con la Secretar�
 
 III.- Planear, organizar y desarrollar el Sistema Estatal de Salud, procurando su participación programática en el Sistema Nacional de Salud y coadyuvando a su consolidación y funcionamiento;
 
-IV.- Consolidar el sistema estatal de información básica en materia de salud y proporcionar la información a las autoridades federales competentes; y (sic)
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-V.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables;
+IV.- Consolidar el sistema estatal de información básica en materia de salud y proporcionar la información a las autoridades federales competentes;
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
-VI.- Supervisará, en coordinación con la Secretaría de Educación, el establecimiento de estrategias y mecanismos con el fin de prohibir la venta y consumo de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del sistema educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada.
+V.- Supervisará, en coordinación con la Secretaría de Educación, el establecimiento de estrategias y mecanismos con el fin de prohibir la venta y consumo de productos con alto contenido de azúcares refinados, colesterol, ácidos grasos saturados, ácidos grasos trans, sal y aditivos en los establecimientos escolares y en los espacios donde se expenden alimentos en las Instituciones Educativas de todos los niveles y modalidades del sistema educativo dependiente de la Secretaría de Educación del Gobierno del Estado, así como facilitar el acceso a verduras, frutas, leguminosas y cereales integrales, que son fuente de nutrimentos antioxidantes y de fibra dietética, orientando de manera acertada y efectiva a los encargados de dichos establecimientos, así como ofertar y hacer accesible el consumo de agua purificada;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+VI.- Vigilara, en coordinación con las autoridades competentes de los Ayuntamientos, que los establecimientos destinados a la venta y consumo de alimentos, establezcan en sus cartas de menú, las calorías por platillo que contienen los alimentos que ofrezcan al público, así como las calorías promedio a consumir diarias; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+
+VII.- Las demás atribuciones específicas que se establezcan en esta Ley y demás disposiciones generales aplicables.
 
 ###### ARTICULO 6°.
 
@@ -1526,3 +1534,11 @@ P.O. 3 DE MAYO DE 2008.
 P.O. 29 DE MAYO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- En un término no mayor de 90 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos de la entidad, por conducto de sus Cabildos, deberán adecuar sus respectivos Reglamentos para la Venta y Consumo de Bebidas Alcohólicas en los que se regulan los establecimientos destinados a la venta y consumo de alimentos, para efectos de dar cumplimiento a lo establecido en este Decreto.
+
+TERCERO.- Los propietarios, poseedores o titulares de los establecimientos comprendidos en el presente Decreto, tendrán como plazo máximo el 1° de marzo de 2011, para dar debido cumplimiento a las obligaciones contenidas en el mismo.
