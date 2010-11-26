@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-general-de-acciones-de-urbanizacion-para-el-45592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2010-04-23"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO GENERAL DE ACCIONES DE URBANIZACION PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL EL 23 DE ABRIL DE 2010.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -155,7 +153,7 @@ Para los efectos del presente Reglamento, se establecen las siguientes abreviatu
 
 I.- Ayuntamiento.- Es el órgano colegiado conformado por los Munícipes, responsable del gobierno del Municipio de Mexicali, Baja California;
 
-(REFORMADA, P.O. 5 DE MARZO DE 2010) (F. DE E., 23 DE ABRIL DE 2010)
+(REFORMADA, P.O. 5 DE MARZO DE 2010)(F. DE E., 23 DE ABRIL DE 2010)
 
 II.- Dirección.- Es la Dirección de Administración Urbana del Gobierno Municipal de Mexicali, Baja California, a la que corresponderá la aplicación de las disposiciones del presente Reglamento, en los casos en que no se determine expresamente otra autoridad. La Dirección actuará por sí o a través de sus Departamentos, en los términos del Reglamento de la Administración Pública del Municipio de Mexicali, Baja California;
 
@@ -419,11 +417,15 @@ Podrá determinarse por la Dirección a propuesta del urbanizador o promotor inm
 
 En este caso, los predios que se propongan deberán tener valor igual o superior al que vaya a tener la superficie cuya propiedad correspondería transmitir en el que será objeto de la acción de urbanización, una vez concluida ésta, según dictámenes de la Comisión Municipal de Valuación.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+La Dirección podrá aceptar la propuesta si cuenta con un dictamen técnico aprobado por el Ayuntamiento, que justifique la conveniencia de la ubicación sugerida para el área de equipamiento.
+
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 ###### Artículo 30.
 
-EI urbanizador o promotor inmobiliario también podrá proponer a la Dirección, la entrega de área para equipamiento diverso a las vías públicas y áreas verdes, con una superficie menor a la que corresponda de acuerdo con el tipo de acción de urbanización que vaya a desarrollar, ya sea en el predio que vaya a ser objeto de ésta o de otro diverso, si realiza sobre el mismo una edificación o equipamiento especifico que requiera la zona.
+El urbanizador o promotor inmobiliario también podrá proponer a la Dirección, la entrega de área para equipamiento diverso a las vías públicas y áreas verdes, con una superficie menor a la que corresponda de acuerdo con el tipo de acción de urbanización que vaya a desarrollar, ya sea en el predio que vaya a ser objeto de ésta o de otro diverso, si realiza sobre el mismo una edificación o equipamiento especifico que requiera la zona.
 
 La Dirección podrá aceptar la propuesta de menor superficie pero con edificación o infraestructura siempre y cuando cuente con los siguientes elementos:
 
@@ -454,6 +456,10 @@ III.- En el caso de que la obra de infraestructura urbana tenga un costo superio
 ###### Artículo 32.
 
 Respecto del área para equipamiento cuya propiedad deba transmitirse gratuitamente al Municipio, diversa a las superficies para vialidades y áreas verdes, podrá optar el urbanizador o promotor inmobiliario, por no efectuar la transmisión, sino pagar al Municipio el valor comercial que vaya a tener dicha superficie una vez concluida la acción de urbanización, que se determine mediante dictamen de la Comisión Municipal de Valuación.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+El Ayuntamiento resolverá respecto de dicha propuesta, con base en el dictamen técnico que emita la Dirección, en el que se justifique la conveniencia de la misma de conformidad con el Plan y Programas.
 
 ###### Artículo 33.
 
@@ -1180,5 +1186,9 @@ P.O. 5 DE MARZO DE 2010.
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 12 DE MARZO DE 2010.
+
+Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
