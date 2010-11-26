@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-257-de-ingresos-del-estado-de-guerrero-para-el-72846
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-22"
-last_updated: "2009-12-22"
+last_updated: "2010-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 257 DE INGRESOS DEL ESTADO DE GUERRERO, PARA EL EJERCICIO FISCAL 2010
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 22 de diciembre de 2009.
 
@@ -543,9 +543,19 @@ Durante los meses de enero, febrero y marzo del ejercicio fiscal del año 2010, 
 
 Para efectos de lo previsto por la fracción IV, inciso b) del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, las bases montos y plazos para las participaciones a los municipios son las que se refieren por el Capítulo II de la Ley 251 que crea el Sistema Estatal de Coordinación Fiscal y Establece bases, Montos y Plazos a los que se sujetarán las Participaciones Federales.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 16.
 
-Se otorga autorización al Titular del Ejecutivo del Estado para que, conforme a las disposiciones de la Ley Número 616 de Deuda Pública para el Estado de Guerrero, contrate un monto de endeudamiento neto a nombre del Estado de Guerrero, hasta por un monto de 1,381 millones 144 mil 500 pesos 00/100 M.N., para aplicarse en los términos de lo que disponen los artículos 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos y demás aplicables de la Ley Número 616 de Deuda Pública para el Estado de Guerrero, para destinarse a inversiones públicas productivas. En garantía o fuente de pago de este financiamiento, el Estado podrá afectar los derechos e ingresos que percibe del impuesto sobre el 80% de la Recaudación del impuesto sobre tenencia o uso de vehículos; para dicho fin, se autoriza a la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero para constituir un Fideicomiso que capte la recaudación de dicho impuesto, mismo que permita al Gobierno del Estado hacer frente a los compromisos de pago de este financiamiento. Así mismo, de agravarse la situación económica presente, se autoriza para que el Gobierno del Estado amplíe el monto de endeudamiento autorizado, hasta por un monto equivalente a tres punto cinco por ciento del total de los ingresos ordinarios que se obtengan en el ejercicio fiscal de 2010.
+Se otorga autorización al Titular del Ejecutivo del Estado para que, por conducto del Titular de la Secretaría de Finanzas y Administración, durante el ejercicio fiscal 2010 contraiga un financiamiento público directo conforme a las siguientes previsiones:
+
+I. Se contratará en una o más operaciones, con la o las instituciones de crédito del sistema financiero mexicano que ofrezcan las mejores condiciones de disponibilidad de recursos y liquidez, hasta por la cantidad de $1,381,144,500.00 (Un mil trescientos ochenta y un millones ciento cuarenta y cuatro mil quinientos pesos, 00/100 M.N.), más las reservas, accesorios financieros, coberturas, derivados, gastos y comisiones que se generen, a efecto de que se destinen al financiamiento de los Programas y Acciones de Inversión Pública Estatal.
+
+II. El plazo máximo de vencimiento de las operaciones que celebre será de hasta 15 (quince) años contados a partir de la primera disposición del crédito de que se trate.
+
+III. Como fuente de pago de estas operaciones crediticias se autoriza la afectación del porcentaje necesario y suficiente de los derechos y/o ingresos relativos a las participaciones que en ingresos federales le correspondan y/o de los recursos federales, que puedan utilizar para ese fin, y/o de cualquiera de los derechos o ingresos que le correspondan derivados de contribuciones estatales, derechos, productos, aprovechamientos o cualesquiera otros ingresos propios de los que pueda disponer. Afectación que realizará a través de los mecanismos de pago a que se refiere el artículo 8 de la Ley Número 616 de Deuda Pública para el Estado de Guerrero, preexistente o que se constituyan para tal fin.
+
+IV. Dentro del monto de financiamiento autorizado, se podrá realizar la reestructura o el refinanciamiento de hasta $631,144,500.00 (Seiscientos treinta y un millones ciento cuarenta y cuatro mil quinientos pesos 00/100 M. N.) de operaciones crediticias previamente contraídas, siempre que se obtengan mejores condiciones financieras a las originalmente pactadas, lo que se comprobará con el análisis del costo beneficio de la reestructuración planteada.
 
 ###### ARTÍCULO 17.
 
@@ -610,3 +620,15 @@ EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN.
 L.A.E. RICARDO ERNESTO CABRERA MORÍN.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales procedentes.
