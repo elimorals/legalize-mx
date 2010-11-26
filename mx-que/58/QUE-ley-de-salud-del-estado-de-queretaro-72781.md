@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2010-09-03"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -123,7 +123,9 @@ X. La información relativa a las condiciones, recursos y servicios de salud;
 
 XI. La educación para la salud;
 
-XII. La orientación, promoción y vigilancia en materia de nutrición;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XII. La orientación, promoción y vigilancia en materia de nutrición, atendiendo a los problemas de malnutrición;
 
 XIII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud de los seres humanos;
 
@@ -147,7 +149,9 @@ XXII. Las demás que establezca esta Ley, la Ley General de Salud y demás dispo
 
 B. En materia de salubridad local, el control sanitario de:
 
-I. Comercio de productos alimenticios en almacenes y tiendas no especializadas;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+I. Comercio de productos alimenticios en almacenes, cooperativas escolares, espacios comerciales donde se expenden o consumen alimentos en las instituciones de nivel básico y tiendas no especializadas;
 
 II. Construcciones, excepto las de los establecimientos de salud;
 
@@ -447,9 +451,13 @@ VIII. Impulsar la descentralización de los servicios de salud y de vigilancia s
 
 IX. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado y de aquellas cuyas acciones repercutan en la salud de la población, con sujeción a las disposiciones legales aplicables;
 
-X. Coordinar el proceso de programación de las actividades de salud en el Estado y vigilancia sanitaria; y
+X. Coordinar el proceso de programación de las actividades de salud en el Estado y vigilancia sanitaria; y (sic)
 
-XI. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud del Estado de Querétaro y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XI. Implementar programas en materia de nutrición, tendientes a disminuir los índices de malnutrición en la población y en particular a los menores de edad y adolescentes en el Estado de Querétaro; y
+
+XII. Las demás facultades que se requieran para el cumplimiento de los objetivos del Sistema de Salud del Estado de Querétaro y las que determinen las disposiciones generales aplicables.
 
 ###### Artículo 20.
 
@@ -461,9 +469,13 @@ II. Asumir la administración de los establecimientos de salud que descentralice
 
 III. Formular y desarrollar programas municipales de salud, en el marco del Sistema Nacional de Salud, del Sistema de Salud del Estado de Querétaro y de acuerdo con los principios y objetivos de los planes nacional, estatal y municipales de desarrollo;
 
-IV. Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y las demás disposiciones generales aplicables; y
+IV. Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente Ley y las demás disposiciones generales aplicables; y (sic)
 
-V. Las demás atribuciones que se deriven de esta Ley y otras disposiciones legales en la materia.
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+V. Promover, formular y desarrollar programas, dentro de su respectivo ámbito de competencia, contra la malnutrición; y
+
+VI. Las demás atribuciones que se deriven de esta Ley y otras disposiciones legales en la materia.
 
 ###### Artículo 21.
 
@@ -533,7 +545,9 @@ VII. La prevención y el control de las enfermedades buco dentales;
 
 VIII. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-IX. La promoción del mejoramiento de la nutrición;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+IX. La promoción del mejoramiento de la nutrición atendiendo a los problemas de malnutrición;
 
 X. La asistencia social a grupos vulnerables; y
 
@@ -745,7 +759,9 @@ La comunidad podrá participar en los servicios de salud de los sectores públic
 
 I. Adoptar hábitos que contribuyan a proteger la salud o solucionar problemas de salud;
 
-II. Participar en programas de promisión y mejoramiento de la salud y prevención de enfermedades y accidentes;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+II. Participar en programas de promoción y mejoramiento de la salud, nutrición y prevención de enfermedades y accidentes;
 
 III. Coadyuvar en la prevención o tratamiento de problemas ambientales vinculados a la salud;
 
@@ -760,6 +776,10 @@ VII. Informar a las autoridades competentes, sobre irregularidades o deficiencia
 VIII. Informar a las autoridades sanitarias, acerca de los efectos secundarios y reacciones adversas por el uso de medicamentos e insumos para la salud, o bien, por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos; y
 
 IX. Atender actividades que coadyuven a la protección de la salud.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+X. Apoyar los programas, estrategias y medidas en materia de nutrición, que implementen las autoridades de salud y educativas.
 
 ###### Artículo 60.
 
@@ -781,7 +801,9 @@ La atención materno infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II. La atención del niño, previo y durante su nacimiento, así como la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+II. La atención del niño, previo y durante su nacimiento, así como la vigilancia de su crecimiento, nutrición adecuada y desarrollo integral, incluyendo la promoción de la vacunación oportuna;
 
 III. La protección de la integración y del bienestar familiar;
 
@@ -819,9 +841,13 @@ I. Los programas para padres destinados a promover la atención materno infantil
 
 II. Las actividades recreativas, de esparcimiento y culturales, destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y
+III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas; y (sic)
 
-IV. Las demás acciones que coadyuven a la protección de la salud materno infantil.
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+IV. La vigilancia de los alimentos que se expendan en las cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de mal nutrición de menores de edad y adolescentes; y
+
+V. Las demás acciones que coadyuven a la protección de la salud materno infantil.
 
 ###### Artículo 68.
 
@@ -1037,9 +1063,11 @@ El Poder Ejecutivo del Estado, en coordinación con las autoridades federales co
 
 ### Capítulo Segundo. De la nutrición
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 98.
 
-La Secretaría de Salud formulará y desarrollará programas de nutrición, promoviendo la participación de los organismos estatales, nacionales e internacionales cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores social y privado.
+La Secretaría de Salud formulará y desarrollará programas de nutrición, prevención y atención a problemas de malnutrición, promoviendo en coordinación con la Secretaría de Educación, la participación de los organismos estatales, nacionales e internacionales, así como de los sectores social y privado, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos.
 
 ###### Artículo 99.
 
@@ -1055,9 +1083,21 @@ II. Coordinar el desarrollo de los programas y actividades de educación en mate
 
 III. Procurar, en coordinación con la Secretaría de Educación, que los alimentos y bebidas que se expendan en las escuelas de nivel preescolar, primaria y secundaria, posean el valor nutricional que coadyuve a una dieta correcta;
 
-IV. Promover la investigación básica y aplicada en ciencias, encaminada a conocer las condiciones de nutrición que prevalecen en la población y a determinar los requerimientos nutricionales mínimos, para la mejora o el mantenimiento de buenas condiciones de salud; y
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-V. Recomendar las dietas y el consumo de nutrimentos indispensables para la población en general, proveyendo lo necesario, en la esfera de su competencia, a dicho consumo.
+IV. Establecer permanentemente los mecanismos de participación y colaboración, que permitan involucrar a los diversos sectores de la sociedad en la instrumentación de acciones integrales al interior de las instituciones educativas, encaminadas a modificar los hábitos alimenticios y disminuir el sedentarismo, con el fin de evitar problemas de malnutrición y enfermedades de tipo alimentario en los educandos;
+
+V. Promover la investigación básica y aplicada en ciencias, encaminada a conocer las condiciones de nutrición que prevalecen en la población y a determinar los requerimientos nutricionales mínimos, para la mejora o el mantenimiento de buenas condiciones de salud;
+
+VI. Recomendar las dietas y el consumo de nutrimentos indispensables para la población en general, proveyendo lo necesario, en la esfera de su competencia, a dicho consumo;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+VII. Realizar acciones de concientización y promoción de las medidas preventivas, a fin de evitar la malnutrición de las personas y en particular de los menores de edad y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Normar el valor nutritivo y características de la alimentación en las cooperativas escolares así como en espacios comerciales donde se expendan o consuman alimentos en las instituciones de nivel básico.
 
 ### Capítulo Tercero. De los efectos del ambiente
 
@@ -1131,17 +1171,23 @@ II. Influenza epidémica, infecciones agudas del aparato respiratorio, infeccion
 
 III. Tuberculosis;
 
-IV. Difteria, tosferina, tétanos, sarampión, poliomielitis, rubéola, parotiditis infecciosa;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+IV. Difteria, tos ferina, tétanos, sarampión, poliomielitis, rubéola y parotiditis infecciosa;
 
 V. Rabia, peste, brucelosis y otras zoonosis. En estos casos, la Secretaría de Salud coordinará sus actividades con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 VI. Fiebre amarilla, dengue y otras virales transmitidas por artrópodos;
 
-VII. Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishmaniasis, tripanosomiasis y onchocercosis;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+VII. Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishmaniasis, tripanosomiasis y oncocercosis;
 
 VIII. Sífilis, infecciones gonocócicas y otras de transmisión sexual;
 
-IX. Lepra y vitiligo;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+IX. Lepra y mal del pinto;
 
 X. Micosis profundas;
 
@@ -1756,3 +1802,27 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO SEGUNDO.
+
+SE REFORMAN LAS FRACCIONES XII DEL APARTADO A, I DEL APARTADO B DEL ARTICULO 3; SE ADICIONA UNA FRACCION XI AL ARTICULO 19, RECORRIENDO LA ACTUAL FRACCION XI; SE ADICIONA UNA FRACCION V AL ARTICULO 20, RECORRIENDO LA ACTUAL FRACCION V; SE REFORMA LA FRACCION IX DEL ARTICULO 30; SE REFORMA LA FRACCION II Y SE ADICIONA UNA FRACCION X AL ARTICULO 59; SE REFORMA LA FRACCION II DEL ARTICULO 63; SE ADICIONA UNA FRACCION IV AL ARTICULO 67, RECORRIENDO LA ACTUAL FRACCION IV; SE REFORMA EL ARTICULO 98; SE ADICIONA LA FRACCION IV, AL ARTICULO 100, RECORRIENDO LAS ACTUALES FRACCIONES IV Y V Y SE ADICIONAN LAS FRACCIONES VII Y VIII, TODOS DE LA LEY DE SALUD DEL ESTADO DE QUERETARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Para efecto de lo dispuesto en el artículo 100 fracción VIII de la Ley de Salud del Estado de Querétaro, la Secretaría de Salud contará con el plazo de noventa días naturales, a partir de la entrada en vigor de la presente Ley, para emitir la normatividad que corresponda.
+
+Hasta en tanto es emitida dicha normatividad, deberán atenderse los criterios técnicos correspondientes a la Etapa I de Implementación del "Acuerdo mediante el cual se establecen los Lineamientos Generales para el expendio o distribución de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica", contenidos en el Cuadro 3 denominado "Criterios nutrimentales de aplicación obligatoria en alimentos y gradualidad de implementación durante tres ciclos escolares a partir del Ciclo Escolar 2010-2011" del Anexo Único del Acuerdo en cita, publicado en el Diario Oficial de la Federación el 23 de Agosto de 2010.
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+SE REFORMAN LAS FRACCIONES IV, VII Y IX DEL ARTICULO 111 DE LA LEY DE SALUD DEL ESTADO DE QUERETARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado."La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
