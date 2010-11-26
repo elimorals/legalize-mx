@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fraccionamientos-para-el-estado-de-guanajuato-y-sus-3345
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-15"
-last_updated: "2007-10-09"
+last_updated: "2010-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FRACCIONAMIENTOS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de agosto del 2003.
 
@@ -157,6 +157,10 @@ Los Ayuntamientos tendrán las siguientes atribuciones:
 
 I.- Otorgar el permiso de venta de los lotes de un fraccionamiento y de los departamentos, viviendas, locales o áreas de un desarrollo en condominio, en los términos de esta Ley;
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+Esta atribución se podrá delegar al titular de la Dirección, por acuerdo de la mayoría calificada de los integrantes del Ayuntamiento;
+
 II.- Recibir las áreas de donación y las vialidades de los fraccionamientos y desarrollos en condominio, cuando cumplan con los requisitos de esta Ley;
 
 III.- Suspender el permiso de venta de los lotes de un fraccionamiento y de los departamentos, viviendas, locales o áreas de un desarrollo en condominio en los casos establecidos en esta Ley;
@@ -213,7 +217,15 @@ XIII.- Notificar y ejecutar las resoluciones que le correspondan con motivo de l
 
 XIV.- Rendir trimestralmente un informe de actividades al Ayuntamiento o, cuando éste se lo requiera; y
 
-XV.- Las demás que esta Ley y otras disposiciones legales le señalen.
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XV.- Otorgar el permiso de venta de los lotes de un fraccionamiento y de los departamentos, viviendas, locales o áreas de un desarrollo en condominio, en los términos de esta Ley, siempre y cuando dicha atribución le haya sido delegada;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XVI.- Integrar, normar y administrar un padrón de empresas afianzadoras; y
+
+XVII.- Las demás que esta Ley y otras disposiciones legales le señalen.
 
 ###### Artículo 10.
 
@@ -593,11 +605,11 @@ Si posterior a la ampliación otorgada existieran causas justificadas, la Direcc
 
 ### CAPÍTULO PRIMERO. DEL PERMISO DE VENTA EN FRACCIONAMIENTOS O DESARROLLOS EN CONDOMINIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 49.
 
-Iniciadas las obras de urbanización en el caso de un fraccionamiento o desarrollo en condominio, el desarrollador podrá solicitar ante el Ayuntamiento el permiso de venta, anexando los siguientes documentos:
+Iniciadas las obras de urbanización en el caso de un fraccionamiento o desarrollo en condominio, el desarrollador podrá solicitar el permiso de venta, anexando los siguientes documentos:
 
 I.- Certificado de gravámenes. En caso de existir algún gravamen, acreditar que el mismo se deriva de la aplicación de recursos para la construcción del fraccionamiento o desarrollo en condominio y, que se cuenta con anuencia para continuar con el trámite de permiso de venta, otorgado por el titular del gravamen;
 
@@ -608,6 +620,10 @@ II.- Copia certificada de la escritura del área de donación y de las vialidade
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
 
 III.- Garantía para la ejecución de las obras de urbanización total o faltantes, por el importe a valor futuro que señale la Dirección de acuerdo con el programa de ejecución de obra, a excepción de los considerados bajo el procedimiento de urbanización progresiva; y
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+En el supuesto en que se otorgue prórroga para la conclusión de obras de urbanización, deberá renovarse la garantía, con el propósito de que la misma esté vigente hasta el cumplimiento total de sus obligaciones; y
 
 IV.- En el caso de que las obras se encuentren concluidas deberá exhibir la certificación correspondiente.
 
@@ -663,11 +679,11 @@ Los desperfectos que se presenten en las obras de urbanización previas a la rec
 
 El desarrollador una vez realizadas las reparaciones a que se refiere el artículo anterior, podrá solicitar la formalización de la entrega-recepción de los sistemas de infraestructura del fraccionamiento o desarrollo en condominio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 57.
 
-La Dirección y los organismos operadores recibirán las obras de urbanización, los bienes inmuebles, equipo e instala-ciones (sic) destinados a los servi-cios (sic) públicos de los fraccionamientos, para la conservación y operación de las redes de servicio de agua potable, drenaje y alcantarillado, alumbrado público, vialidades y banquetas.
+La Dirección y los organismos operadores recibirán en forma independiente cada una de las obras de urbanización, los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos de los fraccionamientos, para la conservación y operación de las redes de servicio de agua potable, drenaje y alcantarillado, alumbrado público, vialidades y banquetas, sin necesidad de que los desarrolladores entreguen dichas obras o servicios en un sólo acto.
 
 Las instalaciones internas de los desarrollos en condominio, estarán a cargo de la administración de los mismos, de acuerdo con su reglamento interno.
 
@@ -675,17 +691,23 @@ Las instalaciones internas de los desarrollos en condominio, estarán a cargo de
 
 En los desarrollos en condominio, los gastos que se originen por la prestación de los servicios en las tareas o bienes comunes se cubrirán de conformidad con lo dispuesto por la Ley; pero en todo caso el organismo operador, prestador del servicio, expedirá a cada condominio su recibo o factura y le cobrará individualmente por el servicio que reciba en su unidad de propiedad exclusiva.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 58.
 
-La Dirección y los organismos operadores levantarán acta circunstanciada de la entrega-recepción de las obras de urbanización o equipamiento urbano, respectivamente.
+La Dirección y los organismos operadores levantarán acta circunstanciada de la entrega-recepción de cada una de las obras de urbanización o equipamiento urbano en el momento que el desarrollador las entregue a la autoridad competente.
 
 ###### Artículo 59.
 
 El desarrollador deberá presentar las actas de recepción de los organismos operadores para la entrega-recepción al Municipio de las obras de urbanización o equipamiento urbano.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 60.
 
-El trámite de un fraccionamiento concluirá con la aprobación de las actas de entrega-recepción al Municipio, de las obras de urbanización o equipamiento urbano.
+El trámite de un fraccionamiento concluirá con la aprobación de la totalidad de las actas de entrega-recepción de las obras de urbanización o equipamiento urbano, concentrándose en un sólo documento cada una las mismas, debiendo ser aprobado por la Dirección, sin que dicho trámite pueda exceder del plazo a que alude el artículo 48 de esta Ley.
+
+La Dirección entregará un reporte semestral al Ayuntamiento sobre el estado que guardan las obras de urbanización o equipamiento urbano.
 
 ###### Artículo 61.
 
@@ -717,7 +739,13 @@ Las superficies a que se refieren los párrafos anteriores deberán entregarse e
 
 IV.- Enterar el importe de los derechos derivados de los trámites y autorizaciones que regula esta Ley;
 
-V.- Otorgar ante el Ayuntamiento y a satisfacción de éste, una garantía para la realización y conservación de las obras de urbanización, en los términos y por los montos que fije el Reglamento Municipal;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+V.- Otorgar ante el Ayuntamiento y a satisfacción de éste, una garantía que podrá ser la de fianza, prenda ó hipoteca, con el propósito de asegurar las obligaciones consistentes en la realización y conservación de las obras de urbanización, debiendo establecer la forma de garantía que se va a utilizar en cada uno de los desarrollos, la autoridad o autoridades responsables obligadas a ejecutarla, así como las fechas de vigencia y los montos a garantizar.
+
+En el supuesto de que se haga efectiva la garantía por parte del Ayuntamiento por incumplimiento del desarrollador, el destino de la misma será la ejecución de las obras de urbanización pendientes de realizar, mismas que deberán iniciarse de inmediato.
+
+Las fianzas que se presenten por parte de los desarrolladores deberán ser acompañadas con el documento que acredite la inscripción en el padrón municipal de la afianzadora, a que se refiere la fracción XVI del artículo 9 de esta Ley;
 
 VI.- Responder por los vicios ocultos en las obras de urbanización;
 
@@ -996,3 +1024,9 @@ Artículo Cuarto.- Se derogan las disposiciones que se opongan al presente decre
 P.O. 9 DE OCTUBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor el cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los ayuntamientos reglamentarán las bases y mecanismos para el registro de empresas dedicadas a otorgar la garantía de fianza a los desarrolladores, en un término no mayor a los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
