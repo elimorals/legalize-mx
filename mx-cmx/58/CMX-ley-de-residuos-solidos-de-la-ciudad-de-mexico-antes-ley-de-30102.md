@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2009-08-18"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -74,69 +74,157 @@ IV. Aprovechamiento del valor o valorización: El conjunto de acciones cuyo obje
 
 V. Biogás: El conjunto de gases generados por la descomposición microbiológica de la materia orgánica;
 
-VI. Composta: El producto resultante del proceso de composteo;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-VII. Composteo: El proceso de descomposición aeróbia de la materia orgánica mediante la acción de microorganismos específicos;
+VI. Biopolímero: Es un polímero de origen natural que puede ser sintetizado por microorganismos u obtenido de fuentes animales o plantas. Son básicamente generados de recursos renovables y por regla general son fácilmente biodegradables, pero pueden no serlo;
 
-VIII. Contenedor: El recipiente destinado al depósito temporal de los residuos sólidos;
+> <small>(REFORMADA [N. DE E. ESTA DUPLICADA CON LA FRACCION V], G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-IX. Criterios: Los lineamientos obligatorios contenidos en la presente Ley para orientar las acciones de gestión integral de los residuos sólidos, que tendrán el carácter de instrumentos de política ambiental;
+VII. Biogás: El conjunto de gases generados por la descomposición microbiológica de la materia orgánica;
 
-X. Delegaciones: los órganos político administrativos de cada demarcación territorial en las que se divide el Distrito Federal;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XI. Disposición final: La acción de depositar o confinar permanentemente residuos sólidos en sitios o instalaciones cuyas características prevean afectaciones a la salud de la población y a los ecosistemas y sus elementos;
+VIII. Composta: El producto resultante del proceso de composteo;
 
-XII. Estaciones de transferencia: las instalaciones para el trasbordo de los residuos sólidos de los vehículos de recolección a los vehículos de transferencia;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XIII. Generación: La acción de producir residuos sólidos a través de procesos productivos o de consumo;
+IX. Composteo: El proceso de descomposición aeróbica de la materia orgánica mediante la acción de microorganismos específicos;
 
-XIV. Generadores de alto volumen: Las personas físicas o morales que generen un promedio igual o superior a 50 kilogramos diarios en peso bruto total de los residuos sólidos o su equivalente en unidades de volumen;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XV. Gestión integral: El conjunto articulado e interrelacionado de acciones y normas operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de los residuos sólidos, desde su generación hasta la disposición final;
+X. Consumo Sustentable: El uso de bienes y servicios que responde a necesidades básicas y proporciona una mejor calidad de vida, al tiempo que minimizan el uso de recursos naturales, materiales tóxicos y emisiones de desperdicios y contaminantes durante todo el ciclo de vida, de tal manera que se origina una forma responsable de disminuir riesgos en las necesidades de de (sic) futuras generaciones;
 
-XVI. Impactos ambientales significativos: Aquellos realizados por las actividades humanas que sobrepasen los límites permisibles en las normas oficiales mexicanas, las normas ambientales para el Distrito Federal, la ley ambiental, la ley General, los reglamentos y demás disposiciones jurídicas aplicables, o bien aquellos producidos por efectos naturales que implique daños al ambiente;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XVII. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XI. Contenedor: El recipiente destinado al depósito temporal de los residuos sólidos;
 
-XVIII. Ley Ambiental: La Ley Ambiental del Distrito Federal;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XIX. Lixiviados: Los líquidos que se forman por la reacción, arrastre o filtrado de los materiales que constituyen los residuos sólidos y que contienen sustancias en forma disuelta o en suspensión que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositen residuos sólidos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua;
+XII. Criterios: Los lineamientos obligatorios contenidos en la presente Ley para orientar las acciones de gestión integral de los residuos sólidos, que tendrán el carácter de instrumentos de política ambiental;
 
-XX. Manejo: El conjunto de acciones que involucren la identificación caracterización, clasificación, etiquetado, marcado, envasado; empacado, selección, acopio, almacenamiento, transporte, transferencia, tratamiento y, en su caso, disposición final de los residuos sólidos;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXI. Minimización: El conjunto de medidas tendientes a evitar la generación de los residuos sólidos y aprovechar, tanto sea posible, el valor de aquellos cuya generación no sea posible evitar;
+XIII. Delegaciones: Los órganos político administrativos de cada demarcación territorial en las que se divide el Distrito Federal;
 
-XXII. Plan de manejo: El instrumento de gestión integral de los residuos sólidos, que contiene el conjunto de acciones, procedimientos y medios dispuestos para facilitar el acopio y la devolución de productos de consumo que al desecharse se conviertan en residuos sólidos, cuyo objetivo es lograr la minimización de la generación de los residuos sólidos y la máxima valorización posible de materiales y subproductos contenidos en los mismos, bajo criterios de eficiencia ambiental, económica y social, así como para realizar un manejo adecuado de los residuos sólidos que se generen;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXIII. Planta de selección y tratamiento: La instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos para su valorización o, en su caso, disposición final;
+XIV. Disposición final: La acción de depositar o confinar permanentemente residuos sólidos en sitios o instalaciones cuyas características prevean afectaciones a la salud de la población y a los ecosistemas y sus elementos;
 
-XXIV. Pepena: La acción de recoger entre los residuos sólidos aquellos que tengan valor en cualquier etapa del sistema de manejo;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXV. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+XV. Estaciones de transferencia: Las instalaciones para el trasbordo de los residuos sólidos de los vehículos de recolección a los vehículos de transferencia;
 
-XXVI. Recolección: La acción de recibir los residuos sólidos de sus generadores y trasladarlos a las instalaciones para su transferencia, tratamiento o disposición final;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXVII. Recolección selectiva o separada: La acción de recolectar los residuos sólidos de manera separada en orgánicos, inorgánicos y de manejo especial;
+XVI. Generación: La acción de producir residuos sólidos a través de procesos productivos o de consumo;
 
-XXVIII. Reciclaje: La transformación de los materiales o subproductos contenidos en los residuos sólidos a través de distintos procesos que permiten restituir su valor económico;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXIX. Relleno sanitario: La obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos ubicados en sitios adecuados al ordenamiento ecológico, mediante el cual los residuos sólidos se depositan y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir y minimizar la generación de contaminantes al ambiente y reducir los riesgos a la salud;
+XVII. Generadores de alto volumen: Las personas físicas o morales que generen un promedio igual o superior a 50 kilogramos diarios en peso bruto total de los residuos sólidos o su equivalente en unidades de volumen;
 
-XXX. Residuos de manejo especial: Los que requieran sujetarse a planes de manejo específicos con el propósito de seleccionarlos, acopiarlos, transportarlos, aprovechar su valor o sujetarlos a tratamiento o disposición final de manera ambientalmente adecuada y controlada;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXXI. Residuos urbanos: Los generados en casa habitación, unidad habitacional o similares que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los provenientes de cualquier otra actividad que genere residuos sólidos con características domiciliarias y los resultantes de la limpieza de las vías públicas y áreas comunes, siempre que no estén considerados por esta Ley como residuos de manejo especial;
+XVIII. Gestión integral: El conjunto articulado e interrelacionado de acciones y normas operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación para el manejo de los residuos sólidos, desde su generación hasta la disposición final;
 
-XXXII. Residuos Orgánicos: Todo residuo sólido biodegradable;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXXIII. Residuos Inorgánicos: Todo residuo que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plásticos, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
+XIX. Impactos ambientales significativos: Aquellos realizados por las actividades humanas que sobrepasen los límites permisibles en las normas oficiales mexicanas, las normas ambientales para el Distrito Federal, la ley ambiental, la ley General, los reglamentos y demás disposiciones jurídicas aplicables, o bien aquellos producidos por efectos naturales que implique daños al ambiente;
 
-XXXIV Residuos sólidos: El material, producto o subproducto que sin ser considerado como peligroso, se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXXV. Reutilización: El empleo de un residuo sólido sin que medie un proceso de transformación;
+XX. Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXXVI. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal; y
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXXVII. Tratamiento: El procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad.
+XXI. Ley Ambiental: La Ley Ambiental del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXII. Lixiviados: Los líquidos que se forman por la reacción, arrastre o filtrado de los materiales que constituyen los residuos sólidos y que contienen sustancias en forma disuelta o en suspensión que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositen residuos sólidos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXIII. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXIV. Minimización: El conjunto de medidas tendientes a evitar la generación de los residuos sólidos y aprovechar, tanto sea posible, el valor de aquellos cuya generación no sea posible evitar;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXV. Plan de Manejo: El Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos y residuos de manejo especial, bajo criterios de eficiencia ambiental, tecnológica, económica y social, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXVI. Planta de selección y tratamiento: La instalación donde se lleva a cabo cualquier proceso de selección y tratamiento de los residuos sólidos para su valorización o, en su caso, disposición final;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXVII. Pepena: La acción de recoger entre los residuos sólidos aquellos que tengan valor en cualquier etapa del sistema de manejo;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXVIII. Procuraduría: La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXIX. Producción Sustentable: Aquella que incluye aspectos de reducción en el uso de energía, materias primas y materiales tóxicos, así como procesos más eficientes para la obtención de beneficios ambientales y económicos y una producción más limpia;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXX. Recolección: La acción de recibir los residuos sólidos de sus generadores y trasladarlos a las instalaciones para su transferencia, tratamiento o disposición final;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXXI. Recolección selectiva o separada: La acción de recolectar los residuos sólidos de manera separada en orgánicos, inorgánicos y de manejo especial;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXXII. Reciclaje: La transformación de los materiales o subproductos contenidos en los residuos sólidos a través de distintos procesos que permiten restituir su valor económico;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXXIII. Relleno sanitario: La obra de infraestructura que aplica métodos de ingeniería para la disposición final de los residuos sólidos ubicados en sitios adecuados al ordenamiento ecológico, mediante el cual los residuos sólidos se depositan y compactan al menor volumen práctico posible y se cubren con material natural o sintético para prevenir y minimizar la generación de contaminantes al ambiente y reducir los riesgos a la salud;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXXIV. Residuos urbanos: Los generados en casa habitación, unidad habitacional o similares que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los provenientes de cualquier otra actividad que genere residuos sólidos con características domiciliarias y los resultantes de la limpieza de las vías públicas y áreas comunes, siempre que no estén considerados por esta Ley como residuos de manejo especial;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXXV. Residuos Orgánicos: Todo residuo sólido biodegradable;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXXVI. Residuos Inorgánicos: Todo residuo que no tenga características de residuo orgánico y que pueda ser susceptible a un proceso de valorización para su reutilización y reciclaje, tales como vidrio, papel, cartón, plásticos, laminados de materiales reciclables, aluminio y metales no peligrosos y demás no considerados como de manejo especial;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXXVII. Residuos sólidos: El material, producto o subproducto que sin ser considerado como peligroso, se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXXVIII. Responsabilidad Compartida: El principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órganos de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XXXIX. Reciclaje: La transformación de los materiales o subproductos contenidos en los residuos sólidos a través de distintos procesos que permiten restituir su valor económico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XL. Reutilización: El empleo de un residuo sólido sin que medie un proceso de transformación; con la función que desempeñaba anteriormente o con otros fines;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XLI. Secretaría: La Secretaría del Medio Ambiente del Distrito Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XLII. Tratamiento: El procedimiento mecánico, físico, químico, biológico o térmico, mediante el cual se cambian las características de los residuos sólidos, con la posibilidad de reducir su volumen o peligrosidad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XLIII. Valorización: El principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el contenido energético de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de eficiencia ambiental, tecnológica y económica.
 
 ## TÍTULO SEGUNDO. DE LA COMPETENCIA
 
@@ -194,13 +282,35 @@ VII. Promover la investigación, desarrollo y aplicación de tecnologías, equip
 
 VIII. Emitir las normas ambientales para el Distrito Federal con relación a la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización y disposición final de residuos sólidos, así como para establecer las condiciones de seguridad, requisitos y limitaciones en el manejo de los residuos sólidos que presenten riesgo para el ser humano, el equilibrio ecológico y el ambiente;
 
-IX. Autorizar los planes de manejo a los que esta Ley y su reglamento hacen referencia;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-X. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su reglamento y demás aplicables;
+IX. Suscribir convenios o acuerdos con cámaras industriales, comerciales y de otras actividades productivas, con grupos sociales, organizaciones no gubernamentales, así como con dependencias públicas u organismos privados, para llevar a cabo acciones tendientes a cumplir con los objetivos de la presente ley y su reglamento;
 
-XI. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XII. La atención de los demás asuntos que en materia de los residuos sólidos le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la Federación.
+X. Implementar permanentemente, entre la población, programas de difusión y promoción de la cultura de la separación de los residuos, así como su reducción, reutilización y reciclaje, en los que participen los sectores industriales y comerciales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XI. Establecer, los criterios y normas para la producción y el consumo sustentable de productos plásticos incluyendo el poliestireno expandido, los cuales deberán atender a las características específicas requeridas para cada producto y sujetarse a lineamientos técnicos y científicos, basados en un proceso de análisis de las tecnologías vigentes; éstos deberán emitirse considerando la opinión de los productores y distribuidores.
+
+Los criterios y normas que emita la Secretaría deberán considerar los principios de reducción, reciclaje y reutilización en el manejo de las bolsas de plástico.
+
+Dichos criterios y normas garantizarán que el ciclo de vida de las bolsas de plástico no sea mayor a diez años, procurando la utilización de materiales provenientes de recursos renovables, como los biopolímeros para su pronta biodegradación en los destinos finales. Las bolsas de cualquier otro material no plástico, que garanticen su reutilización y reciclaje no estarán sujetas a este plazo. En el caso de las bolsas que cuenten con un aditivo que sea incompatible con el reciclaje, estas deberán garantizar tener un ciclo de vida menor a cinco años;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XII. Promover la investigación y el desarrollo de tecnologías que permitan prevenir, controlar y abatir la contaminación por el uso de bolsas de plástico así como del poliestireno expandido; además deberá fomentar la participación de todos los sectores de la sociedad mediante la difusión de información y promoción de actividades de cultura, educación y capacitación ambientales sobre el manejo integral de residuos sólidos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XIII. Llevar un registro actualizado de los planes de manejo a los que esta Ley y su reglamento hacen referencia;
+
+XIV. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su reglamento y demás aplicables;
+
+XV. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia; y
+
+XVI. La atención de los demás asuntos que en materia de los residuos sólidos le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la Federación.
 
 ###### Artículo 7°.
 
@@ -218,13 +328,17 @@ V. Autorizar y registrar a los establecimientos mercantiles y de servicios relac
 
 VI. Llevar a cabo los estudios que sustenten la necesidad de otorgar concesiones para la prestación del servicio público de limpia y, en los casos viables otorgar la concesión correspondiente con base en las disposiciones jurídicas aplicables;
 
-VII. Realizar los estudios y proyectos de obras de infraestructura para el manejo de los residuos sólidos de su competencia;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+VII. Realizar los estudios y proyectos de obras de infraestructura para el manejo integral de los residuos sólidos de su competencia;
 
 VIII. Diseñar, construir, organizar, operar y mantener las estaciones de transferencia, plantas de selección y tratamiento, y sitios para la disposición final de los residuos sólidos, con base en el Programa de Gestión Integral de los Residuos Sólidos;
 
 IX. Participar en la celebración de convenios para el traslado de los residuos sólidos desde o hacia otras entidades federativas, así como la inspección y vigilancia de dicho traslado;
 
-X. Restaurar y recuperar el suelo contaminado por las actividades del manejo de los residuos sólidos y prestación del servicio público de limpia de su competencia, en concordancia con las disposiciones complementarias o lineamientos técnicos, establecidos por la Secretaría;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+X. Restaurar y recuperar el suelo contaminado por las actividades del manejo integral de los residuos sólidos y prestación del servicio público de limpia de su competencia, en concordancia con las disposiciones complementarias o lineamientos técnicos, establecidos por la Secretaría;
 
 XI. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su Reglamento y demás aplicables;
 
@@ -234,9 +348,11 @@ XIII. Atender los asuntos en materia de los residuos sólidos que se generen ent
 
 XIV. Atender los demás asuntos que en materia de los residuos sólidos le concedan esta Ley y otros ordenamientos jurídicos aplicables y que no estén expresamente atribuidos a la Federación o a otras dependencias o entidades de la administración pública del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 8°.
 
-Corresponde a la Secretaria de Salud del Distrito Federal, en el ámbito de su competencia, emitir recomendaciones y, en coordinación con la Secretaría y la Secretaría de Obras y Servicios, determinar la aplicación de las medidas de seguridad, dirigidas a evitar riesgos y daños a la salud de la población, derivados del manejo, almacenamiento, tratamiento y disposición final de los residuos sólidos.
+Corresponde a la Secretaría de Salud del Distrito Federal, en el ámbito de su competencia, emitir recomendaciones y, en coordinación con la Secretaría y la Secretaría de Obras y Servicios, determinar la aplicación de las medidas de seguridad, dirigidas a evitar riesgos y daños a la salud de la población, derivados del manejo integral, almacenamiento, tratamiento y disposición final de los residuos sólidos.
 
 ###### Artículo 9°.
 
@@ -252,7 +368,9 @@ II. Prestar el servicio público de limpia en sus etapas de barrido de las área
 
 III. Erradicar la existencia de tiraderos clandestinos de los residuos sólidos;
 
-IV. Orientar a la población sobre las prácticas de separación en la fuente y aprovechamiento y valorización de los residuos sólidos;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+IV. Orientar a la población sobre las prácticas de reducción, reutilización y reciclaje, separación en la fuente y aprovechamiento y valorización de los residuos sólidos;
 
 V. Promover programas de capacitación a los servidores públicos, así como de fomento y orientación a la población sobre la gestión integral de los residuos sólidos;
 
@@ -264,7 +382,9 @@ VIII. Establecer las rutas, horarios y frecuencias en que debe prestarse el serv
 
 IX. Atender oportunamente las quejas del público sobre la prestación del servicio público de limpia de su competencia y dictar las medidas necesarias para su mejor y pronta solución;
 
-X. Solicitar autorización de la Secretaría de Obras y Servicios para el otorgamiento de las declaraciones de apertura, licencias y autorizaciones de funcionamiento de los establecimientos mercantiles y de servicios relacionados con el manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+X. Solicitar autorización de la Secretaría de Obras y Servicios para el otorgamiento de las declaraciones de apertura, licencias y autorizaciones de funcionamiento de los establecimientos mercantiles y de servicios relacionados con el manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos, definidos en el reglamento de la presente Ley;
 
 XI. Solicitar a la Secretaria de Obras y Servicios la realización de estudios con relación a las propuestas que éstas le envíen para otorgar concesiones para la prestación del servicio público de limpia de competencia de la delegación y, en su caso, aprobar dichas concesiones;
 
@@ -286,7 +406,9 @@ XVI. Atender los demás asuntos que en materia de los residuos sólidos le conce
 
 La Secretaría, en coordinación con la Secretaría de Obras y Servicios y con opinión de las delegaciones, formulará y evaluará el Programa de Gestión Integral de los Residuos Sólidos, mismo que integrará los lineamientos, acciones y metas en materia de manejo integral de los residuos sólidos y la prestación del servicio público de limpia con base en los siguientes criterios:
 
-I. Adoptar medidas para la reducción de la generación de los residuos sólidos, su separación en la fuente de origen, su recolección y transporte separados, así como su adecuado aprovechamiento, tratamiento y disposición final;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+I. Adoptar medidas para la reducción de la generación de los residuos sólidos, su reutilización y reciclaje, su separación en la fuente de origen, su recolección y transporte separados, así como su adecuado aprovechamiento, tratamiento y disposición final;
 
 II. Promover la reducción de la cantidad de los residuos sólidos que llegan a disposición final;
 
@@ -296,35 +418,51 @@ IV. Prevenir la liberación de los residuos sólidos que puedan causar daños al
 
 V. Prever la infraestructura necesaria para asegurar que los residuos sólidos se manejen de manera ambientalmente adecuada;
 
-VI. Promover la cultura, educación y capacitación ambientales, así como la participación del sector social, privado y laboral, para el manejo integral de los residuos sólidos;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-VII. Fomentar la responsabilidad compartida entre productores, distribuidores y consumidores en la educción (sic) de la generación de los residuos sólidos y asumir el costo de su adecuado manejo;
+VI. Promover la cultura, educación y capacitación ambientales, así como la participación del sector social, privado y laboral, para el manejo integral, la reutilización y el reciclaje de los residuos sólidos;
 
-VIII. Fomentar la participación activa de las personas, la sociedad civil organizada y el sector privado e (sic) el manejo de los residuos sólidos;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+VII. Fomentar la responsabilidad compartida entre productores, distribuidores y consumidores en la reducción de la generación de los residuos sólidos y asumir el costo de su manejo integral;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Fomentar la participación activa de las personas, la sociedad civil organizada y el sector privado en el manejo integral de los residuos sólidos;
 
 IX. Armonizar las políticas de ordenamiento territorial y ecológico con el manejo integral de los residuos sólidos, identificando áreas apropiadas para la ubicación de infraestructura;
 
-X. Fomentar la generación, sistematización y difusión de información del manejo de los residuos sólidos para la toma de decisiones;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XI. Definir las estrategias sectoriales e intersectoriales para la minimización y prevención de la generación y el manejo de los residuos sólidos, conjugando las variables económicas, sociales, culturales, tecnológicas, sanitarias y ambientales en el marco de la sustentabilidad;
+X. Fomentar la generación, sistematización y difusión de información del manejo integral de los residuos sólidos para la toma de decisiones;
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XI. Definir las estrategias sectoriales e intersectoriales para la minimización y prevención de la generación y el manejo integral de los residuos sólidos, conjugando las variables económicas, sociales, culturales, tecnológicas, sanitarias y ambientales en el marco de la sustentabilidad;
 
 XII. Promover medidas para evitar el depósito, descarga, acopio y selección de los residuos sólidos en áreas o en condiciones no autorizadas;
 
-XIII. Promover sistemas de reutilización, deposito retorno u otros similares que reduzcan la generación de residuos, en el caso de productos o envases que después de ser utilizados generen residuos en alto volumen o que originen impactos ambientales significativos;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XIII. Promover sistemas de reutilización y reciclaje, depósito retorno u otros similares que reduzcan la generación de residuos, en el caso de productos o envases que después de ser utilizados generen residuos en alto volumen o que originen impactos ambientales significativos.
 
 XIV Establecer las medidas adecuadas para reincorporar al ciclo productivo materiales o sustancias reutilizables o reciclables y para el desarrollo de mercados de subproductos para la valorización de los residuos sólidos;
 
-XV. Fomentar el desarrollo, uso de tecnologías, métodos, prácticas y procesos de producción y comercialización que favorezcan la minimización y valorización de los residuos sólidos;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XVI. Establecer acciones orientadas a recuperar los sitios contaminados por el manejo de los residuos sólidos;
+XV. Fomentar el desarrollo y uso de tecnologías sustentables o amigables con el medio ambiente, así como métodos, prácticas, procesos de producción, comercialización, reutilización y reciclaje que favorezcan la minimización y valorización de los residuos sólidos.
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XVI. Establecer acciones orientadas a recuperar los sitios contaminados por el inadecuado manejo de los residuos sólidos;
 
 XVII. Establecer las condiciones que deberán cumplirse para el cierre de estaciones de transferencia, plantas de selección y tratamiento y rellenos sanitarios, de manera que no existan suelos contaminados por el manejo de los residuos sólidos y medidas para monitorear dichos sitios, ulterior al cierre, con plazos no menores a diez años posteriores a su cierre;
 
 XVIII. Evitar el manejo y disposición de residuos de manejo especial líquidos o semisólidos, sin que hayan sido sometidos a procesos para deshidratarlos, neutralizarlos y estabilizarlos;
 
-> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XVIII BIS. Evitar que en la transportación, contención y envase de materiales, así como en el manejo de residuos sólidos se utilicen materiales no biodegradables;
+XVIII BIS.- Fomentar que la producción y el consumo de productos plásticos y poliestireno expandido se sujeten a los criterios y normas de sustentabilidad establecidos en la fracción XI del artículo 6º de la presente ley;
 
 XIX. Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que puedan solubilizar las sustancias potencialmente tóxicas contenidas en ellos; y
 
@@ -334,13 +472,9 @@ La Secretaría, la Secretaría de Obras y Servicios y las delegaciones ejecutar�
 
 Los programas de carácter metropolitano que acuerde el Gobierno del Distrito Federal considerarán las disposiciones que esta Ley establece para la gestión integral de los residuos sólidos.
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2009)</small>
-
 ###### Artículo 11 Bis.
 
-Además de las facultades establecidas en el artículo 6°, la Secretaría tendrá la facultad de elaborar, difundir y aplicar un programa de sustitución de plásticos, con el fin de reducir el consumo de bolsas, envases, embalajes o empaques de plástico no biodegradable que se utilicen en establecimientos mercantiles y que se entregan para contención, transporte y envase de mercancías.
-
-De la misma manera deberá informar y fomentar la educación de los habitantes del Distrito Federal sobre el impacto negativo que producen los plásticos no biodegradables en el ambiente.
+(REFORMADO [N. DE E. DEROGADO], G.O. 26 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 12.
 
@@ -352,9 +486,11 @@ En la elaboración de los programas a los que se refiere el presente Capítulo, 
 
 La Secretaria de Obras y Servicios, al elaborar el programa de prestación del servicio público de limpia de su competencia, deberá considerar las disposiciones contendidas en esta Ley, su reglamento, las normas oficiales mexicanas, las normas ambientales para el Distrito Federal, el Programa de Gestión Integral de los Residuos Sólidos, los criterios y normas técnicas para la prestación del servicio público de limpia, y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 14.
 
-La Secretaría de Obras y Servicios, en coordinación con la Secretaría y las Secretarías de Desarrollo Económico y de Finanzas, promoverá instrumentos económicos para aquellas personas que desarrollen acciones de prevención, minimización y valorización, así como para inversión en tecnología y utilización de prácticas, métodos o procesos que coadyuven a mejorar el manejo integral de los residuos sólidos.
+La Secretaría de Obras y Servicios, en coordinación con la Secretaría y las Secretarías de Desarrollo Económico y de Finanzas, promoverá incentivos económicos para aquellas personas que desarrollen acciones de prevención, minimización, valorización, reutilización y reciclaje, así como para la inversión en tecnología y utilización de prácticas, métodos o procesos que coadyuven a mejorar el manejo integral de los residuos sólidos.
 
 ###### Artículo 15.
 
@@ -374,7 +510,9 @@ La Secretaría, la Secretaría de Obras y Servicios y las delegaciones, en el á
 
 I. Su participación en el fomento y apoyo en la conformación, consolidación y operación de grupos intersectoriales para el diseño e instrumentación de los programas en materia de los residuos sólidos;
 
-II. La difusión de información y promoción de actividades de cultura, educación y capacitación ambientales relacionados con el manejo de los residuos sólidos;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+II. La difusión de información y promoción de actividades de cultura, educación y capacitación ambientales relacionados con el manejo integral de los residuos sólidos;
 
 III. La promoción de proyectos pilotos y de demostración destinados a generar elementos de información para sustentar programas en materia de los residuos sólidos; y
 
@@ -408,7 +546,9 @@ I. Instrumentar planes de manejo de los residuos sólidos en sus procesos de pro
 
 II. Adoptar sistemas eficientes de recuperación o retorno de los residuos sólidos derivados de la comercialización de sus productos finales; y
 
-III. Privilegiar el uso de envases y embalajes que una vez utilizados sean susceptibles de valorización mediante procesos de reuso y reciclaje.
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+III. Privilegiar el uso de envases y embalajes que una vez utilizados sean susceptibles de valorización mediante procesos de reutilización y reciclaje.
 
 El Reglamento determinará los bienes a los que se refiere este artículo.
 
@@ -456,9 +596,9 @@ X. Tratar térmicamente los residuos sólidos recolectados, sin considerar las d
 
 XI. Diluir o mezclar residuos sólidos o industriales peligrosos en cualquier líquido y su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
 
-> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XI BIS. Otorgar a título gratuito bolsas de plástico en los establecimientos mercantiles;
+XI BIS. Que se entreguen para transportación, carga o traslado del consumidor final a título gratuito, de manera onerosa, o con motivo de cualquier acto comercial, bolsas de plástico que no estén sujetas a los criterios y normas para la producción y el consumo sustentable, señalados en la fracción XI del artículo 6º de la presente ley;
 
 XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligrosos; y
 
@@ -474,21 +614,17 @@ El frente de las construcciones o inmuebles en demolición deberán mantenerse e
 
 Los responsables deberán transportar los escombros en vehículos adecuados que eviten su dispersión durante el transporte a los sitios que determine la Secretaría de Obras y Servicios.
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2009)</small>
+((REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 26 Bis.
 
-Los establecimientos mercantiles no podrán otorgar a título gratuito para la transportación, contención y envase de los productos y/o servicios que presten ó comercialicen bolsas de plástico.
+Las bolsas de plástico que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado del consumidor final, deberán cumplir con los criterios y normas de producción y consumo sustentable señalados en la fracción XI del artículo 6º de la presente ley.
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2009)</small>
+Productores, distribuidores, y usuarios de las bolsas a las que se refiere este artículo, deberán propiciar las acciones relativas a la maximización en la valorización o reciclaje mediante la participación en los programas que para tal efecto establezca la Secretaría.
 
 ###### Artículo 26 Bis 1.
 
-Los establecimientos mercantiles, productores, prestadores de servicios y comerciantes podrán utilizar materiales de plástico únicamente en los casos que por cuestiones de asepsia o conservación de alimentos o insumos no resulte factible el uso de tecnologías biodegradables como sustitutos.
-
-La utilización de bolsas de plástico sólo será permitida en caso de que sean creadas bajo procedimientos tecnológicos que les den la cualidad de biodegradables.
-
-El reglamento y las normas que en su caso emita la Secretaría, determinarán los estándares tecnológicos que las bolsas de plástico deberán cumplir para contar con la característica de biodegradables.
+(REFORMADO [N. DE E. DEROGADO], G.O. 26 DE NOVIEMBRE DE 2010)
 
 ### CAPÍTULO III. DE LA CLASIFICACIÓN DE LOS RESIDUOS SÓLIDOS
 
@@ -580,6 +716,20 @@ Estos residuos sólidos, deben depositarse en contenedores separados para su rec
 
 El Reglamento definirá la subclasificación que deberá aplicar para la separación obligatoria de residuos sólidos, con base a las disposiciones del presente artículo para cada una de las clasificaciones establecidas, así como para los distintos tipos de generadores.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 33 Bis.
+
+La Secretaría y las delegaciones deberán aplicar el método de separación de residuos en orgánicos e inorgánicos para el servicio de recolección, la cual será diferenciada conforme a los criterios señalados por las autoridades.
+
+La Administración Pública del Distrito Federal establecerá campañas de difusión sobre los métodos de separación y recolección de residuos aplicables en cada una de las delegaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 33 Bis 1.
+
+La Secretaría y la Secretaría de Obras, en conjunto con las delegaciones, fomentaran que las instituciones educativas, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos y dependencias gubernamentales y similares, lleven a cabo la separación de residuos, mediante el sistema de recolección diferenciada.
+
 ###### Artículo 34.
 
 La Secretaría de Obras y Servicios y las delegaciones, en el marco de sus respectivas competencias, instrumentarán los sistemas de depósito y recolección separada de los residuos sólidos, así como de aprovechamiento, tratamiento y disposición final, de conformidad con lo señalado en el Reglamento y el Programa de Gestión Integral de los Residuos Sólidos.
@@ -652,7 +802,9 @@ El ingreso de personas o vehículos a las estaciones de transferencia y plantas 
 
 Para la operación y mantenimiento de las estaciones de transferencia y plantas de selección y tratamiento, así como centros de composteo, se deberá contar con:
 
-I. Personal previamente capacitado para reconocer la peligrosidad y riesgo de los residuos que manejan y darles un manejo seguro y ambientalmente adecuado;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+I. Personal previamente capacitado para reconocer la peligrosidad y riesgo de los residuos que manejan y darles un manejo integral, seguro y ambientalmente adecuado;
 
 II. Programa de preparación y respuesta a emergencias y contingencias que involucren a los residuos sólidos urbanos;
 
@@ -666,7 +818,9 @@ V. Los demás requisitos que determine el Reglamento y normas aplicables.
 
 Las plantas de selección y tratamiento de los residuos sólidos deberán contar con la infraestructura necesaria para la realización del trabajo especializado para el depósito de dichos residuos de acuerdo a sus características y conforme (sic) separación clasificada de los residuos sólidos que esta Ley establece.
 
-Asimismo, deberán contar con básculas y sistemas para llevar el control de los residuos depositados, así como con un sistema adecuado de control de ruidos, olores y emisión de partículas que garantice un adecuado manejo de los residuos sólidos y minimicen los impactos al ambiente y a la salud humana.
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+Asimismo, deberán contar con básculas y sistemas para llevar el control de los residuos depositados, así como con un sistema adecuado de control de ruidos, olores y emisión de partículas que garantice el adecuado manejo integral de los residuos sólidos y minimicen los impactos al ambiente y a la salud humana.
 
 ###### Artículo 47.
 
@@ -683,6 +837,8 @@ La Secretaría emitirá norma ambiental para el Distrito Federal en los término
 Cualquier persona puede denunciar ante la autoridad correspondiente cuando se trate de violaciones a las disposiciones del presente artículo en los términos del Capítulo IV del Título Séptimo de esta Ley.
 
 ### CAPÍTULO I. DEL RECICLAJE
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 49.
 
@@ -716,7 +872,7 @@ Los rellenos sanitarios que hayan cumplido su vida útil se destinarán únicame
 
 ###### Artículo 55.
 
-Los productores y comercializadores cuyos productos y servicios generen residuos sólidos susceptibles de valorización mediante procesos de reuso o reciclaje realizarán planes de manejo que establezcan las acciones para minimizar la generación de sus residuos sólidos, su manejo responsable y para orientar a los consumidores sobre las oportunidades y beneficios de dicha valorización para su aprovechamiento.
+Los productores y comercializadores cuyos productos y servicios generen residuos sólidos susceptibles de valorización mediante procesos de reutilización o reciclaje realizarán planes de manejo que establezcan las acciones para minimizar la generación de sus residuos sólidos, su manejo responsable y para orientar a los consumidores sobre las oportunidades y beneficios de dicha valorización para su aprovechamiento.
 
 ###### Artículo 56.
 
@@ -842,9 +998,15 @@ I. Amonestación cuando por primera vez se incumplan con las disposiciones conte
 
 II. Multa de 10 a 150 días de salario mínimo vigente en el Distrito Federal contra quien por segunda ocasión realice alguna de las conductas descritas en la fracción anterior o por violaciones a lo dispuesto por los artículos 25 fracciones I, II y VI; 26 segundo y tercer párrafos; 40 segundo y tercer párrafo segundo y tercer párrafos; y 42 de la presente Ley;
 
-III. Multa de 150 a mil días de salario mínimo vigente en el Distrito Federal las violaciones a lo dispuesto por los artículos 25 fracciones III, IV, VII y VIII; 38 tercer párrafo; 55 y 59 de la presente Ley y la Ley Federal de Responsabilidades de los Servidores Públicos; y
+III. Multa de 150 a mil días de salario mínimo vigente en el Distrito Federal las violaciones a lo dispuesto por los artículos 25 fracciones III, IV, VII y VIII; 38 tercer párrafo; 55 y 59 de la presente Ley y la Ley Federal de Responsabilidades de los Servidores Públicos; y (sic)
 
-IV. Arresto inconmutable de 36 horas y multa por mil a veinte mil días de salario mínimo vigente en el Distrito Federal por violaciones a lo dispuesto por el Artículo 25 fracciones IX a la XIII de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+III Bis. Multa de 500 a dos mil días de salario mínimo vigente en el Distrito Federal por la violación a lo dispuesto en el artículo 25 fracción XI BIS; y
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+IV. Multa por mil a veinte mil días de salario mínimo vigente en el Distrito Federal por violaciones a lo dispuesto por el artículo 25 fracciones IX, X, XI, XII y XIII de la presente ley.
 
 ###### Artículo 70.
 
@@ -967,3 +1129,15 @@ SEXTO. El Gobierno del Distrito Federal y las Delegaciones efectuarán una campa
 SÉPTIMO. El Jefe de Gobierno del Distrito Federal deberá actualizar las disposiciones reglamentarias a más tardar noventa días después de la entrada en vigor del presente decreto.
 
 OCTAVO. El Instituto de Ciencia y Tecnología del Distrito Federal instrumentará un programa de asesoramiento al sector productivo para el desarrollo de materiales sustitutos del plástico a más tardar en 120 días de la entrada en vigor del presente decreto.
+
+G.O. 26 DE NOVIEMBRE DE 2010.
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Las disposiciones reglamentarias de la presente ley deberán ser publicadas después de los noventa días naturales a la entrada en vigor de este Decreto.
+
+TERCERO. La Secretaria contará con un plazo de seis meses contados a partir de la entrada en vigor del presente decreto para emitir los criterios y las normas a los que se refiere la fracción XI del artículo 6º del presente Decreto; dichos criterios y normas entraran en vigor doce meses después de su publicación.
+
+CUARTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente Decreto.
+
+QUINTO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
