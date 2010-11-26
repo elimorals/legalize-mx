@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2008-12-17"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -519,9 +519,15 @@ XIV. Coordinar, organizar y promover la enseñanza y la práctica de los deporte
 
 XV. Promover, coordinar, vigilar y fomentar los programas de educación y cultura, para mejoramiento del medio ambiente del Estado y la recreación individual y familiar;
 
-XVI. Colaborar en la formulación y ejecución de los programas de difusión de los cambios que se operen en las normas laborales, programas de capacitación para el trabajo, campañas para prevenir y erradicar la drogadicción y el alcoholismo, y todas aquellas que redunden en el bienestar social; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XVII. Las demás facultades y obligaciones que le señalen las leyes y reglamentos aplicables en el Estado.
+XVI. Colaborar en la formulación y ejecución de los programas de difusión de los cambios que se aprueben en las normas laborales, programas de capacitación para el trabajo, campañas para prevenir y erradicar la drogadicción, el alcoholismo, los problemas de malnutrición y todas aquellas que redunden en el bienestar social;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XVII. Implementar medidas y estrategias que propicien la incorporación de hábitos alimenticios sanos en los educandos, estilos de vida saludables como la actividad física y la práctica de ejercicio como medios para un sano desarrollo; y
+
+XVIII. Las demás que les señalen las leyes y reglamentos vigentes en el Estado.
 
 ### Capítulo Noveno. De la Secretaría de Salud
 
@@ -555,7 +561,9 @@ XII. Planear, presupuestar y establecer los lineamientos para la elaboración de
 
 XIII. Fomentar el desarrollo de la investigación y la enseñanza científica y tecnológica en materia de salud;
 
-XIV. Colaborar en la formulación y ejecución de los programas de difusión de las campañas para prevenir y erradicar la drogadicción y el alcoholismo, así como todas aquellas que redunden en la asistencia social;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XIV. Colaborar en la formulación y ejecución de los programas de difusión de las campañas para prevenir y erradicar la drogadicción, el alcoholismo, los problemas de malnutrición y todas aquellas que redunden en la asistencia social;
 
 XV. Implementar mecanismos de participación social, a nivel estatal y municipal, que contribuyan al mejoramiento de los servicios de salud en la Entidad;
 
@@ -565,7 +573,11 @@ XVII. Representar al Estado ante todo tipo de organismos de salud, con acuerdo d
 
 XVIII. Impulsar la permanente actualización de las disposiciones legales aplicables en materia de salud; y
 
-XIX. Las demás atribuciones afines que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XIX. Implementar medidas y estrategias que propicien la adopción de hábitos alimenticios sanos y estilos de vida saludables por la población; y
+
+XX. Las demás atribuciones afines a las anteriores que se requiera para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones legales aplicables.
 
 ### Capítulo Décimo. De la Secretaría del Trabajo
 
@@ -890,3 +902,15 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Para efecto de lo dispuesto en el artículo 100 fracción VIII de la Ley de Salud del Estado de Querétaro, la Secretaría de Salud contará con el plazo de noventa días naturales, a partir de la entrada en vigor de la presente Ley, para emitir la normatividad que corresponda.
+
+Hasta en tanto es emitida dicha normatividad, deberán atenderse los criterios técnicos correspondientes a la Etapa I de Implementación del "Acuerdo mediante el cual se establecen los Lineamientos Generales para el expendio o distribución de alimentos y bebidas en los establecimientos de consumo escolar de los planteles de educación básica", contenidos en el Cuadro 3 denominado "Criterios nutrimentales de aplicación obligatoria en alimentos y gradualidad de implementación durante tres ciclos escolares a partir del Ciclo Escolar 2010-2011" del Anexo Único del Acuerdo en cita, publicado en el Diario Oficial de la Federación el 23 de Agosto de 2010.
