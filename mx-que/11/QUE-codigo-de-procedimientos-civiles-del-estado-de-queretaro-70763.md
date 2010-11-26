@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2009-10-21"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -2799,7 +2799,9 @@ En caso de que se tenga por no interpuesto el recurso, de desistimiento o caduci
 
 La declaración de que una sentencia ha causado ejecutoria no admite más recurso que el de responsabilidad.
 
-## Título Séptimo. De los juicios sumarios y de la vida de apremio
+> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADA], P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+## Título Séptimo. De los Juicios sumarios y de la vía de apremio
 
 ### Capítulo Primero. De los juicio sumarios
 
@@ -4341,7 +4343,9 @@ El juez tendrá todas las facultades legales para lograr la comparecencia del re
 
 Todos estos trámites se harán siempre con la intervención del Ministerio Público.
 
-En el segundo caso del artículo 679, la interrupción durará el tiempo necesario para que la parte que ha quedado sin representante procesal, provea a su substitución; sin embargo, si en el plazo de un mes no se verifica la substitución, el procedimiento continuará su curso.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+En el segundo caso del artículo 680, la interrupción durará el tiempo necesario para que la parte que ha quedado sin representante procesal, provea a su substitución; sin embargo, si en el plazo de un mes no se verifica la substitución, el procedimiento continuará su curso.
 
 ###### Artículo 682.
 
@@ -4525,9 +4529,11 @@ Divorcio por mutuo consentimiento
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 711.
 
-Cuando ambos consortes convengan en divorciarse, en los términos del artículo 253 del Código Civil del Estado de Querétaro, deberán ocurrir al Tribunal competente, presentando el convenio que exige el mismo artículo así como una certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
+Cuando ambos consortes convengan en divorciarse, en los términos del artículo 252 del Código Civil del Estado de Querétaro, deberán ocurrir al Tribunal competente, presentando el convenio que exige el mismo artículo, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores.
 
 ###### Artículo 712.
 
@@ -5217,9 +5223,11 @@ Si durante la tramitación de un intestado, apareciere el testamento, se sobrese
 
 ### Capítulo Segundo. De las testamentarias
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 825.
 
-El que promueve el juicio de testamentaría debe presentar el testamento del difunto. El juez, sin más trámite, lo tendrá por radicado y, en el mismo auto, convocará a los interesados a una junta para que, si hubiere albacea nombrado en el testamento, se les dé a conocer y, si no lo hubiere, procedan a elegirlo, con arreglo a lo prescrito en los artículos 1565, 1566, 1567 y 1571 del Código Civil del Estado de Querétaro.
+El que promueve el juicio de testamentaría, debe presentar el testamento del difunto. El juez, sin más trámite, lo tendrá por radicado y, en el mismo auto, convocará a los interesados a una junta para que si hubiere albacea nombrado en el testamento se les dé a conocer y si no lo hubiere procedan a elegirlo, con arreglo a lo prescrito en los artículos 1560 a 1562 y 1566 del Código Civil del Estado de Querétaro.
 
 ###### Artículo 826.
 
@@ -5469,9 +5477,11 @@ Una vez dictada sentencia definitiva que no ha causado ejecutoria, aparecieren b
 
 En el caso de que dicha sentencia haya causado ejecutoria se iniciará un nuevo juicio sucesorio únicamente respecto de los bienes que se dice fueron omitidos.
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 871.
 
-Si pasados los plazos que señala el artículo 853, el albacea no promoviere o no concluyere el inventario, se estará a lo dispuesto por los artículos 1629 y 1631 del Código Civil del Estado de Querétaro.
+Si pasados los plazos que señala el artículo 853, el albacea no promoviere o no concluyere el inventario, se estará a lo dispuesto por los artículos 1630 y 1631 del Código Civil del Estado de Querétaro.
 
 La remoción a que se refiere este artículo se substanciará en forma incidental.
 
@@ -5525,9 +5535,11 @@ El juez abrirá la correspondencia que venga dirigida al difunto, en presencia d
 
 Todas las disposiciones relativas al interventor regirán respecto del albacea judicial.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 882.
 
-Durante la substanciación del juicio sucesorio no se podrán enajenar los bienes inventariados, sino en los casos previstos en los artículos 1600 y 1642 del Código Civil del Estado de Querétaro y en los siguientes:
+Durante la substanciación del juicio sucesorio no se podrán enajenar los bienes inventariados, sino en los casos previstos en los artículos 1595 y 1637 del Código Civil del Estado de Querétaro y en los siguientes:
 
 I. Cuando los bienes puedan deteriorarse;
 
@@ -5787,9 +5799,11 @@ En seguida firmarán, al margen del testamento, las personas que hayan interveni
 
 Será preferida para la protocolización de todo testamento cerrado, la notaría del lugar en que haya sido abierto y, si hubiere varias, se preferirá la que designe el promovente.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 923.
 
-Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos, como se previene en este Capítulo y los hará protocolizar en un mismo oficio, para los efectos a que haya lugar en los casos previstos por los artículos 13872 (sic) y 1389 del Código Civil del Estado de Querétaro.
+Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto a cada uno de ellos, como se previene en este Capítulo y los hará protocolizar en un mismo oficio, para los efectos a que haya lugar en los casos previstos por los artículos 1387 y 1389 del Código Civil del Estado de Querétaro.
 
 ### Capítulo Décimo. Declaración de ser formal el testamento ológrafo
 
@@ -5923,9 +5937,11 @@ III. Tenga relación con los derechos o bienes de un ausente; y
 
 IV. Lo dispusieren las leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 941.
 
-Si a la solicitud promovida se opusiere para legítima, se seguirá el negocio conforme a los trámites establecidos para el juicio que corresponda.
+Si a la solicitud promovida se opusiere parte legítima, se seguirá el negocio conforme a los trámites establecidos para el juicio que corresponda.
 
 El interés del opositor podrá acreditarse incidentalmente en el mismo expediente.
 
@@ -6496,3 +6512,9 @@ Lic. Jorge García Quiroz
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+Artículo Único. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
