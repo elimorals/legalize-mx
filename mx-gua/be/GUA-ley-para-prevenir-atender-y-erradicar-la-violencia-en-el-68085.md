@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-68085"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2009-03-27"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el 27 de marzo de 2009.
 
@@ -59,11 +59,13 @@ II. La organización y funcionamiento del Sistema Estatal para la prevención, a
 
 III. La coordinación entre el Estado y los municipios para prevenir, atender y erradicar la violencia.
 
-Sujetos a Protección
+Sujetos de protección
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-Esta Ley será aplicable para los casos de violencia cometida contra los niños y las niñas, los jóvenes, las mujeres, los adultos mayores, los discapacitados y cualquier persona que por sus condiciones físicas, mentales, jurídicas o sociales requieran de servicios especializados para su atención y protección.
+Esta Ley será aplicable para los casos de violencia cometida contra los niños, los jóvenes, los adultos mayores, los discapacitados y cualquier persona que por sus condiciones físicas, mentales, jurídicas o sociales requieran de servicios especializados para su atención y protección.
 
 Glosario
 
@@ -83,7 +85,9 @@ V. Ley: La Ley para Prevenir, Atender y Erradicar la Violencia en el Estado de G
 
 VI. Programa Estatal: El Programa Estatal para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato;
 
-VII. Promoción de la Igualdad: Todas aquellas acciones encaminadas a garantizar las mismas oportunidades y derechos entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+VII. Promoción de la igualdad: Todas aquellas acciones encaminadas a garantizar las mismas oportunidades y derechos entre las personas;
 
 VIII. Refugio: Los albergues o establecimientos constituidos para la atención y protección de las personas receptoras de violencia, y sus menores hijos cuando los hubiere;
 
@@ -91,7 +95,7 @@ IX. Reglamento: El Reglamento de la Ley para Prevenir, Atender y Erradicar la Vi
 
 X. Reglamento del Sistema Estatal: El Reglamento Interior del Sistema Estatal para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato;
 
-XI. Sistema: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+XI. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2010)
 
 XII. Sistema Estatal: El Sistema Estatal para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato; y
 
@@ -189,8 +193,6 @@ Las bases para la elaboración y operación de estos modelos se establecerán en
 
 ### Capítulo Único. De la Violencia hacia la mujer
 
-Violencia hacia la mujer
-
 ###### Artículo 12.
 
 Las órdenes de protección son actos de auxilio y de urgente aplicación en función del interés superior de las personas receptoras de violencia y son fundamentalmente precautorias y cautelares.
@@ -255,7 +257,11 @@ II. Auxilio policiaco de reacción inmediata a favor de la persona receptora de 
 
 III. Las demás establecidas en otras disposiciones legales estatales.
 
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ## Título Cuarto. De la Violencia hacia la mujer
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ### Capítulo I. De su Objeto y Órgano de Dirección
 
@@ -263,49 +269,31 @@ Sistema Estatal
 
 ###### Artículo 18.
 
-Para que se garantice el derecho de las mujeres a una vida libre de violencia en el Estado de Guanajuato, el Instituto de la Mujer Guanajuatense deberá vigilar las políticas públicas, el Programa Estatal y, en general, cualquier acción que se implemente por la administración pública en materia de violencia.
-
-Respeto de los derechos humanos de la mujer
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 19.
 
-El Estado y los municipios instrumentarán las acciones necesarias para el respeto de los derechos humanos de las mujeres reconocidos y garantizados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y los instrumentos internacionales de que México forme parte.
-
-Obligación de los servidores públicos
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 20.
 
-Los servidores públicos tienen la obligación de dar respuesta pronta, eficiente, eficaz, oportuna y responsable para garantizar los derechos humanos de las mujeres.
-
-Canalización de las mujeres que sufran violencia
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 21.
 
-Las dependencias del Estado y los municipios que conozcan de posibles actos de violencia contra las mujeres deberán prestarles la atención necesaria dentro del ámbito de su competencia, y en caso que no cuenten con atribuciones especificas para su atención en ésta u otras leyes, deberán canalizarla a la institución correspondiente.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
-Acciones para el acceso a la justicia, de las mujeres
+###### Artículo 22.
 
-###### Articulo 22.
-
-Las acciones para el acceso a la justicia, de las mujeres, comprenden entre otras las consistentes en:
-
-I. Dictar de manera pronta y eficaz las órdenes de protección para las mujeres que sufren de violencia o se encuentren en riesgo de sufrirla, con objeto de salvaguardar su integridad, tomando en cuenta el riesgo o peligro existente, los antecedentes violentos de la persona generadora de violencia, la seguridad de la mujer y demás elementos con que se cuente;
-
-II. Actuar de una manera eficiente, eficaz, oportuna y responsable para orientar, acompañar y representar a las mujeres que sufran o hayan sufrido violencia en los procedimientos en que participen; y
-
-III. Participar en la instrumentación de políticas públicas que tiendan a erradicar la violencia contra las mujeres y disminuir sus efectos.
-
-Representación legal
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 23.
 
-La representación legal que se proporcione a las mujeres, consistirá en el patrocinio y asesoría legal.
-
-Información sobre la prevención y atención de la violencia
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
 ###### Artículo 24.
 
-Las mujeres dentro del Estado tienen derecho a recibir información sobre la prevención y atención de la violencia.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
 ## Título Quinto. Del Sistema Estatal para Prevenir, Atender y Erradicar la Violencia en el Estado de Guanajuato
 
@@ -509,7 +497,9 @@ El Titular de la Procuraduría General de Justicia del Estado de Guanajuato tend
 
 I. Ejecutar la política en materia de procuración de justicia para la atención y erradicación de la violencia en el Estado;
 
-II. Integrar y operar la Red Estatal de datos e información sobre los casos de violencia en el Estado de Guanajuato, así como enviar información al Banco Nacional de Datos sobre casos de Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+II. Integrar y operar la Red Estatal de datos e información sobre los casos de violencia en el Estado de Guanajuato;
 
 III. Proporcionar periódicamente tratamiento de contención al personal especializado que atiende a las personas receptoras de violencia; y
 
@@ -557,27 +547,13 @@ I. Implementar programas que promuevan y fortalezcan el derecho de servidores p�
 
 II. Implementar un procedimiento especializado de tratamiento cuando el servidor público sufra acoso u hostigamiento sexual en sus actividades laborales.
 
-#### Sección Undécima. Del Titular del Instituto de la Mujer Guanajuatense
+> <small>(DEROGADA CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-Facultades del Titular del Instituto de la Mujer Guanajuatense
+#### Sección Undécima. Del Titular del Instituto de la Mujer Guanajuatense
 
 ###### Artículo 38.
 
-El Titular del Instituto de la Mujer Guanajuatense tendrá las siguientes facultades:
-
-I. Proponer al Consejo Estatal medidas, acciones, estrategias y metas que deben incluirse en el Programa Estatal para prevenir, atender y erradicar la violencia contra las mujeres;
-
-II. Representar al Estado en el Sistema;
-
-III. Promover que las instancias de procuración de justicia garanticen la integridad física de las mujeres que denuncian situaciones de violencia;
-
-IV. Compilar estudios e investigaciones realizados por las dependencias y entidades de la Administración Pública Estatal sobre la violencia hacia las mujeres en el Estado;
-
-V. Distribuir instrumentos y diseñar campañas de prevención de la violencia contra las mujeres, de conformidad con el Programa Estatal;
-
-VI. Diseñar programas que impulsen el desarrollo integral de las mujeres con una vida libre de violencia; y
-
-VII. Difundir la cultura de respeto a los derechos humanos de las Mujeres.
+(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
 #### Sección Duodécima. Del Titular del Instituto Estatal de la Juventud de Guanajuato
 
@@ -901,7 +877,9 @@ El área de atención a las personas receptoras de violencia será la encargada 
 
 Por cada persona receptora de violencia se abrirá un expediente, que deberá contener toda la información respecto del proceso integral y multidisciplinario que se llevó a cabo. Cuando la persona receptora de violencia tenga antecedentes de generador de violencia, la determinación de su tratamiento se realizará de manera conjunta con el área de rehabilitación a las personas generadoras de violencia.
 
-Cuando el receptor de violencia intrafamiliar manifieste de manera expresa su voluntad y solicite someterse a un proceso de conciliación o mediación, previo dictamen de viabilidad emitido por los especialistas en las áreas de trabajo social, de servicios jurídicos y de atención psicológica, los Centros podrán instaurar alguno de dichos procedimientos, sin que sea necesario que se concluya para iniciar los procedimientos judiciales correspondientes en el momento en que lo decida el receptor de violencia.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+Cuando el receptor de violencia manifieste de manera expresa su voluntad y solicite someterse a un proceso de conciliación o mediación, previo dictamen de viabilidad emitido por los especialistas en las áreas de trabajo social, de servicios jurídicos y de atención psicológica, los CEMAIV podrán instaurar alguno de dichos procedimientos, sin que sea necesario que se concluya para iniciar los procedimientos judiciales correspondientes en el momento en que lo decida el receptor de violencia.
 
 Representación Jurídica
 
@@ -1094,3 +1072,9 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
