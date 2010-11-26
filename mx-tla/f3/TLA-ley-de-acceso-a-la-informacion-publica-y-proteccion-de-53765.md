@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-53765"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-12"
-last_updated: "2009-12-17"
+last_updated: "2010-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES PARA EL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Tlaxcala, el viernes 12 de enero de 2007.
 
@@ -1077,7 +1077,11 @@ IV. Gozar de reconocido prestigio profesional y personal;
 
 V. Tener al menos treinta años cumplidos al día de la convocatoria;
 
-VI. No ser dirigente de partido político alguno o haber ocupado un cargo de representación popular durante tres años previos al momento de rendir protesta; ni actividad que se contraponga a las funciones propias de su encomienda, excepción hecha de los de carácter docente y de investigación científica, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+VI. No ser dirigente de partido político alguno o haber ocupado un cargo de representación popular, ni haber sido servidor público con funciones de dirección o atribuciones de mando dentro de la administración pública federal, estatal o municipal; también será impedimento el desarrollo de cualquier otra actividad que se contraponga a las funciones propias de su encomienda, excepción hecha a aquellas de carácter docente y de investigación científica.
+
+Para los supuestos señalados en esta fracción, el impedimento desaparecerá si el interesado se separa de su función, cargo, comisión o empleo cuando menos con dos años previos a la fecha de su designación;
 
 VII. No estar privado de sus derechos civiles o políticos.
 
@@ -1466,3 +1470,13 @@ Se derogan todas aquellas disposiciones que se opongan al contenido del presente
 ###### ARTÍCULO TERCERO.
 
 La Comisión de Acceso a la Información y Protección de Datos Personales para el Estado de Tlaxcala, a través de su Comisionado Presidente, deberá, en un plazo de 30 días naturales, enviar por escrito su informe anual al Congreso del Estado de Tlaxcala.
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
