@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2010-08-10"
+last_updated: "2010-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CODIGO FISCAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -8178,9 +8178,17 @@ Para efectos de lo anterior, el Sistema de Aguas de la Ciudad de México y los �
 
 En tanto la Secretaría publique los horarios a que se refiere el artículo 259 de este Código, el horario de funcionamiento de los parquímetros será de Lunes a Viernes de 8:00 a 20:00 hrs.
 
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO OCTAVO.
 
-Tratándose de personas físicas que tengan créditos fiscales derivados de derechos por el suministro de agua e impuesto predial en inmuebles de uso habitacional, determinados por la autoridad fiscal menores a 400 días de salario mínimo general diario vigente en el Distrito Federal, la autoridad fiscal implementará durante el ejercicio 2010, mecanismos de simplificación administrativa para disminuir dichos créditos en términos de lo dispuesto en el artículo 106 de este Código.
+Tratándose de personas físicas que tengan créditos fiscales derivados de derechos por el suministro de agua e impuesto predial en inmuebles de uso habitacional, determinados por la autoridad fiscal menores a 400 días de salario mínimo general diario vigente en el Distrito Federal, la autoridad fiscal implementará durante el ejercicio 2010, mecanismos administrativos para disminuir dichos créditos en términos de lo dispuesto en el artículo 106 de este Código.
+
+Ingresada la solicitud a que refiere dicho artículo del Código Fiscal, la Procuraduría Fiscal del Distrito Federal deberá, dentro del término de los diez días hábiles siguientes a la fecha en que la reciba, solicitar de la autoridad fiscal correspondiente, le determine el monto del crédito fiscal a cargo del contribuyente; a su vez, dicha información deberá ser remitida en un plazo no mayor a diez días hábiles contados a partir del día siguiente al que haya recibido la solicitud.
+
+Definido el monto del crédito fiscal, la Procuraduría Fiscal deberá notificar la procedencia o improcedencia de la solicitud de disminución del crédito fiscal al contribuyente, dentro de un plazo que no podrá ser mayor a diez días hábiles contados a partir del día siguiente en que recibió la determinación del crédito por parte de la autoridad fiscal, remitiendo a su vez tal determinación a la autoridad recaudadora correspondiente, con el propósito de que en un plazo no mayor a los diez días posteriores a la resolución de disminución, proceda a realizar el cobro del derecho o impuesto basándose en el nuevo monto del crédito fiscal.
+
+Aquella autoridad que incumpla con los términos establecidos en el presente artículo incurrirá en falta grave.
 
 ###### ARTICULO NOVENO.
 
@@ -8889,3 +8897,9 @@ G.O. 10 DE AGOSTO DE 2010.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. La presente Ley entrará en vigor a partir del día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 26 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente Ley (sic) entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
