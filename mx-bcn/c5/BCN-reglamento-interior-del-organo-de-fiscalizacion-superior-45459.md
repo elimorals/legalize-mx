@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-organo-de-fiscalizacion-superior-45459"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-08"
-last_updated: "2010-06-11"
+last_updated: "2010-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de julio de 2005.
 
@@ -35,11 +35,11 @@ REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CA
 
 El presente Reglamento tiene por objeto precisar la estructura orgánica y funcionamiento del órgano de Fiscalización Superior del Estado de Baja California, para la operación y cumplimiento de sus fines.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 2.
 
-El Órgano de Fiscalización Superior del Estado, es el órgano técnico de fiscalización del Congreso del Estado, con las atribuciones que expresamente le confieren la Constitución Política del Estado Libre y Soberano de Baja California, la Ley de Fiscalización Superior, la Ley Orgánica del Poder Legislativo, ambas para el Estado de Baja California, éste Reglamento Interior y cualquier otro ordenamiento legal que le sea aplicable.
+El Órgano de Fiscalización Superior del Estado, es el órgano técnico de Fiscalización del Congreso del Estado, con las atribuciones que expresamente le confieren la Constitución Política del Estado Libre y Soberano de Baja California, la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios, la Ley Orgánica del Poder Legislativo del Estado de Baja California, este Reglamento Interior y cualquier otro ordenamiento legal que le sea aplicable.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -51,9 +51,9 @@ Para efectos del presente Reglamento se entenderá por:
 
 I. Constitución del Estado. La Constitución Política del Estado Libre y Soberano de Baja California;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-II. Ley.- La Ley de Fiscalización Superior para el Estado de Baja California;
+II. Ley.- La Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -63,9 +63,9 @@ III. Ley Orgánica.- La Ley Orgánica del Poder Legislativo del Estado de Baja C
 
 IV. Congreso.- El Congreso del Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-V. Comisión.- La Comisión del Congreso, encargada de la vigilancia, coordinación y evaluación del funcionamiento del Órgano de Fiscalización;
+V. Comisión.- La Comisión de trabajo del Congreso que dispone la fracción XIII del Artículo 27 de la Constitución del Estado y la Ley Orgánica del Poder Legislativo del Estado de Baja California como encargada de la vigilancia, coordinación y evaluación del funcionamiento del Órgano de Fiscalización;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -79,33 +79,37 @@ VII. Auditor Superior.- El Auditor Superior de Fiscalización del Estado;
 
 VIII. Unidades.- La Unidad General de Administración, la Unidad de Asuntos Jurídicos y la Unidad de Gestión de Calidad;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-IX. Confronta.- Reunión realizada entre servidores públicos de las entidades fiscalizables y del Órgano de Fiscalización con el objeto de dar a conocer los resultados de la revisión realizada;
+IX. Confronta.- Reunión realizada entre servidores públicos de las entidades fiscalizables o quienes dejaron de serlo, y del Órgano de Fiscalización con el objeto de dar a conocer los resultados preliminares de la revisión realizada, para efecto de que se aclaren observaciones que no hayan quedado totalmente solventadas en los plazos establecidos en la Ley;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 X. Dirección de Auditoría Mexicali.- Es la Dirección de Auditoría que tiene como ámbito territorial de competencia las entidades fiscalizables que tengan su domicilio dentro del Municipio de Mexicali;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-Dirección de Auditoría Tijuana.- Es la Dirección de Auditoría que tiene como ámbito territorial de competencia las entidades fiscalizables que tengan su domicilio dentro de los Municipios de Tijuana, Tecate y Playas de Rosarito;
+XI. Dirección de Auditoría Tijuana.- Es la Dirección de Auditoría que tiene como ámbito territorial de competencia las entidades fiscalizables que tengan su domicilio dentro de los Municipios de Tijuana, Tecate y Playas de Rosarito;
 
-XI.- Dirección de Auditoría Tijuana.- Es la Dirección de Auditoría que tiene como ámbito territorial de competencia las entidades fiscalizables que tengan su domicilio dentro de los Municipios de Tijuana, Tecate y Rosarito, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2010)</small>
+XII. Dirección de Auditoría Ensenada.- Es la Dirección de Auditoría que tiene como ámbito territorial de competencia las entidades fiscalizables que tengan su domicilio dentro del Municipio de Ensenada;
 
-XII. Entidad Fiscalizable.- Las Entidades que ejercen recursos públicos que tienen a su cargo la recaudación, administración, el manejo o el ejercicio de recursos públicos;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2010)</small>
+XIII. Entidades Fiscalizables.- Las Entidades que ejerzan recursos públicos y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo la recaudación, administración, el manejo o el ejercicio de recursos públicos estatales o municipales;
 
-XIII. Fiscalización Superior.- La facultad a cargo del Congreso, ejercida por el Órgano de Fiscalización para la revisión, análisis, auditoría y opinión de la Cuenta Pública de las Entidades Fiscalizables;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2010)</small>
+XIV. Fiscalización Superior.- La facultad del Congreso, ejercida por conducto del Órgano de Fiscalización, para la revisión, análisis, auditoría y opinión de la Cuenta Pública de las Entidades del ejercicio fiscal correspondiente, la cual comprende la Cuenta Pública, los informes de Avance de Gestión Financiera y la documentación comprobatoria y justificatoria mensual del ingreso y gasto público;
 
-XIV. A. S. F.- Auditoría Superior de la Federación; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2010)</small>
+XV. A. S. F.- Auditoría Superior de la Federación; y
 
-XVI (sic). ASOFIS.- Asociación Nacional de Organismos de Fiscalización Superior y Control Gubernamental, A. C.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XVI. ASOFIS.- Asociación Nacional de Organismos de Fiscalización Superior y Control Gubernamental, A. C.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -169,15 +173,13 @@ IX.- Unidad de Gestión de Calidad.
 
 X.- Departamento de Enlace Legislativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 5.
 
-Por cada Dirección habrá un Director, por cada Unidad habrá un Titular, por cada Departamento habrá un Jefe, así como los demás servidores públicos que las necesidades relativas a las funciones a realizar se requieran, siempre que las plazas estén contempladas en el Presupuesto de Egresos del Órgano de Fiscalización; todo el personal deberá ser nombrado por el Auditor Superior, mismo que ejercerá las funciones y asumirá las responsabilidades establecidas en la Ley, en el Manual de Organización y en el presente Reglamento.
+Por cada Dirección habrá un Director, por cada Unidad habrá un Titular, por cada Departamento habrá un Jefe, así como los demás servidores públicos que las necesidades relativas a las funciones a realizar se requieran, siempre que las plazas estén contempladas en el Presupuesto de Egresos del Órgano de Fiscalización; todo el personal deberá ser nombrado por el Auditor Superior, mismo que ejercerá las funciones y asumirá las responsabilidades establecidas en la Ley, en el Manual de Organización y en el presente Reglamento; asimismo podrá tener bajo su adscripción al personal que estime necesario para asistirlo en el ejercicio de sus atribuciones.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2006)</small>
-
-A falta de nombramiento de un Director, de un Titular de Unidad o de un Jefe de Departamento, el Auditor Superior designará a quien tendrá a su cargo la coordinación y atención de los asuntos de que se trate hasta en tanto se realice el nombramiento correspondiente
+A falta de nombramiento de un Director, de un Titular de Unidad o de un Jefe de Departamento, el Auditor Superior designará a quien tendrá a su cargo la coordinación y atención de los asuntos de que se trate.
 
 ###### ARTÍCULO 6.
 
@@ -485,7 +487,9 @@ X.- Proponer al Auditor Superior los proyectos de creación, modificación, reor
 
 XI.- Desarrollar y someter a consideración del Auditor Superior las propuestas de modificaciones a la normatividad y a la Legislación aplicable al Órgano de Fiscalización;
 
-XII.- Elaborar y actualizar los manuales y procedimientos técnicos generales, de acuerdo a las necesidades propias del Órgano de Fiscalización y someterlos a la aprobación del Auditor Superior; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+XII.- Elaborar y actualizar los manuales y procedimientos técnicos generales, de acuerdo a las necesidades propias del Órgano de Fiscalización y someterlos a la aprobación del Auditor Superior;
 
 XIII.- Informar al Auditor Superior el resultado de la revisión de la aplicación de los procedimientos, lineamientos y demás normatividad en materia de fiscalización de cuentas públicas de las Entidades Fiscalizables;
 
@@ -499,7 +503,7 @@ XVII.- Ser el enlace institucional con la ASF y la ASOFIS y coordinar las activi
 
 XVIII.- Los demás que le señalen otras disposiciones legales, el Manual de Organización y Procedimientos o que le confiera el Auditor Superior, así como asumir la atención de los asuntos que competan a los Departamentos a su cargo, cuando a su juicio se a necesario.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPÍTULO DÉCIMO
 
@@ -509,7 +513,7 @@ DE LAS ATRIBUCIONES DE LOS DEPARTAMENTOS DE AUDITORÍA A GOBIERNO ESTATAL Y AUT�
 
 ###### ARTÍCULO 24.
 
-Para ser Director de la Dirección de Normatividad y Mejora Continua, se requiere cumplir con los requisitos señalados en las fracciones I, II y VI del artículo 14 de este Reglamento.
+Para ser Director de la Dirección de Normatividad y Mejora Continua, se requiere cumplir con los requisitos señalados en las fracciones I, II y VI del artículo 14 de este Reglamento, poseer título profesional de Contador Público, Licenciado en Administración Pública, Licenciado en Derecho o Postgrado en alguna materia afín, así como acreditar experiencia comprobada en cargos relacionados con la Administración Pública, tener conocimiento de la legislación relativa a la fiscalización en la administración pública, tener reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
 ###### ARTÍCULO 25.
 
@@ -773,13 +777,13 @@ XXX.- Proponer al Auditor Superior la resolución de los asuntos de su competenc
 
 XXXI.- Dictar las medidas necesarias para subsanar las deficiencias que observe en las labores del personal a su cargo;
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2010)</small>
+(REPUBLICADA, P.O. 26 DE NOVIEMBRE DE 2010)
 
 XXXII.- Coordinar la elaboración de los proyectos de opinión de las Iniciativas de Leyes de Ingresos de los Municipios y Tablas de Valores Catastrales Unitarios, así como la Ley de Ingresos del Estado, para someterlos a la consideración del Auditor Superior, y
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA EN SU NUMERACION, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-XXXII (SIC).- Las demás comisiones y requerimientos que le señalen expresamente el Auditor Superior y las disposiciones legales y administrativas aplicables.
+XXXIII.- Las demás comisiones y requerimientos que le señalen expresamente el Auditor Superior y las disposiciones legales y administrativas aplicables.
 
 ###### ARTÍCULO 29.
 
@@ -799,7 +803,9 @@ II. Presentar a solicitud de la Unidad General de Administración su Anteproyect
 
 III. Proponer al Auditor Superior las bases para el establecimiento y funcionamiento del Sistema de Gestión de Calidad del Órgano de Fiscalización;
 
-IV. Proponer al Auditor Superior la certificación de los procesos operativos del Órgano para el fortalecimiento del Sistema de Gestión de la Calidad;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+IV. Proponer al Auditor Superior la certificación de los procesos operativos del Órgano de Fiscalización para el fortalecimiento del Sistema de Gestión de la Calidad;
 
 V. Capacitar y orientar a todo el personal del Órgano de Fiscalización con relación a la implementación, seguimiento y mejora del Sistema de Gestión de la Calidad;
 
@@ -1408,5 +1414,15 @@ Se derogan todas las disposiciones administrativas en lo que se opongan a las pr
 Los asuntos que se encuentren pendientes al entrar en vigor las presentes Reformas y que deban pasar de una Dirección o de un Departamento a otro u otros, continuarán su trámite y serán resueltos por aquel o aquellos a quienes se les atribuye la competencia en las presentes Reformas.
 
 ###### ARTÍCULO CUARTO.
+
+Una vez emitidas las presentes Reformas, se deberán realizar las adecuaciones necesarias en la estructura y en el Manual de Organización del Órgano de Fiscalización.
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas deberán publicarse en el Periódico Oficial del Estado y en los portales de Internet e Intranet del Órgano de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
 
 Una vez emitidas las presentes Reformas, se deberán realizar las adecuaciones necesarias en la estructura y en el Manual de Organización del Órgano de Fiscalización.
