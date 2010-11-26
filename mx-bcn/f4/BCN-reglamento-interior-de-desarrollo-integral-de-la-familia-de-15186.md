@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-desarrollo-integral-de-la-familia-de-151
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-10"
-last_updated: "1999-09-10"
+last_updated: "2010-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE DESARROLLO INTEGRAL DE LA FAMILIA DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de septiembre de 1999.
 
@@ -31,7 +31,7 @@ LA JUNTA DE GOBIERNO DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA 
 
 REGLAMENTO INTERIOR DE DESARROLLO INTEGRAL DE LA FAMILIA DE MEXICALI, BAJA CALIFORNIA
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1.
 
@@ -41,25 +41,27 @@ El presente ordenamiento tiene como objeto definir la estructura orgánica y fun
 
 Para el cumplimiento de su objeto y atribuciones, Desarrollo Integral de la Familia de Mexicali tendrá su domicilio legal en la ciudad de Mexicali, Baja California.
 
-###### ARTICULO 3.
+###### ARTÍCULO 3.
 
-Para los efectos de este reglamento se entenderá por:
+Para los erectos de este Reglamento se entenderá por:
 
-I.- DIF.- El organismo descentralizado Desarrollo Integral de la Familia de Mexicali, Baja California;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+I.- DIF.- El organismo descentralizado de la Administración Pública Municipal denominado Desarrollo Integral de la Familia de Mexicali, Baja California;
 
 II.- ASISTENCIA SOCIAL.- El auxilio o ayuda económica, cultural o moral a personas en estado de necesidad;
 
 III.- PERSONAS EN ESTADO DE NECESIDAD.- Menores, mujeres y ancianos en estado de abandono, personas desamparadas o con discapacidad sin recursos;
 
-IV.- JUNTA DE GOBIERNO.- Organo colegiado cuyo objeto consiste en administrar el organismo;
+IV.- JUNTA DE GOBIERNO.- Órgano colegiado cuyo objeto consiste en administrar el organismo;
 
-V.- VOLUNTARIADO.- Organo honorífico que tendrá por objeto promover y estimular actividades entre particulares o sector publico que persigan el beneficio social;
+V.- VOLUNTARIADO.- Órgano honorífico que tendrá por objeto promover y estimular actividades entre particulares o sector público que persigan el beneficio social;
 
 VI.- CENTROS DE ASISTENCIA SOCIAL.- Instancia desconcentrada de DIF para la atención y apoyo a ancianos, niños y mujeres para su integración en actividades que favorezcan su desarrollo; y
 
-VI.- CENTROS DE DESARROLLO COMUNITARIO.- Instancia desconcentrada de DIF encaminada a coadyuvar al desenvolvimiento de la comunidad en el área de nutrición, educación, cultura, deporte y recreación.
+VII.- CENTROS DE DESARROLLO COMUNITARIO.- Instancia desconcentrada de DIF encaminada a coadyuvar al desenvolvimiento de la comunidad en el área de nutrición, educación, cultura, deporte y recreación.
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL ORGANISMO
+### CAPÍTULO II. DE LAS ATRIBUCIONES DEL ORGANISMO
 
 ###### ARTICULO 4.
 
@@ -89,21 +91,21 @@ XI.- Recomendar y promover el establecimiento de organismos de asistencia social
 
 XII.- Las demás que le concedan las leyes, reglamentos y demás ordenamientos aplicables.
 
-### CAPITULO III. DE SU ESTRUCTURA ORGÁNICA
+### CAPÍTULO III. DE SU ESTRUCTURA ORGÁNICA
 
-###### ARTICULO 5.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 5.
 
 DIF para el cumplimiento de sus atribuciones, contará con la siguiente estructura orgánica:
 
 I.- Dirección;
 
-II.- Departamento de Vinculación Social;
+II.- Departamento Operativo; y
 
-III.- Departamento Operativo; y
+III.- Departamento Administrativo Contable.
 
-IV.- Departamento Contable Administrativo.
-
-### CAPITULO IV. DE LAS FACULTADES DE LA DIRECCIÓN
+### CAPÍTULO IV. DE LAS FACULTADES DE LA DIRECCIÓN
 
 ###### ARTICULO 6.
 
@@ -127,115 +129,147 @@ VIII.- Proporcionar la información requerida por las autoridades correspondient
 
 IX.- Las demás facultades que le confieran las disposiciones legales y administrativas aplicables.
 
-###### ARTICULO 7.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-La Dirección para el cumplimiento de sus facultades contará con el apoyo de la Coordinación de Estudios y Proyectos y la Coordinación de Comunicación Social, las cuales tendrán las siguientes atribuciones:
+###### ARTÍCULO 7.
 
-I.- Coordinación de Estudios y Proyectos:
+La Dirección para el cumplimiento de sus facultades contará con el apoyo de la Coordinación de Comunicación Social, de la Coordinación de Desarrollo Comunitario, de la Coordinación de Vinculación Social, del Administrador del Asilo de Ancianos, del Jefe del Departamento Operativo, del Supervisor de Centros Asistenciales y el Jefe del Departamento Administrativo Contable; tendrá las siguientes atribuciones:
 
-a).- Realizar estudios para la elaboración de proyectos e implementación de programas de asistencia social;
+I.- Elaborar boletines de prensa para los diferentes medios de comunicación sobre las acciones, desarrolladas por el organismo;
 
-b).- Brindar asesoría técnica que requieran las demás áreas que integran el organismo;
+II.- Organizar y dar seguimiento a campañas publicitarias de los programas o acciones del organismo;
 
-c).- Elaborar esquemas o instrumentos de control para el seguimiento y continuidad de programas, justificando con esto el apego a los programas institucionales y resultados de impacto;
+III.- Brindar asesoría y apoyo técnico a las demás áreas del organismo en la programación para la difusión de sus eventos;
 
-d).- Rendir informes periódicos a la Dirección sobre avance de los programas, actividades y resultados de ejecución asignados para medir el impacto de los mismos en la comunidad; y
+IV.- Dar seguimiento a los eventos o actos del organismo, para la elaboración de reportes gráficos y/o escritos;
 
-e).- Las demás que le confieran las disposiciones legales y administrativas aplicables.
+V.- Diseñar, integrar, proponer y ejecutar programas y talleres de capacitación dirigidos a la comunidad en sentido comprendido dentro del objeto del DIF, enfocados a mejorar su calidad de vida;
 
-II.- Coordinación de Comunicación Social:
+VI.- Supervisar y evaluar el desarrollo de los cursos brindados a la comunidad, así como al personal que participe en la ejecución de los mismos;
 
-a).- Elaborar boletines de prensa para los diferentes medios de comunicación sobre las acciones desarrolladas por el organismo;
+VII.- Detectar zonas receptoras y expulsoras de menores y adolescentes en riesgo para su atención mediante recorridos para su interacción a los programas de asistencia social;
 
-b).- Organizar y dar seguimiento a campañas publicitarias de los programas o acciones del organismo;
+VIII.- Establecer contacto con instituciones particulares y públicas para canalización de menores y adolescentes en riesgo;
 
-c).- Brindar asesoría y apoyo técnico a las demás áreas del organismo en la programación para la difusión de sus eventos;
+IX.- Brindar atención psicológica a menores y público en general de la ciudad y el Valle de Mexicali;
 
-d).- Dar seguimiento a los eventos o actos del organismo, para la elaboración de reportes gráficos y/o escritos; y
+X.- Integrar grupos en común de menores, adolescentes y adultos para impartir pláticas y talleres diversos;
 
-e).- Las demás que le confieran las disposiciones legales y administrativas aplicables.
+XI.- Organizar, supervisar y atender las necesidades del asilo de ancianos;
 
-### CAPITULO V. DE LAS FACULTADES DE LOS DEPARTAMENTOS
+XII.- Organizar eventos especiales para captación de recursos económicos, materiales y humanos en los programas y proyectos del DIF;
 
-###### ARTICULO 8.
+XIII.- Elaborar y actualizar el directorio de patrocinadores de los diferentes sectores económicos y de la comunidad en general;
 
-El Departamento de Vinculación Social, para el cumplimiento de sus atribuciones contará con el apoyo de la Coordinación de Capacitación y Cursos, y de la Coordinación de Centros Asistenciales, teniendo además las siguientes facultades:
+XIV.- Promover ante empresas, comercios o centros de servicios, las acciones que realiza el DIF en favor de la población marginada y escasos recursos;
 
-I.- Establecer comunicación con el sector privado, público y comunidad en general para participación en actividades de asistencia social del DIF;
+XV.- Tramitar la adjudicación de donativos de la iniciativa privada o de particulares;
 
-II.- Planear, programar, organizar, conducir y controlar las actividades para la participación, obtención de fondos y recursos en apoyo a programas especiales conjuntamente con los centros asistenciales adscritos, y de acuerdo con los requerimientos técnicos y administrativos;
+XVI.- Planear, organizar y promover eventos para la obtención de fondos y recursos para apoyar algún programa especial;
 
-III.- Organizar programas y actividades que involucren a la sociedad en general y miembros de la misma en apoyo a las actividades de asistencia social;
+XVII.- Colaborar en la realización de eventos propios de la institución;
 
-IV.- Organizar, supervisar y evaluar el desarrollo de los cursos brindados a la comunidad, así como al personal que participe en la ejecución de los mismos;
+XVIII.- Promover eventos de reconocimiento a los patrocinadores y beneficiarios que desinteresadamente contribuyen al fortalecimiento de las acciones del DIF;
 
-V.- Organizar cursos de capacitación, actualización y adiestramiento para el personal del DIF y voluntariado, colaborando con el mismo en la impartición de cursos en la comunidad para coadyuvar en la asistencia social;
+XIX.- Las demás que le confieran las disposiciones legales y administrativas aplicables.
 
-VI.- Mantener actualizado el padrón de colaboradores;
+### CAPÍTULO V. DE LAS FACULTADES DE LOS DEPARTAMENTOS
 
-VII.- Organizar y supervisar la operación y funcionamiento de los centros de asistencia del DIF; y
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 9], P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-VIII.- Las demás que le confieran las disposiciones legales y administrativas aplicables.
+###### ARTÍCULO 8.
 
-###### ARTICULO 9.
+El Departamento Operativo para el cumplimiento de sus atribuciones contara con el apoyo del Coordinación del Programa Alimentario, Coordinación de Asistencia Social, Coordinación de Asistencia Médica, Supervisión de Centros de Desarrollo Comunitario, Coordinación de Becas, Encargado de Atención a Personas con Discapacidad, teniendo además las siguientes facultades:
 
-El Departamento Operativo para el cumplimiento de sus atribuciones contará con el apoyo de la Coordinación de Centros de Desarrollo Comunitario, de la Coordinación de Asistencia Social, de la Coordinación de Asistencia Médica, de la Coordinación de Estímulos a la Educación y de la Coordinación de Desayunos Escolares, teniendo además las siguientes facultades:
+I.- Organizar y supervisar brigadas-medico asistenciales dirigidas a personas que se encuentran en zonas de poco acceso a servicios públicos y de la salud, así como evaluar los resultados y el desempeño del personal responsable;
 
-I.- Participar en la elaboración de proyectos y programas alimenticios en apoyo a la población escolar y en desamparo;
+II.- Organizar y supervisar la operación y funcionamiento de los centros de desarrollo comunitario;
 
-II.- Diseñar, integrar, proponer y ejecutar programas y talleres de capacitación dirigidos a la comunidad en sentido comprendido dentro del objeto del DIF, enfocados a mejorar su calidad de vida;
+III.- Implementar políticas y controles en cuanto a la distribución de apoyos de la institución hacia las familias que lo soliciten;
 
-III.- Organizar y supervisar brigadas médico-asistenciales dirigidas a personas que se encuentren en zonas con poco acceso a servicios públicos y de salud, así como evaluar los resultados y el desempeño del personal responsable;
+IV.- Optimizar la dotación de apoyos de asistencia social a la comunidad;
 
-IV.- Organizar y supervisar la operación y funcionamiento de los centros de desarrollo comunitario;
+V.- Atender casos que otras instituciones canalicen a DIF para apoyo de servicio de asistencia social;
 
-V.- Implementar políticas y controles en cuanto a la distribución de apoyos de la institución hacia las familias que lo soliciten;
+VI.- Atener casos de personas de escasos recursos que necesiten ser canalizadas a instituciones del sector público o privado;
 
-VI.- Optimizar la dotación de apoyos de asistencia social a la comunidad;
+VII.- Mantener contacto directo con las diferentes instancias de asistencia social para apoyar a la comunidad en casos de emergencia;
 
-VII.- Atender casos que otras instituciones canalicen al DIF para apoyo de servicios de asistencia social;
+VIII.- Organizar y operar instrumentos de diagnostico de comunidades o personas a efecto de seleccionar las zonas más en desventajas sociales, con el fin de definir el apoyo u operación de programas de asistencia social;….
 
-VIII.- Atender casos de personas de escasos recursos que necesiten ser canalizadas a instituciones del sector publico o privado;
+IX.- Participar en la elaboración de proyectos y programas alimenticios en apoyo a la población escolar y familias en desamparo;
 
-IX.- Mantener contacto directo con las diferentes instancias de asistencia social para apoyar a la comunidad en casos de emergencia;
+X.- Establecer comunicación con el sector privado, público y comunidad en general para participación en actividades de asistencia social del DIF;
 
-X.- Organizar y operar instrumentos de diagnóstico de comunidades o personas a efecto de seleccionar las zonas con más desventajas sociales, con el fin de definir el apoyo u operación de programas de asistencia social;
+XI.- Planear, programar, organizar, conducir y controlar las actividades para la participación, obtención de fondos y recursos en apoyo a programas especiales conjuntamente con los centros asistenciales adscritos, y de acuerdo con los requerimientos técnicos y administrativos;
 
-XI.- Programar y coordinar la realización de eventos institucionales; y
+XII.- Organizar programas y actividades que involucren a la sociedad en general y miembros de la misma en apoyo a las actividades de asistencia social;
 
-XII.- Las demás facultades que le confieran las disposiciones legales y administrativas aplicables.
+XIII.- Mantener actualizado el padrón de colaboradores;
+
+XIV.- Organizar y supervisar la operación y funcionamiento de los centros de asistencia del DIF;
+
+XV.- Las demás que le confieran las disposiciones legales y administrativas aplicables.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 10], P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 9.
+
+El Departamento Administrativo Contable para el cumplimiento de sus atribuciones contará con el apoyo de la Coordinación de Desarrollo Institucional y Proyectos, de la Coordinación de Bienes y Servicios y de la Coordinación Contable, teniendo además las siguientes facultades:
+
+I.- Coordinar la elaboración del Programa Operativo Anual del organismo;
+
+II.- Participar en las comisiones y subcomités que coordina DIF;
+
+III.- Dar seguimiento a metas y acciones de los programas operativos para evaluar el grado de cumplimiento;
+
+IV.- Elaborar reportes y presentaciones de avance de metas;
+
+V.- Representar a la Dirección en distintas reuniones;
+
+VI.- Preparar y asistir a reuniones de coordinación de metas institucionales;
+
+VII.- Vigilar el cumplimiento y mejora continua de los indicadores de gestión de la institución;
+
+VIII.- Elaborar oficios, solicitudes y convocatorias, para reuniones de comisiones y subcomités;
+
+IX.- Apoyar a las distintas áreas de la institución en elaboración de reportes de metas y avance de programas;
+
+X.- Cumplir y vigilar el cumplimiento de las políticas relativas a la administración de los recursos humanos, financieros y materiales así como los referentes a los servicios prestados por el DIF;
+
+XI.- Proponer los lineamientos, normas, sistemas y procedimientos para la administración de los programas a ejecución, así como para la contratación de servicios y adquisiciones del organismo;
+
+XII.- Adquirir, proporcionar y suministrar los bienes y servicios necesarios para el desarrollo de los programas;
+
+XIII.- Mantener actualizado el inventario de bienes muebles e inmuebles propiedad del organismo;
+
+XIV.- Aplicar las políticas y procedimiento para la conservación y mantenimiento de los bienes muebles e inmuebles del organismo;
+
+XV.- Mantener en buen estado los bienes muebles e inmuebles pertenecientes a DIF, para lograr su adecuado funcionamiento y rendimiento.
+
+XVI.- Implementar y proponer normas para el proceso de contabilidad general del organismo;
+
+XVII.- Integrar, elaborar y mantener permanentemente actualizados la información sobre el estado financiero, el flujo de recursos y el avance de programas y presupuesto del organismo;
+
+XVIII.- Efectuar estudios financieros necesarios para determinar el máximo rendimiento y liquidez pala el organismo;
+
+XIX.- Organizar e instrumentar cursos de capacitación administrativa para el personal del organismo;
+
+XX.- Aplicar las políticas y procedimientos en materia de administración de recursos humanos del organismo;
+
+XXI.- Elaborar nóminas y recibos de pago al personal;
+
+XXII.- Realizar estudios para la elaboración de proyectos e implementación de programas de asistencia social;
+
+XXIII.- Brindar asesoría técnica que requieran las demás áreas que integran el organismo;
+
+XXIV.- Elaborar esquemas o instrumentos de control para el seguimiento y continuidad de programas, justificando con esto el apego a los programas institucionales y resultados de impacto;
+
+XXV.- Las demás que le confieran las disposiciones legales y administrativas aplicables.
+
+(REPUBLICADO Y REUBICADO [N. DE E. ANTES ARTICULO 11], P.O. 26 DE NOVIEMBRE DE 2010)
 
 ###### ARTICULO 10.
-
-El Departamento Contable-Administrativo para el cumplimiento de sus atribuciones contará con el apoyo de la Coordinación Contable y de la Coordinación de Materiales y Servicios, teniendo además las siguientes facultades:
-
-I.- Cumplir y vigilar el cumplimiento de las políticas relativas a la administración de los recursos humanos, financieros y materiales así como los referentes a los servicios prestados por el DIF;
-
-II.- Proponer los lineamientos, normas, sistemas y procedimientos para la administración de los programas a ejecución, así como para la contratación de servicios y adquisiciones del organismo;
-
-III.- Adquirir, proporcionar y suministrar los bienes y servicios necesarios para el desarrollo de los programas;
-
-IV.- Mantener actualizado el inventario de bienes muebles e inmuebles propiedad del organismo;
-
-V.- Aplicar las políticas y procedimiento para la conservación y mantenimiento de los bienes muebles e inmuebles del organismo;
-
-VI.- Implementar y proponer normas para el proceso de contabilidad general del organismo;
-
-VII.- Integrar, elaborar y mantener permanentemente actualizados la información sobre el estado financiero, el flujo de recursos y el avance de programas y presupuesto del organismo;
-
-VIII.- Efectuar estudios financieros necesarios para determinar el máximo rendimiento y liquidez para el organismo;
-
-IX.- Organizar e instrumentar cursos de capacitación administrativa para el personal del organismo;
-
-X.- Aplicar las políticas y procedimientos en materia de administración de recursos humanos del organismo;
-
-XI.- Elaborar nóminas y recibos de pago al personal; y
-
-XII.- Las demás facultades que le confieran las disposiciones legales y administrativas aplicables.
-
-### CAPITULO VI. DE LA SUPLENCIA DE TITULARES
-
-###### ARTICULO 11.
 
 Corresponde a los Departamentos, las siguientes facultades comunes:
 
@@ -271,11 +305,17 @@ XV.- Efectuar reuniones periódicas con los coordinadores de área para conocer 
 
 XVI.- Las demás facultades que le confieran las disposiciones legales y administrativas aplicables.
 
+### CAPÍTULO VI. DE LA SUPLENCIA DE TITULARES
+
+(REUBICADO [N. DE E. ANTES ARTICULO 12], P.O. 26 DE NOVIEMBRE DE 2010)
+
+###### ARTÍCULO 11.
+
+En las ausencias temporales del Director, por motivo de comisión, incapacidad o vacaciones, el despacho y resolución de los asuntos correspondientes al cargo, serán cubiertas por el Jefe de Departamento de Desarrollo Integral de la Familia que él designe, previa notificación por escrito, en la que se establezcan las atribuciones específicas para resolver sobre las materias que se le señalen y el ámbito que se determine en cada caso.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 13], P.O. 26 DE NOVIEMBRE DE 2010)
+
 ###### ARTÍCULO 12.
-
-En las ausencias temporales de los Jefes de Departamento, por motivo de comisión, incapacidad o vacaciones, el despacho y resolución de los asuntos correspondientes al cargo serán cubiertas por el servidor público que el Director designe, previa notificación por escrito, en la que se establezcan las atribuciones específicas para resolver sobre las materias que se le señalen y el ámbito que se determine en cada caso.
-
-###### ARTICULO 13.
 
 En las ausencias temporales de los Jefes de Departamento, por motivo de comisión, incapacidad o vacaciones, el despacho y resolución de los asuntos correspondientes al cargo serán cubiertas por el servidor público que el Director designe, previa notificación por escrito, en la que se establezcan las atribuciones específicas para resolver sobre las materias que se le señalen y el ámbito que se determine en cada caso.
 
@@ -314,3 +354,11 @@ VOCAL
 C. ANA BERMUDEZ DE OCHOA
 
 VOCAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Reglamento Interior entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
