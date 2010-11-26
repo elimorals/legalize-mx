@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proteccion-civil-para-el-estado-de-queretaro-7685"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-03"
-last_updated: "2006-12-08"
+last_updated: "2010-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 3 de diciembre de 1992.
 
@@ -67,7 +67,9 @@ III. Las acciones de educación, prevención, auxilio y apoyo que se realicen en
 
 Para los efectos de Protección Civil se entiende por:
 
-AREA DE PROTECCION: Las zonas del territorio de la entidad que han quedado sujetas al régimen de protección civil, para efectos de coordinar los trabajos y acciones de los sectores público, privado y social en materia de prevención, auxilio y apoyo ante la realización o eventualidad de una catástrofe o calamidad pública, o declaradas zonas de desastre.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+ATLAS ESTATAL DE RIESGOS: Sistema integral de información del Estado, en el cual están plasmados los peligros, vulnerabilidad y exposición, que permite realizar un análisis de los fenómenos perturbadores que se presentan y pudieran afectar a la población, sus bienes y su entorno.
 
 CONTINGENCIA: Situación de riesgo derivada de actividades humanas, tecnológicas o fenómenos naturales, que puedan poner en peligro la vida o la integridad de uno o varios grupos de personas o la población de determinado lugar.
 
@@ -81,9 +83,11 @@ PROTECCION: Conjunto de disposiciones y medidas tendientes a prevenir, a proporc
 
 PREVENCION: Conjunto de disposiciones y medidas anticipadas, que tienen por objeto evitar alguna catástrofe, desastre o calamidad pública.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 6.
 
-La aplicación de esta Ley y sus Reglamentos compete al Ejecutivo del Estado, al Sistema Estatal de Protección Civil y a los Sistemas Municipales de Protección Civil.
+La aplicación de esta Ley y sus Reglamentos compete al Gobernador del Estado, al Sistema Estatal de Protección Civil y a los Sistemas Municipales de Protección Civil.
 
 ###### ARTICULO 7.
 
@@ -95,9 +99,11 @@ II. Las Delegaciones y Representaciones en el Estado de Dependencias y Entidades
 
 III. Las organizaciones, corporaciones y grupos de voluntarios que se encuentren inscritos en el Registro Estatal de Protección Civil.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 8.
 
-El Ejecutivo del Estado a través del Consejo Estatal de Protección Civil, fomentará programas, estudios, investigaciones y otras actividades para desarrollar nuevos métodos, sistemas, equipos, dispositivos que permitan prevenir y controlar alguna catástrofe, desastre o calamidad pública y proporcionar a la comunidad los servicios que requiera para la atención de las necesidades generadas por la inminencia o presencia de un desastre.
+El Gobernador del Estado, a través del Consejo Estatal de Protección Civil, fomentará programas, estudios, investigaciones y demás actividades pertinentes para desarrollar nuevos métodos, sistemas, equipos, dispositivos que permitan prevenir y controlar alguna catástrofe, desastre o calamidad pública y proporcionar a la comunidad los servicios que requiera para la atención de las necesidades generadas por la inminencia o presencia de un desastre.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -105,9 +111,11 @@ El Ejecutivo del Estado a través del Consejo Estatal de Protección Civil, fome
 
 El Consejo Estatal, desarrollará programas educativos e informativos sobre los problemas reales y potenciales de la protección civil en el Estado, orientando a la población en esta materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 10.
 
-El Ejecutivo del Estado dictará los Decretos, Acuerdos y demás disposiciones que estime pertinentes para:
+El Gobernador del Estado dictará los Decretos, Acuerdos y demás disposiciones que estime pertinentes para:
 
 I. Crear órganos relacionados con las finalidades que persigue esta Ley, los cuales tendrán la estructura y funciones que sean acordes con sus objetivos;
 
@@ -143,9 +151,11 @@ IV. Los Representantes de los Poderes Legislativo y Judicial del Estado;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2003)</small>
 
-V. El Secretario de Gobierno y los Titulares de las Dependencias y Entidades de la Administración Pública Estatal, que por el ramo que atienden, les corresponda participar en los programas de prevención, auxilio y apoyo ante alguna posible calamidad.
+V. El Secretario de Gobierno y los Titulares de las Dependencias y Entidades de la Administración Pública Estatal, que por el ramo que atienden, les corresponda participar en los programas de prevención, auxilio y apoyo ante alguna posible calamidad;
 
-VI. Las Delegaciones Estatales de las Dependencias y Entidades de la Administración Pública Federal, que atiendan ramos de actividad relacionados con la ejecución de los programas de prevención, auxilio y apoyo;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+VI. Las Delegaciones de la Administración Pública Federal en el Estado, que atiendan ramos de actividad relacionados con la ejecución de los programas de prevención, auxilio y apoyo, por invitación y firma de convenios;
 
 VII. Las organizaciones de los sectores social y privado de la Entidad;
 
@@ -163,7 +173,11 @@ I. Apoyar al Sistema Nacional de Protección Civil, para garantizar, mediante un
 
 II. Coordinar las acciones de las Dependencias del Sector Público Estatal y Municipal, así como las de los organismos privados, para el auxilio a la población en el ámbito geográfico del Estado en que se prevea u ocurra algún desastre;
 
-III. Supervisar la elaboración y edición de Atlas Estatal de Riesgos;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+III. Supervisar la elaboración, edición y constante actualización del Atlas Estatal de Riesgos;
+
+El Atlas Estatal de Riesgos se integra con la información a nivel estatal y municipal. Consta de bases de datos, sistemas de información geográfica y herramientas para el análisis y la simulación de escenarios, así como la estimación de pérdidas por desastres.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -239,7 +253,9 @@ II. Dar cumplimiento a los Acuerdos del Consejo;
 
 III. Presentar a consideración del Consejo, la Iniciativa del Programa Estatal de Protección Civil y sus correspondientes subprogramas, reformas o adiciones;
 
-IV. Hacer pública la Declaratoria de Desastre formulada por el Ejecutivo Estatal, en cuyo caso deberá convocar de inmediato al Consejo instalando sin demora el Centro Estatal de Operaciones y vigilando el desarrollo de los trabajos correspondientes. Asimismo, hacer lo propio, cuando se trate de declaratorias del Ejecutivo Federal;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
+IV. Hacer pública la Declaratoria de Desastre formulada por el Gobernador del Estado, en cuyo caso deberá convocar de inmediato al Consejo, instalando sin demora el Centro Estatal de Operaciones y vigilando el desarrollo de los trabajos correspondientes. Asimismo, hacer lo propio, cuando se trate de declaratorias del Poder Ejecutivo Federal;
 
 V. Rendir un informe anual sobre los trabajos del Consejo;
 
@@ -503,9 +519,11 @@ Cuando la situación de emergencia lo amerite el Presidente del Consejo Estatal 
 
 ### CAPITULO VII. DE LA ACCION POPULAR
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 45.
 
-Cualquier persona tiene el derecho y la obligación de denunciar ante la autoridad estatal o municipal de su domicilio, todo hecho, acto u omisión que cause o pueda causar situaciones de peligro o emergencia para la población, por la inminencia o eventualidad de algún desastre o calamidad pública.
+Cualquier persona tiene el derecho y la obligación de denunciar ante la autoridad estatal o municipal que le corresponda, en razón de su domicilio, todo hecho, acto u omisión que cause o pueda causar situaciones de peligro o emergencia para la población, por la inminencia o eventualidad de algún desastre o calamidad pública.
 
 La denuncia popular, por consiguiente, es el instrumento jurídico que tiene el pueblo de Querétaro para evitar que se contravengan las disposiciones de esta Ley y su Reglamento.
 
@@ -882,3 +900,9 @@ El Reglamento Interior de la Secretaría de Seguridad Ciudadana, se adecuará a 
 ###### ARTICULO QUINTO.
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 26 DE NOVIEMBRE DE 2010.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
