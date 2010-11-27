@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-desarrollo-rural-43970"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-12"
-last_updated: "2005-12-17"
+last_updated: "2010-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO RURAL PARA EL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2010., EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 12 de febrero de 2005.
 
@@ -993,27 +995,45 @@ VIII. Las demás funciones que le asigne el Director de Infraestructura Rural.
 
 ### CAPITULO VII. DE LA COMISIÓN INTERNA DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 ###### Artículo 35.
 
-La Comisión Interna de la Secretaría, es un órgano integrado por las diversas unidades administrativas de la Secretaría que tiene por objeto participar y opinar en el desarrollo y evaluación de los programas de la dependencia, y del impacto social que produce, con el fin de elevar su eficacia y eficiencia.
+Al frente de la Unidad de Enlace legislativo habrá un Coordinador de Enlace legislativo, que dependerá orgánicamente del Secretario, para el estudio, planeación y despacho de los asuntos que le competen, se auxiliará del personal que le sea adscrito.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 36.
 
-En la Comisión Interna de la Secretaría, fungirá como presidente, el Secretario o la persona que él designe, y serán integrantes permanentes de la misma, los titulares de las unidades administrativas y los demás servidores públicos que determine el Secretario.
+El Coordinador de Enlace Legislativo tendrá las mismas atribuciones genéricas señaladas para los Directores Generales en el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 37.
 
-Dicha Comisión realizará las siguientes funciones:
+Corresponde al Coordinador de Enlace Legislativo:
 
-I. Promover y proponer, en su caso, políticas, estrategias y líneas de acción tendientes a eficientar la organización y funcionamiento de la Secretaría, abarcando tanto los aspectos normativos, como administrativos y operativos: todo ello, con la finalidad de incrementar la eficacia y transparencia de la dependencia y de sus servidores públicos;
+I. Auxiliar al Secretario en la conducción de las relaciones políticas del Poder Ejecutivo que, con motivos de procesos legislativos, se susciten con los partidos y agrupaciones políticos nacionales, con las organizaciones civiles y demás instituciones sociales;
 
-II. Diseñar propuestas tendientes a mejorar la comunicación intersecretarial para unificar criterios y aplicar las normas de manera coordinada, así como definir y proponer acciones administrativas de mejoramiento de la administración pública;
+II. En los términos de lo que dispone la fracción anterior, diseñar mecanismos de enlace y diálogo permanente con los partidos y agrupaciones políticos nacionales;
 
-III. Desarrollar estudios, análisis y proyectos sobre la factibilidad de crear, modificar o eliminar áreas administrativas en la Secretaría, a fin de racionalizar la estructura orgánica de la misma;
+III. Instrumentar líneas de acción para promover consensos y acuerdos entre el Poder Ejecutivo y los partidos y agrupaciones políticos nacionales y locales, que pueden traducirse en acciones legislativas;
 
-IV. Proponer los medios más adecuados para coordinar la actuación de la Secretaría, ante las demás dependencias que integran la Administración Pública Estatal; y
+IV. Auxiliar al Secretario en la conducción de las relaciones que, con motivo del desahogo de procedimientos legislativos, se susciten entre el Poder Ejecutivo y el Poder Legislativo y sus órganos y la Comisión Permanente;
 
-V. Las demás que determine el Secretario.
+V. En el ámbito de su competencia, establecer y desarrollar vínculos políticos institucionales con el Poder Legislativo, con sus órganos y con los grupos parlamentarios que lo integran;
+
+VI. Coadyuvar con la dependencia o entidad que corresponda, en el establecimiento de un programa integral y sistemático de los proyectos e iniciativas de carácter legislativo del Poder Ejecutivo, con el propósito de prever los tiempos adecuados para su presentación ante el Poder Legislativo;
+
+VII. Presentar ante el Congreso del Estado o ante su Comisión Permanente, en su caso, las iniciativas de ley o de decreto, en su caso, los nombramientos para su ratificación, así como las demás comunicaciones el (sic) titular del Poder Ejecutivo o las dependencias y entidades de la Administración Pública Estatal;
+
+VIII. Auxiliar al Secretario en la conducción de las relaciones del Poder Ejecutivo con el Poder Legislativo, dando seguimiento y reportando al superior jerárquico sobre el desahogo de los procedimientos legislativos previstos en la Constitución y en las leyes, así como rindiendo informes oportunos sobre el desarrollo de las sesiones ordinarias y extraordinarias del Congreso del Estado, así como de la Comisión Permanente durante los recesos de aquél;
+
+IX. En los casos de reformas, adiciones o modificaciones a la Constitución Política del Estado de Aguascalientes, dar seguimiento, por lo que hace a los municipios del Estado, al procedimiento previsto por el artículo 94 constitucional;
+
+X. Recibir, atender, tramitar y dar respuesta a los citatorios, solicitudes, requerimientos, puntos de acuerdo, comunicaciones y demás actos que, en términos previstos por la Constitución Política del Estado de Aguascalientes y de las leyes aplicables, formulen el Congreso del Estado, sus órganos o sus comisiones e integrantes, al Gobernador del Estado o a los titulares de las dependencias y entidades de la Administración Pública Estatal; y
+
+XI. Las demás que determine el Secretario, dentro de la esfera de sus facultades.
 
 ###### Artículo 38.
 
@@ -1062,3 +1082,15 @@ C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ, Gobernador Constitucional del Estado, Rúbr
 P.O. 17 DE DICIEMBRE DE 2005.
 
 ÚNICO.- En (sic) presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 27 DE NOVIEMBRE DE 2010.
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente de la publicación en el Periódico Oficial, órgano de Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Rural, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 12 de Febrero de 2005 y sus reformas y adiciones.; (sic) las Reformas y Adiciones a diversos artículos del Reglamento Interior de la Secretaría, publicado el día 17 de Diciembre de 2005, así como todas las disposiciones administrativas y normativas que se opongan al presente Reglamento Interior.
+
+TERCERO. Aquellos asuntos que al entrar en vigor el presente reglamento se encuentren en trámite a cargo de alguna de las unidades que se suprimen, modifican su denominación o cambio de adscripción dentro de la propia serán turnados para su conocimiento y resolución a la unidad administrativa que le corresponda, conforme a las disposiciones de este ordenamiento jurídico.
+
+CUARTO. En tanto se designa al titular de la Contraloría Interna, la Secretaría de la Contraloría General asumirá los asuntos que la Ley de Responsabilidades de los Servidores Públicos del Estado de (sic) confiere a las contralorías internas de las dependencias de la Administración Pública Estatal, conforme lo dispuesto en el artículo 15 de la Ley Orgánica del Poder Ejecutivo.
+
+QUINTO. En tanto se expidan el Manual General de Organización, manuales administrativos y demás disposiciones normativas complementarias a que se refiere este reglamento, el Secretario queda facultado para decidir lo conducente.
