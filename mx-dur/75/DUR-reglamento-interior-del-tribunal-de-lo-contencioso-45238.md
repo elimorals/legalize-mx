@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-del-tribunal-de-lo-contencioso-45238"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-08"
-last_updated: "2010-03-07"
+last_updated: "2010-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADA EN EL P.O. DE 28 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO EXTINGUIDO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 8 de mayo de 2005.
 
@@ -996,3 +998,53 @@ P.O. 7 DE MARZO DE 2010.
 PRIMERO.- Las presentes reformas al artículo 31 del Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Durango, entrarán en vigor a partir del día primero de febrero de dos mil diez.
 
 SEGUNDO.- Las reformas al artículo 38 del reglamento interior del tribunal de lo contencioso administrativo del estado de Durango, tendrán efectos retroactivos a partir del día primero de enero de dos mil diez.
+
+P.O. 28 DE NOVIEMBRE DE 2010.
+
+PRIMERO. Se extingue el Tribunal de lo Contencioso Administrativo del Estado de Durango, a partir de las 24:00 (veinticuatro) horas del día 14 (catorce) de diciembre del año 2010 (dos mil diez).
+
+SEGUNDO. En un plazo no mayor a treinta días posteriores a la publicación del presente decreto, el Congreso del Estado realizará las reformas correspondientes para regular la competencia jurisdiccional correspondiente del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado; asimismo, expedirá la legislación adjetiva y sustantiva de naturaleza fiscal y administrativa.
+
+TERCERO. A partir de las 00:01 hs. (cero horas con un minuto) del día 15 (quince) de diciembre del año 2010 (dos mil diez), se abroga el Código de Justicia Administrativa para el Estado de Durango, contenido en el Decreto Número 331 (trescientos treinta y uno) del 20 (veinte) de febrero del año 2004 (dos mil cuatro), publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 21 (veintiuno), de fecha 11 (once) de marzo del año 2004 (dos mil cuatro), exceptuando lo dispuesto en el artículo siguiente.
+
+CUARTO. En los asuntos en trámite interpuestos ante el Tribunal de lo Contencioso Administrativo del Estado de Durango hasta las 24:00 hs. (veinticuatro horas) del día 14 (catorce) de diciembre del año 2010 (dos mil diez), se seguirán aplicando las disposiciones normativas relativas del Código de Justicia Administrativa para el Estado de Durango, contenido en el Decreto Número 331 (trescientos treinta y uno) del 20 (veinte) de Febrero del año 2004 (dos mil cuatro), publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, Número 21 (veintiuno) de fecha 11 (once) de marzo del año 2004 (dos mil cuatro).
+
+Los asuntos y trámites pendientes de resolver por el Tribunal de lo Contencioso Administrativo del Estado de Durango, serán resueltos por el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
+
+QUINTO. El Titular del Poder Ejecutivo propondrá al Congreso del Estado para su aprobación, a los tres candidatos a Magistrados Numerarios y tres candidatos a Magistrados Supernumerarios para integrar el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, los que deberán ser designados a más tardar el día 14 (catorce) de diciembre del 2010 (dos mil diez) y tomar posesión del cargo el día 15 (quince) de diciembre del mismo año.
+
+Los actuales Magistrados en funciones del Tribunal de lo Contencioso Administrativo, concluirán su encargo a las 24:00 (veinticuatro) horas del día 14 (catorce) de diciembre de 2010 (dos mil diez), quienes tendrán derecho a un haber por retiro a que se refiere el artículo 337 del Código de Justicia Administrativa para el Estado de Durango.
+
+El procedimiento para la designación de Magistrados del Tribunal, por única vez, se realizará conforme a lo siguiente:
+
+1. El Gobernador del Estado, hará llegar al Congreso del Estado, la propuesta de candidatos a Magistrados numerarios y supernumerarios a más tardar el día 09 de diciembre de 2010.
+
+2. Recibida la propuesta, se turnará a la Comisión de Gobernación, la que previa comprobación de satisfacer los requisitos legales y constitucionales de los propuestos, formulará el dictamen respectivo, mismo que se presentará al Pleno, a más tardar el día 11 de diciembre de 2010; serán electos aquellos candidatos que obtengan la mayoría calificada de la Asamblea Plenaria.
+
+3. El dictamen al que se alude en el apartado anterior, será presentado en tres fórmulas, cada una con numerario y su respectivo supernumerario, votándose precisamente por fórmulas. Dado el caso de que alguna fórmula no obtuviere la mayoría calificada, se solicitará al Gobernador del Estado una nueva propuesta y la Comisión realizará las acciones previstas en el numeral 2 anterior dentro de las veinticuatro horas naturales siguientes; el Pleno resolverá dentro de igual término, si no se obtuviera mayoría calificada en la nueva votación, dicha circunstancia será hecha saber al Ejecutivo para los efectos de que el Gobernador del Estado, designe quien será Magistrado.
+
+4. Electos que sean los Magistrados del Tribunal, otorgarán la Protesta Constitucional ante el Congreso, tomando posesión el día 15 de diciembre de 2010, ante la presencia del Pleno del Tribunal Superior de Justicia.
+
+5. Las cuestiones no previstas en este artículo, serán resueltas por la Comisión de Gobernación del Congreso del Estado.
+
+SEXTO.- Los recursos humanos del Tribunal de lo Contencioso Administrativo serán transferidos al Poder Judicial del Estado de Durango. Los recursos financieros asignados al Tribunal de lo Contencioso Administrativo y los recursos materiales que hubiera adquirido por cualquier título, serán transferidos al Poder Judicial del Estado de Durango, de acuerdo al procedimiento y a las reglas establecidas en la Ley para la Entrega-Recepción de las Administraciones Públicas del Estado y Municipios de Durango, a más tardar el 15 de diciembre del 2010.
+
+SÉPTIMO.- Los asuntos y trámites pendientes de resolver por el Tribunal de lo Contencioso Administrativo, serán transferidos en los términos del artículo anterior y serán resueltos por el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
+
+OCTAVO.- Para la transferencia de los recursos y asuntos en trámite a que se refieren los artículos anteriores, en un plazo no mayor cinco días posteriores a la publicación del presente decreto, el Consejo de la Judicatura del Tribunal Superior de Justicia, designará un Comité Receptor para conocer previamente los recursos y responsabilidades que habrán de recibirse de manera formal. Durante el mismo plazo, el Tribunal de lo Contencioso Administrativo, designará un Comité de Enlace para que se coordine con el Comité Receptor para los efectos de la Entrega-Recepción.
+
+NOVENO.- El Comité Receptor a que se refieren los artículos precedentes, tendrá las facultades y funciones a que se refieren los artículos 37, 38 y 39 de la Ley para la Entrega-Recepción de las Administraciones Públicas del Estado y Municipios de Durango, sin perjuicio de ejercer dichas facultades directa y discrecionalmente, con el auxilio del órgano de control interno del Tribunal Superior de Justicia, cuando no se haya designado el Comité de Enlace, no se presente la colaboración necesaria para el desarrollo de sus funciones, o sea urgente, de acuerdo a los plazos establecidos en el presente decreto.
+
+DÉCIMO.- Los servidores públicos del Tribunal de lo Contencioso Administrativo, estarán obligados a brindar la información correspondiente y que habrá de formar parte de la Entrega-Recepción, a las personas que integren el Comité Receptor.
+
+DÉCIMO PRIMERO. El titular del Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de Administración, efectuará las reasignaciones presupuestales conducentes a efecto de transferir al Poder Judicial del Estado el presupuesto por ejercer a partir del día 15 (quince) de diciembre del año 2010 (dos mil diez), asignado al Tribunal de lo Contencioso Administrativo del Estado de Durango en la Ley de Egresos del Estado Libre y Soberano de Durango para el ejercicio fiscal del año 2010 (sic) diez), toda mención que se haga en ordenamientos legales respecto al Tribunal de lo Contencioso Administrativo, se entenderá hecha al Tribunal de Justicia Fiscal (dos mil diez) hasta en tanto no se autorice el presupuesto para el ejercicio fiscal 2011 (dos mil once).
+
+DÉCIMO SEGUNDO. A partir del día 15 (quince) de diciembre del año 2010 (dos mil (sic) y Administrativa del Poder Judicial del Estado de Durango.
+
+DÉCIMO TERCERO. El presente decreto entrará en vigor, según las siguientes prevenciones:
+
+I. Las disposiciones transitorias del presente decreto, entrarán en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, salvo la (sic) establecido en los Artículos Primero, Quinto y Octavo Transitorios.
+
+II. Las demás disposiciones del presente decreto entrarán en vigor el día 15 (quince) de diciembre del año 2010 (dos mil diez).
+
+DÉCIMO CUARTO. Se derogan todas las disposiciones legales que contravengan lo previsto en el presente decreto.
