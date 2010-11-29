@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-sistema-de-verificacion-anticontaminante-de-5441
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-26"
-last_updated: "2007-02-26"
+last_updated: "2010-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL SISTEMA DE VERIFICACION ANTICONTAMINANTE DE VEHICULOS AUTOMOTORES EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 2010.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2007.
 
@@ -123,6 +123,10 @@ XXVIII. SECRETARIA: Secretaria de Finanzas de Gobierno del Estado.
 
 XXIX. SISTEMA: El Sistema de Verificación Anticontaminante de Vehículos Automotores en el Estado de Aguascalientes.
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XXIX BIS. SISTEMA DE VERIFICACIÓN ANTICONTAMINANTE DE VEHÍCULOS AUTOMOTORES EN EL ESTADO DE AGUASCALIENTES: Conjunto de autoridades ambientales, concesionarios y de lineamientos organizados y coordinados que tienen como objetivo regular y controlar las emisiones provenientes de fuentes móviles que circulan en el Estado.
+
 XXX. SUPERVISION: Control documental, monitoreo, medición y evaluación de los parámetros y lineamientos para el correcto funcionamiento del Sistema.
 
 XXXI. TECNICO VERIFICADOR: Persona contratada por el concesionario o su representante legal, la cuál se encuentra debidamente acreditada ante el Instituto para llevar a cabo el procedimiento de verificación vehicular en el centro de verificación determinado.
@@ -143,7 +147,11 @@ XXXVIII. VEHICULOS HÍBRIDOS: Aquellos que utilizan para su funcionamiento compl
 
 XXXIX. VERIFICACION VEHICULAR: Medición de las emisiones de gases, partículas sólidas o líquidas a la atmósfera, provenientes de fuentes móviles.
 
-## TITULO SEGUNDO. DE LAS AUTORIDADES QUE INTERVIENEN EN EL SISTEMA DE VERIFICACION Y SUS ATRIBUCIONES
+## TITULO SEGUNDO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+AUTORIDADES QUE INTERVIENEN EN EL SISTEMA DE VERIFICACIÓN Y SUS ATRIBUCIONES
 
 ### CAPITULO UNICO
 
@@ -163,13 +171,19 @@ El Instituto tendrá las siguientes facultades y atribuciones:
 
 I. Dirigir y administrar el Sistema y el Programa de Verificación Vehicular;
 
-II. Otorgar, suspender, revocar, transferir y administrar las concesiones para el establecimiento de centros de verificación;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
-III. Autorizar el establecimiento, equipamiento y operación de centros de verificación, con base a las normas aplicables;
+II. Otorgar, suspender, revocar, transferir, modificar y administrar las concesiones para el establecimiento de centros de verificación;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+III. Autorizar y revisar el establecimiento, equipamiento y operación de los centros de verificación vehicular, con base en las facultades del Instituto;
 
 IV. Elaborar y actualizar el Programa de Verificación Vehicular así como publicar sus modificaciones en el Periódico Oficial del Estado;
 
-V. Proponer a la Secretaría las tarifas correspondientes al cobro por concepto de derechos de holograma y certificado de aprobación de verificación anticontaminante así como las correspondientes por concepto de concesión y revalidación del equipo de la misma para que sea incorporada a la propuesta de Ley de Ingresos del Estado a presentarse al Congreso del Estado para el ejercicio fiscal correspondiente;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+V. Determinar las tarifas correspondientes al cobro por concepto de derechos de holograma y certificado de aprobación de verificación anticontaminante así como las correspondientes por concepto de concesión y revalidación del equipo de la misma y proponerlas, para que sean incorporadas a la propuesta de Ley de Ingresos del Estado que el Ejecutivo Estatal presente ante el Congreso del Estado para el ejercicio fiscal correspondiente;
 
 VI. Determinar la ubicación de los centros de verificación en el Estado;
 
@@ -177,11 +191,15 @@ VII. Celebrar los acuerdos de coordinación con las autoridades federales, estat
 
 VIII. Determinar y coordinar las actividades así como establecer los tiempos para la operación del Sistema;
 
-IX. Operar un programa de certificación de verificación vehicular, para la realización de dictámenes, calibraciones, comprobación de gráficas de calibración y normatividad en caso de duda sobre lecturas obtenidas en centros de verificación autorizados;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+IX. Operar el programa de certificación de verificación vehicular para la realización de dictámenes, calibraciones, comprobación de gráficas de calibración y normatividad en caso de duda sobre lecturas obtenidas en centros de verificación autorizados;
 
 X. Realizar en coordinación con otras instituciones campañas de orientación al publico a través de medios masivos de comunicación, cursos, seminarios, conferencias o cualquier tipo de eventos en los que se aborden las cuestiones de materia objeto de este reglamento, con el objetivo de difundir y resolver cualquier tipo de duda ante la ciudadanía;
 
-XI. Coordinar con la Secretaría la actualización de los listados de placas de los vehículos del Estado, para conocer oportunamente quienes han cumplido con el Programa;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XI. Coordinar con la Secretaría la actualización de los listados de placas de los vehículos del Estado, para conocer oportunamente quienes han cumplido con la verificación vehicular;
 
 XII. Turnar a la Procuraduría los hechos violatorios de este Reglamento y de la comisión de alguna falta relacionada con la operación del Sistema, con el fin de que esta determine y actúe contra los presuntos responsables.
 
@@ -189,9 +207,31 @@ XIII. Autorizar o negar la entrega de documentación o papelería oficial a los 
 
 XIV Requerir la presentación de información, reportes o documentos a los concesionarios de los centros de verificación con motivo de las actividades de administración del Sistema;
 
-XV Evaluar y autorizar a los técnicos verificadores a través del procedimiento que determine el propio Instituto; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
-XVI. Determinar el costo del servicio por verificación vehicular.
+XV. Evaluar y autorizar a los técnicos verificadores a través del procedimiento y términos que determine el propio Instituto;
+
+XVI. Determinar el costo del servicio por verificación vehicular;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XVII. Suspender en forma preventiva la operación de equipos analizadores de gases y opacímetros en los Centros de Verificación;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XVIII. Autorizar los cambios de servicio y de modalidades de analizadores de gases y opacimetros de los centros;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XIX. Realizar visitas técnicas de supervisión a los centros de verificación con motivo de los asuntos derivados del presente Reglamento;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XX. Autorizar la prestación de servicios de suministro de equipos analizadores de gases, opacimetros y accesorios complementarios así como de mantenimiento de los citados equipos y llevar un registro de los proveedores en la materia; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XXI. Las demás que prevea el Reglamento y otras disposiciones aplicables.
 
 ###### ARTICULO 7°.
 
@@ -205,7 +245,9 @@ III. Llevar a cabo la inspección y vigilancia a los centros de verificación au
 
 IV. Limitar y, en su caso, suspender la circulación de vehículos automotores cuando éstos presenten contaminación ostensible o no hayan sido verificados conforme a lo establecido en el Reglamento;
 
-V. Aplicar las sanciones administrativas que se deriven del Reglamento;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+V. Aplicar las sanciones administrativas que se deriven de la Ley y del Reglamento en base a las Normas Oficiales Mexicanas en la materia y las normas técnicas que para su efecto pudiera emitir el Instituto;
 
 VI. Aplicar cualquiera de las medidas de seguridad que prevé la Ley, en aquellos supuestos en los que se cometan infracciones al Reglamento;
 
@@ -221,7 +263,13 @@ XI. Establecer convenios con la Secretaría para el cobro de multas impuestas po
 
 XII. Solicitar la intervención de las autoridades de Vialidad para que sean acatadas las disposiciones del Reglamento; y
 
-XIII. Calificar las infracciones derivadas de este Reglamento.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XIII. Calificar las infracciones derivadas de este Reglamento; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+XIV. Retener documentación oficial a los responsables de automotores hasta la comprobación de la verificación vehicular.
 
 ###### ARTICULO 8°.
 
@@ -241,7 +289,11 @@ V. Celebrar convenios de coordinación con el Instituto y/o la Procuraduría en 
 
 El Instituto y la Procuraduría estarán facultados en el ámbito de sus facultades y competencias para resolver los casos no contemplados en el Reglamento.
 
-## TITULO TERCERO. DE LA AUTORIZACION DEL SERVICIO DE VERIFICACION
+## TITULO TERCERO
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+AUTORIZACIÓN DEL SERVICIO DE VERIFICACIÓN
 
 ### CAPITULO I. De las concesiones
 
@@ -251,7 +303,9 @@ El Instituto determinará la cantidad de centros de verificación que deben oper
 
 Una vez hecha la Convocatoria Publica, los interesados presentaran ante el Instituto una solicitud por escrito para el otorgamiento de una concesión para el establecimiento de un centro de verificación, esto conforme a los lineamientos, fechas y plazos que este determine conteniendo la siguiente documentación:
 
-I. Nombre, denominación o razón social del solicitante, acreditando su personalidad jurídica y señalando su domicilio para oír y recibir notificaciones en el Estado; en el caso de personas morales, indicar nombre de la persona autorizada para dar seguimiento a la solicitud acreditando su personalidad jurídica para representarla, con la correspondiente copia certificada por Notario Público del poder el cual deberá ser bastante para realizar actos de administración.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+I. Nombre, denominación o razón social del solicitante, acreditando su personalidad jurídica y señalando su domicilio para oír y recibir notificaciones en el Estado; en el caso de personas morales, indicar nombre de la persona autorizada para dar seguimiento a la solicitud acreditando su personalidad jurídica para representarla, anexando la correspondiente copia certificada por Notario Público del poder, el cual deberá ser bastante para realizar actos de administración.
 
 II. Copia del Registro Federal de Contribuyentes.
 
@@ -265,31 +319,47 @@ VI. Descripción de la plantilla y profesiograma del personal técnico y adminis
 
 VII. Descripción del mobiliario en general propuesto para el centro de verificación.
 
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 VIII. Descripción del predio e instalaciones propuestas para la conformación del centro de verificación en base a un proyecto integral compuesto por:
 
-a) Plano de localización en la ciudad: En donde se indique en forma clara en que domicilio (calle, número exterior, número interior, colonia o fraccionamiento, código postal, localidad y municipio) se propone su establecimiento, incluyendo los nombres de las calles o avenidas que le darán acceso así como el sentido de circulación de las mismas.
+a) Plano de localización: En donde se indique en forma clara en que domicilio (calle, número exterior, número interior, colonia o fraccionamiento, código postal, localidad y municipio) se propone su establecimiento, incluyendo los nombres de las calles o avenidas que le darán acceso así como el sentido de circulación de las mismas.
 
 b) Plano de localización de la zona: En donde se indiquen las medidas lineales del predio propuesto y la superficie total del mismo.
 
 c) Plano arquitectónico o de funcionamiento: Indicando la superficie de cada área e instalación así como una clara representación de cada una de las actividades que en ellas se desarrollen.
 
-d) Copia certificada por Notario Publico de la Constancia de Alineamiento y Compatibilidad Urbanística expedida por las autoridades municipales competentes en la que se determine la autorización en el uso de suelo como Centro de Verificación Vehicular.
+d) Original del Informe de Compatibilidad Urbanístico a la Constancia de Alineamiento y Compatibilidad Urbanística expedida por las autoridades municipales competentes anexando copia simple para que previo cotejo sea devuelta, en la que se determine la autorización en el uso de suelo como Centro de Verificación Vehicular.
 
-e) Copia certificada por Notario Publico del Dictamen o Autorización en materia de Impacto Ambiental expedido por la autoridad ambiental competente.
+e) Original del Dictamen o Autorización en materia de Impacto Ambiental expedido por la autoridad ambiental competente, anexando copia simple para que previo cotejo sea devuelta.
 
-f) Copias certificadas por Notario Publico de los permisos y autorizaciones que sean requeridas para el funcionamiento del centro de verificación, expedidas en su caso por las autoridades federales, estatales o municipales competentes.
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+IX. Modalidad de medición de emisiones solicitada a través de la concesión gas L.P. y/o gasolina y/o diesel.
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+X. Las que en su caso determine el Instituto.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 10 BIS.- Cuando el escrito inicial no contenga los requisitos o no se acompañe de los documentos previstos en el artículo anterior, se le prevendrá por escrito y por una sola vez al interesado o, en su caso, al representante legal, para que dentro del término de cinco días hábiles siguientes a la notificación de dicha prevención subsane la falta. En el supuesto de que en el término señalado no se subsane la irregularidad, se resolverá que se tiene por no presentada dicha solicitud.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 11.
 
-Cumplidos los requisitos que señala el articulo 10° del Reglamento, el Instituto formulara un dictamen técnico en el que se determine cuales de las solicitudes reúnen las condiciones requeridas para realizar con calidad y profesionalismo el servicio de verificación de emisiones contaminantes en los vehículos automotores que circulen en la jurisdicción territorial del Estado y resolverá quien o quienes reúnen las mejores características en cuanto personal (sic) técnico y administrativo, instalaciones y ubicación del centro de verificación propuesto y en consecuencia a quienes se les otorgue la o las concesiones.
+Cumplidos los requisitos que señala el articulo 10 del Reglamento, el Instituto formulara un dictamen técnico en el que se determine cuales de las solicitudes reúnen las condiciones requeridas para realizar con calidad y profesionalismo el servicio de verificación de emisiones contaminantes en los vehículos automotores que circulen en la jurisdicción territorial del Estado en base a las mejores características en cuanto personal técnico y administrativo, instalaciones y ubicación del centro de verificación propuesto así como las mejores características técnicas de los equipos analizadores propuestos concordando con lo establecido en la Norma Oficial Mexicana correspondiente.
 
-Este dictamen técnico y la resolución correspondientes se emitirán y notificarán a los solicitantes de manera personal en los domicilios que hayan establecido en su solicitud dentro de los 30 días hábiles posteriores a la fecha limite de recepción de la documentación requerida.
+Este dictamen técnico y la resolución correspondiente se emitirán y notificarán a los solicitantes de manera personal en los domicilios que hayan establecido en su solicitud dentro de los 45 días hábiles posteriores a la fecha limite de recepción de la documentación requerida, en caso de no haber señalado domicilio se practicarán en el local del Instituto, fijándose una copia del acta relativa en los estrados, el mismo día en que se hayan practicado.
 
 ###### ARTICULO 12.
 
 El Instituto al dictaminar positivamente la solicitud, entregará al interesado el documento que haga oficial el otorgamiento de la concesión para el establecimiento de un centro de verificación en el Estado y las condiciones de cumplimiento de la misma a las que deberá sujetarse.
 
-Una vez entregado el documento mencionado en el párrafo anterior, para establecer, equipar y operar un centro de verificación, el concesionario tiene la obligación de iniciar con la operación del Centro de Verificación en un término máximo de un año a partir de la expedición de la Concesión con las especificaciones establecidas en el Reglamento, todo esto independientemente de tener la obligación de cubrir los derechos establecidos en el articulo 15 del reglamento, en caso de no iniciar la operación en el plazo establecido anteriormente será revocada la concesión en mención.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+Una vez entregado el documento mencionado en el párrafo anterior, para establecer, equipar y operar un centro de verificación en base a las características propuestas, el concesionario tiene la obligación de iniciar con la operación del Centro de Verificación en un periodo de 3 meses a un año o lo que determine la convocatoria correspondiente a partir de la expedición de la Concesión con las especificaciones establecidas en el Reglamento, todo esto independientemente de tener la obligación de cubrir los derechos establecidos en el articulo 15 del reglamento; en caso de no iniciar la operación en el plazo establecido anteriormente será revocada la concesión en mención.
 
 Si transcurrido el plazo señalado en el párrafo anterior, no se hubiere iniciado la operación del centro de verificación de que se trate, la concesión otorgada será revocada.
 
@@ -301,15 +371,19 @@ Al dictaminar negativamente la solicitud, el Instituto notificara al interesado 
 
 Otorgada la concesión, el interesado dispondrá de 20 días hábiles para entregar una fianza que garantice ante el Instituto el buen desempeño de los servicios, la atención de una eventualidad relacionado con algún incumplimiento o sanción derivada de la aplicación del Reglamento y el resguardo de la papelería oficial a nombre del Instituto. La fianza deberá ser extendida por una institución afianzadora autorizada por la Comisión Nacional de Seguros y Fianzas por la cantidad equivalente a 2000 días de salario diario mínimo general vigente en la zona económica que corresponde al Estado.
 
-La fianza deberá renovarse y actualizarse anualmente en forma obligatoria a partir de la fecha del otorgamiento de la concesión.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+La fianza deberá renovarse y actualizarse anualmente en forma obligatoria, previendo el concesionario que en ningún momento deberá la concesión estar sin dicha garantía a partir de su otorgamiento en los términos de la concesión y de este reglamento, en caso de incumplimiento del concesionario le será revocada la concesión.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 15.
 
-El interesado deberá cubrir ante el Instituto, los derechos iniciales de concesión, cuyo monto será determinado de acuerdo a la Ley de Ingresos del Estado para el ejercicio fiscal correspondiente, pago que no deberá ser menor a 200 días de salario diario mínimo general vigente en la zona económica a que corresponda el Estado por equipo autorizado para ser instalado.
+El interesado deberá cubrir ante el Instituto, los derechos iniciales de concesión, cuyo monto será determinado de acuerdo a la Ley de Ingresos del Estado para el ejercicio fiscal correspondiente, pago que no deberá ser menor a 680 días de salario diario mínimo general vigente en la zona económica a que corresponda el Estado por equipo autorizado para ser instalado.
 
-La concesión causará derechos anuales de renovación de (sic) los cuales deberán ser pagados anualmente a más tardar el último día hábil del mes de marzo de cada año en base a lo que señale la Ley de Ingresos del Estado de Aguascalientes para el ejercicio que corresponda no debiendo ser menor a 100 días de salario diario mínimo vigente en la zona económica que corresponde al Estado.
+Asimismo la concesión causará derechos anuales de renovación de los cuales deberán ser pagados anualmente a más tardar el último día hábil del mes de marzo de cada año en base a lo que señale la Ley de Ingresos del Estado de Aguascalientes para el ejercicio que corresponda no debiendo ser menor a 100 días de salario diario mínimo vigente en la zona económica que corresponde al Estado por equipo autorizado.
 
-En caso de incumplimiento en el pago de los derechos anuales de concesión, esto se considerará como una falta grave, haciéndose el concesionario sujeto a la aplicación de las sanciones establecidas en el Titulo Sexto del Reglamento.
+En caso de incumplimiento en el pago de los derechos anuales de concesión o concepto de derechos iniciales, esto se considerará como una falta grave, haciéndose el concesionario sujeto a la aplicación de las sanciones establecidas en el Titulo Sexto del Reglamento.
 
 ###### ARTICULO 16.
 
@@ -323,11 +397,15 @@ La concesión para el establecimiento de un centro de verificación otorgada por
 
 Las concesiones sólo podrán transferirse en los siguientes casos:
 
-a) Por causa de muerte del concesionario, a favor de una persona física que el concesionario haya designado entre sus familiares directos, haciéndolo de conocimiento del Instituto, debiendo ser por escrito comprobando plenamente su relación familiar directa y con anterioridad al fallecimiento, cuyo titular en consecuencia, podrá reconocer ante el Instituto el derecho como beneficiario del mismo, debiendo realizar los trámites correspondientes ante el Instituto siempre y cuando cumpla con los requisitos establecidos en el reglamento;
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
-b) Por voluntad expresa en vida del concesionario a un familiar directo mediante acto protocolario ante Notario Público en escritura publica, debiendo ser presentada ante el Instituto en original o copia certificada en conjunto con la solicitud por parte del Concesionario, posteriormente podrá transferirse siempre y cuando cumpla con los requisitos previstos en el reglamento y a juicio del Instituto;
+a) Por causa de muerte del concesionario, a favor de una persona física que el concesionario haya designado entre sus familiares directos que pueden ser descendientes, cónyuge, ascendientes o parientes colaterales dentro del cuarto grado, haciéndolo de conocimiento del Instituto, debiendo ser por escrito mediante acto protocolario ante Notario Público en escritura pública comprobando plenamente su relación familiar directa y su presentación con anterioridad al fallecimiento, cuyo posible titular en consecuencia, podrá reconocer ante el Instituto el derecho como beneficiario del mismo, debiendo realizar los trámites correspondientes ante el Instituto siempre y cuando cumpla con los requisitos establecidos en el reglamento.
 
-c) Por comprobada incapacidad física y/o de ejercicio del concesionario, en cuyo caso podrá transmitirse los derechos de la concesión previos trámites ante el Instituto a un familiar directo que designe el concesionario o su representante legal en caso de incapacidad de ejercicio a través de escritura publica en original o copia certificada en donde sea manifestada la pretensión.
+b) Por voluntad expresa en vida del concesionario a un familiar directo mediante acto protocolario ante Notario Público en escritura publica, debiendo ser presentada ante el Instituto en original o copia certificada en conjunto con la solicitud por parte del Concesionario, posteriormente podrá transferirse siempre y cuando cumpla con los requisitos previstos en el reglamento y a juicio del Instituto.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+c) Por comprobada incapacidad física y/o de ejercicio del concesionario, en cuyo caso podrá transmitirse los derechos de la concesión previos trámites ante el Instituto a un familiar directo que designe el concesionario o su representante legal en caso de incapacidad de ejercicio a través de escritura publica en original o copia certificada del documento en donde sea manifestada la pretensión.
 
 d) Cuando se establezca por sentencia ejecutoriada mediante juicio sucesorio, la declaración de herederos y la persona física a la cual se le hayan adjudicado los derechos sobre la concesión, deberá la persona designada cumplir con los requisitos establecidos en el reglamento; en el caso de que no se haya designado persona física específica para la adjudicación de tales derechos en un tiempo considerable a juicio del Instituto, se procederá a revocar dicha concesión por el Instituto.
 
@@ -418,6 +496,32 @@ El Instituto en ambos casos procederá a realizar la dictaminación técnica de 
 Una vez aprobada la dictaminación técnica, el Instituto procederá a resolver en forma definitiva sobre la cesión de la concesión al nuevo concesionario en los términos del Reglamento; en dicha resolución se establecerán las condicionantes a que deberá sujetarse para la prestación del servicio de verificación vehicular.
 
 Un concesionario de centro de verificación autorizado no podrá ser titular en ningún caso de más de 2 concesiones en forma simultánea.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 20 BIS.- Los concesionarios que pretendan modificar el domicilio del centro de verificación a su cargo deberán cubrir los siguientes requisitos:
+
+a) Carta solicitud signada por el concesionario titular, en la cuál manifieste las razones que justifiquen el cambio de domicilio.
+
+b) Copia certificada del documento que acredite el vínculo legal del concesionario titular con el inmueble propuesto para el cambio de domicilio.
+
+c) Descripción del predio e instalaciones propuestas para la conformación del centro de verificación conforme a un proyecto integral compuesto por:
+
+c.1) Plano de localización: En donde se indique en forma clara en que domicilio (calle, número exterior, número exterior (sic), colonia o fraccionamiento, código postal, localidad y municipio) se propone su establecimiento, incluyendo los nombres de las calles o avenidas que le darán acceso así como el sentido de circulación de las mismas.
+
+c.2) Plano de localización de la zona: En donde se indiquen las medidas lineales del predio propuesto y la superficie total del mismo.
+
+c.3) Plano arquitectónico o de funcionamiento: Indicando la superficie de cada área e instalación así como una clara representación de cada una de las actividades que en ellas se desarrollen.
+
+d) Copia simple y original para cotejo de la Constancia de Alineamiento y Compatibilidad Urbanística expedida por las autoridades municipales competentes en la que se determine la autorización en el uso de suelo como Centro de Verificación Vehicular.
+
+e) Copia simple y original para cotejo del Dictamen de Impacto Ambiental expedido por la autoridad ambiental competente.
+
+El Instituto procederá a realizar la dictaminación técnica y legal de la solicitud presentada en los términos del artículo 26 del Reglamento para la prestación del servicio de verificación vehicular en el sitio propuesto, para lo cuál, podrá solicitar aclaraciones o rectificaciones en un plazo máximo de 10 días hábiles contados a partir de la fecha de solicitud, concediendo al concesionario un plazo de 5 días hábiles para su presentación, con el apercibimiento de que, en caso de no hacerse en el plazo y en las condiciones señaladas, se le tendrá por negada la solicitud.
+
+El Instituto podrá realizar visitas técnicas para corroborar la veracidad de la información que el concesionario presente.
+
+Una vez integrado el expediente, el Instituto procederá a emitir la resolución correspondiente en un plazo máximo de 20 días hábiles contados a partir de la fecha de admisión de la solicitud; en la misma, el Instituto establecerá los términos y condicionantes que deberá considerar el concesionario para llevar a cabo el cambio de domicilio.
 
 ###### ARTICULO 21.
 
@@ -523,6 +627,10 @@ d) Teléfono.
 
 e) Fax.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+f) Internet para equipo analizador y área de oficinas.
+
 C) SEÑALAMIENTOS: Los señalamientos deberán contemplar las características y especificaciones del Manual de Imagen que para su efecto establezca el Instituto, considerando los siguientes rubros:
 
 a) Identificación del centro de verificación, indicando:
@@ -561,6 +669,10 @@ g) Equipo de fotocopiado.
 
 h) Buzón de quejas y sugerencias.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+i) Equipo de cómputo fijo o portátil así como de impresión.
+
 VII. Mantener las instalaciones limpias y las paredes del centro de verificación deberán estar pintadas o cubiertas con lonas con los colores e imágenes que indique el Manual de Imagen; y
 
 VIII. Cumplir con las medidas que establezca la Ley de Salud vigente.
@@ -571,9 +683,11 @@ El centro de verificación deberá estar destinado exclusivamente para la presta
 
 ### CAPITULO III. De las Unidades Móviles
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 28.
 
-Las instalaciones para prestar el servicio de verificación de emisiones de automotores en domicilios itinerantes se denominarán Unidades Móviles de Verificación Vehicular, debiendo reunir las siguientes características, además de operar según lo indicado en el programa de verificación vehicular para unidades móviles:
+Los equipos para prestar el servicio de verificación de emisiones de automotores en domicilios itinerantes se denominarán Unidades Móviles de Verificación Vehicular, debiendo reunir las siguientes características, además de operar según lo indicado en el programa de verificación vehicular para unidades móviles:
 
 I. Deberá contarse con un vehículo automotor en condiciones de operación, mecánicas, eléctricas y estructurales óptimas para la instalación y transporte del equipamiento para el servicio de verificación; dicho vehículo deberá ser rotulado conforme a los colores y figuras que para su efecto expida el Instituto en el Manual de Imagen para los Centros de Verificación.
 
@@ -601,6 +715,10 @@ VI. Cumplir con las medidas que establezca la Ley de Vialidad vigente.
 
 VII. Estar destinado para el uso exclusivo de la verificación vehicular.
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Contar con servicio de Internet inalámbrico eficiente.
+
 ### CAPITULO IV. Del Equipo para la Verificación
 
 ###### ARTICULO 29.
@@ -611,9 +729,11 @@ Los centros de verificación contarán para el servicio de vehículos con motor 
 
 Para autorizar el servicio de verificación de vehículos con motor de combustión a diesel, los centros de verificación deberán contar con uno o varios aparatos medidores de opacidad de humos, un tacómetro para la medición de revoluciones y calculo de flujo sino no estará integrado al opacímetro y los accesorios respectivos, como sondas y filtros para la toma de partículas contaminantes. Los equipos de verificación deberán contar con una computadora e impresora integrada a fin de garantizar la veracidad de las mediciones realizadas y la entrega inmediata del certificado y holograma o reporte técnico de rechazo según corresponda. Dichos equipos deberán contar con la tecnología más avanzada, siendo autorizados por el Instituto antes de su adquisición y a propuesta del concesionario.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 31.
 
-Los centros de verificación deberán en un plazo máximo de 2 años a partir de la fecha de publicación del Reglamento contar con el equipo y sistemas para realizar la verificación vehicular mediante prueba dinámica con dinamómetro de carga variable para medir y reportar las emisiones de óxidos de nitrógeno (NOx), Hidrocarburos (HC), Monóxido de Carbono (CO), Bióxido de Carbono (CO2) y Oxígeno (O2).
+Los centros de verificación deberán contar en un plazo máximo de 1 año a partir de la fecha de publicación del presente Reglamento en el Periódico Oficial del Estado con los equipos y sistemas para realizar la verificación vehicular de automotores que funcionan con gasolina, gas L.P., gas natural o una combinación de estos mediante prueba dinámica con dinamómetro de carga variable para medir y reportar las emisiones de Óxidos de Nitrógeno (NOx), Hidrocarburos (HC), Monóxido de Carbono (CO), Bióxido de Carbono (CO2) y Oxígeno (O2).
 
 ###### ARTICULO 32.
 
@@ -623,7 +743,9 @@ Los equipos de verificación a que se refiere el presente Capitulo, deberán ser
 
 Queda prohibido a los concesionarios utilizar en los centros de verificación equipos de verificación adquiridos como reconstruidos o usados en contravención al artículo 32 del Reglamento.
 
-### CAPITULO V. Del servicio de Mantenimiento y calibración a los Equipos de Verificación
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO V. Del Servicio de Mantenimiento y Calibración a los Equipos de Verificación
 
 ###### ARTICULO 34.
 
@@ -633,9 +755,11 @@ El concesionario tendrá la obligación de garantizar en todo momento la calidad
 
 Cuando el plazo de garantía del equipo de verificación haya fenecido, el concesionario estará obligado a contratar oportunamente una póliza de mantenimiento con el proveedor del equipo indicado o con otra empresa que tenga capacidad comprobada para prestar el servicio, debiendo apegarse a la normatividad vigente y entregar copia de la póliza al Instituto.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 36.
 
-El concesionario del centro de verificación tendrá la obligación de remitir el primer día hábil de cada semana al Instituto un reporte detallado del mantenimiento y reparación efectuada a los equipos de verificación en el caso de que se haya requerido algún servicio de esta naturaleza. Dicho informe deberá ser signado por la persona con capacidad técnica representante de la empresa que realizó los trabajos correspondientes.
+El concesionario del centro de verificación tendrá la obligación de remitir el primer día hábil de la semana inmediata posterior al Instituto un reporte detallado del mantenimiento y reparación efectuada a los equipos de verificación en el caso de que se haya requerido algún servicio de esta naturaleza. Dicho informe deberá ser signado por la persona con capacidad técnica representante de la empresa autorizada por el Instituto que realizó los trabajos correspondientes.
 
 ###### ARTICULO 37.
 
@@ -643,27 +767,163 @@ El Instituto está facultado para solicitar al concesionario las pruebas de mant
 
 Cuando el Instituto detecte equipos en deterioro o que no tengan un correcto funcionamiento ordenará la sustitución del mismo o su corrección inmediata, suspendiendo de inmediato y de forma temporal el servicio de verificación con el equipo detectado en mal estado; lo anterior sin demerito de lo establecido en el artículo 31 del reglamento.
 
-### CAPITULO VI. De los recursos humanos
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
-###### ARTICULO 38.
+ARTÍCULO 37 BIS.- Los proveedores que suministren para el Sistema equipos analizadores, opacimetros y otros accesorios complementarios así como los que brinden servicios de mantenimiento a los mismos deberán contar con autorización por escrito por parte del Instituto, para lo cuál los interesados deberán presentar y cubrir los siguientes requisitos:
 
-El concesionario en los centros de verificación en el Estado, deberá disponer de personal debidamente capacitado y autorizado previamente por el Instituto para realizar los procedimientos de verificación y atender las tareas diarias que implican desarrollar los programas correspondientes; también deberá contar con personal administrativo para las actividades relacionadas con el resguardo y manejo de papelería oficial, elaboración de informes, reportes y tramites varios y otras labores ante el Instituto y otras instituciones publicas o privadas, siendo el concesionario el único responsable de las obligaciones derivadas de las relaciones laborales que este contraiga con sus trabajadores, deslindando el concesionario al Instituto de toda responsabilidad laboral, civil, penal, administrativa o de cualquier índole a que pudiera dar lugar.
+I. Carta solicitud de autorización como proveedor de equipos y/o de servicios de mantenimiento dirigida al titular del Instituto signada por el solicitante en el caso de tratarse de una persona física o en su caso por el representante legal en el supuesto de tratarse de una personal moral;
+
+II. Curriculum vitae del solicitante así como de sus colaboradores en el cuál se incluyan comprobantes documentales que demuestren la capacidad en la prestación de los servicios indicados con anterioridad;
+
+III. En el caso de personas morales, presentar Curriculum Vitae de la empresa, incluyendo la curricula individual del personal involucrado en prestación de los servicios de mantenimiento así como copia simple, acompañada de original o copia certificada para cotejo y devolución del Acta Constitutiva, Registro Federal de Contribuyentes y Poder Notarial del Representante Legal de la empresa;
+
+IV. Descripción general de las instalaciones y equipo con que cuenta para la prestación de los servicios de mantenimiento;
+
+V. Copia fotostática simple, con original para cotejo y devolución, de las autorizaciones como prestador de servicios de mantenimiento de equipos analizadores de gases y opacimetros expedidos por otras entidades federativas o dependencias federales, en el caso que cuente con ellas;
+
+VI. Pago ante el Instituto por concepto de Registro como proveedor y/o prestador de servicios en mantenimiento de equipos analizadores y opacimetros, de conformidad con lo establecido en la Ley de Ingresos del Estado para el ejercicio fiscal correspondiente a la fecha de la solicitud.
+
+El Instituto podrá requerir por escrito al solicitante en un plazo máximo de 10 días hábiles posteriores a la fecha en que presente su solicitud, documentación e/o información complementaria necesaria para integrar de manera adecuada los requisitos establecidos conforme a las fracciones anteriores, otorgándole un plazo hasta de 20 días hábiles contados a partir de la fecha de la notificación del requerimiento para cumplimentar lo solicitado.
+
+Una vez integrada la solicitud de manera satisfactoria, el Instituto emitirá, debidamente fundada y motivada, la resolución correspondiente en un término que no excederá de 10 días hábiles a partir de la fecha en que se haya realizado la solicitud o en que se haya presentado la información complementaria o haya dado cumplimiento con el requerimiento correspondiente, en la cuál podrá:
+
+A) Otorgar la autorización para el suministro de equipos analizadores y opacimetros y/o para la prestación de servicios de mantenimiento en la materia;
+
+B) Negar la autorización solicitada cuando:
+
+a) No se cumplan con los requisitos establecidos en el presente artículo.
+
+b) Exista falsedad en la información presentada.
+
+c) Cualquier otra causa que considere el Instituto, fundando y motivando debidamente la resolución.
+
+El instituto difundirá en forma periódica el listado de los proveedores que suministren, den mantenimiento y servicios a los equipos analizadores de gases y opacímetros a través de medios electrónicos u otros que para su efecto sean determinados por el Instituto.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 37 BIS 1.- Los proveedores están obligados a:
+
+I. Suministrar equipos, programas de computo y servicios que cumplan con la normatividad correspondiente, proporcionando los manuales de operación correspondientes;
+
+II. Garantizar que el personal que efectúe la instalación, suministro, mantenimiento y/o calibración de los equipos analizadores y opacímetros esté debidamente capacitado, asi como dar aviso al Instituto de cualquier cambio de personal anexando currículo a efecto de autorización;
+
+III. Prestar, en su caso, los servicios de mantenimiento a los equipos instalados cerciorándose que estén calibrados y en óptimas condiciones y observar que estos cumplan con los requisitos que fije el Instituto con base en la normatividad ambiental aplicable;
+
+IV. Llevar un registro de las operaciones de mantenimiento y reparación de equipos y remitir cuando le sea requerido los informes necesarios al Instituto;
+
+V. Dar aviso al Instituto cuando dejen de prestar el servicio de suministro y mantenimiento equipos de analizadores, programas de computo y los que brindarán;
+
+VI. Dar, en su caso, una póliza de garantía a los centros de verificación sobre el cumplimiento por sus servicios prestados que incluya mano de obra y refacciones;
+
+VII. Dar aviso a las autoridades cuando algún centro de verificación se niegue a instalar el software vigente o cuando encuentra software o hardware distinto al suyo; y
+
+VIII. Informar al Instituto sobre el resultado de la auditoria de calibración de los equipos de verificación de emisiones vehiculares.
+
+En el caso de que los proveedores incumplan con las obligaciones señaladas en este artículo, el Instituto podrá eliminarlas del listado que para tal efecto expida y restringir sus servicios en el Sistema, independientemente de las sanciones de carácter ambiental, administrativo, civil o penal que para su efecto deriven del mencionado incumplimiento.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO VI. De los Recursos Humanos
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 38.
+
+El concesionario en los centros de verificación en el Estado, deberá disponer de personal debidamente capacitado y autorizado previamente por el Instituto para realizar los procedimientos de verificación y atender las tareas diarias que implican desarrollar los programas correspondientes; también deberá contar con personal administrativo para las actividades relacionadas con el resguardo y manejo de papelería oficial, elaboración de informes, reportes y tramites varios y otras labores ante el Instituto y otras instituciones publicas o privadas.
+
+El concesionario deberá contar con la cantidad de técnicos verificadores necesarios para la atención adecuada de los usuarios en el centro de verificación.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 39.
 
-El concesionario tiene la obligación de capacitar amplia y profesionalmente a su personal promoviendo que este asista en forma periódica a cursos de adiestramiento y actualización sobre el uso y manejo optimo de los equipos de verificación, en la correcta aplicación de las normas oficiales mexicanas en materia de emisiones vehiculares así como del Reglamento.
+El concesionario tiene la obligación de capacitar amplia y profesionalmente a su personal promoviendo que este asista en forma periódica a cursos de adiestramiento y actualización y los que en su momento establezca el Instituto sobre mecánica automotriz, uso de equipo electrónico, uso y manejo optimo de los equipos de verificación de emisiones así como de legislación, reglamentación y normatividad ambiental con la finalidad de la correcta aplicación de las normas oficiales mexicanas en materia de emisiones vehiculares así como del Reglamento.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 39 BIS.- Las personas que pretendan ser técnicos verificadores deberán cubrir los siguientes requisitos:
+
+a) Ser mayor de edad.
+
+b) Acreditar estudios mínimos de preparatoria terminada.
+
+c) Acreditar por escrito capacitación técnica y experiencia adecuada como mínimo en las siguientes materias:
+
+c.1) Mecánica Automotriz;
+
+c.2) Mantenimiento Preventivo y correctivo de vehículos automotores;
+
+c.3) Uso de equipo electrónico para uso automotriz;
+
+c.4) Procesos de verificación de emisiones contaminantes de vehículos automotores; y
+
+c.5) Acreditar tener conocimientos de legislación, reglamentación y normatividad ambiental en materia de verificación vehicular así como de otros conocimientos mediante la aprobación de la evaluación realizada por el Instituto establecida en el artículo 40 del presente Reglamento.
 
 ###### ARTICULO 40.
 
 El concesionario deberá solicitar por escrito al Instituto el alta de los técnicos verificadores que serán responsables de llevar a cabo labores de verificación vehicular, siendo el concesionario solidariamente responsable por los actos u omisiones de sus técnicos y personal.
 
-El concesionario deberá contar con la cantidad de técnicos verificadores necesarios para la atención adecuada de los usuarios en el centro de verificación.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
-El técnico verificador previo a su alta será evaluado por el Instituto en sus conocimientos y capacidades para llevar a cabo los procedimientos de verificación indicados por el Reglamento, así como en lo que indiquen las Normas Oficiales Mexicanas aplicables; el Instituto notificará por escrito al concesionario en un plazo máximo de cinco días hábiles contados a partir de la fecha de evaluación realizada si la persona propuesta como técnico verificador es o no aprobado.
+El técnico verificador será evaluado por el Instituto en sus conocimientos y capacidades para llevar a cabo los procedimientos de verificación indicados por el Reglamento, así como en lo que indiquen las Normas Oficiales Mexicanas aplicables; el Instituto notificará por escrito al concesionario en un plazo máximo de cinco días hábiles contados a partir de la fecha de evaluación realizada si la persona propuesta como técnico verificador es o no autorizado
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+En el caso de que la persona evaluada apruebe y sea autorizado como técnico verificador por parte del Instituto, este le expedirá un gafete de identificación con fotografía debidamente sellado y firmado por el titular del Instituto, el cuál deberá portar de manera obligatoria y visible siempre que se localice en las instalaciones del centro de verificación en el que sea autorizado; dicho gafete de identificación tendrá una vigencia máxima de 1 año y podrá ser renovado por el Instituto previa solicitud por escrito por parte del concesionario.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+El técnico verificador estará sujeto a los lineamientos y en su caso sanciones que para su efecto le establezcan el Instituto y la Procuraduría en el ámbito de sus facultades y en apego al presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO. 40 BIS.- Los técnicos verificadores tendrán las siguientes obligaciones:
+
+I. Aplicar en forma estricta los procedimientos para realizar la prueba de verificación de gases y de opacidad de los vehículos automotores conforme a los lineamientos establecidos en el Reglamento.
+
+II. Informar y orientar a los usuarios que acudan a los Centros de Verificación en relación a los aspectos que involucran el cumplimiento del presente Reglamento.
+
+III. Operar en forma óptima los equipos analizadores de gases y opacimetros en los centros de verificación.
+
+IV. Atender los lineamientos que para su efecto le sean determinados por el Instituto y la Procuraduría.
+
+V. Portar el uniforme determinado conforme al Manual de Imagen, así como portar el gafete de identificación que le sea proporcionado por el Instituto cuando lleve a cabo las actividades relacionadas con el Centro de Verificación en el que labore.
+
+VI. Informar al concesionario y en su caso, al Instituto o a la Procuraduría de las anomalías y acciones en contravención al presente Reglamento.
+
+VII. Atender las evaluaciones de sus capacidades que para su efecto instrumente el Instituto y;
+
+VIII. Asistir a las capacitaciones programadas por el Instituto y/o los concesionarios en lo relacionado con el desempeño de sus actividades en el Sistema.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO. 40 BIS 1.- A efecto de llevar a cabo una adecuada administración de la información generada por los procedimientos de evaluación de técnicos verificadores así como por el seguimiento de su desempeño en el Sistema, conformará un Padrón de Técnicos Verificadores autorizados en el cuál deberán registrarse de manera oportuna los datos, altas, bajas y demás movimientos que puedan generarse; el Padrón en mención deberá ser adecuadamente resguardado por el Instituto a través de los mecanismos que para su efecto este determine.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO. 40 BIS 2.- La autorización expedida por el Instituto perderá vigencia o en su caso procederá la revocación de la misma a los técnicos verificadores en los casos considerados conforme a los siguientes supuestos:
+
+a) Por solicitud escrita presentada por el concesionario o el técnico verificador, en la cuál deberán establecerse los motivos que originan dicha petición;
+
+b) Una vez que la vigencia del gafete expedido al técnico verificador conforme al artículo 40 del presente Reglamento haya caducado, lo cuál deberá ser verificado por el Instituto en el Padrón de Técnicos Verificadores establecido en el artículo 40 Bis 1;
+
+c) Al no aprobar de manera satisfactoria las evaluaciones periódicas establecidas en el artículo 41 del presente Reglamento; o
+
+d) Por notificación de la Procuraduría al Instituto al acreditarse al técnico de verificación faltas cometidas que contravengan los lineamientos establecidos en el presente Reglamento u otras disposiciones vigentes.
+
+Para tal efecto, el Instituto notificará por escrito a los interesados de la resolución que se expida en atención a los supuestos que establece el presente reglamento.
+
+De igual manera en los supuestos del inciso d) del presente artículo, la Procuraduría podrá establecer en la resolución que expida las amonestaciones y suspensiones temporales o definitivas a los técnicos verificadores que se les acredite la comisión de faltas en contravención a lo estipulado por el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 41.
 
-El Instituto podrá evaluar periódicamente los conocimientos y capacidades de los técnicos verificadores en los términos de lo previsto en el Artículo 39 del Reglamento.
+El Instituto podrá evaluar periódicamente los conocimientos y capacidades de los técnicos verificadores en los términos de lo previsto en los artículos 39 y 39 BIS del Reglamento.
+
+El Instituto determinará los mecanismos y procedimientos para llevar a cabo las evaluaciones, notificando de estos de manera oportuna a los concesionarios y a los técnicos verificadores que serán sujetos a esta obligación.
+
+Los resultados se harán de conocimiento a los interesados así como a la Procuraduría, pudiendo el Instituto generar la revocación de la autorización como técnico verificador de las personas que no aprueben de manera satisfactoria las evaluaciones que sean aplicadas, esto en apego al artículo 40 BIS 2 del presente Reglamento.
 
 ###### ARTICULO 42.
 
@@ -731,7 +991,9 @@ El concesionario estará obligado a prestar los servicios de verificación duran
 
 El Instituto, podrá autorizar a los concesionarios la prestación de servicios de verificación en días inhábiles y en horarios distintos al señalado anteriormente cuando lo considere conveniente en función a las actividades de difusión o eventos que para su efecto puedan ser programados.
 
-## TITULO QUINTO. DE LA VERIFICACION VEHICULAR
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+## TITULO QUINTO. DE LA VERIFICACIÓN VEHICULAR
 
 ### CAPITULO I. De los Vehículos Sujetos a la Verificación Vehicular
 
@@ -807,81 +1069,103 @@ Al inicio de todo periodo anual de verificación vehicular, el Instituto podrá 
 
 Todos los vehículos automotores a los que se refiere el Artículo 3° del Reglamento, deberán sujetarse a los calendarios de verificación de acuerdo con su uso y en su caso, del último dígito de la placa permanente del vehículo, con la excepción de lo que se disponga anualmente por parte del Instituto en el Programa de Verificación Vehicular para Unidades Móviles, según lo siguiente:
 
-I. VERIFICACION UNICA
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+I. VERIFICACIÓN ÚNICA
 
 La verificación única contempla un periodo anual y obliga a todos los vehículos automotores de uso particular de acuerdo con el siguiente calendario:
 
-ULTIMO DIGITO PERIODO DE ULTIMO DIGITO PERIODO
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
-DE DE LA PLACA VERIFICACION DE LA PLACA VERIFICACION
+ULTIMO DIGITO DE LA PLACA PERIODO DE VERIFICACIÓN
 
-1 ENERO 6 JULIO
+1 ENERO
 
-2 FEBRERO 7 AGOSTO
+2 FEBRERO
 
-3 MARZO 8 SEPTIEMBRE
+3 MARZO
 
-4 ABRIL 9 OCTUBRE
+4 ABRIL
 
-5 MAYO 0 NOVIEMBRE
+5 MAYO
 
-Rezagados 1 a 5 JUNIO Rezagados 6 a 0 DICIEMBRE
+6 JUNIO
 
-con multa con multa
+7 JULIO
+
+8 AGOSTO
+
+9 SEPTIEMBRE
+
+0 OCTUBRE
+
+Rezagados 1 al 0 con multa NOVIEMBRE Y DICIEMBRE
 
 II. DOS VERIFICACIONES
 
 Están obligados a verificar dos veces al año a todos los vehículos de uso intensivo determinados en los términos del Reglamento de acuerdo al siguiente calendario:
 
-ULTIMO DIGITO 1ER. PERIODO DE 2º PERIODO
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
-DE DE LA PLACA VERIFICACION VERIFICACION
+ULTIMO DIGITO 1ER. PERIODO DE 2° PERIODO DE VERIFICACIÓN
 
-1-2 ENERO JULIO
+DE LA PLACA VERIFICACIÓN
 
-3-4 FEBRERO AGOSTO
+1-2 ENERO JUNIO
 
-5-6 MARZO SEPTIEMBRE
+3-4 FEBRERO JULIO
 
-7-8 ABRIL OCTUBRE
+5-6 MARZO AGOSTO
 
-9-0 MAYO NOVIEMBRE
+7-8 ABRIL SEPTIEMBRE
 
-Rezagados JUNIO DICIEMBRE
+9-0 MAYO OCTUBRE
 
-con multa
+Rezagados con multa NOVIEMBRE Y DICIEMBRE
 
 III. TRES VERIFICACIONES
 
 Están obligados a verificar tres veces al año todos los vehículos automotores de transporte público y camiones de carga determinados en los términos del Reglamento de acuerdo al siguiente calendario:
 
-ULTIMO DIGITO 1ER PERIODO 2º PERIODO 3 ER. PERIODO
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
-DE DE LA PLACA
+ULTIMO DIGITO 1ER. PERIODO 2° PERIODO 3ER. PERIODO
 
-TODOS LOS DIGITOS FEBRERO JUNIO OCTUBRE
+DE LA PLACA
 
-Rezagados con multa MARZO JULIO NOVIEMBRE
+TODOS LOS FEBRERO Y JUNIO Y OCTUBRE Y
+
+DÍGITOS MARZO JULIO NOVIEMBRE
+
+Rezagados con ABRIL Y AGOSTO Y DICIEMBRE Y
+
+Multa MAYO SEPTIEMBRE ENERO
 
 En todos los casos, los automóviles rezagados podrán acudir a la verificación vehicular inmediatamente al mes siguiente que les corresponda sin necesidad de esperar al mes de rezagados, esto con el fin de evitar contaminación y que se acumulen multas por no verificar.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+Todo vehículo puede ser verificado de manera anticipada a las fechas que les corresponden y que están establecidas en los calendarios anteriores.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 62.
 
-Los usuarios de vehículos nuevos matriculados en el Estado podrán obtener el Holograma AUTO - NUEVO, para lo cual deberán efectuar una prueba de verificación vehicular completa en un plazo máximo de 180 días naturales posteriores a la fecha de facturación del vehículo, con la finalidad de recabar datos estadísticos.
+Los usuarios de vehículos nuevos matriculados en el Estado podrán obtener el Holograma AUTO - NUEVO, para lo cual deberán efectuar una prueba de verificación vehicular completa en un plazo no máximo de 180 días naturales posteriores a la fecha de facturación del vehículo, con la finalidad de recabar datos estadísticos.
 
-Los propietarios o poseedores de vehículos automotores que cumplan lo anterior, podrán solicitar la exención a la verificación vehicular por dos años en el caso de vehículos de uso particular, por 3 semestres en el caso de vehículos de uso intensivo y por tres cuatrimestres en el caso de unidades de transporte público colectivo y camiones de carga.
+Los propietarios o poseedores de vehículos automotores que cumplan lo anterior, podrán solicitar la exención a la verificación vehicular por 2 periodos en el caso de vehículos de uso particular, por 3 periodos en el caso de vehículos de uso intensivo y por 3 periodos en el caso de unidades de transporte público colectivo y camiones de carga, lo anterior en base al artículo 61 del presente Reglamento, para lo cuál deberán cubrir los siguientes requisitos:
 
-La vigencia del holograma iniciará a partir de la fecha de facturación del vehículo vendido en agencia o arrendado como nuevo, para lo cual deberán cubrir los siguientes requisitos:
+a) Realizar la prueba de verificación vehicular correspondiente, en el periodo que le corresponde conforme a lo establecido en el artículo 63 del presente Reglamento en los centros autorizados en el Estado cubriendo el costo por servicio determinado por el Instituto.
 
-a) Presentar copia simple de la factura o carta factura del vehículo, la cual deberá tener un periodo máximo de expedición de 180 días naturales, así como original y copia de la tarjeta de circulación del mismo.
+b) Presentar para la realización la verificación vehicular copia simple de la factura o carta factura del vehículo, la cual deberá tener un periodo máximo de expedición de 180 días naturales, así como original y copia de la tarjeta de circulación del mismo.
 
-b) Cubrir los derechos correspondientes por un monto equivalente a un servicio de verificación vehicular de conformidad con la tarifa emitida por el Instituto.
+c) Cubrir el pago correspondiente por un monto equivalente a un servicio de verificación vehicular de conformidad con la tarifa emitida por el Instituto.
 
-c) Realizar la prueba de verificación vehicular correspondiente, en los centros autorizados en el Estado.
+La vigencia de exención será a partir de la fecha de realización de la prueba de verificación vehicular antes mencionada.
 
-Cuando hayan transcurrido más de 180 días naturales de la fecha de expedición de la factura no será factible que opten por el certificado y holograma AUTO - NUEVO.
+Cuando hayan transcurrido más de 180 días naturales de la fecha de expedición de la factura no será susceptible de obtener certificado y holograma AUTO - NUEVO.
 
-El holograma AUTO - NUEVO es válido durante el periodo determinado de exención conforme al uso del vehículo sin importar si el vehículo automotor cambia de placa y/o propietario. Para estos casos una vez que el (sic) haya concluido el citado periodo, deberá verificar presentando de conformidad con los lineamientos y documentación establecidos en los artículos 63 y 76 del Reglamento.
+El holograma AUTO - NUEVO es válido durante el periodo determinado de exención conforme al uso del vehículo sin importar si el vehículo automotor cambia de placa y/o propietario. Para estos casos una vez que el haya concluido el citado periodo, deberá verificar presentando de conformidad con los lineamientos y documentación establecidos en los artículos 63 y 76 del Reglamento.
 
 ###### ARTICULO 63.
 
@@ -943,13 +1227,19 @@ Toda verificación causará el pago de la tarifa respectiva; cuando no se aprueb
 
 En el caso de que el usuario acuda a realizar cualquier intento de verificación después del primero y si verifica en el periodo próximo inmediato, podrá hacer uso del derecho mencionado en el presente Artículo haciéndose acreedor a la multa correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+La presente prestación en cuanto al plazo de su aplicación estará limitada hasta el día 31 de diciembre de cada periodo anual, fecha en la cuál el usuario podrá nuevamente a acudir a realizar la verificación del vehículo automotor sin costo en los casos aplicables. Una vez iniciado el siguiente periodo anual, la presente prestación quedará sin efecto, debiendo verificar su vehículo con la multa correspondiente al nuevo periodo.
+
 ###### ARTICULO 71.
 
 Será obligación del concesionario del centro de verificación tener a la vista del público la tarifa autorizada por el Instituto para los servicios de verificación.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 72.
 
-El centro de verificación tendrá la obligación de extender al usuario la factura que cumpla los requisitos fiscales y que ampare el pago por el servicio realizado. En su caso, también deberá entregar el recibo oficial de pago si se ha cubierto alguna multa por concepto de verificación vehicular.
+El centro de verificación tendrá la obligación de extender al usuario la factura que cumpla los requisitos fiscales y que ampare el pago por el servicio realizado. En su caso, también deberá entregar el comprobante oficial de pago si se ha cubierto alguna multa por concepto de verificación vehicular.
 
 ###### ARTICULO 73.
 
@@ -983,7 +1273,9 @@ Para acreditar la identificación, el usuario exhibirá ante el técnico del cen
 
 a) En el caso de vehículo nuevo, copia simple de la factura o carta factura del vehículo, así como original y copia de la tarjeta de circulación y/o constancia de alta vehicular del mismo.
 
-b) Para el caso de unidades verificadas con anterioridad: el vehículo deberá tener adherido el holograma correspondiente a la verificación inmediata anterior y entregar el certificado de aprobación sin alteraciones (sin tachaduras, enmendaduras o mutilaciones). En caso de verificaciones no aprobatorias se deberá entregar el reporte técnico de rechazo del período en curso. Asimismo, deberá presentar original y copia legible de la tarjeta de circulación vigente y/o constancia de alta vehicular y/o último pago de tenencia, conteniendo los datos del propietario, domicilio, marca, modelo, uso, número de motor y número de serie del vehículo.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+b) Para el caso de unidades verificadas con anterioridad, el vehículo deberá tener adherido el holograma correspondiente a la verificación inmediata anterior y entregar el certificado de aprobación sin alteraciones, sin tachaduras, enmendaduras o mutilaciones. En caso de verificaciones no aprobatorias se deberá entregar el reporte técnico de rechazo del período en curso por el concesionario al Instituto.
 
 c) Cuando el vehículo haya cambiado de placas se deberá presentar original y copia de:
 
@@ -1115,7 +1407,9 @@ d) Cuando no se haya presentado otra solicitud para el mismo padrón de la empre
 
 El Instituto determinará previo al inicio de cada año los Municipios, delegaciones y comunidades susceptibles a ser atendidos por unidades móviles mediante un Programa específico en la materia, estableciendo que centro de verificación estará autorizado para cada Municipio del Estado, en base a las características y capacidades de cada unidad móvil, buscando en todo momento la equidad.
 
-### CAPITULO III. De los Derechos y Obligaciones de los Usuarios
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO III. Derechos y Obligaciones De los Titulares de las Concesiones
 
 ###### ARTICULO 93.
 
@@ -1157,6 +1451,46 @@ X. En caso de cambio o reemplazo del cristal en el que se coloco el holograma de
 
 XI. Presentar el certificado de aprobación ante las autoridades que lo soliciten.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 94 BIS.- Son obligaciones de los titulares de las concesiones, las siguientes:
+
+I. Prestar con probidad y diligencia el servicio de verificación vehicular, así como la operación del centro autorizado;
+
+II. Realizar la verificación vehicular con apego a las Normas Oficiales Mexicanas, al presente Reglamento y a las demás disposiciones aplicables;
+
+III. Proporcionar a los usuarios el certificado de verificación y el holograma respectivo, o el reporte técnico de rechazo, según corresponda, de conformidad con lo previsto en el presente Reglamento;
+
+IV. Otorgar en forma gratuita al propietario o poseedor del vehículo, copia del certificado de verificación cuando le sea solicitado;
+
+V. Tener a la vista del público los documentos que lo acrediten como autorizado a prestar el servicio de verificación vehicular;
+
+VI. Contar con personal capacitado y acreditado ante el Instituto;
+
+VII. Acreditar ante el Instituto el equipo analizador de gases y, en su caso, el opacímetro, cuentan con las especificaciones técnicas que establecen las normas oficiales mexicanas;
+
+VIII. Realizar el mantenimiento necesario a los equipos analizadores de gases y, en su caso, al opacímetro, cumpliendo con lo establecido por las disposiciones aplicables;
+
+IX. Difundir, en coordinación con el Instituto y la Procuraduría, el Sistema, el Programa de Verificación Vehicular y los beneficios que genera su cumplimiento;
+
+X. Enviar en los términos establecidos por el Instituto la información del total de verificaciones realizadas mediante la forma y en el formato que este determine;
+
+XI. Utilizar el logotipo del Sistema, sin alterar el diseño y colores del mismo en los términos fijados por el Instituto;
+
+XII. Aplicar en forma estricta las tarifas señaladas en el Programa;
+
+XIII. Efectuar las calibraciones en los períodos establecidos por las disposiciones aplicables;
+
+XIV. Proporcionar al Instituto y a la Procuraduría toda la información digital contenida en los dispositivos de almacenamiento de información del equipo analizador de gases;
+
+XV. Exhibir a las autoridades competentes que así lo soliciten, los documentos y cualquier otra información necesaria y relacionada con la operación del Centro;
+
+XVI. Exhibir a la Procuraduría en las visitas de inspección que realice, el control de los certificados de verificación adquiridos, utilizados, cancelados o sobrantes del período respectivo;
+
+XVII. Permitir a la Procuraduría el desahogo de las visitas de inspección y vigilancia; y
+
+XVIII. Las demás que contemple el presente Reglamento y otras disposiciones aplicables.
+
 ### CAPITULO IV. Del Público en General
 
 ###### ARTICULO 95.
@@ -1171,7 +1505,9 @@ De toda queja reportada ante la Procuraduría, se integrara un expediente que co
 
 La persona que denuncie cualquier caso observado que represente violaciones al Reglamento, podrá solicitar que se mantengan sus datos personales en estricta confidencialidad, exceptuando aquellos en los que la Ley lo requiera.
 
-### CAPITULO V. De la Supervisión y Vigilancia a los Centros de Verificación
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+### CAPITULO V. Supervisión y Vigilancia A los Vehículos Automotores
 
 ###### ARTICULO 98.
 
@@ -1191,19 +1527,23 @@ Los inspectores debidamente acreditados por la Procuraduría que detecten confor
 
 La Procuraduría celebrará con otras dependencias y autoridades los Instrumentos Jurídicos necesarios para vigilar el estricto cumplimiento del Reglamento por todos los vehículos que circulen dentro de la jurisdicción del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 102.
 
-La Procuraduría esta facultada para detener y sancionar a los vehículos de combustión interna que circulan en el Estado emitiendo de forma ostensible humo negro o azul o que no porten holograma de la verificación correspondiente al periodo en curso de conformidad con la terminación de la placa.
+La Procuraduría esta facultada para detener, inspeccionar, sancionar y en su caso remitir a una pensión a los vehículos de combustión interna que circulan en el Estado emitiendo de forma ostensible humo negro o azul, que no porten holograma y/o el certificado de aprobación de la verificación o que no puedan comprobar en el momento de la detención haber realizado la verificación vehicular correspondiente al periodo en curso de conformidad con la terminación de la placa.
 
-La Procuraduría podrá por cuenta propia realizar la medición de emisiones de los vehículos que sean detenidos por emitir humo ostensiblemente o bien auxiliarse de un centro de verificación que deberá de cumplir con los lineamientos solicitados por la citada autoridad ambiental, para que proporcione los servicios indicados con antelación.
+La Procuraduría podrá por cuenta propia realizar la medición de emisiones de los vehículos que sean detenidos por emitir humo ostensiblemente o bien auxiliarse del centro de verificación más cercano al sitio de la detención, el cuál deberá de cumplir con los lineamientos solicitados por la citada autoridad ambiental, para que proporcione los servicios indicados con antelación; si derivado de los servicios proporcionados por el centro de verificación se estableciera un costo, este deberá ser pagado por el usuario el (sic) vehiculo detenido.
 
 ###### ARTICULO 103.
 
 La Procuraduría llevará a cabo operativos periódicos en la vía pública o en terminales de transporte público en coordinación con las Autoridades Viales y/o Policiales del Estado o los Municipios, a fin de comprobar el cumplimiento del Reglamento.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 104.
 
-Los inspectores autorizados por la Procuraduría podrán detener a los vehículos que contaminen ostensiblemente o no porten el holograma correspondiente al periodo vigente o infrinjan las disposiciones del Reglamento; para el caso en que no se porte el holograma correspondiente, se exceptúan de esta obligación los vehículos señalados en el artículo 66 del Reglamento.
+Los inspectores autorizados por la Procuraduría deberán detener a los vehículos que contaminen ostensiblemente o no porten el holograma correspondiente al periodo vigente o infrinjan las disposiciones del Reglamento; para el caso en que no se porte el holograma correspondiente, se exceptúan de esta obligación lo establecido en el artículo 66 del Reglamento.
 
 ###### ARTICULO 105.
 
@@ -1213,17 +1553,49 @@ I. Indicar al conductor que debe detener la marcha del vehículo y estacionarlo 
 
 II. Identificarse ante el conductor del vehículo mediante una acreditación oficial emitida por la Procuraduría;
 
-III. Informar al conductor del vehículo la causa de la detención y solicitar la tarjeta de circulación, el certificado de aprobación de bajas emisiones y una identificación oficial;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+III. Informar al conductor del vehículo la causa de la detención y solicitar la tarjeta de circulación, certificado de aprobación de verificación vehicular, la licencia de conducir o cualquier otra identificación oficial;
 
 IV. Llevar a cabo la revisión visual de las emisiones;
 
-V. Proceder a levantar la Boleta de Infracción, en original y copia, entregando la segunda al conductor. Los propietarios de los vehículos que se ubiquen en este supuesto contarán con un plazo de 10 días para someterlo al proceso de verificación;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
-VI. Remitir a la pensión municipal o estatal los vehículos que no acrediten haber cumplido con la indicación de someter su vehículo a la verificación vehicular y que hayan sido infraccionados previamente en términos de la fracción inmediata anterior, siendo necesario para su devolución el pago de la multa correspondiente;
+V. Proceder a levantar la Boleta de Infracción, en original y copia, entregando la segunda al conductor.
+
+El inspector podrá otorgar al infractor la opción para acudir en el mismo momento a realizar la verificación del vehículo, para esto el infractor deberá dejar al inspector la documentación oficial citada en la fracción III del presente artículo. Una vez que el conductor acredite haber realizado la verificación correspondiente el inspector procederá a la devolución de la documentación citada haciendo constar este hecho en la Boleta de Infracción;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+VI. Remitir a la pensión los vehículos que no acrediten haber cumplido con la verificación vehicular y cuyo conductor no deseé optar por el procedimiento establecido en el segundo párrafo de la fracción inmediata anterior, levantando la boleta de infracción, en original y copia entregando la segunda al conductor, levantando inventario del vehiculo;
 
 VII. El inspector entregará el original de la infracción a la Procuraduría para que ésta luego de oír al interesado, dicte la resolución correspondiente debidamente fundada y motivada;
 
-VIII. En caso de que se detecten vehículos con contaminación ostensible podrán ser retirados de la circulación y remitidos a la pensión municipal o estatal, siendo necesario para su devolución el pago de la multa. El infractor deberá comprobar en un término de 15 días hábiles que ha reparado el vehículo y estará obligado a exhibir ante la Procuraduría el certificado de verificación correspondiente.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+VIII. En caso de que se detecten vehículos con contaminación ostensible serán retirados de circulación y remitidos mediante grúa a la pensión, debiendo levantar las boletas de infracción y del inventario del vehículo, en original y copia, la primera para el patrullero y la segunda de cada boleta al conductor. Para liberar el vehículo el conductor deberá acudir a las oficinas de la Procuraduría y presentar su copia de la boleta de infracción, acreditar la propiedad de vehículo, credencial de elector y pagar la multa correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 105 BIS.- El titular de la Procuraduría o quién él designe, podrá otorgar al infractor la opción de trasladar el vehículo en grúa al taller de mantenimiento mecánico que éste último designe para realizar la reparación correspondiente, en donde deberá ser inmovilizado mediante la colocación de sellos oficiales colocados por personal de la Procuraduría. Para esto el infractor deberá pagar la multa correspondiente y firmar de un convenio con la Procuraduría en el que se establezcan los términos y condicionantes a las que se sujetará conforme a lo que indique el presente Reglamento. Al concluir la reparación el vehículo deberá ser llevado un centro de verificación para realizar la medición de emisiones contaminantes.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 105 BIS 1.- En aquellos casos en los que el infractor argumente falta de recursos para realizar la reparación del vehículo, el titular de la Procuraduría o quién él designe, podrá otorgar al infractor la opción de trasladar el vehículo a su domicilio debidamente acreditado, en donde deberá ser inmovilizado mediante la colocación de sellos oficiales colocados por personal de la Procuraduría. Además el infractor deberá pagar la multa y firmar un convenio donde se compromete a no circular el vehículo hasta que sea enviado mediante grúa al taller para su reparación y posterior verificación vehicular así como los términos y condicionantes a las que se sujetará conforme a lo que indique el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 105 BIS 2.- El infractor que opte por lo establecido en el artículo 105 BIS 1 del presente Reglamento deberá comprobar en un término de 15 días hábiles que ha reparado el vehículo y estará obligado a exhibir ante la Procuraduría el certificado de verificación correspondiente.
+
+El propietario o poseedor de un vehículo sancionado, una vez que haya pagado la multa y aprobado la verificación correspondiente, deberá presentar la siguiente documentación en la Procuraduría a fin de notificar el cumplimiento de la sanción impuesta:
+
+a) Boleta de infracción.
+
+b) Mostrar la tarjeta de circulación en original y entregar copia de la misma y/o copia de la factura correspondiente.
+
+c) Mostrar el certificado de aprobación vigente y entregar copia del mismo.
+
+d) Mostrar original del comprobante del pago de sanción y entregar copia del mismo.
 
 ###### ARTICULO 106.
 
@@ -1319,9 +1691,11 @@ Cuando el vehículo sancionado se presente a verificar y en su primer intento ob
 
 De obtener un resultado aprobatorio se le entregará el certificado correspondiente sellado con tinta con la leyenda "Sancionado" y se adherirá el holograma a un cristal del vehículo de forma visible.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 109.
 
-El propietario de un vehículo sancionado por emitir humo negro o azul contará con 15 días naturales para hacer las reparaciones necesarias y presentarlo a verificar nuevamente hasta obtener un resultado aprobatorio. En caso de no ser así, se hará acreedor a las sanciones establecidas en el Reglamento y en la legislación ambiental vigente.
+El propietario de un vehículo sancionado por emitir humo negro o azul contará con 15 días hábiles para hacer las reparaciones necesarias y presentarlo a verificar nuevamente hasta obtener un resultado aprobatorio. En caso de no ser así, se hará acreedor a las sanciones establecidas en el Reglamento y en la legislación ambiental vigente.
 
 El propietario o poseedor de un vehículo sancionado, una vez que haya pagado la multa y aprobado la verificación correspondiente, deberá presentar la siguiente documentación en la Procuraduría a fin de notificar el cumplimiento de la sanción impuesta:
 
@@ -1332,6 +1706,22 @@ b) Mostrar la tarjeta de circulación en original y entregar copia de la misma y
 c) Mostrar el certificado de aprobación vigente y entregar copia del mismo.
 
 d) Mostrar original del comprobante del pago de sanción y entregar copia del mismo.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+e) Boleta de infracción.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+f) Mostrar la tarjeta de circulación en original y entregar copia de la misma y/o copia de la factura correspondiente.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+g) Mostrar el certificado de aprobación vigente y entregar copia del mismo.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+h) Mostrar original del comprobante del pago de sanción y entregar copia del mismo.
 
 El propietario o poseedor de un vehículo sancionado podrá circular durante 15 días naturales contados a partir de la fecha en que le fue impuesta la sanción, para ser trasladado hacia un taller mecánico y/o a un centro de verificación autorizado. En caso de no cumplir con lo anterior y si es nuevamente detenido será remitido a una pensión municipal o estatal, por reincidencia
 
@@ -1369,13 +1759,23 @@ Serán acreedores y responsables directos del pago y cumplimiento de las sancion
 
 En el caso de personas morales, se considerará como responsable por el pago o cumplimiento de la sanción, quien se ostente como su propietario o representante legal.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 117.
 
 Las sanciones o multas que la Procuraduría puede imponer a los infractores del Reglamento serán las siguientes:
 
-I. Multa equivalente a 2 días de salario diario mínimo general vigente en el Estado a quién no verifique su vehiculo en el mes que le corresponde conforme al último digito de su placa y que acuda voluntariamente a realizar la verificación referida dentro del mes siguiente;
+I. Multa equivalente a 2 días de salario diario mínimo general vigente en el Estado a los propietarios de vehículos de uso particular que no verifiquen su vehículo en el mes que le corresponde conforme al último digito de su placa y que acudan voluntariamente a realizar la verificación referida.
 
-II. Multa equivalente a 5 días de salario diario mínimo general vigente en el Estado a quién no verifique su vehículo en el mes que le corresponde conforme al último dígito de su placa y que acuda voluntariamente a realizar la verificación referida en el mes de rezagados que le corresponda;
+La multa prevista en la presente fracción, se incrementará en un día de salario diario mínimo general vigente en el Estado por cada mes que transcurra entre la fecha en que el vehículo debió ser verificado y aquel en que se realice la verificación.
+
+El período máximo para el cobro de las multas señaladas en la presente fracción no podrá exceder de cinco años.
+
+II. Multa equivalente a 2 días de salario diario mínimo general vigente en el Estado a los propietarios de vehículos de uso intensivo, de transporte público y de camiones de carga que no verifiquen su vehículo en el mes que le corresponde conforme al último digito de su placa y que acudan voluntariamente a realizar la verificación referida.
+
+La multa prevista en la presente fracción, se incrementará en un día y medio de salario diario mínimo general vigente en el Estado por cada mes que transcurra entre la fecha en que el vehículo debió ser verificado y aquel en que se realice la verificación.
+
+El período máximo para el cobro de las multas señaladas en la presente fracción no podrá exceder de cinco años.
 
 III. Multa de 10 días de salario diario mínimo general vigente en el Estado a quien no hubiese verificado su vehículo en el periodo correspondiente y se presente voluntariamente en el próximo periodo de verificación;
 
@@ -1383,25 +1783,15 @@ IV. Multa de hasta 15 días de salario diario mínimo general vigente en el Esta
 
 V. Multa de hasta 20 días de salario diario mínimo general vigente en el Estado a quien no hubiese verificado su vehículo en 3 periodos consecutivos de verificación;
 
-VI. Multa de hasta 25 días de salario diario mínimo general vigente en el Estado a quien no hubiese verificado su vehículo en 4 o mas periodos consecutivos de verificación;
+VI. Multa de hasta 60 días de salario diario mínimo general vigente en el Estado a quien no hubiese verificado su vehículo en 4 o más periodos consecutivos de verificación;
 
-VII. Multa de hasta 10 días de salario mínimo general vigente en el Estado a los responsables de vehículos particulares que sean infraccionados por contaminación ostensible;
+VII. Multa de hasta 10 días de salario diario mínimo general vigente en el Estado a los responsables de vehículos particulares que sean infraccionados por contaminación ostensible;
 
-VIII. Multa de 15 días de salario mínimo general vigente en el Estado para los responsables de vehículos de uso intensivo que sean infraccionados por contaminación ostensible;
+VIII. Multa de hasta 15 días de salario mínimo general vigente en el Estado para los responsables de vehículos de uso intensivo que sean infraccionados por contaminación ostensible;
 
-IX. Multa de 20 días de salario mínimo general vigente en el Estado para los responsables de vehículos de transporte público y/o camiones de carga que sean infraccionados por contaminación ostensible;
+IX. Multa de hasta 20 días de salario mínimo general vigente en el Estado para los responsables de vehículos de transporte público o de camiones de carga que sean infraccionados por contaminación ostensible;
 
-X. Multa de 20 días de salario diario mínimo general vigente en el Estado a quien no porte el holograma de verificación de contaminantes adherido en su vehículo y acredite haber realizado la verificación;
-
-XI. Multa de 2 días de salario diario mínimo general vigente en el Estado a quien porte el holograma de verificación vigente con daños o alteraciones;
-
-XII. Multa de 20 días salario (sic) diario mínimo general vigente en el Estado para los responsables de vehículos de uso particular infraccionados previamente por contaminación ostensible que haciendo caso omiso a la indicación de solucionar el problema de contaminación ostensible, se encuentren en circulación;
-
-XIII. Multa de 30 días salario (sic) diario mínimo general vigente en el Estado para los responsables de vehículos de uso intensivo infraccionados previamente por contaminación ostensible que haciendo caso omiso a la indicación de solucionar el problema de contaminación ostensible y aprobar la verificación vehicular, se encuentren en circulación;
-
-XIV. Multa de 40 días salario (sic) diario mínimo general vigente en el Estado para los responsables de vehículos de transporte público y/o camiones de carga infraccionados previamente por contaminación ostensible que haciendo caso omiso a la indicación de solucionar el problema de contaminación ostensible y aprobar la verificación vehicular, se encuentren en circulación.
-
-Las multas son acumulables en el caso de vehículos que sean detenidos por personal de la Procuraduría u otra autoridad competente.
+El titular de la Procuraduría, en uso de la facultad que le concede la fracción II del artículo 175 de la Ley, podrá reconsiderar los montos señalados en el presente artículo tomando en consideración las condiciones económicas de cada persona.
 
 ###### ARTICULO 118.
 
@@ -1413,9 +1803,11 @@ Los propietarios o poseedores de los vehículos automotores que no hayan sido ve
 
 Por lo anterior, a los usuarios que soliciten la verificación de sus unidades presentando como documento de respaldo un oficio expedido por la Procuraduría únicamente podrán verificar y aprobar dentro del plazo señalado en los oficios emitidos. En caso contrario, se harán acreedores a la multa correspondiente.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 120.
 
-Todo vehículo que se encuentre en los supuestos precisados en el artículo 3º del Reglamento que circule en el Estado y emita humos ostensiblemente, será detenido con el auxilio de la fuerza pública o la autoridad vial competente en los términos del artículo 105 del Reglamento y remitido a una pensión municipal o estatal.
+La Procuraduría podrá solicitar el auxilio de la fuerza pública o de la autoridad vial competente, para detener y remitir a la pensión los vehículos que circulen en el Estado y emitan humos ostensiblemente o no porten el holograma correspondiente al periodo vigente o infrinjan las disposiciones del Reglamento.
 
 ###### ARTICULO 121.
 
@@ -1507,6 +1899,10 @@ XV. La operación a puertas cerradas en cualquier horario o el servicio a los us
 
 XVI. No cumplir con las disposiciones jurídicas aplicables y las indicaciones que se emitan por el Instituto y/o la Procuraduría conforme a lo establecido por la Ley y el Reglamento.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+Cuando un vehículo recién verificado sea sorprendido en circulación, con contaminación ostensible o con humo azul, la Procuraduría podrá presumir que se ha configurado la infracción señalada en la fracción IV del presente artículo, por lo que procederá a imponer las sanciones correspondientes.
+
 ###### ARTICULO 125.
 
 Será causa de inmediata clausura definitiva y revocación de la concesión del centro de verificación:
@@ -1522,6 +1918,14 @@ IV. Reincidir en faltas graves por dos ó más ocasiones.
 ###### ARTICULO 126.
 
 En caso de la revocación de la concesión, el ex-concesionario deberá cubrir todo tipo de adeudos o sanciones que tenga ante el Instituto o la Procuraduría antes de solicitar la cancelación de la fianza otorgada para el funcionamiento del centro de verificación.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 126 BIS.- En los casos en que el técnico verificador participe en la comisión de alguna de las faltas indicadas en los artículos 123, 124 y 125 y las correspondientes del presente Reglamento y están les sean acreditadas por parte de la Procuraduría de conformidad con el procedimiento que para su efecto se instaure, el Instituto previa resolución notificada a este por parte de la Procuraduría procederá a dar de baja la acreditación del mismo, notificándole en su caso del plazo que se establezca de inhabilitación para ejercer sus funciones como técnico verificador en el Sistema; de igual manera, la Procuraduría podrá instaurar y aplicar, de manera independiente o conjunta las multas y sanciones correspondientes tanto al técnico verificador como al concesionario del Centro de Verificación Vehicular.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+ARTÍCULO 126 BIS 1.- En los supuestos en el (sic) usuario induzca al técnico verificador y/o al concesionario a cometer una falta prevista en el presente Reglamento, la Procuraduría instaurará el procedimiento correspondiente en contra del usuario a efecto de sancionar la falta cometida.
 
 ## TITULO SEPTIMO. DE LOS RECURSOS
 
@@ -1554,3 +1958,11 @@ SECRETARIO GENERAL DE GOBIERNO DEL ESTADO.
 Biólogo Juan Ignacio Solorio Tlaseca,
 
 DIRECTOR GENERAL DEL INSTITUTO DEL MEDIO AMBIENTE DEL ESTADO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 29 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma del Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
