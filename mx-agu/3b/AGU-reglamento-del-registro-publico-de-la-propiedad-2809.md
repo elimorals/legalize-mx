@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-registro-publico-de-la-propiedad-2809"
 country: "mx"
 rank: "reglamento"
 publication_date: "1980-06-15"
-last_updated: "2009-08-31"
+last_updated: "2010-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO EN EL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. 29 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el domingo 15 de junio de 1980.
 
@@ -1370,6 +1372,18 @@ Lic. Antonio Javier Aguilera García.
 P.O. 26 DE OCTUBRE DE 1980.
 
 UNICO.- Las presentes Modificaciones al. Reglamento del Registro Público de la Propiedad del Estado de Aguascalientes entrarán en vigor a los ocho días de su publicación en el Periódico Oficial del Estado.
+
+A CONTINUACION SE TRABSCRIBEN LOS ARTICULOS TRANSITORIOS QUE TIENEN RELACION CON EL PRESENTE ORDENAMIENTO.
+
+P.O. 29 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE REGLAMENTO ENTRARA EN VIGOR A LOS SESENTA DIAS DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+SE ABROGA EL REGLAMENTO INTERIOR DEL REGISTRO PUBLICO DE LA PROPIEDAD PUBLICADO EL 15 DE JUNIO DE MIL NOVECIENTOS OCHENTA.
 
 P.O. 13 DE DICIEMBRE DE 1992.
 
