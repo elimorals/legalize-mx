@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2009-02-24"
+last_updated: "2010-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -2428,6 +2428,14 @@ La Secretaría establecerá en los programas respectivos las medidas necesarias 
 
 La Secretaría celebrará acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, así como para el desarrollo de diferentes fuentes de energía, incluidas las fuentes renovables, conforme a los principios establecidos en la presente Ley.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 122 Bis.
+
+Las Dependencias, delegaciones, órganos desconcentrados, entidades, órganos autónomos y órganos de gobierno del Distrito Federal, deberán en la medida de sus posibilidades presupuestarias, instalar algún tipo de tecnología solar, a fin de reducir el uso de energía y la emisión de gases de efecto invernadero.
+
 ## TÍTULO QUINTO. DE LA PREVENCIÓN, CONTROL Y ACCIONES CONTRA LA CONTAMINACIÓN AMBIENTAL
 
 ### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
@@ -3679,3 +3687,9 @@ G.O. 24 DE FEBRERO DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
+
+G.O. 29 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor en enero del 2012, después de su publicación en la Gaceta Oficial para el Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
