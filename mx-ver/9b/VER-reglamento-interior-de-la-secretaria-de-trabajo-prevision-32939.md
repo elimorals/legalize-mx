@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-trabajo-prevision-32939
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-10"
-last_updated: "2006-10-20"
+last_updated: "2010-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO, PREVISION SOCIAL Y PRODUCTIVIDAD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE OCTUBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO, PREVISION SOCIAL Y PRODUCTIVIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 29 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 10 de julio de 2003.
 
@@ -460,3 +462,13 @@ G.O. 20 DE OCTUBRE DE 2006.
 Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. En tanto se expiden los Manuales de Organización, Procedimientos y Servicios al Público, el Secretario de Trabajo, Previsión Social y Productividad estará facultado para resolver las cuestiones que dichos manuales deben regular.
+
+G.O. 29 DE NOVIEMBRE DE 2010.
+
+Artículo primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se abroga el Reglamento Interior de la Secretaría de Trabajo y Previsión Social, de fecha 20 de junio de 2003 publicado en la Gaceta Oficial número 137 de fecha 10 de julio de 2003, de igual manera el decreto que reforma, adiciona y deroga diversas disposiciones del Reglamento Interior de la Secretaría de Trabajo y Previsión Social, y agrega el título, del Reglamento Interior de la Secretaría de Trabajo y Previsión Social la expresión Productividad, de fecha 3 de octubre de 2006 publicado en la Gaceta Oficial número 248 de fecha 20 de octubre de 2006.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan al presente Reglamento Interior.
+
+Artículo cuarto. En tanto se expiden los Manuales de Organización, Procedimientos y Servicios al Público, el secretario de Trabajo, Previsión Social y Productividad, estará facultado para resolver las cuestiones que dichos Manuales deben regular.
