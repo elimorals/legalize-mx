@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2009-01-15"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -640,25 +640,45 @@ II. De los procedimientos de extradición, salvo lo que se disponga en los trata
 
 III. De las autorizaciones para intervenir cualquier comunicación privada.
 
-> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2005)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 50
 
-BIS.- En materia federal, la autorización para intervenir comunicaciones privadas, será otorgada de conformidad con la Ley Federal en materia de Delincuencia Organizada y con la Ley de Seguridad Nacional respectivamente.
+BIS.- En materia federal, la autorización para intervenir comunicaciones privadas será otorgada de conformidad con la Ley Federal contra la Delincuencia Organizada, la Ley de Seguridad Nacional, el Código Federal de Procedimientos Penales, la Ley de la Policía Federal o la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, según corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 50
+
+TER.- Cuando la solicitud de autorización de intervención de comunicaciones privadas, sea formulada en los términos previstos en las legislaciones locales, por el titular del Ministerio Público de alguna entidad federativa, exclusivamente se concederá si se trata de los delitos de homicidio, asalto en carreteras o caminos, robo de vehículos y privación ilegal de la libertad o secuestro, los primeros previstos en el Código Penal Federal y el último en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, o sus equivalentes en las legislaciones penales locales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+La solicitud de autorización de intervención de comunicaciones de los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, se formulará de conformidad con ese ordenamiento.
 
 > <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
-###### ARTICULO 50
-
-TER.- Cuando la solicitud de autorización de intervención de comunicaciones privadas, sea formulada en los términos previstos en las legislaciones locales, por el titular del Ministerio Público de alguna entidad federativa, exclusivamente se concederá si se trata de los delitos de homicidio, asalto en carreteras o caminos, robo de vehículos, privación ilegal de la libertad o secuestro y tráfico de menores, todos ellos previstos en el Código Penal para el Distrito Federal en materia de fuero común y para toda la República en materia de fuero federal, o sus equivalentes en las legislaciones penales locales.
-
 La autorización se otorgará únicamente al titular del Ministerio Público de la entidad federativa, cuando se constate la existencia de indicios suficientes que acrediten la probable responsabilidad en la comisión de los delitos arriba señalados. El titular del Ministerio Público será responsable de que la intervención se realice en los términos de la autorización judicial. La solicitud de autorización deberá contener los preceptos legales que la fundan, el razonamiento por el que se considera procedente, el tipo de comunicaciones, los sujetos y los lugares que serán intervenidos, así como el periodo durante el cual se llevarán a cabo las intervenciones, el cual podrá ser prorrogado, sin que el periodo de intervención, incluyendo sus prórrogas, pueda exceder de seis meses. Después de dicho plazo, sólo podrán autorizarse nuevas intervenciones cuando el titular del Ministerio Público de la entidad federativa acredite nuevos elementos que así lo justifiquen.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
 En la autorización, el juez determinará las características de la intervención, sus modalidades y límites y, en su caso, ordenará a instituciones públicas o privadas, modos específicos de colaboración.
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
 En la autorización que otorgue el juez deberá ordenar que, cuando en la misma práctica sea necesario ampliar a otros sujetos o lugares la intervención, se deberá presentar ante el propio juez, una nueva solicitud; también ordenará que al concluir cada intervención se levante un acta que contendrá un inventario pormenorizado de las cintas de audio o video que contengan los sonidos o imágenes captadas durante la intervención, así como que se le entregue un informe sobre sus resultados, a efecto de constatar el debido cumplimiento de la autorización otorgada.
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
 El juez podrá, en cualquier momento, verificar que las intervenciones sean realizadas en los términos autorizados y, en caso de incumplimiento, decretar su revocación parcial o total.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
 En caso de no ejercicio de la acción penal y una vez transcurrido el plazo legal para impugnarlo sin que ello suceda, el juez que autorizó la intervención, ordenará que se pongan a su disposición las cintas resultado de las intervenciones, los originales y sus copias y ordenará su destrucción en presencia del titular del Ministerio Público de la entidad federativa.
 
@@ -3349,3 +3369,29 @@ D.O.F. 15 DE ENERO DE 2009.
 Primero. El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura Federal deberá implantar las acciones necesarias para la realización de las grabaciones de las sesiones de los tribunales colegiados de circuito, en un plazo no mayor a 90 días hábiles.
+
+D.O.F. 30 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
+
+Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el (sic) presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
+
+Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
+
+Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
+
+Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
+
+Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
+
+Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
+
+Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
