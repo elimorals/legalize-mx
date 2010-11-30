@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2009-10-21"
+last_updated: "2010-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -999,7 +999,7 @@ a).- de las acciones de petición de herencia.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
+El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgado por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
 
 b).- de las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
@@ -2875,7 +2875,11 @@ VI.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea de l
 
 VII.- Las pólizas originales de contratos celebrados con intervención de corredor público;
 
-VIII.- El juicio uniforme de contadores si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
+VIII.- El juicio uniforme de contadores si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+IX.- Los documentos que a se refiere el Artículo 43 de la Ley de Propiedad en Condominio de Inmuebles del Estado de Quintana Roo.
 
 ###### Artículo 441.
 
@@ -3131,15 +3135,19 @@ Todo lo que en este capítulo se dispone respecto de la sentencia, comprende las
 
 ### CAPITULO III. De los Embargos
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 488.
 
-Decretado el auto de ejecución, el cual tendrá fuerza de mandamiento en forma, el actuario requerirá de pago al deudor, y no verificándolo éste en el acto, se procederá a embargar bienes suficientes a cubrir las prestaciones demandadas o las fijadas en la sentencia. El actor podrá asistir a la práctica de la diligencia.
+Decretado el auto de ejecución, el cual tendrá fuerza de mandamiento en forma, el actuario requerirá de pago al deudor, y no verificándolo éste en el acto, se procederá a embargar bienes suficientes a cubrir las prestaciones demandadas, si se tratare de un juicio ejecutivo o las fijadas en la sentencia. El actor podrá asistir a la práctica de la diligencia.
 
 No es necesario el requerimiento de pago en la ejecución del embargo precautorio, ni en la ejecución de sentencias cuando no fuere hallado el condenado.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 489.
 
-Si el deudor, tratándose del caso establecido en el artículo 440, no fuere habido después de habérsele buscado una vez en su domicilio se le dejará citatorio para hora fija dentro de las veinticuatro siguientes, y si no espera, se practicará la diligencia con cualquiera persona que se encuentre en la casa o a falta de ella con el vecino inmediato.
+Si el deudor, tratándose de juicio ejecutivo, no fuere habido después de habérsele buscado una vez en su domicilio se le dejará citatorio para hora fija dentro de las veinticuatro siguientes, y si no espera, se practicará la diligencia con cualquiera persona que se encuentre en la casa o a falta de ella con el vecino inmediato.
 
 Si no se supiere el paradero del deudor, ni tuviere casa en el lugar, se hará el requerimiento por tres días consecutivos, fijando la cédula en los lugares públicos de costumbre, y surtirá sus efectos dentro de ocho días.
 
@@ -5615,7 +5623,7 @@ Sobre la rendición y aprobación de cuentas de los tutores regirán las disposi
 
 ###### Artículo 854.
 
-Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa en el tutor, se iniciará desde luego a petición de parte o del Ministerio Público, el juicio de separación, que se seguirá en forma contenciosa y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso entretanto el tutor propietario, sin perjuicio de que remita testimonio de lo conducente a las autoridades penales.
+Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa en el tutor, se iniciará desde luego a petición de parte o del Ministerio Público, el juicio de separación, que se seguirá en la forma contenciosa y si de los primeros actos del juicio resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso entretanto el tutor propietario, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales.
 
 ###### Artículo 855.
 
@@ -6258,3 +6266,7 @@ P.O. 21 DE OCTUBRE DE 2009.
 ARTÍCULO TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
