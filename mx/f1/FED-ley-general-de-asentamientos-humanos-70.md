@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-asentamientos-humanos-70"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-21"
-last_updated: "1994-08-05"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-07-19"
 
 LEY GENERAL DE ASENTAMIENTOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 21 de julio de 1993.
 
@@ -178,6 +178,10 @@ Corresponden a la Federación, a través de la Secretaría de Desarrollo Social,
 I. Proyectar y coordinar la planeación del desarrollo regional con la participación que corresponda a los gobiernos estatales y municipales;
 
 II. Coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos locales para el desarrollo sustentable de las regiones del país;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+II bis. Promover la implantación de sistemas o dispositivos de alta eficiencia energética en las obras públicas de infraestructura y equipamiento urbano, para garantizar el desarrollo urbano sostenible;
 
 III. Prever a nivel nacional las necesidades de reservas territoriales para el desarrollo urbano con la intervención, en su caso, de la Secretaría de la Reforma Agraria, considerando la disponibilidad de agua determinada por la Secretaría de Agricultura y Recursos Hidráulicos, y regular en coordinación con los gobiernos estatales y municipales los mecanismos para satisfacer dichas necesidades;
 
@@ -774,3 +778,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se deberá adecuar la legislación en materia de desarrollo urbano de las entidades federativas en un plazo no mayor de un año contado a partir de la entrada en vigor de este decreto.
+
+D.O.F. 30 DE NOVIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
