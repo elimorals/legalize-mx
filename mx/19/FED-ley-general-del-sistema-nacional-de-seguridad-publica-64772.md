@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2009-01-02"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSNSP"
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -578,9 +578,19 @@ V. Promover la adopción del trabajo comunitario como mecanismo de reinserción 
 
 VI. Plantear criterios para eficientar los convenios que se celebren entre la Federación, los Estados y el Distrito Federal, a efecto de que los sentenciados por delitos del ámbito de su competencia, extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa, con estricto apego a las disposiciones legales aplicables;
 
-VII. Promover el intercambio, registro, sistematización y consulta de la información de seguridad pública en las bases de datos criminalísticos y de personal, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-VIII. Las demás que establezcan las disposiciones legales aplicables y el Consejo Nacional.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+VII. Promover el intercambio, registro, sistematización y consulta de la información de seguridad pública en las bases de datos criminalísticos y de personal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Formular los lineamientos para que la federación y las entidades federativas soliciten, en el ámbito de sus competencias, la colaboración de los prestadores de servicios de telecomunicaciones, para que en el ámbito técnico operativo se restrinja de manera permanente todo tipo de comunicación, ya sea transmisión de voz, datos, o imagen en los Centros de Readaptación Social Federales y de las Entidades Federativas, cualquiera que sea su denominación, y
+
+IX. Las demás que establezcan las disposiciones legales aplicables y el Consejo Nacional.
 
 ### CAPÍTULO VII. De la Conferencia Nacional de Seguridad Pública Municipal
 
@@ -716,9 +726,19 @@ XI. Integrar y consultar la información relativa a la operación y Desarrollo P
 
 XII. Destinar los fondos de ayuda federal para la seguridad pública exclusivamente a estos fines y nombrar a un responsable de su control y administración;
 
-XIII. Participar en la ejecución de las acciones para el resguardo de las Instalaciones Estratégicas del país, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XIV. Las demás atribuciones específicas que se establezcan en la Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+XIII. Participar en la ejecución de las acciones para el resguardo de las Instalaciones Estratégicas del país;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+XIV. Solicitar la colaboración de los prestadores de servicios de telecomunicaciones, conforme a las disposiciones aplicables, para que en el ámbito técnico operativo se restrinja de manera permanente todo tipo de comunicación, ya sea transmisión de voz, datos, o imagen en los Centros de Readaptación Social Federales y de las Entidades Federativas, cualquiera que sea su denominación, y
+
+XV. Las demás atribuciones específicas que se establezcan en la Ley y demás disposiciones aplicables.
 
 Los Estados y los Municipios podrán coordinarse para hacer efectivo lo previsto en el artículo 115, fracciones III, inciso h) y VII, de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2064,9 +2084,13 @@ El resguardo de las instalaciones estratégicas queda a cargo de la Federación,
 
 El Ejecutivo Federal constituirá un Grupo de Coordinación Interinstitucional para las Instalaciones Estratégicas, que expedirá, mediante acuerdos generales de observancia obligatoria, la normatividad aplicable en la materia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 149.
 
-El Consejo Nacional establecerá los casos, condiciones y requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico para los fines de seguridad pública.
+El Consejo Nacional establecerá, para los fines de seguridad pública, los casos, condiciones y requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y en los Centros de Readaptación Social Federales y de las Entidades Federativas, cualquiera que sea su denominación.
 
 Las decisiones que en ese sentido emita el Consejo Nacional, deberán ser ejecutadas por las distintas Instituciones de Seguridad Pública que lo integran.
 
@@ -2121,3 +2145,31 @@ DÉCIMO SEGUNDO.- Se abroga la Ley General que Establece las Bases de Coordinaci
 México, D.F., a 11 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, Presidente.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Sen. Renan C. Zoreda Novelo, Secretario.- Dip. Jose Manuel del Rio Virgen, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
+
+Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el (sic) presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
+
+Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
+
+Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
+
+Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
+
+Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
+
+Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
+
+Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
