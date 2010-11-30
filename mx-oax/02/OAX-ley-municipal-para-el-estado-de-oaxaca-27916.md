@@ -4,7 +4,7 @@ identifier: "OAX-ley-municipal-para-el-estado-de-oaxaca-27916"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-10"
-last_updated: "2010-06-19"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY MUNICIPAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2010., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes10 de enero de 2003.
 
@@ -2428,3 +2430,15 @@ CUARTO.- Los Municipios del Estado a través de sus Ayuntamientos deberán impla
 P.O. 19 DE JUNIO DE 2010.
 
 PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley Municipal para el Estado de Oaxaca, aprobada por Decreto No. 293, de fecha 23 de marzo de 2001, publicada en el Periódico Oficial del Gobierno del Estado, de fecha 10 de enero de 2003 por mandato del Decreto No. 170 de fecha 9 de enero de 2003.
+
+TERCERO.- Se abrogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- La substanciación de los expedientes relativos a la suspensión y desaparición de ayuntamientos, o de suspensión o revocación del mandato de alguno de sus miembros, que hayan sido iniciados antes de la entrada en vigor de esta Ley, se sujetará a las normas vigentes en el momento en que dio inicio el procedimiento.
+
+QUINTO.- En lo que se refiere a los conceptos relativos a la Planeación, Desarrollo Administrativo y Servicios Públicos Municipales, se seguirán aplicando conforme las disposiciones contenidas en la Ley Municipal para el estado de Oaxaca hasta que se emita la ley correspondiente.
