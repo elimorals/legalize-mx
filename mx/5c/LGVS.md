@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2010-09-02"
+last_updated: "2010-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -686,11 +686,11 @@ b) Los artículos de uso personal, siempre y cuando no excedan de dos piezas del
 
 La importación, exportación y reexportación de ejemplares, partes y derivados de especies silvestres incluidas en la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, se llevarán a cabo de acuerdo con esa Convención, lo dispuesto en la presente Ley y las disposiciones que de ellas se deriven.
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 55 Bis.
 
-Queda prohibida la importación, exportación y reexportación de ejemplares de cualquier especie de mamífero marino y primate, así como de sus partes y derivados, con excepción de aquéllos destinados a la investigación científica, previa autorización de la Secretaría.
+Queda prohibida la importación, exportación y reexportación de ejemplares de cualquier especie de mamífero marino y primate, así como de sus partes y derivados, con excepción de aquéllos destinados a la investigación científica, y las muestras de líquidos, tejidos o células reproductivas de aquellos ejemplares que se encuentren en cautiverio, previa autorización de la Secretaría.
 
 ## TÍTULO VI. CONSERVACIÓN DE LA VIDA SILVESTRE
 
@@ -1543,3 +1543,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo Federal deberá hacer las modificaciones pertinentes en el Reglamento de la Ley General de Vida Silvestre en un plazo no mayor de 180 días naturales a partir de la publicación de este Decreto.
+
+D.O.F. 30 DE NOVIEMBRE DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
