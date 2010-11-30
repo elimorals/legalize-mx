@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-2611"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1995-06-07"
-last_updated: "2009-02-09"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-06"
 
 LEY FEDERAL DE TELECOMUNICACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 7 de junio de 1995.
 
@@ -707,13 +707,23 @@ El Reglamento establecerá los procedimientos, mecanismos y medidas de seguridad
 
 XIV. Realizar el bloqueo inmediato de las líneas contratadas bajo cualquier modalidad, reportados por los clientes o usuarios como robados o extraviados; realizar la actualización respectiva en el registro de usuarios de telefonía; así como realizar la suspensión inmediata del servicio de telefonía para efectos de aseguramiento cuando así lo instruya la Comisión Federal de Telecomunicaciones, de conformidad con lo establecido en el Código Federal de Procedimientos Penales.
 
-En caso de que los usuarios vendan o cedan una línea de telefonía en cualquiera de sus modalidades de contratación, deberán dar aviso al concesionario, a efecto de que dicha línea sea bloqueada, en tanto sea registrado el nuevo usuario, conforme a la fracción XI del presente artículo, y
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+En caso de que los usuarios vendan o cedan una línea de telefonía en cualquiera de sus modalidades de contratación, deberán dar aviso al concesionario, a efecto de que dicha línea sea bloqueada, en tanto sea registrado el nuevo usuario, conforme a la fracción XI del presente artículo;
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XV. Informar a los clientes o usuarios de servicios de telefonía en cualquiera de sus modalidades, previo a su venta, de la existencia y contenido del registro y su disponibilidad a los agentes facultados.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+XV. Informar a los clientes o usuarios de servicios de telefonía en cualquiera de sus modalidades, previo a su venta, de la existencia y contenido del registro y su disponibilidad a los agentes facultados, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+XVI. Colaborar con las autoridades competentes para que en el ámbito técnico operativo se restrinja de manera permanente todo tipo de comunicación, ya sea transmisión de voz, datos o imagen en los Centros de Readaptación Social Federales y de las Entidades Federativas, cualquiera que sea su denominación.
+
+La restricción a las comunicaciones tendrá el objetivo de inhibir la señal de cualquier banda de frecuencia que se limite al perímetro de los centros de readaptación social, además de que se procurará la continuidad y seguridad de los servicios a sus usuarios al exterior de dichos centros. En la colaboración a que se refiere el párrafo anterior se deberán considerar, entre ellos, los elementos técnicos de reemplazo, mantenimiento y servicio.
 
 ###### Artículo 45.
 
@@ -1070,3 +1080,29 @@ QUINTO.- El registro de los nuevos usuarios de telefonía móvil a que se refier
 SEXTO.- Los concesionarios deberán realizar campañas y programas informativos a sus clientes o usuarios para incentivar la obligación de denunciar en forma inmediata el robo o extravío de sus equipos celulares o chips inteligentes, para prevenir cualquier uso indebido de las líneas, así como en los casos que se trate de venta o cesión de una línea telefónica.
 
 SÉPTIMO.- El Congreso de la Unión realizará las reformas y adiciones correspondientes a los artículos 366, 390 y demás relativos del Código Penal Federal, en un plazo no mayor a 180 días a partir de la publicación del presente decreto.
+
+D.O.F. 30 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
+
+Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el (sic) presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
+
+Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
+
+Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
+
+Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
+
+Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
+
+Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
+
+Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
