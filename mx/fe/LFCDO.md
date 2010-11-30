@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2009-01-23"
+last_updated: "2010-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -64,19 +64,33 @@ III. Tráfico de indocumentados, previsto en el artículo 138 de la Ley General 
 
 IV. Tráfico de órganos previsto en los artículos 461, 462 y 462 bis de la Ley General de Salud;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-V. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; asalto, previsto en los artículos 286 y 287; secuestro, previsto en el artículo 366; tráfico de menores o personas que no tiene capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter, y robo de vehículos, previsto en los artículos 376 Bis y 377 del Código Penal Federal, o en las disposiciones correspondientes de las legislaciones penales Estatales o del Distrito Federal, y
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+V. Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo previsto en el artículo 201; Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 202; Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tiene capacidad para resistirlo, previsto en los artículos 203 y 203 Bis; Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo 204; Asalto, previsto en los artículos 286 y 287; Tráfico de menores o personas que no tienen capacidad para comprender el significado del hecho, previsto en el artículo 366 Ter, y Robo de vehículos, previsto en los artículos 376 Bis y 377 del Código Penal Federal, o en las disposiciones correspondientes de las legislaciones penales estatales o del Distrito Federal;
 
-VI. Trata de personas, previsto y sancionado en los artículos 5 y 6 de la Ley para Prevenir y Sancionar la Trata de Personas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+VI. Trata de personas, previsto y sancionado en los artículos 5 y 6 de la Ley para Prevenir y Sancionar la Trata de Personas, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+VII. Las conductas previstas en los artículos 9, 10, 11, 17 y 18 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 3o.
 
 Los delitos a que se refieren las fracciones I, II, III y IV del artículo anterior, que sean cometidos por algún miembro de la delincuencia organizada, serán investigados, perseguidos, procesados y sancionados conforme a las disposiciones de esta Ley.
 
-Los delitos señalados en la fracción V de dicho artículo lo serán únicamente si, además de cometerse por un miembro de la delincuencia organizada, el Ministerio Público de la Federación ejerce la facultad de atracción. En este caso, el Ministerio Público de la Federación y las autoridades judiciales federales serán las competentes para conocer de tales delitos. Bajo ninguna circunstancia se agravarán las penas previstas en las legislaciones de las entidades federativas.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+Los delitos señalados en las fracciones V y VII de dicho artículo lo serán únicamente si, además de cometerse por un miembro de la delincuencia organizada, el Ministerio Público de la Federación ejerce la facultad de atracción. En este caso, el Ministerio Público de la Federación y las autoridades judiciales federales serán las competentes para conocer de tales delitos. Bajo ninguna circunstancia se agravarán las penas previstas en las legislaciones de las entidades federativas.
 
 ###### Artículo 4o.
 
@@ -162,6 +176,10 @@ En las actuaciones de averiguación previa, en el ejercicio de la acción penal 
 
 ### CAPÍTULO TERCERO. DE LA RESERVA DE LAS ACTUACIONES EN LA AVERIGUACIÓN PREVIA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
 ### CAPÍTULO CUARTO. DE LAS ÓRDENES DE CATEO Y DE INTERVENCIÓN DE COMUNICACIONES PRIVADAS
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
@@ -176,7 +194,7 @@ La duración del arraigo podrá prolongarse siempre y cuando el Ministerio Públ
 
 ###### Artículo 13.
 
-A las actuaciones de averiguación previa por los delitos a que se refiere esta Ley, exclusivamente deberán tener acceso el indiciado y su defensor, únicamente con relación a los hechos imputados en su contra, por lo que el Ministerio Público de la Federación y sus auxiliares guardarán la mayor reserva respecto de ellas, sin perjuicio de que el indiciado o su defensor, en base a la información recibida, puedan presentar las pruebas de descargo que juzguen oportunas.
+A las actuaciones de averiguación previa por los delitos a que se refiere esta Ley, exclusivamente deberán tener acceso el indiciado y su defensor, una vez que haya aceptado el cargo, únicamente con relación a los hechos imputados en su contra, por lo que el Ministerio Público de la Federación y sus auxiliares guardarán la mayor reserva respecto de ellas, sin perjuicio de que el indiciado o su defensor, en base en la información recibida, puedan presentar las pruebas de descargo que juzguen oportunas.
 
 No se concederá valor probatorio a las actuaciones que contengan hechos imputados al indiciado, cuando habiendo solicitado el acceso a las mismas al Ministerio Público de la Federación, se le haya negado.
 
@@ -427,3 +445,29 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 30 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
+
+Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el (sic) presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
+
+Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
+
+Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
+
+Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
+
+Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
+
+Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
+
+Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
