@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-para-el-registro-de-peritos-en-el-estado-de-8177"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-02-06"
-last_updated: "1993-02-06"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 REGLAMENTO PARA EL REGISTRO DE PERITOS EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO GUBERNAMENTAL QUE ABROGA EL REGLAMENTO PARA EL REGISTRO DE PERITOS EN EL ESTADO DE TAMULIPAS, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 6 de febrero de 1993.
 
@@ -240,3 +242,11 @@ A T E N T A M E N T E
 SUFRAGIO EFECTIVO. NO REELECCION.
 
 El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. ANIBAL PEREZ VARGAS.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
