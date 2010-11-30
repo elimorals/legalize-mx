@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2010-08-19"
+last_updated: "2010-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -375,6 +375,12 @@ XIII (SIC).- Inhabilitación, destitución o suspensión de funciones o empleos.
 
 18.- Decomiso de bienes correspondientes al enriquecimiento ilícito.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+19.- La colocación de dispositivos de localización y vigilancia.
+
 Y las demás que fijen las leyes.
 
 ### CAPITULO II. Prisión
@@ -721,11 +727,19 @@ Son aplicables las que se funden en circunstancias objetivas, si los demás suje
 
 Cuando la orden de aprehensión se dicte en contra de una persona mayor de 70 años de edad, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado bajo las medidas de seguridad que procedan de acuerdo con la representación social.
 
-No gozarán de esta prerrogativa quienes a criterio del juez puedan sustraerse de la acción de la justicia o manifiesten una conducta que haga presumible su peligrosidad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+No gozarán de esta prerrogativa quienes a criterio del juez puedan sustraerse de la acción de la justicia o manifiesten una conducta que revele su peligrosidad social, ni los inculpados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En todo caso la valoración por parte del juez se apoyará en dictámenes de peritos.
 
-Una vez dictada la sentencia ejecutoriada, la pena podrá ser sustituida por una medida de seguridad, a juicio del juez o tribunal que la imponga de oficio o a petición de parte, cuando por haber sufrido el sujeto activo consecuencias graves en su persona, o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria o irracional que se compurgue dicha pena.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+Una vez dictada la sentencia ejecutoriada, la pena podrá ser sustituida por una medida de seguridad, a juicio del juez o tribunal que la imponga de oficio o a petición de parte, cuando por haber sufrido el sujeto activo consecuencias graves en su persona, o por su senilidad o su precario estado de salud, fuere notoriamente innecesario que se compurgue dicha pena, a excepción de los sentenciados por las conductas previstas en el artículo 9 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, que en todo caso deberán cumplir la pena impuesta.
 
 En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos.
 
@@ -825,11 +839,13 @@ En los casos de tentativa punible de delito grave así calificado por la ley, la
 
 ### CAPITULO IV. Aplicación de sanciones en caso de concurso, delito continuado, complicidad, reincidencia y error vencible
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 64.
 
-En caso de concurso ideal, se aplicará la pena correspondiente al delito que merezca la mayor, que se aumentará hasta una mitad del máximo de su duración, sin que pueda exceder de las máximas señaladas en el Título Segundo del Libro Primero.
+En caso de concurso ideal, se aplicará la pena correspondiente al delito que merezca la mayor, que se aumentará hasta una mitad del máximo de su duración, sin que pueda exceder de las máximas señaladas en el Título Segundo del Libro Primero, con excepción de los casos en que uno de los delitos por los que exista concurso ideal sea de los contemplados en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, supuesto en el cual se aplicarán las reglas de concurso real.
 
 > <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2004)</small>
 
@@ -1049,9 +1065,11 @@ d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
 e) Homicidio, previsto en los artículos 315, 315 bis y 320;
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-f) Secuestro, previsto en el artículo 366, salvo los dos párrafos últimos, y tráfico de menores, previsto en el artículo 366 ter;
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+f) Tráfico de menores, previsto en el artículo 366 Ter;
 
 g) Comercialización de objetos robados, previsto en el artículo 368 ter;
 
@@ -1080,6 +1098,12 @@ II. Trata de personas previsto en los artículos 5 y 6 de la Ley para Prevenir y
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
 III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+IV. Los sentenciados por las conductas previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, salvo las previstas en los artículos 9, 10, 11, 17 y 18.
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -2181,6 +2205,14 @@ El que sin excusa legal se negare a comparecer ante la autoridad a dar su declar
 
 Se aplicarán de uno a dos años de prisión y multa de diez a mil pesos: al que, empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+ARTICULO 180 bis.- Se aplicará de uno a dos años de prisión y de diez mil a treinta mil días multa, al que retire, modifique o inutilice, sin la debida autorización, dispositivos de localización y vigilancia.
+
+Si la conducta a que se refiere el párrafo anterior la realiza un integrante de alguna institución de seguridad pública, se aplicará de dos a cinco años de prisión, de veinte mil a cuarenta mil días multa e inhabilitación para ejercer cualquier empleo o cargo público en cualquier ámbito de gobierno hasta por veinte años.
+
 ###### ARTICULO 181.
 
 Se equiparará a la resistencia y se sancionará con la misma pena que ésta, la coacción hecha a la autoridad pública por medio de la violencia física o de la moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones.
@@ -2879,25 +2911,37 @@ XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolució
 
 XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
 
-> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA, EL CODIGO.</small>
 
-XIII.- Obligar al inculpado a declarar, usando la incomunicación, la intimidación o la tortura, y (sic)
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+XIII.- Obligar al inculpado a declarar, usando la incomunicación, la intimidación o la tortura;
 
 > <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2006)</small>
 
 XIV.- Obligar a declarar a las personas que se mencionan en el artículo 243 Bis, del Código Federal de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XV.- Omitir el registro de la detención correspondiente o dilatar injustificadamente poner al detenido a disposición de la autoridad correspondiente.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+XV.- Omitir el registro de la detención correspondiente o dilatar injustificadamente poner al detenido a disposición de la autoridad correspondiente, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+XVI.- Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
 
 (REFORMADO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión, de cincuenta hasta trescientos días multa y destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII, XIV y XV, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII, XIV, XV, y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
 
@@ -4703,103 +4747,15 @@ Si el autor del delito restituye la libertad a la víctima sin haber practicado 
 
 Este delito sólo se perseguirá por querella de la persona ofendida.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTICULO 366.
 
-Al que prive de la libertad a otro se le aplicará:
+(DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-I. De quince a cuarenta años de prisión y de quinientos a dos mil días multa, si la privación de la libertad se efectúa con el propósito de:
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-a) Obtener rescate;
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-b) Detener en calidad de rehén a una persona y amenazar con privarla de la vida o con causarle daño, para que la autoridad o un particular realice o deje de realizar un acto cualquiera, o
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-c) Causar daño o perjuicio a la persona privada de la libertad o a cualquier otra;
-
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2005)</small>
-
-d) Cometer secuestro exprés, desde el momento mismo de su realización, entendiéndose por éste, el que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otro. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten;
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
-
-II. De veinte a cuarenta años de prisión y de dos mil a cuatro mil días multa, si en la privación de la libertad a que se hace referencia en la fracción anterior concurre alguna o algunas de las circunstancias siguientes:
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-a) Que se realice en camino público o en lugar desprotegido o solitario;
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-b) Que el autor sea o haya sido integrante de alguna institución de seguridad pública, o se ostente como tal sin serlo;
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-c) Que quienes lo lleven a cabo obren en grupo de dos o más personas;
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-d) Que se realice con violencia, o
-
-> <small>(REFORMADO, D.O.F. 13 DE MAYO DE 1996)</small>
-
-e) Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quien ejecuta la privación de la libertad.
-
-> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2000)</small>
-
-III. Se aplicarán de veinticinco a cincuenta años de prisión y de cuatro mil a ocho mil días multa, cuando la privación de libertad se efectúe con el fin de trasladar a un menor de dieciséis años fuera de territorio nacional, con el propósito de obtener un lucro indebido por la venta o la entrega del menor.
-
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2000)</small>
-
-Se impondrá una pena de treinta a cincuenta años de prisión al o a los secuestradores, si a la víctima del secuestro se le causa alguna lesión de las previstas en los artículos 291 a 293 de este Código.
-
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
-
-En caso de que el secuestrado sea privado de la vida por su o sus secuestradores, se aplicará pena de hasta setenta años de prisión.
-
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
-
-Si espontáneamente se libera al secuestrado dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refieren las fracciones I y III de este artículo y sin que se haya presentado alguna de las circunstancias previstas en la fracción II, la pena será de dos a seis años y de cincuenta a ciento cincuenta días multa.
-
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
-
-En los demás casos en que espontáneamente se libere al secuestrado, sin lograr alguno de los propósitos a que se refieren las fracciones I y III de este artículo, las penas de prisión aplicables serán de cinco a quince años y de doscientos cincuenta hasta quinientos días multa.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2000)</small>
-
-ARTICULO 366 bis.- Se impondrá pena de dos a diez años de prisión y de doscientos a mil días multa, al que en relación con las conductas sancionadas por el artículo anterior y fuera de las causas de exclusión del delito previstas por la ley:
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
-
-I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de quienes representen o gestionen en favor de la víctima;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
-
-II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
-
-III. Actúe como asesor con fines lucrativos de quienes representen o gestionen en favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del secuestro;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
-
-IV. Aconseje el no presentar la denuncia del secuestro cometido, o bien el no colaborar o el obstruir la actuación de las autoridades;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
-
-V. Efectúe el cambio de moneda nacional por divisas, o de éstas por moneda nacional sabiendo que es con el propósito directo de pagar el rescate a que se refiere la fracción I del artículo anterior, y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 13 DE MAYO DE 1996)</small>
-
-VI. Intimide a la víctima, a sus familiares o a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
+ARTICULO 366 bis.- (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2010)
 
 > <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
 
@@ -6552,3 +6508,29 @@ D.O.F. 28 DE JUNIO DE 2010.
 D.O.F. 19 DE AGOSTO DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
+
+Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el (sic) presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
+
+Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
+
+Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
+
+Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
+
+Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
+
+Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
+
+Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
