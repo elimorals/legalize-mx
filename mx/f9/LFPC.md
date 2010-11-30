@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2010-08-19"
+last_updated: "2010-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -108,9 +108,13 @@ III. Secretaría: la Secretaría de Economía, y
 
 IV. Procuraduría: la Procuraduría Federal del Consumidor.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### ARTICULO 3o.
 
-A falta de competencia específica de determinada dependencia de la administración pública federal, corresponde a la Secretaría de Comercio y Fomento Industrial expedir las normas oficiales mexicanas previstas por la ley y a la Procuraduría vigilar se cumpla con lo dispuesto en la propia ley y sancionar su incumplimiento.
+A falta de competencia específica de determinada dependencia de la administración pública federal, corresponde a la Secretaría de Economía expedir las normas oficiales mexicanas previstas por la ley y a la Procuraduría vigilar se cumpla con lo dispuesto en la propia ley y sancionar su incumplimiento.
 
 ###### ARTICULO 4o.
 
@@ -1080,11 +1084,13 @@ Cuando el consumidor acuda a la Procuraduría para hacer valer sus derechos fuer
 
 ### Capítulo X. De los contratos de adhesión
 
-> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 85.
 
-Para los efectos de esta ley, se entiende por contrato de adhesión el documento elaborado unilateralmente por el proveedor, para establecer en formatos uniformes los términos y condiciones aplicables a la adquisición de un producto o la prestación de un servicio, aun cuando dicho documento no contenga todas las cláusulas ordinarias de un contrato. Todo contrato de adhesión celebrado en territorio nacional, para su validez, deberá estar escrito en idioma español y sus caracteres tendrán que ser legibles a simple vista. Además, no podrá implicar prestaciones desproporcionadas a cargo de los consumidores, obligaciones inequitativas o abusivas, o cualquier otra cláusula o texto que viole las disposiciones de esta ley.
+Para los efectos de esta ley, se entiende por contrato de adhesión el documento elaborado unilateralmente por el proveedor, para establecer en formatos uniformes los términos y condiciones aplicables a la adquisición de un producto o la prestación de un servicio, aun cuando dicho documento no contenga todas las cláusulas ordinarias de un contrato. Todo contrato de adhesión celebrado en territorio nacional, para su validez, deberá estar escrito en idioma español y sus caracteres tendrán que ser legibles a simple vista y en un tamaño y tipo de letra uniforme. Además, no podrá implicar prestaciones desproporcionadas a cargo de los consumidores, obligaciones inequitativas o abusivas, o cualquier otra cláusula o texto que viole las disposiciones de esta ley.
 
 ###### ARTICULO 86.
 
@@ -2055,3 +2061,7 @@ D.O.F. 19 DE AGOSTO DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- A los procedimientos iniciados antes de la publicación del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su instauración.
+
+D.O.F. 30 DE NOVIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
