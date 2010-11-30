@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-del-estado-de-quintana-roo-12991"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-15"
-last_updated: "1998-06-15"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial el 15 de junio de 1998.
 
@@ -269,7 +269,9 @@ III.- Enviar al Ejecutivo del Estado para su publicación, los programas de desa
 
 IV.- Administrar la zonificación prevista en los programas de desarrollo urbano, así como controlar y vigilar la utilización del suelo;
 
-V.- Expedir la autorizaciones, licencias o permisos de uso del suelo, construcción, fraccionamientos, subdivisiones, fusiones, relotificaciones y condominios, de conformidad con lo dispuesto en esta Ley y en los programas de desarrollo urbano aplicables;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+V.- Expedir las autorizaciones, licencias o permisos de uso del suelo, construcción, fraccionamientos, subdivisiones, fusiones, renotificaciones y condominios, de conformidad con lo dispuesto en la Ley de Propiedad en Condominio de Inmuebles del Estado de Quintana Roo, y en los programas de desarrollo urbano aplicables;
 
 VI.- Participar, conforme a Ley General de Asentamientos Humanos, esta Ley y los convenios de conurbación respectivos, en la (sic) ordenamiento y regulación de las zonas conurbadas;
 
@@ -1195,9 +1197,13 @@ Las licencias, permisos, autorizaciones o concesiones que se expidan en contrave
 
 Los actos, contratos o convenios relativos a la propiedad, posesión, uso o cualquier otra forma jurídica de tenencia de la tierra, que no contenga las cláusulas relativas a la utilización que le determinen los programas de desarrollo urbano aplicables, ni las correspondientes constancias de compatibilidad urbanística, no serán inscritos en el Registro Público de la Propiedad y del Comercio.
 
-Tratándose de lotes o predios en fraccionamientos o condominios autorizados conforme a esta Ley, no se requerirá para la inscripción de los actos en el Registro Público de la Propiedad y del Comercio de las constancias de compatibilidad urbanística.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-Los federatarios deberán insertar en las escrituras públicas, las anotaciones marginales que aparezcan inscritas en el Registro Público de la Propiedad y del Comercio, respecto del uso o destino del inmueble de que se trate.
+Tratándose de lotes o predios en fraccionamientos o condominios autorizados conforme a la Ley de Propiedad en Condominio de Inmuebles del Estado de Quintana Roo, no se requerirá para la inscripción de los actos en el Registro Público de la Propiedad y del Comercio de las constancias de compatibilidad urbanística.
+
+> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Los fedatarios deberán insertar en las escrituras públicas, las anotaciones marginales que aparezcan inscritas en el Registro Público de la Propiedad y del Comercio, respecto del uso o destino del inmueble de que se trate.
 
 ###### ARTICULO 81.
 
@@ -1520,3 +1526,13 @@ ING. MARIO E. VILLANUEVA MADRID
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 DR. HECTOR ESQUILIANO SOLIS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+## TRANSITORIO
+
+ÚNICO. Publíquese el decreto que en su caso se expida en el Periódico Oficial del Estado de Quintana Roo.
