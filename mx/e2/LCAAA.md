@@ -4,7 +4,7 @@ identifier: "LCAAA"
 country: "mx"
 rank: "ley"
 publication_date: "1932-08-27"
-last_updated: "1936-05-12"
+last_updated: "2010-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1524&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY SOBRE ASOCIACIONES AGRICOLAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ASOCIACIONES GANADERAS, PUBLICADA EN EL D.O.F. DE 12 DE MAYO DE 1936, SE DEROGA LA LEY DE ASOCIACIONES AGRICOLAS UNICAMENTE POR LO QUE SE REFIERE A LA CONSTITUCION, ORGANIZACION Y FUNCIONAMIENTO GENERAL, DE LAS ASOCIACIONES E INSTITUCIONES FILIALES A ELLAS, QUE DEDIQUEN SUS ACTIVIDADES A LA INDUSTRIA ANIMAL.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -44,17 +44,47 @@ LEY SOBRE CAMARAS AGRICOLAS, QUE EN LO SUCESIVO SE DENOMINARAN ASOCIACIONES AGRI
 
 La presente Ley se expide para fijar las bases de la organización y del funcionamiento de las Cámaras Agrícolas existentes que, en lo sucesivo, y de acuerdo con lo dispuesto por los artículos siguientes, se denominarán Asociaciones Agrícolas.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 2°.
+
+Las Asociaciones Agrícolas se constituirán con la unión de los productores agrícolas del país a fin de promover en general al (sic) desarrollo de las actividades agrícolas de la Nación, así como a la protección de los intereses económicos de sus agremiados, para ello deberán constituirse con apego al primer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y de la Ley de Desarrollo Rural Sustentable, de acuerdo con las finalidades indicadas en el artículo siguiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTICULO 3°.
+
+Las Asociaciones Agrícolas constituidas en los términos de esta Ley tendrán las siguientes finalidades:
+
+I.- Organizar la producción agrícola dentro de normas racionales que propendan a mejorar la calidad de los productos, así como a la mejor distribución de ellos, para lo cual se procurará la implantación de métodos científicos más adecuados de explotación agrícola.
+
+II.- Gestionar y promover todas las medidas que tiendan al mejoramiento de las condiciones agrícolas de los productores de la República, tales como fletes de transporte, desarrollo en las comunicaciones, cuotas racionales de energía eléctrica, etc.
+
+III.- Promover la creación, en cada uno de los lugares donde funcionen asociaciones, de almacenes, molinos, plantas refrigeradoras, de empaque, etc., para industrializar o conservar los productos agrícolas y presentarlos al consumidor en las mejores condiciones.
+
+IV.- Obtener con las mayores facilidades económicas la concesión de crédito para sus agremiados.
+
+V.- Procurar la transformación de las condiciones de vida en el campo haciendo cómodo o higiénico el hogar del campesino y educar a las clases rurales del país en los principios de la técnica moderna de producción.
+
+VI.- Fomentar, cuando las condiciones sociales y económicas de los productores lo permitan, el desarrollo de la organización cooperativa.
+
+VII.- Representar ante las autoridades los intereses comunes de sus asociados y proponer las medidas que estimen más adecuadas para la protección y defensa de dichos intereses.
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+VIII.- Impulsar la participación de las mujeres en el desarrollo económico, a través de la organización de cadenas productivas y comercializadoras de productos agrícolas, constituidas por mujeres; o en igualdad de trato y oportunidades entre mujeres y hombres.
+
 ### CAPITULO II. Organización de las Asociaciones Agrícolas
 
 ###### ARTICULO 4º.
 
 Los productores agrícolas de la República podrán reunirse en asociaciones de carácter local, regional y nacional.
 
-> <small>(F. DE E., D.O.F. 1 DE SEPTIEMBRE DE 1932)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
-###### ARTICULO 5º.
+###### ARTICULO 5°.
 
-Las Asociaciones Locales se denominarán "Asociaciones Agrícolas Locales", y estarán integradas por productores especializados. Para los efectos de este artículo, se entiende por productores especializados aquellos cuya actividad predominante se dedique a un cultivo o a una rama especiales de la economía rural.
+Las Asociaciones Locales se denominarán “Asociaciones Agrícolas Locales”, y estarán integradas por productores especializados. Para los efectos de este artículo, se entiende por productores especializados a las mujeres y hombres cuya actividad predominante se dedique a un cultivo o a una rama especial de la economía rural.
 
 ###### ARTICULO 6º.
 
@@ -87,6 +117,10 @@ Se entiende por región agrícola la que, por la similaridad de actividades rura
 ###### ARTICULO 12.
 
 La Confederación Nacional de Productores Agrícolas radicará en la capital de la República y funcionará con dos delegados propietarios y dos suplentes debidamente acreditados ante ella por las Uniones Regionales Agrícolas.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+Las Uniones Regionales Agrícolas también podrán acreditar ante esta Confederación la participación de delegadas propietarias y suplentes, para que en ella se encuentren representadas las Asociaciones Agrícolas conformadas por mujeres.
 
 ###### ARTICULO 13.
 
@@ -150,24 +184,8 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DE LA LEY QUE SE RELACIONA CON EL PRESEN
 
 SEGUNDO.- Se derogan: la Ley de Asociaciones Agrícolas de 19 de agosto de 1932, únicamente por lo que se refiere a la constitución, organización y funcionamiento general, de las asociaciones e instituciones filiales a ellas, que dediquen sus actividades a la Industria Animal, así como todas las demás disposiciones que se opongan a los términos de la presente Ley.
 
-###### ARTICULO 2º.
+D.O.F. 30 DE NOVIEMBRE DE 2010.
 
-Las Asociaciones Agrícolas se constituirán con la unión de los productores agrícolas del país a fin de promover en general al desarrollo de las actividades agrícolas de la Nación, así como a la protección de los intereses económicos de sus agremiados, de acuerdo con las finalidades indicadas en el artículo siguiente.
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-###### ARTICULO 3º.
-
-Las Asociaciones Agrícolas constituídas en los términos de esta Ley tendrán las siguientes finalidades:
-
-I.- Organizar la producción agrícola dentro de normas racionales que propendan a mejorar la calidad de los productos, así como a la mejor distribución de ellos, para lo cual se procurará la implantación de métodos científicos más adecuados de explotación agrícola.
-
-II.- Gestionar y promover todas las medidas que tiendan al mejoramiento de las condiciones agrícolas de los productores de la República, tales como fletes de transporte, desarrollo en las comunicaciones, cuotas racionales de energía eléctrica, etc.
-
-III.- Promover la creación, en cada uno de los lugares donde funcionen asociaciones, de almacenes, molinos, plantas refrigeradoras, de empaque, etc., para industrializar o conservar los productos agrícolas y presentarlos al consumidor en las mejores condiciones.
-
-IV.- Obtener con las mayores facilidades económicas la concesión de crédito para sus agremiados.
-
-V.- Procurar la transformación de las condiciones de vida en el campo haciendo cómodo o higiénico el hogar del campesino y educar a las clases rurales del país en los principios de la técnica moderna de producción.
-
-VI.- Fomentar, cuando las condiciones sociales y económicas de los productores lo permitan, el desarrollo de la organización cooperativa.
-
-VII.- Representar ante las autoridades los intereses comunes de sus asociados y proponer las medidas que estimen más adecuadas para la protección y defensa de dichos intereses.
+Segundo.- Las Uniones Regionales Agrícolas deberán acreditar en un plazo de noventa días posteriores a la fecha de su constitución, a las delegadas propietarias y suplentes, ante la Confederación Nacional de Productores Agrícolas, y las ya existentes, a partir de la entrada en vigor del presente Decreto.
