@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2010-11-16"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -730,9 +730,17 @@ IV. La aplicación del tamiz neonatal;
 
 V. La atención de la salud visual, bucal, auditiva y mental;
 
-VI. La detección temprana de la sordera y su tratamiento, desde los primeros días del nacimiento, y
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-VII. Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en edad escolar.
+VI. La detección temprana de la sordera y su tratamiento, desde los primeros días del nacimiento;
+
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+VII. Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en edad escolar, y
+
+> <small>(ADICIONADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+VIII. La prevención de la transmisión materno-infantil del VIH-SIDA y de la sífilis congénita, a través del ofrecimiento de pruebas rápidas de detección y, en su caso, atención y tratamiento de las mujeres embarazadas infectadas de VIH-SIDA o sífilis.
 
 ###### Artículo 50.
 
@@ -2427,3 +2435,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Secretaría de Salud del Distrito Federal presentará al Consejo Contra las Adicciones del Distrito Federal, en la sesión inmediata que convoque a la entrada en vigor del presente Decreto, las propuestas de Convenios a los que se refiere la fracción X del artículo 83 de la Ley de Salud del Distrito Federal, con la finalidad de que sean aprobados y disponga las acciones que considere necesarias para el debido cumplimiento y seguimiento en la ejecución de los mismos.
 
 CUARTO.- La Secretaría de Salud del Distrito Federal, en tanto no se apliquen los convenios señalados en el presente Decreto, tomando en cuenta la disposición del personal requerido para dicha actividad, brindará las pláticas informativas relativas a la prevención y atención de las adicciones a las personas que comentan infracciones por conductas relacionadas con el consumo de alcohol, drogas o enervantes, sancionadas por la Ley de Cultura Cívica del Distrito Federal o por el Reglamento de Tránsito Metropolitano.
+
+G.O. 30 DE NOVIEMBRE DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
