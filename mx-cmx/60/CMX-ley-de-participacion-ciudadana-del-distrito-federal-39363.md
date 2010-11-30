@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2010-05-27"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -1114,19 +1114,27 @@ Los recursos presupuestales que para objeto del presente artículo apruebe la As
 
 El Jefe de Gobierno y los Jefes Delegacionales deberán incluir en sus proyectos y anteproyectos anuales de presupuesto de egresos, conforme a lo establecido en los párrafos anteriores, las propuestas de montos de recursos y rubros respecto a los cuales las asambleas ciudadanas decidirán sobre su aplicación. De igual manera, incluirán dichas disposiciones en sus programas operativos y programas operativos anuales.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 84.
 
-Para efectos de lo establecido en el artículo anterior y con arreglo a lo establecido en la Ley de Planeación, la Ley de Presupuesto y Gasto Eficiente y demás normatividad aplicable, la Asamblea Legislativa, el Jefe de Gobierno, los Jefes Delegacionales y los Comités Ciudadanos convocarán de manera coordinada a consultas públicas para:
+Para efectos de lo establecido en el artículo anterior y con arreglo a lo establecido en la Ley de Planeación, la Ley de Presupuesto y Gasto Eficiente y demás normatividad aplicable, la Asamblea Legislativa, el Jefe de Gobierno, los Jefes Delegacionales y los Comités Ciudadanos convocarán de manera coordinada a consultas ciudadanas para:
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 a) Definir las acciones prioritarias de atención en las colonias, y
 
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+
 b) La forma en que habrán de aplicarse los recursos aprobados por la Asamblea Legislativa para tal efecto.
 
-Las consultas públicas a que se refiere el presente artículo se realizarán de conformidad con lo establecido en el Capítulo IV del Título Cuarto de la presente Ley.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-El período para la realización de las consultas públicas a que se refiere el inciso a) del párrafo primero de este artículo será en los meses de junio a agosto de cada año, con el propósito de que sus resultados sean incluidos en los anteproyectos y proyectos de presupuesto de egresos, así como en los programas operativos y programas operativos anuales; mientras que, el lapso para la celebración de las consultas públicas a que se refiere el inciso b) del párrafo primero de este artículo, será en los meses de enero y febrero de cada año, con el propósito de que sean aplicados por las autoridades correspondientes y procurando su ejercicio bajo el instrumento de colaboración ciudadana previsto en el Capítulo V del Título Cuarto de esta Ley.
+Las consultas ciudadanas a que se refiere el presente artículo se realizarán de conformidad con lo establecido en el Capítulo IV del Título Cuarto de la presente Ley.
+
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+El período para la realización de las consultas ciudadanas a que se refiere el inciso a) del párrafo primero de este artículo será en los meses de junio a agosto de cada año, con el propósito de que sus resultados sean incluidos en los anteproyectos y proyectos de presupuesto de egresos, así como en los programas operativos y programas operativos anuales; mientras que, el lapso para la celebración de las consultas ciudadanas a que se refiere el inciso b) del párrafo primero de este artículo, será en los meses de enero y febrero de cada año, con el propósito de que sean aplicados por las autoridades correspondientes y procurando su ejercicio bajo el instrumento de colaboración ciudadana previsto en el Capítulo V del Título Cuarto de esta Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1306,7 +1314,9 @@ IV. Residir en la colonia cuando menos seis meses antes de la elección;
 
 V. No haber sido condenado por delito doloso;
 
-VI. No ser servidor público de confianza con mando medio o superior, ni ser dirigente o representante de partido político alguno en el ámbito local y federal.
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+VI. No desempeñar ni haber desempeñado hasta un mes antes de la emisión de la convocatoria a la renovación de los comités ciudadanos algún cargo dentro de la administración pública federal, local y/o delegacional desde el nivel de enlace hasta el máximo jerárquico, así como los contratados por honorarios profesionales y/o asimilables a salario que tengan o hayan tenido bajo su responsabilidad programas de carácter social.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1324,7 +1334,9 @@ I. Coordinación Interna.
 
 II. Coordinación de Seguridad Ciudadana y Prevención del Delito.
 
-III. Coordinación de Desarrollo Social y Educación.
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+III. Coordinación de Desarrollo Social, Educación y Prevención de las Adicciones.
 
 IV. Coordinación de Desarrollo Sustentable y Medio Ambiente.
 
@@ -1352,23 +1364,29 @@ Todos los integrantes del Comité Ciudadano y sus coordinaciones o áreas de tra
 
 El Comité Ciudadano privilegiará el consenso como método de decisión. Ante la ausencia de éste, las decisiones se tomarán por la mayoría del pleno, sin que el coordinador interno tenga voto de calidad.
 
-Los Comités Ciudadanos desarrollarán sus actividades de conformidad con las bases establecidas en esta ley y las bases que sobre el funcionamiento y operación de los Comités y Consejos Ciudadanos emita la Asamblea Legislativa.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+Los Comités Ciudadanos desarrollarán sus actividades de conformidad con lo establecido en el Titulo Noveno de la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 100.
 
-Las reuniones del pleno del Comité Ciudadano se efectuarán por lo menos una vez cada quince días, y serán convocadas por la mayoría simple de sus integrantes o por la coordinación interna.
-
-Los titulares de coordinaciones de trabajo podrán convocar al pleno del Comité exclusivamente para desahogar asuntos relacionados con su coordinación.
-
-Lo no previsto en el presente artículo será regulado por las bases que sobre el funcionamiento y operación de los Comités y Consejos Ciudadanos emita la Asamblea Legislativa.
+Las reuniones del pleno del Comité Ciudadano se efectuarán por lo menos una vez al mes, y serán convocadas por la mayoría simple de sus integrantes o por la coordinación interna.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
+Los titulares de coordinaciones de trabajo podrán convocar al pleno del Comité exclusivamente para desahogar asuntos relacionados con su coordinación.
+
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+Lo no previsto en el presente artículo será regulado por lo dispuesto en el Titulo Noveno de la presente Ley.
+
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 101.
 
-Las diferencias que se susciten al interior y entre los Comités Ciudadanos serán atendidas y resueltas en primera instancia por sus integrantes, y en segundo lugar por el Instituto Electoral, de conformidad con la normatividad que sobre el funcionamiento y operación de los Comités y Consejos Ciudadanos expida la Asamblea Legislativa.
+Las controversias que se susciten al interior y entre los Comités Ciudadanos serán atendidas y resueltas en primera instancia por sus integrantes, y en segundo lugar por el Instituto Electoral de conformidad con lo previsto en el Capítulo X del Titulo Noveno de la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1422,11 +1440,11 @@ X. Colaborar en los procesos de evaluación señalados en el párrafo cuarto del
 
 XI. Las demás que ésta y otras disposiciones jurídicas les señalen.
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 104.
 
-Las responsabilidades en que incurran los integrantes del Comité Ciudadano en el desempeño de sus funciones se regirán por lo establecido en la presente ley y en las bases que sobre el funcionamiento y operación de los Comités y Consejos Ciudadanos emita la Asamblea Legislativa.
+Las responsabilidades en que incurran los integrantes del Comité Ciudadano en el desempeño de sus funciones se regirán por lo establecido en el Capítulo X del Titulo Noveno de la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1442,7 +1460,9 @@ III. Incumplir con las funciones y responsabilidades que le correspondan, y
 
 IV. Dejar de cumplir con cualquiera de los requisitos establecidos en esta Ley para ser integrante del Comité.
 
-El proceso de separación o remoción se regirá por lo establecido en las bases que sobre el funcionamiento y operación de los Comités y Consejos Ciudadanos emita la Asamblea Legislativa.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+El proceso de separación o remoción se regirá por lo establecido en el Capítulo X del Titulo Noveno de la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1530,7 +1550,9 @@ j) Si se registran tres fórmulas, la (sic) fórmula ganadora se le otorgarán c
 
 k) Para la sustitución de los integrantes electos o de los integrantes del comité por cualquier motivo o causa, se recurrirá en primer lugar a los integrantes de la fórmula de que fuera parte aquél, respetando el orden de prelación. En caso de que por ninguno de los métodos indicados pueda subsanarse la ausencia quedará vacante el lugar, y
 
-l) Lo no previsto en el presente artículo será resuelto por las bases y lineamientos que sobre el funcionamiento y operación de los comités y consejos ciudadanos expida la Asamblea Legislativa.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+l) Lo no previsto en el presente artículo será resuelto de conformidad con lo establecido en la presente Ley.
 
 No procederá el registro de la fórmula cuando un integrante o más hayan solicitado su registro en otra fórmula, salvo renuncia expresa entregada en tiempo y forma a las Direcciones Distritales del Instituto Electoral. En este caso, dentro de los plazos establecidos en la convocatoria, se notificará a las fórmulas involucradas para que sustituyan al integrante en cuestión.
 
@@ -1730,13 +1752,17 @@ Cuando se reúnan dos o más Comités Ciudadanos, cada uno deberá informar a la
 
 El Consejo Ciudadano Delegacional es la instancia de carácter consultivo y de coordinación de los Comités Ciudadanos y las Organizaciones Ciudadanas con las autoridades de cada una de las 16 demarcaciones territoriales en que se divide el Distrito Federal.
 
-El funcionamiento y operación de los Consejos Ciudadanos se regirá por lo establecido en este Título y en la normatividad que sobre el funcionamiento y operación de los Comités y Consejos Ciudadanos expida la Asamblea Legislativa.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+El funcionamiento y operación de los Consejos Ciudadanos se regirá por lo establecido en éste y en el Título Décimo Segundo de la presente Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 130.
 
-Los consejos ciudadanos delegacionales se integrarán con el coordinador interno de cada uno de los comités ciudadanos de la demarcación territorial que corresponda, así como con el representante legal de cada una de las organizaciones ciudadanas que tengan su domicilio en la demarcación territorial y los representantes de las organizaciones enunciadas en la fracción XIX del Artículo 6º de la presente Ley
+Los consejos ciudadanos delegacionales se integrarán con el coordinador interno de cada uno de los comités ciudadanos, los coordinadores de concertación comunitaria de los Consejos del Pueblo, las autoridades tradicionales y los representantes de cada una de las organizaciones ciudadanas debidamente registradas en la demarcación territorial que corresponda.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 Los Consejos Ciudadanos Delegacionales se instalarán durante el mes de enero del año inmediato posterior al que tenga verificativo la jornada electiva de los Comités Ciudadanos. La convocatoria para su instalación y la designación de sus integrantes estará a cargo del Instituto Electoral.
 
@@ -1756,11 +1782,15 @@ IV. Informar a cada uno de los Comités Ciudadanos sobre sus actividades y el cu
 
 V. Conocer y opinar sobre los anteproyectos de presupuesto de egresos de las Delegaciones;
 
-VI. Participar en las consultas públicas que establecen los artículos 83 y 84 de esta Ley;
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+VI. Participar en las consultas ciudadanas que establecen los artículos 83 y 84 de esta Ley;
 
 VII. Conocer y opinar sobre el Programa Operativo y los Programas Operativos Anuales de las Delegaciones;
 
-VIII. Conocer y opinar sobre los informes trimestrales que acerca del ejercicio de sus atribuciones les presenten los Jefes Delegacionales en los meses de marzo, junio, octubre y diciembre;
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+VIII. Conocer y opinar sobre los informes trimestrales que acerca del ejercicio de sus atribuciones les presenten los Jefes Delegacionales en los meses de marzo, junio, septiembre y diciembre;
 
 IX. Solicitar información a las autoridades Delegacionales para el mejor desempeño de sus atribuciones;
 
@@ -1768,7 +1798,9 @@ X. Solicitar la presencia de servidores públicos Delegacionales;
 
 XI. Recibir cada tres meses la visita del Jefe Delegacional para que exponga los informes trimestrales a que se refiere la fracción VIII de este artículo, y
 
-XII. Las demás que señale la normatividad a que hace referencia el párrafo segundo del artículo 129 de esta Ley.
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+XII. Las demás que establezca la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1780,9 +1812,13 @@ El Pleno de los Consejos Ciudadanos estará integrado de conformidad con lo esta
 
 El Pleno de los Consejos sesionará públicamente y de manera ordinaria al menos cada tres meses. De manera extraordinaria se podrá reunir por acuerdo de la mayoría, cuando lo consideren necesario.
 
-El Pleno de los Consejos Ciudadanos designará, de entre sus integrantes y por mayoría de votos de los coordinadores de los Comités Ciudadanos, a una mesa directiva formada por un presidente y cinco vocales, quienes estarán encargados de dirigir las sesiones, representar al Consejo y las demás que se establezcan en la normatividad a que hace referencia el párrafo segundo del artículo 129 de esta Ley. La mesa directiva se renovará en forma semestral.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-También designará, de entre sus integrantes, a un secretario ejecutivo, quien tendrá atribuciones para llevar el registro de asistencia, elaborar y distribuir las convocatorias, elaborar las actas de la sesión y las demás que señale la normatividad a que hace referencia el párrafo segundo del artículo 129 de esta Ley.
+El Pleno de los Consejos Ciudadanos designará, de entre de sus integrantes y por mayoría de votos de los coordinadores de los Comités Ciudadanos y de los Consejos de los Pueblos, a una mesa directiva formada por un presidente y cinco vocales, quienes estarán encargados de dirigir las sesiones, representar al Consejo y las demás que se establezcan en el Título Décimo Segundo de la presente Ley.
+
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+También designará, de entre sus integrantes, a un secretario ejecutivo, quien tendrá atribuciones para llevar el registro de asistencia, elaborar y distribuir las convocatorias, elaborar las actas de la sesión y las demás atribuciones establecidas en el Título Décimo Segundo de la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1816,7 +1852,9 @@ Las comisiones de trabajo por tema serán, cuando menos, las de seguridad públi
 
 Las comisiones de trabajo sesionarán de manera ordinaria una vez al mes. También podrán sesionar de manera extraordinaria.
 
-El funcionamiento de las comisiones de trabajo, así como sus atribuciones se regirá por lo establecido en la normatividad señalada en el párrafo segundo del artículo 129 de esta Ley.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+El funcionamiento de las comisiones de trabajo, así como sus atribuciones se regirán por lo establecido en el Título Décimo Segundo de la presente Ley.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1930,6 +1968,10 @@ XIX. Las demás que le otorguen la presente ley y demás ordenamientos del Distr
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
+### CAPÍTULO I. DE LA INSTALACIÓN DE LOS COMITÉS CIUDADANOS
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 144.
 
 Son derechos de los integrantes del Consejo del pueblo los siguientes:
@@ -1990,9 +2032,1623 @@ Los Consejos de los pueblos sesionarán a convocatoria de la autoridad tradicion
 
 La separación o remoción de algún integrante del consejo del pueblo se atendrá al mismo procedimiento que se utiliza en el caso del comité ciudadano o por solicitud de la autoridad tradicional.
 
-#### SECCIÓN TERCERA. DE LA ASAMBLEA CIUDADANA ELECTIVA
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2009)</small>
+## TÍTULO NOVENO. DEL FUNCIONAMIENTO Y OPERACIÓN DE LOS COMITÉS CIUDADANOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO II. DE LA ORGANIZACIÓN INTERNA Y DEL PLENO DEL COMITÉ CIUDADANO
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 149.
+
+Los Comités Ciudadanos y de los Consejos de los Pueblos estarán integrados conforme a lo establecido en el párrafo primero del artículo 92 de la presente Ley. A sus integrantes se les denominará representantes ciudadanos. Además de lo establecido en los artículos 92, 112 y 142 de esta Ley, en la integración de los Comités Ciudadanos se atenderá a lo siguiente:
+
+I. Si se registran hasta tres fórmulas para contender en la jornada electiva serán aplicables los incisos h), i) y j) del artículo 112 de esta Ley;
+
+II. Si se registran cuatro o más fórmulas para contender en la jornada electiva y no hay empates en los primeros cuatro lugares, serán aplicables los incisos d), e) y f) del artículo 112 de esta Ley, y
+
+III. Si se registran cuatro o más fórmulas para contender en la jornada electiva y hay empates en los primeros cuatro lugares, se estará a lo siguiente:
+
+a) Se respetará el principio de pluralidad en su integración, sin pasar por alto que en ésta se privilegiará el número de votos obtenidos en la jornada electiva;
+
+b) Se respetará, siempre y cuando esto sea posible, hasta el cuarto lugar obtenido por las fórmulas contendientes;
+
+c) El número de sitios que se otorguen a cada una de las fórmulas que ocupen los diferentes lugares conforme a su votación podrá variar de modo que se logre la mayor representación;
+
+d) Si hay empate en primer lugar entre dos fórmulas se aplicará lo establecido en el inciso g) del artículo 112 de esta Ley;
+
+e) En caso de empate entre varias fórmulas en un mismo lugar, siempre y cuando haya integrantes de los Comités o Consejos por repartir, se distribuirán de manera igualitaria entre éstas;
+
+f) Si después de observar lo establecido en el inciso anterior llegaren a existir lugares por asignar, se distribuirán entre las fórmulas que consigan los lugares subsecuentes en la jornada electiva;
+
+g) Cuando los lugares a asignar sean menos que el número de fórmulas que tengan derecho a ocupar un sitio en el Comité Ciudadano o Consejo del Pueblo, el Instituto Electoral, a través de insaculación, asignará entre tales fórmulas de modo que los lugares sean ocupados por aquellos que resulten insaculados.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 150.
+
+Dentro de los siguientes quince días de la fecha en que se haya realizado la elección si no existen impugnaciones o dentro del plazo de veinticuatro horas posteriores a que se notifique la resolución definitiva de la impugnación de la jornada electiva correspondiente, las Direcciones Distritales, notificarán mediante estrados físicos y electrónicos, a los ciudadanos que resultaron electos para integrar al Comité Ciudadano de cada colonia, quienes acudirán a las Direcciones Distritales a recoger las constancias de asignación las cuales servirán como un medio de identificación ante las autoridades competentes.
+
+Las Direcciones Distritales llevarán un registro actualizado de los integrantes de cada Comité.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 151.
+
+Con el objeto de que los representantes ciudadanos electos puedan identificarse, el Instituto Electoral les proporcionará, a más tardar el tercer domingo del mes de septiembre del año en que tenga verificativo la jornada electiva, la credencial que los acredite como tales. Dicho documento contendrá como mínimo el nombre del representante ciudadano, su domicilio, su fotografía, la colonia a la que representa, el Comité Ciudadano del que es integrante, el Consejo Delegacional al que pertenecen, tratándose de los coordinadores internos, y demás elementos que se consideren pertinentes.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 152.
+
+El Instituto Electoral es el encargado de organizar y efectuar la instalación de los Comités Ciudadanos y de los Consejos de los Pueblos. Las sesiones de instalación de los Comités Ciudadanos se realizarán en la primera quincena de octubre del año en que se efectúe la jornada electiva.
+
+Las sesiones de instalación podrán ser colectivas o individuales.
+
+Las instalaciones colectivas serán por distrito electoral, por delegación o por cualquier otra subdivisión territorial que determine el Instituto Electoral. Las individuales serán por Comité Ciudadano y se llevarán a cabo cuando por falta de quórum alguno o algunos de éstos no se instalen en la sesión colectiva
+
+La convocatoria para la instalación colectiva de los Comités Ciudadanos la realizará el Instituto Electoral, de manera personal y por escrito, a los representantes ciudadanos electos en forma simultánea a la entrega de la credencial a que se refiere el artículo anterior, debiendo indicar la fecha, hora y lugar en que se llevará a cabo la sesión de instalación.
+
+El Jefe de Gobierno del Distrito Federal y las y los jefes delegacionales, de manera conjunta, deberán proporcionar un listado de espacios para:
+
+a) Las sesiones de instalaciones colectivas e individuales de los órganos de representación ciudadana, un mes antes de su realización,
+
+b) Para la celebración de las sesiones ordinarias y extraordinarias de los órganos de representación ciudadana. Según lo requiera el Instituto Electoral del Distrito Federal.
+
+Estos listados se proporcionarán al Instituto, según lo requiera, para la distribución óptima de los espacios entre los órganos de representación ciudadana.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 153.
+
+En las sesiones colectivas de instalación de los Comités Ciudadanos estarán presentes funcionarios del Instituto Electoral, quienes verificarán su correcta instalación e integración de conformidad con las siguientes reglas:
+
+I. Pasarán lista de asistencia de los integrantes de cada Comité Ciudadano;
+
+II. Tomarán protesta y declararán instalados a los Comités Ciudadanos cuyo número de integrantes presentes sean cuando menos la mitad más uno;
+
+III. Elaborarán el acta de instalación de cada Comité Ciudadano para lo que recabarán las firmas de sus integrantes. El original del acta se resguardará en la dirección distrital correspondiente, remitiéndose copia simple de ésta al coordinador interno del Comité Ciudadano respectivo.
+
+IV. Los integrantes de los Comités Ciudadanos que sean declarados instalados, acordarán fecha, hora y lugar para su primera sesión.
+
+V. Los Comités Ciudadanos que no sean instalados en la sesión colectiva por no reunir el quórum señalado en la fracción II de este artículo, lo serán en sesiones individuales convocadas por el Instituto Electoral dentro del plazo señalado en el primer párrafo del artículo 152 de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO III. DE LAS COORDINACIONES DE TRABAJO DEL COMITÉ CIUDADANO
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 154.
+
+El Comité Ciudadano funcionará en pleno y en coordinaciones internas de trabajo.
+
+El pleno estará conformado por los nueve o cinco representantes ciudadanos que según sea el caso integren al Comité Ciudadano.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 155.
+
+Los trabajos del pleno serán dirigidos y coordinados por la coordinación interna del Comité Ciudadano.
+
+Será coordinador interno quien haya ostentado la figura de presidente en la fórmula que obtenga la mayoría de la votación en la jornada electiva de la colonia respectiva. Las direcciones distritales darán cuenta de tal situación al momento de expedir las constancias de asignación a los ciudadanos que resulten electos para integrar al Comité Ciudadano de cada colonia.
+
+En caso de que como resultado de la jornada electiva las direcciones distritales no puedan determinar la existencia de coordinador interno, porque haya empate en primer lugar entre dos fórmulas o por alguna otra causa, los representantes ciudadanos lo designarán por mayoría de votos, en la sesión de instalación del Comité Ciudadano, de entre los integrantes asignados de las fórmulas respectivas que hayan ocupado los dos primeros lugares en la jornada electiva.
+
+En el desempeño de sus funciones el coordinador interno se auxiliará de un secretario, quien será designado de manera libre por aquél de entre los integrantes del Comité Ciudadano.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 156.
+
+Corresponde al coordinador interno:
+
+I. Coordinar los trabajos del pleno;
+
+II. Preservar la libertad y el orden durante el desarrollo de los trabajos del pleno;
+
+III. Presidir al Comité Ciudadano, a la coordinación interna de éste y a la asamblea ciudadana;
+
+IV. Presidir las reuniones, dirigir los debates y discusiones del pleno y la coordinación interna del Comité Ciudadano;
+
+V. Programar y elaborar en consulta con el secretario el desarrollo general y el orden del día de las sesiones del pleno;
+
+VI. Expedir la convocatoria para las reuniones del pleno;
+
+VII. Iniciar y clausurar las reuniones del pleno;
+
+VIII. Adoptar las decisiones y medidas que se requieran para la organización del trabajo del pleno;
+
+IX. Dar cumplimiento a los acuerdos tomados por el pleno, efectuando los trámites necesarios;
+
+X. Llamar al orden a los integrantes del Comité, dictando las medidas necesarias para conservarlo;
+
+XI. Participar en el Consejo Ciudadano Delegacional;
+
+XII. Someter a consideración del pleno del Comité la convocatoria para la realización de la asamblea ciudadana;
+
+XIII. Suspender las sesiones del pleno del Comité en términos de lo establecido en el artículo 166 de esta Ley;
+
+XIV. Convocar al menos una vez al mes a reuniones del pleno del Comité con los representantes de manzana, a efecto de canalizar las demandas ciudadanas que éstos le remitan;
+
+XV. Requerir a los integrantes del Comité faltistas a concurrir a las reuniones del pleno de éste, y
+
+XVI. Las demás que le confiera la presente Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 157.
+
+Corresponde al Secretario:
+
+I. Auxiliar al coordinador interno en la preparación del orden del día de las sesiones del pleno;
+
+II. Firmar y notificar a los integrantes del Comité y a la Dirección Distrital que corresponda las convocatorias a las sesiones del pleno;
+
+III. Pasar lista de asistencia y verificar la existencia del quórum legal;
+
+IV. Dar lectura durante las reuniones de trabajo a los documentos que le sean indicados;
+
+V. Elaborar las actas de las sesiones del pleno;
+
+VI. Distribuir el acta de la sesión entre los integrantes del Comité y la Dirección Distrital que le corresponda;
+
+VII. Recoger y computar las votaciones a fin de comunicar los resultados, y
+
+VIII. Las demás que le confiera la presente Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 158.
+
+Las sesiones del pleno serán ordinarias y extraordinarias.
+
+Las sesiones ordinarias se celebrarán por lo menos cada mes. Para tal efecto, la coordinación interna elaborará programas trimestrales de sesiones ordinarias, el cual será aprobado con efectos de notificación por la mayoría del pleno del Comité Ciudadano en los meses de diciembre, marzo, junio y septiembre de cada año.
+
+Las convocatorias a las sesiones ordinarias serán expedidas y firmadas por el coordinador interno, el secretario y algún integrante más del comité. Deberán ser notificadas de manera personal, por medios electrónicos, vía telefónica, por medio de avisos o en el domicilio de los integrantes del Comité, con cinco días de anticipación, y a la dirección distrital que corresponda a la colonia donde tenga su asiento el Comité Ciudadano. De igual manera las convocatorias serán hechas del conocimiento de los habitantes de las colonias, para lo cual serán publicadas en los lugares de mayor afluencia de éstas.
+
+Las convocatorias deberán contener el lugar, fecha y hora de la sesión, el orden del día y los documentos anexos que así se requieran.
+
+El lugar donde habrán de celebrarse las sesiones deberá estar ubicado en la colonia que represente el Comité Ciudadano. El personal del Instituto Electoral podrá acudir a las sesiones de los Comités para verificar su correcto funcionamiento.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 159.
+
+Las sesiones extraordinarias tendrán verificativo cuando la naturaleza o urgencia de la atención de los asuntos así lo ameriten.
+
+Podrán solicitar la realización de sesión extraordinaria una tercera parte de los integrantes del Comité Ciudadano o el coordinador interno de éste. Si en un plazo de 72 horas el coordinador interno omite citar a la sesión solicitada, ésta se llevará a cabo con la convocatoria de la mayoría de los integrantes del comité ciudadano
+
+Las convocatorias a las sesiones extraordinarias serán expedidas y firmadas con 48 horas de anticipación, por un tercio de los integrantes del comité, incluidos el coordinador interno, el secretario y algún integrante más del comité y deberán satisfacer los requisitos establecidos en el artículo 158 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 160.
+
+Las reuniones del pleno del Comité se desarrollarán conforme al orden del día, que podrá integrarse de la siguiente manera:
+
+I. Lista de asistencia y verificación de quórum;
+
+II. Lectura y aprobación del orden del día;
+
+III. Aprobación del acta de la sesión anterior;
+
+IV. Comunicaciones de la coordinación interna;
+
+V. Presentación y discusión de pronunciamientos, avisos y propuestas, y
+
+VI. Asuntos Generales.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 161.
+
+Para que puedan celebrarse las sesiones ordinarias o extraordinarias del pleno en primera convocatoria es necesaria la presencia de la mayoría simple de los representantes ciudadanos que conforman al Comité.
+
+En caso que después de treinta minutos no se reúna el quórum a que hace referencia el párrafo anterior, se atenderá una segunda convocatoria en la que la sesión dará inicio con los representantes ciudadanos presentes.
+
+Al inicio de la sesión el secretario pasará lista de asistencia y dará cuenta del número de integrantes del Comité presentes, acto seguido el coordinador interno declarará abierta la sesión.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 162.
+
+Instalada la sesión, el coordinador interno, a través del secretario, pondrá a consideración de los integrantes del Comité el proyecto de orden del día.
+
+El orden del día será aprobado por mayoría de votos, pudiendo ser modificado total o parcialmente a petición de alguno de los integrantes del Comité Ciudadano.
+
+Durante la sesión serán discutidos, sometidos a votación y, en su caso, aprobados los asuntos contenidos en el orden del día.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 163.
+
+Aprobado el orden del día, el coordinador interno solicitará al secretario poner a consideración de los integrantes del Comité el acta de la sesión anterior, los que la aprobarán por mayoría de votos, pudiendo cualquiera de ellos solicitar su modificación total o parcial.
+
+El acta de la sesión deberá contener la fecha, hora y lugar en la que se realizó la reunión, su duración, los puntos del orden del día, los acuerdos tomados y el nombre y firma de los integrantes del Comité Ciudadano en todas y cada una de sus fojas. Dentro de los tres días posteriores a la aprobación del acta por el pleno del Comité, el secretario entregará una copia de ésta a la dirección distrital competente.
+
+El Instituto Electoral elaborará y distribuirá entre las coordinaciones internas los formatos y formas impresas de convocatorias, órdenes del día, actas y demás documentos necesarios para el correcto desempeño de las funciones del Comité Ciudadano.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 164.
+
+Los integrantes del Comité Ciudadano sólo podrán hacer uso de la palabra con la autorización del coordinador interno, no pudiendo ser interrumpidos, salvo por éste, para señalarles que su tiempo ha concluido o para exhortarlos a que se conduzcan en los términos previstos por la presente Ley.
+
+Si el integrante del Comité se aparta del asunto en debate o hace alguna referencia que ofenda a cualquiera de los presentes, el coordinador interno le advertirá. Si el orador es reiterativo en su conducta, el coordinador interno le retirará el uso de la palabra y no podrá otorgársela sino hasta el siguiente punto del orden del día.
+
+Salvo el supuesto señalado en el párrafo anterior, por ningún motivo y bajo ningún supuesto le podrá ser negada el uso de la palabra a los integrantes del Comité.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 165.
+
+Para la discusión de los asuntos incluidos en el orden del día, el coordinador interno, con apoyo del secretario, elaborará una lista de integrantes del Comité que harán uso de la palabra conforme al orden en que lo soliciten y de acuerdo a las siguientes reglas:
+
+I. Intervendrán una sola vez y por diez minutos como máximo en primera ronda. Concluida dicha ronda, el coordinador interno preguntará si el asunto está suficientemente discutido y, en caso de no ser así, habrá el número de rondas de intervenciones que se consideren necesarias;
+
+II. La participación en las subsecuentes rondas de intervenciones serán en los términos establecidos en la fracción anterior, pero las intervenciones no podrán exceder de cinco minutos, y
+
+III. Si ninguno de los integrantes del Comité solicita la palabra o si se han agotado las rondas de intervenciones, se procederá a la votación o toma de nota del asunto.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 166.
+
+El coordinador interno podrá declarar la suspensión de la sesión, por cualquiera de las causas siguientes:
+
+I. Cuando por la ausencia de alguno de los integrantes del Comité Ciudadano se interrumpa el quórum para sesionar;
+
+II. Cuando no existan las condiciones que garanticen el buen desarrollo de la sesión, la libre expresión de las ideas o la seguridad de los representantes ciudadanos, y
+
+III. Cuando exista alteración del orden.
+
+La suspensión de la sesión tendrá los efectos de dar por concluida la misma, asentándose en el acta los motivos, causas o razones por los cuales se suspendió, y los asuntos ya estudiados, revisados, discutidos y en su caso votados. Los puntos del orden del día pendientes de tratar serán incluidos en la sesión inmediata siguiente.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 167.
+
+El coordinador interno, previa consulta con los integrantes del Comité, podrá declarar en receso la sesión y el tiempo para su reanudación.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO IV. DE LA RELACIÓN CON LA ASAMBLEA CIUDADANA
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 168.
+
+Los Comités Ciudadanos podrán integrar más comisiones o en su caso no establecer alguna de las señaladas en el artículo 97 de esta Ley, exceptuando las coordinaciones previstas en las fracciones I, II, III y V de dicho artículo que tendrán carácter de obligatorias.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 169.
+
+Las coordinaciones de trabajo estarán integradas por un representante ciudadano.
+
+El pleno del Comité designará por mayoría de votos a los titulares de las coordinaciones de trabajo, debiéndose reflejar la pluralidad del Comité. Los titulares de las coordinaciones de trabajo durarán tres años en sus funciones, pudiendo ser removidos en una sola ocasión por acuerdo del pleno, como resultado de las evaluaciones anuales que haga el pleno del Comité Ciudadano o por motivos de salud o cambio de dirección.
+
+La elección de los titulares de las coordinaciones de trabajo se realizará en la sesión del pleno del Comité posterior a la de instalación. La coordinación interna del Comité deberá notificar a la dirección distrital correspondiente, en un plazo no mayor de cinco días hábiles posteriores a su realización, la integración de las coordinaciones de trabajo.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 170.
+
+Las coordinaciones de trabajo serán competentes para conocer de la materia que se derive conforme a su denominación, a efecto de proponer, recibir y analizar los asuntos que le sean formulados al interior del Comité o en la asamblea ciudadana.
+
+De igual manera y a efecto de desahogar los asuntos de su competencia podrán coordinarse en forma directa con las autoridades respectivas, quienes tendrán la obligación de atenderlos en tiempo y forma.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 171.
+
+Las coordinaciones de trabajo tendrán cuando menos las siguientes atribuciones específicas:
+
+I. Interna:
+
+a) Integrar las actividades de cada coordinación de trabajo en el Programa General de Trabajo;
+
+b) Someter a consideración del pleno del Comité la realización de consultas ciudadanas sobre temas que tengan impacto trascendental en los distintos ámbitos temáticos y territoriales del Distrito Federal;
+
+c) Someter a consideración del pleno del Comité la opinión sobre el programa semestral de difusión pública a cargo de la administración pública del Distrito Federal;
+
+d) Someter a consideración del pleno del Comité el programa de difusión de las acciones y funciones de la administración pública, a través de los medios de comunicación comunitarios que permitan a los habitantes de la colonia tener acceso a esa información;
+
+e) Someter a consideración del pleno del Comité las propuestas de contralores ciudadanos;
+
+f) Poner a consideración del pleno del Comité la solicitud de audiencia pública;
+
+g) Poner a consideración del pleno del Comité las solicitudes de recorridos del Jefe Delegacional;
+
+h) Integrar el informe de actividades del Comité, y
+
+i) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+II. Seguridad Ciudadana y Prevención del Delito:
+
+a) Elaborar una agenda en la que se contemplen los problemas de Seguridad Ciudadana identificados en la colonia que representan, para darlos a conocer a las autoridades competentes con el fin de implementar acciones que tengan por objeto la seguridad ciudadana y la prevención del delito;
+
+b) asistir una vez a la semana a las reuniones de las coordinaciones territoriales de seguridad pública y procuración de justicia, que sean abiertas a la ciudadanía a exponer los problemas de su colonia
+
+c) Conocer y opinar respecto a la implementación de los planes, programas, proyectos y acciones en materia de seguridad ciudadana y prevención del delito a cargo de la administración pública,
+
+d) Coadyuvar con las autoridades de la administración pública para fomentar la prevención del delito, y
+
+e) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+III. Desarrollo Social y Educación y prevención de las adicciones:
+
+a) Detectar las necesidades en materia de desarrollo social, educación y prevención de las adicciones de la colonia que represente y dar a conocer las mismas a las autoridades competentes, a efecto de que éstas sean atendidas;
+
+b) Conocer y opinar respecto de los planes, programas, proyectos y acciones en materia de desarrollo social, educación y prevención de las adicciones a cargo de la administración pública;
+
+c) Coadyuvar con las autoridades de la administración pública para promover los programas de desarrollo social, educación y prevención de las adicciones entre los vecinos de la colonia que representan, y
+
+d) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+e) Elaborar un diagnóstico y un programa que integre y vaya dirigido a la participación del sector juvenil en las actividades del comité según la propia dinámica de la colonia.
+
+IV. Desarrollo Sustentable y Medio Ambiente:
+
+a) Conocer y opinar respecto de los planes, programas, proyectos y acciones en materia de desarrollo sustentable y medio ambiente a cargo de la administración pública;
+
+b) Coadyuvar con las autoridades de la administración pública para promover las tareas en materia de desarrollo sustentable y medio ambiente, y
+
+c) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+V. Presupuesto y Planeación Participativa y de Desarrollo Económico y Empleo:
+
+a) Conocer y opinar respecto de los planes, programas, proyectos y acciones en materia de desarrollo económico y empleo a cargo de la administración pública;
+
+b) Coadyuvar con las autoridades de la administración pública para promover las tareas en materia de desarrollo económico y empleo;
+
+c) Participar en los procesos de planeación y presupuesto participativo en términos de lo dispuesto en los artículos 83 y 84 de esta Ley, y
+
+d) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+VI. Desarrollo y Servicios Urbanos:
+
+a) Conocer y opinar en relación con los planes, programas, proyectos y acciones en materia de desarrollo y servicios urbanos, a cargo de la administración pública;
+
+b) Detectar las necesidades de su colonia o pueblo en cuanto a desarrollo y servicios urbanos se refiera, a fin de hacerlas del conocimiento de la administración pública;
+
+c) Promover la participación de los habitantes de la colonia en los planes programas, proyectos y acciones en materia de desarrollo y servicios urbanos;
+
+d) Evaluar las acciones de la administración pública relativas al desarrollo y servicios urbanos; y
+
+e) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+VII. Capacitación y Formación Ciudadana, Comunicación y Cultura Cívica:
+
+a) Identificar los problemas de capacitación, formación ciudadana, de comunicación y cultura cívica de los habitantes de la colonia o pueblo que representan para darlos a conocer a las autoridades delegacionales;
+
+b) Elaborar propuestas de capacitación, formación ciudadana, de comunicación y cultura cívica de los habitantes de la colonia o pueblo que representan;
+
+c) Instrumentar las acciones para el cumplimiento de los programas de capacitación, formación ciudadana, de comunicación y cultura cívica dirigidos a los habitantes de la colonia o pueblo que representan;
+
+d) Evaluar, por conducto de las asambleas ciudadanas, las actividades de capacitación, formación ciudadana, comunicación y cultura cívica de los habitantes de la colonia o pueblo que representan; y
+
+e) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+VIII. Fomento a los Derechos Humanos:
+
+a) Promover la cultura de derechos humanos en su colonia;
+
+b) Fomentar la educación en derechos humanos en su colonia a través de los programas de formación y capacitación que ofrece la Comisión de Derechos Humanos del Distrito Federal;
+
+c) Observar y opinar sobre la implementación planes, programas, proyectos y acciones de Derechos Humanos del Distrito Federal del Órgano Político Administrativo de su demarcación territorial; y
+
+d) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+IX. Fomento a la Transparencia y Acceso a la Información:
+
+a) Conocer y difundir entre los habitantes de la colonia los principios y lineamientos para el ejercicio del derecho de acceso a la información pública, transparencia y rendición de cuentas;
+
+b) Participar en los cursos de capacitación relacionados con el derecho de acceso a la información pública, transparencia y rendición de cuentas que brinde la administración pública;
+
+c) Promover a los habitantes de la colonia o pueblo el tema de la transparencia, acceso a la información y rendición de cuentas, y
+
+d) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+X. Coordinación de Equidad y Género:
+
+a) Promover y difundir la Perspectiva de Género como eje transversal y generador de igualdad de trato y oportunidades entre mujeres y hombres;
+
+b) Opinar sobre los programas y políticas públicas de su demarcación que tengan por objeto erradicar las desigualdades y discriminación de género;
+
+c) Fomentar acciones afirmativas para que las autoridades locales garanticen el bienestar social, en temas de erradicación de la violencia, discriminación, fomento al empleo, educación y salud;
+
+d) Propiciar un enlace continuo con el Instituto de las Mujeres del Distrito Federal y crear un trabajo en conjunto para el fomento e impulso de la perspectiva de Equidad de Género para generar la participación de mujeres y hombres en cada colonia, y
+
+e) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO V. DE LOS APOYOS MATERIALES
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 172.
+
+Las asambleas ciudadanas son el máximo órgano de decisión en cada una de las colonias en que el Instituto Electoral divide al Distrito Federal.
+
+Los Comités Ciudadanos, a través de sus coordinaciones internas, serán los encargados de convocar y presidir las asambleas ciudadanas. El coordinador interno y el secretario del Comité Ciudadano fungirán respectivamente como presidente y secretario de la asamblea ciudadana. En aquellas colonias donde no exista Comité Ciudadano, bien porque no se haya realizado la jornada electiva o por cualquier otra causa, los Consejos Ciudadanos Delegacionales en coordinación con las organizaciones ciudadanas debidamente registradas correspondientes al ámbito territorial en cuestión designarán una comisión encargada de las tareas a que se refiere el presente artículo y otras disposiciones aplicables de este ordenamiento.
+
+Los Jefes delegacionales y el Gobierno del Distrito Federal están obligados a facilitar a los Comités Ciudadanos los espacios públicos que requieran para la celebración de las asambleas ciudadanas, para lo cual los comités y las áreas de participación ciudadana de las Delegaciones acordarán el calendario anual de asambleas ciudadanas, en el cual se atenderá el principio de administración de tiempos y espacios, a efecto de garantizar los lugares públicos que se requieran para la celebración de éstas. De igual manera, les proporcionarán la logística para la celebración de las asambleas.
+
+En caso de que las autoridades delegacionales omitan u obstaculicen el cumplimiento de la obligación establecida en el párrafo anterior, la coordinación interna del Comité Ciudadano lo hará del conocimiento de la Comisión de Participación Ciudadana de la Asamblea Legislativa, para efectos de que ésta exhorte a los funcionarios públicos a tomar las medidas conducentes.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 173.
+
+Para que la coordinación interna pueda emitir la convocatoria a la asamblea ciudadana, deberá someterla a previa aprobación por parte del pleno del Comité Ciudadano. La convocatoria deberá ser firmada por la mayoría del comité e incluir al coordinador interno. Dicha convocatoria incluirá las propuestas de puntos del orden del día que formulen los representantes de manzana.
+
+El Instituto Electoral, a través de sus direcciones distritales y en términos de lo establecido en el capítulo V de este título, dotará a los Comités Ciudadanos de formatos específicos para la difusión de las convocatorias y demás actividades a desarrollar en la asamblea ciudadana.
+
+La coordinación interna deberá notificar la convocatoria a la dirección distrital que le corresponda con cuando menos diez días de anticipación.
+
+El personal del Instituto Electoral podrá estar presente en la asamblea ciudadana.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 174.
+
+La convocatoria para la asamblea ciudadana contendrá, además de lo previsto en el artículo 90 de esta Ley, el orden del día que podrá estar integrado de la siguiente forma: instalación de la asamblea; lectura y aprobación del orden del día; lectura de minuta de la asamblea anterior; informes, comunicaciones y propuestas del Comité Ciudadano; discusión de pronunciamientos, avisos y propuestas, y asuntos generales.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 175.
+
+El Comité Ciudadano tendrá las siguientes atribuciones en materia de asambleas ciudadanas:
+
+I. Convocar al menos cada tres meses a la asamblea ciudadana;
+
+II. Dirigir y coordinar, por conducto de la coordinación interna, las reuniones de la asamblea ciudadana;
+
+III. Implementar y dar seguimiento a los acuerdos de la asamblea ciudadana;
+
+IV. Elaborar, por conducto del secretario, las minutas de las asambleas ciudadanas, las que contendrán la fecha, hora y lugar en la que se realizó la asamblea, su duración, los puntos del orden del día, los acuerdos y resoluciones tomados y el nombre y firma del presidente y secretario de la asamblea ciudadana en todas sus fojas. El Instituto deberá proporcionar a los comités ciudadanos los formatos específicos de las actas y minutas. Una copia de la minuta deberá ser entregada por el secretario, en un plazo de cinco días hábiles posteriores a la realización de la asamblea ciudadana, a la Comisión de Vigilancia de la asamblea ciudadana y a la Dirección Distrital competente;
+
+V. Presentar para su aprobación el programa general de trabajo del Comité Ciudadano. Este programa será elaborado por el coordinador interno y aprobado con antelación por el pleno del Comité;
+
+VI. Presentar para su aprobación los programas parciales de trabajo de las coordinaciones de trabajo de los Comités Ciudadanos. Dichos programas serán elaborados por los titulares de las coordinaciones de trabajo y aprobados con antelación por el pleno del Comité;
+
+VII. Presentar informes semestrales sobre el ejercicio de sus atribuciones y el desarrollo de sus actividades;
+
+VIII. Informar, por conducto de su coordinador interno, de los temas tratados, las votaciones, los acuerdos alcanzados y demás asuntos de interés del Consejo Ciudadano Delegacional;
+
+IX. Convocar en coordinación con la Asamblea Legislativa, el Jefe de Gobierno y el Jefe Delegacional correspondiente, a las consultas ciudadanas que establece el artículo 84 de esta Ley;
+
+X. Coordinar, a través de la coordinación de trabajo competente, a las comisiones de apoyo comunitario que constituya la asamblea ciudadana, y
+
+XI. Las demás que establece la presente Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 176.
+
+La asamblea ciudadana se celebrará en la fecha, hora y lugar señalado en la convocatoria. Cualquier modificación a la fecha, hora y lugar invalidará la asamblea ciudadana.
+
+El día y la hora señalados para la verificación de la asamblea ciudadana, la coordinación interna declarará instalada la asamblea ciudadana y procederá de inmediato a la lectura del orden del día.
+
+El secretario pondrá a consideración de los jóvenes, niños, vecinos y ciudadanos el proyecto de orden del día.
+
+El orden del día será aprobado por mayoría de votos de los ciudadanos presentes, estando éstos facultados para pedir su modificación o adición.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 177.
+
+Aprobado el orden del día, se procederá al desahogo de todos y cada uno de los puntos que lo integren. Durante la asamblea ciudadana serán discutidos y, en su caso, sometidos a votación los asuntos contenidos en el orden del día.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 178.
+
+Los niños, jóvenes, vecinos y ciudadanos de la colonia correspondiente sólo podrán hacer uso de la palabra con la autorización del coordinador interno y no podrán ser interrumpidos, salvo por éste, para señalarle que su tiempo ha concluido o para exhortarlo a que se conduzca en los términos previstos por la presente Ley.
+
+Si el orador se aparta del asunto en debate o hace alguna referencia que ofenda a cualquiera de los presentes, el coordinador interno le advertirá. Si el orador es reiterativo en su conducta, el coordinador interno le retirará el uso de la palabra y no podrá otorgársela sino hasta el siguiente punto del orden del día.
+
+Salvo el supuesto señalado en el párrafo anterior, por ningún motivo y bajo ningún supuesto le podrá ser negado el uso de la palabra a los niños, jóvenes, vecinos y ciudadanos de la colonia correspondiente.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 179.
+
+Para la discusión de los asuntos incluidos en el orden del día, el coordinador interno elaborará una lista de oradores conforme al orden en que soliciten el uso de la palabra y de acuerdo con lo siguiente:
+
+I. Se abrirá una primera ronda de oradores en la que conforme al orden en que fueron inscritos harán uso de la palabra los niños, jóvenes, vecinos o ciudadanos de la colonia correspondiente que así lo hallan (sic) solicitado. Dicha intervención será de viva voz y tendrá una duración máxima de cinco minutos por orador. Concluidas las intervenciones, el presidente consultará a la asamblea si el asunto está suficientemente discutido, en caso afirmativo se procederá a la votación o se dará por enterada la asamblea ciudadana, en caso contrario se abrirán tantas rondas de intervenciones como se consideren necesarias, y
+
+II. La participación en las rondas subsecuentes será en los términos establecidos en la fracción I de este artículo. Concluidas las intervenciones se procederá a la votación o se dará por enterada la asamblea ciudadana.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 180.
+
+La asamblea ciudadana podrá ser suspendida por el coordinador interno cuando no existan las condiciones que garanticen el buen desarrollo de la sesión, la libre expresión de las ideas o la seguridad de los representantes ciudadanos.
+
+La suspensión de la asamblea ciudadana dará por concluida a ésta. Los puntos del orden del día pendientes de tratar serán incluidos en la siguiente asamblea ciudadana.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 181.
+
+El Comité Ciudadano será el responsable de dar a conocer los acuerdos y resoluciones adoptados en la asamblea ciudadana a los niños, jóvenes, vecinos y ciudadanos de la colonia correspondiente, debiendo divulgarlos en los lugares públicos de mayor afluencia en la colonia y a través de los medios de comunicación comunitarios a su alcance.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 182.
+
+La elección de la comisión de vigilancia del comité ciudadano se realizará en la primera asamblea ciudadana a que convoque el Comité Ciudadano, una vez que éste entre en funciones el primero de octubre de cada tres años. Dicha elección será incluida en el orden del día de la asamblea ciudadana. Las propuestas de integrantes de la comisión de vigilancia serán presentadas ante la asamblea ciudadana por los niños, jóvenes, vecinos y ciudadanos. La discusión y votación de las propuestas de integrantes de la comisión de vigilancia se regirán por lo establecido en los artículos 178 y 179 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 183.
+
+Los integrantes de la comisión de vigilancia duran tres años en su encargo y son inamovibles, salvo por renuncia presentada ante la asamblea ciudadana.
+
+En caso de renuncia la asamblea ciudadana realizará la sustitución observando el procedimiento establecido en el artículo anterior.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 184.
+
+La evaluación del Comité Ciudadano que realice la comisión de Vigilancia lo hará en coordinación con el personal que para tal efecto designe el Instituto; se sustentará en la opinión de las vecinas, vecinos y ciudadanos de la colonia respectiva, para lo cual, en el mes de junio de cada año se levantará una encuesta de opinión.
+
+El cuestionario constará en un formato claro y sencillo, en el que se consultará a las vecinas, vecinos y ciudadanos su parecer respecto del desempeño del comité Ciudadano en atención a las obligaciones que le otorga esta ley, así como el desarrollo de proyectos y acciones de mejoramiento y metas alcanzadas en la colonia.
+
+Para cumplir con lo señalado en el párrafo anterior el Instituto contará con un Programa Anual de Evaluación del Desempeño que será el instrumento con el cual capacitará a la Comisión de Vigilancia. El Instituto contará con los manuales, instructivos y formatos, que podrán ser elaborados con la colaboración de instituciones públicas de educación superior, centros públicos de investigación, organizaciones académicas y de la sociedad civil, con los cuales el Instituto suscribirá convenios para tal fin.
+
+El resultado anual sobre el funcionamiento y desempeño del Comité Ciudadano que elabore la Comisión de Vigilancia se hará del conocimiento de la Asamblea Ciudadana para su aprobación, de conformidad con el artículo 87 de esta ley, asimismo será turnado para su conocimiento en el mes de julio al Instituto, el cual a partir del momento en que lo reciba lo enviará a la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal, en un término no mayor de cinco días hábiles.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO VI. DE LA CAPACITACIÓN
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 185.
+
+Los órganos de representación ciudadana, establecidos en las fracciones I a III del artículo 5 de la presente ley, tienen derecho a recibir los apoyos materiales necesarios para el desempeño de sus funciones. El Instituto Electoral estará encargado de otorgar los apoyos materiales referidos a los coordinadores internos, a la mesa directiva y al coordinador de concertación comunitaria respectivamente.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 186.
+
+Para efectos de esta Ley, se entenderá por apoyos materiales lo siguiente:
+
+a) Material de papelería. Las cantidades se entregarán de forma trimestral conforme a las necesidades y justificaciones de cada comité y consejo ciudadano, según sea el caso, y en todo momento el Instituto Electoral garantizará la suficiencia;
+
+b) Formatos y formas impresas para la realización de las funciones de los comités y consejos ciudadanos a que se refiere la presente ley;
+
+c) La Administración Pública del Distrito Federal, a través de los órganos competentes, establecerá programas en los que los representantes ciudadanos que integran los órganos mencionados en el párrafo primero del artículo 185, debidamente acreditados con la identificación otorgada por el Instituto Electoral y de manera unipersonal e intransferible, sean beneficiados en obtener exenciones de pago al hacer uso del servicio público de transporte del Distrito Federal a cargo del Gobierno del Distrito Federal.
+
+d) Acceso para la utilización de espacios e instalaciones públicas: se refiere al otorgamiento del uso y facilidades de acceso a la infraestructura pública como auditorios, plazas públicas, centros sociales, centros comunitarios, deportivos y demás instalaciones para el desarrollo de actividades relacionadas con el desempeño de sus funciones previa solicitud y autorización correspondiente, y
+
+e) Colaboración de estudiantes a través de programas de servicio social: a la posibilidad de que el Instituto Electoral, la Asamblea Legislativa y las Delegaciones, mediante acuerdos con instituciones de educación media y superior implementen programas para la prestación del servicio social por parte de estudiantes de estas instituciones en los órganos de representación ciudadana del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 187.
+
+El Instituto Electoral está obligado a incluir en su proyecto de presupuesto de egresos los montos de recursos suficientes para otorgar los apoyos materiales a los representantes ciudadanos.
+
+La Asamblea Legislativa está obligada a aprobar, en el presupuesto anual del Instituto Electoral, los recursos económicos suficientes para dar apoyos materiales a los representantes ciudadanos. Los recursos aprobados serán publicados en la Gaceta Oficial del Distrito Federal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO VII. DE LA PARTICIPACIÓN DE LOS COMITÉS CIUDADANOS EN LOS INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 188.
+
+El Instituto Electoral elaborará e implementará un Programa Anual de Capacitación, Educación, Asesoría y Comunicación dirigido a los órganos de representación ciudadana indicados en el artículo 5 de esta Ley.
+
+De igual manera, diseñará e implementará un Programa Anual de Fomento a las Organizaciones Ciudadanas constituidas en términos del Capítulo XI del Título Cuarto de esta Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 189.
+
+En la elaboración e implementación de los programas señalados en el artículo anterior, así como en los planes de estudio, manuales e instructivos que se deriven de éstos, el Instituto Electoral contará con el apoyo y colaboración, a través de convenios de cooperación, de instituciones públicas de educación superior, centros públicos de investigación, organizaciones académicas y de la sociedad civil.
+
+Los programas, planes de estudio, manuales e instructivos serán públicos.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 190.
+
+Con el propósito de contar con elementos objetivos sobre la pertinencia de los contenidos de los planes de estudio, materiales, manuales e instructivos de los programas establecidos en el artículo 188 de este ordenamiento, el Instituto Electoral, diseñará e implementará un programa anual de evaluación de éstos. Los resultados de dichas evaluaciones servirán de base para las modificaciones que se consideren pertinentes.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 191.
+
+Los programas anuales a que hace referencia el artículo 188 de esta Ley contarán con un plan de estudios que deberá abordar de acuerdo a quienes van dirigidos, cuando menos, los temas siguientes:
+
+a) Democracia, valores democráticos y derechos humanos;
+
+b) Promoción y desarrollo de los principios de la participación ciudadana;
+
+c) Concepto y marco jurídico de la participación ciudadana en el Distrito Federal;
+
+d) Derechos y obligaciones de los ciudadanos y habitantes del Distrito Federal;
+
+e) Marco jurídico de los órganos de gobierno del Distrito Federal;
+
+f) Desarrollo de proyectos y propuestas para el fomento de la participación ciudadana y bienestar comunitario;
+
+g) Instrumentos de participación ciudadana, requisitos de procedencia y desarrollo;
+
+h) Formación para la ciudadanía y mejoramiento de la calidad de vida;
+
+i) Atribuciones y funciones de los órganos de representación ciudadana; Mecanismos de participación colectiva en asuntos de interés general y desarrollo comunitario;
+
+j) Representación y promoción de los intereses generales, sectoriales y comunitarios;
+
+k) Cooperación y creación de redes de apoyo entre organizaciones ciudadanas;
+
+l) Planeación y presupuesto participativo, y
+
+m) Mecanismos y estrategias de comunicación y difusión comunitaria.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 192.
+
+Los integrantes de los órganos de representación ciudadana y los representantes de las organizaciones ciudadanas podrán participar y cumplir íntegramente los planes de capacitación de cada programa.
+
+Los órganos de representación ciudadana y los representantes de las organizaciones ciudadanas difundirán entre la población en general los temas desarrollados en los planes de estudio de los programas de capacitación, con el fin de contribuir al fortalecimiento de la ciudadanía y la cultura.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 192 Bis.
+
+La Asamblea Legislativa del Distrito Federal por medio de la Comisión de Participación ciudadana, contará con atribuciones para allegarse de información sobre los órganos de representación ciudadana en materia de sus funciones y obligaciones, metas y acciones efectuadas, el grado de desarrollo de proyectos y acciones de mejoramiento en las colonias, el nivel de incidencia en el mejoramiento comunitario de la colonia, y sus fortalezas y debilidades.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO VIII. DE LA PARTICIPACIÓN DE LOS COMITÉS CIUDADANOS EN EL PRESUPUESTO PARTICIPATIVO
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+#### SECCIÓN PRIMERA. DEL PLEBISCITO, REFERÉNDUM E INICIATIVA POPULAR
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 193.
+
+Las solicitudes de los Comités Ciudadanos de realización de los instrumentos de participación ciudadana denominados plebiscito, referéndum e iniciativa popular, deberán ser aprobados por los plenos de los Comités solicitantes, situación que se hará constar en las actas de las sesiones respectivas. El Instituto Electoral realizará el cómputo del número de Comités solicitantes y verificará las actas de las sesiones para determinar la procedencia de la solicitud.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 194.
+
+En el caso de la petición de plebiscito, una vez recibida la solicitud, el Jefe de Gobierno remitirá de inmediato copia de ésta al Instituto Electoral para que determine, en un plazo de 15 días naturales, si se reúne el porcentaje requerido de Comités Ciudadanos para su procedencia.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 195.
+
+La solicitud de referéndum e iniciativa popular la formularán los Comités Ciudadanos que la promuevan ante la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal.
+
+Recibida la solicitud por parte de la Comisión de Gobierno de la Asamblea Legislativa, remitirá de inmediato copia de ésta al Instituto Electoral para que determine, en un plazo de 15 días naturales, si se reúne el porcentaje requerido de Comités Ciudadanos.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 196.
+
+Los integrantes de los Comités Ciudadanos podrán participar como observadores ciudadanos en las diferentes etapas de desarrollo de los instrumentos de participación ciudadana previstos en el Título Cuarto de la presente Ley.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+#### SECCIÓN SEGUNDA. DE LA RENDICIÓN DE CUENTAS
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 197.
+
+El Jefe de Gobierno, los diputados integrantes de la Asamblea Legislativa y los Jefes Delegacionales están obligados a rendir informes generales y específicos sobre su gestión.
+
+Los informes generales se rendirán en forma anual, constarán por escrito y serán entregados a los Comités Ciudadanos a más tardar en la primera quincena de febrero de cada año y corresponderán al año fiscal inmediato anterior.
+
+Los informes específicos constarán por escrito y serán presentados por las autoridades a los Comités Ciudadanos cuando consideren que la trascendencia de un tema o asunto así lo ameriten, o cuando medie solicitud por escrito de algún o algunos Comités Ciudadanos. En este último caso la solicitud debe ser aprobada por el pleno del o de los Comités. La autoridad contará con un plazo de 30 días naturales para enviar el informe específico al Comité o Comités solicitantes.
+
+La omisión en lo preceptuado en el presente artículo será hecha del conocimiento de la Contraloría General del Distrito Federal y sancionada en términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+#### SECCIÓN TERCERA. DE LA DIFUSIÓN PÚBLICA
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 198.
+
+El Jefe de Gobierno, las Dependencias, la Asamblea Legislativa y los Jefes Delegacionales están obligados a implementar en los meses de mayo y noviembre de cada año programas de difusión pública sobre las acciones de gobierno y el ejercicio de sus funciones.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO IX. DE LA COORDINACIÓN DE LOS COMITÉS CIUDADANOS
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 199.
+
+El presupuesto participativo es aquel sobre el que los ciudadanos deciden respecto a su aplicación en las colonias que conforman al Distrito Federal, y que se haya establecido en los artículos 83 y 84 de la presente Ley.
+
+El presupuesto participativo ascenderá en forma anual a entre el 1 y 3% de los presupuestos de egresos totales anuales de las Delegaciones que apruebe la Asamblea Legislativa. Estos recursos serán independientes de los que las Delegaciones contemplen para acciones de gobierno o programas específicos de cualquier tipo que impliquen la participación de los ciudadanos en su administración, supervisión o ejercicio.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 200.
+
+Son autoridades en materia de presupuesto participativo las siguientes:
+
+I. El Jefe de Gobierno;
+
+II. La Asamblea Legislativa, y
+
+III. Los Jefes Delegacionales.
+
+En materia de presupuesto participativo el Instituto Electoral y los Comités Ciudadanos fungirán como coadyuvantes de las autoridades.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 201.
+
+Al Jefe de Gobierno le corresponde en materia de presupuesto participativo lo siguiente:
+
+I. Incluir en el apartado de Delegaciones del proyecto de presupuesto de egresos que de manera anual remita a la Asamblea Legislativa, los montos y rubros en que habrán de aplicarse los recursos del presupuesto participativo;
+
+II. Vigilar, a través de las dependencias competentes, el ejercicio del presupuesto participativo;
+
+III. Participar, en coordinación con las demás autoridades y con los Comités Ciudadanos así como con los consejos de los pueblos y su respectiva autoridad tradicional, en las consultas ciudadanas que establece el artículo 84 de esta Ley;
+
+IV. Tomar en cuenta para la elaboración del proyecto de presupuesto de egresos, los resultados de las consultas ciudadanas que dispone el artículo 84 de la presente Ley, y
+
+V. Las demás que establezcan esta Ley y las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 202.
+
+A la Asamblea Legislativa le compete en materia de presupuesto participativo, a través del pleno y de sus comisiones de Gobierno, Participación Ciudadana, Presupuesto y Vigilancia de la Contaduría Mayor de Hacienda, lo que a continuación se indica:
+
+I. Aprobar en forma anual en el decreto de presupuesto de egresos del Distrito Federal, los recursos para el presupuesto participativo.
+
+Dicha asignación se hará por Delegación y por colonia conforme a la división que efectúe el Instituto Electoral, y se basará en las evaluaciones de desempeño de los Comités que realice el Instituto Electoral en términos de esta Ley, así como en los resultados de las consultas ciudadanas que establece el inciso a) del párrafo primero del artículo 84 de la Ley de Participación Ciudadana.
+
+II. Vigilar, a través de la Contaduría Mayor de Hacienda de la Asamblea Legislativa, el ejercicio de los recursos del presupuesto participativo.
+
+Los integrantes de los órganos de representación ciudadana que establece el artículo 5 de esta Ley podrán presentar quejas, ante las comisiones de participación ciudadana, presupuesto y cuenta pública y vigilancia de la contaduría mayor de hacienda, sobre el ejercicio y aplicación de los recursos del presupuesto participativo. Dichas comisiones harán del conocimiento de la Contaduría Mayor de Hacienda y demás instancias competentes el contenido de las quejas para los efectos a que haya lugar;
+
+III. Participar, en coordinación con las demás autoridades y con los Comités Ciudadanos, en las consultas ciudadanas que establece el artículo 84 de esta Ley;
+
+IV. Tomar en cuenta para la aprobación de los recursos del presupuesto participativo los resultados de las consultas ciudadanas que dispone el artículo 84 de la presente Ley, y
+
+V. Las demás que establecen esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 203.
+
+Corresponde a los Jefes Delegacionales en materia de presupuesto participativo:
+
+I. Incluir en los programas operativos y anteproyectos anuales de presupuestos de egresos que remitan al Jefe de Gobierno, entre el uno y el tres por ciento del total de su presupuesto para presupuesto participativo.
+
+Los Jefes Delegacionales indicarán el monto de recursos que se destinará a cada una de las colonias que conforman la demarcación de acuerdo con la división que realice el Instituto Electoral, de modo que su suma ascienda a los porcentajes señalados en el párrafo anterior.
+
+La distribución de recursos entre las colonias tendrá que ser proporcional según los criterios establecidos en esta Ley, no pudiendo ser excluida colonia alguna.
+
+II. Indicar en los programas operativos y anteproyectos anuales de presupuestos de egresos los rubros en que en cada colonia de la Delegación se aplicarán los recursos del presupuesto participativo.
+
+La determinación de los rubros en que se aplicará el presupuesto participativo en cada colonia, se sustentará en los resultados de las consultas ciudadanas que establece el inciso a) del párrafo primero del artículo 84 de esta Ley.
+
+III. Participar en coordinación con las demás autoridades y con los Comités Ciudadanos en las consultas ciudadanas que establece el artículo 84 de la presente Ley.
+
+Aplicar, preferentemente por colaboración ciudadana, el presupuesto participativo que por colonia le apruebe la Asamblea Legislativa.
+
+IV. La forma en como habrán de aplicarse el presupuesto participativo en cada colonia se basará en los resultados de las consultas ciudadanas que establece el inciso b) del párrafo primero del artículo 84 de esta Ley.
+
+V. Las demás que establecen la presente Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 204.
+
+El Instituto Electoral tendrá las siguientes atribuciones en materia de presupuesto participativo:
+
+I. Educar, asesorar, capacitar y evaluar a los integrantes de los Comités Ciudadanos en materia de presupuesto participativo;
+
+II. Coordinar a las autoridades y Comités Ciudadanos para la realización de las consultas ciudadanas que dispone el artículo 84 de la presente Ley.
+
+Las convocatorias para la realización de las consultas ciudadanas serán emitidas en forma anual por el Instituto Electoral en conjunto con la Asamblea Legislativa, el Jefe de Gobierno, los Jefes Delegacionales y los Comités Ciudadanos. Debiendo ser difundidas de manera amplia en los medios masivos y comunitarios de comunicación de la Ciudad. En aquellas colonias donde no exista Comité Ciudadano, bien porque no se haya realizado la jornada electiva o por cualquier otra causa, los Consejos Ciudadanos Delegacionales en coordinación con las organizaciones ciudadanas debidamente registradas correspondientes al ámbito territorial en cuestión, designarán a una comisión encargada de realizar todos los trámites tendientes a dar cumplimiento a lo establecido en los artículos 83 y 84, el presente artículo y demás disposiciones aplicables.
+
+En las convocatorias se indicarán las fechas, lugares y horas de realización de las consultas ciudadanas en todas y cada una de las colonias en que se divida el Distrito Federal. Así como las preguntas de que constará la consulta ciudadana.
+
+El Jefe de Gobierno y los Jefes Delegacionales facilitarán los espacios necesarios para la realización de las consultas, además de la logística para su implementación.
+
+El Instituto Electoral, en conjunto con los Comités Ciudadanos, será el encargado de validar los resultados de las consultas ciudadanas. Los resultados de las consultas serán públicos en todo momento.
+
+Para el supuesto previsto en el inciso a) del párrafo primero del artículo 84 de la presente Ley, la convocatoria deberá ser emitida dentro de los primeros quince días del mes de mayo de cada año. Para el supuesto previsto en el inciso b) del párrafo primero del artículo 84 referido, la convocatoria será lanzada dentro de los primeros quince días del mes de diciembre de cada año.
+
+III. Las demás que establecen la presente Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO X. DE LAS DIFERENCIAS AL INTERIOR Y LAS RESPONSABILIDADES, SANCIONES Y EL PROCEDIMIENTO SANCIONADOR
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 205.
+
+Cuando existan problemáticas o temas comunes que involucren a dos o más colonias, los Comités Ciudadanos de éstas podrán concertar reuniones para discutir las problemáticas y, en su caso, tomar los acuerdos necesarios.
+
+Los (sic) reuniones entre diversos Comités Ciudadanos serán plenarias o de coordinaciones de trabajo, temáticas o regionales.
+
+Los coordinadores internos de los Comités Ciudadanos serán los responsables de proponer y concertar las reuniones plenarias con otro u otros Comités.
+
+Los titulares de las coordinaciones de trabajo serán los encargados de proponer y concertar reuniones con las coordinaciones de trabajo de otro u otros Comités.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 206.
+
+Las reuniones de pleno o de coordinaciones de trabajo de dos o más Comités Ciudadanos serán presididas por cualquiera de los coordinadores internos de los Comités o los titulares de las coordinaciones de trabajo, para lo cual éstos deberán ponerse de acuerdo. De igual modo se procederá con el secretario.
+
+Las reuniones, convocatorias, el quórum, las intervenciones y debates de las reuniones entre diversos Comités Ciudadanos, en pleno o de sus coordinaciones de trabajo, se regirán en lo conducente por lo establecido en el Capítulo II de este Título.
+
+El personal del Instituto Electoral podrá estar presente en las reuniones a que hace referencia este artículo.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 207.
+
+Los Comités Ciudadanos, por conducto de la coordinación interna o de los titulares de las coordinaciones de trabajo, según corresponda, harán del conocimiento de la asamblea ciudadana los resultados y acuerdos obtenidos como resultado de las reuniones plenarias o de coordinaciones internas que hubiesen celebrado con otro u otros Comités Ciudadanos.
+
+> <small>(ADICIONADO CON LOS ARTICULOS Y SECCIONES QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO ÚNICO. DE LOS CONSEJOS DEL PUEBLO
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 208.
+
+Las diferencias al interior, responsabilidades, sanciones y procedimiento sancionador de los representantes ciudadanos se regirán por lo establecido en este capítulo y demás normatividad aplicable.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+#### SECCIÓN PRIMERA. DE LAS DIFERENCIAS AL INTERIOR DE LOS COMITÉS CIUDADANOS
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 209.
+
+Son diferencias al interior de los Comités Ciudadanos las acciones u omisiones realizadas por cualquiera de los integrantes de éstos y que a continuación se señalan:
+
+I. Hacer referencias o alusiones que ofendan a alguno o algunos de los integrantes del Comité Ciudadano o de la asamblea ciudadana;
+
+II. Ausentarse sin causa justificada de las sesiones o reuniones de trabajo del pleno o coordinaciones de trabajo del Comité Ciudadano o de la asamblea ciudadana;
+
+III. Retirarse sin causa justificada de las sesiones o reuniones de trabajo del pleno o de las coordinaciones de trabajo del Comité Ciudadano o de la asamblea ciudadana;
+
+IV. Presentarse en estado de ebriedad o bajo la influencia de enervantes o psicotrópicos al cumplimiento de sus tareas;
+
+V. Impedir u obstaculizar la presencia del personal del Instituto Electoral en las sesiones o reuniones de trabajo del Pleno o de las coordinaciones de trabajo del Comité Ciudadano o de la asamblea ciudadana;
+
+VI. Contravenir u obstaculizar el desarrollo de las actividades del Comité Ciudadano, las coordinaciones de trabajo o las asambleas ciudadanas;
+
+VII. Invadir o asumir las atribuciones, actividades o trabajos de la coordinación del Comité, de los titulares de las coordinaciones internas de trabajo o del personal del Instituto Electoral;
+
+VIII. Omitir la entrega de actas y demás documentos a las Direcciones Distritales, y
+
+IX. Ocasionar daños de manera deliberada a los apoyos materiales que establece el Capítulo V de este Título y demás bienes. Sin demerito de los demás tipos de responsabilidades que haya lugar a fincar.
+
+Las conductas previstas en este artículo serán sancionadas con apercibimiento, consistente en la llamada de atención enérgica a un representante ciudadano por haber incurrido en la falta y para conminarlo a que no reitere la conducta respectiva.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 210.
+
+El procedimiento para la resolución de las diferencias al interior de los Comités Ciudadanos e imposición de sanciones consiste en la secuencia de actos desarrollados con el fin de determinar si se encuadra en las acciones u omisiones consideradas como diferencias al interior y, en consecuencia, resolver si ha lugar o no a sancionar al o los representantes ciudadanos.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 211.
+
+El procedimiento establecido en el artículo anterior se sujetará a los principios de:
+
+a) Buena fe;
+
+b) Amigable composición;
+
+c) Conciliación;
+
+d) Publicidad;
+
+e) Agilidad;
+
+f) Definitividad de las resoluciones;
+
+g) Audiencia previa y debido proceso, y
+
+h) Individualización de la sanción.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 212.
+
+El procedimiento para la imposición de sanciones será sustanciado y resuelto en primera instancia ante el Pleno del Comité Ciudadano, promoviendo la conciliación y la amigable composición de las controversias. En caso de inconformidad o de persistir la controversia conocerá y resolverá en segunda instancia la Dirección Distrital competente.
+
+Las resoluciones dictadas por las Direcciones Distritales serán definitivas.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS RESPONSABILIDADES, SANCIONES Y EL PROCEDIMIENTO SANCIONADOR
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 213.
+
+Son responsabilidades de los integrantes del Comité Ciudadano y, en consecuencia, se sancionarán con la separación o remoción las acciones u omisiones que a continuación se señalan:
+
+I. Las señaladas en el artículo 105 de esta Ley;
+
+II. Hacer uso del cargo de representante ciudadano para realizar proselitismo en favor de algún partido político, coalición, precandidato, candidato, fórmula de candidatos o representantes populares, y
+
+III. Utilizar los apoyos materiales que establece el Capítulo V de este Título para beneficio propio, para obtener lucro o para fines distintos al desempeño de sus funciones.
+
+IV. Integrarse a laborar en la administración pública delegacional, local o federal o ser incorporado a un programa social, que no sea universal, durante el período por el que fueron electos representantes ciudadanos.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 214.
+
+Para efectos de la presente Ley se entenderá por remoción o separación a la pérdida de la calidad de representante ciudadano por haber incurrido en las conductas que establece el artículo anterior.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 215.
+
+El procedimiento para la determinación de las responsabilidades y su correspondiente imposición de sanciones consiste en la secuencia de actos desarrollados con el fin de determinar si se encuadra en las acciones u omisiones consideradas como responsabilidades y, en consecuencia, resolver si ha lugar o no a sancionar a algún representante ciudadano.
+
+Dicho procedimiento se regirá por los principios señalados en el artículo 211 de esta Ley, con excepción del establecido en el inciso b.
+
+El procedimiento será sustanciado y resuelto en los términos previstos por los artículos 101 y 212 de esta Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 216.
+
+Dentro del procedimiento sancionador previsto en la presente sección podrán ser ofrecidos y, en su caso, admitidos, los siguientes medios de prueba:
+
+Documentales públicas;
+
+Documentales privadas;
+
+Testimonial;
+
+Presuncionales legales y humanas;
+
+Instrumental de actuaciones, y
+
+Cualquier otro medio de convicción no contrario a la moral y a las buenas costumbres.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 217.
+
+Los plazos establecidos en el presente Capítulo se computarán en días hábiles.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 218.
+
+Para el inicio del procedimiento establecido en la presente sección se requerirá de denuncia por escrito ante la coordinación interna del Comité Ciudadano.
+
+La denuncia podrá ser presentada por los representantes ciudadanos o por los vecinos y ciudadanos de la colonia respectiva.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 219.
+
+El escrito de denuncia deberá contener como mínimo el nombre y domicilio del denunciante, el nombre del presunto infractor, la descripción clara de las presuntas faltas, las pruebas con que cuente y la firma autógrafa del accionante. El Instituto Electoral elaborará y pondrá a disposición de los ciudadanos los formatos que podrán ser utilizados para le (sic) presentación de denuncias.
+
+La coordinación interna verificará que el escrito de denuncia cumpla con lo (sic) requisitos señalados en el párrafo anterior, en caso contrario prevendrá al denunciante para que lo subsane en un término de tres días hábiles.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 220.
+
+Si no existen prevenciones al escrito de denuncia o éstas ya fueron subsanadas, la coordinación interna del Comité Ciudadano remitirá copia de la denuncia, dentro de los tres días siguientes de la recepción de ésta, a él o los representantes ciudadanos denunciados, así como al resto de los integrantes del Comité.
+
+Él o los representantes ciudadanos denunciados formularán por escrito lo que a su derecho convenga en un plazo de cinco días después de que les sea notificada la denuncia. Dicho documento deberá reunir los requisitos que establece el artículo 219 y será entregado en el plazo referido a la mesa directiva del Comité Ciudadano.
+
+La mesa directiva correrá traslado del escrito de él o los denunciados, en un término de dos días después de recibido, al resto de los integrantes del Comité y al denunciante.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 221.
+
+En el supuesto de que el denunciado no formule por escrito lo que a su derecho convenga o lo haga de manera extemporánea, perderá su derecho para hacerlo, dejándose constancia de ello y se continuará con el procedimiento.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 222.
+
+Una vez recibidos los escritos del denunciante y del denunciado, la coordinación interna del Comité Ciudadano convocará a sesión del pleno de éste para resolver la controversia planteada.
+
+En la sesión del pleno en que se resuelva el procedimiento sancionador se escuchará a él o los denunciados, desarrollándose la discusión y votación respectiva conforme a las reglas que para tal efecto dispone el Capítulo II de este Título.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 223.
+
+La resolución que emita el Pleno del Comité Ciudadano tendrá como efecto el determinar si él o los representantes ciudadanos cometieron alguna falta y si procede la remoción o separación del representante ciudadano.
+
+Las resoluciones del Pleno del Comité deberán hacerse del conocimiento de la asamblea ciudadana, del denunciante, de la dirección distrital y del denunciado. En estos dos últimos casos se les notificará la resolución en los dos días después de aprobada para los efectos legales a que haya lugar.
+
+Las resoluciones surtirán sus efectos inmediatamente después de que la dirección distrital emita la resolución definitiva del caso o bien cuando expire el plazo para la interposición del recurso de revisión sin que se haya interpuesto el escrito respectivo.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 224.
+
+La resolución del Pleno del Comité deberá constar por escrito y contendrá:
+
+I. La fecha, lugar y órgano que la emite;
+
+II. La exposición cronológica y sucinta de los actos desarrollados en la substanciación del asunto;
+
+III. Los razonamientos que sustenten el sentido de la resolución, y
+
+IV. Los puntos resolutivos.
+
+El Instituto Electoral elaborará y pondrá a disposición de los Comités Ciudadanos los formatos de resoluciones.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 225.
+
+La resolución del Pleno del Comité podrá ser recurrida por el denunciante o el denunciado por escrito presentado ante la dirección distrital competente. El plazo para la interposición del recurso de revisión será de cinco días después de que se les haya notificado la resolución. La coordinación interna del Comité Ciudadano está obligada a remitir a la dirección distrital todos los documentos del procedimiento sancionador desahogado ante el Pleno del Comité.
+
+La dirección distrital podrá confirmar, revocar o modificar la resolución del Pleno del Comité Ciudadano.
+
+El procedimiento ante la dirección distrital se sustanciará conforme a lo previsto en el presente Capítulo y en las disposiciones que para tal efecto emita el Instituto Electoral.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 226.
+
+La remoción o separación de alguno o algunos de los representantes ciudadanos tendrá como efecto su sustitución en el Comité Ciudadano. Para tal efecto, se observarán las siguientes reglas:
+
+a) La resolución de remoción o separación deberá tener carácter definitivo conforme a lo establecido en el párrafo tercero del artículo 223 de esta Ley;
+
+b) El Instituto Electoral, a través de la dirección distrital competente, designará al ciudadano que sustituirá al representante ciudadano removido;
+
+c) Para la designación del representante ciudadano sustituto, el Instituto Electoral recurrirá en primera instancia a los integrantes de la fórmula o planilla de la que fuera parte el representante ciudadano removido, respetando el orden de prelación. En segunda instancia se recurrirá a los integrantes de las fórmulas o planillas que hayan obtenido los lugares subsecuentes en la jornada electiva. El representante ciudadano sustituto ocupará el cargo por el tiempo que reste para concluir los tres años de ejercicio del Comité Ciudadano, recibirá la credencial que señala el de esta Ley, gozará de los derechos y obligaciones que establece esta Ley, y asumirá los cargos que tuviere el representante ciudadano en las coordinaciones de trabajo del Comité Ciudadano;
+
+d) En caso de que bajo el método de sustitución indicado en el inciso anterior no pueda subsanarse la remoción del representante ciudadano, el Instituto Electoral declarará vacante el lugar, y
+
+e) Cuando algún representante ciudadano renuncie o fallezca se procederá en términos de lo establecido en los párrafos b), c) y d) del presente artículo.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+## TÍTULO DÉCIMO. DE LOS CONSEJOS DEL PUEBLO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO ÚNICO. DE LOS REPRESENTANTES DE MANZANA
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 227.
+
+El funcionamiento y operación de los Consejos del Pueblo; los derechos, atribuciones y obligaciones de sus integrantes; el régimen de responsabilidades, sanciones y sustituciones; la participación en los instrumentos de participación ciudadana; las (sic) intervención en el presupuesto participativo; los recursos materiales; sus funciones en las asambleas ciudadanas; la coordinación con otros Consejos del Pueblo y demás se regirán por lo establecido en el Título Octavo, el Noveno y el presente.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 228.
+
+Los Consejos del Pueblo contarán con una coordinación de concertación comunitaria que estará integrada por un coordinador, que será quienes hayan ostentado la figura de presidente en la fórmula que haya obtenido la mayoría de la votación en la jornada electiva de los Consejos del Pueblo. Las direcciones distritales darán cuenta de tal situación al momento de expedir las constancias de asignación a los ciudadanos que resulten electos para integrar al Consejos (sic) del Pueblo.
+
+En caso de que como resultado de la jornada electiva las direcciones distritales no puedan determinar la existencia de coordinador de concertación comunitaria, porque haya empate en primer lugar entre dos fórmulas o por alguna otra causa, los representantes ciudadanos los designarán por mayoría de votos en la sesión de instalación de los Consejos del Pueblo.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 229.
+
+Las atribuciones de la coordinación de concertación comunitaria son las siguientes:
+
+I. Fungir como coordinador del Consejo del Pueblo ante la autoridad tradicional y la asamblea ciudadana;
+
+II. Coadyuvar con la autoridad tradicional en el desarrollo de las reuniones del pleno del Consejo del Pueblo;
+
+III. Programar y elaborar, en conjunto con la autoridad tradicional, las convocatorias, el orden del día y el desarrollo general de las sesiones del pleno;
+
+IV. Expedir a solicitud de la autoridad tradicional o de la mayoría simple de los integrantes del Consejo del Pueblo, las convocatorias para las reuniones del pleno;
+
+V. Implementar las decisiones y medidas que se requieran para la organización del trabajo del pleno;
+
+VI. Dar cumplimiento a los acuerdos tomados por el pleno efectuando los trámites necesarios;
+
+VII. Llamar al orden a los representantes ciudadanos, dictando las medidas necesarias para conservarlo;
+
+VIII. Participar en conjunto con la autoridad tradicional en el Consejo Ciudadano Delegacional;
+
+IX. Convocar en coadyuvancia con la autoridad tradicional a la realización de las asambleas ciudadanas;
+
+X. Fungir junto con la autoridad tradicional como mesa directiva en las asambleas ciudadanas y en las sesiones del pleno, alternándose las funciones de presidente y secretario;
+
+XI. Requerir a los representantes ciudadanos faltistas a concurrir a las reuniones del pleno del Consejo del Pueblo, y
+
+XII. Las demás que establezca la presente Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 230.
+
+Las convocatorias, discusiones y desarrollo de las sesiones de los Consejos del Pueblo se regirán por lo dispuesto en la presente Ley para los Comités Ciudadanos.
+
+El coordinador de concertación comunitaria coordinará sus labores con la autoridad tradicional, la cual tendrá derecho a voz en las discusiones y acuerdos del pleno del Consejo del Pueblo, sujetando su participación en los Consejos sólo a coadyuvar en el desempeño de sus funciones.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+## TÍTULO DÉCIMO PRIMERO. DE LOS REPRESENTANTES DE MANZANA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO I. GENERALIDADES
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 231.
+
+La coordinación interna del Comité Ciudadano o del Consejo del Pueblo en coordinación con la autoridad tradicional convocará a las asambleas ciudadanas en donde habrá de designarse a los representantes de cada manzana. En la sesión de la asamblea, el secretario registrará a los vecinos que se propongan para asumir la representación de la manzana, quienes deberán ser vecinos reconocidos por su honorabilidad, independencia, vocación de servicio, participación en labores comunitarias y cubrir los requisitos que prevé el artículo 95 de esta Ley, que son acreditar mediante credencial para votar con fotografía que radican en esa colonia, con un mínimo de seis meses de antigüedad de manera continua, no haber sido condenado por delito doloso y estar inscrito en el Listado Nominal.
+
+La designación del representante de manzana se efectuará por el voto libre y directo de la mayoría de los ciudadanos de la manzana reunidos en la asamblea, quienes expresarán su votación de manera verbal y a mano alzada a favor del vecino de su preferencia para ocupar el cargo.
+
+En caso de empate entre los vecinos propuestos como representantes de manzana se realizarán las rondas de votación necesarias para obtener un triunfador. Las designaciones de los representantes son definitivas e inatacables.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 232.
+
+Los representares de manzana actuarán como enlace entre los vecinos de la manzana que representen y el Comité Ciudadano o el Consejo del Pueblo. Tendrán las atribuciones siguientes:
+
+I. Supervisar y emitir opiniones sobre la aplicación de programas, proyectos, obras y políticas públicas en su manzana y colonia;
+
+II. Emitir opiniones sobre la aplicación del presupuesto participativo en su manzana o colonia;
+
+III. Proponer al Comité Ciudadano o al Consejo del Pueblo proyectos de consulta ciudadana, colaboración ciudadana, difusión publica, de participación en la red de contralorías ciudadanas, audiencia pública y recorridos del Jefe Delegacional relacionados con su manzana o colonia;
+
+IV. Canalizar las demandas y solicitudes de sus vecinos ante los Comités Ciudadanos o Consejos del Pueblo;
+
+V. Participar en las sesiones del Comité Ciudadano o del Consejo del Pueblo a las que sean convocados;
+
+VI. Proponer al Comité Ciudadano y a los Consejos del Pueblo proyectos sobre presupuesto participativo relativos a su manzana, para lo que podrá organizarse con otros representantes de manzana;
+
+VII. Enviar al Comité Ciudadano o al Consejo del Pueblo las necesidades y proyectos a ejecutar en beneficio de la colonia;
+
+VIII. Solicitar información al Comité Ciudadano o al Consejo del Pueblo sobre asuntos de su competencia o relacionada con su funcionamiento, y
+
+IX. Las demás que le confiera la asamblea ciudadana.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 233.
+
+Los representantes de manzana de cada colonia deberán reunirse al menos una vez por mes a convocatoria del Comité Ciudadano o del Consejo del Pueblo. En las reuniones de trabajo que se realicen se desarrollarán los temas y se dará seguimiento a las acciones y programas que se implementen en la colonia de que se trate.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 234.
+
+Los representantes de manzana estarán sujetos al mismo régimen de faltas y sanciones al que se encuentran los miembros de los Comités Ciudadanos o de los Consejos del Pueblo de conformidad con las disposiciones que sobre la materia establece el Capítulo X del Título Noveno del presente ordenamiento. En consecuencia, podrán ser removidos por las mismas causales previstas para los integrantes de los Comités Ciudadanos o Consejos del Pueblo.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS CONSEJOS CIUDADANOS DELEGACIONALES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO II. DE LA INSTALACIÓN
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 235.
+
+Los Consejos Ciudadanos Delegacionales actuarán como órganos de representación ciudadana para el fomento de la participación ciudadana, atendiendo y canalizando las necesidades colectivas y los intereses comunitarios en las colonias que integran cada demarcación territorial en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 236.
+
+Los Consejos Ciudadanos iniciarán sus funciones dentro de los primeros quince días del mes de enero del año posterior a la celebración de la elección de los Comités Ciudadanos y los Consejos del Pueblo, concluyendo sus trabajos el 30 de septiembre del año en que tengan verificativo las elecciones referidas en la primera parte de este párrafo.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 237.
+
+El cargo de integrante del Consejo Ciudadano es honorífico, sin embargo recibirán de parte del Instituto Electoral los apoyos materiales a que hace referencia el Capítulo V del Título Noveno de esta Ley.
+
+Todos integrantes de los Consejos Ciudadanos son jerárquicamente iguales, ninguno de los cuales puede ser excluido de participar en sus reuniones y discusiones.
+
+Los coordinadores internos de los Comités Ciudadanos y los de concertación comunitaria de los Consejos del Pueblo cuentan con voz y voto en el Consejo Ciudadano, los representantes de las organizaciones ciudadanas debidamente registradas y las autoridades tradicionales de los pueblos originarios en donde se elige Consejo de los Pueblos, participarán en el Consejo Ciudadano únicamente con derecho a voz.
+
+Las decisiones del Consejo Ciudadano se tomarán por mayoría de votos de sus integrantes.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 238.
+
+Las sesiones, reuniones de trabajo, acuerdos y resoluciones de los Consejos Ciudadanos son públicas y de acceso a cualquier ciudadano.
+
+El personal del Instituto Electoral estará presente en las sesiones del Consejo Ciudadano.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DEL CONSEJO CIUDADANO
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 239.
+
+Para la instalación de los Consejos Ciudadanos Delegacionales el Instituto Electoral emitirá y publicará la convocatoria respectiva durante los primeros quince días del mes de diciembre del año de la elección de los Comités Ciudadanos y los Consejos del Pueblo.
+
+La convocatoria contendrá la fecha, hora y lugar donde se realizarán las sesiones de instalación de los Consejos Ciudadanos Delegacionales, así como los nombres de sus integrantes, quienes además serán notificados por el Instituto Electoral.
+
+En la fecha, hora y lugar señalados en la convocatoria para la sesión de instalación, el Instituto Electoral verificará su correcta integración y los declarará formalmente instalados. De igual modo, constatará la elección de la primera mesa directiva del pleno del Consejo Ciudadano.
+
+El Instituto Electoral conseguirá los espacios físicos y demás elementos necesarios para la celebración de la sesión de instalación de los Consejos Ciudadanos, para tal efecto el Jefe de Gobierno y los Jefes Delegacionales facilitarán los espacios donde se realizarán las sesiones de instalación y las demás sesiones de los Consejos Ciudadanos Delegacionales.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO IV. DEL PLENO DEL CONSEJO CIUDADANO
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 240.
+
+A los integrantes de los Consejos Ciudadanos Delegacionales se les denominará de manera genérica Consejeros Ciudadanos. El Jefe Delegacional y demás servidores públicos delegacionales podrán concurrir a las sesiones del pleno únicamente a exponer asuntos relacionados con sus atribuciones, sin contar con voto en los acuerdos o decisiones de los Consejos Ciudadanos.
+
+###### Artículo 241.
+
+Son derechos de los integrantes de los Consejos Ciudadanos Delegacionales:
+
+I. Participar con voz y voto, en el caso de los coordinadores internos de los Comités Ciudadanos y de los coordinadores de concertación comunitaria de los Consejos del Pueblo y sólo con voz, en el caso de los representantes de las organizaciones ciudadanas y de la autoridad tradicional, en los trabajos y deliberaciones del pleno o de las comisiones de trabajo del Consejo Ciudadano;
+
+II. Ser electos integrantes de la mesa directiva del pleno o de las comisiones de trabajo del Consejo Ciudadano;
+
+III. Ser electos como secretario ejecutivo del pleno del Consejo Ciudadano;
+
+IV. Ser designados integrantes de las comisiones de trabajo del Consejo Ciudadano;
+
+V. Presentar propuestas relativas al ejercicio de las funciones del Consejo Ciudadano;
+
+VI. Recibir capacitación, asesoría y educación de conformidad con lo establecido en la presente Ley;
+
+VII. Conocer y opinar sobre los anteproyectos de presupuestos de egresos delegacionales, los programas operativos delegacionales y los informes trimestrales de los Jefes Delegacionales;
+
+VIII. Proponer al pleno del Consejo Ciudadano la presencia de servidores públicos delegacionales;
+
+IX. Proponer al pleno del Consejo Ciudadano la solicitud de información a las autoridades Delegacionales;
+
+X. Recibir los apoyos materiales que requieran para el ejercicio de sus funciones de conformidad con lo establecido en la presente Ley, y
+
+XI. Las demás que ésta y otras disposiciones jurídicas les señalen.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 242.
+
+Son obligaciones de los integrantes de los Consejos Ciudadanos:
+
+I. Asistir a las reuniones del pleno o de las comisiones de trabajo del Consejo Ciudadano;
+
+II. Cumplir con las disposiciones y acuerdos del Consejo Ciudadano;
+
+III. Informar de su actuación al Comité Ciudadano o Consejo del Pueblo del que sean miembros y a la asamblea ciudadana de su colonia;
+
+IV. Fomentar la educación y capacitación en materia de participación ciudadana;
+
+V. Concurrir a los cursos de capacitación, educación y asesoría que imparta el Instituto Electoral, y
+
+VI. Los demás que ésta y otras disposiciones jurídicas les señalen.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO V. DE LAS COMISIONES DE TRABAJO
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 243.
+
+El pleno de los Consejos Ciudadanos Delegacionales está integrado por la totalidad de los coordinadores internos de los Comités Ciudadanos y los Consejos del Pueblo, así como por los representantes de las organizaciones ciudadanas.
+
+Los trabajos del pleno serán dirigidos por una mesa directiva que estará integrada en términos de lo dispuesto en el párrafo tercero del artículo 132 de esta Ley y que será electa por mayoría de votos de los integrantes del Consejo Ciudadano y mediante votación por cédula. El secretario ejecutivo será electo por el pleno en los mismos términos que la mesa directiva.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 244.
+
+La mesa directiva del pleno del Consejo Ciudadano contará con las siguientes atribuciones:
+
+I. Coordinar los trabajos del pleno;
+
+II. Preservar la libertad y el orden durante el desarrollo de los trabajos del pleno;
+
+III. Requerir a los faltistas a concurrir a las sesiones del Consejo Ciudadano;
+
+IV. Solicitar por escrito a los integrantes del Consejo Ciudadano su asistencia a las sesiones del pleno;
+
+V. Solicitar y dar seguimiento a los requerimientos de recursos materiales y apoyos necesarios para el desarrollo de las funciones del Consejo Ciudadano y de sus integrantes;
+
+VI. Analizar y presentar ante el pleno propuestas o proyectos de consulta ciudadana, colaboración ciudadana, difusión publica, de participación en la red de contralorías ciudadanas, audiencia pública, recorridos del Jefe Delegacional y demás atribuciones que tenga el Consejo Ciudadano;
+
+VII. Citar a los servidores públicos para que acudan a las sesiones del pleno o de las comisiones de trabajo del Consejo Ciudadano;
+
+VIII. Recibir y canalizar a los integrantes y a las comisiones de trabajo del Consejo Ciudadano la información que reciban por parte de las autoridades, y
+
+IX. Las demás que le confieran la presente Ley y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 245.
+
+Corresponde al presidente de la mesa directiva del pleno del Consejo Ciudadano:
+
+I. Dirigir las reuniones, sesiones y debates del pleno;
+
+II. Representar al Consejo Ciudadano ante las autoridades;
+
+III. Fungir como enlace entre el Consejo y las autoridades;
+
+IV. Elaborar, de común acuerdo con los vocales, el orden del día de las sesiones;
+
+V. Expedir, junto con el secretario y los vocales, las convocatorias para las sesiones del pleno;
+
+VI. Elaborar el plan de trabajo semestral del Consejo y someterlo a consideración y aprobación del Pleno de éste;
+
+VII. Programar y elaborar, en consulta con el secretario y los vocales, el desarrollo general y el orden del día de las sesiones de la comisión, y
+
+VIII. Las demás que le confiera la presente Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 246.
+
+Los vocales de la mesa directiva del pleno del Consejo Ciudadano tendrán las atribuciones siguientes:
+
+I. Suplir en sus ausencias al presidente del Consejo Ciudadano Delegacional;
+
+II. Participar, en conjunto con el presidente, en la elaboración y expedición de las convocatorias, órdenes del día y demás actos necesarios para el desarrollo de las sesiones;
+
+III. Opinar sobre el programa semestral de difusión y comunicación comunitaria de los trabajos del Consejo Ciudadano;
+
+IV. Dar seguimiento a los requerimientos de recursos materiales y apoyos necesarios para el desarrollo de las funciones del Consejo Ciudadano;
+
+V. Canalizar y dar seguimiento a los acuerdos por los que se citan a servidores públicos ante el pleno de los Consejos Ciudadanos;
+
+VI. Conocer y opinar sobre el funcionamiento de las comisiones de trabajo del Consejo Ciudadano, y
+
+VII. Colaborar con el presidente de la mesa directiva en la canalización y seguimiento de las propuestas o proyectos sobre instrumentos de participación ciudadana que acuerde el pleno del Consejo Ciudadano.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 247.
+
+El secretario ejecutivo contará con las atribuciones siguientes:
+
+I. Llevar el registro de asistencia en las sesiones y reuniones del pleno;
+
+II. Recabar las votaciones del pleno;
+
+III. Elaborar y difundir las convocatorias para las sesiones de pleno;
+
+IV. Elaborar las actas de la sesión y dar seguimiento a los acuerdos tomados por el pleno;
+
+V. Remitir a la dirección distrital cabecera de la demarcación territorial de que se trate, copias de las convocatorias para las sesiones del pleno del Consejo Ciudadano y de las actas de dichas sesiones. Las convocatorias deberán ser hechas del conocimiento de la dirección distrital con cuando menos cinco días de anticipación a la celebración de la sesión del pleno, las actas dentro de los cinco días siguientes a la celebración de la sesión del pleno. El Instituto Electoral elaborará y pondrá a disposiciones de los Consejos Ciudadanos Delegacionales los formatos de convocatorias, actas, órdenes del día y demás necesarios para su correcto funcionamiento;
+
+VI. Vincular las acciones y planes de trabajo de las comisiones de trabajo con la mesa directiva;
+
+VII. Elaborar e implementar un programa semestral de difusión y comunicación comunitaria sobre el funcionamiento y actividades del Consejo Ciudadano;
+
+VIII. Auxiliar en sus funciones a la mesa directiva, y
+
+IX. Las demás que le imponga el pleno del Consejo Ciudadano Delegacional.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 248.
+
+Las sesiones del pleno del Consejo Ciudadano serán ordinarias y extraordinarias.
+
+Las sesiones se desarrollarán en lugares ubicados en la demarcación territorial que represente el Consejo Ciudadano Delegacional, para lo cual el Instituto Electoral conseguirá los espacios físicos y demás elementos necesarios, estando el Jefe de Gobierno y los Jefes Delegacionales obligados a facilitarlos.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 249.
+
+Las sesiones ordinarias se celebrarán por lo menos cada tres meses. Las convocatorias para las sesiones ordinarias deberán observar lo establecido en el artículo 133 de esta Ley.
+
+Las sesiones extraordinarias tendrán verificativo cuando la naturaleza o urgencia de atención de los asuntos así lo ameriten. Podrán solicitar la realización de sesión extraordinaria una décima parte de los integrantes con voz y voto del Consejo Ciudadano. Dicha solicitud se hará ante la mesa directiva, la que verificará que se cumplen con los requisitos de procedencia y emitirá la convocatoria respectiva con un mínimo de 48 horas de anticipación y en términos de lo dispuesto en el párrafo primero del presente artículo.
+
+En caso de que la mesa directiva del consejo ciudadano sea omisa en convocar a éste, la tercera parte de los integrantes con voz y voto del Consejo Ciudadano podrán realizar la convocatoria respectiva.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 250.
+
+Para que puedan celebrarse las sesiones ordinarias o extraordinarias del pleno es necesaria la presencia de la mitad más uno de los integrantes del Consejo Ciudadano.
+
+Para tal efecto, previo al inicio de la sesión el secretario ejecutivo pasará lista de asistencia y dará cuenta del número de presentes, en caso de reunirse el quórum requerido lo hará del conocimiento del presidente quien declarará abierta la sesión; en caso contrario, el presidente declarará la inexistencia de quórum y citará a la sesión que tendrá verificativo dentro de las setenta y dos horas siguientes.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 251.
+
+Abierta la sesión, el presidente de la mesa directiva pondrá a consideración de los integrantes del Consejo Ciudadano el proyecto de orden del día, el que deberá ser aprobado por mayoría de votos de éstos, pudiendo ser modificado total o parcialmente a solicitud de alguno de ellos.
+
+Inmediatamente después se procederá a la aprobación del acta de la sesión, para lo que se procederá en los términos señalados en el párrafo primero de este artículo.
+
+En la sesión serán discutidos, sometidos a votación y, en su caso, aprobados los asuntos contenidos en el orden del día.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 252.
+
+Para la discusión de los asuntos incluidos en el orden del día, el presidente de la mesa directiva, con apoyo de los vocales y el secretario ejecutivo, elaborará una lista de integrantes del Consejo que harán uso de la palabra conforme al orden en que lo soliciten y de acuerdo a las siguientes reglas:
+
+I. Se hará una lista de hasta cinco oradores a favor y cinco oradores en contra respecto del asunto en discusión.
+
+II. Los oradores intervendrán cada uno por una sola vez y hasta por cinco minutos como máximo. Concluida esta ronda de intervenciones la mesa directiva del Consejo someterá a consideración del pleno si el asunto a discusión está suficientemente discutido, en caso de ser afirmativa la respuesta se tomará la votación; en caso contrario se abrirá una segunda ronda de intervenciones que se desarrollará en los mismos términos que la primera y concluida la cual se tomará la votación.
+
+III. Los integrantes del Consejo Ciudadano sólo podrán hacer uso de la palabra con la autorización del presidente de la mesa directiva, no pudiendo ser interrumpidos, salvo por éste, para señalarles que su tiempo ha concluido o para exhortarlos a que se conduzcan en términos respetuosos o que se circunscriban al tema en discusión. Si el orador no se conduce en los términos indicados, el presidente de la mesa directiva le retirará el uso de la palabra y no se la otorgará sino hasta el siguiente punto del orden del día. Salvo en este caso por ningún motivo y bajo ningún supuesto le podrá ser negada el uso de la palabra a los integrantes del Comité.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 253.
+
+Todas las decisiones del pleno del Consejo Ciudadano se tomarán por mayoría de votos de sus integrantes presentes.
+
+Las votaciones del pleno del Consejo Ciudadano serán económicas, salvo aquellas que expresamente se establezca en esta ley que sean por cédula o cuando el pleno así lo acuerde.
+
+En las votaciones económicas el secretario ejecutivo preguntará a los integrantes si están a favor o en contra de la propuesta sometida a votación, debiéndose poner de pie los integrantes para manifestar su determinación, primero los que estén a favor y en seguida los que estén en contra.
+
+Las votaciones por cédula se efectuarán a través de los formatos impresos que al efecto proporcione el Instituto Electoral, en donde los integrantes del Consejo registran el sentido de su voto y proceden a depositarlas de manera personal en una urna transparente colocada en un lugar visible. Posteriormente, los vocales realizarán el conteo de los votos emitidos, haciendo del conocimiento del presidente el cómputo respectivo y éste lo anunciará al pleno.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 254.
+
+Cuando en la sesión ordinaria o extraordinaria esté enlistada en el orden del día la presencia de algún servidor público delegacional, se observarán las siguientes reglas:
+
+I. En todo momento se prodigará un trato respetuoso al servidor público;
+
+II. Los servidores públicos deberán remitir a la mesa directiva del Consejo Ciudadano, con cuando menos cinco días de anticipación a la sesión, un informe por escrito acerca de la materia sobre la que versará su asistencia. El informe será distribuido entre los integrantes del Consejo Ciudadano con una antelación de por lo menos tres días a la celebración de la sesión;
+
+III. El servidor público contará con treinta minutos para la exposición del tema o asunto por el cual asiste al Consejo Ciudadano;
+
+IV. Habrá una ronda de preguntas u observaciones de los integrantes del Consejo Ciudadano al servidor público, no pudiéndosele coartar de este derecho a ningún integrante del Consejo Ciudadano;
+
+V. El servidor público deberá dar respuesta en forma inmediata a todas y cada una de las preguntas u observaciones que se le formulen;
+
+VI. Concluida la etapa de preguntas y respuestas, se dará por concluida la presencia del servidor público;
+
+VII. El pleno del Consejo Ciudadano podrá acordar emitir por escrito observaciones al informe del servidor público, las que se harán del conocimiento de éste, de su superior jerárquico y de la ciudadanía de la demarcación territorial, y
+
+VIII. La mesa directiva dará seguimiento a los acuerdos que en su caso se alcancen con el servidor público y a las observaciones que formule.
+
+En los supuestos a que se refieren las fracciones V, VII, VIII y IX del artículo 131 de esta Ley, acudirá ante el pleno del Consejo Ciudadano el Jefe Delegacional. Las sesiones establecidas en las fracciones V y VII del artículo 131, tendrán verificativo en la primera quincena del mes de octubre de cada año; las establecidas en las fracciones VIII y IX del numeral citado, se llevarán a cabo en la segunda quincena de los meses de enero, abril, julio y septiembre de cada año.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+### CAPÍTULO VI. DE LAS DIFERENCIAS AL INTERIOR Y DE LAS RESPONSABILIDADES, SANCIONES Y PROCEDIMIENTO SANCIONADOR
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 255.
+
+Para el mejor desarrollo de sus atribuciones el Consejo Ciudadano contará con las comisiones de trabajo por tema o territorio, las primeras serán aquellas que establece el párrafo tercero del artículo 134 de esta Ley y las segundas las que determine el pleno del Consejo Ciudadano.
+
+Las comisiones de trabajo serán competentes para conocer de la materia que se derive conforme a su denominación, a efecto de proponer, recibir y analizar los asuntos que le sean formulados por el pleno del Consejo Ciudadano.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 256.
+
+El pleno del Consejo Ciudadano designará a quienes hayan de ser los miembros de las distintas comisiones de trabajo, así como de sus mesas directivas.
+
+Las mesas directivas se integrarán en términos de lo dispuesto en el párrafo segundo del artículo 134 de esta Ley, y serán renovadas en forma anual dentro de entre los integrantes que las conformen.
+
+Para determinar el número de integrantes de cada comisión de trabajo se tendrá en cuenta el número de integrantes del Consejo Ciudadano, de tal modo que se incluya a la totalidad de éstos en las distintas comisiones.
+
+La elección de las mesas directivas e integrantes de las comisiones de trabajo se realizará por votación por cédula.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 257.
+
+Los presidentes de las mesas directivas de las comisiones de trabajo tendrán las siguientes atribuciones:
+
+I. Presidir y dirigir los trabajos de la comisión;
+
+II. Expedir, junto con los vocales, las convocatorias para las sesiones de la comisión;
+
+III. Programar y elaborar, en consulta con los vocales, el desarrollo general y el orden del día de las sesiones de la comisión;
+
+IV. Adoptar las medidas que se requieran para la organización del trabajo de la comisión;
+
+V. Requerir a los faltistas a concurrir a las sesiones de la comisión;
+
+VI. Recibir, analizar y resolver las propuestas de programas, acciones y demás asuntos turnados para su estudio por el peno (sic) del Consejo;
+
+VII. Coordinar los trabajos de la comisión con las demás instancias del Consejo;
+
+VIII. Elaborar y presentar ante el pleno el plan anual de trabajo de la comisión;
+
+IX. Recibir y canalizar las demandas o quejas ciudadanas relacionados con su materia, y
+
+X. Las demás que le imponga el pleno del Consejo.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 258.
+
+Corresponde a los vocales de las mesas directivas de las comisiones de trabajo:
+
+I. Auxiliar al presidente en la preparación del orden del día de las sesiones del pleno;
+
+II. Rubricar junto con el presidente las convocatorias para las sesiones de la comisión;
+
+III. Notificar a los integrantes de la comisión las convocatorias a las sesiones;
+
+IV. Pasar lista de asistencia y verificar la existencia del quórum legal;
+
+V. Dar lectura durante las reuniones de trabajo a los documentos que sean indicados;
+
+VI. Elaborar las actas de las sesiones;
+
+VII. Distribuir el acta de la sesión entre los integrantes de la comisión y la mesa directiva del pleno;
+
+VIII. Sustituir en sus ausencias al presidente de la mesa directiva;
+
+IX. Recoger y computar las votaciones a fin de comunicar los resultados, y
+
+X. Las demás que le confiera la presente Ley.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 259.
+
+Las mesas directivas de las comisiones de trabajo elaborarán un plan anual de labores en donde se consideren las acciones prioritarias, metas y objetivos, así como las resoluciones y propuestas que decidan formular al pleno. El pleno del Consejo evaluará el plan de trabajo y el grado de desarrollo de las comisiones.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 260.
+
+Las sesiones de las comisiones de trabajo se realizarán por lo menos una vez al mes de manera ordinaria y, de manera extraordinaria cuando la mesa directiva así lo acuerde.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 261.
+
+Las convocatorias, discusiones, votaciones y, en general, el desarrollo de las sesiones de las comisiones de trabajo se regirán por lo dispuesto en la presente Ley para el pleno de los Consejos Ciudadanos y de los Comités Ciudadanos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 262.
+
+Las diferencias al interior del pleno o de las comisiones de trabajo de los Consejos Ciudadanos serán las mismas que señala el artículo 209 de esta Ley, las que serán sustanciadas y resueltas conforme al procedimiento que establece la sección primera del Capítulo X del Título Noveno de esta Ley. La sustanciación y resolución del procedimiento se realizará en primera instancia por la comisión de asuntos internos del Consejo Ciudadano Delegacional, y en segunda instancia por la dirección distrital que el Instituto Electoral determine como cabeza delegacional.
+
+Las responsabilidades, sanciones y procedimiento sancionador en que incurran los integrantes de los Consejos Ciudadanos en el ejercicio de sus funciones, se regirá por lo establecido en la sección segunda del Capítulo X del Título Noveno de esta Ley. La sustanciación y resolución se efectuará en primera instancia por la comisión de asuntos internos del Consejo Ciudadano Delegacional, y en segunda instancia por la dirección distrital que el Instituto Electoral determine como cabeza delegacional. En caso de que como resultado del procedimiento sancionador se determine la remoción del algún integrante de los Consejos Ciudadanos Delegacionales, para su sustitución se recurrirá en primer lugar al secretario del Comité Ciudadano del que el removido fuere integrante y, en segundo lugar, a los demás integrantes del dicho Comité respetando el orden de prelación en que fueron electos.
 
 ## TRANSITORIOS
 
@@ -2128,7 +3784,7 @@ Para efectos de lo establecido en los artículos 83 y 84 de esta Ley, en el Ejer
 
 ###### ARTÍCULO SÉPTIMO.
 
-La Asamblea Legislativa del Distrito Federal deberá emitir en el primer periodo de sesiones, del segundo año de ejercicio de la Quinta Legislatura, la normatividad sobre el funcionamiento y operación de los Comités y Consejos Ciudadanos a que se refiere esta Ley.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO, G.O. 30 DE NOVIEMBRE DE 2010)
 
 ###### ARTÍCULO OCTAVO.
 
@@ -2142,7 +3798,11 @@ En relación con lo preceptuado en los artículos 93 fracción XX y 135 de la Le
 
 Las autoridades a que hace referencia el artículo 14 fracciones I a la IV, emprenderán en un plazo de 90 días posteriores a la entrada en vigor de las presentes reformas y con la coordinación del Instituto Electoral una campaña masiva de educación, capacitación, difusión y fomento de las presentes reformas legales. En el caso de la capacitación de los Comités Ciudadanos a que se refiere el artículo 16 de esta Ley, el Instituto Electoral deberá implementarla inmediatamente después de que éstos entre (sic) en funciones.
 
-ARTÍCULO DECIMOPRIMERO.- La Contraloría General del Gobierno del Distrito Federal deberá, en un plazo de 90 días naturales a partir de la entrada en vigor de las presentes reformas, emitir las convocatorias para la renovación de los representantes de la contraloría ciudadana a que se refiere el artículo 64 de la presente ley.
+> <small>(REFORMADO POR EL ARTICULO SEPTIMO TRANSITORIO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### ARTÍCULO DECIMO PRIMERO.
+
+La Contraloría General del Gobierno del Distrito Federal deberá, en un plazo de 90 días naturales a partir de la instalación de los comités y consejos de los pueblos, emitir las convocatorias para la renovación de los representantes de la contraloría ciudadana a que se refiere el artículo 64 de la presente ley. Los órganos de representación ciudadana podrán proponer de entre sus integrantes candidatos a contralores ciudadanos.
 
 ###### ARTÍCULO DUODÉCIMO.
 
@@ -2240,4 +3900,64 @@ TLALPAN
 
 8. Parres el Guarda
 
-Las Comisiones de Participación ciudadana y de Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes, evaluarán y analizarán la incorporación de figuras de coordinación territorial
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR ARTICULO OCTAVO TRANSITORIO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+Se entiende que no son todos los pueblos originarios del Distrito Federal, sólo se enlistan los que guardan la característica descrita en la fracción VI del artículo 6 de la presente Ley.
+
+Las Comisiones de Participación ciudadana y de Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes, evaluarán y analizarán la incorporación de figuras de coordinación territorial.
+
+G.O. 30 DE NOVIEMBRE DE 2010.
+
+Artículo primero.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial.
+
+Artículo segundo.- Las presentes reformas a la Ley de Participación Ciudadana del Distrito Federal, entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+Se deroga el artículo séptimo transitorio del decreto por el que se reforman diversas disposiciones de esta Ley publicado en la Gaceta Oficial el 27 de mayo de 2010
+
+Artículo cuarto.- En el caso de los integrantes de los Comités Ciudadanos electos en la jornada electiva del 24 de octubre de 2010, la educación, capacitación y asesoría que prevé la fracción I del artículo 204 se llevará a cabo 30 días naturales siguientes. Para lo que cual el Instituto Electoral deberá contar con los programas, planes de estudio, manuales e instructivos de educación, capacitación y asesoría en materia de presupuesto, finanzas y presupuesto participativo.
+
+Artículo quinto.- Los recursos materiales a que hace referencia el Capítulo V del Título Noveno de esta Ley se otorgarán a partir del año 2011.
+
+Artículo sexto.- Por lo que respecta a los Comités Ciudadanos y Consejos del Pueblo electos en la jornada electiva del 24 de octubre de 2010, será aplicable lo siguiente:
+
+a) El trámite a que se refiere el artículo 150 de ésta Ley se realizará durante la primera quincena de noviembre de 2010.
+
+b) El documento previsto en el artículo 151 de esta Ley les será entregado en la segunda quincena del mes de noviembre de 2010.
+
+c) Las sesiones de instalación a que hace referencia el artículo 152 tendrán verificativo en la segunda quincena del mes de noviembre de 2010.
+
+d) Los recursos materiales consistentes en formatos y formas impresas estarán disponibles desde el 1 de noviembre de 2010.
+
+Artículo séptimo.- Se reforma el artículo décimo primero transitorio del decreto por el que se reforman diversas disposiciones de esta Ley publicado en la Gaceta Oficial el 27 de mayo de 2010. Y queda como sigue:
+
+###### ARTÍCULO DECIMO PRIMERO.
+
+La Contraloría General del Gobierno del Distrito Federal deberá, en un plazo de 90 días naturales a partir de la instalación de los comités y consejos de los pueblos, emitir las convocatorias para la renovación de los representantes de la contraloría ciudadana a que se refiere el artículo 64 de la presente ley. Los órganos de representación ciudadana podrán proponer de entre sus integrantes candidatos a contralores ciudadanos.
+
+Artículo octavo.- Se reforma el artículo décimo tercero transitorio del decreto por el que se reforman diversas disposiciones de esta Ley publicado en la Gaceta Oficial el 27 de mayo de 2010. Y queda como sigue:
+
+###### ARTÍCULO DECIMO TERCERO.
+
+.- .
+
+XOCHIMILCO
+
+1. a 14.
+
+TLÁHUAC
+
+1. a 7.
+
+MILPA ALTA
+
+1. a 11.
+
+TLALPAN
+
+1. a 8.
+
+Se entiende que no son todos los pueblos originarios del Distrito Federal, sólo se enlistan los que guardan la característica descrita en la fracción VI del artículo 6 de la presente Ley.
+
+...
