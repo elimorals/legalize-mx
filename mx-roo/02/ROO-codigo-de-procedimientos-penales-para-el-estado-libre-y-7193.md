@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2010-10-22"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2010.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -63,6 +63,54 @@ I.- Pedir la aplicación de las sanciones establecidas en las leyes penales; y
 
 II.- Pedir la libertad de los acusados, en la forma que previene la ley.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+DE LOS DERECHOS DE LA VÍCTIMA O DEL OFENDIDO
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 3º BIS.- Los denunciantes, querellantes y las víctimas u ofendidos por la comisión de un delito tendrán derecho, en la averiguación previa o en el proceso, según corresponda:
+
+I.- A presentar cualquier denuncia o querella por hechos probablemente constitutivos de delito y a que el Ministerio Público las reciba;
+
+II.- A coadyuvar por si o por su representante legal, con el Ministerio Público, durante la averiguación previa y el proceso penal, sin necesidad de manifestarlo expresamente, salvo lo relacionado a su representante legal;
+
+III.- A solicitar se practiquen todas las diligencias necesarias para determinar el ejercicio de la acción penal en la averiguación previa y a que el ministerio público, fundamente y motive en su caso la negativa;
+
+IV.- A recibir asesoría y asistencia jurídica por parte de la Procuraduría General de Justicia del Estado respecto de sus denuncias o querellas, en los mismos términos y condiciones que el probable responsable;
+
+V.- A recibir servicio de intérpretes traductores cuando pertenezcan a un grupo étnico o pueblo indígenas, no conozcan o no comprendan bien el idioma español, o padezcan alguna discapacidad que les impida oír o hablar;
+
+VI.- A contar con todas las facilidades para identificar al probable responsable;
+
+VII.- A recibir copia simple de su denuncia o querella ratificada debidamente o copia certificada cuando la solicite, de conformidad con las disposiciones aplicables;
+
+VIII.- A aportar ante el Ministerio Público, toda clase de pruebas y elementos para acreditar el cuerpo del delito y la responsabilidad del indiciado;
+
+IX.- A comprobar el monto del daño y a solicitar su reparación y a que el Ministerio Público integre dichos datos a la averiguación;
+
+X.- A tener acceso en todo momento al expediente para informarse sobre el estado y avance de la averiguación previa y de la causa penal;
+
+XI.- A que se realicen el reconocimiento o diligencia de identificación o confrontación en un lugar en el que no puedan ser vistos o identificados por el probable responsable. En los casos de delitos que atenten contra la libertad y seguridad sexual, o en los que el menor sea víctima, el Juez o el Ministerio Público de oficio deberán acordar que la diligencia de confronta o identificación se efectúe en un lugar donde no puedan ser vistos o identificados por el probable responsable;
+
+XII.- A que el Ministerio Público solicite y garantice la reparación del daño y a que se les satisfaga cuando ésta proceda;
+
+XIII.- A recibir atención médica y psicoterapéutica breve y de emergencia por una persona de su mismo sexo, en caso de delitos violentos, contra la libertad y la seguridad sexual así como los de violencia familiar;
+
+XIV.- A recibir cuando lo solicite la orden de protección, para los delitos señalados en la fracción anterior;
+
+XV.- A impugnar las determinaciones hechas por el Ministerio Público de no ejercicio de la acción penal;
+
+XVI.- A comparecer a todas y cada una de las audiencias durante el proceso penal, y a participar en dichas diligencias en las mismas condiciones y con los mismos derechos y facultades que el defensor del inculpado, por si o por su representante legal;
+
+XVII.- A apelar la sentencia de primera y segunda instancia, respecto al cuerpo del delito, a la presunta responsabilidad del inculpado y en cuanto a la reparación del daño por si o a través de su representante legal;
+
+XVIII.- En caso de que deseen otorgar el perdón, a ser informadas claramente del significado y la trascendencia jurídica de ese acto;
+
+XIX.- A que el Ministerio Público, sus auxiliares y el Juez, mantengan en confidencialidad su domicilio y número telefónico así como el de los testigos de cargo, en caso de delitos graves e igualmente en caso de delitos no graves, cuando así lo solicite; y
+
+XX.- A que se le notifique personalmente el no ejercicio de la acción penal, y las sentencias de primera y segunda instancia y las demás resoluciones que determine este código.
+
 ### CAPITULO SEGUNDO.- AVERIGUACION PREVIA
 
 #### SECCION PRIMERA.- Iniciación del Procedimiento
@@ -83,13 +131,17 @@ II.- Cuando la ley exija algún requisito previo, si éste no se ha llenado.
 
 Si el que inicia una investigación no tiene a su cargo la función de proseguirla, dará inmediata cuenta al que corresponde legalmente practicarla.
 
-###### Artículo 7°.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-Es necesaria la querella del ofendido, solamente en los casos en que así lo determinen el Código penal u otra ley,
+###### Artículo 7º.
 
-###### Artículo 8°.
+Es necesaria la querella de la víctima o del ofendido, solamente en los casos en que así lo determinen el Código penal u otra ley.
 
-Cuando el ofendido sea menor de edad la querella puede ser hecha:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 8º.
+
+Cuando la víctima o el ofendido sea menor de edad la querella puede ser hecha:
 
 I.- A nombre del menor por la persona que represente a éste; o
 
@@ -134,6 +186,36 @@ II.- Para la querella y denuncia, tratándose de personas morales y en este caso
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION SEGUNDA.- Reglas Especiales para la Práctica de Diligencias y Levantamiento de Actas de Averiguación Previa
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 15 Bis.
+
+Desde el inicio de la averiguación previa el Ministerio Público tendrá la obligación de:
+
+I.- Hacer cesar, cuando sea posible, las consecuencias del delito;
+
+II.- Iniciar e integrar la averiguación del caso, en los términos de este Código, de conformidad con los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, practicando sin dilación alguna las diligencias que se desprendan o que sean necesarias para la investigación de los hechos delictivos y para la plena identificación del probable responsable, con la debida intervención de sus auxiliares;
+
+III.- Observar estrictamente los derechos de las victimas u ofendidos del delito, consagradas en el artículo 3 bis;
+
+IV.- Trasladarse al lugar de los hechos, para dar fe de las personas y de las cosas afectadas por el acto delictuoso, y a tomar los datos de las personas que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas en caso contrario para que dentro del término de veinticuatro horas comparezcan a rendir su declaración;
+
+V.- Asegurar que los denunciantes, querellantes u ofendidos precisen los hechos motivos de la denuncia o querella y las circunstancias de lugar, tiempo y modo en que ocurrieron; girando los cita torios o comparecencias ulteriores; y
+
+VI.- Expedir, a solicitud de la víctima u ofendido, copia simple o certificada de su querella o denuncia en los términos previstos por este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 15 ter.- En el transcurso de la averiguación previa el Ministerio Público tendrá la obligación de:
+
+I.- Proponer el no ejercicio de la acción penal cuando de las declaraciones iniciales y de los elementos aportados no se desprenda la comisión de conductas delictivas o elemento alguno para su investigación;
+
+II.- Programar y desarrollar la investigación, absteniéndose de diligencias contradictorias, innecesarias, irrelevantes o inconducentes para la eficacia de la indagatoria;
+
+III.- Informar a la víctima o, en su caso a su representante legal, sobre el significado y la trascendencia jurídica del otorgamiento del perdón cuando decida otorgarlo; y
+
+IV.- Hacer saber a los querellantes, víctimas, ofendidos y probables responsables de los servicios que presta el Centro de Justicia Alternativa para la solución de sus conflictos, en los casos en que proceda.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
@@ -259,13 +341,17 @@ Si de las diligencias practicadas no resultan elementos bastantes para hacer la 
 
 En la práctica de las diligencias de averiguación previa, se aplicarán en lo conducente las disposiciones del Capítulo Sexto de éste Código.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 28.
 
-Cuando el Agente del Ministerio Público determine que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, el denunciante, el querellante o el ofendido podrán impugnar esa determinación dentro de cinco días, contados a partir del día siguiente en que surta efectos la notificación personal, ante el Procurador General de Justicia quien contará hasta con sesenta días naturales para emitir una resolución definitiva.
+Cuando el Agente del Ministerio Público determine que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado como delitos, o por los que se hubiere presentado querella, el denunciante, el querellante, la víctima o el ofendido podrán impugnar esa determinación dentro de cinco días, contados a partir del día siguiente en que surta efectos la notificación personal, ante el Procurador General de Justicia quien contará hasta con sesenta días naturales para emitir una resolución definitiva.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 En caso de que lo resuelto por el Procurador General de Justicia del Estado en cuanto a los hechos que se hubieren denunciado como delictuosos, o por los que se hubiera presentado querella, sea contrario a las pretensiones del denunciante, el querellante o el ofendido, se podrán (sic) impugnar esa determinación mediante el recurso de queja ante la Sala Constitucional y Administrativa del Tribunal Superior de Justicia en el Estado, al tenor de lo dispuesto por el Artículo 20 apartado C, fracción VII de la Constitución Política de los Estados Unidos Mexicanos y del Artículo 107 de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2008)</small>
 
 También será susceptible de impugnar mediante el presente recurso, la negativa del Agente Investigador a tener por admitida una denuncia de hechos, cuando ésta cumpla con los requisitos de ley; la abstención a resolver el ejercicio de la acción penal en la averiguación previa respectiva, o cuando el Procurador General de Justicia omita resolver el recurso interno en el término establecido.
 
@@ -391,13 +477,13 @@ Las resoluciones que se dicten en los casos a que se refieren los dos artículos
 
 Para que el desistimiento de la acción penal produzca el efecto señalado en el artículo anterior, deberá ser formulado expresamente y con la autorización escrita del Procurador de Justicia.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 39.
 
-El ofendido no es parte en el proceso penal, pero podrá por sí o por medio de apoderado, proporcionar datos u ofrecer por escrito pruebas que conduzcan a demostrar la procedencia y monto de la reparación del daño.
+La víctima o el ofendido no es parte en el proceso penal, pero podrá por sí o por medio de apoderado, proporcionar datos u ofrecer por escrito pruebas que conduzcan a demostrar la procedencia y monto de la reparación del daño.
 
-En los delitos de querella necesaria, el ofendido podrá, por sí o por medio de apoderado, ofrecer o aportar pruebas por escrito en el proceso penal que tiendan a probar la responsabilidad del inculpado si no estuviere plenamente probada en el proceso, para lo cual se le proporcionarán todos los datos que existan en el expediente si no hubiere inconveniente legal para ello.
+En los delitos de querella necesaria, la víctima o el ofendido podrán, por sí o por medio de apoderado, ofrecer o aportar pruebas por escrito en el proceso penal que tiendan a probar la responsabilidad del inculpado si no estuviere plenamente probada en el proceso, para lo cual se le proporcionarán todos los datos que existan en el expediente si no hubiere inconveniente legal para ello.
 
 ### CAPITULO CUARTO.- INSTRUCCION
 
@@ -427,9 +513,11 @@ Las diligencias practicadas por el Ministerio Público y los Jueces Menores o de
 
 Durante la instrucción, el tribunal que conozca el proceso deberá observar las circunstancias peculiares del inculpado, allegándose datos, para conocer su edad, educación e ilustración; sus costumbres y su conducta anterior; los motivos que lo impulsaron a delinquir; sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito; la pertenencia del inculpado, en su caso, a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener; los demás antecedentes personales que puedan comprobarse, así como sus vínculos de parentescos, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 45.
 
-El Juez deberá tomar conocimiento directo del acusado, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refieren este artículo y el anterior, pudiendo obrar de oficio para ese objeto.
+El Juez deberá tomar conocimiento directo del acusado, de la víctima o del ofendido y de las circunstancias del hecho en la medida requerida para cada caso, teniendo amplias facultades para allegarse los datos a que se refieren este artículo y el anterior, pudiendo obrar de oficio para ese objeto.
 
 ###### Artículo 46.
 
@@ -627,7 +715,9 @@ Si se tratare de homicidio, el tipo penal se tendrá por comprobado con la inspe
 
 Se tendrá por probado el tipo penal de lesiones y no el de homicidio en los casos siguientes:
 
-I.- Cuando la muerte del ofendido se verifique después de sesenta días contados desde que fue lesionado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+I.- Cuando la muerte de la víctima o del ofendido se verifique después de sesenta días contados desde que fue lesionado;
 
 II.- Cuando la muerte sea resultado de una causa anterior a la lesión y sobre la cual ésta no haya influido; o
 
@@ -665,7 +755,9 @@ II.- Con la presunción derivada del hecho de tener en su poder el acusado algun
 
 III.- Con la prueba de la preexistencia, propiedad y falta posterior de la cosa robada;
 
-IV.- En el caso de la fracción anterior, si de la comprobación de las circunstancias enumeradas en ella, así como de los antecedentes morales, sociales y pecuniarios de la víctima resultan indicios suficientes, a juicio del Juez, para tener por comprobada la existencia del robo, esto será bastante para considerar comprobado el cuerpo del delito.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+IV.- En el caso de la fracción anterior, si de la comprobación de las circunstancias enumeradas en ella, así como de los antecedentes morales, sociales y pecuniarios de la víctima u ofendido resultan indicios suficientes, a juicio del Juez, para tener por comprobada la existencia del robo, esto será bastante para considerar comprobado el cuerpo del delito.
 
 ###### Artículo 81.
 
@@ -692,6 +784,46 @@ En la comprobación del tipo penal, los Tribunales gozarán de la acción más a
 En los delitos perseguidos por querella, el Ministerio Público durante la averiguación previa, o el Juez del conocimiento durante la etapa de instrucción, deberá a solicitud de cualquiera de las partes, remitir copia debidamente certificada del expediente al Centro de Justicia Alternativa de su jurisdicción, para la aplicación de los medios alternativos que propicien la solución anticipada del conflicto, mediante el acuerdo de voluntades y otorgamiento del perdón, suspendiéndose la integración de la averiguación previa o la instrucción hasta por un plazo no mayor de quince días.
 
 Para el caso de que alguna de las partes no acudiera o manifestara su negativa para someterse a dicho procedimiento alternativo ante el Centro, el titular de dicho árgano remitirá el informe y constancias correspondientes continuándose con la integración de la averiguación previa o la instrucción según el caso.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 84 Bis.
+
+Para la comprobación del cuerpo del delito de violencia familiar, el Ministerio Público investigador deberá acreditar las calidades específicas y circunstancias de los sujetos señalados en el Código Penal del Estado, además de integrar como pruebas:
+
+l.- El Dictamen Psicológico Victimal, mediante el cual se establezca en su caso, la sintomatología indicativa de alteración en las diferentes esferas y áreas del individuo y de los componentes de la autoestima, en especial el auto concepto y la auto valoración, en el cual se razonen los antecedentes de violencia familiar que pudieran haber generado dichos síntomas, independientemente de los hechos que dieron lugar a la indagatoria;
+
+II.- Las actuaciones y certificaciones médicas con las que se acredite, en su caso, la violencia física ejercida sobre la víctima, si éste fuera el tipo de violencia ejercido;
+
+III.- Los antecedentes que existan sobre hechos relacionados con violencia familiar y el indiciado, así como las posibles pruebas pre constituidas, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo; y
+
+IV.- Dictamen de rasgos psicológicos forenses del generador de la violencia familiar, de conformidad con las disposiciones de este Código.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 84 Ter.
+
+El dictamen psicológico a que se refiere la fracción I del artículo anterior, deberá ser ofrecido como prueba pericial en psicología; el cual:
+
+I. Será elaborado por peritos adscritos al área de auxilio a víctimas del delito de la Procuraduría General de Justicia del Estado, diversos a los que proporcionan asistencia psicoterapéutica a las víctimas u ofendidos del delito.
+
+El perito designado, no estará obligado a protestar el cargo de manera inmediata, pudiendo hacerlo al momento de ratificar su dictamen. Siendo suficiente la simple designación del superior jerárquico y la aceptación por parte del perito;
+
+II. Versará sobre los síntomas y signos generados por el impacto de la conducta violenta y bajo ninguna circunstancia sobre la veracidad de los hechos o de lo manifestado por la víctima;
+
+III. Comprenderá el daño moral causado, cuando sea procedente, y la cuantificación de los procesos psicoterapéuticos que lo disminuyan o reparen.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 84 Quáter.
+
+El dictamen de rasgos psicológicos forense que refiere la fracción IV del artículo 84 Bis de este Código, será elaborado por perito en psicología forense adscrito a la Procuraduría General de Justicia del Estado, previa solicitud hecha por el Ministerio Púbico.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+Artículo 84 Quintus.- Para la acreditación del tipo penal de los delitos contra la libertad y seguridad sexual, la declaración de la víctima reforzada con cualquier elemento probatorio diverso hará prueba plena, independientemente de que se agregara a las actuaciones el dictamen psicológico victimal, en los términos que señala el artículo 84 Bis de este Código.
+
+Los profesionales que presten sus servicios en las instituciones legalmente constituidas, especializadas en la atención de problemas relacionados con la violencia familiar o sexual en su caso, podrán rendir los informes por escrito que les sean solicitados por las autoridades. Asimismo, dichos profesionistas podrán colaborar en calidad de Peritos sujetándose a las disposiciones de este ordenamiento.
 
 > <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
 
@@ -747,13 +879,17 @@ Si hubiere temor de que el cadáver pueda ser ocultado o de que sufra alteracion
 
 En los casos de envenenamiento se procederá en la siguiente forma:
 
-I.- Se recogerán cuidadosamente las vasijas y demás objetos que haya usado el ofendido, los restos de los alimentos, bebidas y medicinas que hubiere tomado y las deyecciones y vómitos que hubiere tenido;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+l.- Se recogerán cuidadosamente las vasijas y demás objetos que haya usado la víctima o el ofendido, los restos de los alimentos, bebidas y medicinas que hubiere tomado y las deyecciones y vómitos que hubiere tenido;
 
 II.- Todo lo recogido conforme a la fracción anterior será depositado con las precauciones necesarias para evitar su alteración;
 
 III.- Se describirán los síntomas que presente el individuo intoxicado; y
 
-IV.- El perito reconocerá al ofendido, analizará las substancias recogidas y opinará sobre las cualidades tóxicas que tengan éstas y si han podido causar la intoxicación de que se trata.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+IV.- El perito reconocerá a la víctima o al ofendido, analizará las substancias recogidas y opinará sobre las cualidades tóxicas que tengan éstas y si han podido causar la intoxicación de que se trata.
 
 ###### Artículo 93.
 
@@ -817,13 +953,13 @@ El Ministerio Público deberá resolver la solicitud de aborto que le presente l
 
 El Ministerio Público o el Juez en su caso, en un término de setenta y dos horas, a partir de que la mujer presente la solicitud de aborto en el caso previsto en el Artículo 97 fracción II del Código Penal pera el Estado Libre y Soberano de Quintana Roo, resolverá lo procedente. Dicha autorización se hará siempre que concurran los siguientes requisitos:
 
-I. Que exista denuncia por el delito de violación;
+I.- Que exista denuncia por el delito de violación;
 
-II. Que la mujer declare la existencia del embarazo y éste se compruebe en cualquier institución del Sistema Estatal de Salud;
+II.- Que la mujer declare la existencia del embarazo y éste se compruebe en cualquier institución del Sistema Estatal de Salud;
 
-III. Que obren elementos suficientes que supongan que el embarazo es producto de una violación; y
+III.- Que obren elementos suficientes que supongan que el embarazo es producto de una violación; y
 
-IV. Que conste solicitud escrita o por comparecencia de la mujer embarazada o de sus representantes cuando la víctima sea menor de edad y no haya oposición de ésta o cuando se encuentre en un estado de incapacidad previsto en el artículo 529 fracciones II y III del Código Civil para el Estado Libre y Soberano de Quintana Roo.
+IV.- Que conste solicitud escrita o por comparecencia de la mujer embarazada o de sus representantes cuando la víctima sea menor de edad y no haya oposición de ésta o cuando se encuentre en un estado de incapacidad previsto en el artículo 529 fracciones II y III del Código Civil para el Estado Libre y Soberano de Quintana Roo.
 
 Cuando haya conflicto entre la decisión de la menor y quienes ejerzan la patria potestad o tutela o cuando se presume que el delito de violación fue cometido por quien ejerce la patria potestad o la tutela de la víctima embarazada, la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo deberá solicitar el aborto, atendiendo al interés superior de la menor.
 
@@ -837,6 +973,14 @@ De autorizar el aborto, el Ministerio Público o el Juez en su caso, notificará
 
 El personal médico y psicológico de las instituciones del Sistema Estatal de Salud, antes de practicar el aborto, tiene la obligación de proporcionar a la mujer información imparcial, objetiva, veraz y suficiente sobre los procedimientos, riesgos, consecuencias y efectos; así como los apoyos y alternativas existentes para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 99 Quinquies.
+
+La exploración médica, atención psicoterapéutica, ginecológica, o cualquier otra que se practique a la víctima de un delito que atente contra la libertad y seguridad sexual y de violencia familiar, estará a cargo de un facultativo de su mismo sexo, salvo cuando la víctima del delito sexual o su representante legal solicite lo contrario.
+
+Cuando lo solicite la víctima podrá ser atendida en su domicilio por profesionales particulares, mediante el compromiso de atenderlo y de rendir los informes a que se refiere el artículo anterior, pero los médicos legistas seguirán con la obligación de visitar periódicamente a la víctima y de rendir también sus informes, cuando así lo determine el juez.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 #### SECCION CUARTA.- Detención del inculpado
@@ -847,9 +991,9 @@ El personal médico y psicológico de las instituciones del Sistema Estatal de S
 
 Queda estrictamente prohibido aprehender a persona alguna sin orden de aprehensión librada por la autoridad judicial competente de conformidad con el artículo 16 de la Constitución Política de los Estado Unidos Mexicanos; hecha excepción en los términos del citado precepto de los casos de flagrante delito o casos urgentes respecto de la comisión de delitos graves.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-Se consideran como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 87 en relación al sujeto del delito que actuó como provocador, 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 118, 119, 124, 127, 128, 129 párrafo segundo, 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII, 148 Bis fracciones II y III, 148 Ter en su fracción III, 149 Bis, 153 fracción XV, 156, 159 párrafo segundo, 171 párrafo primero, 172 Bis, 172 Ter, 189 bis, 191, 192, 192 bis, 192 ter, 192 quáter, 193 último párrafo, 194 segundo párrafo, 194 Quinquies, 202, 203, 204 y 268 fracciones I, II, III, IV y V del Código Penal para el Estado Libre y Soberano de Quintana Roo.
+Se consideran como graves los delitos previstos en los Artículos: 86 en relación al 14 respecto de la conducta dolosa; 87 en relación al sujeto del delito que actuó como provocador; 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa; 117, 118, 119, 124, 127, 128, 129 párrafo segundo; 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII; 148 Bis fracciones II y III, 148 Ter en su fracción III; 149 Bis, 153 fracción XV, 156, 159 párrafo segundo; 171 párrafo primero; 172 Bis, 172 Ter, 189 bis, 191, 192, 192 bis, 192 ter, 192 quáter, 193 último párrafo; 194 segundo párrafo; 194 Quinquies, 202, 203, 204 y 268 fracciones I, II, III, IV y V, del Código Penal para el Estado Libre y Soberano de Quintana Roo.
 
 El Ministerio Público podrá duplicar el plazo de 48 horas previsto en el citado artículo 16 Constitucional, en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina o jerarquía, para cometer de modo violento o reiterado o con fines predominantemente lucrativos, alguno de los delitos previstos en este artículo como graves.
 
@@ -987,9 +1131,11 @@ Terminada la diligencia de confesión se dará lectura de ella al acusado o la l
 
 #### SECCION TERCERA.- Inspección y reconstrucción de los hechos
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 129.
 
-Si el delito fuere de aquéllos que puedan dejar huellas materiales, se procederá a inspeccionar el lugar en que se perpetró, el instrumento y las cosas objeto o efecto de él, los cuerpos del ofendido y del acusado, si fuere posible, y todas las demás cosas y lugares que puedan tener importancia para la averiguación.
+Si el delito fuere de aquéllos que puedan dejar huellas materiales, se procederá a inspeccionar el lugar en que se perpetró, el instrumento y las cosas objeto o efecto de él, los cuerpos del ofendido, de la víctima y del acusado, si fuere posible, y todas las demás cosas y lugares que puedan tener importancia para la averiguación.
 
 ###### Artículo 130.
 
@@ -999,9 +1145,11 @@ Para la descripción de lo inspeccionado se emplearán, según el caso, dibujos,
 
 Se hará la descripción por escrito de todo lo que no hubiere sido posible efectuar por los medios a que se refiere el artículo anterior, procurándose fijar con claridad los caracteres, señales o vestigios que el delito dejare, el instrumento o medio que probablemente se haya empleado y la forma en que se hubiere usado.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 132.
 
-Se describirán también el estado físico y las aparentes manifestaciones del estado síquico del ofendido, del acusado, de los testigos presenciales y de las demás personas que intervinieron en el hecho que se averigua, en el momento en que inicie la investigación.
+Se describirán también el estado físico y las aparentes manifestaciones del estado psíquico de la víctima o del ofendido, del acusado, de los testigos presenciales y de las demás personas que intervinieron en el hecho que se averigua, en el momento en que inicie la investigación.
 
 ###### Artículo 133.
 
@@ -1227,25 +1375,25 @@ Los testigos deben ser examinados separadamente y sólo las partes podrán asist
 
 Antes de que los testigos comiencen a declarar y estando reunidos todos ellos, se les instruirá de las penas que el Código Penal establece para los que se producen con falsedad o se niegan a declarar.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 182.
 
-A las personas menores de dieciocho años, que deban declarar como testigos, en vez de hacérseles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad.
+A las personas menores de dieciocho años, que deban declarar como testigos, deberán siempre de estar asistidos por cualquiera de sus padres o por la Procuraduría de la Defensa del Menor y la Familia, para el caso de que alguno de los padres sea señalado como probable responsable del delito que se investiga. Y en vez de hacérseles saber las penas en que incurren los que se producen con falsedad, se les exhortará para que se conduzcan con verdad, explicándoles claramente de manera que puedan entender el alcance de la misma y el objetivo de la diligencia.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+Cuando una persona menor de edad, exprese su conformidad de rendir su declaración testimonial en el caso de delitos contra la libertad y seguridad sexual y contra el libre desarrollo de la personalidad, la diligencia se llevará a cabo evitando el contacto visual directo entre las partes, pudiéndose auxiliar de cualquier medio electrónico audiovisual.
 
-Cuando una persona menor de edad, exprese su conformidad de rendir su declaración testimonial en el caso de delitos contra la libertad sexual y su normal desarrollo y contra el libre desarrollo de la personalidad, lo diligencia se llevará a cabo evitando el contacto visual directo entre las partes, pudiéndose auxiliar de cualquier medio electrónico audiovisual.
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+###### Artículo 182 Bis.
 
-No obstante que exista el consentimiento del menor de edad y/o de quienes ejerzan le patria potestad, custodia o tutela, será necesaria la autorización de la Procuraduría de la Defensa del Menor y la Familia, para el desahogo de la declaración testimonial del menor, procurando en todo momento la protección de su integridad física y psicoemocional.
+Tanto en la averiguación previa como en el proceso penal, cuando se examine a un menor de edad, independientemente de su calidad, se atenderá siempre a su interés superior, debiendo estar siempre asistidos, en los términos del artículo anterior; cuando se les deban realizar las preguntas, éstas deberán de hacerse en forma clara, en lenguaje sencillo y de forma tal que al abordar el tema no impacte en su conciencia y estabilidad emocional.
 
-> <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 183.
 
-Después de identificar y tomar al testigo la protesta de decir verdad, se le preguntará su nombre, apellido, edad, lugar de origen, habitación, estado civil, profesión u ocupación; si se halla ligado con el acusado o el ofendido por vínculos de parentesco, amistad o cualesquiera otros y si tiene algún motivo de odio o rencor en contra de alguno de ellos.
+Después de identificar y tomar al testigo la protesta de decir verdad, se le preguntará su nombre, apellido, edad, lugar de origen, habitación, estado civil, profesión u ocupación; si se halla ligado con el acusado, la víctima o el ofendido por vínculos de parentesco, amistad o cualesquiera otros y si tiene algún motivo de odio o rencor en contra de alguno de ellos.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
@@ -1378,6 +1526,12 @@ Los careos se practicarán dando lectura a las declaraciones que se reputen cont
 ###### Artículo 208.
 
 Cuando no pudiere obtenerse la comparecencia, ante el Tribunal que conozca del proceso, de alguno de los que deban ser careados, se practicará careo supletorio, leyéndose al presente la declaración del otro y haciéndole notar las contradicciones que hubiere entre aquélla y lo declarado por él.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 208 Bis.
+
+Cuando se trate de víctimas de un delito que atente contra la libertad y la seguridad sexual o en aquellos delitos graves realizados con violencia, para resguardar su identidad, el careo se podrá llevar a cabo en recintos separados, con la ayuda de cualquier medio electrónico audiovisual, de tal manera que el procesado pueda cuestionar a la víctima u ofendido o los testigos durante la audiencia sin confrontarlos físicamente.
 
 #### SECCION OCTAVA.- Documentos
 
@@ -1869,7 +2023,9 @@ I.- El Ministerio Público;
 
 II.- El acusado y su defensor; y
 
-III.- El ofendido o sus legítimos representantes tratándose de la responsabilidad civil y sólo en lo relativo a ésta.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+III.- La víctima o el ofendido o sus legítimos representantes tratándose de la responsabilidad civil y sólo en lo relativo a ésta.
 
 ###### Artículo 295.
 
@@ -1899,9 +2055,11 @@ La apelación suspende la ejecución de la resolución apelada, salvo cuando és
 
 La apelación podrá interponerse por el acusado o su defensor en el acto de la notificación, o por escrito o comparecencia, dentro de los cinco días siguientes si se tratare de sentencia, y de tres días si se interpusiere contra auto.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 298.
 
-El Ministerio Público, el ofendido o sus representantes, únicamente podrán apelar por escrito dentro de los términos a que se refiere el artículo anterior, contados a partir de la notificación.
+El Ministerio Público, la víctima, el ofendido o sus representantes, únicamente podrán apelar por escrito dentro de los términos a que se refiere el artículo anterior, contados a partir de la notificación.
 
 ###### Artículo 299.
 
@@ -1917,11 +2075,11 @@ La omisión del requisito a que se refiere el artículo anterior surte el efecto
 
 Los agravios deberán expresarse por escrito dentro de los diez días siguientes a la interposición de la apelación si se tratare de sentencia y de cinco días si se tratare de otras resoluciones o autos, ante el Juez de la causa.
 
-> <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 302.
 
-En el escrito a que se refiere el artículo anterior, cuando el apelante sea el Ministerio Público, el ofendido o sus representantes, deberá expresarse que parte de la resolución o auto apelado le causa agravio, el precepto o preceptos legales violados y el concepto o conceptos de violación.
+En el escrito a que se refiere el artículo anterior, cuando el apelante sea el Ministerio Público, la víctima, el ofendido o sus representantes, deberá expresarse que parte de la resolución o auto apelado le causa agravio, el precepto o preceptos legales violados y el concepto o conceptos de violación.
 
 > <small>(F. DE E., P.O. 7 DE OCTUBRE DE 1990)</small>
 
@@ -2279,7 +2437,9 @@ I.- Cuando desobedeciere, sin causa justa y comprobada, las órdenes legítimas 
 
 II.- Cuando antes de que el expediente en que se le concedió la libertad esté concluido por sentencia ejecutoria, cometiere un nuevo delito que merezca pena corporal;
 
-III.- Cuando realice actos que tiendan a intimidar al ofendido o a algún testigo de los que hayan depuesto o tengan que deponer en su asunto o tratare de cohechar o sobornar a alguno de estos últimos, a algún funcionario del Juzgado o Tribunal o al agente del Ministerio Público que intervenga en el caso;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+III.- Cuando realice actos que tiendan a intimidar a la víctima o al ofendido o a algún testigo de los que hayan depuesto o tengan que deponer en su asunto o tratare de cohechar o sobornar a alguno de estos últimos, a algún funcionario del Juzgado o Tribunal o al agente del Ministerio Público que intervenga en el caso;
 
 IV.- Cuando lo solicite el mismo acusado y se presente al Juez o Tribunal;
 
@@ -2491,17 +2651,23 @@ II.- Que una de las partes haya hecho denuncia o querella imputando un delito al
 
 III.- Aceptar presentes o servicios de alguno de los interesados;
 
-IV.- Haber hecho promesas, amenazas o manifestado de otra manera odio o afecto a los acusados o a los ofendidos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+IV.- Haber hecho promesas, amenazas o manifestado de otra manera odio o afecto a los acusados o a la víctima o a los ofendidos;
 
 V.- Tener interés en un proceso que se siga con otra persona por un delito semejante al de que se trate o que lo tengan las personas expresadas en la fracción I;
 
-VI.- Ser acreedores, deudores, arrendatarios, arrendadores, socios, dependientes o principales del acusado, del denunciante o del ofendido;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+VI.- Ser acreedores, deudores, arrendatarios, arrendadores, socios, dependientes o principales del acusado, del denunciante, de la víctima o del ofendido;
 
 VII.- Ser o haber sido tutores o curadores de las partes o administrar por cualquiera causa sus bienes;
 
 VIII.- Ser herederos presuntos o instituidos legatarios o donatarios de ellas;
 
-IX.- Ser su cónyuge, concubinario o concubina, o sus hijos al incoarse el procedimiento, acreedores o fiadores del acusado o del ofendido;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+IX.- Ser su cónyuge, concubinario o concubina, o sus hijos al incoarse el procedimiento, acreedores o fiadores del acusado, la víctima o del ofendido;
 
 X.- Haber sido Magistrado, Juez o Secretario en otra instancia, asesor, perito, testigo, procurador o abogado en el negocio de que se trata, o haber desempeñado el cargo de defensor del acusado.
 
@@ -2759,17 +2925,21 @@ Cuando varios jueces conocieran de procesos cuya separación se hubiere decretad
 
 #### SECCION NOVENA.- Incidente de responsabilidad civil
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 443.
 
-La acción para exigir la responsabilidad a personas distintas del acusado, podrá ejercitarse por el ofendido o su representante, ante el Juez que conozca de lo penal; pero deberá intentarse y seguirse ante el Juez de lo Civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso, sin haberse intentado dicha acción.
+La acción para exigir la responsabilidad a personas distintas del acusado, podrá ejercitarse por la víctima, el ofendido o su representante, ante el Juez que conozca de lo penal; pero deberá intentarse y seguirse ante el Juez de lo Civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el proceso, sin haberse intentado dicha acción.
 
 ###### Artículo 444.
 
 También se intentará la acción de responsabilidad civil ante un Juez de lo Civil, cuando concluida la instrucción, no hubiere lugar al juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 445.
 
-La responsabilidad civil por reparación del daño no podrá declararse sino a instancia del ofendido o de su representante y contra las personas que determina el Código Penal.
+La responsabilidad civil por reparación del daño no podrá declararse sino a instancia de la víctima o del ofendido o de su representante y contra las personas que determina el Código Penal.
 
 ###### Artículo 446.
 
@@ -3109,13 +3279,17 @@ III.- Nombre del secretario, o en su caso los nombres y domicilios de los testig
 
 IV.- Las demás formalidades que señale la Ley.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 511.
 
-El acusado, el ofendido, los peritos y los testigos firmarán al calce del acta en que consten las diligencias en que tomaron parte y al margen de cada una de las hojas donde se asiente aquélla.
+El acusado, la víctima, el ofendido, los peritos y los testigos firmarán al calce del acta en que consten las diligencias en que tomaron parte y al margen de cada una de las hojas donde se asiente aquella.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 512.
 
-En el caso del artículo anterior si el acusado, el ofendido o los testigos no supieren o no quisieren firmar, imprimirán al calce y al margen, la huella de alguno de los dedos de la mano, debiéndose indicar en el acta cuál de ellos fue.
+En el caso del artículo anterior si el acusado, la víctima, el ofendido o los testigos no supieren o no quieren firmar, imprimirán al calce y al margen, la huella de alguno de los dedos de la mano, debiéndose indicar en el acta cuál de ellos fue.
 
 ###### Artículo 513.
 
@@ -3141,9 +3315,11 @@ Si la modificación o rectificación la hicieren las partes después de haber pu
 
 Solamente por causa justificada a juicio del Juez y por un término que no exceda de cinco días, podrán entregarse al Ministerio Público los expedientes para que los estudie fuera del local del Juzgado; pero no a las demás partes que intervengan en ellos.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 519.
 
-El ofendido y demás partes, con excepción del Ministerio Público, podrán imponerse de los autos en la Secretaría del Juzgado o Tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
+El ofendido, la víctima y demás partes, con excepción del Ministerio Público, podrán imponerse de los autos en la Secretaría del Juzgado o Tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
 
 ###### Artículo 520.
 
@@ -3153,9 +3329,13 @@ Si se perdiere algún expediente, se repondrá a costa del responsable, quien es
 
 Cuando no sea posible reponer todas las actuaciones del expediente perdido, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en el auto de detención, en el de formal prisión o de sujeción a proceso, o en cualquiera otra resolución de que haya constancia, siempre que no se hubiese objetado oportunamente la exactitud de la inserción o cita que de ellas se haga.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 522.
 
 Los secretarios de los tribunales cotejarán las copias o testimonios de constancias que se mandaren expedir, y las autorizarán con su firma y el sello correspondiente.
+
+Por ningún motivo, en los casos de delitos sexuales, de violencia familiar o en aquellos en que el ofendido y/o la víctima, por razones de seguridad en su persona lo soliciten, se deberán autorizar copias en las que consten sus datos personales, los cuales deberán ser tratados como confidenciales. Cuando por cualquier motivo se publiquen estos datos por algún servidor público, éste será responsable en los términos de las leyes administrativas y penales aplicables.
 
 ###### Artículo 523.
 
@@ -3175,11 +3355,11 @@ Las infracciones de las disposiciones contenidas en los artículos comprendidos 
 
 #### SECCION TERCERA.- Intérpretes
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 527.
 
-Cuando el inculpado, el ofendido, el denunciante, los testigos y en general quienes estén involucrados por motivo de la comisión de un delito, no hablen o no entiendan suficientemente el idioma castellano, se les nombrará a petición de parte o de oficio, uno o más traductores, quienes deberán exponer fielmente las preguntas y contestaciones que hayan que transmitir. Cuando lo solicite cualquiera de las partes, podrá escribirse la declaración en el idioma del declarante, sin que esto obste para que, el perito haga la traducción respectiva.
+Cuando el inculpado, la víctima, el ofendido, el denunciante, los testigos y en general quienes estén involucrados por motivo de la comisión de un delito, no hablen o no entiendan suficientemente el idioma castellano, se les nombrará a petición de parte o de oficio, uno o más traductores, quienes deberán exponer fielmente las preguntas y contestaciones que hayan que transmitir. Cuando lo solicite cualquiera de las partes, podrá escribirse la declaración en el idioma del declarante, sin que esto obste para que, el perito haga la traducción respectiva.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
@@ -3203,9 +3383,11 @@ Las partes podrán recusar al traductor motivando la recusación y el funcionari
 
 Los testigos no podrán ser intérpretes.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 532.
 
-Si el acusado, el ofendido o algún testigo fuere sordo o mudo, se le nombrará como intérprete a una persona que pueda comprenderlo, siempre que sea mayor de catorce años; y en este caso, se observará lo dispuesto en los artículos anteriores.
+Si el acusado, la víctima, el ofendido o algún testigo, fuere sordo o mudo, se le nombrará como intérprete a una persona que pueda comprenderlo, siempre que sea mayor de catorce años; y en este caso, se observará lo dispuesto en los artículos anteriores.
 
 ###### Artículo 533.
 
@@ -3233,25 +3415,39 @@ Cuando cambiare el personal de un Tribunal no se proveerá auto alguno haciendo 
 
 Cuando no tenga que dictarse resolución alguna anterior a la sentencia, se hará saber el cambio de personal.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 539.
 
-Cuando esté plenamente comprobado en autos el delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados.
+Cuando esté plenamente comprobado en autos el delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias y las órdenes de protección, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 540.
 
-No obstante lo dispuesto en el artículo anterior, cuando deben restituirse bienes al ofendido, éstos podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la investigación.
+No obstante lo dispuesto en el artículo anterior, cuando deben restituirse bienes a la víctima o al ofendido éstos podrán retenerse, esté o no comprobado el cuerpo del delito, cuando a juicio de quien practique las diligencias, la retención fuere necesaria para el éxito de la investigación.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2008)</small>
 
 Si se trata de bienes inmuebles que se encuentran baldíos, en breña, rústicos o sin construcciones, una vez que el Juez haya dictado el auto de formal prisión éste podrá ordenar las siguientes medidas:
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
 I.- Asegurar el bien inmueble motivo de la causa penal;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
 II.- Ordenar el desalojo del inmueble de manera inmediata, para lo cual se emplearán los medios de apremio que establece el Artículo 545 del presente Código;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
 III.- Remitir oficio al Registro Público de la Propiedad y del Comercio para hacer las anotaciones marginales correspondientes, en la inscripción del bien inmueble, sobre dicho aseguramiento;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
+
 IV.- Enviar oficio al Director de Seguridad Pública para la vigilancia y custodia del citado bien inmueble.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2008)</small>
 
 Una vez dictada sentencia ejecutoria el Juez levantará el aseguramiento del bien inmueble, restituyendo la posesión del mismo a quien corresponda conforme a derecho y deberá comunicar al Registro Público de la Propiedad y del Comercio y a la Dirección de Seguridad Pública el levantamiento del aseguramiento del inmueble en cuestión.
 
@@ -3259,9 +3455,11 @@ Una vez dictada sentencia ejecutoria el Juez levantará el aseguramiento del bie
 
 En caso de delitos patrimoniales, la restitución se hará previo avalúo.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
 ###### Artículo 542.
 
-Tratándose de la restitución al ofendido, reglamentada en los tres artículos anteriores, si la entrega del bien pudiera lesionar derechos de tercero o de acusado, deberá efectuarse la devolución mediante fianza bastante para garantizar los daños y perjuicios.
+Tratándose de la restitución a la víctima o al ofendido, reglamentada en los tres artículos anteriores, si la entrega del bien pudiera lesionar derechos de tercero o de acusado, deberá efectuarse la devolución mediante fianza bastante para garantizar los daños y perjuicios.
 
 ###### Artículo 543.
 
@@ -3294,6 +3492,12 @@ III.- El auxilio de la Fuerza Pública y la fractura de cerraduras o candados si
 IV.- Arresto hasta por treinta y seis horas,
 
 V.- (DEROGADA, P.O. 30 DE OCTUBRE DE 1992)
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+
+###### Artículo 545 Bis.
+
+Para la imposición de las correcciones disciplinarias, la autoridad estará atenta a cuestionamientos o prejuicios discriminatorios o de contenido sexual que impliquen cualquier tipo de denigración, hacia la víctima u ofendido del delito, en particular, tratándose de delitos contra la libertad y seguridad sexual y el de violencia familiar. El señalamiento respectivo podrá hacerlo el propio coadyuvante, o su representante legal.
 
 ###### Artículo 546.
 
@@ -4030,3 +4234,29 @@ P.O. 22 DE OCTUBRE DE 2010.
 T R A N S I T O R I O:
 
 ÚNICO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO 359, SE MODIFICAN DIVERSOS ARTICULOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto; quedando vigentes las de carácter penal contenidas en otras leyes, en todo lo no previsto por este ordenamiento.
+
+TERCERO.- Las conductas típicas o disposiciones de la parte general de este Decreto que con motivo del presente decreto hubieren sufrido reubicación, seguirán aplicándose con el mismo carácter o naturaleza, aunque haya variado su denominación o el número del artículo o su ubicación dentro del mismo numeral.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE NOVIEMBRE DE 2010.
+
+DECRETO NUMERO 360, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 100 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
