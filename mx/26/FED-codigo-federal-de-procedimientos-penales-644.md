@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2010-08-19"
+last_updated: "2010-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2437,9 +2437,11 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 23) Homicidio, previsto en los artículos 302 con relación al 307, 313, 315, 315 Bis, 320 y 323;
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-24) Secuestro, previsto en el artículo 366, salvo los dos párrafos últimos, y tráfico de menores, previsto en el artículo 366 ter;
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+24) Tráfico de menores, previsto en el artículo 366 Ter;
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2010)</small>
 
@@ -2541,9 +2543,17 @@ XV. De la Ley General de Salud, los previstos en las fracciones I, II y III del 
 
 XVI. De la Ley para Prevenir y Sancionar la Trata de Personas, los previstos en los artículos 5 y 6;
 
-> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-XVII. Los previstos en el artículo 49 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+XVII. Los previstos en el artículo 49 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+
+XVIII. De la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI, del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, los previstos en los artículos 9, 10, 11, 17 y 18.
 
 La tentativa punible de los ilícitos penales mencionados en las fracciones anteriores, también se califica como delito grave.
 
@@ -5626,3 +5636,29 @@ D.O.F. 19 DE AGOSTO DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal para dar cumplimiento a lo dispuesto por el presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+D.O.F. 30 DE NOVIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto. La implementación del presente Decreto será con cargo a los respectivos presupuestos aprobados a las instancias de los tres órdenes de gobierno obligados a cumplir con lo establecido en el presente.
+
+Quinto. Las disposiciones relativas a los delitos de secuestro previstas tanto en el Código Penal Federal como en los Códigos Penales locales vigentes hasta la entrada en vigor el (sic) presente Decreto seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+Sexto. El Procurador General de la República y los Procuradores Generales de Justicia de los Estados y del Distrito Federal, tendrán un año contado a partir de la publicación de este Decreto en el Diario Oficial de la Federación, para expedir las disposiciones administrativas correspondientes en materia de protección de personas en los términos que señala la presente Ley, sin menoscabo de las medidas de protección que otorguen previamente.
+
+Séptimo. El Consejo Nacional de Seguridad Pública y la Conferencia Nacional de Procuración de Justicia, deberán elaborar un Programa Nacional para prevenir, perseguir y sancionar las conductas previstas en el presente ordenamiento, independientemente del programa de cada entidad en particular, teniendo un plazo de seis meses, contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación.
+
+Octavo. La reforma a la fracción XIV del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor al día siguiente de la publicación del Decreto respecto de los usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto y, respecto de los nuevos usuarios de telefonía móvil, en términos del artículo transitorio cuarto del decreto de reformas a dicha ley, publicado en el Diario Oficial de la Federación el 9 de febrero de 2009.
+
+Noveno. El Instituto Federal de Defensoría Pública del Poder Judicial de la Federación, en el ámbito de su competencia, establecerá las áreas especializadas en defensa de víctimas del secuestro, en los términos de lo dispuesto en la ley de la materia.
+
+Décimo. Para el establecimiento y organización de las unidades especializadas contra el secuestro a que se refiere esta Ley, las entidades federativas dispondrán de los recursos del Fondo de Apoyo a la Seguridad Pública que respectivamente hayan recibido.
+
+Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
+
+Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
