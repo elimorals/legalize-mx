@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-unidad-de-enlace-de-la-secretaria-6767
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-07"
-last_updated: "2009-03-07"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA UNIDAD DE ENLACE DE LA SECRETARIA DE DESARROLLO RURAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2010, LA DENOMINACION SECRETARIA DE DESARROLLO RURAL SE MODIFICA POR SECRETARIA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 7 de marzo de 2009.
 
@@ -423,3 +425,37 @@ VOCAL.
 LIC. MANUEL SANTOS ROMO
 
 VOCAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2010.
+
+PRIMERO.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- En todos los casos en que por la aplicación de esta ley se modifique la estructura orgánica de la dependencia de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
+
+CUARTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO.- Se faculta a la Secretaría de Finanzas y a la de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de las modificaciones a esta Ley.
+
+SEXTO.- Cuando en diversas disposiciones legales, se haga referencia a:
+
+La Coordinación General de Delegaciones de Gobierno, se entenderá que se refiere a la Coordinación General de Módulos de Desarrollo Sustentable;
+
+La Coordinación General del Comité de Planeación para el Desarrollo de Oaxaca, se entenderá que se refiere a la Secretaría de Finanzas, en lo que corresponde a las atribuciones en materia de planeación, programación y presupuestación; y se entenderá que se refiere a la Coordinación de Módulos de Desarrollo Sustentable en lo que respecta a las atribuciones de Desarrollo Social;
+
+La Secretaría de Obras Públicas, se entenderá que se refiere a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+
+La Secretaría de Cultura, se entenderá que se refiere a la Secretaría de las Culturas y Artes de Oaxaca;
+
+La Secretaría de Turismo y la Secretaría de Economía, se entenderá que se refieren a la Secretaría de Turismo y Desarrollo Económico;
+
+La Secretaría de Desarrollo Rural, se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca.
+
+La Secretaría de la Contraloría, se entenderá que se refiere a la Secretaría de la Contraloría y Transparencia Gubernamental;
+
+El mismo criterio se aplicará para los titulares de dichas dependencias. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
+
+SÉPTIMO.- El Congreso del Estado contará con un término de noventa días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento de la presente ley.
