@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2010-11-10"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1805,7 +1805,7 @@ Artículo 113 G.- Las dependencias y entidades señaladas en el artículo anteri
 
 > <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
 
-Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas. y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
+Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
 
 ###### Artículo 110.
 
@@ -2417,9 +2417,95 @@ f) Negar el servicio en las materias que son competencia del Poder Judicial del 
 
 g) Dar por concluido el procedimiento de mediación o conciliación en caso de advertir alguna simulación en su trámite;
 
-h) Asistir a los cursos anuales de actualización y aprobar los exámenes anuales en materia de mediación y conciliación; y
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
 
-i) Recibir asesoría del Centro de Mediación y Conciliación del Poder Judicial del Estado de México.
+h) Asistir a los cursos anuales de actualización y aprobar los exámenes anuales en materia de mediación y conciliación;
+
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+i) Recibir asesoría del Centro de Mediación y Conciliación del Poder Judicial del Estado de México; y
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+j) Conocer, mediar, conciliar y ser árbitro en los accidentes ocasionados con motivo del tránsito vehicular, cuando exista conflicto de intereses, siempre que se trate de daños materiales a propiedad privada y en su caso lesiones a las que se refiere la fracción I del artículo 237 del Código Penal del Estado de México; lo que se hará bajo los siguientes lineamientos:
+
+1.- Facultad para ordenar el retiro de vehículos:
+
+En caso de que los conductores de los vehículos involucrados en los hechos de que se trate no lleguen a un arreglo en el mismo en (sic) lugar en que éstos hayan ocurrido, se presentarán ante el Oficial Mediador-Conciliador.
+
+El traslado se realizará por los mismos conductores, en caso de que éstos se encuentren en condiciones de circular, o bien, mediante el uso del servicio de grúas de su elección.
+
+Tratándose de vehículos con carga, se permitirá la realización de las maniobras necesarias para descargar el vehículo de que se trate.
+
+2.- Etapa conciliatoria:
+
+Una vez que el Oficial Mediador-Conciliador tenga conocimiento de los hechos, deberá instar a los involucrados a que concilien. En cualquier caso, el resultado de la audiencia de conciliación se hará constar en el acta respectiva de manera circunstanciada.
+
+El acuerdo conciliatorio tendrá el carácter de cosa juzgada y constituirá título ejecutivo, el cual podrá hacerse efectivo en la vía civil que corresponda.
+
+La etapa de conciliación no podrá exceder del plazo de tres horas. Una vez vencido el plazo sin que las partes lleguen a un arreglo, el Oficial Mediador-Conciliador levantará el acta respectiva y procederá conforme al punto siguiente.
+
+3.- Reglas para el arbitraje:
+
+Cuando los involucrados no concilien, el Oficial Mediador-Conciliador se constituirá en árbitro e iniciará el procedimiento respectivo actuando de la forma siguiente:
+
+a. Tomará la declaración de los interesados, del oficial de tránsito o policía preventivo que conozca de los hechos y, en su caso, de los testigos y ajustadores.
+
+b. Procederá a dar fe de los vehículos involucrados, y de inmediato dará intervención a los peritos que el caso requiera en materia de:
+
+Identificación vehicular;
+
+Valuación de daños automotrices;
+
+Tránsito terrestre;
+
+Medicina legal, y
+
+Fotografía.
+
+Los peritos de los que se haya solicitado su intervención deberán rendir su dictamen a la brevedad posible, mismo que podrán emitir bajo cualquier medio.
+
+El Oficial Mediador-Conciliador deberá realizar todas las diligencias necesarias y velar para que los peritos estén en condiciones de rendir sus dictámenes. Para estos efectos, podrá requerir la intervención de perito del Instituto de Servicio (sic) Periciales de la Procuraduría General de Justicia o del Tribunal Superior de Justicia del Estado de México.
+
+c. El Oficial Mediador-Conciliador, a través del medio que resulte más eficaz, realizará consulta a la Procuraduría General de Justicia del Estado de México, para saber si el o los vehículos involucrados cuentan o no con reporte de robo, y para tal efecto proporcionará los números de serie, motor y placas de circulación, asentando constancia de dicha consulta y agregando en su caso la documentación comprobatoria del resultado.
+
+Si de la identificación vehicular se desprenden alteraciones o de la consulta a la base de datos existe reporte de robo de los vehículos afectados, se procederá al aseguramiento y puesta a disposición ante el Ministerio Público.
+
+d. Procedimiento para la mediación en el arbitraje.
+
+Una vez rendidos los dictámenes periciales, el Oficial Mediador-Conciliador los hará del conocimiento de los involucrados y requerirá al probable responsable garantice o cubra la reparación del daño, la cual podrá realizarse por alguno de los medios legales establecidos.
+
+En esta etapa, nuevamente el Oficial Mediador-Conciliador, instará a los interesados a que concilien.
+
+El Oficial Mediador-Conciliador podrá ordenar el aseguramiento del vehículo señalado como causante del accidente, mismo que quedará en garantía del afectado en el depósito municipal respectivo.
+
+El vehículo que sirva de garantía sólo podrá ser retirado del depósito municipal cuando se acredite la reparación de los daños y el pago de los derechos correspondientes.
+
+4.- Emisión del Laudo:
+
+Agotadas las diligencias, el Oficial Mediador-Conciliador, en su carácter de árbitro, emitirá el laudo respectivo, mismo que deberá contener:
+
+Lugar, fecha y autoridad arbitral que lo emite;
+
+Nombres y domicilios de las partes;
+
+Un extracto de los hechos y los dictámenes emitidos;
+
+El responsable del accidente de tránsito;
+
+El monto de la reparación del daño, y
+
+La determinación de que el vehículo queda depositado en garantía del afectado, en los términos a que se refiere el inciso anterior, o bien, la garantía que se haya otorgado.
+
+El laudo deberá ser emitido en el plazo de setenta y dos horas siguientes a que el Oficial Mediador-Conciliador haya tenido conocimiento de los hechos.
+
+Los peritos y oficiales mediadores-conciliadores que incumplan lo dispuesto en este inciso, serán responsables en los términos de las disposiciones aplicables.
+
+5.- Ejecución del Laudo:
+
+El laudo arbitral tendrá el carácter de cosa juzgada y constituirá título ejecutivo, el cual podrá hacerse efectivo en la vía civil que corresponda.
+
+El Oficial Mediador-Conciliador notificará el laudo arbitral al juzgado de lo civil correspondiente del Distrito Judicial competente.
 
 II. De los Oficiales Calificadores:
 
@@ -2992,3 +3078,17 @@ G.G. 10 DE NOVIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 1 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los procesos penales por delitos respecto de los cuales el presente Decreto establece que el Ministerio Público se abstendrá de ejercer la acción penal, serán sobreseídos conforme a las disposiciones aplicables, sin perjuicio de que las partes hagan valer sus derechos a través de los Oficiales Mediadores-Conciliadores de los Municipios, o en la vía civil.
+
+CUARTO.- Los ayuntamientos de los municipios del Estado de México, harán las adecuaciones correspondientes a la reglamentación aplicable y emitirán las medidas necesarias, para garantizar el cumplimiento de este Decreto, en un plazo no mayor a un año, contando a partir de la fecha de su entrada en vigor.
+
+QUINTO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
+
+SEXTO.- El titular del Poder Ejecutivo del Estado de México realizará las adecuaciones que resulten pertinentes al Reglamento de Tránsito del Estado de México, conforme a las disposiciones del presente Decreto.
