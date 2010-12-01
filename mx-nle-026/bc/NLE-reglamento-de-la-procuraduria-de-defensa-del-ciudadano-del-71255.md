@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-procuraduria-de-defensa-del-ciudadano-del-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-23"
-last_updated: "2010-05-14"
+last_updated: "2010-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA PROCURADURIA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2010 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE LA PROCURADURIA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de noviembre de 2009.
 
@@ -109,6 +111,8 @@ Para los fines anteriormente descritos, las dependencias del municipio están ob
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN Y FACULTADES DE LA PROCURADURÍA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2010 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### ARTÍCULO 5.
 
 La Procuraduría, tendrá como máxima autoridad al Presidente Municipal; y para el debido cumplimiento de sus fines, ésta se integrará por:
@@ -119,13 +123,11 @@ II).- El Consejo Ciudadano: Será un órgano colegiado, que estará integrado po
 
 III).- Director de Procedimientos de Investigación: Es el responsable de vigilar la legalidad y atención de las actividades desarrolladas por las dependencias municipales, en su actuación con particulares, e iniciar el trámite de los procedimientos de responsabilidad administrativa correspondientes.
 
-IV).- Auxiliares: Serán los encargados de realizar las investigaciones y notificaciones encomendadas por la Dirección de Procedimientos de Investigación, e integrar los expedientes de responsabilidad administrativa.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
-V).- Perito Médico Legista: Es la persona experta en la materia, con conocimientos técnico-científicos y especiales que se requieran.
+IV).- Coordinador de Procedimientos de Investigación: Será el encargado de coordinar las funciones de los auxiliares.
 
-VI).- Director Técnico: Es el responsable de promover y aplicar las políticas, prioridades y acciones institucionales en materia de fomento a la cultura de respeto a los derechos de los ciudadanos en el territorio que comprende el municipio.
-
-VII).- Coordinador de Enlaces Estratégicos y Capacitación: Es el encargado de dejar establecido por escrito y reforzando además con esquemas gráficos, relaciones de hechos significativos para la historia de la Procuraduría; así como ser enlace entre ésta y las distintas entidades gubernamentales o no, para apoyo y coordinación mutua.
+Auxiliares: Serán los encargados de realizar las investigaciones y notificaciones encomendadas por la Dirección de Procedimientos de Investigación, e integrar los expedientes de responsabilidad administrativa.
 
 ###### ARTÍCULO 6.
 
@@ -343,17 +345,23 @@ VIII.- Someter a consideración del Procurador el proyecto de programa anual de 
 
 IX.- Cubrir las ausencias temporales del Procurador, hasta por 30 días hábiles.
 
-### CAPÍTULO VI. DEL NOMBRAMIENTO Y FACULTADES DEL AUXILIAR
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+### CAPÍTULO VI
+
+DEL NOMBRAMIENTO Y FACULTADES DEL COORDINADOR DE PROCEDIMIENTOS DE INVESTIGACIÓN Y DEL AUXILIAR.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 21.
 
-El Auxiliar, será nombrado por el Procurador en funciones, quien además podrá cubrir las ausencias temporales del Director de Procedimientos de Investigación, hasta por 30 días hábiles.
+El Coordinador de Procedimientos de Investigación y los auxiliares serán nombrados por el Procurador en funciones. Además el Coordinador de Procedimientos de Investigación podrá cubrir las ausencias temporales del Director de Procedimientos de Investigación, de conformidad con lo establecido en el presente Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 22.
 
-Para ser Auxiliar, se requiere:
+Para ser Coordinador de Procedimientos de Investigación y Auxiliar se requiere:
 
 I).- Ser ciudadano mexicano por nacimiento, y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
 
@@ -365,13 +373,29 @@ IV).- Contar con el conocimiento y experiencia necesaria a juicio del Procurador
 
 V).- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama ya como procurador, éste será inhabilitado para el cargo cualquiera que haya sido la pena, además de tener un modo honesto de vivir.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 23.
+
+Son facultades y obligaciones del Coordinador, las siguientes:
+
+I).- Llevar los libros que tiene a su cargo esta Dependencia, como los son el de registro de causas, oficios y audiencias, y hacer las anotaciones en ellos, así como los expedientes y archivos de los mismos.
+
+II).- Ser encargado de recepción de todo tipo de escritos que se dirijan a esta Procuraduría, tales como contestación de denuncias e informes, entre otros.
+
+III).- Custodiar los sellos de actuación, recibido y sin texto con que se actúa en esta Procuraduría.
+
+IV).- Dar cuenta al C. Director de Procedimientos de Investigación, a fin de que éste sancione las peticiones y emita los proveídos a que aluden el propio reglamento de esta Dependencia y lo que señalan las leyes aplicables y otros ordenamientos administrativos.
+
+V). Gozara de fe Pública y estará facultado para realizar las notificaciones que resulten del procedimiento.
 
 Son facultades y obligaciones del Auxiliar, las siguientes:
 
 I).- La integración del expediente y su consecuente investigación, la que realizarán bajo la estricta supervisión del Director de Procedimientos de Investigación.
 
 II).- Gozara de fe Pública y estará facultado para realizar las notificaciones que resulten del procedimiento.
+
+III).- Atender las disposiciones del C. Procurador, Director y Coordinador de Procedimientos de investigación.
 
 ### CAPÍTULO VII. DEL NOMBRAMIENTO Y FACULTADES DEL PERITO MEDICO LEGISTA
 
@@ -385,9 +409,11 @@ La función del Médico Legista, consistirá en practicar los dictámenes médic
 
 Debiendo elaborar el respectivo dictamen médico, en el cual en su caso detallara y calificara con precisión las lesiones que hayan sido proferidas, expresando la necesidad del traslado y canalización de la persona a otras instituciones del sector salud o de impartición de justicia, justificando y motivando su proceder.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 26.
 
-El Perito Médico Legista que sea designado por la Procuraduría, deberá de reunir las exigencias y requisitos que se señalan en los numerales 309 y 304 del Código de Procedimientos Civiles vigente en el Estado de Nuevo León; así como en lo establecido en la Fracción IV, del artículo 3 y el artículo 58 de la Ley Orgánica del Poder Judicial del Estado de Nuevo León.
+El Perito Médico Legista que sea designado por la Procuraduría, deberá de reunir las exigencias y requisitos que se señalan en los numerales 309 y 310 del Código de Procedimientos Civiles vigente en el Estado de Nuevo León; así como en lo establecido en la Fracción IV, del artículo 3 de la Ley Orgánica del Poder Judicial del Estado de Nuevo León.
 
 ### CAPÍTULO VIII. DEL NOMBRAMIENTO Y FACULTADES DEL DIRECTOR TÉCNICO
 
@@ -523,9 +549,11 @@ El arreglo mutuo al que llegaren las partes, no traerá consigo presunción de r
 
 Cualquier persona podrá interponer denuncia o queja, ante violaciones de sus derechos, cometidos por servidores públicos al servicio del Municipio de Guadalupe, Nuevo León; debiendo acudir para tal efecto dentro del plazo de 30-treinta días naturales, contados a partir del día en que se cometió o se percató de la violación, ante las oficinas de la Procuraduría para formular su queja o denuncia, siendo obligación de ésta, registrarla y darle el número de expediente que le corresponda. Atendiendo a lo anterior, el mencionado órgano estará obligado a proporcionar al denunciante la asesoría legal que requiera de manera gratuita, pronta y expedita.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 40.
 
-Se entenderá por denuncia, la relación de hechos, actos u omisiones que haga valer cualquier persona, ante la Procuraduría, contra toda violación que se haga en la esfera de sus derechos, y garantías; siendo obligación de la Procuraduría, hacer la investigación de los mismos, para substanciarlos o desecharlos, debiendo comunicar por cualquier medio al quejoso el estado procesal de su asunto.
+Se entenderá por denuncia, la relación de hechos, actos u omisiones que haga valer cualquier persona bajo protesta de decir verdad y sabedor de las sanciones que establece el Código Penal de Nuevo León, ante la Procuraduría, contra toda violación que se haga en la esfera de sus derechos, y garantías; siendo obligación de la Procuraduría, hacer la investigación de los mismos, para substanciarlos o desecharlos, debiendo comunicar por cualquier medio al quejoso el estado procesal de su asunto.
 
 ###### ARTÍCULO 41.
 
@@ -742,3 +770,9 @@ P.O. 14 DE MAYO DE 2010.
 PRIMERO.- L as presentes reformas y adiciones al Reglamento de la Procuraduría de Defensa del Ciudadano del municipio de Guadalupe, Nuevo León, entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones reglamentarías, circulares, acuerdos y normas que contravengan el contenido de las presentes reformas y adiciones.
+
+P.O. 1 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Las reformas por modificación y adición al articulado del Reglamento de la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe Nuevo León, entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento de la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe, Nuevo León.
