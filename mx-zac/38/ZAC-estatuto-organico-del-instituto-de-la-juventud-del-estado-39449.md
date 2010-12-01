@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-la-juventud-del-estado-39449
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-04-28"
-last_updated: "2004-04-28"
+last_updated: "2010-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO ORGANICO DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE ZACATECAS, PUBLICADO EN EL SUPLEMENTO AL P.O. DE 1 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Estatuto publicado en el Periódico Oficial del Estado de Zacatecas, el miércoles 28 de abril de 2004.
 
@@ -512,3 +514,15 @@ Artículo Segundo.- Los asuntos que se encuentren en trámite a cargo de otros D
 Artículo Tercero.- Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberán expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, los Manuales correspondientes.
 
 Aprobado por la Junta de Gobierno del Instituto de la Juventud del Estado de Zacatecas, en sesión celebrada en la Ciudad de Zacatecas, a los veinte días del mes de Abril del año dos mil cuatro.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Estatuto Orgánico entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Estatuto Orgánico del Instituto de la Juventud del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 28 de abril del 2004, en Suplemento al Número 34.
+
+Tercero.- Los asuntos que se encuentren en trámite a cargo de otros departamentos que se Modifiquen o cambien de adscripción, los resolverá el departamento o unidad administrativa que el presente Estatuto establezca.
+
+Cuarto.- Dentro del término de sesenta días naturales, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberán expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, los manuales correspondientes.
