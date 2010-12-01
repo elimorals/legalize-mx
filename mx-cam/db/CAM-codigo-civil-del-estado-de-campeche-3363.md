@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2010-11-19"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -1813,6 +1813,12 @@ XX.- La separación de los cónyuges por más de dos años, independientemente d
 
 XXI.- Las conductas de violencia familiar cometidas por un cónyuge contra el otro o hacia los hijos de ambos o de alguno de ellos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+Para efectos de este artículo se considera violencia familiar el acto de poder u omisión, recurrente, intencional y cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional o sexualmente a cualquier miembro de la familia, dentro o fuera del domicilio familiar, realizado por quien con él tenga parentesco de consanguinidad o una relación derivada de matrimonio, y que tenga por efecto causar daño en cualquiera de las modalidades señaladas en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Campeche.
+
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 288.
@@ -1880,6 +1886,16 @@ III.- Las que se estimen convenientes para que los cónyuges no se puedan causar
 IV.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
 
 V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio, propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+VI.- En los casos en que el Juez lo considere pertinente, de conformidad con los hechos expuestos y las causales invocadas en la demanda, con el fin de salvaguardar la integridad y seguridad de los interesados tomará las siguientes medidas:
+
+a) Prohibir al cónyuge demandado ir a lugar determinado, tal como el domicilio o el lugar donde trabajan o estudian los agraviados; y
+
+b) Prohibir que el cónyuge demandado se acerque a los agraviados a la distancia que considere pertinente.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -2631,7 +2647,7 @@ IV.- Las Instituciones de Asistencia Social Públicas o Privadas que lo hubieran
 
 V.- El Ministerio Público adscrito al Juzgado Familiar del que conozca la adopción, cuando no se den las hipótesis anteriores.
 
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+Si el menor que va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2000)</small>
 
@@ -3067,7 +3083,9 @@ La patria potestad se pierde:
 
 I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves;
 
-II.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2006)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+II.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2010)
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
@@ -3083,9 +3101,17 @@ IV.- Por la exposición que el padre, la madre o ambos hicieran de sus hijos, o 
 
 En los casos de adopción, tomando en consideración el interés superior del menor, acreditada por cualquier medio de prueba su situación de abandono, el Juez de lo familiar resolverá previamente la Pérdida de la Patria Potestad;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Por la entrega que el padre o la madre o quien ejerce la Patria Potestad hiciera del menor a una Institución de Asistencia Social Pública o Privada con la finalidad de que sea dado en adopción.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+V.- Por la entrega que el padre o la madre o quien ejerce la Patria Potestad hiciera del menor a una Institución de Asistencia Social Pública o Privada con la finalidad de que sea dado en adopción; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+VI.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima u ofendido sea el menor.
 
 ###### Art. 459.
 
@@ -3425,7 +3451,7 @@ Del desempeño de la tutela.
 
 ###### Art. 516.
 
-No pueden ser tutores, aunque estén anuentes en recibir el cargo:
+No pueden ser tutores aunque estén anuentes en recibir el cargo:
 
 I.- Los menores de edad;
 
@@ -3435,7 +3461,11 @@ III.- Los que hayan sido removidos de otra tutela por haberse conducido mal, ya 
 
 IV.- Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
 
-V.- El que haya sido condenado por delitos contra la propiedad o contra la honestidad;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+V.- El que haya sido condenado por delitos contra la propiedad, contra la honestidad o haya resultado cónyuge culpable en un divorcio por la causal prevista en la fracción XXI del artículo 287 del presente ordenamiento;
 
 VI.- Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
 
@@ -16056,6 +16086,12 @@ PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO: La Dirección del Registro Civil contará con un plazo de 180 días hábiles a partir de la entrada en vigor del presente decreto para realizar las modificaciones pertinentes a su reglamento interior y de 90 días hábiles para celebrar los convenios de colaboración con el Sistema para el Desarrollo Integral de la Familia o instituciones públicas o privadas que cuenten con el personal capacitado para cumplir los objetivos contenidos en el artículo 157 del presente decreto.
 
 TERCERO: Se derogan todas las disposiciones legales y administrativas en lo que se opongan al presente decreto.
+
+P. O. 1 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor 15 días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas en lo que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
 
