@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2009-09-30"
+last_updated: "2010-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 30 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 1 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -991,7 +991,23 @@ XII. Cuando se emplee cualquier mecanismo alternativo para la solución del conf
 
 XIII. Cuando el imputado se encuentre afectado por una enfermedad incurable, en estado terminal, según dictamen pericial, o tenga más de 70 años y no exista mayor daño al interés social.
 
-El ministerio público deberá aplicar los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando cada caso en lo individual, según los criterios generales que al efecto se hayan dispuesto por la Procuraduría General de Justicia del Estado. En los casos en que se verifique un daño, éste deberá ser previamente reparado en forma razonable.
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+El Ministerio Público deberá aplicar los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando cada caso en lo individual, según los criterios generales que al efecto se hayan dispuesto por la Procuraduría General de Justicia del Estado.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+En los casos en que se verifique daño, éste deberá:
+
+a) Haber sido reparado;
+
+b) Que sobre el mismo se han acordado en los términos de su reparación;
+
+e) Que se ha otorgado garantía suficiente para repararlo; o
+
+d) Que se ha realizado su pago conforme a dictamen pericial.
+
+En cualquiera de estos supuestos deberá dejarse constancia, por cualquier medio indubitable, de la reparación o de la restitución, según sea el caso.
 
 Plazo para aplicar criterios de oportunidad
 
@@ -4655,7 +4671,7 @@ Las averiguaciones previas, procesos y recursos que se refieran a hechos ocurrid
 
 ###### ARTÍCULO QUINTO.
 
-Al entrar en vigor el nuevo sistema de justicia penal, quedan derogadas todas las disposiciones que se opongan a Io preceptuado en este código.
+Al entrar en vigor el nuevo sistema de justicia penal, quedan derogadas todas las disposiciones que se opongan a lo preceptuado en este código.
 
 > <small>(REFORMADO, G.G. 30 DE JULIO DE 2009)</small>
 
@@ -4768,3 +4784,17 @@ Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno" del Esta
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 1 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los procesos penales por delitos respecto de los cuales el presente Decreto establece que el Ministerio Público se abstendrá de ejercer la acción penal, serán sobreseídos conforme a las disposiciones aplicables, sin perjuicio de que las partes hagan valer sus derechos a través de los Oficiales Mediadores-Conciliadores de los Municipios, o en la vía civil.
+
+CUARTO.- Los ayuntamientos de los municipios del Estado de México, harán las adecuaciones correspondientes a la reglamentación aplicable y emitirán las medidas necesarias, para garantizar el cumplimiento de este Decreto, en un plazo no mayor a un año, contando a partir de la fecha de su entrada en vigor.
+
+QUINTO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
+
+SEXTO.- El titular del Poder Ejecutivo del Estado de México realizará las adecuaciones que resulten pertinentes al Reglamento de Tránsito del Estado de México, conforme a las disposiciones del presente Decreto.
