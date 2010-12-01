@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-coordinacion-general-de-77489"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-06"
-last_updated: "2010-11-06"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA COORDINACION GENERAL DE DELEGACIONES DE GOBIERNO DEL ESTADO DE OAXACA
 
-REGLAMENTO INTERNO DE LA COORDINACION GENERAL DE DELEGACIONES DE GOBIERNO DEL ESTADO DE OAXACA
+REGLAMENTO INTERNO DE LA COORDINACIÓN GENERAL DE MÓDULOS DE DESARROLLO SUSTENTABLE DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 6 de noviembre de 2010.
 
@@ -33,17 +33,23 @@ C O N S I D E R A N D O.
 
 Por las consideraciones anteriormente expuestas y fundadas, el Ejecutivo del Estado a mi cargo ha tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERNO DE LA COORDINACIÓN GENERAL DE DELEGACIONES DE GOBIERNO.
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+REGLAMENTO INTERNO DE LA COORDINACIÓN GENERAL DE MÓDULOS DE DESARROLLO SUSTENTABLE
 
 ### CAPÍTULO PRIMERO. DE LA COMPETENCIA
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 1.
 
-El presente Reglamento tiene por objeto, regular la estructura interna y funcionamiento de la Coordinación General de Delegaciones de Gobierno.
+El presente Reglamento tiene por objeto, regular la estructura interna y funcionamiento de la Coordinación General de Módulos de Desarrollo Sustentable.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 2.
 
-La Coordinación General de Delegaciones de Gobierno como oficina auxiliar del Gobernador del Estado, tiene a su cargo el despacho de los asuntos que expresamente se le encomiendan en la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y demás ordenamientos jurídicos aplicables en el ámbito de su competencia.
+La Coordinación General de Módulos de Desarrollo Sustentable como oficina auxiliar del Gobernador del Estado, tiene a su cargo el despacho de los asuntos que expresamente se le encomiendan en la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca y demás ordenamientos jurídicos aplicables en el ámbito de su competencia.
 
 ###### ARTÍCULO 3.
 
@@ -53,9 +59,13 @@ I. Gobernador: Al Gobernador Constitucional del Estado Libre y Soberano de
 
 Oaxaca.
 
-II. Coordinación: A la Coordinación General de Delegaciones de Gobierno.
+> <small>(REFORMADA, P.O.1 DE DICIEMBRE DE 2010)</small>
 
-III. Coordinador: Al Titular de la Coordinación General de Delegaciones de Gobierno.
+II. Coordinación: A la Coordinación General de Módulos de Desarrollo Sustentable.
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+III. Coordinador: Al Titular de la Coordinación General de Módulos de Desarrollo Sustentable.
 
 IV. Subcoordinador Regional: Al Titular de cada Subcoordinación Regional.
 
@@ -163,7 +173,9 @@ IX. Autorizar las solicitudes de servicio para el mantenimiento y reparación de
 
 X. Coordinarse con la Secretaria de Administración para la adquisición de bienes y servicios en los términos de la normatividad aplicable;
 
-XI. Informar a la Secretaría de la Contraloría, de las infracciones que se cometan a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+XI. Informar a la Secretaría de la Contraloría y Transparencia Gubernamental, de las infracciones que se cometan a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
 
 XII. Autorizar previo acuerdo del Coordinador, las asignaciones y resguardos de los vehículos de la Coordinación;
 
@@ -414,3 +426,35 @@ LIC. MANUEL FRANCISCO MÁRQUEZ MÉNDEZ
 EL COORDINADOR GENERAL DE DELEGACIONES DE GOBIERNO
 
 LIC. ALEJANDRO AVILÉS ÁLVAREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2010.
+
+SE TRANSCRIBEN LOS ARTICULOS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+.
+
+SEXTO.- Cuando en diversas disposiciones legales, se haga referencia a:
+
+La Coordinación General de Delegaciones de Gobierno, se entenderá que se refiere a la Coordinación General de Módulos de Desarrollo Sustentable;
+
+La Coordinación General del Comité de Planeación para el Desarrollo de Oaxaca, se entenderá que se refiere a la Secretaría de Finanzas, en lo que corresponde a las atribuciones en materia de planeación, programación y presupuestación; y se entenderá que se refiere a la Coordinación de Módulos de Desarrollo Sustentable en lo que respecta a las atribuciones de Desarrollo Social;
+
+La Secretaría de Obras Públicas, se entenderá que se refiere a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+
+La. Secretaría de Cultura, se entenderá que se refiere a la Secretaría de las Culturas y Artes de Oaxaca;
+
+La Secretaría de Turismo y la Secretaría de Economía, se entenderá que se refieren a la Secretaría de Turismo y Desarrollo Económico;
+
+La Secretaria de Desarrollo Rural, se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
+
+La Secretaría de la Contraloría, se entenderá que se refiere a la Secretaría de la Contraloría y Transparencia Gubernamental;
+
+El mismo criterio se aplicará para los titulares de dichas dependencias. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
+
+SÉPTIMO.- El Congreso del Estado contará con un término de noventa días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento de la presente ley.
