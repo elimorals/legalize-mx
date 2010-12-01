@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2010-11-03"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -259,7 +259,7 @@ Existe concurso real, cuando con pluralidad de acciones u omisiones se cometen v
 
 ### CAPITULO VII. REINCIDENCIA Y HABITUALIDAD
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 19.
 
@@ -325,7 +325,7 @@ VII. Tratamiento.
 
 ### CAPITULO I. PRISION
 
-> <small>(REFORMADO, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 23.
 
@@ -335,7 +335,7 @@ SUBTITULO PRIMERO
 
 ### CAPITULO II. MULTA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 24.
 
@@ -721,15 +721,13 @@ V. Cause lesiones a más de tres personas, de las que pongan en peligro la vida 
 
 Cuando por manejar en estado de ebriedad o bajo el influjo de drogas enervantes y otras análogas que produzcan efectos similares se maneje un vehículo de motor, además de la pena por el delito cometido, se le impondrán de seis meses a un año de prisión, de treinta a cien días multa, y suspensión por un año o privación del derecho de manejar. Si el delito se comete por conductores de vehículos de transporte público, de personal o escolar, siempre que no se cause homicidio, además de la pena por el delito cometido, se le impondrán de dos a cuatro años de prisión y de treinta a doscientos días multa y suspensión por un año o privación definitiva del derecho de manejar en caso de reincidencia.
 
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 62.
 
-El delito se castigará únicamente con la multa señalada en el artículo 60, independientemente de la reparación del daño y se perseguirá a petición del ofendido, siempre y cuando el inculpado no se hubiere encontrado en estado de ebriedad o bajo el influjo de drogas u otras substancias que produzcan efectos análogos, cuando:
+El delito se castigará únicamente con la multa señalada en el artículo 60, independientemente de la reparación del daño y se perseguirá a petición del ofendido, siempre y cuando el inculpado no se hubiere encontrado en estado de ebriedad o bajo el influjo de drogas u otras sustancias que produzcan efectos análogos y cuando la acción culposa origine lesiones de las previstas en los artículos 237 fracción II, o 238 fracción II, de este Código.
 
-I. La acción culposa origine solamente daño en los bienes cualquiera que sea su monto;
-
-II. La acción culposa que se ejecute origine únicamente lesiones de las comprendidas en los artículos 237 fracciones I y II, y 238 fracción II de este código; y
-
-III. En la acción culposa se origine daño en los bienes, cualquiera que sea su monto y lesiones de las comprendidas en la fracción anterior.
+Tratándose de delitos culposos ocasionados con motivo del tránsito de vehículos, el Ministerio Público podrá aplicar los criterios de oportunidad que establezcan las disposiciones jurídicas.
 
 ###### Artículo 63.
 
@@ -759,7 +757,7 @@ Cuando la capacidad de comprender el carácter ilícito del hecho típico no pue
 
 ### CAPITULO V. CASOS DE CONCURSO
 
-> <small>(REFORMADO, G.G. 27 DE OCTUBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 27 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 68.
 
@@ -999,7 +997,7 @@ La amnistía extingue la pretensión punitiva y todas las consecuencias jurídic
 
 ### CAPITULO VIII. PERDON DEL OFENDIDO
 
-> <small>(REFORMADO, G.G. 1 DE ABRIL DEL 2004)</small>
+> <small>(REFORMADO, G.G. 1 DE ABRIL DE 2004)</small>
 
 ###### Artículo 90.
 
@@ -1051,15 +1049,23 @@ La prescripción producirá su efecto, aunque no la alegue en su defensa el incu
 
 El término para la prescripción de la pretensión punitiva será continuo y se contará a partir del día en que se cometió el delito, si fuere instantáneo; desde que cesó, si fuere permanente; desde el día en que se hubiere realizado el último acto de ejecución, si fuere continuado o en caso de tentativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 97.
 
-La pretensión punitiva del delito que se persigue de oficio o de querella, prescribirá en un lapso igual al término medio aritmético de la pena privativa de libertad que le corresponde, pero en ningún caso será menor de tres años, siempre que no se haya ejercitado acción penal, pues en caso contrario se atenderá al delito señalado en el auto de formal prisión.
+La pretensión punitiva del delito que se persigue de oficio, prescribirá en un lapso igual al término medio aritmético de la pena privativa de la libertad que le corresponde, pero en ningún caso será menor de tres años, siempre que no se haya ejercitado acción penal pues en caso contrario se atenderá al delito señalado en el auto de vinculación a proceso.
 
-Si la pena asignada al delito no fue la de prisión, la pretensión punitiva prescribirá en dos años.
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+Si la pena asignada al delito no fue la de prisión, la pretensión punitiva prescribirá en un año.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
 Si se trata de delito grave o si el inculpado se sustrae de la justicia, el delito prescribirá en un término igual a la pena máxima del ilícito de que se trate.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+El delito que se persigue de querella o el acto equivalente, prescribirá en un año, contado a partir de que quien pueda formularla tenga conocimiento del delito. En ningún caso podrá exceder de tres años contados a partir de su consumación.
 
 ###### Artículo 98.
 
@@ -1373,7 +1379,7 @@ IX. Cuando sin orden de la autoridad competente, obligue a los particulares a pr
 
 X. Cuando después de haber ejecutado una orden de aprehensión, no ponga al inculpado a disposición del juez sin dilación alguna;
 
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 XI. Los servidores públicos del Instituto de Servicios Periciales que indebidamente:
 
@@ -1831,7 +1837,7 @@ I. Sin ser funcionario público se atribuya ese carácter o ejerza alguna funci�
 
 II. Se atribuya o acepte por cualquier medio el carácter de profesionista sin tener título legal o ejerza los actos propios de una profesión sin título o sin autorización legal.
 
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 III. Se equipara a la usurpación de funciones públicas la prestación u ostentación de servicios de seguridad privada, por parte de persona física, miembros o representantes legales de una persona jurídica o de una sociedad, corporación o empresa, sin la autorización otorgada por la autoridad estatal. Al responsable de este delito, se le impondrán de tres a ocho años de prisión y de cien a mil días multa.
 
@@ -1891,7 +1897,7 @@ Se entiende por acopio la reunión de tres o más armas de las mencionadas en el
 
 ### CAPITULO IV. INCUMPLIMIENTO DE OBLIGACIONES ALIMENTARIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 181.
 
@@ -2233,7 +2239,7 @@ DELITOS DE PELIGRO CONTRA LAS PERSONAS
 
 ### CAPITULO III. ABANDONO DE INCAPAZ
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 212.
 
@@ -2269,7 +2275,7 @@ El término para la prescripción de la bigamia, empezará a correr desde que un
 
 Comete este delito, el que sin motivo justificado abandone a sus descendientes, ascendientes, cónyuge, concubina, concubino, o acreedor alimentario sin recursos para atender sus necesidades de subsistencia, aun cuando estos, con motivo del abandono se vean obligados a allegarse por cualquier medio de recursos para satisfacer sus requerimientos indispensables, independientemente de que se inicie o no la instancia civil. El delito se sancionará con prisión de dos a cinco años y de treinta a quinientos días multa.
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 Este delito se perseguirá a petición del ofendido o del legítimo representante de los hijos o de los Sistemas para el Desarrollo Integral de la Familia Estatal o Municipal, Instituciones de Asistencia Privada debidamente constituidas y a falta de estos, la acción se iniciará por el Ministerio Público como representante legítimo de los menores. Para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiera dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos, por un término no menor a un año.
 
@@ -2277,7 +2283,7 @@ Al que intencionalmente se coloque en estado de insolvencia, con el objeto de el
 
 Este delito se perseguirá de oficio si de él resultare algún peligro, lesión o la muerte, independientemente de las reglas de concurso.
 
-> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 Al inculpado de este delito además de las sanciones señaladas se impondrá la pérdida (sic) los derechos inherentes a la patria potestad del menor o incapaz agraviado por resolución judicial.
 
@@ -2301,7 +2307,7 @@ Si el inculpado de este delito lo cometiese de manera reiterada, se le impondrá
 
 ### CAPITULO II. SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 219.
 
@@ -2545,6 +2551,18 @@ III. Cuando ponga en peligro la vida, se impondrán de dos a seis años de prisi
 
 Para efectos de este capítulo, se entiende que una lesión amerita hospitalización, cuando el ofendido con motivo de la lesión o lesiones sufridas, quede impedido para dedicarse a sus ocupaciones habituales, aun cuando materialmente no sea internado en una casa de salud, sanatorio u hospital.
 
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+El Ministerio Público se abstendrá de ejercer acción penal, tratándose de lesiones culposas de las que según la clasificación médica tarden en sanar menos de quince días, causadas con motivo de accidentes ocasionados por el tránsito de vehículos. En estos casos, la autoridad que conozca de los hechos remitirá el asunto a la instancia conciliadora establecida en la Ley Orgánica Municipal del Estado de México, siempre y cuando el conductor que ocasione el hecho de tránsito no se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+En los casos de lesiones causadas con motivo de accidentes ocasionados por el tránsito de vehículos, distintas a las señaladas en el párrafo anterior, el Ministerio Público podrá aplicar los criterios de oportunidad, dependiendo de las particularidades de cada caso, en términos de lo dispuesto por el Código de Procedimientos Penales para el Estado de México.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+Las diligencias practicadas por la autoridad que conozca de los hechos en primer orden, serán turnadas a la autoridad que le corresponda, para que siga conociendo de los hechos.
+
 ###### Artículo 238.
 
 Son circunstancias que agravan la penalidad del delito de lesiones y se sancionarán, además de las penas señaladas en el artículo anterior, con las siguientes:
@@ -2563,7 +2581,7 @@ VI. Cuando las lesiones sean calificadas, se aumentará la pena de prisión de s
 
 VII. Cuando el ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario del inculpado, se aumentarán de seis meses a dos años de prisión; y (sic)
 
-> <small>(REFORMADA, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
+> <small>(REFORMADA, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 VIII. Cuando las lesiones a que se refiere éste artículo se infieran a los menores, incapaces o pupilos que se encuentren bajo la patria potestad, tutela o custodia del inculpado, se impondrá además de la pena correspondiente, la suspensión o privación de esos derechos;
 
@@ -2607,11 +2625,11 @@ El delito de homicidio, se sancionará en los siguientes términos:
 
 I. Al responsable de homicidio simple, se le impondrán de diez a quince años de prisión y de doscientos cincuenta a trescientos setenta y cinco días multa;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 II. Al responsable de homicidio calificado, se le impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa; y
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa.
 
@@ -2625,7 +2643,7 @@ Son circunstancias que atenúan la penalidad en el delito de homicidio y se sanc
 
 I. Cuando el delito se cometa en riña o duelo se impondrán de tres a diez años de prisión y de cincuenta a doscientos cincuenta días multa, tomando en cuenta quien fue el provocado, quien el provocador y el grado de provocación;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
 
 II. Cuando el delito se cometa bajo alguna de las siguientes circunstancias, se impondrá de cinco a veinte años de prisión y de cincuenta a trescientos días multa.
 
@@ -2801,23 +2819,23 @@ Al que por cualquier medio prive a otro de la libertad, con el fin de obtener re
 
 La pena señalada en el párrafo anterior se atenuará o agravará en los términos de las siguientes fracciones:
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 I. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cuarenta y ocho horas, cuando no le haya causado ningún daño o perjuicio, ni a la persona relacionada con éste, se le impondrán de dos a seis años de prisión y de cien a mil días multa;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 II. Al que sin haber recibido rescate pusiese espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción I del artículo 237, se le impondrán de tres a diez años de prisión y de ciento cincuenta a mil quinientos días multa;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 III. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción II del artículo 238, se le impondrán de ocho a veinte años de prisión y de doscientos a dos mil días multa;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 IV. Al que sin haber recibido rescate pusiere espontáneamente en libertad al secuestrado antes de cinco días, cuando le haya causado lesiones de las previstas en la fracción III del artículo 238 o de las que pusieren en peligro la vida, se le impondrán de quince a treinta años de prisión y de doscientos cincuenta a tres mil días multa;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 V. Se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa:
 
@@ -2825,7 +2843,7 @@ a) Cuando con motivo del secuestro se cause la muerte o falleciera el secuestrad
 
 b) Cuando se cause la muerte a personas relacionadas con el secuestro.
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 VI. Al que solicite u obligue al secuestrado a retirar dinero de los cajeros electrónicos y/o de cualquier cuenta bancaria a la que este tenga acceso se le impondrá de treinta y cinco a cincuenta años de prisión y de setecientos a dos mil días multa.
 
@@ -2841,7 +2859,7 @@ A quien simule encontrarse secuestrado con amenaza de su vida o daño a su perso
 
 La misma pena se aplicará a cualquiera que participe en la comisión de este delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 261.
 
@@ -2851,7 +2869,7 @@ I. Actúe como intermediario en las negociaciones del rescate, sin el acuerdo de
 
 II. Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 III. Actúe con fines de lucro, como asesor o intermediario de quienes representen o gestionen en favor de la víctima;
 
@@ -2861,7 +2879,7 @@ V. Intimide a la víctima, a sus familiares, a sus representantes o gestores, du
 
 VI. Reciba cualquier pago con motivo de su intervención en el secuestro.
 
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 VII. Actúe como asesor o intermediario de quienes representen o gestionen en favor de la víctima y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión de secuestro.
 
@@ -2943,7 +2961,7 @@ Si el ofendido es impúber, aun cuando otorgue su consentimiento, se impondrán 
 
 Si se hiciere uso de la violencia física o moral se impondrá además la pena de uno a cuatro años de prisión.
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 Si los actos a que se refiere este artículo los cometiera un familiar consanguíneo directo y colaterales hasta el cuarto grado, en agravio de persona impúber se impondrá de cuatro a diez años de prisión y de cien a quinientos días multa.
 
@@ -3009,7 +3027,7 @@ A quien fuera de una contienda de obra o palabra y con ánimo de ofender, ejecut
 
 Al que públicamente y fuera de riña diere a otro un golpe que no cause lesión con intención de ofenderlo, se le impondrán de tres a seis meses de prisión o de treinta a sesenta días multa.
 
-> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 277.
 
@@ -3139,7 +3157,7 @@ Se comprende dentro de la denominación de casa habitación, el aposento, cualqu
 
 III. Cuando se cometa en el interior de casa habitación y se utilice en su ejecución la violencia, se impondrán de diez a quince años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa;
 
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DEL 2004)</small>
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
 IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa;
 
@@ -3169,7 +3187,7 @@ XI. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, talle
 
 XII. Cuando el robo recaiga en expedientes o documentos de protocolo, oficina o archivos públicos o en documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, se impondrán de uno a cinco años de prisión. Si el delito lo comete el servidor público de la dependencia en que se encuentre el expediente o documento, se le impondrán además destitución definitiva e inhabilitación hasta por veinte años para desempeñar otro empleo, cargo o comisión públicos;
 
-XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros;
+XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros.
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
@@ -3233,19 +3251,19 @@ En todo caso de robo, el juez podrá suspender al inculpado, de un mes a seis a�
 
 El delito de robo es perseguible por querella del ofendido en los siguientes casos:
 
-> <small>(REFORMADA, G.G. 1 DE ABRIL DEL 2004)</small>
+> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
 
 I. El robo a que se refieren los artículos 288 fracciones I, II y III y 291, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V y VI del artículo 290;
 
-> <small>(REFORMADA, G.G. 1 DE ABRIL DEL 2004)</small>
+> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
 
 II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V y VI de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad judicial, en su caso;
 
-> <small>(REFORMADA, G.G. 1 DE ABRIL DEL 2004)</small>
+> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
 
 III. Cuando se cometa por el suegro contra el yerno o nuera o viceversa, por el padrastro o madrastra contra su hijastro o hijastra o viceversa o por parientes consanguíneos hasta el cuarto grado;
 
-> <small>(ADICIONADA, G.G. 1 DE ABRIL DEL 2004)</small>
+> <small>(ADICIONADA, G.G. 1 DE ABRIL DE 2004)</small>
 
 IV. Respecto a la persona que intervenga en el robo cometido por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa y por el adoptante contra el adoptado o viceversa y sea ajeno a ellos.
 
@@ -3284,6 +3302,10 @@ II. Alterar, eliminar las marcas de animales vivos o pieles, contramarcar o cont
 III. Marcar o señalar animales ajenos, aunque sea en campo propio; y
 
 IV. Expedir certificados falsos para obtener guías simulando ventas o hacer conducir animales que no sean de su propiedad, sin estar debidamente autorizado para ello o hacer uso de certificados o guías falsificados, para cualquier negociación sobre ganado o pieles.
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+V. Extraer sin consentimiento de quien legalmente pueda realizarlo, los dispositivos electrónicos de identificación del ganado, así como duplicar, alterar o modificar los componentes de dichos dispositivos.
 
 Al que cometa cualquiera de las conductas señaladas en las fracciones anteriores se le impondrán de uno a ocho años de prisión y de treinta a doscientos días multa.
 
@@ -3434,6 +3456,18 @@ Si al realizarse el despojo se cometen otros delitos, aún sin la participación
 ###### Artículo 309.
 
 Comete este delito el que por cualquier medio dañe, destruya o deteriore un bien ajeno o propio en perjuicio de otro.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+El Ministerio Público se abstendrá de ejercer acción penal tratándose de daño en bienes muebles o inmuebles de propiedad privada, causado por accidentes ocasionados con motivo del tránsito de vehículos. En estos casos, la autoridad que conozca de los hechos remitirá el asunto a la instancia conciliadora establecida en la Ley Orgánica Municipal del Estado de México, siempre y cuando el conductor que ocasione el hecho de tránsito no se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+Si como resultado de un accidente de tránsito se ocasionan daños en bienes de la administración pública municipal o estatal, el Ministerio Público podrá aplicar los criterios de oportunidad en términos de lo dispuesto por el Código de Procedimientos Penales para el Estado de México.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+Las diligencias practicadas por la autoridad que conozca de los hechos en primer orden, serán turnadas a la autoridad que le corresponda, para que siga conociendo de los hechos.
 
 ###### Artículo 310.
 
@@ -4000,3 +4034,27 @@ G.G. 3 DE NOVIEMBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 1 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 232, POR EL QUE SE REFORMAN LOS ARTICULOS 62; 97 EN SUS PARRAFOS PRIMERO Y SEGUNDO. SE ADICIONAN UN CUARTO PARRAFO AL ARTICULO 97; LOS PARRAFOS TERCERO, CUARTO Y QUINTO AL ARTICULO 237 Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTICULO 309 DEL CODIGO PENAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los procesos penales por delitos respecto de los cuales el presente Decreto establece que el Ministerio Público se abstendrá de ejercer la acción penal, serán sobreseídos conforme a las disposiciones aplicables, sin perjuicio de que las partes hagan valer sus derechos a través de los Oficiales Mediadores-Conciliadores de los Municipios, o en la vía civil.
+
+CUARTO.- Los ayuntamientos de los municipios del Estado de México, harán las adecuaciones correspondientes a la reglamentación aplicable y emitirán las medidas necesarias, para garantizar el cumplimiento de este Decreto, en un plazo no mayor a un año, contando a partir de la fecha de su entrada en vigor.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+SEXTO.- El titular del Poder Ejecutivo del Estado de México realizará las adecuaciones que resulten pertinentes al Reglamento de Tránsito del Estado de México, conforme a las disposiciones del presente Decreto.
+
+G.G. 1 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 233, POR EL QUE SE ADICIONA LA FRACCION V AL ARTICULO 299 DEL CODIGO PENAL DEL ESTADO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
