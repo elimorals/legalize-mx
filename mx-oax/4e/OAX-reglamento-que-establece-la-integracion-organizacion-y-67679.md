@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-que-establece-la-integracion-organizacion-y-67679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-21"
-last_updated: "2009-02-21"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "OAX"
 
 REGLAMENTO QUE ESTABLECE LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LA UNIDAD DE ENLACE Y COMITE INTERNO DE INFORMACIÓN DE LA SECRETARÍA DE LA CONTRALORÍA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2010, LA DENOMINACIÓN SECRETARÍA DE LA CONTRALORÍA SE MODIFICA POR SECRETARÍA DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 21 de febrero de 2009.
 
-REGLAMENTO QUE ESTABLECE LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LA UNIDAD DE ENLACE Y COMITÉ INTERNO DE INFORMACIÓN DE LA SECRETARÍA DE LA CONTRALORÍA.
+REGLAMENTO QUE ESTABLECE LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LA UNIDAD DE ENLACE Y COMITE INTERNO DE INFORMACIÓN DE LA SECRETARÍA DE LA CONTRALORÍA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -45,9 +47,9 @@ Para los efectos de este Reglamento, se entenderá por:
 
 I. Áreas Administrativas. Las que se hacen referencia en el artículo 2 del Reglamento Interno de la Contraloría General del Poder Ejecutivo;
 
-II. Clasificación. Acto por el cual se determina qué información en poder de la Secretaría de la Contraloría es pública, reservada o confidencial;
+II. Clasificación. Acto por el cual se determina qué información en poder de la Secretaría de la Contraloría y Transparencia Gubernamental es pública, reservada o confidencial;
 
-III. Comité. El Comité Interno de la Secretaría de la Contraloría;
+III. Comité. El Comité Interno de la Secretaría de la Contraloría y Transparencia Gubernamental;
 
 IV. Datos Personales. Información numérica, alfabética, gráfica, fotográfica, acústica o de otro tipo, concerniente a una persona física identificada o identificable, que por su naturaleza íntima o confidencial revelan origen racial y étnico, opiniones políticas, convicciones religiosas, filosóficas o morales, afiliación sindical e información referente a los estados de salud físico y mental, las preferencias sexuales u otras análogas que afecten su intimidad;
 
@@ -55,7 +57,7 @@ V. Desclasificación. Acto por el cual se determina la publicidad de informació
 
 VI. Días Hábiles. Todos los días del año, con exclusión de los sábados, domingos, el 1o. de enero; 5 de febrero; 21 de marzo; 1o. de mayo; 5 de mayo; 16 de septiembre; 20 de noviembre; y el 25 de diciembre, así como los días en que se suspendan las labores en la Secretaría;
 
-VII. Estructura Orgánica. La integran todas los Áreas Administrativas de la Secretaría de la Contraloría, cuyas funciones reflejan las atribuciones conferidas en la Ley Orgánica del Poder Ejecutivo Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y Reglamento Interior de la Contraloría General del Poder Ejecutivo;
+VII. Estructura Orgánica. La integran todas los Áreas Administrativas de la Secretaría de la Contraloría y Transparencia Gubernamental, cuyas funciones reflejan las atribuciones conferidas en la Ley Orgánica del Poder Ejecutivo Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y Reglamento Interior de la Contraloría General del Poder Ejecutivo;
 
 VIII. Instituto. Instituto Estatal de Acceso a la Información Pública;
 
@@ -67,7 +69,7 @@ XI. Ley de Datos Personales. Ley de Protección de Datos Personales del Estado d
 
 XII. Lineamientos. Lineamientos para la Regulación Interna de los Sujetos Obligados por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, en relación con el Establecimiento y Operación de sus Comités de Información y Unidades de Enlace, Lineamientos Generales para la Clasificación y Desclasificación de la Información en posesión de los Sujetos Obligados por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, Lineamientos que deberán observar los Sujetos Obligados o la Ley de Transparencia de Acceso a la Información Pública para el Estado de Oaxaca en Materia de Información Pública de Oficio; páginas electrónicas y Acceso a la Información, con exclusión de las Solicitudes de Acceso a Datos Personales y su corrección, Lineamientos para la Integración y Elaboración del Informe Anual del Instituto Estatal de Acceso a la Información Pública al H. Congreso del Estado de Oaxaca y Lineamientos de Protección de Datos Personales;
 
-XIII. Reglamento. Reglamento que establece la Integración, Organización y Funcionamiento de la Unidad de Enlace y Comité Interno de Información de la Secretaría de la Contraloría;
+XIII. Reglamento. Reglamento que establece la Integración, Organización y Funcionamiento de la Unidad de Enlace y Comité Interno de Información de la Secretaría de la Contraloría y Transparencia Gubernamental;
 
 XIV. Reglamento Interno. Reglamento Interno de la Contraloría General del Poder Ejecutivo del Estado;
 
@@ -75,7 +77,7 @@ XV. Reglamento Interior del Instituto. Reglamento Interior del Recurso de Revisi
 
 XVI. Solicitante. Toda persona física o moral que requiera información de la Secretaría;
 
-XVII. Secretaría. Secretaría de la Contraloría;
+XVII. Secretaría. Secretaría de la Contraloría y Transparencia Gubernamental;
 
 XVIII. Unidad de la (sic) Enlace. La Unidad de Enlace de la Secretaría.
 
@@ -129,7 +131,7 @@ Los plazos a que se refiere el reglamento se computarán por días hábiles.
 
 ### Capitulo Segundo
 
-Del Comité Interno de la Secretaría de la Contraloría.
+Del Comité Interno de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
 ###### Artículo 8.
 
@@ -513,7 +515,7 @@ SEGUNDO- El Comité de la Secretaría resolverá cualquier asunto, planteamiento
 
 TERCERO.- El Sistema Electrónico con que cuenta la Secretaría es el www.contraloria-oaxaca.gob.mx para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información.
 
-CUARTO.- Lo relativo a la Protección de Datos Personales, Clasificación y Desclasificación de la información reservada, la organización y funcionamiento de los archivos de la Secretaría de la Contraloría, que no contemple este Reglamento, se complementará conforme a lo establecido en la Ley de Datos Personales, Ley de Archivos y Lineamientos emitidos por el Instituto.
+CUARTO.- Lo relativo a la Protección de Datos Personales, Clasificación y Desclasificación de la información reservada, la organización y funcionamiento de los archivos de la Secretaría de la Contraloría y Transparencia Gubernamental, que no contemple este Reglamento, se complementará conforme a lo establecido en la Ley de Datos Personales, Ley de Archivos y Lineamientos emitidos por el Instituto.
 
 QUINTO.- En materia de notificaciones y términos, no contemplados en este Reglamento, es aplicable supletoriamente las disposiciones del Código de Procedimientos Civiles vigente en el Estado.
 
@@ -560,3 +562,37 @@ RESPONSABLE INFORMATICO
 LIC. JAIME LAGUNAS PIÑON
 
 JEFE DE LA UNIDAD DE POLÍTICA INFORMÁTICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2010.
+
+PRIMERO.- La presente ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+TERCERO.- En todos los casos en que por la aplicación de esta ley se modifique la estructura orgánica de la dependencia de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables.
+
+CUARTO.- Cuando una unidad administrativa se transfiera de una dependencia a otra, se hará incluyendo los recursos humanos, financieros y materiales que venía utilizando para la atención de los asuntos a su cargo, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, la Secretaría de Administración y la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+QUINTO.- Se faculta a la Secretaría de Finanzas y a la de Administración, en el ámbito de sus respectivas facultades, para realizar las adecuaciones programáticas y presupuestales que deriven de las modificaciones a esta Ley.
+
+SEXTO.- Cuando en diversas disposiciones legales, se haga referencia a:
+
+La Coordinación General de Delegaciones de Gobierno, se entenderá que se refiere a la Coordinación General de Módulos de Desarrollo Sustentable;
+
+La Coordinación General del Comité de Planeación para el Desarrollo de Oaxaca, se entenderá que se refiere a la Secretaría de Finanzas, en lo que corresponde a las atribuciones en materia de planeación, programación y presupuestación; y se entenderá que se refiere a la Coordinación de Módulos de Desarrollo Sustentable en lo que respecta a las atribuciones de Desarrollo Social;
+
+La Secretaría de Obras Públicas, se entenderá que se refiere a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+
+La Secretaría de Cultura, se entenderá que se refiere a la Secretaría de las Culturas y Artes de Oaxaca;
+
+La Secretaría de Turismo y la Secretaría de Economía, se entenderá que se refieren a la Secretaría de Turismo y Desarrollo Económico;
+
+La Secretaría de Desarrollo Rural, se entenderá que se refiere a la Secretaría de Desarrollo Agropecuario, Forestal y Pesca.
+
+La Secretaría de la Contraloría, se entenderá que se refiere a la Secretaría de la Contraloría y Transparencia Gubernamental;
+
+El mismo criterio se aplicará para los titulares de dichas dependencias. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
+
+SÉPTIMO.- El Congreso del Estado contará con un término de noventa días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento de la presente ley.
