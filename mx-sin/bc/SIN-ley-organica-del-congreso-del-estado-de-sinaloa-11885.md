@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2008-11-05"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -95,35 +95,59 @@ El análisis de este informe se realizará por el Congreso del Estado, con obser
 
 PRIMERA. Informe del Ejecutivo, en su caso, la ampliación de información y la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales.
 
-a) La Gran Comisión, al siguiente día hábil en que se reciba por el Congreso el informe del Ejecutivo, lo remitirá por escrito a Comisiones con el señalamiento expreso para que, en un término de quince días, envíen a la Comisión de Concertación Política sus observaciones y, en su caso, las preguntas que se requieran para ampliar la información.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
-b) La Gran Comisión, si las Comisiones lo solicitan por escrito, podrá ampliar el plazo anterior, haciéndolo del conocimiento de la Comisión de Concertación Política.
+a) La Junta de Coordinación Política, al siguiente día hábil en que se reciba por el Congreso el informe del Ejecutivo, lo remitirá por escrito a Comisiones con el señalamiento expreso para que, en un término de quince días hábiles, envíen sus observaciones y, en su caso, las preguntas que se requieran para ampliar la información.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+b) La Junta de Coordinación Política, si las Comisiones lo solicitan por escrito, podrá ampliar el plazo anterior, haciéndolo del conocimiento de la Mesa Directiva.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 Concluido el plazo, lo declarará cerrado.
 
-c) La Comisión de Concertación Política, una vez que la Gran Comisión haya declarado cerrado el período para recibir observaciones y preguntas para el Ejecutivo del Estado, en un término no mayor de cinco días, procederá a realizar una reunión con la finalidad de organizar y sistematizar las observaciones y preguntas.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
-d) La Comisión de Concertación Política, con los resultados de su reunión, acordará:
+c) Una vez que la Junta de Coordinación Política haya declarado cerrado el período para recibir observaciones y preguntas para el Ejecutivo del Estado, en un término no mayor de cinco días hábiles, procederá a realizar una reunión con la finalidad de organizar y sistematizar las observaciones y preguntas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+d) La Junta de Coordinación Política, con los resultados de su reunión, acordará:
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
 
 1. En su caso, el envío de preguntas al Ejecutivo para que amplíe la información o la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales, para que rindan informes sobre sus respectivas áreas, bajo protesta de decir verdad.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+
 2. El plazo para la respuesta del Ejecutivo y, en su caso, los términos para la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales.
 
-e) La Gran Comisión recibirá los acuerdos de la Comisión de Concertación Política y procederá de conformidad a ellos.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
-f) La Gran Comisión, recibida la información del Ejecutivo, o concluida la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales, remitirá los resultados a la Comisión de Concertación Política para los efectos que procedan.
+e) La Junta de Coordinación Política recibirá los acuerdos de las Comisiones y procederá de conformidad a ellos.
 
-g) La Comisión de Concertación Política, dentro de los quince días siguientes, celebrará reunión de trabajo con Comisiones Unidas, para la valoración del informe rendido y la ampliación de la información proporcionada por el Ejecutivo.
+f) (DEROGADO, P.O. 1 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+g) La Junta de Coordinación Política, dentro de los quince días hábiles siguientes, celebrará reunión de trabajo con Comisiones Unidas y la Mesa Directiva, para la valoración del informe rendido y la ampliación de la información proporcionada por el Ejecutivo.
 
 SEGUNDA: De la Sesión de trabajo de Comisiones Unidas.
 
-a) La Sesión se desarrollará de acuerdo al protocolo y a la práctica parlamentaria, concediéndose el uso de la palabra al Presidente de la Gran Comisión, para presentar las líneas generales de la valoración sobre el informe y las respuestas enviadas para ampliar la información.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+a) La Sesión se desarrollará de acuerdo al protocolo y a la práctica parlamentaria, concediéndose el uso de la palabra al Presidente de la Junta de Coordinación Política, para presentar las líneas generales de la valoración sobre el informe y las respuestas enviadas para ampliar la información.
 
 b) A continuación, y en el orden ascendente que resulta del número de integrantes en el Congreso, participará un Diputado por cada uno de los Grupos Parlamentarios.
 
-c) Finalmente, participarán los Diputados que, habiéndose inscrito, equitativamente autorice la Comisión de Concertación Política.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
-d) La Gran Comisión y la Comisión de Concertación Política del Congreso acordarán las medidas convenientes para la publicación de una memoria con los resultados del análisis del informe del Ejecutivo.
+c) Finalmente, participarán los Diputados que, habiéndose inscrito, equitativamente autorice la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+d) La Junta de Coordinación Política y la Mesa Directiva acordarán conjuntamente las medidas convenientes para la publicación de una memoria con los resultados del análisis del informe del Ejecutivo.
 
 ###### ARTICULO 10.
 
@@ -341,35 +365,97 @@ E).- El Presidente de la Cámara, pedirá a los Diputados ponerse de pie y dirá
 
 ### CAPITULO I. DE LA MESA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 36.
 
-La Mesa Directiva del Congreso se integrará con un Presidente, dos Vice-Presidentes, dos Secretarios y dos Pro-Secretarios, que serán electos por mayoría y en votación por cédula. Estos nombramientos se comunicarán a los demás Poderes del Estado.
+La Mesa Directiva se integrará con un Presidente, dos Vice-Presidentes, dos Secretarios y dos Pro-Secretarios, que serán electos por el voto nominal de las dos terceras partes del total de los diputados que integran la Legislatura.
+
+Para su integración se observará la composición plural del Congreso, pero no podrán formar parte de ella los coordinadores de los grupos parlamentarios.
+
+Los nombramientos se comunicarán a los Poderes Ejecutivo y Judicial del Estado, así como a todos los órganos legislativos federales y locales del país.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 37.
 
-Los integrantes de la Mesa Directiva durarán en su cargo un mes, pudiendo ser reelectos. Para su integración se observará la composición plural del Congreso.
+La Mesa Directiva durará en funciones un año, pudiendo ser reelecta.
+
+Ningún grupo parlamentario podrá presidir simultáneamente la Mesa Directiva y la Junta de Coordinación Política.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 38.
 
-Los integrantes de la Mesa Directiva de la Cámara serán electos en la última sesión de cada mes, y asumirán sus cargos en la sesión siguiente de aquélla en que hubieren sido designados; excepto los casos que por acuerdo de la Asamblea se disponga en otra forma.
+Los integrantes de la Mesa Directiva serán electos en la primera sesión del primer periodo ordinario de cada año de ejercicio de la Legislatura, y asumirán sus cargos de inmediato; excepto en los casos en que por acuerdo del Pleno se disponga de otra forma.
+
+La primera sesión del primer periodo ordinario de cada año será presidida por la Mesa Directiva saliente, hasta que la nueva Mesa Directiva sea electa y los nombrados tomen posesión de sus cargos.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 39.
 
-Cuando se hubiere convocado a Período Extraordinario de Sesiones del Congreso, en la primera sesión será electa la Mesa Directiva que funcionará en dicho período.
+Las sesiones que comprendan los periodos extraordinarios que se convoquen, serán presididas por la Mesa Directiva cuyo ejercicio anual esté en curso.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 40.
 
-Los integrantes de la Mesa Directiva sólo podrán ser removidos de sus cargos por causas graves que afecten las funciones legislativas.
+Los miembros de la Mesa Directiva sólo podrán ser removidos de sus cargos, con el voto nominal de las dos terceras partes del total de los diputados que integran la legislatura, cuando, a juicio del Pleno incurran en causas graves que afecten las funciones legislativas y en los siguientes casos:
+
+I.- Si transgreden en forma grave o reiterada las disposiciones de las Constituciones federal o local, o las de esta ley;
+
+II.- Si incumplen los acuerdos del Pleno;
+
+III.- Si dejan de asistir sin causa justificada, a tres o más sesiones del Congreso o al mismo número de reuniones de trabajo de la Mesa Directiva; y
+
+IV.- Si afectan con su actuación las atribuciones constitucionales y legales del Congreso o la imagen de éste.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 41.
 
-Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar la libertad de las deliberaciones, cuidar de la efectividad del trabajo legislativo y aplicar con imparcialidad las disposiciones de esta Ley, sus Reglamentos y los Acuerdos que apruebe el Congreso.
+Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, conducir las sesiones del Pleno preservando la libertad de las deliberaciones, cuidar de la efectividad del trabajo legislativo y aplicar con imparcialidad las disposiciones de esta Ley, sus Reglamentos y los Acuerdos que apruebe el Congreso.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 41 Bis.
+
+La Mesa Directiva funcionará como órgano colegiado, bajo la coordinación de su Presidente; adoptará sus decisiones por consenso y, en caso de no lograrse el mismo, mediante mayoría resultante del voto ponderado de sus integrantes, en el cual el Diputado que esté facultado para ello, representará tantos votos como integrantes tenga su Grupo Parlamentario.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 41 Bis A.- A las reuniones de trabajo de la Mesa Directiva concurrirá el Secretario General del Congreso, con voz pero sin voto, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 41 Bis B.- La Mesa Directiva observará en su actuación los principios de imparcialidad y objetividad y tendrá las siguientes atribuciones:
+
+I.- Asegurar el adecuado desarrollo de las sesiones del Pleno del Congreso;
+
+II.- Resolver las dudas que se presenten respecto de la interpretación de esta ley y de los demás ordenamientos relativos a la actividad parlamentaria;
+
+III.- Emitir el acuerdo de clasificación de la información reservada y confidencial del Poder Legislativo, de conformidad con la Ley de Acceso a la Información Pública del Estado;
+
+IV.- Formular y desahogar el orden del día de las sesiones, con apego al programa que formule conjuntamente con la Junta de Coordinación Política;
+
+V.- Cuidar que los dictámenes, propuestas, mociones, comunicados y demás escritos cumplan con las normas que regulan su formulación y presentación;
+
+VI.- Determinar y ordenar la aplicación de las sanciones derivadas de las conductas que atenten contra la disciplina parlamentaria;
+
+VII.- Designar las comisiones de atención ciudadana y de cortesía parlamentaria que se requieran, cuidando siempre su integración plural; y
+
+VIII.- Desarrollar durante el último año de ejercicio, el proceso de entrega recepción previsto en la ley de la materia;
+
+IX.- Las demás que le confiera esta ley, los reglamentos y los acuerdos parlamentarios del Congreso.
 
 ### CAPITULO II. DE LA PRESIDENCIA Y LAS VICE-PRESIDENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 42.
 
-Son atribuciones de la Presidencia:
+El Presidente de la Mesa Directiva tendrá la representación legal del Congreso, pudiendo delegarla en la persona o personas que considere conveniente; y tendrá las siguientes atribuciones:
 
 I.- Abrir, prorrogar, suspender y clausurar las sesiones;
 
@@ -405,9 +491,31 @@ XVI.- Llamar, en los casos en que se requiera, a los Diputados suplentes;
 
 XVII.- Firmar la correspondencia y demás comunicaciones de la Cámara que así se estime necesario;
 
-XVIII.- Tomar las protestas de Ley a los funcionarios que la deban rendir; y
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
-XIX.- Las demás que se deriven de esta Ley y de las disposiciones o Acuerdos que emita la Cámara.
+XVIII.- Designar de entre los Diputados a quien deba representar al Congreso, en los actos a los que el Presidente no pudiera asistir;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Representar al Congreso ante los Poderes Federal y Estatal, los de las Entidades Federativas, ante los Municipios y ante las organizaciones e instituciones de la sociedad, así como ante particulares;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+XX.- Representar al Congreso en juicio y fuera de él, con todas las facultades generales para pleitos y cobranzas y las especiales que requieran cláusula especial conforme a la ley, en términos de lo dispuesto en el primer párrafo del artículo 2,436 y en el artículo 2,469 del Código Civil para el Estado de Sinaloa y sus correlativos en todo el país.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Representar al Congreso en la celebración y firma de convenios y contratos, aun en aquellos que impliquen el ejercicio de facultades para actos de administración y de dominio, en términos de lo dispuesto en los párrafos segundo y tercero del artículo 2,436 del Código Civil para el Estado de Sinaloa.
+
+Tratándose de actos de dominio, deberá recabar previamente el consentimiento del Pleno; y los convenios o contratos deberán ser suscritos conjuntamente por el Presidente de la Mesa Directiva y uno de los secretarios de la misma que integre un grupo parlamentario distinto al del Presidente, preferentemente aquél que tenga mayor porcentaje de representación en la Cámara.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+XXII.- Tomar la protesta de Ley a los funcionarios que la deban rendir; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+XXIII.- Las demás que se deriven de esta Ley y de las disposiciones o Acuerdos que emita la Cámara.
 
 ###### ARTICULO 43.
 
@@ -499,105 +607,155 @@ Examinada por el Presidente la documentación, en sesión ordinaria de la Cámar
 
 De acuerdo con las posibilidades y el presupuesto de la propia Cámara, los Grupos Parlamentarios dispondrán de locales adecuados en las instalaciones de la Cámara así como de los asesores, personal y los elementos necesarios para el cumplimiento de sus funciones.
 
-### CAPITULO V. DE LA GRAN COMISION
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO V. DE LA JUNTA DE COORDINACION POLITICA
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 55.
 
-El Congreso del Estado contará con una Gran Comisión, la que será el órgano conductor y coordinador del trabajo legislativo, así como desarrollar las funciones de gobierno y representación permanente del Congreso, durante el ejercicio de cada Legislatura.
+El Congreso del Estado contará con una Junta de Coordinación Política, la que será el órgano conductor y coordinador del trabajo legislativo, durante el ejercicio de cada Legislatura.
+
+Estará integrada por los Coordinadores de cada uno de los Grupos Parlamentarios, quienes tendrán voz y voto. El Presidente de la Mesa Directiva, los diputados que no integren grupo parlamentario y el Secretario General, asistirán con voz, pero sin voto.
+
+La Junta de Coordinación Política es la expresión de la pluralidad del Congreso, por lo que funcionará en forma colegiada para impulsar entendimientos y convergencias entre los grupos parlamentarios y los diputados que no integren grupo, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 55 Bis.
+
+Los integrantes de la Junta de Coordinación Política podrán ser sustituidos temporal o definitivamente, de conformidad con las reglas internas de cada grupo parlamentario, mismas que deberán apegarse a sus respectivos estatutos.
+
+En caso de ausencia temporal o definitiva del Presidente de la Junta de Coordinación Política, ésta será cubierta por el Diputado que su mismo Grupo Parlamentario designe como nuevo Coordinador.
+
+Hecha la designación, el grupo parlamentario deberá comunicarlo de inmediato al resto de los integrantes de la Junta de Coordinación Política, así como a la Mesa Directiva por conducto de su Presidente.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 56.
 
-En la segunda sesión del Primer Período Ordinario de sesiones del primer año y para todo el ejercicio constitucional, se elegirá, en votación nominal y por mayoría absoluta de votos, a la Gran Comisión.
+La Junta de Coordinación Política deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre el Congreso al inicio de la Legislatura, sesionará por lo menos una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos del Pleno.
+
+Adoptará las decisiones mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su grupo parlamentario.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 57.
 
-La Gran Comisión estará formada por cinco Diputados, de los cuales, el primeramente nombrado será el Presidente, el segundo tendrá las funciones de secretario, y los tres miembros restantes serán Vocales.
+La presidencia de la Junta de Coordinación Política será ejercida conforme a los siguientes supuestos:
+
+I. El Coordinador del Grupo Parlamentario cuyo partido político cuente por sí mismo con la mayoría absoluta de los integrantes del Congreso, presidirá la Junta de Coordinación Política durante los tres años de ejercicio constitucional de la Legislatura.
+
+Se entiende por mayoría absoluta, la mitad más uno del total de los diputados que integran el Congreso.
+
+II. En el caso de que ningún Grupo Parlamentario se encuentre en el supuesto previsto en la fracción I de este artículo, la presidencia de la Junta de Coordinación Política será rotativa con duración anual, bajo las siguientes bases:
+
+1.- Presidirá la Junta durante el primer año de ejercicio constitucional de la Legislatura, el Coordinador del grupo parlamentario que cuente con la primera minoría, entendiéndose por esta al grupo parlamentario que tenga el mayor número de integrantes.
+
+2.- El segundo y el tercer año de ejercicio de la Legislatura, la presidencia de la Junta de Coordinación Política será ejercida sucesivamente por los coordinadores de los grupos parlamentarios, que constituyan la segunda y la tercera minoría, respectivamente, siempre y cuando su representación en el Congreso alcance un porcentaje mínimo del 25% por ciento del total de integrantes de la Legislatura.
+
+En caso de que ninguno de los grupos parlamentarios que sean segunda y tercera minoría alcancen el 25% de la representación, o si solo uno de ellos posee dicho porcentaje de representación, durante los ejercicios anuales restantes volverá a presidir la Junta de Coordinación Política el grupo que obtuvo la primera minoría.
+
+El referente para el cálculo del porcentaje a que se refiere esta fracción, será el número de diputados registrados como integrantes por cada grupo parlamentario al instalarse la Legislatura.
+
+III. Si ningún grupo parlamentario alcanza el porcentaje mínimo a que se refiere el numeral 2 de la fracción II que antecede; o bien cuando dos o más grupos parlamentarios tengan el mismo número de integrantes, para elegir al Presidente se tomará como base el porcentaje de votación electoral que haya obtenido cada partido político en los comicios respectivos.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 58.
 
-La Gran Comisión tendrá las siguientes atribuciones:
+La Junta de Coordinación Política tendrá las siguientes atribuciones:
 
-I.- Dirigir y vigilar los servicios internos necesarios para el eficaz cumplimiento de las funciones de la Cámara;
+I. Ejercer el gobierno interior del Congreso;
 
-II.- Proponer a la Cámara, en su caso, el programa legislativo a ejercer durante cada período de sesiones, jerarquizando las iniciativas de Ley o Decreto;
+II. Conducir las relaciones políticas con los otros dos Poderes del Estado, los ayuntamientos de la entidad, los Poderes de la Federación o de otros Estados y demás organismos y entidades públicas, nacionales e internacionales;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+III. Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas, iniciativas o dictámenes que requieran de votación en el Pleno o en la Diputación Permanente, a fin de agilizar el trabajo legislativo;
 
-III.- Impulsar la profesionalización de los servicios de apoyo parlamentario a través del servicio civil de carrera y del Instituto de Investigaciones Parlamentarias, determinando las políticas generales para ello y proponiendo al pleno los proyectos de los reglamentos respectivos.
+IV. Establecer el programa legislativo de los periodos de sesiones, el calendario para su desahogo, la integración básica de (sic) del orden del día de cada sesión, así como las formas que seguirán los debates, discusiones y deliberaciones, todo ello en coordinación con la Mesa Directiva;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+V. Presentar a la Mesa Directiva, a la Diputación Permanente y al Pleno, proyectos de puntos de acuerdo, pronunciamientos y declaraciones que entrañen una posición política del Congreso;
 
-IV.- Conducir, coordinar, controlar y evaluar las funciones de la Secretaría General, y proponer a la Cámara la designación del Secretario General.
+VI. Proponer al Pleno la integración de las comisiones permanentes y especiales, con el señalamiento de los cargos que ocupará cada uno de sus integrantes;
 
-V.- Coadyuvar en la realización de las funciones del Congreso;
+VII. Presentar al Pleno, para su aprobación, el proyecto de presupuesto anual del Congreso;
 
-VI.- Acordar el nombramiento de los integrantes de las Comisiones Permanentes;
+VIII. Presentar al Pleno durante el mes de enero, un informe anual sobre el ejercicio presupuestal, excepto en el tercer año de ejercicio constitucional que lo hará durante el mes de noviembre ante el Pleno o la Diputación Permanente.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+El informe deberá precisar:
 
-VII.- Proveer a través de la Secretaría General lo necesario para el trabajo de las Comisiones;
+1.- La dieta mensual de los diputados, la reducción de los correspondientes impuestos, el saldo neto a cubrir en el mes, la parte proporcional de aguinaldo y el pago de su prima vacacional.
 
-VIII.- Proponer el presupuesto anual del Congreso;
+2.- El monto mensual para viáticos, alimentos, y hospedaje, con la identificación personal de los diputados;
 
-IX.- Proponer en el Presupuesto del Congreso, el monto de las dietas para los ciudadanos Diputados en los términos de la Constitución Política del Estado; y,
+3.- El monto mensual que reciben los grupos parlamentarios para el cumplimiento de sus fines en el Congreso y su destino;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+4.- La identificación personalizada de todo el personal del Congreso, así como su salario y la deducción de los impuestos que corresponda;
 
-X.- Presentar al Pleno durante el mes de enero informe anual sobre el ejercicio presupuestal, excepto en el tercer año de ejercicio constitucional que lo hará durante el mes de noviembre ante el Pleno o la Diputación Permanente; y
+5.- La identificación de los proveedores del Congreso, así como el monto de sus pagos y la descripción de los materiales proveídos; y
 
-XI.- Las demás que le confiere esta Ley o acuerde la Cámara.
+6.- En general, todo detalle que precise la aplicación del presupuesto ejercido por el Congreso, durante el ejercicio que se informe.
+
+El informe solo podrá ser aprobado con el voto de las dos terceras partes de los integrantes de la Legislatura; y una vez aprobado se publicará en la página electrónica del Congreso.
+
+La Junta de Coordinación Política vigilará que la información presupuestal a que se refieren los numerales anteriores sea actualizada mensualmente.
+
+IX. Dirigir y vigilar la prestación de los servicios internos necesarios para el eficaz cumplimiento de las funciones del Congreso;
+
+X.- Conducir, coordinar, controlar y evaluar las funciones de la Secretaría General;
+
+XI. Proponer al Pleno de la Cámara la designación del Secretario General y de los titulares de las Direcciones de su dependencia, así como del Director del Instituto de Investigaciones Legislativas y de los responsables de las Unidades de Estudios Económicos y Financieros, de Acceso a la Información Pública y de Sistemas y Cómputo, atendiendo a lo dispuesto por esta Ley sobre el servicio civil de carrera; los que solo podrán ser removidos con la misma votación requerida para su nombramiento:
+
+XII. Impulsar la profesionalización de los servicios de apoyo parlamentario a través del servicio civil de carrera y del Instituto de Investigaciones Parlamentarias, determinando las políticas generales para ello y proponiendo al pleno los proyectos de los reglamentos respectivos;
+
+XIII. Asignar en los términos de esta ley, los recursos humanos, materiales y financieros, así como los espacios físicos que correspondan a los grupos parlamentarios;
+
+XIV. Determinar el número de asesores que resulten necesarios para los trabajos de las Comisiones, así como proveerlas con los recursos humanos y materiales para el debido desarrollo de sus funciones.
+
+Los asesores o especialistas que se contraten, deberán contar con experiencia profesional en la o las materias que corresponden a la comisión de su adscripción;
+
+XV. Las demás que se deriven de esta Ley y de sus ordenamientos relativos.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 59.
 
-El Presidente de la Gran Comisión tendrá las siguientes atribuciones:
+El Presidente de la Junta de Coordinación Política tendrá las siguientes atribuciones;
 
-I.- Realizar las acciones que sean necesarias para que se dé cumplimiento a las funciones de la Gran Comisión;
+I. Convocar y conducir las reuniones de trabajo que celebre la Junta de Coordinación Política;
 
-II.- Citar a los miembros de la Gran Comisión a las sesiones ordinarias o extraordinarias;
+II. Velar por el cumplimiento de las decisiones y acuerdos que se adopten;
 
-III.- Presidir y conducir los debates y las deliberaciones de las sesiones de la Gran Comisión;
+III. Poner a consideración de la Junta los criterios para la elaboración del programa legislativo de cada periodo de sesiones, el calendario para su desahogo y las órdenes del día de las sesiones del Pleno;
 
-IV.- Establecer el orden del día de las sesiones de la Gran Comisión;
+IV. Disponer la elaboración de los anteproyectos anuales de presupuesto y de informe de ejercicio presupuestal; y
 
-V.- Ejecutar los Acuerdos que tome la Gran Comisión en sus sesiones;
-
-VI.- Coordinar las relaciones con los poderes públicos, atendiendo las disposiciones legales y las indicaciones que reciba del Congreso o de la Gran Comisión;
-
-VII.- Representar al Congreso en todos los actos y ceremonias oficiales;
-
-VIII.- Representar al Congreso en la firma de convenios y contratos;
-
-IX.- Representar al Congreso en juicio y fuera de él; y
-
-X.- Las demás que se deriven de esta Ley y de las disposiciones o Acuerdos que emita la Cámara.
+V. Las demás que se deriven de esta Ley, de las disposiciones o Acuerdos de la Cámara, o las que le sean conferidas por la propia Junta de Coordinación Política.
 
 ###### ARTICULO 60.
 
-El secretario de la Gran Comisión deberá de levantar las actas de las sesiones y llevar la documentación y archivo que correspondan para la buena marcha de los asuntos de que conozca.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 61.
 
 El secretario suplirá las faltas del Presidente y cuando ello no sea posible, la sustitución la hará el vocal que primeramente haya sido nombrado. Las faltas del secretario serán cubiertas por el vocal que primeramente haya sido nombrado y así sucesivamente por los demás Vocales.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 62.
 
-Antes de que concluya el tercer año de ejercicio constitucional de cada Legislatura, la Gran Comisión elaborará un informe sobre el trabajo de la Legislatura, en el cual se relacionarán los asuntos que quedaron pendientes.
+Antes de que concluya el tercer año de ejercicio constitucional de cada Legislatura, la Junta de Coordinación Política elaborará un informe sobre el trabajo de la Legislatura, en el cual se relacionarán los asuntos que quedaron pendientes.
 
-Dicho informe se entregará al Presidente de la Mesa Directiva de la nueva Legislatura, para que en su oportunidad lo turne al Presidente de la Gran Comisión de dicha Legislatura.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+Dicho informe se entregará al Presidente de la Mesa Directiva de la nueva Legislatura, para que en su oportunidad lo turne al Presidente de la Junta de Coordinación Política de la misma.
 
 ###### ARTICULO 63.
 
-La Gran Comisión tendrá sesiones ordinarias, por lo menos una vez al mes y extraordinarias cuando el Presidente de la Comisión lo juzgue pertinente.
-
-La Gran Comisión dispondrá de un local adecuado en las instalaciones del Congreso y contará con los recursos humanos y materiales que sean necesarios para el desempeño de sus funciones, con arreglo a lo que determine el presupuesto.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 64.
 
-Cuando el Presidente de la Gran Comisión lo sea también de la Mesa Directiva podrá realizar sus funciones indistintamente.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2010)
 
 ### CAPITULO VI. DE LAS COMISIONES
 
@@ -671,17 +829,19 @@ XXVI. De Justicia; e
 
 XXVII. Instructora.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 68.
 
-Las Comisiones Permanentes serán nombradas por el Pleno, en su conjunto en votación nominal, a propuesta de la Gran Comisión, en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
+Las Comisiones Permanentes serán nombradas por el Pleno en votación nominal, a propuesta de la Junta de Coordinación Política, en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
 
-La Gran Comisión como órgano conductor y coordinador del trabajo legislativo, podrá proponer al Pleno el cambio de alguno o varios de los integrantes de las Comisiones Permanentes cuando se justifique.
+La integración de las Comisiones Permanentes será plural y se ajustará en lo posible a la proporcionalidad que guardan los grupos parlamentarios en la composición de la Legislatura.
 
-Para los efectos del párrafo anterior, la Gran Comisión analizará en su seno las razones o motivos por los cuales estima procedente proponer al Pleno el cambio de integrantes de las Comisiones Permanentes.
+La Junta de Coordinación Política como órgano conductor y coordinador de trabajo legislativo, podrá proponer al Pleno el cambio de alguno o varios de los integrantes de las Comisiones Permanentes cuando se justifique.
 
-Las razones o motivos por los cuales se considera procedente el cambio de algún integrante de las Comisiones Permanentes se contendrán en la propuesta que dirigirá la Gran Comisión al Pleno.
+Para efectos del párrafo anterior, la Junta de Coordinación Política, analizará en su seno las razones o motivos por los cuales estima procedente proponer al Pleno el cambio de integrantes de las Comisiones Permanentes.
+
+Las razones o motivos por los cuales se considera procedente el cambio de algún integrante de las Comisiones Permanentes se contendrá en la propuesta que dirigirá la Junta de Coordinación Política al Pleno.
 
 El Pleno del Congreso del Estado, acordará por mayoría de los Diputados presentes, la propuesta del cambio de integrantes de las Comisiones Permanentes.
 
@@ -761,19 +921,9 @@ En ningún caso un Diputado podrá formar parte de más de cuatro Comisiones Per
 
 Las Comisiones de Puntos Constitucionales y Gobernación, de Hacienda Pública y Administración, y de Fiscalización, contarán para el desempeño de sus funciones con espacios adecuados y con los recursos humanos y materiales suficientes para el desarrollo profesional y eficiente de sus labores, de acuerdo con la disponibilidad presupuestal.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
 ###### ARTICULO 73.
 
-Habrá una Comisión de Concertación Política la cual se integrará por los Diputados Coordinadores de cada uno de los diversos Grupos Parlamentarios, más otro Diputado del grupo mayoritario en la Cámara y sus Acuerdos sólo se tomarán por consenso.
-
-Cuando un Grupo Parlamentario cambie de Coordinador, el designado se integrará a la Comisión de Concertación Política en sustitución del anterior.
-
-La Comisión de Concertación Política tendrá a su cargo las funciones tendientes a la realización de las acciones específicas que propicien el mejor desarrollo de las labores camarales, previo a los Acuerdos a que lleguen los Diputados integrantes de la misma Comisión, buscando siempre los puntos de consenso para hacer las propuestas que se requieran para el cumplimiento de sus funciones.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
-
-La Comisión de Concertación Política y la Gran Comisión, de conformidad con las bases establecidas en el artículo 9 de esta Ley, se coordinarán para realizar las acciones dirigidas al análisis del informe presentado por el Ejecutivo del Estado sobre el estado que guarda la Administración Pública.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 74.
 
@@ -989,9 +1139,9 @@ III.- Proveer lo conducente para el apoyo al trabajo parlamentario y la vinculac
 
 IV.- Supervisar y vigilar que se cumplan las políticas que se establezcan para la investigación legislativa y el servicio civil de carrera;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
-V.- Dar cumplimiento en el ámbito administrativo a los Acuerdos y Resoluciones tomados por el Pleno, la Gran Comisión, la Mesa Directiva y las Comisiones;
+V.- Dar cumplimiento en el ámbito administrativo a los Acuerdos (sic) Resoluciones tomados por el Pleno, la Junta de Coordinación Política, la Mesa Directiva y las Comisiones;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -1049,7 +1199,9 @@ Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentari
 
 De la Secretaría General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, de Gestión y Vinculación Social y las demás unidades y Departamentos que sean necesarios para el debido cumplimiento de sus atribuciones.
 
-El nombramiento del Secretario General y demás servidores públicos directivos del Congreso será hecho por la Cámara o la Diputación Permanente, en su caso, a propuesta de la Gran Comisión, atendiendo las bases del servicio civil de carrera.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+El nombramiento del Secretario General y demás servidores públicos directivos del Congreso será hecho por el Pleno o por la Diputación Permanente, en su caso, a propuesta de la Junta de Coordinación Política, atendiendo las bases del servicio civil de carrera.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -1065,11 +1217,11 @@ Todo el personal de la administración guardará durante las horas de trabajo la
 
 Para el mejor desempeño del Congreso todos los servidores públicos de éste, están obligados a prestar sus servicios indistintamente en las labores del Congreso conforme se requieran éstas, a juicio del Secretario General del Congreso. El personal de seguridad, los secretarios técnicos, los técnicos en sistemas, las secretarias y asistentes parlamentarios, así como todos los que desarrollen funciones de supervisión, serán personal de confianza.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 101.
 
-En todos los casos no previstos en este capítulo el Secretario General del Congreso, como jefe inmediato administrativo, ordenará lo que fuere más conveniente al buen despacho de la oficina, sujeto a los lineamientos y directrices definidas por la Gran Comisión.
+En todos los casos no previstos en este capítulo el Secretario General del Congreso, como jefe inmediato administrativo, ordenará lo que fuere más conveniente al buen despacho de la oficina, sujeto a los lineamientos y directrices definidas por la Junta de Coordinación Política.
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -1081,9 +1233,9 @@ El Congreso del Estado contará con un Instituto de Investigaciones Parlamentari
 
 I.- Realizar, promover y difundir investigaciones vinculadas con los temas relevantes del quehacer parlamentario;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
-II.- Proporcionar asesoría a las Comisiones Legislativas para apoyar sus dictámenes, las decisiones del Congreso, de la Diputación Permanente, de la Gran Comisión, de los Diputados, de la Secretaría General del Congreso y de la Auditoría Superior del Estado;
+II.- Proporcionar asesoría a las Comisiones Legislativas para apoyar sus dictámenes, las decisiones del Congreso, de la Diputación Permanente, de la Junta de Coordinación Política, de la Mesa Directiva, de los Diputados, de la Secretaría General del Congreso y de la Auditoría Superior del Estado;
 
 III.- Investigar los antecedentes históricos del Poder Legislativo, así como de las leyes, códigos, decretos y acuerdos vigentes en la entidad;
 
@@ -1099,7 +1251,9 @@ VIII.- Auxiliarse de la Biblioteca del Congreso del Estado, para obtener la info
 
 IX.- Organizar la impartición de cursos en técnica legislativa y Derecho Parlamentario, así como seminarios, congresos, coloquios, conferencias, y mesas redondas, relacionados con el trabajo parlamentario; y
 
-X.- Las demás que le asigne la Gran Comisión, la Secretaría General o el Congreso le confiera.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+X.- Las demás que le asigne el Pleno, la Diputación Permanente, la Junta de Coordinación Política o la Secretaría General.
 
 Al frente del Instituto habrá un Director y contará con las unidades y Departamentos que fije su Reglamento Interior conforme al cual se desarrollarán sus funciones.
 
@@ -1649,7 +1803,7 @@ La votación por cédula consiste en que por escrito se exprese el nombre de la 
 
 Las votaciones serán por cédula en los casos siguientes:
 
-I.- Las que tengan por objeto elegir a la Mesa Directiva del Congreso;
+I.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2010)
 
 II.- Las que tengan por objeto elegir al Gobernador del Estado en los términos del Artículo 43 fracción XIII de la Constitución Política del Estado;
 
@@ -1663,7 +1817,9 @@ VI.- Las que tengan por objeto designar a los miembros del Congreso que serán C
 
 VII.- Las que tengan por objeto designar a los Consejeros Ciudadanos del Consejo Estatal Electoral; y
 
-VIII.- En general, todas aquellas que se trate de nombrar o elegir personas.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
+VIII.- En general, todas aquellas que se trate de nombrar o elegir personas, salvo los casos para los que la presente Ley disponga una forma específica de votación.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
 
@@ -1769,6 +1925,8 @@ Toda Ley o Decreto será expedido bajo la firma del Presidente y Secretarios del
 
 ### CAPITULO IV. DE LA CONSULTA POPULAR
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 220.
 
 Toda persona sin excepción tiene el derecho de asistir a presenciar el desarrollo de las sesiones públicas del Congreso. La seguridad y el acceso del público al recinto legislativo, conforme a la capacidad del mismo, será garantizado por el personal administrativo del Congreso.
@@ -1807,7 +1965,7 @@ PERSONAS SUJETAS A SU JURISDICCION
 
 ###### ARTICULO 226.
 
-El Congreso por acuerdo de la mayoría de sus integrantes o de las Comisiones previo acuerdo, en este último caso, de la Gran Comisión podrán convocar a reuniones de audiencia para someter a consulta pública asuntos de su competencia.
+El Congreso por acuerdo de la mayoría de sus integrantes o de las Comisiones previo acuerdo, en este último caso, de la Junta de Coordinación Política, podrán convocar a reuniones de audiencia para someter a consulta pública asuntos de su competencia.
 
 ###### ARTICULO 227.
 
@@ -2078,3 +2236,9 @@ P.O. 5 DE NOVIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 La vigencia del presente Decreto iniciará al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente Decreto entrará en vigor en la misma fecha de su expedición, sin perjuicio de su posterior publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- En tanto se realizan las reformas correspondientes, las referencias a la Gran Comisión y a la Comisión de Concertación Política que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas, se entenderán hechas a la Mesa Directiva o a la Junta de Coordinación Política, según corresponda a las atribuciones de éstas.
