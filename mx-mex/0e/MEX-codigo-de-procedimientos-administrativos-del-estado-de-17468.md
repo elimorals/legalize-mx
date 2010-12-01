@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2010-11-09"
+last_updated: "2010-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1879,7 +1879,9 @@ Cuando ante una de las salas regionales se promueva juicio de la que otra deba c
 
 Si la sala regional requerida lo acepta, comunicará su resolución a la requirente y a las partes. En caso de no aceptarlo, hará saber su resolución a la sala requirente y a las partes y remitirá los autos a la sección de la sala superior, para que determine la sala regional que deba conocer del asunto, notificando su decisión a las partes y a las salas respectivas.
 
-Cuando una sala regional esté conociendo de algún juicio que sea de la competencia de otra, cualquiera de las partes podrá ocurrir a la sección de la sala superior, exhibiendo copia certificada de la demanda y de las constancias que estime pertinentes. La sección de la sala superior resolverá la cuestión de competencia y ordenará la remisión de los autos a la sala regional que corresponda.
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+Cuando una sala regional esté conociendo de algún juicio que sea de la competencia de otra, cualquiera de las partes podrá ocurrir a la sección de la sala superior, dentro de los ocho días siguientes a que tenga conocimiento del asunto, exhibiendo copia certificada de la demanda y de las constancias que estime pertinentes. La sección de la sala superior resolverá la cuestión de competencia y ordenará la remisión de los autos a la sala regional que corresponda.
 
 ###### Artículo 263.
 
@@ -2358,3 +2360,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 1 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
