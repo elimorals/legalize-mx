@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2009-07-02"
+last_updated: "2010-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1345,15 +1345,23 @@ En tratándose de personas de escasos recursos, dependientes económicos, jornal
 
 ### CAPITULO II. De Poder Judicial
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 56.
 
-El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en el Tribunal Electoral, en el Tribunal de lo Administrativo, en los juzgados de primera instancia, menores y de paz y jurados. Se compondrá además por un órgano denominado Consejo General del Poder Judicial del Estado.
+El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en el Tribunal Electoral, en el Tribunal de lo Administrativo, en los juzgados de primera instancia, menores y de paz y jurados. Se compondrá además por dos órganos, el Consejo de la Judicatura del Estado y el Instituto de Justicia Alternativa del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
 La representación del Poder Judicial recae en el Presidente del Supremo Tribunal de Justicia, el cual será electo, de entre sus miembros, por el pleno. El Presidente desempeñará su función por un período de dos años y podrá ser reelecto para el período inmediato.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+El Instituto de Justicia Alternativa del Estado es un órgano con autonomía técnica y administrativa encargado de proporcionar el servicio de justicia alternativa, a través de los métodos alternos de resolución de conflictos. El titular será designado por el Congreso del Estado, previa convocatoria a la sociedad en general con exclusión de los partidos políticos, mediante el voto de las dos terceras partes de los diputados presentes y de conformidad con la ley de la materia y deberá cumplir los mismos requisitos para ser magistrado del Supremo Tribunal de Justicia, durará en su encargo cuatro años, pudiendo ser reelecto para un periodo igual y sólo por una ocasión, en igualdad de circunstancias con los demás aspirantes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+El Instituto y las sedes regionales, a través de sus titulares, tendrán facultad para elevar a sentencia ejecutoriada los convenios que resuelvan los asuntos que se le presenten. La ley establecerá la competencia, atribuciones y estructura orgánica del Instituto.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2988,3 +2996,7 @@ SEGUNDO. Notifíquese a los municipios del estado de Jalisco sobre la propuesta 
 P.O. 2 DE JULIO DE 2009.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
