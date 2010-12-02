@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5353
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2009-05-21"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de diciembre de 2006.
 
@@ -289,9 +289,13 @@ No se podrán establecer compromisos por concepto de servicios personales, que n
 
 La acción para exigir el pago de las remuneraciones del personal en activo con cargo al Presupuesto de Egresos, prescribirá en un año contado a partir de la fecha en que sean devengadas o se tenga derecho a su percepción.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 30.
 
-Las remuneraciones de los servidores públicos del Poder Ejecutivo deberán apegarse estrictamente a los niveles, puestos y tabuladores de sueldos de Gobierno del Estado, o en su caso, a sus equivalentes. En el caso de los poderes Legislativo, y Judicial, así como los organismos autónomos, las cuotas, tarifas, asignaciones o cualquier tipo de prestaciones, deberán asignarse tomando en consideración criterios de austeridad y razonabilidad que establezcan sus órganos de autoridad.
+Las remuneraciones de los servidores públicos serán fijadas en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose para ello a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+En el caso de los servidores públicos de los poderes, Ejecutivo, Legislativo, y Judicial, administraciones paraestatales, fideicomisos públicos, instituciones, organismos autónomos y cualquier otro ente público, las remuneraciones deberán apegarse a los niveles, puestos y tabuladores elaborados de conformidad con lo que dispone la Ley Reglamentaria del artículo 133 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 ###### ARTICULO 31.
 
@@ -680,3 +684,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 21 DE MAYO DE 2009.
 
 UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
