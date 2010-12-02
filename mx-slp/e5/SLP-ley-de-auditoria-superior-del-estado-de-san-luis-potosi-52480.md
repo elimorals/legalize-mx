@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2010-07-20"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -99,9 +99,13 @@ A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria, 
 
 La Auditoría Superior del Estado es el órgano del Congreso, con autonomía administrativa, técnica y de gestión, que tiene a su cargo la función de revisión previa y fiscalización de los entes auditables, conforme a lo dispuesto en la presente Ley.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 6°.
 
-La Auditoria Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por el Auditor Superior del Estado a la Comisión para su inclusión en el Proyecto de Presupuesto de Egresos del Estado. La Auditoria Superior del Estado ejercerá autónomamente con sujeción a las disposiciones aplicables, su presupuesto aprobado.
+La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido por el Auditor Superior del Estado a la Comisión para su inclusión en el Proyecto de Presupuesto de Egresos del Estado, a más tardar el uno de octubre del año inmediato anterior al del ejercicio. Al Proyecto de Presupuesto de Egresos deberá incluirse los tabuladores desglosados de las remuneraciones que se proponen perciban sus servidores públicos, sujetándose para ello a lo que disponen los artículos, 127 de la Constitución Política de los Estados Unidos Mexicanos; y 133 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+La Auditoría Superior del Estado ejercerá autónomamente con sujeción a las disposiciones aplicables, su presupuesto aprobado.
 
 ### CAPITULO II. De las Atribuciones de la Auditoria Superior del Estado
 
@@ -251,7 +255,9 @@ Son facultades y obligaciones del Auditor Superior del Estado, las siguientes:
 
 I. Representar legalmente a la Auditoría Superior del Estado ante las diversas autoridades y demás personas físicas y morales, públicas o privadas, e intervenir en toda clase de juicios en que la misma sea parte;
 
-II. Elaborar el proyecto de presupuesto anual de la Auditoría Superior del Estado y remitirlo oportunamente a la Comisión, a fin de que ésta presente al Congreso del Estado, la propuesta correspondiente;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+II. Elaborar el proyecto de presupuesto anual de la Auditoría Superior del Estado, el que deberá incluir los tabuladores desglosados de las remuneraciones que se proponen perciban sus servidores públicos; y remitirlo oportunamente a la Comisión, a fin de que ésta presente al Congreso del Estado, la propuesta correspondiente;
 
 III. Administrar los bienes y recursos a cargo de la Auditoría Superior del Estado y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios, sujetándose a lo dispuesto en las leyes de la materia y atendiendo a los principios de racionalidad, austeridad y disciplina presupuestal, así como gestionar la incorporación y destino o desincorporación de bienes inmuebles del dominio público del Estado, afectos a su servicio;
 
@@ -1288,3 +1294,9 @@ P.O. 20 DE JULIO DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
