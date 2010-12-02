@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-instituto-de-investigaciones-54637"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-08"
-last_updated: "2007-02-08"
+last_updated: "2010-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de febrero de 2007.
 
@@ -43,9 +43,11 @@ REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO D
 
 El presente Reglamento norma el funcionamiento y la organización del Instituto de Investigaciones Legislativas, como órgano de soporte del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 2°.
 
-El Instituto tiene como finalidad apoyar al Congreso del Estado en su tarea de elaborar las normas jurí dicas (sic), por medio de la investigación jurí dica (sic); documental y de campo.
+El Instituto tiene como finalidad exclusiva, apoyar al Congreso del Estado en su tarea de elaborar las normas jurídicas, por medio de la investigación jurídica, documental y de campo.
 
 ###### ARTICULO 3°.
 
@@ -55,7 +57,9 @@ I. Investigar en forma permanente los antecedentes históricos de las leyes, có
 
 II. Efectuar estudios comparativos de la legislación del Estado, con la que rige en otras entidades federativas y en el orden federal;
 
-III. Coadyuvar con las comisiones legislativas, analizando técnica y jurí dicamente (sic) las iniciativas de ley o decreto que se presenten al Congreso;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+III. Coadyuvar con las comisiones legislativas, analizando técnica y jurídicamente las iniciativas de ley o decreto que se presenten al Congreso, y proporcionando las bases técnicas y metodológicas para la elaboración de anteproyectos de iniciativas de ley o decreto que se elaboren;
 
 IV. Proponer al Comité anteproyectos de iniciativas de leyes, reformas o adiciones, tendientes a actualizar la legislación vigente en el Estado;
 
@@ -91,7 +95,9 @@ b) El responsable de la Unidad de Informática Legislativa.
 
 c) Bibliotecario.
 
-d) Investigadores.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+d) Los investigadores que sean necesarios para el cumplimiento de su labor de investigación, quienes no podrán ejercer funciones de asesores o estar subordinados a la Coordinación de Asesoría y Secretariado Técnico de Comisiones, dependiente de la Junta de Coordinación Política del Congreso.
 
 e) Personal administrativo.
 
@@ -340,3 +346,11 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
