@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-transito-antes-reglamento-de-transito-y-8219"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-10-12"
-last_updated: "2007-06-19"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO DE TRANSITO - ANTES REGLAMENTO DE TRANSITO Y TRANSPORTE-
 
-REGLAMENTO DE TRANSITO Y TRANSPORTE
+REGLAMENTO DE TRANSITO PARA EL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE VICTORIA, TAMAULIPAS, PUBLICADO EN EL P.O. DE 19 DE JUNIO DE 2007, EL PRESENTE ORDENAMIENTO SE ABROGA EN LO QUE CORRESPONDE A SU APLICACION DENTRO DEL MUNICIPIO DE VICTORIA, EL REGLAMENTO DE TRANSITO Y TRANSPORTE.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 12 de octubre de 1988.
 
@@ -39,17 +39,31 @@ C O N S I D E R A N D O.
 
 Sobre la base de las consideraciones anteriores y situando el interés social en el marco de las prioridades, el Ejecutivo a mi cargo ha tenido a bien expedir el siguiente:
 
-REGLAMENTO DE TRANSITO Y TRANSPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+REGLAMENTO DE TRANSITO PARA EL ESTADO DE TAMAULIPAS
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTICULO 1º.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
-Este Ordenamiento es reglamentario de la Ley de Tránsito y Transporte del Estado de Tamaulipas.
+###### ARTICULO 1°.
 
-###### ARTICULO 2º.
+Las disposiciones del presente Reglamento son de orden público, interés social y observancia obligatoria en el Estado de Tamaulipas, reglamentarias de la Ley de Tránsito.
 
-Cuando en este Ordenamiento se utilicen las palabras Secretaría y Ley, se refieren a la de Seguridad Pública del Estado y a la de Tránsito y Transporte, respectivamente.
+Tienen por objeto regular y controlar el uso de las vialidades del Estado y los municipios, derivado del tránsito de vehículos automotores, de tracción animal o humana, y de peatones, garantizando su seguridad.
+
+En los municipios que carezcan de Reglamento de Tránsito Municipal, aplicarán el presente para todos sus efectos, teniendo absoluta validez.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 2°.
+
+Para los efectos de este Reglamento se entenderá por:
+
+a) Ley.- La Ley de Tránsito.
+
+b) Secretaría.- La Secretaría de Seguridad Pública del Estado.
 
 ### CAPITULO SEGUNDO. DE LA CLASIFICACION DE LOS VEHICULOS
 
@@ -227,9 +241,11 @@ Una vez tramitada la baja, la Secretaría deberá entregar al interesado la cons
 
 ### CAPITULO CUARTO. DE LAS PLACAS DE LOS VEHICULOS
 
-###### ARTICULO 9º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
-Las placas que para identificar los vehículos expide la Secretaría, deberán reunir las siguientes características:
+###### ARTICULO 9.
+
+Las placas que para identificar los vehículos automotores expide la dependencia estatal competente, deberán reunir las siguientes características:
 
 I.- Serán de lámina o del material adecuado;
 
@@ -237,9 +253,11 @@ II.- Incluirán la abreviatura del Estado de Tamaulipas; y
 
 III.- Contendrán la serie de letras y números que coincidan con la documentación del vehículo.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 10.
 
-Para el otorgamiento de las placas, deberá comprobar el interesado que el vehículo ha sido inscrito en el Registro Federal de Vehículos.
+Para el otorgamiento de placas y demás documentos que acreditan el registro del vehículo, se deberá cumplir con los requisitos que establecen la Ley y el presente Reglamento.
 
 ###### ARTICULO 11.
 
@@ -295,31 +313,39 @@ II.- De automovilista; y
 
 III.- De chofer.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 20.
 
-Para obtener licencia de motociclista y automovilista se requiere:
+Para obtener licencia para conducir vehículo automotor se requiere:
 
-I.- Llenar la solicitud correspondiente que al efecto proporcionará la Tesorería General del Estado, previa autorización de la Secretaría, la que deberá contener el nombre completo del interesado, lugar de nacimiento, domicilio, grupo sanguíneo y factor Rh, y en su caso, los padecimientos que requieren de atención especial en caso de accidente;
+I.- Contestar y suscribir la solicitud correspondiente que proporcione la oficina recaudadora y expendedora de la Secretaría de Finanzas. La solicitud deberá contener el nombre completo del interesado, lugar y fecha de nacimiento, domicilio particular, tipo de sangre, estado civil, ocupación u oficio, escolaridad, si tuviere algún padecimiento y la referencia si se trata de donador altruista de órganos, si este fuera el caso;
 
-II.- Aprobar el examen de pericia en la conducción del vehículo de que se trate y poseer conocimiento sobre las normas de vialidad previstas en este Reglamento;
+II.- Aprobar los exámenes de pericia en la conducción de automotores, así como del conocimiento de las normas previstas en la ley y en las disposiciones reglamentarias de carácter estatal o municipal, sí fuera el caso;
 
-III.- Ser mayor de 16 años, exhibiendo en caso de duda, copia certificada del acta de nacimiento;
+III.- Tener dieciocho o más años de edad al momento de solicitar la expedición de la licencia. Los mayores de dieciséis años podrán obtener permiso para conducir y operar motocicletas o automóviles, previo escrito de los padres o representantes legales, mediante el cual expresen su aceptación de la responsabilidad civil solidaria;
 
-IV.- Sujetarse al examen que la Secretaría estime pertinente para comprobar aptitudes físicas y mentales del solicitante;
+IV.- Demostrar que se encuentra apto para la conducción y operación de automotores. Al efecto se apreciarán las aptitudes físicas y las mentales;
 
-V.- Presentar el recibo correspondiente expedido por la Tesorería General del Estado, que acredite haber cubierto los derechos respectivos; y
+V.- Cubrir los derechos que correspondan ante la oficina recaudadora; y
 
-VI.- Acompañar cuatro fotografías de frente, forma rectangular de 3.5 x 4.5 centímetros, en fondo blanco y sin retoque.
+VI.- Acudir a la oficina expendedora con todos los requisitos anteriores para que le sea tomada la fotografía que portará la licencia.
 
 ###### ARTICULO 21.
 
 Las licencias de manejo deberán contener:
 
-I.- Nombre completo del conductor;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
-II.- Fecha y lugar de nacimiento;
+I.- Nombre completo, lugar y fecha de nacimiento, estado civil y ocupación del conductor;
 
-III.- Domicilio;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+II.- Mención si se trata de donador altruista de órganos;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+III.- Domicilio particular;
 
 IV.- Firma del interesado;
 
@@ -389,7 +415,9 @@ La Secretaría expedirá permisos provisionales para manejar automóviles de ser
 
 I.- Ser mayor de 16 años;
 
-II.- Llenar la solicitud que proporcione la Tesorería General del Estado, mediante autorización de la Secretaría;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+II.- Presentar solicitud elaborada ante la oficina recaudadora o expendedora dependiente de la Secretaría de Finanzas, en coordinación interinstitucional con la Secretaría;
 
 III.- Cubrir el pago de los derechos respectivos; y
 
@@ -405,15 +433,19 @@ Los propietarios de vehículos automotores no deberán permitir que éstos sean 
 
 Los conductores de vehículos que posean licencia deteriorada o ilegible, estarán obligados a solicitar su reposición.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 30.
 
-Los conductores de vehículos deberán presentar su licencia o permiso y la tarjeta de circulación a las autoridades de tránsito, cuando así lo soliciten éstas.
+Los conductores de vehículos automotores deberán presentar su licencia o permiso, tarjeta de circulación o aquéllos documentos inherentes a la propiedad del vehículo, a toda autoridad pública federal, estatal o municipal que se lo requiera.
 
 ### CAPITULO SEXTO. EQUIPO Y DISPOSITIVOS DE LOS VEHICULOS
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 31.
 
-Los vehículos que se encuentren en circulación deberán estar provistos del equipo y dispositivos que señala este capítulo.
+Los vehículos que se pongan en circulación deberán estar provistos del equipo y dispositivos que establece la Ley, este Reglamento o el Reglamento Municipal que corresponda.
 
 ###### ARTICULO 32.
 
@@ -1133,143 +1165,109 @@ Los conductores de las unidades de transporte público de pasajeros, deberán ha
 
 En la vía pública sólo se permitirá estacionar vehículos en el lado y forma que autorice la Secretaría.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO DECIMO TERCERO. DEL SERVICIO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 158.
 
-Concesión es la autorización que por tiempo indeterminado otorga el Ejecutivo del Estado a un particular, para que preste el servicio público de transporte a cambio de una retribución en numerario de los usuarios y en los términos y forma señalados por la Ley y este Reglamento. Esta será revalidada anualmente ante la Secretaría.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 159.
 
-Permiso es la autorización por tiempo determinado que otorga el Ejecutivo del Estado a un particular, para que preste el servicio público de transporte a cambio de una retribución en numerario de los usuarios y en los términos y forma señalados por la Ley y este Reglamento.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 160.
 
-Son autorizaciones especiales a unidades ya concesionadas, en la prestación, del servicio público de transporte de pasajeros, las que otorga la Secretaría en los siguientes casos:
-
-I.- Creación de rutas;
-
-II.- Modificación de rutas; y
-
-III.- Las demás que por urgente necesidad del servicio se requieran; estas últimas no excederán en su vigencia de 15 días.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 161.
 
-Las rutas e itinerarios del transporte público de pasajeros, estarán determinados, fundamentalmente, por las necesidades de la población, tomando en cuenta la ubicación de centros de trabajo, instituciones educativas y otros factores que incidan en el desarrollo económico de la Entidad. Asimismo, será la Secretaría la que fijar las rutas e itinerarios atendiendo la opinión de la Comisión Consultiva del Transporte del municipio correspondiente.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 162.
 
-Los horarios y tarifas del servicio público de transporte de pasajeros serán determinados por la Secretaría; los primeros de acuerdo a las condiciones señaladas en el artículo anterior, y las segundas en base a estudios socioeconómicos que al efecto se realicen.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 163.
 
-Las unidades del servicio público de transporte de pasajeros, llevarán en su interior en lugar visible, el horario y tarifa autorizados por la Secretaría; en el exterior colocarán la ruta a que están sujetas, la cual deberá ser visible durante el día y la noche.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 164.
 
-Se prohíbe el ascenso y permanencia en unidades de transporte público, a pasajeros que se encuentren en estado de ebriedad o bajo los efectos de cualquier droga.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 165.
 
-En los vehículos de transporte público de pasajeros, queda prohibido el traslado de animales, bultos, paquetes u otros análogos que por su condición, volumen, aspecto o mal olor, causen molestias a los usuarios.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 166.
 
-Los vehículos de servicio público de transporte de pasajeros, no deberán ser abastecidos de combustible con usuarios a bordo.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 167.
 
-La concesión o permiso para la prestación del servicio público de transporte de pasajeros, deberá contener fundamentalmente ruta e itinerario, requisitos sobre los cuales no supone derechos de exclusividad.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 168.
 
-La Secretaría podrá modificar, previo estudio, las rutas, itinerarios, horarios y tarifas del transporte público de pasajeros.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 169.
 
-Al aprobar el itinerario, la Secretaría indicará el nombre de las calles, colonias o zonas que recorran, señalándolo en un plano de la ciudad correspondiente.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 170.
 
-Cuando las unidades de transporte público de pasajeros resulten insuficientes para prestar el servicio, se preferirá sustituir las unidades por otras de mayor capacidad, a aumentar el número de éstas.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 171.
 
-La Secretaría está facultada para revisar las unidades y documentación relativa a las concesiones y permisos del servicio de transporte público, estando los concesionarios y permisionarios obligados a proporcionar las facilidades para tal fin.
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1993)</small>
-
-La Secretaría establecerá sistemas de control, calidad y supervisión en la red del servicio de transporte público urbano de pasajeros, mismo que será operado por el personal que ésta autorice
-
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1993)</small>
-
-La Secretaría establecerá las bases del Programa Estatal de Calidad Total de la Red del Servicio de Transporte Público Urbano de Pasajeros de Tamaulipas.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 172.
 
-Se entiende por estaciones terminales, los lugares en donde los prestadores del servicio público de transporte, previa autorización de la Secretaría, estacionan sus vehículos antes de iniciar o al terminar su recorrido.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 173.
 
-Los locales en donde se establezcan las estaciones terminales, deberán reunir las condiciones que garanticen la seguridad, funcionalidad e higiene.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO DECIMO CUARTO. DE LOS SITIOS
 
 ###### ARTICULO 174.
 
-Los vehículos de transporte público de pasajeros, denominados de "sitio", no estarán sujetos a rutas ni itinerarios, y tendrán un lugar en vía pública o en predio particular, autorizado por la Secretaría, para estacionarse y donde pueda acudir el público y contratar sus servicios.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 175.
 
-Los lugares de estacionamiento de sitios, no podrán establecerse a menos de 20 metros de las esquinas y su autorización será válida durante un ejercicio fiscal, debiendo ser refrendada dentro de los 15 días siguientes al vencimiento de cada ejercicio.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 176.
 
-La Secretaría está autorizada para suprimir o cambiar en cualquier tiempo, los estacionamientos de vehículos de sitio, cuando constituyan un problema para la circulación.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 177.
 
-Para obtener la autorización de establecer un estacionamiento de sitio, será necesario presentar una solicitud que contenga:
-
-I.- Nombre y dirección del solicitante;
-
-II.- Lugar en donde se pretende establecer el estacionamiento; precisando si se trata de vía pública o de predio particular. En caso de que se trate de un predio particular deberá anexarse la constancia de que se han llevado a cabo los arreglos necesarios con el propietario del predio, para destinar éste a dicho uso;
-
-III.- Las características de los vehículos, motivo de la solicitud;
-
-IV.- La clase de servicio que pretende prestar;
-
-V.- El número de vehículos que vayan a estacionarse; y
-
-VI.- Copia de la concesión que lo faculta para la prestación del servicio.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 178.
 
-Las personas a las que se les haya expedido autorización para estacionamiento de vehículos de sitio, estarán obligados:
-
-I.- A impedir que en los lugares señalados para estacionar los sitios se hagan reparaciones a los vehículos;
-
-II.- A vigilar que los vehículos se estacionen dentro de la zona señalada al efecto;
-
-III.- A cuidar que los lugares donde se encuentren los sitios, así como las aceras correspondientes se conserven en buen estado de limpieza y que el personal del servicio guarde la debida compostura y atienda al público con cortesía;
-
-IV.- A fijar, en lugar visible del estacionamiento, un disco metálico en el que con caracteres negros con fondo blanco se indique:
-
-a).- El número que la Secretaría haya señalado al estacionamiento; y
-
-b).- El horario a que está sujeta la prestación del servicio.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 179.
 
-La Secretaría establecerá las características que deberán tener los vehículos de sitio para su identificación.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 180.
 
-Cuando se presenten dos o más solicitudes respecto a un mismo lugar para establecer estacionamiento de vehículos de sitio, se otorgará al primero que cumpla con los requisitos señalados por el Reglamento.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 181.
 
-Los vehículos de sitio que por razón del servicio salgan del municipio que les asigna la concesión, no deberán, fuera de éste, contratar nuevamente la prestación del servicio.
+(DEROGADO, P.O. 2 DE DICIEMBRE DE 2010)
 
 ### CAPITULO DECIMO QUINTO. DE LAS ESCUELAS DE MANEJO
 
@@ -1319,19 +1317,25 @@ IV.- Proporcionar a las autoridades competentes toda la información necesaria p
 
 Si el conductor involucrado en un delito de los que se persiguen de oficio, con motivo del tránsito de vehículos, presenta síntomas de ebriedad o bajo el influjo de cualquier droga o substancia similar, deberá ser remitido de inmediato a la Dependencia autorizada para certificar su estado físico y en caso de que sea positivo el examen realizado, deberá ser puesto a disposición del Ministerio Público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 188.
 
-Cuando únicamente resulten daños materiales en propiedad ajena, como consecuencia de un accidente de tránsito, se deberá proceder en la siguiente forma:
+Cuando únicamente resulten daños materiales como consecuencia de un incidente vial, se deberá proceder en la siguiente forma:
 
-I.- Los implicados en el accidente y siempre que los vehículos sean de propiedad privada, podrán llegar a un acuerdo sobre el pago de los daños materiales. De no lograrse esto, los peritos de la Secretaria dictaminarán lo conducente; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+I.- Los implicados en el incidente, siempre que los vehículos sean de propiedad privada, podrán llegar a un acuerdo sobre el pago de los daños materiales. De no lograrse esto, los peritos de la dependencia de tránsito y vialidad dictaminarán lo conducente; y
 
 II.- Cuando resulten daños a vehículos o bienes, que sean propiedad de la Nación o del Estado, los implicados deberán dar aviso a las autoridades competentes.
 
 ### CAPITULO DECIMO SEPTIMO. DE LOS CONTROLES Y PROCEDIMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 189.
 
-La Secretaría llevará los registros e índices actualizados siguientes:
+La Secretaría en el ámbito estatal y las dependencias municipales correspondientes en el ámbito de sus atribuciones llevarán los registros e índices actualizados siguientes:
 
 I.- DE VEHICULOS.
 
@@ -1363,11 +1367,7 @@ a).- Infractores y reincidentes; y
 
 b).- Responsables de accidentes.
 
-V.- DE CONCESIONES, PERMISOS Y AUTORIZACIONES ESPECIALES.
-
-a).- Concesiones, permisos y autorizaciones especiales otorgados; y
-
-b).- Concesiones, permisos y autorizaciones especiales cancelados.
+V.- (DEROGADA, P.O. 2 DE DICIEMBRE DE 2010)
 
 Estos registros estarán a disposición de las autoridades que requieran de su consulta.
 
@@ -1447,9 +1447,11 @@ II.- MULTA:- Es la sanción pecuniaria que se impone por cometer una infracción
 
 III.- SUSPENSION DE LICENCIA POR TIEMPO DETERMINADO O INDEFINIDO:- Es el impedimento legal para conducir vehículos de motor;
 
-IV.- CANCELACION DE PERMISO, CONCESION O LICENCIA:- Es la anulación definitiva que tiene efecto sobre éstas; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
-V.- ARRESTO HASTA POR 36 HORAS:- Es la privación de la libertad de carácter administrativo.
+IV.- Trabajo a favor de la comunidad; son las acciones de servicio en la comunidad; y
+
+V.- (DEROGADA, P.O. 2 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 200.
 
@@ -1517,21 +1519,29 @@ Cuando una persona se inconforme con una sanción que le ha sido impuesta, podr�
 
 Se prohíbe la cancelación o suspensión parcial o total de la cantidad de la infracción y sus recargos, salvo en los casos de los Artículos 209 y 210.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 212.
 
-El oficial o agente de tránsito que aplique una infracción, tendrá el derecho a que el Gobierno le otorgue un 10% del importe del aprovechamiento fiscal, una vez que fue liquidada por el infractor.
+El oficial, perito o agente de tránsito que aplique una infracción, tiene derecho a que la oficina recaudadora le otorgue el 10 % del importe del aprovechamiento fiscal, una vez que sea liquidado por el infractor.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 213.
 
-La Tesorería General del Estado, está obligada a otorgar mensualmente la participación que le corresponda al oficial o agente de tránsito por las multas que fueren liquidadas, lo que deberá hacer invariablemente con cheque a nombre del Oficial o Agente dentro del mes siguiente.
+La oficina recaudadora correspondiente, está obligada a otorgar mensualmente la participación que le corresponda al oficial, perito o agente de tránsito por las multas que fueren liquidadas, lo que deberá hacer invariablemente con cheque, u otro medio, a nombre de éste dentro del mes inmediato siguiente.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 214.
 
-Transcurridos diez días de la fecha en que se levante la infracción, si ésta no fue pagada, la Tesorería General del Estado notificará al infractor las multas y recargos no cubiertos. Si el infractor no pagare en el término de quince días posteriores al de la notificación, la Tesorería seguirá en su contra el procedimiento administrativo de ejecución que señala el Código Fiscal del Estado.
+Transcurridos diez días de la fecha en que se levante la infracción, si ésta no fue pagada, la oficina recaudadora a la que corresponda ejercer el cobro notificará al infractor las multas y recargos no cubiertos. Si el infractor no pagare en el término de quince días posteriores al de la notificación, se le seguirá en su contra el procedimiento administrativo de ejecución que prevé el Código Fiscal del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 215.
 
-En los casos en que no se haya seguido procedimiento de ejecución fiscal, la Tesorería General del Estado dará aviso a la Secretaría de las multas y recargos no cubiertos por los infractores, para hacerlos efectivos cuando se expida la licencia, se canjeen las placas, se pase revista mecánica a los vehículos o se proporcione cualquier otro servicio. Se sancionará con suspensión de empleo al oficial, agente o funcionario que no cumpla con esta disposición.
+En los casos en que no se haya seguido procedimiento de ejecución fiscal, la oficina recaudadora a la que corresponda ejercer el cobro dará aviso a la Oficina Fiscal de la localidad donde resida el infractor, de las multas y recargos no cubiertos por los infractores, para hacerlos efectivos cuando se expida la licencia, se canjeen las placas, se pase revista mecánica a los vehículos o se proporcione cualquier otro servicio. Se sancionará en términos de las disposiciones legales aplicables, al agente o servidor público que no cumpla con lo previsto en el presente artículo.
 
 ###### ARTICULO 216.
 
@@ -1545,13 +1555,17 @@ III.- Cuando por tercera vez el titular haya cometido la infracción de conducir
 
 IV.- Cuando al titular se le haya sancionado en dos ocasiones con la suspensión de la licencia y dé lugar a una tercera suspensión.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 217.
 
-Una vez suspendida o cancelada una licencia, deberá hacerse la anotación en el libro de registro respectivo y previo apercibimiento de las sanciones que procedan, se le notificará al titular para que éste entregue la licencia a la Secretaría, en el término de cinco días, comunicando lo anterior a las Delegaciones de Tránsito en el Estado.
+Una vez suspendida o cancelada una licencia de conducir, deberá hacerse la anotación en el libro de registro respectivo y previo apercibimiento de las sanciones que procedan, se le notificará al titular para que éste entregue la licencia a la Secretaría, en el término de cinco días, comunicando lo anterior a las dependencia (sic) de tránsito y vialidad en el Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 218.
 
-Cuando lo considere conveniente la Secretaría y sus Delegaciones, están facultadas para aplicar en lugar de la multa que indica la tarifa, arresto administrativo, el cual no podrá exceder de 36 horas, únicamente en los casos siguientes:
+Cuando lo considere conveniente, la Secretaría y las dependencias de tránsito y vialidad en el Estado, están facultadas para aplicar en lugar de la multa que indica la tarifa, arresto administrativo, el cual no podrá exceder de 36 horas, únicamente en los casos siguientes:
 
 I.- A los conductores que acumulen cinco infracciones en el Estado, que no hayan sido liquidadas sin perjuicio de que se siga el procedimiento de ejecución fiscal, por las cuatro primeras:
 
@@ -1561,15 +1575,19 @@ III.- A los que conduzcan con exceso de velocidad; y
 
 IV.- A los que no respeten los vehículos de paso preferencial, impidiéndoles el paso, los sigan o rebasen.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 219.
 
-Para el cumplimiento de la sanción de arresto, las delegaciones dispondrán del lugar adecuado, prohibiéndose el internamiento de los infractores en los lugares destinados a reos, salvo que demuestren peligrosidad o intención de evadirse.
+Para el cumplimiento de la sanción de arresto, las dependencias de tránsito y vialidad en el Estado dispondrán del lugar adecuado, prohibiéndose el internamiento de los infractores en los lugares destinados a reos, salvo que demuestren peligrosidad o intención de evadirse.
 
 ###### ARTICULO 220.
 
 Las multas correspondientes a las infracciones del presente Reglamento, se aplicarán conforme a la siguiente:
 
-TARIFA DE MULTAS DEL REGLAMENTO DE TRANSITO Y TRANSPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+TARIFA DE MULTAS DEL REGLAMENTO DE TRANSITO PARA EL ESTADO DE TAMAULIPAS
 
 I.- PLACAS
 
@@ -1965,9 +1983,11 @@ XX.- DOCUMENTOS DEL VEHÍCULO
 
 Alterarlos (Art. 13 de la Ley) 7 “
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 221.
 
-El pago de las multas deberá hacerse en cualquiera de las cajas recaudadoras de la Tesorería General del Estado, la cual extenderá al infractor el comprobante del pago respectivo.
+El pago de las multas deberá hacerse en cualquiera de las cajas recaudadoras de la Secretaría de Finanzas del Estado o las propias de los municipios, las que extenderán al infractor el comprobante del pago respectivo.
 
 ###### ARTICULO 222.
 
@@ -2044,3 +2064,9 @@ El Ayuntamiento podrá promover el documento correspondiente para adecuar los t�
 ###### ARTÍCULO NOVENO.
 
 El Ayuntamiento deberá capacitar al personal que calificará e impondrá las sanciones previstas en este Reglamento. En su caso, empleará a Jueces Calificadores.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
