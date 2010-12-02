@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2010-11-24"
+last_updated: "2010-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1301,7 +1303,7 @@ a).- Que el delito no sea de los considerados como graves por el artículo 109 d
 
 b).- Que el inculpado no tenga antecedentes penales y no se encuentre sujeto a diverso proceso por delito doloso.
 
-c).- Que se haya reparado el daño.
+c).- Que se haya reparado del daño.
 
 El perdón otorgado beneficia a los autores, partícipes y encubridores.
 
@@ -2575,25 +2577,25 @@ Los defensores de oficio que sin motivo justificado no promuevan las pruebas con
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-ARTICULO 276 bis.- Comete el delito de hostigamiento sexual quien, valiéndose de una posición jerárquica derivada de la relación laboral, docente, doméstica o cualquiera otra que genere subordinación, asedie a otra persona, emitiéndole propuestas, utilice lenguaje lascivo con este fin o le solicite ejecutar cualquier acto de naturaleza sexual.
+ARTICULO 276 BIS.- Comete el delito de hostigamiento sexual quien, valiéndose de una posición jerárquica derivada de la relación laboral, docente, doméstica o cualquiera otra que genere subordinación, asedie a otra persona, emitiéndole propuestas, utilice lenguaje lascivo con este fin o le solicite ejecutar cualquier acto de naturaleza sexual.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-ARTICULO 276 ter.- Comete el delito de acoso sexual quien con respecto a una persona con la que no exista relación de subordinación, lleve a cabo conductas verbales, físicas o ambas, relacionadas con la sexualidad que la pongan en riesgo o la dejen en estado de indefensión.
+ARTICULO 276 TER.- Comete el delito de acoso sexual quien con respecto a una persona con la que no exista relación de subordinación, lleve a cabo conductas verbales, físicas o ambas, relacionadas con la sexualidad que la pongan en riesgo o la dejen en estado de indefensión.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-ARTICULO 276 quater.- Al responsable del delito de hostigamiento sexual se le impondrán de seis meses a dos años de prisión y multa de cincuenta a trescientos días de salario y será punible cuando se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
+ARTICULO 276 QUATER.- Al responsable del delito de hostigamiento sexual se le impondrán de seis meses a dos años de prisión y multa de cincuenta a trescientos días de salario y será punible cuando se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
 
 Al responsable del delito de acoso sexual se le impondrá una pena de seis meses a un año de prisión y multa de cincuenta a trescientos días de salario.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-ARTICULO 276 quinquies.- Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de seis meses a dos años para desempeñar cualquier empleo, cargo o comisión públicos.
+ARTICULO 276 QUINQUIES.- Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de seis meses a dos años para desempeñar cualquier empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
-ARTICULO 276 sexies.- Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable, de tres a cinco años de prisión y multa de cien a quinientos días de salario.
+ARTICULO 276 SEXIES.- Si el sujeto pasivo del delito de hostigamiento sexual es menor de dieciocho años de edad o estuviere privado de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia a los actos que lo constituyen, se le impondrá al responsable, de tres a cinco años de prisión y multa de cien a quinientos días de salario.
 
 (REUBICADO, ANTES CAPITULO IV, P.O. 19 DE OCTUBRE DE 2010)
 
@@ -3097,11 +3099,15 @@ Comete el delito de retención de menores cualquiera de los padres que teniendo 
 
 Sólo se procederá a petición de quien ejerza el derecho de custodia.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 301.
 
-A los responsables de los delitos a que se refieren los artículos anteriores se les impondrá una sanción de seis meses a tres años de prisión y multa de quince a cincuenta días salario.
+A los responsables de los delitos a que se refieren los artículos anteriores se les impondrá una sanción de dos a seis años de prisión y multa de cien a quinientos días (sic) salario.
+
+Cuando el sujeto devuelva espontáneamente al menor o incapaz, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones señaladas.
+
+En caso que el menor, fuese sustraído y trasladado, retenido u ocultado fuera del territorio nacional, se aumentaran en una mitad las sanciones previstas en el primer párrafo de este artículo.
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA SALUBRIDAD Y SEGURIDAD EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
@@ -5078,6 +5084,12 @@ P.O. 24 DE NOVIEMBRE DE 2010.
 DECRETO NUMERO LX-1484, POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV, Y ADICIONA UNA V AL ARTICULO 400 DEL CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
