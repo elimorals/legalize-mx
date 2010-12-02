@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2010-10-12"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1557,9 +1557,11 @@ El Congreso del Estado deberá contar con un Comité de Adquisiciones, Arrendami
 
 Los órganos de soporte técnico, de apoyo y de control del Congreso, son dependencias responsables y especializadas en los ámbitos de competencia que respectivamente les señala la presente Ley, el Reglamento y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 126.
 
-Los órganos técnicos y de apoyo tienen la finalidad de apoyar a los órganos de decisión, de dirección y de trabajo parlamentario del Congreso, en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
+Los órganos técnicos y de apoyo tienen la finalidad de apoyar, en el ámbito de sus respectivas competencias y conforme a sus propias atribuciones y personal adscrito, a los órganos de decisión, de dirección y de trabajo parlamentario del Congreso, en el cumplimiento de sus atribuciones. Sus funciones generales son las siguientes:
 
 I. De los Órganos de Soporte Técnico:
 
@@ -1575,7 +1577,9 @@ a) De la Oficialía Mayor, dependiente de la Junta, a la que corresponde la aten
 
 5. El Archivo General del Congreso: al que corresponde la clasificación y resguardo de los documentos históricos del Congreso del Estado.
 
-b) Del Instituto Investigaciones Legislativas, dependiente del Comité respectivo: al que corresponde el apoyo técnico jurídico en los diversos asuntos legislativos de la competencia del Congreso, a través de la investigación documental y de campo; así como la capacitación parlamentaria, conforme a lo determinado en su Reglamento. Dependen de este Instituto:
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+b) Del Instituto de Investigaciones Legislativas, dependiente del Comité respectivo: al que corresponde, por conducto de su Coordinador e investigadores adscritos, el apoyo técnico jurídico, a través de la investigación documental y de campo exclusivamente, en los diversos asuntos legislativos de la competencia del Congreso, así como mediante la capacitación parlamentaria, conforme a lo determinado en su Reglamento. Dependen de este Instituto:
 
 1. La Unidad de Investigación y Análisis Legislativo: a la que corresponde la investigación jurídica, documental y de campo, que fundamente el trabajo legislativo de las comisiones.
 
@@ -1587,7 +1591,9 @@ II. De los Órganos de Apoyo, Administrativos y de Control:
 
 a) La Coordinación de Servicios Parlamentarios, dependiente de la Directiva: a la que corresponde la asistencia y realización de los trabajos necesarios para que ésta se encuentre en condiciones de ejercer sus funciones; así como la construcción y actualización de la página de internet del Congreso, en lo tocante a la Gaceta Parlamentaria.
 
-b) La Coordinación de Asesoría y Secretariado Técnico de Comisiones, dependiente de la Junta: en la parte relativa a asesoría le corresponde, el apoyo a las comisiones del Congreso en materia exclusivamente de dictamen; y en la parte correspondiente a secretariado técnico, la organización de las reuniones de las comisiones, la elaboración de las actas y órdenes del día, enlaces, citatorios, correspondencia, asuntos de trámite y demás asuntos parlamentarios.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+b) La Coordinación de Asesoría y Secretariado Técnico de Comisiones, dependiente de la Junta: en la parte relativa a asesoría le corresponde, a través de sus asesores adscritos, el apoyo a las comisiones de Congreso en materia exclusivamente de dictamen; y en la parte correspondiendo a secretariado técnico, la organización de las reuniones de las comisiones, la elaboración de las actas y órdenes del día, enlaces, citatorios, correspondencia, asuntos de trámite y demás asuntos parlamentarios.
 
 c) La Coordinación de Asuntos Jurídicos, dependiente de la Directiva: a la que corresponde la atención de los asuntos jurídico contenciosos en los que el Congreso sea parte, así como la representación jurídica del mismo en asuntos laborales, y los demás que determine el Reglamento; asimismo, la asesoría en los asuntos de orden constitucional, administrativo, laboral, civil, penal y en los demás aspectos legales que atañen al Congreso; de la que dependerá la Unidad de Notificaciones: a la que corresponde el desahogo de las notificaciones, emplazamientos, citaciones, requerimientos y demás diligencias análogas, con motivo de los procedimientos administrativos y ejercicio de atribuciones legislativas que competen al Congreso del Estado directamente, o por conducto de alguno de sus órganos.
 
@@ -1595,9 +1601,11 @@ d) La Coordinación de Comunicación Social, dependiente de la Directiva: a la q
 
 e) La Contraloría Interna, dependiente de la Junta: a la que corresponde la evaluación y control del desempeño de los servidores públicos del Congreso; así como la sustanciación de los procedimientos de responsabilidad administrativa en que incurran los mismos y la imposición de las sanciones correspondientes. De su competencia quedan exceptuados los integrantes de la Asamblea Legislativa.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 127.
 
-Las funciones y obligaciones de los órganos de Soporte Técnico de Apoyo y de Control del Congreso del Estado se establecerán en el Reglamento.
+Las funciones y obligaciones de los órganos de Soporte Técnico de Apoyo y de Control del Congreso del Estado se establecen en la presente Ley o en sus respectivos reglamentos.
 
 ###### ARTICULO 128.
 
@@ -1878,3 +1886,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las remuneraciones que en el ejercicio dos mil diez sean superiores a la máxima establecida en la ley de la materia, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año dos mil once.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
