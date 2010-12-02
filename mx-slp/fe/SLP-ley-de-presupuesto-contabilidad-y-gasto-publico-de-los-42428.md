@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-de-los-42428"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2009-05-21"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 4 de diciembre de 2004.
 
@@ -213,7 +213,7 @@ Las tesorerías y contralorías correspondientes, tendrán facultad para verific
 
 ###### ARTICULO 19.
 
-Los ayuntamientos deben presentar por escrito, en forma mensual al Congreso del Estado, por conducto de la Auditoría Superior del Estado, dentro de los quince días siguientes a la conclusión de cada mes, los informes financieros debidamente sancionados por el cabildo, que contengan las erogaciones que hayan efectuado con base en su respectivo presupuesto de egresos, y anexarán a éstos el soporte documental respectivo; en caso de dolo o negligencia no se dará prórroga para la entrega de dichos informes; además, se advierte que de no entregarlos en el tiempo establecido, la Auditaría Superior del Estado sancionará al o los funcionarios responsables, del acto, conforme a la ley respectiva.
+Los ayuntamientos deben presentar por escrito, en forma mensual al Congreso del Estado, por conducto de la Auditoría Superior del Estado, dentro de los quince días siguientes a la conclusión de cada mes, los informes financieros debidamente sancionados por el cabildo, que contengan las erogaciones que hayan efectuado con base en su respectivo presupuesto de egresos, y anexarán a éstos el soporte documental respectivo; en caso de dolo o negligencia no se dará prórroga para la entrega de dichos informes; además, se advierte que de no entregarlos en el tiempo establecido, la Auditoría Superior del Estado sancionará al o los funcionarios responsables, del acto, conforme a la ley respectiva.
 
 ###### ARTICULO 20.
 
@@ -247,17 +247,23 @@ Los ayuntamientos o en su caso los órganos de gobierno de las entidades y organ
 
 Una vez concluida la vigencia del presupuesto de egresos, sólo procederá hacer pagos con base en el, por los conceptos efectivamente devengados en el año que corresponda, y siempre que se hubieran contabilizado, debida y oportunamente, los pasivos correspondientes.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 27.
 
-Las percepciones de los servidores públicos de los municipios, de sus organismos públicos descentralizados, y de los organismos intermunicipales, deberán ser autorizadas por los ayuntamientos u órganos de gobierno, en su presupuesto respectivo, de acuerdo con el Catálogo General de Puestos y Tabuladores de Remuneraciones que emitan estos órganos edilicios o de gobierno; mismos que podrán apoyarse para la elaboración de dicho tabulador, en las recomendaciones que dicte para tal efecto la Auditoria Superior del Estado.
+Las percepciones de los servidores públicos de los municipios, de sus organismos públicos descentralizados, y de los organismos intermunicipales, deberán ser autorizadas por los ayuntamientos u órganos de gobierno, en su presupuesto respectivo, de acuerdo con los Tabuladores Desglosados de las Remuneraciones que emitan estos órganos edilicios o de gobierno, en apego a lo que dispone al artículo 127 de la Constitución Política de los Estados Unidos Mexicanos; así como la Ley Reglamentaria del artículo 133 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; mismos que podrán apoyarse para la elaboración de dicho tabulador, en las recomendaciones que dicte para tal efecto, la Auditoría Superior del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
 
 Las percepciones de los servidores públicos que refiere este artículo, comprenden cualquier tipo de remuneración que se perciba por un empleo, cargo o comisión de cualquier naturaleza.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
+
 En la asignación de las remuneraciones de los servidores públicos que alude este precepto, las autoridades que tengan esta responsabilidad deberán observar para tal efecto, los principios de racionalidad, austeridad, disciplina financiera, equidad, legalidad y transparencia.
 
-Las percepciones de los servidores públicos que se señalan con antelación, deberán ser publicadas en el Periódico Oficial del Estado, en el caso de los ayuntamientos como un anexo de su Presupuesto de Egresos; y para los organismos públicos descentralizados municipales, y los organismos intermunicipales, dentro de los diez días siguientes a su aprobación deberán ser enviadas para tal efecto.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+Las percepciones de los servidores públicos que se señalan con antelación, deberán ser publicadas en el Periódico Oficial del Estado, en el caso de los ayuntamientos, organismos públicos descentralizados municipales, y los organismos intermunicipales, como un anexo de su Presupuesto de Egresos.
 
 ###### ARTICULO 28.
 
@@ -384,3 +390,9 @@ P.O. 21 DE MAYO DE 2009.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
