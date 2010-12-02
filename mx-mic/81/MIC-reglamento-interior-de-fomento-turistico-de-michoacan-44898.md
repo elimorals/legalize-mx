@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-fomento-turistico-de-michoacan-44898"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-04"
-last_updated: "2005-05-04"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE FOMENTO TURISTICO DE MICHOACAN
 
-REGLAMENTO INTERIOR DE "FOMENTO TURISTICO DE MICHOACAN"
+REGLAMENTO INTERIOR DE "FOMENTO TURÍSTICO DE MICHOACÁN"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE FOMENTO TURÍSTICO DE MICHOACÁN, PUBLICADO EN EL P.O. DE 2 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 4 de mayo de 2005.
 
@@ -274,3 +276,11 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+Artículo Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior de Fomento Turístico de Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 4 de mayo de 2005 y se dejan sin efecto aquellas disposiciones administrativas en lo que se opongan al presente Reglamento.
