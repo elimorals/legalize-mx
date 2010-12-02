@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2010-11-20"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -2307,13 +2307,19 @@ III. Las que se convoquen por algún asunto urgente, a consideración de la Mesa
 
 ###### Artículo 132.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
-1. Son sesiones solemnes aquellas que determine la Asamblea para la conmemoración de aniversarios históricos, así como aquellas en que así lo acuerde la Asamblea cuando:
+1. Son sesiones solemnes aquellas que determine la asamblea para la conmemoración de aniversarios históricos, así como aquellas en que así lo acuerde la Asamblea cuando:
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 a. Concurran representaciones de otros poderes del Estado, de la Federación o de otras Entidades Federativas;
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+
 b. Concurran personalidades distinguidas; y
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
 c. Se reconozca a personas físicas o jurídicas en los términos de la Ley que establece las bases para el otorgamiento de premios y condecoraciones en el Estado de Jalisco.
 
@@ -2327,9 +2333,9 @@ I. Asista el ciudadano Presidente Constitucional de los Estados Unidos Mexicanos
 
 II. Rinda la protesta de ley el Titular del Poder Ejecutivo del Estado, al asumir su cargo;
 
-(REFORMADA, P.O. 13 DE JULIO DE 2006) (F. DE E., P.O. 14 DE SEPTIEMBRE DE 2006)
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
-III. Se conmemoren las siguientes fechas: 31 de enero de 1824, 16 de junio de 1823, 8 de julio de 1917 y 14 de septiembre de 1823;
+III. Se conmemoren las siguientes fechas: 31 de enero de 1824, 16 de junio de 1823, 8 de julio de 1917, 14 de septiembre de 1823 y 6 de diciembre de 1810;
 
 IV. Se presente el informe anual de actividades del Congreso del Estado por parte del Presidente de la Mesa Directiva; y
 
@@ -3878,3 +3884,7 @@ P.O. 17 DE JULIO DE 2010.
 P.O. 20 DE NOVIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente dictamen entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
