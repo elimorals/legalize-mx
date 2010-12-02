@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2010-05-15"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -835,9 +835,11 @@ III. Cuando el Pleno del Congreso haga observaciones a un dictamen, ya sea en fo
 
 IV. La discusión en el Pleno de los dictámenes será una sola vez en lo general y en lo particular, conforme a lo dispuesto y su votación será nominal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 89.
 
-Cuando menos dos días naturales antes de cada sesión, la Gaceta Parlamentaria que contenga los dictámenes que se vayan a discutir, será entregada a los diputados.
+Cuando menos cuarenta y ocho horas antes de cada sesión, la Gaceta Parlamentaria que contenga los dictámenes que se vayan a discutir, será entregada a los diputados.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 2010)</small>
 
@@ -1541,6 +1543,8 @@ XIII. Las demás que le confiera la Ley Orgánica y las que la Junta le asigne.
 
 ### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 178.
 
 Para ser Coordinador de Finanzas del Congreso es necesario cumplir los siguientes requisitos
@@ -1671,13 +1675,15 @@ XIV. Las demás que le asignen la Oficialía, Mayor y la Junta de Coordinación 
 
 ###### ARTICULO 184.
 
-El Congreso del Estado contará con un Instituto de Investigaciones Legislativas; que tiene como finalidad apoyar al Congreso en su tarea de elaborar las normas jurídicas, por medio de la investigación documental y de campo, en las áreas jurídica, histórica, política, económica, y en las demás materias que sean motivo de legislación.
+El Congreso del Estado contará con un Instituto de Investigaciones Legislativas; que tiene como finalidad exclusiva, apoyar al Congreso en su tarea de elaborar las normas jurídicas, por medio de la investigación documental y de campo, en las áreas jurídica, histórica, política, económica, y en las demás materias que sean motivo de legislación.
 
 La supervisión y vigilancia del Instituto estará a cargo del Comité del Instituto de Investigaciones Legislativas, a que se refiere el artículo 120 de la Ley Orgánica.
 
 Dependerán de este Instituto, la biblioteca del Congreso, la unidad de informática legislativa, y la unidad de investigación y análisis legislativo.
 
-El Instituto estará a cargo de un Coordinador designado por el Pleno; contará con el personal necesario para el ejercicio de sus funciones conforme al presupuesto aprobado; y ejercerá sus funciones conforme lo determine su Reglamento Interior.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+El Instituto estará a cargo de un Coordinador designado por el Pleno; contará con el personal y cuerpo de investigadores necesario para el ejercicio de sus funciones conforme al presupuesto aprobado; y ejercerá sus funciones conforme lo determine su Reglamento Interior.
 
 Para ser Coordinador del Instituto de Investigaciones Legislativas se requiere:
 
@@ -1747,9 +1753,11 @@ II. Tener cuando menos treinta años de edad al día de su nombramiento; y
 
 III. No haber sido condenado por delito doloso que haya ameritado más de un año de prisión, ni por algún otro que lesione la buena fama en el concepto público.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 188.
 
-La Coordinación de Asesoría y Secretariado Técnico de Comisiones, es el órgano encargado de prestar el apoyo operativo y técnico para el desarrollo de las funciones de las comisiones y comité del Congreso; así como la asesoría necesaria para el buen despacho de los asuntos de su competencia. Al efecto corresponde a la Coordinación:
+La Coordinación de Asesoría y Secretariado Técnico de Comisiones, es el órgano encargado de prestar, a través de sus asesores, el apoyo operativo y técnico para el desarrollo de las funciones de las comisiones y comités del Congreso, en materia de dictamen; así como la asesoría necesaria para el buen despacho de los asuntos de su competencia. Al efecto corresponde a la Coordinación:
 
 I. Llevar el registro y expediente de las actas de las reuniones de las comisiones, con las copias que de las mismas le proporcionen los secretarios técnicos respectivos;
 
@@ -1771,7 +1779,9 @@ I. Elaborar los proyectos de dictámenes sobre los asuntos que les sean turnados
 
 II. Elaborar pronunciamientos, posicionamientos, opiniones jurídicas o técnicas, según corresponda; y demás proyectos de resolución sobre asuntos que le sean encomendados por la coordinación;
 
-III. Coordinarse con el Instituto de Investigaciones Legislativas, para la obtención de antecedentes, estudios comparativos, documentos y demás elementos que le permitan elaborar adecuadamente los dictámenes que se le encomienden; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
+
+III. Coordinarse cuando así lo requieran, con el personal administrativo y cuerpo de investigadores del Instituto de Investigaciones Legislativas, para la obtención de antecedentes, estudios comparativos, documentos y demás elementos que le permitan elaborar adecuadamente los dictámenes que se le encomienden, y
 
 IV. Las demás que le asignen los presidentes de las comisiones, o le encomiende la coordinación, en relación con los dictámenes a su cargo.
 
@@ -1970,3 +1980,19 @@ P.O. 15 DE MAYO DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+DECRETO 387 POR EL QUE SE REFORMAN LOS ARTICULOS 184, 188 Y 189.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+DECRETO 388 POR EL QUE SE REFORMA EL ARTICULO 89.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan a este Decreto.
