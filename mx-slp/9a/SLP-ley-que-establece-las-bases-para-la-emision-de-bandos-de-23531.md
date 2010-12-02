@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-establece-las-bases-para-la-emision-de-bandos-de-23531"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-02"
-last_updated: "2010-06-24"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23531&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY QUE ESTABLECE LAS BASES PARA LA EMISION DE BANDOS DE POLICIA Y GOBIERNO, Y ORDENAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE ESTABLECE LAS BASES PARA LA EMISION DE BANDOS DE POLICIA Y GOBIERNO, Y ORDENAMIENTOS DE LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL P.O. DE 2 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 2 de febrero de 2002.
 
@@ -276,3 +278,11 @@ P.O. 24 DE JUNIO DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2010.
+
+PRIMERO. Se abroga la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno, y Ordenamientos de los Municipios del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado en la edición extraordinaria del dos de febrero de dos mil dos, como Decreto Legislativo 271.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
