@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2010-10-19"
+last_updated: "2010-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -727,9 +729,7 @@ Presentada la promoción se citará a una audiencia dentro de setenta y dos hora
 
 A los defensores de oficio, cuando no se les pueda hacer la notificación personalmente, se les hará por cédula que se fijará en lugar visible del Tribunal.
 
-## TITULO SEGUNDO. DE LA AVERIGUACION PREVIA
-
-REGLAS COMUNES
+## TITULO SEGUNDO. DE LA AVERIGUACION PREVIA REGLAS COMUNES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -805,6 +805,8 @@ En esos casos el Ministerio Público iniciará, desde luego, la averiguación pr
 
 La violación de esta disposición hará penalmente responsable a quien decrete la indebida retención y la persona detenida deberá ser puesta de inmediato en libertad.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2011 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGIA CORRESPONDIENTE A DICHA FECHA, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 109.
@@ -823,9 +825,9 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Ministerial, quien deberá sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
-Para todos los efectos legales, y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; delincuencia organizada, prevista en el artículo 171 Bis; ataques a los medios de transporte previsto por el artículo 174; corrupción de menores e incapaces y pornografía infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194 Bis fracciones III y V, 194 Ter fracciones I, II y III, 195; tortura previsto por el artículo 213; cohecho previsto por el artículo 216 en relación con el artículo 217 fracción II; enriquecimiento ilícito previsto por el artículo 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; asalto previsto en el artículo 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el artículo 318-Bis; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto por el artículo 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353, 354 y 355; secuestro en los casos de los artículos 391 y 391 Bis; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I; 410 exceptuando de éste el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411; extorsión previsto por el artículo 426; despojo de cosas inmuebles o de aguas previsto por el artículo 427 cuando se realice en la circunstancia prevista en la fracción IV; daño en propiedad en los casos previstos por el artículo 435; y operaciones con recursos de procedencia ilícita, previsto por el artículo 443 Bis, todos del Código Penal para el Estado de Tamaulipas; así también el delito de Trata de Personas, previsto en el artículo 5 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Tamaulipas.
+Para todos los efectos legales, y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; delincuencia organizada, prevista en el artículo 171 Bis; ataques a los medios de transporte previsto por el artículo 174; corrupción de menores e incapaces y pornografía infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194 Bis fracciones III y V, 194 Ter fracciones I, II y III, 195; tortura previsto por el artículo 213; cohecho previsto por el artículo 216 en relación con el artículo 217 fracción II; enriquecimiento ilícito previsto por el artículo 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; sustracción y retención de menores por los padres cuando se realice en la circunstancia prevista en el párrafo tercero del artículo 301; asalto previsto en el artículo 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el artículo 318-Bis; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto por el artículo 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353, 354 y 355; secuestro en los casos de los artículos 391 y 391 Bis; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I; 410 exceptuando de éste el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado por el artículo 402 fracción I, 411; extorsión previsto por el artículo 426; despojo de cosas inmuebles o de aguas previsto por el artículo 427 cuando se realice en la circunstancia prevista en la fracción IV; daño en propiedad en los casos previstos por el artículo 435; y operaciones con recursos de procedencia ilícita, previsto por el artículo 443 Bis, todos del Código Penal para el Estado de Tamaulipas.
 
 (ADICIONADO, P.O. 19 DE JUNIO DE 1999) (F. DE E., P.O. 17 DE ABRIL DE 2002)
 
@@ -927,9 +929,7 @@ Tanto el Ministerio Público como la Policía Ministerial se sujetarán a las di
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO I. REGLAS PARA LA PRACTICA DE DILIGENCIAS Y
-
-LEVANTAMIENTO DE ACTAS DE POLICIA MINISTERIAL
+### CAPITULO I. REGLAS PARA LA PRACTICA DE DILIGENCIAS Y LEVANTAMIENTO DE ACTAS DE POLICIA MINISTERIAL
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1025,9 +1025,7 @@ Se asentarán en el acta a que se refiere el artículo anterior, todas las obser
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO II. COMPROBACION DEL CUERPO DEL DELITO
-
-VESTIGIOS, INSTRUMENTOS Y OBJETOS DEL MISMO
+### CAPITULO II. COMPROBACION DEL CUERPO DEL DELITO VESTIGIOS, INSTRUMENTOS Y OBJETOS DEL MISMO
 
 ###### ARTICULO 128.
 
@@ -1293,7 +1291,7 @@ La probable responsabilidad del indiciado se tendrá como acreditada cuando, de 
 
 ###### ARTICULO 159.
 
-Para la comprobación del cuerpo del delito y la probable o plena responsabilidad del inculpado, según el caso, el Ministerio Público y el Juez gozarán de las facultades mas amplias respecto de los medios de prueba que estimen conducentes según su criterio, siempre y cuando sean de los autorizados por la ley.
+Para la comprobación del cuerpo del delito y la probable o plena responsabilidad del inculpado, según el caso, el Ministerio Público y el Juez gozarán de las facultades más amplias respecto de los medios de prueba que estimen conducentes según su criterio, siempre y cuando sean de los autorizados por la ley.
 
 ### CAPITULO III. CURACION DE HERIDOS Y ENFERMOS
 
@@ -1527,11 +1525,7 @@ No pueden ser defensores los que se hallen presos ni los que estén procesados.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO IV
-
-AUTO DE FORMAL PRISION, SUJECION A PROCESO,
-
-DE NO SUJECION A PROCESO Y DE LIBERTAD
+### CAPITULO IV. AUTO DE FORMAL PRISION, SUJECION A PROCESO, DE NO SUJECION A PROCESO Y DE LIBERTAD
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -1625,7 +1619,7 @@ En caso contrario, habiendo causado ejecutoria el auto dictado, se aplicará en 
 
 La inobservancia de este artículo será motivo de responsabilidad penal.
 
-###### ARTICULO 191 Bis1.
+###### ARTICULO 191 Bis 1.
 
 Si la falta del requisito de procedibilidad se advierte después de haberse dictado el auto de formal prisión o de sujeción a proceso, mediante resolución debidamente fundada y motivada, se dejará sin efecto el auto dictado y se suspenderá definitivamente el procedimiento, se ordenará la libertad del procesado si se encuentra detenido, procediendo consecuentemente el sobreseimiento de la causa penal.
 
@@ -2625,7 +2619,7 @@ II.- Cuando posteriormente al auto constitucional, se compruebe en favor del inc
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-III.- Cuando se esté en los casos del artículo 191-Bis segundo párrafo y 191-Bis1 de éste Código;
+III.- Cuando se esté en los casos del artículo 191-Bis segundo párrafo y 191-Bis 1 de éste Código;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -3645,11 +3639,11 @@ Si el sentenciado depositó caución para garantizar la reparación del daño y 
 
 Si transcurrido el término de diez días de haber causado ejecutoria la sentencia, el sentenciado no ha cubierto el concepto de la reparación del daño a que fue condenado, el ofendido o quien legalmente tenga derecho a ello, podrá comparecer ante el Juez promoviendo mediante escrito en la vía incidental, la ejecución de la sentencia para obtener el pago de este concepto.
 
-Con la copia del escrito y de la sentencia ejecutoriada, el Juez requerirá al sentenciado para que dentro del término de cinco días cumpla con el pago de lo condenado respecto a la reparación del daño, haciéndole el apercibimiento que en caso de incumplir con el requerimiento, sin mas trámite, se procederá a embargar bienes de su propiedad y se procederá al remate de los mismos, destinándose el producto al pago de la reparación del daño a favor del ofendido o de quien tenga derecho a ello.
+Con la copia del escrito y de la sentencia ejecutoriada, el Juez requerirá al sentenciado para que dentro del término de cinco días cumpla con el pago de lo condenado respecto a la reparación del daño, haciéndole el apercibimiento que en caso de incumplir con el requerimiento, sin más trámite, se procederá a embargar bienes de su propiedad y se procederá al remate de los mismos, destinándose el producto al pago de la reparación del daño a favor del ofendido o de quien tenga derecho a ello.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 488 Bis1.
+###### ARTICULO 488 Bis 1.
 
 Cuando la reparación del daño sea exigible a persona distinta al inculpado, de acuerdo al artículo 92 del Código Penal, el ofendido o el que tenga derecho a recibirlo podrá comparecer ante el Juez que conoce de la causa, exigiendo del obligado en la vía incidental el pago de la reparación el daño, el cual se tramitará y resolverá conforme a los artículos siguientes.
 
@@ -3683,7 +3677,7 @@ Las notificaciones y las pruebas que se practiquen se harán de acuerdo a lo pre
 
 ###### ARTICULO 494.
 
-La practica de las providencias precautorias, los embargos y los remates se regirán con las reglas que prevé a este respecto el Código de Procedimientos Civiles, en cuanto sean aplicables.
+La práctica de las providencias precautorias, los embargos y los remates se regirán con las reglas que prevé a este respecto el Código de Procedimientos Civiles, en cuanto sean aplicables.
 
 ###### ARTICULO 495.
 
@@ -4486,6 +4480,12 @@ P.O. 23 DE DICIEMBRE DE 2008.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
 
 P.O. 19 DE OCTUBRE DE 2010.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
