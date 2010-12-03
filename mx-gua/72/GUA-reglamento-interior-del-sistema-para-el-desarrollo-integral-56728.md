@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-sistema-para-el-desarrollo-integral-567
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-28"
-last_updated: "2007-08-28"
+last_updated: "2010-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 28 de agosto de 2007.
 
@@ -139,7 +139,9 @@ III. Aprobar el informe de actividades elaborado por el Director General del DIF
 
 IV. Aprobar el anteproyecto del presupuesto de egresos, así como la estimación de ingresos;
 
-V. Aprobar el nombramiento de los directores de área del DIF y del Secretario Técnico, a propuesta de su Director General; y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+V. Aprobar el nombramiento de los directores de área del DIF a propuesta de su Director General; y
 
 VI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
@@ -161,7 +163,9 @@ VI. Rendir informe del ejercicio de sus funciones en cada sesión ordinaria de l
 
 VII. Elaborar el informe anual de actividades del DIF;
 
-VIII. Proponer ante la Junta de Gobierno, el nombramiento del Secretario Técnico y de los directores de área del DIF;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+VIII. Proponer ante la Junta de Gobierno, el nombramiento de los directores de área del DIF;
 
 IX. Contribuir a la obtención de recursos que permitan el incremento del patrimonio del DIF y el cumplimiento de sus objetivos;
 
@@ -251,7 +255,7 @@ El Patronato participará en el proceso de planeación a través de los consejos
 
 Para el despacho de los asuntos de su competencia, además de la Dirección General, el DIF contará con la siguiente estructura administrativa.
 
-I. Secretaría Técnica;
+I. (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
 
 II. Dirección de Asistencia Alimentaria;
 
@@ -271,9 +275,11 @@ IX. Dirección de Administración Financiera; y
 
 X. Coordinación de Asesoría Jurídica.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 21.
 
-Las direcciones, Secretaría Técnica y la Coordinación de Asesoría Jurídica del DIF conducirán sus actividades en forma programada y de conformidad a las prioridades, políticas y estrategias del Plan de Gobierno del Estado, así como de los programas sectoriales e institucionales.
+Las direcciones y la Coordinación de Asesoría Jurídica del DIF conducirán sus actividades en forma programada y de conformidad a las prioridades, políticas y estrategias del Plan de Gobierno del Estado, así como de los programas sectoriales e institucionales.
 
 ### Capítulo II. De la Dirección General del DIF
 
@@ -285,19 +291,7 @@ La Dirección General del DIF deberá planear, apoyar, coordinar y supervisar el
 
 ###### Artículo 23.
 
-La Secretaría Técnica deberá coadyuvar en la supervisión del trabajo de las unidades administrativas señaladas en el artículo 20. Tendrá además las siguientes atribuciones:
-
-I. Registrar y coordinar las agendas de trabajo de la Presidenta del Patronato y del Director General a fin de que sean congruentes con la de los directores y coordinador del DIF;
-
-II. Dar seguimiento a los acuerdos que tome la Junta Directiva;
-
-III. Llevar registro y seguimiento de los diversos consejos, comisiones, comités, subcomités y patronatos u otros organismos en los que participe el DIF;
-
-IV. Ser enlace entre el Director General del DIF y las unidades administrativas señaladas en el artículo 20;
-
-V. Ser enlace con las distintas instituciones de los sectores público y privado; y
-
-VI. Las demás que le señalen las disposiciones legales y reglamentarias aplicables, así como aquellas que le sean conferidas expresamente por el Director General.
+(DEROGADO, P.O. 3 DE DICIEMBRE DE 2010)
 
 ### Capítulo IV. De las Direcciones
 
@@ -319,7 +313,9 @@ II. Proponer a la Dirección General del DIF la distribución y aplicación de l
 
 III. Planear, organizar, ejecutar y evaluar las estrategias y actividades determinadas por la Dirección General del DIF de acuerdo con las políticas públicas e institucionales;
 
-IV. Coordinarse, previo acuerdo con el Secretario Técnico, con organismos estatales, nacionales e internacionales cuyas áreas de competencia se relacionen con las de la dirección, a fin de sumar esfuerzos en la consecución de los objetivos institucionales;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IV. Coordinarse, previo acuerdo con el Director General, con organismos estatales, nacionales e internacionales cuyas áreas de competencia se relacionen con las de la dirección, a fin de sumar esfuerzos en la consecución de los objetivos institucionales;
 
 V. Acordar con la Dirección General del DIF el despacho de los asuntos a su cargo y responsabilidad;
 
@@ -527,9 +523,11 @@ La Dirección General del DIF podrá contar con asesores en las diversas áreas 
 
 ### Capítulo Único. De las Suplencias
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 36.
 
-Durante la ausencia del Director General del DIF que no excedan de treinta días, el despacho y resolución de los asuntos, estarán a cargo del Secretario Técnico o del director que acuerde el Director General.
+Durante la ausencia del Director General del DIF que no excedan de treinta días, el despacho y resolución de los asuntos, estarán a cargo del director que acuerde el Director General.
 
 Las ausencias que excedan de ese término serán suplidas por quien designe el Gobernador del Estado.
 
@@ -560,3 +558,9 @@ JORGE ARMANDO AGUIRRE TORRES
 EL SECRETARIO DE DESARROLLO SOCIAL Y HUMANO
 
 JUAN CARLOS LÓPEZ RODRÍGUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
