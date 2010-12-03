@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-arrendamientos-y-contratacion-de-51280"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-14"
-last_updated: "2006-08-14"
+last_updated: "2010-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE NUEVO LEON
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL ESTADO DE NUEVO LEON
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de agosto de 2006.
 
@@ -617,15 +617,21 @@ II. En casos particulares para las Dependencias, cuando así lo determine el tit
 
 Se aplicará el procedimiento de contratación mediante concurso por invitación a cuando menos tres personas, cuando se trate de adquisiciones, arrendamientos o servicios cuyo valor de contratación o pedido corresponda a lo establecido en la Ley de Egresos del Estado de Nuevo León del ejercicio fiscal correspondiente.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 51.
 
-Las adquisiciones, arrendamientos y servicios se adjudicarán a través de contratación mediante tres cotizaciones por escrito, cuando el valor de la contratación o pedido corresponda a lo establecido en la Ley de Egresos del Estado de Nuevo León del ejercicio fiscal correspondiente.
+Las adquisiciones, arrendamientos y servicios se adjudicarán a través de contratación mediante tres cotizaciones por escrito, cuando el valor de la contratación o pedido corresponda a lo establecido en la Ley de Egresos del Estado de Nuevo León del ejercicio fiscal correspondiente, buscando en su caso, otorgar preferencia a la micro, pequeña y mediana empresa instaladas en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 52.
 
 Se podrán celebrar adquisiciones, arrendamientos y contratación de servicios mediante el procedimiento de adjudicación directa, cuando:
 
-I. El valor de la contratación o pedido corresponda a lo establecido en la Ley de Egresos del Estado de Nuevo León del ejercicio fiscal correspondiente;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+I. El valor de la contratación o pedido corresponda a lo establecido en la Ley de Egresos del Estado de Nuevo León del ejercicio fiscal correspondiente, buscando en su caso, otorgar preferencia a la micro, pequeña y mediana empresa instaladas en el Estado;
 
 II. Se hayan realizado dos concursos por invitación a cuando menos tres personas y no se haya adjudicado el contrato;
 
@@ -1025,11 +1031,15 @@ VII. Se publicará en Internet el fallo correspondiente; y
 
 VIII. Serán aplicables, en lo conducente, las disposiciones de la licitación pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 90.
 
 El procedimiento de contratación mediante tres cotizaciones por escrito se sujetará a lo siguiente:
 
-I. La Oficialía Mayor o en su caso la Entidad correspondiente, solicitará la cotización de bienes y servicios a cuando menos tres Proveedores, o a los que hubiere en el Padrón para el caso en particular;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+l. La Entidad correspondiente, solicitará la cotización de bienes y servicios a cuando menos tres Proveedores, o a los que hubiere en el Padrón para el caso en particular, buscando en su caso, otorgar preferencia a la micro, pequeña y mediana empresa instaladas en el Estado;
 
 II. La solicitud de cotización podrá efectuarse por escrito o por medios remotos de comunicación electrónica y, en su caso, podrá indicarse el plazo para la presentación de la cotización;
 
@@ -1039,9 +1049,11 @@ IV. Para llevar a cabo la adjudicación bastará contar con un mínimo de tres c
 
 V. Las cotizaciones económicas deberán ser formuladas por Proveedores que no se relacionen entre sí a través de su tenencia accionaria o participación en el capital social.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 91.
 
-Para la realización de adjudicaciones directas, se procurarán precios o valores de mercado de contratación, bajo la responsabilidad del servidor público que las autorice o lleve a cabo.
+Para la realización de adjudicaciones directas, se procurarán precios o valores de mercado de contratación, buscando en su caso, otorgar preferencia a la micro, pequeña y mediana empresa instaladas en el Estado, bajo la responsabilidad del servidor público que las autorice o lleve a cabo.
 
 ### Capítulo Cuarto. De la Subasta Electrónica Inversa
 
@@ -1570,3 +1582,9 @@ LOMBARDO VICTORIANO GUAJARDO GUAJARDO
 EL C. OFICIAL MAYOR DE GOBIERNO
 
 ALFREDO GERARDO GARZA DE LA GARZA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
