@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2008-12-31"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -1056,6 +1056,10 @@ XIX.- Conceder subsidios o estímulos fiscales.
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 XX.- Imponer sanciones por el incumplimiento a las disposiciones fiscales estatales, federales y municipales, de conformidad con los ordenamientos aplicables, los Convenios y sus anexos suscritos entre el Estado y la Federación o con los Municipios.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Otorgar Estímulos Fiscales a aquellas personas físicas o jurídicas que contraten personas con discapacidad, así como para quienes realicen adaptaciones, eliminación de barreras físicas o de rediseño en sus áreas de trabajo, de conformidad con la normatividad aplicable para lograr accesibilidad.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1989)</small>
 
@@ -3024,3 +3028,11 @@ SEXTO.- Los recursos administrativos de revocación que se encuentren en trámit
 P.O. 31 DE DICIEMBRE DE 2008.
 
 ÚNICO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- La aplicación del presente Decreto estará sujeto a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado en la Ley de Egresos del Estado para el Ejercicio Fiscal correspondiente.
