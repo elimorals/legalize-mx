@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2010-08-18"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -375,11 +375,11 @@ Artículo 30 ter.- En los casos en que se acuerde el archivo de la Averiguación
 
 Sólo en casos de que exista oposición a la determinación del no ejercicio de la acción penal, el Agente del Ministerio Público deberá enviar el original de la Averiguación Previa al Ciudadano Procurador, a efecto de que se realice el estudio y análisis de la misma y se determine la procedencia o improcedencia de la determinación, confirmándola o en su caso señalando las diligencias necesarias para la integración de la misma.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
-
 ###### Artículo 31.
 
 El Juez o la Sala podrán dictar en los procesos sujetos a su conocimiento, los trámites y providencias que estimen convenientes para la pronta y eficaz administración de justicia.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 31 Bis.
 
@@ -845,13 +845,13 @@ D.- evasión de presos, previsto en el artículo 173;
 
 E.- Ataque a los medios de transporte, previsto en los artículos 191 y 192;
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-F.- Corrupción y pornografía de menores e incapaces o personas que no pudieren resistir, cuando se encuentren en los supuestos previstos por los artículos 217, 219, 229 Ter y 229 Quinquies;
+F.- Corrupción y Pornografía de menores e incapaces o personas que no pudieren resistir, cuando se encuentren en los supuestos previstos por los artículos 217, 220 y 229 Ter.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-G.- Lenocinio y Trata de Personas previstos en los artículos 226, 227 y 227 Bis;
+G.- Lenocinio y Trata de Personas previstos en los artículos 226, 228 y 229 Ter;
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -3738,6 +3738,12 @@ SEGUNDO.- El presente Decreto deberá publicarse en el Periódico Oficial del Es
 TERCERO.- Los asuntos que a la fecha se encuentran patrocinados por un defensor social o de oficio, se entenderá ahora por éstos a los Defensores Públicos.
 
 P.O. 18 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2010.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
