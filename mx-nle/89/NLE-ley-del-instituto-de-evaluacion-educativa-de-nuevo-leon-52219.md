@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-evaluacion-educativa-de-nuevo-leon-52219"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2006-11-06"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE EVALUACION EDUCATIVA DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de diciembre de 2005.
 
@@ -409,9 +409,11 @@ El Instituto queda sometido a las reglas de contabilidad, presupuesto y gasto p�
 
 ### CAPITULO IV. DEL RÉGIMEN LABORAL DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 28.
 
-En los términos del Artículo 41 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, las relaciones laborales del Instituto con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
+La participación de personas y de representantes de agrupaciones o asociaciones de los sectores social, privado y académico en el consejo de Participación Ciudadana, es honorífica, por lo que no tendrán el carácter de servidores públicos. Las relaciones laborales del Organismo con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo león y las demás disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -456,3 +458,7 @@ Artículo Primero.- El presente Decreto entrará en vigor el día de su publicac
 Artículo Segundo.- La Secretaría de Finanzas y Tesorería General del Estado realizará las prevenciones necesarias a fin de que los recursos humanos, materiales y presupuestales que hayan sido asignados a la Coordinación de Innovación y Competitividad Gubernamental se transfieran a las Coordinaciones de Planeación, Evaluación e Innovación Gubernamental, y de Participación Ciudadana, según corresponda.
 
 Artículo Tercero.- Se respetarán los derechos del personal y trabajadores que laboren en las dependencias que se supriman o compartan a que se refieren en el presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
