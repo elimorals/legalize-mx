@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2010-11-06"
+last_updated: "2010-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -295,7 +295,9 @@ LXVI. Zonas de suelo estratégico: son aquellas áreas o predios que los program
 
 LXVII. Zona de transición: territorio delimitado e identificado en el plan de Desarrollo Urbano con tendencias de cambio de uso de suelo, sujeto a políticas y acciones de mejoramiento urbano;
 
-LXVIII. Zona metropolitana: el espacio territorial de influencia dominante de un centro de población; y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+LXVIII. Zona metropolitana: Conjunto de dos o más municipios donde se localiza una ciudad de cincuenta mil o más habitantes, cuya área urbana, funciones y actividades rebasan el límite del Municipio que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a municipios vecinos, con los que mantiene un alto grado de integración socioeconómica;
 
 LXIX. Zonificación: la determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
@@ -535,19 +537,29 @@ VII. El Titular de la Dependencia para la protección del medio ambiente en el E
 
 VIII. El Titular del Instituto de la Vivienda del Estado;
 
-> <small>(F. DE E., P.O. 9 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-IX. El Titular de la Corporación de Proyectos Estratégicos del Estado;
+IX. Los Titulares de los fondos y fidecomisos constituidos por el Gobierno del Estado para el desarrollo de sus diversas regiones cuando se trate de asuntos que tengan que ver con su región;
 
-X. Los Titulares de los fondos y fidecomisos constituidos por el Gobierno del Estado para el desarrollo de sus diversas regiones cuando se trate de asuntos que tengan que ver con su región;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-XI. Los Presidentes Municipales de los municipios de la región en que se pretenda desarrollar la acción, obra o inversión de que se trate;
+X. Los Presidentes Municipales de los municipios de la región en que se pretenda desarrollar la acción, obra o inversión de que se trate;
 
-XII. El Presidente del Consejo Estatal de Transporte y Vialidad;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-XIII. El presidente del Consejo Estatal de Participación Ciudadana para el Desarrollo Urbano; y
+XI. El Presidente del Consejo Estatal de Transporte y Vialidad;
 
-XIV. Un representante ciudadano miembro del Consejo de Planeación Estatal.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+XII. El Presidente del Consejo Estatal de Participación Ciudadana para el Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+XIII. Un representante ciudadano miembro del Consejo de Planeación Estatal; y
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+XIV. Un Diputado representante del H. Congreso del Estado, que será el Presidente de la Comisión de Desarrollo Urbano.
 
 Se invitará a participar a los representantes de la Comisión Federal de Electricidad, de la Comisión de Nacional del Agua, de la Secretaría de Comunicaciones y Transportes, de la Secretaría de Desarrollo Social, así como a otras dependencias y entidades de la Administración Pública Federal relacionadas con el Desarrollo Urbano.
 
@@ -5614,5 +5626,17 @@ P.O. 4 DE JUNIO DE 2010.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 P.O. 6 DE NOVIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 129, POR EL QUE SE REFORMAN LAS FRACCIONES IX A LA XIV DEL ARTÍCULO 13 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 130, POR EL QUE SE REFORMAN LA FRACCION LXVIII DEL ARTICULO 5 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
