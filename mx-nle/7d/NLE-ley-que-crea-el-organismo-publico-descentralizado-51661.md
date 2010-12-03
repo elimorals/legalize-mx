@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-51661"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-04"
-last_updated: "2009-02-07"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO PARQUES Y VIDA SILVESTRE DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el lunes 4 de septiembre de 2006.
 
@@ -471,9 +471,11 @@ También podrá establecer mecanismos financieros y fondos económicos de apoyo 
 
 El Organismo queda sometido a las reglas de contabilidad, presupuesto y gasto público, aplicables a la Administración Pública Estatal, de conformidad a lo establecido por la Ley de la Administración Financiera para el Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 30.
 
-En términos del Artículo 41 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, las relaciones laborales del Organismo con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
+La participación de personas y de representantes de agrupaciones o asociaciones de los sectores social, privado y académico en el Consejo de Participación Ciudadana, es honorífica, por lo que no tendrán el carácter de servidores públicos. Las relaciones laborales del Organismo con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
 
 T R A N S I T O R I O S
 
@@ -528,3 +530,7 @@ Tercero.- La Corporación y el Consejo Estatal Forestal deberán constituirse a 
 Cuarto.- El Titular del Poder Ejecutivo del Estado, deberá realizar las reasignaciones de partidas autorizadas en la Ley de Egresos a fin de dar cumplimiento a lo establecido en la Ley de Desarrollo Forestal Sustentable del Estado de Nuevo León.
 
 Quinto.- Se deroga toda norma que contravenga el presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
