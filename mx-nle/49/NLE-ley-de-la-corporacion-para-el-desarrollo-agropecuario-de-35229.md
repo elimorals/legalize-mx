@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-corporacion-para-el-desarrollo-agropecuario-de-35229"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-15"
-last_updated: "2007-12-28"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA CORPORACION PARA EL DESARROLLO AGROPECUARIO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de diciembre de 2003.
 
@@ -463,9 +463,11 @@ Las facultades del Comisario se señalan sin perjuicio de las que le otorguen ot
 
 La Corporación queda sometida a las reglas de contabilidad, presupuesto y gasto público aplicables a la Administración Pública Estatal, de conformidad con lo establecido por la Ley de Administración Financiera para el Estado de Nuevo León.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 29.
 
-En los términos de (sic) artículo 41 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, las relaciones laborales de la Corporación con el personal que tenga el carácter de servidor público se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
+La participación de personas y de representantes de agrupaciones o asociaciones de los sectores social, privado y académico en el Consejo de Participación Ciudadana, es honorífica, por lo que no tendrán el carácter de servidores públicos. Las relaciones laborales de la Corporación con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
 
 T R A N S I T O R I O S
 
@@ -504,3 +506,7 @@ P.O. 28 DE DICIEMBRE DE 2007.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Las disposiciones de esta reforma se aplicarán en la próxima conformación del Consejo Ciudadano Agropecuario.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
