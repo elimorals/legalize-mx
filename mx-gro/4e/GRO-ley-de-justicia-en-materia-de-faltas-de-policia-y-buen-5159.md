@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-justicia-en-materia-de-faltas-de-policia-y-buen-5159"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-29"
-last_updated: "1988-01-29"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE JUSTICIA EN MATERIA DE FALTAS DE POLICIA Y BUEN GOBIERNO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 29 de enero de 1988.
 
@@ -95,13 +95,19 @@ No se considerará como falta, para los fines de esta Ley, el legítimo ejercici
 
 Serán faltas de Policía y Buen Gobierno:
 
-I.- Toda conducta que altere y afecte: el orden y la seguridad públicas; la paz social, la moral pública u ofenda las buenas costumbres.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+I.- Toda conducta que altere y afecte: el orden y la seguridad, la paz social, la moral pública u ofenda la dignidad e integridad de las personas o incite a la discriminación; y
 
 II.- Las demás que señalen las Leyes, Reglamentos y los Bandos de Policía y Buen Gobierno de los Municipios del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 7o.
 
-Los Ayuntamientos del Estado al expedir sus Bandos de Policía y Buen Gobierno, harán la enunciación completa de las faltas y deberán introducir como tales, las conductas que sean privativas, características o distintivas del Municipio de que se trate.
+Los Ayuntamientos del Estado al expedir sus Bandos de Policía y Buen Gobierno, harán la enunciación completa de las faltas y deberán introducir como tales, las ·conductas que sean privativas, características o distintivas del Municipio de que se trate y señalarán aquéllas que afecten la dignidad e integridad de las personas o inciten a la discriminación.
+
+Los Ayuntamientos del Estado expedirán Bandos enfocados a garantizar una convivencia basada en la igualdad entre hombres y mujeres, la no discriminación y el respeto a la dignidad humana.
 
 ### CAPITULO III. SANCIONES
 
@@ -296,3 +302,11 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
