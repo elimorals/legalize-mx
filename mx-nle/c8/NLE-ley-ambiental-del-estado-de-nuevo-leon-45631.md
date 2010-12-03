@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2010-11-15"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -173,73 +173,99 @@ XXXV.- Gran generador: Persona física o moral que genere una cantidad igual o s
 
 XXXVI.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-XXXVII.- Instrumentos económicos: mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asuman los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXXVIII.- Ley: Ley Ambiental del Estado de Nuevo León;
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-XXXIX.- Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XXXVII.- Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, liquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y plasma, sólo cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico en oxígeno;
 
-XL.- Manejo integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+XXXVIII.- Instrumentos económicos: mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asuman los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente;
 
-XLI.- Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XXXIX.- Ley: Ley Ambiental del Estado de Nuevo León;
 
-XLII.- Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes, y de los residuos que éstos generan;
+XL.- Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XLIII.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XLI.- Manejo integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XLIV.- Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud, o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+XLII.- Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-XLV.- Mejoramiento: El incremento de la calidad del ambiente;
+XLIII.- Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes, y de los residuos que éstos generan;
 
-XLVI.- Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+XLIV.- Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-XLVII.- Pequeño generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+XLV.- Material peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos que, independientemente de su estado físico, representen un riesgo para el ambiente, la salud, o los recursos naturales, por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
 
-XLVIII.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de biodiversidad fuera de sus hábitat naturales;
+XLVI.- Mejoramiento: El incremento de la calidad del ambiente;
 
-XLIX.- Prestador de servicios en materia ambiental: Persona física o moral certificada, registrada o autorizada por la dependencia o entidad correspondiente, que tiene como actividad la gestión, tramitación o intermediación para la obtención de trámites, permisos y autorizaciones de cualquier tipo, ante la autoridad correspondiente, o cualquier diligencia administrativa o normativa ante ésta, por cuenta propia o a favor de terceros;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-L.- Prestador de servicios en materia de impacto y riesgo ambiental: Prestador de servicios, registrado o autorizado por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros, y que es responsable del contenido de los mismos;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-LI.-Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XLVII.- Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin (sic) lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-(sic).- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+XLVIII.- Pequeño generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+
+XLIX.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de biodiversidad fuera de sus hábitat naturales;
+
+L.- Prestador de servicios en materia ambiental: Persona física o moral certificada, registrada o autorizada por la dependencia o entidad correspondiente, que tiene como actividad la gestión, tramitación o intermediación para la obtención de trámites, permisos y autorizaciones de cualquier tipo, ante la autoridad correspondiente, o cualquier diligencia administrativa o normativa ante ésta, por cuenta propia o a favor de terceros;
+
+LI.- Prestador de servicios en materia de impacto y riesgo ambiental: Prestador de servicios, registrado o autorizado por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o de terceros, y que es responsable del contenido de los mismos;
+
+LII.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+LIII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2007)</small>
 
-LIII. Reutilización: Empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+LIV. Reutilización: Empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 
-LIV.- Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano, y para el equilibrio ecológico;
+LV.- Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano, y para el equilibrio ecológico;
 
-LV.- Recurso genético: El material genético de valor real o potencial;
+LVI.- Recurso genético: El material genético de valor real o potencial;
 
-LVI.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre o de contribuir al equilibrio ecológico;
+LVII.- Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre o de contribuir al equilibrio ecológico;
 
-LVII.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un liquido o gas contenido en recipientes o depósitos que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos aplicables;
+LVIII.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un liquido o gas contenido en recipientes o depósitos que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en la Ley General para la Prevención y Gestión Integral de los Residuos y demás ordenamientos aplicables;
 
-LVIII.- Residuos de manejo especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+LIX.- Residuos de manejo especial: Aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-LIX.- Residuos sólidos urbanos: Los generados en las casas habitación que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole;
+LX.- Residuos sólidos urbanos: Los generados en las casas habitación que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques, los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por la Ley General para la Prevención y Gestión Integral de los Residuos como residuos de otra índole;
 
-LX.- Residuos peligrosos: Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos;
+LXI.- Residuos peligrosos: Aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en la Ley General para la Prevención y Gestión Integral de los Residuos;
 
-LXI.- Reciclaje: Proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad, se convierten en materia prima para nuevos productos;
+LXII.- Reciclaje: Proceso por el cual algunos materiales de desecho son transformados en productos nuevos, de tal manera que los desechos originales pierden su identidad, se convierten en materia prima para nuevos productos;
 
-LXII.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LXIII.- Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LXIII.- Riesgo ambiental: Peligro, justificado a través de elementos técnicos, al que se expone el ecosistema como consecuencia de la realización de actividades riesgosas;
+LXIV.- Riesgo ambiental: Peligro, justificado a través de elementos técnicos, al que se expone el ecosistema como consecuencia de la realización de actividades riesgosas;
 
-LXIV.- Riesgo inminente: Elevada posibilidad o probabilidad potencial de que un evento suceda, en el corto plazo en perjuicio del equilibrio ecológico o ambiente en general justificada a través de elementos técnicos;
+LXV.- Riesgo inminente: Elevada posibilidad o probabilidad potencial de que un evento suceda, en el corto plazo en perjuicio del equilibrio ecológico o ambiente en general justificada a través de elementos técnicos;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-LXV.- Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 LXVI.- Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 LXVII.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 LXVIII.- Valor ecológico: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 LXIX.- Zona núcleo: Los sitios dentro de un área natural protegida, mejor conservados o no perturbados, que alojen ecosistemas, elementos naturales de especial importancia u organismos en riesgo que requieran protección especial.
 
@@ -1133,7 +1159,7 @@ II. Establecer un sistema de reconocimiento de peritos y auditores ambientales, 
 
 III. Desarrollar programas de capacitación en materia de peritajes y auditorias ambientales;
 
-IV. instrumentar un sistema de reconocimiento y estímulos que permita identificar a las industrias que cumplan oportunamente los compromisos adquiridos en las auditorias ambientales;
+IV. Instrumentar un sistema de reconocimiento y estímulos que permita identificar a las industrias que cumplan oportunamente los compromisos adquiridos en las auditorias ambientales;
 
 V. Convenir o concertar con personas físicas o morales, públicas o privadas, la realización de auditorias ambientales; y
 
@@ -1849,7 +1875,7 @@ Para la aplicación de las disposiciones contenidas en el presente capítulo, se
 
 I. Fuentes emisoras de contaminación atmosférica de competencia estatal:
 
-a) Los establecimientos industriales en general, excepto los sectores industriales de competencia exclusiva de la Federación establecidos en el atículo 111 bis de la Ley General;
+a) Los establecimientos industriales en general, excepto los sectores industriales de competencia exclusiva de la Federación establecidos en el artículo 111 bis de la Ley General;
 
 b) Los bienes y zonas de competencia estatal;
 
@@ -1967,11 +1993,23 @@ XI. Las demás que se establezcan en esta Ley, los ordenamientos que de ella se 
 
 Las emisiones de contaminantes a la atmósfera, generadas por fuentes fijas de competencia local, deberán canalizarse a través de ductos o chimeneas de descarga, cuando esto no sea posible, por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la Secretaría o ante la autoridad municipal que corresponda, a fin de que se dicten las medidas que correspondan.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 143.
 
-Queda prohibida la quema a cielo abierto de los residuos sólidos urbanos, así como del material vegetal resultante de la limpia, desmonte o despalme de cualquier terreno, para efectos de construcción o cualquier otro fin, salvo cuando se realicen con autorización escrita de la Secretaría o, en su caso, de las autoridades municipales que correspondan. La Secretaría o los Municipios solamente podrán expedir autorizaciones en los supuestos en que la quema no cause un riesgo ambiental o impacte la calidad del aire y se justifique por razones sociales o agrícolas, u otras aplicables a juicio de las autoridades respectivas. La incineración, mediante métodos controlados, de cualquier residuo, a excepción de los que la Ley General u otra legislación federal consideren como peligrosos, quedará sujeta a las disposiciones de emisiones señaladas en la presente Ley.
+Queda prohibida la quema a cielo abierto de los residuos sólidos urbanos, así como del material vegetal resultante de la limpia, desmonte o despalme de cualquier terreno, para efectos de construcción o cualquier otro fin, salvo cuando se realicen con la autorización escrita de la Secretaría o, en su caso, de las autoridades municipales que correspondan. La Secretaría o los Municipios solamente podrán expedir autorizaciones en los supuestos en que la quema no cause un riesgo ambiental o impacte la calidad del aire y se justifique por razones sociales o agrícolas, u otras aplicables a juicio de las autoridades respectivas. Asimismo, queda prohibida la incineración de residuos sólidos urbanos.
+
+En lo que respecta a la incineración de residuos de manejo especial, solamente se podrá realizar en procesos industriales o de servicios como medio alterno para la generación de energía, debiendo obtener para ello autorización previa de la Secretaría, para lo cual los interesados formularan y presentaran un Plan de Manejo en el que se indique:
+
+I. Que los residuos no son susceptibles de ser valorizados mediante otros procesos cuando estén disponibles, sean ambientalmente eficaces, tecnológica y económicamente factibles;
+
+II. La descripción del método de incineración y equipo a emplear para lograr una eficiente combustión, evitando condiciones propicias para la formación de contaminantes orgánicos persistentes, reduciendo al mínimo los que se generen y manejando los residuos derivados adecuadamente;
+
+III. La obligación de cumplir con las disposiciones de emisiones señaladas en esta Ley; y
+
+IV. Las demás que se especifiquen en el Reglamento de la presente Ley.
 
 #### SECCIÓN I. DERECHO A LA INFORMACIÓN AMBIENTAL
 
@@ -2795,11 +2833,43 @@ II. Multa de veinte a treinta mil días de salario mínimo general vigente en la
 
 III. Clausura temporal o definitiva, parcial o total, cuando se presente uno o más de los supuestos establecidos en el artículo 237 de esta Ley;
 
-IV. Decomiso o aseguramiento precautorio de ejemplares o especies de flora y fauna, incluyendo sus partes, productos, subproductos, objetos, materiales o substancias contaminantes, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar al decomiso; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Suspensión o revocación de las autorizaciones, concesiones, permisos o licencias otorgadas.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IV. Decomiso o aseguramiento precautorio de ejemplares o especies de flora y fauna, incluyendo sus partes, productos, subproductos, objetos, materiales o substancias contaminantes, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar al decomiso;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+V. Suspensión o revocación de las autorizaciones, concesiones, permisos o licencias otorgadas; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+VI. Trabajo a favor de la comunidad.
 
 El Reglamento de la Ley, establecerá el procedimiento para llevar a cabo lo dispuesto en la fracción V de éste Artículo, así como lo relativo al destino final de los elementos decomisados o asegurados que ahí se señalan.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+La autoridad ambiental competente podrá imponer la sanción de trabajo a favor de la comunidad en materias ambientales a través de su vinculación temporal en alguno de los programas, proyectos o actividades que dicha autoridad ambiental tenga en curso directamente o en convenio con otras autoridades u organizaciones sin fines de lucro.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+La sanción de trabajo a favor de la comunidad sólo podrá reemplazar la multa cuando el infractor no tenga los recursos económicos para cubrirla, pero podrá ser una medida complementaria en todos los casos, no pudiendo exceder ese trabajo de 36·treinta y seis horas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+La autoridad ambiental estará facultada para reglamentar dentro del ámbito de su competencia las actividades y procedimientos que conlleva la sanción de trabajo a favor de la comunidad en materia ambiental.
 
 Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción segunda de este Artículo.
 
@@ -3224,3 +3294,19 @@ P.O. 15 DE NOVIEMBRE DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- En un término que no exceda de sesenta días a partir de la entrada en vigor del presente Decreto, los Ayuntamientos realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con la presente reforma.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+DECRETO NÚMERO 124, POR EL QUE SE REFORMA EL ARTÍCULO 143; SE ADICIONA EL ARTÍCULO 3 CON UNA FRACCIÓN XXXVII, PASANDO LA ACTUAL XXXVII A SER XXXVIII RECORRIÉNDOSE LAS DEMÁS EN SU ORDEN, TODOS DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN.
+
+Primero.- El presente Decreto entrará en vigor a los noventa días siguientes de su Publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- En un término que no exceda de sesenta días a partir de la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con la presente reforma.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 127, POR EL QUE SE REFORMA LAS FRACCIONES IV Y V DEL SEGUNDO PARRAFO DEL ARTICULO 232; SE ADICIONA LA FRACCION VI DEL SEGUNDO PARRAFO; IGUALMENTE LOS PARRAFOS CUARTO, QUINTO Y SEXTO, RECORRIENDOSE LOS ACTUALES PARA SER SEPTIMO, OCTAVO Y NOVENO RESPECTIVAMENTE DEL ARTICULO 232 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEON.
+
+Primero.- El presente Decreto entrará en vigor hasta en tanto se reforme el Artículo 25 de la Constitución Política del Estado de Nuevo León a fin de incluir como sanción aplicable por infracciones administrativas el trabajo a favor de la comunidad.
+
+Segundo.- En un término que no exceda de noventa días a partir de la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con la presente reforma.
