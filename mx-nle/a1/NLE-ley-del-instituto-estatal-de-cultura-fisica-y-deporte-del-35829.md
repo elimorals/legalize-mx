@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-cultura-fisica-y-deporte-del-35829
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2008-10-29"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -501,9 +501,11 @@ El Instituto queda sometido a las reglas de contabilidad, presupuesto y gasto p�
 
 ### CAPÍTULO IV. DEL RÉGIMEN LABORAL
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 25.
 
-En los términos del Artículo 41 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, las relaciones laborales del Instituto con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
+La participación de personas y de representantes de agrupaciones o asociaciones de los sectores social, privado y académico en el Consejo de Participación Ciudadana, es honorífica, por lo que no tendrán el carácter de servidores públicos. Las relaciones laborales del Organismo con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
 
 T R A N S I T O R I O S
 
@@ -544,3 +546,7 @@ P.O. 29 DE OCTUBRE DE 2008.
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Dentro de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, se convocará al Consejo de Cultura Física y Deporte para designar al nuevo Presidente quien substituirá en dicha fecha al Presidente actual.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
