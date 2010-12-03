@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2010-10-29"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -437,9 +437,17 @@ VI. El Presidente del H. Tribunal Superior de Justicia del Estado;
 
 VII. El Presidente de la Comisión de Justicia y Seguridad Pública del H. Congreso del Estado;
 
-VIII. El Titular del Instituto Estatal de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-IX. Un Secretario Ejecutivo, quien será el servidor público que designe el Presidente del Consejo de Coordinación.
+VIII. El Titular del Instituto Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IX. El Presidente Ejecutivo del Consejo Ciudadano de Seguridad Pública del Estado de Nuevo León; y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+X. Un Secretario Ejecutivo, quien será el servidor público que designe el Presidente del Consejo de Coordinación.
 
 A invitación podrán asistir con voz y sin voto cualquier funcionario federal, estatal o municipal, persona física o representante de persona moral privada nacional o extranjera que por su experiencia, conocimiento, función, o pericia se considere procedente su asistencia.
 
@@ -3390,5 +3398,9 @@ Cuarto.- Se derogan las disposiciones contenidas en las Leyes, Reglamentos y dem
 Quinto.- El titular del Poder Ejecutivo del Estado y los Municipios, dispondrán de un término de hasta 180 días naturales para emitir las disposiciones reglamentarias correspondientes.
 
 P.O. 29 DE OCTUBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
