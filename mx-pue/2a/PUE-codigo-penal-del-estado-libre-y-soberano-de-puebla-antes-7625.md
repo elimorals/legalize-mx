@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2010-08-27"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -931,7 +931,7 @@ La sanción a los delincuentes habituales, será la que corresponda imponerles p
 
 ###### Artículo 99 Bis.
 
-en caso de que el error a que se refiere el inciso a) de la fracción XI del artículo 26 sea vencible, la punibilidad será la del delito culposo si el hecho de que se trata admite dicha forma de realización; si el error vencible es el previsto en el inciso b) de dicha fracción, la punibilidad será hasta de las dos terceras partes del delito de que se trate.
+En caso de que el error a que se refiere el inciso a) de la fracción XI del artículo 26 sea vencible, la punibilidad será la del delito culposo si el hecho de que se trata admite dicha forma de realización; si el error vencible es el previsto en el inciso b) de dicha fracción, la punibilidad será hasta de las dos terceras partes del delito de que se trate.
 
 CAPITULO DECIMONOVENO.- CONMUTACION DE SANCIONES
 
@@ -1867,7 +1867,7 @@ A las sanciones de que habla la presente sección, se podrá agregar, a juicio d
 
 #### SECCION PRIMERA.- ULTRAJES A LA MORAL PUBLICA
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 205.
 
@@ -1879,7 +1879,7 @@ Se impondrá multa de uno a diez días de salario, a las partes en un negocio ci
 
 #### SECCION SEGUNDA.- CORRUPCION Y PORNOGRAFIA DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 207.
 
@@ -1889,7 +1889,9 @@ Al que cometa un delito en contra de un funcionario público, empleado o agente 
 
 Los ultrajes hechos al Congreso del Estado, al Tribunal Superior de Justicia, o a un Cuerpo Colegiado de la Administración de Justicia o a cualquiera otra institución pública, se sancionarán con prisión de dos meses a dos años y multa de uno a cinco días de salario.
 
-#### SECCION TERCERA.- LENOCINIO Y TRATA DE PERSONAS
+#### SECCION TERCERA.- TURISMO SEXUAL DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 209.
 
@@ -1919,9 +1921,9 @@ Lo dispuesto en el artículo anterior se aplicará aunque las personas en él en
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-#### SECCION CUARTA.- PROVOCACION DE UN DELITO O APOLOGIA DE ESTE O DE ALGUN VICIO
+#### SECCION CUARTA.- LENOCINIO Y TRATA DE PERSONAS. (REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)
 
-### CAPITULO SEPTIMO.- DELITOS CONTRA LA MORAL PUBLICA; CONTRA DERECHOS DE MENORES, INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR Y CONTRA LA DIGNIDAD DE LA PERSONA
+### CAPITULO SEPTIMO.- DELITOS CONTRA LA DIGNIDAD Y EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
 ###### Artículo 213.
 
@@ -1943,39 +1945,43 @@ II.- Cuando se trate de cónyuges o de concubinos, sólo podrá procederse por q
 
 III.- La pena se impondrá, sin perjuicio de las sanciones que correspondan si se causa el contagio o algún otro daño o lesión, o de los que resultaren por la transmisión de una enfermedad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO OCTAVO.- VIOLACION DE SECRETOS
 
-#### SECCION QUINTA.- DISPOSICIONES COMUNES A LAS SECCIONES PRECEDENTES
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+#### SECCION QUINTA.- PROVOCACION DE UN DELITO O APOLOGIA DE ESTE O DE ALGUN VICIO. (REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)
 
 ###### Artículo 215.
 
-Al que ilegalmente fabricare, imprimiere, grabare, transportare, exhibiere, vendiere o hiciere circular por cualquier medio, imágenes, libros, revistas, escritos, fotografías, dibujos, carteles, videocintas, mecanismos u objetos lascivos, con implicaciones sexuales, se le aplicará prisión de treinta días a tres años y multa de diez a cien días de salario.
+Al que ilegalmente fabrique, imprima, grabe, transporte, exhiba, venda o haga circular por cualquier medio, imágenes, libros, revistas, escritos, fotografías, dibujos, carteles, videocintas, mecanismos u objetos lascivos, con implicaciones sexuales, se le aplicará prisión de treinta días a tres años y multa de diez a cien días de salario.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 216.
 
-La misma sanción establecida en el artículo anterior se impondrá a quien públicamente, en forma ilegal, ejecutare o hiciere ejecutar exhibiciones lascivas u obscenas.
+La misma sanción establecida en el artículo anterior se impondrá a quien públicamente, en forma ilegal, ejecute o haga ejecutar exhibiciones lascivas u obscenas.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2007)</small>
 
-#### SECCION PRIMERA.- RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION SEXTA.- DISPOSICIONES COMUNES A LAS SECCIONES PRECEDENTES. (ADICIONADO, P.O. 23 DE MARZO DE 2007) (REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)
 
 ###### Artículo 217.
 
-Comete el delito de corrupción de menores e incapaces o de personas que no pudieren resistir, quien con relación a un menor de dieciocho años de edad o de quien no tuviere la capacidad de comprender el significado de los hechos o de quien por la razón que fuere no pudiere oponer resistencia, obligue, procure, facilite, induzca, fomente, proporcione o favorezca las conductas siguientes:
+Comete el delito de corrupción de menores e incapaces o de personas que no puedan resistir, quien con relación a un menor de dieciocho años de edad o de quien no tuviere la capacidad de comprender el significado de los hechos o de quien por la razón que fuere no pueda oponer resistencia, obligue, procure, facilite, induzca, fomente, proporcione o favorezca las conductas siguientes:
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
 
 I.- A realizar actos de exhibicionismo sexual; al responsable de este delito se le impondrán de siete a doce años de prisión y multa de ochocientos a dos mil quinientos días de salario;
 
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
+
 II.- Al consumo habitual de bebidas alcohólicas o al consumo de enervantes, estupefacientes, psicotrópicos, sustancias tóxicas, sean médicas, vegetales o de otra naturaleza, determinadas en la Ley General de Salud, cuyo uso esté prohibido, controlado o que de acuerdo con la medicina genere alteración en el comportamiento normal; o el tráfico o comercio de dichas sustancias. Quien cometa este delito será sancionado de cinco a diez años de prisión y multa de quinientos a mil días de salario;
 
-III.- A practicar la mendicidad con fines de explotación; en este caso el responsable será sancionado con prisión de cuatro a nueve años y multa de cuatrocientos a novecientos días de salario; o
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+III.- Al que permita el acceso de un menor a espectáculos, obras gráficas o audio visual de carácter lascivo o sexual, se le impondrá prisión de tres a cinco años y multa de doscientos a mil doscientos días de salario; o
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
 
 IV.- A formar parte de una pandilla, de una asociación delictuosa o de delincuencia organizada, o a cometer cualquier delito; el responsable de este delito será sancionado con prisión de siete a doce años y multa de ochocientos a dos mil quinientos días de salario.
 
@@ -1987,49 +1993,53 @@ Al que emplee a menores de dieciocho años de edad o incapaces en cantinas, tabe
 
 Se entenderá como empleado al menor de dieciocho años de edad que por cualquier estipendio, gaje, emolumento o salario, la sola comida, cualquier comisión o gratuitamente preste sus servicios en los lugares antes citados.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
-
 ###### Artículo 218 Bis.
 
-Cuando un médico legalmente autorizado o institución de salud atiendan a un farmacodependiente menor de dieciocho años de edad que posea algún enervante, estupefaciente, psicotrópico o cualquier otra substancia tóxica y demás substancias o vegetales que determine la Ley General de Salud, cuyo uso esté prohibido o controlado; o que se encuentre bajo el influjo de las substancias antes descritas, deberá hacerlo del conocimiento del Ministerio Público y de las autoridades sanitarias a la brevedad posible, para los efectos legales correspondientes y para brindarles el tratamiento que corresponda.
+(DEROGADO, P.O. 3 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 219.
 
-Comete el delito de pornografía de menores e incapaces, quien con relación a una persona menor de dieciocho años de edad o de quien no tuviere capacidad de comprender el significado de los hechos o de quien por la razón que fuere no pudiere oponer resistencia, realice alguna de las siguientes conductas:
+El médico legalmente autorizado o institución de salud que atienda a un farmacodependiente menor de dieciocho años de edad que posea algún enervante, estupefaciente, psicotrópico o cualquier otra substancia tóxica y demás substancias o vegetales que determine la Ley General de Salud, cuyo uso esté prohibido o controlado; o que se encuentre bajo los efectos de las substancias antes descritas, deberá hacerlo del conocimiento del Ministerio Público y de las autoridades sanitarias de forma inmediata, para los fines legales correspondientes y para brindarle el tratamiento que corresponda.
 
-I.- Produzca imágenes o representaciones de exhibicionismo sexual, mediante fotografías, filmes, vídeos, o cualquier otro medio impreso, electrónico o producido por el avance tecnológico;
-
-II.- Realice materialmente la toma de filmes, vídeos o cualquier otro medio de obtención de las imágenes a que se refiere la fracción anterior;
-
-III.- Emplee, dirija, administre, supervise o participe de algún modo en los actos a que se refiere este artículo a título de propietario, de director, empresario o cualquier otro que implique la participación en los actos mencionados en esta disposición; o
-
-IV.- El que a sabiendas de que se trata de las personas a que se refiere este artículo reproduzca, venda, compre, rente, exponga, publicite, difunda o envíe por cualquier medio las imágenes señaladas en esta disposición.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 220.
 
-El delito a que se refiere el artículo anterior se sancionará con prisión de ocho a catorce años y multa de cien a mil doscientos días de salario.
+Comete el delito de pornografía de menores e incapaces, quien con relación a una persona menor de dieciocho años de edad o que carezca de la capacidad de comprender el significado de los hechos o de quien por la razón que fuere no pudiere oponer resistencia, realice alguna de las siguientes conductas:
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+I. Procure, promueva, obligue, publicite, gestione, facilite o induzca, por cualquier medio, a realizar actos sexuales o de exhibicionismo corporal con fines lascivos o sexuales, reales o simulados, con el objeto de video grabarlos, audio grabarlos, fotografiarlos, filmarlos, exhibirlos o describirlos a través de anuncios impresos, sistemas de cómputo, o cualquier otro medio impreso, electrónico o producido por el avance tecnológico;
+
+II. Fije, imprima, video grabe, audio grabe, fotografié, filme o describa actos de exhibicionismo corporal, lascivos o sexuales, reales o simulados, a que se refiere la fracción anterior;
+
+III. Emplee, dirija, administre, supervise o participe de algún modo en los actos a que se refiere este artículo a título de propietario, de director, empresario o cualquier otro que implique la participación en los actos mencionados en esta disposición; o
+
+IV. El que a sabiendas de que se trata de las personas a que se refiere este artículo financie, elabore, reproduzca, venda, compre, rente, almacene, distribuya, comercialice, arriende, exponga, publicite, o difunda por cualquier medio las imágenes señaladas en esta disposición.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 221.
 
-La posesión de una o más fotografías, filmes, vídeos o cualquier otro medio impreso o electrónico, que contenga imágenes de las que se refiere el artículo 219, se sancionará con prisión de uno a cinco años y multa de cien a quinientos días de salario, siempre y cuando se demuestre que el poseedor tenía conocimiento de que las imágenes son de las personas a que se refiere el artículo 219 del presente Código.
+El delito a que se refiere el artículo anterior se sancionará con prisión de ocho a catorce años y multa de cien a mil doscientos días de salario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 222.
 
-(DEROGADO, P.O. 23 DE MARZO DE 2007)
+La posesión de una o más fotografías, filmes, videos o cualquier otro medio impreso o electrónico, que contenga imágenes de las que se refiere el artículo 220, se sancionará con prisión de uno a cinco años y multa de cien a quinientos días de salario, siempre y cuando se demuestre que el poseedor tenía conocimiento de que las imágenes son de las personas a que se refiere el artículo 220 del presente Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 223.
 
-(DEROGADO, P.O. 23 DE MARZO DE 2007)
+No constituyen pornografía los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto contenido sexual, sobre la función reproductiva, de infecciones de transmisión sexual y embarazo de adolescentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 224.
 
-(DEROGADO, P.O. 23 DE MARZO DE 2007)
+Al que almacene, preste o envíe, el material a que se refiere el artículo 222, sin fines de comercialización o distribución, se le impondrán de uno a cinco años de prisión y multa de cien a quinientos días de salario.
 
 ###### Artículo 224 Bis.
 
@@ -2043,77 +2053,93 @@ La posesión de una o más fotografías, filmes, vídeos o cualquier otro medio 
 
 (DEROGADO, P.O. 23 DE MARZO DE 2007)
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+#### SECCION PRIMERA.- RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+###### Artículo 225.
+
+A quien promueva, publicite, facilite, gestione o por cualquier medio invite a personas a viajar a cualquier destino, con el propósito de realizar o presenciar actos sexuales con menores de dieciocho años de edad o con personas que no tuvieren la capacidad de comprender el significado de los hechos o que por alguna razón no pudieren oponer resistencia, se le impondrá una pena de siete a doce años de prisión y multa de ochocientos a dos mil días de salario.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION SEGUNDA.- RESPONSABILIDAD MEDICA
 
 > <small>(F. DE E. PRIMER PARRAFO, P.O. 6 DE ENERO DE 1987)</small>
 
-###### Artículo 225.
-
-A quien promueva, publicite, facilite, gestione o por cualquier medio invite a personas a viajar a cualquier destino, con el propósito de que tengan relaciones sexuales con menores de dieciocho años de edad o con personas que no tuvieren la capacidad de comprender el significado de los hechos o que por alguna razón no pudieren oponer resistencia, se le impondrá una pena de siete a doce años de prisión y multa de ochocientos a dos mil días de salario.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2007)</small>
-
-#### SECCION TERCERA.- RESPONSABILIDAD TECNICA
-
 ###### Artículo 226.
 
 Comete el delito de lenocinio:
 
-I.- El que explote el cuerpo de otro por medio del comercio carnal y obtenga con esa explotación un lucro cualquiera;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
+I.- Quien obtenga una ventaja económica u otro beneficio procedente del comercio sexual de otra persona mayor de edad; y
 
-II.- El que induzca, solicite o entregue en forma gratuita u onerosa a una persona para que otra comercie sexualmente con su cuerpo o le facilite los medios para que se dedique a la prostitución;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
+II.- El que regentee personas o establecimientos, con el consentimiento de aquéllas, con la finalidad de que ejerzan la prostitución, obteniendo cualquier beneficio o lucro.
 
-III.- El que regentee, administre, sostenga o establezca prostíbulos, casas de citas o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio con sus productos;
+III.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
+IV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
 
-IV.- El que transporte al Estado de Puebla, o lleve fuera de este Estado, a personas dedicadas a la prostitución; y
+V.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2007)</small>
-
-V.- El que por medio de la amenaza, el uso de la fuerza u otras formas de intimidación, como el rapto, la entrega de dinero, el fraude, el engaño, abuso de poder o el aprovechamiento de la situación de vulnerabilidad, obligue a una persona a permanecer bajo su mando para que se dedique a la prostitución u otras formas de explotación sexual.
+(REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)
 
 ###### Artículo 227.
 
 El lenocinio se sancionará con prisión de seis a diez años y multa de cincuenta a quinientos días de salario.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
-
-Si el delito se comete respecto de personas menores de dieciocho años de edad o con personas que no tuvieren la capacidad de comprender el significado de los hechos, o que por alguna razón no pudieren oponer resistencia, el delito se sancionará con prisión de ocho a quince años y multa de mil a dos mil quinientos días de salario.
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 227 Bis.
 
-Comete el delito de trata de personas quien promueva, facilite, consiga, traslade, entregue o reciba a una persona para someterla a cualquier forma de explotación, ya sea sexual o de servicios impuestos, o para que le sean extirpados cualquiera de sus órganos, tejidos o sus componentes dentro o fuera del territorio del Estado. Al responsable de este delito se le impondrán de cuatro a nueve años de prisión y multa de cuatrocientos a novecientos días de salario.
+(DEROGADO, P.O. 3 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 228.
 
-Si el delincuente fuera ascendiente, descendiente, cónyuge, hermano, tutor, curador o estuviese encargado de la persona explotada, la sanción será de siete a quince años de prisión, sin perjuicio de la multa, y el reo será privado de todo derecho sobre la persona y bienes de aquélla e inhabilitado, en todo caso, para desempeñar la patria potestad, tutela, curatela o cualesquiera otro cargo similar.
+Comete el delito de trata de personas quien consiga, induzca, procure, promueva, facilite, reclute, solicite, mantenga, capte, ofrezca, traslade, transporte, entregue o reciba, para sí o para un tercero a una persona, por medio de violencia física o psicológica, privación de la libertad, engaño, abuso de poder, aprovechamiento de una situación de vulnerabilidad, del otorgamiento o recepción de pagos o beneficios económico o en especie, para someterla a explotación.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+Se entenderá por explotación, el obtener de una persona cualquier tipo de provecho o beneficio para sí o para otro. La explotación puede ser sexual, incluyendo la prostitución ajena; laboral mediante trabajos o servicios forzados, la esclavitud o prácticas similares; la servidumbre o la mendicidad ajena; o la extracción de órganos, tejidos o componentes del cuerpo.
+
+Cuando este delito sea cometido en contra de personas menores de dieciocho años de edad, o de quien no tenga la capacidad para comprender el significado del hecho o para resistirlo, no se requerirá acreditación de los medios comisivos.
+
+El consentimiento otorgado por la víctima en cualquier modalidad de trata de personas, no constituirá causa de exclusión del delito.
+
+En todos los casos, el Juez y el Ministerio Público acordarán las medidas para impedir que el sujeto activo tenga cualquier tipo de contacto o relación con la víctima.
+
+En los procesos por el delito de Trata de Personas, el procedimiento será reservado y los datos personales de las partes tendrán el carácter de confidencial, sin publicación de ninguna de las constancias de autos, y el juzgador tendrá la obligación de tomar en consideración las circunstancias de vulnerabilidad de la víctima.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 228 Bis.
 
-Las sanciones que señalan los artículos 227 y 228 se duplicarán si la persona explotada es menor de dieciséis años.
+Al responsable del delito de Trata de Personas se le impondrá de seis a quince años de prisión y multa de dos mil a quince mil días de salario.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 228 Ter.
+
+La sanción que señala el artículo anterior se duplicará si la persona explotada es menor de dieciocho años, o de quien no tenga la capacidad para comprender el significado del hecho o para resistir la conducta.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+#### SECCION TERCERA.- RESPONSABILIDAD TECNICA
 
 #### SECCION PRIMERA.- FALSIFICACION DE ACCIONES, OBLIGACIONES Y OTROS DOCUMENTOS DE CREDITO PUBLICO
-
-#### SECCION SEGUNDA.- FALSIFICACION DE SELLOS, MARCAS Y PUNZONES
 
 ###### Artículo 229.
 
 El que públicamente provoque a cometer un delito o haga apología de éste, o de algún vicio, o de quienes lo cometan, será sancionado con prisión de quince días a seis meses y multa de tres a treinta días de salario, si el delito no se ejecutare. En caso contrario, se impondrá al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-#### SECCION TERCERA.- FALSIFICACION DE DOCUMENTOS EN GENERAL
+#### SECCION SEGUNDA.- FALSIFICACION DE SELLOS, MARCAS Y PUNZONES
 
 ###### Artículo 229 Bis.
 
@@ -2121,37 +2147,39 @@ Los delitos a que se refieren las secciones anteriores serán sancionados en tod
 
 En caso de existir derechos sobre las víctimas, se perderá la patria potestad sobre éstas y sobre los demás descendientes, el derecho a los alimentos, el derecho a heredar y serán inhabilitados para ser tutores o curadores.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+(REUBICADO Y REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)
 
 ###### Artículo 229 Ter.
 
-Podrá aumentarse la sanción de los delitos a que se refieren las secciones anteriores hasta su duplicidad, si el victimario tiene respecto de la víctima alguna de las siguientes condiciones:
+La sanción de los delitos a que se refieren las secciones anteriores se aumentarán hasta en una tercera parte si el victimario tiene respecto de la víctima alguna de las siguientes condiciones:
 
-I.- Sea pariente por consanguinidad, afinidad o civil;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-II.- Sea ministro del culto religioso que profesa la víctima;
+I.- Sea pariente por consanguinidad, afinidad o civil; sea tutor, curador o tenga alguna representación sobre la víctima; tenga alguna relación similar al parentesco o una relación sentimental o de confianza; o habite en el mismo domicilio de la víctima;
 
-III.- Sea profesor, educador, entrenador o consejero;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-IV.- Ejerza influencia moral, física, psicológica o económica;
+II.- Ejerza influencia moral, física, psicológica o económica en la víctima.
 
-V.- Habite en el mismo domicilio aunque no exista parentesco alguno;
+III.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
 
-VI.- Sea tutor, curador o contar con cualquier representación sobre la víctima; y
+IV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
 
-VII.- Que por una situación de hecho o de derecho tenga la custodia sobre la víctima.
+V.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+VI.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
+
+VII.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADO Y REUBICADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 229 Quáter.
 
-Si los delitos a que se refieren las Secciones anteriores de este Capítulo son cometidos por quienes desempeñan una función pública, la sanción que les corresponda podrá agravarse de tres días a dos años de prisión y serán sancionados además con la destitución del empleo, cargo o comisión pública y la inhabilitación para desempeñar o ejercer otro hasta por doce años.
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+Si el sujeto activo de los delitos a que se refieren las secciones anteriores de este Capítulo, se vale de la función pública que tuviere o se ostente como tal sin tenerla, la sanción que les corresponda deberá agravarse de dos a cuatro años de prisión y serán sancionados además con la destitución del empleo, cargo o comisión pública y la inhabilitación para desempeñar o ejercer otro, de diez a veinte años.
 
 ###### Artículo 229 Quinquies.
 
-Además del decomiso de los objetos, instrumentos y productos del delito, al que por cualquiera que fuera el medio, fije, grabe, imprima, promueva, arriende, transmita, venda, publique, distribuya, exhiba y difunda; transporte o posea con algunos de estos fines, material pornográfico de menores, incapaces o personas que no pudieren resistir, se le impondrá prisión de ocho a catorce años y multa de cien a mil doscientos días de salario.
+(DEROGADO, P.O. 3 DE DICIEMBRE DE 2010)
 
 ### CAPITULO NOVENO.- RESPONSABILIDAD PROFESIONAL
 
@@ -2177,7 +2205,7 @@ Ninguna autoridad podrá exigir la revelación de los secretos a que se refiere 
 
 ### CAPITULO DECIMO.- FALSEDAD
 
-#### SECCION CUARTA.- FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
+#### SECCION TERCERA.- FALSIFICACION DE DOCUMENTOS EN GENERAL
 
 ###### Artículo 234.
 
@@ -2229,7 +2257,7 @@ II.- Por abandonar la defensa de un cliente o la atención de un negocio sin mot
 
 Los Defensores Públicos que sin causa justificada incurrieren en los hechos expresados en esta sección, aparte de las sanciones ya señaladas, serán destituidos de sus cargos.
 
-#### SECCION QUINTA.- OCULTACION O VARIACION DE NOMBRE O DOMICILIO
+#### SECCION CUARTA.- FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
 
 ###### Artículo 239.
 
@@ -2279,21 +2307,19 @@ Las sanciones a que se refiere el artículo anterior son independientes de las q
 
 En los casos previstos en los anteriores artículos de esta sección, además de las sanciones establecidas por ellos, sean intencionales o por imprudencia los delitos, de que se trate, se impondrá a los responsables, suspensión de un mes a tres años en el ejercicio de la profesión o definitiva en caso de reincidencia.
 
-#### SECCION SEXTA.- USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1995)</small>
+#### SECCION QUINTA.- OCULTACION O VARIACION DE NOMBRE O DOMICILIO
 
 ###### Artículo 244.
 
 A los ingenieros, arquitectos, agrónomos, veterinarios, maestros de obras y, en general, todos los que se dediquen al ejercicio de una profesión, arte o actividad técnica, que con motivo de ese ejercicio causen daños indebidos, además de la sanción por éstos, según sean intencionales o imprudenciales, se les aplicará la establecida en el artículo 243.
 
-#### SECCION SEPTIMA.- DISPOSICION COMUN A LOS CAPITULOS PRECEDENTES
+#### SECCION SEXTA.- USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MARZO DE 1995)</small>
 
 ### CAPITULO UNDECIMO.- DELITOS SEXUALES
 
-#### SECCION PRIMERA.- ATAQUES AL PUDOR
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION SEPTIMA.- DISPOSICION COMUN A LOS CAPITULOS PRECEDENTES
 
 ###### Artículo 245.
 
@@ -2323,7 +2349,7 @@ Las mismas penas se impondrán, a quien utilice indebidamente información confi
 
 Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad.
 
-En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
+En caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
 
 ###### Artículo 246.
 
@@ -2333,9 +2359,9 @@ Si el infractor fuere funcionario o empleado público, además de las sanciones 
 
 En los supuestos previstos por el artículo 245, si el infractor fuere abogado, se le inhabilitará para el ejercicio de su profesión hasta por doce años y, en su caso, para ejercer la función notarial si fuese Notario.
 
-#### SECCION SEGUNDA.- ESTUPRO
+#### SECCION PRIMERA.- ATAQUES AL PUDOR
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 248.
 
@@ -2367,9 +2393,9 @@ VII.- Al que procurándose los verdaderos sellos, punzones, marcas y demás obje
 
 VIII.- Al que, a sabiendas, hiciere uso de llaves, sellos, marcas y demás objetos expresados en las fracciones I y III de este artículo.
 
-#### SECCION TERCERA.- VIOLACION
+#### SECCION SEGUNDA.- ESTUPRO
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 250.
 
@@ -2423,7 +2449,9 @@ V.- El que haga uso de una certificación verdadera expedida para otro, como si 
 
 VI.- El que, a sabiendas, hiciere uso de un documento falso, sea público o privado.
 
-#### SECCION CUARTA.- RAPTO
+#### SECCION TERCERA.- VIOLACION
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 254.
 
@@ -2449,7 +2477,7 @@ En el supuesto previsto por la fracción II del artículo 254, la sanción podr�
 
 El testigo, el perito o el intérprete que se retracten espontáneamente de sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las dieron, sólo pagarán una multa de uno a diez días de salario; pero si faltaren a la verdad al retractarse de sus declaraciones, se les aplicará la sanción que corresponda conforme a esta sección, considerándolos como reincidentes.
 
-#### SECCION QUINTA.- DISPOSICION COMUN AL ESTUPRO, VIOLACION Y RAPTO
+#### SECCION CUARTA.- RAPTO
 
 ###### Artículo 257.
 
@@ -2461,9 +2489,7 @@ II.- Al que, para eludir la práctica de una diligencia decretada por una autori
 
 III.- Al funcionario o empleado público, que en los actos propios de su cargo, atribuyere a una persona título o nombre, a sabiendas de que no le pertenecen.
 
-#### SECCION SEXTA.- HOSTIGAMIENTO Y ACOSO SEXUAL
-
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
+#### SECCION QUINTA.- DISPOSICION COMUN AL ESTUPRO, VIOLACION Y RAPTO
 
 ###### Artículo 258.
 
@@ -2485,7 +2511,9 @@ IV.- Al que preste servicios privados de seguridad o se ostente como prestador d
 
 Para los efectos del presente ordenamiento, se considerará como Servidor Público, al Notario que cuente con la Patente en Ejercicio; incluyendo a su Auxiliar o Substituto según sea el caso.
 
-#### SECCION PRIMERA.- DELITOS CONTRA EL ESTADO CIVIL
+#### SECCION SEXTA.- HOSTIGAMIENTO Y ACOSO SEXUAL
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 259.
 
@@ -2493,7 +2521,7 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 ### CAPITULO DUODECIMO.- DELITOS CONTRA LA FAMILIA
 
-#### SECCION SEGUNDA.- BIGAMIA
+#### SECCION PRIMERA.- DELITOS CONTRA EL ESTADO CIVIL
 
 ###### Artículo 260.
 
@@ -2525,9 +2553,7 @@ III.- Cuando el sujeto pasivo sea mayor de doce años y el delito se ejecute con
 
 El delito de ataques al pudor se considerará siempre como delito consumado y se perseguirá a petición de parte, salvo que el sujeto pasivo estuviere en alguno de los supuestos previstos en la fracción II del artículo 261, en cuyo caso se perseguirá de oficio.
 
-#### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+#### SECCION SEGUNDA.- BIGAMIA
 
 ###### Artículo 264.
 
@@ -2545,9 +2571,9 @@ Cuando la persona estuprada fuere menor de quince años de edad se presumirá la
 
 No se procederá contra el estuprador, sino por queja del ofendido, de sus padres o a falta de éstos, de sus representantes.
 
-#### SECCIÓN CUARTA. VIOLENCIA FAMILIAR
+#### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 267.
 
@@ -2625,9 +2651,9 @@ III.- La introducción en una persona, por vía anal o vaginal, de cualquier obj
 
 En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de ocho a cuarenta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267.
 
-#### SECCION PRIMERA.- AMENAZAS
+#### SECCIÓN CUARTA. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 273.
 
@@ -2649,9 +2675,9 @@ No se procederá contra el raptor, sino por queja de la mujer ofendida; pero si 
 
 Cuando el rapto vaya acompañado de otro delito perseguible de oficio, sí se procederá contra el raptor, por este último, aunque no haya queja de la ofendida.
 
-#### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
+#### SECCION PRIMERA.- AMENAZAS
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 278.
 
@@ -2659,7 +2685,9 @@ La reparación del daño en los casos de estupro, violación o rapto comprender�
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 23 DE MARZO DE 2007)</small>
 
-#### SECCION TERCERA.- ASALTO Y ATRACO
+#### SECCION SEGUNDA.- ALLANAMIENTO DE MORADA
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 278 Bis.
 
@@ -2699,17 +2727,17 @@ Si el sujeto pasivo del delito de acoso sexual es menor de dieciocho años de ed
 
 En los supuestos a que se refiere el artículo anterior, los delitos se perseguirán de oficio. En los demás casos se procederá contra el responsable a petición de parte ofendida.
 
+#### SECCION TERCERA.- ASALTO Y ATRACO
+
 #### SECCION CUARTA.- PRIVACION ILEGAL DE LIBERTAD
-
-#### SECCION QUINTA.- PLAGIO Y SECUESTRO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2003)</small>
 
 ### CAPITULO VIGESIMO.- DELITOS ELECTORALES
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 21 DE FEBRERO DE 1995)</small>
 
-#### SECCION PRIMERA.- LESIONES
+#### SECCION QUINTA.- PLAGIO Y SECUESTRO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 279.
 
@@ -2733,9 +2761,7 @@ VIII.- Usurpar el estado civil de otro con el fin de adquirir derechos de famili
 
 Además de las sanciones indicadas, el delincuente perderá todo derecho de heredar que tuviere respecto de las personas a quienes, por la comisión del delito, perjudique en sus derechos de familia.
 
-#### SECCION SEGUNDA.- HOMICIDIO
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+#### SECCION PRIMERA.- LESIONES
 
 ###### Artículo 280.
 
@@ -2753,7 +2779,9 @@ A los testigos y a las personas que intervengan en la celebración del nuevo mat
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-#### SECCION TERCERA.- LESIONES Y HOMICIDIOS TUMULTUARIOS
+#### SECCION SEGUNDA.- HOMICIDIO
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 283.
 
@@ -2791,7 +2819,7 @@ Las mismas sanciones se impondrán a los terceros que recibieren al menor y a la
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION CUARTA.- REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+#### SECCION TERCERA.- LESIONES Y HOMICIDIOS TUMULTUARIOS
 
 ###### Artículo 284 Bis.
 
@@ -2801,7 +2829,7 @@ Comete el delito de violencia familiar el cónyuge; la cónyuge; concubino; conc
 
 A quien cometa el delito de violencia familiar, se le impondrán de uno a seis años de prisión y multa de cincuenta a ciento cincuenta días de salario; y estará sujeto a tratamiento integral para su rehabilitación por un tiempo que no rebase la sanción privativa de la libertad que se haya impuesto, así como la pérdida de la patria potestad, de los derechos hereditarios y de alimentos.
 
-La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y de la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
+La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
 
 (ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003
 
@@ -2845,7 +2873,7 @@ Si en los casos previstos en el artículo anterior se cometiere otro delito, se 
 
 CAPITULO DECIMOCUARTO.- DELITOS CONTRA LA PAZ, LA SEGURIDAD Y LAS GARANTIAS DE LAS PERSONAS
 
-#### SECCION QUINTA.- INDUCCION Y AUXILIO AL SUICIDIO
+#### SECCION CUARTA.- REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ###### Artículo 290.
 
@@ -2873,9 +2901,7 @@ II.- Si exigió que el amenazado cometiera un delito, se acumulará a la sanció
 
 III.- Si lo que exigió fue que el amenazado dejara de ejecutar un acto lícito, se le impondrá el doble de la sanción correspondiente a la amenaza.
 
-#### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+#### SECCION QUINTA.- INDUCCION Y AUXILIO AL SUICIDIO
 
 ###### Artículo 293.
 
@@ -2883,9 +2909,9 @@ Al que sin motivo justificado, sin orden de autoridad competente y fuera de los 
 
 En el delito de allanamiento de morada será necesaria la formulación de la querella de la parte ofendida.
 
-#### SECCION SEPTIMA.- HOMICIDIO O LESIONES EN ESTADO DE EMOCION VIOLENTA
+#### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 294.
 
@@ -2911,7 +2937,9 @@ Si los delitos a que se refieren los artículos 294 y 295, se realizaren de noch
 
 Cuando dos o más salteadores atacaren una población, se impondrán de quince a cincuenta años de prisión a los cabecillas o jefes, y de doce a cuarenta años a los demás, sin perjuicio de aplicar las reglas de acumulación por cualesquiera otros delitos que resultaren cometidos.
 
-#### SECCION OCTAVA.- ABORTO
+#### SECCION SEPTIMA.- HOMICIDIO O LESIONES EN ESTADO DE EMOCION VIOLENTA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 1994)</small>
 
 ###### Artículo 299.
 
@@ -2931,7 +2959,7 @@ Si la detención a que se refiere la fracción I del artículo anterior, excedie
 
 Se impondrá prisión de dos a seis años y multa de diez a cien días de salario, al que obligue a otro a prestarle trabajos o servicios personales sin la debida retribución, ya sea empleando violencia física o moral o valiéndose del engaño, de la intimidación o de cualquier otro medio.
 
-#### SECCION PRIMERA.- ATAQUES PELIGROSOS
+#### SECCION OCTAVA.- ABORTO
 
 ###### Artículo 302.
 
@@ -2989,13 +3017,11 @@ Para efectos de la fracción V del artículo 302, comete el delito de robo de in
 
 CAPITULO DECIMOQUINTO.- DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
+#### SECCION PRIMERA.- ATAQUES PELIGROSOS
+
 #### SECCION SEGUNDA.- ABANDONO DE PERSONAS
 
 #### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS
-
-#### SECCION SEGUNDA.- DIFAMACION
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 305.
 
@@ -3081,9 +3107,9 @@ Si las lesiones fueren inferidas en riña, se impondrán al responsable como san
 
 Al que infiera lesiones calificadas se les impondrán las sanciones correspondientes a las lesiones simples, aumentadas hasta en un tercio más de su duración, por la concurrencia de cada una de las circunstancias previstas en el artículo 323.
 
-#### SECCION TERCERA.- CALUMNIA
+#### SECCION SEGUNDA.- DIFAMACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 312.
 
@@ -3131,9 +3157,9 @@ Al responsable de cualquier homicidio simple intencional y que no tenga señalad
 
 Cuando el homicidio se cometiere en riña o duelo, se impondrá al responsable una sanción de dos a nueve años de prisión, si es el provocado y de cinco a doce años, si es el provocador.
 
-#### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+#### SECCION TERCERA.- CALUMNIA
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 318.
 
@@ -3159,7 +3185,9 @@ III.- Cuando las lesiones sean unas mortales y otras no y se ignorare quiénes i
 
 IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda determinar quiénes las infirieron, se impondrán de tres a ocho años de prisión a todos los que hubieren atacado al occiso con armas a propósito para causarle esas lesiones.
 
-#### SECCION PRIMERA.- ROBO
+#### SECCION CUARTA.- DISPOSICIONES COMUNES PARA LOS CAPITULOS PRECEDENTES
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 321.
 
@@ -3219,9 +3247,7 @@ Al responsable de un homicidio calificado, se le impondrá de veinte a cincuenta
 
 De las lesiones que a una persona cause algún animal, será responsable el que con esa intención lo azuce, o lo suelte o haga esto último por descuido.
 
-#### SECCION SEGUNDA.- ROBO DE GANADO, DE INSTRUMENTOS DE LABRANZA O DE FRUTOS
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+#### SECCION PRIMERA.- ROBO
 
 ###### Artículo 333.
 
@@ -3239,7 +3265,9 @@ El que pudiendo impedir un suicidio, no lo impida o no lo evite, o impidiere que
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE JULIO DE 1994)</small>
 
-#### SECCION TERCERA.- ABUSO DE CONFIANZA
+#### SECCION SEGUNDA.- ROBO DE GANADO, DE INSTRUMENTOS DE LABRANZA O DE FRUTOS
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 336.
 
@@ -3257,7 +3285,7 @@ Al que cometa el delito a que se refiere el artículo que antecede, se le impond
 
 Sí la víctima fuere mujer, se aumentará de uno a tres años de las sanciones que correspondan imponer, conforme a los artículos 316, 331 y 337.
 
-#### SECCION CUARTA.- FRAUDE
+#### SECCION TERCERA.- ABUSO DE CONFIANZA
 
 ###### Artículo 338.
 
@@ -3267,7 +3295,7 @@ I.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
 
 II.- (DEROGADA, P.O. 1 DE JULIO DE 1994)
 
-#### SECCION QUINTA.- DESPOJO
+#### SECCION CUARTA.- FRAUDE
 
 ###### Artículo 339.
 
@@ -3307,11 +3335,9 @@ IV.- Cuando el aborto se deba a causas eugenésicas graves, según dictamen que 
 
 CAPITULO DECIMOSEXTO.- DELITOS DE PELIGRO
 
+#### SECCION QUINTA.- DESPOJO
+
 #### SECCION SEXTA.- DAÑO EN PROPIEDAD AJENA
-
-#### SECCION SEPTIMA.- CHANTAJE
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 344.
 
@@ -3321,7 +3347,9 @@ Se aplicará de tres días a dos años de prisión y multa de tres a treinta dí
 
 Si a consecuencia de los actos a que se refiere el artículo anterior se causare algún daño, solamente se impondrán las sanciones del delito que resultare.
 
-#### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
+#### SECCION SEPTIMA.- CHANTAJE
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 346.
 
@@ -3369,9 +3397,9 @@ Si en los supuestos previstos por los artículos que forman esta sección, se ca
 
 CAPITULO DECIMOSEPTIMO.- DELITOS CONTRA EL HONOR
 
-#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
+#### SECCION OCTAVA.- REGLA COMUN A VARIAS SECCIONES ANTERIORES
 
-#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
+#### SECCION PRIMERA.- EJERCICIO INDEBIDO O ABANDONO DE FUNCIONES PUBLICAS
 
 ###### Artículo 355.
 
@@ -3381,7 +3409,7 @@ Se impondrá de tres meses a tres años de prisión y multa de cinco a cincuenta
 
 Son simples los golpes y las violencias físicas que no causen lesión en el ofendido.
 
-#### SECCION TERCERA.- DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
+#### SECCION SEGUNDA.- ABUSO DE AUTORIDAD O INCUMPLIMIENTO DE UN DEBER LEGAL
 
 ###### Artículo 357.
 
@@ -3411,7 +3439,7 @@ III.- Al autor de un escrito o de un alegato, presentado en los tribunales, que 
 
 Lo prevenido en la fracción última del artículo anterior, no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o contenga hechos que no se relacionan con el negocio de que se trata. Si así fuere, se aplicarán las sanciones de la difamación o de la calumnia.
 
-#### SECCION CUARTA.- COHECHO
+#### SECCION TERCERA.- DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
 
 ###### Artículo 362.
 
@@ -3435,7 +3463,7 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 
 Cuando haya pendiente un juicio en averiguación de un delito imputado a alguien y se haya acusado de calumnia al denunciante o querellante, se suspenderá el ejercicio de la acción de calumnia, hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
 
-#### SECCION QUINTA.- PECULADO
+#### SECCION CUARTA.- COHECHO
 
 ###### Artículo 366.
 
@@ -3477,7 +3505,7 @@ II.- Si la infracción se comete por medio de algún periódico, se aplicará lo
 
 CAPITULO DECIMOCTAVO.- DELITOS CONTRA LAS PERSONAS EN SU PATRIMONIO
 
-#### SECCION SEXTA.- CONCUSION
+#### SECCION QUINTA.- PECULADO
 
 ###### Artículo 373.
 
@@ -3653,7 +3681,7 @@ El robo o destrucción de un título de crédito o de un documento original, en 
 
 Al que se le imputare el hecho de haber tomado una cosa ajena y acredite haberla tomado con carácter temporal para su uso, se le aplicarán de uno a seis meses de prisión, si no se negó a devolverla cuando se le requirió para ello.
 
-#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
+#### SECCION SEXTA.- CONCUSION
 
 ###### Artículo 390.
 
@@ -3699,7 +3727,7 @@ III.- Con prisión de tres a ocho años y multa de quince a ciento cincuenta dí
 
 Para la aplicación de las sanciones previstas en los artículos anteriores de esta sección, los jueces y tribunales tendrán en cuenta, además de las reglas generales consignadas en los artículos 72 a 75, la importancia del daño causado, en relación con las condiciones económicas del ofendido.
 
-#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
+#### SECCION SEPTIMA.- ENRIQUECIMIENTO ILICITO
 
 ###### Artículo 396.
 
@@ -3717,7 +3745,7 @@ II.- El hecho de que una persona haga aparecer, como suyo, un depósito que gara
 
 ###### Artículo 398.
 
-No se sancionará como abuso de confianza, la simple retención de la cosa recibida, cuando no se haga con el fin de apropiársela, o disponer de ella como dueño. Se sancionará como abuso de confianza la retención de la cosa recibida, por quien, requerido judicial o notarialmente, se oponga sin causa legal a entregarla a quien legítimamente le corresponde.
+No se sancionará como abuso de confianza, la simple retención de la cosa recibida, cuando no se haga con el fin de apropiársela, o disponer de ella como dueño. Se sancionará como abuso de confianza la retención de la cosa recibida, por quien, requerido judicial o notarialmente se oponga sin causa legal a entregarla a quien legítimamente le corresponde.
 
 ###### Artículo 399.
 
@@ -3737,7 +3765,7 @@ Cuando el delito previsto en esta Sección, se cometa en perjuicio de cooperativ
 
 En el supuesto previsto en el artículo anterior, si el autor del delito repara el daño, antes de dictarse sentencia condenatoria, la sanción será de dos a cinco años de prisión y multa de treinta a trescientos días de salario.
 
-#### SECCION NOVENA.- REGLAS GENERALES
+#### SECCION OCTAVA.- TRAFICO DE INFLUENCIA
 
 ###### Artículo 402.
 
@@ -3877,13 +3905,11 @@ Para efectos de este artículo se entenderá que existe captación de recursos d
 
 Cuando el delito previsto en esta sección, se cometa en perjuicio de cooperativas, sociedades o agrupaciones en que estén interesados obreros, campesinos o indígenas, la sanción será de cuatro a diez años de prisión y multa de cincuenta a trescientos días de salario.
 
+#### SECCION NOVENA.- REGLAS GENERALES
+
 #### SECCION UNICA
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1995)</small>
-
-#### SECCION UNICA
-
-> <small>(ADICIONADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 408.
 
@@ -3904,6 +3930,10 @@ Lo dispuesto en los dos artículos anteriores, se aplicará aun cuando la posesi
 ###### Artículo 411.
 
 A las sanciones señaladas en los artículos anteriores, se aumentarán las que correspondan por la violencia, la amenaza o por cualquier otro delito que resultare cometido.
+
+#### SECCION UNICA
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 1997)</small>
 
 ###### Artículo 412.
 
@@ -4672,6 +4702,12 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE AGOSTO DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2010.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
