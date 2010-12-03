@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2009-03-20"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
+LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -145,7 +145,7 @@ IV.- La instalación, montaje, colocación o aplicación, incluyendo las pruebas
 
 V.- Los demás de naturaleza análoga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 4.
 
@@ -181,7 +181,7 @@ IX.- Los estudios de apoyo tecnológico, incluyendo los de desarrollo y transfer
 
 X.- Todos aquellos de naturaleza análoga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### ARTÍCULO 6.
 
@@ -207,7 +207,7 @@ De igual manera tratándose de obras públicas y servicios que con ella se relac
 
 En los Convenios a que se refiere este artículo se establecerán los términos, condiciones y mecanismos para la adecuada coordinación, supervisión y control de las obras públicas y servicios que con ellas se relacionen, que deban realizar las dependencias y entidades Estatales o Municipales.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 9.
 
@@ -255,9 +255,19 @@ II.- Las obras principales, las de infraestructura, las complementarias y acceso
 
 III.- La coordinación con otras dependencias y entidades que realicen obras en las mismas áreas de que se trate;
 
-IV.- Los avances tecnológicos, aplicables en función de la naturaleza de las obras y la selección de materiales, productos, equipos y procedimientos de tecnología nacional que satisfagan los requerimientos técnicos y económicos del proyecto; y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-V.- Preferentemente el empleo de los recursos humanos y la utilización de los materiales propios de la región, así como productos, equipos y procedimientos de tecnología nacional.
+IV.- Los avances tecnológicos, aplicables en función de la naturaleza de las obras y la selección de materiales, productos, equipos y procedimientos de tecnología nacional que satisfagan los requerimientos técnicos y económicos del proyecto;
+
+V.- Preferentemente el empleo de los recursos humanos y la utilización de los materiales propios de la región, así como productos, equipos y procedimientos de tecnología nacional;
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+VI.- Las medidas de accesibilidad y seguridad que requieren las personas con discapacidad, atendiendo a lo establecido en los lineamientos técnicos y demás instrumentos vigentes relacionados con la materia de accesibilidad en general; y
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+VII.- Las demás disposiciones legales aplicables según corresponda.
 
 ###### ARTÍCULO 15.
 
@@ -269,7 +279,7 @@ Los contratos de servicios relacionados con las obras públicas sólo se podrán
 
 Es obligación de las dependencias y entidades observar las disposiciones que en materia de desarrollo urbano y construcción rijan en sus respectivos ámbitos de competencia.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 17.
 
@@ -299,7 +309,9 @@ XI.- La ejecución que deberá incluir el costo estimado de las obras públicas 
 
 XII.- Los trabajos de mantenimiento de los bienes inmuebles a su cargo; y
 
-XIII.- Toda instalación pública deberá asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas, para todas las personas y deberán cumplir con las normas de diseño y de señalización que se emitan, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con capacidad diferenciada.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Toda instalación pública deberá asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas para todas las personas, y deberán cumplir con las normas de diseño y de señalización, en instalaciones, circulaciones, servicios sanitarios y demás análogos para las personas con discapacidad, que se emitan con ese objeto.
 
 ###### ARTÍCULO 18.
 
@@ -309,7 +321,7 @@ Una vez aprobado, la Secretaría de Finanzas y Administración remitirá la prop
 
 El mencionado programa tendrá únicamente el carácter de informativo y no implicará compromiso alguno de contratación y podrá ser modificado, adicionado, suspendido o cancelado sin responsabilidad para las dependencias o entidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 19.
 
@@ -319,7 +331,7 @@ En el caso de obras públicas y servicios que con ella se relacionen, cuya ejecu
 
 El presupuesto de obra actualizado será la base para solicitar la asignación de cada ejercicio presupuestal posterior.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo.
 
@@ -335,7 +347,7 @@ Las obras públicas y servicios relacionados con las mismas que las dependencias
 
 #### SECCIÓN PRIMERA. DE LOS PROCEDIMIENTOS DE ADJUDICACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 22.
 
@@ -383,7 +395,7 @@ En estos procedimientos de adjudicación se deberán establecer los mismos requi
 
 La convocante, pondrá a disposición del público a través de los medios de difusión electrónica que establezca, la información correspondiente a las convocatorias y bases de las licitaciones y en su caso, las modificaciones que tuvieren, las actas de las juntas de aclaraciones y de visita a instalaciones, los fallos de dichas licitaciones o las cancelaciones de éstas, así como los datos relevantes de los contratos adjudicados, sean por licitación pública, invitación o adjudicación directa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 24.
 
@@ -409,7 +421,7 @@ La convocante previamente a la adjudicación de los contratos relativos a la sup
 
 #### SECCIÓN SEGUNDA. DE LA LICITACIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 27.
 
@@ -455,7 +467,7 @@ Todo interesado que satisfaga los términos de la convocatoria respectiva, tendr
 
 La convocatoria deberá publicarse en el Periódico Oficial del Estado y en el periódico de mayor circulación estatal a elección de la convocante y a través de medios electrónicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 30.
 
@@ -611,7 +623,7 @@ No podrán ser objeto de evaluación las condiciones establecidas por la convoca
 
 La convocante, emitirá un dictamen que servirá como base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento y el análisis de las proposiciones, el que deberá incluir lo relativo a los precios propuestos y las razones para admitirlas o desecharlas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 37.
 
@@ -659,7 +671,7 @@ La convocante podrá cancelar una licitación por caso fortuito o fuerza mayor o
 
 #### SECCIÓN TERCERA. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 43.
 
@@ -693,7 +705,7 @@ XIII.- Se trate de trabajos en los inmuebles a que hace mención el artículo 5o
 
 Para los casos de adjudicación directa, el titular de la Dependencia o Entidad, deberá informar a la Contraloría previamente a su contratación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 44.
 
@@ -717,7 +729,7 @@ Posterior a la aprobación de la Secretaría, las dependencias y entidades podr�
 
 Las Dependencias y Entidades Paraestatales que en términos de la presente Ley cuenten con facultades para realizar procedimientos de adjudicación en todas sus fases, no estarán sujetas a lo dispuesto en los párrafos penúltimo y último del artículo 44 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 46.
 
@@ -949,7 +961,7 @@ La información que sustente la inscripción de especialidades en el listado, se
 
 La convocante deberá solicitar a la Contraloría o al Comité de Obra Municipal, según corresponda, relación actualizada de personas físicas y jurídicas que se encuentren inscritas en el listado de contratistas calificados, para la instrumentación de los procedimientos de adjudicación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 57.
 
@@ -959,7 +971,7 @@ El reglamento correspondiente establecerá los requisitos que deberán reunir lo
 
 La Contraloría durante el proceso de calificación o en la instrumentación de un proceso de adjudicación, podrá verificar la veracidad de la información que proporcionen los solicitantes de una calificación.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -987,7 +999,7 @@ IV.- Para determinar la solvencia moral de un contratista, la Contraloría y el 
 
 V.- La solicitud de calificación y/o revalidación, será bajo la más estricta responsabilidad del solicitante, por lo que en caso de negativa de la calificación y/o revalidación, no se suspenderá el procedimiento de adjudicación o contratación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 59.
 
@@ -999,7 +1011,7 @@ Los contratistas, interesados en continuar calificados e inscritos en el listado
 
 Dentro del plazo señalado en el párrafo anterior, el contratista podrá solicitar la modificación de la o las especialidades que se encuentren en listado correspondiente, a través del procedimiento y de la acreditación de requisitos que fije el reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 60.
 
@@ -1015,7 +1027,7 @@ IV.- Hayan celebrado contratos en contravención a lo dispuesto por esta Ley; y
 
 V.- Hayan perdido la titularidad de la patente o de algún derecho exclusivo, que lo imposibilite para ejecutar obras que requieran de conocimientos técnicos, científicos o tecnológicos especializados. Lo anterior sin perjuicio de que obtengan las licencias o autorizaciones que establezca la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 61.
 
@@ -1123,7 +1135,7 @@ Asimismo podrán dar por terminados anticipadamente los contratos cuando concurr
 
 En los casos anteriores, las dependencias y entidades deberán hacer del conocimiento de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, esta situación previamente a la iniciación del procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 71.
 
@@ -1213,7 +1225,7 @@ Los contratos relativos a los servicios relacionados a que se refiere este artí
 
 ### CAPÍTULO V. DE LA ADMINISTRACIÓN DIRECTA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 81.
 
@@ -1253,7 +1265,7 @@ La dependencia o entidad deberá destinar los recursos humanos, técnicos, mater
 
 En la ejecución de los trabajos por administración directa serán aplicables, en lo conducente, las disposiciones de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 87.
 
@@ -1543,7 +1555,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de marzo del año dos mil tres.- El Gobernador Constitucionales del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE MARZO DE 2005.
 
@@ -1584,3 +1596,11 @@ Los procedimientos que a la fecha de entrada en vigor del presente Decreto se en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- La aplicación del presente Decreto estará sujeto a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado en la Ley de Egresos del Estado para el Ejercicio Fiscal correspondiente.
