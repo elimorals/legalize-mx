@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-seguridad-publica-65715"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-15"
-last_updated: "2008-12-15"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de diciembre de 2008.
 
@@ -291,9 +291,11 @@ La gestión del Instituto queda sometida a las reglas de contabilidad, presupues
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 18.
 
-En los términos del Artículo 41 de la Ley Orgánica de la Administración Pública para el Estado de Nuevo León, las relaciones laborales del Instituto con el personal que tenga el carácter de servidor público, se regirán por lo dispuesto en la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
+La participación de personas y de representantes de agrupaciones o asociaciones de los sectores social, privado y académico en el Consejo de Participación Ciudadana, es honorífica, por lo que no tendrán el carácter de servidores públicos. Las relaciones laborales del Organismo con el personal que tenga el carácter de servidor público, se regirán por la Ley del Servicio Civil del Estado de Nuevo León y las demás disposiciones jurídicas aplicables.
 
 ## TÍTULO SEXTO. DEL SERVICIO PROFESIONAL DE CARRERA
 
@@ -368,3 +370,9 @@ ALDO FACI ZUAZUA
 EL C. PROCURADOR GENERAL DE JUSTICIA
 
 LUIS CARLOS TREVIÑO BERCHELMANN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
