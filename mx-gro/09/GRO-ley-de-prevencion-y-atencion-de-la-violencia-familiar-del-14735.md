@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-14735
 country: "mx"
 rank: "ley"
 publication_date: "1999-04-13"
-last_updated: "2007-01-12"
+last_updated: "2010-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE GUERRERO, NUM. 280
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de abril de 1999.
 
@@ -67,37 +67,43 @@ LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE GUERR
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 1o.
 
-Las disposiciones contenidas en la presente Ley tienen por objeto establecer las bases y procedimientos de asistencia y prevención de la violencia intrafamiliar en el Estado de Guerrero.
+La presente Ley es de orden público y tiene por objeto, establecer las bases para la prevención y atención de la violencia familiar, así como de coordinación de los órganos e instituciones en el Estado, que presten servicios de atención y prevención de la violencia familiar.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 2o.
 
-La aplicación de esta Ley corresponde al Gobierno del Estado a través del Consejo Estatal para la Asistencia y Prevención de la Violencia Intrafamiliar.
+Son objetivos de la presente Ley, la integridad y preservación de la salud física, emocional, mental y sexual de las personas que integran una familia.
 
-Las demás dependencias, instituciones u organismos públicos, auxiliarán al Consejo en la observancia de la presente Ley.
+La aplicación de la Ley corresponde al Gobierno del Estado a través del Consejo Estatal para la Prevención y Atención de la Violencia Familiar. Las demás dependencias, instituciones u organismos públicos, auxiliarán al Consejo en la observancia de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 3o.
 
-Violencia intrafamiliar es el acto u omisión intencional realizado con el fin de dominar, someter o controlar, o maltratar física, verbal, económicamente, psico-emocional o sexualmente, a cualquiera de las personas señaladas en las fracciones del artículo 4º de la presente Ley, independientemente de que pueda o no producir otro delito.
+Para los efectos de esta Ley se considera:
 
-Se entiende por:
+I.- Violencia familiar: Las conductas dirigidas a dominar, controlar o agredir, física, psicológica, sexual, patrimonial o económicamente a alguna persona que se encuentre o haya estado unida por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, concubinato, o una relación de hecho, dentro o fuera del domicilio familiar.
 
-a).- Maltrato físico. Toda agresión intencional y reiterada, en la que se utilice alguna parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de otro.
+II.- Violencia física: Toda agresión intencional en el que se utilice cualquier parte del cuerpo, algún objeto, arma o sustancia para sujetar, inmovilizar o causar daño a la integridad física de otra persona, ya sea que se provoque o no lesiones internas, externas o ambas;
 
-b).- Maltrato psico-emocional. Al patrón de conducta consistente en actos u omisiones, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, que provoquen en quien las reciba deterioro, disminución o afectación a su personalidad.
+III.- Violencia psicológica, Aquellas conductas, activas u omisivas, cuyas formas de expresión pueden ser prohibiciones, condicionamientos, coacciones, intimidaciones, amenazas, actitudes devaluatorias o de abandono, descuido reiterado, indiferencia, rechazo, celotipia, insultos, humillaciones, marginación, infidelidad, comparaciones destructivas, las cuales provocan en quienes las reciben deterioro, disminución o afectación a su autoestima y personalidad;
 
-c).- Maltrato Sexual. Los actos u omisiones reiteradas para el control, manipulación o dominio de la pareja y que generen un daño, cuyas formas de expresión pueden ser entre otras: negar las necesidades afectivas, inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
+IV.- Violencia sexual: Cualquier acto que degrade o dañe el cuerpo y/o la sexualidad de una persona y que por tanto, atenta contra su libertad, dignidad e integridad física;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE ENERO DE 2007)</small>
+V.- Violencia patrimonial: Cualquier acto u omisión que afecta la supervivencia de un integrante de la familia y se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos; destinados a satisfacer las necesidades de la familia y pueden abarcar los daños a los bienes comunes o propios de la víctima; y
 
-d).- Maltrato económico. Todo acto tendiente a despojar, controlar, manejar o disponer de dinero, propiedades, recursos o cualquier otro bien económico, del patrimonio familiar, de su pareja, descendientes, ascendientes o parientes de manera que se les cause perjuicio en su patrimonio, y con ello se les prive de alimento, educación, vestimenta, asistencia médica o transporte.
+VI.- Violencia económica: Es toda acción u omisión que afecta la supervivencia económica de quienes integran la familia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 4o.
 
-Es generador de la violencia familiar o victimario, el sujeto que realice cualquier acto u omisión de los señalados en el artículo anterior y ocurra en perjuicio de los siguientes sujetos:
+Es generador de la violencia familiar o victimario, la persona que realice cualquier acto u omisión de los señalados en el artículo anterior y ocurra en perjuicio de las siguientes personas:
 
 I.- Su cónyuge;
 
@@ -115,27 +121,35 @@ Vll.- Sus parientes civiles, ya sea que se trate del adoptante o del adoptado;
 
 VIII.- Cualquier otro miembro de la familia, ya sea menor de edad, incapaz, discapacitado o anciano, que esté sujeto a su patria potestad, custodia, guarda, protección, educación, instrucción o cuidado; y,
 
-IX.- La persona con la que tuvo relación conyugal, de concubinato o de pareja unida fuera del matrimonio, en época anterior.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IX.- La persona con la que tuvo relación conyugal, de concubinato o de hecho, en época anterior.
 
 ## TITULO SEGUNDO
 
-### CAPITULO UNICO. DEL CONSEJO ESTATAL PARA LA ASISTENCIA Y PREVENCION
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-DE LA VIOLENCIA INTRAFAMILIAR
+### CAPITULO UNICO. DEL CONSEJO ESTATAL PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 5o.
 
-El Consejo Estatal para la Asistencia y Prevención de la Violencia Intrafamiliar es un órgano de apoyo, normativo, de consulta, evaluación y coordinación de las tareas y acciones en la materia.
+El Consejo Estatal para la Prevención y Atención Familiar es un órgano honorario de apoyo, consulta, evaluación y coordinación de las tareas y acciones en la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 6o.
 
-El Consejo Estatal para la Asistencia y Prevención de la Violencia Intrafamiliar promoverá la participación de los Ayuntamientos, quienes deberán apoyarlo en su respectivo ámbito de competencia. Cuando el caso lo requiera, los Ayuntamientos serán invitados a participar con derecho a voz y voto, a las sesiones del Consejo.
+El Consejo Estatal para la Prevención y Atención de la Violencia Familiar promoverá la participación de los Ayuntamientos, quienes deberán apoyarlo en su respectivo ámbito de competencia. Cuando el caso lo requiera, los Ayuntamientos serán invitados a participar con derecho a voz y voto, a las sesiones del Consejo.
 
 Los ayuntamientos incorporarán en sus trabajos al Sistema del Desarrollo Integral de la Familia del Municipio correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 7o.
 
-El Consejo Estatal para la Asistencia y Prevención de la Violencia Intrafamiliar se integra de la siguiente manera:
+El Consejo Estatal para la Prevención y Atención de la Violencia Familiar se integra de la siguiente manera:
 
 I.- Por el Secretario General de Gobierno, quien lo presidirá;
 
@@ -163,15 +177,19 @@ XI.- Por el Secretario de Salud;
 
 XII.- Por el Director General del Sistema Estatal para el Desarrollo Integral de la Familia, y
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-XIII.- Por un integrante de los Consejos Municipales para la Asistencia y Prevención de la Violencia Intrafamiliar.
+XIII.- Por un integrante de los Consejos Municipales para la Prevención y Atención de la Violencia Familiar.
 
-Los Consejos Municipales para la Asistencia y Prevención de la Violencia Intrafamiliar se integrarán en la forma siguiente:
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+Los Consejos Municipales para la Prevención y Atención de la Violencia familiar se integrarán en la forma siguiente:
 
 a).- Por el Secretario General del Ayuntamiento
 
-b).- Por la Delegada de la Secretaría de la Mujer
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+b).- Por la Delegada de la Secretaría de la Mujer de la región que se trate
 
 c).- Por la Presidenta del DIF-Municipal, y
 
@@ -191,27 +209,39 @@ El Presidente del Consejo, podrá invitar a personas físicas o representantes d
 
 El Consejo contará con la asesoría de un equipo técnico integrado por expertos honorarios, con reconocida trayectoria en la materia y nombrados por el propio Consejo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 10.
 
-El Consejo tendrá las siguientes atribuciones:
+El Consejo Estatal para la Prevención y Atención de la Violencia Familiar tendrá las atribuciones siguientes:
 
-I.- Aprobar el Programa Global Anual para la Asistencia y Prevención de la Violencia Intrafamiliar en el Estado.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+I.- Aprobar el Programa Anual para la Prevención y Atención de la Violencia Familiar en el Estado;
 
 II.- Promover la colaboración e información entre las Instituciones que lo integran;
 
-III.- Evaluar trimestralmente los logros, avances y en general, los resultados obtenidos del Programa Global;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-IV.- Fomentar la instalación de áreas especializadas en la atención de la Violencia Intrafamiliar en Instituciones Públicas y Privadas;
+III.- Evaluar trimestralmente los logros, avances y en general los resultados obtenidos del Programa anual;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IV.- Fomentar la instalación de áreas especializadas en la atención de la violencia familiar en instituciones públicas y privadas;
 
 V.- Actuar como unidad de enlace con las dependencias federales y organismos no gubernamentales con objetos afines, en los términos de las leyes y convenios o acuerdos de coordinación que se celebren con tal propósito;
 
 Vl.- Convenir con los Ayuntamientos para que coadyuven a la realización de las finalidades de la presente Ley;
 
-Vll.- Identificar y analizar los problemas reales y potenciales de la violencia intrafamiliar, elaborando los estudios correspondientes y proponer principios y procedimientos para abordar su prevención y solución;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+Vll.- Identificar y analizar los problemas reales y potenciales de la violencia familiar, elaborando los estudios correspondientes y proponer principios y procedimientos para abordar su prevención y solución;
 
 VIII.- Elaborar, publicar y distribuir material informativo, a efecto de difundirlo en la Entidad con fines de prevención y orientación;
 
-IX.- Realizar convenios de coordinación con los medios de comunicación a fin de que participen en las acciones preventivas y asistenciales de esta Ley;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IX.- Realizar convenios de coordinación con los medios de comunicación a fin de que participen en las acciones preventivas y de atención de esta Ley;
 
 X.- Aprobar su reglamento interior; y
 
@@ -221,9 +251,11 @@ Xl.- Las demás que le confiera la presente Ley u otros ordenamientos aplicables
 
 El Consejo se reunirá en sesión ordinaria cada tres meses y en sesión extraordinaria cuantas veces sea necesario, con la asistencia de la mayoría de sus integrantes. Los acuerdos se tomarán por mayoría de votos, en caso de empate el del Presidente será de calidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 12.
 
-Corresponde al Presidente del Consejo:
+Corresponde al Presidente del Consejo Estatal para la Prevención y Atención de la Violencia Familiar:
 
 I.- Presidir las sesiones del Consejo;
 
@@ -235,7 +267,9 @@ IV.- Convocar a sesiones ordinarias y extraordinarias;
 
 V.- Proponer el orden del día y someterlo a consideración de los miembros del Consejo para su aprobación;
 
-Vl.- Presentar a consideración del Consejo para su aprobación, la iniciativa del Programa Global Anual para la Asistencia y Prevención de la Violencia Intrafamiliar en el Estado;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+Vl.- Presentar a consideración del Consejo para su aprobación, la iniciativa del Programa Anual para la Prevención y Atención de la Violencia Familiar en el Estado;;
 
 Vll.- Coordinar los trabajos de los integrantes del Consejo y recibir, atender y resolver los asuntos que le planteen cualesquiera de ellos;
 
@@ -269,7 +303,9 @@ X.- Llevar el registro de las personas físicas y/u organismos no gubernamentale
 
 Xl.- Auxiliar al Presidente en los casos en que así se le requiera;
 
-Xll.- Realizar el informe anual de evaluación del programa de asistencia y prevención de la violencia intrafamiliar, recabando para ello la información de las actividades desarrolladas por los integrantes del Consejo;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+Xll.- Realizar el informe anual de evaluación del programa de prevención y atención de la violencia familiar, recabando para ello la información de las actividades desarrolladas por los integrantes del Consejo, así como las que le reporten los Consejos Municipales;
 
 XIII.- Informar al Presidente del cumplimiento de sus funciones y actividades; y,
 
@@ -277,19 +313,25 @@ XIV.- Las demás que se deriven de este u otros ordenamientos aplicables o le en
 
 ## TITULO TERCERO
 
-### CAPITULO UNICO. DE LA ASISTENCIA Y PREVENCION
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO UNICO. DE LA ATENCIÓN Y PREVENCIÓN
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 14.
 
-La asistencia que se proporcione en materia de violencia intrafamiliar por cualquier Institución pública o privada, tenderá a la protección de las víctimas, y a la reeducación del victimario.
+La atención que se proporcione en materia de violencia familiar por cualquier Institución pública o privada, tenderá a la protección de las víctimas, y a la reeducación del victimario.
 
-Del mismo modo, la asistencia estará libre de prejuicios de género, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo y no contará entre sus criterios con patrones estereotipados de comportamiento o prácticas sociales y culturales, basadas en conceptos de inferioridad o de subordinación.
+Del mismo modo, la atención estará libre de prejuicios de género, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo y no contará entre sus criterios con patrones estereotipados de comportamiento o prácticas sociales y culturales, basadas en conceptos de inferioridad o de subordinación.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 15.
 
-La asistencia a quienes incurran en actos de violencia intrafamiliar se basará en modelos psicoterapéuticos reeducativos, tendientes a disminuir y erradicar las conductas de violencia.
+La atención a quienes incurran en actos de violencia familiar se basará en modelos psicoterapéuticos reeducativos, tendientes a disminuir y erradicar las conductas de violencia.
 
-A quienes cuenten con sentencia ejecutoriada, relacionada con eventos de violencia intrafamiliar, se les proporcionará la asistencia en instituciones públicas o privadas a solicitud de la autoridad jurisdiccional, o bien, a petición del propio interesado.
+A quienes cuenten con sentencia ejecutoriada, relacionada con eventos de violencia familiar, se les proporcionará la atención en instituciones públicas o privadas a solicitud de la autoridad jurisdiccional, o bien, a petición del propio interesado.
 
 ###### ARTICULO 16.
 
@@ -303,45 +345,69 @@ La Secretaría General de Gobierno deberá:
 
 I.- Coadyuvar a través de sus distintas áreas, en especial con la Coordinación Técnica del Sistema Estatal del Registro Civil, en la difusión del contenido y alcance de la presente Ley; y
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010 )</small>
 
-II.- Promover la capacitación en las materias familiar y penal, así como la sensibilización permanente del personal profesional del Servicio de Defensoría de Oficio, a efecto de mejorar la atención de las víctimas y victimarios de la violencia intrafamiliar que requieran su intervención.
+II.- Promover la capacitación en las materias familiar y penal, así como la sensibilización permanente del personal profesional del Servicio de la Defensoría de Oficio, a efecto de mejorar la atención de las víctimas y victimarios de la violencia familiar que requieran su intervención..
 
 ###### ARTICULO 18.
 
 Corresponde a la Secretaría de la Mujer:
 
-I.- Conocer de las quejas presentadas por violencia intrafamiliar y realizar el procedimiento de conciliación, cuando ésta sea procedente, con independencia de dar aviso al Ministerio Público para los efectos de su competencia. A través de la autoridad competente que designe el Reglamento de la presente Ley, esta Secretaría podrá imponer las sanciones correspondientes, además de prestar los servicios de atención y asesoría jurídica, psicológica y social a víctimas y agresores de la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-II.- Coadyuvar con las instancias competentes en las acciones de los programas de asistencia y prevención de la violencia intrafamiliar;
+I.- Conocer de las quejas presentadas por violencia familiar y realizar el procedimiento de conciliación, cuando ésta sea procedente, con independencia de dar aviso al .Ministerio Público para los efectos de su competencia. A través de la autoridad competente que designe el Reglamento de la presente Ley, esta Secretaria podrá imponer las sanciones correspondientes, además de prestar los servicios de atención y asesoría acompañamiento Jurídico, psicológico y social a víctimas y agresores de la violencia familiar;
 
-III.- Llevar un registro de instituciones gubernamentales y organizaciones sociales que trabajen en materia de violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-IV.- Promover la instalación de centros de atención a víctimas de violencia intrafamiliar;
+II.- Coadyuvar con las instancias competentes en las acciones de los programas de atención y prevención de la violencia familiar;
 
-V.- Realizar campañas permanentes entre el sector femenino a nivel estatal sobre las formas en que se expresa, se previene y combate la violencia intrafamiliar; y,
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-VI. Llevar el registro estadístico en el Estado sobre violencia intrafamiliar con los datos que le proporcionen las diferentes instancias de gobierno, así como de aquellas organizaciones privadas o sociales que estime conveniente.
+III.- Llevar un registro de instituciones gubernamentales y organizaciones sociales que trabajen en materia de violencia familiar;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IV.- Promover la instalación de centros de atención a víctimas de violencia familiar;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+V.- Realizar campañas permanentes entre la sociedad sobre las formas en que se expresa, se previene y combate la violencia familiar; y,
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+VI. Llevar el registro estadístico en el Estado sobre violencia familiar con los datos que le proporcionen las diferentes instancias de gobierno, así como de aquellas organizaciones privadas o sociales que estime conveniente.
 
 ###### ARTICULO 19.
 
 Corresponde al Tribunal Superior de Justicia:
 
-I.- Promover la capacitación y sensibilización de los Jueces de Primera Instancia y de Paz, así como de los Secretarios de Acuerdos, sobre la Violencia Intrafamiliar, y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-II.- Coadyuvar en la difusión del procedimiento judicial instituido en materia de Violencia Intrafamiliar.
+I.- Promover la capacitación y sensibilización de los Jueces de Primera Instancia y de Paz, así como de los Secretarios de Acuerdos, sobre la violencia familiar, y
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+II.- Coadyuvar en la difusión del procedimiento judicial instituido en materia de violencia familiar.
 
 ###### ARTICULO 20.
 
 Corresponde a la Comisión de Defensa de los Derechos Humanos:
 
-I.- Intervenir en el desarrollo de programas permanentes de orientación y concientización tendientes a erradicar la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-II.- En coordinación con la Secretaría de Educación Guerrero, implementar cursos de capacitación para prevenir la violencia intrafamiliar, dirigidos a los docentes de los diferentes niveles, quienes a su vez se convertirán en multiplicadores;
+I.- Intervenir en el desarrollo de programas permanentes de orientación y concientización tendientes a erradicar la violencia familiar;
 
-III.- Diseñar materiales impresos para la difusión de los derechos del niño, la mujer, los ancianos y los discapacitados; y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-IV.- Canalizar, a las instancias correspondientes, a las víctimas de violencia intrafamiliar cuando acudan a esta Institución solicitando apoyo.
+II.- Implementar cursos de capacitación en coordinación con la Secretaría de Educación Guerrero, para prevenir la violencia familiar, dirigidos a los docentes de los diferentes niveles, quienes, a su vez se convertirán en multiplicadores;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+III.- Diseñar materiales impresos para la difusión de los derechos del niño, la mujer, los adultos mayores y los discapacitados; y
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IV.- Canalizar, a las instancias correspondientes, a las víctimas de violencia familiar cuando acudan a esta Institución solicitando apoyo.
 
 ###### ARTICULO 21.
 
@@ -351,57 +417,93 @@ IV.- Canalizar, a las instancias correspondientes, a las víctimas de violencia 
 
 La Secretaría de Desarrollo Social deberá:
 
-I.- Promover acciones y programas de protección social a las víctimas de la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-II.- Fomentar en coordinación con instituciones especiales públicas, privadas y sociales, la realización de investigaciones sobre el fenómeno de la violencia intrafamiliar cuyos resultados servirán para diseñar nuevos modelos para la prevención y atención;
+I.- Promover acciones y programas de protección social a las víctimas de la violencia familiar;
 
-III.- Introducir en sus programas de bienestar social, la asistencia y prevención de la violencia intrafamiliar; y,
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-IV.- Impulsar, a través de los medios de comunicación, campañas permanentes encaminadas a sensibilizar y concientizar a la población sobre las formas en que se expresa, se previene y combate la violencia intrafamiliar en coordinación con las instancias competentes.
+II.- Fomentar en coordinación con instituciones especiales públicas, privadas y sociales, la realización de investigaciones .sobre el fenómeno de la violencia familiar cuyos resultados servirán para diseñar nuevos modelos para la prevención y atención;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+III.- Introducir en sus programas de bienestar social, la atención y prevención de la violencia familiar; y,
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IV.- Impulsar, a través de los medios de comunicación, campañas permanentes encaminadas a sensibilizar y concientizar a la población sobre las formas en que se expresa, se previene y combate la violencia familiar en coordinación con las instancias competentes.
 
 ###### ARTICULO 23.
 
 Corresponde a la Secretaría de Educación Guerrero:
 
-I.- Establecer como asignatura obligatoria la materia de "inteligencia emocional," desde el nivel preescolar hasta el último nivel de educación, con el objeto de educar emocionalmente a la niñez y juventud para anular la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-II.- Fomentar la capacitación sobre la detección y prevención de la violencia intrafamiliar al personal docente en todos los niveles de educación que le competan;
+I.- Establecer como asignatura obligatoria la materia de "inteligencia emocional," desde el nivel preescolar hasta el último nivel de educación, con el objeto de educar emocionalmente a la niñez y juventud para anular la violencia familiar;
 
-III.- Diseñar y operar en los planteles educativos programas de detección y canalización de víctimas de violencia intrafamiliar a los centros de atención respectivos;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-IV.- Comunicar de inmediato a las autoridades competentes o centros de atención, los casos en los cuales, por sus características o situaciones, se desprenda la posibilidad de la existencia de violencia intrafamiliar;
+II.- Fomentar la capacitación sobre la detección y prevención de la violencia familiar al personal docente en todos los niveles de educación que le competan;
 
-V.- Impulsar en los planteles educativos la creación de grupos de atención de violencia intrafamiliar, integrados por padres de familia, personal docente y alumnado; y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-Vl.- Fomentar campañas públicas encaminadas a sensibilizar y concientizar a la población sobre las formas en que se expresa y se previene o combate la violencia intrafamiliar.
+III.- Diseñar y operar en los planteles educativos programas de detección y canalización de víctimas de violencia familiar a los centros de atención
+
+respectivos;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+IV.- Comunicar de inmediato a las autoridades competentes o instancias de atención los casos en los cuales, por sus características o situaciones, se desprenda la posibilidad de la existencia de violencia familiar;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+V.- Impulsar en los planteles educativos la creación de grupos de atención de violencia familiar, integrados por padres de familia, personal docente y alumnado; y
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+Vl.- Fomentar campañas públicas encaminadas a sensibilizar y concientizar a la población sobre las formas en que se expresa y se previene o combate la violencia familiar.
 
 ###### ARTICULO 24.
 
 Corresponde a la Secretaría de la Juventud:
 
-I.- Promover entre la juventud cursos de capacitación y sensibilización en torno a la violencia intrafamiliar, su prevención, detección y tratamiento;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-II.- Coadyuvar con las instancias competentes en las acciones del programa de asistencia y prevención de la violencia intrafamiliar; y
+I.- Promover entre la juventud cursos de capacitación y sensibilización en torno a la violencia familiar, su prevención, detección y tratamiento;
 
-III.- En coordinación con la Secretaría de Educación Guerrero, impulsar el programa de prevención y atención a víctimas de violencia intrafamiliar.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+II.- Coadyuvar con las instancias competentes en las acciones del programa de asistencia y prevención de la violencia familiar; y
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+III.- Impulsar, en coordinación con la Secretaría de Educación Guerrero, el programa de prevención y atención a víctimas de violencia familiar.
 
 ###### ARTICULO 25.
 
 La Procuraduría General de Justicia deberá:
 
-I.- Promover la capacitación y sensibilización de los Agentes del Ministerio Público y personal auxiliar, a efecto de mejorar la atención de las víctimas de la violencia intrafamiliar que requieran su intervención;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-II.- Promover la impartición de cursos y talleres de prevención y asistencia de violencia intrafamiliar a los cuerpos policiacos y adoptar las medidas pertinentes cuando se presente algún caso;
+I.- Promover la capacitación y sensibilización de los Agentes del Ministerio Público y personal auxiliar, a efecto de brindar servicios especializados para la atención de las víctimas de la violencia familiar que requieran su intervención;
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+II.- Promover la impartición de cursos y talleres de prevención y atención de violencia familiar a los cuerpos policiacos y adoptar las medidas pertinentes cuando se presente algún caso;
 
 III.- A través de sus Agencias del Ministerio Público del Fuero Común:
 
-A).- Canalizar a los Juzgados de Primera Instancia o de Paz, en auxilio del primero, a víctimas y victimarios de violencia intrafamiliar, para los efectos del procedimiento legal correspondiente; y
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+A).- Canalizar a los Juzgados de Primera Instancia o de Paz, en auxilio del primero, a víctimas y victimarios de violencia familiar, para los efectos del procedimiento legal correspondiente; y
 
 B).- En auxilio de los Juzgados de Primera Instancia o de Paz, dar fe de las lesiones y, con la asistencia de peritos, de cualquier otro tipo de maltrato.
 
 IV.- Difundir el contenido y alcance de la presente Ley.
 
-La Procuraduría contará con un Centro de Apoyo Interdisciplinario a víctimas de violencia intrafamiliar, unidad administrativa especializada con autonomía técnica y operativa, subordinada jerárquicamente al C. Procurador, organizada en los términos que establezca el reglamento respectivo.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+La Procuraduría contará con un Centro de Apoyo Interdisciplinario a víctimas de violencia familiar, unidad administrativa especializada con autonomía técnica y operativa, subordinada jerárquicamente al C. Procurador, organizada en los términos que establezca el reglamento respectivo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2004)</small>
 
@@ -409,61 +511,83 @@ La Procuraduría contará con un Centro de Apoyo Interdisciplinario a víctimas 
 
 La Secretaría de Asuntos Indígenas deberá:
 
-I.- Promover programas educativos entre la población indígena, referentes a la prevención de la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+I.- Promover programas educativos entre la población indígena, referentes a la prevención de la violencia familiar;
 
 II.- Promover acciones y programas de protección social a las víctimas; y
 
-III.- Coadyuvar con las instancias competentes en las acciones de los programas de asistencia y prevención de la violencia intrafamiliar.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+III.- Coadyuvar con las instancias competentes en las acciones de los programas de asistencia y prevención de la violencia familiar.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 27.
 
-Al Secretario de Salud, independientemente de las funciones que en materia de asistencia social tiene asignadas, le corresponde:
+Al Secretario de Salud, independientemente de las funciones que en materia de atención integral a la salud tiene asignadas, le corresponde:
 
-I.- Por conducto de trabajadoras sociales y médicos, coadyuvar en la prevención y seguimiento de los casos de violencia intrafamiliar;
+I.- Coadyuvar en la prevención y seguimiento de los casos de violencia familiar, por conducto de trabajadoras sociales' y médicos,
 
-II.- En coordinación con las instancias competentes, instalar en los centros de salud del Estado, unidades de atención inmediata a víctimas de la violencia intrafamiliar;
+II.- Instalar, en coordinación con las instancias competentes en los centros de salud del Estado, unidades de atención inmediata a víctimas de la violencia familiar;
 
-III.- Fomentar la sensibilización, así como proporcionar la formación y capacitación sobre la prevención de la violencia intrafamiliar a los usuarios en las salas de consulta externa de los hospitales generales, materno-infantiles, pediátricos y centros de salud;
+III.- Fomentar la sensibilización, así como proporcionar la formación y capacitación sobre la prevención de la violencia familiar a los usuarios en las salas de consulta externa de los hospitales generales, materno-infantiles, pediátricos y centros de salud;
 
-IV.- Fomentar campañas públicas tendientes a sensibilizar y concientizar a la población sobre las formas en que se expresa, se previene o combate la violencia intrafamiliar;
+IV.- Fomentar campañas públicas tendientes a sensibilizar y concientizar a la población sobre las formas en que se expresa, se previene o combate la violencia familiar;
 
-V.- Promover que se preste la atención a las víctimas de la violencia intrafamiliar, en las diversas instituciones médicas, públicas y privadas;
+V.- Promover que se preste la atención a las víctimas de la violencia familiar, en las diversas instituciones médicas, públicas y privadas, de conformidad a lo que establece la Norma Oficial Mexicana de Violencia Familiar, Sexual y contra, las Mujeres, Criterios para la Prevención y Atención;
 
-Vl.- Promover programas de intervención temprana en comunidades de escasos recursos para prevenir la violencia intrafamiliar; y
+VI.- Promover programas de intervención temprana en comunidades de escasos recursos para prevenir la violencia familiar; y
 
-Vll.- Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención de la violencia intrafamiliar.
+VII.- Impulsar la formación de promotores comunitarios cuya función básica será estimular los programas de prevención de la violencia familiar.
 
 ###### ARTICULO 28.
 
 Corresponde al Director del Sistema Estatal para el Desarrollo Integral de la Familia:
 
-I.- Incorporar a sus programas acciones de asistencia y prevención de la violencia intrafamiliar, y
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
-II.- Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a víctimas y victimarios en la violencia intrafamiliar.
+I.- Incorporar a sus programas acciones de asistencia y prevención de la violencia familiar, y
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
+II.- Sensibilizar y capacitar a su personal operativo para detectar, atender y canalizar a víctimas y victimarios en la violencia familiar.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 29.
 
-Las anteriores atribuciones a cargo de los miembros del Consejo para la Asistencia y Prevención de la Violencia Intrafamiliar, son enunciativas y no limitativas, por lo que les corresponden también, las demás que les confiera la presente Ley u otros ordenamientos aplicables, así como aquéllas que les sean necesarias para el cumplimiento de sus fines.
+Las anteriores atribuciones a cargo de los miembros del Consejo para la Prevención y Atención de la Violencia familiar, son enunciativas y no limitativas, por lo que les corresponden también, las demás que les confiera la presente Ley u otros ordenamientos aplicables, así como aquéllas que les sean necesarias, para el cumplimiento de sus fines.
 
 ## TITULO CUARTO
 
 ### CAPITULO UNICO. DEL PROCEDIMIENTO CONCILIATORIO
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 30.
 
-Cualquier persona podrá acudir ante la unidad especializada de la Secretaría de la Mujer o ante sus delegaciones en los Municipios, a efecto de quejarse por actos que puedan ser constitutivos de violencia intrafamiliar.
+Las partes en conflicto familiar podrán resolver sus diferencias ante la unidad especializada de la Secretaría de la Mujer, o ante sus delegaciones en los municipios o en las unidades municipales especializadas en la atención y prevención de la violencia familiar, según sea el caso.
+
+En lo que no contravenga este procedimiento, se aplicará supletoriamente el Código Procesal Civil para el Estado Libre y Soberano de Guerrero.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 31.
 
-El procedimiento conciliatorio procede únicamente en casos en que no se esté en presencia de un delito que deba ser perseguido de oficio.
+El procedimiento conciliatorio procede únicamente en casos en que no se esté en presencia de un delito.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 32.
 
-Una vez recibida la queja, el encargado de realizar el procedimiento, citará a una sola audiencia tanto a la víctima como al agresor, en cuya contra podrá disponer indistintamente de los siguientes medios de apremio:
+El procedimiento de conciliación, se iniciará con la citación al demandado y a la víctima, debiendo mediar en todo caso la queja respectiva, aún por comparecencia.
 
-I.- Multa de 10 a 50 salarios mínimos; y
+En la citación al demandado se le notificará que en caso de no presentarse se aplicarán medios de apremio en su contra consistentes en: multa de diez a cincuenta salarios mínimos y el auxilio de la fuerza pública.
 
-II. El auxilio de la fuerza pública.
+Cuando de la queja o en cualquier etapa del procedimiento se desprenda que existe algún delito, o bien en el caso de menores o incapaces, el Juez dará vista sin demora al Ministerio Público.
+
+Cuando la violencia familiar se tipifique como delito, el procedimiento se dará por concluido.
 
 ###### ARTICULO 33.
 
@@ -526,3 +650,9 @@ P.O. 12 DE ENERO DE 2007.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
+
+P.O. 3 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
