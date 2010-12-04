@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2010-10-06"
+last_updated: "2010-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -743,7 +743,7 @@ XXX. Expedir leyes y decretos en todas aquellas materias que no sean de la compe
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
 
-XXXI. Seguir procedimiento de responsabilidad a los servidores públicos del estado, empresas públicas descentralizadas o de los ayuntamientos en su caso, en los términos establecidos por esta constitución.
+XXXI.- Seguir procedimiento de responsabilidad a los servidores públicos del estado, empresas públicas descentralizadas o de los ayuntamientos en su caso, en los términos establecidos por esta constitución.
 
 Cuando de la fiscalización que realice el Órgano de Fiscalización Superior del Estado sea presumible la responsabilidad administrativa de servidores públicos estatales o municipales, ésta será determinada por el Congreso en los términos que establezca la ley.
 
@@ -755,21 +755,21 @@ XXXIII. Ejercer las facultades que le correspondan conforme a la Constitución G
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 1930)</small>
 
-XXXIV. Conceder el revalúo de cualquiera finca urbana o rústica con sujeción a las leyes de la materia.
+XXXIV.- Conceder el revalúo de cualquiera finca urbana o rústica con sujeción a las leyes de la materia.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-XXXV. Designar al Presidente y a los Consejeros del Organo Electoral del Estado en los términos de la ley de la materia.
+XXXV.- Designar al Presidente y a los Consejeros del Organo Electoral del Estado en los términos de la ley de la materia.
 
-XXXVI. (DEROGADA, P.O. 6 DE OCTUBRE DE 2010)
+XXXVI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 2010)
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2001)</small>
 
-XXXVII. Instituir la jurisdicción administrativa para resolver las controversias que se susciten en relación con la legalidad, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por las autoridades del Estado o Municipios, para lo cual podrá crearse un tribunal administrativo dotado de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
+XXXVII.- Instituir la jurisdicción administrativa para resolver las controversias que se susciten en relación con la legalidad, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por las autoridades del Estado o Municipios, para lo cual podrá crearse un tribunal administrativo dotado de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-XXXVIII. Expedir todas las leyes que sean necesarias o propias para hacer efectivas las facultades que le anteceden y todas las otras concedidas por esta Constitución a los Poderes del Estado.
+XXXVIII.- Expedir todas las leyes que sean necesarias o propias para hacer efectivas las facultades que le anteceden y todas las otras concedidas por esta Constitución a los Poderes del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
 
@@ -1507,43 +1507,63 @@ El Presidente, quien lo será también del Consejo Consultivo, será elegido en 
 
 El Presidente de la Comisión para la Defensa de los Derechos Humanos del Estado de Nayarit presentará anualmente al Congreso un informe de actividades. Al efecto comparecerá ante la Cámara en los términos que disponga la ley.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO IV. De las Defensorías de Oficio
+### CAPITULO IV. De la Defensoría de Oficio
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 102.
 
-Habrá en el Estado una dependencia encargada del servicio de defensoría de oficio del fuero común, cuya competencia será proveer en forma gratuita y obligatoria la prestación de asesoría y asistencia legal a quienes carezcan de recursos económicos para contratar servicios profesionales y para los fines que expresamente dispone la Constitución General de la República.
+El servicio de defensoría de oficio del fuero común estará a cargo del Poder Ejecutivo quien obligatoriamente deberá proveer en forma gratuita la prestación de asesoría y asistencia legal a quienes carezcan de recursos económicos para contratar servicios profesionales y para los fines que expresamente dispone la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
+La Ley organizará la institución, fijará su estructura administrativa, los requisitos para desempeñarse como defensor de oficio y las bases de coordinación con las instituciones educativas y asociaciones o colegios de profesionistas.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO V. De la Justicia Administrativa
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 103.
+
+La jurisdicción administrativa en el Estado de Nayarit se ejerce por conducto del Tribunal de Justicia Administrativa, órgano autónomo e independiente de cualquier autoridad, dotado de plena jurisdicción para dictar y hacer cumplir sus resoluciones.
+
+La ley establecerá la integración y funcionamiento de este Tribunal así como los términos para la formación, promoción y permanencia en la carrera jurisdiccional.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 104.
+
+Para ser magistrado del Tribunal se requiere:
+
+I. Ser mexicano por nacimiento, en ejercicio de sus derechos políticos y civiles;
+
+II. Tener más de 30 años al día de la designación;
+
+III. Ser originario del Estado de Nayarit o haber residido en el mismo durante los dos años anteriores al día de la designación;
+
+IV. Ser licenciado en derecho con título profesional, con cinco años de antigüedad al día de la designación;
+
+V. Tener por lo menos tres años de práctica profesional en materia administrativa o fiscal;
+
+VI. Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza o alguno otro que lastime seriamente la fama en el servicio público inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+VII. No tener ni haber tenido cargo alguno de elección popular durante el año anterior al nombramiento, ni haber sido secretario del despacho del Poder Ejecutivo, Procurador General de Justicia o haber pertenecido a las fuerzas armadas; y
+
+VIII. No ser ministro de algún culto religioso, a menos que se haya separado formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de la designación.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+###### Art. 105.
+
+Los Magistrados del Tribunal de Justicia Administrativa durarán en su encargo seis años pudiendo ser ratificados por una sola vez y por el mismo periodo, previa evaluación en los términos que disponga la Ley de la materia. Solo podrán ser privados de su cargo en los términos del Título Octavo de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+## TITULO SEXTO
 
 ### CAPITULO UNICO. De los Municipios
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2001)</small>
-
-###### Art. 103.
-
-La ley respectiva organizará esa institución, fijará su estructura administrativa y las bases de coordinación con las instituciones educativas y asociaciones o colegios de profesionistas.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
-
-###### Art. 104.
-
-Los Defensores de Oficio serán nombrados y removidos por el Ejecutivo del Estado.
-
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1994)</small>
-
-###### Art. 105.
-
-Los defensores de oficio deberán reunir los mismos requisitos que se exigen a los agentes del ministerio público.
-
-## TITULO SEXTO
-
-### CAPITULO PRIMERO.
-
-De la Hacienda Pública del Estado.
 
 ###### Art. 106.
 
@@ -1737,9 +1757,9 @@ Los bienes del dominio público municipal son inalienables, imprescriptibles e i
 
 > <small>(REFORMADA SU NUMERACION, P.O. 21 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO SEGUNDO. De la Fiscalización Superior del Estado
+### CAPITULO PRIMERO.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
+De la Hacienda Pública del Estado.
 
 ###### Art. 116.
 
@@ -1787,9 +1807,9 @@ El año fiscal queda comprendido del primero de enero al 31 de diciembre, inclus
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
+### CAPITULO SEGUNDO. De la Fiscalización Superior del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
 
 ###### Art. 121.
 
@@ -1865,9 +1885,9 @@ Dicho titular, durante el ejercicio de su encargo, no podrá formar parte de nin
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO UNICO. De la Supremacía, Inviolabilidad y Reformas de esta Constitución
+### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ABRIL DE 1995)</small>
 
 ###### Art. 122.
 
@@ -2001,9 +2021,9 @@ En demandas del orden civil no habrá fuero, ni inmunidad para ningún servidor 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO UNICO. Prevenciones Generales
+### CAPITULO UNICO. De la Supremacía, Inviolabilidad y Reformas de esta Constitución
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 ###### Art. 130.
 
@@ -2024,6 +2044,10 @@ Las proposiciones de reforma o adición, que no fueren admitidas por la Legislat
 > <small>(ADICIONADA SU NUMERACION, P.O. 9 DE ABRIL DE 1988)</small>
 
 ## TITULO DECIMO
+
+### CAPITULO UNICO. Prevenciones Generales
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 1988)</small>
 
 ###### Art. 133.
 
@@ -3050,3 +3074,11 @@ Se abroga el Acuerdo aprobado por la Vigésima Novena Legislatura al H. Congreso
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, previa aprobación de los Ayuntamientos de la entidad, de conformidad a lo previsto por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit.
 
 Artículo Segundo.- Por lo que respecta al artículo segundo del presente decreto entrará en vigor el día de su aprobación por el Pleno de la Asamblea Legislativa, debiéndose publicar en la Gaceta Parlamentaria del Congreso del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente decreto a los Ayuntamientos Constitucionales de la entidad.
+
+Artículo Tercero.- El Congreso del Estado deberá realizar las adecuaciones normativas necesarias a más tardar dentro de los 120 días siguientes a la entrada en vigor del presente decreto.
