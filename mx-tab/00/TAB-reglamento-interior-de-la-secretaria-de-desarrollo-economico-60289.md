@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-desarrollo-economico-60
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-13"
-last_updated: "2008-02-13"
+last_updated: "2010-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 4 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 13 de febrero de 2008.
 
@@ -1056,3 +1058,17 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO
 LIC. MARIO DE LA CRUZ SARABIA
 
 SECRETARIO DE DESARROLLO ECONÓMICO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Suplemento al Periódico Oficial número 6828, de fecha 13 de febrero de 2008, así como las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO. En caso de que por razones de presupuesto no se pudiese establecer alguna Unidad prevista en este Reglamento, se creará cuando sea posible, mientras tanto sus funciones serán ejercidas por la unidad administrativa correspondiente.
+
+CUARTO. Los asuntos pendientes al entrar en vigor el presente Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas Unidades a las que se les haya atribuido la competencia en este Reglamento.
+
+QUINTO. Para su mejor desempeño, la Secretaría deberá expedir los manuales de organización y procedimientos respectivos, con base en su competencia, en tanto se expiden los manuales en mención, en caso de duda sobre la interpretación del presente Reglamento, el Secretario resolverá lo conducente.
