@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2010-10-13"
+last_updated: "2010-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE DICIEMBRE DE 2010.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -85,9 +85,11 @@ La renuncia autorizada en el artículo anterior no produce efecto alguno si no s
 
 Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos, excepto en los casos en que la ley ordene lo contrario.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 9o.
 
-La Ley solo queda abrogada o derogada por otra posterior que así lo declare expresamente, o que contenga disposiciones total o parcialmente incompatibles con la ley anterior.
+La Ley solo queda abrogada o derogada por otra posterior que así lo declare expresamente, o que contenga disposiciones total o parcialmente incompatibles con esta.
 
 ###### Artículo 10.
 
@@ -111,9 +113,11 @@ Los efectos jurídicos de actos y contratos celebrados fuera del Estado que deba
 
 Los bienes inmuebles ubicados en el Estado y los bienes muebles que en él se encuentren, se regirán por las disposiciones de este Código.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 15.
 
-Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen; pero los interesados residentes fuera del Estado quedan en libertad para sujetarse a las formas prescritas por este Código cuando el acto haya de tener ejecución dentro del territorio del mismo.
+Los actos jurídicos, en todo lo relativo a su forma, se regirán por las leyes del lugar donde tengan verificativo; pero los interesados residentes fuera del Estado quedan en libertad para sujetarse a las formas prescritas por este Código cuando el acto haya de tener ejecución dentro del territorio del mismo.
 
 ###### Artículo 16.
 
@@ -123,7 +127,9 @@ Los habitantes del Estado de Nayarit deberán ejercer sus actividades y de usar 
 
 Cuando alguno, explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho de pedir la rescisión del contrato, y de ser ésta imposible, la reducción equitativa de su obligación.
 
-El derecho concedido en este artículo dura un año.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+La acción derivada de este artículo prescribirá en dos años.
 
 ###### Artículo 18.
 
@@ -137,9 +143,11 @@ Las controversias judiciales del orden civil deberán resolverse conforme a la l
 
 Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable, la controversia se decidirá a favor del que trate de evitarse perjuicios y no a favor del que pretenda obtener lucro. Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá observando la mayor igualdad posible entre los interesados.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 21.
 
-La ignorancia de las leyes no excusa su cumplimiento; pero los jueces, teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, si está de acuerdo el Ministerio Público, exhimirlos (sic) de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente al interés público.
+La ignorancia de las leyes no excusa su cumplimiento; pero los jueces, teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, si está de acuerdo el Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente al interés público.
 
 # LIBRO PRIMERO
 
@@ -259,6 +267,10 @@ Del domicilio.
 
 El domicilio de las personas físicas es el lugar donde residen habitualmente, y a falta de éste, el lugar del centro principal de sus negocios, en ausencia de éstos, el lugar donde se encontraren. Se presume que una persona reside habitualmente en un lugar, cuando permanezca en él por más de seis meses.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+Se entiende como centro principal de negocios de una persona, el lugar en donde ejerza habitual o mayormente su ocupación laboral o profesional o desarrolle actividades comerciales.
+
 ###### Artículo 30o.
 
 (DEROGADO, P.O. 6 DE AGOSTO DE 1994)
@@ -301,13 +313,13 @@ IV.- De los cónyuges, aquél en el cual éstos vivan de común acuerdo, sin pre
 
 V.- De los militares en servicio activo, el lugar en que estén destinados;
 
-> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
-VI.- De los servidores públicos, el lugar donde desempeñen sus funciones por más de seis meses, y
+VI.- De los servidores públicos, el lugar sede de la institución donde desempeñen sus funciones.
 
-> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
-VII.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
+VII.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
@@ -343,17 +355,17 @@ Disposiciones Generales.
 
 El Registro Civil es la Institución de carácter público y de interés social, por medio de la cual, el Estado inscribe y da publicidad a los actos constitutivos o modificativos del Estado Civil de las personas.
 
-> <small>(ADICIONADO, P.O. 1º. DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
-El Registro Civil está constituido por la Dirección Estatal del Registro Civil, su Archivo Central y las Oficialías que establezcan a los Ayuntamientos.
+El Registro Civil está constituido por la Dirección Estatal, su Archivo Central, las Direcciones Municipales y Oficialías que establezcan los Ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 1º. DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
-La titularidad de las Oficialías del Registro Civil estará a cargo de los funcionarios municipales denominados Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
+La titularidad de las Oficialías del Registro Civil estará a cargo de los funcionarios municipales denominados Oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo. Los titulares de las Direcciones Municipales del Registro Civil tendrán las mismas facultades y obligaciones que las reservadas para los oficiales.
 
-> <small>(ADICIONADO, P.O. 1º. DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
-Las actas de Registro Civil se asentarán en formatos especiales cuya estructura y contenido estarán determinados por las disposiciones legales relativas. El asentamiento de un acta en un formato no autorizado producirá su nulidad. Las inscripciones se harán mecanográficamente y por quintuplicado, asignando la clave CURP.
+Las actas de Registro Civil se asentarán en formatos especiales cuya estructura y contenido estarán determinados por las disposiciones legales relativas. El asentamiento de un acta en un formato no autorizado producirá su nulidad. Las inscripciones se harán mecanográficamente y por quintuplicado, insertando la clave CURP.
 
 > <small>(ADICIONADO, P.O. 1º. DE SEPTIEMBRE DE 1990)</small>
 
@@ -381,23 +393,23 @@ Los formatos serán expedidos por la Dirección Estatal del Registro Civil, los 
 
 El estado civil de las personas sólo se comprueba con las constancias relativas del Registro. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
 
-Cuando se hayan perdido, estuviesen ilegibles o faltasen los formatos en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumento, pero si existiese al menos un ejemplar del acta, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+Cuando se hayan perdido, estuviesen ilegibles o faltasen los formatos en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto mediante documento indubitable, pero si existiese al menos un ejemplar del acta, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 41.
 
-Si se perdiere o destruyese alguno de los formatos o libros del Registro Civil, se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Director Estatal del Registro Civil, del Encargado del Archivo Central y del Oficial respectivo, para cuyo efecto el Funcionario Titular del lugar donde ocurra la pérdida, dará aviso a los demás.
+Si se perdiere o destruyese alguno de los formatos o libros del Registro Civil, se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Director Estatal del Registro Civil, del Encargado del Archivo Central y del Oficial respectivo, para cuyo efecto el Funcionario Titular del lugar donde ocurra la pérdida deberá dar aviso a más tardar dentro de los quince días hábiles siguientes a los demás.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 42.
 
-En el asentamiento de las actas del Registro Civil intervendrán: el Oficial que autoriza y da fe, los particulares que soliciten el servicio o sus representantes legales en su caso, y los testigos que corroboren el dicho de los particulares y atestigüen el acto, quienes deberán firmarlas o imprimir su huella digital en el espacio correspondiente, al igual que las demás personas que indiquen en las mismas, asimismo se imprimirá en ellas el sello de la Oficialía.
+En el asentamiento de las actas del Registro Civil intervendrán: el Oficial que autoriza y da fe, los particulares que soliciten el servicio o sus representantes legales en su caso, y los testigos que corroboren el dicho de los particulares y atestigüen el acto, quienes deberán identificarse, a satisfacción del Oficial del Registro Civil y firmar o imprimir su huella digital en el espacio correspondiente, al igual que las demás personas que indiquen en las mismas, asimismo se imprimirá en ellas el sello de la Oficialía.
 
 ###### Artículo 43.
 
@@ -481,11 +493,11 @@ De las actas de nacimiento.
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en el lugar donde aquél se encuentra.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 55.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, y a su falta, los abuelos paternos y maternos, en este orden, dentro de los ciento ochenta días naturales ocurridos.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, y a su falta, los abuelos paternos o maternos, a más tardar dentro de los ciento ochenta días naturales siguientes.
 
 ###### Artículo 56.
 
@@ -497,11 +509,11 @@ Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera d
 
 En las actas del Registro Civil por ningún concepto se asentarán palabras o expresiones que califiquen infamantemente a las personas. El acta que contenga alguna nota de tal naturaleza será testada por el Funcionario que tenga a su cargo el archivo correspondiente.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 58.
 
-El acta de nacimiento contendrá el año, mes, día, hora y lugar de nacimiento, sexo del registrado, el nombre propio que se le imponga y el primer apellido de los progenitores, si ambos se presentaren a reconocer, o, los dos apellidos del que lo presentare, sin que por motivo alguno puedan omitirse; la expresión de que si es registrado vivo o muerto, su expresión digital, el nombre, edad, domicilio, ocupación y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos; y si se cumplieron las prevenciones contenidas en los artículos siguientes.
+El acta de nacimiento contendrá la hora, día, mes, año, y lugar de nacimiento, sexo del registrado, el nombre propio que se le imponga y el primer apellido de los progenitores, si ambos se presentaren a reconocer, o, los dos apellidos del que lo presentare, sin que por motivo alguno puedan omitirse; la expresión de que si es registrado vivo o muerto, impresión de la huella digital, el nombre, edad, domicilio, ocupación y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos; y si se cumplieron las prevenciones contenidas en los artículos siguientes.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -525,7 +537,7 @@ Si el padre o la madre no pudieren ocurrir, ni tuvieren apoderado, pero solicita
 
 ###### Artículo 62.
 
-Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere, pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -543,23 +555,25 @@ Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen
 
 Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil con los vestidos, valores o cualesquiera otros objetos encontrados con él, el Oficial dará inmediatamente intervención al Ministerio Público.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 66.
 
-La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquiera casas de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas.
+La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 67.
 
-El acta de nacimiento que se asiente en estos casos contendrá el nombre propio y apellidos que el oficial imponga al niño, su sexo, la fecha y hora de nacimiento aproximadas, el probable lugar en que ocurrió, si es registrado vivo o muerto su impresión digital y las generales de la persona que presenta al registrado.
+El acta de nacimiento que se asiente en estos casos contendrá el nombre propio y apellidos que el oficial imponga al niño, su sexo, la fecha y hora de nacimiento aproximadas, el probable lugar en que ocurrió, si es registrado vivo o muerto, su huella digital y las generales de la persona que presenta al registrado.
 
-En el acta que el Ministerio Público levante en esta clase de asuntos se expresarán las circunstancias que designa el artículo 65, la edad aparente del niño, el nombre propio y apellidos que se le pongan y el nombre de la persona o institución que se encargue de él. Una copia de esta acta se destinará al apéndice del archivo.
+En el acta que el ministerio público levante en esta clase de asuntos se expresarán las circunstancias establecidas en el artículo 65, la edad aparente del niño, el nombre propio y apellidos que se le pongan y el nombre de la persona o institución que se encargue de él. Una copia de esta acta se destinará al apéndice del archivo.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
 ###### Artículo 68.
 
-Si con el exposito se hubieren encontrado documentos, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, el Oficial del Registro Civil, dispondrá su depósito en la oficina del Ministerio Público que corresponda. En el acta que levante el Ministerio Público se hará mención de tales objetos, dándose formal recibo de los mismos a quien se encargue de la atención del niño.
+Si con el expósito se hubieren encontrado documentos, alhajas u otros objetos que puedan conducir al reconocimiento de aquél, el Oficial del Registro Civil, dispondrá su depósito en la oficina del Ministerio Público que corresponda. En el acta que levante el Ministerio Público se hará mención de tales objetos, dándose formal recibo de los mismos a quien se encargue de la atención del niño.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -645,11 +659,11 @@ La omisión del registro, en el caso del artículo que antecede, no quita los ef
 
 En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación correspondiente.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 83.
 
-Si el reconocimiento se hiciere en oficinas distintas de aquélla en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación en el acta respectiva.
+Si el reconocimiento se hiciere en oficinas distintas de aquélla en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento remitirá, a más tardar entre los diez días hábiles siguientes, copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación en el acta respectiva.
 
 ### CAPITULO IV
 
@@ -687,11 +701,11 @@ El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá de
 
 De las actas de tutela.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimiento Civiles, el tutor dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que levante el acta respectiva. El Curador cuidará del cumplimiento de este artículo.
+Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimiento Civiles, el tutor dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que levante el acta respectiva. El Curador cuidará del cumplimiento de esta disposición.
 
 ###### Artículo 90.
 
@@ -703,9 +717,11 @@ La omisión del registro de tutela no impide al tutor entrar en ejercicio de su 
 
 El acta de tutela se extenderá en el formato de inscripción de sentencia y contendrá los datos señalados en el Artículo 128.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 92.
 
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido en el artículo 83.
+Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina el registro del nacimiento, lo prevenido en el artículo 83.
 
 ### CAPITULO VI
 
@@ -717,7 +733,9 @@ De las actas de matrimonio.
 
 Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
 
-I.- Los nombres y apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de los padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+I.- Los nombres y apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de los padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará esa circunstancia y se anotará la constancia con que se acredite la legal disolución de esa unión y la fecha de ésta;
 
 II.- Que no tienen impedimento legal para casarse, y;
 
@@ -735,11 +753,11 @@ II.- La constancia de que prestan su consentimiento para que el matrimonio se ce
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
-IV.- Un certificado suscrito por un médico, que asegure, bajo protesta de decir verdad, que los pretendientes, no padecen enfermedad alguna crónica e incurable que sea, además, contagiosa o hereditaria; ni que sean adictos a las drogas enervantes y en el caso del varón, que no sufre de impotencia incurable para la cópula.
+IV.- Un certificado suscrito por un médico, que asegure, bajo protesta de decir verdad, que los pretendientes, no padecen enfermedad alguna crónica e incurable que sea además contagiosa; ni que sean adictos a las drogas enervantes y en el caso del varón, que no sufre de impotencia incurable para la cópula;
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
+Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios oficiales de salud del Estado;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -829,6 +847,10 @@ Artículo 99 A.- El Oficial del Registro Civil dirigirá a los contrayentes una 
 
 Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el cartificado (sic) a que se refiere la fracción IV del artículo 94, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+Las conductas previstas en el presente artículo podrán dar origen al pago de daños y perjuicios.
+
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
 ###### Artículo 101.
@@ -867,11 +889,11 @@ El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento d
 
 Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el consentimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 108.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera ocasión, con una multa de 1 a 3 veces el monto del salario mínimo general vigente en la zona de que se trate, que impondrá y hará efectiva el Presidente Municipal, y en caso de reincidencia, con la destitución del cargo.
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será sancionado, en la primera ocasión, con una multa de veinte a cincuenta veces el monto del salario mínimo general vigente en la zona de que se trate, que impondrá y hará efectiva el Presidente Municipal, y en caso de reincidencia, con la destitución del cargo.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -907,11 +929,11 @@ Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados
 
 De las actas de defunción.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 113.
 
-Ninguna inhumación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otro plazo por la Autoridad que corresponda.
+Ninguna inhumación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -939,11 +961,11 @@ VI.- Nombre, número de cédula profesional y domicilio del médico que certifiq
 
 VII.- Nombre, edad, nacionalidad y domicilio de los testigos, y si fueren parientes del difunto, el grado en que lo sean.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 116.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios y otra cualquiera casa de comunidad; los huéspedes de los mesones y hoteles y los caseros de las casas de vecindad, tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
+Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios y cualquier otra casa de comunidad; los huéspedes de los mesones y hoteles y los caseros de las casas de vecindad, tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, de forma inmediata, a más tardar dentro de las veinticuatro horas siguientes a la muerte.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -961,9 +983,11 @@ Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará 
 
 En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 120.
 
-Si no parece el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece y las demás noticias que sobre el suceso puedan adquirirse.
+Si no se localiza el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no aparece y las demás noticias que sobre el suceso puedan obtenerse.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -1035,9 +1059,11 @@ De la Rectificación, Modificación y Aclaración de las Actas del Registro Civi
 
 La rectificación o modificación de un acta del estado civil no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 131.
 
-Ha lugar a pedir la rectificación:
+Solo puede solicitarse la rectificación de un acta del Registro Civil:
 
 I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
 
@@ -1119,17 +1145,21 @@ De los derechos y obligaciones que nacen del matrimonio.
 
 El matrimonio debe celebrarse ante la autoridad que establece la ley con las formalidades y solemnidad que ella exige.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 143.
 
-Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
+Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, no tendrá efecto jurídico alguno.
 
 ###### Artículo 144.
 
 Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce. La autoridad judicial competente puede conceder dispensas de edad por causas graves y justificadas.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 145.
 
-El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
+El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre y de su madre, si vivieren ambos, o del que sobreviva. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos que ejerzan la patria potestad o en su defecto con quienes cohabite. En ausencia de los anteriores, por los que sobrevivan.
 
 ###### Artículo 146.
 
@@ -1167,11 +1197,13 @@ I.- La falta de edad requerida por la ley, cuando no se haya sido dispensada;
 
 II.- La falta de consentimiento del que, o los que, ejerzan la patria potestad, el tutor o el juez en sus respectivos casos;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
-III.- El parentesco por consanguinidad sin limitación de grado en línea recta, ascendente o descendente. En la línea colateral igual el impedimento se extiende a los hermanos. En lo colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos siempre que estén en el tercer grado y no haya obtenido dispensa;
+III.- El parentesco por consanguinidad sin limitación de grado en línea recta, ascendente o descendente. En la línea colateral igual el impedimento se extiende a los hermanos. En lo colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
-IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+IV.- El parentesco por afinidad en línea recta, sin limitación alguna;
 
 V.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 1990)
 
@@ -1179,9 +1211,9 @@ VI.- El atentado contra la vida de alguno de los casados para contraer matrimoni
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
-VIII.- La impotencia incurable para la cópula; y las enfermedades crónicas e incurables que sean además, contagiosas o hereditarias;
+VIII.- La impotencia incurable para la cópula y las enfermedades crónicas e incurables que sean además, contagiosas;
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
 
@@ -1201,9 +1233,11 @@ De estos impedimentos sólo son dispensables la falta de acreditación de haber 
 
 El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 154.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+La mujer no puede contraer nuevo matrimonio, en tanto acredite no encontrarse encinta, a no ser que se encuentre en la prohibición establecida en el artículo 282.
 
 ###### Artículo 155.
 
@@ -1215,11 +1249,13 @@ Esta prohibición comprende también al curador y a los descendientes de éste y
 
 Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo anterior, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 157.
 
-Tratándose de mexicanos que se casen en el extranjero, dentro de tres meses de su llegada a la República se transcribirá el acta de la celebración del matrimonio en el Registro Civil del lugar en que se domicilien los consortes.
+Tratándose de mexicanos que se casen en el extranjero y que se domicilien en el Estado, podrán solicitar la trascripción del acta de matrimonio en la oficialía del Registro Civil de su domicilio.
 
-Si la transcripción se hace dentro de esos tres meses, sus efectos civiles se retrotraerán a la fecha en que se celebró el matrimonio; si se hace después, sólo producirá efecto desde el día en que se hizo la transcripción.
+Los derechos y obligaciones surgidas, se retrotraerán a la fecha de celebración del matrimonio.
 
 ### CAPITULO IV
 
@@ -1305,9 +1341,11 @@ Las capitulaciones matrimoniales son los pactos que los esposos celebran para co
 
 Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 175.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio o, en su caso, el juez que haya otorgado la dispensa.
 
 ###### Artículo 176.
 
@@ -1329,13 +1367,17 @@ La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede compr
 
 Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse compartícipes (sic) o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 180.
 
-En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
+En el caso del artículo anterior, las modificaciones que se realicen a las capitulaciones, deberán otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las originarias y en la inscripción del Registro Público de la Propiedad. De no darse cumplimiento a esta formalidad, las modificaciones que en su caso se hicieren no surtirán efectos contra terceros.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 181.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 175.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 175, o, en su caso, el juez que haya otorgado la dispensa.
 
 Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
 
@@ -1347,27 +1389,29 @@ I.- Si el socio administrador, por su notoria negligencia o torpe administració
 
 II.- Cuando el socio administrador hace cesión de bienes a sus acreedores, o es declarado en quiebra.
 
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+III.- Si el socio administrador, de manera dolosa realiza acciones en perjuicio de la sociedad conyugal.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 183.
 
 Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
 
-I.- La lista detallada de los bienes inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
+I.- La lista detallada de los bienes que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
 
-II.- La lista especificada de los bienes muebles que cada consorte introduzca a la sociedad;
+II.- La relación pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder a ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
 
-III.- Nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
+III.- Manifestación expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos o sus productos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad;
 
-IV.- La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad;
+IV.- El señalamiento de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción;
 
-V.- La declaración explícita de si la sociedad conyugal ha de comprender los bienes todos de los consortes, o solamente sus productos. En uno y en otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge;
+V.- La designación de quién será el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
 
-VI.- La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción;
+VI.- La indicación de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquiriente, o si deben repartirse entre ellos y en qué proporción;
 
-VII.- La declaración terminante acerca de quién debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
-
-VIII.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquiriente, o si deben repartirse entre ellos y en qué proporción;
-
-IX.- Las bases para liquidar la sociedad.
+VII.- Las bases para liquidar la sociedad.
 
 ###### Artículo 184.
 
@@ -2543,7 +2587,7 @@ La adopción es el acto jurídico mediante el cual una persona denominada adopta
 
 Requiere que el adoptante sea mayor de veinticinco años. En la adopción por ambos cónyuges basta que uno de ellos haya alcanzado dicha edad. En todo caso, el adoptante habrá de tener, por lo menos, diecisiete años más que el adoptado. Acreditando debidamente además:
 
-I. Estar en pleno goce de su (sic) derechos;
+I. Estar en pleno goce de sus derechos;
 
 II. Presentar certificado de idoneidad expedido por el Consejo Estatal de Adopciones;
 
@@ -3715,7 +3759,7 @@ Se exceptúan de lo dispuesto en el párrafo anterior los casos en que el error 
 
 ###### Artículo 544.
 
-Si se hubiere omitido listor (sic) algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; y el Juez, oído el parecer del tutor, determinará en justicia.
+Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; y el Juez, oído el parecer del tutor, determinará en justicia.
 
 ###### Artículo 545.
 
@@ -4997,7 +5041,7 @@ En caso de despojo, el que tiene la posesión originaria goza del derecho de ped
 
 ###### Artículo 781.
 
-Cuando se demuestre que una persona tiene en su poder una cosa en virtud de la situación de dependencia en que se encuentra respecto del propietario de esa cosa, y que la retirne (sic) en provecho de éste en cumplimento de las órdenes e instrucciones que de él ha recibido, no se le considera poseedor.
+Cuando se demuestre que una persona tiene en su poder una cosa en virtud de la situación de dependencia en que se encuentra respecto del propietario de esa cosa, y que la retiene en provecho de éste en cumplimento de las órdenes e instrucciones que de él ha recibido, no se le considera poseedor.
 
 ###### Artículo 782.
 
@@ -5017,7 +5061,7 @@ Se entiende que cada uno de los partícipes de una cosa que se posee en común, 
 
 ###### Artículo 786.
 
-La posesión da al que la tiene la presunción de propietario para todos los efectos legales. El que posee en virtud de un derecho personal, o de un derecho real distinto de la propiedad, no se presume propietario; pero si es poseedor de buena fe tiene a su favor la presención (sic) de haber obtenido la posesión del dueño de la cosa o derecho poseído.
+La posesión da al que la tiene la presunción de propietario para todos los efectos legales. El que posee en virtud de un derecho personal, o de un derecho real distinto de la propiedad, no se presume propietario; pero si es poseedor de buena fe tiene a su favor la presunción de haber obtenido la posesión del dueño de la cosa o derecho poseído.
 
 ###### Artículo 787.
 
@@ -5029,7 +5073,7 @@ La moneda y los títulos al portador no pueden ser reivindicados, del adquirente
 
 ###### Artículo 789.
 
-El poseedor actual que pruebe haber poseído en tiempo anterior, tiene a su favor la presención (sic) de haber poseído en el intermedio.
+El poseedor actual que pruebe haber poseído en tiempo anterior, tiene a su favor la presunción de haber poseído en el intermedio.
 
 ###### Artículo 790.
 
@@ -5085,7 +5129,7 @@ IV.- El de que se le abonen los gastos hechos por él para la producción de los
 
 ###### Artículo 799.
 
-El poseedor de buena fe a que se refiere el artículo anterior no responde del deterioso (sic) o pérdida de la cosa poseída, aunque haya ocurrido por hecho propio; pero sí responde de la utilidad que él mismo haya obtenido de la pérdida o deterioro.
+El poseedor de buena fe a que se refiere el artículo anterior no responde del deterioro o pérdida de la cosa poseída, aunque haya ocurrido por hecho propio; pero sí responde de la utilidad que él mismo haya obtenido de la pérdida o deterioro.
 
 ###### Artículo 800.
 
@@ -5407,7 +5451,7 @@ Si el tesoro se buscare con consentimiento del dueño del fundo, se observarán 
 
 ###### Artículo 869.
 
-Cuando uno tuviere la propiedad y otro el usufructo de una finca en que se haya encontrado el tesoro, si el que lo encontró fue el mismo usufructuario, la parte que le corresponde se determinará según las reglas que quedan establecidas para el descubridor extraño. Si el descubridor no es el dueño ni el usufructuario, el tesoro se repartirá entre el dueño y el descubridor, con exclusión del usufructuario, observándose en este caso lo dispuesto en los artículo (sic) 866, 867 y 868.
+Cuando uno tuviere la propiedad y otro el usufructo de una finca en que se haya encontrado el tesoro, si el que lo encontró fue el mismo usufructuario, la parte que le corresponde se determinará según las reglas que quedan establecidas para el descubridor extraño. Si el descubridor no es el dueño ni el usufructuario, el tesoro se repartirá entre el dueño y el descubridor, con exclusión del usufructuario, observándose en este caso lo dispuesto en los artículos 866, 867 y 868.
 
 ###### Artículo 870.
 
@@ -5797,7 +5841,7 @@ Los demás propietarios que no hayan contribuido a dar más elevación o espesor
 
 ###### Artículo 953.
 
-Cada propietario de una pared común podrá usar de ella en proporción al derecho que tenga en la comunidad; podrán por tanto, edificar, apoyando su obra en la pared común o introduciendo cigas (sic) hasta la mitad de su espesor, pero sin impedir el uso común y respectivo de los demás copropietarios. En caso de resistencia de los otros propietarios, se arreglarán por medio de peritos las condiciones necesarias para que la nueva obra no perjudique los derechos de aquéllos.
+Cada propietario de una pared común podrá usar de ella en proporción al derecho que tenga en la comunidad; podrán por tanto, edificar, apoyando su obra en la pared común o introduciendo vigas hasta la mitad de su espesor, pero sin impedir el uso común y respectivo de los demás copropietarios. En caso de resistencia de los otros propietarios, se arreglarán por medio de peritos las condiciones necesarias para que la nueva obra no perjudique los derechos de aquéllos.
 
 ###### Artículo 954.
 
@@ -5901,11 +5945,11 @@ Los frutos naturales o industriales pendientes al tiempo de comenzar el usufruct
 
 ###### Artículo 976.
 
-Los frutos civiles pertenecen al usufructuario en proporción del fruto que dure el usudructo (sic), aún cuando no estén cobrados.
+Los frutos civiles pertenecen al usufructuario en proporción del fruto que dure el usufructo, aún cuando no estén cobrados.
 
 ###### Artículo 977.
 
-Si el usudructo (sic) comprendiera cosas que se deteriorasen por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino, y no estará obligado a restituirlas, al concluir el usufructo, sino en el estado en que se encuentren, pero tiene obligación de indemnizar al propietario del deterioro que hubiere sufrido por dolo o negligencia.
+Si el usufructo comprendiera cosas que se deteriorasen por el uso, el usufructuario tendrá derecho a servirse de ellas, empleándolas según su destino, y no estará obligado a restituirlas, al concluir el usufructo, sino en el estado en que se encuentren, pero tiene obligación de indemnizar al propietario del deterioro que hubiere sufrido por dolo o negligencia.
 
 ###### Artículo 978.
 
@@ -5977,7 +6021,7 @@ El que se reserve la propiedad, puede dispensar al usufructuario de la obligaci�
 
 ###### Artículo 993.
 
-Si el usufructo fuere constituido por contrato, y el que contrató quedare de propietario y no exigiere en el contrato la fianza, no estará obligado el usufructuario a darla; pero si quedare de propietario un tercero, podrá perdirla (sic), aunque no se haya estipulado en el contrato.
+Si el usufructo fuere constituido por contrato, y el que contrató quedare de propietario y no exigiere en el contrato la fianza, no estará obligado el usufructuario a darla; pero si quedare de propietario un tercero, podrá pedirla, aunque no se haya estipulado en el contrato.
 
 ###### Artículo 994.
 
@@ -6435,7 +6479,7 @@ El propietario de árbol o arbusto contiguo al predio de otro, tiene derecho de 
 
 ###### Artículo 1091.
 
-Si fuere indispensable para constuir (sic) o reparar algún edificio pasar materiales por predio ajeno o colocar en él andamios y otros objetos para la obra, el dueño de este predio estará obligado a consentirlo, recibiendo la indemnización correspondiente al perjuicio que se le irrogue.
+Si fuere indispensable para construir o reparar algún edificio pasar materiales por predio ajeno o colocar en él andamios y otros objetos para la obra, el dueño de este predio estará obligado a consentirlo, recibiendo la indemnización correspondiente al perjuicio que se le irrogue.
 
 ###### Artículo 1092.
 
@@ -6493,7 +6537,7 @@ El uso y la extensión de las servidumbres establecidas por la voluntad del prop
 
 ###### Artículo 1103.
 
-Corresponde al dueño del predio dominante hacer a cu (sic) costa todas las obras necesarias para el uso y conservación de la servidumbre.
+Corresponde al dueño del predio dominante hacer a su costa todas las obras necesarias para el uso y conservación de la servidumbre.
 
 ###### Artículo 1104.
 
@@ -6747,7 +6791,7 @@ Respecto de las obligaciones con pensión o renta, el tiempo de la prescripción
 
 ###### Artículo 1148.
 
-Prescribe en cinco años la obligación de dar cuentas. En igual término se prescriben las obligaciones líquidas que resulten de la rendición de cuentas. En el primer caso, la prescripción comienza a correr desde el día en que el obligado termina su administración; en el segundo caso, desde el día en que la liquidación es aprobadad (sic) por los interesados o por sentencia que cause ejecutoria.
+Prescribe en cinco años la obligación de dar cuentas. En igual término se prescriben las obligaciones líquidas que resulten de la rendición de cuentas. En el primer caso, la prescripción comienza a correr desde el día en que el obligado termina su administración; en el segundo caso, desde el día en que la liquidación es aprobada por los interesados o por sentencia que cause ejecutoria.
 
 ### CAPITULO VI
 
@@ -8407,7 +8451,7 @@ Los gastos de entrega serán de cuenta del deudor, si no se hubiere estipulado o
 
 ###### Artículo 1460.
 
-No es válido el pago hecho con cosa ajena; pero si el pago se hubiere hecho con una cantidad de dinero u otra cosa fungible ajena, no habrá repetición contra el acreedor que la haya cojsumido (sic) de buena fe.
+No es válido el pago hecho con cosa ajena; pero si el pago se hubiere hecho con una cantidad de dinero u otra cosa fungible ajena, no habrá repetición contra el acreedor que la haya consumido de buena fe.
 
 ###### Artículo 1461.
 
@@ -9719,7 +9763,7 @@ Del mutuo con interés.
 
 Las donaciones legalmente hechas por una persona que al tiempo de otorgarlas no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido con todas las condiciones que sobre viabilidad exige el artículo 330.
 
-Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos o habiéndolos tenido no ha revocado la donación, ésta se volverá irrevocable. Lo mismo suced (sic) si el donante muere dentro de ese plazo de cinco años sin haber revocado la donación.
+Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos o habiéndolos tenido no ha revocado la donación, ésta se volverá irrevocable. Lo mismo sucede si el donante muere dentro de ese plazo de cinco años sin haber revocado la donación.
 
 Si dentro del mencionado plazo naciere un hijo póstumo del donante, la donación se tendrá por revocada en su totalidad.
 
@@ -11553,7 +11597,13 @@ II.- La razón social;
 
 III.- El objeto de la sociedad;
 
-IV.- El importe del capital social y la aportación con que cada socio debe contribuir.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+IV.- El domicilio en que se habrá de establecer, y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+V.- El importe del capital social y la aportación con que cada socio debe contribuir.
 
 Si falta alguno de estos requisitos se aplicará lo que dispone el artículo 2,062.
 
@@ -13847,7 +13897,7 @@ Es nula la institución hecha bajo la condición de que el heredero o legatario 
 
 ###### Artículo 2484.
 
-La condición que solamente suspende por cierto tiempo la ejecución del testamento, no impedirá que el heredero o el legatario alquieran (sic) derecho a la herencia o legado o la transmitan a sus herederos.
+La condición que solamente suspende por cierto tiempo la ejecución del testamento, no impedirá que el heredero o el legatario adquieran derecho a la herencia o legado o la transmitan a sus herederos.
 
 ###### Artículo 2485.
 
@@ -14577,7 +14627,7 @@ Si la identidad del testador no pudiere ser verificada, se declara esta circunst
 
 ###### Artículo 2640.
 
-En el caso del artículo que prece (sic), no tendrá validez el testamento mientras no se justifique la identidad del testador.
+En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
 
 ###### Artículo 2641.
 
@@ -14957,6 +15007,8 @@ De la sucesión legítima.
 
 De la sucesión de los ascendientes.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 2713.
 
 La herencia legítima se abre:
@@ -14981,7 +15033,9 @@ Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de 
 
 Tienen derecho a heredar por sucesión legítima:
 
-I.- Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado y en ciertos casos concubina;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
+
+I.- Los descendientes, cónyuge, concubina o concubinario en su caso, ascendientes y parientes colaterales dentro del cuarto grado;
 
 II.- A falta de los anteriores, heredará la Hacienda Pública del Estado.
 
@@ -15004,6 +15058,8 @@ Las líneas y grados de parentesco se arreglarán por las disposiciones contenid
 ### CAPITULO IV
 
 De la sucesión del cónyuge.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 2721.
 
@@ -15045,7 +15101,7 @@ De la sucesión de los colaterales.
 
 ###### Artículo 2729.
 
-A falta de descendientes y de cónyuge, sucederán el padre y la madre por partes iguales.
+A falta de descendientes y de cónyuge, así como de concubina o concubinario en su caso, sucederán el padre y la madre por partes iguales.
 
 ###### Artículo 2730.
 
@@ -15069,11 +15125,11 @@ Los miembros de cada línea dividirán entre sí por partes iguales la porción 
 
 Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes, excepto cuando haya sido adopción plena, pues en este caso sólo heredan los adoptantes.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 2735.
 
-Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción. Si la adopción fue plena, entonces se aplicará el artículo 2740 de este Código.
+Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
 
 ###### Artículo 2736.
 
@@ -15091,27 +15147,35 @@ De la sucesión de los concubinos.
 
 ###### Artículo 2738.
 
-El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene al morir el autor de la sucesión no igualan a la porción que a cada hijo debe corresponder. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
+El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
 
 ###### Artículo 2739.
 
-En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada; en el segundo, solo tendrá derecho a recibir lo que baste para igualar sus bienes con la porción mencionada.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 2740.
 
-Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
+Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en tres partes iguales, de las cuales dos se aplicarán al cónyuge y la otra a los ascendientes.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 2741.
 
-Concurriendo el cónyuge con uno o más hermanos del autor de la sucesión, tendrá dos tercios de la herencia, y el tercio restante se aplicará al hermano o se dividirá por partes iguales entre los hermanos.
+Concurriendo el cónyuge con uno o más hermanos del autor de la sucesión, éstos últimos sólo tendrán derecho a recibir alimentos conforme a lo previsto en la fracción VI del artículo 2502 de este Código.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 2742.
 
-El cónyuge recibirá las porciones que le correspondan conforme a los dos artículos anteriores, aunque tenga bienes propios.
+El cónyuge recibirá las porciones que le correspondan conforme a los artículos anteriores, aunque tenga bienes propios.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 2743.
 
-A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
+A falta de descendientes y ascendientes, el cónyuge sucederá en todos los bienes.
 
 ### CAPITULO VII
 
@@ -16064,3 +16128,7 @@ P.O. 13 DE OCTUBRE DE 2010.
 Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo segundo.- Las disposiciones del párrafo segundo del artículo 282 surtirán plenos efectos con relación a las sentencias que hubieren recaído a los juicios de divorcio voluntario anteriores a la entrada en vigor del presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2010.
+
+Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
