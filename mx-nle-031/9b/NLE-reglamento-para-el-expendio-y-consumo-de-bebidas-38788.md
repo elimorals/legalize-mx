@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-expendio-y-consumo-de-bebidas-38788"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-31"
-last_updated: "2004-03-31"
+last_updated: "2010-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL EXPENDIO Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL MUNICIPIO DE JUAREZ, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 31 de marzo de 2004.
 
@@ -611,9 +611,15 @@ h) Fotografía del Licenciatario en caso de personas físicas.
 
 i) Las firmas del C. Presidente Municipal y del C. Secretario del R. Ayuntamiento, y los sellos oficiales correspondientes.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 33.
 
-La licencia concedida por el R. Ayuntamiento será revocada si el establecimiento no empieza a operar dentro de los 90 (noventa) días naturales siguientes a la fecha de expedición.
+La licencia concedida por el R. Ayuntamiento, será revocada si el establecimiento no empieza a operar dentro los (sic) 90-noventa días naturales siguientes a la fecha de la expedición. Así mismo (sic), el solicitante deberá realizar un pago en las cajas de la Secretaría de Finanzas y Tesorería Municipal, por concepto de pago de inicio de actividades de los establecimientos dedicados a la venta y/o consumo de bebidas alcohólicas, siendo las siguientes cantidades:
+
+I.- Los establecimientos contemplados en la fracción I del artículo 25 del presente Reglamento, deberán realizar el pago por 195 cuotas.
+
+II.- Por otra parte, el solicitante deberá realizar un pago en las cajas de la Secretaría de Finanzas y Tesorería Municipal, por un monto de 290 cuotas, para los establecimientos comprendidos en la fracción II del artículo 25 del presente Reglamento.
 
 ###### ARTICULO 34.
 
@@ -874,3 +880,11 @@ SINDICO PRIMERO
 C. ERIKA VICTORIA LOBATON TAMEZ
 
 SINDICO SEGUNDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 6 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Las reformas y adiciones a éste Reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se envie al C. Presidente Municipal para que tenga a bien instruir al titular de la Secretaria del R. Ayuntamiento, se mande publicar en el Periódico Oficial del Estado y en la Gaceta Municipal para los efectos jurídicos conducentes, y se informe a la población sobre el contenido de estas disposiciones.
