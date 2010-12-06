@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2010-10-04"
+last_updated: "2010-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -521,7 +521,7 @@ El Presidente del Congreso en los términos de las leyes, velará por el respeto
 
 ### CAPITULO III. De las facultades del Congreso
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE FEBRERO 1984)</small>
 
 ###### Artículo 20.
 
@@ -727,9 +727,9 @@ IV Bis.- Someter a referéndum las leyes, decretos, y las reformas a esta Consti
 
 V.- dar, interpretar y derogar Leyes y Decretos;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 6 DE DICIEMBRE DE 2010)</small>
 
-VI.- aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las Leyes de Ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año.
+VI.- Aprobar la Ley de Ingresos y el Presupuesto de Egresos del Gobierno del Estado y las leyes de ingresos de los municipios, a más tardar, el día 15 de diciembre de cada año. Asimismo, deberá incluir en el Presupuesto de Egresos mencionado, las erogaciones plurianuales, aprobadas conforme a la Ley de la materia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -759,9 +759,21 @@ VII Bis.- (DEROGADA, D.O. 17 DE MAYO DE 2010)
 
 VII Ter.- Revisar y evaluar, sin perjuicio de su autonomía técnica, presupuestal y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la Ley de la materia;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
 
-VIII.- dar bases conforme a las cuales el Ejecutivo pueda celebrar empréstitos a nombre del Estado, con las limitaciones puestas a las facultades de los Estados en el artículo 117 de la Constitución Federal; aprobar esos mismos empréstitos, reconocer y mandar pagar la deuda del Estado;
+VIII.- Establecer las bases conforme a las cuales el Poder Ejecutivo y los municipios puedan contraer obligaciones o empréstitos, con las limitaciones impuestas en el artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar dichas obligaciones y empréstitos, así como reconocer y mandar pagar la deuda del Estado;
+
+> <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+
+Vlll Bis.- Autorizar al Poder Ejecutivo y a los ayuntamientos a contratar deuda pública y afectar como garantía, fuente de pago o de cualquier otra forma, los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes;
+
+> <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+
+Vlll Ter.- Aprobar los proyectos para la prestación de servicios conforme a la ley de la materia y las asignaciones presupuestarias correspondientes a los ejercicios fiscales que se requieran. Asimismo, aprobar las asignaciones directas a dichos proyectos, conforme a las excepciones previstas por la legislación aplicable;
+
+> <small>(ADICIONADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+
+Vlll Quáter.- Aprobar la afectación de ingresos del Estado y de los municipios, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o de proyectos para prestación de servicios. Igualmente, corresponderá al H. Congreso del Estado, a solicitud del Titular del Poder Ejecutivo, la aprobación de la desafectación de esos ingresos en términos de la legislación aplicable;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1398,6 +1410,14 @@ XIII.- expedir la convocatoria para las elecciones ordinarias;
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
 XIV.- presentar ante el Congreso del Estado, a más tardar el día 25 de noviembre de cada año, las iniciativas relativas a la Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado, que hubieren de regir durante el año inmediato siguiente;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 6 DE DICIEMBRE DE 2010)</small>
+
+Asimismo, deberá incluir en el Presupuesto de Egresos del ejercicio fiscal que corresponda, las partidas necesarias para solventar las obligaciones adquiridas en ejercicios fiscales anteriores y pagaderas en dicho ejercicio, siempre que:
+
+a).- Constituyan deuda pública del Estado, o de las entidades paraestatales garantizadas por el Poder Ejecutivo, conforme a lo autorizado por las leyes y los decretos correspondientes, o
+
+b).- Deriven de contratos relativos a proyectos para la prestación de servicios aprobados por el H. Congreso, conforme a la ley de la materia.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
 
@@ -2135,7 +2155,15 @@ b) La desincorporación de algún bien de dominio público y su conversión al d
 
 II.- Para la aprobación de las Leyes de Ingresos de los Municipios, éstos enviarán su proyecto a la legislatura local, a más tardar el día 25 de noviembre de cada año;
 
-III.- Los presupuestos de egresos serán aprobados por los ayuntamientos con base a sus ingresos disponibles;
+> <small>(REFORMADA, D.O. 6 DE DICIEMBRE DE 2010)</small>
+
+III.- Los presupuestos de egresos serán aprobados por cada Ayuntamiento con base en sus ingresos disponibles y de acuerdo a la programación de sus actividades gubernamentales y administrativas, de conformidad con las disposiciones aplicables.
+
+El Ayuntamiento deberá aprobar en el Presupuesto de Egresos del ejercicio fiscal que corresponda, las partidas necesarias para solventar las obligaciones adquiridas en ejercicios fiscales anteriores y pagaderas en dicho ejercicio, siempre que:
+
+a).- Constituyan deuda pública del Municipio, o de las entidades paramunicipales garantizadas por el Ayuntamiento o el Poder Ejecutivo del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, o
+
+b).- Deriven de contratos relativos a proyectos para la prestación de servicios aprobados por el Ayuntamiento conforme a la ley de la materia.
 
 IV.- Los Ayuntamientos percibirán las contribuciones, incluyendo tasas adicionales, que establezcan los estados sobre la propiedad inmobiliaria, de su funcionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio del valor de los inmuebles;
 
@@ -3872,3 +3900,29 @@ El Director de Evaluación del Presupuesto será nombrado en el plazo que establ
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 En tanto se expida Ley reglamentaria de la fracción XL, del artículo 30 y la Ley reglamentaria del Título Décimo a que se refiere el artículo 98 de la Constitución Política del Estado de Yucatán, permanecerán vigentes los Títulos Octavo y Noveno de la Ley Orgánica del Poder Legislativo del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado en fecha 24 de febrero de 1988, mediante Decreto Número 6, misma que se abroga mediante esta Ley.
+
+D.O. 6 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas aquéllas disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las reformas y adiciones a las leyes relativas deberán realizarse dentro del plazo de 180 días, contados a partir de la entrada en vigor de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Remítase el presente proyecto de Decreto a los ayuntamientos del Estado, para efectos de lo establecido en el artículo 108 de la Constitución Política del Estado de Yucatán.
+
+###### ARTÍCULO QUINTO.
+
+Los ayuntamientos contarán con 90 días, contados a partir del día siguiente a aquél en que reciban el presente Decreto, para remitir al Congreso del Estado, el acuerdo de Cabildo que señale la conformidad o inconformidad con el mismo.
+
+###### ARTÍCULO SEXTO.
+
+La Oficialía Mayor del Congreso del Estado remitirá este Decreto a los ayuntamientos del Estado, a partir de su aprobación por el Pleno del Congreso, y deberá informar al Presidente del Congreso o de la Diputación Permanente, para efectos del cómputo correspondiente.
