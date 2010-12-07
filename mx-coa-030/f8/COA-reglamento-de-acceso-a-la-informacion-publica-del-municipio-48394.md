@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-acceso-a-la-informacion-publica-del-municipio-483
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-06"
-last_updated: "2006-11-24"
+last_updated: "2010-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "COA"
 
 REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE SALTILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL MUNICIPIO DE SALTILLO, PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 6 de enero de 2006.
 
@@ -718,3 +720,9 @@ Encargado del Despacho de la Secretaría del R. Ayuntamiento
 P.O. 24 DE NOVIEMBRE DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 7 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente al de su publicación en la Gaceta Municipal.
+
+SEGUNDO.- Se abroga el anterior Reglamento de Acceso a la Información Pública del Municipio de Saltillo publicado en la Gaceta Municipal número 070 de fecha 30 de diciembre de 2005.
