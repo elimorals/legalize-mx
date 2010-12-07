@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-auditoria-superior-del-estado-de-san-luis-potosi-52480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-30"
-last_updated: "2010-12-02"
+last_updated: "2010-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AUDITORIA SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 30 de mayo de 2006.
 
@@ -697,9 +697,13 @@ Los ayuntamientos y sus organismos descentralizados, en los términos de las ley
 
 El Congreso, a través de la comisión, turnará las cuentas públicas y los estados e informes financieros, a la Auditoría Superior del Estado.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 39 BIS. En caso de que cualquiera de los entes auditables, no presente la cuenta pública correspondiente, dentro de los términos que se precisan en el artículo anterior, ésta le será observada en su totalidad y se iniciará de inmediato el procedimiento de fincamiento de responsabilidades e imposición de sanciones respectivo.
+ARTICULO 39 BIS. En caso de que cualquiera de los entes auditables no presente la Cuenta Pública correspondiente, dentro de los términos que se fijan en el artículo anterior, ésta le será observada en su totalidad y se iniciará de inmediato el procedimiento para fincar responsabilidades e imposición de sanciones respectivo. Lo anterior, sin perjuicio de hacer del conocimiento del Ministerio Público esta omisión, en los términos previstos en el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 39 TER. Se procederá en los términos del artículo anterior, en contra de los entes auditables que omitan cumplir con la presentación de cualquier tipo de información contable, administrativa o legal, que las entidades fiscalizadoras les requieran para la revisión o análisis del ejercicio del gasto público.
 
 ###### ARTICULO 40.
 
@@ -1300,3 +1304,9 @@ P.O. 2 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil once, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
