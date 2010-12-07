@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-adquisiciones-enajenaciones-49895"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2010-08-13"
+last_updated: "2010-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO PARA EL PODER EJECUTIVO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2010 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO PARA EL PODER EJECUTIVO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE DICIEMBRE DE 2010.</small>
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de marzo de 2006.
 
@@ -211,23 +211,29 @@ IV. Realizar las juntas de aclaraciones de las bases de las licitaciones o subas
 
 V. Realizar los actos de presentación y apertura de ofertas o posturas, en las licitaciones o subastas;
 
-VI. Evaluar, considerando las tablas comparativas, las ofertas o posturas, de acuerdo a la Ley, el Reglamento y demás disposiciones legales y administrativas aplicables;
+> <small>(F. DE E. P.O. 7 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
+VI. Evaluar, considerando las tablas comparativas, las ofertas o posturas, de acuerdo a la Ley, el Reglamento y demás disposiciones legales y administrativas aplicables; y
 
-VII. Emitir los fallos de adjudicación de las licitaciones y subastas;
+(REFORMADA, P.O. 13 DE AGOSTO DE 2010) (F. DE E., P.O. 7 DE DICIEMBRE DE 2010)
 
-VIII. Autorizar en los contratos que haya adjudicado, el otorgamiento de anticipos en los términos de la Ley y el Reglamento;
+VII. Emitir los fallos de adjudicación de las licitaciones y subastas.
 
-IX. Acordar en los contratos que haya adjudicado, la prórroga para la entrega de los bienes o la prestación de los servicios, en los términos de la Ley y el Reglamento; y
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2010)</small>
 
-X. Acordar, sujetándose a los lineamientos que emita la Secretaría para tales efectos, la modificación, suspensión, terminación o rescisión de los contratos que haya adjudicado.
+VIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2010)
+
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2010)</small>
+
+IX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2010)
+
+> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2010)</small>
+
+X. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2010)</small>
 
 El comité respectivo podrá comisionar a los servidores públicos de la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría, para que realicen, a su nombre, los actos a que se refieren las fracciones IV, V y VI de este numeral, los que en la realización de dichos actos, deberán identificarse mediante el oficio correspondiente, exhibiendo además su nombramiento vigente.
-
-> <small>(DEROGADO TERCER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 20.
 
