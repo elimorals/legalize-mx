@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2010-09-07"
+last_updated: "2010-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE DICIEMBRE DE 2010.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -123,13 +123,15 @@ Delito continuado es aquél que se comete con pluralidad de conductas procedente
 
 ### CAPÍTULO III. DELITOS GRAVES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 13.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; comercio ilícito de bebidas alcohólicas en su modalidad de venta o distribución, previsto por el artículo 245, primer párrafo; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; falsificación de documentos previstos en el artículo 284-bis; abuso sexual previsto en el párrafo cuarto del artículo 309; violación, previsto por los artículos 313, 315 y 316; usura, previsto por el artículo 328; robo, previsto por el artículo 330, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; robo calificado previsto en el artículo 335 fracciones II, III, IV, VIII, IX y XI, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333, y fracciones I, VI, VII, X, XII y XIII del mismo artículo independientemente del monto de lo robado; robo con violencia previsto en el artículo 336; robo relacionado con vehículo automotor, previsto en el artículo 338, fracciones I, II, IV y VI; robo de ganado mayor, previsto por el artículo 339; robo de ganado menor previsto por el artículo 340 cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; daño en propiedad ajena doloso, previsto por el artículo 350 cuando el importe de lo dañado sea el establecido en la fracción IV del artículo 333; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368 en relación con el 372, 378 y 384; y homicidio en razón del parentesco o relación, previsto por el artículo 394.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el articulo 211; incesto, previsto por el artículo 227; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; falsificación de documentos, previsto en el articulo 284-bis; abuso sexual, previsto en el párrafo cuarto del artículo 309; violación, previsto por el artículo 313; violación equiparada, definido por el artículo 315; robo calificado previsto en las fracciones I, VI, VII, X, XII y XIII del artículo 335, cuando el importe de lo robado sea el establecido en las fracciones III ó IV del numeral 333; robo con violencia previsto en el artículo 330, en relación con el 336; robo relacionado con vehículo automotor, previsto en el artículo 338, fracciones I, II , IV y VI; robo de ganado mayor, previsto por el artículo 339, a partir de dos piezas; robo de ganado menor, previsto por el artículo 340, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368, en relación con el 372, 378, 384 y 385; y homicidio en razón del parentesco o relación, previsto por el artículo 394.
+
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 A quienes se atribuya haber cometido algún delito grave de los señalados en el párrafo anterior, no tendrán derecho a la libertad provisional bajo caución, a que hace referencia el Código de Procedimientos en Materia Penal.
 
@@ -1219,6 +1221,10 @@ El motín se sancionará con prisión de seis meses a cuatro años y de diez a c
 
 ### CAPÍTULO II. QUEBRANTAMIENTO DE SANCIÓN
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 150.
 
 Quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer los delitos previstos en este Título, serán sancionados con prisión de uno a seis años y de cincuenta a doscientos días-multa.
@@ -1279,9 +1285,9 @@ Al prófugo no se le contará el tiempo que hubiere estado fuera del lugar de re
 
 ###### ARTÍCULO 161.
 
-El condenado a destitución de cargo o empleo, suspensión o inhabilitación para desempeñar éstos o para ejercer alguna profesión, arte, oficio, autorización, licencia o permiso, en cuyo ejercicio delinquió y que quebrante su condena, será sancionado con hasta tres meses de prisión y hasta treinta días-multa.
+El condenado a destitución de cargo o empleo, suspensión o inhabilitación para desempeñar éstos o para ejercer alguna profesión, arte, oficio, autorización, licencia o permiso, en cuyo ejercicio delinquió y que quebrante su condena, se le impondrá de uno a tres meses de prisión o de diez a sesenta días-multa y de diez a sesenta días de trabajo en favor de la comunidad.
 
-En caso de reincidencia se impondrá de uno a seis años de prisión y hasta treinta días-multa.
+En caso de reincidencia se impondrá de uno a seis años de prisión y de veinte a sesenta días-multa.
 
 ### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
 
@@ -1315,9 +1321,17 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 ### CAPÍTULO II. OPOSICIÓN A LA EJECUCIÓN DE OBRAS O TRABAJOS PÚBLICOS
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ## TÍTULO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS DE COMUNICACIÓN, DE LOS MEDIOS DE TRANSPORTE Y VIOLACIÓN DE CORRESPONDENCIA
 
 ### CAPÍTULO III. VIOLACIÓN DE SELLOS
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 166.
 
@@ -1345,19 +1359,33 @@ Las mismas sanciones se impondrán al dueño y al encargado de la vigilancia y c
 
 Estas sanciones se impondrán independientemente de las que correspondan si resultare cometido otro delito.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 171.
 
-Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de las sanciones correspondientes al delito que resulte, podrá inhabilitarse al infractor para manejar aquéllos, por un término que no exceda de dos años. En caso de reincidencia, la inhabilitación será definitiva.
+Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de las sanciones correspondientes al delito que resulte, se inhabilitará al conductor para manejar aquéllos por un término de tres meses a dos años, plazo que se contará a partir de que sea puesto en libertad, siempre que se le haya impuesto la sanción de prisión. En caso de reincidencia la inhabilitación será definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 172.
 
-A quien en estado de ebriedad o bajo el influjo de drogas o substancias similares, conduzca algún vehículo, se le impondrá de seis meses a cinco años de prisión y hasta cuarenta días-multa, además de la sanción correspondiente al delito que se hubiere cometido.
+A quien en estado de ebriedad o bajo el influjo de drogas o substancias similares, conduzca algún vehículo de motor, se le impondrá de seis meses a cinco años de prisión o de cincuenta a cien días multa y de cincuenta a cien días de trabajo en favor de la comunidad, además de la sanción correspondiente al delito que se hubiere cometido.
 
 Para efectos de este Código se considera que una persona se encuentra en estado de ebriedad cuando en su organismo existen 100 miligramos o más de alcohol por cada 100 mililitros de sangre o cuando existen 130 miligramos o más de alcohol por cada 100 mililitros de orina.
 
 Si este delito se comete por conductores de vehículos de transporte escolar o de servicio público de pasajeros, se duplicarán las sanciones señaladas en este artículo.
 
 A quien cometa delito establecido en este artículo se le aplicarán además las sanciones que se mencionan en el artículo 171 de este Código.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+En caso de reincidencia, en los términos previstos en este Código, se impondrán simultáneamente las sanciones de prisión y pecuniaria.
 
 ###### ARTÍCULO 173.
 
@@ -1387,13 +1415,21 @@ El delito de violación de correspondencia sólo se perseguirá por querella del
 
 A quien sin causa legítima rehusare prestar un servicio de interés público a que la Ley obligue, se le aplicará de tres a cien jornadas de trabajo en favor de la comunidad.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 178.
 
-Se impondrá de tres meses a dos años de prisión y de dos a veinte días-multa, a quien sin causa legítima desobedeciere un mandato de la autoridad o se negare a comparecer ante la misma a rendir declaración cuando legalmente se le exija, habiéndose impuesto previamente alguno de los medios de apremio que la autoridad estime conducente.
+Se impondrá de tres meses a dos años de prisión o de diez a cuarenta días-multa y de diez a cuarenta días de trabajo en favor de la comunidad, a quien sin causa legítima desobedeciere un mandato de la autoridad o se negare a comparecer ante la misma a rendir declaración cuando legalmente se le exija, habiéndose impuesto previamente alguno de los medios de apremio que la autoridad estime conducente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 179.
 
-A quien empleando violencia física o moral se oponga a que la autoridad o sus agentes ejerzan alguna de sus funciones o resista el cumplimiento de una orden legítima cuya ejecución se lleve a cabo en forma legal, se le aplicarán de seis meses a dos años de prisión y de seis a veinte días-multa.
+A quien empleando violencia física o moral se oponga a que la autoridad o sus agentes ejerzan alguna de sus funciones o resista el cumplimiento de una orden legítima cuya ejecución se lleve a cabo en forma legal, se le aplicarán de seis meses a dos años de prisión o de veinte a sesenta días-multa y de veinte a sesenta días de trabajo en favor de la comunidad.
 
 ###### ARTÍCULO 180.
 
@@ -1409,19 +1445,23 @@ Si el compareciente insistiere en su negativa se le impondrá las sanciones que 
 
 ###### ARTÍCULO 182.
 
-Al que con actos contrarios a la Ley trate de impedir la ejecución de una obra o un trabajo públicos, ordenados o autorizados legalmente por la autoridad competente, se le impondrá de un mes a un año de prisión y de seis a cincuenta días-multa.
+Al que con actos contrarios a la Ley trate de impedir la ejecución de una obra o un trabajo públicos, ordenados o autorizados legalmente por la autoridad competente, se le impondrá de un mes a un año de prisión o de veinte a cien días-multa y de veinte a cien días de trabajo en favor de la comunidad.
 
-Cuando el delito se cometa por varias personas de común acuerdo, se aplicará de tres meses a dos años de prisión y de doce a cien días-multa. Si se usare violencia, se le aplicará de seis meses a tres años de prisión y de veinte a doscientos días-multa; sin perjuicio de las sanciones aplicables al delito que resulte cometido.
+Cuando el delito se cometa por tres o más personas de común acuerdo, se aplicará de tres meses a dos años de prisión y de veinte a cien días-multa. Si se usare violencia, se le aplicará de seis meses a tres años de prisión y de veinte a doscientos días-multa; sin perjuicio de las sanciones aplicables al delito que resulte cometido.
 
 ### CAPÍTULO II. ALTERACIONES NOCIVAS
 
 ###### ARTÍCULO 183.
 
-A quien viole los sellos puestos por orden de la autoridad pública se le impondrá prisión de un mes a tres años y de dos a diez días-multa.
+A quien viole los sellos puestos por orden de la autoridad pública se le impondrá prisión de un mes a tres años o de veinte a cuarenta días-multa y de veinte a cuarenta días de trabajo en favor de la comunidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 184.
 
-Si quien violare los sellos fuere el encargado de la custodia de los mismos o el funcionario que mandó ponerlos, la sanción anterior se aumentará en una mitad más de su duración.
+Si quien violare los sellos fuere el encargado de la custodia de los mismos o el funcionario que mandó ponerlos, se le impondrá de dos meses a cuatro años de prisión y de cuatro a veinte días multa.
 
 ### CAPÍTULO III. DELITOS EN MATERIA SANITARIA
 
@@ -1451,9 +1491,19 @@ IV. Requerido por las autoridades no dé auxilio para la comprobación del cuerp
 
 Los responsables de este ilícito responderán, solidaria y mancomunadamente con él o los autores del delito encubierto, de los daños causados.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+En el caso de que la persona sea encubridor de un delito que merezca pena alternativa, se le impondrá de tres meses a dos años de prisión o de diez a cuarenta días-multa y de diez a cuarenta días de trabajo en favor de la comunidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 187.
 
-Se aplicará igual sanción a la establecida en el artículo anterior, al servidor público que con motivo de sus funciones omita o retarde su intervención para impedir la comisión de un delito o la denuncia a la autoridad competente, de los hechos de que tuviere conocimiento y sean constitutivos de delito que se persiga de oficio.
+Se aplicará igual sanción a la establecida en el párrafo primero del artículo anterior, al servidor público que con motivo de sus funciones omita o retarde su intervención para impedir la comisión de un delito o la denuncia a la autoridad competente, de los hechos de que tuviere conocimiento y sean constitutivos de delito que se persiga de oficio.
 
 ###### ARTÍCULO 188.
 
@@ -1465,6 +1515,10 @@ Lo dispuesto en la fracción II del artículo 186 de este Código no comprende, 
 
 ### CAPÍTULO I. ULTRAJES A LA MORAL PÚBLICA Y A LAS BUENAS COSTUMBRES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 189.
 
 A quien sabiendo que está enfermo de un mal venéreo o de alguna enfermedad grave, transmisible en período infectante y de manera dolosa tenga cópula o por cualquier otro medio directo ponga en peligro de contagio la salud de otras personas, se le impondrá prisión de tres meses a tres años y además podrá ser recluido en un hospital.
@@ -1473,9 +1527,13 @@ Si la enfermedad contagiosa fuere incurable, se impondrá la sanción de tres me
 
 Cuando se trate de cónyuges, concubinarios o concubinas, sólo podrá procederse por querella del ofendido.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 190.
 
-Se impondrá prisión de un mes a dos años y de dos a cuarenta días-multa:
+Se impondrá prisión de un mes a dos años o de veinte a ochenta días-multa y de veinte a ochenta días de trabajo en favor de la comunidad:
 
 I. A quien venda, suministre o se niegue a destruir carnes, substancias u objetos que a juicio de la autoridad sanitaria sean considerados peligrosos por favorecer el contagio de enfermedades;
 
@@ -1526,6 +1584,8 @@ II. Sin cumplir con las disposiciones sanitarias, sitúe dentro de las zonas urb
 III. Sin justa causa interrumpa o limite los servicios de agua potable.
 
 ### CAPÍTULO IV. PROVOCACIÓN DE UN DELITO O APOLOGÍA DE ÉSTE O DE ALGÚN VICIO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTÍCULO 196.
 
@@ -1597,7 +1657,7 @@ Para proceder penalmente por los delitos previstos en este Capítulo, será nece
 
 ###### ARTÍCULO 207.
 
-Se aplicarán de seis meses a cinco años de prisión y de dos a sesenta días-multa a quien:
+Se aplicarán de seis meses a cinco años de prisión o de veinte a ciento veinte días-multa y de veinte a ciento veinte días de trabajo en favor de la comunidad, a quien:
 
 I. Fabrique, reproduzca o publique libros, escritos, dibujos, grabados, pinturas, impresos, imágenes, anuncios, emblemas, fotografías, esculturas o cintas de vídeo con contenido obscenos u otros objetos de la misma índole, y al que los distribuya, los exponga públicamente o los haga circular;
 
@@ -1709,9 +1769,13 @@ Si la persona objeto de la explotación por medio del comercio carnal fuere meno
 
 Si el delincuente fuera ascendiente, descendiente, cónyuge, concubinario, concubina, hermano, tutor, curador o tuviere cualquier otra autoridad sobre la persona explotada, la prisión será de dos a ocho años y de veinte a ciento sesenta días-multa. Además será privado de todo derecho de familia sobre la persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 215.
 
-A quien a sabiendas diere en arrendamiento, usufructo, o habitación, un edificio u otro local o cualquier parte de los mismos para explotar la prostitución, se le sancionará con prisión de seis meses a dos años y hasta con cien días-multa.
+A quien a sabiendas diere en arrendamiento, usufructo, o habitación, un edificio u otro local o cualquier parte de los mismos para explotar la prostitución, se le sancionará con prisión de seis meses a dos años o de veinte a doscientos días-multa y de veinte a doscientos días de trabajo en favor de la comunidad.
 
 ###### ARTÍCULO 216.
 
@@ -1723,11 +1787,15 @@ Si se emplease violencia o el agente se valiese de alguna función pública que 
 
 ###### ARTÍCULO 217.
 
-A quien públicamente provoque a cometer un delito o haga la apología de éste o de algún vicio o de quienes lo cometan, será sancionado con prisión de quince días a seis meses y de uno a seis días-multa, si el delito no se ejecutare. Si se consumare, se impondrá al provocador o apologista la sanción que le corresponda por su participación en el delito cometido.
+(DEROGADO, D.O. 7 DE DICIEMBRE DE 2010)
 
 ## TÍTULO OCTAVO. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO
 
 ### CAPÍTULO V. MATRIMONIOS ILEGALES
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 218.
 
@@ -1771,6 +1839,12 @@ Cuando la sustracción o retención de un menor de dieciocho años, se realice p
 
 Si el agente devuelve espontáneamente al menor antes de la vista pública, se le impondrá hasta una tercera parte de las penas señaladas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Este delito será perseguido por querella, cuando sea cometido por familiares en línea recta ascendente o descendente, en segundo grado colateral y por afinidad en el mismo grado de parentesco.
+
 ### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 224.
@@ -1813,9 +1887,13 @@ Además de las sanciones indicadas, el delincuente perderá todo derecho de here
 
 ### CAPÍTULO II. ALLANAMIENTO DE MORADA
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 226.
 
-Se impondrá sanción de un mes a dos años de prisión y de dos a cuarenta días-multa, a quien contraiga matrimonio sabiendo la existencia de un impedimento dispensable, previsto por el Código Civil del Estado.
+Se impondrá sanción de un mes a dos años de prisión o de veinte a ochenta días-multa y de veinte a ochenta días de trabajo en favor de la comunidad, a quien contraiga matrimonio sabiendo la existencia de un impedimento dispensable, previsto por el Código Civil del Estado.
 
 Se impondrá sanción de uno a cuatro años de prisión y de diez a cuarenta días-multa a quien contraiga matrimonio sabiendo la existencia de un impedimento no dispensable, previsto por el Código Civil del Estado.
 
@@ -1927,9 +2005,13 @@ VAGANCIA, MALVIVENCIA Y VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS
 
 La amenaza consiste en hechos concretos capaces de producir un estado de inquietud o de inseguridad en el disfrute de los derechos protegidos por las leyes durante un lapso prolongado, en cuanto aquéllos impliquen el anuncio de un mal cierto y posible pero siempre futuro.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 234.
 
-Se aplicará sanción de tres días a un año de prisión y de uno a cien días-multa a quien:
+Se aplicará sanción de tres días a un año de prisión o de veinte a doscientos días-multa y de veinte a doscientos días de trabajo en favor de la comunidad, a quien:
 
 I. Por cualquier medio amenace a otro con causarle un mal determinado en su persona, en su honor, en sus bienes o en sus derechos, o en la persona, honor, bienes o derechos de alguien con quien esté ligado por algún vínculo, y
 
@@ -1953,11 +2035,15 @@ III. Si lo que exigió fue que se dejara de ejecutar un acto lícito se le impon
 
 ###### ARTÍCULO 236.
 
-Se impondrá sanción de dos meses a tres años de prisión y de dos a veinte días-multa a quien, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la ley lo permita, sin permiso de la persona autorizada para darlo, se introduzca a un departamento, vivienda, habitación, aposento, dependencias de una casa habitación o permanezca en ellos, estén o no presentes sus habitantes en el momento de la comisión del delito.
+Se impondrá sanción de dos meses a tres años de prisión o de diez a cuarenta días-multa y de diez a cuarenta días de trabajo en favor de la comunidad, a quien, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la ley lo permita, sin permiso de la persona autorizada para darlo, se introduzca a un departamento, vivienda, habitación, aposento, dependencias de una casa habitación o permanezca en ellos, estén o no presentes sus habitantes en el momento de la comisión del delito.
 
 Las mismas sanciones se aplicarán a quienes en iguales condiciones a las que se precisan en el párrafo que antecede, se introduzcan a establecimientos públicos mientras éstos se mantengan cerrados.
 
 ### CAPÍTULO II. PRESTACIÓN INDEBIDA O ABANDONO DE UN SERVICIO PÚBLICO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 237.
 
@@ -2047,7 +2133,9 @@ La misma sanción a que se refiere el párrafo anterior se aplicará a quien a s
 
 Las sanciones a que se refiere el primer párrafo de este artículo se duplicarán cuando el delito de venta o distribución ilícita de bebidas alcohólicas se cometa de manera reiterada, o la venta se realice a menores de dieciocho años aun cuando ésta se efectúe en los establecimientos y horarios autorizados.
 
-Se considera reiterada la conducta cuando el agente activo haya sido condenado anteriormente por el mismo delito a que se refiere el párrafo primero de este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO CUARTO PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 Al servidor público que realice, encubra o favorezca la venta o distribución ilegal de bebidas alcohólicas se le aplicarán las sanciones a que se refiere el primer párrafo de este artículo, las que podrán ser duplicadas.
 
@@ -2055,21 +2143,25 @@ Se considera ilícita la venta o distribución de bebidas alcohólicas:
 
 I. Cuando se realice sin contar con la autorización o determinación que para ello establezcan las leyes y reglamentos aplicables;
 
-II. Cuando, contando con la autorización o determinación correspondiente, se lleve a cabo fuera de los establecimientos legalmente permitidos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-III. Cuando efectuándose en los establecimientos legalmente autorizados:
+II. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
-a). Se contravenga la disposición legal que restringe la venta de algún tipo de bebida alcohólica, y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-b). Se lleve a cabo fuera del horario autorizado por la autoridad competente, y
+III. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
 IV. Cuando se expendan o suministren para el consumo humano directo, bebidas que contengan alcohol etílico en proporción mayor al cincuenta y cinco por ciento en volumen.
 
-A quien compre bebidas alcohólicas expendidas ilícitamente, se le impondrá hasta la mitad de las sanciones establecidas en el primer párrafo de este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(DEROGADO ULTIMO PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 ###### ARTÍCULO 246.
 
-Si se cometiere un delito en estado de ebriedad, se aumentará de uno a seis meses de prisión la sanción respectiva; pero si el inculpado se hubiere embriagado expresamente para cometer el delito, el incremento será de dos meses a un año de prisión.
+(DEROGADO, D.O. 7 DE DICIEMBRE DE 2010)
 
 TÍTULO DECIMOTERCERO
 
@@ -2093,7 +2185,7 @@ Para la individualización de las sanciones previstas en este Título, el juez t
 
 ###### ARTÍCULO 250.
 
-Se impondrá prisión de un mes a dos años y de uno a treinta días-multa, al servidor público que:
+Se impondrá prisión de un mes a dos años o de veinte a sesenta días- multa y de veinte a sesenta días de trabajo en favor de la comunidad, al servidor público que:
 
 I. Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima y llenado todos los requisitos legales;
 
@@ -2167,6 +2259,10 @@ En ningún caso se devolverá a los responsables del delito de cohecho el dinero
 
 ### CAPÍTULO I. GOLPES
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 257.
 
 Comete el delito de concusión el servidor público que, con el carácter de tal y a título de impuesto, contribución, recargo, renta, rédito, salario o emolumento, exija por sí o por medio de otro, dinero, valores, servicios, o cualquiera otra cosa que sepa no es debida o en mayor cantidad que la señalada en la ley.
@@ -2178,6 +2274,10 @@ A quien cometa el delito de concusión se le impondrá de tres meses a seis año
 ### CAPÍTULO II. INJURIAS Y DIFAMACIÓN
 
 ### CAPÍTULO III. CALUMNIA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 259.
 
@@ -2211,6 +2311,10 @@ A quien cometa el delito de tráfico de influencias, se le impondrá de tres mes
 
 ### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 263.
 
 Comete el delito de peculado todo servidor público que para usos propios o ajenos distraiga de su objeto dinero, valores, fincas, o cualquier otra cosa perteneciente al Estado, a un Municipio, a una Institución Privada o Pública, a un Organismo Descentralizado, a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por cualquier otra causa.
@@ -2220,6 +2324,10 @@ Comete el delito de peculado todo servidor público que para usos propios o ajen
 A quien cometa el delito de peculado se le impondrá de seis meses a diez años de prisión, de veinte a doscientos días-multa y destitución e inhabilitación para desempeñar cualquier cargo público de dos a diez años.
 
 ### CAPÍTULO II. ABUSO SEXUAL
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 265.
 
@@ -2309,21 +2417,19 @@ II. Estarán obligados a la reparación del daño por sus propios actos y por lo
 
 Se impondrá sanción de seis meses a cinco años de prisión, de cien a trescientos días-multa, estarán obligados a la reparación del daño causado por su acto u omisión y, suspensión de tres meses a un año, a los médicos que habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, sin causa justificada y sin aviso oportuno, lo abandonen en su tratamiento o en casos urgentes, así como al facultativo que se negare sin causa justificada a prestar sus servicios a una persona que los necesitare.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
 ###### ARTÍCULO 271.
 
-Se aplicará suspensión de un mes a dos años en el ejercicio de su profesión a quien siendo:
+(DEROGADO, D.O. 7 DE DICIEMBRE DE 2010)
 
-I. Médico, enfermera, o farmacéutico en tiempo de epidemia y sin causa justificada no preste su cooperación a las autoridades sanitarias cuando para ello fuere requerido.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Médico, permita que en su consultorio ejerza como tal, una persona sin título debidamente registrado.
-
-Lo anterior no comprende el caso de estudiantes de medicina que deben prestar sus servicios en hospitales, sanatorios o clínicas, bajo la supervisión de un médico titulado, y
-
-III. Médico, cirujano, partero, enfermero o profesional similar y auxiliar, se niegue a prestar sus servicios a un lesionado, enfermo o parturienta, en caso de notoria urgencia por no recibir el pago anticipado de sus servicios.
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 272.
 
-Asimismo, se impondrá prisión de tres meses a dos años, hasta cien días-multa y suspensión de tres meses a un año a juicio del juzgador, a los directores, encargados o administradores de cualquier centro de salud o de agencias funerarias cuando incurran en alguno de los casos siguientes:
+Asimismo, se impondrá prisión de tres meses a dos años o de veinte a doscientos días-multa, de veinte a doscientos días de trabajo en favor de la comunidad y suspensión de tres meses a un año a juicio del juzgador, a los directores, encargados o administradores de cualquier centro de salud o de agencias funerarias cuando incurran en alguno de los casos siguientes:
 
 I. Impedir la salida de un paciente cuando éste o sus familiares lo soliciten, aduciendo adeudo de cualquiera índole;
 
@@ -2372,6 +2478,10 @@ TÍTULO DECIMOSEXTO
 FALSEDAD
 
 ### CAPÍTULO II. ABUSO DE CONFIANZA
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 277.
 
@@ -2507,11 +2617,15 @@ Lo prevenido en esta fracción no comprende los casos en que la parte sea examin
 
 VI. Siendo autoridad, rinda a otra informes en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 286.
 
-Al testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones, rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las dieron, únicamente se le impondrá de cien a trescientos días-multa.
+Al testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones, rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las dieron, se le impondrá de cien a trescientos días-multa.
 
-Pero si faltaren a la verdad al retractar sus declaraciones se les aplicará la sanción que corresponda conforme a este Capítulo, considerándolos como reincidentes.
+Si faltaren a la verdad al retractar sus declaraciones se considerarán como reincidentes y se les aplicará la sanción que corresponda conforme a este Capítulo.
 
 ###### ARTÍCULO 287.
 
@@ -2569,7 +2683,7 @@ DELITOS CONTRA EL HONOR
 
 ###### ARTÍCULO 293.
 
-Se aplicarán de tres días a un año de prisión y de uno a seis días-multa a quien, públicamente y fuera de riña, infiera a otro, sin lesionarlo, un golpe simple con ánimo de ofender.
+Se aplicarán de tres días a un año de prisión o de diez a veinte días-multa y de diez a veinte días de trabajo en favor de la comunidad, a quien, públicamente y fuera de riña, infiera a otro, sin lesionarlo, un golpe simple con ánimo de ofender.
 
 ### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
 
@@ -2583,7 +2697,11 @@ Cuando las injurias fueren recíprocas el Juez podrá, según las circunstancias
 
 La difamación consiste en comunicar dolosamente a una o más personas, la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra o afecte su reputación.
 
-El delito de difamación se sancionará con prisión de tres días a dos años o de diez a doscientos días-multa, o ambas sanciones a juicio de la autoridad judicial.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+El delito de difamación se sancionará con prisión de tres días a dos años o de veinte a doscientos días-multa.
 
 ###### ARTÍCULO 296.
 
@@ -2605,9 +2723,13 @@ III. Siendo el autor de un escrito presentado o de un discurso pronunciado en lo
 
 Lo prevenido en la fracción III de este artículo no comprende el caso en que, cuando la imputación sea calumniosa, se extienda a personas extrañas al litigio o envuelva hechos que no se relacionan con el negocio de que se trata. Si así fuere, se aplicarán las sanciones correspondientes a los delitos de difamación o calumnia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 298.
 
-Se sancionará con prisión de uno a cuatro años y de diez a doscientos días-multa, a quien difunda información que ataque a la moral, lesione derechos de terceros, falte al respeto de la vida privada de una o varias personas, provoque algún delito, tenga carácter sedicioso o de alguna otra forma perturbe el orden público.
+Se sancionará con prisión de uno a cuatro años o de cincuenta a doscientos días-multa y de cincuenta a doscientos días de trabajo en favor de la comunidad, a quien difunda información que ataque a la moral, lesione derechos de terceros, falte al respeto de la vida privada de una o varias personas, provoque algún delito, tenga carácter sedicioso o de alguna otra forma perturbe el orden público.
 
 Se consideran de carácter sedicioso las informaciones que inciten a las personas para impedir u obstaculizar la aplicación de las leyes, impedir a la autoridad el libre ejercicio de sus funciones o evitar el cumplimento de alguna providencia judicial o administrativa.
 
@@ -2617,7 +2739,7 @@ Para los efectos de este artículo se consideran que faltan al respeto a la vida
 
 ###### ARTÍCULO 299.
 
-Se impondrá prisión de seis meses a dos años o de diez a doscientos días-multa o ambas sanciones a juicio de la autoridad judicial, a quien:
+Se impondrá prisión de seis meses a dos años o de veinte a doscientos días-multa, a quien:
 
 I. Impute a otro un hecho determinado y calificado como delito por la Ley, si este hecho es falso o es inocente del mismo la persona a quien se le impute;
 
@@ -2625,7 +2747,11 @@ II. Presente denuncias o querellas calumniosas, entendiéndose por tales, aquél
 
 III. Para hacer que un inocente aparezca como inculpado de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
 
-Aunque se acredite la inocencia del calumniado o que son falsos los hechos en que se apoya la denuncia o querella, no se castigará como calumniador al que las hizo si probare plenamente haber tenido causas bastantes para incurrir en error.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Aunque se acredite la inocencia del calumniado o que son falsos los hechos en que se apoya la denuncia o querella, no se castigará al imputado si probare plenamente haber tenido alguna justificación bastante para incurrir en error, engaño o violencia física o moral para ello.
 
 Tampoco se aplicará sanción alguna al autor de una denuncia o querella, si los hechos que en ellas se imputan son ciertos, aunque no constituyan un delito y él, errónea o falsamente, les haya atribuido ese carácter.
 
@@ -2663,9 +2789,15 @@ No servirá de excusa de la difamación o de la calumnia, que el hecho imputado 
 
 Comete el delito de chantaje el que para obligar a otro a hacer, tolerar o dejar de hacer alguna cosa contra sus propios bienes jurídicos o a entregarle dinero o cualquier otro objeto, amenace con difamarlo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 307.
 
-Se aplicará prisión de tres días a cuatro años y de diez a cien días-multa, al que cometa el delito de chantaje.
+Se aplicará prisión de tres días a cuatro años o de cuarenta a doscientos días-multa y de cuarenta a doscientos días de trabajo en favor de la comunidad, al que cometa el delito de chantaje.
+
+Este delito se perseguirá por querella.
 
 TÍTULO DECIMOCTAVO
 
@@ -2675,9 +2807,13 @@ DELITOS SEXUALES
 
 ###### ARTÍCULO 308.
 
-A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá prisión de tres días a un año y de diez a quinientos días-multa. Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, se le destituirá, además, de su cargo. Sólo se procederá contra el hostigador a petición de parte ofendida.
+A quien con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá prisión de tres días a un año o de cuarenta a quinientos días multa y de cuarenta a quinientos días de trabajo en favor de la comunidad.
 
-En caso de reincidencia se le impondrá sanción de seis meses a dos años de prisión más la multa mencionada.
+Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de la sanción correspondiente por el delito de hostigamiento sexual, será destituido de su cargo.
+
+Sólo se procederá contra el hostigador a petición de parte ofendida.
+
+En caso de reincidencia se le impondrá sanción de seis meses a dos años de prisión y de cuarenta a quinientos días multa.
 
 ### CAPÍTULO V. ATAQUES PELIGROSOS
 
@@ -2685,9 +2821,13 @@ En caso de reincidencia se le impondrá sanción de seis meses a dos años de pr
 
 ###### ARTÍCULO 309.
 
-A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto lascivo o la obligue a ejecutarlo, se le impondrá sanción de seis meses a cuatro años de prisión, y de veinte a cien días-multa.
+A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto lascivo o la obligue a ejecutarlo, se le impondrá sanción de seis meses a cuatro años de prisión o de cuarenta a cien días-multa y de cuarenta a cien días de trabajo en favor de la comunidad.
 
-Si hiciere uso de la violencia física o moral, el mínimo y el máximo de la sanción se aumentarán hasta en una mitad.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Si hiciere uso de la violencia física o moral, el mínimo y el máximo de las sanciones se aumentarán, en una mitad y se aplicarán ambas penas.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -2700,6 +2840,12 @@ A quien obligue a tener sexo oral a cualquier persona por medio de la violencia 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
 Cuando la conducta prevista en el párrafo anterior se cometa en perjuicio de un menor de doce años, persona privada de razón o sentido, o de quien no tenga la capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, la sanción se incrementará en una mitad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Este delito se perseguirá a petición de parte ofendida.
 
 ###### ARTÍCULO 310.
 
@@ -2791,9 +2937,11 @@ DELITOS ELECTORALES
 
 Comete el delito de abuso de confianza quien con perjuicio de alguien disponga para sí o para otro, de cantidad de dinero en numerario, en billetes de banco o en papel moneda; de un documento que importe obligación, liberación o transmisión de derechos; o de cualquier otra cosa ajena mueble de la cual se le haya transferido la tenencia y no el dominio.
 
-Se sancionará con prisión hasta de un año y hasta con veinticinco días-multa, cuando el monto del ilícito no exceda de cien días de salario.
+Se sancionará con prisión de un mes a un año o de veinte a cuarenta días-multa y de veinte a cuarenta días de trabajo en favor de la comunidad, cuando el monto del ilícito no exceda de cien días de salario.
 
-Si excede de esta cantidad, pero no de seiscientos días de salario, la prisión será de uno a cuatro años y de veinticinco a cien días-multa.
+Si excede de cien pero no de trescientos días de salario la prisión será de uno a dos años o de veinticinco a sesenta días multa y de veinticinco a sesenta días de trabajo en favor de la comunidad.
+
+Si excede de trescientos pero no de seiscientos días de salario, la prisión será de dos a cuatro años y de sesenta a cien días-multa.
 
 Si el monto es mayor de seiscientos días de salario, la prisión será de cuatro a diez años y de cien a doscientos días-multa.
 
@@ -2895,9 +3043,15 @@ XXII. Siendo patrón, dolosamente simule créditos o cualquier otra obligación 
 
 El delito de fraude se sancionará de acuerdo con las siguientes reglas:
 
-I. Cuando el valor de lo defraudado no exceda de veinte veces el salario, las sanciones aplicables serán prisión de tres días a seis meses y de diez a cincuenta días-multa;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-II. Con prisión de seis meses a un año seis meses y de diez a cien días-multa, cuando el valor de lo defraudado excediere de veinte pero no de cien veces el salario;
+> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+I. Cuando el valor de lo defraudado no exceda de cien veces el salario, se impondrá de seis meses a un año seis meses de prisión o de cuarenta a cien días-multa y de cuarenta a cien días de trabajo en favor de la comunidad;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+II. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
 III. Con prisión de un año seis meses a cinco años y de cien a doscientos días-multa, cuando el valor de lo defraudado excediere de cien, pero no de seiscientas veces el salario;
 
@@ -2911,7 +3065,11 @@ Para estimar la cuantía del fraude se atenderá únicamente al valor intrínsec
 
 Este delito se perseguirá a petición de parte ofendida.
 
-Si el agente restituye el objeto del ilícito directamente al ofendido o tribunal de los autos antes de dictarse sentencia definitiva de primera o segunda instancia, las sanciones serán hasta de una tercera parte del máximo de la que correspondiera imponer o bien, podrán prescindir de la imposición de las mismas. En ambos casos, el juez o tribunal hará saber al inculpado en el momento procedimental oportuno, este beneficio.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Si el agente restituye el objeto del ilícito directamente al ofendido o tribunal de los autos antes de dictarse sentencia definitiva de primera o segunda instancia, se impondrá al imputado de un mes a una tercera parte del máximo de la que correspondería imponer o prescindir de la imposición de las mismas. En ambos casos, el juez o tribunal hará saber al inculpado en el momento procedimental oportuno, este beneficio.
 
 ### CAPÍTULO V. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS SERVIDORES PÚBLICOS
 
@@ -2931,6 +3089,12 @@ Se considera lucro excesivo la obtención de ganancias superiores a la tasa de i
 
 Si el sujeto activo reparare el daño, las sanciones a que se refiere el primer párrafo de este artículo serán hasta de una mitad del mínimo y máximo que correspondiere imponer.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+La usura será perseguida por querella.
+
 ### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 329.
@@ -2942,6 +3106,12 @@ I. Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pert
 II. Ocupe un inmueble de su propiedad que se halle en poder de otra persona por causa legítima, o ejerza actos de dominio que lesionen los derechos del ocupante.
 
 Si el despojo se efectúa por dos o más personas o con violencia, se aumentarán hasta en una mitad las penas señaladas, pero a los autores intelectuales, o a quienes dirijan el despojo se les aplicará prisión de uno a seis años y de diez a sesenta días-multa.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Este delito se perseguirá por querella.
 
 ### CAPÍTULO ÚNICO
 
@@ -2965,25 +3135,39 @@ Para la aplicación de la sanción se dará por consumado el robo desde el momen
 
 El robo simple se sancionará de acuerdo con las siguientes reglas:
 
-I. Cuando el valor de lo robado no exceda de cien veces el salario, se impondrá de seis meses a dos años de prisión y hasta cincuenta días-multa;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+I. Cuando el valor de lo robado no exceda de cien veces el salario, se impondrá de seis meses a dos años de prisión o de veinte a cincuenta días-multa y de veinte a cincuenta días de trabajo en favor de la comunidad.
+
+En este caso, cuando ocurra alguna calificativa o la violencia, previstos respectivamente en los artículos 335 y 336 de este Código, la sanción dejará de ser alternativa y se aplicarán ambas;
 
 II. Cuando exceda de cien veces el salario, pero no de trescientas, la sanción será de dos a cuatro años de prisión y de cincuenta a cien días-multa;
 
 III. Cuando exceda de trescientas veces el salario, pero no de ochocientas, la sanción será de cuatro a siete años de prisión y de cien a doscientos días-multa, y
 
-IV. Cuando exceda de ochocientas veces el salario, la sanción será de siete a doce años de prisión y de doscientos a cuatrocientos días-multa
+IV. Cuando exceda de ochocientas veces el salario, la sanción será de siete a doce años de prisión y de doscientos a cuatrocientos días-multa.
 
 ###### ARTÍCULO 334.
 
 Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada.
 
-Si ésta no fuere estimable en dinero o por su naturaleza no fuere posible fijar su valor o cantidad, se impondrá como sanción de seis meses a seis años de prisión y hasta cien días-multa.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-En los casos de tentativa de robo cuando no fuere posible determinar el monto, la sanción será de tres meses a cuatro años de prisión
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Si ésta no fuere estimable en dinero o por su naturaleza no fuere posible fijar su valor o cantidad, se impondrá como sanción de seis meses a seis años de prisión y de veinte a cien días-multa.
+
+En los casos de tentativa de robo cuando no fuere posible determinar el monto, la sanción será de tres meses a cuatro años de prisión.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 335.
 
-El robo tendrá carácter de calificado y además de las sanciones que correspondan conforme a los dos artículos anteriores, se impondrán al agente activo hasta cuatro años de prisión, cuando:
+El robo tendrá carácter de calificado y además de las sanciones que correspondan conforme a los dos artículos anteriores, se impondrán al agente activo de un mes a cuatro años de prisión, cuando:
 
 I. Se realice en lugar cerrado, en una vivienda o en un aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén constituidos;
 
@@ -3059,9 +3243,13 @@ Comete el delito de robo de ganado mayor, quien se apodere de ganado ajeno vacun
 
 Comete el delito de robo de ganado menor, quien se apodere de ganado ajeno asnar, porcino, o de cualquier otra de las clases no previstas en el artículo anterior, sin derecho o sin consentimiento de la persona que pueda disponer del mismo con arreglo a la Ley. Este delito se sancionará con prisión de uno a seis años.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 341.
 
-El robo de aves de corral se sancionará con prisión de dos meses a un año.
+El robo de aves de corral se sancionará con prisión de dos meses a un año o de veinte a cincuenta días multa y de veinte a cincuenta días de trabajo en favor de la comunidad.
 
 En caso de reincidencia o habitualidad la sanción será de uno a cinco años de prisión.
 
@@ -3081,9 +3269,13 @@ I. Cuando sin engaños ni medios violentos, se apodere una sola vez de los objet
 
 II. Cuando el valor de lo robado no rebase de diez veces el salario, sea restituido por el responsable espontáneamente y pague éste todos los daños y perjuicios, siempre que no se haya ejecutado el robo por medio de violencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 345.
 
-A quien se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le impondrán de un mes a dos años de prisión, siempre que justifique no haberse negado a devolverla si se le requirió para ello.
+A quien se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le impondrán de un mes a dos años de prisión o de veinte a cien días multa y de veinte a cien días de trabajo en favor de la comunidad, siempre que justifique no haberse negado a devolverla si se le requirió para ello.
 
 Además pagará al ofendido, como reparación del daño el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
@@ -3127,11 +3319,27 @@ Para la aplicación de las sanciones establecidas en este precepto y en los sigu
 
 Cuando el dueño de una cosa la incendie para defraudar a sus acreedores, para perjudicar a un tercero o para exigir indemnización por el incendio, se le impondrán las sanciones expresadas en el artículo que precede y además de las que correspondan al fraude en su respectivo grado.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 350.
 
-Cuando por cualquier medio distinto de los anteriores, se causen daños, destrucción o deterioro de cosa ajena o de cosa propia en perjuicio de tercero, se impondrán las sanciones del robo simple.
+Cuando por cualquier medio distinto de los anteriores, se causen daños, destrucción o deterioro de cosa ajena o de cosa propia en perjuicio de tercero, se impondrán las sanciones del robo simple previstas en el artículo 333 de este Código.
 
 En los casos de daño, destrucción o deterioro de cosa ajena o de cosa propia en perjuicio de tercero causado por animales de cualquier especie, se impondrán las sanciones prevenidas en este artículo, a los que tengan bajo su vigilancia y cuidado a tales animales, sean o no los dueños, siempre que haya dolo. Si los daños se cometieren por culpa del activo, se aplicarán las sanciones previstas para los delitos culposos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Se equipara al daño en propiedad ajena y se impondrán las sanciones del robo simple, a quien sin causa justificada y dolosamente ocasione la muerte o cualquier otra afectación física de un animal que sea propiedad de un tercero o esté bajo la posesión de éste.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Este delito será perseguido por querella.
 
 ###### ARTÍCULO 351.
 
@@ -3147,9 +3355,13 @@ A quien abandone a un niño incapaz de cuidarse a sí mismo o a una persona enfe
 
 A quien encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera y no diere aviso inmediato a la autoridad u omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrá de uno a seis meses de prisión o de diez a cien días-multa.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 354.
 
-El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que dejare en estado de abandono, sin prestarle o facilitarle asistencia y el cuidado que desde luego necesite, a persona a quien hubiere atropellado por culpa o accidente, será sancionado con prisión de uno a seis meses, independientemente de la sanción aplicable por el daño causado con el atropellamiento.
+El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que dejare en estado de abandono, sin prestarle o facilitarle asistencia y el cuidado que desde luego necesite, a persona a quien hubiere atropellado por culpa o accidente, será sancionado con prisión de uno a seis meses o de diez a cincuenta días-multa y de diez a cincuenta días de trabajo en favor de la comunidad, independientemente de la sanción aplicable por el daño causado con el atropellamiento.
 
 Para los efectos de este artículo se tomará en cuenta el lugar, la hora y demás circunstancias del caso y se considerará que no existe dicho delito, si el atropellamiento se verificó en un lugar en que la víctima pudiese recibir auxilio oportuno.
 
@@ -3167,9 +3379,13 @@ Cuando alguna de las conductas delictivas a que se refiere este Capítulo se rea
 
 Para los efectos de este Código, bajo el nombre de lesión se comprenden, no solamente las heridas, excoriaciones, contusiones, fracturas, dislocaciones y quemaduras, sino toda alteración en la salud y cualquier otro daño que deje huella material en el cuerpo humano, si estos efectos son producidos por una causa externa.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 358.
 
-A quien infiera una lesión que no ponga en peligro la vida del ofendido y tarde en sanar hasta quince días, se le impondrá de ocho días a seis meses de prisión y de diez a cincuenta días-multa. Si tardare en sanar más de quince días se le impondrá de seis meses a dos años de prisión y hasta sesenta días-multa.
+A quien infiera una lesión que no ponga en peligro la vida del ofendido y tarde en sanar hasta quince días, se le impondrá de ocho días a seis meses de prisión o de diez a cincuenta días-multa y de diez a cincuenta días de trabajo en favor de la comunidad. Si tardare en sanar más de quince días se le impondrá de seis meses a dos años de prisión y de diez a sesenta días-multa.
 
 Los delitos previstos en este artículo se perseguirán por querella.
 
@@ -3257,9 +3473,13 @@ Quien indujere o prestare auxilio a otro para que se suicide, será sancionado c
 
 Si en los casos a que se refiere el artículo que precede, el occiso o presunto suicida fuere menor de dieciocho años o padeciere alguna forma de enajenación mental, se aplicarán al instigador las sanciones señaladas al homicidio calificado o, en su caso, a las lesiones calificadas.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 376.
 
-Quien pudiendo impedir un suicidio no lo evite, será sancionado con prisión de un mes a un año.
+Quien pudiendo impedir un suicidio no lo evite, será sancionado con prisión de un mes a un año o de diez a cincuenta días-multa y de diez a cincuenta días de trabajo en favor de la comunidad.
 
 ###### ARTÍCULO 377.
 
@@ -3630,3 +3850,13 @@ Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del a�
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O. 7 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
