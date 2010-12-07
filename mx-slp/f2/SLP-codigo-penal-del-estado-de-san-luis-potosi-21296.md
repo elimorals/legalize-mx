@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2010-09-11"
+last_updated: "2010-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2010.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2829,15 +2829,29 @@ VI. Tiene obligación por razón de su empleo, cargo o comisión, de custodiar, 
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
-VII. Otorga empleo, cargo o comisión públicos, o celebra contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, en ejercicio de sus funciones o con motivo de ellas, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se le nombró, o no se cumplirá el contrato otorgado, u (sic)
+VII. Otorga empleo, cargo o comisión públicos, o celebra contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, en ejercicio de sus funciones o con motivo de ellas, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se le nombró, o no se cumplirá el contrato otorgado;
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
-VIII. En razón de su cargo ordene o ejecute actos u omisiones que impliquen el incumplimiento, o la elusión por simulación, de lo establecido en la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, en beneficio propio o de otros servidores públicos.
+VIII. Omita la remisión en tiempo y forma establecidos en la ley, de las cuentas públicas en los términos del artículo 38 de la Ley de Auditoría Superior del Estado de San Luis Potosí, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
+
+IX. Omita, de acuerdo a sus atribuciones, en términos de los artículos, 127 de la Constitución Política de los Estados Unidos Mexicanos; y 133 de la Constitución Política del Estado, cualquiera de las siguientes conductas:
+
+a) Incluir en el proyecto de presupuesto de egresos correspondiente, los tabuladores desglosados de las remuneraciones que se proponga perciban los servidores públicos de los poderes, Ejecutivo, Legislativo, o Judicial; de los organismos constitucionalmente autónomos; o de las entidades descentralizadas, o de las entidades paraestatales.
+
+b) Incluir en el presupuesto de egresos correspondiente los tabuladores desglosados de las remuneraciones que se proponga perciban los servidores públicos municipales; o de las entidades paramunicipales; o de los organismos descentralizados.
+
+c) Hacer públicos, las remuneraciones y tabuladores, debiendo especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo, como en especie.
+
+d) Atender las indicaciones del Congreso del Estado, para que se corrijan las irregularidades de los tabuladores de las remuneraciones de los servidores públicos del Estado, o de los municipios, que tiendan a dar estricto cumplimiento a lo que disponen, el párrafo cuarto del inciso c) de la fracción IV del artículo 115; los párrafos cuarto y quinto de la fracción II del articulo 116; o el artículo 127, de la Constitución General de la República.
 
 ###### ARTICULO 277.
 
@@ -2845,9 +2859,9 @@ El delito a que se refiere el artículo anterior se sancionará con una pena de 
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
-Al infractor de las fracciones IV, VI y VIII del artículo anterior, se le impondrá una pena de tres a siete años de prisión, sanción pecuniaria de sesenta a ciento cuarenta días del salario que perciba al momento de la comisión del delito, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos.
+Al infractor de las fracciones, IV, VI, VIII Y IX del artículo anterior, se le impondrá una pena de tres a siete años de prisión, sanción pecuniaria de sesenta a ciento cuarenta días del salario que perciba al momento de la comisión del delito, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO IX. CONCUSION
 
@@ -3532,5 +3546,11 @@ P.O. 11 DE SEPTIEMBRE DE 2010.
 DECRETO NUMERO 340, POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 27 DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil once, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
