@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-comision-para-el-acceso-a-la-50323"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-18"
-last_updated: "2006-04-18"
+last_updated: "2010-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50323&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PARA EL ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO
 
-REGLAMENTO INTERIOR DE LA COMISION PARA EL ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO
+REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 18 de abril de 2006.
 
@@ -772,3 +774,15 @@ MARÍA ANTONIA CÁRCAMO CORTEZ.
 Comisionada.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente Reglamento Interior del Instituto de Transparencia y Acceso a la Información Pública del Estado de Guerrero, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. A partir de la entrada en vigor del presente Reglamento Interior, queda abrogado el Reglamento Interior de la Comisión para el Acceso a la Información Pública del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado No. 31, de fecha 18 de abril de 2006.
+
+TERCERO. Para la selección de los funcionarios y personal administrativo del Instituto, se efectuará atendiendo los perfiles profesionales que requieran los cargos a desempeñar, y de acuerdo a los alcances del presupuesto.
+
+CUARTO. Los casos no previstos en este Reglamento Interior serán resueltos por acuerdo del Pleno.
