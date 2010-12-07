@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-de-los-servidores-publicos-del-33385"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2009-09-05"
+last_updated: "2010-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -479,11 +479,17 @@ XV. Abstenerse durante el ejercicio de sus funciones de solicitar, aceptar o rec
 
 XVI. Desempeñar su empleo, cargo o comisión sin obtener o pretender beneficios adicionales a las contraprestaciones comprobables que el Estado o municipio, o en su caso las entidades respectivas, le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XIII de este artículo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+XVI Bis. Atender las disposiciones que en materia de remuneraciones de los servidores públicos disponen los artículos, 115 fracción IV inciso c) párrafo penúltimo, y 127 de la Constitución Política de los Estados Unidos Mexicanos; y 133 de la Constitución Política del Estado. En los siguientes términos:
 
-XVI Bis. Abstenerse de ordenar o ejecutar actos u omisiones que impliquen el incumplimiento o la elusión por simulación de lo establecido en la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí, en beneficio propio o de cualesquiera otros servidores públicos, así como para las personas señaladas en la fracción XIII de este mismo artículo;
+a) Elaborar, de acuerdo a sus atribuciones, el presupuesto de egresos correspondiente, que incluirá los tabuladores desglosados de las remuneraciones de los servidores públicos; observando que ningún servidor público reciba remuneración, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado, en el presupuesto correspondiente.
+
+b) Atender que ningún servidor público reciba una remuneración igual o mayor de la que corresponda al cargo inmediato superior, en cuanto a nivel de responsabilidad o de categoría jerárquica, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos de los legalmente permitidos; que su remuneración sea producto de las condiciones generales de trabajo, convenios y acuerdos; derivado de un trabajo técnico calificado o por especialización en su función.
+
+c) Evitar conceder o cubrir jubilaciones, pensiones o haberes de retiro, liquidaciones por servicios prestados, préstamos o créditos, sin que éstas se encuentren asignados por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Y se excluyen los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+d) Publicar, de acuerdo a sus atribuciones, las remuneraciones y tabuladores de los servidores públicos de su adscripción, debiendo especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo, como en especie;
 
 XVII. Abstenerse de aprovechar su influencia, documentos o información privilegiada de que dispone, con el fin de obtener beneficios para sí o de las personas señaladas en la fracción XIII del presente artículo, así como de brindar atención o asesoría profesional, a cualquier persona física o moral cuyas actividades profesionales, comerciales, industriales o del servicio público, se encuentren o hayan estado directa o indirectamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión, o sujetas a su jurisdicción con motivo de su encargo. Esta prevención será aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
 
@@ -498,6 +504,10 @@ XXI. Atender con diligencia las instrucciones, requerimientos y resoluciones que
 XXII. Supervisar que los servidores públicos sujetos a su dirección cumplan con las disposiciones de este artículo; y denunciar por escrito ante la autoridad competente, los actos u omisiones que en ejercicio de sus funciones llegue a advertir respecto de cualquier servidor público, que pueda ser causa de responsabilidad administrativa en los términos de esta Ley y de las normas que al efecto se expidan;
 
 XXIII. Proporcionar en forma oportuna y veraz la información y datos solicitados por la institución a la que legalmente le compete la vigilancia y defensa de los derechos humanos, a efecto de que aquélla pueda cumplir con las facultades y obligaciones que le correspondan;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
+
+XXIII Bis. Proporcionar en forma oportuna y veraz, la información y datos solicitados en materia financiera, administrativa y legal, a las instituciones a quienes legalmente competa la vigilancia, o fiscalización, en su caso, del ejercicio de los recursos públicos estatales, municipales, así como de los organismos autónomos, con el objetivo de que aquéllas puedan cumplir con las facultades y obligaciones que les correspondan;
 
 XXIV. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
 
@@ -1044,3 +1054,9 @@ B. Las remuneraciones adicionales a las nominales, tales como gratificaciones, p
 C. Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse, si la remuneración total no excede el monto máximo antes referido.
 
 OCTAVO. Todas las disposiciones legales que aludan a los emolumentos, salarios, sueldos, percepciones o cualquier expresión similar alusiva a la remuneración de los servidores públicos, deberán entenderse en los términos de la Ley que Fija las Bases para Determinar las Remuneraciones de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+
+P.O. 7 DE DICIEMBRE DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil once, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
