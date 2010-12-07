@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2010-09-08"
+last_updated: "2010-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE DICIEMBRE DE 2010.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3167,8 +3167,16 @@ G.O. 30 DE NOVIEMBRE DE 2007.
 
 G.O. 8 DE SEPTIEMBRE DE 2010.
 
-Primero. El presente Decreto entrará en vigor a los noventa días naturales de su publicación en la Gaceta Oficial del estado.
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Primero. El presente Decreto entrará en vigor el día 21 de enero del año dos mil trece.
 
 Segundo. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se le opongan.
 
 Tercero. El Consejo de la Judicatura del Poder Judicial del Estado deberá adecuar, en un plazo no mayor a treinta días del inicio de la vigencia de este Decreto, el Reglamento de Juicios Orales Sumarios.
+
+G.O. 7 DE DICIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
