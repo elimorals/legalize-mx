@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-en-materia-penal-del-estado-de-8128"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-15"
-last_updated: "2010-09-07"
+last_updated: "2010-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE DICIEMBRE DE 2010.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 15 de diciembre de 1994.
 
@@ -82,6 +82,12 @@ II.- El ejercicio o no de la acción penal.
 ###### ARTICULO 2 Bis.
 
 Corresponde a la Procuraduría General de Justicia del Estado prestar apoyo y protección a jueces, peritos, testigos, víctimas y demás personas, en su intervención en cualquier procedimiento relativo a delitos contra la salud, en su modalidad de narcomenudeo, que sean competencia del fuero común, en términos de la legislación correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 2 Bis (sic).- En los procedimientos del orden penal se privilegiará la utilización de mecanismos alternativos de solución de controversias, para lo cual, los Jueces de la materia y el Ministerio Público deberán sujetarse a lo establecido por la Ley de Mecanismos Alternativos de Solución de Controversias en el Estado de Yucatán, su Reglamento y demás disposiciones normativas aplicables.
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 30 DE MARZO DE 2000)</small>
 
@@ -211,9 +217,7 @@ El auto en que el Juez acepte o niegue la inhibición será apelable, y la prime
 
 > <small>(REFORMADA SU DENOMINACION, D.O. 30 DE MARZO DE 2000)</small>
 
-### CAPITULO IV. AUXILIARES EN LA ADMINISTRACION DE JUSTICIA
-
-EN MATERIA PENAL
+### CAPITULO IV. AUXILIARES EN LA ADMINISTRACION DE JUSTICIA EN MATERIA PENAL
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE MARZO DE 2000)</small>
 
@@ -409,7 +413,7 @@ En los supuestos a que se refieren los artículos 34 y 37 de este Código, no po
 
 ###### ARTICULO 43.
 
-En las audiencias, el indiciado, procesado o acusado según el momento procedimental de que se trate, podrá defenderse por si mismo, por medio de abogado que libremente designe o por persona de su confianza. Si no quiere o no puede nombrar defensor después de haber sido requerido para hacerlo, la autoridad que presida la audiencia le designará un defensor de oficio. Si tuviere varios defensores, sólo se oirá al que lleve la Representación común. El Ministerio Público podrá replicar cuantas veces lo estime necesario, teniendo derecho el inculpado o sus defensores de contestar en cada caso. Antes de cerrarse el debate se preguntará siempre al inculpado si desea o no hacer uso de la palabra y en caso afirmativo se le concederá, a fin de que exponga y se asiente en el acta lo que a sus derechos o intereses conviniere.
+En las audiencias, el indiciado, procesado o acusado según el momento procedimental de que se trate, podrá defenderse por sí mismo, por medio de abogado que libremente designe o por persona de su confianza. Si no quiere o no puede nombrar defensor después de haber sido requerido para hacerlo, la autoridad que presida la audiencia le designará un defensor de oficio. Si tuviere varios defensores, sólo se oirá al que lleve la Representación común. El Ministerio Público podrá replicar cuantas veces lo estime necesario, teniendo derecho el inculpado o sus defensores de contestar en cada caso. Antes de cerrarse el debate se preguntará siempre al inculpado si desea o no hacer uso de la palabra y en caso afirmativo se le concederá, a fin de que exponga y se asiente en el acta lo que a sus derechos o intereses conviniere.
 
 ###### ARTICULO 44.
 
@@ -1681,7 +1685,7 @@ IV.- Se le recogerán los objetos que se relacionen con el delito y aquellos que
 
 V.- Será puesto en el término de 48 horas, a disposición de la Autoridad Judicial competente, a quien se le remitirá el expediente de Averiguación Previa;
 
-VI.- Cuando el detenido fuere indígena o extranjero, que no hable o no entienda suficientemente el castellano, se le designará un traductor que le hará saber los derechos a que se refiere este artículo. Si se tratare de un extranjero la detención se comunicará de inmediato a la representación diplomática o consular que corresponda y a la oficina de migración dependiente a la Secretaria de Gobernación.
+VI.- Cuando el detenido fuere indígena o extranjero, que no hable o no entienda suficientemente el castellano, se le designará un traductor que le hará saber los derechos a que se refiere este artículo. Si se tratare de un extranjero la detención se comunicará de inmediato a la representación diplomática o consular que corresponda y a la oficina de migración dependiente a la Secretaría de Gobernación.
 
 De la información al indiciado sobre los derechos antes mencionados, se dejará constancia en el acta de Averiguación Previa; y
 
@@ -2103,13 +2107,15 @@ Al comenzar la diligencia se le hará saber al detenido el derecho que tiene a u
 
 Cuando el inculpado hubiere nombrado varios defensores éstos estarán obligados a designar un representante común o, en su defecto, lo hará el Juez.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 30 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 299.
 
-La declaración preparatoria contendrá las generales del indiciado, en las que se hará constar también los apodos que tuviere, el grupo étnico indígena al que pertenezca, en su caso, si habla y entiende perfectamente el idioma castellano y sus demás circunstancias personales, se le impondrá del motivo de su detención, leyéndosele la denuncia o querella; se le hará saber el nombre de la persona o personas que le imputan la comisión del delito o delitos, así como la naturaleza y causa de la denuncia o querella y de los testigos que declaren en su contra; se le preguntará si es su voluntad declarar y en caso de que así lo desee, se le examinará sobre los hechos que motivan la Averiguación y el conocimiento que tuviere el delito.
+La declaración preparatoria contendrá las generales del imputado, los apodos que tuviere, si habla y entiende suficientemente el idioma español, en su caso, el grupo étnico indígena al que pertenezca, y sus demás circunstancias personales; se le hará saber el motivo de su detención, leyéndosele la denuncia o querella; el nombre de la persona o personas que lo acusen y de los testigos que declaren en su contra, así como la naturaleza del delito o delitos que se le imputan. Asimismo, se le informará del procedimiento abreviado y sus alcances, en términos de los artículos. 358 A al 358 D de este ordenamiento, para que en su oportunidad manifieste si se acoge a él; se le preguntará si es su voluntad declarar y en caso de que así lo desee, se le examinará sobre los hechos que motivan la averiguación y el conocimiento que tuviere del delito.
 
-Si el indiciado no hubiere solicitado su libertad provisional bajo caución, se le hará nuevamente conocedor de ese derecho en los términos del artículo 20 fracción I de la Constitución Federal y del artículo 306 de este Código.
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+Si el indiciado no hubiere solicitado su libertad provisional bajo caución, se le hará nuevamente conocedor de ese derecho en los términos del artículo 20, apartado A, fracción I de la Constitución Política de los Estados Unidos Mexicanos y del artículo 306 de este Código.
 
 En caso de que niegue su participación en los hechos que se le atribuyen, se le interrogará acerca del lugar en que se encontraba el día y la hora en que aquellos acontecieron, las personas que lo hubieran visto, así como sobre aquellos hechos y pormenores que puedan servir al conocimiento de la verdad.
 
@@ -2157,7 +2163,7 @@ III.- Que otorgue caución para el cumplimiento de las obligaciones que en térm
 
 > <small>(REFORMADA, D.O. 30 DE MARZO DE 2000)</small>
 
-IV.- Que no se trate de delito o delitos de los considerados como graves por el Código Penal, o cuando la ley expresamente prohiba otorgar tal beneficio.
+IV.- Que no se trate de delito o delitos de los considerados como graves por el Código Penal, o cuando la ley expresamente prohíba otorgar tal beneficio.
 
 La caución a que se refiere la fracción III y las garantías a que se refieren las fracciones I y II, podrán consistir en depósito en efectivo, fianza, prenda, hipoteca o fideicomiso formalmente constituido.
 
@@ -2299,9 +2305,7 @@ En los casos de revocación de la libertad caucional se deberá oír previamente
 
 Lo previsto en este Capítulo será aplicable en lo conducente a la libertad bajo caución que otorgue el Ministerio Público en la Averiguación.
 
-### CAPITULO V. FORMAL PRISION, SUJECION A PROCESO
-
-Y LIBERTAD POR FALTA DE ELEMENTOS
+### CAPITULO V. FORMAL PRISION, SUJECION A PROCESO Y LIBERTAD POR FALTA DE ELEMENTOS
 
 ###### ARTICULO 323.
 
@@ -2379,13 +2383,117 @@ También en estos casos, el Ministerio Público podrá promover prueba en ejerci
 
 El auto de formal prisión, el de sujeción a proceso, el de libertad por falta de elementos para procesar y el de no sujeción a proceso, son apelables en efecto devolutivo y se comunicarán según corresponda al Superior Jerárquico del procesado, libertado y sujeto o no a proceso, cuando éstos sean Servidores Públicos.
 
-### CAPITULO VI. INSTRUCCION Y JUICIO. DILIGENCIAS DE COMPROBACION
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-TERMINO Y CONCLUSIONES.
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO V BIS. SUSPENSION CONDICIONAL DEL PROCESO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 330 A.- En los casos en que el auto de formal prisión o de sujeción a proceso se haya dictado por un delito base cuya pena máxima de prisión no exceda de cuatro años, procederá la suspensión condicional del proceso, cuando se cumplan los siguientes requisitos:
+
+I.- Que al imputado no se le haya dictado sentencia condenatoria por delito doloso;
+
+II.- Que no tenga o haya tenido otro proceso suspendido condicionalmente;
+
+III.- Si fuere procedente, pague la reparación del daño a satisfacción de la víctima o la garantice adecuadamente, y
+
+IV.- Que las partes se hayan conformado con la determinación que resolvió la situación jurídica.
+
+En el caso de concurso de delitos se estará al de mayor penalidad.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 330 B.- La suspensión condicional del proceso procederá a solicitud del Ministerio Público, después de dictado el auto de formal prisión o de sujeción a proceso, hasta antes de que concluya el término que se concedió para el ofrecimiento de pruebas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 330 C.- Recibida la solicitud, el Juez citará a una audiencia que se verificará dentro del plazo de tres días, en la que resolverá sobre la pretensión de suspensión condicional del proceso.
+
+La victima será citada y su inasistencia no impedirá que el Juez resuelva.
+
+La resolución fijará las condiciones bajo las cuales se suspende el proceso, o bien, rechazará la solicitud.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 330 D.- El Juez fijará el plazo de suspensión condicional del proceso, que no podrá ser inferior a seis meses ni superior a dos años, e impondrá al inculpado una o varias de las condiciones que deberá cumplir, entre ellas, las siguientes:
+
+I.- Residir en un lugar determinado;
+
+II.- Frecuentar o dejar de frecuentar determinados lugares o personas;
+
+III.- Abstenerse de consumir drogas o estupefacientes o de abusar de bebidas alcohólicas;
+
+IV.- Participar en programas especiales para la prevención de hechos delictuosos y tratamiento de adicciones;
+
+V.- Comenzar o finalizar la educación básica si no la ha cumplido;
+
+VI.- Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez;
+
+VII.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública, o de la comunidad o pueblo indígena al que pertenezca;
+
+VIII.- Someterse a tratamiento médico o psicológico, de preferencia en instituciones públicas;
+
+IX.- Adquirir o mantenerse en un trabajo, empleo u oficio;
+
+X.- Someterse a la vigilancia que determine el juez;
+
+XI.- No poseer ni portar armas;
+
+XII.- No conducir vehículos;
+
+XIII.- Abstenerse de viajar al extranjero;
+
+XIV.- Cumplir con los deberes de deudor alimentario, y
+
+XV.- Cualquier otra que resulte adecuada en consideración a las circunstancias del caso concreto que el juez estime conveniente.
+
+Cuando se acredite plenamente que el inculpado no puede cumplir con alguna de las condiciones anteriores, por ser contrarias a su salud, sus creencias religiosas o alguna otra causa de especial relevancia, el juez podrá sustituirlas fundada y motivadamente, por el cumplimiento de otra u otras análogas.
+
+Para fijar las condiciones, el juez puede disponer que el inculpado sea sometido a una evaluación previa. El Ministerio Público y la víctima, podrán proponer al juez condiciones a las que consideren debe someterse el inculpado.
+
+El juez preguntará al inculpado si se obliga a cumplir con las condiciones impuestas y, en su caso, lo prevendrá sobre las consecuencias de su inobservancia, de conformidad con el numeral 330 F de este Código.
+
+La vigilancia del cumplimiento de estas obligaciones estará a cargo de la Dirección de Prevención y Readaptación Social del Estado o de la autoridad que el Ejecutivo determine.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 330 E.- En los asuntos suspendidos, el Juez dispondrá las medidas necesarias para evitar la pérdida, destrucción o ineficacia de la evidencia conocida y objetos relacionados con el delito que no hayan sido devueltos en términos de ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 330 F.- Si el inculpado incumple las condiciones impuestas o es procesado por diverso delito, el juez, previa petición del Ministerio Público, convocará a las partes a una audiencia en la que se debatirá sobre la procedencia de la revocación y resolverá de inmediato.
+
+De ser procedente la revocación, el juez ordenará la reanudación del proceso.
+
+Si la víctima ha recibido pagos durante la suspensión condicional del proceso que posteriormente es revocada, se aplicarán a la reparación del daño que le pudiera corresponder.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 330 G.- Transcurrido el plazo que se fije sin que la suspensión fuere revocada, se extinguirá la responsabilidad penal, y el juez, de oficio o a petición de parte, dictará el sobreseimiento.
+
+Durante el período de suspensión condicional del proceso a que se refieren los artículos precedentes, quedará suspendida la prescripción de la acción penal.
+
+### CAPITULO VI
+
+INSTRUCCION Y JUICIO. DILIGENCIAS DE COMPROBACION TERMINO Y CONCLUSIONES.
 
 > <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
-
-### CAPITULO VII. SOBRESEIMIENTO
 
 ###### ARTICULO 331.
 
@@ -2461,7 +2569,7 @@ Si la defensa no presentare sus conclusiones en el término que se le hubiere co
 
 Las conclusiones definitivas del Ministerio Público no pueden modificarse sino por causa superveniente y siempre que fuere en beneficio del acusado.
 
-### CAPITULO VIII. SENTENCIA
+### CAPITULO VII. SOBRESEIMIENTO
 
 ###### ARTICULO 345.
 
@@ -2503,7 +2611,7 @@ Cuando se siga el procedimiento por dos o más delitos y por lo que toca a algun
 
 El auto de sobreseimiento producirá la inmediata y absoluta libertad del inculpado, respecto al delito por el que se decretó y surtirá efectos de sentencia absolutoria, teniendo el valor de cosa juzgada al causar ejecutoria.
 
-### CAPITULO IX. DEL PROCEDIMIENTO SUMARIO
+### CAPITULO VIII. SENTENCIA
 
 ###### ARTICULO 349.
 
@@ -2537,11 +2645,7 @@ Las sentencias irrevocables que sean absolutorias o que declaren compurgadas las
 
 Cuando en la sentencia se declare la falsedad de un documento público, se ordenará anotar éste y la matriz respectiva en el protocolo, archivo o registro en que se encuentre, sin perjuicio de los demás efectos que deban darse a la sentencia por la Autoridad Administrativa Ejecutora.
 
-### CAPITULO X. PROCEDIMIENTO EN LOS CASOS
-
-DE DELITOS OFICIALES
-
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
+### CAPITULO IX. DEL PROCEDIMIENTO SUMARIO
 
 ###### ARTICULO 355.
 
@@ -2565,9 +2669,63 @@ Cuando las conclusiones del Ministerio Público fueren de no acusación, se proc
 
 Cuando en la sentencia condenatoria se imponga al acusado sanción privativa de libertad se ordenará su identificación por el sistema administrativo adoptado.
 
-### CAPITULO I. EJECUTORIAS
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
-### CAPITULO II. IMPUGNACION
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO IX BIS. DEL PROCEDIMIENTO ABREVIADO
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 358 A.- El procedimiento abreviado podrá ser promovido por el Ministerio Público con anuencia del inculpado o viceversa, dentro del plazo de quince días contados a partir de la notificación del auto de formal prisión o de sujeción a proceso. Este plazo se le hará saber a las partes en el mismo auto que determine su situación jurídica.
+
+Procederá el procedimiento abreviado siempre que se cumpla lo siguiente:
+
+I. Que no se trate de delito grave, ni de narcomenudeo;
+
+II. Que el inculpado manifieste que ha sido informado de este procedimiento y sus implicaciones, expresando su conformidad;
+
+III. Que el inculpado no haya hecho uso de este procedimiento dentro de los tres años anteriores;
+
+IV. Que el Ministerio Público e inculpado se hayan conformado expresamente con el auto que determine la situación jurídica;
+
+V. Que ante la autoridad judicial el inculpado acepte los hechos imputados por el Ministerio Público en el pliego de consignación, y la aceptación esté corroborada con algún otro medio de prueba de los considerados para dictar el auto de formal prisión o de sujeción a proceso.
+
+En caso de que por cualquier motivo no se lleve a cabo el procedimiento abreviado, dicha aceptación se tendrá por no hecha, y
+
+VI. Que en presencia de la autoridad judicial el ofendido o la víctima expresen que se le ha cubierto el pago de la reparación del daño, en los casos en que dicha medida sea procedente.
+
+La existencia de varios inculpados no impedirá la aplicación de este procedimiento, a propuesta de alguno de ellos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 358 B.- Cumplidos los requisitos a que se refiere el artículo anterior, el Juez, dentro de un plazo no mayor a tres días, declarará abierto el procedimiento abreviado, en el que señalará fecha y hora para la celebración de una audiencia que tendrá lugar dentro de los cinco días siguientes.
+
+En dicha audiencia el Juez consultará al inculpado a fin de asegurarse que ha manifestado su conformidad al procedimiento abreviado en forma libre y voluntaria; que entiende los términos del procedimiento y las consecuencias que éste pudiera significarle; que renuncia al procedimiento sumario u ordinario según corresponda; que acepta ser juzgado con las pruebas que sirvieron para dictar el auto de formal prisión o de sujeción a proceso y, especialmente, que no fue objeto de coacciones ni presiones.
+
+Cumplido lo anterior, se escuchará la acusación que formule el Ministerio Público y la contestación por parte de la defensa, y finalmente se escuchará al acusado. Concluido el debate, el Juez dictará sentencia e impondrá sanciones, en su caso, y dentro de los tres días siguientes ordenará el engrose de la sentencia, para su posterior notificación.
+
+En caso de que la sentencia sea condenatoria, el Juez impondrá la pena requerida por el Ministerio Público, pero necesariamente deberá aplicar una inferior si la solicitada es notoriamente superior a la que legalmente le debiera corresponder.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 358 C.- Contra la sentencia que se pronuncie en el procedimiento abreviado procede el recurso de apelación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+
+> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 358 D.- Si se dictara sentencia condenatoria en un procedimiento abreviado, la pena aplicable no será menor a dos tercios de las sanciones mínimas prevista por la ley para el delito cometido, independientemente de cualquier otro beneficio que proceda en términos del Código Penal.
+
+### CAPITULO X. PROCEDIMIENTO EN LOS CASOS DE DELITOS OFICIALES
+
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 359.
 
@@ -2653,7 +2811,7 @@ La vigilancia del incapacitado estará a cargo de la autoridad administrativa, s
 
 ## TITULO SEGUNDO. EJECUTORIAS Y MEDIOS DE IMPUGNACION
 
-### CAPITULO III. DE LA REVOCACION Y DE LA REPOSICION
+### CAPITULO I. EJECUTORIAS
 
 ###### ARTICULO 371.
 
@@ -2669,7 +2827,7 @@ II.- Las sentencias definitivas dictadas en los procedimientos sumarios; y
 
 III.- Aquéllas respecto de las cuales la Ley no conceda medio alguno de impugnación.
 
-### CAPITULO IV. DE LA APELACION
+### CAPITULO II. IMPUGNACION
 
 ###### ARTICULO 373.
 
@@ -2701,7 +2859,7 @@ El desistimiento de la tramitación de algún medio de impugnación, para ser v�
 
 No procederán los medios de impugnación hechos valer por personas que no estén expresamente facultadas por la Ley para ello.
 
-### CAPITULO V. DENEGADA APELACION
+### CAPITULO III. DE LA REVOCACION Y DE LA REPOSICION
 
 ###### ARTICULO 378.
 
@@ -2715,9 +2873,7 @@ Interpuesto el recurso en el acto de la notificación o dentro de las 24 horas s
 
 En caso contrario, citará a aquéllas a una audiencia verbal que se celebrará dentro de las 48 horas siguientes y en la que dictará la resolución que corresponda, sin recurso alguno.
 
-### CAPITULO VI. REVISION EXTRAORDINARIA
-
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
+### CAPITULO IV. DE LA APELACION
 
 ###### ARTICULO 380.
 
@@ -2855,7 +3011,7 @@ En la sentencia el Tribunal no podrá aumentar la sanción impuesta cuando sólo
 
 Notificada a las partes la sentencia, se enviará la ejecutoria al juzgado de origen y, en su caso, se devolverá el expediente original remitido.
 
-### CAPITULO I. PROCEDIMIENTO EN LAS CUESTIONES DE COMPETENCIA
+### CAPITULO V. DENEGADA APELACION
 
 ###### ARTICULO 402.
 
@@ -2887,9 +3043,9 @@ Si la apelación se declara admisible, se prevendrá por oficio al Juez que cump
 
 Si no resultare justificada la procedencia del recurso, lo declarará así, mandando archivar el Toca.
 
-### CAPITULO II. PROCEDIMIENTO EN LOS CASOS DE IMPEDIMENTOS
+### CAPITULO VI. REVISION EXTRAORDINARIA
 
-EXCUSAS Y RECUSACIONES
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 408.
 
@@ -2923,7 +3079,7 @@ IV.- Que el reo haya sido juzgado por el mismo hecho a que la sentencia impugnad
 
 ## TITULO TERCERO. INCIDENTES
 
-### CAPITULO III. DE LA SUSPENSION DEL PROCEDIMIENTO
+### CAPITULO I. PROCEDIMIENTO EN LAS CUESTIONES DE COMPETENCIA
 
 ###### ARTICULO 412.
 
@@ -2951,7 +3107,9 @@ Efectuado ese trámite, dentro de las cuarenta y ocho horas siguientes, el Tribu
 
 En los casos a que se refiere el artículo 414 de este código, recibido en el Tribunal Superior el testimonio de las constancias que le remita el Juez que acepte o niegue su inhibición, pondrá el toca respectivo a la vista del Procurador General de Justicia y de las partes en el proceso por el término de tres días, para que expresen lo que a sus derechos convenga. Efectuado este trámite, dentro de cuarenta y ocho horas el Tribunal dictará la resolución que corresponda e inmediatamente enviará el testimonio de la misma al Juez remitente para que cumpla aquélla.
 
-### CAPITULO IV. ACUMULACION DE PROCESOS
+### CAPITULO II. PROCEDIMIENTO EN LOS CASOS DE IMPEDIMENTOS
+
+EXCUSAS Y RECUSACIONES
 
 ###### ARTICULO 417.
 
@@ -3027,11 +3185,7 @@ El Magistrado que se excuse, lo comunicará al Tribunal Pleno, el cual, si fuere
 
 Si no fuere notoria la causa designará a un Magistrado para que obtenga la información mencionada en el párrafo cuarto del artículo que antecede. Recibida la información, el Tribunal Pleno, por mayoría de votos, dictará la resolución que corresponda ordenando, en su caso, la sustitución del Magistrado de que se trate.
 
-### CAPITULO V. REPARACION DEL DAÑO
-
-EXIGIBLE A TERCEROS
-
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
+### CAPITULO III. DE LA SUSPENSION DEL PROCEDIMIENTO
 
 ###### ARTICULO 429.
 
@@ -3067,7 +3221,7 @@ Cuando se haya decretado la suspensión del procedimiento en los casos a que se 
 
 El Juez o Tribunal resolverá de plano sobre la suspensión del procedimiento, de oficio, a petición del Ministerio Público, del inculpado o su defensor, en lo procedente, fundada en cualquiera de las causas a que se refiere el artículo 429 de este Código.
 
-### CAPITULO VI. LIBERTAD BAJO PROTESTA
+### CAPITULO IV. ACUMULACION DE PROCESOS
 
 ###### ARTICULO 433.
 
@@ -3177,7 +3331,9 @@ El Juez que primero pronuncie sentencia ejecutoria, la comunicará al otro, quie
 
 Serán aplicables las disposiciones de este capítulo a las averiguaciones que se practiquen ante los Juzgados del Ramo Penal, aun cuando no exista auto de formal prisión o de sujeción a proceso.
 
-### CAPITULO VII. LIBERTAD POR DESVANECIMIENTO DE DATOS
+### CAPITULO V. REPARACION DEL DAÑO EXIGIBLE A TERCEROS
+
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 456.
 
@@ -3251,27 +3407,7 @@ La acción para exigir responsabilidad a que se contraen las anteriores disposic
 
 La prescripción de la acción a que se refiere este artículo se interrumpirá por el procedimiento penal, hasta que se pronuncie sentencia irrevocable. Dictada ésta comenzará a correr de nuevo el término de aquélla.
 
-### CAPÍTULO VIII. PROCEDIMIENTO RELATIVO A LOS BIENES ASEGURADOS
-
-> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2000)</small>
-
-ARTÍCULO 480 A.- La autoridad investigadora pondrá a disposición de la autoridad judicial los bienes que asegure en la averiguación previa en caso de que se ejerza la acción penal; en caso contrario se procederá a la entrega inmediata de los bienes a quien tenga derecho a ellos, aplicándose las disposiciones del párrafo siguiente, y en lo conducente, las de los dos artículos inmediatos posteriores.
-
-Cuando la autoridad judicial asegure un bien deberá notificarlo al interesado dentro de los diez días posteriores al aseguramiento, para que éste alegue lo que a su derecho convenga dentro de un plazo de treinta días, transcurrido el cual la autoridad resolverá lo conducente en términos de los dos artículos siguientes y del artículo 14 del Código Penal.
-
-> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2000)</small>
-
-ARTÍCULO 480 B.- Los objetos o valores que se encuentren a disposición de las autoridades judiciales que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello en un lapso de noventa días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública, en los términos que establezca el Código de Procedimientos Civiles del Estado de Yucatán y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si notificado no se presenta dentro de los tres meses siguientes a la fecha de la notificación, el producto de la venta se destinará al Estado.
-
-> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2000)</small>
-
-ARTÍCULO 480 C.- En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se le haga, transcurrido el cual sin haberse reclamado por el interesado, se aplicará al Estado.
-
-> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2000)</small>
-
-ARTÍCULO 480 D.- La notificación a que se refiere el artículo 480 A de este Código y cualquier otra que se haya de hacer con respecto a sacar a subasta bienes no reclamados o a la aplicación del producto de la venta que no se reclame por el interesado, se hará en la siguiente forma: personalmente al interesado, si se hallare presente; por cédula que se deje en su domicilio a alguno de los moradores o de los trabajadores que ahí asistan o mediante publicación de cédula en el Diario Oficial del Gobierno del Estado por dos veces, si no se conociere el domicilio o la identidad del interesado.
-
-> <small>(ADICIONADA SU NUMERACION, D.O. 30 DE MARZO DE 2000)</small>
+### CAPITULO VI. LIBERTAD BAJO PROTESTA
 
 ###### ARTICULO 471.
 
@@ -3291,9 +3427,7 @@ La libertad bajo protesta la decretará de oficio el Juez o la Primera Sala del 
 
 Cuando se hubiese prolongado la prisión preventiva por más tiempo del que como sanción máxima fije la ley al delito que motivare el proceso, la libertad se decretará inmediatamente sin requisito alguno, sin perjuicio de la continuación del procedimiento hasta pronunciarse sentencia definitiva.
 
-### CAPITULO IX. INCIDENTES NO ESPECIFICADOS
-
-> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
+### CAPITULO VII. LIBERTAD POR DESVANECIMIENTO DE DATOS
 
 ###### ARTICULO 474.
 
@@ -3331,7 +3465,31 @@ La resolución que conceda o niegue la libertad a que se refiere este Capítulo,
 
 > <small>(REFORMADA SU DENOMINACION, ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 30 DE MARZO DE 2000)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO VIII. PROCEDIMIENTO RELATIVO A LOS BIENES ASEGURADOS
+
+> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2000)</small>
+
+ARTÍCULO 480 A.- La autoridad investigadora pondrá a disposición de la autoridad judicial los bienes que asegure en la averiguación previa en caso de que se ejerza la acción penal; en caso contrario se procederá a la entrega inmediata de los bienes a quien tenga derecho a ellos, aplicándose las disposiciones del párrafo siguiente, y en lo conducente, las de los dos artículos inmediatos posteriores.
+
+Cuando la autoridad judicial asegure un bien deberá notificarlo al interesado dentro de los diez días posteriores al aseguramiento, para que éste alegue lo que a su derecho convenga dentro de un plazo de treinta días, transcurrido el cual la autoridad resolverá lo conducente en términos de los dos artículos siguientes y del artículo 14 del Código Penal.
+
+> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2000)</small>
+
+ARTÍCULO 480 B.- Los objetos o valores que se encuentren a disposición de las autoridades judiciales que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello en un lapso de noventa días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública, en los términos que establezca el Código de Procedimientos Civiles del Estado de Yucatán y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si notificado no se presenta dentro de los tres meses siguientes a la fecha de la notificación, el producto de la venta se destinará al Estado.
+
+> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2000)</small>
+
+ARTÍCULO 480 C.- En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se le haga, transcurrido el cual sin haberse reclamado por el interesado, se aplicará al Estado.
+
+> <small>(ADICIONADO, D.O. 30 DE MARZO DE 2000)</small>
+
+ARTÍCULO 480 D.- La notificación a que se refiere el artículo 480 A de este Código y cualquier otra que se haya de hacer con respecto a sacar a subasta bienes no reclamados o a la aplicación del producto de la venta que no se reclame por el interesado, se hará en la siguiente forma: personalmente al interesado, si se hallare presente; por cédula que se deje en su domicilio a alguno de los moradores o de los trabajadores que ahí asistan o mediante publicación de cédula en el Diario Oficial del Gobierno del Estado por dos veces, si no se conociere el domicilio o la identidad del interesado.
+
+> <small>(ADICIONADA SU NUMERACION, D.O. 30 DE MARZO DE 2000)</small>
+
+### CAPITULO IX. INCIDENTES NO ESPECIFICADOS
+
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 481.
 
@@ -3354,6 +3512,8 @@ Hecha la promoción, se dará vista de ella a las partes, para que contesten en 
 Si el Juez lo creyere conveniente o alguna de las partes lo pidiere, citará a una audiencia que se celebrará dentro de los tres días siguientes. Durante este plazo, así como en la audiencia, se recibirán las pruebas. Concurran o no las partes, el Juez fallará desde luego el incidente, siendo apelable el fallo en el efecto devolutivo.
 
 ## TÍTULO CUARTO. REHABILITACIÓN
+
+### CAPITULO UNICO
 
 ###### ARTICULO 486.
 
@@ -3454,3 +3614,13 @@ Las autoridades e instituciones del Estado, a más tardar el 21 de agosto del a�
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O. 7 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este Decreto.
