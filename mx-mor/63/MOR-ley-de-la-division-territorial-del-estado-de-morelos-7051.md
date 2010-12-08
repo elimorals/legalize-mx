@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "2003-09-03"
+last_updated: "2010-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -41,11 +41,11 @@ Ley de la División Territorial del Estado de Morelos
 
 De conformidad a lo dispuesto en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Estado de Morelos adopta como base de su división territorial y de su organización política, jurídica, hacendaria y administrativa el municipio libre.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 2.
 
-El Estado de Morelos se divide en treinta y tres municipios, que son los siguientes: Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
+El Estado de Morelos se divide en treinta y tres municipios, que son los siguientes: Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
 
 ###### Art. 3.
 
@@ -350,6 +350,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los Ayuntamientos, en ejercicio de sus facultades constitucionales y legales, readecuarán las categorías y denominaciones políticas de sus centros de población, en un plazo de 180 días naturales, contados a partir de la vigencia del presente Decreto.
 
 CUARTO.- Hágase del conocimiento de los Ayuntamientos de los Municipios de Temoac, Tetela del Volcán y Zacatepec, el contenido del presente Decreto, para los efectos a que haya lugar.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Aprobado que sea el presente decreto en los términos de lo dispuesto por la Fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de su (sic) publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de Gobierno del Estado de Morelos.
+
+TERCERO.- El nombre del Municipio de Tlaltizapán pasará a ser el de "TlaItizapán de Zapata" para todos los efectos de personalidad jurídica del municipio.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 555.- POR EL QUE SE ADICIONA Y MODIFICA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
 
