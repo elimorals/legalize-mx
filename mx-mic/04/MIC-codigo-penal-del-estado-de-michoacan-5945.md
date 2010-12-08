@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2009-07-28"
+last_updated: "2010-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -968,6 +968,10 @@ La prescripción será declarada de oficio o a petición de parte.
 ###### Artículo 91.
 
 Los términos para la prescripción de la acción penal, serán continuos y se contarán a partir del momento en que se cometió el delito si fuere instantáneo; desde que cesó, si fuere permanente, y desde el día en que se hubiere realizado el último acto de ejecución, si el delito fuere continuado o si se tratare de tentativa.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de los delitos previstos en los artículos: 164 fracciones I y II, pornografía; 165, turismo sexual; 167 fracciones I y II, lenocinio; 168 bis, trata de personas; 220, incesto; 240, violación; 243, estupro; 245 y 246, abusos deshonestos y 246 bis, acoso sexual, cometidos en contra de persona menor de edad, que en su momento no haya denunciado el hecho, la prescripción de la acción penal, se computará a partir de que el menor cumpla su mayor edad.
 
 ###### Artículo 92.
 
@@ -3495,8 +3499,6 @@ XIX. Al que venda, prometa vender o transfiera, mediante fraccionamiento, lotifi
 
 XX. Al que utilizando un documento falso o auténtico se haga pasar por su titular y obtenga un lucro indebido.
 
-Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
-
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 326.
@@ -3996,3 +3998,7 @@ P.O. 28 DE JULIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
