@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2010-10-13"
+last_updated: "2010-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -217,7 +217,9 @@ De conformidad con el Articulo 111 de la Constitución Estatal, el Estado de Mor
 
 24.- Tlalnepantla;
 
-25.- Tlaltizapán;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+25.- Tlaltizapán de Zapata;
 
 26.- Tlaquiltenango;
 
@@ -2734,6 +2736,14 @@ Aprobado que sea el presente, remítase al Ejecutivo para su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Aprobado que sea el presente decreto en los términos de lo dispuesto por la Fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de su publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de Gobierno del Estado de Morelos.
+
+TERCERO.- El nombre del Municipio de Tlaltizapán pasará a ser el de "TlaItizapán de Zapata" para todos los efectos de personalidad jurídica del municipio.
 
 ###### ARTÍCULO CUARTO.
 
