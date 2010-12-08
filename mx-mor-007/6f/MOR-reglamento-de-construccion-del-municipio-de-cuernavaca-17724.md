@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-construccion-del-municipio-de-cuernavaca-17724"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-03"
-last_updated: "2001-09-12"
+last_updated: "2010-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE CONSTRUCCION DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 3 de noviembre de 1999.
 
@@ -787,15 +787,19 @@ DE LA NECESIDAD DE LICENCIA DE CONSTRUCCIÓN. Para ejecutar obras e instalacione
 
 Sin excepción, solo se concederán Licencias a los propietarios o poseedores de los inmuebles, cuando cumplan con cada uno de los requisitos señalados en las disposiciones relativas en este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 58.
 
-DE LOS REQUISITOS PARA LICENCIA DE CONSTRUCCIÓN. La solicitud de Licencia de Construcción, deberá ser suscrita por el propietario o poseedor, la que en su caso deberá contener la responsiva de un Director Responsable de Obra y en su caso por el Corresponsable, será presentada por duplicado en las formas que expida la Secretaría y acompañada de la siguiente documentación:
+DE LOS REQUISITOS PARA LICENCIA DE CONSTRUCCIÓN. La solicitud de Licencia de Construcción, deberá ser suscrita por el propietario o poseedor, la que en su caso deberá contener la responsiva de un Director Responsable de Obra y en su caso por el corresponsable, será presentada por duplicado en las formas que expida la Secretaría y acompañada de la siguiente documentación:
 
 I.- Cuando se trate de obra nueva:
 
 a).- Constancia de Alineamiento y Número Oficial actualizado;
 
-b).- Tres tantos del Proyecto de la obra en Planos a Escala debidamente acotados y especificados, con información suficiente para que el Proyecto sea plenamente entendible, en los que se deberán incluir: croquis de localización del predio con distancias aproximadas a calles cercanas, indicando el norte, plantas arquitectónicas que contengan la instalación sanitaria con el detalle de la fosa séptica bioenzimática o sistema de tratamiento, especificando el doble ramal sanitario para la conducción de aguas negras y grises, así como los datos de la instalación hidráulica, corte sanitario, fachadas, localización de la construcción dentro del predio, cortes de rampas para vehículos, planta de conjunto, planos estructurales, firmados por el Propietario y el Director Responsable o en su caso por el Corresponsable;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+b).- Tres tantos del proyecto de la obra en planos a escala debidamente acotados y especificados, con información suficiente para que el proyecto sea plenamente entendible y en archivo electrónico, en los que se deberán incluir: croquis de localización del predio con distancias aproximadas a calles cercanas, indicando el norte, plantas arquitectónicas que contengan la instalación sanitaria con el detalle de la fosa séptica bioenzimática o sistema de tratamiento, especificando el doble ramal sanitario para la conducción de aguas negras y grises, así como los datos de la instalación hidráulica, corte sanitario, fachadas, localización de la construcción dentro del predio, cortes de rampas para vehículos, planta de conjunto, planos estructurales, firmados por el propietario y el director responsable o en su caso por el corresponsable; En caso de que la obra que comprenda la construcción de varios locales para fines comerciales dentro de un mismo proyecto y que tuvieran acceso y visión directa a la vía pública, se anexará el plano donde se señale el diseño, la forma y generalidades de los anuncios, en términos de lo dispuesto por el Reglamento de Anuncios del Municipio de Cuernavaca, Morelos, quedando éstos autorizados en términos de la licencia de construcción, sin requerir trámite para su colocación;
 
 c).- Resumen del criterio y sistema adoptados para el Cálculo Estructural firmado por el Director Responsable de Obra y Corresponsables en su caso, incluyendo Proyecto de Protección a Colindancias y Estudio de Mecánica de Suelos cuando proceda, de acuerdo con lo establecido en este Reglamento y en las Normas Técnicas Complementarias.
 
@@ -4512,3 +4516,9 @@ P.O. 12 DE SEPTIEMBRE DE 2001.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones administrativas que se opongan al presente Acuerdo.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial Tierra y Libertad del Estado de Morelos y en la Gaceta Municipal.
+
+SEGUNDO.- Se autoriza al Presidente Municipal para que instruya a las dependencias correspondientes para que den efectivo cumplimiento a la presente reforma.
