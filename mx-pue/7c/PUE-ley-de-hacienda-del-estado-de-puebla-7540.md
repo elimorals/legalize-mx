@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2010-06-03"
+last_updated: "2010-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE 8 DE DICIEMBRE DE 2010., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -1568,3 +1570,37 @@ El beneficio a que se refiere el Apartado E del Capítulo II del Título Primero
 ###### ARTÍCULO QUINTO.
 
 La Secretaría de Finanzas y Administración, deberá coordinarse con las Dependencias Estatales en cuyas atribuciones incidan las disposiciones que establece el presente Decreto, con el objeto de instrumentar las acciones necesarias y facilitar el cumplimiento al mismo.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil once.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Hacienda del Estado de Puebla, publicada en el Periódico Oficial del Estado de fecha treinta y uno de diciembre de mil novecientos noventa y tres.
+
+###### ARTÍCULO TERCERO.
+
+Los actos que se hayan emitido al amparo de la Ley de Hacienda del Estado, publicada en el Periódico Oficial del Estado el treinta y uno de diciembre de mil novecientos noventa y tres, continuarán teniendo vigencia hasta la fecha que en los mismos se establezca.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos que se hayan iniciado con anterioridad a la entrada en vigor de este ordenamiento, se concluirán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+###### ARTÍCULO QUINTO.
+
+Para efectos de los artículos 31 fracción IV, 56 fracción III y 88 de la Ley materia del presente Decreto, los servidores públicos que intervengan en los trámites a que se refieren los mismos, deberán reconocer los pagos realizados y los programas de apoyo, subsidios o beneficios establecidos en otras Entidades Federativas en materia del Impuesto Sobre Tenencia o Uso de Vehículos.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Finanzas y Administración publicará las disposiciones administrativas que tengan por objeto facilitar a los sujetos del Impuesto Sobre Tenencia o Uso de Vehículos, el acceso al beneficio del Programa a que se refiere el artículo 50 de la Ley materia de este Decreto, así como para propiciar e incentivar el cumplimiento de las obligaciones fiscales.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Administración deberá coordinarse con las Dependencias estatales en cuyas atribuciones incidan las disposiciones que establece la Ley materia del presente Decreto, con el objeto de instrumentar las acciones necesarias para facilitar su cumplimiento.
+
+###### ARTÍCULO OCTAVO.
+
+Se dejan sin efecto aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
