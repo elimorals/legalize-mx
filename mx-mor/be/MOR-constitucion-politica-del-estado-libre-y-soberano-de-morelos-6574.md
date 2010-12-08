@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2010-08-18"
+last_updated: "2010-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2454,15 +2454,17 @@ DE SU HACIENDA.
 
 De conformidad a lo dispuesto en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, el Estado de Morelos adopta como base de su división territorial y de su organización política, jurídica, hacendaria y administrativa al Municipio libre.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 111.
 
 El Estado de Morelos, para su régimen interior, se divide en los siguientes municipios libres:
 
-Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
+Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, 'Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán de Zapata, Tlaquiltenango,·Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
 
-Los Municipios citados se agruparán en Distritos Judiciales para la mejor administración de justicia. La justicia de paz estará a cargo de los Jueces que señale la Ley Orgánica del Poder Judicial.
+Los Municipios citados se agruparán en Distritos Judiciales para la mejor administración de justicia.
+
+La justicia de paz estará a cargo de los Jueces que señale la Ley Orgánica del Poder Judicial.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4005,3 +4007,11 @@ c) Los incrementos a las retribuciones nominales o adicionales sólo podrán rea
 QUINTO.- Las modificaciones que se incorporen a dichos Presupuestos de Egresos, serán siempre antes del ejercicio de los recursos.
 
 SEXTO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Aprobado que sea el presente decreto en los términos de lo dispuesto por la Fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de su publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad" órgano de Gobierno del Estado de Morelos.
+
+TERCERO.- El nombre del Municipio de Tlaltizapán pasará a ser el de "Tlaltizapán de Zapata" para todos los efectos de personalidad jurídica del municipio.
