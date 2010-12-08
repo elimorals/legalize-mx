@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2009-06-08"
+last_updated: "2010-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -1129,7 +1129,9 @@ En el caso de las unidades móviles tipo ambulancia o de auxilio, deberán de pr
 
 Se prohíbe fumar en el interior de los vehículos destinados al transporte público de pasajeros, se deberán observar las normas de protección a los no fumadores en el estado y, demás ordenamientos aplicables.
 
-### CAPÍTULO XX. INSTALACIONES Y COOPERATIVAS ESCOLARES
+### CAPÍTULO XX. DE LA SALUD ESCOLAR
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 154.
 
@@ -1251,33 +1253,47 @@ Se prohíbe en la venta de las actividades señaladas en este capítulo, el expe
 
 Los ayuntamientos, en el ámbito de su competencia, autorizarán la ubicación, funcionamiento y horarios de los establecimientos a que se refiere este capítulo, tomando en cuenta la distancia de éstos con cualquier establecimiento que preste servicio de atención médica y escuelas.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ### CAPÍTULO XXIII. ALBERGUES Y CENTROS DE DESARROLLO INFANTIL
 
 ###### ARTÍCULO 171.
 
 Para los efectos de esta Ley, se entiende como:
 
-I. Instalaciones escolares: Las instalaciones de educación básica obligatoria y las demás pertenecientes al Sistema Educativo Estatal; y,
+I. Cooperativas escolares: Los establecimientos ubicados dentro de las instalaciones pertenecientes al Sistema Educativo Estatal, donde se expendan y suministren alimentos y bebidas;
 
-II. Cooperativas escolares: Los establecimientos ubicados dentro de las instalaciones señaladas en la fracción anterior, donde se expendan y suministren alimentos y bebidas.
+II. Educación para la salud: Al proceso de enseñanza aprendizaje que permite, mediante el intercambio y análisis de la información, desarrollar habilidades y modificar actitudes, con el propósito de inducir comportamientos para cuidar la salud individual, familiar y colectiva; y,
+
+III. Salud escolar: Las acciones tendientes a fomentar en la comunidad escolar el desarrollo de conductas y actitudes orientadas a la práctica y conservación de la salud como un bien individual, social y cultural.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 172.
 
-Los establecimientos estarán sujetos a vigilancia sanitaria y deberán contar con:
+Las cooperativas escolares estarán sujetas a vigilancia sanitaria de manera permanente y deberán contar con:
 
 I. Instalaciones físicas acordes al Reglamento de Ingeniería Sanitaria;
 
-II. Agua apta para uso y consumo humano;
+Il. Agua apta para uso y consumo humano;
 
-III. Cisternas y tinacos limpios;
+III. Cisternas, tinaco y todo depósito destinado para tal fin;
 
-IV. Espacios adecuados para la disposición temporal de residuos sólidos urbanos; y,
+IV. Espacios creados especialmente para el almacenamiento temporal de residuos sólidos, de acuerdo a la normatividad aplicable; y,
 
-V. Venta de alimentos en estado natural o de alto valor nutricional, frutas de temporada, y bebidas preparadas no gaseosas.
+V. Áreas adecuadas para la venta de alimentos de alto valor nutricional.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 173.
 
-La Secretaría, en coordinación con la Secretaría de Educación y padres de familia vigilará que los alimentos que se vendan en la cooperativa escolar sean de calidad, higiénicos y nutritivos con la finalidad de reducir los problemas de obesidad e inadecuada nutrición en los escolares.
+La Secretaría, en coordinación con la Secretaria de Educación, los ayuntamientos a través de sus comisiones de Salud y Educación y los padres de familia, vigilarán que los alimentos a la venta en las cooperativas escolares cumplan con lo establecido en los catálogos que para tales fines emita la Secretaría de Salud.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 173 bis. La Secretaría deberá brindar a la población escolar de nivel básico, la atención médica de urgencias de forma gratuita en los casos de accidentes ocurridos dentro de las escuelas, de igual forma, brindará atención hospitalaria cuando no cuenten con los servicios médicos de otras instituciones públicas o privadas.
+
+Todo plantel de educación básica deberá contar con su programa institucional de prevención de accidentes de acuerdo a la normatividad aplicable.
 
 ### CAPÍTULO I. AUTORIZACIONES
 
@@ -1956,3 +1972,17 @@ P.O. 8 DE JUNIO DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente, al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan a la literalidad del presente Decreto Legislativo.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación de esta reforma en un plazo no mayor de sesenta días naturales después de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Notifíquese al Titular del Poder Ejecutivo y a los Titulares de la Secretaría de Salud y de la Secretaría de Educación.
