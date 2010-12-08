@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2009-08-12"
+last_updated: "2010-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO CIVIL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -113,55 +113,35 @@ La ignorancia de las leyes no excusa su cumplimiento; pero los jueces tomando en
 
 ## TÍTULO PRIMERO. DE LAS PERSONAS FÍSICAS
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
-Son personas físicas los seres humanos, quienes adquieren la capacidad jurídica por el nacimiento y la pierden por la muerte; pero desde su concepción tienen derecho a la protección de la ley.
+Son personas físicas los seres humanos, quienes adquieren la capacidad de goce y ejercicio en los términos y condiciones establecidos legalmente.
 
-## TÍTULO SEGUNDO. DE LA CAPACIDAD
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+## TÍTULO SEGUNDO. DE LAS PERSONAS MORALES
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 17.
 
-Tienen incapacidad natural y legal:
+Las personas morales se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos; y podrán ejercitar todos los derechos que sean necesarios para realizar el objeto de su institución.
 
-I. Los menores de edad; y,
-
-II. Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos; y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación o a la alteración en la inteligencia que esto les provoque no puedan gobernarse y obligarse por sí mismos o manifestar su voluntad por algún medio.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 18.
 
-Las incapacidades establecidas por la ley son sólo restricciones a la capacidad jurídica; y los incapaces podrán ejercitar sus derechos y contraer obligaciones por medio de sus representantes.
+Las personas morales obran y se obligan por medio de los órganos que las representen conforme a las normas que las rigen.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 19.
 
-La mayoría edad comienza a los dieciocho años cumplidos.
-
-## TÍTULO TERCERO. DE LAS PERSONAS MORALES
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-###### Artículo 20.
-
-El mayor de edad puede disponer libremente de su persona y de sus bienes con sólo las limitaciones establecidas por la ley.
-
-###### Artículo 21.
-
-El matrimonio del menor de dieciocho años produce, de derecho, la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado que sea menor, no recaerá en la patria potestad.
-
-###### Artículo 22.
-
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita, durante su minoría de edad:
-
-I. De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces; y,
-
-II. De un tutor para los negocios judiciales.
-
-### CAPÍTULO II. DE LA MAYORÍA DE EDAD
-
-###### Artículo 23.
-
 Son personas morales:
 
-I. La Nación, los Estados y los Municipios;
+I. La Federación, los Estados y los Municipios;
 
 II. Los sindicatos constituidos conforme a la Ley Federal del Trabajo, las asociaciones profesionales y las demás a que se refiere la fracción XVI del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -169,31 +149,91 @@ III. La Universidad Michoacana de San Nicolás de Hidalgo;
 
 IV. Las sociedades civiles y mercantiles;
 
-V. Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquier otro fin lícito, siempre que no fueren desconocidos por la ley;
+V. Las asociaciones distintas de las enumeradas que tengan fines políticos, científicos, artísticos, de recreo o cualquier otro lícito, siempre que no fueren desconocidos por la ley;
 
 VI. Las corporaciones de carácter público reconocidas por la ley; y,
 
-VII. Cualquiera otra asociación o agrupación a la que la ley conceda personalidad jurídica.
+VII. Cualquiera otra a asociación o agrupación a la que la ley conceda personalidad jurídica.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+## TÍTULO TERCERO. DE LA CAPACIDAD
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 20.
+
+La capacidad de goce de las personas físicas se adquiere al nacer y se pierde con la muerte; pero desde su concepción tienen derecho a la protección de la ley.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 21.
+
+La capacidad de ejercicio la adquiere una persona física al ser mayor de edad, tratándose de persona moral, al momento de su constitución.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 22.
+
+Las incapacidades establecidas por la ley son sólo restricciones a la capacidad de ejercicio.
+
+Son incapaces:
+
+I. Los menores de edad; y,
+
+II. Las personas físicas que, siendo mayores de edad, presenten una perturbación, afección, alteración daño, que trastorne las capacidades y funciones de pensamiento, raciocinio y toma de decisiones, provocando que no puedan obligarse por sí mismas o manifestar su voluntad por algún medio.
+
+Los incapaces podrán ejercer sus derechos y contraer obligaciones por medio de sus representantes.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO II. DE LA MAYORÍA Y MINORÍA DE EDAD
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 23.
+
+Una persona física es mayor de edad al cumplir los dieciocho años. Se considera menor de edad la persona física que no ha cumplido los dieciocho años.
+
+Las personas mayores de edad pueden disponer de sí y de sus bienes con sólo las limitaciones establecidas por la ley.
+
+> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO III. DE LA EMANCIPACIÓN Y LA HABILITACIÓN DE EDAD
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 24.
 
-Las personas morales se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos; y podrán ejercitar todos los derechos que sean necesarios para realizar el objeto de su institución.
+El matrimonio del menor de edad produce, de derecho, la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado no recaerá en la patria potestad.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 25.
 
-Las personas morales obran y se obligan por medio de los órganos que las representen conforme a la ley, a su escritura constitutiva, o a sus estatutos.
+La persona emancipada tiene la libre administración de sus bienes, pero siempre requiere:
+
+I. De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces; y,
+
+II. De un tutor para los negocios judiciales.
 
 ## TÍTULO CUARTO. DEL DOMICILIO
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 26.
 
-Las personas físicas tienen su domicilio en el lugar donde residen con el propósito de establecerse en él; a falta de éste, el lugar donde tienen el principal asiento de sus negocios; y a falta de uno y otro, el lugar en que se encuentren. Es presunción del propósito de establecerse en un lugar, la residencia en él por más de seis meses; a menos que transcurridos éstos y dentro de los quince días siguientes, el residente manifieste ante la autoridad política de su anterior domicilio, o de su residencia, que desea conservar el primero. Esta declaración no producirá efectos en perjuicio de tercero.
+Las personas físicas tienen su domicilio en el lugar donde residen con el propósito de establecerse en él; a falta de éste, el lugar donde tienen el principal asiento de sus negocios; y a falta de uno y otro, el lugar en que se encuentren. Es presunción del propósito de establecerse en un lugar, la residencia en él por más de seis meses; a menos que transcurridos éstos y dentro de los quince días siguientes, el residente manifieste ante la autoridad pública de su anterior domicilio, o de su residencia, que desea conservar el primero. Esta declaración no producirá efectos en perjuicio de tercero.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 27.
 
-Se llama domicilio legal el que la ley fija para determinadas personas, aun cuando de hecho no residan en él.
+Se llama domicilio legal el que la ley fija para determinadas personas.
 
 ###### Artículo 28.
 
@@ -201,17 +241,25 @@ Es domicilio legal:
 
 I. Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
 
-II. Del menor de edad que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
-III. De los menores o incapaces abandonados, el que resulte conforme a las circunstancias previstas en el artículo 26;
+II. Del menor de edad que no esté bajo la patria potestad y del mayor de edad restringido en su capacidad de ejercicio, el de su tutor;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+III. De incapaces abandonados, el que resulte conforme a las circunstancias previstas en el artículo 26;
 
 IV. De los cónyuges, aquél en el cual éstos vivan de común acuerdo, sin perjuicio del derecho de cada cónyuge de fijar su domicilio en la forma prevista en el artículo 26;
 
 V. De los militares en servicio activo, el lugar en que están destinados;
 
-VI. De los empleados públicos, el lugar donde desempeñan sus funciones por más de seis meses; y,
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
-VII. De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, el lugar en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
+VI. De los servidores públicos, el lugar donde desempeñan sus funciones por más de seis meses; y,
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+VII. De los sentenciados a pena privativa de la libertad, en el lugar en que la extingan; de las relaciones jurídicas anteriores a la condena, los sentenciados conservarán el último domicilio que hayan tenido.
 
 ###### Artículo 29.
 
@@ -1985,9 +2033,11 @@ La adquisición de bienes en virtud de la posesión, se llama prescripción posi
 
 Sólo pueden prescribirse los bienes y obligaciones que están en el comercio, salvo las excepciones establecidas por la ley.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 409.
 
-Pueden adquirir por prescripción positiva todos los que son capaces de adquirir por cualquier otro título; los menores y demás incapacitados pueden hacerlo por medio de sus legítimos representantes.
+Pueden adquirir por prescripción positiva todos los que son capaces de adquirir por cualquier otro título; los incapaces pueden hacerlo por medio de sus legítimos representantes.
 
 ###### Artículo 410.
 
@@ -2339,21 +2389,23 @@ La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá
 
 Pueden testar todas las personas a quienes la ley no prohíbe expresamente el ejercicio de ese derecho.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 479.
 
-Están incapacitados para testar:
+No pueden testar los incapaces.
 
-I. Los menores que no han cumplido catorce años de edad ya sean hombres o mujeres; y,
-
-II. Los que habitual o accidentalmente no disfrutan de su cabal juicio.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 480.
 
-Es válido el testamento hecho por un demente en un intervalo lúcido, siempre que se observen las prescripciones de los artículos siguientes de este Capítulo.
+Es válido el testamento hecho por los incapaces a que se refiere la fracción II del artículo 22 de este Código, siempre que se observen las prescripciones de los artículos siguientes en este Capítulo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 481.
 
-Cuando un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará al Juez que corresponda, una solicitud por escrito. El Juez nombrará dos médicos, si es posible especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El Juez deberá asistir al examen del enfermo y podrá hacerle cuantas preguntas estime convenientes, para cerciorarse de que es capaz para testar.
+Cuando el incapaz pretenda hacer testamento, el tutor y en defecto de éste, la familia de aquél, presentará al Juez que corresponda, una solicitud por escrito. El Juez nombrará dos médicos especialistas en la materia, para que examinen al incapaz y dictaminen sobre su estado. El Juez deberá asistir al examen del enfermo y podrá hacerle cuantas preguntas estime convenientes, para cerciorarse de que es capaz para testar.
 
 ###### Artículo 482.
 
@@ -2435,11 +2487,11 @@ En los casos de intestado, los descendientes del incapaz de heredar conforme al 
 
 ###### Artículo 492.
 
-Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad del menor, estando ya aprobadas las cuentas de la tutela.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2010)
 
 ###### Artículo 493.
 
-La incapacidad a que se refiere el artículo anterior no comprende a los ascendientes ni hermanos del menor, observándose en su caso lo dispuesto en la fracción X del artículo 487.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2010)
 
 ###### Artículo 494.
 
@@ -2635,7 +2687,9 @@ Si el legado consistiere en prestación periódica, el legatario hará suyas tod
 
 El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
-I. A los descendientes menores de dieciocho años respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+I. A los descendientes menores de edad respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte;
 
 II. A los descendientes que estén imposibilitados para trabajar, cualquiera que sea su edad; cuando exista la obligación a que se refiere la fracción anterior;
 
@@ -2645,7 +2699,9 @@ IV. A los ascendientes;
 
 V. A la persona con quien el testador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato y que el superviviente esté impedido para trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga matrimonio o se una en concubinato. Si fueren varias las personas con quien el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos; y,
 
-VI. A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen bienes para subvenir a sus necesidades.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+VI. A los hermanos y demás parientes colaterales dentro del cuarto grado si son incapaces, si no tienen bienes para satisfacer sus necesidades.
 
 ###### Artículo 541.
 
@@ -3057,13 +3113,17 @@ Si el testador no señala la cantidad de alimentos, se observará lo dispuesto e
 
 Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 638.
 
-El legado de educación dura hasta que el legatario sale de la menor edad.
+El legado de educación dura hasta que el legatario adquiera la mayoría de edad.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 639.
 
-Cesa también el legado de educación si el legatario, durante la menor edad, obtiene profesión u oficio con que poder subsistir, o si contrae matrimonio.
+Cesa también el legado de educación si el legatario, durante su minoría de edad, obtiene profesión u oficio con que poder subsistir, o si se emancipa.
 
 ###### Artículo 640.
 
@@ -3851,17 +3911,25 @@ La resolución que declare heredero al fisco del Estado, hará mención de los b
 
 ## TÍTULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGÍTIMA
 
-### CAPÍTULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDA ENCINTA
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO I. DE LAS MEDIDAS QUE DEBEN ADOPTARSE CUANDO LA MUJER QUEDA EMBARAZADA
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 803.
 
-Cuando a la muerte del marido la viuda crea haber quedado encinta, lo pondrá en conocimiento del Juez que conozca de la sucesión, dentro del término de cuarenta días, para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
+A la muerte del varón, la mujer que ha quedado embarazada de éste, lo pondrá en conocimiento del Juez que conozca de la sucesión, dentro del término de cuarenta días, para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 804.
 
-Los interesados a que se refiere el precedente artículo pueden pedir al Juez que dicte las providencias convenientes para evitar la suposición del parto, la substitución del infante o que se haga pasar por viable la criatura que no lo es.
+Los interesados a que se refiere el precedente artículo pueden pedir al Juez que dicte las medidas convenientes para asegurar que el hijo sea del póstumo.
 
-Cuidará el Juez de que las medidas que dicte no ataquen al pudor, ni a la libertad de la viuda.
+El Juez cuidará que las medidas que dicte respeten la dignidad humana.
+
+En caso de prueba biológica o proveniente del avance de los conocimientos científicos, si los ascendientes o descendientes se negaran a la práctica de ésta, se presumirá el parentesco, salvo prueba en contrario.
 
 ###### Artículo 805.
 
@@ -3923,13 +3991,15 @@ El derecho de reclamar la herencia prescribe en diez años y es transmisible a l
 
 Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 819.
 
-La herencia dejada a los menores y demás incapacitados, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
+La herencia dejada a los incapaces, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
 
 ###### Artículo 820.
 
-La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el Juez.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2010)
 
 ###### Artículo 821.
 
@@ -4031,9 +4101,11 @@ La aceptación en ningún caso produce confusión de los bienes del autor de la 
 
 Los albaceas son los órganos representativos de la copropiedad hereditaria para actuar en nombre y por cuenta de los herederos o legatarios en todo lo relativo a la defensa y administración de los bienes hereditarios. Así mismo, tienen como función ejecutar las disposiciones testamentarias y representar a la sucesión en juicio y fuera de él.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 845.
 
-No podrá ser albacea el que no tenga la libre disposición de sus bienes, o aquel que sufra cualquiera restricción en su capacidad de goce o de ejercicio, que lo inhabilite total o parcialmente para desempeñar el cargo. La mujer casada, mayor de edad, podrá ser albacea sin la autorización de su esposo.
+No podrá ser albacea el que no tenga la libre disposición de sus bienes, o aquél inhabilitado para desempeñar el cargo.
 
 ###### Artículo 846.
 
@@ -4051,9 +4123,11 @@ IV. Los que no tengan un modo honesto de vivir.
 
 Puede el testador nombrar uno o más albaceas.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 848.
 
-Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos menores votarán sus legítimos representantes.
+Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos menores de edad votarán sus legítimos representantes.
 
 ###### Artículo 849.
 
@@ -4273,9 +4347,11 @@ Son nulas de pleno derecho las disposiciones por los que el testador dispensa al
 
 La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 892.
 
-Cuando fuere heredero el Fisco del Estado, o los herederos fueren menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
+Cuando fuere heredero el Fisco del Estado, o los herederos fueren menores de edad, intervendrá el Ministerio Público en la aprobación de las cuentas.
 
 ###### Artículo 893.
 
@@ -4367,7 +4443,9 @@ II. Por muerte;
 
 III. Por incapacidad legal, declarada en forma;
 
-IV. Por excusa que el Juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+IV: Por excusa que el Juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores de edad o la Beneficencia Pública;
 
 V. Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
 
@@ -4471,9 +4549,11 @@ Aprobado el inventario y la cuenta de administración, el albacea debe hacer en 
 
 A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 935.
 
-Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo menores entre ellos, deberá oírse al tutor y al Ministerio Público, y el auto en que se apruebe el convenio, determinará el tiempo que debe durar la indivisión.
+Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo menores de edad entre ellos, deberá oírse al tutor y al Ministerio Público, y el auto en que se apruebe el convenio, determinará el tiempo que debe durar la indivisión.
 
 ###### Artículo 936.
 
@@ -4501,11 +4581,13 @@ Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con 
 
 En el proyecto de partición se expresará la parte que del capital o fundo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquella se extinga.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 942.
 
-Cuando todos los herederos sean mayores, y el interés del Fisco, si le hubiere, está cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaría o del intestado.
+Cuando todos los herederos sean mayores de edad, y el interés del Fisco, si le hubiere, está cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaría o del intestado.
 
-Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de los menores.
+Cuando haya menores de edad, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad, de darse el caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de aquellos.
 
 ###### Artículo 943.
 
@@ -5211,13 +5293,17 @@ Las personas que han causado en común un daño, son responsables solidariamente
 
 Las personas morales son responsables de los daños y perjuicios que causen sus representantes legales en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1086.
 
-Los que ejerzan la patria potestad tienen obligación de responder de los daños y perjuicios causados por los actos de los menores que estén bajo su poder y que habiten con ellos.
+Los que ejerzan la patria potestad tienen obligación de responder de los daños y perjuicios causados por los actos de los menores de edad que estén bajo su poder y que habiten con ellos.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 1087.
 
-Cesa la responsabilidad a que se refiere el artículo anterior, cuando los menores ejecuten los actos que dan origen a ella, encontrándose bajo la vigilancia y autoridad de otras personas, como directores de colegios, de talleres, etc., pues entonces esas personas asumirán la responsabilidad de que se trata.
+Cesa la responsabilidad a que se refiere el artículo anterior, cuando los menores de edad ejecuten los actos que dan origen a ella, encontrándose bajo la vigilancia y autoridad de otras personas, como directores de colegios, de talleres, etc., pues entonces esas personas asumirán la responsabilidad de que se trata.
 
 ###### Artículo 1088.
 
@@ -7443,9 +7529,11 @@ El mutuante es responsable de los perjuicios que sufra el mutuario por la mala c
 
 En el caso de haberse pactado que la restitución se hará cuando pueda o tenga medios el deudor, se observará lo dispuesto en el artículo 1241.
 
-###### Artículo 1553.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
-No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
+###### ARTÍCULO 1553.
+
+No se declararán nulas las deudas contraídas por el menor de edad para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
 ### CAPÍTULO II. DEL MUTUO CON INTERÉS
 
@@ -8507,9 +8595,13 @@ El servicio doméstico, el servicio por jornal, el servicio a precio alzado en q
 
 ### CAPÍTULO II. DE LA PRESTACIÓN DE SERVICIOS PROFESIONALES
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1767.
 
-El que presta y el que recibe los servicios profesionales pueden fijar, de común acuerdo, retribución debida por ellos.
+El que presta y el que recibe los servicios profesionales pueden fijar, de común acuerdo; retribución debida por ellos.
+
+Para trabajo igual debe corresponder salario igual; sin tener en cuenta si es hombre o mujer,
 
 Cuando se trate de profesionistas que estuvieren sindicalizados, se observarán las disposiciones relativas establecidas en el respectivo contrato colectivo de trabajo.
 
@@ -10007,7 +10099,9 @@ I. El coheredero o partícipe, sobre los inmuebles repartidos, en cuanto importe
 
 II. Los descendientes de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos, para garantizar la conservación y devolución de aquéllos; teniendo en cuenta lo que dispone la fracción III del artículo 539 del Código Familiar para el Estado de Michoacán;
 
-III. Los menores y demás incapacitados sobre los bienes de sus tutores, por los que éstos administren;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+III. Los incapaces sobre los bienes de sus tutores, por los que éstos administren;
 
 IV. Los legatarios, por el importe de sus legados, si no hubiere hipoteca especial designada por el mismo testador; y,
 
@@ -10017,15 +10111,21 @@ V. El Estado, los pueblos y los establecimientos públicos, sobre los bienes de 
 
 La constitución de la hipoteca en los casos a que se refieren las fracciones II y III del artículo anterior, puede ser pedida:
 
-I. En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos del menor;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
-II. En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador del incapacitado; y,
+I. En el caso de bienes de que fueren meros administradores los padres, por los herederos legítimos del menor de edad;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+II. En el caso de bienes que administren los tutores, por los herederos legítimos y por el curador del incapaz; y,
 
 III. Por el Ministerio Público, si no la pidieren las personas enumeradas en las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 2070.
 
-La constitución de la hipoteca en los bienes de hijos de familia, de los menores y de los demás incapacitados, se regirá por las disposiciones respectivas del Código Familiar para el Estado de Michoacán.
+La constitución de la hipoteca en los bienes de hijos de familia, de los incapaces, se regirá por las disposiciones respectivas del Código Familiar para el Estado de Michoacán.
 
 ###### Artículo 2071.
 
@@ -10653,9 +10753,11 @@ Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, e
 
 Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 2169.
 
-Los padres, como administradores de los bienes de sus hijos, los tutores de menores o incapacitados, y cualesquiera otros administradores, aun que (sic) habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+Los padres, como administradores de los bienes de sus hijos, los tutores de los incapaces, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
 
 ###### Artículo 2170.
 
@@ -10732,3 +10834,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE AGOSTO DE 2009.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+PRIMERO. Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones de la legislación vigente, hasta su total conclusión.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
