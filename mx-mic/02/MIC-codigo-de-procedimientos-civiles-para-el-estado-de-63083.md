@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-para-el-estado-de-63083"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-06"
-last_updated: "2009-10-02"
+last_updated: "2010-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán, el sábado 6 de septiembre de 2008.
 
@@ -3115,7 +3115,9 @@ VIII. El enemigo manifiesto de aquél contra quien se presenta;
 
 IX. El abogado o el procurador de la parte por quien son presentados, en el negocio en que tengan o hayan tenido intervención con el carácter indicado;
 
-X. El tutor o el curador por los menores y éstos por aquéllos, mientras no hubieren sido aprobadas las cuentas de la tutela;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+X. El tutor o el curador por los menores de edad y éstos por aquéllos, mientras no hubieren sido aprobadas las cuentas de la tutela;
 
 XI. El Juez, en el pleito que juzgó; y,
 
@@ -3845,7 +3847,9 @@ La interposición del recurso suspende los efectos del auto recurrido.
 
 El recurso de apelación tiene por objeto que el Tribunal de Apelación revoque o modifique la sentencia o el auto dictado en la primera instancia, en los puntos relativos a los agravios expresados.
 
-No obstante lo dispuesto anteriormente, en los procedimientos relacionados con derechos de menores o incapaces, se suplirá la deficiencia de la queja.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+No obstante lo dispuesto anteriormente, en los procedimientos relacionados con derechos de incapaces, se suplirá la deficiencia de la queja.
 
 ###### Artículo 683.
 
@@ -5573,9 +5577,11 @@ El albacea provisional cesará en su encargo tan luego como haya albacea definit
 
 Este precepto se aplicará también a los albaceas interinos o definitivos que, una vez terminado su cargo por remoción o por cualquier otro motivo, rehúsen entregar los bienes hereditarios a su legítimo sucesor.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 991.
 
-En los juicios sucesorios en que haya herederos o legatarios menores que no tuvieren representante legítimo, dispondrá el Juez que designe un tutor si han cumplido diez y seis (sic) años. Si los menores no han cumplido dieciséis años, será nombrado por el Juez. La justificación de la menor edad se hará con sólo la presentación de las partidas del Registro Civil o por los demás medios que admite la ley, sin necesidad de juicio o incidente especial.
+En los juicios sucesorios en que haya herederos o legatarios menores de edad que no tuvieren representante legítimo, dispondrá el Juez que designe un tutor si han cumplido dieciséis años. Si los menores de edad no han cumplido dieciséis años, será nombrado por el Juez. La justificación de la minoría de edad se hará con sólo la presentación de las partidas del Registro Civil o por los demás medios que admite la ley, sin necesidad de juicio o incidente especial.
 
 ###### Artículo 992.
 
@@ -5749,9 +5755,11 @@ Los autos de sobreseimiento que se dicten en los casos de los dos artículos ant
 
 Presentado el testamento, el Juez, dentro de cinco días, declarará, sin más trámite, si es legítimo o no, y en el primer caso, tendrá por radicada la testamentaría, y por herederos, legatarios y albaceas, a los que con tal carácter haya instituido el testador. Si éste no hubiere nombrado albacea, el Juez nombrará uno provisional en el mismo auto en que declare legítimo el testamento, eligiendo para ese cargo a alguno de los instituidos herederos. En el mismo auto se prevendrá a los herederos instituidos, que dentro del término de ocho días presenten escrito dando su voto al que designen para albacea definitivo, y dentro de los tres siguientes el Juez declarará albacea definitivo al que hubiere reunido mayoría de votos, haciendo el nombramiento el Juez de entre los propuestos, si en vista de los escritos presentados, ninguno reuniere dicha mayoría.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1022.
 
-Si hubiere herederos o legatarios menores o incapacitados, las notificaciones se entenderán con su tutor o representante legítimo; si no tuvieren tutor, se les proveerá con arreglo a derecho.
+Si hubiere herederos o legatarios incapaces, las notificaciones se entenderán con su tutor o representante legítimo; si no tuvieren tutor, se les proveerá con arreglo a derecho.
 
 ###### Artículo 1023.
 
@@ -6193,9 +6201,11 @@ Los bienes que fueren indivisibles o que desmerezcan mucho por la división, pod
 
 Si no pudiere realizarse lo dispuesto por el artículo anterior, y los herederos no convinieren en usufructuar los bienes en común o en otra manera de pago, se procederá a su venta, prefiriéndose al heredero que haga mejor postura.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1110.
 
-La venta se hará en pública subasta, admitiéndose licitadores extraños, siempre que haya mayoría de menores, o que alguno de los herederos lo pida.
+La venta se hará en pública subasta, admitiéndose licitadores extraños, siempre que haya mayoría de menores de edad, o que alguno de los herederos lo pida.
 
 ###### Artículo 1111.
 
@@ -6291,7 +6301,9 @@ I. Con la certificación de la defunción del autor de la herencia, se acompaña
 
 II. El inventario y avalúo se harán por el cónyuge que sobreviva o el albacea si estuviere designado y, en su defecto, por el heredero que sea de más edad;
 
-III. El Juez convocará a junta a los interesados nombrando en ella tutores especiales a los menores que no tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquellos y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, requerirá a cualquiera de las personas señaladas en la fracción anterior, por su orden, para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o instructivo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+III. El Juez convocará a junta a los interesados nombrando en ella tutores especiales a los menores de edad que no tuvieren representante legítimo o cuando el interés de éstos fuere opuesto al de aquellos y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra ponerlos de acuerdo, requerirá a cualquiera de las personas señaladas en la fracción anterior, por su orden, para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una nueva junta a que serán convocados por cédula o instructivo. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
 
 IV. Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio, con excepción de la denuncia del intestado que se hará con copia para dar aviso al Fisco; y,
 
@@ -6303,7 +6315,9 @@ V. El acta o actas en que consten las adjudicaciones pueden servir de título a 
 
 Los juicios sucesorios podrán ser tramitados por los notarios públicos del Estado, con sujeción a las siguientes reglas:
 
-I. Cuando todos los herederos sean mayores de edad, o lo sea la mayoría y estuvieren debidamente representados los menores, o hubiere un solo heredero, aunque éste sea menor de edad, la sucesión podrá tramitarse extrajudicialmente, con intervención de un Notario Público, mientras no hubiere controversia alguna;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+I. Cuando todos los herederos sean mayores de edad, o lo sea la mayoría y estuvieren debidamente representados los menores de edad, o hubiere un solo heredero, aunque éste sea menor de edad, la sucesión podrá tramitarse extrajudicialmente, con intervención de un Notario Público, mientras no hubiere controversia alguna;
 
 II. El albacea, si lo hubiere, y los herederos, exhibiendo el testimonio del último testamento, copia autorizada de la resolución judicial que lo haya declarado legítimo o de la declaratoria de herederos en caso de intestado y la constancia de haber dado el aviso que previene el artículo 1000 de este Código, se presentarán ante un notario para hacer constar que aceptan la herencia, se reconocen sus derechos hereditarios y que el albacea va a proceder a formar el inventario y avalúo de los bienes de la herencia. El notario publicará estas declaraciones por una sola vez en el Periódico Oficial del Estado;
 
@@ -6455,7 +6469,9 @@ Se oirá precisamente al Ministerio Público:
 
 I. Cuando la solicitud promovida afecte los intereses públicos;
 
-II. Cuando se refiera a la persona o bienes de menores de edad o incapacitados;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
+II. Cuando se refiera a la persona o bienes de incapaces;
 
 III. Cuando tenga relación con los derechos o bienes de algún Ayuntamiento, o de cualquier establecimiento público que esté sostenido por el Erario, o que se encuentre bajo la protección del Gobierno, sin que esto importe la falta de audiencia del síndico o del representante del establecimiento público de que se trate;
 
@@ -6682,3 +6698,9 @@ P.O. 2 DE OCTUBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+PRIMERO. Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones de la legislación vigente, hasta su total conclusión.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
