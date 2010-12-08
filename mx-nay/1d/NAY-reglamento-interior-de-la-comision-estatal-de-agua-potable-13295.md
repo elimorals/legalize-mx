@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-comision-estatal-de-agua-potable-1329
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-10"
-last_updated: "1997-12-10"
+last_updated: "2010-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION ESTATAL DEL AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 10 de diciembre de 1997.
 
@@ -315,3 +317,13 @@ Ejecutar las acciones relativas a todos los asuntos de carácter legal de la Com
 Artículo primero.- El presente reglamento entrará en vigor el día siguiente de su publicación en el periódico oficial del Estado.
 
 Artículo segundo.- En tanto no se expida el manual de organización y demás manuales administrativos, el Director General queda facultado para resolver las cuestiones que se deban regular.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la COMISIÓN Estatal de Agua Potable y Alcantarillado del Estado de Nayarit publicado en el Periódico Oficial del Gobierno del Estado de Nayarit el día 10 de diciembre de 1997, así como todas las disposiciones reglamentarias o administrativas que se opongan al presente ordenamiento.
+
+TERCERO.- El Director de la COMISIÓN presentará a la Junta para su aprobación, el Reglamento Interno del Consejo Consultivo, a más tardar dentro de los 60 días siguientes a la publicación del presente reglamento.
