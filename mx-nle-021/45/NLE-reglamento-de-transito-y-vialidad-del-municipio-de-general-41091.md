@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-general-4109
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-08"
-last_updated: "2009-11-11"
+last_updated: "2010-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 8 de septiembre de 2004.
 
@@ -1055,9 +1055,11 @@ Estos dispositivos deben colocarse a diez metros y cincuenta metros hacia cada l
 
 La Autoridad Municipal, podrá determinar la instalación de relojes estacionómetros en el lugar y cuando las circunstancias lo justifiquen, previo estudio de factibilidad elaborado por la autoridad encargada de la vialidad. Los conductores o propietarios de vehículos estacionados donde existan éstos, deberán pagar lo indicado en los mismos.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 64.
 
-La dependencia encargada de la vigilancia del tránsito, previo estudio correspondiente podrá autorizar cajones de estacionamiento exclusivo tomando en cuenta la factibilidad técnica y vial, así como las necesidades del solicitante y las de los propietarios y ocupantes de propiedades.
+La dependencia encargada de la vigilancia del tránsito, previo estudio correspondiente podrá autorizar, en términos de los ordenamientos urbanísticos aplicables, cajones de estacionamiento exclusivo tomando en cuenta la factibilidad técnica, urbanística y vial, así como las necesidades del solicitante y las de los propietarios y ocupantes de propiedades. Por la expedición de las licencias de estacionamiento exclusivo, se causarán anualmente los derechos que al efecto se contemplan en la Ley de Hacienda para los Municipios del Estado de Nuevo León.
 
 ###### ARTÍCULO 65.
 
@@ -2228,3 +2230,7 @@ Las presentes reformas por adición al Reglamento de Tránsito y Vialidad del Mu
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente acuerdo en el Periódico Oficial del Estado, hágase posteriormente su publicación a través de la gaceta municipal.
+
+P.O. 8 DE DICIEMBRE DE 2010.
+
+ÚNICO.- La presente reforma por modificación, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
