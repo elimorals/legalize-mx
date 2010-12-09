@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2002-06-13"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
 > <small>N. DE E. EN TERMINOS DEL ARTICULO CUARTO TRANSITORIO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2002. SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY EN MATERIA DE AUTORIZACION, EXPEDICION, RENOVACION Y REPOSICION DE LICENCIAS DE CHOFER DEL SERVICIO PUBLICO, ESTABLECIDAS EN LA LEY DE TRANSITO PARA LOS MUNICIPIOS DE DURANGO.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -137,7 +137,9 @@ II.- Los Ayuntamientos de los Municipios;
 
 III.- Los Directores, y en su caso, los Subdirectores de la dependencia respectiva, cualesquiera que sea la denominación que les den los Ayuntamientos; y
 
-IV.- Los Jefes de Servicios, comandantes, oficiales y Agentes de Tránsito.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+IV.- Los Jefes de Servicios, comandantes, oficiales y policía vial.
 
 ###### ARTICULO 16.
 
@@ -620,3 +622,13 @@ SEGUNDO.- Se abroga la Ley de Transportes del Estado de Durango, cuya aprobació
 TERCERO.- El Reglamento relativo a esta Ley deberá ser expedido en un término que no excederá de 90 días contados a partir de la fecha de la vigencia del presente Decreto.
 
 CUARTO.- Se derogan las disposiciones que se opongan a la presente ley en materia de autorización, expedición, renovación y reposición de licencias de chofer del servicio público, establecidas en la Ley de Tránsito para los Municipios del Estado de Durango.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Cuando dentro de la Ley de Tránsito para los Municipios del Estado de Durango, o en cualquier otro ordenamiento legal aplicable, se hable de Agentes de Tránsito, se entenderá que se refiere a Policía Vial.
+
+TERCERO. Los ayuntamientos deberán adecuar sus reglamentos respectivos a los términos del presente decreto en un plazo máximo de 120 días, contados a partir del inicio de la vigencia del presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
