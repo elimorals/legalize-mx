@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2008-05-27"
+last_updated: "2010-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -145,7 +145,7 @@ XVIII.- Fomentar el desarrollo de habilidades para afrontar los casos de emergen
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2005)</small>
 
-XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
+XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adiciones (sic) que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
 
 (ADICIONADA, P.O. 22 DE ABRIL DE 2006) (F. DE E., P.O. 30 DE DICIEMBRE DE 2006)
 
@@ -167,9 +167,9 @@ III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana
 
 En la impartición de todo tipo de educación para menores de edad, se tomarán las medidas que aseguren al educando la protección y cuidados necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad. La aplicación de la disciplina escolar será compatible con su edad.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-Para tal fin, se implementarán programas permanentes de capacitación y orientación a los directivos, maestros y personal administrativo en asistencia y primeros auxilios para accidentes en las escuelas, considerando en todo caso, la concurrencia de los padres de familia y vigilando que estos programas sean acordes a la edad de los educandos.
+Para tal fin se implementarán programas permanentes de capacitación y orientación a los directivos, maestros y personal administrativo en prevención y atención de acoso y la violencia escolar, asistencia y primeros auxilios para accidentes en las escuelas, considerando en todo caso, la concurrencia de los padres de familia y vigilando que estos programas sean acordes a la edad de los educandos.
 
 ###### ARTICULO 10.
 
@@ -537,7 +537,7 @@ El personal docente encargado de este nivel educativo deberá contar con título
 
 La educación primaria es obligatoria para todos los habitantes del Estado. Tiene como objetivo primordial dotar al educando de los conocimientos, habilidades y formación de hábitos que fundamenten el aprendizaje posterior, así como los conocimientos elementales para integrarse a la sociedad y acceder a su formación cultural posterior.
 
-En el sistema educativo estatal se impartirá educación primaria a los niños cuya edad fluctue entre los 6 y 14 años.
+En el sistema educativo estatal se impartirá educación primaria a los niños cuya edad fluctué entre los 6 y 14 años.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
@@ -1892,3 +1892,7 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
