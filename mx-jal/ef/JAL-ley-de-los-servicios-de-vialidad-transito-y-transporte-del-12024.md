@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2010-08-07"
+last_updated: "2010-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -131,13 +131,23 @@ V. Consejo Estatal: Consejo Consultivo de Vialidad, Tránsito y Transporte;
 
 VI. Registro Estatal: Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VIII (sic). Organismo Coordinador: Organismo Coordinador de la Operación Integral del Servicio de Transporte Público; y
+> <small>(REFORMADA [N. DE E. ANTES FRACCION VIII], P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+VII. Organismo Coordinador: Organismo Coordinador de la Operación Integral del Servicio de Transporte Público;
 
-IX. CEIT: Centro Estatal de Investigación de la Vialidad y Transporte.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VIII. CEIT: Centro Estatal de Investigación de la Vialidad y Transporte, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+IX. Holograma de verificación vehicular: forma única autorizada y emitida por la Secretaría de Medio Ambiente para el Desarrollo Sustentable, con características de seguridad y colores determinados de acuerdo con el año, en cumplimiento del programa respectivo.
 
 ###### Artículo 6.
 
@@ -309,7 +319,11 @@ VIII. Establecer, diseñar y administrar los programas de instrucción y capacit
 
 IX. Expedir las licencias y permisos para operar y conducir vehículos, con las modalidades y características que establece esta Ley y precise su reglamento;
 
-X. Registrar vehículos y expedir los elementos de identificación conforme a su tipo y características, como placas, calcomanías, hologramas y tarjetas de circulación;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+X. Registrar vehículos, expedir hologramas de verificación vehicular y los elementos de identificación conforme a su tipo y características de cada vehículo, como placas, calcomanías, hologramas y tarjetas de circulación;
 
 XI. Otorgar concesiones para la construcción, mantenimiento y operación de la infraestructura carretera y equipamiento de las vías de comunicación;
 
@@ -767,9 +781,29 @@ IV. Aprovechar en forma segura y eficiente el servicio público de transporte;
 
 V. Evitar que quienes conducen vehículos, los manejen fuera de los límites de velocidad permitidos;
 
-VI. Evitar que las personas en estado de ebriedad o bajo el influjo de substancias que alteren la capacidad para conducir, manejen automotores; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VII. Promover una relación digna, honesta y respetuosa, entre la ciudadanía y los oficiales y agentes de vialidad y tránsito.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VI. Evitar que las personas en estado de ebriedad o bajo el influjo de substancias que alteren la capacidad para conducir, manejen automotores;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VII. Promover una relación digna, honesta y respetuosa entre la ciudadanía y los oficiales y agentes de vialidad y tránsito;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VIII. Evitar la circulación de vehículos automotores con emisiones visiblemente contaminantes, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+IX. Garantizar, en el ámbito de su competencia, que los automovilistas del servicio público y privado den cumplimiento a la verificación vehicular contenida en la ley en materia.
 
 ### CAPITULO III. De las clases de vehículos
 
@@ -825,9 +859,13 @@ IV. De seguridad: Los adaptados para servicios de seguridad, protección civil y
 
 ### CAPITULO IV. Del registro y control de vehículos
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 45.
 
-Todo vehículo, para transitar u ocupar la vía pública, deberá reunir las condiciones requeridas de acuerdo con lo dispuesto en esta Ley y su reglamento; para ello deberá estar inscrito en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte y portar los elementos de identificación conforme a su tipo y características, tales como placas, calcomanías, hologramas, tarjetas de circulación, rótulos y colores, etc.
+Todo vehículo, para transitar y ocupar la vía pública, deberá reunir las condiciones requeridas de acuerdo con lo dispuesto en esta ley y su reglamento; para ello deberá estar inscrito en el Registro Estatal de los Servicios Públicos de Tránsito y Transporte y portar los elementos de identificación conforme a su tipo y características, tales como placas, calcomanías, hologramas, tarjetas de circulación, rótulos y colores, además de contar con el holograma o comprobante de verificación vehicular.
 
 ###### Artículo 46.
 
@@ -857,9 +895,13 @@ Los vehículos no registrados o que carezcan de la documentación a que se refie
 
 Los vehículos registrados en el extranjero podrán circular en el Estado, si sus conductores acreditan la legal internación y estancia en el país de los mismos, mediante la documentación expedida por las autoridades federales competentes.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 52.
 
-A los vehículos registrados en otra entidad federativa, para circular en las vías públicas del Estado, no se les exigirán requisitos diferentes o adicionales a los que deban de satisfacer en su lugar de procedencia; su cumplimiento se comprobará mediante los documentos que expidan las autoridades de su jurisdicción.
+A los vehículos registrados en otra entidad federativa, para circular en las vías públicas del estado no se les exigirán requisitos diferentes o adicionales a los que deban satisfacer en su lugar de procedencia; su cumplimiento se comprobará mediante los documentos que expidan las autoridades de su jurisdicción. No obstante lo anterior, se podrán retirar de la circulación aquellos vehículos que aun y cuando estén registrados en otra entidad federativa, emitan visiblemente contaminantes a la atmósfera.
 
 ###### Artículo 53.
 
@@ -879,9 +921,23 @@ IV. Si existe un registro anterior, acreditar su cancelación y, en su caso, el 
 
 En el caso del trámite de cambio de propietario, será optativa la renovación o canje de los elementos de identificación que acreditan el registro del vehículo, a excepción de la tarjeta de circulación, siempre y cuando el vehículo tenga un registro previo en el Estado y haya cumplido con el último canje general de placas en el Estado.
 
-V. Si el vehículo es de procedencia extranjera, acreditar su legal importación en los términos que señale la autoridad competente; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-VI. Presentar solicitud por escrito conforme al reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+V. Si el vehículo es de procedencia extranjera, acreditar su legal importación en los términos que señale la legislación aplicable;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VI. Presentar solicitud por escrito conforme al reglamento de esta ley, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VII. Acreditar haber cumplido con el programa de verificación vehicular que emita la Secretaría de Medio Ambiente para el Desarrollo Sustentable, de acuerdo con el calendario oficial de verificación vigente en el estado.
 
 ###### Artículo 54.
 
@@ -971,17 +1027,21 @@ VII. Las restricciones al titular si las hubiere;
 
 VIII. La persona a quien se deberá avisar en caso de accidente;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-IX. El tipo de sangre del titular de la licencia; y
+IX. El tipo de sangre del titular de la licencia;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-X. La anuencia del titular en caso de que así sea su voluntad, para que se le considere donador de órganos en los casos previstos y autorizados por la legislación aplicable.
+X. La anuencia del titular, en caso de que así sea su voluntad, para que se le considere donador de órganos en los casos previstos y autorizados por la legislación aplicable, y
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-Para los efectos de la fracción anterior, el Ejecutivo del Estado, celebrará los convenios de coordinación y colaboración con las dependencias competentes en la materia, a efecto de llevar dicho trámite.
+XI. La Clave Única de Registro de Población.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Para los efectos de la fracción X, el Ejecutivo del Estado celebrará los convenios de coordinación y colaboración con las dependencias competentes en la materia, a efecto de llevar dicho trámite.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
 
@@ -1115,11 +1175,19 @@ II. Queda prohibido transportar en un vehículo a un número mayor de personas q
 
 III. Todo vehículo que circule en las vías públicas de comunicación local, deberá estar en buen estado mecánico y contar con los equipos, sistemas, señales, y dispositivos de seguridad que especifiquen esta Ley y sus reglamentos;
 
-IV. Los vehículos automotores deberán contar con dispositivos para prevenir y controlar la emisión de ruidos y contaminantes, conforme a las normas oficiales mexicanas y los ordenamientos ecológicos aplicables;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+IV. Los vehículos automotores deberán contar con dispositivos para prevenir y controlar la emisión de ruidos y contaminantes, conforme a las normas oficiales mexicanas y a las disposiciones jurídicas aplicables;
 
 V. Toda modificación a la estructura o diseño de vehículos automotores deberá realizarse por personal calificado y con estricto apego a las normas oficiales mexicanas;
 
-VI. Los vehículos automotores registrados en el Estado, deberán someterse a las verificaciones mecánicas con la periodicidad que establezcan los ordenamientos aplicables, para comprobar que conservan las condiciones adecuadas para circular, conforme a las disposiciones de esta Ley; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VI. Los vehículos automotores registrados en el estado, deberán someterse a las verificaciones vehiculares en términos del programa que emita la Secretaría de Medio Ambiente para el Desarrollo Sustentable, con la periodicidad establecida en el calendario oficial de verificación vigente para el estado, para comprobar que se encuentran en condiciones ambientalmente óptimas para su circulación, conforme a las disposiciones de esta ley, su reglamento y demás disposiciones jurídicas aplicables, y
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2004)</small>
 
@@ -1343,9 +1411,23 @@ Los vehículos destinados al servicio público de transporte, se sujetarán a la
 
 I. Tratándose de vehículos para el transporte de personas, tanto los modelos de los mismos, como su antigüedad máxima para su incorporación al servicio, así como la fecha en que deberán de sustituirse, serán establecidos en el reglamento correspondiente;
 
-II. Las características específicas de los vehículos para cada modalidad del servicio público de transporte, sus condiciones de seguridad, comodidad y capacidad para transportar personas y carga, así como los colores y emblemas que los identifiquen, se precisarán en el reglamento de esta Ley; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-III. En el caso de vehículos para carga especial, se aplicarán las normas de seguridad establecidas por las autoridades competentes en materia de protección del medio ambiente, seguridad y protección civil.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+II. Las características específicas de los vehículos para cada modalidad del servicio público de transporte, sus condiciones de seguridad, comodidad y capacidad para transportar personas y carga, así como los colores y emblemas que los identifiquen, se precisarán en el reglamento de esta ley;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. En el caso de vehículos para carga especial, se aplicarán las normas de seguridad establecidas por las autoridades competentes en materia de protección del medio ambiente, seguridad y protección civil, y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+IV. En general, los vehículos enunciados en el presente artículo deberán cumplir oportunamente con el calendario de verificación vehicular vigente, en los términos que establece la ley en materia.
 
 ### CAPITULO II. De las concesiones y permisos para la prestación del servicio público de transporte
 
@@ -2417,7 +2499,9 @@ III. No manifestar la baja del vehículo o el cambio de domicilio del propietari
 
 IV. Transportar personas en vehículos de carga liviana o pesada, sin protección debida;
 
-V. Conducir un vehículo que visiblemente provoque contaminación al medio ambiente, en los términos de la ley de la materia;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+V. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
 VI. Al propietario de un vehículo, por permitir su conducción por persona que carezca de licencia o permiso vigente;
 
@@ -2535,11 +2619,21 @@ VI. Al conductor de un vehículo que exceda, en más de diez kilómetros por hor
 
 VII. Al conductor que maneje en sentido contrario o, al que injustificadamente invada el sentido contrario para rebasar en arterias de doble o múltiple circulación, en zona urbana.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 168.
 
-Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público.
+Se sancionará con multa equivalente a veinte días de salario mínimo general, vigente en la zona económica donde se cometa la infracción:
+
+I. Al conductor de servicio de transporte público que realice servicio distinto al autorizado, en vehículos destinados al servicio público;
+
+II. Al conductor que circule en el estado, en vehículo que emita visiblemente contaminantes a la atmósfera, y
+
+III. Al conductor que circule en vehículo que no cuente con el holograma de verificación vehicular, de acuerdo con el calendario oficial.
+
+Tratándose de las infracciones contenidas en las fracciones II y III de este artículo, podrán ser condonadas, siempre y cuando, dentro de los quince días naturales siguientes el conductor cumpla con los lineamientos establecidos.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3152,3 +3246,11 @@ P.O. 7 DE AGOSTO DE 2010.
 PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, a realizar las modificaciones y adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor a los 15 días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial Estado de Jalisco.
