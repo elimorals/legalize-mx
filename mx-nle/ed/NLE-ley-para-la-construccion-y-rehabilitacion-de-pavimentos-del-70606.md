@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-construccion-y-rehabilitacion-de-pavimentos-del-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-11"
-last_updated: "2010-07-24"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA CONSTRUCCION Y REHABILITACION DE PAVIMENTOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 2009.
 
@@ -45,17 +45,21 @@ LEY PARA LA CONSTRUCCIÓN Y REHABILITACIÓN DE PAVIMENTOS DEL ESTADO DE NUEVO LE
 
 Objeto.
 
-La presente Ley tiene por objeto regular lo relativo a las obras de pavimentación que se realicen en los términos de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, a fin de que cuenten con las características adecuadas en materia de calidad y rodamiento seguro.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+La presente Ley tiene por objeto regular lo relativo a las obras de pavimentación que se realicen en los términos de la Ley de Desarrollo Urbano del Estado de Nuevo León, y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, a fin de que cuenten con las características adecuadas en materia de calidad y rodamiento seguro.
 
 ###### ARTÍCULO 2.
 
 Glosario.
 
-Además de las definiciones contenidas en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, para los efectos de esta Ley se entenderá por:
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Además de las definiciones contenidas en la Ley de Desarrollo Urbano del Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, para los efectos de esta Ley se entenderá por:
 
 I. AASHTO: la Asociación Americana de Oficiales de Autopista Estatal y Transporte;
 
-II. Agencia: la Agencia para la Planeación del Desarrollo Urbano de Nuevo León;
+II. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010);
 
 III. Agregado: material granular de composición mineral como arena, grava o roca triturada, utilizado para formar mortero o concreto, o sólo en bases granulares y balastos en vías férreas;
 
@@ -129,29 +133,33 @@ XXXVII. Roderas: son depresiones longitudinales canalizadas en pavimentos de con
 
 XXXVIII. SCT: La Secretaría de Comunicaciones y Transportes del Gobierno Federal;
 
-XXXIX. Sobrecarpeta: una o más capas delgadas de concreto asfáltico o concreto hidráulico, tendidas sobre un pavimento existente;
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-XL. Subbase: es la capa compuesta por materiales granulares, de granulometría continua, con un alto contenido de material triturado o cien por ciento triturado, con el cual se forma la capa inmediata superior a la capa de subrasante y sirve como soporte de la capa de base en un pavimento flexible o como base para un pavimento rígido;
+XXXIX. Secretaría: la Secretaría de Desarrollo Sustentable del Gobierno del Estado de Nuevo León;
 
-XLI. Subrasante: es la capa formada por material seleccionado producto de los cortes realizados a lo largo del camino o de los préstamos de bancos existentes para este fin. Con esta capa se forma el nivel terminado de la capa de subrasante y de desplante de las capas del pavimento;
+XL. Sobrecarpeta: una o más capas delgadas de concreto asfáltico o concreto hidráulico, tendidas sobre un pavimento existente;
 
-XLII. Superficie de rodamiento: es la cara expuesta del pavimento que está en contacto directo con los neumáticos; en general, debe cumplir con las siguientes características: presentar una irregularidad baja para las velocidades de operación, proporcionar comodidad al usuario, presentar una textura tal que incremente la resistencia al deslizamiento, tener un color que evite los reflejos de sol o luces artificiales durante la noche, plana para permitir el desalojo rápido del agua de lluvia;
+XLI. Subbase: es la capa compuesta por materiales granulares, de granulometría continua, con un alto contenido de material triturado o cien por ciento triturado, con el cual se forma la capa inmediata superior a la capa desubrasante y sirve como soporte de la capa de base en un pavimento flexible o como base para un pavimento rígido;
 
-XLIII. TDPA: Tránsito Diario Promedio Anual;
+XLII. Subrasante: es la capa formada por material seleccionado producto de los cortes realizados a lo largo del camino o de los préstamos de bancos existentes para este fin. Con esta capa se forma el nivel terminado de la capa de subrasante y de desplante de las capas del pavimento;
 
-XLIV. Terracerías: la sección de proyecto hasta su nivel de subrasante;
+XLIII. Superficie de rodamiento: es la cara expuesta del pavimento que está en contacto directo con los neumáticos; en general, debe cumplir con las siguientes características: presentar una irregularidad baja para las velocidades de operación, proporcionar comodidad al usuario, presentar una textura tal que incremente la resistencia al deslizamiento, tener un color que evite los reflejos de sol o luces artificiales durante la noche, plana para permitir el desalojo rápido del agua de lluvia;
 
-XLV. Textura superficial: terminación que presenta la superficie un pavimento, la cual puede ser cerrada, abierta o semiabierta;
+XLIV. TDPA; Tránsito Diario Promedio Anual;
 
-XLVI. TFOT: ensayo para evaluar la durabilidad del cemento asfáltico;
+XLV. Terracerías: la sección de proyecto hasta su nivel de subrasante;
 
-XLVII. Tramos homogéneos: segmentos de vialidad con características geométricas, geotécnicas y de drenaje semejantes;
+XLVI. Textura superficial: terminación que presenta la superficie un pavimento, la cual puede ser cerrada, abierta o semiabierta;
 
-XLVIII. Vida remanente: es el tiempo durante el cual se acumularon las aplicaciones de los ejes equivalentes que el pavimento resistirá, funcionando adecuadamente después de la evaluación realizada;
+XLVII. TFOT: ensayo para evaluar la durabilidad del cemento asfáltico;
 
-XLIX. Valor soporte de California o VRS: propiedad mecánica de un suelo que representa la resistencia a corte, bajo la acción de cargas; y
+XLVIII. Tramos homogéneos: segmentos de vialidad con características geométricas, geotécnicas y de drenaje semejantes;
 
-L. Vida útil: número de años desde la apertura de un camino al tránsito hasta el final de la vida funcional de un pavimento.
+XLIX. Vida remanente: es el tiempo durante el cual se acumularon las aplicaciones de los ejes equivalentes que el pavimento resistirá, funcionando adecuadamente después de la evaluación realizada;
+
+L. Valor soporte de California o VRS: propiedad mecánica de un suelo que representa la resistencia a corte, bajo la acción de cargas; y
+
+LI. Vida útil: número de años desde la apertura de un camino al tránsito hasta el final de la vida funcional de un pavimento.
 
 ###### ARTÍCULO 3.
 
@@ -165,7 +173,9 @@ II. A los municipios por conducto del Ayuntamiento, o de las dependencias u orga
 
 III. o en su caso de los servidores públicos competentes en la materia regulada por esta Ley, conforme a la reglamentación municipal;
 
-IV. A los particulares que realicen proyectos regulados por la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, y que requieran la habilitación de vías públicas, o que realicen trabajos que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+IV. A los particulares que realicen proyectos regulados por la Ley de Desarrollo Urbano del Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, y que requieran la habilitación de vías públicas, o que realicen trabajos que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas; y
 
 V. A las dependencias federales que realicen obras que impliquen la apertura o modificación temporal de los pavimentos de las vías públicas de jurisdicción estatal o municipal.
 
@@ -175,7 +185,9 @@ En los casos que los municipios autoricen la realización de obras que impliquen
 
 Legislación aplicable.
 
-Las obras de pavimentación que se realicen en las vías públicas se sujetarán a las disposiciones de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y la presente Ley.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Las obras de pavimentación que se realicen en las vías públicas se sujetarán a las disposiciones de la Ley de Desarrollo Urbano del Estado de Nuevo León, la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y la presente Ley.
 
 Además de cumplir las especificaciones que se recogen en esta regulación, se deberá considerar el diseño y solución para la atención del drenaje pluvial, así como observar las medidas necesarias para el cumplimiento de la normatividad vigente en materia ambiental, de seguridad, y todas las demás que resulten aplicables.
 
@@ -191,9 +203,13 @@ Los sujetos obligados conforme a esta Ley podrán aplicar una norma diversa a la
 
 Laboratorios acreditados.
 
-Los laboratorios contratados en los casos requeridos conforme a las disposiciones de esta Ley deberán contar con certificación en los términos de la Norma Técnica Estatal expedida por la Agencia.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-Las personas morales interesadas en realizar las funciones reservadas por esta Ley para laboratorios acreditados, deberán obtener su certificación ante la Agencia, previo dictamen emitido por el Consejo Técnico, cumpliendo los requisitos que acrediten su existencia legal, la idoneidad de sus instalaciones y equipo, sus procedimientos, insumos, la formación profesional y capacidad técnica de su personal, ello conforme al procedimiento que determine la Agencia en la Norma Técnica Estatal que para tal efecto expida.
+Los laboratorios contratados en los casos requeridos conforme a las disposiciones de esta Ley deberán contar con certificación en los términos de la Norma Técnica Estatal expedida por la Secretaría.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Las personas morales interesadas en realizar las funciones reservadas por esta Ley para laboratorios acreditados, deberán obtener su certificación ante la Secretaría, previo dictamen emitido por el Consejo Técnico, cumpliendo los requisitos que acrediten su existencia legal, la idoneidad de sus instalaciones y equipo, sus procedimientos, insumos, la formación profesional y capacidad técnica de su personal, ello conforme al procedimiento que determine la Secretaría en la Norma Técnica Estatal que para tal efecto expida.
 
 Dicha certificación tendrá una vigencia por tres años, y para su renovación el interesado deberá someterse de nuevo al procedimiento de certificación.
 
@@ -201,15 +217,23 @@ Dicha certificación tendrá una vigencia por tres años, y para su renovación 
 
 Profesional responsable.
 
-Para los efectos de esta Ley, las funciones del profesional responsable deberán recaer en persona con estudios en ingeniería civil con la respectiva cédula profesional y certificado de estudios emitido por institución de educación superior que lo acredite como especialista en vías terrestres, o estudios equivalentes de acuerdo al criterio que se establezca en la Norma Técnica Estatal expedida por la Agencia.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-Las personas interesadas en realizar las funciones reservadas por esta Ley para profesionales responsables, deberán obtener su certificación ante la Agencia, previo dictamen emitido por el Consejo Técnico, cumpliendo los requisitos que acrediten su formación profesional y capacidad técnica, y conforme al procedimiento que la Agencia determine mediante una Norma Técnica Estatal.
+Para los efectos de esta Ley, las funciones del profesional responsable deberán recaer en una persona con estudios en ingeniería civil con la respectiva cédula profesional y certificado de estudios emitido por Institución de Educación Superior que lo acredite como especialista en vías terrestres, o estudios equivalentes de acuerdo al criterio que se establezca en la Norma Técnica Estatal expedida por la Secretaría.
 
-Dicha certificación tendrá una vigencia por tres años y para su renovación el interesado deberá someterse de nuevo al procedimiento de certificación o acreditar el cumplimiento de los requisitos que en materia de capacitación se indiquen mediante una Norma Técnica Estatal expedida por la Agencia.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Las personas interesadas en realizar las funciones reservadas por esta Ley para profesionales responsables, deberán obtener su certificación ante la Secretaría, previo dictamen emitido por el Consejo Técnico, cumpliendo los requisitos que acrediten su formación profesional y capacidad técnica, y conforme al procedimiento que la Secretaría determine mediante una Norma Técnica Estatal.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Dicha certificación tendrá una vigencia por tres años y para su renovación el interesado deberá someterse de nuevo al procedimiento de certificación o acreditar el cumplimiento de los requisitos que en materia de capacitación se indiquen mediante una Norma Técnica Estatal expedida por la Secretaría.
 
 En los casos en que las obras públicas relativas a la pavimentación no sean realizadas directamente por las propias autoridades estatales o municipales, la persona contratada deberá señalar previamente a la firma del contrato respectivo, el nombre del laboratorio acreditado y del profesional responsable, quienes validarán técnicamente el cumplimiento de las disposiciones de la presente Ley.
 
-Tratándose de obras realizadas por particulares que realicen proyectos regulados por la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, que requieran la habilitación de vías públicas, al momento de solicitar los permisos y autorizaciones que correspondan ante la autoridad municipal, el interesado deberá señalar el nombre del laboratorio acreditado y del profesional responsable, quienes validarán técnicamente el cumplimiento de las disposiciones de esta Ley.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de obras realizadas por particulares que realicen proyectos regulados por la Ley de Desarrollo Urbano del Estado de Nuevo León y la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, que requieran la habilitación de vías públicas, al momento de solicitar los permisos y autorizaciones que correspondan ante la autoridad municipal, el interesado deberá señalar el nombre del laboratorio acreditado y del profesional responsable, quienes validarán técnicamente el cumplimiento de las disposiciones de esta Ley.
 
 ###### ARTÍCULO 8.
 
@@ -225,7 +249,9 @@ Se crea un Consejo Técnico integrado por un representante permanente de cada un
 
 I. Secretaría de Obras Públicas del Estado de Nuevo León;
 
-II. Agencia para la Planeación del Desarrollo Urbano del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+II. La Secretaría;
 
 III. Colegio de Ingenieros Civiles de Nuevo León;
 
@@ -281,7 +307,9 @@ VI. La demás información que se considere necesaria para su debida comprensió
 
 Proposición de Normas Técnicas Estatales.
 
-Las personas físicas o morales, públicas o privadas, podrán proponer a la Agencia la elaboración o modificación de Normas Técnicas Estatales relacionadas con el objeto de la presente Ley.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Las personas físicas o morales, públicas o privadas, podrán proponer a la Secretaría la elaboración o modificación de Normas Técnicas Estatales relacionadas con el objeto de la presente Ley.
 
 Para tal efecto, el interesado deberá presentar por escrito su propuesta, indicando la información detallada en el artículo anterior.
 
@@ -291,11 +319,15 @@ Procedimiento para la elaboración y modificación de las Normas Técnicas Estat
 
 La elaboración y modificación de las Normas Técnicas Estatales descritas relacionadas con el objeto de la presente Ley se sujetará al siguiente procedimiento:
 
-I. La propuesta ciudadana o el proyecto oficial deberá turnarse a la Agencia, quien lo presentará ante el Consejo Técnico para su análisis;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+I. La propuesta ciudadana o el proyecto oficial deberá turnarse a la Secretaría, quien lo presentará ante el Consejo Técnico para su análisis;
 
 II. A partir de la fecha de recepción de la propuesta o proyecto, el Consejo Técnico contará con un plazo de dos meses para resolver lo que proceda, elaborando en su caso un proyecto de Norma, dicho plazo podrá ser prorrogable por dos meses cuando la complejidad del análisis así lo requiera;
 
-III. La Agencia publicará un aviso en el Periódico Oficial del Estado, en el cual informará del inicio de un proceso de consulta ciudadana con respecto al proyecto de Norma y la pondrá a disposición del público a través de los medios que en dicho aviso se determinen;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. La Secretaría publicará un aviso en el Periódico Oficial del Estado, en el cual informará del inicio de un proceso de consulta ciudadana con respecto al proyecto de Norma y la pondrá a disposición del público a través de los medios que en dicho aviso se determinen;
 
 IV. La consulta ciudadana se realizará hasta por un plazo de dos meses, según lo que se especifique en el mencionado aviso;
 
@@ -303,7 +335,9 @@ V. Durante el plazo de la consulta los interesados podrán presentar por escrito
 
 VI. El Consejo Técnico analizará las observaciones, comentarios o sugerencias recibidas, y contará con un plazo de un mes para resolver lo que proceda, dicho plazo podrá ser prorrogable por un mes cuando la complejidad del análisis así lo requiera; y
 
-VII. Elaborada la Norma definitiva, se suscribirá por la Agencia y se publicará en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VII. Elaborada la Norma definitiva, se suscribirá por la Secretaría y se publicará en el Periódico Oficial del Estado.
 
 Una vez publicadas en el Periódico Oficial del Estado, estas Normas serán obligatorias y tendrán una vigencia indefinida hasta en tanto sean sometidas a un proceso de modificación en los términos de esta Ley.
 
@@ -2207,25 +2241,33 @@ El proyecto de rehabilitación deberá incluir también un plan de manejo del tr
 
 ### CAPÍTULO SEXTO. CONTROL, INFRACCIONES, MEDIDAS DE SEGURIDAD Y SANCIONES
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 116.
 
-Las autoridades administrativas estatales y municipales en el ámbito de su competencia, llevarán a cabo visitas de inspección para comprobar el cumplimiento de las disposiciones de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León relativas al diseño y construcción de vías públicas, las de la presente Ley, las concernientes de la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, y demás disposiciones de carácter general en la materia.
+Las autoridades administrativas estatales y municipales en el ámbito de su competencia, llevarán a cabo visitas de inspección para comprobar el cumplimiento de las disposiciones de la Ley de Desarrollo Urbano del Estado de Nuevo León relativas al diseño y construcción de vías públicas, las de la presente Ley, las concernientes de la Ley de Obras Públicas para el Estado y Municipios de Nuevo León, y demás disposiciones de carácter general en la materia.
 
-En todo lo relativo al control, infracciones, medidas de seguridad y sanciones, las autoridades aplicarán las normas del Título Décimo de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León.
+En todo lo relativo al control, infracciones, medidas de seguridad y sanciones, las autoridades aplicarán las normas del Título Décimo Segundo de la Ley de Desarrollo Urbano del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 117.
 
-La violación a las disposiciones de esta Ley, se sancionarán con multa de doscientos cincuenta a dos mil veces el salario mínimo prevaleciente en la zona económica conforme lo dispuesto en el Artículo 279, fracción IV, de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León.
+La violación a las disposiciones de esta Ley, se sancionarán con multa de dos mil hasta diez mil veces el salario mínimo prevaleciente en la zona económica conforme lo dispuesto en el Artículo 342, fracción II, inciso f), de la Ley de Desarrollo Urbano del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 118.
 
-Contra actos y resoluciones de las autoridades administrativas estatales y municipales, que con motivo de la aplicación de esta Ley den fin a una instancia o resuelvan un expediente, los interesados afectados podrán interponer el recurso de reconsideración conforme a lo dispuesto por el Título Décimo Primero de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, o intentar el juicio contencioso administrativo correspondiente.
+Contra los actos y resoluciones de las autoridades administrativas estatales y municipales, los interesados afectados podrán interponer los medios de defensa previstos en el Título Décimo Segundo, Capítulo Séptimo, de la Ley de Desarrollo Urbano del Estado de Nuevo León, o intentar el juicio contencioso administrativo correspondiente.
 
 ###### ARTÍCULO 119.
 
 Las responsabilidades que se deriven del incumplimiento de esta Ley se sancionarán sin perjuicio de las responsabilidades en que se incurra conforme a otras leyes.
 
-Cuando se determine administrativa, civil o penalmente el incumplimiento de las obligaciones a cargo del laboratorio certificado o del profesional responsable, la Agencia revocará la certificación otorgada, sin que ésta pueda volver a ser expedida a favor del infractor en por lo menos cinco años.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Cuando se determine administrativa, civil o penalmente el incumplimiento de las obligaciones a cargo del laboratorio certificado o del profesional responsable, la Secretaría revocará la certificación otorgada, sin que ésta pueda volver a ser expedida a favor del infractor en por lo menos cinco años.
 
 T R A N S I T O R I O S
 
@@ -2272,3 +2314,7 @@ P.O. 24 DE JULIO DE 2010.
 Primero.- El presente Decreto entrará en vigor a los ciento ochenta días naturales a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Las Normas Técnicas Estatales a que se refiere el artículo 20 de la Ley que se reforma, deberán ser publicadas en el Periódico Oficial del Estado de Nuevo León antes de la entrada en vigor del presente Decreto, mientras tanto, las Dependencias, Organismos y demás Autoridades que corresponda, deberán continuar aplicando en todos sus términos y condiciones, el catálogo de secciones de pavimento establecido en dicho artículo.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
