@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2009-02-05"
+last_updated: "2010-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -121,7 +121,9 @@ XVI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 
 XVII. Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia;
 
-XVIII. Autorizar el funcionamiento de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+XVIII. Vigilar el funcionamiento de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezcladas, preparadas, adicionadas o acondicionadas para su consumo dentro o fuera de los mismos, y
 
 XIX. Las demás que establezca la Ley General de Salud.
 
@@ -135,9 +137,9 @@ II. Construcciones, excepto las de los establecimientos de salud;
 
 III. Cementerios, crematorios, funerarias y criptas;
 
-IV. Aseo público;
+IV. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
-V. Rastros;
+V. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
 VI. Agua potable y alcantarillado;
 
@@ -151,29 +153,27 @@ IX. Baños públicos;
 
 X. Centros de reunión y de espectáculos;
 
-XI. Establecimientos dedicados a la prestación de servicios de peluquería, estéticas, salones de belleza y otros;
+XI. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
 XII. Hoteles, moteles, pensiones y casas de huéspedes;
 
-XIII. Tintorerías, lavanderías y lavaderos públicos;
+XIII. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
-XIV. Transportes;
+XIV. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+XV. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
-XV. Gasolineras;
+XVI. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
-
-XVI. Comercialización y venta de alimentos y bebidas en la vía pública;
-
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
-
-XVII. Centros antirrábicos; y
+XVII. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
 XVIII. Las demás materias que determine esta Ley y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Los giros y establecimientos no enunciados en las fracciones anteriores, quedan sujetos a vigilancia sanitaria en los casos en que exista evidencia de riesgo o daño para la salud humana.
 
 ### CAPITULO II. De las autoridades sanitarias y su competencia
 
@@ -183,9 +183,9 @@ XVIII. Las demás materias que determine esta Ley y otras disposiciones legales 
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-II. La Secretaría de Salud Jalisco;
+II. La Secretaría de Salud Jalisco y el organismo público descentralizado Servicios de Salud Jalisco, y
 
 III. Los Ayuntamientos en los términos de los convenios que celebren con el Gobierno del Estado, de conformidad con esta Ley y demás disposiciones legales aplicables.
 
@@ -239,13 +239,23 @@ C. Coordinarse con las autoridades ambientales, laborales, de protección civil,
 
 Se determinan como áreas de coordinación prioritarias las relativas a:
 
-I. Desastres;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+l. Desastres y accidentes;
 
 II. Residuos peligrosos biológico infecciosos;
 
-III. Salud ocupacional, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-IV. Salud ambiental.
+III. Salud ocupacional;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+IV. Salud ambiental; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+V. Emergencias derivadas de efectos nocivos de sustancias tóxicas.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -417,7 +427,9 @@ El titular del Poder Ejecutivo del Estado por conducto de la Secretaría de Salu
 
 Art. 18 bis. En los términos del artículo 52 de la Ley Orgánica del Poder Ejecutivo, para ayudar en el ejercicio de las funciones que le corresponden al titular del Ejecutivo se integran al Sistema Estatal de Salud los organismos públicos descentralizados que a continuación se enuncian:
 
-I. Servicios de Salud Jalisco, autoridad coadyuvante de la Secretaría de Salud Jalisco;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+I. Servicios de Salud Jalisco.
 
 II. Hospital Civil de Guadalajara;
 
@@ -619,7 +631,11 @@ La Secretaría de Salud Jalisco, en coordinación con las autoridades federales 
 
 #### SECCION QUINTA. De la salud ocupacional
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Art 36. La Secretaría de Salud Jalisco y el organismo público descentralizado Servicios de Salud Jalisco, ejercerán el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales para el cumplimiento de los requisitos que deben reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2005)</small>
 
 ###### Art. 36.
 
@@ -1253,7 +1269,9 @@ Son servicios de salud de carácter social los que preste directamente o mediant
 
 Art. 89 bis. Son servicios de salud privados los que presten personas físicas o jurídicas en las condiciones que convengan con los usuarios, y sujetas a los ordenamientos legales, civiles y mercantiles. En materia de tarifas, se estará a lo dispuesto en la Ley General de Salud.
 
-Conforme lo determina el Reglamento de la Ley General de Salud en materia de Servicios de Atención Médica, las tarifas autorizadas deberán fijarse en lugar visible al público dentro de los establecimientos.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Conforme lo determina el Reglamento de la Ley General de Salud en Materia de prestación de Servicios de Atención Médica, las tarifas autorizadas deberán fijarse en lugar visible al público dentro de los establecimientos.
 
 En beneficio de los grupos vulnerables, el Ejecutivo Estatal, por conducto de la Secretaría de Salud Jalisco, podrá acordar con personas físicas y jurídicas que presten servicios de salud privados, el establecimiento de:
 
@@ -1787,11 +1805,13 @@ El Consejo de Trasplantes es el organismo público descentralizado del Poder Eje
 
 El Consejo de Trasplantes se integrará en forma permanente por:
 
-I. El Gobernador del Estado, qUien será el Presidente Honorario;
+I. El Gobernador del Estado, quien será el Presidente Honorario;
 
 II. El Secretario de Salud del Estado, quien fungirá como Presidente Ejecutivo;
 
-III. El Director General de Regulación Sanitaria de la Secretaría de Salud del Estado, quien fungirá como Coordinador General; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. El Director General de Regulación Sanitaria del Organismo Público Descentralizado Servicios de Salud Jalisco, quien fungirá como Coordinador General; y
 
 IV. Los siguientes participantes en calidad de vocales quienes también tendrán derecho a voz y voto:
 
@@ -2293,6 +2313,8 @@ A los establecimientos que vendan o utilicen substancias inhalantes que no se aj
 
 #### SECCION SEGUNDA. Clasificación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
 ## TITULO OCTAVO
 
 ### CAPITULO UNICO. De los expendios de alimentos, bebidas no alcohólicas y alcohólicas
@@ -2347,15 +2369,15 @@ La "regulación sanitaria" comprende la autorización, vigilancia, aplicación d
 
 La Secretaría de Salud Jalisco emitirá los ordenamientos, criterios y lineamientos de carácter técnico para establecer normas oficiales a las que quedarán sujetos tanto el control sanitario como la regulación sanitaria en materia de salubridad local.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO [N. DE E. REFORMADO PRIMER PARRAFO], P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 137.
 
-Los establecimientos enunciados en el apartado B del Artículo 3° fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XV, XVI, XVII y XVIII de esta Ley, requieren para su operación:
+Los establecimientos enunciados en el apartado B del artículo 3.°, fracciones I, II, III, VI, VIII, X, XI, XII, XVII y XVIII de esta ley, requieren para su operación:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-I. Licencia sanitaria, expedida por la autoridad competente de acuerdo a los convenios que se celebren en los términos de los artículos 4 y 5, apartado C, ambos de esta ley;
+I. Aviso de funcionamiento, expedido por la autoridad competente de acuerdo con los convenios que se celebren en los términos del artículo 4.° de esta ley.
 
 II. Contar, en su caso, con un responsable que reúna los requisitos que se establecen en esta Ley y en los Reglamentos respectivos; y
 
@@ -2461,11 +2483,11 @@ Los edificios y locales terminados podrán dedicarse al uso que se destinen, una
 
 La autorización sanitaria a que (sic) refiere este artículo será otorgada por el Ayuntamiento, en los casos en que, conforme a la normativa aplicable se le hubiere descentralizado tal atribución.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 152.
 
-Los edificios, locales, construcciones o terrenos urbanos, podrán ser inspeccionados por las autoridades competentes, bajo la norma técnica de la Secretaría de Salud y Bienestar Social del Estado, quienes ordenarán las obras necesarias para satisfacer las condiciones higiénicas, en los términos de esta Ley, los Reglamentos respectivos y otras disposiciones legales aplicables.
+Los edificios, locales, construcciones o terrenos urbanos, podrán ser inspeccionados por las autoridades competentes, bajo los criterios y lineamientos técnicos que dicte la Secretaría de Salud, quienes ordenarán las obras necesarias para satisfacer las condiciones higiénicas, en los términos de esta ley, los reglamentos respectivos y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -2525,59 +2547,49 @@ II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho hora
 
 ###### Art. 160.
 
-Para los efectos de esta Ley, se entiende por aseo público el servicio de recolección, manejo, disposición y tratamiento de residuos sólidos, a cargo de los Ayuntamientos, los que estarán obligados a implantar este servicio de acuerdo a sus posibilidades.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 161.
 
-Los residuos sólidos recolectados, podrán procesarse cuando sean industrializables o se puedan reciclar; la disposición final de éstos se llevará a cabo de acuerdo a las recomendaciones sanitarias y siempre que no signifiquen un peligro para la salud, o bien podrán utilizarse en rellenos sanitarios.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 162.
 
-Las autoridades municipales podrán fijar lugares especiales para depósito de los residuos sólidos en la vía pública, en sitios de recreo, y señalarán los casos en que los centros de reunión o espectáculos, mercados, centros de abastos y viviendas multifamiliares los deberán tener. En el procedimiento de disposición final podrán existir plantas de transferencias, las que evitarán cualquier efecto contaminante, aplicando la legislación vigente en materia de contaminación ambiental.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 163.
 
-Los animales muertos deberán ser incinerados o enterrados antes de que entren en descomposición. La autoridad municipal señalará el sitio donde esto haya de hacerse bajo las normas oficiales mexicanas.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 164.
 
-Los residuos sólidos se recibirán de preferencia en transportes dotados de caja hermética y su manejo será sólo en lo estrictamente indispensable para transportarse al sitio de disposición final.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ### CAPITULO VI. De los rastros
 
 ###### Art. 165.
 
-Para los efectos de esta Ley, se entiende por rastro el lugar destinado a la matanza de animales para el consumo humano.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 166.
 
-El control sanitario de los rastros estará a cargo de la autoridad sanitaria correspondiente. Ningún rastro podrá establecerse sin la autorización previa de la misma autoridad sanitaria.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 167.
 
-Los animales deberán ser examinados en pie y en canal por la autoridad sanitaria competente, la que determinará qué carne puede destinarse al consumo humano.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
-
-Será sancionado en los términos del Capítulo II del Título Décimo Segundo de la presente ley, el sacrificio de animales destinados al consumo humano que presenten residuos o sustancias tóxicas o riesgosas para la salud de los consumidores en términos de las disposiciones legales aplicables o en las normas oficiales mexicanas emitidas por la autoridad competente.
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
-
-Cuando resulte el caso de habérsele encontrado estos residuos o sustancias, la autoridad sanitaria procederá a sancionar y notificará de inmediato a las autoridades competentes para conocer de la infracción.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 168.
 
-Queda prohibida la matanza de animales en casas o domicilios particulares. Cuando el sacrificio de animales sea destinado para el consumo familiar, sólo se permitirá por la autoridad municipal correspondiente cuando en el lugar no exista rastro municipal. Este permiso será concedido bajo la condición de que el animal y sus carnes sean inspeccionadas por la autoridad sanitaria correspondiente.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 169.
 
-El sacrifico de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que disponga dicha autoridad para realizar las inspecciones necesarias.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 170.
 
-El funcionamiento, aseo y conservación de los rastros municipales, estará a cargo de la autoridad municipal competente. Si fueren particulares, quedarán a cargo de las personas responsables de realizarlo y bajo la inspección de las autoridades competentes. En ambos casos, quedarán sujetos a la observancia de lo dispuesto por esta Ley, Reglamentos y normas técnicas aplicables. Queda prohibido el funcionamiento de rastros no autorizados por la autoridad sanitaria competente.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -2635,39 +2647,21 @@ Queda prohibido que los desechos, líquidos o lodos que conduzca el alcantarilla
 
 ### CAPITULO VIII. De los establos, granjas, zahúrdas y demás establecimientos de cría o explotación de animales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2001)</small>
-
 ###### Art. 179.
 
-Para los efectos de esta ley, se entiende por:
-
-I. Establo: La explotación de cinco o más vacas lecheras en producción o de quince o más cabras o borregos;
-
-II. Granja: La explotación de treinta o más aves o conejos; y
-
-III. Zahurda: La explotación de diez o más cerdos de engorda;
-
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
-
-IV. Establecimientos de cría o explotación de animales: El establecimiento fijo o móvil que se destine a la reproducción, crianza, engorda o cualquier otro tipo de explotación de especies animales, con excepción del sacrificio.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 180.
 
-Los establos, granjas, zahúrdas y establecimientos de cría o explotación de animales deberán estar ubicados fuera de los poblados y los que actualmente se encuentran dentro, deberán reubicarse en el plazo que fije la autoridad sanitaria correspondiente.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 181.
 
-La autoridad sanitaria competente aprobará el funcionamiento de establos, granjas, zahúrdas y establecimientos de cría o explotación de animales, cuando éstos reúnan las condiciones sanitarias que fija esta Ley, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas correspondientes.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 182.
 
-Los establecimientos comprendidos en el artículo 179 de esta Ley deberán reunir las condiciones sanitarias que fija este ordenamiento, otras disposiciones legales aplicables y las Normas Oficiales Mexicanas aplicables.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ### CAPITULO IX. De los reclusorios
 
@@ -2715,15 +2709,13 @@ El funcionamiento de los establecimientos a que se refiere el Art. 188 deberá a
 
 ### CAPITULO XII. De las peluquerías, salones de belleza o de estética
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
-
 ###### Art. 191.
 
-Para los efectos de esta Ley, se entiende por Peluquerías y salones de belleza, los establecimientos dedicados a cortar, teñir, peinar, rizar o realizar cualquier actividad similar con el cabello de las personas, arreglo estético de uñas, masajes y la aplicación de otros tratamientos de belleza al público.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 192.
 
-El funcionamiento de los establecimientos mencionados en el artículo anterior y el personal que en ellos labore, deberán apegarse a lo señalado en esta Ley y demás normas aplicables.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ### CAPITULO XIII. De los hoteles, moteles, pensiones y casas de huéspedes
 
@@ -2745,21 +2737,13 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por esta le
 
 ### CAPITULO XIV. De las tintorerías, lavanderías y lavaderos públicos
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
-
 ###### Art. 195.
 
-Para los efectos de esta Ley, se entiende por:
-
-I. Tintorería: El establecimiento dedicado al lavado y planchado de ropa, independientemente del procedimiento utilizado;
-
-II. Lavandería: El establecimiento dedicado al lavado de ropa, bien sea que esta actividad se haga directamente por cuenta del solicitante del servicio o por el empleado del negocio, y
-
-III. Lavadero Público: El establecimiento al cual acuden los interesados para realizar personalmente el lavado de ropa.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 196.
 
-Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a cualquiera de los servicios señalados en el artículo anterior, así como para su funcionamiento, se requiere contar con autorización sanitaria, misma que se expedirá cuando el solicitante haya satisfecho los requisitos que establezcan las normas legales aplicables.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -2767,51 +2751,31 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 ###### Art. 197.
 
-Para los efectos de esta Ley se entiende por medio de servicio de transporte, todo vehículo destinado al traslado de carga o pasajeros, sea cual fuere su medio de propulsión.
-
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
-
-Los transportes de carga deberán contar con la autorización sanitaria correspondiente, que será expedida por la Secretaría de Salud Jalisco, una vez cubiertos los requisitos que marca esta ley y normas oficiales mexicanas.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ### CAPITULO XVI. De las gasolineras
 
-> <small>(F. DE E., P.O. 31 DE ENERO DE 1987)</small>
-
 ###### Art. 198.
 
-Para los efectos de esta Ley, se entiende por gasolinera el establecimiento destinado al expendio o Suministro de gasolinas, aceites y demás productos derivados del petróleo.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 ###### Art. 199.
 
-Las gasolineras deberán contar con las instalaciones de seguridad e higiene que establezca el Reglamento correspondiente y otras disposiciones legales aplicables.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
 ### CAPITULO XVII. De la comercialización y venta de alimentos y bebidas en la vía pública
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+Art. 199 A. (DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
-###### Art. 199-A.
-
-Para los efectos de esta Ley se entiende por comercialización y venta de alimentos y bebidas en la vía pública la actividad de preparación, conservación, suministro, expendio o comercialización de alimentos y bebidas para consumo humano que se realiza en áreas de dominio público o de uso común.
-
-El comercio ambulante de alimentos y bebidas en la vía pública, deberá sujetarse a esta Ley, y las demás disposiciones jurídicas y administrativas aplicables.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
-
-###### Art. 199-B.
-
-La Secretaría de Salud Jalisco y los ayuntamientos se coordinarán para llevar a efecto el control sanitario del comercio ambulante de alimentos y bebidas en la vía pública.
+Art. 199 B. (DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2001)</small>
 
 ### CAPITULO XIX (SIC). De los centros antirrábicos
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
-
-###### Art. 199-C.
-
-Para los efectos de esta Ley se entiende por centro antirrábico el establecimiento operado o concesionado por los ayuntamientos bajo la normatividad sanitaria, con el objeto de contribuir a la prevención y control de la rabia y coadyuvar con las autoridades sanitarias competentes.
+Art. 199 C. (DEROGADO, P.O. 9 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -2873,21 +2837,21 @@ Las autoridades sanitarias y los centros antirrábicos llevarán a cabo campaña
 
 Las autorizaciones sanitarias son actos administrativos mediante los cuales la autoridad sanitaria estatal correspondiente permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, en los casos, con los requisitos y modalidades que determine esta Ley y demás disposiciones legales aplicables.
 
-Las autorizaciones sanitarias tendrán el carácter de licencias, permisos y tarjetas de control sanitario, en su caso.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+Las autorizaciones sanitarias de carácter local tendrán el carácter de permisos.
 
 #### SECCION PRIMERA. Causas de revocación
 
 ###### Art. 201.
 
-Para los efectos de esta Ley, se entiende por:
+Para los efectos de esta ley, en materia de salubridad local, se entiende por:
 
-I. Licencia Sanitaria: El documento que autoriza legalmente el funcionamiento de un establecimiento comercial, industrial o de servicio, por haber satisfecho los requisitos sanitarios que específicamente se exijan a cada categoría o tipo;
+I. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
 II. Permiso: El documento expedido por la autoridad sanitaria para que una persona física o moral realice legalmente actividades que representan un riesgo para la salud, y
 
-> <small>(REFORMADA, P.O. 7 DE ABRIL DE 1990)</small>
-
-III. Tarjeta de control sanitario: La autorización expedida por la Secretaría de Salud y Bienestar Social del Estado a aquella persona que, por su trabajo o actividad, pudiere propagar alguna de las enfermedades transmisibles a que se refieren los Arts. 134 de la Ley General de Salud y 40 de esta Ley.
+III. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
 #### SECCION SEGUNDA. Del procedimiento para la revocación
 
@@ -2909,47 +2873,59 @@ Las autoridades sanitarias del Estado, mediante campañas, llevarán a cabo acti
 
 Las autorizaciones sanitarias podrán revalidarse de conformidad con los términos que al efecto fijen las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 205.
 
-La Secretaría de Salud Jalisco expedirá la licencia sanitaria para el funcionamiento de establecimientos que presten servicios de asistencia social.
-
-Las autorizaciones en materia de salubridad general se sujetarán a lo dispuesto por la Ley General de Salud y sus disposiciones complementarias.
+La Secretaría de Salud Jalisco recibirá aviso de funcionamiento para la operación de establecimientos que así lo requieran.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
+Las autorizaciones en materia de salubridad general se sujetarán a lo dispuesto por la Ley General de Salud y sus disposiciones complementarias.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### Art. 206.
 
-Para las autorizaciones en materia de salubridad local se estará a lo siguiente:
+Para las autorizaciones en materia de salubridad local estará a lo siguiente:
 
-I. Requieren de autorización sanitaria bajo la modalidad de licencia los establecimientos mencionados en el artículo 137 de esta Ley;
+I. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
 II. Requieren de autorización sanitaria mediante la modalidad de permiso:
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 a) El traslado de cadáveres de un municipio a otro, en los casos previstos en el artículo 159 de esta Ley;
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 b) Los proyectos de construcción, reconstrucción, modificación, o acondicionamiento total o parcial de un edificio o local, en los términos previstos en el Capítulo III del Título Noveno de esta Ley;
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 c) Los edificios y locales una vez terminados, en los cuales se examinará la habitabilidad para efecto de poder ocuparlos o aplicarlos al uso al que se destinen, en los términos previstos en el Capítulo III del Título IX de esta Ley.
 
-III. No requieren autorización sanitaria, pero requieren de aviso de funcionamiento los establecimientos a que refiere el artículo 3° apartado B) fracciones XI y XIII de este ordenamiento.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. No requieren autorización sanitaria, pero requieren de aviso de funcionamiento los establecimientos a que se refiere el artículo 3.°, apartado B, de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 El aviso de funcionamiento deberá sujetarse a lo dispuesto por el artículo 207 de este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### Art. 207.
 
-En el caso de licencias sanitarias, la solicitud de revalidación deberá presentarse dentro de los 30 días anteriores a su vencimiento.
+Los permisos sanitarios se otorgarán por la autoridad sanitaria estatal o municipal, conforme a lo dispuesto por esta ley y a los acuerdos de coordinación que al efecto se celebren.
 
-La solicitud de prórroga deberá presentarse a las autoridades sanitarias con antelación al vencimiento de la autorización y sólo procederá ésta cuando se sigan cumpliendo los requisitos que señalan esta Ley, las demás disposiciones legales aplicables y previo el pago de los derechos correspondientes.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(DEROGADO TERCER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-Los permisos sanitarios se otorgarán por la autoridad sanitaria estatal o municipal, conforme a lo dispuesto por esta Ley y a los acuerdos de coordinación que al efecto se celebren.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
-
-Deberán dar aviso de funcionamiento los establecimientos que esta Ley determina.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -2965,15 +2941,17 @@ IV. Clave de la actividad del establecimiento, y
 
 V. Número de cédula profesional de responsable sanitario para el caso de establecimientos de particulares.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 208.
 
-Cuando los establecimientos a que se refiere el artículo 3° apartado B cambien de ubicación, de razón social o denominación, de giro o de propietario, deberán presentar nueva licencia sanitaria o aviso de funcionamiento, conforme a los artículos 137 y 206 fracción III de esta Ley.
+Cuando los establecimientos a que se refiere el artículo 3.°, apartado B, cambien de ubicación, de razón social o denominación, de giro o de propietario, deberán presentar nuevo aviso de funcionamiento, conforme al artículo 206, fracción III, de esta ley.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 209.
 
-Las autorizaciones a que se refiere esta Ley podrán ser revisados (sic) por la autoridad sanitaria competente en los términos de las disposiciones legales aplicables.
+Las autorizaciones a que se refiere esta ley podrán ser revocadas por la autoridad sanitaria competente en los términos de las disposiciones legales aplicables.
 
 ### CAPITULO II. De la revocación de autorizaciones sanitarias
 
@@ -3085,7 +3063,7 @@ Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del c
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación a los infractores sin perjuicio de que se apeguen, si procedieren, las medidas de seguridad y las sanciones correspondientes.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 225.
 
@@ -3253,11 +3231,21 @@ Las violaciones o los preceptos de esta Ley, sus Reglamentos y demás disposicio
 
 Las sanciones administrativas podrán ser:
 
-I. Multa;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-II. Clausura temporal o definitiva, que podrá ser parcial o total; y
+I. Amonestación con apercibimiento;
 
-III. Arresto hasta por treinta y seis horas.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+II. Multa;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. Clausura temporal o definitiva, que podrá ser parcial o total, y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+IV. Arresto hasta por treinta y seis horas.
 
 ###### Art. 245.
 
@@ -3267,21 +3255,29 @@ I. Los daños que se hayan producido o puedan producirse en la salud de las pers
 
 II. La gravedad de la infracción.
 
-III. Las condiciones socio-económicas del infractor, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-IV. La calidad de reincidente del infractor.
+III. Las condiciones socioeconómicas del infractor;
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+IV. La calidad del (sic) reincidente del infractor, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+V. El beneficio obtenido por el infractor como resultado de la infracción.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 246.
 
-Se sancionará con multa hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 41, 42, 56, 109, 124, 126, 137, fracción I, 144, 202, 206, 207, 208, 219, 220 y 221 de esta ley.
+Se sancionará con multa desde un salario mínimo hasta mil veces el salario mínimo general diario, vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 41, 42, 56, 109, 124, 126, 137, fracción I, 144, 202, 206, 207, 208, 219, 220 y 221 de esta ley.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 247.
 
-Se sancionará con multa de veinte hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 43, 46, 52, 97, 98, 147, 157, 159, 210, 228 y 239 de esta ley.
+Se sancionará con multa de veinte hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 43, 46, 52, 97, 98, 147, 157, 159, 210, 228 y 239 de esta ley.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3291,11 +3287,15 @@ Se sancionará con multa equivalente de cien hasta quinientas veces el salario m
 
 Se sancionará con multa (sic) con multa equivalente de quinientas hasta mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos: 122 y 123 de esta ley.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-Se sancionará con multa equivalente de quinientos hasta tres mil veces el salario mínimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en el segundo y tercer párrafo del artículo 167 de esta ley.
+Se sancionará con multa equivalente de quinientos hasta diez mil veces el salario minimo general vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los párrafos segundo y tercero párrafo del artículo 167 de esta ley.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 249.
+
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente desde un salario mínimo hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 245 de esta ley.
 
 ###### Art. 249.
 
@@ -3313,9 +3313,7 @@ La aplicación de las multas será sin perjuicio de que se ejecuten las medidas 
 
 Procederá la clausura, temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
-
-I. Cuando los establecimientos a que se refiere el artículo 3° apartado B de esta ley, carezcan de licencia o aviso sanitario;
+I. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
 II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
 
@@ -3379,9 +3377,9 @@ X. Jerarquía; y
 
 XI. Buena fe.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-En lo no previsto en el procedimiento administrativo sancionador que prevé esta Ley, se estará a lo dispuesto en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+En lo no previsto en el procedimiento administrativo sancionador que prevé esta ley, se estará a lo dispuesto en el Código de Procedimientos Civiles del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3389,9 +3387,11 @@ En lo no previsto en el procedimiento administrativo sancionador que prevé esta
 
 La Secretaría de Salud Jalisco y las autoridades municipales que se encuentren en el supuesto previsto en la fracción III, del artículo 4 de esta ley, con base al resultado de verificación, dictarán las medidas necesarias para corregir, en su caso, las irregularidades que se hubiesen encontrado, notificando al interesado y dándole un plazo adecuado para su cumplimiento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### Art. 258.
 
-Las autoridades sanitarias estatales y las municipales, en su caso, podrán hacer uso de los medios legales necesarios, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+Las autoridades sanitarias competentes podrán hacer uso de los medios legales necesarios, incluyendo el auxilio de la fuerza pública, para lograr las visitas de verificación, sanciones y medidas de seguridad que procedan.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -3433,9 +3433,11 @@ Cuando el contenido de un acta de verificación se desprenda la posible comisió
 
 Contra los actos o resoluciones dictados en materia de salubridad general o de salubridad local, por las autoridades sanitarias, competentes que den fin a una instancia o resuelvan un expediente, los interesados podrán optar por agotar el recurso de inconformidad previsto en esta Ley o interponer el juicio de nulidad ante el Tribunal de lo Administrativo del Estado, sujetándose en su caso a lo dispuesto en la Ley de Justicia Administrativa del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### Art. 266.
 
-El plazo para interponer el recurso será de veinte días hábiles, contados a partir del día siguiente a aquel en que se hubiese notificado la resolución o acto que se recurra.
+El plazo para interponer el recurso será de quince días hábiles, contados a partir del día siguiente a aquel en que se hubiese notificado la resolución o acto que se recurra.
 
 ###### Art. 267.
 
@@ -3485,11 +3487,11 @@ II. Que no se siga perjuicio al interés social ni se contravengan disposiciones
 
 III. Que sean de difícil reparación los daños y Perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Art. 273.
 
-En la tramitación del recurso de inconformidad, se aplicarán, supletoriamente en el siguiente orden, la Ley de Procedimiento Administrativo del Estado de Jalisco y el Código de Procedimientos Civiles del Estado.
+En la tramitación del recurso de inconformidad se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Jalisco.
 
 ### CAPITULO V. De la prescripción
 
@@ -3720,3 +3722,7 @@ SEGUNDO. La Secretaría de Salud se coordinará con las autoridades municipales 
 P.O. 5 DE FEBRERO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al dia siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
