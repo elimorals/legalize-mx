@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2009-09-18"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -187,7 +187,9 @@ c) Por motivo de fuerza mayor calificado por la Legislatura.
 
 Cuando ocurra la falta absoluta de un Diputado Propietario o falta temporal mayor de cuarenta y cinco días, se llamará a su suplente quien rendirá su protesta en los términos del Artículo 31 de la Ley Orgánica del Poder Legislativo, y se incorporará a las Comisiones y demás trabajos asignados al Propietario.
 
-En las faltas temporales al presentarse el Propietario cesará en sus funciones el Suplente.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+En las faltas temporales el Diputado propietario que solicite la reincorporación al ejercicio de su cargo, lo hará del conocimiento por escrito firmado, a la Mesa Directiva. El Presidente sin más trámite lo comunicará al Pleno, o en su caso a la Diputación Permanente en la sesión inmediata posterior.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
@@ -1203,7 +1205,7 @@ I.- Realizar los estudios, análisis y proyectos de iniciativas contenidos en su
 
 II.- Participar en la elaboración de la Agenda Legislativa, de acuerdo a las instrucciones que reciba de la Comisión de Coordinación y Régimen Interno;
 
-III.- Diseñar, organizar y mantener actualizado el Sistema de Información de Estadística Social, Política, Económica y de la Función Pública, a partir de la información generada por instituciones públicas y privadas. La información relativa al Estado y a los Municipios de Nuevo León será prioridad en este sistema de información;
+IIII.- Diseñar, organizar y mantener actualizado el Sistema de Información de Estadística Social, Política, Económica y de la Función Pública, a partir de la información generada por instituciones públicas y privadas. La información relativa al Estado y a los Municipios de Nuevo León será prioridad en este sistema de información;
 
 IV.- La elaboración mensual de reportes analíticos, estadísticos y de recomendaciones técnicas derivados de los programas de investigación;
 
@@ -1515,9 +1517,9 @@ Para que se lleve a cabo la sesión del Pleno, es precisa la asistencia de la ma
 
 En la sesión en que se vaya a someter a votación el dictamen de una Iniciativa de Ley, es necesario que concurran al pase de lista, por lo menos, las dos terceras partes de los miembros del Congreso, considerándose esta sesión válida para el efecto de votación. Lo mismo se observará cuando con vista de la importancia de algún asunto, la Asamblea acuerde esa asistencia especial.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-De no reunirse el quórum señalado en el párrafo anterior, el dictamen será discutido en Sesión posterior, para lo cual, bastará que concurran al pase de lista la mayoría de los Diputados, con la representación de todos los Grupos Legislativos, pudiendo desarrollarse incluso con la ausencia de uno de estos grupos.
+De no reunirse el quórum señalado en el párrafo anterior, el dictamen será discutido en Sesión posterior, para lo cual, bastará que concurran al pase de lista la mayoría de los Diputados, con la representación de la mayoría de los Grupos Legislativos.
 
 > <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
@@ -1560,6 +1562,8 @@ El Presidente del Congreso abrirá y cerrará las sesiones respectivamente con e
 Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará los trabajos de la Legislatura con la siguiente declaratoria: "La (Número) Legislatura al Congreso del Estado de Nuevo León "Abre" o "Clausura" hoy (fecha y año) su (1o. o 2o.) Período Ordinario de Sesiones, correspondiente al (primero, segundo o tercer) Año de Ejercicio Constitucional".
 
 ### CAPITULO III. DE LAS DELIBERACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2006)</small>
 
 ###### Artículo 102.
 
@@ -2346,3 +2350,9 @@ P.O. 10 DE JULIO DE 2009.
 P.O. 18 DE SEPTIEMBRE DE 2009.
 
 Único.- El presente Decreto entrará en vigor a los ciento veinte días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo.- El Comité de seguimiento de Acuerdos será designado en la quinta sesión del Segundo Periodo de Sesiones ordinarias del Segundo año de ejercicio Constitucional de la Septuagésima Segunda Legislatura al H. Congreso del Estado, en los términos establecidos por el Articulo 60 segundo párrafo, del Reglamento para el Gobierno Interior del Congreso.
