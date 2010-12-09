@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienes-del-estado-de-mexico-y-de-sus-municipios-24529"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2000-03-07"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE BIENES DEL ESTADO DE MEXICO Y DE SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta del Gobierno el 7 de marzo del 2000.
 
@@ -49,9 +49,11 @@ Y DE SUS MUNICIPIOS
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y tiene por objeto regular el registro, destino, administración, control, posesión, uso, aprovechamiento y desincorporación de los bienes del Estado de México y de sus municipios.
+La presente ley es de orden público y tiene por objeto regular el registro, destino, administración, control, posesión, uso, aprovechamiento, desincorporación y destino final de los bienes del Estado de México y de sus municipios.
 
 ###### Artículo 2.
 
@@ -465,9 +467,17 @@ III. Afectación, acto por el que se determina el uso o destino del bien que se 
 
 IV. Desafectación, acto por el que se determina que el bien ha dejado de tener el uso o destino por el que se incorporó al dominio público y pasa a formar parte del dominio privado;
 
-V. Cambio de uso o destino, acto por el que se modifica el uso o destino de un bien del dominio público; y
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2010)</small>
 
-VI. Cambio de usuario, acto por el que se cambia de usuario un bien del dominio público.
+V. Cambio de uso o destino, acto por el que se modifica el uso o destino de un bien del dominio público;
+
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
+VI. Cambio de usuario, acto por el que se cambia de usuario un bien del dominio público; y
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
+VII. Destino final, acto por medio del cual la autoridad administrativa competente, determina la aplicación última de bienes desincorporados del patrimonio estatal o municipal.
 
 ###### Artículo 49.
 
@@ -494,6 +504,10 @@ Tratándose de muebles, éstos serán considerados en lo individual y en conjunt
 Para cambiar el uso, destino o usuario de los bienes de dominio público, los poderes Legislativo y Judicial, informarán al Ejecutivo del Estado, para que la Secretaría de Administración realice los actos jurídicos que se requieran.
 
 Las dependencias, organismos y entidades públicas, estatales y municipales, deberán solicitarlo a la Secretaría de Administración o a los ayuntamientos, exponiendo las razones y conveniencia que sustenten la petición, misma que podrá ser autorizada considerando los beneficios o utilidad que tenga la administración con el cambio respectivo.
+
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
+En todo caso deberá procurarse que en la determinación del destino final de bienes que formaron parte del patrimonio de las dependencias, organismos y entidades públicas estatales y municipales, se tenga en cuenta la posibilidad para la obtención de un beneficio económico que pueda ser aprovechado para la realización de las tareas de las administraciones públicas respectivas.
 
 ###### Artículo 54.
 
@@ -666,3 +680,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
