@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2010-10-30"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -1904,7 +1904,7 @@ II.- Al cumplimentar exhortos o despachos;
 
 III.- En las demás diligencias cuya práctica se encomiende por otros Jueces o Tribunales;
 
-IV.- En las diligencias de mera ejecución, mas sí en las de ejecución mixta;
+IV.- En las diligencias de mera ejecución, más sí en las de ejecución mixta;
 
 V.- En los demás actos que no radiquen jurisdicción ni importen conocimiento de causa.
 
@@ -2348,7 +2348,7 @@ Será competente para decretar las providencias cautelares el juez que lo sea pa
 
 ###### ARTICULO 251.
 
-De toda providencia precautoria queda responsable el que la pida, y si no se funda en instrumento público o título ejecutivo, el solicitante otorgará garantía bastante en cualesquiera de las formas previstas por la ley cuyo monto será fijado discrecionalmente por el juez, para asegurar el pago de los daños y perjuicios que se ocasionen, ya porque se revoque la providencia o ya por que entablada la demanda, sea absuelto el demandado. Mientras no se exhiba la garantía no podrá decretarse la medida.
+De toda providencia precautoria queda responsable el que la pida, y si no se funda en instrumento público o título ejecutivo, el solicitante otorgará garantía bastante en cualesquiera de las formas previstas por la ley cuyo monto será fijado discrecionalmente por el juez, para asegurar el pago de los daños y perjuicios que se ocasionen, ya porque se revoque la providencia o ya por qué entablada la demanda, sea absuelto el demandado. Mientras no se exhiba la garantía no podrá decretarse la medida.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3694,9 +3694,11 @@ II. Las sentencias respecto de las cuales hecha la notificación en forma no se 
 
 III. Las sentencias respecto de las cuales se interpuso recurso, pero no se expresaron agravios en forma y términos legales o que se desistió de él el recurrente, su abogado patrono ó su representante con poder o cláusula especial.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 421.
 
-Para que las sentencias a que se refiere el artículo anterior, produzcan los efectos de cosa juzgada, no se requerirá promoción de las partes ni declaración judicial, bastando certificaciones de la Secretaría en los casos en que el tribunal lo crea conveniente para mayor claridad. Los errores que se cometan en esta certificación serán corregidos de plano por el Juez.
+Para que las sentencias que causen estado por ministerio de ley produzcan los efectos de cosa juzgada no se requerirá promoción de las partes ni declaración judicial, bastando certificación de la Secretaría, en los casos en que el tribunal lo crea conveniente para mayor claridad. Los errores que se cometan en esta certificación serán corregidos de plano por el Juez.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3868,7 +3870,7 @@ Se exceptúa la apelación contra las sentencias de los Juicios en rebeldía, cu
 
 ###### ARTICULO 438.
 
-Interpuesta la apelación y exhibidas las copias a que se refiere el articulo 427, el juez que haya dictado la resolución reclamada, la admitirá sin sustanciación alguna, si la encuentra procedente, expresando si la admite en los efectos devolutivo y suspensivo o sólo en el primero y remitirá juntamente con el escrito de agravios el expediente original o testimonio de constancias señaladas por el apelante, al Supremo Tribunal para que lo turne desde luego a la sala que corresponda su conocimiento.
+Interpuesta la apelación y exhibidas las copias a que se refiere el artículo 427, el juez que haya dictado la resolución reclamada, la admitirá sin sustanciación alguna, si la encuentra procedente, expresando si la admite en los efectos devolutivo y suspensivo o sólo en el primero y remitirá juntamente con el escrito de agravios el expediente original o testimonio de constancias señaladas por el apelante, al Supremo Tribunal para que lo turne desde luego a la sala que corresponda su conocimiento.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -5678,6 +5680,14 @@ Si antes de la celebración de la audiencia de pruebas y alegatos, el demandado 
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
+ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
+
+> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
+
+Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ARTICULO 686 bis.- El juez debe citar a la audiencia de pruebas y alegatos, dentro de los treinta días posteriores a la emisión del auto que admite la contestación de la demanda o de la reconvención, en su caso, previniendo a las partes, con por lo menos cinco días de anticipación a la fecha señalada para la celebración de la audiencia, para que aporten los elementos necesarios para el desahogo de las pruebas a su cargo.
 
 Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y una vez desahogadas, se procederá a la formulación de alegatos, ya sea oralmente o por escrito. Acto continuo el juez citará a las partes, para oír sentencia, misma que deberá ser dictada, dentro de los quince días siguientes.
@@ -5685,14 +5695,6 @@ Abierta la audiencia se procederá al desahogo, por su orden, de las pruebas y u
 > <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
 
 Las partes podrán alegar verbalmente, sin que los alegatos puedan exceder de veinte minutos por cada parte, incluyendo las réplicas y contrarréplicas.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
-
-ARTICULO 686 ter.- La audiencia a que se refiere el artículo anterior podrá ser diferida, a criterio del juez, por una sola ocasión, de oficio o a petición de parte, justificando debidamente el motivo del aplazamiento.
-
-> <small>(F. DE E., P.O. 30 DE MARZO DE 2004)</small>
-
-Cuando la causa del diferimiento de la audiencia, en los términos del párrafo anterior, sea la imposibilidad de desahogar en ese momento alguna prueba, el juez señalará nueva fecha para su celebración, dentro de los diez días siguientes, apercibiendo a las partes que de no aportar los elementos necesarios para el desahogo de las mismas, se les tendrá por perdido ese derecho, continuándose con el desarrollo de la audiencia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8848,7 +8850,7 @@ TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 d
 
 CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
 
-QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
+QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres víctimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
 
@@ -8877,3 +8879,7 @@ TERCERO. Los delegados institucionales privados que estén debidamente acreditad
 P.O. 30 DE OCTUBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+UNICO. El presente decreto entrará en vigor a los sesenta días siguientes al de su publicación en el periódico oficial El Estado de Jalisco.
