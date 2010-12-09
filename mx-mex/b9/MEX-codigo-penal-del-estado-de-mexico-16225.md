@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2010-12-01"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO PENAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2010.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2335,7 +2335,9 @@ A los ascendientes que tengan cópula con sus descendientes, teniendo conocimien
 
 Se impondrá esta última sanción en caso de incesto entre hermanos.
 
-### CAPITULO V. RAPTO
+### CAPITULO V. USURPACION DE IDENTIDAD
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 222.
 
@@ -2901,15 +2903,29 @@ Al padre o la madre que se apodere de su hijo menor de edad o familiares que par
 
 Este delito se perseguirá por querella.
 
-> <small>(DEROGADA SU DENOMINACION, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 264.
 
-(DEROGADO, G.G. 6 DE MARZO DE 2010)
+Se le impondrán de uno a cuatro años de prisión y de cien a quinientos días multa, a quien ejerza con fines ilícitos un derecho o use cualquier tipo de datos, informaciones o documentos que legítimamente pertenezcan a otro, que lo individualiza ante la sociedad y que le permite a una persona física o jurídica colectiva ser identificada o identificable para hacerse pasar por él.
+
+Se equiparan a la usurpación de identidad y se impondrán las mismas penas previstas en el párrafo que precede prevista en el presente artículo a quienes:
+
+I. Cometan un hecho ilícito previsto en las disposiciones legales con motivo de la usurpación de la identidad;
+
+II. Utilicen datos personales, sin consentimiento de quien deba otorgarlo;
+
+III. Otorguen el consentimiento para llevar a cabo la usurpación de su identidad; y
+
+IV. Se valgan de la homonimia para cometer algún ilícito.
+
+Las sanciones previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 265.
 
-(DEROGADO, G.G. 6 DE MARZO DE 2010)
+Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
 
 ###### Artículo 266.
 
@@ -4058,3 +4074,9 @@ DECRETO NUMERO 233, POR EL QUE SE ADICIONA LA FRACCION V AL ARTICULO 299 DEL COD
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 9 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
