@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2010-06-18"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -128,7 +128,9 @@ Para lograr el desarrollo rural sustentable el Estado, con el concurso de los di
 
 En el marco previsto en la Constitución Política de los Estados Unidos Mexicanos, el Estado, a través del Gobierno Federal y en coordinación con los gobiernos de las entidades federativas y municipales, impulsará políticas, acciones y programas en el medio rural que serán considerados prioritarios para el desarrollo del país y que estarán orientados a los siguientes objetivos:
 
-I. Promover el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo y, en general, de los agentes de la sociedad rural, mediante la diversificación y la generación de empleo, incluyendo el no agropecuario en el medio rural, así como el incremento del ingreso;
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+I. Promover y favorecer el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo y, en general, de los agentes de la sociedad rural con la participación de organizaciones o asociaciones, especialmente la de aquellas que estén integradas por sujetos que formen parte de los grupos vulnerables referidos en el artículo 154 de la presente Ley, mediante la diversificación y la generación de empleo, incluyendo el no agropecuario en el medio rural, así como el incremento del ingreso;
 
 II. Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones de mayor rezago, mediante una acción integral del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
 
@@ -380,6 +382,16 @@ Con apego a los principios de federalización, se integrarán Consejos para el D
 
 Los Consejos estatales de varias entidades federativas que coincidan en una región común o cuenca hidrológica, podrán integrar consejos regionales interestatales en dichos territorios.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 24 Bis.
+
+Se podrán integrar, dentro de los consejos mexicano, estatales, distritales y municipales, cuando así se considere necesario, comités consultivos alimentarios, cuya finalidad será opinar al seno de los consejos mexicano, estatales, distritales y municipales en materia de producción agropecuaria, utilizando criterios de factibilidad técnica y económica, considerando principalmente las características agroecológicas, económicas, sociales y culturales del ámbito territorial en cuestión.
+
+La creación de los comités se realizará dentro de los estatutos orgánicos de cada Consejo.
+
+Podrán participar en los comités consultivos alimentarios, adicionalmente a los integrantes de los consejos mexicano, estatales, distritales y municipales, profesionistas inscritos en el padrón de prestadores de servicios del sector rural perteneciente al Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral al que hace referencia esta Ley en el Capítulo Tercero del Título Tercero, en su carácter de expertos en los temas abordados por los comités consultivos alimentarios, con la finalidad de reforzar la opinión técnica que dichos comités puedan emitir en el seno de los consejos mexicano, estatales, distritales y municipales. Las opiniones de los especialistas deberán ser presentadas al Consejo Mexicano para el Desarrollo Rural Sustentable para que sean valoradas y tomadas en cuenta en la toma de decisiones en materia alimentaria.
+
 ###### Artículo 25.
 
 Los Consejos Estatales podrán ser presididos por los gobernadores de las entidades federativas. Serán miembros permanentes de los Consejos Estatales los representantes de las dependencias estatales que los Gobiernos de las entidades federativas determinen; los representantes de las dependencias y entidades que forman parte de la Comisión Intersecretarial y los representantes de cada uno de los Distritos de Desarrollo Rural, así como los representantes de las organizaciones sociales y privadas de carácter económico y social del sector rural, en forma similar a la integración que se adopta para el Consejo Mexicano.
@@ -526,11 +538,15 @@ XIV. Las demás que se deriven del cumplimiento de esta Ley.
 
 ### CAPÍTULO II. De la Investigación y la Transferencia Tecnológica
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 33.
 
-La Comisión Intersecretarial, con la participación del Consejo Mexicano, integrará la Política Nacional de Investigación para el Desarrollo Rural Sustentable, la cual será de carácter multidisciplinario e interinstitucional considerando las prioridades nacionales, estatales y regionales; asimismo, llevará a cabo la programación y coordinación nacional en esta materia, con base en lo dispuesto en la Ley Orgánica de la Administración Pública Federal, en la Ley para el Fomento de la Investigación Científica y Tecnológica y en el Plan Nacional de Desarrollo y en los demás ordenamientos aplicables, tomando en consideración las necesidades que planteen los productores y demás agentes de la sociedad rural.
+La Comisión Intersecretarial, con la participación del Consejo Mexicano, integrará la Política Nacional de Investigación para el Desarrollo Rural Sustentable, la cual será de carácter multidisciplinario e interinstitucional considerando las prioridades nacionales, estatales y regionales; asimismo, llevará a cabo la programación y coordinación nacional en esta materia, con base en lo dispuesto en la Ley Orgánica de la Administración Pública Federal, en la Ley de Ciencia y Tecnología y en el Plan Nacional de Desarrollo y en los demás ordenamientos aplicables, tomando en consideración las necesidades que planteen los productores y demás agentes de la sociedad rural.
 
-La política nacional de investigación para el desarrollo rural sustentable, con base en las instituciones competentes y utilizando los recursos existentes, incluirá las medidas para disponer de una instancia con capacidad operativa, autonomía efectiva y autoridad moral para emitir los dictámenes y resoluciones arbitrales que se requieran; asimismo, tenderá a contar con un adecuado diagnóstico permanente de los diferentes aspectos necesarios para la planeación del desarrollo rural sustentable y a la búsqueda de soluciones técnicas acordes a los objetivos soberanos de la producción nacional.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+La Política Nacional de Investigación para el Desarrollo Rural Sustentable, con base en las instituciones competentes y utilizando los recursos existentes, incluirá las medidas para disponer de una instancia con capacidad operativa, autonomía efectiva y autoridad moral para emitir los dictámenes y resoluciones arbitrales que se requieran, para cuya elaboración deberá tomarse en cuenta las recomendaciones que para tal efecto emita el Consejo Nacional de Ciencia y Tecnología; asimismo, tenderá a contar con un adecuado diagnóstico permanente de los diferentes aspectos necesarios para la planeación del desarrollo rural sustentable y a la búsqueda de soluciones técnicas acordes a los objetivos soberanos de la producción nacional.
 
 > <small>(ADICIONADO, D.O.F. 18 DE JUNIO DE 2010)</small>
 
@@ -1931,3 +1947,23 @@ D.O.F. 18 DE JUNIO DE 2010.
 DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 84 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE DICIEMBRE DE 2010.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCION I DEL ARTICULO 5o. DE LA LEY DE DESARROLLO RURAL SUSTENTABLE
+
+Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE DICIEMBRE DE 2010.
+
+DECRETO POR EL QUE SE ADICIONA UN ARTICULO 24 BIS A LA LEY DE DESARROLLO RURAL SUSTENTABLE
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que, en su caso, deban realizarse a fin de dar cumplimiento al presente Decreto, se sujetarán a los recursos aprobados para tales fines por la Cámara de Diputados, las legislaturas de los Estados, así como la Asamblea Legislativa del Distrito Federal, en sus respectivos presupuestos.
+
+D.O.F. 9 DE DICIEMBRE DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 33 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE
+
+Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
