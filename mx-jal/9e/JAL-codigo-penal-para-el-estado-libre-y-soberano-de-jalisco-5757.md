@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2010-10-07"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3715,11 +3715,11 @@ XXI. Al que, aprovechándose de la confusión anímica de la familia o de quien 
 
 XXII. A quien simule la constitución de una sociedad, con el objeto de obtener dinero ofreciendo el pago de intereses superiores a los autorizados por el Banco de México; y (sic)
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-XXIII. Al que suplantando al propietario de bienes o al titular de derechos de índole patrimonial utilizando medios de identificación o documentos apócrifos, transmita o grave dichos bienes o derechos. La misma pena se le impondrá al que a sabiendas de ésta circunstancia, adquiera el bien o derecho o reciba el beneficio del gravamen.
+XXIII. Al que suplantando al propietario de bienes o al titular de derechos de índole patrimonial utilizando medios de identificación o documentos apócrifos, transmita o grave dichos bienes o derechos. La misma pena se le impondrá al que a sabiendas de esta circunstancia, adquiera el bien o derecho o reciba el beneficio del gravamen.
 
-Tratándose de bienes inmuebles, este delito se considera como grave y el procesado no tendrá derecho a la libertad provisional bajo caución;
+Tratándose de bienes inmuebles, este delito se considera como grave y el procesado no tendrá derecho a la libertad provisional bajo caución, y
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
@@ -4720,3 +4720,7 @@ SEGUNDO. Se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretar�
 P.O. 7 DE OCTUBRE DE 2010.
 
 ÚNICO El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
