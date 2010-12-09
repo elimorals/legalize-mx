@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2008-12-30"
+last_updated: "2010-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE DICIEMBRE DE 2010.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -505,9 +505,37 @@ VI. Suscribir los documentos relativos al ejercicio de sus facultades y de las q
 
 VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos que obren en los archivos de las respectivas unidades administrativas de la Comisión, en términos de lo dispuesto en el artículo 42 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 51 de su Reglamento.
 
-VIII. Asegurar el buen uso y preservar los bienes asignados a la unidad administrativa a su cargo, y
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
-IX. Las demás facultades que le confieran la Junta de Gobierno, el Director General, el Director correspondiente, los manuales y los ordenamientos aplicables.
+VIII. Asegurar el buen uso y preservar los bienes asignados a la unidad administrativa a su cargo.
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+IX. Celebrar y suscribir los contratos de obra pública y servicios relacionados con la misma, de adquisiciones, de arrendamientos y servicios.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+X. Iniciar y llevar a cabo el procedimiento de rescisión administrativa de contratos.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+XI. Rescindir administrativamente los contratos.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+XII. Finiquitar los contratos de obra pública y servicios relacionados con la misma, de adquisiciones, de arrendamientos y servicios.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+XIII. Aplicar las penalizaciones por incumplimiento a los contratos de obra pública y servicios relacionados con la misma, de adquisiciones, de arrendamientos y servicios.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+XIV. Recibir, sustanciar y resolver los recursos materia de su competencia, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+XV. Las demás facultades que les confieran la Junta de Gobierno, el Director General, el Director correspondiente, los manuales y los ordenamientos aplicables.
 
 ###### Artículo 16.
 
@@ -515,9 +543,9 @@ Al Abogado General de la Comisión le corresponden, además de las facultades ge
 
 I. Representar legalmente a la Comisión y a su Director General, ante los tribunales y demás autoridades, así como ante las instancias arbitrales.
 
-> <small>(REFORMADA, D.O.F. 8 DE MARZO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
-II. Defender los intereses jurídicos de la Comisión y representarla en los juicios, procedimientos y recursos administrativos, judiciales o arbitrales en que sea parte o tenga interés jurídico. Estas facultades también podrá ejercerlas el Gerente de Asuntos Contenciosos y los Titulares de las Areas Administrativas Regionales.
+II. Defender los intereses jurídicos de la Comisión y representarla en los juicios, procedimientos y recursos administrativos, judiciales o arbitrales en que sea parte o tenga interés jurídico. Estas facultades también podrá ejercerlas el Gerente de Asuntos Contenciosos, cuya Gerencia es también una unidad administrativa encargada de la defensa jurídica de la Comisión. Estas facultades también podrán ejercerlas los Titulares de las Areas Administrativas Regionales.
 
 III. Determinar los criterios jurídicos que seguirán las unidades administrativas de la Comisión y las áreas jurídicas regionales de acuerdo con el Marco Jurídico Nacional e Internacional aplicable.
 
@@ -1319,39 +1347,841 @@ LXXXV. Unidad de Desarrollo Organizacional y Evaluación, y
 
 LXXXVI. Unidad de Enlace para la Información Pública.
 
-### Capítulo VIII. De las Areas Administrativas Regionales
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+### Capítulo VIII. De las Areas Administrativas Regionales y de la Circunscripción Territorial
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 52.
 
-La Comisión contará con Areas Administrativas Regionales dentro de la circunscripción territorial que determine la Junta de Gobierno, que estarán jerárquicamente subordinadas a las unidades administrativas a las cuales se encuentren adscritas, y con las facultades específicas señaladas en los manuales que se expidan.
+La Comisión contará con las siguientes Areas Administrativas Regionales:
 
-###### Artículo 53.
+I. Areas de Control.
 
-Las Areas Administrativas Regionales a que se refiere el artículo anterior son las siguientes:
+II. Gerencias Regionales de Transmisión.
 
-I. Areas de Control;
+III. Gerencias Divisionales de Distribución.
 
-II. Gerencias Regionales de Transmisión;
-
-III. Gerencias Divisionales de Distribución;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MARZO DE 2007)</small>
-
-III.I. Superintendencias de Zona;
+III.I. Superintendencias de Zona.
 
 IV. Gerencias Regionales de Producción, y
 
-> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2005)</small>
+V. Residencias Regionales de Construcción de: Proyectos Hidroeléctricos; Proyectos Termoeléctricos y Proyectos de Transmisión y Transformación.
 
-V. Residencias Regionales de Construcción de: Proyectos Hidroeléctricos; de Proyectos Termoeléctricos; y de Proyectos de Transmisión y Transformación.
+Las Areas Administrativas Regionales referidas, con excepción de las Gerencias Divisionales de Distribución y superintendencia de zona cuya circunscripción territorial se especifica en el artículo 53 de este Estatuto, tendrán la circunscripción territorial que determine la Junta de Gobierno.
 
-A las Gerencias Divisionales de Distribución además de las facultades genéricas señaladas en el artículo 50 de este Estatuto les corresponde llevar a cabo todas las acciones necesarias relacionadas con el suministro de energía eléctrica, de conformidad con los capítulos V de la Ley del Servicio Público de Energía Eléctrica y V de su Reglamento, sin perjuicio de la participación de las demás unidades administrativas que tengan funciones inherentes a dichas actividades.
+Todas las Areas Administrativas Regionales estarán jerárquicamente subordinadas a las unidades administrativas a las cuales se encuentren adscritas, y con las facultades específicas señaladas en este Estatuto y en los Manuales correspondientes que se expidan.
 
-> <small>(ADICIONADO, D.O.F. 8 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
-En cada Gerencia Divisional de Distribución los Superintendentes de Zona y el Jefe de Departamento Jurídico Divisional podrán ordenar se practiquen verificaciones a los equipos de medición de la Comisión de acuerdo con el artículo 31 del Reglamento a la Ley del Servicio Público de Energía Eléctrica.
+###### Artículo 53.
+
+La Comisión cuenta con las siguientes Gerencias Divisionales de Distribución:
+
+I. Gerencia Divisional de Distribución Baja California.
+
+II. Gerencia Divisional de Distribución Bajío.
+
+III. Gerencia Divisional de Distribución Centro Occidente.
+
+IV. Gerencia Divisional de Distribución Centro Oriente.
+
+V. Gerencia Divisional de Distribución Centro Sur.
+
+VI. Gerencia Divisional de Distribución Golfo Centro.
+
+VII. Gerencia Divisional de Distribución Golfo Norte.
+
+VIII. Gerencia Divisional de Distribución Jalisco.
+
+IX. Gerencia Divisional de Distribución Noroeste.
+
+X. Gerencia Divisional de Distribución Norte.
+
+XI. Gerencia Divisional de Distribución Oriente.
+
+XII. Gerencia Divisional de Distribución Peninsular.
+
+XIII. Gerencia Divisional de Distribución Sureste.
+
+IV (SIC). Gerencia Divisional de Distribución Valle de México Sur.
+
+XV. Gerencia Divisional de Distribución Valle de México Centro, y
+
+XVI. Gerencia Divisional de Distribución Valle de México Norte.
+
+I. Gerencia Divisional de Distribución Baja California tiene jurisdicción en el Estado de Baja California en los municipios de Mexicali, Tijuana, Tecate, Playas de Rosarito y Ensenada, del Estado de Baja California Sur en los municipios de La Paz, Los Cabos, Comondú, Loreto y Mulegé, del Estado de Sonora, en los municipios de San Luis Río Colorado, Puerto Peñasco y General Plutarco Elías Calles (Sonoyta).
+
+La Gerencia Divisional Baja California cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Mexicali.
+
+2) Superintendencia Zona Tijuana.
+
+3) Superintendencia Zona Ensenada.
+
+4) Superintendencia Zona La Paz.
+
+5) Superintendencia Zona Constitución, y
+
+6) Superintendencia Zona San Luis.
+
+1) La Superintendencia Zona Mexicali tiene jurisdicción dentro del Estado de Baja California en el Municipio de Mexicali.
+
+2) La Superintendencia Zona Tijuana tiene jurisdicción dentro del Estado de Baja California en los municipios de Tijuana, Tecate y Playas de Rosarito.
+
+3) La Superintendencia Zona Ensenada tiene jurisdicción dentro del Estado de Baja California en el Municipio de Ensenada.
+
+4) La Superintendencia Zona La Paz tiene jurisdicción dentro del Estado de Baja California Sur en el Municipio de La Paz y Los Cabos.
+
+5) La Superintendencia Zona Constitución tiene jurisdicción dentro del Estado de Baja California Sur en el municipio de Comondú, Loreto, Mulegé y de La Paz; dentro del Estado de Baja California en parte del Municipio de Ensenada.
+
+6) La Superintendencia Zona San Luis tiene jurisdicción dentro del Estado de Sonora en los municipios de San Luis Río Colorado, Puerto Peñasco y General Plutarco Elías Calles (Sonoyta); dentro del Estado de Baja California en el Municipio de Mexicali.
+
+II. La Gerencia Divisional de Distribución Bajio tiene jurisdicción en el Estado de Guanajuato, en los municipios de Abasolo, Acambaro, San Miguel Allende, Apaseo El Alto, Apaseo El Grande, Atarjea, Celaya, Cd. Manuel Doblado, Comonfort, Coroneo, Cortázar, Cueramaro, Doctor Mora, Dolores Hidalgo Cuna de la Independencia Nacional, Guanajuato, Huanimaro, Irapuato, Jaral del Progreso, Jerecuaro, León, Moroleón, Ocampo, Penjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatio, Silao, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria.
+
+Del Estado de Aguascalientes en los municipios de Aguascalientes, Asientos, Calvillo, Cosió, Jesús María, Pabellón de Arteaga, Rincón de Romos, San José de Gracia, Tepezala, San Francisco de los Romo, El Llano.
+
+Del Estado de Zacatecas en los municipios de Apozol, Atolinga, Benito Juárez, Calera, Cañitas de Felipe Pescador, Concepción del Oro, Cuauhtémoc, Chalchihuites, Fresnillo, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Francisco Murguía, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Guadalupe, Huanusco, Jalpa, Jerez, Jiménez del Teul, Juan Aldama, Juchipila, Loreto, Luis Moya, Mazapil, Melchor Ocampo, Mezquital del Oro, Miguel Auza, Momax, Monte Escobedo, Morelos, Moyahua de Estrada, Nochistlán de Mejía, Noria de Angeles, Ojocaliente, Panuco, Rio Grande, Saín Alto, El Salvador, Sombrerete, Susticacan, Tabasco, Tepechitlan, Tepetongo, Teul de González Ortega, Tlaltenango de Sánchez Román, Trancoso, Valparaíso, Vetagrande, Villa de Coss, Villa García, Villa González Ortega, Villa Hidalgo, Villanueva, Zacatecas y Santa María de la Paz.
+
+Del Estado de Querétaro en los municipios de Amealco de Bonfil, Pinal de Amoles, Cadereyta de Montes, Colon, Corregidora, Ezequiel Montes, Huimilpan, El Marqués, Pedro Escobedo, Peñamiller, Querétaro, San Joaquín, San Juan del Rio, Tequisquiapan, Toliman y Arroyo Seco.
+
+Del Estado de Hidalgo en los municipios de Alfajayucan, Cardonal, Chapulhuacan, Eloxochitlán, Huichapán, Ixmiquilpan, Jacala de Ledezma, Metztitlan, La Misión, Nicolás Flores, Nopala de Villagrán, Pacula, Pisaflores, Tasquillo, Tecozautla, Tepehuacan de Guerrero, Tlahuiltepa y Zimapán.
+
+Del Estado de Jalisco en los municipios de Bolaños, Colotlan, Chimaltitan, Encarnación de Díaz, Huejucar, Huejuquilla el Alto, Lagos de Moreno, Mezquitic, Ojuelos de Jalisco, San Diego de Alejandría, San Martin de Bolaños, Santa María de los Angeles, Teocaltiche, Totatiche, Unión de San Antonio, Villa Guerrero, Villa Hidalgo, Jesús María y Degollado.
+
+Del Estado de San Luis Potosí en los municipios de Salinas, Santo Domingo, Villa de Arriaga, Villa de Ramos, Ahualulco, Moctezuma y Vanegas.
+
+Del Estado de Michoacán los municipios de Contepec, Epitacio Huerta, Maravatio y Santa Ana Maya, Cuitzeo y José Sixto Verduzco.
+
+Del estado de Durango los municipios de Santa Clara y General Simón Bolívar.
+
+Del estado de Coahuila los municipios de Parras, Saltillo y San Pedro.
+
+La Gerencia Divisional Bajío cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona San Juan del Río.
+
+2) Superintendencia Zona Irapuato.
+
+3) Superintendencia Zona León.
+
+4) Superintendencia Zona Celaya.
+
+5) Superintendencia Zona Querétaro.
+
+6) Superintendencia Zona Salvatierra.
+
+7) Superintendencia Zona Ixmiquilpan.
+
+8) Superintendencia Zona Aguascalientes.
+
+9) Superintendencia Zona Fresnillo, y
+
+10) Superintendencia Zona Zacatecas.
+
+1) La Superintendencia Zona San Juan del Río tiene jurisdicción dentro (sic) Estado de Querétaro en los municipios de Amealco de Bonfil, Pinal de Amoles, Cadereyta de Montes, Colon, Ezequiel Montes, Peñamiller, San Joaquín, San Juan del Rio, Tequisquiapan, Toliman, Arroyo Seco, Huimilpan, El Marqués, Pedro Escobedo. Dentro del Estado de Guanajuato en los municipios de Atarjea, Coroneo, Jerecuaro y Xichú. Dentro del es (sic) Estado de Hidalgo en el municipio de Zimapán. Dentro del Estado de México en el municipio de Polotitlán. Dentro del Estado de Michoacán en los municipios de Contepec y Epitacio Huerta.
+
+2) La Superintendencia Zona Irapuato tiene jurisdicción dentro del Estado de Guanajuato en los municipios de Abasolo, Cueramaro, Guanajuato, Huanimaro, Irapuato, Penjamo, Pueblo Nuevo, Romita, Salamanca, Silao, San Felipe, Dolores Hidalgo, Manuel Doblado, León y Valle de Santiago. Dentro del Estado de Jalisco el municipio de Degollado. Dentro del Estado de Michoacán en los municipios de José Sixto Verduzco.
+
+3) La Superintendencia Zona León tiene jurisdicción dentro del Estado de Guanajuato en los municipios de Manuel Doblado, León, Purísima del Rincón, San Francisco del Rincón. Dentro del Estado de Jalisco en los municipios de Lagos de Moreno, San Diego de Alejandría, Unión de San Antonio, Jesús María y Degollado.
+
+4) La Superintendencia Zona Celaya tiene jurisdicción dentro del Estado de Guanajuato en los municipios de San Miguel de Allende, Apaseo el Alto, Apaseo El Grande, Dolores Hidalgo, Celaya, Comonfort, Cortázar, San Felipe, Santa Cruz de Juventino Rosas, Villagrán, Guanajuato, Jerecuaro, Ocampo, Salamanca, San Diego de la Unión, San José Iturbide, San Luis de la Paz, Tarimoro. Dentro del Estado de Querétaro en el municipio de Querétaro.
+
+5) La Superintendencia Zona Querétaro tiene jurisdicción dentro del Estado de Querétaro en los municipios de Corregidora, Huimilpan, El Marques, Pedro Escobedo, Querétaro y Colon. Dentro del Estado de Guanajuato en los municipios de Doctor Mora, San José Iturbide, San Luis de la Paz, Santa Catarina, San Diego de la Unión Tierra Blanca, Victoria, Xichú, Jerecuaro, San Miguel de Allende, Apaseo el Alto, Apaseo el Grande y Dolores Hidalgo.
+
+6) La Superintendencia Zona Salvatierra tiene jurisdicción dentro del Estado de Guanajuato en los municipios de Acambaro, Jaral del Progreso, Moroleón, Salvatierra, Santiago Maravatio, Tarandacuao, Tarimoro, Uriangato, Valle de Santiago, Yuriria, Celaya y Salamanca. Dentro del Estado de Michoacán en los municipios de Maravatio, Santa Ana Maya, Contepec y Cuitzeo,
+
+7) La Superintendencia Zona Ixmiquilpan tiene jurisdicción dentro del Estado de Hidalgo en los municipios de Alfajayucan, Cardonal, Chapulhuacan, Eloxochitlán, Huichapán, Ixmiquilpan, Jacála de Ledezma, Metztitlán, La Misión, Nicolás Flores, Nopala de Villagrán, Pacula, Pisaflores, Tasquillo, Tecozautla, Tepehuacan de Guerrero, Tlahuiltepa y Zimapán. Dentro del Estado de México en el municipio de Jilotepec y Polotitlán. Dentro del Estado de Querétaro en el municipio de Cadereyta de Montes.
+
+8) La Superintendencia Zona Aguascalientes tiene jurisdicción dentro del Estado de Aguascalientes en los municipios de Aguascalientes, Asientos, Calvillo, Cosió, Jesús María, Pabellón de Arteaga, Rincón de Romos, San José de Gracia, Tepezala, El Llano y San Francisco de los Romo. Dentro de Estado de Jalisco en los municipios de Encarnación de Díaz, Ojuelos de Jalisco, Teocaltiche y Villa Hidalgo. Dentro del Estado de Guanajuato en los municipios de Ocampo y San Felipe. Dentro del Estado de San Luis Potosí en el municipio de Villa de Arriaga. Dentro del Estado de Zacatecas en los municipios de Apozol, Huanusco, Jalpa, Juchipila, Loreto. Moyahua de Estrada, Tabasco, Villa García, Nochistlan de Mejía, Noria de Angeles, Pinos y Villanueva.
+
+9) La Superintendencia Zona Fresnillo tiene jurisdicción dentro del Estado de Zacatecas en los municipios de Calera, Cañitas de Felipe Pescador, Concepción del Oro, Chalchihuites, Fresnillo, General Enrique Estrada, General Francisco R. Murguía, Jiménez del Teul, Juan Aldama, Mazapil, Melchor Ocampo, Miguel Auza, Rio Grande, Saín Alto, El Salvador, Sombrerete, Valparaíso, Villa de Coss, Morelos y Panuco. Dentro del Estado de Coahuila en los municipios Parras, Saltillo y San Pedro. Dentro del Estado de Durango en los municipios de Santa Clara y General Simón Bolívar. Dentro del Estado de Jalisco en el municipio de Huejuquilla el Alto. Dentro del Estado de San Luis Potosí en los municipios de Santo Domingo, Vanegas y Villa de Ramos.
+
+10) La Superintendencia Zona Zacatecas tiene jurisdicción dentro del Estado de Zacatecas en los municipios de Atolinga, Benito Juárez, Cuauhtémoc, Trinidad García de la Cadena, Genaro Codina, El Plateado de Joaquín Amaro, General Pánfilo Natera, Guadalupe, Jerez, Luis Moya, Mezquital del Oro, Momax, Monte Escobedo, Morelos, Noria de Angeles, Ojocaliente, Panuco, Pinos, Susticacan, Tepechitlan, Tepetongo, Teul de González Ortega, Tlaltenango de Sánchez Román, Trancoso, Vetagrande, Villa González Ortega, Villa Hidalgo, Villanueva, Zacatecas, Santa María de la Paz, Fresnillo, Jalpa, Villa de Coss y Loreto. Dentro del Estado de Jalisco en los municipios de Bolaños, Colotlan, Chimaltitan, Huejucar, Mezquitic, San Martin de Bolaños, Santa María de los Angeles, Totatiche y Villa Guerrero. Dentro del Estado de San Luis Potosí en los municipios de Salinas, Villa de Ramos, Ahualulco, Santo Domingo y Moctezuma. Dentro del Estado de Aguascalientes en el municipio de Cosió.
+
+III. La Gerencia Divisional de Distribución Centro Occidente tiene jurisdicción en el Estado de Colima, en los municipios de Armería, Colima, Comala, Coquimatlán, Cuauhtémoc, Ixtlahuacán, Manzanillo, Minatitlán, Tecomán y Villa de Alvarez; dentro del Estado de Guanajuato, en los municipios de Moroleón, Pénjamo, Valle de Santiago y Yuriria; dentro del Estado de Guerrero, en los municipios de Coahuayutla de José María y La Unión; dentro del Estado de Jalisco, en los municipios de Arandas, Atotonilco el Alto, Ayotlán, La Barca, Casimiro Castillo, Cihuatlán, Cuautitlán, Degollado, La Huerta, Jesús María, Jilotlán de los Dolores, Santa María de Oro (Manuel M. Dieguez), La Manzanilla de la Paz, Mazamitla, Pihuamo, Villa Purificación, Quitupan, Tamazula de Gordiano, Tecalitlán, Tepatitlán de Morelos, Tizapán el Alto, Tolimán, Tomatlán, Tonila, Tototlán, Tuxpan, Valle de Juárez y Zapotitlán de Vadillo; dentro del Estado de Michoacán; en los municipios de Acuitzio, Aguililla, Alvaro Obregón, Angamacutiro, Angangueo, Apatzingán, Aporo, Aquila, Ario de Rosales, Arteaga, Buenavista, Carácuaro, Coahuayana, Coalcomán de Vázquez Pallares, Coeneo, Copándaro de Galeana, Cotija, Cuitzeo, Charapan, Charo, Chavinda, Cherán, Chilchota, Chinicuila, Chucándiro, Churintzio, Churumuco, Ecuandureo, Erongarícuaro, Gabriel Zamora, Hidalgo, La Huacana, Huandacareo, Huaniqueo, Huiramba, Indaparapeo, Irimbo, Ixtlán, Jacona, Jiménez, Jiquilpan, Juárez, Jungapeo, Lagunillas, Madero, Maravatío, Marcos Castellanos, Lázaro Cárdenas, Morelia, Morelos, Múgica, Nahuatzen, Nocupétaro, Nuevo Parangaricutiro, Nuevo Urecho, Numarán, Ocampo, Pajacuarán, Panindícuaro, Parácuaro, Paracho, Pátzcuaro, Penjamillo, Periban, La Piedad, Purépero, Puruándiro, Queréndaro, Quiroga, Cojumatlán de Régules, Los Reyes, Sahuayo, San Lucas, Salvador Escalante, Senguio, Susupuato, Tacámbaro, Tancítaro, Tangamandapio, Tangancícuaro, Tanhuato, Taretan, Tarímbaro, Tepalcatepec, Tingambato, Tinguindín, Tiquicheo de Nicolás Rome, Tlazazalca, Tocumbo, Tumbiscatío, Turicato, Tuxpan, Tuzantla, Tzintzuntzan, Tzitzio, Uruapan, Venustiano Carranza, Villamar, Vista Hermosa, Yurécuaro, Zacapu, Zamora, Zináparo, Zinapécuaro, Ziracuaretiro, Zitácuaro, José Sixto Verduzco.
+
+La Gerencia Divisional Centro Occidente cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Morelia.
+
+2) Superintendencia Zona Uruapan.
+
+3) Superintendencia Zona Zamora.
+
+4) Superintendencia Zona Colima.
+
+5) Superintendencia Zona Zitácuaro.
+
+6) Superintendencia Zona Lázaro Cárdenas.
+
+7) Superintendencia Zona La Piedad.
+
+8) Superintendencia Zona Pátzcuaro.
+
+9) Superintendencia Zona Apatzingán.
+
+10) Superintendencia Zona Manzanillo.
+
+11) Superintendencia Zona Jiquilpan, y
+
+12) Superintendencia Zona Zacapu.
+
+1) La Superintendencia Zona Morelia tiene jurisdicción dentro del Estado de Michoacán en los municipios de Acuitzio, Alvaro Obregón, Copándaro de Galeana, Cuitzeo, Charo, Chucándiro, Hidalgo, Huandacareo, Indaparapeo, Lagunillas, Madero, Maravatío, Morelia, Queréndaro, Tarímbaro, Tzitzio y Zinapécuaro.
+
+2) La Superintendencia Zona Uruapan tiene jurisdicción dentro del Estado de Michoacán en los municipios de Ario de Rosales, Charapan, Cherán, Chilchota, Gabriel Zamora, Nahuatzen, Nuevo Parangaricutiro, Nuevo Urecho, Paracho, Los Reyes, Tancítaro, Taretan, Tingambato, Uruapan, Ziracuaretiro.
+
+3) La Superintendencia Zona Zamora tiene jurisdicción dentro del Estado de Michoacán en los municipios de Chavinda, Cherán, Chilchota, Cotija, Ecuandureo, Ixtlán, Jacona, Penjamillo, Periban, Purépero, Los Reyes, Tangamandapio, Tangancícuaro, Tinguindín, Tocumbo, Villamar, Vista Hermosa y Zamora; dentro del Estado de Jalisco en el municipio de Santa María de Oro (Manuel M. Dieguez).
+
+4) La Superintendencia Zona Colima tiene jurisdicción dentro del Estado de Colima en el municipio de Armeria, Colima, Comala, Coquimatlan, Cuauhtemoc, Manzanillo, Ixtlahuacán, Tecomán y Villa de Alvarez; dentro del Estado de Jalisco en los municipios de Pihuamo, Tonila, Tuxpan y Zapotitlán de Vadillo; dentro del Estado de Michoacán en los municipios de Aquila, Coahuayana y Coalcomán de Vázquez Pallares.
+
+5) La Superintendencia Zona Zitácuaro tiene jurisdicción dentro del Estado de Michoacán en el municipio de Angangueo, Aporo, Hidalgo, Irimbo, Juárez, Jungapeo, Maravatío, Ocampo, Senguio, Susupuato, Tuxpan, Tuzantla, y Zitácuaro.
+
+6) La Superintendencia Zona Lázaro Cárdenas tiene jurisdicción dentro del Estado de Michoacán en los municipios de Aquila, Lázaro Cárdenas, Tumbiscatío, Arteaga; dentro del Estado de Guerrero en los municipios de Coahuayutla de José María y La Unión.
+
+7) La Superintendencia Zona La Piedad tiene jurisdicción dentro del Estado de Michoacán en los municipios de Angamacutiro, Churintzio, Ecuandureo, Numarán, Panindícuaro, Penjamillo, La Piedad, Tanhuato, Tlazazalca, Vista Hermosa, Yurécuaro, y Zináparo; dentro del Estado de Jalisco en los municipios de Arandas, Atotonilco el Alto, Ayotlán, La Barca, Degollado y Jesús María, Tepatitlán de Morelos, Tototlán; dentro del Estado de Guanajuato en el municipio de Pénjamo.
+
+8) La Superintendencia Zona Pátzcuaro tiene jurisdicción dentro del Estado de Michoacán en los municipios de Ario de Rosales, Carácuaro, Erongarícuaro, Huiramba, Lagunillas, Madero, Nocupétaro, Nuevo Urecho, Pátzcuaro, Quiroga, San Lucas, Salvador Escalante, Tacámbaro, Tingambato, Tiquicheo de Nicolás Rome, Turicato y Tzintzuntzan.
+
+9) La Superintendencia Zona Apatzingan tiene jurisdicción dentro del Estado de Michoacán en los municipios de Aguililla, Apatzingán, Ario de Rosales, Arteaga, Buenavista, Coalcomán de Vázquez Pallares, Chinicuila, Churumuco, Gabriel Zamora, La Huacana, Múgica, Nuevo Urecho, Parácuaro, Tancítaro, Tepalcatepec, Tumbiscatío y Turicato; dentro del Estado de Jalisco en los municipios de Jilotlán de los Dolores y Tecalitlán.
+
+10) La Superintendencia Zona Manzanillo tiene jurisdicción dentro del Estado de Colima en los municipios de Manzanillo y Minatitlán; dentro del Estado de Jalisco en los municipios de Casimiro Castillo, Cihuatlán, Cuautitlán, La Huerta, Villa Purificación, Tolimán y Tomatlán; dentro del Estado de Michoacán el municipio de Chinicuila.
+
+11) La Superintendencia Zona Jiquipan tiene jurisdicción dentro del Estado de Michoacán en los municipios de Cotija, Jiquilpan, Marcos Castellanos, Pajacuarán, Cojumatlán de Régules, Sahuayo, Tangamandapio, Venustiano Carranza y Villamar; dentro del Estado de Jalisco en los municipios de La Manzanilla de la Paz, Mazamitla, Quitupan, Tamazula de Gordiano, Tizapán el Alto y Valle de Juárez.
+
+12) La Superintendencia Zona Zacapu tiene jurisdicción dentro del Estado de Michoacán en los municipios de Angamacutiro, Coeneo, Chucándiro, Erongarícuaro, Huaniqueo, Jiménez, Morelos, Panindícuaro, Zacapu, y José Sixto Verduzco; dentro del Estado de Guanajuato en los municipios de Moroleón, Pénjamo, Valle de Santiago y Yuriria.
+
+IV. La Gerencia Divisional de Distribucion Centro Oriente tiene jurisdicción en el Estado de Tlaxcala, en los municipios de Atenango del Río, Huamuxtitlán y Xochihuehuetlán del Estado de Guerrero, en los municipios de Acatlán, Acaxochitlán, Actopan, Ajacuba, Alfajayucan, Almoloya, Apan, Atitalaquia, Atotonilco el Grande, Atotonilco de Tula, Cuautepec de Hinojosa, Chapantongo, Chilcuautla, El Arenal, Emiliano Zapata, Epazoyucan, Francisco I. Madero, Huasca de Ocampo, Mineral de la Reforma, Mineral del Chico, Mineral del Monte, Mixquiahuala de Juárez, Nopala de Villagrán, Omitlán de Juárez, Pachuca de Soto, Progreso de Obregón, San Agustín Metzquititlán, San Agustín Tlaxiaca, San Salvador, Santiago de Anaya, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Tepeapulco, Tepeji del Río de Ocampo, Tepetitlán, Tetepango, Tezontepec de Aldama, Tizayuca, Tlahuelilpan, Tlanalapa, Tlaxcoapan, Tolcayuca, Tula de Allende, Tulancingo de Bravo, Villa de Tezontepec, Zapotlán de Juárez y Zempoala del Estado de Hidalgo, en el municipio de Ixtapaluca del Estado de México, en el municipio de Axochiapan del Estado de Morelos; en los municipios de Cosoltepec, Heroica Ciudad de Huajuapan de León, San Pedro y San Pablo Tequixtepec y Santiago Chazumba, del Estado de Oaxaca; en los municipios de Acultzingo, Aquila, Ayahualulco, Calcahualco, Maltrata, Mariano Escobedo, Nogales, Perote y Tehuipango del Estado de Veracruz de Ignacio de la Llave y en los municipios de Acajete, Acatlán, Acatzingo, Ahuacatlán, Ahuatlán, Ahuazotepec, Ahuehuetitla, Ajalpan, Albino Zertuche, Aljojuca, Altepexi, Amixtlán, Amozoc, Aquixtla, Atexcal, Atlixco, Atoyatempan, Atzala, Atzitzihuacán, Atzitzintla, Axutla, Calpan, Caltepec, Camocuautla, Cañada Morelos, Chalchicomula de Sesma, Chapulco, Chiautla, Chiautzingo, Chichiquila, Chietla, Chigmecatitlán, Chignahuapan, Chila, Chila de La Sal, Chilchotla, Chinantla, Coatepec, Coatzingo, Cohetzala, Coronango, Coxcatlán, Coyomeapan, Coyotepec, Cuapiaxtla de Madero, Cuautempan, Cuautinchán, Cuautlancingo, Cuayuca de Andrade, Cuyoaco, Domingo Arenas, Eloxochitlán, Epatlán, Esperanza, General Felipe Angeles, Guadalupe, Guadalupe Victoria, Hermenegildo Galeana, Huaquechula, Huatlatlauca, Huauchinango, Huehuetlán El Chico, Huehuetlán El Grande, Huejotzingo, Huitziltepec, Ixcamilpa de Guerrero, Ixcaquixtla, Ixtacamaxtitlán, Izúcar de Matamoros, Jolalpan, Jopala, Juan C. Bonilla, Juan Galindo, Juan N. Méndez, La Magdalena Tlatlauquitepec, Lafragua, Libres, Los Reyes de Juárez, Mazapiltepec de Juárez, Mixtla, Molcaxac, Naupan, Nealtican, Nicolás Bravo, Nopalucan, Ocotepec, Ocoyucan, Oriental, Palmar de Bravo, Petlalcingo, Piaxtla, Puebla, Quecholac, Quimixtlán, Rafael Lara Grajales, San Andrés Cholula, San Antonio Cañada, San Diego La Mesa Tochimiltzingo, San Felipe Teotlalcingo, San Felipe Tepatlán, San Gabriel Chilac, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Jerónimo Xayacatlán, San José Chiapa, San José Miahuatlán, San Juan Atenco, San Juan Atzompa, San Martín Texmelucan, San Martín Totoltepec, San Matías Tlalancaleca, San Miguel Ixitlán, San Miguel Xoxtla, San Nicolás Buenos Aires, San Nicolás de Los Ranchos, San Pablo Anicano, San Pedro Cholula, San Pedro Yeloixtlahuaca, San Salvador El Seco, San Salvador El Verde, San Salvador Huixcolotla, San Sebastián Tlacotepec, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Santa Isabel Cholula, Santiago Miahuatlán, Santo Tomás Hueyotlipan, Soltepec, Tecali de Herrera, Tecamachalco, Tecomatlán, Tehuacán, Tehuitzingo, Teopantlán, Teotlalco, Tepanco de López, Tepango de Rodríguez, Tepatlaxco de Hidalgo, Tepeaca, Tepemaxalco, Tepeojuma, Tepetzintla, Tepexco, Tepexi de Rodríguez, Tepeyahualco, Tepeyahualco de Cuauhtémoc, Tetela de Ocampo, Tianguismanalco, Tilapa, Tlachichuca, Tlacotepec de Benito Juárez, Tlahuapan, Tlaltenango, Tlanepantla, Tlapanalá, Tlatlauquitepec, Tochimilco, Tochtepec, Totoltepec de Guerrero, Tulcingo, Tzicatlacoyan, Vicente Guerrero, Xayacatlán de Bravo, Xicotlán, Xochiltepec, Xochitlán Todos Santos, Yehualtepec, Zacapala, Zacapoaxtla, Zacatlán, Zapotitlán, Zaragoza, Zautla, Zinacatepec y Zoquitlán del Estado de Puebla.
+
+La Gerencia Divisional Centro Oriente cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Tlaxcala.
+
+2) Superintendencia Zona Tehuacan.
+
+3) Superintendencia Zona Matamoros.
+
+4) Superintendencia Zona San Martín.
+
+5) Superintendencia Zona Tecamachalco.
+
+6) Superintendencia Zona Puebla Poniente.
+
+7) Superintendencia Zona Puebla Oriente.
+
+8) Superintendencia Zona Pachuca.
+
+9) Superintendencia Zona Tulancingo, y
+
+10) Superintendencia Zona Tula.
+
+1) La Superintendencia Zona Tlaxcala tiene jurisdicción dentro del Estado de Puebla en los municipios de Ahuacatlán, Amixtlán, Aquixtla, Camocuatla, Chignahuapan, Coatepec, Cuautempan, Cuautlancingo, Cuautlancingo (sic), Hermenegildo Galeana, Ixtacamaxtitlán, Jopala, San Felipe Tepatlán, San José Chiapa, San Matías Tlalancaleca, Tepango de Rodríguez, Tepetzintla, Tetela de Ocampo, Tlahuapan y Zacatlán; dentro del Estado de Tlaxcala en los municipios de Acuamanala de Miguel Hidalgo, Altzayanca, Amaxac de Guerrero, Apetatitlán de Antonio Carvajal, Apizaco, Atlangatepec, Benito Juárez, Calpulalpan, Chiautempan, Contla de Juan Cuamatzi, Cuapiaxtla, Cuaxomulco, El Carmen Tequexquitla, Emiliano Zapata, Españita, Huamantla, Hueyotlipan, Ixtacuixtla de Mariano Matamoros, Ixtenco, La Magdalena Tlaltelulco, Lázaro Cárdenas, Mazatecochco de José María Morelos, Muñoz de Domingo Arenas, Nanacamilpa de Mariano Arista, Natívitas, Panotla, Papalotla de Xicohténcatl, San Damián Texoloc, San Francisco Tetlanohcan, San Jerónimo Zacualpan, San José Teacalco, San Juan Huactzinco, San Lorenzo Axocomanitla, San Lucas Tecopilco, Sanctórum de Lázaro Cárdenas, Santa Ana Nopalucan, Santa Apolonia Teacalco, Santa Catarina Ayometla, Santa Cruz Quilehtla, Santa Cruz Tlaxcala, Santa Isabel Xiloxoxtla, Tenancingo, Teolocholco, Tepeyanco, Terrenate, Tetla de La Solidaridad, Tetlatlahuca, Tlaxcala, Tlaxco, Tocatlán, Totolac, Tzompantepec, Xaloztoc, Xaltocan, Xicohtzinco, Yauhquemecan, Zacatelco y Zitlaltepec de Trinidad Sánchez Santos.
+
+2) La Superintendencia Zona Tehuacán tiene jurisdicción dentro del Estado de Puebla en los municipios de Ajalpan, Altepexi, Atexcal, Caltepec, Cañada Morelos, Chapulco, Coxcatlán, Coyomeapan, Eloxochitlán, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, San Sebastián Tlacotepec, Santiago Miahuatlán, Tehuacán, Tepanco de López, Tlacotepec de Benito Juárez, Vicente Guerrero, Xochitlán Todos Santos, Yehualtepec, Zapotitlán, Zinacatepec y Zoquitlán; dentro del Estado de Veracruz de Ignacio de la Llave en los municipios de Acultzingo y Tehuipango.
+
+3) La Superintendencia Zona Matamoros tiene jurisdicción dentro del Estado de Guerrero en los municipios de Atenango del Río, Huamuxtitlán y Xochihuehuetlán; dentro del Estado de Morelos en el municipio de Axochiapan; dentro del Estado de Oaxaca en los municipios de Cosoltepec, Heroica Ciudad de Huajuapan de León, San Pedro y San Pablo Tequixtepec y Santiago Chazumba; dentro del Estado de Puebla en los municipios de Acatlán, Ahuatlán, Ahuehuetitla, Albino Zertuche, Atlixco, Atzala, Atzitzihuacán, Axutla, Calpan, Chiautla, Chietla, Chila, Chila de la Sal, Chinantla, Coatzingo, Cohetzala, Cuayuca de Andrade, Epatlán, Guadalupe, Huaquechula, Huehuetlán El Chico, Huehuetlán El Grande, Ixcamilpa de Guerrero, Izúcar de Matamoros, Jolalpan, Nealtican, Ocoyucan, Petlalcingo, Piaxtla, San Diego La Mesa Tochimiltzingo, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Jerónimo Xayacatlán, San Martín Totoltepec, San Miguel Ixitlán, San Pablo Anicano, San Pedro Cholula, San Pedro Yeloixtlahuaca, Santa Isabel Cholula, Tecomatlán, Tehuitzingo, Teopantlán, Teotlalco, Tepemaxalco, Tepeojuma, Tepexco, Tianguismanalco, Tilapa, Tlapanalá, Tochimilco, Totoltepec de Guerrero, Tulcingo, Xayacatlán de Bravo, Xicotlán, Xochiltepec y Zacapala.
+
+4) La Superintendencia Zona San Martín tiene jurisdicción dentro del Estado de México en el municipio de Ixtapaluca; dentro del Estado de Puebla en los municipios de Calpan, Chiautzingo, Coronango, Domingo Arenas, Huejotzingo, Juan C. Bonilla, San Felipe Teotlalcingo, San Martín Texmelucan, San Matías Tlalancaleca, San Miguel Xoxtla, San Nicolás de Los Ranchos, San Pedro Cholula, San Salvador El Verde, Tlahuapan y Tlaltenango; dentro del Estado de Tlaxcala en los municipios de Ixtacuixtla de Mariano Matamoros, Natívitas, Santa Ana Nopalucan y Tepetitla de Lardizábal.
+
+5) La Superintendencia Zona Tecamachalco tiene jurisdicción dentro del Estado de Oaxaca en el municipio de Santiago Chazumba; dentro del Estado de Puebla en los municipios de Acajete, Acatzingo, Aljojuca, Atéxcal, Atoyatempan, Atzitzintla, Cañada Morelos, Chalchicomula de Sesma, Chapulco, Chichiquila, Chigmecatitlán, Chilchotla, Coatzingo, Coyotepec, Cuapiaxtla de Madero, Cuautinchán, Cuyoaco, Esperanza, General Felipe Angeles, Guadalupe Victoria, Huatlatlauca, Huehuetlán El Grande, Huitziltepec, Ixcaquixtla, Ixtacamaxtitlán, Juan N. Méndez, La Fragua, La Magdalena Tlatlauquitepec, Libres, Los Reyes de Juárez, Mazapiltepec de Juárez, Mixtla, Molcaxac, Ocotepec, Oriental, Palmar de Bravo, Quecholac, Quimixtlán, San José Chiapa, San Juan Atenco, San Juan Atzompa, San Nicolás Buenos Aires, San Salvador El Seco, San Salvador Huixcolotla, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Santo Tomás Hueyotlipan, Soltepec, Tecali de Herrera, Tecamachalco, Tepeaca, Tepexi de Rodríguez, Tepeyahualco, Tepeyahualco de Cuauhtémoc, Tlachichuca, Tlacotepec de Benito Juárez, Tlanepantla, Tlatlauquitepec, Tochtepec, Totoltepec de Guerrero, Tzicatlacoyan, Xochitlán Todos Santos, Yehualtepec, Zacapala, Zacapoaxtla, Zaragoza y Zautla; dentro del Estado de Veracruz de Ignacio de la Llave en los municipios de Acultzingo, Aquila, Ayahualulco, Calcahualco, Maltrata, Mariano Escobedo, Nogales y Perote; dentro del Estado de Tlaxcala en el municipio de El Carmen Tequexquitla.
+
+6) La Superintendencia Zona Puebla Poniente tiene jurisdicción dentro del Estado de Puebla en los municipios de Cuautlancingo, Ocoyucan, Puebla, San Andrés Cholula, San Gregorio Atzompa, San Jerónimo Tecuanipan, San Pedro Cholula y Santa Isabel Cholula; dentro del Estado de Tlaxcala en el municipio de San Pablo del Monte.
+
+7) La Superintendencia Zona Puebla Oriente tiene jurisdicción tiene jurisdicción (sic) dentro del Estado de Puebla en los municipios de Acajete, Acatzingo, Amozoc, Cuautinchán, Nopalucan, Puebla, Rafael Lara Grajales, San José Chiapa, Tepatlaxco de Hidalgo y Tzicatlacoyan; dentro del Estado de Tlaxcala en el municipio de San Pablo del Monte.
+
+8) La Superintendencia Zona Pachuca tiene jurisdicción dentro del Estado de Hidalgo en los municipios de Actopan, Ajacuba, Atotonilco el Grande, El Arenal, Epazoyucan, Francisco I. Madero, Huasca de Ocampo, Mineral de la Reforma, Mineral del Chico, Mineral del Monte, Omitlán de Juárez, Pachuca de Soto, San Agustín Metzquititlán, San Agustín Tlaxiaca, San Salvador, Santiago de Anaya, Tizayuca, Tolcayuca, Villa de Tezontepec, Zapotlán de Juárez y Zempoala.
+
+9) La Superintendencia Zona Tulancingo tiene jurisdicción dentro del Estado de Hidalgo en los municipios de Acatlán, Acaxochitlán, Almoloya, Apan, Cuautepec de Hinojosa, Emiliano Zapata, Huasca de Ocampo, Santiago Tulantepec de Lugo Guerrero, Singuilucan, Tepeapulco, Tlanalapa, Tulancingo de Bravo y Zempoala; dentro del Estado de Puebla en los municipios de Ahuazotepec, Chignahuapan, Honey, Huauchinango, Juan Galindo, Naupan y Zacatlán.
+
+10) La Superintendencia Zona Tula tiene jurisdicción tiene jurisdicción (sic) dentro del Estado de Hidalgo en los municipios de Ajacuba, Alfajayucan, Atitalaquia, Atotonilco de Tula, Chapantongo, Chilcuautla, Francisco I. Madero, Mixquiahuala de Juárez, Nopala de Villagrán, Progreso de Obregón, Tepeji del Río de Ocampo, Tepetitlán, Tetepango, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan y Tula de Allende.
+
+V. La Gerencia Divisional de Distribución Centro Sur tiene jurisdicción en los Estados de Guerrero, Morelos, Estado de México, Puebla y Michoacán.
+
+El Estado de Guerrero en todos sus municipios.
+
+En el Estado de Morelos en todos sus municipios.
+
+En el Estado de México en los municipios de Tlatlaya, Almoloya de Juárez, Acambay, Aculco, Atlacomulco, Chapa de Mota, El Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, San Bartola Morelos, Polotitlán, San Felipe del Progreso, Soyaniquilpan, Temascalcingo, Temoaya, Timilpan, Contepec, Tlalpujahua, San José del Rincón, Zimacantepec, Villa Victoria, Otzolotepec, Jilotepec, Villa del Carbón, Amanalco de Becerra, Tenancingo, Tetipac, Pilcaya, Almoyola de Juárez, San Andrés Timilpan, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás de los Plátanos, Valle de Bravo, Zacazonapan, Villa Guerrero, Zumpahuacan, Texcaltitlán, Almoloya de Alquisiras, Sultepec, Amatepec, San Simón Guerrero, Tejupilco, Temascaltepec, Luvianos, Coatepec Harinas, Ixtapan de la Sal, Tonatico y Villa de Allende.
+
+En el Estado de Michoacán en los municipios de Contepec, Tlalpujahua, Tzitzio, Tuzantla, Carácuaro, Huetamo, San Lucas, Tiquicheo de Nicolás Bravo, Maravatio y Senguio.
+
+En el Estado de Puebla en los municipios de Acteopan, Cohuecan, Chietla, Teotlalco, Tepexco, Tochimilco y Timimilcingo.
+
+La Gerencia Divisional de Distribución Centro Sur, cuenta con las siguientes Superintendencias de Zona:
+
+1) Superintendencia de Zona Acapulco.
+
+2) Superintendencia de Zona Altamirano.
+
+3) Superintendencia de Zona Chilpancingo.
+
+4) Superintendencia de Zona Iguala.
+
+5) Superintendencia de Zona Zihuatanejo.
+
+6) Superintendencia de Zona Morelos.
+
+7) Superintendencia de Zona Cuautla.
+
+8) Superintendencia de Zona Atlacomulco.
+
+9) Superintendencia de Zona Valle de Bravo, y
+
+10) Superintendencia de Zona Cuernavaca.
+
+1) La Superintendencia de Zona Acapulco tiene jurisdicción en: El Estado de Guerrero en los municipios de Acapulco de Juárez, Ometepec, San Marcos, San Luis Acatlán, Xochistlahuaca, Tlacoachistlahuaca, Cuajinicuilapa, Azoyú, Iliatenco, Igualapa, Marquelia, Juchitán, Copala, Florencio Villarreal, Cuauhtepec, Chilpancingo de los Bravo, de Coyuca de Benitez, Chochoapa el Grande y Malinaltepec.
+
+2) La Superintendencia de Zona Altamirano tiene jurisdicción en: El Estado de Guerrero, en los municipios de Ajuchitlán del Progreso, Apaxtla de Castrejón, Arcelia, Cocula, Coyuca de Catalán, Cutzamala de Pinzón, General Canuto A. Neri, General Heliodoro Castillo, Ixcateopan de Cuauhtémoc, Pedro Ascencio Alquisiras, Pungarabato, San Miguel Totolapan, Tlalchapa, Tlapehuala, Zirándaro de los Chavez Teloloapan de Cuetzala del Progreso.
+
+En el Estado de México en los municipios de Tlatlaya, Luvianos y Tejuplilco.
+
+En el Estado de Michoacán en los municipios de Carácuaro, Huetamo, San Lucas, Tiquicheo de Nicolás Romero, Tzitzio, Tuzantla.
+
+3) La Superintendencia de Zona Chilpancingo tiene jurisdicción en: El Estado de Guerrero en los municipios de Tixtla de Guerrero, Ahuacotzingo, Atlixtac, Zitlala, Chilapa de Alvarez, José Joaquín Herrera, Juan R. Escudero, Mochitlán, Quechultenango, Acatepec, Alcozauca de Guerrero, Alpoyeca, Atlamajalcingo del Monte, Copanatoyac, Cualac, Huamuxtitlán, Olinalá, Tlacoapa, Tlalixtlaquilla de Maldonado, Tlapa de Comonfort, Xalpatlahuac, Zapotitlán Tablas, Cochoapa, Leonardo Bravo, Mártir de Cuilapan, Malinaltepec, Metlatonoc Ayutla de los Libre, Tecoanapa, Eduardo Neri y General Heliodoro Castillo.
+
+4) La Superintendencia de Zona Iguala tiene jurisdicción en: El Estado de Guerrero en los municipios de Cocula, Tepecoacuilco de Trujano, Huitzuco de los Figueroa, Iguala de la Independencia, Atenango del Río, Copalillo, Taxco de Alarcón y Buenavista de Cuellar.
+
+5) La Superintendencia de Zona Zihuatanejo tiene jurisdicción en: El Estado de Guerrero en los municipios de Zihuatanejo Azueta, Petatlán, Tecpan de Galeana, Benito Juárez, Atoyac de Alvarez, La Unión de Isidoro Montes de Oca, Coahuayutla de José María Izazaga, Coyuca de Benitez, Acapulco de Juárez y Chilpancingo de los Bravo.
+
+6) La Superintendencia de Zona Morelos tiene jurisdicción en: El Estado de Morelos en los municipios de Jiutepec, Emiliano Zapata, Jojutla, Zacatepec de Hidalgo, Tlaquiltenango, Tlaltizapán, Puente de Ixtla, Amacuzac, Coatlán del Río, Mazatepec y Tetecala, Temixco, Xochitepec y Miacatlán.
+
+En el Estado de Guerrero, en los municipios de Buenavista de Cuellar, Pilcaya y Taxco de Alarcón.
+
+7) La Superintendencia de Zona Cuautla tiene jurisdicción en: El Estado de Morelos en los municipios de Tepoztlán, Tlalnepantla, Totolapan, Tlayacapan, Atlatlahucan, Ocuituco, Tetela del Volcán, Yecapixtla, Cuautla, Yautepec, Zacualpan de Amilpan, Temoac, Villa de Ayala, Jantetelco, Jonacatepec, Tepalcingo y Axochiapan.
+
+En el Estado de Puebla en los municipios de Acteopan, Chietla, Cohuecan, Teotlalco, Tochimilco.
+
+8) La Superintendencia de Zona Atlacomulco tiene jurisdicción en: El Estado de México en los municipios de Almoloya de Juárez, Temoaya, Atlacomulco, Jocotitlán, San Felipe del Progreso, San Bartolo Morelos, Temascalcingo, Aculco, Acambay, Polotitlán, Ixtlahuaca, Jiquipilco, Jilotepec, San Andres Timilpan, Chapa de Mota, San Francisco Soyaniquilpan, Villa del Carbón, El Oro;
+
+En el Estado de Michoacán en los municipios de Contepec, Tlalpujahua, Senguio y Maravatio.
+
+En el Estado de México en los municipios de San José del Rincón, Zinacantepec, Villa Victoria, Toluca, Villa del Carbón y Almoloya de Juárez.
+
+9) La Superintendencia de Zona Valle de Bravo tiene jurisdicción en: El Estado de México en los municipios de Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás de los Plátanos, Amanalco de Becerra, Valle de Bravo, Zacazonapan, Villa Guerrero, Zumpahuacan, Texcaltitlán, Almoloya de Juárez, Tlatlaya, San Felipe del Progreso
+
+En el Estado de Guerrero en el municipio de Tetipac.
+
+En el Estado de Michoacán en los municipios de Susupuato y Tuzantla.
+
+10) Superintendencia de Zona Cuernavaca tiene jurisdicción en: El Estado de Morelos en los municipios de Cuernavaca, Huitzilac, Temixco, Xochitepec y Miacatlán.
+
+VI. La Gerencia Divisional de Distribucion Golfo Centro tiene jurisdicción en el Estado de Tamaulipas; en los municipios de Abasolo, Aldama, Altamira, Antiguo Morelos, Burgos, Bustamante, Casas, Ciudad Madero, Cruillas, Gómez Farías, González, Güemez, Hidalgo, Jaumave, Jiménez, Llera, Mainero, Mante, Méndez, Miquihuana, Nuevo Morelos, Ocampo, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Tampico, Tula, Victoria, Villagran, Xicoténcatl. En el Estado de San Luis Potosí en los municipios de Ahualulco, Alaquines, Aquismon, Armadillo de Los Infante, Cárdenas, Catorce, Cedral, Cerritos, Cerro de San Pedro, Ciudad del Maíz, Ciudad Fernández, Tancanhuitz de Santos, Ciudad Valles, Coxcatlan, Charcas, Ebano, Guadalcazar, Huehuetlan, Lagunillas, Matehuala, Mexquitic de Carmona, Moctezuma, Rayón, Rioverde, San Antonio, San Ciro de Acosta, San Luis Potosí, San Martín, Chalchicuautla, San Nicolás Tolentino, Santa Catarina, Santa María del Rio, Santo Domingo, San Vicente, Tancuayalab, Soledad de Graciano Sánchez, Tamasopo, Tamazunchale, Tampacan, Tampamolon Corona, Tamuin, Tanlajas, Tanquian de Escobedo, Tierra Nueva, Vanegas, Venado, Villa De Guadalupe, Villa de La Paz, Villa De Reyes, Villa Hidalgo, Villa Juárez, Axtla de Terrazas, Xilitla, Zaragoza, Villa de Arista, Matlapa, El Naranjo. En el estado de Veracruz en los municipios de Amatlan Tuxpam, Citlaltepetl, Chalma, Chiconamel, Chinampa de Gorostiza, Chontla, Huayacocotla, Ilamatlán, Ozuluma, Pánuco, Platón Sánchez, Pueblo Viejo, Tamalín, Tamiahua, Tampico Alto, Tancoco, Tantima, Tantoyuca, Tempoal, Texcatepec, Zacualpan, Zontecomatlan, El Higo. En el estado de Hidalgo en los municipios de Agua Blanca de Iturbide, Atlapexco, Calnali, Eloxochitlán, Huautla, Huazalingo, Huehuetla, Huejutla de Reyes, Ixmiquilpan, Matacán, Juárez Hidalgo, Lolotla, Metepec, Metztitlán, Molango de Escamilla, San Felipe Orizatlán, San Bartolo Tutotepec, San Agustin (Metzquititlan) Tlaxcala, Tenango de Doria, Tepehuacán de Guerrero, Tianguistengo, Tlahuiltepa, Tlanchinol, Xochiatipan, Xochicoatlán, Ahualica, Zacualtipán De Angeles. En el Estado de Querétaro en los municipios de Pinal de Amoles, Arroyo Seco, Jalpan de Serra, Landa de Matamoros. En el Estado de Puebla en los municipios de Honey, Oriental, Pahuatlan, Tlacuilotepec, Tlaxco. En el Estado de Guanajuato; San Luis de La Paz, Victoria Xichu. En el estado de Zacatecas en los municipios de Concepción del Oro, Mazapil. En el Estado de Nuevo León en el municipio de Doctor Arroyo.
+
+La Gerencia Divisional de Distribución Golfo Centro cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Tampico.
+
+2) Superintendencia Zona Mante.
+
+3) Superintendencia Zona Victoria.
+
+4) Superintendencia Zona Matehuala.
+
+5) Superintendencia Zona San Luis Potosí.
+
+6) Superintendencia Zona Rio Verde.
+
+7) Superintendencia Zona Valles, y
+
+8) Superintendencia Zona Huejutla.
+
+1) La Superintendencia Zona Tampico tiene jurisdicción dentro del Estado de Tamaulipas en los municipios de Ciudad Madero, Tampico, Aldama, Altamira, dentro del Estado de Veracruz en los municipios de Naranjos, Amatlan, Citlaltepetl, Chinampa de Gorostiza, Tamalin, Tampico Alto, Tantima, Ozuluama, Panuco, Pueblo Viejo, Tamiahua, Chontla, Tancoco.
+
+2) La Superintendencia Zona Mante tiene jurisdicción dentro del Estado de Tamaulipas en los municipios de Antiguo Morelos, Gómez Farías, González, Mante, Nuevo Morelos, Ocampo, Xicoténcatl, Aldama, Altamira, Llera, Méndez, dentro del Estado de San Luis Potosí en el municipio de Ciudad Valles.
+
+3) La Superintendencia Zona Victoria tiene jurisdicción dentro del Estado de Tamaulipas en los municipios de Abasolo, Burgos, Casas, Cruillas, Güemez, Hidalgo, Jaumave, Jiménez, Mainero, Miquihuana, Padilla, Palmillas, San Carlos, San Nicolás, Soto la Marina, Victoria, Villagrán, Aldama, Bustamante, Llera, Méndez, Tula.
+
+4) La Superintendencia Zona Matehuala tiene jurisdicción dentro del Estado de San Luis Potosí en los municipios de Catorce, Cedral, Charcas, Santo Domingo, Vanegas, Villa de Guadalupe, Villa de Arista, Matehuala, Moctezuma, Venado, Ahualulco, Guadalcázar, San Luis Potosí, Villa de la Paz, Villa Hidalgo, dentro de Estado de Tamaulipas en los municipios de Bustamante, Tula, dentro del Estado de Zacatecas en los Municipios de Concepción del Oro, Mazapil, dentro del Estado de Nuevo León en el municipio de Doctor Arroyo.
+
+5) La Superintendencia Zona San Luis Potosí tiene jurisdicción dentro del Estado de San Luis Potosí en los municipios de Armadillo de los Infante, Cerro de San Pedro, Mexquitic de Carmona, Soledad de Graciano Sánchez, Tierra Nueva, Villa de Reyes, Zaragoza, Santa María del Río, Ahualulco, Cerritos, San Luis Potosí, San Nicolás Tolentino, Villa Hidalgo.
+
+6) La Superintendencia Zona Río Verde tiene jurisdicción dentro del Estado de San Luis Potosí en los municipios de Alaquines, Cárdenas, Ciudad del Maíz, Ciudad Fernández, Lagunillas, Rayón, Río Verde, San Ciro de Acosta, Santa Catarina, Tamasopo, Villa Juárez, El Naranjo, Cerritos, Ciudad Valles, Guadalcázar, San Nicolás Tolentino, Villa Hidalgo, en el Estado de Querétaro en los municipios de Jalpan de Serra, Landa de Matamoros, Pinal de Amoles, Arroyo seco, en el Estado de Guanajuato en los municipios de San Luis de la Paz, Victoria, Xichu .
+
+7) La Superintendencia Zona Valles tiene jurisdicción dentro del Estado de San Luis Potosí en los municipios de Aquismó, Tancanhuitz de Santos, Ebano, Huehuetlán, San Antonio, San Martín Chalchicuautla, San Vicente Tancuayalab, Tamazunchale, Tampamolón Corona, Tanlajas, Axtla de Terrazas, Xilitla, Matlapa San Luis Potosí, Coxcatlán, Tampacan, San Luis Potosí, Tamuín, Ciudad Valles, Tanquián de Escobedo, en el Estado de Veracruz en el municipio de Pánuco, en el Estado de Hidalgo en los municipios de Lolotla, San Felipe Orizatlán, Tepehuacán de Guerrero.
+
+8) La Superintendencia Zona Huejutla tiene jurisdicción dentro de los Estados (sic) de Veracruz, en los municipios de Chalma, Chiconamel, Huayacocotla, Ilamatlán, Platón Sánchez, El Higo, Tantoyuca, Tempoal, Zacualpan en el Estado de Hidalgo en los municipios de Agua Blanca de Iturbide, Atlapexco Calnali, Huazalingo, Ixmiquilpan, Jaltocán, Juárez, Lolotla, Metepec, Molango de Escamilla, Metztitlán, San Bartolo Tutotepec, San Agustín (Metzquititlán) Tlaxcala, Tenango de Doria, Tepehuacán de Guerrero, Tianguistengo, Tlanchinol, Xochicoatlán, Yahualica, Zacualtipán de Angeles, en el Estado de Puebla en los municipios de Honey, Pahuatlán Tlaxco, en el Estado de Veracruz en los municipios de Texcatepec Zontecomatlán, en el Estado de San Luis Potosí en el municipio de San Nicolás Tolentino en el Estado de Hidalgo en los municipios de Eloxochitlán, Huautla, Huehuetla San Felipe Orizatlán, Tlahuiltepa, Xochiatipán, Estado de Puebla Oriental, Tlacuilotepec Oriental.
+
+VII. La Gerencia Divisional de Distribución Golfo Norte tiene jurisdicción en el Estado de Nuevo León, en los municipios de Abasolo, Agualeguas, Los Aldamas, Allende, Anáhuac, Apodaca, Aramberri, Bustamante, Cadereyta Jiménez, El Carmen, Cerralvo, Ciénega de Flores, China, Doctor Arroyo, Doctor Coss, Doctor González, Galeana, García, San Pedro Garza García, General Bravo, General Escobedo, General Terán, General Treviño, General Zaragoza, General Zuazua, Guadalupe, Los Herreras, Higueras, Hualahuises, Iturbide, Benito Juárez, Lampazos de Naranjo, Linares, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Monterrey, Parás, Pesquería, Los Ramones, Rayones, Sabinas Hidalgo, Salinas Victoria, San Nicolás de los Garza, Hidalgo, Santa Catarina, Santiago, Vallecillo y Villaldama del Estado de Coahuila, en los municipios de Abasolo, Acuña, Allende, Arteaga, Candela, Castaños, Cuatrociénegas, Escobedo, Frontera, General Cepeda, Guerrero, Hidalgo, Jiménez, Juárez, Lamadrid, Monclova, Morelos, Múzquiz, Nadadores, Nava, Ocampo, Piedras Negras, Progreso, Ramos Arizpe, Sabinas, Sacramento, Saltillo, San Buenaventura, San Juan de Sabinas, Villa Unión y Zaragoza del Estado de Tamaulipas, en los municipios de Burgos, Bustamante, Camargo, Guerrero, Gustavo Díaz Ordaz, Matamoros, Méndez, Mier, Miguel Alemán, Nuevo Laredo, Reynosa, Río Bravo, San Fernando, Tula, Valle Hermoso y Villagrán.
+
+La Gerencia Divisional de Distribución Golfo Norte cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Cerralvo.
+
+2) Superintendencia Zona Montemorelos.
+
+3) Superintendencia Zona Metropolitana Norte.
+
+4) Superintendencia Zona Metropolitana Oriente.
+
+5) Superintendencia Zona Metropolitana Poniente.
+
+6) Superintendencia Zona Piedras Negras.
+
+7) Superintendencia Zona Sabinas.
+
+8) Superintendencia Zona Monclova.
+
+9) Superintendencia Zona Saltillo.
+
+10) Superintendencia Zona Nuevo Laredo.
+
+11) Superintendencia Zona Reynosa, y
+
+12) Superintendencia Zona Matamoros.
+
+1) La Superintendencia Zona Cerralvo tiene jurisdicción dentro del Estado de Nuevo León en los municipios de Agualeguas, Los Aldamas, Bustamante, Cerralvo, China, Doctor Coss, Doctor González, General Bravo, General Treviño, Los Herreras, Melchor Ocampo, Parás, Los Ramones, Sabinas Hidalgo, Vallecillo y Villaldama y del Estado de Tamaulipas en el municipio de Miguel Alemán.
+
+2) La Superintendencia Zona Montemorelos tiene jurisdicción dentro del Estado de Nuevo León en los municipios de Allende, Aramberri, Cadereyta Jiménez, China, Doctor Arroyo, Galeana, General Terán, General Zaragoza, Hualahuises, Iturbide, Linares, Mier y Noriega, Montemorelos, Rayones y Santiago y del Estado de Tamaulipas en los municipios de Burgos, Bustamante, Tula y Villagrán.
+
+3) La Superintendencia Zona Metropolitana Norte tiene jurisdicción dentro del Estado de Nuevo León en los municipios de Abasolo, Apodaca, El Carmen, General Escobedo, Mina, Monterrey, Salinas Victoria, San Nicolás de los Garza, Hidalgo y Ciénega de Flores.
+
+4) La Superintendencia Zona Metropolitana Oriente tiene jurisdicción dentro del Estado de Nuevo León en los municipios de Apodaca, Doctor González, General Zuazua, Guadalupe, Higueras, Marín, Juárez, Cadereyta, Pesquería y San Nicolás de los Garza.
+
+5) La Superintendencia Zona Metropolitana Poniente tiene jurisdicción dentro del Estado de Nuevo León en los municipios de García, San Pedro, Monterrey y Santa Catarina.
+
+6) La Superintendencia Zona Piedras Negras tiene jurisdicción dentro del Estado de Coahuila en los municipios de Acuña, Allende, Guerrero, Jiménez, Morelos, Nava, Piedras Negras, Villa Unión y Zaragoza.
+
+7) La Superintendencia Zona Sabinas tiene jurisdicción dentro del Estado de Coahuila en los municipios de Escobedo, Juárez, Múzquiz, Progreso, Sabinas y San Juan de Sabinas.
+
+8) La Superintendencia Zona Monclova tiene jurisdicción dentro del Estado de Coahuila en los municipios de Abasolo, Candela, Cuatrociénegas, Castaños, Escobedo, Frontera, Lamadrid, Monclova, Nadadores, Ocampo, Sacramento y San Buenaventura.
+
+9) La Superintendencia Zona Saltillo tiene jurisdicción dentro del Estado de Coahuila en los municipios de Arteaga, General Cepeda, Ramos Arizpe, Saltillo y Parras de la fuente, así también, dentro del Estado de Nuevo León en los municipios de Galeana, García, Mina y Santa Catarina.
+
+10) La Superintendencia Zona Nuevo Laredo tiene jurisdicción dentro del Estado de Tamaulipas en los municipios de Camargo, Guerrero, Mier, Miguel Alemán y Nuevo Laredo, así también, dentro del Estado de Nuevo León en los municipios de Anáhuac y Lampazos, y del Estado de Coahuila en los municipios de Hidalgo y Candela.
+
+11) La Superintendencia Zona Reynosa tiene jurisdicción dentro del Estado de Tamaulipas en los municipios de Díaz Ordaz, Reynosa, Rio Bravo y San Fernando, y del Estado de Nuevo León en el municipio de General Bravo.
+
+12) La Superintendencia Zona Matamoros tiene jurisdicción dentro del Estado de Tamaulipas en los municipios de Matamoros, Méndez, San Fernando y Valle Hermoso.
+
+VIII. La Gerencia Divisional de Distribución Jalisco tiene jurisdicción en el Estado de Sinaloa, en el municipio de Escuinapa, del Estado de Zacatecas, en los municipios de Apulco y Nochistlán de Mejía, del Estado de Michoacan, en los municipios de Briseñas de Matamoros y Venustíano Carranza del Estado de Nayarit, en los municipios de Acaponeta, Ahuacatlan, Amatlan de Cañas, Compostela, Huajicori, Ixtlan del Rio, Jala, Xalisco, El Nayar, Rosamorada, Ruiz, San Blas, San Pedro Lagunillas, Santa María del Oro, Santiago Ixcuintla, Tecuala, Tepic, Tuxpan, La yesca, Bahía de banderas, del Estado de Jalisco; en los municipios de Acatic, Acatlan de Juárez, Ahualulco de Mercado, Amacueca, Amatitán, Ameca, Antonio Escobedo, Arandas, Arenal, Atemajac de Brizuela, Atengo, Atenguillo, Atotonilco el Alto, Atoyac, Autlan de Navarro, Ayutla, La Barca, Bolaños, Cabo Corrientes, Ciudad Guzmán, Cocula, Concepcion de Buenos Aires, Cuautla, Cuquio, Chapala, Chiquilistlan, Ejutla, Etzatlán, El Grullo, Guachinango, Guadalajara, Hostotipaquillo, Ixtlahuacán de los Membrillos, Ixtlahuacán Del Río, Jalostotitlán, Jamay, Jocotepec, Juanacatlán, Juchitlán, El Limón, Magdalena, Manuel M Dieguez, La Manzanilla De La Paz, Mascota, Mazamitla, Mexticacán, Mezquitic, Mixtlán, Ocotlán, Poncitlán, Puerto Vallarta, Quitupán, El Salto, San Cristobal De La Barranca, San Juan De Los Lagos, San Julían, San Marcos, San Martín Hidalgo, San Miguel El Alto, Gómez Farías, San Sebastían Del Oeste, Sayula, Tala, Talpa De Allende, Tamazula De Gordiano, Tapalpa, Tecalitlán, Tecolotlán, Techaluta De Montenegro, Tenamaxtlán, Teocaltiche, Teocuitatlán De Corona, Tepatitlán De Morelos, Tequila, Teuchitlán, Tizapan El Alto, Tlajomulco De Zuñiga, Tlaquepaque, Tolimán, Tomatlán, Tonala, Tonaya, Tototlán, Tuxcacuesco, Tuxcueca, Tuxpan, Unión De Tula, Valle De Guadalupe, San Gabriel, Villa Corona, Cañadas De Obregón, Yahualica De Glez Gallo, Zacoalco De Torres, Zapopan, Zapotiltic, Zapotitlán De Vadillo, Zapotlán Del Rey, Zapotlanejo.
+
+La Gerencia Divisional de Distribución Jalisco cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Guadalajara.
+
+2) Superintendencia Sector Juárez.
+
+3) Superintendencia Sector Hidalgo.
+
+4) Superintendencia Sector Reforma.
+
+5) Superintendencia Sector Libertad.
+
+6) Superintendencia Zona Los Altos.
+
+7) Superintendencia Zona Ciénega.
+
+8) Superintendencia Zona Zapotlán.
+
+9) Superintendencia Zona Costa.
+
+10) Superintendencia Zona Minas.
+
+11) Superintendencia Zona Chapala.
+
+12) Superintendencia Zona Santiago.
+
+13) Superintendencia Zona Tepic, y
+
+14) Superintendencia Zona Vallarta.
+
+1) La Superintendencia Zona Guadalajara tiene jurisdicción dentro del Estado de Jalisco en los municipios Cuquio, Guadalajara, Ixtlahuacan del Rio, Tesistan, El Salto, Tlajomulco de Zuñiga, Tlaquepaque, Tonala y Zapopan.
+
+2) La Superintendencia Sector Juárez tiene jurisdicción dentro del Estado de Jalisco en los municipios de Tlajomulco de Zuñiga, Tlaquepaque, Tonala y Zapopan.
+
+3) La Superintendencia Sector Hidalgo tiene jurisdicción dentro del Estado de Jalisco en los municipios de Guadalajara, Tesistan, San Cristóbal de la Barranca y Zapopan.
+
+4) La Superintendencia Sector Reforma tiene jurisdicción dentro del Estado de Jalisco en los municipios de El Salto, Tlajomulco de Zuñiga, Tlaquepaque, Tonala y Guadalajara.
+
+5) La Superintendencia Sector Libertad tiene jurisdicción dentro del Estado de Jalisco en los municipios de Cuquio, Guadalajara, Ixtlahuacan del Río y Tonala.
+
+6) La Superintendencia Zona Los Altos tiene jurisdicción dentro del Estado de Jalisco en los municipios de Acatic, Arandas, Atototonilco el alto, Cuquio, Jalostotitlan, Mezticacan, San Juan de los Lagos, San Julián, Bolaños, Mezquitic, San Miguel el Alto, Teocaltiche, Tepatitlan de Morelos, Valle de Guadalupe, Cañadas de Obregón, Yahualica de Glez Gallo; dentro del Estado de Zacatecas en los municipios de Apulco y Nochistlan de Mejia.
+
+7) La Superintendencia Zona Ciénega tiene jurisdicción dentro del Estado de Jalisco en los municipios de Atotonilco el Alto, La Barca, Zapotlan del Rey, Quitupan, Jamay, Ocotlan, Poncitlan, Tototlan; dentro del Estado de Michoacán, Briceño de Matamoros y Venustiano Carranza.
+
+8) La Superintendencia de Zona Zapotlan tiene jurisdicción dentro del Estado de Jalisco en los municipios de Amecueca, Mazamitla, Gómez Farias, Atemajac de Brizuela, Atoyac, Ciudad Guzman, Manuel M Dieguez, Sayula, Tamazula de Gordiano, Tapalpa, Tecalitlan, Toliman, Tuxpan, San Gabriel, Zapotitlan de Vadillo
+
+9) La Superintendencia de Zona Costa tiene jurisdicción dentro del Estado de Jalisco en los municipios de Atemajac de Brizuela, Atengo, Atenguillo, Autlan de Navarro, Ayutla , Cocula, Cuautla, Chiquilistlan, Ejutla, Chiquilistlan, El Grullo, Guachinango, Juchitlan, El Limón, Mascota, Mixtlan, San Sebastián del Oeste, Talpa de Allende, Tecolotlan, Tenamaxtlan, Tomatlan, Tonaya, Tuxcacuesco y Unión de Tula.
+
+10) La Superintendencia de Zona Minas tiene jurisdicción dentro del Estado de Jalisco en los municipios de Ahualulco de Mercado, Amatitan, Ameca, Cocula, Etzatlan, Hostotipaquillo, Magdalena, San Marcos, San Martín Hidalgo, Tala, Tequila, Teuchitlan, Zapopan, Arenal y Antonio de Escobedo.
+
+11) La Superintendencia de Zona Chapala tiene jurisdicción dentro del Estado de Jalisco en los municipios de Acatlan de Juárez, Atemajac de Brizuela, Cocula, Concepción de Buenos Aires, Chapala, Ixtlahuacan de los Membrillos, Jocotepec, Juanacatlan, La Manzanilla de la Paz, Poncitlan, El Salto, San Martín Hidalgo, Tala, Techaluta de Montenegro, Teocuitatlan de Corona, Tepatitlan de Morelos, Tizapan El Alto, Tlajomulco de Zuñiga, Tonala, Tuxcueca, Villa Corona, Zacoalco de Torres, Zapotlanejo.
+
+12) La Superintendencia Zona Santiago tiene jurisdicción dentro del Estado de Nayarit en los municipios de Acaponeta, Huajicori, Ruiz, San Blas, Santiago Ixcuintla, Tecuala y Tuxpan; en el Estado de Sinaloa en el municipio de Escuinapa.
+
+13) La Superintendencia Zona Tepic tiene jurisdicción dentro del Estado de Jalisco en los municipios de Guachinango y San Sebastián del Oeste; dentro del Estado de Nayarit en los municipios de Ahuacatlan, Amatlan de cañas, Compostela, Ixtlan del Rió, Jala, Xalisco, Nayar, Rosamorada, San Pedro Lagunillas, Santa Maria del Oro, Tepic y La Yesca.
+
+14) La Superintendencia Zona Vallarta tiene jurisdicción dentro del Estado de Jalisco en los municipios de Cabo Corrientes, Puerto Vallarta, Villa Purificación, Talpa de Allende, Tomatlan; dentro del Estado de Nayarit en los municipios de Compostela, y Bahía de Banderas.
+
+IX. La Gerencia Divisional de Distribución Noroeste tiene jurisdicción en el Estado de Sonora, en los municipios de: Aconchi, Agua Prieta, Alamos, Altar, Arivechi, Arizpe, Util, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bacum, Banámichi, Babiácora, Bavispe, Benito Juárez, Benjamín Hill, Caborca, Cajeme, Cananea, Carbó, Cucurpe, Cumpas, Divisaderos, Empalme, Etchojoa, Fronteras, Granados, Guaymas, Hermosillo, Huachinera, Huásabas, Huatabampo, Huépac, Imuris, La Colorada, Magdalena, Mazatán, Moctezuma, Náco, Nácori Chico, Nacozari, Navojoa, Nogales, Onavas, Opodepe, Oquitoa, Pitiquito, Quiriego, Rayón, Rosario, Sahuaripa, San Felipe de Jesús, San Ignacio Río Muerto, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Santa Ana, Santa Cruz, Saric, Soyopa, Suaqui Grande, Tepache, Trincheras, Tubutama, Ures, Villa Hidalgo, Villa Pesqueira y Yécora, en el Estado de Sinaloa en los municipios de: Ahome, Angostura, Badiraguato, Choix, Concordia, Cosalá, Culiacán, El Fuerte, Elota, Escuinapa, Guasave, Mazatlàn, Mocorito, Navolato, Rosario, Salvador Alvarado, San Ignacio y Sinaloa de Leyva y en el Estado de Durango en el municipio de Tamazula.
+
+La Gerencia Divisional de Distribución Noroeste, cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Nogales.
+
+2) Superintendencia Zona Caborca.
+
+3) Superintendencia Zona Hermosillo.
+
+4) Superintendencia Zona Guaymas.
+
+5) Superintendencia Zona Obregón.
+
+6) Superintendencia Zona Navojoa.
+
+7) Superintendencia Zona Los Mochis.
+
+8) Superintendencia Zona Guasave.
+
+9) Superintendencia Zona Culiacán, y
+
+10) Superintendencia Zona Mazatlán.
+
+1) La Superintendencia Zona Nogales tiene jurisdicción dentro del Estado de Sonora en los municipios de: Agua Prieta, Arizpe, Bacadéhuachi, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Cananea, Cucurpe, Cumpas, Divisaderos, Fronteras, Granados, Huachinera, Huásabas, Imuris, Magdalena, Moctezuma, Náco, Nácori Chico, Nacozari, Nogales, Opodepe, Santa Ana, Santa Cruz, Tepache, Trincheras, Tubutama y Villa Hidalgo.
+
+2) La Superintendencia Zona Caborca tiene jurisdicción dentro del Estado de Sonora en los municipios de: Altar, Àtil, Caborca, Oquitoa, Pitiquito, Saric y Tubutama.
+
+3) La Superintendencia Zona Hermosillo tiene jurisdicción dentro del Estado de Sonora en los municipios de: Aconchi, Arivechi, Arizpe, Bacanora, Banámichi, Babiácora, Carbó, Hermosillo, Huépac, La Colorada, Mazatán, Onavas, Opodepe, Pitiquito, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, y Villa Pesqueira.
+
+4) La Superintendencia Zona Guaymas tiene jurisdicción dentro del Estado de Sonora en los municipios de: Empalme y Guaymas.
+
+5) La Superintendencia Zona Obregón, tiene jurisdicción dentro del Estado de Sonora en los municipios de: Bacum, Cajeme, Guaymas, Navojoa, Rosario de Tesopaco, San Ignacio Río Muerto y Yécora.
+
+6) La Superintendencia Zona Navojoa tiene jurisdicción dentro del Estado de Sonora en los municipios de: Alamos, Benito Juárez, Cajeme, Etchojoa, Huatabampo, Navojoa y Quiriego.
+
+7) La Superintendencia Zona Los Mochis tiene jurisdicción dentro del Estado de Sinaloa en los municipios de: Ahome, Choix, Guasave, El Fuerte y Sinaloa de Leyva y en el Estado de Sonora en los municipios de: Alamos, Huatabampo y Navojoa.
+
+8) La Superintendencia Zona Guasave tiene jurisdicción dentro del Estado de Sinaloa en los municipios de: Angostura, Guasave, Mocorito, Salvador Alvarado y Sinaloa de Leyva.
+
+9) La Superintendencia Zona Culiacán tiene jurisdicción dentro del Estado de Sinaloa en los municipios de: Angostura, Badiraguato, Cosalá, Culiacán, Elota, Mocorito y Navolato y en el Estado de Durango en el municipio de Tamazula.
+
+10) La Superintendencia Zona Mazatlán tiene jurisdicción dentro del Estado de Sinaloa en los municipios de: Concordia, Elota, Escuinapa, Mazatlán, El Rosario y San Ignacio.
+
+X. La Gerencia Divisional de Distribución Norte, tiene jurisdicción en los Estados de Chihuahua, Durango y en los municipios de Francisco I. Madero, General Cepeda, Matamoros, Ocampo, Parras, San Pedro, Sierra Mojada, Torreón y Viesca del Estado de Coahuila.
+
+La Gerencia Divisional de Distribución Norte cuenta con las siguientes Superintendencias de Zona:
+
+1) La Superintendencia de Zona Chihuahua.
+
+2) La Superintendencia de Zona Cuauhtémoc.
+
+3) La Superintendencia de Zona Delicias.
+
+4) La Superintendencia de Zona Casas Grandes.
+
+5) La Superintendencia de Zona Juárez.
+
+6) La Superintendencia de Zona Parral.
+
+7) La Superintendencia de Zona Durango.
+
+8) La Superintendencia de Zona Gómez Palacio, y
+
+9) La Superintendencia de Zona Torreón.
+
+1) La Superintendencia de Zona Chihuahua tiene jurisdicción en los municipios de Chihuahua, Aldama, Aquiles Serdán, Ojinaga, Manuel Benavides, Coyame del Sotol.
+
+2) La Superintendencia de Zona Cuauhtémoc tiene jurisdicción en los municipios de Bachiniva, Bocoyna, Carichic, Cuauhtémoc, Cusihuiriachic, Chinipas, Doctor Belisario Domínguez, Gómez Farías, Gran Morelos, Guazapares, Guerrero, Ignacio Zaragoza, Madera, Maguarichic, Matachic, Moris, Nonoava, Namiquipa, Ocampo, San Francisco de Borja, Temosachic, Urique, Uruachic; en la población de Santa Rosa de Trías del Municipio de Santa Isabel.
+
+3) La Superintendencia de Zona Delicias tiene jurisdicción en los municipios de Camargo, Delicias, La Cruz, Julimes, Meoqui, Rosales, San Francisco de Conchos, Saucillo, Sierra Mojada, Coah.
+
+4) La Superintendencia de Zona Casas Grandes tiene jurisdicción en los municipios de Ascensión, Casas Grandes, Galeana, Janos, Nuevo Casas Grandes, Ahumada.
+
+5) La Superintendencia de Zona Juárez tiene jurisdicción en los municipios de Chihuahua de Juárez, Praxedis G Guerrero, Guadalupe, Buenaventura.
+
+6) La Superintendencia de Zona Parral tiene jurisdicción en los municipios de Hidalgo del Parral, Chih, Villa Matamoros, Chih, Balleza, Chih, Huejotitán, Chih, Valle del Rosario, Chih, El Tule, Chih, Santa Bárbara, Chih, Valle de Zaragoza, Chih, Satevo, Chih., Urique, Chih., Villa Ocampo, Dgo, San Fco del Oro, Chih, Gpe y Calvo, Chih, Valle de Allende, Chih., Guachochi, Chih., Batopilas, Chih, Morelos, Chih, Jiménez, Chih, Villa Coronado, Chih, Villa López, Chih, Inde, Dgo., Villa Hidalgo, Dgo., Guanacevi, Dgo., Tamazula, Dgo., Sta. Ma. Del Oro, Dgo., San Bernardo, Dgo., Guachochi.
+
+7) La Superintendencia de Zona Durango tiene jurisdicción en los municipios de Canatlán, Coneto de Comonfort, Durango, Guadalupe Victoria, Guanacevi, El Mezquital, Nombre de Dios, Otaez, Panuco de Coronado, Poanas, Pueblo Nuevo, San Dimas, San Juan Del Río, Santiago Papasquiaro, Suchil, Tepehuanes, Topia, Vicente Guerrero, Nuevo Ideal, Peñón Blanco, Santiago Papasquiaro, Canelas, Cuencame.
+
+8) La Superintendencia de Zona Gómez Palacio tiene jurisdicción los (sic) municipios de Mapimi, Nazas, San Luis del Cordero Colorado, San Juan de Guadalupe Gordo, Rodeo, San Pedro del Gallo, Tlahualilo, Cuencame, Simón Bolívar.
+
+9) La Superintendencia de Zona Torreón tiene jurisdicción en los municipios de Matamoros, Parras, San Pedro y Torreón, Cuatrociénegas Coahuila, General Cepeda, Coahuila, Viesca Coah.
+
+XI. La Gerencia Divisional de Distribución Oriente tiene jurisdicción en el estado de Veracruz, en los municipios de Acajete, Acatlán, Acatlán (sic), Acayucan, Actopan, Acula, Acultzingo, Agua Dulce, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Alvarado, Amatitlán, Amatlán de los Reyes, Angel R. Cabada La Antigua, Apazapan Aquila, Astacinga Atlahuilco, Atoyac, Atzacan, Atzalan, Tlaltetela, Ayahualulco, Banderilla Benito Juárez, Boca del Río, Calcahualco, Camarón de Tejeda, Camerino Z. Mendoza, Carrillo Puerto, Catemaco, Cazones, Carlos A. Carrillo, Cerro Azul, Coacoatzintla, Coahuitlán, Coatepec, Coatzacoalcos, Coatzintla Coetzala, Colipa Córdoba, Cosamaloapan de Carpio, Cosautlán de Carvajal, Coscomatepec, Cosoleacaque, Cotaxtla, Coxquihui, Coyutla, Cuichapa, Cuitláhuac, Chacaltianguis, Chalma, Chiconquiaco, Chicontepec, Chinameca, Las Choapas, Chocamán, Chontla, Chumatlán, Emiliano Zapata, Espinal, El Higo, Filomeno Mata, Fortín, Gutiérrez Zamora, Hidalgotitlán, Huatusco, Hueyapan de Ocampo, Huiloapan, Huiloapan (sic), Ignacio de la Llave, Isla, Ixcatepec, Ixhuacán de los Reyes, Ixhuatlán del Café, Ixhuatlancillo, Ixhuatlán del Sureste, Ixhuatlán de Madero, Ixmatlahuacan, Ixtaczoquitlán, Jalacingo, Xalapa, Jalcomulco, Jáltipan, Jamapa, Jesús Carranza, Xico, Jilotepec, Juan Rodríguez Clara, Juchique de Ferrer, Landero y Coss, Lerdo de Tejada, Magdalena, Maltrata, Manlio Fabio Altamirano, Mariano Escobedo, Martínez de la Torre, Mecatlán, Mecayapan, Medellín, Miahuatlán, Las Minas, Minatitlán Misantla, Mixtla de Altamirano, Moloacán, Naolinco, Naranjal, Nautla, Nanchital de Lázaro Cárdenas del Río, Nogales, Oluta, Omealca, Orizaba, Otatitlán, Oteapan, Ozuluama de Mascareñas, Pajapan, Papantla, Paso del Macho, Paso de Ovejas, La Perla, Perote, Playa Vicente, Poza Rica de Hidalgo, Las Vigas de Ramírez, Pueblo Viejo, Puente Nacional, Rafael Delgado, Rafael Lucio, Los Reyes, Río Blanco, Saltabarranca, San Andrés Tenejapan, San Andrés Tuxtla, San Juan Evangelista, Santiago Tuxtla, San Rafael, Santiago Sochiapan, Sayula de Alemán, Soconusco, Sochiapa, Soledad Atzompa, Soledad de Doblado, Soteapan, Tamiahua, Tancoco, Tantoyuca, Tatatila, Tatahuicapan de Juárez, Castillo de Teayo, Tecolutla, Temapache, Tempoal, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tepetzintla, Tequila, José Azueta, Texcatepec, Texhuacán, Texistepec, Tezonapa, Tierra Blanca, Tihuatlán, Tlacojalpa, Tlacolulan, Tlacotalpan, Tlacotepec de Mejía, Tlachichilco, Tlalixcoyan, Tlalnelhuayocan, Tlapacoyan, Tlaquilpa, Tlilapan, Tres Valles, Tomatlán, Tonayán, Totutla, Túxpam, Tuxtilla, Ursulo Galván, Vega de Alatorre, Veracruz, Villa Aldama, Uxpanapa, Xoxocotla, Yanga, Yecuatla, Zaragoza, Zentla Zongolica, Zontecomatlán de López y Fuentes Zozocolco de Hidalgo; Estado de Hidalgo, en los municipios de Huautla, Huehuetla, Huejutla de Reyes, Xochiatipan, Estado de Oaxaca, en los municipios de Acatlán de Pérez Figueroa, Ayotzintepec, Cosolapa, Ixtlán de Juárez, Loma Bonita, Magdalena Apasco, Matías Romero Avendaño, San Andrés Teotilalpam, San Dionisio del Mar, San Felipe, Jalapa de Díaz, San Felipe Usila, San José Chiltepec, San José Estancia Grande, San José, Independencia, San José Tenango, San Juan Bautista Tlacoatzintepec, Tuxtepec, San Juan Cotzocón, San Juan Lalana, San Juan Mazatlán, San Lucas Ojitlán, San Miguel Soyaltepec, San Pedro Ixcatlán, San Pedro Teutila, Santa María Chilchotla, Santa María Chimalapa, Santa María Jacatepec, Santiago Choapam, Santiago Jocotepec, Santiago Yaveo, Santo Domingo Ixcatlán, San Juan Bautista, Valle Nacional, Estado de Puebla, en los municipios de Acateno, Atempan, Ayotoxco de Guerrero, Caxhuacan, Cohetzala, Coyomeapan, Cuetzalan del Progreso, Chiconcuautla, Chichiquila, Chignahuapan, Chignautla, Eloxochitlán, Francisco Z. Mena, Huehuetla, Huehuetla (sic), Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Atlequizayan, Ixtepec, Jalpan, Jonotla, Jopala, Naupan, Nauzontla, Olintla, Pantepec, Quimixtlán, San Sebastián Tlacotepec, Tenampulco, Tenampulco (sic), Tepango de Rodríguez, Tetela de Ocampo, Teteles de Avila Castillo, Teziutlán, Tlacuilotepec, Tlaola, Tlapacoya, Tlapacoya (sic), Tlatlauquitepec, Tuzamapan de Galeana, Tzicatlacoyan, Venustiano Carranza, Xicotepec, Xiutetelco, Xochiapulco, Xochitlán de Vicente Suárez, Yaonáhuac, Zacapala, Zacapoaxtla, Zapotitlán de Méndez, Zaragoza, Zautla, Zihuateutla, Zongozotla, Zoquiapan, Zoquitlán, Zoquitlán (sic) y en el Estado de Tabasco; en el municipio de Huimanguillo
+
+La Gerencia Divisional de Distribución Oriente cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Poza Rica.
+
+2) Superintendencia Zona Xalapa.
+
+3) Superintendencia Zona Teziutlán.
+
+4) Superintendencia Zona Veracruz.
+
+5) Superintendencia Zona Papaloapan.
+
+6) Superintendencia Zona Los Tuxtlas.
+
+7) Superintendencia Zona Coatzacoalcos.
+
+8) Superintendencia Zona Orizaba, y
+
+9) Superintendencia Zona Córdoba.
+
+1) La Superintendencia Zona Poza Rica tiene jurisdicción dentro del Estado de Hidalgo en los municipios de Huautla, Huehuetla, Huejutla de Reyes, Xochiatipan; dentro del Estado de Puebla en los municipios de Chiconcuautla, Francisco Z. Mena, Huehuetla, Jalpan, Jopala, Naupan, Pantepec, Tenampulco Tlacuilotepec, Tlaola, Tlapacoya, Venustiano Carranza, Xicotepec, Zihuateutla; dentro del Estado de Veracruz en los municipios de Benito Juárez, Cazones, Cerro Azul, Coahuitlán, Coatzintla, Coxquihui, Coyutla, Chalma, Chicontepec, Chontla, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Ixcatepec, Ixhuatlán de Madero, Mecatlán, Papantla, Poza Rica de Hidalgo, Los Reyes, Tamiahua, Tancoco, Tantoyuca, Castillo de Teayo, Tecolutla, Temapache, Tempoal, Tepetzintla, Texcatepec, Tihuatlán, Tlachichilco, Tomatlán, Túxpam, Zontecomatlán de López y Fuentes, Zozocolco de Hidalgo.
+
+2) La Superintendencia Zona Xalapa tiene jurisdicción dentro del Estado de Puebla en los municipios de Chichiquila, Chignahuapan, Quimixtlá; dentro del Estado de Veracruz en los municipios de Acajete, Acatlán, Actopan, Alto Lucero de Gutiérrez Barrios, Apazapan, Tlaltetela, Ayahualulco, Banderilla, Coacoatzintla, Coatepec, Cosautlán de Carvajal, Chiconquiaco, Emiliano Zapata, Huiloapan, Ixhuacán de los Reyes, Xalapa, Jalcomulco, Xico, Jilotepec, Landero y Coss, Miahuatlán, Naolinco, Las Vigas de Ramírez, Puente Nacional, Rafael Lucio, Tatatila, Tenampa, Teocelo, Tepetlán, Tlacolulan, Tlalnelhuayocan, Tonayán.
+
+3) La Superintendencia Zona Teziútlan tiene jurisdicción dentro del Estado de Puebla en los municipios Acateno, Atempan, Ayotoxco de Guerrero, Caxhuacan, Cohetzala, Cuetzalan del Progreso, Chignautla, Huehuetla, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Atlequizayan, Ixtepec, Jalpan, Jonotla, Nauzontla, Olintla, ,(sic) Tenampulco, Tepango de Rodríguez, Tetela de Ocampo, Teteles de Avila Castillo, Teziutlán, Tlapacoya, Tlatlauquitepec, Tuzamapan de Galeana, Tzicatlacoyan, Xiutetelco, Xochiapulco, Xochitlán de Vicente Suárez, Yaonáhuac, Zacapala, Zacapoaxtla, Zapotitlán de Méndez, Zaragoza, Zautla, Zongozotla, Zoquiapan, Zoquitlán; dentro del Estado de Veracruz en los municipios de Alto Lucero de Gutiérrez Barrios, Altotonga, Atzalan, Ayahualulco, Colipa, Chiconquiaco, Ixhuacán de los Reyes, Jalacingo, Juchique de Ferrer, Martínez de la Torre, Las Minas, Misantla, Nautla, Perote, Las Vigas de Ramírez, Tatatila, Tecolutla, Tenochtitlán, Tlapacoyan, Tlilapan, Tonayán, Tuxtilla, Vega de Alatorre, Villa Aldama, Yecuatla, Zozocolco de Hidalgo, San Rafael.
+
+4) La Superintendencia Zona Veracruz tiene jurisdicción dentro del Estado de Veracruz en los municipios de Actopan, Camarón de Tejeda, Alto Lucero de Gutiérrez Barrios, Alvarado, La Antigua, Aquila, Boca del Río, Comapa, Cotaxtla, Ignacio de la Llave, Jamapa, Jilotepec, Manlio Fabio Altamirano, Medellín, Ozuluama de Mascareñas, Paso del Macho, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Soteapan, Tlalixcoyan, Ursulo Galván, Vega de Alatorre, Veracruz, Xoxocotla.
+
+5) La Superintendencia Zona Papaloapan tiene jurisdicción dentro del Estado de Oaxaca en los municipios de Acatlán de Pérez Figueroa, Ayotzintepec, Cosolapa, Ixtlán de Juárez, Loma Bonita, Magdalena Apasco, San Andrés Teotilalpam, San Dionisio del Mar, San Felipe Jalapa de Díaz, San Felipe Usila, San José Chiltepec, San José Estancia Grande, San José Independencia, San José Tenango, San Juan Bautista Tlacoatzintepec, San Juan Bautista Tuxtepec, San Juan Lalana, San Lucas Ojitlán, San Miguel Soyaltepec, San Pedro Ixcatlán, San Pedro Teutila, Santa María Chilchotla, Santa María Jacatepec, Santiago Choapam, Santiago Jocotepec, San Juan Bautista Valle Nacional; dentro del Estado de Veracruz en los municipios de Coyomeapan, Eloxochitlán, San Sebastián Tlacotepec, Zoquitlán, Acula, Alvarado, Amatitlán, Cosamaloapan de Carpio, Cotaxtla, Coxquihui, Chacaltianguis, Isla, Ixmatlahuacan, Jalacingo, Juan Rodríguez Clara, Omealca, Otatitlán, Playa Vicente, Pueblo Viejo, San Juan Evangelista, Sayula de Alemán, José Azueta, Tezonapa, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlacotepec de Mejía, Tlalixcoyan, Tuxtilla, Zongolica, Tres Valles, Carlos A. Carrillo, Santiago Sochiapan.
+
+6) La Superintendencia Zona Los Tuxtlas tiene jurisdicción dentro del Estado de Veracruz en los municipios de Acayucan, Alvarado, Angel R. Cabada, Catemaco, Hueyapan de Ocampo, Lerdo de Tejada, Mecatlán, Saltabarranca, San Andrés Tuxtla, San Juan Evangelista, Santiago Tuxtla, Soteapan, Tlacotalpan.
+
+7) La Superintendencia Zona Coatzacoalcos tiene jurisdicción dentro del Estado de Oaxaca en los municipios de Matías Romero Avendaño, San Juan Cotzocón, San Juan Mazatlán, Santa María Chimalapa, Santiago Yaveo, Santo Domingo Ixcatlán; dentro del Estado de Tabasco en el municipio de Huimanguillo y dentro del Estado de Veracruz en los municipios de Acayucan, Alpatláhuac, Coatzacoalcos, Cosoleacaque, Chinameca, Las Choapas, Hueyapan de Ocampo, Ixhuatlán del Sureste, Jáltipan, Jamapa, Jesús Carranza, Juan Rodríguez Clara, Maltrata, Mecayapan, Minatitlán, Moloacán, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Texistepec, Zaragoza, Agua Dulce, Nanchital de Lázaro Cárdenas del Río, Tatahuicapan de Juárez, Uxpanapa.
+
+8) La Superintendencia Zona Orizaba tiene jurisdicción dentro del Estado de Veracruz, en los municipios de Acultzingo, Aquila, Astacinga, Atlahuilco, Atzacan, Camerino Z. Mendoza, Córdoba, Fortín, Huiloapan, Ixhuatlancillo, Ixtaczoquitlán, Magdalena, Maltrata, Mariano Escobedo, Mixtla de Altamirano, Nogales, Orizaba, Ozuluama de Mascareñas, La Perla, Rafael Delgado, Los Reyes, Río Blanco, San Andrés Tenejapan, Soledad Atzompa, Tequila, Tehuacán, Tlaquilpa, Tlilapan, Xoxocotla, Zongolica.
+
+9) La Superintendencia Zona Córdoba tiene jurisdicción dentro del Estado de Veracruz en los municipios de Camarón de Tejeda, Alpatláhuac, Amatlán de los Reyes, Atoyac, Tlaltetela, Calcahualco, Carrillo Puerto, Coetzala, Comapa, Córdoba, Coscomatepec, Cuichapa, Cuitláhuac, Chocamán, Fortín, Huatusco, Ixhuatlán del Café, Jalcomulco, Naranjal, Omealca, Paso del Macho, Puente Nacional, Sochiapa, Tenampa, Tepatlaxco, Tezonapa, Tierra Blanca, Tlacotepec de Mejía, Tomatlán, Totutla, Yanga, Zentla, Zongolica.
+
+XII. La Gerencia Divisional de Distribución Peninsular tiene jurisdicción en la totalidad de los municipios de los Estados de Yucatán y Quintana Roo; y en los municipios de Calkiní, San Francisco de Campeche, Champotón, Hecelchakán, Hopelchén, Tenabo, Escárcega, Calakmul, Ciudad del Carmen y Candelaria del Estado de Campeche.
+
+La Gerencia Divisional de Distribución Peninsular cuenta con las siguientes Superintendencias de Zona:
+
+1) Superintendencia de Zona Campeche.
+
+2) Superintendencia de Zona Carmen.
+
+3) Superintendencia de Zona Cancún.
+
+4) Superintendencia de Zona Riviera Maya.
+
+5) Superintendencia de Zona Chetumal.
+
+6) Superintendencia de Zona Mérida.
+
+7) Superintendencia de Zona Tizimín.
+
+8) Superintendencia de Zona Motul, y
+
+9) Superintendencia de Zona Ticul.
+
+1) La Superintendencia de Zona Campeche tiene jurisdicción dentro del Estado de Campeche en los municipios de Calkiní, San Francisco de Campeche, Champotón, Hecelchakán, Hopelchén, Tenabo, Escárcega, Calakmul y Candelaria.
+
+2) La Superintendencia de Zona Chetumal tiene jurisdicción dentro del Estado de Quintana Roo en los municipios de Othón P. Blanco (Chetumal), Felipe Carrillo Puerto y José María Morelos.
+
+3) La Superintendencia de Zona Cancún tiene jurisdicción dentro del Estado de Quintana Roo en los municipios de Benito Juárez (Cancún) e Isla Mujeres.
+
+4) La Superintendencia de Zona Carmen tiene jurisdicción dentro del Estado de Campeche en el Municipio de Ciudad del Carmen.
+
+5) La Superintendencia de Zona Riviera Maya tiene jurisdicción dentro del Estado de Quintana Roo en los municipios de Solidaridad, Tulum y Cozumel.
+
+6) La Superintendencia de Zona Mérida tiene jurisdicción dentro del Estado de Yucatán en los municipios de Abalá, Acanceh, Celestún, Chocholá, Conkal, Cuzamá, Homún, Hunucmá, Kanasín, Kinchil, Progreso, Samahil, Tecoh, Tetiz, Timucuy, Ucú, Umán, Mérida, Chicxulub, Ixil, Mocochá, Homún y Seyé.
+
+7) La Superintendencia de Zona Motul tiene jurisdicción dentro del Estado de Yucatán en los municipios de Baca, Bokobá, Cacalchén, Cansahcab, Dzemul, Dzidzantún, Dzilán Bravo, Dzilán González, Dzoncauich, Hocabá, Hoctún, Huhí, Izamal, Kantunil, Mérida, Motul, Muxupip, Sananhcat, Sinanché, Sotuta, Suma, Tahmek, Tekal de Venegas, Tekantó, Telchac Pueblo, Telchac Puerto, Temax, Tepakán, Teya, Tixcocob, Tixpeual, Tunkas, Xocchel, Yaxcabá, Yaxkukul, Yobaín, Buctzoz, Cantamayec, Cenotillo, Homún, Holactún, Sudzal y Ucú.
+
+8) La Superintendencia de Zona Tizimín tiene jurisdicción dentro del Estado de Yucatán en los municipios de Calotmul, Espita, Panabá, Río Lagartos, Sucilá, Temozón, Tizimín, Cuncunul, Chankom, Chemax, Chichimilá, Dzitas, Kaua, Tekom, Tinum, Tixcacalcupul, Quintana Roo, Uayma, Valladolid, San Felipe, Chikindzonot, Yaxcabá, Buczotz, y Cenotillo; y dentro del Estado de Quintana Roo, los Municipios de Felipe Carrillo Puerto, Lázaro Cárdenas y José María Morelos.
+
+9) La Superintendencia de Zona Ticul tiene jurisdicción dentro del Estado de Yucatán en los municipios de Akil, Chacsinikín, Chapab, Chumayel, Dzan, Halachó, Kopomá, Mama, Maní, Maxcanú, Mayapán, Muna, Opichén, Oxkutzcab, Peto, Sacalum, Tahdziu, Teabo, Tekax, Tekit, Ticul, Tixmeuac, Tzucacab, Cantamayec, Chikindzonot y Yaxcabá; y dentro del Estado de Quintana Roo en el Municipio de Santa Elena.
+
+XIII. La Gerencia Divisional de Distribución Sureste tiene jurisdicción en el Estado de Campeche, en el Municipio Palizada; en el Estado de Chiapas, en los municipios: Acacoyagua, Acala, Acapetahua, Aldama, Altamirano, Amatán, Amatenango de la Frontera, Amatenango del Valle, Angel Albino Corzo, Arriaga, Bejucal de Ocampo, Bella Vista, Benemérito de las Américas, Berriozábal, Bochil, Cacahoatán, Catazajá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, Cintalapa, Coapilla, Comitán de Domínguez, Copainalá, El Bosque, El Porvenir, Escuintla, Francisco León, Frontera Comalapa, Frontera Hidalgo, Huehuetán, Huitiupán, Huixtán, Huixtla, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, La Concordia, La Grandeza, La Independencia, La Libertad, La Trinitaria, Larráinzar, Las Margaritas, Las Rosas, Mapastepec, Maravilla Tenejapa, Marqués de Comillas, Mazapa de Madero, Mazatán, Metapa, Mitontic, Montecristo de Guerrero, Motozintla, Nicolás Ruíz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pijijiapan, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago el Pinar, Siltepec, Simojovel, Sitalá, Socoltenango, Solusuchiapa, Soyaló, Suchiapa, Suchiate, Sunuapa, Tapachula, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Tonalá, Totolapa, Tumbalá, Tuxtla Chico, Tuxtla Gutiérrez, Tuzantán, Tzimol, Unión Juárez, Venustiano Carranza, Villa Comaltitlán, Villa Corzo, Villaflores, Yajalón, Zinacantán; en el Estado de Guerrero, en el Municipio Pilcaya; en el Estado de Oaxaca, en los municipios de: Abejones, Animas Trujano, Asunción Cacalotepec, Asunción Cuyotepeji, Asunción Ixtaltepec, Asunción Nochixtlán, Asunción Ocotlán, Asunción Tlacolulita, Ayoquezco de Aldama, Calihualá, Candelaria Loxicha, Capulálpam de Méndez, Chahuites, Chalcatongo de Hidalgo, Chiquihuitlán de Benito Juárez, Ciénega de Zimatlán, Ciudad Ixtepec, Coatecas Altas, Coicoyán de las Flores, Concepción Buenavista, Concepción Pápalo, Constancia del Rosario, Cosoltepec, Cuilápam de Guerrero, Cuyamecalco Villa de Zaragoza, El Barrio de la Soledad, El Espinal, Eloxochitlán de Flores Magón, Fresnillo de Trujano, Guadalupe de Ramírez, Guadalupe Etla, Guelatao de Juárez, Guevea de Humboldt, Heroica Ciudad de Ejutla de Crespo, Heroica Ciudad de Huajuapan de León, Heroica Ciudad de Tlaxiaco, Huautepec, Huautla de Jiménez, Ixpantepec Nieves, Ixtlán de Juárez, Juchitán de Zaragoza, La Compañía, La Pe, La Reforma, La Trinidad Vista Hermosa, Magdalena Apasco, Magdalena Jaltepec, Magdalena Mixtepec, Magdalena Ocotlán, Magdalena Peñasco, Magdalena Teitipac, Magdalena Tequisistlán, Magdalena Tlacotepec, Magdalena Yodocono de Porfirio Díaz, Magdalena Zahuatlán, Mariscala de Juárez, Mártires de Tacubaya, Matías Romero, Avendaño, Mazatlán Villa de Flores, Mesones Hidalgo, Miahuatlán de Porfirio Díaz, Mixistlán de la Reforma, Monjas, Natividad, Nazareno Etla, Nejapa de Madero, Nuevo Zoquiapam, Oaxaca de Juárez, Ocotlán de Morelos, Pinotepa de Don Luis, Pluma Hidalgo, Putla Villa de Guerrero, Reforma de Pineda, Reyes Etla, Rojas de Cuauhtémoc, Salina Cruz, San Agustín Amatengo, San Agustín Atenango, San Agustín Chayuco, San Agustín de las Juntas, San Agustín Etla, San Agustín Loxicha, San Agustín Tlacotepec, San Agustín Yatareni, San Andrés Cabecera Nueva, San Andrés Dinicuiti, San Andrés Huaxpaltepec, San Andrés Huayapam, San Andrés Ixtlahuaca, San Andrés Lagunas, San Andrés Nuxiño, San Andrés Paxtlán, San Andrés Sinaxtla, San Andrés Solaga, San Andrés Teotilalpam, San Andrés Tepetlapa, San Andrés Yaá, San Andrés Zabache, San Andrés Zautla, San Antonino Castillo Velasco, San Antonino el Alto, San Antonino Monte Verde, San Antonio Acutla, San Antonio de la Cal, San Antonio Huitepec, San Antonio Nanahuatípam, San Antonio Sinicahua, San Antonio Tepetlapa, San Baltazar, Chichicápam, San Baltazar Loxicha, San Baltazar Yatzachi el Bajo, San Bartolo Coyotepec, San Bartolo Soyaltepec, San Bartolo Yautepec, San Bartolomé Ayautla, San Bartolomé Loxicha, San Bartolomé Quialana, San Bartolomé Yucuañe, San Bartolomé Zoogocho, San Bernardo Mixtepec, San Blas Atempa, San Carlos Yautepec, San Cristóbal Amatlán, San Cristóbal Amoltepec, San Cristóbal Lachirioag, San Cristóbal Suchixtlahuaca, San Dionisio del Mar, San Dionisio Ocotepec, San Dionisio Ocotlán, San Esteban Atatlahuca, San Felipe Tejalapam, San Felipe Usila, San Francisco Cahuacuá, San Francisco Cajonos, San Francisco Chapulapa, San Francisco Chindúa, San Francisco del Mar, San Francisco Huehuetlán, San Francisco Ixhuatán, San Francisco Jaltepetongo, San Francisco Lachigoló, San Francisco Logueche, San Francisco Nuxaño, San Francisco Ozolotepec, San Francisco Sola, San Francisco Telixtlahuaca, San Francisco Teopan, San Francisco Tlapancingo, San Gabriel Mixtepec, San Ildefonso Amatlán, San Ildefonso Sola, San Ildefonso Villa Alta, San Jacinto Amilpas, San Jacinto Tlacotepec, San Jerónimo Coatlán, San Jerónimo Silacayoapilla, San Jerónimo Sosola, San Jerónimo Taviche, San Jerónimo Tecoátl, San Jerónimo Tlacochahuaya, San Jorge Nuchita, San José Ayuquila, San José del Peñasco, San José del Progreso, San José Estancia Grande, San José Lachiguiri, San José Tenango, San Juan Achiutla, San Juan Atepec, San Juan Bautista Atatlahuca, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Lo de Soto, San Juan Bautista Suchitepec, San Juan Bautista Tlachichilco, San Juan Bautista Valle Nacional, San Juan Cacahuatepec, San Juan Chicomezúchil, San Juan Chilateca, San Juan Cieneguilla, San Juan Coatzóspam, San Juan Colorado, San Juan Comaltepec, San Juan Cotzocón, San Juan de los Cués, San Juan del Estado, San Juan del Río, San Juan Diuxi, San Juan Ðumí, San Juan Evangelista Analco, San Juan Guelavía, San Juan Guichicovi, San Juan Ihualtepec, San Juan Juquila Mixes, San Juan Juquila Vijanos, San Juan Lachao, San Juan Lachigalla, San Juan Lajarcia, San Juan Mazatlán, San Juan Mixtepec, San Juan Ozolotepec, San Juan Petlapa, San Juan Quiahije, San Juan Quiotepec, San Juan Sayultepec, San Juan Tabaá, San Juan Tamazola, San Juan Teita, San Juan Teitipac, San Juan Tepeuxila, San Juan Teposcolula, San Juan Yaeé, San Juan Yatzona, San Juan Yucuita, San Lorenzo, San Lorenzo Albarradas, San Lorenzo Cacaotepec, San Lorenzo Cuaunecuiltitla, San Lorenzo Texmelucan, San Lorenzo Victoria, San Lucas Camotlán, San Lucas Quiaviní, San Lucas Zoquiápam, San Luis Amatlán, San Marcial Ozolotepec, San Marcos Arteaga, San Martín de los Cansecos, San Martín Huamelúlpam, San Martín Itunyoso, San Martín Lachilá, San Martín Peras, San Martín Tilcajete, San Martín Toxpalan, San Martín Zacatepec, San Mateo Cajonos, San Mateo del Mar, San Mateo Etlatongo, San Mateo Nejápam, San Mateo Peñasco, San Mateo Piñas, San Mateo Río Hondo, San Mateo Sindihui, San Mateo Tlapiltepec, San Mateo Yoloxochitlán, San Melchor Betaza, San Miguel Achiutla, San Miguel Ahuehuetitlán, San Miguel Aloápam, San Miguel Amatitlán, San Miguel Amatlán, San Miguel Chicahua, San Miguel Chimalapa, San Miguel Coatlán, San Miguel del Puerto, San Miguel del Río, San Miguel Ejutla, San Miguel el Grande, San Miguel Huautla, San Miguel Mixtepec, San Miguel Panixtlahuaca, San Miguel Peras, San Miguel Piedras, San Miguel Quetzaltepec, San Miguel Santa Flor, San Miguel Suchixtepec, San Miguel Tecomatlán, San Miguel Tenango, San Miguel Tequixtepec, San Miguel Tilquiápam, San Miguel Tlacamama, San Miguel Tlacotepec, San Miguel Tulancingo, San Miguel Yotao, San Nicolás, San Nicolás Hidalgo, San Pablo Coatlán, San Pablo Cuatro Venados, San Pablo Etla, San Pablo Huitzo, San Pablo Huixtepec, San Pablo Macuiltianguis, San Pablo Tijaltepec, San Pablo Villa de Mitla, San Pablo Yaganiza, San Pedro Amuzgos, San Pedro Apóstol, San Pedro Atoyac, San Pedro Cajonos, San , edro (sic) Comitancillo, San Pedro Coxcaltepec Cántaros, San Pedro el Alto, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Ixtlahuaca, San Pedro Jaltepetongo, San Pedro Jicayán, San Pedro Jocotipac, San Pedro Juchatengo, San Pedro Mártir, San Pedro Mártir Quiechapa, San Pedro Mártir Yucuxaco, San Pedro Mixtepec, San Pedro Molinos, San Pedro Nopala, San Pedro Ocopetatillo, San Pedro Ocotepec, San Pedro Pochutla, San Pedro Quiatoni, San Pedro Sochiapam, San Pedro Tapanatepec, San Pedro Taviche, San Pedro Teozacoalco, San Pedro Teutila, San Pedro Tidaá, San Pedro Topiltepec, San Pedro Totolapa, San Pedro y San Pablo Ayutla, San Pedro y San Pablo Teposcolula, San Pedro y San Pablo Tequixtepec, San Pedro Yaneri, San Pedro Yólox, San Pedro Yucunama, San Raymundo Jalpan, San Sebastián Abasolo, San Sebastián Coatlán, San Sebastián Ixcapa, San Sebastián Nicananduta, San Sebastián Río Hondo, San Sebastián Tecomaxtlahuaca, San Sebastián Teitipac, San Sebastián Tutla, San Simón Almolongas, San Simón Zahuatlán, San Vicente Coatlán, San Vicente Lachixío, San Vicente Nuñú, Santa Ana, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Ana del Valle, Santa Ana Tavela, Santa Ana Tlapacoyan, Santa Ana Yareni, Santa Ana Zegache, Santa Catalina Quierí, Santa Catarina Cuixtla, Santa Catarina Ixtepeji, Santa Catarina Juquila, Santa Catarina Lachatao, Santa Catarina Loxicha, Santa Catarina Mechoacán, Santa Catarina Minas, Santa Catarina Quiané, Santa Catarina Quioquitani, Santa Catarina Tayata, Santa Catarina Ticuá, Santa Catarina Yosonotú, Santa Catarina Zapoquila, Santa Cruz Acatepec, Santa Cruz Amilpas, Santa Cruz de Bravo, Santa Cruz Itundujia, Santa Cruz Mixtepec, Santa Cruz Nundaco, Santa Cruz Papalutla, Santa Cruz Tacache de Mina, Santa Cruz Tacahua, Santa Cruz Tayata, Santa Cruz Xitla, Santa Cruz Xoxocotlán, Santa Cruz Zenzontepec, Santa Gertrudis, Santa Inés de Zaragoza, Santa Inés del Monte, Santa Inés Yatzeche, Santa Lucía del Camino, Santa Lucía Miahuatlán, Santa Lucía Monteverde, Santa Lucía Ocotlán, Santa Magdalena Jicotlán, Santa María Alotepec, Santa María Apazco, Santa María Atzompa, Santa María Camotlán, Santa María Chachoápam, Santa María Chilchotla, Santa María Chimalapa, Santa María Colotepec, Santa María Cortijo, Santa María Coyotepec, Santa María del Rosario, Santa María del Tule, Santa María Ecatepec, Santa María Guelacé, Santa María Guienagati, Santa María Huatulco, Santa María Huazolotitlán, Santa María Ipalapa, Santa María Ixcatlán, Santa María Jalapa del Marqués, Santa María Jaltianguis, Santa María la Asunción, Santa María Lachixío, Santa María Mixtequilla, Santa María Nativitas, Santa María Nduayaco, Santa María Ozolotepec, Santa María Pápalo, Santa María Peñoles, Santa María Petapa, Santa María Quiegolani, Santa María Sola, Santa María Tataltepec, Santa María Tecomavaca, Santa María Temaxcalapa, Santa María Temaxcaltepec, Santa María Teopoxco, Santa María Tepantlali, Santa María Texcatitlán, Santa María Tlahuitoltepec, Santa María Tlalixtac, Santa María Tonameca, Santa María Totolapilla, Santa María Xadani, Santa María Yalina, Santa María Yavesía, Santa María Yolotepec, Santa María Yosoyúa, Santa María Yucuhiti, Santa María Zacatepec, Santa María Zaniza, Santa María Zoquitlán, Santiago Amoltepec, Santiago Apoala, Santiago Apóstol, Santiago Astata, Santiago Atitlán, Santiago Ayuquililla, Santiago Cacaloxtepec, Santiago Camotlán, Santiago Chazumba, Santiago Choapam, Santiago Comaltepec, Santiago del Río, Santiago Huajolotitlán, Santiago Huauclilla, Santiago Ihuitlán Plumas, Santiago Ixcuintepec, Santiago Ixtayutla, Santiago Jamiltepec, Santiago Juxtlahuaca, Santiago Lachiguiri, Santiago Lalopa, Santiago Laollaga, Santiago Laxopa, Santiago Llano Grande, Santiago Matatlán, Santiago Miltepec, Santiago Minas, Santiago Nacaltepec, Santiago Nejapilla, Santiago Niltepec, Santiago Nundiche, Santiago Nuyoó, Santiago Pinotepa Nacional, Santiago Suchilquitongo, Santiago Tamazola, Santiago Tapextla, Santiago Tenango, Santiago Tepetlapa, Santiago Tetepec, Santiago Texcalcingo, Santiago Textitlán, Santiago Tilantongo, Santiago Tillo, Santiago Tlazoyaltepec, Santiago Xanica, Santiago Xiacuí, Santiago Yaitepec, Santiago Yolomécatl, Santiago Yosondúa, Santiago Yucuyachi, Santiago Zacatepec, Santiago Zoochila, Santo Domingo Albarradas, Santo Domingo Armenta, Santo Domingo Chihuitán, Santo Domingo de Morelos, Santo Domingo Ingenio, Santo Domingo Ixcatlán, Santo Domingo Nuxaá, Santo Domingo Ozolotepec, Santo Domingo Petapa, Santo Domingo Roayaga, Santo Domingo Tehuantepec, Santo Domingo Teojomulco, Santo Domingo Tepuxtepec, Santo Domingo Tlatayápam, Santo Domingo Tomaltepec, Santo Domingo Tonalá, Santo Domingo Tonaltepec, Santo Domingo Xagacía, Santo Domingo Yanhuitlán, Santo Domingo Yodohino, Santo Domingo Zanatepec, Santo Tomás Jalieza, Santo Tomás Mazaltepec, Santo Tomás Ocotepec, Santo Tomás Tamazulapan, Santos Reyes Nopala, Santos Reyes Pápalo, Santos Reyes Tepejillo, Santos Reyes Yucuná, Silacayoápam, Sitio de Xitlapehua, Soledad Etla, Tamazulapam del Espíritu Santo, Tanetze de Zaragoza, Taniche, Tataltepec de Valdés, Teococuilco de Marcos Pérez, Teotitlán de Flores Magón, Teotitlán del Valle, Teotongo, Tepelmeme Villa de Morelos, Tezoatlán de Segura y Luna, Tlacolula de Matamoros, Tlacotepec Plumas, Tlalixtac de Cabrera, Totontepec Villa de Morelos, Trinidad Zaachila, Unión Hidalgo, Valerio Trujano, Villa de Chilapa de Díaz, Villa de Etla, Villa de Tamazulápam del Progreso, Villa de Tututepec de Melchor Ocampo, Villa de Zaachila, Villa Díaz Ordaz, Villa Hidalgo, Villa Sola de Vega, Villa Talea de Castro, Villa Tejúpam de la Unión, Yaxe, Yogana, Yutanduchi de Guerrero, Zapotitlán del Río, Zapotitlán Lagunas, Zapotitlán Palmas, Zimatlán de Alvarez; en el Estado de Puebla, en los municipios: Coxcatlán, Chila; en el Estado de Tabasco, en los municipios: Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa, Tenosique; en el Estado de Veracruz, en el Municipio Las Choapas.
+
+La Gerencia Divisional de Distribución Sureste está conformada por 10 superintendencias, identificadas como:
+
+1) Zona San Cristóbal.
+
+2) Zona Tuxtla.
+
+3) Zona Oaxaca.
+
+4) Zona Huatulco.
+
+5) Zona Huajuapan.
+
+6) Zona Tapachula.
+
+7) Zona Tehuantepec.
+
+8) Zona Villahermosa.
+
+9) Zona Chontalpa, y
+
+10) Zona Los Ríos.
+
+1) La Superintendencia de la Zona San Cristóbal tiene jurisdicción en el Estado de Chiapas, en los municipios de: Acala, Aldama, Altamirano, Amatenango de la Frontera, Amatenango del Valle, Bella Vista, Chalchihuitán, Chamula, Chanal, Chenalhó, Chiapilla, Chicomuselo, Chilón, Comitán de Domínguez, Frontera Comalapa, Huixtán, Ixtapa, La Concordia, La Independencia, La Trinitaria, Larráinzar, Las Margaritas, Las Rosas, Maravilla Tenejapa, Mitontic, Nicolás Ruíz, Ocosingo, Oxchuc, Pantelhó, Pantepec, Sabanilla, San Cristóbal de las Casas, San Juan Cancuc, San Lucas, Santiago el Pinar, Siltepec, Simojovel, Sitalá, Socoltenango, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tzimol, Venustiano Carranza, Yajalón, Zinacantán.
+
+2) La Superintendencia de la Zona Tuxtla tiene jurisdicción en el Estado de Chiapas, en los municipios de: Acala, Amatán, Angel Albino Corzo, Berriozábal, Bochil, Catazajá, Chamula, Chiapa de Corzo, Chicoasén, Chicomuselo, Cintalapa, Coapilla, Copainalá, El Bosque, Francisco León, Huitiupán, Ixtapa, Jiquipilas, Jitotol, La Concordia, Larráinzar, Montecristo de Guerrero, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Pantepec, Pueblo Nuevo Solistahuacán, Rayón, San Andrés Duraznal, San Fernando, San Lucas, Siltepec, Simojovel, Soyaló, Suchiapa, Tecpatán, Tuxtla Gutiérrez, Villa Corzo, Villaflores; en el Estado de Oaxaca, en los municipios de: San Pedro Tapanatepec, Santa María Chimalapa; en el Estado de Veracruz, en el municipio Las Choapas.
+
+3) La Superintendencia de la Zona Oaxaca tiene jurisdicción en el Estado de Oaxaca, en los municipios de: Abejones, Animas Trujano, Asunción Cacalotepec, Asunción Nochixtlán, Asunción Ocotlán, Ayoquezco de Aldama, Capulálpam de Méndez, Ciénega de Zimatlán, Coatecas Altas, Cuilápam de Guerrero, Guadalupe Etla, Guelatao de Juárez, Heroica Ciudad de Ejutla de Crespo, Ixtlán de Juárez, La Compañía, La Pe, Magdalena Apasco, Magdalena Mixtepec, Magdalena Ocotlán, Magdalena Teitipac, Miahuatlán de Porfirio Díaz, Mixistlán de la Reforma, Monjas, Natividad, Nazareno Etla, Nuevo Zoquiapam, Oaxaca de Juárez, Ocotlán de Morelos, Reyes Etla, Rojas de Cuauhtémoc, San Agustín Amatengo, San Agustín de las Juntas, San Agustín Etla, San Agustín Loxicha, San Agustín Yatareni, San Andrés Huayapam, San Andrés Ixtlahuaca, San Andrés Paxtlán, San Andrés Solaga, San Andrés Yaá, San Andrés Zabache, San Andrés Zautla, San Antonino Castillo Velasco, San Antonino el Alto, San Antonio de la Cal, San Antonio Huitepec, San Baltazar Chichicápam, San Baltazar Loxicha, San Baltazar Yatzachi el Bajo, San Bartolo Coyotepec, San Bartolomé Loxicha, San Bartolomé Quialana, San Bartolomé Zoogocho, San Bernardo Mixtepec, San Carlos Yautepec, San Cristóbal Amatlán, San Cristóbal Lachirioag, San Dionisio Ocotepec, San Dionisio Ocotlán, San Felipe Tejalapam, San Felipe Usila, San Francisco Cahuacuá, San Francisco Cajonos, San Francisco Lachigoló, San Francisco Logueche, San Francisco Ozolotepec, San Francisco Sola, San Francisco Telixtlahuaca, San Ildefonso Amatlán, San Ildefonso Sola, San Ildefonso Villa Alta, San Jacinto Amilpas, San Jacinto Tlacotepec, San Jerónimo Coatlán, San Jerónimo Sosola, San Jerónimo Taviche, San Jerónimo Tlacochahuaya, San José del Peñasco, San José del Progreso, San José Lachiguiri, San Juan Atepec, San Juan Bautista Atatlahuca, San Juan Bautista Guelache, San Juan Bautista Jayacatlán, San Juan Bautista Valle Nacional, San Juan Chicomezúchil, San Juan Chilateca, San Juan Comaltepec, San Juan Cotzocón, San Juan del Estado, San Juan del Río, San Juan Evangelista Analco, San Juan Guelavía, San Juan Juquila Mixes, San Juan Juquila Vijanos, San Juan Lachigalla, San Juan Mixtepec, San Juan Ozolotepec, San Juan Petlapa, San Juan Quiotepec, San Juan Tabaá, San Juan Tamazola, San Juan Teitipac, San Juan Yaeé, San Juan Yatzona, San Lorenzo Albarradas, San Lorenzo Cacaotepec, San Lorenzo Texmelucan, San Lucas Camotlán, San Lucas Quiaviní, San Luis Amatlán, San Marcial Ozolotepec, San Martín de los Cansecos, San Martín Lachilá, San Martín Tilcajete, San Mateo Cajonos, San Mateo Río Hondo, San Melchor Betaza, San Miguel Aloápam, San Miguel Amatlán, San Miguel Coatlán, San Miguel del Río, San Miguel Ejutla, San Miguel Huautla, San Miguel Mixtepec, San Miguel Peras, San Miguel Piedras, San Miguel Quetzaltepec, San Miguel Suchixtepec, San Miguel Tilquiápam, San Miguel Yotao, San Nicolás, San Pablo Coatlán, San Pablo Cuatro Venados, San Pablo Etla, San Pablo Huitzo, San Pablo Huixtepec, San Pablo Macuiltianguis, San Pablo Villa de Mitla, San Pablo Yaganiza, San Pedro Apóstol, San Pedro Cajonos, San Pedro el Alto, San Pedro Ixtlahuaca, San Pedro Mártir, San Pedro Mixtepec, San Pedro Ocotepec, San Pedro Quiatoni, San Pedro Taviche, San Pedro Totolapa, San Pedro y San Pablo Ayutla, San Pedro Yaneri, San Pedro Yólox, San Raymundo Jalpan, San Sebastián Abasolo, San Sebastián Coatlán, San Sebastián Río Hondo, San Sebastián Teitipac, San Sebastián Tutla, San Simón Almolongas, San Vicente Coatlán, San Vicente Lachixío, Santa Ana, Santa Ana del Valle, Santa Ana Tlapacoyan, Santa Ana Yareni, Santa Ana Zegache, Santa Catalina Quierí, Santa Catarina Cuixtla, Santa Catarina Ixtepeji, Santa Catarina Lachatao, Santa Catarina Loxicha, Santa Catarina Minas, Santa Catarina Quiané, Santa Catarina Quioquitani, Santa Cruz Amilpas, Santa Cruz Mixtepec, Santa Cruz Papalutla, Santa Cruz Xitla, Santa Cruz Xoxocotlán, Santa Cruz Zenzontepec, Santa Gertrudis, Santa Inés del Monte, Santa Inés Yatzeche, Santa Lucía del Camino, Santa Lucía Miahuatlán, Santa Lucía Ocotlán, Santa María Alotepec, Santa María Atzompa, Santa María Coyotepec, Santa María del Tule, Santa María Guelacé, Santa María Jaltianguis, Santa María Lachixío, Santa María Ozolotepec, Santa María Peñoles, Santa María Sola, Santa María Temaxcalapa, Santa María Tepantlali, Santa María Tlahuitoltepec, Santa María Yalina, Santa María Yavesía, Santa María Zaniza, Santa María Zoquitlán, Santiago Apóstol, Santiago Atitlán, Santiago Camotlán, Santiago Choapam, Santiago Comaltepec, Santiago Lalopa, Santiago Laxopa, Santiago Matatlán, Santiago Minas, Santiago Nacaltepec, Santiago Suchilquitongo, Santiago Tenango, Santiago Textitlán, Santiago Tlazoyaltepec, Santiago Xanica, Santiago Xiacuí, Santiago Zacatepec, Santiago Zoochila, Santo Domingo Albarradas, Santo Domingo Nuxaá, Santo Domingo Ozolotepec, Santo Domingo Roayaga, Santo Domingo Teojomulco, Santo Domingo Tepuxtepec, Santo Domingo Tomaltepec, Santo Domingo Xagacía, Santo Tomás Jalieza, Santo Tomás Mazaltepec, Santo Tomás Tamazulapan, Sitio de Xitlapehua, Soledad Etla, Tamazulapam del Espíritu Santo, Tanetze de Zaragoza, Taniche, Teococuilco de Marcos Pérez, Teotitlán del Valle, Tlacolula de Matamoros, Tlalixtac de Cabrera, Totontepec Villa de Morelos, Trinidad Zaachila, Villa de Etla, Villa de Zaachila, Villa Díaz Ordaz, Villa Hidalgo, Villa Sola de Vega, Villa Talea de Castro, Yaxe, Yogana, Zapotitlán del Río, Zimatlán de Alvarez.
+
+4) La Superintendencia de la Zona Huatulco tiene jurisdicción en el Estado de Oaxaca, en los municipios de: Candelaria Loxicha, La Reforma, Mártires de Tacubaya, Mesones Hidalgo, Pinotepa de Don Luis, Pluma Hidalgo, Putla Villa de Guerrero, San Agustín Chayuco, San Agustín Loxicha, San Andrés Huaxpaltepec, San Antonio Tepetlapa, San Baltazar Loxicha, San Bartolomé Loxicha, San Carlos Yautepec, San Gabriel Mixtepec, San Jerónimo Coatlán, San José Estancia Grande, San Juan Bautista Lo de Soto, San Juan Cacahuatepec, San Juan Colorado, San Juan Lachao, San Juan Ozolotepec, San Juan Quiahije, San Lorenzo, San Mateo Piñas, San Miguel del Puerto, San Miguel Panixtlahuaca, San Miguel Tlacamama, San Pedro Amuzgos, San Pedro Atoyac, San Pedro el Alto, San Pedro Huamelula, San Pedro Jicayán, San Pedro Juchatengo, San Pedro Mixtepec, San Pedro Mixtepec (sic), San Pedro Pochutla, San Sebastián Ixcapa, Santa Catarina Juquila, Santa Catarina Mechoacán, Santa Cruz Zenzontepec, Santa María Colotepec, Santa María Cortijo, Santa María Huatulco, Santa María Huazolotitlán, Santa María Ipalapa, Santa María Temaxcaltepec, Santa María Tonameca, Santa María Zacatepec, Santiago Astata, Santiago Ixtayutla, Santiago Jamiltepec, Santiago Llano Grande, Santiago Pinotepa Nacional, Santiago Tapextla, Santiago Tetepec, Santiago Xanica, Santiago Yaitepec, Santo Domingo Armenta, Santo Domingo de Morelos, Santos Reyes Nopala, Tataltepec de Valdés, Villa de Tututepec de Melchor Ocampo, Villa Sola de Vega; en el Estado de Guerrero, en el municipio Pilcaya.
+
+5) La Superintendencia de la Zona Huajuapan tiene jurisdicción en el Estado de Oaxaca, en los municipios de: Asunción Cuyotepeji, Asunción Nochixtlán, Calihualá, halcatongo (sic) de Hidalgo, Chiquihuitlán de Benito Juárez, Coicoyán de las Flores, Concepción Buenavista, Concepción Pápalo, Constancia del Rosario, Cosoltepec, Cuyamecalco Villa de Zaragoza, Eloxochitlán de Flores Magón, Fresnillo de Trujano, Guadalupe de Ramírez, Heroica Ciudad de Huajuapan de León, Heroica Ciudad de Tlaxiaco, Huautepec, Huautla de Jiménez, Ixpantepec Nieves, La Reforma, La Trinidad Vista Hermosa, Magdalena Jaltepec, Magdalena Peñasco, Magdalena Yodocono de Porfirio Díaz, Magdalena Zahuatlán, Mariscala de Juárez, Mazatlán Villa de Flores, Mesones Hidalgo, Putla Villa de Guerrero, San Agustín Atenango, San Agustín Tlacotepec, San Andrés Cabecera Nueva, San Andrés Dinicuiti, San Andrés Lagunas, San Andrés Nuxiño, San Andrés Sinaxtla, San Andrés Teotilalpam, San Andrés Tepetlapa, San Antonino Monte Verde, San Antonio Acutla, San Antonio Nanahuatípam, San Antonio Sinicahua, San Bartolo Soyaltepec, San Bartolomé Ayautla, San Bartolomé Yucuañe, San Cristóbal Amoltepec, San Cristóbal Suchixtlahuaca, San Esteban Atatlahuca, San Francisco Chapulapa, San Francisco Chindúa, San Francisco Huehuetlán, San Francisco Jaltepetongo, San Francisco Nuxaño, San Francisco Telixtlahuaca, San Francisco Teopan, San Francisco Tlapancingo, San Jerónimo Silacayoapilla, San Jerónimo Sosola, San Jerónimo Tecoátl, San Jorge Nuchita, San José Ayuquila, San José Tenango, San Juan Achiutla, San Juan Bautista Coixtlahuaca, San Juan Bautista Cuicatlán, San Juan Bautista Suchitepec, San Juan Bautista Tlachichilco, San Juan Cieneguilla, San Juan Coatzóspam, San Juan de los Cués, San Juan Diuxi, San Juan Ðumí, San Juan Ihualtepec, San Juan Mixtepec, San Juan Sayultepec, San Juan Tamazola, San Juan Teita, San Juan Tepeuxila, San Juan Teposcolula, San Juan Yucuita, San Lorenzo Cuaunecuiltitla, San Lorenzo Victoria, San Lucas Zoquiápam, San Marcos Arteaga, San Martín Huamelúlpam, San Martín Itunyoso, San Martín Peras, San Martín Toxpalan, San Martín Zacatepec, San Mateo Etlatongo, San Mateo Nejápam, San Mateo Peñasco, San Mateo Sindihui, San Mateo Tlapiltepec, San Mateo Yoloxochitlán, San Miguel Achiutla, San Miguel Ahuehuetitlán, San Miguel Amatitlán, San Miguel Chicahua, San Miguel el Grande, San Miguel Huautla, San Miguel Piedras, San Miguel Santa Flor, San Miguel Tecomatlán, San Miguel Tequixtepec, San Miguel Tlacotepec, San Miguel Tulancingo, San Nicolás Hidalgo, San Pablo Tijaltepec, San Pedro Coxcaltepec Cántaros, San Pedro Jaltepetongo, San Pedro Jocotipac, San Pedro Mártir Yucuxaco, San Pedro Molinos, San Pedro Nopala, San Pedro Ocopetatillo, San Pedro Sochiapam, San Pedro Teozacoalco, San Pedro Teutila, San Pedro Tidaá, San Pedro Topiltepec, San Pedro y San Pablo Ayutla, San Pedro y San Pablo Teposcolula, San Pedro y San Pablo Tequixtepec, San Pedro Yucunama, San Sebastián Nicananduta, San Sebastián Tecomaxtlahuaca, San Simón Zahuatlán, San Vicente Nuñú, Santa Ana Ateixtlahuaca, Santa Ana Cuauhtémoc, Santa Catarina Tayata, Santa Catarina Ticuá, Santa Catarina Yosonotú, Santa Catarina Zapoquila, Santa Cruz Acatepec, Santa Cruz de Bravo, Santa Cruz Itundujia, Santa Cruz Nundaco, Santa Cruz Tacache de Mina, Santa Cruz Tacahua, Santa Cruz Tayata, Santa Inés de Zaragoza, Santa Lucía Monteverde, Santa Magdalena Jicotlán, Santa María Apazco, Santa María Camotlán, Santa María Chachoápam, Santa María Chilchotla, Santa María del Rosario, Santa María Ixcatlán, Santa María la Asunción, Santa María Nativitas, Santa María Nduayaco, Santa María Pápalo, Santa María Tataltepec, Santa María Tecomavaca, Santa María Teopoxco, Santa María Texcatitlán, Santa María Tlalixtac, Santa María Yolotepec, Santa María Yosoyúa, Santa María Yucuhiti, Santa María Zacatepec, Santiago Amoltepec, Santiago Apoala, Santiago Ayuquililla, Santiago Cacaloxtepec, Santiago Chazumba, Santiago del Río, Santiago Huajolotitlán, Santiago Huauclilla, Santiago Ihuitlán Plumas, Santiago Juxtlahuaca, Santiago Miltepec, Santiago Nejapilla, Santiago Nundiche, Santiago Nuyoó, Santiago Tamazola, Santiago Tepetlapa, Santiago Texcalcingo, Santiago Tilantongo, Santiago Tillo, Santiago Yolomécatl, Santiago Yosondúa, Santiago Yucuyachi, Santo Domingo Ixcatlán, Santo Domingo Nuxaá, Santo Domingo Tlatayápam, Santo Domingo Tonalá, Santo Domingo Tonaltepec, Santo Domingo Yanhuitlán, Santo Domingo Yodohino, Santo Tomás Ocotepec, Santos Reyes Pápalo, Santos Reyes Tepejillo, Santos Reyes Yucuná, Silacayoápam, Teotitlán de Flores Magón, Teotongo, Tepelmeme Villa de Morelos, Tezoatlán de Segura y Luna, Tlacotepec Plumas, Valerio Trujano, Villa de Chilapa de Díaz, Villa de Tamazulápam del Progreso, Villa Tejúpam de la Unión, Yutanduchi de Guerrero, Zapotitlán Lagunas, Zapotitlán Palmas; en el Estado de Puebla, en los municipios de: Chila, Coxcatlán.
+
+6) La Superintendencia de la Zona Tapachula tiene jurisdicción en el Estado de Chiapas, en los municipios de: Acacoyagua, Acapetahua, Amatenango de la Frontera, Arriaga, Bejucal de Ocampo, Bella Vista, Cacahoatán, El Porvenir, Escuintla, Frontera Hidalgo, Huehuetán, Huixtla, La Grandeza, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Motozintla, Pijijiapan, Siltepec, Suchiate, Tapachula, Tila, Tonalá, Tuxtla Chico, Tuzantán, Unión Juárez, Villa Comaltitlán.
+
+7) La Superintendencia de la Zona Tehuantepec tiene jurisdicción en el Estado de Oaxaca, en los municipios de: Asunción Ixtaltepec, Asunción Tlacolulita, Chahuites, Ciudad Ixtepec, El Barrio de la Soledad, El Espinal, Guevea de Humboldt, Juchitán de Zaragoza, Magdalena Tequisistlán, Magdalena Tlacotepec, Matías Romero Avendaño, Nejapa de Madero, Reforma de Pineda, Salina Cruz, San Bartolo Yautepec, San Blas Atempa, San Carlos Yautepec, San Dionisio del Mar, San Francisco del Mar, San Francisco Ixhuatán, San Juan Guichicovi, San Juan Juquila Mixes, San Juan Lajarcia, San Juan Mazatlán, San Mateo del Mar, San Miguel Chimalapa, San Miguel Tenango, San Pedro Comitancillo, San Pedro Huamelula, San Pedro Huilotepec, San Pedro Mártir Quiechapa, San Pedro Quiatoni, San Pedro Tapanatepec, San Pedro Totolapa, Santa Ana Tavela, Santa María Chimalapa, Santa María Ecatepec, Santa María Guienagati, Santa María Jalapa del Marqués, Santa María Mixtequilla, Santa María Petapa, Santa María Quiegolani, Santa María Totolapilla, Santa María Xadani, Santiago Astata, Santiago Ixcuintepec, Santiago Lachiguiri, Santiago Laollaga, Santiago Niltepec, Santo Domingo Chihuitán, Santo Domingo Ingenio, Santo Domingo Petapa, Santo Domingo Tehuantepec, Santo Domingo Zanatepec, Unión Hidalgo.
+
+8) La Superintendencia de la Zona Villahermosa tiene jurisdicción en el Estado de Chiapas, en los municipios de: Chapultenango, Chenalhó, Cintalapa, Ixhuatán, Ixtacomitán, Ixtapangajoya, Juárez, Pichucalco, Reforma, Solusuchiapa, Soyalo, Suchiapa, Sunuapa, Tapalapa, Tapilula; en el Estado de Tabasco, en los municipios de: Cárdenas, Centla, Centro, Jalapa, Macuspana, Nacajuca, Tacotalpa, Teapa.
+
+9) La Superintendencia de la Zona Chontalpa tiene jurisdicción en el Estado de Tabasco, en los municipios de: Cárdenas, Centro, Comalcalco, Cunduacán, Huimanguillo, Jalpa de Méndez, Nacajuca, Paraíso; en el Estado de Chiapas, en los municipios de: Ocozocoautla de Espinosa, Ostuacán, Sabanilla, Tecpatán.
+
+10) La Superintendencia de la Zona Los Ríos tiene jurisdicción en el Estado de Tabasco, en los municipios de: Balancán, Emiliano Zapata, Jonuta, Macuspana, Teapa, Tenosique; en el Estado de Campeche, en el municipio de Palizada; en el Estado de Chiapas, en los municipios de: Catazajá, Chilón, La Libertad, Ocosingo, Palenque, Salto de Agua, Tila, Tumbalá, Benemérito de las Américas y Marqués de Comillas.
+
+XIV. La Gerencia Divisional de Distribución Valle de México Sur tiene jurisdicción en el Distrito Federal en las delegaciones: Milpa Alta, Tláhuac, Tlalpan, Coyoacán, Xochimilco, Magdalena Contreras, Cuajimalpa de Morelos, Alvaro Obregón e Iztapalapa, así como en los municipios del Estado de México: Ecatzingo de Hidalgo, Tepetlixpa, Atlautla de Victoria, Ozumba, Temamatla, Amecameca, Juchitepec, Tenango del Aire, Ayapango, Tlalmanalco, Cocotitlan, Chalco de Díaz, Ixtapaluca, Almoloya del Río, Ocoyoacac, Calimaya, Capulhuac, Xalatlaco, Malinalco, Ocuilan, Santa María Rayón, San Antonio La Isla, San Mateo Atenco, Tenancingo, Tenango del Valle, Santiago Tianguistenco, Xalatlaco, Texcalyacac, Santa Cruz Atizapan, Mexicaltzingo, Chapultepec, Joquicingo, Toluca, Zinacantepec, Otzolotepec, Xonacatlan, Lerma y Metepec.
+
+La Gerencia Divisional Valle de México Sur cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Volcanes.
+
+2) Superintendencia Zona Ermita.
+
+3) Superintendencia Zona Coapa.
+
+4) Superintendencia Zona Universidad.
+
+5) Superintendencia Zona Las Lomas.
+
+6) Superintendencia Zona Tenango, y
+
+7) Superintendencia Zona Toluca.
+
+1) Superintendencia Zona Volcanes tiene jurisdicción dentro del Distrito Federal en las delegaciones de: delegación Iztapalapa, delegación Tláhuac y delegación Milpa Alta, así como los municipios de Ecatzingo de Hidalgo, Tepetlixpa, Atlautla de Victoria, Ozumba, Temamatla, Amecameca, Juchitepec, Tenango del Aire, Ayapango, Tlalmanalco, Cocotitlan, Chalco de Díaz, Ixtapaluca, y Valle de Chalco del Estado de México.
+
+2) Superintendencia Zona Ermita tiene jurisdicción dentro del Distrito Federal en las delegaciónes de: Iztapalapa y Tláhuac.
+
+3) Superintendencia Zona Coapa tiene jurisdicción dentro del Distrito Federal en las delegaciones de: Xochimilco, Tlalpan, Iztapalapa, Tláhuac y Milpa Alta.
+
+4) Superintendencia Zona Universidad tiene jurisdicción dentro del Distrito Federal en las delegaciones de: Coyoacán, Magdalena Contreras, Alvaro Obregón y Tlalpan.
+
+5) Superintendencia Zona Las Lomas tiene jurisdicción dentro del Distrito Federal en las delegaciones de: Cuajimalpa de Morelos, Alvaro Obregón, Magdalena Contreras y el Municipio de Huixquilucan del Estado de México.
+
+6) Superintendencia de Zona Tenango tiene jurisdicción dentro del Estado de México en los municipios de Almoloya del Río, Almoloya de Juárez, Ocoyoacac, Calimaya, Capulhuac, Xalatlaco, Malinalco, Ocuilán, Santa María Rayón, San Antonio La Isla, San Mateo Atenco, Tenancingo, Tenango del Valle, Santiago Tianguistenco, Texcalyacac, Santa Cruz Atizapan, Mexicaltzingo, Chapultepec, Joquicingo y Metepec.
+
+7) Superintendencia de Zona Toluca tiene jurisdicción dentro del Estado de México en los municipios de Toluca, Zinacantepec, Otzolotepec, Xonacatlan, Lerma y Metepec.
+
+XV. La Gerencia Divisional de Distribución Valle de México Centro, tiene jurisdicción en el Distrito Federal en las delegaciones: Venustiano Carranza, Iztacalco, Benito Juárez, Iztapalapa, Miguel Hidalgo, Gustavo Adolfo Madero, Azcapotzalco, Alvaro Obregón, Cuajimalpa y Cuauhtémoc, así como en los municipios del Estado de México Nezahualcóyotl, Chimalhuacán, Texcoco, Chiautla, La Paz, San Vicente Chicoloapan, Papalotla, Atenco, Tepetlaoxtoc, Chiconcuac, Huixquilucan y Naucalpan.
+
+La Gerencia Divisional de Distribución Valle de México Centro cuenta con las siguientes Superintendencias:
+
+1) Superintendencia Zona Zócalo.
+
+2) Superintendencia Zona Aeropuerto.
+
+3) Superintendencia Benito Juárez.
+
+4) Superintendencia Zona Polanco.
+
+5) Superintendencia Zona Nezahualcóyotl.
+
+6) Superintendencia Zona Chapingo, y
+
+7) Superintendencia Zona Tacuba.
+
+1) La Superintendencia Zona Zócalo tiene jurisdicción dentro del Distrito Federal en la delegación: Cuauhtémoc
+
+2) La Superintendencia Zona Aeropuerto tiene jurisdicción dentro del Distrito Federal en las delegaciones: Venustiano Carranza, Iztacalco e Iztapalapa y en el Estado de México en el Municipio de Nezahualcóyotl.
+
+3) La Superintendencia Zona Benito Juárez tiene la jurisdicción dentro del Distrito Federal en las delegaciones: Benito Juárez, Iztacalco, Miguel Hidalgo, Iztapalapa y Alvaro Obregón.
+
+4) La Superintendencia Zona Polanco tiene jurisdicción dentro del Distrito Federal en las delegaciones: Miguel Hidalgo, Cuajimalpa y Alvaro Obregón y en el Estado de México en los municipios de Huixquilucan y Naucalpan.
+
+5) La Superintendencia Zona Nezahualcóyotl tiene jurisdicción dentro del Distrito Federal en las delegaciones: Iztacalco, Iztapalapa y Venustiano Carranza y en el Estado de México en el Municipio de Nezahualcóyotl.
+
+6) La Superintendencia Zona Chapingo tiene jurisdicción dentro del Estado de México, en los municipios de Atenco, Chiautla, San Vicente Chicoloapan, Chiconcuac, Chimalhuacán, La Paz, Nezahualcóyotl, Papalotla y Tepetlaoxtoc.
+
+7) La Superintendencia Zona Tacuba tiene jurisdicción dentro del Distrito Federal en las delegaciones: Azcapotzalco, Cuauhtémoc, Gustavo Adolfo Madero, Miguel Hidalgo y Venustiano Carranza.
+
+XVI. La Gerencia Divisional de Distribución Valle de México Norte tiene jurisdicción en el Distrito Federal en las delegaciones: Alvaro Obregón, Gustavo Adolfo Madero, Miguel Hidalgo y Azcapotzalco; así como en los municipios en el Estado de México: Acolman, Apaxco, Atizapán de Zaragoza, Atenco, Axapusco, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Huehuetoca, Huixquilucan, Isidro Fabela, Jaltenco, Jilotzingo, Naucalpan de Juárez, Netzahualcóyotl, Nextlalpan, Nicolás Romero, Otumba, San Martín de las Pirámides, Tecamac, Tepotzotlán, Temascalapa, Teoloyucan, Teotihuacán, Tequixquiuac, Texcoco, Tezoyuca, Tlalnepantla de Baz, Tonanitla, Tultepec, Tultitlán y Zumpango.
+
+La Gerencia Divisional de Distribución Valle de México Norte cuenta con las siguientes Superintendencias:
+
+1. Superintendencia Zona Atizapán.
+
+2. Superintendencia Zona Azteca.
+
+3. Superintendencia Zona Basílica.
+
+4. Superintendencia Zona Cuautitlán.
+
+5. Superintendencia Zona Ecatepec.
+
+6. Superintendencia Zona Naucalpan, y
+
+7. Superintendencia Zona Tlalnepantla.
+
+1) La Superintendencia Zona Atizapán tiene jurisdicción dentro del Distrito Federal en la delegación: Alvaro Obregón; así como en los municipios del Estado de México: Atizapán de Zaragoza, Cuautitlán, Cuautitlán Izcalli, Isidro Fabela, Jilotzingo, Naucalpan de Juárez, Nicolás Romero, Tepotzotlan, Tlalnepantla de Baz y Tultitlan.
+
+2) La Superintendencia Zona Azteca tiene jurisdicción dentro del Distrito Federal en las delegaciones: Gustavo Adolfo Madero y Miguel Hidalgo; así como en los municipios del Estado de México de Atenco, Ecatepec de Morelos, Netzahualcóyotl y Tlalnepantla de Baz.
+
+3) La Superintendencia Zona Basílica tiene jurisdicción dentro del Distrito Federal en las delegaciones: Azcapotzalco y Gustavo Adolfo Madero; así como en el Estado de México, en el Municipio de Tlalnepantla de Baz.
+
+4) La Superintendencia Zona Cuautitlán tiene jurisdicción dentro del Estado de México en los municipios: Apaxco, Atizapán de Zaragoza, Coacalco de Berriozábal, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Melchor Ocampo, Nicolás Romero, Teoloyucan, Tepotzotlan, Tequixquiac, Tlalnepantla de Baz, Tultepec, Tultitlan.
+
+5) La Superintendencia Zona Ecatepec tiene jurisdicción dentro del Estado de México en los municipios: Acolman, Atenco, Axapusco, Chiautla, Coacalco de Berriozábal, Coyotepec, Cuautitlán Izcalli, Ecatepec de Morelos, Huehuetoca, Hueypoxtla, Jaltenco, Melchor Ocampo, Nextlalpan, Nopaltepec, Otumba, San Martín de las Pirámides, Santa María Tonanitla, Tecamac, Temascalapa, Teotihuacán, Tepetlaoxtoc, Tequixquiuac, Texcoco, Tezoyuca, Tultepec, Tultitlán, Zumpango.
+
+6) La Superintendencia Zona Naucalpan tiene jurisdicción dentro del Distrito Federal en la Delegación Azcapotzalco; así como en los municipios del Estado de México: Huixquilucan, Naucalpan de Juárez, y Tlalnepantla de Baz.
+
+7) La Superintendencia Zona Tlalnepantla tiene jurisdicción dentro del Distrito Federal en las delegaciones: Azcapotzalco, Gustavo A. Madero y Miguel Hidalgo; así como en los municipios del Estado de México en Naucalpan de Juárez y Tlalnepantla de Baz.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 53 Bis.
+
+A los Titulares de las Gerencias Divisionales de Distribución y de las Superintendencias de Zona les corresponden las facultades siguientes:
+
+I. Ordenar, expedir, firmar, notificar y ejecutar, por conducto del personal que en cada caso se designe, el procedimiento de verificación a los equipos de medición.
+
+II. Determinar, expedir y notificar los ajustes en la facturación.
+
+III. Expedir los avisos-recibo.
+
+IV. Ordenar, expedir, firmar, notificar y ejecutar, por conducto del personal que en cada caso se designe, la suspensión o corte del suministro de energía eléctrica.
+
+V. Celebrar y dar por terminado el contrato de suministro de energía eléctrica, y
+
+VI. Recibir, sustanciar y resolver los recursos materia de su competencia.
+
+Las facultades a que este precepto se refiere también podrán ser ejercidas por los Subgerentes Comerciales, los Jefes de Departamentos Jurídicos Divisionales, Jefes de Departamento, Jefes de Oficina y Agentes Comerciales de las Gerencias Divisionales de Distribución, y de las Superintendencias de Zona.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 53 Ter.
+
+A los Titulares de las Gerencias Regionales de Transmisión, de las Residencias Regionales de Proyectos de Transmisión y Transformación, de las Residencias Regionales de Construcción de Proyectos Termoeléctricos, de las Gerencias Regionales de Producción, de las Gerencias Divisionales de Distribución, de las Residencias Generales de Construcción de Proyectos Hidroeléctricos, de la Gerencia de Centrales Nucleoeléctricas, de la Gerencia de Proyectos Geotermoeléctricos, y de las Superintendencias de Zona, les corresponden las facultades siguientes:
+
+I. Celebrar y suscribir los contratos de obra pública, servicios relacionados con la misma, de adquisiciones, de arrendamientos y servicios.
+
+II. Iniciar y llevar a cabo el procedimiento de rescisión administrativa de contratos.
+
+III. Rescindir administrativamente los contratos.
+
+IV. Finiquitar los contratos de obra pública, servicios relacionados con la misma, de adquisiciones, de arrendamientos y servicios.
+
+V. Aplicar las penalizaciones por incumplimiento a los contratos de obra pública, servicios relacionados con la misma, de adquisiciones, de arrendamientos y servicios, y
+
+VI. Recibir, sustanciar y resolver los recursos materia de su competencia.
+
+Las facultades a que este precepto se refiere también podrán ser ejercidas por las Unidades Administrativas de las referidas Areas Administrativas Regionales.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 53 Quáter.
+
+Los Departamentos Jurídicos de las Areas Administrativas Regionales están facultados para defender los intereses jurídicos de la Comisión y representarla en los juicios, procedimientos y recursos administrativos, judiciales o arbitrales laborales o administrativos en que sea parte o tenga interés jurídico, los cuales son unidades administrativas encargadas de la defensa jurídica de la Comisión.
 
 ### Capítulo IX. Del Organo Interno de Control
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+ArtÍculo 54. La Comisión cuenta con un Organo Interno de Control, al frente del cual el Titular del Organo Interno de Control designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las Areas de Auditoría Interna, de Responsabilidades, de Quejas, de Auditoría para Desarrollo y Mejora de la Gestión Pública, de Auditoría y Quejas en Proyectos Especiales y de Auditoría y Quejas en la Región Valle de México designados en los mismos términos.
+
+El Organo Interno de Control contará con Organos Internos de Control Regionales, cuyo ámbito territorial comprenderá al menos una de las Areas Administrativas Regionales establecidas conforme al artículo 53, fracción III de este Estatuto.
+
+El ámbito de competencia del Organo Interno de Control Regional comprenderá a todas las Areas Administrativas establecidas en el artículo 53 que se encuentren en su región.
+
+Los titulares de los Organos Internos de Control Regional son designados en los términos citados en el primer párrafo de este artículo.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+Los servidores públicos a que se refieren los párrafos anteriores, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por los artículos 79 y 80 del Reglamento Interior de la Secretaría de la Función Pública, en sus respectivas competencias.
+
+El Organo Interno de Control cuenta, además de las áreas mencionadas, con el apoyo del Area de Coordinación Administrativa.
 
 ###### Artículo 54.
 
@@ -1379,23 +2209,45 @@ III. Area de Responsabilidades.
 
 IV. Area de Quejas.
 
-V. Area de Auditoría de Control y Evaluación.
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
-VI. (DEROGADA, D.O.F. 12 DE JULIO DE 2005).
+V. Area de Auditoría para Desarrollo y Mejora de la Gestión Pública.
 
-VII. Organos Internos de Control en sus distintas regiones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+VI. Area de Auditoría y Quejas en Proyectos Especiales.
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+VII. Area de Auditoría y Quejas en la Región Valle de México.
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+VIII. Organos Internos de Control en sus distintas regiones.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 56.
 
-El Titular del Area de Auditoría Interna se auxiliará de una Subgerencia de Auditoría de Operación y Construcción y demás personal adscrito al Area, quienes actuarán como apoyo del Titular del Area y del Titular del Organo Interno de Control en la atención de los asuntos de su competencia.
+El Titular del Area de Auditoría Interna se auxiliará de una Subgerencia de Normatividad de Operación y Construcción y demás personal adscrito al Area, quienes actuarán como apoyo del Titular del Area y del Titular del Organo Interno de Control en la atención de los asuntos de su competencia.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 57.
 
-El Titular del Area de Responsabilidades se auxiliará de una Subgerencia de Responsabilidades y una Subgerencia de Inconformidades y demás personal adscrito al Area, quienes actuarán como apoyo del Titular del Area y del Titular del Organo Interno de Control en la atención de los asuntos de su competencia.
+El Titular del Area de Responsabilidades se auxiliará de las Subgerencias de Responsabilidades, de Inconformidades y de lo Contencioso y Conciliaciones, y demás personal adscrito al Area, quienes actuarán como apoyo del Titular del Area y del Titular del Organo Interno de Control en la atención de los asuntos de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 57 Bis.
+
+El Titular del Area de Auditoría y Quejas en la Región Valle de México se auxiliará de las Subgerencias de Auditoría y de Quejas y Denuncias, y demás personal adscrito al Area, quienes actuarán como apoyo del Titular del Area, de los titulares de las Areas de Auditoría Interna, de Quejas, de Responsabilidades y, de Auditoría para Desarrollo y Mejora de la Gestión Pública, y del Titular del Organo Interno de Control, en la atención de los asuntos de su competencia.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 58.
 
-El Titular del Organo Interno de Control en la Comisión en cada una de sus Regiones se auxiliará de un Auditor Regional de Auditoría Interna y de un Auditor Regional de Control y Evaluación y demás personal adscrito al mismo, quienes actuarán en apoyo del Titular del Organo Interno de Control y los titulares de las Areas de Auditoría, Quejas y Responsabilidades, así como el de Auditoría de Control y Evaluación en la atención de los asuntos de su competencia. Los titulares de los Organos Internos de Control, en sus distintas Regiones serán coordinados por el Titular del Organo Interno de Control, de conformidad con las facultades conferidas al mismo por los ordenamientos legales y administrativos aplicables.
+El Titular del Organo Interno de Control en la Comisión en cada una de sus Regiones se auxiliará de un Auditor Regional de Auditoría Interna y de un Auditor Regional de Control y Evaluación y demás personal adscrito al mismo, quienes actuarán en apoyo del Titular del Organo Interno de Control y los Titulares de las Areas de Auditoría Interna, Responsabilidades, Quejas, así como el de Auditoría para Desarrollo y Mejora de la Gestión Pública, en la atención de los asuntos de su competencia. Los Titulares de los Organos Internos de Control, en sus distintas Regiones serán coordinados por el Titular del Organo Interno de Control, de conformidad con las facultades conferidas al mismo por los ordenamientos legales y administrativos aplicables.
 
 ## Título III. De las Suplencias
 
@@ -1405,9 +2257,9 @@ El Titular del Organo Interno de Control en la Comisión en cada una de sus Regi
 
 Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la Comisión estará a cargo de cada uno de los Directores en la esfera de sus facultades.
 
-> <small>(REFORMADO, D.O.F. 8 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
-En los juicios de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de las demandas e interposición de los Recursos de Revisión a que se refiere la Ley Federal de Procedimiento Contencioso Administrativo, inclusive la materia laboral, será suplido, indistintamente, por el Director de Administración, el Abogado General o el Gerente de Asuntos Contenciosos.
+En los juicios de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de las demandas e interposición de los Recursos de Revisión a que se refiere la Ley Federal de Procedimiento Contencioso Administrativo, inclusive la materia laboral, será representado o suplido, indistintamente, por el Director de Administración, el Abogado General o el Gerente de Asuntos Contenciosos.
 
 ###### Artículo 60.
 
@@ -1416,6 +2268,10 @@ Los Directores serán suplidos, indistintamente, por los Subdirectores o Coordin
 > <small>(F. DE E., D.O.F. 17 DE MARZO DE 2004)</small>
 
 El Abogado General, los Subdirectores y los Coordinadores serán suplidos, indistintamente, por los Gerentes que de ellos dependan.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
+En los juicios de amparo, los Directores, el Abogado General, Subdirectores y los Coordinadores, serán representados o suplidos, indistintamente, por los Gerentes que de ellos dependan.
 
 ###### Artículo 61.
 
@@ -1429,11 +2285,13 @@ Las ausencias del Titular del Organo Interno de Control Regional, serán suplida
 
 En el caso de las vacantes del Titular del Organo Interno de Control Regional, el Titular del Organo Interno de Control, designará al servidor público adscrito al Organo Interno de Control, quien fungirá con ese carácter en tanto el Titular de la Secretaría de la Función Pública designa al servidor correspondiente en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 63.
 
-Las suplencias a que se hace mención en los artículos 59 y 60 de este Estatuto se realizarán mediante la expedición del acuerdo u oficio correspondiente. En caso de que no se haya expedido el acuerdo u oficio de suplencia, las ausencias deberán ser cubiertas por el inmediato inferior del servidor público ausente, tomando en cuenta la materia del asunto.
+Las suplencias a que se hace mención en los artículos 59 y 60 de este Estatuto se realizarán mediante expedición el (sic) acuerdo u oficio correspondiente. En caso de que no se haya expedido el acuerdo u oficio de suplencia, las ausencias deberán ser cubiertas por el inmedianto (sic) inferior del servidor público ausente, tomando en cuenta la materia del asunto.
 
-En cuanto a la suplencia en los juicios de amparo en que debe intervenir el Director General, no se requerirá que se realice mediante la expedición de acuerdo u oficio por parte de aquél.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
 ## Transitorios
 
@@ -1494,3 +2352,9 @@ PRIMERO. Las presentes reformas al Estatuto Orgánico de la Comisión Federal de
 SEGUNDO. Los derechos de los trabajadores no se verán afectados por la reestructuración orgánica que se autoriza por las presentes Reformas.
 
 TERCERO. Los asuntos que se encuentren en trámite en las unidades administrativas que desaparecen, serán atendidos y resueltos por las unidades administrativas que corresponda, de acuerdo a sus respectivas facultades.
+
+D.O.F. 9 DE DICIEMBRE DE 2010.
+
+PRIMERO. Las presentes reformas al Estatuto Orgánico de la Comisión Federal de Electricidad entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que se encuentren en trámite serán atendidos y resueltos por las unidades administrativas en donde se inició su trámite y les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
