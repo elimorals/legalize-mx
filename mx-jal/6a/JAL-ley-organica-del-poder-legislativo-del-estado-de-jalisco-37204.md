@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2010-12-02"
+last_updated: "2010-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -365,7 +365,9 @@ IV. Acatar las disposiciones y encomiendas de la Asamblea y de la Presidencia de
 
 V. Permanecer en el Recinto Oficial del Congreso del Estado durante el desarrollo de las sesiones y en las comisiones y comités durante las reuniones de trabajo debidamente convocadas conforme lo establezca el reglamento. Queda estrictamente prohibido a los diputados abandonar el Recinto Oficial sin el permiso previo de la presidencia de la Mesa Directiva;
 
-VI. Informar cuando la Asamblea los requiera, acerca del cumplimiento de sus obligaciones;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VI. Informar permanentemente a la sociedad de sus actividades;
 
 VII. Guardar prudente sigilo de todo lo que se trate en las sesiones reservadas;
 
@@ -395,7 +397,7 @@ XIV. Las demás que le señalen las leyes y disposiciones reglamentarias aplicab
 
 ###### Artículo 22.
 
-1. Todos los diputados tienen igual derecho de participación, decisión, voz, voto; y gozan de las mismas facultades que les otorga la Constitución del Estado de Jalisco, además de los siguientes derechos:
+1. Todos los diputados tienen igual derecho de participación, decisión, voz, voto y gozan de las mismas facultades que les otorga la Constitución del Estado de Jalisco, además de los siguientes derechos:
 
 I. Presentar iniciativas de ley, decreto o acuerdo legislativo en materia de competencia estatal;
 
@@ -421,9 +423,15 @@ XI. Participar con voz en todas las comisiones y comités;
 
 XII. Proponer a la Asamblea el análisis, evaluación y seguimiento a las acciones de gobierno, la realización de obras, la prestación de servicios públicos, en los términos de la Constitución Política del Estado y gestionar lo conducente;
 
-XIII. Contar con el apoyo del Congreso del Estado en el caso de enfermedad o fallecimiento conforme a lo dispuesto por el reglamento; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-XIV. Los demás que les confieran la Constitución Política del Estado de Jalisco, las leyes y disposiciones reglamentarias aplicables.
+XIII. Contar con el apoyo del Congreso del Estado en el caso de enfermedad o fallecimiento, conforme a lo dispuesto por el reglamento;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+XIV. Realizar gestiones sociales y ser promotores de actividades que beneficien a los habitantes de sus distritos; y
+
+XV. Los demás que les confieran la Constitución Política del Estado de Jalisco, las leyes y disposiciones reglamentarias aplicables.
 
 ### CAPÍTULO III. Suplencia de los Diputados
 
@@ -1399,13 +1407,13 @@ XXV. Juventud y deporte;
 
 XXVI. Medio Ambiente y Desarrollo Sustentable;
 
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+XVIII (SIC). Participación Ciudadana y Acceso a la Información pública;
+
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
-XXVII. Participación Ciudadana;
-
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
-
-XXVIII. Planeación para el Desarrollo
+XXVIII. Planeación para el Desarrollo;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1847,13 +1855,13 @@ IV. La prevención, control y combate de la contaminación, en el ámbito de com
 
 ###### Artículo 95.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-1. Corresponde a la Comisión de Participación Ciudadana el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Participación Ciudadana y Acceso a la Información Pública el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-I. La legislación en materia de participación ciudadana;
+I. La legislación en materia de participación ciudadana, transparencia y acceso a la información pública;
 
 II. Los asuntos planteados por los particulares que requieran dictamen de comisión legislativa y que no sean de competencia expresa de las demás comisiones designadas por el Congreso del Estado;
 
@@ -3888,3 +3896,23 @@ P.O. 20 DE NOVIEMBRE DE 2010.
 P.O. 2 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente dictamen entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 23177/LIX/10, POR EL QUE SE REFORMA EL ARTICULO 73 FRACCION XXVII Y 95 PARRAFO 1 FRACCION I DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los asuntos pendientes de resolver por parte de la comisión de participación ciudadana deberán ser dictaminadas (sic) por la comisión de participación ciudadana y acceso a la información pública, así mismo deberán ser returnados a esta comisión lo relativo a la legislación en materia de transparencia y acceso a la información pública.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 23178/LIX/10, POR EL QUE SE REFORMA DE LA FRACCION VI DEL ARTICULO 21 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+NUMERO 23180/LIX/10, POR EL QUE SE MODIFICA Y ADICIONA UNA FRACCION XIV RECORRIENDOSE EL TEXTO EN SU ORDEN, AL ARTICULO 22 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
