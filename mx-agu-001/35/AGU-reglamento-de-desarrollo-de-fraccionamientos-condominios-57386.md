@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-desarrollo-de-fraccionamientos-condominios-57386"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-29"
-last_updated: "2007-10-29"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE DESARROLLO DE FRACCIONAMIENTOS, CONDOMINIOS, DESARROLLOS ESPECIALES Y SUBDIVISIONES PARA EL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de octubre de 2007.
 
@@ -85,7 +85,15 @@ XVIII.- Subdivisión: Para el alcance de este Reglamento de forma limitativa, se
 
 XIX.- Zona Urbana Consolidada: La superficie de terreno determinada por la línea limítrofe o perímetro de la Zona Urbana Consolidada de un centro de población, que deberá ser delimitada y definida por el Cabildo del Ayuntamiento;
 
-XX.- Municipalización: es el acto formal mediante el cual se realiza la entrega recepción por parte del fraccionador al H. Ayuntamiento, de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en el Código Urbano para el Estado de Aguascalientes y demás disposiciones jurídicas aplicables se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al H. Ayuntamiento, en la esfera de su competencia, prestar los servicios públicos necesarios para el bienestar de sus residentes.
+XX.- Municipalización: es el acto formal mediante el cual se realiza la entrega recepción por parte del fraccionador al H. Ayuntamiento, de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en el Código Urbano para el Estado de Aguascalientes y demás disposiciones jurídicas aplicables se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al H. Ayuntamiento, en la esfera de su competencia, prestar los servicios públicos necesarios para el bienestar de sus residentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+XXI.- UNIDADES EXTERNAS DE SUPERVISIÓN.- Las empresas certificadas con capacidad humana y técnica para realizar la supervisión de los fraccionamientos, condominios y desarrollos especiales en el Municipio de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+XXII.- SUPERVISIÓN ÚNICA.- La que realicen las Unidades Externas de Supervisión, respecto de las obras de urbanización de acuerdo al resumen de dictamen de autorización emitido por la Comisión Estatal de Desarrollo Urbano, así como por las Normas y Especificaciones Técnicas de Urbanización; así como de la calidad de los materiales, obras y servicios realizados en los fraccionamientos, condominios y desarrollos especiales. Incluso esa supervisión podrá comprender el proceso de edificación de la vivienda de carácter económico.
 
 ### CAPÍTULO SEGUNDO. De las Autoridades Competentes
 
@@ -119,9 +127,13 @@ El Comité Técnico de Municipalización y Urbanización, en forma concurrente c
 
 I. Emitir dictamen técnico sobre la autorización de nuevos fraccionamientos;
 
-II. Supervisar y verificar que los promoventes de Fraccionamientos, Condominios, Subdivisiones y Desarrollos Especiales hayan cubierto los derechos o contribuciones fiscales municipales que les correspondan; realizado las donaciones respectivas; así como constituido las garantías que por ley les correspondan y que ejecuten las obras de urbanización de acuerdo al resumen de dictamen de autorización emitido por la Comisión Estatal de Desarrollo Urbano, así como por las Normas y Especificaciones Técnicas de Urbanización;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-III. Dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los fraccionamientos en proceso de municipalización;
+II. Supervisar y verificar que los promoventes de Fraccionamientos, Condominios, Subdivisiones y Desarrollos Especiales hayan cubierto los derechos o contribuciones fiscales municipales que les correspondan; realizado (sic) las donaciones respectivas; así como constituido las garantías que por ley les correspondan; Asimismo supervisar por sí o por conducto de las Unidades Externas de Supervisión que se ejecuten las obras de urbanización de acuerdo al resumen de dictamen de autorización emitido por la Comisión Estatal de Desarrollo Urbano, así como por las Normas y Especificaciones Técnicas de Urbanización;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. Conforme a lo dictaminado por sí o por las Unidades Externas de Supervisión y el Perito responsable de las Obras de Urbanización, dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los Fraccionamientos, Condominios y desarrollos especiales en proceso de municipalización o entrega a la Asamblea de Condóminos;
 
 IV. Proponer y gestionar la creación de normas técnicas y especificaciones de urbanización para el Municipio de Aguascalientes;
 
@@ -177,7 +189,7 @@ IX. Vigilar el cumplimiento y aplicación de las disposiciones legales en materi
 
 X. Vigilar que en los fraccionamientos que no hayan sido municipalizados, así como en los Condominios, Desarrollos Especiales y Subdivisiones, que no hayan sido entregados a los usuarios, los fraccionadores y promoventes presten adecuada y suficientemente los servicios a que se encuentran obligados conforme al Código Urbano para el Estado de Aguascalientes y la autorización respectiva;
 
-XI. Dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los fraccionamientos, Condominios, Subdivisiones y Desarrollos Especiales en proceso de Urbanización;
+XI. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
 XII. Apoyarse del Subcomité de Tránsito y Análisis Vial para dictaminar sobre la estructura vial de nuevos Fraccionamientos, Condominios, Subdivisiones y Desarrollos Especiales.
 
@@ -221,6 +233,10 @@ n. El Regidor de la Comisión de Desarrollo Urbano.
 
 IV. Un Representante de la Secretaría de Planeación y Desarrollo Regional del Estado.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+V. Un representante de las Unidades Externas de Supervisión del Desarrollo que se trate; (sic)
+
 ###### ARTÍCULO 6º.
 
 Cada representante propietario designará un suplente, quien lo sustituirá en sus faltas temporales y en todo caso, será el Secretario Técnico quien supla las faltas del Presidente del Comité Técnico de Municipalización y Urbanización.
@@ -263,7 +279,9 @@ Corresponden a la Secretaría de Desarrollo Urbano Municipal, las siguientes atr
 
 En materia de Fraccionamientos, Condominios, Subdivisiones y Desarrollos Especiales:
 
-I. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la autorización y supervisión de subdivisiones, fraccionamientos, condominios y desarrollos especiales, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+I. Ejercer las atribuciones que le otorga el Código Urbano al Municipio, en cuanto a la autorización de subdivisiones, fraccionamientos, condominios y desarrollos especiales, así como su supervisión por sí o a través las (sic) Unidades Externas de Supervisión y el control del cumplimiento de las obligaciones de los fraccionadores y promoventes;
 
 II. Otorgar, negar o revocar la Licencia de Construcción de Obras de Urbanización, en los casos que ésta se requiera conforme a este ordenamiento y al Código Municipal de Aguascalientes;
 
@@ -271,11 +289,17 @@ III. Llevar a cabo el procedimiento de suspensión de obras de urbanización, ap
 
 IV. Emitir dictamen en conjunto con la Secretaría de Planeación y Desarrollo Regional del Estado de la situación que guardan las especificaciones y características de las obras de urbanización y hacer efectivas las garantías contempladas en el Código Urbano para el Estado de Aguascalientes;
 
-V. Dictaminar sobre las obras de urbanización de los fraccionamientos previo a su Municipalización, Desarrollos Especiales, así como de los Condominios y Subdivisiones antes de la entrega a los usuarios;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-VI. Llevar los avances de las obras de urbanización de los Fraccionamientos, Condominios, Desarrollos Especiales y Subdivisiones;
+V. Conforme a lo dictaminado por sí o por las Unidades Externas de Supervisión y el Perito responsable de las Obras de Urbanización, dictaminar sobre el avance, calidad y cumplimiento de las obras de urbanización de los Fraccionamientos, Condominios y desarrollos especiales en proceso de municipalización o entrega a la Asamblea de Condóminos;
 
-VII. Supervisar la calidad de los materiales y trabajos realizados en las obras de urbanización, así como el avance de éstas, que se realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VI. Llevar por sí o a través de las Unidades Externas de Supervisión los avances de las obras de urbanización de los Fraccionamientos, Condominios, Desarrollos Especiales y Subdivisiones;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VII. Supervisar por sí o a través de las Unidades Externas de Supervisión la calidad de los materiales y trabajos realizados en las obras de urbanización, así como el avance de éstas, que se realicen en los fraccionamientos, subdivisiones, condominios y desarrollos especiales;
 
 VIII. Verificar que se presten suficiente y adecuadamente los servicios a que está obligado el promotor o desarrollador por el Código Urbano para el Estado de Aguascalientes;
 
@@ -319,7 +343,9 @@ I. Establecer las especificaciones técnicas para la construcción de guarnicion
 
 II. Determinar el costo de las obras de urbanización de los fraccionamientos, condominios, desarrollos especiales y subdivisiones para el cálculo de las garantías que señala el Código Urbano para el Estado de Aguascalientes;
 
-III. Supervisar que la ejecución de las obras de guarniciones, banquetas, pavimentos y su infraestructura en arroyos vehiculares en los fraccionamientos, condominios, desarrollos especiales y subdivisiones, se realicen conforme a las especificaciones técnicas que establezca y a las disposiciones del presente ordenamiento; y, en su caso, notificar a la Secretaría de Desarrollo Urbano Municipal para la imposición de las sanciones y medidas de seguridad que resulten procedentes;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. Supervisar por sí o a través de las Unidades Externas de Supervisión que la ejecución de las obras de guarniciones, banquetas, pavimentos y su infraestructura en arroyos vehiculares en los fraccionamientos, condominios, desarrollos especiales y subdivisiones, se realicen conforme a las especificaciones técnicas que establezca y a las disposiciones del presente ordenamiento; y, en su caso, notificar a la Secretaría de Desarrollo Urbano Municipal para la imposición de las sanciones y medidas de seguridad que resulten procedentes;
 
 IV. Autorizar el proyecto de rasantes de vialidades para los fraccionamientos, condominios, desarrollos especiales y subdivisiones. Tratándose de escurrimientos pluviales deberá recabar el visto bueno de la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio;
 
@@ -337,7 +363,9 @@ I. Establecer las normas y especificaciones técnicas requeridas para la infraes
 
 II. Autorizar el proyecto ejecutivo de alumbrado público en los fraccionamientos, condominios, desarrollos especiales y subdivisiones;
 
-III. Supervisar el cumplimiento de la ejecución del proyecto de infraestructura de alumbrado público de conformidad con la normatividad vigente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. Supervisar por sí o a través de las Unidades Externas de Supervisión, el cumplimiento de la ejecución del proyecto de infraestructura de alumbrado público de conformidad con la normatividad vigente;
 
 IV. Vigilar que en los fraccionamientos que no hayan sido municipalizados los fraccionadores, desarrolladores o promoventes presten adecuada y suficientemente el servicio de alumbrado público y en su caso notificar a la Secretaría para la imposición de las sanciones y medidas de seguridad que resulten procedentes;
 
@@ -353,7 +381,9 @@ I. Establecer las normas y especificaciones técnicas requeridas para la infraes
 
 II. Determinar la cantidad, capacidad y ubicación requerida de contenedores para la recolección de basura dentro de los fraccionamientos, condominios, desarrollos especiales y subdivisiones;
 
-III. Supervisar el cumplimiento de dotación de contenedores de conformidad con la normatividad vigente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. Supervisar por sí o a través de las Unidades Externas de Supervisión el cumplimiento de dotación de contenedores de conformidad con la normatividad vigente;
 
 IV. Vigilar que en los fraccionamientos que no hayan sido municipalizados los fraccionadores y promoventes presten adecuada y suficientemente el servicio de limpia y en su caso notificar a la Secretaría para la imposición de las sanciones y medidas de seguridad que resulten procedentes;
 
@@ -371,7 +401,9 @@ I. Establecer las normas y especificaciones técnicas requeridas de la forestaci
 
 II. Determinar la cantidad y ubicación requerida de plantas de ornato y árboles para la forestación dentro de los fraccionamientos, condominios, desarrollos especiales y subdivisiones;
 
-III. Supervisar el cumplimiento de dotación de la forestación de conformidad con la normatividad vigente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. Supervisar por sí o a través de las Unidades Externas de Supervisión, el cumplimiento de dotación de la forestación de conformidad con la normatividad vigente;
 
 IV. Vigilar que en los fraccionamientos que no hayan sido municipalizados los fraccionadores, desarrolladores y promoventes presten adecuada y suficientemente el servicio de forestación y mantenimiento de las áreas verdes y equipamiento y en su caso notificar a la Secretaría para la imposición de las sanciones y medidas de seguridad que resulten procedentes;
 
@@ -387,7 +419,9 @@ I. Establecer las normas y especificaciones técnicas requeridas de la infraestr
 
 II. Autorizar el proyecto de circulación de la estructura vial así como la ubicación de la misma en los fraccionamientos, condominios, desarrollos especiales y subdivisiones, dentro y fuera del contexto, que requiera el estudio de impacto vial;
 
-III. Supervisar el cumplimiento de la ejecución del proyecto de infraestructura de señalización vial y placas de nomenclatura o toponimia de conformidad con la normatividad vigente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+III. Supervisar por sí o a través de las Unidades Externas de Supervisión, el cumplimiento de la ejecución del proyecto de infraestructura de señalización vial y placas de nomenclatura o toponimia de conformidad con la normatividad vigente;
 
 IV. Vigilar que en los fraccionamientos que no hayan sido municipalizados los fraccionadores, desarrolladores y promoventes presten adecuada y suficientemente el suministro y mantenimiento de la señalización vial y placas de nomenclatura o toponimia y en su caso notificar a la Secretaría para la imposición de las sanciones y medidas de seguridad que resulten procedentes;
 
@@ -415,7 +449,9 @@ VI. Las demás que se deriven del presente ordenamiento y de otras disposiciones
 
 Las Delegaciones Urbanas y Rurales, tendrán las siguientes atribuciones:
 
-I. Supervisión de las obras de Urbanización de los Fraccionamientos, Desarrollos Especiales, Condominios y Subdivisiones;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+I. Solicitar reportes a las Dependencias Municipales o a las Unidades Externas de Supervisión que la (sic) hayan realizado los avances o calidad de ejecución de las obras de Urbanización Correspondientes;
 
 II. Brindar apoyo de supervisión a las demás Dependencias cuando así lo soliciten;
 
@@ -2756,3 +2792,9 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los Artículos 120, fracción VII de la Ley Municipal para el Estado de Aguascalientes; 102, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- M. en D. Gabriel Ochoa Amador.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
