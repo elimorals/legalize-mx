@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-servicios-de-15860"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "1997-04-10"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -63,7 +63,9 @@ El Organismo tendrá por objeto prestar servicios de salud a la población en es
 
 El Organismo tendrá las siguientes atribuciones:
 
-I. Organizar y operar en el Estado de Jalisco, servicios de salud a la población en materia de salubridad general y coadyuvar con la Secretaría de Salud Jalisco en la regulación y control sanitarios, debiendo observar lo que establece el Acuerdo de Coordinación, y apoyar en la organización del Sistema Estatal de Salud en los términos de las Leyes General y Estatal de Salud.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+I. Organizar y operar en el estado de Jalisco los servicios de salud dirigidos a la población en materia de salubridad general y local, debiendo observar lo que establece el acuerdo de coordinación, y apoyar en la organización del Sistema Estatal de Salud en los términos de las leyes general y estatal de Salud.
 
 II. Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes de esta Entidad Federativa.
 
@@ -282,3 +284,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
