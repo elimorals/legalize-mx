@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2008-10-02"
+last_updated: "2010-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -673,7 +673,7 @@ III. Exploración, extracción y procesamiento de minerales y sustancias que con
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
-IV. Instalación y operación de establecimientos industriales, comerciales y de servicios que se ubiquen en su jurisdicción y cuya regulación no se encuentre reservada a la federación ni al estado;
+IV. Instalación y operación de establecimientos industriales, comerciales y de servicios que se ubiquen en su jurisdicción y cuya regulación no se encuentre reservada a la federación ni al estado; y
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -843,7 +843,7 @@ VII. La prevención y control de la contaminación atmosférica, de suelos y de 
 
 Artículo 41 Quarter. Los recursos del Fondo Ambiental se integrarán con:
 
-I. Las herencias, legados, cesión de derechos y donaciones que reciba;
+I. Las herencias, Iegados, cesión de derechos y donaciones que reciba;
 
 II. Los recursos destinados para ese efecto en las leyes de ingresos y los presupuestos de egresos de la Federación, Estado y los municipios;
 
@@ -1261,7 +1261,13 @@ V. Establecerán y operarán sistemas de verificación de emisiones de fuentes f
 
 VI. Establecerán y operarán con el apoyo técnico, en su caso, de la federación, sistemas de monitoreo de la calidad del aire. Dichos sistemas deberán contar con dictamen técnico previo de la autoridad federal. Asimismo, aportarán los reportes locales del monitoreo a la información nacional, cuya integración está a cargo de la federación;
 
-VII. Establecerán requisitos y procedimientos para regular las emisiones del transporte público, excepto el federal, y las medidas de tránsito y, en su caso, la suspensión de circulación, en casos graves de contaminación;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+
+VII. Establecerán programas de verificación vehicular dirigidos al transporte público y a los vehículos de uso particular, con carácter obligatorio; los programas deberán contener lineamientos para:
+
+a) La autorización de los establecimientos que brinden los servicios de verificación vehicular oficial, y
+
+b) El cumplimiento del programa por parte de los propietarios de vehículos automotores;
 
 VIII. Establecerán las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
 
@@ -2374,3 +2380,7 @@ P.O. 20 DE OCTUBRE DE 2007.
 P.O. 2 DE OCTUBRE DE 2008.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE DICIEMBRE DE 2010.
+
+ÚNICO. El presente decreto entrará en vigor a los 15 días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
