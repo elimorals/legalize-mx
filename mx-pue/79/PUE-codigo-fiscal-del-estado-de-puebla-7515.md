@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2010-12-03"
+last_updated: "2010-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -45,11 +45,13 @@ CODIGO FISCAL DEL ESTADO DE PUEBLA
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 1.
 
-La hacienda pública para atender los gastos del Estado percibirá en cada ejercicio las contribuciones, productos, aprovechamientos, participaciones, aportaciones, reasignaciones y demás ingresos que determinen las leyes fiscales, así como las donaciones, legados, herencias y reintegros que se hicieren a su favor.
+La hacienda pública para atender los gastos del Estado percibirá en cada ejercicio fiscal las contribuciones, productos, aprovechamientos, participaciones, fondos y recursos participables, aportaciones, reasignaciones, incentivos económicos y demás ingresos que determinen las leyes fiscales del Estado, así como los que se establezcan en los convenios celebrados con los distintos ámbitos de gobierno y particulares, y los provenientes de donaciones, legados, herencias y reintegros que se hicieren a su favor.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -59,21 +61,27 @@ No serán válidas las exenciones a las contribuciones estatales no contenidas e
 
 Para efectos de la aplicación de las Leyes Fiscales del Estado se entenderá por ejercicio fiscal el período comprendido del 1o de enero al 31 de diciembre de cada año.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 2.
 
-Los ingresos del Estado y sus organismos auxiliares se clasifican en ordinarios y extraordinarios. Son ingresos ordinarios las contribuciones, productos, aprovechamientos, participaciones, aportaciones y reasignaciones.
+Los ingresos del Estado se clasifican en ordinarios y extraordinarios. Son ingresos ordinarios las contribuciones, productos, aprovechamientos, participaciones, fondos y recursos participables, aportaciones, incentivos económicos y reasignaciones.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+Sin ingresos extraordinarios, aquellos cuya percepción se decreta excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo del Estado y previo acuerdo con éste, el Secretario de Finanzas y Administración.
 
-Sin ingresos extraordinarios, aquellos cuya percepción se decrete excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local o en su caso, los que autorice el Ejecutivo del Estado y previo acuerdo con éste, el Secretario de Finanzas y Administración. Dentro de esta categoría quedan comprendidos los que se deriven de financiamientos que obtenga el Gobierno del Estado, así como de los programas especiales que instrumente el mismo.
+Dentro de esta categoría quedan comprendidos las donaciones, legados, herencias y reintegros, las aportaciones extraordinarias y de mejoras, así como de los financiamientos que obtenga el Gobierno del Estado y los que deriven de los programas especiales que instrumente el mismo.
 
 ###### ARTICULO 3.
 
 Los ingresos ordinarios se regularán por las leyes fiscales respectivas, en su defecto por este Código y supletoriamente por el derecho común.
 
-Los productos además de las leyes mencionadas, se regularán por lo que prevengan los contratos o concesiones respectivas y las participaciones, por lo que establezcan la Ley de Coordinación Fiscal y el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el de Colaboración Administrativa en Materia Fiscal Federal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Los productos además de las leyes mencionadas, se regularán por lo que establezcan los contratos, las concesiones y demás documentos de naturaleza análoga.
 
 ###### ARTICULO 4.
 
@@ -91,9 +99,11 @@ Son derechos las contribuciones establecidas en ley por el uso o aprovechamiento
 
 La prestación de los servicios a que se refiere el párrafo que antecede se llevará a cabo por el Estado, siempre y cuando los sujetos obligados al pago de los derechos cumplan con los requisitos que señalan para tales efectos, las disposiciones fiscales y administrativas vigentes que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-Los recargos, las sanciones, los gastos de ejecución y las indemnizaciones a que se refiere el tercer párrafo del artículo 33, son accesorios de las contribuciones y participan de la naturaleza de éstas.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y las indemnizaciones por cheque presentado en tiempo y no pagado a que se refiere este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -107,21 +117,27 @@ Son productos, las contraprestaciones por los servicios que presta el Estado en 
 
 Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-Los recargos, las sanciones, los gastos de ejecución e indemnizaciones a que se refiere el tercer párrafo del artículo 33 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1998)</small>
+Los recargos, las sanciones, los gastos de ejecución e indemnizaciones por cheque presentado en tiempo y no pagado a que se refiere este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 7.
 
-Son participaciones, aportaciones y reasignaciones, las cantidades que el Gobierno del Estado tiene derecho a percibir con arreglo a las disposiciones legales aplicables.
+Son participaciones, fondos y recursos participables, aportaciones, incentivos económicos y reasignaciones, las cantidades que el Estado tiene derecho a percibir con arreglo a las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 8.
 
-Son créditos fiscales los que tenga derecho a percibir el Estado o sus Organismos Públicos Descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir a sus servidores públicos o de los particulares, así como aquéllos a los que las leyes y demás instrumentos jurídicos les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
+Son créditos fiscales los que tenga derecho a percibir el Estado o sus Organismos Públicos Descentralizados en los casos que proceda, que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir a sus servidores públicos o de los particulares, así como aquellos a los que las leyes y demás instrumentos jurídicos les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
@@ -143,9 +159,11 @@ IV.- La Ley de Egresos del Estado de Puebla.
 
 V.- La Ley de Catastro del Estado de Puebla.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1998)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-VI.- La Ley para el Federalismo Hacendario del Estado de Puebla.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VI.- La Ley de Coordinación Hacendaria para el Estado de Puebla y sus Municipios; y
 
 VII.- Los demás ordenamientos que contengan disposiciones de carácter hacendario.
 
@@ -179,65 +197,71 @@ Son autoridades fiscales del Estado:
 
 I.- El Gobernador del Estado;
 
-II.- El Titular de la Secretaría de Finanzas y Administración, así como los servidores públicos siguientes, adscritos a la misma:
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-a) El Subsecretario de Ingresos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-b) El Director de Asuntos Jurídicos;
+II.- El Secretario de Finanzas y Administración;
 
-c) El Director de Ingresos;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-d) El Director de Fiscalización;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-e) El Director de Verificación de Comercio Exterior;
+III.- El Subsecretario de Ingresos y los siguientes servidores públicos de su adscripción:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+a) El Director de Ingresos;
 
-f) El Jefe de la Unidad de Apoyo Técnico y Legal;
+b) El Director de Fiscalización:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+c) El Director de Verificación de Comercio Exterior;
 
-g) El Subdirector de Recaudación;
+d) El Jefe de la Unidad de Apoyo Técnico y Legal;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+e) El Subdirector de Recaudación;
 
-h) El Subdirector de Orientación y Asistencia al Contribuyente;
+f) El Subdirector de Orientación y Asistencia al Contribuyente;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+g) El Subdirector de Control Vehícular;
 
-i) El Subdirector de Control vehicular;
+h) El Subdirector Técnico de Ingresos;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+i) El Subdirector de Revisiones Federales:
 
-j) El Subdirector Técnico de Ingresos;
+j) El Subdirector de Revisiones Estatales;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+k) El Subdirector Operativo de Verificación de Comercio Exterior;
 
-k) El Subdirector de Revisiones Federales;
+l) El Jefe del Departamento Técnico de Ejecución; y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+m) Los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente.
 
-l) El Subdirector de Revisiones Estatales;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-m) El Subdirector Operativo de Verificación de Comercio Exterior;
+IV.- El Director de Asuntos Jurídicos y los siguientes servidores públicos de su adscripción:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+a) El Subdirector de Asuntos Jurídico-Contenciosos;
 
-n) El Jefe del Departamento Técnico de Ejecución; y
+b) El Jefe de Departamento de lo Contencioso A; y
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+c) El Jefe del Departamento de lo Contencioso B.
 
-ñ) Los Jefes de las Oficinas Recaudadoras y de Asistencia al Contribuyente.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-III.- El Director General del Instituto de Catastro del Estado, así como los servidores públicos siguientes, adscritos al mismo:
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+V.- El Director General del Instituto de Catastro del Estado, así como los servidores públicos siguientes, adscritos al mismo:
 
 a) El Director de Gestión Territorial; y
 
 b) Los Delegados Catastrales.
 
-IV.- Los demás servidores públicos a los que las leyes, convenios y demás disposiciones les confieran facultades específicas en materia hacendaria y las que reciban por delegación expresa de las autoridades señaladas en este artículo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VI.- Los demás servidores públicos a los que las leyes, convenios y demás disposiciones les confieran facultades específicas en materia hacendaria y las que reciban por delegación expresa de las autoridades señaladas en este artículo.
 
 El ejercicio de las facultades que establece este Código, serán exclusivas de las autoridades señaladas en el presente artículo, respecto de las personas físicas y morales que perciban ingresos, realicen erogaciones, actos, actividades o tengan su domicilio fiscal dentro del territorio de la Entidad y que se ubiquen en las hipótesis de causación de las contribuciones cuya administración corresponda al Estado, de conformidad con las disposiciones fiscales aplicables.
 
@@ -521,13 +545,13 @@ Para los efectos del párrafo anterior, se entenderá por Registro Estatal de Co
 
 Para estos efectos, la Secretaría de Finanzas y Administración unificará los registros de impuestos existentes, así como el Registro Estatal Vehicular, y lo seguirá actualizando con los datos que a través de los diferentes avisos presenten los contribuyentes;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-II.- Presentar los avisos respectivos de cambio de nombre o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación al Registro Estatal de Contribuyentes; declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+II.- Presentar los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante; así como de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos; de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación al Registro Estatal de Contribuyentes; declaraciones normales, complementarias, provisionales e informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
-Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal y Sobre Servicios de Hospedaje, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas y Administración del Estado, en el que señalen mes a mes las bases gravables de los Impuestos Estatales a que se refiere esta fracción, causadas por los meses y ejercicios que se señalen en dicho dictamen, indicando en el mismo, en su caso, los meses pendientes de pago.
+Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público Registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal; Sobre Servicios de Hospedaje y Estatal Sobre la Realización de Juegos con Apuestas y Sorteos, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas y Administración del Estado, en el que señalen mes a mes las bases gravables de los Impuestos Estatales a que se refiere esta fracción, causadas por los meses y ejercicios que se señalen en dicho dictamen, indicando en el mismo, en su caso, los meses pendientes de pago.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -605,7 +629,11 @@ En el caso de fusión, la sociedad que subsista o que se constituya cumplirá co
 
 Cuando en las disposiciones fiscales no se señalen plazos para la presentación de declaraciones, se tendrá por establecido el de 15 días, el que se contará a partir del día siguiente a aquél en que se realice el hecho de que se trate.
 
-Los avisos y documentos a que se refiere este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Los avisos a que se refiere la fracción II de este artículo, deberán presentarse dentro del mes siguiente a aquél en que se actualice el supuesto jurídico o de hecho de que se trate.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -761,9 +789,11 @@ La falta de pago de un Crédito Fiscal en la fecha o plazo establecido en las di
 
 Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida, que deberá cubrirse en moneda nacional y podrá hacerse en efectivo, giro postal, telegráfico o bancario, cheque certificado, cheque de caja, tarjeta de crédito o débito, depósito referenciado, y transferencia de fondos reguladas por el Banco de México, incluyendo las que se realicen de manera electrónica o en especie, en los casos que así lo prevengan las leyes.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL PRESENTE ORDENAMIENTO.]</small>
 
-El cheque certificado o el cheque de caja que se utilice como forma de pago de contribuciones y sus accesorios, deberán reunir los requisitos que mediante reglas de carácter general dicte y publique la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+El cheque certificado o el cheque de caja que se utilice como forma de pago de contribuciones y demás cantidades que tenga derecho a percibir el Estado, así como sus accesorios, deberán reunir los requisitos que mediante reglas de carácter general dicte y publique la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
@@ -781,9 +811,11 @@ Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualqu
 
 En el caso de que se paguen contribuciones mediante cheque, éste sólo podrá aplicarse a un solo contribuyente, debiendo librarse a cargo de cualquier institución de crédito ubicada dentro del territorio del Estado en la que el contribuyente tenga su cuenta.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL PRESENTE ORDENAMIENTO.]</small>
 
-El cheque mediante el cual se paguen las contribuciones y sus accesorios, deberá expedirse a nombre de la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+El cheque mediante el cual se paguen las contribuciones y demás cantidades que tenga derecho a percibir el Estado, así como sus accesorios, deberá expedirse a nombre de la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
@@ -830,6 +862,12 @@ Cuando el contribuyente pague en forma espontánea los créditos omitidos y los 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la autoridad fiscal, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
 Cuando el contribuyente deba pagar recargos o las Autoridades Fiscales intereses, la tasa aplicable en un mismo periodo mensual o fracción de éste, será siempre la que esté en vigor el primer día del mes o fracción de que se trate, calculada conforme a este artículo, independientemente de que dentro de dicho periodo las tasas de recargos o de interés varíen.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+El procedimiento a que se refiere este artículo, se aplicará a los créditos que tenga derecho a percibir el Estado por concepto de cantidades pagadas en exceso y no reintegradas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -914,6 +952,66 @@ II. Que el derecho para reclamar la devolución no se haya extinguido.
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 Si la devolución se hubiere efectuado y no procediera, se causarán recargos en los términos del artículo 35 de este Código, sobre las cantidades actualizadas tanto por las devueltas indebidamente, como por las de los posibles intereses pagados por las Autoridades Fiscales, a partir de la fecha de devolución.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 38-A.
+
+Las autoridades fiscales podrán compensar de oficio o a petición de parte interesada, los créditos fiscales en materia de impuestos estatales y sus accesorios.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 38-B.
+
+Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven del mismo impuesto estatal incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas, desde el mes en que se realizó el pago de lo indebido, hasta aquél en que la compensación se realice.
+
+Los contribuyentes presentarán el aviso de compensación, dentro de los cinco días siguientes a aquél en el que la misma se haya efectuado, acompañado de la documentación que al efecto se solicite en el formato que para estos efectos autorice y publique en el Periódico Oficial del Estado, la Secretaría de Finanzas y Administración.
+
+Los contribuyentes que hayan ejercido la opción a que se refiere el primer párrafo del presente artículo, que tuvieran saldo a favor de las cantidades pagadas indebidamente, una vez efectuada la compensación, podrán solicitar su devolución en los términos que establece este Código.
+
+Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 35 de este Código sobre las cantidades compensadas indebidamente, actualizadas por el período transcurrido desde el mes en que se efectuó la compensación indebida, hasta aquél en que se haga el pago del monto de la compensación indebidamente efectuada.
+
+No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 38-C.
+
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir por haber realizado pagos en demasía por concepto de impuestos estatales, en los términos de lo dispuesto en el artículo 37 de este Código, contra las cantidades que por el mismo concepto los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros.
+
+En estos casos, la autoridad fiscal dará a conocer al contribuyente mediante resolución que emita en un plazo de treinta días hábiles, el procedimiento y las cantidades compensadas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 38-D.
+
+Cuando la compensación a que se refiere el artículo anterior se realice dentro del procedimiento de visita domiciliaria o de revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, se dará a conocer en el acta final de visita o en el oficio de observaciones a que aluden los artículos 44 y 46-A de este Código, a fin de que el contribuyente manifieste lo que a su derecho convenga.
+
+Una vez transcurridos los plazos señalados en los artículos 46 primer párrafo y 46-A fracción IV segundo párrafo de este Código y los contribuyentes no manifiesten razonamiento en contra de la compensación realizada por la autoridad fiscal, ésta se tendrá por consentida, procediendo a emitir la resolución que concluya con el ejercicio de la (sic) facultades de comprobación en los términos de Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 38-E.
+
+La compensación también se podrá aplicar contra impuestos locales y sus accesorios cuyo pago se haya autorizado a plazos; en este último caso, la compensación deberá realizarse sobre el saldo insoluto al momento de efectuarse dicha compensación.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 38-F.
+
+Las autoridades fiscales notificarán personalmente al contribuyente la resolución que determine la compensación, ya sea que haya sido a petición de la parte interesada o realizada de oficio por la autoridad fiscal.
 
 ###### ARTICULO 39.
 
@@ -1045,9 +1143,11 @@ XVII.- Conocer y resolver las solicitudes de condonación o exención total o pa
 
 La solicitud de condonación o exención en los términos de esta fracción, no constituirá instancia y las resoluciones que emitan las autoridades fiscales competentes al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-XVIII.- Emitir, en coordinación con la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, la normatividad para la depuración de los créditos fiscales a favor del Estado.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Emitir la normatividad para la depuración de los créditos fiscales a favor del Estado.
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -1481,6 +1581,24 @@ VII.- Cuando el contribuyente haya dejado de presentar declaraciones mensuales p
 
 Para los efectos de esta fracción, las autoridades fiscales, podrán tomar como base los datos contenidos en la última declaración presentada del impuesto correspondiente.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Cuando los actos o actividades se realicen con público en general y el contribuyente no expida los comprobantes correspondientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+En los supuestos de determinación estimativa a que se refiere las fracciones II, III, IV, VII y VIII de este artículo, los contribuyentes podrán presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados por la autoridad fiscal en la última acta parcial o en el oficio de observaciones, según corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+La información y documentación señalada en el párrafo anterior, deberá exhibirse dentro de los plazos que para tales efectos se establecen en los artículos 46 y 46-A de este Código.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 49.
@@ -1503,9 +1621,11 @@ III.- Tratándose de hoteles, moteles, casas de huéspedes, u otros que tengan p
 
 IV.- Si con base en la contabilidad y documentación del contribuyente o información de terceros no se pudiera determinar la base gravable de la contribución, la autoridad fiscal podrá determinarla en forma estimativa tomando los datos o información de terceros, así como la información contenida en los expedientes o documentos que lleven o tengan en su poder cualquier autoridad u organismo público. Si de dicho expediente o documentos no se lograra identificar a qué meses corresponde la base gravable o el impuesto causado, la autoridad procederá a dividir la base o el impuesto según el caso, entre el número de meses al que corresponde la información y el resultado será la base y el impuesto que corresponda a cada mes.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-El producto obtenido de las operaciones a que se refieren las fracciones III y IV de este artículo, se multiplicará por el número de días que corresponda al periodo objeto de la revisión. La cantidad resultante se multiplicará por el porcentaje de ocupación correspondiente a los meses objeto de la revisión, el resultado de esta operación será la base gravable estimada.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+El producto obtenido de la operación a que se refiere la fracción III de este artículo, se multiplicará por el número de días que corresponda al periodo objeto de la revisión. La cantidad resultante se multiplicará por el porcentaje de ocupación correspondiente a los meses objeto de la revisión, el resultado de esta operación será la base gravable estimada.
 
 El costo promedio diario a que se hace referencia anteriormente se determinará sumando la tarifa máxima establecida o precio máximo pactado, mas la tarifa mínima establecida o precio mínimo pactado y el resultado obtenido se dividirá en dos.
 
@@ -1533,7 +1653,11 @@ El número de trabajadores podrá obtenerse de la información que conste en el 
 
 Cuando la autoridad no pueda determinar la duración de la relación laboral, considerará que todos los trabajadores que resulten de la información de terceros, estuvieron a su servicio en todos los meses del periodo revisado; y
 
-II.- Si con base en la contabilidad y documentación del contribuyente o información de terceros, no se pudiera determinar la base gravable de la contribución, la autoridad fiscal podrá determinarla en forma estimativa tomando los datos o información de terceros, así como la información contenida en los expedientes o documentos que lleven o tengan en su poder cualquier autoridad u organismo público. Si de dicho expediente o documentos no se lograra identificar a qué meses corresponde la base gravable o el impuesto causado, la autoridad procederá a dividir la base o el impuesto según el caso, entre el número de meses al que corresponde la información y el resultado será la base y el impuesto que corresponda a cada mes.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+II.- Si con base en la contabilidad y documentación del contribuyente o información de terceros, no se pudiera determinar la base gravable de la contribución, la autoridad fiscal podrá determinarla en forma estimativa tomando los datos o información de terceros, así como la información contenida en los expedientes o documentos que lleven o tengan en su poder cualquier autoridad u organismo público. Si de dicho expediente o documentos no se lograra identificar a qué meses corresponde la base gravable o el impuesto causado, la autoridad procederá a dividir la base o el impuesto según el caso, entre el número de meses al que corresponde la información y el resultado será la base y el impuesto que corresponda a cada mes del periodo revisado.
 
 En caso de que la documentación comprobatoria, información de terceros y expedientes que se tengan a nombre del contribuyente, muestren cantidades relativas a la base para determinar el Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, se presumirá que corresponden a operaciones realizadas en el Estado de Puebla.
 
@@ -1548,6 +1672,14 @@ ARTICULO 50 A.- Tratándose de la visita de inspección señalada en el artícul
 I.- Si la persona que atienda la visita de inspección no proporciona documentación comprobatoria vinculada a la relación laboral manifestada, que ampare las erogaciones efectuadas, se presumirá que éstas se realizaron conforme a una vez el salario mínimo general diario vigente en el área geográfica en el mes en que se efectuó la erogación.
 
 II.- Las manifestaciones hechas por la persona con quien se entienda la visita de inspección, se presumirán ciertas salvo prueba en contrario.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 50-B.
+
+Cuando los contribuyentes se ubiquen en la causal de estimativa establecida en la fracción VIII del artículo 48 de este Código, las autoridades fiscales podrán determinar estimativamente como base gravable la que resulte del monto total de las operaciones que observen durante treinta días naturales, y el promedio diario resultante se multiplicará por el número de días de cada mes que comprende el periodo objeto de revisión.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1639,9 +1771,11 @@ Son infracciones cuya responsabilidad recae sobre los sujetos y responsables sol
 
 I.- No solicitar la inscripción al Registro Estatal de Contribuyentes, cuando se esté obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-II.- No presentar los avisos al Registro Estatal de Contribuyentes o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+II.- No presentar los avisos al Registro Estatal de Contribuyentes o al Registro Estatal Vehicular o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea;
 
 III.- Obtener más de un registro de contribuyente, citarlo incorrectamente u omitirlo en el cumplimiento de las obligaciones a su cargo.
 
@@ -1699,6 +1833,12 @@ XX.- No pagar los derechos derivados de los programas que se realicen en la Enti
 
 XXI.- No proporcionar el escrito que señala el párrafo segundo de la fracción II del artículo 24 de este Código.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XXII.- No realizar el canje de placas en los términos previstos en los programas que para estos efectos se emitan.
+
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ARTICULO 58 A.- Es infracción cuya responsabilidad recae en los sujetos y responsables solidarios no pagar total o parcialmente las contribuciones, incluyendo las retenidas o recaudadas, dentro de los plazos establecidos por las leyes fiscales del Estado, salvo cuando éstas se realicen en forma espontánea.
@@ -1741,9 +1881,11 @@ A.- Por las infracciones señaladas en el artículo 58:
 
 I.- De 3 a 5 días de salario mínimo en el Estado a la comprendida en la fracción VI.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-II.- De 8 a 16 días de salario mínimo en el Estado a la comprendida en la fracción II.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+II.- De 8 a 16 días de salario mínimo vigente en el Estado a las comprendidas en las fracciones II y XXII.
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -1801,15 +1943,23 @@ XV.- De 79 a 159 días de salario mínimo vigente en el Estado a la señalada en
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-I.- Del 40% al 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes de la notificación del documento determinante del crédito.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+I.- Del 20% al 30% de las contribuciones omitidas, cuando el infractor las pague después de que se inicie el ejercicio de las facultades de comprobación de las autoridades fiscales y hasta antes de que se le notifique el acta final de la visita domiciliaria o el oficio de observaciones a que se refiere la fracción VI del artículo 46-A de este Código, según sea el caso.
 
-II.- Del 80% al 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después de la notificación del documento determinante del crédito.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
 
-III.- (DEROGADA, P.O. 11 DE ABRIL DE 2003)
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+II.- Del 40% al 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después de que se notifique el acta final de la visita domiciliaria o el oficio de observaciones, según sea el caso, pero antes de la notificación de la resolución que determine el monto de las contribuciones omitidas.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III.- Del 80% al 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después de la notificación del documento determinante del crédito.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1933,7 +2083,11 @@ Al que cometa el delito de quebrantamiento de sellos o marcas oficiales colocado
 
 Comete el delito de falsificación o uso indebido de medios de control fiscal quien sin autorización:
 
-I.- Grabe, manufacture, imprima, troquele, altere, o forme con fragmentos de aquéllos, las matrices, punzones, dados, clichés, negativos, engomados, placas metálicas de identificación vehicular, recibos oficiales o comprobantes de pago, lo use, los ponga en circulación, los venda y a sabiendas de su falsificación los ostente como comprobante de pago de contribuciones, en perjuicio del Fisco Estatal.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+I.- Grabe, manufacture, imprima, troquele, altere, o forme con fragmentos de aquellos las matrices, punzones, dados, clichés, negativos, y las formas oficiales valoradas, los use, los ponga en circulación los venda y a sabiendas de su falsificación los ostente como comprobante de pago de contribuciones, en perjuicio del fisco Estatal.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -1983,11 +2137,13 @@ IV.- Por edictos únicamente en el caso de que la persona a quien deba notificar
 
 V.- Por instructivo, solamente en los casos y las formalidades a que se refiere el último párrafo del artículo 78 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CODIGO.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 77.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueron hechas y al practicarlas deberá proporcionarse al interesado copia del acto administrativo que se notifique. Cuando la notificación la realice directamente la Autoridad Fiscal, deberá señalarse la fecha y la hora en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia; si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
+Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueron hechas y al practicarlas deberá proporcionarse al interesado el original del acto administrativo que se notifique. Cuando la notificación la realice directamente la Autoridad Fiscal, deberá señalar la fecha y la hora en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia; si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1990)</small>
 
@@ -3036,3 +3192,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO.- La aplicación del presente Decreto estará sujeto a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado en la Ley de Egresos del Estado para el Ejercicio Fiscal correspondiente.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil once.
+
+###### ARTÍCULO SEGUNDO.
+
+Se dejan sin efecto aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
