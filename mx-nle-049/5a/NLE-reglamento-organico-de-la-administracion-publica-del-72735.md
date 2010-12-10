@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-del-72735"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-11"
-last_updated: "2010-01-11"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE SANTIAGO, NUEVO LEON
 
-REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE SANTIAGO, NUEVO LEON
+REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE SANTIAGO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE SANTIAGO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el lunes 11 de enero de 2010.
 
@@ -1284,3 +1286,25 @@ C. Lic. Everardo González Salazar
 Secretario del R. Ayuntamiento
 
 Dado en el Salón de Sesiones del R. Ayuntamiento de Santiago, Nuevo León, a los 19 días del mes de Diciembre del 2009-dos mil nueve.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Reglamento abroga el Reglamento Orgánico del Gobierno Municipal de Santiago, Nuevo León, publicado en el Periódico Oficial del Estado el día 11 de enero de 2010 y derogan todos los acuerdos o disposiciones que se opongan al mismo.
+
+TERCERO.- Los trámites administrativos iniciados antes de la entrada en vigor del presente Reglamento se continuarán conforme a las disposiciones contenidas en el presente ordenamiento.
+
+CUARTO.- Los Recursos Administrativos en trámite se regirán según las disposiciones vigentes al momento de emitirse el acto de autoridad que se impugna.
+
+QUINTO.- Para todos los efectos legales y reglamentarios cuando se haga mención de la Tesorería Municipal en normas jurídicas vigentes se entenderá referida a la Secretaría de Finanzas y Administración.
+
+SEXTO.- Las atribuciones y responsabilidades de la Secretaría de Obras Públicas, Desarrollo Urbano y Ecología y de la Dirección de Ecología establecidas cualquier (sic) Reglamento del Municipio de Santiago, Nuevo León, se entenderán referidas a la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología.
+
+SÉPTIMO.- Las facultades, atribuciones y responsabilidades establecidas en los demás reglamentos, los acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas de la Contraloría Municipal, se entenderán referidas a la Secretaría de la Contraloría Municipal.
+
+OCTAVO,- Las facultades, atribuciones y responsabilidades establecidas en los demás reglamentos, los acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas de la Secretaría de Seguridad, Vialidad y Tránsito, se entenderán referidas a la Secretaría de Seguridad. Asimismo los actos administrativos anteriores a la entrada en vigor de este reglamento, de la Secretaría de Seguridad, Vialidad y Tránsito, se entenderán referidas a la Secretaría de Seguridad y Vialidad
+
+NOVENO,- Las facultades, atribuciones y responsabilidades establecidas en los demás reglamentos, los acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas en materia de Inspección y Vigilancia de Comercio, Espectáculos, y Alcoholes; se entenderán referidas respectivamente según sus facultades a las Direcciones: de Comercio y Alcoholes; Espectáculos.
