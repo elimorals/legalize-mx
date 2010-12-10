@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-educacion-publica-40314
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-25"
-last_updated: "2006-01-20"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2006
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2010, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 25 de junio de 2004.
 
@@ -2550,3 +2552,21 @@ CUARTO.- El personal de base que a la entrada en vigor del presente Acuerdo se e
 QUINTO.- Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Acuerdo, deban ser ejercidas por alguna otra unidad de las que el mismo establece o cuando se cambie su adscripción, el personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que se determine. Competerá a la nueva unidad administrativa terminar la substanciación y dictar la resolución que corresponda de los asuntos que se encuentren en trámite.
 
 SEXTO.- Se dejan sin efecto en lo que se opongan a este Acuerdo, las disposiciones de carácter legal y administrativo dictadas con anterioridad al presente instrumento.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Educación Pública del Estado, publicado en el Periódico Oficial de la Entidad el veinticinco de junio de dos mil cuatro, y su reforma publicada en el mismo Órgano Oficial el veinte de enero de dos mil seis.
+
+###### ARTÍCULO TERCERO.
+
+Los decretos, acuerdos, circulares, instructivos y demás disposiciones pronunciados bajo la vigencia del Reglamento que se abroga, tendrán plena validez en todo lo que no se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Cuando las funciones de alguna unidad administrativa establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece, o cuando se cambie su adscripción, pasarán a la unidad que se determine, el personal, el mobiliario, el archivo y en general el equipo que aquella haya utilizado. Respecto a los asuntos que se encuentren en trámite, competerá a la nueva unidad administrativa terminar su substanciación y dictar la resolución que corresponda.
