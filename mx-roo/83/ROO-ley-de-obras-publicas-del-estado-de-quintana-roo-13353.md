@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-obras-publicas-del-estado-de-quintana-roo-13353"
 country: "mx"
 rank: "ley"
 publication_date: "1998-11-30"
-last_updated: "1998-11-30"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13353&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO CUARTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 10 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 30 de Noviembre de 1998.
 
@@ -838,3 +840,17 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 PROFR. RAUL OMAR SANTANA BASTARRACHEA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- El Titular del Poder Ejecutivo por conducto de la Secretaría de la Contraloría, expedirá el reglamento de la presente ley, en un plazo no mayor a 90 días naturales contados a partir de la publicación de la misma.
+
+Hasta en tanto se expida dicho Reglamento, se aplicarán supletoriamente en lo conducente, las disposiciones establecidas en el Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas de carácter federal.
+
+TERCERO.- Los lineamientos para la operación del Registro Estatal de Obra Pública a que se refiere el artículo 12 de esta Ley, deberán expedirse a más tardar 120 días contados a partir de la publicación de la presente Ley.
+
+CUARTO.- Se abroga la Ley de Obras Públicas del (sic) Quintana Roo, publicada en el Periódico Oficial del Estado, el 30 de noviembre de 1998 y demás disposiciones que se opongan a la presente Ley.
