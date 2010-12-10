@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-sistema-de-ejecucion-de-penas-y-medidas-de-41701"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-12"
-last_updated: "2004-11-12"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL SISTEMA DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD DEL ESTADO DE GUERRERO NUMERO 367
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 12 de noviembre de 2004.
 
@@ -239,9 +239,11 @@ El personal técnico integrado a las Instituciones del Sistema Penitenciario, pr
 
 La educación que se imparta en los Centros, que constituyen el Sistema Penitenciario se alfabetizará a los internos y la enseñanza primaria será obligatoria, procurando instaurar los niveles de secundaria y preparatoria, así como cursos de capacitación y adiestramiento técnico, los que serán conforme a los planes y programas oficiales, cuya especial atención será el desarrollo armónico de las facultades del conocimiento humano.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 33.
 
-La educación que se imparta a los internos, tendrá carácter académico-cívico, social, higiénico, artístico, físico y moral, orientada por la técnica de la pedagogía correctiva y quedará a cargo preferentemente de Maestros especializados, procurando infundir en ellos, el respeto a los valores humanos y a las Instituciones Nacionales.
+La educación que se imparta a los internos, tendrá carácter académico-cívico, orientada a capacitarlos para el empleo y quedará a cargo preferentemente de maestros especializados, procurando infundir en ellos, el respeto a los derechos humanos y a las Instituciones Nacionales.
 
 ###### ARTICULO 34.
 
@@ -539,9 +541,11 @@ Corresponde al Gobernador del Estado, al Secretario del Ramo, al Director Genera
 
 El Secretario y los responsables de la Readaptación Social, darán amplia difusión al Programa destacando la manera en que la población deba participar en el cumplimiento del mismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 81.
 
-Para los efectos de prevenir ilícitos, se emprenderán programas de comunicación social que den orientación a la población sobre las medidas de prevención del delito, conductas infractoras, infracciones administrativas; sus derechos en caso que de ser víctimas de conductas antijurídicas; y la naturaleza de las funciones que desempeñan las instituciones de prevención y readaptación social, así como los mecanismos de participación y colaboración ciudadana.
+Para los efectos de prevenir ilícitos, se emprenderán programas de comunicación social que den orientación a la población sobre, las medidas de ,prevención del delito, de prevención de la violencia familiar y la violencia contra las mujeres; conductas infractoras, infracciones administrativas; sus derechos, en caso que de ser víctimas de un delito; la naturaleza de las funciones que desempeñan las instituciones de prevención y readaptación social, así como los mecanismos de participación y colaboración ciudadana.
 
 Se inducirá a las organizaciones civiles no gubernamentales y agrupaciones vecinales y comunitarias a suscribir convenios y acuerdos de prevención del delito para aplicarse en el ámbito familiar, educativo, laboral y de salud.
 
@@ -587,9 +591,13 @@ I.- Planear y conducir la política de prevención y readaptación social del Go
 
 II.- Dirigir, ordenar y orientar la prevención de la delincuencia en el Estado, proponiendo a las autoridades competentes las medidas que juzgue necesarias para dicho objeto;
 
-III.- Dirigir, orientar y vigilar a los enfermos mentales y a los sujetos a la libertad preparatoria o sustitutivos penales, sometidos a las medidas de seguridad por la jurisdicción penal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-IV.- Orientar técnicamente el tratamiento de adultos delincuentes, alineados antisociales, así como establecer y hacer cargo de las Instituciones que apliquen dichos tratamientos, en coordinación con los municipios;
+III.- Dirigir, orientar y vigilar a las personas en estado de interdicción, y a los sujetos a la libertad preparatoria o sustitutivos penales, sometidos a las medidas de seguridad por la jurisdicción penal;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV.- Orientar técnicamente el tratamiento de adultos y el psicológico para los generadores de violencia familiar; así como establecer y tener a cargo las Instituciones que apliquen dichos tratamientos, en coordinación con los municipios;
 
 V.- Planear, organizar, supervisar y evaluar y, en su caso apoyar a los sistemas y programas de seguridad, industriales, agropecuarios, económicos, culturales y educacionales y en general el funcionamiento de los Centros de Reclusión y Establecimientos Penitenciarios, Establecimientos Médicos para alineados y demás Instituciones para delincuentes sanos y anormales, con sujeción a lo establecido en la presente Ley;
 
@@ -1520,3 +1528,11 @@ El Secretario General de Gobierno.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
