@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2010-11-30"
+last_updated: "2010-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -99,13 +99,17 @@ Al adquirente con justo título y de buena fe le compete la acción para que, au
 
 No procede esta acción en los casos en que ambas posesiones fuesen dudosas o el demandado tuviere su título registrado y el actor no, así como contra el legítimo dueño.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 10.
 
-Procederá la acción negatoria para obtener la declaración de libertad o la de reducción de gravámenes de bien inmueble y la demolición de obras o señales que importen gravámenes, la tildación o anotación en el Registro de la Propiedad, y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título de dueño o que tenga derecho real sobre la heredad.
+Procederá la acción negatoria para obtener la declaración de libertad o la de reducción de gravámenes de bien inmueble y la demolición de obras o señales que importen gravámenes, la tildación o anotación en el Registro de la Propiedad, y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del demandado que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título de dueño o que tenga derecho real sobre la heredad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
-Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre, se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
+Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre, se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del demandado que afiance el respeto del derecho.
 
 ###### Artículo 12.
 
@@ -231,13 +235,11 @@ III.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la a
 
 Las acciones duran lo que la obligación que representan menos en los casos en que la ley señala distintos plazos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 34.
 
-Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse, salvo en los casos en que la ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aun sin consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que lo hizo a pagar las costas y los daños y perjuicios a la contraparte, salvo convenio en contrario. Es requisito para proveer de conformidad el desistimiento, ya sea de la acción, de la demanda, o de la reconvención, la ratificación ante la presencia judicial.
+Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni alterarse, salvo en los casos en que la ley lo permita. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta aun sin consentirlo el demandado. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda y obliga al que lo hizo a pagar las costas y los daños y perjuicios a la contraparte, salvo convenio en contrario.
 
 ### CAPITULO II. De las excepciones y defensas
 
@@ -259,11 +261,11 @@ Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 38.
 
-(DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
+La excepción de litispendencia procede cuando un juez conoce ya del mismo negocio sobre el cual es procesado el demandado. El que la oponga debe de señalar precisamente el juzgado donde se tramita el primer juicio. Del escrito en que se oponga se dará traslado por tres días a la contraria y el juez dictará resolución dentro de las veinticuatro horas siguientes pudiendo previamente mandar inspeccionar el primer juicio. Si se declara procedente, se remitirán los autos al juzgado que primero conoció del negocio cuando ambos jueces se encuentren dentro de la jurisdicción del mismo tribunal de apelación. Dará por concluido el procedimiento si el primer juicio se tramita en juzgado que no pertenezca a la misma jurisdicción de apelación.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -577,7 +579,7 @@ Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
 ###### Artículo 90.
 
-A toda demanda o contestación deberá acompañarse necesariamente: 1o. El poder que acredite la personalidad del que comparece en nombre de otro; 2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3o. Copia del escrito y de los documentos para correr traslado a la contraparte, pudiendo ser en papel común, fotostática o cualquiera otra, siempre que sea legible.
+A toda demanda o contestación deberá acompañarse necesariamente: 1o. El poder que acredite la responsabilidad del que comparece en nombre de otro; 2o. El documento o documentos que acrediten el carácter con el que el litigante se presente en juicio en el caso de tener representación legal de alguna persona o corporación o cuando el derecho que reclame provenga de habérsele transmitido por otra persona; 3o. Copia del escrito y de los documentos para correr traslado a la contraparte, pudiendo ser en papel común, fotostática o cualquiera otra, siempre que sea legible.
 
 ###### Artículo 91.
 
@@ -999,7 +1001,7 @@ a).- de las acciones de petición de herencia.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgado por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
+El juez competente que inicie un procedimiento sucesorio deberá solicitar un informe sobre la existencia o inexistencia de alguna disposición testamentaria otorgada por el autor de la sucesión al Registro Público de la Propiedad y del Comercio, y la Dirección General de Notarías;
 
 b).- de las acciones contra la sucesión antes de la partición y adjudicación de los bienes;
 
@@ -1361,9 +1363,13 @@ Sólo los Jueces de Primera Instancia pueden decretar la separación de que habl
 
 La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para su habitación, la existencia de hijos menores y las demás circunstancias del caso.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 209.
 
-El juez podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución.
+El juez podrá, si lo estima conveniente, practicar las diligencias que a su juicio sean necesarias antes de dictar la resolución. En el caso de violencia familiar tomará en cuenta las pruebas preconstituidas incluyendo los dictámenes, informes, expedientes y opiniones que hubieren realizado las instituciones públicas o privadas dedicadas a atender asuntos de esta índole.
+
+Además, determinará las medidas procedentes para la protección de las personas menores de edad y de la parte agredida, sin que medie audiencia alguna, sobretodo en los casos de la emisión de las órdenes de protección.
 
 ###### Artículo 210.
 
@@ -1743,13 +1749,15 @@ La excepción de falta de personalidad o de capacidad en el actor o la impugnaci
 
 En la excepción de falta de personalidad del actor o en la impugnación que se haga a la personalidad del representante o apoderado del demandado, cuando se declare fundada una u otra, si fuere subsanable el defecto, el tribunal concederá un plazo no mayor de ocho días para que se subsane, y de no hacerse así, cuando se tratare del demandado, se continuará el juicio en rebeldía de éste. Si no fuera subsanable la del actor, el juez de inmediato dará por terminado el juicio y devolverá las documentales exhibidas previa simple toma de razón que se deje en autos, condenando a éste al pago de costas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO Y REUBICADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 263.
 
-Podrá hacerse valer la excepción de cosa juzgada en cualquier estado de los autos. Si la excepción es declarada procedente, se condenará en costas, daños y perjuicios al litigante contra quien se diere.
+No se procederá a la conciliación en los siguientes casos: (sic)
+
+l.- a la V.- ... ; (sic)
+
+VI.- En los casos de Violencia Familiar, queda prohibido al juzgador hacer uso de la mediación El incumplimiento a esta prohibición dará pie a responsabilidades para los servidores que la lleven a cabo de conformidad con las disposiciones administrativas y penales aplicables. (sic)
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -1963,9 +1971,13 @@ Contra el auto que manda abrir a prueba un juicio no cabe recurso alguno; aquel 
 
 Reglas generales
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 280.
 
-Para conocer la verdad sobre los puntos controvertidos puede el juzgador valerse de cualquiera persona, sea parte o tercero, y de cualquier bien o documento, ya sea que pertenezca a las partes o a un tercero; sin más limitación que la de que las pruebas no estén prohibidas por la ley ni sean contrarias a la moral
+Para conocer la verdad sobre los puntos controvertidos puede el juzgador valerse de cualquier persona, sea parte o tercero, y de cualquier bien o documento, ya sea que pertenezca a las partes o a un tercero; sin más limitación que la de que las pruebas no estén prohibidas por la ley ni sean contrarias a la moral.
+
+En casos de violencia familiar, el Juez admitirá las pruebas preconstituidas que se encuentren en poder de la parte actora o bien aquellas que obren en instrumentales públicas de instituciones o dependencias que hayan atendido dicha problemática con antelación.
 
 ###### Artículo 281.
 
@@ -1975,9 +1987,11 @@ Los tribunales podrán decretar en todo tiempo, sea cual fuere la naturaleza del
 
 Los daños y perjuicios que se ocasionen a tercero por comparecer, o exhibir bienes, serán indemnizados por la parte que ofreció la prueba, o por ambas si el juez procedió de oficio, sin perjuicio de hacer la regulación de costas en su oportunidad
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 283.
 
-El actor debe probar los hechos constitutivos de su acción y el reo de sus excepciones.
+El actor debe probar los hechos constitutivos de su acción y el demandado de sus excepciones.
 
 ###### Artículo 284.
 
@@ -2573,9 +2587,11 @@ Durante la audiencia no se pueden redargüir de falsos ni desconocer documentos 
 
 Los peritos dictaminarán por escrito u oralmente en presencia de las partes y del tercero en discordia si lo hubiere. Tanto las partes como el tercero y el juez pueden formular observaciones y hacer preguntas pertinentes durante la audiencia, en la cual se rendirá la prueba, y el tercero dirá su parecer.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 387.
 
-Concluida la recepción de las pruebas el tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el reo; el Ministerio Público alegará también en los casos en que intervenga.
+Concluida la recepción de las pruebas el tribunal dispondrá que las partes aleguen por sí o por sus abogados o apoderados, primero el actor y luego el demandado; el Ministerio Público alegará también en los casos en que intervenga.
 
 Se concederá el uso de la palabra por dos veces a cada una de las partes, las que procurarán la mayor brevedad y concisión, evitando palabras injuriosas y alusiones a la vida privada y opiniones políticas o religiosas limitándose a tratar de las acciones y de las excepciones que quedaron fijadas en la clausura del debate preliminar y de las cuestiones incidentales que surgieran. No se podrá hacer uso de la palabra por más de un cuarto de hora cada vez en primera instancia y de media hora en segunda.
 
@@ -2682,6 +2698,10 @@ Las actuaciones judiciales hacen prueba plena.
 ###### Artículo 407.
 
 Los documentos privados sólo harán prueba plena, y contra su autor, cuando fueren reconocidos legalmente. En el reconocimiento expreso de documentos privados es aplicable lo dispuesto en las fracciones I y II del artículo 395.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 407 BIS.- En casos de violencia familiar las pruebas preconstituidas hacen prueba plena, cuya valoración deben ser tomadas en cuenta para la resolución del juez.
 
 ###### Artículo 408.
 
@@ -5811,47 +5831,101 @@ Los gastos generales del apeo se harán por el que los promueva, los que importe
 
 Todos los problemas inherentes a la familia se consideran de orden público, por constituir aquélla la base de la integración de la sociedad.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 881.
 
-El Juez de Primera Instancia estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, decretando las medidas que tiendan a preservarla y a protegerla, así como a sus miembros.
+El Juez de Primera Instancia estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de edad, de alimentos y violencia familiar decretando las medidas que tiendan a preservarla y a protegerla, así como a sus miembros, tutelando el derecho a un ambiente adecuado para el desarrollo y el bienestar de los miembros del núcleo familiar y su patrimonio.
+
+En todas las controversias en que esté inmerso el interés superior del menor, el juez deberá escucharlos, pudiendo contar con la presencia de los padres y del Oficial de Menores de Edad, a criterio del juez.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 882.
 
-En los mismos asuntos con la salvedad de las prohibiciones legales, el juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+En los mismos asuntos con la salvedad de las prohibiciones legales, el Juez deberá remitir al Centro de Justicia Alternativa del Estado, la controversia que se genere al interior del seno familiar, atendiendo lo dispuesto en el capítulo primero "de la conciliación" del "Juicio General", contenido en el Titulo Sexto del Código de Procedimientos Civiles para el Estado de Quintana Roo, con excepción de los casos de violencia familiar, a efecto de que resuelvan las diferencias mediante la conciliación y el convenio respectivo, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+En todos los asuntos de orden familiar los jueces están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
 
-###### Artículo 882
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Bis.- Cuando a petición de parte interesada, se deba resolver provisionalmente sobre la custodia y la convivencia de las niñas y los niños con sus padres, previamente se dará vista a la parte contraria y, en caso de desacuerdo, se señalará día y hora que tenga verificativo la audiencia que resolverá sobre la custodia y la convivencia de los menores, misma que se efectuara dentro de los quince días siguientes.
+Artículo 882 BIS.- El Juez dispondrá de las amplias facultades para investigar la verdad real. En caso de violencia familiar, el juez podrá practicar las diligencias que a su juicio sean necesarias, tomando en cuenta las pruebas preconstituidas incluyendo los dictámenes, informes, opiniones, y expedientes, que se hubieren realizado en las instituciones públicas o privadas dedicadas a atender dicha problemática.
 
-En la sesión donde sean escuchados los menores deberán ser representados por el asistente de menores correspondiente, adscrito al Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, quien no requerirá comparecer para protestar el cargo. Para que tenga verificativo la audiencia respectiva, el juez de lo familiar tomará en consideración la programación de audiencias que tenga la Institución.
+En estos casos el Juez determinará las medidas procedentes para la protección de las personas menores de edad y de la parte agredida, sin que medie audiencia alguna, sobre todo en los casos de la emisión de las órdenes de protección
 
-Quien tenga a los menores bajo su cuidado, los presentará a la audiencia, para que sean escuchados por el juez y el Ministerio Público adscrito.
+Al efecto, verificará las pruebas preconstituidas contenidas en los informes que hayan sido elaborados por las instituciones públicas o privadas que hubieren atenido o intervenido en hechos de la misma naturaleza escuchando al Ministerio Público.
 
-El juez de lo familiar, oyendo la opinión del Representante Social y valorando todos y cada uno de los elementos que tenga a su disposición, pudiendo incluir valoración psicológica del menor y de las partes que solicitan la custodia, determinará a quién de los progenitores corresponderá la custodia provisional de los menores de edad.
+Asimismo, el juzgador deberá aplicar las disposiciones contenidas en este Código, sin ninguna distinción en el trato, de manera tal que se otorguen los mismos derechos al varón y a la mujer, excepción hecha a esta última en virtud de la gestación, lactancia y del derecho de los hijos menores de doce años de quedar al cuidado de su madre, siempre y cuando no se ponga en peligro la salud física o mental de la persona menor de edad.
 
-A falta o imposibilidad de los progenitores para tener la custodia de los menores se considerarán las hipótesis previstas en los artículos 994 y 995 del Código Civil.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Las medidas que se tomen deberán tener como principio fundamental el interés superior del menor.
-
-Cuando cambie de domicilio el ascendiente que conserva la guarda y custodia, éste tiene la obligación de informar al juez y a quien no ejerce la custodia, los datos del nuevo domicilio y número telefónico pera efecto de mantener la comunicación del menor y del ascendiente que no ejerza la guarda y custodia. El incumplimiento de esta disposición dará lugar a lo establecido en el artículo 89 de este ordenamiento.
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
-###### Artículo 882
-
-Ter.- El ascendiente que no le sea otorgada la custodia podrá convivir tal y como lo fije el juez, en términos de lo previsto por el Artículo 1024-Bis del presente ordenamiento.
-
-El juez de lo familiar, antes de regular el derecho de convivencia de manera provisional, deberá tomar en cuenta todos los elementos que estén a su alcance para decidir bajo el principio del interés superior del menor. En especial valorará el hecho de que una de las partes manifieste que ha habido violencia familiar, pudiendo solicitar valoración psicoemocional que determine si existen síntomas en el menor, de haber vivido cualquier tipo de violencia familiar, ya sea psicológica, física o sexual, independientemente de que exista o no indagatoria al respecto, a fin de proteger la integridad física y psicológica de los hijos.
-
-En caso de duda y para salvaguarda de los hijos menores de edad o incapaces, deberá ordenar que las convivencias se realicen en el Centro de Convivencia Familiar Supervisada, únicamente durante el procedimiento.
-
-Las convivencias de manera provisional no se otorgarán por el juez de lo familiar cuando exista peligro para la integridad física, sexual o psicológica de los hijos menores de edad.
+Artículo 882 TER.- Cuando el juzgador, al radicar la causa, se percate de que los hechos de violencia familiar puedan ser constitutivos de una conducta tipificada como delito, deberá dar vista al Ministerio Público adscrito con una copia certificada de las constancias de autos, para que a su vez el representante social adscrito al juzgado, formule ante el Agente del Ministerio Público Investigador la denuncia correspondiente. Siempre y cuando no exista procedimiento arbitral en términos de la Ley en materia de violencia familiar.
 
 ###### Artículo 883.
 
 No se requieren formalidades especiales para acudir ante el juez, cuando se solicite su intervención en un problema familiar.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 883 BIS.- Cuando el Juez, deba resolver provisionalmente sobre la custodia y la convivencia de las personas menores de edad con sus padres, los menores de edad deberán ser escuchados, estando debidamente asistidos por el Oficial de Menores de Edad.
+
+Quien tenga a las personas menores de edad bajo su cuidado, los presentará a la audiencia, para que sean escuchados por el Juez y el Ministerio Público adscrito. El Juez oyendo la opinión del Representante Social y valorando todos y cada uno de los elementos que tenga a su disposición, incluyendo la valoración psicológica de la persona menor de edad y de las partes que solicitan la custodia, determinará a quién de los progenitores corresponderá la custodia provisional de los hijos menores de edad, considerando las limitaciones que señala la Ley sustantiva.
+
+A falta o imposibilidad de los progenitores para tener la custodia de las personas menores de edad, se atenderá a lo dispuesto por el Código Civil.
+
+Las medidas siempre deberán fundamentarse en el interés superior del menor. Cuando cambie de domicilio el ascendiente que conserva la guarda y custodia, éste tiene la obligación de informar al Juez y a quien no ejerce la custodia los datos del nuevo domicilio y número telefónico para efecto de mantener la comunicación de la persona menor de edad y del ascendiente que no ejerza la guarda y custodia. El incumplimiento de esta disposición dará lugar a la imposición a criterio del juez, de medidas de apremio contenidas en éste ordenamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 883 TER.- El Juez, antes de regular el derecho de convivencia de manera provisional, deberá tomar en cuenta todos los elementos que estén a su alcance para decidir bajo el principio del interés superior del menor. En especial valorará inmediatamente y sin dilación alguna, el hecho de que una de las partes manifieste que ha habido violencia familiar, pudiendo solicitar valoración psicoemocional que determine si existen síntomas en la persona menor de edad, de haber vivido cualquier tipo de violencia familiar, ya sea psicológica, física o sexual, independientemente de que exista o no indagatoria al respecto, a fin de proteger la integridad física y psicológica de los hijos, independientemente de dictar las ordenes de protección que correspondan.
+
+Las convivencias de manera provisional no se otorgarán por el Juez competente cuando exista peligro para la integridad física, sexual y psicológica de los hijos menores de edad o la posibilidad, presunción o riesgo de violencia familiar y la convivencia se ordenará en instituciones públicas de manera supervisada, remitiendo el Juez que establezca esta forma de convivencia supervisada, a la institución, los elementos que considere importantes para los efectos del posible régimen de visitas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 883 QUÁTER.- La sentencia de divorcio en su caso contendrá las cuestiones siguientes:
+
+I.- Relaciones entre padres e hijos; y derechos y deberes inherentes a la patria potestad;
+
+II.- Medidas cautelares de convivencia familiar;
+
+III.- Situación del patrimonio familiar;
+
+IV.- Modalidades en la custodia, vigilancia y cuidado de los hijos;
+
+V.- Pensiones alimenticias vencidas y futuras;
+
+VI.- Obligaciones de crianza;
+
+VII.- Liquidación de la sociedad conyugal;
+
+VIII.- Nombramiento de los liquidadores;
+
+IX.- Indemnización compensatoria a que se refiere el Artículo 822 BIS del Código Civil;
+
+X.- Medidas necesarias para proteger a las personas menores de edad de conductas de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
+
+XI.- En los casos de violencia familiar, las medidas de seguridad, seguimiento y la remisión a psicoterapia reeducativa necesaria para eliminar los actos de violencia familiar.
+
+Medidas que podrán ser suspendidas o modificadas, según se trate el caso y de conformidad con lo dispuesto por este Código;
+
+XII.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 883 QUINTUS.- El Juez sentenciará al cónyuge que hubiese dado origen al divorcio, al pago de alimentos a favor del otro cónyuge tomando en consideración las circunstancias del caso; entre ellas las siguientes:
+
+I.- La edad y el estado de salud de los cónyuges;
+
+II.- Su calificación profesional y posibilidad de acceso a un empleo;
+
+III.- Duración del matrimonio y dedicación pasada y futura a la familia;
+
+IV.- Colaboración con su trabajo en las actividades del cónyuge;
+
+V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
+
+VI.- Las demás obligaciones que tenga el cónyuge deudor.
 
 ### CAPITULO III. Disposiciones relativas a otros actos de materia familiar
 
@@ -6270,3 +6344,15 @@ ARTÍCULO TRANSITORIO:
 P.O. 30 DE NOVIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las normas que se opongan al presente Decreto.
+
+TERCERO.- El Sistema Estatal de Desarrollo Integral de la Familia contará, con 90 días a partir de la entrada en vigor del presente Decreto, para implementar la figura de Oficial de Menores de Edad, dentro del personal con que cuenta para su debida selección y capacitación, para los efectos que la ley señala.
+
+## TRANSITORIO
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
