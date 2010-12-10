@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-participacion-ciudadana-del-estado-de-quintana-roo-44414
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2009-11-23"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PARTICIPACION CIUDADANA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005.
 
@@ -41,13 +41,17 @@ LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley tienen por objeto establecer, fomentar, promover y regular los instrumentos que permitan la organización y desarrollo de los procesos de la Participación Ciudadana en los asuntos políticos de la entidad, con excepción de los de carácter electoral y municipal, los cuales se regirán por la legislación de la materia.
+Las disposiciones de esta Ley tienen por objeto establecer, fomentar, promover y regular los instrumentos con perspectiva de género que permitan la organización y desarrollo de los procesos de la Participación Ciudadana bajo el principio de igualdad sustantiva o real entre mujeres y hombres, en los asuntos políticos de la entidad, con excepción de los de carácter electoral y municipal, los cuales se regirán por la legislación de la materia.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
-Los instrumentos de la Participación Ciudadana, para los efectos de esta Ley, son el Referéndum, el Plebiscito y la Iniciativa Popular, sin perjuicio de otras formas que prevean otras disposiciones jurídicas en las relaciones de los ciudadanos con los órganos del gobierno estatal.
+Los instrumentos de la Participación Ciudadana, para los efectos de esta ley, son el Referéndum, el Plebiscito y la Iniciativa Popular, sin perjuicio de otras formas que prevean otras disposiciones jurídicas en las relaciones de las y los ciudadanos con los Órganos del Gobierno Estatal.
 
 ###### Artículo 3.
 
@@ -55,9 +59,11 @@ La organización y desarrollo de los instrumentos y procesos de Participación C
 
 Para los efectos de la presente Ley, se entenderá como Instituto al Instituto Electoral de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 4.
 
-Tendrán derecho a participar en los procesos que establece la presente Ley, los ciudadanos quintanarroenses que no tengan suspendidas sus prerrogativas en términos del Artículo 43 de la Constitución Política del Estado.
+Tendrán derecho a participar en los procesos que establece la presente ley las y los ciudadanos quintanarroenses que no tengan suspendidas sus prerrogativas en términos del Artículo 43 de la Constitución Política del Estado.
 
 ###### Artículo 5.
 
@@ -73,13 +79,65 @@ Durante la celebración de un Proceso Electoral Federal, Estatal o Municipal, no
 
 La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional, y en lo no previsto por la misma, se aplicará supletoriamente la Ley Electoral de Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 7 Bis.
+
+La Participación Ciudadana radicará en los principios de:
+
+I.- Democracia;
+
+II.-·Corresponsabilidad;
+
+III.-·Inclusión;
+
+IV.-·Solidaridad;
+
+V.- Legalidad;
+
+VI.-·Respeto;
+
+VII.-·Tolerancia;
+
+VIII.- Sustentabilidad;
+
+IX.- Igualdad Sustantiva; y
+
+X.- Perspectiva de Género,
+
+Asimismo, se asumirán como propios los principios que consagra el artículo 4° de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 7 Ter.
+
+·Las y los ciudadanos del Estado tienen los siguientes derechos:
+
+I.- Integrar los órganos de representación ciudadana;
+
+II.- Promover, ejercer y hacer uso de los mecanismos de participación ciudadana a que se refiere la presente ley;
+
+III.-·Aprobar o rechazar mediante el plebiscito los actos o decisiones de los Poderes Ejecutivo y Legislativo, cuando consideren que éstos sean trascendentales para la vida pública del Estado, y para la instrumentación de las políticas públicas, salvo las excepciones previstas en la Ley;
+
+IV.- Presentar al Congreso del Estado, mediante la iniciativa popular, proyectos de creación, modificación, derogación o abrogación de leyes, respecto de las materias de su competencia, coadyuvando a la armonización legislativa con perspectiva de género, excepto las señaladas en esta Ley;
+
+V.- Opinar sobre la aprobación, modificación, derogación, o abrogación por medio del referéndum de leyes, que expida el Congreso del Estado, salvo las excepciones previstas en esta Ley;
+
+VI.- Participar en la planeación y diseño de las decisiones de gobierno, y de la instrumentación de las políticas públicas, a través de los consejos ciudadanos o sociales que existan sin menoscabo de las instrucciones de la autoridad;
+
+VII.- Constituir observatorios ciudadanos en materia de violencia y perspectiva de género; y
+
+VIII.- Las demás que se establezcan en esta Ley y en las demás Leyes.
+
 ## TÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE PARTICIPACIÓN CIUDADANA
 
 ### CAPÍTULO I. DEL PLEBISCITO
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 8.
 
-El Plebiscito es el instrumento de Participación Ciudadana mediante el cual, a través del voto mayoritario de los ciudadanos, se aprueban o rechazan actos o decisiones de los Poderes Ejecutivo y Legislativo.
+El Plebiscito es el instrumento de participación ciudadana mediante el cual, a través del voto mayoritario de las y los ciudadanos, se aprueban o rechazan actos o decisiones de los Poderes Ejecutivo y Legislativo.
 
 ###### Artículo 9.
 
@@ -89,7 +147,9 @@ I. Los actos o decisiones del Gobernador del Estado, o de los titulares de las d
 
 II. Los actos que le corresponde efectuar a la Legislatura del Estado en lo relativo a la creación, fusión o supresión de Municipios.
 
-No podrán ser objeto de Plebiscito los actos que realice la autoridad por mandato de ley, los relativos a disposiciones tributarias, ni los acuerdos referentes a las tarifas de los servicios públicos.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+No podrán ser objeto de Plebiscito los actos que realice la autoridad por mandato de ley, los relativos a disposiciones tributarias, ni los acuerdos referentes a las tarifas de los servicios públicos; la normatividad en materia de violencia de género y el tratamiento de alguna de sus modalidades y tipos en especial a los ordenamientos relacionados a la violencia familiar.
 
 ###### Artículo 10.
 
@@ -101,7 +161,9 @@ II. La Legislatura del Estado, por acuerdo de las dos terceras partes de sus int
 
 III. Tres o más Ayuntamientos; y
 
-IV. Los ciudadanos del Estado que constituyan el cinco por ciento del Padrón Estatal Electoral, cuando se trate de actos o decisiones del Poder Ejecutivo, que sean considerados de trascendencia para la vida pública o el interés social de la entidad; o el diez por ciento del respectivo Padrón Electoral Municipal, cuando se trate de actos o decisiones que por su relevancia pudieran alterar de manera trascendente, el desarrollo económico, político, social o cultural de un determinado Municipio.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV. Las y los ciudadanos del Estado que constituyan el cinco por ciento del Padrón Estatal Electoral, cuando se trate de actos o decisiones del Poder Ejecutivo que sean considerados de trascendencia para la vida pública o el interés social de la entidad; o el diez por ciento del respectivo Padrón Electoral Municipal, cuando se trate de actos o decisiones que por su relevancia pudieran alterar de manera trascedente, el desarrollo económico, político, social o cultural de un determinado Municipio.
 
 El porcentaje a que se refiere la primera parte de la fracción anterior, deberá ser representativo de todo el Estado de Quintana Roo. Para este efecto, el número de ciudadanos promoventes, por Municipio, no podrá exceder del respectivo porcentaje que cada uno de los Municipios represente en el Padrón Estatal Electoral.
 
@@ -139,11 +201,17 @@ Para que la solicitud de Plebiscito sea admitida, será necesario:
 
 I. Que a juicio del Instituto, el acto sea de trascendencia para la vida pública o el interés social del Estado, o de relevancia tal que pudiera alterar de manera trascendente, el desarrollo económico, político, social o cultural del Municipio;
 
-II. Que el acto que pretende realizar la autoridad, no derive de un mandato de ley, ni se relacione con disposiciones tributarias o con acuerdos referentes a las tarifas de los servicios públicos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+II. Que el acto que pretende realizar la autoridad, no derive de un mandato de ley, ni se relacione con disposiciones tributarias o con acuerdos referentes a las tarifas de los servicios públicos, ni con la normatividad en materia de violencia de género y el tratamiento de alguna de sus modalidades y tipos en especial a los ordenamientos relacionados a la violencia familiar;
 
 III. Que la autoridad haya manifestado su interés por realizar el acto o decisión; y
 
-IV. Que el acto no se haya ejecutado o esté en proceso de ejecución, tratándose de obras públicas.
+IV. Que el acto no se haya ejecutado o esté en proceso de ejecución, tratándose de obras públicas;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+V. Que no violente los derechos humanos de las personas en cualquier ámbito y de cualquier clase, o bien se traduzca en algún tipo de discriminación por razones de género.
 
 ### CAPÍTULO II. DEL REFERÉNDUM
 
@@ -159,9 +227,19 @@ II. Las normas generales en materia Tributaria o Fiscal.
 
 III. Las normas generales que regulen la organización y funcionamiento de los Poderes del Estado y de los Municipios, o de sus entidades.
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV.- Las disposiciones legales en materia de violencia y perspectiva de género, así como aquellas que consagren derechos o medidas especiales y temporales de aceleramiento en favor de la igualdad de las mujeres.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+V.- Las normas que pretendan privilegiar usos y costumbres sobre derechos humanos de las personas.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 14.
 
-El resultado del Proceso de Consulta tendrá el efecto de recabar la opinión de los ciudadanos, respecto de si la Legislatura debe revisar o no, el contenido total o parcial de los proyectos de creación, reforma, derogación o abrogación de normas generales, que hayan sido materia de la consulta.
+El resultado del Proceso de Consulta tendrá el efecto de recabar la opinión de las y los ciudadanos, respecto de si la Legislatura debe revisar o no el contenido total o parcial de los proyectos de creación, reforma, derogación o abrogación de normas generales, que hayan sido materia de la consulta.
 
 ###### Artículo 15.
 
@@ -243,7 +321,9 @@ II. Cuando el acto o norma general de que se trate, no sean materia de Plebiscit
 
 III. Cuando los solicitantes no cumplan con los requisitos establecidos en la presente Ley; y
 
-IV. Tratándose de solicitudes presentadas por los ciudadanos, cuando exista error u omisión en más del diez por ciento de los datos de la lista de solicitantes o no se reúnan los porcentajes mínimos de ciudadanos promoventes exigidos por esta Ley.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV. Tratándose de solicitudes presentadas por las y los ciudadanos, cuando exista error u omisión en más del diez por ciento de los datos de la lista de solicitantes o no se reúnan los porcentajes mínimos de ciudadanos promoventes exigidos por esta Ley.
 
 ###### Artículo 22.
 
@@ -273,7 +353,9 @@ I. Fundamentación;
 
 II. Procedencia de la solicitud, señalando si ésta tiene su origen en alguna autoridad o en la ciudadanía;
 
-III. El objetivo del Plebiscito o Referéndum, según sea el caso, absteniéndose de emitir juicios de valor respecto de la disposición o acto materia de la consulta;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III. El objetivo del Plebiscito o Referéndum, según sea el caso, absteniéndose de emitir juicios de valor respecto de la disposición o acto materia de la consulta, o cualquier otra que implique menoscabo o sometimiento de un género a otro;
 
 IV. Condiciones para el registro; y
 
@@ -295,7 +377,9 @@ Los lugares para la ubicación de las casillas deberán reunir los requisitos qu
 
 La designación de los integrantes de las mesas directivas de casilla se sujetará a las siguientes disposiciones:
 
-I. Se nombrará a los ciudadanos designados como funcionarios de casilla en las últimas Elecciones Ordinarias; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+I. Se nombrará bajo el principio de paridad de género a las y los ciudadanos designados como funcionarios de casilla en las últimas Elecciones Ordinarias; y
 
 II. De no completarse la integración de las mesas directivas de casilla, se estará a lo que disponga el Consejo General del Instituto.
 
@@ -323,17 +407,27 @@ El material necesario para la realización de la Jornada deberá ser entregado a
 
 ### CAPÍTULO II. DE LA PROPAGANDA
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 31.
 
-Se consideran campañas propagandísticas al conjunto de acciones de difusión realizadas por las autoridades o los ciudadanos para promover la participación en los Procesos de Consulta, buscando obtener el apoyo para lograr la aprobación o rechazo de los actos de gobierno o de las normas generales, materia del Plebiscito o del Referéndum.
+Se consideran campañas propagandísticas al conjunto de acciones de difusión realizadas por las autoridades o las y los ciudadanos para promover la participación desde una igualdad sustantiva en los Procesos de Consulta, buscando obtener el apoyo para lograr la aprobación o rechazo de los actos de gobierno o de las normas generales, materia del Plebiscito o del Referéndum.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 32.
 
-Los actos propagandísticos podrán realizarse desde la publicación de la Convocatoria y hasta tres días antes de la Jornada de Consulta, y deberán propiciar la exposición, desarrollo y discusión de los objetivos del Plebiscito o Referéndum.
+Los actos propagandísticos podrán realizarse desde la publicación de la Convocatoria y hasta tres días antes de la jornada de Consulta, y deberán propiciar la exposición, desarrollo y discusión de los objetivos del Plebiscito o Referéndum, sin prácticas discriminatorias o que fomenten la misoginia o la intolerancia, pudiendo suspenderse la propaganda de violarse la presente disposición.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 33.
 
-Toda propaganda impresa que se utilice o difunda durante los procesos de consulta deberá contener la identificación plena de quienes la hacen circular y no tendrá más limitaciones que el respeto a los derechos de terceros y evitará atentar contra la dignidad de las personas e instituciones.
+Toda propaganda impresa que se utilice o difunda durante los procesos de consulta deberá contener la identificación plena de quienes la hacen circular y no tendrá más limitaciones que el respeto a los derechos humanos y evitará atentar contra la dignidad de las personas e instituciones.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Queda prohibido en toda propaganda usar lenguajes e imágenes sexistas que refuercen los roles y estereotipos tradicionales del hombre y de la mujer de sumisión de un género hacia otro.
 
 Para la colocación y fijación de la propaganda se estará a lo dispuesto por la Ley Electoral de Quintana Roo.
 
@@ -433,9 +527,11 @@ Concluido el cómputo preliminar, se remitirán los resultados, junto con la doc
 
 El Presidente del Consejo General dará a conocer los resultados del proceso y, en su caso, hará la declaración de validez, ordenando se notifique el resultado a las partes interesadas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 46.
 
-Para que el resultado de un proceso de consulta pueda ser considerado válido, se requerirá la participación de por lo menos el treinta por ciento de los ciudadanos inscritos en la lista nominal correspondiente.
+Para que el resultado de un proceso de consulta pueda ser considerado válido, se requerirá la participación de por lo menos el treinta por ciento de las y los ciudadanos inscritos en la lista nominal correspondiente y haberse observado las disposiciones respectivas en materia de propaganda.
 
 Si no se alcanzara el porcentaje mínimo de participación ciudadana, se declarará nulo el proceso y no tendrá ningún efecto sobre la disposición o acto que lo provocó.
 
@@ -449,9 +545,11 @@ Concluida la calificación del proceso de consulta, cualquiera que sea su result
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 48.
 
-La Iniciativa Popular es el derecho que faculta a los ciudadanos quintanarroenses a presentar ante la Legislatura del Estado:
+La Iniciativa Popular es el derecho que faculta a las y los ciudadanos quintanarroenses a presentar ante la Legislatura del Estado:
 
 I. Iniciativas de Ley, como propuesta formal de normas generales, abstractas, impersonales y de observancia obligatoria;
 
@@ -463,17 +561,21 @@ III. Iniciativas de reforma, adición, derogación o abrogación de normas gener
 
 No podrán ser objeto de Iniciativa Popular las disposiciones en materia fiscal o tributaria, ni la expropiación de bienes, aunque se alegue causa de interés público.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 50.
 
-Los ciudadanos quintanarroenses podrán ejercer el derecho de Iniciativa Popular en forma espontánea o a Convocatoria de la Legislatura del Estado.
+Las y los ciudadanos quintanarroenses podrán ejercer el derecho de Iniciativa Popular en forma espontánea o a Convocatoria de la Legislatura del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 51.
 
-Las iniciativas de ley, decreto, reforma, adición, derogación o abrogación de normas generales, que en forma espontánea sean formuladas por los ciudadanos quintanarroenses, deberán ser suscritas cuando menos por el equivalente al dos punto cinco por ciento de ciudadanos inscritos en el Padrón Estatal Electoral y será dirigida a la Legislatura del Estado y presentada ante la Oficialía de Partes de la propia Legislatura.
+Las Iniciativas de ley, decreto, reforma, adición, derogación o abrogación de normas generales, que en forma espontánea sean formuladas por las y los ciudadanos quintanarroenses, deberán ser suscritas cuando menos por el equivalente al dos punto cinco por ciento de ciudadanos inscritos en el Padrón Estatal Electoral y será dirigida a la Legislatura del Estado y presentada ante la Oficialía de Partes de la propia Legislatura.
 
-El porcentaje a que se refiere el párrafo anterior, deberá ser representativo de todo el Estado de Quintana Roo. Para este efecto, el número de ciudadanos promoventes, por Municipio, no podrá exceder del respectivo porcentaje que cada uno de los Municipios represente en el padrón estatal electoral
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+El porcentaje a que se refiere el párrafo anterior, deberá ser representativo de todo el Estado de Quintana Roo. Para este efecto, el número de las y los ciudadanos promoventes, por Municipio, no podrá exceder del respectivo porcentaje que cada uno de los Municipios represente en el padrón estatal electoral.
 
 El escrito de presentación deberá señalar al representante común; el domicilio para oír notificaciones en la Ciudad de Chetumal y acompañarse de la lista de promoventes, que deberá contener:
 
@@ -501,11 +603,15 @@ III. Texto de la propuesta con estructura lógico-jurídica; y
 
 IV. Artículos transitorios.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 53.
 
-Recibida la Iniciativa, la Legislatura o la Diputación Permanente, en su caso, turnará la lista de promoventes al Instituto para que certifique la autenticidad de los datos de los ciudadanos que la suscriben.
+Recibida la Iniciativa, la Legislatura o la Diputación Permanente, en su caso, turnará la lista de promoventes al Instituto para que certifique la autenticidad de los datos de las y los ciudadanos que la suscriben.
 
-El Instituto, certificará asimismo, si se cubre o no, el porcentaje de ciudadanos autores de la Iniciativa requerido por esta Ley.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+El Instituto, certificará asimismo, si se cubre o no, el porcentaje de las y los ciudadanos autores de la Iniciativa requerido por esta Ley.
 
 El Instituto deberá contestar dentro de un término de quince días hábiles contados a partir de la fecha en que le sea turnada la solicitud.
 
@@ -515,17 +621,21 @@ Si la respuesta del Instituto es en el sentido de que la lista de promoventes sa
 
 En caso contrario, previa autorización del Secretario de la Mesa Directiva, el Oficial Mayor dictará acuerdo de archivo de la Iniciativa, notificándolo a los promoventes, sin que proceda recurso alguno.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 55.
 
-La Legislatura del Estado o la Diputación Permanente, en su caso, deberá dar trámite expreso a las Iniciativas presentadas en forma espontánea por los ciudadanos quintanarroenses, dentro del término de doce meses.
+La Legislatura del Estado o la Diputación Permanente, en su caso, deberá dar trámite expreso a las Iniciativas presentadas en forma espontánea por las y los ciudadanos quintanarroenses, dentro del término de doce meses.
 
 ###### Artículo 56.
 
 Toda Iniciativa Popular desechada, no podrá volver a presentarse sino hasta transcurrido un año posterior a la fecha en que se desechó.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 57.
 
-La Legislatura del Estado, por el voto de las dos terceras partes de sus integrantes, podrá convocar a los ciudadanos quintanarroenses para que presenten iniciativas de ley o decreto, o de reforma, adición, derogación o abrogación de normas generales, respecto de temas y materias específicas.
+La Legislatura del Estado, por el voto de las dos terceras partes de sus integrantes, podrá convocar a las y los ciudadanos quintanarroenses para que presenten iniciativas de ley o decreto, o de reforma, adición, derogación o abrogación de normas generales, respecto de temas y materias específicas.
 
 La presentación y trámite de las Iniciativas Populares que provengan de consultas convocadas en forma expresa por la Legislatura del Estado, se sujetarán a las bases y trámites previstos en la respectiva Convocatoria.
 
@@ -564,3 +674,11 @@ PEDRO JOSE FLOTA ALCOCER
 P.O. 23 DE NOVIEMBRE DE 2009.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+T R A N S I TO R I O:
+
+ÚNICO.- Publíquese el presente Decreto, en el Periódico Oficial del Estado de Quintana Roo.
