@@ -4,7 +4,7 @@ identifier: "LFPCA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2005-12-01"
-last_updated: "2010-01-28"
+last_updated: "2010-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPCA"
 
 LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de diciembre de 2005.
 
@@ -60,7 +60,11 @@ I. Acuse de Recibo Electrónico: Constancia que acredita que un documento digita
 
 II. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico.
 
-III. Boletín Procesal: Medio de comunicación oficial impreso o electrónico, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos federales que se tramitan ante el mismo.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+III. Boletín Electrónico: Medio de comunicación oficial electrónico, a través del cual el Tribunal da a conocer las actuaciones o resoluciones en los juicios contenciosos administrativos federales que se tramitan ante el mismo.
 
 IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea del Tribunal a las partes, como medio de identificación de las personas facultadas en el juicio en que promuevan para utilizar el Sistema, y asignarles los privilegios de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica avanzada en un procedimiento contencioso administrativo.
 
@@ -78,13 +82,21 @@ X. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en
 
 XI. Firma Electrónica Avanzada: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica permite actuar en Juicio en Línea.
 
-XII. Juicio en la vía tradicional: El juicio contencioso administrativo federal que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales.
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-XIII. Juicio en línea: Substanciación y resolución del juicio contencioso administrativo federal en todas sus etapas, así como de los procedimientos previstos en el artículo 58 de esta Ley, a través del Sistema de Justicia en Línea.
+XII. Juicio en la vía tradicional: El juicio contencioso administrativo federal que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales, incluso en los casos en que sea procedente la vía sumaria.
 
-XIV. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal.
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-XV. Tribunal: Tribunal Federal de Justicia Fiscal y Administrativa.
+XIII. Juicio en línea: Substanciación y resolución del juicio contencioso administrativo federal en todas sus etapas, así como de los procedimientos previstos en el artículo 58 de esta Ley, a través del Sistema de Justicia en Línea, incluso en los casos en que sea procedente la vía sumaria.
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XIV. Juicio en la vía Sumaria: El juicio contencioso administrativo federal en aquellos casos a los que se refiere el Capítulo XI del Título II de esta Ley.
+
+XV. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal.
+
+XVI. Tribunal: Tribunal Federal de Justicia Fiscal y Administrativa.
 
 ###### ARTÍCULO 2o.
 
@@ -276,7 +288,9 @@ La demanda deberá presentarse dentro de los plazos que a continuación se indic
 
 I. De cuarenta y cinco días siguientes a aquél en el que se dé alguno de los supuestos siguientes:
 
-a) Que haya surtido efectos la notificación de la resolución impugnada, inclusive cuando se controvierta simultáneamente como primer acto de aplicación una regla administrativa de carácter general.
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+a) Que haya surtido efectos la notificación de la resolución impugnada, de conformidad con lo dispuesto en esta Ley, inclusive cuando se controvierta simultáneamente como primer acto de aplicación una regla administrativa de carácter general.
 
 b) Hayan iniciado su vigencia el decreto, acuerdo, acto o resolución administrativa de carácter general impugnada cuando sea auto aplicativa.
 
@@ -296,9 +310,13 @@ En los casos de incapacidad o declaración de ausencia, decretadas por autoridad
 
 La demanda deberá indicar:
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-I. El nombre del demandante y su domicilio para recibir notificaciones en cualquier parte del territorio nacional, así como su Dirección de Correo Electrónico, cuando opte porque el juicio se substancie en línea a través del Sistema de Justicia en Línea.
+I. El nombre del demandante, domicilio fiscal y su domicilio para oír y recibir notificaciones dentro de la jurisdicción de la Sala Regional Competente, así como su dirección de correo electrónico, cuando opte porque el juicio se substancie en línea a través del Sistema de Justicia en Línea.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+La indicación de que se tramitará en la Vía Sumaria. En caso de omisión, el Magistrado Instructor lo tramitará en esta vía en los supuestos que proceda de conformidad con el Título II, Capítulo XI de esta Ley, sin embargo no será causa de desechamiento de la demanda, el hecho de que está no se presente dentro del término establecido para la promoción del Juicio en la Vía Sumaria, cuando la procedencia del mismo derive de la existencia de alguna de las jurisprudencias a las que se refiere el antepenúltimo párrafo del Artículo 58-2; en todo caso si el Magistrado Instructor, antes de admitir la demanda, advierte que los conceptos de impugnación planteados por la actora tienen relación con alguna de las citadas jurisprudencias, proveerá lo conducente para la sustanciación y resolución del Juicio en la Vía Ordinaria.
 
 II. La resolución que se impugna. En el caso de que se controvierta un decreto, acuerdo, acto o resolución de carácter general, precisará la fecha de su publicación.
 
@@ -334,9 +352,13 @@ En la demanda en que promuevan dos o más personas en contravención de lo dispu
 
 Cuando se omita el nombre del demandante o los datos precisados en las fracciones II y VI, el Magistrado Instructor desechará por improcedente la demanda interpuesta. Si se omiten los datos previstos en las fracciones III, IV, V, VII y VIII, el Magistrado Instructor requerirá al promovente para que los señale dentro del término de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-En el supuesto de que conforme a lo dispuesto en la fracción I de este artículo, no se señale el domicilio del demandante en la jurisdicción de la Sala Regional que corresponda o se desconozca el domicilio del tercero, las notificaciones relativas se efectuarán por lista autorizada, que se fijará en sitio visible de la propia Sala, así como en el Boletín Procesal que emita el Tribunal, el cual estará disponible en su página electrónica. En caso de que el actor desconozca el domicilio del tercero, deberá manifestarlo así bajo protesta de decir verdad.
+Si en el lugar señalado por el actor como domicilio del tercero, se negare que sea éste, el demandante deberá proporcionar al Tribunal la información suficiente para proceder a su primera búsqueda, siguiendo al efecto las reglas previstas en el Código Federal de Procedimientos Civiles.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+En el supuesto de que no se señale domicilio del demandante para recibir notificaciones conforme a lo dispuesto por la fracción I, de este artículo, las que corresponda hacérsele en el mismo, se efectuarán por Boletín Electrónico.
 
 ###### ARTÍCULO 15.
 
@@ -470,103 +492,125 @@ Cuando haya contradicciones entre los hechos y fundamentos de derecho dados en l
 
 ### CAPÍTULO III. De las Medidas Cautelares
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 24.
 
-Una vez iniciado el juicio contencioso administrativo, pueden decretarse todas las medidas cautelares necesarias para mantener la situación de hecho existente, que impidan que la resolución impugnada pueda dejar el litigio sin materia o causar un daño irreparable al actor, salvo en los casos en que se cause perjuicio al interés social o se contravengan disposiciones de orden público.
+Una vez iniciado el juicio contencioso administrativo, podrán decretarse todas las medidas cautelares necesarias para mantener la situación de hecho existente, que impidan que la resolución impugnada pueda dejar el litigio sin materia o causar un daño irreparable al actor, salvo en los casos en que se cause perjuicio al interés social o se contravengan disposiciones de orden público.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+La suspensión de la ejecución del acto impugnado se tramitará y resolverá de conformidad con el artículo 28 de esta Ley.
+
+Las demás medidas cautelares se tramitarán y resolverán de acuerdo con la presente disposición jurídica y los artículos 25, 26 y 27 de esta Ley.
+
+Durante los periodos de vacaciones del Tribunal, en cada región un Magistrado de Sala Regional cubrirá la guardia y quedará habilitado para resolver las peticiones urgentes sobre medidas cautelares o suspensión del acto impugnado, relacionadas con cuestiones planteadas en la demanda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 24 Bis.
+
+Las medidas cautelares se tramitarán de conformidad con el incidente respectivo, el cual se iniciará de conformidad con lo siguiente:
 
 I. La promoción en donde se soliciten las medidas cautelares señaladas, deberá contener los siguientes requisitos:
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+a) El nombre del demandante y su domicilio para recibir notificaciones, el cual deberá encontrarse ubicado dentro de la región de la Sala que conozca del juicio, así como su dirección de correo electrónico, cuando opte porque el juicio se substancie en línea a través del Sistema de Justicia en Línea;
 
-a) El nombre del demandante y su domicilio para recibir notificaciones en cualquier parte del territorio nacional, así como su Dirección de Correo Electrónico, cuando opte porque el juicio se substancie en línea a través del Sistema de Justicia en Línea.
-
-b) Resolución que se pretende impugnar y fecha de notificación de la misma.
+b) Resolución que se pretende impugnar y fecha de notificación de la misma;
 
 c) Los hechos que se pretenden resguardar con la medida cautelar, y
 
-d) Expresión de los motivos por los cuales solicita la medida cautelar que se solicita.
+d) Expresión de los motivos por los cuales solicita la medida cautelar.
 
-II. Con el escrito de solicitud de medidas cautelares, se anexarán los siguientes comentarios:
+II. El escrito de solicitud de medidas cautelares deberá cumplir con lo siguiente:
 
-a) El que pida la medida cautelar deberá acreditar el derecho que tiene para gestionar la necesidad de la medida que solicita, y
+a) Acreditar la necesidad para gestionar la medida cautelar, y
 
-b) Una copia del escrito mencionado por cada una de las partes que vayan a participar en el juicio, para correrles traslado.
+b) Adjuntar copia de la solicitud, para cada una de las partes, a fin de correrles traslado.
 
-En caso de no cumplir con los requisitos de las fracciones I y II, se tendrá por no interpuesto el incidente.
+En caso de no cumplir con los requisitos previstos en las fracciones I y II del presente artículo, se tendrá por no interpuesto el incidente.
 
-El Magistrado Instructor podrá ordenar una medida cautelar, cuando considere que los daños que puedan causarse sean inminentes. En los casos en que se pueda causar una afectación patrimonial, el Magistrado Instructor exigirá una garantía para responder de los daños y perjuicios que se causen con la medida cautelar.
+En los demás casos, el particular justificará en su petición las razones por las cuales las medidas cautelares son indispensables y el Magistrado Instructor podrá otorgarlas, motivando las razones de su procedencia.
 
-En los demás casos que conozca la Sala Regional, ésta podrá dictar las medidas cautelares cuando las pida el actor pero deberá motivar cuidadosamente las medidas adoptadas; para ello, el particular justificará en su petición las razones por las cuales las medidas son indispensables.
+La solicitud de las medidas cautelares, se podrá presentar en cualquier tiempo, hasta antes de que se dicte sentencia definitiva.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 25.
 
 En el acuerdo que admita el incidente de petición de medidas cautelares, el Magistrado Instructor ordenará correr traslado a quien se impute el acto administrativo o los hechos objeto de la controversia, pidiéndole un informe que deberá rendir en un plazo de tres días. Si no se rinde el informe o si éste no se refiere específicamente a los hechos que le impute el promovente, dichos hechos se tendrán por ciertos. En el acuerdo a que se refiere este párrafo, el Magistrado Instructor resolverá sobre las medidas cautelares previas que se le hayan solicitado.
 
-Dentro del plazo de cinco días contados a partir de que haya recibido el informe o de que haya vencido el término para presentarlo, la Sala Regional dictará resolución definitiva en la que decrete o niegue las medidas cautelares solicitadas, decida, en su caso, sobre la admisión de la garantía ofrecida, la cual deberá otorgarse dentro de un plazo de tres días. Cuando no se otorgare la garantía dentro del plazo señalado, las medidas cautelares dejarán de tener efecto.
+Dentro del plazo de cinco días contados a partir de que haya recibido el informe o que haya vencido el término para presentarlo, el Magistrado Instructor dictará la resolución en la que, de manera definitiva, decrete o niegue las medidas cautelares solicitadas, decida en su caso, sobre la admisión de la garantía ofrecida, la cual deberá otorgarse dentro del plazo de tres días. Cuando no se otorgare la garantía dentro del plazo señalado, las medidas cautelares dejarán de tener efecto.
 
-Mientras no se dicte sentencia definitiva, la Sala Regional que hubiere conocido del incidente, podrá modificar o revocar la resolución que haya decretado o negado las medidas cautelares, cuando ocurra un hecho superveniente que lo justifique.
-
-Si el obligado por las medidas cautelares no da cumplimiento a éstas o la autoridad no admite la garantía, la Sala declarará, en su caso, la nulidad de las actuaciones realizadas con violación a dichas medidas e impondrá al renuente una multa por el monto equivalente de uno a tres tantos del salario mínimo general del área geográfica correspondiente al Distrito Federal, elevado al mes, tomando en cuenta la gravedad del incumplimiento, el sueldo del servidor público de que se trate, su nivel jerárquico, así como las consecuencias que el no acatamiento de la suspensión hubiere ocasionado cuando el afectado lo señale. En este caso, el solicitante tendrá derecho a una indemnización por daños y perjuicios, la que, en su caso, correrá a cargo de la unidad administrativa en la que preste sus servicios al servidor público.
+Mientras no se dicte sentencia definitiva el Magistrado Instructor que hubiere conocido del incidente, podrá modificar o revocar la resolución que haya decretado o negado las medidas cautelares, cuando ocurra un hecho superveniente que lo justifique.
 
 ###### ARTÍCULO 26.
 
 La Sala Regional podrá decretar medidas cautelares positivas, entre otros casos, cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende, por el simple transcurso del tiempo.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 27.
 
-En los casos en los que las medidas cautelares puedan causar daños a terceros, la Sala Regional las ordenará siempre que el actor otorgue garantía bastante para reparar mediante indemnización el daño y los perjuicios que con aquéllas pudieran causarse si no obtiene sentencia favorable en el juicio. Si no es cuantificable la indemnización respectiva, la Sala Regional fijará discrecionalmente el importe de la garantía.
+En los casos en los que las medidas cautelares puedan causar daños a terceros, el Magistrado Instructor o en su caso, la Sala las ordenará siempre que el actor otorgue garantía bastante para reparar, mediante indemnización, el daño y los perjuicios que con ellas pudieran causarse si no obtiene sentencia favorable en el juicio; garantía que deberá expedirse a favor de los terceros que pudieran tener derecho a la reparación del daño o a la indemnización citada y quedará a disposición de la Sala. Si no es cuantificable la indemnización respectiva, se fijará discrecionalmente el importe de la garantía, expresando los razonamientos lógicos y jurídicos respectivos. Si se carece por completo de datos que permitan el ejercicio de esta facultad, se requerirá a la parte afectada para que proporcione todos aquéllos que permitan conocer el valor probable del negocio y hagan posible la fijación del monto de la garantía.
 
-Las medidas cautelares podrán quedar sin efecto si el tercero da, a su vez, caución bastante para indemnizar los daños y perjuicios que pudieran causarse por subsistir las medidas cautelares previstas.
+Las medidas cautelares podrán quedar sin efecto si la contraparte da, a su vez, caución bastante para indemnizar los daños y perjuicios que pudieran causarse por no subsistir las medidas cautelares previstas, incluidos los costos de la garantía que hubiese otorgado la parte afectada.
 
-Por su parte, la autoridad puede obligarse a resarcir los daños y perjuicios que se pudieran causar al particular; en cuyo caso, el Tribunal, considerando cuidadosamente las circunstancias del caso, puede no dictar las medidas cautelares. En este caso, si la sentencia definitiva es contraria a la autoridad, la Sala Regional, la Sección o el Pleno debe condenarla a pagar la indemnización administrativa correspondiente.
+Por su parte, la autoridad podrá obligarse a resarcir los daños y perjuicios que se pudieran causar al particular; en cuyo caso, el Tribunal, considerando las circunstancias del caso, podrá no dictar las medidas cautelares. En este caso, si la sentencia definitiva es contraria a la autoridad, el Magistrado Instructor, la Sala Regional, la Sección o el Pleno, deberá condenarla a pagar la indemnización administrativa que corresponda.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 28.
 
-El demandante, podrá solicitar la suspensión de la ejecución del acto administrativo impugnado, cuando la autoridad ejecutora niegue la suspensión, rechace la garantía ofrecida o reinicie la ejecución, cumpliendo con los siguientes requisitos.
+La solicitud de suspensión de la ejecución del acto administrativo impugnado, presentado por el actor o su representante legal, se tramitará y resolverá, de conformidad con las reglas siguientes:
 
-I. Podrá solicitarla en la demanda o en cualquier tiempo, hasta antes de que se dicte sentencia, ante la Sala de conocimiento del juicio.
+I. Se concederá siempre que:
 
-II. Acompañar copias de la promoción en la que solicite la suspensión y de las pruebas documentales que ofrezca, para correr traslado a cada una de las partes y una más para la carpeta de suspensión.
+a) No se afecte el interés social, ni se contravengan disposiciones de orden público, y
 
-III. Ofrecer, en su caso, las pruebas documentales relativas al ofrecimiento de garantía, a la solicitud de suspensión presentada ante la autoridad ejecutora y, si la hubiere, la documentación en que conste la negativa de la suspensión, el rechazo de la garantía o el reinicio de la ejecución, únicas admisibles en la suspensión.
+b) Sean de difícil reparación los daños o perjuicios que se causen al solicitante con la ejecución del acto impugnado.
 
-IV. Ofrecer garantía suficiente mediante billete de depósito o póliza de fianza expedida por institución autorizada, para reparar el daño o indemnizar los perjuicios que pudieran ocasionarse a la demandada o a terceros con la suspensión si no se obtiene sentencia favorable en el juicio contencioso administrativo.
+II. Para el otorgamiento de la suspensión deberán satisfacerse los siguientes requisitos:
 
-V. Los documentos referidos deberán expedirse a favor de la otra parte o de los terceros que pudieran tener derecho a la reparación del daño o a la indemnización citadas.
+a) Tratándose de la suspensión de actos de determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos fiscales, se concederá la suspensión, la que surtirá sus efectos si se ha constituido o se constituye la garantía del interés fiscal ante la autoridad ejecutora por cualquiera de los medios permitidos por las leyes fiscales aplicables.
 
-VI. Tratándose de la solicitud de la suspensión de la ejecución en contra de actos relativos a determinación, liquidación, ejecución o cobro de contribuciones o créditos de naturaleza fiscal, procederá la suspensión del acto reclamado, la que surtirá efectos si se ha constituido o se constituye la garantía del interés fiscal ante la autoridad ejecutora por cualquiera de los medios permitidos por las leyes fiscales aplicables.
+Al otorgar la suspensión, se podrá reducir el monto de la garantía, en los siguientes casos:
 
-El órgano jurisdiccional está facultado para reducir el monto de la garantía, en los siguientes casos:
+1. Si el monto de los créditos excediere la capacidad económica del solicitante, y
 
-a) Si el monto de los créditos excediere la capacidad económica del quejoso, y
+2. Si se tratara de tercero distinto al sujeto obligado de manera directa o solidaria al pago del crédito.
 
-b) Si se tratase de tercero distinto al sujeto obligado de manera directa o solidaria al pago del crédito.
+b) En los casos en que la suspensión pudiera causar daños o perjuicios a terceros, se concederá si el solicitante otorga garantía bastante para reparar el daño o indemnizar el perjuicio que con ella se cause, si éste no obtiene sentencia favorable.
 
-VII. Exponer en el escrito de solicitud de suspensión de la ejecución del acto impugnado, las razones por las cuáles considera que debe otorgarse la medida y los perjuicios que se causarían en caso de la ejecución de los actos cuya suspensión se solicite.
+En caso de afectaciones no estimables en dinero, de proceder la suspensión, se fijará discrecionalmente el importe de la garantía.
 
-VIII. La suspensión se tramitará por cuerda separada y con arreglo a las disposiciones previstas en este Capítulo.
+La suspensión a la que se refiere este inciso quedará sin efecto, si previa resolución del Magistrado Instructor, el tercero otorga a su vez contragarantía para restituir las cosas al estado que guardaban antes de la notificación del acto impugnado al solicitante y a pagar los daños y perjuicios que se le hayan ocasionado, si finalmente la sentencia definitiva que se dicte fuere favorable a sus pretensiones, así como el costo de la garantía que este último hubiere otorgado. No procede admitir la contragarantía si, de ejecutarse el acto, quedare sin materia el juicio.
 
-IX. El Magistrado Instructor, en el auto que acuerde la solicitud de suspensión de la ejecución del acto impugnado, podrá decretar la suspensión provisional, siempre y cuando con ésta no se afecte al interés social, se contravenga disposiciones de orden público o quede sin materia el juicio, y se esté en cualquiera de los siguientes supuestos:
+c) En los demás casos, se concederá determinando la situación en que habrán de quedar las cosas, así como las medidas pertinentes para preservar la materia del juicio principal, hasta que se pronuncie sentencia firme.
 
-a) Que no se trate de actos que se hayan consumado de manera irreparable.
+d) El monto de la garantía y contragarantía será fijado por el Magistrado Instructor o quien lo supla.
 
-b) Que se le causen al demandante daños mayores de no decretarse la suspensión, y
+III. El procedimiento será:
 
-c) Que sin entrar al análisis del fondo del asunto, se advierta claramente la ilegalidad manifiesta del acto administrativo impugnado.
+a) La solicitud podrá ser formulada en la demanda o en escrito diverso presentado ante la Sala en que se encuentre radicado el juicio, en cualquier tiempo mientras no se dicte sentencia firme.
 
-X. El auto que decrete o niegue la suspensión provisional, podrá ser impugnado por las autoridades demandadas mediante el recurso de reclamación previsto en el artículo 59 de esta Ley, dejando a salvo los derechos del demandante para que lo impugne en la vía que corresponda.
+b) Se tramitará por cuerda separada, bajo la responsabilidad del Magistrado Instructor.
 
-XI. En el caso en que la ley que regule el acto administrativo cuya suspensión se solicite, no prevea la solicitud de suspensión ante la autoridad ejecutora, la suspensión tendrá el alcance que indique el Magistrado Instructor o la Sala y subsistirá en tanto no se modifique o revoque o hasta que exista sentencia firme.
+c) El Magistrado Instructor deberá conceder o negar la suspensión provisional de la ejecución, a más tardar dentro del día hábil siguiente a la presentación de la solicitud.
 
-XII. Mientras no se dicte sentencia en el juicio, la Sala podrá modificar o revocar la sentencia interlocutoria que haya decretado o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique.
+d) El Magistrado Instructor requerirá a la autoridad demandada un informe relativo a la suspensión definitiva, el que se deberá rendir en el término de tres días. Vencido el término, con el informe o sin él, el Magistrado resolverá lo que corresponda, dentro de los tres días siguientes.
 
-XIII. Cuando el solicitante de la suspensión obtenga sentencia firme favorable, la Sala ordenará la cancelación o liberación, según el caso, de la garantía otorgada.
+IV. Mientras no se dicte sentencia firme en el juicio, el Magistrado Instructor podrá modificar o revocar la resolución que haya concedido o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique.
 
-Asimismo, si la sentencia firme le es desfavorable, a petición de la contraparte o, en su caso, del tercero, y previo acreditamiento que se causaron perjuicios o se sufrieron daños, la Sala, ordenará hacer efectiva la garantía otorgada ante el Tribunal.
-
-XIV. Si la solicitud de suspensión de la ejecución es promovida por la Autoridad demandada por haberse concedido en forma indebida.
+V. Cuando el solicitante de la suspensión obtenga sentencia favorable firme, el Magistrado Instructor ordenará la cancelación o liberación de la garantía otorgada. En caso de que la sentencia firme le sea desfavorable, a petición de la contraparte o en su caso, del tercero, y previo acreditamiento de que se causaron perjuicios o se sufrieron daños, la Sala ordenará hacer efectiva la garantía otorgada ante la autoridad.
 
 ### CAPÍTULO IV. De los Incidentes
 
@@ -574,7 +618,9 @@ XIV. Si la solicitud de suspensión de la ejecución es promovida por la Autorid
 
 En el juicio contencioso administrativo federal sólo serán de previo y especial pronunciamiento:
 
-I. La incompetencia en razón del territorio.
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+I. La incompetencia por materia.
 
 II. El de acumulación de juicios.
 
@@ -588,17 +634,19 @@ VI. La interrupción por causa de muerte, disolución, declaratoria de ausencia 
 
 Cuando la promoción del incidente sea frívola e improcedente, se impondrá a quien lo promueva una multa de diez a cincuenta veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 30.
 
-Cuando ante una de las Salas Regionales se promueva juicio de la que otra deba conocer por razón de territorio, se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponderá ventilar el negocio, enviándole los autos.
+Las Salas Regionales serán competentes para conocer de los juicios por razón de territorio, de conformidad con lo previsto en el artículo 34 de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
 
-Recibido el expediente por la Sala requerida, decidirá de plano dentro de las cuarenta y ocho horas siguientes, si acepta o no el conocimiento del asunto.
+En caso de duda, será competente por razón de territorio la Sala Regional ante quien se haya presentado el asunto.
 
-Si la Sala Regional requerida la acepta, comunicará su resolución a la requirente, a las partes y al Presidente del Tribunal. En caso de no aceptarlo, hará saber su resolución a la Sala requirente y a las partes, y remitirá los autos al Presidente del Tribunal.
+Cuando una sala esté conociendo de algún juicio que sea competencia de otra, el demandado o el tercero podrán acudir ante el Presidente del Tribunal exhibiendo copia certificada de la demanda y de las constancias que estime pertinentes, a fin de que se someta el asunto al conocimiento de la Sección que por turno le corresponda conocer.
 
-Recibidos los autos, el Presidente del Tribunal los someterá a consideración del Pleno para que éste determine a cual Sala Regional corresponde conocer el juicio, pudiendo señalar a alguna de las contendientes o a Sala diversa, ordenando que el Presidente del Tribunal comunique la decisión adoptada a las Salas y a las partes y remita los autos a la que sea declarada competente.
+Cuando se presente un asunto en una Sala Regional que por materia corresponda conocer a una Sala Especializada, la primera se declarará incompetente y comunicará su resolución a la que en su opinión corresponde conocer del juicio, enviándole los autos.
 
-Cuando una Sala esté conociendo de algún juicio que sea de la competencia de otra, cualquiera de las partes podrá acudir ante el Presidente del Tribunal, exhibiendo copia certificada de la demanda y de las constancias que estime pertinentes, a fin de que se someta el asunto al conocimiento del Pleno del Tribunal. Si las constancias no fueran suficientes, el Presidente del Tribunal podrá pedir informe a la Sala Regional cuya competencia se denuncie, a fin de integrar debidamente las constancias que deba someterse al Pleno.
+La Sala requerida decidirá de plano, dentro de las cuarenta y ocho horas siguientes a la fecha de recepción del expediente, si acepta o no el conocimiento del asunto. Si la Sala lo acepta, comunicará su resolución a la requirente y a las partes. En caso de no aceptarlo, se tramitará el incidente a que se refiere el tercer párrafo de este artículo.
 
 ###### ARTÍCULO 31.
 
@@ -752,27 +800,37 @@ Al vencer el plazo de cinco días a que se refiere el párrafo anterior, con ale
 
 ### CAPÍTULO VII. Facultad de Atracción
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 48.
 
-El Pleno o las Secciones del Tribunal, de oficio o a petición fundada de la Sala Regional correspondiente, de los particulares o de las autoridades, podrán ejercer la facultad de atracción, para resolver los juicios con características especiales.
+El Pleno o las Secciones del Tribunal podrán resolver los juicios con características especiales.
 
 I. Revisten características especiales los juicios en los que:
 
 a) Por su materia, conceptos de impugnación o cuantía se consideren de interés y trascendencia.
 
-Tratándose de la cuantía, el valor del negocio deberá exceder de tres mil quinientas veces el salario mínimo general del área geográfica correspondiente al Distrito Federal, elevado al año, vigente en el momento de la emisión de la resolución combatida.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de la cuantía, el valor del negocio deberá exceder de cinco mil veces el salario mínimo general del área geográfica correspondiente al Distrito Federal, elevado al año, vigente en el momento de la emisión de la resolución combatida.
 
 b) Para su resolución sea necesario establecer, por primera vez, la interpretación directa de una ley, reglamento o disposición administrativa de carácter general; fijar el alcance de los elementos constitutivos de una contribución, hasta fijar jurisprudencia. En este caso el Presidente del Tribunal también podrá solicitar la atracción.
 
 II. Para el ejercicio de la facultad de atracción, se estará a las siguientes reglas:
 
-a) La petición que, en su caso, formulen las Salas Regionales o las autoridades deberá presentarse hasta antes del cierre de la instrucción.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-b) La Presidencia del Tribunal comunicará el ejercicio de la facultad de atracción a la Sala Regional antes del cierre de la instrucción.
+a) La petición que, en su caso, formulen las Salas Regionales, el Magistrado Instructor o las autoridades deberá presentarse hasta antes del cierre de la instrucción.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+b) La Presidencia del Tribunal comunicará el ejercicio de la facultad de atracción a la Sala Regional o al Magistrado Instructor antes del cierre de la instrucción.
 
 c) Los acuerdos de la Presidencia que admitan la petición o que de oficio decidan atraer el juicio, serán notificados personalmente a las partes en los términos de los artículos 67 y 68 de esta Ley. Al efectuar la notificación se les requerirá que señalen domicilio para recibir notificaciones en el Distrito Federal, así como que designen persona autorizada para recibirlas o, en el caso de las autoridades, que señalen a su representante en el mismo. En caso de no hacerlo, la resolución y las actuaciones diversas que dicte la Sala Superior les serán notificadas en el domicilio que obre en autos.
 
-d) Una vez cerrada la instrucción del juicio, la Sala Regional remitirá el expediente original a la Secretaría General de Acuerdos de la Sala Superior, la que lo turnará al magistrado ponente que corresponda conforme a las reglas que determine el Pleno del propio Tribunal.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+d) Una vez cerrada la instrucción del juicio, la Sala Regional o el Magistrado Instructor remitirá el expediente original a la Secretaría General de Acuerdos de la Sala Superior, la que lo turnará al Magistrado ponente que corresponda conforme a las reglas que determine el Pleno del propio Tribunal.
 
 ### CAPÍTULO VIII. De la Sentencia
 
@@ -844,6 +902,10 @@ f) Cuando no se valore alguna prueba para acreditar los hechos asentados en el o
 
 El Tribunal podrá hacer valer de oficio, por ser de orden público, la incompetencia de la autoridad para dictar la resolución impugnada o para ordenar o tramitar el procedimiento del que derive y la ausencia total de fundamentación o motivación en dicha resolución.
 
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+Cuando resulte fundada la incompetencia de la autoridad y además existan agravios encaminados a controvertir el fondo del asunto, el Tribunal deberá analizarlos y si alguno de ellos resulta fundado, con base en el principio de mayor beneficio, procederá a resolver el fondo de la cuestión efectivamente planteada por el actor.
+
 Los órganos arbitrales y de otra naturaleza, derivados de mecanismos alternativos de solución de controversias en materia de prácticas desleales, contenidos en tratados y convenios internacionales de los que México sea parte, no podrán revisar de oficio las causales a que se refiere este artículo.
 
 ###### ARTÍCULO 52.
@@ -868,7 +930,9 @@ a) Reconocer al actor la existencia de un derecho subjetivo y condenar al cumpli
 
 b) Otorgar o restituir al actor en el goce de los derechos afectados.
 
-c) Declarar la nulidad del acto o resolución administrativa, caso en que cesarán los efectos de los actos de ejecución que afectan al demandante, inclusive el primer acto de aplicación que hubiese impugnado. La declaración de nulidad no tendrá otros efectos para el demandante, salvo lo previsto por las leyes de la materia de que se trate.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+c) Declarar la nulidad del acto o resolución administrativa de carácter general, caso en que cesarán los efectos de los actos de ejecución que afectan al demandante, inclusive el primer acto de aplicación que hubiese impugnado. La declaración de nulidad no tendrá otros efectos para el demandante, salvo lo previsto por las leyes de la materia de que se trate.
 
 > <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -1004,15 +1068,19 @@ f) En el supuesto comprobado y justificado de imposibilidad de cumplir con la se
 
 g) Durante el trámite de la queja se suspenderá el procedimiento administrativo de ejecución que en su caso existiere.
 
-III. Tratándose del incumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado, procederá la queja mediante escrito interpuesto en cualquier momento ante el instructor.
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-En dicho escrito se expresarán las razones por las que se considera que se ha dado el incumplimiento a la suspensión otorgada, y si los hay, los documentos en que consten las actuaciones de la autoridad en que pretenda la ejecución del acto.
+III. Tratándose del incumplimiento de la resolución que conceda la suspensión de la ejecución del acto impugnado o alguna otra de las medidas cautelares previstas en esta Ley, procederá la queja mediante escrito interpuesto en cualquier momento hasta antes de que se dicte sentencia definitiva ante el Magistrado Instructor.
 
-El magistrado pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia interlocutoria que hubiese otorgado la suspensión definitiva, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el magistrado dará cuenta a la Sala, la que resolverá en un plazo máximo de cinco días.
+En el escrito en que se interponga la queja se expresarán los hechos por los que se considera que se ha dado el incumplimiento y en su caso, se acompañarán los documentos en que consten las actuaciones de la autoridad que pretenda vulnerar la suspensión o la medida cautelar otorgada.
 
-Si la Sala resuelve que hubo incumplimiento de la suspensión otorgada, declarará la nulidad de las actuaciones realizadas en violación a la suspensión.
+El Magistrado pedirá un informe a quien se impute el incumplimiento, que deberá rendir dentro del plazo de cinco días, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el Magistrado dará cuenta a la Sala, la que resolverá en un plazo máximo de cinco días.
 
-La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que incumpla la suspensión decretada, para que proceda jerárquicamente y la Sala impondrá al funcionario responsable o autoridad renuente, una multa equivalente a un mínimo de quince días de su salario, sin exceder del equivalente a cuarenta y cinco días del mismo.
+Si la Sala resuelve que hubo incumplimiento, declarará la nulidad de las actuaciones realizadas en violación a la suspensión o de otra medida cautelar otorgada.
+
+La resolución a que se refiere esta fracción se notificará también al superior jerárquico del servidor público responsable, entendiéndose por este último al que incumpla con lo resuelto, para que proceda jerárquicamente y la Sala impondrá al responsable o autoridad renuente, una multa equivalente a un mínimo de treinta días de su salario, sin exceder del equivalente a sesenta días del mismo, tomando en cuenta la gravedad del incumplimiento, el sueldo del servidor público de que se trate y su nivel jerárquico.
+
+También se tomará en cuenta para imponer la sanción, las consecuencias que el no acatamiento de la resolución hubiera ocasionado, cuando el afectado lo señale, caso en que el solicitante tendrá derecho a una indemnización por daños y perjuicios, la que, en su caso, correrá a cargo de la unidad administrativa en la que preste sus servicios el servidor público de que se trate, en los términos en que se resuelva la queja.
 
 IV. A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa en monto equivalente a entre doscientas cincuenta y seiscientas veces el salario mínimo general diario vigente en el Distrito Federal y, en caso de haberse suspendido la ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva se imponga.
 
@@ -1180,17 +1248,191 @@ Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el f
 
 El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, la Sala hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizara el computo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
 
+### CAPÍTULO XI. Del Juicio en la Vía Sumaria
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+1.- El juicio contencioso administrativo federal se tramitará y resolverá en la vía sumaria, de conformidad con las disposiciones específicas que para su simplificación y abreviación se establecen en este Capítulo y, en lo no previsto, se aplicarán las demás disposiciones de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+2.- Cuando se impugnen resoluciones definitivas cuyo importe no exceda de cinco veces el salario mínimo general vigente en el Distrito Federal elevado al año al momento de su emisión, procederá el Juicio en la vía Sumaria siempre que se trate de alguna de las resoluciones definitivas siguientes:
+
+I. Las dictadas por autoridades fiscales federales y organismos fiscales autónomos, por las que se fije en cantidad líquida un crédito fiscal;
+
+II. Las que únicamente impongan multas o sanciones, pecuniaria o restitutoria, por infracción a las normas administrativas federales;
+
+III. Las que exijan el pago de créditos fiscales, cuando el monto de los exigibles no exceda el importe citado;
+
+IV. Las que requieran el pago de una póliza de fianza o de una garantía que hubiere sido otorgada a favor de la Federación, de organismos fiscales autónomos o de otras entidades paraestatales de aquélla, ó
+
+V. Las recaídas a un recurso administrativo, cuando la recurrida sea alguna de las consideradas en los incisos anteriores y el importe de esta última, no exceda el antes señalado.
+
+También procederá el Juicio en la vía Sumaria cuando se impugnen resoluciones definitivas que se dicten en violación a una tesis de jurisprudencia de la Suprema Corte de Justicia de la Nación en materia de inconstitucionalidad de Leyes, o a una jurisprudencia del Pleno de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+Para determinar la cuantía en los casos de los incisos I), III) y V), sólo se considerará el crédito principal sin accesorios ni actualizaciones. Cuando en un mismo acto se contenga más de una resolución de las mencionadas anteriormente no se acumulará el monto de cada una de ellas para efectos de determinar la procedencia de esta vía.
+
+La demanda deberá presentarse dentro de los quince días siguientes a aquél en que surta efectos la notificación de la resolución impugnada, de conformidad con las disposiciones de esta Ley ante la Sala Regional competente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+3.- La tramitación del Juicio en la vía Sumaria será improcedente cuando:
+
+I. Si no se encuentra en alguno de los supuestos previstos en el artículo 58-2;
+
+II. Simultáneamente a la impugnación de una resolución de las señaladas en el artículo anterior, se controvierta una regla administrativa de carácter general;
+
+III. Se trate de sanciones económicas en materia de responsabilidades administrativas de los servidores públicos o de sanciones por responsabilidad resarcitoria a que se refiere el Capítulo II del Título V de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+
+IV. Se trate de multas por infracciones a las normas en materia de propiedad intelectual;
+
+V. Se trate de resoluciones que además de imponer una multa o sanción pecuniaria, incluyan alguna otra carga u obligación, o
+
+VI. El oferente de una prueba testimonial, no pueda presentar a las personas señaladas como testigos.
+
+En estos casos el Magistrado Instructor, antes de resolver sobre la admisión de la demanda, determinará la improcedencia de la vía sumaria y ordenará que el juicio se siga conforme a las demás disposiciones de esta Ley y emplazará a las otras partes, en el plazo previsto por los artículos 18 y 19 de la misma, según se trate.
+
+Contra la determinación de improcedencia de la vía sumaria, podrá interponerse el recurso de reclamación ante la Sala Regional en que se encuentre radicado el juicio, en el plazo previsto por el artículo 58-8 de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+4.- Una vez admitida la demanda, se correrá traslado al demandado para que la conteste dentro del término de quince días y emplazará, en su caso, al tercero, para que en igual término, se apersone en juicio.
+
+En el mismo auto en que se admita la demanda, se fijará día para cierre de la instrucción. Dicha fecha no excederá de los sesenta días siguientes al de emisión de dicho auto.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+5.- El Magistrado proveerá la correcta integración del juicio, mediante el desahogo oportuno de las pruebas, a más tardar diez días antes de la fecha prevista para el cierre de instrucción.
+
+Serán aplicables, en lo conducente, las reglas contenidas en el Capítulo V de este Título, salvo por lo que se refiere a la prueba testimonial, la cual sólo podrá ser admitida cuando el oferente se comprometa a presentar a sus testigos en el día y hora señalados para la diligencia.
+
+Por lo que toca a la prueba pericial, ésta se desahogará en los términos que prevé el artículo 43 de esta Ley, con la salvedad de que todos los plazos serán de tres días, salvo el que corresponde a la rendición y ratificación del dictamen, el cual será de cinco días, en el entendido de que cada perito deberá hacerlo en un solo acto ante el Magistrado Instructor. Cuando proceda la designación de un perito tercero, ésta correrá a cargo del propio Magistrado.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+6.- El actor podrá ampliar la demanda, en los casos a que se refiere el artículo 17 de esta Ley, en un plazo de cinco días siguientes a aquél en que surta efectos la notificación del auto que tenga por presentada la contestación.
+
+La parte demandada o en su caso el tercero, contestarán la ampliación a la demanda, en el plazo de cinco días siguientes a que surta efectos la notificación de su traslado.
+
+En caso de omisión de los documentos a que se refieren los artículos 17, último párrafo, y 21, segundo párrafo, de la Ley, las partes deberán subsanarla en el plazo de tres días siguientes a aquél en que surta efectos la notificación del requerimiento formulado por el instructor.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+7.- Los incidentes a que se refieren las fracciones II y IV del artículo 29 de esta Ley, podrán promoverse dentro de los diez días siguientes a que surtió efectos la notificación del auto que tuvo por presentada la contestación de la demanda o, en su caso, la contestación a la ampliación.
+
+El incidente de incompetencia sólo procederá en esta vía cuando sea hecho valer por la parte demandada o por el tercero, por lo que la Sala Regional en que se radique el juicio no podrá declararse incompetente ni enviarlo a otra diversa.
+
+El incidente de acumulación sólo podrá plantearse respecto de expedientes que se encuentren tramitando en esta misma vía.
+
+Los incidentes de nulidad de notificaciones y de recusación de perito, se deberán interponer dentro del plazo de tres días siguientes a aquél en que se conoció del hecho o se tuvo por designado al perito, respectivamente, y la contraparte deberá contestar la vista en igual término.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+8.- Los recursos de reclamación a que se refieren los artículos 59 y 62 de esta Ley, deberán interponerse dentro del plazo de cinco días siguientes a aquél en que surta efectos la notificación de la resolución correspondiente del Magistrado Instructor.
+
+Interpuesto cualquiera de los recursos se ordenará correr traslado a la contraparte y esta última deberá expresar lo que a su derecho convenga en un término de tres días y sin más trámite, se dará cuenta a la Sala Regional en que se encuentra radicado el juicio, para que resuelva el recurso en un término de tres días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+9.- Las medidas cautelares, se tramitarán conforme a las reglas generales establecidas en el Capítulo III de esta Ley. El Magistrado Instructor estará facultado para decretar la resolución provisional o definitiva que corresponda a las medidas cautelares.
+
+Contra la resolución del Magistrado Instructor dictada conforme al párrafo anterior procederá el recurso de reclamación ante la Sala Regional en la que se encuentre radicado el juicio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+10.- En los casos de suspensión del juicio, por surtirse alguno de los supuestos contemplados para ello en esta Ley, en el auto en que el Magistrado Instructor acuerde la reanudación del procedimiento, fijará fecha para el cierre de instrucción, en su caso, dentro de los veinte días siguientes a aquél en que haya surtido efectos la notificación a las partes de la reanudación del juicio.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+11.- Las partes podrán presentar sus alegatos antes de la fecha señalada para el cierre de la instrucción.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+12.- En la fecha fijada para el cierre de instrucción el Magistrado Instructor procederá a verificar si el expediente se encuentra debidamente integrado, supuesto en el que deberá declarar cerrada la instrucción; en caso contrario, fijará nueva fecha para el cierre de instrucción, dentro de un plazo máximo de diez días.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+13.- Una vez cerrada la instrucción, el Magistrado pronunciará sentencia dentro de los diez días siguientes.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+14.- Si la sentencia ordena la reposición del procedimiento administrativo o realizar un determinado acto, la autoridad deberá cumplirla en un plazo que no exceda de un mes contado a partir de que dicha sentencia haya quedado firme de conformidad con el artículo 53 de esta Ley.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 58
+
+15. A falta de disposición expresa que establezca el plazo respectivo en la vía sumaria, se aplicará el de tres días.
+
 ### CAPÍTULO I. De la Reclamación
+
+## TÍTULO III. De los Recursos
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. De la Revisión
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-## TÍTULO III. De los Recursos
-
-### CAPÍTULO I. De las Notificaciones
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 59.
 
@@ -1204,15 +1446,23 @@ Interpuesto el recurso a que se refiere el artículo anterior, se ordenará corr
 
 Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiera cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 62.
 
-Como único caso de excepción, las sentencias interlocutorias que concedan o nieguen la suspensión definitiva, podrán ser impugnadas mediante la interposición del recurso de reclamación ante la Sección de la Sala Superior en turno del Tribunal, mediante escrito que se presente ante la Sala Regional que haya dictado la sentencia, dentro de los cinco días siguientes a aquél en que surta sus efectos la notificación respectiva.
+Las resoluciones que concedan, nieguen, modifiquen o revoquen cualquiera de las medidas cautelares previstas en esta Ley, podrán ser impugnadas mediante la interposición del recurso de reclamación ante la Sala Regional que corresponda.
 
-Interpuesto el recurso en los términos señalados en el párrafo anterior, la Sala Regional ordenará correr traslado a la contraparte por el término de cinco días para que exprese lo que a su derecho convenga. Una vez transcurrido dicho plazo, la Sala Regional remitirá a la Sección de la Sala Superior que por turno corresponda, dentro de las veinticuatro horas siguientes, copia certificada del escrito de demanda, de la sentencia interlocutoria recurrida, de su notificación y del escrito que contenga el recurso de reclamación, con expresión de la fecha y hora de recibido.
+El recurso se promoverá dentro de los cinco días siguientes a aquél en que surta sus efectos la notificación respectiva. Interpuesto el recurso en la forma y términos señalados, el Magistrado ordenará correr traslado a las demás partes, por igual plazo, para que expresen lo que a su derecho convenga. Una vez transcurrido dicho término y sin más trámite, dará cuenta a la Sala Regional, para que en un plazo de cinco días, revoque o modifique la resolución impugnada y, en su caso, conceda o niegue la suspensión solicitada, o para que confirme lo resuelto, lo que producirá sus efectos en forma directa e inmediata. La sola interposición suspende la ejecución del acto impugnado hasta que se resuelva el recurso.
 
-Una vez remitido el recurso de reclamación en los términos antes señalados, se dará cuenta a la Sala Superior que por turno corresponda para que resuelva en el término de cinco días.
+La Sala Regional podrá modificar o revocar su resolución cuando ocurra un hecho superveniente que lo justifique.
 
-### CAPÍTULO II. De los Exhortos
+El Pleno del Tribunal podrá ejercer de oficio la facultad de atracción para la resolución de los recursos de reclamación a que se refiere el presente artículo, en casos de trascendencia que así considere o para fijar jurisprudencia.
+
+### CAPÍTULO I. De las Notificaciones
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 63.
 
@@ -1264,69 +1514,81 @@ Si el particular interpuso amparo directo contra la misma resolución o sentenci
 
 ## TÍTULO IV. Disposiciones Finales
 
-### CAPÍTULO III. Del Cómputo de los Términos
+### CAPÍTULO II. De los Exhortos
 
 ###### ARTÍCULO 65.
 
-Toda resolución debe notificarse, o en su caso, darse el aviso en la Dirección de Correo Electrónico señalada, a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
+Toda resolución debe notificarse a más tardar el tercer día siguiente a aquél en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
 
 Las notificaciones que se realicen a las autoridades o a personas morales por conducto de su Oficialía de Partes u Oficina de recepción, se entenderán legalmente efectuadas cuando en el documento correspondiente obre el sello de recibido por tales oficinas.
 
 Al actuario que sin causa justificada no cumpla con esta obligación, se le impondrá una multa de una a tres veces el salario mínimo general de la zona económica correspondiente al Distrito Federal, elevado al mes, sin que exceda del 30% de su salario. Será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
 
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 66.
 
-En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación y de los avisos en la Dirección de Correo Electrónico, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia a dichas actuaciones.
+En las notificaciones, el actuario deberá asentar razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales o por Boletín Electrónico. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancia al expediente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 67.
 
-Las notificaciones que deban hacerse a los particulares, se harán en los locales de las salas si las personas a quienes deba notificarse se presentan dentro de las veinticuatro horas siguientes a aquélla en que se haya dictado la resolución. Cuando el particular no se presente se harán por lista autorizada que se fijará en sitio visible de dichos locales. A fin de facilitar su consulta, la lista mencionada podrá ser incluida en la página electrónica del Tribunal.
+Una vez que los particulares se apersonen en el juicio, deberán señalar domicilio para recibir notificaciones, en el que se les harán saber, personalmente o por correo certificado con acuse de recibo, las siguientes resoluciones:
 
-Tratándose del auto que corra traslado de la demanda o del que mande citar a testigos que no deban ser presentados por la parte oferente, la notificación a los particulares o a quien los represente, se hará personalmente o por correo certificado con acuse de recibo en el domicilio que se haya hecho del conocimiento de la Sala Regional de que se trate, siempre que dicho domicilio se encuentre en territorio nacional.
+I. La que corra traslado de la demanda, en el caso del tercero, así como el emplazamiento al particular en el juicio de lesividad a que se refiere el artículo 13, fracción III de esta Ley;
 
-Una vez que los particulares, partes en el juicio, se apersonen en éste, deberán señalar domicilio conforme lo establece la fracción I del artículo 14 de esta Ley, en el que se le harán saber, personalmente o por correo certificado con acuse de recibo, las siguientes resoluciones:
+II. La que mande citar al testigo que no pueda ser presentado por la parte oferente y la que designe al perito tercero, en el caso de dichas personas;
 
-I. La que tenga por admitida la contestación y, en su caso, de la ampliación de la demanda, así como la contestación a la ampliación citada.
+III. El requerimiento o prevención a que se refieren los artículos 14, 15, 17 y 21 de esta Ley a la persona que deba cumplirlo, y
 
-II. El requerimiento, a la parte que debe cumplirlo.
+IV. La resolución de sobreseimiento en el juicio y la sentencia definitiva, al actor y al tercero.
 
-III. El auto de la Sala Regional que dé a conocer a las partes que el juicio será resuelto por la Sala Superior.
+En los demás casos, las notificaciones se ordenarán hacer a los particulares por medio del Boletín Electrónico.
 
-IV. El auto que decrete o niegue la suspensión provisional y la sentencia que resuelva la definitiva.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-V. Las resoluciones que puedan ser recurridas.
-
-VI. La resolución de sobreseimiento.
-
-VII. La sentencia definitiva, y
-
-VIII. En todos aquellos casos en que el Magistrado Instructor o la Sala así lo ordenen.
-
-En caso de incumplimiento a lo señalado en el párrafo anterior, las notificaciones se harán a los particulares por medio de la lista a que se refiere este artículo, la cual contendrá el nombre de la persona, la clave del expediente y el tipo de acuerdo. En los autos se hará constar la fecha de la lista.
-
-> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-Las partes que así lo deseen, podrán señalar su clave o Dirección de Correo Electrónico a la Sala Regional en que se lleve el juicio, a fin de que por este medio se les dé aviso de la emisión de los autos y demás resoluciones que en él se dicten, acompañado de un extracto de su contenido que comprenderá la fecha y órgano de emisión, los datos de identificación del expediente y el tipo de auto o resolución. Satisfecho lo anterior, el Magistrado Instructor ordenará que los avisos de que se trata se le practiquen por este medio a la parte que lo haya solicitado; el Actuario, a su vez, deberá dejar constancia en el expediente de que el aviso se envió a la Dirección de Correo Electrónico señalado hasta por tres ocasiones consecutivas y la fecha y hora en que las realizó. En estos casos, durante el plazo de cinco días siguientes a aquél en que el aviso se llevó a cabo, la parte interesada podrá apersonarse al local de la Sala a notificarse personalmente de la resolución de que se trate y, a su vencimiento, si esto último no hubiere ocurrido, se procederá a su notificación por lista.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 68.
 
-Las notificaciones que deban hacerse a las autoridades administrativas se harán por oficio y por vía telegráfica en casos urgentes. También podrán efectuarse, opcionalmente, en la forma prevista en el artículo anterior por medio del aviso en la Dirección de Correo Electrónico Institucional.
+El emplazamiento a las autoridades demandadas y las notificaciones, del sobreseimiento en el juicio cuando proceda, y de la sentencia definitiva, se harán por oficio.
 
-Tratándose de las autoridades, las resoluciones que se dicten en los juicios que se tramiten ante el Tribunal se deberán notificar en todos los casos, únicamente a la unidad administrativa a la que corresponda la representación en juicio de la autoridad señalada en el artículo 5o., tercer párrafo de esta Ley.
+En los demás casos, las notificaciones a las autoridades se realizarán por medio del Boletín Electrónico.
 
-Si el domicilio de la oficina principal de la autoridad se encuentra en el lugar de la sede de la Sala, un empleado hará la entrega, recabando la constancia de recibo correspondiente.
+Las notificaciones por oficio se harán únicamente a la unidad administrativa a la que corresponda la representación en juicio de la autoridad demandada, de conformidad con lo dispuesto por el artículo 5, tercer párrafo, de esta Ley.
+
+El requerimiento o notificación a otras autoridades administrativas se hará por oficio.
+
+Si el domicilio de la sede principal de la autoridad se encuentra en el lugar de la sede de la Sala, el actuario hará la entrega, recabando la constancia de recibo correspondiente.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 69.
 
-Una vez emplazada la autoridad demandada, deberá señalar domicilio en cualquier parte del territorio nacional, salvo cuando tenga su domicilio dentro de la jurisdicción de la Sala competente, en cuyo caso, el señalado para tal efecto, deberá estar ubicado dentro de la circunscripción territorial de la Sala Regional competente, en el que se le harán las notificaciones de los autos y resoluciones posteriores y, para el caso de incumplimiento a lo anterior, las notificaciones se le harán por medio de lista autorizada.
+La lista de autos y resoluciones dictados por un Magistrado o Sala, se publicará en el Boletín Electrónico al día hábil siguiente de su emisión para conocimiento de las partes.
+
+La publicación señalará la denominación de la Sala y ponencia del Magistrado que corresponda, el nombre del particular y la identificación de las autoridades a notificar, la clave del expediente, así como el contenido del auto o resolución.
+
+Se tendrá como fecha de notificación, la del día en que se publique en el Boletín Electrónico y el actuario lo hará constar en el auto o resolución de que se trate.
+
+El Tribunal llevará en archivo especial, las publicaciones atrasadas del Boletín Electrónico y hará la certificación que corresponda, a través de los servidores públicos competentes.
+
+La lista también podrá darse a conocer mediante documento impreso que se colocará en un lugar accesible de la Sala en que estén radicados los juicios, en la misma fecha en que se publique en el Boletín Electrónico.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 70.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueren hechas. En los casos de notificaciones por lista se tendrá como fecha de notificación la del día en que se hubiese fijado.
+Las notificaciones surtirán sus efectos, el día hábil siguiente a aquél en que fueren hechas.
 
 ###### ARTÍCULO 71.
 
@@ -1336,7 +1598,7 @@ La notificación personal o por correo certificado con acuse de recibo, también
 
 Una notificación omitida o irregular se entenderá legalmente hecha a partir de la fecha en que el interesado se haga sabedor de su contenido.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. Del Cómputo de los Términos
 
 ###### ARTÍCULO 73.
 
@@ -1349,6 +1611,8 @@ Una vez diligenciado el exhorto, la Sala requerida, sin más trámite, deberá r
 Las diligencias de notificación o, en su caso, de desahogo de alguna prueba, que deban practicarse en el extranjero, deberán encomendarse al Consulado Mexicano más próximo a la Ciudad en la que deba desahogarse.
 
 Para diligenciar el exhorto el magistrado del Tribunal podrá solicitar el auxilio de alguna Sala del propio Tribunal, de algún juez o magistrado del Poder Judicial de la Federación o de la localidad, o de algún tribunal administrativo federal o de algún otro tribunal del fuero común.
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 74.
 
@@ -1370,7 +1634,9 @@ Las tesis sustentadas en las sentencias pronunciadas por la Sala Superior, aprob
 
 También constituirán precedente las tesis sustentadas en las sentencias de las Secciones de la Sala Superior, siempre que sean aprobadas cuando menos por cuatro de los magistrados integrantes de la Sección de que se trate y sean publicados en la Revista del Tribunal.
 
-Las Salas podrán apartarse de los precedentes establecidos por el Pleno o las Secciones, siempre que en la sentencia expresen las razones por las que se apartan del mismo, debiendo enviar al Presidente del Tribunal copia de la sentencia.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+Las Salas y los Magistrados Instructores de un Juicio en la vía Sumaria podrán apartarse de los precedentes establecidos por el Pleno o las Secciones, siempre que en la sentencia expresen las razones por las que se apartan de los mismos, debiendo enviar al Presidente del Tribunal copia de la sentencia.
 
 ###### ARTÍCULO 76.
 
@@ -1378,9 +1644,11 @@ Para fijar jurisprudencia, el Pleno de la Sala Superior deberá aprobar tres pre
 
 También se fijará jurisprudencia por alguna Sección de la Sala Superior, siempre que se aprueben cinco precedentes no interrumpidos por otro en contrario.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 77.
 
-En el caso de contradicción de sentencias, cualquiera de los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno, el cual con un quórum mínimo de diez Magistrados, decidirá por mayoría de siete la que debe prevalecer, constituyendo jurisprudencia.
+En el caso de contradicción de sentencias, interlocutorias o definitivas, cualquiera de los Magistrados del Tribunal o las partes en los juicios en las que tales tesis se sustentaron, podrán denunciarla ante el Presidente del Tribunal para que éste la haga del conocimiento del Pleno, el cual con un quórum mínimo de diez Magistrados, decidirá por mayoría la que debe prevalecer, constituyendo jurisprudencia.
 
 La resolución que pronuncie el Pleno del Tribunal, en los casos a que este artículo se refiere, sólo tendrá efectos para fijar jurisprudencia y no afectará las resoluciones dictadas en los juicios correspondientes.
 
@@ -1471,3 +1739,21 @@ SEGUNDO.- Los casos de reclamación presentados ante el Tribunal Federal de Just
 D.O.F. 28 DE ENERO DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los artículos 24, 24 Bis, 25, 27 y 28 de la Ley Federal de Procedimiento Contencioso Administrativo que se reforman o adicionan en términos del presente Decreto, entrarán en vigor a partir de los noventa días siguientes, al de la publicación del presente instrumento jurídico.
+
+TERCERO. Las disposiciones relativas al Juicio en la Vía Sumaria, previstas en el Capítulo XI del Título II que se adiciona a la Ley Federal de Procedimiento Contencioso Administrativo, y los artículos 1o, fracción III, 65, 66, 67, 68, 69 y 70 de la Ley Federal de Procedimiento Contencioso Administrativo, y 41, fracción XXX de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa que se reforman conforme al presente Decreto, entrarán en vigor a partir de los 240 días naturales siguientes, a la fecha de publicación de este ordenamiento.
+
+Asimismo, el Tribunal deberá realizar las acciones que correspondan, a efecto de que el Juicio en Línea, inicie su operación a partir de los 240 días naturales siguientes, a la fecha de publicación de este ordenamiento.
+
+Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa, al momento de entrar en vigor el Capítulo XI del Título II a que se refiere el párrafo anterior, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
+
+CUARTO. Los avisos que se estén tramitando conforme a los artículos 67, último párrafo y 68, primer párrafo de la Ley Federal de Procedimiento Contencioso Administrativo que se reforma con este decreto, continuarán realizándose hasta la conclusión del juicio que corresponda, salvo que las partes manifiesten su interés de acogerse a lo dispuesto por este instrumento jurídico.
+
+Cualquier referencia hecha en alguna disposición jurídica al Boletín procesal o a la lista en estrados del Tribunal Federal de Justicia Fiscal y Administrativa, se entenderá realizada al Boletín Electrónico a partir de la entrada en vigor del artículo 1-A, fracción III de la Ley Federal de Procedimiento Contencioso Administrativo que se reforma conforme al presente Decreto.
+
+El Tribunal Federal de Justicia Fiscal y Administrativa promoverá una campaña masiva entre los usuarios de los servicios del Tribunal para difundir las disposiciones contenidas en este Decreto.
