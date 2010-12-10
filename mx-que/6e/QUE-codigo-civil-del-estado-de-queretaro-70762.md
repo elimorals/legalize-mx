@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2009-10-21"
+last_updated: "2010-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -169,9 +169,11 @@ La persona que haya sido producto de una inseminación artificial o procreación
 
 La revelación de la identidad del donante, en los supuestos en que proceda con arreglo a la ley de la materia, no implicará determinación legal de la filiación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 23.
 
-La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+La minoría de edad, el estado de interdicción y demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
 
 La autoridad buscará y protegerá en todo momento el interés superior de los menores.
 
@@ -2917,11 +2919,13 @@ Tienen incapacidad natural y legal:
 
 I. Los menores de edad;
 
-II. Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-III. Los sordomudos que no saben leer ni escribir; y
+II. Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente, de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes, siempre que, debido a la limitación o a la alteración en la inteligencia que esto les provoque, no puedan gobernarse y obligarse por sí mismos o manifestar su voluntad por algún medio.
 
-IV. Los alcohólicos y los que habitualmente hacen uso inmoderado de drogas enervantes.
+III. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2010)
+
+IV. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2010)
 
 ###### Artículo 452.
 
@@ -2991,15 +2995,19 @@ Ninguna tutela puede conferirse sin que previamente se declare, en los términos
 
 Los tutores y los curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 465.
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, alcohólico o que habitualmente abuse de las drogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayoría de edad.
+El menor de edad que se encuentre en cualquiera de los casos a que se refiere la fracción II del artículo 451, estará sujeto a la tutela de menores, mientras no llegue a la mayoría de edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 466.
 
-El cargo de tutor del demente, idiota, imbécil, sordomudo, alcohólico y de los que habitualmente abusen de las drogas enervantes, durarán el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge sólo tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor, respecto de las personas comprendidas en los casos a que se refiere la fracción II del artículo 451, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### Artículo 467.
 
@@ -3065,7 +3073,7 @@ Si por un nombramiento condicional de tutor o por algún otro motivo faltare tem
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a un hijo adoptivo; aplicándose en esta tutela lo dispuesto en los artículos anteriores.
 
-### Capítulo Cuarto. De la tutela legítima de los dementes, idiotas imbéciles, sordomudos, alcohólicos y de los que habitualmente abusan de las drogas enervantes
+### Capítulo Cuarto. De la tutela legítima de los mayores de edad incapacitados
 
 ###### Artículo 482.
 
@@ -3090,6 +3098,8 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 ###### Artículo 485.
 
 La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ### Capítulo Quinto. De la tutela legítima de los menores abandonados y de los acogidos por alguna persona o depositados en instituciones de beneficencia
 
@@ -3239,11 +3249,13 @@ VI. El tutor que permanezca ausente por más de seis meses del lugar en que debe
 
 ###### Artículo 505.
 
-No pueden ser tutores ni curadores del demente, los que hayan sido causa de la demencia ni los que la hayan fomentado directa o indirectamente.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 506.
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, alcohólicos y de los que abusen de las drogas enervantes.
+No pueden ser tutores ni curadores de las personas comprendidas en la fracción II del artículo 451, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
 
 ###### Artículo 507.
 
@@ -15294,3 +15306,11 @@ Lic. Jorge García Quiroz
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
