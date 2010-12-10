@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-tribunal-federal-de-justicia-fiscal-y-57614"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-06"
-last_updated: "2009-06-12"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-12-05"
 
 LEY ORGANICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 6 de diciembre de 2007.
 
@@ -49,7 +49,9 @@ LEY ORGÁNICA DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
 El Tribunal Federal de Justicia Fiscal y Administrativa es un tribunal de lo contencioso-administrativo, dotado de plena autonomía para dictar sus fallos, con la organización y atribuciones que esta Ley establece.
 
-El proyecto de presupuesto del Tribunal Federal de Justicia Fiscal y Administrativa será aprobado por el Pleno de su Sala Superior con sujeción a las disposiciones contenidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y será enviado a la Secretaría de Hacienda y Crédito Público para su incorporación, en los términos de los criterios generales de política económica, en el proyecto de Presupuesto de Egresos de la Federación. Una vez aprobado su presupuesto, el Tribunal lo ejercerá directamente.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+El proyecto de presupuesto del Tribunal Federal de Justicia Fiscal y Administrativa será aprobado por el Pleno de su Sala Superior con sujeción a las disposiciones contenidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y será enviado a la Secretaría de Hacienda y Crédito Público para su incorporación en el proyecto de Presupuesto de Egresos de la Federación, en los términos de los criterios generales de política económica y conforme a los techos globales de gasto establecidos por el Ejecutivo Federal. Una vez aprobado su presupuesto, el Tribunal lo ejercerá directamente sin sujetarse a las disposiciones generales emitidas por las Secretarías de Hacienda y Crédito Público y de la Función Pública, observando lo dispuesto en la ley citada, dentro del margen de autonomía previsto en su artículo 5, fracción II, incisos c) y d). Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia y estará sujeto a la evaluación y control de los órganos correspondientes.
 
 ###### ARTÍCULO 2.
 
@@ -57,9 +59,19 @@ El Tribunal Federal de Justicia Fiscal y Administrativa se integra por:
 
 I. La Sala Superior;
 
-II. Las Salas Regionales, y
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+II. Las Salas Regionales, que podrán tener el carácter de Salas Especializadas;
 
 III. La Junta de Gobierno y Administración.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 2 Bis.
+
+Las Salas Especializadas conocerán de materias específicas, con la jurisdicción, competencia y sedes que se determinen en su Reglamento Interior, de acuerdo a los estudios y propuesta de la Junta de Gobierno y Administración, con base en las necesidades del servicio.
+
+Dichas Salas observarán para su organización, integración y en su caso funcionamiento, las mismas disposiciones aplicables a las Salas Regionales, sin perjuicio de las adecuaciones que se requieran para su buen desempeño.
 
 ###### ARTÍCULO 3.
 
@@ -139,9 +151,13 @@ En los casos en que los Magistrados estén por concluir el periodo para el que h
 
 Las faltas definitivas de Magistrados ocurridas durante el periodo para el cual hayan sido nombrados, se comunicarán de inmediato al Presidente de la República por el Presidente del Tribunal, quien someterá a su consideración la propuesta que, en su caso, haya aprobado el Pleno de la Sala Superior, para que se proceda a los nombramientos de los Magistrados que las cubran.
 
-Las faltas definitivas de Magistrados de las Salas Regionales serán cubiertas provisionalmente por los Magistrados Supernumerarios de Sala Regional adscritos por la Junta de Gobierno y Administración, hasta en tanto se realice un nuevo nombramiento en los términos de este artículo.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-Las faltas temporales hasta por un mes de los Magistrados de las Salas Regionales se suplirán por el primer secretario del Magistrado ausente. Las faltas temporales superiores a un mes serán cubiertas por los Magistrados Supernumerarios de Sala Regional.
+Las faltas definitivas de Magistrados en Salas Regionales o Especializadas serán cubiertas provisionalmente por los Magistrados Supernumerarios adscritos por la Junta de Gobierno y Administración o a falta de ellos por el primer secretario del Magistrado ausente, hasta en tanto se realice un nuevo nombramiento en los términos de este artículo.
+
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+Las faltas temporales y las comisiones a que se refiere la fracción XIII Bis del artículo 41 de esta Ley hasta por un mes de los Magistrados en Salas Regionales o Especializadas se suplirán por el primer secretario del Magistrado ausente. Las faltas temporales o las comisiones antes citadas superiores a un mes serán cubiertas por los Magistrados Supernumerarios o a falta de éstos por el primer secretario del Magistrado ausente. La suplencia comprenderá todo el lapso de la falta temporal, o de la comisión, salvo en aquellos casos en los que la Junta determine la conclusión anticipada de la misma.
 
 El Reglamento Interior del Tribunal establecerá las normas para el turno y reasignación de expedientes en los casos de faltas temporales, excusas o recusaciones de los Magistrados de la Sala Superior.
 
@@ -225,9 +241,15 @@ XIII. Las que se funden en un tratado o acuerdo internacional para evitar la dob
 
 XIV. Las que se configuren por negativa ficta en las materias señaladas en este artículo, por el transcurso del plazo que señalen el Código Fiscal de la Federación, la Ley Federal de Procedimiento Administrativo o las disposiciones aplicables o, en su defecto, en el plazo de tres meses, así como las que nieguen la expedición de la constancia de haberse configurado la resolución positiva ficta, cuando ésta se encuentre prevista por la ley que rija a dichas materias.
 
-No será aplicable lo dispuesto en el párrafo anterior en todos aquellos casos en los que se pudiere afectar el derecho de un tercero, reconocido en un registro o anotación ante autoridad administrativa, y
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-XV. Las señaladas en las demás leyes como competencia del Tribunal.
+No será aplicable lo dispuesto en el párrafo anterior en todos aquellos casos en los que se pudiere afectar el derecho de un tercero, reconocido en un registro o anotación ante autoridad administrativa;
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XV. Las sanciones y demás resoluciones emitidas por la Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, y
+
+XVI. Las señaladas en las demás leyes como competencia del Tribunal.
 
 Para los efectos del primer párrafo de este artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando la interposición de éste sea optativa.
 
@@ -263,7 +285,9 @@ Son facultades del Pleno, las siguientes:
 
 I. Elegir de entre los Magistrados de Sala Superior al Presidente del Tribunal;
 
-II. Aprobar y expedir el Reglamento Interior del Tribunal en el que se deberán incluir entre otros aspectos, las regiones, sede y número de Salas Regionales, así como las materias específicas de competencia de las Secciones de la Sala Superior o de las Salas Regionales y los criterios conforme a los cuales se ejercerá la facultad de atracción;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+II. Aprobar y expedir el Reglamento Interior del Tribunal, en el que se deberán incluir, entre otros aspectos, las regiones, sede y número de Salas Regionales; la competencia material y territorial de las Salas Especializadas; así como las materias específicas de competencia de las Secciones de la Sala Superior y los criterios conforme a los cuales se ejercerá la facultad de atracción;
 
 III. Expedir el Estatuto de Carrera a que se refiere el párrafo segundo del artículo 10 de esta Ley;
 
@@ -273,7 +297,9 @@ V. Aprobar y someter a consideración del Presidente de la República la propues
 
 VI. Fijar y, en su caso, cambiar la adscripción de los Magistrados de las Secciones;
 
-VII. Designar al Secretario General de Acuerdos, a los Secretarios Adjuntos de las Secciones y al Contralor Interno, a propuesta del Presidente del Tribunal;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+VII. Designar al Secretario General de Acuerdos y al Contralor Interno, a propuesta del Presidente del Tribunal;
 
 VIII. Resolver todas aquellas situaciones que sean de interés para el Tribunal y cuya resolución no esté encomendada a algún otro de sus órganos;
 
@@ -289,7 +315,7 @@ XIII. Resolver sobre las excusas, excitativas de justicia y recusaciones de los 
 
 XIV. Dictar sentencia definitiva en los juicios promovidos por los Magistrados del Tribunal, en contra de sanciones impuestas por la Junta de Gobierno y Administración, en aplicación de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y someter a la consideración del Presidente de la República la destitución de un Magistrado, en los términos del artículo 7 de esta Ley;
 
-XV. Las que se funden en un Tratado o Acuerdo Internacional para evitar la doble tributación o en materia comercial, suscrito por México, o cuando el demandante haga valer como concepto de impugnación que no se haya aplicado en su favor alguno de los referidos Tratados o Acuerdos, y
+XV. (DEROGADA, D.O.F. 10 DE DICIEMBRE DE 2010)
 
 XVI. Las demás que establezcan las leyes.
 
@@ -331,17 +357,31 @@ V. Dictar sentencia definitiva en los juicios promovidos por los Secretarios, Ac
 
 VI. Establecer, suspender y modificar la jurisprudencia de la Sección y apartarse de ella, conforme a las disposiciones legales aplicables, aprobar las tesis y los rubros de los precedentes y ordenar su publicación en la Revista del Tribunal;
 
-VII. Resolver los conflictos de competencia que se susciten entre las Salas Regionales, y
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-VIII. Resolver los demás asuntos que establezcan las leyes.
+VII. Resolver los conflictos de competencia de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+VIII. Los juicios que se promuevan contra las resoluciones definitivas, actos administrativos y procedimientos que se funden en un Tratado o Acuerdo Internacional para evitar la doble tributación, o en materia comercial, suscrito por México, o cuando el demandante haga valer como concepto de impugnación que no se haya aplicado a su favor alguno de los referidos Tratados o Acuerdos.
+
+Cuando exista una Sala Especializada con competencia en determinada materia, será dicha Sala quien tendrá la competencia original para conocer y resolver los asuntos que se funden en un Convenio, Acuerdo o Tratado Internacional relacionado con las materias de su competencia, salvo que la Sala Superior ejerza su facultad de atracción;
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+IX. Designar al Secretario Adjunto de la Sección que corresponda, a propuesta del Presidente de la Sección, y
+
+X. Resolver los demás asuntos que establezcan las leyes.
 
 ###### ARTÍCULO 24.
 
 Para la validez de las sesiones de la Sección se requerirá la presencia de cuatro Magistrados y los debates serán dirigidos por el Presidente de la Sección.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 25.
 
-Las resoluciones de una Sección se tomarán por mayoría de votos de los Magistrados presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal. En caso de empate, el asunto se diferirá para la sesión en que asista la totalidad de sus miembros. Cuando no se apruebe un proyecto por dos veces, se cambiará de ponente.
+Las resoluciones de una Sección se tomarán por mayoría de votos de los Magistrados que la integran, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal. Cuando no se apruebe un proyecto por dos veces, se cambiará de Sección.
 
 Las sesiones de las Secciones serán públicas, salvo aquéllas en las que se designe a su Presidente, se ventilen cuestiones que afecten la moral o el interés público, o la ley exija que sean privadas, así como aquéllas en que la mayoría de los Magistrados presentes acuerden su privacidad.
 
@@ -395,7 +435,9 @@ Si la falta es definitiva, el Pleno designará nuevo Presidente para concluir el
 
 Son atribuciones del Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, las siguientes:
 
-I. Representar al Tribunal ante toda clase de autoridades y delegar las facultades que el ejercicio de esta función requiera en términos de las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+I. Representar al Tribunal, a la Sala Superior, al Pleno de la Sala Superior y a la Junta de Gobierno y Administración, ante toda clase de autoridades y delegar las facultades que el ejercicio de esta función requiera en términos de las disposiciones aplicables;
 
 II. Despachar la correspondencia del Tribunal;
 
@@ -417,27 +459,41 @@ X. Presidir las sesiones de la Sección que lo requiera para integrar el quórum
 
 XI. Fungir provisionalmente como Presidente de Sección, en los casos en que ésta se encuentre imposibilitada para elegir a su Presidente;
 
-XII. Rendir los informes previos y justificados cuando los actos reclamados en los juicios de amparo sean imputados al Pleno, así como informar del cumplimiento dado a las ejecutorias en dichos juicios;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XII. Rendir los informes previos y justificados cuando los actos reclamados en los juicios de amparo sean imputados a la Sala Superior, al Pleno de la Sala Superior o a la Junta de Gobierno y Administración, así como informar del cumplimiento dado a las ejecutorias en dichos juicios;
 
 XIII. Tramitar y someter a la consideración del Pleno las excitativas de justicia y recusaciones de los Magistrados del Tribunal;
 
-XIV. Rendir anualmente ante el Pleno de la Sala Superior un informe dando cuenta de la marcha del Tribunal y de las principales jurisprudencias establecidas por el Pleno y las Secciones, y
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-XV. Las demás que establezcan las disposiciones aplicables.
+XIV. Rendir anualmente ante la Sala Superior un informe dando cuenta de la marcha del Tribunal y de las principales jurisprudencias establecidas por el Pleno y las Secciones;
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XV. Autorizar, junto con el Secretario Auxiliar de la Junta de Gobierno y Administración, las actas en que se hagan constar las deliberaciones y acuerdos de la Junta de Gobierno y Administración, y firmar el engrose de las resoluciones respectivas, y
+
+XVI. Las demás que establezcan las disposiciones aplicables.
 
 ### CAPÍTULO V. De las Salas Regionales
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 31.
 
-El Tribunal tendrá Salas Regionales, con jurisdicción en la circunscripción territorial que les sea asignada, integradas por tres Magistrados cada una. Las Salas Regionales conocerán de los juicios que se promuevan en los supuestos señalados en el artículo 15 de esta Ley, con excepción de los que corresponda resolver al Pleno o a las Secciones de la Sala Superior.
+El Tribunal tendrá Salas Regionales, con jurisdicción en la circunscripción territorial que les sea asignada, integradas por tres Magistrados cada una. Las Salas Regionales conocerán de los juicios que se promuevan en los supuestos señalados en los artículos 14 y 15 de esta Ley, con excepción de los que corresponda resolver al Pleno o a las Secciones de la Sala Superior.
+
+En los juicios en la vía sumaria, el Magistrado que haya instruido el juicio lo resolverá, en términos de lo previsto en la Ley Federal de Procedimiento Contencioso Administrativo.
 
 ###### ARTÍCULO 32.
 
 Para los efectos del artículo 31 de esta Ley, el territorio nacional se dividirá en regiones con los límites territoriales que se determinen en el Reglamento Interior del Tribunal, conforme a los estudios y propuesta de la Junta de Gobierno y Administración, con base en las cargas de trabajo y los requerimientos de administración de justicia.
 
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 33.
 
-En cada una de las regiones a que se refiere el artículo anterior habrá el número de Salas que establezca el Reglamento Interior del Tribunal, en el que también se determinará la sede, su circunscripción territorial, la distribución de expedientes, la fecha de inicio de funciones y, en su caso, su especialidad.
+En cada una de las regiones a que se refiere el artículo anterior habrá el número de Salas que establezca el Reglamento Interior del Tribunal, en el que también se determinará la sede, su circunscripción territorial, la distribución de expedientes y la fecha de inicio de funciones.
 
 ###### ARTÍCULO 34.
 
@@ -475,9 +531,11 @@ En el caso de faltas temporales, los Presidentes serán suplidos por los Magistr
 
 Si la falta es definitiva, la Sala designará nuevo Presidente para concluir el periodo del Magistrado faltante. El Magistrado designado para concluir el periodo no estará impedido para ser electo Presidente en el periodo inmediato siguiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 37.
 
-Los Presidentes de las Salas Regionales tendrán las siguientes atribuciones:
+Los Presidentes de las Salas Regionales o Especializadas tendrán las siguientes atribuciones:
 
 I. Atender la correspondencia de la Sala, autorizándola con su firma;
 
@@ -499,9 +557,15 @@ VIII. Verificar que en la Sala se utilice y mantenga actualizado el sistema de c
 
 IX. Vigilar que sean subsanadas las observaciones formuladas a la Sala Regional durante la última visita de inspección;
 
-X. Proponer a la Junta de Gobierno y Administración del Tribunal se imponga una multa al actuario que no cumpla con sus obligaciones legales durante la práctica de las notificaciones a su cargo, y
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-XI. Las demás que establezcan las disposiciones aplicables.
+X. Proponer a la Junta de Gobierno y Administración del Tribunal se imponga una multa al actuario que no cumpla con sus obligaciones legales durante la práctica de las notificaciones a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XI. Comunicar a la Junta de Gobierno y Administración la falta de alguno de sus Magistrados integrantes, así como el acuerdo por el que se suplirá dicha falta por el primer Secretario de Acuerdos del Magistrado ausente, y
+
+XII. Las demás que establezcan las disposiciones aplicables.
 
 ###### ARTÍCULO 38.
 
@@ -527,11 +591,19 @@ VIII. Formular el proyecto de sentencia definitiva y, en su caso, de cumplimient
 
 IX. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley Federal de Procedimiento Contencioso Administrativo, así como proponer a la Sala el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente;
 
-> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-X. Supervisar la debida integración de las actuaciones en el Sistema de Justicia en Línea del Tribunal, de los juicios tramitados en línea, y
+X. Supervisar la debida integración de las actuaciones en el Sistema de Justicia en Línea del Tribunal;
 
-XI. Las demás que les correspondan conforme a las disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XI. Proponer a la Sala Regional la designación de perito tercero, para que se proceda en los términos de la fracción V del artículo 43 de la Ley Federal de Procedimiento Contencioso Administrativo;
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XII. Tramitar y resolver los juicios en la vía sumaria que por turno le correspondan, atendiendo a las disposiciones legales que regulan dicho procedimiento, y
+
+XIII. Las demás que les correspondan conforme a las disposiciones legales aplicables.
 
 ### CAPÍTULO VI. De la Junta de Gobierno y Administración
 
@@ -563,9 +635,13 @@ II. Formular anualmente el proyecto de presupuesto del Tribunal, para los efecto
 
 III. Realizar la evaluación interna de los servidores públicos que les requiera el Pleno, para los efectos del artículo 18, fracción V, de esta Ley. La evaluación se basará en los elementos objetivos y datos estadísticos sobre el desempeño del cargo, de conformidad con las disposiciones aplicables;
 
-IV. Llevar a cabo los estudios necesarios para determinar las regiones, sedes y el número de las Salas Regionales, así como materias específicas de competencia de las Secciones o de las Salas Regionales, en su caso, y los criterios conforme a los cuales se ejercerá la facultad de atracción, de acuerdo con lo que establezcan las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-V. Adscribir y, en su caso, cambiar de adscripción a los Magistrados de las Salas Regionales y demás servidores públicos del Tribunal, observando las Condiciones Generales de Trabajo respecto de los trabajadores a los que les sean aplicables;
+IV. Llevar a cabo los estudios necesarios para determinar las regiones, sedes y número de las Salas Regionales; la competencia material y territorial de las Salas Especializadas, así como las materias específicas de competencia de las Secciones de la Sala Superior y los criterios conforme a los cuales se ejercerá la facultad de atracción, de acuerdo con lo que establezcan las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+V. Adscribir a Salas Regionales o Salas Especializadas y, en su caso, cambiar de adscripción a los Magistrados de Salas Regionales y demás servidores públicos del Tribunal, observando las Condiciones Generales de Trabajo respecto a los trabajadores a los que les sean aplicables;
 
 VI. Elegir y adscribir, de entre los Magistrados Supernumerarios de Sala Regional, a los que habrán de suplir a los Magistrados de Sala Regional que integren la Junta de Gobierno y Administración, así como los que cubrirán las ausencias de los Magistrados de Sala Regional, en términos de lo dispuesto por esta Ley;
 
@@ -583,11 +659,17 @@ IX. Expedir las normas de carrera para los servidores públicos a que se refiere
 
 X. Autorizar los programas permanentes de capacitación, especialización y actualización en las materias competencia del Tribunal para los servidores públicos previstos en el artículo 3 de esta Ley, que elabore el Instituto de Estudios sobre Justicia Fiscal y Administrativa;
 
-XI. Dictar las reglas conforme a las cuales se deberán practicar visitas para verificar el correcto funcionamiento de las Salas Regionales, así como señalar las que corresponderá visitar a cada uno de sus miembros;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XI. Dictar las reglas conforme a las cuales se deberán practicar visitas para verificar el correcto funcionamiento de las Salas Regionales y Salas Especializadas, así como señalar las que corresponderá visitar a cada uno de sus miembros;
 
 XII. Acordar la distribución de los recursos presupuestales conforme a la ley, dictar las órdenes relacionadas con su ejercicio y supervisar su legal y adecuada aplicación;
 
 XIII. Establecer las comisiones que estime convenientes para su adecuado funcionamiento, señalando su materia e integración;
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XIII Bis. Fijar las comisiones requeridas para el adecuado funcionamiento del Tribunal, indicando el o los servidores públicos comisionados, así como el objeto, fines y periodo en que se realizarán;
 
 XIV. Llevar el registro de los peritos del Tribunal y mantenerlo actualizado;
 
@@ -599,7 +681,9 @@ XVII. Nombrar, a propuesta del superior jerárquico, y remover a los servidores 
 
 XVIII. Conceder licencias prepensionarias con goce de sueldo a los Magistrados, Contralor Interno, Secretario General de Acuerdos y Secretarios Adjuntos de las Secciones, hasta por tres meses;
 
-XIX. Conceder licencias sin goce de sueldo a los Magistrados hasta por tres meses, siempre que exista causa fundada que así lo amerite;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XIX. Conceder licencias con goce de sueldo a los Magistrados por periodos inferiores a un mes y sin goce de sueldo hasta por dos meses más, siempre que exista causa fundada que así lo amerite;
 
 XX. Conceder o negar licencias a los Secretarios, Actuarios y Oficiales Jurisdiccionales, así como al personal administrativo del Tribunal, en los términos de las disposiciones aplicables, previa opinión, en su caso, del Magistrado o del superior jerárquico al que estén adscritos;
 
@@ -619,11 +703,15 @@ XXVII. Instruir y resolver sobre las responsabilidades de los servidores públic
 
 XXVIII. Resolver el recurso de revocación interpuesto por los servidores públicos a que se refiere la fracción anterior, en contra de las resoluciones dictadas por ella misma en las que se finquen responsabilidades y se impongan sanciones, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
-XXIX. Integrar y desarrollar un sistema de información estadística sobre el desempeño del Tribunal, del Pleno y de las Secciones de la Sala Superior y de las Salas Regionales, que contemple por lo menos el número de asuntos atendidos, su materia, su cuantía, la duración de los procedimientos, el rezago y las resoluciones confirmadas, revocadas o modificadas;
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+XXIX. Integrar y desarrollar, dentro del Sistema de Justicia en Línea, un subsistema de información estadística sobre el desempeño del Tribunal, del Pleno y de las Secciones de la Sala Superior, de las Salas Regionales y de las Salas Especializadas, que contemple por lo menos el número de asuntos atendidos, su materia, su cuantía, la duración de los procedimientos, el rezago y las resoluciones confirmadas, revocadas o modificadas;
 
-XXX. Establecer y administrar un Boletín Procesal para la notificación de las resoluciones y acuerdos, así como el control de las notificaciones que se realicen por medios electrónicos y supervisar la correcta operación y funcionamiento del Sistema de Justicia en Línea del Tribunal para la tramitación de los juicios en línea;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+XXX. Establecer y administrar el Boletín Electrónico para la notificación de las resoluciones y acuerdos, de conformidad con lo establecido por la Ley Federal de Procedimiento Contencioso Administrativo, así como el control de las notificaciones que se realicen por medios electrónicos y supervisar la correcta operación y funcionamiento del Sistema de Justicia en Línea del Tribunal para la tramitación de los juicios en línea;
 
 > <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -695,13 +783,17 @@ V. Llevar el turno de los Magistrados que deban formular ponencias para resoluci
 
 VI. Dirigir los archivos de la Sala Superior;
 
-> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-VII. Digitalizar la documentación y actuaciones que se requiera incorporar a un expediente tramitado en línea, así como imprimir y certificar las constancias de los expedientes electrónicos de la Sala Superior y las reproducciones en medios electrónicos de dichas actuaciones, y
+VII. Digitalizar la documentación y actuaciones que se requiera incorporar a un expediente tramitado en línea, así como imprimir y certificar las constancias de los expedientes electrónicos de la Sala Superior y las reproducciones en medios electrónicos de dichas actuaciones;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
 
-VIII. Dar fe y expedir certificados de las constancias que obran en los expedientes que obran en la Sala Superior.
+VIII. Dar fe y expedir certificados de las constancias que obran en lo (sic) expedientes que obran en la Sala Superior, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+IX. Las demás que le correspondan conforme a las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 48.
 
@@ -793,15 +885,25 @@ IV. Las demás que prevea esta Ley y el Reglamento Interior del Tribunal.
 
 Los Secretarios de la Junta de Gobierno y Administración, para el ejercicio de las funciones citadas en las fracciones anteriores, se auxiliarán de las unidades administrativas que al efecto establezca el Reglamento Interior del Tribunal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 53.
 
-El Director del Instituto de Estudios sobre Justicia Fiscal y Administrativa será nombrado por el Pleno, a propuesta de su Presidente, y tendrá las atribuciones siguientes:
+El Tribunal contará con un Centro de Estudios Superiores en materia de Derecho Fiscal y Administrativo. Al frente del mismo habrá un Director General el cual será nombrado por el Pleno, a propuesta del Presidente, y tendrá las atribuciones siguientes:
 
 I. Promover la investigación jurídica en materia fiscal y administrativa;
 
-II. Convocar a congresos y seminarios a Magistrados y servidores públicos de la carrera jurisdiccional del Tribunal, así como a asociaciones profesionales representativas e instituciones de educación superior, a fin de promover el estudio del derecho fiscal y administrativo, evaluar la impartición de justicia fiscal y administrativa y proponer las medidas pertinentes para mejorarla, y
+II. Convocar a congresos y seminarios a Magistrados y servidores públicos de la carrera jurisdiccional del Tribunal, así como a asociaciones profesionales representativas e instituciones de educación superior, a fin de promover el estudio del derecho fiscal y administrativo, evaluar la impartición de justicia fiscal y administrativa y proponer las medidas pertinentes para mejorarla, y (sic)
 
-III. Dirigir la Revista del Tribunal Federal de Justicia Fiscal y Administrativa y proponer, compilar, editar y distribuir el material impreso que el Tribunal determine para divulgarlo entre las dependencias y entidades, las instituciones de educación superior, las agrupaciones profesionales y el público en general para el mejor conocimiento de los temas de índole fiscal y administrativa.
+III. Dirigir la Revista del Tribunal Federal de Justicia Fiscal y Administrativa y proponer, compilar, editar y distribuir el material impreso que el Tribunal determine para divulgarlo entre las dependencias y entidades, las instituciones de educación superior, las agrupaciones profesionales y el público en general para el mejor conocimiento de los temas de índole fiscal y administrativa;
+
+> <small>(ADICIONADA, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+IV. Las demás que establezcan otras disposiciones jurídicas.
+
+> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+El Centro, coordinará, promoverá e impartirá cursos de estudios superiores en materia de derecho fiscal y administrativo, de conformidad con el reconocimiento de validez oficial que le otorguen las autoridades competentes.
 
 ### CAPÍTULO VIII. De las Responsabilidades de los Servidores Públicos del Tribunal
 
@@ -839,7 +941,9 @@ XII. Las demás que determinen las leyes.
 
 El personal del Tribunal tendrá cada año dos periodos de vacaciones que coincidirán con los del Poder Judicial de la Federación.
 
-Se suspenderán las labores generales del Tribunal y no correrán los plazos, los días que acuerde el Pleno del Tribunal. Durante las vacaciones del Tribunal, la Junta de Gobierno y Administración determinará el personal que deberá realizar las guardias necesarias en las diferentes regiones para la atención de los asuntos que se requiera.
+> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2010)</small>
+
+Se suspenderán las labores generales del Tribunal y no correrán los plazos, los días que acuerde el Pleno del Tribunal. Durante las vacaciones del Tribunal, la Junta de Gobierno y Administración, determinará el personal que deberá realizar las guardias necesarias en las diferentes regiones y preverá que entre dicho personal se designe, cuando menos, a un Magistrado, un Secretario de Acuerdos, un Actuario y un Oficial Jurisdiccional en cada región, para atender y resolver, en los casos urgentes que no admitan demora, las medidas cautelares y suspensión en términos de lo establecido por la Ley Federal de Procedimiento Contencioso Administrativo.
 
 Únicamente se recibirán promociones en la oficialía de partes de cada Sala durante las horas hábiles que determine el Pleno del Tribunal.
 
@@ -908,3 +1012,21 @@ OCTAVO. El Tribunal llevará a cabo las acciones necesarias a efecto de integrar
 NOVENO. Para la promoción, substanciación y resolución del juicio contencioso administrativo federal a través del Sistema de Justicia en Línea, prevalecerán las disposiciones contenidas en el Capítulo X de la ley respecto de otras que se contrapongan a lo establecido en dicho Capítulo.
 
 DÉCIMO. Los recursos necesarios para la implementación y cumplimiento de lo dispuesto en el presente Decreto provendrán de recursos fiscales autorizados en el presupuesto del Ramo 32: Tribunal Federal de Justicia Fiscal y Administrativa para el presente ejercicio y los subsecuentes.
+
+D.O.F. 10 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los artículos 24, 24 Bis, 25, 27 y 28 de la Ley Federal de Procedimiento Contencioso Administrativo que se reforman o adicionan en términos del presente Decreto, entrarán en vigor a partir de los noventa días siguientes, al de la publicación del presente instrumento jurídico.
+
+TERCERO. Las disposiciones relativas al Juicio en la Vía Sumaria, previstas en el Capítulo XI del Título II que se adiciona a la Ley Federal de Procedimiento Contencioso Administrativo, y los artículos 1o, fracción III, 65, 66, 67, 68, 69 y 70 de la Ley Federal de Procedimiento Contencioso Administrativo, y 41, fracción XXX de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa que se reforman conforme al presente Decreto, entrarán en vigor a partir de los 240 días naturales siguientes, a la fecha de publicación de este ordenamiento.
+
+Asimismo, el Tribunal deberá realizar las acciones que correspondan, a efecto de que el Juicio en Línea, inicie su operación a partir de los 240 días naturales siguientes, a la fecha de publicación de este ordenamiento.
+
+Los juicios que se encuentren en trámite ante el Tribunal Federal de Justicia Fiscal y Administrativa, al momento de entrar en vigor el Capítulo XI del Título II a que se refiere el párrafo anterior, continuarán substanciándose y se resolverán conforme a las disposiciones vigentes a la fecha de presentación de la demanda.
+
+CUARTO. Los avisos que se estén tramitando conforme a los artículos 67, último párrafo y 68, primer párrafo de la Ley Federal de Procedimiento Contencioso Administrativo que se reforma con este decreto, continuarán realizándose hasta la conclusión del juicio que corresponda, salvo que las partes manifiesten su interés de acogerse a lo dispuesto por este instrumento jurídico.
+
+Cualquier referencia hecha en alguna disposición jurídica al Boletín procesal o a la lista en estrados del Tribunal Federal de Justicia Fiscal y Administrativa, se entenderá realizada al Boletín Electrónico a partir de la entrada en vigor del artículo 1-A, fracción III de la Ley Federal de Procedimiento Contencioso Administrativo que se reforma conforme al presente Decreto.
+
+El Tribunal Federal de Justicia Fiscal y Administrativa promoverá una campaña masiva entre los usuarios de los servicios del Tribunal para difundir las disposiciones contenidas en este Decreto.
