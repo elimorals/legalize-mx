@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-servicio-de-defensoria-de-oficio-9253"
 country: "mx"
 rank: "ley"
 publication_date: "1988-08-05"
-last_updated: "1988-08-05"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE SERVICIO DE DEFENSORIA DE OFICIO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de agosto de 1988.
 
@@ -81,11 +81,15 @@ IV. Fijar las normas de ingreso, adscripción, capacitación y excusas de los se
 
 Se crea el Servicio de Defensoría de Oficio como una unidad administrativa dependiente directamente del Secretario de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 3.
 
-El Servicio de Defensoría de Oficio se proporcionará a quien lo solicite, en los siguientes casos y siempre dando preferencia a los campesinos, ancianos, indígenas, mujeres y a las personas ignorantes o de extrema indigencia:
+El Servicio de Defensoría de Oficio se proporcionará a quien lo solicite, con prioridad a las personas que se encuentren en situación de vulnerabilidad o que no cuente con los recursos económicos para el pago de su defensa en los casos siguientes:
 
-I. En materia penal, se hará la defensa del o de los inculpados en los términos del artículo 20, fracción IX, de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+I. En materia penal, se hará la defensa del o de los inculpados por un delito en los términos de los artículos 19 y 20 de la constitución Política de los Estados Unidos Mexicanos; y
 
 II. En materia civil y familiar, el servicio se prestará siempre que el solicitante carezca de recursos económicos suficientes para retribuir a un defensor particular.
 
@@ -213,9 +217,13 @@ El Titular del Servicio de la Defensoría de Oficio, con la intervención que co
 
 I. En materia civil: arrendamientos, compra-venta, información ad-perpetuam, apeo y deslinde, juicios hipotecarios, donación, prescripciones, etc.;
 
-II. En materia familiar: divorcios necesarios, sucesiones, juicios de alimentos, juicios de interdicción, patria potestad, filiación, adopción, nulidad de matrimonio, diligencias de jurisdicción voluntaria, juicios de rectificación de actas del registro civil, etc.; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-III. En materia penal: en todos los asuntos en los que se solicite su intervención conforme a la fracción IX del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, debiendo contener el citado informe, los autos de formal prisión, los autos de libertad por falta de méritos, incidentes que se promuevan en dichos procedimientos, así como sentencias absolutorias y condenatorias que resulten de los mismos, interposición de recursos y sus resultados, promociones de amparos y resultados producto de las citadas promociones, etc.
+II. En materia familiar: divorcios necesarios, sucesiones, juicios de alimentos, juicios de interdicción, patria potestad, filiación, adopción, nulidad de matrimonio, diligencias de jurisdicción voluntaria, juicios de rectificación de actas del registro civil, violencia familiar, etc.; y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III. En materia penal: en todos los asuntos en los que se solicite su intervención conforme al artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, debiendo contener el citado informe, los autos de formal prisión, los autos de libertad por falta de méritos, incidentes que se promuevan en dichos procedimientos, así como sentencias absolutorias y condenatorias que resulten de los mismos, interposición de recursos y sus resultados, promociones de amparos y resultados producto de las citadas promociones, etc.
 
 ###### ARTICULO 19.
 
@@ -225,9 +233,13 @@ El Titular del Servicio, conforme a los programas de superación profesional y t
 
 Los Defensores de Oficio tendrán las siguientes obligaciones:
 
-I. En asuntos de naturaleza penal, prestar el servicio de defensa a las personas que lo soliciten o cuando sea ordenado por designación judicial en los términos de la fracción IX del artículo 20 Constitucional;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-II. En controversias de naturaleza civil y familiar, prestarán los servicios en los términos de la fracción II del artículo 3o. de este Ordenamiento;
+I. En asuntos. de naturaleza penal, prestar el servicio de defensa a las personas que lo soliciten, o cuando sea ordenado por designación judicial en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+II. En controversias de naturaleza civil y familiar, prestarán los servicios en los términos de este ordenamiento;
 
 III. Desahogar todas aquellas diligencias, pruebas, conclusiones, alegatos y recursos necesarios para la eficaz defensa y patrocinio de su representado;
 
@@ -358,3 +370,11 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
