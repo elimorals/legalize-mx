@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2008-12-23"
+last_updated: "2010-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -2587,11 +2587,11 @@ La actividad financiera municipal comprende, dentro de otros, la obtención y ad
 
 En materia financiera corresponderá a las autoridades municipales, las atribuciones y obligaciones que les otorguen este código, y la legislación de la materia.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 244.
 
-En materia de obtención y administración de los ingresos, los ayuntamientos formularán anualmente su presupuesto, determinando las cantidades que obtendrán por cada concepto en el ejercicio fiscal siguiente. Durante el mes de noviembre de cada año, acompañando a la iniciativa de ley de ingresos, el ayuntamiento someterá el presupuesto de ingresos a la consideración y opinión del Congreso del Estado.
+En materia de obtención y administración de los ingresos, los Ayuntamientos formularán anualmente su presupuesto, determinando las cantidades que obtendrán por cada concepto en el ejercicio fiscal siguiente. Durante el mes de octubre de cada año, acompañando a la iniciativa de ley de ingresos, el ayuntamiento someterá el presupuesto de ingresos a la consideración y opinión del Congreso del Estado.
 
 ### CAPÍTULO II. DE LAS COMPETENCIAS EN MATERIA FINANCIERA
 
@@ -4128,3 +4128,9 @@ P.O. 23 DE DICIEMBRE DE 2008.
 PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
