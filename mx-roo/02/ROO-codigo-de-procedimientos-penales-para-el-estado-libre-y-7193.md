@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2010-11-30"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -137,7 +137,7 @@ Si el que inicia una investigación no tiene a su cargo la función de proseguir
 
 Es necesaria la querella de la víctima o del ofendido, solamente en los casos en que así lo determinen el Código penal u otra ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 8º.
 
@@ -183,7 +183,7 @@ I.- Para la querella, tratándose de personas físicas y en este caso el mandato
 
 II.- Para la querella y denuncia, tratándose de personas morales y en este caso basta el mandato general para pleitos y cobranzas, con cláusula especial para formular querellas y denuncias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION SEGUNDA.- Reglas Especiales para la Práctica de Diligencias y Levantamiento de Actas de Averiguación Previa
 
@@ -217,7 +217,7 @@ III.- Informar a la víctima o, en su caso a su representante legal, sobre el si
 
 IV.- Hacer saber a los querellantes, víctimas, ofendidos y probables responsables de los servicios que presta el Centro de Justicia Alternativa para la solución de sus conflictos, en los casos en que proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 16.
 
@@ -263,7 +263,7 @@ VIII.- Las medidas que se hayan tomado para la investigación; y
 
 IX.- Los demás datos que se obtengan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -341,7 +341,7 @@ Si de las diligencias practicadas no resultan elementos bastantes para hacer la 
 
 En la práctica de las diligencias de averiguación previa, se aplicarán en lo conducente las disposiciones del Capítulo Sexto de éste Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 28.
 
@@ -557,7 +557,7 @@ Cuando en un asunto penal sea necesario comprobar un derecho civil, se hará est
 
 En el procedimiento sumario la instrucción se practicará según lo dispuesto en los artículos 465 y siguientes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION SEGUNDA.- Declaración Preparatoria y Nombramiento de Defensor
 
@@ -679,7 +679,7 @@ Si dentro del término establecido por el artículo 19 Constitucional no se reú
 
 ### CAPITULO QUINTO.- DISPOSICIONES COMUNES A LA AVERIGUACION PREVIA Y A LA INSTRUCCION
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 #### SECCION PRIMERA.- Comprobación del Tipo Penal
 
@@ -709,7 +709,7 @@ En el caso de lesiones internas, envenenamiento u otra enfermedad proveniente de
 
 Si se tratare de homicidio, el tipo penal se tendrá por comprobado con la inspección y descripción del cadáver hecha en los términos de los artículos anteriores, y con el dictamen del perito médico, quien practicará la autopsia y expresará el estado que guarde el cadáver y las causas que originaron la muerte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 75.
 
@@ -741,7 +741,7 @@ Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, ba
 
 En los casos de aborto o de infanticidio, el tipo penal se tendrá por comprobado, en la misma forma que el de homicidio; pero en el primero, además, reconocerá el perito a la madre, describirá las lesiones que presente y dictaminará sobre la causa del aborto y en uno y otro caso expresará la edad de la víctima, si nació viable y todo dato que sirva para determinar el delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 80.
 
@@ -837,7 +837,7 @@ Los instrumentos del delito y las cosas objeto o efectos de él, así como aqué
 
 De todas las cosas aseguradas, conforme al artículo anterior, se hará un inventario en el que se las describirá de tal manera que en cualquier tiempo puedan ser identificadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -935,7 +935,7 @@ El certificado de sanidad expedido por médico particular estará sujeto a la re
 
 Cuando un lesionado necesite pronta curación, cualquier médico puede atenderlo y trasladarlo al sitio apropiado, sin esperar la intervención de la autoridad, debiendo comunicar a ésta, inmediatamente después de la primera curación el nombre del lesionado, el lugar en que fue levantado y posición en que se encontraba, la naturaleza y causas probables de las lesiones que presente, las curaciones que se le hicieron y el lugar en que queda a disposición de la autoridad.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 #### SECCION TERCERA BIS.- Procedimiento para la interrupción del embarazo cuando se actualiza el supuesto del artículo 97 fracción II del Código Penal
 
@@ -981,7 +981,7 @@ La exploración médica, atención psicoterapéutica, ginecológica, o cualquier
 
 Cuando lo solicite la víctima podrá ser atendida en su domicilio por profesionales particulares, mediante el compromiso de atenderlo y de rendir los informes a que se refiere el artículo anterior, pero los médicos legistas seguirán con la obligación de visitar periódicamente a la víctima y de rendir también sus informes, cuando así lo determine el juez.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 #### SECCION CUARTA.- Detención del inculpado
 
@@ -991,13 +991,13 @@ Cuando lo solicite la víctima podrá ser atendida en su domicilio por profesion
 
 Queda estrictamente prohibido aprehender a persona alguna sin orden de aprehensión librada por la autoridad judicial competente de conformidad con el artículo 16 de la Constitución Política de los Estado Unidos Mexicanos; hecha excepción en los términos del citado precepto de los casos de flagrante delito o casos urgentes respecto de la comisión de delitos graves.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Se consideran como graves los delitos previstos en los Artículos: 86 en relación al 14 respecto de la conducta dolosa; 87 en relación al sujeto del delito que actuó como provocador; 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa; 117, 118, 119, 124, 127, 128, 129 párrafo segundo; 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII; 148 Bis fracciones II y III, 148 Ter en su fracción III; 149 Bis, 153 fracción XV, 156, 159 párrafo segundo; 171 párrafo primero; 172 Bis, 172 Ter, 189 bis, 191, 192, 192 bis, 192 ter, 192 quáter, 193 último párrafo; 194 segundo párrafo; 194 Quinquies, 202, 203, 204 y 268 fracciones I, II, III, IV y V, del Código Penal para el Estado Libre y Soberano de Quintana Roo.
+Se consideran como graves los delitos previstos en los artículos: 86 en relación al 14 respecto de la conducta dolosa, 87 en relación al sujeto del delito que actuó como provocador, 88, 89, 94, 100 fracción III y último párrafo en relación al 14 respecto de la conducta dolosa, 117, 118, 119, 124, 127, 128, 129 párrafo segundo, 142 fracción II en relación al 145 fracciones I, V, VI, VII y VIII, 148 Bis, 148 Ter en sus fracciones II y III, 149 Bis, 153 fracción XV, 156, 159 párrafo segundo, 171 párrafo primero, 172 Bis, 172 Ter, 189 bis, 191, 192 bis, 192 ter, 192 quáter, 194 quinquies, 202, 203, 204 y 268 fracciones I, II, III, IV y V del Código Penal para el Estado Libre y Soberano de Quintana Roo, así como los artículos 6 y 9 de la Ley para Prevenir, Combatir y Sancionar la Trata de Personas del Estado de Quintana Roo.
 
 El Ministerio Público podrá duplicar el plazo de 48 horas previsto en el citado artículo 16 Constitucional, en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina o jerarquía, para cometer de modo violento o reiterado o con fines predominantemente lucrativos, alguno de los delitos previstos en este artículo como graves.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 101.
 
@@ -1503,15 +1503,11 @@ Cuando la pluralidad de las personas amerite varias confrontaciones, éstas se v
 
 #### SECCION SEPTIMA.- Careos
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 205.
 
-Sin perjuicio de la garantía que consagra la fracción IV del artículo 20 de la Constitución Federal, podrán celebrarse careos procesales entre el acusado y las personas que depongan en su contra, siempre y cuando existan contradicciones en sus declaraciones, pudiendo realizarse a petición de parte o cuando el juzgador lo estime oportuno.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
-
-Queda estrictamente prohibida la realización de careos entre el inculpado y la víctima menor de edad cuando se trate de delitos que afecten la libertad sexual y su normal desarrollo, así como en los delitos contra el libre desarrollo de la personalidad.
+Queda estrictamente prohibida la realización de careos entre el inculpado y la víctima menor de edad.
 
 ###### Artículo 206.
 
@@ -1657,7 +1653,7 @@ En caso de duda, debe absolverse al acusado.
 
 El que afirma está obligado a probar y también lo está el que niega, cuando su negación es contraria a una presunción legal o envuelve la afirmación expresa de un hecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 233.
 
@@ -1963,19 +1959,19 @@ Son irrevocables y causan ejecutoria:
 
 I.- Las sentencias pronunciadas en primera instancia cuando se hayan consentido expresamente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 II.- Las sentencias pronunciadas en primera instancia que sean consentidas tácitamente, por no haberse interpuesto dentro del término fijado por la ley, el recurso procedente en su contra;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 III.- Las sentencias contra las cuales no dé la ley recurso alguno;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -2335,7 +2331,7 @@ Cuando proceda la libertad caucional, inmediatamente que se solicite, se decreta
 
 Si se negare la libertad caucional podrá solicitarse de nuevo y concederse por causas supervenientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 341.
 
@@ -3421,7 +3417,7 @@ Cuando no tenga que dictarse resolución alguna anterior a la sentencia, se har�
 
 Cuando esté plenamente comprobado en autos el delito de que se trata, el funcionario que conozca del asunto dictará las providencias necesarias y las órdenes de protección, a solicitud del interesado, para restituirlo en el goce de sus derechos, siempre que estén legalmente justificados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 540.
 
@@ -3471,7 +3467,7 @@ Los tribunales deben dictar de oficio las providencias y trámites necesarios pa
 
 #### SECCION QUINTA.- Correcciones disciplinarias o medios de apremio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2008)</small>
 
 ###### Artículo 545.
 
@@ -3717,7 +3713,7 @@ VII.- Los Comandantes de las Fuerzas Armadas.
 
 Las citaciones deberán hacerse personalmente por cédula, o por cualquier otra vía idónea y adecuada, dejando en el expediente constancia de ello.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 1992)</small>
 
 ###### Artículo 586.
 
@@ -4071,7 +4067,7 @@ LIC. JOSE N. IRABIEN MEDINA.
 
 (Rúbrica).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 30 DE OCTUBRE DE 1992
 
@@ -4141,13 +4137,13 @@ TERCERO.- Los procedimientos iniciados antes de la entrada en vigor del presente
 
 P.O. 30 DE JUNIO DE 2009.
 
-DECRETO No. 155, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO No. 155, POR EL QUE SE REFORMA EL ARTÍCULO 100 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 30 DE JUNIO DE 2009.
 
-DECRETO No. 156, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO No. 156, POR EL QUE SE REFORMA EL ARTÍCULO 100 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4195,7 +4191,7 @@ TRANSITORIO:
 
 P.O. 30 DE JUNIO DE 2010.
 
-DECRETO NUMERO 291, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUINTANA ROO.
+DECRETO NÚMERO 291, POR EL QUE SE REFORMA EL ARTÍCULO 100 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -4207,7 +4203,7 @@ TRANSITORIO:
 
 P.O. 30 DE JUNIO DE 2010.
 
-DECRETO NUMERO 292, POR EL QUE SE REFORMA EL ARTICULO 100 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NÚMERO 292, POR EL QUE SE REFORMA EL ARTÍCULO 100 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4237,7 +4233,7 @@ T R A N S I T O R I O:
 
 P.O. 30 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 359, SE MODIFICAN DIVERSOS ARTICULOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NÚMERO 359, SE MODIFICAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -4251,11 +4247,35 @@ T R A N S I T O R I O:
 
 P.O. 30 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 360, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 100 DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUINTANA ROO.
+DECRETO NÚMERO 360, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 100 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+DECRETO NÚMERO 371, POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 100 Y EL 205 PÁRRAFO SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo.- El Comité a que se refiere el artículo 19 de la ley, deberá instalarse en un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto. Una vez instalado, el Comité deberá elaborar el Programa Estatal en un plazo de noventa días hábiles.
+
+Tercero.- Los Municipios deberán elaborar y aprobar su Programa Municipal en un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, así como para adecuar sus normas reglamentarias para la debida aplicación de la Ley.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+DECRETO NÚMERO 373, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 100 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 T R A N S I T O R I O:
 
