@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-presupuestario-para-el-municipio-de-puebla-1850
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-17"
-last_updated: "2009-12-30"
+last_updated: "2010-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CODIGO FISCAL Y PRESUPUESTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 17 de diciembre de 1999.
 
@@ -423,13 +423,15 @@ La Dirección Jurídica resolverá en definitiva dentro del término que no exce
 
 La resolución será definitiva y se notificará personalmente a la autoridad que dictó la resolución impugnada y a las otras autoridades que deban conocerla conforme a sus atribuciones, así como a los recurrentes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 12.
 
 La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, pero cuando uno de los agravios sea suficiente para declarar la nulidad lisa y llana del acto impugnado bastará con el examen de éste.
 
-En los casos en que el acto impugnado carezca de fundamentación y motivación, bastará esa conclusión para anularlo, sin necesidad de entrar al estudio de los demás agravios hechos valer por el recurrente.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+En los casos en que el acto impugnado carezca de fundamentación y motivación o provenga de autoridad incompetente, bastará esa conclusión para anularlo, sin necesidad de entrar al estudio de los demás agravios hechos valer por el recurrente.
 
 ###### Artículo 13.
 
@@ -503,9 +505,11 @@ III. Si los hechos que lo motivaron no se realizaron, fueron distintos o se apre
 
 La Dirección Jurídica dejará sin efectos el acto impugnado, en la hipótesis de la fracción I o mandará reponer el procedimiento, cuando se trate de lo previsto en las fracciones II y III antes señaladas.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 19.
 
-La Dirección Jurídica además de ejercer el control directo de la legalidad de los actos materia del recurso de revisión, deberá recomendar lo conducente a efecto de que las áreas administrativas, corrijan errores que afecten a los particulares.
+La Dirección Jurídica además de ejercer el control directo de la legalidad de los actos materia del recurso de revisión, en los casos en que las resoluciones se adviertan violaciones que pudieran ser generalizadas deberá instruir lo conducente a efecto de que las áreas administrativas, corrijan errores que afecten a los particulares.
 
 ###### Artículo 20.
 
@@ -747,9 +751,9 @@ En caso de cambio de nomenclatura o numeración oficial, la autoridad fiscal act
 
 Las disposiciones fiscales que establezcan cargas a los particulares y las que señalen excepciones a las mismas, así como las que fijen infracciones y sanciones, son de interpretación y de aplicación estricta. Se considerará que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, cuota, tasa o tarifa, época, lugar y forma de pago.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Lo previsto en el párrafo anterior no impide a las autoridades fiscales interpretar cada precepto considerándolo dentro del contexto normativo del que forma parte.
+Lo previsto en el párrafo anterior no impide a las autoridades fiscales interpretar cada precepto considerándolo dentro del contexto normativo del que forma parte y buscando un equilibrio entre los intereses de los particulares y los del Municipio, utilizando para ello los diversos métodos de interpretación, atendiendo incluso a la naturaleza económica de los fenómenos contemplados por dichas normas.
 
 (REPUBLICADO, P.O. 31 DE DICIEMBRE DE 2007)
 
@@ -1143,7 +1147,9 @@ II. Señalar la autoridad que lo emite;
 
 III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate; y
 
-IV. Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido se señalarán los datos suficientes que permitan su identificación.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV. Ostentar la firma autógrafa del funcionario competente y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
@@ -2505,9 +2511,9 @@ La Tesorería vigilará que sean garantizadas las prestaciones a favor de la Hac
 
 Se podrá dispensar el otorgamiento de la garantía del interés fiscal, mediante acuerdo que emita el Tesorero, cuando en relación con el monto del crédito respectivo, sea notoria la amplia solvencia del deudor o la insuficiencia de su capacidad económica.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-En ningún caso se podrá dispensar el otorgamiento de la garantía del interés fiscal.
+Fuera de los casos establecidos en el párrafo anterior, en ningún caso se podrá dispensar el otorgamiento de la garantía del interés fiscal. La propia Tesorería podrá revocar su determinación de dispensar la garantía del interés fiscal cuando la situación de solvencia o insolvencia de los contribuyentes se modifique.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -2995,13 +3001,19 @@ I.- Expresamente, cuando los interesados así lo manifiesten por escrito.
 
 II.- Tácitamente, cuando no sean retiradas dentro de los plazos que a continuación se indican:
 
-a) Tres meses, tratándose de vehículos infraccionados que se encuentren en los corralones del Municipio o los lugares autorizados por éste, contados a partir del momento en que ingresan a los corralones, salvo que su retiro no sea posible por existir mandamiento de autoridad competente.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-En el caso referido en la última parte del párrafo anterior el plazo contará a partir del momento en que la autoridad competente determine que el vehículo se encuentra a disposición de su propietario o de quien tenga derecho a poseerlo.
+a) Tres meses, tratándose de vehículos infraccionados que se encuentren en los corralones del Municipio o los lugares autorizados por éste, contados a partir del momento en que ingresan, el interesado cubre los conceptos de ingreso a su cargo, salvo que su retiro no sea posible por existir mandamiento de autoridad competente.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+En el caso referido en la última parte del párrafo anterior, el plazo para actualizar la figura jurídica de abandono contará a partir del momento en que la autoridad competente determine que el vehículo se encuentra a disposición de su propietario o de quien tenga derecho a poseerlo.
 
 Si la orden de la autoridad competente es a favor de un depositario, no procederá el abandono, pero quien retire el vehículo pagará los conceptos de ingreso que prevea la Ley de Ingresos del Municipio de Puebla aplicable.
 
-b) Tres días, tratándose de mercancías que se encuentran en los almacenes municipales como consecuencia de su retiro de la vía pública, salvo que se trate de perecederos o de fácil descomposición, de animales vivos, de mercancías explosivas, inflamables, contaminantes o corrosivas, en cuyo caso el plazo es de veinticuatro horas.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+b) Tres días, tratándose de mercancías que se encuentran en los almacenes municipales como consecuencia de su retiro de la vía pública, salvo que se trate de perecederos o de fácil descomposición, de animales vivos, de mercancías explosivas, inflamables, contaminantes o corrosivas, en cuyo caso el plazo es de veinticuatro horas contadas a partir de su retiro.
 
 c) Tres meses, respecto de vehículos que se encontraban a disposición de otras autoridades, contados a partir del momento en que puedan ser retirados por sus propietarios o quien tenga derechos para poseerlos.
 
@@ -4333,6 +4345,74 @@ Tanto las dependencias como las entidades que ejerzan recursos municipales, esta
 
 La programación del gasto público municipal deberá encaminarse a la consecución de los objetivos de la planeación municipal, observando las directrices enmarcadas en los Planes Nacional y Estatal de Desarrollo.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+El Ayuntamiento por acuerdo de las dos terceras partes de sus integrantes, acordará las formas de participación del sector privado, en los proyectos de inversión para la creación o desarrollo de infraestructura, o la prestación de servicios públicos de competencia municipal; mediante el otorgamiento de contratos administrativos de servicios a largo plazo, que consideren modalidades de inversión, en las que se incorporan técnicas, distribución de riesgos objetivos y recursos de las partes firmantes o terceros.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Los contratos administrativos de servicios a largo plazo a que se refiere el párrafo anterior, desarrollarán uno o más de los siguientes esquemas:
+
+I.- Diseño/Construcción del Bien Público.- Con el objeto de que el Gobierno Municipal contrate a una empresa privada para que elabore el diseño y construya un bien público bajo las reglas que determine el Ayuntamiento. Una vez construido el bien, el Ayuntamiento asumirá la responsabilidad de la operación y mantenimiento del mismo;
+
+II.- Diseño/Construcción/Mantenimiento del Bien Público.- Con el objeto de que el Gobierno Municipal contrate a una empresa privada para que elabore el diseño y construya un bien público bajo las reglas que determine el Ayuntamiento. Una vez construido el bien, el particular se encarga del mantenimiento del mismo y el Gobierno Municipal asumirá la responsabilidad de la operación del mismo;
+
+III.- Diseño/Construcción/Operación del Bien Público.- Con el objeto de que una empresa diseñe y construya un bien público, a efecto de que una vez concluido, la propiedad sea transferida al Gobierno Municipal, correspondiendo a la empresa operar el bien únicamente por un periodo específico de tiempo;
+
+IV.- Diseño/Construcción/Operación/Mantenimiento del Bien Público.- Cuyo objeto es, el diseño, construcción, operación y mantenimiento por parte de una empresa por un periodo de tiempo determinado. Una vez transcurrido dicho tiempo, el Gobierno Municipal se encarga de la operación y mantenimiento;
+
+V.- Construcción/Posesión/Operación/Entrega del Bien Público.- Cuyo objeto es que el Gobierno Municipal otorgue la franquicia a una empresa privada para que financie, diseñe, construya y opere el bien por un tiempo determinado, para posteriormente entregarlo al Municipio; y
+
+VI.- Construcción/Posesión/Operación del Bien Público.- Cuyo objeto es que el sector privado diseñe, construya, financie, opere y dé mantenimiento al bien por un largo periodo de tiempo, después del cual se entrega al Ayuntamiento.
+
+VII.- Híbridos que tengan por objeto:
+
+a) Que los sectores público y privado diseñen, desarrollen y financien el proyecto conjuntamente y/o ejecuten las construcciones, realicen el mantenimiento y operen las instalaciones;
+
+b) Contratar con una empresa varias asociaciones público privadas de pequeña escala para disminuir los costos de transacción y de suministro;
+
+c) Que varios socios privados compitan para entregar diferentes partes de un mismo proyecto, con el objeto de que el Municipio se encuentre en posibilidades de reasignar proyectos entre los socios en fases subsecuentes, en función a su desempeño;
+
+d) Que el Gobierno Municipal decida en qué momento concluye su relación contractual con una empresa improductiva, reservándose el derecho de reasignar fases del proyecto a otros particulares;
+
+e) Que el Gobierno Municipal asigne a un particular la integración del desarrollo de un proyecto, quien diseña el esquema de entrega y es recompensado en el resultado global del proyecto; y
+
+f) Que sea constituida compañía de inversión conjunta, donde la mayoría del capital es aportado por el sector privado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Los contratos administrativos de servicios a largo plazo se adjudicarán en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal, y requerirán ser aprobados por las dos terceras partes del Cabildo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 287 Bis.
+
+En las fases de planeación, programación, adjudicación, contratación, ejecución y control de los contratos administrativos de servicios a largo plazo, se observarán los siguientes principios rectores:
+
+I.- Cláusula de Progreso.- El particular deberá realizar por su cuenta las actualizaciones necesarias en el servicio o infraestructura que se logre, por el desarrollo técnico, medioambiental o de seguridad, para reforzar la calidad del servicio ofrecido;
+
+II.- Eficiencia Económica.- Los esquemas de factibilidad económica que este Código establece, deberán ser aprobados por el Ayuntamiento, siempre que se compruebe, que la opción de contratación seleccionada constituya la propuesta más eficiente para la administración pública estatal o municipal;
+
+III.- Indicadores de Calidad.- Deberán incorporarse mecanismos para la medición y valoración de la calidad del actuar del inversionista, para establecer bases en la aplicación de incentivos o penalizaciones al contratista;
+
+IV.- Iniciativa de los Particulares.- Con independencia de la iniciativa de la administración municipal, las personas físicas o morales podrán proponer alguno de los esquemas regulados en este Código, siempre que el solicitante, además de cumplir los requisitos generales establecidos en el mismo, acompañe su petición con el correspondiente estudio de viabilidad. Esta iniciativa será valorada por el Presidente a través de la Tesorería Municipal y en su caso, incluida en el presupuesto de egresos. La aprobación del esquema propuesto no excluye la observancia de los ordenamientos que reglamentan el artículo 108 de la Constitución Política del Estado Libre y Soberano de Puebla;
+
+V.- Peaje Sombra.- Para aquellas obras o servicios públicos de gran interés social, que por su naturaleza deban ser gratuitos para los usuarios, la administración municipal asumirá el pago escalonado de los costos asociados;
+
+VI.- Rectoría del Ayuntamiento.- La participación público-privada se realizará con la planeación, control, regulación, intervención, conducción, supervisión y vigilancia del Ayuntamiento dentro de su ámbito competencial, para preservar el interés público que pretenden atender;
+
+VII.- Rentabilidad Social.- Las decisiones para crear, desarrollar u operar infraestructura o prestación de servicios públicos, deberán responder al interés general de la sociedad; estableciendo los objetivos generales y beneficios que se pretenda proporcionar; mismos que habrán de coincidir y tener como fuente legitimadora al Plan Municipal de Desarrollo que se encuentre vigente;
+
+VIII.- Reparto Equilibrado de Riesgos.- Los riesgos serán asumidos objetivamente en los términos que deberán expresarse en el Contrato, atendiendo a las especiales capacidades técnicas y operativas de los involucrados;
+
+IX.- Responsabilidad Presupuestal.- Se deberá considerar la capacidad de pago del Municipio, para adquirir los compromisos financieros que se deriven de la Ejecución de los Contratos con base en este Código, sin comprometer la sustentabilidad de las finanzas públicas, ni la prestación de los servicios que se otorguen de manera regular;
+
+X.- Temporalidad.- Los actos o contratos celebrados conforme a este Código, no podrán ser menores a tres años, ni exceder de un término de treinta años, incluyendo sus prórrogas. Considerándose como causa de nulidad del contrato, la omisión de la estipulación del plazo señalado; y
+
+XI.- Transparencia y Rendición de Cuentas.- Toda decisión gubernamental o administrativa, así como los costos y recursos comprometidos en la aplicación de los proyectos y programas que se ejecuten, deberán ser accesibles, claros y comunicados a la sociedad.
+
+Quedan excluidos los contratos regulados por el derecho civil, los que se refieran a la prestación de servicios individuales o colectivos de carácter laboral, y los que tengan una duración temporal pactada, menor a tres ni mayor a treinta años.
+
 ###### Artículo 288.
 
 Las actividades de programación, presupuestación, control y evaluación del gasto público municipal, estarán a cargo de la Tesorería y de la Contraloría en el ámbito de sus respectivas competencias, las que dictarán las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
@@ -4367,11 +4447,17 @@ h) Las demás fuentes de ingresos del erario municipal;
 
 IV. Considerar en la elaboración del proyecto del presupuesto, los elementos para su evaluación con base en indicadores que permitan medir el grado de cumplimiento de los objetivos y metas programadas y que sean congruentes con los sistemas de control de gestión del Órgano de Fiscalización Superior del Estado;
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Además de los indicadores referidos en el párrafo anterior, la Tesorería deberá elaborar y actualizar permanentemente un catálogo de indicadores de calidad para medir y valorar el desempeño y calidad del servicio ofrecido por el inversionista y/o proveedor a los usuarios de la infraestructura o del servicio público objeto de contratación de servicios a largo plazo;
+
 V. Proponer en el ámbito de su competencia, la definición de los objetivos y políticas a corto y largo plazo, la propuesta de resultados de su aplicación y la asignación de recursos para su consecución, teniendo en cuenta las prioridades de política definidas para el periodo de gobierno y las posibilidades que la economía impone a las finanzas públicas;
 
 VI. Propiciar que los proyectos de las entidades se ejecuten previo análisis costo-beneficio o con la evaluación suficiente y que permita planificar el gasto en inversión, incluyendo en lo conducente el gasto de capital diferido, definiendo el alcance de los mismos;
 
-VII. Proveer lo necesario para administrar un registro sistemático de proyectos de inversión considerables en el anteproyecto de presupuesto;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VII. Proveer lo necesario para administrar un registro sistemático de proyectos de inversión que justifiquen su viabilidad técnica, social, económica y ambiental de acuerdo a los diversos esquemas de financiamiento de fuentes tradicionales o alternativas, buscando la agrupación de recursos, de la administración pública, de la iniciativa privada, banca de desarrollo y demás instituciones financieras reguladas por las leyes de la materia, para la realización de los mismos;
 
 VIII. Asesorar al Presidente y al Cabildo en la formulación de los programas de inversiones públicas y de su financiamiento, ajustándose a los límites de endeudamiento acordados por el Congreso;
 
@@ -4384,6 +4470,18 @@ XI. Proponer al Presidente las políticas de racionalización de la administraci
 XII. Proponer al Presidente la reducción proporcional del gasto en el caso de que los ingresos sean menores a los previstos; y
 
 XIII. Proponer al Presidente los mecanismos para reducir los costos de recaudación y cumplimiento, propiciando la modernización y el aumento de la eficiencia de la administración tributaria.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XIV. Formular, actualizar y autorizar el uso de los contratos prototipo, para la constitución de Asociaciones Público-Privadas que presten servicios a largo plazo, los que, en su caso, deberán acompañarse del dictamen que justifique pagos anticipados;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XV. Registrar como gasto corriente o de inversión, según sea el caso, los pagos realizados por las contraprestaciones basadas en este Código; los que incluirán, de ser necesario sus erogaciones accesorias; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XVI. Vigilar que no se realice pago alguno al inversionista y/o proveedor antes de recibir los servicios a largo plazo, salvo que exista plena justificación técnica, disponibilidad presupuestaria y así lo autorice el Ayuntamiento.
 
 Los anteproyectos de las entidades en los términos del artículo 299 de este Código se presentarán a la Tesorería para su trámite en la forma que establece el presente ordenamiento.
 
@@ -4422,6 +4520,94 @@ La Tesorería al examinar los presupuestos, cuidará que simultáneamente se def
 El Presupuesto de Egresos para el Municipio será el que apruebe el Cabildo, a iniciativa del Presidente, para expensar, durante el período de un año a partir del 1 de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo de las dependencias.
 
 Asimismo contendrá las erogaciones previstas en cada año, correspondientes a las entidades a cuyos programas se destinen recursos del Presupuesto de Ingresos Municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Los programas de acción que comprendan más de un ejercicio presupuestario, se sujetarán a las asignaciones que se consignen en el Presupuesto de cada ejercicio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Para la realización de proyectos para la prestación de servicios a largo plazo, las Dependencias y Entidades, deberán presentar el expediente técnico ante la Tesorería a fin de que en su caso sea incluido en el proyecto de Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Cuando sea presentado para su ejecución una vez iniciado el ejercicio presupuestal, el Presidente someterá a la consideración del Cabildo la propuesta para su aprobación informando las modificaciones que en su caso, habrá en el Presupuesto de Egresos del ejercicio que curse, a fin de que sean aprobadas o no por el Cabildo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Los proyectos deberán contener en el expediente técnico como mínimo, los siguientes requisitos:
+
+I.- Descripción y Justificación;
+
+II.- Estudio de viabilidad y factibilidad: jurídica, técnica, financiera, presupuestal y ambiental que en su caso se requiera;
+
+III.- Plazo máximo de duración del Contrato;
+
+IV.- Análisis costo beneficio, el cual deberá demostrar que los beneficios serán igual o mayores que si los realizara directamente la dependencia o entidad solicitante y contendrá:
+
+a) El resumen ejecutivo del proyecto;
+
+b) El diagnóstico de la situación presente y las posibles soluciones para su atención;
+
+c) La descripción de la realización del objeto del proyecto, mediante un proceso ordinario de inversión y prestación de los servicios por parte de la dependencia o entidad competente;
+
+d) La descripción de la realización del proyecto que se propone;
+
+e) Los parámetros propuestos como referentes para la evaluación del desempeño del inversionista proveedor; y
+
+f) Las conclusiones a que se arribe.
+
+V.- La solicitud, en su caso, de otorgamiento de garantía municipal; y
+
+VI.- Los demás que sean necesarios atendiendo a las características de cada proyecto.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Dentro de esos proyectos podrán contemplarse servicios que sirvan de apoyo para el cumplimiento de las funciones y servicios que tienen encomendadas las Dependencias y Entidades. Al respecto, podrán incluir el diseño, mantenimiento, operación, conservación, explotación, construcción, equipamiento, ampliación, administración, arrendamiento, transferencia de activos y, en general, cualquier disponibilidad de servicios para crear infraestructura pública.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Al someterse al Cabildo la autorización respectiva, por cada proyecto que se pretenda realizar, el Presidente, según sea el caso, designará un área administrativa responsable del seguimiento y ejecución del proyecto.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Tratándose de contratos para la instrumentación de proyectos para prestación de servicios a largo plazo, el Ayuntamiento en la formulación de su Presupuesto de Egresos de cada uno de los ejercicios en que se encuentren vigentes, deberá considerar las previsiones presupuestales para cumplir con las obligaciones de pago que deriven de éstos. Para tales efectos, se estará a lo dispuesto en el presente Código y en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Una vez aprobado un proyecto por el Cabildo, se estará a los procedimientos reglamentarios del artículo 108 de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 296 Bis.
+
+Los contratos para la prestación de servicios a largo plazo deberán contener al menos lo siguiente:
+
+I.- Nombre y domicilio del inversionista;
+
+II.- Objeto del contrato;
+
+III.- Plazo, términos y condiciones;
+
+IV.- Fecha de pago de los derechos u obligaciones que se deriven del principio Peaje Sombra;
+
+V.- El plazo en que el inversionista está obligado a iniciar la prestación del servicio;
+
+VI.- Requisitos y condiciones en caso de prórroga;
+
+VII.- Derechos y obligaciones a cargo del inversionista, incluyendo en su caso las contraprestaciones y modalidades;
+
+VIII.- Las condiciones y calidad técnica en que deberá prestarse;
+
+IX.- Las garantías que resulten de la naturaleza del servicio;
+
+X.- El régimen tarifario, especificando el mecanismo o las fórmulas para su determinación o ajuste;
+
+XI.- Las sanciones aplicables en caso de incumplimiento;
+
+XII.- Causas de extinción; y
+
+XIII.- Las demás que se consideren necesarias.
 
 ###### Artículo 297.
 
@@ -4489,6 +4675,14 @@ Una vez aprobado el presupuesto de egresos y por causas supervinientes, podrá s
 
 Las entidades a que se refieren las fracciones II a IV del artículo 286 de este Código, presentarán sus proyectos de presupuestos anuales y sus modificaciones en su caso, a la Tesorería para su aprobación a más tardar el 31 de julio del año anterior al de su vigencia. Los proyectos se presentarán de acuerdo con las normas que el Presidente establezca a través de la Tesorería.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Los sujetos a que se refiere el artículo 286 de éste Código, deberán incluir en los anteproyectos a que se refiere el párrafo anterior, las obligaciones de pago que se deriven de los contratos para prestación de servicios a largo plazo que hubieren formalizado, así como de cualquier erogación contingente que pudiere generarse en términos de dichos contratos, a fin de que la Tesorería los incluya en el proyecto de Presupuesto de Egresos del Municipio, de conformidad con las disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Las obligaciones de pago que deriven de los contratos a que se refiere al párrafo anterior, se considerarán preferentes.
+
 ### CAPÍTULO III. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
 ###### Artículo 304.
@@ -4498,6 +4692,30 @@ El Presidente por conducto de la Tesorería, podrá asignar los recursos que se 
 El gasto público municipal deberá sujetarse al monto autorizado por los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos para aquellas erogaciones cuyo monto no sea posible prever.
 
 El Presidente determinará la forma en que deberán invertirse los subsidios que otorgue, cuyos beneficiarios proporcionarán a la Tesorería la información que se les solicite sobre la aplicación que hagan de los mismos, en la forma, plazos y términos que ésta determine.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Las obligaciones de pago que deriven de contratos para la instrumentación de proyectos para prestación de servicios a largo plazo que deban realizar los sujetos a que se refiere el artículo 286 de este Código, serán consideradas gasto corriente, se considerarán preferentes y deberán cubrirse con cargo a sus respectivos presupuestos autorizados para el ejercicio fiscal correspondiente, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Para el caso de que en los contratos a que se refiere el párrafo anterior, se hubiere pactado la adquisición de los bienes que utilice el proveedor para la prestación de los servicios a su cargo, las erogaciones que se destinen para tales efectos, se considerarán gasto de inversión.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Los particulares interesados deberán prestar los servicios con activos propios, activos de un tercero privado que otorgue título legal para poder hacer uso de los mismos o de bienes públicos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Las modificaciones al contrato de prestación de servicios a largo plazo se regirán por lo siguiente:
+
+I.- Las Dependencias o Entidades informarán a la Tesorería de las eventuales necesidades de modificaciones del contrato, en virtud de cambios sobre la naturaleza o alcance del proyecto, cuando dicha modificación implique un incremento en la contraprestación que deba pagarse;
+
+II.- Conforme a lo dispuesto en el párrafo anterior, las dependencias o entidades solicitarán la aprobación de un incremento presupuestal, y la Tesorería analizará y evaluará la viabilidad del mismo conforme a lo estipulado en el contrato y los compromisos adquiridos;
+
+III.- De estimar pertinente la solicitud de incremento, el Presidente someterá a la aprobación del Cabildo la autorización del aumento presupuestal con el señalamiento de las partidas del gasto susceptibles de afectación dentro del ejercicio del Presupuesto de Egresos del año fiscal correspondiente; y
+
+IV.- De obtenerse la autorización prevista en el párrafo anterior, la Tesorería establecerá lo conducente en el proceso de presupuestación de los ejercicios fiscales subsecuentes.
 
 ###### Artículo 305.
 
@@ -4519,6 +4737,10 @@ Una vez concluida la vigencia de un Presupuesto de Egresos del Municipio, solo p
 
 En casos excepcionales y debidamente justificados, conforme a la legislación correspondiente, el Presidente a propuesta de la Tesorería, podrá autorizar que se celebren contratos de obras públicas, de adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año, pero en estos casos los compromisos excedentes no cubiertos quedarán sujetos, para los fines de su ejecución y pago, a la disponibilidad presupuestal de los años subsecuentes.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Cuando se trate de programas o proyectos especiales, cuyos presupuestos se incluyen en el Presupuesto de Egresos, se hará mención especial en estos casos al presentar el Proyecto de Presupuesto al Cabildo.
+
 ###### Artículo 309.
 
 El Presidente por conducto de la Tesorería, establecerá las normas generales a que se sujetarán las garantías que deban constituirse a favor de las diversas entidades en los actos y contratos que celebren. El propio Presidente determinará las excepciones cuando a su juicio estén justificadas.
@@ -4526,6 +4748,14 @@ El Presidente por conducto de la Tesorería, establecerá las normas generales a
 La Tesorería será la beneficiaria de todas las garantías que se otorguen a favor del Ayuntamiento y a ella corresponderá conservar la documentación respectiva y, en su caso, ejercitar los derechos que correspondan al Municipio, para cuyo efecto se le remitirá la información y documentos necesarios, en la forma y términos que esta dependencia emita.
 
 Lo anterior sin perjuicio de las atribuciones del Síndico, en el caso de que el cobro de garantías genere procedimientos formal o materialmente jurisdiccionales.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+El Ayuntamiento al autorizar la instrumentación de un proyecto para prestación de servicios a largo plazo, y en los casos en que sea necesario para garantizar la viabilidad de un proyecto, podrá constituir los mecanismos financieros para el otorgamiento de garantías, incluyendo la creación de fideicomisos de garantía o fuente alterna de pago.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+En su caso la garantía municipal será contingente y no representará una obligación incondicional de pago, por lo que no tendría el carácter de deuda pública.
 
 ###### Artículo 310.
 
@@ -4551,27 +4781,73 @@ El acuerdo a que se refiere el párrafo anterior se publicará en el Periódico 
 
 ### CAPÍTULO IV. DE LA CONTABILIDAD
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 311.
 
-La Tesorería y cada entidad en el ámbito de su competencia, llevarán su propia contabilidad, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+El presente Capítulo tiene por objeto establecer las competencias de las autoridades municipales en el ejercicio de la Ley General de Contabilidad Gubernamental.
 
-Los catálogos de cuentas que se utilizarán, serán emitidos por la Tesorería y los de las entidades serán autorizados expresamente por dicha Tesorería, sólo en lo que se refiere al gasto municipal transferido.
+Para tal efecto la Tesorería por conducto del Director de Contabilidad o el órgano administrativo de cada paramunicipal, son competentes para:
+
+I.- Registrar las transacciones que lleven a cabo, respectivamente;
+
+II.- Efectuar los registros considerando la base acumulativa para la integración de la información presupuestaria y contable;
+
+III.- Generar estados financieros y otra información que coadyuven a la toma de decisiones, a la transparencia, a la programación con base en resultados, a la evaluación y a la rendición de cuentas; y
+
+IV.- Facilitar el registro y control de los inventarios de los bienes muebles e inmuebles, en observancia de las normas contables y lineamientos para la generación de información financiera que apruebe el Consejo Nacional de Armonización Contable en términos de la Ley General de Contabilidad Gubernamental.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 311 Bis.
+
+El Ayuntamiento o sus Entidades, con el objeto de garantizar la observancia de la regularidad como condicionante para la inversión, podrán suscribir contratos de reconocimiento y corresponsabilidad en la inversión en el Municipio de Puebla.
+
+Al suscribirlos la administración centralizada y/o paramunicipal podrán fijar las bases requeridas para asegurar las inversiones, mediante la observancia de la ley en sentido formal o material, así como el derecho a la indemnización a quienes, sin obligación jurídica de soportarlo, sufran daños en cualquiera de sus bienes y derechos como consecuencia de la actividad administrativa irregular.
+
+La responsabilidad extracontractual a cargo del Municipio se rige por el Código Civil para el Estado Libre y Soberano de Puebla.
+
+Los daños y perjuicios materiales que constituyan la lesión patrimonial, habrán de ser reales, evaluables en dinero, directamente relacionados con una o varias personas, y desiguales a los que pudieran afectar al común de la población.
+
+La cuantificación de la indemnización se calculará de acuerdo a la fecha en que la lesión efectivamente se produjo o la fecha en que haya cesado cuando sea de carácter continuo.
+
+El Ayuntamiento y/o sus paramunicipales podrán repetir de los servidores públicos el pago de la indemnización cubierta a los particulares.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 312.
 
-La contabilidad de la Tesorería y la correspondiente a las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución.
+Las Dependencias y Entidades a que se refiere el artículo 286 de este Código observarán los criterios generales de contabilidad gubernamental y para la emisión de información financiera a que se refiere la Ley General de Contabilidad Gubernamental, con el fin de lograr la adecuada armonización de los modelos contables.
 
-Los sistemas de contabilidad deben diseñarse y operarse en forma que faciliten la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y en general de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
+Para tal efecto el Ayuntamiento por conducto del Presidente y las entidades, por conducto de quien les represente en los términos de los ordenamientos aplicables, podrán suscribir convenios con las autoridades competentes en materia de armonización contable.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 313.
 
-Las entidades suministrarán a la Tesorería, mensualmente, la información presupuestal, contable, financiera y de otra índole que requiera la propia Tesorería.
+La Tesorería por conducto del Director de Contabilidad, o el órgano administrativo de cada entidad, serán responsables de aplicar la contabilidad para los fines a que se refiere la Ley General de Contabilidad Gubernamental, siguiendo las mejores prácticas contables nacionales e internacionales en apoyo a las tareas de planeación financiera, registro y control de recursos, análisis y fiscalización.
 
-A su vez, la Tesorería, consolidará la información que se remitirá al Congreso para efectos de control legislativo del gasto.
+La Tesorería por conducto del Director de Contabilidad o el órgano administrativo de cada entidad serán responsables de la implementación oportuna de las decisiones que emita el Consejo Nacional de Armonización Contable, así como de la integración y publicación de inventarios y en general de las obligaciones que consigna dicho ordenamiento a cargo de la administración pública centralizada y paramunicipal.
+
+Las Juntas Auxiliares que administren recursos públicos serán responsables de la observancia de los lineamientos que dicte la Tesorería, a fin de cumplir con los objetivos de la Ley General de Contabilidad Gubernamental y que serán compatibles con los que emita el Consejo Nacional de Armonización Contable.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 314.
 
-La Tesorería emitirá las instrucciones sobre la forma y términos en que las entidades comprendidas en el Presupuesto de Egresos del Municipio, deban llevar sus registros auxiliares y contabilidad y, en su caso, rendirle sus informes y cuentas para fines de contabilidad y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad y podrá autorizar su modificación o simplificación, únicamente por lo que se refiere al gasto público del Presupuesto de Ingresos del Municipio que utilicen.
+Las unidades administrativas de cada Dependencia o Entidad serán responsables, en el ámbito de su competencia, de su propia contabilidad y de la operación del sistema basándose en los principios, normas contables generales y específicas, lineamientos e instrumentos que establezca el Consejo Nacional de Armonización Contable, y en lo particular de:
+
+I.- Observar el plan de cuentas del municipio, las normas contables y de emisión de información financiera y las relativas al registro, inventarios y valuación del patrimonio mobiliario e inmobiliario del Municipio con excepción de los bienes a que se refiere la Ley General de Contabilidad Gubernamental;
+
+II.- Observar las disposiciones generales respecto de la guarda y custodia de la documentación comprobatoria y justificativa de los registros contables que realicen los entes públicos, en apego al marco jurídico aplicable;
+
+III.- Actualizar las bases técnicas del sistema de contabilidad gubernamental en el que registrarán de manera armónica, delimitada y específica las operaciones presupuestarias y contables derivadas de la gestión pública, así como otros flujos económicos. Asimismo, generarán estados financieros, confiables, oportunos, comprensibles, periódicos y comparables, los cuales serán expresados en términos monetarios;
+
+IV.- Auxiliar al Tesorero en la elaboración de los manuales de contabilidad y ceñir su actuación a los mismos;
+
+V.- Auxiliar al Tesorero en la integración y consolidación de la información presupuestaria y contable; y
+
+VI.- Llevar a cabo la integración y análisis de los componentes de las finanzas públicas a partir de los registros contables y el proceso presupuestario, considerando los principales indicadores sobre la postura fiscal y los elementos de las clasificaciones de los ingresos y gastos.
 
 ###### Artículo 315.
 
@@ -4885,6 +5161,16 @@ Sin perjuicio de lo anterior los tribunales estatales del fuero común, serán c
 
 También será aplicable este ordenamiento en lo conducente, para regular las relaciones jurídicas entre particulares y el Municipio según el caso, respecto de bienes del dominio privado por lo que se refiere a su adquisición, enajenación, plazos de usucapión y características de inembargabilidad.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 343 Bis.
+
+El Presidente con el acuerdo de las dos terceras partes del Cabildo, podrá otorgar a los particulares, el uso y/o aprovechamiento de bienes de dominio público y privado para la instrumentación de proyectos para prestación de servicios a largo plazo.
+
+El contrato para la prestación de servicios a largo plazo podrá ejecutarse en bienes públicos, bienes de un tercero del sector privado o bienes del inversionista-proveedor.
+
+Si los bienes son del inversionista-proveedor o de un tercero del sector privado, al término del contrato, dichos bienes y los activos construidos en ellos pasarán a formar parte del patrimonio municipal.
+
 ###### Artículo 344.
 
 Son bienes del dominio privado:
@@ -5065,9 +5351,11 @@ Corresponde al Presidente o al titular del organismo de que se trate según el c
 
 Corresponde a la Sindicatura Municipal o al representante jurídico del organismo de que se trate según el caso, tomar las medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de los bienes del dominio público.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 367.
 
-Cuando a juicio del Síndico o del representante jurídico del organismo de que se trate, exista motivo suficiente que lo amerite, y sólo respecto de los bienes del dominio público, podrán abstenerse de dictar las resoluciones o de seguir los procedimientos a que se refieren los artículos 365 y 366 de este Código, y someter el asunto al conocimiento de los tribunales del fuero común. Dentro del procedimiento podrá solicitarse la ocupación administrativa de los bienes, de conformidad con lo establecido por el artículo 27 Constitucional. Los tribunales decretarán de plano la ocupación.
+Cuando a juicio del Síndico o del representante jurídico del organismo de que se trate, exista motivo suficiente que lo amerite, y sólo respecto de los bienes del dominio público, podrán abstenerse de dictar las resoluciones o de seguir los procedimientos a que se refieren los artículos 365 y 366 de este Código, y someter el asunto al conocimiento de los tribunales del fuero común. Previamente o dentro del procedimiento para la reivindicación de bienes podrá solicitarse ante Juez Civil del fuero común, la ocupación administrativa de los bienes, de conformidad con lo establecido por el artículo 27 Constitucional. Los tribunales decretarán de plano la ocupación y sin otorgamiento de garantía.
 
 #### SECCIÓN I. DE LA REVISIÓN
 
@@ -5567,6 +5855,518 @@ En los casos a que se refieren los dos artículos que anteceden, independienteme
 
 A los Notarios Públicos que autoricen actos o contratos en contra de las disposiciones de este ordenamiento, independientemente de la responsabilidad en que incurran, la SAU podrá sancionarlos con multa de veinte a cinco mil veces el salario mínimo general diario vigente para el Estado de Puebla.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO VIII. DE LAS CONCESIONES DE SERVICIOS PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 425.
+
+Las disposiciones del presente Capítulo tienen por objeto regular las concesiones para la prestación de servicios públicos que realice el Municipio de Puebla, así como las condiciones y procedimiento para su otorgamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 426.
+
+Para la substanciación y resolución de los procedimientos de nulidad, revocación, caducidad y rescate de las concesiones, será supletorio el Código de Procedimientos Civiles del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 427.
+
+Para efectos del presente Capítulo, se entiende por:
+
+I.- Caducidad.- Pérdida del derecho o prerrogativas por su falta de ejercicio o refrendo dentro del plazo señalado en el Título de Concesión;
+
+II.- Concedente.- Es así considerado el Municipio cuando otorga ciertas prerrogativas con obligaciones y derechos mediante concesión a determinada persona física o jurídica, una vez cumplidos los requisitos que establece el presente ordenamiento y disposiciones legales aplicables;
+
+III.- Concesionario.- Persona física o jurídica a quien es otorgada la concesión, estando sus actos referidos estrictamente a servicios públicos que se le hayan concesionado expresamente;
+
+IV.- Extinción de la Concesión.- Son los medios y causas por las cuales la concesión queda sin efectos, de modo natural por el cumplimiento de las obligaciones y condiciones derivadas del título de concesión o la naturaleza de la misma, o de modo voluntario o forzoso ante el incumplimiento de dichas obligaciones;
+
+V.- Plazo.- Lapso de tiempo en que el Municipio otorga en concesión la prestación de servicios públicos, atendiendo a su naturaleza;
+
+VI.- Renuncia.- Dimisión del concesionario a los derechos establecidos en el Título de Concesión, estando siempre condicionada a la aceptación por parte del concedente, atendiendo a la importancia y necesidades del servicio público en cuestión;
+
+VII.- Rescate.- Acto mediante el cual el Municipio, previo acuerdo del Ayuntamiento, recupera los servicios públicos que había otorgado en concesión por causas de utilidad pública;
+
+VIII.- Revocación.- Acto jurídico por el cual se deja sin efecto el otorgamiento de la concesión por falta de cumplimiento a las obligaciones contraídas por el concesionario;
+
+IX.- Tarifa.- Constituye el precio que deberá pagar el usuario por la prestación del servicio público concesionado, calculada sobre bases técnicas;
+
+X.- Título de Concesión.- Documento donde consta el otorgamiento en concesión de un servicio específico y determinado, así como la aceptación por parte del concesionario acerca de los derechos y obligaciones que implica la misma, de conformidad con el presente ordenamiento; y
+
+XI.- Usuarios.- Personas físicas o morales cuyos requerimientos de prestaciones van a ser directamente satisfechos con el servicio público concesionado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 428.
+
+Le corresponde al Ayuntamiento en materia de concesiones:
+
+I.- Otorgar concesiones para la prestación de los servicios públicos municipales;
+
+II.- Autorizar la suscripción de los títulos de concesión al Presidente y Secretario del Ayuntamiento, para la eficaz prestación de los servicios públicos;
+
+III.- Aprobar los términos, condiciones, plazos, prórrogas y modificaciones de las concesiones;
+
+IV.- Fijar las tarifas que deban cobrarse por la prestación del servicio público concesionado;
+
+V.- Aceptar o rechazar la renuncia de los derechos del concesionario;
+
+VI.- Fijar las condiciones que garanticen la conservación, mantenimiento, reparación y acondicionamiento de los bienes del dominio público cuando el servicio conlleve la concesión de un bien;
+
+VII.- Autorizar los casos en que se requiera interrumpir o suspender temporalmente, en todo o en parte, la explotación, uso o aprovechamiento del servicio público concesionado cuando ésta exceda de 72 horas;
+
+VIII.- Dictar las resoluciones de extinción de una concesión de conformidad con el presente ordenamiento y disposiciones legales aplicables; y
+
+IX.- Las demás que establezca la Ley Orgánica Municipal y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 429.
+
+Le corresponde al Presidente en materia de concesiones:
+
+I.- Celebrar a nombre y por acuerdo del Ayuntamiento, la suscripción de los títulos de concesión y documentos relativos a la misma;
+
+II.- Cumplir y hacer cumplir las disposiciones contenidas en el Título de Concesión; y
+
+III.- Las demás establecidas en el presente ordenamiento y disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 430.
+
+Le corresponde al Síndico en materia de concesiones:
+
+I.- Procurar y representar la defensa y promoción de los intereses municipales en materia del presente ordenamiento;
+
+II.- Vigilar que la prestación de los servicios que hayan sido otorgados en concesión se realicen bajo condiciones que garanticen la generalidad, suficiencia, permanencia, regularidad, continuidad y uniformidad informando de ello al Ayuntamiento mensualmente;
+
+III.- Conocer, sustanciar e integrar el procedimiento de revocación de una concesión, previos dictámenes técnicos que al efecto realicen las dependencias municipales; y
+
+IV.- Las demás establecidas en el presente ordenamiento y disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 431.
+
+Le corresponde a la Secretaría o Entidad Ejecutora en materia de concesiones:
+
+I.- Vigilar conjuntamente con la dependencia de la administración municipal del área respecto de la cual se haya otorgado la concesión, que la prestación de los servicios públicos se realice adecuadamente y en los términos del Título de Concesión otorgado;
+
+II.- Publicar las tarifas que deberán cobrarse por la prestación del servicio público concesionado;
+
+III.- Solicitar en cualquier momento, información al Concesionario respecto de la explotación del servicio concesionado;
+
+IV.- Informar semestralmente al Ayuntamiento con base en los dictámenes técnicos que emita la dependencia de la administración municipal del área respecto de la cual se haya otorgado la concesión, los resultados generales de la explotación de la concesión;
+
+V.- Emitir previa autorización del Presidente Municipal la aprobación por escrito y previa justificación, en los casos en que se requiera interrumpir o suspender temporalmente hasta por 72 horas en todo o en parte la explotación, uso o aprovechamiento del servicio público concesionado, previa opinión técnica que al efecto realicen las dependencias municipales involucradas, atendiendo al carácter de la concesión otorgada;
+
+VI.- Diseñar formatos e instructivos de convocatorias, bases de licitación y tablas comparativas de ofertas, así como aquellos documentos y procedimientos que se consideren procedentes; y
+
+VII.- Las demás establecidas en el presente ordenamiento y disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 432.
+
+Le corresponde a la Tesorería Municipal en materia de concesiones:
+
+I.- Elaborar en su caso, los dictámenes económicos y financieros que permitan conocer las mejores condiciones para el otorgamiento o extinción de una concesión;
+
+II.- Emitir dictamen técnico y financiero respecto de los montos e indemnizaciones que se paguen por el rescate de bienes que hayan sido otorgados en concesión;
+
+III.- Proponer las tarifas que deberán cobrarse por la prestación del servicio público concesionado, de conformidad con los dictámenes técnicos que al efecto realicen las dependencias municipales del área en la cual se pretende realizar una concesión; y
+
+IV.- Las demás establecidas en el presente ordenamiento y disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 433.
+
+Le corresponde al Comité Municipal de Adquisiciones, del Municipio de Puebla en materia de concesiones:
+
+I.- Conocer, sustanciar, integrar y resolver el procedimiento para el otorgamiento de una concesión, previo acuerdo del Ayuntamiento;
+
+II.- Celebrar los concursos y licitaciones públicas para el otorgamiento de títulos de concesión, de conformidad con este ordenamiento;
+
+III.- Publicar las convocatorias de licitación;
+
+IV.- Fijar las bases y porcentajes a los que deberán sujetarse las fianzas y garantías que deban constituir las personas físicas o morales que pretendan obtener la concesión de un servicio público; a efecto de asegurar la correcta explotación de la concesión, de conformidad con los dictámenes técnicos que al efecto realicen las dependencias municipales del área en la cual se pretende realizar una concesión; y
+
+V.- Emitir normas técnicas que le permitan adoptar sistemas, y requerir trámites que resulten necesarios para llevar a cabo los procedimientos señalados en el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 434.
+
+Se consideran servicios públicos que pueden ser otorgados en concesión:
+
+I.- El agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+
+II.- El alumbrado público;
+
+III.- La recolección, limpia, traslado, tratamiento y disposición final de residuos sólidos;
+
+IV.- Los mercados y centrales de abasto;
+
+V.- Los panteones;
+
+VI.- El rastro;
+
+VII.- Parques y jardines; y
+
+VIII.- Los demás que las leyes le confieran al Municipio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 435.
+
+Las concesiones de servicios públicos se otorgarán por tiempo determinado. El plazo de vigencia será fijado por el Ayuntamiento e incluido en el Título de Concesión, en forma tal, que durante ese lapso el concesionario amortice totalmente la inversión que deba hacer en razón directa del servicio público de que se trate.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 436.
+
+El plazo de la concesión podrá ser prorrogado por el Ayuntamiento, cuando el concesionario hubiere cumplido cabalmente con las obligaciones derivadas de la concesión y el Municipio no se resuelva a prestar o explotar directamente el servicio público de que se trate.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 437.
+
+Los servicios públicos podrán ser otorgados en concesión por el Ayuntamiento cuando cumplan con los siguientes requisitos:
+
+I.- Exista justificación técnica, jurídica y financiera para la conveniencia y posibilidad de otorgar la concesión;
+
+II.- Exista justificación de la obtención para una mejor prestación en el servicio y beneficios directos en el patrimonio municipal; y
+
+III.- Los demás que determine el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 438.
+
+Podrán otorgarse concesiones a personas físicas o jurídicas extranjeras cuando no exista una persona física o jurídica nacional con capacidad técnica y financiera, que pueda prestar el servicio o explotación, uso y aprovechamiento en las condiciones requeridas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 439.
+
+Las concesiones no podrán en ningún caso otorgarse a:
+
+I.- Los miembros del Ayuntamiento;
+
+II.- Los titulares de las dependencias, direcciones, organismos descentralizados, o representaciones de la administración pública federal, estatal o municipal;
+
+III.- Los cónyuges, parientes consanguíneos en línea directa sin limitación de grado, colaterales y afines hasta el segundo grado y civiles de las personas a las que se refieren las fracciones I y II del presente artículo;
+
+IV.- Las personas físicas o jurídicas que en los últimos cinco años se les haya revocado otra concesión, así como aquéllas en que sean representantes o tengan intereses económicos; y
+
+V.- Las demás personas físicas o jurídicas que por disposición de ley se encuentren impedidas.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 440.
+
+Los servicios públicos podrán ser concesionados junto con bienes del dominio público cuando así se requiera.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 441.
+
+Las concesiones no podrán ser objeto en todo o en parte de subconcesión, arrendamiento, comodato, gravamen o cualquier acto jurídico por virtud del cual una persona distinta al concesionario goce de los derechos derivados de tales concesiones.
+
+Cualquier operación que se realice en contravención por lo dispuesto en el Título de Concesión respectivo, el presente ordenamiento o la Ley Orgánica Municipal, será nula de pleno derecho y el concesionario perderá en favor del Municipio los derechos y frutos que deriven de la concesión y los bienes afectos a ella.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 442.
+
+Los actos jurídicos y administrativos que realicen los concesionarios no podrán considerarse como una función pública, ni su personal será considerado como servidores públicos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 443.
+
+El concesionario previamente a la prestación del servicio público deberá tramitar y obtener de las autoridades, los dictámenes, permisos, licencias y demás autorizaciones que se requieran para la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 444.
+
+En los casos de extrema urgencia, fuerza mayor o cuando el concesionario no preste eficazmente el servicio concesionado, o se niegue a seguir prestándolo, el Municipio podrá prestarlo temporal o permanentemente, pudiendo sancionar, atendiendo a las circunstancias y condiciones del caso. El Municipio podrá hacer uso de la fuerza pública cuando proceda y se justifique.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 445.
+
+El otorgamiento de las concesiones municipales se regirá bajo los siguientes lineamientos:
+
+I.- Necesidad por mejorar la eficiencia en la prestación del servicio o beneficio de las finanzas públicas municipales, o bien ante la imposibilidad de prestar directamente el servicio o actividad de que se trate;
+
+II.- Se logren fijar las condiciones que garanticen la generalidad, suficiencia, permanencia, regularidad, continuidad y uniformidad en el servicio público;
+
+III.- Se determinen procedimientos, métodos, mecanismos de actualización y responsabilidad que aseguren la atención del interés colectivo y la protección de la propiedad pública municipal; y
+
+IV.- Las demás que fueren necesarias para una eficaz prestación del servicio público concesionado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 446.
+
+Son derechos del concesionario:
+
+I.- Cobrar las tarifas o cuotas autorizadas por la prestación del servicio otorgado;
+
+II.- Usar, explotar y aprovechar los bienes del dominio público otorgados en los términos del Título de Concesión;
+
+III.- Proponer al Municipio los montos y actualización de tarifas;
+
+IV.- Ser indemnizado, cuando así se determine, tanto por la inversión efectuada como por la privación del plazo en el caso de rescate; y
+
+V.- Las demás que se establezcan en el Título de Concesión respectivo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 447.
+
+Son obligaciones del concesionario:
+
+I.- Tramitar y obtener las autorizaciones que se requieran para la prestación del servicio público;
+
+II.- Explotar a título personal los derechos derivados de la concesión;
+
+III.- Presentar las fianzas y garantías por todo el tiempo que dure la concesión, respecto de las finanzas, recursos humanos y materiales para la correcta prestación del servicio público concesionados en las condiciones requeridas;
+
+IV.- Realizar las obras necesarias para la prestación del servicio público o explotación, uso y aprovechamiento de los bienes, en los plazos y términos contenidos en el Título de Concesión;
+
+V.- Prestar el servicio público sujetándose estrictamente a los términos del Título de Concesión y al presente ordenamiento, y disponiendo del equipo, personal e instalaciones adecuadas para cubrir las demandas del servicio público concesionado;
+
+VI.- Mantener en óptimas condiciones las obras e instalaciones afectadas o dedicadas al servicio público concesionado, así como renovar y modernizar el equipo necesario, conforme a los adelantos técnicos;
+
+VII.- Cumplir con los horarios aprobados para la prestación del servicio público;
+
+VIII.- No ceder, traspasar o gravar el equipo destinado a la concesión sin consentimiento del Ayuntamiento;
+
+IX.- Exhibir las tarifas autorizadas de conformidad con el presente ordenamiento;
+
+X.- Guardar y custodiar los bienes destinados al servicio público, cuando se extinga la concesión hasta en tanto el Municipio tome posesión real de los mismos;
+
+XI.- Remitir la información que le solicite la Secretaría de Administración; y
+
+XII.- Las demás que determine el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 448.
+
+Los usuarios tienen derecho a que el servicio público concesionado se preste en forma regular, continua y permanente, cumpliendo con las condiciones establecidas en el Título de Concesión.
+
+Los usuarios tienen el derecho de denunciar ante la autoridad municipal cualquier irregularidad en la prestación del servicio público, así como proponer las medidas que estimen convenientes para mejorar la prestación de los servicios públicos.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 449.
+
+El Procedimiento para la obtención de concesiones por parte del Municipio se sustanciará de la manera siguiente:
+
+I.- Podrán presentar ante el Ayuntamiento, petición para concesionar un servicio público, el Presidente Municipal, los Regidores, los Titulares de las dependencias o las personas físicas o morales interesadas en la obtención de una concesión, dicha petición se presentará a través de la Secretaría del Ayuntamiento;
+
+II.- En caso de que el Ayuntamiento determine favorable el otorgamiento en concesión de determinado servicio público, total o parcialmente, se instruirá a la Secretaría o Entidad Ejecutora a efecto de instrumentar el procedimiento respectivo;
+
+III.- Cuando la resolución del Ayuntamiento sea la de no otorgar en concesión determinado servicio se ordenará notificar por escrito al peticionario;
+
+IV.- La Secretaría o Entidad Ejecutora sustanciará y solicitará los dictámenes técnicos a las áreas y dependencias de la administración municipal o mediante consultorías externas cuando el caso lo requiera;
+
+V.- Una vez concluidos los estudios y dictámenes técnicos, la Secretaría o Entidad Ejecutora, realizará la convocatoria respectiva de conformidad con este ordenamiento; y
+
+VI.- El Comité Municipal de Adjudicaciones del Municipio de Puebla resolverá de conformidad con este ordenamiento al ganador.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 450.
+
+La convocatoria que se emita para el otorgamiento de una concesión, deberá por lo menos contener:
+
+I.- La determinación de los requisitos exigibles o del régimen a que se sujetará la concesión, término, vigilancia, causas de extinción, así como las demás formas y condiciones para garantizar la adecuada prestación del servicio o actividad respectiva;
+
+II.- Especificación de las condiciones bajo las cuales se garantice la generalidad, suficiencia y regularidad del servicio;
+
+III.- Condiciones bajo las que se recibirán las fianzas y garantías a cargo del peticionario a favor del Municipio o usuarios en su caso, a fin de asegurar la correcta prestación del servicio;
+
+IV.- Señalamiento del centro de población, región o zona donde vaya a prestarse el servicio público; y
+
+V.- Las demás que determine el Comité de Adquisiciones del Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 451.
+
+Los gastos que demanden los estudios y dictámenes técnicos, jurídicos y financieros, deberán ser contemplados dentro del costo final al pago de derechos de la concesión.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 452.
+
+El Título de Concesión deberá especificar al menos lo siguiente:
+
+I.- Nombre y domicilio del concesionario;
+
+II.- Identificación del bien o servicio concesionado;
+
+III.- Identificación del centro de población o región donde se prestará el servicio público concesionado;
+
+IV.- Número de concesionarios;
+
+V.- Plazo, términos y condiciones;
+
+VI.- Fecha de pago de los derechos u obligaciones que se deriven de la concesión;
+
+VII.- El plazo en el que el concesionario está obligado a iniciar la prestación del servicio público;
+
+VIII.- Requisitos y las condiciones en caso de prórroga;
+
+IX.- Derechos y obligaciones a cargo del concesionario, incluyendo en su caso, las contraprestaciones y modalidades;
+
+X.- Las condiciones y calidad técnica con que deberá prestarse;
+
+XI.- Las garantías y fianzas que resulten de la naturaleza del servicio;
+
+XII.- El régimen tarifario, especificando el mecanismo o las fórmulas para su determinación o ajuste;
+
+XIII.- Las regulaciones ambientales que en su caso se consideren necesarias;
+
+XIV.- Las sanciones aplicables en caso de incumplimiento;
+
+XV.- Causas de extinción; y
+
+XVI.- Las demás que se consideren necesarias y aplicables atendiendo a la naturaleza del servicio público otorgado en concesión.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 453.
+
+Las tarifas se determinarán siempre sobre bases técnicas que permitan al concesionario obtener utilidades dentro del término de vigencia de la misma, así como realizar nuevas inversiones en equipo y material para la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 454.
+
+La tarifa quedará especificada en el Título de Concesión y los aumentos o disminuciones se harán en los términos y en las proporciones especificadas en el mismo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 455.
+
+Las dependencias de la administración municipal y/o los concesionarios podrán solicitar la revisión de las tarifas o cuotas, cuando consideren que no se garantiza el equilibrio financiero para la eficaz prestación de los servicios públicos concesionados.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 456.
+
+Las tarifas deberán exhibirse en lugar visible y de forma permanente en el bien o lugar de prestación de servicio.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 457.
+
+La concesión se extinguirá por cualquiera de las siguientes causas:
+
+I.- Cumplimiento del plazo señalado para su vigencia;
+
+II.- Falta de objeto o materia de la concesión;
+
+III.- Mutuo acuerdo entre concedente y concesionario;
+
+IV.- Renuncia del concesionario, salvo en los casos en que no sea aceptada;
+
+V.- Expropiación;
+
+VI.- Rescate;
+
+VII.- Revocación;
+
+VIII.- Caducidad;
+
+IX.- Destrucción, agotamiento o desaparición de los elementos necesarios para el ejercicio de la concesión;
+
+X.- Liquidación, fusión o escisión de la persona jurídica a la cual fue otorgada la concesión;
+
+XI.- Declaración de ausencia, presunción de muerte o muerte del concesionario; y
+
+XII.- Cualquier otra prevista en las leyes, ordenamientos, disposiciones administrativas o en el Título de Concesión, que a juicio del Ayuntamiento haga imposible o inconveniente su continuación.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 458.
+
+La revocación de las concesiones podrá decretarse administrativamente y en cualquier tiempo por el Ayuntamiento; son causas de revocación de la concesión, sin responsabilidad para el Municipio:
+
+I.- Cuando se preste el servicio en forma diversa a la señalada en el Título de Concesión;
+
+II.- Cuando no se preste suficiente, regular y eficientemente el servicio concesionado, causando perjuicio al Municipio o a los usuarios;
+
+III.- Cuando se deje de cumplir con el fin para el que fue otorgada la concesión;
+
+IV.- Cuando no se use el bien de acuerdo a lo dispuesto por el Título de Concesión;
+
+V.- Cuando se interrumpa temporalmente, todo o parte de la prestación del servicio público concesionado, sin causa justificada o previa autorización por escrito de la Secretaría de Administración, salvo caso fortuito o fuerza mayor;
+
+VI.- Cuando se ceda, hipoteque, enajene o de cualquier manera se grave o transmita la concesión o algunos de los derechos derivados del Título de Concesión;
+
+VII.- Cuando se deje de cumplir con las obligaciones del concesionario y condiciones derivadas del Título de Concesión y del presente ordenamiento;
+
+VIII.- Cuando se dejen de pagar en forma oportuna los derechos o productos que se hayan fijado en el Título de Concesión;
+
+IX.- Cuando se realicen obras no autorizadas;
+
+X.- Cuando se causen daños al ecosistema y al medio ambiente como consecuencia del uso, aprovechamiento o explotación del servicio;
+
+XI.- Cuando quien deba prestar el servicio, no esté capacitado o carezca de los elementos materiales, técnicos y financieros para su prestación;
+
+XII.- Cuando el concesionario, no conserve ni mantenga los bienes e instalaciones en buen estado o cuando éstos sufran deterioro e impidan la prestación normal del servicio, por su negligencia, descuido o mala fe;
+
+XIII.- Cuando el concesionario no otorgue la garantía o fianza que le sea fijada con motivo de la prestación del servicio; y
+
+XIV.- Por cualquier otra causa análoga o igualmente grave que hagan imposible la prestación del servicio a juicio del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 459.
+
+Las concesiones caducan cuando no se hayan ejercitado dentro del plazo fijado para tal efecto o cuando debiendo renovarse no se hubiera hecho.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 460.
+
+En el caso en que el Ayuntamiento declare la revocación o caducidad de una concesión, por causa imputable al concesionario, el servicio público o los bienes materia de la concesión, sus mejoras y accesorios revertirán de pleno derecho al Municipio, sin pago de indemnización alguna al concesionario.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 461.
+
+El Procedimiento para la revocación y caducidad de las concesiones se sustanciará de la manera siguiente:
+
+I.- Se iniciará de oficio por el Municipio;
+
+II.- El Municipio notificará la iniciación del procedimiento al concesionario, a efecto de que manifieste lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes en un plazo de 10 días hábiles;
+
+III.- Se practicarán los estudios respectivos y se formulará el dictamen técnico que verse sobre la procedencia o improcedencia de la revocación y caducidad;
+
+IV.- Concluido lo anterior, el Ayuntamiento acordará fundando y motivando lo correspondiente; y
+
+V.- En el caso de que se revoque o declare la caducidad de una concesión, el concesionario podrá interponer los medios de impugnación previsto en la Ley Orgánica Municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 462.
+
+Contra los actos y resoluciones de las autoridades encargadas de la aplicación del presente Capítulo procede el recurso de inconformidad previsto en la Ley Orgánica Municipal.
+
 ## ARTÍCULOS TRANSITORIOS
 
 Transitorios generales
@@ -5702,3 +6502,13 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 ###### ARTÍCULO SEGUNDO.
 
 Las exenciones otorgadas al amparo de las disposiciones que se reforman, surtirán sus efectos por el término que se haya estipulado en los acuerdos o convenios respectivos.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- La aplicación de las disposiciones de este Decreto relacionadas a la aplicación de la Ley General de Contabilidad Gubernamental, dependerán del cumplimiento de los plazos y cargas a que se refieren los diversos transitorios del Decreto que crea el referido ordenamiento federal.
+
+CUARTO.- Para efectos de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Sector Público Estatal y Municipal, deberá entenderse que en los casos en que las asociaciones público privadas involucren esquemas complejos de financiamiento público, la intervención congresional será para los efectos de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, lo que implica la afectación de futuras partidas presupuestales destinadas a la amortización de la deuda, en los casos en que no se relacionen operaciones de financiamiento, regirá el principio de libertad de gasto, y por ende, será la mayoría calificada del Cabildo el único requisito exigible para la validez de las asociaciones.
