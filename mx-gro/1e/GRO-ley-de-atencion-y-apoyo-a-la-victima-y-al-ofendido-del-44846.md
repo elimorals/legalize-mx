@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-atencion-y-apoyo-a-la-victima-y-al-ofendido-del-44846"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-16"
-last_updated: "2004-11-16"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE ATENCION Y APOYO A LA VICTIMA Y AL OFENDIDO DEL DELITO PARA EL ESTADO DE GUERRERO NUMERO 368
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 16 de noviembre de 2004.
 
@@ -49,13 +49,19 @@ Las disposiciones de esta ley son de orden público, interés social y de observ
 
 La presente Ley tendrá como objeto establecer las medidas de atención y apoyo a la víctima o al ofendido del delito, así como garantizar el ejercicio de sus derechos.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 3.
 
-La aplicación de esta Ley, le corresponde a la Procuraduría General de Justicia del Estado, a la Secretaría de Salud; al Sistema Estatal para el Desarrollo Integral de la Familia y a la Secretaría de Seguridad Pública y Protección Ciudadana.
+La aplicación de esta Ley, le corresponde a la Procuraduría General de Justicia del Estado, a la Secretaría de Salud; al Sistema Estatal para el Desarrollo Integral de la Familia y a la Secretaría de Seguridad Pública y Protección Civil.
 
 ###### ARTICULO 4.
 
 La Procuraduría General de Justicia del Estado, a través de la Subprocuraduría Jurídica y de Atención a Víctimas del Delito, será la autoridad responsable de vigilar que la víctima o el ofendido por algún delito reciba asesoría jurídica, atención médica, psicológica y orientación social cuando lo requiera, así como ejecutar el Programa de Atención y Apoyo a la Víctima y al Ofendido del Delito en el Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+El agente del Ministerio Público al momento de recibir la denuncia o querella deberá garantizarle a la víctima u ofendido del delito, atención médica y psicológica de emergencia, informarle sobre sus derechos, proporcionar la asesoría jurídica que solicite, hacer de su conocimiento las pruebas que podrá aportar y los recursos que puede hacer valer, la coadyuvancia a que tiene derecho y otorgarle las medidas de protección y seguridad que requiera.
 
 ###### ARTICULO 5.
 
@@ -81,9 +87,11 @@ La víctima o el ofendido del delito gozarán, sin distinción alguna, de las mi
 
 ### CAPITULO III. DE LOS DERECHOS DE LA VICTIMA O DEL OFENDIDO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 10.
 
-La víctima o el ofendido por la comisión de un delito, en términos del artículo 20 Apartado B de la Constitución Política de los Estados Unidos Mexicanos, tendrá los siguientes derechos:
+La víctima o el ofendido por la comisión de un delito, en términos del artículo 19 y 20 Apartado C de la Constitución Política de los Estados Unidos Mexicanos, tendrá los siguientes derechos:
 
 I. Ser enterado oportunamente de los derechos que en su favor establece la Constitución;
 
@@ -103,7 +111,9 @@ VIII. Recibir atención médica y psicológica de urgencia;
 
 IX. Exigir al Ministerio Público solicite la reparación del daño en los casos procedentes;
 
-X. Comparecer a declarar en las condiciones que establezca la Ley sin estar obligado a carearse con el inculpado, cuando la víctima o el ofendido de los delitos de violación o secuestro sea menor de edad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+X. Comparecer a declarar en las condiciones que establezca la Ley sin estar obligado a carearse con el inculpado, cuando la víctima o el ofendido de los delitos de violación, trata de personas o, secuestro sea menor de edad o mujer;
 
 XI. Solicitar las medidas y providencias para proteger su vida, integridad física y moral, bienes, posesiones o derechos, incluyendo los de sus familiares directos y de los testigos en su favor, contra todo acto de intimidación y represalia o bien cuando existan datos suficientes que demuestren que éstos pudieran ser afectados por los probables responsables del delito o por terceros implicados;
 
@@ -163,9 +173,17 @@ I. La Procuraduría General de Justicia del Estado;
 
 II. La Secretaría de Salud;
 
-III. El Sistema Estatal para el Desarrollo Integral de la Familia, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-IV. La Secretaría de Seguridad Pública y Protección Ciudadana.
+III. El Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV. La Secretaría de Seguridad Pública y Protección Civil; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+V. El Tribunal Superior de Justicia del Estado.
 
 ###### ARTICULO 14.
 
@@ -179,7 +197,9 @@ III. Dar atención médica y psicológica de urgencia, gestionando aquélla que 
 
 IV. Solicitar la reparación del daño a favor de la víctima o del ofendido, en los casos en que ésta proceda;
 
-V. Solicitar las medidas precautorias de protección a la víctima o del ofendido en los casos en que se amerite;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+V. Solicitar las medidas de protección a la víctima o al ofendido con especial atención a mujeres y menores víctimas de violencia;
 
 VI. Informar y asesorar clara y oportunamente, a la víctima o al ofendido sobre el estado, avance y medidas a implementar en el procedimiento;
 
@@ -215,9 +235,17 @@ La Secretaría de Salud deberá contar en los Hospitales Generales del Estado, c
 
 El Sistema Estatal para el Desarrollo Integral de la Familia, proporcionará asesoría y protección a adultos mayores, menores de edad y personas con capacidades diferentes que sean víctimas u ofendidos del delito. Asimismo coadyuvará con el Ministerio Público en el desarrollo de los procedimientos.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 22.
 
-La Secretaría de Seguridad Pública y Protección Ciudadana deberá informar de inmediato a la víctima y al ofendido sobre la liberación por cualquier modalidad o de la fuga del inculpado, procesado o sentenciado.
+La Secretaria de Seguridad Pública y Protección Civil deberá informar de inmediato a la víctima y al ofendido sobre la liberación por cualquier modalidad o de la fuga del inculpado, procesado o sentenciado.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 22 Bis.
+
+. El Tribunal Superior de Justicia, por conducto de los Jueces de Primera Instancia en materia penal, sin violentar la imparcialidad que prevalece en su función de impartir justicia, dentro del procedimiento penal, vigilarán de oficio que los derechos de las víctimas u ofendidos del delito no sean violentados y en caso de percatarse de alguna violación, notificarán de inmediato al Agente del Ministerio Público adscrito al Juzgado, a fin de que atienda dicha situación.
 
 ###### ARTICULO 23.
 
@@ -271,7 +299,9 @@ II. La Secretaría de Salud;
 
 III. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-IV. La Secretaría de Seguridad Pública y Protección Ciudadana;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV. La Secretaría de Seguridad Pública y Protección Civil;
 
 V. La Secretaría de Desarrollo Social;
 
@@ -376,3 +406,11 @@ El Secretario General de Gobierno.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
