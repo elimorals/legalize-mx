@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2010-11-30"
+last_updated: "2010-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -39,9 +39,13 @@ CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
 ## TITULO PRELIMINAR. Disposiciones sobre la Ley en general
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1.
 
 Las disposiciones de este título, salvo precepto expreso en contrario, son comunes a todo el Derecho Positivo del Estado de Quintana Roo, y las de este Código son supletorias, en lo conducente, de las demás leyes quintanarroenses.
+
+Las disposiciones de este Código que se refieran a la familia son de orden público, de observancia obligatoria y de carácter social y tutelares fundamentalmente de la mujer, de las personas menores de edad, de los mayores discapacitados y de los adultos mayores.
 
 ###### Artículo 2.
 
@@ -2625,7 +2629,9 @@ Son nulos los negocios jurídicos celebrados por los menores emancipados con inf
 
 El matrimonio del menor produce de pleno derecho la emancipación, y por su efecto se extingue la patria potestad, en la que por lo tanto no recaerá el menor aunque su matrimonio se disuelva, antes de la mayoridad.
 
-### CAPITULO TERCERO. De la incapacidad
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO III (SIC). De la incapacidad
 
 ###### Artículo 529.
 
@@ -2635,7 +2641,9 @@ I.- Los menores de edad;
 
 II.- Los mayores de edad enumerados en los siguientes incisos de esta fracción;
 
-a) Los privados de inteligencia por locura, idiotismo o imbecilidad, aunque tengan intervalos lúcidos;
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+a) Que por causa de enfermedad reversible, o por su estado particular de incapacidad, ya sea de carácter físico, sensorial, intelectual, emocional, mental o varias de ellas a la vez, no pueden gobernarse, obligarse o manifestar su voluntad, por si mismos o por algún medio que la supla;
 
 b) Los sordomudos que no sepan darse a entender por escrito o, mediante intérprete, por el lenguaje mímico en que se imparte instrucción escolar a los de su clase; y
 
@@ -2988,6 +2996,16 @@ La ley protege, en los términos de este capítulo, no sólo el estado civil, si
 ###### Artículo 602.
 
 Se entiende por estado civil de una persona su situación jurídica concreta que la misma guarda en relación con la familia, como miembro de ésta.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 602 bis.- La familia es una institución social, permanente, compuesta por un conjunto de personas unidas entre sí a partir del vínculo jurídico del matrimonio o por el estado jurídico del concubinato; por el parentesco de consanguinidad, adopción, afinidad, o por una relación de hecho, donde sus miembros gocen de una autonomía e independencia personal.
+
+Las relaciones familiares constituyen un conjunto de deberes, derechos y obligaciones de los miembros del núcleo familiar, pero en ningún caso pueden implicar sumisión de un género hacia otro.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 602 ter.- El Estado de Quintana Roo reconoce a la familia como fundamento primordial de la sociedad y garantiza la protección de la misma en su constitución y autoridad, como la base necesaria del orden social, indispensable para el desarrollo y bienestar del Estado, fomentando un ambiente democrático, de respeto y libre de violencia.
 
 ###### Artículo 603.
 
@@ -3421,6 +3439,8 @@ La sentencia ejecutoriada dictada en cualquiera de los juicios a que se refiere 
 
 #### SECCION PRIMERA. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO DECIMO. Derechos de la personalidad
 
 ###### Artículo 666.
@@ -3693,37 +3713,61 @@ Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo 
 
 El matrimonio celebrado fuera del Estado de Quintana Roo, pero dentro de la República y que sea válido con arreglo a las leyes del lugar en que se celebró, surte todos los efectos civiles en el Estado de Quintana Roo.
 
-### CAPITULO TERCERO. De los efectos del matrimonio con relación a las personas de los cónyuges y a sus hijos
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO III (SIC). De los efectos del matrimonio con relación a las personas de los cónyuges y a sus hijos
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 705.
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales y conjuntamente deben regular los asuntos domésticos y proveer a la educación de los hijos.
+Los cónyuges tendrán en el hogar autoridad y consideraciones iguales y conjuntamente deben regular los asuntos domésticos y proveer a la educación de los hijos, en los mismos niveles de igualdad de actividades, asimismo procurarán en todo momento un ambiente de respeto y bienestar, evitando cualquier acto de violencia familiar.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 706.
 
-Los cónyuges deben vivir juntos en el domicilio conyugal y están obligados a respetarse, a guardarse fidelidad y a contribuir cada uno a los fines del matrimonio.
+Los cónyuges deben vivir juntos en el domicilio conyugal, siempre y cuando no exista ningún tipo de violencia y están obligados a respetarse en su integridad física, psicoemocional, sexual, y económica, y a contribuir cada uno a los fines del matrimonio.
 
 ###### Artículo 707.
 
 Los cónyuges de común acuerdo y de manera libre, responsable e informada decidirán el número de sus hijos, y la diferencia de edad entre ellos.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 708.
 
-El marido está obligado a sufragar todos los gastos para el sostenimiento del hogar y la educación de los hijos.
+Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades, libre de patrones de género estereotipados. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en Cuyo caso, el otro atenderá íntegramente a esos gastos.
 
-Si la mujer trabaja y obtiene sueldos o ganancias o si es propietaria de bienes productivos, de común acuerdo el marido y la mujer decidirán si ésta contribuye al sostenimiento del hogar y a la educación de los hijos y la importancia de su contribución.
+Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar considerando que el trabajo domestico es igual a cualquier aportación en numerario.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 708 BIS.- Los cónyuges podrán desempeñar cualquier empleo, ejercer una profesión, industria, oficio o comercio, que tutelen un ambiente de respeto, de desarrollo y bienestar del núcleo familiar y personal de los individuos que la componen.
+
+Sólo puede oponerse uno de los cónyuges a que el otro realice la actividad que desempeñe, cuando ésta dañe manifiesta y claramente a la familia o la ponga en peligro o riesgo inminente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 708 TER.- El trabajo realizado en el domicilio conyugal, por cualquiera de los cónyuges en su caso, tendrá el valor equivalente de lo que en dinero entregue como gasto diario el otro cónyuge, lo cual se considerará como aportación en numerario al sostenimiento de la familia.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 709.
 
-Si el marido está imposibilitado para trabajar y carece de bienes, la esposa sufragará todos los gastos del hogar y de la educación de los hijos.
+Si uno de los cónyuges está imposibilitado para trabajar y carece de bienes, el otro cónyuge sufragará todos los gastos del hogar y de la educación de los hijos.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 710.
 
-El marido y la mujer mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que les correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa ni ésta de la autorización de aquél.
+Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que les correspondan, sin que para tal objeto necesite uno de los cónyuges del consentimiento del otro, salvo que sean bienes de la sociedad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 711.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+Los cónyuges menores de edad, tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
 
 ###### Artículo 712.
 
@@ -3741,27 +3785,33 @@ La autorización, a que se refieren los artículos anteriores, no se concederá 
 
 El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 716.
 
-El marido y la mujer, durante el matrimonio, no podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+Los cónyuges, durante el matrimonio, no podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 717.
 
-Cualquier disensión que surja entre los esposos con motivo del ejercicio de los derechos a que se refieren los artículos 705 y 706 o en cualquiera otra situación similar, será dirimida por el Juez de Primera Instancia del lugar del domicilio conyugal, quien en todo caso, y previamente, procurará avenir a los disidentes y si no lo consigue resolverá, sin forma de juicio, dictando la resolución en la misma acta que se levante para hacer constar la comparecencia de los interesados y lo que al respecto exponga cada uno de ellos.
+Cualquier disensión que surja entre los cónyuges con motivo del ejercicio de los derechos a que se refieren los artículos 705 y 706 o en cualquiera otra situación similar, el Juez de Primera Instancia del lugar del domicilio conyugal, con excepción de los casos de violencia familiar remitirá la controversia al Centro de Justicia Alternativa, en observancia a lo dispuesto por el capítulo primero del Título Sexto del Código de Procedimientos Civiles para el Estado de Quintana Roo.
+
+En ningún caso se favorecerá que existan prácticas de sumisión y dependencia de un género hacia otro, o prácticas de obediencia entre los cónyuges, y sí existiera violencia de género o familiar, deberá sin dilación alguna dictar las medidas precautorias y ordenes de protección que correspondan.
 
 ###### Artículo 718.
 
 Si el Juez consigue el avenimiento no se procederá al levantamiento del acta.
 
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO TERCERO (SIC). De los efectos del matrimonio con relación a los bienes de quienes lo contraen
+### CAPÍTULO IV. De los efectos del matrimonio con relación a los bienes de quienes lo contraen
 
 #### SECCION SEGUNDA. De la comunidad de bienes
 
 ###### Artículo 719.
 
-Las personas que vayan a contraer matrimonio deben manifestar, en el acto de la celebración de éste, si optan por el régimen de separación de bienes o por el de comunidad de los mismos, en la inteligencia de que si omiten hacerlo, se les tendrá por casados bajo este último régimen.
+Las personas que vayan a contraer matrimonio deben manifestar, en el acto de la celebración de éste, si optan por el régimen de separación de bienes o por el de comunidad de los mismos, en la inteligencia de que si omiten hacerlo, se les tendrá por casados bajo el régimen de separación de bienes.
 
 ###### Artículo 720.
 
@@ -3809,9 +3859,11 @@ El régimen de comunidad de bienes consiste en la formación y administración d
 
 La comunidad de bienes es una persona jurídica cuya capacidad nace desde la celebración del matrimonio.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 730.
 
-La comunidad de bienes termina con la disolución del matrimonio, o antes de ésta, por convenio de los cónyuges o por resolución judicial.
+La comunidad de bienes termina con la disolución del matrimonio, o antes de ésta, por convenio, a petición expresa de los cónyuges o por resolución judicial.
 
 ###### Artículo 731.
 
@@ -3839,9 +3891,11 @@ Son propios de cada cónyuge los bienes de que se es dueño al celebrarse el mat
 
 Son bienes propios de cada cónyuge, los bienes adquiridos por efecto de una condición, cuyo cumplimiento se realiza durante el matrimonio, pero estipulada antes.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 737.
 
-Son bienes propios también los que durante el matrimonio adquiera cada cónyuge por donación, herencia o legado constituido a favor de uno solo de ellos; pero si la donación es onerosa, las cargas serán por cuenta exclusiva del donatario.
+Son bienes propios también los que durante el matrimonio adquiera cada cónyuge por donación, fortuna, herencia o legado constituido a favor de uno solo de ellos; pero si la donación es onerosa, las cargas serán por cuenta exclusiva del donatario.
 
 ###### Artículo 738.
 
@@ -3851,9 +3905,13 @@ Son propios los bienes adquiridos a título oneroso, con dinero proveniente de l
 
 Si se enajena un bien propio de uno de los cónyuges, y el dinero obtenido con la enajenación no se emplea para adquirir otro bien cierto y determinado, al liquidarse la comunidad se considerará el importe de la enajenación como un crédito a cargo de ésta y a favor del cónyuge que fue propietario del bien enajenado.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 740.
 
 Son bienes propios de cada cónyuge también las pensiones que se venzan durante el matrimonio, derivadas de una renta vitalicia constituida antes de él.
+
+Asimismo, son bienes propios los de uso personal y los instrumentos necesarios para el ejercicio de la profesión, arte u oficio, salvo cuando éstos integren o pertenezcan a un establecimiento o explotación de carácter común.
 
 ###### Artículo 741.
 
@@ -3913,9 +3971,11 @@ Serán también propios de cada uno de los consortes los salarios, sueldos, emol
 
 Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en ese caso el que administre será considerado como mandatario.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 755.
 
-Ni el marido podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de los bienes del impedido, tendrá derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produjere.
+En ninguno de los regímenes patrimoniales del matrimonio, los cónyuges podrán cobrarse, retribución u honorario alguno por los servicios personales que le prestare o por los consejos y asistencia que le diere; pero si uno de los cónyuges, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de los bienes del impedido, tendrá derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produjere.
 
 ###### Artículo 756.
 
@@ -4041,13 +4101,19 @@ La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dent
 
 La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contado desde que se celebró el nuevo matrimonio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 778.
 
-El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
+El miedo y la violencia física o moral serán causa de nulidad del matrimonió si concurren las circunstancias siguientes:
 
-I.- Que la violencia productora del miedo importe peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-II.- Que el miedo haya sido causado por violencia hecha al contrayente o a la persona o personas que lo tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
+I.- Que la violencia física o moral productora del miedo importe peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+II.- Qué el miedo haya sido causado por violencia física ó moral hecha al contrayente o a la persona o personas que lo tienen bajó su patria potestad o tutela al celebrarse el matrimonio; a sus demás ascendientes, a sus descendientes, hermanos o colaterales hasta el cuarto grado, y
 
 III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
@@ -4119,9 +4185,13 @@ Declarada la nulidad del matrimonio, se observarán respecto de las donaciones a
 
 I.- Las hechas por un tercero a los cónyuges podrán ser revocadas;
 
-II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-III.- Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes;
+II.- Lasque hizo el cónyuge que obró de buena fe al que obró de mala fe, quedarán sin efecto y las cosas que fueron objeto de ellas, se devolverán al donante con todos sus productos;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III.- Las hechas al cónyuge que obró de buena fe por el cónyuge que obró de mala fe, quedarán subsistentes;
 
 IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos y si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
 
@@ -4161,31 +4231,47 @@ La disolución por divorcio del vínculo matrimonial es de estricto derecho y s�
 
 Son causas de divorcio:
 
-I.- El adulterio de alguno de los cónyuges;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+I.- El adulterio debidamente acreditado de alguno de los cónyuges;
 
 II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato y que judicialmente se declare que no es hijo del marido;
 
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido haya hecho directamente la propuesta a la mujer, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con ella;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III.- La propuesta de un cónyuge para prostituir al otro cónyuge, no sólo cuando el mismo lo haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones sexuales, lo anterior, sin menoscabo de la comisión de otras conductas delictivas previstas en el Código Penal para el Estado de Quintana Roo;
 
 IV.- La violencia ejercida por un cónyuge sobre el otro para incitarlo a cometer algún delito, aunque no sea de incontinencia carnal;
 
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya sean éstos de ambos, ya de uno solo de ellos, así como la tolerancia en su corrupción;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+V.- La conducta de alguno de los cónyuges con el fin de corromper a los hijos, ya sean éstos de ambos, ya de uno solo de ellos, así como la tolerancia en su corrupción;
 
 VI.- Padecer cualquiera enfermedad crónica e incurable, que sea, además, contagiosa y hereditaria;
 
-VII.- La impotencia incurable para la cópula, que sobrevenga después de celebrado el matrimonio, si no se debe a edad avanzada;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-VIII.- Padecer enajenación mental incurable;
+VII.- La impotencia sexual irreversible, que sobrevenga después de celebrado el matrimonio, si no se debe a edad avanzada;
 
-IX.- La separación de la casa conyugal por más de seis meses sin causa justificada;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Padecer trastorno mental incurable, previa declaración judicial de interdicción que se haga respecto del cónyuge enfermo;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IX.- La separación de la casa conyugal por más de seis meses sin causa justificada, siempre que no exista algún tipo de violencia familiar;
 
 X.- La declaración de ausencia legalmente hecha;
 
-XI.- La sevicia;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XI.- La sevicia, o violencia psicoemocional contra uno de los cónyuges;
 
 XII.- La difamación que sea hecha por un cónyuge en perjuicio del otro;
 
-XIII.- Las amenazas o las injurias graves, siempre que unas y otras hagan imposible la vida en común;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Las amenazas o las injurias graves, que generen miedo a un evento grave e inminente;
 
 XIV.- La negativa de los cónyuges a darse alimentos y darlos a los hijos, de acuerdo con lo dispuesto en los artículos 708 a 709 siempre que no puedan hacerlos efectivos judicialmente;
 
@@ -4195,27 +4281,29 @@ XVI.- Haber cometido uno de los cónyuges un delito que no sea político, pero q
 
 XVII.- Los hábitos de juego o de embriaguez o el uso no terapéutico de enervantes, estupefacientes o psicotrópicos o de cualquier otra substancia que altere la conducta y produzca dependencia, cuando amenazan causar la ruina de la familia o constituyen un continuo motivo de desavenencia conyugal;
 
-XVIII.- Cometer un cónyuge contra la persona o los bienes del otro un acto que sería punible si se tratare de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión.
+XVIII.- Cometer un cónyuge contra la persona o los bienes del otro un acto que sería punible si se tratare de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 XIX.- La incompatibilidad de caracteres, que sólo podrá invocarse después de un año de celebrado el matrimonio;
 
-XX.- La bigamia que sólo puede ser invocada por el cónyuge inocente del primer matrimonio;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XX.- La bigamia que sólo puede ser invocada por el cónyuge del primer matrimonio;
 
 > <small>(REFORMADA, P.O. 15 DE JULIO DE 2004)</small>
 
 XXI. La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-XXII. Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos. Para los efectos de este Artículo se entiende por violencia familiar lo dispuesto por el Artículo 983 ter de este Código;
+XXII.- Las conductas de violencia familiar cometidas o permitidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos. Para los efectos de este Artículo se entiende por violencia familiar lo dispuesto por el Artículo 983 ter de este Código;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-XXIII. El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello;
+XXIII.- El incumplimiento injustificado por parte de uno de los cónyuges respecto de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, consistentes en el tratamiento psicoterapéutico, reeducativo y correctivo de los actos de violencia familiar hacia el otro cónyuge o los hijos, exclusivamente por el cónyuge obligado a ello y que sea considerado generador de la misma;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2004)</small>
-
-XXIV. La actividad sexual de un cónyuge con persona de su mismo sexo;
+XXIV.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADA, P.O. 15 DE JULIO DE 2004)</small>
 
@@ -4281,27 +4369,45 @@ El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en 
 
 El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 810.
 
-El divorcio necesario debe demandarse por hechos que se imputen al cónyuge demandado, que sean causas legales de divorcio y dentro de seis meses después de que hayan llegado al conocimiento del autor los hechos en que se funda la demanda; pero se exceptúan de esta caducidad las causales de tracto sucesivo o de realización continuada.
+El divorcio necesario debe demandarse por hechos que se imputen al cónyuge demandado, que sean causas legales de divorcio y dentro de los seis meses posteriores a que hayan llegado al conocimiento del autor los hechos en que se funda la demanda; pero se exceptúan de esta caducidad las causales de tracto sucesivo o de realización continuada.
+
+El divorcio por conductas de violencia familiar, se podrá demandar en cualquier momento.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 811.
 
-El perdón expreso o tácito del cónyuge ofendido extingue la acción de divorcio necesario.
+El perdón expreso o tácito del cónyuge ofendido extingue la acción de divorcio necesario a excepción de la causal de conductas de violencia familiar.
 
 ###### Artículo 812.
 
 La reconciliación de los cónyuges pone fin al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoriada y en este caso, los interesados deberán denunciar su reconciliación al Juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 813.
 
-El cónyuge actor en el juicio de divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, desistirse de la acción y en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+El cónyuge actor en el juicio de divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, desistirse de la acción y en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie, salvo por la causal de violencia familiar que podrá alegarse en todo momento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 813 BIS.- El cónyuge que haya recibido violencia familiar, podrá acreditarla mediante el ofrecimiento de las denominadas pruebas preconstituidas que se encuentran en su poder o bien aquellas que obren en instrumentales públicas de instituciones o dependencias que hayan atendido dicha problemática con antelación, para ser tomadas en cuenta por el Juzgador, en los términos del artículo 287 del Código Procedimental de la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 814.
 
-Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
+Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, sin necesidad de audiencia previa o vista a las partes conforme a las disposiciones siguientes:
 
-I.- Separar a los cónyuges en todo caso. Para este efecto, el Juez prevendrá al marido que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el marido informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia el Juez decidirá sumariamente oyendo a ambos cónyuges;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+I.- Separar a los cónyuges en todo caso. Para este efecto, el Juez tendrá en cuenta el interés familiar, la posible existencia de violencia familiar, y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, de los bienes y enseres que continúen en ésta y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el cónyuge informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia el Juez decidirá sumariamente oyendo a ambos cónyuges;
+
+La separación conyugal decretada por el Juez interrumpe los términos a que se refiere el artículo 799 de este ordenamiento;
 
 II.- Sólo a solicitud de la mujer se le autorizará a separarse del hogar conyugal. Deberá la mujer informar al Juez el lugar de su residencia y el Juez ordenará se le entreguen su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicada;
 
@@ -4309,15 +4415,19 @@ III.- Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
 
 IV.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 V.- Dictar las medidas que se estimen convenientes para que los cónyuges no se causen perjuicios en sus respectivos bienes ni en los de la comunidad conyugal, en su caso, asimismo se decretará la prohibición a los cónyuges de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
 
-VI.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
+Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad del Estado de Quintana Roo y de aquellos lugares en que se conozca que tienen bienes;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-VII.- Poner a hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia. A falta de acuerdo, el juez de lo familiar resolverá lo conducente, además de establecer las modalidades del derecho de visita o convivencia con sus padres, de conformidad con el artículo 1024 Bis, tomando en cuenta la opinión de la persona menor de edad. El Juez, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
+VI.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VII.- Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, el Juez de lo Familiar resolverá lo conducente, considerando que las personas menores de doce años quedarán bajo la custodia y cuidado de la madre, además de establecer las modalidades del derecho de visita o convivencia con sus padres, de conformidad con el artículo 1024 Bis, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la persona menor de edad, la cual podrá ser asistida por el Oficial de Menores de Edad, adscrito a la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo. El Juez, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o institución educativa y confiar la administración de los bienes a una institución fiduciaria;
 
 > <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -4331,63 +4441,99 @@ c) Suspender la custodia y la patria potestad al cónyuge presuntamente agresor 
 
 Cualquier otra medida de protección de emergencia, preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IX.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como de los que se encuentren bajo el régimen de comunidad conyugal, en su caso, especificando además el titulo bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+X.- Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise.
+
+En caso de que las personas menores de doce años sean sujetos de violencia familiar éstos deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
+
+Cualquier otra medida de protección de emergencia, Preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 815.
 
-La sentencia de divorcio que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual el juez de lo familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso. Además, la sentencia deberá incluir el régimen establecido para las visitas, según lo previsto en los artículos 1024 Bis de este Código.
+La sentencia de divorcio que se pronuncie en definitiva, fijará la situación de los hijos, para lo cual el Juez de lo Familiar deberá resolver todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, limitación o recuperación, según el caso y en especial a la custodia y cuidado de los hijos, las obligaciones de crianza. Además, la sentencia deberá incluir el régimen establecido para las visitas de convivencia, según lo previsto en los artículos 1024 Bis de este Código.
 
-Las medidas de protección para los hijos podrán incluir también las medidas de seguridad para el demandado y su asistencia terapias dirigidas a evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas.
+Asimismo, la sentencia deberá contener:
+
+I.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
+
+II.- Las medidas necesarias para garantizar la convivencia de los hijos con sus padres, misma que sólo deberá ser limitada o suspendida cuando exista cualquier posibilidad de riesgo para las personas menores de edad;
+
+III.- Para el caso de las personas menores de edad incapaces, sujetos a la tutela de alguno de los ex cónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección;
+
+IV.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de los hijos menores de edad.
+
+Las medidas de protección para los hijos podrán incluir también las medidas de seguridad, seguimiento para el demandado y su asistencia a terapias reeducativas dirigidas a evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas, según se trate el caso y de conformidad con lo dispuesto por el Código de Procedimientos Civiles para el Estado de Quintana Roo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 816.
 
-Para cumplir con lo dispuesto en el artículo anterior el Juez deberá:
+Para cumplir con lo dispuesto en el artículo anterior, el Juez durante el procedimiento deberá de oficio o a petición de parte interesada, allegarse de los elementos necesarios y tendrá que:
 
 I.- Oír al Ministerio Público, a un tutor que el Juez nombre a los hijos, a los abuelos, tíos, hermanos mayores, y en general a las personas que por ser amigas o parientes de la familia de los cónyuges puedan informar al Juez respecto a la forma mejor de la custodia de los menores;
 
-II.- Oír a los propios menores si éstos pueden expresarse;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+II.- Oír a las personas menores de edad si éstos pueden expresarse, debidamente asistidos por el Oficial de Menores de Edad, adscrito a la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo;
 
 III.- Asegurar a los hijos menores los alimentos y en todo momento pueden ser modificadas por el Juez las resoluciones que a este respecto dicte, mientras los hijos no lleguen a la mayoridad.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 816 BIS.- En el caso de que los padres hayan acordado la guarda y custodia conjuntamente en términos de lo establecido en la fracción VII del artículo 814, el Juez, en la sentencia de divorcio, deberá garantizar que los divorciantes cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 817.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración al matrimonio. El cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por, su cónyuge o por otra persona en consideración al matrimonio. El cónyuge que no dio causa al divorcio conservará lo recibido y podrá reclamar lo pactado en su provecho.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 818.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes de la comunidad conyugal y se tomarán las precauciones necesarias, para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades, subsistencia y educación de sus hijos y para proporcionarles algún oficio, arte o profesión honesto y adecuado a su sexo y circunstancias personales.
+El Juez fijará en la sentencia que decrete el divorcio, tomando en consideración en su caso, los datos recabados en términos del artículo 814 de este ordenamiento lo relativo a la división de los bienes.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes de la comunidad conyugal y se tomarán las precauciones necesarias, para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades, subsistencia y educación de sus hijos y para proporcionarles algún oficio, arte o profesión honesta y adecuada a sus circunstancias personales, y a su elección sin ninguna acción por pertenecer a un género determinado.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 819.
 
-En los casos de divorcio necesario, el Juez de lo Familiar sentenciará al cónyuge culpable al pago de alimentos a favor del cónyuge que no dio causa al divorcio, tomando en cuenta las circunstancias del caso, entre ellas, las siguientes:
+En los casos de divorcio necesario, el Juez de lo Familiar sentenciará al cónyuge que dio causa al divorcio, al pago de alimentos a favor del cónyuge que no dio causa al divorcio, tomando en cuenta las circunstancias del caso, entre ellas, las siguientes:
 
-I. La edad y el estado de salud de los cónyuges;
+I.- La edad y el estado de salud de los cónyuges;
 
-II. SU calificación profesional y posibilidad de acceso a un empleo;
+II.- Su calificación profesional y posibilidad de acceso a un empleo;
 
-III. Duración del matrimonio y dedicación en el pasado a la familia;
+III.- Duración del matrimonio y dedicación en el pasado a la familia;
 
-IV. El apoyo con las actividades propias del hogar y el cuidado de los hijos, que hayan permitido al cónyuge culpable, el desarrollo de actividades económicas en beneficio de la familia conformada desde el matrimonio;
+IV.- El apoyo con las actividades propias del hogar y el cuidado de los hijos, que hayan permitido al cónyuge que dio causa al divorcio, el desarrollo de actividades económicas en beneficio de la familia conformada desde el matrimonio;
 
-V. La capacidad para trabajar de los cónyuges, su situación y medios económicos;
+V.- La capacidad para trabajar de los cónyuges, su situación y medios económicos;
 
-VI. Las demás obligaciones que tenga el cónyuge deudor, siempre que se hayan generado en el lapso de duración del matrimonio y con motivo del mismo.
+VI.- Las demás obligaciones que tenga el cónyuge deudor, siempre que se hayan generado en el lapso de duración del matrimonio y con motivo del mismo.
 
-En todos los casos, el cónyuge inocente que carezca de bienes o que durante el matrimonio se haya dedicado preponderantemente a las labores del hogar o al cuidado de los hijos, tendrá derecho a alimentos por el mismo lapso en que duró el matrimonio.
+En todos los casos, el cónyuge que no dio causa al divorcio que carezca de bienes o que durante el matrimonio se haya dedicado preponderantemente a las labores del hogar o al cuidado de los hijos, tendrá derecho a alimentos por el mismo lapso en que duró el matrimonio.
 
-En caso de que el cónyuge inocente se encuentre imposibilitado para trabajar por dolencia de una discapacidad o enfermedad, tendrá derecho a alimentos con una duración vitalicia.
+En caso de que el cónyuge que no dio causa al divorcio se encuentre imposibilitado para trabajar por dolencia de una discapacidad o enfermedad, tendrá derecho a alimentos con una duración vitalicia.
 
-En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos, en caso de divorcio necesario, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato, o viva maritalmente en forma permanente y estable por un periodo mínimo de dos años con otras persona impedida legalmente para contraer matrimonio.
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su Efectividad. El derecho a los alimentos, en caso de divorcio necesario, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato, o viva maritalmente en forma permanente y estable por un periodo mínimo de dos años con otra persona impedida legalmente para contraer matrimonio.
 
-El cónyuge inocente tiene derecho, además del pago de alimentos, a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado. Los daños y perjuicios, así como la indemnización a que se refiere el presente artículo, se rigen por lo dispuesto en este Código para los hechos ilícitos.
+El cónyuge que no dio causa al divorcio tiene derecho, además del pago de alimentos, a que el cónyuge que dio causa al divorcio lo indemnice por los daños y perjuicios que el divorcio le haya causado. Los daños y perjuicios, así como la indemnización a que se refiere el presente artículo, se rigen por lo dispuesto en este Código para los hechos ilícitos.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 820.
 
-Cuando con el divorcio sanción se originen daños o perjuicios a los intereses del cónyuge que no dio causa al divorcio, el cónyuge que dio causa, responderá de ellos como autor de un hecho ilícito.
+Cuando con el divorcio sanción se originen daños o perjuicios a los intereses del cónyuge que no dio causa al divorcio, el cónyuge que dio causa al divorcio, responderá de ellos como autor de un hecho ilícito.
 
 ###### Artículo 821.
 
@@ -4617,7 +4763,9 @@ I.- Cuando el que la tiene carece de medios para cumplirla;
 
 II.- Cuando el alimentista deja de necesitar los alimentos;
 
-III.- En caso de injuria, falta o daños graves inferidos por el alimentista contra quien debe prestarlos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III.- En caso de violencia familiar, injuria, falta o daños graves inferidos intencionalmente por el alimentista contra quien debe prestarlos;
 
 IV.- Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsisten estas causas; y
 
@@ -4709,9 +4857,11 @@ II.- Si asistió al acta de nacimiento y si ésta fue firmada por él, o contien
 
 III.- Si ha reconocido expresamente por suyo al hijo de su mujer.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 869.
 
-Contra las presunciones establecidas por las fracciones II y III del artículo 867 no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+Contra las presunciones establecidas por las fracciones II y III del Artículo 867, se admite como prueba la de haber sido físicamente imposible al marido tener relaciones sexuales con la mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento. Así como aquellos medios de convicción que el avance de los conocimientos científicos pudiera ofrecer.
 
 ###### Artículo 870.
 
@@ -4721,9 +4871,13 @@ El marido no podrá desconocer a los hijos favorecidos por las presunciones esta
 
 Salvo en el último caso previsto en el artículo anterior no basta el dicho de la madre para excluir de la paternidad al marido.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 872.
 
-El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste, pueden sostener en tales casos la paternidad del marido.
+El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste, pueden sostener· en tales casos la paternidad del marido.
+
+E Juez competente ordenará, en su caso que se practique la prueba genética que corresponda a efecto de que se determine la paternidad respectiva, y se ordene el consecuente registro y reconocimiento de la persona menor de edad.
 
 ###### Artículo 873.
 
@@ -4755,17 +4909,21 @@ El marido que negare cualquiera de las presunciones establecidas por las fraccio
 
 En todos los casos en que el marido tenga derecho de contradecir la paternidad del hijo, deberá deducir su acción dentro de los sesenta días contados desde el nacimiento, si está presente, desde el día en que llegó al lugar si no se encontraba en él y desde el día en que descubra el engaño si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 879.
 
-Si el marido está en tutela por causa de demencia, imbecilidad u otro motivo que le prive de la inteligencia podrá contradecir la paternidad en el plazo antes señalado y se contará desde el día en que legalmente se declare haber cesado la tutela.
+Si el marido está en tutela por causa de demencia, incapacidad u otro motivo que le prive de la inteligencia podrá contradecir la paternidad en el plazo antes señalado y se contará desde el día en que legalmente se declare haber cesado la tutela.
 
 ###### Artículo 880.
 
 Si el hijo no nace vivo, nadie puede entablar demanda sobre la paternidad.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 881.
 
-En el juicio de contradicción de la paternidad serán oídos, la madre, el hijo a quien se le nombrará tutor si es menor o incapaz y al Ministerio Público.
+En el juicio de contradicción de la paternidad serán oídos, la madre, el hijo a quien se le nombrará tutor si es persona menor de edad o incapaz, será asistido por el Oficial de Menores de Edad y el Ministerio Público.
 
 ###### Artículo 882.
 
@@ -4797,9 +4955,13 @@ La filiación de los hijos favorecidos por las presunciones establecidas en el a
 
 En el caso de los dos artículos anteriores, a falta de actas o si éstas fueren defectuosas, incompletas o si hubiere en ellas omisión en cuanto a los nombres y apellidos o fueren judicialmente declaradas falsas la filiación puede probarse con la posesión de estado de hijo de las personas a quienes se señalan como padres, la cual se justificará como dispone el artículo 920.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 888.
 
-En defecto de esa posesión de estado son admisibles todos los medios ordinarios de prueba que la ley establece.
+En defecto de esa posesión de estado son admisibles todos los medios ordinarios de prueba que la ley establece o cualquier medio lícito, incluyendo aquellas que el avance de los conocimientos científicos ofrecen, siempre que haya un principio de prueba escrita, proveniente de ambos padres, conjunta o separadamente o indicios o presunciones resultantes de hechos ciertos que se consideren graves para determinar su admisión.
+
+Si uno solo de los registros faltare o estuviera inutilizado y existe el duplicado, de éste deberá Tomarse la prueba, sin admitir la de otra clase.
 
 ###### Artículo 889.
 
@@ -4809,9 +4971,13 @@ Si hubiere hijos nacidos de dos personas que han vivido públicamente como marid
 
 La filiación de los hijos que no se benefician de las presunciones establecidas del artículo 867, 876 y 882, resulta con relación a la madre del solo hecho del nacimiento y para justificar este hecho son admisibles todos los medios de prueba pudiendo en los juicios de intestado o de alimentos probarse la filiación respecto a la madre dentro del mismo procedimiento.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 891.
 
-Respecto del padre, la filiación se establece por el reconocimiento o por sentencia que declare la paternidad; pero en el caso del artículo 882 se podrá justificar la paternidad en el mismo juicio de intestado o de alimentos y será suficiente probar los hechos a que se refieren los artículos 882 y 889 tanto en vida del padre como después de su muerte.
+Respecto del padre, la filiación se establece por el reconocimiento o por sentencia que declare la paternidad; pero en el caso del artículo 882, se podrá justificar la paternidad en el mismo juicio de intestado o de alimentos y será suficiente probar los hechos a que se refieren los artículos 882 y 889 tanto en vida del padre como después de su muerte.
+
+El Juez deberá ordenar para efectos del presente artículo se practiquen las pruebas genéticas respectivas, a fin de que se establezca la paternidad correspondiente, en ningún caso y bajo ninguna circunstancia al que se le imputa la paternidad o maternidad se podrá negar a practicarse dicha prueba.
 
 ###### Artículo 892.
 
@@ -4897,9 +5063,11 @@ El término para deducir esta acción será el de seis meses, que comenzarán a 
 
 Si la madre contradice el reconocimiento que un hombre haya hecho o pretenda hacer de un hijo que ella reconoce por suyo, esa sola contradicción bastará para invalidar aquel reconocimiento, con tal de que el hijo, siendo mayor de edad, consienta en reconocer por madre a la que contradice.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 910.
 
-Cuando la contradicción de la madre se haga valer con el objeto de negar al padre los derechos que le da el reconocimiento, y el hijo fuere menor de edad, se proveerá a éste de un tutor especial para que con su audiencia y la del Ministerio Público se resuelva lo que proceda acerca de los derechos controvertidos, quedando a salvo los del hijo para consentir el reconocimiento del padre o de la madre cuando llegue a la mayor edad; así como sus derechos hereditarios si los padres muriesen durante la minoría.
+Cuando la contradicción de la madre se haga valer con el objeto de negar al padre los derechos que le da el reconocimiento, y el hijo fuere una persona menor de edad, se proveerá a éste de un tutor especial y de un Oficial de Menores de Edad para que con su audiencia y la del Ministerio Público se resuelva lo que proceda acerca de los derechos controvertidos, quedando a salvo los del hijo para consentir el reconocimiento del padre o de la madre cuando llegue a la mayor edad; así como sus derechos hereditarios si los padres muriesen durante la minoría.
 
 ###### Artículo 911.
 
@@ -4921,13 +5089,17 @@ III.- A percibir la porción hereditaria que fija la ley en caso de intestado o 
 
 IV.- A ejercer los derechos que este Código concede a los hijos póstumos.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 914.
 
-Cuando el padre o la madre que no vivan juntos reconozcan al hijo, en el mismo acto, convendrán cuál de los dos ejercerá la custodia del hijo y, en consecuencia, con quién de ellos habitará; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre o la madre que no vivan juntos reconozcan al hijo, en el mismo acto, convendrán con base al interés superior del menor, cuál de los dos ejercerá la custodia del hijo menor de edad y, en consecuencia, con quién de ellos habitará; para el caso de menores de doce años, estos preferentemente quedan bajo el cuidado de la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar a su alimentación y crianza conservando el derecho de convivencia con el menor de edad, conforme a las modalidades previstas en el convenio y resolución judicial, y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, resolverá lo que creyere más conveniente al interés superior del menor.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 915.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, el que primero hubiere reconocido ejercerá la custodia del hijo y éste habitará con aquél, salvo que se conviniere otra cosa entre los padres y siempre que el Juez de Primera Instancia del lugar no creyere ncesario (sic) modificar el convenio, con audiencia de los interesados. El convenio sólo podrá modificarse en interés del hijo.
+En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, la persona menor de doce años, quedará preferentemente bajo cuidado de la madre, salvo que exista riesgo o peligro o se conviniere otra cosa entre los padres y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio, con audiencia de los interesados. El convenio sólo podrá modificarse en interés superior del hijo.
 
 ###### Artículo 916.
 
@@ -4945,7 +5117,9 @@ No obstante lo dispuesto en el artículo anterior, el hijo podrá investigar la 
 
 La investigación de la paternidad está permitida:
 
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+I.- En los casos de privación de la libertad con fines sexuales, estupro o violación, cuando la época del delito coincida con la de la concepción;
 
 II.- Cuando el hijo tiene o tuvo la posesión de estado de hijo del presunto padre;
 
@@ -4954,6 +5128,10 @@ III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre hací
 IV.- Cuando durante la gestación, o el nacimiento del hijo, o después del nacimiento, la madre haya habitado con el presunto padre, bajo el mismo techo, viviendo maritalmente; y con ellos el hijo, en el último supuesto, cualquiera que sea el tiempo que haya durado la vida familiar;
 
 V.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VI.- A solicitud expresa de la madre de la persona menor de edad, del Ministerio Público o del Oficial de Menores de Edad.
 
 ###### Artículo 920.
 
@@ -5237,25 +5415,35 @@ La adopción, una vez que el acto que la constituya haya causado ejecutoria, obl
 
 ### CAPITULO SEXTO. De la violencia familiar
 
-> <small>(ADICIONADO, P.O. EL 15 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Artículo 983 BIS.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las Instituciones Públicas de acuerdo con las leyes.
+Artículo 983 BIS.- Toda persona tiene derecho a un medio ambiente adecuado para su· desarrollo y bienestar. Consecuentemente los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física, psicoemocional, sexual, y económica, libre de conductas de violencia familiar, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las Instituciones Públicas de acuerdo con la Ley de Asistencia y Prevención de Violencia Familiar del Estado de Quintana Roo.
 
-> <small>(ADICIONADO, P.O. EL 15 DE JULIO DE 2004)</small>
+Asimismo, en los Casos de Violencia Familiar, quedan prohibidos todo tipo de procedimientos de Conciliación y Mediación, para su resolución.
 
-Artículo 983 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+Articulo 983 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
 
-Se entiende por violencia familiar el acto u omisión recurrente e intencional realizado con el fin de dominar, someter o controlar, produciendo violencia física, psicológica, sexual, moral, patrimonial o económica, que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, independientemente de que pueda producir o no lesiones; siempre y cuando exista o haya existido entre el agresor y el agredido una relación de parentesco, matrimonio o concubinato.
+Se entiende por violencia familiar el acto u omisión dirigido a dominar, someter o controlar, produciendo violencia física, psicológica, sexual, moral, patrimonial o económica, que ejerza un miembro de la familia en contra de otro integrante de la misma, independientemente de que pueda producir o no lesiones; siempre y cuando exista o haya existido entre el agresor y el agredido una relación de parentesco, matrimonio o concubinato o mantenga una relación de hecho, realizado dentro o fuera del domicilio ocupado por la familia y que tienda a causar daño.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+Se considera también violencia familiar, cualquiera de los actos u omisiones señalados en el párrafo anterior cuando una persona cometa en contra de otra que esté sujeta a su custodia, protección, educación, instrucción o cuidado o tenga el cargo de tutor sobre la persona, o de aquellas personas que no reúnan los requisitos para constituir concubinato, siempre que hagan vida en común.
 
-Se considera también violencia familiar, cualquiera de los actos u omisiones señalados en el párrafo anterior cuando una persona cometa en contra de otra que esté sujeta a su custodia, protección o cuidado o tenga el cargo de tutor sobre la persona, o de aquellas personas que no reúnan los requisitos para construir concubinato, siempre que hagan vida en común.
+En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refiere la fracción VII y VIII del artículo 814 de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 983 QUÁTER.- Por lo que hace a los diversos tipos en que se puede presentar la violencia familiar, se estará a lo dispuesto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 983 QUINTUS.- Los integrantes de la familia que incurran en violencia familiar deberán reparar los daños y perjuicios que ocasionen, independientemente de las sanciones establecidas en otros ordenamientos diversos.
 
 > <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
-### CAPITULO PRIMERO. Reglas generales
+### CAPITULO I (SIC). Reglas generales
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. De la niñez
 
@@ -5267,9 +5455,11 @@ El Estado tiene interés en la niñez.
 
 El interés a que se refiere el artículo anterior es público y comprende la gestación, el nacimiento, la primera y segunda infancia y la pubertad.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 986.
 
-El interés del Estado en la niñez abarca sus aspectos físicos y culturales.
+El interés del Estado en la niñez abarca sus aspectos físicos, psicoemocionales, educativos y culturales.
 
 ###### Artículo 987.
 
@@ -5283,17 +5473,41 @@ Las situaciones jurídicas concretas de titulares de la patria potestad o tutela
 
 El desempeño de la patria potestad, de la tutela y de la adopción queda sujeto a las modalidades que le impongan las resoluciones judiciales o administrativas de acuerdo con las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 990.
 
-Las providencias protectoras de los menores que este Código establece y las que juzguen pertinentes los tribunales, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes del menor, de este mismo si puede expresarse, de su tutor, o de cualquiera otra persona siempre que dichas medidas beneficien al menor
+Las providencias protectoras de las personas menores de edad que este Código establece y las que juzguen pertinentes los tribunales, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes de las personas menores de edad, de estas mismas si pueden expresarse, de su tutor, del Oficial de Menores de Edad o de cualquiera otra persona siempre que dichas medidas beneficien a la persona menor de edad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 990 BIS.- Para los efectos del presente Código se considerará como, interés superior del menor, la prioridad que ha de otorgarse a los derechos de las niñas y los niños respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
+
+I.- El acceso a la salud física y mental, alimentación y educación que fomente su desarrollo personal, sin estereotipos ni condicionamientos de género;
+
+II.- Un ambiente de respeto, aceptación y afecto, libre de cualquier tipo de violencia familiar;
+
+III.- El desarrollo de la estructura de la personalidad, con una adecuada autoestima, libre de sobreprotección y excesos punitivos;
+
+IV.- El fomento de la responsabilidad personal y social, así como la toma de decisiones de la persona menor de edad de acuerdo a su edad y madurez psicoemocional; y
+
+V.- .Los demás derechos que a favor de las niñas y los niños reconozcan otras leyes y tratados aplicables, debidamente suscritos y ratificados por México.
 
 > <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
 ## TITULO CUARTO. De la patria potestad
 
-### CAPITULO SEGUNDO. De los efectos de la patria potestad
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO II. De los efectos de la patria potestad
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 991.
+
+La patria potestad es el conjunto de derechos y obligaciones reconocidos y otorgados por la Ley a los padres y abuelos en relación a sus hijos o nietos, para cuidarlos, protegerlos y educarlos, procurando en todo momento un ambiente de respeto; así como a sus bienes.
+
+Los hijos menores de edad estarán bajo patria potestad de sus padres o de sus abuelos paternos o maternos sin preferencia, en los casos que señala este Código.
 
 Los hijos y sus ascendientes se deben respeto y consideración recíprocos.
 
@@ -5315,6 +5529,28 @@ I.- El abuelo y la abuela paternos; y
 
 II.- El abuelo y la abuela maternos.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 994 BIS.- Los padres o falta de éstos, aquellos que ejerzan la patria potestad o la guarda y custodia provisional o definitiva de una persona menor de edad, independientemente de que vivan o no en el mismo domicilio, deben dar cumplimiento a las siguientes obligaciones de crianza:
+
+I.- Proporcionarles alimentos en los términos del Título Segundo, Capítulo II del Libro Tercero de este ordenamiento;
+
+II.- Ofrecerles un ambiente familiar y social, en los términos del artículo 983 BIS de este ordenamiento, procurando su seguridad física, psicológica y sexual; induciendo su auto cuidado personal y asertividad;
+
+III.- Fomentar hábitos adecuados de alimentación, de higiene personal y desarrollo físico;
+
+IV.- Proporcionarles educación, formal e informal impulsando sus habilidades escolares y desarrollo intelectual;
+
+V.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por parte de la persona menor de edad; informando de acuerdo a su edad y desarrollo de los diversos tipos de violencia física y sexual;
+
+VI.- Impulsar la toma de decisiones y el respeto a su opinión; y
+
+VII.- Determinar los límites y normas de conducta preservando el interés superior del menor.
+
+Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática no se realicen las actividades señaladas; lo que el Juez valorará en los casos de suspensión de la patria potestad, de la determinación de la guarda y custodia provisional y definitiva, y del régimen de convivencias y visitas.
+
+No se considera incumplimiento de éstas obligaciones el que cualquiera de los progenitores tenga jornadas laborales extensas.
+
 ###### Artículo 995.
 
 El orden de preferencia lo establecerán en cada caso los abuelos por acuerdo unánime de los que sobrevivan o no estén impedidos, y sólo que dicho acuerdo no se logre, el Juez, oyendo a aquéllos y a las personas cuyo parecer estime conveniente conocer, así como al propio menor si sabe expresarse, resolverá lo que más convenga a éste y esa resolución puede ser modificada en todo tiempo, siempre que la modificación sea benéfica para el menor.
@@ -5323,27 +5559,43 @@ El orden de preferencia lo establecerán en cada caso los abuelos por acuerdo un
 
 No ejercerán la custodia quienes hayan sido declarados padre o madre, respectivamente en juicio de investigación de la paternidad o maternidad, salvo que el Juez estime que esa custodia es conveniente al menor.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 997.
 
-En caso de que los progenitores vivan separados, la custodia corresponderá a la madre, aunque sea menor de edad, a menos que el hijo se halle legalmente en poder del padre.
+En caso de que los progenitores vivan separados, y en el caso de que sean menores de doce años, la custodia corresponderá a la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar con su alimentación y crianza conservando el derecho de convivencia con la persona menor de edad, conforme a las modalidades previstas en el convenio o resolución judicial.
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Artículo 997 BIS.- Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para estos.
+###### Artículo 997
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
+BIS.- Los hijos que estén bajo la patria potestad de sus padres tienen el derecho de convivir con ambos, aún cuando no vivan bajo el mismo techo. No podrán impedirse, sin justa causa, las relaciones personales entre la persona menor de edad y sus ascendientes. En caso de oposición, a petición de cualquiera de ellos; el Juez resolverá lo conducente previa audiencia con la persona menor de edad, debidamente asistida por el Oficial de Menores de Edad. Sólo por mandato judicial, este derecho podrá ser limitado o suspendido considerando el incumplimiento reiterado de las obligaciones de crianza o peligro para la salud e integridad física, psicológica o sexual de los hijos.
 
-El juez de los (sic) familiar aplicará las medidas previstas en el Código de Procedimientos Civiles e incluso podrá decretar el cambio de guarda y custodia de los menores previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva de ellos, realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO TERCERO. De los modos de acabarse y suspenderse la patria potestad y perderse la custodia
 
 ###### Artículo 998.
 
-Quienes ejerzan la patria potestad deben alimentar a quienes estén sujetos a ella, custodiarlos, protegerlos y educarlos.
+Quienes ejerzan la patria potestad deben alimentar a quienes estén sujetos a ella, custodiarlos, protegerlos y educarlos y proveerles un ambiente adecuado libre de violencia familiar.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 999.
 
-La educación a que se refiere el artículo anterior, comprende la facultad del titular de la patria potestad para corregir mesuradamente al menor y el deber de enseñarles, por sí o por medio de otras personas o de una institución, un arte, oficio o profesión de acuerdo con sus circunstancias personales.
+La educación a que se refiere el Artículo anterior, comprende la facultad del titular de la patria potestad, custodia o tutela para establecer límites a la persona menor de edad, así como de procurarlos en un ambiente de respeto en su integridad física, psicoemocional y sexual libre de conductas de violencia familiar y el deber de enseñarles, por sí o por medio de otras personas o de una institución, un arte, oficio o profesión de acuerdo con sus circunstancias personales.
+
+El deber de establecer límites no implica infligir a la persona menor de edad, actos de violencia o contra su integridad en los términos de lo dispuesto en este Código, por lo tanto los llamados de atención y exhortos que hagan los padres o tutores para el comportamiento y adecuada convivencia de todos los integrantes del núcleo familiar, serán respetadas las opiniones de éstos, buscando democratizar el núcleo familiar.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Artículo 999 BIS.- Se entenderá por Oficial de Menores de Edad, al profesional en psicología, trabajo social o pedagogía exclusivamente, adscrito a la Procuraduría de la Defensa del Menor y la Familia del Estado de Quintana Roo, dependiente de la Dirección del Sistema Estatal para el Desarrollo Integral de la Familia de la entidad u otra institución pública o privada avalada por éste, que asista a la persona menor de edad, para los efectos de facilitar su comunicación libre y espontánea, darle protección psicoemocional en las sesiones donde éste sea oído por el juez en privado, sin la presencia de los progenitores.
+
+Dicho Oficial podrá solicitar hasta dos entrevistas previas a la escucha de la persona menor de edad, siendo obligatorio para el progenitor que tenga la guarda y custodia de la persona menor de edad y dar cumplimiento a los requerimientos de dicho oficial.
+
+En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a la persona menor de edad, mismo que será asistido por un Oficial de Menores de Edad que para tal efecto se designe. La persona menor de edad podrá recibir esta asistencia en otras controversias del orden familiar, cuando así lo solicite alguna de las partes o el Ministerio Público.
+
+El Juez de Primera Instancia con toda oportunidad solicitará la presencia de dicho Oficial, el cual con la simple designación y sin necesidad de ratificar su cargo, acudirá a la audiencia que se acuerde, tomando en consideración la programación de audiencias que tenga el Oficial de Menores de Edad.
 
 ###### Artículo 1000.
 
@@ -5437,21 +5689,17 @@ III.- Por la mayor edad de éste;
 
 IV.- Por resolución judicial que determine su pérdida.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Artículo 1018 BIS.- La patria potestad se pierde únicamente mediante resolución judicial, si decretada su suspensión por la causal prevista en la fracción III del artículo 1019 de éste Código, se cometiere alguno de los supuestos siguientes:
 
-l. En el caso de violencia familiar reiterada en contra de la persona menor de edad por parte de quienes ejercen la patria potestad o con su conocimiento y tolerancia, debiéndose señalar para tal efecto las circunstancias de tiempo, modo y lugar; y (sic)
+I.- En el caso de violencia familiar reiterada en contra de la persona menor de edad así como del· cónyuge, por parte de quienes ejercen la patria potestad o con su conocimiento y tolerancia, debiéndose señalar para tal efecto las circunstancias de tiempo, modo y lugar;
 
-II. Cuando el que la ejerza hubiera cometido en contra de la integridad física, sexual o psicológica de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada;
+II.- Cuando el que la ejerza hubiera cometido en contra de la integridad física, sexual emocional o psicológica de los hijos, un delito doloso, por el cual haya sido condenado por sentencia ejecutoriada;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2009)</small>
+III.- Cuando el que la ejerza abandone a su hijo y/o hija menor de edad dejándolo a su suerte con un tercero o terceros, o en un lugar público o privado, con la finalidad de deshacerse de sus obligaciones de patria potestad y de crianza; y
 
-III. Cuando el que la ejerza abandone a su hijo y/o hija menor de edad dejándolo a su suerte con un tercero o terceros, o en un lugar público privado, con la finalidad de deshacerse de sus obligaciones de patria potestad;
-
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2009)</small>
-
-IV. Cuando habiendo dejado a su hijo o hija menor de edad a cargo de una persona o institución, el que ejerza la patria potestad deje de atender sin causa justificada y por más de seis meses, las necesidades de manutención y afecto de su hijo y/o hijas.
+IV.- Cuando habiendo dejado a su hijo o hija menor de edad a cargo de una persona o institución, el que ejerza la patria potestad deje de atender sin causa justificada y por más de seis meses, las necesidades de crianza y afecto de su hijo y/o hija.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
@@ -5463,9 +5711,13 @@ La patria potestad se suspende:
 
 I.- Por incapacidad declarada judicialmente;
 
-II.- Por la ausencia declarada en forma; y
+II.- Por la ausencia declarada en forma; y (sic)
 
-III.- Por sentencia condenatoria que imponga como pena la suspensión.
+III.- Por sentencia condenatoria que imponga como pena la suspensión;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -5473,9 +5725,9 @@ Artículo 1019 BIS.- La suspensión de la patria potestad suspende automáticame
 
 La pérdida de la patria potestad da lugar a la pérdida de la guarda y custodia de la persona menor de edad.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Artículo 1019 TER.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+Artículo 1019 TER.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones de crianza que tienen para con sus hijos.
 
 ###### Artículo 1020.
 
@@ -5505,7 +5757,9 @@ I.- Cuando cometa algún delito grave en contra del menor;
 
 II.- Cuando ha sido condenado ejecutoriamente dos o más veces por delitos cometidos en contra de otras personas;
 
-III.- Cuando por sus costumbres depravadas, malos tratamientos o abandono de sus deberes frente a sus hijos o nietos en su caso, se pueda comprometer su salud, la seguridad o la moralidad del menor, aunque esos hechos no sean penalmente punibles;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III.- Por causarle daños físicos o emocionales, o por explotación, se pueda comprometer su salud, la seguridad o la moralidad de la persona menor de edad, aunque esos hechos sean penalmente punibles en términos de la legislación respectiva en la entidad;
 
 IV.- Cuando abandone o exponga al menor; y (sic)
 
@@ -5549,9 +5803,11 @@ II.- El mayor de edad sujeto a interdicción; y
 
 III.- El menor emancipado, sólo para negocios judiciales.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1026.
 
-El objeto de la tutela es la guarda de la persona y bienes de ésta, así como la educación de la misma; pero en el caso de la fracción II del artículo anterior, su objeto preferente será la curación del incapaz.
+El objeto de la tutela es la guarda, desarrollo, bienestar de la persona y bienes de ésta, así como la educación de la misma; pero en el caso de la fracción II del artículo anterior, su objeto preferente será la curación del incapaz.
 
 ###### Artículo 1027.
 
@@ -5605,9 +5861,11 @@ Hecha excepción de la tutela de los niños abandonados, ninguna otra tutela pue
 
 Los tutores no pueden ser removidos de su cargo sin que previamente sean oídos y vencidos en juicio.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1040.
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca dependencia, estará sujeto a la tutela de menores mientras no llegue a la mayor edad.
+La persona menor de edad que sufra alguna incapacidad señalada en el inciso a. de la fracción II del artículo 529 del presente ordenamiento o fuese ebrio consuetudinario o que habitualmente abuse de las drogas enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca dependencia, estará sujeto a la tutela de personas menores de edad, mientras no llegue a la mayoría de edad.
 
 ###### Artículo 1041.
 
@@ -5621,9 +5879,11 @@ En el caso del artículo anterior, el que fue tutor del menor puede ser nombrado
 
 Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor, que puede serlo también el de su progenitor.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1044.
 
-El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que sufren alteraciones en su conducta por su dependencia con sustancias que producen ese resultado, durará el tiempo que subsista la interdicción, cuando el cargo sea desempeñado por los descendientes o por los ascendientes.
+El cargo de tutor de la persona que tiene alguna incapacidad señalada en el artículo 529 y de los que sufren alteraciones en su conducta por su dependencia con sustancias que producen ese resultado, durará el tiempo que subsista la interdicción, cuando el cargo sea desempeñado por los descendientes o por los ascendientes.
 
 ###### Artículo 1045.
 
@@ -5771,7 +6031,7 @@ En el caso del artículo anterior deben el padre y la madre ponerse de acuerdo, 
 
 A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente los abuelos y los hermanos del incapacitado, en la inteligencia de que si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que le parezca más apto.
 
-### CAPITULO SEXTO. De los impedimentos, causas de remoción y excusas de la tutela
+### CAPITULO VI (SIC). De los impedimentos, causas de remoción y excusas de la tutela
 
 ###### Artículo 1078.
 
@@ -5805,9 +6065,11 @@ Si el menor no ha cumplido catorce años, el nombramiento de tutor lo hará el J
 
 Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1086.
 
-A los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, del mismo menor, y aun de oficio por el Juez.
+A las personas menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado, protección y bienestar de la persona menor de edad, a efecto de que reciba la educación que corresponda a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, de la misma persona menor de edad, y aun de oficio por el Juez.
 
 ###### Artículo 1087.
 
@@ -5833,19 +6095,29 @@ Los jueces nombrarán de entre las personas mencionadas las que en cada caso deb
 
 Si el menor que se encuentra en el caso previsto por el artículo 1086 adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO SEPTIMO. De la garantía que deben prestar los tutores para asegurar su manejo
 
 ###### Artículo 1090.
 
 No pueden ser tutores, aunque estén anuentes en recibir el cargo:
 
-I.- Los menores de edad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-II.- Los mayores de edad que se encuentren bajo tutela;
+I.- Los mayores de edad que se encuentren bajo tutela;
 
-III.- Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-IV.- Los que, por sentencia que cause ejecutoria, hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
+II.- Los que hayan sido removidos de otra tutela por haber ejercido conductas de violencia respecto de la persona, o bien por haberse conducido incorrectamente respecto de la administración de los bienes del incapacitado;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III.- Los que, por sentencia que cause ejecutoria, hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV.- Los que hayan sido condenados por robo, abuso de confianza, fraude o por delitos contra la moral pública, o bien porque hayan sido sancionados administrativa o penalmente por conductas de violencia familiar;
 
 V.- Los que hayan sido condenados por robo, abuso de confianza, fraude o por delitos contra la moral pública;
 
@@ -5873,7 +6145,9 @@ I.- Los comprendidos en el artículo anterior, desde que sobrevenga o se adviert
 
 II.- Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
 
-III.- Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III.- Los que ejerzan conductas de violencia familiar, o se dirijan con negligencia, se conduzcan incorrectamente en el desempeño de la tutela, ya sea respecto de la persona o respecto de la administración de los bienes del incapacitado;
 
 IV.- Los tutores que no rindan sus cuentas dentro del término fijado al respecto por este Código;
 
@@ -5881,13 +6155,17 @@ V.- El tutor que sin la previa dispensa y aprobación de las cuentas de la tutel
 
 VI.- El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1092.
 
-No pueden ser tutores del demente los que hayan sido causa de la demencia ni los que la hayan fomentado directa o indirectamente.
+No pueden ser tutores del incapacitado, los que hayan sido causa de la incapacidad ni los que la hayan fomentado directa o indirectamente.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 1093.
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes, estupefacientes, psicotrópicos o de cualquiera otra substancia que altere la conducta y produzca dependencia.
+Lo dispuesto en el Artículo anterior se aplicará, en cuanto fuere posible, a la tutela de las personas con alguna incapacidad física, sensorial, intelectual, mental y de los que abusan habitualmente de las drogas enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca dependencia.
 
 ###### Artículo 1094.
 
@@ -6025,7 +6303,9 @@ Cuando el tutor tenga que administrar bienes, no podrá entrar a la administraci
 
 El tutor está obligado:
 
-I.- A alimentar y educar al incapacitado, a cargo del patrimonio de éste;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+I.- A alimentar y educar y procurar en todo momento el desarrollo y bienestar del incapacitado, a cargo del patrimonio de éste así como procurarlo en un ambiente de respeto en su integridad física, psicoemocional y sexual;
 
 II.- A destinar, de preferencia, los recursos del incapacitado a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca dependencia;
 
@@ -6711,9 +6991,13 @@ I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a 
 
 II.- El que haya hecho contra el autor de la sucesión o contra alguna de las otras personas mencionadas en la fracción anterior, denuncia o acusación por delito que merezca pena de prisión, aun cuando aquélla sea fundada, si el acusador o denunciante fuere descendiente, ascendiente, cónyuge o hermano del testador, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra o la de sus descendientes, ascendientes, hermanos, medios hermanos o cónyuge o persona con la que haga vida marital;
 
-III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
+III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al otro cónyuge;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del otro cónyuge;
 
 V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus descendientes, de su cónyuge o persona con quien hizo vida marital;
 
@@ -6727,7 +7011,11 @@ IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitad
 
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
-XI.- El que, conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
+XI.- El que, conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XII.- El que haya sido condenado por el delito de violencia familiar cometida en contra del testador.
 
 ###### Artículo 1263.
 
@@ -7525,6 +7813,8 @@ IV.- Si no llega a cumplirse, dentro del plazo fijado, la condición suspensiva 
 
 ### CAPITULO SEGUNDO. Del testamento público abierto
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1428.
 
 El testamento, en cuanto a su forma, es ordinario o especial.
@@ -7569,9 +7859,11 @@ VI.- Los herederos o legatarios, sus descendientes, ascendientes, cónyuge, o pe
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1432.
 
-Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, dos intérpretes nombrados por el mismo testador.
+Cuando el testador no sepa hablar o escribir el idioma español, concurrirá al acto y firmará el testamento, un intérprete nombrado por el mismo testador
 
 ###### Artículo 1433.
 
@@ -7609,47 +7901,65 @@ Lo dispuesto en el primer párrafo del artículo anterior, se observará tambié
 
 ###### Artículo 1439.
 
-Testamento público abierto es el que se otorga ante notario y tres testigos idóneos.
+Testamento público abierto es el que se otorga ante notario de conformidad con las disposiciones de este Capítulo.
 
-###### Artículo 1440.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, hora, día, mes y año en que hubiere sido otorgado.
+###### Articulo 1440.
+
+El testador expresará de un modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, el testigo y el intérprete, asentándose el lugar, hora, día, mes y año en que hubiere sido otorgado.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 1441.
 
-Si alguno de los testigos no supiere escribir firmará otro de ellos por él; pero, cuando menos, deberá constar la firma entera de dos testigos.
+En los casos previstos en los artículos 1442, 1444 y 1445 de este Código, así como cuando el testador o el notario lo soliciten, un testigo deberá concurrir al acto de otorgamiento y firmar el testamento.
+
+El testigo instrumental a que se refiere este artículo podrá intervenir, además, como testigo de conocimiento.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 1442.
 
-Si el testador no pudiere o no supiere firmar, intervendrá otro testigo más, que firmará por él a su ruego.
+Si el testador no pudiere o no supiere firmar, nombrará a un testigo, quien firmará a su ruego y encargo del testador y éste imprimirá su huella digital.
 
 ###### Artículo 1443.
 
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2010)
 
 ###### Artículo 1444.
 
 El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiere hacerlo, designará una persona para que lo lea por él.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1445.
 
-Cuando el testador sea ciego, se dará lectura al testamento dos veces; una por el notario, como está prescrito en el artículo 1440, y otra, en igual forma, por uno de los testigos u otra persona que el testador designe.
+Cuando el testador sea ciego, se dará lectura al testamento dos veces; una por el notario, como está prescrito en el Artículo 1440, y otra, por el testigo que el testador designe.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 1446.
 
-Cuando el testador ignore el idioma del país, si puede escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1432.
+Cuando el testador no sepa hablar o escribir el idioma español, si puede escribirá de su puño y letra su testamento, que será traducido al español por el intérprete a que se refiere el artículo 1432.
 
 ###### Artículo 1447.
 
 La traducción hecha conforme al artículo anterior se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del notario que intervenga en el acto.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 1448.
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dicte aquél, y leído y aprobado por el testador se traducirá al español por los dos intérpretes que deben concurrir al acto. Hecha la traducción se procederá como se dispone en el artículo anterior.
+Si el testador no puede o no sabe escribir, el intérprete escribirá el testamento que dicte aquel, y leído y aprobado por el testador se traducirá al español por el mismo intérprete que debe acudir al acto. Hecha la traducción se procederá como se dispone en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 1449.
 
-Si el testador no puede o no sabe leer dictará en su idioma el testamento a uno de los intérpretes y traducido por los dos intérpretes se procederá como dispone el artículo 1447.
+Si el testador no puede o no sabe leer dictará en su idioma el testamento al intérprete y traducido, por éste se procederá como dispone el artículo 1447.
+
+En este caso el intérprete podrá intervenir, además, como testigo de conocimiento.
 
 ###### Artículo 1450.
 
@@ -8051,7 +8361,9 @@ El concubinario o la concubina heredarán como el cónyuge.
 
 Si la vida en común de quien haya vivido con el autor de la herencia públicamente como cónyuge sin estar casado con él y sin que hubiese ningún impedimento para que contrajese matrimonio uno con otro, duró menos de dos años y no procrearon ningún hijo, el supérstite solo tendrá derecho a alimentos.
 
-### CAPITULO SEXTO. De la sucesión del Estado
+### CAPITULO VI (SIC). De la sucesión del Estado
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 1535.
 
@@ -8069,11 +8381,15 @@ A falta de hermanos, sucederán los hijos de éstos, dividiéndose la herencia p
 
 Ninguna distinción hace la ley, al llamar a los colaterales a la sucesión legítima, entre parientes civiles y parientes por consanguinidad.
 
-### CAPITULO PRIMERO. De las precauciones que deben adoptarse cuando la viuda queda encinta
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO I (SIC). De las precauciones que deben adoptarse cuando la viuda queda embarazada
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 1539.
 
-A falta de todos los herederos llamados en los capítulos anteriores, sucederá el Estado.
+A falta de todos los herederos llamados en los capítulos anteriores, sucederá el Estado, el cual asignará una mitad de dicho patrimonio a instituciones que tengan funciones de asistencia y prevención de la violencia familiar y la otra mitad se aplicará para el desarrollo de programas que den acceso a la comunidad quintanarroense de escasos recursos, facilitando la realización de su testamento de forma gratuita.
 
 > <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
@@ -8083,11 +8399,13 @@ Cuando sea heredero el Estado y entre lo que le corresponda existan bienes raíc
 
 ## TITULO QUINTO. Disposiciones comunes a las sucesiones testamentaria y legítima
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO SEGUNDO. Del derecho de acrecer
 
 ###### Artículo 1541.
 
-Cuando a la muerte del marido la viuda crea haber quedado encinta, lo pondrá en conocimiento del Juez que conozca de la sucesión, dentro del término de cuarenta días, para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
+Cuando a la muerte del marido la viuda crea haber quedado embarazada, pondrá en conocimiento del Juez que conozca de la sucesión las pruebas que acrediten el embarazo dentro del término de cuarenta días contados a partir de aquel en que se dé dicho aviso, para los efectos de los derechos sucesorios del producto y demás a que haya lugar.
 
 ###### Artículo 1542.
 
@@ -14589,7 +14907,7 @@ En lo no previsto y cuando expresamente se establezca que para la ejecución de 
 
 ###### Artículo 2822.
 
-Si un accidente imprevisto hiciere, a juicio del mandatario, perjudicial la ejecución de las instrucciones recibidas, podrá suspender en cumplimiento el mandato, comunicándolo así al mandante por el medio más rápido.
+Si un accidente imprevisto hiciere, a juicio del mandatario, perjudicial la ejecución de las instrucciones recibidas, podrá suspender el cumplimiento del mandato, comunicándolo así al mandante por el medio más rápido.
 
 ###### Artículo 2823.
 
@@ -17026,3 +17344,29 @@ P.O. 30 DE NOVIEMBRE DE 2010.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 374, SE MODIFICAN DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las normas que se opongan al presente Decreto.
+
+TERCERO.- El Sistema Estatal de Desarrollo Integral de la Familia contará, con 90 días a partir de la entrada en vigor del presente Decreto, para implementar la figura de Oficial de Menores de Edad, dentro del personal con que cuenta para su debida selección y capacitación, para los efectos que la ley señala.
+
+T R A N S I T O R I O
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 375, SE REFORMAN LOS ARTICULOS 1432, 1439, 1440, 1441, 1442, 1445, 1446 Y 1448; SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 1441 Y UN SEGUNDO PARRAFO AL ARTICULO 1449; Y SE DEROGA EL ARTICULO 1443, TODOS DEL CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el periódico Oficial del Estado de Quintana Roo.
