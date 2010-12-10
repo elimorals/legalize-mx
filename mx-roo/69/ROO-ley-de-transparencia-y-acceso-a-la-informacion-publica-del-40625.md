@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4062
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2009-06-30"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE QUINTANA ROO
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de mayo de 2004.
 
@@ -197,7 +197,7 @@ Toda persona podrá solicitar al Instituto Electoral de Quintana Roo, informaci�
 
 Los Sujetos Obligados deberán hacer pública toda aquella información relativa a los montos y las personas a quienes entreguen, por cualquier motivo, recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2008)</small>
 
 ###### Artículo 14.
 
@@ -207,7 +207,7 @@ Dicho informe deberá incluir: el número de solicitudes de información present
 
 ### CAPÍTULO TERCERO. DE LAS OBLIGACIONES DE INFORMACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2008)</small>
 
 ###### Artículo 15.
 
@@ -349,7 +349,7 @@ Las escuelas de educación media superior, universidades e instituciones de educ
 
 El Ejercicio del derecho de acceso a la información pública, sólo será restringido en los términos de lo dispuesto por esta Ley, mediante las figuras de la Información Reservada y Confidencial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
 ###### Artículo 22.
 
@@ -409,7 +409,7 @@ XXI. Cuando se trate de información de particulares recibida por la administrac
 
 Los Titulares de los Sujetos Obligados o los servidores públicos debidamente autorizados por este, conjuntamente con los Titulares de las Unidades de Vinculación, serán responsables de clasificar la información de conformidad con los criterios establecidos en esta ley, los lineamientos expedidos por el Instituto y los ordenamientos reglamentarios u análogos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2008)</small>
 
 ###### Artículo 24.
 
@@ -431,7 +431,7 @@ III. El daño que puede producirse con la liberación de la información es mayo
 
 El acuerdo que clasifique la información como reservada o confidencial, deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2008)</small>
 
 ###### Artículo 26.
 
@@ -575,11 +575,15 @@ PÚBLICA DE QUINTANA ROO
 
 Se crea el Instituto de Transparencia y Acceso a la Información Pública de Quintana Roo, como un órgano público, autónomo, con personalidad jurídica y patrimonio propio, encargado de promover y difundir el ejercicio del derecho de acceso a la información; resolver sobre la negativa a las solicitudes de acceso a la información, proteger los datos personales en poder de los Sujetos Obligados, y coadyuvar en la formación de la cultura de la transparencia y el derecho a la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 39.
 
-El Instituto contará con un Órgano Colegiado de Dirección denominado Junta de Gobierno, que se integra por un Consejero Presidente y dos Consejeros Vocales, designados mediante el procedimiento que se contempla en la presente Ley, mismos que tendrán voz y voto; concurre, un Secretario Ejecutivo electo por los propios Consejeros, a propuesta del Consejero Presidente, quien sólo tendrá voz.
+El Instituto contará con un Órgano Colegiado de Dirección denominado Junta de Gobierno, que se integra por tres Consejeros Ciudadanos, uno de los cuales fungirá como Presidente, designados mediante el procedimiento que se contempla en la presente Ley, mismos que tendrán voz y voto; concurre, un Secretario Ejecutivo electo por los propios Consejeros, a propuesta del Consejero Presidente, quien sólo tendrá voz. El Consejero Presidente será electo en la primera sesión que se celebre en el mes de agosto del año que corresponda y, durará como tal, por un período de tres años, pudiendo ser reelecto para un período igual.
 
-Las resoluciones del Instituto se tomarán por mayoría de votos y para sesionar válidamente se requerirá de la asistencia de al menos dos de sus integrantes, si entre ellos se encuentra el Presidente, quien en este supuesto tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Las resoluciones del Instituto no estarán subordinadas a autoridad alguna, por lo que emitirán sus decisiones con plena independencia, se tomarán por mayoría de votos y para sesionar válidamente se requerirá de la asistencia de al menos dos de sus integrantes. El voto de calidad lo tendrá el Consejero Presidente y, en ausencia de éste, el Consejero Ciudadano de mayor antigüedad en el cargo.
 
 La representación legal del Instituto la tendrá el Consejero Presidente.
 
@@ -675,9 +679,11 @@ XXIII. Las demás que le confiera esta Ley.
 
 Los Sujetos Obligados deberán prestarle al Instituto, gratuitamente, el apoyo que requiera para el desempeño de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 43.
 
-Para ser Consejero Presidente, Consejero Vocal y Secretario Ejecutivo del Instituto, se deberá reunir y mantener los siguientes requisitos.
+Para ser Consejero Ciudadano y Secretario Ejecutivo del Instituto, se deberá reunir y mantener los siguientes requisitos.
 
 I. Ser mexicano por nacimiento, sin tener otra nacionalidad, y ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles;
 
@@ -703,11 +709,15 @@ X. No ser ni haber sido, Gobernador, Secretario de Despacho, Procurador General 
 
 XI. No ser, ni haber sido ministro de culto religioso, en los últimos cinco años anteriores a la fecha de designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 44.
 
-El procedimiento para la designación del Consejero Presidente y de los Consejeros Vocales de la Junta de Gobierno del Instituto, se sujetará al trámite siguiente:
+El procedimiento para la designación de los Consejeros Ciudadanos de la Junta de Gobierno del Instituto, se sujetará al trámite siguiente:
 
-I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar dos candidatos para cada cargo a designar, ante la Comisión de Puntos Legislativos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación permanente, en su caso, convocará a los grupos parlamentarios, a presentar de considerarlo conducente, cuando menos dos candidatos para cada cargo a designar, ante la Comisión de Puntos Legislativos.
 
 La Convocatoria deberá publicarse en el Periódico Oficial del Gobierno del Estado de Quintana Roo, y en cuando menos dos periódicos comerciales de circulación estatal.
 
@@ -717,21 +727,27 @@ II. Los grupos parlamentarios contarán, a partir del día siguiente a la public
 
 III. La Comisión de Puntos Legislativos, una vez vencido el plazo señalado en la fracción que antecede, se reunirá para revisar si las propuestas cumplen con los requisitos de ley, pudiendo, en su caso, prevenir a los proponentes para que, en el término de veinticuatro horas, contadas a partir de que fueren notificados, subsanen la información proporcionada o bien complementen la documentación requerida; vencido el plazo, la Comisión de Puntos Legislativos, con la documentación que obrase en su poder, emitirá el dictamen correspondiente, mismo que contendrá la relación de los nombres de las personas propuestas que satisficieron los requisitos legales.
 
-IV. El citado dictamen se presentará en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores, por voto calificado, designen, de entre las propuestas que cumplieron con los requisitos, al Consejero Presidente y los Consejeros Vocales.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+IV. El citado dictamen se presentará en sesión plenaria de la legislatura o la Diputación Permanente, según corresponda para efecto de que los legisladores, por voto calificado, designen, de entre las propuestas que cumplieron con los requisitos al Consejero Ciudadano.
 
 V. Los designados deberán comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la Protesta de Ley.
 
-VI. La designación del Consejero Presidente y los Consejeros Vocales de la Junta de Gobierno del Instituto, se mandará a publicar en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VI. La designación del Consejero Ciudadano de la Junta de Gobierno del Instituto se mandará a publicar en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 45.
 
-Los integrantes de la Junta de Gobierno del Instituto durarán en su encargo seis años, y podrán ser ratificados de manera individual, hasta por un período más de tres años, con la misma votación requerida para su nombramiento.
+Los Consejeros Ciudadanos del Instituto durarán en su encargo seis años y sólo podrán ser removidos de sus funciones cuando transgredan en forma grave o reiterada las disposiciones contenidas en la Constitución del Estado y las de la presente Ley, cuando por actos u omisiones se afecten las atribuciones del Instituto, cuando hayan sido sentenciados por un delito grave que merezca pena corporal, o cuando dejen de satisfacer cualquiera de los requisitos de elegibilidad.
 
-Los Consejeros sólo podrán ser removidos de sus funciones cuando transgredan en forma grave o reiterada las disposiciones contenidas en la Constitución del Estado y las de la presente Ley, cuando por actos u omisiones se afecten las atribuciones del Instituto, cuando hayan sido sentenciados por un delito grave que merezca pena corporal, o cuando dejen de satisfacer cualquiera de los requisitos de elegibilidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 46.
 
-La retribución que reciban el Consejero Presidente y los Consejeros Vocales, será la equivalente a la de un Magistrado Numerario del Tribunal Superior de Justicia del Estado.
+La retribución que reciban los Consejeros Ciudadanos del Instituto de Transparencia y Acceso a la Información Pública, será la equivalente a la de un Magistrado Numerario del Tribunal Superior de Justicia del Estado.
 
 > <small>(ADICIONADO, P.O. 18 DE MARZO DE 2008)</small>
 
@@ -745,19 +761,23 @@ El Instituto presentará a la Legislatura del Estado para su aprobación a más 
 
 La Legislatura del Estado, al aprobar la remuneración de los servidores públicos del Instituto, establecerá los montos mínimos y máximos aplicables al ejercicio fiscal de que se trate. En caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el ejercicio inmediato anterior.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 47.
 
-El Consejero Presidente y los Consejeros Vocales de la Junta de Gobierno del Instituto, no podrán desempeñar ningún otro empleo, cargo o comisión oficial y solo podrán recibir percepciones derivadas de actividades docentes, regalías por derechos de autor o publicaciones, siempre que no se afecte el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+Los Consejeros Ciudadanos de la Junta de Gobierno del Instituto, no podrán desempeñar ningún otro empleo, cargo o comisión oficial y solo podrán recibir percepciones derivadas de actividades docentes, regalías por derechos de autor o publicaciones, siempre que no se afecte el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 48.
 
-En caso de falta definitiva del Consejero Presidente o de los Consejeros Vocales, se seguirá el mismo procedimiento señalado para la designación; en cuyo caso, el designado, concluirá el período de aquel al que sustituya. En todo caso, la vacante deberá ser cubierta en un plazo no mayor de noventa días naturales, contados a partir de que la Legislatura o la Diputación Permanente, según sea el caso, tengan conocimiento.
+En caso de falta definitiva de los Consejeros Ciudadanos, se seguirá el mismo procedimiento señalado para la designación. Si la ausencia recayera en quien funja como Consejero Presidente, primero deberá de ser designado el Consejero Ciudadano por la Legislatura o la Diputación Permanente, y una vez designado, los integrantes de la Junta de Gobierno procederán inmediatamente a elegir a otro Consejero Presidente, quien concluirá el período de aquel al que sustituya. En todo caso, la vacante deberá ser cubierta en un plazo no mayor de noventa días naturales, contados a partir de que la Legislatura o la Diputación Permanente, según corresponda, tengan conocimiento.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 49.
 
-Durante el mes de abril de cada año, el Consejero Presidente del Instituto rendirá un informe anual de labores y resultados al Congreso del Estado, en el cual se incluirá la descripción de la información remitida por los Sujetos Obligados comprendidos en esta Ley; el número de asuntos atendidos, las dificultades observadas en el cumplimiento de esta Ley; así como las demás actividades y acciones llevadas a cabo en ejercicio de las atribuciones del Instituto. El informe anual será difundido con amplitud y colocado en el sitio cibernético del Instituto, para que a través de la Internet tengan acceso los sujetos de derechos.
+Durante el mes de abril de cada año, el Consejero Presidente del Instituto rendirá un informe anual de labores y resultados al Congreso del Estado, en el cual se incluirá al menos la descripción de la información remitida por los Sujetos Obligados comprendidos en esta Ley; el número de solicitudes de acceso a la información presentadas ante cada sujeto obligado y ante el Instituto, así como su resultado, el tiempo de respuesta, las dificultades observadas en el cumplimiento de esta Ley; así como las demás actividades y acciones llevadas a cabo en ejercicio de las atribuciones del Instituto. El informe anual será difundido con amplitud y colocado en el sitio cibernético del Instituto, para que a través de la Internet tengan acceso los sujetos de derechos.
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO PARA EL EJERCICIO DEL DERECHO
 
@@ -775,7 +795,7 @@ Cuando la solicitud sea por escrito o verbal, deberá de presentarse ante la Uni
 
 Las solicitudes que se presenten de manera electrónica, se tramitaran por dicha vía, siguiendo el procedimiento establecido para la substanciación de las solicitudes que se señala en los siguientes artículos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2008)</small>
 
 ###### Artículo 51.
 
@@ -1169,7 +1189,7 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EFRAÍN VILLANUEVA ARCOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE MARZO DE 2008.
 
@@ -1188,3 +1208,13 @@ P.O. 30 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- La designación del Consejero Presidente de la Junta de Gobierno del Instituto, en términos del artículo 39 de la ley, ocurrirá en el mes de agosto del año dos mil dieciséis. En caso que por cualquier circunstancia el actual Consejero Presidente de la Junta de Gobierno no concluya el período por el cual fue designado, los integrantes de la Junta de Gobierno procederán de acuerdo con el artículo citado de la Ley.
+
+TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
