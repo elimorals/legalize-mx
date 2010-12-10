@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-procuraduria-general-de-justicia-del-38445"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-13"
-last_updated: "2004-02-13"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 193
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Alcance III del Periódico Oficial del Estado de Guerrero, el viernes 13 de febrero de 2004.
 
@@ -815,7 +815,9 @@ IV. Proteger los derechos e intereses de los menores, incapaces, ausentes, senes
 
 V. Realizar estudios, formular y ejecutar lineamientos de política criminal y promover reformas que tengan por objeto hacer más eficiente la procuración e impartición de justicia;
 
-VI. Proporcionar atención a las víctimas o a los ofendidos del delito y facilitar la coadyuvancia de uno u otro, en los términos de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VI. Proporcionar atención y protección a las víctimas o a los ofendidos del delito y facilitar la coadyuvancia de uno u otro, en los términos de la Constitución Política de los Estados Unidos Mexicanos;
 
 VII. Promover la participación de la comunidad en programas y acciones de fomento a la cultura de denuncia y prevención del delito;
 
@@ -979,11 +981,15 @@ I. Intervenir ante los órganos jurisdiccionales para la protección de los inte
 
 II. Iniciar el trámite de incidentes penales conforme a lo establecido en el Código de Procedimientos Penales del Estado;
 
-III. Promover la conciliación en los asuntos del orden familiar, como instancia previa al órgano jurisdiccional;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III. Promover la conciliación en los asuntos del orden familiar, siempre y cuando no se hayan cometido hechos constitutivos de delitos, como instancia previa al órgano jurisdiccional;
 
 IV. Procurar la coordinación y colaboración con instituciones públicas y privadas que tengan por objeto la asistencia social de menores, incapaces, senescentes, indígenas, campesinos y otros grupos vulnerables, para prestarles asesoría y protección;
 
-V. Intervenir y dar atención a los problemas derivados de la violencia social e intrafamiliar; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+V. Intervenir y dar atención a los problemas derivados de la violencia social y familiar; y
 
 VI. Las demás que determinen otras disposiciones aplicables.
 
@@ -1013,9 +1019,15 @@ Respecto a la atención a víctimas u ofendidos del delito, el Ministerio Públi
 
 I. Proporcionar información, orientación y asesoría legal gratuita a víctimas u ofendidos del delito por el tiempo que dure el proceso, haciendo uso de los instrumentos de coordinación y colaboración suscritos con instituciones públicas y privadas, para que éstas coadyuven y les asistan en otros aspectos;
 
-II. Procurar con equidad y justicia que se garantice a las víctimas u ofendidos del delito, la restitución de los derechos y la reparación del daño material, psicológico y moral causados;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-III. Gestionar y concertar acciones con instituciones de asistencia médica y social, públicas y privadas, para que presten a las víctimas u ofendidos del delito, atención interdisciplinaria de carácter médico y psicológico;
+II. Procurar con equidad y justicia que se garantice a las víctimas u ofendidos del delito, la restitución de los derechos y la reparación del daño material, psicológico y moral causados; la coadyuvancia, el ofrecimiento de pruebas, los recursos que correspondan y demás derechos que la Constitución Política de los Estados Unidos Mexicanos les otorga;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+III. Gestionar y concertar acciones con instituciones de asistencia médica y social, públicas y privadas, para que presten a las víctimas u ofendidos del delito, atención interdisciplinaria de carácter médico y psicológico, desde el momento de presentar su denuncia;
+
+Cuando a consecuencia del delito de violación la víctima o su representante solicite la interrupción legal del embarazo, de acuerdo a lo establecido en el Código Penal, el Ministerio Público la canalizará a una institución de salud pública para la interrupción del mismo;
 
 IV. Integrar en el programa de trabajo de la Procuraduría General de Justicia, una mayor vinculación con la sociedad, para la difusión de la prevención del delito y la atención que se proporciona a víctimas u ofendidos del delito, a fin de estimular la participación de Instituciones públicas y privadas, conocedoras o involucradas en la materia;
 
@@ -1145,7 +1157,9 @@ X. No realizar actos arbitrarios, ni limitar indebidamente las acciones o manife
 
 XI. Abstenerse de ordenar o realizar la detención o retención de persona alguna, sin cumplir los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos legales aplicables;
 
-XII. Velar por el respeto a la vida e integridad física de las personas detenidas o puestas a su disposición;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XII. Velar por el respeto a la vida e integridad de las personas detenidas o puestas a su disposición, así como de las víctimas u ofendidos del delito;
 
 XIII. Participar en operativos coordinadamente con otras autoridades o corporaciones policiales, así como proporcionarles el apoyo que conforme a derecho proceda;
 
@@ -1663,9 +1677,11 @@ El Procurador General de Justicia, dictará las medidas y providencias necesaria
 
 Igual medida se tomará para las demás personas que por su intervención en la integración de la averiguación previa o en el proceso penal sea pertinente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 72.
 
-El servicio de seguridad y protección policial podrá prestarse por el tiempo estrictamente necesario, también a los particulares que por su actividad empresarial o laboral pudiesen ser susceptibles de delitos graves o exista el riesgo fundado de ser sujeto de agresión o amenaza en su persona, familia y bienes.
+El servicio de seguridad y protección policial podrá prestarse por el tiempo estrictamente necesario, también a los particulares que por su actividad empresarial o laboral pudiesen ser susceptibles de delitos graves o exista el riesgo fundado de ser sujeto de agresión o amenaza en su persona, familia y bienes, así como a víctimas o testigos que por la naturaleza del delito requieran protección.
 
 Este servicio se sujetará a las bases y lineamientos que se establezcan en el reglamento de la presente Ley.
 
@@ -1914,3 +1930,11 @@ El Secretario General de Gobierno.
 C. MAYOR LUIS LEON APONTE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
