@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2010-11-30"
+last_updated: "2010-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -2109,7 +2109,7 @@ Se entiende por acopio la detentación de tres o más armas de aquellas a que se
 
 ### CAPITULO I. CORRUPCION DE PERSONAS MENORES DE EDAD O DE QUIENES NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 181.
 
@@ -2119,11 +2119,11 @@ Al que forme parte de manera permanente de una asociación o banda de tres o má
 
 ### CAPITULO II. LENOCINIO
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO III. TRATA DE PERSONAS
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 182.
 
@@ -2223,21 +2223,13 @@ Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicame
 
 ###### ARTICULO 191.
 
-A quien procure, facilite o induzca a una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporales o sexuales, prostitución, prácticas sexuales, consumo de algún narcótico o bebida embriagante, práctica de la mendicidad, comisión de algún delito o a formar parte de una asociación delictuosa, se le aplicarán de cuatro a once años de prisión, de cincuenta a doscientos días multa y se le inhabilitará para ser tutor.
+A quien facilite o induzca a una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporales o sexuales, prácticas sexuales, a consumir algún narcótico o bebida embriagante, a la comisión de algún delito o a formar parte de una asociación delictuosa, se le aplicarán de cuatro a once años de prisión, de cincuenta a doscientos días multa y se le inhabilitará para ser tutor.
 
 Se aumentará la pena privativa de libertad hasta en una mitad más al que obligue a una persona menor de dieciocho años de edad o que no tenga la capacidad para comprender el significado del hecho, a realizar una o varias de las conductas anteriormente descritas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2006)</small>
-
 ###### ARTICULO 192.
 
-Al que emplee a una persona menor de dieciocho años de edad o que no tenga la capacidad para comprender el significado del hecho en lugares que por su naturaleza sean nocivos a su sano desarrollo físico, mental o emocional, se le impondrá prisión de cuatro a ocho años y, además, la suspensión o clausura del establecimiento en caso de reincidencia.
-
-A los padres o tutores que acepten que los menores sujetos a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá la pena de prisión prevista en el párrafo anterior, aumentada hasta en una mitad más y se le privará o suspenderá hasta por cinco años en el ejercicio de aquellos derechos y, en su caso, del derecho a los bienes del ofendido.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
-
-Para los efectos de este precepto, se considerará que es empleado la persona menor de dieciocho años o que no tenga la capacidad para comprender el significado del hecho que preste sus servicios por un salario, gratuitamente o por cualquier prestación.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE OCTUBRE DE 2006)</small>
 
@@ -2293,29 +2285,15 @@ A quien realice cualquier tipo de actos sexuales reales o simulados con una o va
 
 ###### ARTICULO 193.
 
-Comete el delito de lenocinio:
+Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaja económica u otro beneficio procedente del comercio sexual de otra persona mayor de edad, siempre que no constituya trata de personas. A quién cometa este delito se le impondrá una pena de cuatro a diez años de prisión y de quinientos a mil días de multa.
 
-I. Quien explote el cuerpo de otra persona por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
-
-II. Quien obligue a una persona o la solicite para que con otra comercie sexualmente con su cuerpo o le facilite los medios para que ejerza la prostitución;
-
-III. Quien regentee, dirija, patrocine, administre o sostenga, directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia en los que se explote la prostitución u obtenga cualquier beneficio de la ejecución de esos actos; y
-
-IV. Quien oculte, concierte o permita el comercio carnal de una persona; (sic)
-
-El delito de lenocinio se sancionará con prisión de seis a doce años y con cincuenta a cuatrocientos días multa. Si la persona explotada fuere menor de dieciocho años de edad o que no tuviere la capacidad para comprender el significado del hecho la pena se aumentará hasta en una mitad.
+Al que sin ánimo de lucro o de explotación concierte o facilite la explotación sexual de una persona menor de dieciocho años a través de la pornografía o exhibiciones corporales públicas o privadas, se le aplicará una sanción de cuatro a diez años de prisión y de mil a mil quinientos días (sic) multa.
 
 ### CAPITULO V. SABOTAJE
 
 ###### ARTICULO 194.
 
-Comete el Delito de trata de personas quien promueva, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una persona para someterla a cualquier forma de explotación, incluida la explotación sexual comercial infantil, los trabajos o servicios forzados, la esclavitud o las prácticas análogas a la esclavitud, la servidumbre, o para ser extirpada de sus órganos, tejidos o sus componentes, dentro o fuera del territorio del Estado.
-
-Al autor de este delito se le impondrá una pena de siete a dieciocho años de prisión y de cincuenta a trescientos días multa. Si el ofendido fuere persona menor de dieciocho años de edad o quien no tuviere la capacidad para comprender el significado del hecho la pena se aumentará en una mitad más.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2009)</small>
-
-Si se emplease violencia o el agente se valiese de una función pública que tuviere, la pena de prisión se agravará hasta tres años más y la multa hasta doscientos días más, sin exceptuar las sanciones establecidas en la ley de Responsabilidades de (sic) Servidores Públicos.
+Para el delito de trata de personas, se atenderá a lo dispuesto por la Ley para Prevenir, Combatir y Sancionar la Trata de Personas del Estado de Quintana Roo.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -2353,7 +2331,9 @@ QUÁTER.- Se sancionará con prisión de tres a seis años e inhabilitación del
 
 QUINQUIES.- Comete el delito de venta de niños, niñas y adolescentes, a quién facilite, gestione, promueva, instrumente, realice y/o consienta la entrega o recepción de un niño, niña o adolescente para sí, para un tercero o terceros a cambio de remuneración económica o de cualquier otra retribución, aunque la finalidad sea de adopción. Al responsable de esta conducta se le impondrá una pena de diez a dieciséis años de prisión y de 400 a 500 días de salario mínimo de multa.
 
-Si la finalidad de la entrega fuere el matrimonio, se aplicarán de 7 a 18 años de prisión.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Si la finalidad de la entrega fuere el matrimonio, cualquier forma de explotación y/o para extirpar sus órganos, tejidos o componentes, se atenderá a lo dispuesto en la Ley para Prevenir, Combatir y Sancionar la Trata de Personas del Estado de Quintana Roo.
 
 Si el agente se valiese de una función pública o tuviere la patria potestad, guarda o custodia del menor de edad, la pena de prisión se aumentará en una mitad más de la establecida, sin exceptuar las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos aplicables.
 
@@ -3304,5 +3284,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo.- El Comité a que se refiere el artículo 19 de la ley, deberá instalarse en un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto. Una vez instalado, el Comité deberá elaborar el Programa Estatal en un plazo de noventa días hábiles.
+
+Tercero.- Los Municipios deberán elaborar y aprobar su Programa Municipal en un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, así como para adecuar sus normas reglamentarias para la debida aplicación de la Ley.
+
+TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
