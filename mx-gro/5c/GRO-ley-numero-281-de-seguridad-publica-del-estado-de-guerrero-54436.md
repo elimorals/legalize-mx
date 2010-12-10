@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-281-de-seguridad-publica-del-estado-de-guerrero-5443
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-16"
-last_updated: "2009-06-16"
+last_updated: "2010-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 281 DE SEGURIDAD PUBLICA DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Guerrero, el viernes 16 de febrero de 2007.
 
@@ -171,15 +171,15 @@ VI.- Cuidar y proteger los bienes, las riquezas y recursos naturales de la Entid
 
 VII.- El apoyo y auxilio a la población, en casos de siniestros y desastres naturales, conforme a la ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 5.
 
-El Estado y los Municipios, en el ámbito de sus respectivas competencias, desarrollarán políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+El Estado y los Municipios, en el ámbito de sus respectivas competencias, combatirán las causas que generan la comisión de delitos y conductas antisociales y desarrollarán políticas, programas y acciones para incluir a la sociedad en la planeación y supervisión de la seguridad pública, fomentando valores cívicos y culturales que estimulen el respeto a la legalidad y a los derechos humanos, la igualdad, la equidad social y la no discriminación, la preservación del orden público y la tranquilidad social.
 
 Así mismo, tendrán la obligación de desarrollar mecanismos y líneas de acción, para garantizar los fines y objetivos de este ordenamiento en las comunidades y pueblos indígenas, reconocidos y asentados en las regiones de la Entidad, así como en las zonas urbanas donde exista esta población, con estricto apego a los principios que establece el artículo 2° de la Constitución Federal.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE2009)</small>
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 El Estado y los Municipios en el ámbito de su competencia, en materia de Prevención del Delito tendrán las atribuciones siguientes:
 
@@ -209,11 +209,11 @@ La función de Seguridad Pública se realizará en los diversos ámbitos de comp
 
 La seguridad pública comprenderá la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, así como la investigación y la persecución de los delitos y la reinserción social del individuo.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 6.
 
-La conducta de los miembros de las instituciones de seguridad pública, se regirán por los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos.
+La conducta de los miembros de las instituciones de seguridad pública, se regirán por los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez, además del respeto a los derechos humanos, a la no discriminación, a la equidad, certeza, objetividad e imparcialidad.
 
 ###### ARTÍCULO 7.
 
@@ -235,11 +235,11 @@ La aplicación de la Ley corresponde a las autoridades Estatales y Municipales e
 
 El Estado y los Municipios, aplicarán de manera adecuada y transparente los recursos públicos-financieros que al efecto sean destinados para el rubro de seguridad pública, o de manera revolvente mediante acuerdos o convenios entre aquellos con la federación, a efecto de cumplir estrictamente con los objetivos y fines de la Seguridad Pública.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE2009)</small>
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 Los recursos que se programen, presupuesten y aporten para el estado y los municipios, únicamente podrán ser aplicados a los fines de seguridad pública; estos recursos deberán ser concentrados y administrados en una cuenta específica, así como los rendimientos que generen, a efecto de identificarlos y separarlos del resto de los recursos que con cargo a su presupuesto destinen a seguridad pública.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE2009)</small>
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 De dichos recursos deberán rendir informes trimestrales al Secretariado Ejecutivo del Sistema Nacional sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos, su destino así como los recursos comprometidos, devengados y pagados.
 
@@ -249,15 +249,27 @@ Para los efectos de este artículo, el Estado y los Municipios tendrán la oblig
 
 I.- Prevenir las causas que generen el quebrantamiento del orden público, el estado de derecho y la tranquilidad social, así como combatir las conductas antisociales e infracciones a la Ley, a través de la formulación, desarrollo e instrumentación de políticas, programas y acciones entre sociedad y gobierno, y la realización de operativos policiales conjuntos;
 
-II.- La promoción de valores sociales, educativos y culturales que induzcan a los individuos al respeto de la legalidad, a los derechos humanos, a la vida y a prevenir la violencia intrafamiliar;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+II.- La promoción de valores sociales, educativos y culturales que induzcan a los individuos al respeto de la legalidad, a los derechos humanos, a la vida, a prevenir la violencia familiar y la no utilización de la violencia como mecanismo de solución de conflictos;
 
 III.- Implementar programas tendientes a la prevención y tratamiento de las adicciones de acuerdo a los programas de rehabilitación que establezcan para tal fin;
 
-IV.- El fomento de las acciones multidisciplinarias de índole cultural, educativas, deportivas, médicas y laborales, con especial atención a los grupos de riesgo o mayor propensión hacía las conductas antisociales; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-V.-El apoyo a los esfuerzos colectivos e individuales de autoprotección.
+IV.- El fomento de las acciones multidisciplinarias de índole cultural, educativas, deportivas, médicas y laborales, con especial atención a los grupos de riesgo o mayor propensión hacía las conductas antisociales;
 
-Para los fines del presente artículo, la Secretaría de Educación Guerrero, de acuerdo con los procedimientos previstos en las leyes aplicables, gestionará que en los planes de estudios se incluyan programas, cuyos contenidos promuevan y generen una cultura de prevención del delito, preservación de la tranquilidad y seguridad pública, respeto a los derechos humanos y al estado de derecho.
+> <small>(REFORMADA [N. DE E. REPUBLICADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+V.- El apoyo a los esfuerzos colectivos e individuales de autoprotección;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VI.- Diseñar la política integral para la prevención de delitos contra las mujeres en los ámbitos públicos y privados.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Para los fines del presente artículo, la Secretaría de Educación (sic) Guerrero, de acuerdo con los procedimientos previstos en las leyes aplicables, gestionará que en los planes de estudios se incluyan programas, cuyos contenidos promuevan y generen una cultura de prevención del delito, preservación de la tranquilidad y seguridad pública, respeto a los derechos humanos, a la igualdad, la equidad de género, la no discriminación y al estado de derecho.
 
 ###### ARTÍCULO 11.
 
@@ -1183,6 +1195,10 @@ XVI.- De la estadística de seguridad pública;
 
 XVII.- De política criminal;
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+XVII Bis.- De violencia contra las mujeres;
+
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
 XVIII.- Administrativo de detención.
@@ -1489,9 +1505,17 @@ III.- Realizar el seguimiento de los programas, estrategias y acciones en la mat
 
 IV.- Proponer estímulos o recompensas por méritos para los integrantes del Cuerpo de Policía Estatal;
 
-V.- Presentar denuncias o quejas sobre irregularidades del Cuerpo de Policía Estatal; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-VI.- Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
+V.- Presentar denuncias o quejas sobre irregularidades del Cuerpo de Policía Estatal;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VI.- Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+VII.- Participar en las acciones de prevención de la violencia contra las mujeres establecidas en los ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -1693,6 +1717,10 @@ Para la prevención de delitos y las faltas administrativas, así como para el a
 
 La policía preventiva municipal, acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+Asimismo coadyuvará con el Ministerio Público y las autoridades judiciales en la aplicación de medidas de protección a las víctimas del delito, así como a menores y mujeres víctimas de violencia sexual, familiar y trata de personas.
+
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2009)</small>
 
 ###### ARTÍCULO 90.
@@ -1839,9 +1867,9 @@ c).- Los espacios urbanos, así como en los inmuebles, instalaciones y servicios
 
 d).- Todos aquellos lugares, zonas o espacios del territorio sujeto a la jurisdicción estatal conforme a lo establecido por las Leyes respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-III.- Preservar las libertades, mantener y restablecer el orden y la paz públicos, así como salvaguardar la vida, la integridad, bienes y derechos de las personas, con estricto apego a la protección de los derechos humanos.
+III.- Garantizar, mantener y restablecer el orden y la paz públicos, así como salvaguardar la integridad de las personas y participar en la ejecución de medidas de protección a las víctimas u ofendidos del delito;
 
 El ejercicio de esta atribución se ejercerá en todos aquellos lugares, zonas o espacios del territorio sujetos a la jurisdicción estatal de conformidad con lo previsto por las leyes aplicables;
 
@@ -1911,11 +1939,17 @@ b).- Informar a la víctima u ofendido sobre los derechos que en su favor establ
 
 c).- Recibir todos los indicios y elementos de prueba que la víctima u ofendido aporte en ejercicio de su derecho de coadyuvancia, para la comprobación del cuerpo del delito y la probable responsabilidad del imputado, informando de inmediato al Ministerio Público a cargo del asunto para que éste acuerdo lo conducente;
 
-d).- Otorgar las facilidades que las leyes establezcan para identificar al imputado en los casos de delitos contra la libertad y el normal desarrollo psicosexual, privación ilegal de la libertad, así como dictar todas las medidas necesarias para evitar que se ponga en peligro la integridad física y psicológica de la víctima u ofendido en el ámbito de su competencia; y
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+d).- Otorgar las facilidades que las leyes establezcan para identificar al imputado en los casos de delitos contra la libertad y el normal desarrollo psicosexual, privación ilegal de la libertad, así como dictar todas las medidas necesarias para evitar que se ponga en peligro la integridad física y psicológica de la víctima u ofendido en el ámbito de su competencia;
 
 e).- Dictar las medidas necesarias y que estén a su alcance para que la víctima u ofendido reciba atención médica y psicológica de urgencia. Cuando la policía lo estime necesario, en el ámbito de sus atribuciones, tomará las medidas conducentes para que la atención médica y psicológica se haga extensiva a otras personas.
 
 En el ejercicio de esta atribución el Cuerpo de Policía Estatal deberá de asentar constancia de sus actuaciones, misma que se agregará al expediente que para los efectos de investigación se aperture, y
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
+f).- Contar con un equipo especializado que preste auxilio a víctimas de violencia familiar, sexual y trata de personas.
 
 XXXI.- Las demás que determinen las normas aplicables.
 
@@ -2980,3 +3014,9 @@ DÉCIMO TERCERO.- Sin perjuicio de las bases previstas en el presente Decreto, l
 DÉCIMO CUARTO.- Se derogan todas aquellas disposiciones contenidas en leyes, reglamentos, decreto y acuerdos, que se opongan o que ya se contengan en este decreto.
 
 DÉCIMO QUINTO.- Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
