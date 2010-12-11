@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2010-10-23"
+last_updated: "2010-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -231,19 +231,17 @@ XV. (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
 
 XVI. Las demás que le señalen las leyes, reglamentos y manuales de organización.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 16.
 
 Para el mejor desempeño de sus atribuciones, el Secretario se auxiliará de las siguientes Direcciones de Área:
 
-Dirección Jurídica;
+l. Dirección Jurídica;
 
-Dirección de Gobierno;
+II. Dirección de Gobierno, y
 
-Dirección de Oficialía Jurídica y Barandilla, y
-
-Dirección de Desarrollo Rural y Forestal Sustentable.
+III. Dirección de Oficialía Jurídica y Barandilla.
 
 ###### Artículo 17.
 
@@ -323,25 +321,7 @@ VI. Implementar en el ámbito de su competencia, programas en materia de prevenc
 
 VII. Las demás que le confieran la Leyes, Reglamentos y Manuales de Organización.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2008)</small>
-
-###### Artículo 25 Bis.
-
-Son atribuciones del Director de Desarrollo Rural y Forestal Sustentable:
-
-I. Impulsar, el mejoramiento integral del bienestar social de la población y de las actividades económicas, en el territorio comprendido fuera de los núcleos de la población considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
-
-II. Proponer al Ayuntamiento la celebración de acuerdos y convenios de colaboración entre las dependencias y entidades de la Administración Pública Estatal, con las del Ejecutivo Federal, de otras Entidades Federativas, del Municipio y de otros Ayuntamientos, así como con Organizaciones Nacionales e Internacionales, involucradas en la formulación y ejecución de políticas en materia de desarrollo rural y forestal sustentable y ejecutar los que en su caso se aprueben;
-
-III. Establecer, en congruencia con los programas, acuerdos y convenios aprobados por el Ayuntamiento, las políticas generales y definir las prioridades a las que deberá sujetarse la Dirección;
-
-IV. Sugerir criterios para la planeación y ejecución de las políticas y programas de desarrollo rural y forestal, en el ámbito municipal;
-
-V. Promover lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los instrumentos de política de desarrollo social y de población a cargo de las dependencias y entidades de la administración pública federal y estatal competentes;
-
-VI. Recibir, la denuncia popular, respecto de los hechos u omisiones, que violenten o contravengan las disposiciones en materia de desarrollo forestal, de conformidad con los términos y el procedimiento previsto en la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Chihuahua, y
-
-VII. Las demás que le asignen, las Leyes y Reglamentos aplicables en la materia y los convenios que conforme a dichos ordenamientos se celebren.
+Artículo 25 bis. (DEROGADO, P.O. 11 DE DICIEMBRE DE 2010)
 
 TESORERIA
 
@@ -1303,27 +1283,23 @@ Son atribuciones del Director de Cultura, la promoción, coordinación, ejecuci�
 
 DIRECCIÓN GENERAL DE CENTROS COMUNITARIOS Y FORESTACIÓN
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 87.
 
-La Dirección General de Centros Comunitarios y Forestación, quedará integrada de la siguiente manera:
+La Dirección General de Centros Comunitarios, quedará integrada de la siguiente manera:
 
-I.- Un Director General que será nombrado por el Presidente Municipal;
+I. Un Director General que será nombrado por el Presidente Municipal;
 
-II.- (DEROGADA, P.O. 9 DE OCTUBRE DE 2010)
+II. Tres coordinadores en las siguientes áreas:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+a) Coordinador de Programas;
 
-III.- Tres coordinadores en las siguientes áreas:
+b) Coordinador de Centros Comunitarios, y
 
-a).- (DEROGADO, P.O. 9 DE OCTUBRE DE 2010)
+c) Coordinador Administrativo;
 
-b).- Coordinador de Programas;
-
-b).- Coordinador de Centros Comunitarios;
-
-d).- Coordinador Administrativo;
-
-IV.- El personal técnico especializado, y el personal auxiliar que se requiera para su buen funcionamiento.
+III. El personal técnico especializado, y el personal auxiliar que se requiera para su buen funcionamiento.
 
 ###### Artículo 88.
 
@@ -1495,9 +1471,29 @@ VII. Promover, en coordinación con las Dependencias municipales competentes, la
 
 El Secretario de Comunicación Social procurará la identificación de la actividad pública municipal con la ciudadanía. Para ello, realizará, coordinará e instrumentará las actividades de difusión de las acciones que lleve a cabo el Presidente, el Ayuntamiento y la Administración. Tendrá a su cargo el diseño y control de las políticas y estrategias de comunicación, la elaboración y control del presupuesto global de comunicación y publicidad de la Administración, la relación con los medios informativos, el análisis de opinión, la contratación de espacios en los medios, la imagen publicitaria y las publicaciones de la Administración. Procurará establecer y mantener recursos de información, documentación y comunicación tanto al interior de la Administración como hacia los ciudadanos.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 100.
 
-El Coordinador de Atención Ciudadana de Zaragoza, atenderá directamente a los ciudadanos de la zona urbana Oriente-Zaragoza y de los poblados cercanos que forman parte del municipio, para promover su participación en los planes, programas y acciones que lleve a cabo la Administración en beneficio de esas comunidades; coordinándose para ello con las Dependencias correspondientes.
+El Coordinador de Atención Ciudadana de Zaragoza, atenderá directamente a los ciudadanos de la zona urbana Oriente-Zaragoza y de los poblados cercanos que forman parte del municipio, para promover su participación en los planes, programas y acciones que lleve a cabo la Administración en beneficio de esas comunidades; coordinándose para ello con las Dependencias correspondientes. Para el mejor desempeño de sus atribuciones el Coordinador de Atención Ciudadana de Zaragoza, contará con la dirección de área denominada Dirección de Desarrollo Rural y Forestal Sustentable, que tendrá las atribuciones previstas en el siguiente artículo.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+Artículo 100 bis.- Son atribuciones del Director de Desarrollo Rural y Forestal Sustentable:
+
+I. Impulsar, el mejoramiento integral del bienestar social de la población y de las actividades económicas, en el territorio comprendido fuera de los núcleos de la población considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+
+II. Proponer al Ayuntamiento la celebración de acuerdos y convenios de colaboración entre las dependencias y entidades de la Administración Pública Estatal, con las del Ejecutivo Federal, de otras Entidades Federativas, del Municipio y de otros Ayuntamientos, así como con Organizaciones Nacionales e Internacionales, involucradas en la formulación y ejecución de políticas en materia de desarrollo rural y forestal sustentable y ejecutar los que en su caso se aprueben;
+
+III. Establecer, en congruencia con los programas, acuerdos y convenios aprobados por el Ayuntamiento, las políticas generales y definir las prioridades a las que deberá sujetarse la Dirección;
+
+IV. Sugerir criterios para la planeación y ejecución de las políticas y programas de desarrollo rural y forestal, en el ámbito municipal;
+
+V. Promover lo necesario para formular y llevar a cabo programas de atención especial, con la concurrencia de los instrumentos de política de desarrollo social y de población a cargo de las dependencias y entidades de la administración pública federal y estatal competentes;
+
+VI. Recibir, la denuncia popular, respecto de los hechos u omisiones, que violenten o contravengan las disposiciones en materia de desarrollo forestal, de conformidad con los términos y el procedimiento previsto en la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de Chihuahua, y
+
+VII. Las demás que le asignen, las Leyes y Reglamentos aplicables en la materia y los convenios que conforme a dichos ordenamientos se celebren.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2008)</small>
 
@@ -1650,3 +1646,7 @@ ACUERDO 285 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 5, 39, 40, 41, 42, 43, 44 Y 
 P.O. 23 DE OCTUBRE DE 2010.
 
 ÚNICO.- La presente reforma, entrará en vigor a partir del día 10 de octubre de 2010, en caso de que su publicación en el Periódico Oficial del Gobierno del Estado se lleve a cabo antes de dicha fecha, caso contrario, entrará en vigor a partir del día siguiente de su publicación en el mencionado Periódico Oficial.
+
+P.O. 11 DE DICIEMBRE DE 2010.
+
+ÚNICO: La presente reforma, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
