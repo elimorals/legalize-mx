@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2009-06-17"
+last_updated: "2010-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2010.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -963,9 +963,9 @@ X. Aprobar en forma definitiva, a más tardar el día quince de septiembre del a
 
 XI. Facultar al Ejecutivo del Estado para que realice transferencias presupuestales cuando exista causa grave a criterio de la Legislatura, y en los términos que disponga la ley reglamentaria;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
-XII. Aprobar, antes de que concluya el primer periodo ordinario de sesiones del año correspondiente, la Ley de Ingresos y el Presupuesto de Egresos del Estado que el Ejecutivo presentará a la Legislatura a más tardar el día treinta de noviembre de cada año, requiriéndose previamente la comparecencia del Secretario del ramo. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
+XII. Aprobar, antes de que concluya el primer periodo ordinario de sesiones del año correspondiente, la Ley de Ingresos y el Presupuesto de Egresos del Estado que el Ejecutivo presentará a la Legislatura a más tardar el día treinta de noviembre de cada año, requiriéndose previamente la comparecencia del Secretario del ramo. En dicho Presupuesto, deberán incluirse los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de los Poderes Legislativo, Ejecutivo y Judicial, así como los organismos públicos autónomos y cualquier otro ente público estatal o municipal. Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
 Cuando por cualquier circunstancia no llegaren a aprobarse tales ordenamientos, se aplicarán la Ley de Ingresos o el Presupuesto de Egresos que rigieron en el año fiscal anterior;
 
@@ -1173,7 +1173,9 @@ El Poder Ejecutivo del Estado aplicará el procedimiento administrativo de ejecu
 
 La Entidad de Fiscalización Superior del Estado tendrá a su cargo:
 
-I. Fiscalizar los ingresos y los egresos; el manejo, la custodia y la aplicación de los fondos y los recursos de los Poderes del Estado y Municipios y sus entes públicos paraestatales y paramunicipales, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la Ley.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+I. Fiscalizar los ingresos y los egresos; el manejo, la custodia y la aplicación de los fondos y los recursos de los Poderes del Estado y Municipios y sus entes públicos paraestatales y paramunicipales, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos, establecidos conforme a las bases señaladas en el artículo 160 de esta Constitución, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales, a través de los informes que se rendirán en los términos que disponga la Ley.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1319,9 +1321,9 @@ II. Promulgar, publicar, cumplir y hacer cumplir las leyes y demás resoluciones
 
 III. Publicar, difundir y hacer cumplir las leyes federales;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
-IV. Proponer a la Legislatura, a más tardar el treinta de noviembre de cada año, las iniciativas de la Ley de Ingresos y el Presupuesto de Egresos e incluir en ellas la provisión de los recursos correspondientes al propio Legislativo y al Poder Judicial, de conformidad con los principios de equilibrio y separación de Poderes y mediante mecanismos que garanticen que, una vez aprobados, sean ejercidos con plena autonomía;
+IV. Proponer a la Legislatura, a más tardar el treinta de noviembre de cada año, las iniciativas de la Ley de Ingresos y el Presupuesto de Egresos e incluir en ellas la provisión de los recursos correspondientes al propio Legislativo y al Poder Judicial, de conformidad con los principios de equilibrio y separación de Poderes y mediante mecanismos que garanticen que, una vez aprobados, sean ejercidos con plena autonomía. En la iniciativa de Presupuesto de Egresos del Estado, deberán incluirse los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos, de conformidad con el artículo 160 de esta Constitución y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -1484,6 +1486,10 @@ Ningún juicio civil o penal tendrá más de dos instancias.
 ###### Artículo 92.
 
 Los Magistrados del Poder Judicial y los Jueces percibirán remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+El Presupuesto de Egresos que anualmente sea autorizado, deberá incluir los tabuladores desglosados de las remuneraciones de todos los servidores públicos, observando las bases establecidas en el artículo 160 de esta Constitución.
 
 ###### Artículo 93.
 
@@ -1977,9 +1983,9 @@ II. Adquirir y poseer los bienes necesarios para la prestación de los servicios
 
 Se requiere el acuerdo de las dos terceras partes de los miembros del Ayuntamiento, para dictar resoluciones administrativas que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2001)</small>
 
-III. Administrar libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca a su favor y, en todo caso:
+III. Administrar libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como las contribuciones y otros ingresos que la Legislatura establezca a su favor y, en todo caso:
 
 a) Percibirán las contribuciones, incluyendo las tasas adicionales que establezca la Legislatura sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles:
 
@@ -1993,9 +1999,9 @@ Por ningún medio se podrán establecer exenciones o subsidios en favor de perso
 
 Los Ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura las tasas, cuotas y tarifas aplicables a impuestos, derechos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
-Presentadas antes del día primero de noviembre de cada año, la Legislatura aprobará las leyes de ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos, cuando medie el Ayuntamiento solicitud suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso el Presidente Municipal a informar de las razones que lo motiven.
+Presentadas antes del día primero de noviembre de cada año, la Legislatura aprobará las leyes de ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles y en los mismos, deberán incluirse los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 160 de esta Constitución y demás disposiciones aplicables. Sólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos, cuando medie el Ayuntamiento solicitud suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso el Presidente Municipal a informar de las razones que lo motiven.
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o por quien éstos autoricen conforme a la ley.
 
@@ -2141,9 +2147,11 @@ V. El Estado y los Municipios, en los términos de las leyes aplicables, podrán
 
 Los Municipios podrán convenir con el gobierno del Estado, asumir la prestación de los servicios o el ejercicio de las funciones a las que se refiere el segundo párrafo de la fracción VII del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 121.
 
-Los Ayuntamientos someterán a la consideración de la Legislatura la aprobación de sus leyes de ingresos y tendrán facultades para aprobar los respectivos presupuestos de egresos con base en la disponibilidad de sus ingresos, tomando en cuenta las prioridades que fijen los planes de desarrollo y los programas operativos anuales del año que corresponda, debiendo observar las normas que expida el Poder Legislativo en cuanto a manejo presupuestal y cuenta pública.
+Los Ayuntamientos someterán a la consideración de la Legislatura la aprobación de sus leyes de ingresos y tendrán facultades para aprobar los respectivos presupuestos de egresos con base en la disponibilidad de sus ingresos, tomando en cuenta las prioridades que fijen los planes de desarrollo y los programas operativos anuales del año que corresponda, debiendo observar las normas que expida el Poder Legislativo en cuanto a manejo presupuestal y cuenta pública, como las relativas a las remuneraciones que por el desempeño de su función, empleo, cargo, comisión o responsabilidad, contengan los tabuladores de remuneraciones previstos en sus respectivos presupuestos de egresos para sus servidores públicos.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -2497,9 +2505,25 @@ El Gobernador y el Presidente de la Legislatura protestarán por sí ante la pro
 
 Ningún empleado al servicio de los Poderes del Estado podrá ser destituido sin causa justificada.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 160.
 
-Todos los servidores y empleados al servicio de los Poderes del Estado y de los Municipios, así como los de elección popular, recibirán por sus servicios la remuneración que las leyes señalen
+Todos los servidores y empleados al servicio de los Poderes del Estado y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos públicos autónomos y cualquier otro ente público, así como los de elección popular, recibirán por sus servicios una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, y la cual se determinará anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción precedente, por el desempeño de su función, empleo, cargo, comisión o responsabilidad, mayor a la establecida en el presupuesto correspondiente para quien sea Titular del Poder Ejecutivo del Estado.
+
+En las administraciones municipales, ningún regidor, síndico, funcionario, director o coordinador de instituto descentralizado u organismo paramunicipal, consultor o asesor, podrá recibir remuneración mayor a la establecida en el presupuesto correspondiente para quien sea Titular de la Presidencia Municipal;
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos; que su remuneración sea producto de las condiciones generales de trabajo; derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida en el presupuesto correspondiente para quien sea Titular del Poder Ejecutivo del Estado;
+
+IV. No se concederán ni cubrirán jubilaciones; pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstos (sic) se encuentren asignadas por la ley, decreto, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado, y
+
+V. Las remuneraciones y sus tabuladores serán públicos y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+La Legislatura deberá establecer las sanciones penales y administrativas que hagan posible el procedimiento sancionatorio para aquellos servidores públicos que incurran en incumplimiento, elusión o simulación de las normas establecidas en el presente artículo.
 
 ###### Artículo 161.
 
@@ -2874,3 +2898,37 @@ Artículo tercero.- La presente aprobación no tendrá efecto retroactivo; los a
 Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este instrumento legislativo, deberá reformarse la Ley de Fiscalización Superior del Estado y demás ordenamientos aplicables.
 
 Artículo quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO.- Las remuneraciones de los servidores públicos que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Instrumento Legislativo.
+
+CUARTO.- Para los efectos de la base II del artículo 160 de este Decreto, la remuneración mensual que corresponde al Titular del Poder Ejecutivo del Estado, asciende a la cantidad de mil ochocientas cuotas de salario mínimo general vigente en el Estado de Zacatecas.
+
+QUINTO.- Los Magistrados y Jueces, nombrados con anterioridad a la entrada en vigor del presente Decreto, sólo podrán mantener sus retribuciones nominales señaladas en sus respectivos presupuestos, durante el tiempo que dure su encargo y responsabilidad.
+
+Las retribuciones que reciban los Magistrados y Jueces del Poder Judicial del Estado, los Consejeros Electorales y los Funcionarios Públicos de los Órganos Autónomos, adicionales a las nominales, tales como: gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier otra en dinero o en especie, sólo se podrán autorizar si no exceden del monto máximo establecido en el artículo 160 de esta Constitución para quien sea Titular del Poder Ejecutivo del Estado.
+
+SEXTO.- Para los efectos de lo previsto en el presente Decreto, las remuneraciones que perciban quienes sean Titulares de las Presidencias Municipales se sujetará a lo siguiente:
+
+a) Los municipios se agruparán en las tres zonas que a continuación se precisan:
+
+- Zona A.- Integrada por los municipios de Fresnillo, Guadalupe y Zacatecas.
+
+- Zona B.- Integrada por los municipios de Calera, Concepción del Oro, Cuauhtémoc, Chalchihuites, General Francisco R. Murguía, Pánfilo Natera, Jalpa, Jerez, Juan Aldama, Juchipila, Loreto, Luis Moya, Mazapil, Miguel Auza, Monte Escobedo, Morelos, Nochistlán de Mejía, Noria de Ángeles, Ojocaliente, Pánuco, Pinos, Río Grande, Sain Alto, Sombrerete, Tabasco, Tepechitlán, Tlaltenango de Sánchez Román, Trancoso, Valparaíso, Villa de Cos, Villa García, Villa González Ortega, Villa Hidalgo y Villanueva.
+
+- Zona C.- Integrada por los municipios de Apozol, Apulco, Atolinga, Benito Juárez, Cañitas de Felipe Pescador, El Plateado de Joaquín Amaro, El Salvador, Genaro Codina, General Enrique Estrada, Jiménez del Teul, Huanusco, Melchor Ocampo, Mezquital del Oro, Momax, Moyahua de Estrada, Santa María de la Paz, Susticacán, Teúl de González Ortega, Tepetongo, Trinidad García de la Cadena y Vetagrande.
+
+b) Quienes sean Titulares de las Presidencias de los Municipios integrados en la Zona A percibirán, mensualmente, el equivalente de hasta novecientas veinte cuotas de salario mínimo diario general vigente en el Estado.
+
+c) Quienes sean Titulares de las Presidencias de los Municipios integrados en la Zona B percibirán, mensualmente, el equivalente de hasta seiscientas cuarenta cuotas de salario mínimo diario general vigente en el Estado.
+
+d) Quienes sean Titulares de las Presidencias de los Municipios integrados en la Zona C percibirán, mensualmente, el equivalente de hasta trescientas setenta cuotas de salario mínimo diario general vigente en el Estado.
+
+e) Quien sea Titular de la Sindicatura Municipal, integrante del Ayuntamiento, percibirá hasta las dos terceras partes de lo que perciba quien sea Titular de la correspondiente Presidencia Municipal y quien sea Titular de Regiduría, integrante del Ayuntamiento, percibirá hasta la mitad de lo que perciba quien sea Titular de la correspondiente Presidencia Municipal.
+
+SÉPTIMO.- Dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto, se deberán tipificar y establecer las sanciones que se impondrán, en términos de la legislación penal, administrativa y de responsabilidades, a los servidores públicos cuya conducta tenga por finalidad contravenir o eludir lo dispuesto en las presentes disposiciones.
