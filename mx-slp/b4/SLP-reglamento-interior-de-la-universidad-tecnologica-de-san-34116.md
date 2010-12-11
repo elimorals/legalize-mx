@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-universidad-tecnologica-de-san-34116"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-04"
-last_updated: "2004-07-13"
+last_updated: "2010-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE SAN LUIS POTOSI, PUBLICADO EN EL P.O. DE 11 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 4 de septiembre de 2003.
 
@@ -461,3 +463,11 @@ P.O. 13 DE JULIO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 11 DE DICIEMBRE DE 2010.
+
+PRIMERO: El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se abroga el Reglamento Interior de la Universidad Tecnológica de San Luis Potosí, publicado en el Periódico Oficial del Estado, el 4 de septiembre de 2003; y todas disposiciones (sic) que se opongan al presente instrumento.
