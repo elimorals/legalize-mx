@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2010-09-25"
+last_updated: "2010-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -401,9 +401,15 @@ En el supuesto de que aún con los suplentes no exista mayoría en la integraci�
 
 ### CAPÍTULO III. Entrega-recepción de la administración municipal
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 44.
 
 El Ayuntamiento saliente deberá entregar al entrante, el documento que contenga la situación que guarda la administración municipal.
+
+El Ayuntamiento en funciones, durante el mes de marzo del año del relevo institucional, conformará una comisión de entrega de la administración que se compondrá de tres miembros, de entre los cuales se elegirá un Secretario Técnico, preferentemente integrarán la comisión: el Secretario del Ayuntamiento, el Tesorero y el Contralor del Municipio. Dicha comisión a partir de su constitución será responsable de elaborar el documento referido en el párrafo anterior.
+
+Las funciones del Secretario Técnico serán enunciativamente las de coordinar los trabajos para la elaboración del documento de entrega-recepción; requerir información de las secretarías y dependencias del Ayuntamiento; conformar el documento con la debida formalidad y las demás inherentes al objeto de su función.
 
 En la entrega-recepción, el Congreso del Estado, designará un representante para que participe como observador.
 
@@ -443,15 +449,19 @@ XII.- La página web, el portal de transparencia y el sistema electrónico de ac
 
 XIII.- La demás información que se estime relevante para garantizar la continuidad de la administración municipal.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 46.
 
-El Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente que participaron y al representante que el Congreso del Estado haya designado.
+El Síndico del Ayuntamiento entrante levantará acta circunstanciada de la entrega-recepción el día de la instalación del Ayuntamiento entrante, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes de la comisión del Ayuntamiento saliente y al representante que el Congreso del Estado haya designado.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 47.
 
-Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, que se encargará de analizar el expediente integrado con la documentación de la entrega-recepción, para formular dictamen en un plazo de treinta días naturales.
+Para los efectos del proceso de entrega-recepción, el Presidente declarado electo por la autoridad electoral correspondiente acreditará ante el Ayuntamiento que concluye su periodo una comisión de recepción que estará conformada por lo menos con 3 integrantes, quienes darán seguimiento a la conformación de la documentación que recibirán. A partir de la instalación del Ayuntamiento entrante, dicha comisión de recepción formulará un dictamen dentro de un plazo de treinta días naturales.
 
-El dictamen se someterá dentro de los quince días hábiles siguientes, al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos señalados, para solicitar cualquier información o documentación, los que estarán obligados a proporcionarla y atender las observaciones consecuentes.
+El dictamen se someterá dentro de los quince días hábiles siguientes, al conocimiento y consideración del Ayuntamiento, el cual podrá llamar a los servidores públicos señalados, para solicitar cualquier información o documentación, los que estarán obligados a proporcionarla y atender las observaciones consecuentes, en un plazo que en ningún caso deberá exceder de 15 días hábiles a partir de que se notifique la solicitud.
 
 ###### ARTICULO 48.
 
@@ -495,15 +505,17 @@ IV.- Solemnes, las sesiones en que se instale el Ayuntamiento, se rinda el infor
 
 V.- Asimismo, el Ayuntamiento podrá celebrar sesiones de Cabildo abierto para realizar audiencias públicas, foros de consulta, cursos de capacitación municipal, reuniones de instrucción cívica o actos políticos cuya importancia coadyuve al desarrollo social, económico y cultural y fomente la participación de los habitantes del municipio.
 
-> <small>(REFORMADO, P. O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 51.
 
-Las sesiones del Ayuntamiento serán válidas con la asistencia de la mitad más uno de sus miembros, siendo presididas por el Presidente Municipal y en caso de ausencia, por el regidor nombrado mediante mayoría simple al inicio de la misma.
+Las sesiones del Ayuntamiento serán válidas con la asistencia de la mitad más uno de sus miembros, siendo presididas por el Presidente municipal y en caso de ausencia, por el regidor nombrado mediante mayoría simple al inicio de la misma; éste último tendrá voto de calidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 52.
 
-Por acuerdo del Presidente Municipal o por mayoría calificada del Ayuntamiento, el Secretario citará a las sesiones del mismo.
+Por acuerdo del Presidente Municipal o por mayoría absoluta del Ayuntamiento se podrá citar a las sesiones del mismo.
 
 La citación deberá ser personal, en el domicilio del integrante del Ayuntamiento, por lo menos con setenta y dos horas de anticipación; contendrá el orden del día y, en su caso, la información necesaria para el desarrollo de la sesión, así como el lugar, día y hora en que se llevará a cabo. Se exceptuarán los requisitos anteriores y la citación se hará por medios idóneos, cuando el o los asuntos a tratar sean de carácter urgente y de obvia resolución.
 
@@ -551,9 +563,11 @@ El desarrollo de las sesiones del Ayuntamiento, se hará constar por el Secretar
 
 En los demás casos, bastará que los documentos relativos al asunto tratado, se agreguen al apéndice del libro o folios de actas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 59.
 
-Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión y por el Secretario del mismo.
+Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión para su validez plena.
 
 El contenido del orden del día y de los acuerdos del Ayuntamiento deberán difundirse por lo menos de manera bimestral en la Gaceta Municipal y en los estrados de las oficinas de los Ayuntamientos.
 
@@ -575,7 +589,9 @@ a) Formular el Bando de Policía y Buen Gobierno, los reglamentos, circulares y 
 
 b) Iniciar leyes o decretos ante el Congreso del Estado, en lo relativo al gobierno municipal;
 
-c) Aprobar, en su caso, las minutas de reforma o adición a la Constitución Política del Estado;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+c) Aprobar, en su caso, las minutas de reforma o adición a la Constitución Política del Estado, de las cuales se obviará el trámite en comisión y se deliberarán en la sesión ordinaria o extraordinaria que corresponda. La comunicación al Congreso del voto que haya recaído a la minuta incluirá los documentos que acrediten que se siguieron las formalidades establecidas en la presente Ley;
 
 d) Formular y remitir al Congreso del Estado para su aprobación, a más tardar el quince de noviembre de cada año, su proyecto de Ley de Ingresos para el ejercicio fiscal siguiente, proponiendo las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo así, se tomarán como iniciativas las leyes que hubieren regido durante el año fiscal inmediato anterior.
 
@@ -1559,17 +1575,23 @@ I.- En los municipios de hasta 50 mil habitantes, haber concluido la educación 
 
 II.- No estar inhabilitado para ocupar cargo alguno en la administración pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 114.
 
-Son facultades y obligaciones de la Secretaría del Ayuntamiento:
+Son facultades y obligaciones de la Secretaría del Ayuntamiento, las siguientes:
 
-I.- Citar, cuando se lo ordene el Presidente Municipal, o la mayoría calificada del Ayuntamiento, a todos y cada uno de los integrantes del consejo para la celebración de las sesiones de Cabildo. Dicha citación deberá ser personal y contener el objeto, lugar, día y hora de la sesión;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
-II.- Asistir a las sesiones con voz informativa, pero sin voto, y levantar el acta al terminar cada una de ellas, llevando el libro correspondiente;
+I.- Citar, cuando se lo ordene el Presidente Municipal, o la mayoría absoluta del Ayuntamiento, a todos y cada uno de los integrantes del mismo para la celebración de las sesiones de Cabildo. Dicha citación deberá ser personal y contener el objeto, lugar, día y hora de la sesión;
 
-III.- Suscribir todos los documentos oficiales emanados del Ayuntamiento o de su Presidente, para formalizar los actos que de ellos deriven;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+II.- Asistir a las sesiones con voz informativa, pero sin voto, y llevar un registro de las actas de cada una de ellas, incorporándolas en el libro correspondiente;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+III.- Cuando se lo ordene el presidente o la mayoría absoluta del Ayuntamiento, comunicar los documentos oficiales emanados de éste;
 
 IV.- Expedir copias, credenciales y certificaciones que a su despacho corresponda;
 
@@ -2563,15 +2585,19 @@ c) Concesión de bienes inmuebles del dominio público y arrendamiento de bienes
 
 d) En general, en los convenios cuyos efectos jurídicos superen el período del Ayuntamiento que lo autoriza.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 190.
 
 En los procedimientos de desafectación de bienes del dominio público, los Ayuntamientos procederán, bajo su más estricta responsabilidad, a garantizar el interés público. En todo caso deberán atender el siguiente procedimiento:
 
-a) Deberán solicitar al Congreso, para que en un plazo no mayor a veinte días emita su opinión respecto a la factibilidad de la desafectación;
+a) (DEROGADO, P.O. 11 DE DICIEMBRE DE 2010)
 
 b) La solicitud de desafectación del bien inmueble del que se trate y los motivos que tenga el municipio para ello, respaldado con el dictamen técnico respectivo, se deberá publicar al menos en tres ocasiones, durante quince días en el Periódico Oficial, Órgano del Gobierno del Estado, o en la Gaceta Municipal y en el diario de mayor circulación del municipio, al efecto de que los vecinos del municipio manifiesten al Ayuntamiento, en el plazo que se determine, su opinión sobre el propósito de desincorporar dicho inmueble;
 
-c) Tanto la opinión del Congreso como la que emitan los ciudadanos, no tendrán carácter vinculatorio pero podrán ser consideradas por los miembros del Ayuntamiento al resolver sobre la procedencia de la desafectación del bien inmueble del que se trate; y
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+c) La opinión que emitan los ciudadanos, no tendrá carácter vinculatorio pero podrá ser considerada por los miembros del Ayuntamiento al resolver sobre la procedencia de la desafectación del bien inmueble del que se trate; y
 
 d) Aprobado el acuerdo de desafectación procederá a publicarse en el Periódico Oficial y en la Gaceta Municipal.
 
@@ -3508,3 +3534,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación, en e
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
 Artículo Único.- El presente decreto entrara en vigor, al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 11 DE DICIEMBRE DE 2010.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
