@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2010-08-14"
+last_updated: "2010-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -385,9 +385,11 @@ El público que asista a las sesiones de cabildo, deberá guardar compostura y s
 
 El Presidente Municipal estará facultado para ordenar el desalojo del recinto del cabildo, haciendo uso de la fuerza pública si resultase necesario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 48.
 
-Las sesiones relativas a la instalación del ayuntamiento y al informe anual del Presidente Municipal al propio ayuntamiento siempre serán solemnes y públicas. En ellas se observarán las siguientes disposiciones:
+Las sesiones relativas a la instalación del ayuntamiento y al informe anual del Presidente Municipal al propio Ayuntamiento siempre serán solemnes y públicas. En ellas se observarán las siguientes disposiciones:
 
 A.- La sesión de instalación del ayuntamiento electo, deberá celebrarse el día 15 de Octubre del año de su elección y en el acto se observará estrictamente el siguiente orden:
 
@@ -421,7 +423,9 @@ XII.- Clausura de la sesión.
 
 El acta respectiva deberá levantarse por el Secretario del Ayuntamiento saliente.
 
-B.- La sesión en la que el Presidente Municipal rinda el informe anual de su gestión administrativa, deberá celebrarse en la segunda quincena del mes de Septiembre de cada año y en el acto se observará estrictamente el siguiente orden:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+B.- La sesión en la que el Presidente Municipal rinda el informe anual de su gestión administrativa, deberá celebrarse en la primera quincena del mes de diciembre de cada año, con excepción del último año del periodo constitucional, en el cual el informe se rendirá en la segunda quincena del mes de septiembre; y en el acto se observará estrictamente el siguiente orden:
 
 I.- Lista de asistencia de los miembros del Ayuntamiento, declaración de Quórum legal e instalación legal de la sesión.
 
@@ -607,7 +611,9 @@ XVII.- Solicitar la publicación en el Periódico Oficial "El Estado de Colima" 
 
 XVIII.- Solicitar autorización del cabildo para ausentarse del Municipio por un término mayor de quince días y para separarse temporalmente de sus funciones.
 
-XIX.- Rendir anualmente al Ayuntamiento, en sesión pública solemne de cabildo, un informe por escrito de su gestión administrativa y del estado que guarda la administración pública municipal centralizada y paramunicipal, el cual se deberá desarrollar en la segunda quincena del mes de septiembre de cada año.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Rendir anualmente al Ayuntamiento, en sesión pública solemne de cabildo, un informe por escrito de su gestión administrativa y del estado que guarda la administración pública municipal centralizada y paramunicipal, el cual se deberá desarrollar en la primera quincena del mes de diciembre de cada año, con excepción del último año del periodo constitucional, en el cual el informe se rendirá en la segunda quincena del mes de septiembre;
 
 XX.- Asumir la representación jurídica del Ayuntamiento en los litigios en que éste sea parte cuando el Síndico Municipal esté impedido legalmente para ello o expresamente lo autorice el cabildo.
 
@@ -4992,3 +4998,9 @@ P.O. 14 DE AGOSTO DE 2010.
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 TERCERO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno del Municipio de Colima.
+
+P.O. 11 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno del Municipio de Colima.
