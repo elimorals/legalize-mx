@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-universidad-tecnologica-de-manzanillo-63186"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-09-07"
-last_updated: "2008-09-07"
+last_updated: "2010-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DE LA UNIVERSIDAD TECNOLOGICA DE MANZANILLO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Colima, el domingo 7 de septiembre de 2008.
 
@@ -73,9 +73,11 @@ La Universidad tendrá autonomía, para realizar sus fines con la más amplia li
 
 Para el ejercicio de sus fines, la Universidad, tendrá acceso a los recursos públicos económicos necesarios del Gobierno Federal, en los términos del artículo 3, fracción VIII de la Constitución Política de los Estados Unidos Mexicanos; del Estado y privados.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 5°.
 
-La Universidad realizará sus fines de enseñanza e investigación, respetando la libertad de cátedra e investigación y el libre examen y discusión de las ideas.
+La Universidad realizará sus fines de enseñanza, investigación, vinculación y extensión universitaria, respetando la libertad de cátedra e investigación y el libre examen y discusión de las ideas” (sic).
 
 ###### ARTÍCULO 6°.
 
@@ -89,9 +91,13 @@ La Universidad tendrá su domicilio en el municipio del mismo nombre.
 
 La Universidad tendrá las siguientes atribuciones:
 
-I. Formar técnicos superiores universitarios aptos para la aplicación de conocimientos y la solución creativa de problemas con un sentido de innovación en la incorporación de los avances científicos y tecnológicos;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
 
-II. Ofrecer programas cortos de educación técnica superior a egresados de bachillerato o equivalente, con las características de intensidad, pertinencia, flexibilidad y calidad;
+I. Formar Técnicos Superiores Universitarios, Licenciados, Ingenieros y ofrecer programas de Posgrados, aptos para la aplicación de conocimientos y la solución creativa de problemas con un sentido de innovación en la incorporación de los avances científicos y tecnológicos;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+II. Ofrecer programas de educación técnica superior y superior a egresados de bachillerato, técnico superior universitario, profesional asociado, licenciados, ingenieros y programas de posgrado con las características de pertinencia, flexibilidad, mejora continua de su calidad y vinculación; permitiendo responder a los avances científicos y tecnológicos;
 
 III. Promover y difundir la cultura científica y tecnológica del Estado, mediante la investigación aplicable y el intercambio académico con otras instituciones educativas, estatales, nacionales o extranjeras en los términos de la legislación aplicada;
 
@@ -101,17 +107,23 @@ V. Administrar libremente su patrimonio;
 
 VI. Desarrollar programas de apoyo técnico en beneficio de la comunidad;
 
-VII. Desarrollar funciones de vinculación con los sectores público, privado y social, para contribuir al desarrollo tecnológico y social de la comunidad;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+VII. Desarrollar programas y funciones de vinculación para fortalecer las relaciones con los sectores productivos de bienes y servicios público y privado; instituciones de educación y de investigación y a la sociedad para beneficio de ambas partes;
 
 VIII. Normar el desarrollo de sus funciones sustantivas y de apoyo, así como la estructura y atribuciones de sus órganos;
 
 IX. Planear y programar en sus planes de enseñanza la incorporación de programas de estudio de temas locales, regionales y nacionales, de interés público;
 
-X. Determinar sus programas de investigación y vinculación;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+X. Instrumentar sus políticas y programas de investigación y vinculación que permitan el desarrollo de la ciencia y tecnología en beneficio de la sociedad;
 
 XI. Establecer procedimientos de acreditación y certificación de estudios;
 
-XII. Otorgar títulos o grados de técnico superior universitario, así como certificados y diplomas, en términos de los planes y programas de estudio correspondientes;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2010)</small>
+
+XII. Expedir Certificados de Estudio, Títulos de técnico superior universitario, profesionales y otorgar grados académicos, en términos de los planes y programas de estudio correspondiente;
 
 XIII. Recibir y tramitar ente la autoridad educativa competente, según sea el caso, las solicitudes de revalidación o establecimiento de equivalencias de los estudios realizados en otras Instituciones Educativas Nacionales o Extranjeras;
 
@@ -1070,3 +1082,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día siete del mes de septiembre del año dos mil ocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica.- EL SECRETARIO DE EDUCACIÓN, PROFR. CARLOS CRUZ MENDOZA.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
