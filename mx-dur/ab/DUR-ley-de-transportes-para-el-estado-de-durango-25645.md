@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transportes-para-el-estado-de-durango-25645"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-13"
-last_updated: "2002-06-13"
+last_updated: "2010-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -699,7 +699,11 @@ XII. Proporcionar capacitación profesional y técnica en forma continua a sus t
 
 XIII. Contar con terminales para la salida y llegada de autobuses, así como lugares para el estacionamiento y mantenimiento fuera de la vía pública;
 
-XIV. Otorgar a los estudiantes que se identifiquen con credencial expedida por la institución educativa respectiva, así como a los adultos mayores sin necesidad de identificación y a las personas con discapacidad un descuento del 50% sobre el importe de la tarifa autorizada para los vehículos destinados exclusivamente al transporte colectivo de personas, en las zonas urbanas y suburbanas;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2010)</small>
+
+XIV. Otorgar a los estudiantes de cualquier grado, así como a los adultos mayores y a las personas con discapacidad, que se identifiquen con la credencial única de transporte, que para tal efecto expida gratuitamente la Dirección de Transportes del Estado de Durango, un descuento del 50% sobre el importe de la tarifa autorizada para los vehículos destinados exclusivamente al transporte colectivo de personas, en las zonas urbanas y suburbanas;
 
 XV. Proporcionar a la autoridad los informes y documentos técnicos o estadísticos que le solicite para conocer y evaluar la forma de prestación del servicio; y
 
@@ -853,9 +857,13 @@ III. Hasta dos personas por unidad que sean: carteros, mensajeros de telégrafos
 
 IV. Cuando porten su uniforme de servicio, los agentes de la policía preventiva y vialidad, militares y bomberos.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 63.
 
-La autoridad deberá fijar tarifas especiales para el servicio público de transporte urbano, suburbano y foráneo; las cuales beneficiarán a estudiantes de cualquier grado, adultos mayores, personas con discapacidad, jubilados y pensionados.
+La autoridad deberá fijar tarifas especiales para el servicio público de transporte urbano, suburbano y foráneo; las cuales beneficiarán a estudiantes de cualquier grado, adultos mayores y personas con discapacidad, que se identifiquen con la credencial a que se refiere la fracción XIV del artículo 46 de la presente ley.
 
 ### CAPÍTULO VI. DE LOS CONDUCTORES DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LAS LICENCIAS
 
@@ -1524,3 +1532,13 @@ LIC. ANGEL SERGIO GUERRERO MIER. Rúbrica.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO. Rúbrica.
+
+P.O. 12 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente decreto entrará en vigor el día 1° de marzo de 2011.
+
+SEGUNDO. El presente decreto solo será aplicable en la zona urbana de la Ciudad de Durango, Dgo., como primera etapa, y corresponderá al Titular del Poder Ejecutivo del Estado indicar el inicio y alcances de las etapas subsecuentes en el resto del territorio estatal.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado, estará obligado a efectuar la difusión de los programas, así como de los operativos de credencialización para dar las facilidades necesarias a los estudiantes, personas con discapacidad y adultos mayores, para que obtengan su credencial única de transporte público de manera gratuita y con la debida anticipación, asimismo deberá implementar los programas de regularización a todos aquellos usuarios que no lo hayan realizado en tiempo, para reposición por perdida o extravío.
+
+CUARTO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
