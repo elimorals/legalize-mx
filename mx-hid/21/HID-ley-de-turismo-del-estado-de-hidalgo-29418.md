@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-del-estado-de-hidalgo-29418"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-24"
-last_updated: "2010-11-08"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 24 de marzo de 2003.
 
@@ -67,7 +67,9 @@ IV.- Coordinar las acciones de la Secretaría y los Consejos Consultivos Municip
 
 V.- Realizar actividades de promoción, capacitación y fomento turístico con la participación de los Organismos de los Sectores Público, Privado y Social;
 
-VI.- Promover los instrumentos legales necesarios para la creación, conservación, mejoramiento, protección y aprovechamiento de los recursos y atractivos turísticos del Estado, preservando el equilibrio ecológico, medio ambiente, desarrollo urbano y social;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- Promover los instrumentos legales necesarios para la creación, conservación, mejoramiento, protección y aprovechamiento sustentable de los recursos y atractivos turísticos del Estado, preservando el equilibrio ecológico, el medio ambiente, la biodiversidad, el patrimonio natural, el desarrollo urbano sustentable, así como promoviendo el desarrollo y bienestar social;
 
 VII.- Orientar, asistir y procurar a los turistas, visitantes y prestadores de servicios en el Estado;
 
@@ -81,15 +83,23 @@ X.- Promover el Turismo Social y turismo accesible, así como, fortalecer el Pat
 
 XI.- Crear mecanismos de financiamiento, dirigidos a la modernización y fomento de las micro, pequeñas y medianas empresas turísticas;
 
-XII.- Coordinarse con la Autoridad competente, para determinar y promover la constitución de reservas territoriales que garanticen el crecimiento de la actividad turística, estableciendo los mecanismos necesarios para la creación, conservación, mejoramiento, equipamiento, protección, promoción y aprovechamiento de los atractivos turísticos, preservando el equilibrio ecológico y social;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XIII.- Fomentar la accesibilidad al turismo social en beneficio de todos los grupos sociales;
+XII.- Coordinarse con la Secretaría de Medio Ambiente y Ordenamiento Territorial, para determinar y promover la constitución de reservas territoriales que garanticen el crecimiento de la actividad turística de manera sustentable, observando lo previsto por el ordenamiento ecológico territorial, estableciendo los mecanismos necesarios para la creación, conservación, mejoramiento, equipamiento, protección, promoción y aprovechamiento de los atractivos turísticos, preservando el equilibrio ecológico, el patrimonio natural y la biodiversidad;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Fomentar la accesibilidad al turismo social y turismo sustentable en beneficio de todos los grupos sociales;
 
 XIV.- Impulsar y fomentar acciones para integrar a los prestadores de servicios turísticos en asociaciones representativas de los intereses que les son comunes;
 
-XV.- Promover acciones con los sectores público, privado y social para la creación y mejoramiento de la infraestructura turística y (sic)
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XVI.- Procurar la vinculación con otras Entidades Federativas para el fomento de la promoción, inversión y desarrollo del sector turístico en nuestra Entidad;
+XV.- Promover acciones con los sectores público, privado y social para la creación y mejoramiento de la infraestructura turística, observando y respetando los ordenamientos ecológicos del territorio;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XVI.- Promover acciones con los sectores público, privado y social para la creación y mejoramiento de la infraestructura turística, observando y respetando los ordenamientos ecológicos del territorio;
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
@@ -119,9 +129,13 @@ IX.- ZONAS DE DESARROLLO TURISTICO PRIORITARIO.- Son aquellos Municipios, Region
 
 X.- PATRIMONIO TURISTICO.- Es el conjunto de bienes e instalaciones que generan el interés del mercado turístico por sus características y valores naturales, históricos, culturales, estéticos o simbólicos, que se deben incorporar en el mismo al disponer de la infraestructura necesaria para el adecuado desarrollo de la actividad turística y por lo mismo, requieren ser preservados, conservados y protegidos para el disfrute de la sociedad, determinado como tal por la Secretaría;
 
-XI.- AREA NATURAL PROTEGIDA CON APROVECHAMIENTO TURISTICO.- Son aquellas áreas que deben estar de acuerdo con las metas de conservación en donde el turismo alternativo esté explícitamente contemplado dentro de los planes de manejo, respetando en todo momento el área natural, su entorno y comunidades locales como un conjunto integrado;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XII.- PLAN ESTATAL DE TURISMO.- Es aquél en el cual se establecen objetivos y acciones estratégicas en materia turística, conteniendo misión, visión, objetivos y metas a corto, mediano y largo plazo con la finalidad de convertir al turismo en pieza clave del desarrollo económico y social de la Entidad y (sic)
+XI.- ÁREA NATURAL PROTEGIDA CON APROVECHAMIENTO TURÍSTICO.- Son aquellas áreas decretadas bajo alguna categoría de protección prevista por la Ley para la Protección al Ambiente del Estado de Hidalgo, en cuyas zonas de amortiguamiento, se prevé la compatibilidad de las actividades de protección, conservación y restauración de los recursos naturales y el patrimonio natural previstas en su decreto de creación, con actividades de turismo sustentable, respetando en todo momento lo previsto en el Decreto y el Plan de Manejo correspondiente;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XII.- PLAN ESTATAL DE TURISMO.- Es aquel en el cual se establecen objetivos y acciones estratégicas en materia turística, conteniendo misión, visión, objetivos y metas a corto, mediano y largo plazo con la finalidad de convertir al turismo en pieza clave del desarrollo económico y social de la Entidad;
 
 XIII.- PLAN MUNICIPAL DE TURISMO.- Es aquél en el cual se establecen objetivos y acciones en materia turística municipal, ajustándose a lo establecido en los Planes Nacional y Estatal de Turismo;
 
@@ -141,13 +155,17 @@ XVI.- IGUALDAD DE OPORTUNIDADES.- Proceso de adecuaciones, ajustes y mejoras en 
 
 XVII.- ACCESIBILIDAD.- Acciones que facilitan a las personas con discapacidad vivir de forma independiente y participar plenamente en todos los aspectos de la vida;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XVIII.- AJUSTES RAZONABLES.- Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio en igualdad de condiciones de los demás de todos los derechos humanos y libertades fundamentales; y
+XVIII.- AJUSTES RAZONABLES.- Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida cuando se requieran en un caso particular para garantizar a las personas con discapacidad el goce o ejercicio en igualdad de condiciones de los demás de todos los derechos humanos y libertades fundamentales;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XIX.- DISEÑO UNIVERSAL.- Diseño de productos, entornos, programas y servicios, que puedan utilizar todas las personas, en la mayor medida de lo posible, sin necesidad de adaptación, ni diseño especializado; el diseño universal no excluye las ayudas técnicas para el grupo de personas con discapacidad cuando se necesiten.
+XIX.- DISEÑO UNIVERSAL.- Diseño de productos, en tornos, programas y servicios, que puedan utilizar todas las personas, en la mayor medida de lo posible, sin necesidad de adaptación, ni diseño especializado; el diseño universal no excluye las ayudas técnicas para el grupo de personas con discapacidad cuando se necesiten: y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XX.- EVALUACIÓN AMBIENTAL ESTRATÉGICA: Conjunto de enfoques analíticos y participativos que buscan integrar las consideraciones ambientales, en las etapas tempranas del proceso de toma de decisiones, para ayudar a formular las políticas, planes y programas, evaluar la potencial efectividad y sostenibilidad de los mismos; y evaluar las interconexiones con las consideraciones económicas y sociales.
 
 ###### ARTICULO 4.
 
@@ -175,9 +193,11 @@ X.- Cualquiera de los antes mencionados que se encuentren dentro de aeropuertos,
 
 ### CAPITULO II. DE LA POLITICA TURISTICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 5.
 
-La Secretaría, es la Autoridad en materia turística y el Organo encargado de formular y conducir la política de desarrollo de la actividad turística del Estado, considerando los mercados, segmentos, productos y destinos, así como la sustentabilidad, a efecto de lo cual podrá:
+La Secretaría es la Autoridad en materia turística y el Órgano encargado de formular y conducir la política de desarrollo de la actividad turística del Estado, considerando los mercados, segmentos, productos y destinos, así como las previsiones de ley en materia de ordenamiento territorial, protección al ambiente y al patrimonio natural, así como la vulnerabilidad del sector al cambio climático, y la sustentabilidad a efecto de lo cual podrá:
 
 I.- Organizar, operar y evaluar en el ejercicio de sus atribuciones y funciones que competen al Poder Ejecutivo Estatal y las que el Gobierno Federal descentralice;
 
@@ -185,13 +205,19 @@ I.- Organizar, operar y evaluar en el ejercicio de sus atribuciones y funciones 
 
 II.- Formular y desarrollar el Programa Sectorial de Turismo, de conformidad con el Plan de Desarrollo Estatal, Nacional y el cumplimiento de lo establecido en la Convención sobre los Derechos de las Personas con Discapacidad;
 
-III.- Elaborar y validar estudios que permitan identificar las áreas territoriales y de servicios, susceptibles de ser explotadas en Proyectos Turísticos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IV.- Elaborar Proyectos para desarrollar el turismo en una o varias regiones del Estado;
+III.- Elaborar y validar estudios que permitan identificar las áreas territoriales y de servicios, susceptibles de ser explotadas en Proyectos Turísticos, observando y respetando los ordenamientos ecológicos del territorio;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- Elaborar Proyectos para desarrollar el turismo de manera sustentable en una o varias regiones del Estado;
 
 V.- Realizar Proyectos Ejecutivos y Planes Maestros respecto de obras destinadas a servicios turísticos;
 
-VI.- Realizar Proyectos Turísticos Integrales;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- Realizar Proyectos Turísticos Integrales, con enfoque de sustentabilidad;
 
 VII.- Fungir como Organo de Consulta y Relaciones Públicas, para que los particulares obtengan información relativa a Proyectos y Programas de Desarrollo Turístico;
 
@@ -199,7 +225,9 @@ VIII.- Fomentar la inversión privada en los Proyectos que desarrolle, dando pri
 
 IX.- Formar grupos de inversionistas y diseñar esquemas de inversión, a efecto de que aporten su capital en uno o en varios Proyectos de Desarrollo Específico, brindándoles situaciones óptimas para la inversión, así como la gestión y simplificación de los trámites necesarios para la obtención de autorizaciones;
 
-X.- Crear y consolidar Centros Turísticos conforme al Plan Estatal de Desarrollo, en los que habrán de considerarse los diseños urbanos y arquitectónicos de la zona, preservando el equilibrio ecológico y garantizando la comercialización de los servicios turísticos en congruencia con el desarrollo económico y social de la Región;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X.- Crear y consolidar Centros Turísticos conforme al Plan Estatal de Desarrollo, en los que habrán de considerarse los diseños urbanos y arquitectónicos de la zona, la evaluación ambiental estratégica y los ordenamientos ecológicos del territorio; preservando el equilibrio ecológico y garantizando la comercialización de los servicios turísticos en congruencia con el desarrollo económico sustentable y social de la Región;
 
 XI.- Coordinarse con las demás Dependencias del Poder Ejecutivo para ejecutar obras de infraestructura y urbanización y realizar edificaciones en Centros de Desarrollo Turístico, que permitan una oferta masiva o especializada en servicios;
 
@@ -213,15 +241,19 @@ XV.- Asesorar a los inversionistas de los sectores privado y social en sus gesti
 
 XVI.- Realizar la promoción y publicidad de sus actividades y del turismo en general y
 
-XVII.- Vigilar que el desarrollo y operación de Proyectos Turísticos, se realicen preservando el medio ambiente y aseguren el Desarrollo Sustentable de la Entidad, coordinándose con el Consejo Estatal de Ecología.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XVII.- Vigilar que el desarrollo y operación de Proyectos Turísticos, se realicen preservando el medio ambiente, el patrimonio natural y aseguren el Desarrollo Sustentable de la Entidad, coordinándose, para tal efecto, con la Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial.
 
 ###### ARTICULO 6.
 
 La planeación del Desarrollo Turístico del Estado, se llevará a cabo a través de Programas que se formulen con autorización del Titular del Poder Ejecutivo, a través de la Secretaría.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 7.
 
-Los Programas Turísticos se sujetarán a los principios, estrategias, prioridades y acciones previstos en el Plan Estatal de Desarrollo, dichos Programas podrán ser generales o referirse a una Región del Estado o bien a un Municipio de acuerdo con los atractivos turísticos y los recursos disponibles.
+Los Programas Turísticos se sujetarán a los principios, estrategias, prioridades y acciones previstos en el Plan Estatal de Desarrollo, dichos Programas podrán ser generales o referirse a una Región del Estado, o bien a un Municipio de acuerdo con los ordenamientos ecológicos territoriales, los atractivos turísticos y los recursos disponibles.
 
 ###### ARTICULO 8.
 
@@ -235,25 +267,45 @@ III.- Las Autoridades responsables o empresas que los ejecuten;
 
 IV.- La descripción de las acciones, obras y servicios y la referencia a los recursos necesarios;
 
-V.- Las etapas o tiempos para su cumplimiento y (sic)
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VI.- Deberán contar con estudios de factibilidad;
+V.- Las etapas o tiempos para su cumplimiento;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VII.- Desarrollo de la aplicación de normas mínimas y directrices sobre la accesibilidad de las instalaciones y los servicios abiertos al público; y
+VI.- Deberán contar con estudios de factibilidad y de ser necesario, de impacto ambiental;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII.- Desarrollo de la aplicación de normas mínimas y directrices sobre la accesibilidad de las instalaciones y los servicios abiertos al público;
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
 VIII.- Ofrecer formas adecuadas de asistencia y apoyo a las personas con discapacidad para asegurar su acceso a la información.
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IX.- El ordenamiento ecológico territorial que los rija; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X.- Las medidas de adaptación, y en su caso, mitigación al cambio climático.
+
 ###### ARTICULO 9.
 
 En la Planeación del Desarrollo Turístico, se tomarán en cuenta los siguientes aspectos:
 
-I.- El aprovechamiento eficiente y racional de los recursos naturales, salvaguardando en todo caso el equilibrio ecológico y la protección al ambiente y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-II.- Los Programas Turísticos y las acciones que de ellos deriven, habrán de aprovechar óptimamente los principales atractivos turísticos del Estado y prever su amplia difusión a nivel local, nacional e internacional.
+I.- El aprovechamiento eficiente y racional de los recursos naturales, salvaguardando en todo caso el equilibrio ecológico, la protección al ambiente y al patrimonio natural, considerando la evaluación ambiental estratégica;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Los Programas Turísticos y las acciones que de ellos deriven, habrán de aprovechar óptimamente los principales atractivos turísticos del Estado y prever su amplia difusión a nivel local, nacional e internacional; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+III.- La vulnerabilidad del sector al cambio climático.
 
 ###### ARTICULO 10.
 
@@ -283,15 +335,17 @@ La Secretaría, considerando la viabilidad técnica, económica y financiera de 
 
 ### CAPITULO III. DE LA INFRAESTRUCTURA Y DE LAS RESERVAS TERRITORIALES PARA USO TURISTICO
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 15.
 
-De acuerdo con la disponibilidad de superficies aptas para el desarrollo turístico, la Secretaría se ajustará a los lineamientos del Plan Estatal de Desarrollo.
+De acuerdo con la disponibilidad de superficies aptas para el desarrollo turístico, la Secretaría se ajustará a los lineamientos del Plan Estatal de Desarrollo y a los ordenamientos ecológicos territoriales.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 16.
 
-Los Programas de la Actividad Turística, deberán formularse en congruencia con el Plan Estatal de Desarrollo, con el Programa de Ordenamiento Ecológico y el Programa de Desarrollo Urbano de la Entidad y de acuerdo con las disposiciones aplicables de la Ley General de Turismo y las disposiciones que, en materia de Desarrollo Urbano rigen en el Estado, así como, con lo que previenen los Artículos 1 y 27 de la Constitución Política de los Estados Unidos Mexicanos.
+Los Programas de la Actividad Turística, deberán formularse en congruencia con el Plan Estatal de Desarrollo, y lo previsto en los Ordenamientos Ecológicos del Territorio y el Programa de Desarrollo Urbano en la Entidad y de acuerdo con las disposiciones aplicables de la Ley Federal de Turismo y las disposiciones que en materia de Desarrollo Urbano rigen en el Estado, así como con lo que previene el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 17.
 
@@ -353,9 +407,13 @@ II.- Apoyar a la Secretaría en la toma de decisiones y ejecución de acciones;
 
 III.- Integrar Comisiones y Comités Técnicos necesarios, para desarrollar los Planes y Programas propuestos por la Secretaría;
 
-IV.- Hacer de la actividad turística un factor de desarrollo social y económico y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-V.- Procurar el óptimo aprovechamiento de los recursos naturales, históricos y culturales del Estado, en actividades turísticas;
+IV.- Hacer de la actividad turística un factor de desarrollo social y económico;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Procurar el óptimo aprovechamiento sustentable de los recursos naturales, históricos y culturales del Estado, en actividades turísticas; y
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2010)</small>
 
@@ -461,13 +519,19 @@ La Secretaría, el Estado y los Municipios supervisarán que lo dispuesto en est
 
 ### CAPITULO II. DEL TURISMO SUSTENTABLE
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 38.
 
-Para efectos de esta Ley, se entiende por actividad turística sustentable, la que se realiza en todo el Estado con base al uso, estudio y apreciación de los recursos naturales y las manifestaciones sociales y culturales que en ellos se encuentran.
+Para efectos de esta Ley, se entiende por actividad turística sustentable la que se realiza en todo el Estado con base en lo previsto por el ordenamiento ecológico territorial local y, en su caso, la zonificación, los decretos y planes de manejo de las áreas naturales protegidas. Además, dicha actividad deberá tender a la protección de los recursos naturales y el patrimonio natural, con base en la implementación de medidas de protección, conservación y restauración de dichos recursos, así como de mitigación al cambio climático, eficiencia energética, uso de energías renovables, ahorro y uso eficiente del agua.
+
+La Secretaría en coordinación con la Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial, previa auditoría ambiental en la que los interesados demuestren cumplir plenamente con la normatividad aplicable, expedirán un certificado que los acreditará como prestadores de servicios de turismo sustentable.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 39.
 
-El objeto de la actividad turística sustentable, es la promoción, preservación, conservación, restauración y mejoramiento de los recursos naturales, garantizando la permanencia de los procesos biológicos y ecológicos, así como las diversas expresiones históricas, artísticas y culturales.
+El objeto de la actividad turística sustentable, es la promoción, preservación, conservación, restauración y mejoramiento de los recursos naturales y el patrimonio natural, garantizando la permanencia de los procesos biológicos y ecológicos, así como las diversas expresiones históricas, artísticas y culturales.
 
 ###### ARTICULO 40.
 
@@ -481,9 +545,11 @@ La Secretaría impulsará Programas tendientes a proyectar zonas apropiadas en e
 
 En los Programas de Desarrollo Turístico que impulse y fomente la Secretaría, promoverá la preservación y conservación de los recursos naturales, así como las diversas expresiones sociales, históricas, artísticas y culturales.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 43.
 
-La Secretaría con las Dependencias Públicas competentes y los prestadores de servicios turísticos en el Estado, promoverán de manera especial la educación ambiental del turista y de los residentes locales, fomentando la práctica y desarrollo de la actividad turística ecológica.
+La Secretaría con la Secretaría de Medio Ambiente y Ordenamiento Territorial, la Secretaría de Educación y la Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial, en coordinación con los prestadores de servicios turísticos en el Estado, promoverán de manera especial la educación ambiental del turista y de los residentes locales, fomentando la práctica y desarrollo de la actividad turística ecológica.
 
 ## TITULO CUARTO. DE LA PROMOCION Y FOMENTO TURISTICO
 
@@ -493,9 +559,11 @@ La Secretaría con las Dependencias Públicas competentes y los prestadores de s
 
 La imagen corporativa turística del Estado, deberá de ser elaborada por la Secretaría y concensada (sic) y aprobada por el Consejo Consultivo Ciudadano y cuando menos la mitad más uno de los Consejos Consultivos Municipales de Turismo cuyos Ayuntamientos tengan celebrado Convenio de Colaboración con la Secretaría.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 45.
 
-En la promoción y el fomento del turismo corresponde a la Secretaría, proteger, mejorar, incrementar y difundir los atractivos turísticos del Estado, alentando las corrientes turísticas locales, nacionales e internacionales.
+En la promoción y el fomento del turismo corresponde a la Secretaría, proteger, mejorar, incrementar y difundir los atractivos turísticos del Estado, alentando las corrientes turísticas locales, nacionales, internacionales y de turismo sustentable.
 
 ###### ARTICULO 46.
 
@@ -505,9 +573,13 @@ Las Dependencias y Entidades de la Administración Pública Estatal y de los Mun
 
 A fin de cumplir con los objetivos de la promoción, fomento y desarrollo turístico en el Estado, la Secretaría:
 
-I.- Fomentará el cuidado y conservación de zonas y monumentos arqueológicos, artísticos e históricos y lugares de interés para el turismo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-II.- Impulsará la ampliación y mejoramiento de la planta turística, promoviendo la creación de nuevos centros en aquellos lugares que por sus características físicas o culturales, representen un potencial turístico en el Estado;
+I.- Fomentará el cuidado y conservación de zonas y monumentos arqueológicos, artísticos e históricos del patrimonio natural, la biodiversidad, las áreas naturales protegidas y lugares de interés para el turismo;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Impulsará la ampliación y mejoramiento de la planta turística, promoviendo la creación de nuevos centros en aquellos lugares que por sus características físicas o culturales, representen un potencial turístico en el Estado, observando el ordenamiento ecológico territorial;
 
 III.- Promoverá en coordinación con las Dependencias del ramo, el rescate y preservación de las tradiciones culturales propias de cada Región, apoyando las iniciativas tendientes a su conservación.
 
@@ -625,9 +697,23 @@ VI.- Vigilar el buen funcionamiento y dar mantenimiento a las instalaciones, as�
 
 VII.- Optimizar las instalaciones de tomas de agua y energéticos así como disminuir en tanto sea posible, la generación de residuos contaminantes en base a la Legislación Ambiental aplicable;
 
-VIII.- Establecer y fijar en lugares visibles, las medidas de seguridad tendientes a la protección de los turistas, de sus pertenencias, contando con información específica de prevención y asistencia y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IX.- Inscribirse en el Registro Estatal de Turismo.
+VIII.- Establecer y fijar en lugares visibles las medidas de seguridad tendientes a la protección de los turistas, de sus pertenencias, contando con información específica de prevención y asistencia;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IX.- Inscribirse en el Registro Estatal de Turismo; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X.- Promover el uso sustentable de los recursos naturales involucrados en los servicios turísticos.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 63 Bis.
+
+La Procuraduría Ambiental y Ordenamiento Territorial tendrá las facultades de investigación, supervisión, verificación y vigilancia y, en su caso, sanción, previstas, en la Ley para la Protección al Ambiente del Estado de Hidalgo, tratándose de las obligaciones que deberán observar los prestadores de servicios turísticos a que se refiere el Artículo 63, fracción VII, de esta ley.
 
 ###### ARTICULO 64.
 
@@ -1044,3 +1130,19 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente reform
 TERCERO.- A partir de la fecha que sea vigente la presente reforma, el Titular del Poder Ejecutivo Estatal, a través de la Secretaría, contará con ciento sesenta días para actualizar el Reglamento de esta Ley.
 
 CUARTO.- En cuanto a lo enunciando en los Artículos 37 bis y 37 ter, referente al Turismo Accesible, la Secretaría y los Municipios, serán los encargados de hacer cumplir lo establecido en el presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto. Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaría de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
