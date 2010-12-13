@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2010-12-10"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -227,7 +227,7 @@ VIII.- Se contravenga lo dispuesto en una Ley Penal por impedimento legítima (s
 
 IX.- Al momento de realizar el hecho típico, el agente padezca enajenación mental, trastorno mental transitorio, desarrollo intelectual retardado, o cualquier otro estado mental, que le impida comprender el carácter ilícito de aquél o conducirse de acuerdo con esa comprensión, excepto en los casos en que el propio agente haya provocado esa incapacidad para cometer el delito.
 
-Tratándose de enajenación mental y de desarrollo intelectual retardado, se estará siempre a lo dispuesto por el Artículo 47 de este Código. En el caso de transtorno (sic) mental transitorio o de cualquier otro estado mental, sólo se estará a lo dispuesto por el Artículo 47 mencionado si el sujeto requiere tratamiento; en caso contrario se le pondrá en absoluta libertad;
+Tratándose de enajenación mental y de desarrollo intelectual retardado, se estará siempre a lo dispuesto por el Artículo 47 de este Código. En el caso de trastorno mental transitorio o de cualquier otro estado mental, sólo se estará a lo dispuesto por el Artículo 47 mencionado si el sujeto requiere tratamiento; en caso contrario se le pondrá en absoluta libertad;
 
 X.- Se realice el hecho bajo un error invencible respecto a alguno de los elementos esenciales que integran la descripción legal, o, por error igualmente invencible, estime el sujeto activo que su conducta está amparada por una causa de licitud, o cuando el hecho se realice por error invencible sobre la existencia de la Ley o del alcance de ésta.
 
@@ -2695,9 +2695,11 @@ Al que después de la ejecución de la conducta o hecho calificados por la Ley c
 
 La misma pena se aplicará a quien requerido por la autoridad, no dé auxilio para la investigación de los delitos o para la persecución de los delitos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 232.
 
-No se impondrá pena al que oculte al responsable de un hecho calificado por la Ley como delito, o impida que se averigüe siempre que se trate de:
+No se impondrá pena al que oculte al responsable de un hecho calificado por la Ley como delito, o impida que se averigüe, siempre y cuando no se trate de los delitos graves cometidos en contra de las personas menores de 18 años o que no tengan la capacidad para comprender el significado del hecho, cuando se trate de:
 
 I.- Los ascendientes o descendientes consanguíneos o por adopción;
 
@@ -2713,7 +2715,9 @@ Se aplicará de seis meses a tres años de prisión y de quince a setenta días 
 
 I.- No procure por los medios lícitos que tenga a su alcance impedir la consumación de los delitos que sabe que van a cometerse o se están cometiendo, o no denuncien los que ya se consumaron, si ellos son de los que se persiguen de oficio.
 
-Se exceptúan de sanción aquéllos que no puedan cumplir tal obligación, sin peligro de su persona o intereses, o de la persona o bienes del cónyuge, concubina o concubinatario, o de algún pariente en línea recta o colateral dentro del segundo grado, o los que estén ligados por extrema gratitud, respeto o amistad y los que no puedan ser compelidos por las autoridades a revelar secretos que se les hubiese confiado en el ejercicio de su profesión o encargo.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Se exceptúan de sanción aquellos que no puedan cumplir tal obligación, sin peligro de su persona o intereses, o de la persona o bienes del cónyuge, concubina o concubinatario, o de algún pariente en línea recta o colateral dentro del segundo grado, o los que estén ligados por extrema gratitud, respeto o amistad y los que no puedan ser compelidos por las autoridades a revelar secretos que se les hubiese confiado en el ejercicio de su profesión o encargo, siempre y cuando no se trate de los delitos graves cometidos en contra de las personas menores de 18 años o que no tengan la capacidad para comprender el significado del hecho.
 
 II.- No haya tomado las precauciones indispensables para asegurarse de que la persona de quien recibió una cosa mueble en venta o prenda, tendría derecho para disponer de ella, si resultare robada;
 
@@ -3296,5 +3300,13 @@ Segundo.- El Comité a que se refiere el artículo 19 de la ley, deberá instala
 Tercero.- Los Municipios deberán elaborar y aprobar su Programa Municipal en un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, así como para adecuar sus normas reglamentarias para la debida aplicación de la Ley.
 
 TRANSITORIO:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+T R A N SI T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
