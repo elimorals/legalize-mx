@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-catastro-del-estado-de-aguascalientes-2617"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-27"
-last_updated: "2010-09-20"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 13 DE DICIEMBRE DE 2010. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Número 52, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 27 de diciembre de 1981.
 
@@ -608,3 +610,37 @@ P.O. 20 DE SEPTIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Catastro del Estado publicada el 27 de diciembre de 1981 en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El presupuesto asignado a la Dirección General de Catastro de la Secretaría de Finanzas del Estado, para el ejercicio fiscal en turno, será ejercido por el Instituto Catastral del Estado de Aguascalientes, que con la presente Ley se crea.
+
+###### ARTÍCULO CUARTO.
+
+La Dirección General del Catastro de la Secretaría de Finanzas, ejercerá las facultades del Instituto Catastral a que se refiere el presente Decreto, en tanto se realizan los procedimientos de entrega-recepción, administrativos y en general los necesarios para la conformación jurídica y material del Instituto Catastral, de manera específica en lo relativo a los Artículos 42 y 46 de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto, conservará y administrará el patrimonio que corresponda actualmente a la Dirección General de Catastro.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto, conservará y respetará los términos, obligaciones y condiciones de los Convenios y Acuerdos que tenga suscritos actualmente la Dirección General de Catastro.
+
+###### ARTÍCULO SÉPTIMO.
+
+El personal que a la entrada en vigencia del presente Decreto se encuentre laborando en la Dirección General de Catastro, conservará sus derechos adquiridos en materia laboral, los cuales serán respetados por el Instituto Catastral del Estado de Aguascalientes.
+
+###### ARTÍCULO OCTAVO.
+
+El Reglamento Interior y los Manuales de Organización del Instituto deberán publicarse dentro de los ciento ochenta días del inicio de vigencia del presente ordenamiento.
