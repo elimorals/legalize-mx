@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "2010-07-12"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -139,9 +139,13 @@ IV.- Secretaría de Desarrollo Social;
 
 V.- Secretaría de Planeación y Desarrollo Regional;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VI.- Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+VI.- Secretaría de Obras Públicas, Comunicaciones y Transportes;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI Bis.- Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2005)</small>
 
@@ -705,11 +709,11 @@ XXXI.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
 ARTICULO 26 TER.- (DEROGADO, P.O. 31 DE MARZO DE 2005)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 27.
 
-A la Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Obras Públicas, Comunicaciones y Transportes, corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -771,53 +775,41 @@ XX.- Ejecutar las obras necesarias para el establecimiento de estaciones de radi
 
 XXI.- Formular y proponer al Poder Ejecutivo del Estado la celebración y, en su caso celebrar acuerdos de coordinación con la Administración Pública en los niveles de Gobierno Federal y Municipal, tendientes a la planeación, operación y control de la construcción y promoción de vivienda rural y urbana y la construcción del equipamiento urbano;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXII.- Coordinar con las Dependencias y Entidades de la Administración Pública Estatal y Municipal, la construcción de vivienda urbana y rural, el ordenamiento territorial, la instrumentación del desarrollo y equipamiento urbano y la elaboración del catastro, en la esfera de su competencia y bajo un enfoque de desarrollo sustentable;
+XXII.- Coordinar con las Dependencias y Entidades de la Administración Pública Estatal y Municipal, la construcción de vivienda urbana y rural, la instrumentación del desarrollo y equipamiento urbano y la elaboración del catastro, en la esfera de su competencia y bajo un enfoque de desarrollo sustentable;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXIII.- Coadyuvar con los Municipios de conformidad con las leyes de la materia, en la planeación, control, administración del uso del suelo, dictámenes de usos, destinos, reservas territoriales, provisiones de áreas y predios que se expidan en el Estado, así como en la autorización de fraccionamientos, subdivisiones, constitución y cambios de régimen de propiedad en condominio, tanto de obra pública como privada;
+XXIII.- Coadyuvar con los Municipios de conformidad con las leyes de la materia, en la constitución y cambios de régimen de propiedad en condominio, tanto de obra pública como privada;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXIV.- Instrumentar mecanismos, intervenir y participar, conforme a las Leyes aplicables en la regularización de la tenencia de la tierra independientemente de su régimen y de los asentamientos humanos existentes;
+XXIV.- Participar conforme a las Leyes aplicables, y en coordinación con las autoridades competentes, en la regularización de la tenencia de la tierra independientemente de su régimen y de los asentamientos humanos existentes;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
+XXV.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
-XXV.- Proporcionar a los Ayuntamientos asesoría y, en su caso, convenir y contratar la elaboración de los programas de desarrollo urbano en la modalidad correspondiente;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
+XXVI.- Participar en coordinación con los Gobiernos Federal y Municipal, así como, demás dependencias de la Administración Pública Estatal competentes, en los programas tendentes a satisfacer las necesidades de tierra para el desarrollo urbano, los asentamientos humanos, vivienda y el equipamiento urbano correspondiente;
 
-XXVI.- Participar en coordinación con los Gobiernos Federal y Municipal en los programas tendientes a satisfacer las necesidades de tierra para el desarrollo urbano, los asentamientos humanos, vivienda y el equipamiento urbano correspondiente;
+XXVII.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+XXVIII.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
-XXVII.- Diseñar, instrumentar, expedir, conducir, evaluar, ejecutar y difundir la política, los programas, acciones y estrategias sectoriales o estatales de preservación y protección al medio ambiente, equilibrio ecológico y recursos naturales, de conformidad con la legislación y normatividad aplicable;
+XXIX.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
+XXX.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
-XXVIII.- Formular, aplicar y vigilar el cumplimiento de las Políticas, Leyes, Normas y Reglamentos para prevenir y contrarrestar la contaminación ambiental, así como promover el ordenamiento ecológico y regular el impacto y la protección del medio ambiente;
-
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
-
-XXIX.- Fijar, normar, dictaminar y evaluar las medidas y mecanismos para combatir y prevenir la contaminación del aire, suelo y agua; así como establecer los criterios y lineamientos para el trámite de manifestación de impacto ambiental, en la esfera de sus atribuciones;
-
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
-
-XXX.- Vigilar y coordinar, en el ámbito de su competencia el cumplimiento de los compromisos de carácter intergubernamental que, en materia de ecología, preservación del ambiente y recursos naturales, contengan los convenios firmados por el Estado con la Federación, las Entidades Federativas y los Municipios;
-
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
-
-XXXI.- Promover el Sistema Estatal de Información Ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelo y de los cuerpos de agua de Jurisdicción Estatal;
+XXXI.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
 XXXII.- Otorgar, expedir, autorizar, revocar, cancelar y normar concesiones y permisos en materia de servicio de transporte y de los servicios auxiliares y conexos;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXXIII.- Administrar las instalaciones de los aeropuertos y servicios conexos, de competencia estatal; y (sic)
+XXXIII.- Promover y otorgar, en coordinación con las dependencias y entidades de la Administración Pública Estatal competentes, asesoría y asistencia técnica, mediante los mecanismos de colaboración administrativa que correspondan, a los Ayuntamientos, en materia de desarrollo metropolitano, coordinación regional e intermunicipal a efecto de fortalecer sus programas de infraestructura y equipamiento urbano;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
@@ -839,9 +831,9 @@ XXXVII.- Proponer, en el ámbito de su competencia, la celebración de esquemas 
 
 XXXVIII.- Promover y otorgar, en coordinación con las Dependencias y Entidades de la Administración Pública Estatal competentes, asesoría y asistencia técnica, mediante los mecanismos de colaboración administrativa que correspondan, a los Ayuntamientos, en materia de desarrollo metropolitano, coordinación regional e intermunicipal a efecto de fortalecer sus programas de infraestructura y equipamiento urbano; y
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXXIX.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
+XXXIX.- Las demás que señalen las Leyes, Reglamentos, Decretos, Acuerdos, Convenios y disposiciones vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -1005,21 +997,69 @@ XXXIX.- Procurar el fortalecimiento de la infraestructura eléctrica, el aprovec
 
 XL.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 28 Bis.
+
+A la Secretaría de Medio Ambiente y Ordenamiento Territorial le corresponde:
+
+I.- Diseñar, expedir, instrumentar, conducir, ejecutar, evaluar y difundir la política, los programas, acciones y estrategias sectoriales o estatales de preservación y protección al medio ambiente, equilibrio ecológico, recursos naturales y el patrimonio natural del Estado, de conformidad con la legislación y normatividad aplicable;
+
+II.- Formular las Políticas, Leyes, Normas y Reglamentos para prevenir y contrarrestar la contaminación ambiental, así como promover el ordenamiento territorial y regular el impacto y la protección del ambiente y el patrimonio natural;
+
+III.- Fijar los límites de emisiones, así como normar, dictaminar y evaluar las medidas y mecanismos para combatir y prevenir la contaminación del aire, suelo y agua;
+
+IV.- Diseñar, expedir, instrumentar, conducir, ejecutar, evaluar y difundir la política, los programas, acciones y estrategias sectoriales o estatales relativos a la producción, industrialización y comercialización de productos forestales en todos sus aspectos; fomentando la sustentabilidad de las actividades forestales y la creación de empleos;
+
+V.- Promover la creación y consolidación de organizaciones de productores forestales que coadyuven con el desarrollo del sector forestal;
+
+VI.- Coadyuvar con la Dependencia responsable de la Administración Pública Federal y los Comités de Sanidad correspondientes, en el cumplimiento de la normatividad y operación de los programas en materia de sanidad forestal a efecto de atender, coordinar, supervisar y evaluar las campañas de sanidad forestal, relativas al ámbito de su competencia;
+
+VII.- Establecer los criterios y lineamientos para el trámite de manifestación de impacto ambiental, en la esfera de sus atribuciones;
+
+VIII.- Dar cumplimiento a los compromisos de carácter intergubernamental que, en materia de diseño, instrumentación, expedición, conducción, evaluación, ejecución y difusión de la política, los programas, acciones y estrategias relacionadas con la preservación y protección al ambiente, el equilibrio ecológico, los recursos naturales y el patrimonio natural del Estado, así como su ordenamiento territorial, contengan los convenios firmados por el Estado con la Federación, las Entidades Federativas y los Municipios;
+
+IX.- Crear, administrar y difundir el Sistema Estatal de Información Ambiental, que incluirá el Registro de Emisiones y Transferencia de Contaminantes, los sistemas de monitoreo atmosférico, de suelo y de los cuerpos de agua de Jurisdicción Estatal así como de ordenamiento territorial Estatal y el inventario forestal del Estado;
+
+X.- Autorizar las políticas generales del uso de suelo y emitir normas técnicas en materia de ordenamiento territorial, desarrollo urbano y protección del ambiente;
+
+XI.- Coordinar con las Dependencias y Entidades de la Administración Pública Estatal y Municipal, el ordenamiento territorial, en la esfera de su competencia y bajo un enfoque de desarrollo sustentable;
+
+XII.- Coadyuvar con los Municipios de conformidad con las Leyes de la materia, en la planeación, control, administración del uso del suelo, dictámenes de usos, destinos, reservas territoriales, provisiones de áreas y predios que se expidan en el Estado, así como en la autorización de fraccionamientos, subdivisiones, tanto de obra pública como privada;
+
+XIII.- Instrumentar mecanismos, intervenir y participar, conforme a las Leyes aplicables en la regularización de la tenencia de la tierra independientemente de su régimen y de los asentamientos humanos existentes;
+
+XIV.- Proporcionar a los Ayuntamientos asesoría y, en su caso, convenir y contratar la elaboración de los programas de desarrollo urbano en la modalidad correspondiente;
+
+XV.- Participar en coordinación con los Gobiernos Federal y Municipal en los programas tendientes a satisfacer las necesidades de tierra para el desarrollo urbano, los asentamientos humanos, vivienda y el equipamiento urbano correspondiente;
+
+XVI.- Autorizar o negar, previo estudio de impacto ambiental, el fraccionamiento de terrenos o proyectos de desarrollo que le soliciten las personas físicas y morales, de acuerdo a la normatividad vigente;
+
+XVII.- Formular y conducir la política general en materia de desarrollo urbano y ordenamiento territorial de los asentamientos humanos en la Entidad, a través los instrumentos aplicables;
+
+XVIII.- Participará en el ámbito de su competencia en las Comisiones Ambientales Metropolitanas, de conformidad con lo establecido por la normatividad aplicable;
+
+XIX.- Coordinar la elaboración, actualización y ejecución de la Estrategia Estatal de Cambio Climático;
+
+XX.- Participar en la Comisión Intersecretarial de Cambio Climático presidiendo su Secretaría Técnica de conformidad con la normatividad aplicable; y
+
+XXI.- Las demás que establezcan la Ley de Protección al Ambiente del Estado de Hidalgo, la Ley de Asentamientos Humanos, y otras Leyes, Reglamentos, Decretos, Acuerdos, Convenios y disposiciones expresas del Titular del Poder Ejecutivo.
+
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 29.
 
 A la Secretaría de Agricultura y Desarrollo Rural corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-l.- Instrumentar y conducir las políticas y programas relativos a la producción, industrialización y comercialización de productos agropecuarios, piscícolas y forestales en todos sus aspectos; fomentando la productividad y la rentabilidad de las actividades económicas en el medio rural y la creación de empleos;
+I.- Instrumentar y conducir las políticas y programas relativos a la producción, industrialización y comercialización de productos agropecuarios y piscícolas en todos sus aspectos; fomentando la sustentabilidad, productividad y la rentabilidad de las actividades económicas en el medio rural y la creación de empleos;
 
 II.- Suscribir, por delegación expresa del Gobernador del Estado, convenios y acuerdos entre el Poder Ejecutivo Estatal y la Administración Pública Federal, así como con los Gobiernos Municipales, en materias relativas a su competencia, así como ejercer las atribuciones que al respecto se deriven de dichos convenios;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-III.- Elaborar estudios e inventarios de los recursos disponibles y el potencial productivo de las regiones del Estado, a efecto de coadyuvar en la planeación de su desarrollo, así como, en la óptima utilización y el mejoramiento del medio ambiente;
+III.- Elaborar, en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial, estudios e inventarios de los recursos naturales disponibles y el potencial productivo de las regiones del Estado, a efecto de coadyuvar en la planeación de su desarrollo, así como, en la óptima utilización y el mejoramiento del medio ambiente;
 
 IV.- Proporcionar información en las materias de su competencia a las dependencias y Entidades de la administración pública, así como asesoría y apoyos a los integrantes de los sectores social y privado para integrarlos a la cadena producción-transformación-comercialización y consumo de sus productos;
 
@@ -1027,13 +1067,13 @@ IV.- Proporcionar información en las materias de su competencia a las dependenc
 
 V.- Proponer a la Secretaría de Finanzas, con sujeción de los ordenamientos legales correspondientes, proyectos de inversión que permitan desarrollar el potencial productivo de los productores rurales y sus comunidades;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VI.- Promover la creación y consolidación de organizaciones de productores agrícolas, ganaderos, forestales y pesqueros que coadyuven a una mayor inversión al campo;
+VI.- Promover la creación y consolidación de organizaciones de productores agrícolas, ganaderos y pesqueros que coadyuven a una mayor inversión al campo;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VII.- Participar con la Federación, los municipios y las organizaciones de productores, en la preservación y fomento de los recursos naturales renovables y desarrollar su potencial productivo;
+VII.- Participar con la Secretaría de Medio Ambiente y de Ordenamiento Territorial, con otras Dependencias de la Administración Pública Estatal, la Federación, los Municipios y las organizaciones de productores, en la preservación y fomento de los recursos naturales renovables y desarrollar su potencial productivo;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
@@ -1041,21 +1081,21 @@ VIII.- Impulsar, en coordinación con las Secretarías de Planeación y Desarrol
 
 IX.- Elaborar, instrumentar y apoyar los proyectos productivos que generen empleos e ingresos a las familias rurales;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-X.- Proyectar e impulsar, conjuntamente con las comunidades rurales, las obras de infraestructura rural que eleven la producción y el nivel de vida en el campo;
+X.- Proyectar e impulsar, conjuntamente con las comunidades rurales, las obras de infraestructura rural que eleven la producción y el nivel de vida en el campo respetando lo previsto por los ordenamientos ecológicos territoriales;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
 
 XI.- Fomentar la asociación de pequeños productores en unidades de producción, para favorecer la tecnificación, financiamiento, industrialización y comercialización de sus productos;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XII.- Promover en coordinación con las autoridades federales competentes y con la Comisión Estatal del Agua, la eficaz utilización de los recursos hidráulicos del Estado;
+XII.- Promover en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial las autoridades federales competentes y con la Comisión Estatal del Agua, la eficaz utilización de los recursos hidráulicos del Estado;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XIII.- Determinar y realizar en coordinación con la Comisión Estatal del Agua y la Comisión Nacional del Agua, la construcción de obras de captación, derivación y alumbramiento de aguas en las comunidades rurales del Estado, conforme a la normatividad vigente a efecto de controlar al máximo su aprovechamiento;
+XIII.- Determinar y realizar en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial, la Comisión Estatal del Agua y la Comisión Nacional del Agua, la construcción de obras de captación, derivación y alumbramiento de aguas en las comunidades rurales del Estado, conforme a la normatividad vigente a efecto de controlar al máximo su aprovechamiento;
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
@@ -1064,6 +1104,10 @@ XIV.- Organizar, en coordinación con las Secretarías de Desarrollo Económico 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2010)</small>
 
 XIV BIS.- Coadyuvar con la Dependencia responsable de la Administración Pública Federal y los Comités de Sanidad, en el cumplimiento de la normatividad y operación de los programas en materia de sanidad animal, vegetal y acuícola, a efecto de atender, coordinar, supervisar y evaluar las campañas de sanidad, relativas al ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XIV TER.- Participar en la elaboración y ejecución de la Estrategia Estatal de Cambio Climático en coordinación con otras Dependencias de la Administración Pública Estatal de conformada (sic) con lo establecido con la normatividad en la materia; y
 
 XV.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -1776,3 +1820,19 @@ CUARTO.- El Gobernador del Estado emitirá las reformas a los Reglamentos interi
 QUINTO.- En periodo de noventa días los Organismos Públicos Descentralizados de la Administración Pública Paraestatal, a través de sus órganos de gobierno, deberán emitir y actualizar sus estatutos orgánicos y publicarlos en el Periódico Oficial del Estado.
 
 SEXTO.- En tanto se modifiquen los nuevos ordenamientos que regulan los aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose, en todo lo que no se oponga a esta reforma, las disposiciones legales vigentes.
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto.- Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaria de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
