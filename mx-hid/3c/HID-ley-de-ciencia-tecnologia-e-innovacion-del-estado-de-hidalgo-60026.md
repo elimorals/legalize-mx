@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-hidalgo-60
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2007-12-31"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE HIDALGO
 
-LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE HIDALGO
+LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -199,7 +199,13 @@ e).- Secretaría de Agricultura y Desarrollo Rural;
 
 f).- Secretaría de Planeación y Desarrollo Regional;
 
-g).- Oficina de Modernización e Innovación Gubernamental;
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+g).- Secretaría de Medio Ambiente y Ordenamiento Territorial;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+h).- Oficina de Modernización e Innovación Gubernamental;
 
 IV.- El presidente del Consejo Coordinador Empresarial; y
 
@@ -303,7 +309,9 @@ VII.- Promover que el sector privado realice inversiones crecientes para la inve
 
 VIII.- Revisar y actualizar, periódicamente las políticas y estrategias de apoyo al desarrollo científico y tecnológico, conforme a un esfuerzo permanente de evaluación de resultados y tendencias del avance que tenga en esta materia, así como a su impacto en la solución de las necesidades de la Entidad;
 
-IX.- Realizar, mediante procedimientos competitivos, eficientes, equitativos y públicos, sustentados en méritos y calidad, la selección de instituciones, programas, proyectos y personas destinatarias de apoyos, orientadas con un alto sentido de responsabilidad social, que favorezca el desarrollo de áreas estratégicas del Estado, lo que de ninguna manera, afectará la libertad de investigación que se encuentre apegada a la regulación o limitaciones que por motivo de seguridad, salud, ética o de cualquier otra causa de interés público, determinen las disposiciones legales.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IX.- Realizar, mediante procedimientos competitivos, eficientes, equitativos y públicos, sustentados en méritos y calidad, la selección de instituciones, programas, proyectos y personas destinatarias de apoyos, orientadas con un alto sentido de responsabilidad social, que favorezca el desarrollo de áreas estratégicas del Estado, lo que de ninguna manera, afectará la libertad de investigación que se encuentre apegada a la regulación o limitaciones que por motivo de seguridad, salud, ética, protección al ambiente o de cualquier otra causa de interés público, determinen las disposiciones legales;
 
 X.- Formular, integrar y ejecutar, las políticas y estrategias integrales de apoyo para el desarrollo científico y tecnológico procurando distinguir las actividades científicas de las tecnológicas, cuando ello sea pertinente;
 
@@ -805,7 +813,9 @@ e).- Las adecuaciones legales, administrativas, programáticas y de apoyos neces
 
 III.- Elaborar informes sobre el funcionamiento y eficacia de los apoyos y facilidades administrativas para la innovación, incluyendo lo relativo al funcionamiento, apoyos y resultados de las redes regionales de innovación;
 
-IV.- Elaborar indicadores económicos, sociales y de innovación que soporten el contenido y seguimiento y evaluación del Programa Estatal de Ciencia, Tecnología e Innovación en la materia, y orienten los ajustes necesarios de los instrumentos y mecanismos de apoyo para la innovación;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- Elaborar indicadores económicos, sociales, ambientales y de innovación que soporten el contenido y seguimiento y evaluación del Programa Estatal de Ciencia, Tecnología e Innovación en la materia, y orienten los ajustes necesarios de los instrumentos y mecanismos de apoyo para la innovación;
 
 V.- Brindar asesoría a los sectores público, social y privado sobre la aplicación de estímulos fiscales que establece la Ley del Impuesto sobre la Renta y otros ordenamientos legales con relación al desarrollo de la innovación; y
 
@@ -912,3 +922,21 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto. Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaría de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los Interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
