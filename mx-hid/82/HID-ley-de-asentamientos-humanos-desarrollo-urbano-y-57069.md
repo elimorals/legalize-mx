@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2007-09-17"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -71,7 +71,9 @@ La planeación urbana, el ordenamiento territorial y la regulación de los asent
 
 Los programas que integran el Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano, expedidos por las autoridades competentes, establecerán entre otros:
 
-I.- Estrategias, medidas y acciones necesarias para el aprovechamiento, en beneficio social, de las áreas naturales susceptibles de apropiación, que conduzcan al mejoramiento de los niveles de vida y bienestar social en las comunidades urbanas y rurales;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+I.- Estrategias, medidas y acciones necesarias para el aprovechamiento, en beneficio social, de las áreas susceptibles de apropiación, que conduzcan al mejoramiento de los niveles de vida y bienestar social en las comunidades urbanas y rurales;
 
 II.- La ejecución de las medidas y acciones que tiendan a conciliar equilibradamente la interrelación entre ciudad y campo y que requieran la planeación, ordenación y regulación de los asentamientos humanos;
 
@@ -85,15 +87,23 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Acción urbana: El proceso de aprovechamiento, acondicionamiento y utilización del territorio para el asentamiento humano, mediante la introducción o mejoramiento de infraestructura, equipamiento y servicios, así como por el fraccionamiento, urbanización, fusión, subdivisión, lotificación, relotificación, edificación, cambio de régimen a propiedad en condominio u otros tendientes a la transformación, uso o aprovechamiento del suelo;
 
-II.- Asentamiento humano: El establecimiento de un conglomerado demográfico con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-III.- Asentamiento humano irregular: Es el conglomerado demográfico, con el conjunto de sus sistemas de convivencia, establecido sin autorización en términos urbanístico - ambientales de las Autoridades Municipales, en una determinada zona de los centros de población por lo general en zonas periféricas o suburbanas, cualquiera que sea su régimen jurídico de tenencia de la tierra, aunque este fenómeno se presenta con mayor frecuencia en tierras ejidales o comunales;
+II.- Asentamiento humano: El establecimiento de un conglomerado demográfico con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran, respetando lo establecido por el Ordenamiento Ecológico Territorial;
 
-IV.- Centro de población: Las áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de la Autoridad competente se provean para la fundación de los mismos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+III.- Asentamiento humano irregular: Es el conglomerado demográfico, con el conjunto de sus sistemas de convivencia, establecido sin autorización en términos urbanístico - ambientales de las Autoridades Municipales, en una determinada zona de los centros de población por lo general en zonas periféricas o suburbanas, cualquiera que sea su régimen jurídico de tenencia de la tierra, aunque este fenómeno se presenta con mayor frecuencia en tierras ejidales o comunales en contravención con lo dispuesto por el Ordenamiento Ecológico Territorial local o municipal;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- Centro de población: las áreas constituidas por las zonas urbanizadas las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de la Autoridad competente se provean para la fundación de los mismos respetando lo previsto por el Ordenamiento Ecológico Territorial local o municipal;
 
 V.- Conservación: La acción tendiente a mantener el equilibrio ecológico y preservar el buen estado de la infraestructura, equipamiento, vivienda y servicios urbanos de los asentamientos humanos, incluyendo sus valores históricos, naturales y culturales;
 
-VI.- Constancia de uso de suelo: El documento expedido por la Autoridad en el cual se establecen los usos y destinos de un predio en base a su uso actual o al uso que en su caso establezcan los planes o programas de desarrollo urbano, la cual no autoriza su modificación, construcción o alteración;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- Constancia de uso de suelo: El documento expedido por la Autoridad en el cual se establecen los usos y destinos de un predio en base a lo previsto por el Ordenamiento Ecológico Territorial local, su uso actual o al uso que en su caso establezcan los planes o programas de desarrollo urbano, la cual no autoriza su modificación, construcción o alteración;
 
 VII.- Crecimiento: La acción tendiente a expandir físicamente un asentamiento humano existente;
 
@@ -113,25 +123,37 @@ XIV.- Estudio de impacto urbano: El documento que los propietarios o promoventes
 
 XV.- Fraccionamiento: La división de un terreno en dos o mas manzanas y éstas en lotes, que requiera del trazo de una o más vías públicas, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos;
 
-XVI.- Fundación: La acción de establecer un nuevo asentamiento humano fuera de los límites del centro de población;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XVI.- Fundación: La acción de establecer un nuevo asentamiento humano fuera de los límites del centro de población respetando lo previsto por el Ordenamiento Ecológico Territorial Local o Municipal;
 
 XVII.- Fusión de áreas o predios: La unión de dos o más terrenos colindantes para formar uno solo;
 
 XVIII.- Infraestructura: Las vías generales de comunicación, toda clase de redes de transportación y distribución de servicios públicos;
 
-XIX.- Licencia de uso de suelo: El documento expedido por el Ayuntamiento, en el cual se autoriza el uso o destino de un predio o inmueble, estableciendo sus condiciones de aprovechamiento de conformidad con los programas, reglamentos y normatividad aplicable en materia de desarrollo urbano y ordenamiento territorial;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Licencia de uso de suelo: El documento expedido por el Ayuntamiento, en el cual se autoriza el uso o destino de un predio o inmueble, estableciendo sus condiciones de aprovechamiento de conformidad con los programas, reglamentos y normatividad aplicable en materia de desarrollo urbano y ordenamiento ecológico territorial;
 
 XX.- Mejoramiento: Acción tendiente a reordenar, renovar o regularizar las zonas de un asentamiento humano de incipiente desarrollo o deterioradas física o funcionalmente y dotar a los pobladores de satisfactores y servicios básicos;
 
 XXI.- Municipalización del fraccionamiento: El acto formal mediante el cual se realiza la entrega-recepción por parte del fraccionador al Municipio respectivo, de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un fraccionamiento, que cumpliendo con lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables, se encuentran en posibilidad de operar suficiente y adecuadamente, permitiendo al Municipio prestar los servicios públicos necesarios para el bienestar de los colonos ahí asentados;
 
-XXII.- Ordenamiento territorial: El proceso de distribución equilibrada de la población y de las actividades económicas en un espacio determinado, atendiendo a la localización del equipamiento e infraestructura económica y social, en relación a las necesidades de equilibrio general de la población y del medio ambiente;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXII.- Ordenamiento territorial: El proceso de distribución equilibrada de la población y de las actividades económicas en un espacio determinado, atendiendo a lo previsto por el Ordenamiento Ecológico del Territorio local o municipal, la vulnerabilidad de los asentamientos humanos y la infraestructura al cambio climático, así como la localización del equipamiento e infraestructura económica y social, en relación a las necesidades de equilibrio general de la población y del medio ambiente;
 
 XXIII.- Polígonos de actuación: El área delimitada y físicamente determinada de un territorio, en que se aplicará alguna de las modalidades del Sistema a fin de estructurar, ordenar o reordenar una unidad espacial integral;
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXIII BIS.- Procuraduría: La Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial.
+
 XXIV.- Programa Estatal de Desarrollo Urbano; El conjunto de Reglamentos, planos, normas técnicas o disposiciones relativas para ordenar y regular las provisiones, usos, reservas y destinos del Territorio de la Entidad, para la fundación, mejoramiento, conservación y crecimiento de los centros de población y el desarrollo urbano en general;
 
-XXV.- Provisiones: Las áreas que serán utilizadas para la fundación de un asentamiento humano;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXV.- Provisiones: Las áreas que serán utilizadas para la fundación de un asentamiento humano respetando lo previsto en el Ordenamiento Ecológico del Territorio local o Municipal;
 
 XXVI.- Reagrupamiento inmobiliario: La asociación de los propietarios de los predios necesarios para la ejecución de un proyecto de interés público o privado;
 
@@ -139,7 +161,9 @@ XXVII.- Relotificación: El acto mediante el cual dos o más lotes contiguos de 
 
 XXVIII.- Reservas: Las áreas de un asentamiento humano que serán utilizadas para su crecimiento;
 
-XXIX.- Secretaría: La Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXIX.-Secretaría: la Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 XXX.- Servicios urbanos: Las actividades operativas públicas prestadas directamente por la Autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
 
@@ -155,11 +179,15 @@ XXXV.- Sistema de actuación privado: El reagrupamiento inmobiliario en un polí
 
 XXXVI.- Subdivisión: La partición de un terreno en dos o más fracciones que no requieran el trazo de una o más vías públicas;
 
-XXXVII.- Suelo no urbanizable: Las zonas, áreas y predios ubicados o no dentro de un asentamiento humano en donde, de conformidad con los programas que integran el Sistema, el uso del suelo deberá permanecer inalterable;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXXVlI.- Suelo no urbanizable: Las zonas, áreas y predios ubicados o no dentro de un asentamiento humano en donde, de conformidad con los programas que integran el Sistema y/o el Ordenamiento Ecológico del Territorio local o municipal, el uso del suelo deberá permanecer inalterable;
 
 XXXVIII.- Suelo urbanizado: Las zonas, áreas o predios de un centro de población que cuenten con la infraestructura, equipamiento y servicios urbanos y que están edificados en al menos dos terceras partes de su superficie, que pueden ser objeto de reordenamiento o reestructuración;
 
-XXXIX.- Suelo urbanizable: Las áreas o predios que se reserven para la expansión o el crecimiento de los asentamientos humanos, conforme a los programas que integran el Sistema;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXXIX.- Suelo urbanizable: Las áreas o predios que se reserven para la expansión o el crecimiento de los asentamientos humanos, conforme a los programas que integran el Sistema y/o el Ordenamiento Ecológico del Territorio;
 
 XL.- Usos: Los fines particulares a que podrán dedicarse determinadas zonas o predios en el Territorio del Estado;
 
@@ -209,13 +237,25 @@ XIII.- Convenir con los Municipios, en su caso, sobre el otorgamiento de licenci
 
 XIV.- Coadyuvar con las Dependencias y Entidades Federales en el cumplimiento del Programa Nacional de Desarrollo Urbano y Ordenamiento Territorial;
 
-XV.- Expedir las declaratorias sobre provisiones, usos, reservas y destinos de áreas y predios; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XVI.- Las demás que le atribuyan las Leyes y disposiciones legales aplicables.
+XV.- Expedir las declaratorias sobre provisiones, predios; usos, reservas y destinos de áreas y predios;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XVI.-. Determinar la vulnerabilidad de los asentamientos humanos y el desarrollo urbano en general, a los efectos del cambio climático, así como las medidas de adaptación y/mitigación al cambio climático que se deben implementar en los asentamientos humanos, centros de población; y,
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XVlI.- Las de más (sic) que atribuyan las Leyes y disposiciones legales aplicables.
 
 ###### ARTICULO 7.
 
 Para el cumplimiento de las atribuciones que esta Ley le otorga al Ejecutivo, se auxiliará por la Secretaría, que es la Dependencia encargada de formular y conducir la política general en materia de desarrollo urbano y ordenamiento territorial de los asentamientos humanos en la Entidad, a través del Sistema y los demás instrumentos aplicables al presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Así como, por la Procuraduría encargada de supervisar, verificar, vigilar el cumplimento de lo previsto en la presente Ley y en su caso, sancionar su incumplimiento de conformidad con lo previsto en la normatividad aplicable.
 
 ###### ARTICULO 8.
 
@@ -269,11 +309,23 @@ XXIII.- Participar en la conformación de acciones en materia de dotación de in
 
 XXIV.- Participar conforme a las leyes aplicables en el diseño de programas y acciones en materia del patrimonio cultural, natural y la imagen urbana;
 
-XXV.- Vigilar el cumplimiento de esta Ley y sus disposiciones reglamentarias, así como imponer las sanciones y medidas de seguridad de su competencia;
+XXV.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
 XXVI.- Conocer y resolver los recursos administrativos, en el ámbito de su competencia, de conformidad con la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo; y
 
 XXVII.- Las demás que le atribuyan otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 8 BIS.- Corresponde a la Procuraduría:
+
+I.- Investigar, supervisar, verificar y vigilar el cumplimiento de esta Ley y sus disposiciones reglamentarias, así como imponer las sanciones y medidas de seguridad de conformidad con lo previsto en la normatividad aplicable;
+
+II.- Coordinarse con los municipios para vigilar el cumplimiento de la presente Ley;
+
+III.- Conocer y resolver los recursos administrativos, en el ámbito de su competencia, de conformidad con lo previsto en la Ley para la Protección al Ambiente del Estado de Hidalgo; y
+
+IV.- Las demás que le atribuyan otros ordenamientos legales.
 
 ###### ARTICULO 9.
 
@@ -351,9 +403,11 @@ VII.- Los Programas Parciales y Sectoriales de Desarrollo Urbano, derivados de l
 
 El Estado y los Municipios podrán convenir mecanismos de planeación regional para coordinar acciones e inversiones que propicien el ordenamiento territorial de los asentamientos humanos ubicados en dos o más Entidades, ya sea que se trate de zonas metropolitanas o sistemas de centros de población cuya relación requiera la participación de los Municipios. La aprobación de estos programas se efectuará con base a lo establecido en el Artículo 15 de esta Ley.
 
-###### ARTICULO 11.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Los programas que integran el Sistema deberán guardar congruencia entre sí, sujetarse a los lineamientos del Programa Estatal de Desarrollo Urbano y no contravenir las disposiciones de los programas de niveles superiores en el Sistema.
+###### ARTÍCULO 11.
+
+Los programas que integran el Sistema, deberán guardar congruencia entre sí, sujetarse a los lineamientos del Programa Estatal de Desarrollo Urbano y no contravenir las disposiciones de los Ordenamientos Ecológicos Territoriales locales o municipales y los programas de niveles superiores del Sistema.
 
 La Secretaría, analizará y verificará que los proyectos de programas de desarrollo urbano propuestos, como requisito previo a su publicación en el Periódico Oficial del Estado y su inscripción en el Registro Público de la Propiedad y del Comercio, guarden congruencia entre los distintos niveles de planeación. En caso de detectar incongruencias, formulará las recomendaciones que considere procedentes para que el proyecto de programa de que se trate sea revisado y modificado.
 
@@ -377,9 +431,17 @@ I.- Antecedentes y diagnóstico histórico de los aspectos físico-geográficos,
 
 II.- Definición de políticas, estrategias y metas de carácter económico, social y urbano, con la finalidad de apoyar las prioridades económicas, mejorar el bienestar de la población y ordenar la distribución de los asentamientos humanos en el territorio, en congruencia con el potencial y las posibilidades de desarrollo integral de la población;
 
-III.- Definición de programas y proyectos estratégicos contemplando los instrumentos necesarios para llevarlos a cabo, así como los mecanismos de control, seguimiento y evaluación de los mismos; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IV.- Los plazos para la formulación de los pronósticos, así como la determinación de estrategias y propuestas en los programas que integran el Sistema, deberán contemplar los escenarios temporales de corto, mediano y largo plazo, considerando como tales, un año, cinco años y veinticinco años, respectivamente.
+III.- Definición de programas y proyectos estratégicos contemplando los instrumentos necesarios para llevarlos a cabo, así como los mecanismos de control, seguimiento y evaluación de los mismos;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- Los plazos para la formulación de pronósticos, así como la determinación de estrategias y propuestas en los programas que integran el Sistema, deberán contemplar los escenarios temporales de corto, mediano y largo plazo, considerados como tales, un año, cinco años y veinticinco años, respectivamente; y,
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- La vulnerabilidad de los asentamientos humanos e infraestructura a los efectos del cambio climático de conformidad con los escenarios previstos para cada municipio, así como las medidas de adaptación y mitigación que se deberán implementar en los centros de población para enfrentar este fenómeno.
 
 ### CAPITULO TERCERO. DE LA COORDINACION DE AUTORIDADES EN LOS FENOMENOS DE CONURBACION Y METROPOLIZACION
 
@@ -513,6 +575,8 @@ Se podrán crear consejos metropolitanos como instancia de participación, consu
 
 ### CAPITULO QUINTO. DE LA PARTICIPACION SOCIAL Y DE SUS ORGANISMOS EN EL PROCESO DE PLANEACION
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 31.
 
 Los programas que contempla esta Ley, una vez aprobados publicados e inscritos entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y deberán ser inscritos dentro de los veinte días hábiles siguientes en el Registro Público de la Propiedad y del Comercio correspondiente.
@@ -545,13 +609,17 @@ Las Autoridades Administrativas y Judiciales, en los procesos cuyas resoluciones
 
 ### CAPITULO PRIMERO. INSTRUMENTOS DE REGULACION DEL DESARROLLO URBANO
 
-###### ARTICULO 37.
+###### ARTÍCULO 37.
 
-El Estado, por conducto de la Secretaría y los Municipios promoverán acciones concertadas entre los sectores público, social y privado, que propicien la participación de la ciudadanía en la fundación, conservación, mejoramiento y crecimiento de los asentamientos humanos.
+El Estado por conducto de la Secretaría y los Municipios, promoverán acciones concertadas entre los sectores público, social y privado, que propicien la participación de la ciudadanía en la fundación, conservación, mejoramiento y crecimiento de asentamientos humanos bajo criterios de sustentabilidad.
 
-###### ARTICULO 38.
+El Consejo Estatal de Participación Ciudadana Ambiental y de Cambio Climático, será la instancia de la Secretaría encargada de promover y dar seguimiento a la participación social en la materia.
 
-El Estado y los Municipios, en el ámbito de sus respectivas competencias conforme a la Legislación aplicable, promoverán la constitución de agrupaciones comunitarias y la participación de organizaciones sociales, colegios de profesionistas, instituciones académicas y de investigación, cuyos fines estén relacionados con el desarrollo urbano de los asentamientos humanos.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### ARTÍCULO 38.
+
+La Secretaría, a través del Consejo de Participación Ciudadana Ambiental y Cambio Climático, y los Municipios, en el ámbito de sus respectivas competencias conforme a la Legislación aplicable, promoverán la constitución de agrupaciones comunitarias y la participación de organizaciones sociales, colegios de profesionistas, instituciones académicas y de investigación, cuyos fines estén relacionados con el desarrollo urbano de los asentamientos humanos.
 
 ###### ARTICULO 39.
 
@@ -613,7 +681,9 @@ III.- Elaborar los estudios técnicos que le soliciten;
 
 IV.- Analizar y dar su opinión técnica sobre programas, planes y proyectos que le presenten las Autoridades Estatales y Municipales;
 
-V.- Desarrollar los procesos técnicos y opinar sobre la acción de las áreas del Ejecutivo Municipal, responsables de la planeación económica y social, vías de comunicación y transporte, equilibrio ecológico y la protección del ambiente, desarrollo agropecuario, reservas territoriales y promoción de la vivienda y de las acciones de planeación de los Municipios vecinos en cuanto a sus responsabilidades de ámbito Municipal;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Desarrollar los procesos técnicos y opinar sobre la acción de las áreas del Ejecutivo Municipal, responsables de la planeación económica y social, vías de comunicación y transporte, equilibrio ecológico y la protección al ambiente, vulnerabilidad municipal y medidas de adaptación y mitigación al cambio climático; desarrollo agropecuario, reservas territoriales y promoción de la vivienda y de las acciones de planeación de los Municipios vecinos en cuanto a sus responsabilidades de ámbito Municipal;
 
 VI.- Proponer para su análisis y trámite correspondiente, los programas, proyectos o acciones relativos a los temas, funciones, sectores, problemas o fenómenos urbanos del Municipio integrados a los relativos al desarrollo socio económico y de protección del ambiente;
 
@@ -691,7 +761,9 @@ VI.- Las densidades de población y de construcción;
 
 VII.- Las medidas para la protección de los derechos de vía y zonas de restricción de inmuebles de propiedad pública;
 
-VIII.- Las zonas de riesgo, desarrollo controlado y salvaguarda, en áreas e instalaciones en que se realizan actividades riesgosas y se manejen materiales o residuos peligrosos, así como aquellas que se requiera establecer por causas naturales o factores socio-organizativos para atender contingencias urbanas o ambientales;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Las zonas de riesgo, desarrollo controlado y salvaguarda, en áreas e instalaciones en que se realizan actividades riesgosas y se manejen materiales o residuos peligrosos, así como aquellas que se requiera establecer por causas asociadas a la vulnerabilidad frente al cambio climático, causas naturales o factores socio-organizativos para atender contingencias urbanas o ambientales;
 
 IX.- Las zonas de conservación, mejoramiento y crecimiento;
 
@@ -752,6 +824,10 @@ V.- Las obligaciones a cargo del Estado, del Municipio y de los usuarios;
 VI.- Los plazos de iniciación, revisión y terminación de las obras; y
 
 VII.- Las previsiones y medidas de seguridad para reducir el impacto negativo de la acción urbana en la población.
+
+> <small>(REFORMADO [ADICIONADO], P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Cuando así lo requiera la autoridad competente deberá acompañarse además de las previsiones y medidas de adaptación y, en su caso, mitigación al cambio climático.
 
 ###### ARTICULO 63.
 
@@ -825,6 +901,8 @@ Las actividades e inversiones que en materia de protección ecológica, conserva
 
 #### SECCION SEGUNDA. DE LOS EFECTOS COMPENSATORIOS E INSTRUMENTOS
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 71.
 
 Los programas que estipula esta Ley señalarán las políticas y acciones específicas para la fundación, conservación, mejoramiento y crecimiento de los asentamientos humanos y establecerán la zonificación correspondiente.
@@ -833,9 +911,11 @@ Los programas que estipula esta Ley señalarán las políticas y acciones espec�
 
 La fundación de un asentamiento humano deberá Publicarse en el Periódico Oficial del Estado, en los términos previstos por el Reglamento de esta Ley.
 
-###### ARTICULO 73.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-La fundación de asentamientos humanos deberá realizarse en tierras susceptibles para el aprovechamiento urbano, evaluando su impacto ambiental y respetando primordialmente las áreas naturales protegidas, el patrón de asentamiento humano rural y las comunidades indígenas.
+###### ARTÍCULO 73.
+
+La fundación de asentamientos humanos deberá realizarse en tierras susceptibles para el aprovechamiento urbano de conformidad con lo previsto por el Ordenamiento Ecológico Territorial local o municipal, evaluando la vulnerabilidad a los efectos del cambio climático y las medidas de adaptación necesarias, el impacto ambiental y respetando primordialmente las áreas naturales protegidas, el patrón de asentamiento humano rural y las comunidades indígenas.
 
 ###### ARTICULO 74.
 
@@ -869,7 +949,9 @@ IV.- El reordenamiento, renovación o densificación de áreas urbanas deteriora
 
 V.- La dotación de servicios, equipamiento o infraestructura urbana, conforme a la normatividad correspondiente, en áreas deficientes o carentes de ellas;
 
-VI.- La prevención, control y atención de riesgos y contingencias ambientales y urbanos en los asentamientos humanos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- La prevención, control y atención de riesgos y contingencias ambientales y urbanos, así como, las asociadas con la vulnerabilidad al cambio climático en los asentamientos humanos;
 
 VII.- La acción integrada del sector público que articule la regularización de la tenencia de tierra urbana con la dotación de servicios y satisfactores básicos; y
 
@@ -885,11 +967,15 @@ II.- Los mecanismos para la intervención directa de la Federación, Estado y Mu
 
 #### SECCION TERCERA. DE LOS MECANISMOS DE FINANCIAMIENTO DEL DESARROLLO URBANO
 
-###### ARTICULO 77.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Las políticas que se establezcan en los programas que conforman el Sistema incluirán los efectos compensatorios de las acciones rurales y urbanas en los predios afectos por los diferentes usos, destinos, reservas y provisiones del suelo.
+###### ARTÍCULO 77.
 
-Los efectos compensatorios tienen por objeto, estimular la participación de los involucrados en los procesos de la utilización del suelo, de los programas de ordenamiento territorial y del desarrollo urbano, a través de las acciones que propicien su uso y garanticen la plusvalía en forma proporcional de áreas y predios afectos por éstos.
+Las políticas que se establezcan en los programas que conforman el Sistema incluirán los efectos compensatorios de las acciones rurales y urbanas en los predios afectados por los diferentes usos, destinos, reservas y provisiones del suelo.
+
+Los efectos compensatorios tienen por objeto, estimular la participación de los involucrados en los procesos de la utilización del suelo, de los programas de ordenamiento territorial y del desarrollo urbano, a través de las acciones que propicien su uso y garanticen la plusvalía en forma proporcional de áreas y predios afectados por éstos.
+
+Adicionalmente, cuando se dañe, comprometa o perturbe algún servicio ambiental asociado a los predios afectados por los diferentes usos, destinos, reservas y provisiones del suelo, los involucrados en los procesos de la utilización del suelo, de los programas de ordenamiento territorial y del desarrollo urbano deberán promover acciones de compensación que garanticen la reparación y continuidad de los servicios ambientales afectados.
 
 ###### ARTICULO 78.
 
@@ -959,9 +1045,9 @@ La aplicación de los instrumentos a que se refiere este Artículo se sujetará 
 
 #### SECCION CUARTA. DE LAS RESERVAS TERRITORIALES
 
-###### ARTICULO 82.
+###### ARTÍCULO 82.
 
-Para el financiamiento de las obras, acciones e inversiones que se realicen con cargo al presupuesto público, las Autoridades Estatales y Municipales competentes, en el ámbito de sus respectivas atribuciones, podrán aplicar los instrumentos recaudatorios establecidos en las disposiciones legales aplicables.
+Para el financiamiento de las obras, acciones e inversiones que se realicen con cargo al presupuesto público, las Autoridades Estatales y Municipales competentes, en el ámbito de sus respectivas atribuciones, podrán aplicar los instrumentos recaudatorios y demás Instrumentos económicos establecidos en las disposiciones legales aplicables.
 
 Los derechos especiales para obras por cooperación se aplicarán en los términos de las disposiciones de la Ley de Hacienda Municipal para el Estado de Hidalgo.
 
@@ -977,9 +1063,17 @@ I.- Establecer una política integral de suelo urbano y reservas territoriales, 
 
 II.- Evitar la especulación de inmuebles aptos para el desarrollo urbano y la vivienda;
 
-III.- Reducir y abatir los procesos de ocupación irregular de áreas y predios, mediante la oferta de tierra que atienda preferentemente la construcción de vivienda económica, equipamiento, infraestructura y servicios; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IV.- Intervenir en el mercado de terrenos y garantizar la disponibilidad en tiempo y condición del suelo ubicado en las zonas de suelo urbanizable programado.
+III.- Reducir y abatir los procesos de ocupación irregular de áreas y predios, mediante la oferta de tierra que atienda preferentemente la construcción de vivienda económica, equipamiento, infraestructura y servicios;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- Intervenir en el mercado de terrenos y garantizar la disponibilidad en tiempo y condición del suelo ubicado en las zonas de suelo urbanizable programado; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- La programación de adquisiciones y la oferta de tierra para el desarrollo urbano y la vivienda previendo escenarios de cambio climático que requieran de movilización de poblaciones o asentamientos humanos.
 
 ###### ARTICULO 84.
 
@@ -1037,15 +1131,23 @@ El Estado y los Municipios, a través de las Dependencias o Entidades que corres
 
 Quienes propicien la ocupación irregular de áreas y predios en los centros de población, se harán acreedores a las sanciones establecidas en las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Procuraduría en coordinación con las autoridades municipales competentes, deberán prevenir la ocupación irregular de áreas y predios en centros de población.
+
 ###### ARTICULO 92.
 
 La regularización de la tenencia de la tierra en el Territorio del Estado, se sujetará, además de lo establecido en otras disposiciones en la materia, a lo señalado en la presente Ley, sus disposiciones reglamentarias, así como a lo establecido en los programas del Sistema.
 
-###### ARTICULO 93.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-La existencia de asentamientos humanos irregulares o la gestación de estos, podrá ser denunciada por cualquier persona ante la Autoridad Estatal o Municipal competente, a efecto de que se suspenda cualquier obra, división de predios o venta de lotes, sin perjuicio donde se presenten las denuncias penales correspondientes.
+###### ARTÍCULO 93.
 
-En casos de flagrancia en la gestación y radicación de asentamientos humanos irregulares, las Autoridades Estatales o Municipales de desarrollo urbano podrán instrumentar y ejecutar operativos de desalojo inmediato, como medida de seguridad para evitar su consolidación.
+La existencia de asentamientos humanos irregulares o la gestación de estos, podrá ser denunciada por cualquier persona ante la Procuraduría o la autoridad municipal competente, a efecto de que se suspenda cualquier obra, división de predios o venta de lotes, sin perjuicio donde se presenten las denuncias penales correspondientes.
+
+La procuraduría y los municipios podrán actuar de oficio para supervisar, verificar y en su caso, sancionar cualquier obra, división de predios o venta de lotes, de conformidad con lo previsto en la presente Ley y sin perjuicio de las denuncias penales correspondientes.
+
+En casos de flagrancia en la gestación y radicación de asentamientos humanos irregulares, la Procuraduría o las autoridades municipales de desarrollo urbano podrán instrumentar y ejecutar operativos de desalojo inmediato, como medida de seguridad para evitar su consolidación, para lo cual pueden solicitar apoyo de la fuerza pública.
 
 ###### ARTICULO 94.
 
@@ -1063,11 +1165,15 @@ Todo predio de cualquier tipo de tenencia en el cual existan asentamientos irreg
 
 La regularización de la tenencia de la tierra como una acción de mejoramiento urbano, deberá considerar la ejecución por cooperación y solidaridad de las obras de infraestructura, equipamiento o servicios urbanos que requiera el asentamiento humano correspondiente previa formalización del derecho de propiedad.
 
-###### ARTICULO 98.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-El Ejecutivo creará la Comisión Estatal para la atención de los asentamientos humanos irregulares, la cual se integrará y funcionará conforme a lo dispuesto por el Reglamento de esta Ley y tendrá por objeto:
+###### ARTÍCULO 98.
 
-I.- Elaborar y ejecutar programas encaminados a regularizar los asentamientos irregulares existentes en el Estado y evitar su surgimiento;
+El Ejecutivo creará la Comisión Estatal para la atención de los asentamientos humanos irregulares, la cual se integrará y funcionará en coordinación con la Procuraduría, conforme a lo dispuesto por el Reglamento de esta Ley y tendrá por objeto:
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+I.- Elaborar y ejecutar programas encaminados a prevenir los asentamientos irregulares en el Estado;
 
 II.- Realizar estudios y análisis para la reubicación de aquellos asentamientos humanos irregulares asentados en lugares de riesgo, peligro o incompatibles con el uso de suelo del sitio;
 
@@ -1075,7 +1181,9 @@ III.- Recomendar a las autoridades competentes respecto a los acuerdos que dicte
 
 IV.- Estudiar y opinar respecto de los actos jurídicos por los que se haya transmitido la posesión o la propiedad de bienes inmuebles dentro de las áreas que serán catalogadas como asentamientos humanos irregulares, acordando y promoviendo lo necesario sobre dichos actos jurídicos;
 
-V.- Implantar programas para que los moradores de los asentamientos humanos irregulares que sean susceptibles de regularización, obtengan sus títulos de propiedad respectivos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Fijar los criterios para determinar que asentamientos irregulares existentes serán susceptibles de regularización y con ellos, implementar programas para que los moradores de los asentamientos humanos irregulares que sean susceptibles de regularización, obtengan sus títulos de propiedad respectivos;
 
 VI.- Interponer las denuncias o querellas, respecto de los hechos delictivos relacionados con asentamientos humanos irregulares de los que se tenga conocimiento;
 
@@ -1084,6 +1192,10 @@ VII.- Gestionar ante los Ayuntamientos de los Municipios del Estado, la dotació
 VIII.- Dar seguimiento, ejecutar y cumplir con los compromisos y acuerdos tomados entre sus integrantes en el ámbito de sus respectivas competencias; y
 
 IX.- Las demás que le confieran las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Comisión Estatal, no podrá promover acciones contrarias a lo previsto en la presente Ley y demás ordenamientos jurídicos aplicables.
 
 ###### ARTICULO 99.
 
@@ -1247,11 +1359,21 @@ I.- Ampliar las posibilidades de acceso a la vivienda para la población de bajo
 
 II.- Ampliar la cobertura de los programas en la materia, preferentemente hacia las zonas marginadas del desarrollo;
 
-III.- Incentivar la reducción de costos de la vivienda; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IV.- Promover el desarrollo de las diversas modalidades de vivienda aprovechando las reservas territoriales disponibles, tomando las medidas que eviten la especulación o que desvirtúen la finalidad social de los proyectos, sujetándose a la política sectorial en la materia.
+III.- Incentivar la reducción de costos de la vivienda;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- Promover el desarrollo de las diversas modalidades de vivienda aprovechando las reservas territoriales disponibles, tomando las medidas que eviten la especulación o que desvirtúen la finalidad social de los proyectos, sujetándose a la política sectorial en la materia; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Promover la construcción de vivienda que prevea medidas de adaptación y mitigación al cambio climático, así como el uso de ecotecnias.
 
 #### SECCION DECIMA PRIMERA. DE LAS ACCIONES DE FOMENTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 122.
 
@@ -1285,9 +1407,9 @@ La constitución y operación de las agencias desarrolladoras se sujetará a las
 
 #### SECCION PRIMERA. DEL SISTEMA ADMINISTRATIVO DE CONTROL DEL DESARROLLO URBANO
 
-###### ARTICULO 129.
+###### ARTÍCULO 129.
 
-Las personas físicas o morales que inviertan de su propio patrimonio, siempre que no estén obligados a ello por disposición legal para realizar obras para el Estado o los Municipios, de infraestructura hidráulica, instalaciones sanitarias, alumbrado público, vías públicas, museos, bibliotecas, casas de cultura, parques, plazas, explanadas o jardines, módulos deportivos, centros deportivos, canchas cubiertas, módulos de vigilancia, o cualquier otra obra de beneficio público, tendrán derecho a las reducciones que establezcan las disposiciones fiscales Estatales y Municipales.
+Las personas físicas o morales que inviertan de su propio patrimonio, siempre que no estén obligados a ello por disposición legal para realizar obras para el Estado o los Municipios, de infraestructura hidráulica y/o para la recarga de acuíferos, instalaciones sanitarias, alumbrado público, vías públicas, museos, bibliotecas, casas de la cultura, parques, para la retención de suelos, para proteger o restaurar áreas naturales protegidas, para la protección o conservación de la vida silvestre, plazas, explanadas o jardines, módulos deportivos, centros deportivos, canchas cubiertas, módulos de vigilancia, o cualquier otra obra de beneficio público, tendrán derecho a las reducciones que establezcan las disposiciones fiscales Estatales y Municipales.
 
 No procederán los beneficios a que se refiere este Artículo, tratándose de bienes sujetos a concesión.
 
@@ -1509,7 +1631,9 @@ b) El riesgo a la población en su salud o sus bienes no pueda ser evitado por l
 
 c) La información presentada por los solicitantes o desarrolladores no sea suficiente o verídica; y
 
-d) Se alteren de forma significativa los usos de suelo, la estructura urbana, medio ambiente o la prestación de servicios públicos.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+d).- Se alteren de forma significativa los usos de suelo, la estructura urbana, medio ambiente, los servicios ambientales o la prestación de servicios públicos.
 
 ###### ARTICULO 144.
 
@@ -1523,11 +1647,13 @@ En caso de que el dictamen de impacto urbano sea positivo, tendrá una vigencia 
 
 Las constancias y licencias de uso del suelo, el dictamen del estudio de impacto urbano y los programas parciales que se expidan, no constituirán constancias de apeo y deslinde respecto de los inmuebles, ni acreditarán la propiedad o posesión de los mismos.
 
-###### ARTICULO 147.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Los Municipios verificarán el cumplimiento de las constancias, autorizaciones, permisos o licencias de uso que expidan, así como el cumplimiento de los programas parciales que se aprueben y los dictámenes de impacto urbano; por su parte, la Secretaría vigilará el cumplimiento de estos últimos.
+###### ARTÍCULO 147.
 
-Para efectos del párrafo anterior, las Autoridades Estatales y Municipales competentes estarán facultadas para realizar las visitas de verificación necesarias, así como para ordenar la aplicación de las medidas de seguridad y sanciones que establece esta Ley.
+Los Municipios verificarán el cumplimiento de las constancias, autorizaciones, permisos o licencias de uso que expidan, así como el cumplimiento de los programas parciales que se aprueben y los dictámenes de impacto urbano; por su parte, la Procuraduría vigilará el cumplimiento de estos últimos.
+
+Para efectos del párrafo anterior, la Procuraduría así como las Autoridades Municipales competentes estarán facultadas para realizar las visitas de verificación necesarias, así como para ordenar la aplicación de las medidas de seguridad y sanciones que establece esta Ley.
 
 #### SECCION CUARTA. DEL FRACCIONAMIENTO DE TERRENOS
 
@@ -1638,6 +1764,10 @@ El Municipio será la Autoridad competente para recibir los bienes inmuebles e i
 ###### ARTICULO 160.
 
 Corresponderá al Municipio autorizar la publicidad destinada a promover la venta de predios en fraccionamientos, condominios y viviendas en general, previo cumplimiento de los requisitos que dispongan esta Ley y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La publicidad aquí referida deberá procurar utilizar medios que no afecten la imagen urbana. En caso de que el Municipio autorice el uso de pendones, carteles, mantas y otros medios que sean colocados o distribuidos en la vía pública, la empresa promovente del desarrollo estará obligada a gestionar los residuos que se generen de su desecho.
 
 ###### ARTICULO 161.
 
@@ -1757,7 +1887,11 @@ Para obtener el registro señalado en el Artículo anterior, se deberán satisfa
 
 ### CAPITULO SEGUNDO. DE LA DENUNCIA CIUDADANA
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ### CAPITULO TERCERO. DE LA INSPECCION Y VIGILANCIA
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 181.
 
@@ -1797,49 +1931,37 @@ El Estado y los Municipios promoverán la creación y funcionamiento de observat
 
 ### CAPITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
-###### ARTICULO 186.
+###### ARTÍCULO 186.
 
-Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso o destino del suelo u otros aprovechamientos de inmuebles que contravengan esta Ley y demás disposiciones reglamentarias o los programas que contempla el Sistema, por particulares o la propia Autoridad, todas las personas tendrán derecho a interponer la denuncia correspondiente.
+Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso de suelo u otros aprovechamientos de inmuebles que contravengan esta Ley y demás disposiciones reglamentarias o los programas que contempla el Sistema, por particulares o la propia Autoridad, todas las personas tendrán derecho a interponer la denuncia correspondiente.
 
-Toda persona tiene el derecho de hacer del conocimiento de la Secretaría, Autoridad Municipal correspondiente o, en su caso, de la Secretaría de la Contraloría, cualquier acto u omisión que derive en incumplimiento a lo dispuesto en la presente Ley, sus disposiciones reglamentarias y demás disposiciones aplicables.
+Toda persona tiene el derecho de hacer del conocimiento de la Procuraduría Autoridad Municipal correspondiente o, en su caso, de la Secretaría de la Contraloría, cualquier acto u omisión que derive en incumplimiento a lo dispuesto en la presente Ley, sus disposiciones reglamentarias y demás disposiciones aplicables.
+
+Para los efectos de la denuncia se deberá observar lo previsto en la Ley de Protección al Ambiente del Estado de Hidalgo.
 
 ### CAPITULO QUINTO. DE LOS MEDIOS DE DEFENSA DE LOS PARTICULARES
 
-###### ARTICULO 187.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-La Secretaría y los Municipios, dentro de sus respectivas competencias, podrán practicar visitas de verificación para comprobar el cumplimiento, y congruencia de los programas que integran el Sistema y demás disposiciones vigentes en materia de asentamientos humanos, desarrollo urbano y ordenamiento territorial, y en su caso, aplicar las medidas de seguridad y sanciones que correspondan, conforme a lo dispuesto en esta Ley y en la Ley Estatal de Procedimiento Administrativo.
+###### ARTÍCULO 187.
 
-Además, emitirán las recomendaciones que juzguen necesarias y presentarán las denuncias correspondientes en los términos de la presente Ley y su reglamentación.
+La Procuraduría los Municipios, dentro de sus respectivas competencias, podrán practicar visitas de verificación para comprobar el cumplimiento, y congruencia de los programas que integran el Sistema y demás disposiciones vigentes en materia de asentamientos humanos, desarrollo urbano y ordenamiento territorial, y en su caso, aplicar las medidas de seguridad y sanciones que correspondan, conforme a lo dispuesto en esta Ley y Ley de Protección al Ambiente del Estado de Hidalgo.
+
+Además, podrán emitir las recomendaciones que juzguen necesarias y presentarán las denuncias correspondientes en los términos de la presente Ley, su reglamento y demás ordenamientos aplicables.
 
 ###### ARTICULO 188.
 
 . Los inspectores tendrán la facultad de supervisar mediante inspección técnica la ejecución de las obras, para vigilar el debido cumplimiento de las normas de construcción y de las especificaciones del proyecto autorizado y elaborar el acta circunstanciada correspondiente.
 
-###### ARTICULO 189.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-En las actas circunstanciadas se estará conforme a lo establecido por la Ley Estatal del Procedimiento Administrativo y además se hará constar:
+###### ARTÍCULO 189.
 
-I.- Nombre, denominación o razón social del visitado;
+La Procuraduría o los ayuntamientos, en el ámbito de sus competencias, para dar trámite a las denuncias ciudadanas o a las iniciadas de oficio y para comprobar el cumplimiento de las disposiciones y condicionantes contenidas en la presente Ley, Reglamentos, Decretos, Acuerdos, licencias y autorizaciones, deberán seguir lo previsto respecto de los procedimientos de verificación o supervisión previstos en la Ley de Protección al Ambiente del Estado de Hidalgo.
 
-II.- Hora, día, mes y año en que se inicie y concluya la diligencia;
+###### ARTÍCULO 190.
 
-III.- Calle, número, población o colonia y código postal en que se encuentre ubicado el lugar en que se practique la visita;
-
-IV.- Número y fecha del oficio de comisión que la motivó;
-
-V.- Nombre y cargo de la persona con quien se entendió la diligencia;
-
-VI.- Nombre y domicilio de las personas que fungieron como testigos;
-
-VII.- Datos relativos a la actuación;
-
-VIII.- Declaración del visitado, si quisiera hacerla; y
-
-IX.- Nombre y firma de quienes intervinieron en la diligencia.
-
-###### ARTICULO 190.
-
-Los visitados a quienes se haya practicado el acto de inspección, podrán formular observaciones a lo que su derecho convenga o reservarse el mismo en el apartado del acta circunstanciada o de verificación.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 191.
 
@@ -1907,7 +2029,9 @@ XVI.- Obstaculizar de hecho la realización del proceso urbano en cualquiera de 
 
 Son responsables los funcionarios, empleados y particulares por las infracciones a esta Ley, sus Reglamentos y demás Leyes o disposiciones sobre la materia, sin perjuicio de otras responsabilidades en que incurran.
 
-Las Autoridades Estatales y Municipales competentes de acuerdo con esta Ley, su Reglamento u otras disposiciones aplicables, impondrán sanciones a las personas físicas y morales, funcionarios públicos, así como a los responsables solidarios que resulten infractores, independientemente de las responsabilidades civiles, penales o administrativas que resulten.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Procuraduría y las Autoridades Municipales competentes de acuerdo con esta Ley, su Reglamento u otras disposiciones aplicables, impondrán sanciones a las personas físicas y morales, funcionarios públicos, así como a los responsables solidarios que resulten infractores, independientemente de las responsabilidades civiles, penales o administrativas que resulten.
 
 ###### ARTICULO 195.
 
@@ -1947,7 +2071,9 @@ IX.- A quien después de notificado por la Autoridad competente, persista en la 
 
 X.- Tratándose de infracciones cometidas por servidores públicos, suspensión de su cargo e inicio del procedimiento correspondiente, de conformidad con la Ley aplicable, sin perjuicio de la nulidad del acto correspondiente.
 
-Corresponde a las Autoridades Estatales o Municipales, según sea el caso, decretar e imponer las sanciones previstas en este artículo.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Corresponde a la Procuraduría o a las Autoridades Municipales, según sea el caso, decretar e imponer las sanciones previstas en este Artículo.
 
 Son sujetos responsables de la comisión de las infracciones y consecuentemente, sujetos a la aplicación de sanciones, los propietarios o poseedores del inmueble, los servidores públicos y el responsable de la acción urbana que se lleve a cabo en el mismo, contra quienes la Autoridad podrá emitir el mandamiento en forma conjunta o solidaria.
 
@@ -2017,13 +2143,9 @@ VII.- Cuando los propietarios o poseedores de inmuebles se rehúsen, incumplan o
 
 El costo de la ejecución forzosa se considerará crédito fiscal, en los términos de las disposiciones fiscales vigentes en el Estado.
 
-###### ARTICULO 206.
+###### ARTÍCULO 206.
 
-Contra las resoluciones de las Autoridades Administrativas, procede el recurso de reconsideración ante la Autoridad responsable en los términos previstos en el Reglamento de esta Ley.
-
-Las que se dicten por la aplicación de esta Ley y los actos de las Autoridades responsables de aplicarla, procederán los recursos establecidos en la Ley Estatal del Procedimiento Administrativo.
-
-Es potestativo para el recurrente interponer el recurso de reconsideración o los contenidos en la Ley a que se refiere el párrafo anterior.
+Contra las resoluciones dictadas en términos de esta ley, procede el recurso de revisión en términos de lo previsto en la Ley para la Protección al Ambiente del Estado de Hidalgo y de manera supletoria, lo dispuesto en la Ley Estatal del Procedimiento Administrativo. Es potestativo para el recurrente interponer el recurso a que hace referencia el presente Artículo.
 
 T R A N S I T O R I O S
 
@@ -2070,3 +2192,21 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto.- Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaria de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los Interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
