@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "1999-12-30"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -105,6 +105,10 @@ XIV. Drenaje: sistema de conductos abiertos, cerrados, estructuras hidráulicas,
 
 XV. Desechos: aquellos residuos en solución o suspensión en el agua que se transportan a través de los conductos del drenaje y el alcantarillado;
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XV Bis. Procuraduría: Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial;
+
 XVI. Programa de Desarrollo: estudio que contiene la definición de las acciones que se requieran para incrementar las eficiencias físicas y comerciales, basado en un diagnostico de las condiciones actuales de los sistemas de agua potable, alcantarillado y saneamiento, así como en proyecciones de incremento de la demanda y en estricto apego a los planes de desarrollo urbano, con objeto de asegurar la continua satisfacción de las necesidades para las generaciones presente y futuras en todos los asentamientos humanos, en cantidad y calidad sin degradar el medio ambiente;
 
 XVII. Programa anual hídrico Estatal: conjunto de acciones tendientes a implementar las necesidades que en materia de agua deben satisfacer la Comisión y los Organismos Operadores, en el ámbito de sus respectivas competencias y en los términos de esta Ley;
@@ -118,6 +122,10 @@ XX. Reincidencia: cada una de las subsecuentes infracciones a un mismo precepto,
 XXI. Reuso: la utilización de nueva cuenta de las aguas residuales previamente tratadas, que cumplen ciertas características de calidad y que se utilizan en ciertos tipos de industrias o en el riego de áreas verdes y agrícolas;
 
 XXII. Saneamiento: el tratamiento de aguas residuales, la conducción, distribución y disposición final de las aguas residuales tratadas, así como de los afluentes y lodos originados en los procesos de tratamiento;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXII Bis. Secretaría: Secretaría de Medio Ambiente (y Ordenamiento Territorial);
 
 XXIII. Servicios públicos: los servicios públicos de agua potable y alcantarillado, incluyendo, la potabilización, conducción y distribución de aguas y conducción, alojamiento y disposición final de las aguas del alcantarillado sanitario y pluviales;
 
@@ -133,7 +141,13 @@ XXVIII. Uso comercial: cuando el giro sea autorizado para actividades comerciale
 
 XXIX. Uso industrial: cuando el giro autorizado sea parte de su proceso de producción, servicio u actividad de la empresa;
 
-XXX. Uso doméstico: la utilización del agua potable en casa habitación, para consumo humano, preparación de alimentos, servicio sanitario y limpieza personal;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXX. Uso doméstico: la utilización del agua potable en casa habitación, para consumo humano, preparación de alimentos, producción de alimentos de traspatio o en huertos urbanos, servicio sanitario y limpieza personal;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXX Bis. Uso para la Conservación: cuando el consumo es destinado a actividades de conservación de la biodiversidad, protección o restauración del ambiente, el paisaje y el patrimonio natural;
 
 XXXI. Uso público: cuando el consumo es destinado para satisfacer las necesidades de los bienes o servicios que prestan los gobiernos Federal, Estatal, Municipal y de sus Órganos Desconcentrados y
 
@@ -151,15 +165,25 @@ Los servicios públicos serán prestados en condiciones que aseguren su continui
 
 Los prestadores de los servicios serán responsables del tratamiento de las aguas residuales generadas por los sistemas a su cargo, previa su descarga a cuerpos receptores de propiedad nacional, conforme a las condiciones particulares de descarga determinadas por la Comisión Nacional del Agua, de acuerdo con lo establecido en la Ley de Aguas Nacionales, su Reglamento, y las Normas Oficiales Mexicanas.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Procuraduría investigará, verificará, vigilará y supervisará los procedimientos de tratamiento de aguas residuales, en términos del Libro Segundo de la Ley para la Protección al Ambiente del Estado de Hidalgo.
+
 ###### Artículo 6.
 
 Los prestadores de los servicios, deberán adoptar las medidas necesarias para que se alcance la autonomía financiera en el otorgamiento de los servicios públicos y establecerán los mecanismos de control para que se realicen con eficacia técnica y administrativa.
 
 Para tal efecto, están obligados a diseñar y a revisar periódicamente el Proyecto del Programa de Desarrollo, en los términos del artículo 3 fracción XVI, de esta Ley.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría participará en la elaboración y revisión periódica de dicho proyecto.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 7.
 
-Las autoridades Estatales y Municipales se coordinarán con las Autoridades Federales competentes, para efecto de que en materia de agua se de cumplimiento con los lineamientos emanados del Sistema Nacional de Planeación Democrática. Para tal efecto se solicitará al Gobierno Federal la asistencia técnica, en los proyectos de las obras de agua potable, alcantarillado, saneamiento y de generación de energía eléctrica, que pretendan ejecutar, a fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras y el mejor aprovechamiento del agua, así como para el ejercicio de atribuciones que les correspondan en términos de Ley.
+La Comisión, la Secretaría y las autoridades Municipales se coordinarán con las Autoridades Federales competentes, para efecto de que en materia de agua se de cumplimiento con los lineamientos emanados del Sistema Nacional de Planeación Democrática. Para tal efecto se solicitará al Gobierno Federal la asistencia técnica, en los proyectos de las obras de agua potable, alcantarillado, saneamiento y de generación de energía eléctrica, que pretendan ejecutar, a fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras y el mejor aprovechamiento del agua, así como para el ejercicio de atribuciones que les correspondan en términos de Ley.
 
 ## TITULO SEGUNDO. DE LA COMISION ESTATAL DEL AGUA Y ALCANTARILLADO
 
@@ -219,9 +243,21 @@ VII. El Secretario Técnico;
 
 VIII. El Secretario de Contraloría;
 
-IX. El Secretario de Obras Públicas y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-X. El titular en el Estado de la Comisión Nacional del Agua en función normativa y consultiva.
+IX. El Secretario de Obras Públicas;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IX Bis. El Secretario de Medio Ambiente y Ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X. El titular en el Estado de la Comisión Nacional del Agua en función normativa y consultiva; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XI. El Procurador de Protección al Ambiente y del Ordenamiento Territorial.
 
 Cada representante propietario designará a su suplente, quien gozará de las mismas facultades que los propietarios.
 
@@ -283,7 +319,17 @@ XXI. Cuando la Comisión preste los servicios públicos, aprobar el anteproyecto
 
 XXII. Cuando la Comisión preste los servicios públicos, ordenar el pago a la Federación de los derechos por el uso y aprovechamiento de aguas y bienes nacionales inherentes, de conformidad con la legislación aplicable;
 
-XXIII. Aplicar a los prestadores de los servicios las sanciones a que se hagan acreedores conforme a esta Ley y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Aplicar a los prestadores de los servicios las sanciones a que se hagan acreedores conforme a esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXIII Bis. Formular las políticas de aprovechamiento, uso y explotación sustentable del agua;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXIII Ter. Formular las políticas de adaptación y, en su caso, mitigación al cambio climático asociadas al sector; y
 
 XXIV. Las demás que le asignen la presente Ley y otras disposiciones.
 
@@ -461,11 +507,21 @@ V. Acuacultura;
 
 VI. Servicios Públicos Urbanos;
 
-VII. Abrevaderos de ganado;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VIII. Usos recreativos y
+VII. Uso para la Conservación;
 
-IX. Otros.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII. Abrevaderos de ganado;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IX. Usos recreativos; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X. Otros.
 
 Los Municipios tendrán a su cargo los servicios públicos en su ámbito territorial, los cuales podrán ser prestados directamente por la dependencia municipal que corresponda o bien, por los prestadores de los servicios, en los términos de lo dispuesto en esta Ley y podrán celebrar junto con otros Municipios convenios de coordinación para la integración de Organismos Operadores Intermunicipales.
 
@@ -541,9 +597,11 @@ Los Municipios podrán prestar los servicios públicos en forma descentralizada,
 
 Los Municipios podrán concesionar la prestación de los servicios públicos, de conformidad con lo establecido en esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 29.
 
-Los Municipios además de lo señalado con anterioridad, establecerán reglas específicas para la prestación de los servicios públicos a las que deberán sujetarse los Organismos Operadores Municipales, los concesionarios o contratistas.
+Los Municipios además de lo señalado con anterioridad, establecerán reglas específicas para la prestación de los servicios públicos a las que deberán sujetarse los Organismos Operadores Municipales, los concesionarios o contratistas, observando el aprovechamiento, explotación, uso y consumo sustentable del agua así como las medidas de adaptación y, en su caso, mitigación al cambio climático en la administración del recurso.
 
 ### CAPITULO III
 
@@ -991,11 +1049,17 @@ Las concesiones se otorgarán, requiriendo la aprobación del Congreso Estatal, 
 
 Las concesiones a que se refiere el párrafo anterior podrán prorrogarse hasta por un período igual al establecido inicialmente, siempre y cuando el concesionario lo solicite dentro de un plazo anterior a los últimos 5 años de duración de la concesión y en caso de plantas de tratamiento dentro de los 60 días anteriores al término de la concesión; la decisión de otorgar esa prórroga corresponde al concedente.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 66.
 
-Los concesionarios estarán obligados a cumplir con lo dispuesto en esta Ley y las condiciones señaladas en los títulos de concesión.
+Los concesionarios estarán obligados a cumplir con lo dispuesto en esta Ley y las condiciones señaladas en los títulos de concesión. Los concesionarios deben prestar los servicios públicos de conformidad con las reglas emitidas por el concedente y atendiendo a la Ley del Equilibrio Ecológico y Protección al Ambiente y las Normas Oficiales Mexicanas, que se emitan en relación con los mismos.
 
-Los concesionarios deben prestar los servicios públicos de conformidad con las reglas emitidas por el concedente y atendiendo a la Ley del Equilibrio Ecológico y Protección al Ambiente y las Normas Oficiales Mexicanas, que se emitan en relación con los mismos.
+La Procuraduría será la encargada de investigar, supervisar, vigilar y verificar, en términos de los procedimientos previstos en el Libro Segundo de la Ley para la Protección al Ambiente del Estado de Hidalgo, el cumplimiento que den los concesionarios a las normas respectivas.
+
+En caso de que la Procuraduría encuentre que existe incumplimiento o infracción a las normas que rigen la materia, tendrá la facultad de emitir resolución sancionadora.
+
+Con base en las atribuciones de investigación, supervisión, vigilancia y verificación, la Procuraduría será la encargada de determinar si existe el incumplimiento reiterado con las obligaciones señaladas en el título de concesión, demás leyes, reglamentos y normas aplicables en materia de protección al ambiente y prevención de la contaminación de las aguas, a que alude el artículo 71, fracción X, de esta ley.
 
 ###### Artículo 67.
 
@@ -1051,7 +1115,9 @@ VIII. No cubre al concedente las contraprestaciones que se hubiesen establecido;
 
 IX. No otorga o no mantiene en vigor la garantía de cumplimiento de las concesiones;
 
-X. Incumple reiteradamente con las obligaciones señaladas en el título de concesión en materia de protección ecológica y prevención de la contaminación de las aguas y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X. Incumple reiteradamente con las obligaciones señaladas en el título de concesión, demás leyes, reglamentos y normas aplicables en materia de protección al ambiente y prevención de la contaminación de las aguas y
 
 XI. Incumple, de manera reiterada, con cualquiera de las obligaciones o condiciones establecidas en esta Ley, o el título de concesión.
 
@@ -1109,9 +1175,13 @@ A los contratos se aplicarán, lo que respecto a las concesiones se establece en
 
 Dos o más Municipios podrán celebrar convenios para el otorgamiento de las concesiones y contratos a que se refiere esta sección, a efecto de que los servicios públicos sean prestados por un concesionario o contratista en los Municipios de que se trate. El procedimiento para el otorgamiento de las concesiones y contratos se regirá, en lo conducente, por lo establecido en el presente Capítulo.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 80.
 
-Los particulares podrán realizar el tratamiento de sus aguas residuales, previa a su descarga al alcantarillado, sin necesidad de celebrar los contratos a que se refiere esta sección.
+Los particulares podrán realizar el tratamiento de sus aguas residuales, previa a su descarga al alcantarillado, sin necesidad de celebrar los contratos a que se refiere esta sección. En ese caso, los particulares se encuentran obligados a observar la normatividad en la materia.
+
+La Procuraduría podrá ejercer sus facultades de investigación, supervisión y vigilancia sobre los procesos de tratamiento y las descargas a que se hace referencia.
 
 ###### Artículo 81.
 
@@ -1125,11 +1195,19 @@ Corresponde a la Comisión, Municipios, Organismos Operadores Municipales e Inte
 
 I. El control de las descargas de aguas residuales a los sistemas de drenaje y alcantarillado;
 
-II. La vigilancia de la observancia de las Normas Oficiales Mexicanas correspondientes, de conformidad con los acuerdos de coordinación que celebren con la Federación, así como requerir a quienes generen descargas de aguas residuales y que no cumplan con la instalación de sistemas de tratamiento;
+II. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
 III. Determinar el monto de los derechos correspondientes para que el prestador del servicio, pueda llevar a cabo el tratamiento necesario y en su caso proceder a la imposición de las sanciones a que haya lugar y
 
 IV. Llevar y actualizar el registro de las descargas a los sistemas de drenaje y alcantarillado que administren, e integrarlo al registro estatal de descargas de la Comisión.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 82 Bis.
+
+Corresponde a la Procuraduría la investigación, supervisión, vigilancia y verificación de la observancia y cumplimiento de las Normas Oficiales Mexicanas correspondientes, de conformidad con los acuerdos de coordinación que celebren con la Federación, así como requerir y, en su caso, sancionar, a quienes generen descargas de aguas residuales que no cumplan con la normatividad aplicable.
+
+Los procedimientos respectivos se realizaran en términos de lo previsto al efecto en el Libro Segundo de la Ley para la Protección al Ambiente del Estado de Hidalgo.
 
 ###### Artículo 83.
 
@@ -1477,11 +1555,17 @@ Por cada derivación, el usuario pagará al prestador de los servicios el import
 
 Con el objeto de hacer más racional el consumo de agua, los usuarios deben mantener en buen estado sus instalaciones hidráulicas interiores y exteriores, utilizar aparatos ahorradores, en los términos y con las características que se señalen en el Reglamento de esta Ley, a fin de evitar el desperdicio de agua.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Procuraduría investigará, supervisará, verificará y vigilará que los usuarios den debido cumplimiento a esta norma y, en su caso, la Procuraduría podrá emitir las sanciones correspondientes, ello conforme a lo previsto en el Libro Segundo de la Ley para la Protección al Ambiente del Estado de Hidalgo.
+
 ###### Artículo 131.
 
 En época de escasez de agua, el prestador de los servicios acordará las condiciones de restricción en las zonas y durante el lapso que sea necesario, previo aviso oportuno a los usuarios, a través de los medios de comunicación disponibles.
 
-Cuando la escasez de agua, sea originada por negligencia o falta de previsión del prestador de los servicios, éste responderá en los términos que prevenga el contrato respectivo.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Cuando derivado de la investigación, supervisión, verificación y vigilancia que realice la Procuraduría resulte que la escasez de agua, sea originada por negligencia o falta de previsión del prestador de los servicios, éste, previo procedimiento que se siga por la Procuraduría, será sancionado.
 
 ###### Artículo 132.
 
@@ -1508,6 +1592,8 @@ IX. Constituir personas morales a las que se pudiera otorgar en concesión o con
 X. Participar, a través de los Consejos Técnicos que se podrán crear, en la planeación, programación y administración de los servicios públicos del agua.
 
 #### SECCION CUARTA. DE LA FACULTAD DE INSPECCION Y VERIFICACION
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 133.
 
@@ -1643,11 +1729,17 @@ Los Notarios Públicos no autorizarán los actos traslativos de dominio de biene
 
 ###### Artículo 144.
 
-Los prestadores de los servicios contarán con el personal que se requiera, en base a su propio presupuesto, para llevar a cabo las inspecciones y verificaciones de los servicios públicos que prestan.
+En materia de competencia local, la Procuraduría llevará a cabo la investigación, supervisión, verificación, vigilancia y, en su caso, sanción, del cumplimiento de esta ley.
+
+En los ayuntamientos, los prestadores de los servicios contarán con el personal que se requiera, con base en su propio presupuesto, para llevar a cabo la investigación, supervisión, verificación y vigilancia de los servicios públicos que prestan. Éstos podrán celebrar convenio con la Procuraduría a fin de que ejerza las facultades referidas.
+
+Los procedimientos a que se refiere este Artículo se realizarán de acuerdo a lo previsto en el Libro Segundo de la Ley para la Protección al Ambiente del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 145.
 
-Los prestadores de los servicios a excepción de los concesionarios, podrán ordenar la práctica de visitas de inspección y verificación de los servicios por medio del personal autorizado, debiendo hacerlo por escrito motivando y fundamentando el acto a realizar.
+La Procuraduría o los prestadores de los servicios a excepción de los concesionarios, podrán ordenar la práctica de visitas de investigación, supervisión, vigilancia y verificación de los servicios por medio del personal autorizado, debiendo hacerlo por escrito motivando y fundamentando el acto a realizar, observando el procedimiento previsto en la Ley para la Protección al Ambiente del Estado de Hidalgo.
 
 ###### Artículo 146.
 
@@ -1675,11 +1767,11 @@ X. Las demás que el prestador del servicio considere necesarias.
 
 ###### Artículo 147.
 
-Quienes practiquen las visitas, deben acreditar su personalidad y exhibir la orden escrita que la funde y motive. Dicha orden deberá, además señalar el nombre y firma autógrafa del servidor público que la emite, expresar el objeto o propósito de la visita y el nombre o nombres de las personas a las que vaya dirigida; en caso de que se ignore el nombre de la persona a visitar, se señalarán los datos suficientes del predio que permitan su identificación.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### Artículo 148.
 
-En el momento de la diligencia se levantará acta circunstanciada de los hechos. Cuando se encuentre alguna violación a esta Ley o su Reglamento se hará constar tal hecho por escrito, dejando una copia al usuario para los efectos que procedan.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### Artículo 149.
 
@@ -1703,9 +1795,7 @@ Las visitas se limitarán exclusivamente al objeto indicado en la orden respecti
 
 ###### Artículo 152.
 
-En caso de infracción a las disposiciones de esta Ley o su Reglamento, se levantará un acta en la que se hará una relación pormenorizada de los hechos que constituyan la infracción, expresando los nombres y domicilios de los infractores y todas las demás circunstancias que revelen la gravedad de la infracción.
-
-Cuando el infractor se niegue a firmar el acta respectiva, se asentará razón de ello, debiendo ser firmada por dos testigos que den fe de los hechos que constituyan la infracción y se le dejará al infractor copia del acta. Si los testigos no supieren firmar, imprimirán su huella digital al calce del acta; lo mismo se hará si no sabe firmar el infractor, siempre que quiera hacerlo.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### Artículo 153.
 
@@ -1773,9 +1863,11 @@ V. Los medios indirectos de la investigación económica o cualquier otra clase.
 
 Los prestadores de los servicios, exigirán el pago con base en la determinación estimativa del volumen, motivando y fundando su exigibilidad de conformidad con lo dispuesto por esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 161.
 
-Quedan facultados los prestadores de los servicios a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplan con el pago respectivo conforme lo dispuesto en la presente Ley y su Reglamento; en colaboración con las autoridades ecológicas competentes cuando las descargas no cumplan con lo dispuesto en la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado.
+Quedan facultados los prestadores de los servicios a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplan con el pago respectivo conforme lo dispuesto en la presente Ley y su Reglamento; en colaboración con la Procuraduría o autoridad federal correspondiente cuando las descargas no cumplan con lo dispuesto en la Ley para la Protección al Ambiente del Estado de Hidalgo.
 
 ###### Artículo 162.
 
@@ -1825,9 +1917,11 @@ XIV. Explotar, usar o aprovechar aguas residuales sin cumplir con las Normas Ofi
 
 XV. Incurrir en cualquier otra violación a los preceptos de esta Ley y su Reglamento, distinta de las anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 165.
 
-Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente, por los Organismos Operadores con multas que serán equivalentes a los siguientes días del salario mínimo general vigente en el área geográfica y en el momento en que se cometa la infracción:
+Las infracciones a que se refiere el Artículo anterior serán sancionadas administrativamente por la Procuraduría o los Organismos Operadores, con multas que serán equivalentes a los siguientes días del salario mínimo general vigente en el área geográfica y en el momento en que se cometa la infracción:
 
 1.- 10 a 50, en el caso de violación a las fracciones I al V y VII al X;
 
@@ -1841,6 +1935,10 @@ Las infracciones a que se refiere el artículo anterior serán sancionadas admin
 
 6.- 1 a 9, en caso de la violación a la fracción XV.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Los Organismos Operadores, podrán celebrar convenio con la Procuraduría para que ésta ejerza las facultades de sanción a que hace referencia el presente Artículo.
+
 ###### Artículo 166.
 
 Para sancionar las faltas a que se refiere este Capítulo, las infracciones se calificarán tomando en consideración:
@@ -1851,13 +1949,17 @@ II. Las condiciones económicas del infractor; y
 
 III. La reincidencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 167.
 
-En los casos de las fracciones I, IV, VIII, IX y XII del artículo 164, así como en los casos de reincidencia, el Organismo Operador podrá imponer adicionalmente la suspensión temporal o definitiva del servicio.
+En los casos de las fracciones I, IV, VIII, IX y XII del Artículo 164, así como en los casos de reincidencia, la Procuraduría o el Organismo Operador podrán imponer adicionalmente la suspensión temporal o definitiva del servicio.
 
 En el caso de suspensión, el personal designado para llevarla a cabo procederá a levantar el acta circunstanciada de la diligencia; si el infractor se rehusa a firmarla, ello no invalidará dicha acta, y se deberá asentar tal situación, ante dos testigos designados por el interesado o en su ausencia o negativa por el personal que lleva a cabo la diligencia.
 
-Para ejecutar una clausura, el Organismo Operador, podrá solicitar el apoyo y el auxilio de las autoridades, estatales o municipales, para que intervengan en el ámbito de sus atribuciones y competencia.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Para ejecutar una clausura, la Procuraduría o el Organismo Operador, podrán solicitar el apoyo y el auxilio de las autoridades, estatales o municipales, para que intervengan en el ámbito de sus atribuciones y competencia.
 
 ###### Artículo 168.
 
@@ -1865,11 +1967,13 @@ Las sanciones que procedan por las faltas previstas en esta ley tendrán destino
 
 Cuando los hechos que contravengan las disposiciones de esta Ley y su Reglamento constituyeren un delito, se formulará denuncia ante las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 169.
 
-Las sanciones serán impuestas con base en las actas levantadas por el personal acreditado del prestador de los servicios.
+Las sanciones serán impuestas con base en las actas levantadas por el personal acreditado de la Procuraduría o del prestador de los servicios.
 
-En todo caso, las resoluciones que se emitan en materia de sanciones deberán estar fundadas y motivadas con arreglo a derecho y tomando en consideración los criterios establecidos.
+En todo caso, las resoluciones que se emitan en materia de sanciones deberán estar fundadas y motivadas con arreglo a derecho y tomando en consideración los criterios establecidos y lo previsto en el Libro Segundo de la Ley para la Protección al Ambiente del Estado de Hidalgo.
 
 ###### Artículo 170.
 
@@ -1974,3 +2078,21 @@ LIC. MANUEL ANGEL NUÑEZ SOTO.
 EL SECRETARIO DE GOBIERNO:
 
 LIC. MIGUEL ANGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto.- Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaría de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
