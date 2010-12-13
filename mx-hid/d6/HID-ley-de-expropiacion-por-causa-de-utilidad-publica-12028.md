@@ -4,7 +4,7 @@ identifier: "HID-ley-de-expropiacion-por-causa-de-utilidad-publica-12028"
 country: "mx"
 rank: "ley"
 publication_date: "1932-05-01"
-last_updated: "1932-05-01"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EXPROPIACION POR CAUSA DE UTILIDAD PUBLICA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de mayo de 1932.
 
@@ -45,9 +45,11 @@ La propiedad privada puede ser expropiada por causa de utilidad pública y media
 
 Se considera de utilidad pública lo que tienda al beneficio del Estado, de los Municipios, de los habitantes del Estado en general o de los obreros y campesinos del mismo.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 3°.
 
-Se consideran igualmente causa de utilidad pública, y en consecuencia, objeto de expropiación por causa de utilidad pública, todas las fuentes de riqueza y de trabajo existentes en el territorio del Estado, tales como factorías, empresas o establecimientos industriales o comerciales, fábricas, etc., por cuantos son susceptibles de producir el beneficio a que se refiere el Artículo anterior.
+Se considera igualmente causa de utilidad pública, y en consecuencia, objeto de expropiación por causa de utilidad pública, todas las fuentes de riqueza y de trabajo existentes en el territorio del Estado, tales como factorías, empresas o establecimientos industriales o comerciales, fábricas, etc., por cuantos son susceptibles de producir el beneficio a que se refiere el Artículo anterior, asimismo, la protección, conservación y restauración del ambiente, los recursos naturales, los ecosistemas, la biodiversidad y el patrimonio natural del Estado.
 
 ###### Artículo 4°.
 
@@ -130,3 +132,21 @@ Dado en el salón de sesiones del H. Congreso del Estado, a los veinte y cinco d
 Por tanto, mando se imprima, publique y circule para su debido cumplimiento.
 
 Palacio del Poder Ejecutivo del Estado, en la ciudad de Pachuca de Soto, a veinte y cinco de abril de mil novecientos treinta y dos.- Ing. Bartolomé Vargas Lugo.- El Secretario General, Lic. David Moreno Tejeda.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto. Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaría de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los Interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
