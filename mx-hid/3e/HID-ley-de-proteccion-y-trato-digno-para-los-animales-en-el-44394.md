@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2005-02-28"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCION Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -73,9 +73,11 @@ II.- Deportivos, exóticos, ferales, guía, silvestres, para abasto, para la pr�
 
 III.- Todas las especies que tengan una actividad especializada que contribuyan para un beneficio terapéutico, de seguridad y de rescate, así como a suplir alguna capacidad diferente para el ser humano.
 
-###### Artículo 3º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Para los efectos de esta Ley, además de los conceptos definidos en la Ley General del Equilibrio Ecológico y Protección al Medio Ambiente, Ley General de Vida Silvestre, Ley Federal de Sanidad Animal y las demás normas mexicanas afines a la presente Ley, se entenderá por:
+###### Artículo 3°.
+
+Para los efectos de esta Ley, además de los conceptos definidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Vida Silvestre, Ley Federal de Sanidad Animal y las demás normas mexicanas afines a la presente Ley, se entenderá por:
 
 I.- Animales: Todo ser vivo, no humano, que siente y reacciona ante el dolor y se mueve voluntariamente;
 
@@ -119,6 +121,10 @@ XX.- Centros de Control Animal y Zoonosis: Los lugares públicos destinados para
 
 XXI.- Área Técnica: Área Técnica de Protección y Sanidad Animal y Control de Especies Animales;
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXI Bis.- Dirección: Dirección General de Estudios Ambientales.
+
 XXII.- Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
 
 XXIII.- Esterilización: Proceso quirúrgico o químico, que se practica en los animales, para evitar su reproducción;
@@ -139,6 +145,10 @@ XXX.- Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda 
 
 XXXI.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservado el equilibrio ecológico;
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXXI Bis.- Procuraduría: Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial.
+
 XXXII.- Rabia: Enfermedad viral infectocontagiosa aguda y mortal, transmitida por la saliva o sangre de algún animal contagiado;
 
 XXXIII.- Rastro: Establecimiento de servicio público, donde se realiza la matanza de animales de abasto;
@@ -152,6 +162,10 @@ XXXVI.- Sacrificio: Acto de provocar la muerte de los animales por medios físic
 XXXVII.- Sacrificio humanitario: El sacrificio necesario de animales, de manera rápida y sin dolor ni sufrimientos por medios físicos o químicos atendiendo las normas oficiales;
 
 XXXVIII.- Salud: Equilibrio armónico, biológico, psicológico y social, además de la ausencia de enfermedad;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXXVIII Bis.- Secretaría: Secretaría de Medio Ambiente y Ordenamiento Territorial.
 
 XXXIX.- Sufrimiento: El padecimiento o dolor causado por daño físico o psicológico a cualquier animal;
 
@@ -181,15 +195,19 @@ VII.- Todo animal de trabajo tiene derecho a una limitación razonable de tiempo
 
 VIII.- Todo animal muerto debe ser tratado con respeto.
 
-###### Artículo 5º.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Toda persona tiene derecho a que las Autoridades competentes pongan a su disposición la información que soliciten en cuanto al trato digno y respetuoso de los animales, así mismo cualquier persona física o moral que maneje animales tiene la obligación de proporcionar la información que le sea requerida por las autoridades.
+###### Artículo 5°.
+
+Toda persona tiene derecho a que la Secretaría ponga a su disposición la información que soliciten en cuanto al trato digno y respetuoso de los animales, así mismo cualquier persona física o moral que maneje animales tiene la obligación de proporcionar la información que le sea requerida por las autoridades.
 
 ### CAPITULO SEGUNDO. DE LA DISTRIBUCION DE COMPETENCIAS
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Las Autoridades a las que esta Ley hace referencia quedan obligadas a vigilar y exigir el cumplimiento de las disposiciones contenidas en esta Ley, en el ámbito de sus respectivas competencias.
+###### Artículo 6°.
+
+La Procuraduría o los ayuntamientos quedan obligados a supervisar, verificar, vigilar y exigir el cumplimiento de las disposiciones contenidas en esta Ley, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 7º.
 
@@ -201,9 +219,35 @@ II.- Celebrar Convenios de Coordinación con las Autoridades Federales, Municipa
 
 III.- Crear los instrumentos económicos adecuados para el desarrollo de programas de educación, difusión y campañas, en las materias de la presente Ley.
 
-###### Artículo 8º.
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Corresponde a la Autoridad en materia de educación en el Estado, en el ámbito de su competencia, el desarrollo de programas de educación en las Instituciones de Enseñanza Básica, Media y Superior, en materia de trato digno y respetuoso a los animales y su hábitat.
+###### Artículo 7 Bis.
+
+Corresponde a la Procuraduría de Protección al Ambiente y del Ordenamiento Territorial garantizar el cumplimiento del presente ordenamiento, realizando actividades de investigación, inspección, vigilancia, atención de la denuncia ciudadana, aplicación de medidas precautorias y sanciones establecidas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 7 Ter.
+
+Corresponde a la Dirección General de Estudios Ambientales de la Secretaría, la elaboración de normas técnicas que garanticen el cumplimiento del presente ordenamiento, así como la investigación para determinar el estado que guardan las poblaciones de animales ferales y fauna exótica en los hábitat naturales del Estado.
+
+La Dirección como coordinadora de los trabajos de la Estrategia Estatal de Biodiversidad deberá incluir un apartado específico relacionado con el conocimiento, uso y conservación de la fauna en el Estado.
+
+Adicionalmente deberá mantener actualizado el Registro Estatal de Fauna e integrarlo al Sistema Estatal de Información Ambiental.
+
+La Dirección deberá, en coordinación con la Secretaría de Salud del Estado, dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como mascotas y de la fauna en general.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 7 Quater.
+
+Corresponde a la Secretaría, la publicación de las normas técnicas a las que hace mención el Artículo 7 Ter del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 8°.
+
+Corresponde a la Autoridad en materia de educación en el Estado, en el ámbito de su competencia, en coordinación con la Secretaría el desarrollo de programas de educación en las Instituciones de Enseñanza Básica, Media y Superior, en materia de trato digno y respetuoso a los animales y su hábitat.
 
 ###### Artículo 9º.
 
@@ -217,7 +261,9 @@ III.- Apoyar a la Autoridad en materia de salud en el Estado, en campañas de es
 
 IV.- La promoción y difusión que genere una cultura cívica de protección, responsabilidad y trato digno a los animales; y
 
-V.- Celebrar Convenios con la Autoridad en materia de salud en el Estado, para llevar a cabo los fines de la presente Ley.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Celebrar Convenios con la Autoridad en materia ambiental, de educación y de salud en el Estado, para llevar a cabo los fines de la presente Ley.
 
 ###### Artículo 10.
 
@@ -231,7 +277,9 @@ III.- Dos vocales, nombrados por la Autoridad en materia de Salud y por la Autor
 
 IV.- Los invitados, por parte de las Asociaciones Protectoras de Animales, y por Médicos Veterinarios Zootecnistas.
 
-Esta Área certificará el estado físico de los animales y se apoyará de la autoridad en materia de salud, para dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como mascotas y de la fauna en general.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Esta Área certificará el estado físico de los animales y se apoyará de la Secretaría para dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como mascotas y de la fauna en general.
 
 ### CAPITULO TERCERO. DEL PADRON MUNICIPAL DE ANIMALES
 
@@ -319,9 +367,11 @@ Deberán ubicarse fuera de áreas de alta densidad poblacional, y contar con med
 
 Queda prohibido establecer criaderos o refugios en zonas habitacionales, que alteren la tranquilidad de los vecinos y la contaminación al medio ambiente.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 20.
 
-Los criaderos de fauna silvestre, que tengan como fin reproducir animales en peligro de extinción deberán apegarse a lo establecido en los dos Artículos anteriores, además de contar con los permisos de las Leyes Federales y de la Secretaría correspondiente.
+Los criaderos de fauna silvestre, que tengan como fin reproducir animales en peligro de extinción deberán apegarse a lo establecido en los dos Artículos anteriores, además de cumplir con lo establecido en las Leyes Federales y de la Secretaría correspondiente.
 
 ### CAPITULO SEXTO. DEL TRATO DIGNO Y RESPETUOSO A LOS ANIMALES
 
@@ -375,9 +425,11 @@ IX.- Proporcionar cualquier clase de alimento u objetos en los centros zoológic
 
 X.- Entrenar animales con fines ilícitos.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 24.
 
-Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela de la presente Ley, tiene la obligación de informar a la autoridad competente de la existencia de la falta.
+Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela de la presente Ley, tiene la obligación de informar a la Procuraduría de la existencia de la falta.
 
 ### CAPITULO SEPTIMO. DE LA EXHIBICION Y VENTA DE ANIMALES
 
@@ -415,9 +467,11 @@ La documentación con los datos requeridos, deberán (sic) presentarse en un lap
 
 Así mismo están obligados a otorgar un manual que contenga información fidedigna acerca de los cuidados, albergue y alimentación del animal que estén adquiriendo, que incluya igualmente las sanciones a las que están sujetos por el incumplimiento de las disposiciones de la presente Ley. Dicho manual deberá estar autorizado por un Médico Veterinario Zootecnista.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 28.
 
-La venta de animales silvestres y exóticos deberá estar estrictamente regulada por las disposiciones federales respectivas y deberá contar con el permiso expedido por la Secretaría de la Administración Pública Federal correspondiente. Observando esta Ley, en lo que sea aplicable y denunciando su incumplimiento.
+La venta de animales silvestres y exóticos deberá estar estrictamente regulada por las disposiciones federales respectivas y deberá contar con el permiso expedido por la Secretaría de la Administración Pública Federal correspondiente. Observando esta Ley, en lo que sea aplicable y denunciando su incumplimiento a la Procuraduría.
 
 ### CAPITULO OCTAVO. DE LA EXPERIMENTACION CON ANIMALES VIVOS
 
@@ -455,9 +509,11 @@ Los animales, viejos, enfermos, heridos o desnutridos, no podrán ser utilizados
 
 La carga total que porten estos animales no podrá ser mayor a la tercera parte de su peso.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 35.
 
-El espolonamiento, latigazo, fustigamiento, golpes, así como cualquier otro acto de crueldad serán sancionados.
+El espolonamiento, latigazo, fustigamiento, golpes, así como, cualquier otro acto de crueldad serán sancionados por la Procuraduría o el Área Técnica Municipal.
 
 ###### Artículo 36.
 
@@ -543,9 +599,11 @@ Los trámites para la devolución de mascotas capturados en las calles se llevar
 
 Las personas que obstaculicen la actividad de la captura de animales en la vía pública o que agredan física o verbalmente a la brigada de razzia, serán denunciadas ante las Autoridades correspondientes para que se proceda conforme a derecho; de igual manera cualquier persona que tenga conocimiento de negligencia o maltrato a los animales por parte del personal de captura deberá denunciar estos hechos.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 55.
 
-Los animales de especies diferentes a los caninos y felinos, que se capturen en la vía pública quedarán a disposición de la Autoridad competente.
+Los animales de especies diferentes a los caninos y felinos, que se capturen en la vía pública quedarán a disposición del Área Técnica Municipal competente.
 
 ###### Artículo 56.
 
@@ -555,17 +613,21 @@ Los animales enfermos o lesionados, las hembras gestantes y los animales que se 
 
 ### CAPITULO DECIMO SEGUNDO. DE LOS ANIMALES AGRESORES
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 57.
 
-Todo animal que lesione a otro, o a una persona, será sujeto de observación clínica obligatoria en los Centros de Control Animal y Zoonosis, o sitio que designe la Dirección Técnica por un período de diez días, además se evaluará la devolución del mismo a sus propietarios, cuando la agresión haya sido accidental o en defensa de sí mismo, de su propietario o de los bienes de este, rigiéndose en los términos de la Legislación Civil ó Penal.
+Todo animal que lesione a otro, o a una persona, será sujeto de observación clínica obligatoria en los Centros de Control Animal y Zoonosis, o sitio que designe el Área Técnica Municipal por un periodo de diez días, además se evaluará la devolución del mismo a sus propietarios, cuando la agresión haya sido accidental o en defensa de sí mismo, de su propietario o de los bienes de este, rigiéndose en los términos de la Legislación Civil ó Penal.
 
 ###### Artículo 58.
 
 Los animales agresores por segunda ocasión, podrán ser sacrificados o disponerse según la Legislación Civil. Antes del sacrificio, el propietario, previo cumplimiento de las obligaciones que le imponga la Ley, tendrá derecho de donarlos para uso lícito o desconcentrarlos de la zona urbana o vecindario. Pero si el propietario lo regresare a su domicilio sin autorización, el animal será recapturado y sacrificado sin más trámite.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 59.
 
-En cualquier caso, salvo los que determine el Área Técnica, los dueños de animales agresores deberán de reparar los daños que el animal haya ocasionado ya sean en propiedad privada, o se trate de lesiones físicas o psicológicas.
+En cualquier caso, salvo los que determine el Área Técnica Municipal competente, los dueños de animales agresores deberán de reparar los daños que el animal haya ocasionado ya sean en propiedad privada, o se trate de lesiones físicas o psicológicas.
 
 ###### Artículo 60.
 
@@ -587,13 +649,17 @@ El sacrificio de animales destinados para el consumo humano se hará solo con au
 
 ### CAPITULO DECIMO QUINTO. DE LA FAUNA EXOTICA Y SILVESTRE
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 63.
 
 Los circos y demás espectáculos que traigan consigo animales, deberán apegarse a lo siguiente:
 
 I.- Los propietarios o encargados de los circos deberán contar con los permisos de las Autoridades competentes para establecer su espectáculo, debiendo acreditar que sus animales reciben la protección y cuidados que marca la presente Ley y las demás normas legales;
 
-II.- Tendrán que presentar los permisos emitidos por las Autoridades correspondientes, para la posesión de fauna exótica y silvestre;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Tendrán que presentar ante la Procuraduría o el Área Técnica municipal competente, los permisos emitidos por las Autoridades correspondientes, para la posesión de fauna exótica y silvestre;
 
 III.- Deberán comprobar que sus animales se encuentran en perfecto estado de salud, o en tratamiento médico en su defecto, debiendo destinarlos a lugares adecuados para ellos, con espacio suficiente para su movilidad, además de tener una alimentación apropiada según la especie de que se trate;
 
@@ -613,21 +679,29 @@ Queda expresamente prohibido realizar peleas de animales ya sea como espectácul
 
 ### CAPITULO DECIMO SEXTO. DE LA CAZA Y PESCA
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 66.
 
-Cualquier persona que posea animales contemplados como fauna exótica y silvestre, deberá contar los permisos emitidos por las Autoridades competentes, y los demás que las Leyes determinen.
+Cualquier persona que posea animales contemplados como fauna exótica y silvestre, deberá contar los permisos emitidos por las Autoridades competentes, y cumplir con lo previsto por la Leyes aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 67.
 
-Los propietarios de dicha fauna deberán observar los Artículos 21, 22 y 23, así también deberán tenerlos en espacios adecuados para ellos, siguiendo las disposiciones la Ley General del Equilibrio Ecológico y Protección al ambiente, la Ley General de Vida Silvestre y los demás ordenamientos que resulten aplicables.
+Los propietarios de dicha fauna deberán observar los Artículos 21, 22 y 23 de la presente Ley, así también deberán tenerlos en espacios adecuados para ellos, siguiendo las disposiciones la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre y los demás ordenamientos que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 68.
 
-Tanto la caza como la pesca en lugares silvestres permitidos, deberá apegarse a los lineamientos de los calendarios cinegéticos y vedas y a las disposiciones legales vigentes.
+Tanto la caza como la pesca en lugares silvestres permitidos, deberá apegarse a lo establecido por la Ley General de Vida Silvestre y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 69.
 
-Es obligación del Titular del Poder Ejecutivo, dentro del ámbito de su competencia, regular y proteger la vida de los animales silvestres, desarrollando los mecanismos de concurrencia con el Gobierno Federal y Municipal en materia de conservación de la fauna silvestre y su hábitat, de conformidad con las disposiciones aplicables.
+Es obligación del Titular del Poder Ejecutivo, a través de las autoridades ambientales, regular y proteger la vida de los animales silvestres, desarrollando los mecanismos de concurrencia con el Gobierno Federal y Municipal en materia de conservación de la fauna silvestre y su hábitat, de conformidad con las disposiciones aplicables.
 
 ###### Artículo 70.
 
@@ -637,23 +711,31 @@ Toda persona que tenga conocimiento de la captura y venta ilegal de estas especi
 
 ###### Artículo 71.
 
-Los propietarios de animales destinados para la caza y pesca, deberán contar con los permisos emitidos por las Leyes Federales y Estatales y Reglamentos Municipales respectivos.
+Los propietarios de animales destinados para la caza y pesca, deberán contar con las autorizaciones y permisos vigentes emitidos por las Leyes Federales y Estatales y Reglamentos Municipales respectivos.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 72.
 
-La caza de animales solo se podrá llevar a cabo en los lugares destinados para ello, como son los parques cinegéticos, entre otros, previos los trámites correspondientes y los permisos Legales requeridos, además de apegarse a las normas dispuestas en la presente Ley en cuanto al trato digno y humanitario de los animales, evitándose en todo caso actos de crueldad innecesaria.
+La caza de animales sólo se podrá llevar a cabo en los lugares destinados para ello, como son las Unidades de Manejo para la Vida Silvestre, entre otros, previos los trámites y autorizaciones ante la autoridad competente. Además, de apegarse a las normas dispuestas en la presente Ley en cuanto al trato digno y humanitario de los animales, evitándose en todo caso actos de crueldad innecesaria.
+
+En caso de que el Estado firma (sic) convenio con la Federación, la autoridad encargada de emitir las autorizaciones será la Secretaría.
 
 ###### Artículo 73.
 
 Tanto la caza como la pesca en lugares silvestres permitidos, deberá apegarse a los lineamientos de los calendarios cinegéticos y vedas y a las disposiciones Legales vigentes.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 74.
 
-Es obligación de las Autoridades competentes en dicha materia, el vigilar la correcta observación de las Leyes dispuestas para este fin, en los tres niveles de Gobierno.
+Previo Convenio con la Federación, es obligación de las (sic) Procuraduría y/o de las Áreas Técnicas Municipales referidas en el presente ordenamiento, el vigilar la correcta observación de las Leyes competentes en materia de vida silvestre.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 75.
 
-Las personas que practiquen la caza para subsistir deberán comprobarlo, y solamente podrán hacerlo para satisfacer sus necesidades y las de sus familias, siempre y cuando no se trate de fauna sujeta a protección. Debiendo ser asesorados y capacitados por parte de las autoridades competentes.
+Las personas que practiquen la caza o aprovechamiento de subsistencia deberán de cumplir con lo previsto en la Ley General de Vida Silvestre y solamente podrán hacerlo para satisfacer las necesidades básicas de alimentación del cazador o de sus familiares en primer grado, siempre y cuando no se trate de fauna sujeta a alguna categoría de riesgo de conformidad con las normas que para tal efecto publique la autoridad competente.
 
 ### CAPITULO DECIMO OCTAVO. DEL FONDO PARA LA PROTECCION DE LOS ANIMALES
 
@@ -674,6 +756,8 @@ La práctica de la zooterapia deberá ser asistida por personas capacitadas para
 Los animales abandonados que se presten por sus características para realizar funciones de apoyo para personas con capacidades diferentes y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos animales. Este servicio podrá prestarse a través de las Asociaciones Protectoras de Animales en coordinación con las autoridades correspondientes.
 
 ### CAPITULO DECIMO NOVENO. DE LAS ASOCIACIONES PROTECTORAS DE ANIMALES
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 80.
 
@@ -705,9 +789,11 @@ IV.- Los eventos culturales, deportivos, y demás que se realicen para la recaud
 
 ### CAPITULO VIGESIMO. DE LA DENUNCIA Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 83.
 
-Las Asociaciones Protectoras de Animales, deberán estar legítimamente constituidas y registradas y contar con los permisos correspondientes.
+Las Asociaciones Protectoras de Animales, deberán estar legítimamente constituidas y registradas en el Padrón Estatal de Asociaciones Protectoras de Animales y contar con los permisos correspondientes.
 
 ###### Artículo 84.
 
@@ -759,7 +845,7 @@ Gestionar mediante convenios con el Estado, asilos o refugios para especies de f
 
 ###### Artículo 90.
 
-Toda persona podrá denunciar ante las Autoridades competentes, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y los demás ordenamientos jurídicos.
+Toda persona podrá denunciar ante la Procuraduría o el Área Técnica Municipal correspondiente, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y los demás ordenamientos jurídicos.
 
 ###### Artículo 91.
 
@@ -779,17 +865,21 @@ IV.- Los hechos, actos u omisiones que esté denunciando; y
 
 V.- Las pruebas con las que cuente.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 93.
 
-La Autoridad esta obligada a informar al denunciante sobre el trámite de su denuncia.
+La Procuraduría o en su caso, el Área Técnica Municipal correspondiente está obligada a informar al denunciante sobre el trámite de su denuncia.
 
 ###### Artículo 94.
 
 Si por la naturaleza de los hechos denunciados, se trate de asuntos de competencia del orden Federal, las Autoridades deberán turnarlo a las instancias competentes.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 95.
 
-Corresponde a las Autoridades Estatales y Municipales vigilar el debido cumplimiento de las presentes disposiciones.
+Corresponde a la Procuraduría y al Área Técnica Municipal competente, vigilar el debido cumplimiento de las presentes disposiciones.
 
 ###### Artículo 96.
 
@@ -799,9 +889,15 @@ Queda estrictamente prohibido arrojar animales muertos o moribundos en la vía p
 
 Los cadáveres de animales deberán ser incinerados o inhumados en las instalaciones que para ello dispongan las Autoridades Sanitarias Municipales.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 98.
 
-Los animales que perezcan atropellados en calles, caminos y carreteras deberán ser retirados de inmediato. En caso de que el animal tenga lesiones visiblemente mortales, deberá ser sacrificado de forma humanitaria inmediatamente. Si las lesiones sólo comprenden alguno de los miembros, deberá ser canalizado a las Asociaciones Protectoras de Animales, quienes determinarán si es posible su curación y rehabilitación como animal de compañía.
+Los animales que perezcan atropellados en calles, caminos y carreteras deberán ser retirados de inmediato. En caso de que el animal tenga lesiones visiblemente mortales, deberá ser sacrificado de forma humanitaria inmediatamente.
+
+El Área Técnica Municipal competente deberá garantizar el manejo adecuado de dichos ejemplares de conformidad con lo establecido con el presente ordenamiento.
+
+Si las lesiones sólo comprenden alguno de los miembros, deberá ser canalizado a la Asociación Protectora de Animales registrada más cercana al sitio donde se ubique dicho ejemplar, quien determinaran (sic) si es posible su curación y rehabilitación como animal de compañía.
 
 ###### Artículo 99.
 
@@ -825,9 +921,11 @@ II.- Multa de 5 a 300 días de salario mínimo; y
 
 III.- Arresto hasta por 36 horas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 103.
 
-La Autoridad fundará y motivará sus resoluciones, tomando en cuenta lo siguiente:
+La Procuraduría o en su caso, Autoridad Técnica fundarán y motivarán sus resoluciones, tomando en cuenta lo siguiente:
 
 I.- Las condiciones económicas del probable infractor;
 
@@ -849,9 +947,11 @@ Contra las resoluciones impuestas, el inconforme podrá interponer los recursos 
 
 En lo procedente será aplicable supletoriamente la Ley Estatal del Procedimiento Administrativo.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 107.
 
-Los recursos generados por las sanciones impuestas, serán destinadas preferentemente, para el Fondo para la Protección de los Animales.
+Los recursos generados por las sanciones impuestas, serán destinados al Fondo para la Protección de los Animales. En caso que la autoridad sancionadora sea la Procuraduría se destinarán al Fondo Estatal. En caso de que la autoridad sancionadora sea el Área Técnica Municipal se destinarán al Fondo Municipal. En caso de que no exista Fondo Municipal deberán ser destinados al Fondo Estatal.
 
 ## TRANSITORIOS
 
@@ -890,3 +990,21 @@ EL GOBERNADOR CONSTITUCIONAL
 DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto.- Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaria de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
