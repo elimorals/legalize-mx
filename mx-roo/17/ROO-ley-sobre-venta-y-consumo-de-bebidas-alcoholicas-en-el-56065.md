@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2007-12-17"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2010 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -283,9 +285,11 @@ El titular de la licencia que decida seguir contando con dichos derechos y oblig
 
 #### SECCIÓN QUINTA. DE LOS PERMISOS
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 20.
 
-Permiso de Bebidas Alcohólicas, es el documento oficial otorgado por el Ejecutivo por conducto de la Secretaría, con carácter provisional o especial que autoriza la venta de bebidas alcohólicas en los giros previstos por esta Ley.
+Permiso de Bebidas Alcohólicas, es el documento oficial otorgado por el Ejecutivo por conducto de la Secretaría, con carácter provisional o especial que autoriza la venta y/o consumo de bebidas alcohólicas en los giros previstos por esta Ley.
 
 ###### ARTÍCULO 21.
 
@@ -313,9 +317,11 @@ Para el otorgamiento de los permisos a que se refiere el Artículo anterior, el 
 
 ### CAPÍTULO III. DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 23.
 
-Para los efectos de esta Ley se entenderá por establecimiento el lugar donde se expenden bebidas alcohólicas, para lo cual deberán contar, previamente, con la Licencia de Bebidas Alcohólicas o Permiso correspondiente.
+Para los efectos de esta Ley se entenderá por establecimiento el lugar donde se vendan, consuman, almacenen, distribuyan y exhiban bebidas alcohólicas, para lo cual deberán contar previamente, con la Licencia de Bebidas Alcohólicas o Permiso correspondiente.
 
 ###### ARTÍCULO 24.
 
@@ -425,9 +431,11 @@ VI.- No permitir el consumo dentro de los límites del establecimiento en los ca
 
 ### CAPÍTULO VI. DE LA INSPECCIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 30.
 
-Las autoridades competentes de aplicar y vigilar el cumplimiento de la presente Ley, a fin de comprobar que las personas físicas o morales, los responsables solidarios o los terceros con ellos relacionados han cumplido con lo dispuesto en esta Ley, estarán facultadas en todo momento para ordenar visitas de inspección a los establecimientos donde se vendan bebidas alcohólicas, y revisar sus mercancías que se encuentren en el interior de los mismos, relacionados con el objeto de la presente Ley. En dicha orden de visita de inspección se deberá especificar lo siguiente:
+Las autoridades competentes de aplicar y vigilar el cumplimiento de la presente Ley, a fin de comprobar que las personas físicas o morales, los responsables solidarios o los terceros con ellos relacionados han cumplido con lo dispuesto en esta Ley, estarán facultadas en todo momento para ordenar visitas de inspección a los establecimientos donde se vendan, almacenen, consuman, distribuyan y exhiban bebidas alcohólicas, y revisar sus mercancías que se encuentren en el interior de los mismos, relacionados con el objeto de la presente Ley. En dicha orden de visita de inspección se deberá especificar lo siguiente:
 
 I.- El nombre del visitado, excepto cuando se ignore el nombre del mismo. En este caso, bastará con asentar los datos que permitan su ubicación. La identificación del visitado se obtendrá al momento de efectuarse la visita de inspección, por el personal actuante en dicha actuación;
 
@@ -441,7 +449,9 @@ Las personas designadas para efectuar la visita, la podrán hacer conjunta o sep
 
 El procedimiento de inspección se desarrollará conforme a lo siguiente:
 
-I.- Se llevará a cabo en el establecimiento en donde se vendan bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+I.- Se llevará a cabo en el establecimiento en donde se vendan, almacenen, consuman, distribuyan y exhiban bebidas alcohólicas;
 
 II.- Al presentarse los inspectores al lugar en donde deba practicarse la diligencia, entregarán la orden de inspección al titular de la Licencia de Bebidas Alcohólicas, administrador, responsable o a quien se encuentre al frente del establecimiento, indistintamente, y con dicha persona se entenderá la visita de inspección. Asimismo, la requerirán en el acto para que si así lo considera designe a dos testigos, quienes firmarán el acta que al efecto se levante. En caso de que no se designen testigos, se hará constar esta circunstancia en el acta respectiva, sin que esto afecte su validez;
 
@@ -467,7 +477,9 @@ I.- La venta de bebidas alcohólicas sin la Licencia de Bebidas Alcohólicas o e
 
 II.- Transferir la Licencia de Bebidas Alcohólicas en contravención a lo dispuesto en los Artículos 11 y 12 de esta Ley;
 
-III.- La venta al mayoreo de bebidas alcohólicas para su comercialización a personas físicas y/o morales, que no cuenten con la Licencia de Bebidas Alcohólicas o Permiso correspondiente, hecha por el titular de una Licencia de Bebidas Alcohólicas cuyo giro autorizado sea de lo especificado en las fracciones VIII y IX del Artículo 17 de esta Ley;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+III.- La venta al mayoreo de bebidas alcohólicas para su comercialización a personas físicas y/o morales, que no cuenten con la Licencia de Bebidas Alcohólicas o Permiso correspondiente, hecha por el titular de una Licencia de Bebidas Alcohólicas cuyo giro autorizado sea de lo especificado en las fracciones VIII, IX y X del Artículo 17 de esta Ley;
 
 IV.- Vender bebidas alcohólicas en establecimientos no autorizados por esta ley u otras que lo prohíban expresamente;
 
@@ -866,3 +878,13 @@ P.O. 17 DE DICIEMBRE DE 2007.
 PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero del año 2008, previa publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de enero de 2011, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
