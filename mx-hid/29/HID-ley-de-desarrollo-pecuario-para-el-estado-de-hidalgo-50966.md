@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-pecuario-para-el-estado-de-hidalgo-50966"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2006-07-03"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO PECUARIO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -51,9 +51,11 @@ QUE CONTIENE LA LEY DE DESARROLLO PECUARIO PARA EL ESTADO DE HIDALGO
 
 La presente Ley tiene por objeto regular y proteger la actividad pecuaria en el Estado de Hidalgo y establecer las bases para promover el desarrollo sustentable de su producción, sanidad, clasificación y comercialización, mediante la planeación que integre las acciones de investigación, conservación y mejoramiento de las especies pecuarias para el consumo humano.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 2.
 
-Quedan sujetas a las disposiciones de esta Ley, su Reglamento y la normatividad aplicable, en materia de sanidad animal, salud humana y protección ecológica y de organizaciones ganaderas, las siguientes actividades:
+Quedan sujetas a las disposiciones de esta Ley, su Reglamento y la normatividad aplicable, en materia de sanidad animal, salud humana y protección ambiental y de organizaciones ganaderas, las siguientes actividades:
 
 I.- La cría, reproducción, explotación, transportación y sacrificio de especies pecuarias que sean susceptibles de aprovechamiento económico para fines comerciales, deportivos o recreativos;
 
@@ -147,13 +149,19 @@ II.- La Secretaría de Finanzas;
 
 III.- La Secretaría de Salud;
 
-IV.- El Consejo Estatal de Ecología (COEDE);
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-V.- La Secretaria de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA);
+IV.- La Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
-VI.- La Secretaria del Medio Ambiente y Recursos Naturales (SEMARNAT);
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VII.- La Procuraduría Federal de Protección al Ambiente (PROFEPA);
+V.- La Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- Las autoridades federales de conformidad con los convenios que para tal efecto se celebren con estas;
+
+VII.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
 VIII.- Los Municipios; y
 
@@ -275,7 +283,7 @@ XXXIX.- Las demás que establezca la presente Ley, su Reglamento, los Convenios 
 
 Corresponden a la Secretaría de Finanzas, las siguientes atribuciones:
 
-l.- Hacer efectivas las multas impuestas por la Secretaría por las violaciones a la presente Ley y su Reglamento, a través de las oficinas de recaudación Municipal; y
+I.- Hacer efectivas las multas impuestas por la Secretaría por las violaciones a la presente Ley y su Reglamento, a través de las oficinas de recaudación Municipal; y
 
 II.- Llevar el registro de las multas impuestas e informar a la Secretaría.
 
@@ -375,7 +383,7 @@ Las organizaciones y productores individuales adoptarán en todo momento las med
 
 ###### Artículo 20.
 
-Las organizaciones ganaderas tendrán las siguientes obligaciones:
+Las organizaciones ganaderas tendrán las siguientes-obligaciones:
 
 I.- Participar en la elaboración, ejecución, evaluación y revisión de las estrategias, líneas de acción del Plan Estatal de desarrollo y de los planes rectores por sistema-producto, conforme a la convocatoria que expida la Secretaría y de conformidad con las disposiciones Estatales en materia de planeación, fomento, protección, sanidad, mejoramiento genético y desarrollo sustentable;
 
@@ -565,7 +573,7 @@ Queda prohibido retener a los animales mostrencos por cuenta propia, sin orden d
 
 La Autoridad Municipal o el coordinador de ganadería, al recibir reporte de uno o varios animales mostrencos, identificados o no, realizará las acciones establecidas en esta Ley y en su Reglamento.
 
-### CAPITULO IV. DE LOS CERCOS
+### CAPÍTULO IV. DE LOS CERCOS
 
 ###### Artículo 40.
 
@@ -573,7 +581,7 @@ Todo predio donde se encuentre ganado, deberá estar cercado en sus linderos, co
 
 ###### Artículo 41.
 
-Cuando los predios colinden entre si o con terrenos agrícolas, los propietarios o poseedores de los mismos, deberán construir y mantener en buen estado los cercos que los delimiten.
+Cuando los predios colinden entre sí o con terrenos agrícolas, los propietarios o poseedores de los mismos, deberán construir y mantener en buen estado los cercos que los delimiten.
 
 ###### Artículo 42.
 
@@ -1253,7 +1261,7 @@ SEGUNDO.- El Reglamento de la Ley se expedirá dentro de los 120 días naturales
 
 TERCERO.- Se abroga la Ley Ganadera para el Estado de Hidalgo, Publicada en el Decreto 463, del Periódico Oficial del Estado, el 1° de septiembre de 1938.
 
-AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS SEIS DIAS DEL MES DE JUNIO DEL AÑO DOS MIL SEIS.
+AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTICULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS SEIS DIAS DEL MES DE JUNIO DEL AÑO DOS MIL SEIS.
 
 PRESIDENTE
 
@@ -1274,3 +1282,21 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ANGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto. Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaría de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
