@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2010-12-10"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
+CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -2749,9 +2749,11 @@ Las sentencias ejecutoriadas que desconozcan o establezcan la paternidad o la ma
 
 Para cumplir con lo dispuesto en el artículo anterior la misma sentencia ordenará se envíen copias certificadas de los puntos resolutivos de la misma al oficial del Registro Civil que corresponda, para que anote marginalmente el sentido del fallo, en el acta de nacimiento del afectado y, en su caso, en la de su matrimonio.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 550.
 
-Ninguna enmienda, modificación o cambio de nombre tendrá validez si no se hace mediante juicio en que se oiga conjuntamente al Ministerio Público, al Oficial del Registro, en cuya oficina se haya autorizado el acta de que se trate y al jefe del Archivo General del Registro Civil del Estado.
+La modificación o el cambio de nombre podrá ser ordenado por la autoridad judicial mediante sentencia formal dictada enjuicio, instruyendo la rectificación en el acta de registro civil respectiva; la modificación del nombre podrá ser ordenada vía rectificación del acta determinada por la Dirección General del Registro Civil del Estado, mediante resolución administrativa que dicte su titular; en ambos casos, se deberá atender al procedimiento instaurado en este Código, así como por lo dispuesto en el Reglamento del Registro Civil para el Estado Libre y Soberano de Quintana Roo.
 
 ###### Artículo 551.
 
@@ -3213,7 +3215,7 @@ El Registro de cualquier acto del estado civil, es absolutamente gratuito, salvo
 
 #### SECCION SEGUNDA. De las actas de nacimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 639.
 
@@ -3369,11 +3371,11 @@ Ninguna inhumación se hará sin autorización escrita dada por el oficial del R
 
 #### SECCION SEXTA. De la nulidad, rectificación y reposición de las actas de Registro Civil
 
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 654.
 
-Las inscripciones del Registro Civil sólo podrán ser anuladas o rectificadas mediante sentencia formal dictada en juicio en la que demande conjuntamente al Oficial Central del Registro Civil del Estado y al Oficial del registro que corresponda.
+Las inscripciones del Registro Civil solo podrán ser anuladas o en su caso, rectificadas mediante sentencia formal dictada enjuicio en el que se demande conjuntamente al Oficial Central del Registro Civil del Estado y al Oficial del Registro que corresponda; de igual forma las inscripciones del Registro Civil podrán ser rectificadas mediante resolución administrativa que emita la Dirección General del Registro Civil en los supuestos establecidos en el Reglamento del Registro Civil para el Estado Libre y Soberano de Quintana Roo.
 
 ###### Artículo 655.
 
@@ -3415,9 +3417,11 @@ Cuando el suceso registrado ocurrió realmente, pero con posterioridad es declar
 
 La reposición de una acta del Registro Civil tendrá lugar cuando la misma haya sido alterada después de asentada.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 662.
 
-Comprobada la alteración, el Juez, ordenará la restitución del acta a su texto original, mediante la anotación que se haga marginalmente a ésta, de lo que al respecto se ordene en el fallo.
+Comprobada la alteración, el Juez o, en su caso, el Director General del Registro Civil, ordenará la restitución del acta a su texto literal, mediante la anotación que se haga marginalmente a ésta, de lo que al respecto se ordene en sentencia judicial o resolución administrativa, respectivamente.
 
 ###### Artículo 663.
 
@@ -3432,6 +3436,22 @@ I.- Cuando errónea o ilegalmente se haya asentado u omitido en ella algún dato
 II.- En los casos de cambio o variación de nombre a que se refieren los artículos 546 y 547; y
 
 III.- En los casos de cambio de régimen patrimonial del matrimonio.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Artículo 664 BIS.- El procedimiento administrativo mediante el cual, la Dirección General del Registro Civil emitirá la resolución administrativa que ordene la rectificación de un acta del Registro Civil, se sustentará en una solicitud que tenga como finalidad la aclaración del acta que corresponda para corregir en ella, errores de tipo mecanográficos, ortográficos, numéricos, modificación de nombre o de estado civil, corrección de vicios o defectos, o, cuando se trate de complementar o ampliar los datos contenidos en la misma, siempre que las circunstancias que originen la aclaración, aparezcan en el contenido del propio instrumento, y no sean modificados sus elementos esenciales.
+
+El procedimiento administrativo ante la Dirección General del Registro Civil, se sujetará a las siguientes reglas:
+
+I.- Se iniciará con la sola comparecencia del interesado de manera verbal o por escrito, la cual se hará constar ante la Dirección General del Registro Civil o, ante la Oficialía de Partes del Registro Civil que corresponda, para lo cual será necesario exhibir el acta del estado civil respectiva, así como cualquier documental pública que se encuentre vinculada al acta del estado civil que se presume estar revestida de errores y que auxilié en la rectificación de sus datos; las documentales públicas se presentarán en original y copia simple, para su compulsa, devolviéndose las originales al interesado en la misma fecha de su presentación; se hará constar la concurrencia del interesado;
+
+II.- Encaso dé que el interesado comparezca ante la Oficialía, a que se refiere la fracción anterior, ésta sin más trámite remitirá a la Dirección General del Registro Civil, a la mayor brevedad posible dependiendo de la facilidad de las comunicaciones, la constancia de comparecencia del interesado junto con el acta cuya rectificación, se solicita;
+
+III.- Recibida la solicitud, la Dirección General del Registro Civil resolverá lo que proceda dentro de un plazo de diez días hábiles, comunicándola de inmediato al Oficial del Registro Civil que corresponda para que realice las anotaciones marginales a qué haya lugar dentro de los tres días hábiles siguientes y notifique al interesado;
+
+IV.- Si la resolución es negativa, el interesado deberá demandar la rectificación mediante juicio que se instaure ante el Juez competente;
+
+V.- Las demás que le confiera este Código y el Reglamento respectivo.
 
 ###### Artículo 665.
 
@@ -3535,7 +3555,7 @@ DEL DERECHO DE FAMILIA
 
 ### CAPITULO PRIMERO. De los requisitos formales para contraer matrimonio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 680.
 
@@ -3559,7 +3579,7 @@ Al escrito a que se refiere el artículo anterior se acompañará:
 
 I.- El acta de nacimiento o pasaporte de cada uno de los contrayentes;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 II.- Un certificado médico por cada pretenso, en el que se asegure que no padece enfermedad crónica o incurable que además sea contagiosa y hereditaria, o bien la constancia a que se refiere el último párrafo del Artículo 700.
 
@@ -4101,7 +4121,7 @@ La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dent
 
 La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contado desde que se celebró el nuevo matrimonio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 778.
 
@@ -4397,7 +4417,7 @@ El cónyuge actor en el juicio de divorcio puede, antes de que se pronuncie la s
 
 Artículo 813 BIS.- El cónyuge que haya recibido violencia familiar, podrá acreditarla mediante el ofrecimiento de las denominadas pruebas preconstituidas que se encuentran en su poder o bien aquellas que obren en instrumentales públicas de instituciones o dependencias que hayan atendido dicha problemática con antelación, para ser tomadas en cuenta por el Juzgador, en los términos del artículo 287 del Código Procedimental de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 814.
 
@@ -14377,7 +14397,7 @@ El arrendatario está obligado a pagar la totalidad del alquiler, cuando se hizo
 
 ###### Artículo 2724.
 
-Si se arrienda un edificio, departamento, aposento, almacén, tienda, despacho o establecimiento industrial que estuviere amueblado, se entenderá que el arrendamiento de los muebles es por el mismo tiempo que el del inmueble, a menos de estipulación en contrario; pero si el alquiler de éstos es con separación del inmueble, se estará a lo dispuesto en el artículo 2720.
+Si se arrienda un edificio, departamento, aposento, almacén, tienda, despacho o establecimiento industrial que estuviere amueblado, se entenderá que el arrendamiento de los muebles es por el mismo tiempo que el del inmueble, a menos de estipulación en contrario; pero si el alquiler de éstos es con separación del inmueble, se estará a los dispuesto en el artículo 2720.
 
 ###### Artículo 2725.
 
@@ -17189,7 +17209,7 @@ LIC. JOSE IRABIEN MEDINA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 31 DE ENERO DE 1982.
 
@@ -17370,3 +17390,15 @@ SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se o
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el periódico Oficial del Estado de Quintana Roo.
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Titular del Ejecutivo del Estado, contará con noventa días, contados a partir de la entrada en vigor del presente decreto, pata efectuar las modificaciones necesarias, al Reglamento del Registro Civil para el Estado Libre y Soberano de Quintana Roo.
+
+T R A N S I T O R I O:
+
+ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
