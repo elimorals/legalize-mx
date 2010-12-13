@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2006-08-07"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRICOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -67,19 +67,33 @@ El objeto de la Ley es:
 
 I.- Elevar el nivel de vida de la población rural del Estado, cuyos ingresos económicos y bienes para el autoconsumo, están determinados por la producción agrícola y subproductos;
 
-II.- Crear las condiciones para que las actividades productivas relacionadas con la agricultura, se desarrollen con un margen de rentabilidad, que permita acceder a los estándares mínimos de bienestar y desarrollo a las familias campesinas;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Crear las condiciones para que las actividades productivas relacionadas con la agricultura, se desarrollen con un margen de rentabilidad, que permita acceder a los estándares mínimos de bienestar y desarrollo sustentable a las familias campesinas;
 
 III.- Rescatar de la cultura tradicional de las comunidades campesinas, todo lo relacionado con la producción armónica de bienes de origen agrícola, de forma múltiple y diversificada;
 
-IV.- Generar las bases que permitan recuperar y elevar la rentabilidad de las actividades agrícolas en el ámbito comercial, mediante la capitalización y modernización de las mismas;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-V.- Asegurar el manejo sustentable de los recursos naturales que se emplean en la producción agrícola, mediante la diversificación productiva y la participación de las comunidades indígenas, ejidos, pequeña propiedad y personas físicas y morales que se desempeñen en el sector;
+IV.- Generar las bases que permitan recuperar y elevar la rentabilidad de las actividades agrícolas en el ámbito comercial, mediante la capitalización y modernización de las mismas, bajo criterios de sustentabilidad;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Asegurar el manejo sustentable de los recursos naturales que se emplean en la producción agrícola, respetando lo dictado por el ordenamiento ecológico del territorio y mediante la diversificación productiva y la participación de las comunidades indígenas, ejidos, pequeña propiedad y personas físicas y morales que se desempeñen en el sector;
 
 VI.- Fomentar entre los productores agrícolas el manejo correcto de los insumos agrícolas, las labores de preparación de suelo y la aplicación de las normas;
 
-VII.- Desarrollar e implementar los sistemas de comercialización de todos los productos agrícolas; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VIII.- Apoyar al productor, para que en coordinación con la Comisión Nacional del Agua, se formulen planes y proyectos que permitan garantizar el suministro de agua de riego, en la medida que los mantos acuíferos naturales lo permitan.
+VII.- Desarrollar e implementar los sistemas de comercialización de todos los productos agrícolas;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Apoyar al productor, para que en coordinación con la Comisión Nacional del Agua, se formulen planes y proyectos que permitan garantizar el suministro de agua de riego, en la medida que los mantos acuíferos naturales lo permitan; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IX.- Facilitar la adaptación de los sistemas productivos a los efectos del cambio climático.
 
 ###### ARTICULO 3.
 
@@ -205,6 +219,10 @@ Organización Social Productiva: Todos los organismos económicos que agrupan a 
 
 Proceso Productivo: La articulación de fases, componentes, medios de producción y fuerza de trabajo, mediante la cual se obtiene un bien de origen agrícola, desde la documentación técnica administrativa, la materia prima y los insumos, hasta la producción, transformación y comercialización.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Producción Orgánica: Sistema de producción y procesamiento de alimentos, productos y subproductos animales y/o vegetales, con un uso regulado de insumos externos, restringiendo y en su caso prohibiendo la utilización de productos de síntesis química; de tal forma que garantizan ser alimentos sanos para el consumidor y con grandes beneficios al medio ambiente, antes, durante y después de la producción al fomentar la conservación y el mejoramiento de la fertilidad del suelo, la protección de los recursos naturales y el impedimento de la contaminación.
+
 Programa de Financiamiento Rural: Instrumento de desarrollo agrícola.
 
 Productor Rural: La persona física o moral, que directa o. indirectamente se dedica a la producción, transformación, industrialización o comercialización de sus productos y subproductos.
@@ -251,13 +269,17 @@ VI.- El impacto social para el Estado y sus agricultores.
 
 ### CAPITULO I. DE LA PLANEACION AGRICOLA
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 12.
 
-El Estado, a través de la Secretaría y con la concurrencia de los integrantes de las instancias de planeación existentes, en el marco del Comité de Planeación de Desarrollo del Estado y las Regiones y Municipios, con base en un diagnóstico dinámico del sector agrícola, definirá las acciones mediante las cuales se impulse el desarrollo del campo.
+El Estado, a través de la Secretaría, en coordinación con la Secretaría de Medio Ambiente, y con la concurrencia de los integrantes de las instancias de planeación existentes, en el marco del Comité de Planeación de Desarrollo del Estado y las Regiones y Municipios, con base en un diagnóstico dinámico del sector agrícola, definirá las acciones mediante las cuales se impulse el desarrollo sustentable del campo.
 
 En las instancias de planeación existentes en el Estado, como son el Comité de Planeación para el Desarrollo del Estado, el Consejo Estatal, los Consejos Distritales y los Consejos Municipales para el Desarrollo Rural Sustentable, los Comités de Planeación para el Desarrollo Regional, Municipal, los Subcomités Municipales Agropecuarios, se asumirán compromisos específicos por parte de las Dependencias de la Administración Pública, las organizaciones de productores y los Municipios, donde se precisará la necesidad presupuestal mínima para efectuar los proyectos y acciones que requiere el desarrollo sustentable del campo en el Estado de Hidalgo, como sustento para la aprobación del Congreso del Estado.
 
-La Secretaría con apoyo de los Subcomités Regionales y Municipales Agropecuarios y las organizaciones sociales, realizará los estudios necesarios para valorar los impactos que ocasionen los procesos productivos en zonas de conservación, aprovechamiento y producción, analizando las necesidades de recursos económicos, materiales y humanos, que se gestionarán ante la Federación y el sector privado, en apoyo de todas las acciones definidas en el Programa Estatal de Desarrollo Agrícola Sustentable.
+La Secretaría, en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial con apoyo de los Subcomités Regionales y Municipales Agropecuarios y las organizaciones sociales, realizará los estudios necesarios para valorar los impactos ambientales que ocasionen los procesos productivos en zonas de conservación, aprovechamiento y producción; además, propondrá las medidas y planes de uso y aprovechamiento sustentable en esas zonas, y analizará las necesidades de recursos económicos para garantizar el desarrollo sustentable, que se gestionarán ante la Federación y el sector privado, en apoyo de todas las acciones definidas en el Programa Estatal de Desarrollo Agrícola Sustentable.
+
+Adicionalmente, en coordinación con la Secretaría de Medio Ambiente, establecerá las medidas que permitan la adaptación de las actividades y cultura agrícola a los efectos del cambio climático; promoviendo la participación del sector en la elaboración y ejecución del programa que para tal efecto determine el ejecutivo del Estado.
 
 ###### ARTICULO 13.
 
@@ -275,9 +297,21 @@ III.- La equidad, rentabilidad y sustentabilidad en el desarrollo del sector;
 
 IV.- El Federalismo y la descentralización;
 
-V.- La obligatoria coordinación y concertación de acciones, entre la Federación, el Estado y los Municipios; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VI.- El financiamiento de los programas.
+V.- La obligatoria coordinación y concertación de acciones, entre la Federación, el Estado y los Municipios;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- El financiamiento de los programas;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII.- La planeación basada en el ordenamiento ecológico territorial; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII.- La adaptación y, en su caso, mitigación al cambio climático.
 
 ### CAPITULO II. DEL PROGRAMA DE DESARROLLO AGRICOLA SUSTENTABLE
 
@@ -285,7 +319,9 @@ VI.- El financiamiento de los programas.
 
 El Programa de Desarrollo Agrícola Sustentable, deberá contener:
 
-I.- Los objetivos a corto, mediano y largo plazo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+I.- Los objetivos a corto, mediano y largo plazo de la política agrícola;
 
 II.- Las metas específicas y reales de producción y comercialización, así como las de organización, capacitación y rescate de la cultura agrícola, entre otros;
 
@@ -299,7 +335,13 @@ VI.- Los procedimientos y organismos responsables para el seguimiento y evaluaci
 
 VII.- La conformación y operación de la Contraloría, que asegure el ejercicio eficiente y transparente de los recursos;
 
-VIII.- Un mecanismo que permita atender las contingencias que se presenten por el abatimiento de la producción planeada, así como la atención de siniestros naturales, que impidan al productor rural recuperar la inversión realizada; y
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII BIS.- Las medidas de adaptación al cambio climático del sector agrícola;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Un mecanismo que permita atender las contingencias que se presenten por el abatimiento de la producción planeada, así como, la atención de siniestros naturales, y la prevención de los efectos del cambio climático sobre el sector, que impidan al productor rural recuperar la inversión realizada; y
 
 IX.- Todas las medidas que se consideren necesarias para sentar las bases del desarrollo agrícola sustentable del Estado de Hidalgo.
 
@@ -317,17 +359,25 @@ Las organizaciones del sector social y privado, podrán contribuir en la impleme
 
 ### CAPITULO I. DE LA ORGANIZACION, CAPACITACION Y ASESORIA ESPECIALIZADA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 18.
 
-La Secretaría, en coordinación con las Dependencias competentes de la Administración Pública Federal, Estatal y Municipal, de instituciones educativas, de centros de investigación, capacitación y de servicios de los sectores social y privado, así como las de los productores rurales y sus organizaciones, realizarán en materia de organización, capacitación y asesoría especializada, las siguientes acciones:
+La Secretaría, en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial, las Dependencias competentes de la Administración Pública Federal, Estatal y Municipal, de instituciones educativas, de centros de investigación, capacitación y de servicios de los sectores social y privado, así como las de los productores rurales y sus organizaciones, realizarán en materia de organización, capacitación y asesoría especializada, las siguientes acciones:
 
 I.- Impulsar la organización para la producción, como un requisito indispensable para alcanzar el desarrollo sustentable en el ámbito agrícola, así como rescatar y respetar el modo tradicional de producción de las comunidades rurales, que les permita mejorar sus condiciones y calidad de vida;
 
-II.- Incluir en el Programa Estatal de Desarrollo Agrícola sustentable, el proyecto de organización y capacitación para la producción, contemplando las áreas prioritarias que sea necesario apoyar, de acuerdo con los propios beneficiarios, así como los mecanismos de concertación con los productores rurales y sus organizaciones, para su programación e implementación;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Incluir en el Programa Estatal de Desarrollo Agrícola sustentable, el proyecto de organización y capacitación para la producción, uso y aprovechamiento sustentable de los recursos naturales, contemplando las áreas prioritarias que sea necesario apoyar, de acuerdo con los propios beneficiarios, así como los mecanismos de concertación con los productores rurales y sus organizaciones, para su programación e implementación;
 
 III.- Implementar proyectos que sistematicen de manera eficiente el modo tradicional de producción, el cual considere el espacio que habitan los productores, la producción de alimentos, plantas medicinales, plantas ornamentales, fertilizantes orgánicos, materiales de construcción, conservación de suelos y biodiversidad, etc.;
 
-IV.- Elaborar y coordinar en forma participativa, proyectos de capacitación para los productores y sus organizaciones, a fin de que cuenten con los elementos necesarios para poder articular las fases de la cadena productiva con fines comerciales.
+IV.- Elaborar y coordinar en forma participativa, proyectos de capacitación para los productores y sus organizaciones, a fin de que cuenten con los elementos necesarios para poder articular las fases de la cadena productiva con fines comerciales;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV BIS.- Diseñar y ejecutar programas de capacitación en materia de cambio climático con énfasis en las medidas de adaptación que debe implementar el sector;
 
 V.- El proyecto de capacitación mencionado en la fracción anterior, deberá contemplar la capacitación de los directivos y personal técnico y administrativo de las organizaciones y las empresas económicas campesinas, para dotarlos de las herramientas organizacionales, técnicas, administrativas, financieras y legales que les permitan asumir una cultura empresarial, para la modernización y la eficiencia, sin que esto implique la pérdida del sentido social, ni la cultura básica que las caracteriza;
 
@@ -353,9 +403,11 @@ Los productores rurales y sus organizaciones, podrán acceder a los apoyos direc
 
 ### CAPITULO II. DE LA ASISTENCIA TECNICA
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 23.
 
-La Secretaría en forma concertada con los productores rurales, sus organizaciones y organismos de los sectores público y privado, definirá los esquemas de asistencia técnica que mejor respondan a las necesidades específicas del campo y de los productores.
+La Secretaría, en coordinación con la Secretaría de Medio Ambiente, en forma concertada con los productores rurales, sus organizaciones y organismos de los sectores público y privado, definirá los esquemas de asistencia técnica que mejor respondan a las necesidades específicas del campo y de los productores, priorizando los esquemas de diversificación productiva y aquellos que tiendan al aprovechamiento sustentable de los recursos naturales.
 
 ###### ARTICULO 24.
 
@@ -365,23 +417,35 @@ La Secretaría y las organizaciones de productores, diseñarán los sistemas de 
 
 Los programas y esquemas de asistencia técnica a que se refieren los Artículos anteriores, deberán contener como actividades básicas:
 
-I.- La aplicación de métodos participativos, que faciliten los procesos de enseñanza-aprendizaje, la capacitación en técnicas y prácticas agrícolas, que además de incorporar tecnología de punta y apropiada según el caso, la conjuguen con el conocimiento tradicional y práctico que las condiciones específicas les impongan;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+l.- La aplicación de métodos participativos, que faciliten los procesos de enseñanza aprendizaje, la capacitación en técnicas y prácticas agrícolas sustentables, que además de incorporar tecnología de punta y apropiada según el caso, la conjuguen con el conocimiento tradicional y práctico que las condiciones específicas les impongan;
 
 II.- La implementación de procesos de desarrollo organizacional en los organismos productivos y empresas de los productores, sobre todas aquellas herramientas que son indispensables para alcanzar la eficiencia y la rentabilidad en la actividad agrícola, con sentido empresarial; social y ecológicamente viables;
 
-III.- La difusión simplificada y oportuna de los conocimientos relacionados con la valorización de los recursos, de las actividades campesinas tradicionales, así como la prevención y combate de plagas y enfermedades, garantizando la protección al ambiente, para lograr un desarrollo sostenido;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+III.- La difusión simplificada y oportuna de los conocimientos relacionados con la valorización de los recursos naturales, de las actividades campesinas tradicionales, así como la prevención y combate de plagas y enfermedades, garantizando la protección al ambiente, para lograr un desarrollo sustentable;
 
 IV.- La creación de empresas agrícolas y el fortalecimiento de las existentes, que facilite la obtención de financiamiento preferencial y mejore la capacidad para colocar sus productos en el mercado de manera competitiva;
 
 V.- El mejoramiento de la economía rural, así como de todas aquellas herramientas que ayuden a los productores rurales a fortalecer la gestión para elevar la calidad de los servicios de salud, educación, vivienda, agua potable, drenaje, electricidad, etc., en concordancia con los programas gubernamentales para el desarrollo social;
 
-VI.- El enfoque de equidad de género, propiciando la manifestación de la iniciativa, la creatividad y eficiencia de las mujeres, en el proceso de producción agrícola; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- El enfoque de equidad de género, propiciando la manifestación de la iniciativa, la creatividad y eficiencia de las mujeres, en el proceso de producción agrícola;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI BIS.- Actividades relacionadas con la diversificación productiva y en general los métodos y técnicas encaminados a usar y aprovechar de manera sustentable los recursos; y
 
 VII.- Las demás que tomen en cuenta el desarrollo de las personas que integran los organismos productivos de la sociedad rural, para el mejoramiento de sus actitudes, aptitudes, habilidades y destrezas.
 
-###### ARTICULO 26.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-La Secretaría promoverá con el apoyo de las instituciones de enseñanza e investigación, mecanismos de acceso y comunicación de las organizaciones de productores rurales, con los profesionistas y técnicos en forma individual o asociados, a fin de que coadyuven con los productores rurales en la consecución de los objetivos de este ordenamiento.
+###### ARTÍCULO 26.
+
+La Secretaría, en coordinación con la Secretaría de Medio Ambiente promoverán con el apoyo de las instituciones de enseñanza e investigación, mecanismos de acceso y comunicación de las organizaciones de productores rurales, con los profesionistas y técnicos en forma individual o asociados, a fin de que coadyuven con los productores rurales en la consecución de los objetivos de este ordenamiento.
 
 ###### ARTICULO 27.
 
@@ -417,27 +481,45 @@ Toda persona física o moral que por medio de engaños, dolo o mala fe, venda, d
 
 ### CAPITULO III. DE LA PRODUCCION SUSTENTABLE
 
-###### ARTICULO 28.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-La Secretaría, en coordinación con los Gobiernos Municipales, los productores rurales y sus organizaciones, determinará, basados en el diagnóstico de la actividad agrícola, las zonas económicas prioritarias donde sea posible la mayor producción y el mejor aprovechamiento de los recursos, procurando la eficiencia, integralidad, diversidad y uso múltiple.
+###### ARTÍCULO 28.
+
+La Secretaría, en coordinación con los Gobiernos Municipales, los productores rurales y sus organizaciones, determinará, basados en el diagnóstico de la actividad agrícola, las zonas económicas prioritarias donde sea posible la producción más eficiente y el aprovechamiento sustentable de los recursos, procurando la eficiencia, integralidad, diversidad y uso múltiple.
 
 ###### ARTICULO 29.
 
 Para conseguir lo expuesto en el Artículo anterior, la Secretaría en coordinación con Dependencias Federales, Estatales y Municipales, así como con la participación de las organizaciones de productores, realizará las siguientes acciones:
 
-I.- Promover y apoyar entre los productores agrícolas, el empleo de prácticas, que incrementen la eficiencia, la productividad, la competitividad y rentabilidad de sus actividades, respetando el medio ambiente;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-II.- Impulsar la rehabilitación de la infraestructura productiva existente y promover la construcción de la que, de acuerdo al programa de mediano y largo plazo, se defina como necesaria para alcanzar la producción y productividad, en forma sostenible;
+I.- Promover y apoyar entre los productores agrícolas, el empleo de prácticas sustentables, que incrementen la eficiencia, la productividad, la competitividad y rentabilidad de sus actividades, respetando el medio ambiente;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Impulsar la rehabilitación de la infraestructura productiva existente y promover la construcción de la que, de acuerdo al programa de mediano y largo plazo, se defina como necesaria para alcanzar la producción y productividad, en forma sustentable;
 
 III.- Promover y apoyar el abastecimiento de insumos suficientes, con oportunidad, calidad y precio, como factor básico para alcanzar la producción y productividad, que demandan el mercado y la soberanía alimentaria;
 
 IV.- Supervisar el uso, aplicación de productos agroquímicos, productos biológicos y sustancias tóxicas, así como el acopio y manejo de envases de productos tóxicos, vigilando se cumplan las disposiciones de restricción y prohibición en aquellas zonas agrícolas, en que así lo determinen las Autoridades competentes, quedando prohibido el uso de productos altamente tóxicos;
 
-V.- Monitorear periódicamente los suelos, aguas, productos agrícolas y a los trabajadores que estén en contacto permanente con el uso de sustancias químicas en el campo, así como promover aplicaciones masivas y controladas en áreas con problemas fitososanitarios frecuentes;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Definir y ejecutar medidas de adaptación y, en su caso, mitigación al cambio climático para las actividades agrícolas;
 
 VI.- Apoyar el mejoramiento y conservación del suelo, implementando la rotación de cultivos, terrazas de muro vivo, labranza de conservación, cultivos de cobertera, aplicación técnica de fertilizantes químicos, abonos y mejoradores orgánicos e inorgánicos, entre otros;
 
-VII.- Poner a disposición de los productores y público en general, mediante el Sistema Estatal de Información, todos los datos referentes a la disponibilidad de los insumos básicos para la producción; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII.- Poner a disposición de los productores y público en general, mediante el Sistema Estatal de Información, todos los datos referentes a la disponibilidad de los insumos básicos para la producción;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII BIS.- Fomentar el desarrollo de la producción orgánica, para la recuperación de cuencas hidrológicas, aguas, suelos, ecosistemas, así como sistemas agropecuarios deteriorados por las prácticas convencionales de producción y reorientarlas a prácticas sustentables;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII TER.- Fomentar la Certificación orgánica así como la promoción de los productos orgánicos en los mercados regional, nacional e internacional; y,
 
 VIII.- Todas las demás actividades que contribuyan a garantizar la sustentabilidad de las actividades agrícolas.
 
@@ -448,6 +530,12 @@ VIII.- Todas las demás actividades que contribuyan a garantizar la sustentabili
 En materia de sanidad vegetal, se orientarán acciones a reducir los riesgos para la producción agrícola y la salud pública, fortalecer la productividad agrícola y facilitar la comercialización local, Nacional e Internacional.
 
 Las actividades se dirigirán a evitar la entrada de plagas y enfermedades a la Entidad, en particular las de interés cuarentenario; a controlar y erradicar las existentes, a fin de alcanzar el estatus fitosanitario que permita mejorar la calidad de los productos agrícolas y a acreditar la condición sanitaria de la producción agrícola. Las acciones y programas que llevarán a cabo las Dependencias y Entidades competentes, se ajustarán a la Ley Federal de Sanidad Vegetal.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 30 BIS.- La Secretaría en coordinación con la Procuraduría, tendrán la facultad de monitorear periódicamente los suelos, aguas, productos agrícolas y a los trabajadores que estén en contacto permanente con el uso de sustancias químicas y tóxicas en el campo, así como promover aplicaciones masivas y controladas previniendo y reduciendo en la medida el impacto ambiental y a la biodiversidad de estas acciones, en áreas con problemas fitosanitarios frecuentes.
+
+La Procuraduría podrá ejercer sus facultades de investigación, supervisión y verificación derivado de la información que se obtenga del monitoreo; además, podrá dictar las medidas de seguridad a que hace referencia la Ley para la Protección al Ambiente del Estado de Hidalgo y, en su caso, las sanciones correspondientes.
 
 ###### ARTICULO 31.
 
@@ -533,15 +621,33 @@ III.- Canalizar en forma efectiva, oportuna y suficiente los recursos financiero
 
 IV.- Definir y proporcionar los esquemas de seguro y autoseguro, que den certidumbre y ayuden a capitalizar a los productores rurales y sus empresas;
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV BIS.- Diseñar e instrumentar instrumentos económicos que permitan, al sector agrícola, enfrentar los efectos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV TER.- Fomentar la producción orgánica mediante un sistema preferencial de créditos y la creación de un Fideicomiso para la agricultura orgánica.
+
 V.- Establecer los mecanismos e instrumentos económicos, que aseguren que las unidades productivas campesinas puedan cumplir con sus obligaciones financieras;
 
 VI.- Respaldar las actividades contempladas por el modo tradicional de producción campesina, diseñando esquemas específicos para la empresa familiar, concebidas como unidades de producción integral de sus recursos;
 
 VII.- Proponer mediante esquemas apropiados de ahorro y crédito, el ahorro de la sociedad rural, con técnicas de operación financiera, que permitan respaldar económicamente a los productores del campo;
 
-VIII.- Promover la economía solidaria, el mutualismo, la buena fe de los productores rurales y todos aquellos esquemas no tradicionales de ahorro y préstamo; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IX.- Crear una instancia de apoyo y seguimiento técnico de los organismos campesinos de financiamiento rural, para vigilar que los recursos lleguen en tiempo y forma, se apliquen adecuadamente y proporcione el asesoramiento especializado.
+VIII.- Promover la economía solidaria, el comercio justo, mutualismo, la buena fe de los productores rurales y todos aquellos esquemas no tradicionales de ahorro y préstamo;
+
+IX.- Crear una instancia de apoyo y seguimiento técnico de los organismos campesinos de financiamiento rural, para vigilar que los recursos lleguen en tiempo y forma, se apliquen adecuadamente y proporcione el asesoramiento especializado;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X.- Incentivar las actividades de diversificación productiva y todos aquellos métodos y técnicas asociadas con el aprovechamiento sustentable de los recursos naturales y el patrimonio natural; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XI.- Fomentar el desarrollo de un mercado estatal de consumidores de productos orgánicos, ecológicos y naturales.
 
 ### CAPITULO VII. DE LA INFRAESTRUCTURA PRODUCTIVA
 
@@ -1090,3 +1196,21 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto. Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaría de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
