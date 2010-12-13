@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-60028"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2009-12-31"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCION AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Alcance Uno del Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -103,7 +103,9 @@ VII.- BIODIVERSIDAD: La variabilidad de organismos vivos de cualquier fuente, in
 
 VIII.- CENTRO DE VERIFICACIÓN VEHICULAR: La instalación fija, móvil o local establecida o autorizada por el Consejo, en el que se lleva a cabo la medición de las emisiones contaminantes provenientes de los vehículos automotores en circulación con equipo autorizado;
 
-IX.- CONSEJO: El Consejo Estatal de Ecología;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IX.- CONSEJO: Consejo Estatal de Participación Ciudadana Ambiental y de Cambio Climático;
 
 X.- CONTAMINACIÓN: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
@@ -173,9 +175,17 @@ XL.- PARQUES ESTATALES: Los constituyen representaciones biogeográficas a nivel
 
 XLI.- PARQUES URBANOS MUNICIPALES Ó JARDINES PÚBLICOS: Áreas de uso público, declaradas por los Municipios en los centros de población para mantener el equilibrio entre los elementos naturales y el desarrollo urbano o industrial; o bien, para el esparcimiento de la población, la protección de valores artísticos, históricos o de belleza natural, significativos para la localidad;
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XLI Bis.- PATRIMONIO NATURAL: La biodiversidad, los ecosistemas o los monumentos naturales ya sean formaciones geológicas, biológicas o unidades paisajísticas estrictamente delimitadas que constituyan o no hábitat de especies de vida silvestre, que tengan un valor universal desde el punto de vista estético, científico o para la conservación de la belleza natural de conformidad con la Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura celebrada en Paris en 1972;
+
 XLII.- PRESTADOR DE SERVICIOS AMBIENTALES: Es la persona que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo, resultando responsable del contenido de los mismos;
 
 XLIII.- PRESERVACIÓN ECOLÓGICA: El conjunto de políticas y medidas para mantener las condiciones que propician la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de su hábitat natural;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XLIII Bis.- PROCURADURÍA: Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial;
 
 XLIV.- RESERVA ECOLÓGICA ESTATAL: Áreas biogeográficas relevantes a nivel estatal, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados, restaurados, en los cuales se desarrollen especies representativas de la biodiversidad estatal, incluyendo a las consideradas endémicas, amenazadas, sujetas a protección especial o en peligro de extinción;
 
@@ -201,11 +211,17 @@ LIV.- REGLAMENTO: Reglamento de la Ley para la Protección al Ambiente del Estad
 
 LV.- RUIDO: Sonido audible indeseable que moleste o perjudique la salud de las personas. Se mide generalmente en decibeles y es una fuente de contaminación;
 
-LVI.- SECRETARÍA: Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+LVI.- SECRETARÍA: Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
 LVII.- TRATAMIENTO: Acción de transformar los residuos para cambiar sus características;
 
 LVIII.- VERIFICACIÓN VEHICULAR: Medición de las emisiones de gases o partículas sólidas o líquidas a la atmósfera, provenientes de vehículos automotores;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+LVIII Bis.- VIDA SILVESTRE: La flora y/o fauna silvestres;
 
 LIX.- ZONA DE AMORTIGUAMIENTO: Es el resto de área de la reserva que protege las zonas núcleo del impacto exterior;
 
@@ -217,6 +233,8 @@ LXII.- ZONAS ECOLÓGICAS Y CULTURALES: Son aquéllas cuyo objetivo es el de prot
 
 LXIII.- ZONA NÚCLEO: Son aquellas áreas mejor conservadas, o no alteradas, que alojen ecosistemas o recursos naturales de especial importancia y especies de flora y fauna; y
 
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 LXIV.- ORDENAMIENTO ECOLÓGICO: Es el instrumento de política ambiental para regular o inducir el uso del suelo y las actividades productivas a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos, con el fin de lograr la protección del medio ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
@@ -227,13 +245,25 @@ Son Autoridades competentes para la aplicación de esta Ley:
 
 I.- El titular del Poder Ejecutivo del Estado;
 
-II.- La Secretaría de Obras Públicas, Comunicaciones, Transportes y Asentamientos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-III.- El Consejo Estatal de Ecología; y
+II.- La Secretaría de Medio Ambiente y Ordenamiento Territorial;
 
-IV.- Los Ayuntamientos de los Municipios del Estado.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-El Estado y los Municipios ejercerán sus atribuciones en materia de aprovechamiento de los recursos naturales, de la preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con los Artículos 25 párrafo sexto, 73 fracción XXIX-G, 115 y 124 de la Constitución Política de los Estados Unidos Mexicanos, 84 de la Constitución Política del Estado de Hidalgo, a la distribución de competencias previstas en la Ley General, en ésta Ley, su Reglamento y en los ordenamientos legales sobre la materia.
+III.- La Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- El Consejo Estatal de Participación Ciudadana Ambiental y de Cambio Climático; y,
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Los Ayuntamientos de los Municipios del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+El Estado y los Municipios ejercerán sus atribuciones en materia de aprovechamiento de los recursos naturales, de la preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con los Artículos 25 párrafo sexto, 73 fracción XXIX-G, 115 y 124 de la Constitución Política de los Estados Unidos Mexicanos, 84 de la Constitución Política del Estado de Hidalgo, a la distribución de competencias previstas en las Leyes generales, en ésta Ley, su Reglamento y en los ordenamientos legales sobre la materia.
 
 ### CAPÍTULO III. COORDINACIÓN DE LA FEDERACIÓN CON EL ESTADO Y SUS MUNICIPIOS
 
@@ -255,11 +285,15 @@ VI.- Prevenir y controlar de la contaminación ambiental originada por ruido, vi
 
 VII.- Realizar acciones operativas tendientes a cumplir con los fines previstos en este ordenamiento.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 7.
 
-Compete al Consejo ejercer las funciones que se contengan en los convenios de coordinación que celebre el Estado con la Federación, siempre que se refieran a la aplicación y observancia de la Legislación en materia de protección al ambiente, así como con los Ayuntamientos en los asuntos de su competencia.
+Compete a la Secretaría ejercer las funciones que se contengan en los convenios de coordinación que celebre el Estado con la Federación, siempre que se refieran al diseño, instrumentación, expedición, conducción, evaluación, ejecución y difusión de la política, los programas, acciones y estrategias relacionadas con la preservación y protección al ambiente, el equilibrio ecológico, los recursos naturales y el patrimonio natural del Estado, incluido el ordenamiento territorial, así como con los Ayuntamientos en los asuntos de su competencia.
 
-Corresponde al Consejo emitir y vigilar el cumplimiento de las Normas Técnicas Ecológicas Estatales a que se refiere esta Ley.
+Corresponde a la Secretaría elaborar y publicar las Normas Técnicas Ecológicas Estatales a que se refiere esta Ley; y a la Procuraduría vigilar, investigar, supervisar, verificar y, en su caso, imponer las medidas y/o sanciones derivadas de su incumplimiento.
+
+El Consejo, fungirá como organismo de participación ciudadana del Sector Ambiental conforme lo establecido en la presente Ley.
 
 ## TÍTULO SEGUNDO. POLÍTICA AMBIENTAL
 
@@ -319,6 +353,10 @@ I.- Los Programas de Planeación Ambiental;
 
 II.- El Ordenamiento Ecológico del Territorio;
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II Bis.- Los Programas de Desarrollo Urbano;
+
 III.- Los instrumentos económicos;
 
 IV.- Las Normas Técnicas Ecológicas Estatales;
@@ -331,15 +369,37 @@ VII.- La educación e investigación ambiental;
 
 VIII.- Licencia Ambiental Estatal;
 
-IX.- Sistema de Información Ambiental; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-X.- Ecoguardas.
+IX.- Sistema Estatal de Información Ambiental
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X.- La Procuración de Justicia Ambiental;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XI.- La Auditoría Ambiental;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XII.- La Certificación Ambiental;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XIII.- La Estrategia Estatal de Cambio Climático; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XIV.- La Participación Ciudadana.
 
 #### SECCIÓN PRIMERA. DE LOS PROGRAMAS DE PLANEACIÓN AMBIENTAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 10.
 
-El titular del Ejecutivo del Estado y los Ayuntamientos, deberán expedir y Publicar en el Periódico Oficial, sus respectivos programas de planeación y protección Alcance ambiental que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación y restauración del equilibrio ecológico y la protección al ambiente, acordes con el Plan Estatal de Desarrollo y con el Programa Nacional del Medio Ambiente y Recursos Naturales, en los que se considerarán los siguientes criterios:
+El titular del Ejecutivo del Estado y los Ayuntamientos, deberán, expedir y publicar en el Periódico Oficial, sus respectivos programas de planeación y protección ambiental que tengan por objeto el aprovechamiento sustentable de los recursos naturales, la preservación y restauración del equilibrio ecológico y la protección al ambiente y el patrimonio natural, acordes con el Plan Estatal de Desarrollo y con el Programa Nacional del Medio Ambiente y Recursos Naturales, en los que se considerarán los siguientes criterios:
 
 I.- La política ambiental en el Estado se llevará a cabo con base en una estrategia preventiva que otorgue prioridad a la búsqueda del origen de los problemas ambientales;
 
@@ -369,9 +429,19 @@ XIII.- En el proceso de creación, modificación y mejoramiento del medio ambien
 
 Para el cumplimiento de estos criterios deberá asegurarse la eficiente coordinación entre las diferentes dependencias que tengan competencia.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 11.
 
-Los programas de planeación ambiental deberán ser evaluados por el Consejo Estatal de Ecología y actualizados anualmente, su observancia es obligatoria para la Administración Pública del Estado y los Municipios. Su incumplimiento será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos.
+Los programas de planeación ambiental Estatal deberán ser diseñados por la Secretaría; asimismo le corresponderá evaluar los programas estatales y Municipales y actualizarlos anualmente, su observancia es obligatoria para la Administración Pública del Estado y los Municipios. Los programas de planeación ambiental deberán ser puestos a consideración del Consejo, quien podrá emitir recomendaciones a la Secretaría.
+
+Su incumplimiento será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 11 Bis.
+
+Con la finalidad de organizar, operar, supervisar y evaluar los servicios previstos en las fracciones XI y XII del inciso A; V sub-inciso c) del inciso B; y II, III, IV, V, VI, VII, XI, XVI, XVII, XX, XXI y XXII del inciso c del Artículo 3 de la Ley de Salud para el Estado de Hidalgo, se establecerá una comisión integrada por esta Secretaría, la Secretaría de Salud, y la Procuraduría, en la cual participarán en el ámbito de sus respectivas competencias y facultades, de conformidad con lo previsto en el reglamento que para tal efecto expida el ejecutivo.
 
 ###### Artículo 12.
 
@@ -421,13 +491,17 @@ II.- Regional; y
 
 III.- Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 16.
 
-En la formulación y evaluación de los Programas de Ordenamiento Ecológico del Territorio, el Consejo promoverá la participación de los municipios, grupos, organizaciones sociales, empresarios, instituciones académicas de investigación y demás interesados; en su realización y de (sic) consideraran los siguientes criterios:
+En la formulación y evaluación de los Programas de Ordenamiento Ecológico del Territorio, la Secretaría promoverá la participación de los municipios, grupos, organizaciones sociales, empresarios, instituciones académicas, de investigación y demás interesados; en su realización considerarán los siguientes criterios:
 
 I.- La naturaleza y características de cada ecosistema existente en el territorio estatal;
 
-II.- La vocación de cada zona o región del Estado, en función de los recursos naturales; la distribución de la población y las actividades económicas predominantes;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- La vocación de cada zona o región del Estado, en función de los recursos naturales y el patrimonio natural; la distribución de la población y las actividades económicas predominantes;
 
 III.- Los desequilibrios existentes en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas o fenómenos naturales;
 
@@ -443,9 +517,11 @@ VII.- Las observaciones y propuestas formuladas por la ciudadanía.
 
 Le corresponderán al Titular del Poder Ejecutivo del Estado expedir los Programas de Ordenamiento Ecológico Territorial Estatal y Regional y a los ayuntamientos expedir sus Programas de Ordenamiento Ecológico Territorial Municipal.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 18.
 
-Dichos programas deberán ser congruentes con el Ordenamiento Ecológico Nacional y Estatal según sea el caso, y serán elaborados por el Consejo, en el marco de los Sistemas Nacional y Estatal de Planeación.
+Dichos programas deberán ser congruentes con el Ordenamiento Ecológico Nacional y Estatal según sea el caso, y serán elaborados por la Secretaría, en el marco de los Sistemas Nacional y Estatal de Planeación.
 
 ###### Artículo 19.
 
@@ -483,6 +559,10 @@ VII.- En su elaboración, ejecución y evaluación se garantizará la participac
 
 Corresponde a los Ayuntamientos la autorización, el control y la vigilancia de los usos del suelo establecidos en los Programas de Ordenamiento Ecológico Territorial Municipal.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Procuraduría, a petición de los ayuntamientos, podrá celebrar convenios para ejercer la facultad de control y vigilancia a que hace referencia el presente Artículo.
+
 ###### Artículo 23.
 
 Para la formulación, aprobación, expedición, y modificación de los programas de ordenamiento ecológico, se estará a lo que establezca la presente Ley, las demás Leyes aplicables y el Reglamento que al efecto se expida, así mismo se sujetarán a los siguientes lineamientos:
@@ -499,11 +579,35 @@ III.- Una vez realizado el proceso de consulta, consensado y concluido el progra
 
 El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, diseñarán, desarrollarán y aplicarán instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental.
 
-El Consejo promoverá ante las instancias correspondientes el otorgamiento de estímulos a las personas físicas y morales que realicen acciones para la protección, preservación o restauración del equilibrio ecológico.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría promoverá ante las instancias correspondientes el otorgamiento de estímulos a las personas físicas y. morales que realicen acciones para la protección, preservación o restauración del equilibrio ecológico.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 25.
 
-Dichos instrumentos se crearán con la finalidad de generar recursos económicos para facilitar el cumplimiento de los objetivos de la Política Ambiental, establecida en el Plan Estatal de Desarrollo.
+Dichos instrumentos se crearán con las siguientes finalidades:
+
+I.- Generar un cambio en la conducta de las personas, tecnologías o productos, para que en el desarrollo de las actividades económicas y cotidianas, los intereses privados sean compatibles con el interés colectivo de la protección ambiental, la conservación del patrimonio natural y el uso sustentable de los recursos naturales.
+
+II.- Facilitar la identificación de los beneficios y costos ambientales derivados de las actividades económicas, así como incentivar a quien realice acciones de protección, preservación o restauración del equilibrio ecológico; y procurar que quien dañe el ambiente, haga uso indebido de los recursos naturales o altere los ecosistemas, asuma los costos asociados.
+
+III.- Generar información útil para la toma de decisiones relacionada con la preservación de los ecosistemas, y la salud y bienestar de la población.
+
+IV.- Generar recursos económicos para facilitar el cumplimiento de los objetivos de la Política Ambiental, establecida en el Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 25 Bis.
+
+Son instrumentos económicos los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas asumen los beneficios y costos ambientales que generen sus actividades económicas, incentivándolas a realizar acciones que favorezcan el ambiente.
+
+Son instrumentos económicos de carácter fiscal, los estímulos fiscales o gravámenes que incentiven el cumplimiento de los objetivos de la política ambiental.
+
+Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como al financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y protección al ambiente.
+
+Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas cuya preservación y protección se considere relevante desde el punto de vista ambiental.
 
 #### SECCIÓN CUARTA. NORMAS TÉCNICAS ECOLÓGICAS ESTATALES
 
@@ -525,21 +629,23 @@ V.- Fomentar actividades productivas en un marco de eficiencia y sustentabilidad
 
 En la formulación de la Normas Técnicas no deberán contravenir las disposiciones de las Normas Oficiales vigentes, ni otras disposiciones legales aplicables. Asimismo, deberán referirse a materias que sean de competencia Estatal o en su caso Municipal.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 28.
 
-La formulación de las Normas Técnicas, corresponderá al Consejo a través de un Comité Técnico y, previo a su aprobación, deberán someterse a un proceso de consulta pública, por un periodo de treinta días hábiles; transcurrido el plazo sin que se haya emitido consideración alguna, se procederá a su expedición mediante decreto y publicación en los términos señalados en el Reglamento de esta Ley.
+La formulación de las Normas Técnicas, corresponderá a la Secretaría a través de la Dirección General de Estudios Ambientales y, previo a su aprobación, deberán someterse a un proceso de consulta pública, por un periodo de treinta días hábiles; transcurrido el plazo sin que se haya emitido consideración alguna, se procederá a su expedición mediante decreto y publicación en los términos señalados en el Reglamento de esta Ley.
 
-El procedimiento para proponer, someter a consulta y formular Normas Técnicas, así como la integración y funcionamiento del Comité Técnico, se establecerá en el
-
-Reglamento de la presente Ley.
+El procedimiento para proponer, someter a consulta y formular Normas Técnicas, se establecerá en el Reglamento de la presente Ley.
 
 #### SECCIÓN QUINTA. DE LA EVALUACIÓN DEL IMPACTO AMBIENTAL
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 29.
 
-La evaluación del impacto ambiental es el procedimiento a través del cual se establecen las condiciones a que se sujetara la realización de las obras y actividades que pueden causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y restaurar y conservar los ecosistemas, a fin de evitar o reducir sus efectos negativos sobre el ambiente.
+La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establecerá las condiciones a que se sujetará la realización de las obras y actividades que pueden causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente y restaurar y conservar los ecosistemas, a fin de evitar o reducir sus efectos negativos sobre el ambiente.
 
-La manifestación de impacto ambiental será autorizada por la Secretaria, conforme al procedimiento previsto en el Reglamento de esta Ley.
+La manifestación de impacto ambiental será autorizada por la Secretaría, conforme al procedimiento previsto en el Reglamento de esta Ley.
 
 ###### Artículo 30.
 
@@ -593,13 +699,23 @@ XXIII.- Instalaciones dedicadas al acopio, almacenamiento selección y venta de 
 
 XXIV.- Así como aquellas obras o actividades que por acuerdos o convenios de colaboración o modificación al marco legal sean de competencia Estatal.
 
-El Reglamento de la presente Ley y los listados que para el efecto expida el Consejo determinarán los sectores y subsectores sujetos a la obtención de dicha autorización.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+El Reglamento de la presente Ley y los listados que para el efecto expida la Secretaría determinarán los sectores y subsectores sujetos a la obtención de dicha autorización.
 
 Cuando se trate de actividades que contemplen el manejo de combustibles o sustancias químicas, la manifestación deberá incluir el estudio de riesgo correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 31.
 
-Para obtener la autorización de impacto ambiental, los interesados deberán presentar al Consejo un informe preventivo o una manifestación de impacto ambiental.
+Para obtener la autorización de impacto ambiental, los interesados deberán presentar a la Secretaría un informe preventivo o una manifestación de Impacto ambiental.
+
+La manifestación de impacto ambiental deberán contener, por lo menos, una descripción exhaustiva del sitio donde se va a realizar la obra o actividad, los posibles efectos en el o los ecosistemas que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que conforman dichos ecosistemas, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
+
+Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de la obra o actividad respectiva, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta, en un plazo no mayor de 10 días les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente, que pudiesen ocasionar tales modificaciones, en terminas de lo dispuesto en esta Ley.
+
+Los contenidos del informe preventivo, así como las características y las modalidades de las manifestaciones de impacto ambiental y los estudios de riesgo serán establecidos por el Reglamento de la presente Ley.
 
 ###### Artículo 32.
 
@@ -611,23 +727,47 @@ II.- Las obras o actividades de que se trate estén expresamente previstas en lo
 
 III.- Se instalen en zonas o parques industriales autorizados en materia ambiental.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 33.
 
-Una vez analizando el informe preventivo, el Consejo, en un plazo no mayor de quince días hábiles, notificará al promovente:
+Una vez analizando el informe preventivo, la Secretaría, en un plazo no mayor de quince días hábiles, notificará al promovente:
 
-I.- Que se encuentra en los supuestos previstos en el Artículo 34 de este (sic) Ley; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+I.- Que se encuentra en los supuestos previstos en el Artículo 34 de este ordenamiento; y
 
 II.- Que se requiere de la presentación de una manifestación de impacto ambiental.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 34.
 
 Una vez presentada la manifestación de impacto ambiental, se iniciará el procedimiento de evaluación, para lo cual se revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento, las Normas Oficiales, Normas Técnicas aplicables; y se integrará el expediente respectivo en un plazo no mayor de cuarenta y cinco días hábiles.
 
-El Consejo podrá solicitar aclaraciones, rectificaciones o información adicional al contenido de la manifestación de impacto ambiental, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder de ese plazo, contados a partir de que ésta sea declarada por el Consejo.
+La Secretaría podrá solicitar aclaraciones, rectificaciones o información adicional al contenido de la manifestación de impacto ambiental, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder de ese plazo, contados a partir de que ésta sea declarada por la Secretaría.
+
+Una vez integrado el expediente, la Secretaría lo pondrá a disposición del público, con el fin de que pueda ser consultado por cualquier persona.
+
+Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
+
+La Secretaría, a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, conforme a las siguientes bases:
+
+I.- La Secretaría publicará la solicitud de autorización en materia de impacto ambiental en su Gaceta Ecológica. Asimismo, el promovente deberá publicar a su costa, un extracto del proyecto de la obra o actividad en un periódico de amplia circulación en la entidad federativa de que se trate, dentro del plazo de cinco días contados a partir de la fecha en que se presente la manifestación de impacto ambiental a la Secretaría;
+
+II.- Cualquier ciudadano, dentro del plazo de diez días contados a partir de la publicación del extracto del proyecto en los términos antes referidos, podrá solicitar a la Secretaría ponga a disposición del público en la Entidad Federativa que corresponda, la manifestación de Impacto ambiental;
+
+III.- Cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas, de conformidad con lo que señale el reglamento de la presente Ley, la Secretaría, en coordinación con las autoridades competentes podrá organizar una reunión pública de información en la que el promovente explicará los aspectos técnicos ambientales de la obra o actividad de que se trate;
+
+IV.- Cualquier interesado, dentro del plazo de veinte días contados a partir de que la Secretaría ponga a disposición del público la manifestación de impacto ambiental en los términos de la fracción I, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes; y
+
+V.- La Secretaría agregará las observaciones realizadas por los interesados al expediente respectivo y consignará, en la resolución que emita, el proceso de consulta pública y los resultados de las observaciones y propuestas que por escrito se hayan formulado.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 35.
 
-Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad el Consejo requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por diez días hábiles siempre que se justifique conforme a lo dispuesto en el Reglamento de la presente Ley.
+Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la Secretaría requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por diez días hábiles siempre que se justifique conforme a lo dispuesto en el Reglamento de la presente Ley.
 
 ###### Artículo 36.
 
@@ -645,11 +785,17 @@ b).- La obra o actividad de que se trate pueda propiciar que una o más especies
 
 c).- Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate.
 
-El Consejo podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en la autorización, cuando durante la realización de las obras puedan producirse daños a los ecosistemas.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condiciones establecidas en la autorización, cuando durante la realización de las obras puedan producirse daños a los ecosistemas.
 
 La resolución de la Secretaría solo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
 
 Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Contra la resolución administrativa que emita la Secretaría procederán los medios de impugnación previstos en el Artículo 232 de este ordenamiento.
 
 #### SECCIÓN SEXTA. RIESGO AMBIENTAL
 
@@ -658,6 +804,10 @@ Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la res
 El Reglamento de esta Ley y los listados que para el efecto se emitan, establecerá la clasificación de las Actividades que deban considerarse riesgosas en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas, de los materiales, sustancias o combustibles que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
 
 Aquellas actividades que sean clasificadas altamente riesgosas y que sean competencia de la Federación quedan exentas de este cumplimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría deberá actualizar y publicar el listado de actividades consideradas riesgosas a que hace referencia el primer párrafo del presente Artículo en un plazo no mayor a tres años.
 
 ###### Artículo 38.
 
@@ -669,17 +819,27 @@ Una vez presentado el estudio de riesgo y el programa de prevención de accident
 
 Sin perjuicio de lo dispuesto en la presente Ley en materia de estudios de riesgo, las personas que realicen actividades riesgosas no reservadas a la Federación, deberán observar las medidas preventivas, de control y correctivas, establecidas en las Normas Oficiales o determinadas por las Autoridades competentes conforme a la Ley de Protección Civil para el Estado de Hidalgo y las demás disposiciones aplicables, para prevenir y controlar accidentes que puedan afectar la integridad de las personas o del ambiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 40.
 
-Para evitar o reducir los riesgos ambientales con motivo de la realización de actividades riesgosas, corresponde al Consejo:
+Para evitar o reducir los riesgos ambientales con motivo de la realización de actividades riesgosas, corresponde a la Secretaría, en coordinación con la Procuraduría:
 
 I.- Evaluar y, en su caso aprobar, los estudios de riesgo ambiental y programa de atención a contingencias ambientales;
 
 II.- Establecer condiciones de operación y requerir la instalación de equipos o sistemas de seguridad;
 
-III.- Promover ante los responsables de la realización de las actividades riesgosas, la aplicación de la mejor tecnología disponible para evitar y minimizar los riesgos ambientales; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IV.- Tomar las medidas preventivas necesarias para evitar contingencias ambientales.
+III.- Promover ante los responsables de la realización de las actividades riesgosas, la aplicación de la mejor tecnología disponible para evitar y minimizar los riesgos ambientales;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- Tomar las medidas preventivas necesarias para evitar contingencias ambientales; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Notificar mensualmente a la Procuraduría sobre los estudios de riesgo ambiental, programas de atención a contingencias, condiciones de operación y características de equipos o sistemas de seguridad impuestos a empresas o personas físicas autorizados por esta dependencia, a fin de coadyuvar en su función de inspección y vigilancia.
 
 ###### Artículo 41.
 
@@ -697,9 +857,11 @@ V.- La infraestructura existente y necesaria para la atención de emergencias ec
 
 VI.- La infraestructura para la dotación de servicios básicos.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 42.
 
-El Consejo promoverá ante las Autoridades Locales competentes, que en los planes o programas de desarrollo urbano se establezca; que en las zonas donde se lleven a cabo actividades riesgosas no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
+La Secretaría promoverá ante las Autoridades Locales competentes, que en los planes o programas de desarrollo urbano se establezca; que en las zonas donde se lleven a cabo actividades riesgosas no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población.
 
 #### SECCIÓN SÉPTIMA. AUTORREGULACIÓN AMBIENTAL
 
@@ -707,7 +869,9 @@ El Consejo promoverá ante las Autoridades Locales competentes, que en los plane
 
 Los productores, empresas u organizaciones empresariales que cumplan con la normatividad vigente en materia ambiental podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ecológico y se comprometan a cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-El Consejo, en el ámbito de su competencia, concertará e inducirá:
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Secretaria, en coordinación con la Procuraduría concertará e inducirá:
 
 I.- El establecimiento y aplicación de sistemas de gestión ambiental en las empresas, así como su corresponsabilidad para el cumplimiento de objetivos sociales y ambientales en la Entidad;
 
@@ -723,15 +887,21 @@ V.- Las demás acciones que induzcan a las empresas a alcanzar objetivos de pol�
 
 Una vez que se ha solicitado la autorregulación y siempre que lo solicite el interesado, mediante el llenado de un cuestionario y la presentación de los documentos requeridos al efecto, podrá solicitar la realización de una visita de inspección voluntaria a la empresa.
 
-Integrado el expediente, se revisará la información y documentación aportada, así como el resultado de la inspección realizada y de ser procedente emitirá un certificado.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Integrado el expediente, la Procuraduría revisará la información y documentación aportada así como el resultado de la inspección realizada y de ser procedente emitirá un certificado.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 45.
 
-Las personas físicas o morales podrán solicitar al Consejo la expedición de un certificado para acreditar que sus actividades son compatibles con la protección al ambiente, previo el análisis correspondiente.
+Las personas físicas o morales podrán solicitar a la Procuraduría la expedición de un certificado para acreditar que sus actividades son compatibles con la protección al ambiente, previo el análisis correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 46.
 
-Sin perjuicio de lo dispuesto en los Artículos precedentes, el Consejo podrá en todo momento, de oficio o a petición fundada y motivada de cualquier interesado, ordenar la realización de visitas de inspección para cerciorarse del cumplimiento de las disposiciones de la presente Ley.
+Sin perjuicio de lo dispuesto en los Artículos precedentes, la Procuraduría podrá en todo momento, de oficio o a petición fundada y motivada de cualquier interesado, ordenar la realización de visitas de verificación o supervisión para cerciorarse del cumplimiento de las disposiciones de la presente Ley.
 
 El certificado solo tiene efectos declarativos y tendrá una vigencia de dos años, a partir de la fecha de su expedición.
 
@@ -741,9 +911,11 @@ El certificado solo tiene efectos declarativos y tendrá una vigencia de dos añ
 
 La Licencia Ambiental Estatal es el documento por el cual se concentran diversas obligaciones ambientales de los responsables de industrias y servicios que están sujetos a las disposiciones de esta Ley, mediante la tramitación de un solo procedimiento que ampare los permisos y autorizaciones referidos en la normatividad ambiental.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 48.
 
-Para obtener la Licencia Ambiental Estatal, los responsables de las industrias y servicios deberán presentar al Consejo, la solicitud correspondiente acompañada de la siguiente información:
+Para obtener la Licencia Ambiental Estatal, los responsables de las industrias y servicios deberán presentar a la Secretaría, la solicitud correspondiente acompañada de la siguiente información:
 
 I.- Datos generales del solicitante;
 
@@ -781,9 +953,13 @@ XII.- Equipos para el control de la contaminación que vayan a utilizarse; y
 
 XIII.- Programas de acciones para el caso de contingencias atmosféricas, que contenga las medidas y acciones que se llevarán a cabo cuando las condiciones meteorológicas de la región sean desfavorables, o cuando se presenten emisiones de contaminantes extraordinarias no controladas.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 49.
 
-La información a que se refiere el Artículo anterior deberá presentarse en el formato que determine el Consejo, quien podrá requerir la información adicional que considere necesaria y verificar en cualquier momento la veracidad de la misma.
+La información a que se refiere el Artículo anterior deberá presentarse en el formato que determine la Secretaría.
+
+La Procuraduría podrá requerir la información adicional que considere necesaria y verificar en cualquier momento la veracidad de la misma.
 
 Una vez presentada la solicitud e integrado el expediente, se deberá emitir la resolución correspondiente en un plazo de sesenta días hábiles, debidamente fundada y motivada. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá que la resolución se ha emitido en sentido negativo.
 
@@ -839,17 +1015,21 @@ I.- La formación de una cultura ambiental, dirigida a todos los sectores de la 
 
 II.- La organización de actividades culturales con los diferentes sistemas educativos del Estado, para propiciar que este sector participe en el cuidado de los recursos naturales.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 55.
 
-El Consejo a través del Centro de Información y Documentación del Medio Ambiente, integrará el Registro de Investigaciones y Estudios Ambientales.
+La Secretaría a través de la Dirección de Estudios Ambientales administrará el Centro de Información y Documentación del Medio Ambiente, donde se integrará el Registro de Investigaciones y Estudios Ambientales.
 
-Para el efecto quienes realicen investigaciones en materia ambiental con recursos públicos deberán registrarlas ante el Consejo y los que la realicen con recursos distintos podrán tramitar el registro de su investigación.
+Para el efecto quienes realicen investigaciones en materia ambiental con recursos públicos deberán registrarlas ante la Secretaría y los que la realicen con recursos distintos podrán tramitar el registro de su investigación.
 
 #### SECCIÓN DÉCIMA. SISTEMA DE INFORMACIÓN AMBIENTAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 56.
 
-El Consejo organizara el Sistema de Información Ambiental, el cual tendrá por objeto obtener, organizar, actualizar y difundir información relevante en la materia.
+La Secretaría organizará el Sistema Estatal de Información Ambiental, el cual tendrá por objeto obtener, organizar, actualizar y difundir información relevante en la materia.
 
 El registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
 
@@ -857,9 +1037,11 @@ El registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 El Sistema de Información Ambiental, se coordinará y complementará, en lo posible, con el Sistema Nacional de Información Ambiental y de Recursos Naturales, con el Instituto Nacional de Estadística, Geografía e Informática, y con las dependencias, organismos e instituciones académicas o de investigación involucradas en este campo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 58.
 
-El Sistema de Información Ambiental integrará información sobre:
+El Sistema Estatal de Información Ambiental integrará información sobre:
 
 I.- El estado y evolución de los ecosistemas;
 
@@ -895,23 +1077,33 @@ XVI.- El archivo de programas preventivos y correctivos derivados de la práctic
 
 XVII.- Los indicadores ambientales en la Entidad;
 
-XVIII.- Las denuncias ciudadanas presentadas ante el Consejo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XIX.- El catalogo de títulos que conforma el acervo existente en el Consejo; y
+XVIII.- Las denuncias ciudadanas presentadas ante la Procuraduría;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XIX.- El catálogo de títulos que conforma el acervo existente en la Secretaria y la Procuraduría; y
 
 XX.- Cualquier otro tema de interés relacionado con el ambiente.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 59.
 
-El Consejo publicará en la "Gaceta Ecológica", la cual será solo informativa y de interés general en materia ambiental, así como las disposiciones jurídicas, Decretos, Reglamentos y Acuerdos que se emitan en la materia.
+La Secretaría publicará en la "Gaceta Ecológica", la cual será solo informativa y de interés general en materia ambiental, así como las disposiciones jurídicas, Decretos, Reglamentos y Acuerdos que se emitan en la materia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 60.
 
-Toda persona tiene derecho a que las autoridades ambientales, le proporcionen la información contenida en el Sistema de Información Ambiental, salvo cuando:
+Toda persona tiene derecho a que las autoridades ambientales le proporcionen la información contenida en el Sistema Estatal de Información Ambiental, salvo cuando:
 
 I.- Se trate de información clasificada como reservada o confidencial en los términos previstos por la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo;
 
-II.- Se trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia, pendientes de resolución;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Se trate de información relativa a asuntos que son materia de procedimientos judiciales o de investigación, supervisión, verificación y vigilancia, pendientes de resolución;
 
 III.- Se trate de información sobre inventarios e insumos y tecnologías de proceso, incluyendo la descripción del mismo;
 
@@ -931,13 +1123,105 @@ Quien reciba información ambiental en los términos de esta sección, será res
 
 #### SECCIÓN DÉCIMA PRIMERA. ECOGUARDAS
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 62.
 
-El Consejo contará con personal denominado ecoguardas, que tendrán como propósito vigilar la aplicación, cumplimiento y ejecución del programa obligatorio de verificación vehicular, así como los diversos programas que se lleven a cabo. El Reglamento de esta Ley se establecerán sus obligaciones (sic).
+La Procuraduría contará con personal denominado ecoguardas, que tendrán como propósito vigilar la aplicación, cumplimiento y ejecución del programa obligatorio de verificación vehicular, así como los diversos programas que se lleven a cabo. El Reglamento de la Ley Orgánica de la Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial establecerá sus obligaciones.
 
-#### SECCIÓN PRIMERA. CARACTERÍSTICAS Y ZONIFICACIÓN DE LAS ÁREAS NATURALES PROTEGIDAS
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-#### SECCIÓN SEGUNDA. DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN DÉCIMA.- SEGUNDA (SIC). ESTRATEGIA ESTATAL DE CAMBIO CLIMÁTICO
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 62 Bis.
+
+La Estrategia Estatal de Cambio Climático es el documento marco para implementar las acciones específicas que permitan conocer la vulnerabilidad del Estado frente a los efectos de cambio climático así como las medidas de adaptación y mitigación que se requieren para enfrentar este fenómeno.
+
+La Secretaria, coordinará la integración la (sic) una Comisión Estatal Intersectorial de Cambio Climático que permita elaborar, implementar y evaluar la Estrategia Estatal de Cambio Climático, de conformidad con la normatividad aplicable.
+
+Dicha Comisión será creada por acuerdo del gobernador publicado en el Periódico Oficial del Estado. Tendrá su sede en la Ciudad de Pachuca de Soto, Hidalgo y en ella, se integrarán las Secretarías y Dependencias de la Administración Pública Estatal que incidan en el tema de cambio climático, de conformidad con la normatividad aplicable.
+
+La Secretaría, participará como parte de dicha Comisión con las funciones permanentes de Secretaría Técnica.
+
+La presidencia de dicha Comisión durará un año y deberá ser rotatoria entre los miembros de la misma, con excepción de la Secretaría, la cual solo podrá cubrir el cargo de Secretaría Técnica. Dicha Comisión tendrá dos años a partir de su creación para presentar al Ejecutivo una propuesta de Estrategia Estatal de Cambio Climático, la cual deberá publicar en el Periódico Oficial del Estado.
+
+A fin de garantizar su implementación el Consejo Estatal de Participación Ciudadana Ambiental y de Cambio Climático deberá conocer, dar seguimiento, evaluar y en su caso, recomendar los planes, programas y proyectos que se circunscriban como parte de la Estrategia.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+#### SECCIÓN DÉCIMA TERCERA. DE LA PARTICIPACIÓN CIUDADANA, EL CONSEJO ESTATAL DE PARTICIPACIÓN CIUDADANA AMBIENTAL Y DE CAMBIO CLIMÁTICO
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 62 Ter.
+
+El Consejo Estatal de Participación Ciudadana Ambiental y de Cambio Climático es un órgano permanente de opinión, consulta, concertación Social y, en su caso, emisor de recomendaciones a los Poderes del Estado y los ayuntamientos, en el diseño, ejecución y evaluación de las políticas, programas y acciones públicas en materia de protección al ambiente, desarrollo sustentable, ordenamiento territorial y cambio climático del Estado Su funcionamiento se regulará por el Reglamento Interior que para tal efecto se expida.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 62 Quater.
+
+El Consejo será integrado por:
+
+I.- Un Presidente, que será el Titular de Poder Ejecutivo del Estado.
+
+II.- Un Secretario Técnico, que será nombrado por el Congreso del Estado a propuesta del Presidente del Consejo, quien durará en su encargo tres años y deberá ser un Ciudadano del Estado de Hidalgo.
+
+Quien se proponga para tal efecto, deberá contar con experiencia en temas ambientales y/o de ordenamiento territorial y/o sustentabilidad y/o cambio climático: y
+
+III.- Los Consejeros siguientes:
+
+a).- Cuatro representantes de la sociedad civil;
+
+b).- Dos representantes del sector académico y Científico;
+
+c).- Dos representantes de las cámaras y asociaciones empresariales, industriales y/o comerciales del Estado;
+
+d).- Un representante de los H. ayuntamientos;
+
+e).- El Presidente de la Comisión de Medio Ambiente del Congreso del Estado;
+
+f).- El Presidente de la Comisión de Protección Civil del Congreso del Estado;
+
+g).- El Presidente de la Comisión de Salud del Honorable Congreso del Estado;
+
+h).- El Presidente de la Comisión de Asuntos Metropolitanos del Congreso del estado;
+
+i).- El Secretario de Medio Ambiente y Ordenamiento Territorial;
+
+j).- El Secretario de Obras, Comunicaciones y Transporte;
+
+k).- El Secretario de Salud del Estado;
+
+1).-El Director General de la Comisión Estatal del Agua;
+
+m).- El Director General de Protección Civil; y
+
+n).- El Procurador ambiental.
+
+Podrán participar con voz pero sin voto representantes de otras dependencias y entidades, las instituciones públicas o privadas y organizaciones sociales involucradas en el sector de medio ambiente cambio climático y desarrollo sustentable, a través de Invitación que les dirija el Secretario Técnico por acuerdo del Consejo. Se celebrarán como mínimo dos sesiones al año o cada vez que el Presidente o la mayoría de los miembros del Consejo lo soliciten por escrito.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Artículo 62 Quintus.- El Consejo tendrá las siguientes atribuciones:
+
+I.- Participar con su opinión y apoyo en la planeación, elaboración, adecuación y evaluación del Plan Estatal de Desarrollo en materia ambiental, ordenamiento territorial y cambio climático, conforme a lo dispuesto en el Sistema Estatal de Planeación Democrática;
+
+II.- Opinar y en su caso, recomendar lo procedente sobre los Planes y Programas, Sectoriales y Operativos Anuales en materia ambiental, ordenamiento territorial y cambio climático;
+
+III.- Elaborar propuestas en materia de políticas públicas, programas, estudios, obras y acciones especificas en materia ambiental, ordenamiento territorial, desarrollo sustentable y cambio climático, y presentarlas a la dependencia o dependencias de la administración pública estatal a fin de que sean consideradas en la planeación y programación de sus acciones de gobierno. Lo anterior de conformidad con lo previsto en el Reglamento interior del Consejo;
+
+IV.- Con base en la evaluación del cumplimiento de las metas previstas para el sector ambiental, desarrollo urbano y cambio climático realizado por la Secretaría, emitir las recomendaciones a las dependencias de la administración pública estatal que permitan ajustar sus (sic) planeación, programas y políticas a fin de alcanzar las metas establecidas;
+
+V.- Promover la concienciación y participación ciudadana en temas relacionados con el ambiente, ordenamiento territorial y cambio climático en el Estado;
+
+VI.- Promover, en coordinación con las dependencias de la administración pública estatal, el diseño y uso de instrumentos económicos que permitan alcanzar las metas del sector ambiental, desarrollo urbano y cambio climático en el Estado;
+
+VII.- Promover, en coordinación con las dependencias de la administración pública estatal correspondientes, la educación, investigación y difusión de los avances científicos y tecnológicos que existan sobre temas ambientales, de ordenamiento territorial, desarrollo sustentable y cambio climático; y
+
+VIII.- Las previstas en la normatividad aplicable.
 
 ## TÍTULO TERCERO. DE LA CONSERVACIÓN ECOLÓGICA
 
@@ -965,7 +1249,7 @@ V.- Proteger poblados, vías de comunicación y áreas agrícolas; y
 
 VI.- Proteger los entornos naturales de monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad de la región y de los pueblos indígenas.
 
-#### SECCIÓN PRIMERA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
+#### SECCIÓN PRIMERA. CARACTERÍSTICAS Y ZONIFICACIÓN DE LAS ÁREAS NATURALES PROTEGIDAS
 
 ###### Artículo 65.
 
@@ -975,7 +1259,17 @@ I.- Reservas Ecológicas Estatales;
 
 II.- Parques Estatales; y
 
-III.- Jardines Históricos.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+III.- Corredores Biológicos;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- Sitios RAMSAR; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Jardines Históricos, Botánicos, Orquidarios y/o Arboretos.
 
 ###### Artículo 66.
 
@@ -985,9 +1279,11 @@ I.- Zonas de Preservación Ecológica; y
 
 II.- Parques Urbanos Municipales o Jardines Públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 67.
 
-En el establecimiento, administración y manejo de las áreas naturales protegidas, el Consejo y los Ayuntamientos promoverán la participación de sus habitantes, propietarios o poseedores, pueblos indígenas y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de la biodiversidad Para tal efecto, las Autoridades competentes deberán suscribir con los interesados los convenios correspondientes.
+En el establecimiento, administración y manejo de las áreas naturales protegidas, la Secretaría y los Ayuntamientos promoverán la participación de sus habitantes, propietarios o poseedores, pueblos indígenas y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y preservación de la biodiversidad.
 
 Para tal efecto, las Autoridades competentes deberán suscribir con los interesados los convenios correspondientes.
 
@@ -1003,23 +1299,69 @@ Las superficies mejor conservadas de las áreas naturales protegidas, donde exis
 
 En las áreas naturales protegidas deberán determinarse la superficie o superficies que protejan la zona núcleo del impacto exterior, que serán señaladas como zonas de amortiguamiento, en donde sólo podrán realizarse actividades productivas emprendidas por los propietarios, poseedores o titulares de los derechos sobre tierras y las comunidades que allí habiten al momento de la expedición de la declaratoria respectiva o con su participación, que sean estrictamente compatibles con los objetivos, criterios y programas de aprovechamiento sustentable, en los términos del decreto respectivo y del programa de manejo que se formule y expida, considerando las previsiones de los programas de ordenamiento ecológico que resulten aplicables.
 
-#### SECCIÓN SEGUNDA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES MÓVILES
+#### SECCIÓN SEGUNDA. DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE ÁREAS NATURALES PROTEGIDAS
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 71.
 
-Las declaratorias para el establecimiento o modificación de las áreas naturales protegidas de competencia Estatal y/o Municipal, se expedirán mediante alcance decreto que al efecto expida el Ejecutivo de Estado, conforme a la Ley y demás disposiciones legales aplicables, o mediante certificado que expida el Consejo.
+Las declaratorias para el establecimiento o modificación de las áreas naturales protegidas de competencia Estatal y/o Municipal, se expedirán mediante decreto que al efecto expida el Ejecutivo del Estado, conforme a la Ley y demás disposiciones legales aplicables, o mediante certificado que expida la Secretaría.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 72.
 
-Previamente a la expedición de las declaratorias o de los certificados para el establecimiento de las áreas naturales protegidas, se deberá elaborar el programa de manejo y el estudio técnico correspondiente, mismo que deberá ser puesto a disposición para su consulta a la población beneficiada y Autoridades Locales.
+Previamente a la expedición de las declaratorias o de los certificados para el establecimiento de las áreas naturales protegidas, se deberá elaborar el programa de manejo y el estudio técnico correspondiente, mismo que deberá ser puesto a disposición para su consulta a la población beneficiada y Autoridades Locales. La convocatoria a esta consulta tendrá que hacerla de manera conjunta la Secretaría con el Consejo, de conformidad con lo previsto en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 72 Bis.
+
+La consulta a que se refiere el Artículo anterior será publicada por dos ocasiones, mediando un plazo de ocho días entre publicación y publicación, en el Periódico Oficial del Estado y en la Gaceta Ecológica.
+
+Dichas publicaciones tendrán efectos de notificación del inicio del procedimiento de declaratoria de área natural protegida con relación a las personas que se ostenten como propietarios, como poseedores de buena fe del predio o bien, que puedan tener algún derecho sobre parte del predio que sea afectado por la declaratoria.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 72 Ter.
+
+Transcurrido el plazo de quince días hábiles desde la última publicación en el Periódico Oficial y en la Gaceta Ecológica, sin que las personas a que se refiere el Artículo anterior comparezcan ante la Secretaría, se entenderá que tácitamente consienten la declaratoria de área natural protegida y en todo momento podrán coadyuvar con la Secretaría en su administración.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 72 Quater.
+
+Si las personas a que se refiere el Artículo 72 Bis de este ordenamiento se presentan ante la Secretaría a defender sus derechos, tendrán que exhibir un escrito en que expresarán lo siguiente:
+
+I.- El carácter con que se apersonan, adjuntando el título original o copia certificada que acredite tal carácter.
+
+II.- Las manifestaciones que tengan respecto a la declaratoria de área natural protegida.
+
+III.- Los documentos o elementos que considere necesarios para acreditar sus manifestaciones.
+
+Presentado el escrito y acreditado el carácter que ostenta el promovente, la Secretaría lo citará, por única ocasión a una audiencia informativa, en la que se desahogarán las manifestaciones expresadas por el promovente con relación a la declaratoria.
+
+La citación a la audiencia tendrá que hacerse al promovente por medio de notificación en términos de la Ley Estatal de Procedimiento Administrativo para el Estado de Hidalgo.
+
+En la audiencia, la Secretaría tendrá la obligación de explicar al promovente, qué implica que su predio sea declarado área natural protegida. La audiencia constará en un acta que será firmada por los que en ella intervinieron.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Artículo 72 Quintus.- Si el promovente no se presentare a la audiencia a pesar de haber sido notificado, se tendrá por desierta y se hará constar por acuerdo que se integre al expediente respectivo.
+
+Verificada o declarada desierta y desahogada la consulta a que se refiere el Artículo 72 de este ordenamiento, se procederá en términos del diverso 71.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 73.
 
-Los pueblos indígenas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante el Consejo o los Ayuntamientos, según corresponda, el establecimiento, en terrenos de ser propiedad, posesión o mediante convenio con terceros, de áreas naturales protegidas, cuando se trate de áreas destinadas a la preservación, protección y restauración de la biodiversidad. El Consejo o los Ayuntamientos, en su caso, promoverán ante el titular del Poder Ejecutivo del Estado la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promotor.
+Los pueblos indígenas, las organizaciones sociales, públicas o privadas, y demás personas interesadas, podrán promover ante la Secretaría o los Ayuntamientos, según corresponda, el establecimiento, en terrenos de su propiedad, posesión o mediante convenio con terceros, de áreas naturales, protegidas, cuando se trate de aéreas destinadas a la preservación, protección y restauración de la biodiversidad. La Secretaría o los Ayuntamientos, en su caso promoverán ante el titular del Poder Ejecutivo del Estado la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promotor.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 74.
 
-Los sujetos señalados en el Artículo anterior, podrán destinar voluntariamente los predios que les pertenezcan a acciones de preservación de los ecosistemas y su biodiversidad, para lo cual deberán realizar solicitud al Consejo.
+Los sujetos señalados en el Artículo anterior podrán destinar voluntariamente los Predios que les pertenezcan a acciones de preservación del patrimonio natural, para lo cual deberán realizarse solicitud a la Secretaría.
 
 ###### Artículo 75.
 
@@ -1041,21 +1383,29 @@ VI.- La causa de utilidad pública que en su caso justifique la expropiación de
 
 El certificado que emitan dichas autoridades, deberá contener, por lo menos, el nombre del promotor, la denominación del área respectiva, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, el plazo de vigencia. Dichos predios se consideraran en alguna de las categorías previstas por la ley.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 77.
 
-El Consejo y los Ayuntamientos vigilarán el cumplimiento del programa de manejo o estudio técnico en las áreas naturales protegidas.
+La Procuraduría y los Ayuntamiento, en el ámbito de sus respectivas competencias, vigilarán el cumplimiento del programa de manejo o estudio técnico en las áreas naturales protegidas.
 
 ###### Artículo 78.
 
 Los certificados y las declaratorias, así como un resumen de sus programas de manejo o estudios técnicos, deberán Publicarse en el Periódico Oficial del Estado, debiendo inscribirse en el Registro Público de la Propiedad y registradas en el Registro Estatal de Áreas Naturales Protegidas.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría deberá integrar dicho Registro al Sistema Estatal de Información Ambiental.
+
 ###### Artículo 79.
 
 Una vez establecida un área natural protegida sólo podrá ser modificada por la Autoridad que la haya establecido, siguiendo las mismas formalidades previstas en esta Ley, para la expedición de la declaratoria respectiva.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 80.
 
-En el caso de la renovación de un Certificado, tendrá que realizarse, por parte del Consejo: una vez que, éste determine su factibilidad en base a las condiciones de conservación que presente el área.
+En el caso de la renovación de un Certificado, tendrá que realizarse, por parte de la Secretaría, una vez que ésta determine su factibilidad en base a las condiciones de conservación que presente el área y después de recibir opinión favorable de la Procuraduría.
 
 ###### Artículo 81.
 
@@ -1085,33 +1435,49 @@ VIII.- Las demás actividades previstas en el decreto o certificado de creación
 
 Las áreas naturales protegidas podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad o posesión.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 84.
 
-El Consejo, en coordinación con los Ayuntamientos, prestará oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en las declaratorias de áreas naturales protegidas.
+La Secretaría, en coordinación con los Ayuntamientos, prestará de manera oportuna y gratuita a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en las declaratorias de áreas naturales protegidas.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 85.
 
-El Consejo y los ayuntamientos, según corresponda, tomando como base los estudios técnicos y socioeconómicos practicados, podrán solicitar a las autoridades competentes, la cancelación o revocación de permisos, licencias, concesiones o autorizaciones, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al equilibrio ecológico, dentro de un área natural protegida.
+La Secretaría, la Procuraduría y los ayuntamientos, según corresponda, tomando como base los estudios· técnicos y socioeconómicos practicados, podrán solicitar a las autoridades competentes, la cancelación o revocación de permisos, licencias, concesiones o autorizaciones, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al equilibrio ecológico, dentro de un área natural protegida.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 86.
 
-El titular del Poder Ejecutivo del Estado a través del Consejo y los ayuntamientos, en el ámbito de sus respectivas competencias:
+El titular del· Poder Ejecutivo del Estado, a través de la Secretaría y los ayuntamientos, en el ámbito de sus respectivas competencias:
 
 I.- Promoverán las inversiones públicas y privadas para el establecimiento y manejo de las áreas naturales protegidas;
 
 II.- Establecerán o, en su caso, promoverán la utilización de mecanismos para captar recursos y financiar o apoyar el manejo de las áreas naturales protegidas;
 
-III.- Establecerán los incentivos económicos para las personas, y las organizaciones sociales, públicas o privadas, que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten recursos para tales fines o destinen sus predios a acciones de preservación;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+III.- Establecerán los incentivos económicos para las personas, y las organizaciones sociales, públicas o privadas, que participen en la administración de las áreas naturales protegidas, así como para quienes aporten recursos para tales fines o destinen sus predios a acciones de preservación;
 
 IV.- Promoverán el Turismo Ecológico, que permitan su explotación en este rubro, de manera regulada; y
 
 V.- Establecerán o en su caso promoverán la utilización de mecanismos para fomentar la forestación, reforestación y cuidado de los bosques y lugares donde sea posible estos, en coordinación con las Autoridades Federales.
 
-###### Artículo 87.
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Una vez establecida un área natural protegida, el Consejo o los ayuntamientos, según corresponda, deberán designar un Consejo de Administración del área de que se trate, el que será responsable de ejecutar y evaluar el programa de manejo correspondiente, de conformidad con lo dispuesto en esta Ley y su Reglamento.
+La Procuraduría establecerá los incentivos económicos para las personas, y las organizaciones sociales, públicas o privadas, que participen en la vigilancia de las áreas naturales protegidas.
 
-El Consejo y los Ayuntamientos supervisarán y evaluarán el cumplimiento de los programas de manejo, estudios técnicos, decretos y certificados.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Articulo 87.
+
+Una vez establecida un área natural protegida, la Secretaría o los ayuntamientos, según corresponda, deberán designar un Consejo de Administración del área de que se trate, el que será responsable de ejecutar y evaluar el programa de manejo correspondiente, de conformidad con lo dispuesto en esta ley y su Reglamento.
+
+El Consejo de Administración a que hace referencia el presente artículo evaluará el cumplimiento de los programas de manejo así como la elaboración de estudios técnicos.
+
+La Procuraduría y los Ayuntamientos supervisarán y verificarán el cumplimiento de los programas de manejo, los decretos y certificados de las áreas naturales protegidas de su competencia.
 
 ###### Artículo 88.
 
@@ -1151,13 +1517,19 @@ VIII.- Zonificación; y
 
 IX.- Acciones de manejo.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 90.
 
-El Consejo, en coordinación con los dueños o poseedores, una vez que se cuente con el programa de manejo o estudio técnico respectivo, podrán invitar a grupos, organizaciones sociales, empresariales y demás personas físicas o morales interesadas, a coadyuvar en la administración de las áreas naturales protegidas. Para tal efecto, se deberán suscribir los convenios respectivos.
+La Secretaría, en coordinación con los dueños o poseedores, una vez que se cuente con el programa de manejo o estudio técnico respectivo, podrán invitar a grupos, organizaciones sociales, empresariales y demás personas físicas o morales interesadas, a coadyuvar en la administración de las áreas naturales protegidas, Para tal efecto, se deberán suscribir los convenios respectivos.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 91.
 
-El Consejo integrará el Sistema Estatal de Áreas Naturales Protegidas, en donde deberán registrarse los decretos y certificados mediante los cuales se declaren las áreas naturales protegidas y los instrumentos que los modifiquen.
+La Secretaría integrará el Sistema Estatal de Áreas Naturales Protegidas, en donde deberán registrarse los decretos y certificados mediante los cuales se declaren las áreas naturales protegidas y los instrumentos que los modifiquen.
+
+Dicho sistema se integrará al Sistema Estatal de Información Ambiental.
 
 ###### Artículo 92.
 
@@ -1169,31 +1541,41 @@ Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar l
 
 Los ingresos que se perciban por concepto del otorgamiento de permisos, autorizaciones y licencias en materia de áreas naturales protegidas, conforme lo determinen los ordenamientos aplicables, se destinarán a la realización de acciones de preservación y restauración de la biodiversidad dentro de las áreas en las que se generen dichos ingresos.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 94.
 
-La violación a las disposiciones contenidas en las declaratorias y certificados de áreas naturales protegidas y los programas de manejo y estudios técnicos correspondientes, será sancionada conforme a las disposiciones legales aplicables.
+Corresponde a la Procuraduría aplicar las medidas y sanciones correspondientes derivadas de la violación a las disposiciones contenidas en las declaratorias y certificados de áreas naturales protegidas y los programas de manejo y estudios técnicos correspondientes.
 
 ### CAPÍTULO II. FLORA Y FAUNA SILVESTRE
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 95.
 
-Corresponde al Estado y a los Municipios en el ámbito de sus respectivas competencias, y en coordinación con las Autoridades Federales competentes, promover y realizar las acciones que le correspondan para la conservación, repoblamiento y aprovechamiento racional de la flora y fauna silvestre.
+Corresponde al Estado a través de la Secretaría y a los Municipios en el ámbito de sus· respectivas competencias, en coordinación con las Autoridades Federales competentes de conformidad con lo establecido en los Convenios que para tal efecto se determinen, promover y realizar las acciones que le correspondan para, el conocimiento, la conservación, repoblamiento y aprovechamiento sustentable de la vida silvestre.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 96.
 
-El Estado y los Municipios, coadyuvarán con las autoridades federales para la prevención y erradicación del tráfico de especies de flora y fauna silvestres, de conformidad con la Legislación aplicable.
+El Estado a través de la Procuraduría, y los Municipios, coadyuvarán con las autoridades competentes para la prevención y erradicación del tráfico de vida silvestre, de conformidad con la legislación aplicable.
 
 ###### Artículo 97.
 
 Los Ayuntamientos, de acuerdo a su competencia, podrán autorizar el derribo, poda o transplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares, cuando se requiera para la salvaguarda de la Integridad de las personas o sus bienes.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 98.
 
-Para la preservación y aprovechamiento sustentable de la flora y fauna silvestre en el Estado, se considerarán los criterios establecidos en la Ley General.
+Para la preservación y aprovechamiento sustentable de la vida silvestre en el Estado, se considerarán los criterios establecidos en la Ley General de Vida Silvestre y la Ley de Protección y Trato Digno para los Animales en el Estado de Hidalgo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 99.
 
-Para coadyuvar a la conservación y aprovechamiento sustentable de la flora y fauna, el Consejo, previo los estudios correspondientes, podrá promover ante las autoridades federales competentes:
+Para coadyuvar a la conservación y aprovechamiento sustentable de la vida silvestre, la Secretaría y/o la Procuraduría, previo los estudios correspondientes, podrán promover ante las autoridades federales competentes:
 
 I.- El establecimiento de vedas o modificación de vedas;
 
@@ -1201,25 +1583,33 @@ II.- La propuesta de declaración de especies amenazadas, raras, en peligro de e
 
 III.- La creación de áreas de refugio para protección de las especies de flora y fauna; y
 
-IV.- La modificación o revocación de concesiones, permisos y, en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación y desarrollo de la flora y fauna silvestres.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- La modificación o revocación de concesiones, permisos y, en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación y desarrollo de la vida silvestre.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 100.
 
-El aprovechamiento de los recursos naturales en áreas que sean el hábitat de especies de flora o fauna silvestres, especialmente de las endémicas, amenazadas o en peligro de extinción, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
+El aprovechamiento de los recursos naturales en áreas que sean el hábitat de especies de vida silvestres, especialmente de las endémicas, amenazadas o en peligro de extinción, deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies.
 
-El Consejo deberá promover y apoyar el manejo de la flora y fauna silvestre, con base en el conocimiento biológico tradicional, información técnica, científica y económica, con el propósito de hacer un aprovechamiento sustentable de las especies.
+La Secretaría deberá promover y apoyar el manejo de la vida silvestre, con base en el conocimiento biológico tradicional, información técnica, científica y económica, con el propósito de hacer un aprovechamiento sustentable de las especies.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 101.
 
-El Consejo promoverá ante la Autoridad Federal competente, el establecimiento de medidas de regulación o restricción, en forma total o parcial a la exportación o importación de la flora y fauna silvestre que se encuentran dentro del Territorio del Estado de Hidalgo.
+La Secretaría promoverá ante la Autoridad Federal competente, el establecimiento de medidas de regulación o restricción, en forma total o parcial a la exportación o importación de la vida silvestre que se encuentran dentro del Territorio del Estado de Hidalgo. La Secretaría podrá, a petición de la Procuraduría, solicitar la regulación o restricción a que se hace referencia en el párrafo anterior.
 
 ## TÍTULO CUARTO. PROTECCIÓN AL AMBIENTE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 102.
 
-El Consejo y los Municipios, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo con materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones que en materia ambiental se tramiten ante la Autoridad competente del Gobierno del Estado y en su caso, de los Municipios.
+La Secretaría y los Municipios, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo con materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones que en materia ambiental se tramiten ante la Autoridad competente del Gobierno del Estado y en su caso, de los Municipios.
 
 Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro. La información del registro se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
 
@@ -1227,9 +1617,11 @@ Las personas físicas y morales responsables de fuentes contaminantes están obl
 
 Quienes realicen actividades contaminantes deberán asumir las medidas que se establezcan para minimizar la emisión de contaminantes y habrán de proporcionar toda información que le sea requerida por las autoridades competentes a fin de dar cumplimiento con lo señalado en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 104.
 
-El Consejo y las Autoridades Municipales, establecerán los mecanismos y procedimientos necesarios, con el propósito de que los interesados puedan realizar sus trámites.
+La Secretaría y las Autoridades Municipales, establecerán los mecanismos y procedimientos necesarios, con el propósito de que los interesados puedan realizar sus trámites.
 
 ### CAPÍTULO II. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
@@ -1241,63 +1633,89 @@ I.- La calidad del aire debe ser satisfactoria en todos los asentamientos humano
 
 II.- Las emisiones de contaminantes a la atmósfera, sean de fuentes fijas, naturales o móviles, deben ser reducidas y controladas para asegurar la calidad del aire, para el bienestar de la población y el equilibrio ecológico.
 
-El Consejo es competente para aplicar y vigilar la observancia de las disposiciones de esta Ley que se refieren a la contaminación atmosférica generada por establecimientos industriales, servicios y vehículos automotores. Los Ayuntamientos serán competentes cuando las emisiones a la atmósfera provengan de fuentes diversas a las anteriormente señaladas.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-#### SECCIÓN TERCERA. QUEMAS A CIELO ABIERTO
+La Procuraduría es competente para aplicar y vigilar la observancia de las disposiciones de esta que se refieren a la contaminación atmosférica generada por establecimientos industriales, servicios y vehículos automotores. Los ayuntamientos serán competentes cuando las emisiones a la atmósfera provengan de fuentes diversas a las anteriormente señaladas.
+
+#### SECCIÓN PRIMERA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES FIJAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 106.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, se requerirá la Licencia Ambiental Estatal que expedirá el Consejo a los interesados que demuestren cumplir con los requisitos y límites determinados en las normas correspondientes y cumplir además con las siguientes obligaciones:
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores gases o partículas solidas o líquidas a la atmosfera, se requerirá la Licencia Ambiental Estatal que expedirá la Secretaría a los Interesados que demuestren cumplir con los requisitos y límites determinados en las normas correspondientes y cumplir además con las siguientes obligaciones:
 
 I.- Canalizar las emisiones a través de conductos que permitan su control y medición;
 
 II.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que no rebasen los niveles máximos permisibles establecidos en las Normas Oficiales y las Normas Técnicas correspondientes;
 
-III.- Integrar un inventario anual de sus emisiones contaminantes a la atmósfera, en el formato que determine al Consejo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+III.- Integrar un inventario anual de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría;
 
 IV.- Instalar plataformas y puertos de muestreo en chimeneas para realizar la medición de emisiones en campo, de acuerdo a lo establecido en las Normas correspondientes;
 
-V.- Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine al Consejo y remitir a ésta la información que se determine en el Reglamento, a fin de demostrar que opera dentro de los límites permisibles;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VI.- Realizar monitoreo perimetral de emisiones a la atmósfera cuando por sus características de operación, el Consejo lo considere necesario;
+V.- Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine la Secretaría, en coordinación con la Procuraduría, y remitir a ésta la información que se determine en el Reglamento, a fin de demostrar que opera dentro de los límites permisibles;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- Realizar monitoreo perimetral de emisiones a la atmósfera cuando por sus características de operación, la Secretaría o la Procuraduría lo considere necesario;
 
 VII.- Llevar una bitácora de operación y mantenimiento de sus equipos de combustión, de proceso y de control;
 
-VIII.- Dar aviso anticipado al Consejo del inicio de operación de sus procesos, en el caso de paros programados y de inmediato en el caso de que estos sean circunstanciales, si ellos pueden provocar contaminación;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IX.- Dar aviso inmediato al Consejo en el caso de falla del equipo o sistema de control; y
+VIII.- Dar aviso anticipado a la Secretaría y la Procuraduría del inicio de operación de sus procesos, en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales, si ellos pueden provocar contaminación;
 
-X.- Sujetarse a la verificación del Consejo o bien autorregularse de acuerdo a lo señalado en ésta Ley o su Reglamento.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-###### Artículo 107.
+IX.- Dar aviso inmediato a la Secretaría y la Procuraduría en el caso de falla del equipo o sistema de control; y
 
-En materia de prevención y control de la contaminación atmosférica producida por fuentes fijas, el Consejo establecerá las medidas preventivas y correctivas para reducir las emisiones contaminantes; y promoverá ante los responsables de operación de las fuentes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X.- Sujetarse a la verificación de la Procuraduría y, en su caso, autorregularse (sic), de acuerdo a lo señalado en la normatividad competente.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Articulo 107.
+
+En materia de prevención y control de la contaminación atmosférica producida por fuentes fijas, la Secretaría establecerá las medidas preventivas y correctivas para reducir las emisiones contaminantes; y promoverá ante los responsables de operación de las fuentes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera.
 
 Serán sujetas del cumplimiento antes referido, aquellas emisiones que aun no estando normadas, puedan causar daños al medio ambiente o a la salud de la población.
 
-###### Artículo 108.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-El Consejo con la participación de los Ayuntamientos y, en su caso, la iniciativa privada establecerán y operarán sistemas de monitoreo de la calidad del aire, soportados con los programas respectivos, considerando lo establecido en las normas técnicas vigentes, sean Federales o Estatales.
+###### Articulo 108.
+
+La Secretaria, en coordinación con la Procuraduría con la participación de los Ayuntamientos y, en su caso, la iniciativa privada establecerán y operarán sistemas de monitoreo de la calidad del aire, soportados con los programas respectivos, considerando lo establecido en las normas técnicas vigentes, sean Federales o Estatales.
 
 ###### Artículo 109.
 
 Las emisiones de contaminantes generadas por fuentes móviles, que circulen en el Territorio Estatal, no deberán rebasar los límites máximos permisibles señalados en las Normas Oficiales y/o Normas Técnicas.
 
-###### Artículo 110.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Los propietarios o poseedores de vehículos automotores, verificarán periódicamente estos, con el propósito de controlar, en la circulación de los mismos, las emisiones contaminantes. Dicha verificación deberá efectuarse en los periodos y centros de verificación vehicular autorizados por el Consejo.
+###### Articulo 110.
+
+Los propietarios o poseedores de vehículos automotores, verificarán periódicamente éstos, con el propósito de controlar, en la circulación de los mismos, las emisiones contaminantes. Dicha verificación deberá efectuarse en los periodos y centros de verificación vehicular autorizados por la Secretaría.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 111.
 
-El Consejo podrá limitar la circulación de vehículos automotores en el Estado de Hidalgo, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, para prevenir y reducir las emisiones contaminantes, en los términos de las disposiciones jurídicas aplicables.
+La Procuraduría podrá limitar la circulación de vehículos automotores en el Estado de Hidalgo, incluyendo los que cuenten con placas expedidas por la Secretaría de Comunicaciones y Transportes, por otras entidades federativas o por el extranjero, para prevenir y reducir las emisiones contaminantes, en los términos de las disposiciones jurídicas aplicables.
 
 ###### Artículo 112.
 
 El propietario o poseedor del vehículo deberá pagar al centro de verificación respectivo la tarifa autorizada, en los términos del programa de verificación vehicular obligatoria para el Estado.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 113.
 
-Si los vehículos en circulación rebasan los límites máximos permisibles de emisiones contaminantes fijadas por las normas correspondientes, o bien no porten el certificado de verificación vehicular vigente, serán retirados de la circulación por el Consejo, hasta que acredite su cumplimiento.
+Si los vehículos en circulación rebasan los límites máximos permisibles de emisiones contaminantes fijadas por las normas correspondientes, o bien no porten él certificado de verificación vehicular vigente, serán retirados de la circulación por la Procuraduría, hasta que acredite su cumplimiento.
 
 ###### Artículo 114.
 
@@ -1309,13 +1727,17 @@ Oficiales o las Normas Técnicas de acuerdo con el Artículo anterior, tendrá u
 
 Los vehículos que transporten en el Estado de Hidalgo materiales o residuos peligrosos, unidades de valores, mensajería, transporte especializado, deberán cumplir con los requisitos y condiciones establecidos en esta ley y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 116.
 
-Los vehículos que presten el servicio público de transporte o carga en el Estado, deberán utilizar las fuentes de energía, sistemas y equipos que determine el Consejo en coordinación con la dependencia correspondiente, para prevenir o minimizar sus emisiones contaminantes.
+Los vehículos que presten el servicio público de transporte o carga en el Estado, deberán utilizar las fuentes de energía, sistemas y equipos que determine la Secretaría en coordinación con la Procuraduría y demás dependencias competentes, para prevenir o minimizar sus emisiones contaminantes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 117.
 
-El Consejo expedirá anualmente el Programa Obligatorio de Verificación Vehicular, mismo que deberá contener:
+La Secretaría expedirá anualmente el Programa Obligatorio de Verificación Vehicular, mismo que deberá contener:
 
 I.- La periodicidad con la que deberán verificarse las emisiones contaminantes de vehículos automotores que circulan por el Territorio del Estado;
 
@@ -1327,17 +1749,21 @@ IV.- En general, las reglas técnicas y administrativas a que deberá sujetarse 
 
 V.- Los demás que se especifiquen en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 118.
 
-Los propietarios o poseedores que se presenten a verificar sus vehículos fuera de los plazos señalados en el programa correspondiente serán acreedores a una multa, y por ello serán sancionados en los términos de este ordenamiento y demás instrumentos normativos aplicables.
+Los propietarios o poseedores que se presenten a verificar sus vehículos fuera de los plazos señalados en el programa correspondiente serán acreedores a una multa, y por ello serán sancionados por la Procuraduría en los términos de este ordenamiento y demás instrumentos normativos aplicables.
 
-#### SECCIÓN PRIMERA. DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
+#### SECCIÓN SEGUNDA. EMISIÓN DE CONTAMINANTES GENERADOS POR FUENTES MÓVILES
 
-#### SECCIÓN SEGUNDA. DE LOS MICRO-GENERADORES DE RESIDUOS PELIGROSOS
+#### SECCIÓN TERCERA. QUEMAS A CIELO ABIERTO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 119.
 
-Queda prohibida la quema de cualquier tipo de material o residuo sólido o líquido a cielo abierto, salvo en los siguientes casos y previo aviso al Consejo:
+Queda prohibida la quema de cualquier tipo de material o residuo sólido o líquido a cielo abierto, salvo en los siguientes casos y previo aviso a la Procuraduría:
 
 I.- Para acciones de adiestramiento y capacitación de personal encargado del combate de incendios;
 
@@ -1345,13 +1771,17 @@ II.- Cuando con esta medida se evite un riesgo mayor a la comunidad o los elemen
 
 III.- En caso de quemas agrícolas, cuando medie autorización de alguna autoridad forestal o agropecuaria.
 
-El Consejo establecerá las condicionantes y medidas de seguridad que deberán observarse.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría establecerá las condicionantes y medidas de seguridad que deberán observarse.
 
 ### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 120.
 
-Corresponde al Estado, a sus Municipios y a sus habitantes, prevenir y controlar la contaminación del suelo en el Territorio de la Entidad.
+Corresponde al Estado, a través de las autoridades ambientales, a sus Municipios y a sus habitantes, prevenir y controlar la contaminación del suelo en el Territorio de la Entidad.
 
 ###### Artículo 121.
 
@@ -1375,9 +1805,15 @@ II.- La operación de los sistemas de recolección, traslado, manejo y disposici
 
 III.- Las autorizaciones para la instalación y operación de rellenos sanitarios.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 123.
 
-El Estado autorizará y vigilará la adecuada operación de los sistemas de manejo y disposición final de los residuos de manejo especial, con arreglo a las disposiciones aplicables en la materia.
+El Estado a través de la Secretaría, emitirá las normas técnicas para la operación de los sistemas de manejo y disposición final de los residuos de manejo especial, con arreglo a las disposiciones aplicables en la materia.
+
+La Secretaría autorizará la operación de los sistemas de manejo y disposición final de los residuos de manejo especial, con arreglo a las disposiciones aplicables en la materia.
+
+La Procuraduría vigilará la adecuada operación de los sistemas de manejo y disposición final de los residuos de manejo especial, con arreglo a las disposiciones aplicables en la materia.
 
 ###### Artículo 124.
 
@@ -1407,17 +1843,25 @@ III.- Las alteraciones en el suelo que perjudiquen su aprovechamiento, uso o exp
 
 Los Ayuntamientos son responsables del manejo integral de los residuos sólidos urbanos que consiste en la recolección, traslado, tratamiento y su disposición final, debiendo observar las disposiciones aplicables en la materia expedida sobre los sitios, el diseño, la construcción y la operación de las instalaciones.
 
+#### SECCIÓN PRIMERA. DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 128.
 
-Corresponde al Municipio el establecimiento y aplicación de las disposiciones jurídicas en materia de residuos sólidos urbanos y al Estado la regulación de los residuos de manejo especial provenientes de procesos productivos.
+Corresponde al Municipio el establecimiento y aplicación de las disposiciones jurídicas en materia de residuos sólidos urbanos y al Estado, a través de la Secretaría la regulación de los residuos de manejo especial provenientes de procesos productivos.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 129.
 
-Las personas físicas o morales generadoras de residuos de manejo especial deberán presentar el manifiesto correspondiente, así como tramitar la Licencia Ambiental Estatal e ingresar ante el Consejo sus planes y programas de manejo que definan acciones y medidas para la prevención, control, minimización, reuso y reciclaje de sus residuos, su informe de avances y logros de forma anual, el cual podrá ser modificado a fin de lograr objetivos de protección al ambiente.
+Las personas físicas o morales generadoras de residuos de manejo especial deberán presentar el manifiesto correspondiente, así como tramitar la Licencia Ambiental Estatal e ingresar ante la Secretaría sus planes y programas de manejo que definan acciones y medidas para la prevención, control, minimización, reutilización y reciclaje de sus residuos, su informe de avances y logros de forma anual, el cual podrá ser modificado a fin de lograr objetivos de protección al ambiente.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 130.
 
-El Consejo emitirá los listados de los residuos de manejo especial sujetos a planes de manejo, que se Publicarán en el Periódico Oficial del Estado y en la Gaceta Ecológica.
+La Secretaría emitirá los listados de los residuos de manejo especial sujetos a planes de manejo, que se Publicarán en el Periódico Oficial del Estado y en la Gaceta Ecológica.
 
 ###### Artículo 131.
 
@@ -1443,13 +1887,17 @@ Para la protección al ambiente, con motivo de la operación de sitios destinado
 
 Se prohíbe la incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado.
 
+#### SECCIÓN SEGUNDA. DE LOS MICRO-GENERADORES DE RESIDUOS PELIGROSOS
+
 ###### Artículo 134.
 
 Son considerados micro-generadores los establecimientos industrial, comercial o de servicios que generen una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 135.
 
-Los micro-generadores de residuos peligrosos, están obligados a registrarse ante el Consejo y los Municipios, según corresponda; sujetándose a los planes de manejo y condiciones que se establezcan para tal fin; así como llevar sus propios residuos peligrosos en los centros de acopio autorizados o enviarlos a través de transporte autorizado, de conformidad con las disposiciones legales aplicables.
+Los micro-generadores de residuos peligrosos, están obligados a registrarse ante la Secretaría y los Municipios, según corresponda; sujetándose a los planes de manejo y condiciones que se establezcan para tal fin; así como llevar sus propios residuos peligrosos a los centros de acopio autorizados o enviarlos a través de transporte autorizado, de conformidad con las disposiciones legales aplicables.
 
 ###### Artículo 136.
 
@@ -1460,6 +1908,14 @@ La obligación del Artículo anterior, estará sujeta a los convenios de colabor
 ###### Artículo 137.
 
 La prevención y control de la contaminación del agua, les corresponde a los organismos públicos que administren el agua del Estado y los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La verificación, supervisión y vigilancia en materia de aguas de competencia Estatal y a petición de los ayuntamientos previo convenio, de aguas de Jurisdicción municipal, así como la determinación de medidas precautorias, correctivas o compensatorias y/o sanciones corresponde (sic) a la Procuraduría.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La aplicación de medidas y/o sanciones por el incumplimiento de lo dispuesto en el presente Capitulo se sujetarán a lo dispuesto por la presente Ley.
 
 Las disposiciones contenidas en el presente Artículo son aplicables a las descargas de aguas residuales que se viertan a los cuerpos de agua, a los sistemas de drenaje y alcantarillado de los municipios, observando las disposiciones contenidas en esta Ley y demás disposiciones aplicables.
 
@@ -1501,9 +1957,11 @@ II.- Cuando la acción se encuentre sujeta a límites y controles en las normas 
 
 ### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN OCASIONADA POR RUIDO, VIBRACIONES, ENERGÍA TÉRMICA, LUMÍNICA Y OLORES
 
-###### Artículo 142.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Quedan prohibidas las emisiones de ruido, vibraciones, olores, energía térmica y lumínica, cuando rebasen los limites máximos establecidos en las Normas Oficiales y Normas Técnicas, considerando los valores de concentración máxima permisibles para el ser humano y de contaminantes en el ambiente que determine la autoridad competente, quienes adoptarán las medidas para impedir que se trasgredan dichos limites y en su caso se aplicarán las sanciones correspondientes.
+###### Articulo 142.
+
+Quedan prohibidas las emisiones de ruido, vibraciones, olores, energía térmica y Lumínica, cuando rebasen los límites máximos establecidos en las Normas Oficiales y Normas Técnicas considerando los valores de concentración máxima permisibles para el ser humano y de contaminantes en el ambiente que determine la Secretaría o la autoridad competente. La Procuraduría o en su caso la autoridad competente, adoptará las medidas para impedir que se trasgredan dichos limites y en su caso aplicará las medidas y/o sanciones correspondientes.
 
 En la construcción de obras o instalaciones que generen energía térmica o lumínica, olores, ruido o vibraciones, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
 
@@ -1533,11 +1991,13 @@ IV.- Reportar semestralmente ante la Autoridad competente los datos del registro
 
 ### CAPÍTULO VI. CONTAMINACIÓN VISUAL Y PROTECCIÓN DEL PAISAJE
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 146.
 
-Las Autoridades Ambientales emitirán las disposiciones generales con el propósito de evitar el deterioro del paisaje natural en las zonas con valor escénico y la contaminación visual en los centros de población. Por su parte, los Municipios deberán incorporar en sus Bandos de Policía y Gobierno, Reglamentos y disposiciones que regulen obras, actividades y anuncios publicitarios con el fin de evitar la contaminación visual en los centros de población.
+La Secretaría emitirá las disposiciones generales con el propósito de evitar el deterioro del paisaje natural en las zonas con valor escénico y la contaminación visual en los centros de población. Por su parte, los Municipios deberán incorporar en sus Bandos de Policía y Gobierno, Reglamentos y disposiciones que regulen obras, actividades y anuncios publicitarios con el fin de evitar la contaminación visual en los centros de población.
 
-El Consejo y los Municipios determinarán las zonas que tengan un valor escénico o de paisaje natural, y regularán y autorizará los tipos de obras o actividades que se puedan realizar dentro de éstas con el propósito de evitar su deterioro.
+La Secretaría y los Municipios determinarán las zonas que tengan un valor escénico o de paisaje natural, y regularán y autorizará los tipos de obras o actividades que se puedan realizar dentro de éstas con el propósito de evitar su deterioro.
 
 ###### Artículo 147.
 
@@ -1545,13 +2005,17 @@ Queda prohibido la alteración ocasionada a la imagen urbana a través de las pi
 
 ### CAPÍTULO VII. DE LAS CONTINGENCIAS AMBIENTALES
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 148.
 
-El Estado y los Municipios, de manera coordinada, participarán y tomarán las medidas necesarias para hacer frente a las situaciones de contingencia ambiental, conforme a las políticas y programas en materia ambiental, así como de protección civil que establezca el Ejecutivo del Estado.
+El Estado a través de las autoridades ambientales y los municipios, de manera coordinada, participarán y tomarán las medidas necesarias para hacer frente a las situaciones de contingencia ambiental, conforme a las políticas y programas en materia ambiental, así como de protección civil que establezca el Ejecutivo del Estado.
 
-###### Artículo 149.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Las Autoridades competentes declararán contingencia ambiental cuando se presente una concentración de contaminantes o un riesgo ambiental, derivado de actividades humanas o fenómenos naturales, que puedan afectar la salud de la población o el ambiente, de acuerdo con las normas y elementos técnicos aplicables.
+###### Articulo 149.
+
+La Secretaría o las autoridades competentes, declararán contingencia ambiental cuando se presente una concentración de contaminantes o un riesgo ambiental, derivado de actividades humanas o fenómenos naturales, que puedan afectar la salud de la población o el ambiente, de acuerdo con las normas y elementos técnicos aplicables.
 
 ###### Artículo 150.
 
@@ -1567,11 +2031,13 @@ En situación de contingencia ambiental, los responsables de las fuentes de cont
 
 ### CAPÍTULO VIII. DE LOS CENTROS DE VERIFICACIÓN VEHICULAR
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 153.
 
-El Consejo, atendiendo a las necesidades de los servicios de verificación de vehículos automotores, expedirá, previa convocatoria pública, autorizaciones a los interesados que cumplan los requisitos correspondientes.
+La Secretaría, atendiendo a las necesidades de los servicios de verificación de vehículos automotores, expedirá, previa convocatoria pública, autorizaciones a los interesados que cumplan los requisitos correspondientes.
 
-El Consejo publicará las convocatorias en el Periódico Oficial del Estado y en un diario de circulación Estatal, en las cuales se determinarán los elementos materiales, humanos y demás condiciones que deberán reunir los interesados en obtener la autorización para operar los centros de verificación.
+La Secretaría publicará las convocatorias en el Periódico Oficial del Estado y en un diario de circulación Estatal, en las cuales se determinarán los elementos materiales, humanos y demás condiciones que deberán reunir los interesados en obtener la autorización para operar los centros de verificación.
 
 ###### Artículo 154.
 
@@ -1581,9 +2047,11 @@ La solicitud, evaluación, autorización, funcionamiento y en su caso la termina
 
 Los centros de verificación vehicular deberán obtener y mantener vigente una fianza para garantizar el cumplimiento de las obligaciones y condiciones establecidas en este Ley, su Reglamento y demás disposiciones aplicables y deberán mantener sus instalaciones y equipos en un estado de funcionamiento que permita la adecuada prestación del servicio.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 156.
 
-El Consejo podrá realizar visitas de inspección a efecto de constatar el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y en los lineamientos normativos para la Operación de la Red Estatal de Centros de Verificación Vehicular, Manual de Imagen Interior y Exterior de la Red Estatal de Verificación Vehicular, el Programa de Verificación Vehicular Obligatoria para el Estado de Hidalgo, la Norma Oficial Mexicana y Técnicas Ecológicas.
+La Procuraduría podrá realizar visitas de inspección a efecto de constatar el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y en los lineamientos normativos para la Operación de la Red Estatal de Centros de Verificación Vehicular Manual de Imagen Interior y Exterior de la Red Estatal de Verificación Vehicular, el programa de Verificación Vehicular Obligatoria para el Estado de Hidalgo, la Norma Oficial Mexicana y Técnicas Ecológicas.
 
 ###### Artículo 157.
 
@@ -1597,31 +2065,49 @@ III.- Mantener sus instalaciones y equipos en las condiciones requeridas por el 
 
 IV.- Llevar un registro con la información de las verificaciones efectuadas y remitir al Consejo los datos obtenidos;
 
-V.- Dar aviso inmediato al Consejo cuando dejen de prestar el servicio de verificación vehicular o los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto los mismos funcionen correctamente;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VI.- Conservar en depósito y manejar debidamente los documentos que reciban del Consejo para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos al vehículo automotor;
+V.- Dar aviso inmediato a la Secretaría y la Procuraduría cuando dejen de prestar el servicio de vinificación vehicular o los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar vinificaciones hasta en tanto los mismos funcionen correctamente;
 
-VII.- Dar aviso inmediato al Consejo y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VIII.- Enviar al Consejo, en los términos establecidos por éste, la documentación e información requerida para la supervisión y control de la verificación;
+VI.- Conservar en depósito y manejar debidamente los documentos que reciban (sic) la Secretaria para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos al vehículo automotor;
 
-IX.- Mantener durante las horas de funcionamiento a un representante legal y recibir las verificaciones administrativas que ordene el Consejo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-X.- Que sus establecimientos cuenten con los elementos distintivos determinados por el Consejo;
+VII.- Dar aviso inmediato a la Secretaría y la Procuraduría, y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Enviar a la Procuraduría, en los términos establecidos por éste, la documentación e información requerida para la supervisión y control de la verificación;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IX.- Mantener durante las horas de funcionamiento a un representante legal y recibir las verificaciones administrativas que ordene la Procuraduría;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X.- Que sus establecimientos cuenten con los elementos distintivos determinados por la Secretaría;
 
 XI.- Cobrar las tarifas autorizadas para la prestación del servicio de verificación vehicular;
 
 XII.- Mantener en vigor la fianza correspondiente durante la vigencia de la autorización para prestar el servicio de verificación vehicular;
 
-XIII.- Corroborar que el equipo y programa de cómputo que se le instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada por el Consejo, de lo contrario abstenerse de proporcionar el servicio;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Corroborar que el equipo y programa de cómputo que se le instale para proporcionar el servicio de verificación vehicular, sea la versión autorizada por la Secretaría, de lo contrario abstenerse de proporcionar el servicio;
 
 XIV.- Contar con el equipo y los sistemas para realizar la verificación vehicular conforme al proceso establecido en las normas técnicas vigentes;
 
-XV.- Operar en los horarios determinados por el Consejo. Fuera del horario establecido no deberá permanecer vehículo alguno en las instalaciones del Centro de Verificación; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XV.- Operar en los horarios determinados por la Secretaría. Fuera del horario establecido no deberá permanecer vehículo alguno en las instalaciones del Centro de Verificación; y
 
 XVI.- Contar con un mínimo de noventa días naturales de respaldo en disco duro del servidor principal, con la información generada por las verificaciones realizadas y respaldar toda la información generada durante el semestre en cualquier medio de almacenamiento electrónico por el término mínimo de un año.
 
-Cuando los centros de verificación vehicular incumplan con alguna de las normas establecidas en la presente Ley, su Reglamento y lineamiento normativos para operación de la Red Estatal de Centros de Verificación Vehicular, el Consejo podrá iniciar el procedimiento administrativo con base en la documentación e información con la que se disponga.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Cuando los centros de verificación vehicular incumplan con alguna de las normas establecidas en la presente Ley, su Reglamento y lineamiento normativos (sic) para operación de la Red Estatal de Centros de Verificación Vehicular, la Procuraduría podrá iniciar el procedimiento administrativo con base en la documentación e información con la que se disponga.
 
 ###### Artículo 158.
 
@@ -1631,17 +2117,21 @@ Una copia de dicha constancia será canjeada por un holograma que acredite que e
 
 El holograma deberá ser adherido en lugar visible del vehículo y colocado en las instalaciones del centro de verificación.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 159.
 
-Los proveedores de equipos y servicios para la operación de los Centros de Verificación vehicular deberán contar con la autorización del Consejo.
+Los proveedores de equipos y servicios para la operación de los Centros de Verificación vehicular deberán contar con la autorización de la Secretaría.
 
-Las personas físicas o morales interesadas en obtener la autorización referida, deberán presentar solicitud en los términos que dicte la convocatoria que para ese efecto emita el Consejo y ajustarse a lo que dispongan los ordenamientos que regulen esta materia.
+Las personas físicas o morales interesadas en obtener la autorización referida, deberán presentar solicitud en los términos que dicte la convocatoria que para ese efecto emita la Secretaría y ajustarse a lo que dispongan los ordenamientos que regulen esta materia.
 
 ### CAPÍTULO IX. REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 160.
 
-El Consejo deberá integrar un registro de emisiones y transferencia de contaminantes del aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la Autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante el Consejo.
+La Secretaría deberá integrar un registro de emisiones y transferencia de contaminantes del aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la Autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante La Secretaría.
 
 Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro.
 
@@ -1661,7 +2151,9 @@ La información a que se refiere el párrafo anterior se proporcionará a travé
 
 I.- Datos de identificación y firma del promovente, nombre de la persona física, o denominación o razón social de la empresa, Registro Federal de Contribuyentes, y domicilio para oír y recibir notificaciones;
 
-II.- Datos de identificación del establecimiento sujetos a reporte de competencia estatal, los cuales incluirán su domicilio y ubicación geográfica en el sistema que el Consejo determine;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Datos de identificación del establecimiento sujetos a reporte de competencia estatal, los cuales incluirán su domicilio y ubicación geográfica en el sistema que la Secretaría determine;
 
 III.- Fecha de inicio de operaciones, participación de capital, Cámara a la cual se encuentra afiliado, en su caso, datos de la Compañía Matriz o Corporativo al cual pertenece, número de personal empleado, y periodos de trabajo;
 
@@ -1673,35 +2165,49 @@ VI.- La respectiva al aprovechamiento de agua, registro de descargas y transfere
 
 VII.- La inherente a la generación y transferencia de residuos de manejo especial, la cual contendrá en su caso el numero del registro del generador, los datos de generación y transferencia de residuos de manejo especial, incluyendo los relativos a su almacenamiento dentro del establecimiento, así como a su tratamiento y disposición final;
 
-VIII.- La concerniente a la emisión y transferencia de aquellas sustancias que determine el Consejo como sujetas a reporte en la Norma Oficial correspondiente, así como los datos relacionados a su producción, elaboración o uso;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII.- La concerniente a la emisión y transferencia de aquellas sustancias que determine la Secretaría como sujetas a reporte en la Norma Oficial correspondiente, así como los datos relacionados a su producción, elaboración o uso;
 
 IX.- La referente para aquellas emisiones o trasferencias derivadas de accidentes, contingencias, fugas o derrames, inicio de operaciones y paros programados, misma que deberá ser reportada por cada evento que se haya tenido, incluyendo la combustión a cielo abierto; y
 
 X.- La relativa a la prevención y manejo de la contaminación, en la cual se describirán las actividades de prevención realizadas en la fuente y su área de aplicación, así como las de reutilización, reciclaje, obtención de energía, tratamiento, control o disposición final de las sustancias a que se refiere la fracción VIII del presente Artículo.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 164.
 
-La presentación de la cédula de operación anual deberá ser a través del formato que determine el Consejo, cubriendo los lineamientos y formalidades que para el caso se establezcan. La información será verificada por el Consejo y en el caso de resultar falsa se sancionará en los términos de la presente Ley y demás disposiciones aplicables.
+La presentación de la cédula de operación anual deberá ser a través del formato que determine la Secretaría, cubriendo los lineamientos y formalidades que para el caso se establezcan. La información será verificada por la Procuraduría y en el caso de resultar falsa se sancionará en los términos de la presente Ley y demás disposiciones aplicables.
 
-###### Artículo 165.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Para la integración del registro, el Consejo y los Ayuntamientos podrán convenir con la Federación, la determinación de directrices y principios técnicos para uniformar y homologar la integración de las bases de datos de su competencia, así como los mecanismos para actualizar la información anualmente.
+###### Articulo 165.
+
+Para la integración del registro, la Secretaría y los ayuntamientos podrán convenir con la Federación, la determinación de directrices y principios técnicos para uniformar y homologar la integración de las bases de datos de su competencia, así como los mecanismos para actualizar la información anualmente.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 166.
 
-La información relativa al Registro de Emisiones y Transferencia de Contaminantes podrá ser difundida a través de los medios de comunicación que la Autoridad estime conveniente y será únicamente para efectos de información y consulta.
+La información relativa al Registro de Emisiones y Transferencia de Contaminantes que integre la Secretaría, se compartirá por medio de un reporte bimestral a la Procuraduría.
+
+También deberá ser difundida a través de los medios de comunicación que la Autoridad estime conveniente y será únicamente para efectos de información y consulta de la sociedad en general.
 
 ## TÍTULO QUINTO. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 167.
 
-Podrán prestar servicios ambientales las personas físicas que cuenten con cédula profesional, o las morales cuyo objeto sea la prestación de sus servicios. Para el efecto el Consejo integrará un padrón de prestadores de servicios técnicos y auditores ambientales.
+Podrán prestar servicios ambientales las personas físicas que cuenten con cédula profesional, o las morales cuyo objeto sea la prestación de sus servicios. Para el efecto la Secretaría integrara un padrón de prestadores de servicios técnicos y auditores ambientales.
 
 ###### Artículo 168.
 
 Para estar inscrito en el Padrón de Prestadores de Servicios Ambientales se requiere:
 
-I.- Presentar solicitud por escrito ante el Consejo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+I.- Presentar solicitud por escrito ante la Secretaría;
 
 II.- Contar con título y cédula profesional para desempeñar la profesión con la que se ostenta;
 
@@ -1715,9 +2221,11 @@ V.- Pagar los derechos correspondientes.
 
 Los prestadores de servicios son responsables de la calidad y veracidad de la información, así como del nivel profesional de los estudios que elaboren, y deberán recomendar a los promoventes sobre la adecuada realización de las medidas de mitigación y compensación derivadas de los estudios y la autorización.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 170.
 
-El Consejo deberá notificar por escrito al solicitante de registro, dentro del plazo de quince días hábiles, contados a partir de la celebración de la entrevista, si es procedente o no su inscripción en el padrón y, en su caso otorgar el número de registro e indicar la especialidad.
+La Secretaría deberá notificar por escrito al solicitante de registro, dentro del plazo de quince días hábiles, contados a partir de la celebración de la entrevista, si es procedente o no su inscripción en el padrón y, en su caso otorgar el número de registro e indicar la especialidad.
 
 ###### Artículo 171.
 
@@ -1727,9 +2235,11 @@ No podrá prestar servicios ambientales, directamente ni a través de terceros, 
 
 ### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
 
-###### Artículo 172.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación en el Territorio de la Entidad o en algún Municipio, con repercusiones para los ecosistemas, sus componentes o la salud pública, el Estado por conducto del Consejo o el Ayuntamiento del Municipio correspondiente, como medida de seguridad, podrán en el ámbito de su competencia, ordenar:
+###### Articulo 172.
+
+Cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación en el Territorio de la Entidad o en algún Municipio, con repercusiones para los ecosistemas, sus componentes o la salud pública, el Estado por conducto de la Procuraduría o el Ayuntamiento del Municipio correspondiente, como medida de seguridad, podrán en el ámbito de su competencia, ordenar:
 
 l.- La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se desarrollen las actividades que den lugar a los supuestos a que se refiere el párrafo anterior;
 
@@ -1739,9 +2249,11 @@ III.- La neutralización o cualquier acción análoga que impida los efectos pre
 
 IV.- Además deberá promover ante la autoridad competente, en términos de sus leyes relativas, la ejecución de las medidas de seguridad que en dichos ordenamientos se establecen.
 
-###### Artículo 173.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-Cuando el Consejo ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, su responsabilidad respecto de los daños causados al ambiente, ha (sic) los ecosistemas y a la salud pública, así como las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, y los plazos para su realización, a fin de que una vez cumplida éstas, se ordenará el retiro de la medida de seguridad impuesta.
+###### Articulo 173.
+
+Cuando la Procuraduría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, su responsabilidad respecto de los daños causados al ambiente, a los ecosistemas y a la salud pública, así como las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, y los plazos para su realización, a fin de que una vez cumplida éstas, se ordenará el retiro de la medida de seguridad impuesta.
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1767,7 +2279,19 @@ VI.- Aseguramiento de los bienes inmuebles que sirvieron para la ejecución;
 
 VII.- La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes;
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII Bis.- Restauración de los recursos naturales y/o el patrimonio natural afectado y/o dañado;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII Ter.- Rehabilitación de los ecosistemas forestales o humedales dañados;
+
 VIII.- La compensación del daño ambiental ocasionado;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII Bis.- Remediación de sitios contaminados;
 
 IX.- Hacer efectivas las fianzas o seguros que se hubieren otorgado;
 
@@ -1889,11 +2413,13 @@ El dictamen técnico tiene por objeto determinar la relación de causalidad entr
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 194.
 
-Las disposiciones de esta Ley son de orden público, interés general, de carácter obligatorio y tienen por objeto regular el procedimiento administrativo ante las autoridades de la materia, que se suscite con motivo de su aplicación, de los Reglamentos, Decretos, Acuerdos y demás normas ambientales, así como para la imposición de medidas de seguridad y sanciones.
+Las disposiciones de esta ley son de orden público, interés general, de carácter obligatorio y tienen por objeto regular el procedimiento administrativo ante las autoridades de la materia, que se suscite con motivo de la supervisión, verificación y aplicación de los reglamentos, decretos, acuerdos y demás normas ambientales, así como para la imposición de medidas de seguridad y sanciones.
 
-En lo no previsto por este ordenamiento se aplicará en lo conducente y en forma supletoria, la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo y el Código de Procedimientos Civiles para el Estado de Hidalgo.
+En lo no previsto por este ordenamiento se aplicará en lo conducente y en forma supletoria, la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo y el Código de Procedimientos Civiles para el Estado de Hidalgo, la Ley Orgánica de la Procuraduría Ambiental y de Ordenamiento Territorial.
 
 ###### Artículo 195.
 
@@ -1910,6 +2436,10 @@ IV.- Se cuidará que alcance sus finalidades y efectos legales;
 V.- Las actuaciones serán públicas, salvo que la moral o el interés general exija lo contrario; y
 
 VI.- Las autoridades y las partes interesadas se conducirán en las promociones y actuaciones, con honradez, transparencia y respeto.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Los procedimientos en materia de investigación, supervisión, verificación y vigilancia ambiental estarán sujetos a los principios: precautorio, de prevención de daños ambientales, oportunidad en la detección de ilícitos y justa reparación de los daños ocasionados al ambiente y sus elementos.
 
 ###### Artículo 196.
 
@@ -1937,19 +2467,25 @@ Las promociones y actuaciones se efectuarán en días y horas hábiles.
 
 Son días hábiles todos los del año, con exclusión de los sábados, domingos y aquéllos que se señalen en el calendario oficial correspondiente. Son horas hábiles las comprendidas entre las 8:30 y las 16:30 horas.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 201.
 
-Las Autoridades Administrativas pueden habilitar los días y horas inhábiles, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+La Procuraduría o los ayuntamientos, en el ámbito de sus competencias, podrán habilitar los días y horas inhábiles, cuando hubiere causa urgente que lo exija, expresando cuál sea ésta y las diligencias que hayan de practicarse.
 
 Si una diligencia se inició en día y hora hábiles, puede llevarse hasta su fin sin interrupción y sin necesidad de habilitación expresa.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 202.
 
-Las Autoridades Administrativas podrán ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que observen en la tramitación del procedimiento para el sólo efecto de regularizar el mismo, sin que ello implique que puedan revocar sus propias determinaciones.
+La Procuraduría o los ayuntamientos, en el ámbito de sus competencias, podrán ordenar, de oficio o a petición de parte, subsanar las irregularidades u omisiones que observen en la tramitación del procedimiento para el sólo efecto de regularizar el mismo, sin que ello implique que puedan revocar sus propias determinaciones.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 203.
 
-La Autoridad Administrativa podrá acordar la acumulación de expedientes del procedimiento que ante ellas se sigan, de oficio o a petición de parte, cuando:
+La Procuraduría o los ayuntamientos, en el ámbito de sus competencias, podrán acordar la acumulación de expedientes del procedimiento que ante ellas se sigan, de oficio o a petición de parte, cuando:
 
 I.- Exista identidad de partes;
 
@@ -1959,9 +2495,11 @@ III.- Resulte conveniente el trámite unificado de los asuntos para evitar la em
 
 La misma regla se aplicará en lo conducente, para la separación de los expedientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 204.
 
-Para hacer cumplir sus determinaciones, las Autoridades Administrativas, podrán hacer uso de cualquiera de los siguientes medios de apremio y medidas disciplinarias:
+Para hacer cumplir sus determinaciones, la Procuraduría o los ayuntamientos, en el ámbito de sus competencias, podrán hacer uso de cualquiera de los siguientes medios de apremio y medidas disciplinarias:
 
 I.- Amonestación;
 
@@ -1983,21 +2521,27 @@ Las partes del procedimiento podrán consultar los expedientes en que se documen
 
 Las resoluciones del procedimiento administrativo serán claras, precisas y congruentes con las cuestiones planteadas por las partes o las derivadas del expediente respectivo.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 207.
 
-Cuando se inicie el procedimiento, la Autoridad Administrativa le asignará un número progresivo al expediente, que incluirá la referencia al año y mes en que se inicia; el cual se anotará en todas las promociones y actuaciones que se produzcan en el mismo.
+Cuando se inicie el procedimiento, la Procuraduría o los ayuntamientos, en el ámbito de sus competencias, le asignarán un número progresivo al expediente, que incluirá la referencia al año y mes en que se inicia; el cual se anotará en todas las promociones y actuaciones que se produzcan en el mismo.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 208.
 
-La Autoridad Administrativa llevará a cabo, de oficio o a petición de parte, los actos de tramitación adecuados para la determinación, conocimiento y comprobación de los datos sobre los que deba basarse la resolución del procedimiento.
+La Procuraduría y los ayuntamientos, en el ámbito de sus competencias, llevarán a cabo, de oficio o a petición de parte, los actos de investigación adecuados para la determinación, conocimiento y comprobación de los datos sobre los que deba basarse la resolución del procedimiento.
 
 ## TÍTULO SEGUNDO. DE LA SUBSTANCIACIÓN DEL PROCEDIMIENTO
 
 ### CAPÍTULO I. DENUNCIA CIUDADANA
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 209.
 
-Toda persona tiene derecho a denunciar ante la Autoridad competente, hechos, actos u omisiones que produzcan o puedan producir desequilibrio ecológico, daños al ambiente, a los recursos naturales, o que cualquier otro que constituya infracción a las disposiciones de la presente Ley, su Reglamento y de los demás ordenamientos de la materia.
+Toda persona tiene derecho a denunciar ante la Procuraduría o los ayuntamientos, en el ámbito de sus competencias hechos, actos u omisiones que produzcan o puedan producir desequilibrio ecológico, daños al ambiente, a los recursos naturales, al patrimonio natural o cualquier otro que constituya infracción a las disposiciones de la presente Ley, su Reglamento y los demás ordenamientos de la materia.
 
 ###### Artículo 210.
 
@@ -2011,9 +2555,23 @@ Cuando del escrito de denuncia se advierta que la Autoridad a la que se present�
 
 Las peticiones podrán formularse por los particulares en cualquier tiempo mientras no se hayan extinguido los derechos que invocan, en términos de las disposiciones legales aplicables, salvo los casos en que éstas señalen un plazo determinado.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 213.
 
-El escrito de denuncia deberá hacerse por escrito, en el que se señale:
+La denuncia podrá hacerse de manera verbal o por escrito, (sic)
+
+En el caso de la denuncia ciudadana verbal, el denunciante deberá ocurrir ante la Procuraduría o el Ayuntamiento, según corresponda, y hacer del conocimiento de las autoridades los hechos que motivan la denuncia.
+
+La autoridad que deberá formular un escrito en el que consten los hechos narrados por el denunciante y éste firmara al calce, en caso de que no sepa leer ni escribir bastará con que estampe su huella digital ante la presencia de dos testigos.
+
+En ese escrito, se asentara el nombre y domicilio del denunciante para oír y recibir notificaciones.
+
+En el caso de que el denunciante tenga en su poder elemento probatorio, deberá hacerse constar en ese escrito.
+
+Si el denunciante no habla español, la Procuraduría dispondrá algún traductor para que pueda efectuarse la denuncia.
+
+En el escrito de denuncia se señalará:
 
 I.- La Autoridad a la que se dirige;
 
@@ -2023,47 +2581,71 @@ III.- El domicilio para recibir notificaciones, en el lugar de residencia de la 
 
 IV.- Los hechos en los que se funde;
 
-V.- Las disposiciones legales en que se sustente, de ser posible; y
+V.- De ser posible las disposiciones legales en que se sustente; y
 
 VI.- Las pruebas que en su caso se ofrezcan.
 
-Se deberá adjuntar al escrito el documento con el que se acredite su personalidad, cuando no gestione a nombre propio y los documentos que ofrezca como prueba.
+Se deberá adjuntar al escrito el documento con el que se acredite su personalidad, cuando no gestione a nombre propio. Para el caso de que el denunciante cuente con elementos probatorios en su poder, deberá igualmente adjuntarlos a la denuncia.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 214.
 
-Cuando el escrito de petición carezca de algún requisito formal o no se adjunten los documentos respectivos, la Autoridad Administrativa requerirá al promovente, para que en un plazo de cinco días hábiles, corrija o complete el escrito o exhiba los documentos ofrecidos, apercibiéndole de que en caso de no hacerlo, se tendrá por no presentado el escrito o las pruebas, según el caso.
+Cuando el escrito de petición carezca de algún requisito formal o no se adjunten los documentos respectivos, la Procuraduría o los ayuntamientos, en el ámbito de sus competencias requerirá al promovente, para que en un plazo de cinco días hábiles, corrija o complete el escrito o exhiba los documentos ofrecidos, apercibiéndole de que en caso de no hacerlo, se tendrá por no presentado el escrito o las pruebas, según el caso.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 215.
 
-El procedimiento se iniciará a petición de parte o de oficio por parte de la Autoridad Administrativa competente.
+El procedimiento se iniciará a petición de parte o de oficio por parte de la Procuraduría o los ayuntamientos, en el ámbito de sus competencias
 
-Previo al inicio del procedimiento, la Autoridad podrá abrir un período de información previa, con el fin de conocer las circunstancias del caso concreto y estar en posibilidad de determinar la conveniencia, o no, de iniciar el procedimiento.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 216.
 
-Cuando la Autoridad Administrativa que conoce del procedimiento, requiera el auxilio de otras para la obtención de informes, declaraciones o documentos, se dirigirá a éstas por oficio en el que se indique lo que se solicita. La Autoridad requerida desahogará la petición dentro de los cinco días siguientes a su recibo.
+Cuando la Procuraduría o los ayuntamientos, en el ámbito de sus competencias requiera el auxilio de otras autoridades para la obtención de informes, declaraciones o documentos, se dirigirán a éstas por oficio en el que se indique lo que se solicita. La Autoridad requerida desahogará la petición dentro de los cinco días siguientes a su recibo.
 
-### CAPÍTULO II. DE LAS VISITAS DE VERIFICACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO II. DE LOS PROCEDIMIENTOS DE VERIFICACIÓN O SUPERVISIÓN
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 217.
 
-El Consejo y los ayuntamientos, para comprobar el cumplimiento de las disposiciones y condicionantes contenidas en la presente Ley, Reglamentos, Decretos, Acuerdos, licencias y autorizaciones, así como de cualquier otra norma ambiental, podrán llevar a cabo visitas de verificación en el domicilio, instalaciones, equipos e infraestructura, con que cuenten los inspeccionados.
+La Procuraduría o los ayuntamientos, en el ámbito de sus competencias, para dar trámite a las denuncias ciudadanas o a las iniciadas de oficio y para comprobar el cumplimiento de las disposiciones y condicionantes contenidas en la presente Ley, Reglamentos, Decretos, Acuerdos, licencias y autorizaciones, así como de cualquier otra norma ambiental, podrán llevar a cabo visitas de verificación o supervisión en el domicilio, instalaciones, equipos e infraestructura con que cuenten los visitados.
+
+La visita de verificación tendrá como finalidad que la Procuraduría o los ayuntamientos comprueben la información y datos aportados por los visitados, en las autorizaciones emitidas por la Secretaría o las demás dependencias de la Administración Pública Estatal en temas competencia la (sic) Procuraduría o los ayuntamientos.
+
+La visita de supervisión tendrá como finalidad realizar la inspección, el examen y el Reconocimiento de las obras y/o actividades que tengan impacto en el ambiente, patrimonio natural, protección a los animales u ordenamiento territorial.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 218.
 
-La orden de verificación deberá contener:
+La orden de visita de verificación o supervisión deberá contener:
 
-I.- El nombre de la persona física o moral que deba recibir la visita. Cuando se ignore el nombre de ésta, se señalarán datos suficientes que permitan su identificación;
+I.- Constar por escrito en documento impreso, con la firma autógrafa del servidor público competente;
 
-II.- El domicilio, lugar o zona en que ha de llevarse a cabo la visita;
+II.- Señalar lugar y fecha de emisión;
 
-III.- El objeto y alcance que ha de tener la diligencia;
+III.- El nombre de la persona física o moral que deba recibir la visita. Cuando se ignore el nombre de ésta, se señalarán datos suficientes que permitan su identificación los cuales podrán ser obtenidos, al momento de efectuarse la visita domiciliaria, por el personal actuante en la visita de que se trate;
 
-IV.- El nombre de los servidores públicos que deban efectuar la visita, los cuales podrán ser sustituidos, aumentados o reducidos en su número, en cualquier tiempo por la Autoridad competente;
+IV.- El domicilio, lugar o zona en que ha de llevarse a cabo la visita. El aumento de lugares a visitar habrá de notificarse al visitado;
 
-V.- Las disposiciones legales que la fundamenten; y
+V.- El objeto que ha de tener la visita, señalando, al efecto, el cumplimiento de qué normas ambientales habrán de verificarse o supervisarse;
 
-VI.- El nombre, cargo y firma autógrafa de la Autoridad que la emite.
+VI.- El periodo que comprenderá la visita, señalando el lapso de tiempo que ésta durará;
+
+VII.- El nombre de los servidores públicos que deban efectuar la visita, los cuales podrán ser sustituidos, aumentados o reducidos en su número, en cualquier tiempo por la Procuraduría o los ayuntamientos;
+
+Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente;
+
+VIII.- Las disposiciones legales que la fundamenten; y
+
+IX.- Señalar el nombre y cargo de la autoridad que lo emite, ésta deberá citar con precisión el apartado, fracción, inciso o subinciso de los Artículos de la Ley, Reglamento, Convenio o acuerdo que le otorguen competencia material o territorial.
+
+Si se trata de norma compleja deberá transcribirse la parte correspondiente.
 
 ###### Artículo 219.
 
@@ -2083,55 +2665,121 @@ V.- El periodo de su vigencia.
 
 Se podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 220 Bis.
+
+En los casos en que al presentarse los visitadores al lugar en donde deba practicarse la visita, descubran en flagrancia incumplimiento a cualquier norma ambiental, federal, estatal o municipal, deberán dictarse las medidas precautorias correspondientes y avisar sin dilación a la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 220 Ter.
+
+Los visitados, sus representantes o la persona con quien se entienda la visita, están obligados a permitir a los visitadores designados por la Procuraduría o los ayuntamientos, el acceso al lugar, lugares o zona objeto de la misma, así como mantener a su disposición equipos, bienes e instalaciones que les requieran, rendir la información que le sea solicitada y proporcionar los papeles que acrediten el cumplimiento de las disposiciones ambientales de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 220 Quater.
+
+Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviere el visitado o su representante, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a la hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren así, la visita se iniciará con quien se encuentre en el lugar visitado.
+
+Para practicar las diligencias a que se refiere este Artículo, el visitador deberá asentar en el acta respectiva los datos que evidencia que se aseguró de estar en el domicilio correcto.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 221.
 
-La substanciación de la visita de verificación se deberá llevar a cabo conforme a las reglas siguientes:
+La substanciación de la visita de verificación o supervisión se deberá llevar a cabo conforme a las reglas siguientes:
 
 I.- La visita de verificación no se encuentra sujeta a las formalidades prescritas para las notificaciones, y por tanto se podrá llevar a cabo con cualquier persona que se encuentre en el lugar visitado;
 
-II.- Al iniciarse la verificación, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, con credencial o documento vigente con fotografía expedido por la Autoridad Administrativa, que los acredite legalmente para desempeñar su función;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-III.- La persona con quien se entienda la diligencia será requerida por los visitadores para que nombre a dos testigos que intervengan en la diligencia; si éstos no son nombrados o los señalados no aceptan servir como tales, los visitadores los designarán;
+II.- Al iniciarse la verificación, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, con credencial o documento vigente con fotografía expedido por la Procuraduría o ayuntamiento correspondiente, que los acredite legalmente para desempeñar su función;
 
-IV.- Los visitadores entregarán a la persona con la que se entienda la diligencia, la orden de verificación;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-V.- Los visitados, sus representantes o la persona con quien se entienda la diligencia, están obligados a permitir a los visitadores el acceso al lugar o zona objeto de la visita y poner a la vista la documentación, equipos, bienes e instalaciones que les requieran, así como rendir la información que le sea solicitada;
+III.- La persona con quien se entienda la diligencia será requerida por los visitadores para que nombre a dos testigos que intervengan en la diligencia; si estos no son nombrados o los señalados no aceptan servir como tales, los visitadores los designarán; los visitadores los designaran, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita.
 
-VI.- Se realizará en el lugar o zona señalados en la orden;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VII.- Los visitadores harán constar todas y cada una de las circunstancias, hechos u omisiones que se hayan observado en la diligencia, en el acta que se suscriba para tal efecto;
+IV.- Los visitadores entregarán a la persona con la que se entienda la diligencia, la orden de verificación o supervisión;
 
-VIII.- Concluida la inspección, se dará oportunidad al inspeccionado para que manifieste lo que a su derecho convenga en relación con las circunstancias asentadas en el acta y para que ofrezca las pruebas que considere convenientes en relación a los hechos u omisiones contenidos en el acta, lo que podrá hacer en un plazo de cinco días hábiles contados a partir del día siguiente de realizada la diligencia;
+V.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- Se realizará en el lugar, lugares o zona señalados en la orden;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII.- Los visitadores harán constar todas y cada y una de las circunstancias, hechos u omisiones que se hayan observado en la diligencia, en el acta final que se suscriba para tal efecto; Los hechos u omisiones consignados por los visitadores en las actas generan la presunción, salvo prueba en contrario, de la existencia de tales hechos o de las omisiones encontradas.
+
+En la propia acta, el visitado señalará domicilio para oír y recibir notificaciones.
+
+VIII.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
 IX.- A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado. La negativa a firmar el acta o a recibir copia de la misma, se deberá hacer constar en el referido documento, sin que esta circunstancia afecte la validez del acta o de la diligencia practicada; y
 
-X.- Con las mismas formalidades indicadas en los puntos anteriores, se levantarán actas previas o complementarias, para hacer constar hechos concretos en el curso de la visita o después de su conclusión.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X.- Con las mismas formalidades indicadas en los puntos anteriores, se levantarán actas complementarias, para hacer constar hechos concretos que surgieran durante el curso de la visita que pudieran ser constitutivos de infracciones a diversa normatividad ambiental, distinta a la que se está verificando o supervisando. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+En todo caso, las actas complementarias, para ser válidas, deberán integrarse al acta final y junto con ésta notificarse al visitado.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 221 Bis.
+
+Concluida la visita, se dará oportunidad al visitado para que manifieste lo que a su derecho convenga en relación con las circunstancias asentadas en el acta final y para que ofrezca las pruebas que considere convenientes en relación a los hechos u omisiones contenidos en el acta, lo que podrá hacer en un plazo de cinco días hábiles contados a partir del día siguiente de realizada la diligencia.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 222.
 
-Una vez transcurrido el plazo concedido en el acta de inspección, la autoridad ordenadora, en caso de existir la presunción de infracciones, dictara acuerdo de inicio de procedimiento, en el cual concederá un término de diez días hábiles contados a partir del día siguiente al de la notificación, para que el inspeccionado, conteste por escrito los hechos u omisiones que se le imputen, ofrezca pruebas en relación a los hechos y señale domicilio para oír y recibir notificaciones en el lugar de residencia de la Autoridad, con los apercibimientos que se le tendrá aceptando los hechos que deje de contestar y por perdido el derecho para ofrecer pruebas, y las ulteriores notificaciones aún las personales se le harán por los estrados.
+Una vez transcurrido el plazo concedido a que se refiere el artículo anterior, la Procuraduría o ayuntamiento correspondiente, en caso de existir la presunción de infracciones, dictará acuerdo de inicio de procedimiento, en el cual concederá un término de diez días hábiles, contados a partir del día siguiente al de la notificación, para que el visitado, conteste por escrito los hechos u omisiones que se le imputen, ofrezca pruebas en relación a los hechos y señale domicilio para oír y recibir notificaciones en el lugar de residencia de la Procuraduría o ayuntamiento correspondiente, con los apercibimientos que se le tendrá aceptando los hechos que deje de contestar y por perdido el derecho para ofrecer pruebas, y las ulteriores notificaciones aún las personales se le harán por los estrados:
 
 En el acuerdo de inicio de procedimiento, se harán saber al inspeccionado las medidas de seguridad que se hayan tomado.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 222 Bis.
+
+El acuerdo de inicio de procedimiento se notificará personalmente al visitado, en el domicilio que haya señalado para tal efecto en el acta final; conforme a las reglas previstas en la ley Estatal del Procedimiento Administrativo.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 223.
 
-Para el caso de que el inspeccionado dentro del término concedido, no haya presentado su contestación, pruebas o hubiese omitido señalar domicilio para oír notificaciones, se le harán efectivos los apercibimientos que se le hayan decretado.
+Para el caso de que el visitado dentro del término concedido, no haya presentado su contestación, pruebas o hubiese omitido señalar domicilio para oír notificaciones, se le harán efectivos los apercibimientos que se le hayan decretado.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 224.
 
-Una vez recibida la contestación del inspeccionado y las pruebas que haya ofrecido, la Autoridad competente dictará acuerdo en el que admita o deseche, tanto la contestación como las pruebas ofrecidas, ordenando el desahogo de las pruebas admitidas dentro de un plazo no mayor de quince días hábiles.
+Una vez recibida la contestación del visitado y las pruebas que haya ofrecido, la Procuraduría o ayuntamiento correspondiente, dictará acuerdo en el que admita o deseche, tanto la contestación como las pruebas ofrecidas, ordenando el desahogo de las pruebas admitidas dentro de un plazo no mayor de quince días hábiles.
 
 ###### Artículo 225.
 
 Concluida la recepción de pruebas admitidas o habiendo concluido el periodo para su desahogo, se pondrán a disposición de la parte interesada las actuaciones, para que en un plazo de cinco días hábiles, presente por escrito sus alegatos.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+Concluido el plazo para alegar, los autos quedarán en estado de resolución.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 226.
 
-En el caso en que el inspeccionado durante el procedimiento realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido previamente a que se imponga una sanción, la Autoridad competente deberá considerar tal situación como atenuante de la infracción cometida y en caso contrario tomaría en cuenta como una agravante al momento de imponer la sanción respectiva.
+En el caso en que el visitado durante el procedimiento realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido previamente a que se imponga una sanción, la Procuraduría o ayuntamiento correspondiente, deberá considerar tal situación como atenuante de la infracción cometida y en caso contrario tomarla en cuenta como una agravante al momento de imponer la sanción respectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 227.
 
-Concluido el plazo para alegar, la Autoridad competente emitirá por escrito la resolución que ponga fin al procedimiento, misma que notificará al interesado personalmente o mediante correo certificado con acuse de recibo. La resolución deberá contener:
+Concluido el plazo para alegar, la Procuraduría o ayuntamiento correspondiente emitirá por escrito la resolución que ponga fin al procedimiento, misma que notificará al interesado personalmente o mediante correo certificado con acuse de recibo. La resolución deberá contener:
 
 I.- Un extracto de los hechos;
 
@@ -2139,31 +2787,57 @@ II.- La decisión de todas las cuestiones planteadas;
 
 III.- Los fundamentos y motivos que la sustenten;
 
-IV.- Los puntos resolutivos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-V.- Las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas; y
+IV.- Los puntos resolutivos, en su caso sanciones correspondientes;
 
-VI.- El nombre, cargo y firma autógrafa de la Autoridad que la emite.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- La fundamentación exhaustiva de la competencia material y territorial de la autoridad que emita la resolución, el nombre, cargo y firma autógrafa de la Autoridad que la emite; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII.- El recurso administrativo que proceda contra la resolución.
 
 ###### Artículo 228.
 
 En la resolución administrativa correspondiente, concederá un plazo de cinco días hábiles al infractor para satisfacer las medidas que deberá llevar a cabo para corregir las deficiencias o irregularidades observadas, con el apercibimiento que de no darse cumplimiento a las medidas correctivas impuestas se procederá a su ejecución.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 229.
 
-El infractor tiene la obligación de subsanar las deficiencias o irregularidades observadas, por lo que deberá acreditar su cumplimiento con pruebas fehacientes, que deberá exhibir y exponer por escrito ante la Autoridad Ordenadora.
+El infractor tiene la obligación de subsanar las deficiencias o irregularidades observadas, por lo que deberá acreditar su cumplimiento con pruebas fehacientes, que deberá exhibir y exponer por escrito ante la Procuraduría o ayuntamiento correspondiente.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 230.
 
-Cuando una resolución administrativa derivada de la aplicación del presente instrumento legal, haya quedado firme, la Autoridad competente ordenará su ejecución requiriendo el cumplimiento de las condicionantes, y el pago de las sanciones impuestas.
+Cuando una resolución administrativa derivada de la aplicación del presente instrumento legal, haya quedado firme, la Procuraduría o ayuntamiento correspondiente, ordenará su ejecución requiriendo el cumplimiento de las condicionantes, y el pago de las sanciones impuestas.
 
-Transcurrido el termino de cinco días hábiles a partir de la notificación de la resolución sin que el infractor haya cubierto el pago de la multa impuesta, la Autoridad competente, dictara mandamiento de ejecución debidamente fundado y motivado en el que se facultará al ejecutor, para requerir de pago al infractor y en caso de no realizarlo, en la misma diligencia se embargarán bienes suficientes para garantizar el monto de la multa.
+Transcurrido el termino de cinco días hábiles a partir de la notificación de la resolución sin que el infractor haya cubierto el pago de la multa impuesta, la Autoridad competente, dictará mandamiento de ejecución debidamente fundado y motivado en el que se facultará al ejecutor, para requerir de pago al infractor y en caso de no realizarlo, en la misma diligencia se embargarán bienes suficientes para garantizar el monto de la multa.
 
 Si las medidas correctivas impuestas no han sido atendidas se procederá a la ejecución de la resolución conforme al apercibimiento que en ella se contenga.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 231.
 
-Las Autoridades competentes, podrán celebrar con las personas sujetas a procedimiento, convenios de carácter conciliatorio que pongan fin a los asuntos, siempre que no sean contrarios a las disposiciones legales aplicables.
+La Procuraduría y los ayuntamientos, podrán celebrar con las personas sujetas a procedimiento, convenios de carácter conciliatorio que pongan fin a los asuntos, siempre que no sean contrarios a las disposiciones legales aplicables.
+
+No estará sujeto a convenio lo relativo a restauración de los recursos naturales y/o el patrimonio natural afectado y/o dañado, rehabilitación de los ecosistemas forestales o humedales dañados, remediación de sitios contaminados.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 231 Bis.
+
+La Procuraduría y/o los ayuntamientos para conocer y comprobar hechos, conductas u omisiones que constituyen probables infracciones a la normatividad ambiental, ya sea que los conozcan por denuncia o por oficio tendrán las más amplias facultades en materia de investigación de los mismos y, al efecto podrán ordenar y/o practicar los peritajes necesarios y reunir evidencia necesaria.
+
+En el caso de que se tenga noticia de los hechos con motivo de las actas complementarias a que se refiere el artículo 221, fracción X, la Procuraduría o ayuntamiento correspondiente procederá conforme al párrafo anterior.
 
 ### CAPÍTULO III. DE LOS MEDIOS DE IMPUGNACIÓN
 
@@ -2210,3 +2884,19 @@ P.O. 31 DE DICIEMBRE DE 2009.
 ###### ARTÍCULO PRIMERO.
 
 La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto.- Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaria de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los Interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
