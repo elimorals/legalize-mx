@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2006-08-07"
+last_updated: "2010-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -71,9 +71,13 @@ Cuando se trate de recursos forestales cuya propiedad corresponda a los pueblos 
 
 Es objeto general de la presente Ley:
 
-I.- Contribuir al desarrollo social, económico, ecológico y ambiental del Estado, mediante; la participación en el manejo integral sustentable de los recursos forestales, así como de las cuencas y ecosistemas hidrológicos-forestales, sin perjuicio de lo previsto en otros ordenamientos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-II.- Impulsar la silvicultura y el aprovechamiento de los recursos forestales, para que contribuyan con bienes y servicios que aseguren el mejoramiento del nivel de vida de los hidalguenses, especialmente de los propietarios, poseedores y pobladores forestales;
+I.- Contribuir al desarrollo sustentable del Estado, mediante la participación en el manejo integral sustentable de los recursos forestales, así como de las cuencas y ecosistemas hidrológicos-forestales, sin perjuicio de lo previsto en otros ordenamientos;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Impulsar la silvicultura y el aprovechamiento sustentable de los recursos forestales, para que contribuyan con bienes y servicios que aseguren el mejoramiento del nivel de vida de los hidalguenses, especialmente de los propietarios, poseedores y pobladores forestales;
 
 III.- Promover el desarrollo de los bienes y servicios ambientales de los ecosistemas forestales así como proteger, mantener y aumentar su biodiversidad;
 
@@ -177,7 +181,7 @@ XII.- Consejo: El Consejo Forestal Estatal;
 
 XIII.- Conservación forestal: El mantenimiento de las condiciones que propician la persistencia y evolución de un ecosistema forestal natural o inducido, sin degradación del mismo ni pérdida de sus funciones;
 
-XIV.- COEDE: El Consejo Estatal de Ecología;
+XIV.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
 XV.- Cuenca hidrológico-forestal: La unidad física de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y de agua que fluye por diversos cauces, convergiendo en uno común y constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y microcuencas;
 
@@ -200,6 +204,10 @@ XXIII.- Materias primas forestales: Los productos del aprovechamiento de los rec
 XXIV.- Ordenación forestal: La organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades del manejo forestal;
 
 XXV.- Plantación forestal comercial: El establecimiento, cultivo y manejo de la vegetación forestal, en terrenos temporalmente forestales o preferentemente forestales, cuyo objetivo principal es la producción de materias primas forestales destinadas a su industrialización y comercialización;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXV Bis.- Procuraduría: La Procuraduría Estatal de Protección al Ambiente y del Ordenamiento Territorial;
 
 XXVI.- Producto forestal maderable: El bien obtenido de un proceso de transformación de materias primas maderables con características y uso final distinto;
 
@@ -235,15 +243,17 @@ XLI.- Saneamiento forestal: Las acciones técnicas encaminadas a combatir y cont
 
 XLII.- Sanidad forestal: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades forestales;
 
-XLIII.- Secretaría: La Secretaría de Agricultura y Desarrollo Rural del Estado;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XLlV.- Servicios ambientales: Los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales, tales como la provisión del agua en calidad y cantidad; la captura de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, de los ecosistemas y formas de vida; la protección y recuperación de suelos; el paisaje y la recreación, entre otros;
+XLIII.- Secretaría: La Secretaría de Medio Ambiente y Ordenamiento Territorial;
+
+XLIV.- Servicios ambientales: Los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales, tales como la provisión del agua en calidad y cantidad; la captura de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, de los ecosistemas y formas de vida; la protección y recuperación de suelos; el paisaje y la recreación, entre otros;
 
 XLV.- Servicios técnicos forestales: Las actividades realizadas para la planificación y ejecución de la silvicultura, el manejo forestal, la asesoría y capacitación de los propietarios o poseedores de recursos forestales;
 
 XLVI.- Servicio Estatal Forestal: El órgano encargado de conjuntar esfuerzos, instancias, instrumentos, políticas, servicios y acciones para la atención eficiente del servicio forestal.
 
-XLVII.- Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continúa producción de bienes y servicios;
+XLVII.- Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
 
 XLVIII.- Terreno forestal: El que está cubierto por vegetación forestal;
 
@@ -263,7 +273,9 @@ LV.- Vegetación exótica: El conjunto de plantas arbóreas, arbustivas o crasas
 
 LVI.- Ventanilla única: El sistema administrativo de las Dependencias y Entidades del sector público forestal Estatal y Municipal, para la atención de los distintos usuarios del sector; y
 
-LVII.- Visita de inspección: La que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y a las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+LVII.- Visita de verificación o supervisión: La que realiza el personal autorizado para verificar o supervisar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y a las disposiciones legales aplicables.
 
 ### CAPITULO III. DE LA COORDINACION INSTITUCIONAL
 
@@ -275,9 +287,9 @@ I.- Impulsar la vinculación interinstitucional en el marco del Servicio Naciona
 
 II.- Programar y operar las tareas de prevención, detección y combate de incendios forestales en la Entidad, así como de plagas y enfermedades;
 
-III.- Inspección y vigilancia de las actividades forestales;
+III.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
-IV.- Imponer las medidas de seguridad y sanciones a las infracciones que se cometan en materia forestal;
+IV.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
 V.- Requerir la comprobación de la legal procedencia de materias primas forestales;
 
@@ -292,6 +304,14 @@ IX.- Autorizar el aprovechamiento de los recursos forestales maderables, no made
 X.- Dictaminar, autorizar y evaluar los programas de manejo forestal, así como regular y asistir a los servicios técnicos forestales; y
 
 XI.- Evaluar el impacto ambiental de las obras o actividades forestales a que se refiere el Artículo 28 de la Ley General del Equilibrio Ecológico y la Protección del Ambiente, que apliquen a las actividades forestales, así como el Art. 5° de su Reglamento.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 5 BIS.- El Estado, a través de la Procuraduría, podrá suscribir convenios o acuerdos de coordinación con la Federación, para asumir las siguientes funciones:
+
+I.- Investigación, verificación, supervisión y vigilancia de las actividades forestales; y
+
+II.- Imponer las medidas y sanciones a las infracciones que se cometan en materia forestal de conformidad con la normatividad aplicable.
 
 ###### ARTICULO 6.
 
@@ -371,9 +391,11 @@ XXII.- La atención de los demás asuntos que en materia de desarrollo forestal 
 
 #### SECCION 1. DE LAS ATRIBUCIONES DE LA SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría tendrá las siguientes atribuciones:
+La Secretaría tendrá las siguientes facultades:
 
 I.- Formular y conducir la política Estatal de desarrollo forestal sustentable y asegurar su congruencia con la política ambiental y de recursos naturales Nacional;
 
@@ -385,7 +407,9 @@ IV.- Coadyuvar en la adopción y consolidación del Servicio Nacional Forestal;
 
 V.- Promover incentivos económicos en materia forestal y lineamientos para su aplicación y evaluación;
 
-VI.- Establecer los lineamientos para integrar el Sistema Estatal de Información Forestal;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- Establecer los lineamientos para integrar el Sistema Estatal de Información Forestal e incorporarlo al Sistema Estatal de Información Ambiental;
 
 VII.- Promover la integración, monitoreo y actualización del Inventario Forestal Estatal y de Suelos;
 
@@ -397,15 +421,19 @@ X.- Deslindar, poseer y administrar los terrenos Estatales forestales propiedad 
 
 XI.- Otorgar los permisos y avisos para el combate y control de plagas y enfermedades, dentro de los términos que se señalen en el convenio de coordinación que la Federación celebre con el Estado;
 
-XII.- Participar de conformidad con los acuerdos y convenios que se celebren con la Federación y Municipios, en la inspección y vigilancia forestal de la Entidad, así como de las acciones de prevención y combate a la tala clandestina y aprovechamiento ilegal de los recursos forestales;
+XII.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
-XIII.- Generar los mecanismos necesarios para coordinar, promover e impulsar la participación directa de las Autoridades competentes, propietarios, poseedores y habitantes de las zonas forestales, así como de los transportistas, comerciantes e industrializadores de materias primas forestales, en la protección, vigilancia, ordenación, aprovechamiento, cultivo, restauración, transformación y comercialización de los recursos forestales;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Generar los mecanismos necesarios para coordinar, promover e impulsar la participación directa de las Autoridades competentes, propietarios, poseedores y habitantes de las zonas forestales, así como de los transportistas, comerciantes e industrializadores de materias primas forestales, en la ordenación, aprovechamiento, cultivo, restauración, transformación y comercialización de los recursos forestales;
 
 XIV.- Elaborar estudios para proponer al Ejecutivo Federal el establecimiento, modificación o levantamiento de vedas forestales;
 
 XV.- Expedir las autorizaciones de cambio de uso de suelo de los terrenos forestales, en coordinación con la Federación, previos acuerdos y convenios que se celebren con la misma; dando parte a los Municipios;
 
-XVI.- Ejercer los actos de Autoridad relativos a la aplicación de la política ambiental Estatal de aprovechamiento sustentable, conservación, protección y restauración de los recursos forestales y de suelos, en coordinación con la Federación y el COEDE, previos acuerdos y convenios que se celebren;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XVI.- Ejercer los actos de Autoridad relativos a la aplicación de la política ambiental Estatal de aprovechamiento sustentable, conservación y restauración de los recursos forestales y de suelos, en coordinación con la Federación previos acuerdos y convenios que se celebren;
 
 XVII.- Ejecutar y promover programas productivos, de restauración, de protección, de conservación y de aprovechamiento sustentable de los ecosistemas forestales y de los suelos en terrenos forestales o preferentemente forestales;
 
@@ -441,6 +469,16 @@ XXXII.- Llevar a cabo, en coordinación con la Federación y los Municipios, acc
 
 XXXIII.- Las demás que señalen la presente Ley, su Reglamento y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 11 BIS.- La Procuraduría tendrá las siguientes facultades:
+
+I. Participar de conformidad con los acuerdos y convenios que se celebren con la Federación y Municipios, en la investigación, verificación, supervisión y vigilancia de los recursos forestales del Estado, así como de las acciones de prevención y combate a la tala clandestina y aprovechamiento ilegal de los recursos forestales;
+
+II. Generar los mecanismos necesarios para coordinar, promover e impulsar la participación directa de las Autoridades competentes, propietarios, poseedores y habitantes de las zonas forestales, así como de los transportistas, comerciantes e industrializadores de materias primas forestales, en la protección y vigilancia, de los recursos forestales; y
+
+III. Aplicar las medidas y sanciones que, de conformidad con la Ley para la Protección Amiente (sic) del Estado de Hidalgo, se establezcan en caso de infracción o incumplimiento al presente ordenamiento.
+
 #### SECCION 2. DE LAS PROMOTORIAS DE DESARROLLO FORESTAL
 
 ###### ARTICULO 12.
@@ -457,9 +495,11 @@ En la celebración de los convenios y acuerdos de coordinación, se tomará en c
 
 En el seguimiento y evaluación de los resultados que se obtengan, por la ejecución de los convenios y acuerdos, intervendrá el Consejo Estatal Forestal, en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 15.
 
-De acuerdo con la Ley Orgánica de la Administración Pública Estatal, la Secretaría se coordinará con el Consejo Estatal de Ecología, para coadyuvar con la Federación, en la adopción, consolidación y cumplimiento de los objetivos del Servicio Nacional Forestal, previstos en la Ley General de Desarrollo Forestal Sustentable.
+De acuerdo con la Ley Orgánica de la Administración Pública Estatal, la Secretaría coadyuvará con la Federación, en la adopción, consolidación y cumplimiento de los objetivos del Servicio Nacional Forestal, previstos en la Ley General de Desarrollo Forestal Sustentable.
 
 ###### ARTICULO 16.
 
@@ -625,9 +665,11 @@ El titular de la Secretaría informará al Congreso del Estado, sobre la condici
 
 #### SECCION 2. DEL SISTEMA ESTATAL DE INFORMACION FORESTAL
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 27.
 
-La Secretaría establecerá los procedimientos y metodología, para integrar el Sistema Estatal de Información Forestal, el cual tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal, que estará disponible al público para su consulta y se integrará al Sistema Nacional de Información Forestal, conforme a lo establecido en las normas y disposiciones aplicables.
+La Secretaría establecerá los procedimientos y metodología, para integrar el Sistema Estatal de Información Forestal, el cual tendrá por objeto registrar, integrar, organizar, actualizar y difundir la información relacionada con la materia forestal, que estará disponible al público para su consulta y se integrará al Sistema Estatal de Información Ambiental, así como, al Sistema Nacional de Información Forestal, conforme a lo establecido en las normas y disposiciones aplicables.
 
 ###### ARTICULO 28.
 
@@ -811,11 +853,21 @@ II.- Cuando exista conflicto respecto de la propiedad o posesión, ante alguna A
 
 III.- Cuando existan conflictos sociales, que pongan en riesgo la integridad de la comunidad o población, así como de los recursos forestales;
 
-IV.- Cuando se detecten irregularidades graves en el cumplimiento del programa de manejo, que pongan en riesgo el recurso forestal;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-V.- Cuando la Secretaría imponga medidas provisionales de sanidad, remediación, conservación, restauración y mitigación de impactos adversos a los ecosistemas forestales; y
+IV.- Cuando la autoridad competente detecte irregularidades graves en el cumplimiento del programa de manejo, que pongan en riesgo el recurso forestal;
 
-VI.- En los demás casos previstos en esta Ley, su Reglamento, las Normas Oficiales Mexicanas y Técnicas Estatales y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+V.- Cuando la Secretaría imponga medidas provisionales de sanidad, conservación y mitigación de impactos adversos a los ecosistemas forestales;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- Cuando la Procuraduría lo solicite;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII.-En los demás casos previstos en esta Ley, su Reglamento, las Normas Oficiales Mexicanas y Técnicas Estatales y demás disposiciones aplicables.
 
 La suspensión sólo surtirá efectos respecto de la ejecución del programa de manejo respectivo y se hará en los términos, condiciones y plazos que se establezcan en el Reglamento de la presente Ley.
 
@@ -999,13 +1051,19 @@ La Secretaría instrumentará un mecanismo para la autorización automática de 
 
 #### SECCION 2. DE LAS PLANTACIONES FORESTALES COMERCIALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 65.
 
-Queda prohibido el establecimiento de plantaciones forestales comerciales en sustitución de la vegetación primaria nativa actual de los terrenos forestales, salvo en los siguientes casos:
+Queda prohibido el establecimiento de plantaciones forestales comerciales en sustitución de la vegetación primaria nativa actual de los terrenos forestales, salvo cuando se compruebe que no se pone en riesgo alguna especie sujeta a categoría de riesgo, a la biodiversidad o al patrimonio natural.
 
-I.- Cuando se compruebe que no se pone en riesgo la biodiversidad; y
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-II.- Cuando se demuestre que la vegetación nativa tenga poco valor comercial y se juzgue conveniente promover plantaciones de especies provenientes de otros lugares, que se adapten a la zona y favorezcan la fauna, la flora y los bienes y servicios ambientales.
+Queda prohibida la plantación de especies forestales del género Eucalyptus o también conocidos como eucaliptos y del género Casuarina en el territorio del Estado de Hidalgo por considerarlas especies exóticas invasoras;
+
+I.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
+
+II.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2010)
 
 La Secretaría, previo acuerdo de coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, expedirá la Norma Oficial Mexicana que establezca las especies de vegetación forestal exótica que ponga en riesgo la biodiversidad.
 
@@ -1155,9 +1213,11 @@ Para el funcionamiento de centros de almacenamiento y transformación de materia
 
 ### CAPITULO I. DEL CAMBIO DE USO DE SUELO EN LOS TERRENOS FORESTALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 87.
 
-La Secretaría, previo acuerdo o convenio que celebre con la Federación, podrá autorizar el cambio de uso de suelo en terrenos forestales y preferentemente forestales, previa opinión técnica de los miembros del Consejo Estatal Forestal y con base en los estudios técnicos justificativos que demuestren que no se compromete la biodiversidad, ni se provocará la erosión de los suelos, el deterioro de la calidad del agua o la disminución en su captación; y que los usos alternativos del suelo que se propongan sean más productivos a largo plazo. Estos estudios se deberán considerar en conjunto y no de manera aislada.
+La Secretaría, previo acuerdo o convenio que celebre con la Federación, podrá autorizar el cambio de uso de suelo en terrenos forestales y preferentemente forestales, previa opinión técnica de los miembros del Consejo Estatal Forestal y con base en los estudios técnicos justificativos que demuestren que no se compromete la biodiversidad, los servicios ambientales o el patrimonio natural, ni se provocará la erosión de los suelos, el deterioro de la calidad del agua o la disminución en su captación; y que los usos alternativos del suelo que se propongan sean más productivos y sustentables a largo plazo. Estos estudios se deberán considerar en conjunto y no de manera aislada.
 
 En las autorizaciones de cambio de uso de suelo en terrenos forestales y preferentemente forestales, la Autoridad deberá dar respuesta debidamente fundada y motivada a las propuestas y observaciones planteadas por los miembros del Consejo Estatal Forestal.
 
@@ -1173,11 +1233,15 @@ No se podrá otorgar autorización de cambio de uso de suelo en un terreno incen
 
 Las autorizaciones deberán atender a lo que dispongan los programas de ordenamiento ecológico correspondientes, las Normas Oficiales Mexicanas, Normas Técnicas Estatales y demás disposiciones legales aplicables.
 
-La Secretaría, con la participación del Consejo Estatal de Ecología, coordinará la política de uso de suelo para estabilizar su uso agropecuario, incluyendo el sistema de roza, tumba y quema, desarrollando prácticas permanentes y evitando que la frontera agropecuaria crezca a costa de los terrenos forestales.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría, coordinará la política de uso de suelo para estabilizar su uso agropecuario, incluyendo el sistema de roza, tumba y quema, desarrollando prácticas permanentes y evitando que la frontera agropecuaria crezca a costa de los terrenos forestales.
 
 Las autorizaciones de cambio de uso del suelo deberán inscribirse en el Registro Forestal Nacional.
 
-La Secretaría, con la participación del Consejo Estatal de Ecología y el Instituto de Vivienda, Desarrollo Urbano y Asentamientos Humanos, realizará acciones conjuntas para armonizar y eficientar los programas de construcción de los sectores eléctrico, hidráulico y de comunicaciones, dando la participación que a los Municipios otorga la Constitución Política de los Estado (sic) Unidos Mexicanos y la normatividad correspondiente.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría, con la participación de la Promotora de Vivienda Hidalgo PROVIH, realizará acciones conjuntas para armonizar y eficientar los programas de construcción de los sectores eléctrico, hidráulico y de comunicaciones, dando la participación que a los Municipios otorga la Constitución Política de los Estado (sic) Unidos Mexicanos y la normatividad correspondiente.
 
 ###### ARTICULO 88.
 
@@ -1361,9 +1425,17 @@ XI.- Elaborar y aplicar apoyos a largo plazo que contemplen todas las etapas de 
 
 XII.- Gestionar mecanismos especiales de financiamiento promocional que tomen eh (sic) cuenta el largo plazo de formación del producto forestal, las bajas tasas de interés generadas por su lento crecimiento y los riesgos de su producción;
 
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 XIII.- Promover la cultura, educación continua y capacitación forestal; y
 
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 XIV.- Apoyar la investigación, el desarrollo tecnológico, la divulgación científica y la transferencia del conocimiento y tecnologías, fomentando los mecanismos de vinculación entre los académicos o investigadores y los usuarios de servicios.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XV.- Ejecutar acciones de adaptación y mitigación ante el cambio climático, teniendo particular énfasis en mecanismos de reducción de deforestación y degradación de ecosistemas forestales.
 
 Los instrumentos que se apliquen deberán observar las disposiciones contenidas en los acuerdos y tratados comerciales Nacionales e Internacionales en los que México participe.
 
@@ -1373,9 +1445,13 @@ La Secretaría deberá promover y difundir a nivel regional o local, según sea 
 
 ### CAPITULO II. DE LA INFRAESTRUCTURA PARA EL DESARROLLO FORESTAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 110.
 
-La Secretaría en coordinación con la Federación y los Municipios promoverán el crecimiento de infraestructura para el desarrollo forestal, de acuerdo con los mecanismos previstos en la presente Ley;
+La Secretaría en coordinación con la Federación y los Municipios promoverán la construcción, adquisición y/o instalación de infraestructura para el desarrollo forestal, de acuerdo con los mecanismos previstos en la presente Ley y demás ordenamientos aplicables.
+
+Dicha infraestructura podrá ser destinada a:
 
 I.- Electrificación;
 
@@ -1387,17 +1463,29 @@ IV.- Construcción y mantenimiento de caminos forestales;
 
 V.- Torres para la detección y combate de incendios forestales;
 
-VI.- Infraestructura de procesos de transformación y modernización de los sistemas de producción; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VII.- Las demás que se determinen de utilidad e interés público.
+VI.- Infraestructura de procesos de transformación y modernización de los sistemas de producción;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII.- La requerida para la adaptación y/o, en su caso, mitigación del cambio climático; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII.- Las demás que se determinen de utilidad e interés público.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 A fin de lograr en forma integral el desarrollo forestal, en la ampliación y modernización de la infraestructura se atenderán los criterios previstos en la Ley de Planeación del Estado, así como las necesidades de los ámbitos social y económico de las regiones, cuencas, subcuencas y zonas con mayor rezago económico y social.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 111.
 
-El Estado, en coordinación con la Comisión y las Dependencias de la Administración Pública Federal, deberá impulsar los programas de electrificación, desarrollo hidráulico, conservación de suelos y aguas, infraestructura vial y de ampliación de la comunicación rural, para que la promoción de acciones y obras respondan a conceptos de desarrollo integral.
+El Estado, en coordinación con la Comisión y las Dependencias de la Administración Pública Federal, deberá impulsar los programas de electrificación privilegiando aquella que utilice fuente renovables, el desarrollo hidráulico, la conservación de suelos, agua y biodiversidad, la infraestructura vial y de ampliación de la comunicación rural respetando lo dictado por el ordenamiento ecológico del territorio, para que la promoción de acciones y obras respondan a conceptos de desarrollo integral y sustentable.
 
-La Secretaría, en coordinación con CONAFOR y los Municipios, promoverá la infraestructura vial en las regiones forestales del Estado, con la misión primordial de captar y colocar recursos para proyectos de apertura, mejoramiento, conservación y pavimentación, promoviendo la participación, colaboración, aportación y ejecución de los diferentes sectores productivos y vigilando su desarrollo.
+La Secretaria, en coordinación con CONAFOR y los Municipios, de conformidad con lo previsto en los ordenamientos ecológicos del territorio, promoverá la infraestructura vial en las regiones forestales del Estado, con la misión primordial de captar y colocar recursos para proyectos de apertura, mejoramiento, conservación y pavimentación, así como caminos que permitan la vigilancia forestal y prevención de incendios forestales, promoviendo la participación, colaboración, aportación y ejecución de los diferentes sectores productivos y vigilando su desarrollo.
 
 ### CAPITULO III. DE LA INVESTIGACION PARA EL DESARROLLO FORESTAL SUSTENTABLE
 
@@ -1445,9 +1533,17 @@ VI.- Contribuir al diseño, formulación, elaboración y publicación de materia
 
 VII.- Fomentar la formación de instructores y promotores forestales voluntarios;
 
-VIII.- Promover los criterios de política forestal previstos en la presente Ley, y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IX.- Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
+VIII.- Promover los criterios de política forestal previstos en la presente Ley;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IX.- Realizar investigaciones para definir la vulnerabilidad de los ecosistemas forestales ante el cambio climático, así como para definir y conocer el comportamiento temporal, las características físicas y las líneas base de la deforestación y degradación de ecosistemas forestales en el Estado; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+X.- Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
 
 ###### ARTICULO 114.
 
@@ -1543,211 +1639,165 @@ En el Consejo podrán participar, representantes de las Dependencias y Entidades
 
 Además, en la constitución del Consejo se propiciará la representación proporcional y equitativa de sus integrantes y que sus normas de operación interna respondan a las necesidades, demandas, costumbres e intereses de cada territorio o demarcación.
 
-El Consejo será presidido por el titular del Ejecutivo Estatal, contará con una presidencia suplente a cargo del titular de la Secretaría, un Secretario Técnico a cargo del titular de la Gerencia Regional de la Comisión Nacional Forestal, así como con un suplente de éste, que será designado por el Gerente Regional de la CONAFOR.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+El Consejo será presidido por el titular del Ejecutivo Estatal, contará con una presidencia suplente a cargo del titular de la Secretaria, un Secretario Técnico a cargo del titular de la Gerencia Regional de la Comisión Nacional Forestal, así como con un suplente de éste, que será designado por el Gerente Regional de la CONAFOR; además deberá participar en el Consejo, un representante de la Procuraduría.
 
 ## TITULO OCTAVO. DE LOS MEDlOS DE CONTROL, VIGILANCIA Y SANCIONES FORESTALES
 
 ### CAPITULO I. DE LA PREVENCION Y VIGILANCIA FORESTAL
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 124.
 
 La prevención y vigilancia forestal en función de los convenios y acuerdos que se celebren con la Federación y el Municipio, tendrá como función primordial la salvaguarda y patrullaje de los recursos y ecosistemas forestales, así como la prevención de infracciones administrativas del orden forestal.
 
-La Secretaría en coordinación con la Federación y Municipios con la colaboración de los propietarios forestales organizados, comunidades indígenas y otras instituciones públicas formulará, operará y evaluará programas integrales de prevención y combate a la tala clandestina, especialmente en las zonas críticas diagnosticadas previamente, para enfrentarla con diversas acciones, así como para prevenir actos indebidos de cambio de uso del suelo, aprovechamientos ilícitos de recursos forestales, o bien, transporte, almacenamiento, transformación o posesión ilegal de materias primas forestales.
+La Procuraduría en coordinación con la Federación y Municipios con la colaboración de los propietarios forestales organizados, comunidades indígenas y otras instituciones públicas formulará, operará y evaluará programas integrales de prevención y combate a la tala clandestina, especialmente en las zonas críticas diagnosticadas previamente, para enfrentarla con diversas acciones, así como para prevenir actos indebidos de cambio de uso del suelo, aprovechamientos ilícitos de recursos forestales, o bien, transporte, almacenamiento, transformación o posesión ilegal de materias primas forestales.
+
+La Procuraduría tendrá la facultad de imponer medidas o sanciones previstas en la Ley para la Protección al Ambiente del Estado de Hidalgo a quienes infrinjan lo establecido en el presente ordenamiento.
 
 ### CAPITULO II. DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 125.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrá denunciar ante la Secretaría o ante otras Autoridades, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente Ley y las demás que regulen materias relacionadas con los ecosistemas forestales, sus recursos, bienes y servicios ambientales asociados a éstos.
-
-Si en la localidad no existiera representación de la Secretaría, la denuncia se podrá formular ante la Autoridad Municipal o ante las oficinas más próximas a dicha representación.
+Toda persona, grupos sociales u organizaciones de la sociedad civil, podrá denunciar ante la Procuraduría o ante las Autoridades competentes, todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico al ecosistema forestal o daños a los recursos forestales, o contravenga las disposiciones de la presente Ley. Para tal efecto se deberá considerar lo previsto en la Ley para la Protección Ambiental del Estado de Hidalgo.
 
 ###### ARTICULO 126.
 
-El denunciante deberá aportar todos los elementos de prueba con que cuenten para sustentar su denuncia y se encauzará conforme al procedimiento establecido en la presente Ley.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 127.
 
-La denuncia popular podrá ejercitarse por cualquier persona, bastando que se presente por escrito y contenga:
-
-I.- El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y, en su caso, de su representante legal;
-
-II.- Los actos, hechos u omisiones denunciados;
-
-III.- Los datos que permitan identificar al presunto infractor; y
-
-IV.- Las pruebas que en su caso ofrezca el denunciante;
-
-Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor publico que la reciba, levantara acta circunstanciada y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente Artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Secretaría investigue de oficio los hechos constitutivos de la denuncia.
-
-No se admitirán denuncias notoriamente improcedentes o infundadas, así como aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
-
-Si el denunciante solicita a la Secretaría guardar secreto respecto de su identidad, por razones de seguridad e interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones legales aplicables le otorgan.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 128.
 
-La Secretaría, una vez recibida la denuncia, acusará recibo de su recepción, le asignará un número de expediente y la registrará.
-
-En caso de recibirse dos o más denuncias por los mismos hechos, actos u omisiones, se acordará la acumulación en un solo expediente, debiéndose notificar a los denunciantes el acuerdo respectivo.
-
-Una vez registrada la denuncia, la Secretaría, dentro de los 10 días hábiles siguientes a su presentación, notificará al denunciante el acuerdo de calificación correspondiente, señalando el trámite que se le ha dado.
-
-Si la denuncia presentada fuera competencia de otra Autoridad, la Secretaría, acusará recibo al denunciante pero no admitirá la instancia y la turnará a la Autoridad competente para su trámite y resolución, notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 129.
 
-Una vez admitida la instancia, la Secretaría llevará a cabo la identificación del denunciante, y hará del conocimiento la denuncia a la persona o personas, o a las Autoridades a quienes se imputen los hechos denunciados o a quienes pueda afectar el resultado de la acción emprendida, a fin de que presenten los documentos y pruebas que a su derecho convenga en un plazo máximo de 15 días hábiles, a partir de la notificación respectiva.
-
-La Secretaría efectuará las diligencias necesarias con el propósito de determinar la existencia de actos, hechos u omisiones constitutivos de la denuncia.
-
-Asimismo, en los casos previstos en esta Ley, podrá iniciar los procedimientos de inspección y vigilancia que fueran procedentes, en cuyo caso se observarán las disposiciones respectivas del presente título.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 130.
 
-El denunciante podrá coadyuvar con la Secretaría, aportando las pruebas, documentación e información pertinentes. Dicha Dependencia deberá manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante, al momento de resolver la denuncia.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 131.
 
-La Secretaría podrá solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social y privado, la elaboración de estudios, dictámenes, peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
+La Procuraduría podrá solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social y privado, la elaboración de estudios, dictámenes, peritajes sobre cuestiones planteadas en las denuncias que le sean presentadas.
 
 ###### ARTICULO 132.
 
-Si del resultado de la investigación realizada por la Secretaría, se desprende que se trata de actos, hechos u omisiones en que hubieren incurrido Autoridades Estatales o Municipales, emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes.
-
-Las recomendaciones que emita la Secretaría serán públicas.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 133.
 
-En el caso de que no se compruebe que los actos, hechos u omisiones denunciados producen o pueden producir daños a los recursos forestales o contravengan las disposiciones de la presente Ley, la Secretaría lo hará del conocimiento del denunciante, a efecto de que éste emita las observaciones que juzgue convenientes.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 134.
 
-La formulación de la denuncia popular, así como los acuerdos, resoluciones y recomendaciones que emita la Secretaría, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados conforme a las disposiciones jurídicas aplicables, no suspenderán, ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 135.
 
-Los expedientes de denuncia popular que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
-
-I.- Por incompetencia de la Secretaría para conocer de la denuncia popular planteada;
-
-II.- Por haberse dictado la recomendación correspondiente;
-
-III.- Cuando no existan contravenciones a la normatividad ambiental;
-
-IV.- Por falta de interés del denunciante en los términos de este capítulo;
-
-V.- Por haberse dictado anteriormente un acuerdo de acumulación de expedientes; y
-
-VI.- Por la emisión de una resolución derivada del procedimiento de inspección.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 136.
 
-Las Autoridades y servidores públicos involucrados en asuntos de la competencia de la Secretaría, que por razón de sus funciones o actividades puedan proporcionar información pertinente, deberán cumplir con las peticiones que dicha Dependencia le formule.
-
-Las Autoridades y servidores públicos a los que se solicite información documentación que se estime con carácter reservado, conforme a lo dispuesto en la Legislación aplicable, lo comunicarán a la Secretaría. Dicha Dependencia deberá manejar la información proporcionada bajo la más estricta confidencialidad.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 137.
 
-La Secretaría esta facultada para iniciar las acciones que procedan, ante las Autoridades judiciales competentes, cuando conozca de actos, hechos u omisiones que constituyan violaciones a la Legislación Administrativa o Penal.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 138.
 
-Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que afecte los recursos forestales será responsable y estará obligada a reparar los daños causados, de conformidad con las Legislaciones aplicables.
-
-El término para demandar la responsabilidad por actos, hechos u omisiones en detrimento de los recursos forestales será de 90 días hábiles contados a partir del momento en que se produzca.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 139.
 
-Cuando por infracción a las disposiciones de esta Ley se hubieren ocasionado daños o perjuicios, los interesados podrán solicitar a la Secretaría, la formulación de un dictamen técnico, el cual tendrá valor de prueba; en caso de ser presentado en juicio.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ### CAPITULO III. DE LAS VISITAS, OPERATIVOS DE INSPECCION Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 140.
 
-La Secretaría, previo acuerdo o convenio de coordinación con la Federación y los Municipios, por conducto de personal autorizado realizará visitas u operativos de inspección en materia forestal, con el objeto de verificar el cumplimiento de lo dispuesto en esta Ley, su Reglamento, Normas Oficiales Mexicanas, Normas Técnicas Estatales y demás disposiciones aplicables.
+La Procuraduría, previo acuerdo o convenio de coordinación con la Federación y los Municipios, por conducto de personal autorizado realizará visitas u operativos de investigación, supervisión, verificación y vigilancia en materia forestal, con el objeto de supervisar y/o verificar el cumplimiento de lo dispuesto en esta Ley, su Reglamento, Normas Oficiales Mexicanas, Normas Técnicas Estatales y demás disposiciones aplicables.
+
+Para tal efecto se atenderá lo dispuesto por la Ley para la Protección al Ambiente del Estado de Hidalgo, la Ley Orgánica de la Procuraduría de Protección al Ambiente y del Ordenamiento Territorial del Estado de Hidalgo y demás ordenamientos aplicables.
 
 ###### ARTICULO 141.
 
-La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 142.
 
-Las Autoridades competentes podrán realizar, por conducto de personal debidamente autorizado, visitas de inspección, sin perjuicio de otras medidas previstas en las Leyes que puedan llevar a cabo para verificar el cumplimiento de este ordenamiento.
-
-Dicho personal, al realizar las visitas de inspección, deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por Autoridad competente, en la que se precisará el lugar o zona que habrá de inspeccionarse y el objeto de la diligencia.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 143.
 
-El personal autorizado, al iniciar la inspección, se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole, para tal efecto credencial vigente con fotografía, expedida por Autoridad competente que lo acredite para realizar visitas de inspección en la materia, y le mostrará la orden respectiva, entregándole copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
-
-En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
-
-En los casos en que no fuera posible encontrar en el lugar de la visita a persona que pudiera ser designada como testigo, el personal actuante deberá asentar esta circunstancia en el acta administrativa que al efecto se levante, sin que ello afecte la validez de la misma.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 144.
 
-En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo previsto en los Artículos 69 a 74 de la Ley Estatal del Procedimiento Administrativo, Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el acta respectiva, y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho en el término de 5 días hábiles siguientes a la fecha en que la diligencia se hubiere practicado.
-
-A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado.
-
-Si la persona con quien se entendió la diligencia o los testigos, se negaren a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 145.
 
-La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el Artículo 142 de esta Ley, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a la Ley. La información deberá mantenerse por la Autoridad en absoluta reserva, así lo solicita el interesado, salvo en caso de requerimiento judicial.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 146.
 
-La Autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a práctica de la diligencia, independientemente de las sanciones a que haya lugar.
+La Procuraduría podrá solicitar el auxilio de la fuerza pública para efectuar la visita de supervisión o verificación, cuando alguna o algunas personas obstaculicen de manera violenta o puedan poner en riesgo la integridad física de los visitadores, independientemente de las sanciones a que haya lugar.
 
 ###### ARTICULO 147.
 
-Recibida el acta de inspección por la Autoridad ordenadora, se requerirá al interesado, cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación que, en su caso, resulten necesarias, para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundando y motivando el requerimiento. Asimismo, deberá señalarse al interesado que cuenta con un término de 15 días hábiles para que exponga lo que a su derecho convenga y, e su caso, aporte las pruebas que considere procedentes en relación con la actuación de la Secretaría.
-
-Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el lazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo (sic) 3 días hábiles, presente por escrito sus alegatos.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 148.
 
-Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los 20 días hábiles siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
-
-Durante el procedimiento y antes de que se dicte resolución, el interesado y la Secretaría, a petición del primero, podrán convenir la realización de las acciones de restauración o compensación de daños necesarias para la corrección de las presuntas irregularidades observadas. La instrumentación y evaluación de dicho convenio, se llevará a cabo en los términos del Artículo 149 de esta Ley.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 149.
 
-En la resolución administrativa correspondiente, se señalarán o, en su caso, adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
-
-Dentro de los días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la Autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo.
-
-Cuando se trata de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la Autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al Artículo 153 de esta Ley, una multa adicional que no exceda de los límites máximos señalados en dicho precepto.
-
-En los casos en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas, en los plazos ordenados por la Secretaría, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en el Artículo 150 de esta Ley, ésta podrá revocar o modificar la sanción o sanciones impuestas.
-
-En los casos en que proceda, la Secretaría hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
-
-Los propietarios, productores y poseedores de terreros forestales o preferentemente forestales, los titulares de autorizaciones de aprovechamiento de recursos maderables y no maderables, que realicen actividades de forestación y de reforestación, así como las personas que transporten, almacenen o transformen materias primas forestales, deberán dar facilidades al personal autorizado para la realización de visitas u operativos de inspección. En caso contrario, se aplicarán las medidas de seguridad y sanciones previstas en la presente Ley y en las demás disposiciones aplicables.
-
-La Secretaría deberá observar en el desarrollo de los procedimientos de inspección, las formalidades que para la materia señala la presente Ley.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2010)
 
 ### CAPITULO IV. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 150.
 
-Cuando de las visitas u operativos de inspección a que se refiere el Artículo anterior, se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o bien cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones administrativas, la Secretaría podrá ordenar las siguientes medidas de seguridad:
+Cuando de las visitas de supervisión o verificación u operativos en materia forestal que realice la Procuraduría, se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales, o bien cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones administrativas, la Procuraduría podrá ordenar las siguientes medidas de seguridad independientemente de las previstas por la Ley para la Protección Ambiental del Estado de Hidalgo:
 
-I.- El aseguramiento precautorio de los productos y materias primas forestales, así como de los bienes, vehículos, utensilios, herramientas, equipo y cualquier instrumento directamente relacionado con la acción u omisión que origine la imposición de esta medida;
+I.- El aseguramiento precautorio de los productos y materias primas forestales, así como, de los bienes, vehículos, utensilios, herramientas, animales de tiro, cualquier equipo o instrumento directamente relacionado con la acción u omisión que origine la imposición de esta medida;
 
-II.- La clausura temporal, parcial o total de las instalaciones, maquinaria o equipos, según corresponda, para el aprovechamiento, almacenamiento o transformación de los recursos y materias primas forestales o de los sitios o instalaciones en donde se desarrollen los actos que puedan dañar la biodiversidad o los recursos naturales, y
+II.- La clausura temporal, parcial, total o definitiva de las instalaciones, maquinaria o equipos, según corresponda, para el aprovechamiento, transporte, almacenamiento o transformación de los recursos y/o materias primas forestales o de los sitios donde se desarrollen los actos que puedan dañar los ecosistemas forestales, su biodiversidad, los recursos naturales o el patrimonio natural, o que puedan afectar los servicios ambientales que prestan; y,
 
-III.- La suspensión temporal, parcial o total de los aprovechamientos autorizados o de la actividad de que se trate.
+III.- Solicitar a la Secretaría, la suspensión temporal, parcial o total de los aprovechamientos autorizados o de la actividad de que se trate.
 
-A juicio de la Autoridad, se podrá designar al inspeccionado como depositario de los bienes asegurados, de acuerdo a lo establecido en el Reglamento de la presente Ley y en otras disposiciones aplicables;
+La Secretaría deberá acatar dicha solicitud notificando al titular por escrito emitiendo copia a la Procuraduría de la fecha en que cobra vigencia dicha suspensión.
 
-La Secretaría podrá dar destino final a los productos maderables o no maderables que previamente fueron asegurados, hasta en tanto se resuelva el proceso administrativo y se cause ejecutoria.
+Lo anterior, sin perjuicio de las demás responsabilidades a que haya lugar.
+
+La Procuraduría deberá designar al depositario de los bienes asegurados, de acuerdo a lo establecido en el Reglamento de la presente Ley y en otras disposiciones aplicables;
+
+La Procuraduría podrá dar destino final a los productos maderables o no maderables que previamente fueron asegurados, hasta en tanto se resuelva el proceso administrativo y se cause ejecutoria.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 151.
 
-Cuando se imponga alguna o algunas de las medidas de seguridad previstas en el Artículo anterior, se indicarán, en su caso, las acciones que se deben llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para realizarlas, a fin de que, una vez satisfechas, se ordene el retiro de las mismas.
+Cuando se imponga alguna o algunas de las medidas de seguridad previstas en el Artículo anterior, la Procuraduría indicará, en su caso, las acciones que deben llevar a cabo los infractores para subsanar las irregularidades que las motivaron, así como los plazos para realizarlas, a fin de que, una vez satisfechas, determinará si se ordena el retiro de las mismas o se mantiene la medida.
 
 ### CAPITULO V. DE LAS INFRACCIONES
 
@@ -1757,11 +1807,15 @@ Son infracciones a lo dispuesto en la presente Ley y su Reglamento:
 
 I.- Realizar en terrenos forestales o preferentemente forestales cualquier tipo de obras o actividades distintas a las actividades inherentes a su uso, en contravención de esta Ley, su Reglamento, las Normas Técnicas Estatales o Normas Oficiales Mexicanas;
 
-II.- Obstaculizar al personal autorizado para la realización de visitas de inspección;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+II.- Obstaculizar al personal autorizado para la realización de visitas de supervisión o verificación;
 
 III.- Llevar a cabo el aprovechamiento de recursos forestales, la forestación y la reforestación, en contravención a las disposiciones de esta Ley, de su Reglamento, de las Normas Técnicas Estatales o Normas Oficiales Mexicanas;
 
-IV.- Establecer plantaciones forestales comerciales en sustitución de la vegetación primaria nativa actual de los terrenos forestales, salvo los casos señalados en esta Ley, en contravención de esta Ley, su Reglamento, de las Normas Oficiales Mexicanas, Normas Técnicas Estatales aplicables o de las autorizaciones que para tal efecto se expidan;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+IV.- Establecer plantaciones forestales comerciales en sustitución de la vegetación primaria nativa actual de los terrenos forestales, salvo en el caso señalado en esta Ley, en contravención de esta Ley, su Reglamento, de las Normas Oficiales Mexicanas, Normas Técnicas Estatales aplicables o de las autorizaciones que para tal efecto se expidan;
 
 V.- Establecer cultivos agrícolas o realizar labores de pastoreo en terrenos forestales, sin apego a las disposiciones contenidas en el programa de manejo autorizado o en contravención del Reglamento, Normas Técnicas Estatales o de las Normas Oficiales Mexicanas aplicables, así como en todos aquellos terrenos agrícolas o pecuarios que han sido incorporados al sector forestal, mediante acciones de forestación, reforestación, restauración o conservación;
 
@@ -1801,7 +1855,9 @@ XXII.- Utilizar más de una vez, alterar o requisitar inadecuadamente, la docume
 
 XXIII.- Depositar residuos sólidos, que representen peligro de desequilibrio ecológico al ambiente; y
 
-XXlV.- Cualquier otra contravención a lo dispuesto en la presente Ley.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XXlV.- Cualquier otra contravención a lo dispuesto en la presente Ley o la Ley para la Protección al Ambiente del Estado de Hidalgo y demás ordenamientos aplicables.
 
 ### CAPITULO VI. DE LAS SANCIONES
 
@@ -1835,11 +1891,15 @@ Para la imposición de las multas servirá de base el salario mínimo general di
 
 A los reincidentes se les aplicará el doble de las multas previstas en este Artículo, según corresponda.
 
-La Secretaría, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas forestales.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La Procuraduría, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de daño o deterioro de los ecosistemas forestales, la biodiversidad o el patrimonio natural, observando lo previsto por la Ley para la Protección Ambiental del Estado de Hidalgo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 155.
 
-Las infracciones a esta Ley serán sancionadas por la Secretaría, tomando en consideración la gravedad de la infracción cometida y:
+Las infracciones a esta Ley serán sancionadas por la Procuraduría, tomando en consideración la gravedad de la infracción cometida y:
 
 I.- Los daños que se hubieren producido o puedan producirse, así como tipo, localización y cantidad del recurso dañado;
 
@@ -1849,21 +1909,39 @@ III.- El carácter intencional o no de la acción u omisión;
 
 IV.- El grado de participación e intervención en la preparación y realización de la infracción;
 
-V.- Las condiciones económicas, sociales y culturales del infractor, y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VI.- La reincidencia.
+V.- Las condiciones económicas, sociales y culturales del infractor;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VI.- La reincidencia;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VII.- La afectación a especies o ejemplares de vida silvestre enlistadas en alguna categoría de riesgo o al patrimonio natural; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VlII.- Que se hubiese producido el daño o afectación dentro de un área natural protegida.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156.
 
-Cuando la Secretaría determine a través de las visitas de inspección, que existen daños al ecosistema, impondrá como sanción mínima al responsable la ejecución de las medidas de restauración correspondientes.
+Cuando la Procuraduría determine a través de las visitas de supervisión o verificación, que existen daños al ecosistema, la biodiversidad, los recursos naturales o el patrimonio natural, impondrá como sanción mínima al responsable la ejecución de las medidas de restauración, rehabilitación o remediación correspondientes.
 
 Cuando en una sola acta de inspección aparezca que se han cometido diversas infracciones, deberán ser sancionadas individualmente. Las actas que se levanten en casos de flagrancia, deberán hacer constar con precisión esta circunstancia.
 
-La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la Secretaría y servirá de apoyo para incrementar la sanción económica a los reincidentes.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+La amonestación sólo será aplicable a los infractores por primera vez y en casos donde no se afecte o daño al patrimonio natural, las áreas naturales protegidas, alguna especies de vida silvestre en categoría de riesgo, y deberá de constar por escrito. Esta constancia servirá de apoyo para incrementar la sanción económica a los reincidentes.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 157.
 
-Cuando la gravedad de la infracción lo amerite, la Secretaría solicitará a las Autoridades que los hubieren otorgado, la suspensión, modificación, revocación o cancelación de la concesión, permiso, licencia y en general de todas las autorizaciones otorgadas para la realización de las actividades calificadas como infracciones.
+Cuando la gravedad de la infracción lo amerite, la Procuraduría solicitará a las Autoridades que los hubieren otorgado, la suspensión, modificación, revocación o cancelación de la concesión, permiso, licencia y en general de todas las autorizaciones otorgadas para la realización de las actividades calificadas como infracciones.
 
 ###### ARTICULO 158.
 
@@ -1875,9 +1953,11 @@ Para los efectos de esta Ley, se considerará reincidente al infractor que incur
 
 ### CAPITULO VII. DEL RECURSO DE REVISION
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 160.
 
-En contra de los actos y resoluciones dictadas en los procedimientos administrativos, con motivo de la aplicación de esta Ley, su Reglamento y Normas Técnicas Estatales que de ella emanen, se estará a lo dispuesto por la Ley Estatal del Procedimiento Administrativo.
+En contra de los actos y resoluciones dictadas en los procedimientos administrativos, con motivo de la aplicación de esta Ley, su Reglamento y Normas Técnicas Estatales que de ella emanen, se estará a lo dispuesto por la Ley para la Protección del Ambiente del Estado de Hidalgo.
 
 ## TRANSITORIOS
 
@@ -1912,3 +1992,21 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto.- Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaria de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
