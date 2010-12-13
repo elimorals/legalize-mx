@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-39599"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-10"
-last_updated: "2009-01-12"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACION PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de mayo de 2004.
 
@@ -159,7 +159,9 @@ IX.- Implementar hábitos y prácticas de alimentación sana y balanceada y esti
 
 X.- Desarrollar aptitudes solidarias en los individuos para crear conciencia sobre la preservación de la salud, la planeación familiar, la maternidad y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a las adicciones;
 
-XI.- Hacer conciencia de la necesidad de un desarrollo sustentable, basado en el aprovechamiento racional de los recursos naturales y en la protección del medio ambiente y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XI.- Hacer conciencia del cambio climático y la necesidad de un desarrollo sustentable, basado en el aprovechamiento racional de los recursos naturales, los servicios ambientales, el patrimonio natural y en la protección del medio ambiente; y,
 
 XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general.
 
@@ -167,7 +169,11 @@ XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el
 
 El criterio que orientará la educación que imparta el Estado, se sustentará en el progreso científico y social, luchando contra la ignorancia y sus efectos, la sumisión, los fanatismos y los prejuicios, a través del proceso educativo escolarizado, no escolarizado o mixto de cualquier tipo, nivel o modalidad, mediante la interacción del proceso educativo; además:
 
-I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, ambiental, social y cultural del pueblo;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 II.- Será nacional y atenderá a la solución de nuestros problemas, al aprovechamiento de nuestros recursos, defensa de nuestra independencia política, aseguramiento de nuestra independencia económica y continuidad de nuestra cultura y
 
@@ -585,9 +591,9 @@ IV.- Conocimientos elementales y el desarrollo de habilidades para valorar las d
 
 V.- Elementos básicos y cualidades éticas, para la participación libre y responsable en la vida familiar, comunitaria y social;
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VI.- Conocimientos básicos, valores, actitudes y hábitos alimenticios para la conservación de la salud individual y colectiva, así como el cuidado del entorno ecológico y
+VI.- Conocimientos básicos, valores, actitudes y hábitos alimenticios para la conservación de la salud individual y colectiva, así como, para el cuidado del entorno ambiental y la adaptación y mitigación del cambio climático; y
 
 VII.- Capacidad para relacionarse, comunicarse y colaborar en el trabajo colectivo, para el logro de un objetivo común.
 
@@ -731,13 +737,17 @@ La educación de este tipo que impartan las empresas, se hará conforme a lo dis
 
 #### SECCION QUINTA. DE LAS ACTIVIDADES COMPLEMENTARIAS EN LA EDUCACION BASICA Y NORMAL
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 74.
 
-En las escuelas Primarias, Secundarias y Normales del Estado, además de los contenidos definidos que se establecen en los Planes y Programas de Estudio, se favorecerá la implementación de actividades tales como: Agricultura, industria, artes y oficios, acordes al contexto social y regional en donde esté ubicada la Institución Educativa.
+En las escuelas Primarias, Secundarias y Normales del Estado, además de los contenidos definidos que se establecen en los Planes y Programas de Estudio, se favorecerá la implementación de actividades tales como: Agricultura, silvicultura, conservación y manejo sustentable de los recursos naturales, industria, artes y oficios, acordes al contexto social y regional en donde esté ubicada la Institución Educativa.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 75.
 
-La Autoridad Educativa Local, apoyará las actividades a desarrollar para la formación en materia de agricultura, industria, artes y oficios. Tendrá como objetivo, capacitar al educando en la realización de actividades técnicas y manuales.
+La Autoridad Educativa Local, apoyará las actividades a desarrollar para la formación en materia de agricultura, silvicultura, conservación y manejo sustentable de los recursos naturales, industria, artes y oficios. Tendrá como objetivo, capacitar al educando en la realización de actividades técnicas y manuales.
 
 #### SECCION SEXTA. DE LA EDUCACION PARA LA VIDA Y EL TRABAJO
 
@@ -807,11 +817,21 @@ VIII.- Lograr una orientación vocacional y profesional adecuada;
 
 IX.- Desarrollar en el alumno habilidades de investigación, comunicación y pensamiento, que enriquezcan su capacidad para tomar decisiones;
 
-X.- Resolver problemas de acuerdo con las necesidades del desarrollo sustentable que los posibiliten para insertarse en el ámbito laboral;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XI.- Lograr un espacio de convivencia juvenil ordenada, plural y respetuosa que fomente el aprendizaje en su conjunto y
+X.- Resolver problemas relacionados con el cambio climático y las necesidades del desarrollo sustentable que los posibiliten para insertarse en el ámbito laboral;
 
-XII.- Formar ciudadanos que valoren el carácter intercultural de nuestro Estado y contribuyan a fortalecer la democracia.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XI.- Lograr un espacio de convivencia juvenil ordenada, plural y respetuosa que fomente el aprendizaje en su conjunto;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XII.- Formar ciudadanos que valoren el carácter intercultural de nuestro Estado y contribuyan a fortalecer la democracia; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XIII.- Generar conciencia sobre la huella ecológica individual y colectiva.
 
 ###### ARTICULO 83.
 
@@ -1452,3 +1472,19 @@ LIC. MANUEL ANGEL NUÑEZ SOTO.
 P.O. 12 DE ENERO DE 2009.
 
 ÚNICO.- Con excepción de lo referente a la comercialización de alimentos en los planteles educativos que se aplicará a partir del siguiente ciclo escolar, el presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto. Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaría de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
