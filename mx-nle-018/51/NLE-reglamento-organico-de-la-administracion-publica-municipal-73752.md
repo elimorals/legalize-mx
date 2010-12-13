@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-municipal-7375
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-22"
-last_updated: "2010-11-05"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "NLE"
 ---
 # REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE GARCIA, NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2010 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE GARCIA, NUEVO LEON
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO CUARTO DEL ACUERDO APROBADO POR EL R. AYUNTAMIENTO DEL MUNICIPIO DE GARCIA, NUEVO LEON, PUBLICADO EN EL P.O. 5 DE NOVIEMBRE DE 2010, SE MODIFICA EL NOMBRE EN TODOS LOS REGLAMENTOS QUE INDIQUEN "DIRECCION DE SERVICIOS PUBLICOS" POR EL DE "SECRETARIA DE SERVICIOS PÚBLICOS".</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE DICIEMBRE DE 2010.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de febrero de 2010.
 
@@ -963,17 +963,81 @@ Para el despacho de los asuntos de su competencia, la Contraloría se auxiliará
 
 ### CAPITULO DECIMO TERCERO. DE LA SECRETARIA DE SERVICIOS PÚBLICOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2010 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2010) (F. DE E. 13 DE DICIEMBRE DE 2010)
 
 ###### Artículo 22.
 
-Para el estudio, planeación y despacho de los diversos asuntos de la Administración Pública Municipal, el Presidente Municipal se auxiliará con las siguientes dependencias:
+La Secretaría de Servicios Públicos es la dependencia encargada de prestar a la comunidad los servicios básicos previstos en este precepto, y al efecto le corresponde el despacho de los siguientes asuntos:
 
-I.- ... (sic)
+A). De Servicios Generales:
 
-X.- Secretaría de Servicios Públicos
+I. Planear, realizar, supervisar, controlar y mantener en condiciones de operación los servicios públicos municipales que a continuación se indican:
+
+a) Limpieza de áreas públicas y edificios públicos;
+
+b) Alumbrado público;
+
+c) Ornato, forestación, conservación y construcción de parques, plazas y jardines;
+
+d) Reparación y mantenimiento de vías públicas;
+
+e) Limpieza de áreas municipales y drenaje pluvial;
+
+f) Emergencia de agua potable;
+
+g) Cementerios o panteones;
+
+h) Recolección de basura domiciliaria;
+
+i) Las demás que determine el Republicano Ayuntamiento y que tengan por objeto el ejercicio de todas las funciones y actividades encaminadas a satisfacer necesidades sociales de servicios públicos.
+
+II. Participar en la innovación y avances tecnológicos que permitan un mayor ejercicio de sus funciones;
+
+III. Encargarse de la conservación y mantenimiento de cementerios o panteones.
+
+B). De Imagen Urbana:
+
+I. Inducir las acciones necesarias que permitan la participación de la población del Municipio para su embellecimiento;
+
+II. Arborizar las áreas municipales utilizando árboles y plantas nativas de la región que requieran el menor mantenimiento.
+
+C). De Operación:
+
+I. Atender los requerimientos de la infraestructura social de los servicios públicos municipales;
+
+D). De Participación Urbana:
+
+I. Fomentar en la población el ahorro en el consumo del agua;
+
+II. Promover la acción de la sociedad civil encaminada a evitar la destrucción de los bienes del dominio municipal;
+
+III. Promover el concurso de la población del Municipio para facilitar la prestación del servicio de limpia.
+
+E). De Planeación y Promoción de Obras:
+
+I. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras de servicios públicos;
+
+II. Dirigir, coordinar y controlar la ejecución de los programas relativos a la construcción y reparación de los servicios públicos;
+
+III. Elaborar los proyectos y presupuestos de los servicios públicos, debiendo coordinarlos con las dependencias que correspondan.
+
+F). De Contratación:
+
+I. Expedir las bases a que deben ajustarse los concursos para la adjudicación de los contratos de obras relacionadas con la prestación de los servicios públicos y vigilar el cumplimiento de los mismos.
+
+G). De Orden Legal:
+
+I. Realizar las inspecciones, suspensiones y supervisiones de las obras que se realicen en las vías públicas del Municipio, así como imponer las sanciones que correspondan a los responsables cuando éstos incurran en delitos o en violación a las disposiciones o reglamentos aplicables;
+
+II. Recibir, tramitar y resolver sobre el otorgamiento de permisos para trabajos en las vías públicas que realicen las compañías prestadoras de servicios, tanto del Sector Público como del Sector Privado, de conformidad a las especificaciones y normas aplicables;
+
+III. Dar conocimiento a las autoridades competentes de quien haga mal uso y ocasione daños a los servicios públicos;
+
+IV. Otorgar visto bueno para la liberación de vehículos que causen daños en el patrimonio Municipal.
+
+Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes, o le asigne el Presidente Municipal.
+
+Para el despacho de los asuntos de su competencia, la Dirección de Servicios Públicos se auxiliará con las Direcciones, Coordinaciones, Jefaturas y personal que sea necesario.
 
 ### CAPITULO DECIMO CUARTO. DE LA DIRECCIÓN DE DESARROLLO RURAL
 
