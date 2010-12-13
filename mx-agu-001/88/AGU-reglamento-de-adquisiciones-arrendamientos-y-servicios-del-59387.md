@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-5938
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-04"
-last_updated: "2008-02-04"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59387&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de febrero de 2008.
 
@@ -427,11 +427,13 @@ XV. Las demás previsiones que deban tomarse en cuenta según la naturaleza y ca
 
 La programación de las adquisiciones, no deberá rebasar un ejercicio presupuestal, salvo que se cuente con autorización del Comité, del Secretario de Finanzas, del Ayuntamiento o con la del Congreso del Estado según sea el caso.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 17.
 
-Sólo podrán rebasar un ejercicio presupuestal, aquellos contratos que están indicados como gastos fijos de la administración municipal y los demás que determine el respectivo Comité a solicitud de las dependencias requisitantes como son:
+El Municipio, podrá asumir compromisos de pago que rebasen un eje rcicio (sic) presupuestal, previa autorización del Comité, con motivo de la contratación de las adquisiciones, arrendamientos o servicios a solicitud de las dependencias requisitantes, los que se enumeran a continuación:
 
-I. Póliza del seguros (sic) de vida y del parque vehicular;
+I. Póliza de seguros de vida y del parque vehicular;
 
 II. Suministro de gasolina, combustibles y lubricantes;
 
@@ -441,7 +443,7 @@ IV. Alimento para personal;
 
 V. Alimento para animales;
 
-VI. Refacciones y servicios de mantenimiento y reparación a vehículos utilitarios del Municipio;
+VI: Refacciones y servicios de mantenimiento y reparación a vehículos utilitarios del Municipio;
 
 VII. Despensas y/o vales de despensas;
 
@@ -455,9 +457,23 @@ XI. Servicio de mantenimiento y reparación de elevadores;
 
 XII. Servicio de mantenimiento y reparación de planta de emergencia;
 
-XIII. Servicio de fumigación; y
+XIII. Servicio de fumigación; y (sic)
 
-XIV. Servicio y mantenimiento del sistema de comunicación.
+XIV. Servicio y mantenimiento del sistema de comunicación;
+
+XV. Servicio de Impresión de Boletas del Impuesto a la Propiedad Raíz;
+
+XVI. Servicio de entrega a domicilio o de distribución de Boletas del Impuesto a la Propiedad Raíz;
+
+XVII. Contratación para la adquisición o arrendamiento de bienes, o para la prestación de servicios, que sean estrictamente indispensables para la organización, preparación, montaje, desarrollo y/o conclusión del evento en el que tome protesta el Presidente Municipal al inicio de un periodo trienal por el que se renueve el H. Ayuntamiento;
+
+XVIII. Gastos pre-operativos para la adquisición de papelería, sellos oficiales y/u otros artículos necesarios para la normal operación y funcionamiento de las dependencias y unidades administrativas de la Administración Pública Municipal, como para el despacho de los asuntos de su competencia, al inicio de un periodo trienal por el que se renueve el H. Ayuntamiento. Estos gastos, se podrán autorizar cuando se hayan ejercido o comprometido en su totalidad los recursos asignados para el concepto de gastos de gobierno de transición, previstos en el Presupuesto de Egresos del ejercicio fiscal con el que finalice el periodo trienal de que se trate;
+
+XIX. Servicios profesionales y/o especializados para la impartición de cursos y seminarios de orientación, asesoría, capacitación, elaboración de proyectos y preparación a quienes se encuentren próximos a recibir nombramientos o a ocupar cargos de dirección y/o de decisión en las dependencias y unidades administrativas de la Administración Pública Municipal, al inicio de un periodo trienal por el que se renueve el H. Ayuntamiento, que se requieran con motivo del proceso de entrega-recepción y que tengan como objetivo el conoci-miento (sic), análisis y resolución de los asuntos competencia del Municipio;
+
+Para efecto de las fracciones XVII, XVIII y XIX, se entenderá como área requisitante el Presidente Municipal Electo, el que deberá adjuntar a su solicitud la justificación de la adquisición o contratación respectiva según sea el caso, y adjuntar las cotizaciones correspondientes a fin de determinar el techo presupuestal base para la afectación multianual respectiva.
+
+Asimismo, en relación con los gastos a que se refieren las fracciones XVII, XVIII y XIX, las contrataciones respectivas se perfeccionarán con la asignación o adjudicación correspondiente, debiendo seguir las reglas y principios para los procedimientos administrativos de contratación regulados en el presente Reglamento, con excepción del plazo para su formalización previsto en el artículo 257 de este ordenamiento, el cual será dentro de los diez días hábiles del siguiente ejercicio; por consiguiente, el proveedor estará constreñido a cumplir en los términos en que el Municipio le giró la orden de compra o en función de los establecidos en las bases de la licitación, como en el fallo de la adjudicación que corresponda, según sea el caso, contra el precio aceptado o determinado por el Municipio de Aguascalientes.
 
 ###### ARTÍCULO 18.
 
@@ -3574,3 +3590,11 @@ Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales
 En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con fundamento en los artículos 120, fracción VII de la Ley Municipal par (sic) el Estado de Aguascalientes; 107, fracción IX del Código Municipal de Aguascalientes, tengo a bien solicitar la publicación del presente.
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- Lic. Adrián Ventura Dávila.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
