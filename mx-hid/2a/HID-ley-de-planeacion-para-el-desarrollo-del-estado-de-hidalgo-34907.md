@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-para-el-desarrollo-del-estado-de-hidalgo-3490
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-24"
-last_updated: "2010-07-19"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de noviembre de 2003.
 
@@ -107,13 +107,37 @@ VI.- El equilibrio de los factores productivos que favorecen la protección y pr
 
 VII.- La coordinación de esfuerzos, objetivos, estrategias y acciones entre los órdenes de Gobierno, para obtener un desarrollo integral y sustentable del Estado;
 
-VIII.- El fortalecimiento de los mecanismos para la participación activa y responsable de la sociedad y su incorporación al proceso de desarrollo y (sic);
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+VIII.- El fortalecimiento de los mecanismos para la participación activa y responsable de la sociedad y su incorporación al proceso de desarrollo;
 
 IX.- El impulso al desarrollo regional equilibrado, con base en las potencialidades de las regiones; en políticas diferenciadas de desarrollo y en el aprovechamiento racional de los recursos naturales, humanos, técnicos y financieros del Estado y los Municipios;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-IX (SIC).- El aprovechamiento óptimo y racional de los recursos naturales, humanos, técnicos y financieros de los Municipios y regiones para su desarrollo.
+X.- El aprovechamiento óptimo y racional de los recursos naturales, humanos, técnicos y financieros de los Municipios y regiones para su desarrollo.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XI.- la planeación del desarrollo sustentable sobre las bases de la evaluación ambiental estratégica, el manejo integrado de cuencas y el ordenamiento ecológico del territorio; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+XII.- La planeación del desarrollo en el Estado debe considerar criterios de adaptación y, en su caso, mitigación al cambio climático.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 3 Bis.
+
+En la planeación Estatal del desarrollo se deberán incorporar criterios de sustentabilidad a través de la evaluación ambiental estratégica, el manejo integrado de cuencas y los ordenamientos ecológicos del territorio que se establezcan de conformidad con las disposiciones en la materia.
+
+La planeación y realización de las acciones en materia de política ambiental y ordenamiento territorial y su inserción en la Planeación del Desarrollo, se realizarán con la participación de la Secretaría de Medio Ambiente.
+
+Para efectos de esta Ley se entenderá por:
+
+I.- Evaluación Ambiental Estratégica: Conjunto de enfoques analíticos y participativos que buscan integrar las consideraciones ambientales, en las etapas tempranas del proceso de toma de decisiones, para ayudar a formular las políticas, planes y programas, evaluar la potencial efectividad y sostenibilidad de los mismos; y evaluar las interconexiones con las consideraciones económicas y sociales; y
+
+II.- Manejo Integrado de Cuenca: Instrumento de gestión que emplea el enfoque de cuenca hidrográfica para entender las interrelaciones entre los recursos naturales (clima-relieve-suelo-vegetación), así como la forma en que se organiza la población para apropiarse de ellos y su impacto en la cantidad, calidad y temporalidad del agua, con el objetivo de equilibrar el aprovechamiento de los recursos naturales con la conservación de los mismos.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
@@ -286,6 +310,12 @@ XXII.- Establecer coordinación y programas de trabajo, con Dependencias Federal
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2010)</small>
 
 XXIII.- Establecer, coordinar y conducir las actividades del Sistema Integral de Información Estatal para la Planeación del Desarrollo del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 20 Bis.
+
+la Secretaría de Medio Ambiente será la encargada de definir la política ambiental en la Planeación del Desarrollo utilizando los instrumentos de política ambiental previstos en la ley para la Protección al Ambiente del Estado de Hidalgo; además, verificará que las propuestas que realicen las diversas dependencias de la administración pública sean acordes con los principios de sustentabilidad.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
@@ -517,17 +547,17 @@ El Plan Municipal y los Programas de Desarrollo, una vez aprobados, serán oblig
 
 ### CAPITULO V. PLANEACION REGIONAL DEL DESARROLLO
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 50.
 
-Será responsabilidad del Poder Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Desarrollo Regional, promover la Planeación Regional del Desarrollo, que se llevará a cabo en coordinación con los Gobiernos Federal y Municipales, con base en lo establecido por el Plan Estatal de Desarrollo, procurando un Desarrollo Regional Integral y Sustentable a través de la coordinación de objetivos y prioridades y estableciendo medios de colaboración, para la realización de los Programas a los que alude esta Ley, en el marco del Sistema Estatal de Planeación Democrática y con pleno respeto a la autonomía Municipal.
+Será responsabilidad del Poder Ejecutivo Estatal por conducto de las Secretarías de Desarrollo Social y de Medio Ambiente, promover la Planeación Regional del Desarrollo, con base en la evaluación ambiental estratégica, el manejo integrado de cuencas los ordenamientos ecológicos territoriales, y demás instrumentos de política ambiental previstos en la ley, en coordinación con los Gobiernos Federal y Municipales con base en lo establecido por el Plan Estatal de Desarrollo, procurando un Desarrollo Regional Integral, Sustentable y Sostenido a través de la coordinación de objetivos y prioridades, y estableciendo medios de colaboración para la realización de los Programas a los que alude esta Ley, en el marco del Sistema Estatal de Planeación Democrática y con pleno respeto a la autonomía Municipal.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 51.
 
-Para efectos de la Planeación del Desarrollo del Estado, el Poder Ejecutivo Estatal, decretará una regionalización y metropolización, de acuerdo a criterios de equidad en el crecimiento económico, desarrollo social e integración de los respectivos Municipios y sus habitantes, estableciendo para tal efecto, las instancias administrativas regionales, responsables de coordinar y conducir el desarrollo de las regiones, que se conformen de acuerdo al referido Decreto.
+Para efectos de la Planeación del Desarrollo del Estado, el Poder Ejecutivo Estatal decretará, una regionalización considerando criterios de cuenca y de ordenamiento ecológico territorial, además de criterios de equidad en el crecimiento económico, desarrollo social e integración territorial de los respectivos Municipios y sus habitantes.
 
 > <small>(REFORMADO PARRAFO PRIMERO, P.O. 19 DE JULIO DE 2010)</small>
 
@@ -537,9 +567,11 @@ En el marco del Comité de Planeación para el Desarrollo del Estado de Hidalgo,
 
 La organización, funcionamiento, atribuciones y competencias de los Comités de Planeación para el Desarrollo Regional, se establecerán en el instrumento jurídico que los rija.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 53.
 
-La integración Territorial de los Municipios del Estado en Regiones, para efectos de la Planeación del Desarrollo Integral de la Entidad, se llevará a cabo con base en un análisis político, económico, social y estructural que determine la asociación de Municipios en Regiones de Desarrollo. Dicha integración, será emitida por Decreto del Titular del Ejecutivo Estatal que será publicado en el Periódico Oficial del Estado de Hidalgo.
+La integración territorial de los Municipios del Estado en Regiones, para efectos de la Planeación del Desarrollo Integral de la Entidad, se llevará a cabo con base en la evaluación ambiental estratégica, el manejo integrado de cuencas y los ordenamientos ecológicos territorial; además, se tomarán en cuenta factores político, económico, social y estructural que determine la asociación de Municipios en Regiones de Desarrollo. Dicha integración será emitida por Decreto del Titular del Ejecutivo Estatal que será publicado en el Periódico Oficial del Estado de Hidalgo.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
 
@@ -612,6 +644,12 @@ VI.- Promover, convocar e impartir cursos, talleres, seminarios, conferencias, f
 VII.- Generar publicaciones, compendios y documentos que permitan difundir la información relacionada con el desarrollo del Estado a nivel estatal, regional y municipal y;
 
 VIII.- Las demás que le sean encomendadas expresamente por el Gobernador del Estado y la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 63 Bis.
+
+la Secretaría de Medio Ambiente será la encargada de diseñar, integrar, formar, administrar y actualizar el Sistema Estatal de Información Ambiental.
 
 ### CAPITULO VII. PARTICIPACION SOCIAL EN LA PLANEACION
 
@@ -858,3 +896,19 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su Publi
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El Reglamento de la Ley se expedirá en un término de 180 días naturales a partir de la entrada en vigor de este Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2010
+
+Artículo Primero.- El presente decreto entrara en vigor al siguiente día de su Publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- En los casos en que, de conformidad con el presente ordenamiento, pasen a dependencias del Poder Ejecutivo del Estado atribuciones que los Artículos derogados otorgaban a otras dependencias u órganos, deberá hacerse el traspaso consecuente de las unidades o áreas administrativas respectivas, incluyendo el personal adscrito a las mismas, las partidas presupuestales conducentes, el mobiliario, archivos y equipo en general.
+
+Artículo Cuarto.- Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias u órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afectaran los derechos que hubieren adquirido por su relación laboral con la administración pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a la Secretaria de Gobierno y a la organización sindical correspondiente, para su atención.
+
+Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificara a los Interesados el cambio de radicación.
+
+Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
