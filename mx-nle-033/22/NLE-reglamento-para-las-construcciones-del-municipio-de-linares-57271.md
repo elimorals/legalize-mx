@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-las-construcciones-del-municipio-de-linares-572
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-15"
-last_updated: "2007-10-15"
+last_updated: "2010-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE LINARES, N.L
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DOS DEL REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE LINARES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de octubre de 2007.
 
@@ -2221,113 +2223,25 @@ J) PRUEBAS DE CARGA
 
 Deberán realizarse por personal especializado y acreditado.
 
-###### Artículo 268.
-
-Ejecutarse en obras y/ o lugares que para garantizar la integridad física de los ciudadanos el Municipio lo determine por medio de la Dirección General de Desarrollo Urbano y Obras Públicas y Protección Civil Municipal en forma conjunta.
-
 XIII.- SISTEMAS DE AUTOCONSTRUCCION
 
 A) INCENTIVOS
 
-###### Artículo 269.
-
-La autoridad ofrecerá asistencia técnica en las construcciones que así lo requieran en materia relacionada con Desarrollo Urbano y Ordenamiento Territorial.
-
-###### Artículo 270.
-
-Las demás que señale la Ley correspondiente.
-
 B) REGIMEN FISCAL
-
-###### Artículo 271.
-
-El otorgado por la autoridad competente en la materia o la Secretaria de Hacienda y Crédito Público a través del SAT.
 
 C) CASOS DE REGULACION FORZOSA
 
-###### Artículo 272.
-
-Las construcciones que por poner en riesgo la integridad física o patrimonio de las personas específicamente los asentamientos irregulares deberán aceptar las disposiciones de la autoridad en materia de desalojo del lugar, las cuales según sea el caso podrán ser reubicadas en un lugar seguro.
-
-###### Artículo 273.
-
-Las demás que señale la Ley correspondiente.
-
 D) CONSTRUCCIONES EN ZONAS RURALES
-
-###### Artículo 274.
-
-En caso de autoconstrucción, siempre y cuando la misma no exceda los 20 M2 de construcción, el propietario deberá notificarlo por escrito para conocimiento de la autoridad municipal.
-
-###### Artículo 275.
-
-En caso de exceder los 20 M2 de construcción deberá cumplir con los requisitos, trámites y disposiciones mencionados en el presente Reglamento.
 
 XIV.- CONSTRUCCION DE VIVIENDA DE INTERES SOCIAL Y POPULAR
 
 A).- INCENTIVO
 
-###### Artículo 276.
-
-Los incentivos en el caso de viviendas de interés social y popular se apegan de acuerdo a la Ley correspondiente y/ o a las normativas establecidas por las Leyes competentes en la materia.
-
 B).- REDUCCIONES O EXENCIONES
-
-###### Artículo 277.
-
-En las reducciones o exenciones, el presente Reglamento se apega de acuerdo a la Ley correspondiente y/ o a las normativas establecidas por las Leyes competentes en la materia.
 
 XV.- PROHIBICIONES, SANCIONES Y MEDIOS PARA HACER CUMPLIR EL PRESENTE REGALMENTO (SIC) MUNICIPAL
 
-###### Artículo 278.
-
-Las Prohibiciones a servidores públicos, edificadores o constructoras y usuarios, serán aplicadas de acuerdo a lo determinado en la ley correspondiente a el tema y serán respetadas de manera estricta.
-
-###### Artículo 279.
-
-El Apercibimiento será realizado conforme a lo establecido en la ley y en las demás que señalen las leyes competentes en la materia.
-
-###### Artículo 280.
-
-Las Multas generadas por la violación al presente reglamento serán aplicadas de acuerdo a lo que establece la ley y las demás relativas al tema.
-
-###### Artículo 281.
-
-La suspensión de la Obra o Construcción se realizara bajo las disposiciones establecidas en la ley y demás relativas en la materia.
-
-###### Artículo 282.
-
-La Clausura de una Obra o Construcción se realizara estrictamente apegados a los términos y procedimientos señalados en la ley.
-
-###### Artículo 283.
-
-La Demolición se llevara a cabo de acuerdo alo (sic) establecido en la ley y en las disposiciones establecidas en el presente reglamento y en las demás que señale las leyes competentes en la materia.
-
-###### Artículo 284.
-
-El Arresto Administrativo será llevado acabo (sic) apegado de manera estricta a lo establecido en la ley y en las demás leyes competentes en la materia, en los términos que señale la misma.
-
 XVI.- RECURSOS ADMINISTRATIVOS Y MEDIOS DE DEFENSA DE LOS PARTICULARES
-
-###### Artículo 285.
-
-Los Recursos Administrativos relacionados al presente reglamento serán conforme a lo establecido en la ley y demás disposiciones legales competentes en la materia.
-
-###### Artículo 286.
-
-Los términos de Interposición serán conforme a lo contemplado en la ley y demás disposiciones legales competentes en la materia.
-
-###### Artículo 287.
-
-La Legitimación será conforme a lo establecido en la ley y en las demás disposiciones legales competentes en la materia.
-
-###### Artículo 288.
-
-L a Suspensión del Acto Recurrido, se apegara a lo señalado en la ley y demás disposiciones legales competentes en la materia.
-
-###### Artículo 289.
-
-Las Autoridades Competentes para resolver y el término para efecto son las señaladas en la ley y demás disposiciones legales contempladas en la misma y en su caso en otras competentes en la materia.
 
 TRANSITORIOS (SIC) .-
 
@@ -2342,3 +2256,13 @@ PRESIDENTE MUNCIPAL (SIC)
 LIC. PABLO FEDERICO TAMEZ MORALI
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE DICIEMBRE DE 2010.
+
+UNO.- Este Reglamento para las Construcciones del Municipio de Linares, Nuevo León fue aprobado el día veinticuatro del mes de noviembre del año 2010, en Sesión Ordinaria No. 36 por el H. Ayuntamiento de Linares, N. L.
+
+DOS.- El presente Reglamento deroga al Reglamento para las Construcciones del Municipio de Linares, N.L. Aprobado el veintisiete de agosto del 2007 y publicado en el Periódico Oficial el quince de Octubre del 2007.
+
+TRES.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
