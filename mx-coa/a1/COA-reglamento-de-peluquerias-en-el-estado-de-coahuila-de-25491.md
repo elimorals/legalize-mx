@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-peluquerias-en-el-estado-de-coahuila-de-25491"
 country: "mx"
 rank: "reglamento"
 publication_date: "1926-12-25"
-last_updated: "1926-12-25"
+last_updated: "2010-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO DE PELUQUERIAS EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO DE PELUQUERIAS EN EL ESTADO
+REGLAMENTO DE PELUQUERÍAS EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL DECRETO NÚMERO 359, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el 25 de diciembre de 1926.
 
@@ -116,3 +118,9 @@ IMPRIMASE, COMUNIQUESE Y OBSERVESE
 Saltillo, Coah., 10 de Diciembre de 1926
 
 M. PEREZ TREVIÑO, (Rúbrica). El Srio. del Ejecutivo del Estado, Lic. Arnulfo M. Silier (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
