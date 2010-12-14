@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-desarrollo-social-50807
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2007-01-16"
+last_updated: "2010-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE DEL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NUMERO 5 PUBLICADO EN LA G.O. DE 14 DE DICIEMBRE DE 2010, CUANDO SE NOMBRE AUN IMPLICITAMENTE A LA SECRETARIA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE, SE ENTENDERA QUE HACE REFERENCIA A LA SECRETARIA DE DESARROLLO SOCIAL.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL EL 16 DE ENERO DE 2007.</small>
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -904,3 +904,17 @@ Segundo. Se derogan todas las disposiciones reglamentarias y de menor jerarquía
 Tercero. Las funciones que estaban previstas en el artículo 19 de este ordenamiento deberán ser incorporadas, en un término no mayor a 90 días, al Reglamento Interior del Instituto Veracruzano de Fomento al Desarrollo Regional, exceptuando la fracción XXVIII del citado precepto, cuyo contenido subsistirá pero ahora trasladado a la fracción XXXI del artículo 23 del Reglamento Interior de la Secretaría de Desarrollo Social y Medio Ambiente.
 
 Cuarto. El titular de la Secretaría de Desarrollo Social y Medio Ambiente y la Subsecretaría de Finanzas y Planeación transferirán, en un plazo no mayor a 60 días, los recursos financieros materiales y humanos con los cuales hasta el momento ha venido operando la Dirección General de Ordenamiento Urbano, al Instituto Veracruzano de Fomento al Desarrollo Regional, observando estrictamente las disposiciones administrativas y laborales vigentes y aplicables en la materia.
+
+G.O. 14 DE DICIEMBRE DE 2010.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Cuando en Leyes, Códigos, Reglamentos y demás ordenamientos legales aplicables se nombre, aun implícitamente, a la Secretaría de Desarrollo Social y Medio ambiente, Secretaría de Desarrollo Regional, Secretaría de Desarrollo Urbano o a cualesquiera otras dependencias diversas que las hayan sustituido, a partir de la entrada en vigor del presente, se entenderá que se hace referencia a la Secretaría de Desarrollo Social. Cuando en dichos ordenamientos se hable de la Dirección General de Asuntos Ecológicos, de la Coordinación Estatal de Medio Ambiente, de la Coordinación General de Medio Ambiente, de la Subsecretaría de Medio Ambiente o de la Subsecretaría de Medio Ambiente y Cambio Climático o de cualesquiera otras dependencias diversas que las hayan sustituido, a partir de la entrada en vigor del presente decreto, se entenderá que se hace referencia a la Secretaría de Medio Ambiente.
+
+Tercero. Los recursos humanos, materiales y financieros, así como la adscripción de los órganos existentes de la Secretaría de Desarrollo Social y Medio Ambiente destinados a funciones relacionadas con el desarrollo social, serán transferidos a la Secretaría de Desarrollo Social, y los destinados a funciones relacionadas con el medio ambiente, serán transferidos a la Secretaría de Medio Ambiente.
+
+Cuarto. El reglamento de la Secretaría de Desarrollo Social y Medio Ambiente regirá a las Secretarías de Desarrollo Social y a la de Medio Ambiente, en lo que corresponda a sus atribuciones, en tanto no se promulguen sus respectivos reglamentos.
+
+Quinto. Los asuntos en trámite, a la entrada en vigor de este ordenamiento, serán resueltos por el área administrativa a la que se le atribuya la competencia correspondiente.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente decreto.
