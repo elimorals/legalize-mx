@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2010-08-10"
+last_updated: "2010-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -171,9 +171,13 @@ VI. Secretaría de Desarrollo Económico y Portuario
 
 VII. Secretaría de Comunicaciones
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-VIII. Secretaría de Desarrollo Social y Medio Ambiente
+VIII. Secretaría de Desarrollo Social
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+VIII Bis. Secretaría de Medio Ambiente
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -217,9 +221,9 @@ Cada dependencia contará, además con una unidad administrativa subordinada dir
 
 En el caso de la Secretaría de Finanzas y Planeación, las funciones que corresponden a la unidad administrativa se desarrollarán conforme a la distribución de competencias que establezca su reglamento interior.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-Los titulares de las unidades administrativas a que se refiere este artículo deberán contar con título profesional en las licenciaturas en Derecho, Contaduría Pública, Administración o Economía, expedido por autoridad o institución legalmente facultada para ello, cumpliendo los demás requisitos que establezca la legislación aplicable.
+Los titulares de las unidades administrativas a que se refiere este artículo deberán contar con experiencia laboral en la administración pública y con título profesional de licenciatura, preferentemente en Derecho, Contaduría, Administración, Economía, o posgrado en alguna rama de la administración pública, expedido por autoridad o institución legalmente facultada para ello, cumpliendo los demás requisitos que establezca la legislación aplicable.
 
 ###### Artículo 11.
 
@@ -463,9 +467,7 @@ XLI. Coordinar, dirigir y vigilar la política estatal en materia de prevención
 
 XLII. Custodiar, en coordinación con la Secretaría de Seguridad Pública, a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
 
-> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2009)</small>
-
-XLIII. Coordinar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial la población indígena, los menores, las personas con discapacidades, adultos mayores y la población marginada de las áreas rurales y urbanas, con la finalidad de contribuir a elevar su nivel de vida, asimismo, dirigir y coordinar los programas y acciones de protección a los migrantes veracruzanos y sus familias.
+XLIII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -1057,9 +1059,9 @@ V. Establecer las bases técnicas a que deben sujetarse las licitaciones para la
 
 VI. Formular lineamientos y especificaciones técnicas para el uso de las vías de comunicación estatal;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-VII. Coordinarse con la Secretaría de Desarrollo Social y Medio Ambiente para que, en los derechos de vía de las vías estatales de comunicación, se respeten las prescripciones en materia de equilibrio ecológico y de protección al ambiente;
+VII. Coordinarse con la Secretaría de Medio Ambiente para que, en los derechos de vía de las vías estatales de comunicación, se respeten las prescripciones en materia de equilibrio ecológico y de protección al ambiente;
 
 VIII. Participar en el otorgamiento de concesión de autopistas, carreteras, puentes o aeropuertos de jurisdicción estatal; supervisar su cumplimiento y, en su caso, llevar a cabo el procedimiento para su rescate, reversión o aplicación de sanciones;
 
@@ -1081,21 +1083,21 @@ XV. Promover y, en su caso, organizar la capacitación, investigación y el desa
 
 XVI. Coordinar y ejecutar las políticas y programas del Estado, tanto en materia de aeronáutica como de servicios aéreos gubernamentales;
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-De la Secretaría de Desarrollo Social y Medio Ambiente
+De la Secretaría de Desarrollo Social
 
-> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 27.
 
-La Secretaría de Desarrollo Social y Medio Ambiente es la dependencia responsable de coordinar la política de desarrollo social para el combate a la pobreza, en particular en materia de asentamientos humanos, ordenamiento del desarrollo territorial regional y urbano y de vivienda, así como ejecutar obras públicas relacionadas con estas materias; de formular, ejecutar y evaluar las políticas para preservar y restaurar el equilibrio ecológico y proteger el medio ambiente; y de normar y coordinar la prestación de servicios de asistencia pública y social, incluyendo el Sistema Estatal de Desarrollo Humano y Familiar, en los términos de la normativa que lo regule.
+La Secretaría de Desarrollo Social es la dependencia responsable de coordinar la política de desarrollo social para el combate a la pobreza, en particular en materia de asentamientos humanos, ordenamiento del desarrollo territorial regional y urbano y de vivienda, así como ejecutar obras públicas relacionadas con estas materias; y de normar y coordinar la prestación de servicios de asistencia pública y social, incluyendo el Sistema Estatal de Desarrollo Humano y Familiar, en los términos de la normatividad que lo regule.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 28.
 
-Son atribuciones del Secretario de Desarrollo Social y Medio Ambiente, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+Son atribuciones del Secretario de Desarrollo Social, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1147,9 +1149,9 @@ XII. Promover, en coordinación con las autoridades federales y estatales, la re
 
 XIII. Asesorar, a solicitud de los propios ayuntamientos, en la elaboración de proyectos y ejecución de obras municipales de agua potable y alcantarillado, en la administración y operación de estos servicios y, en su caso, ejecutar y supervisar dichas obras;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-XIV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas relacionadas con el Desarrollo Social y el Medio Ambiente, de acuerdo con el Plan Veracruzano de Desarrollo, así como dirigir, coordinar y controlar la ejecución de las mismas;
+XIV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas relacionadas con el desarrollo social, de acuerdo con el Plan Estatal de Desarrollo, así como dirigir, coordinar y controlar la ejecución de las mismas;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1179,43 +1181,103 @@ XX. Formular, por acuerdo del Gobernador del Estado y con la intervención que c
 
 XXI. Conocer del ejercicio de acción popular, del procedimiento administrativo que en esta materia se inicie con motivo de la inobservancia de la ley, así como de la aplicación de las sanciones correspondientes;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+XXII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
-XXII. Revisar y autorizar las manifestaciones del impacto ambiental y emitir dictámenes sobre daños ambientales; formular, ejecutar y evaluar los planes y programas destinados a la preservación, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en el territorio del Estado, así como el combate a la contaminación ambiental, las políticas correspondientes al manejo de residuos, prevención y control de la contaminación del agua;
+XXIII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+XXIV. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
-XXIII. Promover acciones prioritarias para la preservación y restauración del equilibrio ecológico y protección al ambiente;
+XXV. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+XXV Bis. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
-XXIV. Promover programas y actividades para orientar, informar y lograr la participación de la ciudadanía para la preservación y mejoramiento de los ecosistemas;
+XXV Ter. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+XXVI. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
-XXV. Organizar y fomentar la investigación relacionada con la ecología;
-
-> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2007)</small>
-
-XXV Bis. Formular, conducir y ejecutar las políticas relativas a la flora y fauna silvestres que correspondan al ámbito de competencia del Estado, en términos de lo que dispongan las leyes federales y locales en la materia y de conformidad con los convenios que se suscriban con la federación;
-
-> <small>(ADICIONADA, G.O. 8 DE AGOSTO DE 2007)</small>
-
-XXV Ter. Elaborar proyectos para construir zoológicos, así como el llevar a cabo la administración, coordinación y supervisión de la operación y funcionamiento de los ya existentes y nuevos en el Estado, cuyo fin sea el de ser centros de conservación, preservación y exhibición de flora y fauna, que tengan como objetivo la investigación, educación, recreación y esparcimiento para la población.
-
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
-
-XXVI. Promover y apoyar la ejecución de los planes y programas relativos a la reforestación en el Estado procurando la conservación de las áreas verdes, bosques, parques estatales y zonas recreativas en coordinación con los Gobiernos Federales y Municipales;
-
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
-
-XXVII. Dirigir y ejecutar en coordinación con la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca y con las autoridades federales y municipales competentes, las acciones proyectadas a la preservación y aprovechamiento de los recursos hidráulicos de la entidad;
+XXVII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XXVIII. Desarrollar, supervisar y evaluar la operación del Sistema para el Desarrollo Humano y Familiar de los Veracruzanos, en protección y apoyo de la infancia, los adultos mayores, las personas con capacidades diferentes y otros grupos vulnerables de la sociedad.
 
 XXIX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+XXX. Coordinar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial la población indígena, los menores, las personas con discapacidades, adultos mayores y la población marginada de las áreas rurales y urbanas, con la finalidad de contribuir a elevar su nivel de vida, asimismo, dirigir y coordinar los programas y acciones de protección a los migrantes veracruzanos y sus familias.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+De la Secretaría de Medio Ambiente
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 28 Bis.
+
+La Secretaría de Medio Ambiente es la dependencia responsable de coordinar las políticas de preservación y restauración del equilibrio ecológico, cambio climático y protección del medio ambiente en el Estado.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 28 Ter.
+
+Son atribuciones del Secretario de Medio Ambiente, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+I. Formular, conducir, instrumentar y evaluar la política estatal en materia de equilibrio ecológico, protección al ambiente y cambio climático;
+
+II. Emitir disposiciones administrativas en materia de equilibrio ecológico, medio ambiente y cambio climático, dentro de su esfera de atribuciones;
+
+III. Atender los asuntos relativos a la preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, así como aplicar los instrumentos de política ambiental de conformidad con las leyes, normas y demás disposiciones aplicables, en el ámbito de su competencia;
+
+IV. Promover el cumplimiento de las disposiciones legales en materia ambiental en coadyuvancia con los órganos encargados de la ejecución de los planes, programas y proyectos en materia de fomento y conservación del equilibrio ecológico y la protección del medio ambiente en el ámbito de su competencia;
+
+V. Participar en la formulación de planes, programas y proyectos estatales y municipales evaluando su apego al marco normativo aplicable en materia de equilibrio ecológico, protección al ambiente, riesgo ambiental y cambio climático;
+
+VI. Promover, establecer, instrumentar y coordinar las acciones encaminadas a prevenir y controlar según corresponda, en el marco de su competencia, la contaminación del agua, aire y suelo, así como el registro de contaminantes y su monitoreo;
+
+VII. Participar en el diseño de programas que promuevan o faciliten la vigilancia, la regulación y la realización de auditorías ambientales en el ámbito de la competencia estatal;
+
+VIII. Establecer las políticas generales, emitir los criterios y las normas técnicas en materia de prevención y gestión integral de residuos sólidos y de manejo especial, en los términos que definan los instrumentos jurídicos de la materia, implementando en su caso acciones mediante la concertación con la Federación, Estados y Municipios;
+
+IX. Evaluar el impacto ambiental generado por la realización de obras o actividades, así como, en su caso, los estudios de riesgo que le correspondan, siempre que no sean expresamente reservados a la Federación o a los municipios, otorgando la expedición de las autorizaciones correspondientes, de conformidad con la normatividad aplicable;
+
+X. Formular la política de ordenamiento ecológico del territorio desarrollando, ejecutando y evaluando los programas correspondientes a través de la concertación con los municipios y todos los sectores sociales;
+
+XI. Prevenir, medir y controlar la contaminación a la atmósfera y la emisión de ruidos, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales en el territorio del Estado y en el ámbito de jurisdicción estatal, generada por fuentes fijas o móviles;
+
+XII. Regular, promover y supervisar el aprovechamiento sustentable y la prevención y control de la contaminación y, en su caso, saneamiento de las aguas de jurisdicción estatal, así como de las aguas nacionales que tenga asignadas el Estado en el ámbito de su competencia;
+
+XIII. Emitir y aplicar los lineamientos, criterios y normas ambientales en las materias y actividades que causen o puedan causar desequilibrios ecológicos o daños al ambiente en el Estado, con la participación de los municipios y de la sociedad en general cuando lo considere conveniente, dentro de su ámbito de competencia;
+
+XIV. Regular, prevenir, controlar y en su caso efectuar acciones tendientes a evitar la degradación ambiental generada por el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos;
+
+XV. Colaborar en la atención de emergencias y contingencias ambientales, en los términos de sus atribuciones, así como proponer al Ejecutivo del Estado la adopción de las medidas necesarias para la prevención y el control de sus posibles efectos adversos sobre el entorno ecológico;
+
+XVI. Coordinar, en el ámbito de su competencia, las acciones relativas a la formulación e instrumentación de políticas estatales para la prevención y mitigación de emisiones de gases de efecto invernadero, la adaptación a los efectos adversos del cambio climático y, en general, promover el desarrollo de programas y estrategias de acción climática relativos al cumplimiento de los compromisos internacionales adquiridos en materia de cambio climático;
+
+XVII. Desarrollar, ejecutar y evaluar, en el ámbito de su competencia, los programas correspondientes a las políticas en materia de cambio climático para su incorporación sectorial o intersectorial correspondiente;
+
+XVIII. Coordinar, en el ámbito de su competencia, con las demás autoridades la categorización, los criterios ambientales y las características funcionales de los productos y servicios considerados en esquemas de etiquetado ambiental y aquellos que ostenten un comportamiento ambiental adecuado;
+
+XIX. Coordinar con las autoridades competentes la instrumentación de los programas y las medidas para la preservación de los recursos naturales, la prevención de la contaminación, el ordenamiento y la limpieza de las playas, el mejoramiento ambiental de las actividades e instalaciones turísticas, así como la implementación de empresas del mismo ramo, sujetos a un sistema de indicadores de sustentabilidad;
+
+XX. Establecer, en coordinación con las autoridades federales, estatales y municipales, y los particulares cuando lo considere conveniente, el marco legal y normativo en materia de cambio climático, bajo criterios de transversalidad en las políticas públicas del Gobierno del Estado;
+
+XXI. Fomentar la generación de información y conocimiento técnico-científico sobre los efectos del cambio climático y la variabilidad climática en el Estado, así como contribuir a la generación de capital humano capacitado en la mitigación de gases de efecto invernadero y la adaptación al cambio climático;
+
+XXII. Fortalecer la cultura ecológica mediante programas de educación ambiental;
+
+XXIII. Impulsar el desarrollo y uso de tecnologías para aprovechar los recursos naturales y la protección del entorno ecológico bajo criterios de sustentabilidad, mediante políticas de estímulos e incentivos en coordinación con la Secretaría de Finanzas y Planeación;
+
+XXIV. Promover y proporcionar la transparencia de la información pública en materia ambiental;
+
+XXV. Crear los órganos necesarios para el mejor desempeño de sus funciones;
+
+XXVI. Celebrar todo tipo de contratos, convenios y acuerdos para facilitar el desempeño de sus funciones;
+
+XXVII. Aplicar las medidas de seguridad y sanciones administrativas que procedan, por infracciones a la Ley de la materia y demás disposiciones legales aplicables; y
+
+XXVIII. Participar, en el ámbito de su competencia, en las acciones que realicen otras autoridades federales, estatales y municipales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1249,13 +1311,13 @@ VII. Formular el inventario de los recursos e infraestructura agrícola, frutíc
 
 VIII. Proponer, apoyar y, en su caso, ejecutar las obras de infraestructura agrícola e hidráulica en cooperación con el Gobierno Federal, los Municipios y las organizaciones de productores;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-IX. Participar de conformidad con las disposiciones aplicables, en el aprovechamiento de los recursos hidráulicos de la entidad; tratándose de los lagos, ríos y otros cuerpos de agua, las políticas y programas se definirán y ejecutarán coordinadamente con la Secretaría de Desarrollo Social y Medio Ambiente;
+IX. Participar, de conformidad con las disposiciones aplicables, en el aprovechamiento de los recursos hidráulicos de la entidad; tratándose de los lagos, ríos y otros cuerpos de agua, las políticas y programas se definirán y ejecutarán coordinadamente con las Secretarías de Desarrollo Social y de Medio Ambiente;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-X. Fomentar la realización de proyectos de ingeniería agrícola e hidráulica, como obras de pequeña irrigación y abrevadero, drenaje, terraceros, nivelaciones, al igual que de construcciones rurales, como bodegas, cobertizos, galeras, zahúrdas, baños, silos y otros similares, en coordinación con la Secretaría de Desarrollo Social y Medio Ambiente;
+X. Fomentar la realización de proyectos de ingeniería agrícola e hidráulica, como obras de pequeña irrigación y abrevadero, drenaje, terraceros, nivelaciones, al igual que de construcciones rurales, como bodegas, cobertizos, galeras, zahúrdas, baños, silos y otros similares, en coordinación con las Secretarías de Desarrollo Social y de Medio Ambiente;
 
 XI. Promover, apoyar y realizar en su caso, campañas para prevenir y combatir las plagas y enfermedades que atacan a las especies vegetales del Estado;
 
@@ -1289,9 +1351,9 @@ XVIII. Vigilar la preservación de los recursos agrícolas, frutícolas, pesquer
 
 XIX. Fomentar y apoyar la conservación y preservación de suelos agrícolas y áreas forestales, a través del manejo integral de cuencas hidrográficas;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-XX. Fomentar programas de reforestación, en coordinación con la Secretaría de Desarrollo Social y Medio Ambiente;
+XX. Fomentar programas de reforestación, en coordinación con las Secretarías de Desarrollo Social y de Medio Ambiente;
 
 XXI. Fomentar y controlar los servicios agrícolas que establezca el Estado, tales como: distribución de semillas mejoradas, fertilizantes, árboles frutales y centrales de maquinaria entre otros;
 
@@ -1357,9 +1419,9 @@ LI. Fomentar la capacitación y la asistencia técnica de los productores agrope
 
 LII. Promover programas tendientes a la integración de actividades económicas para el desarrollo rural del Estado, que permitan la generación de empleos eventuales y permanentes.
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-LIII. En coordinación con la Secretaría de Desarrollo Social y Medio Ambiente, promover programas tendientes a la integración de actividades económicas para el Desarrollo Rural Sustentable del Estado, que permitan la generación de empleos eventuales y permanentes.
+LIII. En coordinación con la Secretaría de Desarrollo Social, promover programas tendientes a la integración de actividades económicas para el desarrollo rural sustentable del Estado, que permitan la generación de empleos eventuales y permanentes; y
 
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1389,17 +1451,17 @@ III. Planear y ejecutar las campañas sobre servicios médicos, salud pública y
 
 IV. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-V. En coordinación con la Secretaría de Desarrollo Social y Medio Ambiente y con las autoridades federales y municipales competentes, participar en la formulación, conducción y evaluación de las políticas de saneamiento ambiental;
+V. En coordinación con la Secretaría de Medio Ambiente y con las autoridades federales y municipales competentes, participar en la formulación, conducción y evaluación de las políticas de saneamiento ambiental;
 
 VI. Dictar normas técnicas en materia de salubridad local y verificar su cumplimiento;
 
 VII. Planear y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado;
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-VIII. En coordinación con la Secretaría de Desarrollo Social y Medio Ambiente, vigilar y controlar la asistencia pública en la entidad;
+VIII. En coordinación con la Secretaría de Desarrollo Social, vigilar y controlar la asistencia pública en la entidad;
 
 IX. Administrar los bienes y fondos que el Gobierno Estatal destine a los servicios de salud;
 
@@ -1467,9 +1529,9 @@ VII. Servir de órgano de consulta y asesoría en materia de servicios turístic
 
 VIII. Asesorar técnicamente a las (sic) Ayuntamientos y a los sectores social y privado que lo soliciten, en la prestación de los servicios turísticos o en la ejecución de proyectos relacionados con la materia;
 
-> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-IX. Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, actuando en coordinación con las autoridades competentes de otros órdenes de Gobierno en estas materias particularmente la Secretaría de Desarrollo Social y Medio Ambiente, así como promover la cultura turística y el turismo cultural;
+IX. Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, actuando en coordinación con las autoridades competentes de otros órdenes de Gobierno en estas materias, particularmente la Secretaría de Medio Ambiente, así como promover la cultura turística y el turismo cultural;
 
 > <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -1623,7 +1685,9 @@ XIX. Establecer los planes y programas básicos de atención, auxilio y apoyo al
 
 XX. Emitir los dictámenes técnicos de vulnerabilidad y riesgo de instalaciones sanitarias públicas y privadas, existentes y futuras;
 
-XXI. Participar en la elaboración de programas y desarrollo de acciones tendientes a la solución de los problemas ambientales y del manejo de residuos sólidos urbanos y los que requieren manejo especial, en términos de lo que disponen la Ley y el Reglamento Interior de la Secretaría de Desarrollo Social y Medio Ambiente;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+XXI. Participar en la elaboración de programas y desarrollo de acciones tendientes a la solución de los problemas ambientales y del manejo de residuos sólidos urbanos y los que requieren manejo especial, en términos de lo que dispongan las leyes y reglamentos aplicables;
 
 XXII. Participar en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia, en la elaboración de los programas, establecimiento de las medidas y aplicación de las acciones, que permitan mejorar la calidad de vida de las personas con capacidades diferentes; y
 
@@ -2246,3 +2310,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 Tercero. Cualquier referencia que en otras disposiciones estatales se realice a la Secretaría de Turismo y Cultura, se entenderá realizada a la Secretaría de Turismo, Cultura y Cinematografía.
+
+G.O. 14 DE DICIEMBRE DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 5 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Cuando en Leyes, Códigos, Reglamentos y demás ordenamientos legales aplicables se nombre, aun implícitamente, a la Secretaría de Desarrollo Social y Medio Ambiente, Secretaría de Desarrollo Regional, Secretaría de Desarrollo Urbano o a cualesquiera otras dependencias diversas que las hayan sustituido, a partir de la entrada en vigor del presente, se entenderá que se hace referencia a la Secretaría de Desarrollo Social. Cuando en dichos ordenamientos se hable de la Dirección General de Asuntos Ecológicos, de la Coordinación Estatal de Medio Ambiente, de la Coordinación General de Medio Ambiente, de la Subsecretaría de Medio Ambiente o de la Subsecretaría de Medio Ambiente y Cambio Climático o de cualesquiera otras dependencias diversas que las hayan sustituido, a partir de la entrada en vigor del presente decreto, se entenderá que se hace referencia a la Secretaría de Medio Ambiente.
+
+Tercero. Los recursos humanos, materiales y financieros, así como la adscripción de los órganos existentes de la Secretaría de Desarrollo Social y Medio Ambiente destinados a funciones relacionadas con el desarrollo social, serán transferidos a la Secretaría de Desarrollo Social, y los destinados a funciones relacionadas con el medio ambiente, serán transferidos a la Secretaría de Medio Ambiente.
+
+Cuarto. El reglamento de la Secretaría de Desarrollo Social y Medio Ambiente regirá a las Secretarías de Desarrollo Social y a la de Medio Ambiente, en lo que corresponda a sus atribuciones, en tanto no se promulguen sus respectivos reglamentos.
+
+Quinto. Los asuntos en trámite, a la entrada en vigor de este ordenamiento, serán resueltos por el área administrativa a la que se le atribuya la competencia correspondiente.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente decreto.
