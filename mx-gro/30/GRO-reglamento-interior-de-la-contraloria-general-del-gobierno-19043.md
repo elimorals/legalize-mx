@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-contraloria-general-del-gobierno-1904
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-07-07"
-last_updated: "2003-08-08"
+last_updated: "2010-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA CONTRALORIA GENERAL DEL ESTADO, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 7 de julio de 2000.
 
@@ -608,3 +610,15 @@ Rúbrica.
 P.O. 8 DE AGOSTO DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Contraloría General del Estado, publicado en el Periódico Oficial número 55, de fecha 7 de julio del año 2000, así como el Decreto de reformas y adiciones al mismo ordenamiento, publicado en el Periódico Oficial Número 63, de fecha 8 de agosto del año 2003.
+
+Tercero.- Se abroga el Acuerdo que crea la Coordinación General de Acceso a la Información Pública del Estado de Guerrero, como órgano adscrito a la Contraloría General del Estado, publicado en el Periódico Oficial número 29, de fecha 8 de abril del año 2008.
+
+Cuarto.- En tanto se expida el Manual de Organización y Manual de Procedimientos de la Contraloría, el Contralor General del Estado queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este Reglamento.
+
+Quinto.- No obstante los cambios de adscripción de diversos servidores públicos dentro de la Contraloría, así como los cambios de denominación de áreas de su adscripción, o cambios de rango jerárquico de las mismas e inclusive de la nueva distribución de competencias como producto de la reestructuración orgánica y funcional realizada a la institución, quedan garantizados los derechos laborales de los trabajadores de la misma.
