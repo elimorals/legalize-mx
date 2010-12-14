@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2010-07-02"
+last_updated: "2010-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -433,7 +433,9 @@ VENTA Y DESTINO DE LOS BIENES QUE SE DECOMISAN. Los instrumentos o efectos que s
 
 BIENES SIN DECOMISAR EN ESTADO DE ABANDONO O DE DIFÍCIL CONSERVACIÓN. Los objetos que no sean, ni puedan ser decomisados y se hallen a disposición de las autoridades judiciales del orden penal; o los de conservación o mantenimiento imposible, difícil o costoso; sin que se les reclame por quien tenga derecho en un lapso de seis meses, contados a partir de que queden a disposición de la autoridad:
 
-Se destinarán en definitiva, previa resolución judicial, a las instituciones del Estado que se puedan servir de ellos; o se venderán y el producto de la venta se asignará conforme a los artículos 230 y 231 del Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2010)</small>
+
+Se destinarán en definitiva, previa resolución judicial, a las instituciones del Estado que se puedan servir de ellos; o se venderán y el producto de la venta se asignará, en su caso, conforme a los artículos 380, 382, 383, 384 y 386 de la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza.
 
 Cuando se trate de dinero o valores se procederá conforme a la última parte del párrafo anterior.
 
@@ -2423,7 +2425,7 @@ III. Asiente datos falsos en los registros, bitácoras o cualquier otro document
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TIPÍCAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
+ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TÍPICAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -3065,6 +3067,10 @@ Si a quien se le hace ejecutar los actos es un menor de dieciocho años de edad:
 
 SANCIÓN Y FIGURAS TÍPICAS DE CORRUPCION DE MENORES E INCAPACES. Se aplicará prisión de cuatro a nueve años de prisión y multa al que obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca la corrupción de un menor de dieciocho años de edad, o de una persona que no tuviere capacidad de comprender el significado del hecho, o de decidir conforme a esa comprensión, o de poder resistirlo por cualquier otra circunstancia personal; valiéndose de acciones u omisiones tendientes a que concluyan en la realización de actos de degradación sexual, conductas depravadas, prácticas de prostitución, mendicidad, consumo irracional y reiterado de bebidas embriagantes, o la práctica de algún otro vicio; o lo incite, instigue o persuada a formar parte de una asociación delictuosa, conspiración criminal, banda o pandilla.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2010)</small>
+
+Se aplicará prisión de cuatro a ocho años y multa a quien comercie, distribuya, haga circular, oferte, difunda o facilite a las personas señaladas en el párrafo anterior, fotografías, audiograbaciones, filmes, anuncios impresos o imágenes de exhibicionismo corporal o de carácter sexual, reales o simulados, sea de manera física, digital o a través de cualquier medio.
+
 A quien obligue, procure, facilite, induzca, fomente, propicie, promueva o favorezca el consumo de narcóticos o de sustancias tóxicas por parte de un menor de edad o de quien no tuviere la capacidad de comprender el significado del hecho, o de decidir conforme a esa comprensión o de poder resistirlo por cualquier otra circunstancia personal, se le aplicará de seis a doce años de prisión y multa.
 
 Si el corruptor es ascendiente del menor o del incapaz, o al ejecutar los actos ejercía cualquier forma de autoridad sobre ellos; la sanción que señala este artículo se incrementará en un tercio más del mínimo y máximo; además, en su caso, se le privará de la patria potestad, tutela o guarda que ejerza, así como de todos los derechos que le correspondan sobre los bienes del ofendido.
@@ -3103,7 +3109,9 @@ Si el corruptor es ascendiente o ejerce autoridad sobre el menor, además de las
 
 ARTÍCULO 303 BIS. TRATAMIENTOS MÉDICOS, PSICOLÓGICOS Y TERAPEÚTICOS A LA PARTE OFENDIDA Y DEBER DE DENUNCIA DE LAS AUTORIDADES EDUCATIVAS Y DE SEGURIDAD PÚBLICA. Los sujetos pasivos de los delitos tipificados en los cuatro artículos anteriores, quedarán sujetos a los tratamientos médicos, psicológicos y terapéuticos adecuados para su recuperación, de acuerdo con las medidas que al efecto sean establecidas por el Ministerio Público en cualquier momento de la averiguación previa y que, en su caso, deberán ser ratificadas o modificadas por el Juez que conozca de la consignación correspondiente. En ambos casos, si se hace necesario, dichas medidas se harán cumplir coercitivamente.
 
-En los términos del artículo 191 del Código de Procedimientos Penales, las Autoridades Educativas y de Seguridad Pública del Estado y de los Municipios pondrán especial cuidado en formular la denuncia que corresponda a la comisión de los delitos tipificados por este artículo, con los mejores elementos de convicción que tengan a su alcance y, en su caso, procederán a la aprehensión de la persona que se sorprenda realizando alguna o algunas de las conductas delictivas señaladas en los párrafos anteriores, poniéndola de inmediato a disposición del Ministerio Público.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2010)</small>
+
+En los términos del artículo 52 de la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza, las Autoridades Educativas y de Seguridad Pública del Estado y de los Municipios pondrán especial cuidado en formular la denuncia que corresponda a la comisión de los delitos tipificados por este capítulo, con los mejores elementos de convicción que tengan a su alcance y, en su caso, procederán a la aprehensión de la persona que se sorprenda realizando alguna o algunas de las conductas delictivas señaladas en los párrafos anteriores, poniéndola de inmediato a disposición del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -4672,3 +4680,17 @@ P.O. 2 DE JULIO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 355, POR EL QUE SE REFORMAN EL SEGUNDO PARRAFO DEL ARTICULO 136 Y EL SEGUNDO PARRAFO DEL ARTICULO 303 BIS, DEL CODIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 14 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 360, POR EL QUE SE ADICIONA UN PARRAFO ENTRE LOS ACTUALES PRIMERO Y SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS TRES SUBSECUENTES, EN EL ARTICULO 300 DEL CODIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
