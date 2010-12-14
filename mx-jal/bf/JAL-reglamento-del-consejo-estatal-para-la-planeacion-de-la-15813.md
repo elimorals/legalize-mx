@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-consejo-estatal-para-la-planeacion-de-la-15813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-20"
-last_updated: "2000-01-20"
+last_updated: "2010-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO DEL CONSEJO ESTATAL PARA LA PLANEACION DE LA EDUCACION SUPERIOR EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CONSEJO ESTATAL PARA LA PLANEACION DE EDUCACION SUPERIOR, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 20 de enero de 2000.
 
@@ -464,3 +466,13 @@ LIC. FERNANDO A. GUZMÁN PÉREZ PELÁEZ.
 EL C. SECRETARIO DE EDUCACIÓN.
 
 LIC. MIGUEL AGUSTÍN LIMÓN MACIAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el Reglamento del Consejo Estatal para la Planeación de la Educación Superior en el Estado de Jalisco (COEPES)" (sic), publicado en el Periódico Oficial "El Estado de Jalisco", el día 20 de enero de 2000.
+
+TERCERO. Los lineamientos para el funcionamiento interno del Consejo Estatal para la Planeación de la Educación Superior en el Estado deberán ser aprobados por el Pleno en un lapso no mayor de tres meses a partir de la entrada en vigor del presente Reglamento.
