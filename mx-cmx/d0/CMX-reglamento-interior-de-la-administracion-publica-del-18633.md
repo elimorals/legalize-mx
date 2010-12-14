@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2010-11-23"
+last_updated: "2010-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -483,6 +483,10 @@ XIII. A la Oficialía Mayor:
 > <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2010)</small>
 
 6. Dirección General de Comunicación Social.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+Se le adscribe el Órgano Desconcentrado denominado Coordinación de los Centros de Transferencia Modal del Distrito Federal.
 
 > <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -5280,7 +5284,7 @@ V. Diseñar e implementar las rutas de penetración o de paso de los vehículos 
 
 VI. Promover la aplicación de nuevas tecnologías en los vehículos, mobiliario, señalización y equipamiento del transporte y la vialidad;
 
-VII. Proyectar y establecer la normatividad para la operación de los centros de transferencia modal, así como propiciar los mecanismos de coordinación interinstitucional;
+VII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
 VIII. Constituir Comités Técnicos en materia de transporte y vialidad;
 
@@ -5326,9 +5330,7 @@ VIII. Regular el otorgamiento y coordinar la expedición de placas, tarjetas de 
 
 IX. Establecer un sistema de información sobre la regulación del transporte; y
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
-
-X. Proyectar y establecer las normas adecuadas para el funcionamiento de los Centros de Transferencia Modal, así como su operación y servicios, y propiciar los mecanismos de coordinación interinstitucional.
+X. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
 (ADICIONADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
 
@@ -13690,9 +13692,39 @@ VIII. Las que de manera directa le asigne el titular del Órgano Desconcentrado,
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
+#### SECCION IX. ADSCRITO A LA OFICIALIA MAYOR
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
 ###### Artículo 216.
 
 El Órgano Desconcentrado Agencia de Protección Sanitaria del Gobierno del Distrito Federal tiene por objeto realizar las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan al Gobierno en materia de salubridad local. Para tal efecto contará con las atribuciones y facultades que se establecen en el Reglamento de la Agencia de Protección contra Riesgos Sanitarios.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 217.
+
+El órgano Desconcentrado Coordinación de los Centros de Transferencia Modal del Distrito Federal tiene por objeto fungir como instancia de administración, operación, supervisión y vigilancia de los espacios físicos con infraestructura y equipamiento auxiliar de transporte, que sirven como conexión de los usuarios entre dos o más rutas o modos de transporte. Para tal efecto cuenta con las siguientes atribuciones:
+
+I. Administrar, operar, supervisar y vigilar los Centros de Transferencia Modal, en los términos del presente Decreto;
+
+II. Integrar y mantener actualizado el padrón de los concesionarios y permisionarios del servicio público de transporte que hagan uso de las instalaciones de los Centros de Transferencia Modal a su cargo;
+
+III. Administrar los espacios físicos con infraestructura y equipamiento auxiliar;
+
+IV. Fijar bases e instrumentar mecanismos para la adecuada planeación y coordinación de actividades y servicios que se prestan y confluyen en los Centros de Transferencia Modal;
+
+V. Vigilar que en los Centros de Transferencia se respeten las normas ambientales y cuente con servicios de protección civil, seguridad pública y accesibilidad a personas discapacitadas;
+
+VI. Planear y ejecutar las obras y servicios destinados a la infraestructura y equipamiento de los Centros de Transferencia Modal;
+
+VII. Supervisar que la vialidad, infraestructura, equipamiento auxiliar, servicios y elementos inherentes o incorporados a ella, sean utilizados conforme a su naturaleza y destino;
+
+VIII. Mantener libre de todo obstáculo que impida su adecuado uso, los espacios de infraestructura y equipamiento auxiliar de transporte;
+
+IX. Con el auxilio de la Secretaría de Seguridad Pública, o a través de los servidores públicos que le estén adscritos, poner a disposición del Juez Cívico o Ministerio Público, a quienes infrinjan las disposiciones legales aplicables en los Centros de Transferencia Modal;
+
+X. Las demás previstas en otras disposiciones.
 
 ## TRANSITORIOS
 
@@ -14299,3 +14331,11 @@ G.O. 23 DE NOVIEMBRE DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan aquellas disposiciones que se opongan al presente Decreto.
