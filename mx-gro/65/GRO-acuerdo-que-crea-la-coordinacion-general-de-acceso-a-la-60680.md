@@ -4,7 +4,7 @@ identifier: "GRO-acuerdo-que-crea-la-coordinacion-general-de-acceso-a-la-60680"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-08"
-last_updated: "2008-04-08"
+last_updated: "2010-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # ACUERDO QUE CREA LA COORDINACION GENERAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO, COMO ORGANO ADSCRITO A LA CONTRALORIA GENERAL DEL ESTADO
 
-ACUERDO QUE CREA LA COORDINACION GENERAL DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE GUERRERO, COMO ORGANO ADSCRITO A LA CONTRALORIA GENERAL DEL ESTADO.
+ACUERDO QUE CREA LA COORDINACIÓN GENERAL DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE GUERRERO, COMO ÓRGANO ADSCRITO A LA CONTRALORÍA GENERAL DEL ESTADO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL DEL ESTADO, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Acuerdo publicado en la Sección de Avisos del Periódico Oficial del Estado de Guerrero, el martes 8 de abril de 2008.
 
@@ -146,3 +148,17 @@ EL CONTRALOR GENERAL DEL ESTADO.
 C. P. CARLOS ARTURO BÁRCENAS AGUILAR.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2010.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Contraloría General del Estado, publicado en el Periódico Oficial número 55, de fecha 7 de julio del año 2000, así como el Decreto de reformas y adiciones al mismo ordenamiento, publicado en el Periódico Oficial Número 63, de fecha 8 de agosto del año 2003.
+
+Tercero.- Se abroga el Acuerdo que crea la Coordinación General de Acceso a la Información Pública del Estado de Guerrero, como órgano adscrito a la Contraloría General del Estado, publicado en el Periódico Oficial número 29, de fecha 8 de abril del año 2008.
+
+Cuarto.- En tanto se expida el Manual de Organización y Manual de Procedimientos de la Contraloría, el Contralor General del Estado queda facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este Reglamento.
+
+Quinto.- No obstante los cambios de adscripción de diversos servidores públicos dentro de la Contraloría, así como los cambios de denominación de áreas de su adscripción, o cambios de rango jerárquico de las mismas e inclusive de la nueva distribución de competencias como producto de la reestructuración orgánica y funcional realizada a la institución, quedan garantizados los derechos laborales de los trabajadores de la misma.
