@@ -4,7 +4,7 @@ identifier: "COA-reglamento-para-expendios-de-carnes-en-el-estado-4244"
 country: "mx"
 rank: "reglamento"
 publication_date: "1928-04-21"
-last_updated: "1928-04-21"
+last_updated: "2010-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO PARA EXPENDIOS DE CARNES EN EL ESTADO
 
-REGLAMENTO PARA EXPENDIOS DE CARNES EN EL ESTADO
+REGLAMENTO PARA EXPENDIOS DE CARNES EN EL ESTADO COAHUILA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO NÚMERO 359, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Coahuila, el sábado 21 de abril de 1928.
 
@@ -130,3 +132,9 @@ M. PEREZ TREVIÑO.
 EL Srio., del Ejecutivo del Estado,
 
 Lic. ARNULFO M. SILLER.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
