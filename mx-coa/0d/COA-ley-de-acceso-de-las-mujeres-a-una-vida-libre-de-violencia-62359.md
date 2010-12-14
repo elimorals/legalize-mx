@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6235
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-11"
-last_updated: "2009-05-12"
+last_updated: "2010-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2008.
 
@@ -51,9 +51,11 @@ Esta ley es de orden público, interés social y de observancia obligatoria en e
 
 Para conseguir el objeto descrito, se establecerán los principios, políticas y acciones destinados a eliminar cualquier tipo de violencia contra las mujeres.
 
-###### ARTICULO 2.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2010)</small>
 
-En todo aquello no previsto en esta ley, será aplicable supletoriamente la Ley de Prevención, Asistencia y Atención de la Violencia Familiar para el Estado de Coahuila, el Código Civil para el Estado de Coahuila, Código de Procedimientos Civiles, Código Penal para el Estado de Coahuila y demás disposiciones aplicables a la materia, así como las leyes federales vigentes y los tratados internacionales ratificados por el Estado Mexicano.
+###### ARTÍCULO 2.
+
+En todo aquello no previsto en esta ley, será aplicable supletoriamente la Ley de Prevención, Asistencia y Atención de la Violencia Familiar para el Estado de Coahuila, el Código Civil para el Estado de Coahuila, el Código Procesal Civil, el Código Penal para el Estado de Coahuila y demás disposiciones aplicables a la materia, así como las leyes federales vigentes y los tratados internacionales ratificados por el Estado Mexicano.
 
 ###### ARTÍCULO 3.
 
@@ -203,9 +205,11 @@ XVII. Alentar a las organizaciones a las que pertenezcan a que incluyan en sus p
 
 Las acciones que se lleven a cabo con motivo de esta ley y demás disposiciones aplicables, tienen por objeto la protección y asistencia a las víctimas o a aquellas en situación de riesgo de violencia y además promover su desarrollo integral y su participación en los ámbitos de la vida pública y privada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 13.
 
-Las Entidades Públicas deberán contribuir, en sus respectivas esferas de competencia, al reconocimiento y ejercicio de los derechos y a la aplicación de los principios establecidos en la Declaración sobre la eliminación de la violencia contra la mujer, de la Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, de la Ley de Prevención, Asistencia y Atención de la Violencia Familiar para el Estado de Coahuila, y los Códigos Civil y Penal en materia (sic) prevención y erradicación de la violencia en contra de mujeres y, a este fin, deberán, entre otras cosas:
+Las Entidades Públicas deberán contribuir, en sus respectivas esferas de competencia, al reconocimiento y ejercicio de los derechos y a la aplicación de los principios establecidos en la Declaración sobre la eliminación de la violencia contra la mujer, de la Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, de la Ley de Prevención, Asistencia y Atención de la Violencia Familiar, la Ley de Procuración de Justicia y los Códigos Civil y Penal en materia de prevención y erradicación de la violencia en contra de mujeres y, a este fin, deberán, entre otras cosas:
 
 I. Fomentar la cooperación internacional, nacional, estatal y municipal con miras a definir estrategias para combatir la violencia, intercambiar experiencias y financiar programas relacionados con la eliminación de la violencia contra la mujer;
 
@@ -656,3 +660,9 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2010.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
