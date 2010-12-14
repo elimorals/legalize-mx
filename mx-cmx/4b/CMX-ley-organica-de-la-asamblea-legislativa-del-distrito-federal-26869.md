@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2010-11-19"
+last_updated: "2010-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -1010,9 +1010,9 @@ XXIV.- Población y Desarrollo;
 
 XXV.- Preservación del Medio Ambiente y Protección Ecológica;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-XXVI.- Presupuesto y Cuenta Pública;
+XXVI.- Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático;
 
 > <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
@@ -1075,6 +1075,22 @@ Los Diputados dejarán de ser miembros de una comisión o comité cuando no acud
 ###### ARTÍCULO 64.
 
 La competencia de las comisiones ordinarias es la que deriva de su denominación, en correspondencia a las respectivas materias legislativas de la Asamblea previstas en el Estatuto de Gobierno del Distrito Federal, con excepción de la de Normatividad Legislativa, Estudios y Prácticas Parlamentarias, a la que corresponderá estudiar y dictaminar las propuestas de leyes o decretos que no sean materia exclusiva de alguna comisión ordinaria, así como realizar las funciones que expresamente le señalen la presente ley y el Reglamento para el Gobierno Interior de la Asamblea.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 64 BIS.- La Comisión de Presupuesto y Cuenta Pública, o en su caso, las Comisiones Unidas de Hacienda y de Presupuesto y Cuenta Pública, al recibir de la Mesa Directiva de la Asamblea la Iniciativa de Presupuesto de Egresos del Distrito Federal, la enviarán, en un lapso no mayor a 48 horas, a las Comisiones Ordinarias relacionadas con la subfunción del Presupuesto o la Unidad Responsable de Gasto respectivo, para que éstas realicen un análisis y, en su caso, emitan opinión.
+
+Asimismo, los Puntos de Acuerdo de Presupuesto deberán ser turnados por la Mesa Directiva a las Comisiones Ordinarias relacionadas, con el único objetivo de que emitan opinión.
+
+Las opiniones que elaboren las comisiones ordinarias respecto a los temas señalados en los párrafos que preceden, deberán enviarlas a la comisión o comisiones dictaminadoras, a más tardar el 10 de diciembre de cada año. En el caso de que la Iniciativa de Presupuesto se presente el 20 de diciembre, en términos de lo dispuesto en el artículo 67, fracción XII del Estatuto de Gobierno del Distrito Federal, las comisiones ordinarias tendrán hasta 72 horas para entregar las opiniones conducentes.
+
+En cualquiera de las hipótesis señaladas en el párrafo anterior, las opiniones de las comisiones ordinarias deberán cumplir con las formalidades establecidas en los artículos 63 de la Ley Orgánica y 32 del reglamento para el Gobierno Interior, ambos de la Asamblea Legislativa del Distrito Federal.
+
+La comisión o comisiones dictaminadoras no tomarán en cuenta opinión alguna remitida por las comisiones ordinarias en fecha posterior a lo establecido en el presente artículo.
+
+Las propuestas de modificación que, en su caso, se incluyan en las opiniones a que hace referencia el presente artículo, deberán cumplir con lo dispuesto en el numeral 39 de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
+
+La comisión o comisiones dictaminadoras del Presupuesto de egresos del Distrito Federal, decidirán sobre la inclusión de las opiniones emitidas por las comisiones ordinarias, de acuerdo a la disponibilidad de recursos y en cumplimiento a lo establecido en la Ley de Presupuesto y Gasto Eficiente.
 
 ###### ARTÍCULO 65.
 
@@ -1777,3 +1793,21 @@ G.O. 19 DE NOVIEMBRE DE 2010.
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE DICIEMBRE DE 2010.
+
+DECRETO POR EL QUE SE REFORMA EL ARTICULO 62 DE LA LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+PRIMERO.- Las presentes reformas entrarán en vigor al momento de su aprobación por el pleno de la Honorable Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- A partir de la entrada en vigor del presente decreto, todas aquellas disposiciones que refieran a la Comisión de Preservación del Medio Ambiente y Protección Ecológica se entenderán referidas a la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático.
+
+G.O. 14 DE DICIEMBRE DE 2010.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTICULO 64 BIS A LA LEY ORGANICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+PRIMERO.- La presente reforma de ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
