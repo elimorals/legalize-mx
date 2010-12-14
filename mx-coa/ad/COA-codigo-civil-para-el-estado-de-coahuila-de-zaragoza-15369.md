@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2010-10-22"
+last_updated: "2010-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2010.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -8339,9 +8339,11 @@ Las relaciones de vecindad son el conjunto de derechos correspondientes a las pe
 
 El propietario tiene derecho de pedir al que lo sea de los inmuebles contiguos, el apeo, deslinde o amojonamiento de los que respectivamente le pertenecen, si antes no se ha hecho el deslinde o si se ha borrado el lindero.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTÍCULO 1436.
 
-El propietario tiene derecho, y en su caso obligación, de cerrar o de cercar su propiedad, en todo o en parte, del modo que lo estime conveniente o lo dispongan las leyes o reglamentos, sin perjuicio de las servidumbres que afecten a la propiedad.
+El propietario tiene derecho, y en su caso obligación, de cerrar o de cercar su propiedad, en todo o en parte, así como a bloquear los accesos de entrada a las construcciones inconclusas y/o abandonadas, del modo que lo estime conveniente o lo dispongan las leyes o reglamentos, sin perjuicio de las servidumbres que afecten a la propiedad.
 
 ###### ARTÍCULO 1437.
 
@@ -20614,3 +20616,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a lo establecido por este Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2010.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
