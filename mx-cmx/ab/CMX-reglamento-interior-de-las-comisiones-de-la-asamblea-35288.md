@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-las-comisiones-de-la-asamblea-35288"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2009-10-22"
+last_updated: "2010-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35288&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-18"
 
 REGLAMENTO INTERIOR DE LAS COMISIONES DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -80,11 +80,11 @@ DE LA NATURALEZA, INTEGRACIÓN, COMPETENCIA Y ATRIBUCIONES DE LAS COMISIONES.
 
 De la naturaleza de las comisiones.
 
-> <small>(REFORMADO, G.O. 22 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 4.
 
-Son Comisiones de Análisis y Dictamen Legislativo que se constituyen con el carácter de definitivo y funcionar (sic) para toda la Legislatura de la Asamblea las de: Las Comisiones de Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a migrantes; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Derechos Humanos; Desarrollo e Infraestructura Urbana; Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Equidad y Género; Transparencia de la Gestión; Fomento Económico; Gestión Integral del Agua, Hacienda; Juventud y Deporte; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana; Población y Desarrollo; Preservación del Medio Ambiente y Protección Ecológica; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Transporte y Vialidad; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
+Son comisiones de Análisis y Dictamen Legislativo que se constituyen con el carácter de definitivo y funcionar (sic) para toda la Legislatura de la Asamblea las Comisiones de: Abasto y Distribución de Alimentos; Administración Pública Local; Administración y Procuración de Justicia; Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes; Asuntos Laborales y Previsión Social; Asuntos Político Electorales; Atención a Grupos Vulnerables; Ciencia y Tecnología; Cultura; Derechos Humanos; Desarrollo e Infraestructura Urbana: Desarrollo Metropolitano; Desarrollo Rural; Desarrollo Social; Educación; Equidad y Género; Fomento Económico; Gestión Integral del Agua, Hacienda; Juventud y Deporte; Normatividad Legislativa, Estudios y Prácticas Parlamentarias; Notariado; Participación Ciudadana: Población y Desarrollo; Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático; Presupuesto y Cuenta Pública; Protección Civil; Salud y Asistencia Social; Seguridad Pública; Transporte Vialidad; Transparencia de la Gestión; Turismo; Uso y Aprovechamiento de Bienes y Servicios Públicos; y Vivienda.
 
 ### CAPÍTULO SEGUNDO
 
@@ -683,3 +683,11 @@ PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al momento de su aprobación por el pleno de la Honorable Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+TERCERO.- A partir de la entrada en vigor del presente decreto, todas aquellas disposiciones que refieran a la Comisión de Preservación del Medio Ambiente y Protección Ecológica se entenderán referidas a la Comisión de Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático.
