@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2010-09-07"
+last_updated: "2010-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -331,7 +331,9 @@ Para efectos de la presente Ley, se consideran como grupos o sectores que merece
 
 I. Las regiones, municipios, microrregiones, zonas de atención prioritaria e inmediata, que muestren mayor pobreza, marginación y exclusión, de acuerdo a los indicadores de desarrollo social y humano;
 
-II. A la población indígena, mujeres, niños y adolescentes, adultos mayores, personas con discapacidad o que se encuentren en situación de vulnerabilidad social; y
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2010)</small>
+
+II. A la población indígena, mujeres, niños y adolescentes, adultos mayores, familias de los migrantes, personas con discapacidad o que se encuentren en situación de vulnerabilidad social; y
 
 III. A los grupos que lo requieran según condiciones de desastre, dinámica geográfica y social del Estado.
 
@@ -1054,3 +1056,9 @@ SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 TERCERO.- El Ejecutivo del Estado emitirá las disposiciones reglamentarias para el funcionamiento del Sistema Estatal en un plazo no mayor de seis meses contados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 15 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
