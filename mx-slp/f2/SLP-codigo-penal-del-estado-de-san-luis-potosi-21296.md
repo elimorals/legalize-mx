@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2010-12-07"
+last_updated: "2010-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2010.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2345,9 +2345,11 @@ En los delitos contra el patrimonio, excepto el robo calificado, cuando antes de
 
 En cualquier delito contra el patrimonio cuando se cometa por un ascendiente contra su descendiente o por éste contra aquél, entre cónyuges, concubinos, entre adoptante y adoptado o por un padrastro o madrastra contra su hijastro o hijastra y viceversa, sólo se procederá por querella del ofendido; en caso de parentesco por consanguinidad en línea colateral y por afinidad, sólo se requerirá querella cuando se trate de parientes hasta el tercer grado.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2010)</small>
+
 ###### ARTICULO 224.
 
-Los delitos de abuso de confianza, despojo, daño en los bienes y extorsión se perseguirán por querella necesaria.
+Los delitos de abuso de confianza, despojo, daño en los bienes y fraude, se perseguirán por querella del ofendido, quien podrá otorgar el perdón judicial, siempre y cuando el imputado satisfaga los requisitos legales, acredite el pago de la reparación del daño causado y, en su caso, el de las multas impuestas.
 
 ## TITULO NOVENO. DELITOS CONTRA LA FIDELIDAD PROFESIONAL
 
@@ -3554,3 +3556,7 @@ P.O. 7 DE DICIEMBRE DE 2010.
 PRIMERO. Este Decreto entrará en vigor el uno de enero del dos mil once, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2010.
+
+UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
