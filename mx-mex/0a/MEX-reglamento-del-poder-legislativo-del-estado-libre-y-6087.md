@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2010-10-28"
+last_updated: "2010-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1549,6 +1549,10 @@ Artículo 152 TER.- La Biblioteca Legislativa "Dr. José María Luis Mora", para
 
 Artículo 152 QUÁTER.- La estructura de la Biblioteca será la que determine la Junta de Coordinación Política, dentro de la cual deberá estar una Librería, que se encargará de la venta de la obra editorial de la Legislatura y de aquellas obras que por su naturaleza se relacionen con el Poder Legislativo.
 
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2010)</small>
+
+Artículo 152 QUINQUIES.- El Cronista Legislativo será el encargado de relatar, de manera escrita, el acontecer histórico de lo más destacado del trabajo de la Legislatura, velando en todo momento por la objetividad y certeza de lo narrado, y preservando su conservación oficial. Ejercerá, además, las atribuciones que este Reglamento y otros ordenamientos aplicables le confieran.
+
 > <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 153.
@@ -1654,6 +1658,10 @@ La Secretaría de Administración y Finanzas, tendrá las siguientes atribucione
 I.- Planear, organizar, coordinar y controlar el desarrollo del personal y los recursos financieros y materiales con los que cuente el Poder Legislativo;
 
 II.- Definir y establecer objetivos, políticas y procedimientos en materia de administración y desarrollo de personal, recursos materiales y financieros del Poder Legislativo;
+
+> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2010)</small>
+
+II Bis.- El Secretario de Administración y Finanzas, asumirá de la manera más amplia la representación y defensa jurídica del Poder Legislativo, en los juicios laborales en que sea parte, contando para tal efecto, con facultades para otorgar y revocar poderes generales y especiales, o mediante carta poder u oficio para la debida representación jurídica;
 
 III.- Brindar apoyo a las dependencias del Poder Legislativo para su óptimo funcionamiento;
 
@@ -2196,3 +2204,21 @@ G.G. 28 DE OCTUBRE DE 2010.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 15 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 239 QUE ADICIONA LA FRACCION II BIS AL ARTICULO 160.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 15 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 240 QUE ADICIONA EL ARTICULO 152 QUINQUIES.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- En un plazo no mayor a treinta días, contados a partir de la publicación del presente Decreto, la Junta de Coordinación Política, a propuesta de su Presidente, designará a quien ocupará el cargo de Cronista Legislativo.
