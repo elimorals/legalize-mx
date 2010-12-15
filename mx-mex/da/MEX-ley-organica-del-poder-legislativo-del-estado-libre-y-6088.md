@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2010-10-22"
+last_updated: "2010-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -451,9 +451,9 @@ XV. Suspender la sesión pública y disponer su continuación con carácter de r
 
 XVI. Firmar con los secretarios, las resoluciones a que se refiere la Constitución;
 
-> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2010)</small>
 
-XVII. Representar jurídicamente al Poder Legislativo ante todo género de autoridades;
+XVII. Representar jurídicamente al Poder Legislativo ante todo género de autoridades, excepto en los juicios laborales en los que éste sea parte;
 
 > <small>(REFORMADA, G.G. 20 DE OCTUBRE DE 1999)</small>
 
@@ -1181,7 +1181,7 @@ V. Las demás que se establezcan en otros ordenamientos.
 
 Artículo 76 D.- Son atribuciones del Comité de Vigilancia de la Contraloría:
 
-l. Vigilar y evaluar los actos y procedimientos que en cumplimiento de sus atribuciones dicte o ejecute la Contraloría;
+I. Vigilar y evaluar los actos y procedimientos que en cumplimiento de sus atribuciones dicte o ejecute la Contraloría;
 
 II. Conocer y evaluar el programa anual de actividades de la Contraloría;
 
@@ -1366,6 +1366,10 @@ La organización administrativa de las dependencias será acordada por la Junta 
 > <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
 La Secretaría de Asuntos Parlamentarios, contará dentro de su estructura con la Biblioteca Legislativa "Dr. José María Luis Mora".
+
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2010)</small>
+
+La Secretaría de Asuntos Parlamentarios, contará dentro de su estructura con el Cronista Legislativo.
 
 ### CAPITULO UNICO. DE LA COMISION DE INSTRUCCIÓN Y DICTAMEN
 
@@ -1816,3 +1820,21 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta de Gobierno" de
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 15 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 239, POR EL QUE SE REFORMA LA FRACCION XVII DEL ARTICULO 47 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 15 DE DICIEMBRE DE 2010.
+
+DECRETO NUMERO 240, POR EL QUE SE ADICIONA UN SEXTO PARRAFO AL ARTICULO 96 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- En un plazo no mayor a treinta días, contados a partir de la publicación del presente Decreto, la Junta de Coordinación Política, a propuesta de su Presidente, designará a quien ocupará el cargo de Cronista Legislativo.
