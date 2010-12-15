@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-57-2008-del-pleno-del-consejo-de-la-63568"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-13"
-last_updated: "2010-02-12"
+last_updated: "2010-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63568&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-09-17"
 
 ACUERDO GENERAL 57/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA EL CAPITULO I DEL TITULO SEPTIMO DE LA LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS GENERALES PARA LA CELEBRACION DE CONCURSOS INTERNOS DE OPOSICION PARA LA DESIGNACION DE JUECES DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 30/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL PUBLICADO EN EL D.O.F. DE 15 DE DICIEMBRE DE 2010, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 13 de octubre de 2008.
 
@@ -754,3 +756,13 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo, de la Corte y del Tribunal Electoral.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 57/2008, del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Capítulo I del Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, por el que se Establecen los Lineamientos Generales para la Celebración de Concursos Internos de Oposición para la Designación de Jueces de Distrito.
+
+D.O.F. 15 DE DICIEMBRE DE 2010.
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en la página web del Consejo de la Judicatura Federal y en la del Instituto, así como en su sede y extensiones.
+
+TERCERO. Se abroga el Acuerdo General 57/2008 del Pleno del Consejo de la Judicatura Federal y demás disposiciones legales que se opongan al presente acuerdo.
+
+CUARTO. Los concursos internos de oposición que a la fecha de entrada en vigor del presente acuerdo se encuentren en trámite, continuaran realizándose conforme a la convocatoria y al acuerdo aplicables al concurso de que se trate.
