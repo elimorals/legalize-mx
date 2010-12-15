@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-desarrollo-34497"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-15"
-last_updated: "2009-04-24"
+last_updated: "2010-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO, EVALUACION Y CONTROL DE LA ADMINISTRACION PUBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2010.
 
 Reglamento publicado en la Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 15 de septiembre de 2003.
 
@@ -31,7 +31,7 @@ ACUERDO del Ejecutivo del Estado, que expide el REGLAMENTO INTERIOR DE LA SECRET
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Gobierno del Estado de Puebla.
 
-LICENCIADO MELQUlADES MORALES FLORES, Gobernador Constitucional del Estado Libre y Soberano de Puebla; y
+LICENCIADO MELQUIADES MORALES FLORES, Gobernador Constitucional del Estado Libre y Soberano de Puebla; y
 
 CONSIDERANDO.
 
@@ -54,6 +54,8 @@ Cuando en el presente Reglamento se utilice el término Secretaría, se entender
 ###### ARTÍCULO 3.
 
 La Secretaría llevará a cabo sus actividades en forma programada y de conformidad con las políticas, lineamientos, estrategias, programas y prioridades que para el logro de sus objetivos y metas, establezca el Gobernador del Estado y el Titular de la misma, en concordancia con los Planes Nacional y Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 4.
 
@@ -81,7 +83,7 @@ Para el estudio, planeación de las funciones y despacho de los asuntos de su co
 
 - Dirección de Normatividad Administrativa.
 
-- Dirección de Proyectos y Profesionalización en la Gestión de los Servicios Públicos.
+- Dirección de Desarrollo en la Gestión Pública.
 
 - Dirección de Análisis y Evaluación de Programas Operativos Anuales.
 
@@ -105,13 +107,21 @@ Para el estudio, planeación de las funciones y despacho de los asuntos de su co
 
 - Dirección de Responsabilidades y Situación Patrimonial.
 
+- Dirección de Profesionalización de Servidores Públicos.
+
+- Dirección de Recursos Materiales y Servicios Generales.
+
+- Dirección de Recursos Humanos.
+
+- Dirección de Recursos Financieros.
+
 - Delegaciones y Subdelegaciones.
 
-- Comisarías.
+- Comisarias.
 
 - Oficinas Regionales.
 
-- Unidad de Desarrollo Administrativo, Planeación e Informática.
+- Unidad de Desarrollo Administrativo, Planeación e informática.
 
 ###### ARTÍCULO 5.
 
@@ -211,9 +221,9 @@ XXXVI.- Establecer, la comunicación y la coordinación necesarias con otras dep
 
 XXXVII.- Asignar mediante el acuerdo correspondiente a las unidades administrativas de la Secretaría, las facultades no comprendidas en este Reglamento, que sean necesarias para el cumplimiento de sus obligaciones;
 
-XXXVIll.- Delegar sus facultades, cuando así lo estime conveniente, en términos de la Ley Orgánica de la Administración Pública del Estado;
+XXXVIII.- Delegar sus facultades, cuando así lo estime conveniente, en términos de la Ley Orgánica de la Administración Pública del Estado;
 
-XXXlX.- Coadyuvar e intervenir en la aplicación del Servicio Civil de Carrera en la Administración Pública Estatal; y
+XXXIX.- Coadyuvar e intervenir en la aplicación del Servicio Civil de Carrera en la Administración Pública Estatal; y
 
 XL.- Las demás que le atribuyan las leyes, reglamentos, acuerdos, decretos, convenios y contratos; así como aquéllas que le encomiende el Gobernador del Estado.
 
@@ -237,7 +247,7 @@ VI.- Integrar y someter a la consideración del Secretario, el anteproyecto de P
 
 VII.- Presentar a la consideración del Secretario, los estudios y proyectos que se elaboren en las unidades administrativas a su cargo;
 
-VIll.- Proponer al Secretario los objetivos, planes y programas de trabajo de las unidades administrativas a su cargo, así como vigilar su cumplimiento;
+VIII.- Proponer al Secretario los objetivos, planes y programas de trabajo de las unidades administrativas a su cargo, así como vigilar su cumplimiento;
 
 IX.- Desempeñar las funciones y comisiones que el Secretario les encomiende, manteniéndolo informado del desarrollo y cumplimiento de las mismas;
 
@@ -245,9 +255,9 @@ X.- Supervisar la adecuada utilización y aplicación de los fondos asignados a 
 
 XI.- Proporcionar la información y asesoría técnica que le sean requeridas, por las dependencias y entidades de la Administración Pública Estatal; así como por el Gobierno Federal, por otras Entidades Federativas y por los Municipios del Estado, de acuerdo a las políticas y normas establecidas por el Secretario;
 
-XlI.- Vigilar con el apoyo de la Coordinación General Jurídica, el cumplimiento de las disposiciones jurídicas o administrativas, que regulen los asuntos y actividades que realicen las unidades administrativas a su cargo;
+XII.- Vigilar con el apoyo de la Coordinación General Jurídica, el cumplimiento de las disposiciones jurídicas o administrativas, que regulen los asuntos y actividades que realicen las unidades administrativas a su cargo;
 
-XlII.- Proponer al Secretario las medidas para el mejoramiento funcional y operativo de las unidades administrativas a su cargo;
+XIII.- Proponer al Secretario las medidas para el mejoramiento funcional y operativo de las unidades administrativas a su cargo;
 
 XIV.- Suscribir los documentos relativos al ejercicio de sus atribuciones y de aquellos que, por delegación de facultades o por suplencia, les corresponda;
 
@@ -257,7 +267,7 @@ XVI.- Proponer al Secretario los nombramientos del personal que integren las uni
 
 XVII.- Coordinar en el ámbito de su competencia, la elaboración de los informes que deban rendirse al Gobernador del Estado, así como los derivados de los resultados de las evaluaciones, revisiones, inspecciones, fiscalizaciones y auditorías, que se practiquen por las unidades administrativas de la Secretaría a su cargo, a las dependencias y entidades de la Administración Pública Estatal;
 
-XVlII.- Ejercer las atribuciones que este Reglamento otorgue a los titulares de las unidades administrativas a su cargo;
+XVIII.- Ejercer las atribuciones que este Reglamento otorgue a los titulares de las unidades administrativas a su cargo;
 
 XIX.- Autorizar por escrito, conforme a las necesidades del servicio, a los servidores públicos subalternos para que firmen documentación relacionada con los asuntos que competan a las unidades administrativas a su cargo; y
 
@@ -283,7 +293,7 @@ VI.- Proponer al Secretario, las bases generales que deban contener los programa
 
 VII.- Vigilar que los delegados y subdelegados de la Secretaría y comisarios en las dependencias y entidades de la Administración Pública Estatal, así como las demás unidades administrativas de la propia Secretaría, apliquen los lineamientos preestablecidos en materia de seguimiento y evaluación de la Administración Pública;
 
-VlII.- Proponer al Secretario, la corrección, modificación, sustitución o cancelación de planes, proyectos y programas de las dependencias o entidades de la Administración Pública Estatal; y
+VIII.- Proponer al Secretario, la corrección, modificación, sustitución o cancelación de planes, proyectos y programas de las dependencias o entidades de la Administración Pública Estatal; y
 
 IX.- Las demás que le confiera el presente Reglamento, le otorgue el Secretario, así como las que competan a las unidades administrativas a su cargo.
 
@@ -315,7 +325,7 @@ X.- Establecer la coordinación para el seguimiento, control y evaluación de la
 
 XI.- Proporcionar en el ámbito de su competencia, la información, asesoría, capacitación y apoyo técnico que le sea requerida por los Gobiernos Municipales, sobre las políticas, normas y aplicación de recursos del Ramo 33; y
 
-XlI.- Las demás que le confiera el presente Reglamento, le otorgue el Secretario y así como las que competan a las unidades administrativas a su cargo.
+XII.- Las demás que le confiera el presente Reglamento, le otorgue el Secretario y así como las que competan a las unidades administrativas a su cargo.
 
 ### CAPÍTULO V. DE LOS COORDINADORES GENERALES
 
@@ -341,7 +351,7 @@ VI.- Recibir en acuerdo a los servidores públicos de las unidades administrativ
 
 VII.- Opinar sobre las propuestas de nombramiento; así como proponer los cambios del personal de las unidades administrativas a su cargo;
 
-VlII.- Procurar la capacitación permanente del personal que integra su Coordinación;
+VIII.- Procurar la capacitación permanente del personal que integra su Coordinación;
 
 IX.- Establecer las medidas necesarias para evitar que el personal a su cargo, incurra en la deficiencia del servicio, abuso o ejercicio indebido de su empleo, cargo o comisión, que puedan afectar los intereses de la Secretaría o de terceros;
 
@@ -349,15 +359,15 @@ X.- Proponer a su superior jerárquico, modificaciones a la estructura orgánica
 
 XI.- Proponer los manuales de organización, de procedimientos y de servicios al público, así como las medidas de simplificación administrativa, en las materias de su competencia;
 
-XlI.- Formular el anteproyecto del Presupuesto de Egresos, de las unidades administrativas a su cargo;
+XII.- Formular el anteproyecto del Presupuesto de Egresos, de las unidades administrativas a su cargo;
 
-XlII.- Conocer la situación presupuestal de las unidades administrativas a su cargo y realizar, ante la Dirección Administrativa, las gestiones para su correcto ejercicio, observando los ordenamientos legales en la materia;
+XIII.- Conocer la situación presupuestal de las unidades administrativas a su cargo y realizar, ante la Dirección Administrativa, las gestiones para su correcto ejercicio, observando los ordenamientos legales en la materia;
 
 XIV.- Validar mediante su firma, en términos del presente Reglamento, el trámite y despacho de los asuntos de su competencia;
 
 XV.- Elaborar y rendir informes, estudios y demás trabajos que el Secretario o superior inmediato le soliciten;
 
-XVl.- Proporcionar la información, datos, cooperación y asesoría técnica, que le sea requerida por las unidades administrativas de la Secretaría, de conformidad con las disposiciones legales aplicables y de acuerdo a las políticas establecidas;
+XVI.- Proporcionar la información, datos, cooperación y asesoría técnica, que le sea requerida por las unidades administrativas de la Secretaría, de conformidad con las disposiciones legales aplicables y de acuerdo a las políticas establecidas;
 
 XVII.- Autorizar por escrito conforme a las necesidades del servicio y de acuerdo con su superior inmediato, a los servidores públicos subalternos, para que firmen documentación relacionada con los asuntos que competan a la coordinación o unidades administrativas a su cargo;
 
@@ -393,15 +403,15 @@ VIII.- Vigilar que los asesores y consultores que contraten las dependencias y e
 
 IX.- Participar en el seno de la Comisión Interinstitucional para el Desarrollo Administrativo y Calidad, emitiendo opiniones y sugerencias, para modernizar los procesos y elevar la calidad de los servicios al público;
 
-X.- Proponer al Subsecretario los lineamientos bajo los cuales operará la Comisión lnterinstitucional para el Desarrollo Administrativo y Calidad de la Administración Pública Estatal;
+X.- Proponer al Subsecretario los lineamientos bajo los cuales operará la Comisión Interinstitucional para el Desarrollo Administrativo y Calidad de la Administración Pública Estatal;
 
 XI.- Coordinar la participación interinstitucional de las dependencias y entidades de la Administración Pública Estatal, para la descentralización administrativa;
 
 XII.- Diseñar los mecanismos en materia de desarrollo administrativo y calidad, que deben observar las dependencias y entidades de la Administración Pública Estatal;
 
-XlII.- Realizar directamente o a través de terceros, los estudios para mejorar el funcionamiento en materia de desarrollo administrativo y calidad en la Administración Pública Estatal;
+XIII.- Realizar directamente o a través de terceros, los estudios para mejorar el funcionamiento en materia de desarrollo administrativo y calidad en la Administración Pública Estatal;
 
-XlV.- Promover y coordinar, conjuntamente con la Dirección de Programas Coordinados y Operación Regional, el cumplimiento de los convenios celebrados con la Federación, con otras Entidades Federativas y Municipios del Estado en materia de desarrollo administrativo y calidad;
+XIV.- Promover y coordinar, conjuntamente con la Dirección de Programas Coordinados y Operación Regional, el cumplimiento de los convenios celebrados con la Federación, con otras Entidades Federativas y Municipios del Estado en materia de desarrollo administrativo y calidad;
 
 XV.- Establecer lineamientos para que los delegados y subdelegados de la Secretaría y comisarios en las dependencias y entidades de la Administración Pública Estatal, coordinen, analicen, den seguimiento y propongan adecuaciones al Programa de Desarrollo Administrativo y Calidad en las dependencias y entidades de su adscripción;
 
@@ -409,7 +419,7 @@ XVI.- Establecer y difundir, los lineamientos para que los delegados y subdelega
 
 XVII.- Participar en el análisis de las estructuras orgánicas, manuales de organización, de procedimientos y de servicios al público, previa la autorización que presenten las dependencias y entidades de la Administración Pública Estatal;
 
-XVIlI.- Promover la capacitación, desarrollo y actualización permanente del personal de las dependencias y entidades de la Administración Pública Estatal, y en coordinación con la Dirección de Programas Coordinados y Operación Regional, llevar a cabo estas acciones con los órganos de control de los Municipios de la Entidad;
+XVIII.- Promover la capacitación, desarrollo y actualización permanente del personal de las dependencias y entidades de la Administración Pública Estatal, y en coordinación con la Dirección de Programas Coordinados y Operación Regional, llevar a cabo estas acciones con los órganos de control de los Municipios de la Entidad;
 
 XIX.- Informar periódicamente a su superior inmediato, sobre el avance y resultado del Programa de Desarrollo Administrativo y Calidad; y
 
@@ -443,9 +453,9 @@ X.- Establecer los enlaces interinstitucionales y de contacto comunitario necesa
 
 XI.- Elaborar, implementar y dar seguimiento, a programas permanentes de capacitación y actualización, dirigidos a los evaluadores y áreas afines, que deban cumplirse para la solventación de las observaciones y recomendaciones resultantes de la aplicación de métodos de evaluación;
 
-XlI.- Emitir opinión, por sí o a solicitud de las dependencias y entidades de la Administración Pública Estatal, con el fin de corregir, modificar, cancelar o sustituir proyectos o programas en base al impacto social o financiero de los mismos;
+XII.- Emitir opinión, por sí o a solicitud de las dependencias y entidades de la Administración Pública Estatal, con el fin de corregir, modificar, cancelar o sustituir proyectos o programas en base al impacto social o financiero de los mismos;
 
-XlII.- Establecer las normas y lineamientos respecto a los procedimientos que las dependencias y entidades de la Administración Pública Estatal, deban observar;
+XIII.- Establecer las normas y lineamientos respecto a los procedimientos que las dependencias y entidades de la Administración Pública Estatal, deban observar;
 
 XIV.- Elaborar y difundir la estrategia de evaluación social y del proyecto de indicadores, con el fin de contar con la información que sirva como apoyo en la toma de decisiones e informar a los ciudadanos de manera periódica, sobre los principales avances obtenidos en los diferentes sectores de la Administración Pública Estatal;
 
@@ -485,11 +495,11 @@ X.- Dar seguimiento a las obras y acciones insertas en el marco de los convenios
 
 XI.- Supervisar el ejercicio del gasto de inversión y de mantenimiento de las obras y servicios públicos relacionados con recursos del Estado o con los que éste le transfiera a los Municipios, conforme a los convenios suscritos;
 
-XlI.- Elaborar y controlar el Sistema de Registro de la Obra Pública;
+XII.- Elaborar y controlar el Sistema de Registro de la Obra Pública;
 
 XIII.- Proporcionar dentro del ámbito de su competencia, apoyo en materia de obra pública y dar seguimiento a las asesorías realizadas a los Municipios que así lo soliciten;
 
-XlV.- Informar al Secretario, en su carácter de miembro del Comité de Planeación para el Desarrollo del Estado de Puebla, el resultado de la supervisión, fiscalización y auditoria a la obra pública, inserta en el Convenio de Desarrollo Social y Humano y el Programa Directo del Gobierno del Estado;
+XIV.- Informar al Secretario, en su carácter de miembro del Comité de Planeación para el Desarrollo del Estado de Puebla, el resultado de la supervisión, fiscalización y auditoria a la obra pública, inserta en el Convenio de Desarrollo Social y Humano y el Programa Directo del Gobierno del Estado;
 
 XV.- Proporcionar a la Secretaría de la Función Pública, cuando se trate de recursos federales transferidos al Estado, a los municipios, información sobre el destino y uso de dichos recursos;
 
@@ -497,7 +507,7 @@ XVI.- Supervisar y evaluar las auditorías realizadas a la obra pública, por la
 
 XVII.- Turnar a la Coordinación General Jurídica, los expedientes integrados con los resultados de las auditorías y fiscalizaciones que se hubieren practicado, si de las mismas se detectaran hechos que pudieran constituir responsabilidades a servidores públicos;
 
-XVllI.- Turnar a la Coordinación General Jurídica, para su opinión, los casos que impliquen controversias de derecho, así como proporcionarle la información que requiera, en los plazos y términos que señale;
+XVIII.- Turnar a la Coordinación General Jurídica, para su opinión, los casos que impliquen controversias de derecho, así como proporcionarle la información que requiera, en los plazos y términos que señale;
 
 XIX.- Certificar previa autorización de la Coordinación General Jurídica, los documentos relativos a los asuntos que se tramitan en las unidades administrativas a su cargo;
 
@@ -625,7 +635,7 @@ VI.- Verificar y supervisar directamente, o a través de terceros, que los actos
 
 VII.- Intervenir en forma coordinada con otras dependencias y entidades de la Administración Pública Estatal, en la formulación de proyectos de leyes, reglamentos, acuerdos, decretos, convenios y demás disposiciones jurídicas que el Secretario proponga al Gobernador del Estado, así como instrumentar el registro de los mismos;
 
-VIIl.- Previo acuerdo del Secretario, hacer ante el Ministerio Público, en su caso, manifestación de que el servidor público sujeto a la investigación respectiva, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, no justificó la procedencia lícita del incremento substancial de su patrimonio, de los bienes adquiridos o de aquéllos que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo;
+VIII.- Previo acuerdo del Secretario, hacer ante el Ministerio Público, en su caso, manifestación de que el servidor público sujeto a la investigación respectiva, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, no justificó la procedencia lícita del incremento substancial de su patrimonio, de los bienes adquiridos o de aquéllos que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo;
 
 IX.- Registrar los instrumentos normativos que emita el Secretario, así como las autorizaciones que, para el ejercicio de las atribuciones de los diferentes servidores públicos, expidan el Secretario y los titulares de las unidades administrativas de la Secretaría;
 
@@ -645,7 +655,7 @@ XV.- Coadyuvar con las Procuradurías General de Justicia del Estado y de la Rep
 
 XVI.- Intervenir en los juicios de amparo en que el Secretario o las unidades administrativas de la Secretaría, conjunta o separadamente, sean señalados como autoridades responsables, elaborando los informes previo o justificado, así como ofrecer pruebas, interponer los recursos y contestar los requerimientos hechos por los órganos jurisdiccionales;
 
-XVIl.- Atender las solicitudes y rendir los informes que requiera la Comisión Estatal de Derechos Humanos, manteniendo una estrecha relación con la misma; así como dar seguimiento a cada una de las recomendaciones realizadas por dicho organismo, verificando su cumplimiento;
+XVII.- Atender las solicitudes y rendir los informes que requiera la Comisión Estatal de Derechos Humanos, manteniendo una estrecha relación con la misma; así como dar seguimiento a cada una de las recomendaciones realizadas por dicho organismo, verificando su cumplimiento;
 
 XVIII.- Expedir a solicitud del interesado o autoridad competente, constancias o copias certificadas de documentos relativos a los asuntos que se tramitan en la Secretaría;
 
@@ -655,7 +665,7 @@ XX.- Recibir y registrar directamente o a través de las Delegaciones de la Secr
 
 XXI.- Ordenar por si, o a través de las Delegaciones, Subdelegaciones y Comisarías de la Secretaría, la práctica de verificaciones e investigaciones que sean necesarias por el incumplimiento de los servidores públicos de las obligaciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-XXlI.- Elaborar un padrón actualizado de servidores públicos sancionados, estableciendo coordinación permanente con los otros Poderes del Estado; así como con dependencias del Ejecutivo Federal y los Municipios y otras entidades federativas, a fin de intercambiar información en esta materia;
+XXII.- Elaborar un padrón actualizado de servidores públicos sancionados, estableciendo coordinación permanente con los otros Poderes del Estado; así como con dependencias del Ejecutivo Federal y los Municipios y otras entidades federativas, a fin de intercambiar información en esta materia;
 
 XXIII.- Expedir directamente, o a través de las Delegaciones de la Secretaría y comisarios en las dependencias y entidades de la Administración Pública Estatal, que determine el Secretario, las constancias que acrediten la no inhabilitación;
 
@@ -665,7 +675,7 @@ XXV.- Vigilar la aplicación de los sistemas, procedimientos y manuales que al e
 
 XXVI.- Recibir y atender las quejas y denuncias, que sean presentadas por los particulares, en términos de los ordenamientos legales, manteniendo informado al quejoso o denunciante sobre el trámite y estado de su queja o denuncia;
 
-XXVIl.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos, para constituir responsabilidades administrativas;
+XXVII.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos, para constituir responsabilidades administrativas;
 
 XXVIII.- Iniciar, intervenir y dar seguimiento al procedimiento administrativo por si, o a través de los delegados, subdelegados y comisarios de la Secretaría, por el incumplimiento de los servidores públicos de las obligaciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
@@ -677,61 +687,55 @@ XXXI.- Turnar las resoluciones administrativas que se emitan a los titulares de 
 
 XXXII.- Rendir y suscribir en ausencia del Secretario, los informes previos y justificados que sean solicitados por las autoridades federales correspondientes;
 
-XXXIlI.- Coadyuvar con las demás unidades administrativas de la Secretaría, en las cuestiones de carácter legal que le sean solicitadas; y
+XXXIII.- Coadyuvar con las demás unidades administrativas de la Secretaría, en las cuestiones de carácter legal que le sean solicitadas; y
 
-XXXlV.- Las demás que le confiera el presente Reglamento, las leyes del Estado, o le delegue el Secretario; así como las que competan a las unidades administrativas a su cargo.
+XXXIV.- Las demás que le confiera el presente Reglamento, las leyes del Estado, o le delegue el Secretario; así como las que competan a las unidades administrativas a su cargo.
 
 ### CAPÍTULO XII. DE LA COORDINACIÓN GENERAL ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 21.
 
 La Coordinación General Administrativa dependerá directamente del Secretario y tendrá además de las atribuciones que señala el artículo 13 del presente Reglamento, las siguientes:
 
-l.- Proponer, difundir y aplicar las políticas, normas, sistemas y procedimientos para mejorar la organización y administración de los recursos humanos, financieros y materiales de la Secretaría;
+I.- Establecer y conducir la política de administración interna que señale el Secretario, así como lo establecido en la normatividad aplicable vigente;
 
-II.- Coadyuvar con las demás unidades administrativas de la Secretaría, en la elaboración de los manuales de organización, procedimientos y de servicios al público de la Secretaría, procurando su revisión y actualización;
+II.- Proponer y coordinar la aplicación de políticas, normas, sistemas y procedimientos para mejorar la organización y administración de los recursos humanos, financieros y materiales de la Secretaría, de acuerdo a la normatividad aplicable vigente;
 
-III.- Coordinarse con la Unidad de Desarrollo Administrativo, Planeación e Informática, para efectuar los diagnósticos de operatividad y establecer los mecanismos necesarios para la evaluación permanente de las unidades administrativas de la Secretaría;
+III.- Difundir al interior de la Secretaría las estructuras orgánicas, sistemas y procedimientos de las unidades administrativas de la Secretaría;
 
-IV.- Difundir al interior de la Secretaría las estructuras orgánicas, sistemas y procedimientos que deberán observar de las unidades administrativas de la Secretaría, así como proponer sus adecuaciones;
+IV.- Previo acuerdo con el Secretario, coordinar la selección, contratación, capacitación, motivación, desarrollo, sueldos y salarios del personal de la Secretaría, de conformidad con la normatividad aplicable vigente;
 
-V.- Coordinar la selección, contratación, capacitación, motivación, desarrollo, así como tramitar los sueldos y salarios del personal de la Secretaría, y las acciones relativas al mejoramiento de las condiciones de trabajo de los mismos;
+V.- Coordinar los programas de empleo y de servicio social, para satisfacer las necesidades de personal de las diversas unidades administrativas de la Secretaría;
 
-VI.- Coordinar y operar los programas de empleo y de servicio social, para satisfacer las necesidades de personal de las diversas unidades administrativas de la Secretaría;
+VI.- Previo acuerdo con el Secretario, coordinar los asuntos del personal al servicio de la Secretaría, tales como altas, remociones, licencias, despidos o ceses, así como lo relacionado con toda clase de movimientos, de conformidad con la normatividad aplicable vigente;
 
-VII.- Tramitar ante la instancia competente, previo acuerdo con el Secretario, los asuntos del personal al servicio de la Secretaría, tales como contratación, altas, remociones, licencias, despidos o ceses; así como lo relacionado con toda clase de movimientos, de conformidad con los lineamientos fijados por los ordenamientos jurídicos en la materia;
+VII.- Coordinar y supervisar la aplicación de los sistemas de estímulos y recompensas para el personal de la Secretaría, de conformidad con la normatividad aplicable vigente;
 
-VIlI.- Definir, proponer y aplicar los sistemas de estímulos, recompensas y la imposición de sanciones administrativas para el personal de la Secretaría, que determinen los ordenamientos vigentes en la materia;
+VIII.- Fomentar, coordinar y supervisar la tramitación de las prestaciones y los servicios de carácter médico, económico, social, educativo, cultural, deportivo y recreativo a que tienen derecho los servidores públicos de la Secretaría y sus familiares;
 
-IX.- Fomentar, coordinar y tramitar, las prestaciones y los servicios de carácter económico, social, educativo, cultural, deportivo y recreativo a que tienen derecho los servidores públicos de la Secretaría y sus familiares, de acuerdo a las políticas establecidas por las autoridades competentes;
+IX.- Coordinar la formulación del anteproyecto de Presupuesto Anual de la Secretaría y someterlo a consideración del Secretario;
 
-X.- Formular y someter a la consideración del Secretario, el anteproyecto del presupuesto anual de la Secretaría, así como vigilar y controlar su ejercicio conforme a los programas y proyectos de las unidades administrativas, realizando las modificaciones y transferencias necesarias, de acuerdo a las disposiciones legales vigentes;
+X.- Coordinar la asesoría, información y apoyo a las unidades administrativas sobre la elaboración y ejercicio de su presupuesto;
 
-XI.- Asesorar e informar a las unidades administrativas de la Secretaría, sobre la elaboración, asignación y ejercicio del presupuesto; así como apoyarlas en todo lo relacionado en materia de programación y presupuestación;
+XI.- Coordinar el ejercicio del Presupuesto Anual de la Secretaría, de acuerdo a la calendarización de los programas y proyectos;
 
-XlI.- Llevar el registro del ejercicio del presupuesto autorizado de la Secretaría, vigilando que todas las operaciones presupuestales programáticas que realicen las unidades administrativas de la Secretaría, se efectúen con apego a las disposiciones legales y administrativas aplicables;
+XII.- Supervisar que se lleve la contabilidad y la elaboración de los estados financieros de la Secretaría;
 
-XlII.- Llevar la contabilidad y elaborar los estados financieros de la Secretaría;
+XIII.- Informar periódicamente al Secretario sobre las operaciones presupuestales, financieras y programáticas de la Secretaría;
 
-XIV.- Informar periódicamente al Secretario sobre las operaciones presupuestales, financieras y programáticas de la Secretaría;
+XIV.- Suscribir los contratos que afecten el presupuesto de la Secretaría en materia de adquisiciones, arrendamientos, prestación de servicios y actos de administración, manteniendo informado al Secretario de los mismos;
 
-XV.- Rendir informes al Secretario respecto de los contratos que afecten el presupuesto de la Secretaría, debiendo suscribir aquéllos que en materia de adquisiciones, arrendamientos, prestación de servicios y actos de administración realice la Secretaría;
+XV.- Coordinar la atención de las necesidades de recursos materiales, humanos y financieros a las unidades administrativas en forma oportuna;
 
-XVI.- Atender los requerimientos en materias de personal, presupuestos, recursos materiales y servicios generales de las unidades administrativas que integra la Secretaría;
+XVI.- Proponer al Secretario el Programa Anual de Adquisiciones de Bienes y Servicios y coordinar su aplicación, de conformidad con la normatividad aplicable vigente;
 
-XVII.- Tramitar la adquisición de bienes y la contratación de servicios que soliciten las demás unidades administrativas, de acuerdo a los lineamientos establecidos;
+XVII.- Coordinar la instrumentación y actualización de los inventarios de bienes muebles e inmuebles a cargo de la Secretaría y la implementación de los mecanismos para el resguardo correspondiente;
 
-XVIII.- Mantener actualizados los inventarios de bienes muebles e inmuebles y de los recursos materiales a cargo de la Secretaría, así como instrumentar los mecanismos para su resguardo correspondiente;
+XVIII.- Coordinar el Archivo de Concentración de la Secretaría, de conformidad con la normatividad aplicable vigente; y
 
-XlX.- Planear, coordinar y proporcionar, directamente o a través de terceros, los servicios de conservación, instalación, adaptación, mantenimiento, vigilancia y reparación de los bienes muebles e inmuebles a cargo de la Secretaría;
-
-XX.- Llevar el control y administración del almacén general de la Secretaría;
-
-XXI.- Proporcionar los servicios de recepción y despacho de correspondencia, archivo central y registro de expedientes, reproducción, impresión, artes gráficas y encuadernación, así como los relativos a las publicaciones autorizadas por el Secretario, llevando un estricto control de los mismos;
-
-XXIl.- Establecer el control de suministros de materiales a las unidades administrativas de la Secretaría, a fin de proveer los recursos necesarios en forma oportuna, proponiendo y vigilando el uso racional de los mismos; y
-
-XXIII.- Las demás que le confiera el presente Reglamento, o le delegue el Secretario; así corno las que le competan a las unidades administrativas a su cargo.
+XIX.- Las demás que le confiera el presente Reglamento, o le otorgue el Secretario, así como las que le competan a las unidades administrativas a su cargo.
 
 ### CAPÍTULO XIII. DE LOS DIRECTORES
 
@@ -801,7 +805,7 @@ V.- Establecer las normas y lineamentos para que en las dependencias y entidades
 
 VI.- Difundir las normas, políticas, lineamientos y criterios que deban observar las dependencias y entidades de la Administración Pública Estatal, en materia de recursos humanos, financieros y materiales, contratación de servidos; así como en la administración de los bienes muebles e inmuebles, propiedad o al cuidado del Gobierno del Estado;
 
-VIl.- Coadyuvar con las diferentes unidades administrativas de la Secretaría, en la elaboración y difusión de las políticas, normas y lineamientos que, en materia de desarrollo administrativo, calidad, evaluación, control y supervisión, deban observar las dependencias y entidades de la Administración Pública Estatal;
+VII.- Coadyuvar con las diferentes unidades administrativas de la Secretaría, en la elaboración y difusión de las políticas, normas y lineamientos que, en materia de desarrollo administrativo, calidad, evaluación, control y supervisión, deban observar las dependencias y entidades de la Administración Pública Estatal;
 
 VIII.- Asesorar a las demás unidades administrativas de la Secretaría, en la elaboración de las normas y lineamientos para que las dependencias y entidades de la Administración Pública Estatal, solventen las observaciones derivadas de los resultados de auditorías, revisiones, fiscalizaciones, supervisiones y evaluaciones;
 
@@ -817,29 +821,75 @@ XIII.- Establecer las normas y lineamientos para llevar el registro de los obseq
 
 XIV.- Las demás que le confiera el presente Reglamento, o le delegue el Subsecretario o el Coordinador General.
 
-### CAPÍTULO XV. DE LA DIRECCIÓN DE PROYECTOS Y PROFESIONALIZACIÓN EN LA GESTIÓN DE LOS SERVICIOS PÚBLICOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO XV. DE LA DIRECCIÓN DE DESARROLLO DE LA GESTIÓN PÚBLICA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 25.
 
-La Dirección de Proyectos y Profesionalización en la Gestión de los Servicios Públicos, dependerá directamente de la Coordinación General de Desarrollo Administrativo y Calidad, y tendrá las siguientes atribuciones:
+La Dirección de Desarrollo de la Gestión Pública dependerá de la Coordinación General de Desarrollo Administrativo y Calidad y tendrá, además de las atribuciones señaladas en el artículo 23 de este Reglamento, las siguientes:
 
-I.- Proponer, organizar, ejecutar, evaluar y controlar las actividades para la instrumentación del Programa Estatal de Combate a la Corrupción;
+I.- Elaborar y proponer al Coordinador General de Desarrollo Administrativo y Calidad los lineamientos y metodologías para la elaboración e implementación de programas y proyectos para la modernización, desarrollo administrativo e innovación de la gestión pública que deberán observar las Dependencias y Entidades de la Administración Pública Estatal;
 
-II.- Diseñar y proponer estrategias para la capacitación, desarrollo y actualización permanente del personal de las dependencias y entidades del Estado;
+II.- Evaluar y opinar respecto de los programas y proyectos de modernización, desarrollo administrativo e innovación, que elaboren las Dependencias y Entidades de la Administración Pública Estatal;
 
-III.- Proponer, establecer y difundir la metodología, procedimientos y estrategias para la instrumentación del Servicio Civil de Carrera en la Administración Púbica Estatal;
+III.- Establecer los lineamientos y metodologías para la integración y actualización del registro de programas y proyectos de modernización, desarrollo administrativo e innovación que lleven a cabo las Dependencias y Entidades de la Administración Pública Estatal;
 
-IV.- Establecer los criterios pan la instrumentación del Centro de Aprendizaje Virtual de las dependencias y entidades de la Administración Pública Estatal;
+IV.- Promover y coordinar la relación interinstitucional, así como la comunicación con dependencias y entidades de los ámbitos federal, municipal y de otras entidades federativas, con la finalidad de instrumentar convenios de cooperación en materia de intercambio de información sobre los servicios públicos;
 
-V.- Proponer, promover y coordinar la relación interinstitucional para que puedan suscribirse los convenios necesarios para la profesionalización de los servidores públicos del Estado;
+V.- Elaborar y proponer al Coordinador General de Desarrollo Administrativo y Calidad los lineamientos para la operación, difusión y/o actualización del Registro Estatal de Servicios al Público, el cual deberá contener como mínimo el inventario e información de los trámites, servicios y programas de apoyo que se gestionen ante las Dependencias y Entidades de la Administración Pública Estatal;
 
-VI.- Establecer y difundir los lineamientos para la actualización y registro de los servicios públicos a través de medios electrónicos; y
+VI.- Elaborar y proponer al Coordinador General de Desarrollo Administrativo y Calidad los lineamientos para el permanente registro, actualización y simplificación de la información que integre el inventario de trámites, servicios y programas de apoyo que se gestionen ante las Dependencias y Entidades de la Administración Pública Estatal;
 
-VII.- Las demás que le confiera el Subsecretario de Desarrollo Administrativo y Evaluación, así como el Coordinador General.
+VII.- Desarrollar y proponer metodologías y herramientas para la gestión organizacional de las Dependencias y Entidades de la Administración Pública Estatal;
 
-### CAPÍTULO XVI. DE LA DIRECCIÓN DE ANÁLISIS Y EVALUACIÓN DE PROGRAMAS OPERATlVOS ANUALES
+VIII.- Analizar las propuestas de modificación y registro de las estructuras orgánicas que soliciten a la Secretaría las Dependencias y Entidades de la Administración Pública Estatal y proponer al Coordinador General de Desarrollo Administrativo y Calidad el dictamen sobre la viabilidad de las mismas;
 
-### CAPÍTULO XVII. DE LA DIRECCIÓN DE EVALUACIÓN DE SERVICIOS PÚBLICOS
+IX- Establecer, difundir y dar seguimiento a las políticas, lineamientos y metodologías para la implementación de herramientas y programas de calidad en la Administración Pública Estatal;
+
+X.- Previo acuerdo con su superior jerárquico, establecer, difundir y dar seguimiento a los lineamientos y metodologías para la simplificación y mejora de los procesos de las Dependencias y Entidades de la Administración Pública Estatal;
+
+XI.- Obtener y catalogar las mejores prácticas en materia de innovación, modernización, desarrollo administrativo y calidad, para su difusión e implementación en la Administración Pública Estatal;
+
+XII.- Apoyar al Coordinador General de Desarrollo Administrativo y Calidad en la evaluación y seguimiento de los trabajos realizados por asesores y consultores que contraten las Dependencias y Entidades de la Administración Pública en materia de modernización, desarrollo administrativo, innovación gubernamental y calidad;
+
+XIII.- Realizar el seguimiento al cumplimiento por parte de las Dependencias y Entidades de la Administración Pública Estatal respecto de las políticas, lineamientos, metodologías y herramientas emitidas por esta Secretaría;
+
+XIV.- Desarrollar, proponer al Coordinador General de Desarrollo Administrativo y Calidad y ejecutar proyectos y programas en materia de modernización, desarrollo administrativo, innovación, calidad y gestión organizacional para su implementación en la Administración Pública Estatal;
+
+XV.- Coadyuvar con el Coordinador General de Desarrollo Administrativo y Calidad en la integración del Programa de Desarrollo Administrativo y Calidad de la Administración Pública Estatal;
+
+XVI.- Proponer al Coordinador General de Desarrollo Administrativo y Calidad los mecanismos para que las delegaciones, subdelegaciones y comisarías coadyuven en el seguimiento y evaluación del cumplimiento por parte de las Dependencias y Entidades de la Administración Pública Estatal de las estrategias, políticas, lineamientos y metodologías emitidas por la Dirección; y
+
+XVII.- Las demás que le confiera el presente Reglamento o le delegue el Coordinador General de Desarrollo Administrativo y Calidad.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO XV BIS. DE LA DIRECCIÓN DE PROFESIONALIZACIÓN DE SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 25 BIS.- La Dirección de Profesionalización de Servidores Públicos dependerá de la Coordinación General de Desarrollo Administrativo y Calidad y tendrá, además de las atribuciones señaladas en el artículo 23 de este Reglamento, las siguientes:
+
+I.- Diseñar, elaborar, instrumentar y difundir el plan estratégico para el desarrollo del Capital Humano Productivo, basado en competencias y talentos de los Servidores Públicos de las Dependencias y Entidades de la Administración Pública del Estado;
+
+II.- Previo acuerdo con su superior jerárquico, practicar evaluaciones psicométricas a los servidores públicos de las Dependencias y Entidades de la Administración Pública del Estado, con el propósito de determinar sus capacidades para el desarrollo institucional;
+
+III.- Planear, proyectar e instrumentar, previo acuerdo con su superior jerárquico, la estrategia en materia de capacitación para los servidores públicos de las Dependencias y Entidades de la Administración Pública del Estado, a partir del diagnóstico de necesidades de capacitación, estudio de clima organizacional y otras acciones inherentes al proceso de capacitación y desarrollo de habilidades, así como evaluar su aplicación y resultados;
+
+IV.- Diseñar, instrumentar y adecuar en forma coordinada con la Secretaría de Finanzas y Administración, los perfiles de puestos de los servidores públicos de las Dependencias y Entidades de la Administración Pública del Estado, para mejorar la eficiencia en los métodos de selección y reclutamiento;
+
+V.- Proponer al Coordinador General de Desarrollo Administrativo y Calidad un programa de competencias laborales genéricas para la Administración Pública del Estado;
+
+VI.- Previo acuerdo con el superior jerárquico, diseñar, elaborar y aplicar un modelo de evaluación de desempeño eficiente, para evaluar resultados, mejoras y comportamiento de los servidores públicos de las Dependencias y Entidades de la Administración Pública Estatal;
+
+VII.- Proponer al Coordinador General de Desarrollo Administrativo y Calidad acciones para reconocer y estimular el desempeño eficiente de los servidores públicos, que impacten favorablemente los resultados organizacionales; y
+
+VIII.- Las demás que le confiera el presente Reglamento o le delegue el Coordinador General de Desarrollo Administrativo y Calidad.
+
+### CAPÍTULO XVI. DE LA DIRECCIÓN DE ANÁLISIS Y EVALUACIÓN DE PROGRAMAS OPERATIVOS ANUALES
 
 ###### ARTÍCULO 26.
 
@@ -867,7 +917,7 @@ X.- Analizar las solventaciones presentadas por las unidades administrativas de 
 
 XI.- Diseñar y establecer los lineamientos y procedimientos, que en materia de evaluación deberán observar las dependencias y entidades de la Administración Pública Estatal;
 
-XlI.- Emitir opinión, por sí o a solicitud de las dependencias y entidades de la Administración Pública Estatal, con el fin de corregir, modificar, cancelar o sustituir objetivos, metas e indicadores de sus programas operativos anuales;
+XII.- Emitir opinión, por sí o a solicitud de las dependencias y entidades de la Administración Pública Estatal, con el fin de corregir, modificar, cancelar o sustituir objetivos, metas e indicadores de sus programas operativos anuales;
 
 XIII.- Intervenir en la validación de los programas anuales de trabajo de las dependencias y entidades de la Administración Pública Estatal;
 
@@ -875,7 +925,7 @@ XIV.- Llevar a cabo estudios e investigaciones en materia de evaluación de la g
 
 XV.- Las demás que le confiera el presente Reglamento, o le delegue el Coordinador General.
 
-### CAPÍTULO XVIII. DE LA DIRECCIÓN DE RAMO 33
+### CAPÍTULO XVII. DE LA DIRECCIÓN DE EVALUACIÓN DE SERVICIOS PÚBLICOS
 
 ###### ARTÍCULO 27.
 
@@ -895,7 +945,7 @@ VI.- Mantener informado al Coordinador General acerca de la situación que guard
 
 VII.- Determinar el o los procedimientos para la captación, manejo y procesamiento de la información derivada de la aplicación de encuestas, entrevistas y estudios de campo relativos a los servicios públicos;
 
-Vlll.- Dirigir y programar visitas de verificación de dimensiones de calidad y atributos perceptibles por los usuarios de servicios públicos;
+VIII.- Dirigir y programar visitas de verificación de dimensiones de calidad y atributos perceptibles por los usuarios de servicios públicos;
 
 IX.- Controlar y dar seguimiento a las peticiones que la ciudadanía solicite al Gobernador del Estado e informar de la situación que guardan;
 
@@ -903,7 +953,7 @@ X.- Definir los lineamientos que se deberán observar en las acciones de partici
 
 XI.- Las demás que le confiera el presente Reglamento, o le delegue el Coordinador General.
 
-### CAPÍTULO XIX. DE LA DIRECCIÓN DE SUPERVISIÓN Y CALIDAD
+### CAPÍTULO XVIII. DE LA DIRECCIÓN DE RAMO 33
 
 ###### ARTÍCULO 28.
 
@@ -943,7 +993,7 @@ XVI.- Turnar a la Coordinación General Jurídica los resultados de las auditor�
 
 XVII.- Las demás que le confiera el presente Reglamento, o le delegue el Secretario o el Coordinador General.
 
-### CAPÍTULO XX. DE LA DIRECCIÓN DE AUDITORÍA Y FISCALIZACIÓN A PROGRAMAS DE INVERSIÓN
+### CAPÍTULO XIX. DE LA DIRECCIÓN DE SUPERVISIÓN Y CALIDAD
 
 ###### ARTÍCULO 29.
 
@@ -989,7 +1039,7 @@ XIX.- Certificar, previa autorización de la Coordinación General Jurídica, lo
 
 XX.- Las demás que le confiera el Secretario, el presente Reglamento, o le atribuyan otras leyes, reglamentos, acuerdos, decretos, convenios y contratos o le delegue el Coordinador.
 
-### CAPÍTULO XXI. DE LA DIRECCIÓN DE PROGRAMAS COORDINADOS Y OPERACIÓN REGIONAL
+### CAPÍTULO XX. DE LA DIRECCIÓN DE AUDITORÍA Y FISCALIZACIÓN A PROGRAMAS DE INVERSIÓN
 
 ###### ARTÍCULO 30.
 
@@ -1017,7 +1067,7 @@ X.- Auditar y fiscalizar el cumplimiento de las normas en materia de obra públi
 
 XI.- Previo acuerdo de su superior jerárquico, dar seguimiento a las obras y acciones insertas en el marco de los convenios suscritos entre el Estado con la Federación y otras Entidades Federativas, así como a los resultados de las auditorías y fiscalizaciones realizadas, por sí o en coordinación con la Secretaría de la Función Pública;
 
-XlI.- Auditar y fiscalizar el ejercicio del gasto de inversión y de mantenimiento de las obras y servicios públicos relacionados con recursos del Estado o con los que éste le transfiera a los Municipios;
+XII.- Auditar y fiscalizar el ejercicio del gasto de inversión y de mantenimiento de las obras y servicios públicos relacionados con recursos del Estado o con los que éste le transfiera a los Municipios;
 
 XIII.- Otorgar apoyo en materia de obra pública y dar seguimiento a las asesorías realizadas a los Municipios que así lo soliciten;
 
@@ -1033,7 +1083,7 @@ XVIII.- Certificar, previa autorización de la Coordinación General Jurídica, 
 
 XIX.- Las demás que le confiera el presente Reglamento, o le delegue el Coordinador General.
 
-### CAPÍTULO XXII. DE LA DIRECCIÓN DE CONTROL Y SUPERVISIÓN FINANCIERA
+### CAPÍTULO XXI. DE LA DIRECCIÓN DE PROGRAMAS COORDINADOS Y OPERACIÓN REGIONAL
 
 ###### ARTÍCULO 31.
 
@@ -1065,7 +1115,7 @@ XII.- Promover y fortalecer la operación de los órganos de control interno de 
 
 XIII.- Establecer a través de una organización regional de los Municipios, los mecanismos de coordinación y colaboración, en los que participan sus órganos de control interno; así como los Consejos de Participación Ciudadana;
 
-XlV.- Elaborar los informes para someterlos a la consideración del Comité de Planeación para el Desarrollo del Estado de Puebla, respecto de las observaciones derivadas de las auditorías realizadas a los programas y proyectos contenidos en los convenios de coordinación Federación-Estado-Municipio;
+XIV.- Elaborar los informes para someterlos a la consideración del Comité de Planeación para el Desarrollo del Estado de Puebla, respecto de las observaciones derivadas de las auditorías realizadas a los programas y proyectos contenidos en los convenios de coordinación Federación-Estado-Municipio;
 
 XV.- Verificar en coordinación con las unidades administrativas de la Secretaría de la Función Pública, el cumplimiento por parte de las dependencias y entidades de la Administración Pública Estatal, de los compromisos asumidos por el Presidente de la Republica, durante sus giras de trabajo por el Estado de Puebla;
 
@@ -1077,7 +1127,7 @@ XVIII.- Proponer al superior jerárquico, el establecimiento de lineamientos y m
 
 XIX.- Las demás que le confiera el presente Reglamento, o le delegue el superior jerárquico.
 
-### CAPÍTULO XXIII. DE LAS DIRECCIONES DE CONTROL Y SUPERVISIÓN "A" Y "B"
+### CAPÍTULO XXII. DE LA DIRECCIÓN DE CONTROL Y SUPERVISIÓN FINANCIERA
 
 ###### ARTÍCULO 32.
 
@@ -1109,7 +1159,7 @@ XII.- Proponer los lineamientos a que deban sujetarse los comisarios y auditores
 
 XIII.- Proponer al Subsecretario, la designación de los auditores externos, así como coordinar las actividades de los mismos, en la realización de auditorías, inspección, y fiscalización a las dependencias y entidades de la Administración Pública Estatal;
 
-XlV.- Analizar y opinar sobre el contenido de los informes, derivados de la práctica de auditorías, inspecciones y fiscalizaciones a las dependencias y entidades de la Administración Pública Estatal, así mismo conforme a sus resultados, proponer las acciones que se estimen pertinentes;
+XIV.- Analizar y opinar sobre el contenido de los informes, derivados de la práctica de auditorías, inspecciones y fiscalizaciones a las dependencias y entidades de la Administración Pública Estatal, así mismo conforme a sus resultados, proponer las acciones que se estimen pertinentes;
 
 XV.- Informar periódicamente en el ámbito de su competencia al superior jerárquico, sobre las auditorías y fiscalizaciones realizadas;
 
@@ -1121,7 +1171,7 @@ XVIII.- Turnar a la Coordinación General Jurídica, previo acuerdo con el Subse
 
 XIX.- Las demás que le confiera el presente Reglamento, o le delegue el Subsecretario o su superior jerárquico.
 
-### CAPÍTULO XXIV. DE LA DIRECCIÓN DE CONTROL Y SEGUIMIENTO DE OBRA
+### CAPÍTULO XXIII. DE LAS DIRECCIONES DE CONTROL Y SUPERVISIÓN "A" Y "B"
 
 ###### ARTÍCULO 33.
 
@@ -1149,9 +1199,9 @@ X.- Proponer al Coordinador General, la emisión de circulares, disposiciones y 
 
 XI.- Informar mensualmente al superior jerárquico el avance del Programa Anual de Auditorías y Revisiones; así como, la determinación de observaciones y solventación de las recomendaciones, y demás actividades relacionadas con el Programa, de las Delegaciones, Subdelegaciones y Comisarias Públicas; y
 
-XlI.- Las demás actividades que le confiera el presente Reglamento o les delegue su superior jerárquico.
+XII.- Las demás actividades que le confiera el presente Reglamento o les delegue su superior jerárquico.
 
-### CAPÍTULO XXV. DE LA DIRECCIÓN CONSULTIVA Y DE INCONFORMIDADES
+### CAPÍTULO XXIV. DE LA DIRECCIÓN DE CONTROL Y SEGUIMIENTO DE OBRA
 
 ###### ARTÍCULO 34.
 
@@ -1177,7 +1227,7 @@ IX.- Revisar y analizar los informes de auditoría y seguimiento practicados a l
 
 X.- Las demás que le confiera el presente Reglamento o le delegue su superior jerárquico.
 
-### CAPÍTULO XXVI. DE LA DIRECCIÓN DE RESPONSABILIDADES Y SITUACIÓN PATRIMONIAL
+### CAPÍTULO XXV. DE LA DIRECCIÓN CONSULTIVA Y DE INCONFORMIDADES
 
 ###### ARTÍCULO 35.
 
@@ -1205,11 +1255,11 @@ X.- Tramitar los recursos administrativos que en materia de adquisiciones, arren
 
 XI.- Proponer al Secretario las normas, lineamientos y criterios aplicables en relación con la recepción y atención de los recursos administrativos que en materia de adquisiciones, arrendamientos, servicios y obra pública sean competencia de la Secretaría;
 
-XlI.- Elaborar y mantener actualizado el registro de entidades paraestatales, solicitando anualmente al Secretario de Gobernación su publicación en el Periódico Oficial del Estado; y
+XII.- Elaborar y mantener actualizado el registro de entidades paraestatales, solicitando anualmente al Secretario de Gobernación su publicación en el Periódico Oficial del Estado; y
 
-XlII.- Las demás que le confiera el Reglamento Interior Ole delegue el superior jerárquico.
+XIII.- Las demás que le confiera el Reglamento Interior Ole delegue el superior jerárquico.
 
-### CAPÍTULO XXVII. DE LOS DELEGADOS
+### CAPÍTULO XXVI. DE LA DIRECCIÓN DE RESPONSABILIDADES Y SITUACIÓN PATRIMONIAL
 
 ###### ARTÍCULO 36.
 
@@ -1229,7 +1279,7 @@ V.- Coadyuvar en la elaboración y difusión de los manuales de organización, p
 
 VI.- Apoyar al Coordinador General Jurídico en las actividades de representación legal de la Secretaría, en todas las controversias y trámites judiciales o administrativos y en los procedimientos, juicios o relaciones laborales en que tenga interés jurídico o sea parte;
 
-VIl.- Estudiar, proponer y substanciar la resolución que corresponda al recurso de revocación que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla;
+VII.- Estudiar, proponer y substanciar la resolución que corresponda al recurso de revocación que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla;
 
 VIII.- Estudiar y substanciar el procedimiento administrativo y la resolución respectiva, en los casos en que las leyes establezcan procedimientos para aplicar sanciones, cuya competencia corresponda a esta Secretaría;
 
@@ -1239,11 +1289,11 @@ X.- Denunciar y querellarse ante el Ministerio Público que corresponda, por los
 
 XI.- Coadyuvar con las Procuradurías Generales de Justicia de los Estados, así como con la Procuraduría General de la República, en la integración de las indagatorias por los delitos cometidos por servidores públicos;
 
-XlI.- Asesorar al Secretario, así como a las unidades administrativas de la Secretaría, para que éstos puedan intervenir debidamente y dar cumplimiento a los requerimientos que le sean formulados en los juicios de amparo, así como en los procesos jurisdiccionales, que versen sobre responsabilidades de los servidores públicos;
+XII.- Asesorar al Secretario, así como a las unidades administrativas de la Secretaría, para que éstos puedan intervenir debidamente y dar cumplimiento a los requerimientos que le sean formulados en los juicios de amparo, así como en los procesos jurisdiccionales, que versen sobre responsabilidades de los servidores públicos;
 
 XIII.- Atender en apego a derecho, las solicitudes de informes que formulen las Comisiones de Derechos Humanos y determinar sobre la procedencia de la aceptación de sus recomendaciones;
 
-XlV.- Dictar, previa aprobación del Secretario, las normas, lineamientos y criterios aplicables que habrán de observar las unidades administrativas de la Secretaría, que sean competentes para determinar responsabilidades administrativas de los servidores públicos, en relación a la recepción y atención de las quejas y denuncias;
+XIV.- Dictar, previa aprobación del Secretario, las normas, lineamientos y criterios aplicables que habrán de observar las unidades administrativas de la Secretaría, que sean competentes para determinar responsabilidades administrativas de los servidores públicos, en relación a la recepción y atención de las quejas y denuncias;
 
 XV.- En los casos que así lo considere, podrá atraer los expedientes administrativos que se encuentren radicados en las unidades administrativas de la Dependencia, que sean competentes para determinar responsabilidades administrativas de los servidores públicos, para que se continúe la investigación o el procedimiento y, en su caso, se dicte la resolución definitiva;
 
@@ -1253,7 +1303,7 @@ XVII.- Recibir las denuncias que formulen las unidades administrativas de la Sec
 
 XVIII.- Vigilar la aplicación de los sistemas, procedimientos y manuales que al efecto se expidan, relacionados con la atención de quejas y denuncias que presenten los particulares;
 
-XlX.- Recibir y atender las quejas y denuncias que sean presentadas por los particulares, en términos de los ordenamientos legales;
+XIX.- Recibir y atender las quejas y denuncias que sean presentadas por los particulares, en términos de los ordenamientos legales;
 
 XX.- Conocer e investigar los actos u omisiones de los servidores públicos, substanciar los procedimientos correspondientes y fincar las responsabilidades administrativas que resulten, imponiendo las sanciones que correspondan, en los términos que señalan las leyes;
 
@@ -1261,13 +1311,101 @@ XXI.- Fincar las responsabilidades administrativas que resulten, imponiendo las 
 
 XXII.- Las demás que le confiera el Reglamento Interior, o le otorgue el superior jerárquico.
 
-### CAPÍTULO XXVIII. DE LAS COMISARÍAS
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2010)</small>
 
-### CAPÍTULO XXIX. DE LAS OFICINAS REGIONALES
+### CAPÍTULO XXVI BIS. DE LA DIRECCIÓN DE RECURSOS MATERIALES
 
-### CAPÍTULO XXX. DE LA UNIDAD DE DESARROLLO ADMINISTRATIVO, PLANEACIÓN E INFORMÁTICA
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2010)</small>
 
-### CAPÍTULO ÚNICO
+ARTÍCULO 36 BIS.- La Dirección de Recursos Materiales depende de la Coordinación General Administrativa y tendrá, además de las atribuciones señaladas en el artículo 23 de este Reglamento, las siguientes:
+
+l.- Coadyuvar con la Dirección de Recursos Financieros en la elaboración del anteproyecto del Presupuesto Anual de la Secretaría;
+
+II.- Elaborar y proponer al Coordinador General Administrativo el Programa Anual de Adquisiciones de bienes y servicios de las unidades administrativas de la Secretaría;
+
+III.- De conformidad con la normatividad aplicable y previo acuerdo con el Coordinador General Administrativo, atender y dar seguimiento a los requerimientos de bienes y servicios que soliciten las unidades administrativas de la Secretaría;
+
+IV.- Previo acuerdo con el Coordinador General Administrativo, autorizar y efectuar las adquisiciones de bienes y servicios que se requieran en la Secretaría, de conformidad con la normatividad aplicable;
+
+V.- Llevar el registro y control del inventario de los bienes muebles e inmuebles asignados a la Secretaría, conforme a la normatividad aplicable;
+
+VI.- Coordinar, vigilar y proporcionar el apoyo logístico en los actos cívicos, sociales, culturales, deportivos, de capacitación y trabajo que sea solicitado por las unidades administrativas de la Secretaría;
+
+VII.- Elaborar y someter a consideración del Coordinador General Administrativo el programa anual de mantenimiento a bienes muebles e inmuebles asignados a la Secretaría, asegurándose que los mismos se encuentren en condiciones óptimas para su uso, y en el caso aplicable, que permanezcan en lugares establecidos para su guarda;
+
+VIII.- Previo acuerdo con el superior jerárquico y de conformidad con la normatividad aplicable, atender y dar seguimiento a la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de los bienes muebles e inmuebles asignados a la Secretaría;
+
+IX.- Previo acuerdo con el Coordinador General Administrativo, gestionar y realizar los trámites necesarios, ante las instancias correspondientes, para hacer efectiva la baja o recuperación de los bienes muebles e inmuebles asignados a la Secretaría que sufran robo, pérdida, daño, deterioro o algún otro siniestro;
+
+X.- Previo acuerdo con el superior jerárquico, organizar, controlar y administrar el Archivo de Concentración de la Secretaría, de conformidad con la normatividad aplicable;
+
+XI.- Efectuar oportunamente el pago de impuestos, derechos, servicios y/o cualesquiera otra contribución respecto de aquellos bienes muebles o inmuebles asignados a la Secretaría y que los causen;
+
+XII.- Planeara, elaborar y proponer el programa interno de Protección Civil, coordinándose con las demás unidades administrativas para su implementación, así como con las autoridades correspondientes para la autorización del mismo; y
+
+XIII.- Las demás que le confiera el presente Reglamento, así como las que le delegue el Coordinador General Administrativo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO XXVI TER. DE LA DIRECCIÓN DE RECURSOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 36 TER.- La Dirección de Recursos Humanos, dependerá de la Coordinación General Administrativa y tendrá, además de las atribuciones señaladas en el artículo 23 de este Reglamento, las siguientes:
+
+I.- Coadyuvar con la Dirección de Recursos Financieros en la elaboración del anteproyecto del Presupuesto Anual de la Secretaría;
+
+II.- Previo acuerdo con el Coordinador General Administrativo, llevar a cabo el reclutamiento, selección, inducción, así como los trámites relacionados con contratación, nombramiento, prestaciones, remuneraciones, capacitación, estímulos y movimientos de personal de la Secretaría, de acuerdo con la normatividad aplicable;
+
+III.- Planear, diseñar, promover y coordinar los programas de capacitación generales y específicos que permitan desarrollar las aptitudes, habilidades y actualización de conocimientos, métodos y técnicas de trabajo de acuerdo con las necesidades de las unidades administrativas;
+
+IV.- Proporcionar a las unidades administrativas de la Secretaría que lo soliciten, la participación de estudiantes de nivel técnico y superior, como prestadores de Servicio Social con la finalidad de reforzar sus programas y acciones;
+
+V.- Elaborar y mantener actualizada la plantilla de personal;
+
+VI.- Promover y gestionar los incentivos, estímulos, recompensas, prestaciones, becas, así como los servicios de carácter social, cultural, educativo y recreativo para el personal de la Secretaría de acuerdo con la normativa, lineamientos y políticas del Gobierno del Estado de Puebla;
+
+VII.- Gestionar ante las autoridades correspondientes el pago de nómina y demás remuneraciones del personal de la Secretaría, así como la aplicación de descuentos y retenciones autorizados conforme a la normatividad aplicable;
+
+VIII.- Mantener actualizados los expedientes del personal de la Secretaría;
+
+IX.- Expedir los documentos necesarios para la debida identificación del personal de la Secretaría para el desempeño de sus funciones como servidores públicos;
+
+X.- Resolver oportunamente las aclaraciones que solicite el personal de la Secretaría en lo relativo a descuentos, faltas y otras incidencias que se les hayan aplicado, así como analizar y supervisar informes de incidencias del personal que presta sus servicios en la Secretaría; y
+
+XI.- Las demás que le confiera el presente Reglamento, la legislación aplicable, así como las que le delegue el Coordinador General Administrativo.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2010)</small>
+
+### CAPÍTULO XXVI QUATER. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2010)</small>
+
+ARTÍCULO 36 QUATER.- La Dirección de Recursos Financieros, depende de la Coordinación General Administrativa y el Titular tiene, además de las atribuciones señaladas en el artículo 23 de este Reglamento, las siguientes:
+
+I.- Elaborar y someter a consideración del Coordinador General Administrativo el anteproyecto del Presupuesto Anual de la Secretaría, así como controlar su ejercicio conforme a los programas y proyectos de las unidades administrativas, realizando las modificaciones y transferencias necesarias, de acuerdo a las disposiciones legales aplicables;
+
+II.- Coordinar e integrar las actividades relativas a los procesos de programación y presupuestación de la Secretaría, con apego a la normatividad aplicable;
+
+III.- Planear, controlar y previo acuerdo con su superior jerárquico, proporcionar oportuna y eficientemente los recursos financieros que requieren las áreas que integran la Secretaría para el cumplimiento de sus programas de trabajo, de acuerdo con la normatividad aplicable;
+
+IV.- Proponer al Coordinador General Administrativo las políticas internas para el trámite, aplicación, control y manejo de los recursos financieros de la Secretaría;
+
+V.- Autorizar, supervisar y dar seguimiento, previo acuerdo con el Coordinador General Administrativo, a los pagos con cargo al presupuesto de la Secretaría, conforme a la normatividad aplicable;
+
+VI.- Previo acuerdo con el Coordinador General Administrativo, tramitar ante las autoridades competentes, el ejercicio del presupuesto asignado, recabando la documentación comprobatoria necesaria, conforme a la normatividad aplicable;
+
+VII.- De conformidad con la normatividad y los lineamientos vigentes, custodiar y controlar los fondos y valores de la Secretaría;
+
+VIII.- Llevar la contabilidad y elaborar los estados financieros de la Secretaría, conforme a la normatividad aplicable;
+
+IX.- Formular las conciliaciones bancarias y su documentación respectiva;
+
+X.- Tomar las medidas conducentes sobre los resultados de las conciliaciones mensuales, dando cuenta de ello al Coordinador General Administrativo; y
+
+XI.- Las demás que le confiera el presente Reglamento, la legislación aplicable, así como las que le delegue el Coordinador General Administrativo.
+
+### CAPÍTULO XXVII. DE LOS DELEGADOS
 
 ###### ARTÍCULO 37.
 
@@ -1287,7 +1425,7 @@ VI.- Participar en ejercicio de sus atribuciones, en los Comités en materia de 
 
 VII.- Formular las observaciones y recomendaciones resultantes de las revisiones, inspecciones, fiscalizaciones, evaluaciones y auditorías practicadas a las unidades administrativas de la dependencia o entidad de su adscripción haciéndolas de su conocimiento;
 
-VIlI.- Requerir a las unidades administrativas de las dependencias y entidades de su adscripción, la solventación a las observaciones y recomendaciones determinadas, producto de auditorías, revisiones, inspecciones, supervisiones, fiscalizaciones y evaluaciones practicadas, en los plazos establecidos;
+VIII.- Requerir a las unidades administrativas de las dependencias y entidades de su adscripción, la solventación a las observaciones y recomendaciones determinadas, producto de auditorías, revisiones, inspecciones, supervisiones, fiscalizaciones y evaluaciones practicadas, en los plazos establecidos;
 
 IX.- Analizar la documentación e información presentada por las unidades administrativas de las dependencias y entidades auditadas o revisadas, para solventar la observaciones llevando el seguimiento respectivo a fin de verificar que se han implementado las recomendaciones planteadas en cada una de las observaciones hasta su total solventación;
 
@@ -1295,7 +1433,7 @@ X.- Participar conforme a las atribuciones conferidas en los actos de entrega-re
 
 XI.- Implementar, en base a los lineamientos que establezca la Coordinación General Jurídica, el sistema de quejas y denuncias; atendiendo las que sean presentadas en contra de los servidores públicos de la dependencia o entidad de su adscripción, con motivo de incumplimiento de sus obligaciones o de deficiencias en la prestación de los servicios, e instaurar los procedimientos de responsabilidades, determinando e imponiendo las sanciones correspondientes previstas en Ley de Responsabilidades de los Servidores Públicos;
 
-XlI.- Imponer las sanciones a los servidores públicos previstas en la Ley de Responsabilidades de los Servidores Públicos, por incumplimiento en sus obligaciones;
+XII.- Imponer las sanciones a los servidores públicos previstas en la Ley de Responsabilidades de los Servidores Públicos, por incumplimiento en sus obligaciones;
 
 XIII.- Promover y recibir la presentación de las declaraciones de situación patrimonial de los servidores públicos de las dependencias o entidades de su adscripción y en su caso proceder conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos;
 
@@ -1317,9 +1455,9 @@ XVI.- Requerir a la dependencia o entidad de su adscripción, la información y 
 
 XVII.- Recibir, analizar y en su caso emitir opinión sobre la justificación de la procedencia de contratos para la adecuación, actualización o complemento de estudios o proyectos de obra pública ya existentes en los archivos de las dependencias o entidades de la Administración Pública Estatal;
 
-XVlII.- Requerir, recibir, analizar y en su caso emitir opinión o autorización de los asuntos que competan a las dependencias y entidades del sector al que estén adscritos, sobre las facultades que otorga la Ley de Obra Pública y Servicios Relacionados con la Misma, a la Secretaría;
+XVIII.- Requerir, recibir, analizar y en su caso emitir opinión o autorización de los asuntos que competan a las dependencias y entidades del sector al que estén adscritos, sobre las facultades que otorga la Ley de Obra Pública y Servicios Relacionados con la Misma, a la Secretaría;
 
-XlX.- Solicitar a la Secretaría de Finanzas y Administración, efectúe las compulsas para comprobar la veracidad de los comprobantes expedidos por los proveedores de bienes, servicios y obra pública, con los que las dependencias y entidades justifican el ejercicio del presupuesto, e informe de los resultados de las mismas;
+XIX.- Solicitar a la Secretaría de Finanzas y Administración, efectúe las compulsas para comprobar la veracidad de los comprobantes expedidos por los proveedores de bienes, servicios y obra pública, con los que las dependencias y entidades justifican el ejercicio del presupuesto, e informe de los resultados de las mismas;
 
 XX.- En el ámbito de su competencia, certificar los documentos del área de su adscripción y coadyuvar con la Coordinación General Jurídica, para la certificación de documentos que en su caso procedan; y
 
@@ -1329,15 +1467,21 @@ XXI.- Las demás que le confiera el presente Reglamento, o le delegue el Secreta
 
 En el caso de que no exista Delegado en alguna dependencia o entidad de la Administración Pública Estatal, el Subdelegado designado por el Secretario, tendrá las atribuciones determinadas en el artículo 37 del presente Reglamento.
 
+### CAPÍTULO XXVIII. DE LAS COMISARÍAS
+
 ###### ARTÍCULO 39.
 
 Los Comisarios Públicos de la Secretaría, dependerán directamente del Coordinador General de Delegaciones y Comisarías, y tendrán las atribuciones que expresamente les confiera el Titular de la Secretaría, de conformidad con lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Puebla, el presente Reglamento y la demás normatividad vigente y aplicable.
+
+### CAPÍTULO XXIX. DE LAS OFICINAS REGIONALES
 
 ###### ARTÍCULO 40.
 
 Las Oficinas Regionales, dependerán directamente del Coordinador General de Control y Supervisión Financiera y Apoyo a Municipios, y tendrán las atribuciones que le confiera el Secretario.
 
 Las Oficinas Regionales, tendrán su cabecera en los Municipios que determine el Secretario.
+
+### CAPÍTULO XXX. DE LA UNIDAD DE DESARROLLO ADMINISTRATIVO, PLANEACIÓN E INFORMÁTICA
 
 ###### ARTÍCULO 41.
 
@@ -1355,7 +1499,7 @@ V.- Sugerir las mejoras en los procesos que permitan eficientar, los servicios y
 
 VI.- Organizarse con la Coordinación General Administrativa, para realizar los diagnósticos de operatividad interna y establecer los mecanismos necesarios con las unidades administrativas de la Secretaría, para el desarrollo administrativo permanente de la Secretaría;
 
-VlI.- Apoyar a las unidades administrativas de la Secretaría, en la elaboración de los manuales de organización, procedimientos y servicios al público;
+VII.- Apoyar a las unidades administrativas de la Secretaría, en la elaboración de los manuales de organización, procedimientos y servicios al público;
 
 VIII.- Establecer los mecanismos que faciliten el aprovechamiento de los sistemas computacionales, así como desarrollar programas y proporcionando servicios de procesamiento de datos y sistemas a las unidades administrativas de la Secretaría, apoyándolas en la operación de procesos computacionales;
 
@@ -1378,6 +1522,8 @@ XVI.- Proporcionar servicios de informática a las unidades administrativas de l
 XVII.- Las demás que le confiera el presente Reglamento, o le delegue el Secretario.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 42.
 
@@ -1414,3 +1560,17 @@ P.O. 24 DE ABRIL DE 2009.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Las actividades de la Dirección de Proyectos y Profesionalización en la Gestión de los Servicios Públicos contenidas en el Reglamento que se reforma, serán ejercidas tanto por la Dirección de Desarrollo de la Gestión Pública, como por la Dirección de Profesionalización de Servidores Públicos en el ámbito de su respectiva competencia, por lo que el personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a las unidades administrativas que la sustituyen. Por lo tanto, competerá a éstas continuar con la substanciación, hasta su conclusión, de los asuntos que se encuentren en trámite.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan o pudiesen oponerse al presente Decreto.
