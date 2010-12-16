@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2010-11-04"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO PENAL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -647,7 +647,9 @@ III.- La naturaleza del acto u omisión y de los medios empleados en su desarrol
 
 IV.- Para la individualización de las sanciones previstas en los Títulos Séptimo y Octavo, del Libro Segundo de este Código, el juzgador tomará en cuenta: si el servidor público es trabajador de base o funcionario o empleado de confianza; su antigüedad en el empleo; sus antecedentes de servicio; sus percepciones; su grado de instrucción; la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito;
 
-V.- Cuando el responsable pertenezca a un grupo étnico indígena, se tomará en consideración el grado de diferencia cultural que guarde con relación a la media del Estado, así como las costumbres y demás características de la etnia;
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+V.- Cuando el responsable pertenezca a un grupo étnico indígena, se tomará en consideración el grado de diferencia cultural que guarde con relación a la media del Estado, así como las costumbres y demás características de la etnia. De igual manera, deberá atenderse a lo que se dispone en la Ley de los Derechos de los Pueblos y Comunidades Indígenas de Sonora.
 
 Sin perjuicio de lo anterior, los jueces y tribunales, en la aplicación de las sanciones establecidas para cada delito, deberán tomar en consideración, enunciativamente, en su caso, y siempre que no constituyan elementos o modalidades del tipo penal, las siguientes circunstancias específicas: el carácter de delincuente primario; la reparación espontánea de los daños y perjuicios; la confesión oportuna; la provocación de la víctima; la senectud avanzada a partir de los sesenta y cinco años; el extremo atraso cultural; el aislamiento social del sujeto, así como la realización del hecho de noche o en despoblado; la utilización de armas o de cualquier otro instrumento o medio que implique ventaja sobre la víctima y la realización del hecho delictuoso por dos o más agentes.
 
@@ -3915,7 +3917,7 @@ Los trámites y servicios que se encuentren pendientes de revisión o resolució
 
 ###### ARTÍCULO TERCERO.
 
-Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en Vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
+Los propietarios, poseedores, administradores o encargados de establecimientos, edificaciones o inmuebles a que se refiere el artículo 37 del artículo primero de este Decreto, deberán dar cumplimiento a la misma en un plazo no mayor a 180 días, contado a partir del día siguiente al de publicación de este Decreto, a excepción de los señalados en el inciso p) de la fracción XIX del artículo 13 del mismo artículo primero de este Decreto, que deberán hacerlo dentro de los noventa días siguientes a su entrada en vigor. En caso de incumplimiento, se aplicarán las sanciones previstas en la propia Ley de Protección Civil.
 
 ###### ARTÍCULO CUARTO.
 
@@ -3946,3 +3948,17 @@ DECRETO NUMERO 68, POR EL QUE SE REFORMA LA FRACCION XI DEL ARTICULO 308 DEL COD
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Derechos Humanos, deberá emitir la convocatoria a que se refiere el artículo 13 de Ley de Derechos de los Pueblos y Comunidades Indígenas de Sonora, para los efectos de lo dispuesto en el artículo 19 de la Ley que Crea la Comisión Estatal de Derechos Humanos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
