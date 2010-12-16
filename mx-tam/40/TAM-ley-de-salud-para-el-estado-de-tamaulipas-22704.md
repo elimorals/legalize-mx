@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2010-11-02"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -329,9 +329,53 @@ XV.- Coordinar la participación de las instituciones de salud y educativas, par
 
 XVI.- Coadyuvar para que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
-XVII.- Promover e impulsar la participación de la comunidad en el cuidado de su salud; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-XVIII.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XVII.- Promover e impulsar la participación de la comunidad en el cuidado de su salud;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XVIII.- Ejecutar el Programa Nacional para la Prevención y el Tratamiento de la Fármacodependencia, que al efecto expida la Secretaría de Salud del Gobierno Federal;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XIX.- Fomentar en coordinación con la Secretaría de Salud Federal, con las instituciones públicas o privadas, la participación comunitaria y familiar en la prevención y tratamiento de la fármacodependencia, a fin de planear, programar, ejecutar y evaluar los programas y acciones relacionados con la fármacodependencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XX.- Crear centros especializados en el tratamiento, atención y rehabilitación de farmacodependientes;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XXI.- Crear y mantener actualizado un padrón de instituciones y organismos públicos o privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XXII.- Crear indicadores y base de datos que permitan identificar zonas, sectores y grupos de riesgo en materia de farmacodependencia;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XXIII.- Supervisar a las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XXIV- Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud.
 
 ###### ARTICULO 9°.
 
@@ -355,9 +399,23 @@ D).- Llevar a cabo los programas y acciones en materia de salubridad general;
 
 E).- Elaborar información estadística y proporcionarla a las autoridades competentes;
 
-F).- Consolidar la cobertura universal en la prestación de los servicios; y
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-G).- Las demás que se deriven de las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+F).- Consolidar la cobertura universal en la prestación de los servicios;
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+G).- La prevención del consumo de narcóticos y tratamiento de fármacodependencia; y
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+H).- Las demás que se deriven de las disposiciones legales aplicables.
 
 II.- En materia de Salubridad Local:
 
@@ -1367,6 +1425,12 @@ II.- La educación y difusión sobre los efectos negativos del uso de estupefaci
 
 III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+La información que reciba la población deberá estar basada en estudios científicos y le proveerá de información clara sobre los efectos y daños físicos y psicológicos que produce el consumo de estupefacientes o los psicotrópicos.
+
 ###### ARTICULO 102.
 
 La Secretaría, en coordinación con las autoridades sanitarias federales, con el objeto de evitar y prevenir el consumo de substancias inhalantes que produzcan efectos psicotrópicos en las personas, se ajustará a lo siguiente:
@@ -1390,6 +1454,20 @@ b) La carpintería, ebanistería, encuadernación y tapicería;
 c) La hojalatería y pintura automotriz o similares; y
 
 d) Los que en sus procesos de producción o de prestación de servicios utilicen dichas sustancias o similares y que produzcan efectos análogos.
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 102 bis.- El Consejo Estatal Contra las Adicciones, es el área especializada para el tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente.
+
+Como área especializada y en base a estudios rigurosos de impacto contra las adicciones deberá:
+
+I.- Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen, y
+
+II.- Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características y posibilidades económicas, acceder a los servicios que todas éstas instituciones o personas físicas ofrecen.
+
+El Consejo Estatal Contra las Adicciones establecerá centros de prevención, tratamiento y rehabilitación en los diversos municipios del Estado.
 
 ###### ARTICULO 103.
 
@@ -2031,11 +2109,15 @@ X. Concentrados celulares: las células que se obtienen de la sangre humana en l
 
 XI. Derivados de la sangre: los productos obtenidos de la misma que tienen aplicación terapéutica, diagnóstica o de investigación;
 
-XII. Disponente: la persona que en términos de la ley, le corresponde decidir sobre su cuerpo o cualquiera de sus componentes en vida y para después de su muerte;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XII. Disponente Secundario.- Alguna de las siguientes personas: el o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, conforme a la prelación señalada;
 
 XIII. Disposición de órganos, tejidos y células humanos: el conjunto de actividades relativas a la obtención, preservación, preparación, utilización, suministro y destino final de órganos, tejidos y células humanos con fines terapéuticos, de docencia o de investigación;
 
-XIV. Donador o donante: la persona que tácita o expresamente autoriza para que, en vida o después de su muerte, su cuerpo o cualquiera de sus componentes sean utilizados para trasplantes;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XIV. Donador o disponente: al que tácita o expresamente consiente la disposición en vida o para después de su muerte, de su cuerpo o de sus órganos, tejidos y células, conforme a lo dispuesto en esta ley y demás disposiciones jurídicas aplicables;
 
 XV. Donación expresa: la autorización por escrito mediante la cual el donante autoriza la disposición de sus órganos, tejidos, células o demás componentes; ésta puede recaer en favor de determinada persona o institución; asimismo, puede establecer las circunstancias de modo, lugar y tiempo para dichos efectos;
 
@@ -2087,11 +2169,13 @@ III. El receptor del componente anatómico que vaya a ser extraído sea una pers
 
 V. La ablación de órganos, de tejidos o de células, no implique riesgo de incapacidad funcional temporal o permanente para el donante.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 191.
 
-Una vez ocurrida la pérdida de la vida de una persona en los términos de esta ley, se podrá disponer de todos o parte de sus componentes anatómicos cuando exista previa autorización. Si no se obtuvo su previo consentimiento, se procederá mediante autorización de el o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, o los familiares por afinidad, conforme a la prelación señalada.
+Una vez ocurrida la pérdida de la vida de una persona en los términos de esta ley, se podrá disponer de todos o parte de sus componentes anatómicos cuando exista previa autorización. Si no se obtuvo su previo consentimiento, se procederá mediante autorización del disponente secundario.
+
+En todos los casos se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, condiciones que se deberán manifestar en el acta elaborada para tales efectos por el comité interno respectivo.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
@@ -2313,7 +2397,9 @@ XVIII. Celebrar los convenios que sean necesarios para el cumplimiento de sus fu
 
 XIX. Realizar las demás acciones que directa o indirectamente contribuyan al fomento de la cultura de la donación altruista de órganos, tejidos y células humanos;
 
-XX. Hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad, sin demérito de las atribuciones del Centro Nacional de Trasplantes para tales efectos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+XX. Hará constar el mérito y altruismo del donador y de su familia;
 
 XXI. Promover en la sociedad las aportaciones altruistas de carácter económico a favor de las actividades del Centro, orientar a los aportantes sobre las formas de realizarlo e informar al Consejo y, por su conducto, a la Secretaría de Salud, de los recursos que pueden recibirse por esa vía, a fin de que se realicen las gestiones administrativas para documentar las aportaciones y aplicarlas al desarrollo del Centro; y
 
@@ -2363,7 +2449,9 @@ III. En caso de no localizar el consentimiento expreso del donador potencial, el
 
 IV. En todos los casos, para la disposición de órganos, tejidos o células humanos, el Coordinador Hospitalario avisará de inmediato al Centro Estatal de Trasplantes para que se obtengan las constancias pertinentes para integrar el expediente correspondiente, en los términos de la Ley General de Salud;
 
-V. El Centro Estatal de Trasplantes establecerá comunicación inmediata con el Registro Nacional de Trasplantes y verificará la lista de potenciales receptores de acuerdo al orden cronológico de registro, la compatibilidad, la oportunidad, los beneficios esperados y la urgencia del caso, para la determinación de la asignación de los órganos, tejidos y células humanos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+V. El Centro Estatal de Trasplantes establecerá comunicación inmediata con el Registro Nacional de Trasplantes y verificará la lista de potenciales receptores de acuerdo al orden cronológico de registro, la compatibilidad, la oportunidad, los beneficios esperados y la urgencia del caso, así como la ubicación hospitalaria e institucional del donador para la determinación de la asignación de los órganos, tejidos y células humanos. Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a las bases de datos hospitalarias, institucionales, estatales y nacional que se integrarán con los datos de los pacientes registrados en los Centros de trasplantes nacional y estatal;
 
 VI. Una vez determinada la asignación, se establecerá comunicación inmediata con el receptor, procurando, de ser posible, proveer a éste de los medios de transporte necesarios para su traslado hacia el establecimiento de salud donde recibirá el trasplante;
 
@@ -2371,11 +2459,23 @@ VII. De presentarse las condiciones óptimas para la intervención dentro del pl
 
 VIII. Habiéndose realizado el trasplante, el Coordinador Hospitalario dará aviso oportuno por escrito del procedimiento realizado al Centro Nacional de Trasplantes, al Registro Nacional de Trasplantes, al Centro Estatal de Trasplantes y al Registro Estatal de Trasplantes.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+ARTICULO 209 BIS.- Los establecimientos en los que se extraigan órganos, tejidos y células deberán de contar con un Comité Interno de Coordinación para la donación de Órganos y tejidos, que será presidido por el Director General o su inmediato inferior que cuente con un alto nivel de conocimientos médicos, académicos y profesionales. Este Comité será responsable de hacer la selección del establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviara los órganos tejidos o células, de conformidad con lo que se establece en la presente ley y demás disposiciones jurídicas aplicables.
+
+A su vez, los establecimientos que realicen los actos de trasplantes deberán contar con un Comité Interno de Trasplantes que será presidido por el Director Genera o su inmediato inferior que cuente con un alto nivel de conocimientos médicos, académicos y profesionales y será responsable de hacer la selección de disponentes y receptores para trasplante, de conformidad con lo que se establece en la Ley General de Salud, la presente ley y demás disposiciones jurídicas aplicables. Los establecimientos en los que se extraigan órganos y tejidos y se realicen trasplantes, únicamente deberán contar con un Comité Interno de Trasplantes.
+
+El Comité Interno de Trasplantes deberá coordinarse con el Comité de Bioética de la institución en los asuntos de su competencia.
+
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 210.
 
 El Gobierno del Estado otorgará todas las facilidades posibles para el aprovechamiento de los vehículos terrestres y aéreos a su disposición, para el traslado de órganos, tejidos y células humanos destinados a ser trasplantados, así como a los potenciales receptores de la donación, cuando la urgencia del caso así lo amerite.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
+El traslado de órganos, tejidos y células, adecuadamente etiquetados e identificados, podrá realizarse en cualquier medio de transporte por personal debidamente acreditado, bajo la responsabilidad del establecimiento autorizado para realizar trasplantes o para la disposición de órganos, tejidos y células.
 
 T R A N S I T O R I O S
 
@@ -2512,3 +2612,23 @@ P.O. 2 DE NOVIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+DECRETO No. LX-1507, SE REFORMAN LOS ARTICULOS 187, FRACCIONES XII Y XIV; 191; 205, FRACCION XX; 209, FRACCION V; SE ADICIONAN LOS ARTICULOS 209 BIS, 210, PARRAFO SEGUNDO, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2010.
+
+DECRETO No. LX-1567, SE REFORMAN LOS ARTICULOS 8 FRACCIONES XVII Y XVIII Y 10 FRACCION I INCISOS F) Y G); Y SE ADICIONAN LAS FRACCIONES XIX, XX, XXI, XXII, XXIII Y XXIV DEL ARTICULO 8, EL INCISO H) DE LA FRACCION I DEL ARTICULO 10, UN PARRAFO SEGUNDO AL ARTICULO 101 Y EL ARTICULO 102 BIS DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el 21 de agosto de 2012 y se publicará en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El o los centros especializados en el tratamiento y rehabilitación de los farmacodependientes se establecerán en el término máximo de dos años a partir de la vigencia del presente Decreto.
