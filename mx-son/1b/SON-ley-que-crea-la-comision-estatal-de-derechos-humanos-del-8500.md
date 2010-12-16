@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-estatal-de-derechos-humanos-del-8500"
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-08"
-last_updated: "2006-05-15"
+last_updated: "2010-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE MAYO DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de octubre de 1992.
 
@@ -216,6 +216,10 @@ El Consejo contará con un Secretario Técnico que será designado por los propi
 ###### ARTICULO 19.
 
 El nombramiento de los miembros del Consejo será formulado por el Titular del Poder Ejecutivo sometiéndolo a la ratificación del Congreso. Para dicho particular se efectuarán las designaciones correspondientes procurando un equilibrio entre las diversas regiones y actividades del Estado en relación con trayectorias de honorabilidad y presencia en los ámbitos del ejercicio ciudadano.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
+
+También habrá un representante indígena como miembro del Consejo, el cual será designado en los términos establecidos en el artículo 13 de la Ley de Derechos de los Pueblos y Comunidades Indígenas de Sonora.
 
 Si el Congreso niega total o parcialmente la ratificación precitada, permanecerán en el cargo el o los consejeros que no se hayan substituido, hasta por tres meses adicionales, en cuyo lapso el Gobernador formulará nuevas propuestas para el efecto de la integración correspondiente.
 
@@ -632,3 +636,17 @@ Dentro de un plazo de quince días hábiles a partir del inicio de la vigencia d
 B.O. 15 DE MAYO DE 2006.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 16 DE DICIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, la Comisión Estatal de Derechos Humanos, deberá emitir la convocatoria a que se refiere el artículo 13 de Ley de Derechos de los Pueblos y Comunidades Indígenas de Sonora, para los efectos de lo dispuesto en el artículo 19 de la Ley que Crea la Comisión Estatal de Derechos Humanos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
